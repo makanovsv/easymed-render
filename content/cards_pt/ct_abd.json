@@ -1,0 +1,70 @@
+{
+ "title": "Tomografia do abdome com contraste",
+ "also": [
+  "tomografia da barriga",
+  "tomografia com contraste",
+  "TC de abdome"
+ ],
+ "what": "A tomografia mostra os órgãos da barriga em camadas. O contraste na veia deixa os vasos e os órgãos mais visíveis.",
+ "why": "Em dores na barriga, para procurar tumores e pedras, depois de um trauma ou para acompanhar o tratamento.",
+ "duration": "de 15 a 30 minutos na sala, às vezes mais, se for preciso beber contraste",
+ "tell_doctor": [
+  "Alergias, principalmente a iodo ou a contraste",
+  "Doenças dos rins. Podem pedir um exame de creatinina",
+  "Diabetes e remédios para diabetes. O médico vai dizer se é preciso mudar algo",
+  "Gravidez ou chance de gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente de 4 a 6 horas sem comer. Água pode beber. O horário exato a clínica informa."
+  },
+  {
+   "title": "Contraste para beber",
+   "text": "Às vezes pedem para beber um contraste 1 a 2 horas antes do exame. Se pediram, chegue mais cedo."
+  },
+  {
+   "title": "Metal",
+   "text": "Roupa sem metal na região da barriga. O cinto e as joias serão retirados."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exame de creatinina, se pediram",
+  "Tomografias, ressonâncias e ultrassons anteriores"
+ ],
+ "steps": [
+  "Colocam um cateter fino na veia do braço",
+  "Você se deita na mesa, com os braços acima da cabeça",
+  "A mesa passa por dentro de um anel largo. Primeiro, sem contraste",
+  "Quando ouvir \"inspire e prenda a respiração\", segure o ar alguns segundos",
+  "Aplicam o contraste e fazem mais uma série de imagens"
+ ],
+ "feel": [
+  "Com o contraste, vem uma onda de calor pelo corpo, gosto de metal na boca e, às vezes, sensação de vontade de ir ao banheiro. É normal e passa em um minuto"
+ ],
+ "after": [
+  "Tiram o cateter. Podem pedir para você ficar na clínica de 15 a 30 minutos",
+  "Nesse dia, beba mais água, se o médico não disser o contrário",
+  "O laudo sai normalmente em 1 a 2 dias"
+ ],
+ "red_flags": [
+  "Coceira, manchas na pele, inchaço no rosto ou falta de ar: avise a equipe na hora ou, se já estiver em casa, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Quanta radiação tem a tomografia?",
+   "a": "Mais que um raio X, mas a dose é calculada para cada caso. Se o exame foi indicado pelo médico, o benefício é maior que o risco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 6,
+   "text": "Daqui a 6 horas é a tomografia com contraste. Se a clínica pediu, a partir de agora não coma. Água pode."
+  },
+  {
+   "hoursBefore": 2,
+   "text": "A tomografia está chegando. Leve o exame de creatinina e as imagens anteriores."
+  }
+ ]
+}

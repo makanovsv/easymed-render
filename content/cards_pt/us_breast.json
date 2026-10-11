@@ -1,0 +1,73 @@
+{
+ "title": "Ultrassom das mamas",
+ "also": [
+  "ultrassom de mama",
+  "ultrassom mamário",
+  "ultrassom dos seios"
+ ],
+ "what": "O médico examina as mamas e as axilas com ultrassom. É seguro, sem radiação, e serve para qualquer idade.",
+ "why": "Quando há caroço ou dor na mama, secreção no mamilo, para prevenção e como complemento da mamografia.",
+ "duration": "normalmente de 15 a 20 minutos",
+ "tell_doctor": [
+  "O primeiro dia da última menstruação",
+  "Se você sentiu um caroço, onde exatamente",
+  "Se você fez cirurgia nas mamas ou tem prótese",
+  "Se você está grávida ou amamentando",
+  "Se você toma remédios com hormônios"
+ ],
+ "prepare": [
+  {
+   "title": "Dia do ciclo",
+   "text": "Se você menstrua, é melhor ir na primeira metade do ciclo, normalmente entre o 5º e o 12º dia. Depois da menopausa, qualquer dia."
+  },
+  {
+   "title": "Urgente",
+   "text": "Se apareceu um caroço ou secreção, não espere o dia certo do ciclo. Marque logo."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma roupa confortável, fácil de tirar da cintura para cima."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ultrassons e mamografias anteriores, para comparar",
+  "Um lenço ou toalha"
+ ],
+ "steps": [
+  "Você tira a roupa da cintura para cima e deita de barriga para cima",
+  "Coloca o braço atrás da cabeça",
+  "O médico passa o gel e examina cada mama",
+  "As axilas são vistas à parte: lá ficam os gânglios"
+ ],
+ "feel": [
+  "O gel é gelado",
+  "O aparelho aperta um pouco, mas não dói"
+ ],
+ "after": [
+  "Você já pode voltar às suas atividades",
+  "O laudo normalmente é dado na hora",
+  "Se acharem algo, o médico pode recomendar mamografia ou um novo exame depois de um tempo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Em que dia do ciclo fazer o ultrassom das mamas?",
+   "a": "Normalmente entre o 5º e o 12º dia do ciclo. Nessa fase a mama fica mais macia, e o médico vê melhor."
+  },
+  {
+   "q": "O que é melhor: ultrassom ou mamografia?",
+   "a": "Um completa o outro. Antes dos 40 anos, se faz mais o ultrassom. Depois dos 40, a mamografia, às vezes os dois. Quem decide é o médico."
+  },
+  {
+   "q": "Posso fazer ultrassom das mamas amamentando?",
+   "a": "Sim, pode. Antes do exame, é melhor amamentar ou tirar o leite."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem ultrassom das mamas. Leve os ultrassons e as mamografias anteriores."
+  }
+ ]
+}

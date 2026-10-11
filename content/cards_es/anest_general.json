@@ -1,0 +1,87 @@
+{
+ "title": "Anestesia general",
+ "also": [
+  "anestesia",
+  "cirugía con anestesia general",
+  "dormir para la operación"
+ ],
+ "what": "Es un sueño profundo con medicamentos. No sientes ni recuerdas nada. El anestesiólogo está contigo todo el tiempo.",
+ "why": "Para cirugías que necesitan que no sientas dolor y que estés completamente quieto.",
+ "duration": "dura toda la cirugía; despertar suele tomar de 10 a 30 minutos",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y los de la diabetes. El médico decide cuáles suspender",
+  "Si tienes alergias",
+  "Enfermedades del corazón o de los pulmones, o apnea del sueño",
+  "Si tú o algún familiar tuvo problemas con la anestesia",
+  "Si fumas o tomas alcohol",
+  "Si tienes dientes flojos o una prótesis dental removible"
+ ],
+ "prepare": [
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo hablará contigo. Cuéntale de tu salud y hazle tus preguntas."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes nada 6 horas antes, y agua natural hasta 2 horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "El médico te dirá qué medicamentos tomar en la mañana. No suspendas nada por tu cuenta."
+  },
+  {
+   "title": "Antes de la cirugía",
+   "text": "Quítate joyas, lentes de contacto y prótesis dentales removibles. Quítate el esmalte de las uñas."
+  }
+ ],
+ "bring": [
+  "Resultados de análisis y estudios",
+  "La lista de tus medicamentos",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena",
+  "En el quirófano te pegan sensores en el pecho y en un dedo",
+  "Te dan oxígeno con una mascarilla",
+  "El anestesiólogo te pone el medicamento y te duermes en un minuto",
+  "Mientras duermes, te ayudan a respirar y vigilan tu corazón",
+  "Al terminar, despiertas en la sala de recuperación"
+ ],
+ "feel": [
+  "Te duermes rápido y no recuerdas la cirugía",
+  "Al despertar, sueño y a veces escalofríos",
+  "Puede rasparte la garganta, por el tubo para respirar",
+  "A veces náuseas. Avísale a la enfermera y te darán medicamento"
+ ],
+ "after": [
+  "Puedes comer y beber cuando el médico lo permita",
+  "El primer día no manejes",
+  "El primer día no tomes decisiones importantes ni alcohol",
+  "El cansancio y la distracción suelen pasar en 1 o 2 días"
+ ],
+ "red_flags": [
+  "Te cuesta respirar o te duele el pecho: llama a emergencias",
+  "Vómito fuerte que no se detiene",
+  "Confusión que no se quita"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo despertar durante la anestesia?",
+   "a": "Pasa muy rara vez. El anestesiólogo vigila todo el tiempo qué tan profundo duermes con los aparatos."
+  },
+  {
+   "q": "¿Por qué no puedo comer antes de la anestesia?",
+   "a": "Dormido, lo que hay en el estómago puede pasar a los pulmones. Con el estómago vacío eso no pasa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía con anestesia general. Come y toma agua solo hasta la hora que te dijo la clínica."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Tu última comida, según te indicó la clínica. Quítate el esmalte de las uñas y las joyas."
+  }
+ ]
+}

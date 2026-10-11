@@ -1,0 +1,76 @@
+{
+ "title": "Glucosa en sangre",
+ "also": [
+  "azúcar en la sangre",
+  "análisis de azúcar",
+  "glucosa en ayunas"
+ ],
+ "what": "El análisis muestra cuánta azúcar tienes en la sangre en este momento. La sangre se toma de la vena o del dedo.",
+ "why": "Para revisar si hay diabetes, si tienes mucha sed, orinas seguido o te sientes débil, en un chequeo médico o para controlar el tratamiento.",
+ "duration": "la toma, de 2 a 5 minutos; el resultado suele estar el mismo día o al día siguiente",
+ "tell_doctor": [
+  "Si tienes diabetes y tomas pastillas o insulina. Díselo al médico: él decide qué hacer en la mañana",
+  "Si estás embarazada",
+  "Si estuviste enfermo hace poco o tomas hormonas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Estrictamente en ayunas: normalmente de 8 a 14 horas sin comer. Puedes tomar agua natural."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Una cena normal, sin comer de más y sin alcohol. No cambies tu alimentación unos días antes del análisis."
+  },
+  {
+   "title": "En la mañana",
+   "text": "No fumes, no masques chicle y no tomes bebidas dulces, té ni café."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Si tienes diabetes, pregúntale al médico cómo tomar tus medicamentos el día del análisis."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Algo de comer, para comer justo después del análisis, sobre todo si tienes diabetes"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en la mesita",
+  "Limpian la piel con antiséptico",
+  "Sientes un piquete breve en la vena o en el dedo",
+  "La sangre llena el tubo",
+  "Ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve"
+ ],
+ "after": [
+  "Puedes comer justo después del análisis",
+  "El médico revisa el resultado. Si hay dudas, repiten el análisis o piden otros"
+ ],
+ "red_flags": [
+  "Si tienes diabetes: si en ayunas empiezas a temblar, sudar frío o sentirte confundido, come algo de azúcar y avísale a la enfermera"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo lavar los dientes antes del análisis de azúcar?",
+   "a": "Normalmente es mejor sin pasta o con una pasta sin azúcar. Es un detalle, pero algunos laboratorios lo piden."
+  },
+  {
+   "q": "¿La glucosa del dedo y la de la vena son lo mismo?",
+   "a": "Casi, pero los números cambian un poco. Para hacer un diagnóstico, los médicos suelen usar la sangre de la vena."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de azúcar. Después de la cena ya no comas. Puedes tomar agua."
+  },
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu análisis de azúcar. No comas nada ni tomes bebidas dulces. Lleva algo de comer para después."
+  }
+ ]
+}

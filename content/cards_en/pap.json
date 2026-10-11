@@ -1,0 +1,76 @@
+{
+ "title": "Pap test (cervical smear)",
+ "also": [
+  "Pap smear",
+  "cervical smear",
+  "cervical screening",
+  "smear test"
+ ],
+ "what": "The gynecologist takes cells from your cervix with a soft brush. They are checked under a microscope to find early changes that could turn into cancer.",
+ "why": "For regular cervical cancer screening, and if past tests showed changes. Often done together with an HPV test.",
+ "duration": "the test itself takes 1 to 2 minutes, and results usually take 1 to 2 weeks",
+ "tell_doctor": [
+  "The first day of your last period",
+  "If you are pregnant",
+  "If past smears showed changes, or you had treatment on your cervix",
+  "If you have had the HPV vaccine"
+ ],
+ "prepare": [
+  {
+   "title": "Your cycle",
+   "text": "Not during your period. The middle of your cycle is usually best. Check with your doctor."
+  },
+  {
+   "title": "2 days before",
+   "text": "No sex, douching, suppositories, creams, or vaginal tablets."
+  },
+  {
+   "title": "Exams",
+   "text": "If you recently had an exam with gel or a colposcopy, tell your doctor. The smear is sometimes moved to another day."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past smear results",
+  "A pad for afterward"
+ ],
+ "steps": [
+  "You undress below the waist and lie on the exam chair",
+  "The doctor gently inserts a disposable speculum",
+  "A soft brush collects cells from your cervix. It takes a few seconds",
+  "The sample goes into a small jar with liquid or onto a glass slide",
+  "The speculum is removed"
+ ],
+ "feel": [
+  "Pressure from the speculum",
+  "A brief pulling feeling when the cells are taken"
+ ],
+ "after": [
+  "Light spotting during the day is normal",
+  "If the result shows changes, the doctor will order a repeat test or an exam. This does not mean you have cancer",
+  "Your doctor will tell you how often to repeat it, based on the screening program"
+ ],
+ "red_flags": [
+  "Strong pain or heavy bleeding after the test: see a doctor or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "How often do I need a Pap test?",
+   "a": "Usually every 3 to 5 years, depending on your age and your HPV test results. Your doctor will tell you your schedule."
+  },
+  {
+   "q": "Does an abnormal Pap test mean cancer?",
+   "a": "Usually not. More often it is cell changes that are easy to treat. That is what screening is for."
+  },
+  {
+   "q": "Does a Pap test hurt?",
+   "a": "Usually not. It is unpleasant, but quick. Relax and breathe calmly."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Pap test in 2 days. Starting today, no sex, douching, suppositories, or creams."
+  }
+ ]
+}

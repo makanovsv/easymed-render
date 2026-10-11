@@ -1,0 +1,80 @@
+{
+ "title": "Endoscopia (gastroscopia)",
+ "also": [
+  "endoscopia",
+  "gastroscopia",
+  "endoscopia alta",
+  "panendoscopia"
+ ],
+ "what": "El médico revisa el esófago, el estómago y el duodeno con un tubo delgado y flexible con cámara, que entra por la boca.",
+ "why": "Por agruras, dolor de estómago, anemia, sospecha de úlcera, gastritis o Helicobacter, y para tomar una biopsia.",
+ "duration": "el estudio dura de 5 a 15 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. Quizá haya que cambiarlos por un tiempo; lo decide el médico",
+  "Si tienes diabetes",
+  "Si tienes alergia a la lidocaína o a otros anestésicos",
+  "Si estás embarazada",
+  "Si quieres hacerlo dormido. Es un servicio aparte"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "No comas durante 8 horas. La noche anterior, una cena ligera y sin alcohol."
+  },
+  {
+   "title": "Agua",
+   "text": "Normalmente puedes tomar agua hasta 2 a 4 horas antes del estudio. Pregunta en tu clínica."
+  },
+  {
+   "title": "En la mañana",
+   "text": "No fumes ni masques chicle. Eso aumenta el jugo del estómago."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los resultados de endoscopias anteriores",
+  "Una toalla o un protector, si la clínica lo pide"
+ ],
+ "steps": [
+  "Te quitas la dentadura postiza y los lentes",
+  "Te ponen un spray anestésico en la garganta y se adormece",
+  "Te acuestas sobre el lado izquierdo y te ponen una boquilla de plástico entre los dientes",
+  "El médico mete el tubo, tú tragas una vez y luego avanza solo",
+  "Respira tranquilo por la nariz. No tragues la saliva, te la van aspirando",
+  "A veces toman un pedacito de tejido para análisis. No duele",
+  "Sacan el tubo"
+ ],
+ "feel": [
+  "Al principio puedes tener ganas de vomitar. Es normal. Respirar parejo por la nariz ayuda",
+  "Sensación de llenura por el aire",
+  "Normalmente no hay dolor"
+ ],
+ "after": [
+  "No comas ni bebas de 30 a 60 minutos, hasta que se quite el adormecimiento de la garganta",
+  "Puedes sentir un poco de carraspera hasta la noche",
+  "El reporte te lo dan en ese momento. La biopsia suele tardar de 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el pecho o el estómago, vómito con sangre, heces negras o fiebre alta: ve al médico de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Me pueden hacer la endoscopia dormido?",
+   "a": "Sí, con sedación. Después no puedes manejar el resto del día y necesitas un acompañante."
+  },
+  {
+   "q": "¿Duele tragar el tubo?",
+   "a": "Doler, no. Es molesto los primeros segundos, eso sí. Respirar tranquilo por la nariz ayuda."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "Mañana es tu endoscopia. Desde ahora ya no comas. Agua, solo hasta la hora que te dijo la clínica."
+  },
+  {
+   "hoursBefore": 1.5,
+   "text": "Ya casi es tu endoscopia. No fumes. Lleva la orden médica y tus resultados anteriores."
+  }
+ ]
+}

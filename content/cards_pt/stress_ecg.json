@@ -1,0 +1,72 @@
+{
+ "title": "Teste ergométrico",
+ "also": [
+  "teste de esforço",
+  "eletrocardiograma de esforço",
+  "teste na esteira"
+ ],
+ "what": "O eletrocardiograma é gravado enquanto você anda na esteira ou pedala na bicicleta ergométrica. O esforço aumenta aos poucos.",
+ "why": "Para ver se chega sangue suficiente ao coração no esforço: em dor no peito ao caminhar, depois de colocar stent ou antes de praticar esporte.",
+ "duration": "normalmente de 30 a 60 minutos na sala, o esforço em si dura de 8 a 15 minutos",
+ "tell_doctor": [
+  "Quais remédios você toma. O médico pode pedir para não tomar alguns remédios do coração no dia do teste. Não pare por conta própria",
+  "Se você tem dor no peito em repouso, pressão alta ou teve infarto há pouco tempo",
+  "Doenças nas articulações e nas pernas: a esteira pode não ser indicada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Uma refeição leve 2 a 3 horas antes do teste. Não venha com fome nem de barriga cheia."
+  },
+  {
+   "title": "Café e cigarro",
+   "text": "Sem café, chá forte e cigarro algumas horas antes do teste."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa de ginástica e calçado confortável para caminhar. Toalha e água."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Eletrocardiogramas e relatórios anteriores",
+  "Lista de remédios",
+  "Roupa de ginástica"
+ ],
+ "steps": [
+  "O médico pergunta como você está e mede a pressão",
+  "Colam eletrodos no peito e colocam o manguito de pressão no braço",
+  "Você começa a andar devagar. A cada poucos minutos, a velocidade ou a inclinação aumentam",
+  "A pressão e o eletrocardiograma são registrados o tempo todo, com o médico ao lado",
+  "O teste para quando o coração chega à meta ou se você passar mal",
+  "Você descansa alguns minutos, e o registro continua"
+ ],
+ "feel": [
+  "Você vai se cansar, como numa subida rápida. Isso é esperado",
+  "Respiração e coração acelerados são normais"
+ ],
+ "after": [
+  "Normalmente, depois de 10 a 15 minutos, você já pode ir para casa",
+  "O médico explica o resultado no mesmo dia"
+ ],
+ "red_flags": [
+  "Durante o teste: dor ou pressão no peito, falta de ar forte ou tontura. Avise o médico na hora",
+  "Em casa: dor no peito que não passa. Ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "É perigoso?",
+   "a": "O teste é feito com o médico acompanhando e é interrompido ao primeiro sinal de problema. Os riscos são pequenos, mas avise logo se sentir dor no peito."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o teste ergométrico. Separe roupa de ginástica, tênis e a lista de remédios."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Faça um lanche leve agora e não coma mais até o teste. Sem café e sem cigarro."
+  }
+ ]
+}

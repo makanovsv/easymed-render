@@ -1,0 +1,71 @@
+{
+ "title": "Anestesia local",
+ "also": [
+  "anestesia local",
+  "inyección para no sentir dolor",
+  "adormecer la zona"
+ ],
+ "what": "Te inyectan o te aplican un medicamento para el dolor en una zona pequeña del cuerpo. Estás despierto, pero esa zona no siente dolor.",
+ "why": "En cirugías y procedimientos pequeños: arreglar o sacar dientes, quitar lunares, poner puntos.",
+ "duration": "normalmente hace efecto de 1 a varias horas",
+ "tell_doctor": [
+  "Si tienes alergias, sobre todo a las inyecciones para el dolor",
+  "Cómo te fue con la anestesia local antes",
+  "Tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico decide qué hacer",
+  "Enfermedades del corazón o presión alta",
+  "Si estás embarazada o das pecho"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer antes algo ligero. Pregunta en tu clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Toma tus medicamentos de siempre como de costumbre, salvo que el médico te diga otra cosa."
+  },
+  {
+   "title": "Cómo te sientes",
+   "text": "Llega descansado. Si estás muy nervioso, díselo al médico."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de tus medicamentos",
+  "Una identificación"
+ ],
+ "steps": [
+  "El médico limpia la piel o la mucosa",
+  "A veces primero pone un gel o spray para el dolor",
+  "Te inyecta con una aguja delgada",
+  "Espera unos minutos a que se adormezca",
+  "Revisa que no te vaya a doler y empieza el procedimiento"
+ ],
+ "feel": [
+  "Un piquete breve y ardor unos segundos",
+  "Luego la zona se siente dormida, como ajena o hinchada",
+  "Sientes que te tocan y presionan, pero no dolor",
+  "Si te duele, dilo. El médico te pondrá más anestesia"
+ ],
+ "after": [
+  "Lo dormido suele quitarse en 1 a 3 horas",
+  "Mientras tanto, cuida esa zona. No te muerdas el cachete ni el labio",
+  "No comas nada caliente mientras tengas la boca dormida",
+  "Si sigue dormido más de un día, avísale al médico"
+ ],
+ "red_flags": [
+  "Te cuesta respirar, se te hincha la cara o te salen ronchas en el cuerpo: llama a emergencias",
+  "Mareo fuerte, corazón acelerado o convulsiones: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Se siente algo con anestesia local?",
+   "a": "Sí, presión y que te tocan. No debe doler. Si te duele, díselo al médico."
+  },
+  {
+   "q": "¿Cuánto tarda en quitarse la anestesia local?",
+   "a": "Normalmente de 1 a 3 horas. Depende del medicamento y de dónde te inyectaron."
+  }
+ ],
+ "reminders": []
+}

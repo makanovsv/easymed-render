@@ -1,0 +1,87 @@
+{
+ "title": "Gynecology checkup",
+ "also": [
+  "gynecologist visit",
+  "pelvic exam",
+  "well-woman exam",
+  "Pap smear"
+ ],
+ "what": "The doctor asks about your health, examines you on the exam chair, and takes swabs if needed.",
+ "why": "Usually once a year as a checkup. Also for lower belly pain, unusual discharge, problems with your cycle, or when planning a pregnancy.",
+ "duration": "usually 20 to 30 minutes",
+ "tell_doctor": [
+  "The date your last period started",
+  "What medicines and birth control you take",
+  "If you could be pregnant",
+  "Any births, surgeries, or illnesses",
+  "If you have never had sex. Tell the doctor, and the exam will be done differently"
+ ],
+ "prepare": [
+  {
+   "title": "When to go",
+   "text": "For a routine checkup, day 5 to 10 of your cycle is usually best. Swabs are usually not taken during a period. Check with your clinic."
+  },
+  {
+   "title": "1 to 2 days before",
+   "text": "If a swab will be taken: usually no sex, douching, or vaginal suppositories, unless your doctor prescribed them."
+  },
+  {
+   "title": "Hygiene",
+   "text": "A normal shower the night before or in the morning. No special intimate hygiene products."
+  },
+  {
+   "title": "Before you go in",
+   "text": "Use the toilet. The exam is easier with an empty bladder."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past test results and ultrasound reports",
+  "Socks and a disposable sheet, if your clinic does not provide them"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms, cycle, and health",
+  "You undress below the waist behind a screen",
+  "You lie on the exam chair and put your feet in the foot rests",
+  "The doctor checks the outer genitals",
+  "A speculum is inserted to look at the cervix, and swabs are taken if needed",
+  "Then the doctor checks the uterus and ovaries by hand, pressing on your belly",
+  "Sometimes the doctor also checks your breasts"
+ ],
+ "feel": [
+  "Coolness and pressure from the speculum",
+  "Uncomfortable, but usually not painful",
+  "If it hurts, say so. The doctor will stop or use a smaller speculum",
+  "The more you relax your belly and breathe evenly, the easier it is"
+ ],
+ "after": [
+  "After a swab, you may have a little bloody discharge for the rest of the day. This is normal",
+  "Swab results are usually ready in a few days",
+  "You can go back to your day straight away"
+ ],
+ "red_flags": [
+  "Heavy bleeding",
+  "Severe pain in the lower belly",
+  "Fever and pain after the exam"
+ ],
+ "faq": [
+  {
+   "q": "When is the best time to see a gynecologist?",
+   "a": "For a routine checkup, usually after your period, on day 5 to 10 of your cycle. If you have pain or bleeding, go right away. Do not wait."
+  },
+  {
+   "q": "Can I see a gynecologist during my period?",
+   "a": "A routine checkup is better rescheduled. If you have pain, heavy bleeding, or an urgent question, go. Do not put it off."
+  },
+  {
+   "q": "How is the exam done if I have never had sex?",
+   "a": "The doctor examines you gently, without a speculum. An ultrasound may be ordered if needed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Gynecology checkup in 2 days. If a swab will be taken, usually no sex, douching, or suppositories."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Glicose no sangue",
+ "also": [
+  "glicemia",
+  "exame de açúcar no sangue",
+  "glicemia de jejum"
+ ],
+ "what": "O exame mostra quanto açúcar há no sangue agora. O sangue é colhido da veia ou do dedo.",
+ "why": "Para checar diabetes, quando há sede, vontade de urinar toda hora, fraqueza, em exames de rotina e para acompanhar o tratamento.",
+ "duration": "a coleta leva de 2 a 5 minutos, o resultado sai normalmente no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Se você tem diabetes e toma comprimidos ou insulina, avise o médico. Ele decide o que fazer de manhã",
+  "Se você está grávida",
+  "Se você esteve doente há pouco tempo ou toma hormônios"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Jejum total: normalmente de 8 a 14 horas sem comer. Água pura pode beber."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Um jantar normal, sem exagero e sem álcool. Não mude a alimentação nos dias antes do exame."
+  },
+  {
+   "title": "De manhã",
+   "text": "Não fume, não masque chiclete, não tome nada doce, nem chá ou café."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Se você tem diabetes, pergunte ao médico como tomar os remédios no dia do exame."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento",
+  "Comida, para comer logo depois do exame, principalmente se você tem diabetes"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço na mesinha",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida na veia ou no dedo",
+  "O sangue enche o tubo",
+  "Colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida"
+ ],
+ "after": [
+  "Logo depois do exame, já pode comer",
+  "Quem avalia o resultado é o médico. Se houver dúvida, o exame é repetido ou pedem outros"
+ ],
+ "red_flags": [
+  "Se você tem diabetes e, em jejum, sentir tremor, suor frio ou confusão: coma algo com açúcar e avise a enfermeira"
+ ],
+ "faq": [
+  {
+   "q": "Posso escovar os dentes antes do exame de glicose?",
+   "a": "Normalmente é melhor sem pasta ou com pasta sem açúcar. É um detalhe, mas alguns laboratórios pedem."
+  },
+  {
+   "q": "A glicose do dedo e a da veia são a mesma coisa?",
+   "a": "Quase, mas os números variam um pouco. Para fazer o diagnóstico, os médicos olham mais o sangue da veia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de glicose. Depois do jantar, não coma mais. Água pode."
+  },
+  {
+   "hoursBefore": 2,
+   "text": "O exame de glicose é daqui a pouco. Não coma nada e não tome nada doce. Leve comida para depois."
+  }
+ ]
+}

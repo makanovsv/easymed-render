@@ -1,0 +1,62 @@
+{
+ "title": "Lavagem do ouvido",
+ "also": [
+  "cera no ouvido",
+  "tirar cera do ouvido",
+  "ouvido entupido de cera"
+ ],
+ "what": "O otorrino tira a cera acumulada no ouvido: lava com água morna ou retira com um instrumento.",
+ "why": "Quando o ouvido está tampado, você ouve menos ou tem zumbido depois do banho, e o médico vê um tampão de cera.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Se você já teve furo no tímpano ou cirurgia no ouvido",
+  "Se o ouvido soltou líquido, doeu ou houve febre",
+  "Diabetes",
+  "Se você usa aparelho de audição"
+ ],
+ "prepare": [
+  {
+   "title": "Amolecer a cera",
+   "text": "Às vezes o médico pede para pingar gotas que amolecem a cera por alguns dias. Faça só o que ele indicou."
+  },
+  {
+   "title": "Não mexa",
+   "text": "Não use cotonete no ouvido. O tampão vai mais para dentro."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Aparelho de audição, se você usa"
+ ],
+ "steps": [
+  "O médico examina o ouvido com um funil ou uma câmera",
+  "Se o tímpano estiver inteiro, lava o ouvido com água morna, com uma seringa sem agulha",
+  "A água com a cera escorre para uma bandeja perto do pescoço",
+  "Às vezes a cera é tirada com um instrumento ou com aspiração",
+  "O médico examina o ouvido de novo e confere o tímpano"
+ ],
+ "feel": [
+  "Água morna no ouvido, barulho e borbulhas",
+  "Pode dar uma leve tontura. Avise o médico",
+  "Logo depois, a audição normalmente volta"
+ ],
+ "after": [
+  "Pode secar o ouvido por fora, mas não coloque cotonete dentro",
+  "Se acontece muito, pergunte ao médico como evitar a cera acumulada"
+ ],
+ "red_flags": [
+  "Dor forte no ouvido, sangue ou pus saindo do ouvido depois do procedimento",
+  "Perda repentina da audição ou tontura forte"
+ ],
+ "faq": [
+  {
+   "q": "Posso tirar a cera do ouvido em casa?",
+   "a": "Não é bom usar cotonete ou grampo: você pode machucar o tímpano. Se o ouvido tampou, é melhor ir ao otorrino."
+  },
+  {
+   "q": "Lavar o ouvido dói?",
+   "a": "Normalmente não: é morno, barulhento e um pouco estranho."
+  }
+ ],
+ "reminders": []
+}

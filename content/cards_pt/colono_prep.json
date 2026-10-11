@@ -1,0 +1,75 @@
+{
+ "title": "Preparo do intestino para colonoscopia",
+ "also": [
+  "limpeza do intestino",
+  "preparo para colonoscopia",
+  "como tomar a solução antes da colonoscopia"
+ ],
+ "what": "Para o médico ver todo o intestino, ele precisa estar totalmente limpo com uma solução especial. O sucesso do exame depende do preparo.",
+ "why": "Antes da colonoscopia e, às vezes, antes de cirurgias e de alguns exames de raio X do intestino.",
+ "duration": "3 dias de dieta, mais uma noite e uma manhã de limpeza",
+ "tell_doctor": [
+  "Diabetes: o esquema de comida e remédios será diferente",
+  "Doenças dos rins e do coração",
+  "Prisão de ventre: pode ser preciso um preparo mais longo",
+  "Remédios com ferro: normalmente pedem para parar por um tempo, mas o médico decide"
+ ],
+ "prepare": [
+  {
+   "title": "3 dias antes",
+   "text": "Pode: pão branco, arroz, macarrão, carne e peixe cozidos, ovos, queijo branco. Não pode: verduras, legumes, frutas, frutas vermelhas, folhas, sementes, castanhas, feijões e cereais integrais."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Café da manhã leve e, depois, só líquidos claros: água, caldo coado, chá sem leite, suco claro sem polpa."
+  },
+  {
+   "title": "Solução",
+   "text": "Prepare e tome exatamente como diz a bula do seu produto e o esquema do médico. Normalmente, um copo a cada 15 ou 20 minutos."
+  },
+  {
+   "title": "Dicas",
+   "text": "Gelada, a solução desce mais fácil. Você pode tomar um líquido claro depois. Caminhe pela casa: assim ela age mais rápido."
+  }
+ ],
+ "bring": [
+  "Lenços umedecidos e creme para a pele: vão ser úteis em casa"
+ ],
+ "steps": [
+  "Na noite anterior, tome a primeira parte da solução no tempo indicado no esquema",
+  "Em 1 a 2 horas, começa a diarreia frequente. Fique perto do banheiro",
+  "Bem cedo de manhã, tome a segunda parte, se o esquema for em duas partes",
+  "Termine de beber de 3 a 4 horas antes da colonoscopia, ou no horário da clínica",
+  "Está pronto quando as fezes viraram um líquido amarelo e claro, sem pedaços"
+ ],
+ "feel": [
+  "Pode dar enjoo, inchaço e calafrios. Beba mais devagar",
+  "Ir muitas vezes ao banheiro é justamente a limpeza"
+ ],
+ "after": [
+  "Se as fezes ainda tiverem pedaços, avise a clínica antes do exame"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, vômitos repetidos, fraqueza ou tontura forte: fale com a clínica ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "E se eu não conseguir tomar toda a solução?",
+   "a": "Beba mais devagar, deixe gelar e faça uma pausa de 20 a 30 minutos. Se não der mesmo, ligue para a clínica."
+  },
+  {
+   "q": "Posso comer durante o preparo?",
+   "a": "Na véspera, depois do café da manhã, só líquidos claros. Se não, o intestino não fica limpo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Comece a dieta sem fibras: sem verduras, frutas, sementes e grãos integrais."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Hoje, depois do café da manhã, só líquidos claros. À noite, a solução conforme o esquema."
+  }
+ ]
+}

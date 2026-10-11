@@ -1,0 +1,75 @@
+{
+ "title": "Exame de urina",
+ "also": [
+  "exame de urina",
+  "urina tipo 1",
+  "EAS"
+ ],
+ "what": "A primeira urina da manhã é colhida em casa num frasco e levada ao laboratório. Mostra como estão os rins e se há inflamação.",
+ "why": "Em check-ups, com dor no pé da barriga ou na lombar, quando urinar é frequente ou dói, na gravidez e no diabetes.",
+ "duration": "a coleta em casa leva de 2 a 3 minutos, o resultado sai normalmente no dia seguinte",
+ "tell_doctor": [
+  "Quais remédios e vitaminas você toma",
+  "Se a mulher está menstruada, normalmente o exame é adiado",
+  "Se você usou sonda ou fez procedimentos nas vias urinárias há pouco tempo"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Pegue um frasco estéril na farmácia ou no laboratório. Não use pote de comida."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Não coma beterraba nem alimentos que mudam a cor da urina. Sem álcool e sem treino pesado. Beba como de costume."
+  },
+  {
+   "title": "De manhã",
+   "text": "Lave-se com água morna, sem sabonete perfumado. A mulher pode tampar a entrada da vagina com um chumaço de algodão."
+  },
+  {
+   "title": "Coleta",
+   "text": "É a primeira urina da manhã, o jato do meio: os primeiros segundos no vaso, depois no frasco, e o final de novo no vaso."
+  }
+ ],
+ "bring": [
+  "O frasco com urina, bem fechado e com o seu nome",
+  "Pedido médico"
+ ],
+ "steps": [
+  "De manhã, depois de se lavar, comece a urinar no vaso",
+  "Sem parar o jato, coloque o frasco",
+  "Encha mais ou menos metade do frasco",
+  "Termine no vaso e feche bem a tampa",
+  "Leve ao laboratório em até 1 a 2 horas"
+ ],
+ "feel": [
+  "Nada"
+ ],
+ "after": [
+  "Quem explica o resultado é o médico",
+  "Se houver alterações na urina, muitas vezes pedem para repetir o exame"
+ ],
+ "red_flags": [
+  "Sangue na urina, dor forte na lombar com febre: procure o médico na hora"
+ ],
+ "faq": [
+  {
+   "q": "Posso fazer o exame de urina menstruada?",
+   "a": "É melhor não: o sangue entra no exame. Normalmente ele é adiado para 2 a 3 dias depois que a menstruação acaba."
+  },
+  {
+   "q": "Posso colher a urina na noite anterior?",
+   "a": "Não. Precisa ser a urina fresca da manhã, e ela deve chegar ao laboratório em até 1 a 2 horas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Amanhã você tem exame de urina. Separe um frasco estéril. Hoje, sem beterraba e sem álcool."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "Colha a primeira urina da manhã depois de se lavar: o jato do meio. Leve ao laboratório em até 1 a 2 horas."
+  }
+ ]
+}

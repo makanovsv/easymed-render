@@ -1,0 +1,56 @@
+{
+ "title": "Soro na veia",
+ "also": [
+  "soro",
+  "medicação na veia",
+  "infusão intravenosa"
+ ],
+ "what": "O remédio ou o soro entra devagar na veia por um cateter fino. A enfermeira ou um aparelho controla a velocidade.",
+ "why": "Quando o remédio precisa entrar devagar na veia: desidratação, antibióticos, ferro e outras indicações do médico.",
+ "duration": "de 20 minutos a algumas horas, depende do remédio",
+ "tell_doctor": [
+  "Alergia a remédios",
+  "Se você já teve reação a soro",
+  "Doenças do coração e dos rins",
+  "Gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Não venha com fome, a não ser que o médico diga o contrário."
+  },
+  {
+   "title": "Banheiro",
+   "text": "Vá ao banheiro antes de começar. Levantar com o soro é incômodo."
+  }
+ ],
+ "bring": [
+  "A prescrição do médico",
+  "Celular, fones ou um livro, se o soro for demorado"
+ ],
+ "steps": [
+  "Você se deita ou se senta numa poltrona",
+  "A enfermeira coloca um cateter fino na veia e prende com esparadrapo",
+  "Ligam o equipo com o remédio e ajustam a velocidade",
+  "A enfermeira passa para ver como você está",
+  "Quando o remédio acaba, desligam o equipo e tiram o cateter"
+ ],
+ "feel": [
+  "Uma picada na hora de colocar o cateter",
+  "Às vezes, uma sensação gelada no braço por causa do soro"
+ ],
+ "after": [
+  "Aperte o local da picada por alguns minutos",
+  "Normalmente você pode ir para casa logo em seguida"
+ ],
+ "red_flags": [
+  "Durante o soro: coceira, manchas na pele, falta de ar, peso no peito, inchaço ou dor no local do cateter. Chame a enfermeira na hora"
+ ],
+ "faq": [
+  {
+   "q": "Posso acelerar o soro sozinho?",
+   "a": "Não. A velocidade é ajustada pela enfermeira. Entrar rápido demais pode ser perigoso."
+  }
+ ],
+ "reminders": []
+}

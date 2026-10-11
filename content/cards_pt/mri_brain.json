@@ -1,0 +1,84 @@
+{
+ "title": "Ressonância do cérebro",
+ "also": [
+  "ressonância da cabeça",
+  "ressonância magnética do crânio",
+  "RM de crânio"
+ ],
+ "what": "Imagens do cérebro feitas num campo magnético. Não há radiação de raio-X. Às vezes aplicam contraste na veia.",
+ "why": "Em dores de cabeça frequentes, tontura, convulsões, problemas de memória ou de visão, depois de pancada na cabeça e para acompanhar uma doença já conhecida.",
+ "duration": "normalmente de 20 a 40 minutos, com contraste mais tempo",
+ "tell_doctor": [
+  "Marca-passo, desfibrilador ou outro implante eletrônico",
+  "Metal no corpo: próteses, placas, clipes nos vasos, estilhaços",
+  "Implante de audição, bomba de insulina",
+  "Gravidez",
+  "Medo de lugar fechado",
+  "Se for com contraste: doenças dos rins e alergia a contraste"
+ ],
+ "prepare": [
+  {
+   "title": "Metal",
+   "text": "Em casa, tire joias, piercings e relógio. Não pode entrar com metal na sala."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável e sem metal: sem zíper, botões de pressão e aro no sutiã. Muitas vezes dão uma roupa descartável."
+  },
+  {
+   "title": "Maquiagem",
+   "text": "Não use rímel nem sombra com brilho: eles podem ter partículas de metal."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de preparo especial. Se tiver contraste, pergunte na clínica se precisa ficar de 2 a 4 horas sem comer."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Imagens e laudos anteriores de ressonância e tomografia",
+  "Documentos dos implantes, se você tiver"
+ ],
+ "steps": [
+  "Você deixa no armário o celular, as chaves, os cartões e tudo de metal",
+  "Deita na mesa do aparelho, e dão fones ou protetores de ouvido. O aparelho faz barulho",
+  "A cabeça fica dentro de uma bobina, parecida com um capacete com janelinha",
+  "A mesa entra no túnel do aparelho",
+  "É preciso ficar parado. A equipe fala com você por um interfone",
+  "Na mão, você segura um botão de chamada: pode apertar a qualquer momento",
+  "Se precisar de contraste, ele é aplicado na veia durante o exame"
+ ],
+ "feel": [
+  "Batidas altas e zumbido. Isso é normal",
+  "Às vezes um leve calor na parte do corpo examinada",
+  "Com contraste, um friozinho na veia, que passa rápido"
+ ],
+ "after": [
+  "Você já pode voltar às suas atividades",
+  "O laudo sai normalmente no mesmo dia ou em 1 a 2 dias",
+  "Se teve contraste, beba mais água nesse dia, a não ser que o médico tenha proibido"
+ ],
+ "red_flags": [
+  "Depois do contraste: manchas na pele, inchaço no rosto, dificuldade para respirar. Avise a equipe na hora ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso fazer ressonância se tenho metal no corpo?",
+   "a": "Muitas vezes pode, mas quem decide é o médico. Avise antes sobre qualquer implante e traga os documentos dele."
+  },
+  {
+   "q": "O que fazer se tenho medo de lugar fechado?",
+   "a": "Avise na hora de marcar. Ajudam um aparelho aberto, uma venda nos olhos, música. Às vezes o médico dá um calmante."
+  },
+  {
+   "q": "A ressonância faz mal?",
+   "a": "Não há radiação. Para a maioria das pessoas, a ressonância é segura. O principal é contar ao médico, com sinceridade, sobre metal e implantes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem ressonância. Em casa, tire joias e piercings e vista roupa sem metal. Leve as imagens anteriores e os documentos dos implantes."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "title": "Revisión ginecológica",
+ "also": [
+  "consulta con el ginecólogo",
+  "chequeo ginecológico",
+  "revisión en la mesa ginecológica",
+  "papanicolaou"
+ ],
+ "what": "El médico te pregunta sobre tu salud, te revisa en la mesa ginecológica y, si hace falta, toma muestras.",
+ "why": "Normalmente una vez al año, para prevenir. También por dolor en la parte baja de la panza, flujo raro, problemas con la regla o si planeas un embarazo.",
+ "duration": "normalmente de 20 a 30 minutos",
+ "tell_doctor": [
+  "La fecha en que empezó tu última regla",
+  "Qué medicamentos y anticonceptivos tomas",
+  "Si podrías estar embarazada",
+  "Si has tenido partos, cirugías o enfermedades",
+  "Si todavía no has tenido relaciones sexuales, díselo: la revisión se hará de otra forma"
+ ],
+ "prepare": [
+  {
+   "title": "Cuándo ir",
+   "text": "Para una revisión de rutina, normalmente lo mejor es del día 5 al 10 del ciclo. Durante la regla casi nunca toman muestras. Pregunta en tu clínica."
+  },
+  {
+   "title": "1 a 2 días antes",
+   "text": "Si te van a tomar muestra: normalmente sin relaciones sexuales, duchas vaginales ni óvulos, salvo que el médico te los haya indicado."
+  },
+  {
+   "title": "Higiene",
+   "text": "Báñate normal el día anterior o en la mañana. Sin productos especiales de higiene íntima."
+  },
+  {
+   "title": "Antes de entrar",
+   "text": "Ve al baño. Con la vejiga vacía es más fácil revisarte."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Análisis y resultados de ultrasonido anteriores",
+  "Calcetines y una sábana desechable, si en la clínica no te dan"
+ ],
+ "steps": [
+  "El médico te pregunta por tus molestias, tu ciclo y tu salud",
+  "Te quitas la ropa de la cintura para abajo detrás de un biombo",
+  "Te acuestas en la mesa y pones los pies en los soportes",
+  "El médico revisa los genitales por fuera",
+  "Pone un espéculo especial, revisa el cuello del útero y toma muestras si hace falta",
+  "Después, con la mano, revisa el útero y los ovarios a través de la panza",
+  "A veces el médico también revisa los senos"
+ ],
+ "feel": [
+  "Frío y presión por el espéculo",
+  "Es incómodo, pero normalmente no duele",
+  "Si te duele, dilo: el médico se detiene o usa un espéculo más chico",
+  "Mientras más relajes la panza y respires tranquila, más fácil será"
+ ],
+ "after": [
+  "Después de la muestra puedes manchar un poco de sangre durante el día. Es normal",
+  "El resultado de las muestras suele estar en unos días",
+  "Puedes volver a tus actividades de inmediato"
+ ],
+ "red_flags": [
+  "Sangrado abundante",
+  "Dolor fuerte en la parte baja de la panza",
+  "Fiebre y dolor después de la revisión"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuándo es mejor ir al ginecólogo?",
+   "a": "Para una revisión de rutina, normalmente después de la regla, del día 5 al 10 del ciclo. Si tienes dolor o sangrado, ve de inmediato, sin esperar."
+  },
+  {
+   "q": "¿Puedo ir al ginecólogo durante la regla?",
+   "a": "Si es una revisión de rutina, mejor cámbiala de fecha. Si tienes dolor, sangrado fuerte o algo urgente, ve, no lo dejes para después."
+  },
+  {
+   "q": "¿Cómo es la revisión si no he tenido relaciones sexuales?",
+   "a": "El médico te revisa con cuidado, sin espéculo. Si hace falta, pide un ultrasonido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "En 2 días es tu revisión ginecológica. Si te van a tomar muestra, normalmente sin relaciones sexuales, duchas vaginales ni óvulos."
+  }
+ ]
+}

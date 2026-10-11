@@ -1,0 +1,52 @@
+{
+ "title": "Pesquisa de sangue oculto nas fezes",
+ "also": [
+  "sangue oculto nas fezes",
+  "teste FIT",
+  "teste imunoquímico"
+ ],
+ "what": "Procura nas fezes sangue que não dá para ver a olho nu. É um jeito simples de suspeitar de pólipos e tumores no intestino bem no começo.",
+ "why": "Normalmente como rastreamento a partir dos 45 ou 50 anos, ou em anemia e mudanças no intestino. O médico decide.",
+ "duration": "a coleta em casa leva 5 minutos, o resultado sai em 1 a 3 dias",
+ "tell_doctor": [
+  "Se a sua hemorroida está sangrando agora",
+  "Se você está menstruada: é melhor adiar o teste",
+  "Se você toma remédios que afinam o sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Pegue no laboratório o frasco especial com palito. O teste não é feito em um potinho comum."
+  },
+  {
+   "title": "Comida",
+   "text": "Para o teste imunoquímico moderno, não precisa de dieta. Se o teste for outro, confirme com o laboratório."
+  }
+ ],
+ "bring": [
+  "Frasco com a amostra",
+  "Pedido médico"
+ ],
+ "steps": [
+  "Colete as fezes sem deixar cair na água, por exemplo, sobre um papel",
+  "Com o palito do frasco, pegue um pouco de fezes de vários pontos",
+  "Coloque o palito no frasco e feche bem",
+  "Leve ao laboratório no prazo que informarem"
+ ],
+ "feel": [
+  "Nada. Não dói"
+ ],
+ "after": [
+  "Teste positivo não é diagnóstico. Normalmente o médico pede uma colonoscopia para achar a causa"
+ ],
+ "red_flags": [
+  "Sangue visível nas fezes ou fezes pretas: não espere o resultado, procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Se o teste der positivo, é câncer?",
+   "a": "Na maioria das vezes, não. O sangue pode vir de hemorroida, fissura ou pólipo. Mas é preciso achar a causa. Normalmente fazem colonoscopia."
+  }
+ ],
+ "reminders": []
+}

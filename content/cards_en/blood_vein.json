@@ -1,0 +1,75 @@
+{
+ "title": "Blood test from a vein",
+ "also": [
+  "blood draw",
+  "venipuncture",
+  "phlebotomy",
+  "blood work"
+ ],
+ "what": "A nurse takes a small amount of blood from a vein in your arm with a thin needle. One tube of blood can be used for many tests.",
+ "why": "For blood chemistry, hormones, infections, clotting, and most other blood tests.",
+ "duration": "usually 3 to 5 minutes",
+ "tell_doctor": [
+  "If you take blood thinners",
+  "If you have ever felt faint or passed out during a blood test",
+  "If you are allergic to latex or medical tape"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "For many tests, you need to fast for 8 to 12 hours. Plain water is fine. Ask the lab what your tests need."
+  },
+  {
+   "title": "The day before",
+   "text": "For one day before, avoid alcohol and hard workouts. Try not to smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. If you take medicines in the morning, ask your doctor whether to take them before or after the test."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear a sleeve that rolls up easily above the elbow."
+  }
+ ],
+ "bring": [
+  "Your test request form or list of tests",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow and you are asked to make a fist a few times",
+  "The skin is cleaned with antiseptic",
+  "A quick prick: the needle stays in the vein for a few seconds while blood fills the tubes",
+  "The band and needle are removed, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse and you can lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "A small bruise can happen and goes away on its own",
+  "Results usually take 1 to 3 days. The lab will tell you when"
+ ],
+ "red_flags": [
+  "The spot is very swollen, painful, and red",
+  "Numbness or strong pain in the arm"
+ ],
+ "faq": [
+  {
+   "q": "Can I drink water before a blood test?",
+   "a": "Yes, plain still water is fine. If you need to fast, skip tea, coffee, and juice."
+  },
+  {
+   "q": "Why do I feel dizzy after a blood test?",
+   "a": "It can happen from nerves or hunger. Sit for a while, drink some water, and eat something sweet."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Blood test tomorrow. If you need to fast, do not eat after dinner. Water is fine."
+  }
+ ]
+}

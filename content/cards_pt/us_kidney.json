@@ -1,0 +1,70 @@
+{
+ "title": "Ultrassom dos rins",
+ "also": [
+  "ultrassom dos rins e da bexiga",
+  "ultrassom das vias urinárias",
+  "ultrassom renal"
+ ],
+ "what": "O médico examina os rins e a bexiga com ultrassom. É seguro, sem radiação.",
+ "why": "Em dor na lombar, alterações no exame de urina, pressão alta e suspeita de pedras.",
+ "duration": "normalmente de 15 a 20 minutos",
+ "tell_doctor": [
+  "Se você já teve pedras nos rins ou fez cirurgia nos rins",
+  "Se você tem um rim só",
+  "Se está doendo agora: onde e desde quando"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de dieta especial. Na véspera, é melhor evitar o que dá gases: feijão, refrigerante, verduras cruas."
+  },
+  {
+   "title": "Bexiga",
+   "text": "Se forem ver também a bexiga, normalmente pedem para beber de meio a um litro de água uma hora antes e não urinar. Confirme com a clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável: é preciso descobrir a barriga e a lombar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exame de urina e laudos de ultrassom anteriores, se tiver",
+  "Um lenço ou toalha"
+ ],
+ "steps": [
+  "Você deita de barriga para cima, depois de lado ou de bruços",
+  "O médico passa o gel no lado do corpo e na lombar",
+  "Com o aparelho, examina os dois rins",
+  "Pedem para puxar o ar e prender a respiração por alguns segundos",
+  "Se examinarem a bexiga, depois pedem para você ir ao banheiro e olham de novo"
+ ],
+ "feel": [
+  "O gel é gelado",
+  "O aparelho aperta um pouco, mas não dói",
+  "Com a bexiga cheia, pode incomodar. É por pouco tempo"
+ ],
+ "after": [
+  "Você já pode voltar às suas atividades",
+  "O laudo normalmente é dado na hora"
+ ],
+ "red_flags": [
+  "Dor forte na lombar com febre, vômito ou sangue na urina: não espere o exame, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O ultrassom mostra pedras nos rins?",
+   "a": "Sim, a maioria das pedras nos rins aparece. Pedras muito pequenas ou no ureter às vezes aparecem melhor na tomografia."
+  },
+  {
+   "q": "Preciso beber água antes do ultrassom dos rins?",
+   "a": "Para os rins, não é obrigatório. Para a bexiga, ela precisa estar cheia, por isso muitas vezes pedem para beber água."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "O ultrassom dos rins é daqui a pouco. Se a clínica pediu bexiga cheia, beba a água uma hora antes e não vá ao banheiro."
+  }
+ ]
+}

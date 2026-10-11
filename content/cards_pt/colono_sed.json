@@ -1,0 +1,101 @@
+{
+ "title": "Colonoscopia com sedação",
+ "also": [
+  "colonoscopia com sedação",
+  "colonoscopia dormindo",
+  "colonoscopia com anestesia"
+ ],
+ "what": "É a mesma colonoscopia, o exame do intestino grosso com uma câmera, mas você dorme. O anestesista aplica o remédio na veia e acompanha você o tempo todo.",
+ "why": "Quando você tem medo ou já foi difícil antes, quando há dor, quando o exame é longo ou é preciso tirar pólipos.",
+ "duration": "normalmente de 20 a 40 minutos, mais 30 a 60 minutos para acordar. O preparo começa na véspera",
+ "tell_doctor": [
+  "Remédios que afinam o sangue e remédios com ferro",
+  "Diabetes: o preparo e os remédios vão precisar de ajuste",
+  "Doenças do coração, dos pulmões, dos rins. Ronco com paradas na respiração",
+  "Alergias e como você reagiu a anestesia antes",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "De 2 a 3 dias antes",
+   "text": "Dieta sem fibras: sem verduras, legumes, frutas, folhas, sementes, castanhas, grãos integrais e feijões."
+  },
+  {
+   "title": "Limpeza do intestino",
+   "text": "A solução para limpar o intestino é tomada como o médico indicar, muitas vezes em duas partes: à noite e bem cedo de manhã."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Por causa da sedação, as regras são mais rígidas. Normalmente nada de comida de 6 a 8 horas antes, e líquidos claros até 2 a 3 horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Pergunte ao médico quais comprimidos tomar de manhã, com um gole de água."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Você precisa de um adulto para levar você para casa. Normalmente não liberam a pessoa sozinha."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos de colonoscopias anteriores",
+  "Lista de remédios",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "O anestesista pergunta sobre a sua saúde, e colocam um cateter na veia",
+  "Colocam um sensor no dedo e um aparelho de pressão no braço",
+  "Você deita sobre o lado esquerdo e recebe oxigênio por um tubinho no nariz",
+  "Aplicam o remédio, e você dorme em um minuto",
+  "O médico faz a colonoscopia e, se precisar, tira os pólipos",
+  "Você acorda na sala de recuperação e fica em observação até se recuperar"
+ ],
+ "feel": [
+  "Normalmente você não sente nada e não lembra de nada",
+  "Ao acordar, sonolência e barriga estufada por causa do ar"
+ ],
+ "after": [
+  "A barriga estufada passa em algumas horas. Caminhar ajuda",
+  "Até o fim do dia, não dirija, não use máquinas e não tome decisões importantes",
+  "Sem álcool nesse dia",
+  "Normalmente pode comer quando estiver bem acordado",
+  "O resultado da biópsia sai em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, febre alta ou muito sangue pelo ânus: procure o médico na hora ou ligue para a emergência",
+  "Fraqueza forte, falta de ar ou desmaio depois do exame: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Isso é anestesia geral?",
+   "a": "Normalmente não. É um sono profundo com remédio: você respira sozinho e acorda rápido."
+  },
+  {
+   "q": "Por que não posso dirigir depois da sedação?",
+   "a": "O remédio deixa os reflexos lentos por mais algumas horas, mesmo que você se sinta bem."
+  },
+  {
+   "q": "Posso beber água antes da colonoscopia com sedação?",
+   "a": "Normalmente, líquidos claros podem até 2 a 3 horas antes. O prazo exato quem diz é a clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Daqui a 3 dias você tem colonoscopia com sedação. Comece a dieta sem fibras. Combine quem vai buscar você."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem colonoscopia. Depois do café da manhã, só líquidos claros. À noite, a primeira parte da solução, como o médico indicou."
+  },
+  {
+   "hoursBefore": 6,
+   "text": "Hora da segunda parte da solução, se o preparo for em duas partes. Depois, nada de comida. Água só até o horário que a clínica informou."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "A colonoscopia com sedação é daqui a pouco. Não beba mais nada, a não ser que a clínica tenha dito outra coisa. O acompanhante está com você?"
+  }
+ ]
+}

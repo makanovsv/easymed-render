@@ -1,0 +1,72 @@
+{
+ "title": "Teste de tolerância à glicose",
+ "also": [
+  "curva glicêmica",
+  "TOTG",
+  "teste da glicose com sobrecarga"
+ ],
+ "what": "Mostra como o corpo lida com o açúcar. O sangue é colhido em jejum e 2 horas depois de você beber uma solução de glicose.",
+ "why": "Na suspeita de diabetes ou pré-diabetes e, normalmente, em todas as gestantes entre a 24ª e a 28ª semana.",
+ "duration": "cerca de 2 horas a 2 horas e meia na clínica",
+ "tell_doctor": [
+  "Se você já tem diabetes ou açúcar alto",
+  "Gravidez e de quantas semanas",
+  "Quais remédios você toma",
+  "Se esteve doente há pouco, fez cirurgia ou passou por estresse forte"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "De 10 a 14 horas sem comer antes do teste. Água pode beber."
+  },
+  {
+   "title": "3 dias antes",
+   "text": "Coma como de costume, não faça dieta. Se não, o resultado sai impreciso."
+  },
+  {
+   "title": "De manhã",
+   "text": "Não fume e não masque chiclete. Leve um livro: a espera é longa."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Água e um lanche para depois do teste"
+ ],
+ "steps": [
+  "Primeiro, colhem o sangue em jejum",
+  "Você bebe um copo de solução doce de glicose em 5 minutos",
+  "Por 2 horas, fique sentado na clínica: sem comer, sem fumar, sem andar rápido",
+  "Depois de 2 horas, colhem o sangue de novo"
+ ],
+ "feel": [
+  "A solução é muito doce e pode dar um pouco de enjoo. Beba em goles pequenos",
+  "Às vezes, fraqueza no fim da espera"
+ ],
+ "after": [
+  "Depois da segunda coleta, você pode comer",
+  "O resultado sai normalmente em 1 a 2 dias. Quem explica é o médico"
+ ],
+ "red_flags": [
+  "Fraqueza forte, suor ou tremor: avise a enfermeira na hora"
+ ],
+ "faq": [
+  {
+   "q": "Posso sair para caminhar durante o teste?",
+   "a": "Melhor não: o movimento muda o nível de açúcar. Fique sentado na clínica."
+  },
+  {
+   "q": "E se eu vomitar depois da glicose?",
+   "a": "Avise a enfermeira. Provavelmente, o teste será remarcado para outro dia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Amanhã é o teste de tolerância à glicose. A partir de agora, não coma. Água pode."
+  },
+  {
+   "hoursBefore": 1.5,
+   "text": "O teste está chegando. Leve água, um lanche para depois e algo para se distrair por 2 horas."
+  }
+ ]
+}

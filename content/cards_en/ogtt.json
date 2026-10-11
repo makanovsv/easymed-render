@@ -1,0 +1,73 @@
+{
+ "title": "Glucose tolerance test",
+ "also": [
+  "OGTT",
+  "oral glucose tolerance test",
+  "glucose challenge test",
+  "gestational diabetes test"
+ ],
+ "what": "This test checks how your body handles sugar. Blood is taken while fasting, and again 2 hours after you drink a glucose solution.",
+ "why": "If diabetes or prediabetes is suspected, and usually for all pregnant women at 24 to 28 weeks.",
+ "duration": "about 2 to 2 and a half hours at the clinic",
+ "tell_doctor": [
+  "If you already have diabetes or high blood sugar",
+  "If you are pregnant, and how many weeks",
+  "What medicines you take",
+  "If you were recently ill, had surgery, or had a lot of stress"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "No food for 10 to 14 hours before the test. Water is fine."
+  },
+  {
+   "title": "3 days before",
+   "text": "Eat as usual. Do not diet, or the result will be wrong."
+  },
+  {
+   "title": "In the morning",
+   "text": "Do not smoke or chew gum. Bring a book. You will wait a long time."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Water and a snack for after the test"
+ ],
+ "steps": [
+  "First, blood is taken while you are fasting",
+  "You drink a glass of sweet glucose solution within 5 minutes",
+  "For two hours you sit quietly at the clinic: no eating, no smoking, no brisk walking",
+  "After 2 hours, blood is taken again"
+ ],
+ "feel": [
+  "The drink is very sweet and may make you a little sick. Take small sips",
+  "Sometimes you feel weak toward the end of the wait"
+ ],
+ "after": [
+  "You can eat after the second blood draw",
+  "Results usually come in 1 to 2 days. Your doctor will explain them"
+ ],
+ "red_flags": [
+  "Strong weakness, sweating, or shaking: tell the nurse right away"
+ ],
+ "faq": [
+  {
+   "q": "Can I go for a walk during the test?",
+   "a": "Better not. Moving changes your blood sugar. Stay seated at the clinic."
+  },
+  {
+   "q": "What if I throw up after the glucose drink?",
+   "a": "Tell the nurse. The test will most likely be moved to another day."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Glucose tolerance test tomorrow. Stop eating now. Water is fine."
+  },
+  {
+   "hoursBefore": 1.5,
+   "text": "Test soon. Bring water, a snack for later, and something to keep you busy for 2 hours."
+  }
+ ]
+}

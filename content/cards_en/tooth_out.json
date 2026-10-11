@@ -1,0 +1,57 @@
+{
+ "title": "Tooth extraction",
+ "also": [
+  "tooth extraction",
+  "tooth removal",
+  "having a tooth pulled"
+ ],
+ "what": "The dentist removes a tooth with local numbing. It usually takes a few minutes.",
+ "why": "When a tooth cannot be saved: badly damaged, infected, or loose, or before dentures or braces.",
+ "duration": "usually 15 to 30 minutes",
+ "tell_doctor": [
+  "If you take blood thinners",
+  "Diabetes or heart disease",
+  "Allergy to numbing medicines",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Eat 1 to 2 hours before your visit. After the extraction, you cannot eat for 2 hours."
+  },
+  {
+   "title": "Alcohol",
+   "text": "No alcohol for a day before and after."
+  }
+ ],
+ "bring": [
+  "An X-ray of the tooth, if you had one"
+ ],
+ "steps": [
+  "The dentist checks the tooth and takes an X-ray if needed",
+  "A numbing injection is given. In a few minutes your gum and lip go numb",
+  "The dentist loosens the tooth and takes it out",
+  "A gauze pad is placed on the socket. Bite down on it"
+ ],
+ "feel": [
+  "Pressure and cracking sounds are normal. It should not hurt",
+  "If it hurts, tell the dentist and you will get more numbing"
+ ],
+ "after": [
+  "Keep biting on the gauze for 20 to 30 minutes",
+  "Do not eat for 2 hours. For the first day: no hot or spicy food, no straws, no smoking",
+  "Do not rinse hard on the first day. A blood clot needs to stay in the socket",
+  "Swelling and mild pain for 2 to 3 days are normal"
+ ],
+ "red_flags": [
+  "Bleeding that does not stop for more than an hour",
+  "Swelling and pain that get worse after day 3, fever, or a bad smell from the socket"
+ ],
+ "faq": [
+  {
+   "q": "Can I rinse my mouth after an extraction?",
+   "a": "Not on the first day. You could wash out the clot, and the socket may get inflamed. After that, only gentle mouth baths, as your dentist advises."
+  }
+ ],
+ "reminders": []
+}

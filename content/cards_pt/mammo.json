@@ -1,0 +1,65 @@
+{
+ "title": "Mamografia",
+ "also": [
+  "raio X da mama",
+  "mamograma"
+ ],
+ "what": "É um raio X das mamas. A mama é apertada por uma placa por alguns segundos para a imagem sair nítida.",
+ "why": "Para descobrir o câncer de mama cedo. Normalmente a cada 1 ou 2 anos, a partir dos 40 ou 50 anos, ou quando há um caroço.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Gravidez ou amamentação",
+  "Prótese de silicone",
+  "Se você já fez cirurgia nas mamas",
+  "Se sentiu um caroço, e onde exatamente"
+ ],
+ "prepare": [
+  {
+   "title": "Dia do ciclo",
+   "text": "O melhor é entre o 5º e o 12º dia do ciclo: a mama fica menos sensível. Se você não menstrua, pode ser qualquer dia."
+  },
+  {
+   "title": "Pele",
+   "text": "No dia do exame, não passe desodorante, creme ou talco nas mamas e nas axilas. Eles deixam manchas na imagem."
+  },
+  {
+   "title": "Roupa",
+   "text": "Saia ou calça com blusa: você só vai tirar a roupa da cintura para cima."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Mamografias e ultrassons de mama anteriores: é muito importante comparar"
+ ],
+ "steps": [
+  "Você tira a roupa da cintura para cima e fica de pé junto ao aparelho",
+  "A técnica posiciona uma mama sobre a plataforma",
+  "Uma placa desce e aperta a mama por alguns segundos",
+  "Fazem a imagem, depois outra posição e a outra mama. Normalmente são 4 imagens"
+ ],
+ "feel": [
+  "O aperto incomoda e às vezes dói, mas dura só alguns segundos",
+  "Avise a técnica se doer muito"
+ ],
+ "after": [
+  "O laudo sai normalmente em 1 a 3 dias",
+  "Às vezes chamam para uma imagem extra ou um ultrassom. Isso é comum e não é motivo para susto"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que apertam tanto a mama?",
+   "a": "Assim o tecido fica espalhado por igual, a imagem sai mais nítida e a dose de radiação é menor."
+  },
+  {
+   "q": "Mamografia ou ultrassom de mama?",
+   "a": "São exames diferentes. A mamografia é feita normalmente depois dos 40. O ultrassom, em mulheres jovens e como complemento. O médico decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a mamografia. De manhã, não passe desodorante nem creme nas mamas e nas axilas."
+  }
+ ]
+}

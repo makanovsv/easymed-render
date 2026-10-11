@@ -1,0 +1,56 @@
+{
+ "title": "Electrocardiograma",
+ "also": [
+  "ECG",
+  "electro",
+  "electrocardiograma en reposo"
+ ],
+ "what": "Es un registro de la actividad eléctrica del corazón. Te pegan sensores en la piel. No pasa corriente por tu cuerpo, es seguro.",
+ "why": "Por dolor en el pecho, latidos irregulares, falta de aire, en un chequeo o antes de una cirugía.",
+ "duration": "normalmente de 5 a 10 minutos",
+ "tell_doctor": [
+  "Qué medicamentos para el corazón tomas",
+  "Si tienes marcapasos"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No necesitas nada especial. No te pongas crema ni aceite en el pecho: los sensores se pegan peor."
+  },
+  {
+   "title": "Antes del estudio",
+   "text": "No llegues corriendo. Siéntate 5 minutos para que se calme el pulso."
+  },
+  {
+   "title": "Ropa",
+   "text": "Cómoda: tendrás que descubrir el pecho, las muñecas y los tobillos. Mejor no uses medias."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Electrocardiogramas anteriores, para comparar"
+ ],
+ "steps": [
+  "Te acuestas boca arriba y descubres el pecho, las muñecas y los tobillos",
+  "Ponen gel en la piel o pegan electrodos desechables",
+  "Tienes que estar quieto y sin hablar como un minuto",
+  "El aparato imprime el registro y quitan los electrodos"
+ ],
+ "feel": [
+  "Nada, solo quizá el gel frío"
+ ],
+ "after": [
+  "Te dan la interpretación en ese momento o se la mandan al médico",
+  "Puedes volver a tus actividades de inmediato"
+ ],
+ "red_flags": [
+  "Si tienes dolor en el pecho ahora, no esperes el estudio: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿El electrocardiograma da toques?",
+   "a": "No. El aparato solo registra las señales débiles de tu corazón. No manda nada a tu cuerpo."
+  }
+ ],
+ "reminders": []
+}

@@ -1,0 +1,61 @@
+{
+ "title": "Radiografía de tórax",
+ "also": [
+  "radiografía de pulmones",
+  "placa de tórax",
+  "rayos X de pecho"
+ ],
+ "what": "Es una imagen de los pulmones y el corazón con rayos X. La radiación es muy poca.",
+ "why": "Por tos, fiebre, falta de aire, si se sospecha neumonía, o antes de una cirugía.",
+ "duration": "normalmente de 5 a 10 minutos",
+ "tell_doctor": [
+  "Si estás embarazada o puedes estarlo",
+  "Si hace poco te hicieron una radiografía o una tomografía. Lleva las imágenes"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No necesitas nada especial. Puedes comer y tomar líquidos."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate cadenas, dijes y piercings del pecho. Si tienes el pelo largo, recógetelo."
+  },
+  {
+   "title": "Ropa",
+   "text": "Te pedirán descubrirte de la cintura para arriba. Es más cómodo llevar ropa sin partes metálicas."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Radiografías anteriores, para comparar"
+ ],
+ "steps": [
+  "Te descubres de la cintura para arriba y te pones de pie con el pecho pegado al aparato",
+  "Pones las manos en la cintura y llevas los hombros hacia adelante",
+  "Cuando te indiquen, tomas aire y lo aguantas unos segundos",
+  "A veces toman una segunda imagen de lado"
+ ],
+ "feel": [
+  "Nada. La radiografía en sí no se siente",
+  "La placa puede estar fría"
+ ],
+ "after": [
+  "Puedes volver a tus actividades de inmediato",
+  "El reporte normalmente está el mismo día o al día siguiente"
+ ],
+ "red_flags": [
+  "Si te cuesta mucho respirar, tienes los labios morados o un dolor fuerte en el pecho: no esperes la radiografía, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La radiografía de pulmones hace daño?",
+   "a": "La radiación es poca, más o menos como la del ambiente natural en unos días. Si el estudio es necesario, el beneficio es mayor que el riesgo."
+  },
+  {
+   "q": "¿En qué se diferencia de una revisión rápida de pulmones?",
+   "a": "La radiografía es más nítida y se hace cuando tienes síntomas. La revisión rápida, llamada fluorografía, es un control en un chequeo."
+  }
+ ],
+ "reminders": []
+}

@@ -1,0 +1,65 @@
+{
+ "title": "Tomografia do pulmão",
+ "also": [
+  "tomografia do tórax",
+  "TC de tórax",
+  "tomografia de baixa dose"
+ ],
+ "what": "A tomografia computadorizada mostra os pulmões em camadas, com muito mais detalhe que um raio-X comum. Normalmente sem injeção.",
+ "why": "Em pneumonia, tosse que não passa, quando o raio-X mostrou algo, e para procurar cedo câncer de pulmão em fumantes.",
+ "duration": "na sala normalmente de 5 a 10 minutos, a imagem em si leva alguns segundos",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se a tomografia for com contraste: se tem alergia a iodo ou a contraste e se tem doença nos rins",
+  "Se é difícil prender a respiração ou ficar com os braços para cima"
+ ],
+ "prepare": [
+  {
+   "title": "Sem contraste",
+   "text": "Não precisa de preparo. Pode comer e beber."
+  },
+  {
+   "title": "Com contraste",
+   "text": "Normalmente pedem de 3 a 4 horas sem comer, água pode, e às vezes um exame de creatinina. Confirme com a clínica."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire correntes, pingentes e sutiã com aro. Melhor uma roupa sem metal no peito."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Raios-X e tomografias anteriores do pulmão, para comparar",
+  "Exame de creatinina, se pediram"
+ ],
+ "steps": [
+  "Você deita de costas, com os braços para cima, atrás da cabeça",
+  "A mesa passa por dentro de um anel largo",
+  "Quando pedirem para puxar o ar e não respirar, você prende a respiração por alguns segundos",
+  "Se for com contraste, ele é aplicado na veia e fazem mais uma série de imagens"
+ ],
+ "feel": [
+  "Não dói, o aparelho faz barulho",
+  "Com contraste, uma onda de calor e gosto de metal na boca. Passa em um minuto"
+ ],
+ "after": [
+  "Você já pode voltar às suas atividades",
+  "Depois do contraste, beba mais água, a não ser que o médico diga outra coisa",
+  "O laudo sai normalmente em algumas horas ou em 1 a 2 dias"
+ ],
+ "red_flags": [
+  "Se estiver muito difícil respirar ou os lábios ficarem roxos, não espere o exame: ligue para a emergência",
+  "Depois do contraste, coceira, manchas na pele, inchaço no rosto ou falta de ar: avise a equipe ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que a tomografia do pulmão é melhor que o raio-X?",
+   "a": "A tomografia mostra os pulmões em camadas e vê pequenas lesões que no raio-X não aparecem."
+  },
+  {
+   "q": "O que é tomografia de baixa dose do pulmão?",
+   "a": "É uma tomografia com dose menor de radiação, para checar câncer de pulmão em fumantes. O médico indica pela idade e pelo tempo que a pessoa fuma."
+  }
+ ],
+ "reminders": []
+}

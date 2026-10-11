@@ -1,0 +1,76 @@
+{
+ "title": "Consulta de rotina da criança",
+ "also": [
+  "consulta de puericultura",
+  "check-up infantil",
+  "consulta antes da escola"
+ ],
+ "what": "O pediatra confere como a criança cresce e se desenvolve. Às vezes entram também outros médicos, exames e vacinas.",
+ "why": "Conforme o calendário, de acordo com a idade: mais vezes no primeiro ano de vida. Também antes da creche, da escola, de acampamento e de esporte.",
+ "duration": "normalmente de 20 a 30 minutos com o pediatra, mais tempo com outros médicos",
+ "tell_doctor": [
+  "O que preocupa você na saúde, no sono, na alimentação ou no comportamento",
+  "Alergias e reações a vacinas anteriores",
+  "Quais remédios e vitaminas você dá",
+  "Que doenças a criança teve recentemente"
+ ],
+ "prepare": [
+  {
+   "title": "Como a criança está",
+   "text": "Se a criança ficou doente, avise a clínica. Normalmente a consulta e a vacina são remarcadas."
+  },
+  {
+   "title": "Exames",
+   "text": "Se precisar de exame de urina ou de sangue, pergunte à clínica como colher a urina e se precisa vir em jejum."
+  },
+  {
+   "title": "Clima",
+   "text": "Explique com calma para a criança que o médico vai ver como ela está crescendo. Não assuste com injeção."
+  }
+ ],
+ "bring": [
+  "Documentos da criança e a caderneta de vacinação",
+  "Registros de consultas e exames anteriores",
+  "Fralda, paninho, mamadeira ou lanche",
+  "O brinquedo preferido"
+ ],
+ "steps": [
+  "A criança é pesada e medida. Nos bebês, medem também a cabeça",
+  "O pediatra pergunta sobre sono, alimentação e desenvolvimento",
+  "Escuta o coração e os pulmões, olha a garganta e a pele, apalpa a barriga",
+  "Confere o desenvolvimento para a idade: como a criança firma a cabeça, anda, fala",
+  "O pediatra pode encaminhar para outros médicos ou exames",
+  "Se o calendário pedir uma vacina, o médico conversa com você sobre ela"
+ ],
+ "feel": [
+  "O exame em si não dói",
+  "O bebê pode chorar quando tiram a roupa dele. Isso é normal",
+  "Se tiver vacina, uma picada rápida"
+ ],
+ "after": [
+  "O médico dá as orientações e diz quando é a próxima consulta",
+  "Anote as dúvidas que surgirem em casa, para a próxima consulta",
+  "Depois da vacina, normalmente pedem para esperar uns 30 minutos na clínica"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto, manchas pelo corpo todo logo depois da vacina",
+  "Convulsões, moleza, a criança difícil de acordar",
+  "Febre alta em bebê com menos de 3 meses: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Com que frequência levar a criança ao pediatra sem queixas?",
+   "a": "No primeiro ano, normalmente todo mês, depois menos, conforme o calendário da clínica. Antes da creche e da escola, é preciso uma consulta à parte."
+  },
+  {
+   "q": "Posso ir à consulta de rotina se a criança está com coriza?",
+   "a": "Avise a clínica. Às vezes a consulta pode ser feita, mas a vacina normalmente é adiada até a criança melhorar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta de rotina da criança. Separe a caderneta de vacinação, os documentos e o brinquedo preferido."
+  }
+ ]
+}

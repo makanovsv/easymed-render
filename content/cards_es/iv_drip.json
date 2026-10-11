@@ -1,0 +1,56 @@
+{
+ "title": "Suero intravenoso",
+ "also": [
+  "suero",
+  "venoclisis",
+  "infusión intravenosa"
+ ],
+ "what": "Un medicamento o una solución entra poco a poco a la vena por un catéter delgado. La velocidad la controla la enfermera o un aparato.",
+ "why": "Cuando un medicamento debe entrar a la vena despacio: deshidratación, antibióticos, hierro u otras indicaciones del médico.",
+ "duration": "de 20 minutos a varias horas, según el medicamento",
+ "tell_doctor": [
+  "Si tienes alergia a algún medicamento",
+  "Si antes tuviste reacciones con un suero",
+  "Si tienes enfermedades del corazón o de los riñones",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "No llegues con el estómago vacío, salvo que el médico diga otra cosa."
+  },
+  {
+   "title": "Baño",
+   "text": "Ve al baño antes de empezar. Levantarte con el suero es incómodo."
+  }
+ ],
+ "bring": [
+  "La indicación del médico",
+  "Celular, audífonos o un libro, si el suero es largo"
+ ],
+ "steps": [
+  "Te acuestas o te sientas en un sillón",
+  "La enfermera te pone un catéter delgado en la vena y lo fija con cinta",
+  "Conectan el equipo con el medicamento y ajustan la velocidad",
+  "La enfermera pasa a ver cómo estás",
+  "Cuando se acaba el medicamento, desconectan el equipo y quitan el catéter"
+ ],
+ "feel": [
+  "Un piquete al poner el catéter",
+  "A veces sientes frío en el brazo por la solución"
+ ],
+ "after": [
+  "Presiona el lugar del piquete unos minutos",
+  "Normalmente te puedes ir a casa de inmediato"
+ ],
+ "red_flags": [
+  "Durante el suero: comezón, ronchas, falta de aire, opresión en el pecho, o hinchazón o dolor donde está el catéter. Llama a la enfermera de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo acelerar el suero yo mismo?",
+   "a": "No. La velocidad la ajusta la enfermera. Si entra demasiado rápido, puede ser peligroso."
+  }
+ ],
+ "reminders": []
+}

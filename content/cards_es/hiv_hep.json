@@ -1,0 +1,67 @@
+{
+ "title": "Análisis de VIH, hepatitis B y C, y sífilis",
+ "also": [
+  "prueba de VIH",
+  "prueba de hepatitis",
+  "prueba de sífilis",
+  "análisis de infecciones antes de una cirugía"
+ ],
+ "what": "Es un análisis de sangre de la vena que busca rastros de estas infecciones. Normalmente un solo tubo alcanza para las cuatro.",
+ "why": "Antes de una cirugía, en el embarazo, antes de donar sangre, en un chequeo o después de una situación de riesgo.",
+ "duration": "la toma dura de 3 a 5 minutos; el resultado suele estar en 1 a 5 días",
+ "tell_doctor": [
+  "Si tuviste una situación de riesgo, cuándo fue exactamente. De eso depende cuándo hacer el análisis",
+  "Si estás embarazada",
+  "Si ya te trataron por alguna de estas infecciones"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente es mejor en ayunas, o de 4 a 6 horas después de una comida ligera. Pregunta en el laboratorio. Puedes tomar agua."
+  },
+  {
+   "title": "Tiempo después del riesgo",
+   "text": "En las primeras semanas el análisis puede no detectar la infección. Normalmente se hace de 3 a 6 semanas después y se repite a los 3 meses. El médico te dirá cuándo."
+  },
+  {
+   "title": "Confidencialidad",
+   "text": "El resultado es confidencial. En muchos lugares la prueba de VIH se puede hacer de forma anónima y gratuita."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación, si el análisis no es anónimo"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen la liga y limpian la piel con antiséptico",
+  "Sientes un piquete breve y la sangre llena el tubo",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "El resultado te lo dan en persona o a través del médico",
+  "Una primera prueba positiva no es un diagnóstico: siempre se confirma con otro análisis"
+ ],
+ "red_flags": [
+  "Si el riesgo de contagio de VIH fue hace menos de 72 horas, ve de inmediato con un médico o a un centro de VIH: hay medicamentos que ayudan a no contagiarse"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto tiempo después del riesgo debo hacerme la prueba de VIH?",
+   "a": "Las pruebas actuales suelen detectar el VIH de 3 a 6 semanas después. Para estar seguros, se repite a los 3 meses."
+  },
+  {
+   "q": "¿Puede salir un falso positivo?",
+   "a": "Sí, por ejemplo en el embarazo o con otras enfermedades. Por eso cualquier resultado positivo se confirma con un segundo análisis."
+  },
+  {
+   "q": "¿Puedo hacerme la prueba de VIH de forma anónima?",
+   "a": "Sí, en muchas clínicas y centros de VIH es anónima y gratuita. No necesitas identificación."
+  }
+ ],
+ "reminders": []
+}

@@ -1,0 +1,1820 @@
+{
+ "sections": {
+  "lab": "Анализы",
+  "us": "УЗИ",
+  "func": "Функциональная диагностика",
+  "rad": "Рентген, КТ, МРТ",
+  "endo": "Эндоскопия",
+  "proc": "Процедуры и манипуляции",
+  "derm": "Малая хирургия и кожа",
+  "dent": "Стоматология",
+  "eye": "Глаза",
+  "ent": "Ухо, горло, нос",
+  "gyn": "Гинекология и беременность",
+  "uro": "Урология",
+  "cardio": "Сердце и сосуды: вмешательства",
+  "surg": "Плановые операции",
+  "anest": "Обезболивание и наркоз",
+  "rehab": "Реабилитация и физиотерапия",
+  "visit": "Приёмы и осмотры",
+  "vacc": "Прививки"
+ },
+ "scenes": {
+  "lab_draw": "процедурный кабинет: забор крови",
+  "lab_cup": "сдача мочи/кала: контейнер, туалет клиники",
+  "swab": "взятие мазка из носа и горла",
+  "us_room": "кабинет УЗИ",
+  "func_room": "кабинет функциональной диагностики",
+  "func_treadmill": "беговая дорожка / велоэргометр с ЭКГ",
+  "xr_room": "рентген-кабинет",
+  "ct_room": "кабинет КТ",
+  "mri_room": "кабинет МРТ",
+  "mammo_room": "маммограф",
+  "dent_xray": "панорамный рентген зубов",
+  "endo_room": "эндоскопический кабинет",
+  "proc_room": "процедурный / малая операционная",
+  "gyn_chair": "гинекологическое кресло",
+  "uro_room": "кабинет уролога",
+  "ent_room": "кабинет ЛОРа",
+  "eye_room": "кабинет окулиста",
+  "dent_chair": "стоматологическое кресло",
+  "or_room": "операционная",
+  "ward": "палата",
+  "cath_lab": "рентгеноперационная (ангиограф)",
+  "rehab_room": "зал реабилитации",
+  "office": "кабинет врача",
+  "home": "дома: подготовка"
+ },
+ "items": [
+  {
+   "id": "blood_vein",
+   "section": "lab",
+   "ru": "Забор крови из вены",
+   "en": "Blood draw from a vein",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "blood_finger",
+   "section": "lab",
+   "ru": "Забор крови из пальца",
+   "en": "Finger-prick blood test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "cbc",
+   "section": "lab",
+   "ru": "Общий анализ крови",
+   "en": "Complete blood count",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "biochem",
+   "section": "lab",
+   "ru": "Биохимический анализ крови",
+   "en": "Blood chemistry panel",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "glucose",
+   "section": "lab",
+   "ru": "Глюкоза крови",
+   "en": "Blood glucose test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "hba1c",
+   "section": "lab",
+   "ru": "Гликированный гемоглобин",
+   "en": "HbA1c test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "ogtt",
+   "section": "lab",
+   "ru": "Глюкозотолерантный тест",
+   "en": "Oral glucose tolerance test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "lipids",
+   "section": "lab",
+   "ru": "Липидный профиль (холестерин)",
+   "en": "Lipid panel (cholesterol)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "thyroid",
+   "section": "lab",
+   "ru": "Гормоны щитовидной железы (ТТГ, Т4)",
+   "en": "Thyroid hormones (TSH, T4)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "coag",
+   "section": "lab",
+   "ru": "Коагулограмма",
+   "en": "Blood clotting tests",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "crp",
+   "section": "lab",
+   "ru": "С-реактивный белок",
+   "en": "C-reactive protein",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "ferritin",
+   "section": "lab",
+   "ru": "Ферритин и железо",
+   "en": "Ferritin and iron",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "vitd",
+   "section": "lab",
+   "ru": "Витамин D",
+   "en": "Vitamin D",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "blood_group",
+   "section": "lab",
+   "ru": "Группа крови и резус-фактор",
+   "en": "Blood type and Rh factor",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "hiv_hep",
+   "section": "lab",
+   "ru": "Анализ на ВИЧ, гепатиты B и C, сифилис",
+   "en": "HIV, hepatitis B and C, syphilis tests",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "psa",
+   "section": "lab",
+   "ru": "ПСА (простатический антиген)",
+   "en": "PSA test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "hcg",
+   "section": "lab",
+   "ru": "ХГЧ — анализ крови на беременность",
+   "en": "hCG pregnancy blood test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "sex_hormones",
+   "section": "lab",
+   "ru": "Половые гормоны",
+   "en": "Sex hormones",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "tumor_markers",
+   "section": "lab",
+   "ru": "Онкомаркеры",
+   "en": "Tumour markers",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "allergy_panel",
+   "section": "lab",
+   "ru": "Аллергопанель (IgE)",
+   "en": "Allergy blood panel (IgE)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "urine",
+   "section": "lab",
+   "ru": "Общий анализ мочи",
+   "en": "Urinalysis",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "urine_24h",
+   "section": "lab",
+   "ru": "Суточная моча",
+   "en": "24-hour urine collection",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "urine_culture",
+   "section": "lab",
+   "ru": "Посев мочи",
+   "en": "Urine culture",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "stool",
+   "section": "lab",
+   "ru": "Анализ кала (копрограмма)",
+   "en": "Stool test",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "fobt",
+   "section": "lab",
+   "ru": "Кал на скрытую кровь",
+   "en": "Faecal occult blood test",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "pcr_swab",
+   "section": "lab",
+   "ru": "ПЦР-мазок из носа и горла",
+   "en": "Nose and throat PCR swab",
+   "scene": "swab",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "gyn_smear",
+   "section": "lab",
+   "ru": "Мазок на флору (гинекологический)",
+   "en": "Vaginal smear",
+   "scene": "gyn_chair",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "pap",
+   "section": "lab",
+   "ru": "ПАП-тест (цитология шейки матки)",
+   "en": "Pap smear",
+   "scene": "gyn_chair",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "semen",
+   "section": "lab",
+   "ru": "Спермограмма",
+   "en": "Semen analysis",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "sputum",
+   "section": "lab",
+   "ru": "Анализ мокроты",
+   "en": "Sputum test",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "us_abdomen",
+   "section": "us",
+   "ru": "УЗИ брюшной полости",
+   "en": "Abdominal ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "us_liver",
+   "section": "us",
+   "ru": "УЗИ печени и желчного пузыря",
+   "en": "Liver and gallbladder ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "elastography",
+   "section": "us",
+   "ru": "Эластография печени (фиброскан)",
+   "en": "Liver elastography (FibroScan)",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "us_kidney",
+   "section": "us",
+   "ru": "УЗИ почек",
+   "en": "Kidney ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "us_bladder",
+   "section": "us",
+   "ru": "УЗИ мочевого пузыря с остаточной мочой",
+   "en": "Bladder ultrasound with residual urine",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "us_thyroid",
+   "section": "us",
+   "ru": "УЗИ щитовидной железы",
+   "en": "Thyroid ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "us_breast",
+   "section": "us",
+   "ru": "УЗИ молочных желёз",
+   "en": "Breast ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "us_pelvis",
+   "section": "us",
+   "ru": "УЗИ органов малого таза (женщинам)",
+   "en": "Pelvic ultrasound (women)",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "us_tv",
+   "section": "us",
+   "ru": "Трансвагинальное УЗИ",
+   "en": "Transvaginal ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "us_prostate",
+   "section": "us",
+   "ru": "УЗИ простаты (ТРУЗИ)",
+   "en": "Prostate ultrasound (TRUS)",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "us_scrotum",
+   "section": "us",
+   "ru": "УЗИ мошонки",
+   "en": "Scrotal ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "us_preg1",
+   "section": "us",
+   "ru": "Скрининг беременности 1 триместра",
+   "en": "First-trimester pregnancy scan",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "us_preg2",
+   "section": "us",
+   "ru": "Скрининг беременности 2 и 3 триместра",
+   "en": "Second and third trimester scans",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "us_carotid",
+   "section": "us",
+   "ru": "УЗИ сосудов шеи (БЦА)",
+   "en": "Carotid ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "us_veins",
+   "section": "us",
+   "ru": "УЗИ вен ног",
+   "en": "Leg vein ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "us_arteries",
+   "section": "us",
+   "ru": "УЗИ артерий ног",
+   "en": "Leg artery ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "echo",
+   "section": "us",
+   "ru": "Эхокардиография (УЗИ сердца)",
+   "en": "Echocardiogram (heart ultrasound)",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "us_joint",
+   "section": "us",
+   "ru": "УЗИ сустава",
+   "en": "Joint ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "us_lymph",
+   "section": "us",
+   "ru": "УЗИ лимфоузлов и мягких тканей",
+   "en": "Lymph node and soft tissue ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "us_neuro_baby",
+   "section": "us",
+   "ru": "Нейросонография младенцу",
+   "en": "Infant brain ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "us_hip_baby",
+   "section": "us",
+   "ru": "УЗИ тазобедренных суставов младенцу",
+   "en": "Infant hip ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "ecg",
+   "section": "func",
+   "ru": "ЭКГ",
+   "en": "ECG",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "stress_ecg",
+   "section": "func",
+   "ru": "ЭКГ с нагрузкой (тредмил, велоэргометрия)",
+   "en": "Exercise stress test",
+   "scene": "func_treadmill",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "holter",
+   "section": "func",
+   "ru": "Холтер ЭКГ (суточный монитор)",
+   "en": "Holter monitor",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "abpm",
+   "section": "func",
+   "ru": "Суточный мониторинг давления (СМАД)",
+   "en": "24-hour blood pressure monitoring",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "spirometry",
+   "section": "func",
+   "ru": "Спирометрия",
+   "en": "Spirometry",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "eeg",
+   "section": "func",
+   "ru": "ЭЭГ (электроэнцефалография)",
+   "en": "EEG",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "enmg",
+   "section": "func",
+   "ru": "ЭНМГ (проверка нервов и мышц)",
+   "en": "Nerve conduction study (EMG)",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "sleep_study",
+   "section": "func",
+   "ru": "Исследование сна (полисомнография)",
+   "en": "Sleep study",
+   "scene": "ward",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "xr_chest",
+   "section": "rad",
+   "ru": "Рентген грудной клетки",
+   "en": "Chest X-ray",
+   "scene": "xr_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "fluoro",
+   "section": "rad",
+   "ru": "Флюорография",
+   "en": "Chest screening X-ray",
+   "scene": "xr_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "xr_bone",
+   "section": "rad",
+   "ru": "Рентген костей и суставов",
+   "en": "Bone and joint X-ray",
+   "scene": "xr_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "xr_spine",
+   "section": "rad",
+   "ru": "Рентген позвоночника",
+   "en": "Spine X-ray",
+   "scene": "xr_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "xr_teeth",
+   "section": "rad",
+   "ru": "Панорамный снимок зубов (ОПТГ)",
+   "en": "Dental panoramic X-ray",
+   "scene": "dent_xray",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "mammo",
+   "section": "rad",
+   "ru": "Маммография",
+   "en": "Mammogram",
+   "scene": "mammo_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "dexa",
+   "section": "rad",
+   "ru": "Денситометрия (плотность костей)",
+   "en": "Bone density scan (DEXA)",
+   "scene": "xr_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ct_head",
+   "section": "rad",
+   "ru": "КТ головы",
+   "en": "Head CT",
+   "scene": "ct_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "ct_chest",
+   "section": "rad",
+   "ru": "КТ лёгких",
+   "en": "Chest CT",
+   "scene": "ct_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "ct_abd",
+   "section": "rad",
+   "ru": "КТ брюшной полости с контрастом",
+   "en": "Abdominal CT with contrast",
+   "scene": "ct_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "ct_angio",
+   "section": "rad",
+   "ru": "КТ-ангиография",
+   "en": "CT angiography",
+   "scene": "ct_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "mri_brain",
+   "section": "rad",
+   "ru": "МРТ головного мозга",
+   "en": "Brain MRI",
+   "scene": "mri_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "mri_spine",
+   "section": "rad",
+   "ru": "МРТ позвоночника",
+   "en": "Spine MRI",
+   "scene": "mri_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "mri_joint",
+   "section": "rad",
+   "ru": "МРТ сустава",
+   "en": "Joint MRI",
+   "scene": "mri_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "mri_abd",
+   "section": "rad",
+   "ru": "МРТ брюшной полости и малого таза",
+   "en": "Abdominal and pelvic MRI",
+   "scene": "mri_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "barium",
+   "section": "rad",
+   "ru": "Рентген желудка и кишечника с барием",
+   "en": "Barium X-ray",
+   "scene": "xr_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "pet_ct",
+   "section": "rad",
+   "ru": "ПЭТ-КТ",
+   "en": "PET-CT",
+   "scene": "ct_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "fgds",
+   "section": "endo",
+   "ru": "ФГДС (гастроскопия)",
+   "en": "Gastroscopy",
+   "scene": "endo_room",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "fgds_sed",
+   "section": "endo",
+   "ru": "Гастроскопия во сне (под седацией)",
+   "en": "Gastroscopy under sedation",
+   "scene": "endo_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "colono",
+   "section": "endo",
+   "ru": "Колоноскопия",
+   "en": "Colonoscopy",
+   "scene": "endo_room",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "colono_sed",
+   "section": "endo",
+   "ru": "Колоноскопия во сне (под седацией)",
+   "en": "Colonoscopy under sedation",
+   "scene": "endo_room",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "colono_prep",
+   "section": "endo",
+   "ru": "Подготовка кишечника к колоноскопии",
+   "en": "Bowel prep for colonoscopy",
+   "scene": "home",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "capsule",
+   "section": "endo",
+   "ru": "Капсульная эндоскопия",
+   "en": "Capsule endoscopy",
+   "scene": "endo_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "broncho",
+   "section": "endo",
+   "ru": "Бронхоскопия",
+   "en": "Bronchoscopy",
+   "scene": "endo_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "cysto",
+   "section": "endo",
+   "ru": "Цистоскопия",
+   "en": "Cystoscopy",
+   "scene": "uro_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "hystero",
+   "section": "endo",
+   "ru": "Гистероскопия",
+   "en": "Hysteroscopy",
+   "scene": "gyn_chair",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "colpo",
+   "section": "endo",
+   "ru": "Кольпоскопия",
+   "en": "Colposcopy",
+   "scene": "gyn_chair",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "anoscopy",
+   "section": "endo",
+   "ru": "Аноскопия и ректоскопия",
+   "en": "Anoscopy and proctoscopy",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "laryngo",
+   "section": "endo",
+   "ru": "Осмотр гортани (ларингоскопия)",
+   "en": "Laryngoscopy",
+   "scene": "ent_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "inj_im",
+   "section": "proc",
+   "ru": "Внутримышечный укол",
+   "en": "Intramuscular injection",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "iv_drip",
+   "section": "proc",
+   "ru": "Капельница",
+   "en": "IV drip",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "iv_cannula",
+   "section": "proc",
+   "ru": "Установка венозного катетера",
+   "en": "IV cannula",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "dressing",
+   "section": "proc",
+   "ru": "Перевязка",
+   "en": "Wound dressing",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "sutures_out",
+   "section": "proc",
+   "ru": "Снятие швов",
+   "en": "Stitch removal",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "wound_care",
+   "section": "proc",
+   "ru": "Обработка раны и наложение швов",
+   "en": "Wound cleaning and stitches",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "earwax",
+   "section": "proc",
+   "ru": "Промывание ушей (серная пробка)",
+   "en": "Ear wax removal",
+   "scene": "ent_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "sinus_wash",
+   "section": "proc",
+   "ru": "Промывание носа и пазух",
+   "en": "Sinus rinse",
+   "scene": "ent_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "fna_thyroid",
+   "section": "proc",
+   "ru": "Пункция щитовидной железы (ТАБ)",
+   "en": "Thyroid fine-needle biopsy",
+   "scene": "us_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "biopsy_breast",
+   "section": "proc",
+   "ru": "Биопсия молочной железы",
+   "en": "Breast biopsy",
+   "scene": "us_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "joint_inj",
+   "section": "proc",
+   "ru": "Укол в сустав",
+   "en": "Joint injection",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "lumbar",
+   "section": "proc",
+   "ru": "Люмбальная пункция",
+   "en": "Lumbar puncture",
+   "scene": "ward",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "skin_biopsy",
+   "section": "proc",
+   "ru": "Биопсия кожи",
+   "en": "Skin biopsy",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "iud_in",
+   "section": "proc",
+   "ru": "Установка внутриматочной спирали",
+   "en": "IUD insertion",
+   "scene": "gyn_chair",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "iud_out",
+   "section": "proc",
+   "ru": "Удаление внутриматочной спирали",
+   "en": "IUD removal",
+   "scene": "gyn_chair",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "catheter",
+   "section": "proc",
+   "ru": "Установка мочевого катетера",
+   "en": "Urinary catheter",
+   "scene": "ward",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "enema",
+   "section": "proc",
+   "ru": "Клизма",
+   "en": "Enema",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "mole",
+   "section": "derm",
+   "ru": "Удаление родинки",
+   "en": "Mole removal",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "wart",
+   "section": "derm",
+   "ru": "Удаление бородавки (криодеструкция)",
+   "en": "Wart removal (cryotherapy)",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "papilloma",
+   "section": "derm",
+   "ru": "Удаление папиллом",
+   "en": "Skin tag removal",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "lipoma",
+   "section": "derm",
+   "ru": "Удаление липомы и атеромы",
+   "en": "Lipoma or cyst removal",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "abscess",
+   "section": "derm",
+   "ru": "Вскрытие нарыва (абсцесса, фурункула)",
+   "en": "Abscess drainage",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "nail",
+   "section": "derm",
+   "ru": "Удаление вросшего ногтя",
+   "en": "Ingrown toenail removal",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "tick",
+   "section": "derm",
+   "ru": "Удаление клеща",
+   "en": "Tick removal",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "dermatoscopy",
+   "section": "derm",
+   "ru": "Дерматоскопия (осмотр родинок)",
+   "en": "Dermatoscopy (mole check)",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "dent_check",
+   "section": "dent",
+   "ru": "Осмотр и профессиональная чистка зубов",
+   "en": "Dental check-up and cleaning",
+   "scene": "dent_chair",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "caries",
+   "section": "dent",
+   "ru": "Лечение кариеса (пломба)",
+   "en": "Filling a cavity",
+   "scene": "dent_chair",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "root_canal",
+   "section": "dent",
+   "ru": "Лечение каналов зуба",
+   "en": "Root canal treatment",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "tooth_out",
+   "section": "dent",
+   "ru": "Удаление зуба",
+   "en": "Tooth extraction",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "wisdom",
+   "section": "dent",
+   "ru": "Удаление зуба мудрости",
+   "en": "Wisdom tooth removal",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "implant",
+   "section": "dent",
+   "ru": "Имплантация зуба",
+   "en": "Dental implant",
+   "scene": "dent_chair",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "crown",
+   "section": "dent",
+   "ru": "Коронка на зуб",
+   "en": "Dental crown",
+   "scene": "dent_chair",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "braces",
+   "section": "dent",
+   "ru": "Брекеты",
+   "en": "Braces",
+   "scene": "dent_chair",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "whitening",
+   "section": "dent",
+   "ru": "Отбеливание зубов",
+   "en": "Teeth whitening",
+   "scene": "dent_chair",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "sealant",
+   "section": "dent",
+   "ru": "Герметизация фиссур ребёнку",
+   "en": "Fissure sealants for children",
+   "scene": "dent_chair",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "vision",
+   "section": "eye",
+   "ru": "Проверка зрения и подбор очков",
+   "en": "Eye test and glasses",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "iop",
+   "section": "eye",
+   "ru": "Измерение глазного давления",
+   "en": "Eye pressure test",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "fundus",
+   "section": "eye",
+   "ru": "Осмотр глазного дна с расширением зрачка",
+   "en": "Dilated eye exam",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "oct",
+   "section": "eye",
+   "ru": "ОКТ сетчатки",
+   "en": "Retinal OCT scan",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "lasik",
+   "section": "eye",
+   "ru": "Лазерная коррекция зрения",
+   "en": "Laser eye surgery",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "cataract",
+   "section": "eye",
+   "ru": "Операция по удалению катаракты",
+   "en": "Cataract surgery",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "audiometry",
+   "section": "ent",
+   "ru": "Проверка слуха (аудиометрия)",
+   "en": "Hearing test",
+   "scene": "ent_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "tympanometry",
+   "section": "ent",
+   "ru": "Тимпанометрия",
+   "en": "Tympanometry",
+   "scene": "ent_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "adenoids",
+   "section": "ent",
+   "ru": "Удаление аденоидов",
+   "en": "Adenoid removal",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "tonsils",
+   "section": "ent",
+   "ru": "Удаление миндалин",
+   "en": "Tonsillectomy",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "septum",
+   "section": "ent",
+   "ru": "Операция на перегородке носа (септопластика)",
+   "en": "Septoplasty",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "gyn_visit",
+   "section": "gyn",
+   "ru": "Осмотр гинеколога",
+   "en": "Gynaecological exam",
+   "scene": "gyn_chair",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "ctg",
+   "section": "gyn",
+   "ru": "КТГ плода",
+   "en": "Fetal heart monitoring (CTG)",
+   "scene": "ward",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "birth",
+   "section": "gyn",
+   "ru": "Естественные роды",
+   "en": "Vaginal birth",
+   "scene": "ward",
+   "review": "H",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "csection",
+   "section": "gyn",
+   "ru": "Кесарево сечение",
+   "en": "Caesarean section",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "curettage",
+   "section": "gyn",
+   "ru": "Выскабливание (диагностическое)",
+   "en": "Diagnostic curettage",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "ivf_retrieval",
+   "section": "gyn",
+   "ru": "ЭКО: пункция яйцеклеток",
+   "en": "IVF egg retrieval",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ivf_transfer",
+   "section": "gyn",
+   "ru": "ЭКО: перенос эмбриона",
+   "en": "IVF embryo transfer",
+   "scene": "gyn_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "uro_visit",
+   "section": "uro",
+   "ru": "Осмотр уролога",
+   "en": "Urology exam",
+   "scene": "uro_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "uroflow",
+   "section": "uro",
+   "ru": "Урофлоуметрия",
+   "en": "Uroflowmetry",
+   "scene": "uro_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "prostate_biopsy",
+   "section": "uro",
+   "ru": "Биопсия простаты",
+   "en": "Prostate biopsy",
+   "scene": "uro_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "eswl",
+   "section": "uro",
+   "ru": "Дробление камней в почках (литотрипсия)",
+   "en": "Kidney stone lithotripsy",
+   "scene": "uro_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "coronary",
+   "section": "cardio",
+   "ru": "Коронарография",
+   "en": "Coronary angiography",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "stent",
+   "section": "cardio",
+   "ru": "Стентирование сосудов сердца",
+   "en": "Coronary stent",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "pacemaker",
+   "section": "cardio",
+   "ru": "Установка кардиостимулятора",
+   "en": "Pacemaker implantation",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ablation",
+   "section": "cardio",
+   "ru": "Радиочастотная абляция (РЧА)",
+   "en": "Catheter ablation",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "evlk",
+   "section": "cardio",
+   "ru": "Лазерное лечение варикоза (ЭВЛК)",
+   "en": "Laser treatment of varicose veins",
+   "scene": "proc_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "gallbladder",
+   "section": "surg",
+   "ru": "Удаление желчного пузыря (лапароскопия)",
+   "en": "Gallbladder removal (laparoscopic)",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "appendix",
+   "section": "surg",
+   "ru": "Удаление аппендицита",
+   "en": "Appendectomy",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "hernia_ing",
+   "section": "surg",
+   "ru": "Операция при паховой грыже",
+   "en": "Inguinal hernia repair",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "hernia_umb",
+   "section": "surg",
+   "ru": "Операция при пупочной грыже",
+   "en": "Umbilical hernia repair",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "hemorrhoids",
+   "section": "surg",
+   "ru": "Лечение геморроя (операция)",
+   "en": "Haemorrhoid surgery",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "arthroscopy",
+   "section": "surg",
+   "ru": "Артроскопия колена",
+   "en": "Knee arthroscopy",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "hip_replace",
+   "section": "surg",
+   "ru": "Замена тазобедренного сустава",
+   "en": "Hip replacement",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "knee_replace",
+   "section": "surg",
+   "ru": "Замена коленного сустава",
+   "en": "Knee replacement",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "disc",
+   "section": "surg",
+   "ru": "Операция при грыже позвоночника",
+   "en": "Spinal disc surgery",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "thyroidectomy",
+   "section": "surg",
+   "ru": "Удаление щитовидной железы",
+   "en": "Thyroid surgery",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "myoma",
+   "section": "surg",
+   "ru": "Удаление миомы матки",
+   "en": "Fibroid removal",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "hysterectomy",
+   "section": "surg",
+   "ru": "Удаление матки",
+   "en": "Hysterectomy",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "circumcision",
+   "section": "surg",
+   "ru": "Обрезание",
+   "en": "Circumcision",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "anest_general",
+   "section": "anest",
+   "ru": "Общий наркоз",
+   "en": "General anaesthesia",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "anest_spinal",
+   "section": "anest",
+   "ru": "Спинальная анестезия",
+   "en": "Spinal anaesthesia",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "anest_local",
+   "section": "anest",
+   "ru": "Местная анестезия",
+   "en": "Local anaesthesia",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "sedation",
+   "section": "anest",
+   "ru": "Седация (медикаментозный сон)",
+   "en": "Sedation",
+   "scene": "endo_room",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "massage",
+   "section": "rehab",
+   "ru": "Лечебный массаж",
+   "en": "Therapeutic massage",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "lfk",
+   "section": "rehab",
+   "ru": "ЛФК (лечебная физкультура)",
+   "en": "Physiotherapy exercises",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "physio",
+   "section": "rehab",
+   "ru": "Физиотерапия (магнит, электрофорез, ультразвук)",
+   "en": "Physical therapy (magnet, electrophoresis)",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "shockwave",
+   "section": "rehab",
+   "ru": "Ударно-волновая терапия",
+   "en": "Shockwave therapy",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "therapist",
+   "section": "visit",
+   "ru": "Приём терапевта",
+   "en": "GP appointment",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "checkup",
+   "section": "visit",
+   "ru": "Комплексный чекап",
+   "en": "Health check-up",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "medcert",
+   "section": "visit",
+   "ru": "Медосмотр для справки (водительская, на работу)",
+   "en": "Medical certificate exam",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "kids_check",
+   "section": "visit",
+   "ru": "Профосмотр ребёнка",
+   "en": "Child check-up",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "vacc_kids",
+   "section": "vacc",
+   "ru": "Детские прививки",
+   "en": "Childhood vaccines",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "vacc_flu",
+   "section": "vacc",
+   "ru": "Прививка от гриппа",
+   "en": "Flu shot",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  }
+ ]
+}

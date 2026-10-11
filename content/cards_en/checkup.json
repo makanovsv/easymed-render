@@ -1,0 +1,89 @@
+{
+ "title": "Full health checkup",
+ "also": [
+  "checkup",
+  "health screening",
+  "annual physical",
+  "full body checkup"
+ ],
+ "what": "A set of tests, scans, and doctor visits in one or a few visits. It helps find problems before they cause symptoms.",
+ "why": "For prevention, usually once a year. The program is chosen by your age, sex, and family history.",
+ "duration": "usually 2 to 4 hours, sometimes over several days",
+ "tell_doctor": [
+  "What bothers you, even small things",
+  "What medicines and supplements you take",
+  "Diseases in your parents, brothers, and sisters",
+  "If you could be pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Fasting",
+   "text": "Usually no food for 8 to 12 hours before blood tests. Plain still water is fine."
+  },
+  {
+   "title": "The day before",
+   "text": "Eat a light dinner. No alcohol for 1 to 2 days. No hard workouts or sauna."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Ask the clinic whether to take your morning medicines before or after the blood test."
+  },
+  {
+   "title": "Urine test",
+   "text": "Collect your first morning urine in a sterile container from the pharmacy."
+  },
+  {
+   "title": "For women",
+   "text": "If you will have swabs taken, it is best not during your period. Check with the clinic."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "The container with your morning urine",
+  "Past test results and reports",
+  "A list of your medicines",
+  "A snack and water, to eat after the blood test"
+ ],
+ "steps": [
+  "In the morning, before eating, your blood is taken",
+  "Then tests that need an empty stomach, like a belly ultrasound",
+  "After that, you can have a snack",
+  "Next, an ECG and other tests in your program",
+  "Visits with doctors",
+  "At the end, a doctor goes over the results and gives advice"
+ ],
+ "feel": [
+  "A quick prick for the blood test",
+  "Nothing else is usually unpleasant, but the day can be tiring"
+ ],
+ "after": [
+  "Some results are ready the same day, others in a few days",
+  "If something is found, your doctor will tell you what to do next",
+  "Keep your results. They are useful for comparing next year"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "How often should I have a checkup?",
+   "a": "Usually once a year. If you have a long-term illness, your doctor may set a different schedule."
+  },
+  {
+   "q": "Can I drink water before the tests?",
+   "a": "Yes, plain still water is fine. No tea, coffee, juice, or chewing gum."
+  },
+  {
+   "q": "Why have a checkup if nothing hurts?",
+   "a": "Many diseases have no signs for a long time: high blood pressure, high sugar, high cholesterol. A checkup finds them early, when treatment is easier."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 36,
+   "text": "Checkup the morning after tomorrow. From today, no alcohol and no hard workouts."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Checkup tomorrow. After a light dinner, do not eat. Still water is fine. Get your urine container ready."
+  }
+ ]
+}

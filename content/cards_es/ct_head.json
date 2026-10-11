@@ -1,0 +1,65 @@
+{
+ "title": "Tomografía de cabeza",
+ "also": [
+  "tomografía de cerebro",
+  "TAC de cráneo",
+  "TC de cabeza"
+ ],
+ "what": "La tomografía computarizada muestra el cerebro y los huesos del cráneo por capas. Es rápida y normalmente sin inyección.",
+ "why": "Después de un golpe en la cabeza, si se sospecha un derrame cerebral, por dolores de cabeza fuertes o para revisar los senos nasales.",
+ "duration": "normalmente de 5 a 10 minutos en el consultorio; la imagen en sí, menos de un minuto",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si te pidieron tomografía con contraste: si tienes alergia al yodo o al contraste y enfermedades de los riñones",
+  "Si te cuesta estar quieto o te dan miedo los lugares cerrados. El aparato es abierto, pero avisa antes"
+ ],
+ "prepare": [
+  {
+   "title": "Sin contraste",
+   "text": "No necesitas preparación. Puedes comer y tomar líquidos."
+  },
+  {
+   "title": "Con contraste",
+   "text": "Normalmente piden no comer de 3 a 4 horas; agua sí puedes tomar. A veces piden un análisis de creatinina. Pregunta en tu clínica."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate aretes, pasadores, lentes, la dentadura postiza removible y el aparato para oír."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tomografías y resonancias de cabeza anteriores",
+  "El análisis de creatinina, si te lo pidieron"
+ ],
+ "steps": [
+  "Te acuestas boca arriba y te ponen la cabeza en un soporte suave",
+  "La mesa entra en un anillo ancho: la cabeza adentro, el cuerpo afuera",
+  "Tienes que estar quieto mientras el aparato toma las imágenes",
+  "Si es con contraste, te lo ponen en la vena y toman otra serie de imágenes"
+ ],
+ "feel": [
+  "No duele, el aparato hace ruido",
+  "Con contraste: una ola de calor y sabor a metal en la boca. Se quita en un minuto"
+ ],
+ "after": [
+  "Puedes volver a tus actividades de inmediato",
+  "Después del contraste toma más agua, si el médico no te dijo otra cosa",
+  "El resultado suele estar en unas horas o en 1 a 2 días; en urgencias, de inmediato"
+ ],
+ "red_flags": [
+  "Dolor de cabeza fuerte y repentino, debilidad en un brazo o una pierna, cara chueca o dificultad para hablar: llama a emergencias de inmediato",
+  "Después del contraste, comezón, ronchas, hinchazón de la cara o dificultad para respirar: avisa al personal o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué es mejor para la cabeza, tomografía o resonancia?",
+   "a": "La tomografía es más rápida y mejor para golpes y sangrados. La resonancia muestra el tejido del cerebro con más detalle. El médico decide según el caso."
+  },
+  {
+   "q": "¿Cuánta radiación tiene una tomografía de cabeza?",
+   "a": "Más que una radiografía, pero la dosis se ajusta a lo que se busca. Si la tomografía está indicada, el beneficio es mayor que el riesgo."
+  }
+ ],
+ "reminders": []
+}

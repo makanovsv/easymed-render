@@ -1,0 +1,82 @@
+{
+ "title": "Vacunas para niños",
+ "also": [
+  "vacunación infantil",
+  "esquema de vacunación",
+  "vacuna para el bebé"
+ ],
+ "what": "Se pone una vacuna en el brazo o en el muslo. Le enseña al cuerpo del niño a defenderse antes de tiempo de una enfermedad peligrosa.",
+ "why": "Según el esquema nacional de vacunación, desde el nacimiento hasta la edad escolar, y también si faltó alguna vacuna.",
+ "duration": "la inyección dura unos segundos; toda la visita, normalmente de 30 a 60 minutos",
+ "tell_doctor": [
+  "Si el niño está enfermo ahora o tuvo fiebre en los últimos días",
+  "Sus alergias, sobre todo reacciones fuertes",
+  "Cómo le fue con las vacunas anteriores",
+  "Si tiene enfermedades de las defensas o toma corticoides",
+  "Si hace poco le pusieron una transfusión de sangre o inmunoglobulina"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone a un niño sano. Antes del piquete, el médico o la enfermera lo revisa y le toma la temperatura."
+  },
+  {
+   "title": "Ánimo",
+   "text": "Habla con tu hijo con calma y con honestidad: será rápido y le dolerá un poco. No lo asustes con la inyección."
+  },
+  {
+   "title": "Comida",
+   "text": "No hay restricciones especiales. Dale de comer como siempre. Puedes darle pecho justo después del piquete."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir fácilmente el brazo o la pierna."
+  }
+ ],
+ "bring": [
+  "La cartilla de vacunación",
+  "Los documentos del niño",
+  "Su juguete favorito",
+  "Agua o su biberón"
+ ],
+ "steps": [
+  "El médico revisa al niño y autoriza la vacuna",
+  "Tú cargas al niño o te quedas a su lado",
+  "La enfermera limpia la piel y pone la inyección rápido",
+  "Anotan la vacuna en la cartilla",
+  "Después de la vacuna, quédense en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un dolor breve por el piquete. El niño puede llorar",
+  "Enrojecimiento y una pequeña hinchazón en el lugar del piquete",
+  "A veces, en los primeros días, fiebre, irritabilidad o sueño"
+ ],
+ "after": [
+  "Quédense 30 minutos cerca del consultorio. Así el médico puede ayudar si hay una reacción",
+  "No frotes ni calientes el lugar del piquete",
+  "Normalmente puedes bañar al niño",
+  "Si le da fiebre, qué darle te lo dirá el médico"
+ ],
+ "red_flags": [
+  "Le cuesta respirar, se le hincha la cara o los labios, o tiene ronchas en todo el cuerpo: llama a emergencias",
+  "Convulsiones, o el niño está muy decaído y cuesta despertarlo: llama a emergencias",
+  "Fiebre de más de 39 grados que no baja",
+  "El niño llora sin parar más de tres horas"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede vacunar a mi hijo si tiene escurrimiento nasal?",
+   "a": "El médico decide en la revisión. Un catarro leve sin fiebre muchas veces no impide la vacuna, pero si está enfermo, normalmente la posponen."
+  },
+  {
+   "q": "¿Es normal que le dé fiebre después de la vacuna?",
+   "a": "Sí, un poco de fiebre en los primeros días es común. Es la respuesta de sus defensas. Si es alta o no se quita, llévalo al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna. Revisa que tu hijo esté sano y lleva su cartilla de vacunación."
+  }
+ ]
+}

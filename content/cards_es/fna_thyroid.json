@@ -1,0 +1,58 @@
+{
+ "title": "Biopsia de tiroides por punción",
+ "also": [
+  "BAAF de tiroides",
+  "biopsia por aspiración con aguja fina",
+  "punción de nódulo tiroideo"
+ ],
+ "what": "Con una aguja delgada, guiada por ultrasonido, toman células de un nódulo de la tiroides para saber si es benigno.",
+ "why": "Cuando el ultrasonido encontró un nódulo de cierto tamaño o con señales que hay que revisar.",
+ "duration": "normalmente de 15 a 20 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. Si se suspenden o no, lo decide el médico",
+  "Si tienes problemas de coagulación",
+  "Si tienes alergia a los anestésicos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no necesitas preparación especial. Puedes desayunar algo ligero."
+  },
+  {
+   "title": "Cuello",
+   "text": "Sin cuello alto y sin joyas en el cuello."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "El reporte del ultrasonido con la descripción del nódulo",
+  "Tus análisis de hormonas tiroideas, si tienes"
+ ],
+ "steps": [
+  "Te acuestas boca arriba con un rollo bajo los hombros y la cabeza hacia atrás",
+  "El médico localiza el nódulo con el ultrasonido y limpia la piel",
+  "A veces ponen anestesia local",
+  "Con la aguja delgada toman células varias veces, unos segundos cada vez",
+  "Te piden no tragar ni hablar en el momento del piquete",
+  "Ponen una gasa en el lugar y presionan"
+ ],
+ "feel": [
+  "Se siente como una inyección normal",
+  "Puedes sentir presión en el cuello"
+ ],
+ "after": [
+  "Presiona la gasa de 10 a 15 minutos",
+  "Un pequeño moretón o molestia es normal. Se quita en 1 o 2 días",
+  "El resultado de la citología suele tardar de 5 a 10 días"
+ ],
+ "red_flags": [
+  "El cuello se hincha rápido, o te cuesta respirar o tragar: llama a emergencias de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿La punción puede «regar» las células?",
+   "a": "No, es un mito. La punción es una forma común y segura de saber qué tipo de nódulo es."
+  }
+ ],
+ "reminders": []
+}

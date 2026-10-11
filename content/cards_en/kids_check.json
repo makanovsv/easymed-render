@@ -1,0 +1,77 @@
+{
+ "title": "Child checkup",
+ "also": [
+  "well-child visit",
+  "pediatric checkup",
+  "school checkup",
+  "kindergarten checkup"
+ ],
+ "what": "The pediatrician checks how your child is growing and developing. Sometimes other doctors, tests, and vaccines are added to the visit.",
+ "why": "On a schedule that depends on age, most often in the first year of life. Also before kindergarten, school, camp, and sports clubs.",
+ "duration": "usually 20 to 30 minutes with the pediatrician. Longer with other doctors",
+ "tell_doctor": [
+  "Any worries about health, sleep, eating, or behavior",
+  "Allergies and reactions to past vaccines",
+  "What medicines and vitamins you give",
+  "What illnesses your child has had recently"
+ ],
+ "prepare": [
+  {
+   "title": "Feeling well",
+   "text": "If your child is ill, let the clinic know. The checkup and vaccine are usually rescheduled."
+  },
+  {
+   "title": "Tests",
+   "text": "If urine or blood tests are needed, ask the clinic how to collect urine and whether your child needs to fast."
+  },
+  {
+   "title": "Mood",
+   "text": "Calmly tell your child the doctor will see how they are growing. Do not scare them with shots."
+  }
+ ],
+ "bring": [
+  "Your child's documents and vaccination record",
+  "Notes from past checkups and tests",
+  "A diaper, a blanket, a bottle, or a snack",
+  "A favorite toy"
+ ],
+ "steps": [
+  "Your child is weighed and measured. For babies, the head size is measured too",
+  "The pediatrician asks about sleep, eating, and development",
+  "The doctor listens to the heart and lungs, looks at the throat and skin, and feels the belly",
+  "The doctor checks development for age: how your child holds their head, walks, and talks",
+  "The pediatrician may refer you to other doctors or for tests",
+  "If a vaccine is due, the doctor will discuss it with you"
+ ],
+ "feel": [
+  "The checkup itself does not hurt",
+  "A baby may cry when undressed. This is normal",
+  "If a vaccine is given, a quick prick"
+ ],
+ "after": [
+  "The doctor gives advice and tells you when the next checkup is",
+  "Write down questions that come up at home, for the next visit",
+  "After a vaccine, you are usually advised to wait at the clinic for about 30 minutes"
+ ],
+ "red_flags": [
+  "Trouble breathing, a swollen face, or a rash all over right after a vaccine",
+  "Seizures, floppiness, or your child is hard to wake",
+  "A high fever in a baby under 3 months: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "How often should I take my child to the pediatrician if all is well?",
+   "a": "In the first year, usually every month, then less often, on your clinic's schedule. A separate checkup is needed before kindergarten and school."
+  },
+  {
+   "q": "Can we go to a checkup if my child has a runny nose?",
+   "a": "Let the clinic know. The checkup can sometimes go ahead, but the vaccine is usually postponed until your child is well."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Child checkup tomorrow. Get the vaccination record, documents, and a favorite toy ready."
+  }
+ ]
+}

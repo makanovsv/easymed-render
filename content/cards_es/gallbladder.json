@@ -1,0 +1,77 @@
+{
+ "title": "Cirugía de vesícula (laparoscopia)",
+ "also": [
+  "colecistectomía",
+  "colecistectomía laparoscópica",
+  "quitar la vesícula"
+ ],
+ "what": "El cirujano quita la vesícula biliar por 3 o 4 cortes pequeños en el abdomen. La cirugía es con anestesia general.",
+ "why": "Casi siempre por piedras en la vesícula con ataques de dolor o inflamación.",
+ "duration": "la cirugía dura normalmente de 1 a 2 horas; en el hospital, normalmente de 1 a 3 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Tus alergias",
+  "Si tienes enfermedades del corazón, de los pulmones o diabetes",
+  "Si antes te operaron del abdomen",
+  "Si tú o tu familia han tenido problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces una consulta con el médico general. La clínica te dará la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo hablará contigo. Cuéntale sobre tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no se come desde la noche anterior y no se bebe unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda, pantuflas, cargador del celular y los medicamentos que tomas siempre."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de tus análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Cosas para quedarte en el hospital de 1 a 3 días"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "En el quirófano, el anestesiólogo te pone la anestesia y te duermes",
+  "El cirujano hace unos cortes pequeños y mete la cámara y los instrumentos",
+  "Quitan la vesícula y cierran los cortes con puntos",
+  "Despiertas en la sala de recuperación y luego te pasan a tu cuarto"
+ ],
+ "feel": [
+  "Después de la anestesia, sueño y a veces náuseas",
+  "Dolor en los cortes. Te darán medicamento para el dolor",
+  "Muchas veces duele el hombro. Es por el gas que se usó para inflar el abdomen. Se quita en 1 o 2 días"
+ ],
+ "after": [
+  "Normalmente te dejan levantarte y caminar el mismo día o al día siguiente",
+  "En casa, una dieta suave, como te indique el médico",
+  "No cargues cosas pesadas durante varias semanas",
+  "Los puntos se quitan o se absorben solos. Te dirá el cirujano"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 grados, o dolor de abdomen fuerte o que va en aumento",
+  "Piel u ojos amarillos",
+  "Enrojecimiento o pus en los cortes"
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo se vive sin vesícula?",
+   "a": "Normalmente, bien. La bilis sigue llegando al intestino. Al principio, el médico recomienda una dieta suave."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Prepara tus cosas, tus documentos y la lista de medicamentos. Comida y agua, solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

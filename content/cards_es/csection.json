@@ -1,0 +1,86 @@
+{
+ "title": "Cesárea",
+ "also": [
+  "cesárea",
+  "operación cesárea",
+  "parto por cesárea"
+ ],
+ "what": "Es una cirugía en la que sacan al bebé por una herida en la parte baja del abdomen. Normalmente se hace con una inyección en la espalda y estás despierta.",
+ "why": "Cuando el parto natural es peligroso para la mamá o el bebé. Puede ser programada o de urgencia.",
+ "duration": "la cirugía suele durar de 40 a 60 minutos; en el hospital, normalmente de 3 a 5 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico decide qué hacer",
+  "Si tienes alergias",
+  "Enfermedades del corazón, presión alta o diabetes",
+  "Si antes tuviste cirugías del abdomen o una cesárea",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis y revisión. El hospital te dará la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo hablará contigo y te explicará la anestesia."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Antes de una cesárea programada, normalmente no comes nada desde la noche anterior. El hospital te dirá la hora exacta."
+  },
+  {
+   "title": "Cosas",
+   "text": "La maleta para el hospital, para ti y el bebé, ropa interior posparto y una faja, si el médico la recomienda."
+  }
+ ],
+ "bring": [
+  "Tu carnet prenatal y tu identificación",
+  "Resultados de análisis",
+  "La maleta para el hospital",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena y una sonda en la vejiga",
+  "El anestesiólogo te inyecta en la espalda. Las piernas y el abdomen se duermen",
+  "Ponen una tela frente a ti",
+  "El médico hace la herida en la parte baja del abdomen y saca al bebé",
+  "Te muestran al bebé y el médico cierra la herida",
+  "Te pasan a una sala de observación"
+ ],
+ "feel": [
+  "Durante la cirugía sientes presión y movimiento, pero no dolor",
+  "A veces náuseas o escalofríos. Díselo al anestesiólogo",
+  "Después duele la herida. Te dan medicamento para el dolor"
+ ],
+ "after": [
+  "Normalmente te ayudan a levantarte desde el primer día. Es importante",
+  "Puedes dar pecho de inmediato",
+  "No cargues nada más pesado que tu bebé por varias semanas",
+  "Los puntos se quitan o se absorben solos. Te lo dirá el médico"
+ ],
+ "red_flags": [
+  "Sangrado fuerte, que empapa una toalla sanitaria en una hora",
+  "Fiebre de más de 38 grados, o la herida roja o con pus",
+  "Dolor en el pecho, falta de aire o una pierna hinchada: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo tener un parto natural después de una cesárea?",
+   "a": "Muchas veces sí. Depende de la cicatriz y de la cirugía anterior. Lo deciden tú y tu médico."
+  },
+  {
+   "q": "¿Cuándo me puedo levantar después de la cesárea?",
+   "a": "Normalmente el primer día, con ayuda de la enfermera. Levantarte pronto te ayuda a recuperarte."
+  },
+  {
+   "q": "¿Puedo dar pecho después de una cesárea?",
+   "a": "Sí. En el hospital eligen medicamentos que te permitan dar pecho."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cesárea programada. Ten lista la maleta, tu carnet prenatal y tu identificación. Come solo hasta la hora que te dijo el hospital."
+  }
+ ]
+}

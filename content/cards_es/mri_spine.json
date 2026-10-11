@@ -1,0 +1,86 @@
+{
+ "title": "Resonancia magnética de la columna",
+ "also": [
+  "resonancia de columna cervical",
+  "resonancia de columna lumbar",
+  "resonancia de columna dorsal",
+  "resonancia de espalda"
+ ],
+ "what": "Son imágenes de la columna, los discos y los nervios tomadas con un campo magnético. No hay radiación. Normalmente se estudia una sola parte: el cuello, la parte media de la espalda o la parte baja.",
+ "why": "Por dolor de espalda o de cuello que no se quita, por adormecimiento o debilidad en brazos o piernas, después de una lesión o antes de una cirugía.",
+ "duration": "normalmente de 20 a 40 minutos por cada parte",
+ "tell_doctor": [
+  "Si tienes marcapasos, desfibrilador u otro implante electrónico",
+  "Si tienes metal en el cuerpo: prótesis, placas, grapas en vasos sanguíneos o esquirlas",
+  "Si tienes implante para oír o bomba de insulina",
+  "Si estás embarazada",
+  "Si te dan miedo los lugares cerrados",
+  "Si será con contraste: si tienes enfermedades de los riñones o alergia al contraste",
+  "Si por el dolor te cuesta estar mucho tiempo boca arriba"
+ ],
+ "prepare": [
+  {
+   "title": "Metal",
+   "text": "En casa quítate joyas, piercings y reloj. No se puede entrar con metal a la sala."
+  },
+  {
+   "title": "Ropa",
+   "text": "Cómoda y sin metal: sin cierres, botones de presión ni varillas en la ropa interior. Muchas veces te dan ropa desechable."
+  },
+  {
+   "title": "Maquillaje",
+   "text": "No uses rímel ni sombras con brillos: a veces tienen partículas de metal."
+  },
+  {
+   "title": "Dolor",
+   "text": "Si te duele estar acostado, pregúntale antes al médico si puedes tomar tu medicamento para el dolor antes del estudio."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Estudios e informes anteriores de resonancia o tomografía",
+  "Los documentos de tus implantes, si tienes"
+ ],
+ "steps": [
+  "Dejas en un casillero el celular, las llaves, las tarjetas y todo lo de metal",
+  "Te acuestas en la mesa del aparato y te dan audífonos o tapones: el aparato hace ruido",
+  "Te acuestas boca arriba; pueden ponerte un cojín debajo de las rodillas para que estés más cómodo",
+  "La mesa entra al túnel del aparato",
+  "Tienes que quedarte quieto; el médico te habla por un intercomunicador",
+  "En la mano tienes un botón para llamar: puedes apretarlo cuando quieras"
+ ],
+ "feel": [
+  "Golpes fuertes y zumbidos. Es normal",
+  "A veces un poco de calor en la parte del cuerpo que están estudiando",
+  "Si te ponen contraste, sientes frío en la vena. Se pasa rápido",
+  "Estar mucho tiempo boca arriba puede ser difícil. Avisa si te empieza a doler"
+ ],
+ "after": [
+  "Puedes volver a tus actividades de inmediato",
+  "El informe suele estar listo el mismo día o en 1 a 2 días",
+  "Si te pusieron contraste, toma más agua ese día, salvo que el médico te lo haya prohibido"
+ ],
+ "red_flags": [
+  "Debilidad repentina en las piernas, adormecimiento en la zona entre las piernas o problemas para orinar: no esperes la resonancia, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuántas partes de la columna estudian a la vez?",
+   "a": "Normalmente una, según la orden. Se pueden hacer varias en la misma visita, pero tarda más."
+  },
+  {
+   "q": "¿Me puedo hacer una resonancia si tengo metal en el cuerpo?",
+   "a": "Muchas veces sí, pero el médico decide. Avisa antes de cualquier implante y lleva sus documentos."
+  },
+  {
+   "q": "¿Qué es mejor para la columna, resonancia o tomografía?",
+   "a": "La resonancia muestra mejor los discos, los nervios y la médula; la tomografía, los huesos. Lo que necesitas lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu resonancia. En casa quítate joyas y piercings, y ponte ropa sin metal. Lleva tus estudios anteriores y los documentos de tus implantes."
+  }
+ ]
+}

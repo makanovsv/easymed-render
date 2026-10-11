@@ -1,0 +1,73 @@
+{
+ "title": "Ultrasonido de mama",
+ "also": [
+  "ultrasonido de senos",
+  "ultrasonido mamario",
+  "eco de mama"
+ ],
+ "what": "El médico revisa los senos y las axilas con ultrasonido. Es seguro, no tiene radiación y sirve a cualquier edad.",
+ "why": "Por una bolita o dolor en el seno, salida de líquido por el pezón, como chequeo o junto con la mastografía.",
+ "duration": "normalmente de 15 a 20 minutos",
+ "tell_doctor": [
+  "El primer día de tu última menstruación",
+  "Si sentiste una bolita, dónde está exactamente",
+  "Si te han operado los senos o tienes implantes",
+  "Si estás embarazada o das pecho",
+  "Si tomas medicamentos con hormonas"
+ ],
+ "prepare": [
+  {
+   "title": "Día del ciclo",
+   "text": "Si menstrúas, mejor ve en la primera mitad del ciclo, normalmente entre el día 5 y el 12. Después de la menopausia, cualquier día."
+  },
+  {
+   "title": "Urgente",
+   "text": "Si te salió una bolita o tienes salida de líquido, no esperes el día del ciclo. Haz tu cita de inmediato."
+  },
+  {
+   "title": "Ropa",
+   "text": "Cómoda, para que puedas descubrirte fácilmente de la cintura para arriba."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Ultrasonidos y mastografías anteriores, para comparar",
+  "Una toallita o una toalla"
+ ],
+ "steps": [
+  "Te descubres de la cintura para arriba y te acuestas boca arriba",
+  "Pones el brazo detrás de la cabeza",
+  "El médico pone gel y revisa cada seno",
+  "También revisa las axilas, ahí están los ganglios"
+ ],
+ "feel": [
+  "El gel está frío",
+  "El transductor presiona un poco. No duele"
+ ],
+ "after": [
+  "Puedes volver a tus actividades de inmediato",
+  "El reporte normalmente te lo dan en ese momento",
+  "Si encuentran algo, el médico puede recomendarte una mastografía o un control más adelante"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Qué día del ciclo se hace el ultrasonido de mama?",
+   "a": "Normalmente entre el día 5 y el 12 del ciclo. En esos días el seno está más suave y el médico ve mejor."
+  },
+  {
+   "q": "¿Qué es mejor, el ultrasonido o la mastografía?",
+   "a": "Se complementan. Antes de los 40 años se hace más el ultrasonido, después de los 40 la mastografía, a veces los dos. El médico decide."
+  },
+  {
+   "q": "¿Me puedo hacer el ultrasonido de mama si estoy dando pecho?",
+   "a": "Sí. Antes del estudio, mejor da pecho o sácate la leche."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu ultrasonido de mama. Lleva tus ultrasonidos y mastografías anteriores."
+  }
+ ]
+}

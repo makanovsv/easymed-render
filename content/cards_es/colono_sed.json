@@ -1,0 +1,101 @@
+{
+ "title": "Colonoscopia con sedación",
+ "also": [
+  "colonoscopia dormido",
+  "colonoscopia con anestesia",
+  "sedación para colonoscopia"
+ ],
+ "what": "Es la misma colonoscopia, una revisión del intestino grueso con una cámara, pero estás dormido. El anestesiólogo te pone el medicamento en la vena y te vigila todo el tiempo.",
+ "why": "Si te da miedo o antes te fue difícil, si hay dolor, si la revisión es larga o si hay que quitar pólipos.",
+ "duration": "normalmente de 20 a 40 minutos, más 30 a 60 minutos para despertar; la preparación es el día anterior",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida, o hierro",
+  "Si tienes diabetes. Habrá que ajustar la preparación y los medicamentos",
+  "Enfermedades del corazón, los pulmones o los riñones, o si roncas y dejas de respirar al dormir",
+  "Si tienes alergias y cómo te fue con la anestesia antes",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "2 a 3 días antes",
+   "text": "Dieta sin fibra: sin verduras, frutas, hojas verdes, semillas, nueces, cereales integrales ni frijoles."
+  },
+  {
+   "title": "Limpieza",
+   "text": "La solución para limpiar el intestino se toma según las indicaciones del médico, muchas veces en dos tomas: en la noche y temprano en la mañana."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Por la sedación, las reglas son más estrictas. Normalmente nada de comida de 6 a 8 horas antes, y agua natural hasta 2 o 3 horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Pregúntale al médico qué pastillas tomar en la mañana con un trago de agua."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Necesitas a un adulto que te lleve a casa. Normalmente no te dejan irte solo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Resultados de colonoscopias anteriores",
+  "La lista de tus medicamentos",
+  "A tu acompañante"
+ ],
+ "steps": [
+  "El anestesiólogo te pregunta por tu salud y te ponen un catéter en la vena",
+  "Te ponen un sensor en un dedo y un brazalete para la presión",
+  "Te acuestas sobre el lado izquierdo y te dan oxígeno por una manguerita en la nariz",
+  "Te ponen el medicamento y te duermes en un minuto",
+  "El médico hace la colonoscopia y, si hace falta, quita pólipos",
+  "Despiertas en una sala y te vigilan hasta que estés bien despierto"
+ ],
+ "feel": [
+  "Normalmente no sientes ni recuerdas nada",
+  "Al despertar, sueño e inflamación por el aire"
+ ],
+ "after": [
+  "La inflamación se quita en unas horas. Caminar ayuda",
+  "El resto del día no manejes, no uses máquinas ni tomes decisiones importantes",
+  "Ese día, nada de alcohol",
+  "Normalmente puedes comer cuando ya estés bien despierto",
+  "El resultado de la biopsia tarda de 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Dolor fuerte de estómago, fiebre alta o mucho sangrado por el recto: ve al médico de inmediato o llama a emergencias",
+  "Debilidad fuerte, falta de aire o desmayo después del estudio: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es anestesia general?",
+   "a": "Normalmente no. Es un sueño profundo con medicamentos: respiras por ti mismo y despiertas rápido."
+  },
+  {
+   "q": "¿Por qué no puedo manejar después de la sedación?",
+   "a": "El medicamento hace más lentos tus reflejos varias horas, aunque te sientas bien."
+  },
+  {
+   "q": "¿Puedo tomar agua antes de la colonoscopia con sedación?",
+   "a": "Normalmente agua natural hasta 2 o 3 horas antes. La clínica te dirá la hora exacta."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "En 3 días es tu colonoscopia con sedación. Empieza la dieta sin fibra. Ponte de acuerdo con quien te va a recoger."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu colonoscopia. Después del desayuno, solo líquidos claros. En la noche, la primera parte de la solución según tus indicaciones."
+  },
+  {
+   "hoursBefore": 6,
+   "text": "Hora de la segunda parte de la solución, si son dos tomas. Después ya no comas. Agua solo hasta la hora que te dijo la clínica."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Pronto es tu colonoscopia con sedación. Ya no tomes nada, salvo que la clínica diga otra cosa. ¿Tu acompañante está contigo?"
+  }
+ ]
+}

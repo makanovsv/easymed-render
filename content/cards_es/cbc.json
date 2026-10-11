@@ -1,0 +1,59 @@
+{
+ "title": "Biometría hemática",
+ "also": [
+  "BH",
+  "hemograma",
+  "biometría hemática completa",
+  "conteo sanguíneo completo"
+ ],
+ "what": "Muestra cuántos glóbulos rojos, hemoglobina, glóbulos blancos y plaquetas hay en tu sangre. Es el análisis más común.",
+ "why": "En una revisión, antes de una cirugía, con fiebre, cansancio, o si se sospecha anemia o inflamación.",
+ "duration": "la toma dura de 3 a 5 minutos; el resultado suele estar al día siguiente",
+ "tell_doctor": [
+  "Qué medicamentos tomas",
+  "Si estuviste enfermo hace poco o tuviste fiebre",
+  "Si eres mujer y estás en tu periodo menstrual"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Mejor en la mañana, en ayunas o unas horas después de una comida ligera. Pregunta en el laboratorio."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Sin alcohol ni ejercicio intenso."
+  }
+ ],
+ "bring": [
+  "La orden médica"
+ ],
+ "steps": [
+  "Te toman sangre de la vena o del dedo",
+  "Liga, antiséptico y un piquete breve",
+  "La sangre llena el tubo y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve"
+ ],
+ "after": [
+  "Presiona el algodón unos minutos",
+  "El médico te explica el resultado. Los números por sí solos no son un diagnóstico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Qué es la velocidad de sedimentación?",
+   "a": "Es qué tan rápido se asientan los glóbulos rojos. Sube con la inflamación, pero también puede estar alta sin enfermedad. Lo valora el médico."
+  },
+  {
+   "q": "¿Tengo que ir en ayunas?",
+   "a": "Es recomendable, pero no estrictamente necesario. Después de una comida con mucha grasa, el resultado puede salir menos exacto."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu biometría hemática. En la mañana mejor no comas nada. Puedes tomar agua."
+  }
+ ]
+}

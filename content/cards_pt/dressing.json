@@ -1,0 +1,67 @@
+{
+ "title": "Curativo",
+ "also": [
+  "troca de curativo",
+  "limpeza de ferida",
+  "curativo pós-operatório"
+ ],
+ "what": "A enfermeira ou o médico tira o curativo velho, limpa a ferida e coloca um novo. Assim a ferida cicatriza mais limpa e mais rápido.",
+ "why": "Depois de cirurgia, em cortes, queimaduras, arranhões, pontos e outras feridas.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Alergia a antissépticos, iodo ou esparadrapo",
+  "Diabetes: as feridas demoram mais para cicatrizar",
+  "Se a ferida passou a doer mais ou começou a soltar secreção",
+  "Remédios que afinam o sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Curativo",
+   "text": "Não tire o curativo sozinho, se o médico não liberou. Mantenha seco."
+  },
+  {
+   "title": "Dor",
+   "text": "Se a troca de curativo costuma doer, pergunte antes ao médico sobre remédio para dor."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma roupa larga, que deixe o local da ferida fácil de descobrir."
+  }
+ ],
+ "bring": [
+  "O resumo de alta ou a prescrição do médico",
+  "Material de curativo, se pediram para você trazer"
+ ],
+ "steps": [
+  "Você senta ou deita de um jeito que a ferida fique fácil de alcançar",
+  "O curativo velho é tirado com cuidado. Se estiver grudado, molham com soro",
+  "O médico ou a enfermeira examina a ferida",
+  "A ferida e a pele em volta são limpas com antisséptico",
+  "Colocam um curativo novo e estéril e prendem"
+ ],
+ "feel": [
+  "O antisséptico pode arder um pouco",
+  "Tirar um curativo grudado pode incomodar. Avise se doer"
+ ],
+ "after": [
+  "Mantenha o curativo seco e limpo",
+  "A próxima troca depende da ferida, muitas vezes em 1 a 3 dias",
+  "Antes do banho, pergunte se pode molhar o curativo"
+ ],
+ "red_flags": [
+  "O curativo encharca de sangue rápido",
+  "A ferida ficou vermelha, inchada, quente, com pus ou cheiro ruim",
+  "Febre acima de 38 graus"
+ ],
+ "faq": [
+  {
+   "q": "Com que frequência trocar o curativo?",
+   "a": "Depende: de todo dia até uma vez a cada alguns dias. O médico diz quando olhar a ferida."
+  },
+  {
+   "q": "Posso trocar o curativo em casa?",
+   "a": "Curativos simples muitas vezes são trocados em casa, depois que o médico explica como. Feridas mais complicadas é melhor tratar na clínica."
+  }
+ ],
+ "reminders": []
+}

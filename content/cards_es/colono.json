@@ -1,0 +1,85 @@
+{
+ "title": "Colonoscopia",
+ "also": [
+  "colonoscopía",
+  "videocolonoscopia",
+  "revisión del intestino"
+ ],
+ "what": "El médico revisa el intestino grueso por dentro con un tubo flexible con cámara. Puede quitar pólipos pequeños y tomar una muestra en ese momento.",
+ "why": "Para buscar pólipos y cáncer de colon, si hay sangre en las heces, anemia o cambios en las evacuaciones. También como chequeo después de los 45 o 50 años.",
+ "duration": "el estudio dura normalmente de 20 a 40 minutos, más la preparación del día anterior",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida o suplementos de hierro",
+  "Si tienes diabetes. Habrá que ajustar la preparación y los medicamentos",
+  "Si tienes enfermedades del corazón o de los riñones",
+  "Si quieres hacerlo dormido. Es un servicio aparte, con sedación"
+ ],
+ "prepare": [
+  {
+   "title": "De 2 a 3 días antes",
+   "text": "Dieta sin fibra: sin verduras, frutas, hojas verdes, semillas, nueces, cereales integrales ni frijoles u otras leguminosas."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Normalmente un desayuno ligero y después solo líquidos claros: agua, caldo, té sin leche."
+  },
+  {
+   "title": "Limpieza",
+   "text": "La solución para limpiar el intestino se toma según las indicaciones del médico, muchas veces en dos tomas: en la noche y temprano en la mañana. Es lo más importante para un buen resultado."
+  },
+  {
+   "title": "Listo",
+   "text": "La preparación funcionó si las evacuaciones son un líquido amarillo y transparente, sin pedacitos."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los resultados de colonoscopias anteriores",
+  "Un acompañante, si el estudio es con sedación"
+ ],
+ "steps": [
+  "Te cambias y te pones un short desechable con abertura atrás",
+  "Te acuestas sobre el lado izquierdo, con las rodillas hacia el pecho",
+  "Si es con sedación, te ponen el medicamento en la vena y te duermes",
+  "El médico mete el tubo y lo avanza con cuidado por el intestino. Pone aire para que las paredes se abran",
+  "A veces te piden voltearte boca arriba",
+  "Si encuentran un pólipo pequeño, lo quitan en ese momento"
+ ],
+ "feel": [
+  "Sin sedación, sientes inflamación y cólicos por el aire. A veces es molesto. Avísale al médico",
+  "Con sedación, normalmente no sientes ni recuerdas nada"
+ ],
+ "after": [
+  "La inflamación por el aire se quita en unas horas. Caminar ayuda",
+  "Después de la sedación no puedes manejar el resto del día",
+  "Normalmente puedes comer de inmediato",
+  "El resultado de la biopsia tarda de 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Dolor fuerte de estómago, fiebre alta o mucho sangrado por el recto: ve al médico de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Me pueden hacer la colonoscopia dormido?",
+   "a": "Sí, con sedación. Duermes de 20 a 40 minutos. Después necesitas un acompañante y no puedes manejar."
+  },
+  {
+   "q": "¿Por qué hay que tomar tanta solución?",
+   "a": "El intestino debe estar limpio. Si no, el médico podría no ver un pólipo y habría que repetir la colonoscopia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Tu colonoscopia es en 3 días. Empieza la dieta sin fibra: sin verduras, frutas, semillas ni cereales integrales."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu colonoscopia. Hoy, después del desayuno, solo líquidos claros. En la noche, la primera parte de la solución según tus indicaciones."
+  },
+  {
+   "hoursBefore": 5,
+   "text": "Es hora de la segunda parte de la solución, si tus indicaciones son en dos tomas. Termina a la hora que te dijo la clínica."
+  }
+ ]
+}

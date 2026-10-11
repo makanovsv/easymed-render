@@ -1,0 +1,79 @@
+{
+ "title": "Ultrasonido pélvico",
+ "also": [
+  "ultrasonido ginecológico",
+  "ultrasonido de útero y ovarios",
+  "ultrasonido transvaginal"
+ ],
+ "what": "El médico revisa el útero y los ovarios con ultrasonido. El transductor se pone sobre el abdomen o se introduce en la vagina. Es seguro y no tiene radiación.",
+ "why": "Por dolor en la parte baja del abdomen, alteraciones del ciclo, si planeas un embarazo o en un chequeo.",
+ "duration": "normalmente de 15 a 20 minutos",
+ "tell_doctor": [
+  "El primer día de tu última menstruación",
+  "Si nunca has tenido relaciones sexuales. Así no introducen el transductor en la vagina",
+  "Si puedes estar embarazada",
+  "Si tienes DIU o te han operado"
+ ],
+ "prepare": [
+  {
+   "title": "Día del ciclo",
+   "text": "Normalmente entre el día 5 y el 7 del ciclo, si el médico no indicó otro día. A veces hay que ir en la segunda mitad del ciclo."
+  },
+  {
+   "title": "Por el abdomen",
+   "text": "Necesitas la vejiga llena: normalmente toma 1 litro de agua una hora antes y no vayas al baño."
+  },
+  {
+   "title": "Por la vagina",
+   "text": "Aquí es al revés: vacías la vejiga antes del estudio. Pregunta en tu clínica cuál te van a hacer."
+  },
+  {
+   "title": "Higiene",
+   "text": "Báñate como siempre. Puedes llevar una toalla femenina."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Reportes de ultrasonidos anteriores",
+  "Una sábana desechable y toallitas, si la clínica no tiene"
+ ],
+ "steps": [
+  "Te quitas la ropa de la cintura para abajo y te acuestas en la camilla",
+  "Por el abdomen: ponen gel en la parte baja del abdomen y pasan el transductor",
+  "Por la vagina: al transductor delgado le ponen una funda desechable con gel y lo introducen con cuidado",
+  "El médico revisa el útero y los ovarios desde distintos ángulos"
+ ],
+ "feel": [
+  "Por el abdomen: sientes presión sobre la vejiga llena, puede ser incómodo",
+  "Por la vagina: normalmente no duele, se parece a una revisión ginecológica",
+  "Si te molesta, dile al médico"
+ ],
+ "after": [
+  "Puedes volver a tus actividades de inmediato",
+  "Puede salir un poco de flujo por el gel",
+  "El reporte normalmente te lo dan en ese momento"
+ ],
+ "red_flags": [
+  "Dolor fuerte en la parte baja del abdomen, sangrado abundante, debilidad o desmayo: no esperes la cita, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué día del ciclo se hace el ultrasonido pélvico?",
+   "a": "Normalmente entre el día 5 y el 7. Pero si el médico busca algo específico, puede indicar otro día."
+  },
+  {
+   "q": "¿Me lo puedo hacer durante la menstruación?",
+   "a": "A veces sí, si el médico lo indica. Para una revisión normal, mejor cuando termine."
+  },
+  {
+   "q": "¿Hacen el ultrasonido vaginal si nunca he tenido relaciones?",
+   "a": "No. Lo hacen por el abdomen con la vejiga llena o de otra forma que te proponga el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu ultrasonido pélvico. Si es por el abdomen, toma 1 litro de agua una hora antes y no vayas al baño."
+  }
+ ]
+}

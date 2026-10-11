@@ -1,0 +1,76 @@
+{
+ "title": "Ultrasonido de abdomen",
+ "also": [
+  "ultrasonido abdominal",
+  "eco de abdomen",
+  "ecografía abdominal"
+ ],
+ "what": "El médico revisa los órganos del abdomen con ultrasonido: hígado, vesícula, páncreas y bazo. Es seguro, no tiene radiación.",
+ "why": "Por dolor de estómago, pesadez después de comer, cambios en los análisis o en un chequeo.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Si te quitaron la vesícula o te operaron del abdomen",
+  "Si hace poco te hicieron una endoscopia o una colonoscopia. Puede quedar aire en el intestino",
+  "Si tienes diabetes. Estar mucho tiempo sin comer puede ser peligroso, el médico te dirá qué hacer"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente de 6 a 8 horas sin comer. Lo mejor es en la mañana, en ayunas."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Cena ligera. Sin refrescos, frijoles, verduras crudas, pan integral ni leche. Así hay menos gases y se ve mejor."
+  },
+  {
+   "title": "Agua y cigarro",
+   "text": "Normalmente puedes tomar un poco de agua natural. No fumes ni masques chicle antes del ultrasonido: se junta aire en el abdomen."
+  },
+  {
+   "title": "Riñones",
+   "text": "Si también revisan los riñones y la vejiga, te pueden pedir llegar con la vejiga llena. Pregunta en tu clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Ultrasonidos y análisis anteriores, si tienes",
+  "Una toallita o servilleta para limpiarte el gel"
+ ],
+ "steps": [
+  "Te acuestas boca arriba y descubres el abdomen",
+  "El médico pone un gel frío",
+  "Pasa el aparato por todo el abdomen",
+  "Te piden respirar hondo y aguantar la respiración unos segundos",
+  "A veces te piden voltearte de lado"
+ ],
+ "feel": [
+  "El gel está frío",
+  "Presionan un poco con el aparato. No duele",
+  "Si te duele una zona, al presionar puede molestar. Díselo al médico"
+ ],
+ "after": [
+  "Te limpias el gel y puedes comer de inmediato",
+  "Normalmente te dan el resultado en ese momento"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo tomar agua antes del ultrasonido de abdomen?",
+   "a": "Normalmente sí, un poco de agua natural. No comas ni tomes bebidas dulces, refrescos ni café con leche."
+  },
+  {
+   "q": "¿Qué se revisa en el ultrasonido de abdomen?",
+   "a": "Normalmente el hígado, la vesícula, el páncreas y el bazo. Los riñones muchas veces se revisan aparte. Pregunta en tu clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu ultrasonido de abdomen. Cena ligero, sin refrescos, frijoles ni verduras crudas."
+  },
+  {
+   "hoursBefore": 8,
+   "text": "Desde ahora no comas hasta el ultrasonido. Puedes tomar un poco de agua natural."
+  }
+ ]
+}

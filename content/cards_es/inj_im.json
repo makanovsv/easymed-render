@@ -1,0 +1,63 @@
+{
+ "title": "Inyección intramuscular",
+ "also": [
+  "inyección en la nalga",
+  "inyección en el músculo",
+  "inyección en el brazo"
+ ],
+ "what": "Te ponen el medicamento con una jeringa en un músculo, normalmente en la nalga, el muslo o el brazo. Desde el músculo pasa rápido a la sangre.",
+ "why": "Cuando el medicamento solo viene en inyección o hay que aplicarlo más rápido que una pastilla.",
+ "duration": "normalmente de 2 a 5 minutos",
+ "tell_doctor": [
+  "Si tienes alergia a medicamentos",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si con inyecciones anteriores te salieron bolitas o tuviste reacciones",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Receta",
+   "text": "La inyección se pone solo con indicación del médico. Si compraste tú el medicamento, llévalo y revisa la fecha de caducidad."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir fácilmente el lugar de la inyección."
+  }
+ ],
+ "bring": [
+  "La indicación del médico",
+  "El medicamento y la jeringa, si te pidieron llevar los tuyos"
+ ],
+ "steps": [
+  "La enfermera revisa que el medicamento y la dosis coincidan con la indicación",
+  "Te acuestas boca abajo o descubres el brazo",
+  "Limpian la piel con una toallita con alcohol",
+  "Meten la aguja rápido y ponen el medicamento despacio",
+  "Sacan la aguja y presionan el lugar con la toallita"
+ ],
+ "feel": [
+  "El piquete de la aguja: un dolor breve y agudo",
+  "Mientras entra el medicamento, puedes sentir presión o ardor. Depende del medicamento",
+  "Relaja el músculo: así duele menos"
+ ],
+ "after": [
+  "El lugar puede doler un poco uno o dos días",
+  "Si es la primera inyección de un medicamento nuevo, normalmente te piden quedarte de 15 a 30 minutos en la clínica",
+  "No frotes fuerte el lugar de la inyección, salvo que la enfermera te diga otra cosa"
+ ],
+ "red_flags": [
+  "Si justo después de la inyección te cuesta respirar, se te hinchan la cara y los labios, te salen ronchas en el cuerpo o te sientes débil: avisa de inmediato al personal o llama a emergencias",
+  "El lugar de la inyección está rojo, caliente, hinchado, o tienes fiebre"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué me queda una bolita después de la inyección?",
+   "a": "A veces el medicamento se absorbe despacio o se lastima un vaso pequeño. Si la bolita duele, se pone roja o crece, enséñasela al médico."
+  },
+  {
+   "q": "¿Puedo ponerme la inyección yo mismo en casa?",
+   "a": "Algunas inyecciones se ponen en casa después de aprender cómo. El médico o la enfermera deben enseñarte cómo y dónde ponerla."
+  }
+ ],
+ "reminders": []
+}

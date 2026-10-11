@@ -1,0 +1,56 @@
+{
+ "title": "Eletrocardiograma",
+ "also": [
+  "ECG",
+  "eletro",
+  "eletro do coração"
+ ],
+ "what": "É o registro da atividade elétrica do coração. Colam sensores na pele. Nenhuma corrente passa por você: é seguro.",
+ "why": "Em dor no peito, batimentos irregulares, falta de ar, check-up ou antes de cirurgia.",
+ "duration": "normalmente de 5 a 10 minutos",
+ "tell_doctor": [
+  "Quais remédios para o coração você toma",
+  "Se você tem marca-passo"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa de preparo especial. Não passe creme ou óleo no peito: os sensores grudam pior."
+  },
+  {
+   "title": "Antes do exame",
+   "text": "Não chegue correndo. Fique sentado 5 minutos para acalmar o coração."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável: será preciso deixar o peito, os punhos e os tornozelos à mostra. Melhor não usar meia-calça."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Eletrocardiogramas anteriores, para comparar"
+ ],
+ "steps": [
+  "Você se deita de barriga para cima e deixa o peito, os punhos e os tornozelos à mostra",
+  "Passam um gel na pele ou colam eletrodos descartáveis",
+  "Fique parado e sem falar por cerca de um minuto",
+  "O aparelho imprime o registro, e os eletrodos são retirados"
+ ],
+ "feel": [
+  "Nada, no máximo o gel gelado"
+ ],
+ "after": [
+  "O laudo sai na hora ou vai para o médico",
+  "Você pode voltar às suas atividades logo em seguida"
+ ],
+ "red_flags": [
+  "Se você está com dor no peito agora, não espere o exame: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O eletrocardiograma dá choque?",
+   "a": "Não. O aparelho só registra os sinais fracos do seu coração. Ele não manda nada para o corpo."
+  }
+ ],
+ "reminders": []
+}

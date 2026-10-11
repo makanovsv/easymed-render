@@ -1,0 +1,60 @@
+{
+ "title": "Chest X-ray screening",
+ "also": [
+  "chest X-ray",
+  "lung screening X-ray",
+  "TB screening X-ray",
+  "fluorography"
+ ],
+ "what": "A quick image of your lungs for a routine checkup. The radiation dose is very small.",
+ "why": "Usually once a year at a checkup, for work, school, or registration at a clinic. It helps find tuberculosis and other lung diseases early.",
+ "duration": "usually 2 to 5 minutes",
+ "tell_doctor": [
+  "If you are pregnant or might be",
+  "If you have already had a chest X-ray or CT this year"
+ ],
+ "prepare": [
+  {
+   "title": "Preparation",
+   "text": "No special prep needed. You can eat and drink."
+  },
+  {
+   "title": "Metal",
+   "text": "Take off necklaces and jewelry from your neck. Tie long hair up."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your referral, if you were given one"
+ ],
+ "steps": [
+  "You undress to the waist",
+  "You stand with your chest against the panel and rest your chin on the support",
+  "When told, you breathe in and hold your breath for a couple of seconds",
+  "Done"
+ ],
+ "feel": [
+  "Nothing. You do not feel the X-ray"
+ ],
+ "after": [
+  "You can go back to your day straight away",
+  "Results usually take 1 to 3 days",
+  "If something is seen, you may be asked for an X-ray or CT. This is not a diagnosis, just a closer look"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "How often can I have a chest X-ray screening?",
+   "a": "For screening, usually once a year. If you are ill, your doctor may order it more often."
+  },
+  {
+   "q": "Can I have it during pregnancy?",
+   "a": "It is usually postponed. If the image is really needed, the doctor decides and shields your belly."
+  },
+  {
+   "q": "How long is the result valid?",
+   "a": "Usually one year."
+  }
+ ],
+ "reminders": []
+}

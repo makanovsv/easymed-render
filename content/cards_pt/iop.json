@@ -1,0 +1,68 @@
+{
+ "title": "Medida da pressão do olho",
+ "also": [
+  "tonometria",
+  "pressão intraocular",
+  "exame de glaucoma"
+ ],
+ "what": "O médico mede a pressão do líquido dentro do olho. É rápido e normalmente não dói.",
+ "why": "Para achar cedo o glaucoma: normalmente depois dos 40 anos, quando há glaucoma na família, antes de alguns tratamentos com remédios e para acompanhar um tratamento já iniciado.",
+ "duration": "normalmente de 5 a 10 minutos",
+ "tell_doctor": [
+  "Se você usa lentes de contato",
+  "Se você tem glaucoma e quais colírios usa",
+  "Se você já fez cirurgia nos olhos, inclusive cirurgia a laser para enxergar melhor",
+  "Se você toma remédios com hormônios",
+  "Alergia a colírios"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes",
+   "text": "As lentes de contato são tiradas antes da medida. Traga o estojo e a solução."
+  },
+  {
+   "title": "Colírios",
+   "text": "Se você usa colírio para glaucoma, não pare por conta própria. Pergunte ao médico se pinga no dia da medida."
+  },
+  {
+   "title": "Olhos",
+   "text": "É melhor vir sem maquiagem nos olhos."
+  }
+ ],
+ "bring": [
+  "Óculos e estojo das lentes",
+  "Os colírios que você usa, ou os nomes deles",
+  "Resultados de medidas anteriores"
+ ],
+ "steps": [
+  "Você se senta em frente ao aparelho e apoia o queixo",
+  "Jeito sem contato: o aparelho solta um jato rápido de ar no olho",
+  "Jeito com contato: antes, pingam um colírio anestésico",
+  "Depois, o aparelho encosta por um segundo na superfície do olho",
+  "Os dois olhos são medidos, às vezes mais de uma vez"
+ ],
+ "feel": [
+  "O jato de ar é um leve estalo de surpresa, não dói",
+  "No jeito com contato, o colírio arde um pouco, e você quase não sente o toque"
+ ],
+ "after": [
+  "O resultado normalmente é dado na hora",
+  "Depois do colírio anestésico, não esfregue os olhos por 15 a 20 minutos",
+  "As lentes normalmente podem ser colocadas de 15 a 30 minutos depois. Confirme com o médico",
+  "Se a pressão estiver alta, o médico pede outros exames"
+ ],
+ "red_flags": [
+  "Dor forte e repentina no olho, vermelhidão, visão embaçada com halos coloridos, dor de cabeça e enjoo: procure um médico com urgência ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Medir a pressão do olho dói?",
+   "a": "Não. O jato de ar só pega de surpresa. No jeito com contato, o olho é anestesiado antes com colírio."
+  },
+  {
+   "q": "Dá para perceber sozinho que a pressão do olho está alta?",
+   "a": "Na maioria das vezes, não: o glaucoma passa muito tempo sem incomodar. Por isso, depois dos 40 anos, normalmente se recomenda medir a pressão com regularidade."
+  }
+ ],
+ "reminders": []
+}

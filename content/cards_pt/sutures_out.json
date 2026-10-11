@@ -1,0 +1,64 @@
+{
+ "title": "Retirada de pontos",
+ "also": [
+  "tirar os pontos",
+  "retirada de pontos",
+  "retirada de grampos"
+ ],
+ "what": "O médico ou a enfermeira corta e puxa os fios ou grampos que fecharam a ferida. Normalmente é rápido e quase não dói.",
+ "why": "Quando a ferida já cicatrizou o suficiente, na maioria das vezes depois de 5 a 14 dias, conforme o local e o tipo de ponto.",
+ "duration": "normalmente de 5 a 15 minutos",
+ "tell_doctor": [
+  "Se o ponto ficou vermelho, dói ou está saindo alguma secreção",
+  "Diabetes ou uso de corticoide: a cicatrização pode demorar mais"
+ ],
+ "prepare": [
+  {
+   "title": "Prazo",
+   "text": "Vá no dia que o médico indicou. Antes disso não pode tirar: o corte pode abrir."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma roupa confortável, que deixe o local do corte fácil de descobrir."
+  }
+ ],
+ "bring": [
+  "O resumo de alta do hospital ou o pedido médico"
+ ],
+ "steps": [
+  "Tiram o curativo e examinam o corte",
+  "Limpam a pele com antisséptico",
+  "Com uma pinça, levantam o nó e cortam o fio com uma tesoura",
+  "Puxam o fio, um para cada ponto",
+  "Os grampos são tirados com um instrumento especial",
+  "O local é limpo e, se precisar, coberto com um curativo"
+ ],
+ "feel": [
+  "Um leve repuxão ou beliscão quando o fio sai",
+  "Normalmente não dói"
+ ],
+ "after": [
+  "Normalmente o corte pode ser molhado de 1 a 2 dias depois. Confirme com o médico",
+  "Não esfregue o local com bucha e não tome sol por alguns meses. Assim a cicatriz fica mais clara",
+  "A cicatriz fica vermelha e depois clareia aos poucos, ao longo de meses"
+ ],
+ "red_flags": [
+  "O corte abriu",
+  "Vermelhidão, inchaço, pus ou febre"
+ ],
+ "faq": [
+  {
+   "q": "Tirar os pontos dói?",
+   "a": "Normalmente não: você sente um leve repuxão. Em geral, não é preciso anestesia."
+  },
+  {
+   "q": "Posso tirar os pontos sozinho?",
+   "a": "Não é bom: há risco de infecção e de um pedaço do fio ficar na pele. Quem faz isso é o médico ou a enfermeira."
+  },
+  {
+   "q": "Depois de quantos dias os pontos são retirados?",
+   "a": "Normalmente no rosto de 5 a 7 dias, no corpo e nos braços e pernas de 7 a 14. O prazo exato quem diz é o médico."
+  }
+ ],
+ "reminders": []
+}

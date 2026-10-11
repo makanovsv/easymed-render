@@ -1,0 +1,83 @@
+{
+ "title": "Childhood vaccines",
+ "also": [
+  "childhood immunizations",
+  "baby shots",
+  "vaccination schedule",
+  "child vaccines"
+ ],
+ "what": "A vaccine is injected into the upper arm or thigh. It teaches your child's body to protect itself from a dangerous disease in advance.",
+ "why": "Following the national vaccination schedule, from birth to school age, and to catch up on missed vaccines.",
+ "duration": "the shot takes a few seconds, the whole visit usually 30 to 60 minutes",
+ "tell_doctor": [
+  "If your child is ill now or has had a fever in the last few days",
+  "Allergies, especially strong reactions",
+  "How your child coped with past vaccines",
+  "If your child has immune system problems or takes steroids",
+  "If your child recently had a blood transfusion or immunoglobulin"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "Vaccines are given to a healthy child. Before the shot, the doctor or nurse checks your child and takes their temperature."
+  },
+  {
+   "title": "Mood",
+   "text": "Talk to your child calmly and honestly: it will be quick and hurt a little. Do not use the shot as a threat."
+  },
+  {
+   "title": "Food",
+   "text": "No special limits. Feed your child as usual. You can breastfeed right after the shot."
+  },
+  {
+   "title": "Clothes",
+   "text": "Dress your child in something comfortable so the arm or leg is easy to uncover."
+  }
+ ],
+ "bring": [
+  "Your child's vaccination record",
+  "Your child's documents",
+  "A favorite toy",
+  "Water or a bottle"
+ ],
+ "steps": [
+  "The doctor checks your child and gives the go-ahead",
+  "You hold your child on your lap or stay close",
+  "The nurse wipes the skin and quickly gives the shot",
+  "The vaccine is written in the record",
+  "After the shot, you stay at the clinic for about 30 minutes"
+ ],
+ "feel": [
+  "A quick pain from the shot. Your child may cry",
+  "Redness and slight swelling where the shot was given",
+  "Sometimes in the first days: fever, fussiness, sleepiness"
+ ],
+ "after": [
+  "Stay near the room for 30 minutes, so the doctor can help if there is a reaction",
+  "Do not rub or warm the injection spot",
+  "Bathing is usually fine",
+  "If your child gets a fever, the doctor will tell you what to give"
+ ],
+ "red_flags": [
+  "Trouble breathing, a swollen face or lips, or a rash all over the body: call emergency services",
+  "Seizures, or your child is floppy and hard to wake: call emergency services",
+  "A fever above 39 degrees that does not come down",
+  "Your child cries nonstop for more than three hours"
+ ],
+ "faq": [
+  {
+   "q": "Can my child be vaccinated with a runny nose?",
+   "a": "The doctor decides at the checkup. A mild runny nose without fever often is not a problem, but if your child is ill, the vaccine is usually postponed."
+  },
+  {
+   "q": "Is a fever after a vaccine normal?",
+   "a": "Yes, a mild fever in the first days is common. It is the immune system responding. If it is high or does not go away, see the doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Vaccine tomorrow. Make sure your child is well, and bring the vaccination record."
+  }
+ ]
+}

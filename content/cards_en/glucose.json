@@ -1,0 +1,77 @@
+{
+ "title": "Blood glucose test",
+ "also": [
+  "blood sugar test",
+  "fasting glucose",
+  "sugar test",
+  "glucose test"
+ ],
+ "what": "This test shows how much sugar is in your blood right now. Blood is taken from a vein or a finger.",
+ "why": "To check for diabetes, if you are very thirsty, pee often, or feel weak, at a checkup, and to monitor treatment.",
+ "duration": "the blood draw takes 2 to 5 minutes. Results usually come the same day or the next",
+ "tell_doctor": [
+  "If you have diabetes and take tablets or insulin. Tell your doctor, who will decide what to do that morning",
+  "If you are pregnant",
+  "If you were ill recently or take hormones"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Strictly fasting: usually 8 to 14 hours without food. Plain water is fine."
+  },
+  {
+   "title": "The day before",
+   "text": "Have a normal dinner, without overeating or alcohol. Do not change your diet in the days before the test."
+  },
+  {
+   "title": "In the morning",
+   "text": "Do not smoke, chew gum, or drink sweet drinks, tea, or coffee."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. If you have diabetes, ask your doctor how to take your medicines on the test day."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "Some food, to eat right after the test, especially if you have diabetes"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the table",
+  "The skin is cleaned with antiseptic",
+  "A quick prick in a vein or a finger",
+  "Blood fills the tube",
+  "A cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick"
+ ],
+ "after": [
+  "You can eat right after the test",
+  "Your doctor reviews the result. If in doubt, the test is repeated or other tests are ordered"
+ ],
+ "red_flags": [
+  "If you have diabetes: if you feel shaky, have a cold sweat, or feel confused while fasting, eat some sugar and tell the nurse"
+ ],
+ "faq": [
+  {
+   "q": "Can I brush my teeth before a blood sugar test?",
+   "a": "Usually it is better without toothpaste, or with sugar-free toothpaste. It is a small thing, but some labs ask for it."
+  },
+  {
+   "q": "Is finger blood the same as vein blood?",
+   "a": "Almost, but the numbers differ a little. To make a diagnosis, doctors more often use blood from a vein."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Blood sugar test tomorrow. Do not eat after dinner. Water is fine."
+  },
+  {
+   "hoursBefore": 2,
+   "text": "Blood sugar test soon. Do not eat or have sweet drinks. Bring some food for afterward."
+  }
+ ]
+}

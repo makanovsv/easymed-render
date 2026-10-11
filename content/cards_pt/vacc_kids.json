@@ -1,0 +1,82 @@
+{
+ "title": "Vacinas infantis",
+ "also": [
+  "vacinação infantil",
+  "vacinas do calendário",
+  "vacina para criança"
+ ],
+ "what": "A vacina é aplicada no braço ou na coxa. Ela ensina o corpo da criança a se defender de uma doença perigosa com antecedência.",
+ "why": "Conforme o calendário nacional de vacinação, desde o nascimento até a idade escolar, e também quando alguma vacina ficou atrasada.",
+ "duration": "a injeção leva alguns segundos, a visita toda normalmente de 30 a 60 minutos",
+ "tell_doctor": [
+  "Se a criança está doente agora ou teve febre nos últimos dias",
+  "Alergias, principalmente reações fortes",
+  "Como a criança reagiu às vacinas anteriores",
+  "Se há doenças da imunidade ou se a criança toma corticoides",
+  "Se a criança recebeu transfusão de sangue ou imunoglobulina há pouco tempo"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é aplicada na criança saudável. Antes da injeção, o médico ou a enfermeira examina e mede a temperatura."
+  },
+  {
+   "title": "Clima",
+   "text": "Fale com a criança com calma e sinceridade: vai ser rápido e vai doer um pouquinho. Não assuste com a injeção."
+  },
+  {
+   "title": "Comida",
+   "text": "Não há restrições especiais. Alimente a criança como sempre. Pode dar o peito logo depois da injeção."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma roupa confortável, que deixe o braço ou a perna fácil de descobrir."
+  }
+ ],
+ "bring": [
+  "A caderneta de vacinação",
+  "Documentos da criança",
+  "O brinquedo preferido",
+  "Água ou mamadeira"
+ ],
+ "steps": [
+  "O médico examina a criança e libera a vacina",
+  "Você segura a criança no colo ou fica ao lado",
+  "A enfermeira limpa a pele e aplica a injeção rápido",
+  "A vacina é registrada na caderneta",
+  "Depois da injeção, é preciso esperar uns 30 minutos na clínica"
+ ],
+ "feel": [
+  "Uma dor rápida da picada. A criança pode chorar",
+  "Vermelhidão e um pequeno inchaço no local",
+  "Às vezes, nos primeiros dias, febre, manha e sonolência"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala. Assim o médico pode ajudar, se houver reação",
+  "Não esfregue nem aqueça o local da injeção",
+  "Dar banho na criança normalmente pode",
+  "Se a febre subir, o que dar à criança o médico vai dizer"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou nos lábios, manchas pelo corpo todo: ligue para a emergência",
+  "Convulsões, ou a criança mole e difícil de acordar: ligue para a emergência",
+  "Febre acima de 39 graus que não baixa",
+  "A criança chora sem parar por mais de três horas"
+ ],
+ "faq": [
+  {
+   "q": "A criança pode tomar vacina com coriza?",
+   "a": "Quem decide é o médico na avaliação. Uma coriza leve sem febre muitas vezes não atrapalha, mas com doença a vacina normalmente é adiada."
+  },
+  {
+   "q": "É normal ter febre depois da vacina?",
+   "a": "Sim, uma febre baixa nos primeiros dias é comum. É a resposta da imunidade. Se for alta ou não passar, leve a criança ao médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é dia de vacina. Confira se a criança está bem e leve a caderneta de vacinação."
+  }
+ ]
+}

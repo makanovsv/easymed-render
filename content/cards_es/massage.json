@@ -1,0 +1,69 @@
+{
+ "title": "Masaje terapéutico",
+ "also": [
+  "masaje médico",
+  "masaje de espalda",
+  "masaje indicado por el médico"
+ ],
+ "what": "El masajista trabaja los músculos con las manos. Esto quita la tensión, mejora la circulación y ayuda a recuperarte.",
+ "why": "Por dolor de espalda y cuello, después de lesiones y cirugías, por tensión muscular y para recuperarte después de una enfermedad.",
+ "duration": "una sesión suele durar de 20 a 40 minutos; el tratamiento, normalmente unas 10 sesiones",
+ "tell_doctor": [
+  "Si tienes fiebre o estás resfriado",
+  "Si tienes enfermedades de la piel, heridas o ronchas",
+  "Si tienes coágulos en las venas o várices",
+  "Si tienes enfermedades del corazón o de la presión",
+  "Si estás embarazada",
+  "Si tienes o has tenido tumores"
+ ],
+ "prepare": [
+  {
+   "title": "Indicación",
+   "text": "Normalmente el masaje lo indica el médico y dice qué zona hay que trabajar."
+  },
+  {
+   "title": "Comida",
+   "text": "No comas mucho una hora antes de la sesión ni justo después."
+  },
+  {
+   "title": "Piel",
+   "text": "Báñate antes. No te pongas cremas antes de la sesión, salvo que el masajista te lo pida."
+  }
+ ],
+ "bring": [
+  "La orden del médico",
+  "Una toalla o una sábana, si te la piden",
+  "Ropa cómoda"
+ ],
+ "steps": [
+  "El masajista te pregunta cómo te sientes y dónde te duele",
+  "Descubres la zona que se va a trabajar y te acuestas en la camilla",
+  "El masajista pone aceite o crema",
+  "Primero hace caricias suaves y luego trabaja los músculos",
+  "Al final vuelve a hacer movimientos suaves y descansas un poco"
+ ],
+ "feel": [
+  "Calor y relajación",
+  "En las zonas tensas puede ser molesto. Es normal",
+  "Si de verdad duele, avísale de inmediato al masajista",
+  "Después de las primeras sesiones, los músculos pueden doler 1 o 2 días"
+ ],
+ "after": [
+  "No te levantes de golpe; quédate acostado un par de minutos",
+  "Toma agua si se te antoja",
+  "No salgas al frío de inmediato",
+  "Si después de la sesión te sientes peor, avísale al médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿El masaje debe doler?",
+   "a": "No. Puede ser molesto, pero un dolor fuerte es señal de parar. Avísale al masajista."
+  },
+  {
+   "q": "¿Cuántas sesiones necesito?",
+   "a": "Normalmente el tratamiento es de unas 10 sesiones. El número exacto lo indica el médico."
+  }
+ ],
+ "reminders": []
+}

@@ -1,0 +1,57 @@
+{
+ "title": "Extração de dente",
+ "also": [
+  "arrancar dente",
+  "tirar dente",
+  "exodontia"
+ ],
+ "what": "O dentista retira o dente com anestesia local. Normalmente leva poucos minutos.",
+ "why": "Quando o dente não tem tratamento: muito destruído, inflamado, mole, ou antes de prótese ou aparelho.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Remédios que afinam o sangue",
+  "Diabetes e doenças do coração",
+  "Alergia a anestésicos",
+  "Gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Coma 1 a 2 horas antes da consulta: depois da extração, você não vai poder comer por 2 horas."
+  },
+  {
+   "title": "Álcool",
+   "text": "Sem álcool um dia antes e um dia depois."
+  }
+ ],
+ "bring": [
+  "Raio X do dente, se você fez"
+ ],
+ "steps": [
+  "O dentista examina o dente e, se precisar, faz um raio X",
+  "Aplicam a anestesia. Em poucos minutos, a gengiva e o lábio ficam dormentes",
+  "O dentista solta o dente e o retira",
+  "Colocam uma gaze no local, e você deve morder"
+ ],
+ "feel": [
+  "Sensação de pressão e de estalo é normal. Não deve doer",
+  "Se doer, avise o dentista: ele aplica mais anestesia"
+ ],
+ "after": [
+  "Fique mordendo a gaze de 20 a 30 minutos",
+  "Não coma por 2 horas. No primeiro dia, nada quente ou apimentado, sem canudo e sem cigarro",
+  "No primeiro dia, não faça bochecho forte: o coágulo precisa ficar no buraco",
+  "Inchaço e dor moderada por 2 a 3 dias são normais"
+ ],
+ "red_flags": [
+  "Sangramento que não para por mais de uma hora",
+  "Inchaço e dor que pioram depois do terceiro dia, febre ou mau cheiro no local"
+ ],
+ "faq": [
+  {
+   "q": "Posso fazer bochecho depois da extração?",
+   "a": "No primeiro dia, não: o coágulo pode sair e o local inflamar. Depois, só bochechos suaves, se o dentista orientar."
+  }
+ ],
+ "reminders": []
+}

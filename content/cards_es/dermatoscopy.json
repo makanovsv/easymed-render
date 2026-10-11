@@ -1,0 +1,62 @@
+{
+ "title": "Dermatoscopia",
+ "also": [
+  "revisión de lunares",
+  "checar lunares",
+  "mapeo de lunares"
+ ],
+ "what": "El médico mira tus lunares con una lupa especial con luz, el dermatoscopio. Así se ve la estructura que no se nota a simple vista.",
+ "why": "Para revisar los lunares una vez al año: si tienes muchos, si uno cambió, sangra o da comezón, o si en tu familia hubo melanoma.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Qué lunares cambiaron y cuándo",
+  "Si tú o tus familiares han tenido cáncer de piel",
+  "Si te has quemado mucho con el sol",
+  "Si ya te han quitado lunares"
+ ],
+ "prepare": [
+  {
+   "title": "Piel",
+   "text": "No te pongas crema, maquillaje ni autobronceador antes de la revisión."
+  },
+  {
+   "title": "Uñas",
+   "text": "Si tienes manchas en las uñas, quítate el esmalte."
+  },
+  {
+   "title": "Revísate",
+   "text": "Antes de ir, ubica o tómales foto a los lunares que te preocupan."
+  }
+ ],
+ "bring": [
+  "Resultados e imágenes anteriores de tus lunares",
+  "Los resultados de patología, si te han quitado lunares"
+ ],
+ "steps": [
+  "El médico te pregunta qué te preocupa",
+  "Te quitas la ropa y te quedas en ropa interior, para revisar toda la piel",
+  "El médico pone el dermatoscopio sobre cada lunar sospechoso",
+  "A veces les toma foto a los lunares para compararlos después",
+  "El médico te dice qué hacer: vigilarlos o quitarlos"
+ ],
+ "feel": [
+  "Nada, solo el contacto del aparato, a veces con una gotita de gel"
+ ],
+ "after": [
+  "Normalmente te dan el resultado en ese momento",
+  "Si hay que quitar un lunar, te darán la orden",
+  "La siguiente revisión, cuando diga el médico. Muchas veces es una vez al año"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Qué lunares tengo que enseñarle al médico?",
+   "a": "Los que crecen, cambian de color o de forma, sangran, dan comezón o se ven muy distintos a los demás."
+  },
+  {
+   "q": "¿Duele la dermatoscopia?",
+   "a": "No. Es solo una revisión con lupa, sin piquetes ni cortes."
+  }
+ ],
+ "reminders": []
+}

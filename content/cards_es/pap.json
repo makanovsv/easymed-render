@@ -1,0 +1,76 @@
+{
+ "title": "Papanicolaou (citología del cuello del útero)",
+ "also": [
+  "Papanicolaou",
+  "prueba de Papanicolaou",
+  "citología vaginal",
+  "detección de cáncer cervicouterino"
+ ],
+ "what": "La ginecóloga toma células del cuello del útero con un cepillito suave. Las revisan al microscopio para encontrar a tiempo cambios que podrían volverse cáncer.",
+ "why": "Para la revisión periódica de cáncer cervicouterino y cuando hubo cambios en estudios anteriores. Muchas veces junto con la prueba del VPH.",
+ "duration": "el procedimiento dura de 1 a 2 minutos; el resultado suele estar en 1 a 2 semanas",
+ "tell_doctor": [
+  "El primer día de tu última menstruación",
+  "Si estás embarazada",
+  "Si antes tuviste cambios en el Papanicolaou o tratamiento del cuello del útero",
+  "Si estás vacunada contra el VPH"
+ ],
+ "prepare": [
+  {
+   "title": "Ciclo",
+   "text": "No durante la menstruación. Normalmente es mejor a mitad del ciclo. Confírmalo con tu médico."
+  },
+  {
+   "title": "2 días antes",
+   "text": "Sin relaciones sexuales, duchas vaginales, óvulos, cremas ni tabletas vaginales."
+  },
+  {
+   "title": "Revisión",
+   "text": "Si hace poco te hicieron una revisión con gel o una colposcopia, díselo al médico. A veces el estudio se pasa a otro día."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Resultados anteriores del Papanicolaou",
+  "Una toalla femenina para después"
+ ],
+ "steps": [
+  "Te quitas la ropa de la cintura para abajo y te acuestas en la mesa ginecológica",
+  "El médico introduce un espejo vaginal desechable",
+  "Con un cepillito suave toma células del cuello del útero. Son unos segundos",
+  "La muestra se pone en un frasco con líquido o en un vidrio",
+  "Sacan el espejo"
+ ],
+ "feel": [
+  "Presión por el espejo",
+  "Una breve sensación de jalón al tomar las células"
+ ],
+ "after": [
+  "Un ligero manchado durante el día es normal",
+  "Si el resultado sale con cambios, el médico te pedirá repetir el estudio o una revisión. Eso no significa que tengas cáncer",
+  "Cada cuánto repetirlo te lo dirá el médico, según el programa de detección"
+ ],
+ "red_flags": [
+  "Dolor fuerte o sangrado abundante después del estudio: ve al médico o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cada cuánto me tengo que hacer el Papanicolaou?",
+   "a": "Normalmente cada 3 a 5 años, según tu edad y el resultado de la prueba del VPH. Tu médico te dirá cuándo."
+  },
+  {
+   "q": "¿Un mal resultado del Papanicolaou es cáncer?",
+   "a": "Normalmente no. Casi siempre son cambios en las células que se tratan bien. Para eso sirve la detección."
+  },
+  {
+   "q": "¿Duele el Papanicolaou?",
+   "a": "Normalmente no. Es incómodo, pero rápido. Relájate y respira tranquila."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "En 2 días es tu Papanicolaou. Desde hoy, sin relaciones sexuales, duchas vaginales, óvulos ni cremas."
+  }
+ ]
+}

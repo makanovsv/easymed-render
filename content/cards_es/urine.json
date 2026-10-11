@@ -1,0 +1,75 @@
+{
+ "title": "Examen general de orina",
+ "also": [
+  "EGO",
+  "examen de orina",
+  "análisis de orina"
+ ],
+ "what": "Juntas la primera orina de la mañana en un frasco en casa y la llevas al laboratorio. Muestra cómo funcionan los riñones y si hay inflamación.",
+ "why": "En un chequeo, por dolor en la parte baja del abdomen o en la espalda baja, si orinas seguido o con dolor, en el embarazo o con diabetes.",
+ "duration": "juntarla toma de 2 a 3 minutos en casa; el resultado suele estar al día siguiente",
+ "tell_doctor": [
+  "Qué medicamentos y vitaminas tomas",
+  "Si estás en tu menstruación. Normalmente el análisis se pasa a otro día",
+  "Si hace poco tuviste una sonda o procedimientos en las vías urinarias"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Consigue un frasco estéril en la farmacia o en el laboratorio. No uses un frasco de comida."
+  },
+  {
+   "title": "El día anterior",
+   "text": "No comas betabel ni alimentos que pinten la orina. Nada de alcohol ni ejercicio intenso. Toma líquidos como siempre."
+  },
+  {
+   "title": "En la mañana",
+   "text": "Lávate tus partes con agua tibia, sin jabón perfumado. Si eres mujer, es mejor tapar la entrada de la vagina con un tampón o un algodón."
+  },
+  {
+   "title": "Cómo juntarla",
+   "text": "Se necesita la primera orina de la mañana, el chorro de en medio: los primeros segundos al baño, luego al frasco, y el final otra vez al baño."
+  }
+ ],
+ "bring": [
+  "El frasco con la orina, bien cerrado y con tu nombre",
+  "La orden médica"
+ ],
+ "steps": [
+  "En la mañana, después de lavarte, empieza a orinar en el baño",
+  "Sin cortar el chorro, pon el frasco",
+  "Llena como la mitad del frasco",
+  "Termina en el baño y cierra bien la tapa",
+  "Llévalo al laboratorio en 1 a 2 horas"
+ ],
+ "feel": [
+  "Nada"
+ ],
+ "after": [
+  "El resultado te lo explica el médico",
+  "Si encuentran cambios en la orina, muchas veces piden repetir el análisis"
+ ],
+ "red_flags": [
+  "Sangre en la orina, o dolor fuerte en la espalda baja con fiebre: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo hacerme el examen de orina en mi periodo?",
+   "a": "Mejor no, porque la sangre pasa a la muestra. Normalmente se hace 2 o 3 días después de que termina."
+  },
+  {
+   "q": "¿Puedo juntar la orina desde la noche?",
+   "a": "No. Se necesita orina fresca de la mañana, y hay que llevarla en 1 a 2 horas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Mañana es tu examen de orina. Ten listo un frasco estéril. Hoy, nada de betabel ni alcohol."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "Junta la primera orina de la mañana después de lavarte, el chorro de en medio. Llévala al laboratorio en 1 a 2 horas."
+  }
+ ]
+}

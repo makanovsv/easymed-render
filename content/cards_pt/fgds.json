@@ -1,0 +1,80 @@
+{
+ "title": "Endoscopia digestiva alta",
+ "also": [
+  "endoscopia",
+  "EDA",
+  "gastroscopia",
+  "engolir a sonda"
+ ],
+ "what": "O médico examina o esôfago, o estômago e o duodeno com um tubo fino e flexível com câmera, que entra pela boca.",
+ "why": "Em azia, dor na barriga, anemia, suspeita de úlcera, gastrite ou Helicobacter, e para colher biópsia.",
+ "duration": "o exame em si leva de 5 a 15 minutos",
+ "tell_doctor": [
+  "Remédios que afinam o sangue: pode ser preciso mudar por um tempo, o médico decide",
+  "Diabetes",
+  "Alergia a lidocaína e a outros anestésicos",
+  "Gravidez",
+  "Se você quer fazer dormindo: é um serviço à parte"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Fique 8 horas sem comer. Na véspera, um jantar leve e sem álcool."
+  },
+  {
+   "title": "Água",
+   "text": "Normalmente pode beber água até 2 a 4 horas antes do exame. Confirme com a clínica."
+  },
+  {
+   "title": "De manhã",
+   "text": "Não fume e não masque chiclete: isso aumenta o suco do estômago."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos de endoscopias anteriores",
+  "Uma toalha ou fralda de pano, se a clínica pedir"
+ ],
+ "steps": [
+  "Você tira dentaduras móveis e óculos",
+  "Passam um spray anestésico na garganta, que fica dormente",
+  "Você se deita do lado esquerdo e coloca um protetor de plástico entre os dentes",
+  "O médico introduz o tubo, você engole uma vez e depois ele desce sozinho",
+  "Respire com calma pelo nariz. Não engula a saliva: ela é aspirada",
+  "Às vezes tiram um pedacinho de tecido para análise. Não dói",
+  "O tubo é retirado"
+ ],
+ "feel": [
+  "Ânsia de vômito no começo é normal. Respirar devagar pelo nariz ajuda",
+  "Sensação de estufamento por causa do ar",
+  "Normalmente não há dor"
+ ],
+ "after": [
+  "Fique de 30 a 60 minutos sem comer nem beber, até passar a dormência na garganta",
+  "Um leve arranhado na garganta pode durar até a noite",
+  "O laudo sai na hora. A biópsia, normalmente em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Dor forte no peito ou na barriga, vômito com sangue, fezes pretas ou febre alta: procure o médico na hora ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dá para fazer a endoscopia dormindo?",
+   "a": "Sim, com sedação. Aí, depois do exame, você não pode dirigir até o fim do dia e precisa de acompanhante."
+  },
+  {
+   "q": "Dói engolir a sonda?",
+   "a": "Doer, não. Incomodar, sim, nos primeiros segundos. Respirar com calma pelo nariz ajuda."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "Amanhã é a endoscopia. A partir de agora, não coma. Água só até o horário que a clínica indicou."
+  },
+  {
+   "hoursBefore": 1.5,
+   "text": "A endoscopia está chegando. Não fume. Leve o pedido médico e os laudos anteriores."
+  }
+ ]
+}

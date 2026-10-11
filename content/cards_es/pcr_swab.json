@@ -1,0 +1,69 @@
+{
+ "title": "Prueba PCR con hisopo de nariz y garganta",
+ "also": [
+  "PCR",
+  "hisopado nasal",
+  "exudado faríngeo",
+  "prueba de virus"
+ ],
+ "what": "La enfermera pasa un hisopo suave por la nariz y la garganta y manda la muestra al laboratorio. La prueba busca rastros de virus o bacterias.",
+ "why": "Por gripe, tos o fiebre, o porque te la piden para un viaje, el trabajo o un internamiento.",
+ "duration": "la toma dura como un minuto; el resultado suele estar en 1 a 2 días",
+ "tell_doctor": [
+  "Si te sangra seguido la nariz o te operaron de la nariz",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si te dan ganas de vomitar con facilidad"
+ ],
+ "prepare": [
+  {
+   "title": "3 a 4 horas antes",
+   "text": "Normalmente no comas, no tomes nada, no te laves los dientes, no hagas gárgaras ni masques chicle. Pregunta en tu clínica."
+  },
+  {
+   "title": "Nariz",
+   "text": "El día de la prueba no te pongas gotas ni spray en la nariz y no te la laves, salvo que el médico diga otra cosa."
+  },
+  {
+   "title": "Cigarro",
+   "text": "No fumes varias horas antes de la prueba."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Un cubrebocas, si tienes síntomas de gripe"
+ ],
+ "steps": [
+  "Te sientas e inclinas un poco la cabeza hacia atrás",
+  "Meten el hisopo en la fosa nasal y lo giran unos segundos",
+  "Luego abres la boca y pasan el hisopo por el fondo de la garganta",
+  "Ponen los hisopos en un tubo y lo etiquetan"
+ ],
+ "feel": [
+  "En la nariz da cosquillas. Puedes estornudar o te pueden llorar los ojos",
+  "En la garganta puedes sentir ganas de vomitar por un segundo"
+ ],
+ "after": [
+  "Las molestias se quitan en unos minutos",
+  "Mientras esperas el resultado, si tienes gripe, mejor convive poco con otras personas"
+ ],
+ "red_flags": [
+  "Sangrado de nariz que no para en 15 a 20 minutos: ve al médico o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele la prueba de la nariz?",
+   "a": "No duele, pero es incómoda: da cosquillas y ganas de estornudar. Dura unos segundos."
+  },
+  {
+   "q": "¿Puedo comer antes de la prueba PCR?",
+   "a": "Mejor no comas ni tomes nada de 3 a 4 horas antes. Si no, la muestra puede quedar con poco material."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "En unas horas es tu prueba PCR. Desde ahora no comas, no tomes nada, no te laves los dientes ni te pongas gotas en la nariz."
+  }
+ ]
+}

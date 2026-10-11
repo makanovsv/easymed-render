@@ -1,0 +1,80 @@
+{
+ "title": "Sedación (dormir con medicamento)",
+ "also": [
+  "sedación",
+  "procedimiento dormido",
+  "sedación intravenosa"
+ ],
+ "what": "Te ponen un medicamento en la vena que te hace dormir de forma ligera. El procedimiento pasa tranquilo y normalmente no lo recuerdas.",
+ "why": "Para que un estudio o procedimiento pase sin miedo ni molestias. Por ejemplo, una endoscopia o una colonoscopia.",
+ "duration": "la sedación dura lo que dura el procedimiento; normalmente te recuperas en 30 a 60 minutos",
+ "tell_doctor": [
+  "Todos los medicamentos que tomas",
+  "Alergias",
+  "Enfermedades del corazón o de los pulmones, apnea del sueño",
+  "Si tuviste problemas con la anestesia",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente nada de comer 6 horas antes. Agua natural, hasta la hora que te diga la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Dile al médico qué tomas. Él decide qué puedes tomar en la mañana."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Después de la sedación no puedes manejar. Pide que alguien pase por ti."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda. Quítate las joyas y los lentes de contacto."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de tus medicamentos",
+  "Tus documentos",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena y un sensor en el dedo",
+  "La enfermera o el anestesiólogo te pone el medicamento",
+  "En un minuto te quedas dormido",
+  "Durante el procedimiento vigilan tu respiración y tu pulso",
+  "Despiertas y descansas en la sala hasta que te recuperas"
+ ],
+ "feel": [
+  "Un poco de calor o ardor en la vena al ponerte el medicamento",
+  "Sueño después de despertar",
+  "A veces un ligero mareo. Se quita"
+ ],
+ "after": [
+  "Ese día no manejes",
+  "No firmes documentos importantes ni tomes decisiones serias hasta el día siguiente",
+  "Puedes comer y tomar líquidos cuando el médico te diga",
+  "Es mejor que alguien esté contigo hasta la noche"
+ ],
+ "red_flags": [
+  "Te cuesta respirar o tienes dolor en el pecho: llama a emergencias",
+  "Mucho sueño que no se quita en varias horas"
+ ],
+ "faq": [
+  {
+   "q": "¿La sedación es anestesia general?",
+   "a": "No exactamente. El sueño es ligero y respiras solo. Es más suave que la anestesia general."
+  },
+  {
+   "q": "¿Por qué no puedo manejar después de la sedación?",
+   "a": "El medicamento hace tus reflejos más lentos por varias horas, aunque te sientas bien."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu procedimiento con sedación. Pide que alguien pase por ti. Puedes comer hasta la hora que te dijo la clínica."
+  }
+ ]
+}

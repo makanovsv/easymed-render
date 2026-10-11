@@ -1,0 +1,70 @@
+{
+ "title": "Tomografía de abdomen con contraste",
+ "also": [
+  "tomografía abdominal",
+  "TAC de abdomen",
+  "tomografía con contraste"
+ ],
+ "what": "La tomografía muestra los órganos del abdomen en cortes. El contraste en la vena hace que los vasos y los órganos se vean mejor.",
+ "why": "Por dolor de abdomen, para buscar tumores y piedras, después de un golpe o para revisar cómo va un tratamiento.",
+ "duration": "en el consultorio de 15 a 30 minutos; a veces más, si tienes que tomar contraste",
+ "tell_doctor": [
+  "Si tienes alergias, sobre todo al yodo o al contraste",
+  "Si tienes enfermedades de los riñones. Pueden pedirte un análisis de creatinina",
+  "Si tienes diabetes y qué medicamentos tomas. El médico te dirá si hay que cambiar algo",
+  "Si estás embarazada o podrías estarlo"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente de 4 a 6 horas sin comer. Puedes tomar agua. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Contraste tomado",
+   "text": "A veces piden tomar una solución de contraste 1 o 2 horas antes del estudio. Si te lo dijeron, llega con tiempo."
+  },
+  {
+   "title": "Metal",
+   "text": "Ropa sin metal en el abdomen. Te pedirán quitarte el cinturón y las joyas."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "El análisis de creatinina, si te lo pidieron",
+  "Estudios anteriores de tomografía, resonancia o ultrasonido"
+ ],
+ "steps": [
+  "Te ponen un catéter delgado en la vena del brazo",
+  "Te acuestas en la mesa con los brazos arriba de la cabeza",
+  "La mesa pasa por un anillo ancho. Primero sin contraste",
+  "Cuando te digan «inhala y no respires», aguantas la respiración unos segundos",
+  "Ponen el contraste y toman otra serie de imágenes"
+ ],
+ "feel": [
+  "Al entrar el contraste puedes sentir calor en el cuerpo, sabor a metal o ganas de ir al baño. Es normal y se quita en un minuto"
+ ],
+ "after": [
+  "Te quitan el catéter. Pueden pedirte quedarte de 15 a 30 minutos en la clínica",
+  "Ese día toma más agua, salvo que el médico diga otra cosa",
+  "El reporte suele estar en 1 o 2 días"
+ ],
+ "red_flags": [
+  "Comezón, ronchas, hinchazón de la cara o dificultad para respirar: avisa de inmediato al personal, o llama a emergencias si ya estás en casa"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánta radiación tiene una tomografía?",
+   "a": "Más que una radiografía, pero la dosis se calcula para lo que se necesita ver. Si el médico la indicó por una razón, el beneficio es mayor que el riesgo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 6,
+   "text": "Tu tomografía con contraste es en 6 horas. Si la clínica te lo pidió, desde ahora ya no comas. Puedes tomar agua."
+  },
+  {
+   "hoursBefore": 2,
+   "text": "Ya casi es tu tomografía. Lleva el análisis de creatinina y tus estudios anteriores."
+  }
+ ]
+}

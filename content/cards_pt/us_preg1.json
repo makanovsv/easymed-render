@@ -1,0 +1,65 @@
+{
+ "title": "Rastreamento do primeiro trimestre",
+ "also": [
+  "ultrassom morfológico do primeiro trimestre",
+  "ultrassom de 12 semanas",
+  "translucência nucal"
+ ],
+ "what": "É um ultrassom do bebê entre 11 e 13 semanas, mais um exame de sangue da mãe. Juntos, avaliam o desenvolvimento do bebê e o risco de algumas alterações cromossômicas.",
+ "why": "É oferecido a todas as gestantes entre 11 e 13 semanas.",
+ "duration": "o ultrassom leva normalmente de 20 a 30 minutos, mais o exame de sangue",
+ "tell_doctor": [
+  "A data exata da última menstruação",
+  "Se a gravidez veio de fertilização in vitro",
+  "Se são gêmeos",
+  "Doenças crônicas e remédios"
+ ],
+ "prepare": [
+  {
+   "title": "Prazo",
+   "text": "Exatamente entre 11 semanas e 13 semanas e 6 dias. Depois disso, esse rastreamento não é mais feito."
+  },
+  {
+   "title": "Bexiga",
+   "text": "Confirme com a clínica: às vezes pedem para vir com a bexiga cheia, às vezes o contrário."
+  },
+  {
+   "title": "Sangue",
+   "text": "O exame de sangue é feito normalmente no mesmo dia ou 1 a 2 dias antes do ultrassom, conforme as regras do laboratório."
+  }
+ ],
+ "bring": [
+  "Cartão da gestante ou pedido médico",
+  "Resultados dos ultrassons anteriores"
+ ],
+ "steps": [
+  "Você se deita de barriga para cima e deixa a barriga à mostra",
+  "O médico passa o gel e vê o bebê pela barriga",
+  "Medem o tamanho, os batimentos e a translucência nucal",
+  "Às vezes, para ter mais precisão, usam o aparelho transvaginal",
+  "Colhem sangue da veia, se você ainda não colheu"
+ ],
+ "feel": [
+  "Não dói. Você sente a pressão do aparelho",
+  "Você pode ver o bebê na tela e ouvir o coração dele"
+ ],
+ "after": [
+  "Um programa calcula os riscos pelo ultrassom e pelo exame de sangue. O resultado sai em alguns dias",
+  "Risco alto não é diagnóstico: o médico vai explicar quais exames extras são precisos"
+ ],
+ "red_flags": [
+  "Sangramento ou dor no pé da barriga: procure o médico sem esperar o rastreamento"
+ ],
+ "faq": [
+  {
+   "q": "O ultrassom faz mal ao bebê?",
+   "a": "Não. O ultrassom é usado há muito tempo e em larga escala na gravidez. Ele não tem radiação."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o rastreamento do primeiro trimestre. Confirme se precisa vir com a bexiga cheia e leve o cartão da gestante."
+  }
+ ]
+}

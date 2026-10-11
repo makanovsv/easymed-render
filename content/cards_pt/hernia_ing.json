@@ -1,0 +1,81 @@
+{
+ "title": "Cirurgia de hérnia inguinal",
+ "also": [
+  "herniorrafia",
+  "hernioplastia",
+  "cirurgia de hérnia na virilha"
+ ],
+ "what": "O cirurgião coloca a parte saliente de volta no lugar e reforça a parede da barriga, normalmente com uma tela especial. Por um corte na virilha ou por furinhos.",
+ "why": "Na hérnia inguinal: uma saliência na virilha que atrapalha, dói ou cresce.",
+ "duration": "a cirurgia leva normalmente de 30 a 90 minutos, e muitas vezes você vai para casa no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico decide o que suspender e quando",
+  "Alergias",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se a hérnia já foi operada antes",
+  "Se você já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com o clínico. A clínica dá a lista."
+  },
+  {
+   "title": "Anestesia",
+   "text": "A cirurgia é feita com anestesia geral, injeção nas costas ou anestesia local. Quem decide qual é melhor são os médicos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Pele",
+   "text": "Tome banho. Normalmente não precisa raspar a virilha antes. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados de exames",
+  "Documentos",
+  "Lista de remédios",
+  "Roupa íntima e roupas largas e confortáveis"
+ ],
+ "steps": [
+  "No dia da cirurgia, você troca de roupa e colocam um cateter na veia",
+  "O anestesista aplica a anestesia",
+  "O cirurgião, por um corte ou por furinhos, coloca a hérnia de volta no lugar",
+  "A parede é reforçada com uma tela, e o corte é fechado",
+  "Depois da cirurgia, você descansa no quarto"
+ ],
+ "feel": [
+  "Dor e repuxamento na virilha. Dão remédio para dor",
+  "Um pequeno roxo ou inchaço na virilha. Passa sozinho",
+  "Nos primeiros dias, levantar e tossir incomoda"
+ ],
+ "after": [
+  "Caminhar normalmente já pode no dia da cirurgia",
+  "Normalmente não pegue peso por 2 a 4 semanas. O prazo exato o cirurgião vai dizer",
+  "Ao tossir, segure o local do corte com a mão",
+  "Os pontos são retirados ou se absorvem sozinhos. O cirurgião vai dizer"
+ ],
+ "red_flags": [
+  "Antes da cirurgia: a hérnia não volta para dentro, ficou dura e dói, ou há vômito. Ligue para a emergência",
+  "Depois: febre acima de 38 graus, vermelhidão ou pus no corte",
+  "Inchaço forte na virilha, dificuldade para urinar"
+ ],
+ "faq": [
+  {
+   "q": "Dá para curar hérnia inguinal sem cirurgia?",
+   "a": "Não. A cinta só segura, mas não tira a hérnia. Só a cirurgia resolve."
+  },
+  {
+   "q": "Qual é o perigo da hérnia inguinal?",
+   "a": "Ela pode ficar presa, o que é uma urgência. Se a hérnia não volta para dentro e dói, ligue para a emergência."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Separe documentos, exames e a lista de remédios. Comida e água só até o horário que a clínica informou."
+  }
+ ]
+}

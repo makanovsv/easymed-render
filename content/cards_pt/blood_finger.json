@@ -1,0 +1,66 @@
+{
+ "title": "Coleta de sangue do dedo",
+ "also": [
+  "sangue do dedo",
+  "furinho no dedo",
+  "sangue capilar"
+ ],
+ "what": "A enfermeira faz um furinho na ponta do dedo e colhe algumas gotas de sangue. Assim são feitos exames simples, quando não é preciso muito sangue.",
+ "why": "Para hemograma, glicose, em crianças e quando é difícil tirar sangue da veia.",
+ "duration": "normalmente de 2 a 3 minutos",
+ "tell_doctor": [
+  "Se você toma remédios que afinam o sangue",
+  "Se você já passou mal ao tirar sangue",
+  "Se você tem diabetes e vai medir a glicose"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Para glicose e muitos exames, em jejum: de 8 a 12 horas sem comer. Água pode beber. Confirme com o laboratório."
+  },
+  {
+   "title": "Mãos",
+   "text": "Chegue com as mãos quentes. Se estiverem frias, coloque em água morna: o sangue sai mais fácil."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Se você toma remédios de manhã, pergunte ao médico se colhe o sangue antes ou depois deles."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento"
+ ],
+ "steps": [
+  "Você se senta e apoia a mão na mesinha",
+  "Limpam o dedo com antisséptico",
+  "Um furinho rápido na lateral da ponta do dedo, com uma lanceta descartável",
+  "A primeira gota é limpa, e as seguintes vão para o tubinho",
+  "Apertam um algodão no dedo"
+ ],
+ "feel": [
+  "Uma picada rápida e aguda",
+  "O dedo pode doer um pouco por umas duas horas"
+ ],
+ "after": [
+  "Mantenha o algodão apertado de 2 a 3 minutos",
+  "O resultado sai normalmente no mesmo dia ou no dia seguinte. O laboratório informa o prazo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O que é mais preciso: sangue do dedo ou da veia?",
+   "a": "Para a maioria dos exames, o sangue da veia é mais preciso. Do dedo se fazem exames simples, e para eles isso basta."
+  },
+  {
+   "q": "Qual dedo eles furam?",
+   "a": "Normalmente o anelar ou o médio da mão que você usa menos. Em bebês, às vezes o calcanhar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de sangue do dedo. Se for em jejum, não coma mais depois do jantar. Água pode."
+  }
+ ]
+}

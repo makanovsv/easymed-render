@@ -1,0 +1,89 @@
+{
+ "title": "Chequeo médico completo",
+ "also": [
+  "chequeo general",
+  "check-up",
+  "chequeo anual",
+  "revisión médica completa"
+ ],
+ "what": "Es un conjunto de análisis, estudios y consultas con médicos en una o varias visitas. Ayuda a encontrar problemas antes de que den molestias.",
+ "why": "Para prevenir, normalmente una vez al año. El programa se elige según tu edad, sexo y antecedentes familiares.",
+ "duration": "normalmente de 2 a 4 horas, a veces en varios días",
+ "tell_doctor": [
+  "Lo que te molesta, aunque parezca poca cosa",
+  "Qué medicamentos y suplementos tomas",
+  "Enfermedades de tus padres y hermanos",
+  "Si podrías estar embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Ayuno",
+   "text": "Normalmente de 8 a 12 horas sin comer antes de los análisis de sangre. Puedes tomar agua natural sin gas."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Una cena ligera. Nada de alcohol 1 o 2 días antes, ni ejercicio intenso ni sauna."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Pregunta en tu clínica si tomas los de la mañana antes o después del análisis de sangre."
+  },
+  {
+   "title": "Análisis de orina",
+   "text": "Junta la primera orina de la mañana en un frasco estéril de la farmacia."
+  },
+  {
+   "title": "Para mujeres",
+   "text": "Si te van a tomar muestras vaginales, mejor que no sea durante la regla. Pregunta en tu clínica."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "El frasco con la orina de la mañana",
+  "Análisis y resultados anteriores",
+  "La lista de tus medicamentos",
+  "Un refrigerio y agua, para comer después del análisis de sangre"
+ ],
+ "steps": [
+  "En la mañana, en ayunas, te sacan sangre",
+  "Te hacen los estudios que piden ayuno, por ejemplo el ultrasonido de abdomen",
+  "Después ya puedes comer algo",
+  "Luego el electrocardiograma y otros estudios del programa",
+  "Consultas con los médicos",
+  "Al final, el médico revisa contigo los resultados y te da recomendaciones"
+ ],
+ "feel": [
+  "El piquete al sacarte sangre es breve",
+  "Lo demás normalmente no es molesto, pero el día puede ser cansado"
+ ],
+ "after": [
+  "Algunos resultados están el mismo día y otros en unos días",
+  "Si encuentran algo, el médico te dirá qué sigue",
+  "Guarda tus resultados. Te servirán para comparar el próximo año"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Cada cuánto debo hacerme un chequeo?",
+   "a": "Normalmente una vez al año. Si tienes enfermedades crónicas, el médico puede darte otro calendario."
+  },
+  {
+   "q": "¿Puedo tomar agua antes de los análisis?",
+   "a": "Sí, agua natural sin gas. Té, café, jugo y chicle, no."
+  },
+  {
+   "q": "¿Para qué un chequeo si no me duele nada?",
+   "a": "Muchas enfermedades avanzan sin dar señales: la presión, el azúcar, el colesterol. El chequeo las encuentra temprano, cuando es más fácil tratarlas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 36,
+   "text": "Pasado mañana en la mañana es tu chequeo. Desde hoy, nada de alcohol ni ejercicio intenso."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu chequeo. Después de una cena ligera, ya no comas. Puedes tomar agua sin gas. Ten listo el frasco para la orina."
+  }
+ ]
+}

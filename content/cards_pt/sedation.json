@@ -1,0 +1,80 @@
+{
+ "title": "Sedação",
+ "also": [
+  "sedação",
+  "exame dormindo",
+  "sedação na veia"
+ ],
+ "what": "Um remédio na veia que faz você dormir um sono leve. O procedimento acontece com calma, e normalmente você não lembra dele.",
+ "why": "Para que um exame ou procedimento seja feito sem medo e sem incômodo, por exemplo endoscopia ou colonoscopia.",
+ "duration": "a sedação dura o tempo do procedimento, e você se recupera normalmente em 30 a 60 minutos",
+ "tell_doctor": [
+  "Todos os remédios que você toma",
+  "Alergias",
+  "Doenças do coração, dos pulmões, apneia do sono",
+  "Se você já teve problema com anestesia",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente nada de comida 6 horas antes. Água pura até o horário que a clínica disser."
+  },
+  {
+   "title": "Remédios",
+   "text": "Diga ao médico o que você toma. Ele decide o que tomar de manhã."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Depois da sedação, não pode dirigir. Combine com alguém para buscar você."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável. Tire joias e lentes de contato."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios",
+  "Documentos",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Colocam um cateter na sua veia e um sensor no dedo",
+  "A enfermeira ou o anestesista aplica o remédio",
+  "Em um minuto você dorme",
+  "Durante o procedimento, acompanham a sua respiração e o pulso",
+  "Você acorda e descansa na sala até se recuperar"
+ ],
+ "feel": [
+  "Um leve calor ou ardência na veia quando o remédio entra",
+  "Sonolência ao acordar",
+  "Às vezes uma leve tontura, que passa"
+ ],
+ "after": [
+  "Nesse dia, não dirija",
+  "Até o dia seguinte, não assine documentos importantes e não tome decisões sérias",
+  "Comer e beber pode quando o médico liberar",
+  "É melhor ter alguém com você até a noite"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar ou dor no peito: ligue para a emergência",
+  "Sonolência forte que não passa em algumas horas"
+ ],
+ "faq": [
+  {
+   "q": "Sedação é anestesia geral?",
+   "a": "Não exatamente. O sono é leve, e você respira sozinho. É mais suave que a anestesia geral."
+  },
+  {
+   "q": "Por que não posso dirigir depois da sedação?",
+   "a": "O remédio deixa os reflexos lentos por mais algumas horas, mesmo que você se sinta bem."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem procedimento com sedação. Combine quem vai buscar você. Comida só até o horário que a clínica informou."
+  }
+ ]
+}

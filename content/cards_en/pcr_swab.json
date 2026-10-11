@@ -1,0 +1,69 @@
+{
+ "title": "PCR nose and throat swab",
+ "also": [
+  "PCR test",
+  "nasal swab",
+  "throat swab",
+  "virus test"
+ ],
+ "what": "A nurse gently runs a soft swab in your nose and throat and sends it to the lab. The test looks for traces of viruses or bacteria.",
+ "why": "For a cold, cough, or fever, and when it is required for travel, work, or a hospital stay.",
+ "duration": "the swab itself takes about a minute, and results usually take 1 to 2 days",
+ "tell_doctor": [
+  "If you often get nosebleeds, or had surgery on your nose",
+  "If you take blood thinners",
+  "If you have a strong gag reflex"
+ ],
+ "prepare": [
+  {
+   "title": "3 to 4 hours before",
+   "text": "Usually do not eat, drink, brush your teeth, gargle, or chew gum. Check with your clinic."
+  },
+  {
+   "title": "Nose",
+   "text": "On the day of the test, do not use nose drops or sprays, and do not rinse your nose, unless your doctor said otherwise."
+  },
+  {
+   "title": "Smoking",
+   "text": "Do not smoke for a few hours before the swab."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "A face mask, if you have cold symptoms"
+ ],
+ "steps": [
+  "You sit down and tilt your head back a little",
+  "The swab goes into your nostril and is turned for a few seconds",
+  "Then you open your mouth, and the swab is run along the back of your throat",
+  "The swabs go into a tube and are labeled"
+ ],
+ "feel": [
+  "In the nose: a tickle. You may want to sneeze, and your eyes may water",
+  "In the throat: you may gag for a second"
+ ],
+ "after": [
+  "The discomfort passes in a few minutes",
+  "While you wait for the result, if you have a cold, try to keep away from other people"
+ ],
+ "red_flags": [
+  "A nosebleed that does not stop in 15 to 20 minutes: see a doctor or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Does a nose swab hurt?",
+   "a": "It does not hurt, but it is unpleasant. It tickles and you may want to sneeze. It lasts a few seconds."
+  },
+  {
+   "q": "Can I eat before a PCR swab?",
+   "a": "It is best not to eat or drink for 3 to 4 hours. Otherwise the swab may not collect enough material."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "PCR swab in a few hours. From now on, do not eat, drink, brush your teeth, or use nose drops."
+  }
+ ]
+}

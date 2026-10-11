@@ -1,0 +1,66 @@
+{
+ "title": "Mammogram",
+ "also": [
+  "mammogram",
+  "breast X-ray",
+  "breast screening"
+ ],
+ "what": "An X-ray of the breasts. Each breast is pressed between plates for a few seconds so the picture is clear.",
+ "why": "To find breast cancer early, usually every 1 to 2 years after age 40 to 50, or if you feel a lump.",
+ "duration": "usually 10 to 20 minutes",
+ "tell_doctor": [
+  "If you are pregnant or breastfeeding",
+  "If you have breast implants",
+  "If you have had breast surgery",
+  "If you have felt a lump, and exactly where"
+ ],
+ "prepare": [
+  {
+   "title": "Time in your cycle",
+   "text": "Days 5 to 12 of your cycle are best, when your breasts are less tender. If you have no periods, any day is fine."
+  },
+  {
+   "title": "Skin",
+   "text": "On the day of the test, do not put deodorant, lotion, or powder on your breasts or underarms. They show up as spots on the image."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear a skirt or trousers with a top, so you only undress to the waist."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past mammograms and breast ultrasounds. Comparing them is very important"
+ ],
+ "steps": [
+  "You undress to the waist and stand at the machine",
+  "The technician places one breast on a platform",
+  "A plate comes down and presses the breast for a few seconds",
+  "An image is taken, then another angle and the other breast. Usually 4 images"
+ ],
+ "feel": [
+  "The pressure is unpleasant, sometimes painful, but only for a few seconds",
+  "Tell the technician if it hurts a lot"
+ ],
+ "after": [
+  "The report usually comes within 1 to 3 days",
+  "Sometimes you are called back for an extra image or an ultrasound. This is common and no reason to panic"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why is the breast pressed so hard?",
+   "a": "It spreads the tissue evenly, makes the image clearer, and lowers the radiation dose."
+  },
+  {
+   "q": "Mammogram or breast ultrasound?",
+   "a": "They are different tests. A mammogram is usually done after 40. Ultrasound is for younger women and as an extra test. The doctor decides."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mammogram tomorrow. In the morning, do not put deodorant or lotion on your breasts or underarms."
+  }
+ ]
+}

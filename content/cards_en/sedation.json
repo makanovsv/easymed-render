@@ -1,0 +1,81 @@
+{
+ "title": "Sedation (medicine-induced sleep)",
+ "also": [
+  "sedation",
+  "being put to sleep for a procedure",
+  "IV sedation",
+  "twilight sedation"
+ ],
+ "what": "Medicine is given into a vein and you fall into a light sleep. The procedure goes calmly, and you usually do not remember it.",
+ "why": "So a test or procedure can be done without fear or discomfort. For example, a gastroscopy or a colonoscopy.",
+ "duration": "sedation lasts as long as the procedure, and waking up usually takes 30 to 60 minutes",
+ "tell_doctor": [
+  "All the medicines you take",
+  "Any allergies",
+  "Heart or lung disease, or sleep apnea",
+  "If you have had problems with anesthesia before",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no food for 6 hours. Clear water is fine until the time your clinic tells you."
+  },
+  {
+   "title": "Medicines",
+   "text": "Tell the doctor what you take. They will decide what to take in the morning."
+  },
+  {
+   "title": "Someone with you",
+   "text": "You cannot drive after sedation. Arrange for someone to pick you up."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear comfortable clothes. Take off jewelry and contact lenses."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A list of your medicines",
+  "Your ID",
+  "Someone to take you home"
+ ],
+ "steps": [
+  "A small tube is put into a vein, and a sensor is clipped on your finger",
+  "A nurse or anesthetist gives you the medicine",
+  "Within a minute, you fall asleep",
+  "Your breathing and pulse are watched during the procedure",
+  "You wake up and rest in a recovery room until you feel yourself again"
+ ],
+ "feel": [
+  "Slight warmth or burning in the vein as the medicine goes in",
+  "Sleepiness after you wake up",
+  "Sometimes slight dizziness. It passes"
+ ],
+ "after": [
+  "Do not drive for the rest of the day",
+  "Do not sign important papers or make big decisions until the next day",
+  "You can eat and drink when the doctor says it is OK",
+  "It is best to have someone with you until the evening"
+ ],
+ "red_flags": [
+  "Trouble breathing or chest pain: call emergency services",
+  "Strong sleepiness that does not go away for several hours"
+ ],
+ "faq": [
+  {
+   "q": "Is sedation the same as general anesthesia?",
+   "a": "Not quite. The sleep is light, and you breathe on your own. It is gentler than general anesthesia."
+  },
+  {
+   "q": "Why can't I drive after sedation?",
+   "a": "The medicine slows your reactions for several more hours, even if you feel fine."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Procedure with sedation tomorrow. Arrange who will pick you up. Eat only until the time your clinic gave you."
+  }
+ ]
+}

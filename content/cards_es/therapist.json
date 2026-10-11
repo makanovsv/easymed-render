@@ -1,0 +1,67 @@
+{
+ "title": "Consulta con el médico general",
+ "also": [
+  "médico general",
+  "médico familiar",
+  "consulta general",
+  "médico de cabecera"
+ ],
+ "what": "Es el médico de primer contacto. Te pregunta, te revisa, te da tratamiento o te manda con un especialista.",
+ "why": "Cuando algo te molesta y no sabes a qué médico ir. También para un chequeo, certificados médicos y control de enfermedades crónicas.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Qué te molesta y desde cuándo",
+  "Qué medicamentos, vitaminas y suplementos tomas",
+  "Alergia a medicamentos",
+  "Enfermedades crónicas y cirugías",
+  "Enfermedades en tus familiares cercanos"
+ ],
+ "prepare": [
+  {
+   "title": "Molestias",
+   "text": "Anota antes qué te molesta y qué quieres preguntar. En la consulta es fácil olvidarlo."
+  },
+  {
+   "title": "Presión",
+   "text": "Si te mides la presión o el azúcar en casa, lleva tus registros."
+  },
+  {
+   "title": "Ropa",
+   "text": "Cómoda, para descubrir fácilmente el pecho y el brazo para tomar la presión."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Análisis, resúmenes y notas médicas anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta por tus molestias y tu salud",
+  "Te mide la presión, el pulso y a veces la temperatura y el peso",
+  "Escucha tu corazón y tus pulmones",
+  "Te revisa la garganta y te palpa el abdomen",
+  "Te explica qué sigue: tratamiento, análisis u otro médico"
+ ],
+ "feel": [
+  "Nada desagradable. Es una revisión normal"
+ ],
+ "after": [
+  "El médico te da las indicaciones y las órdenes",
+  "Si algo no te queda claro, pregunta mientras sigues en el consultorio",
+  "No cambies el tratamiento por tu cuenta. Si tienes dudas, consulta al médico"
+ ],
+ "red_flags": [
+  "Dolor en el pecho, falta de aire, la cara chueca, debilidad en un brazo o una pierna, o un dolor de cabeza fuerte y repentino: no esperes la consulta, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo me preparo para la consulta con el médico general?",
+   "a": "Anota tus molestias y preguntas, haz una lista de tus medicamentos y lleva tus análisis anteriores. Así la consulta es más rápida y te sirve más."
+  },
+  {
+   "q": "¿Tengo que ir primero al médico general y luego al especialista?",
+   "a": "Muchas veces sí. El médico general ve qué especialista necesitas y te pide de una vez los análisis necesarios."
+  }
+ ],
+ "reminders": []
+}

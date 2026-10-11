@@ -1,0 +1,73 @@
+{
+ "title": "Química sanguínea",
+ "also": [
+  "química sanguínea",
+  "perfil bioquímico",
+  "pruebas de función hepática",
+  "pruebas de función renal"
+ ],
+ "what": "Es un análisis de sangre de la vena que muestra cómo funcionan el hígado, los riñones y el metabolismo. El médico elige qué valores revisar.",
+ "why": "En un chequeo, en enfermedades del hígado o los riñones, diabetes, antes de una cirugía o para vigilar un tratamiento.",
+ "duration": "la toma dura de 3 a 5 minutos; el resultado suele estar en 1 o 2 días",
+ "tell_doctor": [
+  "Qué medicamentos, vitaminas y suplementos tomas",
+  "Si hace poco hiciste ejercicio muy intenso o tuviste un golpe fuerte",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente es estrictamente en ayunas: de 8 a 12 horas sin comer. Puedes tomar agua natural. Pregunta en el laboratorio."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Una cena ligera, sin grasa. Un día antes, nada de alcohol ni ejercicio intenso."
+  },
+  {
+   "title": "En la mañana",
+   "text": "No fumes, no tomes té, café ni jugos, y no masques chicle."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Pregúntale al médico si tomas los de la mañana antes o después del análisis."
+  }
+ ],
+ "bring": [
+  "La orden médica con la lista de valores",
+  "Una identificación",
+  "Resultados anteriores, para comparar"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Sientes un piquete breve y la sangre llena el tubo",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces un ligero mareo. Avísale a la enfermera"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Después del análisis ya puedes comer",
+  "El médico te explica el resultado. Un valor fuera de rango no es un diagnóstico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué la química sanguínea es en ayunas?",
+   "a": "La comida cambia el azúcar, las grasas y otros valores. Un análisis después del desayuno puede salir alterado sin razón."
+  },
+  {
+   "q": "¿Qué incluye la química sanguínea?",
+   "a": "No hay un solo paquete. Normalmente incluye pruebas del hígado, creatinina, azúcar, proteínas y colesterol. La lista la decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu química sanguínea. Después de una cena ligera, ya no comas. Puedes tomar agua. Nada de alcohol."
+  }
+ ]
+}

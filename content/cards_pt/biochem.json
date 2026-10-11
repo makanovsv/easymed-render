@@ -1,0 +1,73 @@
+{
+ "title": "Exame bioquímico do sangue",
+ "also": [
+  "bioquímica do sangue",
+  "exames de fígado",
+  "função renal",
+  "perfil bioquímico"
+ ],
+ "what": "Um exame de sangue da veia que mostra como estão o fígado, os rins e o metabolismo. O médico escolhe quais itens pedir.",
+ "why": "Em check-ups, em doenças do fígado e dos rins, diabetes, antes de cirurgia e para acompanhar o tratamento.",
+ "duration": "a coleta leva de 3 a 5 minutos, o resultado sai normalmente em 1 a 2 dias",
+ "tell_doctor": [
+  "Quais remédios, vitaminas e suplementos você toma",
+  "Se você treinou pesado ou se machucou há pouco tempo",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente em jejum total: de 8 a 12 horas sem comer. Água pura pode beber. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Um jantar leve, sem gordura. Um dia antes, sem álcool e sem treino pesado."
+  },
+  {
+   "title": "De manhã",
+   "text": "Não fume, não tome chá, café nem suco, e não masque chiclete."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Pergunte ao médico se toma os remédios da manhã antes ou depois do exame."
+  }
+ ],
+ "bring": [
+  "Pedido médico com a lista de exames",
+  "Documento",
+  "Resultados anteriores, para comparar"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes, uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão de 3 a 5 minutos",
+  "Depois do exame, já pode comer",
+  "Quem explica o resultado é o médico. Um número fora do normal ainda não é um diagnóstico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que a bioquímica é feita em jejum total?",
+   "a": "A comida muda o açúcar, as gorduras e outros valores. O exame depois do café da manhã pode mostrar alterações falsas."
+  },
+  {
+   "q": "O que entra na bioquímica?",
+   "a": "Não existe um conjunto único. Normalmente são exames do fígado, creatinina, glicose, proteínas e colesterol. Quem define a lista é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem bioquímica do sangue. Depois de um jantar leve, não coma mais. Água pode. Sem álcool."
+  }
+ ]
+}

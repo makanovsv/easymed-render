@@ -1,0 +1,59 @@
+{
+ "title": "Complete blood count",
+ "also": [
+  "CBC",
+  "FBC",
+  "full blood count",
+  "CBC with differential"
+ ],
+ "what": "This test shows how many red blood cells, white blood cells, and platelets you have, and your hemoglobin level. It is the most common blood test.",
+ "why": "For checkups, before surgery, and when you have a fever, weakness, or a possible anemia or inflammation.",
+ "duration": "the blood draw takes 3 to 5 minutes; results usually come the next day",
+ "tell_doctor": [
+  "What medicines you take",
+  "If you were recently ill or had a fever",
+  "If you are having your period right now"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Morning is best, either fasting or a few hours after a light meal. Ask the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol and no hard workouts."
+  }
+ ],
+ "bring": [
+  "Your test request form"
+ ],
+ "steps": [
+  "Blood is taken from a vein or a fingertip",
+  "A band, antiseptic, and a quick prick",
+  "Blood fills a tube, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick"
+ ],
+ "after": [
+  "Press the cotton pad for a few minutes",
+  "Your doctor will explain the results. Numbers alone are not a diagnosis"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What is the sed rate?",
+   "a": "It is how fast red blood cells settle in a tube. It goes up with inflammation, but can also be high without illness. Your doctor will judge it."
+  },
+  {
+   "q": "Do I need to fast?",
+   "a": "It is better, but not strictly needed. After a fatty meal, the result may be less accurate."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Blood count test tomorrow. Try not to eat in the morning. Water is fine."
+  }
+ ]
+}

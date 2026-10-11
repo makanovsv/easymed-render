@@ -1,0 +1,67 @@
+{
+ "title": "General doctor visit",
+ "also": [
+  "GP appointment",
+  "family doctor",
+  "primary care doctor",
+  "general practitioner"
+ ],
+ "what": "The first doctor to see. They ask questions, examine you, prescribe treatment, or refer you to a specialist.",
+ "why": "When something bothers you and you are not sure which doctor to see. Also for checkups, medical certificates, and long-term illnesses.",
+ "duration": "usually 15 to 30 minutes",
+ "tell_doctor": [
+  "What bothers you and since when",
+  "What medicines, vitamins, and supplements you take",
+  "Any drug allergies",
+  "Long-term illnesses and past surgeries",
+  "Illnesses in your close family"
+ ],
+ "prepare": [
+  {
+   "title": "Your concerns",
+   "text": "Write down what bothers you and what you want to ask. It is easy to forget during the visit."
+  },
+  {
+   "title": "Blood pressure",
+   "text": "If you check your blood pressure or blood sugar at home, bring your records."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something comfortable, so your chest and arm are easy to uncover for a blood pressure check."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past test results, medical records, and reports",
+  "A list of your medicines or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your concerns and your health",
+  "They check your blood pressure and pulse, and sometimes your temperature and weight",
+  "They listen to your heart and lungs",
+  "They look at your throat and feel your belly",
+  "They explain what comes next: treatment, tests, or another doctor"
+ ],
+ "feel": [
+  "Nothing unpleasant. It is a normal checkup"
+ ],
+ "after": [
+  "The doctor gives you prescriptions and referrals",
+  "If something is unclear, ask while you are still in the room",
+  "Do not change your treatment on your own. If you have questions, ask your doctor"
+ ],
+ "red_flags": [
+  "Chest pain, shortness of breath, a drooping face, weakness in an arm or leg, or a sudden severe headache: do not wait for the visit. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "How do I prepare for a visit to a general doctor?",
+   "a": "Write down your concerns and questions, make a list of your medicines, and bring past test results. The visit will be quicker and more useful."
+  },
+  {
+   "q": "Do I need to see a general doctor before a specialist?",
+   "a": "Often yes. The general doctor works out which specialist you need and orders the right tests straight away."
+  }
+ ],
+ "reminders": []
+}

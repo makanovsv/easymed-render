@@ -1,0 +1,71 @@
+{
+ "title": "Anestesia local",
+ "also": [
+  "anestesia local",
+  "injeção de anestesia",
+  "anestesia no dentista"
+ ],
+ "what": "Uma injeção ou um produto que tira a dor de uma pequena parte do corpo. Você fica acordado, mas não sente dor naquele lugar.",
+ "why": "Em pequenas cirurgias e procedimentos: tratamento e extração de dentes, retirada de pintas, pontos.",
+ "duration": "o efeito dura normalmente de 1 a algumas horas",
+ "tell_doctor": [
+  "Alergias, principalmente a injeções de anestesia",
+  "Como você reagiu a anestesia antes",
+  "Remédios, principalmente os que afinam o sangue. O médico decide o que fazer",
+  "Doenças do coração, pressão",
+  "Se você está grávida ou amamentando"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer antes, algo leve. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Tome seus remédios de sempre normalmente, a não ser que o médico diga outra coisa."
+  },
+  {
+   "title": "Como você está",
+   "text": "Venha descansado. Se estiver muito nervoso, avise o médico."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios",
+  "Documentos"
+ ],
+ "steps": [
+  "O médico limpa a pele ou a mucosa",
+  "Às vezes, antes, passa um gel ou spray anestésico",
+  "Faz uma injeção com uma agulha fina",
+  "Espera alguns minutos até o local ficar dormente",
+  "Confere que não vai doer e começa o procedimento"
+ ],
+ "feel": [
+  "Uma picada rápida e ardência por alguns segundos",
+  "Depois, dormência. O local parece estranho ou inchado",
+  "Você sente toque e pressão, mas não dor",
+  "Se doer, avise. O médico aplica mais anestesia"
+ ],
+ "after": [
+  "A dormência passa normalmente em 1 a 3 horas",
+  "Enquanto não passar, cuide do local e não morda a bochecha nem o lábio",
+  "Não coma nada quente enquanto a boca estiver dormente",
+  "Se a dormência durar mais de um dia, avise o médico"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, rosto inchado, manchas pelo corpo: ligue para a emergência",
+  "Tontura forte, coração disparado, convulsões: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A gente sente alguma coisa com anestesia local?",
+   "a": "Sim, pressão e toque. Dor não deve haver. Se doer, avise o médico."
+  },
+  {
+   "q": "Quanto tempo leva para a anestesia passar?",
+   "a": "Normalmente de 1 a 3 horas. Depende do remédio e do local da injeção."
+  }
+ ],
+ "reminders": []
+}

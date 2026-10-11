@@ -1,0 +1,62 @@
+{
+ "title": "Lavado de oídos",
+ "also": [
+  "tapón de cerilla",
+  "quitar el tapón de cera",
+  "limpieza de oídos con el médico"
+ ],
+ "what": "El otorrino quita la cerilla acumulada en el oído: lo lava con agua tibia o la saca con un instrumento.",
+ "why": "Cuando tienes el oído tapado, oyes menos o te zumba el oído después de nadar, y el médico ve un tapón de cerilla.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Si has tenido un agujerito en el tímpano o una cirugía de oído",
+  "Si te ha salido líquido del oído, te ha dolido o has tenido fiebre",
+  "Si tienes diabetes",
+  "Si usas aparato para oír"
+ ],
+ "prepare": [
+  {
+   "title": "Ablandar",
+   "text": "A veces el médico pide ponerte gotas unos días antes para ablandar la cerilla. Haz solo lo que él te indique."
+  },
+  {
+   "title": "No lo toques",
+   "text": "No te metas cotonetes en el oído: el tapón se va más adentro."
+  }
+ ],
+ "bring": [
+  "La orden médica, si tienes",
+  "Tu aparato para oír, si usas"
+ ],
+ "steps": [
+  "El médico revisa el oído con un embudo o con una cámara",
+  "Si el tímpano está sano, lava el oído con agua tibia con una jeringa sin aguja",
+  "El agua con la cerilla cae en una charola junto al cuello",
+  "A veces sacan la cerilla con un instrumento o con aspiración",
+  "El médico revisa otra vez el oído y el tímpano"
+ ],
+ "feel": [
+  "Agua tibia en el oído, ruido y burbujeo",
+  "Te puedes marear un poco. Avísale al médico",
+  "Justo después, normalmente vuelves a oír bien"
+ ],
+ "after": [
+  "Puedes secarte el oído por fuera, pero no te metas cotonetes",
+  "Si te pasa seguido, pregúntale al médico cómo prevenir los tapones"
+ ],
+ "red_flags": [
+  "Dolor fuerte de oído, o sangre o pus del oído después del lavado",
+  "Pérdida repentina del oído o mareo fuerte"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo quitarme el tapón de cerilla en casa?",
+   "a": "No te metas cotonetes ni pasadores: puedes lastimar el tímpano. Si tienes el oído tapado, mejor ve con el otorrino."
+  },
+  {
+   "q": "¿Duele el lavado de oídos?",
+   "a": "Normalmente no: se siente tibio, hace ruido y es un poco raro."
+  }
+ ],
+ "reminders": []
+}

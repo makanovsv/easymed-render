@@ -1,0 +1,74 @@
+{
+ "title": "Coleta de sangue da veia",
+ "also": [
+  "exame de sangue",
+  "coleta de sangue",
+  "punção venosa"
+ ],
+ "what": "A enfermeira tira um pouco de sangue de uma veia do braço com uma agulha fina. Com um só tubo dá para fazer muitos exames.",
+ "why": "Para bioquímica, hormônios, infecções, coagulação e a maioria dos outros exames.",
+ "duration": "normalmente de 3 a 5 minutos",
+ "tell_doctor": [
+  "Se você toma remédios que afinam o sangue",
+  "Se você já passou mal ou desmaiou ao tirar sangue",
+  "Se você tem alergia a látex ou a esparadrapo"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Para muitos exames, o sangue é colhido em jejum: de 8 a 12 horas sem comer. Água pura pode beber. Confirme com o laboratório para os seus exames."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Um dia antes, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Se você toma remédios de manhã, pergunte ao médico se colhe o sangue antes ou depois deles."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: a agulha fica na veia alguns segundos e o sangue enche os tubos",
+  "Tiram o garrote e a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes, uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão de 3 a 5 minutos, sem dobrar o braço",
+  "Um pequeno roxo pode aparecer e some sozinho",
+  "O resultado sai normalmente em 1 a 3 dias. O laboratório informa o prazo"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho",
+  "Dormência ou dor forte no braço"
+ ],
+ "faq": [
+  {
+   "q": "Posso beber água antes do exame de sangue?",
+   "a": "Sim, água pura sem gás pode. Chá, café e suco não, se o exame for em jejum."
+  },
+  {
+   "q": "Por que fico tonto depois de tirar sangue?",
+   "a": "Isso acontece por nervosismo ou fome. Fique sentado, beba água e coma algo doce."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de sangue. Se for em jejum, não coma mais depois do jantar. Água pode."
+  }
+ ]
+}

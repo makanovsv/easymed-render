@@ -1,0 +1,76 @@
+{
+ "title": "Ultrassom do abdome",
+ "also": [
+  "ultrassom da barriga",
+  "ultrassom de abdome total",
+  "ultrassom abdominal"
+ ],
+ "what": "O médico examina os órgãos da barriga com ultrassom: fígado, vesícula, pâncreas e baço. É seguro, sem radiação.",
+ "why": "Em dor na barriga, peso depois de comer, alterações nos exames e em check-ups.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Se você tirou a vesícula ou fez cirurgia na barriga",
+  "Se você fez endoscopia ou colonoscopia há pouco tempo: pode ter sobrado ar no intestino",
+  "Se você tem diabetes: ficar muito tempo sem comer pode ser perigoso. O médico vai orientar"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente de 6 a 8 horas sem comer. O melhor é de manhã, em jejum."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Um jantar leve. Sem refrigerante, feijão, verduras cruas, pão integral escuro e leite: menos gases, melhor imagem."
+  },
+  {
+   "title": "Água e cigarro",
+   "text": "Um pouco de água pura normalmente pode. Não fume e não masque chiclete antes do ultrassom: acumula ar na barriga."
+  },
+  {
+   "title": "Rins",
+   "text": "Se forem ver também os rins e a bexiga, podem pedir para vir com a bexiga cheia. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos de ultrassons e exames anteriores, se tiver",
+  "Um lenço ou toalha para limpar o gel"
+ ],
+ "steps": [
+  "Você se deita de barriga para cima e deixa a barriga à mostra",
+  "O médico passa um gel gelado",
+  "O aparelho é passado por toda a barriga",
+  "Pedem para puxar o ar fundo e prender a respiração por alguns segundos",
+  "Às vezes pedem para virar de lado"
+ ],
+ "feel": [
+  "O gel é gelado",
+  "O aparelho aperta um pouco, mas não dói",
+  "Se o local dói, a pressão pode incomodar. Avise o médico"
+ ],
+ "after": [
+  "O gel é limpo, e você já pode comer",
+  "O laudo normalmente é dado na hora"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso beber água antes do ultrassom do abdome?",
+   "a": "Normalmente um pouco de água pura pode. Não pode comer, nem tomar bebida doce, refrigerante ou café com leite."
+  },
+  {
+   "q": "O que entra no ultrassom do abdome?",
+   "a": "Normalmente fígado, vesícula, pâncreas e baço. Os rins muitas vezes são vistos à parte. Confirme com a clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem ultrassom do abdome. Jantar leve, sem refrigerante, feijão e verduras cruas."
+  },
+  {
+   "hoursBefore": 8,
+   "text": "A partir de agora, não coma até o ultrassom. Um pouco de água pura pode."
+  }
+ ]
+}

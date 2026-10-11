@@ -1,0 +1,65 @@
+{
+ "title": "Tomografia da cabeça",
+ "also": [
+  "tomografia do crânio",
+  "TC de crânio",
+  "tomografia do cérebro"
+ ],
+ "what": "A tomografia computadorizada mostra o cérebro e os ossos do crânio em camadas. É rápida e normalmente sem injeção.",
+ "why": "Depois de pancada na cabeça, quando há suspeita de AVC, dor de cabeça forte e para ver os seios da face.",
+ "duration": "na sala normalmente de 5 a 10 minutos, a imagem em si leva menos de um minuto",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se a tomografia for com contraste: se tem alergia a iodo ou a contraste e se tem doença nos rins",
+  "Se é difícil ficar parado ou se tem medo de lugar fechado. O aparelho é aberto, mas avise antes"
+ ],
+ "prepare": [
+  {
+   "title": "Sem contraste",
+   "text": "Não precisa de preparo. Pode comer e beber."
+  },
+  {
+   "title": "Com contraste",
+   "text": "Normalmente pedem de 3 a 4 horas sem comer, água pode, e às vezes um exame de creatinina. Confirme com a clínica."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire brincos, grampos, óculos, próteses dentárias removíveis e aparelho de audição."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Tomografias e ressonâncias anteriores da cabeça",
+  "Exame de creatinina, se pediram"
+ ],
+ "steps": [
+  "Você deita de costas, e a cabeça fica num apoio macio",
+  "A mesa entra num anel largo: a cabeça fica dentro, o corpo fora",
+  "É preciso ficar parado enquanto o aparelho faz as imagens",
+  "Se for com contraste, ele é aplicado na veia e fazem mais uma série de imagens"
+ ],
+ "feel": [
+  "Não dói, o aparelho faz barulho",
+  "Com contraste, uma onda de calor e gosto de metal na boca. Passa em um minuto"
+ ],
+ "after": [
+  "Você já pode voltar às suas atividades",
+  "Depois do contraste, beba mais água, a não ser que o médico diga outra coisa",
+  "O laudo sai normalmente em algumas horas ou em 1 a 2 dias. Em urgência, na hora"
+ ],
+ "red_flags": [
+  "Dor de cabeça forte e repentina, fraqueza no braço ou na perna, rosto torto, fala enrolada: ligue para a emergência na hora",
+  "Depois do contraste, coceira, manchas na pele, inchaço no rosto ou falta de ar: avise a equipe ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O que é melhor para a cabeça: tomografia ou ressonância?",
+   "a": "A tomografia é mais rápida e melhor em pancadas e sangramentos. A ressonância mostra o tecido do cérebro com mais detalhe. Quem escolhe é o médico, conforme o caso."
+  },
+  {
+   "q": "Quanta radiação tem a tomografia da cabeça?",
+   "a": "Mais que um raio-X, mas a dose é calculada para o exame. Se a tomografia tem indicação, o benefício é maior que o risco."
+  }
+ ],
+ "reminders": []
+}

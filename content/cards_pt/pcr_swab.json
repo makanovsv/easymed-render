@@ -1,0 +1,69 @@
+{
+ "title": "Teste PCR do nariz e da garganta",
+ "also": [
+  "teste PCR",
+  "swab nasal",
+  "exame do cotonete no nariz",
+  "teste de vírus"
+ ],
+ "what": "A enfermeira passa um cotonete macio no nariz e na garganta e manda o material para o laboratório. O exame procura sinais de vírus ou bactérias.",
+ "why": "Em resfriado, tosse e febre, ou quando pedem para viagem, trabalho ou internação.",
+ "duration": "a coleta leva cerca de um minuto, o resultado sai normalmente em 1 a 2 dias",
+ "tell_doctor": [
+  "Se o seu nariz sangra com frequência ou você fez cirurgia no nariz",
+  "Se você toma remédios que afinam o sangue",
+  "Se você tem ânsia de vômito com facilidade"
+ ],
+ "prepare": [
+  {
+   "title": "3 a 4 horas antes",
+   "text": "Normalmente não coma, não beba, não escove os dentes, não gargareje e não masque chiclete. Confirme com a clínica."
+  },
+  {
+   "title": "Nariz",
+   "text": "No dia do exame, não use gotas nem spray no nariz e não lave o nariz, a não ser que o médico diga outra coisa."
+  },
+  {
+   "title": "Cigarro",
+   "text": "Não fume nas horas antes da coleta."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento",
+  "Uma máscara, se você tiver sinais de resfriado"
+ ],
+ "steps": [
+  "Você se senta e inclina a cabeça um pouco para trás",
+  "O cotonete entra na narina e gira por alguns segundos",
+  "Depois você abre a boca, e o cotonete passa no fundo da garganta",
+  "Os cotonetes vão para um tubo, que recebe o seu nome"
+ ],
+ "feel": [
+  "No nariz, cócegas. Pode dar vontade de espirrar e os olhos podem lacrimejar",
+  "Na garganta, pode dar ânsia por um segundo"
+ ],
+ "after": [
+  "O incômodo passa em alguns minutos",
+  "Enquanto espera o resultado, se estiver resfriado, é melhor evitar contato com pessoas"
+ ],
+ "red_flags": [
+  "Sangramento do nariz que não para em 15 a 20 minutos: procure o médico ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O exame do nariz dói?",
+   "a": "Não dói, mas incomoda: dá cócegas e vontade de espirrar. Dura alguns segundos."
+  },
+  {
+   "q": "Posso comer antes do PCR?",
+   "a": "É melhor não comer nem beber de 3 a 4 horas antes. Senão, o material colhido pode ser pouco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Daqui a algumas horas você tem teste PCR. A partir de agora, não coma, não beba, não escove os dentes e não pingue nada no nariz."
+  }
+ ]
+}

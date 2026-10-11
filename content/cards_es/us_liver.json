@@ -1,0 +1,70 @@
+{
+ "title": "Ultrasonido de hígado y vesícula",
+ "also": [
+  "ultrasonido de hígado",
+  "ultrasonido de vesícula",
+  "ultrasonido hepatobiliar"
+ ],
+ "what": "El médico revisa el hígado, la vesícula y los conductos biliares con ultrasonido. Es seguro y no tiene radiación.",
+ "why": "Por dolor del lado derecho bajo las costillas, cambios en los análisis del hígado, o si se sospechan piedras o hígado graso.",
+ "duration": "normalmente de 15 a 20 minutos",
+ "tell_doctor": [
+  "Si ya te quitaron la vesícula",
+  "Si hace poco te hicieron una endoscopia o una colonoscopia. Puede quedar aire en el intestino"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "De 6 a 8 horas sin comer: después de comer, la vesícula se contrae y se ve mal. Normalmente el ultrasonido se hace en la mañana, en ayunas."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Una cena ligera, sin refrescos, verduras crudas, frijoles ni pan integral. Así hay menos gases y se ve mejor."
+  },
+  {
+   "title": "Agua",
+   "text": "Puedes tomar un poco de agua. Si la clínica te recomienda algo para los gases, tómalo como te indiquen."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Reportes de ultrasonidos anteriores, si tienes",
+  "Una toallita o una toalla para limpiar el gel"
+ ],
+ "steps": [
+  "Te acuestas boca arriba y descubres el abdomen",
+  "El médico pone un gel frío",
+  "Pasa el transductor por el lado derecho del abdomen, bajo las costillas",
+  "Te piden respirar hondo y aguantar el aire unos segundos",
+  "A veces te piden voltearte sobre el lado izquierdo"
+ ],
+ "feel": [
+  "El gel está frío",
+  "El transductor presiona un poco. No duele"
+ ],
+ "after": [
+  "Te limpian el gel y ya puedes comer",
+  "El reporte normalmente te lo dan en ese momento"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué hay que ir en ayunas al ultrasonido de hígado?",
+   "a": "Después de comer, la vesícula se encoge y el médico no podrá ver las piedras. Por eso, de 6 a 8 horas sin comer."
+  },
+  {
+   "q": "¿Se ve el hígado graso en el ultrasonido?",
+   "a": "Sí, muchas veces se ve. Para medir qué tan duro está el hígado, a veces también se hace una elastografía."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu ultrasonido de hígado. Cena ligero, sin refrescos, frijoles ni verduras crudas."
+  },
+  {
+   "hoursBefore": 8,
+   "text": "Desde ahora ya no comas hasta el ultrasonido. Puedes tomar un poco de agua."
+  }
+ ]
+}

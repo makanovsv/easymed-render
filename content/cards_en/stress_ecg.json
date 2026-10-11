@@ -1,0 +1,73 @@
+{
+ "title": "Exercise ECG",
+ "also": [
+  "exercise stress test",
+  "treadmill test",
+  "cardiac stress test",
+  "exercise tolerance test"
+ ],
+ "what": "Your ECG is recorded while you walk on a treadmill or pedal an exercise bike. The effort is increased step by step.",
+ "why": "To check if your heart gets enough blood during effort: for chest pain when walking, after a stent, or before sports.",
+ "duration": "usually 30 to 60 minutes in the room; the exercise itself takes 8 to 15 minutes",
+ "tell_doctor": [
+  "What medicines you take. The doctor may ask you to skip some heart medicines on the test day. Do not stop them on your own",
+  "If you have chest pain at rest, high blood pressure, or a recent heart attack",
+  "Joint or leg problems. The treadmill may not suit you"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Have a light meal 2 to 3 hours before. Do not come hungry, and do not overeat."
+  },
+  {
+   "title": "Coffee and smoking",
+   "text": "No coffee, strong tea, or cigarettes for a few hours before the test."
+  },
+  {
+   "title": "Clothes",
+   "text": "Sportswear and comfortable walking shoes. A towel and water."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past ECGs and medical reports",
+  "A list of your medicines",
+  "Your sportswear"
+ ],
+ "steps": [
+  "The doctor asks how you feel and checks your blood pressure",
+  "Pads are stuck on your chest, and a blood pressure cuff goes on your arm",
+  "You start walking slowly. Every few minutes the speed or slope goes up",
+  "Your blood pressure and ECG are recorded the whole time. The doctor is close by",
+  "The test stops when your pulse reaches the target, or if you feel unwell",
+  "You rest for a few minutes while the recording continues"
+ ],
+ "feel": [
+  "You will get tired, like after walking fast uphill. This is expected",
+  "Faster breathing and pulse are normal"
+ ],
+ "after": [
+  "You can usually go home after 10 to 15 minutes",
+  "The doctor explains the result the same day"
+ ],
+ "red_flags": [
+  "During the test: chest pain or pressure, strong shortness of breath, or dizziness. Tell the doctor right away",
+  "At home: chest pain that does not go away. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Is it dangerous?",
+   "a": "The test is done under a doctor's watch and stopped at the first sign of a problem. The risks are small, but tell the doctor about chest pain right away."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Exercise ECG tomorrow. Get your sportswear, shoes, and medicine list ready."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Have a light snack now, then nothing more to eat before the test. No coffee or cigarettes."
+  }
+ ]
+}

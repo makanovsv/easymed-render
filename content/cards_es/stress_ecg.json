@@ -1,0 +1,72 @@
+{
+ "title": "Prueba de esfuerzo",
+ "also": [
+  "prueba de esfuerzo en banda",
+  "electrocardiograma de esfuerzo",
+  "ergometría"
+ ],
+ "what": "Registran tu electrocardiograma mientras caminas en una banda o pedaleas en una bicicleta fija. El esfuerzo aumenta poco a poco.",
+ "why": "Para ver si al corazón le llega suficiente sangre durante el esfuerzo: si te duele el pecho al caminar, después de un stent o antes de hacer deporte.",
+ "duration": "en el consultorio normalmente de 30 a 60 minutos; el ejercicio en sí, de 8 a 15 minutos",
+ "tell_doctor": [
+  "Qué medicamentos tomas. El médico puede pedirte no tomar algunos del corazón el día de la prueba. No los suspendas por tu cuenta",
+  "Si ahora te duele el pecho en reposo, tienes la presión alta o tuviste un infarto hace poco",
+  "Si tienes problemas en las articulaciones o las piernas. Quizá la banda no sea para ti"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Una comida ligera de 2 a 3 horas antes de la prueba. No llegues con hambre ni muy lleno."
+  },
+  {
+   "title": "Café y cigarro",
+   "text": "Sin café, té cargado ni cigarros unas horas antes de la prueba."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa deportiva y zapatos cómodos para caminar. Una toalla y agua."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Electrocardiogramas y resúmenes médicos anteriores",
+  "La lista de tus medicamentos",
+  "Tu ropa deportiva"
+ ],
+ "steps": [
+  "El médico te pregunta cómo te sientes y te toma la presión",
+  "Te pegan electrodos en el pecho y te ponen el brazalete de la presión en el brazo",
+  "Empiezas a caminar despacio. Cada pocos minutos sube la velocidad o la inclinación",
+  "La presión y el electrocardiograma se registran todo el tiempo. El médico está a tu lado",
+  "La prueba se detiene cuando el pulso llega a la meta o si te sientes mal",
+  "Descansas unos minutos y el registro sigue"
+ ],
+ "feel": [
+  "Te vas a cansar, como después de subir una cuesta rápido. Es lo esperado",
+  "Respirar rápido y tener el pulso acelerado es normal"
+ ],
+ "after": [
+  "Normalmente en 10 a 15 minutos te puedes ir a casa",
+  "El médico te explica el resultado el mismo día"
+ ],
+ "red_flags": [
+  "Durante la prueba: dolor u opresión en el pecho, mucha falta de aire o mareo. Avísale al médico de inmediato",
+  "En casa: dolor en el pecho que no se quita. Llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligroso?",
+   "a": "La prueba se hace con un médico presente y se detiene a la primera señal de problema. Los riesgos son bajos, pero si te duele el pecho, dilo de inmediato."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu prueba de esfuerzo. Prepara ropa deportiva, zapatos y la lista de tus medicamentos."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Come algo ligero ahora y ya no comas hasta la prueba. Sin café ni cigarros."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Papanicolau",
+ "also": [
+  "papanicolau",
+  "preventivo",
+  "citologia do colo do útero",
+  "exame preventivo de câncer do colo do útero"
+ ],
+ "what": "A ginecologista colhe células do colo do útero com uma escovinha macia. Elas são analisadas no microscópio, para achar cedo alterações que podem virar câncer.",
+ "why": "Para o rastreamento regular do câncer do colo do útero e quando exames anteriores mostraram alterações. Muitas vezes junto com o exame de HPV.",
+ "duration": "a coleta leva de 1 a 2 minutos, o resultado sai normalmente em 1 a 2 semanas",
+ "tell_doctor": [
+  "O primeiro dia da última menstruação",
+  "Se você está grávida",
+  "Se exames anteriores tiveram alterações ou se você tratou o colo do útero",
+  "Se você tomou a vacina contra o HPV"
+ ],
+ "prepare": [
+  {
+   "title": "Ciclo",
+   "text": "Não durante a menstruação. Normalmente é melhor no meio do ciclo. Confirme com o médico."
+  },
+  {
+   "title": "2 dias antes",
+   "text": "Sem relação sexual, ducha vaginal, óvulos, cremes e comprimidos vaginais."
+  },
+  {
+   "title": "Exame",
+   "text": "Se você fez há pouco um exame com gel ou uma colposcopia, avise o médico. Às vezes o exame é adiado."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados anteriores do preventivo",
+  "Um absorvente para depois"
+ ],
+ "steps": [
+  "Você tira a roupa da cintura para baixo e deita na mesa ginecológica",
+  "A médica coloca um espéculo descartável",
+  "Com uma escovinha macia, colhe células do colo do útero. Leva alguns segundos",
+  "O material vai para um frasco com líquido ou para uma lâmina",
+  "O espéculo é retirado"
+ ],
+ "feel": [
+  "Pressão do espéculo",
+  "Uma sensação rápida de repuxar na hora da coleta"
+ ],
+ "after": [
+  "Um pequeno sangramento durante o dia é normal",
+  "Se o resultado tiver alterações, o médico pede outro exame ou uma avaliação. Isso não quer dizer que é câncer",
+  "Com que frequência repetir, o médico diz conforme o programa de rastreamento"
+ ],
+ "red_flags": [
+  "Dor forte ou sangramento forte depois do exame: procure o médico ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Com que frequência fazer o papanicolau?",
+   "a": "Normalmente a cada 3 a 5 anos, conforme a idade e o resultado do exame de HPV. O seu prazo quem diz é o médico."
+  },
+  {
+   "q": "Papanicolau alterado é câncer?",
+   "a": "Normalmente não. Na maioria das vezes são alterações nas células que se tratam bem. É para isso que serve o rastreamento."
+  },
+  {
+   "q": "O papanicolau dói?",
+   "a": "Normalmente não. Incomoda, mas é rápido. Relaxe e respire com calma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Daqui a 2 dias você tem papanicolau. A partir de hoje, sem relação sexual, ducha vaginal, óvulos e cremes."
+  }
+ ]
+}

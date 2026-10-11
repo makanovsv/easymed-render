@@ -1,0 +1,88 @@
+{
+ "title": "General anesthesia",
+ "also": [
+  "general anesthesia",
+  "being put to sleep",
+  "going under",
+  "surgery under anesthesia"
+ ],
+ "what": "A deep sleep caused by medicine. You feel nothing and remember nothing. An anesthesiologist stays with you the whole time.",
+ "why": "For surgery when you need full pain relief and must stay completely still.",
+ "duration": "for the whole surgery; waking up usually takes 10 to 30 minutes",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners and diabetes medicines. The doctor decides what to stop",
+  "Allergies",
+  "Heart or lung disease, or sleep apnea",
+  "If you or your relatives ever had problems with anesthesia",
+  "If you smoke or drink alcohol",
+  "Loose teeth or dentures"
+ ],
+ "prepare": [
+  {
+   "title": "Anesthesiologist",
+   "text": "Before surgery, an anesthesiologist will talk with you. Tell them about your health and ask your questions."
+  },
+  {
+   "title": "Food and water",
+   "text": "Usually no food for 6 hours, and clear water up to 2 hours before. Your clinic will give you the exact times."
+  },
+  {
+   "title": "Medicines",
+   "text": "Your doctor will tell you which medicines to take in the morning. Do not stop anything on your own."
+  },
+  {
+   "title": "Before surgery",
+   "text": "Take off jewelry, contact lenses, and dentures. Remove nail polish."
+  }
+ ],
+ "bring": [
+  "Your test and scan results",
+  "A list of your medicines",
+  "Your ID"
+ ],
+ "steps": [
+  "A thin tube called an IV is put into a vein",
+  "In the operating room, sensors are stuck on your chest and finger",
+  "You breathe oxygen through a mask",
+  "The anesthesiologist gives the medicine, and you fall asleep within a minute",
+  "While you sleep, machines help you breathe and your heart is watched",
+  "After surgery, you wake up in the recovery room"
+ ],
+ "feel": [
+  "You fall asleep fast and do not remember the surgery",
+  "After waking: sleepiness, sometimes chills",
+  "Your throat may feel scratchy from the breathing tube",
+  "Sometimes nausea. Tell the nurse and you will get medicine"
+ ],
+ "after": [
+  "You can eat and drink when the doctor says so",
+  "Do not drive for the first 24 hours",
+  "For the first 24 hours, do not make big decisions or drink alcohol",
+  "Weakness and fogginess usually pass in 1 to 2 days"
+ ],
+ "red_flags": [
+  "Trouble breathing or chest pain: call emergency services",
+  "Heavy vomiting that does not stop",
+  "Confusion that does not go away"
+ ],
+ "faq": [
+  {
+   "q": "Can I wake up during anesthesia?",
+   "a": "This is very rare. The anesthesiologist checks how deeply you sleep on monitors the whole time."
+  },
+  {
+   "q": "Why can't I eat before anesthesia?",
+   "a": "During sleep, food from the stomach can get into the lungs. An empty stomach protects you from this."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Surgery under anesthesia tomorrow. Eat and drink only until the times your clinic gave you."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Have your last meal at the time your clinic said. Remove nail polish and jewelry."
+  }
+ ]
+}

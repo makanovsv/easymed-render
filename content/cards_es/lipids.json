@@ -1,0 +1,71 @@
+{
+ "title": "Perfil de lípidos (colesterol)",
+ "also": [
+  "colesterol",
+  "perfil lipídico",
+  "colesterol LDL y HDL",
+  "triglicéridos"
+ ],
+ "what": "Es un análisis de sangre de la vena que mide las grasas en la sangre: colesterol total, colesterol «malo» y «bueno», y triglicéridos.",
+ "why": "Para calcular el riesgo de enfermedades del corazón y de los vasos sanguíneos, si tienes presión alta, diabetes o sobrepeso, y para vigilar un tratamiento.",
+ "duration": "la toma dura de 3 a 5 minutos; el resultado suele estar en 1 a 2 días",
+ "tell_doctor": [
+  "Si tomas medicamentos para el colesterol",
+  "Si tienes diabetes o enfermedades de la tiroides",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente en ayunas: de 9 a 12 horas sin comer. Algunos laboratorios lo aceptan sin ayuno; pregunta. Puedes tomar agua."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Cena sin grasa. Nada de alcohol uno o dos días antes."
+  },
+  {
+   "title": "Rutina",
+   "text": "La semana antes del análisis, come como siempre. No te pongas a dieta solo por el análisis: el resultado no será exacto."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta, sobre todo los del colesterol."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Resultados anteriores, para comparar"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen la liga y limpian la piel con antiséptico",
+  "Sientes un piquete breve y la sangre llena el tubo",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Puedes comer de inmediato",
+  "Las metas de colesterol son distintas para cada persona. Las define el médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Qué es el colesterol «malo» y el «bueno»?",
+   "a": "El «malo», el LDL, se acumula en los vasos sanguíneos. El «bueno», el HDL, ayuda a sacar el colesterol. Importa la proporción entre los dos."
+  },
+  {
+   "q": "¿Cada cuánto debo revisarme el colesterol?",
+   "a": "Los adultos, normalmente cada pocos años; si hay riesgos, más seguido. El médico te dirá cada cuánto en tu caso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de colesterol. Cena sin grasa y después ya no comas. Puedes tomar agua."
+  }
+ ]
+}

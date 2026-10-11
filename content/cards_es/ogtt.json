@@ -1,0 +1,72 @@
+{
+ "title": "Curva de tolerancia a la glucosa",
+ "also": [
+  "curva de glucosa",
+  "prueba de tolerancia a la glucosa",
+  "PTOG"
+ ],
+ "what": "Revisa cómo maneja tu cuerpo el azúcar. Te sacan sangre en ayunas y otra vez 2 horas después de tomar una solución de glucosa.",
+ "why": "Si se sospecha diabetes o prediabetes. A las embarazadas normalmente se les hace entre la semana 24 y la 28.",
+ "duration": "unas 2 horas o 2 horas y media en la clínica",
+ "tell_doctor": [
+  "Si ya tienes diabetes o el azúcar alto",
+  "Si estás embarazada y de cuántas semanas",
+  "Qué medicamentos tomas",
+  "Si estuviste enfermo hace poco, te operaron o tuviste mucho estrés"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "De 10 a 14 horas sin comer antes de la prueba. Puedes tomar agua."
+  },
+  {
+   "title": "3 días antes",
+   "text": "Come como siempre, no te pongas a dieta. Si no, el resultado no será exacto."
+  },
+  {
+   "title": "En la mañana",
+   "text": "No fumes ni masques chicle. Lleva un libro: vas a esperar bastante."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Agua y algo de comer para después de la prueba"
+ ],
+ "steps": [
+  "Primero te sacan sangre en ayunas",
+  "Te tomas en 5 minutos un vaso de solución dulce de glucosa",
+  "Esperas 2 horas sentado en la clínica: sin comer, sin fumar y sin caminar rápido",
+  "A las 2 horas te sacan sangre otra vez"
+ ],
+ "feel": [
+  "La solución es muy dulce y puede darte un poco de náuseas. Tómala a traguitos",
+  "A veces sientes debilidad al final de la espera"
+ ],
+ "after": [
+  "Después de la segunda toma ya puedes comer",
+  "El resultado suele estar en 1 o 2 días. Te lo explica el médico"
+ ],
+ "red_flags": [
+  "Mucha debilidad, sudor o temblor: avísale a la enfermera de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo salir a caminar durante la prueba?",
+   "a": "Mejor no: el movimiento cambia el nivel de azúcar. Quédate sentado en la clínica."
+  },
+  {
+   "q": "¿Qué pasa si vomito después de la glucosa?",
+   "a": "Avísale a la enfermera. Lo más probable es que cambien la prueba para otro día."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Mañana es tu curva de tolerancia a la glucosa. Desde ahora ya no comas. Puedes tomar agua."
+  },
+  {
+   "hoursBefore": 1.5,
+   "text": "Ya casi es tu prueba. Lleva agua, algo de comer para después y algo para entretenerte 2 horas."
+  }
+ ]
+}

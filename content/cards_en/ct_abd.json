@@ -1,0 +1,71 @@
+{
+ "title": "CT scan of the abdomen with contrast",
+ "also": [
+  "abdominal CT",
+  "CT abdomen and pelvis",
+  "CAT scan with contrast",
+  "contrast CT"
+ ],
+ "what": "A CT scan shows the organs in your belly in thin slices. Contrast dye given into a vein makes blood vessels and organs easier to see.",
+ "why": "For belly pain, to look for tumors or stones, after an injury, and to check how treatment is working.",
+ "duration": "15 to 30 minutes in the scan room, sometimes longer if you need to drink contrast first",
+ "tell_doctor": [
+  "Allergies, especially to iodine or contrast dye",
+  "Kidney disease. You may need a blood test for kidney function, called creatinine",
+  "Diabetes and diabetes medicines. The doctor will say if anything needs to change",
+  "If you are or might be pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no food for 4 to 6 hours. Water is fine. Your clinic will give you the exact time."
+  },
+  {
+   "title": "Contrast drink",
+   "text": "Sometimes you are asked to drink a contrast liquid 1 to 2 hours before the scan. If so, come early."
+  },
+  {
+   "title": "Metal",
+   "text": "Wear clothes with no metal around your belly. You will remove belts and jewelry."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your creatinine blood test, if you were asked for one",
+  "Past CT, MRI, or ultrasound scans"
+ ],
+ "steps": [
+  "A thin tube called a cannula is put into a vein in your arm",
+  "You lie on the table with your arms above your head",
+  "The table moves through a wide ring. The first scans are without contrast",
+  "When asked to breathe in and hold, you hold your breath for a few seconds",
+  "The contrast is given, and more scans are taken"
+ ],
+ "feel": [
+  "When the contrast goes in, you may feel a warm wave through your body, a metal taste, or a feeling that you need to pee. This is normal and passes in about a minute"
+ ],
+ "after": [
+  "The cannula is removed. You may be asked to wait at the clinic for 15 to 30 minutes",
+  "Drink extra water that day, unless your doctor says otherwise",
+  "The report usually comes in 1 to 2 days"
+ ],
+ "red_flags": [
+  "Itching, rash, a swollen face, or trouble breathing: tell staff right away, or call emergency services if you are already home"
+ ],
+ "faq": [
+  {
+   "q": "How much radiation is in a CT scan?",
+   "a": "More than a regular X-ray, but the dose is set for the task. When the scan is medically needed, the benefit is greater than the risk."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 6,
+   "text": "CT scan with contrast in 6 hours. If your clinic asked, stop eating now. Water is fine."
+  },
+  {
+   "hoursBefore": 2,
+   "text": "CT scan soon. Bring your creatinine test and past scans."
+  }
+ ]
+}

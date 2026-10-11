@@ -1,0 +1,66 @@
+{
+ "title": "Toma de sangre del dedo",
+ "also": [
+  "sangre del dedo",
+  "piquete en el dedo",
+  "sangre capilar"
+ ],
+ "what": "La enfermera hace un piquete pequeño en la punta del dedo y junta unas gotas de sangre. Así se hacen análisis sencillos que no necesitan mucha sangre.",
+ "why": "Para biometría hemática, glucosa, en niños y cuando es difícil sacar sangre de la vena.",
+ "duration": "normalmente de 2 a 3 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si antes te has sentido mal al sacarte sangre",
+  "Si tienes diabetes y te van a medir la glucosa"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Para la glucosa y muchos análisis, en ayunas: de 8 a 12 horas sin comer. Puedes tomar agua. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Manos",
+   "text": "Llega con las manos calientes. Si las tienes frías, ponlas bajo agua tibia: la sangre saldrá más fácil."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Si tomas medicamentos en la mañana, pregúntale al médico si debes sacarte sangre antes o después de tomarlos."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te sientas y apoyas la mano en la mesita",
+  "Limpian el dedo con antiséptico",
+  "Un piquete rápido al costado de la yema con una lanceta desechable",
+  "Limpian la primera gota y juntan las siguientes en un tubito",
+  "Te ponen un algodón en el dedo"
+ ],
+ "feel": [
+  "Un piquete breve y agudo",
+  "El dedo puede dolerte un poco un par de horas"
+ ],
+ "after": [
+  "Mantén el algodón apretado de 2 a 3 minutos",
+  "Los resultados suelen estar el mismo día o al siguiente. En el laboratorio te dirán cuándo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Qué es más exacto, la sangre del dedo o de la vena?",
+   "a": "Para la mayoría de los análisis, la de la vena es más exacta. Del dedo se hacen análisis sencillos, y para esos alcanza."
+  },
+  {
+   "q": "¿En qué dedo pican?",
+   "a": "Normalmente en el anular o el medio de la mano que menos usas. En bebés, a veces en el talón."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de sangre del dedo. Si es en ayunas, ya no comas después de la cena. Puedes tomar agua."
+  }
+ ]
+}

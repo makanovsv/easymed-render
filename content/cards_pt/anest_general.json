@@ -1,0 +1,87 @@
+{
+ "title": "Anestesia geral",
+ "also": [
+  "anestesia",
+  "anestesia geral",
+  "cirurgia com anestesia"
+ ],
+ "what": "Um sono profundo causado por remédios. Você não sente nada e não lembra de nada. O anestesista fica ao seu lado o tempo todo.",
+ "why": "Para cirurgias em que é preciso tirar toda a dor e manter o corpo parado.",
+ "duration": "dura toda a cirurgia, e acordar leva normalmente de 10 a 30 minutos",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue e os de diabetes. O médico decide o que suspender",
+  "Alergias",
+  "Doenças do coração, dos pulmões, apneia do sono",
+  "Se você ou alguém da família já teve problema com anestesia",
+  "Se você fuma ou bebe álcool",
+  "Dentes moles, próteses removíveis"
+ ],
+ "prepare": [
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista vai conversar com você. Conte sobre a sua saúde e tire suas dúvidas."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente, nada de comida 6 horas antes, e água pura até 2 horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Quais remédios tomar de manhã, o médico vai dizer. Não suspenda nada por conta própria."
+  },
+  {
+   "title": "Antes da cirurgia",
+   "text": "Tire joias, lentes de contato e próteses removíveis. Tire o esmalte das unhas."
+  }
+ ],
+ "bring": [
+  "Resultados de exames",
+  "Lista de remédios",
+  "Documentos"
+ ],
+ "steps": [
+  "Colocam um cateter na sua veia",
+  "Na sala de cirurgia, colam sensores no peito e no dedo",
+  "Você respira oxigênio por uma máscara",
+  "O anestesista aplica o remédio, e você dorme em um minuto",
+  "Enquanto você dorme, ajudam você a respirar e acompanham o coração",
+  "Depois da cirurgia, você acorda na sala de recuperação"
+ ],
+ "feel": [
+  "Você dorme rápido e não lembra da cirurgia",
+  "Ao acordar, sonolência e às vezes calafrios",
+  "A garganta pode arranhar por causa do tubo de respiração",
+  "Às vezes enjoo. Avise a enfermeira, e ela dá um remédio"
+ ],
+ "after": [
+  "Comer e beber pode quando o médico liberar",
+  "No primeiro dia, não dirija",
+  "No primeiro dia, não tome decisões importantes e não beba álcool",
+  "Fraqueza e distração passam normalmente em 1 a 2 dias"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar ou dor no peito: ligue para a emergência",
+  "Vômito forte que não para",
+  "Confusão mental que não passa"
+ ],
+ "faq": [
+  {
+   "q": "Dá para acordar durante a anestesia?",
+   "a": "Isso é muito raro. O anestesista acompanha a profundidade do sono pelos aparelhos o tempo todo."
+  },
+  {
+   "q": "Por que não posso comer antes da anestesia?",
+   "a": "Durante o sono, o que está no estômago pode ir para os pulmões. O estômago vazio protege contra isso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem cirurgia com anestesia. Comida e água só até o horário que a clínica informou."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "A última refeição é no horário que a clínica indicou. Tire o esmalte das unhas e as joias."
+  }
+ ]
+}

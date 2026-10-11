@@ -1,0 +1,52 @@
+{
+ "title": "Sangre oculta en heces",
+ "also": [
+  "prueba de sangre oculta",
+  "prueba FIT",
+  "prueba inmunoquímica fecal"
+ ],
+ "what": "Busca en las heces sangre que no se ve a simple vista. Es una forma sencilla de sospechar pólipos y tumores del intestino a tiempo.",
+ "why": "Normalmente como chequeo después de los 45 o 50 años, o si hay anemia o cambios en las evacuaciones. Lo decide el médico.",
+ "duration": "tomar la muestra en casa, 5 minutos; el resultado en 1 a 3 días",
+ "tell_doctor": [
+  "Si ahora te están sangrando las hemorroides",
+  "Si estás en tu periodo menstrual. Es mejor cambiar la fecha de la prueba",
+  "Si tomas medicamentos que hacen la sangre más líquida"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Pide en el laboratorio el frasco especial con palito. La prueba no se hace en un frasco común."
+  },
+  {
+   "title": "Comida",
+   "text": "Para la prueba inmunoquímica moderna no necesitas dieta. Si tu prueba es de otro tipo, pregunta en el laboratorio."
+  }
+ ],
+ "bring": [
+  "El frasco con la muestra",
+  "La orden médica"
+ ],
+ "steps": [
+  "Recoge las heces sin que caigan al agua. Por ejemplo, sobre un papel",
+  "Con el palito del frasco, toma un poco de heces de varias partes",
+  "Mete el palito en el frasco y ciérralo bien",
+  "Llévalo al laboratorio en el plazo que te indiquen"
+ ],
+ "feel": [
+  "Nada. No duele"
+ ],
+ "after": [
+  "Si la prueba sale positiva, no es un diagnóstico. Normalmente el médico pide una colonoscopia para encontrar la causa"
+ ],
+ "red_flags": [
+  "Si ves sangre en las heces o están negras, no esperes el resultado: ve al médico"
+ ],
+ "faq": [
+  {
+   "q": "Si la prueba sale positiva, ¿es cáncer?",
+   "a": "La mayoría de las veces, no. La sangre puede venir de hemorroides, una fisura o un pólipo. Pero hay que encontrar la causa. Normalmente se hace una colonoscopia."
+  }
+ ],
+ "reminders": []
+}

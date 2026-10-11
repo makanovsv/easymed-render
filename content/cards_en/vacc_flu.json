@@ -1,0 +1,74 @@
+{
+ "title": "Flu vaccine",
+ "also": [
+  "flu shot",
+  "flu jab",
+  "influenza vaccine",
+  "flu vaccination"
+ ],
+ "what": "A vaccine injection in your upper arm. It helps your body get ready for the flu in advance. You cannot catch the flu from this vaccine.",
+ "why": "Every year before flu season, usually in the fall. Especially important for children, older people, pregnant women, and people with long-term illnesses.",
+ "duration": "the shot takes a few seconds, usually 15 to 40 minutes with the checkup",
+ "tell_doctor": [
+  "If you are ill now or have a fever",
+  "Allergies, especially strong reactions to past vaccines",
+  "An allergy to egg",
+  "If you are pregnant",
+  "Immune system problems or treatment that weakens it"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "The vaccine is given when you are well. You will have a quick check before the shot."
+  },
+  {
+   "title": "Timing",
+   "text": "It is best to get vaccinated early, before the flu season starts. Protection builds up in about 2 weeks."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something comfortable so your upper arm is easy to uncover."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your vaccination record, if you have one"
+ ],
+ "steps": [
+  "The doctor or nurse asks how you feel and takes your temperature",
+  "You uncover your upper arm",
+  "The skin is wiped and the shot is given",
+  "The vaccine is written in your records",
+  "After the shot, you stay at the clinic for about 30 minutes"
+ ],
+ "feel": [
+  "A quick prick",
+  "Sometimes the spot is sore or red for 1 to 2 days",
+  "Sometimes tiredness or a mild fever. It goes away on its own"
+ ],
+ "after": [
+  "Stay near the room for 30 minutes",
+  "You can go back to your usual day",
+  "Do not rub the injection spot",
+  "Protection builds up in about 2 weeks and lasts about a year"
+ ],
+ "red_flags": [
+  "Trouble breathing, a swollen face or throat, or a rash all over the body: call emergency services",
+  "A high fever that lasts more than two days"
+ ],
+ "faq": [
+  {
+   "q": "Can the flu shot give me the flu?",
+   "a": "No. The vaccine has no live virus that can cause the flu. Feeling a bit tired is your immune system responding."
+  },
+  {
+   "q": "Why do I need a flu shot every year?",
+   "a": "The flu virus changes, and the vaccine is updated every season. Protection from last year's shot also fades."
+  },
+  {
+   "q": "Can I get the flu shot while pregnant?",
+   "a": "Usually yes, it is recommended. Tell your doctor you are pregnant. They will choose the vaccine and timing."
+  }
+ ],
+ "reminders": []
+}

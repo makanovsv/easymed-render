@@ -1,0 +1,66 @@
+{
+ "title": "Holter",
+ "also": [
+  "Holter 24 horas",
+  "eletrocardiograma de 24 horas",
+  "monitoramento cardíaco"
+ ],
+ "what": "Um pequeno aparelho na cintura grava o eletrocardiograma por um dia inteiro, às vezes 2 a 3 dias, enquanto você leva a vida normal.",
+ "why": "Em batimentos irregulares, crises de coração acelerado ou desmaios, para pegar o que não aparece num eletrocardiograma curto.",
+ "duration": "a instalação leva de 10 a 15 minutos, o uso normalmente 24 horas",
+ "tell_doctor": [
+  "Quais remédios para o coração você toma",
+  "Se você tem marca-passo"
+ ],
+ "prepare": [
+  {
+   "title": "Banho",
+   "text": "Tome banho antes. Normalmente não pode tomar banho com o aparelho."
+  },
+  {
+   "title": "Pele",
+   "text": "Sem creme no peito. Nos homens, podem raspar os pontos dos eletrodos."
+  },
+  {
+   "title": "Roupa",
+   "text": "Larga, de algodão, para o aparelho e os fios não atrapalharem."
+  }
+ ],
+ "bring": [
+  "Pedido médico"
+ ],
+ "steps": [
+  "Colam de 3 a 7 eletrodos no peito e ligam os fios ao aparelho",
+  "O aparelho fica preso na cintura ou pendurado no pescoço",
+  "Por um dia, você vive normalmente: trabalha, caminha, sobe escadas",
+  "Anote num diário o que fez e quando, quando passou mal e quando tomou remédio",
+  "Depois de um dia, o aparelho é retirado na clínica"
+ ],
+ "feel": [
+  "Os eletrodos às vezes coçam",
+  "O aparelho incomoda um pouco para dormir, mas você se acostuma rápido"
+ ],
+ "after": [
+  "O laudo sai normalmente em 1 a 3 dias",
+  "As marcas da cola saem com água e sabão"
+ ],
+ "red_flags": [
+  "Desmaio ou dor forte no peito: ligue para a emergência, mesmo com o aparelho"
+ ],
+ "faq": [
+  {
+   "q": "Posso tomar banho com o Holter?",
+   "a": "Normalmente não. O aparelho e os eletrodos não podem molhar. Tome banho antes da instalação."
+  },
+  {
+   "q": "Para que serve o diário?",
+   "a": "O médico compara o registro com o que você fez e sentiu. Sem diário, o laudo fica pior."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco você vai colocar o Holter. Tome banho agora: por um dia, não vai poder."
+  }
+ ]
+}

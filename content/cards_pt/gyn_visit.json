@@ -1,0 +1,87 @@
+{
+ "title": "Consulta ginecológica",
+ "also": [
+  "consulta com ginecologista",
+  "exame ginecológico",
+  "preventivo",
+  "exame na mesa ginecológica"
+ ],
+ "what": "A médica pergunta sobre a sua saúde, examina você na mesa ginecológica e, se precisar, colhe material.",
+ "why": "Normalmente uma vez por ano, para prevenção. Também com dor no pé da barriga, corrimento diferente, ciclo irregular e quando você planeja engravidar.",
+ "duration": "normalmente de 20 a 30 minutos",
+ "tell_doctor": [
+  "A data em que começou a última menstruação",
+  "Quais remédios e anticoncepcionais você usa",
+  "Se você pode estar grávida",
+  "Se você teve partos, cirurgias ou doenças",
+  "Se você ainda não teve relação sexual, avise. O exame vai ser feito de outro jeito"
+ ],
+ "prepare": [
+  {
+   "title": "Quando ir",
+   "text": "Para uma consulta de rotina, normalmente é melhor entre o 5º e o 10º dia do ciclo. Durante a menstruação, normalmente não colhem material. Confirme com a clínica."
+  },
+  {
+   "title": "1 a 2 dias antes",
+   "text": "Se for colher material: normalmente sem relação sexual, ducha vaginal e óvulos vaginais, a não ser que o médico tenha receitado."
+  },
+  {
+   "title": "Higiene",
+   "text": "Um banho normal na véspera ou de manhã. Sem produtos especiais de higiene íntima."
+  },
+  {
+   "title": "Antes de entrar",
+   "text": "Vá ao banheiro. Com a bexiga vazia, o exame é mais fácil."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Exames e laudos de ultrassom anteriores",
+  "Meias e um lençol descartável, se a clínica não fornecer"
+ ],
+ "steps": [
+  "A médica pergunta sobre queixas, ciclo e saúde",
+  "Você tira a roupa da cintura para baixo atrás de um biombo",
+  "Deita na mesa e apoia as pernas nos suportes",
+  "A médica examina a parte de fora",
+  "Coloca um espéculo, examina o colo do útero e, se precisar, colhe material",
+  "Depois, com a mão, examina o útero e os ovários pela barriga",
+  "Às vezes a médica examina também as mamas"
+ ],
+ "feel": [
+  "Frio e pressão do espéculo",
+  "Incomoda, mas normalmente não dói",
+  "Se doer, avise. A médica para ou usa um espéculo menor",
+  "Quanto mais você relaxar a barriga e respirar com calma, mais fácil fica"
+ ],
+ "after": [
+  "Depois da coleta, pode haver um pouco de sangramento durante o dia. Isso é normal",
+  "O resultado da coleta normalmente sai em alguns dias",
+  "Você já pode voltar às suas atividades"
+ ],
+ "red_flags": [
+  "Sangramento forte",
+  "Dor forte no pé da barriga",
+  "Febre e dor depois do exame"
+ ],
+ "faq": [
+  {
+   "q": "Qual é a melhor época para ir ao ginecologista?",
+   "a": "Para a consulta de rotina, normalmente depois da menstruação, entre o 5º e o 10º dia do ciclo. Com dor ou sangramento, vá logo, sem esperar."
+  },
+  {
+   "q": "Posso ir ao ginecologista menstruada?",
+   "a": "Para a consulta de rotina, é melhor remarcar. Se houver dor, sangramento forte ou algo urgente, vá sem adiar."
+  },
+  {
+   "q": "Como é o exame se eu nunca tive relação sexual?",
+   "a": "A médica examina com cuidado, sem espéculo. Se precisar, pede um ultrassom."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Daqui a 2 dias você tem consulta ginecológica. Se for colher material, normalmente sem relação sexual, ducha vaginal e óvulos."
+  }
+ ]
+}

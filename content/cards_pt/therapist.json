@@ -1,0 +1,67 @@
+{
+ "title": "Consulta com clínico geral",
+ "also": [
+  "clínico geral",
+  "médico de família",
+  "consulta médica",
+  "clínico"
+ ],
+ "what": "É o médico do primeiro atendimento. Ele pergunta, examina, passa o tratamento ou encaminha para um especialista.",
+ "why": "Quando algo incomoda e você não sabe a qual médico ir. Também para check-up, atestados e acompanhamento de doenças crônicas.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "O que incomoda você e desde quando",
+  "Quais remédios, vitaminas e suplementos você toma",
+  "Alergia a remédios",
+  "Doenças crônicas e cirurgias",
+  "Doenças dos parentes próximos"
+ ],
+ "prepare": [
+  {
+   "title": "Queixas",
+   "text": "Anote antes o que incomoda e o que você quer perguntar. Na consulta é fácil esquecer."
+  },
+  {
+   "title": "Pressão",
+   "text": "Se você mede a pressão ou a glicose em casa, leve as anotações."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma roupa confortável, que deixe fácil descobrir o peito e o braço para medir a pressão."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Exames, resumos de alta e laudos anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas e a saúde",
+  "Mede a pressão, o pulso, às vezes a temperatura e o peso",
+  "Escuta o coração e os pulmões",
+  "Olha a garganta e apalpa a barriga",
+  "Explica o que vem a seguir: tratamento, exames ou outro médico"
+ ],
+ "feel": [
+  "Nada desagradável: uma consulta comum"
+ ],
+ "after": [
+  "O médico entrega as receitas e os encaminhamentos",
+  "Se algo não ficou claro, pergunte enquanto ainda está no consultório",
+  "Não mude o tratamento por conta própria. Se tiver dúvida, fale com o médico"
+ ],
+ "red_flags": [
+  "Dor no peito, falta de ar, rosto torto, fraqueza no braço ou na perna, dor de cabeça forte e repentina: não espere a consulta, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Como me preparar para a consulta com o clínico?",
+   "a": "Anote as queixas e as perguntas, faça uma lista dos remédios e leve os exames anteriores. Assim a consulta é mais rápida e mais útil."
+  },
+  {
+   "q": "Preciso ir primeiro ao clínico e depois ao especialista?",
+   "a": "Muitas vezes, sim: o clínico entende qual especialista você precisa e já pede os exames necessários."
+  }
+ ],
+ "reminders": []
+}

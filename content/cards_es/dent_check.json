@@ -1,0 +1,63 @@
+{
+ "title": "Revisión y limpieza dental",
+ "also": [
+  "limpieza dental",
+  "limpieza con el dentista",
+  "quitar el sarro"
+ ],
+ "what": "El dentista revisa tus dientes y encías, y el higienista quita el sarro y la placa. Lo hacen con puntas especiales y un polvo suave.",
+ "why": "Normalmente cada 6 a 12 meses, para prevenir. También si te sangran las encías, si tienes mal aliento, antes de un tratamiento o de ponerte brackets.",
+ "duration": "normalmente de 40 a 60 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes enfermedades del corazón, válvulas artificiales o marcapasos",
+  "Si tienes diabetes",
+  "Si estás embarazada",
+  "Si tienes alergia a medicamentos o a la anestesia",
+  "Si tus dientes son sensibles al frío"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Puedes comer normal. Lávate los dientes antes de la cita."
+  },
+  {
+   "title": "Sensibilidad",
+   "text": "Si tus dientes son sensibles, avisa antes. Pueden ponerte anestesia o usar un modo más suave."
+  }
+ ],
+ "bring": [
+  "Radiografías de los dientes, si te las has hecho",
+  "La lista de medicamentos que tomas"
+ ],
+ "steps": [
+  "El dentista revisa tus dientes y encías y, si hace falta, toma una radiografía",
+  "Con una punta de ultrasonido quitan el sarro",
+  "Con un chorro de agua y polvo quitan la placa y las manchas",
+  "Pulen los dientes con una pasta",
+  "A veces los cubren con un producto protector con flúor",
+  "El dentista te explica cómo cuidar tus dientes en casa"
+ ],
+ "feel": [
+  "Vibración, ruido y agua fresca",
+  "Las encías pueden sangrar un poco. Es normal si están inflamadas",
+  "Si te molesta o te duele, levanta la mano y harán una pausa"
+ ],
+ "after": [
+  "Normalmente no comas ni tomes bebidas que manchan por 1 a 2 horas: café, té, vino",
+  "Por unos días los dientes pueden sentir el frío",
+  "Las encías dejan de sangrar normalmente en 1 a 2 semanas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿La limpieza daña el esmalte?",
+   "a": "No. Las puntas quitan el sarro y la placa, no el esmalte. La sensibilidad después de la limpieza normalmente se quita en unos días."
+  },
+  {
+   "q": "¿Cada cuánto necesito una limpieza dental?",
+   "a": "Normalmente cada seis meses. Si tienes brackets, enfermedad de las encías o mucho sarro, el dentista puede recomendarla más seguido."
+  }
+ ],
+ "reminders": []
+}

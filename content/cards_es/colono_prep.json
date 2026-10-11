@@ -1,0 +1,75 @@
+{
+ "title": "Preparación del intestino para la colonoscopia",
+ "also": [
+  "limpieza intestinal",
+  "cómo tomar la solución antes de la colonoscopia",
+  "preparación para colonoscopia"
+ ],
+ "what": "Para que el médico vea todo el intestino, hay que limpiarlo por completo con una solución especial. De la preparación depende que el estudio salga bien.",
+ "why": "Antes de una colonoscopia, y a veces antes de cirugías y de algunos estudios de rayos X del intestino.",
+ "duration": "3 días de dieta, más una noche y una mañana de limpieza",
+ "tell_doctor": [
+  "Si tienes diabetes. El plan de comidas y medicamentos será distinto",
+  "Si tienes enfermedades de los riñones o del corazón",
+  "Si sufres de estreñimiento. Quizá necesites una preparación más larga",
+  "Si tomas hierro. Normalmente piden dejarlo por un tiempo, pero lo decide el médico"
+ ],
+ "prepare": [
+  {
+   "title": "3 días antes",
+   "text": "Sí puedes: pan blanco, arroz, pasta, carne y pescado cocidos, huevo, queso cottage. No puedes: verduras, frutas, frutos rojos, hojas verdes, semillas, nueces, frijoles ni cereales integrales."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Un desayuno ligero y después solo líquidos claros: agua, caldo colado, té sin leche, jugo transparente sin pulpa."
+  },
+  {
+   "title": "Solución",
+   "text": "Prepárala y tómala exactamente como dice el instructivo de tu producto y las indicaciones del médico. Normalmente es un vaso cada 15 a 20 minutos."
+  },
+  {
+   "title": "Consejos",
+   "text": "Fría se toma más fácil. Puedes acompañarla con un líquido claro. Camina por la casa: así hace efecto más rápido."
+  }
+ ],
+ "bring": [
+  "Toallitas húmedas y crema para la piel. Te servirán en casa"
+ ],
+ "steps": [
+  "La noche anterior, toma la primera parte de la solución en el tiempo que indican tus instrucciones",
+  "En 1 o 2 horas empezarás a evacuar líquido seguido. Quédate cerca del baño",
+  "Temprano en la mañana, toma la segunda parte, si tus indicaciones son en dos tomas",
+  "Termina de tomarla de 3 a 4 horas antes de la colonoscopia, o a la hora que diga la clínica",
+  "Estás listo cuando las evacuaciones son un líquido amarillo y transparente, sin pedacitos"
+ ],
+ "feel": [
+  "Puedes sentir náuseas, inflamación o escalofríos. Toma más despacio",
+  "Ir al baño muchas veces es justo la limpieza"
+ ],
+ "after": [
+  "Si las evacuaciones todavía tienen pedacitos, avísale a la clínica antes del estudio"
+ ],
+ "red_flags": [
+  "Dolor fuerte de estómago, vómito repetido, debilidad o mareo fuerte: comunícate con la clínica o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué hago si no puedo terminar la solución?",
+   "a": "Tómala más despacio, enfríala y descansa de 20 a 30 minutos. Si de plano no puedes, llama a la clínica."
+  },
+  {
+   "q": "¿Puedo comer durante la preparación?",
+   "a": "El día anterior, después del desayuno, solo líquidos claros. Si no, el intestino no queda limpio."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Empieza la dieta sin fibra: sin verduras, frutas, semillas ni cereales integrales."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Hoy, después del desayuno, solo líquidos claros. En la noche, la solución según tus indicaciones."
+  }
+ ]
+}

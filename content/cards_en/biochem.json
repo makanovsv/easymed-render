@@ -1,0 +1,73 @@
+{
+ "title": "Blood chemistry test",
+ "also": [
+  "blood chemistry",
+  "metabolic panel",
+  "liver function test",
+  "kidney function test"
+ ],
+ "what": "A blood test from a vein that shows how your liver, kidneys, and metabolism are working. Your doctor chooses which values to check.",
+ "why": "For checkups, liver and kidney disease, diabetes, before surgery, and to track treatment.",
+ "duration": "the blood draw takes 3 to 5 minutes; results usually come in 1 to 2 days",
+ "tell_doctor": [
+  "What medicines, vitamins, and supplements you take",
+  "If you recently had hard workouts or an injury",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually strictly fasting: no food for 8 to 12 hours. Plain water is fine. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "Eat a light dinner with no fatty food. For one day before, no alcohol and no hard workouts."
+  },
+  {
+   "title": "In the morning",
+   "text": "Do not smoke. Do not drink tea, coffee, or juice, and do not chew gum."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Ask your doctor whether to take your morning medicines before or after the test."
+  }
+ ],
+ "bring": [
+  "Your referral with the list of tests",
+  "Your ID",
+  "Past results, to compare"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow",
+  "The skin is cleaned with antiseptic",
+  "A quick prick, and blood fills the tube",
+  "The needle is removed, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "You can eat right after the test",
+  "Your doctor explains the results. One number out of range is not a diagnosis"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why must I fast for blood chemistry?",
+   "a": "Food changes your sugar, fats, and other values. A test after breakfast may show false results."
+  },
+  {
+   "q": "What does blood chemistry include?",
+   "a": "There is no single set. It usually includes liver tests, creatinine, sugar, protein, and cholesterol. Your doctor decides the list."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Blood chemistry test tomorrow. After a light dinner, do not eat. Water is fine. No alcohol."
+  }
+ ]
+}

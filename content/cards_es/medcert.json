@@ -1,0 +1,77 @@
+{
+ "title": "Examen médico para un certificado",
+ "also": [
+  "certificado médico para manejar",
+  "examen médico para la licencia de conducir",
+  "examen médico para el trabajo",
+  "certificado médico laboral"
+ ],
+ "what": "Te revisan varios médicos y, si hace falta, te hacen análisis, para darte un certificado médico para la licencia de conducir, el trabajo o la escuela.",
+ "why": "Para sacar o renovar la licencia de conducir, al entrar a un trabajo, cada cierto tiempo en algunos trabajos, y para la escuela o el deporte.",
+ "duration": "normalmente de 1 a 3 horas, a veces en varios días",
+ "tell_doctor": [
+  "Para qué necesitas el certificado y qué tipo de licencia",
+  "Qué medicamentos tomas. Algunos pueden afectar los análisis",
+  "Si tienes enfermedades crónicas",
+  "Si usas lentes, lentes de contacto o aparato para oír"
+ ],
+ "prepare": [
+  {
+   "title": "Lista de médicos",
+   "text": "Pregunta antes en la clínica con qué médicos tienes que pasar y qué análisis necesitas. Depende del tipo de certificado y del país."
+  },
+  {
+   "title": "Orden",
+   "text": "Para el trabajo, normalmente necesitas una orden o solicitud de tu empleador."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Duerme bien y no tomes alcohol de 2 a 3 días antes. Si hay análisis de sangre, pregunta si debes ir en ayunas."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La solicitud de tu empleador, si es para el trabajo",
+  "Tus lentes o lentes de contacto, si los usas",
+  "Una foto, si la piden en la clínica",
+  "Tu certificado anterior o tu libreta de salud, si tienes",
+  "Informes de tus enfermedades crónicas"
+ ],
+ "steps": [
+  "Te registras y te dan la lista de consultorios",
+  "Normalmente pasas con el médico general y el oftalmólogo",
+  "Para la licencia de conducir, también con el psiquiatra y el especialista en adicciones; a veces hay prueba de alcohol y drogas",
+  "Para algunos tipos de licencia y de trabajo: electroencefalograma, otorrino, neurólogo y otros médicos",
+  "A veces te hacen análisis, electrocardiograma o radiografía de tórax",
+  "Al final te dan el certificado o el informe"
+ ],
+ "feel": [
+  "Nada molesto: son revisiones y preguntas normales"
+ ],
+ "after": [
+  "Muchas veces te dan el certificado el mismo día, si no hay que esperar análisis",
+  "Si el médico tiene dudas, puede mandarte a más estudios",
+  "Revisa que en el certificado estén bien tu nombre, la fecha y los sellos"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Con qué médicos tengo que pasar para el certificado de manejo?",
+   "a": "Normalmente con el médico general, el oftalmólogo, el psiquiatra y el especialista en adicciones. Para algunos tipos de licencia, también electroencefalograma y otros médicos. Pregunta la lista exacta en la clínica."
+  },
+  {
+   "q": "¿Puedo hacer el examen con lentes?",
+   "a": "Sí, si manejas con ellos. Entonces en el certificado anotarán que debes manejar con lentes o lentes de contacto."
+  },
+  {
+   "q": "¿Qué hago si no me dan el certificado?",
+   "a": "Normalmente el médico te manda a más estudios. Después, muchas veces sí te lo dan."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "En 2 días es tu examen médico para el certificado. Nada de alcohol hasta el examen. Revisa tus documentos, tus lentes y la orden."
+  }
+ ]
+}

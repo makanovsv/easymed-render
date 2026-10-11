@@ -1,0 +1,68 @@
+{
+ "title": "Exame de vista e óculos",
+ "also": [
+  "exame de vista",
+  "medir o grau",
+  "consulta com oftalmologista",
+  "acuidade visual"
+ ],
+ "what": "O médico confere o quanto você enxerga com nitidez e escolhe as lentes com as quais você vê melhor. Não dói.",
+ "why": "Se piorou a visão de longe ou de perto, os olhos cansam, a cabeça dói ao ler, em exames de rotina e para trocar óculos antigos.",
+ "duration": "normalmente de 20 a 40 minutos, com dilatação da pupila mais tempo",
+ "tell_doctor": [
+  "Doenças e cirurgias nos olhos",
+  "Diabetes e pressão alta",
+  "Se você usa lentes de contato: quais e desde quando",
+  "Quais colírios você usa"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes",
+   "text": "Lentes gelatinosas normalmente são tiradas 1 a 2 dias antes, as rígidas, antes ainda. Confirme com a clínica."
+  },
+  {
+   "title": "Volta para casa",
+   "text": "Se forem pingar colírio para dilatar a pupila, depois você não pode dirigir por algumas horas."
+  }
+ ],
+ "bring": [
+  "Seus óculos e lentes",
+  "Receitas de óculos anteriores",
+  "Óculos de sol: ajudam depois do colírio"
+ ],
+ "steps": [
+  "Você se senta em frente a uma tabela com letras ou símbolos",
+  "Tampa um olho e lê as linhas, depois o outro",
+  "Um aparelho mede rápido como o olho desvia a luz",
+  "O médico coloca lentes diferentes numa armação de teste e pergunta com qual você vê melhor",
+  "Às vezes medem a pressão do olho e examinam o fundo do olho",
+  "Você recebe a receita dos óculos"
+ ],
+ "feel": [
+  "Nada desagradável",
+  "Com o colírio que dilata a pupila, a luz forte incomoda e tudo de perto fica embaçado por algumas horas"
+ ],
+ "after": [
+  "A receita dos óculos é dada na hora",
+  "A adaptação aos óculos novos normalmente leva alguns dias",
+  "Se depois de 1 a 2 semanas você ainda enxergar mal com eles, volte ao médico"
+ ],
+ "red_flags": [
+  "Perda repentina da visão, flashes de luz e uma cortina na frente do olho, dor forte no olho: procure um médico com urgência ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso escolher óculos sem médico?",
+   "a": "Óculos prontos não se ajustam exatamente aos seus olhos. É melhor um especialista examinar a vista e passar a receita."
+  },
+  {
+   "q": "Óculos estragam a vista?",
+   "a": "Não. Óculos certos não pioram a visão. Só que, sem eles, você percebe melhor como enxerga de verdade."
+  },
+  {
+   "q": "Com que frequência examinar a vista?",
+   "a": "Adultos normalmente a cada 1 a 2 anos. Depois dos 40 e com diabetes, mais vezes, como o médico indicar."
+  }
+ ],
+ "reminders": []
+}

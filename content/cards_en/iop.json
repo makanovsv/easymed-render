@@ -1,0 +1,69 @@
+{
+ "title": "Eye pressure test",
+ "also": [
+  "tonometry",
+  "eye pressure check",
+  "intraocular pressure",
+  "glaucoma test"
+ ],
+ "what": "The doctor measures the pressure of the fluid inside your eye. It is quick and usually painless.",
+ "why": "To find glaucoma early: usually after age 40, if glaucoma runs in your family, before treatment with some medicines, and to check treatment you already have.",
+ "duration": "usually 5 to 10 minutes",
+ "tell_doctor": [
+  "If you wear contact lenses",
+  "If you have glaucoma, and what eye drops you use",
+  "If you have had eye surgery, including laser vision correction",
+  "If you take steroid medicines",
+  "If you are allergic to eye drops"
+ ],
+ "prepare": [
+  {
+   "title": "Lenses",
+   "text": "Contact lenses are taken out before the test. Bring your case and solution."
+  },
+  {
+   "title": "Drops",
+   "text": "If you use glaucoma drops, do not stop them on your own. Ask your doctor whether to use them on the test day."
+  },
+  {
+   "title": "Eyes",
+   "text": "It is best to come without eye makeup."
+  }
+ ],
+ "bring": [
+  "Your glasses and lens case",
+  "Your eye drops, or their names",
+  "Past test results"
+ ],
+ "steps": [
+  "You sit at the machine and rest your chin on the support",
+  "Air puff method: the machine blows a quick puff of air at your eye",
+  "Contact method: numbing drops are put in first",
+  "Then the device touches the surface of your eye for a second",
+  "Both eyes are measured, sometimes several times"
+ ],
+ "feel": [
+  "The air puff is a sudden, light pop. It does not hurt",
+  "With the contact method, the drops sting a little, and you hardly feel the touch"
+ ],
+ "after": [
+  "You usually get the result right away",
+  "After numbing drops, do not rub your eyes for 15 to 20 minutes",
+  "You can usually put your lenses back in after 15 to 30 minutes. Check with your doctor",
+  "If your pressure is high, the doctor will order more tests"
+ ],
+ "red_flags": [
+  "Sudden severe eye pain, redness, blurry vision and rainbow rings around lights, headache and nausea: see a doctor urgently or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Does an eye pressure test hurt?",
+   "a": "No. The puff of air is just a surprise. With the contact method, the eye is numbed with drops first."
+  },
+  {
+   "q": "Can I notice high eye pressure myself?",
+   "a": "Usually not. Glaucoma causes no symptoms for a long time. That is why regular pressure checks are usually advised after age 40."
+  }
+ ],
+ "reminders": []
+}

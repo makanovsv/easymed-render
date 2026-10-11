@@ -1,0 +1,86 @@
+{
+ "title": "Colonoscopy",
+ "also": [
+  "colonoscopy",
+  "bowel scope",
+  "lower endoscopy",
+  "colon cancer screening"
+ ],
+ "what": "The doctor looks inside your large bowel with a flexible tube that has a camera. Small polyps can be removed and samples taken during the same test.",
+ "why": "To find polyps and bowel cancer, if there is blood in your stool, anemia, or changes in bowel habits, and for screening from about age 45 to 50.",
+ "duration": "the test itself usually takes 20 to 40 minutes, plus bowel prep the day before",
+ "tell_doctor": [
+  "If you take blood thinners or iron tablets",
+  "If you have diabetes. Your prep and medicines will need to be adjusted",
+  "Heart or kidney disease",
+  "If you want to be asleep. Sedation is a separate service"
+ ],
+ "prepare": [
+  {
+   "title": "2 to 3 days before",
+   "text": "Eat a low-fiber diet: no vegetables, fruit, leafy greens, seeds, nuts, whole grains, or beans."
+  },
+  {
+   "title": "The day before",
+   "text": "Usually a light breakfast, then clear liquids only: water, clear broth, tea without milk."
+  },
+  {
+   "title": "Bowel prep",
+   "text": "Drink the bowel prep solution as your doctor says, often in two parts: in the evening and early in the morning. This matters most for a good result."
+  },
+  {
+   "title": "Ready?",
+   "text": "Your prep worked if your stool is a clear yellow liquid with no bits."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past colonoscopy reports",
+  "Someone to take you home, if you have sedation"
+ ],
+ "steps": [
+  "You change into disposable shorts with an opening at the back",
+  "You lie on your left side with your knees to your chest",
+  "If you have sedation, medicine goes into a vein and you fall asleep",
+  "The doctor gently moves the tube through the bowel, adding air so the walls open up",
+  "Sometimes you are asked to turn onto your back",
+  "If a small polyp is found, it is removed right away"
+ ],
+ "feel": [
+  "Without sedation: bloating and cramps from the air. It can be unpleasant. Tell the doctor",
+  "With sedation: you usually feel and remember nothing"
+ ],
+ "after": [
+  "Bloating from the air goes away in a few hours. Walking helps",
+  "After sedation, do not drive for the rest of the day",
+  "You can usually eat right away",
+  "Biopsy results take 1 to 2 weeks"
+ ],
+ "red_flags": [
+  "Severe belly pain, a high fever, or heavy bleeding from the bottom: see a doctor right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I be asleep for a colonoscopy?",
+   "a": "Yes, with sedation. You sleep for 20 to 40 minutes. Afterward, someone must take you home, and you cannot drive."
+  },
+  {
+   "q": "Why do I have to drink so much solution?",
+   "a": "The bowel must be clean. Otherwise the doctor may miss a polyp, and the test may have to be repeated."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Colonoscopy in 3 days. Start a low-fiber diet: no vegetables, fruit, seeds, or whole grains."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Colonoscopy tomorrow. After breakfast today, clear liquids only. In the evening, drink the first part of the prep."
+  },
+  {
+   "hoursBefore": 5,
+   "text": "Time for the second part of the prep, if you have a two-part plan. Finish by the time your clinic gave you."
+  }
+ ]
+}

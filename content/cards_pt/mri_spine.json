@@ -1,0 +1,86 @@
+{
+ "title": "Ressonância da coluna",
+ "also": [
+  "ressonância da coluna cervical",
+  "ressonância da coluna lombar",
+  "ressonância da coluna torácica",
+  "RM de coluna"
+ ],
+ "what": "Imagens da coluna, dos discos e dos nervos feitas num campo magnético. Não há radiação. Normalmente se examina uma parte: pescoço, meio das costas ou lombar.",
+ "why": "Em dor nas costas ou no pescoço que não passa, dormência e fraqueza nos braços ou nas pernas, depois de uma lesão e antes de cirurgia.",
+ "duration": "normalmente de 20 a 40 minutos por parte da coluna",
+ "tell_doctor": [
+  "Marca-passo, desfibrilador ou outro implante eletrônico",
+  "Metal no corpo: próteses, placas, clipes nos vasos, estilhaços",
+  "Implante de audição, bomba de insulina",
+  "Gravidez",
+  "Medo de lugar fechado",
+  "Se for com contraste: doenças dos rins e alergia a contraste",
+  "Se, por causa da dor, é difícil ficar muito tempo deitado de costas"
+ ],
+ "prepare": [
+  {
+   "title": "Metal",
+   "text": "Em casa, tire joias, piercings e relógio. Não pode entrar com metal na sala."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável e sem metal: sem zíper, botões de pressão e aro no sutiã. Muitas vezes dão uma roupa descartável."
+  },
+  {
+   "title": "Maquiagem",
+   "text": "Não use rímel nem sombra com brilho: eles podem ter partículas de metal."
+  },
+  {
+   "title": "Dor",
+   "text": "Se dói ficar deitado, pergunte antes ao médico se pode tomar o seu remédio para dor antes do exame."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Imagens e laudos anteriores de ressonância e tomografia",
+  "Documentos dos implantes, se você tiver"
+ ],
+ "steps": [
+  "Você deixa no armário o celular, as chaves, os cartões e tudo de metal",
+  "Deita na mesa do aparelho, e dão fones ou protetores de ouvido. O aparelho faz barulho",
+  "Você deita de costas, e podem colocar uma almofada sob os joelhos. Fica mais fácil",
+  "A mesa entra no túnel do aparelho",
+  "É preciso ficar parado. A equipe fala com você por um interfone",
+  "Na mão, você segura um botão de chamada: pode apertar a qualquer momento"
+ ],
+ "feel": [
+  "Batidas altas e zumbido. Isso é normal",
+  "Às vezes um leve calor na parte do corpo examinada",
+  "Com contraste, um friozinho na veia, que passa rápido",
+  "Ficar muito tempo de costas pode ser difícil. Avise se começar a doer"
+ ],
+ "after": [
+  "Você já pode voltar às suas atividades",
+  "O laudo sai normalmente no mesmo dia ou em 1 a 2 dias",
+  "Se teve contraste, beba mais água nesse dia, a não ser que o médico tenha proibido"
+ ],
+ "red_flags": [
+  "Fraqueza repentina nas pernas, dormência entre as pernas, problemas para urinar: não espere a ressonância, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Quantas partes da coluna são examinadas de uma vez?",
+   "a": "Normalmente uma, conforme o pedido médico. Dá para fazer várias partes na mesma visita, mas demora mais."
+  },
+  {
+   "q": "Posso fazer ressonância se tenho metal no corpo?",
+   "a": "Muitas vezes pode, mas quem decide é o médico. Avise antes sobre qualquer implante e traga os documentos dele."
+  },
+  {
+   "q": "Ressonância ou tomografia da coluna: qual é melhor?",
+   "a": "A ressonância mostra melhor os discos, os nervos e a medula. A tomografia mostra melhor os ossos. O que você precisa, quem decide é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem ressonância. Em casa, tire joias e piercings e vista roupa sem metal. Leve as imagens anteriores e os documentos dos implantes."
+  }
+ ]
+}

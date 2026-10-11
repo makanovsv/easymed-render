@@ -1,0 +1,70 @@
+{
+ "title": "Ultrasonido de riñones",
+ "also": [
+  "ultrasonido renal",
+  "ultrasonido de riñones y vejiga",
+  "ultrasonido de vías urinarias"
+ ],
+ "what": "El médico revisa los riñones y la vejiga con ultrasonido. Es seguro y no tiene radiación.",
+ "why": "Por dolor en la parte baja de la espalda, cambios en el examen de orina, presión alta o si se sospechan piedras.",
+ "duration": "normalmente de 15 a 20 minutos",
+ "tell_doctor": [
+  "Si has tenido piedras en los riñones o te han operado los riñones",
+  "Si tienes un solo riñón",
+  "Si ahora te duele, dónde y desde cuándo"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no necesitas dieta especial. Un día antes, mejor no comas cosas que dan gases: frijoles, refrescos, verduras crudas."
+  },
+  {
+   "title": "Vejiga",
+   "text": "Si también revisan la vejiga, normalmente te piden tomar de medio litro a 1 litro de agua una hora antes y no ir al baño. Pregunta en tu clínica."
+  },
+  {
+   "title": "Ropa",
+   "text": "Cómoda: tendrás que descubrir el abdomen y la parte baja de la espalda."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu examen de orina y reportes de ultrasonidos anteriores, si tienes",
+  "Una toallita o una toalla"
+ ],
+ "steps": [
+  "Te acuestas boca arriba, después de lado o boca abajo",
+  "El médico pone gel en el costado y en la parte baja de la espalda",
+  "Con el transductor revisa los dos riñones",
+  "Te piden respirar hondo y aguantar el aire unos segundos",
+  "Si revisan la vejiga, después te piden ir al baño y vuelven a revisar"
+ ],
+ "feel": [
+  "El gel está frío",
+  "El transductor presiona un poco. No duele",
+  "Con la vejiga llena puede ser incómodo. Dura poco"
+ ],
+ "after": [
+  "Puedes volver a tus actividades de inmediato",
+  "El reporte normalmente te lo dan en ese momento"
+ ],
+ "red_flags": [
+  "Dolor fuerte en la parte baja de la espalda con fiebre, vómito o sangre en la orina: no esperes la cita, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Se ven las piedras en los riñones en el ultrasonido?",
+   "a": "Sí, la mayoría se ven. Las piedras muy pequeñas o las que están en el uréter a veces se ven mejor en una tomografía."
+  },
+  {
+   "q": "¿Tengo que tomar agua antes del ultrasonido de riñones?",
+   "a": "Para los riñones no es necesario. Para la vejiga sí tiene que estar llena, por eso muchas veces piden tomar agua."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu ultrasonido de riñones. Si la clínica pidió la vejiga llena, toma agua una hora antes y no vayas al baño."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Extracción de sangre de la vena",
+ "also": [
+  "análisis de sangre",
+  "toma de muestra de sangre",
+  "venopunción"
+ ],
+ "what": "La enfermera saca un poco de sangre de una vena del brazo con una aguja delgada. Con un solo tubo se pueden hacer muchos análisis.",
+ "why": "Para química sanguínea, hormonas, infecciones, coagulación y la mayoría de los demás análisis.",
+ "duration": "normalmente de 3 a 5 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si antes te has sentido mal o te has desmayado al sacarte sangre",
+  "Si tienes alergia al látex o a la cinta adhesiva"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Para muchos análisis la sangre se toma en ayunas: de 8 a 12 horas sin comer. Puedes tomar agua natural. Pregunta en el laboratorio qué aplica para tus análisis."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Un día antes, nada de alcohol ni ejercicio intenso. En la mañana, mejor no fumes."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Si tomas medicamentos en la mañana, pregúntale al médico si debes sacarte sangre antes o después de tomarlos."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Sientes un piquete breve. La aguja queda en la vena unos segundos y la sangre llena los tubos",
+  "Quitan la liga, sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un ligero mareo. Avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos, sin doblar el brazo",
+  "A veces sale un pequeño moretón y se quita solo",
+  "Los resultados suelen estar en 1 a 3 días. En el laboratorio te dirán cuándo"
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y se pone rojo",
+  "Adormecimiento o dolor fuerte en el brazo"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo tomar agua antes del análisis de sangre?",
+   "a": "Sí, agua natural sin gas. Si el análisis es en ayunas, no tomes té, café ni jugos."
+  },
+  {
+   "q": "¿Por qué me mareo después de sacarme sangre?",
+   "a": "Puede pasar por nervios o por hambre. Siéntate, toma agua y come algo dulce."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de sangre. Si es en ayunas, ya no comas después de la cena. Puedes tomar agua."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Ultrasound of the liver and gallbladder",
+ "also": [
+  "liver ultrasound",
+  "gallbladder ultrasound",
+  "abdominal ultrasound",
+  "RUQ ultrasound"
+ ],
+ "what": "The doctor looks at your liver, gallbladder, and bile ducts with ultrasound. It is safe, with no radiation.",
+ "why": "For pain on the right side under the ribs, abnormal liver blood tests, or possible gallstones or fatty liver.",
+ "duration": "usually 15 to 20 minutes",
+ "tell_doctor": [
+  "If your gallbladder has been removed",
+  "If you recently had a gastroscopy or colonoscopy. Air may still be in your bowel"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "No food for 6 to 8 hours. After eating, the gallbladder shrinks and is hard to see. The scan is usually done in the morning before breakfast."
+  },
+  {
+   "title": "The day before",
+   "text": "A light dinner without fizzy drinks, raw vegetables, beans, or dark rye bread. Less gas means a clearer view."
+  },
+  {
+   "title": "Water",
+   "text": "A little water is fine. If your clinic suggests an anti-gas medicine, take it as they say."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past ultrasound reports, if you have them",
+  "A tissue or towel to wipe off the gel"
+ ],
+ "steps": [
+  "You lie on your back with your belly uncovered",
+  "The doctor puts on a cool gel",
+  "The probe moves over the right side of your belly, under the ribs",
+  "You will be asked to take a deep breath and hold it for a few seconds",
+  "Sometimes you are asked to turn onto your left side"
+ ],
+ "feel": [
+  "The gel is cool",
+  "The probe presses a little. It does not hurt"
+ ],
+ "after": [
+  "The gel is wiped off, and you can eat right away",
+  "The report is usually given right away"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why must I come hungry for a liver ultrasound?",
+   "a": "After eating, the gallbladder shrinks, and the doctor cannot see stones. So no food for 6 to 8 hours."
+  },
+  {
+   "q": "Can ultrasound show fatty liver?",
+   "a": "Yes, it often can. To check how stiff the liver is, a scan called elastography is sometimes added."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Liver ultrasound tomorrow. Have a light dinner with no fizzy drinks, beans, or raw vegetables."
+  },
+  {
+   "hoursBefore": 8,
+   "text": "Stop eating now until your ultrasound. A little water is fine."
+  }
+ ]
+}

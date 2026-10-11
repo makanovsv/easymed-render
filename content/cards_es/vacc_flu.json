@@ -1,0 +1,73 @@
+{
+ "title": "Vacuna contra la influenza",
+ "also": [
+  "vacuna de la gripe",
+  "vacuna contra la gripa",
+  "vacuna anual de influenza"
+ ],
+ "what": "Es una inyección de vacuna en el hombro. Ayuda a tu cuerpo a prepararse contra la influenza antes de tiempo. Esta vacuna no te puede dar influenza.",
+ "why": "Cada año antes de la temporada de influenza, normalmente en otoño. Es muy importante para niños, adultos mayores, embarazadas y personas con enfermedades crónicas.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Si ahora estás enfermo o tienes fiebre",
+  "Tus alergias, sobre todo reacciones fuertes a vacunas anteriores",
+  "Si tienes alergia al huevo",
+  "Si estás embarazada",
+  "Si tienes enfermedades de las defensas o un tratamiento que las baja"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando estás sano. Antes del piquete te harán una revisión rápida."
+  },
+  {
+   "title": "Cuándo",
+   "text": "Mejor vacúnate antes de que empiecen los contagios: la protección aparece más o menos en 2 semanas."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir el hombro fácilmente."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tu cartilla de vacunación, si tienes"
+ ],
+ "steps": [
+  "El médico o la enfermera te pregunta cómo te sientes y te toma la temperatura",
+  "Descubres el hombro",
+  "Limpian la piel y te ponen la inyección",
+  "Anotan la vacuna en tus documentos",
+  "Después de la vacuna, quédate sentado en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces el lugar del piquete duele o se pone rojo 1 o 2 días",
+  "A veces cansancio o un poco de fiebre. Se quita solo"
+ ],
+ "after": [
+  "Quédate 30 minutos cerca del consultorio",
+  "Puedes volver a tus actividades normales",
+  "No frotes el lugar del piquete",
+  "La protección se forma en unas 2 semanas y dura más o menos un año"
+ ],
+ "red_flags": [
+  "Te cuesta respirar, se te hincha la cara o la garganta, o tienes ronchas en todo el cuerpo: llama a emergencias",
+  "Fiebre alta que dura más de dos días"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puede dar influenza por la vacuna?",
+   "a": "No. La vacuna no tiene virus vivo que pueda causar influenza. Un poco de cansancio es la respuesta de tus defensas."
+  },
+  {
+   "q": "¿Por qué hay que vacunarse cada año?",
+   "a": "El virus de la influenza cambia, y la vacuna se actualiza cada temporada. Además, la protección de la vacuna anterior se debilita."
+  },
+  {
+   "q": "¿Se pueden vacunar las embarazadas?",
+   "a": "Normalmente sí, y se recomienda. Dile al médico que estás embarazada, y él elegirá la vacuna y el momento."
+  }
+ ],
+ "reminders": []
+}

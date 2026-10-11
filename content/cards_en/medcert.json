@@ -1,0 +1,77 @@
+{
+ "title": "Medical exam for a certificate",
+ "also": [
+  "driver's medical",
+  "medical for a driving license",
+  "pre-employment medical",
+  "fit-to-work certificate"
+ ],
+ "what": "A checkup with several doctors, and tests if needed, to get a medical certificate for a driving license, work, or school.",
+ "why": "To get or renew a driving license, when starting a new job, regularly for some jobs, and for school and sports.",
+ "duration": "usually 1 to 3 hours, sometimes over several days",
+ "tell_doctor": [
+  "What the certificate is for, and which license category",
+  "What medicines you take. Some can affect test results",
+  "Any long-term illnesses",
+  "If you wear glasses, contact lenses, or a hearing aid"
+ ],
+ "prepare": [
+  {
+   "title": "List of doctors",
+   "text": "Ask the clinic in advance which doctors and tests you need. It depends on the type of certificate and the country."
+  },
+  {
+   "title": "Referral",
+   "text": "For work, you usually need a referral from your employer."
+  },
+  {
+   "title": "The day before",
+   "text": "Get a good night's sleep. No alcohol for 2 to 3 days. If you need blood tests, ask whether to come fasting."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A referral from your employer, if it is for work",
+  "Your glasses or contact lenses, if you wear them",
+  "A photo, if the clinic asks for one",
+  "Your old certificate or health record, if you have one",
+  "Medical records about long-term illnesses"
+ ],
+ "steps": [
+  "You check in and get a list of rooms to visit",
+  "You usually see a general doctor and an eye doctor",
+  "For a driving certificate, also a psychiatrist and an addiction specialist. Sometimes an alcohol and drug test is needed",
+  "For some license categories and jobs, also an EEG, an ear, nose, and throat doctor, a neurologist, and others",
+  "Sometimes you have tests, an ECG, or a chest X-ray",
+  "At the end, you get a certificate or a report"
+ ],
+ "feel": [
+  "Nothing unpleasant. Just normal checkups and questions"
+ ],
+ "after": [
+  "The certificate is often given the same day, if no test results are pending",
+  "If a doctor is unsure, they may send you for more tests",
+  "Check your full name, the date, and the stamps on the certificate"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Which doctors do I need for a driving certificate?",
+   "a": "Usually a general doctor, an eye doctor, a psychiatrist, and an addiction specialist. For some categories, also an EEG and other doctors. Check the exact list with your clinic."
+  },
+  {
+   "q": "Can I do the exam wearing glasses?",
+   "a": "Yes, if you drive in them. The certificate will then say you must drive with glasses or lenses."
+  },
+  {
+   "q": "What if I do not get the certificate?",
+   "a": "Usually the doctor sends you for more tests. After that, the certificate is often given."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Medical exam for a certificate in 2 days. No alcohol until the exam. Check your documents, glasses, and referral."
+  }
+ ]
+}

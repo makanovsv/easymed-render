@@ -1,0 +1,58 @@
+{
+ "title": "Hemograma completo",
+ "also": [
+  "hemograma",
+  "exame de sangue completo",
+  "contagem sanguínea"
+ ],
+ "what": "Mostra quantas hemácias, hemoglobina, leucócitos e plaquetas há no sangue. É o exame mais comum.",
+ "why": "Em check-ups, antes de cirurgia, com febre, cansaço, suspeita de anemia ou inflamação.",
+ "duration": "a coleta leva de 3 a 5 minutos, o resultado sai normalmente no dia seguinte",
+ "tell_doctor": [
+  "Quais remédios você toma",
+  "Se você esteve doente ou teve febre há pouco tempo",
+  "Se você está menstruada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "De preferência de manhã, em jejum ou algumas horas depois de uma refeição leve. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Sem álcool e sem treino pesado."
+  }
+ ],
+ "bring": [
+  "Pedido médico"
+ ],
+ "steps": [
+  "O sangue é colhido da veia ou do dedo",
+  "Garrote, antisséptico e uma picada rápida",
+  "O sangue enche o tubo, e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida"
+ ],
+ "after": [
+  "Aperte o algodão por alguns minutos",
+  "Quem explica o resultado é o médico. Os números sozinhos não são um diagnóstico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O que é VHS?",
+   "a": "É a velocidade com que as hemácias se depositam. Ela sobe com inflamação, mas pode estar alta mesmo sem doença. Quem avalia é o médico."
+  },
+  {
+   "q": "Preciso estar em jejum?",
+   "a": "É recomendável, mas não obrigatório. Depois de comida gordurosa, o resultado pode sair impreciso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem hemograma. De manhã é melhor não comer nada. Água pode."
+  }
+ ]
+}

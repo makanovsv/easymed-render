@@ -1,0 +1,66 @@
+{
+ "title": "Chest CT",
+ "also": [
+  "chest CT scan",
+  "lung CT",
+  "CT of the lungs",
+  "low-dose CT"
+ ],
+ "what": "A CT scan shows your lungs in thin slices, in much more detail than a regular x-ray. Usually no needle is needed.",
+ "why": "For pneumonia, a long-lasting cough, if something was found on an x-ray, and for early lung cancer screening in smokers.",
+ "duration": "usually 5 to 10 minutes in the room; the scan itself takes a few seconds",
+ "tell_doctor": [
+  "If you are or could be pregnant",
+  "If your CT is with contrast: any allergy to iodine or contrast, and any kidney disease",
+  "If it is hard for you to hold your breath or lie with your arms up"
+ ],
+ "prepare": [
+  {
+   "title": "Without contrast",
+   "text": "No prep needed. You can eat and drink."
+  },
+  {
+   "title": "With contrast",
+   "text": "You are usually asked not to eat for 3 to 4 hours. Water is fine. Sometimes you need a creatinine blood test. Check with your clinic."
+  },
+  {
+   "title": "Metal",
+   "text": "Take off necklaces, pendants, and underwire bras. Clothes with no metal on the chest are best."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past chest x-rays and CT scans, to compare",
+  "Your creatinine test result, if you were asked"
+ ],
+ "steps": [
+  "You lie on your back with your arms raised above your head",
+  "The table moves through a wide ring",
+  "When told, breathe in and hold your breath for a few seconds",
+  "If you have contrast, it goes into a vein and more pictures are taken"
+ ],
+ "feel": [
+  "It does not hurt. The machine makes noise",
+  "With contrast: a warm feeling and a metal taste. It passes in a minute"
+ ],
+ "after": [
+  "You can go back to your day straight away",
+  "After contrast, drink more water, unless your doctor said otherwise",
+  "The report is usually ready in a few hours or 1 to 2 days"
+ ],
+ "red_flags": [
+  "If breathing is very hard or your lips turn blue, do not wait for your appointment. Call emergency services",
+  "After contrast: itching, a rash, a swollen face, or trouble breathing. Tell the staff or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why is a chest CT better than an x-ray?",
+   "a": "A CT shows the lungs in slices and can find small spots that an x-ray misses."
+  },
+  {
+   "q": "What is a low-dose lung CT?",
+   "a": "It is a CT with a lower dose, used to check smokers for lung cancer. Your doctor orders it based on your age and how long you have smoked."
+  }
+ ],
+ "reminders": []
+}

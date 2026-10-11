@@ -1,0 +1,66 @@
+{
+ "title": "Holter",
+ "also": [
+  "Holter de 24 horas",
+  "monitoreo Holter",
+  "electrocardiograma de 24 horas"
+ ],
+ "what": "Un aparato pequeño en la cintura registra tu electrocardiograma durante un día completo, a veces 2 o 3 días, mientras haces tu vida normal.",
+ "why": "Por latidos irregulares, ataques de palpitaciones o desmayos. Sirve para captar lo que no se ve en un electrocardiograma corto.",
+ "duration": "ponerlo toma de 10 a 15 minutos; normalmente se usa 24 horas",
+ "tell_doctor": [
+  "Qué medicamentos para el corazón tomas",
+  "Si tienes marcapasos"
+ ],
+ "prepare": [
+  {
+   "title": "Baño",
+   "text": "Báñate antes. Con el aparato normalmente no te puedes bañar."
+  },
+  {
+   "title": "Piel",
+   "text": "Sin crema en el pecho. A los hombres a veces les rasuran donde van los electrodos."
+  },
+  {
+   "title": "Ropa",
+   "text": "Holgada, de algodón, para que el aparato y los cables no estorben."
+  }
+ ],
+ "bring": [
+  "La orden médica"
+ ],
+ "steps": [
+  "Te pegan de 3 a 7 electrodos en el pecho y conectan los cables al aparato",
+  "Te cuelgan el aparato en la cintura o en el cuello",
+  "Durante un día haces tu vida normal: trabajas, caminas, subes escaleras",
+  "Anotas en un diario qué hiciste y a qué hora, cuándo te sentiste mal y cuándo tomaste medicamento",
+  "Al día siguiente te quitan el aparato en la clínica"
+ ],
+ "feel": [
+  "A veces los electrodos dan comezón",
+  "El aparato estorba un poco para dormir, pero te acostumbras rápido"
+ ],
+ "after": [
+  "La interpretación suele estar en 1 a 3 días",
+  "Los restos del pegamento se quitan con agua y jabón"
+ ],
+ "red_flags": [
+  "Desmayo o dolor fuerte en el pecho: llama a emergencias, aunque traigas puesto el aparato"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo bañar con el Holter?",
+   "a": "Normalmente no. El aparato y los electrodos no deben mojarse. Báñate antes de que te lo pongan."
+  },
+  {
+   "q": "¿Para qué sirve el diario?",
+   "a": "El médico compara el registro con lo que hiciste y cómo te sentiste. Sin el diario, la interpretación es menos precisa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Ya casi te ponen el Holter. Báñate ahora: durante un día no te podrás bañar."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Revisión del niño sano",
+ "also": [
+  "control del niño sano",
+  "chequeo con el pediatra",
+  "revisión antes de la guardería o la escuela"
+ ],
+ "what": "El pediatra revisa cómo crece y se desarrolla tu hijo. A veces se suman otros médicos, análisis y vacunas.",
+ "why": "Según el calendario por edad, sobre todo en el primer año de vida. También antes de la guardería, la escuela, un campamento o un deporte.",
+ "duration": "normalmente de 20 a 30 minutos con el pediatra; con otros médicos, más",
+ "tell_doctor": [
+  "Lo que te preocupa de su salud, sueño, alimentación o conducta",
+  "Alergias y reacciones a vacunas anteriores",
+  "Qué medicamentos y vitaminas le das",
+  "De qué se ha enfermado últimamente"
+ ],
+ "prepare": [
+  {
+   "title": "Cómo se siente",
+   "text": "Si tu hijo está enfermo, avisa a la clínica. Normalmente la revisión y la vacuna se cambian de fecha."
+  },
+  {
+   "title": "Análisis",
+   "text": "Si necesita análisis de orina o de sangre, pregunta en la clínica cómo juntar la orina y si debe ir en ayunas."
+  },
+  {
+   "title": "Ánimo",
+   "text": "Explícale con calma que el médico va a ver cómo está creciendo. No lo asustes con inyecciones."
+  }
+ ],
+ "bring": [
+  "Los documentos de tu hijo y su cartilla de vacunación",
+  "Las notas de revisiones y análisis anteriores",
+  "Pañal, cobija, biberón o un refrigerio",
+  "Su juguete favorito"
+ ],
+ "steps": [
+  "Lo pesan y lo miden; a los bebés también les miden la cabeza",
+  "El pediatra te pregunta por su sueño, su alimentación y su desarrollo",
+  "Escucha el corazón y los pulmones, revisa la garganta y la piel, y le toca la panza",
+  "Revisa el desarrollo según la edad: cómo sostiene la cabeza, camina o habla",
+  "El pediatra puede mandarlo con otros médicos o a hacerse análisis",
+  "Si le toca una vacuna según el calendario, el médico la platicará contigo"
+ ],
+ "feel": [
+  "La revisión en sí no duele",
+  "El bebé puede llorar cuando lo desvisten. Es normal",
+  "Si le ponen una vacuna, un piquete breve"
+ ],
+ "after": [
+  "El médico te da recomendaciones y te dice cuándo es la próxima revisión",
+  "Anota las dudas que te surjan en casa para la siguiente consulta",
+  "Después de una vacuna, normalmente te piden quedarte en la clínica unos 30 minutos"
+ ],
+ "red_flags": [
+  "Justo después de la vacuna le cuesta respirar, se le hincha la cara o le salen ronchas en todo el cuerpo",
+  "Convulsiones, decaimiento, cuesta trabajo despertarlo",
+  "Fiebre alta en un bebé de menos de 3 meses: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cada cuánto debo llevar a mi hijo al pediatra si está bien?",
+   "a": "En el primer año, normalmente cada mes; después, con menos frecuencia, según el calendario de la clínica. Antes de la guardería y la escuela se necesita una revisión aparte."
+  },
+  {
+   "q": "¿Puedo ir a la revisión si mi hijo tiene catarro?",
+   "a": "Avisa a la clínica. A veces la revisión sí se puede hacer, pero la vacuna normalmente se pospone hasta que se recupere."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la revisión de tu hijo. Ten lista su cartilla de vacunación, sus documentos y su juguete favorito."
+  }
+ ]
+}

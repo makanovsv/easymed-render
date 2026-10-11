@@ -1,0 +1,67 @@
+{
+ "title": "Exame de HIV, hepatites B e C e sífilis",
+ "also": [
+  "teste de HIV",
+  "sorologia para hepatite",
+  "VDRL",
+  "exames pré-operatórios de infecção"
+ ],
+ "what": "Um exame de sangue da veia que procura sinais dessas infecções. Normalmente um tubo basta para as quatro.",
+ "why": "Antes de cirurgia, na gravidez, antes de doar sangue, em exames de rotina e depois de uma situação de risco.",
+ "duration": "a coleta leva de 3 a 5 minutos, o resultado sai normalmente em 1 a 5 dias",
+ "tell_doctor": [
+  "Se houve uma situação de risco, quando exatamente. Disso depende o prazo do exame",
+  "Se você está grávida",
+  "Se você já tratou alguma dessas infecções"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente é melhor em jejum ou de 4 a 6 horas depois de uma refeição leve. Confirme com o laboratório. Água pode beber."
+  },
+  {
+   "title": "Prazo depois do risco",
+   "text": "O exame pode não ver a infecção nas primeiras semanas. Normalmente se faz de 3 a 6 semanas depois e se repete em 3 meses. O prazo quem diz é o médico."
+  },
+  {
+   "title": "Sigilo",
+   "text": "O resultado é sigilo médico. Em muitos lugares, o teste de HIV pode ser feito de forma anônima e gratuita."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento, se o exame não for anônimo"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam o garrote e limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida"
+ ],
+ "after": [
+  "Aperte o algodão de 3 a 5 minutos",
+  "O resultado é dado pessoalmente ou pelo médico",
+  "Um primeiro teste positivo não é um diagnóstico: ele sempre é confirmado com outro exame"
+ ],
+ "red_flags": [
+  "Se o risco de pegar HIV foi há menos de 72 horas, procure logo um médico ou um serviço especializado em HIV: existem remédios que ajudam a não se infectar"
+ ],
+ "faq": [
+  {
+   "q": "Quanto tempo depois do risco devo fazer o teste de HIV?",
+   "a": "Os testes atuais normalmente detectam o HIV de 3 a 6 semanas depois. Para ter certeza, o exame é repetido em 3 meses."
+  },
+  {
+   "q": "Pode dar falso positivo?",
+   "a": "Pode, por exemplo na gravidez ou em outras doenças. Por isso todo resultado positivo é confirmado com um segundo exame."
+  },
+  {
+   "q": "Posso fazer o teste de HIV de forma anônima?",
+   "a": "Sim, em muitos postos e serviços especializados, de forma anônima e gratuita. Não precisa de documento."
+  }
+ ],
+ "reminders": []
+}

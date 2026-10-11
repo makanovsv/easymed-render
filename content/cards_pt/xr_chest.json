@@ -1,0 +1,61 @@
+{
+ "title": "Raio-X do tórax",
+ "also": [
+  "raio-X do pulmão",
+  "raio-X de tórax",
+  "radiografia do tórax"
+ ],
+ "what": "Uma imagem dos pulmões e do coração feita com raios X. A dose de radiação é pequena.",
+ "why": "Em tosse, febre, falta de ar, suspeita de pneumonia e antes de cirurgia.",
+ "duration": "normalmente de 5 a 10 minutos",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se você fez raio-X ou tomografia há pouco tempo: leve as imagens"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa de nada especial. Pode comer e beber."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire correntes, pingentes e piercings do peito. Prenda o cabelo comprido."
+  },
+  {
+   "title": "Roupa",
+   "text": "Vão pedir para tirar a roupa da cintura para cima. É mais prático usar roupa sem peças de metal."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Imagens anteriores, para comparar"
+ ],
+ "steps": [
+  "Você tira a roupa da cintura para cima e fica com o peito encostado no aparelho",
+  "As mãos ficam na cintura, e os ombros vão para a frente",
+  "Quando pedirem, você puxa o ar e não respira por alguns segundos",
+  "Às vezes fazem uma segunda imagem, de lado"
+ ],
+ "feel": [
+  "Nada. A imagem em si não se sente",
+  "A placa pode estar fria"
+ ],
+ "after": [
+  "Você já pode voltar às suas atividades",
+  "O laudo sai normalmente no mesmo dia ou no dia seguinte"
+ ],
+ "red_flags": [
+  "Se estiver muito difícil respirar, os lábios ficarem roxos ou houver dor forte no peito, não espere o exame: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O raio-X do pulmão faz mal?",
+   "a": "A dose é pequena, mais ou menos como a radiação natural de alguns dias. Se a imagem é necessária, o benefício é maior que o risco."
+  },
+  {
+   "q": "Qual a diferença entre este raio-X e o raio-X de rotina do pulmão?",
+   "a": "Este raio-X é mais nítido e é feito quando há queixas. O de rotina é uma checagem rápida em exames periódicos."
+  }
+ ],
+ "reminders": []
+}

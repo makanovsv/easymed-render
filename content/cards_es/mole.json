@@ -1,0 +1,62 @@
+{
+ "title": "Retiro de un lunar",
+ "also": [
+  "quitar un lunar",
+  "extirpación de lunar",
+  "retiro de nevo"
+ ],
+ "what": "El lunar se quita con bisturí, láser o radiofrecuencia, con anestesia local. Casi siempre el tejido se manda a estudio de patología.",
+ "why": "Si el lunar cambia, estorba, se lastima o le parece sospechoso al dermatólogo.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes alergia a los anestésicos",
+  "Si te salen cicatrices queloides",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Antes del retiro",
+   "text": "Primero el dermatólogo revisa el lunar con un dermatoscopio y decide cómo quitarlo."
+  },
+  {
+   "title": "Piel",
+   "text": "No te asolees 2 semanas antes ni 2 semanas después. El día del procedimiento no te pongas crema en esa zona."
+  }
+ ],
+ "bring": [
+  "La orden médica o la nota del dermatólogo"
+ ],
+ "steps": [
+  "Limpian la piel con antiséptico",
+  "Te ponen una inyección de anestesia y la zona se adormece",
+  "El médico quita el lunar con un pequeño margen de piel sana",
+  "Si hubo corte, ponen unos puntos",
+  "Encima ponen una gasa o una curita",
+  "El tejido se manda a estudio de patología"
+ ],
+ "feel": [
+  "La inyección de anestesia arde un par de segundos. Después solo sientes que te tocan"
+ ],
+ "after": [
+  "Mantén la zona seca y limpia, como te indique el médico",
+  "Los puntos normalmente se quitan en 7 a 14 días",
+  "El resultado de patología tarda de 1 a 2 semanas",
+  "No te asolees y protege la zona del sol durante varios meses"
+ ],
+ "red_flags": [
+  "Sangrado que no se detiene al presionar",
+  "Enrojecimiento, hinchazón, pus o fiebre. Son señales de infección"
+ ],
+ "faq": [
+  {
+   "q": "¿Con láser o con bisturí?",
+   "a": "Si hay la menor duda, con bisturí: el tejido queda completo para patología. Lo decide el médico después de revisarte."
+  },
+  {
+   "q": "¿Me va a quedar cicatriz?",
+   "a": "Casi siempre queda una pequeña marca. Con el tiempo, normalmente se aclara."
+  }
+ ],
+ "reminders": []
+}

@@ -1,0 +1,68 @@
+{
+ "title": "Medición de la presión del ojo",
+ "also": [
+  "tonometría",
+  "presión intraocular",
+  "prueba de glaucoma"
+ ],
+ "what": "El médico mide la presión del líquido dentro del ojo. Es rápido y normalmente no duele.",
+ "why": "Para detectar a tiempo el glaucoma. Normalmente después de los 40 años, si hay glaucoma en la familia, antes de tratamientos con algunos medicamentos y para vigilar un tratamiento que ya empezó.",
+ "duration": "normalmente de 5 a 10 minutos",
+ "tell_doctor": [
+  "Si usas lentes de contacto",
+  "Si tienes glaucoma y qué gotas usas",
+  "Si te han operado los ojos, incluida la cirugía láser para ver mejor",
+  "Si tomas medicamentos con corticoides u otras hormonas",
+  "Si tienes alergia a gotas para los ojos"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes de contacto",
+   "text": "Antes de la medición hay que quitarse los lentes de contacto. Lleva el estuche y la solución."
+  },
+  {
+   "title": "Gotas",
+   "text": "Si usas gotas para el glaucoma, no las suspendas por tu cuenta. Pregúntale al médico si debes ponértelas el día de la medición."
+  },
+  {
+   "title": "Ojos",
+   "text": "Mejor llega sin maquillaje en los ojos."
+  }
+ ],
+ "bring": [
+  "Tus lentes y el estuche de los lentes de contacto",
+  "Las gotas que usas, o sus nombres",
+  "Resultados de mediciones anteriores"
+ ],
+ "steps": [
+  "Te sientas frente al aparato y apoyas la barbilla en el soporte",
+  "Sin contacto: el aparato manda un soplo breve de aire al ojo",
+  "Con contacto: primero te ponen gotas para que no duela",
+  "Luego el aparato toca la superficie del ojo por un segundo",
+  "Miden los dos ojos, a veces varias veces"
+ ],
+ "feel": [
+  "El soplo de aire es un golpecito ligero y sorpresivo. No duele",
+  "Con contacto, las gotas arden un poco y casi no sientes el toque"
+ ],
+ "after": [
+  "Normalmente te dicen el resultado en ese momento",
+  "Después de las gotas para el dolor, no te talles los ojos de 15 a 20 minutos",
+  "Los lentes de contacto se pueden poner normalmente después de 15 a 30 minutos. Pregúntale al médico",
+  "Si la presión está alta, el médico te pedirá más estudios"
+ ],
+ "red_flags": [
+  "Dolor fuerte y repentino en un ojo, ojo rojo, visión borrosa con aros de colores alrededor de las luces, dolor de cabeza y náuseas: ve al médico de urgencia o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele medir la presión del ojo?",
+   "a": "No. El soplo de aire solo te toma por sorpresa. Con contacto, antes te ponen gotas para que no duela."
+  },
+  {
+   "q": "¿Puedo darme cuenta yo mismo si tengo la presión del ojo alta?",
+   "a": "Casi nunca: el glaucoma no da molestias por mucho tiempo. Por eso después de los 40 años normalmente se recomienda revisarla con regularidad."
+  }
+ ],
+ "reminders": []
+}

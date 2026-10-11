@@ -1,0 +1,65 @@
+{
+ "title": "Tamizaje del primer trimestre del embarazo",
+ "also": [
+  "ultrasonido del primer trimestre",
+  "ultrasonido de las 12 semanas",
+  "tamizaje de las 11 a 14 semanas"
+ ],
+ "what": "Es un ultrasonido del bebé entre las semanas 11 y 13, más un análisis de sangre de la mamá. Juntos revisan el desarrollo del bebé y el riesgo de algunas alteraciones cromosómicas.",
+ "why": "Se ofrece a todas las embarazadas entre las semanas 11 y 13.",
+ "duration": "el ultrasonido dura normalmente de 20 a 30 minutos, más el análisis de sangre",
+ "tell_doctor": [
+  "La fecha exacta de tu última menstruación",
+  "Si el embarazo es por fertilización in vitro",
+  "Si son gemelos",
+  "Tus enfermedades crónicas y tus medicamentos"
+ ],
+ "prepare": [
+  {
+   "title": "Fechas",
+   "text": "Solo entre la semana 11 y la semana 13 con 6 días. Después, este tamizaje ya no se hace."
+  },
+  {
+   "title": "Vejiga",
+   "text": "Pregunta en tu clínica: a veces piden llegar con la vejiga llena, y a veces lo contrario."
+  },
+  {
+   "title": "Sangre",
+   "text": "El análisis de sangre normalmente se hace el mismo día o 1 o 2 días antes del ultrasonido, según las reglas del laboratorio."
+  }
+ ],
+ "bring": [
+  "Tu carnet de control prenatal o la orden médica",
+  "Los resultados de ultrasonidos anteriores"
+ ],
+ "steps": [
+  "Te acuestas boca arriba y descubres el abdomen",
+  "El médico pone gel y ve al bebé a través del abdomen",
+  "Miden su tamaño, el latido del corazón y el grosor de la nuca, llamado translucencia nucal",
+  "A veces, para más precisión, revisan con un transductor vaginal",
+  "Te sacan sangre de la vena, si todavía no lo hiciste"
+ ],
+ "feel": [
+  "No duele. Sientes la presión del transductor",
+  "Puedes ver al bebé en la pantalla y oír su corazón"
+ ],
+ "after": [
+  "Un programa calcula los riesgos con el ultrasonido y el análisis. El resultado está en unos días",
+  "Un riesgo alto no es un diagnóstico. El médico te explicará qué estudios hacen falta para confirmar"
+ ],
+ "red_flags": [
+  "Sangrado o dolor en la parte baja del abdomen: ve al médico, no esperes al tamizaje"
+ ],
+ "faq": [
+  {
+   "q": "¿El ultrasonido le hace daño al bebé?",
+   "a": "No. El ultrasonido se usa desde hace mucho en el embarazo y no tiene radiación."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu tamizaje del primer trimestre. Pregunta si debes llegar con la vejiga llena y lleva tu carnet prenatal."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "title": "Brain MRI",
+ "also": [
+  "head MRI",
+  "MRI of the brain",
+  "brain scan",
+  "MRI head scan"
+ ],
+ "what": "Pictures of the brain taken in a magnetic field. There is no X-ray radiation. Sometimes contrast is given into a vein.",
+ "why": "For frequent headaches, dizziness, seizures, memory or vision problems, after a head injury, and to follow a known condition.",
+ "duration": "usually 20 to 40 minutes, longer with contrast",
+ "tell_doctor": [
+  "A pacemaker, defibrillator, or other electronic implant",
+  "Metal in your body: joint replacements, plates, clips on blood vessels, or metal fragments",
+  "A hearing implant or an insulin pump",
+  "If you are pregnant",
+  "If you are afraid of closed spaces",
+  "If contrast is planned: kidney disease or allergy to contrast"
+ ],
+ "prepare": [
+  {
+   "title": "Metal",
+   "text": "At home, take off jewelry, piercings, and your watch. No metal is allowed in the scan room."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear comfortable clothes with no metal: no zips, snaps, or underwire. You are often given a disposable gown."
+  },
+  {
+   "title": "Makeup",
+   "text": "Do not wear mascara or glittery eye shadow. They can contain tiny bits of metal."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no special prep is needed. If contrast is planned, ask the clinic if you should not eat for 2 to 4 hours."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past MRI or CT scans and reports",
+  "Documents for any implants you have"
+ ],
+ "steps": [
+  "You leave your phone, keys, cards, and anything metal in a locker",
+  "You lie on the scanner table and get headphones or earplugs. The machine is noisy",
+  "Your head is placed in a coil. It looks like a helmet with a window",
+  "The table slides into the scanner tunnel",
+  "Lie still. The staff can talk to you over a speaker",
+  "You hold a call button. You can press it at any time",
+  "If contrast is needed, it is given into a vein during the scan"
+ ],
+ "feel": [
+  "Loud knocking and humming. This is normal",
+  "Sometimes slight warmth in the part of the body being scanned",
+  "If contrast is given, a cool feeling in the vein. It passes quickly"
+ ],
+ "after": [
+  "You can go back to your day straight away",
+  "The report is usually ready the same day or in 1 to 2 days",
+  "If you had contrast, drink more water that day, unless your doctor said not to"
+ ],
+ "red_flags": [
+  "After contrast: a rash, a swollen face, or trouble breathing. Tell the staff right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I have an MRI if I have metal in my body?",
+   "a": "Often yes, but the doctor decides. Tell them about any implant in advance and bring its documents."
+  },
+  {
+   "q": "What if I am afraid of closed spaces?",
+   "a": "Say so when you book. An open scanner, an eye mask, or music can help. Sometimes the doctor gives a calming medicine."
+  },
+  {
+   "q": "Is an MRI harmful?",
+   "a": "There is no radiation. For most people, MRI is safe. The key is to tell the doctor honestly about any metal and implants."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "MRI tomorrow. Take off jewelry and piercings at home and wear clothes with no metal. Bring past scans and implant documents."
+  }
+ ]
+}

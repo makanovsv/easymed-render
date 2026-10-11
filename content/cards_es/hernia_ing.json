@@ -1,0 +1,81 @@
+{
+ "title": "Cirugía de hernia inguinal",
+ "also": [
+  "hernioplastia",
+  "operación de hernia",
+  "quitar la hernia inguinal"
+ ],
+ "what": "El cirujano regresa el bulto a su lugar y refuerza la pared del abdomen, normalmente con una malla especial. Se hace con un corte en la ingle o con pequeñas incisiones.",
+ "why": "Por una hernia inguinal: un bulto en la ingle que molesta, duele o crece.",
+ "duration": "la cirugía suele durar de 30 a 90 minutos; muchas veces te vas a casa el mismo día o al día siguiente",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico decide cuál suspender y cuándo",
+  "Tus alergias",
+  "Si tienes enfermedades del corazón o de los pulmones, o diabetes",
+  "Si ya te operaron de una hernia",
+  "Si has tenido problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces una consulta con el médico general. La clínica te dará la lista."
+  },
+  {
+   "title": "Anestesia",
+   "text": "La cirugía se hace con anestesia general, con una inyección en la espalda o con anestesia local. Los médicos deciden cuál te conviene."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no tomas líquidos unas horas antes. La hora exacta te la dice la clínica."
+  },
+  {
+   "title": "Piel",
+   "text": "Báñate. Normalmente no hace falta rasurar la ingle antes. Pregunta en tu clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de tus análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Ropa interior y ropa cómoda y holgada"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "El anestesiólogo te pone la anestesia",
+  "El cirujano regresa la hernia a su lugar por el corte o las incisiones",
+  "Refuerzan la pared con una malla y cierran el corte con puntos",
+  "Después de la cirugía descansas en tu cuarto"
+ ],
+ "feel": [
+  "Dolor y una sensación de jalón en la ingle. Te dan medicamento para el dolor",
+  "Un pequeño moretón o hinchazón en la ingle. Se quita solo",
+  "Los primeros días es incómodo levantarse y toser"
+ ],
+ "after": [
+  "Normalmente puedes caminar el mismo día de la cirugía",
+  "No cargues cosas pesadas, normalmente de 2 a 4 semanas. El cirujano te dirá exactamente",
+  "Cuando tosas, sostén la herida con la mano",
+  "Los puntos se quitan o se absorben solos. El cirujano te dirá"
+ ],
+ "red_flags": [
+  "Antes de la cirugía: si la hernia no se mete, se pone dura y duele, o tienes vómito, llama a emergencias",
+  "Después: fiebre de más de 38 grados, enrojecimiento o pus en la herida",
+  "Hinchazón fuerte en la ingle o dificultad para orinar"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede curar la hernia inguinal sin cirugía?",
+   "a": "No. La faja solo la sostiene, pero no la quita. Solo la cirugía puede quitarla."
+  },
+  {
+   "q": "¿Qué tan peligrosa es la hernia inguinal?",
+   "a": "Se puede estrangular, y eso es una urgencia. Si la hernia no se mete y duele, llama a emergencias."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Junta tus documentos, tus análisis y la lista de tus medicamentos. Come y toma líquidos solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

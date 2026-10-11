@@ -1,0 +1,89 @@
+{
+ "title": "Check-up completo",
+ "also": [
+  "check-up",
+  "exames de rotina",
+  "check-up anual",
+  "avaliação de saúde"
+ ],
+ "what": "Um conjunto de exames e consultas médicas em uma ou mais visitas. Ajuda a achar problemas antes que eles incomodem.",
+ "why": "Para prevenção, normalmente uma vez por ano. O programa é escolhido pela idade, pelo sexo e pela história da família.",
+ "duration": "normalmente de 2 a 4 horas, às vezes em vários dias",
+ "tell_doctor": [
+  "O que incomoda você, mesmo que pareça pouca coisa",
+  "Quais remédios e suplementos você toma",
+  "Doenças dos seus pais e irmãos",
+  "Se você pode estar grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Jejum",
+   "text": "Normalmente de 8 a 12 horas sem comer antes do exame de sangue. Água pura sem gás pode beber."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Um jantar leve. Sem álcool por 1 a 2 dias, sem treino pesado e sem sauna."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Pergunte na clínica se toma os remédios da manhã antes ou depois de colher o sangue."
+  },
+  {
+   "title": "Exame de urina",
+   "text": "Colha a primeira urina da manhã em um frasco estéril de farmácia."
+  },
+  {
+   "title": "Para mulheres",
+   "text": "Se for colher material ginecológico, é melhor não estar menstruada. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Frasco com a primeira urina da manhã",
+  "Exames e laudos anteriores",
+  "Lista de remédios",
+  "Um lanche e água, para comer depois de colher o sangue"
+ ],
+ "steps": [
+  "De manhã, em jejum, colhem o sangue",
+  "Fazem os exames que precisam de jejum, como o ultrassom da barriga",
+  "Depois você pode fazer um lanche",
+  "Em seguida, eletrocardiograma e outros exames do programa",
+  "Consultas com os médicos",
+  "No final, o médico conversa sobre os resultados e dá as orientações"
+ ],
+ "feel": [
+  "A picada para tirar sangue é rápida",
+  "O resto normalmente não incomoda, mas o dia pode ser cansativo"
+ ],
+ "after": [
+  "Parte dos resultados sai no mesmo dia, o resto em alguns dias",
+  "Se acharem algo, o médico diz o que fazer em seguida",
+  "Guarde os resultados. Eles ajudam a comparar no ano seguinte"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Com que frequência devo fazer check-up?",
+   "a": "Normalmente uma vez por ano. Se você tem doenças crônicas, o médico pode indicar outro intervalo."
+  },
+  {
+   "q": "Posso beber água antes dos exames?",
+   "a": "Sim, água pura sem gás pode. Chá, café, suco e chiclete não."
+  },
+  {
+   "q": "Para que check-up, se nada dói?",
+   "a": "Muitas doenças passam muito tempo sem sintomas: pressão, açúcar, colesterol. O check-up acha cedo, quando é mais fácil tratar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 36,
+   "text": "Depois de amanhã de manhã você tem check-up. A partir de hoje, sem álcool e sem treino pesado."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem check-up. Depois de um jantar leve, não coma mais. Água sem gás pode. Separe o frasco para a urina."
+  }
+ ]
+}

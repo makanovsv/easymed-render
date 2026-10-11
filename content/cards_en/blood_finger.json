@@ -1,0 +1,66 @@
+{
+ "title": "Finger-prick blood test",
+ "also": [
+  "finger prick",
+  "finger stick",
+  "capillary blood test"
+ ],
+ "what": "A nurse makes a tiny prick on your fingertip and collects a few drops of blood. This is used for simple tests that need only a little blood.",
+ "why": "For a complete blood count, blood sugar, in children, and when blood is hard to take from a vein.",
+ "duration": "usually 2 to 3 minutes",
+ "tell_doctor": [
+  "If you take blood thinners",
+  "If you ever felt unwell during a blood test",
+  "If you have diabetes and are having your sugar tested"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "For blood sugar and many other tests, fast for 8 to 12 hours. Water is fine. Check with the lab."
+  },
+  {
+   "title": "Hands",
+   "text": "Come with warm hands. If they are cold, hold them under warm water. The blood will flow more easily."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. If you take medicines in the morning, ask your doctor whether to take them before or after the test."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit down and rest your hand on the table",
+  "Your finger is cleaned with antiseptic",
+  "A quick prick on the side of the fingertip with a single-use lancet",
+  "The first drop is wiped away, and the next drops go into a tube",
+  "A cotton pad is pressed on your finger"
+ ],
+ "feel": [
+  "A quick, sharp prick",
+  "Your finger may ache a little for a couple of hours"
+ ],
+ "after": [
+  "Keep the cotton pad pressed for 2 to 3 minutes",
+  "Results usually come the same day or the next. The lab will tell you when"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Which is more accurate, blood from a finger or a vein?",
+   "a": "For most tests, blood from a vein is more accurate. Finger-prick blood is used for simple tests, and it is enough for them."
+  },
+  {
+   "q": "Which finger do they prick?",
+   "a": "Usually the ring or middle finger of the hand you use less. In small children, sometimes the heel."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Finger-prick blood test tomorrow. If you need to fast, do not eat after dinner. Water is fine."
+  }
+ ]
+}

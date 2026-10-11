@@ -1,0 +1,80 @@
+{
+ "title": "Ultrassom pélvico",
+ "also": [
+  "ultrassom pélvico",
+  "ultrassom transvaginal",
+  "ultrassom do útero e ovários",
+  "ultrassom ginecológico"
+ ],
+ "what": "O médico examina o útero e os ovários com ultrassom. O aparelho fica sobre a barriga ou é colocado na vagina. É seguro, sem radiação.",
+ "why": "Em dor no pé da barriga, ciclo irregular, quando você planeja engravidar e em exames de rotina.",
+ "duration": "normalmente de 15 a 20 minutos",
+ "tell_doctor": [
+  "O primeiro dia da última menstruação",
+  "Se você nunca teve relação sexual: o aparelho não é colocado na vagina",
+  "Se você pode estar grávida",
+  "Se você usa DIU ou fez cirurgias"
+ ],
+ "prepare": [
+  {
+   "title": "Dia do ciclo",
+   "text": "Normalmente entre o 5º e o 7º dia do ciclo, se o médico não indicou outro dia. Às vezes é preciso ir na segunda metade do ciclo."
+  },
+  {
+   "title": "Pela barriga",
+   "text": "É preciso estar com a bexiga cheia: normalmente beber um litro de água uma hora antes e não urinar."
+  },
+  {
+   "title": "Pela vagina",
+   "text": "Ao contrário, a bexiga é esvaziada antes do ultrassom. Confirme com a clínica qual é o seu caso."
+  },
+  {
+   "title": "Higiene",
+   "text": "Um banho normal. Você pode levar um absorvente."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos de ultrassons anteriores",
+  "Um lençol e lenços, se a clínica não tiver"
+ ],
+ "steps": [
+  "Você tira a roupa da cintura para baixo e deita na maca",
+  "Pela barriga: passam o gel no pé da barriga e deslizam o aparelho",
+  "Pela vagina: colocam uma capa descartável com gel num aparelho fino e introduzem com cuidado",
+  "O médico examina o útero e os ovários de vários ângulos"
+ ],
+ "feel": [
+  "Pela barriga: pressão sobre a bexiga cheia, pode incomodar",
+  "Pela vagina: normalmente não dói, é parecido com a consulta ginecológica",
+  "Se incomodar, avise o médico"
+ ],
+ "after": [
+  "Você já pode voltar às suas atividades",
+  "Pode sair um pouco de gel",
+  "O laudo normalmente é dado na hora"
+ ],
+ "red_flags": [
+  "Dor forte no pé da barriga, sangramento forte, fraqueza ou desmaio: não espere o exame, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Em que dia do ciclo fazer o ultrassom pélvico?",
+   "a": "Normalmente entre o 5º e o 7º dia. Mas, se o médico procura algo específico, pode indicar outro dia."
+  },
+  {
+   "q": "Posso fazer o ultrassom menstruada?",
+   "a": "Às vezes sim, se o médico indicar. Para o exame de rotina, é melhor depois que a menstruação acaba."
+  },
+  {
+   "q": "Virgem faz ultrassom transvaginal?",
+   "a": "Não. O exame é feito pela barriga, com a bexiga cheia, ou de outro jeito que o médico sugerir."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "O ultrassom pélvico é daqui a pouco. Se for pela barriga, beba um litro de água uma hora antes e não vá ao banheiro."
+  }
+ ]
+}

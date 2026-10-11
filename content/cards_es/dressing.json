@@ -1,0 +1,67 @@
+{
+ "title": "Curación de herida",
+ "also": [
+  "cambio de vendaje",
+  "curación",
+  "curación después de la cirugía"
+ ],
+ "what": "La enfermera o el médico quita el vendaje viejo, limpia la herida y pone uno nuevo. Así la herida sana más limpia y más rápido.",
+ "why": "Después de una cirugía, por cortadas, quemaduras, raspones, puntos y otras heridas.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Si tienes alergia a antisépticos, al yodo o a la cinta adhesiva",
+  "Si tienes diabetes: las heridas tardan más en sanar",
+  "Si la herida duele más o empezó a salirle líquido",
+  "Si tomas medicamentos que hacen la sangre más líquida"
+ ],
+ "prepare": [
+  {
+   "title": "Vendaje",
+   "text": "No te quites el vendaje tú solo si el médico no te lo permitió. Mantenlo seco."
+  },
+  {
+   "title": "Dolor",
+   "text": "Si la curación suele dolerte, pregúntale antes al médico por algo para el dolor."
+  },
+  {
+   "title": "Ropa",
+   "text": "Holgada, para descubrir fácilmente la herida."
+  }
+ ],
+ "bring": [
+  "El resumen de alta o las indicaciones del médico",
+  "El material de curación, si te pidieron traer el tuyo"
+ ],
+ "steps": [
+  "Te sientas o te acuestas de forma que se pueda llegar bien a la herida",
+  "Quitan el vendaje viejo con cuidado; si está pegado, lo mojan con una solución",
+  "El médico o la enfermera revisa la herida",
+  "Limpian la herida y la piel de alrededor con antiséptico",
+  "Ponen un vendaje nuevo estéril y lo sujetan"
+ ],
+ "feel": [
+  "El antiséptico puede arder un poco",
+  "Quitar un vendaje pegado puede molestar. Avisa si te duele"
+ ],
+ "after": [
+  "Mantén el vendaje seco y limpio",
+  "La siguiente curación depende de cómo esté la herida. Muchas veces es en 1 a 3 días",
+  "Antes de bañarte, pregunta si puedes mojar el vendaje"
+ ],
+ "red_flags": [
+  "El vendaje se empapa de sangre rápido",
+  "La herida está roja, hinchada, caliente, tiene pus o huele mal",
+  "Fiebre de más de 38 grados"
+ ],
+ "faq": [
+  {
+   "q": "¿Cada cuánto hay que hacer la curación?",
+   "a": "Depende: desde diario hasta cada varios días. El médico te lo dirá cuando vea la herida."
+  },
+  {
+   "q": "¿Puedo hacer la curación en casa?",
+   "a": "Los vendajes sencillos muchas veces se cambian en casa, después de que el médico te explique cómo. Las heridas complicadas es mejor curarlas en la clínica."
+  }
+ ],
+ "reminders": []
+}

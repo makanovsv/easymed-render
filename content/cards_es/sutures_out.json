@@ -1,0 +1,64 @@
+{
+ "title": "Quitar los puntos",
+ "also": [
+  "retiro de puntos",
+  "quitar puntos de sutura",
+  "quitar grapas"
+ ],
+ "what": "El médico o la enfermera corta y saca los hilos o las grapas con que cerraron la herida. Normalmente es rápido y casi no duele.",
+ "why": "Cuando la herida ya sanó lo suficiente. Casi siempre de 5 a 14 días después, según la zona y el tipo de punto.",
+ "duration": "normalmente de 5 a 15 minutos",
+ "tell_doctor": [
+  "Si la herida está roja, duele o le sale algo",
+  "Diabetes o si tomas hormonas. La herida puede tardar más en sanar"
+ ],
+ "prepare": [
+  {
+   "title": "Fecha",
+   "text": "Ve el día que te dijo el médico. No se deben quitar antes: la herida se puede abrir."
+  },
+  {
+   "title": "Ropa",
+   "text": "Cómoda, para descubrir fácilmente la zona de los puntos."
+  }
+ ],
+ "bring": [
+  "El resumen de alta del hospital o la orden médica"
+ ],
+ "steps": [
+  "Quitan el vendaje y revisan la herida",
+  "Limpian la piel con antiséptico",
+  "Con una pinza levantan el nudo y cortan el hilo con tijeras",
+  "Jalan el hilo, uno por cada punto",
+  "Las grapas se quitan con un instrumento especial",
+  "Limpian la zona y, si hace falta, ponen una curita"
+ ],
+ "feel": [
+  "Un ligero jalón o pellizco cuando sale el hilo",
+  "Normalmente no duele"
+ ],
+ "after": [
+  "Normalmente puedes mojar la zona 1 o 2 días después de quitar los puntos. Confírmalo con el médico",
+  "No talles la zona con estropajo ni tomes el sol por varios meses. Así la cicatriz quedará más clara",
+  "La cicatriz se ve roja y poco a poco se aclara con los meses"
+ ],
+ "red_flags": [
+  "La herida se abrió",
+  "Enrojecimiento, hinchazón, pus o fiebre"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele que te quiten los puntos?",
+   "a": "Normalmente no: se siente un ligero jalón. Por lo general no hace falta anestesia."
+  },
+  {
+   "q": "¿Me puedo quitar los puntos yo solo?",
+   "a": "Mejor no. Hay riesgo de infección y de que quede un pedazo de hilo en la piel. Eso lo hace el médico o la enfermera."
+  },
+  {
+   "q": "¿Cuántos días después se quitan los puntos?",
+   "a": "Normalmente en la cara de 5 a 7 días, y en el cuerpo, brazos y piernas de 7 a 14. La fecha exacta te la dirá el médico."
+  }
+ ],
+ "reminders": []
+}

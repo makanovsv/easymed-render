@@ -1,0 +1,71 @@
+{
+ "title": "Consulta con el urólogo",
+ "also": [
+  "urólogo",
+  "consulta de urología",
+  "revisión de próstata"
+ ],
+ "what": "El médico te pregunta por tus molestias, revisa los órganos urinarios y genitales y, si hace falta, te pide análisis y ultrasonido.",
+ "why": "Si orinas seguido o con dolor, hay sangre en la orina, dolor en la espalda baja o en la ingle, o problemas de erección. En hombres de más de 45 a 50 años, como prevención.",
+ "duration": "normalmente de 20 a 30 minutos",
+ "tell_doctor": [
+  "Qué medicamentos tomas, sobre todo los que hacen la sangre más líquida",
+  "Si tuviste piedras, cirugías o infecciones",
+  "Cuántas veces orinas en el día y en la noche",
+  "Los resultados del antígeno prostático, si te lo hiciste"
+ ],
+ "prepare": [
+  {
+   "title": "Higiene",
+   "text": "Un baño normal la noche anterior o en la mañana."
+  },
+  {
+   "title": "Vejiga",
+   "text": "Si te harán ultrasonido de vejiga o examen de orina, llega con la vejiga medio llena. Pregunta en tu clínica."
+  },
+  {
+   "title": "Antígeno prostático",
+   "text": "Si te van a hacer el antígeno prostático, la sangre normalmente se saca antes de revisar la próstata. 2 días antes, sin eyacular ni andar en bicicleta."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Análisis recientes de orina y sangre, y el antígeno prostático",
+  "Resultados de ultrasonido y resúmenes médicos anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta por tus molestias",
+  "Revisa y palpa el abdomen, la espalda baja y los genitales",
+  "En los hombres, normalmente revisan la próstata con el dedo por el recto",
+  "A las mujeres las revisan en la mesa, parecido a la revisión ginecológica",
+  "A veces hacen un ultrasonido ahí mismo",
+  "El médico explica qué análisis y estudios necesitas"
+ ],
+ "feel": [
+  "La revisión de próstata es una presión incómoda por unos segundos, pero normalmente no duele",
+  "Pueden darte ganas de orinar. Es normal",
+  "Respirar tranquilo y parejo te ayuda a relajarte"
+ ],
+ "after": [
+  "Puedes volver a tus actividades de inmediato",
+  "Los resultados de los análisis suelen estar en 1 a 3 días"
+ ],
+ "red_flags": [
+  "No puedes orinar y sientes el abdomen muy lleno",
+  "Fiebre con escalofríos y dolor en la espalda baja",
+  "Orina con sangre y coágulos",
+  "Dolor fuerte y repentino en un testículo: llama a emergencias de inmediato, cada hora cuenta"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele la revisión de próstata?",
+   "a": "Normalmente no. Es una presión incómoda por unos segundos. La revisión es sencilla, pero muy útil."
+  },
+  {
+   "q": "¿Tengo que ir al urólogo si no me duele nada?",
+   "a": "A los hombres de más de 45 a 50 años normalmente se les recomienda una revisión al año: muchas enfermedades de la próstata no dan síntomas por mucho tiempo."
+  }
+ ],
+ "reminders": []
+}

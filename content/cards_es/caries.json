@@ -1,0 +1,64 @@
+{
+ "title": "Tratamiento de caries",
+ "also": [
+  "resina dental",
+  "tapar una muela",
+  "arreglar un diente"
+ ],
+ "what": "El dentista quita la parte dañada del diente y rellena el hueco con una resina. Normalmente se hace con anestesia local.",
+ "why": "Cuando un diente tiene caries, es decir, daño en el esmalte y debajo. Se ve en la revisión o en una radiografía.",
+ "duration": "normalmente de 30 a 60 minutos por diente",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Enfermedades del corazón, presión alta o diabetes",
+  "Si tienes alergia a la anestesia o a algún medicamento",
+  "Si estás embarazada o das pecho"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Come de 1 a 2 horas antes de la cita. Con la boca dormida, comer será incómodo."
+  },
+  {
+   "title": "Dientes",
+   "text": "Lávate los dientes antes de la cita."
+  }
+ ],
+ "bring": [
+  "Radiografías de tus dientes, si te las tomaron"
+ ],
+ "steps": [
+  "El dentista revisa el diente y, si hace falta, toma una radiografía",
+  "Te inyecta anestesia. En unos minutos se duermen el diente y el labio",
+  "A veces aíslan el diente con una hoja delgada de hule para mantenerlo seco",
+  "Con la fresa quitan la parte dañada",
+  "Rellenan el hueco con resina, por capas, y la endurecen con una lámpara",
+  "Pulen la resina y revisan tu mordida"
+ ],
+ "feel": [
+  "El piquete es breve. Después el diente ya no duele",
+  "Ruido y vibración de la fresa, y presión en el diente",
+  "Si te duele, dile al dentista y te pondrá más anestesia"
+ ],
+ "after": [
+  "Mientras tengas el labio y el cachete dormidos, normalmente 2 a 3 horas, no comas. Te puedes morder",
+  "La resina endurecida con lámpara queda firme de inmediato. Con otros materiales, el dentista te dirá cuándo comer",
+  "Unos días el diente puede sentir el frío",
+  "Si la resina te estorba al morder, regresa para que la ajusten"
+ ],
+ "red_flags": [
+  "Hinchazón del cachete o de la encía, o fiebre",
+  "Dolor fuerte y punzante que no se quita y va en aumento"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo arreglar los dientes en el embarazo?",
+   "a": "Sí, normalmente sí, y no conviene dejar avanzar la caries. Dile al dentista de cuántas semanas estás. Él elegirá una anestesia segura."
+  },
+  {
+   "q": "¿Por qué me duele la muela después de la resina?",
+   "a": "Un poco de sensibilidad unos días es normal. Si el dolor es fuerte o aumenta, ve con el dentista."
+  }
+ ],
+ "reminders": []
+}

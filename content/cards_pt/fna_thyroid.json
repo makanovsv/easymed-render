@@ -1,0 +1,58 @@
+{
+ "title": "Punção da tireoide",
+ "also": [
+  "PAAF",
+  "punção aspirativa por agulha fina",
+  "punção de nódulo"
+ ],
+ "what": "Com uma agulha fina, guiada por ultrassom, tiram células de um nódulo da tireoide para saber se ele é benigno.",
+ "why": "Quando o ultrassom achou um nódulo de certo tamanho ou com sinais que preocupam.",
+ "duration": "normalmente de 15 a 20 minutos",
+ "tell_doctor": [
+  "Remédios que afinam o sangue: quem decide se para é o médico",
+  "Problemas de coagulação",
+  "Alergia a anestésicos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de preparo especial. Pode tomar um café da manhã leve."
+  },
+  {
+   "title": "Pescoço",
+   "text": "Sem gola alta e sem joias no pescoço."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudo do ultrassom com a descrição do nódulo",
+  "Exames de hormônios da tireoide, se tiver"
+ ],
+ "steps": [
+  "Você se deita de barriga para cima, com um rolo sob os ombros e a cabeça inclinada para trás",
+  "O médico localiza o nódulo no ultrassom e limpa a pele",
+  "Às vezes aplicam anestesia local",
+  "Com uma agulha fina, tiram células algumas vezes, alguns segundos de cada vez",
+  "Pedem para você não engolir nem falar na hora da picada",
+  "Colocam uma gaze no local e apertam"
+ ],
+ "feel": [
+  "É parecido com uma injeção comum",
+  "Pode haver sensação de pressão no pescoço"
+ ],
+ "after": [
+  "Aperte a gaze de 10 a 15 minutos",
+  "Um pequeno roxo ou dor leve é normal e passa em 1 a 2 dias",
+  "O resultado da citologia sai normalmente em 5 a 10 dias"
+ ],
+ "red_flags": [
+  "Inchaço no pescoço que cresce rápido, dificuldade para respirar ou engolir: ligue para a emergência na hora"
+ ],
+ "faq": [
+  {
+   "q": "A punção pode espalhar as células?",
+   "a": "Não, isso é mito. A punção é o jeito padrão e seguro de saber a natureza do nódulo."
+  }
+ ],
+ "reminders": []
+}

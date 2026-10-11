@@ -1,0 +1,57 @@
+{
+ "title": "ECG",
+ "also": [
+  "ECG",
+  "EKG",
+  "electrocardiogram",
+  "heart tracing"
+ ],
+ "what": "A recording of your heart's electrical activity. Small pads are stuck on your skin. No electricity goes into you. It is safe.",
+ "why": "For chest pain, skipped beats, shortness of breath, checkups, and before surgery.",
+ "duration": "usually 5 to 10 minutes",
+ "tell_doctor": [
+  "What heart medicines you take",
+  "If you have a pacemaker"
+ ],
+ "prepare": [
+  {
+   "title": "Preparation",
+   "text": "No special prep needed. Do not put lotion or oil on your chest. The pads stick less well."
+  },
+  {
+   "title": "Before the test",
+   "text": "Do not rush in. Sit for 5 minutes to let your pulse settle."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something comfortable. Your chest, wrists, and ankles need to be bare. Tights are best avoided."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past ECGs, to compare"
+ ],
+ "steps": [
+  "You lie on your back with your chest, wrists, and ankles bare",
+  "Gel or sticky pads called electrodes are put on your skin",
+  "Lie still and do not talk for about a minute",
+  "The machine prints the recording, and the pads are removed"
+ ],
+ "feel": [
+  "Nothing, except maybe the cool gel"
+ ],
+ "after": [
+  "You get the reading right away, or it goes to your doctor",
+  "You can go back to your day straight away"
+ ],
+ "red_flags": [
+  "If you have chest pain right now, do not wait for the test. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Will an ECG give me an electric shock?",
+   "a": "No. The machine only records your heart's tiny signals. It sends nothing into your body."
+  }
+ ],
+ "reminders": []
+}

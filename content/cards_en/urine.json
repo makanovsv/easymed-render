@@ -1,0 +1,75 @@
+{
+ "title": "Urine test",
+ "also": [
+  "urinalysis",
+  "urine sample",
+  "routine urine test"
+ ],
+ "what": "You collect morning urine in a small container at home and bring it to the lab. It shows how your kidneys work and whether there is inflammation.",
+ "why": "For checkups, pain in the lower belly or lower back, frequent or painful urination, pregnancy, and diabetes.",
+ "duration": "collecting takes 2 to 3 minutes at home, and results usually come the next day",
+ "tell_doctor": [
+  "What medicines and vitamins you take",
+  "If you are a woman and have your period now. The test is usually moved",
+  "If you recently had a catheter or a procedure on your urinary tract"
+ ],
+ "prepare": [
+  {
+   "title": "Container",
+   "text": "Get a sterile container from a pharmacy or the lab. Do not use a food jar."
+  },
+  {
+   "title": "The day before",
+   "text": "Do not eat beets or foods that color your urine. No alcohol or hard workouts. Drink as usual."
+  },
+  {
+   "title": "In the morning",
+   "text": "Wash with warm water, without scented soap. Women should cover the vaginal opening with a cotton ball."
+  },
+  {
+   "title": "Collecting",
+   "text": "You need the first morning urine, from the middle of the stream: first few seconds into the toilet, then into the container, and the end into the toilet again."
+  }
+ ],
+ "bring": [
+  "The container with urine, tightly closed and labeled",
+  "Your referral"
+ ],
+ "steps": [
+  "In the morning, after washing, start passing urine into the toilet",
+  "Without stopping the stream, hold the container under it",
+  "Fill the container about halfway",
+  "Finish in the toilet and close the lid tightly",
+  "Take it to the lab within 1 to 2 hours"
+ ],
+ "feel": [
+  "Nothing"
+ ],
+ "after": [
+  "A doctor explains the result",
+  "If changes are found, you are often asked to repeat the test"
+ ],
+ "red_flags": [
+  "Blood in your urine, or strong lower back pain with a fever: see a doctor right away"
+ ],
+ "faq": [
+  {
+   "q": "Can I give a urine sample during my period?",
+   "a": "Better not. Blood gets into the sample. The test is usually moved to 2 to 3 days after your period ends."
+  },
+  {
+   "q": "Can I collect urine the night before?",
+   "a": "No. You need fresh morning urine, and it must reach the lab within 1 to 2 hours."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Urine test tomorrow. Get a sterile container ready. No beets or alcohol today."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "Collect your morning urine after washing, from the middle of the stream. Take it to the lab within 1 to 2 hours."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "title": "Stool test for hidden blood",
+ "also": [
+  "FIT test",
+  "fecal occult blood test",
+  "FOBT",
+  "bowel cancer screening kit"
+ ],
+ "what": "This test looks for blood in your stool that you cannot see. It is a simple way to spot early signs of bowel polyps or tumors.",
+ "why": "Usually for screening from about age 45 to 50, or with anemia or changes in bowel habits. The doctor decides.",
+ "duration": "5 minutes to collect at home; results in 1 to 3 days",
+ "tell_doctor": [
+  "If your piles are bleeding right now",
+  "If you are on your period. It is better to do the test later",
+  "If you take blood thinners"
+ ],
+ "prepare": [
+  {
+   "title": "Container",
+   "text": "Get the special container with a stick from the lab. The test cannot be done from a regular jar."
+  },
+  {
+   "title": "Food",
+   "text": "The modern FIT test needs no diet. If your test is a different type, ask the lab."
+  }
+ ],
+ "bring": [
+  "The container with the sample",
+  "Your test request form"
+ ],
+ "steps": [
+  "Collect your stool so it does not fall into the water, for example onto paper",
+  "Use the stick from the container to take a little stool from a few places",
+  "Put the stick back in the container and close it tightly",
+  "Take it to the lab within the time you are given"
+ ],
+ "feel": [
+  "Nothing. It does not hurt"
+ ],
+ "after": [
+  "A positive test is not a diagnosis. The doctor usually refers you for a colonoscopy to find the cause"
+ ],
+ "red_flags": [
+  "Visible blood in your stool or black stools: do not wait for the result. See a doctor"
+ ],
+ "faq": [
+  {
+   "q": "If the test is positive, is it cancer?",
+   "a": "Most often, no. Blood can come from piles, a small tear, or a polyp. But the cause must be found, usually with a colonoscopy."
+  }
+ ],
+ "reminders": []
+}

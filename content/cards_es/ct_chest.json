@@ -1,0 +1,65 @@
+{
+ "title": "Tomografía de pulmones",
+ "also": [
+  "tomografía de tórax",
+  "TAC de pulmones",
+  "tomografía de baja dosis"
+ ],
+ "what": "La tomografía muestra los pulmones por capas, con mucho más detalle que una radiografía normal. Normalmente no lleva inyección.",
+ "why": "Por neumonía, tos que no se quita, si algo salió en la radiografía, o para buscar temprano cáncer de pulmón en fumadores.",
+ "duration": "normalmente de 5 a 10 minutos en la sala; la imagen tarda solo unos segundos",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si es con contraste: si tienes alergia al yodo o al contraste, y si tienes enfermedades de los riñones",
+  "Si te cuesta aguantar la respiración o estar acostado con los brazos arriba"
+ ],
+ "prepare": [
+  {
+   "title": "Sin contraste",
+   "text": "No necesitas preparación. Puedes comer y beber."
+  },
+  {
+   "title": "Con contraste",
+   "text": "Normalmente te piden no comer de 3 a 4 horas antes. Puedes tomar agua. A veces piden un análisis de creatinina. Pregunta en tu clínica."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate cadenas, dijes y el brasier con varilla. Mejor ropa sin metal en el pecho."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Radiografías y tomografías de pulmón anteriores, para comparar",
+  "El análisis de creatinina, si te lo pidieron"
+ ],
+ "steps": [
+  "Te acuestas boca arriba con los brazos detrás de la cabeza",
+  "La camilla pasa por un aro grande",
+  "Cuando te digan \"tome aire y no respire\", aguantas la respiración unos segundos",
+  "Si es con contraste, te lo ponen en la vena y toman otra serie de imágenes"
+ ],
+ "feel": [
+  "No duele. El aparato hace ruido",
+  "Con contraste, una ola de calor y sabor a metal. Se quita en un minuto"
+ ],
+ "after": [
+  "Puedes volver a tus actividades de inmediato",
+  "Después del contraste, toma más agua, salvo que el médico diga otra cosa",
+  "El reporte suele estar en unas horas o en 1 a 2 días"
+ ],
+ "red_flags": [
+  "Si te cuesta mucho respirar o se te ponen morados los labios, no esperes tu cita: llama a emergencias",
+  "Después del contraste, comezón, ronchas, cara hinchada o dificultad para respirar: avísale al personal o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué es mejor la tomografía de pulmones que la radiografía?",
+   "a": "La tomografía muestra los pulmones por capas y ve manchas pequeñas que en la radiografía no se notan."
+  },
+  {
+   "q": "¿Qué es la tomografía de pulmones de baja dosis?",
+   "a": "Es una tomografía con menos radiación para revisar a fumadores por cáncer de pulmón. La indica el médico según tu edad y cuánto has fumado."
+  }
+ ],
+ "reminders": []
+}

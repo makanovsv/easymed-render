@@ -1,0 +1,86 @@
+{
+ "title": "Cesariana",
+ "also": [
+  "cesárea",
+  "parto cesáreo",
+  "cirurgia cesariana"
+ ],
+ "what": "Uma cirurgia em que o bebê é retirado por um corte na parte de baixo da barriga. Normalmente é feita com uma injeção nas costas, e você fica acordada.",
+ "why": "Quando o parto normal é perigoso para a mãe ou para o bebê. Pode ser agendada ou de urgência.",
+ "duration": "a cirurgia leva normalmente de 40 a 60 minutos, a internação normalmente de 3 a 5 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico decide o que fazer",
+  "Alergias",
+  "Doenças do coração, pressão, diabetes",
+  "Se você já fez cirurgia na barriga ou cesariana",
+  "Se você já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames e consulta: a maternidade dá a lista."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista vai conversar com você e explicar a anestesia."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Antes de uma cirurgia agendada, normalmente não se come desde a noite anterior. O horário exato quem diz é a maternidade."
+  },
+  {
+   "title": "Coisas",
+   "text": "A mala da maternidade para você e para o bebê, roupa íntima pós-parto e cinta, se o médico recomendar."
+  }
+ ],
+ "bring": [
+  "Cartão da gestante e documentos",
+  "Resultados de exames",
+  "Mala da maternidade",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Colocam um cateter na sua veia e uma sonda na bexiga",
+  "O anestesista aplica uma injeção nas costas, e as pernas e a barriga ficam dormentes",
+  "Colocam um pano na sua frente",
+  "O médico faz um corte na parte de baixo da barriga e tira o bebê",
+  "Mostram o bebê para você, e o médico fecha o corte",
+  "Você vai para a sala de observação"
+ ],
+ "feel": [
+  "Durante a cirurgia, pressão e movimento, mas não dor",
+  "Às vezes enjoo ou calafrios. Avise o anestesista",
+  "Depois da cirurgia, o corte dói. Dão remédio para dor"
+ ],
+ "after": [
+  "Normalmente ajudam você a levantar já no primeiro dia. Isso é importante",
+  "Pode amamentar logo",
+  "Por algumas semanas, não pegue nada mais pesado que o bebê",
+  "Os pontos são retirados ou se absorvem sozinhos. O médico vai dizer"
+ ],
+ "red_flags": [
+  "Sangramento forte: o absorvente encharca em uma hora",
+  "Febre acima de 38 graus, vermelhidão ou pus no corte",
+  "Dor no peito, falta de ar, inchaço em uma perna só: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dá para ter parto normal depois de uma cesariana?",
+   "a": "Muitas vezes, sim. Depende da cicatriz e da cirurgia anterior. A decisão é tomada junto com o médico."
+  },
+  {
+   "q": "Quanto tempo depois da cesariana posso levantar?",
+   "a": "Normalmente no primeiro dia, com ajuda da enfermeira. Levantar cedo ajuda na recuperação."
+  },
+  {
+   "q": "Posso amamentar depois da cesariana?",
+   "a": "Sim. Na maternidade, os remédios são escolhidos de forma que você possa amamentar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cesariana agendada. Mala, cartão da gestante e documentos. Comida só até o horário que a maternidade informou."
+  }
+ ]
+}

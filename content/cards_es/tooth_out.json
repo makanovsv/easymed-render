@@ -1,0 +1,57 @@
+{
+ "title": "Extracción de un diente",
+ "also": [
+  "sacar una muela",
+  "extracción dental",
+  "sacar un diente"
+ ],
+ "what": "El dentista saca el diente con anestesia local. Normalmente toma unos minutos.",
+ "why": "Cuando el diente no se puede salvar: muy dañado, con infección, flojo, o antes de una prótesis o de brackets.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes diabetes o enfermedades del corazón",
+  "Si tienes alergia a los anestésicos",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Come de 1 a 2 horas antes de la cita. Después de la extracción no podrás comer durante 2 horas."
+  },
+  {
+   "title": "Alcohol",
+   "text": "Nada de alcohol un día antes y un día después."
+  }
+ ],
+ "bring": [
+  "La radiografía del diente, si te la hicieron"
+ ],
+ "steps": [
+  "El dentista revisa el diente y, si hace falta, toma una radiografía",
+  "Te ponen anestesia. En unos minutos se adormecen la encía y el labio",
+  "El dentista afloja el diente y lo saca",
+  "Ponen una gasa sobre el hueco. Tienes que morderla"
+ ],
+ "feel": [
+  "Sientes presión y crujidos. Es normal. No debe doler",
+  "Si te duele, avísale al dentista y te pondrá más anestesia"
+ ],
+ "after": [
+  "Mantén la gasa mordida de 20 a 30 minutos",
+  "No comas en 2 horas. El primer día, nada caliente ni picante, sin popote y sin fumar",
+  "El primer día no te enjuagues con fuerza. En el hueco debe quedar un coágulo",
+  "Hinchazón y dolor moderado durante 2 o 3 días es normal"
+ ],
+ "red_flags": [
+  "El sangrado no se detiene en más de una hora",
+  "Después del tercer día aumentan la hinchazón y el dolor, hay fiebre o mal olor del hueco"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo enjuagar la boca después de la extracción?",
+   "a": "El primer día, no: puedes sacar el coágulo y el hueco se puede infectar. Después, solo enjuagues suaves, como te indique el dentista."
+  }
+ ],
+ "reminders": []
+}

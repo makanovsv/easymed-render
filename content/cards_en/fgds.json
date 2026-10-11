@@ -1,0 +1,80 @@
+{
+ "title": "Gastroscopy (upper endoscopy)",
+ "also": [
+  "upper endoscopy",
+  "OGD",
+  "EGD",
+  "camera test for the stomach"
+ ],
+ "what": "The doctor looks at your food pipe, stomach, and the first part of the small bowel with a thin, flexible tube with a camera, passed through your mouth.",
+ "why": "For heartburn, belly pain, anemia, a possible ulcer, gastritis, or Helicobacter infection, and to take a biopsy.",
+ "duration": "the test itself takes 5 to 15 minutes",
+ "tell_doctor": [
+  "If you take blood thinners. They may need a short change. The doctor decides",
+  "If you have diabetes",
+  "Allergy to lidocaine or other numbing medicines",
+  "If you are pregnant",
+  "If you want to be asleep. This is a separate service"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "No food for 8 hours. The evening before, have a light dinner with no alcohol."
+  },
+  {
+   "title": "Water",
+   "text": "Water is usually fine until 2 to 4 hours before the test. Check with your clinic."
+  },
+  {
+   "title": "In the morning",
+   "text": "Do not smoke or chew gum. It makes your stomach produce more acid."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past gastroscopy reports",
+  "A towel or pad, if your clinic asks"
+ ],
+ "steps": [
+  "You take out removable dentures and take off glasses",
+  "Your throat is sprayed with a numbing spray",
+  "You lie on your left side, and a plastic mouth guard goes between your teeth",
+  "The doctor passes the tube, you swallow once, and then it moves on by itself",
+  "Breathe calmly through your nose. Do not swallow your saliva. It is suctioned away",
+  "Sometimes a tiny tissue sample is taken. This does not hurt",
+  "The tube is taken out"
+ ],
+ "feel": [
+  "Gagging at the start is normal. Steady breathing through your nose helps",
+  "A full, bloated feeling from the air",
+  "Usually no pain"
+ ],
+ "after": [
+  "Do not eat or drink for 30 to 60 minutes, until your throat is no longer numb",
+  "A slightly sore throat may last until evening",
+  "You get the report right away. Biopsy results usually take 1 to 2 weeks"
+ ],
+ "red_flags": [
+  "Severe chest or belly pain, vomiting blood, black stools, or a high fever: see a doctor right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I be asleep for a gastroscopy?",
+   "a": "Yes, with sedation. Then you cannot drive for the rest of the day, and someone needs to take you home."
+  },
+  {
+   "q": "Does swallowing the tube hurt?",
+   "a": "It does not hurt, but the first few seconds are unpleasant. Calm breathing through your nose helps."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "Gastroscopy tomorrow. Stop eating now. Water only until the time your clinic gave you."
+  },
+  {
+   "hoursBefore": 1.5,
+   "text": "Gastroscopy soon. Do not smoke. Bring your referral and past reports."
+  }
+ ]
+}

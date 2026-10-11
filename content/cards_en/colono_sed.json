@@ -1,0 +1,101 @@
+{
+ "title": "Colonoscopy with sedation",
+ "also": [
+  "sedated colonoscopy",
+  "colonoscopy asleep",
+  "sleep colonoscopy"
+ ],
+ "what": "The same colonoscopy, a camera check of the large bowel, but you are asleep. An anesthesiologist gives medicine into a vein and watches you the whole time.",
+ "why": "If you feel scared or it was hard before, if you have pain, for a long exam, or to remove polyps.",
+ "duration": "usually 20 to 40 minutes, plus 30 to 60 minutes to wake up; bowel prep the day before",
+ "tell_doctor": [
+  "If you take blood thinners or iron tablets",
+  "If you have diabetes. Your prep and medicines will need to be adjusted",
+  "Heart, lung, or kidney disease, or snoring with pauses in breathing",
+  "Allergies, and how you handled anesthesia before",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "2 to 3 days before",
+   "text": "Eat a low-fiber diet: no vegetables, fruit, leafy greens, seeds, nuts, whole grains, or beans."
+  },
+  {
+   "title": "Bowel prep",
+   "text": "Drink the bowel prep solution as your doctor says, often in two parts: in the evening and early in the morning."
+  },
+  {
+   "title": "Food and water",
+   "text": "Because of sedation, the rules are stricter. Usually no food for 6 to 8 hours, and clear water up to 2 to 3 hours before. Your clinic will give you the exact times."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Ask your doctor which pills to take in the morning with a sip of water."
+  },
+  {
+   "title": "Someone with you",
+   "text": "You need an adult to take you home. You are usually not allowed to leave alone."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past colonoscopy reports",
+  "A list of your medicines",
+  "Someone to take you home"
+ ],
+ "steps": [
+  "The anesthesiologist asks about your health, and an IV is put into a vein",
+  "A sensor goes on your finger and a blood pressure cuff on your arm",
+  "You lie on your left side and get oxygen through a small tube in your nose",
+  "The medicine is given, and you fall asleep within a minute",
+  "The doctor does the colonoscopy and removes polyps if needed",
+  "You wake up in the recovery room and are watched until you are fully awake"
+ ],
+ "feel": [
+  "You usually feel and remember nothing",
+  "After waking: sleepiness and bloating from the air"
+ ],
+ "after": [
+  "Bloating goes away in a few hours. Walking helps",
+  "For the rest of the day, do not drive, use machines, or make big decisions",
+  "No alcohol that day",
+  "You can usually eat once you are fully awake",
+  "Biopsy results take 1 to 2 weeks"
+ ],
+ "red_flags": [
+  "Severe belly pain, a high fever, or heavy bleeding from the bottom: see a doctor right away or call emergency services",
+  "Severe weakness, shortness of breath, or fainting after the test: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Is this general anesthesia?",
+   "a": "Usually not. It is a deep sleep from medicine. You breathe on your own and wake up quickly."
+  },
+  {
+   "q": "Why can't I drive after sedation?",
+   "a": "The medicine slows your reactions for several hours, even if you feel fine."
+  },
+  {
+   "q": "Can I drink water before a sedated colonoscopy?",
+   "a": "Usually clear water is fine until 2 to 3 hours before. Your clinic will tell you the exact time."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Sedated colonoscopy in 3 days. Start a low-fiber diet. Arrange for someone to take you home."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Colonoscopy tomorrow. After breakfast today, clear liquids only. In the evening, drink the first part of the prep."
+  },
+  {
+   "hoursBefore": 6,
+   "text": "Time for the second part of the prep, if you have a two-part plan. No food from now on. Water only until the time your clinic gave you."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Your sedated colonoscopy is soon. Stop drinking, unless your clinic said otherwise. Is the person taking you home with you?"
+  }
+ ]
+}

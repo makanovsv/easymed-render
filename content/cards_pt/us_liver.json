@@ -1,0 +1,70 @@
+{
+ "title": "Ultrassom do fígado e da vesícula",
+ "also": [
+  "ultrassom do fígado",
+  "ultrassom da vesícula",
+  "ultrassom de abdome superior"
+ ],
+ "what": "O médico examina o fígado, a vesícula e os canais da bile com ultrassom. É seguro e não tem radiação.",
+ "why": "Em dor do lado direito, embaixo das costelas, alterações nos exames do fígado, suspeita de pedras ou de gordura no fígado.",
+ "duration": "normalmente de 15 a 20 minutos",
+ "tell_doctor": [
+  "Se você já tirou a vesícula",
+  "Se fez endoscopia ou colonoscopia há pouco tempo: pode ter ficado ar no intestino"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "De 6 a 8 horas sem comer: depois de comer, a vesícula se contrai e fica difícil de ver. Normalmente o ultrassom é feito de manhã, em jejum."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Jantar leve, sem refrigerante, verduras cruas, feijões e pão integral escuro. Menos gases, imagem melhor."
+  },
+  {
+   "title": "Água",
+   "text": "Um pouco de água pode. Se a clínica recomendar um remédio para gases, tome conforme a orientação dela."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos de ultrassons anteriores, se tiver",
+  "Um lenço ou toalha para limpar o gel"
+ ],
+ "steps": [
+  "Você se deita de barriga para cima e deixa a barriga à mostra",
+  "O médico passa um gel gelado",
+  "O aparelho desliza pelo lado direito da barriga, embaixo das costelas",
+  "Pedem para você puxar o ar fundo e segurar alguns segundos",
+  "Às vezes pedem para virar do lado esquerdo"
+ ],
+ "feel": [
+  "O gel é gelado",
+  "O aparelho aperta um pouco. Não dói"
+ ],
+ "after": [
+  "Limpam o gel, e você já pode comer",
+  "O laudo sai normalmente na hora"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que preciso ir em jejum ao ultrassom do fígado?",
+   "a": "Depois de comer, a vesícula se contrai e o médico não vê as pedras. Por isso, de 6 a 8 horas sem comer."
+  },
+  {
+   "q": "O ultrassom mostra gordura no fígado?",
+   "a": "Sim, muitas vezes mostra. Para avaliar a rigidez do fígado, às vezes fazem também uma elastografia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o ultrassom do fígado. Jantar leve, sem refrigerante, feijões e verduras cruas."
+  },
+  {
+   "hoursBefore": 8,
+   "text": "A partir de agora, não coma até o ultrassom. Um pouco de água pode."
+  }
+ ]
+}

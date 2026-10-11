@@ -1,0 +1,61 @@
+{
+ "title": "Chest X-ray",
+ "also": [
+  "chest X-ray",
+  "lung X-ray",
+  "CXR"
+ ],
+ "what": "A picture of your lungs and heart taken with X-rays. The radiation dose is small.",
+ "why": "For cough, fever, shortness of breath, suspected pneumonia, or before surgery.",
+ "duration": "usually 5 to 10 minutes",
+ "tell_doctor": [
+  "If you are pregnant or could be pregnant",
+  "If you recently had an X-ray or CT scan. Bring the images"
+ ],
+ "prepare": [
+  {
+   "title": "Preparation",
+   "text": "No special prep needed. You can eat and drink."
+  },
+  {
+   "title": "Metal",
+   "text": "Take off chains, pendants, and chest piercings. Tie up long hair."
+  },
+  {
+   "title": "Clothes",
+   "text": "You will be asked to undress to the waist. Clothes without metal parts are easier."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past X-rays, to compare"
+ ],
+ "steps": [
+  "You undress to the waist and stand with your chest against the machine",
+  "You put your hands on your hips and roll your shoulders forward",
+  "When told, you breathe in and hold your breath for a few seconds",
+  "Sometimes a second picture is taken from the side"
+ ],
+ "feel": [
+  "Nothing. You do not feel the X-ray itself",
+  "The plate may feel cool"
+ ],
+ "after": [
+  "You can go back to your day straight away",
+  "The report is usually ready the same day or the next day"
+ ],
+ "red_flags": [
+  "If it is very hard to breathe, your lips turn blue, or you have severe chest pain: do not wait for the X-ray. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Is a chest X-ray harmful?",
+   "a": "The dose is small, about the same as natural background radiation over a few days. If you need the X-ray, the benefit outweighs the risk."
+  },
+  {
+   "q": "How is a chest X-ray different from a screening chest scan?",
+   "a": "A chest X-ray is clearer and is done when you have symptoms. A screening scan, called fluorography, is a quick check during a checkup."
+  }
+ ],
+ "reminders": []
+}

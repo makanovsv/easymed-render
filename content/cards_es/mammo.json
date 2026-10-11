@@ -1,0 +1,66 @@
+{
+ "title": "Mastografía",
+ "also": [
+  "mamografía",
+  "mastografía de detección",
+  "rayos X de mama"
+ ],
+ "what": "Es una radiografía de los senos. Una placa presiona el seno unos segundos para que la imagen salga clara.",
+ "why": "Para detectar a tiempo el cáncer de mama. Normalmente cada 1 o 2 años después de los 40 o 50, o si notas una bolita.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Si estás embarazada o dando pecho",
+  "Si tienes implantes en los senos",
+  "Si te han operado de los senos",
+  "Si te sentiste una bolita, dónde exactamente"
+ ],
+ "prepare": [
+  {
+   "title": "Día del ciclo",
+   "text": "Lo más cómodo es entre el día 5 y el 12 del ciclo: el seno está menos sensible. Si ya no menstrúas, cualquier día."
+  },
+  {
+   "title": "Piel",
+   "text": "El día del estudio no te pongas desodorante, crema ni talco en los senos ni en las axilas. Dejan manchas en la imagen."
+  },
+  {
+   "title": "Ropa",
+   "text": "Falda o pantalón con blusa. Solo tendrás que quitarte la ropa de la cintura para arriba."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Mastografías y ultrasonidos de mama anteriores. Es muy importante compararlos"
+ ],
+ "steps": [
+  "Te quitas la ropa de la cintura para arriba y te paras frente al aparato",
+  "La técnica coloca un seno sobre la plataforma",
+  "Baja una placa y presiona el seno unos segundos",
+  "Toman la imagen, luego otra posición y el otro seno. Normalmente son 4 imágenes"
+ ],
+ "feel": [
+  "La presión es molesta y a veces duele, pero solo dura unos segundos",
+  "Si te duele mucho, avísale a la técnica"
+ ],
+ "after": [
+  "El reporte suele estar en 1 a 3 días",
+  "A veces llaman para otra imagen o un ultrasonido. Es algo común, no te asustes"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué aprietan tanto el seno?",
+   "a": "Así el tejido queda parejo, la imagen sale más clara y la dosis de radiación es menor."
+  },
+  {
+   "q": "¿Mastografía o ultrasonido de mama?",
+   "a": "Son estudios distintos. La mastografía se hace normalmente después de los 40. El ultrasonido, en mujeres jóvenes o como complemento. Lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu mastografía. En la mañana no te pongas desodorante ni crema en los senos ni en las axilas."
+  }
+ ]
+}

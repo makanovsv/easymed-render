@@ -1,0 +1,71 @@
+{
+ "title": "Urologist visit",
+ "also": [
+  "urologist appointment",
+  "urology consultation",
+  "prostate exam"
+ ],
+ "what": "The doctor asks about your symptoms, examines your urinary and genital organs, and orders tests or an ultrasound if needed.",
+ "why": "For frequent or painful urination, blood in the urine, pain in the lower back or groin, or erection problems. For men over 45 to 50, as a checkup.",
+ "duration": "usually 20 to 30 minutes",
+ "tell_doctor": [
+  "What medicines you take, especially blood thinners",
+  "If you have had stones, surgery, or infections",
+  "How often you pass urine during the day and at night",
+  "Your PSA results, if you have had the test"
+ ],
+ "prepare": [
+  {
+   "title": "Hygiene",
+   "text": "A normal shower the evening before or in the morning."
+  },
+  {
+   "title": "Bladder",
+   "text": "If you will have a bladder ultrasound or a urine test, come with a moderately full bladder. Check with your clinic."
+  },
+  {
+   "title": "PSA test",
+   "text": "If you need a PSA test, blood is usually taken before the prostate exam. For 2 days before the test, avoid ejaculation and cycling."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Recent urine and blood tests, and PSA",
+  "Ultrasound reports and past medical records",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "The doctor looks at and feels your belly, lower back, and outer genitals",
+  "In men, the prostate is usually checked with a finger through the back passage",
+  "Women are examined on an exam chair, much like a gynecology exam",
+  "Sometimes an ultrasound is done right away",
+  "The doctor explains which tests and exams you need"
+ ],
+ "feel": [
+  "The prostate exam is an unpleasant pressure for a few seconds, but usually not painful",
+  "You may feel the urge to pass urine. This is normal",
+  "Slow, calm breathing helps you relax"
+ ],
+ "after": [
+  "You can go back to your day straight away",
+  "Test results are usually ready in 1 to 3 days"
+ ],
+ "red_flags": [
+  "You cannot pass urine and your belly feels very full",
+  "Fever with chills and pain in the lower back",
+  "Blood and clots in the urine",
+  "Sudden severe pain in a testicle: call emergency services right away. Every hour counts"
+ ],
+ "faq": [
+  {
+   "q": "Does a prostate exam hurt?",
+   "a": "Usually not. It is an unpleasant pressure for a few seconds. The exam is simple but very useful."
+  },
+  {
+   "q": "Should I see a urologist if nothing hurts?",
+   "a": "Men over 45 to 50 are usually advised to have a checkup once a year. Many prostate problems cause no symptoms for a long time."
+  }
+ ],
+ "reminders": []
+}

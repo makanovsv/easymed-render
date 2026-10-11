@@ -1,0 +1,71 @@
+{
+ "title": "Lipid panel (cholesterol)",
+ "also": [
+  "cholesterol test",
+  "lipid profile",
+  "LDL and HDL",
+  "triglycerides"
+ ],
+ "what": "A blood test from a vein that measures fats in your blood: total cholesterol, \"bad\" and \"good\" cholesterol, and triglycerides.",
+ "why": "To check your risk of heart and blood vessel disease, if you have high blood pressure, diabetes, or extra weight, and to monitor treatment.",
+ "duration": "the blood draw takes 3 to 5 minutes. Results usually take 1 to 2 days",
+ "tell_doctor": [
+  "If you take cholesterol medicines",
+  "If you have diabetes or thyroid disease",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually fasting: 9 to 12 hours without food. Some labs accept non-fasting samples. Check with your lab. Water is fine."
+  },
+  {
+   "title": "The day before",
+   "text": "No fatty food at dinner. No alcohol for one to two days before."
+  },
+  {
+   "title": "Routine",
+   "text": "Eat as usual for a week before the test. Do not go on a special diet. It will make the result less accurate."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own, especially cholesterol medicines."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "Past results, to compare"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied on your arm, and the skin is cleaned with antiseptic",
+  "A quick prick, and blood fills the tube",
+  "The needle is removed, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "You can eat right away",
+  "Cholesterol targets differ for everyone. Your doctor sets yours"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What are \"bad\" and \"good\" cholesterol?",
+   "a": "\"Bad\" cholesterol, LDL, builds up in blood vessels. \"Good\" cholesterol, HDL, helps clear cholesterol away. The balance between them matters."
+  },
+  {
+   "q": "How often should I check my cholesterol?",
+   "a": "Adults usually every few years, more often if you have risk factors. Your doctor will tell you how often."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Cholesterol test tomorrow. No fatty food at dinner, and do not eat after it. Water is fine."
+  }
+ ]
+}

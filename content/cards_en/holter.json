@@ -1,0 +1,67 @@
+{
+ "title": "Holter monitor",
+ "also": [
+  "Holter monitor",
+  "24-hour ECG",
+  "ambulatory ECG",
+  "heart monitor"
+ ],
+ "what": "A small device on your belt records your ECG for a full day, sometimes 2 to 3 days, while you go about your normal life.",
+ "why": "For skipped beats, racing heart episodes, or fainting, to catch what a short ECG cannot see.",
+ "duration": "10 to 15 minutes to fit; usually worn for 24 hours",
+ "tell_doctor": [
+  "What heart medicines you take",
+  "If you have a pacemaker"
+ ],
+ "prepare": [
+  {
+   "title": "Shower",
+   "text": "Shower beforehand. You usually cannot wash while wearing the device."
+  },
+  {
+   "title": "Skin",
+   "text": "No lotion on your chest. Men may have small areas shaved for the pads."
+  },
+  {
+   "title": "Clothes",
+   "text": "Loose cotton clothes, so the device and wires do not get in the way."
+  }
+ ],
+ "bring": [
+  "Your referral"
+ ],
+ "steps": [
+  "3 to 7 sticky pads are put on your chest, and the wires connect to the device",
+  "The device is clipped to your belt or hung around your neck",
+  "For a day, you live as usual: work, walk, take the stairs",
+  "Write in a diary what you did, when you felt unwell, and when you took medicine",
+  "After a day, the device is removed at the clinic"
+ ],
+ "feel": [
+  "The pads may itch sometimes",
+  "The device can bother you a bit in bed. You get used to it quickly"
+ ],
+ "after": [
+  "The report usually takes 1 to 3 days",
+  "Glue marks wash off with soap and water"
+ ],
+ "red_flags": [
+  "Fainting or severe chest pain: call emergency services, even while wearing the device"
+ ],
+ "faq": [
+  {
+   "q": "Can I shower with a Holter monitor?",
+   "a": "Usually not. The device and pads must stay dry. Shower before it is fitted."
+  },
+  {
+   "q": "Why keep a diary?",
+   "a": "The doctor will match the recording to what you did and how you felt. Without a diary, the reading is less useful."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Your Holter monitor is fitted soon. Shower now. You will not be able to wash for a day."
+  }
+ ]
+}

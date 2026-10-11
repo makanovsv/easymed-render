@@ -1,0 +1,77 @@
+{
+ "title": "Exame médico para atestado",
+ "also": [
+  "exame médico para carteira de motorista",
+  "exame admissional",
+  "atestado de saúde",
+  "exame médico para trabalho"
+ ],
+ "what": "Consultas com alguns médicos e, se preciso, exames, para receber um atestado médico para carteira de motorista, trabalho ou estudo.",
+ "why": "Para tirar ou renovar a carteira de motorista, ao entrar num emprego, de tempos em tempos em alguns trabalhos, e para estudo e esporte.",
+ "duration": "normalmente de 1 a 3 horas, às vezes em vários dias",
+ "tell_doctor": [
+  "Para que é o atestado e qual a categoria da carteira",
+  "Quais remédios você toma. Alguns podem alterar os exames",
+  "Doenças crônicas",
+  "Se você usa óculos, lentes ou aparelho de audição"
+ ],
+ "prepare": [
+  {
+   "title": "Lista de médicos",
+   "text": "Pergunte antes na clínica quais médicos e exames você precisa fazer. Isso depende do tipo de atestado e do país."
+  },
+  {
+   "title": "Encaminhamento",
+   "text": "Para trabalho, normalmente é preciso um encaminhamento da empresa."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Durma bem, sem álcool por 2 a 3 dias. Se tiver exame de sangue, confirme se precisa ir em jejum."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Encaminhamento da empresa, se for para trabalho",
+  "Óculos ou lentes, se você usa",
+  "Foto, se a clínica pedir",
+  "O atestado ou a carteira de saúde antigos, se você tiver",
+  "Relatórios sobre doenças crônicas"
+ ],
+ "steps": [
+  "Você faz o cadastro e recebe a lista de consultórios",
+  "Normalmente passa pelo clínico e pelo oftalmologista",
+  "Para a carteira de motorista, também psiquiatra e especialista em dependência química. Às vezes, exame de álcool e drogas",
+  "Para algumas categorias e trabalhos, eletroencefalograma, otorrino, neurologista e outros médicos",
+  "Às vezes fazem exames de sangue, eletrocardiograma ou raio-X do pulmão",
+  "No final, entregam o atestado ou o laudo"
+ ],
+ "feel": [
+  "Nada desagradável: consultas e perguntas comuns"
+ ],
+ "after": [
+  "Muitas vezes o atestado sai no mesmo dia, se não for preciso esperar exames",
+  "Se o médico tiver dúvida, pode pedir mais exames",
+  "Confira no atestado o seu nome completo, a data e os carimbos"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Quais médicos preciso ver para a carteira de motorista?",
+   "a": "Normalmente clínico, oftalmologista, psiquiatra e especialista em dependência química. Para algumas categorias, também eletroencefalograma e outros médicos. A lista exata, confirme com a clínica."
+  },
+  {
+   "q": "Posso fazer o exame de óculos?",
+   "a": "Sim, se você dirige com eles. Aí o atestado vai dizer que você precisa dirigir de óculos ou lentes."
+  },
+  {
+   "q": "O que fazer se não me derem o atestado?",
+   "a": "Normalmente o médico pede mais exames. Depois deles, muitas vezes o atestado é liberado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Daqui a 2 dias você tem exame médico para atestado. Sem álcool até o exame. Confira documentos, óculos e encaminhamento."
+  }
+ ]
+}

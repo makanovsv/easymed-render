@@ -1,0 +1,71 @@
+{
+ "title": "Kidney ultrasound",
+ "also": [
+  "kidney ultrasound",
+  "kidney and bladder ultrasound",
+  "renal ultrasound",
+  "urinary tract ultrasound"
+ ],
+ "what": "The doctor looks at your kidneys and bladder with ultrasound. It is safe and uses no radiation.",
+ "why": "For lower back pain, abnormal urine tests, high blood pressure, or suspected stones.",
+ "duration": "usually 15 to 20 minutes",
+ "tell_doctor": [
+  "If you have had kidney stones or kidney surgery",
+  "If you have only one kidney",
+  "If you have pain now, where it is and how long you have had it"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no special diet is needed. The day before, it is best to avoid foods that cause gas: beans, fizzy drinks, raw vegetables."
+  },
+  {
+   "title": "Bladder",
+   "text": "If your bladder is checked too, you are usually asked to drink half a liter to 1 liter of water an hour before and not go to the toilet. Check with your clinic."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something comfortable. Your belly and lower back need to be bare."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A urine test and past ultrasound reports, if you have them",
+  "A tissue or towel"
+ ],
+ "steps": [
+  "You lie on your back, then on your side or belly",
+  "The doctor puts gel on your side and lower back",
+  "Both kidneys are checked with the probe",
+  "You are asked to breathe in and hold your breath for a few seconds",
+  "If your bladder is checked, you are then asked to use the toilet and it is checked again"
+ ],
+ "feel": [
+  "The gel is cool",
+  "The probe presses a little. It does not hurt",
+  "A full bladder can feel uncomfortable. It does not last long"
+ ],
+ "after": [
+  "You can go back to your day straight away",
+  "You usually get the report right away"
+ ],
+ "red_flags": [
+  "Severe lower back pain with fever, vomiting, or blood in the urine: do not wait for your appointment. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can kidney stones be seen on ultrasound?",
+   "a": "Yes, most kidney stones can be seen. Very small stones, or stones in the ureter, are sometimes seen better on a CT scan."
+  },
+  {
+   "q": "Do I need to drink water before a kidney ultrasound?",
+   "a": "Not for the kidneys themselves. The bladder needs to be full, so you are often asked to drink water."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Kidney ultrasound soon. If the clinic asked for a full bladder, drink water an hour before and do not go to the toilet."
+  }
+ ]
+}
