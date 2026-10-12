@@ -1,0 +1,98 @@
+{
+ "title": "Endoscopia con sedación",
+ "also": [
+  "endoscopia dormido",
+  "gastroscopia con sedación",
+  "endoscopia con anestesia"
+ ],
+ "what": "El médico revisa el esófago, el estómago y el inicio del intestino con un tubo delgado con cámara, mientras duermes. El medicamento para dormir se pone en la vena: es un sueño ligero, no una anestesia general completa.",
+ "why": "Si tienes dolor o ardor de estómago, agruras, anemia o pérdida de peso, o para buscar úlceras y pólipos. Dormido, si tienes miedo, muchas náuseas o el procedimiento será largo.",
+ "duration": "el procedimiento suele durar de 10 a 20 minutos, más 30 a 60 minutos para despertar",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y los del azúcar",
+  "Si tienes alergias, también a medicamentos o al huevo",
+  "Enfermedades del corazón o los pulmones, ronquidos o pausas al respirar dormido",
+  "Si tuviste problemas con la anestesia",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes de 6 a 8 horas antes. Si es en la mañana, tu última comida es una cena ligera la noche anterior."
+  },
+  {
+   "title": "Líquidos",
+   "text": "Normalmente puedes tomar agua sin gas hasta 2 o 3 horas antes; luego nada. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Tus medicamentos de siempre en la mañana, solo como te diga el médico, con un trago de agua."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Necesitas un adulto que te lleve a casa. Ese día no puedes manejar."
+  },
+  {
+   "title": "Antes del procedimiento",
+   "text": "Quítate la dentadura postiza y las joyas, y límpiate el lápiz labial."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Tus resultados de endoscopias anteriores",
+  "La lista de tus medicamentos",
+  "Un acompañante"
+ ],
+ "steps": [
+  "El médico o el anestesiólogo habla contigo sobre tu salud y tus medicamentos",
+  "Te ponen un catéter delgado en la vena y un sensor de pulso en el dedo",
+  "Te acuestas sobre el lado izquierdo y te ponen una boquilla de plástico",
+  "Ponen el medicamento en la vena y te duermes en un minuto",
+  "El médico pasa el tubo por la boca y revisa el estómago",
+  "Si hace falta, toman un pedacito de tejido para analizar",
+  "Despiertas en el cuarto y te vigilan hasta que se pase el sueño"
+ ],
+ "feel": [
+  "Durante el procedimiento normalmente no sientes ni recuerdas nada",
+  "Después, sueño y a veces un ligero mareo",
+  "Puede picar la garganta y sentirte un poco inflado. Se quita en unas horas"
+ ],
+ "after": [
+  "Normalmente puedes comer y beber en 1 o 2 horas, si el médico no dice otra cosa",
+  "El resto del día, sin manejar, sin alcohol y sin tomar decisiones importantes",
+  "Te dan el resultado el mismo día",
+  "El resultado del tejido suele estar en 1 o 2 semanas"
+ ],
+ "red_flags": [
+  "Dolor fuerte de estómago o de pecho, vómito con sangre, excremento negro, fiebre, o te cuesta tragar o respirar: ve al médico de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es anestesia general?",
+   "a": "Es sedación: un sueño ligero y controlado. Respiras solo y despiertas rápido, normalmente unos minutos después del procedimiento."
+  },
+  {
+   "q": "¿Por qué no puedo manejar después de la sedación?",
+   "a": "El medicamento hace más lentos tus reflejos por varias horas, aunque te sientas bien. Por eso necesitas un acompañante."
+  },
+  {
+   "q": "¿Cuánto tiempo no debo comer antes de la endoscopia con sedación?",
+   "a": "Normalmente de 6 a 8 horas sin comer y de 2 a 3 horas sin agua. El estómago debe estar vacío: es importante para tu seguridad."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu endoscopia con sedación. Ponte de acuerdo con quien te recogerá: ese día no puedes manejar."
+  },
+  {
+   "hoursBefore": 10,
+   "text": "Ahora es tu última cena ligera. Después no comas hasta el procedimiento; agua solo hasta la hora que te dijo la clínica."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Pronto es tu endoscopia. Normalmente desde ahora ni agua. Lleva tu identificación y la lista de medicamentos."
+  }
+ ]
+}

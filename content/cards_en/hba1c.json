@@ -1,0 +1,59 @@
+{
+ "title": "HbA1c blood test",
+ "also": [
+  "HbA1c",
+  "A1C test",
+  "glycated hemoglobin",
+  "3-month blood sugar test"
+ ],
+ "what": "A blood test that shows your average blood sugar over the last 2 to 3 months. One short spike in sugar barely affects it.",
+ "why": "To find diabetes or prediabetes, and to check how treatment is working if you already have diabetes.",
+ "duration": "usually 5 minutes; blood is taken from a vein",
+ "tell_doctor": [
+  "If you have anemia or recently lost a lot of blood",
+  "If you had a blood transfusion in recent months",
+  "Pregnancy",
+  "Kidney or liver disease"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually you do not need an empty stomach. You can have the test at any time. If you also have a blood sugar test, come in the morning before eating."
+  },
+  {
+   "title": "Medicines",
+   "text": "Take your medicines as usual. If you are not sure, tell your doctor. They will decide."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Past results of this test, to compare"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow",
+  "The skin is wiped, and blood is taken from a vein into a tube",
+  "A cotton ball is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a mosquito bite",
+  "Sometimes a small bruise is left afterwards"
+ ],
+ "after": [
+  "You can eat and go back to your usual day right away",
+  "Results usually take 1 to 2 days",
+  "Your doctor explains the result and compares it with normal levels and your past tests"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Do I need an empty stomach for an HbA1c test?",
+   "a": "Usually not. It shows your sugar over 2 to 3 months, so breakfast barely affects the result."
+  },
+  {
+   "q": "How often should I have this test if I have diabetes?",
+   "a": "Usually every 3 months if your treatment is being changed. When your sugar is stable, less often. Your doctor will give you the exact schedule."
+  }
+ ],
+ "reminders": []
+}

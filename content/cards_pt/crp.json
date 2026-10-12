@@ -1,0 +1,68 @@
+{
+ "title": "Proteína C reativa (PCR)",
+ "also": [
+  "PCR",
+  "proteína C reativa",
+  "exame de inflamação",
+  "PCR ultrassensível"
+ ],
+ "what": "Um exame de sangue da veia. Mostra se existe inflamação no corpo e o quanto ela é forte.",
+ "why": "Em caso de febre, suspeita de infecção, dor nas articulações e para acompanhar o tratamento. A PCR ultrassensível às vezes é pedida para avaliar o risco de doenças do coração.",
+ "duration": "a coleta leva de 2 a 3 minutos, e o resultado sai normalmente em 1 dia",
+ "tell_doctor": [
+  "Se você esteve doente há pouco tempo, teve lesão ou fez cirurgia",
+  "Quais remédios você toma, principalmente hormônios e anti-inflamatórios",
+  "Gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente o exame é feito de manhã em jejum, ou de 3 a 4 horas depois de uma refeição leve. Confirme com a clínica."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Sem comida gordurosa, álcool e treinos pesados."
+  },
+  {
+   "title": "Água",
+   "text": "Pode beber água pura."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Resultados anteriores de PCR, para comparar"
+ ],
+ "steps": [
+  "Você senta, e o braço fica apoiado",
+  "Apertam um garrote acima do cotovelo",
+  "Limpam a pele com álcool",
+  "Com uma agulha, colhem o sangue num tubinho",
+  "Apertam um algodão no local da picada"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Se você tem medo ou sente tontura, avise, e você pode fazer deitado"
+ ],
+ "after": [
+  "Mantenha o algodão apertado por 3 a 5 minutos",
+  "Você pode comer logo em seguida",
+  "O resultado, o médico vai explicar. O número sozinho não dá o diagnóstico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O que significa PCR alta?",
+   "a": "Que existe inflamação no corpo. A causa, o médico vai investigar: pode ser um resfriado, uma infecção ou outra coisa."
+  },
+  {
+   "q": "Qual a diferença entre PCR e VHS?",
+   "a": "A PCR sobe mais rápido e cai mais rápido. Por isso é mais prática para acompanhar a inflamação."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o exame de sangue de PCR. Faça um jantar leve, sem comida gordurosa e sem álcool."
+  }
+ ]
+}

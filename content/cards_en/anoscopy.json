@@ -1,0 +1,77 @@
+{
+ "title": "Anoscopy and rectoscopy",
+ "also": [
+  "sigmoidoscopy",
+  "rectal exam",
+  "anoscope exam"
+ ],
+ "what": "The doctor looks at the anus and rectum using a small tube with a light. It is a short exam, usually without anesthesia.",
+ "why": "For blood in the stool, pain or itching around the anus, hemorrhoids, a tear, or before surgery.",
+ "duration": "usually 5 to 15 minutes",
+ "tell_doctor": [
+  "Blood thinners",
+  "If you have severe pain around the anus right now",
+  "Allergy to numbing gels",
+  "If you had surgery in this area before"
+ ],
+ "prepare": [
+  {
+   "title": "Bowel",
+   "text": "Usually the bowel needs to be cleaned: an enema or mini-enema in the evening and in the morning. Your clinic will tell you how."
+  },
+  {
+   "title": "Anoscopy only",
+   "text": "For a short exam of the anus, a normal bowel movement in the morning is sometimes enough. Check with your clinic."
+  },
+  {
+   "title": "Food",
+   "text": "A light dinner the evening before. In the morning, a light breakfast is fine, unless your clinic says otherwise."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past reports, if you have them",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You undress below the waist",
+  "You lie on your left side with your knees pulled up, or kneel on your knees and elbows",
+  "The doctor first looks at the area and gently checks with a finger",
+  "A tube with gel on it is put in a short way",
+  "The doctor looks at the bowel walls and takes the tube out"
+ ],
+ "feel": [
+  "Pressure and a feeling that you need the toilet. This is normal",
+  "During rectoscopy, a little air is put into the bowel, so you may feel bloated",
+  "If it hurts, tell the doctor"
+ ],
+ "after": [
+  "You can eat and go about your day right away",
+  "A little blood on the toilet paper the same day can happen, especially if a tissue sample was taken",
+  "The doctor usually tells you the results right away"
+ ],
+ "red_flags": [
+  "Heavy bleeding or blood clots",
+  "Severe belly pain, or fever above 38 degrees"
+ ],
+ "faq": [
+  {
+   "q": "Does anoscopy hurt?",
+   "a": "Usually not. It is uncomfortable but bearable. If you have a tear, the doctor uses a numbing gel."
+  },
+  {
+   "q": "How is rectoscopy different from colonoscopy?",
+   "a": "Rectoscopy looks only at the rectum and the start of the sigmoid colon. Colonoscopy looks at the whole large bowel."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Rectal exam tomorrow. Tonight, clean your bowel as your clinic said, and have a light dinner."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "This morning, clean your bowel as your clinic planned. Bring your referral and list of medicines."
+  }
+ ]
+}

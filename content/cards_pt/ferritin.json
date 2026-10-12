@@ -1,0 +1,73 @@
+{
+ "title": "Ferritina e ferro",
+ "also": [
+  "ferritina",
+  "ferro sérico",
+  "exame de ferro",
+  "capacidade de ligação do ferro",
+  "transferrina"
+ ],
+ "what": "Exame de sangue tirado da veia. Mostra quanto ferro há no sangue agora e qual é a reserva de ferro do corpo.",
+ "why": "Em caso de fraqueza, palidez, queda de cabelo, hemoglobina baixa, na gravidez e durante o tratamento com ferro.",
+ "duration": "a coleta leva poucos minutos; o resultado normalmente sai em 1 a 2 dias",
+ "tell_doctor": [
+  "Se toma ferro ou vitaminas com ferro. O médico diz se precisa dar uma pausa",
+  "Se esteve doente há pouco tempo, com febre ou inflamação, porque isso pode alterar a ferritina",
+  "Se recebeu transfusão de sangue ou ferro na veia há pouco tempo",
+  "Gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente a coleta é de manhã em jejum: sem comer por 8 a 12 horas. Pode beber água."
+  },
+  {
+   "title": "Horário",
+   "text": "É melhor chegar antes das 10 ou 11 da manhã, porque o nível de ferro no sangue muda ao longo do dia."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Sem álcool, sem comida gordurosa e sem treino pesado."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare de tomar ferro por conta própria. Conte ao médico, e ele decide se precisa de pausa antes do exame."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados anteriores, para comparar"
+ ],
+ "steps": [
+  "Você senta e apoia o braço",
+  "Amarram um garrote acima do cotovelo e limpam a pele",
+  "O sangue é tirado da veia para um tubo",
+  "Pressionam um algodão no local ou colocam um curativo"
+ ],
+ "feel": [
+  "Uma picada rápida, como de mosquito",
+  "Se ficar tonto, avise, e vão deixar você deitado"
+ ],
+ "after": [
+  "Pressione o algodão por 3 a 5 minutos, para não ficar roxo",
+  "Você já pode comer e voltar às suas atividades",
+  "O resultado, o médico vai explicar. Só com a ferritina não se faz diagnóstico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Preciso parar o ferro antes do exame?",
+   "a": "Não pare por conta própria. Às vezes o médico pede uma pausa de alguns dias para ver o nível real. Pergunte a ele."
+  },
+  {
+   "q": "Por que a ferritina está alta se o ferro está baixo?",
+   "a": "A ferritina sobe com qualquer inflamação ou gripe. Por isso o médico avalia junto com outros exames."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã de manhã você tem exame de ferro. Depois do jantar, não coma. Pode beber água."
+  }
+ ]
+}

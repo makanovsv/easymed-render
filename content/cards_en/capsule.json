@@ -1,0 +1,87 @@
+{
+ "title": "Capsule endoscopy",
+ "also": [
+  "pill camera",
+  "camera capsule",
+  "video capsule test"
+ ],
+ "what": "You swallow a capsule the size of a large pill. Inside is a camera that takes pictures of your bowel as the capsule passes through it.",
+ "why": "To look at the small bowel, which a regular gastroscopy and colonoscopy cannot reach. For example, for hidden bleeding or anemia with no clear cause.",
+ "duration": "swallowing the capsule takes a minute; recording lasts about 8 to 12 hours",
+ "tell_doctor": [
+  "If you have trouble swallowing",
+  "If you had belly surgery, a bowel blockage, or a narrowed bowel",
+  "If you have a pacemaker",
+  "All your medicines, especially iron tablets. The doctor will tell you what to stop and when",
+  "Pregnancy"
+ ],
+ "prepare": [
+  {
+   "title": "The day before",
+   "text": "Usually light food for 24 hours, and liquids during the day. No vegetables with skins, seeds, or berries with seeds."
+  },
+  {
+   "title": "Cleansing",
+   "text": "Often you are given a bowel cleansing solution, like before a colonoscopy. Drink it as your clinic instructs."
+  },
+  {
+   "title": "Fasting",
+   "text": "Usually no food for 10 to 12 hours before the test. Your clinic will give you the exact time."
+  },
+  {
+   "title": "Clothes",
+   "text": "Loose cotton clothes. Sensors will be stuck on your belly, or a belt with a recorder will be put on."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Reports from past gastroscopy and colonoscopy",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "Sensors are stuck on your belly, or a belt is put on",
+  "A small recorder is attached to the belt",
+  "You swallow the capsule with water",
+  "You can go home or stay at the clinic, depending on the clinic's rules",
+  "Clear water is usually allowed after 2 hours, and light food after 4 hours",
+  "In the evening, or after 8 to 12 hours, you return the recorder"
+ ],
+ "feel": [
+  "Swallowing the capsule is like a large pill",
+  "You will not feel it inside"
+ ],
+ "after": [
+  "The capsule leaves on its own with your stool, usually in 1 to 3 days. You do not need to catch it. It is single-use",
+  "Until the capsule has passed, you cannot have an MRI",
+  "Stay away from strong magnets and radio transmitters while recording",
+  "Results usually come in a few days. The doctor looks through thousands of images"
+ ],
+ "red_flags": [
+  "Severe belly pain, bloating, or vomiting",
+  "No gas or stool, especially if the capsule has not passed yet"
+ ],
+ "faq": [
+  {
+   "q": "What do I do with the capsule after it comes out?",
+   "a": "Nothing. It is single-use, and you do not need to catch it. If you are not sure it has passed, tell your doctor."
+  },
+  {
+   "q": "Can the capsule get stuck?",
+   "a": "Rarely. It is more likely if the bowel is narrowed. That is why you should tell the doctor about bowel surgery and bowel disease beforehand."
+  },
+  {
+   "q": "Does the capsule replace a colonoscopy?",
+   "a": "Usually not. The capsule mostly looks at the small bowel and cannot take a tissue sample."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Capsule endoscopy tomorrow. Light food today. Prepare as your clinic instructed."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "From now on, you usually do not eat until the test. Check the time in your clinic's instructions."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "title": "Colocación de catéter en la vena",
+ "also": [
+  "catéter venoso",
+  "vía periférica",
+  "poner una vía",
+  "catéter intravenoso"
+ ],
+ "what": "La enfermera pone en la vena un tubito delgado y suave. La aguja se quita de inmediato; en la vena solo queda el plástico. Por ahí te ponen medicamentos y sueros sin nuevos piquetes.",
+ "why": "Cuando necesitas muchas inyecciones o sueros, antes de una cirugía o de un estudio con contraste, o en el hospital.",
+ "duration": "normalmente de 2 a 5 minutos",
+ "tell_doctor": [
+  "Si tienes alergia a la cinta adhesiva, al látex o a los antisépticos",
+  "Si no se debe tocar algún brazo, por ejemplo por retiro de ganglios o una fístula para diálisis",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si antes fue difícil encontrarte las venas"
+ ],
+ "prepare": [
+  {
+   "title": "Agua",
+   "text": "Si no te prohibieron beber, toma agua antes. Las venas se llenan mejor."
+  },
+  {
+   "title": "Calor",
+   "text": "Con las manos calientes las venas se ven mejor. Si tienes las manos frías, caliéntalas."
+  }
+ ],
+ "bring": [
+  "Ropa con manga fácil de subir"
+ ],
+ "steps": [
+  "La enfermera elige una vena, normalmente en la mano o el antebrazo",
+  "Ponen una liga más arriba y limpian la piel",
+  "Meten la aguja con el tubito; es un piquete breve",
+  "Sacan la aguja y el tubito se queda en la vena",
+  "Tapan el catéter con un tapón y lo pegan con cinta"
+ ],
+ "feel": [
+  "El piquete se siente como cuando te sacan sangre",
+  "Después casi no sientes el catéter",
+  "Cuando ponen el medicamento, a veces se siente frío en el brazo"
+ ],
+ "after": [
+  "No mojes el catéter y no lo jales",
+  "Puedes usar el brazo, pero no lo dobles mucho si el catéter está en el pliegue",
+  "Normalmente el catéter se deja hasta 3 o 4 días; luego se cambia o se quita",
+  "Quitarlo es rápido y casi no duele; ponen un algodón en el lugar"
+ ],
+ "red_flags": [
+  "Dolor, hinchazón o enrojecimiento alrededor del catéter o a lo largo de la vena: avísale de inmediato a la enfermera",
+  "El suero se va debajo de la piel y el brazo se hincha: pide que detengan el suero",
+  "Fiebre o escalofríos: avísale al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿La aguja se queda en la vena?",
+   "a": "No. La aguja se quita de inmediato; en la vena solo queda un tubito de plástico suave."
+  },
+  {
+   "q": "¿Cuánto tiempo puedo tener el catéter?",
+   "a": "Normalmente hasta 3 o 4 días. Si hay dolor o enrojecimiento, se quita antes."
+  }
+ ],
+ "reminders": []
+}

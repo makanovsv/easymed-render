@@ -1,0 +1,68 @@
+{
+ "title": "Densitometría ósea",
+ "also": [
+  "densitometría",
+  "DEXA",
+  "estudio de densidad de los huesos",
+  "prueba de osteoporosis"
+ ],
+ "what": "Un tipo especial de rayos X que mide qué tan densos son los huesos. La radiación es muy poca.",
+ "why": "Para buscar osteoporosis: en mujeres después de la menopausia, después de fracturas con golpes pequeños, o si tomas hormonas por mucho tiempo.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si en la última semana te hicieron un estudio con contraste o con material radiactivo",
+  "Si te operaron la columna o tienes piezas de metal",
+  "Qué medicamentos para los huesos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Calcio",
+   "text": "Normalmente te piden no tomar suplementos de calcio 24 horas antes. Pregunta en tu clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Puedes comer como siempre."
+  },
+  {
+   "title": "Ropa",
+   "text": "Sin metal: cierres, botones, hebillas ni varillas en el brasier. Mejor deja las joyas en casa."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus densitometrías anteriores, para comparar"
+ ],
+ "steps": [
+  "Te quitas las cosas con metal y te acuestas boca arriba en la mesa",
+  "Te ponen las piernas sobre un soporte para enderezar la espalda baja",
+  "Encima de ti pasa despacio el brazo del aparato",
+  "Normalmente revisan la espalda baja y la cadera, a veces el antebrazo",
+  "Tienes que estar quieto unos minutos"
+ ],
+ "feel": [
+  "Nada; solo tienes que no moverte"
+ ],
+ "after": [
+  "Puedes volver a tus cosas de inmediato",
+  "Normalmente te dan el resultado el mismo día",
+  "Qué significan las cifras te lo explica el médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Es peligrosa la densitometría?",
+   "a": "La radiación es muy poca, menos que en una radiografía normal de tórax."
+  },
+  {
+   "q": "¿Cada cuánto hay que hacer la densitometría?",
+   "a": "Normalmente no más de una vez cada 1 o 2 años. El médico decide cuándo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu densitometría. Normalmente hoy no se toman suplementos de calcio; pregunta en tu clínica. Vístete sin metal."
+  }
+ ]
+}

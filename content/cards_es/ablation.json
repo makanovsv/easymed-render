@@ -1,0 +1,88 @@
+{
+ "title": "Ablación por radiofrecuencia del corazón",
+ "also": [
+  "ablación cardiaca",
+  "ablación con catéter",
+  "ablación de arritmia",
+  "quemar el foco de la arritmia"
+ ],
+ "what": "Por un vaso de la ingle llevan unos tubos delgados hasta el corazón. El médico encuentra la zona que causa la falla del ritmo y la cauteriza. No hay cortes en el pecho.",
+ "why": "Cuando hay alteraciones del ritmo del corazón y los medicamentos no ayudan, caen mal, o cuando la ablación es la mejor opción para tu caso.",
+ "duration": "el procedimiento suele durar de 1 a 4 horas; en el hospital, normalmente de 1 a 3 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y los de la arritmia. El médico te dice cuáles dejar y cuándo",
+  "Si tienes alergia al yodo, al medio de contraste o a medicamentos",
+  "Enfermedades de los riñones o diabetes",
+  "Si estás embarazada o podrías estarlo",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis, electrocardiograma, ultrasonido del corazón y a veces Holter o tomografía del corazón. La clínica te da la lista."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos por tu cuenta. El médico te dirá antes cuáles tomar y cuáles saltarte."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Zona de la ingle",
+   "text": "A veces te piden rasurar el vello de la ingle. Pregunta en tu clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de tus estudios",
+  "Todos tus electrocardiogramas, sobre todo los de cuando tuviste crisis",
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital para 1 a 3 días"
+ ],
+ "steps": [
+  "Te acuestas en la mesa y te pegan sensores en el pecho",
+  "Te ponen un catéter en la vena y un calmante, a veces anestesia general",
+  "Te adormecen la ingle con una inyección",
+  "Por un vaso llevan tubos delgados al corazón, guiados con rayos X",
+  "El médico estudia el ritmo y a veces provoca la arritmia a propósito",
+  "La zona encontrada se cauteriza con corriente de alta frecuencia",
+  "Retiran los tubos y te ponen un vendaje apretado en la ingle"
+ ],
+ "feel": [
+  "La inyección para el dolor en la ingle arde un poco",
+  "Puedes sentir el corazón acelerado cuando provocan la arritmia",
+  "Al cauterizar, puede haber ardor o presión en el pecho. Díselo al médico",
+  "Después tienes que estar acostado varias horas sin doblar la pierna"
+ ],
+ "after": [
+  "Normalmente estás acostado derecho unas horas y luego ya te puedes levantar",
+  "Un moretón en la ingle es común y no es peligroso",
+  "Por una semana más o menos, no cargues cosas pesadas ni hagas deporte",
+  "Las primeras semanas a veces hay latidos irregulares. Díselo al médico",
+  "Después del procedimiento, toma los medicamentos tal como te indicó el médico"
+ ],
+ "red_flags": [
+  "Sangre en el sitio de la punción o una bola en la ingle que crece: presiona y llama a emergencias",
+  "Dolor en el pecho, falta de aire o desmayo",
+  "La pierna se pone fría, pálida o dormida",
+  "Debilidad en un brazo o una pierna, o dificultad para hablar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La ablación es una cirugía del corazón?",
+   "a": "Es un procedimiento por un vaso, sin cortes en el pecho. Normalmente se hace con anestesia local y un calmante."
+  },
+  {
+   "q": "¿La arritmia se quita para siempre con la ablación?",
+   "a": "Muchas veces sí, pero depende del tipo de arritmia. A veces se necesita repetirla. El médico te explica tu caso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu ablación. Junta tu identificación, tus electrocardiogramas y la lista de medicamentos. Come y toma agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

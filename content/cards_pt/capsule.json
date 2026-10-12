@@ -1,0 +1,87 @@
+{
+ "title": "Endoscopia por cápsula",
+ "also": [
+  "cápsula endoscópica",
+  "cápsula com câmera",
+  "exame do intestino com cápsula"
+ ],
+ "what": "Você engole uma cápsula do tamanho de um comprimido grande. Dentro dela há uma câmera que filma o intestino por dentro enquanto a cápsula passa por ele.",
+ "why": "Para examinar o intestino delgado, onde a endoscopia digestiva alta e a colonoscopia não chegam. Por exemplo, em sangramento escondido ou anemia sem causa clara.",
+ "duration": "engolir a cápsula leva um minuto, e a gravação dura cerca de 8 a 12 horas",
+ "tell_doctor": [
+  "Se você tem dificuldade para engolir",
+  "Se já fez cirurgia na barriga, teve obstrução intestinal ou estreitamento do intestino",
+  "Se você tem marca-passo",
+  "Todos os remédios, principalmente os de ferro. O médico diz o que suspender e quando",
+  "Gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Na véspera",
+   "text": "Normalmente, no dia anterior, comida leve, e à tarde só líquidos, sem verduras com casca, sementes e frutinhas com caroço."
+  },
+  {
+   "title": "Limpeza",
+   "text": "Muitas vezes receitam um preparo para limpar o intestino, como antes da colonoscopia. Tome conforme a orientação da clínica."
+  },
+  {
+   "title": "Jejum",
+   "text": "Normalmente nada de comida de 10 a 12 horas antes do exame. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa folgada de algodão: vão colar sensores na barriga ou colocar um cinto com o gravador."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos de endoscopias e colonoscopias anteriores",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Colam sensores na barriga ou colocam um cinto",
+  "Prendem um pequeno gravador no cinto",
+  "Você engole a cápsula com água",
+  "Você pode ir para casa ou ficar na clínica, conforme as regras da clínica",
+  "Água pura normalmente pode depois de 2 horas, e comida leve depois de 4 horas",
+  "À noite ou depois de 8 a 12 horas, você devolve o gravador"
+ ],
+ "feel": [
+  "Engolir a cápsula é como engolir um comprimido grande",
+  "Dentro do corpo, você não vai senti-la"
+ ],
+ "after": [
+  "A cápsula sai sozinha com as fezes, normalmente em 1 a 3 dias. Não precisa pegá-la, ela é descartável",
+  "Enquanto a cápsula não sair, não pode fazer ressonância",
+  "Não chegue perto de ímãs fortes nem de transmissores de rádio enquanto a gravação estiver rolando",
+  "O resultado sai normalmente em alguns dias. O médico analisa milhares de imagens"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, estufamento, vômito",
+  "Gases e fezes não saem, principalmente se a cápsula ainda não saiu"
+ ],
+ "faq": [
+  {
+   "q": "O que fazer com a cápsula depois que ela sai?",
+   "a": "Nada. Ela é descartável, não precisa pegá-la. Se tiver dúvida se ela já saiu, avise o médico."
+  },
+  {
+   "q": "A cápsula pode ficar presa?",
+   "a": "É raro. Acontece mais quando há estreitamento do intestino. Por isso é importante contar antes ao médico sobre cirurgias e doenças do intestino."
+  },
+  {
+   "q": "A cápsula substitui a colonoscopia?",
+   "a": "Normalmente não. A cápsula vê principalmente o intestino delgado e não consegue tirar um pedacinho de tecido para análise."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem endoscopia por cápsula. Hoje, comida leve, e o preparo conforme a orientação da clínica."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "A partir de agora, normalmente não se come até o exame. Confirme o horário na orientação da clínica."
+  }
+ ]
+}

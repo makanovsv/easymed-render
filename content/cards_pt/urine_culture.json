@@ -1,0 +1,70 @@
+{
+ "title": "Urocultura",
+ "also": [
+  "cultura de urina",
+  "urocultura com antibiograma",
+  "exame de cultura de urina"
+ ],
+ "what": "A urina é colocada num meio de cultura para ver se crescem micróbios. Se crescerem, testam quais antibióticos funcionam contra eles.",
+ "why": "Em caso de ardor e vontade frequente de urinar, suspeita de infecção nos rins ou na bexiga, na gravidez, ou para controle depois do tratamento.",
+ "duration": "a coleta leva poucos minutos; o resultado normalmente sai em 3 a 7 dias",
+ "tell_doctor": [
+  "Se tomou antibiótico nas últimas 2 semanas, porque isso pode alterar o resultado",
+  "Gravidez",
+  "Se está menstruada agora"
+ ],
+ "prepare": [
+  {
+   "title": "Antibióticos",
+   "text": "Normalmente a urocultura é feita antes de começar o antibiótico. Se você já está tomando, avise o médico, e ele decide."
+  },
+  {
+   "title": "Frasco",
+   "text": "Pegue um frasco estéril na farmácia ou na clínica. Não abra antes da hora e não toque na parte de dentro."
+  },
+  {
+   "title": "Horário",
+   "text": "O melhor é a primeira urina da manhã. Normalmente ela precisa chegar ao laboratório em 1 a 2 horas. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "O frasco com a urina",
+  "Pedido médico"
+ ],
+ "steps": [
+  "De manhã, lave as mãos e a parte íntima com água, sem antisséptico",
+  "Mulheres: tapem a entrada da vagina com um algodão",
+  "O primeiro jato, pequeno, vai para o vaso",
+  "O jato do meio vai para o frasco, sem encostar nas bordas",
+  "O resto vai para o vaso",
+  "Feche bem a tampa e identifique o frasco"
+ ],
+ "feel": [
+  "Nada desagradável. É uma coleta de urina comum"
+ ],
+ "after": [
+  "Leve o frasco ao laboratório o quanto antes",
+  "Até a entrega, guarde em lugar fresco, sem congelar",
+  "Mostre ao médico o resultado com o antibiograma"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus com calafrios e dor na lombar",
+  "Sangue na urina, dor forte, a urina não sai"
+ ],
+ "faq": [
+  {
+   "q": "Por que coletar o jato do meio?",
+   "a": "O primeiro jato leva micróbios da pele. O jato do meio é mais limpo, e o resultado fica mais certo."
+  },
+  {
+   "q": "Posso fazer urocultura tomando antibiótico?",
+   "a": "Pode, mas o resultado pode sair bom sem ser verdade. Conte ao médico que você está tomando."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã de manhã você tem urocultura. Separe o frasco estéril e não abra antes da hora."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Hearing test (audiometry)",
+ "also": [
+  "hearing test",
+  "audiogram",
+  "pure tone audiometry",
+  "check my hearing"
+ ],
+ "what": "You wear headphones, listen to quiet sounds of different pitches, and give a sign when you hear them. This makes a chart of your hearing.",
+ "why": "For hearing loss, noise or ringing in the ears, before fitting a hearing aid, or for work checkups if you work in noise.",
+ "duration": "usually 15 to 30 minutes",
+ "tell_doctor": [
+  "If you recently had a cold, an ear infection, or a blocked ear",
+  "If you work in noise",
+  "If you have earwax buildup or had ear surgery"
+ ],
+ "prepare": [
+  {
+   "title": "Quiet",
+   "text": "For 24 hours before the test, avoid loud music and noise. Your hearing can drop for a while."
+  },
+  {
+   "title": "Ears",
+   "text": "Do not push cotton swabs deep into your ears. If there is a wax plug, the doctor will remove it first."
+  },
+  {
+   "title": "Food",
+   "text": "No special preparation."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past audiograms, if you have them",
+  "Your hearing aid, if you wear one"
+ ],
+ "steps": [
+  "The doctor looks in your ears",
+  "You sit in a quiet booth and put on headphones",
+  "Quiet beeps play, in one ear and then the other",
+  "When you hear one, you press a button or raise your hand",
+  "Sometimes a small vibrating device is put behind your ear and the test is repeated",
+  "Sometimes you are asked to repeat words"
+ ],
+ "feel": [
+  "Nothing hurts",
+  "The quietest sounds are barely heard. Answer even if you are not sure"
+ ],
+ "after": [
+  "The result is a hearing chart, usually given right away",
+  "An ENT doctor will explain what it means"
+ ],
+ "red_flags": [
+  "Hearing suddenly lost in one ear over hours or a day: see a doctor the same day"
+ ],
+ "faq": [
+  {
+   "q": "Can I check my hearing online?",
+   "a": "An online test gives only a rough idea. Audiometry in a quiet booth gives the exact picture."
+  },
+  {
+   "q": "Why is sudden hearing loss urgent?",
+   "a": "Treatment works better if it starts in the first days. Do not wait for it to pass on its own."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Hearing test tomorrow. Today, no loud music and no headphones at full volume."
+  }
+ ]
+}

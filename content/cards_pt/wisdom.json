@@ -1,0 +1,83 @@
+{
+ "title": "Extração do dente do siso",
+ "also": [
+  "tirar o siso",
+  "extração de siso incluso",
+  "extração de dente complicada"
+ ],
+ "what": "O cirurgião-dentista tira o último dente da arcada, o siso. Normalmente com anestesia local. Se o dente está dentro do osso, faz um pequeno corte na gengiva.",
+ "why": "Quando o dente nasce torto, não nasceu, empurra o dente vizinho, a gengiva em cima dele inflama, ou ele está destruído.",
+ "duration": "normalmente de 20 a 60 minutos",
+ "tell_doctor": [
+  "Remédios que afinam o sangue",
+  "Diabetes, doenças do coração",
+  "Alergia a anestésicos e antibióticos",
+  "Gravidez",
+  "Se agora há inflamação, inchaço ou dificuldade para abrir a boca"
+ ],
+ "prepare": [
+  {
+   "title": "Radiografia",
+   "text": "Antes da extração, fazem uma radiografia, às vezes uma tomografia, para ver as raízes e o nervo."
+  },
+  {
+   "title": "Comida",
+   "text": "Coma de 1 a 2 horas antes da consulta, porque depois da extração não pode comer por algumas horas."
+  },
+  {
+   "title": "Álcool e cigarro",
+   "text": "Nada de álcool nas 24 horas antes. É melhor parar de fumar antes, porque o cigarro atrapalha a cicatrização."
+  },
+  {
+   "title": "Depois",
+   "text": "Planeje 1 a 2 dias tranquilos, porque pode haver inchaço."
+  }
+ ],
+ "bring": [
+  "Radiografia do dente",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O dentista olha a radiografia e explica o plano",
+  "Aplicam a anestesia, e a bochecha e a língua ficam dormentes",
+  "Se for preciso, fazem um corte na gengiva e tiram um pouco de osso",
+  "Às vezes o dente é dividido em partes, para sair mais fácil",
+  "O buraco é lavado e, se for preciso, levam pontos",
+  "Colocam uma gaze, e você precisa morder"
+ ],
+ "feel": [
+  "Pressão, vibração e barulhos são normais. Não deve doer",
+  "Se doer, avise o dentista, e ele aplica mais anestesia",
+  "A boca fica aberta muito tempo. Pode pedir uma pausa"
+ ],
+ "after": [
+  "Mantenha a gaze por 20 a 30 minutos",
+  "Gelo na bochecha nas primeiras horas, de 10 a 15 minutos, com intervalos",
+  "Não coma por 2 a 3 horas. No primeiro dia, nada quente, sem canudo e sem cigarro",
+  "Não faça bochechos fortes, porque o coágulo precisa ficar no buraco",
+  "Inchaço e dor por 3 a 5 dias são normais. Remédio para dor, conforme o dentista orientar",
+  "Os pontos são tirados em cerca de 1 semana, se não forem absorvíveis"
+ ],
+ "red_flags": [
+  "O sangramento não para por mais de 1 hora",
+  "Dificuldade para engolir ou respirar, inchaço que cresce rápido: ligue para a emergência",
+  "A dor piora depois do 3º dia, com febre ou mau cheiro no buraco",
+  "A dormência no lábio ou na língua não passa no dia seguinte"
+ ],
+ "faq": [
+  {
+   "q": "Precisa tirar o siso se ele não dói?",
+   "a": "Nem sempre. Se o dente nasce reto e não atrapalha, muitas vezes ele fica. Quem decide é o dentista, pela radiografia."
+  },
+  {
+   "q": "Quanto tempo dói depois de tirar o siso?",
+   "a": "Normalmente de 3 a 5 dias. O inchaço é maior no 2º dia. Depois melhora."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você vai tirar o siso. Nada de álcool, leve a radiografia. Coma antes da consulta."
+  }
+ ]
+}

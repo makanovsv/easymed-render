@@ -1,0 +1,65 @@
+{
+ "title": "Monitoreo de presión de 24 horas (MAPA)",
+ "also": [
+  "MAPA",
+  "Holter de presión",
+  "monitoreo ambulatorio de presión arterial"
+ ],
+ "what": "Te ponen un brazalete en el brazo con un aparato pequeño en la cintura. Durante un día entero mide solo tu presión, de día y de noche.",
+ "why": "Para saber tu presión real en la vida diaria, revisar si funcionan los medicamentos, o si la presión sube y baja o solo sube en el consultorio.",
+ "duration": "normalmente llevas el aparato 24 horas",
+ "tell_doctor": [
+  "Qué medicamentos para la presión tomas y a qué hora. Normalmente no se suspenden; el médico decide",
+  "Si antes te salieron muchos moretones por el brazalete",
+  "Si te operaron un brazo o tienes una fístula para diálisis"
+ ],
+ "prepare": [
+  {
+   "title": "Ropa",
+   "text": "Una camisa o playera holgada de manga ancha. El brazalete va debajo de la ropa."
+  },
+  {
+   "title": "Baño",
+   "text": "Báñate antes: con el aparato no te puedes bañar durante un día."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Tómalos como siempre, salvo que el médico te diga otra cosa."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de tus medicamentos y a qué hora los tomas"
+ ],
+ "steps": [
+  "Te ponen el brazalete en el brazo y el aparato en la cintura",
+  "Te enseñan cómo llenar un diario",
+  "De día el aparato infla el brazalete cada 15 a 30 minutos más o menos; de noche, menos seguido",
+  "Cuando mida, detente, baja el brazo y no lo muevas",
+  "En el diario anotas: sueño, comidas, esfuerzo, medicamentos y si te sientes mal",
+  "Al día siguiente devuelves el aparato"
+ ],
+ "feel": [
+  "El brazalete aprieta el brazo, como cuando te toman la presión",
+  "De noche las mediciones te pueden despertar. Es normal"
+ ],
+ "after": [
+  "Puede quedar el brazo un poco rojo; se quita solo",
+  "Normalmente te dan la interpretación en 1 o 2 días",
+  "Haz tu vida normal. Así el resultado será real"
+ ],
+ "red_flags": [
+  "Si tu presión está muy alta y además tienes dolor de cabeza fuerte, dolor en el pecho, debilidad en un brazo o pierna, o dificultad para hablar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo dormir con el aparato de presión?",
+   "a": "Sí, tienes que hacerlo. Las cifras de la noche son una de las razones principales del estudio."
+  },
+  {
+   "q": "¿Qué hago si el brazalete se resbala?",
+   "a": "Acomódalo como te enseñaron en el consultorio y anota la hora en el diario."
+  }
+ ],
+ "reminders": []
+}

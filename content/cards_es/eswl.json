@@ -1,0 +1,85 @@
+{
+ "title": "Litotricia: romper piedras del riñón",
+ "also": [
+  "litotricia",
+  "litotricia extracorpórea",
+  "romper cálculos renales",
+  "bombardeo de piedras"
+ ],
+ "what": "La piedra del riñón o del uréter se rompe con ondas de choque desde afuera, a través de la piel. No hay cortes. Los pedacitos salen después con la orina.",
+ "why": "Si tienes piedras pequeñas que no salen solas o que causan dolor.",
+ "duration": "el procedimiento suele durar de 30 a 60 minutos; muchas veces te vas a casa el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dice cuáles dejar y cuándo",
+  "Si estás embarazada: en el embarazo no se hace",
+  "Si tienes marcapasos",
+  "Si tienes alergias",
+  "Si ahora tienes fiebre o el dolor aumentó"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre y orina, y ultrasonido o tomografía. La clínica te da la lista. Normalmente primero se trata cualquier infección de orina."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes unas horas antes, sobre todo si te ponen medicamento para el dolor en la vena o anestesia. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Intestino",
+   "text": "A veces te recomiendan cenar ligero la noche anterior, sin alimentos que dan gases. Pregunta en tu clínica."
+  },
+  {
+   "title": "Transporte",
+   "text": "Ponte de acuerdo con alguien que te lleve a casa."
+  }
+ ],
+ "bring": [
+  "La orden médica y las imágenes de la piedra",
+  "Tus resultados de análisis",
+  "La lista de tus medicamentos",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te cambias de ropa y muchas veces te ponen un catéter en la vena",
+  "Te dan medicamento para el dolor o un sueño ligero",
+  "Te acuestas en la mesa y ubican la piedra con rayos X o ultrasonido",
+  "Pegan a la piel un cojín suave del aparato",
+  "El aparato manda golpes; se oyen chasquidos",
+  "Después descansas con vigilancia"
+ ],
+ "feel": [
+  "Los golpes se sienten como chasquidos o empujoncitos en la piel",
+  "Puede ser molesto; el medicamento para el dolor ayuda",
+  "Después, un moretón o dolor donde dieron los golpes"
+ ],
+ "after": [
+  "Toma más agua, si el médico no te dijo otra cosa",
+  "Por unos días la orina puede salir rosada",
+  "Los pedacitos salen con la orina en días o semanas; puede doler, como un cólico",
+  "A veces te piden colar la orina para entregar las piedras a analizar",
+  "En unas semanas, ultrasonido o radiografía de control"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 grados o escalofríos",
+  "Dolor fuerte que no se quita con analgésico",
+  "No sale la orina",
+  "Sangre roja con coágulos en la orina"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele romper las piedras con ondas de choque?",
+   "a": "Normalmente se aguanta: te dan medicamento para el dolor o un sueño ligero. Después puede doler cuando salen los pedacitos."
+  },
+  {
+   "q": "¿Todas las piedras se pueden romper desde afuera?",
+   "a": "No. Las piedras grandes y muy duras a veces se quitan de otra forma. El urólogo decide según las imágenes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu litotricia. Ponte de acuerdo con alguien que te lleve a casa. Come solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

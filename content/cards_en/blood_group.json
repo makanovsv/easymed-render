@@ -1,0 +1,63 @@
+{
+ "title": "Blood type and Rh factor",
+ "also": [
+  "blood type test",
+  "blood group test",
+  "Rh factor",
+  "what is my blood type"
+ ],
+ "what": "This test shows your blood type and Rh factor: positive or negative. Blood is taken from a vein or a finger.",
+ "why": "Before surgery, during pregnancy or when planning one, before a blood transfusion, and for medical records and documents.",
+ "duration": "taking the blood takes 1 to 3 minutes",
+ "tell_doctor": [
+  "If you have had a blood transfusion, especially recently",
+  "If you are pregnant",
+  "If your blood type was tested before, tell them the result"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no special preparation is needed. If you are having other tests at the same time, come fasting as your clinic says."
+  },
+  {
+   "title": "Water",
+   "text": "Drink a glass of plain water. This makes it easier to take blood."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID"
+ ],
+ "steps": [
+  "You are asked to sit down and say your full name, so the tube is labeled correctly",
+  "The nurse takes blood from a vein or a finger",
+  "A cotton ball is put on the spot",
+  "In the lab, the blood is mixed with special reagents to see the result"
+ ],
+ "feel": [
+  "A quick needle prick",
+  "Sometimes a small bruise stays after a vein draw"
+ ],
+ "after": [
+  "Press the cotton ball for a few minutes",
+  "You can go about your day right away",
+  "The result is usually ready the same day or the next day",
+  "Your blood type does not change in your lifetime. Keep the result"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can my blood type change?",
+   "a": "No. Blood type and Rh are set from birth and do not change. The exception is rare cases after a bone marrow transplant."
+  },
+  {
+   "q": "Why do pregnant women need to know their Rh factor?",
+   "a": "If the mother is Rh negative and the baby is Rh positive, special monitoring is needed. The doctor will tell you which tests come next."
+  },
+  {
+   "q": "Why is my blood type checked again before surgery?",
+   "a": "It is the safety rule. Before a transfusion, blood is always checked again, even if the type is known."
+  }
+ ],
+ "reminders": []
+}

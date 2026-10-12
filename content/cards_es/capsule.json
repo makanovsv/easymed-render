@@ -1,0 +1,87 @@
+{
+ "title": "Cápsula endoscópica",
+ "also": [
+  "cápsula endoscópica",
+  "videocápsula",
+  "cápsula con cámara"
+ ],
+ "what": "Te tragas una cápsula del tamaño de una pastilla grande. Tiene una cámara que graba el intestino por dentro mientras pasa por él.",
+ "why": "Para revisar el intestino delgado, donde no llegan la endoscopia ni la colonoscopia. Por ejemplo, si hay un sangrado escondido o anemia sin causa clara.",
+ "duration": "tragar la cápsula toma un minuto; la grabación dura unas 8 a 12 horas",
+ "tell_doctor": [
+  "Si te cuesta tragar",
+  "Si tuviste cirugías del abdomen, obstrucción intestinal o estrechamientos del intestino",
+  "Si tienes marcapasos",
+  "Todos tus medicamentos, sobre todo el hierro. El médico te dice cuáles dejar y cuándo",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Un día antes",
+   "text": "Normalmente un día antes comes ligero, y desde la tarde solo líquidos, sin verduras con cáscara, semillas ni frutas con semillitas."
+  },
+  {
+   "title": "Limpieza",
+   "text": "Muchas veces te dan un producto para limpiar el intestino, como antes de la colonoscopia. Tómalo según las instrucciones de la clínica."
+  },
+  {
+   "title": "Ayuno",
+   "text": "Normalmente no comes de 10 a 12 horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa holgada de algodón: te pegan sensores en el abdomen o te ponen un cinturón con una grabadora."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus resultados de endoscopias y colonoscopias anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te pegan sensores en el abdomen o te ponen un cinturón",
+  "En el cinturón cuelgan una grabadora pequeña",
+  "Te tragas la cápsula con agua",
+  "Puedes irte a casa o quedarte en la clínica, según sus reglas",
+  "Normalmente puedes tomar agua natural a las 2 horas, y comida ligera a las 4 horas",
+  "En la noche, o a las 8 a 12 horas, entregas la grabadora"
+ ],
+ "feel": [
+  "Tragar la cápsula es como tragar una pastilla grande",
+  "Por dentro no la vas a sentir"
+ ],
+ "after": [
+  "La cápsula sale sola con el excremento, normalmente en 1 a 3 días. No hay que buscarla: es desechable",
+  "Mientras no haya salido, no te pueden hacer resonancia magnética",
+  "Durante la grabación, no te acerques a imanes fuertes ni a transmisores de radio",
+  "El resultado suele estar en unos días: el médico revisa miles de imágenes"
+ ],
+ "red_flags": [
+  "Dolor fuerte de estómago, abdomen inflado o vómito",
+  "No puedes sacar gases ni ir al baño, sobre todo si la cápsula todavía no ha salido"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué hago con la cápsula cuando sale?",
+   "a": "Nada. Es desechable y no hay que buscarla. Si no estás seguro de que ya salió, díselo al médico."
+  },
+  {
+   "q": "¿Se puede atorar la cápsula?",
+   "a": "Rara vez. Pasa más si hay un estrechamiento del intestino. Por eso es importante decirle antes al médico tus cirugías y enfermedades del intestino."
+  },
+  {
+   "q": "¿La cápsula reemplaza la colonoscopia?",
+   "a": "Normalmente no. La cápsula revisa sobre todo el intestino delgado y no puede tomar muestras de tejido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cápsula endoscópica. Hoy come ligero y prepárate según las instrucciones de la clínica."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Desde ahora normalmente ya no se come hasta el estudio. Revisa la hora en las instrucciones de la clínica."
+  }
+ ]
+}

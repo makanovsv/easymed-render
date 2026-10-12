@@ -1,0 +1,62 @@
+{
+ "title": "Análisis de sangre para alergias",
+ "also": [
+  "panel de alergias",
+  "IgE específica",
+  "prueba de alergia en sangre",
+  "IgE total"
+ ],
+ "what": "Un análisis de sangre que busca anticuerpos contra distintas cosas que dan alergia: polen, polvo, pelo de animales, alimentos. No hacen falta pruebas en la piel.",
+ "why": "Cuando tienes escurrimiento nasal, estornudos, ronchas, comezón o tos que aparecen con ciertas cosas o en cierta temporada.",
+ "duration": "normalmente 5 minutos; la sangre se saca de la vena",
+ "tell_doctor": [
+  "A qué crees que reaccionas y cómo es la reacción",
+  "Qué medicamentos tomas",
+  "Si estás en tratamiento de alergia con inyecciones o gotas debajo de la lengua"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ir en ayunas estricto. Algunos laboratorios piden ir en la mañana, 3 o 4 horas después de comer. Pregunta en tu clínica."
+  },
+  {
+   "title": "Medicamentos para la alergia",
+   "text": "Normalmente no afectan el análisis de sangre, a diferencia de las pruebas en la piel. No los dejes por tu cuenta. Díselo al médico y él decide."
+  }
+ ],
+ "bring": [
+  "La orden médica con la lista de alérgenos, si el médico te la dio",
+  "Tus resultados anteriores de pruebas de alergia"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel y sacan sangre de la vena",
+  "Presionan el piquete con un algodón"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces después queda un pequeño moretón"
+ ],
+ "after": [
+  "Puedes comer y hacer tus cosas de inmediato",
+  "El resultado suele estar en unos días. Depende de cuántos alérgenos revisen",
+  "El resultado te lo explica el alergólogo: tener anticuerpos no siempre significa una alergia real"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo hacerme el análisis de alergia si estoy tomando pastillas para la alergia?",
+   "a": "Normalmente sí: casi no afectan el análisis de sangre. Son las pruebas en la piel las que necesitan una pausa."
+  },
+  {
+   "q": "Si el análisis encontró anticuerpos, ¿seguro tengo alergia?",
+   "a": "No siempre. El médico compara el resultado con lo que sientes. A veces hay anticuerpos pero no hay reacción."
+  },
+  {
+   "q": "¿Se le puede hacer el análisis de alergia a un niño?",
+   "a": "Sí, el análisis de sangre también sirve para niños. El médico dice qué alérgenos revisar."
+  }
+ ],
+ "reminders": []
+}

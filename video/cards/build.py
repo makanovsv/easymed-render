@@ -34,7 +34,7 @@ SCENE = {
     "endo_room": ["g_endo"], "proc_room": ["g_proc"], "dent_chair": ["g_dent"], "or_room": ["g_or", "g_ward"],
     "ward": ["g_ward"], "home": ["g_home"], "office": ["b_questionnaire"],
     "gyn_chair": ["g_gyn"], "swab": ["g_swab"], "eye_room": ["g_eye"], "ent_room": ["g_ent"], "uro_room": ["g_uro"],
-    "rehab_room": ["g_massage", "g_lfk"], "dent_xray": ["g_dent_xray", "g_dent"],
+    "rehab_room": ["g_massage", "g_lfk"], "dent_xray": ["g_dent_xray", "g_dent"], "cath_lab": ["g_cath", "g_ward"],
 }
 # карточка → своя основная картинка, если сцена общая
 OVERRIDE = {"us_thyroid": ["g_us_neck"], "fna_thyroid": ["g_us_neck"], "holter": ["g_holter", "g_ecg"],
@@ -165,6 +165,7 @@ def build(cid, lang):
     for f in ("package.json", "hyperframes.json"):
         shutil.copy(HERE.parent / "hf_draw" / f, P / f)
     shutil.copytree(FONTS, P / "assets/fonts")
+    shutil.copy(HERE / "gsap.min.js", P / "assets/gsap.min.js")
 
     chs = chapters(c, s, lang)
     lens, srt, t = [], [], COVER
@@ -216,7 +217,7 @@ def build(cid, lang):
     rtl = ' dir="rtl"' if lang == "ar" else ""
     doc = f"""<!doctype html><html lang="{lang}"{rtl}><head><meta charset="UTF-8"><meta name="viewport" content="width=1920, height=1080">
 <title>{e(c["title"])}</title>
-<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+<script src="assets/gsap.min.js"></script>
 <style>
 @font-face{{font-family:"ArialLocal";src:url("assets/fonts/ArialBold.ttf");font-weight:700}}
 *{{margin:0;padding:0;box-sizing:border-box}}

@@ -1,0 +1,91 @@
+{
+ "title": "Cirurgia de catarata",
+ "also": [
+  "facoemulsificação",
+  "troca do cristalino",
+  "faco",
+  "cirurgia do cristalino"
+ ],
+ "what": "Por um corte pequeno, o cirurgião tira o cristalino do olho, que ficou opaco, e coloca no lugar uma lente artificial. Normalmente o olho é anestesiado com colírio, e anestesia geral raramente é necessária.",
+ "why": "Quando o cristalino ficou opaco e a visão começou a atrapalhar a vida: é difícil ler, dirigir, tudo parece embaçado, a luz ofusca.",
+ "duration": "a cirurgia dura normalmente de 15 a 30 minutos, você fica algumas horas na clínica e normalmente vai para casa no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que fazer",
+  "Remédios para a próstata. Eles afetam a pupila durante a cirurgia",
+  "Diabetes, pressão alta, doenças do coração",
+  "Alergias, inclusive a colírios",
+  "Outras doenças dos olhos e cirurgias anteriores nos olhos"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes da cirurgia, o olho é medido em detalhe para escolher a lente. Exames de sangue e eletrocardiograma, a lista quem dá é a clínica."
+  },
+  {
+   "title": "Colírio",
+   "text": "Às vezes receitam colírio alguns dias antes. Pingue conforme a orientação do médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode tomar um café da manhã leve. Se houver sedação, nada de comida algumas horas antes. Confirme com a clínica."
+  },
+  {
+   "title": "No dia da cirurgia",
+   "text": "Lave o rosto e não use maquiagem nem creme no rosto."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados de exames",
+  "Documentos",
+  "Lista de remédios",
+  "Um acompanhante. Depois da cirurgia, não pode dirigir",
+  "Óculos escuros"
+ ],
+ "steps": [
+  "Pingam colírio para dilatar a pupila e anestesiar o olho",
+  "Na sala de cirurgia, cobrem o rosto com um pano estéril, e só o olho fica de fora",
+  "Seguram as pálpebras com cuidado, e você olha para a luz",
+  "Por um corte pequeno, o cirurgião quebra o cristalino opaco e o retira",
+  "No lugar, ele coloca uma lente artificial macia",
+  "O corte normalmente fecha sozinho, e colocam um curativo de proteção no olho"
+ ],
+ "feel": [
+  "Normalmente não dói. Pode haver sensação de pressão e de frio",
+  "Você vê luz e manchas, mas não os instrumentos",
+  "Depois, sensação de areia no olho e lacrimejamento por um ou dois dias"
+ ],
+ "after": [
+  "Colírio, exatamente como o médico orientar, normalmente por algumas semanas",
+  "Não esfregue nem aperte o olho",
+  "À noite, nos primeiros tempos, use o protetor de olho",
+  "Não levante peso e não se curve de repente, até o médico liberar",
+  "Nos primeiros dias, proteja o olho de água, sabonete e poeira",
+  "A revisão é normalmente no dia seguinte, e a visão melhora em alguns dias"
+ ],
+ "red_flags": [
+  "Dor forte no olho que não passa com analgésico",
+  "A visão caiu de repente",
+  "Vermelhidão ou inchaço aumentando, ou apareceu pus",
+  "Flashes de luz, muitas manchinhas ou uma sombra como uma cortina na frente do olho: procure o médico logo"
+ ],
+ "faq": [
+  {
+   "q": "Dói tirar a catarata?",
+   "a": "Normalmente não. O olho é anestesiado com colírio, e só se sente pressão."
+  },
+  {
+   "q": "Quando posso ver TV e ler?",
+   "a": "Normalmente já no dia seguinte, se o olho estiver confortável. As restrições o médico vai dizer."
+  },
+  {
+   "q": "A catarata pode voltar?",
+   "a": "A catarata em si, não. Mas às vezes, anos depois, a membrana atrás da lente fica opaca. Isso se resolve com laser em poucos minutos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem cirurgia no olho. Pingue o colírio conforme a orientação. Combine com um acompanhante: depois da cirurgia, não pode dirigir."
+  }
+ ]
+}

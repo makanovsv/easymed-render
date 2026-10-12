@@ -1,0 +1,84 @@
+{
+ "title": "Biópsia da próstata",
+ "also": [
+  "biópsia de próstata",
+  "biópsia prostática",
+  "biópsia transretal",
+  "biópsia transperineal"
+ ],
+ "what": "Com uma agulha fina, o médico retira alguns pedacinhos do tecido da próstata para estudar no microscópio. A agulha é guiada por ultrassom.",
+ "why": "Na maioria das vezes, quando o exame de PSA está alto ou há alterações no exame de toque ou na ressonância da próstata.",
+ "duration": "o procedimento dura normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Remédios que afinam o sangue e aspirina. O médico diz o que suspender e quando",
+  "Alergias, principalmente a antibióticos e anestésicos",
+  "Diabetes, doenças do coração",
+  "Se agora você está com febre ou infecção urinária",
+  "Se você tem válvulas cardíacas ou articulações artificiais"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente, antes da biópsia, você faz exame de urina e de sangue, às vezes ressonância. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Antibiótico",
+   "text": "Muitas vezes indicam um antibiótico para proteger contra infecção. Tome exatamente como o médico mandou."
+  },
+  {
+   "title": "Intestino",
+   "text": "Se a biópsia for feita pelo reto, muitas vezes é preciso fazer lavagem intestinal ou usar supositório. Confirme com a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode um café da manhã leve. Se houver sedação ou anestesia geral, fique algumas horas sem comer. O horário quem diz é a clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico e exames",
+  "Resultados do PSA e da ressonância da próstata",
+  "Lista de remédios",
+  "Um acompanhante, se houver sedação"
+ ],
+ "steps": [
+  "Você deita de lado com os joelhos no peito ou de costas com as pernas levantadas",
+  "Fazem a anestesia: local, com injeção, ou geral",
+  "Um aparelho fino de ultrassom é colocado no reto",
+  "Com a agulha, o médico retira alguns pedacinhos de tecido, pela parede do intestino ou pela pele do períneo",
+  "Cada coleta é um estalo curto do aparelho",
+  "O aparelho é retirado, e o local é limpo"
+ ],
+ "feel": [
+  "O aparelho no reto dá pressão e desconforto",
+  "Cada coleta é um estalo e uma picada rápida, normalmente suportável",
+  "Depois, pode ter uma dor puxando embaixo por um ou dois dias"
+ ],
+ "after": [
+  "Sangue na urina e nas fezes pode aparecer por alguns dias",
+  "Sangue no esperma pode aparecer por algumas semanas. Normalmente não é perigoso",
+  "Beba mais água nos primeiros dias",
+  "Não carregue peso nem faça esporte por alguns dias",
+  "O resultado sai normalmente em 1 a 2 semanas, e o médico vai explicar"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus ou calafrios: procure um médico na hora ou ligue para a emergência, pode ser infecção",
+  "Você não consegue urinar",
+  "Muito sangue ou coágulos na urina, sangramento pelo reto que não para"
+ ],
+ "faq": [
+  {
+   "q": "A biópsia da próstata dói?",
+   "a": "Normalmente é feita com anestesia. Você sente pressão e estalos, e a maioria das pessoas tolera bem."
+  },
+  {
+   "q": "Sangue no esperma depois da biópsia é normal?",
+   "a": "Sim, ele pode aparecer por algumas semanas. Se houver sangue com coágulos na urina, avise o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você faz biópsia da próstata. Comece o antibiótico e o preparo do intestino, se o médico indicou. Leve os exames e a ressonância."
+  }
+ ]
+}

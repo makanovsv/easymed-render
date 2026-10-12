@@ -1,0 +1,87 @@
+{
+ "title": "CT angiography",
+ "also": [
+  "CT angiogram",
+  "CTA scan",
+  "CT of blood vessels",
+  "coronary CT angiography"
+ ],
+ "what": "A CT scan of your blood vessels. Contrast dye is injected into a vein, and the machine takes pictures that show how blood flows through your vessels.",
+ "why": "To check the blood vessels of the heart, head, neck, lungs, legs, or the aorta: to find narrowing, a blockage, or a bulge.",
+ "duration": "usually 15 to 30 minutes with preparation; the scan itself takes a few minutes",
+ "tell_doctor": [
+  "Allergies to contrast dye, iodine, or any medicines",
+  "Kidney disease",
+  "Diabetes and your diabetes medicines. The doctor decides if anything needs to change",
+  "Thyroid disease",
+  "Pregnancy or breastfeeding",
+  "Asthma"
+ ],
+ "prepare": [
+  {
+   "title": "Blood test",
+   "text": "You are usually asked to do a creatinine test beforehand. This blood test shows how well your kidneys work."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no food for 2 to 4 hours before the scan. Your clinic will give you the exact time."
+  },
+  {
+   "title": "Water",
+   "text": "Plain water is usually fine, and even helpful. It helps the dye leave your body faster."
+  },
+  {
+   "title": "Heart",
+   "text": "If your heart vessels are checked, you are usually asked to skip coffee and strong tea that day. Sometimes you get a medicine to slow your pulse, so the pictures are clearer."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your creatinine test result",
+  "Past CT or MRI scans",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You take off metal items",
+  "A nurse puts a cannula into a vein in your arm",
+  "You lie down on the scanner table",
+  "Contrast dye is injected through the cannula",
+  "The table moves through the ring of the machine",
+  "You are asked to hold your breath for a few seconds and stay still"
+ ],
+ "feel": [
+  "When the dye goes in, you may feel a wave of warmth through your body",
+  "Sometimes it feels like you need to pee. This feeling passes quickly",
+  "You may have a metal taste in your mouth"
+ ],
+ "after": [
+  "After the scan, you are usually asked to wait 15 to 30 minutes, to make sure you have no reaction to the dye",
+  "The cannula is removed",
+  "Drink extra water that day, unless your doctor says otherwise",
+  "The report is usually ready within 1 to 2 days"
+ ],
+ "red_flags": [
+  "Rash, itching, a swollen face or lips, or trouble breathing: tell staff right away or call emergency services",
+  "Strong swelling, pain, or redness where the needle was"
+ ],
+ "faq": [
+  {
+   "q": "Is CT contrast dye dangerous?",
+   "a": "Most people handle it well. Allergy is rare, so it is important to tell your doctor about allergies and kidney disease beforehand."
+  },
+  {
+   "q": "How is CT angiography different from regular coronary angiography?",
+   "a": "In CT, a cannula goes only into a vein in your arm, and the machine takes the pictures. In coronary angiography, a thin tube is passed through an artery to the heart."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "CT angiography tomorrow. Bring your creatinine result, referral, and medicine list."
+  },
+  {
+   "hoursBefore": 4,
+   "text": "Usually no food from now until the CT scan. Plain water is fine. Follow the exact time your clinic gave you."
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "title": "Tratamiento de hemorroides (cirugía)",
+ "also": [
+  "cirugía de hemorroides",
+  "hemorroidectomía",
+  "ligadura de hemorroides",
+  "hemorroides con láser"
+ ],
+ "what": "El cirujano proctólogo quita o amarra las hemorroides crecidas. Hay varias formas: desde poner ligas sin anestesia general hasta una cirugía con anestesia.",
+ "why": "Cuando las hemorroides se salen, sangran o duelen mucho, y las pomadas, supositorios y la dieta ya no ayudan.",
+ "duration": "el procedimiento dura de 15 minutos a 1 hora; a veces te vas a casa el mismo día; después de una cirugía, normalmente de 1 a 3 días en el hospital",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dice cuáles dejar y cuándo",
+  "Si tienes alergias",
+  "Enfermedades del corazón o diabetes",
+  "Si tuviste problemas con la anestesia",
+  "Si sufres estreñimiento seguido"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del intestino. La clínica te da la lista."
+  },
+  {
+   "title": "Intestino",
+   "text": "Normalmente la noche anterior y en la mañana te pones un enema o tomas una solución, según te indique el médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Si habrá anestesia general o raquídea, normalmente no comes desde la noche anterior. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Si necesitas algo más fuerte que la anestesia local, hablará contigo el anestesiólogo."
+  }
+ ],
+ "bring": [
+  "La orden médica y tus resultados de análisis",
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Ropa interior cómoda y toallas sanitarias",
+  "Tus cosas para el hospital para 1 a 3 días"
+ ],
+ "steps": [
+  "Te cambias de ropa y, si hace falta, te ponen un catéter en la vena",
+  "Te ponen la anestesia que eligieron con el médico: local, en la espalda o general",
+  "Te acuestas boca arriba con las piernas levantadas, o de lado",
+  "El cirujano quita o amarra las hemorroides",
+  "Si hace falta, ponen en el ano una gasa con pomada",
+  "Te pasan al cuarto y te vigilan"
+ ],
+ "feel": [
+  "Durante el procedimiento no debe doler",
+  "Después hay dolor y ardor en el ano, sobre todo los primeros días; te dan analgésico",
+  "La primera ida al baño muchas veces duele. Es de esperarse",
+  "Después de las ligas puede haber sensación de presión 1 o 2 días"
+ ],
+ "after": [
+  "Es muy importante que el excremento salga suave: más agua y fibra, y laxante si el médico lo indica",
+  "Baños de asiento tibios y aseo después de cada ida al baño, según te diga el cirujano",
+  "Un poco de sangre en el papel las primeras 1 o 2 semanas puede pasar",
+  "Las primeras semanas no cargues cosas pesadas ni estés sentado mucho tiempo",
+  "Normalmente sana en 2 a 6 semanas, según el método"
+ ],
+ "red_flags": [
+  "Sangrado abundante o coágulos de sangre",
+  "No puedes orinar por más de 6 a 8 horas",
+  "Fiebre, escalofríos o dolor que aumenta mucho: ve al médico de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele después de la cirugía de hemorroides?",
+   "a": "Sí, los primeros días hay dolor, sobre todo al ir al baño. Se controla con analgésicos; el excremento suave y los baños de asiento ayudan a sanar."
+  },
+  {
+   "q": "¿Se pueden tratar las hemorroides sin cirugía?",
+   "a": "Al principio muchas veces sí: dieta, pomadas, ligas o escleroterapia. El proctólogo decide qué método te sirve después de revisarte."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu procedimiento de hemorroides. Revisa cómo limpiar el intestino y a qué hora es tu última comida."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Es hora de limpiar el intestino como te indicó la clínica. Si habrá anestesia general, normalmente no se come después de la medianoche."
+  }
+ ]
+}

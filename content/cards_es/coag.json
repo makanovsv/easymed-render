@@ -1,0 +1,74 @@
+{
+ "title": "Pruebas de coagulación",
+ "also": [
+  "pruebas de coagulación",
+  "tiempos de coagulación",
+  "INR",
+  "TTPa"
+ ],
+ "what": "Un análisis de sangre que muestra qué tan rápido se coagula la sangre. La sangre se saca de la vena.",
+ "why": "Antes de cirugías y del parto, si te salen moretones o sangras sin razón, para revisar los medicamentos que hacen la sangre más líquida, y en el embarazo.",
+ "duration": "sacar la sangre toma unos minutos; el resultado suele estar en 1 o 2 días",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida o aspirina: cambian el resultado",
+  "Si estás embarazada",
+  "Si antes tuviste coágulos o sangrados fuertes",
+  "Si te sientes mal cuando te sacan sangre o te has desmayado"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente se hace en ayunas, de 8 a 12 horas después de comer. Puedes tomar agua natural. Pregunta en tu clínica."
+  },
+  {
+   "title": "Un día antes",
+   "text": "No comas grasoso ni tomes alcohol. No fumes al menos una hora antes del análisis."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos. Si tomas medicamentos para la sangre, díselo al médico y él decide qué hacer."
+  },
+  {
+   "title": "Antes de la toma",
+   "text": "Siéntate tranquilo de 10 a 15 minutos, sin prisas."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de los medicamentos que tomas"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel y meten la aguja en la vena",
+  "Llenan uno o varios tubos con sangre",
+  "Sacan la aguja y presionan el piquete con un algodón"
+ ],
+ "feel": [
+  "Un piquete breve, como de mosquito",
+  "A veces te mareas un poco. Díselo a la enfermera"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos, sin doblar el brazo",
+  "A veces sale un moretón en el piquete y se quita solo",
+  "Puedes comer y volver a tus cosas de inmediato",
+  "El resultado te lo explica tu médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Las pruebas de coagulación son en ayunas?",
+   "a": "Normalmente sí, de 8 a 12 horas después de comer. Puedes tomar agua. La clínica te dice las reglas exactas."
+  },
+  {
+   "q": "¿Qué es el INR?",
+   "a": "Es un valor de la coagulación. Se revisa seguido en quienes toman medicamentos que hacen la sangre más líquida, para ajustar la dosis."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana son tus pruebas de coagulación. Normalmente son en ayunas: después de cenar no comas, solo agua. Sin alcohol ni comida grasosa."
+  }
+ ]
+}

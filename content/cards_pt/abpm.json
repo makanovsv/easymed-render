@@ -1,0 +1,65 @@
+{
+ "title": "MAPA: monitorização da pressão por 24 horas",
+ "also": [
+  "MAPA",
+  "pressão de 24 horas",
+  "monitorização da pressão arterial"
+ ],
+ "what": "Colocam uma braçadeira no braço e um pequeno aparelho na cintura. Durante um dia inteiro, ele mesmo mede a pressão, de dia e de noite.",
+ "why": "Para saber a sua pressão real na vida normal, ver se os remédios funcionam, se a pressão oscila ou se sobe só no consultório.",
+ "duration": "o aparelho fica com você normalmente por 24 horas",
+ "tell_doctor": [
+  "Quais remédios de pressão você toma e em que horário. Normalmente não são suspensos, quem decide é o médico",
+  "Se a braçadeira já deixou muitos roxos antes",
+  "Se você fez cirurgia em um dos braços ou tem fístula para hemodiálise"
+ ],
+ "prepare": [
+  {
+   "title": "Roupa",
+   "text": "Uma camisa ou camiseta folgada, de manga larga. A braçadeira fica por baixo da roupa."
+  },
+  {
+   "title": "Banho",
+   "text": "Tome banho antes: com o aparelho, não dá para tomar banho por 24 horas."
+  },
+  {
+   "title": "Remédios",
+   "text": "Tome como de costume, a menos que o médico diga outra coisa."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios e horários"
+ ],
+ "steps": [
+  "Colocam a braçadeira no braço e o aparelho na cintura",
+  "Mostram como preencher o diário",
+  "De dia, o aparelho enche a braçadeira mais ou menos a cada 15 a 30 minutos, à noite menos",
+  "Durante a medição, pare, abaixe o braço e não mexa nele",
+  "No diário, anote: sono, refeições, esforço, remédios, mal-estar",
+  "Depois de 24 horas, você devolve o aparelho"
+ ],
+ "feel": [
+  "A braçadeira aperta o braço, como em uma medição comum de pressão",
+  "À noite, as medições podem acordar você. Isso é normal"
+ ],
+ "after": [
+  "O braço pode ficar vermelho, e isso passa",
+  "O laudo sai normalmente em 1 a 2 dias",
+  "Leve a sua vida normal. Assim o resultado é fiel"
+ ],
+ "red_flags": [
+  "Pressão muito alta com dor de cabeça forte, dor no peito, fraqueza no braço ou na perna, ou fala enrolada: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso dormir com o aparelho do MAPA?",
+   "a": "Pode e deve. Os valores da noite são um dos principais motivos para fazer o exame."
+  },
+  {
+   "q": "O que fazer se a braçadeira escorregar?",
+   "a": "Ajuste do jeito que mostraram no consultório e anote o horário no diário."
+  }
+ ],
+ "reminders": []
+}

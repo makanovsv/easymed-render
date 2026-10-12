@@ -1,0 +1,85 @@
+{
+ "title": "Cirugía de miomas (miomectomía)",
+ "also": [
+  "miomectomía",
+  "quitar miomas",
+  "operación de miomas"
+ ],
+ "what": "El cirujano quita los miomas, bolitas benignas en la pared del útero, y conserva el útero. Lo más común es operar por piquetes en el abdomen o por la vagina, sin cortes.",
+ "why": "Si los miomas son grandes, hay reglas fuertes y largas, dolor, presión sobre la vejiga, o si planeas embarazarte.",
+ "duration": "la cirugía suele durar de 1 a 3 horas; en el hospital, normalmente de 1 a 5 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y las hormonas. El médico te dice cuáles dejar y cuándo",
+  "Si tienes alergias",
+  "Enfermedades del corazón, de los pulmones, diabetes o anemia",
+  "Si antes te operaron el abdomen",
+  "Si planeas embarazarte",
+  "Si tú o tus familiares tuvieron problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, exudados, electrocardiograma y ultrasonido. La clínica te da la lista."
+  },
+  {
+   "title": "Tipo de cirugía",
+   "text": "El médico te dice cómo quitarán los miomas: por piquetes, por la vagina o con un corte. Depende del tamaño y el lugar de los miomas."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía hablará contigo el anestesiólogo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. A veces se limpia el intestino un día antes, según las instrucciones de la clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica y tus resultados de análisis",
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Toallas sanitarias",
+  "Tus cosas para el hospital para varios días"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "En el quirófano, el anestesiólogo te pone la anestesia y te duermes",
+  "El cirujano quita los miomas con el método elegido",
+  "Cose la pared del útero",
+  "Despiertas en la sala de recuperación y luego te pasan a tu cuarto"
+ ],
+ "feel": [
+  "Después de la anestesia, sueño y a veces náuseas",
+  "Dolor en la parte baja del abdomen y en los piquetes; te dan analgésico",
+  "Después de la laparoscopia muchas veces duele el hombro por el gas; se quita en 1 o 2 días",
+  "Un poco de sangrado por unos días es normal"
+ ],
+ "after": [
+  "Normalmente te dejan levantarte y caminar el mismo día o al siguiente",
+  "No cargues cosas pesadas por varias semanas",
+  "Sin relaciones sexuales, vapor ni alberca; el médico te dice cuánto tiempo",
+  "Los miomas que quitaron se mandan a analizar. Revisa el resultado con el médico",
+  "Si planeas embarazarte, el médico te dice cuántos meses esperar"
+ ],
+ "red_flags": [
+  "Sangrado fuerte por la vagina",
+  "Fiebre de más de 38 grados o dolor de abdomen fuerte o que va en aumento",
+  "Enrojecimiento o pus en los puntos"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo embarazar después de quitar los miomas?",
+   "a": "Muchas veces sí; es uno de los objetivos de la cirugía. Normalmente se recomienda esperar unos meses para que sane la cicatriz del útero."
+  },
+  {
+   "q": "¿Pueden volver a salir los miomas?",
+   "a": "Sí, a veces salen nuevos. Por eso después de la cirugía hay que ir a revisiones regulares con el ginecólogo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Junta tus cosas, tu identificación y la lista de medicamentos. Come y toma agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

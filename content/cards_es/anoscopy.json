@@ -1,0 +1,77 @@
+{
+ "title": "Anoscopia y rectoscopia",
+ "also": [
+  "rectosigmoidoscopia",
+  "revisión del recto",
+  "anoscopio"
+ ],
+ "what": "El médico revisa el ano y el recto con un tubo pequeño con luz. Es una revisión corta, normalmente sin anestesia general.",
+ "why": "Si tienes sangre en el excremento, dolor o comezón en el ano, hemorroides, una fisura, o antes de una cirugía.",
+ "duration": "normalmente de 5 a 15 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si ahora tienes mucho dolor en el ano",
+  "Si tienes alergia a geles para el dolor",
+  "Si antes te operaron en esa zona"
+ ],
+ "prepare": [
+  {
+   "title": "Intestino",
+   "text": "Normalmente hay que limpiar el intestino: un enema o microenema en la noche y en la mañana. La clínica te dice cómo."
+  },
+  {
+   "title": "Solo anoscopia",
+   "text": "Para una revisión corta del ano a veces basta con ir al baño normal en la mañana. Pregunta en tu clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Una cena ligera la noche anterior. En la mañana puedes desayunar algo ligero, salvo que la clínica diga otra cosa."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus resultados anteriores, si los tienes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te quitas la ropa de la cintura para abajo",
+  "Te acuestas sobre el lado izquierdo con las piernas dobladas, o te pones en rodillas y codos",
+  "El médico primero revisa la zona y la explora con cuidado con un dedo",
+  "Mete un poco el tubo con gel",
+  "Revisa las paredes del intestino y saca el tubo"
+ ],
+ "feel": [
+  "Presión y ganas de ir al baño. Es normal",
+  "En la rectoscopia meten un poco de aire y puedes sentirte inflado",
+  "Si te duele, díselo al médico"
+ ],
+ "after": [
+  "Puedes comer y hacer tus cosas de inmediato",
+  "Un poco de sangre en el papel ese día puede pasar, sobre todo si tomaron una muestra",
+  "Normalmente el médico te dice el resultado en ese momento"
+ ],
+ "red_flags": [
+  "Sangrado fuerte o coágulos de sangre",
+  "Dolor fuerte de estómago o fiebre de más de 38 grados"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele la anoscopia?",
+   "a": "Normalmente no: es incómoda, pero se aguanta. Si hay fisura, el médico usa un gel para el dolor."
+  },
+  {
+   "q": "¿En qué se diferencia la rectoscopia de la colonoscopia?",
+   "a": "La rectoscopia revisa solo el recto y el inicio del sigmoides. La colonoscopia revisa todo el intestino grueso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu revisión del recto. En la noche limpia el intestino como te dijo la clínica y cena ligero."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "En la mañana limpia el intestino según te indicó la clínica. Lleva la orden médica y la lista de tus medicamentos."
+  }
+ ]
+}

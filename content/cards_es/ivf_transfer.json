@@ -1,0 +1,91 @@
+{
+ "title": "FIV: transferencia de embriones",
+ "also": [
+  "transferencia embrionaria",
+  "transferencia de embriones",
+  "transferencia de embriones congelados"
+ ],
+ "what": "El médico pone el embrión dentro del útero con un tubo delgado y suave. Es rápido, sin cortes y normalmente sin anestesia.",
+ "why": "Es la etapa clave de la fertilización in vitro: después de obtener y fecundar los óvulos, el embrión se pone en el útero para que se pueda implantar.",
+ "duration": "la transferencia suele durar de 5 a 15 minutos; en la clínica, más o menos de 1 a 2 horas",
+ "tell_doctor": [
+  "Todos los medicamentos y hormonas que usas",
+  "Si tienes dolor en la parte baja del abdomen, inflamación o manchado",
+  "Si tienes fiebre o gripa",
+  "Si tienes alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Hormonas",
+   "text": "Sigue con los medicamentos de apoyo tal como te indicó el médico. No cambies nada por tu cuenta."
+  },
+  {
+   "title": "Vejiga",
+   "text": "Muchas veces te piden llegar con la vejiga medio llena; así se ve mejor en el ultrasonido. La clínica te dice cuánta agua tomar."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes desayunar algo ligero. Si habrá sedación, pregunta cuánto tiempo no comer."
+  },
+  {
+   "title": "Ese día",
+   "text": "Sin perfume ni maquillaje de olor fuerte; ropa cómoda."
+  }
+ ],
+ "bring": [
+  "Una identificación y tu contrato",
+  "La orden médica y tus resultados de análisis",
+  "Tu plan de apoyo hormonal",
+  "Calcetines: en el consultorio puede hacer frío",
+  "Un acompañante, si quieres"
+ ],
+ "steps": [
+  "Te llaman al consultorio y confirman tu nombre y los datos del embrión",
+  "Te acuestas en la silla ginecológica",
+  "El médico pone el espejo, como en una revisión normal, y limpia el cuello del útero",
+  "El embriólogo le pasa el tubo delgado con el embrión",
+  "El médico lo lleva al útero con ultrasonido y deja ahí el embrión",
+  "Revisan el tubo al microscopio para confirmar que el embrión se quedó en el útero",
+  "Descansas acostada unos minutos y luego te puedes ir"
+ ],
+ "feel": [
+  "Normalmente se parece a una revisión ginecológica o a un Papanicolaou",
+  "A veces un cólico leve en la parte baja del abdomen",
+  "La vejiga llena es incómoda. Después puedes ir al baño de inmediato: el embrión no se sale"
+ ],
+ "after": [
+  "No hace falta reposo estricto en cama: vida normal y tranquila",
+  "Normalmente se recomienda evitar el vapor, la tina caliente y los esfuerzos pesados. Pregúntale al médico",
+  "Sigue el apoyo hormonal tal como te lo indicaron",
+  "El análisis de sangre de embarazo suele ser a los 9 a 14 días; la clínica te dice cuándo",
+  "Una prueba de casa antes de tiempo puede equivocarse"
+ ],
+ "red_flags": [
+  "Dolor fuerte de abdomen, sangrado abundante o fiebre: ve al médico de inmediato",
+  "El abdomen muy inflado, falta de aire, subir mucho de peso de golpe u orinar poco: ve al médico urgente o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Tengo que estar acostada después de la transferencia?",
+   "a": "No. Estar mucho tiempo en cama no aumenta la posibilidad de embarazo. Basta con llevar las cosas con calma."
+  },
+  {
+   "q": "¿Se puede salir el embrión si voy al baño?",
+   "a": "No. El embrión está dentro del útero y no tiene nada que ver con la vejiga."
+  },
+  {
+   "q": "¿Cuándo sabré si funcionó?",
+   "a": "Normalmente a los 9 a 14 días, con un análisis de sangre de hCG. Una prueba antes de tiempo muchas veces da un resultado equivocado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu transferencia de embriones. Sigue con las hormonas como te indicaron. Lleva tu identificación y calcetines."
+  },
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu transferencia. Si la clínica te lo pidió, toma agua para tener la vejiga medio llena."
+  }
+ ]
+}

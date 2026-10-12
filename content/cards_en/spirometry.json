@@ -1,0 +1,75 @@
+{
+ "title": "Spirometry",
+ "also": [
+  "spirometry",
+  "lung function test",
+  "breathing test"
+ ],
+ "what": "A test of how much air you breathe in and how fast you breathe out. You breathe into the tube of a machine. It is safe and has no needles.",
+ "why": "For cough, shortness of breath, or wheezing; to find or check asthma and chronic lung disease; before surgery and at health checkups.",
+ "duration": "usually 15 to 30 minutes, up to 45 minutes with an inhaler test",
+ "tell_doctor": [
+  "Which inhalers and lung medicines you use. Your doctor will say if you need to skip them before the test",
+  "If you recently had a heart attack, or eye, chest, or belly surgery",
+  "If you have a cold, a fever, or are coughing up blood now",
+  "Pregnancy"
+ ],
+ "prepare": [
+  {
+   "title": "Medicines",
+   "text": "Sometimes you are asked not to use your inhaler for a few hours before the test. Do this only if your doctor says so."
+  },
+  {
+   "title": "Smoking",
+   "text": "Do not smoke for at least 1 hour before the test."
+  },
+  {
+   "title": "Food and activity",
+   "text": "Do not eat a big meal for 2 hours before, and no coffee in the morning. Do not rush to the room. Sit for 15 minutes first."
+  },
+  {
+   "title": "Clothing",
+   "text": "Wear loose clothes. A tight waistband or belt makes it hard to breathe in deeply."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "The inhaler you use",
+  "Past spirometry results"
+ ],
+ "steps": [
+  "The nurse measures your height and weight. Normal values depend on them",
+  "You sit down and a clip is put on your nose",
+  "You seal your lips tightly around a disposable mouthpiece",
+  "You breathe calmly, then on command take the deepest breath you can",
+  "Then right away you breathe out as hard as you can, long, all the way",
+  "This is repeated 3 or 4 times to get the best result",
+  "Sometimes you inhale medicine from an inhaler and repeat the test after 15 to 20 minutes"
+ ],
+ "feel": [
+  "You need to try hard. The test depends on your effort",
+  "You may feel dizzy or want to cough. It passes in a minute, and you can rest between tries"
+ ],
+ "after": [
+  "You can go back to your day right away",
+  "The report is usually given right away or the same day",
+  "Your doctor will explain the result"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why is spirometry repeated several times?",
+   "a": "The result depends on how hard you breathe out. Several similar tries are needed for accurate data."
+  },
+  {
+   "q": "Why inhale medicine during the test?",
+   "a": "It is a check to see if breathing gets easier. It helps tell asthma apart from other lung diseases."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Spirometry tomorrow. Bring your inhaler. Skip it only if your doctor told you to."
+  }
+ ]
+}

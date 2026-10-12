@@ -1,0 +1,76 @@
+{
+ "title": "Espermatobioscopia",
+ "also": [
+  "espermatobioscopia",
+  "espermograma",
+  "análisis de semen",
+  "seminograma"
+ ],
+ "what": "Un análisis del semen al microscopio. Se revisa cuántos espermatozoides hay, cómo se mueven y su forma.",
+ "why": "Cuando la pareja no logra el embarazo, antes de una fertilización in vitro, en enfermedades del aparato reproductor masculino o después de cirugías.",
+ "duration": "tomar la muestra suele llevar de 10 a 20 minutos",
+ "tell_doctor": [
+  "Si en los últimos 2 o 3 meses tuviste fiebre de más de 38 grados: puede empeorar el resultado",
+  "Qué medicamentos, hormonas o suplementos tomas",
+  "Si tuviste cirugías o golpes en la ingle"
+ ],
+ "prepare": [
+  {
+   "title": "Abstinencia",
+   "text": "Normalmente de 2 a 7 días sin sexo ni eyacular. La clínica te dice el tiempo exacto."
+  },
+  {
+   "title": "Unos días antes",
+   "text": "Sin alcohol, vapor, sauna ni baños calientes. Mejor no acalorarte."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos por tu cuenta. Dile al médico qué tomas y él decide."
+  },
+  {
+   "title": "Dónde hacerlo",
+   "text": "Mejor en la clínica, en un cuarto privado. Si es en casa, necesitas un frasco estéril del laboratorio."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Tus resultados anteriores de espermatobioscopia"
+ ],
+ "steps": [
+  "Te dan un frasco estéril y te llevan a un cuarto privado",
+  "Lávate las manos y los genitales con jabón",
+  "La muestra se toma con masturbación, directo en el frasco",
+  "Se necesita toda la muestra, sobre todo la primera parte",
+  "Cierras el frasco y se lo das al personal"
+ ],
+ "feel": [
+  "Nada doloroso. Sentir pena es normal; el personal está acostumbrado"
+ ],
+ "after": [
+  "El resultado suele estar en 1 o 2 días",
+  "Un análisis puede salir peor por casualidad; muchas veces el médico pide repetirlo en 2 a 4 semanas",
+  "El resultado lo explica el urólogo o el andrólogo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo tomar la muestra en un condón?",
+   "a": "En un condón normal, no: tiene sustancias que dañan a los espermatozoides. El lubricante tampoco se puede usar."
+  },
+  {
+   "q": "¿Puedo tomar la muestra en casa?",
+   "a": "A veces sí. Hay que llevar el frasco al laboratorio en más o menos una hora, manteniéndolo tibio, pegado al cuerpo. Pregunta en tu clínica."
+  },
+  {
+   "q": "¿Cuántos días de abstinencia antes del análisis?",
+   "a": "Normalmente de 2 a 7 días. Muy poco o demasiado tiempo cambia el resultado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "En 3 días es tu espermatobioscopia. Sin vapor, sauna ni alcohol. Abstinencia según el tiempo que te dijo la clínica."
+  }
+ ]
+}

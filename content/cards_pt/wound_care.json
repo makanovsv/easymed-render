@@ -1,0 +1,75 @@
+{
+ "title": "Limpeza de ferimento e sutura",
+ "also": [
+  "sutura de corte",
+  "dar pontos",
+  "costurar um corte",
+  "limpeza cirúrgica de ferimento"
+ ],
+ "what": "O médico limpa o ferimento, tira a sujeira e o tecido machucado e, se for preciso, dá pontos com anestesia local.",
+ "why": "Em cortes, ferimentos rasgados ou perfurantes, mordidas, ou se o ferimento é fundo, largo, não para de sangrar ou está sujo.",
+ "duration": "normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Quando e com o que você se machucou",
+  "Quando tomou a vacina contra o tétano",
+  "Se foi mordida de animal: qual animal e onde ele está agora",
+  "Remédios que afinam o sangue",
+  "Alergia a anestésicos e antibióticos",
+  "Diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Parar o sangue",
+   "text": "Aperte o ferimento com um pano limpo ou uma gaze e segure por 10 a 15 minutos sem soltar."
+  },
+  {
+   "title": "O que não fazer",
+   "text": "Não coloque pós no ferimento, não passe pomada nem antisséptico colorido dentro. Não tire um objeto que ficou preso."
+  },
+  {
+   "title": "Não demore",
+   "text": "É melhor ir ao médico nas primeiras horas. Assim, normalmente dá para dar os pontos na hora."
+  }
+ ],
+ "bring": [
+  "Documentos",
+  "Carteira de vacinação, se tiver"
+ ],
+ "steps": [
+  "O médico examina o ferimento e testa os movimentos e a sensibilidade",
+  "Aplicam anestesia em volta do ferimento",
+  "O ferimento é lavado e limpo",
+  "Se for preciso, tiram as bordas machucadas",
+  "Fecham com pontos, fitas adesivas ou cola cirúrgica",
+  "Por cima, um curativo",
+  "Se for preciso, aplicam proteção contra o tétano, e depois de mordida encaminham para a vacina antirrábica"
+ ],
+ "feel": [
+  "As picadas da anestesia ardem por alguns segundos, depois o lugar fica dormente",
+  "Durante os pontos, você sente toques e puxões, sem dor forte",
+  "Quando a anestesia passar, o ferimento vai latejar. Remédios comuns para dor ajudam"
+ ],
+ "after": [
+  "Troque o curativo e molhe o ferimento só do jeito que o médico disse",
+  "Os pontos normalmente são tirados entre 5 e 14 dias: no rosto antes, nas articulações depois",
+  "Volte para os curativos nos dias marcados",
+  "Vai ficar uma pequena cicatriz, que clareia com o tempo"
+ ],
+ "red_flags": [
+  "O sangramento não para depois de 15 minutos apertando: ligue para a emergência",
+  "Vermelhidão que se espalha em volta do ferimento, pus, dor que aumenta, febre: sinais de infecção",
+  "Dormência, ou um dedo que não mexe abaixo do ferimento",
+  "Ferimento por mordida de animal: vá ao médico no mesmo dia"
+ ],
+ "faq": [
+  {
+   "q": "Depois de quantas horas não dá mais para dar pontos?",
+   "a": "Quanto antes, melhor. Normalmente nas primeiras 6 a 12 horas, no rosto até mais. Quem decide é o médico, depois de examinar."
+  },
+  {
+   "q": "Quando tiram os pontos?",
+   "a": "Normalmente entre 5 e 14 dias. No rosto antes, nos braços, nas pernas e sobre as articulações, depois."
+  }
+ ],
+ "reminders": []
+}

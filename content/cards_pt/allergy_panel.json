@@ -1,0 +1,62 @@
+{
+ "title": "Exame de sangue para alergias",
+ "also": [
+  "painel de alergia",
+  "IgE específica",
+  "exame de alergia",
+  "IgE total"
+ ],
+ "what": "Um exame de sangue que procura anticorpos contra vários alérgenos: pólen, poeira, pelo de animais, alimentos. Não é preciso fazer teste na pele.",
+ "why": "Para coriza, espirros, manchas na pele, coceira ou tosse que aparecem por causa de certas coisas ou em certa época do ano.",
+ "duration": "normalmente 5 minutos, o sangue é colhido da veia",
+ "tell_doctor": [
+  "Ao que você acha que reage e como é a reação",
+  "Quais remédios você toma",
+  "Se você faz tratamento de alergia com injeções ou gotas embaixo da língua"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de jejum total. Alguns laboratórios pedem para vir de manhã, 3 a 4 horas depois de comer. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios de alergia",
+   "text": "Normalmente não alteram o exame de sangue, ao contrário dos testes na pele. Não precisa suspender por conta própria. Avise o médico, e ele decide."
+  }
+ ],
+ "bring": [
+  "Pedido médico com a lista de alérgenos, se o médico deu",
+  "Resultados anteriores de exames de alergia"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele e colhem o sangue da veia",
+  "Apertam o local com um algodão"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes, fica um pequeno roxo depois"
+ ],
+ "after": [
+  "Pode comer e voltar às atividades normais logo depois",
+  "O resultado sai normalmente em alguns dias, depende do número de alérgenos",
+  "Quem explica o resultado é o alergista: ter anticorpos nem sempre significa alergia de verdade"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso fazer o exame de alergia tomando remédio para alergia?",
+   "a": "Normalmente sim: eles quase não alteram o exame de sangue. São os testes na pele que exigem pausa no remédio."
+  },
+  {
+   "q": "Se o exame achou anticorpos, é alergia com certeza?",
+   "a": "Nem sempre. O médico compara o resultado com o que você sente. Às vezes há anticorpos, mas não há reação."
+  },
+  {
+   "q": "Criança pode fazer o exame de alergia?",
+   "a": "Sim, o exame de sangue também serve para crianças. Quais alérgenos testar, o médico vai dizer."
+  }
+ ],
+ "reminders": []
+}

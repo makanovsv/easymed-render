@@ -1,0 +1,83 @@
+{
+ "title": "Circuncisión",
+ "also": [
+  "circuncisión",
+  "quitar el prepucio",
+  "operación de fimosis"
+ ],
+ "what": "El cirujano quita el prepucio, la piel que cubre la cabeza del pene. Los bordes de la piel se cosen con hilos que se absorben solos.",
+ "why": "Por razones médicas, como un prepucio estrecho o inflamaciones seguidas. También por tradición religiosa o familiar.",
+ "duration": "la cirugía suele durar de 20 a 40 minutos; normalmente te vas a casa el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida",
+  "Si tienes alergias, también a medicamentos para el dolor",
+  "Si en la familia hay problemas de coagulación de la sangre",
+  "Si tú, el niño o tus familiares tuvieron problemas con la anestesia",
+  "Si el niño tuvo gripa o fiebre hace poco"
+ ],
+ "prepare": [
+  {
+   "title": "Anestesia",
+   "text": "A los adultos normalmente se les pone anestesia local; a los niños, muchas veces anestesia general. Lo decide el médico."
+  },
+  {
+   "title": "Estudios",
+   "text": "Normalmente se piden análisis de sangre y a veces revisión del pediatra o del médico general. La clínica te da la lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Si habrá anestesia general, no comas ni bebas unas horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Higiene",
+   "text": "Báñate la noche anterior. Para el niño, lleva calzones holgados o pañales cómodos."
+  }
+ ],
+ "bring": [
+  "La orden médica y los análisis",
+  "Una identificación; para el niño, su acta de nacimiento",
+  "Ropa interior y ropa holgadas",
+  "El juguete favorito del niño"
+ ],
+ "steps": [
+  "A ti o al niño los cambian de ropa",
+  "Ponen la anestesia: una inyección en la base del pene o anestesia general",
+  "El cirujano quita el prepucio",
+  "Cose los bordes de la piel con hilos delgados que se absorben solos",
+  "Pone un vendaje",
+  "Te vigilan un rato y te mandan a casa"
+ ],
+ "feel": [
+  "Con anestesia local, un piquete y luego solo sientes que te tocan",
+  "Después de la cirugía hay ardor y dolor, sobre todo al orinar; te dan analgésico"
+ ],
+ "after": [
+  "La hinchazón y lo rojo suelen durar unos días. Es normal",
+  "Cuida la herida y el vendaje como te indique el médico",
+  "Los hilos suelen absorberse en 1 a 3 semanas",
+  "Usa ropa interior holgada, nada apretado",
+  "Los adultos, normalmente sin relaciones sexuales de 4 a 6 semanas. Pregúntale al médico"
+ ],
+ "red_flags": [
+  "Sangrado que no se detiene al presionar",
+  "No puedes orinar por más de 6 a 8 horas",
+  "Fiebre de más de 38 grados, o hinchazón, enrojecimiento o pus que aumentan",
+  "La cabeza del pene se puso oscura o morada: ve al médico de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿A qué edad es mejor hacer la circuncisión?",
+   "a": "Se hace a cualquier edad. El cirujano pediatra o el urólogo te dice la mejor edad y el tipo de anestesia."
+  },
+  {
+   "q": "¿Cuánto tarda en sanar la circuncisión?",
+   "a": "Normalmente de 2 a 3 semanas. La hinchazón baja en unos días y los hilos se absorben solos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la circuncisión. Lleva la identificación, los análisis y ropa interior holgada. Come y toma agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

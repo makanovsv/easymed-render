@@ -1,0 +1,86 @@
+{
+ "title": "Angiotomografia",
+ "also": [
+  "angiotomografia",
+  "tomografia dos vasos",
+  "angiotomografia de coronárias"
+ ],
+ "what": "Uma tomografia computadorizada dos vasos. Injetam contraste na veia, e o aparelho faz imagens que mostram o sangue passando pelos vasos.",
+ "why": "Para examinar os vasos do coração, da cabeça, do pescoço, dos pulmões, das pernas ou a aorta: achar estreitamento, entupimento ou dilatação.",
+ "duration": "normalmente de 15 a 30 minutos com o preparo, e as imagens em si levam poucos minutos",
+ "tell_doctor": [
+  "Alergia a contraste, iodo ou qualquer remédio",
+  "Doenças dos rins",
+  "Diabetes e os remédios que você toma para ela. O médico decide se precisa mudar algo",
+  "Doenças da tireoide",
+  "Gravidez ou amamentação",
+  "Asma"
+ ],
+ "prepare": [
+  {
+   "title": "Exame de sangue",
+   "text": "Normalmente pedem antes o exame de creatinina, um exame de sangue que mostra como os rins funcionam."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente, nada de comida de 2 a 4 horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Água",
+   "text": "Água pura normalmente pode, e até é bom beber, para o contraste sair mais rápido."
+  },
+  {
+   "title": "Coração",
+   "text": "Se o exame for dos vasos do coração, normalmente pedem para não tomar café nem chá forte nesse dia. Às vezes dão um remédio para baixar o pulso, e as imagens ficam mais nítidas."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exame de creatinina",
+  "Tomografias ou ressonâncias anteriores",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você tira os objetos de metal",
+  "A enfermeira coloca um cateter na veia do braço",
+  "Você deita na mesa do aparelho",
+  "Injetam o contraste pelo cateter",
+  "A mesa passa pelo anel do aparelho",
+  "Pedem para você prender a respiração por alguns segundos e não se mexer"
+ ],
+ "feel": [
+  "Quando o contraste entra, pode vir uma onda de calor pelo corpo",
+  "Às vezes dá a sensação de vontade de ir ao banheiro, e ela passa rápido",
+  "Pode ficar um gosto de metal na boca"
+ ],
+ "after": [
+  "Depois das imagens, normalmente pedem para você esperar de 15 a 30 minutos, para ter certeza de que não houve reação ao contraste",
+  "Tiram o cateter",
+  "Beba mais água nesse dia, se o médico não tiver limitado",
+  "O laudo normalmente fica pronto em 1 a 2 dias"
+ ],
+ "red_flags": [
+  "Manchas na pele, coceira, inchaço no rosto ou nos lábios, dificuldade para respirar: avise a equipe na hora ou ligue para a emergência",
+  "Inchaço forte, dor ou vermelhidão no local da picada"
+ ],
+ "faq": [
+  {
+   "q": "O contraste da tomografia é perigoso?",
+   "a": "Normalmente é bem tolerado. A alergia é rara, por isso é importante avisar o médico antes sobre alergias e doenças dos rins."
+  },
+  {
+   "q": "Qual a diferença entre angiotomografia e cateterismo?",
+   "a": "Na angiotomografia, o cateter fica só na veia do braço, e quem faz as imagens é o aparelho. No cateterismo, passam um tubo fino pela artéria até o coração."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a angiotomografia. Leve o exame de creatinina, o pedido médico e a lista de remédios."
+  },
+  {
+   "hoursBefore": 4,
+   "text": "Normalmente, a partir de agora não se come até a tomografia. Água pura pode. O horário exato é o que a clínica disse."
+  }
+ ]
+}

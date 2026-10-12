@@ -1,0 +1,58 @@
+{
+ "title": "Hemoglobina glucosilada (HbA1c)",
+ "also": [
+  "HbA1c",
+  "hemoglobina glicosilada",
+  "azúcar promedio de 3 meses"
+ ],
+ "what": "Un análisis de sangre que muestra el promedio de azúcar de los últimos 2 a 3 meses. Una subida de azúcar de un solo día casi no lo cambia.",
+ "why": "Para detectar diabetes o prediabetes, y para ver si funciona el tratamiento si ya tienes diabetes.",
+ "duration": "normalmente 5 minutos; la sangre se saca de la vena",
+ "tell_doctor": [
+  "Si tienes anemia o hace poco perdiste mucha sangre",
+  "Si en los últimos meses te hicieron una transfusión",
+  "Si estás embarazada",
+  "Enfermedades de los riñones o del hígado"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ir en ayunas: se puede hacer a cualquier hora. Si también te harás la glucosa, ve en la mañana en ayunas."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Toma tus medicamentos como siempre. Si tienes dudas, díselo al médico y él decide."
+  }
+ ],
+ "bring": [
+  "La orden médica, si la tienes",
+  "Tus resultados anteriores de este análisis, para comparar"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel y sacan sangre de la vena a un tubo",
+  "Presionan el piquete con un algodón"
+ ],
+ "feel": [
+  "Un piquete breve, como de mosquito",
+  "A veces después queda un pequeño moretón"
+ ],
+ "after": [
+  "Puedes comer y hacer tus cosas de inmediato",
+  "El resultado suele estar en 1 o 2 días",
+  "El resultado te lo explica el médico: lo compara con lo normal y con tus análisis anteriores"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿La hemoglobina glucosilada es en ayunas?",
+   "a": "Normalmente no. Muestra el azúcar de 2 a 3 meses, así que el desayuno casi no cambia el resultado."
+  },
+  {
+   "q": "¿Cada cuánto se hace este análisis si tengo diabetes?",
+   "a": "Normalmente cada 3 meses si están cambiando el tratamiento. Cuando el azúcar está estable, menos seguido. El médico te dice cada cuánto."
+  }
+ ],
+ "reminders": []
+}

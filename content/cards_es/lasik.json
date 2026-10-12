@@ -1,0 +1,92 @@
+{
+ "title": "Cirugía láser de la vista",
+ "also": [
+  "LASIK",
+  "cirugía láser de ojos",
+  "SMILE",
+  "PRK"
+ ],
+ "what": "El láser cambia la forma de la córnea, la parte transparente de enfrente del ojo. Después puedes ver bien sin lentes.",
+ "why": "Si tienes miopía, hipermetropía o astigmatismo y quieres dejar los lentes. No sirve para todos: el médico decide después de revisarte.",
+ "duration": "normalmente de 15 a 30 minutos para los dos ojos; el láser trabaja menos de un minuto",
+ "tell_doctor": [
+  "Qué lentes de contacto usas y desde cuándo",
+  "Todos tus medicamentos y enfermedades, sobre todo diabetes y enfermedades del tejido conectivo",
+  "Si tuviste golpes o cirugías en los ojos",
+  "Si tienes ojo seco",
+  "Si estás embarazada o das pecho"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Antes de la cirugía hay una revisión completa de los ojos. Muestra si se puede operar y qué método te sirve."
+  },
+  {
+   "title": "Lentes de contacto",
+   "text": "Hay que dejar de usarlos antes: los blandos normalmente de 1 a 2 semanas antes, los rígidos más tiempo. La clínica te dice cuánto."
+  },
+  {
+   "title": "El día de la cirugía",
+   "text": "Sin maquillaje, crema en la cara ni perfume. Puedes desayunar como siempre, salvo que la clínica diga otra cosa."
+  },
+  {
+   "title": "Transporte",
+   "text": "No puedes manejar después de la cirugía. Ponte de acuerdo con alguien que te lleve a casa."
+  }
+ ],
+ "bring": [
+  "Una identificación y la orden médica",
+  "Lentes de sol",
+  "Un acompañante que te lleve a casa"
+ ],
+ "steps": [
+  "Te ponen gotas para el dolor en los ojos",
+  "Sostienen los párpados con cuidado para que no parpadees",
+  "Ponen un anillo en el ojo; por unos segundos ves oscuro",
+  "Miras un punto de luz que parpadea",
+  "El láser trabaja unos segundos",
+  "Lavan el ojo, ponen gotas y luego hacen lo mismo con el otro ojo"
+ ],
+ "feel": [
+  "Normalmente no duele; solo sientes presión en el ojo",
+  "Puedes oír el clic del láser o sentir un olor. Es normal",
+  "Después de la cirugía, por unas horas: ardor, lágrimas y sensación de arena en los ojos"
+ ],
+ "after": [
+  "Al principio ves borroso; normalmente al día siguiente ya ves mucho mejor",
+  "No te talles los ojos; a veces se usa un protector para dormir",
+  "Las gotas, tal como te indique el médico",
+  "La revisión suele ser al día siguiente",
+  "Más o menos 1 o 2 semanas sin maquillaje, alberca ni vapor. El médico te dice los tiempos exactos"
+ ],
+ "red_flags": [
+  "Dolor en el ojo fuerte o que va en aumento",
+  "La vista empeoró de golpe",
+  "El ojo se puso muy rojo o sale pus",
+  "Un golpe o lesión en el ojo"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele la cirugía láser de la vista?",
+   "a": "Normalmente no: el ojo se adormece con gotas. Se siente presión, y después ardor por unas horas."
+  },
+  {
+   "q": "¿Cuándo puedo volver a trabajar en la computadora?",
+   "a": "Normalmente en unos días, pero depende del método. El médico te dice con exactitud."
+  },
+  {
+   "q": "¿Puede volver a bajar la vista?",
+   "a": "A veces, con el tiempo, la vista cambia un poco. Ayudan a mantener el resultado descansar la vista e ir a revisiones con el oftalmólogo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 168,
+   "text": "En una semana es tu cirugía láser de la vista. Pregunta en tu clínica cuándo dejar de usar lentes de contacto."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía láser. Sin maquillaje ni crema en la cara. Ponte de acuerdo con quien te llevará a casa."
+  }
+ ]
+}

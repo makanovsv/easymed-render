@@ -1,0 +1,77 @@
+{
+ "title": "Anuscopia e retossigmoidoscopia",
+ "also": [
+  "retossigmoidoscopia",
+  "exame do reto",
+  "anuscópio"
+ ],
+ "what": "O médico examina o ânus e o reto com um pequeno tubo com luz. É um exame rápido, normalmente sem anestesia.",
+ "why": "Em caso de sangue nas fezes, dor ou coceira no ânus, hemorroidas, fissura, ou antes de uma cirurgia.",
+ "duration": "normalmente de 5 a 15 minutos",
+ "tell_doctor": [
+  "Remédios que afinam o sangue",
+  "Se agora você sente dor forte no ânus",
+  "Alergia a géis anestésicos",
+  "Se já fez cirurgia nessa região"
+ ],
+ "prepare": [
+  {
+   "title": "Intestino",
+   "text": "Normalmente é preciso limpar o intestino: lavagem ou minilavagem à noite e de manhã. Como fazer, a clínica vai dizer."
+  },
+  {
+   "title": "Só anuscopia",
+   "text": "Para um exame rápido do ânus, às vezes basta evacuar normalmente de manhã. Confirme com a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Um jantar leve na véspera. De manhã, pode tomar um café da manhã leve, se a clínica não disser outra coisa."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos anteriores, se tiver",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você tira a roupa da cintura para baixo",
+  "Deita do lado esquerdo com as pernas encolhidas, ou fica de joelhos e cotovelos apoiados",
+  "O médico primeiro examina a região e confere com cuidado com o dedo",
+  "Ele introduz um pouco o tubo lubrificado com gel",
+  "Examina as paredes do intestino e retira o tubo"
+ ],
+ "feel": [
+  "Pressão e vontade de ir ao banheiro. Isso é normal",
+  "Na retossigmoidoscopia, colocam um pouco de ar no intestino, e pode dar sensação de estufamento",
+  "Se doer, avise o médico"
+ ],
+ "after": [
+  "Pode comer e voltar às atividades normais logo depois",
+  "Um pouco de sangue no papel no mesmo dia pode acontecer, principalmente se tiraram um pedacinho de tecido",
+  "O médico normalmente diz o resultado na hora"
+ ],
+ "red_flags": [
+  "Sangramento forte ou coágulos de sangue",
+  "Dor forte na barriga, febre acima de 38 graus"
+ ],
+ "faq": [
+  {
+   "q": "Dói fazer anuscopia?",
+   "a": "Normalmente não: é desconfortável, mas dá para aguentar. Se houver fissura, o médico usa um gel anestésico."
+  },
+  {
+   "q": "Qual a diferença entre retossigmoidoscopia e colonoscopia?",
+   "a": "A retossigmoidoscopia vê só o reto e o começo do sigmoide. A colonoscopia vê todo o intestino grosso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame do reto. À noite, faça a limpeza do intestino como a clínica orientou e um jantar leve."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "De manhã, faça a limpeza do intestino conforme a clínica orientou. Leve o pedido médico e a lista de remédios."
+  }
+ ]
+}

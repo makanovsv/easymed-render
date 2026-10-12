@@ -1,0 +1,90 @@
+{
+ "title": "Implante de marca-passo",
+ "also": [
+  "implante de marca-passo",
+  "marca-passo cardíaco",
+  "colocar marca-passo"
+ ],
+ "what": "O médico coloca um aparelho pequeno embaixo da pele, abaixo da clavícula. Dele saem fios finos que vão pela veia até o coração e ajudam o coração a bater no ritmo certo.",
+ "why": "Quando o coração bate devagar demais ou com pausas: em caso de desmaios, fraqueza forte ou tontura por causa de alteração no ritmo.",
+ "duration": "o procedimento dura normalmente de 1 a 2 horas, e a internação normalmente de 1 a 3 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergias, principalmente a iodo, antibióticos, anestésicos",
+  "Diabetes, doenças dos rins",
+  "Com que mão você escreve e trabalha. O aparelho normalmente é colocado do outro lado",
+  "Se já fez cirurgias ou teve problemas de pele na região da clavícula"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes ecocardiograma. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente, nada de comida 6 horas antes do procedimento. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Pele",
+   "text": "Tome banho na véspera. Se tiver muitos pelos no peito, podem raspar no hospital."
+  },
+  {
+   "title": "Coisas",
+   "text": "Roupa confortável que abre na frente, chinelos, carregador do celular e os remédios que você toma sempre."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados de exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para 1 a 3 dias de internação"
+ ],
+ "steps": [
+  "Você troca de roupa, colocam um cateter na sua veia e ligam o monitor",
+  "Dão um remédio para relaxar, às vezes para dormir. Isso varia",
+  "Aplicam anestesia abaixo da clavícula",
+  "O médico faz um corte pequeno e passa os fios pela veia até o coração, com ajuda do raio-x",
+  "Os fios são ligados ao aparelho, e o funcionamento é testado",
+  "O aparelho é colocado embaixo da pele, e o corte é fechado com pontos"
+ ],
+ "feel": [
+  "A injeção de anestesia e uma pressão na região da clavícula",
+  "Às vezes dá para sentir quando testam o ritmo do coração",
+  "Depois do procedimento, dor e inchaço no corte por alguns dias"
+ ],
+ "after": [
+  "Nas primeiras semanas, normalmente não se pode levantar o braço desse lado acima do ombro nem carregar peso. O prazo quem diz é o médico",
+  "Mantenha o corte seco e limpo até liberarem o banho",
+  "Você vai receber o cartão do marca-passo. Leve sempre com você",
+  "Mantenha o celular a 15 centímetros do aparelho e não guarde no bolso da camisa",
+  "No aeroporto, mostre o cartão",
+  "Antes de uma ressonância, sempre avise sobre o marca-passo",
+  "A primeira revisão do aparelho é normalmente depois de algumas semanas, e depois de forma regular"
+ ],
+ "red_flags": [
+  "Desmaio, tontura forte, falta de ar ou dor no peito: ligue para a emergência",
+  "Sangue, pus, inchaço ou vermelhidão aumentando no corte",
+  "Febre acima de 38 graus",
+  "Soluço que não passa ou tremores nos músculos do peito"
+ ],
+ "faq": [
+  {
+   "q": "Posso usar o celular com marca-passo?",
+   "a": "Sim. Só mantenha o celular a 15 centímetros do aparelho e fale com ele no ouvido do outro lado."
+  },
+  {
+   "q": "Posso fazer ressonância com marca-passo?",
+   "a": "Só se o aparelho for compatível com ressonância, e só com a decisão do cardiologista. Sempre avise sobre o marca-passo."
+  },
+  {
+   "q": "Quanto tempo dura um marca-passo?",
+   "a": "Normalmente de 7 a 12 anos. Depois trocam o aparelho, e os fios na maioria das vezes ficam."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você coloca o marca-passo. Separe suas coisas, documentos e a lista de remédios. Comida e água só até o horário que a clínica informou."
+  }
+ ]
+}

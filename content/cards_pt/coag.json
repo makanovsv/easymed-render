@@ -1,0 +1,74 @@
+{
+ "title": "Coagulograma",
+ "also": [
+  "exame de coagulação",
+  "coagulograma",
+  "TP e INR",
+  "TTPa"
+ ],
+ "what": "Um exame de sangue que mostra com que rapidez o sangue coagula. O sangue é tirado da veia.",
+ "why": "Antes de cirurgias e do parto, quando aparecem manchas roxas ou sangramentos sem motivo, para controlar remédios que afinam o sangue, e na gravidez.",
+ "duration": "a coleta de sangue leva poucos minutos, e o resultado sai normalmente em 1 a 2 dias",
+ "tell_doctor": [
+  "Remédios que afinam o sangue e aspirina, porque eles mudam o resultado",
+  "Se você está grávida",
+  "Se já teve trombose ou sangramentos fortes",
+  "Se você passa mal na coleta de sangue ou já desmaiou"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente o exame é feito em jejum, de 8 a 12 horas depois da última refeição. Pode beber água pura. Confirme com a clínica."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Não coma comida gordurosa e não beba álcool. Não fume pelo menos 1 hora antes do exame."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda os seus remédios. Se você toma remédio para o sangue, avise o médico, e ele decide o que fazer."
+  },
+  {
+   "title": "Antes da coleta",
+   "text": "Fique sentado com calma de 10 a 15 minutos, sem pressa."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista dos remédios que você toma"
+ ],
+ "steps": [
+  "Você senta, e o braço fica apoiado",
+  "Apertam um garrote acima do cotovelo",
+  "Limpam a pele e colocam a agulha na veia",
+  "O sangue é colhido em um ou mais tubinhos",
+  "Tiram a agulha e apertam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como de mosquito",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos e não dobre o braço",
+  "Pode aparecer uma mancha roxa no local, e ela some sozinha",
+  "Você pode comer e voltar às suas atividades logo em seguida",
+  "O resultado, o seu médico vai explicar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Precisa estar em jejum para o coagulograma?",
+   "a": "Normalmente sim, de 8 a 12 horas depois da última refeição. Pode beber água. As regras exatas, a clínica vai dizer."
+  },
+  {
+   "q": "O que é o INR?",
+   "a": "É um índice da coagulação. Costuma ser medido em quem toma remédio que afina o sangue, para acertar a dose."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o coagulograma. Normalmente é em jejum: depois do jantar não coma, só beba água. Sem álcool e sem comida gordurosa."
+  }
+ ]
+}

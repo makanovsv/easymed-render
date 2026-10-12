@@ -1,0 +1,68 @@
+{
+ "title": "Retirada de DIU",
+ "also": [
+  "tirar o DIU",
+  "remover o DIU",
+  "retirada do dispositivo intrauterino"
+ ],
+ "what": "O ginecologista tira o DIU do útero puxando pelos fios. Normalmente é rápido e feito no próprio consultório.",
+ "why": "Quando o prazo do DIU acabou, quando você planeja engravidar, por efeitos colaterais ou porque você quer.",
+ "duration": "o procedimento leva de 1 a 5 minutos",
+ "tell_doctor": [
+  "Se planeja engravidar",
+  "A data da última menstruação",
+  "Se teve relação sem proteção nos últimos 7 dias",
+  "Se tem dor, corrimento diferente ou febre"
+ ],
+ "prepare": [
+  {
+   "title": "Proteção",
+   "text": "Se não planeja engravidar e quer um novo DIU ou outro método, converse com o médico antes. Normalmente recomendam usar proteção nos 7 dias antes da retirada."
+  },
+  {
+   "title": "Quando",
+   "text": "Muitas vezes o DIU é retirado durante a menstruação, mas pode ser em outros dias. Confirme com a clínica."
+  },
+  {
+   "title": "Antes da consulta",
+   "text": "Tome banho e leve um absorvente."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Um absorvente",
+  "Informações sobre o DIU: quando e qual foi colocado, se souber"
+ ],
+ "steps": [
+  "Você deita na cadeira ginecológica",
+  "O médico coloca o espéculo, um instrumento que abre a vagina",
+  "Encontra os fios do DIU",
+  "Com um instrumento especial, puxa os fios com cuidado, e o DIU sai",
+  "O médico confere se o DIU saiu inteiro"
+ ],
+ "feel": [
+  "Uma dor rápida em cólica, como na menstruação",
+  "Normalmente passa em alguns minutos"
+ ],
+ "after": [
+  "Um pouco de sangramento por 1 a 2 dias é normal",
+  "A gravidez pode acontecer já neste ciclo",
+  "Se for colocar um DIU novo, muitas vezes isso é feito na mesma consulta",
+  "Se os fios não aparecem, o médico pode pedir um ultrassom"
+ ],
+ "red_flags": [
+  "Sangramento forte: mais de um absorvente por hora",
+  "Febre acima de 38 graus, dor forte no pé da barriga"
+ ],
+ "faq": [
+  {
+   "q": "Tirar o DIU dói?",
+   "a": "Normalmente incomoda, mas é rápido: alguns segundos de dor em cólica."
+  },
+  {
+   "q": "Quando posso engravidar depois de tirar o DIU?",
+   "a": "Normalmente logo, já no próximo ciclo. Se não quer engravidar, pense na proteção antes."
+  }
+ ],
+ "reminders": []
+}

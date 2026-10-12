@@ -1,0 +1,76 @@
+{
+ "title": "Exame de hormônios sexuais",
+ "also": [
+  "FSH e LH",
+  "estradiol",
+  "progesterona",
+  "testosterona",
+  "prolactina",
+  "perfil hormonal"
+ ],
+ "what": "Um exame de sangue comum, tirado da veia. Mostra o nível dos hormônios que cuidam do ciclo, da gravidez e da saúde masculina.",
+ "why": "Em caso de alterações do ciclo, planejamento de gravidez, infertilidade, problemas de ereção, acne ou excesso de pelos.",
+ "duration": "a coleta de sangue leva poucos minutos",
+ "tell_doctor": [
+  "Em que dia do ciclo você está",
+  "Se toma pílula, anticoncepcional ou outros hormônios",
+  "Gravidez ou amamentação",
+  "Todos os remédios e suplementos que você toma sempre"
+ ],
+ "prepare": [
+  {
+   "title": "Dia do ciclo",
+   "text": "Para as mulheres, muitos hormônios são medidos em dias certos do ciclo. Muitas vezes do 2º ao 5º dia, e a progesterona cerca de 1 semana antes da menstruação. O dia exato o médico vai dizer."
+  },
+  {
+   "title": "Horário",
+   "text": "Normalmente de manhã, de preferência em jejum: depois do jantar, só água. Para homens, a testosterona costuma ser medida antes das 11 da manhã."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Nas 24 horas antes, evite exercício, álcool e relação sexual, porque isso pode alterar o resultado."
+  },
+  {
+   "title": "Antes do exame",
+   "text": "Não fume por pelo menos 1 hora. Fique sentado tranquilo de 10 a 15 minutos, porque o estresse afeta a prolactina."
+  }
+ ],
+ "bring": [
+  "Pedido médico com a lista de hormônios",
+  "A data de início da última menstruação",
+  "Exames anteriores, para comparar"
+ ],
+ "steps": [
+  "Você senta e apoia o braço",
+  "Amarram um garrote acima do cotovelo",
+  "Limpam a pele com álcool e tiram sangue da veia para os tubos",
+  "Pressionam um algodão no local ou colocam um curativo"
+ ],
+ "feel": [
+  "Uma picada rápida e uma leve pressão do garrote",
+  "Se você fica tonto ao ver sangue, avise antes, e vão deixar você deitado"
+ ],
+ "after": [
+  "Mantenha o algodão pressionado por alguns minutos, para não ficar roxo",
+  "Você já pode comer e voltar às suas atividades",
+  "O resultado normalmente sai em 1 a 3 dias",
+  "Só o médico avalia o resultado, porque os valores normais dependem do dia do ciclo e da idade"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Em que dia do ciclo fazer o exame de hormônios?",
+   "a": "Na maioria das vezes, do 2º ao 5º dia. A progesterona, cerca de 1 semana antes da menstruação. Mas quem marca o dia é o médico, conforme o seu caso."
+  },
+  {
+   "q": "Pode fazer exame de hormônios menstruada?",
+   "a": "Sim. Muitos hormônios são medidos justamente nos primeiros dias do ciclo, quando a menstruação ainda está descendo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem exame de hormônios. Hoje, sem exercício, sem álcool e sem relação sexual. De manhã, em jejum, só água."
+  }
+ ]
+}

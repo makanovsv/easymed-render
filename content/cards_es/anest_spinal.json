@@ -1,0 +1,85 @@
+{
+ "title": "Anestesia raquídea",
+ "also": [
+  "raquia",
+  "bloqueo raquídeo",
+  "inyección en la espalda",
+  "anestesia regional"
+ ],
+ "what": "El anestesiólogo te inyecta en la parte baja de la espalda un medicamento en el líquido que rodea los nervios. La mitad de abajo del cuerpo se duerme por un tiempo, y tú sigues despierto o adormilado.",
+ "why": "Para cirugías de la cintura para abajo: cesárea, cirugías de piernas, articulaciones, hernia u órganos urinarios.",
+ "duration": "la inyección toma unos minutos; lo dormido suele durar de 2 a 4 horas",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dice cuándo dejarlos",
+  "Si te salen moretones fácil o sangras mucho tiempo",
+  "Cirugías o lesiones de la columna",
+  "Inflamación o ronchas en la piel de la espalda baja",
+  "Si tienes alergia a los anestésicos",
+  "Si ahora tienes fiebre o alguna infección"
+ ],
+ "prepare": [
+  {
+   "title": "Plática",
+   "text": "El anestesiólogo te explicará antes el método y responderá tus dudas. Puedes pedir un sueño ligero durante la cirugía."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los dejes por tu cuenta. Dile al médico qué tomas y él decide."
+  }
+ ],
+ "bring": [
+  "Tus resultados de análisis",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena y un suero",
+  "Te sientas y arqueas la espalda con la barbilla al pecho, o te acuestas de lado hecho bolita",
+  "Limpian la piel de la espalda baja con antiséptico",
+  "Primero te adormecen la piel con un piquete pequeño",
+  "Luego, con una aguja delgada, ponen el medicamento por debajo de donde termina la médula",
+  "Te acuestan y en unos minutos las piernas se sienten calientes y dormidas",
+  "El médico revisa que esté bien dormido y empieza la cirugía"
+ ],
+ "feel": [
+  "Un piquete pequeño en la piel y luego presión en la espalda",
+  "A veces sientes como un toque que baja a la pierna. Díselo al médico, pero no te muevas",
+  "Las piernas se sienten calientes, pesadas y no se mueven",
+  "Durante la cirugía puedes sentir que te tocan y presionan, pero no dolor"
+ ],
+ "after": [
+  "La sensibilidad regresa poco a poco en unas horas",
+  "La primera vez, levántate solo con ayuda del personal",
+  "A veces cuesta más orinar que de costumbre. Díselo a la enfermera",
+  "A veces da dolor de cabeza que empeora de pie y mejora acostado. Avísale al médico, tiene tratamiento"
+ ],
+ "red_flags": [
+  "Dolor fuerte en la espalda, fiebre o enrojecimiento donde te inyectaron",
+  "Debilidad o adormecimiento nuevo en las piernas cuando ya se pasó la anestesia",
+  "No puedes aguantar la orina o el excremento",
+  "Dolor de cabeza fuerte que no se quita: avísale al médico de inmediato; si ya estás en casa, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele la inyección en la espalda?",
+   "a": "Normalmente no: primero adormecen la piel. Se siente un piquete breve y presión."
+  },
+  {
+   "q": "¿Me puedo quedar paralizado con la anestesia raquídea?",
+   "a": "Las complicaciones graves son muy raras. La aguja entra por debajo de donde termina la médula."
+  },
+  {
+   "q": "¿Voy a ver la cirugía?",
+   "a": "No. Ponen una tela delante de ti. Si quieres, el anestesiólogo te da un medicamento para dormir un poco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía con anestesia raquídea. Come y toma agua solo hasta la hora que te dijo la clínica. Lleva la lista de tus medicamentos."
+  }
+ ]
+}

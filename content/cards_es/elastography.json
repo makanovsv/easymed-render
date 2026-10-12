@@ -1,0 +1,69 @@
+{
+ "title": "Elastografía hepática (FibroScan)",
+ "also": [
+  "FibroScan",
+  "elastografía de hígado",
+  "elastografía hepática"
+ ],
+ "what": "Un aparato mide con ultrasonido qué tan duro está el hígado. Sin piquetes y sin radiación.",
+ "why": "Para saber si el hígado está endurecido, es decir, si hay fibrosis: en hepatitis, hígado graso, consumo frecuente de alcohol o cambios en los análisis.",
+ "duration": "normalmente de 10 a 15 minutos",
+ "tell_doctor": [
+  "Si tienes marcapasos u otro aparato implantado",
+  "Si estás embarazada",
+  "Si hace poco tuviste una crisis de hepatitis o tomaste mucho alcohol: puede subir el resultado",
+  "Tus resultados anteriores de elastografía"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente 3 horas sin comer: después de comer el hígado se pone más duro por un rato. Pregunta la hora exacta en tu clínica."
+  },
+  {
+   "title": "Agua",
+   "text": "Normalmente puedes tomar un poco de agua natural."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir fácil el lado derecho."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus resultados anteriores de ultrasonido, elastografía y análisis del hígado",
+  "Una toallita para quitarte el gel"
+ ],
+ "steps": [
+  "Te acuestas boca arriba",
+  "Pones el brazo derecho detrás de la cabeza; así se abren los espacios entre las costillas",
+  "Ponen un poco de gel en tu costado derecho",
+  "Colocan el sensor entre las costillas",
+  "El aparato hace unas 10 mediciones; quédate tranquilo"
+ ],
+ "feel": [
+  "Cada medición se siente como un golpecito suave",
+  "No duele"
+ ],
+ "after": [
+  "Te limpian el gel y puedes comer de inmediato",
+  "Normalmente te dan el resultado en ese momento, en números",
+  "Qué significan las cifras te lo explica tu médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿El FibroScan es lo mismo que el ultrasonido de hígado?",
+   "a": "No. El ultrasonido muestra cómo se ve el hígado. La elastografía mide qué tan duro está. Muchas veces se hacen juntos."
+  },
+  {
+   "q": "¿Por qué hay que ir en ayunas al FibroScan?",
+   "a": "Después de comer el hígado se endurece un rato y el resultado puede salir más alto. Por eso normalmente son 3 horas sin comer."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "En 3 horas es tu elastografía de hígado. Desde ahora no comas. Puedes tomar un poco de agua."
+  }
+ ]
+}

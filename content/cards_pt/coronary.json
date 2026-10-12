@@ -1,0 +1,85 @@
+{
+ "title": "Cateterismo cardíaco",
+ "also": [
+  "cineangiocoronariografia",
+  "coronariografia",
+  "exame dos vasos do coração"
+ ],
+ "what": "Por uma artéria do punho ou da virilha, passam um tubo fino até o coração. Injetam contraste e veem os vasos do coração no raio-X. Você fica acordado, com anestesia local.",
+ "why": "Em caso de dor no peito, depois de um infarto, quando outros exames mostraram problema nos vasos do coração, e antes de cirurgia do coração.",
+ "duration": "normalmente de 30 a 60 minutos; no hospital, de algumas horas até 1 a 2 dias",
+ "tell_doctor": [
+  "Alergia a contraste, iodo ou remédios",
+  "Doenças dos rins",
+  "Diabetes e quais remédios você toma para ela. O médico vai dizer o que fazer",
+  "Remédios que afinam o sangue. Não suspenda por conta própria",
+  "Se existe chance de gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, inclusive dos rins, e eletrocardiograma. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente, nada de comida de 4 a 6 horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Os remédios de costume, de manhã, só como o médico disser. Não suspenda nada por conta própria."
+  },
+  {
+   "title": "Coisas",
+   "text": "Roupa confortável, chinelos, documentos e a lista de remédios."
+  }
+ ],
+ "bring": [
+  "Pedido médico, exames e eletrocardiograma",
+  "Relatórios e laudos do cardiologista",
+  "Lista de remédios",
+  "Um acompanhante para a volta para casa"
+ ],
+ "steps": [
+  "Colocam um cateter na sua veia e podem dar um calmante",
+  "Você deita na mesa, embaixo do aparelho de raio-X",
+  "Anestesiam a pele do punho ou da virilha",
+  "Por um pequeno furo na artéria, passam um tubo fino até o coração",
+  "Injetam o contraste e fazem as imagens",
+  "Às vezes já colocam um stent, se o médico conversou sobre isso com você antes",
+  "Tiram o tubo e fazem um curativo apertado no local do furo"
+ ],
+ "feel": [
+  "A picada da anestesia dura alguns segundos",
+  "Você não sente o tubo dentro dos vasos",
+  "Com o contraste vem uma onda de calor pelo corpo, isso é normal",
+  "Se aparecer dor no peito ou falta de ar, avise o médico na hora"
+ ],
+ "after": [
+  "O curativo no punho fica normalmente algumas horas. Se o furo foi na virilha, você fica deitado com a perna reta por algumas horas",
+  "Normalmente recomendam beber mais água, para o contraste sair mais rápido. Quanto, o médico vai dizer",
+  "Por alguns dias, não carregue peso com esse braço ou essa perna",
+  "Dirigir, só quando o médico liberar",
+  "O resultado o médico normalmente explica na hora"
+ ],
+ "red_flags": [
+  "O local do furo sangra ou incha rápido: aperte o local e ligue para a emergência",
+  "O braço ou a perna ficou frio, pálido ou dormente",
+  "Dor no peito ou falta de ar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O cateterismo é feito com anestesia geral?",
+   "a": "Normalmente não. Você fica acordado, e só o local do furo é anestesiado. Podem dar um calmante."
+  },
+  {
+   "q": "Qual a diferença entre cateterismo e angioplastia com stent?",
+   "a": "O cateterismo é um exame dos vasos. A angioplastia é um tratamento: colocam um tubinho de malha no ponto estreito. Às vezes os dois são feitos de uma vez."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o cateterismo. Leve os exames, o eletrocardiograma e a lista de remédios. Comida só até o horário que a clínica disse. Remédios, como o médico orientou."
+  }
+ ]
+}

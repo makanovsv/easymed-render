@@ -1,0 +1,74 @@
+{
+ "title": "Análisis de hormonas sexuales",
+ "also": [
+  "perfil hormonal",
+  "FSH y LH",
+  "estradiol y progesterona",
+  "testosterona"
+ ],
+ "what": "Un análisis de sangre normal, de la vena. Mide el nivel de las hormonas que controlan el ciclo, el embarazo y la salud masculina.",
+ "why": "Si tienes alteraciones del ciclo, planeas embarazarte, hay infertilidad, problemas de erección, acné o mucho vello.",
+ "duration": "sacar la sangre toma unos minutos",
+ "tell_doctor": [
+  "En qué día del ciclo estás",
+  "Si tomas pastillas hormonales, anticonceptivos u otras hormonas",
+  "Si estás embarazada o das pecho",
+  "Todos los medicamentos y suplementos que tomas siempre"
+ ],
+ "prepare": [
+  {
+   "title": "Día del ciclo",
+   "text": "En mujeres, muchas hormonas se miden en ciertos días del ciclo. Muchas veces es el día 2 a 5, y la progesterona más o menos una semana antes de la regla. El médico te dice el día exacto."
+  },
+  {
+   "title": "Hora",
+   "text": "Normalmente en la mañana, mejor en ayunas: después de cenar, solo agua. En hombres, la testosterona casi siempre se mide antes de las 11 de la mañana."
+  },
+  {
+   "title": "Un día antes",
+   "text": "Un día antes, mejor sin deporte, alcohol ni relaciones sexuales: pueden alterar el resultado."
+  },
+  {
+   "title": "Antes del análisis",
+   "text": "No fumes al menos una hora antes. Siéntate tranquilo de 10 a 15 minutos: el estrés afecta la prolactina."
+  }
+ ],
+ "bring": [
+  "La orden médica con la lista de hormonas",
+  "La fecha en que empezó tu última regla",
+  "Tus análisis anteriores, para comparar"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con alcohol y sacan sangre de la vena a los tubos",
+  "Presionan el piquete con un algodón o ponen una curita"
+ ],
+ "feel": [
+  "Un piquete breve y un poco de presión por la liga",
+  "Si te mareas al ver sangre, dilo antes y te acuestan"
+ ],
+ "after": [
+  "Presiona el algodón unos minutos para que no salga moretón",
+  "Puedes comer y volver a tus cosas de inmediato",
+  "El resultado suele estar en 1 a 3 días",
+  "Solo el médico interpreta el resultado: lo normal depende del día del ciclo y de la edad"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿En qué día del ciclo se hacen los análisis de hormonas?",
+   "a": "Lo más común es el día 2 a 5, y la progesterona más o menos una semana antes de la regla. Pero el médico elige el día según lo que necesita saber."
+  },
+  {
+   "q": "¿Me puedo hacer el análisis de hormonas durante la regla?",
+   "a": "Sí, muchas hormonas se miden justo en los primeros días del ciclo, cuando todavía tienes la regla."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu análisis de hormonas. Hoy sin deporte, alcohol ni relaciones sexuales. En la mañana, en ayunas: solo agua."
+  }
+ ]
+}

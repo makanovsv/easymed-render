@@ -1,0 +1,93 @@
+{
+ "title": "Cirurgia a laser para corrigir a visão",
+ "also": [
+  "LASIK",
+  "SMILE",
+  "PRK",
+  "cirurgia refrativa",
+  "cirurgia de miopia a laser"
+ ],
+ "what": "O laser muda o formato da córnea, a parte transparente da frente do olho. Depois disso dá para enxergar bem sem óculos ou lentes.",
+ "why": "Para miopia, hipermetropia e astigmatismo, quando a pessoa quer viver sem óculos. Não serve para todo mundo. O médico decide depois dos exames.",
+ "duration": "normalmente de 15 a 30 minutos para os dois olhos, e o laser funciona menos de um minuto",
+ "tell_doctor": [
+  "Que lentes você usa e há quanto tempo",
+  "Todos os remédios e doenças, principalmente diabetes e doenças do tecido conjuntivo",
+  "Se já teve lesões ou cirurgias nos olhos",
+  "Olho seco",
+  "Gravidez ou amamentação"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes da cirurgia, os olhos são examinados com detalhe. Isso mostra se a correção é possível e qual técnica serve."
+  },
+  {
+   "title": "Lentes",
+   "text": "As lentes são suspensas antes: as gelatinosas normalmente de 1 a 2 semanas antes, as rígidas por mais tempo. O prazo exato quem diz é a clínica."
+  },
+  {
+   "title": "No dia da cirurgia",
+   "text": "Sem maquiagem, creme no rosto e perfume. Você pode tomar café da manhã normalmente, se a clínica não disser o contrário."
+  },
+  {
+   "title": "Transporte",
+   "text": "Depois da cirurgia, você não pode dirigir. Combine com alguém para levar você para casa."
+  }
+ ],
+ "bring": [
+  "Documentos e pedido médico",
+  "Óculos de sol",
+  "Um acompanhante para levar você para casa"
+ ],
+ "steps": [
+  "Pingam colírio anestésico nos olhos",
+  "As pálpebras são presas com cuidado para você não piscar",
+  "Colocam um anel sobre o olho, e a visão escurece por alguns segundos",
+  "Você olha para um ponto de luz que pisca",
+  "O laser funciona por alguns segundos",
+  "O olho é lavado e recebe colírio, depois o mesmo é feito no outro olho"
+ ],
+ "feel": [
+  "Normalmente não dói, só dá uma pressão no olho",
+  "Você pode ouvir o estalo do laser ou sentir um cheiro. Isso é normal",
+  "Depois da cirurgia, por algumas horas, ardência, lágrimas e sensação de areia nos olhos"
+ ],
+ "after": [
+  "A visão fica embaçada no começo e normalmente melhora bastante já no dia seguinte",
+  "Não coce os olhos. Às vezes usam um protetor para dormir",
+  "Colírios exatamente como o médico mandou",
+  "A revisão é normalmente no dia seguinte",
+  "Por cerca de 1 a 2 semanas, sem maquiagem, piscina e sauna. Os prazos exatos quem diz é o médico"
+ ],
+ "red_flags": [
+  "Dor no olho forte ou que vai piorando",
+  "A visão piorou de repente",
+  "O olho ficou muito vermelho ou apareceu secreção com pus",
+  "Pancada ou lesão no olho"
+ ],
+ "faq": [
+  {
+   "q": "A cirurgia a laser para a visão dói?",
+   "a": "Normalmente não: o olho é anestesiado com colírio. Você sente pressão e, depois, ardência por algumas horas."
+  },
+  {
+   "q": "Depois de quanto tempo posso voltar a trabalhar no computador?",
+   "a": "Normalmente depois de alguns dias, mas o prazo depende da técnica. Quem diz com certeza é o médico."
+  },
+  {
+   "q": "A visão pode piorar de novo?",
+   "a": "Às vezes, com o tempo, a visão muda um pouco. Descansar os olhos e fazer consultas com o oftalmologista ajuda a manter o resultado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 168,
+   "text": "Daqui a uma semana você faz a correção a laser. Confirme com a clínica quando parar de usar lentes."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você faz a correção a laser. Sem maquiagem e sem creme no rosto. Combine quem vai levar você para casa."
+  }
+ ]
+}

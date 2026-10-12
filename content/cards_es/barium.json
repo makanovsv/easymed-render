@@ -1,0 +1,79 @@
+{
+ "title": "Radiografía de estómago e intestino con bario",
+ "also": [
+  "serie esofagogastroduodenal",
+  "estudio con bario",
+  "tránsito intestinal",
+  "radiografía con contraste del estómago"
+ ],
+ "what": "Tomas un líquido blanco con bario y en los rayos X se ven el esófago, el estómago y el intestino. El bario no se absorbe y sale con el excremento.",
+ "why": "Si te cuesta tragar, te duele el estómago, o se sospecha un estrechamiento, hernia del esófago o que la comida no pasa bien.",
+ "duration": "normalmente de 20 a 40 minutos; si revisan el intestino delgado, toman imágenes durante varias horas",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si tienes estreñimiento o dolor fuerte de estómago",
+  "Si antes te operaron el estómago o el intestino",
+  "Si tienes diabetes. Por el ayuno hay que ajustar los medicamentos; el médico te dice cómo"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes nada de 8 a 12 horas antes, casi siempre desde la noche anterior. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Un día antes",
+   "text": "Una cena ligera, sin refrescos, frijoles, col ni pan negro."
+  },
+  {
+   "title": "En la mañana",
+   "text": "No bebas, no fumes y no masques chicle. Eso afecta las imágenes."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Dile al médico qué tomas siempre. Él decide qué tomar en la mañana."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus radiografías y resultados anteriores",
+  "Agua para tomar después del estudio"
+ ],
+ "steps": [
+  "Te quitas las joyas y la ropa de la cintura para arriba y te pones una bata",
+  "Te paras frente al aparato de rayos X",
+  "Tomas el bario a tragos cuando te lo indique el médico",
+  "El médico ve en la pantalla cómo pasa y toma imágenes",
+  "Te piden voltearte, acostarte o aguantar la respiración",
+  "Si revisan el intestino, repiten las imágenes después de un rato"
+ ],
+ "feel": [
+  "El líquido es espeso y sabe a gis",
+  "A veces te sientes un poco inflado"
+ ],
+ "after": [
+  "Normalmente puedes comer de inmediato",
+  "Toma más agua 1 o 2 días; así el bario sale más rápido",
+  "El excremento saldrá claro o blanco de 1 a 3 días. Es normal",
+  "Normalmente te dan el resultado el mismo día"
+ ],
+ "red_flags": [
+  "No vas al baño por más de 2 o 3 días, y tienes el estómago inflado y con dolor",
+  "Dolor fuerte de estómago o vómito: ve al médico de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué sale blanco el excremento después del estudio con bario?",
+   "a": "Así sale el bario. Es normal y se quita en 1 a 3 días. Toma más agua."
+  },
+  {
+   "q": "¿Es lo mismo que el colon por enema?",
+   "a": "No. En el colon por enema el bario se pone por el recto para revisar el intestino grueso. La preparación es distinta."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu radiografía con bario. Cena ligero, sin refrescos ni frijoles. Después de cenar, ya no comas hasta el estudio."
+  }
+ ]
+}

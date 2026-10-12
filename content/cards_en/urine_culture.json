@@ -1,0 +1,70 @@
+{
+ "title": "Urine culture",
+ "also": [
+  "urine culture",
+  "urine culture and sensitivity",
+  "urine test for infection"
+ ],
+ "what": "Urine is placed in a growth medium to see if germs grow. If they do, the lab checks which antibiotics work on them.",
+ "why": "For burning and frequent urination, a suspected kidney or bladder infection, during pregnancy, and to check after treatment.",
+ "duration": "collecting takes a few minutes; results usually take 3 to 7 days",
+ "tell_doctor": [
+  "If you took antibiotics in the last 2 weeks. This can change the result",
+  "Pregnancy",
+  "If you have your period now"
+ ],
+ "prepare": [
+  {
+   "title": "Antibiotics",
+   "text": "The culture is usually done before you start antibiotics. If you already take them, tell your doctor and they will decide."
+  },
+  {
+   "title": "Container",
+   "text": "Get a sterile container from a pharmacy or your clinic. Do not open it early or touch the inside."
+  },
+  {
+   "title": "Time",
+   "text": "The first morning urine is best. It usually needs to reach the lab within 1 to 2 hours. Check with your clinic."
+  }
+ ],
+ "bring": [
+  "The container with your urine",
+  "Your referral"
+ ],
+ "steps": [
+  "In the morning, wash your hands and genitals with water, without antiseptic",
+  "Women: cover the vaginal opening with a cotton pad",
+  "Let the first small amount go into the toilet",
+  "Collect the middle part in the container without touching its edges",
+  "Let the rest go into the toilet",
+  "Close the lid tightly and label the container"
+ ],
+ "feel": [
+  "Nothing unpleasant. It is a regular urine collection"
+ ],
+ "after": [
+  "Take the container to the lab as soon as you can",
+  "Until then, keep it in a cool place. Do not freeze it",
+  "Show the result with the antibiotic choice to your doctor"
+ ],
+ "red_flags": [
+  "A fever over 38 degrees with chills and lower back pain",
+  "Blood in your urine, severe pain, or you cannot pass urine"
+ ],
+ "faq": [
+  {
+   "q": "Why collect the middle part of the urine?",
+   "a": "The first part has germs from the skin. The middle part is cleaner, so the result is more accurate."
+  },
+  {
+   "q": "Can I do a urine culture while taking antibiotics?",
+   "a": "You can, but the result may look falsely good. Tell your doctor you are taking them."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Urine culture tomorrow morning. Get a sterile container ready and do not open it early."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "title": "Broncoscopia",
+ "also": [
+  "broncoscopia",
+  "fibrobroncoscopia",
+  "videobroncoscopia"
+ ],
+ "what": "El médico revisa por dentro las vías respiratorias con un tubo delgado y flexible con cámara. Entra por la nariz o la boca. Se puede tomar una muestra de los bronquios.",
+ "why": "Si tienes tos que no se quita, sangre en la flema, cambios en la radiografía de los pulmones, para buscar la causa de infecciones seguidas, o para sacar flemas.",
+ "duration": "normalmente de 15 a 30 minutos, más 1 o 2 horas de vigilancia después",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. El médico te dice si hay que cambiar algo",
+  "Si tienes alergia a medicamentos para el dolor, sobre todo a la lidocaína",
+  "Si tienes asma, enfermedades del corazón o diabetes",
+  "Si estás embarazada",
+  "Si la quieres hacer dormido, pregunta si hay sedación"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes de 6 a 8 horas antes y no bebes de 2 a 4 horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Normalmente los medicamentos de la mañana se toman con un trago de agua. Si tomas medicamentos para la sangre o la diabetes, díselo al médico y él decide."
+  },
+  {
+   "title": "Cigarro",
+   "text": "No fumes el día del procedimiento."
+  },
+  {
+   "title": "Antes de entrar",
+   "text": "Quítate la dentadura postiza, los lentes y las joyas."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus radiografías y tomografía de pulmones, con el disco y el reporte",
+  "Tu inhalador, si tienes asma",
+  "Un acompañante, si el procedimiento es con sedación"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena y un sensor en el dedo",
+  "Te rocían la garganta y la nariz con un anestésico; la lengua y la garganta se duermen",
+  "Si es con sedación, te ponen el medicamento y te duermes",
+  "El médico mete el tubo por la nariz o la boca y revisa los bronquios",
+  "Si hace falta, toman un pedacito de tejido o lavan el bronquio",
+  "Sacan el tubo y te vigilan 1 o 2 horas"
+ ],
+ "feel": [
+  "Sin sedación, ganas de toser y sensación de bolita en la garganta",
+  "Puedes respirar: el tubo es delgado y no tapa el aire",
+  "Con sedación, normalmente no recuerdas nada"
+ ],
+ "after": [
+  "No comas ni bebas unas 2 horas, hasta que la garganta ya no esté dormida. Te puedes atragantar",
+  "La garganta irritada, la ronquera y la tos se quitan en 1 o 2 días",
+  "Si tomaron una muestra, un poco de sangre en la flema el primer día puede pasar",
+  "Después de la sedación no manejes el resto del día",
+  "El resultado de la biopsia suele estar en 1 o 2 semanas"
+ ],
+ "red_flags": [
+  "Falta de aire o dolor en el pecho que van en aumento: ve al médico de inmediato o llama a emergencias",
+  "Mucha sangre al toser, no solo hilitos",
+  "Fiebre de más de 38 grados por más de un día"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo respirar durante la broncoscopia?",
+   "a": "Sí. El tubo es delgado y el aire pasa a un lado. Respira tranquilo por la nariz."
+  },
+  {
+   "q": "¿La broncoscopia se hace con anestesia?",
+   "a": "Muchas veces se hace con sedación: estás adormilado y no recuerdas el procedimiento. Pregunta en tu clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu broncoscopia. Normalmente no se come de 6 a 8 horas antes. Lleva tus estudios de pulmones y, si hace falta, un acompañante."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "En 3 horas es tu broncoscopia. Normalmente ya no se bebe nada. No fumes."
+  }
+ ]
+}

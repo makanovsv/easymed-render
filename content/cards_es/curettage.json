@@ -1,0 +1,84 @@
+{
+ "title": "Legrado diagnóstico",
+ "also": [
+  "legrado",
+  "raspado uterino",
+  "legrado biopsia",
+  "curetaje"
+ ],
+ "what": "El médico toma la capa interna del útero para analizarla. Se hace con una anestesia corta, muchas veces junto con una revisión del útero con cámara, llamada histeroscopia.",
+ "why": "Para saber la causa de sangrados del útero, si hay pólipos, o si en el ultrasonido la capa interna del útero está engrosada.",
+ "duration": "el procedimiento suele durar de 15 a 30 minutos; muchas veces te vas a casa el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dice cuáles dejar y cuándo",
+  "Si tienes alergias",
+  "Si podrías estar embarazada",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si tú o tus familiares tuvieron problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, un exudado vaginal y a veces electrocardiograma. La clínica te da la lista."
+  },
+  {
+   "title": "Fecha",
+   "text": "Normalmente el médico elige la fecha según tu ciclo. Confírmala antes."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes de 6 a 8 horas antes y no bebes unas horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Higiene",
+   "text": "Báñate en la mañana. No te hagas duchas vaginales ni te pongas óvulos sin indicación del médico."
+  }
+ ],
+ "bring": [
+  "La orden médica y los análisis",
+  "Una identificación",
+  "Toallas sanitarias",
+  "Ropa cómoda y pantuflas",
+  "Un acompañante: después de la anestesia no puedes manejar"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "Te acuestas en la silla ginecológica",
+  "El anestesiólogo te pone el medicamento y te duermes",
+  "El médico abre un poco el cuello del útero y toma el tejido con cuidado",
+  "El tejido se manda al laboratorio",
+  "Despiertas y descansas con vigilancia"
+ ],
+ "feel": [
+  "Después de la anestesia, sueño y a veces náuseas",
+  "Un dolor jalón en la parte baja del abdomen, como de regla; te dan analgésico"
+ ],
+ "after": [
+  "Normalmente sale un poco de sangre por unos días, a veces hasta 10 días",
+  "Normalmente 2 semanas sin relaciones sexuales, tampones, tina, alberca ni sauna. Pregúntale al médico",
+  "Después de la anestesia, ese día no manejes",
+  "El resultado del tejido suele estar en 1 o 2 semanas; te lo explica el médico"
+ ],
+ "red_flags": [
+  "Sangrado fuerte: llenas una toalla en una hora",
+  "Fiebre de más de 38 grados o dolor de abdomen que va en aumento",
+  "Flujo con mal olor",
+  "Desmayo o mucha debilidad: llama a emergencias de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele el legrado?",
+   "a": "No, se hace con una anestesia corta. Después puede doler el abdomen, como en la regla."
+  },
+  {
+   "q": "¿Cuánto dura el sangrado después del legrado?",
+   "a": "Normalmente unos días, a veces hasta 10 días. Si sangras mucho o tienes fiebre, ve al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu procedimiento. Lleva tu identificación, los análisis, toallas sanitarias y un acompañante. Come y toma agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

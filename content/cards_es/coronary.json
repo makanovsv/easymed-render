@@ -1,0 +1,85 @@
+{
+ "title": "Coronariografía",
+ "also": [
+  "cateterismo cardiaco",
+  "angiografía coronaria",
+  "estudio de las arterias del corazón"
+ ],
+ "what": "Por una arteria de la muñeca o de la ingle llevan un tubo delgado hasta el corazón. Ponen medio de contraste y en los rayos X se ven los vasos del corazón. Estás despierto, con anestesia local.",
+ "why": "Si tienes dolor en el pecho, después de un infarto, si otros estudios mostraron problemas en los vasos del corazón, o antes de una cirugía del corazón.",
+ "duration": "normalmente de 30 a 60 minutos; en el hospital, desde unas horas hasta 1 o 2 días",
+ "tell_doctor": [
+  "Si tienes alergia al medio de contraste, al yodo o a medicamentos",
+  "Si tienes enfermedades de los riñones",
+  "Si tienes diabetes y qué medicamentos tomas para ella. El médico te dice qué hacer",
+  "Si tomas medicamentos que hacen la sangre más líquida. No los dejes por tu cuenta",
+  "Si podrías estar embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, también de cómo funcionan los riñones, y electrocardiograma. La clínica te da la lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes de 4 a 6 horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Tus medicamentos de la mañana, solo como te diga el médico. No dejes nada por tu cuenta."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda, pantuflas, tu identificación y la lista de tus medicamentos."
+  }
+ ],
+ "bring": [
+  "La orden médica, los análisis y el electrocardiograma",
+  "Tus resúmenes médicos y reportes del cardiólogo",
+  "La lista de tus medicamentos",
+  "Un acompañante para regresar a casa"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena y te pueden dar un calmante",
+  "Te acuestas en la mesa debajo del aparato de rayos X",
+  "Te adormecen la piel de la muñeca o de la ingle",
+  "Por un piquete pequeño meten un tubo delgado en la arteria y lo llevan al corazón",
+  "Ponen el medio de contraste y toman imágenes",
+  "A veces en ese momento ponen un stent, si el médico ya lo habló contigo",
+  "Sacan el tubo y ponen un vendaje apretado en el piquete"
+ ],
+ "feel": [
+  "La inyección para el dolor dura unos segundos",
+  "No sientes el tubo dentro de los vasos",
+  "Con el contraste sientes una ola de calor en el cuerpo. Es normal",
+  "Si te duele el pecho o te cuesta respirar, díselo al médico de inmediato"
+ ],
+ "after": [
+  "El vendaje de la muñeca suele quedarse unas horas; si fue en la ingle, estás acostado con la pierna derecha unas horas",
+  "Normalmente te recomiendan tomar más agua para que el contraste salga más rápido. El médico te dice cuánta",
+  "Por unos días no cargues cosas pesadas con ese brazo o esa pierna",
+  "Puedes manejar cuando el médico lo permita",
+  "Normalmente el médico te explica el resultado en ese momento"
+ ],
+ "red_flags": [
+  "El piquete sangra o se hincha rápido: presiona y llama a emergencias",
+  "El brazo o la pierna se puso frío, pálido o dormido",
+  "Dolor en el pecho o falta de aire: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La coronariografía se hace con anestesia general?",
+   "a": "Normalmente no. Estás despierto y solo adormecen el lugar del piquete. Te pueden dar un calmante."
+  },
+  {
+   "q": "¿En qué se diferencia la coronariografía de poner un stent?",
+   "a": "La coronariografía es una revisión de los vasos. El stent es un tratamiento: ponen un tubito de malla en la parte estrecha. A veces se hacen al mismo tiempo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu coronariografía. Lleva tus análisis, el electrocardiograma y la lista de medicamentos. Come solo hasta la hora que te dijo la clínica. Tus medicamentos, como te dijo el médico."
+  }
+ ]
+}

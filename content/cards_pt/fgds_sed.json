@@ -1,0 +1,98 @@
+{
+ "title": "Endoscopia digestiva alta com sedação",
+ "also": [
+  "endoscopia com sedação",
+  "endoscopia dormindo",
+  "gastroscopia com sedação"
+ ],
+ "what": "O médico examina o esôfago, o estômago e o começo do intestino com um tubo fino com câmera, enquanto você dorme. O remédio para dormir vai na veia. É um sono leve, não anestesia geral completa.",
+ "why": "Em caso de dor e queimação na barriga, azia, anemia, perda de peso, para procurar úlcera e pólipos. Dormindo: se você tem medo, ânsia forte ou o exame for demorado.",
+ "duration": "o exame em si leva normalmente de 10 a 20 minutos, mais 30 a 60 minutos para acordar",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue e os de diabetes",
+  "Alergias, inclusive a remédios e a ovo",
+  "Doenças do coração e dos pulmões, ronco e paradas na respiração durante o sono",
+  "Se já teve problema com anestesia",
+  "Gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente, nada de comida de 6 a 8 horas antes do exame. Se for de manhã, a última refeição é um jantar leve na véspera."
+  },
+  {
+   "title": "Bebida",
+   "text": "Normalmente pode beber água sem gás até 2 a 3 horas antes, depois nada. O horário exato, a clínica vai dizer."
+  },
+  {
+   "title": "Remédios",
+   "text": "Os remédios de sempre, de manhã, só como o médico disser, com um gole de água."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "É preciso um adulto para levar você para casa. Nesse dia, você não pode dirigir."
+  },
+  {
+   "title": "Antes do exame",
+   "text": "Tire próteses dentárias removíveis e joias, e tire o batom."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documentos",
+  "Laudos anteriores de endoscopia",
+  "Lista de remédios",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "O médico ou o anestesista conversa com você sobre a sua saúde e os remédios",
+  "Colocam um cateter fino na veia e um sensor de pulso no dedo",
+  "Você deita do lado esquerdo, e colocam um protetor de plástico na boca",
+  "O remédio vai para a veia, e você dorme em 1 minuto",
+  "O médico passa o tubo pela boca e examina o estômago",
+  "Se for preciso, tiram um pedacinho de tecido para análise",
+  "Você acorda na sala de recuperação e fica em observação até o sono passar"
+ ],
+ "feel": [
+  "Durante o exame, normalmente você não sente nem lembra de nada",
+  "Depois, sonolência, às vezes uma leve tontura",
+  "A garganta pode arranhar e a barriga pode ficar um pouco estufada. Passa em algumas horas"
+ ],
+ "after": [
+  "Normalmente pode comer e beber depois de 1 a 2 horas, se o médico não disser outra coisa",
+  "Até o fim do dia, sem dirigir, sem álcool e sem decisões importantes",
+  "O laudo sai no mesmo dia",
+  "O resultado da análise do tecido normalmente sai em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Dor forte na barriga ou no peito, vômito com sangue, fezes pretas, febre, dificuldade para engolir ou respirar: vá ao médico na hora ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Isso é anestesia geral?",
+   "a": "É sedação: um sono leve e controlado. Você respira sozinho e acorda rápido, normalmente alguns minutos depois do exame."
+  },
+  {
+   "q": "Por que não posso dirigir depois da sedação?",
+   "a": "O remédio deixa os reflexos lentos por mais algumas horas, mesmo que você se sinta bem. Por isso é preciso um acompanhante."
+  },
+  {
+   "q": "Quanto tempo sem comer antes da endoscopia com sedação?",
+   "a": "Normalmente de 6 a 8 horas sem comida e de 2 a 3 horas sem água. O estômago precisa estar vazio, isso é importante para a segurança."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem endoscopia com sedação. Combine quem vai buscar você, porque nesse dia não pode dirigir."
+  },
+  {
+   "hoursBefore": 10,
+   "text": "Agora é a hora do último jantar leve. Depois, não coma até o exame. Água, só até o horário que a clínica informou."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "A endoscopia está chegando. Normalmente, a partir de agora não se bebe nem água. Leve documentos e a lista de remédios."
+  }
+ ]
+}

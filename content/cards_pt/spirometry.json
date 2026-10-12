@@ -1,0 +1,75 @@
+{
+ "title": "Espirometria",
+ "also": [
+  "prova de função pulmonar",
+  "exame do sopro",
+  "teste dos pulmões"
+ ],
+ "what": "Um teste para ver quanto ar você puxa e com que rapidez solta. Você respira num tubo do aparelho. É seguro e sem agulhas.",
+ "why": "Em caso de tosse, falta de ar, chiado no peito; para descobrir ou acompanhar asma e doença crônica do pulmão; antes de cirurgia e em exames de rotina.",
+ "duration": "normalmente de 15 a 30 minutos; com o teste da bombinha, até 45 minutos",
+ "tell_doctor": [
+  "Quais bombinhas e remédios para o pulmão você usa. O médico diz se precisa pular antes do teste",
+  "Se teve há pouco tempo infarto, cirurgia nos olhos, no peito ou na barriga",
+  "Se agora está gripado, com febre ou tossindo sangue",
+  "Gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Às vezes pedem para não usar a bombinha algumas horas antes do teste. Faça isso só se o médico mandar."
+  },
+  {
+   "title": "Cigarro",
+   "text": "Não fume pelo menos 1 hora antes do exame."
+  },
+  {
+   "title": "Comida e esforço",
+   "text": "Não coma muito 2 horas antes e não tome café de manhã. Não chegue correndo: fique sentado 15 minutos."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa folgada: cinto ou cós apertado atrapalham respirar fundo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "A bombinha que você usa",
+  "Resultados anteriores de espirometria"
+ ],
+ "steps": [
+  "A enfermeira mede altura e peso, porque os valores normais dependem deles",
+  "Você senta, e colocam um prendedor no nariz",
+  "Você fecha bem os lábios em volta de um bocal descartável",
+  "Respira tranquilo e, quando pedirem, puxa o ar o mais fundo possível",
+  "E logo solta com toda a força, por bastante tempo, até o fim",
+  "Isso é repetido 3 a 4 vezes, para pegar o melhor resultado",
+  "Às vezes dão um remédio de bombinha para inalar e repetem o teste depois de 15 a 20 minutos"
+ ],
+ "feel": [
+  "É preciso se esforçar, porque o teste depende da sua força",
+  "Pode dar tontura ou vontade de tossir. Passa em 1 minuto, e dá para descansar entre as tentativas"
+ ],
+ "after": [
+  "Você pode voltar às suas atividades logo em seguida",
+  "O laudo normalmente sai na hora ou no mesmo dia",
+  "O resultado, o seu médico vai explicar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que a espirometria é repetida várias vezes?",
+   "a": "O resultado depende da força do sopro. São precisas algumas tentativas parecidas para os dados serem certos."
+  },
+  {
+   "q": "Por que inalar remédio durante o teste?",
+   "a": "É uma prova: o médico vê se a respiração melhora. Isso ajuda a diferenciar a asma de outras doenças do pulmão."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem espirometria. Leve a sua bombinha. Só deixe de usar se o médico mandou."
+  }
+ ]
+}

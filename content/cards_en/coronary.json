@@ -1,0 +1,86 @@
+{
+ "title": "Coronary angiography",
+ "also": [
+  "coronary angiogram",
+  "heart catheterization",
+  "cardiac cath",
+  "heart artery test"
+ ],
+ "what": "A thin tube is passed through an artery in your wrist or groin up to your heart. Contrast dye is injected, and the heart's blood vessels are seen on X-ray. You stay awake, with local anesthesia.",
+ "why": "For chest pain, after a heart attack, if other tests showed problems with the heart's blood vessels, or before heart surgery.",
+ "duration": "usually 30 to 60 minutes; in hospital from a few hours to 1 or 2 days",
+ "tell_doctor": [
+  "Allergies to contrast dye, iodine, or medicines",
+  "Kidney disease",
+  "Diabetes and which medicines you take for it. The doctor will tell you what to do",
+  "Blood thinners. Do not stop them on your own",
+  "If you might be pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Blood tests, including kidney function, and an ECG. Your clinic will give you the list."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no food for 4 to 6 hours before. Your clinic will give you the exact time."
+  },
+  {
+   "title": "Medicines",
+   "text": "Take your usual morning medicines only as your doctor says. Do not stop anything on your own."
+  },
+  {
+   "title": "Things to pack",
+   "text": "Comfortable clothes, slippers, your ID, and a list of your medicines."
+  }
+ ],
+ "bring": [
+  "Your referral, test results, and ECG",
+  "Hospital discharge papers and your cardiologist's reports",
+  "A list of your medicines",
+  "Someone to take you home"
+ ],
+ "steps": [
+  "A thin tube called an IV is put into a vein. You may get a calming medicine",
+  "You lie on a table under the X-ray machine",
+  "The skin on your wrist or groin is numbed",
+  "Through a tiny puncture, a thin tube goes into the artery and up to your heart",
+  "Contrast dye is injected, and X-ray pictures are taken",
+  "Sometimes a stent is placed right away, if the doctor discussed this with you beforehand",
+  "The tube is removed, and a tight bandage is put on the puncture site"
+ ],
+ "feel": [
+  "The numbing shot lasts a few seconds",
+  "You do not feel the tube inside your blood vessels",
+  "With the contrast dye: a wave of warmth through your body. This is normal",
+  "If you get chest pain or trouble breathing, tell the doctor right away"
+ ],
+ "after": [
+  "A wrist bandage usually stays for a few hours. If the groin was used, you lie with your leg straight for a few hours",
+  "You are usually told to drink more water, so the dye leaves faster. The doctor will say how much",
+  "For a few days, do not lift heavy things with that arm or leg",
+  "Drive only when your doctor allows",
+  "The doctor usually explains the results right away"
+ ],
+ "red_flags": [
+  "The puncture site bleeds or swelling grows fast: press on it and call emergency services",
+  "Your arm or leg turns cold, pale, or numb",
+  "Chest pain or shortness of breath: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Is coronary angiography done under general anesthesia?",
+   "a": "Usually not. You stay awake, and only the puncture site is numbed. You may get a calming medicine."
+  },
+  {
+   "q": "How is angiography different from a stent?",
+   "a": "Angiography is a look at the blood vessels. A stent is treatment: a small mesh tube is placed in the narrow spot. Sometimes both are done at once."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Coronary angiography tomorrow. Bring your test results, ECG, and medicine list. Eat only until the time your clinic gave you. Take medicines as your doctor said."
+  }
+ ]
+}

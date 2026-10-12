@@ -1,0 +1,78 @@
+{
+ "title": "Exame de sangue de PSA",
+ "also": [
+  "PSA",
+  "antígeno prostático específico",
+  "exame de próstata no sangue",
+  "exame de PSA"
+ ],
+ "what": "É um exame de sangue comum, colhido da veia. Ele mostra o nível de uma proteína produzida pela próstata.",
+ "why": "Para avaliar a próstata nos homens, normalmente depois dos 45 a 50 anos, quando há problemas para urinar e para acompanhar depois do tratamento.",
+ "duration": "a coleta leva de 2 a 3 minutos, e o resultado sai normalmente em 1 a 2 dias",
+ "tell_doctor": [
+  "Se você toma remédios para próstata aumentada. Eles podem baixar o PSA",
+  "Se fez há pouco tempo massagem da próstata, exame de toque, biópsia ou usou sonda",
+  "Se agora você tem inflamação ou infecção urinária",
+  "Resultados anteriores de PSA. É importante comparar"
+ ],
+ "prepare": [
+  {
+   "title": "2 dias antes",
+   "text": "Normalmente recomendam 2 dias sem ejaculação, sem andar muito de bicicleta e sem esforço pesado. Isso pode aumentar o PSA."
+  },
+  {
+   "title": "Depois de procedimentos",
+   "text": "Se você fez exame de toque, massagem da próstata ou biópsia, o exame normalmente é feito mais tarde. Quanto tempo esperar, o médico diz."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de jejum. Se for fazer outros exames junto, confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Tome os remédios como sempre. Não suspenda por conta própria. Fale com o médico, ele decide."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Documento",
+  "Resultados anteriores de PSA"
+ ],
+ "steps": [
+  "Você senta, e o braço fica apoiado",
+  "Amarram um garrote no braço",
+  "Limpam o local com álcool",
+  "Com uma agulha, tiram sangue da veia para um tubinho",
+  "Apertam um algodão no local da picada"
+ ],
+ "feel": [
+  "Uma picada rápida, como de mosquito",
+  "Às vezes depois fica uma pequena mancha roxa"
+ ],
+ "after": [
+  "Mantenha o algodão apertado de 3 a 5 minutos",
+  "Você pode comer e fazer suas coisas normalmente logo depois",
+  "Converse com o médico sobre o resultado: o normal depende da idade, e um exame alto sozinho ainda não é diagnóstico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "PSA alto é câncer?",
+   "a": "Não necessariamente. Inflamação, próstata aumentada, sexo e bicicleta na véspera aumentam o PSA. O médico decide se é preciso repetir ou fazer mais exames."
+  },
+  {
+   "q": "Como me preparar para o exame de PSA?",
+   "a": "Normalmente 2 dias sem ejaculação, bicicleta e esforço pesado. E não logo depois de exame de toque ou massagem da próstata."
+  },
+  {
+   "q": "Com que idade fazer o PSA?",
+   "a": "Normalmente depois dos 45 a 50 anos, e antes se parentes próximos tiveram câncer de próstata. É melhor decidir junto com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Daqui a 2 dias você faz o exame de PSA. Até lá, normalmente recomendam ficar sem sexo, bicicleta e esforço pesado."
+  }
+ ]
+}

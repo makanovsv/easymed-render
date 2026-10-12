@@ -1,0 +1,85 @@
+{
+ "title": "PET-CT scan",
+ "also": [
+  "PET-CT",
+  "PET scan",
+  "PET CT scan",
+  "full body PET scan"
+ ],
+ "what": "A small amount of radioactive sugar is given into a vein. The scanner shows where cells take it up most actively and combines this with a CT image.",
+ "why": "Most often for cancer: to find affected areas, see how far it has spread, and check how treatment is working.",
+ "duration": "usually 2 to 3 hours at the center; the scan itself takes 15 to 30 minutes",
+ "tell_doctor": [
+  "Diabetes and your diabetes medicines. Your prep will be adjusted",
+  "If you are pregnant or breastfeeding",
+  "Allergy to contrast, or kidney disease",
+  "If it is hard for you to lie on your back for a long time, or you are afraid of closed spaces",
+  "The dates of your last chemotherapy or radiation therapy"
+ ],
+ "prepare": [
+  {
+   "title": "Fasting",
+   "text": "Usually no food for 4 to 6 hours. Only plain water without sugar. No chewing gum or sweets."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours, avoid hard exercise and physical work. You are often advised to eat fewer sweets and less bread and pasta. Your clinic will tell you more."
+  },
+  {
+   "title": "Diabetes",
+   "text": "Your blood sugar should be normal. The doctor decides how to take your medicines that day."
+  },
+  {
+   "title": "Clothes",
+   "text": "Warm and comfortable, with no metal."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "Past CT, MRI, or PET images on a disc, and reports",
+  "Your treatment records"
+ ],
+ "steps": [
+  "Your blood sugar is checked",
+  "An IV is put into a vein and the tracer is given",
+  "For about an hour you sit or lie calmly in a quiet room: no talking, reading, or walking",
+  "Go to the toilet before the scan",
+  "You lie on the table, and it slowly moves through the scanner ring",
+  "Lie still for 15 to 30 minutes"
+ ],
+ "feel": [
+  "You do not feel the tracer going in",
+  "The scanner is not as loud as an MRI",
+  "If contrast is given, you may feel a wave of warmth through your body"
+ ],
+ "after": [
+  "Drink more water for the rest of the day. The tracer leaves faster with urine",
+  "You can usually eat right away",
+  "For a few hours, stay away from pregnant women and small children. Your clinic will tell you for how long",
+  "The report is usually ready in 1 to 3 days"
+ ],
+ "red_flags": [
+  "After the injection: a rash, a swollen face, or trouble breathing. Tell the staff right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Is the radiation from PET-CT dangerous?",
+   "a": "The dose is small and leaves the body quickly. The doctor orders the scan when the benefit is greater than the risk."
+  },
+  {
+   "q": "Why can't I eat before a PET-CT?",
+   "a": "The tracer is a form of sugar. If you have eaten, your blood sugar is high and the images will be worse."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "PET-CT tomorrow. No hard exercise or physical work today. Eat fewer sweets, and less bread and pasta."
+  },
+  {
+   "hoursBefore": 6,
+   "text": "PET-CT in 6 hours. Time to stop eating. Only plain water without sugar, unless your clinic said otherwise."
+  }
+ ]
+}

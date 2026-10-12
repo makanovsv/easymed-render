@@ -1,0 +1,87 @@
+{
+ "title": "Bronchoscopy",
+ "also": [
+  "bronchoscopy",
+  "lung scope",
+  "airway camera test"
+ ],
+ "what": "The doctor looks inside your airways with a thin flexible tube with a camera. It goes in through the nose or mouth. Samples can be taken from the airways.",
+ "why": "For a long-lasting cough, blood in your phlegm, changes on a lung scan, to find the cause of frequent infections, or to clear out mucus.",
+ "duration": "usually 15 to 30 minutes, plus 1 to 2 hours of observation afterwards",
+ "tell_doctor": [
+  "Blood thinners. The doctor will tell you if anything needs to change",
+  "Allergy to numbing medicines, especially lidocaine",
+  "Asthma, heart disease, or diabetes",
+  "If you are pregnant",
+  "If you want to be asleep, ask whether sedation is offered"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no food for 6 to 8 hours, and no drinks for 2 to 4 hours before. Your clinic will give you the exact times."
+  },
+  {
+   "title": "Medicines",
+   "text": "Morning medicines are usually taken with a sip of water. If you take blood thinners or diabetes medicines, tell your doctor, who will decide."
+  },
+  {
+   "title": "Smoking",
+   "text": "Do not smoke on the day of the procedure."
+  },
+  {
+   "title": "Before you go in",
+   "text": "Take out removable dentures, and take off glasses and jewelry."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your lung X-rays and CT scans: the disc and the report",
+  "Your inhaler, if you have asthma",
+  "Someone to go with you, if you are having sedation"
+ ],
+ "steps": [
+  "An IV is put into a vein, and a sensor is put on your finger",
+  "Your throat and nose are sprayed with numbing medicine. Your tongue and throat go numb",
+  "If you have sedation, you get medicine and fall asleep",
+  "The doctor passes the tube through your nose or mouth and looks at the airways",
+  "If needed, a tissue sample is taken or an airway is rinsed",
+  "The tube is removed, and you are watched for 1 to 2 hours"
+ ],
+ "feel": [
+  "Without sedation: an urge to cough and a lump feeling in the throat",
+  "You can breathe. The tube is thin and does not block the air",
+  "With sedation, you usually remember nothing"
+ ],
+ "after": [
+  "Do not eat or drink for about 2 hours, until your throat is no longer numb. You could choke",
+  "A scratchy throat, hoarseness, and cough pass in 1 to 2 days",
+  "A little blood in your phlegm can happen in the first 24 hours after a biopsy",
+  "After sedation, do not drive for the rest of the day",
+  "Biopsy results usually come in 1 to 2 weeks"
+ ],
+ "red_flags": [
+  "Shortness of breath or chest pain that gets worse: see a doctor right away or call emergency services",
+  "Coughing up a lot of blood, not just streaks",
+  "Fever above 38 degrees for more than 24 hours"
+ ],
+ "faq": [
+  {
+   "q": "Can I breathe during bronchoscopy?",
+   "a": "Yes. The tube is thin, and air passes around it. Breathe calmly through your nose."
+  },
+  {
+   "q": "Is bronchoscopy done under anesthesia?",
+   "a": "It is often done with sedation: you doze and do not remember the procedure. Check with your clinic."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Bronchoscopy tomorrow. Usually no food for 6 to 8 hours before. Bring your lung scans and, if needed, someone to go with you."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Bronchoscopy in 3 hours. Usually no more drinks now. Do not smoke."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "Urofluxometria",
+ "also": [
+  "fluxometria urinária",
+  "medida do jato urinário",
+  "exame do fluxo urinário"
+ ],
+ "what": "Você urina num vaso especial ou num funil, e o aparelho mede com que velocidade e quanta urina sai.",
+ "why": "Em caso de jato fraco, vontade frequente de urinar, sensação de que a bexiga não esvaziou totalmente. Muitas vezes, em problemas da próstata.",
+ "duration": "normalmente de 15 a 30 minutos, contando a espera",
+ "tell_doctor": [
+  "Quais remédios você toma para a próstata ou a bexiga. Não precisa suspender por conta própria",
+  "Se usa sonda ou fez cirurgia nas vias urinárias há pouco tempo",
+  "Se agora sente dor ou ardor ao urinar"
+ ],
+ "prepare": [
+  {
+   "title": "Bexiga cheia",
+   "text": "Chegue com muita vontade de urinar. Normalmente bebe-se de meio litro a 1 litro de água, de 1 a 2 horas antes do exame."
+  },
+  {
+   "title": "Não esvazie",
+   "text": "Não vá ao banheiro antes do exame. Se estiver muito difícil segurar, avise a equipe."
+  },
+  {
+   "title": "Tempo de sobra",
+   "text": "Chegue um pouco antes. Se a vontade ainda estiver fraca, dá para esperar na clínica e beber água."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Uma garrafa de água",
+  "O diário de micção, se o médico pediu para preencher"
+ ],
+ "steps": [
+  "Quando a vontade ficar forte, levam você a uma sala separada",
+  "Você fica sozinho",
+  "Urine no vaso especial ou no funil, do jeito de sempre",
+  "O aparelho registra sozinho a velocidade e o volume",
+  "Muitas vezes, depois, verificam no ultrassom quanta urina ficou na bexiga"
+ ],
+ "feel": [
+  "Nada desagradável. É urinar normalmente",
+  "Pode dar um pouco de vergonha, mas você vai estar sozinho"
+ ],
+ "after": [
+  "Você pode voltar às suas atividades logo em seguida",
+  "O resultado normalmente sai na hora, e o urologista explica",
+  "Às vezes o exame é repetido, se a quantidade de urina foi pequena"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Quanta água beber antes da urofluxometria?",
+   "a": "Normalmente de meio litro a 1 litro, de 1 a 2 horas antes. O principal é chegar com muita vontade e não ir ao banheiro antes do exame."
+  },
+  {
+   "q": "Por que às vezes o exame é repetido?",
+   "a": "Se a urina foi pouca ou você estava nervoso, o resultado pode não ser preciso. Aí ele é repetido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Em breve você tem urofluxometria. Beba de meio litro a 1 litro de água e não vá ao banheiro até o exame."
+  }
+ ]
+}

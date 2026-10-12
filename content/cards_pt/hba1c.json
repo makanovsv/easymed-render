@@ -1,0 +1,58 @@
+{
+ "title": "Exame de hemoglobina glicada",
+ "also": [
+  "HbA1c",
+  "hemoglobina glicosilada",
+  "exame da média do açúcar de 3 meses"
+ ],
+ "what": "Exame de sangue que mostra a média do açúcar no sangue dos últimos 2 a 3 meses. Um pico isolado de açúcar quase não muda o resultado.",
+ "why": "Para descobrir diabetes ou pré-diabetes e ver se o tratamento está funcionando, se você já tem diabetes.",
+ "duration": "normalmente 5 minutos; o sangue é tirado da veia",
+ "tell_doctor": [
+  "Se tem anemia ou perdeu muito sangue há pouco tempo",
+  "Se recebeu transfusão de sangue nos últimos meses",
+  "Gravidez",
+  "Doenças dos rins ou do fígado"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de jejum, o exame pode ser feito a qualquer hora. Se for fazer junto a glicose, vá de manhã em jejum."
+  },
+  {
+   "title": "Remédios",
+   "text": "Tome os seus remédios como sempre. Se tiver dúvida, fale com o médico, e ele decide."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Resultados anteriores deste exame, para comparar"
+ ],
+ "steps": [
+  "Você senta e apoia o braço",
+  "Amarram um garrote acima do cotovelo",
+  "Limpam a pele e tiram sangue da veia para um tubo",
+  "Pressionam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como de mosquito",
+  "Às vezes fica um pequeno roxo depois"
+ ],
+ "after": [
+  "Você já pode comer e seguir com o seu dia",
+  "O resultado normalmente sai em 1 a 2 dias",
+  "O médico explica o resultado, comparando com o normal e com os seus exames anteriores"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Precisa de jejum para a hemoglobina glicada?",
+   "a": "Normalmente não. Ela mostra o açúcar de 2 a 3 meses, então o café da manhã quase não muda o resultado."
+  },
+  {
+   "q": "Com que frequência fazer este exame no diabetes?",
+   "a": "Normalmente a cada 3 meses, se o tratamento está sendo ajustado. Com o açúcar estável, com menos frequência. O calendário exato, o médico vai dizer."
+  }
+ ],
+ "reminders": []
+}

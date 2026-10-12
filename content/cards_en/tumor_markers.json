@@ -1,0 +1,86 @@
+{
+ "title": "Tumor markers",
+ "also": [
+  "tumor marker test",
+  "PSA test",
+  "CA-125 test",
+  "cancer blood test"
+ ],
+ "what": "A blood test for special substances whose levels can change with some tumors. Blood is taken from a vein, like a regular blood test.",
+ "why": "Most often, to follow treatment and notice early if the disease comes back. Sometimes as an extra check if the doctor suspects something. On its own, the test does not confirm or rule out cancer.",
+ "duration": "drawing the blood takes a few minutes; results usually take 1 to 5 days",
+ "tell_doctor": [
+  "What medicines and vitamins you take, especially biotin. It can change the result",
+  "If you recently had an inflammation, a cold, or a flare-up of a chronic illness",
+  "For women: your cycle day and pregnancy",
+  "For men before a PSA test: if you recently had a prostate exam, an ultrasound through the rectum, or a biopsy"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually on an empty stomach, or 4 to 6 hours after a light meal. You can drink water. Check with your clinic."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol or fatty food. In the morning before the test, it is better not to smoke."
+  },
+  {
+   "title": "Before a PSA test",
+   "text": "For 2 days before, you are usually advised not to ride a bike, and to avoid ejaculation and heavy exercise."
+  },
+  {
+   "title": "For women",
+   "text": "The CA-125 test is usually not done during your period. It is better a few days after it."
+  },
+  {
+   "title": "Repeat tests",
+   "text": "If you are tracking a marker over time, use the same lab every time."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past results for the same markers, to compare"
+ ],
+ "steps": [
+  "You sit down and rest your arm on a support",
+  "A band is tightened above your elbow",
+  "The skin is wiped and a thin needle goes into a vein",
+  "Blood is drawn into a tube and the needle is removed",
+  "Cotton is put on the spot. Press on it for a few minutes"
+ ],
+ "feel": [
+  "A quick needle prick",
+  "Sometimes a small bruise where the needle went in"
+ ],
+ "after": [
+  "You can go back to your day and eat right away",
+  "Results usually take 1 to 5 days",
+  "Only your doctor should judge the result, together with an exam and other tests",
+  "A slightly raised marker can happen without a tumor. Do not panic. Talk with your doctor"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "If a tumor marker is high, does it mean cancer?",
+   "a": "Not necessarily. Markers also rise with inflammation, liver or kidney disease, and cysts. Your doctor will decide if you need other tests."
+  },
+  {
+   "q": "Can I get tumor markers as a checkup, with no symptoms?",
+   "a": "For most markers, no. They are often wrong in healthy people. There are other screening methods. Ask your doctor which ones suit your age."
+  },
+  {
+   "q": "Why is it important to use the same lab?",
+   "a": "Different labs use different test kits, and the numbers can differ. A fair comparison is only possible with results from one place."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Tumor marker test in 2 days. If it is a PSA test: no bike riding, no ejaculation, and no heavy exercise."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Tumor marker test tomorrow. Usually on an empty stomach: a light dinner tonight, only water in the morning."
+  }
+ ]
+}

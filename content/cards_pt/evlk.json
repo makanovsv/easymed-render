@@ -1,0 +1,88 @@
+{
+ "title": "Tratamento de varizes a laser",
+ "also": [
+  "laser endovenoso",
+  "termoablação a laser",
+  "cirurgia de varizes a laser",
+  "ablação de veia a laser"
+ ],
+ "what": "O médico coloca uma fibra fina dentro da veia doente e a fecha por dentro com laser. O sangue passa a correr pelas veias saudáveis. Não há cortes, só um furinho.",
+ "why": "Em caso de varizes, quando a veia doente atrapalha a circulação do sangue: peso, inchaço, veias dilatadas nas pernas.",
+ "duration": "o procedimento leva normalmente de 30 a 60 minutos, e você vai para casa no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico vai dizer o que fazer",
+  "Se você já teve trombose nas veias",
+  "Alergia a anestésicos locais",
+  "Gravidez ou amamentação",
+  "Doenças do coração, diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes do procedimento, é obrigatório o ultrassom das veias das pernas e exames. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Compressão",
+   "text": "Normalmente você compra antes uma meia de compressão do seu tamanho. A compressão e o tamanho, o médico vai dizer."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de jejum, porque o procedimento é com anestesia local. Café da manhã leve: confirme com a clínica."
+  },
+  {
+   "title": "Pele",
+   "text": "Não passe creme na perna no dia do procedimento. Se precisa depilar a perna, confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Resultados do ultrassom das veias e dos exames",
+  "Meia de compressão ou faixa elástica",
+  "Calça larga e sapato confortável",
+  "Documentos"
+ ],
+ "steps": [
+  "Com o ultrassom, o médico marca na pele a veia doente",
+  "Limpam a perna e furam a veia com anestesia local",
+  "Colocam a fibra fina dentro da veia",
+  "Ao longo da veia, aplicam uma solução anestésica embaixo da pele, com algumas picadas",
+  "O laser é ligado, e a fibra é puxada devagar. A veia vai se fechando",
+  "Colocam a meia de compressão na perna"
+ ],
+ "feel": [
+  "As picadas da anestesia incomodam, mas dá para aguentar",
+  "Durante o laser, calor ou um leve formigamento",
+  "Se doer, avise o médico"
+ ],
+ "after": [
+  "Logo depois do procedimento, você precisa caminhar de 30 a 60 minutos",
+  "A meia é usada normalmente de 1 a 4 semanas, como o médico orientar",
+  "Manchas roxas e dor em pontada ao longo da veia duram normalmente 1 a 2 semanas",
+  "Por 2 a 3 semanas, sem sauna, banho muito quente de banheira e esporte pesado",
+  "O ultrassom de controle é feito em alguns dias ou semanas, como o médico disser"
+ ],
+ "red_flags": [
+  "A perna inchou muito, a panturrilha dói, ficou quente ou arroxeada",
+  "Falta de ar de repente, dor no peito, tosse com sangue: ligue para a emergência na hora",
+  "Febre acima de 38 graus, vermelhidão e pus no local do furo"
+ ],
+ "faq": [
+  {
+   "q": "O tratamento de varizes a laser dói?",
+   "a": "Com anestesia local, normalmente dá para aguentar. O mais desconfortável são as picadas da solução ao longo da veia."
+  },
+  {
+   "q": "Quanto tempo usar a meia depois do laser?",
+   "a": "Normalmente de 1 a 4 semanas, e o esquema é individual. Nos primeiros dias, quase sem tirar."
+  },
+  {
+   "q": "As varizes podem voltar?",
+   "a": "A veia fechada não volta a funcionar, mas com o tempo outras veias podem dilatar. Por isso é preciso acompanhar com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o tratamento das veias a laser. Leve a meia de compressão, os resultados do ultrassom e dos exames, e uma calça larga."
+  }
+ ]
+}

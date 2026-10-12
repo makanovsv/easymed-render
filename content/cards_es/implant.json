@@ -1,0 +1,87 @@
+{
+ "title": "Implante dental",
+ "also": [
+  "implante dental",
+  "poner un implante",
+  "implante en lugar de diente"
+ ],
+ "what": "El cirujano dentista pone en el hueso de la mandíbula un tornillo pequeño en lugar de la raíz del diente. Cuando se integra, se le pone una corona encima.",
+ "why": "Cuando falta un diente o hay que sacarlo, y no quieres desgastar los dientes de al lado para un puente.",
+ "duration": "poner un implante suele tomar de 30 a 60 minutos; la corona normalmente se pone a los 3 a 6 meses",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y los de la osteoporosis. El médico decide qué hacer",
+  "Si tienes diabetes o enfermedades del corazón",
+  "Si fumas",
+  "Si te dieron radioterapia en la cabeza o el cuello",
+  "Si tienes alergias o estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Normalmente toman una tomografía de la mandíbula. Con ella el médico elige el lugar y el tamaño del implante."
+  },
+  {
+   "title": "Arreglo de la boca",
+   "text": "Los dientes y encías enfermos se tratan antes; muchas veces se hace una limpieza profesional."
+  },
+  {
+   "title": "Análisis",
+   "text": "A veces piden análisis de sangre. La clínica te da la lista."
+  },
+  {
+   "title": "Comida y alcohol",
+   "text": "Normalmente come de 1 a 2 horas antes de la cita. Sin alcohol un día antes y un día después."
+  }
+ ],
+ "bring": [
+  "Tus radiografías y la tomografía de la mandíbula",
+  "La lista de tus medicamentos",
+  "Un acompañante, si habrá sedación"
+ ],
+ "steps": [
+  "El médico te pone una inyección para el dolor y la encía se duerme",
+  "Hace un corte pequeño o un piquete en la encía",
+  "Con una fresa especial prepara el lugar en el hueso",
+  "Atornilla el implante",
+  "Pone una tapita y cose la encía",
+  "En unos meses el implante se integra y se le pone la corona"
+ ],
+ "feel": [
+  "Presión y vibración; no debe doler",
+  "Si te duele, díselo al médico. Te pondrá más anestesia",
+  "Cuando se pasa la anestesia, duele un poco 2 o 3 días"
+ ],
+ "after": [
+  "Las primeras horas, frío en la mejilla: 15 minutos y descansos",
+  "La hinchazón suele ser mayor el día 2 o 3 y luego baja",
+  "Los primeros días, comida suave y tibia; mastica del otro lado",
+  "No fumes: el implante se integra peor",
+  "Enjuagues y medicamentos, solo los que te indicó el médico",
+  "Los puntos normalmente se quitan a los 7 a 14 días"
+ ],
+ "red_flags": [
+  "El sangrado no se detiene en más de una hora",
+  "La hinchazón y el dolor aumentan después del día 3, o hay fiebre",
+  "Al día siguiente no sientes el labio o la barbilla: díselo al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele que pongan un implante?",
+   "a": "Mientras lo ponen, no: funciona la anestesia. Después duele un poco 2 o 3 días; ayudan los analgésicos que te recomiende el médico."
+  },
+  {
+   "q": "¿Cuánto dura un implante?",
+   "a": "Normalmente muchos años. Es importante no fumar, lavarte los dientes e ir a revisiones."
+  },
+  {
+   "q": "¿Cuándo tendré el diente?",
+   "a": "Normalmente a los 3 a 6 meses, cuando el implante se integra. A veces ponen una corona provisional de inmediato; lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu implante. Sin alcohol. Come de 1 a 2 horas antes de la cita y lleva tus radiografías y la lista de medicamentos."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Espirometría",
+ "also": [
+  "espirometría",
+  "prueba de función pulmonar",
+  "prueba de soplar"
+ ],
+ "what": "Una prueba de cuánto aire inhalas y qué tan rápido lo sacas. Respiras en un tubo del aparato. Es segura y sin piquetes.",
+ "why": "Si tienes tos, falta de aire o silbidos al respirar; para detectar o revisar asma y enfermedad pulmonar crónica; antes de una cirugía o en revisiones médicas.",
+ "duration": "normalmente de 15 a 30 minutos; con la prueba del inhalador, hasta 45 minutos",
+ "tell_doctor": [
+  "Qué inhaladores y medicamentos para los pulmones usas. El médico te dice si hay que saltarlos antes de la prueba",
+  "Si hace poco tuviste un infarto o cirugía de ojos, pecho o abdomen",
+  "Si ahora tienes gripa, fiebre o sangre al toser",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "A veces te piden no usar el inhalador unas horas antes. Hazlo solo si el médico te lo dice."
+  },
+  {
+   "title": "Cigarro",
+   "text": "No fumes al menos una hora antes del estudio."
+  },
+  {
+   "title": "Comida y esfuerzo",
+   "text": "No comas mucho 2 horas antes y no tomes café en la mañana. No llegues corriendo: siéntate 15 minutos."
+  },
+  {
+   "title": "Ropa",
+   "text": "Holgada: un cinturón apretado no deja tomar aire profundo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "El inhalador que usas",
+  "Tus resultados anteriores de espirometría"
+ ],
+ "steps": [
+  "La enfermera mide tu estatura y peso: de eso dependen los valores normales",
+  "Te sientas y te ponen una pinza en la nariz",
+  "Rodeas bien con los labios una boquilla desechable",
+  "Respiras tranquilo y luego, cuando te digan, tomas todo el aire que puedas",
+  "Y de inmediato lo sacas con toda tu fuerza, largo, hasta el final",
+  "Se repite 3 o 4 veces para tomar el mejor resultado",
+  "A veces te dan a inhalar un medicamento y repiten la prueba a los 15 a 20 minutos"
+ ],
+ "feel": [
+  "Tienes que esforzarte: la prueba depende de tu fuerza",
+  "Te puedes marear o dar tos. Se quita en un minuto; puedes descansar entre intentos"
+ ],
+ "after": [
+  "Puedes volver a tus cosas de inmediato",
+  "Normalmente te dan el resultado en ese momento o el mismo día",
+  "El resultado te lo explica tu médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué se repite varias veces la espirometría?",
+   "a": "El resultado depende de la fuerza al soplar. Se necesitan varios intentos parecidos para que los datos sean precisos."
+  },
+  {
+   "q": "¿Para qué inhalar un medicamento durante la prueba?",
+   "a": "Es una prueba: el médico ve si respiras mejor. Así se ayuda a distinguir el asma de otras enfermedades de los pulmones."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu espirometría. Lleva tu inhalador. Sáltalo solo si te lo dijo el médico."
+  }
+ ]
+}

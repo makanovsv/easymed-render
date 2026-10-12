@@ -1,0 +1,81 @@
+{
+ "title": "EEG (electroencephalogram)",
+ "also": [
+  "EEG",
+  "brain wave test",
+  "electroencephalogram",
+  "sleep EEG"
+ ],
+ "what": "A recording of your brain's electrical activity, using sensors on your head. No current is sent through the sensors. They only listen.",
+ "why": "For seizures, fainting, episodes of unusual behavior, or to check epilepsy treatment.",
+ "duration": "usually 20 to 40 minutes; a sleep recording takes longer",
+ "tell_doctor": [
+  "All your medicines, especially for seizures and calming medicines. Do not stop them on your own",
+  "What your attacks look like and when you had the last one",
+  "If flashing lights make you feel unwell"
+ ],
+ "prepare": [
+  {
+   "title": "Hair",
+   "text": "Wash your hair the day before or that morning. No conditioner, oil, hairspray, or gel. The sensors must sit close to your scalp."
+  },
+  {
+   "title": "Hairstyle",
+   "text": "Take out braids, hair clips, and hair extensions. Do not wear earrings or metal jewelry on your head."
+  },
+  {
+   "title": "Food",
+   "text": "Eat as usual. Hunger can change the recording. It is better to skip strong coffee and energy drinks that day."
+  },
+  {
+   "title": "Sleep",
+   "text": "If you have a sleep EEG or one after a sleepless night, your clinic will tell you how much to sleep the night before."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past EEGs and reports",
+  "A list of your medicines",
+  "A towel or a hat. Your hair will be damp from the gel",
+  "Your child's favorite toy"
+ ],
+ "steps": [
+  "You sit in a chair or lie down",
+  "A soft cap with sensors is put on your head, or the sensors are attached with gel",
+  "You are asked to close your eyes and sit quietly",
+  "You are asked to open and close your eyes a few times",
+  "For about 3 minutes, you breathe deeply and fast",
+  "A bright light flashes in front of your eyes"
+ ],
+ "feel": [
+  "The cap presses a little, and the gel feels cool",
+  "Fast breathing can make you dizzy or your fingers tingle. This passes",
+  "No current is sent to you. It does not hurt"
+ ],
+ "after": [
+  "The gel is washed off, and you can go back to your day right away",
+  "The report is usually given the same day or within a few days",
+  "A neurologist explains the results"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is an EEG harmful to the brain?",
+   "a": "No. The sensors only record brain signals. They send nothing into your head. EEGs are done even on babies."
+  },
+  {
+   "q": "Should I stop seizure medicines before an EEG?",
+   "a": "Not on your own. Stopping suddenly is dangerous. Tell your doctor, and the doctor decides."
+  },
+  {
+   "q": "Can I wash my hair before an EEG?",
+   "a": "You should. Clean hair with no conditioner or hairspray gives an accurate recording."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "EEG tomorrow. Wash your hair without conditioner or oils. Do not do a complicated hairstyle."
+  }
+ ]
+}

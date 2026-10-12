@@ -1,0 +1,75 @@
+{
+ "title": "Fisioterapia con aparatos (magnetoterapia, electroterapia, ultrasonido)",
+ "also": [
+  "electroterapia",
+  "magnetoterapia",
+  "ultrasonido terapéutico",
+  "iontoforesis"
+ ],
+ "what": "Tratamiento con métodos físicos: campo magnético, corriente débil o ultrasonido. El aparato se pone sobre la piel; es un procedimiento tranquilo.",
+ "why": "Como apoyo al tratamiento principal: dolor de articulaciones y espalda, después de lesiones y cirugías, y en algunas inflamaciones.",
+ "duration": "una sesión suele durar de 10 a 20 minutos; el tratamiento, normalmente de 7 a 10 sesiones",
+ "tell_doctor": [
+  "Si tienes marcapasos u otros aparatos electrónicos en el cuerpo",
+  "Si estás embarazada",
+  "Si tienes o tuviste cáncer",
+  "Fiebre, sangrados o enfermedades de la piel en la zona a tratar",
+  "Piezas de metal en la zona a tratar",
+  "Alergia al medicamento, si te hacen iontoforesis"
+ ],
+ "prepare": [
+  {
+   "title": "Piel",
+   "text": "Limpia, sin crema ni pomada en la zona del tratamiento."
+  },
+  {
+   "title": "Ropa",
+   "text": "Cómoda, para descubrir fácil la parte del cuerpo."
+  },
+  {
+   "title": "Comida",
+   "text": "No vayas con hambre ni justo después de una comida pesada; mejor una hora o una hora y media después."
+  },
+  {
+   "title": "Joyas",
+   "text": "Quítate las joyas de metal cerca de la zona del tratamiento."
+  }
+ ],
+ "bring": [
+  "La orden médica con los tratamientos indicados",
+  "El medicamento para la iontoforesis, si la clínica te lo pidió",
+  "Una toalla o sábana, si la clínica lo pide"
+ ],
+ "steps": [
+  "Te acuestas o te sientas y descubres la zona",
+  "En la magnetoterapia ponen el aparato sobre el cuerpo o metes el brazo o la pierna en él",
+  "En la iontoforesis ponen en la piel unas almohadillas húmedas con medicamento y electrodos",
+  "En el ultrasonido ponen gel en la piel y pasan un sensor",
+  "Prenden el aparato el tiempo indicado; quédate acostado tranquilo",
+  "Al final quitan todo y limpian la piel"
+ ],
+ "feel": [
+  "El imán, normalmente nada; a veces un poco de calor",
+  "La iontoforesis, hormigueo o piquetitos debajo de las almohadillas",
+  "El ultrasonido, nada o un poco de calor",
+  "Si arde o duele, díselo de inmediato a la enfermera"
+ ],
+ "after": [
+  "Quédate sentado de 10 a 15 minutos, sobre todo si hace frío",
+  "Un poco de piel roja después de la iontoforesis se quita en un par de horas",
+  "Muchas veces el efecto no se nota de inmediato, sino después de varias sesiones",
+  "No faltes a las sesiones sin una razón"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Sirve la fisioterapia con aparatos?",
+   "a": "Puede aliviar el dolor y acelerar la recuperación, pero no reemplaza el tratamiento principal. El efecto cambia según la persona y el método."
+  },
+  {
+   "q": "¿Quién no puede recibir fisioterapia con aparatos?",
+   "a": "Normalmente las personas con marcapasos, embarazo, cáncer, fiebre o sangrados. El médico lo revisa antes de indicarla."
+  }
+ ],
+ "reminders": []
+}

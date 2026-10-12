@@ -1,0 +1,88 @@
+{
+ "title": "Cardiac radiofrequency ablation",
+ "also": [
+  "cardiac ablation",
+  "catheter ablation",
+  "heart ablation",
+  "ablation for arrhythmia"
+ ],
+ "what": "Thin tubes are passed through a blood vessel in the groin up to the heart. The doctor finds the spot that causes the rhythm problem and burns it. There are no cuts on the chest.",
+ "why": "For heart rhythm problems when medicines do not help, cause side effects, or when ablation is the better choice for you.",
+ "duration": "the procedure usually takes 1 to 4 hours; the hospital stay is usually 1 to 3 days",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners and rhythm medicines. The doctor will tell you what to stop and when",
+  "Allergies to iodine, contrast dye, or medicines",
+  "Kidney disease or diabetes",
+  "If you are or might be pregnant",
+  "If you ever had problems with anesthesia"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Blood tests, an ECG, a heart ultrasound, and sometimes a 24-hour ECG or a heart CT scan. Your clinic will give you the list."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop any medicines on your own. The doctor will tell you in advance which to take and which to skip."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no food from the evening before, and no drinks for a few hours before. Your clinic will give you the exact times."
+  },
+  {
+   "title": "Groin area",
+   "text": "Sometimes you are asked to shave the groin. Check with your clinic."
+  }
+ ],
+ "bring": [
+  "Your referral and test results",
+  "All your ECG records, especially from attacks",
+  "Your ID",
+  "A list of your medicines",
+  "Things for a hospital stay of 1 to 3 days"
+ ],
+ "steps": [
+  "You lie on a table, and sensors are stuck on your chest",
+  "A thin tube called an IV is put into a vein. You get a calming medicine, sometimes general anesthesia",
+  "The groin is numbed with an injection",
+  "Thin tubes are passed through a blood vessel to the heart, guided by X-rays",
+  "The doctor studies your heart rhythm, and sometimes starts an attack on purpose",
+  "The problem spot is burned with high-frequency current",
+  "The tubes are removed, and a tight bandage is put on the groin"
+ ],
+ "feel": [
+  "The numbing injection in the groin stings",
+  "You may feel your heart racing when an attack is started",
+  "During the burning, you may feel burning or pressure in your chest. Tell the doctor",
+  "Afterwards, you need to lie for a few hours without bending your leg"
+ ],
+ "after": [
+  "Usually you lie flat for a few hours, then you can get up",
+  "A bruise in the groin is common and safe",
+  "For about a week, do not lift heavy things or do sports",
+  "In the first weeks, skipped beats sometimes happen. Tell your doctor",
+  "Take medicines after the procedure exactly as your doctor says"
+ ],
+ "red_flags": [
+  "Bleeding from the puncture site or a growing lump in the groin: press on it and call emergency services",
+  "Chest pain, shortness of breath, or fainting",
+  "Your leg turns cold, pale, or numb",
+  "Weakness in an arm or leg, or trouble speaking: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Is ablation heart surgery?",
+   "a": "It is done through a blood vessel, with no cuts on the chest. It is usually done with local numbing and a calming medicine."
+  },
+  {
+   "q": "Will the arrhythmia go away for good after ablation?",
+   "a": "Often yes, but it depends on the type of arrhythmia. Sometimes a second procedure is needed. Your doctor will explain your case."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ablation tomorrow. Pack your ID, ECG records, and list of medicines. Eat and drink only until the times your clinic gave you."
+  }
+ ]
+}

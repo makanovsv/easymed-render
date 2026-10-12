@@ -1,0 +1,73 @@
+{
+ "title": "Quitar una garrapata",
+ "also": [
+  "picadura de garrapata",
+  "garrapata pegada",
+  "sacar una garrapata"
+ ],
+ "what": "El médico o la enfermera saca con cuidado la garrapata pegada, completa. La garrapata se puede mandar a analizar para buscar infecciones.",
+ "why": "Cuando una garrapata se pegó a la piel. Entre más pronto se saque, menor es el riesgo de infección.",
+ "duration": "sacarla toma unos minutos",
+ "tell_doctor": [
+  "Más o menos cuándo se pegó la garrapata",
+  "Si estás vacunado contra la encefalitis por garrapatas",
+  "Dónde te picó: en el bosque, en el campo, en qué lugar",
+  "Si tienes alergia a medicamentos o estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "No la jales",
+   "text": "No le pongas aceite, crema ni alcohol, y no la tuerzas con los dedos: así puede soltar más saliva."
+  },
+  {
+   "title": "Rápido",
+   "text": "Ve a urgencias o a una clínica ese mismo día. Si no hay ayuda cerca, la garrapata se puede sacar con pinzas o con un hilo."
+  },
+  {
+   "title": "Si la sacaste tú",
+   "text": "Pon la garrapata en un frasco con un algodón húmedo y ciérralo. Limpia la picadura con antiséptico."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La garrapata en un frasco cerrado, si ya la sacaste",
+  "Tus datos de vacunas, si los tienes"
+ ],
+ "steps": [
+  "Revisan el lugar de la picadura",
+  "Toman la garrapata con pinzas o con un ganchito especial, pegado a la piel",
+  "La sacan despacio y completa, sin jalones",
+  "Limpian la herida con antiséptico",
+  "Ponen la garrapata en un frasco; se puede mandar a analizar",
+  "El médico decide si hace falta prevenir infecciones"
+ ],
+ "feel": [
+  "Normalmente casi nada; un ligero piquete"
+ ],
+ "after": [
+  "Si mandaron la garrapata a analizar, el resultado suele estar en 1 a 3 días",
+  "Obsérvate de 3 a 4 semanas y tómate la temperatura",
+  "Un poco de enrojecimiento en la picadura los primeros días puede pasar",
+  "Si quedó un puntito negro, enséñaselo al médico"
+ ],
+ "red_flags": [
+  "Fiebre, dolor de cabeza o dolor de cuerpo en las siguientes semanas: ve al médico de inmediato y dile lo de la garrapata",
+  "Una mancha roja o un anillo alrededor de la picadura que va creciendo",
+  "Fiebre con sangrados, moretones, sangre de las encías o la nariz: llama a emergencias de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué hago si la cabeza de la garrapata se quedó en la piel?",
+   "a": "Limpia con antiséptico y enséñaselo al médico. Muchas veces sale sola; no hay que sacarla con una aguja."
+  },
+  {
+   "q": "¿Hay que mandar la garrapata a analizar?",
+   "a": "Es útil: si encuentran infección en la garrapata, el médico puede empezar antes la prevención o el tratamiento."
+  },
+  {
+   "q": "¿Puedo sacar la garrapata yo solo?",
+   "a": "Sí, con pinzas pegadas a la piel, despacio y sin jalones. Sin aceite ni alcohol."
+  }
+ ],
+ "reminders": []
+}

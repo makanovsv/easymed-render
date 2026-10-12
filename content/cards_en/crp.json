@@ -1,0 +1,68 @@
+{
+ "title": "C-reactive protein (CRP)",
+ "also": [
+  "CRP",
+  "C-reactive protein test",
+  "inflammation blood test",
+  "high-sensitivity CRP"
+ ],
+ "what": "A blood test from a vein. It shows if there is inflammation in your body and how strong it is.",
+ "why": "For fever, a suspected infection, joint pain, or to check how treatment works. High-sensitivity CRP is sometimes ordered to check the risk of heart disease.",
+ "duration": "the blood draw takes 2 to 3 minutes; results usually in 1 day",
+ "tell_doctor": [
+  "If you were recently ill, injured, or had surgery",
+  "Which medicines you take, especially hormones and anti-inflammatory medicines",
+  "Pregnancy"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "The test is usually done in the morning on an empty stomach, or 3 to 4 hours after a light meal. Check with your clinic."
+  },
+  {
+   "title": "The day before",
+   "text": "No fatty food, alcohol, or hard workouts."
+  },
+  {
+   "title": "Water",
+   "text": "You can drink plain water."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Past CRP results, to compare"
+ ],
+ "steps": [
+  "You sit down and rest your arm on a support",
+  "A band is tightened above your elbow",
+  "The skin is wiped with alcohol",
+  "Blood is taken into a tube with a needle",
+  "A cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick",
+  "If you are scared or feel dizzy, say so. You can lie down"
+ ],
+ "after": [
+  "Keep the cotton pad pressed for 3 to 5 minutes",
+  "You can eat right away",
+  "Your doctor will explain the result. The number alone is not a diagnosis"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What does a high CRP mean?",
+   "a": "It means there is inflammation in your body. The doctor looks for the cause. It may be a cold, an infection, or something else."
+  },
+  {
+   "q": "How is CRP different from ESR?",
+   "a": "CRP rises faster and falls faster. That is why it is easier to track inflammation with it."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "CRP blood test tomorrow. Have a light dinner, with no fatty food or alcohol."
+  }
+ ]
+}

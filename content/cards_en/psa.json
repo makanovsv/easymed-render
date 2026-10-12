@@ -1,0 +1,78 @@
+{
+ "title": "PSA blood test",
+ "also": [
+  "PSA test",
+  "prostate specific antigen",
+  "PSA",
+  "prostate blood test"
+ ],
+ "what": "This is a regular blood test from a vein. It shows the level of a protein made by the prostate gland.",
+ "why": "To check the prostate in men, usually after age 45 to 50, for problems passing urine, and for follow-up after treatment.",
+ "duration": "the blood draw takes 2 to 3 minutes; the result usually comes in 1 to 2 days",
+ "tell_doctor": [
+  "If you take medicines for an enlarged prostate. They can lower PSA",
+  "If you recently had a prostate massage, a rectal exam, a biopsy, or a catheter",
+  "If you have inflammation or a urinary tract infection right now",
+  "Your past PSA results. It is important to compare"
+ ],
+ "prepare": [
+  {
+   "title": "2 days before",
+   "text": "You are usually advised to avoid ejaculation, long bike rides, and heavy exercise for 2 days. These can raise PSA."
+  },
+  {
+   "title": "After procedures",
+   "text": "If you had a prostate exam, massage, or biopsy, the test is usually done later. The doctor will tell you how long to wait."
+  },
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast. If you are having other tests at the same time, check with your clinic."
+  },
+  {
+   "title": "Medicines",
+   "text": "Take your medicines as usual. Do not stop them on your own. Tell your doctor, who will decide."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Your ID",
+  "Your past PSA results"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied around your upper arm",
+  "The skin is wiped with alcohol",
+  "Blood is taken from a vein into a tube with a needle",
+  "A cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a mosquito bite",
+  "Sometimes a small bruise afterwards"
+ ],
+ "after": [
+  "Keep the cotton pad pressed for 3 to 5 minutes",
+  "You can eat and go about your day right away",
+  "Discuss the result with your doctor. Normal levels depend on age, and one high result is not yet a diagnosis"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Does a high PSA mean cancer?",
+   "a": "Not necessarily. PSA can be raised by inflammation, an enlarged prostate, or sex and cycling the day before. The doctor decides whether to repeat the test or check further."
+  },
+  {
+   "q": "How do I prepare for a PSA test?",
+   "a": "Usually 2 days without ejaculation, cycling, or heavy exercise. And not right after a prostate exam or massage."
+  },
+  {
+   "q": "At what age should I get a PSA test?",
+   "a": "Usually after 45 to 50, or earlier if close relatives had prostate cancer. It is best to decide together with your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "PSA test in 2 days. Before the test, you are usually advised to avoid sex, cycling, and heavy exercise."
+  }
+ ]
+}

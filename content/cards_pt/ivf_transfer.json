@@ -1,0 +1,91 @@
+{
+ "title": "Fertilização in vitro: transferência de embrião",
+ "also": [
+  "transferência embrionária",
+  "transferência de embriões",
+  "transferência de embrião congelado"
+ ],
+ "what": "O médico coloca o embrião dentro do útero por um tubo fino e macio. É rápido, sem cortes e normalmente sem anestesia.",
+ "why": "É a etapa principal da fertilização in vitro: depois de coletar e fecundar os óvulos, o embrião é colocado no útero para poder se fixar.",
+ "duration": "a transferência leva normalmente de 5 a 15 minutos; na clínica, cerca de 1 a 2 horas",
+ "tell_doctor": [
+  "Todos os remédios e hormônios que você usa",
+  "Se apareceu dor no pé da barriga, inchaço ou sangramento",
+  "Febre ou gripe",
+  "Alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Hormônios",
+   "text": "Continue os remédios de suporte exatamente conforme o esquema do médico. Não mude nada por conta própria."
+  },
+  {
+   "title": "Bexiga",
+   "text": "Muitas vezes pedem para chegar com a bexiga moderadamente cheia, porque assim se vê melhor no ultrassom. Quanto beber, a clínica vai dizer."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode tomar um café da manhã leve. Se for com sedação, confirme quanto tempo ficar sem comer."
+  },
+  {
+   "title": "Neste dia",
+   "text": "Sem perfume e sem maquiagem com cheiro forte. Roupa confortável."
+  }
+ ],
+ "bring": [
+  "Documentos e contrato",
+  "Pedido médico e resultados de exames",
+  "O esquema do suporte hormonal",
+  "Meias, porque a sala pode estar fria",
+  "Um acompanhante, se quiser"
+ ],
+ "steps": [
+  "Chamam você à sala e conferem o nome e os dados do embrião",
+  "Você deita na cadeira ginecológica",
+  "O médico coloca o espéculo, como num exame comum, e limpa o colo do útero",
+  "O embriologista entrega o tubo fino com o embrião",
+  "O médico leva o tubo até o útero, guiado pelo ultrassom, e solta o embrião",
+  "O tubo é conferido no microscópio, para ver se o embrião ficou no útero",
+  "Você descansa deitada alguns minutos e depois pode ir"
+ ],
+ "feel": [
+  "Normalmente parece um exame ginecológico ou um preventivo",
+  "Às vezes uma cólica leve no pé da barriga",
+  "A bexiga cheia incomoda. Depois da transferência, pode ir logo ao banheiro, o embrião não cai"
+ ],
+ "after": [
+  "Não precisa de repouso rigoroso na cama, só uma vida tranquila",
+  "Normalmente recomendam evitar sauna, banho muito quente e esforço pesado. Confirme com o médico",
+  "Continue o suporte hormonal exatamente conforme o esquema",
+  "O exame de sangue de gravidez normalmente é feito em 9 a 14 dias. O prazo, a clínica vai dizer",
+  "O teste de farmácia antes do prazo pode errar"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, sangramento forte, febre: vá ao médico na hora",
+  "Barriga muito inchada, falta de ar, aumento de peso rápido, pouca urina: vá ao médico com urgência ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Preciso ficar deitada depois da transferência?",
+   "a": "Não. Ficar muito tempo na cama não aumenta a chance de gravidez. Basta uma rotina tranquila."
+  },
+  {
+   "q": "O embrião pode cair se eu for ao banheiro?",
+   "a": "Não. O embrião fica dentro do útero e não tem nenhuma ligação com a bexiga."
+  },
+  {
+   "q": "Quando dá para saber se deu certo?",
+   "a": "Normalmente em 9 a 14 dias, pelo exame de sangue de beta-hCG. O teste antes do prazo muitas vezes dá resultado errado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a transferência do embrião. Continue os hormônios conforme o esquema. Leve os documentos e meias."
+  },
+  {
+   "hoursBefore": 2,
+   "text": "A transferência está chegando. Se a clínica pediu, beba água para a bexiga ficar moderadamente cheia."
+  }
+ ]
+}

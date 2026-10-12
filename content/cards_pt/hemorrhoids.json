@@ -1,0 +1,90 @@
+{
+ "title": "Tratamento de hemorroidas (cirurgia)",
+ "also": [
+  "cirurgia de hemorroida",
+  "hemorroidectomia",
+  "ligadura elástica de hemorroidas",
+  "hemorroida a laser"
+ ],
+ "what": "O cirurgião proctologista retira ou amarra as hemorroidas aumentadas. Há várias formas: desde colocar elásticos sem anestesia até cirurgia com anestesia.",
+ "why": "Quando as hemorroidas saem para fora, sangram ou doem muito, e pomadas, supositórios e alimentação já não ajudam.",
+ "duration": "o procedimento leva normalmente de 15 minutos a 1 hora; às vezes você vai para casa no mesmo dia, e depois de cirurgia normalmente fica de 1 a 3 dias no hospital",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergias",
+  "Doenças do coração, diabetes",
+  "Se já teve problema com anestesia",
+  "Se tem prisão de ventre com frequência"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes exame do intestino. A lista, a clínica vai passar."
+  },
+  {
+   "title": "Intestino",
+   "text": "Normalmente, na noite anterior e de manhã, faz-se uma lavagem intestinal ou se bebe uma solução, conforme o esquema do médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Se for com anestesia geral ou raquidiana, normalmente não se come desde a noite anterior. O horário exato, a clínica vai dizer."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Se precisar de anestesia mais forte que a local, o anestesista vai conversar com você."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados de exames",
+  "Documentos",
+  "Lista de remédios",
+  "Roupa íntima confortável e absorventes",
+  "Coisas para ficar no hospital de 1 a 3 dias"
+ ],
+ "steps": [
+  "Você troca de roupa e, se for preciso, colocam um cateter na veia",
+  "Aplicam a anestesia: local, nas costas ou geral, a que foi combinada com o médico",
+  "Você deita de barriga para cima com as pernas levantadas, ou de lado",
+  "O cirurgião retira ou amarra as hemorroidas",
+  "Se for preciso, colocam um tampão com pomada no ânus",
+  "Levam você para o quarto e acompanham como você está"
+ ],
+ "feel": [
+  "Durante o procedimento, não deve doer",
+  "Depois, dor e ardor no ânus, principalmente nos primeiros dias. Dão remédio para dor",
+  "A primeira evacuação muitas vezes dói. Isso é esperado",
+  "Depois dos elásticos, pode haver sensação de pressão por 1 a 2 dias"
+ ],
+ "after": [
+  "Fezes macias são muito importantes: mais água e fibras, e laxante se o médico receitar",
+  "Banhos de assento mornos e higiene depois de cada evacuação, conforme o cirurgião orientar",
+  "Um pouco de sangue no papel nas primeiras 1 a 2 semanas pode acontecer",
+  "Não pegue peso e não fique sentado por muito tempo nas primeiras semanas",
+  "A cicatrização normalmente leva de 2 a 6 semanas, dependendo do método"
+ ],
+ "red_flags": [
+  "Sangramento forte, coágulos de sangue",
+  "Não consegue urinar por mais de 6 a 8 horas",
+  "Febre, calafrios, dor que aumenta muito: vá ao médico na hora ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dói depois da cirurgia de hemorroida?",
+   "a": "Sim, nos primeiros dias há dor, principalmente ao evacuar. Ela é aliviada com remédios, e fezes macias e banhos de assento ajudam a cicatrizar."
+  },
+  {
+   "q": "Dá para tratar hemorroida sem cirurgia?",
+   "a": "No começo, muitas vezes sim: alimentação, pomadas, elásticos, escleroterapia. Qual forma serve para você, o proctologista decide depois de examinar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o procedimento para hemorroidas. Confira o esquema de limpeza do intestino e o horário da última refeição."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Hora da limpeza do intestino, conforme o esquema da clínica. Se for com anestesia, normalmente não se come depois da meia-noite."
+  }
+ ]
+}

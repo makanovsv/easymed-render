@@ -1,0 +1,71 @@
+{
+ "title": "Stool test (coprogram)",
+ "also": [
+  "stool test",
+  "stool sample",
+  "stool analysis"
+ ],
+ "what": "A small amount of stool is looked at under a microscope. It shows how food is digested and whether there is inflammation.",
+ "why": "For belly pain, bloating, diarrhea or constipation, or if digestive problems are suspected.",
+ "duration": "collecting at home takes a few minutes; results usually take 1 to 3 days",
+ "tell_doctor": [
+  "What medicines you take, especially laxatives, iron, digestive enzymes, and antibiotics",
+  "If you recently had a barium X-ray or a colonoscopy"
+ ],
+ "prepare": [
+  {
+   "title": "Container",
+   "text": "Buy a sterile container with a small spoon at a pharmacy, or get one from the lab."
+  },
+  {
+   "title": "Medicines",
+   "text": "Laxatives, suppositories, and enemas are usually not used for 2 to 3 days before the test. If you need them, tell your doctor and they will decide."
+  },
+  {
+   "title": "Food",
+   "text": "Usually eat as normal. Sometimes the doctor gives you a special diet for a few days. Follow it."
+  },
+  {
+   "title": "For women",
+   "text": "It is better to put off the test during your period."
+  }
+ ],
+ "bring": [
+  "The container with your stool",
+  "Your referral"
+ ],
+ "steps": [
+  "First pass urine, so it does not mix with the stool",
+  "Have a bowel movement into a clean, dry bedpan or onto clean plastic wrap, not from the toilet",
+  "With the spoon in the lid, take bits from different spots, about the size of a walnut",
+  "Close the container tightly and label it",
+  "Take it to the lab the same day"
+ ],
+ "feel": [
+  "Nothing. The test is painless"
+ ],
+ "after": [
+  "If you cannot take it right away, the container is usually kept in the fridge, not the freezer, for a few hours. Check how long with the lab",
+  "Your doctor will explain the result"
+ ],
+ "red_flags": [
+  "Black, tar-like stool or a lot of blood in your stool: see a doctor right away or call emergency services",
+  "Severe belly pain with fever or vomiting: see a doctor the same day"
+ ],
+ "faq": [
+  {
+   "q": "Can I collect the stool the evening before?",
+   "a": "A morning sample is better. If you only have an evening one, keep it in the fridge and bring it in the morning. Check the time limit with the lab."
+  },
+  {
+   "q": "How much stool is needed?",
+   "a": "Not much. About a third of the container, the size of a walnut."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Stool test tomorrow. Get a sterile container and a clean, dry bedpan ready."
+  }
+ ]
+}

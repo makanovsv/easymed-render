@@ -1,0 +1,76 @@
+{
+ "title": "Cistoscopia",
+ "also": [
+  "exame da bexiga por câmera",
+  "uretrocistoscopia",
+  "cistoscopia flexível"
+ ],
+ "what": "O urologista examina a bexiga por dentro com um tubo fino com câmera. O tubo entra pelo canal da urina.",
+ "why": "Quando há sangue na urina, infecções frequentes, problemas para urinar, e para acompanhar depois do tratamento da bexiga.",
+ "duration": "normalmente de 5 a 15 minutos, e com o preparo, cerca de 30 minutos",
+ "tell_doctor": [
+  "Remédios que afinam o sangue. O médico decide o que fazer com eles",
+  "Alergia a remédios e a géis anestésicos",
+  "Se agora você tem ardência ou febre. Normalmente a infecção é tratada antes",
+  "Gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Exame de urina",
+   "text": "Às vezes pedem antes um exame de urina, para descartar infecção."
+  },
+  {
+   "title": "Comida",
+   "text": "Se for com anestesia local, normalmente pode comer e beber. Se for com anestesia geral, siga as regras de jejum da clínica."
+  },
+  {
+   "title": "Banheiro",
+   "text": "Antes do procedimento, esvazie a bexiga."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados do exame de urina e do ultrassom, se tiver",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você tira a roupa da cintura para baixo e deita na cadeira ou na maca",
+  "Limpam a pele com antisséptico",
+  "Colocam no canal um gel anestésico e esperam alguns minutos",
+  "O médico introduz o tubo fino com câmera",
+  "A bexiga é enchida com água estéril, e o médico examina as paredes",
+  "Se for preciso, tiram um pedacinho de tecido para análise"
+ ],
+ "feel": [
+  "É desconfortável e estranho, mas normalmente dá para aguentar",
+  "Quando a bexiga enche, dá vontade de ir ao banheiro, isso é normal",
+  "Se doer, avise o médico"
+ ],
+ "after": [
+  "Por 1 a 2 dias pode arder um pouco ao urinar",
+  "A urina pode ficar rosada, isso acontece",
+  "Beba mais água nos primeiros dias",
+  "O resultado do exame o médico normalmente diz na hora, e o da análise do tecido sai depois"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, calafrios",
+  "A urina não sai, ou sai sangue vivo com coágulos",
+  "Dor forte no pé da barriga"
+ ],
+ "faq": [
+  {
+   "q": "A cistoscopia dói?",
+   "a": "Normalmente não: usam gel anestésico e um tubo fino e flexível. É desconfortável, mas dá para aguentar."
+  },
+  {
+   "q": "Posso ir para casa logo depois da cistoscopia?",
+   "a": "Sim, se foi com anestesia local. Depois de anestesia geral, você precisa de um acompanhante."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a cistoscopia. Leve o pedido médico e os exames. Antes do procedimento, vá ao banheiro."
+  }
+ ]
+}

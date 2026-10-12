@@ -1,0 +1,81 @@
+{
+ "title": "Exame do sono (polissonografia)",
+ "also": [
+  "polissonografia",
+  "exame de apneia do sono",
+  "estudo do sono",
+  "teste de apneia"
+ ],
+ "what": "Durante a noite, enquanto você dorme, registram a respiração, o oxigênio no sangue, o pulso, a atividade do cérebro e os movimentos. Colam sensores no corpo, sem agulhas.",
+ "why": "Em caso de ronco alto com paradas na respiração, muito sono durante o dia, insônia ou comportamento estranho dormindo.",
+ "duration": "uma noite, normalmente do começo da noite até de manhã",
+ "tell_doctor": [
+  "Quais remédios você toma, principalmente para dormir e calmantes",
+  "Doenças do coração ou dos pulmões",
+  "Se você já usa um aparelho para respirar durante o sono"
+ ],
+ "prepare": [
+  {
+   "title": "Durante o dia",
+   "text": "Não cochile durante o dia. Depois do almoço, nada de café, chá forte ou energético."
+  },
+  {
+   "title": "Álcool",
+   "text": "Nada de álcool no dia do exame."
+  },
+  {
+   "title": "Corpo",
+   "text": "Lave o cabelo, não use spray, gel nem creme no rosto e na pele. Homens com barba: confirme com a clínica se precisam se barbear."
+  },
+  {
+   "title": "Remédios",
+   "text": "Tome os remédios de sempre normalmente, a não ser que o médico diga outra coisa."
+  }
+ ],
+ "bring": [
+  "Pijama confortável",
+  "O seu travesseiro, se dorme melhor com ele",
+  "Os remédios da noite",
+  "Escova de dentes e as coisas para a manhã",
+  "Pedido médico"
+ ],
+ "steps": [
+  "À noite, levam você para o quarto",
+  "A enfermeira cola sensores na cabeça, no rosto, no peito e nas pernas",
+  "Colocam um tubinho fino embaixo do nariz e um sensor de oxigênio no dedo",
+  "Você deita para dormir como sempre, e a luz é apagada",
+  "Durante a noite, a enfermeira acompanha o registro por uma câmera",
+  "De manhã, os sensores são retirados"
+ ],
+ "feel": [
+  "Com os sensores é estranho, mas não dói",
+  "Muita gente tem medo de não conseguir dormir. Normalmente o sono é suficiente para o resultado",
+  "Se precisar ir ao banheiro, chame a enfermeira, e ela desconecta você"
+ ],
+ "after": [
+  "De manhã, você já pode ir para casa",
+  "Os restos de cola saem com água",
+  "O resultado normalmente sai em alguns dias, e o médico vai analisar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Dá para fazer o exame do sono em casa?",
+   "a": "Sim, existem aparelhos para testar apneia em casa. Mas eles registram menos coisas. Qual serve, o médico decide."
+  },
+  {
+   "q": "E se eu não conseguir dormir na clínica?",
+   "a": "Quase todo mundo dorme. Para o resultado, normalmente bastam algumas horas de sono."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "Hoje você tem exame do sono. Não cochile durante o dia, sem café depois do almoço e sem álcool."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Leve pijama, os remédios da noite e as coisas para a manhã."
+  }
+ ]
+}

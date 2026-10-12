@@ -1,0 +1,62 @@
+{
+ "title": "Grupo sanguíneo y factor Rh",
+ "also": [
+  "tipo de sangre",
+  "grupo y Rh",
+  "análisis de tipo de sangre"
+ ],
+ "what": "El análisis muestra tu grupo de sangre y tu Rh: positivo o negativo. La sangre se saca de la vena o del dedo.",
+ "why": "Antes de una cirugía, en el embarazo o al planearlo, antes de una transfusión, y para tu expediente y documentos.",
+ "duration": "sacar la muestra toma de 1 a 3 minutos",
+ "tell_doctor": [
+  "Si te han hecho transfusiones de sangre, sobre todo hace poco",
+  "Si estás embarazada",
+  "Si ya te habían hecho el análisis, di el resultado"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no necesitas preparación especial. Si también te haces otros análisis, ve en ayunas, como te diga la clínica."
+  },
+  {
+   "title": "Agua",
+   "text": "Toma un vaso de agua natural. Así es más fácil sacar la sangre."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te piden sentarte y decir tu nombre completo, para etiquetar bien el tubo",
+  "La enfermera saca sangre de la vena o del dedo",
+  "Ponen un algodón en el piquete",
+  "En el laboratorio mezclan la sangre con reactivos especiales y ven el resultado"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces, si fue de la vena, queda un pequeño moretón"
+ ],
+ "after": [
+  "Presiona el algodón unos minutos",
+  "Puedes volver a tus actividades de inmediato",
+  "El resultado suele estar el mismo día o al siguiente",
+  "Tu grupo de sangre no cambia en toda la vida. Guarda el resultado"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puede cambiar el grupo de sangre?",
+   "a": "No. El grupo y el Rh vienen de nacimiento y no cambian. La excepción son casos raros después de un trasplante de médula ósea."
+  },
+  {
+   "q": "¿Por qué las embarazadas necesitan saber su Rh?",
+   "a": "Si la mamá es Rh negativo y el bebé Rh positivo, hace falta un seguimiento especial. El médico te dice qué análisis siguen."
+  },
+  {
+   "q": "¿Por qué revisan otra vez el grupo antes de la cirugía?",
+   "a": "Es la regla por seguridad. Antes de una transfusión siempre se revisa la sangre de nuevo, aunque ya se sepa el grupo."
+  }
+ ],
+ "reminders": []
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Raio-X do estômago e do intestino com bário",
+ "also": [
+  "raio-X com bário",
+  "esofagograma",
+  "trânsito intestinal",
+  "seriografia"
+ ],
+ "what": "Você bebe um líquido branco com bário, e no raio-X aparecem o esôfago, o estômago e o intestino. O bário não é absorvido e sai com as fezes.",
+ "why": "Em dificuldade para engolir, dor na barriga, suspeita de estreitamento, hérnia de hiato ou problema na passagem da comida.",
+ "duration": "normalmente de 20 a 40 minutos. Se for ver o intestino delgado, as imagens são feitas ao longo de algumas horas",
+ "tell_doctor": [
+  "Gravidez ou possível gravidez",
+  "Prisão de ventre, dor forte na barriga",
+  "Se já fez cirurgia no estômago ou no intestino",
+  "Diabetes. Por causa do jejum, é preciso ajustar os remédios, e o médico diz como"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente nada de comida de 8 a 12 horas antes do exame, quase sempre desde a noite anterior. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Um jantar leve, sem refrigerante, feijão e outros grãos, repolho e pão escuro."
+  },
+  {
+   "title": "De manhã",
+   "text": "Não beba, não fume e não masque chiclete. Isso atrapalha as imagens."
+  },
+  {
+   "title": "Remédios",
+   "text": "Diga ao médico o que você toma sempre. Ele decide o que tomar de manhã."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Imagens e laudos anteriores",
+  "Água, para beber depois do exame"
+ ],
+ "steps": [
+  "Você tira as joias e a roupa da cintura para cima e veste um avental",
+  "Fica em pé junto ao aparelho de raio-X",
+  "Bebe o líquido de bário em goles, quando o médico pedir",
+  "O médico vê na tela como ele passa e faz as imagens",
+  "Pedem para você virar, deitar e prender a respiração",
+  "Se for ver o intestino, as imagens são repetidas depois de um tempo"
+ ],
+ "feel": [
+  "O líquido é grosso e tem gosto de giz",
+  "Às vezes, um leve estufamento"
+ ],
+ "after": [
+  "Normalmente já pode comer logo depois",
+  "Beba mais água por 1 a 2 dias. Assim o bário sai mais rápido",
+  "As fezes ficam claras ou brancas por 1 a 3 dias. Isso é normal",
+  "O laudo normalmente sai no mesmo dia"
+ ],
+ "red_flags": [
+  "Sem evacuar por mais de 2 a 3 dias, com a barriga inchada e doendo",
+  "Dor forte na barriga, vômito: procure o médico logo ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que as fezes ficam brancas depois do raio-X com bário?",
+   "a": "É o bário saindo. Isso é normal e passa em 1 a 3 dias. Beba mais água."
+  },
+  {
+   "q": "É o mesmo que o enema opaco?",
+   "a": "Não. No enema opaco, o bário entra pelo reto para ver o intestino grosso. O preparo é diferente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem raio-X com bário. Faça um jantar leve, sem refrigerante e sem feijão. Depois do jantar, não coma até o exame."
+  }
+ ]
+}

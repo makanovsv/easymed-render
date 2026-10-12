@@ -1,0 +1,87 @@
+{
+ "title": "Colocação de DIU",
+ "also": [
+  "DIU",
+  "dispositivo intrauterino",
+  "DIU de cobre ou hormonal"
+ ],
+ "what": "O ginecologista coloca dentro do útero um pequeno dispositivo flexível que protege contra a gravidez. Existem DIUs de cobre e hormonais.",
+ "why": "Para uma proteção longa e segura contra a gravidez. O DIU hormonal às vezes é colocado em caso de menstruação muito forte.",
+ "duration": "a colocação leva normalmente de 5 a 10 minutos, e a consulta toda cerca de 30 minutos",
+ "tell_doctor": [
+  "A data de início da última menstruação",
+  "Se teve relação sem proteção depois da última menstruação",
+  "Infecções e corrimento, dor no pé da barriga",
+  "Alergia a cobre ou a remédios",
+  "Se já teve parto por cesárea ou fez cirurgias no útero"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente, antes da colocação, há exame ginecológico, exames para infecções, às vezes ultrassom. A lista, o médico vai passar."
+  },
+  {
+   "title": "Dia do ciclo",
+   "text": "Muitas vezes é colocado durante a menstruação ou logo depois. Pode ser em outros dias, se a gravidez estiver descartada. Confirme com o médico."
+  },
+  {
+   "title": "Dor",
+   "text": "Pergunte ao médico se pode tomar um remédio para dor cerca de 1 hora antes."
+  },
+  {
+   "title": "Comida",
+   "text": "Coma antes da consulta. Com o estômago vazio, você pode ficar tonta."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Absorventes",
+  "O DIU, se a clínica pediu para comprar antes"
+ ],
+ "steps": [
+  "Você deita na cadeira ginecológica, e o médico examina",
+  "Coloca o espéculo e limpa o colo do útero com antisséptico",
+  "O colo é segurado com cuidado com um instrumento",
+  "Com uma sonda fina, medem a profundidade do útero",
+  "O DIU entra por um tubinho fino e se abre lá dentro",
+  "Os fios do DIU são cortados e ficam na vagina"
+ ],
+ "feel": [
+  "Sensação de pressão por causa do espéculo",
+  "Algumas cólicas fortes, como de menstruação dolorida, que duram segundos",
+  "Às vezes fraqueza ou tontura. Fique deitada alguns minutos"
+ ],
+ "after": [
+  "Cólicas e sangramento leve por alguns dias são normais",
+  "Relação sexual e absorvente interno: normalmente depois de alguns dias. O prazo, o médico vai dizer",
+  "Consulta de controle: normalmente depois de 4 a 6 semanas ou depois da primeira menstruação",
+  "Aprenda a sentir os fios depois da menstruação. O médico vai mostrar como"
+ ],
+ "red_flags": [
+  "Dor forte no pé da barriga que não passa com remédio para dor",
+  "Febre acima de 38 graus, corrimento com mau cheiro",
+  "Sangramento forte",
+  "Você não sente os fios, ou sente a ponta dura do DIU",
+  "Sinais de gravidez: vá ao ginecologista na hora"
+ ],
+ "faq": [
+  {
+   "q": "Colocar DIU dói?",
+   "a": "Normalmente há algumas cólicas fortes de poucos segundos. Muitas mulheres sentem como uma menstruação dolorida. Avise o médico se tiver medo da dor."
+  },
+  {
+   "q": "Quando o DIU começa a proteger?",
+   "a": "O de cobre, na hora. O hormonal, na hora ou depois de 7 dias, dependendo do dia do ciclo. Confirme com o médico."
+  },
+  {
+   "q": "O DIU pode sair do lugar?",
+   "a": "Às vezes sim, mais nos primeiros meses. Por isso é importante sentir os fios e ir à consulta de controle."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você vai colocar o DIU. Leve absorventes e os resultados dos exames. Coma antes da consulta."
+  }
+ ]
+}

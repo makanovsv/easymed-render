@@ -1,0 +1,99 @@
+{
+ "title": "Gastroscopy under sedation",
+ "also": [
+  "sedated gastroscopy",
+  "sedated upper endoscopy",
+  "asleep endoscopy",
+  "EGD with sedation"
+ ],
+ "what": "The doctor looks at your food pipe, stomach, and the start of the bowel with a thin tube with a camera, while you sleep. The sleep medicine goes into a vein. It is light sleep, not full general anesthesia.",
+ "why": "For belly pain and burning, heartburn, anemia, weight loss, and to look for ulcers and polyps. Sedation helps if you are afraid, gag strongly, or need a long procedure.",
+ "duration": "the procedure itself usually takes 10 to 20 minutes, plus 30 to 60 minutes to wake up",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners and diabetes medicines",
+  "Allergies, including to medicines and eggs",
+  "Heart or lung disease, snoring, or pauses in breathing during sleep",
+  "If you ever had problems with anesthesia",
+  "Pregnancy"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no food for 6 to 8 hours before. If the procedure is in the morning, have a light dinner the evening before as your last meal."
+  },
+  {
+   "title": "Drinks",
+   "text": "Usually still water is allowed up to 2 to 3 hours before, then nothing. Your clinic will give you the exact time."
+  },
+  {
+   "title": "Medicines",
+   "text": "Take your regular morning medicines only as your doctor says, with a sip of water."
+  },
+  {
+   "title": "Someone to take you home",
+   "text": "You need an adult to take you home. Do not drive that day."
+  },
+  {
+   "title": "Before the procedure",
+   "text": "Take out removable dentures, take off jewelry, and wipe off lipstick."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "Past gastroscopy reports",
+  "A list of your medicines",
+  "The person who will take you home"
+ ],
+ "steps": [
+  "The doctor or anesthesiologist talks with you about your health and medicines",
+  "A thin tube is put into a vein, and a pulse sensor goes on your finger",
+  "You lie on your left side, and a plastic mouth guard goes between your teeth",
+  "The medicine goes into the vein, and you fall asleep within a minute",
+  "The doctor passes the tube through your mouth and looks at your stomach",
+  "If needed, a tiny tissue sample is taken for testing",
+  "You wake up in the ward and are watched until the sleepiness wears off"
+ ],
+ "feel": [
+  "During the procedure you usually feel and remember nothing",
+  "Afterwards you may feel sleepy, sometimes a little dizzy",
+  "Your throat may feel scratchy and your belly a bit bloated. This passes in a few hours"
+ ],
+ "after": [
+  "You can usually eat and drink after 1 to 2 hours, unless the doctor says otherwise",
+  "For the rest of the day: no driving, no alcohol, and no big decisions",
+  "You get the report the same day",
+  "Tissue sample results usually take 1 to 2 weeks"
+ ],
+ "red_flags": [
+  "Severe belly or chest pain, vomiting blood, black stools, a fever, or trouble swallowing or breathing: see a doctor right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Is this general anesthesia?",
+   "a": "It is sedation, a light, controlled sleep. You breathe on your own and wake up quickly, usually a few minutes after the procedure."
+  },
+  {
+   "q": "Why can't I drive after sedation?",
+   "a": "The medicine slows your reactions for several more hours, even if you feel alert. That is why someone must take you home."
+  },
+  {
+   "q": "How long should I not eat before a sedated gastroscopy?",
+   "a": "Usually no food for 6 to 8 hours and no water for 2 to 3 hours. An empty stomach is important for your safety."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Gastroscopy under sedation tomorrow. Arrange for someone to take you home. Do not drive that day."
+  },
+  {
+   "hoursBefore": 10,
+   "text": "Have your last light dinner now. Then no food until the procedure, and water only until the time your clinic gave you."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Gastroscopy soon. Usually from now on, no drinks, not even water. Bring your ID and your list of medicines."
+  }
+ ]
+}

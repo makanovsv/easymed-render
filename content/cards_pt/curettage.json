@@ -1,0 +1,84 @@
+{
+ "title": "Curetagem uterina diagnóstica",
+ "also": [
+  "curetagem",
+  "raspagem do útero",
+  "curetagem diagnóstica",
+  "curetagem fracionada"
+ ],
+ "what": "O médico tira a camada interna do útero para análise. O procedimento é feito com uma anestesia geral curta, muitas vezes junto com o exame do útero por câmera, a histeroscopia.",
+ "why": "Para descobrir a causa de sangramentos do útero, em caso de pólipos ou quando o ultrassom mostra a camada interna do útero mais grossa.",
+ "duration": "o procedimento leva normalmente de 15 a 30 minutos, e muitas vezes você vai para casa no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico vai dizer o que suspender e quando",
+  "Alergias",
+  "Se existe chance de gravidez",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se você ou algum parente já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, coleta de secreção vaginal, às vezes eletrocardiograma. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Data",
+   "text": "A data normalmente é escolhida pelo médico conforme o seu ciclo. Confirme antes."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente, nada de comida de 6 a 8 horas antes e nada de bebida algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Higiene",
+   "text": "De manhã, tome banho. Não faça ducha íntima nem use óvulos sem indicação do médico."
+  }
+ ],
+ "bring": [
+  "Pedido médico e exames",
+  "Documentos",
+  "Absorventes",
+  "Roupa confortável e chinelos",
+  "Um acompanhante, porque depois da anestesia não pode dirigir"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um cateter na veia",
+  "Você deita na cadeira ginecológica",
+  "O anestesista aplica o remédio, e você dorme",
+  "O médico abre o colo do útero e tira o tecido com cuidado",
+  "O tecido vai para o laboratório",
+  "Você acorda e descansa sob observação"
+ ],
+ "feel": [
+  "Depois da anestesia, sonolência e às vezes enjoo",
+  "Dor em pontada no pé da barriga, como cólica menstrual. Dão remédio para dor"
+ ],
+ "after": [
+  "O sangramento normalmente dura alguns dias, às vezes até 10 dias",
+  "Normalmente por 2 semanas: sem relações sexuais, absorvente interno, banheira, piscina e sauna. Confirme com o médico",
+  "Depois da anestesia, não dirija nesse dia",
+  "O resultado da análise do tecido sai normalmente em 1 a 2 semanas, e o médico vai explicar"
+ ],
+ "red_flags": [
+  "Sangramento forte: o absorvente encharca em 1 hora",
+  "Febre acima de 38 graus, dor na barriga que aumenta",
+  "Secreção com cheiro ruim",
+  "Desmaio ou fraqueza forte: ligue para a emergência na hora"
+ ],
+ "faq": [
+  {
+   "q": "A curetagem dói?",
+   "a": "Não, ela é feita com uma anestesia geral curta. Depois, a barriga pode doer um pouco, como na menstruação."
+  },
+  {
+   "q": "Quanto tempo dura o sangramento depois da curetagem?",
+   "a": "Normalmente alguns dias, às vezes até 10 dias. Se o sangramento for forte ou houver febre, procure o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o procedimento. Leve documentos, exames, absorventes e um acompanhante. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

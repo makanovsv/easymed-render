@@ -1,0 +1,78 @@
+{
+ "title": "Exame de escarro",
+ "also": [
+  "coleta de escarro",
+  "exame de catarro",
+  "cultura de escarro"
+ ],
+ "what": "Você tosse e cospe o escarro dos pulmões num frasco estéril. No laboratório, ele é examinado no microscópio e, se for preciso, colocado em cultura.",
+ "why": "Em caso de tosse com catarro que dura muito, inflamação dos brônquios ou dos pulmões, suspeita de tuberculose, ou para escolher o tratamento.",
+ "duration": "a coleta leva de 5 a 10 minutos",
+ "tell_doctor": [
+  "Se você já está tomando antibiótico, porque isso afeta o resultado",
+  "Se apareceu sangue no escarro",
+  "Se o escarro não sai com a tosse"
+ ],
+ "prepare": [
+  {
+   "title": "Horário",
+   "text": "Normalmente o escarro é coletado de manhã, logo depois de acordar, porque durante a noite ele se acumula mais."
+  },
+  {
+   "title": "Boca",
+   "text": "Antes da coleta, não coma. Escove os dentes e enxágue a boca com água fervida, para não cair micróbio a mais no frasco."
+  },
+  {
+   "title": "Frasco",
+   "text": "Pegue um frasco estéril na farmácia ou na clínica. Não abra antes da hora e não toque na parte de dentro."
+  },
+  {
+   "title": "Várias amostras",
+   "text": "Às vezes pedem para coletar o escarro de 2 a 3 dias seguidos. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "O frasco com o escarro, identificado, se coletou em casa"
+ ],
+ "steps": [
+  "Respire fundo 2 a 3 vezes",
+  "Ao soltar o ar, tussa com força, do fundo do peito",
+  "Cuspa o escarro no frasco, sem encostar os lábios na borda",
+  "Feche bem a tampa",
+  "Leve ao laboratório em até 1 a 2 horas"
+ ],
+ "feel": [
+  "Nada desagradável, além da tosse",
+  "Se o escarro não sai, ajuda beber líquidos mornos na noite anterior e respirar fundo"
+ ],
+ "after": [
+  "Saliva não serve para o exame. É preciso escarro dos pulmões",
+  "O resultado do microscópio normalmente sai em 1 a 2 dias, e o da cultura em alguns dias",
+  "Converse sobre o resultado com o médico"
+ ],
+ "red_flags": [
+  "Tosse com muito sangue: ligue para a emergência",
+  "Falta de ar forte ou dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Qual a diferença entre escarro e saliva?",
+   "a": "O escarro é grosso e vem dos pulmões, com tosse funda. A saliva é rala e transparente. Mandar saliva não adianta."
+  },
+  {
+   "q": "O que fazer se o escarro não sai?",
+   "a": "Beba mais água morna na véspera e, de manhã, respire fundo algumas vezes. Se não der certo, avise o médico, porque existem outras formas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã de manhã você vai coletar escarro. Separe o frasco estéril e, à noite, beba mais água morna."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "Antes de coletar o escarro: não coma, escove os dentes e enxágue a boca com água fervida."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "title": "Urocultivo",
+ "also": [
+  "urocultivo",
+  "cultivo de orina",
+  "urocultivo con antibiograma"
+ ],
+ "what": "La orina se pone en un medio especial y se ve si crecen microbios. Si crecen, se revisa qué antibióticos funcionan contra ellos.",
+ "why": "Si tienes ardor y ganas de orinar seguido, se sospecha infección de los riñones o la vejiga, en el embarazo, o para revisar después de un tratamiento.",
+ "duration": "juntar la muestra toma unos minutos; el resultado suele estar en 3 a 7 días",
+ "tell_doctor": [
+  "Si tomaste antibióticos en las últimas 2 semanas: pueden alterar el resultado",
+  "Si estás embarazada",
+  "Si ahora tienes la regla"
+ ],
+ "prepare": [
+  {
+   "title": "Antibióticos",
+   "text": "Normalmente el urocultivo se hace antes de empezar antibióticos. Si ya los tomas, díselo al médico y él decide."
+  },
+  {
+   "title": "Frasco",
+   "text": "Consigue un frasco estéril en la farmacia o la clínica. No lo abras antes ni toques el interior."
+  },
+  {
+   "title": "Hora",
+   "text": "Mejor la primera orina de la mañana. Normalmente hay que llevarla al laboratorio en 1 o 2 horas. Pregunta en tu clínica."
+  }
+ ],
+ "bring": [
+  "El frasco con la orina",
+  "La orden médica"
+ ],
+ "steps": [
+  "En la mañana, lávate las manos y los genitales con agua, sin antiséptico",
+  "Mujeres: tapen la entrada de la vagina con un algodón",
+  "El primer chorrito va al inodoro",
+  "Junta la parte de en medio en el frasco, sin tocar los bordes",
+  "El resto, al inodoro",
+  "Cierra bien la tapa y ponle tu nombre al frasco"
+ ],
+ "feel": [
+  "Nada molesto; es una recolección de orina normal"
+ ],
+ "after": [
+  "Lleva el frasco al laboratorio lo antes posible",
+  "Mientras tanto, guárdalo en un lugar fresco; no lo congeles",
+  "Enséñale al médico el resultado con el antibiótico recomendado"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 grados con escalofríos y dolor en la espalda baja",
+  "Sangre en la orina, dolor fuerte, o no sale la orina"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué hay que juntar la parte de en medio de la orina?",
+   "a": "El primer chorro lleva microbios de la piel. La parte de en medio está más limpia y el resultado es más preciso."
+  },
+  {
+   "q": "¿Puedo hacerme el urocultivo si estoy tomando antibióticos?",
+   "a": "Sí, pero el resultado puede salir falsamente bien. Dile al médico que los estás tomando."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana en la mañana es tu urocultivo. Ten listo un frasco estéril y no lo abras antes."
+  }
+ ]
+}

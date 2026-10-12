@@ -1,0 +1,81 @@
+{
+ "title": "Biópsia de mama",
+ "also": [
+  "biópsia do seio",
+  "punção da mama",
+  "core biopsy",
+  "biópsia por agulha grossa"
+ ],
+ "what": "Com uma agulha fina, o médico tira pedacinhos minúsculos de tecido da mama, guiado pelo ultrassom. Eles são analisados no microscópio.",
+ "why": "Quando o ultrassom ou a mamografia encontram um nódulo, e é preciso saber com certeza o que é.",
+ "duration": "normalmente de 20 a 40 minutos, e a coleta em si leva alguns minutos",
+ "tell_doctor": [
+  "Remédios que afinam o sangue. O médico diz se é preciso suspender",
+  "Alergia a injeções de anestesia",
+  "Gravidez ou amamentação",
+  "Se você tem implantes de silicone"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer como de costume. Confirme com a clínica."
+  },
+  {
+   "title": "Pele",
+   "text": "No dia do procedimento, não passe creme na mama nem desodorante nas axilas."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, com uma parte de cima fácil de tirar. Um sutiã firme, para segurar a mama depois do procedimento."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Imagens e laudos do ultrassom e da mamografia",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você deita de costas ou um pouco de lado",
+  "O médico encontra o local certo com o ultrassom",
+  "Limpam a pele e aplicam uma injeção de anestesia",
+  "Fazem um corte minúsculo na pele",
+  "Com a agulha, tiram alguns pedacinhos. Você vai ouvir um clique",
+  "Às vezes deixam uma marcação minúscula para marcar o local",
+  "Apertam o local e cobrem com um curativo"
+ ],
+ "feel": [
+  "A injeção de anestesia arde um pouco",
+  "Depois, pressão e cliques, mas não dor",
+  "Se doer, avise o médico, e ele coloca mais anestesia"
+ ],
+ "after": [
+  "Gelo na mama, por cima de um pano, diminui o inchaço e o roxo",
+  "Roxo e dor por alguns dias é normal",
+  "Por 1 a 2 dias, sem esporte e sem pegar peso",
+  "O resultado sai normalmente em 1 a 2 semanas, e o médico explica"
+ ],
+ "red_flags": [
+  "O curativo fica encharcado de sangue, a mama incha rápido",
+  "Febre, vermelhidão, dor forte ou que aumenta"
+ ],
+ "faq": [
+  {
+   "q": "Dói fazer biópsia de mama?",
+   "a": "É feita com anestesia local. Normalmente você sente só a picada e pressão."
+  },
+  {
+   "q": "A biópsia pode fazer mal se o nódulo for perigoso?",
+   "a": "Não. Pelos dados atuais, a biópsia não acelera nem espalha a doença. Sem ela, não dá para escolher o tratamento certo."
+  },
+  {
+   "q": "Por que deixam uma marcação na mama?",
+   "a": "Para depois achar exatamente esse local. A marcação é minúscula, segura e não atrapalha a ressonância."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem biópsia. Leve as imagens do ultrassom e da mamografia, e não passe creme nem desodorante."
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "title": "Cirugía de adenoides",
+ "also": [
+  "adenoidectomía",
+  "quitar las adenoides",
+  "operación de adenoides a un niño"
+ ],
+ "what": "El otorrino quita el tejido crecido detrás de la nariz que no deja respirar. Se opera por la boca, sin cortes en la cara, normalmente con anestesia general.",
+ "why": "Cuando el niño siempre respira por la boca, ronca, le dan otitis seguido o oye peor por las adenoides.",
+ "duration": "la cirugía suele durar de 20 a 40 minutos; normalmente se va a casa el mismo día o al día siguiente",
+ "tell_doctor": [
+  "Si en las últimas 2 a 4 semanas el niño tuvo gripa. Muchas veces la cirugía se pospone",
+  "Todos los medicamentos que toma el niño",
+  "Si tiene alergias",
+  "Si el niño o algún familiar tuvo sangrados o problemas con la anestesia",
+  "Vacunas recientes"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre y a veces electrocardiograma y revisión del pediatra. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía hablará contigo el anestesiólogo. Cuéntale sobre la salud del niño."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente el niño no puede comer desde la noche anterior ni beber unas horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Plática",
+   "text": "Explícale con calma que va a dormir un rato y que luego respirará mejor por la nariz."
+  }
+ ],
+ "bring": [
+  "La orden médica y los análisis",
+  "Identificación del niño y del papá o la mamá",
+  "Su juguete favorito",
+  "Ropa de cambio y agua para tomar después de la cirugía"
+ ],
+ "steps": [
+  "Cambian de ropa al niño y a veces le ponen un catéter en la vena",
+  "En el quirófano, el anestesiólogo le pone la anestesia y el niño se duerme",
+  "El médico quita las adenoides por la boca",
+  "El niño despierta en el cuarto; normalmente el papá o la mamá puede estar con él",
+  "Unas horas después, el médico revisa al niño"
+ ],
+ "feel": [
+  "Después de la anestesia, sueño y a veces náuseas o mal humor",
+  "La nariz tapada y la voz un poco gangosa. Se quita",
+  "Puede doler un poco la garganta o los oídos"
+ ],
+ "after": [
+  "Por unos días, comida suave y tibia, no caliente",
+  "Normalmente de 1 a 2 semanas sin baños calientes, sauna, sol ni deporte. El médico te dice cuánto tiempo",
+  "Los primeros días puede haber mal aliento y un poco de fiebre",
+  "Las gotas para la nariz y los cuidados, según te indique el médico"
+ ],
+ "red_flags": [
+  "Sangre de la nariz o la boca que no se detiene: llama a emergencias",
+  "Vómito con sangre o con coágulos oscuros",
+  "Al niño le cuesta respirar",
+  "Fiebre de más de 38.5 grados o el niño no quiere tomar líquidos"
+ ],
+ "faq": [
+  {
+   "q": "¿Pueden volver a crecer las adenoides?",
+   "a": "A veces sí, pero no es común. Pasa más en niños pequeños. El médico te explica los riesgos para tu hijo."
+  },
+  {
+   "q": "¿Siempre hay que quitar las adenoides?",
+   "a": "No, no siempre. Muchas veces primero se tratan sin cirugía. El otorrino decide si hay que quitarlas porque no dejan respirar u oír."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la cirugía de tu hijo. Junta las identificaciones, los análisis y su juguete. Comida y agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

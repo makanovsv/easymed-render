@@ -1,0 +1,81 @@
+{
+ "title": "Sleep study (polysomnography)",
+ "also": [
+  "sleep study",
+  "polysomnography",
+  "sleep apnea test",
+  "overnight sleep test"
+ ],
+ "what": "While you sleep at night, your breathing, blood oxygen, pulse, brain activity, and movements are recorded. Sensors are stuck on your body. No needles.",
+ "why": "For loud snoring with pauses in breathing, strong daytime sleepiness, insomnia, or strange behavior during sleep.",
+ "duration": "one night, usually from evening to morning",
+ "tell_doctor": [
+  "What medicines you take, especially sleeping pills and sedatives",
+  "Heart or lung disease",
+  "If you already have a breathing machine for sleep"
+ ],
+ "prepare": [
+  {
+   "title": "During the day",
+   "text": "Do not nap during the day. After lunch, no coffee, strong tea, or energy drinks."
+  },
+  {
+   "title": "Alcohol",
+   "text": "No alcohol on the day of the study."
+  },
+  {
+   "title": "Your body",
+   "text": "Wash your hair. Do not use hairspray, gel, or cream on your face and skin. Men should shave. If you have a beard, check with your clinic."
+  },
+  {
+   "title": "Medicines",
+   "text": "Take your usual medicines as normal, unless your doctor said otherwise."
+  }
+ ],
+ "bring": [
+  "Comfortable pajamas",
+  "Your own pillow, if you sleep better with it",
+  "Your evening medicines",
+  "A toothbrush and things for the morning",
+  "Your referral"
+ ],
+ "steps": [
+  "In the evening, you are taken to your room",
+  "A nurse sticks sensors on your head, face, chest, and legs",
+  "A thin tube is placed under your nose and an oxygen sensor on your finger",
+  "You go to sleep as usual and the lights are turned off",
+  "During the night, a nurse watches the recording by camera",
+  "In the morning, the sensors are removed"
+ ],
+ "feel": [
+  "The sensors feel unusual, but they do not hurt",
+  "Many people worry they will not fall asleep. Usually there is enough sleep for a result",
+  "If you need the toilet, call the nurse and they will unhook you"
+ ],
+ "after": [
+  "You can go home right away in the morning",
+  "Leftover glue washes off with water",
+  "Results usually take a few days. Your doctor will go over them"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can I do a sleep study at home?",
+   "a": "Yes, there are home devices to check for sleep apnea. But they record less. Your doctor will decide what suits you."
+  },
+  {
+   "q": "What if I cannot fall asleep at the clinic?",
+   "a": "Almost everyone falls asleep. A few hours of sleep is usually enough for a result."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "Sleep study today. No napping, no coffee after lunch, and no alcohol."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Pack your pajamas, evening medicines, and things for the morning."
+  }
+ ]
+}

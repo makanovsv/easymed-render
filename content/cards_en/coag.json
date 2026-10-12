@@ -1,0 +1,74 @@
+{
+ "title": "Blood clotting test",
+ "also": [
+  "coagulation test",
+  "clotting test",
+  "INR",
+  "PT and PTT"
+ ],
+ "what": "A blood test that shows how fast your blood clots. Blood is taken from a vein.",
+ "why": "Before surgery and childbirth, for bruising or bleeding with no clear cause, to check blood thinner medicines, and during pregnancy.",
+ "duration": "the blood draw takes a few minutes; results usually in 1 to 2 days",
+ "tell_doctor": [
+  "Blood thinners and aspirin. They affect the result",
+  "If you are pregnant",
+  "If you ever had blood clots or heavy bleeding",
+  "If blood draws make you feel unwell, or you have fainted before"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually the test is done on an empty stomach, 8 to 12 hours after eating. You can drink plain water. Check with your clinic."
+  },
+  {
+   "title": "The day before",
+   "text": "Do not eat fatty food or drink alcohol. Do not smoke for at least 1 hour before the test."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop your medicines. If you take medicines for your blood, tell your doctor. The doctor decides what to do."
+  },
+  {
+   "title": "Before the draw",
+   "text": "Sit quietly for 10 to 15 minutes. Do not rush."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A list of the medicines you take"
+ ],
+ "steps": [
+  "You sit down and rest your arm on a support",
+  "A band is tightened above your elbow",
+  "The skin is wiped, and a needle goes into a vein",
+  "Blood is collected into one or more tubes",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a mosquito bite",
+  "Sometimes you feel a bit dizzy. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes. Do not bend your arm",
+  "A bruise can appear. It goes away on its own",
+  "You can eat and go back to your day right away",
+  "Your doctor will explain the results"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Do I need an empty stomach for a clotting test?",
+   "a": "Usually yes, 8 to 12 hours after eating. You can drink water. Your clinic will tell you the exact rules."
+  },
+  {
+   "q": "What is INR?",
+   "a": "It is a measure of blood clotting. It is often checked in people who take blood thinners, to find the right dose."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Blood clotting test tomorrow. It is usually done on an empty stomach: no food after dinner, only water. No alcohol or fatty food."
+  }
+ ]
+}

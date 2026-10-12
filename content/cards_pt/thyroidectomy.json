@@ -1,0 +1,88 @@
+{
+ "title": "Retirada da tireoide",
+ "also": [
+  "tireoidectomia",
+  "tireoidectomia parcial",
+  "cirurgia de tireoide"
+ ],
+ "what": "O cirurgião tira a tireoide inteira ou metade dela por um pequeno corte na parte de baixo do pescoço. A cirurgia é feita com anestesia geral.",
+ "why": "Em caso de nódulos com suspeita de câncer ou câncer, bócio grande que aperta o pescoço, e algumas formas de tireoide trabalhando demais.",
+ "duration": "a cirurgia leva normalmente de 1 a 3 horas; no hospital, normalmente de 1 a 3 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergias",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se a voz é importante no seu trabalho: cantor, professor, locutor",
+  "Se já fez cirurgia no pescoço",
+  "Se você ou alguém da família já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue e de hormônios, ultrassom do pescoço, eletrocardiograma. Muitas vezes o otorrino examina as cordas vocais antes da cirurgia."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista vai conversar com você. Conte sobre a sua saúde e os seus remédios."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente, não comer desde a noite anterior e não beber algumas horas antes. O horário exato, a clínica vai dizer."
+  },
+  {
+   "title": "Coisas",
+   "text": "Roupa confortável com gola larga, carregador, os remédios que você toma sempre."
+  }
+ ],
+ "bring": [
+  "Pedido médico, resultados de exames e do ultrassom",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para ficar no hospital de 1 a 3 dias"
+ ],
+ "steps": [
+  "No dia da cirurgia, você troca de roupa, e colocam um cateter na veia",
+  "Na sala de cirurgia, o anestesista aplica a anestesia, e você dorme",
+  "O cirurgião faz um pequeno corte na parte de baixo do pescoço, normalmente numa dobra natural",
+  "A tireoide ou parte dela é retirada, com cuidado para preservar os nervos da voz",
+  "O corte é fechado, às vezes deixam um tubinho fino para drenar",
+  "Você acorda na sala de recuperação"
+ ],
+ "feel": [
+  "Depois da anestesia, sonolência, às vezes enjoo",
+  "Dor na garganta ao engolir, por causa do tubo de respiração. Passa em alguns dias",
+  "O pescoço dói um pouco e repuxa. Dão remédio para dor",
+  "A voz pode ficar rouca ou cansar rápido. Normalmente é passageiro"
+ ],
+ "after": [
+  "Normalmente verificam o nível de cálcio no sangue",
+  "Depois de tirar a tireoide inteira, é preciso tomar hormônio todo dia, a vida toda. A dose, o endocrinologista ajusta",
+  "O resultado da biópsia normalmente sai em 1 a 2 semanas",
+  "Se os pontos serão tirados ou se dissolvem, o cirurgião vai dizer"
+ ],
+ "red_flags": [
+  "O pescoço incha rápido, fica difícil respirar ou engolir: ligue para a emergência na hora",
+  "Formigamento em volta dos lábios e nos dedos, cãibras nas mãos: vá ao médico com urgência, pode ser cálcio baixo",
+  "Febre acima de 38 graus, vermelhidão ou pus no corte"
+ ],
+ "faq": [
+  {
+   "q": "Depois da cirurgia, vou precisar tomar hormônio a vida toda?",
+   "a": "Se tiraram a tireoide inteira, sim, todo dia. Se tiraram metade, nem sempre: muitas vezes a parte que ficou dá conta sozinha."
+  },
+  {
+   "q": "A voz vai mudar depois da cirurgia?",
+   "a": "Na maioria das vezes, a voz continua igual. Rouquidão passageira acontece e normalmente passa em algumas semanas."
+  },
+  {
+   "q": "A cicatriz vai aparecer?",
+   "a": "O corte é feito na dobra do pescoço. Com o tempo, a cicatriz normalmente fica fina e clara."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Separe as coisas, os documentos e a lista de remédios. Comida e água, só até o horário que a clínica informou."
+  }
+ ]
+}

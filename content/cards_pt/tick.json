@@ -1,0 +1,73 @@
+{
+ "title": "Retirada de carrapato",
+ "also": [
+  "picada de carrapato",
+  "carrapato grudado",
+  "tirar carrapato"
+ ],
+ "what": "O médico ou a enfermeira tira com cuidado o carrapato grudado, inteiro. O carrapato pode ser enviado para análise de infecções.",
+ "why": "Quando um carrapato grudou na pele. Quanto antes ele sair, menor o risco de infecção.",
+ "duration": "a retirada leva poucos minutos",
+ "tell_doctor": [
+  "Mais ou menos quando o carrapato grudou",
+  "Se você tem vacina contra encefalite transmitida por carrapato",
+  "Onde o carrapato picou você: no mato, no campo, em que região",
+  "Alergia a remédios, gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Não puxe",
+   "text": "Não passe óleo, creme ou álcool no carrapato e não torça com os dedos, porque assim ele pode soltar mais saliva."
+  },
+  {
+   "title": "Rápido",
+   "text": "Procure um pronto-atendimento ou uma clínica no mesmo dia. Se não houver ajuda por perto, dá para tirar o carrapato com pinça ou com linha."
+  },
+  {
+   "title": "Se você tirou",
+   "text": "Coloque o carrapato num potinho com um algodão úmido e feche a tampa. Limpe o lugar da picada com antisséptico."
+  }
+ ],
+ "bring": [
+  "Documentos",
+  "O carrapato num potinho fechado, se já tirou",
+  "Carteira de vacinação, se tiver"
+ ],
+ "steps": [
+  "Examinam o lugar da picada",
+  "O carrapato é pego com pinça ou um ganchinho especial, bem rente à pele",
+  "É retirado devagar, inteiro, sem puxões",
+  "O machucado é limpo com antisséptico",
+  "O carrapato vai para um potinho e pode ser enviado para análise",
+  "O médico decide se é preciso prevenir infecções"
+ ],
+ "feel": [
+  "Normalmente quase nada, só uma leve beliscada"
+ ],
+ "after": [
+  "Se o carrapato foi para análise, o resultado normalmente sai em 1 a 3 dias",
+  "Observe-se por 3 a 4 semanas e meça a temperatura",
+  "Um pouco de vermelhidão no lugar nos primeiros dias é comum",
+  "Se ficou um pontinho preto, mostre ao médico"
+ ],
+ "red_flags": [
+  "Febre, dor de cabeça, dor no corpo nas semanas seguintes: vá ao médico na hora e conte sobre o carrapato",
+  "Uma mancha vermelha ou um anel em volta da picada, que cresce",
+  "Febre com sangramentos, manchas roxas, sangue na gengiva ou no nariz: ligue para a emergência na hora"
+ ],
+ "faq": [
+  {
+   "q": "O que fazer se a cabeça do carrapato ficou na pele?",
+   "a": "Limpe com antisséptico e mostre ao médico. Muitas vezes ela sai sozinha, mas não tente tirar com agulha."
+  },
+  {
+   "q": "Precisa mandar o carrapato para análise?",
+   "a": "É útil: se encontrarem infecção no carrapato, o médico pode começar a prevenção ou o tratamento mais cedo."
+  },
+  {
+   "q": "Posso tirar o carrapato sozinho?",
+   "a": "Sim, com pinça bem rente à pele, devagar e sem puxões. Não passe óleo nem álcool."
+  }
+ ],
+ "reminders": []
+}

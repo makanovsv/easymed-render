@@ -1,0 +1,72 @@
+{
+ "title": "Ferritin and iron test",
+ "also": [
+  "ferritin test",
+  "iron test",
+  "serum iron",
+  "iron levels blood test"
+ ],
+ "what": "A blood test from a vein. It shows how much iron is in your blood now, and how much iron your body has stored.",
+ "why": "For weakness, pale skin, hair loss, low hemoglobin, during pregnancy, and while you take iron treatment.",
+ "duration": "the blood draw takes a few minutes; results usually in 1 to 2 days",
+ "tell_doctor": [
+  "If you take iron tablets or vitamins with iron. The doctor will say if you need a break",
+  "If you were recently ill, had a fever, or inflammation. This can change your ferritin",
+  "If you recently had a blood transfusion or an iron drip",
+  "Pregnancy"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually the test is done in the morning on an empty stomach: no food for 8 to 12 hours. You can drink water."
+  },
+  {
+   "title": "Time",
+   "text": "It is best to come before 10 or 11 in the morning. Iron levels in the blood change during the day."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol, no fatty food, and no hard workouts."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop iron tablets on your own. Tell your doctor. They will decide if you need a break before the test."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past results, to compare"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow and the skin is cleaned",
+  "Blood is taken from a vein into a tube",
+  "A cotton pad or a plaster is put on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a mosquito bite",
+  "If you feel dizzy, say so and you can lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes to avoid a bruise",
+  "You can eat and go back to your day right away",
+  "Your doctor will explain the result. Ferritin alone is not enough for a diagnosis"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Do I need to stop iron before the test?",
+   "a": "Do not stop on your own. Sometimes the doctor asks for a break of a few days to see your real level. Ask your doctor."
+  },
+  {
+   "q": "Why is my ferritin high if my iron is low?",
+   "a": "Ferritin goes up with any inflammation or a cold. So the doctor looks at it together with other tests."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Iron test tomorrow morning. Do not eat after dinner. You can drink water."
+  }
+ ]
+}

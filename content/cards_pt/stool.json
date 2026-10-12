@@ -1,0 +1,71 @@
+{
+ "title": "Exame de fezes",
+ "also": [
+  "exame parasitológico e coprológico",
+  "exame de fezes comum",
+  "coleta de fezes"
+ ],
+ "what": "Uma pequena amostra de fezes é examinada no microscópio. Dá para ver como a comida está sendo digerida e se há inflamação.",
+ "why": "Em caso de dor na barriga, inchaço, diarreia ou prisão de ventre, ou suspeita de problemas na digestão.",
+ "duration": "a coleta em casa leva alguns minutos; o resultado normalmente sai em 1 a 3 dias",
+ "tell_doctor": [
+  "Quais remédios você toma, principalmente laxantes, ferro, enzimas digestivas e antibióticos",
+  "Se fez há pouco tempo raio X com bário ou colonoscopia"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Compre na farmácia um frasco estéril com pazinha, ou pegue no laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Laxantes, supositórios e lavagens normalmente não são usados de 2 a 3 dias antes do exame. Se você precisa deles, avise o médico, e ele decide."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente, coma como sempre. Às vezes o médico passa uma dieta especial por alguns dias. Siga essa dieta."
+  },
+  {
+   "title": "Mulheres",
+   "text": "Durante a menstruação, é melhor adiar o exame."
+  }
+ ],
+ "bring": [
+  "O frasco com as fezes",
+  "Pedido médico"
+ ],
+ "steps": [
+  "Primeiro urine, para a urina não se misturar com as fezes",
+  "Evacue num recipiente limpo e seco ou num plástico limpo, não tire do vaso sanitário",
+  "Com a pazinha da tampa, pegue um pouco de lugares diferentes, mais ou menos do tamanho de uma noz",
+  "Feche bem o frasco e identifique",
+  "Leve ao laboratório no mesmo dia"
+ ],
+ "feel": [
+  "Nada. O exame não dói"
+ ],
+ "after": [
+  "Se não der para levar logo, normalmente o frasco fica na geladeira, não no congelador, por algumas horas. Confirme o prazo com o laboratório",
+  "O resultado, o médico vai explicar"
+ ],
+ "red_flags": [
+  "Fezes pretas, como piche, ou muito sangue nas fezes: vá ao médico na hora ou ligue para a emergência",
+  "Dor forte na barriga com febre ou vômito: vá ao médico no mesmo dia"
+ ],
+ "faq": [
+  {
+   "q": "Posso coletar as fezes na noite anterior?",
+   "a": "É melhor de manhã. Se só der à noite, guarde na geladeira e leve de manhã. Confirme o prazo com o laboratório."
+  },
+  {
+   "q": "Quanta fezes é preciso?",
+   "a": "Pouco, mais ou menos um terço do frasco, do tamanho de uma noz."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você vai entregar o exame de fezes. Separe o frasco estéril e um recipiente limpo e seco."
+  }
+ ]
+}

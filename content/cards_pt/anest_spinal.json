@@ -1,0 +1,85 @@
+{
+ "title": "Raquianestesia",
+ "also": [
+  "raqui",
+  "anestesia na coluna",
+  "injeção nas costas",
+  "anestesia regional"
+ ],
+ "what": "O anestesista aplica uma injeção na parte baixa das costas e coloca o remédio no líquido em volta dos nervos. A metade de baixo do corpo fica dormente por um tempo, e você fica acordado ou cochilando.",
+ "why": "Para cirurgias da cintura para baixo: cesárea, cirurgias nas pernas, nas articulações, de hérnia e nos órgãos urinários.",
+ "duration": "a injeção leva alguns minutos, e a dormência normalmente dura de 2 a 4 horas",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz quando suspender",
+  "Se você fica roxo com facilidade ou sangra por muito tempo",
+  "Cirurgias e lesões na coluna",
+  "Inflamação ou manchas na pele da parte baixa das costas",
+  "Alergia a anestésicos",
+  "Se você está com febre ou infecção agora"
+ ],
+ "prepare": [
+  {
+   "title": "Conversa",
+   "text": "O anestesista explica o método antes e responde às suas dúvidas. Você pode pedir um sono leve durante a cirurgia."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda por conta própria. Diga ao médico o que você toma, e ele decide."
+  }
+ ],
+ "bring": [
+  "Resultados de exames",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Colocam um cateter na sua veia e um soro",
+  "Você se senta e curva as costas, com o queixo no peito, ou deita de lado encolhido",
+  "Limpam a pele das costas com antisséptico",
+  "Primeiro anestesiam a pele com uma picadinha",
+  "Depois, com uma agulha fina, aplicam o remédio abaixo do nível da medula",
+  "Você deita, e em poucos minutos as pernas ficam quentes e dormentes",
+  "O médico confere se a dormência é suficiente, e a cirurgia começa"
+ ],
+ "feel": [
+  "Uma picadinha na pele, depois pressão nas costas",
+  "Às vezes, parece um choque na perna. Avise o médico, mas não se mexa",
+  "As pernas ficam quentes, pesadas e não se mexem",
+  "Durante a cirurgia, você pode sentir toque e pressão, mas não dor"
+ ],
+ "after": [
+  "A sensibilidade volta aos poucos em algumas horas",
+  "Na primeira vez, levante só com ajuda da equipe",
+  "Às vezes é mais difícil fazer xixi. Avise a enfermeira",
+  "Às vezes dá uma dor de cabeça que piora em pé e melhora deitado. Avise o médico, tem tratamento"
+ ],
+ "red_flags": [
+  "Dor forte nas costas, febre, vermelhidão no local da injeção",
+  "Fraqueza ou dormência nova nas pernas, depois que a anestesia já passou",
+  "Não conseguir segurar o xixi ou as fezes",
+  "Dor de cabeça forte que não passa: avise o médico logo, e depois da alta ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dói a injeção nas costas?",
+   "a": "Normalmente não: primeiro a pele é anestesiada. Você sente uma picada rápida e pressão."
+  },
+  {
+   "q": "Posso ficar paralisado depois da raquianestesia?",
+   "a": "Complicações graves são muito raras. A agulha entra abaixo do ponto onde a medula termina."
+  },
+  {
+   "q": "Vou ver a cirurgia?",
+   "a": "Não. Colocam um pano na sua frente. Se quiser, o anestesista dá um remédio para um sono leve."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem cirurgia com raquianestesia. Comida e água só até o horário que a clínica informou. Leve a lista de remédios."
+  }
+ ]
+}

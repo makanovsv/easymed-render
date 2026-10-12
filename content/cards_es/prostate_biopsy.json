@@ -1,0 +1,83 @@
+{
+ "title": "Biopsia de próstata",
+ "also": [
+  "biopsia de próstata",
+  "biopsia transrectal",
+  "biopsia transperineal"
+ ],
+ "what": "Con una aguja delgada, el médico toma varios pedacitos pequeños de la próstata para revisarlos al microscopio. La aguja se guía con ultrasonido.",
+ "why": "Lo más común es cuando sale alto el antígeno prostático o hay cambios en la revisión o en la resonancia de próstata.",
+ "duration": "el procedimiento suele durar de 15 a 30 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida o aspirina. El médico te dice cuáles dejar y cuándo",
+  "Si tienes alergias, sobre todo a antibióticos o medicamentos para el dolor",
+  "Si tienes diabetes o enfermedades del corazón",
+  "Si ahora tienes fiebre o infección de orina",
+  "Si tienes válvulas artificiales del corazón o prótesis de articulaciones"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Normalmente antes de la biopsia se hacen análisis de orina y sangre, y a veces resonancia. La clínica te da la lista."
+  },
+  {
+   "title": "Antibiótico",
+   "text": "Muchas veces te dan un antibiótico para prevenir infección. Tómalo exactamente como te indique el médico."
+  },
+  {
+   "title": "Intestino",
+   "text": "Si la biopsia es por el recto, muchas veces se necesita un enema o supositorio. Pregunta en tu clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes desayunar algo ligero. Si habrá sedación o anestesia, no comas unas horas antes. La clínica te dice la hora."
+  }
+ ],
+ "bring": [
+  "La orden médica y los análisis",
+  "Tus resultados de antígeno prostático y resonancia de próstata",
+  "La lista de tus medicamentos",
+  "Un acompañante, si habrá sedación"
+ ],
+ "steps": [
+  "Te acuestas de lado con las rodillas al pecho, o boca arriba con las piernas levantadas",
+  "Te ponen anestesia: local con inyección, o general",
+  "Meten en el recto un sensor delgado de ultrasonido",
+  "El médico toma varios pedacitos con la aguja, por la pared del intestino o por la piel entre las piernas",
+  "Cada toma es un clic corto del aparato",
+  "Sacan el sensor y limpian la zona"
+ ],
+ "feel": [
+  "El sensor en el recto da presión y molestia",
+  "Cada toma es un clic y un piquete breve; normalmente se aguanta",
+  "Después puede haber un dolor jalón abajo por uno o dos días"
+ ],
+ "after": [
+  "Puede haber sangre en la orina y el excremento por unos días",
+  "Puede haber sangre en el semen por varias semanas; normalmente no es peligroso",
+  "Toma más agua los primeros días",
+  "No cargues cosas pesadas ni hagas deporte por unos días",
+  "El resultado suele estar en 1 o 2 semanas; te lo explica el médico"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 grados o escalofríos: ve al médico de inmediato o llama a emergencias, puede ser una infección",
+  "No puedes orinar",
+  "Mucha sangre en la orina o coágulos, o sangrado del recto que no se detiene"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele la biopsia de próstata?",
+   "a": "Normalmente se pone anestesia. Se siente presión y clics; la mayoría lo aguanta bien."
+  },
+  {
+   "q": "¿Es normal la sangre en el semen después de la biopsia?",
+   "a": "Sí, puede durar varias semanas. Si hay sangre con coágulos en la orina, díselo al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu biopsia de próstata. Empieza el antibiótico y la preparación del intestino, si te los indicó el médico. Lleva tus análisis y la resonancia."
+  }
+ ]
+}

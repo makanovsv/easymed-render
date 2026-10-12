@@ -1,0 +1,86 @@
+{
+ "title": "Colocación de stent en el corazón",
+ "also": [
+  "stent coronario",
+  "angioplastia coronaria",
+  "poner un stent",
+  "cateterismo con stent"
+ ],
+ "what": "Por un piquete en la muñeca o la ingle, el médico lleva un tubo delgado hasta un vaso del corazón. Abre la parte estrecha con un globo y pone un stent, un tubito de malla que mantiene abierto el vaso.",
+ "why": "Cuando un vaso del corazón está estrecho y no deja pasar bien la sangre: en angina de pecho y en infarto. En un infarto se hace de urgencia.",
+ "duration": "normalmente de 30 minutos a 2 horas; en el hospital, normalmente de 1 a 3 días",
+ "tell_doctor": [
+  "Si tienes alergia al yodo o al medio de contraste",
+  "Si tienes enfermedades de los riñones",
+  "Si tienes diabetes y qué medicamentos tomas para ella",
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dice cuáles dejar y cuándo",
+  "Si has tenido sangrados"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y muchas veces ultrasonido del corazón. La clínica te da la lista."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Antes del stent muchas veces te dan medicamentos contra coágulos. Tómalos exactamente como te dijo el médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes unas horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Urgencia",
+   "text": "Si ahora tienes un dolor opresivo en el pecho por más de 15 minutos, no esperes tu cita: llama a emergencias."
+  }
+ ],
+ "bring": [
+  "La orden médica y tus resultados de estudios",
+  "Una identificación",
+  "La lista de todos tus medicamentos",
+  "Tus cosas para el hospital para 1 a 3 días"
+ ],
+ "steps": [
+  "Te acuestas en la mesa, te ponen un catéter en la vena y te pegan sensores",
+  "Normalmente te dan un calmante: estás despierto, pero tranquilo",
+  "Te adormecen el lugar del piquete: la muñeca o la ingle",
+  "Por el piquete llevan un tubo delgado al corazón",
+  "Ponen el medio de contraste y ven los vasos en la pantalla",
+  "Abren la parte estrecha con un globo y ponen el stent",
+  "Sacan el tubo y ponen un vendaje apretado en el piquete"
+ ],
+ "feel": [
+  "La inyección para el dolor dura un par de segundos; luego no sientes el tubo",
+  "Con el contraste puede haber una ola de calor en el cuerpo",
+  "Cuando inflan el globo, puede haber presión en el pecho un momento. Díselo al médico"
+ ],
+ "after": [
+  "Si el piquete fue en la muñeca, el vendaje se queda unas horas y no hagas esfuerzo con la mano",
+  "Si fue en la ingle, normalmente estás acostado derecho unas horas, sin doblar la pierna",
+  "Toma agua: así el contraste sale más rápido",
+  "No dejes por tu cuenta los medicamentos contra coágulos después del stent: es peligroso. El cardiólogo te dice cuánto tiempo",
+  "Antes de cualquier otra cirugía o de sacarte un diente, dile al médico que tienes stent"
+ ],
+ "red_flags": [
+  "Dolor en el pecho, falta de aire o sudor frío: llama a emergencias de inmediato",
+  "Sangrado o una bola que crece rápido en el piquete: presiona y pide ayuda",
+  "El brazo o la pierna del lado del piquete está frío, pálido o dormido",
+  "Sangre en la orina o el excremento, o excremento negro"
+ ],
+ "faq": [
+  {
+   "q": "¿El stent se pone con anestesia general?",
+   "a": "Normalmente no. Adormecen el lugar del piquete y te dan un calmante. Estás despierto y puedes hablar con el médico."
+  },
+  {
+   "q": "¿Cuánto dura un stent?",
+   "a": "El stent se queda en el vaso para siempre. Para que el vaso no se vuelva a estrechar, son importantes los medicamentos, dejar de fumar y controlar la presión y el colesterol."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen el stent. Lleva tu identificación, tus estudios y la lista de medicamentos. Come solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

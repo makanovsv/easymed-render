@@ -1,0 +1,67 @@
+{
+ "title": "OCT da retina",
+ "also": [
+  "tomografia de coerência óptica",
+  "OCT do olho",
+  "exame da retina"
+ ],
+ "what": "Uma imagem segura da retina e do nervo óptico feita com luz. Você olha para dentro do aparelho, e nada encosta no olho.",
+ "why": "Quando a visão piora, as linhas parecem tortas, em caso de diabetes, glaucoma, doenças da retina, e para acompanhar o tratamento.",
+ "duration": "normalmente de 5 a 15 minutos; se dilatarem a pupila, mais 20 a 30 minutos de espera",
+ "tell_doctor": [
+  "Se você usa lentes de contato",
+  "Glaucoma e alergia a colírios, se forem dilatar a pupila",
+  "Que colírios você usa",
+  "Diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes",
+   "text": "As lentes de contato são retiradas antes do exame. Leve o estojo."
+  },
+  {
+   "title": "Olhos",
+   "text": "Não passe rímel nesse dia. Ele pode atrapalhar."
+  },
+  {
+   "title": "Pupila",
+   "text": "Às vezes dilatam a pupila com colírio. Aí tudo fica embaçado por algumas horas. Você não pode dirigir, então é melhor ir com um acompanhante."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Óculos",
+  "Óculos de sol, se forem dilatar a pupila",
+  "Resultados anteriores de OCT, para comparar"
+ ],
+ "steps": [
+  "Se for preciso, pingam colírio e esperam a pupila dilatar",
+  "Você senta, apoia o queixo no suporte e encosta a testa no apoio",
+  "Olha para um ponto de luz dentro do aparelho",
+  "É preciso não piscar por alguns segundos enquanto a imagem é feita",
+  "O mesmo é feito no outro olho"
+ ],
+ "feel": [
+  "Nada, só uma luz forte",
+  "Depois do colírio para a pupila, a visão de perto fica embaçada e a luz forte incomoda os olhos"
+ ],
+ "after": [
+  "Sem colírio, você pode voltar às suas atividades na hora",
+  "Depois do colírio, a visão normalmente volta em 4 a 6 horas. Até lá, não dirija",
+  "As imagens e o laudo normalmente saem no mesmo dia, e quem avalia é o oftalmologista"
+ ],
+ "red_flags": [
+  "Perda rápida da visão, flashes de luz, uma “cortina” na frente do olho: procure o oftalmologista na hora ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O OCT faz mal para os olhos?",
+   "a": "Não. O aparelho usa luz segura, sem radiação. O exame pode ser repetido quantas vezes for preciso."
+  },
+  {
+   "q": "Posso dirigir depois do OCT?",
+   "a": "Se não dilataram a pupila, sim. Se pingaram colírio, não pode até a visão ficar nítida, normalmente 4 a 6 horas."
+  }
+ ],
+ "reminders": []
+}

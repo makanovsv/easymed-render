@@ -1,0 +1,80 @@
+{
+ "title": "Estudio del sueño (polisomnografía)",
+ "also": [
+  "polisomnografía",
+  "estudio del sueño",
+  "prueba de apnea del sueño"
+ ],
+ "what": "En la noche, mientras duermes, se registra la respiración, el oxígeno en la sangre, el pulso, el cerebro y los movimientos. Te pegan sensores en el cuerpo; no hay piquetes.",
+ "why": "Si roncas fuerte con pausas al respirar, tienes mucho sueño de día, insomnio o conductas raras dormido.",
+ "duration": "una noche, normalmente de la noche a la mañana",
+ "tell_doctor": [
+  "Qué medicamentos tomas, sobre todo para dormir y calmantes",
+  "Enfermedades del corazón o de los pulmones",
+  "Si ya tienes un aparato para respirar dormido"
+ ],
+ "prepare": [
+  {
+   "title": "De día",
+   "text": "No duermas siesta. Después de comer, sin café, té cargado ni bebidas energéticas."
+  },
+  {
+   "title": "Alcohol",
+   "text": "Sin alcohol el día del estudio."
+  },
+  {
+   "title": "Cuerpo",
+   "text": "Lávate el cabello y no te pongas spray, gel ni crema en la cara y la piel. Si tienes barba, pregunta en la clínica si debes rasurarte."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Toma tus medicamentos como siempre, salvo que el médico te diga otra cosa."
+  }
+ ],
+ "bring": [
+  "Una pijama cómoda",
+  "Tu almohada, si así duermes mejor",
+  "Tus medicamentos de la noche",
+  "Cepillo de dientes y tus cosas para la mañana",
+  "La orden médica"
+ ],
+ "steps": [
+  "En la noche te llevan a tu cuarto",
+  "La enfermera te pega sensores en la cabeza, la cara, el pecho y las piernas",
+  "Te ponen un tubito delgado bajo la nariz y un sensor de oxígeno en el dedo",
+  "Te acuestas a dormir como siempre y apagan la luz",
+  "Durante la noche, la enfermera vigila el registro por cámara",
+  "En la mañana te quitan los sensores"
+ ],
+ "feel": [
+  "Con los sensores se siente raro, pero no duelen",
+  "Muchos temen no dormirse; normalmente se duerme lo suficiente para el resultado",
+  "Si necesitas ir al baño, llama a la enfermera y te desconecta"
+ ],
+ "after": [
+  "En la mañana te puedes ir a casa de inmediato",
+  "Los restos de pegamento se quitan con agua",
+  "El resultado suele estar en unos días; lo revisa el médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Se puede hacer el estudio del sueño en casa?",
+   "a": "Sí, hay aparatos para revisar la apnea en casa. Pero registran menos cosas; el médico decide cuál te sirve."
+  },
+  {
+   "q": "¿Y si no me duermo en la clínica?",
+   "a": "Casi todos se duermen. Normalmente unas horas de sueño bastan para el resultado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "Hoy es tu estudio del sueño. No duermas siesta, sin café después de comer y sin alcohol."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Lleva tu pijama, tus medicamentos de la noche y tus cosas para la mañana."
+  }
+ ]
+}

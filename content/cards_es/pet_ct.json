@@ -1,0 +1,85 @@
+{
+ "title": "PET-CT",
+ "also": [
+  "PET-CT",
+  "PET/CT",
+  "tomografía por emisión de positrones",
+  "PET de cuerpo completo"
+ ],
+ "what": "Te ponen en la vena un poco de glucosa radiactiva. El escáner muestra dónde las células la toman más, y lo junta con la imagen de la tomografía.",
+ "why": "Lo más común es en enfermedades oncológicas: encontrar lesiones, ver qué tanto se han extendido y cómo funciona el tratamiento.",
+ "duration": "en el centro, normalmente de 2 a 3 horas; el escaneo en sí, de 15 a 30 minutos",
+ "tell_doctor": [
+  "Si tienes diabetes y qué medicamentos tomas: se ajusta la preparación",
+  "Si estás embarazada o das pecho",
+  "Si tienes alergia al contraste o enfermedades de los riñones",
+  "Si te cuesta estar mucho tiempo boca arriba o te dan miedo los lugares cerrados",
+  "Las fechas de tu última quimioterapia o radioterapia"
+ ],
+ "prepare": [
+  {
+   "title": "Ayuno",
+   "text": "Normalmente no comes de 4 a 6 horas antes. Solo agua natural, sin azúcar. Sin chicles ni dulces."
+  },
+  {
+   "title": "Un día antes",
+   "text": "Un día antes, nada de deporte pesado ni trabajo físico. Muchas veces se recomienda comer menos dulces y harinas. La clínica te dice con más detalle."
+  },
+  {
+   "title": "Diabetes",
+   "text": "El azúcar en la sangre debe estar en rango. Cómo tomar tus medicamentos ese día lo decide el médico."
+  },
+  {
+   "title": "Ropa",
+   "text": "Abrigadora y cómoda, sin metal."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Tus tomografías, resonancias y PET anteriores en disco, con los reportes",
+  "Tus resúmenes de tratamiento"
+ ],
+ "steps": [
+  "Te miden el azúcar en la sangre",
+  "Te ponen un catéter en la vena y el medicamento",
+  "Como una hora estás sentado o acostado tranquilo en un cuarto silencioso: sin hablar, leer ni caminar",
+  "Antes del escaneo, ve al baño",
+  "Te acuestas en la mesa y pasa despacio por el anillo del escáner",
+  "Tienes que estar quieto de 15 a 30 minutos"
+ ],
+ "feel": [
+  "No sientes cuando ponen el medicamento",
+  "El escáner no hace tanto ruido como la resonancia",
+  "Si ponen contraste, puede haber una ola de calor en el cuerpo"
+ ],
+ "after": [
+  "Toma más agua el resto del día: el medicamento sale más rápido con la orina",
+  "Normalmente puedes comer de inmediato",
+  "Por unas horas, mantente lejos de embarazadas y niños pequeños. La clínica te dice cuánto tiempo",
+  "El resultado suele estar en 1 a 3 días"
+ ],
+ "red_flags": [
+  "Ronchas, cara hinchada o dificultad para respirar después de la inyección: avísale al personal de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligrosa la radiación del PET-CT?",
+   "a": "La dosis es pequeña y sale rápido del cuerpo. El médico pide el estudio cuando el beneficio es mayor que el riesgo."
+  },
+  {
+   "q": "¿Por qué no puedo comer antes del PET-CT?",
+   "a": "El medicamento es glucosa. Si comiste, el azúcar en la sangre está alto y las imágenes salen peor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu PET-CT. Hoy sin deporte pesado ni trabajo físico. Come menos dulces y harinas."
+  },
+  {
+   "hoursBefore": 6,
+   "text": "En 6 horas es tu PET-CT. Es hora de dejar de comer. Solo agua natural sin azúcar, salvo que la clínica diga otra cosa."
+  }
+ ]
+}

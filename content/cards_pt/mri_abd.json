@@ -1,0 +1,96 @@
+{
+ "title": "Ressonância do abdome e da pelve",
+ "also": [
+  "ressonância da barriga",
+  "ressonância do abdome",
+  "ressonância da pelve",
+  "ressonância magnética abdominal"
+ ],
+ "what": "Um aparelho com um ímã forte faz imagens detalhadas dos órgãos da barriga e da pelve. Não tem radiação de raio-x.",
+ "why": "Para esclarecer alterações no fígado, no pâncreas, nos rins e nos órgãos da pelve, quando o ultrassom ou a tomografia não deram uma resposta completa.",
+ "duration": "normalmente de 30 a 60 minutos, com contraste demora mais",
+ "tell_doctor": [
+  "Marca-passo, implantes de metal, estilhaços, clipes, implante no ouvido. Isso é importante",
+  "Se você está grávida ou pode estar grávida",
+  "Doenças dos rins, se for usar contraste",
+  "Alergias, principalmente a contraste",
+  "Medo de lugares fechados",
+  "DIU: avise antes"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente de 4 a 6 horas sem comer. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Jantar leve, sem refrigerante, feijão e outros grãos, verduras cruas e pão integral escuro. Assim há menos gases no intestino."
+  },
+  {
+   "title": "Bexiga",
+   "text": "Para a pelve, às vezes pedem para chegar com a bexiga moderadamente cheia. Confirme com a clínica."
+  },
+  {
+   "title": "Contraste",
+   "text": "Se for usar contraste, muitas vezes pedem um exame de sangue recente de creatinina. Ele mostra como os rins funcionam."
+  },
+  {
+   "title": "Metal",
+   "text": "Não use joias. Tire maquiagem com brilho e tudo o que for de metal da roupa."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Imagens e laudos anteriores de ultrassom, tomografia, ressonância",
+  "Exame de creatinina, se for usar contraste",
+  "Documento do implante ou do marca-passo, se tiver"
+ ],
+ "steps": [
+  "Você responde a um questionário sobre metal e saúde",
+  "Troca de roupa e deixa tudo o que é de metal num armário",
+  "Se for usar contraste, colocam um cateter na sua veia",
+  "Às vezes aplicam um remédio para o intestino se mexer menos",
+  "Você deita de costas, e colocam uma bobina achatada sobre a barriga",
+  "A mesa entra no aparelho",
+  "Muitas vezes pedem para você puxar o ar e prender a respiração por alguns segundos",
+  "O contraste, se for preciso, é aplicado no meio do exame"
+ ],
+ "feel": [
+  "O aparelho faz barulho alto. Dão protetores de ouvido ou fones",
+  "É preciso ficar parado, e isso pode cansar",
+  "O contraste às vezes dá sensação de frio no braço",
+  "Na sua mão vai ter um botão de chamada. Você pode chamar a equipe a qualquer momento"
+ ],
+ "after": [
+  "Você pode comer e beber logo depois, se o médico não disser o contrário",
+  "Depois do contraste, beba mais água nesse dia",
+  "O laudo sai normalmente em 1 a 3 dias"
+ ],
+ "red_flags": [
+  "Manchas na pele, inchaço no rosto, dificuldade para respirar depois do contraste: avise a equipe na hora ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que preciso prender a respiração na ressonância da barriga?",
+   "a": "Os órgãos da barriga se mexem com a respiração. Quando você fica alguns segundos sem respirar, as imagens saem nítidas."
+  },
+  {
+   "q": "Posso fazer ressonância usando DIU?",
+   "a": "Normalmente sim: a maioria dos DIUs é compatível com ressonância. Mas avise sobre ele antes, sem falta."
+  },
+  {
+   "q": "O contraste da ressonância é perigoso?",
+   "a": "Normalmente ele é bem tolerado. Antes do contraste, verificam os rins, e você precisa avisar antes se tem alergia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz ressonância da barriga. Jantar leve, sem refrigerante, feijão e verduras cruas."
+  },
+  {
+   "hoursBefore": 5,
+   "text": "A partir de agora normalmente não se come até a ressonância. Confirme o horário com a clínica. Não use joias."
+  }
+ ]
+}

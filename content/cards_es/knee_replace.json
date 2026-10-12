@@ -1,0 +1,90 @@
+{
+ "title": "Reemplazo de rodilla",
+ "also": [
+  "prótesis de rodilla",
+  "artroplastia de rodilla",
+  "reemplazo total de rodilla"
+ ],
+ "what": "El cirujano cambia las superficies desgastadas de la articulación por unas artificiales, una prótesis. Se hace con anestesia general o con anestesia raquídea.",
+ "why": "Cuando la articulación está muy dañada, normalmente por artrosis, el dolor no deja caminar y el tratamiento sin cirugía no ayuda.",
+ "duration": "la cirugía suele durar de 1 a 2 horas; en el hospital, normalmente de 3 a 7 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dice cuáles dejar y cuándo",
+  "Si tienes alergias, también a metales",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Cualquier infección: dientes, piel o vías urinarias. Se tratan antes de la cirugía",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis, electrocardiograma, radiografías de la rodilla, revisión del médico general y a veces del dentista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Hablará contigo el anestesiólogo y juntos eligen el tipo de anestesia."
+  },
+  {
+   "title": "Casa",
+   "text": "Antes, quita tapetes y cables del piso y pon lo que necesitas a una altura cómoda. Consigue muletas o andadera."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Cigarro",
+   "text": "Deja de fumar al menos unas semanas antes. Así las heridas sanan mejor."
+  }
+ ],
+ "bring": [
+  "Tu identificación, la orden médica y los análisis",
+  "La lista de tus medicamentos",
+  "Ropa cómoda y zapatos cerrados con velcro, que no se salgan del talón",
+  "Muletas o andadera, si la clínica te lo pide",
+  "Cargador del celular"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "El anestesiólogo te pone anestesia general o una inyección en la espalda; las piernas se duermen",
+  "El cirujano hace un corte sobre la rodilla",
+  "Quita las partes dañadas del hueso y pone la prótesis",
+  "Cierra la herida y pone un vendaje",
+  "Te pasan a la sala de recuperación y luego a tu cuarto"
+ ],
+ "feel": [
+  "Después de la cirugía la rodilla duele y se hincha; te dan medicamento para el dolor",
+  "Con la anestesia raquídea las piernas siguen dormidas unas horas",
+  "Los primeros pasos cuestan. Es normal"
+ ],
+ "after": [
+  "Normalmente te ayudan a levantarte con andadera al día siguiente",
+  "Los ejercicios de rodilla, todos los días: es lo más importante para el resultado",
+  "Te dan medicamentos contra coágulos, según indique el médico",
+  "Muletas o bastón, normalmente varias semanas",
+  "Caminar con seguridad suele lograrse a las 6 a 12 semanas",
+  "Los puntos se quitan más o menos a las 2 semanas, si no son de los que se absorben"
+ ],
+ "red_flags": [
+  "Falta de aire de repente o dolor en el pecho: llama a emergencias",
+  "La pantorrilla se hinchó y duele",
+  "Fiebre de más de 38 grados, enrojecimiento, pus o algo que sale de la herida",
+  "El dolor de la rodilla aumentó de golpe"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto dura una prótesis de rodilla?",
+   "a": "Normalmente de 15 a 20 años o más. Depende mucho del peso y del esfuerzo."
+  },
+  {
+   "q": "¿Cuándo puedo caminar después del reemplazo de rodilla?",
+   "a": "Con andadera, normalmente al día siguiente. Sin apoyo, en unas semanas, cuando el médico lo permita."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Junta tu identificación, los análisis, la lista de medicamentos y tus cosas. Come y toma agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "title": "Cirurgia de hérnia de disco",
+ "also": [
+  "retirada de hérnia de disco",
+  "microdiscectomia",
+  "cirurgia de coluna"
+ ],
+ "what": "O cirurgião retira a parte do disco que aperta o nervo. Normalmente por um pequeno corte nas costas. A cirurgia é feita com anestesia geral.",
+ "why": "Quando a dor forte na perna ou no braço não passa com tratamento sem cirurgia, quando há fraqueza na perna, e com urgência quando se perde o controle da urina e das fezes.",
+ "duration": "a cirurgia leva normalmente de 1 a 2 horas, e a internação normalmente de 1 a 3 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico vai dizer o que suspender e quando",
+  "Alergias",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se você fuma",
+  "Se você ou algum parente já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Ressonância da coluna, exames de sangue, eletrocardiograma, às vezes avaliação do clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista vai conversar com você. Conte sobre a sua saúde e os seus remédios."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente, nada de comida desde a noite anterior e nada de bebida algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Cigarro",
+   "text": "É melhor parar de fumar antes. A ferida e o disco cicatrizam melhor."
+  },
+  {
+   "title": "Coisas",
+   "text": "Roupa confortável, sapato sem cadarço, carregador e os remédios que você toma sempre."
+  }
+ ],
+ "bring": [
+  "Ressonância: imagens e laudo",
+  "Pedido médico e exames",
+  "Documentos e lista de remédios",
+  "Coisas para ficar no hospital de 1 a 3 dias"
+ ],
+ "steps": [
+  "No dia da cirurgia, você troca de roupa, e colocam um cateter na veia",
+  "Na sala de cirurgia, o anestesista aplica a anestesia, e você dorme",
+  "Você é colocado de barriga para baixo",
+  "O cirurgião faz um pequeno corte e, com microscópio, retira a parte do disco que aperta o nervo",
+  "O corte é fechado, e você acorda na sala de recuperação"
+ ],
+ "feel": [
+  "Depois da anestesia, sonolência e às vezes enjoo",
+  "Dor no local do corte. Dão remédio para dor",
+  "A dor na perna muitas vezes melhora logo, e a dormência pode levar semanas para passar"
+ ],
+ "after": [
+  "Normalmente você pode levantar e andar no mesmo dia ou no dia seguinte",
+  "Por algumas semanas, não carregue peso, não se curve de repente e não fique sentado muito tempo",
+  "Quando voltar a dirigir e a trabalhar, o cirurgião vai dizer",
+  "Fisioterapia e exercícios, conforme o médico indicar",
+  "Se os pontos são retirados ou se dissolvem, o cirurgião vai dizer"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, vermelhidão ou secreção na ferida",
+  "Fraqueza ou dormência nova nas pernas",
+  "Perda do controle da urina ou das fezes, dormência na virilha: ligue para a emergência na hora",
+  "Dor de cabeça forte, que piora quando você fica de pé"
+ ],
+ "faq": [
+  {
+   "q": "A hérnia pode voltar depois da cirurgia?",
+   "a": "Às vezes sim, em uma pequena parte das pessoas. O risco é menor se você cuidar das costas, não fumar e fizer os exercícios."
+  },
+  {
+   "q": "A hérnia de disco sempre precisa de cirurgia?",
+   "a": "Não. Na maioria das vezes, ela é tratada sem cirurgia. A cirurgia é indicada quando o tratamento não ajuda ou o nervo está muito comprometido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Separe as suas coisas, a ressonância, os documentos e a lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

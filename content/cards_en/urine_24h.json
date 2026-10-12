@@ -1,0 +1,75 @@
+{
+ "title": "24-hour urine collection",
+ "also": [
+  "24-hour urine test",
+  "24-hour urine collection",
+  "24-hour urine protein"
+ ],
+ "what": "You collect all your urine for 24 hours in one container. This shows the doctor how much protein, salts, and other substances leave your body in a day.",
+ "why": "For kidney disease, protein in the urine, kidney stones, pregnancy, and diabetes.",
+ "duration": "collecting takes exactly 24 hours; results usually take 1 to 3 days",
+ "tell_doctor": [
+  "What medicines you take, especially water pills",
+  "If you have your period. The collection is usually moved",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Container",
+   "text": "Get a large clean container for 24-hour urine from your clinic or a pharmacy, usually 2 to 3 liters."
+  },
+  {
+   "title": "Routine",
+   "text": "Drink as usual, not more and not less. Check with your clinic if you need to change what you eat."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop your medicines. If you take water pills, tell your doctor and they will decide."
+  },
+  {
+   "title": "Plan",
+   "text": "Choose a day when you will be at home. Missing even one portion ruins the test."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "All the collected urine, or part of it, as your clinic says",
+  "A note with the total urine volume for the day, and your height and weight if asked"
+ ],
+ "steps": [
+  "In the morning, pass your first urine into the toilet and note the time",
+  "After that, collect all your urine for the day in the container",
+  "Keep the container closed in a cool place, usually the fridge",
+  "Collect the last portion the next morning at the same time",
+  "Measure the total volume and write it down",
+  "Hand in all the urine or a mixed portion, as your clinic said"
+ ],
+ "feel": [
+  "Nothing. It is just collecting urine"
+ ],
+ "after": [
+  "You can go back to your usual routine right away",
+  "Your doctor will explain the result"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Do I collect the first morning urine?",
+   "a": "No. On the first day, it goes into the toilet and you note the time. But the first morning urine of the next day is collected."
+  },
+  {
+   "q": "What if I missed one portion?",
+   "a": "It is better to start again on another day. Otherwise the result will be wrong."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Tomorrow morning you start the 24-hour urine collection. Get a clean container ready and make room in the fridge."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "The 24-hour urine collection ends soon. Remember to collect the last morning portion and write down the total volume."
+  }
+ ]
+}

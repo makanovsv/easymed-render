@@ -1,0 +1,88 @@
+{
+ "title": "Colocación del DIU",
+ "also": [
+  "DIU",
+  "dispositivo intrauterino",
+  "poner el dispositivo",
+  "T de cobre"
+ ],
+ "what": "El ginecólogo mete en el útero un dispositivo pequeño y flexible que protege contra el embarazo. Hay de cobre y hormonales.",
+ "why": "Para protegerte del embarazo por mucho tiempo y de forma segura. El hormonal a veces se pone si tienes reglas muy abundantes.",
+ "duration": "colocarlo suele tomar de 5 a 10 minutos; la consulta completa, unos 30 minutos",
+ "tell_doctor": [
+  "La fecha en que empezó tu última regla",
+  "Si tuviste relaciones sin protección después de tu última regla",
+  "Infecciones, flujo o dolor en la parte baja del abdomen",
+  "Si tienes alergia al cobre o a medicamentos",
+  "Si tuviste cesárea o cirugías del útero"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Normalmente antes hay una revisión, exudados para infecciones y a veces ultrasonido. El médico te da la lista."
+  },
+  {
+   "title": "Día del ciclo",
+   "text": "Muchas veces se pone durante la regla o justo después. También se puede otros días si se descarta embarazo. Pregúntale al médico."
+  },
+  {
+   "title": "Dolor",
+   "text": "Pregúntale al médico si puedes tomar un analgésico como una hora antes."
+  },
+  {
+   "title": "Comida",
+   "text": "Come antes de la cita: con el estómago vacío te puedes marear."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de tus exudados",
+  "Toallas sanitarias",
+  "El DIU, si la clínica te pidió comprarlo antes"
+ ],
+ "steps": [
+  "Te sientas en la silla ginecológica y el médico te revisa",
+  "Pone el espejo y limpia el cuello del útero con antiséptico",
+  "Sujeta el cuello del útero con cuidado con un instrumento",
+  "Con una sonda delgada mide la profundidad del útero",
+  "Mete el DIU por un tubito delgado y se abre por dentro",
+  "Corta los hilos del DIU; quedan dentro de la vagina"
+ ],
+ "feel": [
+  "Presión por el espejo",
+  "Unos cólicos fuertes, como de regla dolorosa; duran segundos",
+  "A veces debilidad o mareo. Quédate acostada unos minutos"
+ ],
+ "after": [
+  "Cólicos y manchado por unos días son normales",
+  "Relaciones y tampones, normalmente en unos días; el médico te dice cuándo",
+  "La revisión de control suele ser a las 4 a 6 semanas o después de tu primera regla",
+  "Aprende a revisar los hilos después de la regla; el médico te enseña cómo"
+ ],
+ "red_flags": [
+  "Dolor fuerte en la parte baja del abdomen que no se quita con analgésico",
+  "Fiebre de más de 38 grados o flujo con mal olor",
+  "Sangrado fuerte",
+  "No sientes los hilos, o sientes la punta dura del DIU",
+  "Señales de embarazo: ve al ginecólogo de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele que pongan el DIU?",
+   "a": "Normalmente hay unos cólicos fuertes por unos segundos. Muchas lo sienten como una regla dolorosa. Si te da miedo el dolor, díselo al médico."
+  },
+  {
+   "q": "¿Desde cuándo protege el DIU?",
+   "a": "El de cobre, de inmediato. El hormonal, de inmediato o a los 7 días, según el día del ciclo. Pregúntale al médico."
+  },
+  {
+   "q": "¿Se puede salir el DIU?",
+   "a": "A veces sí, más en los primeros meses. Por eso es importante revisar los hilos e ir a la revisión de control."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen el DIU. Lleva toallas sanitarias y los resultados de tus exudados. Come antes de la cita."
+  }
+ ]
+}

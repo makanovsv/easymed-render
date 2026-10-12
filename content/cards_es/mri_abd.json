@@ -1,0 +1,95 @@
+{
+ "title": "Resonancia magnética de abdomen y pelvis",
+ "also": [
+  "resonancia de abdomen",
+  "resonancia abdominal",
+  "resonancia de pelvis"
+ ],
+ "what": "Un aparato con un imán fuerte toma imágenes detalladas de los órganos del abdomen y la pelvis. No hay rayos X.",
+ "why": "Para aclarar cambios en el hígado, el páncreas, los riñones o los órganos de la pelvis, si el ultrasonido o la tomografía no dieron una respuesta completa.",
+ "duration": "normalmente de 30 a 60 minutos; con contraste, más",
+ "tell_doctor": [
+  "Si tienes marcapasos, implantes de metal, esquirlas, clips o un implante en el oído. Es importante",
+  "Si estás embarazada o podrías estarlo",
+  "Si tienes enfermedades de los riñones, si habrá contraste",
+  "Si tienes alergias, sobre todo al contraste",
+  "Si te dan miedo los lugares cerrados",
+  "Si tienes DIU, dilo antes"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente de 4 a 6 horas sin comer. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Un día antes",
+   "text": "Cena ligera, sin refrescos, frijoles, verduras crudas ni pan negro: así hay menos gases en el intestino."
+  },
+  {
+   "title": "Vejiga",
+   "text": "Para la pelvis a veces te piden llegar con la vejiga medio llena. Pregunta en tu clínica."
+  },
+  {
+   "title": "Contraste",
+   "text": "Si habrá contraste, muchas veces piden un análisis reciente de creatinina: muestra cómo funcionan los riñones."
+  },
+  {
+   "title": "Metal",
+   "text": "No te pongas joyas. Quítate el maquillaje con brillos y quita todo lo de metal de tu ropa."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus imágenes y resultados anteriores de ultrasonido, tomografía o resonancia",
+  "Tu resultado de creatinina, si habrá contraste",
+  "El documento de tu implante o marcapasos, si tienes"
+ ],
+ "steps": [
+  "Contestas un cuestionario sobre metal y tu salud",
+  "Te cambias de ropa y dejas todo lo de metal en un casillero",
+  "Si habrá contraste, te ponen un catéter en la vena",
+  "A veces ponen un medicamento para que el intestino se mueva menos",
+  "Te acuestas boca arriba y ponen una bobina plana sobre tu abdomen",
+  "La mesa entra al aparato",
+  "Muchas veces te piden tomar aire y aguantar la respiración unos segundos",
+  "Si hace falta contraste, lo ponen a la mitad del estudio"
+ ],
+ "feel": [
+  "El aparato hace golpes fuertes; te dan tapones o audífonos",
+  "Tienes que estar quieto; puede cansar",
+  "El contraste a veces se siente frío en el brazo",
+  "Tendrás un botón en la mano para llamar al personal en cualquier momento"
+ ],
+ "after": [
+  "Puedes comer y beber de inmediato, si el médico no te dijo otra cosa",
+  "Después del contraste, toma más agua ese día",
+  "El resultado suele estar en 1 a 3 días"
+ ],
+ "red_flags": [
+  "Ronchas, cara hinchada o dificultad para respirar después del contraste: avísale al personal de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué hay que aguantar la respiración en la resonancia de abdomen?",
+   "a": "Los órganos del abdomen se mueven al respirar. Si no respiras unos segundos, las imágenes salen claras."
+  },
+  {
+   "q": "¿Me puedo hacer una resonancia si tengo DIU?",
+   "a": "Normalmente sí: la mayoría de los DIU son compatibles con la resonancia. Pero dilo siempre antes."
+  },
+  {
+   "q": "¿Es peligroso el contraste de la resonancia?",
+   "a": "Normalmente se tolera bien. Antes del contraste se revisan los riñones, y hay que decir antes si tienes alergias."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu resonancia de abdomen. Cena ligero, sin refrescos, frijoles ni verduras crudas."
+  },
+  {
+   "hoursBefore": 5,
+   "text": "Normalmente desde ahora ya no se come hasta la resonancia. Revisa la hora con tu clínica. No te pongas joyas."
+  }
+ ]
+}

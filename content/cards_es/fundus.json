@@ -1,0 +1,74 @@
+{
+ "title": "Fondo de ojo con dilatación de pupila",
+ "also": [
+  "fondo de ojo",
+  "oftalmoscopia",
+  "examen con gotas para dilatar",
+  "dilatación de pupilas"
+ ],
+ "what": "Te ponen gotas en los ojos y la pupila se hace grande. Por ahí el médico ve bien la retina, los vasos y el nervio óptico.",
+ "why": "Si tienes diabetes, presión alta, miopía, destellos o moscas frente a los ojos, si ves menos, o en una revisión preventiva.",
+ "duration": "la consulta suele durar de 40 a 60 minutos; las gotas hacen efecto en 20 a 30 minutos",
+ "tell_doctor": [
+  "Si tienes glaucoma o te dijeron que tienes el ángulo del ojo estrecho",
+  "Si has tenido crisis de dolor en el ojo con náuseas",
+  "Si tienes alergia a gotas para los ojos",
+  "Si usas lentes de contacto"
+ ],
+ "prepare": [
+  {
+   "title": "Transporte",
+   "text": "No manejes después de la revisión: por unas horas verás borroso. Ve en taxi o con un acompañante."
+  },
+  {
+   "title": "Lentes de contacto",
+   "text": "Lleva el estuche: antes de la revisión hay que quitarse los lentes."
+  },
+  {
+   "title": "Planes",
+   "text": "Después de la revisión cuesta leer y ver el celular por unas horas. No planees trabajo con letra pequeña."
+  }
+ ],
+ "bring": [
+  "Lentes de sol",
+  "Tus lentes de ver",
+  "El estuche de los lentes de contacto",
+  "Tus resultados anteriores del oftalmólogo"
+ ],
+ "steps": [
+  "Normalmente primero revisan la vista y la presión del ojo",
+  "Ponen gotas en cada ojo",
+  "Esperas de 20 a 30 minutos a que se dilaten las pupilas",
+  "El médico ilumina el ojo con una luz brillante a través de una lupa o un aparato",
+  "Te pide mirar arriba, abajo y a los lados"
+ ],
+ "feel": [
+  "Las gotas pueden arder un poco",
+  "La luz brillante molesta, pero no duele",
+  "Después ves borroso y la luz deslumbra"
+ ],
+ "after": [
+  "Lo borroso y la molestia con la luz suelen quitarse en 4 a 6 horas, a veces hasta la noche",
+  "Usa lentes de sol",
+  "El médico te dice el resultado en ese momento"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el ojo, ojo rojo, o dolor de cabeza con náuseas y círculos de colores alrededor de las luces después de las gotas: ve al oftalmólogo de urgencia o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto duran las gotas para dilatar la pupila?",
+   "a": "Normalmente de 4 a 6 horas; en algunas personas hasta la noche o la mañana siguiente."
+  },
+  {
+   "q": "¿Puedo manejar después del fondo de ojo?",
+   "a": "No. Mientras las pupilas estén grandes, ves borroso y la luz deslumbra. Es peligroso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "En 3 horas es tu revisión de fondo de ojo. No manejes; mejor regresa en taxi. Lleva lentes de sol."
+  }
+ ]
+}

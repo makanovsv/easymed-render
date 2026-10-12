@@ -1,0 +1,76 @@
+{
+ "title": "Cistoscopia",
+ "also": [
+  "cistoscopia",
+  "revisión de la vejiga",
+  "uretrocistoscopia"
+ ],
+ "what": "El urólogo revisa la vejiga por dentro con un tubo delgado con cámara. Entra por la uretra.",
+ "why": "Si hay sangre en la orina, infecciones seguidas, problemas para orinar, o para revisar después de un tratamiento de vejiga.",
+ "duration": "normalmente de 5 a 15 minutos; con la preparación, unos 30 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. El médico decide qué hacer",
+  "Si tienes alergia a medicamentos o a geles para el dolor",
+  "Si ahora tienes ardor o fiebre. Normalmente primero se trata la infección",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Examen de orina",
+   "text": "A veces te piden antes un examen de orina, para descartar infección."
+  },
+  {
+   "title": "Comida",
+   "text": "Si es con anestesia local, normalmente puedes comer y beber. Si es con anestesia general, sigue las reglas de ayuno de la clínica."
+  },
+  {
+   "title": "Baño",
+   "text": "Antes del procedimiento, vacía la vejiga."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus resultados de examen de orina y ultrasonido, si los tienes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te quitas la ropa de la cintura para abajo y te acuestas en la silla o la camilla",
+  "Limpian la piel con antiséptico",
+  "Meten en la uretra un gel con anestésico y esperan unos minutos",
+  "El médico mete el tubo delgado con cámara",
+  "Llenan la vejiga con agua estéril y revisan las paredes",
+  "Si hace falta, toman un pedacito de tejido para analizar"
+ ],
+ "feel": [
+  "Es incómodo y raro, pero normalmente se aguanta",
+  "Cuando llenan la vejiga dan ganas de orinar. Es normal",
+  "Si te duele, díselo al médico"
+ ],
+ "after": [
+  "1 o 2 días puede arder un poco al orinar",
+  "La orina puede salir rosada. Puede pasar",
+  "Toma más agua los primeros días",
+  "Normalmente el médico te dice lo que vio en ese momento; el resultado del tejido, después"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 grados o escalofríos",
+  "No sale la orina, o sale sangre roja con coágulos",
+  "Dolor fuerte en la parte baja del abdomen"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele la cistoscopia?",
+   "a": "Normalmente no: usan un gel para el dolor y un tubo delgado y flexible. Es incómodo, pero se aguanta."
+  },
+  {
+   "q": "¿Puedo irme a casa justo después de la cistoscopia?",
+   "a": "Sí, si fue con anestesia local. Después de anestesia general necesitas un acompañante."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu cistoscopia. Lleva la orden médica y tus análisis. Antes del procedimiento, ve al baño."
+  }
+ ]
+}

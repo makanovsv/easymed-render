@@ -1,0 +1,88 @@
+{
+ "title": "Ablação cardíaca por radiofrequência",
+ "also": [
+  "ablação",
+  "ablação por cateter",
+  "cauterização do coração",
+  "ablação de arritmia"
+ ],
+ "what": "Por um vaso na virilha, o médico leva tubos finos até o coração. Ele encontra a área que causa a falha no ritmo e a cauteriza. Não há cortes no peito.",
+ "why": "Para arritmias do coração, quando os remédios não ajudam, não são bem tolerados ou quando a ablação é a melhor indicação.",
+ "duration": "o procedimento dura normalmente de 1 a 4 horas, e a internação normalmente de 1 a 3 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue e os de arritmia. O médico diz o que suspender e quando",
+  "Alergia a iodo, contraste ou remédios",
+  "Doenças dos rins, diabetes",
+  "Se você está grávida ou pode estar",
+  "Se já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, ecocardiograma, às vezes Holter ou tomografia do coração. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda remédios por conta própria. O médico vai dizer antes quais tomar e quais pular."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Virilha",
+   "text": "Às vezes pedem para raspar os pelos da virilha. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados de exames",
+  "Todos os eletrocardiogramas, principalmente os feitos durante as crises",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para ficar no hospital de 1 a 3 dias"
+ ],
+ "steps": [
+  "Você deita na mesa, e colam sensores no seu peito",
+  "Colocam um cateter na veia e aplicam um calmante, às vezes anestesia geral",
+  "Anestesiam a virilha com uma injeção",
+  "Pelo vaso, levam tubos finos até o coração, com controle por raio-X",
+  "O médico estuda o ritmo e às vezes provoca uma crise de propósito",
+  "A área encontrada é cauterizada com corrente de alta frequência",
+  "Retiram os tubos e colocam um curativo apertado na virilha"
+ ],
+ "feel": [
+  "A injeção de anestesia na virilha arde",
+  "Você pode sentir o coração acelerar quando provocam a crise",
+  "Durante a cauterização, ardência ou pressão no peito. Avise o médico",
+  "Depois, é preciso ficar deitado algumas horas, sem dobrar a perna"
+ ],
+ "after": [
+  "Normalmente você fica deitado reto algumas horas, depois pode levantar",
+  "Roxo na virilha é comum e não é perigoso",
+  "Por cerca de uma semana, não levante peso e não faça esporte",
+  "Nas primeiras semanas, às vezes o coração falha. Avise o médico",
+  "Os remédios depois do procedimento, só como o médico receitar"
+ ],
+ "red_flags": [
+  "Sangue no local da punção ou um caroço crescendo na virilha: aperte o local e ligue para a emergência",
+  "Dor no peito, falta de ar, desmaio",
+  "A perna ficou fria, pálida ou dormente",
+  "Fraqueza no braço ou na perna, fala enrolada: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A ablação é uma cirurgia no coração?",
+   "a": "É um procedimento feito por dentro do vaso, sem cortes no peito. Normalmente é feito com anestesia local e calmante."
+  },
+  {
+   "q": "A arritmia passa para sempre depois da ablação?",
+   "a": "Muitas vezes sim, mas depende do tipo de arritmia. Às vezes é preciso repetir o procedimento. O médico explica o seu caso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem ablação. Separe os documentos, os eletrocardiogramas e a lista de remédios. Comida e água só até o horário que a clínica informou."
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "title": "Reemplazo de cadera",
+ "also": [
+  "prótesis de cadera",
+  "artroplastia de cadera",
+  "reemplazo total de cadera"
+ ],
+ "what": "El cirujano cambia la articulación de la cadera desgastada por una artificial. Normalmente se hace con anestesia raquídea o anestesia general.",
+ "why": "Lo más común es por artrosis grave, cuando el dolor no deja caminar ni dormir y el tratamiento no ayuda. También después de una fractura de cadera.",
+ "duration": "la cirugía suele durar de 1 a 2 horas; en el hospital, normalmente de 3 a 7 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dice cuáles dejar y cuándo",
+  "Si tienes alergias, también a metales",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si has tenido coágulos en las piernas",
+  "Si tú o tus familiares tuvieron problemas con la anestesia",
+  "Dientes enfermos, heridas en la piel o infecciones: se tratan antes de la cirugía"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma, radiografía y revisión del médico general y otros especialistas. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía hablará contigo el anestesiólogo sobre qué anestesia te pondrán."
+  },
+  {
+   "title": "Casa",
+   "text": "Antes, quita tapetes y cables del piso, pon una silla alta y ten listos una andadera o muletas."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dice la hora exacta."
+  }
+ ],
+ "bring": [
+  "La orden médica, los análisis y las radiografías",
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Zapatos cerrados y cómodos, con suela que no resbale",
+  "Tus cosas para el hospital para varios días",
+  "Muletas o andadera, si te dijeron que lleves las tuyas"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "En el quirófano te ponen la anestesia: en la espalda o general",
+  "El cirujano hace un corte en un lado o atrás de la cadera",
+  "Quita las partes dañadas de la articulación y pone la articulación artificial",
+  "Cierra la herida y a veces deja un tubo delgado para drenar",
+  "Despiertas en la sala de recuperación y luego te pasan al cuarto"
+ ],
+ "feel": [
+  "Después de la cirugía duele la cadera; te dan analgésico",
+  "Con la anestesia en la espalda no sientes las piernas por un rato. Se quita",
+  "Los primeros días, debilidad y te cansas rápido"
+ ],
+ "after": [
+  "Normalmente te ayudan a levantarte con andadera desde el día 1 o 2",
+  "Haz los ejercicios que te enseñe el fisioterapeuta",
+  "Normalmente te dan medicamento o medias contra coágulos, según indique el médico",
+  "Las primeras semanas no te sientes en lugares bajos, no cruces las piernas y no te agaches mucho. El cirujano te dice las reglas exactas",
+  "Normalmente caminas con apoyo varias semanas",
+  "La recuperación completa suele tardar varios meses"
+ ],
+ "red_flags": [
+  "Hinchazón y dolor en la pantorrilla: puede ser un coágulo",
+  "Falta de aire de repente o dolor en el pecho: llama a emergencias de inmediato",
+  "Fiebre de más de 38 grados, enrojecimiento, pus o algo que sale de la herida",
+  "Dolor fuerte de golpe en la cadera, o la pierna se ve más corta o girada: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto dura una prótesis de cadera?",
+   "a": "Normalmente de 15 a 20 años o más. Depende mucho del peso, la actividad y los cuidados."
+  },
+  {
+   "q": "¿Cuándo puedo caminar después del reemplazo de cadera?",
+   "a": "Con andadera, normalmente a los 1 o 2 días. Sin apoyo, en unas semanas, cuando el médico lo permita."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Junta tus cosas, tu identificación, las radiografías y la lista de medicamentos. Come y toma agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

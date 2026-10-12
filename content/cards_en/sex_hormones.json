@@ -1,0 +1,74 @@
+{
+ "title": "Sex hormone blood test",
+ "also": [
+  "hormone blood test",
+  "FSH and LH test",
+  "estradiol and progesterone test",
+  "testosterone test"
+ ],
+ "what": "A regular blood test from a vein. It checks the hormones that control the menstrual cycle, pregnancy, and men's health.",
+ "why": "For cycle problems, planning a pregnancy, infertility, erection problems, acne, or too much body hair.",
+ "duration": "drawing the blood takes a few minutes",
+ "tell_doctor": [
+  "Which day of your cycle it is today",
+  "If you take hormone pills, birth control, or other hormones",
+  "If you are pregnant or breastfeeding",
+  "All medicines and supplements you take regularly"
+ ],
+ "prepare": [
+  {
+   "title": "Cycle day",
+   "text": "For women, many hormones are tested on certain days of the cycle. Often days 2 to 5, and progesterone about a week before your period. Your doctor will tell you the exact day."
+  },
+  {
+   "title": "Time",
+   "text": "Usually in the morning, best on an empty stomach: after dinner, only water. For men, testosterone is usually tested before 11 a.m."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours, avoid exercise, alcohol, and sex. They can change the result."
+  },
+  {
+   "title": "Before the test",
+   "text": "Do not smoke for at least 1 hour. Sit quietly for 10 to 15 minutes. Stress affects prolactin."
+  }
+ ],
+ "bring": [
+  "Your referral with the list of hormones",
+  "The date your last period started",
+  "Past test results, to compare"
+ ],
+ "steps": [
+  "You sit down and rest your arm on a support",
+  "A band is tightened above your elbow",
+  "The skin is wiped with alcohol and blood is taken from a vein into tubes",
+  "The puncture spot is pressed with cotton or covered with a bandage"
+ ],
+ "feel": [
+  "A quick prick and light pressure from the band",
+  "If you feel faint at the sight of blood, say so first. You can lie down"
+ ],
+ "after": [
+  "Keep the cotton pressed for a few minutes to avoid a bruise",
+  "You can eat and go back to your day right away",
+  "Results usually take 1 to 3 days",
+  "Only your doctor should judge the result. Normal levels depend on your cycle day and age"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "On which day of my cycle should I test hormones?",
+   "a": "Most often on days 2 to 5, and progesterone about a week before your period. But your doctor chooses the day for your situation."
+  },
+  {
+   "q": "Can I test hormones during my period?",
+   "a": "Yes. Many hormones are tested in the first days of the cycle, while you still have your period."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Hormone test tomorrow. Today, no exercise, alcohol, or sex. In the morning, empty stomach, only water."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "title": "PET-CT",
+ "also": [
+  "PET/CT",
+  "PET scan",
+  "tomografia por emissão de pósitrons",
+  "PET-CT de corpo inteiro"
+ ],
+ "what": "Aplicam na sua veia um pouco de glicose radioativa. O aparelho mostra onde as células usam mais essa glicose e junta isso com a imagem da tomografia.",
+ "why": "Na maioria das vezes em casos de câncer: para encontrar lesões, ver se a doença se espalhou e como o tratamento está funcionando.",
+ "duration": "no centro normalmente de 2 a 3 horas, e o exame em si de 15 a 30 minutos",
+ "tell_doctor": [
+  "Diabetes e os remédios para ela. O preparo vai ser ajustado",
+  "Gravidez ou amamentação",
+  "Alergia a contraste e doenças dos rins",
+  "Se é difícil ficar muito tempo deitado de costas ou se tem medo de lugares fechados",
+  "As datas da última quimioterapia ou radioterapia"
+ ],
+ "prepare": [
+  {
+   "title": "Jejum",
+   "text": "Normalmente de 4 a 6 horas sem comer. Só pode água pura, sem açúcar. Sem chiclete e sem balas."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Um dia antes, evite esporte pesado e trabalho físico. Muitas vezes recomendam menos doces e massas. A clínica diz com mais detalhes."
+  },
+  {
+   "title": "Diabetes",
+   "text": "O açúcar no sangue deve estar normal. Como tomar os remédios nesse dia, quem decide é o médico."
+  },
+  {
+   "title": "Roupa",
+   "text": "Quente e confortável, sem metal."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documentos",
+  "Imagens anteriores de tomografia, ressonância, PET em CD e os laudos",
+  "Relatórios do tratamento"
+ ],
+ "steps": [
+  "Medem o açúcar no seu sangue",
+  "Colocam um cateter na veia e aplicam o produto",
+  "Por cerca de uma hora, você fica sentado ou deitado em silêncio numa sala calma: sem falar, sem ler, sem andar",
+  "Antes do exame, vá ao banheiro",
+  "Você deita na mesa, e ela passa devagar pelo anel do aparelho",
+  "É preciso ficar parado por 15 a 30 minutos"
+ ],
+ "feel": [
+  "Você não sente a aplicação do produto",
+  "O aparelho não faz tanto barulho quanto a ressonância",
+  "Se aplicarem contraste, pode vir uma onda de calor pelo corpo"
+ ],
+ "after": [
+  "Beba mais água até o fim do dia. O produto sai mais rápido pela urina",
+  "Normalmente você pode comer logo depois",
+  "Por algumas horas, fique longe de grávidas e crianças pequenas. O tempo exato quem diz é a clínica",
+  "O laudo sai normalmente em 1 a 3 dias"
+ ],
+ "red_flags": [
+  "Manchas na pele, inchaço no rosto, dificuldade para respirar depois da aplicação: avise a equipe na hora ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A radiação do PET-CT é perigosa?",
+   "a": "A dose é pequena e sai rápido do corpo. O médico pede o exame quando o benefício é maior que o risco."
+  },
+  {
+   "q": "Por que não posso comer antes do PET-CT?",
+   "a": "O produto é glicose. Se você comeu, o açúcar no sangue fica alto, e as imagens saem piores."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você faz PET-CT. Hoje, sem esporte pesado e sem trabalho físico. Doces e massas, só um pouco."
+  },
+  {
+   "hoursBefore": 6,
+   "text": "Daqui a 6 horas você faz PET-CT. Hora de parar de comer. Só pode água pura, sem açúcar, se a clínica não disse o contrário."
+  }
+ ]
+}

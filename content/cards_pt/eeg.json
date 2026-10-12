@@ -1,0 +1,81 @@
+{
+ "title": "Eletroencefalograma (EEG)",
+ "also": [
+  "EEG",
+  "eletroencefalograma",
+  "exame do cérebro",
+  "EEG do sono"
+ ],
+ "what": "O registro da atividade elétrica do cérebro com sensores na cabeça. Os sensores não dão choque, eles só captam os sinais.",
+ "why": "Em caso de convulsões, desmaios, crises de comportamento estranho, e para acompanhar o tratamento da epilepsia.",
+ "duration": "normalmente de 20 a 40 minutos; o registro durante o sono demora mais",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os anticonvulsivantes e os calmantes. Não suspenda por conta própria",
+  "Como são as suas crises e quando foi a última",
+  "Se luz piscando faz você passar mal"
+ ],
+ "prepare": [
+  {
+   "title": "Cabelo",
+   "text": "Lave a cabeça na véspera ou de manhã. Sem condicionador, óleo, laquê ou gel. Os sensores precisam encostar bem."
+  },
+  {
+   "title": "Penteado",
+   "text": "Desfaça tranças, tire presilhas e apliques. É melhor não usar brincos nem enfeites de metal na cabeça."
+  },
+  {
+   "title": "Comida",
+   "text": "Coma normalmente, porque a fome pode alterar o registro. Nesse dia, é melhor evitar café forte e energéticos."
+  },
+  {
+   "title": "Sono",
+   "text": "Se o EEG for durante o sono ou depois de uma noite sem dormir, a clínica vai dizer quanto dormir na véspera."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "EEGs e laudos anteriores",
+  "Lista de remédios",
+  "Toalha ou touca, porque depois do gel o cabelo fica úmido",
+  "Para a criança, o brinquedo preferido"
+ ],
+ "steps": [
+  "Você senta numa poltrona ou deita",
+  "Colocam na cabeça uma touca macia com sensores, ou prendem os sensores com gel",
+  "Pedem para você fechar os olhos e ficar sentado com calma",
+  "Pedem para você abrir e fechar os olhos algumas vezes",
+  "Por cerca de 3 minutos, você precisa respirar fundo e rápido",
+  "Uma luz forte vai piscar na frente dos seus olhos"
+ ],
+ "feel": [
+  "A touca aperta um pouco, e o gel é fresquinho",
+  "Com a respiração rápida, pode dar tontura ou formigamento nos dedos, e isso passa",
+  "Não há choque, não dói"
+ ],
+ "after": [
+  "O gel é lavado, e você pode voltar às suas atividades logo em seguida",
+  "O laudo normalmente sai no mesmo dia ou em alguns dias",
+  "O resultado, o neurologista vai explicar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O EEG faz mal ao cérebro?",
+   "a": "Não. Os sensores só registram os sinais do cérebro e não mandam nada para a cabeça. O EEG é feito até em bebês."
+  },
+  {
+   "q": "Preciso parar os anticonvulsivantes antes do EEG?",
+   "a": "Por conta própria, não. Parar de repente é perigoso. Fale com o médico, e ele decide."
+  },
+  {
+   "q": "Posso lavar a cabeça antes do EEG?",
+   "a": "Deve. Com o cabelo limpo, sem condicionador e sem laquê, o registro fica preciso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o EEG. Lave a cabeça sem condicionador e sem óleos, e não faça penteado complicado."
+  }
+ ]
+}

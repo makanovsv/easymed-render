@@ -1,0 +1,87 @@
+{
+ "title": "Marcadores tumorais",
+ "also": [
+  "exame de marcadores tumorais",
+  "PSA",
+  "CA-125",
+  "CEA",
+  "exame de sangue para câncer"
+ ],
+ "what": "Exame de sangue que mede substâncias especiais, cujo nível pode mudar em alguns tumores. O sangue é tirado da veia, como num exame comum.",
+ "why": "Na maioria das vezes, para acompanhar o tratamento e perceber a tempo se a doença voltou. Às vezes, como checagem extra, se o médico desconfiou de algo. Sozinho, o exame não confirma nem descarta câncer.",
+ "duration": "a coleta leva poucos minutos; o resultado normalmente sai em 1 a 5 dias",
+ "tell_doctor": [
+  "Quais remédios e vitaminas você toma, principalmente biotina, que pode alterar o resultado",
+  "Se teve há pouco tempo inflamação, gripe ou piora de uma doença crônica",
+  "Para mulheres: o dia do ciclo e se está grávida",
+  "Para homens, antes do PSA: se fez há pouco tempo exame de toque da próstata, ultrassom pelo reto ou biópsia"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente a coleta é em jejum ou de 4 a 6 horas depois de uma refeição leve. Pode beber água. Confirme com a clínica."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Sem álcool e sem comida gordurosa. De manhã, antes do exame, é melhor não fumar."
+  },
+  {
+   "title": "Antes do PSA",
+   "text": "Nos 2 dias antes, normalmente recomendam não andar de bicicleta, evitar ejaculação e esforço pesado."
+  },
+  {
+   "title": "Mulheres",
+   "text": "O exame de CA-125 normalmente não é feito durante a menstruação. É melhor alguns dias depois."
+  },
+  {
+   "title": "Exames repetidos",
+   "text": "Se você acompanha o marcador ao longo do tempo, faça sempre no mesmo laboratório."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados anteriores dos mesmos marcadores, para comparar"
+ ],
+ "steps": [
+  "Você senta e apoia o braço",
+  "Amarram um garrote acima do cotovelo",
+  "Limpam a pele e colocam uma agulha fina na veia",
+  "O sangue vai para um tubo, e a agulha é retirada",
+  "Colocam um algodão no local. Pressione por alguns minutos"
+ ],
+ "feel": [
+  "Uma picada rápida da agulha",
+  "Às vezes fica um pequeno roxo no local"
+ ],
+ "after": [
+  "Você pode voltar às suas atividades e comer logo em seguida",
+  "O resultado normalmente sai em 1 a 5 dias",
+  "Só o médico avalia o resultado, junto com o exame físico e outros exames",
+  "Um pequeno aumento do marcador pode acontecer sem tumor. Não entre em pânico, converse com o médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Se o marcador tumoral está alto, é câncer?",
+   "a": "Não necessariamente. Os marcadores também sobem com inflamação, doenças do fígado, dos rins, cistos. O médico decide se são precisos outros exames."
+  },
+  {
+   "q": "Posso fazer marcadores tumorais só para checar, sem sintomas?",
+   "a": "Para a maioria dos marcadores, não: eles muitas vezes erram em pessoas saudáveis. Para checagem existem outros métodos. Pergunte ao médico quais servem para a sua idade."
+  },
+  {
+   "q": "Por que é importante fazer no mesmo laboratório?",
+   "a": "Laboratórios diferentes usam kits diferentes, e os números podem variar. Só dá para comparar de verdade resultados do mesmo lugar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Daqui a 2 dias você tem exame de marcadores tumorais. Se for PSA, sem bicicleta, sem ejaculação e sem esforço pesado."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de marcadores tumorais. Normalmente é em jejum: à noite, jantar leve; de manhã, só água."
+  }
+ ]
+}

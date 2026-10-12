@@ -1,0 +1,70 @@
+{
+ "title": "Ultrasonido de vejiga con orina residual",
+ "also": [
+  "ultrasonido de vejiga",
+  "orina residual",
+  "ultrasonido de vejiga antes y después de orinar"
+ ],
+ "what": "El médico revisa la vejiga con ultrasonido, primero llena y luego justo después de que vas al baño. Así se ve cuánta orina queda.",
+ "why": "Si tienes ganas de orinar seguido, el chorro es débil, sientes que no vacías por completo, tienes problemas de próstata o inflamaciones de vejiga seguidas.",
+ "duration": "normalmente de 15 a 20 minutos, más el tiempo para llenar la vejiga",
+ "tell_doctor": [
+  "Si te cuesta aguantar mucho tiempo o se te sale la orina",
+  "Si tienes sonda o te operaron la vejiga o la próstata",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Agua",
+   "text": "Normalmente toma de 1 a 1.5 litros de agua sin gas o té, 1 hora o 1 hora y media antes del ultrasonido."
+  },
+  {
+   "title": "Baño",
+   "text": "Después ya no vayas al baño. Al llegar debes sentir la vejiga llena, pero que todavía aguantas."
+  },
+  {
+   "title": "Si ya no aguantas",
+   "text": "Avisa en recepción; a veces te pasan antes. Puedes orinar un poco y tomar más agua."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus resultados anteriores de ultrasonido",
+  "Una botella de agua",
+  "Un pañuelo para quitarte el gel"
+ ],
+ "steps": [
+  "Te acuestas boca arriba y descubres la parte baja del abdomen",
+  "El médico pone gel y revisa la vejiga llena",
+  "Te piden ir al baño y vaciar la vejiga por completo",
+  "Regresas de inmediato y el médico revisa la vejiga otra vez",
+  "Con la segunda revisión calculan cuánta orina quedó"
+ ],
+ "feel": [
+  "El gel está frío",
+  "El sensor presiona la vejiga llena: dan ganas de ir al baño, pero no duele"
+ ],
+ "after": [
+  "Te limpian el gel y puedes volver a tus cosas de inmediato",
+  "Normalmente te dan el resultado en ese momento"
+ ],
+ "red_flags": [
+  "No puedes orinar nada y la parte baja del abdomen está inflada y duele: necesita atención urgente, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánta agua tomo antes del ultrasonido de vejiga?",
+   "a": "Normalmente de 1 a 1.5 litros en una hora o una hora y media, y no ir al baño. La clínica te dice con más detalle."
+  },
+  {
+   "q": "¿Cuánta orina residual es normal?",
+   "a": "Normalmente muy poca. Qué significan tus cifras te lo explica el médico, según tus molestias y tu edad."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu ultrasonido de vejiga. Toma de 1 a 1.5 litros de agua una hora o una hora y media antes y no vayas al baño."
+  }
+ ]
+}

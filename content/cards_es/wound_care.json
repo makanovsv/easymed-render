@@ -1,0 +1,75 @@
+{
+ "title": "Curación de herida y puntos",
+ "also": [
+  "poner puntos",
+  "suturar una herida",
+  "lavado quirúrgico de herida",
+  "coser una herida"
+ ],
+ "what": "El médico limpia la herida, quita la suciedad y el tejido dañado y, si hace falta, la cose con anestesia local.",
+ "why": "Si tienes una cortada, una herida desgarrada o por objeto punzante, o una mordida, y la herida es profunda, ancha, no deja de sangrar o está sucia.",
+ "duration": "normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Cuándo y con qué te lastimaste",
+  "Cuándo te pusieron la vacuna contra el tétanos",
+  "Si te mordió un animal: cuál y dónde está ahora",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes alergia a anestésicos o antibióticos",
+  "Si tienes diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Detener la sangre",
+   "text": "Presiona la herida con una tela limpia o una venda y sostén de 10 a 15 minutos, sin soltar."
+  },
+  {
+   "title": "Qué no hacer",
+   "text": "No pongas polvos en la herida ni pomadas o tintes por dentro. Si hay un objeto clavado, no lo saques."
+  },
+  {
+   "title": "No esperes",
+   "text": "Es mejor ir al médico en las primeras horas; así normalmente se puede coser de inmediato."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus datos de vacunas, si los tienes"
+ ],
+ "steps": [
+  "El médico revisa la herida, los movimientos y la sensibilidad",
+  "Pone inyecciones con anestesia alrededor de la herida",
+  "Lava y limpia la herida",
+  "Si hace falta, quita los bordes dañados",
+  "Pone puntos, tiras adhesivas o pegamento médico",
+  "Encima, un vendaje",
+  "Si hace falta, te ponen protección contra el tétanos, y después de una mordida te mandan a vacunar contra la rabia"
+ ],
+ "feel": [
+  "Las inyecciones de anestesia arden unos segundos y luego la zona se duerme",
+  "Mientras cosen, sientes que te tocan y jalan, sin dolor fuerte",
+  "Cuando se pase la anestesia, la herida va a doler un poco; ayudan los analgésicos comunes"
+ ],
+ "after": [
+  "Cambia el vendaje y moja la herida solo como te dijo el médico",
+  "Los puntos normalmente se quitan a los 5 a 14 días: en la cara antes, en las articulaciones después",
+  "Ve a tus curaciones los días indicados",
+  "Quedará una pequeña cicatriz; con el tiempo se aclara"
+ ],
+ "red_flags": [
+  "El sangrado no se detiene después de 15 minutos de presión: llama a emergencias",
+  "Lo rojo alrededor de la herida se extiende, hay pus, dolor que aumenta o fiebre: son señales de infección",
+  "Adormecimiento, o un dedo no se mueve más abajo de la herida",
+  "Herida por mordida de animal: ve al médico ese mismo día"
+ ],
+ "faq": [
+  {
+   "q": "¿Después de cuántas horas ya no se puede coser una herida?",
+   "a": "Entre más pronto, mejor: normalmente en las primeras 6 a 12 horas, en la cara un poco más. El médico decide después de revisarla."
+  },
+  {
+   "q": "¿Cuándo se quitan los puntos?",
+   "a": "Normalmente a los 5 a 14 días. En la cara antes; en brazos, piernas y articulaciones, después."
+  }
+ ],
+ "reminders": []
+}

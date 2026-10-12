@@ -1,0 +1,90 @@
+{
+ "title": "Colocación de marcapasos",
+ "also": [
+  "marcapasos",
+  "implante de marcapasos",
+  "marcapasos cardiaco"
+ ],
+ "what": "El médico pone debajo de la piel, abajo de la clavícula, un aparato pequeño. De él salen cables delgados que van por una vena al corazón y le ayudan a latir al ritmo correcto.",
+ "why": "Cuando el corazón late muy lento o con pausas: si hay desmayos, mucha debilidad o mareos por alteraciones del ritmo.",
+ "duration": "el procedimiento suele durar de 1 a 2 horas; en el hospital, normalmente de 1 a 3 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dice cuáles dejar y cuándo",
+  "Si tienes alergias, sobre todo al yodo, a antibióticos o a medicamentos para el dolor",
+  "Si tienes diabetes o enfermedades de los riñones",
+  "Con qué mano escribes y trabajas: normalmente el aparato se pone del otro lado",
+  "Si antes tuviste cirugías o problemas de piel en la zona de la clavícula"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces ultrasonido del corazón. La clínica te da la lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes 6 horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Piel",
+   "text": "Báñate la noche anterior. Si tienes mucho vello en el pecho, lo pueden rasurar en el hospital."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda que abra por delante, pantuflas, cargador del celular y los medicamentos que tomas siempre."
+  }
+ ],
+ "bring": [
+  "La orden médica y tus resultados de estudios",
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital para 1 a 3 días"
+ ],
+ "steps": [
+  "Te cambias de ropa, te ponen un catéter en la vena y te conectan a un monitor",
+  "Te dan un medicamento para relajarte, a veces para dormir; depende de cada caso",
+  "Te adormecen debajo de la clavícula",
+  "El médico hace un corte pequeño y lleva los cables por la vena hasta el corazón, con rayos X",
+  "Conecta los cables al aparato y revisa que funcione",
+  "Pone el aparato debajo de la piel y cierra el corte"
+ ],
+ "feel": [
+  "La inyección para el dolor y presión en la zona de la clavícula",
+  "A veces sientes cuando revisan el ritmo del corazón",
+  "Después del procedimiento, dolor e hinchazón en la herida por unos días"
+ ],
+ "after": [
+  "Las primeras semanas normalmente no puedes subir el brazo de ese lado más arriba del hombro ni cargar cosas pesadas. El médico te dice cuánto tiempo",
+  "Mantén la herida seca y limpia hasta que te permitan bañarte",
+  "Te darán una tarjeta del marcapasos; llévala siempre contigo",
+  "Mantén el celular a 15 centímetros del aparato; no lo guardes en la bolsa de la camisa",
+  "En el aeropuerto, enseña la tarjeta",
+  "Antes de una resonancia, di siempre que tienes marcapasos",
+  "La primera revisión del aparato suele ser en unas semanas, y luego seguido"
+ ],
+ "red_flags": [
+  "Desmayo, mareo fuerte, falta de aire o dolor en el pecho: llama a emergencias",
+  "Sangre, pus, o hinchazón o enrojecimiento de la herida que aumentan",
+  "Fiebre de más de 38 grados",
+  "Hipo que no se quita o brincos de los músculos del pecho"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo usar el celular con marcapasos?",
+   "a": "Sí. Solo mantén el celular a 15 centímetros del aparato y habla con el oído del otro lado."
+  },
+  {
+   "q": "¿Me puedo hacer una resonancia con marcapasos?",
+   "a": "Solo si el aparato es compatible con resonancia y si el cardiólogo lo decide. Di siempre que tienes marcapasos."
+  },
+  {
+   "q": "¿Cuánto dura un marcapasos?",
+   "a": "Normalmente de 7 a 12 años. Luego se cambia el aparato; los cables muchas veces se dejan."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen el marcapasos. Junta tus cosas, tu identificación y la lista de medicamentos. Come y toma agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

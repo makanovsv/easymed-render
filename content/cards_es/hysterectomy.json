@@ -1,0 +1,100 @@
+{
+ "title": "Histerectomía",
+ "also": [
+  "histerectomía",
+  "quitar el útero",
+  "histerectomía por laparoscopia"
+ ],
+ "what": "El cirujano quita el útero. Los ovarios a veces se dejan y a veces se quitan; eso se decide antes. La cirugía se hace por piquetes, por la vagina o por un corte en el abdomen.",
+ "why": "Si hay miomas, sangrados fuertes, endometriosis, útero caído y algunos tumores, cuando otros métodos no ayudaron o no sirven.",
+ "duration": "la cirugía suele durar de 1 a 3 horas; en el hospital, normalmente de 1 a 5 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y las hormonas. El médico te dice cuáles dejar y cuándo",
+  "Si tienes alergias",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si tú o tus familiares tuvieron coágulos en las venas",
+  "Cirugías anteriores del abdomen",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Plática",
+   "text": "Pregúntale al médico cómo te van a operar y si dejarán los ovarios y el cuello del útero."
+  },
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, exudados, ultrasonido, electrocardiograma y a veces revisión del médico general. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía hablará contigo el anestesiólogo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dice la hora exacta. A veces piden limpiar el intestino."
+  },
+  {
+   "title": "Medias",
+   "text": "Muchas veces piden medias de compresión: protegen contra coágulos. Pregunta en tu clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica y tus resultados de análisis",
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Medias de compresión, si te las indicaron",
+  "Toallas sanitarias",
+  "Tus cosas para el hospital para varios días"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "En el quirófano te ponen la anestesia general y te duermes",
+  "Te ponen una sonda en la vejiga",
+  "El cirujano quita el útero con el método elegido",
+  "El tejido se manda a analizar",
+  "Despiertas en la sala de recuperación y luego te pasan a tu cuarto"
+ ],
+ "feel": [
+  "Después de la anestesia, sueño y a veces náuseas",
+  "Dolor en la parte baja del abdomen; te dan analgésico",
+  "Después de los piquetes muchas veces duele el hombro por el gas; se quita en 1 o 2 días",
+  "Sale un poco de sangre por la vagina durante varias semanas",
+  "El cansancio puede durar varias semanas"
+ ],
+ "after": [
+  "Normalmente te dejan levantarte y caminar el primer día: eso protege contra coágulos",
+  "Normalmente de 4 a 6 semanas sin cargar cosas pesadas",
+  "Relaciones sexuales, tampones, alberca y tina: normalmente después de 6 semanas o cuando el médico lo permita",
+  "Ya no tendrás regla y ya no podrás embarazarte",
+  "Si quitaron los ovarios, puede empezar la menopausia. Háblalo con el médico",
+  "El resultado del tejido suele estar en 1 o 2 semanas"
+ ],
+ "red_flags": [
+  "Sangrado fuerte: llenas una toalla en una hora",
+  "Fiebre de más de 38 grados o flujo con mal olor",
+  "Dolor de abdomen fuerte o que va en aumento",
+  "Dolor e hinchazón en una pierna",
+  "Dolor en el pecho o falta de aire: llama a emergencias",
+  "No puedes orinar"
+ ],
+ "faq": [
+  {
+   "q": "¿Me dará menopausia después de quitarme el útero?",
+   "a": "Si dejaron los ovarios, normalmente no: las hormonas se siguen produciendo. Si los quitaron, la menopausia empieza de inmediato."
+  },
+  {
+   "q": "¿Puedo tener relaciones sexuales después de la histerectomía?",
+   "a": "Sí. Normalmente después de 6 semanas, cuando todo sanó. El médico te dice el tiempo exacto."
+  },
+  {
+   "q": "¿Cuánto tarda la recuperación de una histerectomía?",
+   "a": "Normalmente de 2 a 6 semanas, según cómo te operen. Por piquetes es más rápido; con corte, más lento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Junta tus cosas, tu identificación, la lista de medicamentos y las medias si te las indicaron. Come y toma agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

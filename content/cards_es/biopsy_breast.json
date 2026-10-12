@@ -1,0 +1,81 @@
+{
+ "title": "Biopsia de mama",
+ "also": [
+  "biopsia de seno",
+  "biopsia con aguja gruesa",
+  "biopsia guiada por ultrasonido",
+  "punción de mama"
+ ],
+ "what": "Con una aguja delgada, el médico saca pedacitos muy pequeños de tejido del seno, guiándose con ultrasonido. Luego se revisan al microscopio.",
+ "why": "Cuando en el ultrasonido o la mastografía encontraron una bolita y hay que saber con seguridad qué es.",
+ "duration": "normalmente de 20 a 40 minutos; tomar la muestra lleva unos minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. El médico te dice si hay que dejarlos",
+  "Si tienes alergia a las inyecciones para el dolor",
+  "Si estás embarazada o das pecho",
+  "Si tienes implantes de seno"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer como siempre. Pregunta en tu clínica."
+  },
+  {
+   "title": "Piel",
+   "text": "Ese día no te pongas crema en el pecho ni desodorante en las axilas."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda con una blusa fácil de quitar. Un brasier firme, que sostenga el seno después."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus estudios y resultados de ultrasonido y mastografía",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas boca arriba o un poco de lado",
+  "El médico encuentra el lugar con el ultrasonido",
+  "Limpia la piel y te pone una inyección para el dolor",
+  "Hace un corte muy pequeño en la piel",
+  "Con la aguja saca varios pedacitos; oirás un clic",
+  "A veces deja una marca muy pequeña para señalar el lugar",
+  "Presiona la zona y la cubre con un vendaje"
+ ],
+ "feel": [
+  "La inyección para el dolor arde un poco",
+  "Después sientes presión y clics, pero no dolor",
+  "Si te duele, díselo al médico. Te pondrá más anestesia"
+ ],
+ "after": [
+  "Pon frío en el seno sobre una tela: hay menos hinchazón y moretón",
+  "Un moretón y molestia por unos días es normal",
+  "De 1 a 2 días sin deporte ni cargar cosas pesadas",
+  "El resultado suele estar en 1 o 2 semanas; te lo explica el médico"
+ ],
+ "red_flags": [
+  "El vendaje se llena de sangre o el seno se hincha rápido",
+  "Fiebre, enrojecimiento, o dolor fuerte o que va en aumento"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele la biopsia de mama?",
+   "a": "Se hace con anestesia local. Normalmente solo se siente la inyección y presión."
+  },
+  {
+   "q": "¿La biopsia puede hacer daño si la bolita es peligrosa?",
+   "a": "No. Según lo que se sabe hoy, la biopsia no acelera ni extiende la enfermedad. Sin ella no se puede elegir el tratamiento correcto."
+  },
+  {
+   "q": "¿Para qué dejan una marca en el seno?",
+   "a": "Para encontrar después ese lugar con exactitud. La marca es muy pequeña, segura y no afecta la resonancia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu biopsia. Lleva tus estudios de ultrasonido y mastografía. No te pongas crema ni desodorante."
+  }
+ ]
+}

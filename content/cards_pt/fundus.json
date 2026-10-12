@@ -1,0 +1,74 @@
+{
+ "title": "Exame de fundo de olho com dilatação",
+ "also": [
+  "exame de fundo de olho",
+  "mapeamento de retina",
+  "fundoscopia",
+  "colírio para dilatar a pupila"
+ ],
+ "what": "Pingam colírio nos olhos, e a pupila fica larga. Por ela, o médico vê bem a retina, os vasos e o nervo do olho.",
+ "why": "Em caso de diabetes e pressão alta, miopia, flashes e moscas volantes na visão, piora da visão, ou em exame de rotina.",
+ "duration": "a consulta leva normalmente de 40 a 60 minutos; o colírio faz efeito em 20 a 30 minutos",
+ "tell_doctor": [
+  "Se você tem glaucoma ou já disseram que tem ângulo estreito no olho",
+  "Se já teve crises de dor no olho com enjoo",
+  "Alergia a colírios",
+  "Se usa lentes de contato"
+ ],
+ "prepare": [
+  {
+   "title": "Transporte",
+   "text": "Não dirija depois do exame: a visão vai ficar embaçada por algumas horas. Vá de táxi ou com acompanhante."
+  },
+  {
+   "title": "Lentes",
+   "text": "Leve o estojo, porque as lentes são tiradas antes do exame."
+  },
+  {
+   "title": "Planos",
+   "text": "Depois do exame, por algumas horas, é difícil ler e olhar o celular. Não planeje trabalho com letras pequenas."
+  }
+ ],
+ "bring": [
+  "Óculos de sol",
+  "Óculos de grau",
+  "Estojo para as lentes",
+  "Laudos anteriores do oftalmologista"
+ ],
+ "steps": [
+  "Normalmente, primeiro medem a visão e a pressão do olho",
+  "Pingam colírio em cada olho",
+  "Você espera de 20 a 30 minutos, até as pupilas dilatarem",
+  "O médico ilumina o olho com uma luz forte, por uma lente ou um aparelho",
+  "Pede para olhar para cima, para baixo e para os lados"
+ ],
+ "feel": [
+  "O colírio pode arder um pouco",
+  "A luz forte incomoda, mas não dói",
+  "Depois, a visão fica embaçada e a luz ofusca"
+ ],
+ "after": [
+  "A visão embaçada e o incômodo com a luz normalmente passam em 4 a 6 horas, às vezes à noite",
+  "Use óculos de sol",
+  "O médico diz o resultado na hora"
+ ],
+ "red_flags": [
+  "Dor forte no olho, vermelhidão, dor de cabeça com enjoo e halos coloridos em volta das luzes depois do colírio: vá ao oftalmologista com urgência ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Quanto tempo dura o efeito do colírio para dilatar?",
+   "a": "Normalmente de 4 a 6 horas. Em algumas pessoas, até a noite ou até a manhã seguinte."
+  },
+  {
+   "q": "Posso dirigir depois do exame de fundo de olho?",
+   "a": "Não. Enquanto as pupilas estão dilatadas, a visão fica embaçada e a luz ofusca. Isso é perigoso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Daqui a 3 horas você tem exame de fundo de olho. Não dirija: na volta, é melhor ir de táxi. Leve óculos de sol."
+  }
+ ]
+}

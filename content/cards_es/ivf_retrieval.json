@@ -1,0 +1,92 @@
+{
+ "title": "FIV: punción para obtener óvulos",
+ "also": [
+  "punción ovárica",
+  "aspiración folicular",
+  "captura de óvulos",
+  "punción folicular FIV"
+ ],
+ "what": "Con una aguja delgada, a través de la pared de la vagina y guiándose con ultrasonido, el médico saca los óvulos de los ovarios. Normalmente se hace con un sueño corto con medicamento.",
+ "why": "Es una etapa de la fertilización in vitro después de estimular los ovarios: los óvulos obtenidos se fecundan en el laboratorio.",
+ "duration": "la punción suele durar de 15 a 30 minutos; en la clínica, normalmente de 2 a 4 horas",
+ "tell_doctor": [
+  "Todos los medicamentos e inyecciones que te pones",
+  "La hora exacta en que te pusiste la inyección final para madurar los óvulos",
+  "Si tienes alergias",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tuviste problemas con la anestesia",
+  "Si ahora tienes gripa o fiebre"
+ ],
+ "prepare": [
+  {
+   "title": "Inyección final",
+   "text": "Un día y medio antes de la punción te pones una inyección para que maduren los óvulos. El médico te da la hora y hay que cumplirla al minuto."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes 6 horas antes y no bebes 2 horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Pareja",
+   "text": "Si tu pareja deja la muestra de semen ese día, normalmente necesita de 2 a 5 días sin eyacular. Pregunta en tu clínica."
+  },
+  {
+   "title": "El día de la punción",
+   "text": "No uses perfume, crema, maquillaje ni esmalte de uñas. Quítate las joyas y los lentes de contacto."
+  }
+ ],
+ "bring": [
+  "Una identificación y tu contrato",
+  "Tus resultados de análisis",
+  "Ropa cómoda, calcetines y toallas sanitarias",
+  "Un acompañante para regresar a casa"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "Te acuestas en la silla ginecológica",
+  "El anestesiólogo pone el medicamento y te duermes",
+  "El médico mete en la vagina el sensor de ultrasonido con una aguja delgada",
+  "De cada folículo aspira el líquido con el óvulo",
+  "El embriólogo busca los óvulos al microscopio en ese momento",
+  "Despiertas y descansas con vigilancia 1 o 2 horas"
+ ],
+ "feel": [
+  "Dormida, normalmente no sientes nada",
+  "Después, un dolor jalón en la parte baja del abdomen, como de regla",
+  "Un poco de sangrado durante 1 o 2 días"
+ ],
+ "after": [
+  "El resto del día, descanso y no manejes",
+  "Normalmente ese mismo día te dicen cuántos óvulos obtuvieron",
+  "La clínica te avisará en los próximos días sobre la fecundación y los embriones",
+  "Sin vapor, tina, deporte ni relaciones sexuales hasta que el médico lo permita",
+  "Toma suficiente agua; los medicamentos, tal como te indique la clínica"
+ ],
+ "red_flags": [
+  "Dolor de abdomen fuerte o que va en aumento",
+  "El abdomen creció de golpe, subes de peso en un día, te falta el aire o orinas poco: es el síndrome de hiperestimulación, llama urgente a la clínica o a emergencias",
+  "Sangrado abundante",
+  "Fiebre de más de 38 grados",
+  "Debilidad o desmayo"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele la punción en la FIV?",
+   "a": "Normalmente se hace con un sueño corto, así que no duele durante el procedimiento. Después hay dolor jalón en el abdomen 1 o 2 días."
+  },
+  {
+   "q": "¿Por qué es tan importante la hora de la inyección final?",
+   "a": "Los óvulos maduran en un número exacto de horas después de la inyección. Si hay un error, puede que no se obtengan."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 40,
+   "text": "Hoy es tu inyección final. Póntela exactamente a la hora que te indicó la clínica. Anota la hora exacta."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu punción. Comida y agua solo hasta la hora que te dijo la clínica. Sin maquillaje, perfume ni esmalte. Ponte de acuerdo con quien te recogerá."
+  }
+ ]
+}

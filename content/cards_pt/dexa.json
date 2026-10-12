@@ -1,0 +1,68 @@
+{
+ "title": "Densitometria óssea",
+ "also": [
+  "DEXA",
+  "densitometria",
+  "exame de osteoporose",
+  "densidade dos ossos"
+ ],
+ "what": "Um raio-X especial que mede a densidade dos ossos. A dose de radiação é muito pequena.",
+ "why": "Para checar osteoporose: em mulheres depois da menopausa, depois de fraturas por pequenos traumas, e quando se toma hormônios por muito tempo.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se na última semana fez exame com contraste ou com material radioativo",
+  "Se já fez cirurgia na coluna ou tem peças de metal no corpo",
+  "Quais remédios para os ossos você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Cálcio",
+   "text": "Normalmente pedem para não tomar suplemento de cálcio 24 horas antes do exame. Confirme com a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Pode comer normalmente."
+  },
+  {
+   "title": "Roupa",
+   "text": "Sem metal: zíperes, botões, fivelas, aros no sutiã. É melhor deixar as joias em casa."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados anteriores de densitometria, para comparar"
+ ],
+ "steps": [
+  "Você tira o que tem metal e deita de barriga para cima na mesa",
+  "As pernas ficam num apoio, para deixar a lombar reta",
+  "O braço do aparelho passa devagar sobre você",
+  "Normalmente examinam a lombar e o quadril, às vezes o antebraço",
+  "Você precisa ficar parado por alguns minutos"
+ ],
+ "feel": [
+  "Nada. Só precisa ficar parado"
+ ],
+ "after": [
+  "Você pode voltar às suas atividades logo em seguida",
+  "O laudo normalmente sai no mesmo dia",
+  "O que os números significam, o médico vai explicar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "A densitometria é perigosa?",
+   "a": "A dose de radiação é muito pequena, menor que a de um raio-X comum do tórax."
+  },
+  {
+   "q": "De quanto em quanto tempo fazer a densitometria?",
+   "a": "Normalmente não mais que uma vez a cada 1 a 2 anos. O prazo, o médico define."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a densitometria. Normalmente hoje não se toma suplemento de cálcio. Confirme com a clínica. Vá com roupa sem metal."
+  }
+ ]
+}

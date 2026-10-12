@@ -1,0 +1,87 @@
+{
+ "title": "Angiotomografía",
+ "also": [
+  "angiotomografía",
+  "angio TAC",
+  "tomografía de vasos con contraste",
+  "angiotomografía coronaria"
+ ],
+ "what": "Una tomografía de los vasos sanguíneos. Te ponen medio de contraste en la vena y el aparato toma imágenes donde se ve cómo pasa la sangre por los vasos.",
+ "why": "Para revisar los vasos del corazón, la cabeza, el cuello, los pulmones, las piernas o la aorta: buscar un estrechamiento, una obstrucción o una dilatación.",
+ "duration": "normalmente de 15 a 30 minutos con la preparación; las imágenes en sí, unos minutos",
+ "tell_doctor": [
+  "Si tienes alergia al medio de contraste, al yodo o a cualquier medicamento",
+  "Si tienes enfermedades de los riñones",
+  "Si tienes diabetes y qué medicamentos tomas. El médico decide si hay que cambiar algo",
+  "Si tienes enfermedades de la tiroides",
+  "Si estás embarazada o das pecho",
+  "Si tienes asma"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Normalmente te piden antes la creatinina: un análisis de sangre que muestra cómo funcionan los riñones."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes de 2 a 4 horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Agua",
+   "text": "Normalmente puedes y hasta debes tomar agua natural. Así el contraste sale más rápido."
+  },
+  {
+   "title": "Corazón",
+   "text": "Si revisan los vasos del corazón, normalmente te piden no tomar café ni té cargado ese día. A veces te dan un medicamento para bajar el pulso, para que las imágenes salgan más claras."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu resultado de creatinina",
+  "Tus tomografías o resonancias anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te quitas las cosas de metal",
+  "La enfermera te pone un catéter en la vena del brazo",
+  "Te acuestas en la mesa del aparato",
+  "Por el catéter ponen el medio de contraste",
+  "La mesa pasa por el anillo del aparato",
+  "Te piden aguantar la respiración unos segundos y no moverte"
+ ],
+ "feel": [
+  "Cuando ponen el contraste, puede haber una ola de calor en el cuerpo",
+  "A veces sientes ganas de ir al baño. Se pasa rápido",
+  "Puede haber un sabor a metal en la boca"
+ ],
+ "after": [
+  "Después de las imágenes normalmente te piden esperar de 15 a 30 minutos, para ver que no hay reacción al contraste",
+  "Te quitan el catéter",
+  "Toma más agua ese día, si el médico no te la limitó",
+  "El resultado suele estar en 1 o 2 días"
+ ],
+ "red_flags": [
+  "Ronchas, comezón, hinchazón de la cara o los labios, o te cuesta respirar: avísale al personal de inmediato o llama a emergencias",
+  "Mucha hinchazón, dolor o enrojecimiento donde te pusieron el catéter"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligroso el contraste de la tomografía?",
+   "a": "Normalmente se tolera bien. Rara vez hay alergia; por eso es importante decirle antes al médico tus alergias y enfermedades de los riñones."
+  },
+  {
+   "q": "¿En qué se diferencia la angiotomografía del cateterismo cardiaco?",
+   "a": "En la angiotomografía solo ponen un catéter en la vena del brazo y las imágenes las toma el aparato. En el cateterismo llevan un tubo delgado por una arteria hasta el corazón."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu angiotomografía. Lleva tu resultado de creatinina, la orden médica y la lista de medicamentos."
+  },
+  {
+   "hoursBefore": 4,
+   "text": "Normalmente desde ahora ya no se come hasta la tomografía. Puedes tomar agua natural. La hora exacta, según tu clínica."
+  }
+ ]
+}

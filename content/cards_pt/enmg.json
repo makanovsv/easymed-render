@@ -1,0 +1,69 @@
+{
+ "title": "Eletroneuromiografia",
+ "also": [
+  "eletroneuromiografia",
+  "ENMG",
+  "eletromiografia",
+  "exame de condução nervosa"
+ ],
+ "what": "O médico verifica como o sinal passa pelos nervos e como os músculos funcionam. Usam sensores na pele, pequenos impulsos elétricos fracos e às vezes uma agulha fina.",
+ "why": "Em caso de dormência, formigamento, fraqueza nos braços ou nas pernas, depois de lesões nos nervos, dor nas costas que desce para a perna, e no diabetes.",
+ "duration": "normalmente de 30 a 60 minutos",
+ "tell_doctor": [
+  "Se você tem marca-passo ou outro aparelho no corpo",
+  "Remédios que afinam o sangue, se o exame for com agulha",
+  "Se há inchaço ou doença de pele nos braços ou nas pernas"
+ ],
+ "prepare": [
+  {
+   "title": "Pele",
+   "text": "Lave os braços e as pernas. Não passe creme nem óleo no dia do exame."
+  },
+  {
+   "title": "Calor",
+   "text": "Mãos e pés frios alteram o resultado. Vá com roupa quente e meias."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa larga, fácil de descobrir os braços e as pernas. Tire anéis e pulseiras."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda os seus remédios. Se tiver dúvida, fale com o médico, e ele decide."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos anteriores de eletroneuromiografia e ressonância, se tiver"
+ ],
+ "steps": [
+  "Você deita ou senta e descobre o braço ou a perna que vai ser examinado",
+  "Colam sensores na pele",
+  "O médico aplica impulsos elétricos curtos e fracos no nervo",
+  "O computador registra a velocidade com que o sinal passa",
+  "Às vezes colocam uma agulha fina no músculo e pedem para você contrair e relaxar",
+  "Os sensores são retirados"
+ ],
+ "feel": [
+  "Os impulsos são como estalos ou choquinhos leves, desconfortáveis, mas dá para aguentar",
+  "O músculo pode se mexer sozinho, isso é normal",
+  "A agulha é como uma picada rápida"
+ ],
+ "after": [
+  "Você pode voltar às suas atividades logo em seguida",
+  "Depois da agulha, o músculo pode ficar um pouco dolorido por 1 ou 2 dias",
+  "O laudo sai na hora ou em 1 a 2 dias"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "A eletroneuromiografia dói?",
+   "a": "Os impulsos incomodam, como um estalo de choque, mas são rápidos. A maioria das pessoas aguenta bem."
+  },
+  {
+   "q": "A corrente da eletroneuromiografia é perigosa?",
+   "a": "Não. A corrente é muito fraca e curta, e só serve para testar o nervo."
+  }
+ ],
+ "reminders": []
+}

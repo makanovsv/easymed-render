@@ -1,0 +1,68 @@
+{
+ "title": "Uroflowmetry",
+ "also": [
+  "uroflowmetry",
+  "urine flow test",
+  "uroflow"
+ ],
+ "what": "You pass urine into a special toilet or funnel, and a device measures how fast and how much urine comes out.",
+ "why": "For a weak stream, frequent urges, or a feeling that your bladder is not fully empty. Often for prostate problems.",
+ "duration": "usually 15 to 30 minutes, including waiting",
+ "tell_doctor": [
+  "Which medicines you take for your prostate or bladder. You do not need to stop them yourself",
+  "If you have a catheter or recently had urinary tract surgery",
+  "If you have pain or burning when you pass urine now"
+ ],
+ "prepare": [
+  {
+   "title": "Full bladder",
+   "text": "Come with a strong urge to go. Usually you drink half a liter to 1 liter of water 1 to 2 hours before the test."
+  },
+  {
+   "title": "Do not go",
+   "text": "Do not use the toilet before the test. If it is very hard to hold, tell the staff."
+  },
+  {
+   "title": "Extra time",
+   "text": "Come a little early. If the urge is still weak, you can wait at the clinic and drink some water."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A bottle of water",
+  "Your bladder diary, if your doctor asked you to keep one"
+ ],
+ "steps": [
+  "When you have a strong urge, you are taken to a private room",
+  "You are left alone",
+  "You pass urine into the special toilet or funnel, the way you usually do",
+  "The device records the speed and volume by itself",
+  "Often, an ultrasound then checks how much urine is left in your bladder"
+ ],
+ "feel": [
+  "Nothing unpleasant. It is a normal trip to the toilet",
+  "It may feel awkward, but you will be alone"
+ ],
+ "after": [
+  "You can go back to your usual day right away",
+  "The result is usually ready right away. The urologist explains it",
+  "Sometimes the test is repeated if there was too little urine"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "How much water should I drink before uroflowmetry?",
+   "a": "Usually half a liter to 1 liter over 1 to 2 hours. The main thing is to come with a strong urge and not use the toilet before the test."
+  },
+  {
+   "q": "Why is the test sometimes repeated?",
+   "a": "If there was too little urine or you were nervous, the result may be inaccurate. Then it is repeated."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Uroflowmetry soon. Drink half a liter to 1 liter of water and do not use the toilet before the test."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "title": "Biopsia de piel",
+ "also": [
+  "biopsia de piel",
+  "biopsia con sacabocado",
+  "análisis de un pedacito de piel"
+ ],
+ "what": "Con anestesia local, el médico toma un pedacito de piel o toda la lesión y la manda a analizar al microscopio.",
+ "why": "Cuando solo con verla no se puede saber con seguridad qué es una mancha, un lunar o una erupción.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes alergia a anestésicos, al yodo o a la cinta adhesiva",
+  "Si tienes marcapasos",
+  "Si te quedan cicatrices gruesas fácilmente",
+  "Si tienes diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No necesitas nada especial. Normalmente puedes comer como siempre."
+  },
+  {
+   "title": "Piel",
+   "text": "Ese día no te pongas crema ni maquillaje en esa zona."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes por tu cuenta los medicamentos que hacen la sangre más líquida. Díselo al médico y él decide."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus resultados anteriores del dermatólogo",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico revisa la zona y limpia la piel",
+  "Te pone una inyección para el dolor y la piel se duerme",
+  "Con un instrumento pequeño toma un pedacito de piel",
+  "Cierra la herida con un punto, una cinta o la cauteriza",
+  "El pedacito se pone en un frasco y se manda al laboratorio"
+ ],
+ "feel": [
+  "La inyección para el dolor arde unos segundos",
+  "Después solo presión; no debe doler",
+  "Cuando se pasa la anestesia, la herida duele un poco"
+ ],
+ "after": [
+  "Normalmente el vendaje se mantiene seco 1 o 2 días",
+  "Cuida la herida como te dijo el médico",
+  "Los puntos normalmente se quitan a los 7 a 14 días, según el lugar",
+  "El resultado suele estar en 1 a 3 semanas"
+ ],
+ "red_flags": [
+  "La sangre no se detiene aunque presiones la herida 15 a 20 minutos",
+  "Enrojecimiento, hinchazón y dolor que aumentan, pus o fiebre"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligroso hacerle biopsia a un lunar?",
+   "a": "No. La biopsia no hace más peligroso el lunar. Sirve para saber con seguridad qué es."
+  },
+  {
+   "q": "¿Me quedará cicatriz?",
+   "a": "Normalmente pequeña, y se aclara con el tiempo. Pregúntale antes al médico dónde quedará y cómo será."
+  }
+ ],
+ "reminders": []
+}

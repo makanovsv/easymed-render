@@ -1,0 +1,78 @@
+{
+ "title": "Sputum test",
+ "also": [
+  "sputum test",
+  "sputum sample",
+  "sputum culture"
+ ],
+ "what": "You cough up mucus from your lungs into a sterile container. The lab looks at it under a microscope and, if needed, grows a culture.",
+ "why": "For a long cough with mucus, for bronchitis or pneumonia, if tuberculosis is suspected, and to choose treatment.",
+ "duration": "collecting takes 5 to 10 minutes",
+ "tell_doctor": [
+  "If you already take antibiotics. This affects the result",
+  "If there was blood in your mucus",
+  "If you cannot cough up mucus"
+ ],
+ "prepare": [
+  {
+   "title": "Time",
+   "text": "Sputum is usually collected in the morning, right after you wake up. The most builds up overnight."
+  },
+  {
+   "title": "Mouth",
+   "text": "Do not eat before collecting. Brush your teeth and rinse your mouth with boiled water, so extra germs do not get into the container."
+  },
+  {
+   "title": "Container",
+   "text": "Get a sterile container from a pharmacy or your clinic. Do not open it early or touch the inside."
+  },
+  {
+   "title": "Several samples",
+   "text": "Sometimes you are asked to collect sputum 2 or 3 days in a row. Check with your clinic."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "The labeled container with sputum, if you collected it at home"
+ ],
+ "steps": [
+  "Take 2 or 3 deep breaths",
+  "As you breathe out, cough hard from deep in your chest",
+  "Spit the mucus into the container without touching the edges with your lips",
+  "Close the lid tightly",
+  "Take it to the lab within 1 to 2 hours"
+ ],
+ "feel": [
+  "Nothing unpleasant except coughing",
+  "If mucus will not come up, warm drinks the evening before and deep breaths help"
+ ],
+ "after": [
+  "Saliva will not work for the test. It must be mucus from the lungs",
+  "Microscope results usually take 1 to 2 days, a culture takes several days",
+  "Talk about the result with your doctor"
+ ],
+ "red_flags": [
+  "Coughing up a lot of blood: call emergency services",
+  "Severe shortness of breath or chest pain: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "How is sputum different from saliva?",
+   "a": "Sputum is thick and comes from the lungs with a deep cough. Saliva is thin and clear. A saliva sample is useless."
+  },
+  {
+   "q": "What if I cannot cough up mucus?",
+   "a": "Drink more warm water the day before, and take a few deep breaths in the morning. If it still does not work, tell your doctor. There are other ways."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Sputum collection tomorrow morning. Get a sterile container ready, and drink more warm water this evening."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "Before collecting sputum: do not eat, brush your teeth, and rinse your mouth with boiled water."
+  }
+ ]
+}

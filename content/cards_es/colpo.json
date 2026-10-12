@@ -1,0 +1,74 @@
+{
+ "title": "Colposcopia",
+ "also": [
+  "colposcopia",
+  "revisión del cuello del útero",
+  "revisión del cuello uterino"
+ ],
+ "what": "El ginecólogo revisa el cuello del útero con un aparato especial con lupa. El aparato no entra al cuerpo.",
+ "why": "Si salieron cambios en el Papanicolaou, si tienes virus del papiloma humano, o si el médico vio una zona que hay que revisar mejor.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "La fecha en que empezó tu última regla",
+  "Si estás embarazada o podrías estarlo",
+  "Si tienes alergia al yodo",
+  "Si tomas medicamentos que hacen la sangre más líquida"
+ ],
+ "prepare": [
+  {
+   "title": "Día del ciclo",
+   "text": "No durante la regla. Normalmente es mejor en los primeros días después de que termina. Pregúntale al médico."
+  },
+  {
+   "title": "1 o 2 días antes",
+   "text": "Sin relaciones sexuales, duchas vaginales, tampones, óvulos ni cremas vaginales."
+  },
+  {
+   "title": "Comida",
+   "text": "Puedes comer como siempre."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus resultados del último Papanicolaou y de la prueba del virus del papiloma",
+  "Una toalla diaria"
+ ],
+ "steps": [
+  "Te sientas en la silla ginecológica",
+  "El médico pone el espejo, como en una revisión normal",
+  "El aparato con lupa y luz queda afuera, junto a la silla",
+  "Ponen en el cuello del útero una solución suave de vinagre y luego una de yodo",
+  "Si hace falta, toman un pedacito de tejido para analizar"
+ ],
+ "feel": [
+  "Con el espejo sientes presión, como en una revisión normal",
+  "Las soluciones pueden arder un poco",
+  "Si toman un pedacito de tejido, un pellizco breve o un cólico"
+ ],
+ "after": [
+  "Por unos días puede salir un flujo oscuro. Es por las soluciones",
+  "Si tomaron tejido, puede haber un manchado leve por unos días",
+  "Si tomaron tejido, normalmente unos días sin relaciones, tampones ni tina. El médico te dice cuánto tiempo",
+  "El resultado del tejido suele estar en 1 o 2 semanas"
+ ],
+ "red_flags": [
+  "Sangrado fuerte, más que una regla normal",
+  "Fiebre alta, dolor fuerte en la parte baja del abdomen o flujo con mal olor"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele la colposcopia?",
+   "a": "Normalmente no. Se siente como una revisión ginecológica normal. Si toman un pedacito de tejido, hay un pellizco breve y molesto."
+  },
+  {
+   "q": "¿Se puede hacer la colposcopia en el embarazo?",
+   "a": "Sí, es segura. Dile al médico que estás embarazada. Normalmente solo se toma tejido si hay una razón seria."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "En 2 días es tu colposcopia. Desde hoy, sin relaciones sexuales, duchas vaginales, tampones ni óvulos."
+  }
+ ]
+}

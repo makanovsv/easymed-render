@@ -1,0 +1,62 @@
+{
+ "title": "Tipo sanguíneo e fator Rh",
+ "also": [
+  "exame de tipo sanguíneo",
+  "fator Rh",
+  "tipagem sanguínea"
+ ],
+ "what": "O exame mostra o seu tipo sanguíneo e o fator Rh: positivo ou negativo. O sangue é colhido da veia ou do dedo.",
+ "why": "Antes de cirurgia, na gravidez e no planejamento dela, antes de transfusão de sangue, para o prontuário e documentos.",
+ "duration": "a coleta leva de 1 a 3 minutos",
+ "tell_doctor": [
+  "Se você já recebeu transfusão de sangue, principalmente há pouco tempo",
+  "Se você está grávida",
+  "Se já fez esse exame antes, diga o resultado"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de preparo especial. Se for fazer outros exames junto, venha em jejum, como a clínica orientar."
+  },
+  {
+   "title": "Água",
+   "text": "Beba um copo de água pura. Assim fica mais fácil colher o sangue."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Pedem para você se sentar e dizer o seu nome, para identificar o tubo sem erro",
+  "A enfermeira colhe o sangue da veia ou do dedo",
+  "Colocam um algodão no local da picada",
+  "No laboratório, misturam o sangue com reagentes especiais e veem o resultado"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes, depois da picada na veia, fica um pequeno roxo"
+ ],
+ "after": [
+  "Aperte o algodão por alguns minutos",
+  "Pode voltar às atividades normais logo depois",
+  "O resultado sai normalmente no mesmo dia ou no dia seguinte",
+  "O tipo sanguíneo não muda a vida toda. Guarde o resultado"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O tipo sanguíneo pode mudar?",
+   "a": "Não. O tipo e o Rh vêm de nascença e não mudam. A exceção são casos raros depois de transplante de medula óssea."
+  },
+  {
+   "q": "Por que a grávida precisa saber o Rh?",
+   "a": "Se a mãe é Rh negativo e o bebê é Rh positivo, é preciso um acompanhamento especial. O médico diz quais exames fazer depois."
+  },
+  {
+   "q": "Por que conferem o tipo de novo antes da cirurgia?",
+   "a": "É a regra, por segurança. Antes de uma transfusão, o sangue é sempre conferido de novo, mesmo que o tipo já seja conhecido."
+  }
+ ],
+ "reminders": []
+}

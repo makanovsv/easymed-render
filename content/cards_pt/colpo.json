@@ -1,0 +1,73 @@
+{
+ "title": "Colposcopia",
+ "also": [
+  "colposcopia ampliada",
+  "exame do colo do útero"
+ ],
+ "what": "O ginecologista examina o colo do útero com um aparelho especial de aumento. O aparelho não entra no corpo.",
+ "why": "Quando o exame preventivo mostra alterações, quando há HPV, ou quando o médico viu uma área que precisa ser olhada de perto.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "A data de início da última menstruação",
+  "Se você está grávida ou pode estar",
+  "Alergia a iodo",
+  "Remédios que afinam o sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Dia do ciclo",
+   "text": "Não durante a menstruação. Normalmente é melhor nos primeiros dias depois que ela termina. Confirme com o médico."
+  },
+  {
+   "title": "1 a 2 dias antes",
+   "text": "Sem relações sexuais, duchas íntimas, absorventes internos, óvulos e cremes vaginais."
+  },
+  {
+   "title": "Comida",
+   "text": "Pode comer normalmente."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados do último preventivo e do exame de HPV",
+  "Um protetor diário"
+ ],
+ "steps": [
+  "Você senta na cadeira ginecológica",
+  "O médico coloca o espéculo, como num exame comum",
+  "O aparelho com lente e luz fica do lado de fora, perto da cadeira",
+  "Passam no colo do útero uma solução fraca de vinagre e depois uma solução de iodo",
+  "Se for preciso, tiram um pedacinho de tecido para análise"
+ ],
+ "feel": [
+  "Com o espéculo, uma sensação de pressão, como num exame comum",
+  "As soluções podem arder um pouco",
+  "Se tirarem um pedacinho de tecido, uma beliscada rápida ou cólica"
+ ],
+ "after": [
+  "Por alguns dias pode sair uma secreção escura, é por causa das soluções",
+  "Depois da retirada de tecido, um pequeno sangramento leve por alguns dias",
+  "Se tiraram tecido, normalmente alguns dias sem relações, absorvente interno e banho de banheira. O prazo, o médico vai dizer",
+  "O resultado da análise do tecido sai normalmente em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Sangramento forte, maior que uma menstruação normal",
+  "Febre alta, dor forte no pé da barriga, secreção com cheiro ruim"
+ ],
+ "faq": [
+  {
+   "q": "A colposcopia dói?",
+   "a": "Normalmente não. A sensação é como num exame ginecológico comum. Se tirarem um pedacinho de tecido, é uma beliscada rápida e desconfortável."
+  },
+  {
+   "q": "Pode fazer colposcopia na gravidez?",
+   "a": "Sim, é seguro. Avise o médico que você está grávida. A retirada de tecido normalmente só é feita se houver um motivo sério."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Daqui a 2 dias é a colposcopia. A partir de hoje, sem relações sexuais, duchas íntimas, absorventes internos e óvulos vaginais."
+  }
+ ]
+}

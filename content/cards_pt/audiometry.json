@@ -1,0 +1,70 @@
+{
+ "title": "Exame de audição (audiometria)",
+ "also": [
+  "audiograma",
+  "audiometria tonal",
+  "exame do ouvido"
+ ],
+ "what": "Com fones de ouvido, você escuta sons baixos de diferentes tons e faz um sinal quando ouve. Assim se monta o gráfico da sua audição.",
+ "why": "Em caso de perda de audição, zumbido ou chiado no ouvido, antes de escolher um aparelho auditivo, ou em exames de trabalho em local com barulho.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Se você teve resfriado, otite ou ouvido tapado há pouco tempo",
+  "Se você trabalha em local com barulho",
+  "Se tem cera acumulada no ouvido ou já fez cirurgia nos ouvidos"
+ ],
+ "prepare": [
+  {
+   "title": "Silêncio",
+   "text": "No dia anterior ao exame, evite música alta e barulho. A audição pode cair por um tempo."
+  },
+  {
+   "title": "Ouvidos",
+   "text": "Não limpe os ouvidos fundo com cotonete. Se houver cera acumulada, o médico tira antes."
+  },
+  {
+   "title": "Comida",
+   "text": "Não precisa de preparo especial."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Audiogramas anteriores, se tiver",
+  "Aparelho auditivo, se você usa"
+ ],
+ "steps": [
+  "O médico examina os ouvidos",
+  "Você se senta em uma cabine silenciosa e coloca os fones",
+  "Bipes baixos tocam ora em um ouvido, ora no outro",
+  "Ouviu: aperte o botão ou levante a mão",
+  "Às vezes colocam um pequeno vibrador atrás da orelha e repetem o teste",
+  "Às vezes pedem para repetir palavras"
+ ],
+ "feel": [
+  "Nada dói",
+  "Os sons mais baixos mal dão para ouvir. Responda mesmo sem ter certeza"
+ ],
+ "after": [
+  "O resultado é um gráfico da audição, normalmente entregue na hora",
+  "O que ele significa, o otorrino vai explicar"
+ ],
+ "red_flags": [
+  "A audição de um ouvido sumiu de repente, em horas ou em um dia: procure o médico no mesmo dia"
+ ],
+ "faq": [
+  {
+   "q": "Dá para fazer o exame de audição online?",
+   "a": "O teste online mostra só uma ideia aproximada. O resultado preciso vem da audiometria na cabine silenciosa."
+  },
+  {
+   "q": "Por que a perda súbita de audição é urgente?",
+   "a": "O tratamento funciona melhor quando começa nos primeiros dias. Não espere passar sozinho."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem exame de audição. Hoje, nada de música alta nem fones no volume máximo."
+  }
+ ]
+}

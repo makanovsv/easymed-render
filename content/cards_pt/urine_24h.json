@@ -1,0 +1,75 @@
+{
+ "title": "Urina de 24 horas",
+ "also": [
+  "coleta de urina de 24 horas",
+  "exame de urina de 24 horas",
+  "proteinúria de 24 horas"
+ ],
+ "what": "Você junta toda a urina de 24 horas num só recipiente. Assim o médico vê quanta proteína, sais e outras substâncias saem em um dia.",
+ "why": "Em doenças dos rins, proteína na urina, pedras nos rins, na gravidez e no diabetes.",
+ "duration": "a coleta dura exatamente 24 horas; o resultado normalmente sai em 1 a 3 dias",
+ "tell_doctor": [
+  "Quais remédios você toma, principalmente diuréticos",
+  "Se está menstruada: normalmente a coleta é adiada",
+  "Se está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Recipiente",
+   "text": "Pegue na clínica ou na farmácia um recipiente grande e limpo para urina de 24 horas, normalmente de 2 a 3 litros."
+  },
+  {
+   "title": "Rotina",
+   "text": "Beba como sempre, nem mais nem menos. Confirme com a clínica se precisa mudar a alimentação."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda os seus remédios. Se toma diurético, avise o médico, e ele decide."
+  },
+  {
+   "title": "Plano",
+   "text": "Escolha um dia em que vai ficar em casa. Perder mesmo uma vez estraga o exame."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Toda a urina coletada ou uma parte dela, como a clínica disser",
+  "Um papel com o volume total de urina do dia, e altura e peso, se pedirem"
+ ],
+ "steps": [
+  "De manhã, a primeira urina vai para o vaso, e você anota o horário",
+  "Depois, toda a urina do dia vai para o recipiente",
+  "Mantenha o recipiente fechado em lugar fresco, normalmente na geladeira",
+  "A última urina é coletada na manhã seguinte, no mesmo horário",
+  "Meça o volume total e anote",
+  "Entregue toda a urina ou uma parte misturada, como a clínica disse"
+ ],
+ "feel": [
+  "Nada. É só coletar urina"
+ ],
+ "after": [
+  "Você pode voltar à rotina normal logo em seguida",
+  "O resultado, o seu médico vai explicar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "A primeira urina da manhã entra na coleta?",
+   "a": "No primeiro dia, não: ela vai para o vaso, e você anota o horário. Já a primeira urina da manhã seguinte entra na coleta."
+  },
+  {
+   "q": "O que fazer se esqueci uma vez?",
+   "a": "É melhor começar a coleta de novo em outro dia. Senão, o resultado vai sair errado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã de manhã você começa a coleta de urina de 24 horas. Separe um recipiente limpo e abra espaço na geladeira."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "A coleta de urina de 24 horas está terminando. Não esqueça de coletar a última urina da manhã e anotar o volume total."
+  }
+ ]
+}

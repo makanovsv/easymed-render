@@ -1,0 +1,81 @@
+{
+ "title": "Electroencefalograma (EEG)",
+ "also": [
+  "EEG",
+  "electroencefalograma",
+  "estudio del cerebro",
+  "EEG de sueño"
+ ],
+ "what": "Registra la actividad eléctrica del cerebro con sensores en la cabeza. Los sensores no dan corriente, solo escuchan.",
+ "why": "Si tienes convulsiones, desmayos, episodios de conducta extraña, o para revisar el tratamiento de la epilepsia.",
+ "duration": "normalmente de 20 a 40 minutos; si es durante el sueño, más tiempo",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los de las convulsiones y los calmantes. No los dejes por tu cuenta",
+  "Cómo son tus crisis y cuándo fue la última",
+  "Si las luces que parpadean te hacen sentir mal"
+ ],
+ "prepare": [
+  {
+   "title": "Cabello",
+   "text": "Lávate el cabello la noche anterior o en la mañana. Sin acondicionador, aceite, spray ni gel: los sensores deben quedar bien pegados."
+  },
+  {
+   "title": "Peinado",
+   "text": "Quítate trenzas, pasadores y extensiones. Mejor no uses aretes ni adornos de metal en la cabeza."
+  },
+  {
+   "title": "Comida",
+   "text": "Come como siempre: el hambre puede alterar el registro. Ese día mejor no tomes café cargado ni bebidas energéticas."
+  },
+  {
+   "title": "Sueño",
+   "text": "Si te pidieron un EEG dormido o después de una noche sin dormir, la clínica te dice cuánto dormir la noche anterior."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus EEG y resultados anteriores",
+  "La lista de tus medicamentos",
+  "Una toalla o gorro: el gel deja el cabello húmedo",
+  "Para un niño, su juguete favorito"
+ ],
+ "steps": [
+  "Te sientas en un sillón o te acuestas",
+  "Te ponen una gorra suave con sensores o te pegan los sensores con gel",
+  "Te piden cerrar los ojos y estar tranquilo",
+  "Te piden abrir y cerrar los ojos varias veces",
+  "Unos 3 minutos tienes que respirar hondo y rápido",
+  "Frente a tus ojos parpadeará una luz brillante"
+ ],
+ "feel": [
+  "La gorra aprieta un poco y el gel está frío",
+  "Al respirar rápido te puedes marear o sentir hormigueo en los dedos. Se quita",
+  "No te dan corriente. No duele"
+ ],
+ "after": [
+  "Te lavan el gel y puedes volver a tus cosas de inmediato",
+  "Normalmente te dan el resultado el mismo día o en unos días",
+  "El resultado te lo explica el neurólogo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿El EEG es peligroso para el cerebro?",
+   "a": "No. Los sensores solo registran las señales del cerebro; no mandan nada a la cabeza. Se hace incluso a bebés."
+  },
+  {
+   "q": "¿Tengo que dejar los medicamentos para las convulsiones antes del EEG?",
+   "a": "Por tu cuenta, no. Dejarlos de golpe es peligroso. Díselo al médico y él decide."
+  },
+  {
+   "q": "¿Me puedo lavar el cabello antes del EEG?",
+   "a": "Tienes que hacerlo. Con el cabello limpio y sin acondicionador ni spray, el registro sale preciso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu EEG. Lávate el cabello sin acondicionador ni aceites, y no te hagas un peinado complicado."
+  }
+ ]
+}

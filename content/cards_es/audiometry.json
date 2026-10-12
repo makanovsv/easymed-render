@@ -1,0 +1,71 @@
+{
+ "title": "Prueba de audición (audiometría)",
+ "also": [
+  "audiometría",
+  "audiograma",
+  "examen del oído",
+  "revisar la audición"
+ ],
+ "what": "Con audífonos escuchas sonidos bajitos de distintos tonos y haces una señal cuando los oyes. Así se hace una gráfica de tu audición.",
+ "why": "Si oyes menos, tienes zumbido en los oídos, antes de elegir un aparato auditivo, o en revisiones del trabajo si trabajas con ruido.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Si hace poco tuviste gripa, otitis o el oído tapado",
+  "Si trabajas con ruido",
+  "Si tienes un tapón de cerilla o te operaron los oídos"
+ ],
+ "prepare": [
+  {
+   "title": "Silencio",
+   "text": "Un día antes evita la música fuerte y el ruido. La audición puede bajar por un rato."
+  },
+  {
+   "title": "Oídos",
+   "text": "No te metas cotonetes hasta adentro. Si hay tapón de cerilla, el médico lo quita primero."
+  },
+  {
+   "title": "Comida",
+   "text": "No necesitas preparación especial."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus audiometrías anteriores, si las tienes",
+  "Tu aparato auditivo, si usas uno"
+ ],
+ "steps": [
+  "El médico revisa tus oídos",
+  "Te sientas en una cabina silenciosa y te pones audífonos",
+  "Suenan pitidos bajitos, a veces en un oído y a veces en el otro",
+  "Cuando oyes uno, aprietas un botón o levantas la mano",
+  "A veces ponen un vibrador pequeño detrás de la oreja y repiten la prueba",
+  "A veces te piden repetir palabras"
+ ],
+ "feel": [
+  "No duele nada",
+  "Los sonidos más bajitos casi no se oyen. Responde aunque no estés seguro"
+ ],
+ "after": [
+  "El resultado es una gráfica de tu audición; normalmente te la dan en ese momento",
+  "Qué significa te lo explica el otorrino"
+ ],
+ "red_flags": [
+  "Si de pronto dejaste de oír de un oído en horas o en un día: ve al médico ese mismo día"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo revisar mi audición en internet?",
+   "a": "Una prueba en internet da solo una idea. El resultado preciso lo da la audiometría en una cabina silenciosa."
+  },
+  {
+   "q": "¿Por qué perder la audición de repente es urgente?",
+   "a": "El tratamiento ayuda más si empieza en los primeros días. No esperes a que se quite solo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu prueba de audición. Hoy no escuches música fuerte ni uses audífonos a todo volumen."
+  }
+ ]
+}

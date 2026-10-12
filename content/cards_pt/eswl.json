@@ -1,0 +1,85 @@
+{
+ "title": "Litotripsia para pedra nos rins",
+ "also": [
+  "litotripsia extracorpórea",
+  "LECO",
+  "quebrar pedra no rim",
+  "litotripsia por ondas de choque"
+ ],
+ "what": "A pedra no rim ou no ureter é quebrada com ondas de choque de fora, através da pele. Não há cortes. Os pedacinhos depois saem com a urina.",
+ "why": "Para pedras pequenas que não saem sozinhas ou que causam dor.",
+ "duration": "o procedimento leva normalmente de 30 a 60 minutos, e muitas vezes você vai para casa no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico vai dizer o que suspender e quando",
+  "Gravidez, porque nesse caso o procedimento não é feito",
+  "Marca-passo",
+  "Alergias",
+  "Se agora você está com febre ou a dor aumentou"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue e de urina, ultrassom ou tomografia. A lista quem dá é a clínica. A infecção urinária normalmente é tratada antes."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente, nada de comida algumas horas antes, principalmente se a anestesia for pela veia ou geral. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Intestino",
+   "text": "Às vezes recomendam, na véspera, um jantar leve, sem alimentos que dão gases. Confirme com a clínica."
+  },
+  {
+   "title": "Transporte",
+   "text": "Combine com alguém para levar você para casa."
+  }
+ ],
+ "bring": [
+  "Pedido médico e as imagens da pedra",
+  "Resultados dos exames",
+  "Lista de remédios",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Você troca de roupa, e muitas vezes colocam um cateter na veia",
+  "Dão remédio para dor ou uma sedação leve",
+  "Você deita na mesa, e o local da pedra é achado com raio-X ou ultrassom",
+  "Encostam na pele uma almofada macia do aparelho",
+  "O aparelho manda os impactos, e dá para ouvir estalos",
+  "Depois do procedimento, você descansa sob observação"
+ ],
+ "feel": [
+  "Os impactos parecem estalos ou batidinhas na pele",
+  "Pode incomodar, e o remédio para dor ajuda",
+  "Depois, pode ficar uma mancha roxa ou dor no local dos impactos"
+ ],
+ "after": [
+  "Beba mais água, se o médico não disser o contrário",
+  "Por alguns dias, a urina pode ficar rosada",
+  "Os pedacinhos saem com a urina em dias ou semanas, e pode doer como uma cólica",
+  "Às vezes pedem para coar a urina numa peneira, para levar as pedras para análise",
+  "Depois de algumas semanas, fazem um ultrassom ou raio-X de controle"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, calafrios",
+  "Dor forte que não passa com remédio para dor",
+  "A urina não sai",
+  "Sangue vivo com coágulos na urina"
+ ],
+ "faq": [
+  {
+   "q": "A litotripsia por ondas de choque dói?",
+   "a": "Normalmente dá para aguentar: dão remédio para dor ou uma sedação leve. Depois pode doer quando os pedacinhos saem."
+  },
+  {
+   "q": "Toda pedra pode ser quebrada por fora?",
+   "a": "Não. Pedras grandes e muito duras às vezes são retiradas de outro jeito. Quem decide é o urologista, pelas imagens."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a litotripsia. Combine com alguém para levar você para casa. Comida só até o horário que a clínica disse."
+  }
+ ]
+}

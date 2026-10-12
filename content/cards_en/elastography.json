@@ -1,0 +1,70 @@
+{
+ "title": "Liver elastography (FibroScan)",
+ "also": [
+  "FibroScan",
+  "liver stiffness test",
+  "liver elastography",
+  "transient elastography"
+ ],
+ "what": "A machine uses ultrasound to measure how stiff your liver is. No needles and no radiation.",
+ "why": "To find out if the liver has stiffened, which is called fibrosis: with hepatitis, fatty liver, frequent drinking, or changes in blood tests.",
+ "duration": "usually 10 to 15 minutes",
+ "tell_doctor": [
+  "If you have a pacemaker or another implanted device",
+  "If you are pregnant",
+  "If you recently had a hepatitis flare or drank a lot of alcohol. This can make the result too high",
+  "Your past elastography results"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no food for 3 hours. After eating, the liver gets stiffer for a while. Check the exact time with your clinic."
+  },
+  {
+   "title": "Water",
+   "text": "A little plain water is usually fine."
+  },
+  {
+   "title": "Clothes",
+   "text": "Comfortable clothes, so you can easily uncover your right side."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past ultrasound, elastography, and liver test results",
+  "A tissue to wipe off the gel"
+ ],
+ "steps": [
+  "You lie on your back",
+  "You put your right arm behind your head. This widens the gaps between your ribs",
+  "A little gel is put on your right side",
+  "The probe is placed between your ribs",
+  "The machine takes about 10 measurements. Lie still"
+ ],
+ "feel": [
+  "Each measurement feels like a light push or tap",
+  "It does not hurt"
+ ],
+ "after": [
+  "The gel is wiped off, and you can eat right away",
+  "The result is usually given right away, as numbers",
+  "Your doctor will explain what the numbers mean"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is FibroScan the same as a liver ultrasound?",
+   "a": "No. An ultrasound shows what the liver looks like. Elastography measures how stiff it is. They are often done together."
+  },
+  {
+   "q": "Why do I need an empty stomach for FibroScan?",
+   "a": "After eating, the liver gets stiffer for a while, and the result may be too high. So it is usually 3 hours without food."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Liver elastography in 3 hours. Do not eat from now on. A little water is fine."
+  }
+ ]
+}

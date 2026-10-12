@@ -1,0 +1,88 @@
+{
+ "title": "Cirugía de tiroides (tiroidectomía)",
+ "also": [
+  "tiroidectomía",
+  "hemitiroidectomía",
+  "operación de tiroides"
+ ],
+ "what": "El cirujano quita toda la glándula tiroides o la mitad, por un corte pequeño en la parte baja del cuello. Se hace con anestesia general.",
+ "why": "Si hay nódulos con sospecha de cáncer o cáncer, un bocio grande que aprieta el cuello, o algunas formas de tiroides acelerada.",
+ "duration": "la cirugía suele durar de 1 a 3 horas; en el hospital, normalmente de 1 a 3 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dice cuáles dejar y cuándo",
+  "Si tienes alergias",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si tu voz es importante para tu trabajo: cantante, maestro, locutor",
+  "Si antes te operaron el cuello",
+  "Si tú o tus familiares tuvieron problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre y de hormonas, ultrasonido del cuello y electrocardiograma. Muchas veces el otorrino revisa las cuerdas vocales antes de la cirugía."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía hablará contigo el anestesiólogo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda de cuello ancho, cargador y los medicamentos que tomas siempre."
+  }
+ ],
+ "bring": [
+  "La orden médica y tus resultados de análisis y ultrasonido",
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital para 1 a 3 días"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "En el quirófano, el anestesiólogo te pone la anestesia y te duermes",
+  "El cirujano hace un corte pequeño en la parte baja del cuello, normalmente en un pliegue natural",
+  "Quita la glándula o una parte, cuidando los nervios de la voz",
+  "Cierra el corte y a veces deja un tubito delgado para drenar",
+  "Despiertas en la sala de recuperación"
+ ],
+ "feel": [
+  "Después de la anestesia, sueño y a veces náuseas",
+  "Dolor de garganta al tragar, por el tubo para respirar; se quita en unos días",
+  "El cuello duele y jala un poco; te dan analgésico",
+  "La voz puede estar ronca o cansarse rápido; normalmente es temporal"
+ ],
+ "after": [
+  "Normalmente revisan el nivel de calcio en la sangre",
+  "Si quitaron toda la glándula, tomarás hormona todos los días, toda la vida. El endocrinólogo ajusta la dosis",
+  "El resultado del tejido suele estar en 1 o 2 semanas",
+  "Los puntos se quitan o se absorben solos; te dice el cirujano"
+ ],
+ "red_flags": [
+  "El cuello se hincha rápido, o te cuesta respirar o tragar: llama a emergencias de inmediato",
+  "Hormigueo alrededor de los labios y en los dedos, o calambres en las manos: ve al médico urgente, puede ser calcio bajo",
+  "Fiebre de más de 38 grados, enrojecimiento o pus en la herida"
+ ],
+ "faq": [
+  {
+   "q": "¿Tendré que tomar hormona toda la vida después de la cirugía?",
+   "a": "Si quitaron toda la glándula, sí, todos los días. Si quitaron la mitad, no siempre: muchas veces la parte que queda funciona sola."
+  },
+  {
+   "q": "¿Cambiará mi voz después de la cirugía?",
+   "a": "Casi siempre la voz se conserva. Puede haber ronquera temporal; normalmente se quita en unas semanas."
+  },
+  {
+   "q": "¿Se notará la cicatriz?",
+   "a": "El corte se hace en un pliegue del cuello. Con el tiempo, la cicatriz normalmente queda delgada y clara."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Junta tus cosas, tu identificación y la lista de medicamentos. Come y toma agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "title": "Histeroscopia",
+ "also": [
+  "exame do interior do útero",
+  "histeroscopia de consultório",
+  "histeroscopia com biópsia"
+ ],
+ "what": "O médico examina o útero por dentro com um tubo fino com câmera. Ele entra pelo colo do útero, sem cortes. Dá para tirar uma amostra ou retirar um pólipo na hora.",
+ "why": "Em caso de sangramento entre as menstruações, menstruação muito forte, pólipos, infertilidade, tentativas de fertilização in vitro sem sucesso, ou sangramento depois da menopausa.",
+ "duration": "o exame leva normalmente de 10 a 30 minutos, com tratamento demora mais; normalmente você vai para casa no mesmo dia",
+ "tell_doctor": [
+  "Se pode estar grávida",
+  "Remédios que afinam o sangue",
+  "Alergia a remédios",
+  "Se agora há corrimento, coceira ou dor: pode ser infecção",
+  "Doenças do coração, diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Quando",
+   "text": "Normalmente é feita na primeira metade do ciclo, alguns dias depois do fim da menstruação. O dia, o médico vai marcar."
+  },
+  {
+   "title": "Exames",
+   "text": "Normalmente são precisos preventivo e exames de sangue. A lista, a clínica vai passar."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Um exame rápido às vezes é feito sem anestesia, e o de tratamento com sedação na veia. Como vai ser no seu caso, o médico vai dizer."
+  },
+  {
+   "title": "Comida",
+   "text": "Se for com sedação, normalmente não se come nem se bebe 6 horas antes. O horário exato, a clínica vai dizer."
+  }
+ ],
+ "bring": [
+  "Pedido médico e exames",
+  "Absorventes",
+  "Um acompanhante, se for com sedação"
+ ],
+ "steps": [
+  "Você esvazia a bexiga e deita na cadeira ginecológica",
+  "Se for com sedação, o remédio vai para a veia, e você dorme",
+  "O médico coloca o espéculo e limpa o colo do útero",
+  "Pelo colo, entra um tubo fino com câmera, e um líquido abre o útero",
+  "O médico examina o útero e, se for preciso, tira uma amostra ou retira um pólipo"
+ ],
+ "feel": [
+  "Sem anestesia: dor em cólica, como na menstruação. Avise o médico",
+  "Com sedação: normalmente você não sente nem lembra de nada",
+  "Depois, algumas cólicas leves no pé da barriga"
+ ],
+ "after": [
+  "Sangramento leve por alguns dias é normal",
+  "Normalmente, por até 2 semanas, sem relação sexual, absorvente interno, banheira, piscina e sauna. O prazo, o médico vai dizer",
+  "Depois da sedação, não pode dirigir até o fim do dia",
+  "O resultado da análise normalmente sai em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Sangramento forte: o absorvente fica encharcado em 1 hora",
+  "Febre acima de 38 graus, dor forte na barriga",
+  "Corrimento com mau cheiro"
+ ],
+ "faq": [
+  {
+   "q": "A histeroscopia dói?",
+   "a": "Sem anestesia, incomoda, parece uma cólica menstrual forte, mas normalmente dá para aguentar. Se tiver medo, pergunte sobre a sedação."
+  },
+  {
+   "q": "Posso engravidar depois da histeroscopia?",
+   "a": "Sim. Muitas vezes a histeroscopia é feita justamente para ajudar a engravidar. Quando planejar, o médico vai dizer."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem histeroscopia. Leve os exames e absorventes. Se for com sedação, não coma nem beba a partir do horário que a clínica informou."
+  }
+ ]
+}

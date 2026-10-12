@@ -1,0 +1,84 @@
+{
+ "title": "Cirugía de amígdalas",
+ "also": [
+  "amigdalectomía",
+  "quitar las anginas",
+  "operación de amígdalas"
+ ],
+ "what": "El cirujano otorrino quita las amígdalas por la boca, sin cortes en la piel. Normalmente se hace con anestesia general.",
+ "why": "Si tienes anginas fuertes muy seguido, complicaciones de las anginas, o amígdalas grandes que no dejan respirar al dormir.",
+ "duration": "la cirugía suele durar de 30 a 60 minutos; en el hospital, normalmente de 1 a 3 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y los analgésicos. El médico te dice cuáles dejar y cuándo",
+  "Si tú o tus familiares sangran con facilidad",
+  "Si tienes alergias",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si tú o tus familiares tuvieron problemas con la anestesia",
+  "Si ahora tienes anginas o gripa: pueden posponer la cirugía"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, también de coagulación, y a veces electrocardiograma. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía hablará contigo el anestesiólogo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Casa",
+   "text": "Ten lista comida suave: purés, papillas, yogur, sopas frías."
+  }
+ ],
+ "bring": [
+  "La orden médica y tus resultados de análisis",
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital para 1 a 3 días"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "En el quirófano, el anestesiólogo te pone la anestesia y te duermes",
+  "El cirujano quita las amígdalas con la boca abierta",
+  "Detienen el sangrado",
+  "Despiertas en la sala de recuperación y luego te pasan a tu cuarto"
+ ],
+ "feel": [
+  "Después de la anestesia, sueño y a veces náuseas",
+  "Dolor de garganta, sobre todo al tragar; te dan analgésico",
+  "El dolor puede llegar a los oídos. Es normal",
+  "Normalmente duele más los primeros 5 a 7 días y luego baja"
+ ],
+ "after": [
+  "En la garganta se forma una capa blanca: es la cicatrización, no una infección",
+  "Normalmente de 10 a 14 días, comida suave, tibia o fría; nada caliente, picante ni duro",
+  "Toma mucha agua a traguitos",
+  "No cargues cosas pesadas ni vayas al vapor por unas 2 semanas",
+  "Toma solo los analgésicos que te indicó el médico"
+ ],
+ "red_flags": [
+  "Cualquier sangre por la boca o en la saliva: llama a emergencias de inmediato, aunque haya pasado una semana",
+  "No puedes tomar líquidos u orinas poco",
+  "Fiebre de más de 38.5 grados"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto tiempo duele la garganta después de quitar las amígdalas?",
+   "a": "Normalmente 1 o 2 semanas. Duele más los primeros días y entre el día 5 y 7, cuando se cae la capa blanca."
+  },
+  {
+   "q": "¿Se bajan las defensas sin amígdalas?",
+   "a": "Según los estudios, normalmente no. Otros ganglios y tejidos de la garganta hacen el trabajo de defensa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Junta tus cosas, tu identificación y la lista de medicamentos. Come y toma agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Análisis de flema (esputo)",
+ "also": [
+  "análisis de esputo",
+  "muestra de flema",
+  "cultivo de esputo"
+ ],
+ "what": "Sacas con tos la flema de los pulmones en un frasco estéril. En el laboratorio la revisan al microscopio y, si hace falta, hacen un cultivo.",
+ "why": "Si tienes tos con flema por mucho tiempo, inflamación de los bronquios o los pulmones, si se sospecha tuberculosis, o para elegir el tratamiento.",
+ "duration": "tomar la muestra lleva de 5 a 10 minutos",
+ "tell_doctor": [
+  "Si ya estás tomando antibióticos: cambian el resultado",
+  "Si has tenido sangre en la flema",
+  "Si no puedes sacar la flema"
+ ],
+ "prepare": [
+  {
+   "title": "Hora",
+   "text": "Normalmente la flema se junta en la mañana, apenas te despiertas: en la noche se acumula más."
+  },
+  {
+   "title": "Boca",
+   "text": "No comas antes. Lávate los dientes y enjuágate con agua hervida; así no entran microbios de más al frasco."
+  },
+  {
+   "title": "Frasco",
+   "text": "Consigue un frasco estéril en la farmacia o la clínica. No lo abras antes ni toques el interior."
+  },
+  {
+   "title": "Varias muestras",
+   "text": "A veces piden juntar flema 2 o 3 días seguidos. Pregunta en tu clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "El frasco con la flema, con tu nombre, si lo juntaste en casa"
+ ],
+ "steps": [
+  "Toma aire profundo 2 o 3 veces",
+  "Al sacar el aire, tose fuerte desde lo hondo del pecho",
+  "Escupe la flema en el frasco, sin tocar los bordes con los labios",
+  "Cierra bien la tapa",
+  "Llévalo al laboratorio en 1 o 2 horas"
+ ],
+ "feel": [
+  "Nada molesto, solo la tos",
+  "Si la flema no sale, ayuda tomar algo tibio la noche anterior y respirar profundo"
+ ],
+ "after": [
+  "La saliva no sirve para el análisis: tiene que ser flema de los pulmones",
+  "El resultado del microscopio suele estar en 1 o 2 días; el del cultivo, en unos días",
+  "Revisa el resultado con el médico"
+ ],
+ "red_flags": [
+  "Tos con mucha sangre: llama a emergencias",
+  "Mucha falta de aire o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué se diferencia la flema de la saliva?",
+   "a": "La flema es espesa y sale de los pulmones con una tos profunda. La saliva es líquida y transparente. Dar saliva no sirve."
+  },
+  {
+   "q": "¿Qué hago si no me sale la flema?",
+   "a": "Toma más agua tibia la noche anterior y en la mañana respira profundo varias veces. Si no funciona, díselo al médico: hay otras formas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana en la mañana juntas la flema. Ten listo un frasco estéril y en la noche toma más agua tibia."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "Antes de juntar la flema: no comas, lávate los dientes y enjuágate con agua hervida."
+  }
+ ]
+}

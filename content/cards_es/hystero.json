@@ -1,0 +1,80 @@
+{
+ "title": "Histeroscopia",
+ "also": [
+  "histeroscopia",
+  "revisión del útero por dentro",
+  "histeroscopia con biopsia"
+ ],
+ "what": "El médico revisa el útero por dentro con un tubo delgado con cámara. Entra por el cuello del útero, sin cortes. Se puede tomar una muestra o quitar un pólipo en ese momento.",
+ "why": "Si sangras entre reglas, tienes reglas muy abundantes, pólipos, infertilidad, intentos de fertilización in vitro que no funcionaron, o sangrado después de la menopausia.",
+ "duration": "la revisión suele durar de 10 a 30 minutos, más si hay tratamiento; normalmente te vas a casa el mismo día",
+ "tell_doctor": [
+  "Si podrías estar embarazada",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes alergia a medicamentos",
+  "Si ahora tienes flujo, comezón o dolor: puede haber infección",
+  "Enfermedades del corazón o diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Cuándo",
+   "text": "Normalmente se hace en la primera mitad del ciclo, unos días después de que termina la regla. El médico te dice el día."
+  },
+  {
+   "title": "Análisis",
+   "text": "Normalmente se piden un exudado y análisis de sangre. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Una revisión corta a veces se hace sin anestesia; la de tratamiento, con anestesia por la vena. El médico te dice cómo será la tuya."
+  },
+  {
+   "title": "Comida",
+   "text": "Si es con anestesia, normalmente no comes ni bebes 6 horas antes. La clínica te dice la hora exacta."
+  }
+ ],
+ "bring": [
+  "La orden médica y los análisis",
+  "Toallas sanitarias",
+  "Un acompañante, si es con anestesia"
+ ],
+ "steps": [
+  "Vacías la vejiga y te acuestas en la silla ginecológica",
+  "Si es con anestesia, ponen el medicamento en la vena y te duermes",
+  "El médico pone el espejo y limpia el cuello del útero",
+  "Por el cuello mete un tubo delgado con cámara y pone líquido para abrir el útero",
+  "El médico revisa el útero y, si hace falta, toma una muestra o quita un pólipo"
+ ],
+ "feel": [
+  "Sin anestesia, un dolor jalón como de regla; díselo al médico",
+  "Con anestesia, normalmente no sientes ni recuerdas nada",
+  "Después, cólicos leves en la parte baja del abdomen"
+ ],
+ "after": [
+  "Un manchado leve por unos días es normal",
+  "Normalmente hasta 2 semanas sin relaciones sexuales, tampones, tina, alberca ni vapor. El médico te dice cuánto tiempo",
+  "Después de la anestesia, no manejes el resto del día",
+  "El resultado de la muestra suele estar en 1 o 2 semanas"
+ ],
+ "red_flags": [
+  "Sangrado fuerte: llenas una toalla en una hora",
+  "Fiebre de más de 38 grados o dolor fuerte de abdomen",
+  "Flujo con mal olor"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele la histeroscopia?",
+   "a": "Sin anestesia es molesta, parecida a una regla fuerte, pero normalmente se aguanta. Si tienes miedo, pregunta por la anestesia."
+  },
+  {
+   "q": "¿Me puedo embarazar después de la histeroscopia?",
+   "a": "Sí. Muchas veces la histeroscopia se hace justo para ayudar a lograr el embarazo. El médico te dice cuándo intentarlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu histeroscopia. Lleva tus análisis y toallas sanitarias. Si es con anestesia, no comas ni bebas desde la hora que te dijo la clínica."
+  }
+ ]
+}

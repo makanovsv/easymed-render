@@ -1,0 +1,86 @@
+{
+ "title": "Marcadores tumorales",
+ "also": [
+  "marcadores tumorales",
+  "CA-125",
+  "antígeno carcinoembrionario",
+  "análisis de sangre para cáncer"
+ ],
+ "what": "Un análisis de sangre de unas sustancias especiales cuyo nivel puede cambiar con algunos tumores. La sangre se saca de la vena, como en un análisis normal.",
+ "why": "Lo más común es para seguir un tratamiento y notar a tiempo si la enfermedad regresa. A veces, como revisión extra si el médico sospecha algo. El análisis solo no diagnostica ni descarta el cáncer.",
+ "duration": "sacar la sangre toma unos minutos; el resultado suele estar en 1 a 5 días",
+ "tell_doctor": [
+  "Qué medicamentos y vitaminas tomas, sobre todo biotina: puede alterar el resultado",
+  "Si hace poco tuviste inflamación, gripa o una crisis de una enfermedad crónica",
+  "Mujeres: el día del ciclo y si están embarazadas",
+  "Hombres, antes del antígeno prostático: si hace poco te revisaron la próstata, te hicieron ultrasonido por el recto o biopsia"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente se hace en ayunas o 4 a 6 horas después de comer algo ligero. Puedes tomar agua. Pregunta en tu clínica."
+  },
+  {
+   "title": "Un día antes",
+   "text": "Sin alcohol ni comida grasosa. En la mañana, antes del análisis, mejor no fumes."
+  },
+  {
+   "title": "Antes del antígeno prostático",
+   "text": "Normalmente se recomienda 2 días sin andar en bicicleta, sin eyacular y sin esfuerzos pesados."
+  },
+  {
+   "title": "Mujeres",
+   "text": "El CA-125 normalmente no se hace durante la regla; mejor unos días después."
+  },
+  {
+   "title": "Análisis repetidos",
+   "text": "Si estás siguiendo un marcador con el tiempo, hazte el análisis siempre en el mismo laboratorio."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus resultados anteriores de los mismos marcadores, para comparar"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel y meten una aguja delgada en la vena",
+  "Llenan un tubo con sangre y sacan la aguja",
+  "Ponen un algodón en el piquete; presiónalo unos minutos"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces un pequeño moretón en el piquete"
+ ],
+ "after": [
+  "Puedes volver a tus cosas y comer de inmediato",
+  "El resultado suele estar en 1 a 5 días",
+  "Solo el médico interpreta el resultado, junto con la revisión y otros estudios",
+  "Un marcador un poco alto puede salir sin que haya tumor. No te asustes; háblalo con el médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Si sale alto un marcador tumoral, ¿es cáncer?",
+   "a": "No necesariamente. Los marcadores también suben con inflamación, enfermedades del hígado o de los riñones, o quistes. El médico decide si hacen falta más estudios."
+  },
+  {
+   "q": "¿Me puedo hacer marcadores tumorales como revisión, sin tener molestias?",
+   "a": "Para la mayoría de los marcadores, no: se equivocan seguido en personas sanas. Para revisión hay otros métodos; pregúntale al médico cuáles te tocan por tu edad."
+  },
+  {
+   "q": "¿Por qué es importante hacerlo en el mismo laboratorio?",
+   "a": "Cada laboratorio usa reactivos distintos y las cifras pueden variar. Solo se pueden comparar bien los resultados de un mismo lugar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "En 2 días es tu análisis de marcadores tumorales. Si es antígeno prostático: sin bicicleta, sin eyacular y sin esfuerzos pesados."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de marcadores tumorales. Normalmente es en ayunas: cena ligero y en la mañana solo agua."
+  }
+ ]
+}

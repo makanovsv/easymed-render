@@ -1,0 +1,72 @@
+{
+ "title": "Ferritina y hierro",
+ "also": [
+  "ferritina",
+  "hierro sérico",
+  "análisis de hierro",
+  "transferrina"
+ ],
+ "what": "Un análisis de sangre de la vena. Muestra cuánto hierro hay ahora en la sangre y cuánto hierro tiene guardado el cuerpo.",
+ "why": "Si tienes cansancio, palidez, se te cae el cabello, la hemoglobina baja, estás embarazada, o tomas tratamiento con hierro.",
+ "duration": "sacar la sangre toma unos minutos; el resultado suele estar en 1 o 2 días",
+ "tell_doctor": [
+  "Si tomas hierro o vitaminas con hierro. El médico te dice si hace falta una pausa",
+  "Si hace poco estuviste enfermo, con fiebre o inflamación: puede alterar la ferritina",
+  "Si hace poco te hicieron una transfusión o te pusieron hierro por suero",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente se hace en la mañana en ayunas: sin comer de 8 a 12 horas. Puedes tomar agua."
+  },
+  {
+   "title": "Hora",
+   "text": "Mejor ve antes de las 10 u 11 de la mañana: el hierro en la sangre cambia durante el día."
+  },
+  {
+   "title": "Un día antes",
+   "text": "Sin alcohol, comida grasosa ni ejercicio pesado."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes el hierro por tu cuenta. Díselo al médico y él decide si hace falta una pausa antes del análisis."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus resultados anteriores, para comparar"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y limpian la piel",
+  "Sacan sangre de la vena a un tubo",
+  "Presionan el piquete con un algodón o ponen una curita"
+ ],
+ "feel": [
+  "Un piquete breve, como de mosquito",
+  "Si te mareas, dilo y te acuestan"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos para que no salga moretón",
+  "Puedes comer y volver a tus cosas de inmediato",
+  "El médico te explica el resultado: con la ferritina sola no se hace un diagnóstico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Tengo que dejar el hierro antes del análisis?",
+   "a": "Por tu cuenta, no. A veces el médico pide una pausa de unos días para ver el nivel real. Pregúntale."
+  },
+  {
+   "q": "¿Por qué la ferritina sale alta si me falta hierro?",
+   "a": "La ferritina sube con cualquier inflamación o gripa. Por eso el médico la revisa junto con otros análisis."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana en la mañana es tu análisis de hierro. Después de cenar no comas; puedes tomar agua."
+  }
+ ]
+}

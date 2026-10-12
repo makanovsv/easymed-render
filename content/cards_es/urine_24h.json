@@ -1,0 +1,75 @@
+{
+ "title": "Orina de 24 horas",
+ "also": [
+  "orina de 24 horas",
+  "recolección de orina de 24 horas",
+  "proteínas en orina de 24 horas"
+ ],
+ "what": "Juntas toda la orina de 24 horas en un solo recipiente. Así el médico ve cuánta proteína, sales y otras sustancias salen en un día.",
+ "why": "En enfermedades de los riñones, proteína en la orina, piedras en los riñones, embarazo o diabetes.",
+ "duration": "la recolección dura exactamente 24 horas; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Qué medicamentos tomas, sobre todo diuréticos",
+  "Si tienes la regla: normalmente se pospone la recolección",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Recipiente",
+   "text": "Pide en la clínica o compra en la farmacia un recipiente grande y limpio para orina de 24 horas, normalmente de 2 a 3 litros."
+  },
+  {
+   "title": "Rutina",
+   "text": "Toma líquidos como siempre, ni más ni menos. Pregunta en tu clínica si hay que cambiar la comida."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos. Si tomas diuréticos, díselo al médico y él decide."
+  },
+  {
+   "title": "Plan",
+   "text": "Elige un día en que estés en casa. Si se te pasa aunque sea una vez, el análisis no sirve."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Toda la orina juntada o una parte, como te diga la clínica",
+  "Una nota con la cantidad total de orina del día, y tu estatura y peso si te lo piden"
+ ],
+ "steps": [
+  "En la mañana, la primera orina va al inodoro; anota la hora",
+  "Después, junta toda la orina del día en el recipiente",
+  "Mantén el recipiente cerrado en un lugar fresco, normalmente en el refrigerador",
+  "La última orina la juntas a la mañana siguiente, a la misma hora",
+  "Mide la cantidad total y anótala",
+  "Entrega toda la orina o una parte mezclada, como te dijo la clínica"
+ ],
+ "feel": [
+  "Nada; solo es juntar orina"
+ ],
+ "after": [
+  "Puedes volver a tu rutina de inmediato",
+  "El resultado te lo explica tu médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿La primera orina de la mañana se junta?",
+   "a": "No; el primer día se tira y se anota la hora. La primera orina de la mañana del día siguiente sí se junta."
+  },
+  {
+   "q": "¿Qué hago si se me pasó una vez?",
+   "a": "Mejor empieza de nuevo otro día. Si no, el resultado no será correcto."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana en la mañana empiezas a juntar la orina de 24 horas. Ten listo un recipiente limpio y haz espacio en el refrigerador."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "Ya casi termina la orina de 24 horas. No olvides juntar la última orina de la mañana y anotar la cantidad total."
+  }
+ ]
+}

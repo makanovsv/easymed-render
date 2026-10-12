@@ -1,0 +1,69 @@
+{
+ "title": "Ultrasonido de próstata (transrectal)",
+ "also": [
+  "ultrasonido transrectal",
+  "ultrasonido de próstata",
+  "eco de próstata"
+ ],
+ "what": "Una revisión de la próstata con ultrasonido. Lo más común es meter el sensor en el recto: así se ve mejor la próstata. A veces se revisa por el abdomen.",
+ "why": "Si orinas seguido o te cuesta orinar, tienes dolor entre las piernas, el antígeno prostático alto, infertilidad, o para vigilar la próstata.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Si tienes hemorroides, fisuras o te operaron el recto hace poco",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes alergia al látex: el sensor se cubre con una funda"
+ ],
+ "prepare": [
+  {
+   "title": "Intestino",
+   "text": "Normalmente la noche anterior, o en la mañana 1 o 2 horas antes, te pones un microenema. La clínica te dice cómo."
+  },
+  {
+   "title": "Vejiga",
+   "text": "Muchas veces piden llegar con la vejiga medio llena: tomar como un litro de agua una hora antes y no orinar. Pregunta en tu clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Puedes comer. Un día antes, mejor sin alimentos que inflan: col, frijoles ni refrescos."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu resultado de antígeno prostático, si te lo hiciste",
+  "Tus resultados anteriores de ultrasonido"
+ ],
+ "steps": [
+  "Te quitas la ropa de la cintura para abajo y te acuestas sobre el lado izquierdo, con las rodillas al pecho",
+  "Si también revisan por el abdomen, primero pasan el sensor con gel por el abdomen",
+  "El médico pone una funda al sensor delgado y le pone gel",
+  "Mete el sensor con cuidado unos centímetros en el recto",
+  "Quédate tranquilo y respira parejo",
+  "A veces te piden orinar y revisan cuánta orina quedó en la vejiga"
+ ],
+ "feel": [
+  "Presión y ganas de ir al baño. Es normal y se quita rápido",
+  "No debe doler; si te molesta, díselo al médico y será más suave"
+ ],
+ "after": [
+  "Puedes volver a tus cosas de inmediato",
+  "Normalmente te dan el resultado en ese momento",
+  "Revisa el resultado con el urólogo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Duele el ultrasonido transrectal?",
+   "a": "Normalmente no. El sensor es delgado y lleva bastante gel. Se siente presión, pero no dolor."
+  },
+  {
+   "q": "¿Por qué por el recto, si se puede por el abdomen?",
+   "a": "La próstata está justo detrás de la pared del intestino. Así el médico la ve más cerca y más clara que por el abdomen y la vejiga."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Mañana es tu ultrasonido de próstata. Revisa cuándo y cómo ponerte el microenema, según te indicó la clínica."
+  }
+ ]
+}

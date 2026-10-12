@@ -1,0 +1,65 @@
+{
+ "title": "Raio X da coluna",
+ "also": [
+  "radiografia da coluna",
+  "raio X da cervical",
+  "raio X da lombar",
+  "chapa da coluna"
+ ],
+ "what": "Uma imagem da coluna feita em aparelho de raio X. Mostra os ossos e as vértebras. A dose de radiação é pequena.",
+ "why": "Em caso de dor nas costas ou no pescoço depois de uma lesão, em desvios da coluna, ou para controle depois do tratamento.",
+ "duration": "normalmente de 5 a 15 minutos",
+ "tell_doctor": [
+  "Se está grávida ou não tem certeza",
+  "Se fez raio X com contraste há pouco tempo",
+  "Se tem dificuldade para ficar em pé ou deitado"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Para o pescoço e a parte do meio das costas, não precisa de preparo especial."
+  },
+  {
+   "title": "Lombar",
+   "text": "Às vezes, para o raio X da lombar, pedem para não comer na véspera o que dá gases e para esvaziar o intestino. Confirme com a clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Tire joias, correntes, cinto e sutiã com metal, porque o metal aparece na imagem."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Radiografias anteriores, para comparar"
+ ],
+ "steps": [
+  "Você tira a roupa da cintura para cima ou para baixo, conforme a parte da coluna",
+  "Fica em pé ou deita junto ao aparelho",
+  "O técnico coloca você na posição certa e sai da sala",
+  "Por alguns segundos, fique parado e prenda a respiração",
+  "Normalmente fazem duas imagens: de frente e de lado, às vezes inclinado"
+ ],
+ "feel": [
+  "Nada. A imagem em si não se sente",
+  "Com dor nas costas, pode ser difícil manter a posição. Avise o técnico"
+ ],
+ "after": [
+  "Você pode voltar às suas atividades logo em seguida",
+  "A imagem e o laudo normalmente saem no mesmo dia ou no dia seguinte"
+ ],
+ "red_flags": [
+  "Se depois de uma lesão os braços ou as pernas ficaram dormentes ou fracos: não se mexa sozinho, ligue para a emergência",
+  "Dor nas costas com problema para urinar ou dormência na virilha: vá ao médico na hora ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O raio X da coluna faz mal?",
+   "a": "A dose é pequena. O médico pede o exame quando o benefício é maior que o risco. Avise antes se estiver grávida."
+  },
+  {
+   "q": "O raio X mostra hérnia de disco?",
+   "a": "Não. O raio X mostra os ossos. A hérnia de disco aparece na ressonância."
+  }
+ ],
+ "reminders": []
+}

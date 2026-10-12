@@ -1,0 +1,87 @@
+{
+ "title": "Cirugía de hernia de disco",
+ "also": [
+  "cirugía de hernia de disco",
+  "microdiscectomía",
+  "operación de columna"
+ ],
+ "what": "El cirujano quita la parte del disco que aprieta el nervio. Normalmente por un corte pequeño en la espalda. Se hace con anestesia general.",
+ "why": "Cuando el dolor fuerte en la pierna o el brazo no se quita con tratamiento sin cirugía, si hay debilidad en la pierna, o de urgencia si ya no controlas la orina y el excremento.",
+ "duration": "la cirugía suele durar de 1 a 2 horas; en el hospital, normalmente de 1 a 3 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dice cuáles dejar y cuándo",
+  "Si tienes alergias",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si fumas",
+  "Si tú o tus familiares tuvieron problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Resonancia de la columna, análisis de sangre, electrocardiograma y a veces revisión del médico general. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía hablará contigo el anestesiólogo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dice la hora exacta."
+  },
+  {
+   "title": "Cigarro",
+   "text": "Mejor deja de fumar antes. Así sanan mejor la herida y el disco."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda, zapatos sin agujetas, cargador y los medicamentos que tomas siempre."
+  }
+ ],
+ "bring": [
+  "Tu resonancia: las imágenes y el reporte",
+  "La orden médica y los análisis",
+  "Una identificación y la lista de tus medicamentos",
+  "Tus cosas para el hospital para 1 a 3 días"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "En el quirófano, el anestesiólogo te pone la anestesia y te duermes",
+  "Te acuestan boca abajo",
+  "El cirujano hace un corte pequeño y, con microscopio, quita la parte del disco que aprieta el nervio",
+  "Cierran el corte y despiertas en la sala de recuperación"
+ ],
+ "feel": [
+  "Después de la anestesia, sueño y a veces náuseas",
+  "Dolor en la herida; te dan analgésico",
+  "El dolor de la pierna muchas veces baja de inmediato; lo dormido puede tardar semanas en quitarse"
+ ],
+ "after": [
+  "Normalmente te dejan levantarte y caminar el mismo día o al siguiente",
+  "Por unas semanas no cargues cosas pesadas, no te agaches de golpe y no estés sentado mucho tiempo",
+  "Cuándo puedes manejar y volver al trabajo te lo dice el cirujano",
+  "Terapia física, según te indique el médico",
+  "Los puntos se quitan o se absorben solos; te dice el cirujano"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 grados, enrojecimiento o algo que sale de la herida",
+  "Debilidad o adormecimiento nuevo en las piernas",
+  "No controlas la orina o el excremento, o se te duerme la zona entre las piernas: llama a emergencias de inmediato",
+  "Dolor de cabeza fuerte que empeora al ponerte de pie"
+ ],
+ "faq": [
+  {
+   "q": "¿Puede regresar la hernia después de la cirugía?",
+   "a": "A veces sí, en una parte pequeña de las personas. El riesgo baja si cuidas la espalda, no fumas y haces ejercicio."
+  },
+  {
+   "q": "¿Siempre hay que operar una hernia de disco?",
+   "a": "No. Lo más común es tratarla sin cirugía. La cirugía se propone cuando el tratamiento no ayuda o el nervio está muy afectado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Junta tus cosas, la resonancia, tu identificación y la lista de medicamentos. Come y toma agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

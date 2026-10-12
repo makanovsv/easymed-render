@@ -1,0 +1,68 @@
+{
+ "title": "Retiro del DIU",
+ "also": [
+  "quitar el DIU",
+  "sacar el dispositivo",
+  "retiro del dispositivo intrauterino"
+ ],
+ "what": "El ginecólogo saca el DIU del útero jalando los hilos. Normalmente es rápido y se hace en el consultorio.",
+ "why": "Cuando se venció el DIU, si quieres embarazarte, si tienes efectos secundarios o porque tú lo decides.",
+ "duration": "el procedimiento dura de 1 a 5 minutos",
+ "tell_doctor": [
+  "Si quieres embarazarte",
+  "La fecha de tu última regla",
+  "Si tuviste relaciones sin protección en los últimos 7 días",
+  "Si tienes dolor, flujo raro o fiebre"
+ ],
+ "prepare": [
+  {
+   "title": "Protección",
+   "text": "Si no quieres embarazarte y quieres otro DIU u otro método, háblalo antes con el médico. Normalmente se recomienda protegerte desde 7 días antes del retiro."
+  },
+  {
+   "title": "Momento",
+   "text": "Muchas veces se quita durante la regla, pero también otros días. Pregunta en tu clínica."
+  },
+  {
+   "title": "Antes de la cita",
+   "text": "Báñate y lleva una toalla sanitaria."
+  }
+ ],
+ "bring": [
+  "La orden médica, si la tienes",
+  "Una toalla sanitaria",
+  "Datos de tu DIU: cuándo te lo pusieron y de qué tipo, si lo sabes"
+ ],
+ "steps": [
+  "Te acuestas en la silla ginecológica",
+  "El médico pone el espejo, un instrumento que abre la vagina",
+  "Encuentra los hilos del DIU",
+  "Con un instrumento especial jala los hilos con cuidado y el DIU sale",
+  "El médico revisa que el DIU esté completo"
+ ],
+ "feel": [
+  "Un dolor jalón breve, como de regla",
+  "Normalmente se quita en unos minutos"
+ ],
+ "after": [
+  "Un poco de sangre 1 o 2 días es normal",
+  "Te puedes embarazar desde ese mismo ciclo",
+  "Si te ponen un DIU nuevo, muchas veces es en la misma cita",
+  "Si no se ven los hilos, el médico puede pedir un ultrasonido"
+ ],
+ "red_flags": [
+  "Sangrado fuerte: más de una toalla por hora",
+  "Fiebre de más de 38 grados o dolor fuerte en la parte baja del abdomen"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele que quiten el DIU?",
+   "a": "Normalmente es molesto pero rápido: unos segundos de dolor jalón."
+  },
+  {
+   "q": "¿Cuándo me puedo embarazar después de quitar el DIU?",
+   "a": "Normalmente de inmediato, desde el siguiente ciclo. Si no quieres embarazarte, piensa antes en cómo protegerte."
+  }
+ ],
+ "reminders": []
+}

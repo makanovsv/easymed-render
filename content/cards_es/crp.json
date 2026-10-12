@@ -1,0 +1,68 @@
+{
+ "title": "Proteína C reactiva (PCR)",
+ "also": [
+  "PCR",
+  "proteína C reactiva",
+  "análisis de inflamación",
+  "PCR ultrasensible"
+ ],
+ "what": "Un análisis de sangre de la vena. Muestra si hay inflamación en el cuerpo y qué tan fuerte es.",
+ "why": "Si tienes fiebre, se sospecha una infección, te duelen las articulaciones, o para revisar el tratamiento. La PCR ultrasensible a veces se pide para ver el riesgo de enfermedades del corazón.",
+ "duration": "sacar la sangre toma de 2 a 3 minutos; el resultado suele estar en 1 día",
+ "tell_doctor": [
+  "Si hace poco estuviste enfermo, tuviste un golpe o una cirugía",
+  "Qué medicamentos tomas, sobre todo hormonas y antiinflamatorios",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente se hace en la mañana en ayunas, o 3 a 4 horas después de comer algo ligero. Pregunta en tu clínica."
+  },
+  {
+   "title": "Un día antes",
+   "text": "Sin comida grasosa, alcohol ni ejercicio pesado."
+  },
+  {
+   "title": "Agua",
+   "text": "Puedes tomar agua natural."
+  }
+ ],
+ "bring": [
+  "La orden médica, si la tienes",
+  "Tus resultados anteriores de PCR, para comparar"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con alcohol",
+  "Con una aguja sacan sangre a un tubo",
+  "Presionan el piquete con un algodón"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "Si tienes miedo o te mareas, dilo y te acuestan"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Puedes comer de inmediato",
+  "El resultado te lo explica el médico: la cifra sola no es un diagnóstico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Qué significa tener la PCR alta?",
+   "a": "Que hay inflamación en el cuerpo. El médico busca la causa: puede ser una gripa, una infección u otra cosa."
+  },
+  {
+   "q": "¿En qué se diferencia la PCR de la velocidad de sedimentación?",
+   "a": "La PCR sube y baja más rápido. Por eso sirve mejor para seguir la inflamación."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de PCR. Cena ligero, sin comida grasosa ni alcohol."
+  }
+ ]
+}

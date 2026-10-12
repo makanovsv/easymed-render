@@ -1,0 +1,74 @@
+{
+ "title": "Espermograma",
+ "also": [
+  "exame de esperma",
+  "análise do sêmen"
+ ],
+ "what": "Exame do esperma no microscópio. Avaliam a quantidade de espermatozoides, como eles se movem e o formato.",
+ "why": "Quando o casal não consegue ter filhos, antes da fertilização in vitro, em doenças do sistema reprodutor masculino e depois de cirurgias.",
+ "duration": "a coleta leva normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Se nos últimos 2 a 3 meses você teve febre acima de 38 graus. Isso pode piorar o resultado",
+  "Que remédios, hormônios ou suplementos você toma",
+  "Se teve cirurgias ou lesões na virilha"
+ ],
+ "prepare": [
+  {
+   "title": "Abstinência",
+   "text": "Normalmente de 2 a 7 dias sem sexo e sem ejaculação. O prazo exato quem diz é a clínica."
+  },
+  {
+   "title": "Alguns dias antes",
+   "text": "Sem álcool, sauna e banho muito quente. É melhor não se superaquecer."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda remédios por conta própria. Conte ao médico o que você toma, ele decide."
+  },
+  {
+   "title": "Onde coletar",
+   "text": "O melhor é na clínica, numa sala reservada. Se for em casa, é preciso um frasco estéril do laboratório."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento",
+  "Resultados anteriores de espermograma"
+ ],
+ "steps": [
+  "Você recebe um frasco estéril e vai para uma sala reservada",
+  "Lave as mãos e os órgãos genitais com sabonete",
+  "O esperma é coletado por masturbação direto no frasco",
+  "É preciso coletar tudo, principalmente a primeira parte",
+  "O frasco é fechado e entregue ao funcionário"
+ ],
+ "feel": [
+  "Nada dolorido. Ficar sem graça é normal, e a equipe está acostumada"
+ ],
+ "after": [
+  "O resultado sai normalmente em 1 a 2 dias",
+  "Um exame pode sair pior por acaso. O médico muitas vezes pede para repetir em 2 a 4 semanas",
+  "Quem interpreta o resultado é o urologista ou o andrologista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso coletar o esperma na camisinha?",
+   "a": "Na camisinha comum, não: ela tem substâncias que fazem mal aos espermatozoides. Lubrificante também não pode."
+  },
+  {
+   "q": "Posso fazer a coleta do espermograma em casa?",
+   "a": "Às vezes sim. O frasco precisa chegar ao laboratório em cerca de uma hora, mantido quente, junto ao corpo. Confirme com a clínica."
+  },
+  {
+   "q": "Quantos dias de abstinência antes do espermograma?",
+   "a": "Normalmente de 2 a 7 dias. Um prazo curto demais ou longo demais altera o resultado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Daqui a 3 dias você faz o espermograma. Sem sauna e sem álcool. Abstinência pelo prazo que a clínica informou."
+  }
+ ]
+}

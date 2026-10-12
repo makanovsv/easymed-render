@@ -1,0 +1,71 @@
+{
+ "title": "Coproparasitoscópico y coprológico (examen de excremento)",
+ "also": [
+  "examen de heces",
+  "coprológico",
+  "examen de excremento"
+ ],
+ "what": "Se revisa al microscopio un poco de excremento. Se ve cómo se digiere la comida y si hay inflamación.",
+ "why": "Si tienes dolor de estómago, inflamación, diarrea o estreñimiento, o se sospechan problemas de digestión.",
+ "duration": "juntar la muestra en casa toma unos minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Qué medicamentos tomas, sobre todo laxantes, hierro, enzimas o antibióticos",
+  "Si hace poco te hicieron un estudio con bario o una colonoscopia"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Compra en la farmacia un frasco estéril con cucharita, o pídelo en el laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Normalmente no se usan laxantes, supositorios ni enemas 2 o 3 días antes del análisis. Si los necesitas, díselo al médico y él decide."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente come como siempre. A veces el médico indica una dieta especial por unos días; síguela."
+  },
+  {
+   "title": "Mujeres",
+   "text": "Durante la regla, mejor pospón el análisis."
+  }
+ ],
+ "bring": [
+  "El frasco con la muestra",
+  "La orden médica"
+ ],
+ "steps": [
+  "Primero orina, para que la orina no se mezcle con el excremento",
+  "Haz del baño en un recipiente limpio y seco o sobre un plástico limpio, no del inodoro",
+  "Con la cucharita de la tapa toma un poco de distintas partes, como del tamaño de una nuez",
+  "Cierra bien el frasco y ponle tu nombre",
+  "Llévalo al laboratorio ese mismo día"
+ ],
+ "feel": [
+  "Nada; el análisis no duele"
+ ],
+ "after": [
+  "Si no puedes llevarlo de inmediato, normalmente el frasco se guarda unas horas en el refrigerador, no en el congelador. Pregunta el tiempo en el laboratorio",
+  "El resultado te lo explica el médico"
+ ],
+ "red_flags": [
+  "Excremento negro como chapopote o mucha sangre en el excremento: ve al médico de inmediato o llama a emergencias",
+  "Dolor fuerte de estómago con fiebre o vómito: ve al médico ese mismo día"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo juntar la muestra desde la noche anterior?",
+   "a": "Mejor la de la mañana. Si solo tienes la de la noche, guárdala en el refrigerador y llévala en la mañana. Pregunta el tiempo en el laboratorio."
+  },
+  {
+   "q": "¿Cuánto excremento se necesita?",
+   "a": "Poco: más o menos un tercio del frasco, del tamaño de una nuez."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana entregas la muestra de excremento. Ten listo un frasco estéril y un recipiente limpio y seco."
+  }
+ ]
+}

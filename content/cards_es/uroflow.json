@@ -1,0 +1,68 @@
+{
+ "title": "Uroflujometría",
+ "also": [
+  "uroflujometría",
+  "flujometría urinaria",
+  "medir el chorro de orina"
+ ],
+ "what": "Orinas en un inodoro especial o un embudo, y un aparato mide qué tan rápido y cuánta orina sale.",
+ "why": "Si el chorro es débil, tienes ganas de orinar seguido, o sientes que la vejiga no se vacía por completo. Muchas veces, por problemas de próstata.",
+ "duration": "normalmente de 15 a 30 minutos, contando la espera",
+ "tell_doctor": [
+  "Qué medicamentos tomas para la próstata o la vejiga. No hace falta dejarlos por tu cuenta",
+  "Si tienes sonda o hace poco te operaron las vías urinarias",
+  "Si ahora tienes dolor o ardor al orinar"
+ ],
+ "prepare": [
+  {
+   "title": "Vejiga llena",
+   "text": "Llega con muchas ganas de orinar. Normalmente se toma de medio litro a un litro de agua 1 o 2 horas antes."
+  },
+  {
+   "title": "No orines",
+   "text": "No vayas al baño antes del estudio. Si ya no aguantas, díselo al personal."
+  },
+  {
+   "title": "Tiempo de sobra",
+   "text": "Llega un poco antes. Si todavía no tienes muchas ganas, puedes esperar en la clínica y tomar agua."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una botella de agua",
+  "Tu diario de orina, si el médico te pidió llevarlo"
+ ],
+ "steps": [
+  "Cuando tengas muchas ganas, te llevan a un cuarto privado",
+  "Te quedas solo",
+  "Orinas en el inodoro especial o el embudo, como siempre",
+  "El aparato registra solo la velocidad y la cantidad",
+  "Muchas veces después revisan con ultrasonido cuánta orina quedó en la vejiga"
+ ],
+ "feel": [
+  "Nada molesto; es orinar normal",
+  "Puede dar pena, pero estarás solo"
+ ],
+ "after": [
+  "Puedes volver a tus cosas de inmediato",
+  "Normalmente el resultado sale en ese momento; te lo explica el urólogo",
+  "A veces se repite el estudio si salió poca orina"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Cuánta agua tomo antes de la uroflujometría?",
+   "a": "Normalmente de medio litro a un litro, 1 o 2 horas antes. Lo importante es llegar con muchas ganas y no ir al baño antes del estudio."
+  },
+  {
+   "q": "¿Por qué a veces se repite el estudio?",
+   "a": "Si salió poca orina o estabas nervioso, el resultado puede no ser preciso. Entonces se repite."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu uroflujometría. Toma de medio litro a un litro de agua y no vayas al baño antes del estudio."
+  }
+ ]
+}

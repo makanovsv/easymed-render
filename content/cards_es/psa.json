@@ -1,0 +1,78 @@
+{
+ "title": "Antígeno prostático específico (APE)",
+ "also": [
+  "antígeno prostático",
+  "APE",
+  "PSA",
+  "análisis de próstata"
+ ],
+ "what": "Es un análisis de sangre normal, de la vena. Muestra el nivel de una proteína que produce la próstata.",
+ "why": "Para revisar la próstata en hombres, normalmente después de los 45 o 50 años, si hay problemas para orinar, o para seguimiento después de un tratamiento.",
+ "duration": "sacar la sangre toma de 2 a 3 minutos; el resultado suele estar en 1 o 2 días",
+ "tell_doctor": [
+  "Si tomas medicamentos para la próstata crecida: pueden bajar el resultado",
+  "Si hace poco te hicieron masaje de próstata, tacto rectal, biopsia o te pusieron sonda",
+  "Si ahora tienes inflamación o infección de las vías urinarias",
+  "Tus resultados anteriores de antígeno: es importante compararlos"
+ ],
+ "prepare": [
+  {
+   "title": "2 días antes",
+   "text": "Normalmente se recomienda 2 días sin eyacular, sin andar mucho en bicicleta y sin esfuerzos pesados. Eso puede subir el resultado."
+  },
+  {
+   "title": "Después de procedimientos",
+   "text": "Si te hicieron revisión de próstata, masaje o biopsia, normalmente el análisis se hace después. El médico te dice cuánto esperar."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayunar. Si te harás otros análisis al mismo tiempo, pregunta en tu clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Toma tus medicamentos como siempre. No los dejes por tu cuenta; díselo al médico y él decide."
+  }
+ ],
+ "bring": [
+  "La orden médica, si la tienes",
+  "Una identificación",
+  "Tus resultados anteriores de antígeno prostático"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga en el brazo",
+  "Limpian el lugar con alcohol",
+  "Con una aguja sacan sangre de la vena a un tubo",
+  "Presionan el piquete con un algodón"
+ ],
+ "feel": [
+  "Un piquete breve, como de mosquito",
+  "A veces después queda un pequeño moretón"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Puedes comer y hacer tus cosas de inmediato",
+  "Revisa el resultado con el médico: lo normal depende de la edad, y un solo resultado alto no es un diagnóstico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Si sale alto el antígeno, es cáncer?",
+   "a": "No necesariamente. Lo suben la inflamación, la próstata crecida, el sexo y la bicicleta un día antes. El médico decide si repetirlo o hacer más estudios."
+  },
+  {
+   "q": "¿Cómo me preparo para el análisis de antígeno prostático?",
+   "a": "Normalmente 2 días sin eyacular, sin bicicleta y sin esfuerzos pesados. Y no justo después de una revisión o masaje de próstata."
+  },
+  {
+   "q": "¿A partir de qué edad hay que hacerse el antígeno?",
+   "a": "Normalmente después de los 45 o 50 años; antes si un familiar cercano tuvo cáncer de próstata. Es mejor decidirlo con el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "En 2 días es tu análisis de antígeno prostático. Antes del análisis normalmente se recomienda no tener sexo, no andar en bicicleta ni hacer esfuerzos pesados."
+  }
+ ]
+}

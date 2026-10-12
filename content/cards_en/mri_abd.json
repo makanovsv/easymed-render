@@ -1,0 +1,96 @@
+{
+ "title": "Abdominal and pelvic MRI",
+ "also": [
+  "abdominal MRI",
+  "belly MRI",
+  "pelvic MRI",
+  "MRI of the abdomen"
+ ],
+ "what": "A machine with a strong magnet takes detailed pictures of the organs in your belly and pelvis. There is no X-ray radiation.",
+ "why": "To look more closely at changes in the liver, pancreas, kidneys, or pelvic organs, if an ultrasound or CT did not give a full answer.",
+ "duration": "usually 30 to 60 minutes, longer with contrast",
+ "tell_doctor": [
+  "A pacemaker, metal implants, metal fragments, clips, or an ear implant. This is important",
+  "If you are pregnant or might be pregnant",
+  "Kidney disease, if contrast is planned",
+  "Allergies, especially to contrast",
+  "If you are afraid of closed spaces",
+  "An IUD, or coil. Tell the staff in advance"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no food for 4 to 6 hours before. Your clinic will give you the exact time."
+  },
+  {
+   "title": "The day before",
+   "text": "A light dinner without fizzy drinks, beans, raw vegetables, or dark rye bread. This means less gas in the bowel."
+  },
+  {
+   "title": "Bladder",
+   "text": "For a pelvic scan, you are sometimes asked to come with a fairly full bladder. Check with your clinic."
+  },
+  {
+   "title": "Contrast",
+   "text": "If contrast is planned, you are often asked for a recent creatinine blood test. It shows how your kidneys work."
+  },
+  {
+   "title": "Metal",
+   "text": "Do not wear jewelry. Remove glitter makeup and anything metal on your clothes."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past ultrasound, CT, or MRI images and reports",
+  "Your creatinine test, if contrast is planned",
+  "Papers for your implant or pacemaker, if you have one"
+ ],
+ "steps": [
+  "You answer a form about metal and your health",
+  "You change and leave everything metal in a locker",
+  "If contrast is needed, an IV is put into a vein",
+  "Sometimes medicine is given so the bowel moves less",
+  "You lie on your back, and a flat coil is placed on your belly",
+  "The table slides into the scanner",
+  "You are often asked to breathe in and hold your breath for a few seconds",
+  "If contrast is needed, it is given in the middle of the scan"
+ ],
+ "feel": [
+  "The machine knocks loudly. You get earplugs or headphones",
+  "You need to lie still, which can be tiring",
+  "Contrast sometimes gives a cold feeling in your arm",
+  "You hold a call button. You can call the staff at any time"
+ ],
+ "after": [
+  "You can eat and drink right away, unless the doctor says otherwise",
+  "After contrast, drink more water that day",
+  "The report is usually ready in 1 to 3 days"
+ ],
+ "red_flags": [
+  "After contrast: a rash, a swollen face, or trouble breathing. Tell the staff right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why do I need to hold my breath during an abdominal MRI?",
+   "a": "Belly organs move when you breathe. When you hold your breath for a few seconds, the pictures come out sharp."
+  },
+  {
+   "q": "Can I have an MRI with an IUD?",
+   "a": "Usually yes. Most IUDs are safe with MRI. But be sure to tell the staff in advance."
+  },
+  {
+   "q": "Is MRI contrast dangerous?",
+   "a": "It is usually well tolerated. Your kidneys are checked before contrast, and you should mention any allergy in advance."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Abdominal MRI tomorrow. Have a light dinner, without fizzy drinks, beans, or raw vegetables."
+  },
+  {
+   "hoursBefore": 5,
+   "text": "From now on, you usually do not eat before the MRI. Check the time with your clinic. Do not wear jewelry."
+  }
+ ]
+}

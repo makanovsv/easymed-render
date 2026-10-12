@@ -1,0 +1,70 @@
+{
+ "title": "Elastografia hepática (FibroScan)",
+ "also": [
+  "FibroScan",
+  "elastografia do fígado",
+  "elastografia hepática",
+  "exame de fibrose do fígado"
+ ],
+ "what": "Com ultrassom, o aparelho mede o quanto o fígado está duro. Sem agulhas e sem radiação.",
+ "why": "Para saber se o fígado está endurecido, ou seja, se há fibrose: em caso de hepatite, gordura no fígado, consumo frequente de álcool ou alterações nos exames.",
+ "duration": "normalmente de 10 a 15 minutos",
+ "tell_doctor": [
+  "Se você tem marca-passo ou outro aparelho implantado",
+  "Se você está grávida",
+  "Se a hepatite piorou há pouco tempo ou se você bebeu muito álcool, porque isso pode aumentar o resultado",
+  "Resultados anteriores de elastografia"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente, 3 horas sem comer: depois de comer, o fígado fica mais duro por um tempo. Confirme o horário exato com a clínica."
+  },
+  {
+   "title": "Água",
+   "text": "Um pouco de água pura normalmente pode."
+  },
+  {
+   "title": "Roupa",
+   "text": "Use roupa confortável, que deixe o lado direito da barriga fácil de descobrir."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados anteriores de ultrassom, elastografia e exames do fígado",
+  "Um lenço para limpar o gel"
+ ],
+ "steps": [
+  "Você deita de barriga para cima",
+  "Coloca o braço direito atrás da cabeça, assim o espaço entre as costelas fica maior",
+  "Passam um pouco de gel no lado direito",
+  "O aparelho é colocado entre as costelas",
+  "O aparelho faz umas 10 medidas. Fique deitado com calma"
+ ],
+ "feel": [
+  "Cada medida é um toque leve, como uma batidinha",
+  "Não dói"
+ ],
+ "after": [
+  "O gel é limpo, e você já pode comer",
+  "O resultado normalmente sai na hora, em números",
+  "O que os números significam, o seu médico vai explicar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O FibroScan é a mesma coisa que o ultrassom do fígado?",
+   "a": "Não. O ultrassom mostra como o fígado parece. A elastografia mede o quanto ele está duro. Muitas vezes os dois são feitos juntos."
+  },
+  {
+   "q": "Por que preciso ir em jejum para o FibroScan?",
+   "a": "Depois de comer, o fígado fica mais duro por um tempo, e o resultado pode sair maior. Por isso normalmente são 3 horas sem comer."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Daqui a 3 horas é a elastografia do fígado. A partir de agora, não coma. Um pouco de água pode."
+  }
+ ]
+}

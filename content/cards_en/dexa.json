@@ -1,0 +1,68 @@
+{
+ "title": "Bone density scan (DEXA)",
+ "also": [
+  "DEXA scan",
+  "bone density test",
+  "osteoporosis test",
+  "DXA scan"
+ ],
+ "what": "A special X-ray that measures how dense your bones are. The radiation dose is very small.",
+ "why": "To check for osteoporosis: for women after menopause, after a fracture from a minor injury, or after taking steroid hormones for a long time.",
+ "duration": "usually 10 to 20 minutes",
+ "tell_doctor": [
+  "If you are pregnant or might be pregnant",
+  "If in the past week you had a test with contrast dye or radioactive tracers",
+  "If you had spine surgery or have metal implants",
+  "Which bone medicines you take"
+ ],
+ "prepare": [
+  {
+   "title": "Calcium",
+   "text": "You are usually asked not to take calcium supplements for 24 hours before the scan. Check with your clinic."
+  },
+  {
+   "title": "Food",
+   "text": "You can eat as usual."
+  },
+  {
+   "title": "Clothes",
+   "text": "No metal: no zippers, buttons, buckles, or underwire bras. Leave jewelry at home."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past bone density results, to compare"
+ ],
+ "steps": [
+  "You remove items with metal and lie on your back on the table",
+  "Your legs rest on a support to straighten your lower back",
+  "The arm of the machine slowly passes over you",
+  "Usually the lower back and hip are checked, sometimes the forearm",
+  "You need to lie still for a few minutes"
+ ],
+ "feel": [
+  "Nothing. You only need to stay still"
+ ],
+ "after": [
+  "You can go back to your day right away",
+  "The report is usually given the same day",
+  "Your doctor will explain what the numbers mean"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is a bone density scan dangerous?",
+   "a": "The radiation dose is very small. It is less than a regular chest X-ray."
+  },
+  {
+   "q": "How often should I have a bone density scan?",
+   "a": "Usually no more than once every 1 to 2 years. Your doctor sets the timing."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Bone density scan tomorrow. Usually no calcium supplements today. Check with your clinic. Wear clothes with no metal."
+  }
+ ]
+}

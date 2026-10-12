@@ -6,8 +6,9 @@ N=$1; T=$2
 SKIP="blood_vein cbc colono colono_prep ct_abd echo ecg fgds fna_thyroid fobt gallbladder holter iv_drip mammo mole ogtt stress_ecg tooth_out us_liver us_preg1 us_thyroid"
 mkdir -p dist
 i=0
-for id in $(ls ../../content/cards | sed 's/.json$//' | sort); do
-  [[ " $SKIP " == *" $id "* ]] && continue
+LIST=$(cat batch.txt 2>/dev/null || ls ../../content/cards | sed 's/.json$//')
+for id in $(echo $LIST | tr ' ' '\n' | sort); do
+  [[ ! -f batch.txt && " $SKIP " == *" $id "* ]] && continue
   for lang in ru en kk es pt ar zh ja ko; do
     if (( i % T == N )); then
       echo "::group::$id $lang"
