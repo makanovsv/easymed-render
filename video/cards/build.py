@@ -45,6 +45,8 @@ OVERRIDE = {"us_thyroid": ["g_us_neck"], "fna_thyroid": ["g_us_neck"], "holter":
             "birth": ["g_ward", "g_ctg"], "csection": ["g_or", "g_ward"], "sedation": ["g_endo"], "colono_sed": ["g_endo", "g_home"],
             "us_breast": ["g_us_abd"], "us_pelvis": ["g_us_abd"], "us_preg2": ["g_us_abd"], "us_kidney": ["g_us_abd"],
             "us_abdomen": ["g_us_abd"], "xr_teeth": ["g_dent_xray"], "anest_local": ["g_proc"]}
+OVERRIDE.update({'urine': ['g_urine'], 'urine_24h': ['g_urine'], 'urine_culture': ['g_urine'], 'blood_finger': ['g_finger'], 'glucose': ['g_finger', 'g_lab_draw'], 'ogtt': ['g_glucose', 'g_lab_draw'], 'stool': ['g_stool'], 'fobt': ['g_stool'], 'echo': ['g_echo', 'g_ecg'], 'us_preg1': ['g_preg_us'], 'us_preg2': ['g_preg_us'], 'us_neuro_baby': ['g_baby_us'], 'us_hip_baby': ['g_baby_us'], 'us_breast': ['g_breast_us'], 'biopsy_breast': ['g_breast_us'], 'us_veins': ['g_leg_us'], 'us_arteries': ['g_leg_us'], 'xr_bone': ['g_xr_arm'], 'mri_joint': ['g_mri_knee'], 'ct_head': ['g_ct_head'], 'dexa': ['g_dexa'], 'inj_im': ['g_inj'], 'vacc_flu': ['g_inj'], 'joint_inj': ['g_inj'], 'dressing': ['g_dressing'], 'sutures_out': ['g_dressing'], 'wound_care': ['g_dressing'], 'dermatoscopy': ['g_dermato'], 'wart': ['g_cryo'], 'papilloma': ['g_cryo'], 'dent_check': ['g_dent_clean'], 'sealant': ['g_dent_clean'], 'whitening': ['g_dent_clean'], 'braces': ['g_braces'], 'iop': ['g_eye_iop'], 'oct': ['g_eye_iop'], 'physio': ['g_physio'], 'shockwave': ['g_physio'], 'therapist': ['g_checkup'], 'checkup': ['g_checkup'], 'medcert': ['g_checkup']})  # отдельные картинки частых услуг (Gemini 12.10)
+
 
 
 def dur(p):
@@ -85,7 +87,7 @@ def tts_one(text, voice, mp3, sub):
     if key.exists() and key.stat().st_size > 1000:
         shutil.copy(key, mp3)
         return
-    for k in range(80):
+    for k in range(int(__import__("os").environ.get("TTS_TRIES", "80"))):
         r = subprocess.run([str(TTS), "--voice", voice, "--rate=-5%", "--text", text,
                             "--write-media", str(key)], capture_output=True, text=True)
         if r.returncode == 0 and key.exists() and key.stat().st_size > 1000:
@@ -130,7 +132,7 @@ def sent(xs, end="."):
 
 def chapters(c, s, lang):
     """Главы ролика: (подпись на экране, текст озвучки, картинка, вставка)."""
-    imgs = OVERRIDE.get(c["id"]) or SCENE.get(c["scene"], ["b_questionnaire"])
+    imgs = [x for x in OVERRIDE.get(c["id"], []) if (IMG / f"{x}.png").exists()] or SCENE.get(c["scene"], ["b_questionnaire"])
     main, alt = imgs[0], imgs[-1]
     stop = "。" if lang in ("zh", "ja") else "."
     ch = [(None, f"{c['title']}{stop} {c['what']} {c['why']}", main, None)]

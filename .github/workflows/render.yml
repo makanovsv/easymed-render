@@ -23,6 +23,7 @@ jobs:
           cp /usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf video/hf_draw/assets/fonts/ArialBold.ttf
           pip install -q edge-tts
           echo "EDGE_TTS=$(which edge-tts)" >> $GITHUB_ENV
+          echo "TTS_TRIES=5" >> $GITHUB_ENV
       - name: render
         run: bash video/cards/shard.sh ${{ matrix.shard }} 40
       - uses: actions/upload-artifact@v4
