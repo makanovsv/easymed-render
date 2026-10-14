@@ -1,0 +1,79 @@
+{
+ "title": "Electroencefalograma en niños",
+ "also": [
+  "electroencefalograma infantil",
+  "EEG pediátrico",
+  "EEG en niños",
+  "EEG de sueño en niños"
+ ],
+ "what": "La enfermera le pone al niño un gorro con sensores y registra la actividad del cerebro. Es seguro: los sensores no mandan nada, solo escuchan.",
+ "why": "Con convulsiones, desmayos, episodios raros, retraso del desarrollo o problemas de sueño, cuando lo pide el neurólogo.",
+ "duration": "normalmente de 30 a 60 minutos; el EEG de sueño dura más; el reporte suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Cómo son los episodios que te preocupan",
+  "Qué medicamentos toma el niño",
+  "Videos de los episodios en el teléfono, si los tienes",
+  "Pregunta antes si el registro tiene que ser dormido"
+ ],
+ "prepare": [
+  {
+   "title": "Cabello",
+   "text": "Lávale el cabello la noche anterior, sin aceite ni productos para peinar. Deshaz las trenzas."
+  },
+  {
+   "title": "Sueño",
+   "text": "Si el registro es dormido, es mejor llevarlo cansado, antes de su siesta. Cómo hacerlo te lo dice la clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Dale de comer. Los niños con hambre están más inquietos."
+  },
+  {
+   "title": "Ánimo",
+   "text": "Dile al niño: le van a poner un gorro como de astronauta y no duele."
+  }
+ ],
+ "bring": [
+  "La orden médica y sus EEG anteriores",
+  "La lista de sus medicamentos",
+  "Videos de los episodios, si los tienes",
+  "Su juguete favorito, biberón y una sábana",
+  "Una toalla para secarle la cabeza después"
+ ],
+ "steps": [
+  "Sientan al niño en tus piernas o en la camilla",
+  "Le ponen el gorro con electrodos y gel debajo",
+  "Le piden estar quieto, abrir y cerrar los ojos",
+  "A los niños más grandes les piden respirar rápido o ver una luz que parpadea",
+  "A veces registran mientras el niño duerme",
+  "Quitan el gorro y limpian el gel"
+ ],
+ "feel": [
+  "No duele",
+  "Al niño puede no gustarle el gorro. Que tú estés tranquilo ayuda"
+ ],
+ "after": [
+  "En casa lávale el cabello",
+  "Puede seguir con su día normal",
+  "El reporte suele estar en 1 a 3 días. Platícalo con el neurólogo"
+ ],
+ "red_flags": [
+  "Convulsiones de más de 5 minutos, o el niño no vuelve en sí después de una crisis: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Le va a doler al niño?",
+   "a": "No. Los electrodos solo registran, no mandan nada a la cabeza."
+  },
+  {
+   "q": "¿Por qué piden llevarlo con sueño?",
+   "a": "Dormido, el EEG a veces muestra cosas que no se ven de día."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es el EEG de tu hijo. Lávale el cabello sin aceite ni productos para peinar. Lleva un juguete y una toalla."
+  }
+ ]
+}

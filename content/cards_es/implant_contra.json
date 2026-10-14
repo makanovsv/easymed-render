@@ -1,0 +1,78 @@
+{
+ "title": "Implante anticonceptivo",
+ "also": [
+  "implante subdérmico",
+  "implante en el brazo",
+  "implante anticonceptivo",
+  "varilla anticonceptiva",
+  "retiro del implante"
+ ],
+ "what": "El médico pone bajo la piel, en la parte interna del brazo, una varilla pequeña y flexible. Suelta una hormona y te protege del embarazo por varios años.",
+ "why": "Cuando quieres una protección segura por años, sin pastillas diarias.",
+ "duration": "ponerlo toma normalmente de 5 a 10 minutos; funciona normalmente 3 años, algunos tipos más tiempo, pregunta",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Trombos, enfermedades del hígado o cáncer de mama",
+  "Sangrados sin causa conocida",
+  "Qué medicamentos tomas. Algunos bajan el efecto del implante",
+  "Alergias a anestésicos"
+ ],
+ "prepare": [
+  {
+   "title": "Momento",
+   "text": "Normalmente se pone en los primeros días de la regla. Así protege de inmediato. Pregúntale al médico."
+  },
+  {
+   "title": "Brazo",
+   "text": "Normalmente se pone en el brazo que menos usas."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "La fecha de tu última regla"
+ ],
+ "steps": [
+  "Te acuestas, doblas el brazo y lo pones detrás de la cabeza",
+  "El médico busca el lugar en la parte interna del brazo y lo marca",
+  "Limpian la piel y la anestesian con una inyección",
+  "Con un aplicador especial meten la varilla bajo la piel; son unos segundos",
+  "El médico revisa con los dedos que la varilla esté en su lugar y te deja tocarla",
+  "Cubren la zona con una curita y un vendaje apretado"
+ ],
+ "feel": [
+  "La inyección de anestesia arde",
+  "Normalmente no sientes cuando la ponen, solo presión",
+  "Después la zona puede doler un poco y salir un moretón"
+ ],
+ "after": [
+  "El vendaje apretado normalmente se quita al día siguiente, y la curita en 3 a 5 días",
+  "La regla puede volverse irregular, más espaciada o desaparecer. Es un efecto común y normalmente no es peligroso",
+  "Apunta la fecha en que hay que cambiar el implante",
+  "Se puede quitar en cualquier momento, por un corte pequeño con anestesia"
+ ],
+ "red_flags": [
+  "Enrojecimiento, pus y dolor donde lo pusieron, o fiebre",
+  "No sientes la varilla bajo la piel: ve al médico y usa condón mientras tanto"
+ ],
+ "faq": [
+  {
+   "q": "¿Se nota el implante?",
+   "a": "Normalmente no, porque está bajo la piel. Se puede sentir con los dedos."
+  },
+  {
+   "q": "¿Qué pasa con la regla?",
+   "a": "En muchas mujeres cambia: más espaciada, irregular o desaparece. Si te molesta mucho, díselo al médico."
+  },
+  {
+   "q": "¿Qué tan rápido me puedo embarazar después de quitarlo?",
+   "a": "Normalmente rápido, desde el primer mes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen el implante. Recuerda la fecha de tu última regla y lleva la lista de medicamentos."
+  }
+ ]
+}

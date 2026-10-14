@@ -1,0 +1,59 @@
+{
+ "title": "Raio-X dos seios da face",
+ "also": [
+  "raio-X dos seios da face",
+  "radiografia dos seios paranasais",
+  "raio-X de sinusite"
+ ],
+ "what": "É uma radiografia comum do rosto. Mostra se há líquido ou inchaço nos seios da face.",
+ "why": "Com coriza que não passa, dor e pressão nas bochechas e na testa, ou suspeita de sinusite.",
+ "duration": "na sala, normalmente de 5 a 10 minutos. O laudo sai no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se já fez raio-X ou tomografia dos seios da face, e quando"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Acessórios",
+   "text": "Tire brincos, presilhas, óculos e dentadura removível."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Radiografias anteriores dos seios da face, se tiver"
+ ],
+ "steps": [
+  "Você fica em pé ou sentado, de frente para o aparelho",
+  "Apoia o queixo no suporte e inclina a cabeça um pouco para trás",
+  "Às vezes pedem para abrir a boca",
+  "É preciso ficar parado por uns dois segundos, e tiram a imagem"
+ ],
+ "feel": [
+  "Não dói. A imagem leva uma fração de segundo"
+ ],
+ "after": [
+  "Você já pode seguir o seu dia",
+  "A imagem e o laudo normalmente saem no mesmo dia. Leve ao otorrino"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O que é mais preciso: raio-X ou tomografia dos seios?",
+   "a": "A tomografia mostra os seios com mais detalhes. O raio-X é mais simples e rápido, e muitas vezes é feito primeiro. Quem escolhe é o médico."
+  },
+  {
+   "q": "Criança pode fazer raio-X dos seios?",
+   "a": "Sim, se o médico pediu. A dose de radiação é pequena."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o raio-X dos seios da face. Tire os brincos e as presilhas e leve o pedido médico."
+  }
+ ]
+}

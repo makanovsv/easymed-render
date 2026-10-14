@@ -1,0 +1,75 @@
+{
+ "title": "How to inject insulin",
+ "also": [
+  "insulin pen",
+  "how to inject insulin",
+  "insulin injections",
+  "using an insulin pen"
+ ],
+ "what": "You inject insulin under your skin yourself with an insulin pen. It is easy if you do it the same way every time.",
+ "why": "For diabetes, when your doctor has prescribed insulin.",
+ "duration": "the injection itself takes 1 to 2 minutes",
+ "tell_doctor": [
+  "If your blood sugar is often too low or too high",
+  "If lumps appear at injection sites",
+  "If you have trouble seeing the dose window on the pen"
+ ],
+ "prepare": [
+  {
+   "title": "Insulin",
+   "text": "Keep spare insulin in the fridge, not the freezer. The pen you are using now is usually kept at room temperature. Check the leaflet."
+  },
+  {
+   "title": "Needles",
+   "text": "A new needle for each injection. Put used needles in a sturdy jar with a lid."
+  },
+  {
+   "title": "Dose",
+   "text": "Your doctor sets the dose and timing. Do not change the plan on your own."
+  }
+ ],
+ "bring": [
+  "Your insulin pen and needles",
+  "Your glucose meter",
+  "Your blood sugar log"
+ ],
+ "steps": [
+  "Wash your hands and check the insulin name and expiry date",
+  "For cloudy insulin, gently roll the pen in your hands and tip it 10 to 20 times",
+  "Attach a new needle and dial 2 units into the air. A drop at the tip means the pen works",
+  "Dial your dose",
+  "Choose a spot: belly, thigh, upper arm, or buttock. Move a little away from the last spot each time",
+  "Insert the needle straight in and press the button all the way",
+  "Wait 10 seconds, then pull the needle out",
+  "Remove the needle and throw it in the jar"
+ ],
+ "feel": [
+  "A thin needle prick that you barely feel",
+  "Sometimes a drop of blood or a small bruise"
+ ],
+ "after": [
+  "Write down your dose and blood sugar in your log",
+  "Change injection spots, so lumps do not form",
+  "Always carry something sweet in case of low blood sugar"
+ ],
+ "red_flags": [
+  "Shaking, sweating, strong hunger, or confusion: eat something sweet and check your sugar",
+  "If someone is unconscious or having a seizure: call emergency services. Do not put anything in their mouth"
+ ],
+ "faq": [
+  {
+   "q": "Can I inject through clothing?",
+   "a": "No. Inject into clean skin. This lowers the risk of infection and dose mistakes."
+  },
+  {
+   "q": "What if I forgot an injection?",
+   "a": "Do not inject a double dose. Check your sugar and follow the plan your doctor gave you. If you have no plan, call your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Time for your insulin. New needle, 2 units into the air, your dose, then wait 10 seconds."
+  }
+ ]
+}

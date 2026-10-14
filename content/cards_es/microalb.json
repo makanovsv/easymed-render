@@ -1,0 +1,67 @@
+{
+ "title": "Microalbúmina en orina",
+ "also": [
+  "microalbuminuria",
+  "albúmina en orina",
+  "relación albúmina/creatinina",
+  "proteína en orina"
+ ],
+ "what": "Es un análisis de orina. Busca cantidades muy pequeñas de una proteína, la albúmina, que el examen normal no detecta.",
+ "why": "Con diabetes y presión alta, una vez al año, para notar a tiempo el daño en los riñones.",
+ "duration": "recoger la muestra toma 5 minutos; el resultado suele estar en 1 a 2 días",
+ "tell_doctor": [
+  "Si ahora tienes gripa, fiebre o infección urinaria",
+  "Si el día anterior hiciste ejercicio intenso",
+  "Si estás en tu regla",
+  "Qué medicamentos tomas para la presión y el azúcar"
+ ],
+ "prepare": [
+  {
+   "title": "El día anterior",
+   "text": "Sin ejercicio intenso ni alcohol. Mejor no comas mucha carne."
+  },
+  {
+   "title": "Cómo recoger",
+   "text": "Casi siempre se usa la primera orina de la mañana, a veces la orina de 24 horas. Pregunta en el laboratorio cuál necesitas."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas."
+  }
+ ],
+ "bring": [
+  "El frasco con la orina",
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "En la mañana, lávate los genitales con agua tibia sin jabón",
+  "Los primeros segundos orina en el inodoro",
+  "El chorro de en medio recógelo en un frasco estéril",
+  "Cierra la tapa y llévalo al laboratorio en 1 a 2 horas"
+ ],
+ "feel": [
+  "Nada molesto"
+ ],
+ "after": [
+  "El resultado suele estar en 1 a 2 días",
+  "Si el resultado sale alto, normalmente el médico pide repetir el análisis"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Si la albúmina salió alta, ¿tengo enfermos los riñones?",
+   "a": "No necesariamente. Puede subir un tiempo después del ejercicio o con fiebre. Por eso el análisis se repite."
+  },
+  {
+   "q": "¿Cada cuánto me lo hago si tengo diabetes?",
+   "a": "Normalmente una vez al año. Tu médico te dirá con más precisión."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de microalbúmina en orina. Hoy sin ejercicio intenso y sin alcohol."
+  }
+ ]
+}

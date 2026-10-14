@@ -1,0 +1,87 @@
+{
+ "title": "Biópsia de vilo corial",
+ "also": [
+  "biópsia de vilo corial",
+  "BVC",
+  "biópsia de vilosidades coriônicas",
+  "diagnóstico pré-natal precoce",
+  "biópsia de placenta"
+ ],
+ "what": "Guiado pelo ultrassom, o médico colhe um pedacinho minúsculo do tecido da futura placenta. Nele se analisam os cromossomos e os genes do bebê.",
+ "why": "Quando o primeiro rastreamento mostrou risco alto ou há doença hereditária na família. Normalmente entre 11 e 14 semanas.",
+ "duration": "o procedimento em si leva normalmente de 15 a 30 minutos; os primeiros resultados saem em alguns dias, e a análise completa em até 2 semanas",
+ "tell_doctor": [
+  "Seu tipo de sangue e fator Rh",
+  "Remédios que afinam o sangue",
+  "Infecções como hepatite e HIV",
+  "Sangramento nos últimos dias",
+  "Alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Decisão",
+   "text": "O geneticista explica antes para que serve o procedimento, quais os riscos e o que a análise mostra. Você assina um termo de consentimento."
+  },
+  {
+   "title": "Via",
+   "text": "Normalmente a agulha entra pela barriga. Às vezes é um tubo fino pelo colo do útero. O médico diz qual serve para você."
+  },
+  {
+   "title": "Bexiga",
+   "text": "Às vezes pedem para ir com a bexiga cheia, às vezes o contrário. Confirme com a clínica."
+  },
+  {
+   "title": "Descanso",
+   "text": "Reserve o dia depois do procedimento."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados do rastreamento e dos ultrassons",
+  "A caderneta da gestante",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Você deita de barriga para cima, e o médico faz o ultrassom",
+  "A pele da barriga é limpa com antisséptico e anestesiada",
+  "Guiada pelo ultrassom, a agulha fina vai até a futura placenta",
+  "Colhem um pedacinho de tecido em poucos segundos",
+  "A agulha é retirada, e conferem os batimentos do bebê"
+ ],
+ "feel": [
+  "Uma picada e pressão ou cólica na barriga",
+  "Depois, cólica parecida com a da menstruação por algumas horas",
+  "Às vezes um pequeno sangramento leve"
+ ],
+ "after": [
+  "Normalmente você descansa na clínica de 20 a 30 minutos",
+  "Por 1 a 2 dias, repouso, sem peso, sem exercício e sem relação sexual",
+  "Se o seu Rh for negativo, normalmente aplicam uma injeção de imunoglobulina anti-D",
+  "Os resultados, o geneticista explica"
+ ],
+ "red_flags": [
+  "Sangramento como de menstruação ou dor forte: ligue para a emergência",
+  "Perda de líquido pela vagina: procure o médico com urgência",
+  "Febre acima de 38 graus, calafrios: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Qual a diferença para a amniocentese?",
+   "a": "É feita antes, entre 11 e 14 semanas, e colhe tecido da placenta, não líquido. A resposta também sai antes."
+  },
+  {
+   "q": "Há risco para a gravidez?",
+   "a": "Há um pequeno risco de aborto. O médico explica esse risco no seu caso."
+  },
+  {
+   "q": "É obrigatório fazer?",
+   "a": "Não. A escolha é sua. O médico ajuda a pesar o benefício e o risco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a biópsia de vilo corial. Confirme se precisa ir com a bexiga cheia. Peça para alguém levar você para casa."
+  }
+ ]
+}

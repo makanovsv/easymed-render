@@ -1,0 +1,78 @@
+{
+ "title": "Sutura de ferida",
+ "also": [
+  "dar pontos",
+  "sutura",
+  "pontos no corte",
+  "limpeza cirúrgica de ferida"
+ ],
+ "what": "O médico limpa a ferida e fecha com pontos, grampos ou cola especial. Assim a ferida cicatriza mais rápido, e a cicatriz fica mais bonita.",
+ "why": "Com cortes fundos, feridas com bordas abertas, feridas no rosto, nas mãos e nas articulações.",
+ "duration": "normalmente de 15 a 40 minutos. Os pontos são retirados normalmente em 5 a 14 dias, dependendo do local",
+ "tell_doctor": [
+  "Como e quando você se machucou, e com o quê",
+  "Quando você tomou vacina contra tétano",
+  "Remédios que afinam o sangue",
+  "Diabetes",
+  "Alergia a anestésicos"
+ ],
+ "prepare": [
+  {
+   "title": "Sangue",
+   "text": "Aperte a ferida com um pano limpo e segure. Levante o braço ou a perna acima do coração."
+  },
+  {
+   "title": "Tempo",
+   "text": "Quanto antes, melhor. Normalmente se tenta dar os pontos nas primeiras horas."
+  },
+  {
+   "title": "Não faça",
+   "text": "Não jogue álcool na ferida e não coloque nada nela. Pode lavar com água limpa."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Dados da vacina contra tétano, se tiver"
+ ],
+ "steps": [
+  "O médico examina a ferida",
+  "A ferida é lavada e limpa com antisséptico",
+  "Em volta, aplicam a anestesia",
+  "As bordas da ferida são costuradas ou unidas",
+  "Fazem um curativo",
+  "Dizem quando voltar para o curativo e para tirar os pontos"
+ ],
+ "feel": [
+  "As injeções de anestesia ardem por alguns segundos",
+  "Durante a sutura, você sente puxar, mas não dor",
+  "Quando a anestesia passar, a ferida vai doer"
+ ],
+ "after": [
+  "Mantenha o curativo seco nos primeiros 1 a 2 dias, ou pelo tempo que o médico disser",
+  "Não arranque as casquinhas",
+  "Tire os pontos no prazo, nem antes nem depois",
+  "Depois de tirar os pontos, proteja a cicatriz do sol"
+ ],
+ "red_flags": [
+  "Sangramento forte que não para com pressão: ligue para a emergência",
+  "A ferida fica vermelha, quente, com pus, ou aparece febre",
+  "Os pontos abriram",
+  "Dormência ou os dedos se mexem mal"
+ ],
+ "faq": [
+  {
+   "q": "Quando os pontos são retirados?",
+   "a": "Normalmente, no rosto, em 5 a 7 dias. No corpo e nos braços, em 7 a 10. Nas pernas e articulações, mais tempo. O prazo exato quem diz é o médico."
+  },
+  {
+   "q": "Posso tomar banho com os pontos?",
+   "a": "Normalmente, depois de 1 a 2 dias, pode tomar um banho rápido. Depois, seque a ferida com cuidado. Confirme com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o curativo ou a retirada dos pontos. Não molhe o curativo e leve um documento com foto."
+  }
+ ]
+}

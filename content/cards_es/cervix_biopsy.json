@@ -1,0 +1,76 @@
+{
+ "title": "Biopsia del cuello uterino",
+ "also": [
+  "biopsia de cérvix",
+  "biopsia dirigida por colposcopía",
+  "biopsia cervical",
+  "toma de biopsia del cuello del útero"
+ ],
+ "what": "El médico toma un pedacito muy pequeño de tejido del cuello del útero. Se estudia con el microscopio.",
+ "why": "Cuando el Papanicolaou o la colposcopía muestran cambios y hay que saber qué son.",
+ "duration": "el procedimiento suele durar de 5 a 15 minutos; el resultado normalmente en 1 a 2 semanas",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Alergias a anestésicos y al yodo",
+  "Si ahora tienes flujo o inflamación"
+ ],
+ "prepare": [
+  {
+   "title": "Día del ciclo",
+   "text": "Normalmente se hace en los primeros días después de que termina la regla. No durante la regla."
+  },
+  {
+   "title": "2 días antes",
+   "text": "Sin relaciones sexuales, tampones, duchas vaginales ni óvulos, si el médico no dijo otra cosa."
+  },
+  {
+   "title": "Analgésico",
+   "text": "Puedes preguntarle al médico si conviene tomar un analgésico antes."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los resultados del Papanicolaou y la colposcopía",
+  "Una toalla sanitaria",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te acuestas en la mesa ginecológica",
+  "El médico pone el espejo y revisa el cuello con el colposcopio, un aparato de aumento",
+  "Pone una solución en el cuello para ver la zona alterada",
+  "A veces anestesia",
+  "Con unas pinzas especiales toma un pedacito muy pequeño de tejido",
+  "Si sangra, tratan la zona"
+ ],
+ "feel": [
+  "Un pellizco breve o un cólico",
+  "Cólico como de regla por unos minutos",
+  "A veces un poco de mareo. Díselo al médico"
+ ],
+ "after": [
+  "Un poco de flujo con sangre u oscuro, normalmente unos días",
+  "Sin relaciones sexuales, tampones, tina ni alberca, normalmente 1 a 2 semanas; el médico te dirá exactamente",
+  "El médico te explica el resultado en la consulta"
+ ],
+ "red_flags": [
+  "Sangrado como una regla abundante",
+  "Fiebre de más de 38, dolor fuerte o flujo con mal olor"
+ ],
+ "faq": [
+  {
+   "q": "Si me hacen biopsia, ¿quiere decir que es cáncer?",
+   "a": "No. Casi siempre se encuentran cambios benignos. La biopsia sirve para saberlo con seguridad."
+  },
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente es como un pellizco breve y un cólico. Dura poco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu biopsia del cuello uterino. Hoy sin relaciones sexuales ni tampones. Lleva tus resultados y una toalla sanitaria."
+  }
+ ]
+}

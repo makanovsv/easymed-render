@@ -1,0 +1,73 @@
+{
+ "title": "Pediatric urologist visit",
+ "also": [
+  "pediatric urologist",
+  "children's urologist",
+  "boy's genital check",
+  "kids urology"
+ ],
+ "what": "The doctor examines your child's genitals and urinary system and checks that they are developing normally.",
+ "why": "At routine checkups for boys, and for problems with peeing, wetting, or swelling or pain in the scrotum.",
+ "duration": "usually 15 to 30 minutes; you get advice right away",
+ "tell_doctor": [
+  "What bothers you, and since when",
+  "How often your child pees, and if there are accidents",
+  "Past urinary tract infections",
+  "Past surgery",
+  "What medicines your child takes"
+ ],
+ "prepare": [
+  {
+   "title": "Talk to your child",
+   "text": "Calmly explain that the doctor will take a look and it does not hurt. Do not use the doctor as a threat."
+  },
+  {
+   "title": "Hygiene",
+   "text": "Usual washing in the morning, with no special products."
+  },
+  {
+   "title": "Tests",
+   "text": "If the doctor ordered a urine test or ultrasound beforehand, have it done before the visit."
+  }
+ ],
+ "bring": [
+  "Your child's documents",
+  "Past urine tests and ultrasounds, if you have them",
+  "A diaper or spare underwear for a little one"
+ ],
+ "steps": [
+  "The doctor asks you about the concerns and your child's development",
+  "Your child undresses below the waist",
+  "The doctor examines the genitals, sometimes standing and lying down",
+  "The belly is felt if needed",
+  "The doctor explains what was seen and gives advice"
+ ],
+ "feel": [
+  "The exam is usually painless",
+  "Your child may feel shy or cry. You are there. That is normal"
+ ],
+ "after": [
+  "If an ultrasound or tests were ordered, have them done and come back",
+  "Follow the hygiene advice"
+ ],
+ "red_flags": [
+  "Sudden severe pain or swelling in the scrotum: see a doctor urgently, call emergency services",
+  "Your child cannot pee"
+ ],
+ "faq": [
+  {
+   "q": "Should I pull back my baby's foreskin?",
+   "a": "No. Never force it back. Your doctor will explain how to care for it."
+  },
+  {
+   "q": "At what age should a boy see a urologist?",
+   "a": "Usually at routine checkups. If there are symptoms, at any age."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Pediatric urologist visit tomorrow. Bring your child's documents and past test results."
+  }
+ ]
+}

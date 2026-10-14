@@ -1,0 +1,68 @@
+{
+ "title": "Surgeon visit",
+ "also": [
+  "surgeon",
+  "general surgeon",
+  "surgical consultation"
+ ],
+ "what": "A doctor who decides if you need surgery and treats conditions that surgery can help, from hernias to abscesses.",
+ "why": "For a hernia, gallstones, an abscess, an ingrown nail, lumps under the skin, or before planned surgery.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "What bothers you, and since when",
+  "All your medicines, especially blood thinners",
+  "Allergies",
+  "Past surgeries and how you handled anesthesia",
+  "Heart or lung disease, or diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Bring ultrasounds, scans, and test results, if you had them."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something that makes it easy to show the area."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Scans and reports",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "The area is examined and felt",
+  "Your tests are reviewed",
+  "The doctor explains if surgery is needed and what the options are",
+  "If surgery is needed, you get a list of pre-op tests"
+ ],
+ "feel": [
+  "Feeling the sore area may be unpleasant",
+  "Tell the doctor if it hurts"
+ ],
+ "after": [
+  "If surgery is needed, the doctor will tell you how to prepare",
+  "Ask how long recovery takes"
+ ],
+ "red_flags": [
+  "Severe belly pain, vomiting, or a high fever: do not wait for the visit. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Will surgery be scheduled right away?",
+   "a": "Not always. Often tests come first, and sometimes surgery is not needed at all."
+  },
+  {
+   "q": "What should I ask the surgeon?",
+   "a": "What the treatment options are, the risks, how long recovery takes, and when you can work."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Surgeon visit tomorrow. Bring your test results and medicine list."
+  }
+ ]
+}

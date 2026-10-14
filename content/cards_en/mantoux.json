@@ -1,0 +1,73 @@
+{
+ "title": "TB skin test (Mantoux and Diaskintest)",
+ "also": [
+  "TB skin test",
+  "Mantoux test",
+  "tuberculin skin test",
+  "PPD test",
+  "Diaskintest"
+ ],
+ "what": "A drop of a special substance is injected into the skin of your forearm. After 3 days, the doctor checks for redness or a raised bump and measures it. Diaskintest is a similar skin test used in some countries.",
+ "why": "To check for tuberculosis in children and adults: yearly at schools and kindergartens, after contact with someone with TB, or for medical certificates.",
+ "duration": "the injection takes 1 minute; the check is usually after 72 hours",
+ "tell_doctor": [
+  "If you have a fever, a cold, or a flare-up of an illness right now",
+  "If you have allergies or skin conditions",
+  "If you had a recent vaccine",
+  "If your child is ill, tell the doctor in advance. The test may be postponed"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "No special prep. You can eat as usual."
+  },
+  {
+   "title": "Health",
+   "text": "The test is done when you are well. With a cold, it is usually postponed. Ask your doctor."
+  },
+  {
+   "title": "Clothing",
+   "text": "Wear a sleeve that is easy to pull up to the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Your ID",
+  "Your child's vaccination record"
+ ],
+ "steps": [
+  "You sit and rest your forearm on a table",
+  "The skin is wiped",
+  "A thin needle puts a drop just under the top layer of skin",
+  "A small bubble forms on the skin",
+  "You are given a day to come back and show your arm"
+ ],
+ "feel": [
+  "A quick, small prick",
+  "You can tell a child ahead of time: it will be quick and pinch a little"
+ ],
+ "after": [
+  "Until the check, do not wet or scratch the spot, and do not cover it with a bandage or put cream on it",
+  "After 72 hours, the doctor measures the reaction with a ruler",
+  "You get the result right at the check"
+ ],
+ "red_flags": [
+  "Strong swelling of the arm, blisters, or red streaks from the spot: see a doctor before the check day"
+ ],
+ "faq": [
+  {
+   "q": "Can the test spot get wet?",
+   "a": "Better not. Do not rub it, scrub it, or soak it until the check. A few drops of water are usually fine."
+  },
+  {
+   "q": "How is Diaskintest different from Mantoux?",
+   "a": "Diaskintest does not react to the BCG vaccine, so it shows TB infection more precisely."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "TB skin test tomorrow. If you have a fever or a cold, call the clinic."
+  }
+ ]
+}

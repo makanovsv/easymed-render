@@ -1,0 +1,70 @@
+{
+ "title": "Calprotectina fecal",
+ "also": [
+  "calprotectina",
+  "calprotectina en heces",
+  "análisis de inflamación intestinal"
+ ],
+ "what": "Es un análisis de heces. Muestra si hay inflamación en el intestino.",
+ "why": "Con diarrea crónica, dolor de estómago o sangre en las heces. Ayuda a distinguir la inflamación del intestino del colon irritable y a dar seguimiento al tratamiento.",
+ "duration": "recoger la muestra en casa toma unos minutos; el resultado suele estar en 1 a 5 días",
+ "tell_doctor": [
+  "Si tomas analgésicos o antiinflamatorios. Pueden subir el resultado",
+  "Si tuviste hace poco una infección del estómago",
+  "Si estás en tu regla o tienes sangrado por hemorroides"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Pide un frasco estéril en el laboratorio o cómpralo en la farmacia."
+  },
+  {
+   "title": "Cómo recoger",
+   "text": "Las heces se recogen después de una evacuación natural, sin enemas ni laxantes. No debe caer orina ni agua en el frasco."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas. Él decidirá cuándo es mejor hacer el análisis."
+  },
+  {
+   "title": "Cómo guardar",
+   "text": "Llévalo al laboratorio en el tiempo que te indiquen."
+  }
+ ],
+ "bring": [
+  "El frasco con la muestra",
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "Haz popó en un recipiente limpio y seco o en una bolsa",
+  "Con la cucharita de la tapa toma un poco de heces",
+  "Pon en el frasco la cantidad que te dijeron en el laboratorio",
+  "Ciérralo bien y ponle tu nombre",
+  "Llévalo al laboratorio"
+ ],
+ "feel": [
+  "Nada molesto, solo un poco de pena"
+ ],
+ "after": [
+  "El resultado suele estar en 1 a 5 días",
+  "Una calprotectina alta es motivo para el siguiente paso. El médico lo decide"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Si la calprotectina sale alta, ¿es una enfermedad grave?",
+   "a": "No necesariamente. Sube con cualquier inflamación del intestino, también por una infección. La causa la busca el médico."
+  },
+  {
+   "q": "¿Para qué este análisis si se puede hacer una colonoscopia?",
+   "a": "Ayuda a saber si de verdad hace falta la colonoscopia. A veces se puede evitar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana entregas la muestra de heces para calprotectina. Ten listo el frasco y un recipiente limpio o una bolsa."
+  }
+ ]
+}

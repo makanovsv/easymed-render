@@ -1,0 +1,70 @@
+{
+ "title": "Dental bridge",
+ "also": [
+  "dental bridge",
+  "fixed bridge",
+  "tooth bridge",
+  "fixed partial denture"
+ ],
+ "what": "A bridge fills the gap left by one or more missing teeth. It rests on the neighboring teeth or on implants and is not removed.",
+ "why": "When one or two teeth in a row are missing, and the neighboring teeth can be used as supports.",
+ "duration": "usually 2 to 3 visits over 1 to 3 weeks",
+ "tell_doctor": [
+  "If you have any decayed teeth or gum problems",
+  "If you grind your teeth",
+  "Blood thinners",
+  "Allergies",
+  "If you have considered implants"
+ ],
+ "prepare": [
+  {
+   "title": "Treatment",
+   "text": "The support teeth are treated first. Sometimes a root canal is needed."
+  },
+  {
+   "title": "X-rays",
+   "text": "The dentist takes an X-ray to check the roots of the support teeth."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Dental X-rays, if you have them"
+ ],
+ "steps": [
+  "The dentist examines your teeth and takes an X-ray",
+  "With numbing, the support teeth are shaped for crowns",
+  "An impression or scan is taken",
+  "A temporary bridge is put in",
+  "Later, the permanent bridge is tried in and fixed in place",
+  "Your bite is checked, and care is explained"
+ ],
+ "feel": [
+  "With numbing, shaping the teeth does not hurt",
+  "For the first days, the bridge feels unusual, and the teeth may react to cold"
+ ],
+ "after": [
+  "Clean under the bridge with special floss or a water flosser",
+  "Do not bite very hard things",
+  "Checkups every 6 months"
+ ],
+ "red_flags": [
+  "The bridge is loose or has come off",
+  "Severe pain in a support tooth, or swollen gums"
+ ],
+ "faq": [
+  {
+   "q": "How is a bridge worse than an implant?",
+   "a": "For a bridge, the neighboring teeth are shaped down. An implant does not touch them, but it needs surgery. Your dentist will help you choose."
+  },
+  {
+   "q": "How long does a bridge last?",
+   "a": "Usually many years with good care. It is important to clean under it every day."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Dental bridge visit tomorrow. Eat beforehand. You will have numbing."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "title": "Mastectomia",
+ "also": [
+  "mastectomia",
+  "retirada da mama",
+  "cirurgia de câncer de mama"
+ ],
+ "what": "O cirurgião retira a mama inteira. Muitas vezes, junto, retira parte dos gânglios da axila.",
+ "why": "Na maioria das vezes no câncer de mama. Às vezes como prevenção em mulheres com alto risco hereditário.",
+ "duration": "a cirurgia leva normalmente de 1 hora e meia a 3 horas, com internação normalmente de alguns dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se você quer a reconstrução da mama. Às vezes ela é feita na mesma cirurgia",
+  "O que preocupa você. Você pode pedir uma conversa com psicólogo"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Conversa",
+   "text": "Pergunte antes ao cirurgião sobre drenos, reconstrução da mama e prótese. Assim fica mais tranquilo."
+  }
+ ],
+ "bring": [
+  "Todos os resultados de exames e da biópsia",
+  "Documentos",
+  "Lista de remédios",
+  "Blusa ou camisa de botões"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "O anestesista aplica a anestesia",
+  "O cirurgião retira a mama e, se preciso, os gânglios",
+  "Na ferida colocam um tubo fino, o dreno, para sair o líquido",
+  "O corte é suturado, e fazem o curativo"
+ ],
+ "feel": [
+  "Dor e repuxo no peito e na axila. Dão analgésico",
+  "Dormência na pele do peito e do braço, que muitas vezes dura bastante",
+  "É difícil e mexe com as emoções. O apoio da família e do psicólogo ajuda"
+ ],
+ "after": [
+  "O dreno normalmente é retirado em alguns dias, conforme a quantidade de líquido",
+  "Os exercícios do braço começam conforme o esquema do médico",
+  "No braço do lado operado, evite cortes e mangas apertadas. O médico orienta",
+  "A biópsia define o tratamento seguinte",
+  "Dá para escolher uma prótese de mama provisória e depois a definitiva"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, vermelhidão e pus na ferida",
+  "Juntou líquido sob a pele, o peito inchou muito",
+  "O braço do lado operado inchou muito",
+  "Dor na panturrilha, falta de ar, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dá para reconstruir a mama?",
+   "a": "Sim. Às vezes na hora, às vezes depois. As opções são discutidas com o cirurgião."
+  },
+  {
+   "q": "Por que o braço incha?",
+   "a": "Por causa da retirada dos gânglios. Exercícios e cuidado com o braço diminuem o risco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Leve os resultados dos exames e roupa de botões. Comida e água, só até o horário da clínica."
+  }
+ ]
+}

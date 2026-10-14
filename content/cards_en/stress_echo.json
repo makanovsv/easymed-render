@@ -1,0 +1,81 @@
+{
+ "title": "Stress echocardiogram",
+ "also": [
+  "stress echo",
+  "exercise echocardiogram",
+  "stress echocardiography",
+  "dobutamine stress echo"
+ ],
+ "what": "The doctor does a heart ultrasound at rest and right after exercise: on a treadmill, a bike, or with medicine. It shows if your heart gets enough blood when it works hard.",
+ "why": "For chest pain, to check the heart's arteries; after treatment of the heart arteries; or to check the valves under stress.",
+ "duration": "usually 45 to 60 minutes; the report is usually ready the same day",
+ "tell_doctor": [
+  "All heart and blood pressure medicines. Your doctor will say if any should be skipped",
+  "Chest pain, shortness of breath, or fainting",
+  "Joint problems that make walking or pedaling hard",
+  "Asthma. This matters if the stress will be done with medicine",
+  "Diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "A light meal 2 to 3 hours before the test. Do not come hungry or very full."
+  },
+  {
+   "title": "Medicines",
+   "text": "Some heart medicines are sometimes paused for a short time. Do not stop them on your own. Your doctor decides."
+  },
+  {
+   "title": "Coffee and smoking",
+   "text": "On the test day, usually no coffee, strong tea, or smoking. Check with the clinic."
+  },
+  {
+   "title": "Clothing",
+   "text": "Sportswear and comfortable shoes for walking."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past ECGs and echocardiograms",
+  "A list of your medicines",
+  "Sports shoes and water",
+  "A towel"
+ ],
+ "steps": [
+  "ECG stickers are put on your chest and a blood pressure cuff on your arm",
+  "The doctor does a heart ultrasound at rest",
+  "You walk on a treadmill or pedal a bike, and the load slowly goes up",
+  "Sometimes medicine is given into a vein instead of exercise",
+  "Right after exercise, you lie down and the doctor quickly repeats the ultrasound",
+  "Then you rest until your pulse and blood pressure return to normal"
+ ],
+ "feel": [
+  "You will get tired, and your pulse and breathing will speed up. This is expected",
+  "Speak up right away if you have chest pain, strong shortness of breath, or dizziness. The test will be stopped"
+ ],
+ "after": [
+  "After resting, you can go back to your usual day",
+  "The report is usually ready the same day",
+  "Go over the results with a cardiologist"
+ ],
+ "red_flags": [
+  "Chest pain that does not go away after the test: tell the doctor right away or call emergency services",
+  "Fainting, strong shortness of breath, or skipped heartbeats"
+ ],
+ "faq": [
+  {
+   "q": "Is it dangerous for the heart?",
+   "a": "The test is done under a doctor's watch, with everything for help nearby. It is stopped at the first warning signs."
+  },
+  {
+   "q": "What if I cannot walk for long?",
+   "a": "Say so in advance. The stress can be done with medicine, without walking."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Stress echo tomorrow. Bring sports shoes and a list of your medicines. Skip coffee in the morning. Check with the clinic."
+  }
+ ]
+}

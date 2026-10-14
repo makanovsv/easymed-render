@@ -1,0 +1,65 @@
+{
+ "title": "Score de calcio coronario",
+ "also": [
+  "score de calcio",
+  "calcio coronario",
+  "índice de Agatston",
+  "tomografía de calcio del corazón"
+ ],
+ "what": "Es una tomografía corta del corazón, sin medio de contraste. Mide cuánto calcio hay en las arterias del corazón, una huella de la aterosclerosis.",
+ "why": "Para calcular el riesgo de enfermedades del corazón en personas sin molestias, cuando el médico decide sobre la prevención.",
+ "duration": "en el consultorio normalmente de 10 a 15 minutos; la toma dura unos segundos; el resultado, el mismo día o al día siguiente",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si ya tienes stents o te hicieron un bypass. Este estudio puede no servir",
+  "Si tu pulso es rápido o irregular"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No hay inyección. Puedes comer y beber."
+  },
+  {
+   "title": "Café",
+   "text": "Normalmente ese día piden no tomar café ni bebidas energéticas. Pregunta en la clínica."
+  },
+  {
+   "title": "Ropa",
+   "text": "Sin metal en el pecho: mejor quítate el brasier con varillas y las cadenas."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus análisis de colesterol, si los tienes"
+ ],
+ "steps": [
+  "Te pegan electrodos en el pecho",
+  "Te acuestas boca arriba con los brazos detrás de la cabeza",
+  "La mesa entra en el anillo del aparato",
+  "Aguantas la respiración unos segundos y toman la imagen"
+ ],
+ "feel": [
+  "No duele, no hay inyecciones"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "El resultado es un número, el score de calcio. Llévalo al cardiólogo o a tu médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Qué significa un cero?",
+   "a": "No encontraron calcio en las arterias del corazón. Normalmente indica un riesgo bajo en los próximos años."
+  },
+  {
+   "q": "Si encontraron calcio, ¿es un infarto?",
+   "a": "No. Es una señal de depósitos en las arterias. El médico decidirá si hace falta prevención o más estudios."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu score de calcio coronario. En la mañana sin café. Usa ropa sin metal."
+  }
+ ]
+}

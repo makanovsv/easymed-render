@@ -1,0 +1,90 @@
+{
+ "title": "Fusión de columna",
+ "also": [
+  "artrodesis de columna",
+  "fijación transpedicular",
+  "fusión vertebral",
+  "cirugía de columna con tornillos"
+ ],
+ "what": "El cirujano une dos o más vértebras con tornillos y barras, y a veces pone una pieza entre ellas. Con el tiempo las vértebras se unen en un solo bloque.",
+ "why": "Si las vértebras están inestables, desplazadas o fracturadas, si el canal está muy estrecho o hay una desviación, y otro tratamiento no ayudó.",
+ "duration": "la cirugía suele durar de 2 a 5 horas; en el hospital normalmente de 3 a 7 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si tienes osteoporosis",
+  "Si fumas. Fumar afecta la fusión",
+  "Adormecimiento, debilidad en las piernas o problemas para orinar"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Faja",
+   "text": "Pregunta antes si necesitarás una faja o corsé después de la cirugía. A veces se elige antes."
+  },
+  {
+   "title": "Casa",
+   "text": "Prepara tu casa: una silla alta y lo que necesites a la altura de la cintura, para agacharte menos."
+  }
+ ],
+ "bring": [
+  "La resonancia, la tomografía y las radiografías",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "El corsé, si te pidieron comprarlo",
+  "Zapatos sin agujetas"
+ ],
+ "steps": [
+  "Te cambias de ropa, te ponen un catéter en la vena y medias contra los trombos",
+  "El anestesiólogo te pone la anestesia",
+  "Te acuestan boca abajo o de lado",
+  "El cirujano hace un corte y libera los nervios, si hace falta",
+  "Pone tornillos en las vértebras y los une con barras",
+  "Revisa la posición con rayos X y cierra la herida"
+ ],
+ "feel": [
+  "La espalda duele los primeros días y semanas. Te dan analgésicos",
+  "Rigidez y te cuesta agacharte",
+  "El dolor de la pierna que tenías muchas veces se va más rápido que el dolor de la herida"
+ ],
+ "after": [
+  "Normalmente te levantas en los primeros 1 o 2 días, con supervisión",
+  "No te agaches, no gires el cuerpo y no cargues cosas pesadas; el cirujano te dirá por cuánto tiempo",
+  "Caminar es el mejor ejercicio las primeras semanas",
+  "Las vértebras se unen en varios meses; se revisa con radiografías"
+ ],
+ "red_flags": [
+  "Debilidad o adormecimiento nuevo en las piernas",
+  "No puedes orinar, o no puedes contener la orina o las heces: llama a emergencias",
+  "Fiebre de más de 38 o pus en la herida",
+  "Dolor en la pantorrilla, falta de aire o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Mi espalda se va a poder doblar?",
+   "a": "En la zona unida no, pero el resto de la columna sí se mueve. Muchas personas casi no notan la diferencia."
+  },
+  {
+   "q": "¿Cuándo puedo sentarme y manejar?",
+   "a": "Sentarte un rato, normalmente de inmediato. Manejar, cuando lo permita el cirujano, muchas veces en unas semanas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de columna. Lleva tus estudios, el corsé y tus documentos. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

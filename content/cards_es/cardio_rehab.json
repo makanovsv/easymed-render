@@ -1,0 +1,80 @@
+{
+ "title": "Rehabilitación cardiaca",
+ "also": [
+  "rehabilitación después de un infarto",
+  "rehabilitación cardiovascular",
+  "ejercicio supervisado para el corazón",
+  "rehabilitación después de un stent"
+ ],
+ "what": "Es un programa de sesiones con supervisión del médico y un instructor, para que el corazón se recupere después de una enfermedad o cirugía. Incluye ejercicios y consejos de alimentación y estilo de vida.",
+ "why": "Después de un infarto, un stent, un bypass, cirugía de válvulas, o con insuficiencia cardiaca, cuando el médico lo considere seguro.",
+ "duration": "cada sesión suele durar de 45 a 60 minutos; el programa, normalmente varias semanas; el médico decide cuánto",
+ "tell_doctor": [
+  "Si en los últimos días tuviste dolor en el pecho, falta de aire o el corazón latió raro",
+  "Todos los medicamentos que tomas",
+  "Si te mareas o te has desmayado",
+  "Si te duelen las articulaciones o la espalda; adaptarán los ejercicios",
+  "Si tienes diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Antes de empezar normalmente se hace un electrocardiograma, a veces una prueba de esfuerzo y un ecocardiograma. Ayudan a elegir un esfuerzo seguro."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Tómalos como siempre. No los dejes por tu cuenta; si tienes dudas, díselo al médico y él decide."
+  },
+  {
+   "title": "Comida",
+   "text": "Una comida ligera 1 o 2 horas antes de la sesión. No hagas ejercicio en ayunas ni justo después de una comida pesada."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa deportiva, zapatos cómodos y una botella de agua."
+  }
+ ],
+ "bring": [
+  "El resumen de alta y tus últimos electrocardiogramas",
+  "La lista de tus medicamentos",
+  "Ropa y zapatos deportivos",
+  "Las pastillas que el médico te dijo que lleves contigo"
+ ],
+ "steps": [
+  "Antes de la sesión te toman la presión y el pulso",
+  "A veces te ponen un sensor para vigilar el corazón",
+  "Calentamiento: caminar tranquilo y movimientos suaves",
+  "Parte principal: bicicleta fija, caminadora o ejercicios a tu ritmo",
+  "El esfuerzo sube poco a poco, de una sesión a otra",
+  "Al final, enfriamiento y otra vez presión y pulso"
+ ],
+ "feel": [
+  "El esfuerzo se siente moderado: puedes hablar, pero ya cuesta cantar",
+  "Después de las primeras sesiones puede haber un poco de cansancio en los músculos"
+ ],
+ "after": [
+  "El médico te dará un plan de ejercicios y caminatas para la casa",
+  "Apunta en un diario tu pulso, tu presión y cómo te sientes",
+  "Ser constante es más importante que hacer mucho esfuerzo"
+ ],
+ "red_flags": [
+  "Dolor o presión en el pecho que no se quita en reposo: detén el ejercicio y llama a emergencias",
+  "Falta de aire fuerte, desmayo o mareo fuerte: díselo de inmediato al instructor"
+ ],
+ "faq": [
+  {
+   "q": "¿No es peligroso hacer ejercicio después de un infarto?",
+   "a": "Con supervisión médica, no. El esfuerzo se elige según tus estudios y sube poco a poco."
+  },
+  {
+   "q": "¿Puedo hacer el programa en casa en vez del centro?",
+   "a": "Muchas veces una parte se hace en casa. Qué esfuerzo te conviene, lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu sesión de rehabilitación cardiaca. Desayuno ligero, tus medicamentos como siempre, y lleva ropa deportiva y agua."
+  }
+ ]
+}

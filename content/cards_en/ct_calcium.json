@@ -1,0 +1,66 @@
+{
+ "title": "Coronary calcium score",
+ "also": [
+  "coronary calcium score",
+  "calcium scoring",
+  "CAC score",
+  "Agatston score",
+  "heart scan"
+ ],
+ "what": "A short CT scan of the heart without contrast dye. It measures how much calcium is in the heart's arteries. Calcium is a sign of hardened arteries.",
+ "why": "To estimate the risk of heart disease in people with no symptoms, when the doctor is deciding on prevention.",
+ "duration": "usually 10 to 15 minutes in the room; the scan itself takes a few seconds; results the same or the next day",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "If you have stents or had bypass surgery. This test may not suit you",
+  "If your pulse is fast or irregular"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "No injection is needed. You can eat and drink."
+  },
+  {
+   "title": "Coffee",
+   "text": "You are usually asked to skip coffee and energy drinks that day. Check with the clinic."
+  },
+  {
+   "title": "Clothing",
+   "text": "No metal on the chest. Better to take off an underwire bra and necklaces."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Cholesterol test results, if you have them"
+ ],
+ "steps": [
+  "ECG stickers are put on your chest",
+  "You lie on your back with your arms behind your head",
+  "The table moves into the ring of the scanner",
+  "Hold your breath for a few seconds while the image is taken"
+ ],
+ "feel": [
+  "It does not hurt. There are no injections"
+ ],
+ "after": [
+  "You can go about your day right away",
+  "The result is a number, the calcium score. Take it to a cardiologist or your doctor"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What does a score of zero mean?",
+   "a": "No calcium was found in the heart's arteries. This usually means a low risk in the next few years."
+  },
+  {
+   "q": "If calcium is found, does that mean a heart attack?",
+   "a": "No. It is a sign of deposits in the arteries. Your doctor will decide if you need prevention or more tests."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Calcium score scan tomorrow. No coffee in the morning. Wear clothes with no metal."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "title": "Artroscopia de hombro",
+ "also": [
+  "artroscopia de hombro",
+  "reparación del manguito rotador",
+  "cirugía de hombro por orificios",
+  "cirugía de hombro"
+ ],
+ "what": "El cirujano revisa la articulación del hombro con una cámara por varios orificios. Ahí mismo puede coser un tendón, quitar lo que estorba o estabilizar la articulación.",
+ "why": "Si hay rotura de tendones del hombro, luxaciones, dolor fuerte o el movimiento está limitado, y otro tratamiento no ayudó.",
+ "duration": "la cirugía suele durar de 1 a 2 horas; en el hospital normalmente 1 o 2 días, o te vas a casa el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si ese hombro se te ha zafado o lastimado antes",
+  "En qué trabajas y qué esfuerzos necesitas hacer"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una camisa o suéter con botones. Al principio no podrás meterte la ropa por la cabeza."
+  },
+  {
+   "title": "Casa",
+   "text": "Las primeras semanas el brazo estará en un cabestrillo. Piensa quién te ayudará con las tareas."
+  }
+ ],
+ "bring": [
+  "La orden médica, la resonancia y los análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "El cabestrillo, si te pidieron comprarlo"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "Muchas veces te duermen el brazo con una inyección cerca del cuello y te ponen anestesia general",
+  "Te acomodan medio sentado o de lado",
+  "El cirujano hace varios orificios y mete la cámara",
+  "Revisa la articulación y hace lo necesario",
+  "Cierra los orificios y te inmovilizan el brazo con un cabestrillo"
+ ],
+ "feel": [
+  "El brazo puede quedar dormido unas horas. Es por la anestesia",
+  "Luego el hombro duele. Te dan analgésicos",
+  "Al principio es más cómodo dormir medio sentado"
+ ],
+ "after": [
+  "El cabestrillo se usa normalmente de unos días a 4 a 6 semanas; el cirujano te dirá",
+  "Los ejercicios se empiezan según el plan del médico, no por tu cuenta",
+  "No mojes el vendaje hasta que te lo permitan",
+  "La recuperación completa muchas veces toma varios meses"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38, o enrojecimiento y pus en los orificios",
+  "El brazo se hincha mucho, o los dedos están fríos o morados",
+  "Falta de aire o dolor en el pecho de repente: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué tarda tanto la recuperación?",
+   "a": "El tendón cosido tarda varios meses en pegarse al hueso. Por eso es importante no forzar el brazo antes de tiempo."
+  },
+  {
+   "q": "¿Cómo duermo con el hombro operado?",
+   "a": "A muchos les resulta más cómodo medio sentados, con una almohada bajo el brazo. Pregúntale al médico qué es mejor para ti."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu artroscopia de hombro. Lleva tus estudios y una camisa con botones. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

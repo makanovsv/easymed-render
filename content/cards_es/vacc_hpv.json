@@ -1,0 +1,77 @@
+{
+ "title": "Vacuna contra el VPH",
+ "also": [
+  "vacuna del VPH",
+  "vacuna contra el virus del papiloma humano",
+  "vacuna contra el cáncer cervicouterino",
+  "vacuna del papiloma"
+ ],
+ "what": "Es una inyección de vacuna en el brazo. Protege contra el virus del papiloma humano, que puede causar cáncer del cuello del útero y otras enfermedades.",
+ "why": "Lo mejor es en niños de 9 a 14 años más o menos, antes de iniciar la vida sexual. En adolescentes y adultos, si lo recomienda el médico.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos; el esquema es de 1 a 3 dosis, según la edad",
+ "tell_doctor": [
+  "Si ahora estás enfermo o tienes fiebre",
+  "Alergias y reacciones fuertes a vacunas anteriores",
+  "Si estás embarazada",
+  "Si te has desmayado con las inyecciones"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando la persona está sana. Antes de la inyección hacen una revisión corta."
+  },
+  {
+   "title": "Comida",
+   "text": "Mejor come antes de la vacuna: en los adolescentes, con el estómago vacío es más común marearse."
+  },
+  {
+   "title": "Esquema",
+   "text": "Cuántas dosis y cada cuánto, te lo dice el médico. Pregunta en la clínica."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico pregunta cómo te sientes y toma la temperatura",
+  "Descubres el brazo",
+  "Limpian la piel y ponen la inyección",
+  "Anotan la vacuna en tus documentos",
+  "Después de la inyección, quédate sentado en la clínica de 15 a 30 minutos"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces duele o se pone rojo el lugar de la inyección por 1 a 3 días",
+  "A veces cansancio, dolor de cabeza o un poco de fiebre"
+ ],
+ "after": [
+  "Quédate sentado cerca del consultorio y no te pares de golpe",
+  "Puedes regresar a tus actividades",
+  "La siguiente dosis, según el calendario, si hace falta"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o salen ronchas por todo el cuerpo: llama a emergencias",
+  "Desmayo después de la inyección: acuesta a la persona y llama a la enfermera"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué vacunar a un niño tan pronto?",
+   "a": "La vacuna funciona mejor antes del contacto con el virus. En la infancia el sistema inmune responde con más fuerza."
+  },
+  {
+   "q": "¿Los niños varones también necesitan la vacuna?",
+   "a": "En muchos países también se recomienda a los niños. Pregúntale al médico."
+  },
+  {
+   "q": "¿La vacuna reemplaza las revisiones con el ginecólogo?",
+   "a": "No. Las revisiones y el Papanicolaou siguen siendo necesarios."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna contra el VPH. En la mañana desayuna y lleva la cartilla de vacunación."
+  }
+ ]
+}

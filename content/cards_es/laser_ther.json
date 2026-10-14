@@ -1,0 +1,68 @@
+{
+ "title": "Terapia con láser",
+ "also": [
+  "láser terapéutico",
+  "láser de baja potencia",
+  "laserterapia",
+  "fotobiomodulación"
+ ],
+ "what": "El especialista dirige un rayo láser suave a la zona enferma. No corta ni quema; ayuda a que los tejidos se recuperen.",
+ "why": "En dolores de articulaciones y músculos, después de lesiones o con heridas que tardan en sanar, si te lo indica el médico.",
+ "duration": "el procedimiento suele durar de 5 a 15 minutos; el programa, normalmente unas 10 sesiones",
+ "tell_doctor": [
+  "Si estás embarazada",
+  "Si tienes lunares o bolitas en esa zona",
+  "Si tomas medicamentos que dan sensibilidad a la luz",
+  "Si tienes fiebre",
+  "Enfermedades oncológicas"
+ ],
+ "prepare": [
+  {
+   "title": "Piel",
+   "text": "Piel limpia, sin crema ni maquillaje en la zona."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir la zona."
+  }
+ ],
+ "bring": [
+  "La indicación del médico",
+  "Ropa cómoda"
+ ],
+ "steps": [
+  "Te acuestas o te sientas cómodo",
+  "Te pueden dar lentes de protección",
+  "Ponen el cabezal sobre la piel o lo sostienen cerca",
+  "El aparato trabaja unos minutos en cada punto",
+  "El procedimiento termina con una señal"
+ ],
+ "feel": [
+  "Normalmente no sientes nada",
+  "A veces un poco de calor"
+ ],
+ "after": [
+  "Puedes regresar de inmediato a tus actividades",
+  "No te asolees los primeros días del programa; pregúntale al médico",
+  "Ve a tus sesiones según el calendario. Importa completar el programa"
+ ],
+ "red_flags": [
+  "Quemadura o enrojecimiento fuerte en la zona: enséñaselo al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿El láser es peligroso para los ojos?",
+   "a": "No hay que mirar el rayo, por eso te dan lentes. Para la piel, este láser es seguro."
+  },
+  {
+   "q": "¿Duele?",
+   "a": "No. Normalmente no se siente nada, o solo un poco de calor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Hoy es tu terapia con láser. La piel sin crema, y lleva la indicación del médico."
+  }
+ ]
+}

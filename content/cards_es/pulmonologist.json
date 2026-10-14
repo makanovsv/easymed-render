@@ -1,0 +1,68 @@
+{
+ "title": "Consulta con el neumólogo",
+ "also": [
+  "neumólogo",
+  "médico de los pulmones",
+  "consulta de neumología"
+ ],
+ "what": "Es el médico que trata los pulmones y los bronquios. Escucha tu respiración y revisa cómo funcionan tus pulmones.",
+ "why": "Si tienes tos que no se quita, falta de aire, asma, bronquitis frecuentes o cambios en la radiografía de pulmones.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Desde cuándo tienes tos o falta de aire, y qué las empeora",
+  "Si fumas o fumaste antes",
+  "Si trabajas con polvo o químicos, o tienes contacto con animales",
+  "Qué inhaladores y medicamentos usas",
+  "Tus alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Fumar",
+   "text": "Si en la consulta te harán una prueba de respiración, no fumes al menos unas horas antes. Pregunta en la clínica."
+  },
+  {
+   "title": "Estudios",
+   "text": "Lleva tu radiografía o tomografía de pulmones, si te la hiciste."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Los inhaladores que usas",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias",
+  "Escucha tus pulmones",
+  "Mide el oxígeno en tu sangre con un sensor en el dedo",
+  "A veces hace en ese momento una prueba de respiración, la espirometría",
+  "Te pide estudios o te indica un tratamiento"
+ ],
+ "feel": [
+  "Nada molesto",
+  "En la prueba de respiración hay que sacar el aire con fuerza; te puedes marear un poco"
+ ],
+ "after": [
+  "El médico puede revisar si usas bien tu inhalador",
+  "No cambies el tratamiento por tu cuenta; pregúntale al médico"
+ ],
+ "red_flags": [
+  "Falta de aire fuerte en reposo, labios morados o sangre al toser: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué llevar el inhalador a la consulta?",
+   "a": "El médico verá si lo usas bien. Es una razón común de que el tratamiento no funcione."
+  },
+  {
+   "q": "¿Necesito una radiografía de pulmones antes?",
+   "a": "Si tienes una, llévala. Si hace falta otra, lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el neumólogo. Lleva tus radiografías de pulmones y tus inhaladores."
+  }
+ ]
+}

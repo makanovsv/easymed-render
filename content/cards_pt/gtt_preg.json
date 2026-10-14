@@ -1,0 +1,82 @@
+{
+ "title": "Curva glicêmica na gravidez",
+ "also": [
+  "TOTG",
+  "teste oral de tolerância à glicose",
+  "curva glicêmica",
+  "teste de glicose na gravidez",
+  "exame do açúcar na gravidez"
+ ],
+ "what": "Você colhe sangue em jejum, bebe uma solução doce de glicose e colhe sangue de novo depois de uma e de duas horas. Assim se vê como o corpo lida com o açúcar.",
+ "why": "Normalmente entre 24 e 28 semanas de gravidez, para perceber a tempo o diabetes gestacional. Às vezes antes, se o médico vê motivo.",
+ "duration": "cerca de 2 horas a 2 horas e meia; o resultado sai normalmente em 1 a 2 dias",
+ "tell_doctor": [
+  "Se o açúcar já esteve alto",
+  "Enjoo forte e vômitos",
+  "Todos os remédios que você toma",
+  "Se você está resfriada ou se sentindo mal"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Em jejum: normalmente de 8 a 14 horas sem comer. Água pura pode."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Coma como sempre, sem fazer dieta nos dias antes. À noite, sem exagero de doces."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda por conta própria. Pergunte ao médico como tomar os remédios da manhã."
+  },
+  {
+   "title": "Tempo",
+   "text": "Reserve a manhã: você vai ficar 2 horas sentada na clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "A caderneta da gestante",
+  "Água e um lanche para depois do exame",
+  "Um livro ou algo para passar o tempo"
+ ],
+ "steps": [
+  "De manhã, em jejum, colhem sangue da veia",
+  "Você bebe um copo da solução doce em 5 minutos",
+  "Fica sentada tranquila: não pode andar, comer nem beber",
+  "Depois de uma hora, colhem sangue pela segunda vez",
+  "Depois de duas horas, pela terceira vez",
+  "Depois disso, já pode comer"
+ ],
+ "feel": [
+  "A solução é muito doce e pode dar enjoo",
+  "Às vezes um pouco de fraqueza ou tontura. Avise a enfermagem",
+  "Três picadas na veia"
+ ],
+ "after": [
+  "Coma logo depois do exame",
+  "O resultado sai normalmente em 1 a 2 dias, e o médico explica",
+  "Se o açúcar estiver alto, o médico orienta sobre alimentação e controle"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que não pode andar durante o exame?",
+   "a": "O movimento queima açúcar e altera o resultado. É preciso ficar sentada tranquila."
+  },
+  {
+   "q": "E se eu vomitar a solução?",
+   "a": "Avise a enfermagem. Normalmente o exame é interrompido e remarcado."
+  },
+  {
+   "q": "A glicose faz mal ao bebê?",
+   "a": "Não. É uma quantidade comum de açúcar, como a de uma bebida doce."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Amanhã é a curva glicêmica. Depois do jantar, não coma mais nada. Água pode. De manhã, sem café da manhã e nada doce."
+  }
+ ]
+}

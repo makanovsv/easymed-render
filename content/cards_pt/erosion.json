@@ -1,0 +1,81 @@
+{
+ "title": "Tratamento de ectopia do colo do útero",
+ "also": [
+  "ferida no colo do útero",
+  "ectopia",
+  "cauterização do colo do útero",
+  "tratamento com radiofrequência no colo",
+  "laser no colo do útero"
+ ],
+ "what": "O médico trata a área alterada do colo do útero com radiofrequência, laser, frio ou uma solução especial. No lugar cresce tecido saudável.",
+ "why": "Quando a área alterada sangra, incomoda ou o médico vê indicação depois do preventivo e da colposcopia. Nem toda ectopia precisa ser tratada.",
+ "duration": "o procedimento leva normalmente de 10 a 20 minutos; a cicatrização normalmente de 3 a 6 semanas",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Remédios que afinam o sangue",
+  "Se você usa marca-passo",
+  "Alergia a anestésicos e analgésicos",
+  "Se agora você tem corrimento, coceira ou cheiro ruim"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente antes do tratamento fazem o preventivo (Papanicolau), exame de infecções e colposcopia."
+  },
+  {
+   "title": "Dia do ciclo",
+   "text": "Normalmente o procedimento é feito nos primeiros dias depois da menstruação. Confirme com o médico."
+  },
+  {
+   "title": "Infecções",
+   "text": "Se o exame mostrou inflamação, ela é tratada primeiro."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados do preventivo e da colposcopia",
+  "Absorventes",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Você deita na maca ginecológica",
+  "O médico coloca o espéculo e examina o colo",
+  "Às vezes o colo é anestesiado",
+  "O médico trata a área necessária em poucos minutos",
+  "O espéculo é retirado, e você pode se vestir"
+ ],
+ "feel": [
+  "Cólica, como a da menstruação, durante o procedimento",
+  "Às vezes calor ou frio no pé da barriga",
+  "Depois, cólicas leves por umas duas horas"
+ ],
+ "after": [
+  "Corrimento aguado ou com sangue costuma durar de 1 a 3 semanas",
+  "Sem relação sexual, absorvente interno, banheira, piscina e sauna, normalmente por cerca de 4 semanas. O prazo exato quem diz é o médico",
+  "Consulta de controle em 4 a 6 semanas"
+ ],
+ "red_flags": [
+  "Sangramento como uma menstruação forte: procure o médico com urgência",
+  "Febre acima de 38 graus, dor forte, corrimento com cheiro ruim"
+ ],
+ "faq": [
+  {
+   "q": "A ectopia sempre precisa de tratamento?",
+   "a": "Nem sempre. Se o preventivo está bom e nada incomoda, o médico pode só acompanhar."
+  },
+  {
+   "q": "Posso tratar se nunca tive filhos?",
+   "a": "Sim, hoje existem métodos delicados. O médico escolhe o mais adequado."
+  },
+  {
+   "q": "Dói?",
+   "a": "Normalmente é como uma cólica de menstruação. Dura poucos minutos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o tratamento do colo do útero. Leve os resultados do preventivo e absorventes."
+  }
+ ]
+}

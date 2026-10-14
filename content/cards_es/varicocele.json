@@ -1,0 +1,83 @@
+{
+ "title": "Cirugía de varicocele",
+ "also": [
+  "varicocele",
+  "varicocelectomía",
+  "cirugía de várices del testículo",
+  "ligadura de la vena testicular"
+ ],
+ "what": "El cirujano liga las venas dilatadas que van al testículo. La sangre empieza a salir por venas sanas.",
+ "why": "Cuando el varicocele da dolor, el testículo se hace más pequeño o hay problemas en el espermograma.",
+ "duration": "la cirugía suele durar de 30 a 60 minutos; normalmente te vas a casa el mismo día o al siguiente",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá qué hacer",
+  "Tus alergias",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si te han operado de la ingle",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, ultrasonido del escroto y a veces espermograma. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Puede ser local o general. Si es general, el anestesiólogo platicará contigo."
+  },
+  {
+   "title": "Comida",
+   "text": "Si es con anestesia general, normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa interior ajustada y ropa cómoda."
+  }
+ ],
+ "bring": [
+  "Una identificación y la orden médica",
+  "Los resultados de análisis y ultrasonido",
+  "La lista de tus medicamentos",
+  "Ropa interior ajustada"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "Te ponen la anestesia local o general",
+  "El cirujano hace un corte pequeño en la ingle o unos orificios en el abdomen",
+  "Encuentra las venas dilatadas y las liga",
+  "Cierran el corte con puntos",
+  "Después de la cirugía descansas en la habitación"
+ ],
+ "feel": [
+  "Dolor en la herida. Te dan analgésicos",
+  "Un poco de inflamación en el escroto",
+  "Después de la anestesia general, sueño"
+ ],
+ "after": [
+  "Normalmente puedes caminar el mismo día",
+  "Usa ropa interior ajustada",
+  "Sin cargar cosas pesadas ni hacer deporte por unas semanas; el médico te dirá cuánto",
+  "El espermograma de control suele hacerse en unos meses"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38",
+  "Inflamación fuerte del escroto que va en aumento",
+  "Pus o enrojecimiento en la herida"
+ ],
+ "faq": [
+  {
+   "q": "¿Mejora el espermograma después de la cirugía?",
+   "a": "Muchas veces mejora, pero no en todos. El resultado se evalúa normalmente a los 3 a 6 meses."
+  },
+  {
+   "q": "¿El varicocele puede volver?",
+   "a": "A veces pasa. Por eso el médico indica revisiones de control."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Junta tus documentos, análisis y ropa interior ajustada. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

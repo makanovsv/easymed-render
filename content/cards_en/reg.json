@@ -1,0 +1,69 @@
+{
+ "title": "Rheoencephalography (REG)",
+ "also": [
+  "rheoencephalography",
+  "REG test",
+  "cerebral blood flow test"
+ ],
+ "what": "A nurse puts sensors on your head and records a weak current through the tissues. This test is still used in some countries. From the recording, the doctor judges blood filling in the head's vessels.",
+ "why": "Sometimes ordered for headaches, dizziness, or blood pressure swings. Today a vessel ultrasound is more common. Your doctor will decide what you need.",
+ "duration": "usually 15 to 20 minutes; the report is usually ready the same day",
+ "tell_doctor": [
+  "What bothers you and for how long",
+  "What medicines you take, especially for blood pressure and blood vessels",
+  "If you had a stroke or head injury",
+  "If you have a pacemaker"
+ ],
+ "prepare": [
+  {
+   "title": "Morning",
+   "text": "On the test day, no coffee, strong tea, or smoking. They affect blood vessels."
+  },
+  {
+   "title": "Food",
+   "text": "You can usually eat, but not a big meal. Check with the clinic."
+  },
+  {
+   "title": "Hair",
+   "text": "Clean, with no styling products or hairspray."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past blood vessel tests",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You sit or lie down and rest for a few minutes",
+  "Electrodes on an elastic band are put on your head",
+  "A recording is made at rest. You need to sit quietly",
+  "Sometimes you are asked to turn or tilt your head",
+  "Sometimes a medicine is given under the tongue and another recording is made, only if your doctor decides"
+ ],
+ "feel": [
+  "It does not hurt. The current is weak and you cannot feel it",
+  "The band may press a little"
+ ],
+ "after": [
+  "You can go back to your usual day right away",
+  "The report is usually ready the same day",
+  "Go over the results with a neurologist"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Which is better, REG or a vessel ultrasound?",
+   "a": "Today a head and neck vessel ultrasound is ordered more often. It shows more. Ask your doctor what suits you."
+  },
+  {
+   "q": "Is it safe?",
+   "a": "Yes. The current is very weak, and you cannot feel it."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "REG tomorrow. In the morning, no coffee or smoking. Clean hair, no hairspray."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Eye test for glasses",
+ "also": [
+  "eye test",
+  "glasses prescription",
+  "vision test",
+  "reading glasses exam"
+ ],
+ "what": "The doctor checks your vision and finds the lenses that let you see clearly and comfortably. You get a glasses prescription.",
+ "why": "When it has become harder to see far or close, your eyes get tired, or you get headaches when reading.",
+ "duration": "usually 20 to 40 minutes; you get the prescription right away",
+ "tell_doctor": [
+  "What you need glasses for: driving, computer work, reading",
+  "If you wore glasses or contacts before",
+  "Eye conditions, diabetes, high blood pressure",
+  "Headaches and eye strain"
+ ],
+ "prepare": [
+  {
+   "title": "Contacts",
+   "text": "If you wear contact lenses, you usually take them out beforehand. Ask the clinic how many hours before."
+  },
+  {
+   "title": "Rest",
+   "text": "Try not to come right after long screen time."
+  }
+ ],
+ "bring": [
+  "Your old glasses",
+  "Your ID",
+  "Your old glasses prescription, if you have it"
+ ],
+ "steps": [
+  "A machine measures how the eye focuses, without touching it",
+  "You read a letter chart with each eye",
+  "You wear a trial frame, and lenses are swapped",
+  "You say which lenses look clearer",
+  "Close-up vision is checked, if needed",
+  "The doctor examines your eyes and writes the prescription"
+ ],
+ "feel": [
+  "The test does not hurt",
+  "Sometimes it is hard to choose which lens is better. That is normal. Just say what you see"
+ ],
+ "after": [
+  "Take the prescription to an optician",
+  "New glasses usually take a few days to get used to",
+  "If they still feel wrong after 1 to 2 weeks, go back to the doctor"
+ ],
+ "red_flags": [
+  "Vision suddenly gets worse, or you see flashes, spots, or a curtain over the eye: see an eye doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Can I buy glasses without a test?",
+   "a": "Ready-made glasses do not account for differences between your eyes and other details. It is better to have them fitted."
+  },
+  {
+   "q": "How often should I have my eyes checked?",
+   "a": "Usually every 1 to 2 years, or as your doctor says."
+  },
+  {
+   "q": "Why do I feel dizzy in new glasses?",
+   "a": "Your eyes need time to adjust. It usually takes a few days."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Eye test for glasses in 2 hours. Bring your old glasses."
+  }
+ ]
+}

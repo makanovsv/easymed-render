@@ -1,0 +1,76 @@
+{
+ "title": "Spirometry with bronchodilator",
+ "also": [
+  "spirometry with bronchodilator",
+  "bronchodilator reversibility test",
+  "pre and post spirometry",
+  "lung function test with inhaler"
+ ],
+ "what": "You breathe out hard into a tube, then inhale a medicine that opens the airways, and breathe out again. This shows if your breathing improves with the medicine.",
+ "why": "For cough, shortness of breath, or wheezing, to check for asthma and COPD, or to track treatment.",
+ "duration": "usually 30 to 40 minutes; the report is often ready right away or the same day",
+ "tell_doctor": [
+  "What inhalers and breathing medicines you use",
+  "If you recently had eye, chest, or belly surgery",
+  "If you recently had a heart attack or have heart disease",
+  "If you have a cold or a flare-up right now"
+ ],
+ "prepare": [
+  {
+   "title": "Inhalers",
+   "text": "Some inhalers are not used for several hours before the test. Do not stop them on your own. Ask your doctor in advance."
+  },
+  {
+   "title": "Smoking and coffee",
+   "text": "Do not smoke for at least a few hours before the test. No coffee or strong tea in the morning."
+  },
+  {
+   "title": "Food",
+   "text": "A light breakfast, nothing heavy for 2 hours before. No hard exercise before the test."
+  },
+  {
+   "title": "Clothing",
+   "text": "Loose clothes, with no tight belt."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your own inhalers",
+  "Past spirometry results",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You sit, and a clip is put on your nose",
+  "You seal your lips tightly around the tube",
+  "You take a deep breath in and breathe out as hard and as long as you can",
+  "You repeat this 3 times or more",
+  "You inhale the medicine from an inhaler",
+  "After 15 to 20 minutes, you repeat the breaths out"
+ ],
+ "feel": [
+  "The repeated breaths may make you dizzy or want to cough",
+  "The medicine can cause slight shaking or a fast heartbeat. It passes"
+ ],
+ "after": [
+  "You can go back to your usual day right away",
+  "Use your own inhalers as usual, unless your doctor said otherwise",
+  "The report is often ready right away"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why the medicine during the test?",
+   "a": "If breathing clearly improves after it, this helps the doctor understand the illness and how to treat it."
+  },
+  {
+   "q": "Can I use my inhaler in the morning?",
+   "a": "Do not decide on your own. Ask your doctor in advance. Some inhalers should not be used before the test."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Spirometry with bronchodilator tomorrow. Ask your doctor about your inhalers. No smoking or coffee in the morning."
+  }
+ ]
+}

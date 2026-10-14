@@ -1,0 +1,90 @@
+{
+ "title": "Artrodese da coluna",
+ "also": [
+  "artrodese",
+  "fixação da coluna",
+  "artrodese com parafusos",
+  "cirurgia de coluna com parafusos"
+ ],
+ "what": "O cirurgião une duas ou mais vértebras com parafusos e hastes, às vezes coloca um espaçador entre elas. Com o tempo, as vértebras se fundem num bloco só.",
+ "why": "Na instabilidade das vértebras, escorregamento, fratura, estreitamento forte do canal ou desvio, quando outros tratamentos não ajudaram.",
+ "duration": "a cirurgia leva normalmente de 2 a 5 horas, com internação normalmente de 3 a 7 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Osteoporose",
+  "Se você fuma. O cigarro atrapalha a fusão",
+  "Dormência, fraqueza nas pernas, problemas para urinar"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Colete",
+   "text": "Pergunte antes se vai precisar de colete depois da cirurgia. Às vezes ele é escolhido antes."
+  },
+  {
+   "title": "Casa",
+   "text": "Prepare a casa: cadeira alta, tudo o que precisa na altura da cintura, para se abaixar menos."
+  }
+ ],
+ "bring": [
+  "Ressonância, tomografia e radiografias",
+  "Documentos",
+  "Lista de remédios",
+  "O colete, se pediram para comprar",
+  "Calçado sem cadarço"
+ ],
+ "steps": [
+  "Você troca de roupa, colocam um acesso na veia e meias contra trombose",
+  "O anestesista aplica a anestesia",
+  "Você fica de barriga para baixo ou de lado",
+  "O cirurgião faz um corte e libera os nervos, se preciso",
+  "Parafusos são colocados nas vértebras e ligados por hastes",
+  "A posição é conferida no raio-X, e o corte é suturado"
+ ],
+ "feel": [
+  "As costas doem nos primeiros dias e semanas. Dão analgésico",
+  "Rigidez e dificuldade para se abaixar",
+  "A dor antiga na perna muitas vezes passa antes da dor do corte"
+ ],
+ "after": [
+  "Normalmente você levanta nos primeiros 1 a 2 dias, com acompanhamento",
+  "Não se abaixe, não torça o corpo e não pegue peso. Os prazos, o cirurgião diz",
+  "Caminhar é o melhor exercício nas primeiras semanas",
+  "As vértebras levam alguns meses para se fundir. O controle é feito por imagem"
+ ],
+ "red_flags": [
+  "Fraqueza ou dormência nova nas pernas",
+  "Você não consegue urinar, ou não segura a urina e as fezes: ligue para a emergência",
+  "Febre acima de 38 graus, pus na ferida",
+  "Dor na panturrilha, falta de ar, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A coluna vai dobrar?",
+   "a": "Na parte fundida, não, mas o resto da coluna se mexe. Muita gente quase não nota diferença."
+  },
+  {
+   "q": "Quando posso sentar e dirigir?",
+   "a": "Sentar um pouco, normalmente logo. Dirigir, quando o cirurgião liberar, muitas vezes depois de algumas semanas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia de coluna. Leve as imagens, o colete e os documentos. Comida e água, só até o horário da clínica."
+  }
+ ]
+}

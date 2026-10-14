@@ -1,0 +1,75 @@
+{
+ "title": "Vacinas antes de viajar",
+ "also": [
+  "vacinas para viagem",
+  "vacinação do viajante",
+  "vacina contra febre amarela",
+  "vacinas antes das férias"
+ ],
+ "what": "O médico escolhe as vacinas de acordo com o país para onde você vai. Para alguns países, a vacina é obrigatória para entrar.",
+ "why": "Antes de viajar para países tropicais e outros lugares onde existem doenças raras no seu país.",
+ "duration": "a consulta leva normalmente de 20 a 40 minutos, a injeção alguns segundos; vá de 4 a 8 semanas antes da viagem",
+ "tell_doctor": [
+  "Para onde vai, quando e por quanto tempo",
+  "Como vai ficar: cidade, interior, trilhas",
+  "Quais vacinas você já tomou",
+  "Doenças crônicas e remédios",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Com antecedência",
+   "text": "Vá de 1 a 2 meses antes da viagem: algumas vacinas precisam de tempo, e outras têm várias doses."
+  },
+  {
+   "title": "Exigências",
+   "text": "Confira as regras de entrada do país: às vezes é preciso o certificado de vacinação."
+  },
+  {
+   "title": "Documentos",
+   "text": "Procure a carteira de vacinação."
+  }
+ ],
+ "bring": [
+  "Documento, de preferência o passaporte",
+  "A carteira de vacinação",
+  "O roteiro e as datas da viagem"
+ ],
+ "steps": [
+  "O médico pergunta sobre a viagem e a saúde",
+  "Vê quais vacinas você já tem",
+  "Escolhe as vacinas necessárias e o calendário",
+  "Aplicam uma ou várias injeções no mesmo dia",
+  "Entregam o certificado de vacinação",
+  "Dão dicas de como se proteger na viagem"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes o braço dói por 1 a 2 dias, com fraqueza ou febre"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala",
+  "Leve o certificado na viagem",
+  "Se precisar de outra dose, não perca antes de viajar"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência",
+  "Febre e mal-estar depois da viagem: conte ao médico onde você esteve"
+ ],
+ "faq": [
+  {
+   "q": "Posso tomar as vacinas uma semana antes de viajar?",
+   "a": "Algumas sim, mas a proteção pode não ficar completa a tempo. É melhor ir antes."
+  },
+  {
+   "q": "Onde a vacina contra febre amarela é exigida?",
+   "a": "Em vários países da África e da América do Sul. Confira as regras do país e pergunte ao médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Depois de amanhã é a consulta sobre vacinas para a viagem. Leve o passaporte e a carteira de vacinação."
+  }
+ ]
+}

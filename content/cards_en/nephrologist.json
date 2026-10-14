@@ -1,0 +1,68 @@
+{
+ "title": "Nephrologist visit",
+ "also": [
+  "nephrologist",
+  "kidney doctor",
+  "kidney specialist",
+  "nephrology consultation"
+ ],
+ "what": "A doctor who treats kidney conditions and helps keep your kidneys working.",
+ "why": "For abnormal urine or blood tests, swelling, high blood pressure, kidney disease, or diabetes affecting the kidneys.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "All your medicines, including painkillers and supplements",
+  "Any swelling or changes in your urine",
+  "Blood pressure and diabetes",
+  "Kidney disease in relatives"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Bring all your urine and blood tests, especially creatinine, and your kidney ultrasound."
+  },
+  {
+   "title": "Blood pressure",
+   "text": "If you check it at home, bring your blood pressure diary."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your blood pressure diary",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms and medicines",
+  "Your blood pressure and weight are checked",
+  "Swelling is checked",
+  "Your tests and ultrasound are reviewed",
+  "Tests or treatment are ordered"
+ ],
+ "feel": [
+  "Nothing unpleasant. It is a regular checkup",
+  "You may be asked to give a urine sample the same day"
+ ],
+ "after": [
+  "Have follow-up tests on time",
+  "Best not to take painkillers or supplements without your doctor. Ask first"
+ ],
+ "red_flags": [
+  "You have almost stopped passing urine, or have severe swelling or shortness of breath: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "What tests does a nephrologist need?",
+   "a": "Usually a urine test, blood creatinine, and a kidney ultrasound. Your doctor will give the exact list."
+  },
+  {
+   "q": "Can I take painkillers with kidney disease?",
+   "a": "Not all of them. Ask your doctor which ones suit you."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Nephrologist visit tomorrow. Bring your blood and urine tests, ultrasound, and blood pressure diary."
+  }
+ ]
+}

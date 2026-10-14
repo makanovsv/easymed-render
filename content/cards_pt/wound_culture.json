@@ -1,0 +1,72 @@
+{
+ "title": "Cultura de ferida",
+ "also": [
+  "cultura de ferida",
+  "swab de ferida",
+  "cultura de secreção",
+  "cultura de pus"
+ ],
+ "what": "Colhem material da ferida com uma haste estéril. No laboratório, cultivam os micróbios e testam quais remédios funcionam contra eles.",
+ "why": "Quando a ferida demora a cicatrizar, tem pus, fica vermelha, dói, ou depois de uma cirurgia.",
+ "duration": "a coleta leva de 2 a 5 minutos, o resultado sai normalmente em 3 a 7 dias",
+ "tell_doctor": [
+  "Se toma antibiótico ou passa pomada antibiótica na ferida",
+  "Se você tem diabetes",
+  "Se tem alergia a antisséptico"
+ ],
+ "prepare": [
+  {
+   "title": "Pomadas",
+   "text": "Normalmente, antes da coleta, não se passa pomada na ferida. Pergunte ao médico quando fazer o último curativo."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "O ideal é colher antes do antibiótico. Não suspenda por conta própria. Avise o médico."
+  },
+  {
+   "title": "Curativo",
+   "text": "Não tire o curativo em casa. A enfermeira tira."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "A enfermeira tira o curativo",
+  "Lavam a ferida com soro estéril",
+  "Passam uma haste estéril no fundo da ferida",
+  "A haste vai para um tubo",
+  "Fazem um curativo novo"
+ ],
+ "feel": [
+  "Pode doer quando tocam na ferida. Avise a enfermeira",
+  "Normalmente é rápido"
+ ],
+ "after": [
+  "Cuide da ferida como o médico orientou",
+  "O resultado sai normalmente em 3 a 7 dias",
+  "Pelo resultado, o médico pode trocar o remédio"
+ ],
+ "red_flags": [
+  "A ferida fica vermelha e inchada rápido, aparecem riscas na pele ou febre: procure o médico no mesmo dia",
+  "Fraqueza forte, calafrios, confusão: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Para que a cultura, se o tratamento já começou?",
+   "a": "Ela mostra qual micróbio está na ferida e a quais remédios ele responde. Assim o tratamento fica mais certeiro."
+  },
+  {
+   "q": "Posso passar pomada antes do exame?",
+   "a": "Normalmente não. A pomada pode matar os micróbios, e a cultura não mostra nada. Confirme com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz a cultura da ferida. Não passe pomada antes do exame, salvo orientação diferente do médico."
+  }
+ ]
+}

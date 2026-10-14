@@ -1,0 +1,70 @@
+{
+ "title": "Tamiz auditivo neonatal",
+ "also": [
+  "tamiz auditivo",
+  "prueba de audición del recién nacido",
+  "emisiones otoacústicas",
+  "EOA",
+  "tamizaje auditivo"
+ ],
+ "what": "Es una prueba corta de la audición del bebé. Le ponen una puntita suave en el oído, el aparato manda sonidos suaves y registra la respuesta del oído.",
+ "why": "A todos los recién nacidos. Normalmente en el hospital en los primeros días o en el primer mes de vida.",
+ "duration": "normalmente de 5 a 10 minutos; el resultado sale de inmediato",
+ "tell_doctor": [
+  "Si en la familia hay problemas de audición desde la infancia",
+  "Si el bebé nació antes de tiempo o estuvo en terapia intensiva",
+  "Si la mamá tuvo infecciones en el embarazo",
+  "Si el bebé recibió antibióticos fuertes"
+ ],
+ "prepare": [
+  {
+   "title": "Momento",
+   "text": "Lo mejor es cuando el bebé duerme o está tranquilo. Conviene darle de comer antes de la prueba."
+  },
+  {
+   "title": "Silencio",
+   "text": "La prueba se hace en un lugar callado. El ruido y el llanto afectan el resultado."
+  }
+ ],
+ "bring": [
+  "El documento del bebé o el resumen del hospital",
+  "Un pañal y lo necesario para darle de comer"
+ ],
+ "steps": [
+  "Tienes al bebé en brazos o lo acuestan en la cuna",
+  "Le ponen una puntita pequeña y suave en el oído",
+  "El aparato manda chasquidos suaves y registra la respuesta",
+  "Hacen lo mismo con el otro oído",
+  "El aparato muestra de inmediato si pasó o si hay que repetir la prueba"
+ ],
+ "feel": [
+  "Al bebé no le duele; muchos duermen durante la prueba",
+  "Puede inquietarse un poco si se despierta"
+ ],
+ "after": [
+  "Te dicen el resultado de inmediato",
+  "Que no pase no quiere decir que no oiga. Muchas veces estorba líquido o cerilla en el oído",
+  "Si no pasa, la repiten en unas semanas o te mandan con el audiólogo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Mi bebé no pasó el tamiz. ¿Es sordo?",
+   "a": "No necesariamente. Muchas veces es por líquido después del parto o por ruido. Repiten la prueba y, si hace falta, lo ve el audiólogo."
+  },
+  {
+   "q": "¿Por qué revisar la audición tan pronto?",
+   "a": "Mientras antes se detecte una baja de audición, mejor se desarrolla el habla con ayuda."
+  },
+  {
+   "q": "¿Se puede hacer si el bebé llora?",
+   "a": "Mejor espera a que se calme. El llanto afecta al aparato."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es la prueba de audición de tu bebé. Dale de comer antes, para que esté tranquilo o dormido."
+  }
+ ]
+}

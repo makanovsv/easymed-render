@@ -1,0 +1,63 @@
+{
+ "title": "Radiografía simple de abdomen",
+ "also": [
+  "radiografía simple de abdomen",
+  "placa de abdomen",
+  "rayos X de abdomen"
+ ],
+ "what": "Es una radiografía sencilla del abdomen, sin medio de contraste. Se ven gases, líquido y algunas piedras.",
+ "why": "Con dolor fuerte de abdomen, inflamación, cuando no salen heces ni gases, si se sospecha obstrucción del intestino o un objeto tragado.",
+ "duration": "en el consultorio normalmente de 5 a 10 minutos; con dolor agudo, el médico ve la placa de inmediato",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si hace poco te hicieron un estudio con bario. Se ve en la placa",
+  "Si se tragó un objeto, di cuál y cuándo"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Normalmente no hace falta. En una urgencia, la placa se toma de inmediato."
+  },
+  {
+   "title": "Ropa",
+   "text": "Quítate joyas y cosas de metal en la zona. A veces te piden ponerte una bata."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus radiografías y ultrasonidos del abdomen anteriores, si los tienes"
+ ],
+ "steps": [
+  "Te quitas las cosas de metal y te pones una bata, si te lo piden",
+  "La placa se toma de pie o acostado, a veces de las dos formas",
+  "Tienes que aguantar la respiración un par de segundos",
+  "El técnico toma la placa y revisa que se vea todo"
+ ],
+ "feel": [
+  "No duele. La placa dura una fracción de segundo",
+  "A veces hay que aguantar un poco una posición incómoda"
+ ],
+ "after": [
+  "Lo que sigue lo decide el médico que te envió",
+  "El reporte suele estar el mismo día; en una urgencia, de inmediato"
+ ],
+ "red_flags": [
+  "Dolor de abdomen fuerte que aumenta, vómito, abdomen duro, o no salen heces ni gases: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿En la radiografía de abdomen se ven todos los órganos?",
+   "a": "No. La placa muestra sobre todo gases, líquido y objetos densos. Los órganos se ven con más detalle en ultrasonido o tomografía."
+  },
+  {
+   "q": "¿Tengo que ir en ayunas?",
+   "a": "Para la radiografía simple, normalmente no. Si tienes dudas, pregunta en la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu radiografía de abdomen. Usa ropa sin metal y lleva la orden médica."
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Consulta por menopausia",
+ "also": [
+  "menopausia",
+  "climaterio",
+  "bochornos",
+  "terapia hormonal de reemplazo",
+  "consulta de climaterio"
+ ],
+ "what": "El médico te ayuda a pasar la menopausia con más tranquilidad. Revisa los bochornos, el sueño y el ánimo, y te indica un tratamiento si hace falta.",
+ "why": "Si tienes bochornos, sudoración, insomnio, cambios de humor, resequedad vaginal o reglas irregulares después de los 40 a 45 años.",
+ "duration": "la consulta suele durar de 30 a 40 minutos; los análisis, de 1 a 7 días",
+ "tell_doctor": [
+  "Cuándo fue tu última regla",
+  "Qué te molesta más: bochornos, sueño, ánimo o resequedad",
+  "Trombos o cáncer de mama o de útero en ti o en tu familia",
+  "Presión alta, enfermedades del hígado o fracturas",
+  "Qué medicamentos y suplementos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Notas",
+   "text": "Apunta por una semana cada cuánto tienes bochornos y cómo duermes."
+  },
+  {
+   "title": "Estudios",
+   "text": "Lleva tu última mastografía, ultrasonido y análisis, si tienes."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Piensa qué quieres platicar: hormonas, huesos, peso, vida sexual."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus medicamentos y suplementos",
+  "Tu última mastografía y análisis",
+  "Tus notas de los bochornos"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus síntomas y tu salud",
+  "Te toma la presión y el peso",
+  "Hace la revisión ginecológica y de los senos",
+  "Te da órdenes: análisis, ultrasonido, mastografía y a veces densitometría",
+  "Te explica las opciones de ayuda: estilo de vida, hormonas y otros medicamentos",
+  "Juntos eligen un plan"
+ ],
+ "feel": [
+  "Normalmente nada molesto",
+  "La revisión ginecológica puede ser molesta si hay resequedad. Díselo al médico"
+ ],
+ "after": [
+  "Hazte los estudios de la lista",
+  "Si te indicaron tratamiento, el control suele ser en 2 a 3 meses",
+  "Moverte, no fumar y comer con calcio ayuda a tus huesos y a tu corazón",
+  "Revisión de senos y Papanicolaou, con regularidad"
+ ],
+ "red_flags": [
+  "Sangrado después de un año sin regla: ve al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿La terapia hormonal es peligrosa?",
+   "a": "Para muchas mujeres el beneficio es mayor que el riesgo, si se empieza a tiempo. El médico evalúa tus riesgos."
+  },
+  {
+   "q": "¿Cuánto duran los bochornos?",
+   "a": "Varía, normalmente unos años. El tratamiento ayuda a que bajen."
+  },
+  {
+   "q": "¿Necesito anticonceptivos en la menopausia?",
+   "a": "Normalmente sí, hasta que pase un año sin regla. Pregúntale al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta por menopausia. Lleva tu última mastografía, tus análisis y la lista de medicamentos."
+  }
+ ]
+}

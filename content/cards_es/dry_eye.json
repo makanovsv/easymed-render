@@ -1,0 +1,65 @@
+{
+ "title": "Estudio de ojo seco",
+ "also": [
+  "ojo seco",
+  "prueba de Schirmer",
+  "evaluación de la lágrima",
+  "síndrome de ojo seco"
+ ],
+ "what": "El médico revisa cuántas lágrimas produce el ojo y cuánto tiempo se quedan sobre su superficie.",
+ "why": "Cuando los ojos se te secan, arden, se ponen rojos, sientes arenilla o se cansan con la pantalla.",
+ "duration": "normalmente de 15 a 30 minutos; el médico te dice el resultado de inmediato",
+ "tell_doctor": [
+  "Qué gotas y medicamentos usas",
+  "Si usas lentes de contacto",
+  "Si pasas mucho tiempo frente a una pantalla o con aire acondicionado",
+  "Si te han operado de los ojos, también cirugía láser de la vista"
+ ],
+ "prepare": [
+  {
+   "title": "Gotas",
+   "text": "Pregunta en la clínica si no debes ponerte gotas lubricantes antes de la revisión."
+  },
+  {
+   "title": "Lentes de contacto y maquillaje",
+   "text": "Mejor llega sin lentes de contacto y sin maquillaje en los ojos."
+  }
+ ],
+ "bring": [
+  "La lista de tus gotas y medicamentos",
+  "Tus lentes",
+  "Una identificación"
+ ],
+ "steps": [
+  "El médico te pregunta qué molestias tienes",
+  "Te revisa los ojos con un microscopio",
+  "Puede ponerte un colorante para ver qué tan rápido se rompe la capa de lágrima",
+  "A veces ponen una tirita de papel bajo el párpado de abajo por 5 minutos",
+  "La tirita muestra cuántas lágrimas produces"
+ ],
+ "feel": [
+  "La tirita bajo el párpado da cosquillas y ganas de parpadear",
+  "El colorante puede poner tus lágrimas amarillas por un rato"
+ ],
+ "after": [
+  "Los ojos pueden llorar unos minutos",
+  "El médico te indica cuidados y gotas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué se me secan los ojos?",
+   "a": "Muchas veces por la pantalla, el aire seco, la edad, los lentes de contacto o algunos medicamentos. El médico te ayuda a encontrar la causa."
+  },
+  {
+   "q": "¿Puedo usar gotas lubricantes siempre?",
+   "a": "Muchas sí, pero mejor pregúntale al médico cuáles y cada cuánto."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu estudio de ojo seco. Si puedes, llega sin lentes de contacto y sin maquillaje en los ojos."
+  }
+ ]
+}

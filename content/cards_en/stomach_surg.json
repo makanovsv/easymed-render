@@ -1,0 +1,84 @@
+{
+ "title": "Stomach surgery",
+ "also": [
+  "gastrectomy",
+  "partial gastrectomy",
+  "stomach resection",
+  "ulcer repair surgery"
+ ],
+ "what": "The surgeon removes part or all of the stomach, or sometimes repairs an ulcer. The esophagus or bowel is joined so food can pass on.",
+ "why": "For a stomach tumor, a severe ulcer with complications, or bleeding.",
+ "duration": "surgery usually takes 2 to 5 hours, with 5 to 10 days in hospital",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners. Your doctor will say what to stop and when",
+  "Allergies to medicines, latex, or iodine",
+  "Heart or lung disease, or diabetes",
+  "If you have lost weight, and how you are eating",
+  "Smoking and alcohol"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Blood tests, an ECG, and sometimes a GP checkup. The clinic will give you a list."
+  },
+  {
+   "title": "Anesthetist",
+   "text": "Before surgery, an anesthetist will talk with you. Tell them about your health and medicines."
+  },
+  {
+   "title": "Food and water",
+   "text": "Usually no food from the night before and no drinks for a few hours. The clinic will tell you the exact time."
+  },
+  {
+   "title": "Nutrition",
+   "text": "If you have lost weight, your doctor may prescribe special nutrition before surgery."
+  }
+ ],
+ "bring": [
+  "Upper endoscopy, biopsy, CT, and test results",
+  "Documents",
+  "A list of your medicines",
+  "Things for a 1 to 2 week hospital stay"
+ ],
+ "steps": [
+  "You change, an IV line is placed, and stockings are put on to prevent clots",
+  "The anesthetist gives anesthesia",
+  "Sometimes a thin tube is passed through the nose into the stomach",
+  "The surgeon works through a cut or small openings in the belly",
+  "Part or all of the stomach is removed, and the digestive tract is joined",
+  "The wound is stitched, and drains are placed"
+ ],
+ "feel": [
+  "Belly pain. You will get painkillers",
+  "Tubes and drains are bothersome, but come out after a few days",
+  "You fill up quickly and feel less hungry"
+ ],
+ "after": [
+  "Drinking and eating start gradually, as your doctor allows",
+  "Eat small meals 5 to 6 times a day",
+  "Sometimes vitamins and B12 injections are needed. Your doctor will prescribe them",
+  "The lab results will guide further treatment"
+ ],
+ "red_flags": [
+  "Severe belly pain, or a fever over 38°C (100.4°F)",
+  "Vomiting, or you cannot drink",
+  "Vomiting blood or black stools: call emergency services",
+  "Calf pain, shortness of breath, or chest pain: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I live without a stomach?",
+   "a": "Yes. Food goes straight into the bowel. You will need to eat often, in small amounts."
+  },
+  {
+   "q": "Why do I feel weak and sweaty after eating?",
+   "a": "It happens when food moves into the bowel too fast. Small meals and less sugar help. Tell your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Stomach surgery tomorrow. Bring your test results. Eat and drink only until the time the clinic gave you."
+  }
+ ]
+}

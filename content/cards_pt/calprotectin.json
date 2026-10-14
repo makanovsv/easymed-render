@@ -1,0 +1,70 @@
+{
+ "title": "Calprotectina fecal",
+ "also": [
+  "calprotectina",
+  "calprotectina fecal",
+  "exame de fezes para inflamação"
+ ],
+ "what": "É um exame de fezes. Mostra se há inflamação no intestino.",
+ "why": "Com diarreia crônica, dor de barriga ou sangue nas fezes, para diferenciar inflamação do intestino de intestino irritável e acompanhar o tratamento.",
+ "duration": "a coleta em casa leva poucos minutos, o resultado sai normalmente em 1 a 5 dias",
+ "tell_doctor": [
+  "Se toma analgésicos e anti-inflamatórios. Eles podem aumentar o resultado",
+  "Se teve infecção intestinal há pouco tempo",
+  "Se está menstruada ou tem sangramento de hemorroida"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Pegue um frasco estéril no laboratório ou na farmácia."
+  },
+  {
+   "title": "Coleta",
+   "text": "As fezes devem ser de evacuação natural, sem lavagem e sem laxante. Urina e água não podem cair no frasco."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma. Ele decide quando é melhor fazer o exame."
+  },
+  {
+   "title": "Conservação",
+   "text": "Leve ao laboratório no prazo que informaram."
+  }
+ ],
+ "bring": [
+  "Frasco com a amostra",
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "Evacue num recipiente limpo e seco ou num saco plástico",
+  "Com a pazinha da tampa, pegue um pouco das fezes",
+  "Coloque no frasco a quantidade que o laboratório pediu",
+  "Feche bem e escreva seu nome",
+  "Leve ao laboratório"
+ ],
+ "feel": [
+  "Nada desagradável, só um pouco de constrangimento"
+ ],
+ "after": [
+  "O resultado sai normalmente em 1 a 5 dias",
+  "Calprotectina alta indica um próximo passo. Quem decide é o médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Calprotectina alta é doença grave?",
+   "a": "Não necessariamente. Ela sobe com qualquer inflamação no intestino, inclusive por infecção. A causa quem investiga é o médico."
+  },
+  {
+   "q": "Para que esse exame, se dá para fazer colonoscopia?",
+   "a": "Ele ajuda a saber se a colonoscopia é mesmo necessária. Às vezes dá para evitá-la."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você entrega o exame de calprotectina nas fezes. Separe o frasco e um recipiente ou saco limpo."
+  }
+ ]
+}

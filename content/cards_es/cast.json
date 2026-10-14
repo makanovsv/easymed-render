@@ -1,0 +1,76 @@
+{
+ "title": "Colocación de yeso",
+ "also": [
+  "yeso",
+  "férula de yeso",
+  "inmovilización con yeso",
+  "yeso sintético"
+ ],
+ "what": "Ponen en el brazo o la pierna un vendaje de yeso o de material sintético. Mantiene quieto el hueso o los ligamentos mientras sanan.",
+ "why": "Con fracturas, fisuras, esguinces fuertes o ligamentos rotos, o después de algunas cirugías.",
+ "duration": "ponerlo suele tomar de 15 a 30 minutos; normalmente se usa varias semanas, el tiempo te lo dice el médico",
+ "tell_doctor": [
+  "Diabetes o problemas de circulación",
+  "Enfermedades de la piel o heridas en esa zona",
+  "Alergias",
+  "Si estás embarazada, antes de la radiografía"
+ ],
+ "prepare": [
+  {
+   "title": "Ropa",
+   "text": "Ropa holgada por donde pase el brazo o la pierna con yeso."
+  },
+  {
+   "title": "Joyas",
+   "text": "Quítate anillos y pulseras de la mano lastimada. Se puede hinchar."
+  }
+ ],
+ "bring": [
+  "Tus documentos",
+  "Tus radiografías, si te las hicieron en otro lugar",
+  "Un pantalón ancho o una manga holgada"
+ ],
+ "steps": [
+  "Normalmente primero toman una radiografía",
+  "El médico pone el hueso o la articulación en la posición correcta",
+  "Cubren la piel con una media suave y una capa de algodón",
+  "Ponen vendas húmedas de yeso o material sintético",
+  "Alisan el vendaje con la forma del brazo o la pierna",
+  "El yeso se endurece poco a poco",
+  "Muchas veces toman una radiografía de control"
+ ],
+ "feel": [
+  "Calor cuando el yeso se endurece. Es normal",
+  "Pesadez y no poder moverlo",
+  "Los primeros días puede doler la lesión"
+ ],
+ "after": [
+  "Los primeros 1 a 2 días mantén el brazo o la pierna en alto. Así se hincha menos",
+  "No mojes el yeso: al bañarte, cúbrelo con una bolsa",
+  "No metas nada debajo del yeso, aunque dé comezón",
+  "Mueve los dedos, si se puede",
+  "Ve a revisión y radiografía en la fecha que te diga el médico"
+ ],
+ "red_flags": [
+  "Los dedos se ponen morados, blancos, fríos o adormecidos: ve al médico de inmediato o llama a emergencias",
+  "Dolor fuerte que aumenta, o el yeso aprieta mucho",
+  "Mal olor, ardor o humedad debajo del yeso",
+  "Dolor e hinchazón en la pantorrilla: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué hago si me da comezón debajo del yeso?",
+   "a": "No metas nada adentro. Puedes echar aire frío con la secadora de pelo."
+  },
+  {
+   "q": "¿Puedo pisar con la pierna enyesada?",
+   "a": "Solo si el médico lo permite. Normalmente primero se camina con muletas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto te ponen el yeso. Quítate anillos y pulseras, y lleva ropa holgada."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "Cultivo de exudado faríngeo",
+ "also": [
+  "exudado faríngeo",
+  "cultivo de garganta",
+  "cultivo faríngeo",
+  "exudado de garganta y nariz"
+ ],
+ "what": "Con un hisopo toman una muestra de la garganta. En el laboratorio la cultivan para saber qué microbios hay y qué medicamentos les hacen efecto.",
+ "why": "Con anginas frecuentes, dolor de garganta que no se quita, para un certificado médico de trabajo, o a veces para ver si eres portador de estafilococo.",
+ "duration": "la muestra toma unos segundos; el resultado suele estar en 3 a 7 días",
+ "tell_doctor": [
+  "Si tomas o tomaste hace poco antibióticos",
+  "Si usas sprays o gárgaras para la garganta",
+  "Si te dan náuseas con mucha facilidad"
+ ],
+ "prepare": [
+  {
+   "title": "Comida y bebida",
+   "text": "Normalmente la muestra se toma en ayunas, o 2 a 3 horas después de comer y beber. Pregunta en la clínica."
+  },
+  {
+   "title": "Garganta y dientes",
+   "text": "En la mañana no hagas gárgaras ni uses sprays. Normalmente se recomienda no lavarte los dientes. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "Es mejor hacer el cultivo antes de empezar antibióticos. Si ya los tomas, díselo al médico. No los dejes por tu cuenta."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te sientas y abres la boca",
+  "Te bajan la lengua con un abatelenguas",
+  "Con un hisopo estéril tocan las amígdalas y el fondo de la garganta",
+  "El hisopo se pone en un tubo con un medio especial",
+  "Si también piden muestra de la nariz, la toman con otro hisopo"
+ ],
+ "feel": [
+  "Puede darte una arcada por un segundo",
+  "Es incómodo, pero rápido"
+ ],
+ "after": [
+  "Puedes comer y beber de inmediato",
+  "El resultado suele estar en 3 a 7 días",
+  "El resultado a veces incluye qué antibióticos funcionan. El médico te lo explica"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Si encontraron estafilococo, ¿estoy enfermo?",
+   "a": "No necesariamente. Muchas personas lo tienen sin que les haga daño. El médico decide si hace falta tratamiento según tus síntomas."
+  },
+  {
+   "q": "¿Por qué tarda tanto el cultivo?",
+   "a": "Los microbios necesitan tiempo para crecer. Después todavía se prueban los medicamentos contra ellos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana te toman la muestra de garganta. En la mañana no comas, no bebas y no hagas gárgaras, salvo que la clínica te diga otra cosa."
+  }
+ ]
+}

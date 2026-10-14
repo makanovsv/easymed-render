@@ -1,0 +1,75 @@
+{
+ "title": "NIPT (teste pré-natal não invasivo)",
+ "also": [
+  "NIPT",
+  "teste pré-natal não invasivo",
+  "DNA fetal no sangue materno",
+  "sexagem fetal e triagem",
+  "teste de síndrome de Down pelo sangue"
+ ],
+ "what": "A gestante colhe sangue da veia. Nele há DNA do bebê, e com ele se avalia o risco de algumas doenças cromossômicas.",
+ "why": "Normalmente a partir de 10 semanas de gravidez, para avaliar o risco de síndrome de Down e outras alterações cromossômicas, principalmente se a triagem mostrou risco alto.",
+ "duration": "a coleta leva de 3 a 5 minutos, o resultado sai normalmente em 7 a 14 dias",
+ "tell_doctor": [
+  "A idade gestacional exata",
+  "Se a gravidez é de gêmeos ou por fertilização in vitro",
+  "Se já recebeu transfusão de sangue ou transplante",
+  "Se há doenças genéticas na família"
+ ],
+ "prepare": [
+  {
+   "title": "Idade gestacional",
+   "text": "Normalmente é feito a partir de 10 semanas. O momento exato quem diz é o médico ou a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de jejum. Confirme com a clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Ultrassom com a idade gestacional exata"
+ ],
+ "steps": [
+  "Você preenche um formulário: idade gestacional, altura, peso e dados da gravidez",
+  "Você se senta e apoia o braço",
+  "Colocam o garrote acima do cotovelo e limpam a pele",
+  "O sangue vai para um tubo especial",
+  "Retiram a agulha e colocam um algodão"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "O teste é seguro para o bebê. Só colhem sangue da mãe"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "O resultado sai normalmente em 7 a 14 dias",
+  "Se o risco for alto, o médico sugere um exame para confirmar. O NIPT não é diagnóstico definitivo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O NIPT pode fazer mal ao bebê?",
+   "a": "Não. Só colhem sangue da veia da mãe, como num exame comum."
+  },
+  {
+   "q": "Se o NIPT veio bom, posso pular o ultrassom morfológico?",
+   "a": "Não. O ultrassom mostra outra coisa: o desenvolvimento dos órgãos. Normalmente o médico pede os dois."
+  },
+  {
+   "q": "Dá para saber o sexo do bebê?",
+   "a": "Muitos testes mostram. Se você quiser saber, confirme com a clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o NIPT. Leve o ultrassom com a idade gestacional exata."
+  }
+ ]
+}

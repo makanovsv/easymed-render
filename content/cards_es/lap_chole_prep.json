@@ -1,0 +1,82 @@
+{
+ "title": "Preparación para una laparoscopia",
+ "also": [
+  "preparación para cirugía laparoscópica",
+  "qué hacer antes de una laparoscopia",
+  "antes de una cirugía de mínima invasión"
+ ],
+ "what": "Es una guía para prepararte para una cirugía por pequeños orificios en el abdomen: análisis, comida, medicamentos y cosas.",
+ "why": "Cuando te indicaron una laparoscopia, por ejemplo para quitar la vesícula, una hernia o una cirugía ginecológica.",
+ "duration": "la preparación suele tomar de unos días a 2 semanas",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y los de la diabetes. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o cinta adhesiva",
+  "Enfermedades del corazón, de los pulmones, diabetes o presión alta",
+  "Si tú o algún familiar tuvo problemas con la anestesia",
+  "Si te dio gripa o fiebre antes de la cirugía"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Análisis de sangre y orina, electrocardiograma, radiografía de tórax y a veces revisión del médico internista. Pregunta en la clínica la lista y cuánto tiempo valen los análisis."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los dejes por tu cuenta. El médico te dirá cuáles tomar el día de la cirugía y cuáles suspender un tiempo."
+  },
+  {
+   "title": "Comida y bebida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Piel",
+   "text": "Báñate el día anterior. No hace falta rasurar el vello del abdomen, si la clínica no lo pidió."
+  },
+  {
+   "title": "Fumar",
+   "text": "Mejor no fumes al menos unos días antes de la cirugía. Así respirarás mejor después de la anestesia."
+  }
+ ],
+ "bring": [
+  "La orden médica y todos los análisis",
+  "Tus documentos y la lista de medicamentos",
+  "Ropa cómoda, pantuflas y el cargador",
+  "Tus medicamentos de siempre"
+ ],
+ "steps": [
+  "Te haces los análisis y revisiones de la lista de la clínica",
+  "Llevas los resultados al cirujano",
+  "El día anterior, plática con el anestesiólogo",
+  "En la noche, cena ligera y baño",
+  "En la mañana no comes nada; solo bebes lo que te permitieron",
+  "Llegas al hospital a la hora que te dieron"
+ ],
+ "feel": [
+  "Es normal estar nervioso antes de la cirugía. Cuéntaselo al médico",
+  "Hambre el día de la cirugía, por poco tiempo"
+ ],
+ "after": [
+  "Normalmente te dejan levantarte el día de la cirugía o al siguiente",
+  "El dolor en los orificios y en el hombro por el gas se quita en unos días",
+  "Sin cargar cosas pesadas, normalmente por unas semanas; el cirujano te dirá cuánto"
+ ],
+ "red_flags": [
+  "Fiebre, tos o mocos antes de la cirugía: avisa a la clínica, la cirugía se puede cambiar de fecha"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué no puedo comer antes de la cirugía?",
+   "a": "Para que durante la anestesia no pase lo del estómago a los pulmones. Es importante para tu seguridad."
+  },
+  {
+   "q": "¿Puedo tomar mis pastillas en la mañana?",
+   "a": "Solo las que permitió el médico, con un trago de agua. Pregunta antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Después de cenar no comas; bebe solo hasta la hora que dijo la clínica. Junta tus documentos y cosas."
+  }
+ ]
+}

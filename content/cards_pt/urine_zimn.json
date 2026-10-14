@@ -1,0 +1,72 @@
+{
+ "title": "Prova de Zimnitsky (urina em 8 porções)",
+ "also": [
+  "prova de Zimnitsky",
+  "urina em 8 frascos",
+  "prova de concentração urinária"
+ ],
+ "what": "É um exame usado em alguns países. Durante 24 horas, você colhe a urina em 8 frascos separados, um a cada 3 horas. O laboratório vê como os rins concentram a urina de dia e de noite.",
+ "why": "Para ver como os rins funcionam, quando a pessoa urina muito à noite, tem inchaço ou muita sede.",
+ "duration": "a coleta leva 24 horas, o resultado sai normalmente em 1 a 2 dias",
+ "tell_doctor": [
+  "Se toma diurético. O médico diz o que fazer no dia da coleta",
+  "Se você tem diabetes",
+  "Se está menstruada"
+ ],
+ "prepare": [
+  {
+   "title": "Frascos",
+   "text": "Você precisa de 8 frascos limpos. Escreva o horário em cada um: 9h, 12h, 15h, 18h, 21h, 0h, 3h e 6h, ou como o laboratório indicar."
+  },
+  {
+   "title": "Bebida e comida",
+   "text": "Coma e beba como sempre, mas anote quanto bebeu no dia, se o médico pediu."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Sobre diuréticos, fale com o médico antes. Ele decide."
+  },
+  {
+   "title": "Despertador",
+   "text": "Coloque o despertador para as coletas da madrugada."
+  }
+ ],
+ "bring": [
+  "Os 8 frascos com urina",
+  "Anotação do que você bebeu, se pediram",
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "De manhã, por volta das 6h, urine no vaso. Essa urina não vai para o exame",
+  "Depois, a cada 3 horas, urine no frasco do horário certo",
+  "Se der vontade de novo dentro das 3 horas, urine no mesmo frasco",
+  "Se o frasco encher, use um extra e escreva o mesmo horário",
+  "A última porção é colhida às 6h da manhã seguinte",
+  "Guarde os frascos na geladeira e leve ao laboratório de manhã"
+ ],
+ "feel": [
+  "Nada desagradável, mas é preciso lembrar dos horários, inclusive à noite"
+ ],
+ "after": [
+  "O resultado sai normalmente em 1 a 2 dias",
+  "Quem explica é o seu médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "E se em algum intervalo não der vontade de urinar?",
+   "a": "Deixe esse frasco vazio e leve mesmo assim ao laboratório."
+  },
+  {
+   "q": "Preciso beber mais água de propósito?",
+   "a": "Não. Beba como sempre. Se não, o resultado fica impreciso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você começa a coleta de urina de Zimnitsky. Separe 8 frascos com os horários e coloque o despertador para a noite."
+  }
+ ]
+}

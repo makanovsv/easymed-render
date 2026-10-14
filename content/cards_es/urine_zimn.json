@@ -1,0 +1,73 @@
+{
+ "title": "Prueba de Zimnitsky (orina por porciones en 24 horas)",
+ "also": [
+  "prueba de concentración urinaria",
+  "orina de 24 horas por porciones",
+  "prueba de Zimnitsky",
+  "densidad urinaria por porciones"
+ ],
+ "what": "Durante un día recoges la orina en 8 frascos separados, uno cada 3 horas. El laboratorio ve cómo concentran la orina los riñones de día y de noche. Es una prueba común en Rusia y Kazajistán.",
+ "why": "Para revisar cómo funcionan los riñones, si orinas mucho en la noche, o con hinchazón o mucha sed.",
+ "duration": "la recolección dura 24 horas; el resultado suele estar en 1 a 2 días",
+ "tell_doctor": [
+  "Si tomas diuréticos. El médico te dirá qué hacer el día de la recolección",
+  "Si tienes diabetes",
+  "Si estás en tu regla"
+ ],
+ "prepare": [
+  {
+   "title": "Frascos",
+   "text": "Necesitas 8 frascos limpios. Escribe en cada uno la hora: 9:00, 12:00, 15:00, 18:00, 21:00, 0:00, 3:00 y 6:00, o como te diga el laboratorio."
+  },
+  {
+   "title": "Bebida y comida",
+   "text": "Come y bebe como siempre. Si el médico te lo pidió, anota cuánto líquido tomaste en el día."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Avísale antes al médico si tomas diuréticos y él decidirá."
+  },
+  {
+   "title": "Alarma",
+   "text": "Pon una alarma para las porciones de la noche."
+  }
+ ],
+ "bring": [
+  "Los 8 frascos con orina",
+  "La nota de los líquidos que tomaste, si te la pidieron",
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "En la mañana, cerca de las 6:00, orina en el inodoro. Esa orina no se usa",
+  "Después, cada 3 horas orina en el frasco con la hora que toca",
+  "Si en esas 3 horas tienes ganas otra vez, orina en el mismo frasco",
+  "Si el frasco se llena, usa uno extra y ponle la misma hora",
+  "La última porción se recoge a las 6:00 de la mañana siguiente",
+  "Guarda los frascos en el refrigerador y en la mañana llévalos al laboratorio"
+ ],
+ "feel": [
+  "Nada molesto, pero tienes que estar pendiente de la hora, también en la noche"
+ ],
+ "after": [
+  "El resultado suele estar en 1 a 2 días",
+  "Tu médico te explica el resultado"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Y si en algún horario no tuve ganas de orinar?",
+   "a": "Deja ese frasco vacío y llévalo igual al laboratorio."
+  },
+  {
+   "q": "¿Tengo que tomar más agua de lo normal?",
+   "a": "No. Toma como siempre. Si no, el resultado no será exacto."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana empiezas a recoger la orina para la prueba de Zimnitsky. Ten listos 8 frascos con su hora y una alarma para la noche."
+  }
+ ]
+}

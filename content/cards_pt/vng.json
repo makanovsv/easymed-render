@@ -1,0 +1,77 @@
+{
+ "title": "Videonistagmografia",
+ "also": [
+  "videonistagmografia",
+  "VNG",
+  "exame do labirinto",
+  "exame de tontura"
+ ],
+ "what": "O médico grava os movimentos dos olhos com óculos especiais com câmera. Pelos olhos, dá para ver como funciona o órgão do equilíbrio, no ouvido interno.",
+ "why": "Com tontura, desequilíbrio ao andar, zumbido no ouvido ou depois de pancada na cabeça, para descobrir a causa.",
+ "duration": "normalmente de 30 a 60 minutos. O laudo muitas vezes sai no mesmo dia",
+ "tell_doctor": [
+  "Quais remédios você toma, principalmente para tontura, calmantes e remédios para dormir",
+  "Se o pescoço ou as costas doem. Alguns movimentos da cabeça podem ser trocados",
+  "Se tem doença nos olhos ou enxerga mal sem óculos",
+  "Se tem furo no tímpano ou fez cirurgia no ouvido há pouco tempo"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Alguns remédios atrapalham o teste. Não suspenda por conta própria. Fale com o médico, ele decide o que pode pular e por quantos dias."
+  },
+  {
+   "title": "Comida e álcool",
+   "text": "De 1 a 2 dias antes, sem álcool. Normalmente pedem para não fazer refeição pesada de 2 a 3 horas antes, porque pode dar enjoo."
+  },
+  {
+   "title": "Rosto",
+   "text": "Vá sem maquiagem nos olhos. O rímel atrapalha a câmera."
+  },
+  {
+   "title": "Volta para casa",
+   "text": "Depois do teste, pode ficar uma leve tontura. É melhor não dirigir logo. Vá com acompanhante."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos anteriores do otorrino e do neurologista",
+  "Lista dos seus remédios"
+ ],
+ "steps": [
+  "Você se senta numa cadeira, e colocam os óculos com câmeras",
+  "Primeiro pedem para seguir com os olhos um ponto na tela",
+  "Depois mudam a posição da cabeça e do corpo: deitado, de lado, com giros",
+  "Às vezes colocam ar ou água morna e fria no ouvido, para testar cada ouvido",
+  "O médico vê a gravação dos olhos no monitor"
+ ],
+ "feel": [
+  "Não dói",
+  "Em alguns testes, dá tontura e pode dar enjoo. Isso é esperado e passa rápido",
+  "Avise o médico se passar muito mal. Ele faz uma pausa"
+ ],
+ "after": [
+  "Fique sentado de 10 a 15 minutos, até a tontura passar",
+  "Você pode seguir o dia normalmente",
+  "O laudo muitas vezes sai na hora, às vezes em 1 a 2 dias"
+ ],
+ "red_flags": [
+  "Dor de cabeça forte, visão dupla, fraqueza no braço ou na perna, fala enrolada: ligue na hora para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que dá tontura durante o teste?",
+   "a": "Alguns testes provocam de propósito uma tontura curta. Assim o médico vê como o órgão do equilíbrio reage."
+  },
+  {
+   "q": "Posso tomar remédio para tontura antes do exame?",
+   "a": "Ele pode alterar o resultado. Avise o médico antes. Ele decide se precisa de pausa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a videonistagmografia. Sem maquiagem nos olhos, sem refeição pesada 2 a 3 horas antes, e vá com um acompanhante."
+  }
+ ]
+}

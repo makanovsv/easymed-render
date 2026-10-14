@@ -1,0 +1,73 @@
+{
+ "title": "Extração de dente de leite",
+ "also": [
+  "tirar dente de leite",
+  "extrair dente de leite",
+  "extração de dente em criança"
+ ],
+ "what": "O odontopediatra tira o dente de leite com cuidado, com anestesia local. Normalmente é rápido.",
+ "why": "Quando o dente de leite está mole e atrapalha o permanente a nascer, ou está muito destruído ou inflamado e não dá para tratar.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Doenças e alergias da criança, principalmente a anestésicos",
+  "Se a criança fica roxa com facilidade ou sangra muito tempo",
+  "Remédios que a criança toma",
+  "Se a criança tem medo. O dentista escolhe a melhor abordagem"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Alimente a criança de 1 a 2 horas antes. Depois da extração, não pode comer por 2 horas."
+  },
+  {
+   "title": "Conversa",
+   "text": "Diga para a criança, com calma, que o dentista vai ajudar o dentinho. Não assuste e não prometa que não vai doer nada."
+  },
+  {
+   "title": "Saúde",
+   "text": "Se a criança tiver febre ou resfriado, ligue para a clínica. A consulta pode ser adiada."
+  }
+ ],
+ "bring": [
+  "Documento da criança",
+  "Brinquedo preferido"
+ ],
+ "steps": [
+  "O dentista examina o dente e às vezes faz uma radiografia",
+  "Passam um gel anestésico na gengiva",
+  "Aplicam a anestesia",
+  "Quando a gengiva fica dormente, o dente é tirado",
+  "Colocam uma gaze no local, e a criança precisa morder"
+ ],
+ "feel": [
+  "A picada é um beliscão rápido, depois do gel",
+  "Depois, o lábio e a bochecha ficam dormentes por 1 a 3 horas",
+  "Na extração, pressão, mas não dor"
+ ],
+ "after": [
+  "Mantenha a gaze mordida de 15 a 20 minutos",
+  "Por 2 horas, não coma, até passar a dormência",
+  "Cuide para a criança não morder o lábio ou a bochecha dormentes",
+  "No dia da extração, nada quente, sem bochechos, e não mexa no local"
+ ],
+ "red_flags": [
+  "O sangue no local não para uma hora depois de morder a gaze",
+  "Bochecha inchada, febre, dor forte depois de 1 a 2 dias"
+ ],
+ "faq": [
+  {
+   "q": "Quando o dente permanente vai nascer?",
+   "a": "Varia: às vezes em algumas semanas, às vezes mais tarde. Se o dente foi tirado cedo, o dentista pode sugerir um aparelho para manter o espaço."
+  },
+  {
+   "q": "Posso tirar em casa o dente que está mole?",
+   "a": "Se o dente está muito mole e quase caindo, às vezes ele cai sozinho. Se a gengiva dói ou está inflamada, vá ao dentista."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a extração do dente da criança. Alimente antes. Por 2 horas depois da extração, não pode comer."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Cirurgia de unha encravada",
+ "also": [
+  "unha encravada",
+  "retirada de unha encravada",
+  "cantoplastia",
+  "cirurgia de unha"
+ ],
+ "what": "O médico retira a borda da unha que entrou na pele do dedo. Normalmente é feito com anestesia local.",
+ "why": "Quando a borda da unha entra na pele, dói, fica vermelha, infecciona ou a unha volta a encravar.",
+ "duration": "o procedimento em si leva normalmente de 20 a 40 minutos. A cicatrização leva normalmente de 2 a 4 semanas",
+ "tell_doctor": [
+  "Diabetes e problemas de circulação nas pernas",
+  "Remédios que afinam o sangue. Não suspenda por conta própria, o médico decide",
+  "Alergia a anestésicos, antibióticos, iodo",
+  "Se a unha já foi operada antes",
+  "Gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Pés",
+   "text": "Lave os pés e tire o esmalte das unhas."
+  },
+  {
+   "title": "Calçado",
+   "text": "Leve um calçado folgado e aberto. Depois do procedimento, vai ter curativo."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de preparo especial. Pode comer."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Calçado folgado ou chinelo largo",
+  "Meias para trocar"
+ ],
+ "steps": [
+  "O médico examina o dedo",
+  "Limpam a pele com antisséptico",
+  "Aplicam a anestesia na base do dedo",
+  "Quando o dedo fica dormente, o médico retira a borda encravada da unha",
+  "Às vezes tratam a raiz, para essa borda não crescer mais",
+  "Fazem um curativo"
+ ],
+ "feel": [
+  "A injeção de anestesia é desagradável e arde por alguns segundos",
+  "Depois, o dedo fica dormente, e você sente só o toque",
+  "Quando a anestesia passa, o dedo dói. Ajuda o analgésico que o médico indicar"
+ ],
+ "after": [
+  "No primeiro dia, é melhor ficar mais deitado, com o pé elevado",
+  "Curativos, como o médico orientar, em casa ou na clínica",
+  "Por alguns dias, use calçado folgado",
+  "Não molhe o curativo até o médico liberar"
+ ],
+ "red_flags": [
+  "O dedo fica muito vermelho, inchado, e sai pus da ferida",
+  "Febre acima de 38 graus",
+  "O sangue encharca o curativo e não para"
+ ],
+ "faq": [
+  {
+   "q": "A unha vai crescer de novo?",
+   "a": "Sim, normalmente a unha cresce, só que um pouco mais estreita. A borda que encravou, na maioria das vezes, não encrava mais."
+  },
+  {
+   "q": "Posso ir trabalhar no dia seguinte?",
+   "a": "Se o trabalho é sentado, normalmente sim. Se fica o dia todo em pé, pergunte ao médico sobre alguns dias de repouso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia da unha encravada. Tire o esmalte e separe um calçado folgado."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Ecocardiograma transesofágico",
+ "also": [
+  "ecocardiograma transesofágico",
+  "ETE",
+  "eco transesofágico",
+  "ultrasonido del corazón por el esófago"
+ ],
+ "what": "El médico revisa el corazón con ultrasonido desde adentro, con un transductor delgado que se traga hasta el esófago. Así el corazón se ve mucho mejor que a través del pecho.",
+ "why": "Para descartar coágulos en el corazón antes de corregir el ritmo, para ver las válvulas en detalle, o si se sospecha una infección en las válvulas.",
+ "duration": "el procedimiento suele durar de 15 a 30 minutos, más la preparación y el descanso; el reporte suele estar el mismo día",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. El médico te dirá qué hacer con ellos",
+  "Enfermedades del esófago o del estómago, o dificultad para tragar",
+  "Alergias, sobre todo a anestésicos",
+  "Si usas dentadura postiza o placas removibles",
+  "Si quieres sedación. Normalmente se platica antes"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes 6 horas antes y no bebes de 2 a 4 horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Pregunta al médico qué medicamentos de la mañana tomar y con qué."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Si habrá sedación, ve con un acompañante. Después no puedes manejar."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus ecocardiogramas y electrocardiogramas anteriores",
+  "La lista de tus medicamentos",
+  "Un acompañante, si habrá sedación"
+ ],
+ "steps": [
+  "Te quitas la dentadura postiza y te ponen un catéter en la vena",
+  "Te echan en la garganta un spray que la adormece",
+  "Te acuestas sobre el lado izquierdo con una boquilla de plástico en la boca",
+  "Si hay sedación, te ponen el medicamento y te adormeces",
+  "El médico mete el transductor por la boca y te pide tragar",
+  "El transductor queda unos minutos en el esófago mientras el médico revisa el corazón",
+  "Retiran el transductor"
+ ],
+ "feel": [
+  "La garganta se adormece con el spray y se siente raro tragar",
+  "Tragar el transductor es molesto y puede dar arcadas. Respirar parejo ayuda",
+  "Con sedación, normalmente casi no recuerdas nada"
+ ],
+ "after": [
+  "No comas ni bebas de 1 a 2 horas, hasta que se quite lo adormecido de la garganta",
+  "La garganta puede arder un poco uno o dos días",
+  "Después de la sedación no manejes el resto del día",
+  "El reporte suele estar el mismo día"
+ ],
+ "red_flags": [
+  "Dolor fuerte de garganta o de pecho, o sangre al toser o vomitar: ve al médico de inmediato o llama a emergencias",
+  "Dificultad para tragar o fiebre en los días siguientes"
+ ],
+ "faq": [
+  {
+   "q": "¿Me lo pueden hacer dormido?",
+   "a": "Muchas veces sí, con una sedación ligera. Pregunta antes en la clínica."
+  },
+  {
+   "q": "¿Es como una endoscopia?",
+   "a": "Se parece: también se traga un tubo. Pero el transductor es más delgado y solo llega al esófago."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu ecocardiograma transesofágico. No comas ni bebas desde la hora que te dijo la clínica. Lleva la lista de tus medicamentos."
+  }
+ ]
+}

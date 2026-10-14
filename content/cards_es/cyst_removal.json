@@ -1,0 +1,76 @@
+{
+ "title": "Retiro de quiste sebáceo",
+ "also": [
+  "quiste sebáceo",
+  "quiste epidérmico",
+  "quitar un quiste de la piel",
+  "bolita debajo de la piel"
+ ],
+ "what": "Un quiste sebáceo es una bolsita debajo de la piel con contenido espeso. El cirujano lo quita completo, con su cápsula, con anestesia local.",
+ "why": "Cuando el quiste crece, estorba, se inflama o se ve en la cara o el cuello.",
+ "duration": "el procedimiento suele durar de 20 a 40 minutos; los puntos se quitan normalmente en 7 a 10 días",
+ "tell_doctor": [
+  "Si el quiste ahora está inflamado, duele o tiene pus",
+  "Medicamentos que hacen la sangre más líquida. No los dejes por tu cuenta, lo decide el médico",
+  "Alergia a anestésicos o antisépticos",
+  "Diabetes",
+  "Tendencia a cicatrices queloides"
+ ],
+ "prepare": [
+  {
+   "title": "No lo toques",
+   "text": "No te exprimas el quiste. Se puede inflamar."
+  },
+  {
+   "title": "Cabello",
+   "text": "Si el quiste está en la cabeza, lávate el cabello la noche anterior."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta preparación especial. Puedes comer."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tu ultrasonido, si te lo hiciste"
+ ],
+ "steps": [
+  "El cirujano revisa la bolita",
+  "Limpian la piel con antiséptico",
+  "Ponen una inyección de anestesia",
+  "Hacen una herida pequeña y quitan el quiste con su cápsula",
+  "Ponen puntos y un vendaje",
+  "A veces mandan el tejido a analizar"
+ ],
+ "feel": [
+  "La inyección de anestesia arde unos segundos",
+  "Al quitarlo se siente presión y jalones, sin dolor",
+  "Después, la zona duele 1 a 2 días"
+ ],
+ "after": [
+  "Mantén el vendaje seco, como te diga el cirujano",
+  "Curaciones y retiro de puntos en los días indicados",
+  "El análisis del tejido suele estar en 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Dolor fuerte, hinchazón o pus en la herida",
+  "Fiebre de más de 38",
+  "La sangre empapa el vendaje y no para"
+ ],
+ "faq": [
+  {
+   "q": "¿El quiste puede volver a salir?",
+   "a": "Si se quitó completo con su cápsula, normalmente no. Por eso se quita cuando no está muy inflamado."
+  },
+  {
+   "q": "¿Por qué no lo quitan de una vez si está inflamado?",
+   "a": "Con inflamación, primero se trata la inflamación o se drena el pus. El quiste se quita después."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te quitan el quiste. No te lo exprimas y lleva una identificación y tu ultrasonido, si lo tienes."
+  }
+ ]
+}

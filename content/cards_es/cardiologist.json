@@ -1,0 +1,75 @@
+{
+ "title": "Consulta con el cardiólogo",
+ "also": [
+  "cardiólogo",
+  "consulta de cardiología",
+  "médico del corazón",
+  "revisión del corazón"
+ ],
+ "what": "El médico te pregunta cómo te sientes, escucha tu corazón y te toma la presión. Si hace falta, pide un electrocardiograma, un ecocardiograma u otros estudios.",
+ "why": "Si tienes dolor en el pecho, falta de aire, el corazón late raro, presión alta o piernas hinchadas, o para una revisión antes de una cirugía.",
+ "duration": "normalmente de 20 a 40 minutos; las recomendaciones te las dan de inmediato",
+ "tell_doctor": [
+  "Qué te molesta, cuándo y con qué esfuerzo",
+  "Todos tus medicamentos y sus dosis",
+  "Las cifras de presión, si te la tomas en casa",
+  "Enfermedades del corazón en tu familia",
+  "Si fumas"
+ ],
+ "prepare": [
+  {
+   "title": "Diario de presión",
+   "text": "Si tienes baumanómetro, apunta tu presión en la mañana y en la noche por 3 a 7 días."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Tómalos como siempre. No los dejes por tu cuenta antes de la consulta."
+  },
+  {
+   "title": "Antes de la consulta",
+   "text": "No tomes café cargado ni fumes una hora antes. Cambia la presión y el pulso."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus medicamentos o las cajas",
+  "Electrocardiogramas, ecocardiogramas y análisis anteriores",
+  "Tu diario de presión"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias y tu salud",
+  "Te toma la presión y el pulso",
+  "Escucha tu corazón y tus pulmones",
+  "Revisa si tienes las piernas hinchadas",
+  "Muchas veces te hacen un electrocardiograma en la misma consulta",
+  "El médico te explica qué sigue"
+ ],
+ "feel": [
+  "La consulta no duele"
+ ],
+ "after": [
+  "Hazte los análisis y estudios que pidió el médico",
+  "Toma tus medicamentos como te indicó el médico",
+  "Regresa a consulta con los resultados"
+ ],
+ "red_flags": [
+  "Dolor fuerte y opresivo en el pecho por más de 15 minutos: llama a emergencias",
+  "Falta de aire fuerte y repentina, o te desmayas: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Tengo que ir en ayunas?",
+   "a": "Normalmente no. Pero si ese mismo día te harán análisis de sangre, pregunta en la clínica."
+  },
+  {
+   "q": "¿Me tomo las pastillas de la presión en la mañana antes de la consulta?",
+   "a": "Sí, como siempre, si el médico no te dijo otra cosa. Así ve cómo funciona el tratamiento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta con el cardiólogo. Lleva la lista de medicamentos, tus electrocardiogramas anteriores y tu diario de presión."
+  }
+ ]
+}

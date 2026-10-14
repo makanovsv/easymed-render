@@ -1,0 +1,77 @@
+{
+ "title": "Dietitian visit",
+ "also": [
+  "dietitian",
+  "nutritionist",
+  "nutrition counseling",
+  "diet plan"
+ ],
+ "what": "A dietitian looks at how you eat and helps build a diet that suits your health. It is a conversation and some calculations, with no procedures.",
+ "why": "For overweight or underweight, diabetes, stomach, kidney, or heart conditions, pregnancy, or just to improve your diet.",
+ "duration": "the first visit usually takes 30 to 60 minutes; follow-ups are shorter",
+ "tell_doctor": [
+  "Your conditions and medicines",
+  "Food allergies and intolerances",
+  "How your weight has changed recently",
+  "Past diets and how they went",
+  "If you are pregnant or breastfeeding"
+ ],
+ "prepare": [
+  {
+   "title": "Food diary",
+   "text": "For 3 to 7 days before the visit, write down everything you eat and drink, and when."
+  },
+  {
+   "title": "Tests",
+   "text": "Bring recent blood tests, if you have them. New ones may be ordered."
+  },
+  {
+   "title": "Your goal",
+   "text": "Think about what you want: lose weight, feel better, or eat right for a condition."
+  }
+ ],
+ "bring": [
+  "Your food diary",
+  "Test results",
+  "A list of your medicines",
+  "Your ID"
+ ],
+ "steps": [
+  "The dietitian asks about your health, routine, and habits",
+  "Your height and weight are measured, sometimes your waist",
+  "Sometimes body composition is measured on special scales",
+  "Your food diary is reviewed",
+  "Together you make a plan: what to change, little by little",
+  "A follow-up visit is booked"
+ ],
+ "feel": [
+  "It is a regular conversation, with nothing unpleasant",
+  "Advice is usually gradual, without harsh bans"
+ ],
+ "after": [
+  "Change your diet gradually, as agreed",
+  "Keep up the food diary, if asked",
+  "The plan is adjusted at the follow-up"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "How is a dietitian different from a nutritionist?",
+   "a": "Here, a dietitian is a doctor with medical training. They can work with medical conditions and order tests."
+  },
+  {
+   "q": "Will I get a ready-made menu?",
+   "a": "Often you get a sample menu or rules. It works better when the diet fits your habits."
+  },
+  {
+   "q": "Do I need to fast before the visit?",
+   "a": "No. If fasting blood tests are ordered, you will be told separately."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Dietitian visit tomorrow. Bring your food diary and test results."
+  }
+ ]
+}

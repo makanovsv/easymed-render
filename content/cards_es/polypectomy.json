@@ -1,0 +1,78 @@
+{
+ "title": "Extirpación de pólipos en la colonoscopia",
+ "also": [
+  "polipectomía",
+  "quitar pólipos",
+  "polipectomía endoscópica",
+  "extirpación de pólipo de colon"
+ ],
+ "what": "Un pólipo es un pequeño crecimiento en la pared del intestino. Durante la colonoscopia, el médico lo quita con un asa o una pinza por el mismo tubo.",
+ "why": "Si en la colonoscopia encontraron un pólipo. Algunos pólipos con el tiempo pueden volverse malignos, por eso se quitan antes.",
+ "duration": "normalmente agrega de 5 a 20 minutos a la colonoscopia; el análisis del pólipo suele tardar 1 a 2 semanas",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. A veces se cambian antes; lo decide el médico",
+  "Si tienes marcapasos",
+  "Diabetes",
+  "Si antes te quitaron pólipos. Lleva los reportes"
+ ],
+ "prepare": [
+  {
+   "title": "Como para la colonoscopia",
+   "text": "Dieta sin fibra de 2 a 3 días y limpieza del intestino con la solución, según el esquema del médico."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico todos tus medicamentos y él decidirá qué cambiar y cuándo."
+  },
+  {
+   "title": "Sedación",
+   "text": "Si el procedimiento es dormido, necesitas un acompañante."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus reportes de colonoscopia anteriores",
+  "La lista de tus medicamentos",
+  "Un acompañante, si es con sedación"
+ ],
+ "steps": [
+  "La colonoscopia se hace como siempre",
+  "El médico encuentra el pólipo y lo revisa",
+  "Por el tubo pasan un asa delgada o una pinza",
+  "Separan el pólipo de la pared y a veces cauterizan el lugar",
+  "A veces ponen un clip pequeño en el lugar",
+  "Sacan el pólipo y lo mandan a analizar"
+ ],
+ "feel": [
+  "Normalmente no se siente cuando lo quitan: la pared del intestino no tiene nervios de dolor",
+  "Inflamación por el aire, como después de una colonoscopia"
+ ],
+ "after": [
+  "Normalmente 1 a 2 días de comida ligera y sin alcohol. Pregunta al médico",
+  "Unos días sin cargar cosas pesadas y sin deporte intenso, si el médico lo indicó",
+  "En los primeros días puede haber un poco de sangre en las heces",
+  "El clip sale solo, no hay que buscarlo",
+  "El médico te dirá cuándo la siguiente colonoscopia, según el análisis"
+ ],
+ "red_flags": [
+  "Mucha sangre por el recto o coágulos: llama a emergencias",
+  "Dolor de abdomen fuerte que aumenta: llama a emergencias",
+  "Fiebre de más de 38, debilidad o mareo: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Un pólipo es cáncer?",
+   "a": "Casi siempre no. El análisis mostrará qué era. Se quita justamente para que no cambie."
+  },
+  {
+   "q": "¿Puede volver a crecer?",
+   "a": "Pueden salir pólipos nuevos. Por eso el médico pide una colonoscopia de control después de cierto tiempo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu colonoscopia con extirpación de pólipo. Hoy solo líquidos claros y la solución según el médico."
+  }
+ ]
+}

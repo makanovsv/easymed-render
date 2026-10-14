@@ -1,0 +1,82 @@
+{
+ "title": "Leg angiogram",
+ "also": [
+  "peripheral angiogram",
+  "leg angiography",
+  "lower limb angiogram",
+  "angiogram with angioplasty"
+ ],
+ "what": "The doctor passes a thin tube into an artery and injects contrast dye. X-rays show where the leg arteries are narrowed. Sometimes they are widened during the same procedure.",
+ "why": "For leg pain when walking, slow-healing wounds on the feet, or if an ultrasound showed narrowed arteries.",
+ "duration": "the procedure usually takes 30 to 90 minutes, followed by a few hours of bed rest; usually up to 1 to 2 days in hospital",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners and diabetes medicines. Your doctor will say what to stop and when",
+  "Allergy to iodine or contrast dye",
+  "Kidney disease",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Blood tests, including kidney function, and an ECG. The clinic will give you a list."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no food for a few hours before. The clinic will tell you the exact time."
+  },
+  {
+   "title": "Skin prep",
+   "text": "Sometimes you are asked to shave the groin. Check with the clinic."
+  },
+  {
+   "title": "Things to pack",
+   "text": "Comfortable clothes, your daily medicines, and a charger."
+  }
+ ],
+ "bring": [
+  "Your referral and vascular ultrasound results",
+  "Test results",
+  "Documents and a list of your medicines",
+  "Someone to take you home"
+ ],
+ "steps": [
+  "An IV line is placed, and you lie on the table",
+  "The skin in the groin or arm is numbed with a shot",
+  "The doctor passes a thin tube into the artery",
+  "Contrast dye is injected, and X-rays are taken",
+  "If needed, the vessel is widened right away with a balloon or a stent",
+  "The tube is removed, and the puncture site is pressed firmly or closed with a special device"
+ ],
+ "feel": [
+  "The numbing shot",
+  "A warm feeling in the legs for a few seconds as the dye goes in",
+  "Usually no pain from the tube inside the vessel"
+ ],
+ "after": [
+  "Lie still for a few hours without bending your leg. Your doctor will say how long",
+  "Drink more water to help the dye leave your body",
+  "No heavy lifting or sports for a few days",
+  "A small bruise at the puncture site is common"
+ ],
+ "red_flags": [
+  "The puncture site swells or bleeds: press on it and call emergency services",
+  "The leg turns cold, pale, or numb: call emergency services",
+  "A fever over 38°C (100.4°F)"
+ ],
+ "faq": [
+  {
+   "q": "Do I need general anesthesia?",
+   "a": "Usually not. Local numbing is used, sometimes with a sedative."
+  },
+  {
+   "q": "Why can't I bend my leg afterward?",
+   "a": "So the puncture in the artery seals properly and does not bleed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Angiogram tomorrow. Pack your documents and test results. Eat only until the time the clinic gave you."
+  }
+ ]
+}

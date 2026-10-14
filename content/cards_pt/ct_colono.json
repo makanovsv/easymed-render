@@ -1,0 +1,77 @@
+{
+ "title": "Colonoscopia virtual",
+ "also": [
+  "colonografia por tomografia",
+  "colonoscopia virtual",
+  "tomografia do intestino"
+ ],
+ "what": "São imagens do intestino grosso feitas no tomógrafo. O intestino é inflado um pouco com ar, sem tubo com câmera.",
+ "why": "Para procurar pólipos quando a colonoscopia comum não é possível ou não foi até o fim, ou quando o médico decide.",
+ "duration": "na sala, normalmente de 15 a 20 minutos, mais o preparo na véspera. O laudo sai em 1 a 2 dias",
+ "tell_doctor": [
+  "Remédios que afinam o sangue e remédios com ferro",
+  "Diabetes: o preparo e os remédios vão precisar de ajuste",
+  "Alergia a iodo ou contraste, doença nos rins",
+  "Se você está grávida ou pode estar",
+  "Cirurgias recentes no intestino"
+ ],
+ "prepare": [
+  {
+   "title": "1 a 2 dias antes",
+   "text": "Dieta sem fibras: sem verduras, frutas, sementes, castanhas e feijões. Confirme o esquema com a clínica."
+  },
+  {
+   "title": "Limpeza",
+   "text": "Na véspera, você toma o preparo para limpar o intestino, conforme o esquema do médico. Muitas vezes acrescentam um contraste especial para marcar as fezes."
+  },
+  {
+   "title": "No dia do exame",
+   "text": "Normalmente sem comer. Líquidos claros, conforme a orientação da clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Fale com o médico, ele decide."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos de colonoscopias anteriores",
+  "Lista dos seus remédios"
+ ],
+ "steps": [
+  "Você se deita de lado",
+  "Colocam um tubinho fino e macio no ânus",
+  "Por ele, mandam ar ou gás carbônico para abrir o intestino",
+  "Às vezes aplicam um remédio na veia para relaxar o intestino",
+  "Fazem imagens deitado de barriga para cima e para baixo. É preciso segurar a respiração",
+  "Retiram o tubinho"
+ ],
+ "feel": [
+  "Sensação de estufamento e cólicas enquanto entra o gás",
+  "Não dói, e a sensação passa rápido depois do exame"
+ ],
+ "after": [
+  "Os gases saem em até uma hora. É normal",
+  "Você pode comer normalmente",
+  "Se acharem pólipos, normalmente o médico pede uma colonoscopia comum para retirá-los"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, barriga dura, febre ou sangramento pelo ânus: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso não fazer a limpeza do intestino?",
+   "a": "Não. Restos de fezes podem esconder um pólipo ou parecer um."
+  },
+  {
+   "q": "Isso substitui a colonoscopia comum?",
+   "a": "Nem sempre. Na tomografia não dá para tirar o pólipo nem fazer biópsia. Quem escolhe é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a colonoscopia virtual. Hoje, siga o esquema: dieta e limpeza do intestino."
+  }
+ ]
+}

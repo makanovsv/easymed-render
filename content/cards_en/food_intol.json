@@ -1,0 +1,66 @@
+{
+ "title": "Food intolerance test",
+ "also": [
+  "food intolerance test",
+  "IgG food test",
+  "food sensitivity test",
+  "food panel"
+ ],
+ "what": "This is a blood test from a vein. The lab checks how your immune system reacts to different foods.",
+ "why": "Usually at the patient's own request, for bloating, tiredness, or skin problems. Doctors are cautious about this test.",
+ "duration": "the blood draw takes 3 to 5 minutes; results usually come in 3 to 10 days",
+ "tell_doctor": [
+  "If you take steroids or medicines that weaken the immune system",
+  "If you already have a confirmed food allergy",
+  "What symptoms you have and after which foods"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually fasting, or a few hours after a meal. Check with the lab."
+  },
+  {
+   "title": "Diet",
+   "text": "Do not cut foods out before the test. Otherwise the result will not be accurate."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow, and the skin is wiped",
+  "Blood is drawn into a tube",
+  "The needle comes out, and a cotton pad is pressed on"
+ ],
+ "feel": [
+  "A quick prick, like a pinch"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Results usually come in 3 to 10 days",
+  "Do not cut foods from your diet based on this test alone. Discuss the result with your doctor"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "How is this different from an allergy test?",
+   "a": "An allergy test looks for other antibodies linked to real reactions. This test often just shows what you eat often."
+  },
+  {
+   "q": "Can I go on a diet based on the result?",
+   "a": "Not on your own. You could miss out on foods you need. Better to discuss a diet with your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Food intolerance test tomorrow. Eat as usual and check if you need to come fasting."
+  }
+ ]
+}

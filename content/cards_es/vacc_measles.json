@@ -1,0 +1,79 @@
+{
+ "title": "Vacuna triple viral (sarampión)",
+ "also": [
+  "triple viral",
+  "SRP",
+  "vacuna contra el sarampión",
+  "sarampión, rubéola y paperas",
+  "vacuna de las paperas"
+ ],
+ "what": "Es una inyección de vacuna contra tres enfermedades a la vez: sarampión, rubéola y paperas. A los niños normalmente se les pone dos veces.",
+ "why": "A los niños según el calendario: normalmente al año y otra dosis más adelante, según el país. A adultos sin dos dosis, si lo recomienda el médico.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Si tu hijo ahora está enfermo o tiene fiebre",
+  "Reacciones fuertes a vacunas anteriores",
+  "Enfermedades del sistema inmune o tratamientos que lo debilitan",
+  "Si hace poco le pusieron productos de sangre",
+  "Si estás embarazada o planeas un embarazo"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando tu hijo está sano. Antes de la inyección lo revisan."
+  },
+  {
+   "title": "Tu hijo",
+   "text": "Lleva su juguete favorito para distraerlo."
+  },
+  {
+   "title": "Embarazo",
+   "text": "Mujeres adultas: es mejor esperar un mes después de la vacuna para embarazarse."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico pregunta cómo está tu hijo y toma la temperatura",
+  "Cargas a tu hijo en brazos",
+  "Limpian la piel y ponen la inyección en el brazo o el muslo",
+  "Anotan la vacuna en la cartilla",
+  "Después de la inyección, quédense en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un piquete breve; tu hijo puede llorar un poco",
+  "A veces, de 5 a 12 días después, hay un poco de fiebre o ronchitas. Es una reacción a la vacuna",
+  "A veces se inflaman un poco las mejillas o el cuello"
+ ],
+ "after": [
+  "Quédense 30 minutos cerca del consultorio",
+  "Las ronchitas después de la vacuna no contagian",
+  "La segunda dosis, según el calendario"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o salen ronchas por todo el cuerpo: llama a emergencias",
+  "Convulsiones con fiebre: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué le dio fiebre una semana después?",
+   "a": "Es una vacuna de virus vivo debilitado, y la respuesta puede llegar más tarde. Normalmente se quita en 1 o 2 días."
+  },
+  {
+   "q": "¿Es cierto que esta vacuna causa autismo?",
+   "a": "No. Estudios grandes no lo confirmaron."
+  },
+  {
+   "q": "¿Los adultos necesitan vacunarse?",
+   "a": "Si no tienes dos dosis o no lo sabes, pregúntale al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna triple viral. Tu hijo debe estar sano. Lleva la cartilla de vacunación."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Consulta com nefrologista",
+ "also": [
+  "nefrologista",
+  "médico dos rins",
+  "consulta de nefrologia"
+ ],
+ "what": "É o médico que trata as doenças dos rins e ajuda a preservar o funcionamento deles.",
+ "why": "Com alterações nos exames de urina ou de sangue, inchaço, pressão alta, doenças dos rins, diabetes que afetou os rins.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Todos os remédios, inclusive analgésicos e suplementos",
+  "Se há inchaço, mudanças na urina",
+  "Pressão, diabetes",
+  "Doenças dos rins na família"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Leve todos os exames de urina e de sangue, principalmente a creatinina, e o ultrassom dos rins."
+  },
+  {
+   "title": "Pressão",
+   "text": "Se você mede em casa, leve o diário da pressão."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "O diário da pressão",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas e os remédios",
+  "Mede a pressão e o peso",
+  "Verifica se há inchaço",
+  "Analisa os exames e o ultrassom",
+  "Pede exames ou indica o tratamento"
+ ],
+ "feel": [
+  "Nada desagradável. É um exame comum",
+  "O médico pode pedir exame de urina no mesmo dia"
+ ],
+ "after": [
+  "Faça os exames de controle nos prazos marcados",
+  "É melhor não tomar analgésicos e suplementos sem o médico. Pergunte a ele"
+ ],
+ "red_flags": [
+  "A urina quase parou de sair, inchaço forte, falta de ar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Quais exames o nefrologista pede?",
+   "a": "Normalmente exame de urina, creatinina no sangue e ultrassom dos rins. A lista exata, o médico diz."
+  },
+  {
+   "q": "Posso tomar analgésico com doença nos rins?",
+   "a": "Nem todos. Pergunte ao médico quais servem para você."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o nefrologista. Leve os exames de sangue e de urina, o ultrassom e o diário da pressão."
+  }
+ ]
+}

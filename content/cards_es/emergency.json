@@ -1,0 +1,74 @@
+{
+ "title": "Qué hacer en urgencias",
+ "also": [
+  "urgencias",
+  "sala de urgencias",
+  "servicio de urgencias",
+  "emergencias del hospital"
+ ],
+ "what": "Urgencias es el área del hospital a donde llega la ambulancia o a donde vas tú mismo con un problema urgente. Ahí te revisan y deciden si necesitas quedarte internado.",
+ "why": "Si tienes un dolor repentino, una lesión, fiebre alta, o si la ambulancia te llevó al hospital.",
+ "duration": "normalmente de 1 a varias horas; depende de los estudios y de cuánta gente haya",
+ "tell_doctor": [
+  "Qué pasó y cuándo empezó",
+  "Todos tus medicamentos y alergias",
+  "Enfermedades crónicas y cirugías",
+  "Si estás embarazada",
+  "Qué tomaste ya en casa"
+ ],
+ "prepare": [
+  {
+   "title": "Documentos",
+   "text": "Ten en casa tu identificación y tu credencial del seguro o carnet médico en un mismo lugar, para tomarlos rápido."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Lleva la lista de tus medicamentos o las cajas."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Si se puede, que te acompañe un familiar."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Tus resúmenes médicos, si tienes",
+  "El teléfono y el cargador"
+ ],
+ "steps": [
+  "Te registran y te hacen unas preguntas cortas",
+  "La enfermera te toma la presión, el pulso y la temperatura",
+  "Primero atienden a los más graves; por eso el orden no es por hora de llegada",
+  "El médico te revisa y pide análisis, radiografías o ultrasonido",
+  "Según los resultados, te vas a casa o te internan"
+ ],
+ "feel": [
+  "La espera puede ser larga. No quiere decir que se olvidaron de ti",
+  "Si te sientes peor mientras esperas, díselo de inmediato a la enfermera"
+ ],
+ "after": [
+  "Si te mandan a casa, pide un resumen y las recomendaciones",
+  "Si te internan, te llevan al piso",
+  "Pregunta con quién tienes que ir después"
+ ],
+ "red_flags": [
+  "Si te sientes peor mientras esperas: dolor fuerte, te cuesta respirar o te vas a desmayar, díselo de inmediato a la enfermera"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué pasaron antes a alguien que llegó después de mí?",
+   "a": "En urgencias primero atienden a los que están más graves. Se hace para salvar a los pacientes graves."
+  },
+  {
+   "q": "¿Puedo ir sin ambulancia?",
+   "a": "Normalmente sí, si tu estado lo permite. Pregunta qué hospital atiende tu problema."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Ten tu identificación y la lista de tus medicamentos en un mismo lugar, por si tienes que ir de urgencia al hospital."
+  }
+ ]
+}

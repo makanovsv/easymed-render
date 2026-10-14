@@ -1,0 +1,78 @@
+{
+ "title": "Angiografía con fluoresceína",
+ "also": [
+  "angiografía de retina",
+  "fluorangiografía",
+  "angiografía con fluoresceína",
+  "estudio de los vasos del ojo"
+ ],
+ "what": "Te ponen un colorante en la vena del brazo y en segundos llega a los vasos del ojo. Un aparato toma una serie de fotos de la retina.",
+ "why": "Si tienes diabetes o enfermedades de la retina o de los vasos del ojo, y antes de un láser o de inyecciones en el ojo.",
+ "duration": "normalmente de 20 a 40 minutos con la preparación; el médico te explica el resultado después",
+ "tell_doctor": [
+  "Si tienes alergia a colorantes, al yodo o a cualquier medicamento",
+  "Si estás embarazada o das pecho",
+  "Si tienes enfermedades de los riñones",
+  "Enfermedades del corazón o asma",
+  "Si tuviste reacción a un colorante antes"
+ ],
+ "prepare": [
+  {
+   "title": "Transporte",
+   "text": "Te dilatan las pupilas y después no puedes manejar."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos por tu cuenta."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer algo ligero, si la clínica no te dijo otra cosa."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Lentes de sol",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te dilatan las pupilas con gotas",
+  "Te ponen una aguja delgada o un catéter en la vena del brazo",
+  "Te sientas frente a la cámara con la barbilla en el soporte",
+  "Ponen el colorante",
+  "La cámara toma muchas fotos con destellos brillantes",
+  "Quitan la aguja y te observan un rato"
+ ],
+ "feel": [
+  "Un piquete breve en el brazo",
+  "Destellos brillantes",
+  "A veces náuseas unos segundos después del colorante",
+  "La piel puede verse un poco amarilla unas horas"
+ ],
+ "after": [
+  "La orina estará amarilla brillante hasta 1 o 2 días. Es el colorante que sale",
+  "Toma la cantidad de agua de siempre",
+  "No manejes hasta que pase el efecto de las gotas"
+ ],
+ "red_flags": [
+  "Ronchas, comezón, cara hinchada o te cuesta respirar: llama a emergencias",
+  "Dolor fuerte o inflamación donde te pusieron la aguja"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligroso?",
+   "a": "Normalmente el colorante se tolera bien. Las reacciones graves son raras, y hay todo lo necesario para ayudarte."
+  },
+  {
+   "q": "¿Por qué la orina sale amarilla?",
+   "a": "Es el colorante que sale del cuerpo. Normalmente se quita en 1 o 2 días."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu angiografía del ojo. Lleva lentes de sol y confirma con tu acompañante."
+  }
+ ]
+}

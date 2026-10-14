@@ -1,0 +1,67 @@
+{
+ "title": "VHS (velocidade de hemossedimentação)",
+ "also": [
+  "VHS",
+  "VSG",
+  "velocidade de sedimentação"
+ ],
+ "what": "É um exame de sangue simples. Mostra a velocidade com que as células do sangue se depositam. É um sinal geral de inflamação.",
+ "why": "Normalmente junto com o hemograma: em check-ups, com febre, dor nas articulações ou cansaço.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente no dia seguinte",
+ "tell_doctor": [
+  "Se você está grávida",
+  "Se esteve doente ou teve febre há pouco tempo",
+  "Quais remédios você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "De preferência de manhã, em jejum ou algumas horas depois de uma refeição leve. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "No dia anterior, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma. Ele decide se algo precisa mudar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "O sangue normalmente é colhido da veia, às vezes do dedo",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos, sem dobrar o braço",
+  "Você já pode comer e voltar à rotina",
+  "O resultado sai normalmente em 1 dia. O prazo quem informa é o laboratório"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "VHS alto é perigoso?",
+   "a": "É só um sinal geral. Resfriado, gravidez e idade aumentam o VHS. O médico avalia junto com outros exames."
+  },
+  {
+   "q": "Por que o VHS demora a baixar depois da doença?",
+   "a": "Ele volta ao normal devagar, às vezes em algumas semanas. Quem pede o novo exame é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de VHS. De manhã, é melhor ir em jejum. Água pode."
+  }
+ ]
+}

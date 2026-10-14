@@ -1,0 +1,78 @@
+{
+ "title": "MMR vaccine (measles, mumps, rubella)",
+ "also": [
+  "MMR vaccine",
+  "measles vaccine",
+  "measles mumps rubella shot",
+  "mumps vaccine"
+ ],
+ "what": "A single vaccine shot against three diseases: measles, rubella, and mumps. Children usually get it twice.",
+ "why": "For children on the schedule, usually at 1 year and 6 years. For adults without two doses, on a doctor's advice.",
+ "duration": "the shot takes a few seconds, with the checkup usually 15 to 40 minutes",
+ "tell_doctor": [
+  "If your child is ill now or has a fever",
+  "Strong reactions to past vaccines",
+  "Immune system conditions, or treatment that weakens immunity",
+  "If blood products were given recently",
+  "If you are pregnant or planning a pregnancy"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "The vaccine is given when your child is well. They will be checked first."
+  },
+  {
+   "title": "Your child",
+   "text": "Bring a favorite toy to distract your little one."
+  },
+  {
+   "title": "Pregnancy",
+   "text": "For adult women: it is best to avoid getting pregnant for a month after the vaccine."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your vaccination certificate or record"
+ ],
+ "steps": [
+  "The doctor asks how your child is and takes their temperature",
+  "You hold your child on your lap",
+  "The skin is wiped, and the shot is given in the upper arm or thigh",
+  "The vaccine is recorded",
+  "After the shot, sit in the clinic for about 30 minutes"
+ ],
+ "feel": [
+  "A quick prick. Your child may cry a little",
+  "Sometimes, 5 to 12 days later, a mild fever or rash. It is a reaction to the vaccine",
+  "Sometimes the cheeks or neck swell a little"
+ ],
+ "after": [
+  "Stay near the room for 30 minutes",
+  "A rash after the vaccine is not contagious",
+  "The second dose follows the schedule"
+ ],
+ "red_flags": [
+  "Trouble breathing, swelling of the face or throat, or a rash all over: call emergency services",
+  "A seizure with a fever: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why did a fever start a week later?",
+   "a": "It is a live weakened vaccine, so the response can come later. It usually passes in 1 to 2 days."
+  },
+  {
+   "q": "Is it true this vaccine causes autism?",
+   "a": "No. Large studies have not found that."
+  },
+  {
+   "q": "Do adults need it?",
+   "a": "If you have not had two doses, or do not know, ask your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "MMR vaccine tomorrow. Your child should be well. Bring the vaccination record."
+  }
+ ]
+}

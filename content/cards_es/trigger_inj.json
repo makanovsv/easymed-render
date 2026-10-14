@@ -1,0 +1,80 @@
+{
+ "title": "Bloqueo para dolor de espalda",
+ "also": [
+  "bloqueo de columna",
+  "infiltración en la columna",
+  "bloqueo epidural",
+  "bloqueo de nervio",
+  "inyección en la espalda"
+ ],
+ "what": "El médico pone un anestésico, a veces junto con cortisona, cerca de un nervio o una articulación de la columna. Esto baja el dolor y la inflamación.",
+ "why": "Con dolor fuerte de espalda o cuello que se va al brazo o la pierna, con hernia de disco, cuando las pastillas y la rehabilitación ayudan poco.",
+ "duration": "normalmente de 15 a 30 minutos, más 20 a 30 minutos de observación; el efecto dura de unas horas a varios días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico decidirá si hay que cambiar algo",
+  "Alergias a medicamentos y anestésicos",
+  "Diabetes. La cortisona puede subir el azúcar",
+  "Si ahora tienes fiebre o una infección",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes desayunar ligero. Pregunta en la clínica."
+  },
+  {
+   "title": "Estudios",
+   "text": "Lleva tu resonancia o tomografía de la espalda. Con ellas se elige el lugar."
+  },
+  {
+   "title": "Regreso",
+   "text": "Después del procedimiento se te puede adormecer la pierna. Es mejor que alguien te lleve a casa."
+  }
+ ],
+ "bring": [
+  "La orden médica y tu resonancia o tomografía",
+  "La lista de tus medicamentos",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te acuestas boca abajo o de lado",
+  "Limpian la piel con antiséptico",
+  "A veces primero adormecen la piel",
+  "El médico mete una aguja delgada, muchas veces guiándose con rayos X o ultrasonido",
+  "Pone el medicamento despacio",
+  "Saca la aguja y pone una curita",
+  "Te quedas acostado un rato en observación"
+ ],
+ "feel": [
+  "Piquete y presión",
+  "A veces aumenta un momento el dolor que ya conoces. Quiere decir que la aguja está cerca del nervio",
+  "Calor o adormecimiento en la espalda o la pierna"
+ ],
+ "after": [
+  "El adormecimiento se quita en unas horas. Camina con cuidado",
+  "El día del procedimiento no manejes",
+  "Los primeros 1 a 2 días el dolor puede incluso aumentar; después normalmente mejora",
+  "Sigue con la rehabilitación como te diga el médico"
+ ],
+ "red_flags": [
+  "Debilidad en las piernas, adormecimiento entre las piernas, o problemas para orinar o evacuar: llama a emergencias",
+  "Fiebre de más de 38 o dolor fuerte de espalda donde fue la inyección",
+  "Dolor de cabeza fuerte que se quita al acostarte"
+ ],
+ "faq": [
+  {
+   "q": "¿El bloqueo cura la hernia?",
+   "a": "No. Quita el dolor y la inflamación para que puedas moverte y seguir con el tratamiento."
+  },
+  {
+   "q": "¿Cuántos bloqueos me puedo poner?",
+   "a": "Lo decide el médico. Normalmente no se ponen seguido. Entre uno y otro tiene que pasar un tiempo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu bloqueo. Lleva tu resonancia de la espalda y arregla quién te llevará a casa."
+  }
+ ]
+}

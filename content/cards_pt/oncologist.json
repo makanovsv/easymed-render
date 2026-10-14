@@ -1,0 +1,74 @@
+{
+ "title": "Consulta com oncologista",
+ "also": [
+  "oncologista",
+  "médico oncologista",
+  "consulta de oncologia"
+ ],
+ "what": "É o médico que investiga a suspeita de tumor, pede exames, indica o tratamento e acompanha depois dele.",
+ "why": "Se um exame encontrou um nódulo ou uma alteração que precisa ser investigada. Também para acompanhamento depois do tratamento.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "O que incomoda e desde quando",
+  "Todos os remédios",
+  "Doenças crônicas e cirurgias",
+  "Câncer na família",
+  "Quais exames já foram feitos"
+ ],
+ "prepare": [
+  {
+   "title": "Documentos",
+   "text": "Junte todos os exames: imagens em CD, laudos, resultados de biópsia."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Anote as perguntas antes. Na consulta, com o nervosismo, é fácil esquecer."
+  },
+  {
+   "title": "Apoio",
+   "text": "Você pode ir com alguém próximo."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Imagens em CD e os laudos",
+  "Resultados de biópsia, lâminas e blocos, se entregaram a você",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta e analisa os documentos",
+  "Examina e apalpa a região e os gânglios",
+  "Explica o que já se sabe e o que precisa ser esclarecido",
+  "Pede exames ou discute o plano de tratamento",
+  "Responde às suas perguntas"
+ ],
+ "feel": [
+  "O exame não dói",
+  "Ficar nervoso é normal. Pergunte tudo o que não entender"
+ ],
+ "after": [
+  "Faça os exames pedidos no prazo",
+  "Você pode anotar o que o médico disse ou pedir um relatório",
+  "Não comece nenhum remédio ou produto sem o médico"
+ ],
+ "red_flags": [
+  "Dor forte, sangramento, febre alta durante o tratamento: ligue para o médico ou para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Fui encaminhado ao oncologista. Quer dizer que tenho câncer?",
+   "a": "Não. Muitas vezes o encaminhamento é para descartar um tumor. A resposta vem dos exames."
+  },
+  {
+   "q": "Posso levar alguém comigo?",
+   "a": "Sim, isso ajuda. A pessoa lembra o que você pode deixar passar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o oncologista. Junte todas as imagens e laudos e anote suas perguntas."
+  }
+ ]
+}

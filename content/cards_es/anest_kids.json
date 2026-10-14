@@ -1,0 +1,89 @@
+{
+ "title": "Anestesia general en niños",
+ "also": [
+  "anestesia infantil",
+  "anestesia general pediátrica",
+  "anestesia con mascarilla",
+  "sedación en niños"
+ ],
+ "what": "Tu hijo duerme profundamente y no siente nada durante la cirugía o el estudio. El anestesiólogo está a su lado todo el tiempo y vigila su respiración y su corazón.",
+ "why": "Para cirugías y algunos estudios en los que el niño no puede quedarse quieto o le dolería.",
+ "duration": "dura lo que dure el procedimiento; normalmente despiertan en 15 a 60 minutos",
+ "tell_doctor": [
+  "Alergias a medicamentos, alimentos o látex",
+  "Gripa, tos o fiebre en las últimas 2 semanas",
+  "Si nació prematuro, o tiene enfermedades del corazón o los pulmones",
+  "Si tu hijo o algún familiar tuvo problemas con la anestesia",
+  "Si ronca o deja de respirar dormido",
+  "Dientes flojos"
+ ],
+ "prepare": [
+  {
+   "title": "Ayuno",
+   "text": "El tiempo sin comida, fórmula, leche y líquidos claros lo marca la clínica con exactitud. No le des nada fuera de eso."
+  },
+  {
+   "title": "Salud",
+   "text": "Si tu hijo se enferma antes de la anestesia, llama a la clínica; se puede cambiar la fecha."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No le quites sus medicamentos por tu cuenta. Pregúntale al anestesiólogo."
+  },
+  {
+   "title": "Plática",
+   "text": "Dile con calma y sinceridad que va a dormir y que cuando despierte vas a estar a su lado."
+  }
+ ],
+ "bring": [
+  "Los documentos del niño y los tuyos",
+  "La lista de medicamentos",
+  "Su juguete favorito",
+  "Ropa de cambio y pañales"
+ ],
+ "steps": [
+  "El anestesiólogo revisa a tu hijo y responde tus preguntas",
+  "Le pueden poner una crema en la mano para que no sienta el piquete",
+  "Se duerme con una mascarilla con olor o con medicamento en la vena",
+  "A veces dejan que un papá esté a su lado mientras se duerme. Pregunta",
+  "Mientras duerme está conectado a aparatos y el anestesiólogo está a su lado",
+  "Después del procedimiento despierta en la sala de recuperación"
+ ],
+ "feel": [
+  "Se duerme rápido y normalmente no lo recuerda",
+  "Al despertar puede llorar o estar confundido. Se le pasa",
+  "A veces náuseas, picor de garganta o sueño hasta la noche"
+ ],
+ "after": [
+  "Empieza a beber y comer poco a poco, cuando lo permitan",
+  "El resto del día, descanso tranquilo en casa",
+  "El sueño y lo inquieto normalmente se quitan en un día",
+  "Dale el analgésico según el plan del médico"
+ ],
+ "red_flags": [
+  "A tu hijo le cuesta respirar o se le ponen morados los labios: llama a emergencias",
+  "No despierta como siempre o está muy decaído: llama a emergencias",
+  "Vomita mucho o no quiere beber",
+  "Ronchas o cara hinchada: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La anestesia es peligrosa para un niño?",
+   "a": "La anestesia infantil moderna es muy segura. El anestesiólogo la ajusta al peso y la salud de tu hijo."
+  },
+  {
+   "q": "¿Puedo estar con él?",
+   "a": "Muchas veces dejan que un papá esté a su lado al dormirse y al despertar. Pregunta en la clínica."
+  },
+  {
+   "q": "¿Por qué no puede comer antes de la anestesia?",
+   "a": "Para que la comida del estómago no pase a los pulmones mientras duerme. Es la regla de seguridad más importante."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la anestesia de tu hijo. Comida, leche y agua solo hasta la hora exacta que dijo la clínica."
+  }
+ ]
+}

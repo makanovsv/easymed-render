@@ -1,0 +1,75 @@
+{
+ "title": "Toracocentesis",
+ "also": [
+  "toracocentesis",
+  "punción pleural",
+  "sacar líquido del pulmón",
+  "punción de tórax"
+ ],
+ "what": "Por un pequeño piquete en la espalda o el costado, el médico saca el líquido que se juntó alrededor del pulmón. Se hace con anestesia local.",
+ "why": "Cuando se junta líquido alrededor del pulmón y no deja respirar bien, o cuando hay que analizarlo para saber la causa.",
+ "duration": "normalmente de 15 a 30 minutos; el análisis del líquido tarda varios días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico decidirá si hay que cambiar algo",
+  "Alergias, también a anestésicos locales",
+  "Si tienes mucha tos",
+  "Si antes ya te hicieron una punción"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Normalmente se revisa la coagulación. El lugar del piquete se marca con ultrasonido o con una radiografía."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer como siempre. Pregunta en la clínica."
+  },
+  {
+   "title": "Durante",
+   "text": "Es importante estar sentado sin moverte. Si te dan ganas de toser, avísale al médico."
+  }
+ ],
+ "bring": [
+  "La orden médica, tus radiografías y análisis",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te sientas, te inclinas hacia adelante y apoyas los brazos en una mesa",
+  "El médico elige el lugar en la espalda con ultrasonido",
+  "Limpian la piel y la adormecen con una inyección",
+  "Meten una aguja delgada entre las costillas",
+  "El líquido sale despacio a un recipiente",
+  "Sacan la aguja y ponen un vendaje",
+  "A veces después toman una radiografía de los pulmones"
+ ],
+ "feel": [
+  "Piquete y ardor con la anestesia",
+  "Presión en la espalda",
+  "Al final puede dar tos o pesadez en el pecho. Díselo al médico"
+ ],
+ "after": [
+  "Normalmente te observan un rato y revisan tu respiración",
+  "No te quites el vendaje hasta el día siguiente, salvo que el médico te diga otra cosa",
+  "Normalmente se respira más fácil"
+ ],
+ "red_flags": [
+  "Falta de aire que aumenta, dolor de pecho o tos con sangre: llama a emergencias",
+  "Fiebre de más de 38 o enrojecimiento donde fue el piquete: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Me pueden picar el pulmón?",
+   "a": "El riesgo es pequeño: el lugar se elige con ultrasonido. Si pasa, se ve en la radiografía y el médico sabe qué hacer."
+  },
+  {
+   "q": "¿Por qué al final dan ganas de toser?",
+   "a": "El pulmón se vuelve a abrir cuando sale el líquido. Si la tos es fuerte, se detiene el procedimiento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoy es tu toracocentesis. Lleva tus radiografías y la lista de tus medicamentos. Durante el procedimiento es importante no moverte."
+  }
+ ]
+}

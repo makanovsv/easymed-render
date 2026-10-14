@@ -1,0 +1,84 @@
+{
+ "title": "Cirurgia de estômago",
+ "also": [
+  "gastrectomia",
+  "gastrectomia parcial",
+  "retirada de parte do estômago",
+  "sutura de úlcera"
+ ],
+ "what": "O cirurgião retira uma parte do estômago ou o estômago inteiro, às vezes fecha uma úlcera. O esôfago ou o intestino são ligados para a comida seguir adiante.",
+ "why": "No tumor de estômago, úlcera grave com complicações, sangramento.",
+ "duration": "a cirurgia leva normalmente de 2 a 5 horas, com internação normalmente de 5 a 10 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se você emagreceu e como está comendo",
+  "Cigarro e álcool"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Alimentação",
+   "text": "Se você emagreceu, o médico pode indicar uma alimentação especial antes da cirurgia."
+  }
+ ],
+ "bring": [
+  "Resultados da endoscopia, da biópsia, da tomografia e dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para ficar no hospital de 1 a 2 semanas"
+ ],
+ "steps": [
+  "Você troca de roupa, colocam um acesso na veia e meias contra trombose",
+  "O anestesista aplica a anestesia",
+  "Às vezes colocam pelo nariz uma sonda fina até o estômago",
+  "O cirurgião trabalha por um corte ou por furinhos na barriga",
+  "Retira parte ou todo o estômago e religa o trato digestivo",
+  "O corte é suturado, e colocam drenos"
+ ],
+ "feel": [
+  "Dor na barriga. Dão analgésico",
+  "Sondas e drenos incomodam, mas são retirados em alguns dias",
+  "Você fica satisfeito rápido e tem menos apetite"
+ ],
+ "after": [
+  "Beber e comer, aos poucos, quando o médico liberar",
+  "Coma porções pequenas, de 5 a 6 vezes por dia",
+  "Às vezes são precisas vitaminas e injeções de B12. O médico receita",
+  "A biópsia define o tratamento seguinte"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, febre acima de 38 graus",
+  "Vômitos, sem conseguir beber",
+  "Vômito com sangue ou fezes pretas: ligue para a emergência",
+  "Dor na panturrilha, falta de ar, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dá para viver sem estômago?",
+   "a": "Sim. A comida vai direto para o intestino. Vai ser preciso comer muitas vezes e pouco de cada vez."
+  },
+  {
+   "q": "Por que depois de comer dá fraqueza e suor?",
+   "a": "Isso acontece quando a comida passa rápido para o intestino. Porções pequenas e menos doces ajudam. Conte ao médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia de estômago. Leve os resultados dos exames. Comida e água, só até o horário da clínica."
+  }
+ ]
+}

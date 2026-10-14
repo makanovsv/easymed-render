@@ -1,0 +1,67 @@
+{
+ "title": "Prueba de drogas en orina",
+ "also": [
+  "antidoping",
+  "examen toxicológico en orina",
+  "prueba de drogas",
+  "detección de sustancias"
+ ],
+ "what": "Orinas en un frasco. La prueba muestra si hubo drogas o algunos medicamentos fuertes en tu cuerpo.",
+ "why": "Para certificados de trabajo, de portación de armas o de licencia de manejo, porque lo pide la empresa, o en revisiones médicas.",
+ "duration": "la muestra toma de 5 a 10 minutos; el resultado rápido está en minutos y el análisis de confirmación suele tardar varios días",
+ "tell_doctor": [
+  "Todos los medicamentos que tomas, hasta los comunes para la tos o el dolor",
+  "Si hace poco tuviste un tratamiento con anestesia o analgésicos fuertes"
+ ],
+ "prepare": [
+  {
+   "title": "Identificación",
+   "text": "Lleva una identificación oficial. Sin ella, normalmente no aceptan el análisis para un certificado."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Anota qué tomas y díselo a la enfermera."
+  },
+  {
+   "title": "Líquidos",
+   "text": "Toma líquidos como siempre. No tomes agua de más. Si la orina está muy diluida, la pueden rechazar."
+  }
+ ],
+ "bring": [
+  "Una identificación oficial",
+  "La orden médica o la solicitud de la empresa",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Revisan tu identificación y te dan un frasco con tus datos",
+  "Antes de entrar al baño, a veces te piden dejar la bolsa y la chamarra",
+  "Orinas en el frasco, a veces con alguien presente. Así lo pide el procedimiento",
+  "Cierran y sellan el frasco frente a ti",
+  "La prueba se hace en ese momento o se manda al laboratorio"
+ ],
+ "feel": [
+  "Nada molesto, salvo la posible pena de que alguien esté presente"
+ ],
+ "after": [
+  "El resultado rápido normalmente está de inmediato",
+  "Si la prueba rápida sale positiva, la orina se revisa en el laboratorio con un método exacto",
+  "El certificado se entrega en el plazo que te digan"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Un medicamento común puede dar positivo?",
+   "a": "Sí, algunos medicamentos afectan la prueba rápida. Por eso es importante decirlos. Los casos dudosos se confirman con un método exacto."
+  },
+  {
+   "q": "¿Por qué alguien tiene que estar presente?",
+   "a": "Es la regla para los certificados, para evitar que cambien la muestra. Es igual para todos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu prueba de drogas. Lleva una identificación oficial y la lista de tus medicamentos."
+  }
+ ]
+}

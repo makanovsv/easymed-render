@@ -1,0 +1,77 @@
+{
+ "title": "Tratamiento de conductos (pulpitis)",
+ "also": [
+  "tratamiento de conductos",
+  "endodoncia",
+  "matar el nervio",
+  "dolor de muela en la noche"
+ ],
+ "what": "La pulpitis es la inflamación del nervio dentro del diente. El dentista, con anestesia, quita el tejido inflamado, limpia los conductos y los rellena.",
+ "why": "Con dolor fuerte de diente, sobre todo en la noche, molestia que dura con lo caliente y lo frío, o con caries profunda.",
+ "duration": "cada visita suele durar de 1 a 2 horas; muchas veces se necesitan de 1 a 3 visitas",
+ "tell_doctor": [
+  "Dónde y cómo duele, y cuándo empezó el dolor",
+  "Alergia a anestésicos",
+  "Medicamentos que hacen la sangre más líquida",
+  "Enfermedades del corazón o embarazo",
+  "Qué analgésicos ya tomaste"
+ ],
+ "prepare": [
+  {
+   "title": "Dolor",
+   "text": "Antes de la cita puedes tomar el analgésico que normalmente te funciona. Dile al dentista qué tomaste y cuándo."
+  },
+  {
+   "title": "No hagas",
+   "text": "No te pongas calor en el cachete ni pongas pastillas o alcohol sobre el diente."
+  },
+  {
+   "title": "Comida",
+   "text": "Come antes. Después del tratamiento estarás dormido un par de horas."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus radiografías dentales, si las tienes"
+ ],
+ "steps": [
+  "El dentista revisa el diente y toma una radiografía",
+  "Ponen una inyección de anestesia",
+  "Aíslan el diente con una lámina de hule para que no le caiga saliva",
+  "El dentista abre el diente y quita el nervio inflamado",
+  "Limpian, lavan y miden los conductos",
+  "Rellenan los conductos en ese momento o ponen una curación temporal hasta la siguiente cita",
+  "Toman una radiografía de control"
+ ],
+ "feel": [
+  "Con anestesia normalmente no duele, pero tienes la boca abierta mucho tiempo",
+  "Si sientes dolor, levanta la mano y el dentista pondrá más anestesia",
+  "Después del tratamiento el diente puede doler al morder unos días"
+ ],
+ "after": [
+  "No comas hasta que se quite lo dormido",
+  "No mastiques de ese lado si tienes curación temporal",
+  "Ve a tu siguiente cita a tiempo",
+  "Muchas veces, después del tratamiento de conductos se pone una corona o una resina fuerte. El dentista te dirá"
+ ],
+ "red_flags": [
+  "Cachete hinchado o fiebre",
+  "El dolor aumenta 2 a 3 días después en lugar de bajar"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué me duele el diente después del tratamiento?",
+   "a": "Los tejidos alrededor del diente reaccionan al tratamiento. El dolor al morder normalmente se quita en unos días."
+  },
+  {
+   "q": "¿Puedo no tratarlo si ya se quitó el dolor?",
+   "a": "A veces el dolor se quita porque el nervio murió. Pero la inflamación sigue y puede pasar al hueso. Hay que tratarlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu tratamiento dental. Come antes y dile al dentista qué analgésicos tomaste."
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "title": "Cirugía bariátrica",
+ "also": [
+  "cirugía para bajar de peso",
+  "manga gástrica",
+  "bypass gástrico",
+  "cirugía de obesidad",
+  "reducción de estómago"
+ ],
+ "what": "El cirujano hace el estómago más pequeño o cambia el camino de la comida. Te llenas con menos comida y bajas de peso poco a poco.",
+ "why": "En obesidad severa, sobre todo con diabetes, presión alta o problemas de articulaciones, cuando las dietas no funcionaron.",
+ "duration": "la cirugía suele durar de 1 a 3 horas; en el hospital normalmente de 2 a 4 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Si tienes diabetes y todos tus medicamentos para el azúcar",
+  "Si roncas o dejas de respirar dormido",
+  "Agruras y enfermedades del estómago",
+  "Si fumas o tomas alcohol"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Antes de la cirugía normalmente hay muchos estudios: análisis, endoscopía, ultrasonido y consultas con médicos. La clínica te da la lista."
+  },
+  {
+   "title": "Alimentación",
+   "text": "Muchas veces se indica una dieta especial de 1 a 3 semanas antes. Hace el hígado más pequeño y facilita la cirugía."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  }
+ ],
+ "bring": [
+  "Todos los resultados de tus estudios",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital para varios días"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "Te ponen medias o vendas en las piernas contra los trombos",
+  "El anestesiólogo te pone la anestesia",
+  "El cirujano trabaja por varios orificios en el abdomen",
+  "Hace el estómago más pequeño o un camino nuevo para la comida",
+  "Revisa que las uniones no tengan fugas y cierra los orificios"
+ ],
+ "feel": [
+  "Después de la anestesia hay sueño y a veces náuseas",
+  "Dolor en los orificios y a veces en el hombro. Te dan analgésicos",
+  "Tienes menos hambre y te llenas rápido"
+ ],
+ "after": [
+  "Normalmente empiezas a levantarte y caminar el primer día",
+  "Se toman líquidos a traguitos y la comida se amplía por etapas: líquidos, purés y comida blanda",
+  "Muchas veces se necesitan vitaminas de por vida; el médico te las indicará",
+  "Es importante el seguimiento con el médico y el nutriólogo",
+  "Normalmente se recomienda planear un embarazo no antes de 12 a 18 meses"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el abdomen, pulso rápido o fiebre",
+  "Vómito, o no puedes beber",
+  "Heces negras o vómito con sangre: llama a emergencias",
+  "Dolor en la pantorrilla, falta de aire o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto peso puedo bajar?",
+   "a": "Varía: muchas personas pierden gran parte del peso de más en 1 a 2 años. El resultado se mantiene si sigues la alimentación."
+  },
+  {
+   "q": "¿Después puedo comer como antes?",
+   "a": "Las porciones serán pequeñas para siempre. Tendrás que comer con reglas nuevas."
+  },
+  {
+   "q": "¿Voy a tener que tomar vitaminas?",
+   "a": "Normalmente sí, muchas veces toda la vida. Protegen contra la anemia y problemas de los huesos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Sigue la dieta que te dio la clínica. Comida y agua solo hasta la hora que te dijeron."
+  }
+ ]
+}

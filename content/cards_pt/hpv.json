@@ -1,0 +1,72 @@
+{
+ "title": "Teste de HPV",
+ "also": [
+  "HPV",
+  "teste de HPV",
+  "papilomavírus",
+  "HPV de alto risco"
+ ],
+ "what": "A ginecologista colhe material do colo do útero com uma escovinha macia. No laboratório, procuram o vírus HPV.",
+ "why": "Para prevenir o câncer do colo do útero, normalmente a partir dos 30 anos, com alteração no preventivo, e antes e depois de tratar o colo.",
+ "duration": "a coleta leva 1 a 2 minutos, o resultado sai normalmente em alguns dias",
+ "tell_doctor": [
+  "A data da última menstruação",
+  "Se você está grávida ou pode estar",
+  "Se tratou o colo do útero há pouco tempo",
+  "Se já teve HPV ou alteração no preventivo"
+ ],
+ "prepare": [
+  {
+   "title": "Menstruação",
+   "text": "A coleta não é feita durante a menstruação. O melhor é no meio do ciclo."
+  },
+  {
+   "title": "2 dias antes",
+   "text": "Sem relação sexual, ducha vaginal, óvulos, cremes vaginais e absorvente interno."
+  },
+  {
+   "title": "Exame",
+   "text": "Se for fazer colposcopia, a coleta normalmente é feita antes."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Resultados de preventivos anteriores, se tiver"
+ ],
+ "steps": [
+  "Você tira a roupa da cintura para baixo e se deita na maca ginecológica",
+  "O médico coloca o espéculo para ver o colo do útero",
+  "Passa a escovinha macia no colo por alguns segundos",
+  "A escovinha vai para um tubo com líquido",
+  "Retiram o espéculo, e você pode se vestir"
+ ],
+ "feel": [
+  "Pressão e um leve desconforto pelo espéculo",
+  "Às vezes, uma cólica rápida no pé da barriga"
+ ],
+ "after": [
+  "Às vezes sai um pouco de sangue no mesmo dia. Isso é normal",
+  "O resultado sai normalmente em alguns dias. O prazo quem informa é o laboratório",
+  "Se encontrarem HPV, o médico diz se precisa de preventivo ou colposcopia"
+ ],
+ "red_flags": [
+  "Sangramento forte ou dor forte no pé da barriga depois da coleta: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "HPV positivo é câncer?",
+   "a": "Não. O HPV é comum e normalmente vai embora sozinho. O médico acompanha para perceber alterações a tempo."
+  },
+  {
+   "q": "Com que frequência faço o teste de HPV?",
+   "a": "Normalmente a cada alguns anos, se o resultado for normal. A frequência quem define é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Daqui a 2 dias você tem teste de HPV. A partir de hoje, sem relação sexual, óvulos, cremes e ducha vaginal."
+  }
+ ]
+}

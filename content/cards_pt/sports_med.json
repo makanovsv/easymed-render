@@ -1,0 +1,75 @@
+{
+ "title": "Avaliação médica para esporte",
+ "also": [
+  "atestado para esporte",
+  "médico do esporte",
+  "exame médico esportivo",
+  "atestado para competição"
+ ],
+ "what": "O médico verifica se você ou a criança pode praticar esporte e com que intensidade. No fim, entregam um atestado de aptidão.",
+ "why": "Antes de entrar numa escolinha ou academia, antes de competições, testes físicos ou por exigência do treinador.",
+ "duration": "normalmente de 30 minutos a algumas horas, se for preciso passar por vários médicos; o atestado muitas vezes sai no mesmo dia",
+ "tell_doctor": [
+  "Dor no peito, desmaios ou falta de ar com esforço",
+  "Se algum parente teve morte súbita jovem ou doença do coração",
+  "Lesões e cirurgias",
+  "Doenças crônicas e remédios",
+  "Que esporte e com que intensidade pretende praticar"
+ ],
+ "prepare": [
+  {
+   "title": "Lista",
+   "text": "Confirme com a clínica ou com o treinador quais médicos e exames são necessários para o seu esporte."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Não faça treino pesado no dia anterior. Isso pode alterar o eletrocardiograma e a pressão."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa esportiva e tênis confortáveis, se houver teste de esforço."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "A carteira de vacinação ou a caderneta da criança",
+  "Atestados e laudos anteriores",
+  "As exigências do clube ou da federação, se houver"
+ ],
+ "steps": [
+  "O médico pergunta sobre a saúde e os treinos",
+  "Mede altura, peso, pressão e pulso",
+  "Fazem o eletrocardiograma",
+  "Às vezes exames de sangue, teste de esforço ou consulta com outros médicos",
+  "O médico ausculta o coração e os pulmões, olha a postura e as articulações",
+  "Entregam o atestado ou encaminham para exames"
+ ],
+ "feel": [
+  "O exame não dói",
+  "O teste de esforço é como um treino comum, e pode cansar"
+ ],
+ "after": [
+  "O atestado é entregue ao treinador ou ao clube",
+  "O atestado tem validade limitada. Confirme o prazo",
+  "Se encontrarem algo, o médico diz que esforço é permitido por enquanto"
+ ],
+ "red_flags": [
+  "Dor no peito, desmaio ou falta de ar forte no treino: pare e ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Para que eletrocardiograma numa criança saudável?",
+   "a": "O eletrocardiograma ajuda a perceber problemas raros do coração, que são perigosos com esforço grande."
+  },
+  {
+   "q": "De quanto em quanto tempo renovar o atestado?",
+   "a": "Normalmente uma vez por ano. Para competições, às vezes com mais frequência. Confirme as exigências do clube."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a avaliação médica para esporte. Não treine pesado hoje e leve os documentos."
+  }
+ ]
+}

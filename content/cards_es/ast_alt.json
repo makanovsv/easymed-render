@@ -1,0 +1,72 @@
+{
+ "title": "Pruebas de función hepática (ALT, AST, bilirrubina)",
+ "also": [
+  "pruebas de función hepática",
+  "perfil hepático",
+  "pruebas del hígado",
+  "transaminasas",
+  "bilirrubina"
+ ],
+ "what": "Es un análisis de sangre de la vena. Muestra cómo trabaja el hígado y si hay inflamación.",
+ "why": "Con cansancio, piel amarillenta, dolor del lado derecho debajo de las costillas, al tomar algunos medicamentos, o en un chequeo.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar al día siguiente",
+ "tell_doctor": [
+  "Qué medicamentos, vitaminas y hierbas tomas",
+  "Si tomaste alcohol hace poco",
+  "Si hiciste ejercicio intenso en los últimos días",
+  "Si antes te salieron alteradas estas pruebas. Lleva los análisis anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente en ayunas: de 8 a 12 horas sin comer. Puedes tomar agua natural. Pregunta en el laboratorio."
+  },
+  {
+   "title": "El día anterior",
+   "text": "De 1 a 2 días antes, sin alcohol, sin comida grasosa ni frita. Sin ejercicio intenso."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas y él decidirá si hay que cambiar algo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Tus análisis anteriores, si los tienes"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve y la sangre llena el tubo",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un ligero mareo. Avísale a la enfermera"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos, sin doblar el brazo",
+  "Puedes comer de inmediato y seguir con tu día",
+  "El resultado suele estar en 1 día. En el laboratorio te dirán cuándo",
+  "El médico te explicará qué significan los números"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué puede salir alta la ALT?",
+   "a": "Hay muchas causas: comida grasosa, alcohol, medicamentos, ejercicio, enfermedades del hígado. Lo valora el médico. Muchas veces solo se repite el análisis."
+  },
+  {
+   "q": "¿Puedo tomar café antes del análisis?",
+   "a": "No, si el análisis es en ayunas. Solo agua natural."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana son tus pruebas del hígado. Después de la cena ya no comas. Puedes tomar agua natural."
+  }
+ ]
+}

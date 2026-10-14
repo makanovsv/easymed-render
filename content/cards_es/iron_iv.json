@@ -1,0 +1,73 @@
+{
+ "title": "Hierro intravenoso",
+ "also": [
+  "hierro intravenoso",
+  "hierro en la vena",
+  "infusión de hierro",
+  "hierro en suero"
+ ],
+ "what": "El hierro se pone por suero en la vena. Así las reservas de hierro se llenan más rápido que con pastillas.",
+ "why": "Con anemia por falta de hierro, cuando las pastillas no ayudan o caen mal, en el embarazo o antes de una cirugía, según indique el médico.",
+ "duration": "cada infusión suele durar de 15 a 60 minutos, más 30 minutos de observación; el efecto en los análisis se ve en unas semanas",
+ "tell_doctor": [
+  "Si antes tuviste alergia al hierro o a otros medicamentos",
+  "Asma o alergias fuertes",
+  "Si estás embarazada",
+  "Si tomas pastillas de hierro"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer como siempre."
+  },
+  {
+   "title": "Pastillas",
+   "text": "No las dejes por tu cuenta. Díselo al médico. Él decidirá si sigues con las pastillas de hierro junto con el suero."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga cómoda."
+  }
+ ],
+ "bring": [
+  "La orden médica y tus análisis de sangre recientes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "La enfermera te pone un catéter en la vena",
+  "Conectan el suero con el hierro",
+  "El suero pasa despacio y te vigilan",
+  "De vez en cuando te miden la presión y el pulso",
+  "Al terminar te quedas sentado unos 30 minutos más"
+ ],
+ "feel": [
+  "Normalmente nada",
+  "A veces sabor a metal en la boca o un poco de náuseas",
+  "Puede haber dolor de cabeza o de músculos por 1 a 2 días"
+ ],
+ "after": [
+  "Día normal, puedes irte a casa",
+  "Si el hierro se sale debajo de la piel, puede quedar una mancha café. Por eso avisa de inmediato si arde el brazo",
+  "Normalmente el análisis de sangre se repite en unas semanas"
+ ],
+ "red_flags": [
+  "Durante el suero: ardor en el brazo, ronchas, comezón, falta de aire o mareo: avísale de inmediato a la enfermera",
+  "En casa: hinchazón de la cara o dificultad para respirar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué no pastillas?",
+   "a": "Las pastillas funcionan más despacio y a veces caen mal. El suero da mucho hierro de una vez."
+  },
+  {
+   "q": "¿Cuántas infusiones necesito?",
+   "a": "Depende del medicamento y de cuánto hierro te falta. Normalmente de 1 a 3. Lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoy es tu hierro intravenoso. Come algo y usa ropa con manga cómoda."
+  }
+ ]
+}

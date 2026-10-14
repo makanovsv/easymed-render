@@ -1,0 +1,72 @@
+{
+ "title": "Colocação de sonda nasogástrica",
+ "also": [
+  "sonda nasogástrica",
+  "sonda no estômago",
+  "sonda pelo nariz",
+  "SNG"
+ ],
+ "what": "Um tubo fino e macio passa pelo nariz até o estômago. Por ele, a pessoa recebe alimento e remédios, ou se retira o conteúdo do estômago.",
+ "why": "Quando a pessoa não consegue engolir ou comer sozinha, depois de algumas cirurgias, com obstrução do intestino ou em intoxicações.",
+ "duration": "a colocação leva normalmente de 5 a 15 minutos. A sonda fica o tempo que for preciso, de horas a semanas",
+ "tell_doctor": [
+  "Se teve lesão ou cirurgia no nariz",
+  "Remédios que afinam o sangue",
+  "Se o seu nariz sangra com frequência",
+  "Se tem doenças do esôfago"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não precisa de preparo especial. A enfermeira explica o que fazer."
+  },
+  {
+   "title": "Sinal",
+   "text": "Combine um sinal com a mão, se quiser parar."
+  }
+ ],
+ "bring": [
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você fica sentado, com a cabeça um pouco para a frente",
+  "A enfermeira mede o tamanho da sonda que vai entrar",
+  "A ponta da sonda recebe gel. Às vezes anestesiam o nariz",
+  "A sonda entra pela narina",
+  "Quando ela chega na garganta, pedem para você engolir. Se liberarem, com pequenos goles de água",
+  "Conferem a posição da sonda, às vezes com raio-X",
+  "A sonda é presa no nariz com esparadrapo"
+ ],
+ "feel": [
+  "É desagradável e pode dar ânsia. Engolir ajuda",
+  "Os olhos lacrimejam",
+  "Enquanto a sonda está, a garganta pode arranhar"
+ ],
+ "after": [
+  "Não puxe nem mexa na sonda por conta própria",
+  "A enfermeira cuida do nariz e da pele embaixo do esparadrapo",
+  "Se você for para casa com a sonda, vão ensinar a dar a dieta e lavar a sonda",
+  "A retirada é rápida e quase não dói"
+ ],
+ "red_flags": [
+  "Tosse, engasgo ou dificuldade para respirar durante a dieta: pare a dieta e chame a enfermeira na hora ou ligue para a emergência",
+  "A sonda saiu ou mudou de lugar: não coloque de volta sozinho, avise a enfermeira",
+  "Sangramento pelo nariz que não para"
+ ],
+ "faq": [
+  {
+   "q": "Dá para falar com a sonda?",
+   "a": "Sim. A sonda atrapalha um pouco, mas dá para falar."
+  },
+  {
+   "q": "Por quanto tempo posso ficar com a sonda?",
+   "a": "Depende do motivo. Normalmente de alguns dias a semanas. Se for por muito tempo, o médico pode sugerir outra forma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Daqui a pouco vão colocar a sonda. Combine com a enfermeira um sinal com a mão, caso queira fazer uma pausa."
+  }
+ ]
+}

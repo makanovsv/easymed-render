@@ -1,0 +1,80 @@
+{
+ "title": "Endoscopic ultrasound (EUS)",
+ "also": [
+  "EUS",
+  "endoscopic ultrasound",
+  "endosonography",
+  "EUS with fine needle aspiration"
+ ],
+ "what": "The doctor passes a flexible tube with a camera and a small ultrasound probe at its tip through your mouth. This gives a close view of the pancreas, bile ducts, and the stomach wall.",
+ "why": "When a regular ultrasound or CT gives no answer: for changes in the pancreas, stones in the ducts, or growths in the wall of the food pipe, stomach, or bowel. Sometimes to take a tissue sample with a thin needle.",
+ "duration": "the procedure itself usually takes 20 to 60 minutes, then 1 to 2 hours of observation; the report usually the same day, biopsy results in 1 to 2 weeks",
+ "tell_doctor": [
+  "Blood thinners. Your doctor will decide if anything needs to change",
+  "Diabetes and your diabetes medicines",
+  "Allergies, especially to medicines and anesthesia",
+  "Heart and lung disease",
+  "If you are or might be pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no food for 6 to 8 hours and no drinks for 2 to 4 hours before. The clinic will give you the exact times."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide what to take in the morning."
+  },
+  {
+   "title": "Sedation",
+   "text": "EUS is usually done while you sleep, under sedation. Arrange for someone to take you home."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "The ultrasound, CT, or MRI results that led to the EUS",
+  "A list of your medicines",
+  "Someone to take you home"
+ ],
+ "steps": [
+  "An IV line is put in a vein, and removable dentures are taken out",
+  "You lie on your left side with a soft mouth guard",
+  "Sleep medicine is given, and you fall asleep",
+  "The doctor passes the tube through your mouth into the food pipe and stomach",
+  "The probe at the tip shows the nearby organs on a screen",
+  "If needed, a tissue sample is taken with a thin needle",
+  "You wake up in the recovery room and are watched"
+ ],
+ "feel": [
+  "With sedation, you usually feel and remember nothing",
+  "Afterward, your throat may feel scratchy",
+  "There may be mild bloating from the air"
+ ],
+ "after": [
+  "You can usually eat and drink after 1 to 2 hours, once your throat is no longer numb. Ask your doctor",
+  "After sedation, do not drive or sign important papers for the rest of the day",
+  "The doctor usually gives you the report the same day",
+  "If a biopsy was taken, results usually come in 1 to 2 weeks"
+ ],
+ "red_flags": [
+  "Severe pain in the belly, chest, or neck: call emergency services",
+  "Vomiting blood or black stools: call emergency services",
+  "A fever over 38°C (100.4°F) in the first days after: tell your doctor"
+ ],
+ "faq": [
+  {
+   "q": "How is EUS different from a regular upper endoscopy?",
+   "a": "An upper endoscopy shows the inside surface. EUS uses ultrasound to see deeper: the organ wall and what is next to it."
+  },
+  {
+   "q": "Does it hurt?",
+   "a": "Usually not, since it is mostly done while you sleep. Afterward, your throat may feel a little scratchy."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Endoscopic ultrasound tomorrow. Stop eating and drinking at the time your clinic gave you. Arrange for someone to take you home."
+  }
+ ]
+}

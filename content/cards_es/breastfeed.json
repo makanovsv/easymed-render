@@ -1,0 +1,81 @@
+{
+ "title": "Asesoría de lactancia",
+ "also": [
+  "asesora de lactancia",
+  "lactancia materna",
+  "cómo dar pecho",
+  "consultora de lactancia",
+  "problemas para amamantar"
+ ],
+ "what": "Una especialista te ayuda a que la lactancia funcione bien. Te enseña a acomodar bien a tu bebé al pecho y revisa tus dificultades.",
+ "why": "Si te duelen los pezones, tienes grietas, los senos muy llenos y duros, sientes que tienes poca leche o tu bebé sube poco de peso.",
+ "duration": "la asesoría suele durar de 1 hora a 1 hora y media",
+ "tell_doctor": [
+  "Cada cuánto y cuánto tiempo come tu bebé",
+  "Cuántos pañales mojados hace al día",
+  "Dolor, grietas o bolitas duras en el seno",
+  "El peso del bebé al nacer y ahora",
+  "Qué medicamentos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Horario",
+   "text": "Conviene llegar cuando tu bebé esté por tener hambre: así la especialista ve cómo come."
+  },
+  {
+   "title": "Notas",
+   "text": "Apunta por 1 o 2 días cuándo comió tu bebé y cuántos pañales hizo."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para dar pecho con facilidad."
+  }
+ ],
+ "bring": [
+  "A tu bebé",
+  "Tus notas de tomas y de peso",
+  "Una cobija y pañales",
+  "El extractor o el biberón, si los usas"
+ ],
+ "steps": [
+  "La especialista te pregunta sobre el parto y la lactancia",
+  "Revisa tus senos y pezones",
+  "Revisa la boca del bebé y cómo succiona",
+  "Observa una toma",
+  "Te enseña posiciones cómodas y el agarre correcto",
+  "Arma un plan: cada cuánto darle de comer y qué hacer después"
+ ],
+ "feel": [
+  "Normalmente nada molesto",
+  "Si te duele el seno, la revisión puede ser sensible"
+ ],
+ "after": [
+  "Prueba las posiciones y el agarre que te enseñaron",
+  "Fíjate en los pañales mojados y en el peso del bebé",
+  "Muchas veces hace falta otra cita o una llamada en unos días"
+ ],
+ "red_flags": [
+  "El seno está rojo, caliente y duele, o tienes fiebre de más de 38: ve al médico",
+  "Tu bebé está decaído, orina poco o no agarra bien el pecho: ve al pediatra de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo sé si a mi bebé le alcanza la leche?",
+   "a": "Normalmente le alcanza si moja muchos pañales y sube de peso. Lo revisa el pediatra."
+  },
+  {
+   "q": "¿Dar pecho tiene que doler?",
+   "a": "No. El dolor fuerte muchas veces es por un mal agarre. Se puede corregir."
+  },
+  {
+   "q": "¿Puedo dar pecho si tomo medicamentos?",
+   "a": "Muchas veces sí. Dile al médico qué tomas y él decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu asesoría de lactancia. Lleva a tu bebé y tus notas de las tomas. Mejor llega cuando esté por tener hambre."
+  }
+ ]
+}

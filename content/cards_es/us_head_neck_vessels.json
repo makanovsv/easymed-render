@@ -1,0 +1,72 @@
+{
+ "title": "Doppler de vasos del cuello",
+ "also": [
+  "Doppler carotídeo",
+  "ultrasonido de carótidas",
+  "Doppler de vasos del cuello",
+  "dúplex carotídeo y vertebral"
+ ],
+ "what": "El médico revisa con ultrasonido los vasos del cuello que llevan sangre al cerebro. Se ven placas, estrechamientos y cómo corre la sangre.",
+ "why": "Con mareos, dolores de cabeza, zumbido en los oídos, después de un derrame cerebral, o con colesterol y presión altos.",
+ "duration": "normalmente de 20 a 40 minutos; el reporte es inmediato",
+ "tell_doctor": [
+  "Qué te molesta: mareo, debilidad en un brazo, problemas para hablar o para ver",
+  "Presión alta, colesterol alto o diabetes",
+  "Si tuviste un derrame cerebral o cirugías de los vasos",
+  "Qué medicamentos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Normalmente no hace falta. Puedes comer y beber."
+  },
+  {
+   "title": "Cuello",
+   "text": "Quítate cadenas y aretes. Sin cuello alto."
+  },
+  {
+   "title": "En la mañana",
+   "text": "El día del estudio, mejor sin café de más y sin fumar. Pueden afectar los vasos."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus ultrasonidos de vasos anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas boca arriba y giras un poco la cabeza hacia un lado",
+  "Ponen gel en el cuello",
+  "El médico pasa el transductor a lo largo del cuello, de un lado y del otro",
+  "A veces revisan los vasos detrás de la oreja y arriba de la clavícula",
+  "El médico mide el flujo de sangre y el grosor de las paredes"
+ ],
+ "feel": [
+  "El gel está frío y hay una ligera presión en el cuello",
+  "Puedes oír el sonido de la sangre. Es normal"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "El reporte suele estar de inmediato",
+  "Si encuentran una placa, el médico decidirá el tratamiento y cuándo repetir el estudio"
+ ],
+ "red_flags": [
+  "Debilidad repentina en un brazo o una pierna, la cara chueca o dificultad para hablar: llama a emergencias de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Se pueden ver los vasos del cerebro?",
+   "a": "Los del cuello se ven bien. Los vasos dentro del cráneo se revisan con otro estudio: el Doppler transcraneal."
+  },
+  {
+   "q": "¿Es peligrosa una placa?",
+   "a": "Depende de su tamaño y tipo. El médico la valora y decide si hace falta tratamiento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu Doppler de vasos del cuello. No necesitas preparación. Quítate la cadena y los aretes."
+  }
+ ]
+}

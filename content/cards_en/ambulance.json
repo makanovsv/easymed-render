@@ -1,0 +1,82 @@
+{
+ "title": "When and how to call an ambulance",
+ "also": [
+  "calling an ambulance",
+  "emergency number",
+  "emergency services",
+  "when to call an ambulance",
+  "paramedics"
+ ],
+ "what": "How to know it is time to call an ambulance, and what to tell the dispatcher. Call your local emergency number.",
+ "why": "For dangerous situations: chest pain, trouble breathing, signs of a stroke, loss of consciousness, heavy bleeding, or a serious injury.",
+ "duration": "talking to the dispatcher usually takes 1 to 3 minutes; arrival time depends on urgency and location",
+ "tell_doctor": [
+  "What happened, and when",
+  "Age and condition: are they awake, are they breathing",
+  "The exact address: entrance, floor, door code",
+  "Your phone number"
+ ],
+ "prepare": [
+  {
+   "title": "Numbers",
+   "text": "Know your local emergency number by heart, and save it in your phone."
+  },
+  {
+   "title": "At home",
+   "text": "Keep the patient's documents and medicine list in one place."
+  },
+  {
+   "title": "Meeting the crew",
+   "text": "If possible, have someone open the door and meet the crew outside."
+  }
+ ],
+ "bring": [
+  "The patient's ID",
+  "A list of medicines, or the packs",
+  "Discharge papers and ECGs, if you have them",
+  "Your phone"
+ ],
+ "steps": [
+  "Call emergency services and speak calmly",
+  "Say what happened, the person's age, and the address",
+  "Answer the dispatcher's questions",
+  "Do not hang up until you are told you can",
+  "Follow the dispatcher's advice until help arrives",
+  "Open the door, put away dogs, and have documents ready"
+ ],
+ "feel": [
+  "Feeling panicked is normal. The dispatcher will guide you with questions",
+  "Do not leave out the key facts: are they breathing, are they awake"
+ ],
+ "after": [
+  "The ambulance crew will examine the person and give care",
+  "If needed, the person will be taken to hospital",
+  "If they stay at home, ask for advice"
+ ],
+ "red_flags": [
+  "Chest pain or pressure lasting more than a few minutes: call emergency services",
+  "A drooping face, a weak arm, or slurred speech: call emergency services right away",
+  "Trouble breathing, or the person is unconscious: call emergency services",
+  "Heavy bleeding or a serious injury: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can the ambulance refuse to come?",
+   "a": "When life is at risk, an ambulance is sent. Describe clearly what is happening."
+  },
+  {
+   "q": "Can I give medicine before help arrives?",
+   "a": "Ask the dispatcher. They will tell you what you can do."
+  },
+  {
+   "q": "What do I do if I see stroke signs?",
+   "a": "Call emergency services right away, and note the time it started. This matters for treatment."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Know your emergency number. When you call, say what happened and give the exact address."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Exame da secreção prostática",
+ "also": [
+  "secreção prostática",
+  "exame do líquido prostático",
+  "massagem prostática para exame",
+  "teste de Meares-Stamey"
+ ],
+ "what": "Pelo reto, o médico massageia a próstata com o dedo. A gota de líquido que sai vai para análise.",
+ "why": "Na suspeita de inflamação da próstata (prostatite), dor no períneo, problemas para urinar.",
+ "duration": "o procedimento leva normalmente de 5 a 10 minutos, com resultado normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Se agora você tem febre ou dor forte",
+  "Se você tem hemorroidas ou fissuras",
+  "Todos os remédios, principalmente antibióticos",
+  "Se fez outros exames de urologia há pouco tempo"
+ ],
+ "prepare": [
+  {
+   "title": "Abstinência",
+   "text": "Normalmente pedem de 2 a 3 dias sem relação sexual e sem ejacular. Confirme com a clínica."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Sem álcool, sem sauna. De manhã, o banho de sempre."
+  },
+  {
+   "title": "Intestino",
+   "text": "É bom evacuar antes do procedimento. Às vezes pedem uma lavagem intestinal. Confirme com a clínica."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "Se você toma antibiótico, avise o médico. Ele decide o melhor momento para o exame."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Você tira a roupa da cintura para baixo",
+  "Fica de joelhos e cotovelos ou deita de lado",
+  "O médico, de luva e com lubrificante, coloca o dedo no reto",
+  "Massageia a próstata por alguns segundos",
+  "A gota de secreção é colhida numa lâmina ou num tubo",
+  "Às vezes depois pedem para você colher urina"
+ ],
+ "feel": [
+  "Pressão desagradável, vontade de urinar",
+  "Às vezes uma dor leve. Avise o médico"
+ ],
+ "after": [
+  "Pode voltar às atividades normais na hora",
+  "Converse com o médico sobre o resultado"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus depois do procedimento",
+  "Dor forte no períneo ou você não consegue urinar"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Normalmente é desconfortável, mas não dói. O procedimento dura menos de um minuto."
+  },
+  {
+   "q": "E se não sair secreção?",
+   "a": "Isso acontece. Às vezes o médico pede para colher urina logo depois da massagem, ou o procedimento é repetido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Daqui a 2 dias é o exame da secreção prostática. Normalmente pedem 2 a 3 dias antes sem relação sexual, sem álcool e sem sauna."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "Hematologist visit",
+ "also": [
+  "hematologist",
+  "blood doctor",
+  "blood disorder specialist",
+  "hematology consultation"
+ ],
+ "what": "A doctor who treats blood disorders and problems with how blood is made.",
+ "why": "For abnormal blood tests: low hemoglobin, or too many or too few white cells or platelets. Also for easy bruising, bleeding, or swollen lymph nodes.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "What bothers you: weakness, bruises, bleeding, weight loss, sweating",
+  "All your medicines, especially blood thinners",
+  "Past blood transfusions",
+  "Blood disorders in relatives",
+  "For women: what your periods are like"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Bring all your recent blood tests. The doctor needs to see the trend."
+  },
+  {
+   "title": "Other results",
+   "text": "Bring ultrasounds and discharge papers, if you have them."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "Your skin and mouth lining are checked",
+  "Your lymph nodes and belly are felt",
+  "Your tests are reviewed",
+  "Tests or treatment are ordered"
+ ],
+ "feel": [
+  "Nothing unpleasant. It is a regular checkup",
+  "Feeling the belly and lymph nodes does not hurt"
+ ],
+ "after": [
+  "A repeat blood test is often ordered",
+  "Sometimes more tests are needed. The doctor will explain why"
+ ],
+ "red_flags": [
+  "Heavy bleeding that will not stop: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "I was referred to a hematologist. Should I be scared?",
+   "a": "No. Most often the cause is simple, like low iron. The doctor will sort it out."
+  },
+  {
+   "q": "Which tests should I bring?",
+   "a": "All the blood tests you have, especially the latest ones."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Hematologist visit tomorrow. Bring all your recent blood tests."
+  }
+ ]
+}

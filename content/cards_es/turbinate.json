@@ -1,0 +1,77 @@
+{
+ "title": "Reducción de cornetes por radiofrecuencia",
+ "also": [
+  "reducción de cornetes",
+  "turbinoplastia por radiofrecuencia",
+  "cauterización de cornetes",
+  "cornetes inflamados"
+ ],
+ "what": "Con un electrodo delgado, el médico reduce por dentro los cornetes de la nariz que están crecidos. La capa de encima queda intacta y la nariz respira más libre.",
+ "why": "Cuando la nariz está tapada siempre por cornetes grandes, y las gotas y sprays no ayudan.",
+ "duration": "el procedimiento suele durar de 15 a 30 minutos y te vas a casa el mismo día; el efecto se nota en 2 a 4 semanas",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Tus alergias, sobre todo a anestésicos",
+  "Si tienes marcapasos",
+  "Si te sangra la nariz seguido",
+  "Si usas gotas descongestionantes desde hace tiempo"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "Se hace cuando no tienes gripa ni catarro. Si te enfermas, cambia la fecha."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los dejes por tu cuenta. Dile al médico qué tomas y él decide."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente una comida ligera 1 o 2 horas antes. Pregunta en la clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Pañuelos desechables"
+ ],
+ "steps": [
+  "Te sientas en el sillón",
+  "Te ponen en la nariz algodones con anestesia o una inyección",
+  "Esperan unos minutos a que la nariz se duerma",
+  "El médico mete un electrodo delgado en el cornete y lo calienta por dentro",
+  "Hacen lo mismo del otro lado",
+  "A veces ponen tapones por un rato"
+ ],
+ "feel": [
+  "La inyección o los algodones son molestos, luego se duerme la nariz",
+  "Durante el procedimiento sientes presión, calor y a veces un chasquido",
+  "Te lloran los ojos. Es normal"
+ ],
+ "after": [
+  "Las primeras 1 a 2 semanas la nariz está más tapada que antes. Es la inflamación",
+  "Puede haber costras y secreción. El médico te dirá cómo lavarte la nariz",
+  "Por una semana más o menos no te suenes fuerte, sin sauna ni esfuerzos fuertes",
+  "Normalmente la nariz respira mejor después de 2 a 4 semanas"
+ ],
+ "red_flags": [
+  "La sangre de la nariz no se detiene en 10 a 15 minutos: llama a emergencias",
+  "Fiebre de más de 38, dolor fuerte en la nariz o en la cara"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué después respiro peor?",
+   "a": "Las primeras 1 a 2 semanas hay inflamación. Luego baja y respiras mejor."
+  },
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente no, porque se anestesia la nariz. Sientes presión y calor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu procedimiento de cornetes. Si tienes gripa o fiebre, llama a la clínica."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Osteossíntese de fratura",
+ "also": [
+  "osteossíntese",
+  "cirurgia de fratura",
+  "placa no osso",
+  "haste no osso",
+  "pinos no osso"
+ ],
+ "what": "O cirurgião coloca o osso quebrado no lugar e fixa com placa, parafusos, haste ou fios. Assim o osso consolida do jeito certo.",
+ "why": "Quando os fragmentos saíram do lugar ou o osso não vai consolidar reto no gesso.",
+ "duration": "a cirurgia leva normalmente de 1 a 3 horas; a internação depende do caso, normalmente alguns dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se você fuma. O cigarro atrasa a consolidação",
+  "Quando comeu e bebeu pela última vez"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Antes da cirurgia, não coma nem beba. O horário quem diz é o médico. Se a cirurgia for de urgência, não coma nada até perguntar."
+  },
+  {
+   "title": "Coisas",
+   "text": "Roupa larga e confortável, carregador do celular, os remédios que você toma sempre."
+  }
+ ],
+ "bring": [
+  "Radiografias e laudos do ortopedista",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para o hospital"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "O anestesista aplica anestesia geral ou bloqueio no membro",
+  "O cirurgião coloca os fragmentos do osso no lugar",
+  "O osso é fixado com o material de metal, e conferem no raio-X",
+  "O corte é suturado, e fazem o curativo, às vezes uma tala"
+ ],
+ "feel": [
+  "Depois da cirurgia dói. Dão analgésico",
+  "Inchaço e peso no membro nos primeiros dias",
+  "Depois da anestesia, sono e às vezes enjoo"
+ ],
+ "after": [
+  "O apoio no membro é liberado aos poucos, conforme o médico",
+  "As radiografias de controle são feitas depois de algumas semanas",
+  "O osso costuma consolidar entre 6 semanas e alguns meses",
+  "A fisioterapia ajuda a recuperar os movimentos"
+ ],
+ "red_flags": [
+  "Dor e inchaço na panturrilha, perna quente",
+  "Os dedos ficam roxos, frios ou dormentes",
+  "Febre acima de 38 graus, pus na ferida",
+  "Falta de ar ou dor no peito de repente: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Vou precisar tirar o metal?",
+   "a": "Nem sempre. Às vezes ele fica para sempre. Quem decide é o cirurgião, depois da consolidação."
+  },
+  {
+   "q": "O metal apita no aeroporto?",
+   "a": "Pode acontecer. Leve o resumo de alta do hospital para mostrar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a cirurgia. Comida e água, só até o horário que o médico indicou. Leve as radiografias e a lista de remédios."
+  }
+ ]
+}

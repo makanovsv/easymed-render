@@ -1,0 +1,71 @@
+{
+ "title": "Seguimiento folicular",
+ "also": [
+  "seguimiento folicular",
+  "foliculometría",
+  "ultrasonido de ovulación",
+  "monitoreo de ovulación"
+ ],
+ "what": "El médico revisa los ovarios con ultrasonido varias veces en un ciclo. Así se ve cómo crece el folículo y si hubo ovulación.",
+ "why": "Al planear un embarazo, con ciclo irregular, durante la estimulación de la ovulación, o antes de una fertilización in vitro.",
+ "duration": "cada visita dura normalmente de 10 a 15 minutos; en un ciclo suelen ser de 2 a 4 visitas; el resultado es inmediato",
+ "tell_doctor": [
+  "El primer día de tu última regla",
+  "Cómo es tu ciclo normalmente, de cuántos días",
+  "Si tomas hormonas o estás en estimulación",
+  "Si te operaron de los ovarios o del útero"
+ ],
+ "prepare": [
+  {
+   "title": "Cuándo ir",
+   "text": "La primera visita suele ser el día 8 a 10 del ciclo. Los días te los dice el médico, porque dependen de lo largo de tu ciclo."
+  },
+  {
+   "title": "Vejiga",
+   "text": "Normalmente se hace con un transductor vaginal, con la vejiga vacía. Ve al baño antes del estudio."
+  },
+  {
+   "title": "Higiene",
+   "text": "Un baño normal. No hace falta preparación especial."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu calendario o app con las fechas de tus reglas",
+  "Tus reportes de ultrasonido anteriores",
+  "Una sábana desechable y toallitas, si la clínica te lo pide"
+ ],
+ "steps": [
+  "Te quitas la ropa de la cintura para abajo y te acuestas en la camilla",
+  "Ponen al transductor una funda desechable con gel",
+  "Meten el transductor con cuidado en la vagina",
+  "El médico mide los folículos y el grosor de la capa interna del útero",
+  "Te dicen cuándo regresar a la siguiente visita"
+ ],
+ "feel": [
+  "Una ligera presión. Normalmente no duele",
+  "Si es molesto, díselo al médico y lo hará con más suavidad"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "El resultado de cada visita es inmediato",
+  "Al final, el médico te dirá cuáles son los mejores días para buscar el embarazo o el siguiente paso del tratamiento"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Cuántas veces tengo que ir?",
+   "a": "Normalmente de 2 a 4 veces en un ciclo, hasta saber si hubo ovulación."
+  },
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente no. Solo se siente una ligera presión del transductor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu seguimiento folicular. Ve al baño antes del estudio. Lleva las fechas de tus últimas reglas."
+  }
+ ]
+}

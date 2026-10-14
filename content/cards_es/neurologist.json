@@ -1,0 +1,67 @@
+{
+ "title": "Consulta con el neurólogo",
+ "also": [
+  "neurólogo",
+  "consulta de neurología",
+  "médico de los nervios"
+ ],
+ "what": "Es el médico que trata el sistema nervioso: el cerebro, la médula y los nervios. Te pregunta y revisa tus reflejos, tu fuerza y tu sensibilidad.",
+ "why": "Si tienes dolores de cabeza, mareos, dolor de espalda o de cuello, adormecimiento, convulsiones, o problemas de sueño o de memoria.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Qué te molesta, desde cuándo y qué te ayuda",
+  "Si tuviste golpes en la cabeza o la espalda",
+  "Qué medicamentos tomas",
+  "Presión alta o diabetes",
+  "Enfermedades del sistema nervioso en tu familia"
+ ],
+ "prepare": [
+  {
+   "title": "Diario",
+   "text": "Si tienes dolores de cabeza, apunta por unos días cuándo te duele, qué tan fuerte y qué te ayuda."
+  },
+  {
+   "title": "Estudios",
+   "text": "Lleva tu resonancia, tomografía o electroencefalograma con sus informes, si te los hiciste."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias",
+  "Revisa tus reflejos con un martillito",
+  "Te pide movimientos sencillos: cerrar los ojos, tocarte la nariz, caminar",
+  "Revisa la fuerza y la sensibilidad de brazos y piernas",
+  "Te explica qué sigue: tratamiento o estudios"
+ ],
+ "feel": [
+  "Nada molesto. Los golpecitos del martillo no duelen",
+  "A veces revisan la sensibilidad con un piquetito suave"
+ ],
+ "after": [
+  "El médico puede pedir resonancia, electroencefalograma o análisis",
+  "No cambies las indicaciones por tu cuenta; pregúntale al médico"
+ ],
+ "red_flags": [
+  "La cara se ve chueca, debilidad en un brazo o una pierna, problemas para hablar o el peor dolor de cabeza de tu vida de repente: no esperes la consulta, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Para qué el martillito?",
+   "a": "Así se revisan los reflejos. Muestra cómo funcionan los nervios."
+  },
+  {
+   "q": "¿Necesito una resonancia antes de la consulta?",
+   "a": "Normalmente no. El médico decide si hace falta."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el neurólogo. Lleva tus estudios, informes y la lista de medicamentos."
+  }
+ ]
+}

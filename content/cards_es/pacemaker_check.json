@@ -1,0 +1,73 @@
+{
+ "title": "Revisión del marcapasos",
+ "also": [
+  "revisión de marcapasos",
+  "interrogación del marcapasos",
+  "programación del marcapasos",
+  "control de marcapasos"
+ ],
+ "what": "El médico pone un cabezal especial sobre el aparato y lee sus datos. Revisa la batería y los cables y, si hace falta, cambia la configuración.",
+ "why": "Con regularidad después de ponerlo: normalmente a los pocos meses y luego cada 6 a 12 meses. El médico te dirá cuándo.",
+ "duration": "normalmente de 15 a 30 minutos; el resultado te lo dicen de inmediato",
+ "tell_doctor": [
+  "Si tuviste desmayos, mareos, falta de aire o el corazón muy acelerado",
+  "Todos tus medicamentos",
+  "Si cambiaron tus medicamentos desde la última revisión"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No hace falta nada especial. Come y toma tus medicamentos como siempre."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir fácilmente el pecho donde está el aparato."
+  },
+  {
+   "title": "Documentos",
+   "text": "La tarjeta del marcapasos, sin falta."
+  }
+ ],
+ "bring": [
+  "La tarjeta del marcapasos",
+  "El resumen de cuando te lo pusieron",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas o te sientas",
+  "Te ponen electrodos de electrocardiograma en brazos y piernas",
+  "Ponen el cabezal del programador sobre el aparato en el pecho",
+  "El médico lee los datos y revisa el funcionamiento",
+  "A veces cambia la configuración; el corazón puede latir distinto un momento",
+  "El médico te explica el resultado y te da la fecha de la siguiente revisión"
+ ],
+ "feel": [
+  "Normalmente nada",
+  "A veces por unos segundos cambia el pulso o te mareas. Díselo al médico"
+ ],
+ "after": [
+  "Apunta la fecha de la siguiente revisión",
+  "Lleva siempre contigo la tarjeta del aparato"
+ ],
+ "red_flags": [
+  "Desmayo o mareo fuerte: llama a emergencias",
+  "El pulso se volvió muy lento o muy rápido",
+  "Enrojecimiento, hinchazón o secreción sobre el aparato"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto dura la batería?",
+   "a": "Normalmente muchos años. La revisión muestra cuánto le queda, y el médico te avisa con tiempo cuándo cambiar el aparato."
+  },
+  {
+   "q": "¿Se puede revisar el aparato a distancia?",
+   "a": "Algunos aparatos lo permiten. Pregúntale al médico si el tuyo tiene esa opción."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la revisión de tu marcapasos. Lleva la tarjeta del aparato y la lista de medicamentos."
+  }
+ ]
+}

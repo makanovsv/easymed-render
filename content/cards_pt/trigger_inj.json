@@ -1,0 +1,80 @@
+{
+ "title": "Bloqueio para dor nas costas",
+ "also": [
+  "bloqueio",
+  "bloqueio na coluna",
+  "infiltração na coluna",
+  "bloqueio peridural",
+  "bloqueio de nervo"
+ ],
+ "what": "O médico aplica um anestésico, às vezes junto com corticoide, perto de um nervo ou de uma articulação da coluna. Isso diminui a dor e a inflamação.",
+ "why": "Com dor forte nas costas ou no pescoço que vai para o braço ou a perna, com hérnia de disco, quando remédios e fisioterapia ajudam pouco.",
+ "duration": "normalmente de 15 a 30 minutos, mais 20 a 30 minutos de observação. O efeito dura de algumas horas a alguns dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico decide se algo precisa mudar",
+  "Alergias a remédios e anestésicos",
+  "Diabetes. O corticoide pode subir a glicose",
+  "Se agora tem febre ou infecção",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente pode tomar um café da manhã leve. Confirme com a clínica."
+  },
+  {
+   "title": "Imagens",
+   "text": "Leve a ressonância ou a tomografia da coluna. Por elas, escolhem o local."
+  },
+  {
+   "title": "Volta para casa",
+   "text": "Depois do procedimento, a perna pode ficar dormente. É melhor que alguém leve você para casa."
+  }
+ ],
+ "bring": [
+  "Pedido médico e ressonância ou tomografia",
+  "Lista de remédios",
+  "Acompanhante"
+ ],
+ "steps": [
+  "Você se deita de barriga para baixo ou de lado",
+  "Limpam a pele com antisséptico",
+  "Às vezes, primeiro, anestesiam a pele",
+  "O médico coloca uma agulha fina, muitas vezes guiada por raio-X ou ultrassom",
+  "Aplica o remédio devagar",
+  "Retiram a agulha e colocam um curativo",
+  "Você fica um pouco deitado em observação"
+ ],
+ "feel": [
+  "Picada e pressão",
+  "Às vezes a dor conhecida aumenta por um instante. Quer dizer que a agulha está perto do nervo",
+  "Calor ou dormência nas costas ou na perna"
+ ],
+ "after": [
+  "A dormência passa em algumas horas. Cuidado ao andar",
+  "No dia do procedimento, não dirija",
+  "Nos primeiros 1 a 2 dias, a dor pode até piorar, depois normalmente melhora",
+  "Continue a fisioterapia, como o médico orientar"
+ ],
+ "red_flags": [
+  "Fraqueza nas pernas, dormência na região íntima, problemas para urinar ou evacuar: ligue para a emergência",
+  "Febre acima de 38 graus, dor forte nas costas no local da aplicação",
+  "Dor de cabeça forte que melhora deitado"
+ ],
+ "faq": [
+  {
+   "q": "O bloqueio cura a hérnia?",
+   "a": "Não. Ele tira a dor e a inflamação, para você conseguir se mexer e continuar o tratamento."
+  },
+  {
+   "q": "Quantos bloqueios posso fazer?",
+   "a": "Quem decide é o médico. Normalmente os bloqueios não são feitos com frequência, é preciso intervalo entre eles."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o bloqueio. Leve a ressonância da coluna e combine quem vai levar você para casa."
+  }
+ ]
+}

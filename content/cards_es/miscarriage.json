@@ -1,0 +1,85 @@
+{
+ "title": "Atención por aborto espontáneo",
+ "also": [
+  "aborto espontáneo",
+  "pérdida del embarazo",
+  "embarazo detenido",
+  "huevo muerto retenido",
+  "legrado después de una pérdida"
+ ],
+ "what": "Es la atención cuando el embarazo se detuvo o empezó una pérdida. El médico revisa si todo salió del útero y ayuda a terminar el proceso con cuidado.",
+ "why": "Si hay sangrado y dolor al inicio del embarazo, o cuando en el ultrasonido el embarazo dejó de desarrollarse.",
+ "duration": "la revisión y el ultrasonido, alrededor de una hora; el tratamiento, de unas horas a 1 o 2 semanas, según la forma",
+ "tell_doctor": [
+  "Cuándo empezaron el sangrado y el dolor",
+  "Tu tipo de sangre y factor Rh",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Alergias a medicamentos",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Opciones",
+   "text": "El médico te explica las opciones: esperar, tomar pastillas o hacer un procedimiento corto. Juntos deciden qué te conviene."
+  },
+  {
+   "title": "Comida",
+   "text": "Si será un procedimiento con anestesia, normalmente no comes 6 horas antes. Pregúntale al médico."
+  },
+  {
+   "title": "Alguien cercano",
+   "text": "Pide a alguien cercano que esté contigo y te acompañe a casa."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Los resultados del ultrasonido y los análisis",
+  "Toallas sanitarias",
+  "Un acompañante"
+ ],
+ "steps": [
+  "El médico te revisa y hace un ultrasonido",
+  "Te explica qué pasó y qué opciones hay",
+  "Si eligen esperar, te vas a casa con un plan y un teléfono de contacto",
+  "Si son pastillas, las tomas y en unas horas sale el tejido",
+  "Si es un procedimiento, con anestesia corta el médico vacía el útero con cuidado por el cuello, sin cortes",
+  "En 1 o 2 semanas, revisión o ultrasonido de control"
+ ],
+ "feel": [
+  "Cólicos como una regla fuerte, y sangrado",
+  "Después de la anestesia, sueño",
+  "Tristeza, culpa o confusión son naturales. No dudes en pedir apoyo"
+ ],
+ "after": [
+  "El sangrado suele durar hasta 2 semanas",
+  "Sin tampones, alberca ni relaciones sexuales hasta que termine el sangrado",
+  "Si tu Rh es negativo, puede hacer falta una inyección de inmunoglobulina",
+  "Platica con el médico sobre un nuevo embarazo. Él te dirá cuándo",
+  "Casi siempre la pérdida es algo que pasa por azar, no es tu culpa"
+ ],
+ "red_flags": [
+  "Empapas 2 toallas grandes en una hora, 2 horas seguidas: llama a emergencias",
+  "Dolor fuerte en el abdomen o desmayo: llama a emergencias",
+  "Fiebre de más de 38 o flujo con mal olor: ve al médico de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿Fue mi culpa?",
+   "a": "Casi nunca. La mayoría de las pérdidas pasan por un error al azar en los cromosomas."
+  },
+  {
+   "q": "¿Cuándo me puedo volver a embarazar?",
+   "a": "Normalmente después de la primera regla, si te sientes lista. Pregúntale al médico."
+  },
+  {
+   "q": "¿Se puede evitar el legrado?",
+   "a": "Muchas veces sí: esperando o con pastillas. El médico te dice qué es seguro para ti."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta con el médico. Lleva toallas sanitarias y los resultados del ultrasonido. Pide a alguien cercano que esté contigo."
+  }
+ ]
+}

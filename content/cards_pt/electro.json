@@ -1,0 +1,75 @@
+{
+ "title": "Iontoforese",
+ "also": [
+  "iontoforese",
+  "eletroterapia com medicamento",
+  "corrente galvânica",
+  "eletroforese medicamentosa"
+ ],
+ "what": "Uma corrente elétrica fraca ajuda o remédio a passar pela pele até o local certo. No corpo são colocadas almofadas úmidas com eletrodos.",
+ "why": "Com dores nas articulações e nas costas, depois de lesões, com inflamação, como parte do tratamento indicado pelo médico. Também é usada em crianças.",
+ "duration": "a sessão dura normalmente de 10 a 20 minutos; o tratamento costuma ter cerca de 10 sessões. Quantas, o médico decide",
+ "tell_doctor": [
+  "Se você usa marca-passo ou tem metal nessa região",
+  "Se você está grávida",
+  "Se está com febre",
+  "Alergia a remédios",
+  "Feridas, manchas ou arranhões na pele do local",
+  "Doenças oncológicas"
+ ],
+ "prepare": [
+  {
+   "title": "Pele",
+   "text": "Pele limpa, sem creme e sem feridas."
+  },
+  {
+   "title": "Comida",
+   "text": "Não vá com fome nem logo depois de uma refeição pesada."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, para mostrar o local. Tire as joias dessa região."
+  }
+ ],
+ "bring": [
+  "O pedido do médico",
+  "O remédio, se a clínica pediu para trazer o seu",
+  "Uma toalha, se pedirem"
+ ],
+ "steps": [
+  "Você deita ou senta confortavelmente",
+  "Na pele colocam almofadas úmidas, às vezes com remédio",
+  "Por cima vão os eletrodos, que são presos",
+  "A enfermagem liga o aparelho e aumenta a corrente aos poucos",
+  "Você fica tranquilo até o fim da sessão",
+  "As almofadas são retiradas, e a pele é seca"
+ ],
+ "feel": [
+  "Um leve formigamento ou pinicação",
+  "Não deve arder. Se arder, avise a enfermagem na hora"
+ ],
+ "after": [
+  "Pode ficar uma leve vermelhidão sob os eletrodos, que passa sozinha",
+  "Não esfregue nem molhe a pele logo depois da sessão",
+  "Vá às sessões conforme o calendário. O tratamento completo é o que importa"
+ ],
+ "red_flags": [
+  "Queimadura, bolha ou vermelhidão forte na pele: mostre ao médico"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Não. Normalmente você sente só um leve formigamento."
+  },
+  {
+   "q": "Pode fazer em criança?",
+   "a": "Sim, também é feita em crianças, se o médico indicar. Para elas, a corrente é mais fraca."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Hoje é a iontoforese. Pele sem creme. Leve o pedido do médico."
+  }
+ ]
+}

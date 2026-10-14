@@ -1,0 +1,68 @@
+{
+ "title": "Cariótipo",
+ "also": [
+  "cariótipo",
+  "exame de cromossomos",
+  "cariótipo com bandas G",
+  "estudo cromossômico"
+ ],
+ "what": "É um exame de sangue colhido da veia. No laboratório, contam e analisam os cromossomos, que carregam a informação hereditária.",
+ "why": "Com infertilidade, abortos de repetição, antes de fertilização in vitro ou com suspeita de doença genética na criança.",
+ "duration": "a coleta leva de 3 a 5 minutos, o resultado sai normalmente em 2 a 4 semanas",
+ "tell_doctor": [
+  "Se agora está doente ou com febre",
+  "Se toma antibiótico ou hormônios",
+  "Se já recebeu transfusão de sangue",
+  "Se há doenças genéticas na família"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "É melhor fazer quando você está bem. Se esteve doente há pouco tempo, confirme o prazo com o médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de jejum, mas antes da coleta é melhor não comer gordura. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Resultados de exames genéticos anteriores, se tiver"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam o garrote acima do cotovelo e limpam a pele",
+  "O sangue vai para um tubo especial",
+  "Retiram a agulha e colocam um algodão"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "O resultado sai normalmente em 2 a 4 semanas. As células precisam crescer",
+  "O ideal é conversar sobre o resultado com um médico geneticista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que o exame demora tanto?",
+   "a": "As células do sangue são cultivadas por alguns dias, e depois os cromossomos são analisados no microscópio."
+  },
+  {
+   "q": "Se o cariótipo é normal, não há problema genético?",
+   "a": "Nem sempre. O cariótipo vê alterações grandes. As pequenas são procuradas com outros exames, se precisar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de cariótipo. Se estiver doente, ligue para a clínica."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Electrocardiograma en niños",
+ "also": [
+  "electrocardiograma infantil",
+  "electrocardiograma pediátrico",
+  "ECG para niños",
+  "electro para la escuela o el deporte"
+ ],
+ "what": "La enfermera registra cómo trabaja el corazón del niño con unos electrodos que se pegan en la piel. Es rápido, seguro y no duele.",
+ "why": "En una revisión, antes de un deporte, la guardería o la escuela, con soplo en el corazón, desmayos o si siente palpitaciones.",
+ "duration": "normalmente de 5 a 10 minutos; el reporte muchas veces está el mismo día",
+ "tell_doctor": [
+  "Qué le molesta al niño, si tiene molestias",
+  "Qué medicamentos toma",
+  "Si ha tenido desmayos",
+  "Si hay problemas del corazón en la familia"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No hace falta. Puede comer y beber."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda para descubrir fácilmente el pecho, los brazos abajo del codo y las piernas abajo de la rodilla."
+  },
+  {
+   "title": "Piel",
+   "text": "El día del estudio no le pongas crema en el pecho."
+  },
+  {
+   "title": "Ánimo",
+   "text": "Dile al niño: le van a pegar unas calcomanías frías, pero no duele."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Sus electrocardiogramas anteriores, si los tiene",
+  "Una sábana para el bebé",
+  "Un juguete para distraerlo"
+ ],
+ "steps": [
+  "El niño se acuesta en la camilla y tú estás a su lado",
+  "Le ponen electrodos con ventosa o calcomanías en los brazos, las piernas y el pecho",
+  "Le piden quedarse quieto y no hablar",
+  "El registro dura de 1 a 2 minutos",
+  "Le quitan los electrodos"
+ ],
+ "feel": [
+  "Las calcomanías están frías. No duele",
+  "Los bebés a veces lloran y el registro se repite cuando se calman"
+ ],
+ "after": [
+  "Puede seguir con su día de inmediato",
+  "El reporte del médico suele estar el mismo día",
+  "Platica el resultado con el pediatra"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué el electrocardiograma de un niño no se parece al de un adulto?",
+   "a": "Los niños tienen otros valores normales: el pulso es más rápido, y mucho de lo que sería raro en un adulto es normal en un niño."
+  },
+  {
+   "q": "Si el niño llora, ¿se arruina el registro?",
+   "a": "Puede ser. Entonces esperan a que se calme y lo repiten."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es el electrocardiograma de tu hijo. No necesita preparación. Vístelo cómodo y no le pongas crema en el pecho."
+  }
+ ]
+}

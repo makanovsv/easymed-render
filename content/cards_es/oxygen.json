@@ -1,0 +1,68 @@
+{
+ "title": "Oxigenoterapia",
+ "also": [
+  "oxígeno",
+  "puntas nasales",
+  "mascarilla de oxígeno",
+  "concentrador de oxígeno"
+ ],
+ "what": "Respiras aire con más oxígeno por unas puntas en la nariz o por una mascarilla. Así hay más oxígeno en la sangre.",
+ "why": "Cuando hay poco oxígeno en la sangre: con neumonía, enfermedades de los pulmones o del corazón, o después de una cirugía. A veces el oxígeno se indica también en casa.",
+ "duration": "desde unas horas hasta uso permanente, según el médico",
+ "tell_doctor": [
+  "Si fumas. Cerca del oxígeno no se puede fumar",
+  "Enfermedades crónicas de los pulmones",
+  "Si se te seca la nariz o te duelen las orejas por las puntas"
+ ],
+ "prepare": [
+  {
+   "title": "Seguridad",
+   "text": "El oxígeno aviva el fuego. Cerca no se fuma, no se prenden velas ni la estufa, y no se usan cremas grasosas en la cara."
+  },
+  {
+   "title": "Flujo",
+   "text": "Cuánto oxígeno usar lo decide el médico. No cambies el flujo por tu cuenta."
+  }
+ ],
+ "bring": [
+  "La lista de tus medicamentos",
+  "Un bálsamo de labios a base de agua. La nariz y los labios se pueden resecar"
+ ],
+ "steps": [
+  "La enfermera elige las puntas nasales o la mascarilla",
+  "Te ponen las puntas en la nariz y las sujetan detrás de las orejas",
+  "Prenden el oxígeno con el flujo que indicó el médico",
+  "Te ponen un sensor en el dedo que muestra el nivel de oxígeno",
+  "Respira normal, por la nariz o por la boca"
+ ],
+ "feel": [
+  "Un flujo de aire suave en la nariz",
+  "Se pueden resecar la nariz y la boca",
+  "A veces las puntas rozan detrás de las orejas"
+ ],
+ "after": [
+  "El nivel de oxígeno se revisa con regularidad",
+  "El flujo se baja poco a poco cuando mejoras",
+  "Si te indicaron oxígeno en casa, te enseñarán a usar el aparato"
+ ],
+ "red_flags": [
+  "Aumenta la falta de aire, los labios se ponen morados, hay confusión o mucho sueño: llama a emergencias",
+  "En casa el aparato dejó de funcionar y sin oxígeno te sientes mal: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Uno se puede volver dependiente del oxígeno?",
+   "a": "No, no crea dependencia. El oxígeno se indica mientras el cuerpo lo necesita."
+  },
+  {
+   "q": "¿Puedo comer y hablar con las puntas en la nariz?",
+   "a": "Sí, las puntas nasales no lo impiden."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Revisa tu oxígeno: el flujo como lo indicó el médico, y nada de fuego ni cigarros cerca."
+  }
+ ]
+}

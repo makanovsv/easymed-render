@@ -1,0 +1,77 @@
+{
+ "title": "Genetic counseling",
+ "also": [
+  "genetic counseling",
+  "geneticist",
+  "clinical genetics",
+  "genetic consultation"
+ ],
+ "what": "A genetics doctor looks at whether inherited conditions run in your family and what the risk is for you or your child. They explain genetic test results in plain words.",
+ "why": "When planning a pregnancy, after unusual screening results, if inherited conditions run in the family, or if a child has developmental differences.",
+ "duration": "the visit usually takes 30 to 60 minutes; genetic test results, if ordered, take from a few days to a few weeks",
+ "tell_doctor": [
+  "Conditions in close relatives: parents, siblings, children",
+  "Any miscarriages or pregnancies that stopped developing",
+  "If you and your partner are related by blood",
+  "How far along you are, if pregnant",
+  "What tests have already been done"
+ ],
+ "prepare": [
+  {
+   "title": "Family",
+   "text": "Ask your relatives in advance: who had what, at what age, and what your grandparents died of."
+  },
+  {
+   "title": "Documents",
+   "text": "Gather discharge papers, screening, ultrasound, and test results, yours and your child's."
+  },
+  {
+   "title": "Questions",
+   "text": "Write down what you want to know. It is easy to forget at the visit."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Your ID",
+  "Discharge papers and test results",
+  "Notes on conditions in the family"
+ ],
+ "steps": [
+  "The doctor asks about you, your pregnancies, and your relatives' health",
+  "A family tree is drawn: who had which conditions",
+  "If needed, you or your child are examined",
+  "The doctor explains what the risk is and what it depends on",
+  "If needed, tests are offered, and the doctor explains what they will show",
+  "You discuss next steps together"
+ ],
+ "feel": [
+  "The conversation can be hard. That is normal. Ask any questions",
+  "You usually make the decisions. The doctor only explains"
+ ],
+ "after": [
+  "If a test was ordered, the clinic will tell you when results are due",
+  "You usually come back for a follow-up with the results",
+  "Ask for a written report"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why see a geneticist if everyone in my family is healthy?",
+   "a": "Doctors sometimes advise it when planning a pregnancy or after screening. A geneticist will help you understand the risk, and reassure you if it is low."
+  },
+  {
+   "q": "Does a genetic test hurt?",
+   "a": "Usually not. Most often blood is taken from a vein, or a swab from inside the cheek."
+  },
+  {
+   "q": "Should I bring my partner?",
+   "a": "It often helps. The doctor needs the history of both families. Check with the clinic."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Genetic counseling tomorrow. Bring discharge papers, test results, and notes on family conditions."
+  }
+ ]
+}

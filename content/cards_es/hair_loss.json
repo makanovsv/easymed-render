@@ -1,0 +1,72 @@
+{
+ "title": "Tricoscopia (caída del cabello)",
+ "also": [
+  "tricoscopia",
+  "caída del cabello",
+  "tricólogo",
+  "estudio del cabello",
+  "alopecia"
+ ],
+ "what": "El médico revisa el cuero cabelludo y el cabello con una cámara especial que aumenta la imagen. No duele y ayuda a entender por qué se cae el cabello.",
+ "why": "Cuando se cae mucho el cabello, se ve más ralo o aparecieron zonas sin cabello.",
+ "duration": "la revisión suele durar de 15 a 30 minutos; el reporte suele estar de inmediato",
+ "tell_doctor": [
+  "Cuándo empezó la caída y qué pasó antes: enfermedades, estrés, un parto, dietas",
+  "Todos tus medicamentos y suplementos",
+  "Si a tus familiares también se les cae el cabello",
+  "Problemas hormonales, si sabes que los tienes"
+ ],
+ "prepare": [
+  {
+   "title": "Lavado",
+   "text": "Normalmente no te laves el cabello 1 a 2 días antes de la revisión. Pregunta en la clínica."
+  },
+  {
+   "title": "Productos",
+   "text": "El día de la revisión no uses spray, gel ni shampoo en seco."
+  },
+  {
+   "title": "Tinte",
+   "text": "No te pintes el cabello 1 a 2 semanas antes de la revisión."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus análisis, si ya te los hiciste",
+  "La lista de tus medicamentos y suplementos"
+ ],
+ "steps": [
+  "El médico te pregunta por la caída del cabello",
+  "Revisa el cabello y el cuero cabelludo",
+  "Pone la cámara en diferentes partes de la cabeza",
+  "La imagen aumentada se ve en la pantalla",
+  "A veces toman fotos para comparar en la siguiente visita",
+  "El médico te explica el resultado y pide análisis o indica el tratamiento"
+ ],
+ "feel": [
+  "No duele. La cámara solo toca la piel",
+  "A veces el médico jala con cuidado un mechón para ver qué tan firme está el cabello"
+ ],
+ "after": [
+  "Puedes lavarte el cabello y usar tus productos de inmediato",
+  "Hazte los análisis, si el médico los pidió",
+  "La siguiente revisión suele ser después de unos meses de tratamiento"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Es normal que se caiga cabello todos los días?",
+   "a": "Sí, cada día se cae algo de cabello. Si notas que se cae mucho más, conviene ir al médico."
+  },
+  {
+   "q": "¿Cuándo se ve el efecto del tratamiento?",
+   "a": "El cabello crece despacio. Normalmente se valora a los 3 a 6 meses."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu tricoscopia. Normalmente no te laves el cabello ni uses spray o gel. Pregunta en la clínica."
+  }
+ ]
+}

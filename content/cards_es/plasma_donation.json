@@ -1,0 +1,74 @@
+{
+ "title": "Donar sangre",
+ "also": [
+  "donación de sangre",
+  "ser donador de sangre",
+  "donar plasma",
+  "donación altruista"
+ ],
+ "what": "Donas de forma voluntaria unos 450 ml de sangre o una parte de ella, como plasma o plaquetas. Esa sangre salva a otras personas.",
+ "why": "La sangre donada se necesita en cirugías, accidentes, partos, tratamientos de cáncer y enfermedades de la sangre.",
+ "duration": "normalmente cerca de una hora con el cuestionario y la revisión; donar sangre completa toma unos 10 minutos, el plasma tarda más",
+ "tell_doctor": [
+  "Todas tus enfermedades y medicamentos, con honestidad en el cuestionario",
+  "Tatuajes, piercings, cirugías o viajes recientes",
+  "Si estuviste enfermo hace poco o tomaste antibióticos",
+  "Si estás embarazada o dando pecho"
+ ],
+ "prepare": [
+  {
+   "title": "Requisitos",
+   "text": "Normalmente puede donar un adulto sano de 18 años o más que pese 50 kg o más. Los requisitos exactos te los dicen en el banco de sangre."
+  },
+  {
+   "title": "Comida",
+   "text": "No vayas en ayunas. Un desayuno ligero sin grasa: avena con agua, galletas sencillas, té con azúcar."
+  },
+  {
+   "title": "Antes",
+   "text": "2 días antes, sin alcohol. La noche anterior, sin comida grasosa, y duerme bien. Una hora antes de donar, no fumes."
+  }
+ ],
+ "bring": [
+  "Una identificación oficial",
+  "Agua"
+ ],
+ "steps": [
+  "Llenas un cuestionario de salud",
+  "Toman una gota de sangre del dedo para la hemoglobina",
+  "El médico te mide la presión y te hace una revisión breve",
+  "Te acuestas en el sillón de donación",
+  "Te meten una aguja en la vena del codo y la sangre se junta en una bolsa",
+  "Sacan la aguja y te ponen un vendaje"
+ ],
+ "feel": [
+  "Un piquete al meter la aguja",
+  "A veces un ligero mareo. Avísale de inmediato a la enfermera"
+ ],
+ "after": [
+  "Quédate sentado de 10 a 15 minutos y toma un té con azúcar",
+  "No te quites el vendaje en 3 a 4 horas",
+  "Ese día toma más líquidos, sin esfuerzos fuertes y sin alcohol",
+  "Puedes volver a donar después del tiempo que te digan en el banco de sangre"
+ ],
+ "red_flags": [
+  "Desmayos repetidos o mucha debilidad en casa: avísale al médico",
+  "El brazo está hinchado, duele mucho o se adormece"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo contagiar de algo al donar sangre?",
+   "a": "No. Las agujas y las bolsas son desechables y se abren frente a ti."
+  },
+  {
+   "q": "¿Cuánto tarda en recuperarse la sangre?",
+   "a": "El líquido, en 1 a 2 días. Las células de la sangre, en unas semanas. Por eso hay que esperar entre donaciones."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana donas sangre. Hoy sin comida grasosa ni alcohol, y duerme bien. En la mañana desayuna ligero, no vayas en ayunas."
+  }
+ ]
+}

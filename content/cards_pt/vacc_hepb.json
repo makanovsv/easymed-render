@@ -1,0 +1,72 @@
+{
+ "title": "Vacina contra hepatite B",
+ "also": [
+  "vacina da hepatite B",
+  "vacina contra hepatite",
+  "vacinação hepatite B",
+  "hepatite B vacina"
+ ],
+ "what": "Uma injeção de vacina que protege o fígado contra o vírus da hepatite B. Normalmente são precisas algumas doses conforme o calendário.",
+ "why": "Para recém-nascidos nos primeiros dias de vida, crianças conforme o calendário, adultos não vacinados, profissionais de saúde e quem tem na família alguém com o vírus.",
+ "duration": "a injeção leva alguns segundos, com a avaliação normalmente de 15 a 40 minutos; o esquema costuma ter 3 doses ao longo de alguns meses",
+ "tell_doctor": [
+  "Se está doente agora ou com febre",
+  "Alergias e reações fortes a vacinas anteriores",
+  "Alergia a levedura",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é aplicada quando você está saudável. Antes da injeção, fazem uma avaliação."
+  },
+  {
+   "title": "Calendário",
+   "text": "O esquema costuma ter 3 doses. Anote as datas para não perder."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, para mostrar o braço com facilidade."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "A carteira de vacinação"
+ ],
+ "steps": [
+  "O médico ou a enfermagem pergunta como você está e mede a temperatura",
+  "Você mostra o braço",
+  "A pele é limpa, e aplicam a injeção",
+  "A vacina é registrada nos documentos",
+  "Depois da injeção, é preciso ficar cerca de 30 minutos na clínica"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes o local dói por 1 a 2 dias",
+  "Às vezes fraqueza ou um pouco de febre"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala",
+  "Pode voltar às atividades normais",
+  "A próxima dose, conforme o calendário. A data vão informar"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "E se eu perdi a segunda dose?",
+   "a": "Normalmente o esquema não recomeça do zero. Procure o médico, e ele continua de onde parou."
+  },
+  {
+   "q": "Preciso conferir a proteção depois do esquema?",
+   "a": "Às vezes o médico recomenda um exame de anticorpos, por exemplo para profissionais de saúde. Confirme com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina contra hepatite B. Leve a carteira de vacinação."
+  }
+ ]
+}

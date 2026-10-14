@@ -1,0 +1,71 @@
+{
+ "title": "Fator reumatoide e anti-CCP",
+ "also": [
+  "fator reumatoide",
+  "FR",
+  "anti-CCP",
+  "anticorpo anti-CCP",
+  "provas reumáticas"
+ ],
+ "what": "É um exame de sangue colhido da veia. Procura anticorpos que aparecem na inflamação das articulações.",
+ "why": "Com dor, inchaço e rigidez de manhã nas articulações, principalmente das mãos e dos pés.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente em 1 a 5 dias",
+ "tell_doctor": [
+  "Quais articulações doem e há quanto tempo",
+  "Se de manhã as mãos ficam rígidas por mais de meia hora",
+  "Quais remédios você toma, principalmente corticoides e analgésicos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "De preferência de manhã, em jejum de 8 a 12 horas. Água pode. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "No dia anterior, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma. Ele decide se algo precisa mudar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Exames e radiografias anteriores das articulações, se tiver"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos, sem dobrar o braço",
+  "Você já pode comer e voltar à rotina",
+  "O resultado sai normalmente em 1 a 5 dias. O prazo quem informa é o laboratório",
+  "O resultado é avaliado pelo reumatologista junto com o exame físico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Fator reumatoide positivo é artrite reumatoide?",
+   "a": "Nem sempre. Ele aparece também em pessoas saudáveis e em outras doenças. Quem dá o diagnóstico é o médico."
+  },
+  {
+   "q": "Por que fazer o anti-CCP junto com o fator reumatoide?",
+   "a": "Juntos eles são mais precisos. O anti-CCP pode dar positivo mais cedo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de fator reumatoide e anti-CCP. Depois do jantar, não coma mais nada. Água pura pode."
+  }
+ ]
+}

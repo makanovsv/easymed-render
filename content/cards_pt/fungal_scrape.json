@@ -1,0 +1,69 @@
+{
+ "title": "Exame micológico de pele e unhas",
+ "also": [
+  "exame micológico",
+  "raspado de unha",
+  "exame direto para fungos",
+  "raspado de pele",
+  "exame para micose de unha"
+ ],
+ "what": "Raspam um pouquinho da pele ou da unha. No microscópio e na cultura, veem se há fungo.",
+ "why": "Com descamação, coceira ou manchas na pele, ou unhas grossas e amareladas, antes de começar o tratamento.",
+ "duration": "a coleta leva de 5 a 10 minutos, o exame direto sai normalmente em 1 a 3 dias, e a cultura em 2 a 4 semanas",
+ "tell_doctor": [
+  "Se passa antifúngico na pele ou nas unhas",
+  "Se toma comprimido para fungo",
+  "Se passou esmalte comum ou esmalte de tratamento"
+ ],
+ "prepare": [
+  {
+   "title": "Tratamento",
+   "text": "Normalmente o exame é feito antes do tratamento ou depois de uma pausa. O tempo da pausa quem diz é o médico. Não pare por conta própria."
+  },
+  {
+   "title": "Unhas",
+   "text": "Por alguns dias, não corte nem lixe as unhas afetadas. Tire o esmalte."
+  },
+  {
+   "title": "Pele",
+   "text": "No dia do exame, não passe creme e não lave o local com sabonete."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "O médico examina a pele ou as unhas",
+  "Limpam o local",
+  "Com bisturi ou lâmina, raspam com cuidado escamas da pele ou pedacinhos da unha",
+  "O material vai para uma lâmina ou um tubo",
+  "É enviado ao laboratório"
+ ],
+ "feel": [
+  "Normalmente não dói. Só tiram a camada de cima, que já está morta",
+  "Às vezes é um pouco desconfortável na borda da unha"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "O exame direto sai normalmente em 1 a 3 dias",
+  "A cultura sai em 2 a 4 semanas e mostra qual é o fungo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que não posso passar pomada antes do exame?",
+   "a": "Ela pode esconder o fungo, e o exame vem como nada encontrado."
+  },
+  {
+   "q": "Preciso mesmo do exame, se dá para ver que é fungo?",
+   "a": "Sim. Alterações parecidas aparecem em outras doenças. O tratamento de fungo é longo, por isso ele é confirmado antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o exame micológico. Não corte as unhas afetadas, tire o esmalte e não passe creme na pele."
+  }
+ ]
+}

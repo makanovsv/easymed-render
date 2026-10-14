@@ -1,0 +1,73 @@
+{
+ "title": "Consulta con el urólogo pediatra",
+ "also": [
+  "urólogo pediatra",
+  "urología infantil",
+  "urólogo para niños",
+  "revisión de genitales en niños"
+ ],
+ "what": "El médico revisa los genitales y las vías urinarias de tu hijo. Revisa que se estén desarrollando bien.",
+ "why": "En las revisiones de rutina de los niños, si hay problemas para orinar, se le escapa la orina, o hay hinchazón o dolor en el escroto.",
+ "duration": "normalmente de 15 a 30 minutos; las recomendaciones te las dan de inmediato",
+ "tell_doctor": [
+  "Qué te preocupa y desde cuándo",
+  "Cada cuánto orina tu hijo y si tiene accidentes",
+  "Si tuvo infecciones de orina",
+  "Si lo han operado",
+  "Qué medicamentos toma"
+ ],
+ "prepare": [
+  {
+   "title": "Platica con tu hijo",
+   "text": "Explícale con calma que el médico lo va a revisar y que no duele. No lo asustes con el médico."
+  },
+  {
+   "title": "Higiene",
+   "text": "En la mañana, aseo normal, sin productos especiales."
+  },
+  {
+   "title": "Análisis",
+   "text": "Si el médico pidió antes un examen de orina o un ultrasonido, hazlos antes de la consulta."
+  }
+ ],
+ "bring": [
+  "El documento de tu hijo",
+  "Exámenes de orina y ultrasonidos anteriores, si tienes",
+  "Un pañal o ropa interior de cambio para el pequeño"
+ ],
+ "steps": [
+  "El médico te pregunta sobre las molestias y el desarrollo de tu hijo",
+  "Le piden a tu hijo que se quite la ropa de la cintura para abajo",
+  "El médico revisa los genitales, a veces de pie y acostado",
+  "Si hace falta, le palpa el abdomen",
+  "Te explica lo que vio y te da recomendaciones"
+ ],
+ "feel": [
+  "La revisión normalmente no duele",
+  "Tu hijo puede sentir pena o llorar. Tú estás a su lado, es normal"
+ ],
+ "after": [
+  "Si pidieron ultrasonido o análisis, hazlos y regresa a la consulta",
+  "Sigue las recomendaciones de higiene"
+ ],
+ "red_flags": [
+  "Dolor fuerte y repentino o hinchazón del escroto: ve al médico de urgencia o llama a emergencias",
+  "Tu hijo no puede orinar"
+ ],
+ "faq": [
+  {
+   "q": "¿Tengo que bajarle el prepucio a mi bebé?",
+   "a": "No. No se debe hacer a la fuerza. El médico te explica cómo cuidarlo."
+  },
+  {
+   "q": "¿Desde qué edad llevo a mi hijo al urólogo?",
+   "a": "Normalmente lo revisan en las consultas de rutina. Si hay molestias, a cualquier edad."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la consulta con el urólogo pediatra. Lleva el documento de tu hijo y sus análisis anteriores."
+  }
+ ]
+}

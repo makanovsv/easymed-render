@@ -1,0 +1,83 @@
+{
+ "title": "ICD implant (implantable defibrillator)",
+ "also": [
+  "ICD",
+  "implantable cardioverter defibrillator",
+  "defibrillator implant",
+  "ICD surgery"
+ ],
+ "what": "A small device is placed under the skin below the collarbone, and leads are passed through a vein to the heart. If the rhythm becomes dangerous, the device restores it, sometimes with a shock.",
+ "why": "For a high risk of dangerous heart rhythms, for example after cardiac arrest or with a very weak heart.",
+ "duration": "surgery usually takes 1 to 2 hours, with 1 to 3 days in hospital",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners. Your doctor will say what to stop and when",
+  "Allergies, including to antibiotics and antiseptics",
+  "Which hand you write with. The device usually goes on the other side",
+  "Kidney disease or diabetes",
+  "Any past problems with anesthesia"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Blood tests, an ECG, and a heart ultrasound. The clinic will give you a list."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no food for a few hours. The clinic will tell you the exact time."
+  },
+  {
+   "title": "Hygiene",
+   "text": "Shower the day before. Sometimes you are asked to shave your chest."
+  },
+  {
+   "title": "Things to pack",
+   "text": "Comfortable clothes that open at the front, your medicines, and a charger."
+  }
+ ],
+ "bring": [
+  "Your referral and test results",
+  "Documents and a list of your medicines",
+  "Things for a 1 to 3 day hospital stay"
+ ],
+ "steps": [
+  "An IV line is placed, and you get a sedative",
+  "The skin below the collarbone is numbed with a shot",
+  "The doctor makes a small cut and passes the leads through a vein to the heart",
+  "The leads are connected to the device",
+  "The device is placed under the skin, and the cut is stitched",
+  "The device is tested, sometimes under brief anesthesia"
+ ],
+ "feel": [
+  "The numbing shot",
+  "Pressure and tugging during the surgery",
+  "Pain at the cut for a few days. You will get painkillers"
+ ],
+ "after": [
+  "For a few weeks, do not raise the arm on the device side above your shoulder",
+  "No heavy lifting for about a month",
+  "You will get a device card. Carry it with you",
+  "Device checks on your doctor's schedule",
+  "Your doctor will explain about magnets, phones, and airport scanners"
+ ],
+ "red_flags": [
+  "The device gave a shock and you feel unwell, or several shocks in a row: call emergency services",
+  "A fever over 38°C (100.4°F), or redness, pus, or swelling over the device",
+  "Severe shortness of breath or fainting: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "What will I feel if the device gives a shock?",
+   "a": "A strong jolt in the chest for a moment. If it is one shock and you feel fine, tell your doctor. If you feel unwell, call emergency services."
+  },
+  {
+   "q": "Can I drive with the device?",
+   "a": "There may be limits, especially at first and after shocks. Your doctor will say for how long."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Defibrillator implant tomorrow. Take a shower, and pack your documents and things. Eat only until the time the clinic gave you."
+  }
+ ]
+}

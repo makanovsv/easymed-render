@@ -1,0 +1,65 @@
+{
+ "title": "Gonioscopy",
+ "also": [
+  "gonioscopy",
+  "eye drainage angle exam",
+  "glaucoma angle check"
+ ],
+ "what": "The doctor places a special lens on your eye to look at the area where fluid drains out of the eye.",
+ "why": "For glaucoma or suspected glaucoma, and before laser treatment for glaucoma.",
+ "duration": "usually 5 to 15 minutes; the doctor tells you the result right away",
+ "tell_doctor": [
+  "Allergy to eye drops",
+  "If you wear contact lenses",
+  "Past eye surgery"
+ ],
+ "prepare": [
+  {
+   "title": "Contacts",
+   "text": "If you wear contact lenses, they will be taken out before the exam. Bring your case."
+  },
+  {
+   "title": "Getting there",
+   "text": "Your vision may be a little hazy for a while. Plan your trip home."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your glasses",
+  "A contact lens case"
+ ],
+ "steps": [
+  "The eye is numbed with drops",
+  "You rest your chin on a stand",
+  "The doctor gently places a lens with gel on your eye",
+  "You are asked to look in different directions",
+  "The lens is removed, and the eye is rinsed if needed"
+ ],
+ "feel": [
+  "Usually no pain, just a touch",
+  "An urge to blink. The doctor will help hold the eyelid"
+ ],
+ "after": [
+  "Do not rub your eye while the numbing drops are working",
+  "Mild haziness and redness usually pass quickly"
+ ],
+ "red_flags": [
+  "Severe pain or worse vision after the exam: see a doctor"
+ ],
+ "faq": [
+  {
+   "q": "Does it hurt?",
+   "a": "Usually not. The eye is numbed with drops."
+  },
+  {
+   "q": "How is this different from a regular exam?",
+   "a": "A regular exam does not show the drainage angle. That needs a special lens."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Eye exam in 2 hours. If you wear contacts, bring your case."
+  }
+ ]
+}

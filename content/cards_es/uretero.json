@@ -1,0 +1,81 @@
+{
+ "title": "Ureteroscopia",
+ "also": [
+  "ureteroscopia",
+  "ureterorrenoscopia",
+  "litotricia láser",
+  "romper piedras del uréter"
+ ],
+ "what": "El urólogo mete un instrumento delgado con cámara por la uretra hasta la vejiga y el uréter. No hay cortes. Casi siempre se usa para romper y sacar piedras.",
+ "why": "Con una piedra en el uréter o el riñón que no sale sola; a veces con un estrechamiento del uréter o para tomar una muestra de tejido.",
+ "duration": "normalmente de 30 a 90 minutos; en el hospital normalmente de 1 a 2 días; a veces te vas a casa el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá qué cambiar y cuándo",
+  "Alergias",
+  "Enfermedades del corazón, los pulmones o diabetes",
+  "Si ahora tienes fiebre o señales de infección urinaria",
+  "Si tú o tus familiares tuvieron problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Examen y cultivo de orina, análisis de sangre, tomografía o ultrasonido de riñones. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Te preguntará por tu salud y tus medicamentos, y elegirá la anestesia: general o raquídea."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La hora exacta te la dice la clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de tus análisis",
+  "Tus imágenes de tomografía o ultrasonido",
+  "Tus documentos y la lista de tus medicamentos",
+  "Tus cosas para 1 a 2 días en el hospital"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena",
+  "En el quirófano, el anestesiólogo te pone la anestesia",
+  "El urólogo mete el instrumento delgado por la uretra, sin cortes",
+  "Rompen la piedra con láser y sacan los pedazos",
+  "Muchas veces ponen un tubito delgado, un catéter doble J, del riñón a la vejiga mientras sana",
+  "Despiertas en el cuarto, a veces con una sonda en la vejiga"
+ ],
+ "feel": [
+  "Después de la anestesia, sueño y a veces náuseas",
+  "Ardor al orinar y ganas frecuentes de orinar",
+  "Orina rosada los primeros días",
+  "Con el catéter doble J, molestia en el costado al orinar"
+ ],
+ "after": [
+  "Toma más agua, salvo que el médico te diga otra cosa",
+  "El catéter doble J normalmente se quita en unos días o semanas. No te pases de esa fecha",
+  "Los pedacitos de piedra pueden salir con la orina por unos días",
+  "Pueden mandar la piedra a analizar. Eso ayuda a elegir cómo prevenir nuevas piedras"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 o escalofríos: ve al médico de inmediato o llama a emergencias",
+  "No puedes orinar: llama a emergencias",
+  "Dolor fuerte en el costado que no se quita con el analgésico",
+  "Orina rojo intenso o con coágulos"
+ ],
+ "faq": [
+  {
+   "q": "¿Habrá cortes?",
+   "a": "No. El instrumento entra por el camino natural: la uretra."
+  },
+  {
+   "q": "¿Para qué el catéter doble J y cuándo lo quitan?",
+   "a": "Ayuda a que la orina salga mientras sana el uréter. Cuándo quitarlo te lo dice el urólogo. Es importante no pasarse de esa fecha."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu ureteroscopia. Prepara tus cosas, documentos e imágenes. Comida y agua solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

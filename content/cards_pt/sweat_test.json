@@ -1,0 +1,76 @@
+{
+ "title": "Teste do suor",
+ "also": [
+  "teste do suor",
+  "cloro no suor",
+  "exame para fibrose cística",
+  "teste do suor em criança"
+ ],
+ "what": "Estimulam um pouco de suor na pele do braço e colhem esse suor. Nele medem o sal. Isso ajuda a investigar fibrose cística.",
+ "why": "Quando o teste do pezinho mostrou risco de fibrose cística, com bronquites e pneumonias frequentes, pouco ganho de peso ou fezes gordurosas.",
+ "duration": "normalmente de 30 a 60 minutos, o resultado muitas vezes sai no mesmo dia",
+ "tell_doctor": [
+  "Se a criança tem eczema ou irritação nos braços",
+  "Se ela toma corticoides ou diuréticos",
+  "Se agora está doente ou com febre",
+  "O peso do bebê e a idade em semanas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de preparo especial. Alimente o bebê como sempre."
+  },
+  {
+   "title": "Pele",
+   "text": "No dia do teste, não passe creme nem óleo nos braços."
+  },
+  {
+   "title": "Saúde",
+   "text": "Se a criança estiver doente, pergunte se é melhor adiar o teste."
+  },
+  {
+   "title": "Crianças",
+   "text": "Leve um brinquedo, um livro ou desenhos. É preciso ficar sentado cerca de meia hora."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documentos da criança",
+  "Resultado do teste do pezinho, se tiver",
+  "Brinquedo e lanche"
+ ],
+ "steps": [
+  "Lavam e secam a pele do antebraço",
+  "Colocam dois eletrodos pequenos com gel e passam uma corrente fraca por uns 5 minutos",
+  "Tiram os eletrodos e prendem um coletor de suor no local",
+  "A criança fica sentada tranquila por uns 30 minutos, com o braço coberto",
+  "Tiram o coletor e mandam para o laboratório"
+ ],
+ "feel": [
+  "Um leve formigamento ou calor embaixo dos eletrodos",
+  "Não dói, mas a criança pode achar a espera chata",
+  "Depois, a pele pode ficar um pouco vermelha"
+ ],
+ "after": [
+  "A vermelhidão passa em algumas horas",
+  "O resultado muitas vezes sai no mesmo dia ou em 1 a 2 dias",
+  "Às vezes o teste é repetido, se juntou pouco suor"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "A corrente é perigosa para a criança?",
+   "a": "Não. A corrente é bem fraca e só ajuda a pele a soltar suor."
+  },
+  {
+   "q": "E se o resultado ficar no limite?",
+   "a": "O médico pode pedir um novo teste ou um exame genético."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o teste do suor. Não passe creme nos braços da criança e leve um brinquedo para a meia hora de espera."
+  }
+ ]
+}

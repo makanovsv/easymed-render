@@ -1,0 +1,73 @@
+{
+ "title": "Spine CT scan",
+ "also": [
+  "spine CT",
+  "lumbar spine CT",
+  "neck CT",
+  "CT scan of the back"
+ ],
+ "what": "Cross-section images of your vertebrae. They show bones best: fractures, a narrowed spinal canal, and bone spurs.",
+ "why": "After a back injury, for pain, if MRI is not possible, before surgery, and to check after it.",
+ "duration": "usually 10 to 15 minutes in the room; the report the same day or in 1 to 2 days",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "If CT with contrast is ordered: any allergy to iodine or contrast dye, and kidney disease",
+  "If you have metal hardware in your spine",
+  "If it is hard to lie on your back because of pain"
+ ],
+ "prepare": [
+  {
+   "title": "Without contrast",
+   "text": "No prep needed. You can eat and drink."
+  },
+  {
+   "title": "With contrast",
+   "text": "Usually no food for 3 to 4 hours. Water is fine. Sometimes a creatinine blood test is needed. Check with the clinic."
+  },
+  {
+   "title": "Clothing",
+   "text": "No metal in the scan area: zippers, clasps, or belts."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past CT and MRI scans of the spine",
+  "Painkillers your doctor prescribed, if the pain is strong"
+ ],
+ "steps": [
+  "You lie on the table, and the technician helps you get comfortable",
+  "The table moves into the wide ring of the scanner",
+  "Keep still, and sometimes hold your breath on command",
+  "If contrast is used, it goes into a vein and more images are taken"
+ ],
+ "feel": [
+  "It does not hurt. The scanner hums quietly",
+  "The ring is wide, so it does not feel cramped",
+  "With contrast: a wave of warmth and a metallic taste. It passes in a minute"
+ ],
+ "after": [
+  "You can go back to your day right away",
+  "After contrast, drink more water, unless your doctor said otherwise",
+  "Take the report to a neurologist or spine surgeon"
+ ],
+ "red_flags": [
+  "Numbness between the legs, trouble peeing, or sudden weakness in the legs: call emergency services right away",
+  "After contrast: itching, a rash, a swollen face, or trouble breathing. Tell the staff right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Which is better for a herniated disc, CT or MRI?",
+   "a": "Discs and nerves are seen better on MRI. CT shows bones better. Your doctor chooses."
+  },
+  {
+   "q": "Can I have a spine CT with metal in my back?",
+   "a": "Yes. Metal does not rule out CT, but it may slightly affect the images."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Spine CT soon. If contrast is used, do not eat for 3 to 4 hours. Water is fine."
+  }
+ ]
+}

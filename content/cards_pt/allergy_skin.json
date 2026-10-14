@@ -1,0 +1,80 @@
+{
+ "title": "Teste alérgico na pele (prick test)",
+ "also": [
+  "teste alérgico",
+  "prick test",
+  "teste de puntura",
+  "teste cutâneo de alergia",
+  "teste de alergia na pele"
+ ],
+ "what": "Pingam soluções com alérgenos na pele do antebraço ou das costas e arranham levemente a pele. Depois de 15 a 20 minutos, veem onde apareceu vermelhidão e uma bolinha.",
+ "why": "Com rinite alérgica, manchas na pele, asma, reação a alimentos ou picadas, para saber exatamente do que é a alergia.",
+ "duration": "normalmente de 30 a 60 minutos, com a espera. O resultado sai na hora",
+ "tell_doctor": [
+  "Todos os remédios, principalmente antialérgicos, corticoides e remédios de pressão",
+  "Se já teve reação alérgica grave ou inchaço",
+  "Se agora a alergia ou a asma estão em crise",
+  "Se você está grávida",
+  "Doenças de pele nos braços ou nas costas"
+ ],
+ "prepare": [
+  {
+   "title": "Antialérgicos",
+   "text": "Eles podem esconder o resultado. Não pare por conta própria. Fale com o médico, ele diz o que suspender e quantos dias antes."
+  },
+  {
+   "title": "Saúde",
+   "text": "O teste normalmente é feito fora de crise. Com alergia forte ou resfriado agora, ele é adiado."
+  },
+  {
+   "title": "Pele",
+   "text": "No dia do teste, não passe creme nos braços e nas costas."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de subir ou uma roupa que deixe as costas à mostra."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios",
+  "Anotações de reações e exames de alergia anteriores"
+ ],
+ "steps": [
+  "O médico confirma quais alérgenos vai testar",
+  "Limpam a pele e marcam os pontos com caneta",
+  "Em cada marca, pingam uma solução de alérgeno",
+  "Através da gota, arranham ou picam de leve a pele com uma lanceta descartável",
+  "Você espera de 15 a 20 minutos, sem mexer na pele",
+  "O médico mede as bolinhas e anota o resultado"
+ ],
+ "feel": [
+  "Uma leve picadinha no arranhão",
+  "Onde houver reação: coceira, vermelhidão e uma bolinha, como picada de mosquito"
+ ],
+ "after": [
+  "A coceira e as bolinhas normalmente somem em algumas horas",
+  "Não coce a pele",
+  "O médico explica o resultado na hora"
+ ],
+ "red_flags": [
+  "Inchaço no rosto ou nos lábios, dificuldade para respirar, fraqueza forte depois do teste: ligue para a emergência",
+  "Manchas fortes pelo corpo todo: procure o médico na hora"
+ ],
+ "faq": [
+  {
+   "q": "Criança pode fazer o teste?",
+   "a": "Sim, normalmente a partir de alguns anos de idade. A idade e o tipo de teste quem decide é o alergista."
+  },
+  {
+   "q": "Por que não posso tomar antialérgico antes?",
+   "a": "Ele bloqueia a reação da pele, e o teste pode não mostrar nada. O médico diz quantos dias antes suspender."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Daqui a 3 dias é o teste alérgico. Pergunte ao médico se precisa suspender o antialérgico antes. Não suspenda por conta própria."
+  }
+ ]
+}

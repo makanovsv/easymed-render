@@ -1,0 +1,70 @@
+{
+ "title": "Gammagrafía de tiroides",
+ "also": [
+  "gammagrafía tiroidea",
+  "gammagrama de tiroides",
+  "centellograma de tiroides"
+ ],
+ "what": "Te ponen en la vena una dosis pequeña de una sustancia marcada. La tiroides la absorbe, y la cámara muestra qué zonas trabajan más.",
+ "why": "Con la tiroides acelerada, para saber la causa, o con nódulos, para ver cuáles están activos.",
+ "duration": "toda la visita suele durar de 1 a 2 horas; el reporte en 1 a 2 días",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si estás dando pecho. Habrá que hacer una pausa",
+  "Medicamentos para la tiroides",
+  "Si en los últimos 1 a 2 meses te hicieron una tomografía con contraste o tomaste yodo"
+ ],
+ "prepare": [
+  {
+   "title": "Yodo",
+   "text": "Normalmente unas semanas antes se dejan los suplementos con yodo. Pregunta el tiempo en la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "A veces los medicamentos para la tiroides se suspenden por un tiempo. No lo hagas por tu cuenta. Díselo al médico y él decidirá."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate cadenas y joyas del cuello."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus análisis de hormonas tiroideas",
+  "Tu ultrasonido de tiroides"
+ ],
+ "steps": [
+  "Te ponen una inyección en la vena",
+  "Esperas unos 15 a 30 minutos",
+  "Te acuestas boca arriba con la cabeza un poco hacia atrás",
+  "Ponen la cámara sobre el cuello. No te muevas y, si puedes, no tragues",
+  "La imagen dura unos minutos"
+ ],
+ "feel": [
+  "La inyección es como en un análisis de sangre",
+  "La sustancia no se siente"
+ ],
+ "after": [
+  "Puedes seguir con tu día",
+  "Toma agua y ve al baño seguido",
+  "Pregunta en la clínica sobre dar pecho y estar cerca de bebés",
+  "Lleva el reporte al endocrinólogo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué no puedo tomar yodo antes del estudio?",
+   "a": "El yodo llena la tiroides y la sustancia marcada no se absorbe bien. La imagen no saldría exacta."
+  },
+  {
+   "q": "¿Esto sustituye el ultrasonido?",
+   "a": "No. El ultrasonido muestra la forma, y la gammagrafía cómo trabaja la glándula. Muchas veces se hacen los dos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu gammagrafía de tiroides. Lleva tus análisis de hormonas y tu ultrasonido."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Consulta com dermatologista",
+ "also": [
+  "dermatologista",
+  "médico de pele",
+  "consulta de dermatologia"
+ ],
+ "what": "É o médico que trata doenças da pele, do cabelo e das unhas e examina as pintas.",
+ "why": "Com manchas vermelhas, coceira, acne, manchas na pele, queda de cabelo, micose de unha, mudanças nas pintas.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Quando apareceu e como foi mudando",
+  "O que você já passou ou tomou",
+  "Alergia a remédios e cosméticos",
+  "Quais remédios você toma sempre",
+  "Doenças de pele na família"
+ ],
+ "prepare": [
+  {
+   "title": "Pele",
+   "text": "No dia da consulta, não passe creme nem pomada no local. O médico precisa ver como está."
+  },
+  {
+   "title": "Maquiagem",
+   "text": "Se o problema é no rosto, vá sem maquiagem. Se é nas unhas, sem esmalte."
+  },
+  {
+   "title": "Fotos",
+   "text": "Se as manchas aparecem e somem, tire fotos delas."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Fotos das manchas, se tiver",
+  "Os nomes dos cremes e pomadas que usou",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Examina a pele com boa luz",
+  "Olha as pintas com uma lupa especial, o dermatoscópio",
+  "Às vezes faz uma raspagem para exame",
+  "Indica o tratamento ou pede exames"
+ ],
+ "feel": [
+  "O exame não dói",
+  "A raspagem é um arranhãozinho leve, quase não dói"
+ ],
+ "after": [
+  "Use os produtos como o médico orientou e não pare antes do fim",
+  "Compare as mudanças pelas fotos"
+ ],
+ "red_flags": [
+  "Inchaço no rosto ou nos lábios crescendo rápido, manchas com febre alta: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso passar algo nas manchas antes da consulta?",
+   "a": "No dia da consulta é melhor não. O médico precisa ver a pele sem pomada."
+  },
+  {
+   "q": "De quanto em quanto tempo examinar as pintas?",
+   "a": "Normalmente uma vez por ano, se o médico não disser outra coisa. Antes, se a pinta mudar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o dermatologista. Não passe creme no local e vá sem maquiagem e sem esmalte."
+  }
+ ]
+}

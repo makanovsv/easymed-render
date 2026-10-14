@@ -1,0 +1,76 @@
+{
+ "title": "Furo na orelha",
+ "also": [
+  "furar a orelha",
+  "furo no lóbulo",
+  "piercing no lóbulo",
+  "brinco para bebê"
+ ],
+ "what": "O lóbulo da orelha é furado com um instrumento estéril, e o brinco é colocado na hora. Leva alguns minutos.",
+ "why": "Por vontade do adulto ou dos pais, para a criança.",
+ "duration": "o procedimento em si leva normalmente de 10 a 15 minutos. A cicatrização leva normalmente de 6 a 8 semanas",
+ "tell_doctor": [
+  "Alergia a metais, principalmente níquel",
+  "Tendência a queloide",
+  "Doenças de pele, infecções frequentes",
+  "Remédios que afinam o sangue",
+  "Para criança: doenças e vacinas recentes"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "O furo é feito quando você ou a criança estão bem: sem febre e sem resfriado."
+  },
+  {
+   "title": "Cabelo",
+   "text": "Prenda o cabelo longe das orelhas, com presilha ou elástico."
+  },
+  {
+   "title": "Para a criança",
+   "text": "Explique para a criança, com calma, que vai ser rápido e só um pouquinho desagradável."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Documento do responsável e certidão da criança, se for furar a orelha da criança"
+ ],
+ "steps": [
+  "Limpam os lóbulos com antisséptico",
+  "Marcam os pontos com caneta, e você confere se ficaram retos",
+  "Às vezes passam um creme anestésico",
+  "Um furo rápido, e o brinco já entra",
+  "Prendem o fecho e limpam o local de novo",
+  "Explicam como cuidar do furo"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "O lóbulo pode arder e ficar vermelho por algumas horas"
+ ],
+ "after": [
+  "Não tire os primeiros brincos por 6 a 8 semanas, ou pelo tempo que indicarem",
+  "Limpe os lóbulos com antisséptico 1 a 2 vezes por dia",
+  "Não mexa nos furos com as mãos sujas",
+  "Por algumas semanas, não mergulhe em piscina, rio ou mar"
+ ],
+ "red_flags": [
+  "O lóbulo ficou muito inchado, dói, sai pus",
+  "O fecho ou o brinco entrou no lóbulo",
+  "Apareceu febre"
+ ],
+ "faq": [
+  {
+   "q": "Com que idade posso furar a orelha da criança?",
+   "a": "Não há idade fixa. Muitas famílias esperam a criança conseguir cuidar das orelhas sozinha. Converse com o pediatra."
+  },
+  {
+   "q": "Quando posso trocar os brincos?",
+   "a": "Normalmente depois de 6 a 8 semanas, quando o furo cicatrizou. No começo, é melhor brincos lisos de metal hipoalergênico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o furo na orelha. Prenda o cabelo e leve o documento. Se houver febre, é melhor remarcar."
+  }
+ ]
+}

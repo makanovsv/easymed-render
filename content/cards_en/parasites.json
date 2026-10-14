@@ -1,0 +1,71 @@
+{
+ "title": "Stool test for parasites (ova and parasites)",
+ "also": [
+  "stool ova and parasites",
+  "O&P test",
+  "stool test for worms",
+  "parasite stool test"
+ ],
+ "what": "At home, you collect a little stool in a special container. In the lab, it is checked under a microscope for worm eggs and other parasites.",
+ "why": "For certificates for kindergarten, school, or a pool; or for belly pain, itching, loose stools, or poor appetite.",
+ "duration": "collecting at home takes a few minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "If you take or recently took worm medicines or antibiotics",
+  "If you recently had an X-ray with contrast",
+  "If you take laxatives"
+ ],
+ "prepare": [
+  {
+   "title": "Container",
+   "text": "Get a sterile container with a small scoop from the lab or a pharmacy. Sometimes the container has liquid inside. Do not pour it out."
+  },
+  {
+   "title": "Collecting",
+   "text": "Collect stool from a natural bowel movement, without enemas or laxatives. Keep urine out of the container."
+  },
+  {
+   "title": "Storage",
+   "text": "Take it to the lab the same day, usually within a few hours. Ask the lab how to store it."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take."
+  }
+ ],
+ "bring": [
+  "The container with the sample",
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "Pass stool into a clean, dry pot or a bag, not into the toilet water",
+  "Use the scoop in the lid to take a little stool from different spots",
+  "Fill the container about one third full",
+  "Close it tightly and label it",
+  "Take it to the lab within the time you were given"
+ ],
+ "feel": [
+  "Nothing unpleasant, just a little awkward"
+ ],
+ "after": [
+  "Results usually come in 1 to 3 days",
+  "Sometimes the doctor asks for 2 or 3 samples. This makes finding parasites more likely"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why repeat the test if nothing was found?",
+   "a": "Eggs do not come out every day. So the test is sometimes done several times, a few days apart."
+  },
+  {
+   "q": "Can I collect stool in the evening and bring it in the morning?",
+   "a": "It depends on the lab and the type of container. Ask in advance."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Stool test for parasites tomorrow. Get the container and a clean pot or bag ready."
+  }
+ ]
+}

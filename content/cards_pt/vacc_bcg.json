@@ -1,0 +1,73 @@
+{
+ "title": "BCG no recém-nascido",
+ "also": [
+  "vacina BCG",
+  "vacina contra tuberculose",
+  "vacina na maternidade"
+ ],
+ "what": "É a vacina contra tuberculose. O bebê recebe uma pequena injeção na pele do braço, normalmente na maternidade.",
+ "why": "Para recém-nascidos nos primeiros dias de vida, se não houver contraindicação.",
+ "duration": "a injeção leva alguns segundos; a marquinha no braço costuma cicatrizar em 2 a 4 meses",
+ "tell_doctor": [
+  "Se o bebê nasceu prematuro ou com baixo peso",
+  "Se o bebê tem algum problema de saúde agora",
+  "Se há doenças da imunidade na família",
+  "Se alguém da família tem tuberculose"
+ ],
+ "prepare": [
+  {
+   "title": "Consentimento",
+   "text": "Na maternidade, podem pedir sua autorização para a vacina."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Pergunte ao médico, se quiser saber das contraindicações."
+  },
+  {
+   "title": "Se não foi feita",
+   "text": "Se a vacina foi adiada na maternidade, ela é aplicada no posto de saúde."
+  }
+ ],
+ "bring": [
+  "Documentos do bebê, se a vacina for no posto",
+  "O resumo de alta da maternidade"
+ ],
+ "steps": [
+  "O médico examina o bebê",
+  "A enfermagem limpa a pele do braço",
+  "Com uma agulha fina, aplica a vacina na pele",
+  "Aparece uma pequena bolinha branca, que logo some",
+  "A vacina é registrada nos documentos"
+ ],
+ "feel": [
+  "O bebê pode chorar um pouquinho",
+  "De 4 a 8 semanas depois, no local surge um carocinho ou uma pequena ferida com pus. É normal",
+  "Depois vem uma casquinha e uma pequena cicatriz"
+ ],
+ "after": [
+  "Não passe nada no local e não cubra",
+  "Não mexa na casquinha e não esprema",
+  "Pode dar banho no bebê, só não esfregue o braço com bucha",
+  "Mostre a cicatriz ao pediatra na consulta"
+ ],
+ "red_flags": [
+  "No local da vacina, uma ferida grande, com mais de um centímetro, ou vermelhidão forte em volta",
+  "Um caroço aumentou na axila do mesmo lado"
+ ],
+ "faq": [
+  {
+   "q": "É normal ter uma feridinha com pus no braço?",
+   "a": "Sim, isso deve acontecer depois de um ou dois meses. Não passe nada."
+  },
+  {
+   "q": "Por que não ficou cicatriz?",
+   "a": "Isso acontece. Mostre o braço ao pediatra, e ele diz o que fazer."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina BCG do bebê. Leve os documentos e o resumo de alta da maternidade."
+  }
+ ]
+}

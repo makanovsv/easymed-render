@@ -1,0 +1,71 @@
+{
+ "title": "Examen de orina de Nechiporenko (conteo de células)",
+ "also": [
+  "conteo de células en orina",
+  "sedimento urinario cuantitativo",
+  "examen de orina de chorro medio",
+  "prueba de Nechiporenko"
+ ],
+ "what": "Es un análisis de la primera orina de la mañana. En el laboratorio cuentan cuántos glóbulos blancos, glóbulos rojos y cilindros hay. Es un análisis común en Rusia y Kazajistán.",
+ "why": "Si el examen general de orina salió alterado, con enfermedades de los riñones y las vías urinarias, o para controlar el tratamiento.",
+ "duration": "recoger la muestra toma 5 minutos; el resultado suele estar al día siguiente",
+ "tell_doctor": [
+  "Si tomas diuréticos o antibióticos",
+  "Si estás en tu regla",
+  "Si hace poco te hicieron una cistoscopia o te pusieron una sonda"
+ ],
+ "prepare": [
+  {
+   "title": "El día anterior",
+   "text": "Normalmente no comas alimentos que pintan la orina, como betabel o frutos rojos intensos. Sin alcohol ni ejercicio intenso."
+  },
+  {
+   "title": "Regla",
+   "text": "Durante la regla normalmente no se hace el análisis. Cambia la fecha. Pregunta al médico."
+  },
+  {
+   "title": "Frasco",
+   "text": "Un frasco estéril de la farmacia o del laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas."
+  }
+ ],
+ "bring": [
+  "El frasco con la orina",
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "En la mañana, al despertar, lávate los genitales con agua tibia sin jabón",
+  "Los primeros segundos orina en el inodoro",
+  "El chorro de en medio recógelo en el frasco",
+  "El resto, otra vez en el inodoro",
+  "Cierra el frasco y llévalo al laboratorio en 1 a 2 horas"
+ ],
+ "feel": [
+  "Nada molesto"
+ ],
+ "after": [
+  "El resultado suele estar al día siguiente",
+  "Tu médico te explica el resultado"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿En qué se diferencia del examen general de orina?",
+   "a": "Aquí se cuentan con exactitud las células en 1 ml de orina. Ayuda a ver lo que el examen general no muestra con claridad."
+  },
+  {
+   "q": "¿Por qué tiene que ser el chorro de en medio?",
+   "a": "El primer chorro arrastra células de la piel y de la mucosa. El chorro medio muestra mejor lo que hay en los riñones y la vejiga."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu examen de orina de Nechiporenko. En la mañana recoge el chorro de en medio en un frasco estéril."
+  }
+ ]
+}

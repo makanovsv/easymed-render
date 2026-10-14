@@ -1,0 +1,77 @@
+{
+ "title": "HPV vaccine",
+ "also": [
+  "HPV vaccine",
+  "HPV vaccination",
+  "cervical cancer vaccine",
+  "human papillomavirus vaccine"
+ ],
+ "what": "A vaccine shot in the upper arm. It protects against human papillomavirus, which can cause cervical cancer and other diseases.",
+ "why": "Best for children aged about 9 to 14, before they become sexually active. For teens and adults, on a doctor's advice.",
+ "duration": "the shot takes a few seconds, with the checkup usually 15 to 40 minutes; the course is 1 to 3 shots, depending on age",
+ "tell_doctor": [
+  "If you are ill now or have a fever",
+  "Allergies and strong reactions to past vaccines",
+  "If you are pregnant",
+  "If you have fainted from shots before"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "The vaccine is given when you are well. You will have a short check first."
+  },
+  {
+   "title": "Food",
+   "text": "Best to eat beforehand. Teens feel dizzy more often on an empty stomach."
+  },
+  {
+   "title": "Schedule",
+   "text": "Your doctor will say how many shots are needed and how far apart. Check with the clinic."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your vaccination certificate or record"
+ ],
+ "steps": [
+  "The doctor asks how you feel and takes your temperature",
+  "You uncover your upper arm",
+  "The skin is wiped, and the shot is given",
+  "The vaccine is recorded in your documents",
+  "After the shot, sit in the clinic for 15 to 30 minutes"
+ ],
+ "feel": [
+  "A quick prick",
+  "Sometimes soreness or redness at the spot for 1 to 3 days",
+  "Sometimes tiredness, a headache, or a mild fever"
+ ],
+ "after": [
+  "Stay near the room, and do not stand up suddenly",
+  "You can go back to normal activities",
+  "Next shot on schedule, if needed"
+ ],
+ "red_flags": [
+  "Trouble breathing, swelling of the face or throat, or a rash all over: call emergency services",
+  "Fainting after the shot: lay the person down and call the nurse"
+ ],
+ "faq": [
+  {
+   "q": "Why vaccinate a child so early?",
+   "a": "The vaccine works best before contact with the virus. Children's immune systems respond more strongly."
+  },
+  {
+   "q": "Do boys need it too?",
+   "a": "In many countries, it is recommended for boys too. Ask your doctor."
+  },
+  {
+   "q": "Does the vaccine replace gynecology checkups?",
+   "a": "No. Regular checkups and smear tests are still needed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "HPV vaccine tomorrow. Have breakfast in the morning, and bring your vaccination record."
+  }
+ ]
+}

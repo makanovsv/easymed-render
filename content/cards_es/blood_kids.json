@@ -1,0 +1,74 @@
+{
+ "title": "Análisis de sangre en niños",
+ "also": [
+  "análisis de sangre infantil",
+  "toma de sangre a niños",
+  "sangre del dedo en niños",
+  "análisis de sangre pediátrico"
+ ],
+ "what": "La enfermera saca un poco de sangre del dedo o de la vena del niño. Normalmente toma un par de minutos.",
+ "why": "En una revisión, cuando está enfermo, antes de entrar a la guardería o la escuela, antes de una cirugía, o para controlar un tratamiento.",
+ "duration": "normalmente de 3 a 10 minutos; el resultado muchas veces está en 1 a 2 días",
+ "tell_doctor": [
+  "Si el niño se ha desmayado o tiene mucho miedo a las agujas",
+  "Si toma medicamentos",
+  "Si tiene alergia al látex o a la cinta adhesiva",
+  "Si tiene problemas de coagulación"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "A los bebés de pecho normalmente se les da de comer como siempre, pero pregunta. A los niños más grandes muchas veces se les pide ir en ayunas. Pregunta en el laboratorio cuántas horas."
+  },
+  {
+   "title": "Agua",
+   "text": "Normalmente puede tomar agua natural. Así está menos inquieto."
+  },
+  {
+   "title": "Ánimo",
+   "text": "Dile la verdad: será un piquete rápido, dolerá un poquito y tú vas a estar a su lado. No lo asustes con el doctor."
+  },
+  {
+   "title": "Qué llevar",
+   "text": "Su juguete favorito y algo rico para después."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los documentos del niño",
+  "Un juguete y un refrigerio para después"
+ ],
+ "steps": [
+  "Te sientas y cargas al niño, como te indique la enfermera",
+  "Limpian el dedo o el brazo con antiséptico",
+  "Si es del dedo, un piquete rápido y unas gotas al tubo",
+  "Si es de la vena, liga, un piquete breve y la sangre llena el tubo",
+  "Ponen un algodón en el lugar y felicitan al niño"
+ ],
+ "feel": [
+  "Un piquete breve. El niño puede llorar, es normal",
+  "Que tú estés tranquilo le ayuda mucho"
+ ],
+ "after": [
+  "Presiona el algodón unos minutos",
+  "Felicítalo de inmediato y dale su refrigerio si fue en ayunas",
+  "Los resultados suelen estar en 1 a 2 días"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué a mi bebé le sacan sangre de la vena y no del dedo?",
+   "a": "Para muchos análisis se necesita más sangre. De la vena es más rápido y más exacto."
+  },
+  {
+   "q": "¿Cómo calmo a mi hijo?",
+   "a": "Háblale con honestidad y calma, cárgalo y distráelo con un juguete o una caricatura."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es el análisis de sangre de tu hijo. Pregunta si tiene que ir en ayunas y lleva un juguete y un refrigerio."
+  }
+ ]
+}

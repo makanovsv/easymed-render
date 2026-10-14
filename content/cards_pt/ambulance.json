@@ -1,0 +1,82 @@
+{
+ "title": "Quando e como chamar a ambulância",
+ "also": [
+  "ambulância",
+  "chamar a ambulância",
+  "número de emergência",
+  "socorro médico",
+  "atendimento de urgência"
+ ],
+ "what": "Como saber que é hora de ligar para a ambulância e o que dizer ao atendente. Ligue para o número de emergência médica do seu país.",
+ "why": "Em situações perigosas: dor no peito, dificuldade para respirar, sinais de AVC, desmaio, sangramento forte, lesão grave.",
+ "duration": "a conversa com o atendente leva normalmente de 1 a 3 minutos; o tempo de chegada depende da urgência e do local",
+ "tell_doctor": [
+  "O que aconteceu e quando",
+  "A idade e o estado: se está consciente, se respira",
+  "O endereço exato: bloco, andar, ponto de referência",
+  "O seu número de telefone"
+ ],
+ "prepare": [
+  {
+   "title": "Números",
+   "text": "Salve no celular o número de emergência médica do seu país e o número geral de emergência."
+  },
+  {
+   "title": "Em casa",
+   "text": "Guarde os documentos e a lista de remédios do doente no mesmo lugar."
+  },
+  {
+   "title": "Recepção",
+   "text": "Se der, peça para alguém abrir a porta e esperar a equipe na entrada."
+  }
+ ],
+ "bring": [
+  "Documento do doente",
+  "Lista de remédios ou as caixas",
+  "Laudos e eletrocardiogramas, se tiver",
+  "Celular"
+ ],
+ "steps": [
+  "Ligue para o número de emergência e fale com calma",
+  "Diga o que aconteceu, a idade e o endereço",
+  "Responda às perguntas do atendente",
+  "Não desligue até ele liberar",
+  "Siga as orientações do atendente até a equipe chegar",
+  "Abra a porta, prenda os cachorros, deixe os documentos prontos"
+ ],
+ "feel": [
+  "Ficar nervoso é normal. O atendente ajuda com perguntas",
+  "O importante é não deixar de dizer o principal: se respira e se está consciente"
+ ],
+ "after": [
+  "O médico da ambulância examina e presta socorro",
+  "Se for preciso, o doente é levado ao hospital",
+  "Se ficar em casa, peça as orientações"
+ ],
+ "red_flags": [
+  "Dor ou aperto no peito por mais de alguns minutos: ligue para a emergência",
+  "Rosto torto, braço fraco, fala alterada: ligue para a emergência na hora",
+  "Dificuldade para respirar, pessoa desacordada: ligue para a emergência",
+  "Sangramento forte ou lesão grave: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A ambulância pode se recusar a vir?",
+   "a": "Quando há risco de vida, a ambulância vai. Descreva com clareza o que está acontecendo."
+  },
+  {
+   "q": "Posso dar algum remédio antes de a ambulância chegar?",
+   "a": "Pergunte ao atendente. Ele diz o que pode ser feito."
+  },
+  {
+   "q": "O que fazer com sinais de AVC?",
+   "a": "Ligue para a emergência na hora e guarde o horário em que começou. Isso é importante para o tratamento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Tenha salvo o número de emergência médica do seu país. Diga o que aconteceu e o endereço exato."
+  }
+ ]
+}

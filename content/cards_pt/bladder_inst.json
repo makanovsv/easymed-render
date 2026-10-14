@@ -1,0 +1,76 @@
+{
+ "title": "Instilação vesical",
+ "also": [
+  "instilação vesical",
+  "remédio aplicado na bexiga",
+  "lavagem da bexiga com medicamento"
+ ],
+ "what": "Por uma sonda fina, o médico coloca o remédio direto na bexiga. O remédio age na parede da bexiga por dentro.",
+ "why": "Na inflamação crônica da bexiga, em algumas dores da bexiga e para prevenção depois do tratamento de tumores.",
+ "duration": "o procedimento leva normalmente de 10 a 15 minutos, e o remédio fica na bexiga de 30 minutos a 2 horas. O médico vai dizer",
+ "tell_doctor": [
+  "Se agora você tem febre, dor ou sangue na urina",
+  "Alergias, inclusive a látex e a géis anestésicos",
+  "Todos os remédios que você toma",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Líquidos",
+   "text": "Algumas horas antes, normalmente pedem para beber menos, para o remédio ficar mais tempo na bexiga. Confirme com a clínica."
+  },
+  {
+   "title": "Bexiga",
+   "text": "Antes do procedimento, urine."
+  },
+  {
+   "title": "Série",
+   "text": "Normalmente é uma série de várias sessões. Confirme o calendário."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Um absorvente ou roupa íntima extra"
+ ],
+ "steps": [
+  "Você urina e deita de barriga para cima na maca",
+  "A região genital é limpa com antisséptico",
+  "Um gel anestésico é colocado na uretra",
+  "Uma sonda fina é introduzida",
+  "Pela sonda, o remédio é colocado na bexiga",
+  "A sonda é retirada, e o remédio fica na bexiga pelo tempo que o médico indicar"
+ ],
+ "feel": [
+  "Desconforto ao colocar a sonda",
+  "Vontade de urinar enquanto o remédio está na bexiga",
+  "Leve ardência depois do procedimento"
+ ],
+ "after": [
+  "Urine quando o médico liberar",
+  "Depois disso, beba mais água, se o médico não disser outra coisa",
+  "Ardência e vontade frequente de urinar no primeiro dia podem acontecer",
+  "Alguns remédios pedem uma higiene especial depois. O médico explica"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, calafrios",
+  "Você não consegue urinar",
+  "Muito sangue na urina"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Normalmente não. A sonda é fina, e usam gel anestésico. Pode incomodar."
+  },
+  {
+   "q": "Quantas sessões são necessárias?",
+   "a": "Normalmente uma série de várias sessões. A quantidade quem define é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Daqui a pouco é a instilação na bexiga. Normalmente pedem para beber menos algumas horas antes. Urine antes do procedimento."
+  }
+ ]
+}

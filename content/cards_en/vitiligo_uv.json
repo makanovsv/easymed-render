@@ -1,0 +1,74 @@
+{
+ "title": "Skin phototherapy",
+ "also": [
+  "phototherapy",
+  "UV light therapy",
+  "narrowband UVB",
+  "light treatment for skin"
+ ],
+ "what": "The skin is treated with ultraviolet light in a special booth or under a lamp. A dermatologist prescribes it as a course.",
+ "why": "For psoriasis, vitiligo, some types of eczema, and other skin conditions.",
+ "duration": "one session lasts from a few seconds to a few minutes; a course is usually 2 to 3 times a week for several weeks",
+ "tell_doctor": [
+  "All your medicines. Some make you more sensitive to light",
+  "If you had skin cancer or have many moles",
+  "Pregnancy",
+  "Eye conditions",
+  "How you usually tan or burn in the sun"
+ ],
+ "prepare": [
+  {
+   "title": "Skin",
+   "text": "Do not put creams or perfume on your skin before the session, unless your doctor said otherwise."
+  },
+  {
+   "title": "Sun",
+   "text": "During treatment, do not sunbathe extra or use tanning beds."
+  },
+  {
+   "title": "Clothing",
+   "text": "Comfortable clothes that are easy to take off."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your dermatologist's referral"
+ ],
+ "steps": [
+  "The nurse checks today's dose",
+  "You put on protective glasses",
+  "Areas that are not being treated are covered",
+  "You stand in the booth or under the lamp for the set time",
+  "The dose is slowly increased from session to session"
+ ],
+ "feel": [
+  "Mild warmth during the session",
+  "Afterward, the skin sometimes turns slightly pink",
+  "The skin may get dry. A moisturizer helps"
+ ],
+ "after": [
+  "Use a moisturizer, if your doctor allows",
+  "Do not skip sessions. Regularity matters",
+  "Protect your skin from the sun on treatment days"
+ ],
+ "red_flags": [
+  "Strong redness, burning, or blisters, like a sunburn",
+  "New spots or moles that are changing"
+ ],
+ "faq": [
+  {
+   "q": "Is it the same as a tanning bed?",
+   "a": "No. Here, an exact dose of a specific light is given under a doctor's control. A tanning bed does not replace phototherapy."
+  },
+  {
+   "q": "When will I see results?",
+   "a": "Improvement usually shows after a few weeks. With vitiligo it takes longer, sometimes months."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Phototherapy tomorrow. Do not put on creams and do not sunbathe extra."
+  }
+ ]
+}

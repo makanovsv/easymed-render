@@ -1,0 +1,74 @@
+{
+ "title": "Thrombophilia tests",
+ "also": [
+  "thrombophilia screen",
+  "clotting disorder test",
+  "lupus anticoagulant",
+  "antiphospholipid antibodies",
+  "Factor V Leiden test"
+ ],
+ "what": "This is a group of blood tests from a vein. They check whether you have a higher tendency to form blood clots.",
+ "why": "After blood clots, especially at a young age; after repeated miscarriages; or before hormone pills or IVF if clots run in the family.",
+ "duration": "the blood draw takes 5 to 10 minutes; results usually come in 3 to 14 days",
+ "tell_doctor": [
+  "If you take blood thinners",
+  "If you take hormones or birth control",
+  "If you are pregnant or recently gave birth",
+  "If you recently had a blood clot or surgery"
+ ],
+ "prepare": [
+  {
+   "title": "Timing",
+   "text": "Some tests give false results right after a clot, during pregnancy, or on certain medicines. Your doctor chooses when to test."
+  },
+  {
+   "title": "Food",
+   "text": "Usually fasting, 8 to 12 hours without food. Water is fine. Check with the lab."
+  },
+  {
+   "title": "Medicines",
+   "text": "Never stop blood thinners on your own. Tell your doctor. They will decide."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol and no hard workouts. Do not smoke in the morning."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "A list of your medicines",
+  "Past clotting test results, if you have them"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow, and the skin is wiped",
+  "Blood is drawn into several tubes",
+  "The needle comes out, and a cotton pad is pressed on"
+ ],
+ "feel": [
+  "A quick prick, like a pinch"
+ ],
+ "after": [
+  "Press the cotton pad longer if you take blood thinners",
+  "Genetic tests are done once in a lifetime. Other tests are sometimes repeated after 12 weeks",
+  "Discuss the results with your doctor, a hematologist or a gynecologist"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "A thrombophilia gene variant was found. Is it dangerous?",
+   "a": "Many of these variants are common and raise the risk only a little. Your doctor will explain what it means for you."
+  },
+  {
+   "q": "Why repeat the test?",
+   "a": "Some antibodies appear for a short time after an infection. If the result is confirmed after 12 weeks, it matters."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Thrombophilia tests tomorrow. Do not eat after dinner. Do not stop blood thinners on your own."
+  }
+ ]
+}

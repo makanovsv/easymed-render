@@ -1,0 +1,65 @@
+{
+ "title": "Gonioscopía",
+ "also": [
+  "gonioscopía",
+  "revisión del ángulo del ojo",
+  "revisión con lente de contacto"
+ ],
+ "what": "El médico pone una lente especial sobre el ojo y mira cómo es la zona por donde sale el líquido del ojo.",
+ "why": "Si tienes glaucoma o se sospecha, y antes de un tratamiento con láser para el glaucoma.",
+ "duration": "normalmente de 5 a 15 minutos; el médico te dice el resultado de inmediato",
+ "tell_doctor": [
+  "Si tienes alergia a alguna gota",
+  "Si usas lentes de contacto",
+  "Si te han operado de los ojos"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes de contacto",
+   "text": "Si usas lentes de contacto, te los quitarán antes. Lleva su estuche."
+  },
+  {
+   "title": "Transporte",
+   "text": "Puedes ver un poco borroso por un rato. Organiza cómo regresar."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus lentes",
+  "El estuche de tus lentes de contacto"
+ ],
+ "steps": [
+  "Te anestesian el ojo con gotas",
+  "Apoyas la barbilla en el soporte",
+  "El médico pone con cuidado una lente con gel sobre el ojo",
+  "Te piden mirar hacia distintos lados",
+  "Quitan la lente y, si hace falta, te enjuagan el ojo"
+ ],
+ "feel": [
+  "Normalmente no duele, sientes el contacto",
+  "Dan ganas de parpadear. El médico te ayuda a sostener el párpado"
+ ],
+ "after": [
+  "No te talles el ojo mientras dure el efecto de las gotas anestésicas",
+  "Un poco de visión borrosa y enrojecimiento se quitan rápido"
+ ],
+ "red_flags": [
+  "Dolor fuerte o ves peor después de la revisión: ve al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente no. El ojo se anestesia con gotas."
+  },
+  {
+   "q": "¿En qué es diferente de una revisión normal?",
+   "a": "La revisión normal no muestra el ángulo del ojo. Para eso se necesita una lente especial."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "En 2 horas es tu revisión de ojos. Si usas lentes de contacto, lleva su estuche."
+  }
+ ]
+}

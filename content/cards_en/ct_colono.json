@@ -1,0 +1,78 @@
+{
+ "title": "Virtual colonoscopy (CT colonography)",
+ "also": [
+  "virtual colonoscopy",
+  "CT colonography",
+  "CTC",
+  "CT scan of the colon"
+ ],
+ "what": "CT images of your large bowel. The bowel is gently inflated with air. No tube with a camera is used.",
+ "why": "To look for polyps if a regular colonoscopy is not possible or could not be completed, or if your doctor decides.",
+ "duration": "usually 15 to 20 minutes in the room, plus bowel prep the day before; the report in 1 to 2 days",
+ "tell_doctor": [
+  "Blood thinners and iron tablets",
+  "Diabetes. Your prep and medicines will need to be adjusted",
+  "Allergy to iodine or contrast dye, or kidney disease",
+  "If you are or might be pregnant",
+  "Recent bowel surgery"
+ ],
+ "prepare": [
+  {
+   "title": "1 to 2 days before",
+   "text": "A low-fiber diet: no vegetables, fruit, seeds, nuts, or beans. Ask the clinic for your plan."
+  },
+  {
+   "title": "Bowel prep",
+   "text": "The day before, you drink a bowel prep solution as your doctor says. A special contrast to mark stool is often added."
+  },
+  {
+   "title": "On the day",
+   "text": "Usually no food. Drink clear liquids as the clinic tells you."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor. They will decide."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past colonoscopy reports",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You lie on your side",
+  "A thin, soft tube is placed in your bottom",
+  "Air or carbon dioxide is passed through it to open up the bowel",
+  "Sometimes a medicine is given into a vein to relax the bowel",
+  "Images are taken while you lie on your back and on your stomach. You need to hold your breath",
+  "The tube is removed"
+ ],
+ "feel": [
+  "Bloating and cramps while the gas is added",
+  "It does not hurt, and the feelings pass quickly after the test"
+ ],
+ "after": [
+  "You will pass gas over the next hour. This is normal",
+  "You can eat as usual",
+  "If polyps are found, your doctor usually sends you for a regular colonoscopy to remove them"
+ ],
+ "red_flags": [
+  "Severe belly pain, a hard belly, a fever, or bleeding from the bottom: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I skip the bowel prep?",
+   "a": "No. Leftover stool can hide a polyp or look like one."
+  },
+  {
+   "q": "Does it replace a regular colonoscopy?",
+   "a": "Not always. With CT, a polyp cannot be removed or sampled. Your doctor chooses."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Virtual colonoscopy tomorrow. Today, follow your diet and bowel prep plan."
+  }
+ ]
+}

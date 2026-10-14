@@ -1,0 +1,75 @@
+{
+ "title": "One-month baby checkup",
+ "also": [
+  "one-month checkup",
+  "1-month well-baby visit",
+  "infant checkup",
+  "well-baby visit"
+ ],
+ "what": "A routine checkup at one month. The doctor checks how your baby is growing and developing.",
+ "why": "For all babies at 1 month, on the checkup schedule.",
+ "duration": "the pediatrician visit usually takes 20 to 30 minutes; longer if specialists or ultrasounds are needed",
+ "tell_doctor": [
+  "How your baby feeds: breast, formula, or both",
+  "How they sleep, and how often they poop",
+  "If they spit up or cry a lot",
+  "Anything that worries you"
+ ],
+ "prepare": [
+  {
+   "title": "Feeding",
+   "text": "Feed your baby shortly before the visit, so they are calmer."
+  },
+  {
+   "title": "Things to bring",
+   "text": "A blanket, a diaper, wipes, and a bottle if formula-fed."
+  },
+  {
+   "title": "Timing",
+   "text": "Ask if other doctors or ultrasounds are needed that day."
+  }
+ ],
+ "bring": [
+  "Your baby's documents",
+  "The medical record and vaccination record",
+  "A blanket and a diaper",
+  "Your list of questions"
+ ],
+ "steps": [
+  "The nurse weighs your baby and measures length and head",
+  "The pediatrician checks the skin, soft spot, and belly",
+  "The doctor listens to the heart and lungs and checks reflexes",
+  "Sometimes you are referred to specialists or for an ultrasound",
+  "If a vaccine is due, it is discussed",
+  "The doctor gives advice on care and feeding"
+ ],
+ "feel": [
+  "Your baby may cry when undressed. That is normal",
+  "The exam is painless"
+ ],
+ "after": [
+  "The next checkup is usually at 2 months",
+  "The pediatrician will explain ultrasound and specialist results",
+  "Vaccines follow the schedule your doctor gives"
+ ],
+ "red_flags": [
+  "Your baby is floppy or refuses to feed: call emergency services",
+  "A temperature over 38°C (100.4°F) in a baby under 3 months: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "How much weight should my baby gain in a month?",
+   "a": "It varies. The doctor will judge the gain using growth charts and how your baby is doing."
+  },
+  {
+   "q": "Why an ultrasound at one month?",
+   "a": "In some countries, the head, belly, and hips are checked at this age. Ask your pediatrician."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Your baby's one-month checkup is tomorrow. Bring the documents, a blanket, and your questions."
+  }
+ ]
+}

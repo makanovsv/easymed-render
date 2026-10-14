@@ -1,0 +1,78 @@
+{
+ "title": "Biópsia de rim",
+ "also": [
+  "biópsia renal percutânea",
+  "biópsia renal",
+  "punção do rim"
+ ],
+ "what": "Com uma agulha fina, por um furo nas costas, o médico tira um pedacinho do rim para análise. É feita com anestesia local e guiada por ultrassom.",
+ "why": "Quando há proteína ou sangue na urina, os rins funcionam mal e é preciso saber a causa exata. Às vezes, depois de transplante de rim.",
+ "duration": "o procedimento em si leva normalmente de 20 a 40 minutos, depois algumas horas de repouso na cama, muitas vezes uma noite no hospital. O resultado sai normalmente em 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico decide se algo precisa mudar",
+  "Pressão alta. Ela precisa ser controlada antes",
+  "Alergias, inclusive a anestésicos locais",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes da biópsia, conferem a coagulação, exames de sangue e de urina, e a pressão."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente sem comer de 6 a 8 horas antes. Confirme com a clínica."
+  },
+  {
+   "title": "Hospital",
+   "text": "Na maioria das vezes, depois da biópsia de rim, você fica 24 horas no hospital. Leve suas coisas."
+  }
+ ],
+ "bring": [
+  "Pedido médico, exames e imagens dos rins",
+  "Lista de remédios",
+  "Coisas para 24 horas no hospital"
+ ],
+ "steps": [
+  "Colocam um cateter na veia",
+  "Você se deita de barriga para baixo, com um rolo embaixo da barriga",
+  "O médico escolhe o local nas costas pelo ultrassom",
+  "Limpam a pele e aplicam a anestesia",
+  "Pedem para segurar a respiração por alguns segundos",
+  "Com a agulha fina, tiram um pedacinho de tecido, às vezes 2 ou 3 vezes",
+  "Fazem um curativo apertado"
+ ],
+ "feel": [
+  "A picada e a ardência da anestesia",
+  "Um estalo e uma pressão quando tiram o tecido",
+  "Depois, a região lombar pode doer"
+ ],
+ "after": [
+  "Fique algumas horas deitado de barriga para cima, sem levantar. Assim o risco de sangramento é menor",
+  "Beba água e observe a cor da urina",
+  "A primeira urina um pouco rosada pode acontecer",
+  "Por 1 a 2 semanas, sem pegar peso e sem esporte. Confirme com o médico"
+ ],
+ "red_flags": [
+  "Urina vermelho vivo ou com coágulos: ligue para a emergência",
+  "Dor forte na lombar ou na barriga, tontura, fraqueza: ligue para a emergência",
+  "Não consegue urinar",
+  "Febre acima de 38 graus"
+ ],
+ "faq": [
+  {
+   "q": "Por que preciso ficar tanto tempo deitado?",
+   "a": "O rim recebe muito sangue. O repouso ajuda o local do furo a fechar."
+  },
+  {
+   "q": "O rim vai funcionar pior depois da biópsia?",
+   "a": "Não. O pedacinho tirado é muito pequeno e não muda o funcionamento do rim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a biópsia de rim. Separe as coisas para 24 horas no hospital. Comida só até o horário que a clínica indicou."
+  }
+ ]
+}

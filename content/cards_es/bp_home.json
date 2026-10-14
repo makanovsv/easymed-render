@@ -1,0 +1,69 @@
+{
+ "title": "Cómo medir bien la presión en casa",
+ "also": [
+  "tomar la presión",
+  "baumanómetro",
+  "presión en casa",
+  "diario de presión arterial"
+ ],
+ "what": "El baumanómetro con brazalete en el brazo muestra la presión y el pulso. Es importante medirla bien, si no, los números salen mal.",
+ "why": "Con presión alta, al ajustar el tratamiento, con enfermedades del corazón y los riñones, o en el embarazo, si el médico lo recomienda.",
+ "duration": "cerca de 5 a 10 minutos con el descanso",
+ "tell_doctor": [
+  "Qué números te salen en casa en la mañana y en la noche",
+  "Si la presión sube y baja mucho",
+  "Si tu aparato es de muñeca y no de brazo"
+ ],
+ "prepare": [
+  {
+   "title": "30 minutos antes",
+   "text": "No fumes, no tomes café ni té cargado, y no hagas esfuerzo."
+  },
+  {
+   "title": "Antes de medir",
+   "text": "Ve al baño y siéntate tranquilo 5 minutos."
+  },
+  {
+   "title": "Brazalete",
+   "text": "El tamaño del brazalete tiene que ser el de tu brazo. Uno muy chico marca la presión más alta."
+  }
+ ],
+ "bring": [
+  "Tu baumanómetro",
+  "Tu diario de presión. Enséñaselo al médico"
+ ],
+ "steps": [
+  "Siéntate en una silla con la espalda apoyada, los pies en el piso y sin cruzar las piernas",
+  "Ponte el brazalete en el brazo descubierto, 2 a 3 cm arriba del codo",
+  "Apoya el brazo en la mesa, con el brazalete a la altura del corazón",
+  "Aprieta el botón. No hables ni te muevas",
+  "En 1 a 2 minutos mídela otra vez",
+  "Anota los dos resultados y la hora"
+ ],
+ "feel": [
+  "El brazalete aprieta fuerte el brazo unos segundos. Es normal"
+ ],
+ "after": [
+  "Normalmente se mide en la mañana y en la noche varios días seguidos. Cuántos, te lo dice el médico",
+  "No cambies la dosis de tus medicamentos por un solo número. Enséñale tu diario al médico"
+ ],
+ "red_flags": [
+  "Presión muy alta con dolor de cabeza o de pecho, dificultad para hablar o debilidad en un brazo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué brazo la mido?",
+   "a": "La primera vez, en los dos. Después mídela en el brazo donde salió más alta."
+  },
+  {
+   "q": "¿Por qué en el consultorio me sale más alta que en casa?",
+   "a": "Con los nervios del consultorio la presión muchas veces sube. Por eso el diario de casa es muy útil."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 0,
+   "text": "Hora de medir tu presión. Siéntate tranquilo 5 minutos, brazalete a la altura del corazón y dos mediciones."
+  }
+ ]
+}

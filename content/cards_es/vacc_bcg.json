@@ -1,0 +1,73 @@
+{
+ "title": "Vacuna BCG para el recién nacido",
+ "also": [
+  "vacuna BCG",
+  "vacuna contra la tuberculosis",
+  "vacuna del recién nacido"
+ ],
+ "what": "Es la vacuna contra la tuberculosis. Al bebé le ponen una inyección pequeña en la piel del brazo izquierdo, normalmente en el hospital.",
+ "why": "A los recién nacidos en los primeros días de vida, si no hay contraindicaciones.",
+ "duration": "la inyección dura unos segundos; la marca del brazo suele sanar en 2 a 4 meses",
+ "tell_doctor": [
+  "Si el bebé nació antes de tiempo o con bajo peso",
+  "Si el bebé tiene ahora problemas de salud",
+  "Si en la familia hay enfermedades del sistema inmune",
+  "Si alguien en la familia tiene tuberculosis"
+ ],
+ "prepare": [
+  {
+   "title": "Consentimiento",
+   "text": "En el hospital te pedirán firmar el consentimiento para la vacuna."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Pregúntale al médico si quieres saber de las contraindicaciones."
+  },
+  {
+   "title": "Si no se puso",
+   "text": "Si en el hospital se pospuso la vacuna, se pone después en tu clínica."
+  }
+ ],
+ "bring": [
+  "Los documentos del bebé, si la vacuna se pone en la clínica",
+  "El resumen del hospital"
+ ],
+ "steps": [
+  "El médico revisa al bebé",
+  "La enfermera limpia la piel del brazo izquierdo",
+  "Con una aguja delgada pone la vacuna en la piel",
+  "Sale una ampollita blanca que pronto desaparece",
+  "Anotan la vacuna en los documentos"
+ ],
+ "feel": [
+  "El bebé puede llorar un momento",
+  "De 4 a 8 semanas después, en el lugar sale una bolita o un granito con pus. Es normal",
+  "Luego una costrita y una cicatriz pequeña"
+ ],
+ "after": [
+  "No le pongas nada al lugar de la vacuna ni lo tapes",
+  "No toques ni aprietes la costrita",
+  "Puedes bañar al bebé, solo no le frotes el brazo con la esponja",
+  "Enséñale la cicatriz al pediatra en la revisión"
+ ],
+ "red_flags": [
+  "En el lugar de la vacuna hay una herida de más de un centímetro, o la piel alrededor está muy roja",
+  "Creció una bolita en la axila izquierda"
+ ],
+ "faq": [
+  {
+   "q": "¿Es normal que le salga un granito con pus en el brazo?",
+   "a": "Sí, así debe pasar después de uno o dos meses. No le pongas nada."
+  },
+  {
+   "q": "¿Por qué no le quedó cicatriz?",
+   "a": "Puede pasar. Enséñale el brazo al pediatra; él te dirá qué hacer."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna BCG de tu bebé. Lleva sus documentos y el resumen del hospital."
+  }
+ ]
+}

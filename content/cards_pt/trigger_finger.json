@@ -1,0 +1,76 @@
+{
+ "title": "Cirurgia de dedo em gatilho",
+ "also": [
+  "dedo em gatilho",
+  "tenossinovite estenosante",
+  "dedo travado",
+  "liberação da polia"
+ ],
+ "what": "O médico corta o anel apertado do ligamento na base do dedo. O tendão para de travar, e o dedo dobra livremente.",
+ "why": "Quando o dedo estala, trava ou fica preso dobrado, e injeções e repouso não ajudaram.",
+ "duration": "o procedimento leva normalmente de 10 a 20 minutos, com alta no mesmo dia",
+ "tell_doctor": [
+  "Remédios que afinam o sangue. Não suspenda por conta própria, o médico decide",
+  "Diabetes",
+  "Alergia a remédios e a anestésicos",
+  "Se já recebeu injeção nesse dedo e quando"
+ ],
+ "prepare": [
+  {
+   "title": "Anestesia",
+   "text": "Normalmente anestesia local: o dedo e a palma são anestesiados com injeção."
+  },
+  {
+   "title": "Mão",
+   "text": "Tire antes os anéis dessa mão. Unhas sem esmalte."
+  },
+  {
+   "title": "Comida",
+   "text": "Com anestesia local, normalmente pode comer antes. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você deita ou senta, e a mão fica numa mesinha",
+  "A pele é limpa, e aplicam a injeção de anestesia",
+  "O médico faz um pequeno corte na base do dedo ou trabalha por um furo com agulha",
+  "O ligamento apertado é cortado",
+  "Pedem para você dobrar o dedo e conferem que não estala",
+  "Fazem os pontos e o curativo"
+ ],
+ "feel": [
+  "A injeção de anestesia arde por alguns segundos",
+  "Durante o procedimento, pressão e toques",
+  "Depois, a palma dói um pouco por 1 a 3 dias"
+ ],
+ "after": [
+  "Normalmente pode dobrar o dedo logo. Assim fica menos rígido",
+  "Nos primeiros dias, mantenha a mão elevada",
+  "Não molhe o curativo até o médico liberar",
+  "Os pontos são retirados normalmente em 10 a 14 dias"
+ ],
+ "red_flags": [
+  "Vermelhidão, inchaço, pus na ferida, febre acima de 38 graus",
+  "O dedo ficou dormente, ou frio e pálido"
+ ],
+ "faq": [
+  {
+   "q": "O dedo pode voltar a travar?",
+   "a": "É raro. Se o estalo voltar, procure o médico."
+  },
+  {
+   "q": "Posso usar a mão logo?",
+   "a": "Para coisas leves, normalmente sim. Peso e força de pegada, depois, conforme o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a cirurgia no dedo. Tire os anéis dessa mão e leve a lista de remédios."
+  }
+ ]
+}

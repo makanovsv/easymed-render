@@ -1,0 +1,71 @@
+{
+ "title": "Prueba de sangre para tuberculosis (IGRA)",
+ "also": [
+  "QuantiFERON",
+  "IGRA",
+  "prueba de liberación de interferón gamma",
+  "análisis de sangre para tuberculosis",
+  "T-SPOT"
+ ],
+ "what": "Es un análisis de sangre de la vena. Muestra si tu cuerpo ya tuvo contacto con la bacteria de la tuberculosis.",
+ "why": "En lugar de la prueba de tuberculina en la piel o junto con ella, antes de algunos tratamientos, si estuviste en contacto con alguien con tuberculosis, o para el trabajo o la escuela.",
+ "duration": "la toma de sangre dura de 3 a 5 minutos; el resultado suele estar en 2 a 7 días",
+ "tell_doctor": [
+  "Si tomas cortisona o medicamentos que bajan las defensas",
+  "Si tienes VIH u otra condición que debilite las defensas",
+  "Si estuviste en contacto con alguien con tuberculosis",
+  "Si antes te hicieron la prueba de tuberculina u otra prueba en la piel, y sus resultados"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente se hace en ayunas o unas horas después de una comida ligera. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas y él decidirá."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Tus resultados anteriores de pruebas de tuberculosis, si los tienes"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "La sangre se toma en varios tubos especiales",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un ligero mareo. Avísale a la enfermera"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "El resultado suele estar en 2 a 7 días",
+  "Un resultado positivo no significa que estés enfermo. Lo que sigue lo decide el especialista en tuberculosis"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué es mejor que la prueba de tuberculina?",
+   "a": "No la afecta la vacuna BCG, y no tienes que regresar para que te revisen el brazo."
+  },
+  {
+   "q": "Si la prueba sale positiva, ¿puedo contagiar?",
+   "a": "No necesariamente. La prueba muestra contacto con la bacteria. Si es enfermedad o no, el médico lo averigua con otros estudios."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de sangre para tuberculosis. Pregunta si tienes que ir en ayunas."
+  }
+ ]
+}

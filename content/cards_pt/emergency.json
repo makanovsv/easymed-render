@@ -1,0 +1,74 @@
+{
+ "title": "O que fazer no pronto-socorro",
+ "also": [
+  "pronto-socorro",
+  "pronto atendimento",
+  "emergência do hospital",
+  "PS"
+ ],
+ "what": "O pronto-socorro é o setor do hospital para onde a ambulância leva ou aonde a pessoa vai sozinha com um problema urgente. Ali examinam e decidem se é preciso internar.",
+ "why": "Com dor repentina, lesão, febre alta, ou quando a ambulância levou você ao hospital.",
+ "duration": "normalmente de 1 a algumas horas, conforme os exames e a fila",
+ "tell_doctor": [
+  "O que aconteceu e quando começou",
+  "Todos os remédios e alergias",
+  "Doenças crônicas e cirurgias",
+  "Se você está grávida",
+  "O que já tomou em casa"
+ ],
+ "prepare": [
+  {
+   "title": "Documentos",
+   "text": "Guarde em casa o documento e a carteirinha do plano ou do SUS no mesmo lugar, para pegar rápido."
+  },
+  {
+   "title": "Remédios",
+   "text": "Leve a lista de remédios ou as próprias caixas."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Se der, tenha um familiar junto."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios",
+  "Laudos, se tiver",
+  "Celular e carregador"
+ ],
+ "steps": [
+  "Fazem seu cadastro e algumas perguntas rápidas",
+  "A enfermagem mede pressão, pulso e temperatura",
+  "Os casos mais graves são atendidos primeiro. Por isso a fila não é por ordem de chegada",
+  "O médico examina e pede exames, raio-X ou ultrassom",
+  "Com os resultados, você é liberado ou internado"
+ ],
+ "feel": [
+  "A espera pode ser longa. Isso não quer dizer que esqueceram de você",
+  "Se piorar durante a espera, avise a enfermagem na hora"
+ ],
+ "after": [
+  "Se liberarem você, peça o relatório de alta e as orientações",
+  "Se for internado, levam você ao setor",
+  "Pergunte com quem seguir o acompanhamento"
+ ],
+ "red_flags": [
+  "Se piorar na fila, com dor forte, dificuldade para respirar ou desmaio: avise a enfermagem na hora"
+ ],
+ "faq": [
+  {
+   "q": "Por que alguém que chegou depois foi atendido antes?",
+   "a": "No pronto-socorro, primeiro são atendidos os que estão pior. Isso é feito para salvar os casos graves."
+  },
+  {
+   "q": "Posso ir sem ambulância?",
+   "a": "Normalmente sim, se o estado permitir. Confirme qual hospital atende o seu problema."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Guarde o documento e a lista de remédios no mesmo lugar, para uma ida urgente ao hospital."
+  }
+ ]
+}

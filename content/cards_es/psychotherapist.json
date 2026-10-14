@@ -1,0 +1,67 @@
+{
+ "title": "Consulta de psicoterapia",
+ "also": [
+  "psicoterapeuta",
+  "psicoterapia",
+  "terapia"
+ ],
+ "what": "Es un médico que trata la ansiedad, la depresión y otros problemas con terapia de plática. Si hace falta, puede indicar medicamentos.",
+ "why": "Si tienes ansiedad, ataques de pánico, tristeza, insomnio, pensamientos que no puedes sacar de tu cabeza, o secuelas de traumas y estrés.",
+ "duration": "normalmente de 45 a 60 minutos; cuántas sesiones, se decide junto con el médico",
+ "tell_doctor": [
+  "Qué te molesta y desde cuándo",
+  "Qué medicamentos y sustancias tomas, también alcohol",
+  "Si antes fuiste con otros especialistas",
+  "Enfermedades crónicas",
+  "Si has tenido pensamientos de hacerte daño"
+ ],
+ "prepare": [
+  {
+   "title": "Motivo",
+   "text": "Apunta qué te molesta y qué esperas del tratamiento."
+  },
+  {
+   "title": "Lugar",
+   "text": "Si la sesión es en línea, busca un lugar tranquilo donde nadie te escuche."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias y tu vida",
+  "Te explica qué método puede servirte",
+  "Juntos ponen metas",
+  "Platican el calendario de sesiones",
+  "Si hace falta, el médico indica medicamentos"
+ ],
+ "feel": [
+  "Es una plática, sin procedimientos",
+  "Hablar de cosas personales puede costar. Puedes hacer pausas"
+ ],
+ "after": [
+  "Haz las tareas entre sesiones, si te las dejan",
+  "No dejes los medicamentos por tu cuenta; pregúntale al médico"
+ ],
+ "red_flags": [
+  "Pensamientos de hacerte daño: no esperes la consulta, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué es diferente el psicoterapeuta del psicólogo?",
+   "a": "El psicoterapeuta es médico y puede indicar medicamentos. El psicólogo trabaja solo con la plática."
+  },
+  {
+   "q": "¿Cuánto dura la psicoterapia?",
+   "a": "Puede durar de unas semanas a un año o más. El tiempo se platica con el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta de psicoterapia. Apunta lo que te molesta y lleva la lista de medicamentos."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "title": "Total IgE",
+ "also": [
+  "total IgE",
+  "immunoglobulin E",
+  "IgE blood test",
+  "allergy blood test"
+ ],
+ "what": "This is a blood test from a vein. It shows the total level of antibodies linked to allergies.",
+ "why": "For a possible allergy, asthma, atopic dermatitis (eczema), and sometimes for possible worms.",
+ "duration": "the blood draw takes 3 to 5 minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "If you take steroids or allergy medicines",
+  "If your allergy is flaring up now",
+  "If you were recently treated for worms"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually fasting, 4 to 8 hours without food. Water is fine. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol, fatty food, or hard workouts."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow, and the skin is wiped",
+  "Blood is drawn into a tube",
+  "The needle comes out, and a cotton pad is pressed on"
+ ],
+ "feel": [
+  "A quick prick, like a pinch"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Results usually come in 1 to 3 days",
+  "This test does not show what exactly you are allergic to. There are separate tests for that"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "If IgE is normal, does that mean no allergy?",
+   "a": "Not necessarily. It can be normal even with an allergy. Your doctor looks at it together with your symptoms."
+  },
+  {
+   "q": "Why is my child's IgE high?",
+   "a": "There are many reasons: allergy, worms, or eczema. Your doctor will find out which."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "IgE blood test tomorrow. It is usually done fasting. Water is fine."
+  }
+ ]
+}

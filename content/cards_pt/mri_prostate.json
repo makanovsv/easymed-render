@@ -1,0 +1,83 @@
+{
+ "title": "Ressonância da próstata",
+ "also": [
+  "ressonância da próstata",
+  "ressonância multiparamétrica da próstata",
+  "RM multiparamétrica"
+ ],
+ "what": "São imagens detalhadas da próstata num campo magnético, normalmente com contraste. Sem radiação.",
+ "why": "Com PSA alto, antes de biópsia, para acompanhamento e para planejar o tratamento.",
+ "duration": "normalmente de 30 a 45 minutos. O laudo sai em 1 a 3 dias",
+ "tell_doctor": [
+  "Marca-passo, desfibrilador ou outro implante eletrônico",
+  "Metal no corpo: próteses, placas, clipes nos vasos, estilhaços",
+  "Se fez biópsia de próstata há pouco tempo, diga a data. Às vezes a ressonância é adiada",
+  "Alergia a contraste, doença nos rins",
+  "Se tem medo de lugar fechado. O médico explica como ajudar"
+ ],
+ "prepare": [
+  {
+   "title": "Intestino",
+   "text": "Às vezes pedem um miniclister na véspera ou de manhã. Confirme com a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente sem comer de 3 a 4 horas."
+  },
+  {
+   "title": "Abstinência",
+   "text": "Muitas vezes recomendam ficar de 2 a 3 dias sem ejacular. Confirme com o médico."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire tudo que é de metal: joias, relógio, presilhas, piercings. Deixe o celular e os cartões no armário."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "PSA recente",
+  "Ressonâncias e laudos de biópsia anteriores",
+  "Exame de creatinina, se pediram"
+ ],
+ "steps": [
+  "Você troca de roupa e deixa tudo que é de metal no armário",
+  "Você se deita na mesa, e colocam uma bobina macia sobre a região",
+  "Às vezes aplicam um remédio para o intestino se mexer menos",
+  "O aparelho faz batidas altas. Dão fones ou protetores de ouvido",
+  "É preciso ficar deitado parado. Falam com você pelo interfone",
+  "No final, aplicam o contraste na veia"
+ ],
+ "feel": [
+  "Não dói, mas é barulhento e apertado",
+  "Às vezes fica quente na região do exame. É normal",
+  "Com contraste: sensação gelada na veia"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "Depois do contraste, beba mais água, se o médico não disser diferente",
+  "O laudo vem com uma classificação por escala. Leve ao urologista"
+ ],
+ "red_flags": [
+  "Depois do contraste, coceira, manchas na pele, inchaço no rosto ou dificuldade para respirar: avise na hora a equipe ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Isso substitui a biópsia?",
+   "a": "Não. A ressonância ajuda a decidir se precisa de biópsia e de onde tirar o material."
+  },
+  {
+   "q": "Colocam algum aparelho no reto?",
+   "a": "Normalmente não. A bobina fica sobre a barriga. Confirme com a clínica."
+  },
+  {
+   "q": "Posso fazer ressonância com obturações e coroas?",
+   "a": "Sim. Obturações e coroas comuns não atrapalham. Implantes e próteses, avise antes, o médico confere."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a ressonância da próstata. Confirme se precisa de miniclister. Fique de 3 a 4 horas sem comer."
+  }
+ ]
+}

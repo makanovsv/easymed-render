@@ -1,0 +1,76 @@
+{
+ "title": "Tratamiento láser del glaucoma",
+ "also": [
+  "láser para glaucoma",
+  "trabeculoplastia láser",
+  "iridotomía láser",
+  "SLT"
+ ],
+ "what": "El médico usa el láser para que el líquido salga mejor del ojo. Así baja la presión dentro del ojo.",
+ "why": "Si tienes glaucoma o presión alta en el ojo, o un ángulo estrecho del ojo, para evitar una crisis.",
+ "duration": "el procedimiento suele durar de 5 a 15 minutos; con la preparación, alrededor de una hora",
+ "tell_doctor": [
+  "Qué gotas para el glaucoma te pones",
+  "Si tienes alergia a alguna gota",
+  "Enfermedades del corazón o de los pulmones. Algunas gotas les afectan",
+  "Si te han operado de los ojos"
+ ],
+ "prepare": [
+  {
+   "title": "Gotas",
+   "text": "No dejes tus gotas para el glaucoma por tu cuenta. Pregúntale al médico si ponértelas ese día."
+  },
+  {
+   "title": "Transporte",
+   "text": "Después puedes ver borroso. Mejor ve con un acompañante."
+  }
+ ],
+ "bring": [
+  "Tus gotas",
+  "Una identificación",
+  "Lentes de sol",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te anestesian el ojo con gotas y a veces te achican o dilatan la pupila",
+  "Te sientas frente al aparato con la barbilla en el soporte",
+  "Ponen una lente sobre el ojo",
+  "El médico aplica disparos de láser y ves destellos",
+  "Quitan la lente",
+  "Después de un rato revisan la presión del ojo"
+ ],
+ "feel": [
+  "Destellos de luz, a veces chasquidos",
+  "Un poco de molestia, a veces dolor de cabeza",
+  "Ves borroso unas horas"
+ ],
+ "after": [
+  "Las gotas, como te las indique el médico, y tus gotas de siempre como él te diga",
+  "Ve a tu revisión de presión a tiempo",
+  "El efecto del láser se evalúa después de unas semanas"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el ojo, dolor de cabeza, náuseas o halos de colores alrededor de las luces: llama a emergencias o ve al oftalmólogo de urgencia",
+  "La vista empeora de golpe"
+ ],
+ "faq": [
+  {
+   "q": "¿Después del láser ya no necesito gotas?",
+   "a": "A veces se necesitan menos gotas, pero eso solo lo decide el médico."
+  },
+  {
+   "q": "¿El láser cura el glaucoma?",
+   "a": "El glaucoma es para toda la vida. El láser ayuda a mantener la presión normal."
+  },
+  {
+   "q": "¿Hay que repetirlo?",
+   "a": "A veces el efecto se va perdiendo con el tiempo y se repite el procedimiento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu láser para el glaucoma. Lleva tus gotas y lentes de sol."
+  }
+ ]
+}

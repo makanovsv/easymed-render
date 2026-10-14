@@ -1,0 +1,68 @@
+{
+ "title": "Rapid strep test (strep throat)",
+ "also": [
+  "rapid strep test",
+  "strep throat test",
+  "throat swab for strep",
+  "RADT"
+ ],
+ "what": "A swab is taken from your throat. In a few minutes, the test shows if strep is there. Strep is a germ that often causes strep throat.",
+ "why": "For a sore throat with fever and white spots on the tonsils, to find out if you need an antibiotic.",
+ "duration": "the swab takes a few seconds; results usually come in 5 to 15 minutes",
+ "tell_doctor": [
+  "If you already started an antibiotic",
+  "If you recently gargled with an antiseptic",
+  "If you gag easily"
+ ],
+ "prepare": [
+  {
+   "title": "Food and drink",
+   "text": "Usually do not eat or drink for 1 to 2 hours before the swab. Check with the clinic."
+  },
+  {
+   "title": "Throat",
+   "text": "In the morning, do not gargle or use throat sprays or lozenges."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you already took. They will decide."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit and open your mouth wide",
+  "Your tongue is held down with a flat stick",
+  "A swab is quickly rubbed over the tonsils and the back of the throat",
+  "The swab is dipped in liquid and the test is started",
+  "In a few minutes, the result shows on a strip"
+ ],
+ "feel": [
+  "You may gag for a second",
+  "Unpleasant, but not painful"
+ ],
+ "after": [
+  "The result is usually given right away",
+  "If the test is positive, your doctor will decide if you need an antibiotic",
+  "If the test is negative but you have signs of strep throat, a throat culture is sometimes done too"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "If the test is negative, does that mean no strep throat?",
+   "a": "Not always. Sore throats are often caused by viruses. If there is still doubt, the doctor may order a throat culture."
+  },
+  {
+   "q": "Why test if strep throat is obvious?",
+   "a": "It is hard to tell strep from a virus just by looking. The test helps you avoid antibiotics you do not need."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Throat swab soon. For 1 to 2 hours before, do not eat, drink, or gargle, unless the clinic said otherwise."
+  }
+ ]
+}

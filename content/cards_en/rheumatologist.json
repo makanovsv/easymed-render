@@ -1,0 +1,67 @@
+{
+ "title": "Rheumatologist visit",
+ "also": [
+  "rheumatologist",
+  "arthritis doctor",
+  "joint specialist",
+  "rheumatology consultation"
+ ],
+ "what": "A doctor who treats inflammatory conditions of the joints, spine, and connective tissue.",
+ "why": "For joint pain, swelling, and stiffness, especially in the morning, or abnormal inflammation tests.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "Which joints hurt, and how long morning stiffness lasts",
+  "Any joint swelling or redness, rash, or fever",
+  "What medicines you take, including painkillers",
+  "Joint conditions in relatives"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Bring blood tests and joint X-rays, if you had them."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something that makes it easy to show the joints of your hands and feet."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "Your joints are examined and felt",
+  "Their movement is checked",
+  "Test results and scans are reviewed",
+  "Tests or treatment are ordered"
+ ],
+ "feel": [
+  "Feeling sore joints may be unpleasant",
+  "Tell the doctor if it hurts. They will be more careful"
+ ],
+ "after": [
+  "Have the tests ordered",
+  "Treatment is often long-term. Do not stop it on your own"
+ ],
+ "red_flags": [
+  "Severe joint swelling with a high fever: see a doctor the same day"
+ ],
+ "faq": [
+  {
+   "q": "How is a rheumatologist different from an orthopedist?",
+   "a": "A rheumatologist treats joint inflammation with medicines. An orthopedist treats injuries and joint wear, often with surgery."
+  },
+  {
+   "q": "Which tests should I bring?",
+   "a": "Any you have had: a blood count, sed rate, C-reactive protein. The doctor will order what is needed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Rheumatologist visit tomorrow. Bring your test results and joint X-rays."
+  }
+ ]
+}

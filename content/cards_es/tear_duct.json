@@ -1,0 +1,78 @@
+{
+ "title": "Sondeo del conducto lagrimal en bebés",
+ "also": [
+  "sondeo lagrimal",
+  "obstrucción del conducto lagrimal",
+  "dacrioestenosis del recién nacido",
+  "lagañas en el bebé"
+ ],
+ "what": "El médico pasa con cuidado una sonda delgada por el conducto lagrimal del bebé para abrirlo. Así las lágrimas vuelven a bajar a la nariz.",
+ "why": "Cuando al bebé le lagrimea el ojo y le salen lagañas todo el tiempo, y el masaje del saco lagrimal no ayuda.",
+ "duration": "el procedimiento suele durar unos minutos",
+ "tell_doctor": [
+  "Desde cuándo le lagrimea el ojo y le salen lagañas",
+  "Qué gotas y masajes ya le hiciste",
+  "Si el bebé estuvo enfermo hace poco o tiene fiebre",
+  "Las alergias del bebé"
+ ],
+ "prepare": [
+  {
+   "title": "Alimentación",
+   "text": "Pregunta en la clínica a qué hora darle de comer antes del procedimiento."
+  },
+  {
+   "title": "Cobija",
+   "text": "Lleva una cobijita. Normalmente envuelven al bebé para que no se mueva."
+  },
+  {
+   "title": "Tu ánimo",
+   "text": "El bebé va a llorar. Es normal. El procedimiento es corto."
+  }
+ ],
+ "bring": [
+  "Los documentos del bebé",
+  "Una cobijita y un pañal",
+  "Su biberón, o la posibilidad de darle pecho después"
+ ],
+ "steps": [
+  "Le anestesian el ojo con gotas",
+  "Envuelven al bebé y una asistente le sostiene la cabeza",
+  "El médico abre el punto lagrimal y mete la sonda delgada",
+  "Lavan el conducto con una solución",
+  "Si la solución pasa a la nariz, el conducto está abierto",
+  "Te regresan al bebé y puedes calmarlo y darle de comer"
+ ],
+ "feel": [
+  "El bebé llora, sobre todo porque lo están sosteniendo",
+  "Pueden salir unas gotas de sangre por la nariz o el ojo, y se quitan"
+ ],
+ "after": [
+  "Gotas, como te las indique el médico",
+  "Masaje del saco lagrimal, si el médico lo dice",
+  "Llévalo a revisión cuando te diga el médico"
+ ],
+ "red_flags": [
+  "Inflamación y enrojecimiento en la esquina interna del ojo, o fiebre",
+  "El ojo vuelve a tener pus en unos días: ve al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede quitar sin el sondeo?",
+   "a": "Muchas veces se quita solo en los primeros meses, sobre todo con masaje. El médico decide cuándo hace falta la sonda."
+  },
+  {
+   "q": "¿Le duele al bebé?",
+   "a": "El ojo se anestesia con gotas. Casi siempre llora porque lo están sosteniendo."
+  },
+  {
+   "q": "¿Hay que repetirlo?",
+   "a": "Normalmente basta una vez, a veces hay que repetirlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es el sondeo del conducto lagrimal. Lleva una cobijita y pregunta a qué hora darle de comer."
+  }
+ ]
+}

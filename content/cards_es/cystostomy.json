@@ -1,0 +1,75 @@
+{
+ "title": "Cambio de sonda de cistostomía",
+ "also": [
+  "cambio de cistostomía",
+  "sonda suprapúbica",
+  "cambio de catéter suprapúbico",
+  "cistostomía"
+ ],
+ "what": "La enfermera o el médico cambia el tubo que saca la orina de la vejiga a través de la piel, arriba del pubis.",
+ "why": "Con regularidad, normalmente cada 4 a 6 semanas, o antes si el tubo se tapó o se salió. El médico te dirá cuándo.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Cuándo te cambiaron el tubo la última vez",
+  "Si tienes fiebre, dolor u orina con sangre",
+  "Tus alergias, también al látex",
+  "Si tomas medicamentos que hacen la sangre más líquida"
+ ],
+ "prepare": [
+  {
+   "title": "Líquidos",
+   "text": "Toma líquidos como siempre: con la vejiga llena es más fácil el cambio. Pregunta en la clínica."
+  },
+  {
+   "title": "Higiene",
+   "text": "En la mañana, baño normal; lava con jabón la piel alrededor del tubo."
+  },
+  {
+   "title": "Repuestos",
+   "text": "Lleva una bolsa de orina de repuesto."
+  }
+ ],
+ "bring": [
+  "La orden médica o el resumen de alta",
+  "Una bolsa de orina de repuesto",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te acuestas boca arriba",
+  "Quitan el vendaje y limpian la piel alrededor con antiséptico",
+  "Sacan el agua del globito que está adentro",
+  "Retiran el tubo viejo con cuidado",
+  "De inmediato meten el tubo nuevo por el mismo camino",
+  "Llenan el globito, conectan la bolsa y ponen un vendaje"
+ ],
+ "feel": [
+  "Un jalón molesto cuando sacan el tubo",
+  "Un ardor breve cuando meten el nuevo"
+ ],
+ "after": [
+  "En las primeras horas puede haber un poco de sangre en la orina",
+  "Toma más agua, si el médico no te la limitó",
+  "Apunta la fecha del siguiente cambio"
+ ],
+ "red_flags": [
+  "Se salió el tubo: llama a la clínica de inmediato, el orificio se puede cerrar en unas horas",
+  "No sale orina por varias horas o el abdomen se inflamó",
+  "Fiebre de más de 38, o enrojecimiento y pus alrededor del tubo"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo cambiar el tubo yo mismo?",
+   "a": "Normalmente no. El cambio lo hace la enfermera o el médico. A algunos pacientes se les enseña; lo decide el médico."
+  },
+  {
+   "q": "¿Qué hago si se salió el tubo?",
+   "a": "Tapa el orificio con una gasa limpia y llama de inmediato a la clínica. No vuelvas a meter el tubo tú."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es el cambio de tu sonda de cistostomía. Lleva una bolsa de repuesto y la orden médica."
+  }
+ ]
+}

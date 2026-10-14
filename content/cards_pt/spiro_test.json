@@ -1,0 +1,76 @@
+{
+ "title": "Espirometria com broncodilatador",
+ "also": [
+  "espirometria com broncodilatador",
+  "prova broncodilatadora",
+  "prova de função pulmonar",
+  "espirometria com salbutamol"
+ ],
+ "what": "Você sopra com força num tubo, depois inala um remédio que abre os brônquios e sopra de novo. Assim dá para ver se a respiração melhora com o remédio.",
+ "why": "Com tosse, falta de ar ou chiado no peito, para investigar asma e DPOC ou acompanhar o tratamento.",
+ "duration": "normalmente de 30 a 40 minutos, o laudo muitas vezes sai na hora ou no mesmo dia",
+ "tell_doctor": [
+  "Quais bombinhas e remédios para respirar você usa",
+  "Se fez cirurgia nos olhos, no peito ou na barriga há pouco tempo",
+  "Se teve infarto há pouco tempo ou tem doença do coração",
+  "Se agora está resfriado ou em crise"
+ ],
+ "prepare": [
+  {
+   "title": "Bombinhas",
+   "text": "Algumas bombinhas não são usadas por algumas horas antes da prova. Não suspenda por conta própria. Pergunte ao médico antes."
+  },
+  {
+   "title": "Cigarro e café",
+   "text": "Não fume por pelo menos algumas horas antes do teste. De manhã, sem café e sem chá forte."
+  },
+  {
+   "title": "Comida",
+   "text": "Café da manhã leve, sem refeição pesada nas 2 horas antes. Sem esforço pesado antes do teste."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa folgada, sem cinto apertado."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "As suas bombinhas",
+  "Espirometrias anteriores",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você se senta, e colocam um clipe no nariz",
+  "Você fecha bem os lábios em volta do tubo",
+  "Puxa o ar fundo e solta com toda a força e pelo máximo de tempo",
+  "Repete 3 vezes ou mais",
+  "Inala o remédio da bombinha",
+  "Depois de 15 a 20 minutos, repete os sopros"
+ ],
+ "feel": [
+  "De tanto soprar, pode dar tontura ou vontade de tossir",
+  "O remédio às vezes dá um leve tremor ou coração acelerado. Isso passa"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "Use suas bombinhas como sempre, se o médico não disser diferente",
+  "O laudo muitas vezes sai na hora"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Para que o remédio durante o teste?",
+   "a": "Se a respiração melhora bem depois dele, isso ajuda o médico a entender qual é a doença e como tratar."
+  },
+  {
+   "q": "Posso usar a bombinha de manhã?",
+   "a": "Não decida sozinho. Pergunte ao médico antes. Algumas bombinhas não devem ser usadas antes da prova."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem espirometria com broncodilatador. Pergunte ao médico sobre as bombinhas. De manhã, não fume e não tome café."
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Injeção intravítrea",
+ "also": [
+  "injeção no olho",
+  "injeção intravítrea",
+  "aplicação de medicamento no olho"
+ ],
+ "what": "O médico aplica um remédio dentro do olho com uma agulha muito fina. Antes, o olho é anestesiado com colírio.",
+ "why": "Em algumas doenças da retina, por exemplo a degeneração macular relacionada à idade ou alterações da retina pelo diabetes.",
+ "duration": "a injeção em si leva alguns segundos, tudo junto normalmente de 20 a 40 minutos; muitas vezes é preciso uma série de aplicações",
+ "tell_doctor": [
+  "Vermelhidão, secreção, inflamação no olho ou nas pálpebras",
+  "Remédios que afinam o sangue",
+  "Alergia a iodo ou a colírios",
+  "Se você está grávida",
+  "Se teve infarto ou AVC há pouco tempo"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Não suspenda remédios de uso contínuo por conta própria. Pergunte ao médico."
+  },
+  {
+   "title": "Maquiagem",
+   "text": "Vá sem maquiagem nos olhos e no rosto."
+  },
+  {
+   "title": "Transporte",
+   "text": "Depois da injeção, não pode dirigir. Vá com acompanhante."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios",
+  "Um acompanhante",
+  "Óculos escuros"
+ ],
+ "steps": [
+  "O olho é anestesiado com colírio",
+  "A pele em volta e o olho são limpos com antisséptico",
+  "Colocam um afastador de pálpebras para você não piscar",
+  "Pedem para você olhar para o lado",
+  "O médico aplica a injeção. São alguns segundos",
+  "O olho é limpo de novo, e conferem a visão e a pressão"
+ ],
+ "feel": [
+  "Você sente pressão, mas normalmente não dor",
+  "O antisséptico pode arder",
+  "Depois, sensação de areia no olho e às vezes manchas ou \"bolinhas\" na visão"
+ ],
+ "after": [
+  "Não coce nem molhe o olho nos primeiros dias, como o médico indicar",
+  "Uma manchinha vermelha na parte branca do olho costuma sumir sozinha em 1 a 2 semanas",
+  "Colírios depois da injeção, como o médico receitar",
+  "Volte para as próximas aplicações conforme o calendário"
+ ],
+ "red_flags": [
+  "Nos primeiros dias, dor e vermelhidão aumentando ou visão caindo de repente: procure o oftalmologista com urgência",
+  "Secreção com pus no olho: procure o oftalmologista com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Dói muito?",
+   "a": "Normalmente não. O olho é anestesiado, e a injeção dura segundos."
+  },
+  {
+   "q": "Quantas injeções são necessárias?",
+   "a": "Muitas vezes é uma série e depois aplicações de manutenção. O calendário quem define é o médico."
+  },
+  {
+   "q": "Vou ver a agulha?",
+   "a": "Normalmente você vê só uma mancha embaçada. É preciso olhar para o lado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a injeção no olho. Vá sem maquiagem e com acompanhante. Depois da injeção, não pode dirigir."
+  }
+ ]
+}

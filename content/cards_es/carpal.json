@@ -1,0 +1,84 @@
+{
+ "title": "Cirugía de túnel carpiano",
+ "also": [
+  "síndrome del túnel carpiano",
+  "liberación del túnel carpiano",
+  "descompresión del nervio mediano",
+  "cirugía de muñeca"
+ ],
+ "what": "El cirujano hace un corte pequeño en la palma y corta el ligamento que aprieta el nervio. Así el nervio queda más libre.",
+ "why": "Cuando se te duermen y te duelen los dedos y la mano pierde fuerza, y las inyecciones, la férula u otros tratamientos no ayudaron.",
+ "duration": "la cirugía suele durar de 15 a 30 minutos; normalmente te vas a casa el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Si tienes diabetes o enfermedades de la tiroides",
+  "Si también se te duerme la otra mano",
+  "En qué trabajas con las manos. De eso depende la incapacidad"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Casi siempre es anestesia local de la mano y estás despierto. A veces se agrega sedación. Pregunta en la clínica."
+  },
+  {
+   "title": "Mano",
+   "text": "Quítate antes los anillos y el reloj de esa mano. Uñas sin esmalte."
+  },
+  {
+   "title": "Transporte",
+   "text": "Ponte de acuerdo con alguien que te lleve a casa: no puedes manejar después de la cirugía."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Ropa de manga ancha"
+ ],
+ "steps": [
+  "Te acuestas y ponen tu brazo sobre una mesita aparte",
+  "Te anestesian la mano con una inyección y se duerme",
+  "A veces ponen un brazalete en el brazo para que sangre menos",
+  "El cirujano hace un corte pequeño en la palma, o mete una cámara por un piquete",
+  "Corta el ligamento y cierra la herida con puntos",
+  "Ponen un vendaje, a veces una férula"
+ ],
+ "feel": [
+  "La inyección de anestesia arde unos segundos",
+  "Durante la cirugía sientes que te tocan y presión, pero no dolor",
+  "Cuando pasa la anestesia, la palma duele. Te dan pastillas"
+ ],
+ "after": [
+  "Los primeros días mantén la mano en alto. Así se hincha menos",
+  "Normalmente puedes y debes mover los dedos desde el principio",
+  "No mojes el vendaje hasta que el médico lo permita",
+  "Los puntos se quitan normalmente en 10 a 14 días",
+  "El adormecimiento se quita poco a poco, de unos días a unos meses"
+ ],
+ "red_flags": [
+  "El vendaje aprieta mucho, o los dedos se ponen morados o fríos",
+  "Fiebre de más de 38, o enrojecimiento y pus en la herida",
+  "La herida sangra mucho y no para al presionarla"
+ ],
+ "faq": [
+  {
+   "q": "¿El adormecimiento se quita de inmediato?",
+   "a": "El dolor de noche muchas veces se va rápido. La sensibilidad regresa poco a poco, a veces en meses."
+  },
+  {
+   "q": "¿Cuándo puedo trabajar?",
+   "a": "En trabajos ligeros, normalmente en 1 a 2 semanas; en trabajos pesados, después. El cirujano te dirá cuándo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de túnel carpiano. Quítate los anillos, lleva tus documentos y confirma quién te llevará a casa."
+  }
+ ]
+}

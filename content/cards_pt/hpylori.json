@@ -1,0 +1,68 @@
+{
+ "title": "Exame para H. pylori nas fezes",
+ "also": [
+  "H. pylori",
+  "Helicobacter pylori",
+  "antígeno de H. pylori nas fezes",
+  "exame de fezes para H. pylori"
+ ],
+ "what": "É um exame de fezes. Procuram sinais de uma bactéria que vive no estômago e pode causar gastrite e úlcera.",
+ "why": "Com dor ou peso no estômago, azia, úlcera, doenças do estômago na família ou para controle depois do tratamento.",
+ "duration": "a coleta em casa leva poucos minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Se tomou antibiótico no último mês",
+  "Se toma remédio para azia e acidez",
+  "Se já tratou H. pylori e quando terminou"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Antibióticos e remédios para acidez podem alterar o resultado. Não suspenda por conta própria. Fale com o médico, ele decide se precisa de pausa."
+  },
+  {
+   "title": "Frasco",
+   "text": "Compre na farmácia um frasco estéril com pazinha ou pegue no laboratório."
+  },
+  {
+   "title": "Depois do tratamento",
+   "text": "O exame de controle normalmente é feito pelo menos 4 semanas depois do fim do tratamento. O prazo quem diz é o médico."
+  }
+ ],
+ "bring": [
+  "Frasco com as fezes",
+  "Pedido médico"
+ ],
+ "steps": [
+  "Evacue num recipiente limpo e seco ou sobre um plástico limpo, não no vaso",
+  "Com a pazinha da tampa, pegue um pouco das fezes",
+  "Feche bem o frasco e escreva seu nome",
+  "Leve ao laboratório no mesmo dia"
+ ],
+ "feel": [
+  "Nada. O exame não dói"
+ ],
+ "after": [
+  "Se não der para levar na hora, normalmente o frasco fica na geladeira. Confirme o prazo com o laboratório",
+  "O resultado sai normalmente em 1 a 3 dias. O prazo quem informa é o laboratório",
+  "Se encontrarem a bactéria, o tratamento quem indica é o médico"
+ ],
+ "red_flags": [
+  "Fezes pretas, vômito com sangue ou parecido com borra de café: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que o exame de fezes é melhor que o de sangue para H. pylori?",
+   "a": "As fezes mostram se a bactéria está lá agora. Os anticorpos no sangue podem continuar depois do tratamento."
+  },
+  {
+   "q": "A família precisa fazer o exame?",
+   "a": "Quem decide é o médico. Normalmente fazem quem tem sintomas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de fezes para H. pylori. Separe o frasco e um recipiente limpo."
+  }
+ ]
+}

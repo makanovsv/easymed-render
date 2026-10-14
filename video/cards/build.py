@@ -95,7 +95,7 @@ def tts_one(text, voice, mp3, sub):
             time.sleep(0.3)
             return
         key.unlink(missing_ok=True)
-        time.sleep(3 if k < 40 else 30)
+        time.sleep(min(60, 3 * 2 ** min(k, 5)))  # растущая пауза: частые повторы только усиливают ограничение edge-tts
     raise SystemExit(f"TTS failed: {text[:60]}")
 
 

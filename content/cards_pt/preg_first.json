@@ -1,0 +1,81 @@
+{
+ "title": "Primeira consulta de pré-natal",
+ "also": [
+  "começar o pré-natal",
+  "primeira consulta pré-natal",
+  "consulta de gravidez",
+  "início do pré-natal"
+ ],
+ "what": "É a primeira consulta com o ginecologista por causa da gravidez. O médico confirma a gravidez, pergunta sobre sua saúde e monta o plano de acompanhamento.",
+ "why": "Assim que você souber da gravidez. Normalmente recomendam começar o pré-natal antes das 12 semanas.",
+ "duration": "a consulta leva normalmente de 30 a 60 minutos; os exames saem em 1 a 7 dias",
+ "tell_doctor": [
+  "A data do primeiro dia da última menstruação",
+  "Todos os remédios e vitaminas que você toma",
+  "Doenças crônicas: pressão, tireoide, diabetes",
+  "Gestações, partos, abortos espontâneos e cirurgias anteriores",
+  "Doenças na família, alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Não suspenda remédios de uso contínuo por conta própria. Conte ao médico, e ele decide o que pode ser usado na gravidez."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Anote antes o que quer perguntar: alimentação, trabalho, exercício, vitaminas."
+  },
+  {
+   "title": "Exames",
+   "text": "Muitas vezes o sangue é colhido no mesmo dia. Confirme se precisa ir em jejum."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Resultados de ultrassom e testes, se já tiver",
+  "Lista de remédios",
+  "Laudos sobre doenças crônicas"
+ ],
+ "steps": [
+  "O médico pergunta sobre sua saúde e gestações anteriores",
+  "Mede pressão, altura e peso",
+  "Faz o exame ginecológico e colhe material",
+  "Calcula o tempo de gravidez e a data provável do parto",
+  "Pede exames e ultrassom",
+  "Explica o calendário de consultas e o que fazer com sinais de alerta"
+ ],
+ "feel": [
+  "O exame na maca pode ser desconfortável, mas não dói",
+  "Uma picada na coleta de sangue"
+ ],
+ "after": [
+  "Faça os exames da lista",
+  "A próxima consulta costuma ser em 2 a 4 semanas. A data quem diz é o médico",
+  "Comece as vitaminas que o médico receitou"
+ ],
+ "red_flags": [
+  "Sangramento vaginal",
+  "Dor forte no pé da barriga: ligue para a emergência",
+  "Vômitos muitas vezes por dia, sem conseguir segurar nem água"
+ ],
+ "faq": [
+  {
+   "q": "Quando é melhor começar o pré-natal?",
+   "a": "Normalmente antes das 12 semanas. Assim dá tempo de fazer exames importantes e o primeiro rastreamento."
+  },
+  {
+   "q": "Preciso tomar algo no começo da gravidez?",
+   "a": "Normalmente receitam ácido fólico. O resto, só por orientação do médico."
+  },
+  {
+   "q": "Posso continuar trabalhando?",
+   "a": "Normalmente sim. Se o trabalho for pesado ou com riscos, converse com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a primeira consulta de pré-natal. Lembre a data da última menstruação e leve a lista de remédios."
+  }
+ ]
+}

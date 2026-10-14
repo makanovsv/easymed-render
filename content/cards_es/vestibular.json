@@ -1,0 +1,81 @@
+{
+ "title": "Estudio del mareo y el vértigo",
+ "also": [
+  "pruebas vestibulares",
+  "estudio del vértigo",
+  "videonistagmografía",
+  "evaluación del equilibrio"
+ ],
+ "what": "El médico averigua por qué te mareas. Revisa tus ojos, tu equilibrio y la posición del cuerpo, y a veces graba el movimiento de los ojos con unos lentes especiales.",
+ "why": "Si te mareas seguido, te sientes inestable, o todo da vueltas al girar la cabeza o al levantarte.",
+ "duration": "normalmente de 30 a 60 minutos; parte del resultado te lo dice el médico de inmediato",
+ "tell_doctor": [
+  "Cómo es el mareo: todo da vueltas, te tambaleas o se te nubla la vista",
+  "Cuándo empezó, cuánto dura cada crisis y qué la provoca",
+  "Zumbido, oyes menos o tienes náuseas",
+  "Qué medicamentos tomas",
+  "Si tienes adormecimiento, debilidad o te cuesta hablar, dilo de inmediato"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "Algunos medicamentos para el mareo afectan la prueba. No los dejes por tu cuenta; pregúntale antes al médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente un desayuno ligero. No comas mucho: con las pruebas puedes sentir náuseas."
+  },
+  {
+   "title": "Ojos",
+   "text": "Mejor sin maquillaje en los ojos. Si usas lentes de contacto, lleva tus lentes de armazón."
+  },
+  {
+   "title": "Transporte",
+   "text": "Conviene ir con un acompañante: después de las pruebas te puedes marear un poco."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Estudios anteriores, resonancia o tomografía, si tienes",
+  "La lista de tus medicamentos",
+  "Un acompañante"
+ ],
+ "steps": [
+  "El médico te pregunta con detalle sobre las crisis",
+  "Te pide seguir con los ojos su dedo o un punto",
+  "Revisa tu equilibrio: parado con los ojos cerrados o caminando sobre una línea",
+  "Puede acostarte rápido girando la cabeza. Es una prueba para ver si se movieron unas partículas del oído",
+  "A veces te ponen lentes con cámara que graban el movimiento de tus ojos",
+  "Muchas veces también revisan tu audición"
+ ],
+ "feel": [
+  "Algunas pruebas te marean por un momento. Así están pensadas",
+  "Puedes sentir náuseas. Díselo al médico",
+  "No duele"
+ ],
+ "after": [
+  "El mareo de las pruebas normalmente se quita en minutos",
+  "Si encuentran partículas movidas en el oído, muchas veces las acomodan ahí mismo con giros de cabeza",
+  "El resultado suele estar el mismo día; a veces se necesita resonancia o análisis"
+ ],
+ "red_flags": [
+  "Mareo junto con debilidad en un brazo o una pierna, la cara chueca o dificultad para hablar: llama a emergencias",
+  "Dolor de cabeza fuerte y repentino o visión doble: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué me mareo al girar la cabeza?",
+   "a": "Muchas veces es porque se movieron unas partículas pequeñas del oído interno. Se trata con giros de cabeza en el consultorio."
+  },
+  {
+   "q": "¿Puedo ir solo?",
+   "a": "Sí, pero con un acompañante es más tranquilo: después de las pruebas te puedes marear."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu estudio del mareo. Lleva tus estudios anteriores y la lista de medicamentos. No comas mucho antes."
+  }
+ ]
+}

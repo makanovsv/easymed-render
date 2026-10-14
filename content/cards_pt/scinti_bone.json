@@ -1,0 +1,70 @@
+{
+ "title": "Cintilografia óssea",
+ "also": [
+  "cintilografia óssea",
+  "cintilografia do esqueleto",
+  "mapeamento ósseo"
+ ],
+ "what": "Aplicam na veia uma dose pequena de uma substância marcada. Ela se acumula nos ossos, e uma câmera especial faz imagens do esqueleto todo.",
+ "why": "Para encontrar alterações nos ossos, quando o médico precisa ver o esqueleto todo de uma vez, ou com dor nos ossos sem causa clara.",
+ "duration": "a visita toda leva normalmente de 3 a 5 horas: a injeção, uma espera de 2 a 4 horas e as imagens de 20 a 40 minutos. O laudo sai em 1 a 3 dias",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se está amamentando. Vai precisar de uma pausa",
+  "Se fez há pouco tempo outros exames com radioisótopos ou bário",
+  "Se é difícil ficar deitado de costas por 30 minutos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de preparo especial. Pode comer e beber."
+  },
+  {
+   "title": "Água",
+   "text": "Depois da injeção, pedem para beber bastante água e ir muitas vezes ao banheiro."
+  },
+  {
+   "title": "Metal",
+   "text": "Antes das imagens, tire joias, cinto e chaves do bolso."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Imagens e laudos anteriores",
+  "Água e algo para ler durante a espera"
+ ],
+ "steps": [
+  "Fazem uma injeção na veia, comum, como num exame de sangue",
+  "Você espera de 2 a 4 horas, bebe água e vai ao banheiro",
+  "Antes das imagens, é preciso esvaziar a bexiga",
+  "Você se deita de barriga para cima, e a câmera passa devagar sobre o corpo",
+  "É preciso ficar parado de 20 a 40 minutos"
+ ],
+ "feel": [
+  "A injeção é como uma coleta de sangue",
+  "Você não sente nada da substância",
+  "A câmera fica perto, mas não encosta e não faz barulho"
+ ],
+ "after": [
+  "Nesse dia, beba mais água e vá ao banheiro com mais frequência",
+  "Normalmente, por 24 horas, é melhor não pegar crianças pequenas no colo nem ficar muito perto de grávidas. Confirme com a clínica",
+  "Com o laudo, volte ao médico que pediu o exame"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "É uma radiação perigosa?",
+   "a": "A dose é pequena, parecida com a de uma tomografia. A substância sai rápido pela urina."
+  },
+  {
+   "q": "Posso ficar com crianças depois do exame?",
+   "a": "Normalmente recomendam não pegar bebês no colo por 24 horas. O tempo exato, a clínica informa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cintilografia óssea. A visita leva de 3 a 5 horas. Leve água e algo para ler."
+  }
+ ]
+}

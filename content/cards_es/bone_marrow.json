@@ -1,0 +1,78 @@
+{
+ "title": "Aspirado de médula ósea",
+ "also": [
+  "aspirado de médula ósea",
+  "biopsia de médula ósea",
+  "punción de médula ósea",
+  "punción esternal"
+ ],
+ "what": "Con una aguja delgada, el médico toma un poco de médula ósea, normalmente del hueso de la cadera por detrás, a veces del esternón. Se hace con anestesia local.",
+ "why": "Para saber la causa de cambios en los análisis de sangre, con enfermedades de la sangre, o para controlar el tratamiento.",
+ "duration": "el procedimiento suele durar de 15 a 30 minutos; el resultado, de unos días a 1 o 2 semanas",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico decidirá si hay que cambiar algo",
+  "Alergias, también a anestésicos locales",
+  "Si tienes miedo. A veces se puede dar un calmante",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Normalmente antes se hacen una biometría hemática y pruebas de coagulación."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer, si no habrá sedación. Pregunta en la clínica."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Si te dan un calmante, es mejor que alguien pase por ti."
+  }
+ ],
+ "bring": [
+  "La orden médica y tus análisis de sangre",
+  "La lista de tus medicamentos",
+  "Un acompañante, si habrá sedación"
+ ],
+ "steps": [
+  "Te acuestas de lado o boca abajo",
+  "Limpian la piel sobre el hueso y la adormecen con una inyección",
+  "También adormecen la superficie del hueso",
+  "Con una aguja especial entran al hueso",
+  "Con una jeringa sacan un poco de médula ósea",
+  "A veces toman un pequeño cilindro de hueso",
+  "Sacan la aguja y ponen un vendaje apretado"
+ ],
+ "feel": [
+  "Piquete y ardor con la anestesia",
+  "Presión cuando la aguja entra al hueso",
+  "Un dolor breve, como un jalón, cuando sacan la médula. Dura unos segundos"
+ ],
+ "after": [
+  "Quédate acostado sobre el lugar del piquete de 10 a 20 minutos",
+  "No mojes el vendaje en 24 horas",
+  "El lugar puede doler de 1 a 3 días. El médico te dirá qué analgésico tomar",
+  "Normalmente el hematólogo te explica el resultado"
+ ],
+ "red_flags": [
+  "El vendaje se empapa de sangre: presiona y avísale al médico",
+  "Fiebre de más de 38, enrojecimiento o pus donde fue el piquete",
+  "Dolor fuerte que va en aumento"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele mucho?",
+   "a": "La piel y el hueso se adormecen. Es molesto unos segundos, cuando sacan la médula."
+  },
+  {
+   "q": "¿Es peligroso para la médula espinal?",
+   "a": "No. La médula ósea y la médula espinal son cosas diferentes. La punción se hace en el hueso de la cadera o el esternón, no en la columna."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu aspirado de médula ósea. Lleva tus análisis y la lista de tus medicamentos. Come según te dijo la clínica."
+  }
+ ]
+}

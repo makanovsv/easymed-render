@@ -1,0 +1,85 @@
+{
+ "title": "Cambio de válvula del corazón",
+ "also": [
+  "reemplazo valvular",
+  "cambio de válvula aórtica",
+  "cambio de válvula mitral",
+  "cirugía de válvula cardiaca"
+ ],
+ "what": "El cirujano cambia la válvula dañada del corazón por una artificial. Normalmente es una cirugía abierta; a veces la válvula se pone por un vaso, sin abrir el pecho.",
+ "why": "Cuando la válvula está muy estrecha o no cierra, y el corazón ya no puede con el trabajo.",
+ "duration": "la cirugía suele durar de 3 a 5 horas; en el hospital normalmente de 7 a 14 días; si se pone por un vaso, menos",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Tus alergias",
+  "Enfermedades de los riñones, de los pulmones o diabetes",
+  "Si tienes dientes enfermos. Se tratan antes de la cirugía",
+  "Si planeas un embarazo. Es importante para elegir la válvula"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis, electrocardiograma, ecocardiograma, cateterismo o tomografía. La clínica te da la lista."
+  },
+  {
+   "title": "Dientes",
+   "text": "Normalmente hay que tratar los dientes antes de la cirugía, para evitar infecciones."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Casa",
+   "text": "Ponte de acuerdo antes con quién te ayudará en casa las primeras semanas."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de estudios",
+  "La constancia del dentista, si te la pidieron",
+  "Tus documentos y la lista de medicamentos",
+  "Tus cosas para el hospital para 1 a 2 semanas"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen catéteres",
+  "El anestesiólogo te pone la anestesia y te duermes",
+  "En la cirugía abierta, el corazón se conecta a una máquina de circulación extracorpórea",
+  "El cirujano quita la válvula enferma y cose la nueva",
+  "Vuelven a poner en marcha el corazón, cierran el esternón y cosen la herida",
+  "Despiertas en terapia intensiva"
+ ],
+ "feel": [
+  "Después de la anestesia hay debilidad y sueño",
+  "Dolor en el pecho por la herida. Te dan analgésicos",
+  "A veces una válvula mecánica se oye como un clic suave. Es normal"
+ ],
+ "after": [
+  "Empiezas a levantarte desde los primeros días",
+  "Por unas semanas hay que cuidar el esternón: sin cargar cosas pesadas ni apoyarte en los brazos",
+  "Con una válvula mecánica se necesitan medicamentos contra los coágulos de por vida, con análisis regulares",
+  "Antes de un tratamiento dental u otros procedimientos, dile al médico que tienes una válvula artificial",
+  "La recuperación suele tomar de 2 a 3 meses"
+ ],
+ "red_flags": [
+  "Dolor en el pecho o falta de aire fuerte: llama a emergencias",
+  "Debilidad repentina de un brazo o una pierna, o problemas para hablar: llama a emergencias",
+  "Fiebre de más de 38 sin causa clara",
+  "Sangrados o moretones sin motivo, si tomas medicamentos contra los coágulos"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué válvula es mejor, mecánica o biológica?",
+   "a": "La mecánica dura más, pero necesitas pastillas contra los coágulos toda la vida. La biológica no las necesita, pero se puede desgastar. Se elige con el cirujano."
+  },
+  {
+   "q": "¿Por qué tratar los dientes antes de la cirugía?",
+   "a": "Una infección de los dientes puede llegar a la válvula nueva. Por eso los dientes se tratan antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de válvula del corazón. Junta tus documentos, cosas y la lista de medicamentos. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

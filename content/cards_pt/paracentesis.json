@@ -1,0 +1,76 @@
+{
+ "title": "Paracentese",
+ "also": [
+  "paracentese",
+  "punção abdominal",
+  "retirada de líquido da barriga",
+  "punção de ascite"
+ ],
+ "what": "Por um pequeno furo na barriga, o médico retira o líquido acumulado. É feita com anestesia local.",
+ "why": "Quando há líquido acumulado na barriga, a ascite, e ele atrapalha a respirar, comer e se mexer, ou quando o líquido precisa ser analisado.",
+ "duration": "normalmente de 20 a 60 minutos, às vezes mais, se houver muito líquido. A análise do líquido sai em alguns dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico decide se algo precisa mudar",
+  "Alergias, inclusive a anestésicos locais",
+  "Se você está grávida",
+  "Se já fez punção antes"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente, antes do procedimento, conferem a coagulação do sangue. O local do furo é marcado pelo ultrassom."
+  },
+  {
+   "title": "Bexiga",
+   "text": "Antes do procedimento, vá ao banheiro."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer como sempre. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados de exames",
+  "Lista de remédios",
+  "Relatórios anteriores"
+ ],
+ "steps": [
+  "Você se deita de barriga para cima, às vezes um pouco de lado",
+  "O médico escolhe o local na barriga pelo ultrassom",
+  "Limpam a pele e aplicam a anestesia",
+  "Por um pequeno furo, colocam uma agulha fina ou um tubinho",
+  "O líquido escorre devagar para um recipiente",
+  "Retiram a agulha e fazem um curativo"
+ ],
+ "feel": [
+  "A picada e a ardência da anestesia",
+  "Depois, pressão, mas normalmente não dor",
+  "Quando o líquido sai, fica mais fácil respirar"
+ ],
+ "after": [
+  "Normalmente você fica deitado depois e medem a pressão",
+  "O curativo pode vazar um pouco. Isso acontece, e ele é trocado",
+  "O líquido pode voltar a acumular. O médico diz o que fazer depois"
+ ],
+ "red_flags": [
+  "Tontura, desmaio, fraqueza forte e repentina: ligue para a emergência",
+  "Dor forte na barriga, febre acima de 38 graus: procure o médico na hora",
+  "O curativo fica muito molhado de sangue ou o líquido vaza por mais de 24 horas"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "O local é anestesiado. Normalmente você sente pressão, não dor."
+  },
+  {
+   "q": "Por que o líquido volta?",
+   "a": "A punção tira o líquido, mas não a causa. Quem trata a causa é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoje é a paracentese. Vá ao banheiro antes do procedimento e leve a lista de remédios."
+  }
+ ]
+}

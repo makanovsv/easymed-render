@@ -1,0 +1,73 @@
+{
+ "title": "Consulta por acné",
+ "also": [
+  "acné",
+  "granos",
+  "espinillas",
+  "tratamiento del acné",
+  "dermatólogo para el acné"
+ ],
+ "what": "El dermatólogo revisa tu piel, averigua por qué salen los granos y elige el tratamiento. Es una consulta normal, sin procedimientos que duelan.",
+ "why": "Cuando los granos no se quitan, dejan marcas, duelen o te afectan en tu vida diaria.",
+ "duration": "la consulta suele durar de 20 a 30 minutos; el efecto del tratamiento suele notarse en 6 a 12 semanas",
+ "tell_doctor": [
+  "Qué productos para la piel y medicamentos ya probaste",
+  "Todos los medicamentos que tomas, también hormonas",
+  "Si estás embarazada o planeas un embarazo. Es importante para elegir el tratamiento",
+  "En mujeres: ciclo irregular o vello en la cara",
+  "Alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Piel",
+   "text": "Ve sin maquillaje, para que el médico vea tu piel."
+  },
+  {
+   "title": "Productos",
+   "text": "Toma fotos o lleva los productos que usas."
+  },
+  {
+   "title": "No te los exprimas",
+   "text": "Unos días antes de la consulta no te exprimas los granos ni te hagas tratamientos."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus productos y medicamentos",
+  "Tus análisis, si ya te los hiciste"
+ ],
+ "steps": [
+  "El médico pregunta cuándo empezaron los granos y qué te ha ayudado",
+  "Revisa la cara, a veces la espalda y el pecho",
+  "Si hace falta, pide análisis",
+  "Elige el tratamiento y los cuidados",
+  "Te explica cómo usar los productos",
+  "Te da cita de revisión"
+ ],
+ "feel": [
+  "La consulta no duele",
+  "Al inicio del tratamiento la piel se puede resecar, descamar o poner roja. Díselo al médico"
+ ],
+ "after": [
+  "Usa los productos con regularidad, como te dijo el médico",
+  "No esperes resultados de inmediato. Normalmente se necesitan de 6 a 12 semanas",
+  "Ve a la revisión para ajustar el tratamiento"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué estoy peor con el tratamiento?",
+   "a": "Las primeras semanas la piel puede irritarse. No lo dejes por tu cuenta. Díselo al médico y él lo ajustará."
+  },
+  {
+   "q": "¿Tengo que cambiar mi alimentación?",
+   "a": "A veces el médico sugiere revisar lo que comes. Pero lo principal es el tratamiento regular que él te indique."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu consulta con el dermatólogo. Ve sin maquillaje y lleva la lista de los productos que usas."
+  }
+ ]
+}

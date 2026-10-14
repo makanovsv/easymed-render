@@ -1,0 +1,72 @@
+{
+ "title": "Vacuna contra la varicela",
+ "also": [
+  "vacuna de la varicela",
+  "vacuna contra la viruela loca",
+  "vacunación contra varicela"
+ ],
+ "what": "Es una inyección de vacuna que protege contra la varicela. Normalmente se necesitan dos dosis.",
+ "why": "A niños que no han tenido varicela y a adultos sin defensas. A veces, en los primeros días después de estar con alguien enfermo.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Si ahora estás enfermo o tienes fiebre",
+  "Enfermedades del sistema inmune o tratamientos que lo debilitan",
+  "Reacciones fuertes a vacunas anteriores",
+  "Si estás embarazada o planeas un embarazo",
+  "Si estuviste con alguien con varicela y cuándo"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando la persona está sana."
+  },
+  {
+   "title": "Después del contacto",
+   "text": "Si estuviste con un enfermo, ve lo antes posible, normalmente en los primeros 3 días."
+  },
+  {
+   "title": "Embarazo",
+   "text": "Mujeres: es mejor esperar un mes después de la vacuna para embarazarse."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico o la enfermera pregunta cómo te sientes y toma la temperatura",
+  "Descubres el brazo",
+  "Limpian la piel y ponen la inyección",
+  "Anotan la vacuna en tus documentos",
+  "Después de la inyección hay que quedarse sentado en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces duele el lugar de la inyección por 1 o 2 días",
+  "A veces de 1 a 3 semanas después salen unas ampollitas o fiebre"
+ ],
+ "after": [
+  "Quédate 30 minutos cerca del consultorio",
+  "Si salen ampollitas, no estés con embarazadas ni con personas con defensas bajas hasta que se sequen",
+  "La segunda dosis, según el calendario"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o salen ronchas por todo el cuerpo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Para qué vacunarse si la varicela es leve?",
+   "a": "En adolescentes y adultos puede ser grave. La vacuna también protege de las complicaciones."
+  },
+  {
+   "q": "¿Me puede dar varicela después de la vacuna?",
+   "a": "Puede salir una varicela leve con unas cuantas ampollitas. Es mucho más leve que la enfermedad normal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna contra la varicela. Lleva tu cartilla de vacunación."
+  }
+ ]
+}

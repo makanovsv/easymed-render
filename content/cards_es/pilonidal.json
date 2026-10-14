@@ -1,0 +1,81 @@
+{
+ "title": "Cirugía del quiste pilonidal",
+ "also": [
+  "quiste pilonidal",
+  "seno pilonidal",
+  "quiste en el coxis",
+  "fístula pilonidal"
+ ],
+ "what": "El cirujano quita un conducto bajo la piel arriba del coxis, donde se juntan pelos y se puede infectar.",
+ "why": "Cuando arriba del coxis hay un conducto que se inflama, duele o saca pus.",
+ "duration": "la cirugía suele durar de 30 a 60 minutos; normalmente te vas a casa el mismo día o en 1 a 3 días; sanar toma desde unas semanas",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá qué hacer",
+  "Tus alergias",
+  "Si ahora hay inflamación y fiebre",
+  "Si tienes diabetes",
+  "Si te han operado en ese lugar"
+ ],
+ "prepare": [
+  {
+   "title": "Momento de la cirugía",
+   "text": "Si ahora hay una inflamación fuerte, normalmente primero se drena el absceso y la cirugía se hace después."
+  },
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre. La clínica te da la lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Si es con anestesia general o raquídea, normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Higiene",
+   "text": "Báñate el día anterior."
+  }
+ ],
+ "bring": [
+  "La orden médica y los análisis",
+  "Tus documentos y la lista de medicamentos",
+  "Ropa cómoda y holgada"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "Te ponen la anestesia",
+  "Te acuestas boca abajo",
+  "El cirujano quita el conducto junto con la piel afectada",
+  "Cierra la herida con puntos o la deja abierta para que sane",
+  "Ponen un vendaje"
+ ],
+ "feel": [
+  "Dolor en la herida, sobre todo al sentarte. Te dan analgésicos",
+  "Es incómodo sentarse las primeras semanas"
+ ],
+ "after": [
+  "Curaciones según el calendario del médico",
+  "Las primeras semanas siéntate menos; usa un cojín suave si te lo recomienda el médico",
+  "Mantén la zona limpia y seca",
+  "A veces recomiendan quitar el vello alrededor para que no vuelva"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38",
+  "Enrojecimiento, hinchazón o pus en la herida",
+  "Sangrado que no se detiene"
+ ],
+ "faq": [
+  {
+   "q": "¿Puede volver a salir?",
+   "a": "A veces pasa. El riesgo es menor si cuidas la higiene y sigues las indicaciones del médico."
+  },
+  {
+   "q": "¿Cuándo me puedo sentar normal?",
+   "a": "Normalmente en unas semanas, cuando sane la herida. El cirujano te dirá cuándo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía del quiste pilonidal. Báñate y junta tus documentos. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

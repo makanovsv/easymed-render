@@ -1,0 +1,80 @@
+{
+ "title": "Prueba de mesa inclinada",
+ "also": [
+  "prueba de mesa basculante",
+  "tilt test",
+  "prueba de inclinación",
+  "prueba para desmayos"
+ ],
+ "what": "Te acuestas en una mesa especial y te sujetan con cinturones. La mesa se levanta casi vertical y el médico vigila tu presión y tu pulso.",
+ "why": "Con desmayos repetidos o sensación de desmayo, para saber la causa.",
+ "duration": "normalmente de 30 a 60 minutos, a veces hasta 90; el reporte suele estar el mismo día",
+ "tell_doctor": [
+  "Cómo son tus desmayos: cuándo, cada cuánto y qué pasa antes",
+  "Todos tus medicamentos, sobre todo para la presión y el corazón",
+  "Enfermedades del corazón",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no comas de 2 a 4 horas antes. Pregunta en la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "A veces algunos medicamentos se saltan. No los dejes por tu cuenta. Pregunta antes al médico."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Mejor ve con alguien. Después de la prueba puedes sentirte débil."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, sin cinturón apretado."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus electrocardiogramas, Holter y ecocardiogramas anteriores",
+  "La lista de tus medicamentos",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te acuestas en la mesa y te sujetan con cinturones",
+  "Te ponen electrodos, un brazalete de presión y a veces un catéter en la vena",
+  "Primero estás acostado tranquilo unos minutos",
+  "La mesa se levanta despacio hasta quedar casi vertical",
+  "Te quedas de pie en la mesa sin moverte. El médico vigila presión y pulso",
+  "A veces te dan un medicamento debajo de la lengua y siguen observando",
+  "Si te sientes mal, bajan la mesa de inmediato"
+ ],
+ "feel": [
+  "Puede ser aburrido estar de pie sin moverte",
+  "Puedes sentir debilidad, náuseas o sudor, como antes de un desmayo. Díselo al médico",
+  "A veces la persona se desmaya. Es esperado: bajan la mesa y te recuperas rápido"
+ ],
+ "after": [
+  "Quédate acostado y descansa hasta sentirte mejor",
+  "Ese día mejor no manejes",
+  "El reporte suele estar el mismo día"
+ ],
+ "red_flags": [
+  "Dolor de pecho, latidos muy irregulares o desmayos repetidos en casa: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Y si me desmayo?",
+   "a": "Estás sujeto y bajan la mesa de inmediato. Normalmente te recuperas en segundos, y el médico está a tu lado."
+  },
+  {
+   "q": "¿Para qué provocar un desmayo a propósito?",
+   "a": "Para ver qué pasa en ese momento con la presión y el pulso. Así es más fácil entender la causa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu prueba de mesa inclinada. No comas desde la hora que te dijo la clínica. Ve con un acompañante."
+  }
+ ]
+}

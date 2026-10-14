@@ -1,0 +1,71 @@
+{
+ "title": "Tricoscopia (queda de cabelo)",
+ "also": [
+  "tricoscopia",
+  "queda de cabelo",
+  "tricologista",
+  "avaliação do cabelo"
+ ],
+ "what": "O médico examina o couro cabeludo e os fios com uma câmera especial com aumento. Não dói e ajuda a entender a causa da queda.",
+ "why": "Quando o cabelo cai muito, fica ralo ou aparecem áreas sem cabelo.",
+ "duration": "a avaliação leva normalmente de 15 a 30 minutos. O laudo normalmente sai na hora",
+ "tell_doctor": [
+  "Quando começou a queda e o que aconteceu antes: doenças, estresse, parto, dietas",
+  "Todos os remédios e suplementos",
+  "Se há queda de cabelo na família",
+  "Problemas hormonais, se você souber"
+ ],
+ "prepare": [
+  {
+   "title": "Lavar",
+   "text": "Normalmente não lave o cabelo de 1 a 2 dias antes da avaliação. Confirme com a clínica."
+  },
+  {
+   "title": "Produtos",
+   "text": "No dia, não use laquê, gel nem xampu a seco."
+  },
+  {
+   "title": "Tintura",
+   "text": "Não pinte o cabelo de 1 a 2 semanas antes da avaliação."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Exames, se já fez",
+  "Lista de remédios e suplementos"
+ ],
+ "steps": [
+  "O médico pergunta sobre a queda",
+  "Examina o cabelo e o couro cabeludo",
+  "Encosta a câmera em vários pontos da cabeça",
+  "A imagem aumentada aparece na tela",
+  "Às vezes tiram fotos para comparar na próxima consulta",
+  "O médico explica o resultado e pede exames ou indica tratamento"
+ ],
+ "feel": [
+  "Não dói. A câmera só encosta na pele",
+  "Às vezes o médico puxa de leve uma mecha, para ver como os fios estão presos"
+ ],
+ "after": [
+  "Você já pode lavar o cabelo e usar produtos",
+  "Faça os exames, se o médico pediu",
+  "O retorno normalmente é depois de alguns meses de tratamento"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "É normal perder cabelo todo dia?",
+   "a": "Sim, uma parte do cabelo cai todos os dias. Se ficou bem mais, vale a pena ir ao médico."
+  },
+  {
+   "q": "Quando vou ver o efeito do tratamento?",
+   "a": "O cabelo cresce devagar. Normalmente se avalia depois de 3 a 6 meses."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a tricoscopia. Normalmente não lave o cabelo e não use laquê nem gel. Confirme com a clínica."
+  }
+ ]
+}

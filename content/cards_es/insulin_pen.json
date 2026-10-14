@@ -1,0 +1,75 @@
+{
+ "title": "Cómo ponerte insulina con pluma",
+ "also": [
+  "pluma de insulina",
+  "cómo inyectar insulina",
+  "aplicación de insulina",
+  "inyecciones de insulina"
+ ],
+ "what": "La insulina te la pones tú mismo debajo de la piel con una pluma. Es sencillo si lo haces igual cada vez.",
+ "why": "Con diabetes, cuando el médico te indicó insulina.",
+ "duration": "la inyección toma de 1 a 2 minutos",
+ "tell_doctor": [
+  "Si el azúcar te sale seguido muy bajo o muy alto",
+  "Si te salieron bolitas donde te inyectas",
+  "Si no ves bien la escala de la pluma"
+ ],
+ "prepare": [
+  {
+   "title": "Insulina",
+   "text": "Guarda las de repuesto en el refrigerador, no en el congelador. La pluma que estás usando normalmente se guarda a temperatura ambiente. Revisa el instructivo."
+  },
+  {
+   "title": "Agujas",
+   "text": "Una aguja nueva en cada inyección. Las usadas, en un frasco duro con tapa."
+  },
+  {
+   "title": "Dosis",
+   "text": "La dosis y la hora de las inyecciones las indica el médico. No cambies el esquema por tu cuenta."
+  }
+ ],
+ "bring": [
+  "La pluma y las agujas",
+  "El glucómetro",
+  "Tu diario de azúcar"
+ ],
+ "steps": [
+  "Lávate las manos y revisa el nombre y la caducidad de la insulina",
+  "Si la insulina es turbia, ruédala con cuidado entre las manos y muévela de 10 a 20 veces",
+  "Pon una aguja nueva y saca 2 unidades al aire. Si sale una gota en la punta, la pluma funciona",
+  "Marca tu dosis en la escala",
+  "Elige el lugar: abdomen, muslo, brazo o glúteo. Cada vez aléjate un poco de la inyección anterior",
+  "Mete la aguja derecha y aprieta el botón hasta el fondo",
+  "Espera 10 segundos y luego saca la aguja",
+  "Quita la aguja y tírala en el frasco"
+ ],
+ "feel": [
+  "El piquete con aguja delgada casi no se siente",
+  "A veces sale una gota de sangre o un moretón pequeño"
+ ],
+ "after": [
+  "Anota la dosis y el azúcar en tu diario",
+  "Cambia los lugares de inyección. Así no salen bolitas",
+  "Siempre lleva algo dulce por si se te baja el azúcar"
+ ],
+ "red_flags": [
+  "Temblor, sudor, mucha hambre o confusión: come algo dulce y mide tu azúcar",
+  "La persona está inconsciente o con convulsiones: llama a emergencias y no le des nada por la boca"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo inyectar a través de la ropa?",
+   "a": "No. Inyéctate en la piel limpia. Así hay menos riesgo de infección y de errores en la dosis."
+  },
+  {
+   "q": "¿Qué hago si se me olvidó una inyección?",
+   "a": "No te pongas doble dosis. Mide tu azúcar y sigue el plan que te dio el médico. Si no tienes plan, llama al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Hora de tu insulina. Aguja nueva, 2 unidades al aire, tu dosis y 10 segundos."
+  }
+ ]
+}

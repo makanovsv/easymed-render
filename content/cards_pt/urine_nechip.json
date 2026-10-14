@@ -1,0 +1,70 @@
+{
+ "title": "Exame de urina de Nechiporenko (contagem de células)",
+ "also": [
+  "contagem de células na urina",
+  "sedimento urinário quantitativo",
+  "urina de jato médio"
+ ],
+ "what": "É um exame da urina da manhã, usado em alguns países. No laboratório, contam quantos leucócitos, hemácias e cilindros há na urina.",
+ "why": "Quando o exame de urina comum mostrou alteração, em doenças dos rins e das vias urinárias ou para acompanhar o tratamento.",
+ "duration": "a coleta leva 5 minutos, o resultado sai normalmente em 1 dia",
+ "tell_doctor": [
+  "Se toma diurético ou antibiótico",
+  "Se está menstruada",
+  "Se fez cistoscopia ou usou sonda há pouco tempo"
+ ],
+ "prepare": [
+  {
+   "title": "Na véspera",
+   "text": "Normalmente evite alimentos que mudam a cor da urina, como beterraba e frutas vermelhas fortes. Sem álcool e sem treino pesado."
+  },
+  {
+   "title": "Menstruação",
+   "text": "Durante a menstruação, normalmente o exame não é feito. Remarque. Confirme com o médico."
+  },
+  {
+   "title": "Frasco",
+   "text": "Frasco estéril da farmácia ou do laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma."
+  }
+ ],
+ "bring": [
+  "Frasco com a urina",
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "De manhã, logo ao acordar, lave a região íntima com água morna, sem sabonete",
+  "Os primeiros segundos de urina vão para o vaso",
+  "O jato do meio vai para o frasco",
+  "O resto, de novo no vaso",
+  "Feche o frasco e leve ao laboratório em até 1 a 2 horas"
+ ],
+ "feel": [
+  "Nada desagradável"
+ ],
+ "after": [
+  "O resultado sai normalmente no dia seguinte",
+  "Quem explica é o seu médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Qual a diferença para o exame de urina comum?",
+   "a": "Aqui as células são contadas com precisão em 1 ml de urina. Isso ajuda a ver o que o exame comum mostra de forma pouco clara."
+  },
+  {
+   "q": "Por que precisa ser o jato do meio?",
+   "a": "O primeiro jato leva células da pele e da mucosa. O jato do meio mostra melhor o que há nos rins e na bexiga."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de urina de Nechiporenko. De manhã, colha o jato do meio num frasco estéril."
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "title": "Angiografía de las piernas",
+ "also": [
+  "angiografía periférica",
+  "arteriografía de miembros inferiores",
+  "angiografía de piernas",
+  "estudio de arterias de las piernas con contraste"
+ ],
+ "what": "El médico mete un tubo delgado en una arteria y pone medio de contraste. En los rayos X se ve dónde se estrechan las arterias de las piernas. A veces en el mismo procedimiento las abren.",
+ "why": "Si te duelen las piernas al caminar, tienes heridas en los pies que no sanan, o el ultrasonido mostró arterias estrechas.",
+ "duration": "el procedimiento suele durar de 30 a 90 minutos, luego varias horas en reposo en cama; en el hospital normalmente hasta 1 o 2 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y los de la diabetes. El médico te dirá cuáles dejar y cuándo",
+  "Si tienes alergia al yodo o al medio de contraste",
+  "Enfermedades de los riñones",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, también de función renal, y electrocardiograma. La clínica te da la lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes unas horas antes del procedimiento. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Piel",
+   "text": "A veces piden rasurar el vello de la ingle. Pregunta en la clínica."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda, tus medicamentos de siempre y el cargador."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados del ultrasonido de los vasos",
+  "Los análisis",
+  "Tus documentos y la lista de medicamentos",
+  "Alguien que te lleve a casa"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena y te acuestas en la mesa",
+  "Anestesian con una inyección la piel de la ingle o del brazo",
+  "El médico mete un tubo delgado en la arteria",
+  "Ponen el medio de contraste y toman imágenes",
+  "Si hace falta, abren el vaso con un globo o ponen un stent",
+  "Retiran el tubo y presionan fuerte el sitio de la punción, o lo cierran con un dispositivo especial"
+ ],
+ "feel": [
+  "La inyección de anestesia",
+  "Calor en las piernas al pasar el contraste, por unos segundos",
+  "Normalmente no duele el tubo dentro del vaso"
+ ],
+ "after": [
+  "Por varias horas te quedas acostado sin doblar la pierna; el médico te dice cuánto",
+  "Toma más agua para que el contraste salga más rápido",
+  "Por unos días, sin cargar cosas pesadas ni hacer deporte",
+  "Puede quedar un pequeño moretón donde fue la punción"
+ ],
+ "red_flags": [
+  "El sitio de la punción se hincha o sangra: presiona y llama a emergencias",
+  "La pierna se pone fría, pálida o dormida: llama a emergencias",
+  "Fiebre de más de 38"
+ ],
+ "faq": [
+  {
+   "q": "¿Necesito anestesia general?",
+   "a": "Normalmente no. Se usa anestesia local y a veces un calmante."
+  },
+  {
+   "q": "¿Por qué no puedo doblar la pierna después?",
+   "a": "Para que la punción en la arteria cierre bien y no haya sangrado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu angiografía. Junta tus documentos y análisis. Come solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

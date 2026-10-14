@@ -1,0 +1,71 @@
+{
+ "title": "Thyroid scan",
+ "also": [
+  "thyroid scan",
+  "thyroid scintigraphy",
+  "nuclear thyroid scan",
+  "thyroid uptake scan"
+ ],
+ "what": "A small dose of a tracer substance is injected into a vein. The thyroid takes it up, and a camera shows which areas are more active.",
+ "why": "For an overactive thyroid, to find the cause, or for thyroid nodules, to see which are active.",
+ "duration": "the whole visit usually takes 1 to 2 hours; the report in 1 to 2 days",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "If you are breastfeeding. You will need a break",
+  "Your thyroid medicines",
+  "If in the last 1 to 2 months you had a CT with contrast or took iodine"
+ ],
+ "prepare": [
+  {
+   "title": "Iodine",
+   "text": "Iodine supplements are usually stopped a few weeks before the test. Ask the clinic how long."
+  },
+  {
+   "title": "Medicines",
+   "text": "Thyroid medicines are sometimes paused. Do not do this on your own. Tell your doctor. They will decide."
+  },
+  {
+   "title": "Metal",
+   "text": "Take off necklaces and jewelry from your neck."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Thyroid hormone test results",
+  "Your thyroid ultrasound"
+ ],
+ "steps": [
+  "You get an injection into a vein",
+  "You wait about 15 to 30 minutes",
+  "You lie on your back with your head tilted back a little",
+  "The camera is placed over your neck. Keep still and try not to swallow",
+  "The scan takes a few minutes"
+ ],
+ "feel": [
+  "The injection feels like giving blood",
+  "You do not feel the tracer at all"
+ ],
+ "after": [
+  "You can go on with your normal day",
+  "Drink water and use the toilet more often",
+  "Ask the clinic about breastfeeding and contact with babies",
+  "Take the report to an endocrinologist"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why no iodine before the test?",
+   "a": "Iodine fills up the thyroid, so the tracer is not taken up well. The scan will not be accurate."
+  },
+  {
+   "q": "Does it replace an ultrasound?",
+   "a": "No. Ultrasound shows the structure, and the scan shows how the gland works. They are often done together."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Thyroid scan tomorrow. Bring your hormone tests and thyroid ultrasound."
+  }
+ ]
+}

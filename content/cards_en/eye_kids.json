@@ -1,0 +1,77 @@
+{
+ "title": "Children's eye exam",
+ "also": [
+  "pediatric eye exam",
+  "children's eye doctor",
+  "kids vision test",
+  "pediatric ophthalmologist"
+ ],
+ "what": "The doctor checks how well your child sees and examines the eyes. For little ones, pictures and toys are used.",
+ "why": "For routine checkups, or if your child squints, sits close to things, has a turning eye, or complains about their eyes.",
+ "duration": "usually 15 to 30 minutes; with dilating drops, up to 1 to 1.5 hours",
+ "tell_doctor": [
+  "What you notice: squinting, eye rubbing, head tilting, a turning eye",
+  "If your child wears glasses",
+  "If relatives have nearsightedness, a squint, or other eye conditions",
+  "Your child's allergies"
+ ],
+ "prepare": [
+  {
+   "title": "Timing",
+   "text": "Choose a time when your child is not hungry or sleepy."
+  },
+  {
+   "title": "Talk to your child",
+   "text": "Tell your child it will be a game with pictures and a little flashlight."
+  },
+  {
+   "title": "Drops",
+   "text": "If dilating drops are used, vision will be blurry for a few hours afterward. Plan your day."
+  }
+ ],
+ "bring": [
+  "Your child's documents",
+  "Your child's glasses, if they have them",
+  "A toy or a snack"
+ ],
+ "steps": [
+  "The doctor asks about your concerns",
+  "Your child names pictures or letters on a chart",
+  "Each eye is checked in turn, with the other covered",
+  "A machine measures how the eye focuses, without touching it",
+  "Sometimes drops are put in, and you wait 20 to 40 minutes",
+  "The doctor looks into the eyes with a light and a lens"
+ ],
+ "feel": [
+  "The exam does not hurt",
+  "The drops may sting a little",
+  "After the drops, light seems bright and close-up vision is worse. This passes in a few hours"
+ ],
+ "after": [
+  "If drops were used, a cap or sunglasses help outdoors",
+  "The doctor will say if glasses are needed and when to come back"
+ ],
+ "red_flags": [
+  "The eye turns red and painful after the drops, or your child cannot open it: see a doctor"
+ ],
+ "faq": [
+  {
+   "q": "At what age is vision checked?",
+   "a": "The first exam is usually in the first months of life, then at routine checkups."
+  },
+  {
+   "q": "Why use drops?",
+   "a": "The drops relax the eye muscles, so the doctor can see more exactly if glasses are needed."
+  },
+  {
+   "q": "My child does not know letters. How will they be tested?",
+   "a": "For little ones, there are picture charts and machines that need no answers."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Your child's eye exam is in 2 hours. Bring their glasses, if they have them."
+  }
+ ]
+}

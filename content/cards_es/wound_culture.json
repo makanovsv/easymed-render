@@ -1,0 +1,72 @@
+{
+ "title": "Cultivo de herida",
+ "also": [
+  "cultivo de herida",
+  "exudado de herida",
+  "cultivo de secreción",
+  "cultivo de pus"
+ ],
+ "what": "Toman una muestra de la herida con un hisopo estéril. En el laboratorio cultivan los microbios y revisan qué medicamentos les hacen efecto.",
+ "why": "Cuando una herida tarda en sanar, tiene pus, está roja o duele, o después de una cirugía.",
+ "duration": "la muestra toma de 2 a 5 minutos; el resultado suele estar en 3 a 7 días",
+ "tell_doctor": [
+  "Si tomas antibióticos o te pones pomadas antibióticas en la herida",
+  "Si tienes diabetes",
+  "Si tienes alergia al antiséptico"
+ ],
+ "prepare": [
+  {
+   "title": "Pomadas",
+   "text": "Normalmente antes de la muestra no se pone pomada en la herida. Pregunta al médico cuándo hacer la última curación."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "Es mejor tomar el cultivo antes del antibiótico. No lo dejes por tu cuenta. Díselo al médico."
+  },
+  {
+   "title": "Vendaje",
+   "text": "No te quites el vendaje en casa. Lo quita la enfermera."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "La enfermera quita el vendaje",
+  "Lavan la herida con una solución estéril",
+  "Con un hisopo estéril tocan el fondo de la herida",
+  "El hisopo se pone en un tubo",
+  "Ponen un vendaje nuevo en la herida"
+ ],
+ "feel": [
+  "Puede doler cuando tocan la herida. Avísale a la enfermera",
+  "Normalmente es rápido"
+ ],
+ "after": [
+  "Cuida la herida como te dijo el médico",
+  "El resultado suele estar en 3 a 7 días",
+  "Según el resultado, el médico puede cambiar el medicamento"
+ ],
+ "red_flags": [
+  "La herida se pone roja o hinchada rápido, salen rayas rojas en la piel o hay fiebre: ve al médico el mismo día",
+  "Mucha debilidad, escalofríos o confusión: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Para qué el cultivo si ya me dieron tratamiento?",
+   "a": "Muestra qué microbio exacto hay en la herida y a qué medicamentos responde. Así el tratamiento es más preciso."
+  },
+  {
+   "q": "¿Puedo ponerle pomada a la herida antes del análisis?",
+   "a": "Normalmente no. La pomada puede matar los microbios y el cultivo no mostrará nada. Pregunta al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu cultivo de herida. No pongas pomadas en la herida antes, salvo que el médico te diga otra cosa."
+  }
+ ]
+}

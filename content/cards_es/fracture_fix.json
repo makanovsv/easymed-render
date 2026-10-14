@@ -1,0 +1,84 @@
+{
+ "title": "Cirugía de fractura con placas y tornillos",
+ "also": [
+  "osteosíntesis",
+  "reducción abierta y fijación interna",
+  "placa en el hueso",
+  "clavo intramedular",
+  "cirugía de fractura"
+ ],
+ "what": "El cirujano acomoda el hueso roto y lo fija con una placa, tornillos, un clavo o alambres. Así el hueso pega bien.",
+ "why": "Cuando los fragmentos se movieron o el hueso no va a pegar derecho con yeso.",
+ "duration": "la cirugía suele durar de 1 a 3 horas; en el hospital según el caso, normalmente varios días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si fumas. Hace que el hueso pegue más lento",
+  "Cuándo comiste y bebiste por última vez"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Antes de la cirugía no comas ni bebas; el médico te dirá desde qué hora. Si es una cirugía de urgencia, no comas nada hasta preguntar."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda y holgada, el cargador del teléfono y los medicamentos que tomas siempre."
+  }
+ ],
+ "bring": [
+  "Las radiografías y los informes del traumatólogo",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "El anestesiólogo te pone anestesia general o anestesia del brazo o la pierna",
+  "El cirujano acomoda los fragmentos del hueso",
+  "Fija el hueso con el metal y lo revisa con rayos X",
+  "Cierra la herida y pone un vendaje, a veces una férula"
+ ],
+ "feel": [
+  "Después de la cirugía duele. Te dan analgésicos",
+  "Hinchazón y pesadez en el brazo o la pierna los primeros días",
+  "Después de la anestesia, sueño y a veces náuseas"
+ ],
+ "after": [
+  "El peso sobre el brazo o la pierna se da poco a poco, según el médico",
+  "Las radiografías de control se toman en unas semanas",
+  "El hueso suele pegar entre 6 semanas y varios meses",
+  "La fisioterapia ayuda a recuperar el movimiento"
+ ],
+ "red_flags": [
+  "Dolor e hinchazón en la pantorrilla, o la pierna está caliente",
+  "Los dedos se ponen morados, fríos o dormidos",
+  "Fiebre de más de 38 o pus en la herida",
+  "Falta de aire o dolor en el pecho de repente: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Habrá que quitar el metal?",
+   "a": "No siempre. A veces se deja para siempre. Lo decide el cirujano cuando el hueso pegue."
+  },
+  {
+   "q": "¿El metal va a sonar en el aeropuerto?",
+   "a": "Puede pasar. Lleva tu resumen del hospital para mostrarlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu cirugía. Comida y agua solo hasta la hora que dijo el médico. Lleva tus radiografías y la lista de medicamentos."
+  }
+ ]
+}

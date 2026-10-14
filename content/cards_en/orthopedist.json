@@ -1,0 +1,71 @@
+{
+ "title": "Orthopedic doctor visit",
+ "also": [
+  "orthopedist",
+  "orthopedic doctor",
+  "bone doctor",
+  "trauma and orthopedics"
+ ],
+ "what": "A doctor who treats injuries and conditions of the bones, joints, muscles, and ligaments.",
+ "why": "For injuries, fractures, dislocations, joint or back pain, flat feet, and after bone surgery.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "How and when the injury happened or the pain began",
+  "What makes the pain worse",
+  "Past fractures or surgeries",
+  "What medicines you take",
+  "If you have osteoporosis"
+ ],
+ "prepare": [
+  {
+   "title": "Scans",
+   "text": "Bring X-rays, MRI or CT scans on a disc, and their reports."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something that makes it easy to uncover the sore joint."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Scans on a disc and their reports",
+  "A brace or insoles, if you wear them",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "The sore area is examined and felt",
+  "Joint movement is checked",
+  "Your scans are reviewed, or you are sent for an X-ray",
+  "Treatment is prescribed: rest, a brace or cast, exercises, medicines, or surgery"
+ ],
+ "feel": [
+  "Checking movement in a sore joint may be unpleasant",
+  "Tell the doctor where it hurts. They will be more careful"
+ ],
+ "after": [
+  "Follow the advice on activity and support",
+  "Ask when to come back for a check"
+ ],
+ "red_flags": [
+  "Severe pain after an injury, bone showing, a twisted leg, or you cannot move it: call emergency services",
+  "Numbness, or blue or cold fingers or toes under a cast: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Should I get an X-ray first?",
+   "a": "If you have recent images, bring them. The doctor will decide if a new one is needed."
+  },
+  {
+   "q": "Are a trauma doctor and an orthopedist different?",
+   "a": "Usually it is one specialty: an orthopedic doctor treats both injuries and joint conditions."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Orthopedic visit tomorrow. Bring your scans and wear comfortable clothes."
+  }
+ ]
+}

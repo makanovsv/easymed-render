@@ -1,0 +1,67 @@
+{
+ "title": "Consulta con el nefrólogo",
+ "also": [
+  "nefrólogo",
+  "médico de los riñones",
+  "consulta de nefrología"
+ ],
+ "what": "Es el médico que trata enfermedades de los riñones y ayuda a que sigan funcionando.",
+ "why": "Si hay cambios en tus análisis de orina o de sangre, hinchazón, presión alta, enfermedades de los riñones o diabetes que afecta los riñones.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Todos tus medicamentos, también analgésicos y suplementos",
+  "Si tienes hinchazón o cambios en la orina",
+  "Tu presión y si tienes diabetes",
+  "Enfermedades de los riñones en tu familia"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Lleva todos tus análisis de orina y sangre, sobre todo la creatinina, y el ultrasonido de riñones."
+  },
+  {
+   "title": "Presión",
+   "text": "Si te tomas la presión en casa, lleva tu diario de presión."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tu diario de presión",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias y medicamentos",
+  "Te toma la presión y el peso",
+  "Revisa si tienes hinchazón",
+  "Revisa tus análisis y el ultrasonido",
+  "Te pide estudios o te indica un tratamiento"
+ ],
+ "feel": [
+  "Nada molesto. Es una revisión normal",
+  "El médico puede pedirte una muestra de orina ese mismo día"
+ ],
+ "after": [
+  "Hazte los análisis de control en las fechas indicadas",
+  "Mejor no tomes analgésicos ni suplementos sin el médico; pregúntale"
+ ],
+ "red_flags": [
+  "Casi dejaste de orinar, tienes mucha hinchazón o te falta el aire: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué análisis necesito para el nefrólogo?",
+   "a": "Normalmente examen general de orina, creatinina en sangre y ultrasonido de riñones. El médico te dirá la lista exacta."
+  },
+  {
+   "q": "¿Puedo tomar analgésicos si tengo una enfermedad de los riñones?",
+   "a": "No todos. Pregúntale al médico cuáles te convienen."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el nefrólogo. Lleva tus análisis de sangre y orina, el ultrasonido y tu diario de presión."
+  }
+ ]
+}

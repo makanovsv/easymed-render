@@ -1,0 +1,69 @@
+{
+ "title": "Medical alcohol test",
+ "also": [
+  "alcohol test",
+  "breathalyzer test",
+  "sobriety test",
+  "blood alcohol test"
+ ],
+ "what": "A doctor checks if there is alcohol in your body. You blow into a device, and sometimes give blood or urine. The doctor also does a short exam.",
+ "why": "At the request of police or an employer, after a road accident, or at medical checks for drivers and workers.",
+ "duration": "usually 20 to 40 minutes; the breath result comes right away, blood or urine results later",
+ "tell_doctor": [
+  "All medicines you take",
+  "If you used an alcohol-based spray, mouthwash, or drops",
+  "If you have diabetes or lung disease"
+ ],
+ "prepare": [
+  {
+   "title": "ID",
+   "text": "Bring your ID."
+  },
+  {
+   "title": "Mouth",
+   "text": "For 15 to 20 minutes before the breath test, do not smoke, eat, or rinse with anything containing alcohol."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell the doctor everything you take."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your referral or report, if you were sent"
+ ],
+ "steps": [
+  "The doctor checks your ID and fills out a report",
+  "You have a short exam: blood pressure, pulse, speech, and balance",
+  "You breathe out long and steady into a single-use mouthpiece",
+  "The breath test is usually repeated after 15 to 20 minutes",
+  "Sometimes blood from a vein or urine is taken for the lab",
+  "The doctor writes up the result"
+ ],
+ "feel": [
+  "Nothing unpleasant",
+  "You need to blow steadily and for a long time into the device"
+ ],
+ "after": [
+  "The breath result shows right away",
+  "Blood or urine results usually come in a few days",
+  "The official report is issued by the rules. Ask who gets it and when"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can kvass or kefir show up as alcohol?",
+   "a": "Right after drinking, they can sometimes give very small numbers. That is why the breath test is repeated after 15 to 20 minutes."
+  },
+  {
+   "q": "Can I refuse the test?",
+   "a": "That depends on the law in your country, and refusing can have consequences. Ask a lawyer or the officer who sent you."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Alcohol test soon. For 15 to 20 minutes before the breath test, do not smoke, eat, or rinse your mouth."
+  }
+ ]
+}

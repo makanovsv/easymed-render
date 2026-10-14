@@ -1,0 +1,73 @@
+{
+ "title": "Vacinas na gravidez",
+ "also": [
+  "vacinação da gestante",
+  "vacinas na gestação",
+  "quais vacinas a grávida pode tomar"
+ ],
+ "what": "Algumas vacinas na gravidez protegem a mãe e o bebê nos primeiros meses de vida. E algumas não podem ser tomadas. O médico orienta.",
+ "why": "Normalmente recomendam a vacina da gripe e, em muitos países, a vacina contra coqueluche (dTpa) na segunda metade da gravidez. Às vezes outras, conforme a indicação.",
+ "duration": "a injeção leva alguns segundos, com a avaliação normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "O tempo de gravidez",
+  "Quais vacinas tomou antes da gravidez",
+  "Se está doente agora ou com febre",
+  "Reações fortes a vacinas anteriores",
+  "Doenças crônicas"
+ ],
+ "prepare": [
+  {
+   "title": "Conversa",
+   "text": "Converse sobre as vacinas com o médico do pré-natal. Ele indica quais e quando."
+  },
+  {
+   "title": "Vacinas vivas",
+   "text": "Algumas vacinas, como contra sarampo e catapora, não são dadas na gravidez. É melhor tomá-las antes de engravidar."
+  },
+  {
+   "title": "Documentos",
+   "text": "Procure a carteira de vacinação."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "A carteira de vacinação",
+  "A caderneta da gestante"
+ ],
+ "steps": [
+  "O médico pergunta o tempo de gravidez e como você está",
+  "Mede a temperatura",
+  "Você mostra o braço",
+  "Aplicam a injeção",
+  "Depois da injeção, fique cerca de 30 minutos na clínica"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes o braço dói por 1 a 2 dias, e pode haver fraqueza"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala",
+  "Registre a vacina na caderneta da gestante",
+  "Conte ao médico como se sentiu na próxima consulta"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência",
+  "Sangramento, dor no pé da barriga ou o bebê parou de mexer: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A vacina não vai fazer mal ao bebê?",
+   "a": "As vacinas recomendadas para gestantes são bem estudadas. Os anticorpos de proteção passam para o bebê."
+  },
+  {
+   "q": "E se eu tomei sem querer uma vacina viva?",
+   "a": "Não se preocupe e avise o médico. Normalmente não é motivo de alarme, e o médico explica tudo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina. Leve a caderneta da gestante e a carteira de vacinação."
+  }
+ ]
+}

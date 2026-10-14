@@ -1,0 +1,67 @@
+{
+ "title": "Campimetría",
+ "also": [
+  "campo visual",
+  "campimetría computarizada",
+  "perimetría",
+  "examen de la visión lateral"
+ ],
+ "what": "Un aparato revisa qué tanto ves hacia los lados. Miras al centro y aprietas un botón cuando ves una lucecita.",
+ "why": "Si tienes glaucoma o se sospecha, en enfermedades de la retina o de los nervios, y después de golpes.",
+ "duration": "normalmente de 10 a 30 minutos para los dos ojos; el resultado muchas veces sale de inmediato",
+ "tell_doctor": [
+  "Si tienes glaucoma o se sospecha",
+  "Si ya te hicieron este estudio antes",
+  "Qué gotas y medicamentos usas",
+  "Si usas lentes"
+ ],
+ "prepare": [
+  {
+   "title": "Descanso",
+   "text": "Duerme bien. La atención es importante para un resultado exacto."
+  },
+  {
+   "title": "Lentes",
+   "text": "Lleva tus lentes, sobre todo los de cerca."
+  }
+ ],
+ "bring": [
+  "Tus lentes",
+  "Tus resultados anteriores",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te tapan un ojo con un parche",
+  "Apoyas la barbilla en el soporte y miras un punto en el centro",
+  "Aparecen luces débiles en distintos lugares",
+  "Cuando ves una luz, aprietas el botón",
+  "No busques las luces con los ojos; sigue mirando al centro",
+  "Después se hace lo mismo con el otro ojo"
+ ],
+ "feel": [
+  "No duele",
+  "Puede ser cansado y aburrido. Puedes pedir una pausa",
+  "No vas a ver algunas luces. Así está pensado"
+ ],
+ "after": [
+  "No hay ninguna restricción",
+  "El médico compara el resultado con los anteriores y te dice qué sigue"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "No vi muchas luces, ¿es malo?",
+   "a": "No necesariamente. El aparato muestra a propósito luces muy débiles."
+  },
+  {
+   "q": "¿Por qué hay que repetir el estudio?",
+   "a": "Para ver si la vista cambia con el tiempo, sobre todo si hay glaucoma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu campimetría. Duerme bien y lleva tus lentes."
+  }
+ ]
+}

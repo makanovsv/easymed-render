@@ -1,0 +1,88 @@
+{
+ "title": "Blefaroplastia",
+ "also": [
+  "blefaroplastia",
+  "cirurgia de pálpebras",
+  "plástica de pálpebras",
+  "tirar bolsas dos olhos"
+ ],
+ "what": "O cirurgião retira o excesso de pele e gordura das pálpebras de cima ou de baixo. O olhar fica mais aberto e as bolsas diminuem.",
+ "why": "Quando as pálpebras de cima caem e atrapalham a visão, ou as bolsas sob os olhos incomodam.",
+ "duration": "a cirurgia leva normalmente de 1 a 2 horas, com alta normalmente no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Olho seco, glaucoma, cirurgias nos olhos",
+  "Pressão alta e doenças da tireoide",
+  "O que você espera da cirurgia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Pode ser anestesia local com sedação ou anestesia geral. Confirme com a clínica."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Olhos",
+   "text": "No dia da cirurgia, sem lentes de contato e sem maquiagem. Leve os óculos."
+  },
+  {
+   "title": "Transporte",
+   "text": "Combine quem vai levar você para casa: dirigir não pode."
+  }
+ ],
+ "bring": [
+  "Exames",
+  "Documentos",
+  "Lista de remédios",
+  "Óculos escuros"
+ ],
+ "steps": [
+  "O cirurgião marca as linhas dos cortes com caneta",
+  "Aplicam a anestesia",
+  "O corte é feito na dobra da pálpebra ou logo abaixo dos cílios",
+  "O excesso de pele e gordura é retirado",
+  "Fazem uma sutura fina",
+  "Colocam gelo nas pálpebras"
+ ],
+ "feel": [
+  "Inchaço e roxos em volta dos olhos nas primeiras 1 a 2 semanas",
+  "Repuxo e secura nos olhos",
+  "A dor costuma ser pequena e passa com comprimidos"
+ ],
+ "after": [
+  "Compressas frias nos primeiros 1 a 2 dias",
+  "Durma com a cabeça elevada",
+  "Os pontos são retirados normalmente em 4 a 7 dias",
+  "Sem maquiagem, lentes, sauna e esporte por 1 a 2 semanas. O médico vai dizer",
+  "O resultado final aparece normalmente em alguns meses"
+ ],
+ "red_flags": [
+  "Dor forte no olho, piora da visão: procure o médico na hora ou ligue para a emergência",
+  "Inchaço e roxo aumentando rápido de um lado",
+  "Febre acima de 38 graus, pus nos pontos"
+ ],
+ "faq": [
+  {
+   "q": "Quando os roxos somem?",
+   "a": "Normalmente em 1 a 2 semanas. Gelo e cabeça elevada ajudam."
+  },
+  {
+   "q": "As cicatrizes vão aparecer?",
+   "a": "Normalmente a cicatriz fica escondida na dobra da pálpebra ou abaixo dos cílios e, com o tempo, quase não aparece."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia das pálpebras. Sem lentes e sem maquiagem. Leve óculos escuros e combine a volta para casa."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Cirurgia de túnel do carpo",
+ "also": [
+  "síndrome do túnel do carpo",
+  "descompressão do nervo mediano",
+  "liberação do túnel do carpo",
+  "cirurgia no punho"
+ ],
+ "what": "O cirurgião faz um pequeno corte na palma da mão e corta o ligamento que aperta o nervo. O nervo fica mais livre.",
+ "why": "Quando os dedos ficam dormentes e doem, a mão perde força, e injeções, órtese e outros tratamentos não ajudaram.",
+ "duration": "a cirurgia leva normalmente de 15 a 30 minutos, com alta normalmente no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Diabetes e doenças da tireoide",
+  "Se a outra mão também fica dormente",
+  "O que você faz com as mãos no trabalho. Disso depende o afastamento"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Na maioria das vezes, anestesia local na mão, e você fica acordado. Às vezes acrescentam sedação. Confirme com a clínica."
+  },
+  {
+   "title": "Mão",
+   "text": "Tire antes os anéis e o relógio da mão. Unhas sem esmalte."
+  },
+  {
+   "title": "Transporte",
+   "text": "Combine quem vai levar você para casa: depois da cirurgia, não pode dirigir."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados de exames",
+  "Documentos",
+  "Lista de remédios",
+  "Roupa de manga larga"
+ ],
+ "steps": [
+  "Você deita, e a mão fica numa mesinha à parte",
+  "A mão é anestesiada com injeção e fica dormente",
+  "Às vezes colocam uma braçadeira no braço, para sangrar menos",
+  "O cirurgião faz um pequeno corte na palma ou introduz uma câmera por um furo",
+  "O ligamento é cortado, e a ferida é suturada",
+  "Fazem um curativo, às vezes uma tala"
+ ],
+ "feel": [
+  "A injeção de anestesia arde por alguns segundos",
+  "Durante a cirurgia, toques e pressão, mas sem dor",
+  "Quando a anestesia passa, a palma dói um pouco. Dão comprimidos"
+ ],
+ "after": [
+  "Nos primeiros dias, mantenha a mão elevada. Assim incha menos",
+  "Mexer os dedos normalmente pode e deve, desde o início",
+  "Não molhe o curativo até o médico liberar",
+  "Os pontos são retirados normalmente em 10 a 14 dias",
+  "A dormência passa aos poucos, de alguns dias a alguns meses"
+ ],
+ "red_flags": [
+  "O curativo aperta muito, os dedos ficam roxos ou frios",
+  "Febre acima de 38 graus, vermelhidão e pus na ferida",
+  "A ferida sangra muito e não para ao apertar"
+ ],
+ "faq": [
+  {
+   "q": "A dormência passa na hora?",
+   "a": "A dor à noite muitas vezes passa rápido. A sensibilidade volta aos poucos, às vezes em meses."
+  },
+  {
+   "q": "Quando posso trabalhar?",
+   "a": "Em trabalho leve, normalmente em 1 a 2 semanas. Em trabalho pesado, depois. O prazo quem diz é o cirurgião."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia no punho. Tire os anéis, leve os documentos e combine quem vai levar você para casa."
+  }
+ ]
+}

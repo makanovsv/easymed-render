@@ -1,0 +1,87 @@
+{
+ "title": "Tratamiento dental con sedación",
+ "also": [
+  "dentista con sedación",
+  "sedación consciente dental",
+  "tratamiento dental dormido",
+  "dentista sin miedo"
+ ],
+ "what": "Te ponen un medicamento para relajarte y te tratan los dientes mientras estás adormilado. Además, el diente se anestesia con la inyección de siempre.",
+ "why": "Si le tienes mucho miedo al dentista, si te dan muchas ganas de vomitar, o cuando hay que hacer mucho trabajo en una sola cita.",
+ "duration": "el tratamiento suele durar de 1 a 3 horas, y después descansas un rato en la clínica",
+ "tell_doctor": [
+  "Todos tus medicamentos y enfermedades, sobre todo del corazón, de los pulmones y la presión",
+  "Si roncas o dejas de respirar dormido",
+  "Tus alergias",
+  "Si estás embarazada o podrías estarlo",
+  "Si tuviste problemas con la anestesia o la sedación antes"
+ ],
+ "prepare": [
+  {
+   "title": "Comida y bebida",
+   "text": "Normalmente no comes ni bebes unas horas antes de la sedación. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos por tu cuenta. Pregúntale al médico cómo tomarlos ese día."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Tienes que regresar a casa con un adulto. No puedes manejar."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda de manga corta, sin esmalte de uñas ni maquillaje."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Un acompañante",
+  "Tus análisis, si te los pidieron"
+ ],
+ "steps": [
+  "El anestesiólogo o el médico te hace preguntas y te toma la presión",
+  "Te ponen un sensor en el dedo y un catéter en la vena, o te dan el medicamento de otra forma",
+  "Te ponen el calmante: te relajas y te adormeces",
+  "Te anestesian el diente con una inyección",
+  "El médico trata tus dientes y vigilan todo el tiempo tu respiración y tu pulso",
+  "Despiertas y descansas en la clínica hasta que te sientas bien"
+ ],
+ "feel": [
+  "Te sientes tranquilo y con sueño, y después no recuerdas mucho",
+  "El piquete en la vena o en la encía se siente un momento",
+  "Después tienes sueño y cansancio el resto del día"
+ ],
+ "after": [
+  "Descansa en casa el resto del día",
+  "Ese día no manejes, no tomes alcohol ni tomes decisiones importantes",
+  "No comas hasta que se quite lo dormido",
+  "El médico te dirá cómo cuidar tus dientes"
+ ],
+ "red_flags": [
+  "Cuesta respirar o los labios se ponen morados: llama a emergencias",
+  "El sueño no se quita y cuesta despertar a la persona: llama a emergencias",
+  "Dolor fuerte o inflamación en la zona tratada"
+ ],
+ "faq": [
+  {
+   "q": "¿Es anestesia general?",
+   "a": "No. Con sedación estás adormilado, pero normalmente respiras solo y puedes responder. La anestesia general es un sueño más profundo."
+  },
+  {
+   "q": "¿No voy a sentir nada?",
+   "a": "Normalmente el tratamiento pasa tranquilo. Además, el diente se anestesia con una inyección."
+  },
+  {
+   "q": "¿Puedo irme solo a casa?",
+   "a": "No. Necesitas un adulto que te acompañe, y ese día no puedes manejar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu tratamiento con sedación. Come y toma agua solo hasta la hora que te dijo la clínica. Confirma con tu acompañante."
+  }
+ ]
+}

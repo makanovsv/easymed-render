@@ -1,0 +1,89 @@
+{
+ "title": "Liposucción",
+ "also": [
+  "liposucción",
+  "lipoescultura",
+  "lipoaspiración",
+  "quitar grasa"
+ ],
+ "what": "Por pequeños orificios, el cirujano mete un tubo delgado y aspira la grasa de las zonas elegidas. Sirve para mejorar la forma, no para bajar de peso.",
+ "why": "Cuando hay grasa que no se va en zonas específicas, como abdomen, muslos o costados, con un peso normal.",
+ "duration": "la cirugía suele durar de 1 a 3 horas; muchas veces te vas a casa el mismo día o al siguiente",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si tuviste trombos en las venas",
+  "Si fumas o tomas pastillas hormonales"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Faja",
+   "text": "Normalmente se necesita una faja de compresión. Se elige antes."
+  },
+  {
+   "title": "Transporte",
+   "text": "Ponte de acuerdo con alguien que te lleve a casa."
+  }
+ ],
+ "bring": [
+  "Los análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "La faja de compresión",
+  "Ropa holgada y oscura"
+ ],
+ "steps": [
+  "De pie, el cirujano marca las zonas con plumón",
+  "El anestesiólogo te pone anestesia general u otro tipo de anestesia",
+  "Por orificios pequeños ponen una solución especial",
+  "Con un tubo delgado aspiran la grasa",
+  "Cierran los orificios y te ponen la faja de compresión"
+ ],
+ "feel": [
+  "Dolor como después de un ejercicio muy fuerte. Te dan analgésicos",
+  "Hinchazón y moretones por unas semanas",
+  "Los primeros 1 o 2 días puede salir líquido rosado por los orificios"
+ ],
+ "after": [
+  "La faja se usa normalmente unas semanas",
+  "Hay que caminar desde el primer día. Protege contra los trombos",
+  "Sauna, ejercicio y sol, cuando lo permita el médico",
+  "El resultado final se ve normalmente en unos meses",
+  "Si subes de peso, la grasa se puede acumular en otras zonas"
+ ],
+ "red_flags": [
+  "Falta de aire o dolor en el pecho de repente: llama a emergencias",
+  "Dolor e hinchazón en la pantorrilla",
+  "Fiebre de más de 38, o enrojecimiento y pus en los orificios",
+  "Debilidad fuerte, mareo o palidez"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo bajar de peso con la liposucción?",
+   "a": "No. Cambia la forma de algunas zonas, no tu peso total."
+  },
+  {
+   "q": "¿La grasa va a volver?",
+   "a": "En las zonas tratadas habrá menos grasa. Pero si subes de peso, se acumulará en otras zonas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu liposucción. Lleva la faja de compresión y tus documentos. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

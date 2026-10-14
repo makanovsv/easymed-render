@@ -1,0 +1,72 @@
+{
+ "title": "Exame médico para carteira de motorista",
+ "also": [
+  "exame médico da CNH",
+  "exame de vista para habilitação",
+  "exame médico para dirigir",
+  "renovação da CNH"
+ ],
+ "what": "Médicos verificam se há doenças que atrapalham dirigir com segurança. Depois entregam o laudo médico para a habilitação.",
+ "why": "Antes de tirar a carteira, ao renovar no vencimento, depois de uma suspensão ou para trabalhar como motorista.",
+ "duration": "normalmente de 1 a 3 horas, se tudo for no mesmo lugar; o laudo muitas vezes sai no mesmo dia",
+ "tell_doctor": [
+  "Se você usa óculos ou lentes de contato",
+  "Desmaios, convulsões, epilepsia",
+  "Doenças do coração, diabetes",
+  "Remédios que você toma sempre"
+ ],
+ "prepare": [
+  {
+   "title": "Lista",
+   "text": "Confirme com a clínica quais avaliações são necessárias. Normalmente exame clínico e de vista, e para algumas categorias, outros especialistas ou avaliação psicológica."
+  },
+  {
+   "title": "Avaliações",
+   "text": "Às vezes algumas avaliações são feitas em outro lugar. Confirme antes."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Durma bem e não beba álcool."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Óculos ou lentes, se você usa",
+  "Foto, se a clínica pedir",
+  "A carteira antiga, se for renovar"
+ ],
+ "steps": [
+  "Na recepção, você preenche a ficha e recebe o roteiro das salas",
+  "O exame de vista avalia a visão, as cores e o campo visual",
+  "O médico mede a pressão e pergunta sobre a saúde",
+  "Em alguns casos, há avaliação psicológica com perguntas e testes",
+  "Às vezes fazem exames a mais",
+  "Entregam o laudo"
+ ],
+ "feel": [
+  "Nada doloroso",
+  "Pode haver fila. Reserve tempo de sobra"
+ ],
+ "after": [
+  "O laudo é usado no processo da habilitação",
+  "O laudo tem validade limitada. Confirme o prazo",
+  "Se o médico tiver dúvida, pode pedir exames"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso fazer o exame de óculos?",
+   "a": "Sim. Se de óculos a visão for suficiente, o laudo vai dizer que você só pode dirigir com eles."
+  },
+  {
+   "q": "Quanto tempo vale o laudo?",
+   "a": "O prazo depende das regras do país. Confirme na clínica ou ao entregar os documentos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o exame médico para a carteira de motorista. Leve o documento e os óculos ou lentes, se usar."
+  }
+ ]
+}

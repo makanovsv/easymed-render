@@ -1,0 +1,82 @@
+{
+ "title": "Extirpación de la glándula suprarrenal",
+ "also": [
+  "adrenalectomía",
+  "adrenalectomía laparoscópica",
+  "cirugía de suprarrenal",
+  "tumor de glándula suprarrenal"
+ ],
+ "what": "El cirujano quita la glándula suprarrenal, una glándula pequeña arriba del riñón. Normalmente por varios orificios.",
+ "why": "Por un tumor de la suprarrenal, sobre todo si produce hormonas de más y sube la presión.",
+ "duration": "la cirugía suele durar de 1 a 3 horas; en el hospital normalmente de 2 a 5 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Tu presión y todos tus medicamentos para la presión",
+  "Si tienes diabetes",
+  "Crisis de corazón acelerado, sudoración o dolor de cabeza"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Hormonas",
+   "text": "A veces, unas semanas antes de la cirugía, se toman medicamentos para preparar la presión. Los indica el endocrinólogo."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  }
+ ],
+ "bring": [
+  "Los resultados de la tomografía y de los análisis de hormonas",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Tu diario de presión, si lo llevas"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "El anestesiólogo te pone la anestesia y vigila tu presión",
+  "Te acuestan de lado o boca abajo",
+  "Por los orificios, el cirujano quita la glándula suprarrenal",
+  "Cierran los orificios"
+ ],
+ "feel": [
+  "Dolor en el costado y en los orificios. Te dan analgésicos",
+  "Debilidad los primeros días",
+  "La presión puede cambiar. Te la toman seguido"
+ ],
+ "after": [
+  "Te levantas y caminas pronto",
+  "A veces se necesitan hormonas en pastillas por un tiempo; el médico te las indicará",
+  "Después de la cirugía revisan tu presión y tus análisis",
+  "El resultado de patología suele estar en 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Debilidad fuerte, mareo, vómito o presión muy baja: llama a emergencias",
+  "Fiebre de más de 38 o pus en los orificios",
+  "Dolor en la pantorrilla, falta de aire o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Basta con una sola glándula suprarrenal?",
+   "a": "Normalmente sí. La otra puede con el trabajo."
+  },
+  {
+   "q": "¿Mi presión se va a normalizar?",
+   "a": "Muchas veces mejora, pero no siempre de inmediato. El médico ajustará el tratamiento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Toma tus medicamentos según el plan del médico. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "title": "Dental CT scan (CBCT)",
+ "also": [
+  "CBCT",
+  "cone beam CT",
+  "3D dental X-ray",
+  "dental CT scan"
+ ],
+ "what": "A 3D image of your teeth and jaws. The doctor can see the roots, canals, and bone from all sides.",
+ "why": "Before implants and difficult extractions, for root canal treatment, cysts, before braces, or for the sinuses.",
+ "duration": "usually 5 to 10 minutes; the scan itself takes less than a minute; results often right away",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "If you have metal crowns or implants. They slightly affect the image, but they do not rule out the scan",
+  "If it is hard for you to stand or sit still"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "None needed. You can eat and drink."
+  },
+  {
+   "title": "Metal",
+   "text": "Take off earrings, necklaces, piercings, hair clips, glasses, and removable dentures."
+  }
+ ],
+ "bring": [
+  "Your dentist's referral with the area to scan",
+  "Past dental X-rays"
+ ],
+ "steps": [
+  "A protective apron is put on you, if it does not block the image",
+  "You sit or stand in the machine, with your chin on a rest",
+  "You bite on a piece, and your head is held in place",
+  "The machine moves around your head. Do not move or swallow",
+  "The images are processed on a computer"
+ ],
+ "feel": [
+  "It does not hurt",
+  "You need to keep still for less than a minute"
+ ],
+ "after": [
+  "You usually get the scan on a disc or USB drive. The report comes the same day or later",
+  "Take it to your dentist or oral surgeon"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is the radiation dangerous?",
+   "a": "The dose is higher than a panoramic X-ray, but usually lower than a regular head CT. It is ordered when treatment needs it."
+  },
+  {
+   "q": "Can just part of the jaw be scanned?",
+   "a": "Yes, often only a small area is scanned, which lowers the dose. Your doctor chooses the area."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Dental CT scan soon. Take off earrings and piercings, and bring the referral with the scan area."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "BCG vaccine for newborns",
+ "also": [
+  "BCG vaccine",
+  "tuberculosis vaccine",
+  "TB vaccine for babies"
+ ],
+ "what": "A vaccine against tuberculosis. Your baby gets a small injection into the skin of the left upper arm, usually at the maternity hospital.",
+ "why": "For newborns in the first days of life, unless there is a reason not to.",
+ "duration": "the shot takes a few seconds; the mark on the arm usually heals in 2 to 4 months",
+ "tell_doctor": [
+  "If your baby was born early or with low weight",
+  "If your baby has health problems right now",
+  "If there are immune system conditions in the family",
+  "If anyone in the family has tuberculosis"
+ ],
+ "prepare": [
+  {
+   "title": "Consent",
+   "text": "At the maternity hospital, you will be asked to sign a consent form."
+  },
+  {
+   "title": "Questions",
+   "text": "Ask the doctor if you want to know about reasons not to vaccinate."
+  },
+  {
+   "title": "If it was not given",
+   "text": "If the vaccine was postponed at the hospital, it will be given at the clinic."
+  }
+ ],
+ "bring": [
+  "Your baby's documents, if the vaccine is given at the clinic",
+  "The hospital discharge papers"
+ ],
+ "steps": [
+  "The doctor examines your baby",
+  "The nurse wipes the skin on the left upper arm",
+  "The vaccine is injected into the skin with a thin needle",
+  "A small white bump appears. It soon goes away",
+  "The vaccine is recorded in the documents"
+ ],
+ "feel": [
+  "Your baby may cry briefly",
+  "After 4 to 8 weeks, a small lump or tiny pimple appears at the spot. This is normal",
+  "Then a scab and a small scar"
+ ],
+ "after": [
+  "Do not put anything on the spot or cover it",
+  "Do not touch or squeeze the scab",
+  "You can bathe your baby, just do not rub the arm with a washcloth",
+  "Show the scar to the pediatrician at a checkup"
+ ],
+ "red_flags": [
+  "A large sore over 1 cm at the spot, or very red skin around it",
+  "A swollen lump in the left armpit"
+ ],
+ "faq": [
+  {
+   "q": "Is it normal to have a pimple on the arm?",
+   "a": "Yes, that is expected after a month or two. Do not treat it with anything."
+  },
+  {
+   "q": "Why is there no scar?",
+   "a": "That happens. Show the arm to your pediatrician, who will say what to do."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Your baby's BCG vaccine is tomorrow. Bring the documents and hospital discharge papers."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Consulta médica en línea",
+ "also": [
+  "consulta en línea",
+  "telemedicina",
+  "videoconsulta",
+  "médico en línea"
+ ],
+ "what": "Es una plática con el médico por video o por chat. El médico te pregunta, revisa tus análisis y te da consejos.",
+ "why": "Para platicar tus resultados, pedir una segunda opinión, ajustar el tratamiento o saber si necesitas una consulta en persona.",
+ "duration": "normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Qué te molesta y desde cuándo",
+  "Todos tus medicamentos y tus alergias",
+  "Enfermedades crónicas",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Conexión",
+   "text": "Revisa tu internet, la batería del teléfono, la cámara y el micrófono."
+  },
+  {
+   "title": "Lugar",
+   "text": "Busca un lugar tranquilo y con luz, donde nadie te interrumpa."
+  },
+  {
+   "title": "Documentos",
+   "text": "Sube antes o toma fotos de tus análisis y resúmenes médicos."
+  }
+ ],
+ "bring": [
+  "Tus análisis y resúmenes en el teléfono o la computadora",
+  "La lista de tus medicamentos",
+  "Tu lista de preguntas",
+  "El termómetro o el baumanómetro, si el médico lo pidió"
+ ],
+ "steps": [
+  "Entras por el enlace a la hora de la cita",
+  "El médico se presenta y te pregunta sobre tus molestias",
+  "Le enseñas tus análisis y a veces la zona que te molesta por la cámara",
+  "El médico te explica lo que piensa",
+  "Te da recomendaciones o te aconseja una consulta en persona",
+  "Normalmente te mandan un informe por escrito"
+ ],
+ "feel": [
+  "Es una plática normal",
+  "El médico no puede revisarte con las manos; por eso a veces hace falta una consulta en persona"
+ ],
+ "after": [
+  "Guarda el informe",
+  "Si te sientes peor, ve a una consulta en persona",
+  "Lo que se puede recetar en línea depende de las reglas de cada país"
+ ],
+ "red_flags": [
+  "Dolor en el pecho, falta de aire fuerte o debilidad en un brazo o en la cara: no esperes la consulta, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿El médico en línea puede hacer un diagnóstico?",
+   "a": "Depende de las reglas de cada país. Muchas veces el médico da recomendaciones, y el diagnóstico exacto se hace en persona."
+  },
+  {
+   "q": "¿Qué hago si se corta la conexión?",
+   "a": "Vuelve a entrar con el mismo enlace o escribe al soporte de la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "En una hora es tu consulta en línea. Revisa tu internet y ten listos tus análisis y tu lista de preguntas."
+  }
+ ]
+}

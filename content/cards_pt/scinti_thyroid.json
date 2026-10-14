@@ -1,0 +1,70 @@
+{
+ "title": "Cintilografia da tireoide",
+ "also": [
+  "cintilografia de tireoide",
+  "mapeamento da tireoide",
+  "cintilografia tireoidiana"
+ ],
+ "what": "Aplicam na veia uma dose pequena de uma substância marcada. A tireoide absorve essa substância, e a câmera mostra quais partes trabalham mais.",
+ "why": "Com a tireoide funcionando demais, para entender a causa, ou com nódulos, para ver quais estão ativos.",
+ "duration": "a visita toda leva normalmente de 1 a 2 horas. O laudo sai em 1 a 2 dias",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se está amamentando. Vai precisar de uma pausa",
+  "Remédios para a tireoide",
+  "Se nos últimos 1 a 2 meses fez tomografia com contraste ou tomou iodo"
+ ],
+ "prepare": [
+  {
+   "title": "Iodo",
+   "text": "Algumas semanas antes do exame, normalmente se cortam suplementos com iodo. Confirme o prazo com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Os remédios da tireoide às vezes são pausados. Não faça isso por conta própria. Fale com o médico, ele decide."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire correntes e joias do pescoço."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exames de hormônios da tireoide",
+  "Ultrassom da tireoide"
+ ],
+ "steps": [
+  "Fazem uma injeção na veia",
+  "Você espera uns 15 a 30 minutos",
+  "Você se deita de barriga para cima, com a cabeça um pouco para trás",
+  "Colocam a câmera sobre o pescoço. Não se mexa e, se possível, não engula",
+  "A imagem leva alguns minutos"
+ ],
+ "feel": [
+  "A injeção é como uma coleta de sangue",
+  "Você não sente nada da substância"
+ ],
+ "after": [
+  "Você pode seguir o dia normalmente",
+  "Beba água e vá mais ao banheiro",
+  "Sobre amamentar e ficar perto de bebês, pergunte na clínica",
+  "Com o laudo, volte ao endocrinologista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que não posso tomar iodo antes do exame?",
+   "a": "O iodo enche a tireoide, e ela absorve mal a substância marcada. A imagem fica imprecisa."
+  },
+  {
+   "q": "Isso substitui o ultrassom?",
+   "a": "Não. O ultrassom mostra a estrutura, e a cintilografia mostra como a glândula funciona. Muitas vezes são feitos juntos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cintilografia da tireoide. Leve os exames de hormônios e o ultrassom."
+  }
+ ]
+}

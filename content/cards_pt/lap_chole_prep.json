@@ -1,0 +1,82 @@
+{
+ "title": "Preparo para videolaparoscopia",
+ "also": [
+  "preparo para videolaparoscopia",
+  "o que fazer antes da laparoscopia",
+  "preparo para cirurgia por vídeo"
+ ],
+ "what": "Orientações de como se preparar para uma cirurgia feita por pequenos furos na barriga: exames, comida, remédios, coisas para levar.",
+ "why": "Quando você tem uma laparoscopia marcada, por exemplo retirada da vesícula, hérnia ou cirurgia ginecológica.",
+ "duration": "o preparo leva normalmente de alguns dias a 2 semanas",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue e os de diabetes. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, esparadrapo",
+  "Doenças do coração, dos pulmões, diabetes, pressão alta",
+  "Se você ou alguém da família já teve problema com anestesia",
+  "Se você ficou resfriado ou teve febre antes da cirurgia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue e de urina, eletrocardiograma, raio-X do tórax, às vezes consulta com clínico. A lista e a validade dos exames, confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda por conta própria. O médico diz quais tomar no dia da cirurgia e quais parar por um tempo."
+  },
+  {
+   "title": "Comida e bebida",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Pele",
+   "text": "Tome banho na véspera. Não precisa raspar os pelos da barriga, se a clínica não pedir."
+  },
+  {
+   "title": "Cigarro",
+   "text": "É melhor não fumar pelo menos alguns dias antes da cirurgia. Fica mais fácil respirar depois da anestesia."
+  }
+ ],
+ "bring": [
+  "Pedido médico e todos os exames",
+  "Documentos e lista de remédios",
+  "Roupa confortável, chinelo, carregador",
+  "Seus remédios de sempre"
+ ],
+ "steps": [
+  "Você faz os exames e as consultas da lista da clínica",
+  "Leva os resultados ao cirurgião",
+  "Na véspera, conversa com o anestesista",
+  "À noite, jantar leve e banho",
+  "De manhã, não come nada e bebe só o que foi liberado",
+  "Você chega ao hospital no horário marcado"
+ ],
+ "feel": [
+  "Ficar nervoso antes da cirurgia é normal. Conte ao médico",
+  "Fome no dia da cirurgia, por pouco tempo"
+ ],
+ "after": [
+  "Normalmente pode levantar no dia da cirurgia ou no dia seguinte",
+  "A dor nos furinhos e no ombro pelo gás passa em alguns dias",
+  "Sem peso, normalmente por algumas semanas. O prazo quem diz é o cirurgião"
+ ],
+ "red_flags": [
+  "Febre, tosse ou coriza antes da cirurgia: avise a clínica, a cirurgia pode ser adiada"
+ ],
+ "faq": [
+  {
+   "q": "Por que não pode comer antes da cirurgia?",
+   "a": "Para o conteúdo do estômago não ir para os pulmões durante a anestesia. Isso é importante para a segurança."
+  },
+  {
+   "q": "Posso tomar meus comprimidos de manhã?",
+   "a": "Só os que o médico liberou, com um gole de água. Pergunte antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Depois do jantar, não coma mais. Beber, só até o horário que a clínica indicou. Separe os documentos e as coisas."
+  }
+ ]
+}

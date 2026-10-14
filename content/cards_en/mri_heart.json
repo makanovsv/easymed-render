@@ -1,0 +1,82 @@
+{
+ "title": "Cardiac MRI",
+ "also": [
+  "cardiac MRI",
+  "heart MRI",
+  "CMR",
+  "cardiac MRI with contrast"
+ ],
+ "what": "Images of the heart in a magnetic field. They show the muscle, valves, chambers, and how the heart pumps. No radiation.",
+ "why": "For cardiomyopathy, after myocarditis or a heart attack, for heart defects from birth, or when a heart ultrasound gave no clear answer.",
+ "duration": "usually 45 to 60 minutes; the report in 1 to 3 days",
+ "tell_doctor": [
+  "A pacemaker, defibrillator, or other implant with electronics",
+  "Metal in your body: joint replacements, plates, clips on blood vessels, or shrapnel",
+  "If you are or might be pregnant",
+  "If you are afraid of closed spaces. Your doctor will suggest ways to help",
+  "If your pulse is irregular. The scan will take longer",
+  "Kidney disease, or allergy to contrast dye"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "A light meal is usually fine. If there will be a stress test with medicine, special rules apply. Check with the clinic."
+  },
+  {
+   "title": "Coffee",
+   "text": "If a stress test is ordered, coffee, tea, and chocolate are usually cut out for 24 hours before."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor. They will decide."
+  },
+  {
+   "title": "Metal",
+   "text": "Take off everything metal: jewelry, watches, hair clips, piercings. Leave your phone and cards in the locker."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Heart ultrasound, ECGs, and cardiologist reports",
+  "A list of your medicines",
+  "A creatinine test, if asked"
+ ],
+ "steps": [
+  "An IV line is put in a vein",
+  "ECG stickers are put on your chest",
+  "You lie on your back, and a coil is placed on your chest",
+  "You are asked many times to hold your breath for 10 to 15 seconds",
+  "The machine knocks loudly. You get headphones",
+  "Halfway through, contrast is given and more images are taken"
+ ],
+ "feel": [
+  "It does not hurt, but it is loud and tight",
+  "Holding your breath is tiring. You can ask for a break",
+  "With contrast: a cool feeling in the vein"
+ ],
+ "after": [
+  "You can go back to your day right away",
+  "After contrast, drink more water, unless your doctor said otherwise",
+  "Take the report to a cardiologist"
+ ],
+ "red_flags": [
+  "Pressing chest pain, shortness of breath, or fainting: call emergency services right away",
+  "After contrast: itching, a rash, a swollen face, or trouble breathing. Tell the staff right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why does it take so long?",
+   "a": "The heart moves, so images are timed to your heartbeat and breathing. Many series are needed."
+  },
+  {
+   "q": "Can I have a cardiac MRI with a pacemaker?",
+   "a": "Only if it is MRI-safe and your cardiologist approves. Tell staff in advance."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Cardiac MRI tomorrow. Bring your heart ultrasound, ECGs, and a list of medicines. Take off everything metal."
+  }
+ ]
+}

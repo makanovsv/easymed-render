@@ -1,0 +1,71 @@
+{
+ "title": "Atestado para escola e creche",
+ "also": [
+  "atestado para escola",
+  "atestado para creche",
+  "exame de saúde escolar",
+  "atestado de saúde da criança"
+ ],
+ "what": "O pediatra e outros médicos examinam a criança e preenchem os documentos de saúde para a escola ou a creche. Conferem as vacinas e a saúde geral.",
+ "why": "Antes de a criança começar na creche ou na escola, ou ao mudar de instituição.",
+ "duration": "normalmente alguns dias ou semanas para passar por todos os médicos e exames; o preenchimento com o pediatra é na última consulta",
+ "tell_doctor": [
+  "Doenças crônicas da criança e remédios",
+  "Alergias, principalmente a alimentos e picadas",
+  "Se a criança é acompanhada por especialistas",
+  "Se há vacinas atrasadas"
+ ],
+ "prepare": [
+  {
+   "title": "Com antecedência",
+   "text": "Comece de 1 a 2 meses antes, para passar por todos os médicos com calma."
+  },
+  {
+   "title": "Lista",
+   "text": "Peça no posto ou na clínica a lista de médicos e exames. Ela depende da idade."
+  },
+  {
+   "title": "Criança",
+   "text": "Conte à criança que vão olhar e escutar, sem palavras que deem medo."
+  }
+ ],
+ "bring": [
+  "Documento da criança e o seu",
+  "A carteira de vacinação",
+  "A caderneta de saúde da criança",
+  "O formulário da escola ou da creche, se deram"
+ ],
+ "steps": [
+  "O pediatra dá a lista de médicos e exames",
+  "A criança faz os exames",
+  "Vocês passam pelos especialistas: normalmente oftalmologista, otorrino, neurologista, cirurgião, dentista",
+  "O pediatra confere as vacinas",
+  "O pediatra reúne os pareceres e preenche os documentos"
+ ],
+ "feel": [
+  "Os exames não doem",
+  "Desagradável só a coleta de sangue"
+ ],
+ "after": [
+  "Os documentos são entregues à enfermagem da creche ou da escola",
+  "Se faltarem vacinas, elas são aplicadas conforme o calendário",
+  "Se o médico encontrar algo, vão dizer o que fazer depois"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "A criança sem vacinas é aceita?",
+   "a": "As regras dependem do país e da instituição. Confirme no posto de saúde e na creche."
+  },
+  {
+   "q": "Dá para fazer tudo num dia só?",
+   "a": "Às vezes sim, há clínicas com programas assim. Confirme antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o exame para a escola ou a creche. Leve a carteira de vacinação e os documentos da criança."
+  }
+ ]
+}

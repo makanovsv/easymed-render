@@ -1,0 +1,81 @@
+{
+ "title": "Indução do parto",
+ "also": [
+  "indução do parto",
+  "induzir o parto",
+  "preparo do colo do útero",
+  "ocitocina no parto"
+ ],
+ "what": "Se o parto não começa sozinho, o médico ajuda a começar. Primeiro amolecem o colo do útero e, se preciso, provocam as contrações.",
+ "why": "Quando a gravidez passou da data, a bolsa rompeu sem contrações, há pressão alta, diabetes ou outros motivos em que esperar é mais arriscado.",
+ "duration": "de algumas horas a 1 a 3 dias, dependendo de como está o colo do útero",
+ "tell_doctor": [
+  "Se já teve cesárea ou cirurgia no útero",
+  "Alergia a remédios",
+  "Se a bolsa rompeu e quando",
+  "Como o bebê se mexe",
+  "Seus medos e desejos. O médico explica cada passo"
+ ],
+ "prepare": [
+  {
+   "title": "Decisão",
+   "text": "O médico explica por que a indução é necessária e quais são as opções. Você assina um termo de consentimento."
+  },
+  {
+   "title": "Bolsa",
+   "text": "Leve as coisas da maternidade: o processo pode levar alguns dias."
+  },
+  {
+   "title": "Comida",
+   "text": "Antes da indução, normalmente pode fazer uma refeição leve. Confirme com a maternidade."
+  }
+ ],
+ "bring": [
+  "A caderneta da gestante",
+  "Documentos",
+  "A bolsa da maternidade",
+  "Carregador do celular"
+ ],
+ "steps": [
+  "O médico examina o colo do útero na maca e decide por onde começar",
+  "Normalmente primeiro colocam um gel ou comprimido na vagina, ou dão um comprimido pela boca",
+  "Às vezes colocam no colo um pequeno balão, que abre com suavidade",
+  "Algumas horas depois, o médico examina de novo",
+  "Se preciso, rompem a bolsa. Isso não dói",
+  "Às vezes colocam um soro com remédio que fortalece as contrações",
+  "O coração do bebê é acompanhado o tempo todo"
+ ],
+ "feel": [
+  "O exame e a colocação do balão incomodam",
+  "Cólica parecida com a da menstruação, e depois começam as contrações",
+  "Na indução, as contrações podem ser mais fortes. Você pode pedir analgesia"
+ ],
+ "after": [
+  "Depois, o parto segue como de costume",
+  "Se a indução não funcionar, o médico conversa com você sobre outras opções, inclusive a cesárea"
+ ],
+ "red_flags": [
+  "Dor forte e contínua na barriga, sangramento: avise a equipe na hora",
+  "O bebê se mexe bem menos: avise a equipe"
+ ],
+ "faq": [
+  {
+   "q": "A indução dói mais que o parto normal?",
+   "a": "Às vezes as contrações são mais fortes. A analgesia está disponível como num parto comum."
+  },
+  {
+   "q": "Quanto tempo leva?",
+   "a": "Varia: de algumas horas a 1 a 3 dias. Quanto mais macio o colo, mais rápido."
+  },
+  {
+   "q": "Posso recusar?",
+   "a": "Sim. O médico explica os riscos de esperar no seu caso, e vocês decidem juntos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a indução do parto. Arrume a bolsa da maternidade, os documentos e a caderneta da gestante."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Cómo medir tu azúcar con glucómetro",
+ "also": [
+  "medir el azúcar",
+  "glucómetro",
+  "glucosa capilar",
+  "automonitoreo de glucosa"
+ ],
+ "what": "El glucómetro muestra el azúcar en la sangre con una gota del dedo. Lo puedes hacer tú mismo en casa.",
+ "why": "Con diabetes, para ajustar el tratamiento y notar a tiempo si el azúcar está muy bajo o muy alto.",
+ "duration": "cerca de 1 a 2 minutos; el resultado sale en unos segundos",
+ "tell_doctor": [
+  "Cada cuánto y cuándo te mides el azúcar",
+  "Si seguido te salen valores bajos",
+  "Si los números del glucómetro no coinciden con cómo te sientes"
+ ],
+ "prepare": [
+  {
+   "title": "Manos",
+   "text": "Lávate las manos con agua tibia y jabón, y sécalas bien. Algo dulce en los dedos altera el resultado."
+  },
+  {
+   "title": "Tiras",
+   "text": "Revisa la caducidad. Guarda las tiras en su frasco cerrado, sin humedad ni sol."
+  },
+  {
+   "title": "Cuándo medir",
+   "text": "Cuántas veces al día y cuándo, antes o después de comer o antes de dormir, te lo dice el médico."
+  }
+ ],
+ "bring": [
+  "El glucómetro, las tiras y las lancetas",
+  "Un diario o el teléfono para anotar"
+ ],
+ "steps": [
+  "Mete la tira en el glucómetro",
+  "Pon una lanceta nueva en el puncionador",
+  "Pica el dedo en un lado de la yema. Ahí duele menos",
+  "Masajea un poco el dedo hasta que salga una gota, sin apretar fuerte",
+  "Acerca la tira a la gota. El glucómetro la absorbe solo",
+  "En unos segundos sale el número. Anótalo con la hora"
+ ],
+ "feel": [
+  "Un piquete breve en el dedo",
+  "Si siempre picas el mismo lugar, puede doler. Cambia de dedo"
+ ],
+ "after": [
+  "Presiona un algodón en el dedo",
+  "Tira la lanceta y la tira",
+  "Enséñale tu diario al médico en cada consulta"
+ ],
+ "red_flags": [
+  "Si tu azúcar está baja y te sientes mal, con temblor, sudor o confusión: come algo dulce y vuelve a medirte",
+  "Azúcar muy alta, mucha sed, vómito o somnolencia: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué el glucómetro no marca lo mismo que el laboratorio?",
+   "a": "Una pequeña diferencia es normal. Si la diferencia es grande, revisa las tiras y pregunta al médico."
+  },
+  {
+   "q": "¿Tengo que limpiar el dedo con alcohol?",
+   "a": "Normalmente basta con lavarte las manos. Si usaste alcohol, deja que el dedo se seque."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 0,
+   "text": "Hora de medir tu azúcar. Lávate las manos, pica el dedo de lado y anota el resultado."
+  }
+ ]
+}

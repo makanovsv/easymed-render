@@ -1,0 +1,85 @@
+{
+ "title": "Atendimento no aborto espontâneo",
+ "also": [
+  "aborto espontâneo",
+  "perda gestacional",
+  "gravidez interrompida",
+  "aborto retido",
+  "curetagem"
+ ],
+ "what": "É o atendimento quando a gravidez parou de evoluir ou começou um aborto espontâneo. O médico verifica se o útero esvaziou e ajuda a concluir o processo com cuidado.",
+ "why": "Com sangramento e dor no início da gravidez, ou quando o ultrassom mostra que a gravidez parou de se desenvolver.",
+ "duration": "o exame e o ultrassom levam cerca de uma hora; o tratamento, de algumas horas a 1 a 2 semanas, conforme o método",
+ "tell_doctor": [
+  "Quando começaram o sangramento e a dor",
+  "Seu tipo de sangue e fator Rh",
+  "Remédios que afinam o sangue",
+  "Alergia a remédios",
+  "Se já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Opções",
+   "text": "O médico explica as opções: esperar, tomar comprimidos ou fazer um procedimento rápido. Juntos vocês decidem o que é melhor para você."
+  },
+  {
+   "title": "Comida",
+   "text": "Se houver procedimento com anestesia, normalmente não se come por 6 horas antes. Confirme com o médico."
+  },
+  {
+   "title": "Alguém perto",
+   "text": "Peça para alguém próximo ficar com você e levar você para casa."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Resultados do ultrassom e dos exames",
+  "Absorventes",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "O médico examina você e faz o ultrassom",
+  "Explica o que aconteceu e quais são as opções",
+  "Se for esperar, você vai para casa com um plano e um telefone para contato",
+  "Se forem comprimidos, você toma, e em algumas horas o tecido sai",
+  "Se for procedimento, com anestesia rápida o médico esvazia o útero com cuidado pelo colo, sem cortes",
+  "Em 1 a 2 semanas, consulta ou ultrassom de controle"
+ ],
+ "feel": [
+  "Cólicas como uma menstruação forte, e sangramento",
+  "Depois da anestesia, sono",
+  "Tristeza, culpa, confusão são naturais. Não tenha vergonha de pedir apoio"
+ ],
+ "after": [
+  "O sangramento normalmente dura até 2 semanas",
+  "Sem absorvente interno, piscina e relação sexual até o sangramento acabar",
+  "Se o seu Rh for negativo, pode ser preciso uma injeção de imunoglobulina",
+  "Sobre uma nova gravidez, converse com o médico. Ele diz quando pode",
+  "Na maioria das vezes, o aborto espontâneo é um acaso, e não culpa sua"
+ ],
+ "red_flags": [
+  "Encharcar 2 absorventes grandes por hora, por 2 horas seguidas: ligue para a emergência",
+  "Dor forte na barriga, desmaio: ligue para a emergência",
+  "Febre acima de 38 graus, sangramento com cheiro ruim: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "A culpa é minha?",
+   "a": "Quase sempre não. Na maioria das vezes, o aborto acontece por um erro casual nos cromossomos."
+  },
+  {
+   "q": "Quando posso engravidar de novo?",
+   "a": "Normalmente depois da primeira menstruação, se você se sentir pronta. Confirme com o médico."
+  },
+  {
+   "q": "Dá para evitar a curetagem?",
+   "a": "Muitas vezes sim: esperar ou tomar comprimidos. O médico diz o que é seguro para você."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o médico. Leve absorventes e os resultados do ultrassom. Peça para alguém próximo ficar com você."
+  }
+ ]
+}

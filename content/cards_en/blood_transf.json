@@ -1,0 +1,73 @@
+{
+ "title": "Blood transfusion",
+ "also": [
+  "blood transfusion",
+  "red blood cell transfusion",
+  "plasma transfusion",
+  "platelet transfusion"
+ ],
+ "what": "Blood from a donor, or a part of it, is given into your vein through a drip: red cells, plasma, or platelets.",
+ "why": "For severe anemia, major blood loss, during surgery, or with some blood disorders.",
+ "duration": "one unit usually takes 1 to 4 hours, plus observation",
+ "tell_doctor": [
+  "If you had transfusions before and any reactions to them",
+  "Past pregnancies",
+  "Heart or kidney disease",
+  "If you are against transfusion for personal or religious reasons, say so in advance"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Before a transfusion, your blood type is checked and a compatibility test is done. This is required."
+  },
+  {
+   "title": "Consent",
+   "text": "Your doctor explains why you need the transfusion, and you sign a consent form."
+  },
+  {
+   "title": "Food",
+   "text": "You can usually eat and drink as usual, unless your doctor says otherwise."
+  }
+ ],
+ "bring": [
+  "Your documents",
+  "Past discharge papers that show your blood type and transfusions"
+ ],
+ "steps": [
+  "Blood is taken to check your type and compatibility",
+  "An IV line is put in a vein",
+  "At your bedside, the nurse and doctor check your name against the label on the bag",
+  "Your blood type is checked again before starting",
+  "For the first minutes, the blood drips slowly, and you are watched closely",
+  "Your blood pressure, pulse, and temperature are checked regularly"
+ ],
+ "feel": [
+  "Usually nothing special",
+  "Sometimes chills or a fever. Tell the nurse right away"
+ ],
+ "after": [
+  "You are usually watched for a while longer",
+  "A blood test is done after some time",
+  "Sometimes a reaction happens in the first 24 hours after. Tell your doctor if you feel unwell in any way"
+ ],
+ "red_flags": [
+  "During the transfusion: chills, fever, back or chest pain, shortness of breath, or a rash. Call the nurse right away",
+  "At home in the first 24 hours: shortness of breath, dark urine, yellow skin, or a high fever. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I catch an infection from a transfusion?",
+   "a": "Donor blood is tested for infections. The risk is very low. Your doctor can tell you more."
+  },
+  {
+   "q": "Can I donate blood for a relative?",
+   "a": "Sometimes yes, but the blood center decides. A relative's blood goes through all the same checks."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Blood transfusion today. Bring your documents. If you had transfusions before, tell your doctor."
+  }
+ ]
+}

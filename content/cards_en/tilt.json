@@ -1,0 +1,80 @@
+{
+ "title": "Tilt table test",
+ "also": [
+  "tilt table test",
+  "head-up tilt test",
+  "fainting test",
+  "orthostatic test"
+ ],
+ "what": "You lie on a special table with safety straps. The table is tilted almost upright, and the doctor watches your blood pressure and pulse.",
+ "why": "For repeated fainting or near-fainting, to find the cause.",
+ "duration": "usually 30 to 60 minutes, sometimes up to 90; the report is usually ready the same day",
+ "tell_doctor": [
+  "What your fainting is like: when, how often, and what comes before it",
+  "All medicines, especially for blood pressure and the heart",
+  "Heart disease",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no food for 2 to 4 hours before the test. Check with the clinic."
+  },
+  {
+   "title": "Medicines",
+   "text": "Some medicines are sometimes skipped. Do not stop them on your own. Ask your doctor in advance."
+  },
+  {
+   "title": "Someone with you",
+   "text": "Better to come with someone. You may feel weak after the test."
+  },
+  {
+   "title": "Clothing",
+   "text": "Comfortable clothes, with no tight belt."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past ECGs, Holter results, and echocardiograms",
+  "A list of your medicines",
+  "Someone to go home with"
+ ],
+ "steps": [
+  "You lie on the table and are secured with straps",
+  "ECG stickers and a blood pressure cuff are put on, sometimes an IV line too",
+  "First, you lie quietly for a few minutes",
+  "The table is slowly tilted almost upright",
+  "You stand still on the table while the doctor watches your blood pressure and pulse",
+  "Sometimes a medicine is given under the tongue and you are watched longer",
+  "If you feel unwell, the table is lowered right away"
+ ],
+ "feel": [
+  "Standing still can be boring",
+  "You may feel weak, sick, or sweaty, like before fainting. Tell the doctor",
+  "Sometimes people faint. This is expected. The table is lowered, and you come round quickly"
+ ],
+ "after": [
+  "Lie down and rest until you feel better",
+  "Better not to drive on the test day",
+  "The report is usually ready the same day"
+ ],
+ "red_flags": [
+  "Chest pain, strong irregular heartbeats, or repeated fainting at home: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "What if I faint?",
+   "a": "You are strapped in, and the table is lowered right away. You usually come round in seconds, and the doctor is right there."
+  },
+  {
+   "q": "Why bring on a faint on purpose?",
+   "a": "To see what happens to your blood pressure and pulse at that moment. This makes the cause easier to find."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Tilt table test tomorrow. Do not eat for the time the clinic told you. Come with someone."
+  }
+ ]
+}

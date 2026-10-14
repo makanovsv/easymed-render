@@ -1,0 +1,71 @@
+{
+ "title": "Certificado médico para la escuela o la guardería",
+ "also": [
+  "certificado médico escolar",
+  "certificado de salud para guardería",
+  "revisión médica para la escuela",
+  "examen médico de ingreso escolar"
+ ],
+ "what": "El pediatra y otros médicos revisan a tu hijo y llenan su expediente médico para la escuela o la guardería. Revisan las vacunas y la salud general.",
+ "why": "Antes de entrar por primera vez a la guardería o a la escuela, o al cambiar de escuela.",
+ "duration": "normalmente varios días o semanas para ver a todos los médicos y hacer los análisis; el pediatra lo llena en la última consulta",
+ "tell_doctor": [
+  "Enfermedades crónicas de tu hijo y sus medicamentos",
+  "Alergias, sobre todo a alimentos y piquetes",
+  "Si lo atiende algún especialista",
+  "Si le faltan vacunas"
+ ],
+ "prepare": [
+  {
+   "title": "Con tiempo",
+   "text": "Empieza 1 o 2 meses antes, para ver a todos los médicos con calma."
+  },
+  {
+   "title": "Requisitos",
+   "text": "Pide en tu clínica la lista de médicos y análisis. Depende de la edad."
+  },
+  {
+   "title": "Tu hijo",
+   "text": "Explícale a tu hijo que lo van a revisar y escuchar, sin palabras que asusten."
+  }
+ ],
+ "bring": [
+  "El documento de tu hijo y el tuyo",
+  "La cartilla de vacunación",
+  "El expediente médico de tu hijo",
+  "El formato de la escuela o guardería, si te lo dieron"
+ ],
+ "steps": [
+  "El pediatra te da la lista de médicos y análisis",
+  "Tu hijo se hace los análisis",
+  "Pasan con los especialistas: normalmente oftalmólogo, otorrino, neurólogo, cirujano y dentista",
+  "El pediatra revisa las vacunas",
+  "El pediatra junta los informes y llena el expediente"
+ ],
+ "feel": [
+  "Las revisiones no duelen",
+  "Solo es molesto al tomar la sangre"
+ ],
+ "after": [
+  "El expediente se entrega a la enfermera de la guardería o la escuela",
+  "Si faltan vacunas, se ponen según el calendario",
+  "Si el médico encontró algo, te dirán qué hacer después"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Aceptan a mi hijo sin vacunas?",
+   "a": "Las reglas dependen del país y de la escuela. Pregunta en tu clínica y en la guardería."
+  },
+  {
+   "q": "¿Se puede hacer todo en un día?",
+   "a": "A veces sí; algunas clínicas tienen paquetes así. Pregunta antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la revisión para la escuela o la guardería. Lleva la cartilla de vacunación y los documentos de tu hijo."
+  }
+ ]
+}

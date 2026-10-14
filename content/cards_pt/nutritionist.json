@@ -1,0 +1,77 @@
+{
+ "title": "Consulta de nutrição",
+ "also": [
+  "nutricionista",
+  "nutrólogo",
+  "consulta de alimentação",
+  "reeducação alimentar"
+ ],
+ "what": "O especialista em nutrição analisa como você come e ajuda a montar uma alimentação de acordo com sua saúde. É conversa e cálculo, sem procedimentos.",
+ "why": "Com excesso ou falta de peso, diabetes, doenças do estômago, dos rins, do coração, na gravidez ou para organizar a alimentação.",
+ "duration": "a primeira consulta leva normalmente de 30 a 60 minutos; os retornos são mais curtos",
+ "tell_doctor": [
+  "Suas doenças e remédios",
+  "Alergias e intolerâncias a alimentos",
+  "Como seu peso mudou nos últimos tempos",
+  "Se já fez dietas e qual foi o resultado",
+  "Se você está grávida ou amamentando"
+ ],
+ "prepare": [
+  {
+   "title": "Diário",
+   "text": "De 3 a 7 dias antes da consulta, anote tudo o que come e bebe, e os horários."
+  },
+  {
+   "title": "Exames",
+   "text": "Leve exames de sangue recentes, se tiver. Podem ser pedidos novos."
+  },
+  {
+   "title": "Objetivo",
+   "text": "Pense no que você quer: perder peso, se sentir melhor, comer bem com uma doença."
+  }
+ ],
+ "bring": [
+  "O diário alimentar",
+  "Resultados de exames",
+  "Lista de remédios",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "O especialista pergunta sobre sua saúde, rotina e hábitos",
+  "Mede altura, peso, às vezes a cintura",
+  "Às vezes mede a composição do corpo numa balança especial",
+  "Analisa seu diário alimentar",
+  "Juntos vocês montam um plano: o que mudar, aos poucos",
+  "Marcam a data do retorno"
+ ],
+ "feel": [
+  "É uma conversa comum, nada desagradável",
+  "As orientações normalmente são graduais, sem proibições bruscas"
+ ],
+ "after": [
+  "Mude a alimentação aos poucos, como combinado",
+  "Continue o diário, se pediram",
+  "No retorno, o plano é ajustado"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Qual a diferença entre nutrólogo e nutricionista?",
+   "a": "O nutrólogo é médico e pode tratar doenças e pedir exames. O nutricionista é especialista em alimentação e monta o plano alimentar."
+  },
+  {
+   "q": "Vou receber um cardápio pronto?",
+   "a": "Muitas vezes dão um cardápio de exemplo ou regras. É melhor quando a alimentação é ajustada aos seus hábitos."
+  },
+  {
+   "q": "Preciso ir em jejum?",
+   "a": "Não. Se pedirem exames em jejum, vão avisar à parte."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta de nutrição. Leve o diário alimentar e os exames."
+  }
+ ]
+}

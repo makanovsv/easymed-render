@@ -1,0 +1,75 @@
+{
+ "title": "Laser mole removal",
+ "also": [
+  "mole removal",
+  "laser mole removal",
+  "nevus removal",
+  "skin tag removal by laser"
+ ],
+ "what": "The doctor removes a mole or skin growth with a laser, using local numbing. It is always examined first.",
+ "why": "When a mole gets in the way, is rubbed by clothes, or you do not like it, and the doctor has confirmed it can be removed by laser.",
+ "duration": "the procedure usually takes 10 to 30 minutes; healing usually takes 1 to 3 weeks",
+ "tell_doctor": [
+  "If the mole has changed: grown, changed color, or bled",
+  "Blood thinners",
+  "A tendency to form keloid scars",
+  "Pregnancy",
+  "Allergy to numbing medicines"
+ ],
+ "prepare": [
+  {
+   "title": "Exam",
+   "text": "Before removal, a dermatologist always checks the mole with a dermatoscope. Suspicious moles are removed surgically and sent for testing."
+  },
+  {
+   "title": "Sun",
+   "text": "For 1 to 2 weeks before, do not tan."
+  },
+  {
+   "title": "Skin",
+   "text": "On the day, do not put cream or makeup on the area."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "The dermatologist's report, if you were examined earlier"
+ ],
+ "steps": [
+  "The doctor examines the mole",
+  "The skin is cleaned with antiseptic",
+  "A numbing injection or cream is applied",
+  "The laser removes the mole layer by layer",
+  "The spot is treated and sometimes covered with a bandage"
+ ],
+ "feel": [
+  "The numbing injection stings briefly",
+  "During the laser: warmth and a smell, but no pain",
+  "Afterward, mild burning and redness"
+ ],
+ "after": [
+  "A scab will form on the spot. Do not pick it off",
+  "Care for the spot as your doctor said",
+  "For a few days, do not scrub the spot or steam it",
+  "Protect the spot from the sun for a few months"
+ ],
+ "red_flags": [
+  "The spot becomes very red, swollen, or has pus",
+  "Bleeding that does not stop with pressure"
+ ],
+ "faq": [
+  {
+   "q": "Can any mole be removed by laser?",
+   "a": "No. A doctor examines it first. Suspicious moles are removed with a scalpel and sent for testing."
+  },
+  {
+   "q": "Will there be a mark?",
+   "a": "Usually a small light spot remains, and it fades over time."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mole removal tomorrow. Do not put cream on the area and do not tan."
+  }
+ ]
+}

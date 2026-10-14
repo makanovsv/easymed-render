@@ -1,0 +1,74 @@
+{
+ "title": "Consulta con el oncólogo",
+ "also": [
+  "oncólogo",
+  "consulta de oncología",
+  "médico del cáncer"
+ ],
+ "what": "Es el médico que revisa si hay sospecha de un tumor, indica estudios y tratamiento, y te da seguimiento después.",
+ "why": "Si en un estudio encontraron una bolita o cambios que hay que revisar. También para seguimiento después del tratamiento.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Qué te molesta y desde cuándo",
+  "Todos tus medicamentos",
+  "Enfermedades crónicas y cirugías",
+  "Enfermedades oncológicas en tu familia",
+  "Qué estudios ya te hiciste"
+ ],
+ "prepare": [
+  {
+   "title": "Documentos",
+   "text": "Junta todos tus estudios: imágenes en disco, informes y resultados de biopsia."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Apunta tus preguntas antes. Con los nervios es fácil olvidarlas en la consulta."
+  },
+  {
+   "title": "Apoyo",
+   "text": "Puedes ir con alguien cercano."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Las imágenes en disco y sus informes",
+  "Los resultados de la biopsia, y las laminillas y bloques si te los entregaron",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta y revisa tus documentos",
+  "Revisa y palpa la zona necesaria y los ganglios",
+  "Te explica lo que se sabe ahora y lo que falta aclarar",
+  "Te pide estudios o platica contigo el plan de tratamiento",
+  "Responde tus preguntas"
+ ],
+ "feel": [
+  "La revisión no duele",
+  "Es normal estar nervioso. Pregunta todo lo que no entiendas"
+ ],
+ "after": [
+  "Hazte los estudios indicados a tiempo",
+  "Puedes apuntar lo que dice el médico o pedir un resumen por escrito",
+  "No empieces ningún remedio por tu cuenta sin el médico"
+ ],
+ "red_flags": [
+  "Dolor fuerte, sangrado o fiebre alta durante el tratamiento: llama al médico o a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "Si me mandaron con el oncólogo, ¿quiere decir que tengo cáncer?",
+   "a": "No. Muchas veces te mandan con el oncólogo para descartar un tumor. La respuesta la dan los estudios."
+  },
+  {
+   "q": "¿Puedo ir con alguien cercano?",
+   "a": "Sí, ayuda. Esa persona recordará lo que a ti se te pueda pasar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta con el oncólogo. Junta todas tus imágenes e informes y apunta tus preguntas."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Doppler de arterias renales",
+ "also": [
+  "Doppler renal",
+  "ultrasonido Doppler de arterias renales",
+  "ecografía Doppler de riñones",
+  "dúplex de arterias renales"
+ ],
+ "what": "El médico revisa con ultrasonido cómo corre la sangre por los vasos de los riñones. Así se ve si hay algún estrechamiento.",
+ "why": "Con presión alta que no baja bien con medicamentos, con análisis de riñones alterados, o después de un trasplante de riñón.",
+ "duration": "normalmente de 20 a 40 minutos; el reporte es inmediato",
+ "tell_doctor": [
+  "Cómo está tu presión normalmente y qué medicamentos tomas para ella",
+  "Enfermedades de los riñones o diabetes",
+  "Si te operaron de los riñones o de los vasos",
+  "Tus análisis anteriores de sangre y orina de los riñones"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente en ayunas: de 6 a 8 horas sin comer, en la mañana. Pregunta en la clínica."
+  },
+  {
+   "title": "Gases",
+   "text": "De 2 a 3 días antes, come menos alimentos que inflaman: col, frijoles y otras leguminosas, refrescos y pan integral oscuro."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos habituales por tu cuenta. Si tienes dudas, díselo al médico y él decidirá."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus análisis de sangre y orina",
+  "Tus ultrasonidos de riñones anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas boca arriba y después de lado",
+  "Ponen gel en el abdomen y los costados",
+  "El médico encuentra los vasos de los riñones con el transductor",
+  "A veces te piden aguantar la respiración unos segundos",
+  "El médico mide qué tan rápido corre la sangre en los vasos"
+ ],
+ "feel": [
+  "El gel está frío y el transductor presiona el abdomen, a veces con bastante fuerza",
+  "Aguantar la respiración puede cansar. Díselo al médico"
+ ],
+ "after": [
+  "Puedes comer de inmediato y seguir con tu día",
+  "El reporte suele estar de inmediato",
+  "Si encuentran un estrechamiento, el médico decidirá si hace falta otro estudio"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué tiene que ser en ayunas?",
+   "a": "Los gases del intestino estorban al ultrasonido. Con el estómago vacío los vasos se ven mejor."
+  },
+  {
+   "q": "¿Tarda mucho?",
+   "a": "Normalmente de 20 a 40 minutos. Los vasos de los riñones están profundos, por eso el médico trabaja con cuidado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu Doppler de arterias renales. Normalmente es en ayunas: después de la cena ya no comas. Puedes tomar agua."
+  }
+ ]
+}

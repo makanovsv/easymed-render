@@ -1,0 +1,72 @@
+{
+ "title": "Pneumococcal vaccine",
+ "also": [
+  "pneumococcal vaccine",
+  "pneumonia vaccine",
+  "pneumonia shot",
+  "PCV vaccine"
+ ],
+ "what": "A vaccine shot that protects against pneumococcus, a common cause of severe pneumonia, ear infections, and meningitis.",
+ "why": "For children on the schedule from the first months of life. For adults, usually after 65, and with heart or lung disease or diabetes.",
+ "duration": "the shot takes a few seconds, with the checkup usually 15 to 40 minutes",
+ "tell_doctor": [
+  "If you are ill now or have a fever",
+  "Strong reactions to past vaccines",
+  "Which pneumococcal vaccines you have already had",
+  "Long-term conditions"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "The vaccine is given when you are well."
+  },
+  {
+   "title": "Schedule",
+   "text": "There are different vaccines, and the schedule depends on age. Your doctor will choose."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something that makes it easy to uncover your upper arm."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your vaccination certificate or record"
+ ],
+ "steps": [
+  "The doctor or nurse asks how you feel and takes your temperature",
+  "You uncover your upper arm",
+  "The skin is wiped, and the shot is given",
+  "The vaccine is recorded in your documents",
+  "After the shot, sit in the clinic for about 30 minutes"
+ ],
+ "feel": [
+  "A quick prick",
+  "Sometimes soreness or redness at the spot for 1 to 2 days",
+  "Sometimes tiredness or a mild fever"
+ ],
+ "after": [
+  "Stay near the room for 30 minutes",
+  "You can go back to normal activities",
+  "Your doctor will say if another dose is needed"
+ ],
+ "red_flags": [
+  "Trouble breathing, swelling of the face or throat, or a rash all over: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Does it protect against all pneumonia?",
+   "a": "No, only pneumococcal pneumonia. But it is one of the most common and dangerous causes."
+  },
+  {
+   "q": "Can I get it with my flu shot?",
+   "a": "Usually yes, on the same day. Ask your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Pneumococcal vaccine tomorrow. Bring your vaccination record."
+  }
+ ]
+}

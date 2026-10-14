@@ -1,0 +1,76 @@
+{
+ "title": "Restauração indireta (inlay ou onlay)",
+ "also": [
+  "inlay",
+  "onlay",
+  "restauração em cerâmica",
+  "bloco de cerâmica",
+  "núcleo metálico"
+ ],
+ "what": "É uma peça resistente feita sob medida para a parte do dente que se perdeu. Ela é colada no lugar de uma restauração grande.",
+ "why": "Quando o dente está muito destruído e uma restauração comum pode não aguentar.",
+ "duration": "normalmente 2 consultas de 1 hora; a peça fica pronta em geral entre alguns dias e 2 semanas",
+ "tell_doctor": [
+  "Alergias, inclusive à anestesia",
+  "Se você range os dentes",
+  "Se esse dente já foi tratado antes",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Dentes",
+   "text": "Escove os dentes antes da consulta."
+  },
+  {
+   "title": "Comida",
+   "text": "Coma antes. Depois da anestesia, fica difícil comer por algumas horas."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Radiografias do dente, se tiver"
+ ],
+ "steps": [
+  "O dente é anestesiado com uma injeção",
+  "O dentista tira a restauração antiga e a parte doente, e dá forma ao dente",
+  "Faz a moldagem ou escaneia o dente",
+  "Coloca uma restauração provisória",
+  "Na segunda consulta, provam a peça e conferem a mordida",
+  "A peça é colada e polida"
+ ],
+ "feel": [
+  "Uma picada rápida e depois dormência",
+  "Barulho e vibração dos instrumentos",
+  "Por alguns dias o dente pode doer um pouco"
+ ],
+ "after": [
+  "Não coma até passar a dormência",
+  "Com o provisório, não mastigue coisas duras ou grudentas desse lado",
+  "Depois de colada a peça, a higiene é a de sempre",
+  "Faça as consultas de revisão"
+ ],
+ "red_flags": [
+  "Dor forte, inchaço na gengiva ou no rosto",
+  "A peça ficou solta ou caiu: guarde e marque consulta com o dentista"
+ ],
+ "faq": [
+  {
+   "q": "Por que é melhor que uma restauração comum?",
+   "a": "É mais resistente e tem forma mais precisa. Serve para dentes muito destruídos."
+  },
+  {
+   "q": "De que material é feita?",
+   "a": "Normalmente de cerâmica, resina ou metal. A melhor opção, o dentista indica."
+  },
+  {
+   "q": "Precisa tratar o canal?",
+   "a": "Nem sempre. Depende do estado do dente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a 2 horas é a consulta no dentista. Escove os dentes e coma antes."
+  }
+ ]
+}

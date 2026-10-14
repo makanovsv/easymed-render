@@ -1,0 +1,69 @@
+{
+ "title": "Insulina e índice HOMA",
+ "also": [
+  "insulina",
+  "índice HOMA",
+  "resistência à insulina",
+  "HOMA-IR"
+ ],
+ "what": "É um exame de sangue colhido da veia. Medem a insulina e a glicose juntas. Com elas se calcula o índice HOMA, que mostra como o corpo responde à insulina.",
+ "why": "Com excesso de peso, suspeita de resistência à insulina, alterações na menstruação ou glicose alta.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente em 1 a 2 dias",
+ "tell_doctor": [
+  "Se você tem diabetes e quais remédios toma para a glicose",
+  "Se usa hormônios",
+  "Quais outros remédios você toma sempre"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Jejum rigoroso: normalmente de 8 a 12 horas sem comer. Até chá com açúcar ou chiclete alteram o resultado. Água pode."
+  },
+  {
+   "title": "Na véspera",
+   "text": "No dia anterior, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma. Ele decide se algo precisa mudar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos, sem dobrar o braço",
+  "Você já pode comer e voltar à rotina",
+  "O resultado sai normalmente em 1 a 2 dias. O prazo quem informa é o laboratório",
+  "O índice HOMA é calculado pelo laboratório ou pelo médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que a insulina é medida junto com a glicose?",
+   "a": "O índice HOMA é calculado com os dois números. Eles precisam ser da mesma coleta."
+  },
+  {
+   "q": "Posso tomar café sem açúcar antes do exame?",
+   "a": "Melhor não. Só água pura."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de insulina. Depois do jantar, não coma mais nada. Água pura pode."
+  }
+ ]
+}

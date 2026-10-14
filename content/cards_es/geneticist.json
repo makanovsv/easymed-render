@@ -1,0 +1,77 @@
+{
+ "title": "Consulta de genética",
+ "also": [
+  "asesoría genética",
+  "consulta con el genetista",
+  "genetista",
+  "consejo genético"
+ ],
+ "what": "El genetista revisa si en tu familia hay enfermedades hereditarias y qué riesgo hay para ti o para tu hijo. Te explica con palabras sencillas los resultados de los estudios genéticos.",
+ "why": "Si planeas un embarazo, si un tamizaje salió raro, si en la familia hay enfermedades hereditarias o tu hijo tiene diferencias en su desarrollo.",
+ "duration": "la consulta suele durar de 30 a 60 minutos; los resultados de estudios genéticos, si te los piden, tardan de unos días a unas semanas",
+ "tell_doctor": [
+  "Enfermedades de familiares cercanos: padres, hermanos e hijos",
+  "Si tuviste pérdidas de embarazo o embarazos detenidos",
+  "Si tú y tu pareja son parientes",
+  "Cuántas semanas de embarazo tienes, si estás embarazada",
+  "Qué análisis y estudios ya te hiciste"
+ ],
+ "prepare": [
+  {
+   "title": "Familia",
+   "text": "Pregunta antes a tu familia: quién tuvo qué enfermedad, a qué edad, y de qué murieron los abuelos."
+  },
+  {
+   "title": "Documentos",
+   "text": "Junta resúmenes médicos, resultados de tamizajes, ultrasonidos y análisis, tuyos y de tu hijo."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Apunta lo que quieres saber. En la consulta es fácil olvidarlo."
+  }
+ ],
+ "bring": [
+  "La orden médica, si tienes",
+  "Una identificación",
+  "Los resúmenes y resultados de análisis",
+  "Tus notas sobre las enfermedades de la familia"
+ ],
+ "steps": [
+  "El médico te pregunta sobre ti, tus embarazos y la salud de tu familia",
+  "Dibuja un esquema de la familia: quién tuvo qué enfermedad",
+  "Si hace falta, te revisa a ti o a tu hijo",
+  "Te explica qué riesgo hay y de qué depende",
+  "Si hace falta, te propone estudios y te explica qué van a mostrar",
+  "Platican los siguientes pasos"
+ ],
+ "feel": [
+  "La plática puede ser difícil. Es normal; haz todas las preguntas que quieras",
+  "Normalmente las decisiones las tomas tú; el médico solo te explica"
+ ],
+ "after": [
+  "Si te pidieron un estudio, en la clínica te dirán cuándo estará el resultado",
+  "Normalmente con el resultado se regresa a otra consulta",
+  "Pide un informe por escrito"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Para qué ir al genetista si en mi familia todos están sanos?",
+   "a": "A veces los médicos lo recomiendan al planear un embarazo o después de un tamizaje. El genetista te ayuda a entender el riesgo y te tranquiliza si es bajo."
+  },
+  {
+   "q": "¿El estudio genético duele?",
+   "a": "Normalmente no. Casi siempre es una muestra de sangre de la vena o un raspado del interior de la mejilla."
+  },
+  {
+   "q": "¿Tengo que ir con mi pareja?",
+   "a": "Muchas veces conviene: al médico le importa la historia de las dos familias. Pregunta en la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta de genética. Lleva tus resúmenes médicos, análisis y notas sobre las enfermedades de la familia."
+  }
+ ]
+}

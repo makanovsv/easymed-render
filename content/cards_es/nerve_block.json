@@ -1,0 +1,77 @@
+{
+ "title": "Bloqueo de nervio",
+ "also": [
+  "bloqueo nervioso",
+  "anestesia regional",
+  "bloqueo del brazo",
+  "bloqueo de la pierna"
+ ],
+ "what": "El anestesiólogo pone una inyección cerca de un nervio y el brazo o la pierna se duerme. Se puede operar sin anestesia general, y después de la cirugía duele menos.",
+ "why": "Para cirugías del brazo, el hombro, la pierna o el pie, y para quitar el dolor después de la cirugía.",
+ "duration": "la inyección suele tomar de 10 a 20 minutos; lo dormido dura varias horas, a veces hasta un día",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. No los dejes por tu cuenta; el médico decide",
+  "Alergias a anestésicos locales",
+  "Si antes tuviste adormecimiento o debilidad en ese brazo o pierna",
+  "Enfermedades de los pulmones. Es importante si el bloqueo es cerca del cuello"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente las reglas son como antes de una cirugía. La clínica te dirá el tiempo sin comida ni agua."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Cuéntale de tu salud al anestesiólogo. Puedes pedir sedación para dormitar."
+  },
+  {
+   "title": "Transporte",
+   "text": "Ponte de acuerdo con alguien que te lleve a casa: el brazo o la pierna todavía estarán dormidos."
+  }
+ ],
+ "bring": [
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Ropa holgada"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena y te conectan a los aparatos",
+  "A veces te dan un calmante para que te relajes",
+  "Limpian y anestesian la piel",
+  "Con ultrasonido, el médico lleva una aguja delgada hasta el nervio",
+  "Pone el medicamento: el brazo o la pierna se calientan y se duermen",
+  "Revisan que esté totalmente dormido y empieza la cirugía"
+ ],
+ "feel": [
+  "El piquete es como cualquier inyección, breve",
+  "Calor, hormigueo y luego pesadez y adormecimiento",
+  "En la cirugía sientes que te tocan, pero no dolor. Si duele, dilo de inmediato"
+ ],
+ "after": [
+  "Mientras esté dormido, cuídalo: no lo acerques a algo caliente ni te apoyes en él",
+  "Lleva el brazo en un cabestrillo; no apoyes la pierna sin soporte",
+  "Empieza el analgésico según el plan antes de que se quite lo dormido",
+  "La sensibilidad normalmente regresa en unas horas o para la mañana siguiente"
+ ],
+ "red_flags": [
+  "El adormecimiento o la debilidad duran más de un día",
+  "Falta de aire o dolor en el pecho después de un bloqueo cerca del cuello: llama a emergencias",
+  "Zumbido en los oídos, sabor a metal o convulsiones: díselo de inmediato al médico o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Voy a estar despierto?",
+   "a": "Puedes estar despierto o dormitar con sedación. Lo platicas con el anestesiólogo."
+  },
+  {
+   "q": "¿Por qué no se mueve el brazo después de la cirugía?",
+   "a": "Así funciona el bloqueo. El movimiento regresa cuando pasa el efecto del medicamento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu cirugía con bloqueo de nervio. Comida y agua solo hasta la hora que dijo la clínica. Confirma quién te llevará a casa."
+  }
+ ]
+}

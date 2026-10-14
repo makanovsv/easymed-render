@@ -1,0 +1,73 @@
+{
+ "title": "Consulta con el dermatólogo",
+ "also": [
+  "dermatólogo",
+  "médico de la piel",
+  "consulta de dermatología"
+ ],
+ "what": "Es el médico que trata enfermedades de la piel, el cabello y las uñas, y revisa los lunares.",
+ "why": "Si tienes ronchas, comezón, acné, manchas, se te cae el cabello, hongos en las uñas o cambios en los lunares.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Cuándo apareció y cómo ha cambiado",
+  "Qué te has puesto o tomado",
+  "Alergias a medicamentos o cosméticos",
+  "Qué medicamentos tomas siempre",
+  "Enfermedades de la piel en tu familia"
+ ],
+ "prepare": [
+  {
+   "title": "Piel",
+   "text": "El día de la consulta no te pongas crema ni pomada en la zona. El médico necesita verla como está."
+  },
+  {
+   "title": "Maquillaje",
+   "text": "Si es en la cara, llega sin maquillaje. Si son las uñas, sin esmalte."
+  },
+  {
+   "title": "Fotos",
+   "text": "Si las ronchas aparecen y desaparecen, tómales foto."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Fotos de las ronchas, si tienes",
+  "Los nombres de las cremas y pomadas que usaste",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias",
+  "Revisa tu piel con buena luz",
+  "Revisa los lunares con una lupa especial, el dermatoscopio",
+  "A veces raspa un poco de piel para analizarla",
+  "Te indica un tratamiento o estudios"
+ ],
+ "feel": [
+  "La revisión no duele",
+  "El raspado es como un rasguño ligero, casi no duele"
+ ],
+ "after": [
+  "Ponte los productos como te dijo el médico y no dejes el tratamiento antes",
+  "Compara los cambios con fotos"
+ ],
+ "red_flags": [
+  "Hinchazón de la cara o los labios que crece rápido, o ronchas con fiebre alta: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo poner algo en las ronchas antes de la consulta?",
+   "a": "El día de la consulta mejor no. El médico necesita ver la piel sin pomada."
+  },
+  {
+   "q": "¿Cada cuánto me reviso los lunares?",
+   "a": "Normalmente una vez al año, si el médico no dice otra cosa. Más seguido si un lunar cambia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el dermatólogo. No te pongas crema en la zona y llega sin maquillaje ni esmalte."
+  }
+ ]
+}

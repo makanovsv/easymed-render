@@ -1,0 +1,76 @@
+{
+ "title": "Biopsia de endometrio con cánula",
+ "also": [
+  "biopsia de endometrio",
+  "biopsia con Pipelle",
+  "biopsia por aspiración del endometrio",
+  "biopsia del útero"
+ ],
+ "what": "El médico mete por el cuello del útero un tubito delgado y flexible y toma un poco del tejido de la capa interna. Sin cortes y normalmente sin anestesia general.",
+ "why": "Si tu ciclo está alterado, si sangras después de la menopausia, en infertilidad, o cuando en el ultrasonido la capa interna del útero se ve alterada.",
+ "duration": "el procedimiento suele durar de 5 a 15 minutos; el resultado normalmente en 1 a 2 semanas",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes un DIU",
+  "Alergias a anestésicos",
+  "Si ahora tienes flujo o inflamación"
+ ],
+ "prepare": [
+  {
+   "title": "Día del ciclo",
+   "text": "El día del ciclo depende del objetivo. El médico te dirá cuándo ir."
+  },
+  {
+   "title": "Prueba",
+   "text": "A veces piden una prueba de embarazo antes del procedimiento."
+  },
+  {
+   "title": "Analgésico",
+   "text": "Pregúntale al médico si puedes tomar un analgésico una hora antes."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los resultados del ultrasonido",
+  "Una toalla sanitaria",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te acuestas en la mesa ginecológica",
+  "El médico pone el espejo y limpia el cuello",
+  "Mete un tubito delgado y flexible por el cuello hasta el útero",
+  "Hace un poco de succión y toma tejido; son unos segundos",
+  "Saca el tubito y manda el tejido a analizar"
+ ],
+ "feel": [
+  "Un cólico fuerte, como una regla dolorosa, normalmente corto",
+  "A veces mareo o náuseas. Díselo al médico",
+  "Después, cólicos por unas horas"
+ ],
+ "after": [
+  "Un poco de sangrado, normalmente 1 o 2 días",
+  "Sin relaciones sexuales, tampones, tina ni alberca, normalmente unos días; el médico te dirá exactamente",
+  "El médico te explica el resultado en la consulta"
+ ],
+ "red_flags": [
+  "Sangrado como una regla abundante",
+  "Fiebre de más de 38, dolor fuerte en la parte baja del abdomen o flujo con mal olor"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele?",
+   "a": "Se siente un cólico fuerte, como una regla dolorosa. Es corto, normalmente menos de un minuto."
+  },
+  {
+   "q": "¿En qué es diferente de un legrado?",
+   "a": "Es más sencillo: sin anestesia general, sin dilatar el cuello, con un tubito delgado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu biopsia de endometrio. Lleva los resultados del ultrasonido y una toalla sanitaria. Pregúntale antes al médico por el analgésico."
+  }
+ ]
+}

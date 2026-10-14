@@ -1,0 +1,68 @@
+{
+ "title": "Raio-X do tórax em criança",
+ "also": [
+  "raio-X de tórax infantil",
+  "radiografia do pulmão em criança",
+  "raio-X do pulmão da criança"
+ ],
+ "what": "É uma radiografia do peito da criança. Mostra os pulmões e o coração.",
+ "why": "Com tosse que não passa, febre alta e suspeita de pneumonia, ou para controle depois do tratamento.",
+ "duration": "na sala, normalmente de 5 a 10 minutos. O laudo sai no mesmo dia",
+ "tell_doctor": [
+  "Diga se a criança já fez raio-X do pulmão há pouco tempo",
+  "Se a criança tem medo, avise o técnico. Ele explica tudo com calma",
+  "Se o adulto que vai ficar junto está grávida, é melhor outro adulto ir"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Conversa",
+   "text": "Conte antes para a criança: vai ter uma câmera grande, não dói, e é preciso ficar paradinho e segurar a respiração."
+  },
+  {
+   "title": "Roupa",
+   "text": "Camiseta sem estampa com metal ou strass. Tire correntes e presilhas."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Radiografias anteriores do pulmão, se tiver",
+  "Um brinquedo para o pequeno"
+ ],
+ "steps": [
+  "A criança tira a roupa da cintura para cima",
+  "As maiores ficam com o peito encostado na placa. Os bebês fazem deitados ou sentados",
+  "Podem dar a você um avental de proteção e pedir para segurar a criança",
+  "Pedem para a criança puxar o ar fundo e não respirar por uns dois segundos",
+  "A imagem leva uma fração de segundo"
+ ],
+ "feel": [
+  "Não dói",
+  "A placa pode ser geladinha",
+  "Bebês às vezes choram porque estão sendo segurados. É rápido"
+ ],
+ "after": [
+  "Você já pode vestir a criança e ir para casa",
+  "Com a imagem e o laudo, volte ao pediatra"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "A radiação faz mal à criança?",
+   "a": "A dose é bem pequena. Se o pediatra pediu o raio-X, o benefício é maior que o risco."
+  },
+  {
+   "q": "A mãe pode ficar junto?",
+   "a": "Normalmente sim, com avental de proteção. Se você está grávida, é melhor outro adulto ir."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o raio-X do tórax da criança. Leve o pedido médico e o brinquedo preferido."
+  }
+ ]
+}

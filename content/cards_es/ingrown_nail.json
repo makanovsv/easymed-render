@@ -1,0 +1,78 @@
+{
+ "title": "Retiro de uña enterrada",
+ "also": [
+  "uña enterrada",
+  "uña encarnada",
+  "onicocriptosis",
+  "cirugía de uña enterrada"
+ ],
+ "what": "El médico quita la orilla de la uña que se enterró en la piel del dedo. Normalmente se hace con anestesia local.",
+ "why": "Cuando la orilla de la uña se clava en la piel, duele, se pone roja, tiene pus o la uña se vuelve a enterrar.",
+ "duration": "el procedimiento suele durar de 20 a 40 minutos; sana normalmente en 2 a 4 semanas",
+ "tell_doctor": [
+  "Diabetes o problemas de circulación en los pies",
+  "Medicamentos que hacen la sangre más líquida. No los dejes por tu cuenta, lo decide el médico",
+  "Alergia a anestésicos, antibióticos o yodo",
+  "Si ya te habían quitado la uña antes",
+  "Embarazo"
+ ],
+ "prepare": [
+  {
+   "title": "Pies",
+   "text": "Lávate los pies y quítate el esmalte de las uñas."
+  },
+  {
+   "title": "Zapatos",
+   "text": "Lleva zapatos holgados y abiertos. Después tendrás un vendaje."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta preparación especial. Puedes comer tranquilo."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Zapatos holgados o sandalias anchas",
+  "Calcetines de cambio"
+ ],
+ "steps": [
+  "El médico revisa el dedo",
+  "Limpian la piel con antiséptico",
+  "Ponen una inyección de anestesia en la base del dedo",
+  "Cuando el dedo está dormido, el médico quita la orilla enterrada de la uña",
+  "A veces tratan la raíz de la uña para que esa orilla no vuelva a crecer",
+  "Ponen un vendaje"
+ ],
+ "feel": [
+  "La inyección de anestesia es molesta y arde unos segundos",
+  "Después el dedo se duerme y solo sientes que te tocan",
+  "Cuando se pasa la anestesia, el dedo duele. Ayuda el analgésico que te recomiende el médico"
+ ],
+ "after": [
+  "El primer día es mejor estar más tiempo acostado, con el pie en alto",
+  "Las curaciones, como diga el médico, en casa o en la clínica",
+  "Unos días usa zapatos holgados",
+  "No mojes el vendaje hasta que el médico lo permita"
+ ],
+ "red_flags": [
+  "El dedo se pone muy rojo, hinchado o sale pus de la herida",
+  "Fiebre de más de 38",
+  "La sangre empapa el vendaje y no para"
+ ],
+ "faq": [
+  {
+   "q": "¿La uña vuelve a crecer?",
+   "a": "Sí, normalmente la uña crece, pero un poco más angosta. La orilla que se enterró casi siempre ya no se vuelve a enterrar."
+  },
+  {
+   "q": "¿Puedo ir a trabajar al día siguiente?",
+   "a": "Si trabajas sentado, normalmente sí. Si estás todo el día de pie, pregunta al médico por unos días de descanso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu retiro de uña enterrada. Quítate el esmalte y ten listos unos zapatos holgados."
+  }
+ ]
+}

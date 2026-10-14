@@ -1,0 +1,75 @@
+{
+ "title": "STI PCR test",
+ "also": [
+  "STI test",
+  "STD test",
+  "chlamydia and gonorrhea test",
+  "sexual health swab",
+  "PCR swab"
+ ],
+ "what": "The doctor takes a swab, or you give a morning urine sample. The lab looks for germs that cause sexually transmitted infections.",
+ "why": "For discharge, itching, pain when peeing, after unprotected sex with a new partner, or when planning a pregnancy.",
+ "duration": "the sample takes a few minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "What symptoms you have and since when",
+  "If you took antibiotics in the last month",
+  "If you used vaginal suppositories or creams",
+  "The date of your last period, if you are a woman"
+ ],
+ "prepare": [
+  {
+   "title": "Peeing",
+   "text": "Do not pee for 2 to 3 hours before the swab. This gives a better sample."
+  },
+  {
+   "title": "1 to 2 days before",
+   "text": "No sex. Women: no douching, suppositories, or creams. Men: no local antiseptics."
+  },
+  {
+   "title": "Periods",
+   "text": "Swabs are usually not taken during your period."
+  },
+  {
+   "title": "Medicines",
+   "text": "If you take antibiotics, tell your doctor. They will decide the best time for the test."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "Women sit in the exam chair, and the doctor takes a swab using a speculum",
+  "Men usually have a swab taken from the urethra with a thin probe, or give the first part of their urine",
+  "The sample goes into a tube and is labeled",
+  "You can get dressed"
+ ],
+ "feel": [
+  "Brief discomfort or stinging",
+  "Men may feel stinging the first time they pee after the swab. It passes quickly"
+ ],
+ "after": [
+  "Results usually come in 1 to 3 days. The lab will tell you when",
+  "If an infection is found, your partner is usually treated too. Your doctor will decide",
+  "Until you get results, avoid sex or use a condom"
+ ],
+ "red_flags": [
+  "Pain low in the belly with a fever: see a doctor the same day"
+ ],
+ "faq": [
+  {
+   "q": "Should I get tested if I have no symptoms?",
+   "a": "Many infections have no symptoms. If you had unprotected sex with a new partner or are planning a pregnancy, it is better to get tested."
+  },
+  {
+   "q": "Is the test anonymous?",
+   "a": "Many clinics offer anonymous testing. Ask your clinic."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "STI swab tomorrow. Today, no sex, suppositories, or douching. Do not pee for 2 to 3 hours before the swab."
+  }
+ ]
+}

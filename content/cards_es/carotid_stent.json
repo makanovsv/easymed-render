@@ -1,0 +1,81 @@
+{
+ "title": "Colocación de stent en la carótida",
+ "also": [
+  "stent carotídeo",
+  "angioplastia carotídea",
+  "stent en la arteria del cuello"
+ ],
+ "what": "Por un piquete en la ingle o en el brazo, el médico lleva un tubo delgado hasta la arteria carótida estrecha del cuello y pone un tubito de malla, el stent. Mantiene la arteria abierta.",
+ "why": "Cuando la arteria carótida está muy estrecha, para bajar el riesgo de un derrame cerebral.",
+ "duration": "el procedimiento suele durar de 1 a 2 horas; en el hospital normalmente de 1 a 3 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y los de la diabetes. El médico te dirá qué tomar",
+  "Si tienes alergia al yodo o al medio de contraste",
+  "Enfermedades de los riñones",
+  "Si tuviste derrames cerebrales o problemas pasajeros para hablar, ver o mover un brazo"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma, ultrasonido o tomografía de los vasos del cuello. La clínica te da la lista."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Antes del stent normalmente se indican medicamentos contra los coágulos. Tómalos exactamente como te dijo el médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda, tus medicamentos y el cargador."
+  }
+ ],
+ "bring": [
+  "La orden médica y las imágenes de los vasos del cuello",
+  "Los análisis",
+  "Tus documentos y la lista de medicamentos",
+  "Tus cosas para el hospital para 1 a 3 días"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena y te acuestas en la mesa",
+  "Anestesian con una inyección el sitio de la punción; estás despierto",
+  "El médico lleva un tubo delgado por los vasos hasta el cuello",
+  "Pone un filtro protector contra coágulos pequeños",
+  "Abre la zona estrecha y coloca el stent",
+  "Retiran el tubo y presionan el sitio de la punción"
+ ],
+ "feel": [
+  "Calor al pasar el contraste",
+  "A veces presión en el cuello cuando abren la arteria",
+  "El médico te pedirá mover la mano y decir algo. Así revisan cómo funciona el cerebro"
+ ],
+ "after": [
+  "Por varias horas te quedas acostado sin doblar el brazo o la pierna de la punción",
+  "Toma los medicamentos contra los coágulos exactamente como te indicaron. No los dejes por tu cuenta",
+  "Ultrasonido de control cuando te diga el médico"
+ ],
+ "red_flags": [
+  "Debilidad o adormecimiento repentino de un brazo, una pierna o la cara: llama a emergencias",
+  "Problemas para hablar o ver: llama a emergencias",
+  "El sitio de la punción se hincha o sangra: llama a emergencias",
+  "Dolor de cabeza fuerte y repentino: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué se diferencia el stent de la cirugía de la carótida?",
+   "a": "Con el stent no hay corte en el cuello; el vaso se abre por dentro. Qué forma te conviene, lo decide el médico."
+  },
+  {
+   "q": "¿Puedo dejar las pastillas contra los coágulos después del stent?",
+   "a": "No. Sin ellas se puede formar un coágulo en el stent. El médico te dice por cuánto tiempo tomarlas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen el stent. Pastillas contra los coágulos, exactamente como te dijo el médico. Come solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

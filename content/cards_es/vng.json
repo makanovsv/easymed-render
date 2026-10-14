@@ -1,0 +1,77 @@
+{
+ "title": "Videonistagmografía",
+ "also": [
+  "videonistagmografía",
+  "VNG",
+  "pruebas vestibulares",
+  "estudio del mareo"
+ ],
+ "what": "El médico graba los movimientos de los ojos con unos lentes especiales con cámara. Por los ojos se ve cómo trabaja el órgano del equilibrio del oído interno.",
+ "why": "Con mareo o vértigo, inestabilidad al caminar, zumbido en los oídos, o después de un golpe en la cabeza, para encontrar la causa.",
+ "duration": "normalmente de 30 a 60 minutos; el reporte muchas veces está el mismo día",
+ "tell_doctor": [
+  "Qué medicamentos tomas, sobre todo para el mareo, calmantes y pastillas para dormir",
+  "Si te duele el cuello o la espalda. Algunos giros de la cabeza se pueden cambiar",
+  "Si tienes enfermedades de los ojos o ves mal sin lentes",
+  "Si tienes perforado el tímpano o te operaron del oído hace poco"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "Algunos medicamentos alteran la prueba. No los dejes por tu cuenta. Díselo al médico y él decidirá cuáles saltarte y cuántos días antes."
+  },
+  {
+   "title": "Comida y alcohol",
+   "text": "De 1 a 2 días antes, sin alcohol. Normalmente te piden no comer mucho 2 a 3 horas antes, porque te pueden dar náuseas."
+  },
+  {
+   "title": "Cara",
+   "text": "Ve sin maquillaje en los ojos. El rímel estorba a la cámara."
+  },
+  {
+   "title": "Regreso",
+   "text": "Después de la prueba te puedes sentir un poco mareado. Mejor no manejes de inmediato. Ve con un acompañante."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus reportes anteriores del otorrino y del neurólogo",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te sientas en un sillón y te ponen los lentes con cámaras",
+  "Primero te piden seguir con los ojos un punto en la pantalla",
+  "Después cambian la posición de tu cabeza y tu cuerpo: acostado, de lado, con giros",
+  "A veces ponen aire o agua tibia y fresca en el oído. Así revisan cada oído por separado",
+  "El médico ve en el monitor la grabación de los movimientos de los ojos"
+ ],
+ "feel": [
+  "No duele",
+  "En algunas pruebas te mareas y te pueden dar náuseas. Es esperado y se pasa rápido",
+  "Dile al médico si te sientes muy mal. Harán una pausa"
+ ],
+ "after": [
+  "Quédate sentado de 10 a 15 minutos hasta que se quite el mareo",
+  "Puedes seguir con tu día",
+  "El reporte muchas veces está de inmediato, a veces en 1 a 2 días"
+ ],
+ "red_flags": [
+  "Dolor de cabeza fuerte, visión doble, debilidad en un brazo o una pierna o dificultad para hablar: llama a emergencias de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué me mareo durante la prueba?",
+   "a": "Algunas pruebas provocan a propósito un mareo breve. Así el médico ve cómo responde el órgano del equilibrio."
+  },
+  {
+   "q": "¿Puedo tomar pastillas para el mareo antes?",
+   "a": "Pueden alterar el resultado. Avísale antes al médico y él decidirá si hace falta una pausa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu videonistagmografía. Sin maquillaje en los ojos, no comas mucho 2 a 3 horas antes y ve con un acompañante."
+  }
+ ]
+}

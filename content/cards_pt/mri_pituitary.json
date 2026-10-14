@@ -1,0 +1,70 @@
+{
+ "title": "Ressonância da hipófise",
+ "also": [
+  "ressonância da sela túrcica",
+  "ressonância da hipófise com contraste",
+  "ressonância dinâmica da hipófise"
+ ],
+ "what": "É uma ressonância detalhada de uma glândula pequena na base do cérebro. Normalmente com contraste na veia. Sem radiação.",
+ "why": "Com alterações hormonais, de prolactina, hormônio do crescimento ou cortisol, ou com alterações na menstruação ou na visão.",
+ "duration": "normalmente de 20 a 40 minutos. O laudo sai em 1 a 3 dias",
+ "tell_doctor": [
+  "Marca-passo, desfibrilador ou outro implante eletrônico",
+  "Metal no corpo: próteses, placas, clipes nos vasos, estilhaços",
+  "Se você está grávida ou pode estar",
+  "Se tem medo de lugar fechado. O médico explica como ajudar",
+  "Doença nos rins, alergia a contraste"
+ ],
+ "prepare": [
+  {
+   "title": "Contraste",
+   "text": "Se for com contraste, às vezes pedem exame de creatinina. Normalmente sem comer de 2 a 4 horas. Confirme com a clínica."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire tudo que é de metal: joias, relógio, presilhas, piercings. Deixe o celular e os cartões no armário."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exames de hormônios",
+  "Ressonâncias anteriores da cabeça e da hipófise"
+ ],
+ "steps": [
+  "Você troca de roupa e deixa tudo que é de metal no armário",
+  "Colocam um cateter na veia",
+  "Você se deita de barriga para cima, e a cabeça fica numa bobina em forma de capacete",
+  "O aparelho faz batidas altas. Dão fones ou protetores de ouvido",
+  "É preciso ficar deitado parado. Falam com você pelo interfone",
+  "Durante as imagens, aplicam o contraste, e as imagens seguem uma atrás da outra"
+ ],
+ "feel": [
+  "Não dói, mas é barulhento e apertado",
+  "Às vezes fica quente na região do exame. É normal",
+  "Com contraste: sensação gelada na veia"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "Depois do contraste, beba mais água, se o médico não disser diferente",
+  "Com o laudo, volte ao endocrinologista"
+ ],
+ "red_flags": [
+  "Depois do contraste, coceira, manchas na pele, inchaço no rosto ou dificuldade para respirar: avise na hora a equipe ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Precisa mesmo de contraste?",
+   "a": "Na maioria das vezes sim. Alterações pequenas da hipófise aparecem mal sem contraste."
+  },
+  {
+   "q": "Encontraram um nódulo. É câncer?",
+   "a": "Na maioria das vezes são alterações benignas. O que fazer depois, quem decide é o endocrinologista."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Daqui a pouco é a ressonância da hipófise. Normalmente de 2 a 4 horas sem comer. Leve os exames de hormônios."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Troponin",
+ "also": [
+  "troponin test",
+  "heart attack blood test",
+  "troponin I",
+  "troponin T",
+  "cardiac enzymes"
+ ],
+ "what": "This is a blood test from a vein. It shows whether the heart muscle is damaged.",
+ "why": "Usually in an emergency, for chest pain or a possible heart attack. Sometimes for follow-up after heart problems.",
+ "duration": "the blood draw takes a few minutes; in hospital, results usually come within an hour; the test is often repeated after 1 to 3 hours",
+ "tell_doctor": [
+  "When the chest pain started and what it feels like",
+  "What heart and blood pressure medicines you take",
+  "If you have kidney disease",
+  "If you recently did very hard exercise"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "None needed. With chest pain, do not wait. The test is done right away in hospital."
+  },
+  {
+   "title": "Important",
+   "text": "If you have chest pain, do not go to a lab on your own. Call emergency services."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your medicines",
+  "Past ECGs, if you have them"
+ ],
+ "steps": [
+  "A nurse takes blood from a vein, often placing an IV line at the same time",
+  "An ECG is usually done at the same time",
+  "Blood is often taken again after 1 to 3 hours",
+  "The doctor compares the two results"
+ ],
+ "feel": [
+  "A quick prick, like a pinch"
+ ],
+ "after": [
+  "Your doctor will decide on further tests and treatment",
+  "If the test was planned, results usually come the same day"
+ ],
+ "red_flags": [
+  "Pain, pressure, or burning in the chest for more than a few minutes: call emergency services",
+  "Pain spreading to the arm, jaw, or back, with cold sweat or shortness of breath: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why is troponin taken twice?",
+   "a": "It rises gradually. The second test shows whether the level is changing."
+  },
+  {
+   "q": "Can I just get a troponin test at a lab if I have chest pain?",
+   "a": "No. With chest pain, call emergency services. An ECG and fast care matter most."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Planned troponin test tomorrow. No prep needed. If you get chest pain, call emergency services right away."
+  }
+ ]
+}

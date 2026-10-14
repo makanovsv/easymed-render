@@ -1,0 +1,73 @@
+{
+ "title": "Consulta com endocrinologista",
+ "also": [
+  "endocrinologista",
+  "médico dos hormônios",
+  "médico da tireoide",
+  "consulta de diabetes"
+ ],
+ "what": "É o médico que trata doenças dos hormônios: tireoide, diabetes, alterações de peso e do metabolismo.",
+ "why": "No diabetes, alterações da tireoide, mudança brusca de peso, cansaço constante, alterações do ciclo menstrual.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "O que incomoda e desde quando",
+  "Todos os remédios, principalmente hormônios e remédios para diabetes",
+  "Como seu peso mudou",
+  "Doenças da tireoide ou diabetes na família",
+  "Se você está grávida ou planeja engravidar"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Se o médico puder pedir exame de sangue na hora, confirme com a clínica se é para ir em jejum."
+  },
+  {
+   "title": "Diário",
+   "text": "No diabetes, leve as anotações da glicose e o glicosímetro."
+  },
+  {
+   "title": "Exames anteriores",
+   "text": "Leve exames de hormônios e ultrassom da tireoide, se fez."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Glicosímetro e diário da glicose, se tiver",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas e os remédios",
+  "Mede a pressão, a altura e o peso",
+  "Apalpa o pescoço e a tireoide",
+  "Olha os exames",
+  "Pede exames ou indica o tratamento"
+ ],
+ "feel": [
+  "Nada desagradável. É um exame comum",
+  "Apalpar o pescoço não dói"
+ ],
+ "after": [
+  "Faça os exames pedidos e volte com os resultados",
+  "Não mude as doses dos remédios por conta própria. Só por decisão do médico"
+ ],
+ "red_flags": [
+  "Glicose muito alta ou muito baixa, confusão, fraqueza forte: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Preciso ir em jejum?",
+   "a": "Para a consulta, não. Mas, se o médico puder pedir exame na hora, em jejum é mais prático. Confirme com a clínica."
+  },
+  {
+   "q": "Preciso fazer exames de hormônios antes?",
+   "a": "Você pode levar os exames anteriores. Quais são necessários agora, o médico decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o endocrinologista. Leve os exames, o diário da glicose e a lista de remédios."
+  }
+ ]
+}

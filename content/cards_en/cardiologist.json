@@ -1,0 +1,75 @@
+{
+ "title": "Cardiologist visit",
+ "also": [
+  "cardiologist",
+  "heart doctor",
+  "cardiology consultation",
+  "heart checkup"
+ ],
+ "what": "The doctor asks how you feel, listens to your heart, and checks your blood pressure. If needed, an ECG, heart ultrasound, or other tests are ordered.",
+ "why": "For chest pain, shortness of breath, an irregular heartbeat, high blood pressure, swollen legs, or a check before surgery.",
+ "duration": "usually 20 to 40 minutes; you get advice right away",
+ "tell_doctor": [
+  "What bothers you, when, and with how much effort",
+  "All your medicines and doses",
+  "Your blood pressure readings, if you check at home",
+  "Heart disease in relatives",
+  "If you smoke"
+ ],
+ "prepare": [
+  {
+   "title": "Blood pressure diary",
+   "text": "If you have a monitor, record your blood pressure morning and evening for 3 to 7 days."
+  },
+  {
+   "title": "Medicines",
+   "text": "Take them as usual. Do not stop them on your own before the visit."
+  },
+  {
+   "title": "Before the visit",
+   "text": "No strong coffee or smoking for an hour before. They change your blood pressure and pulse."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your medicines, or the packs themselves",
+  "Past ECGs, heart ultrasounds, and test results",
+  "Your blood pressure diary"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms and health",
+  "Your blood pressure and pulse are checked",
+  "The doctor listens to your heart and lungs",
+  "Your legs are checked for swelling",
+  "An ECG is often done right at the visit",
+  "The doctor explains the next steps"
+ ],
+ "feel": [
+  "The visit is painless"
+ ],
+ "after": [
+  "Have the tests your doctor ordered",
+  "Take your medicines as your doctor prescribed",
+  "Come back for a follow-up with the results"
+ ],
+ "red_flags": [
+  "Severe pressing chest pain lasting more than 15 minutes: call emergency services",
+  "Sudden severe shortness of breath or fainting: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Do I need to fast?",
+   "a": "Usually not. But if you have blood tests the same day, check with the clinic."
+  },
+  {
+   "q": "Should I take my blood pressure pills that morning?",
+   "a": "Yes, as usual, unless your doctor says otherwise. That way the doctor sees how the treatment works."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Cardiologist visit tomorrow. Bring your medicine list, past ECGs, and blood pressure diary."
+  }
+ ]
+}

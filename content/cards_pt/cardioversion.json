@@ -1,0 +1,81 @@
+{
+ "title": "Cardioversão elétrica",
+ "also": [
+  "cardioversão",
+  "choque para arritmia",
+  "reversão do ritmo",
+  "cardioversão elétrica"
+ ],
+ "what": "Com uma anestesia rápida, um choque elétrico curto é aplicado no peito. Ele ajuda o coração a voltar ao ritmo normal.",
+ "why": "Na fibrilação atrial, no flutter atrial e em algumas outras alterações do ritmo.",
+ "duration": "o procedimento em si leva alguns minutos, tudo junto normalmente de 1 a 3 horas; às vezes você passa a noite",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. Não pode pular doses",
+  "Alergias",
+  "Se já teve problema com anestesia",
+  "Se você pulou comprimidos contra coágulos nas últimas semanas, avise sem falta"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios contra coágulos",
+   "text": "Normalmente são tomados por algumas semanas antes do procedimento. Não pule doses. Às vezes, antes, fazem um ecocardiograma pelo esôfago."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come nem se bebe por algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Antes do procedimento",
+   "text": "Tire os acessórios. Não passe creme no peito."
+  },
+  {
+   "title": "Transporte",
+   "text": "Depois da anestesia você não pode dirigir nesse dia. Peça para alguém levar você."
+  }
+ ],
+ "bring": [
+  "Pedido médico e eletrocardiograma",
+  "Lista de remédios",
+  "Documentos",
+  "Alguém para levar você para casa"
+ ],
+ "steps": [
+  "Você deita, e colocam um acesso na veia",
+  "Colam eletrodos grandes no peito e nas costas",
+  "O anestesista aplica o remédio, e você dorme por alguns minutos",
+  "O aparelho dá um choque curto, às vezes alguns",
+  "Você acorda, e fazem um eletrocardiograma",
+  "Você fica em observação algumas horas"
+ ],
+ "feel": [
+  "Você não sente o choque, porque está dormindo",
+  "Depois, sono",
+  "A pele do peito pode ficar vermelha e doer, como depois de sol"
+ ],
+ "after": [
+  "Continue os comprimidos contra coágulos exatamente conforme o esquema do médico",
+  "Nesse dia, não dirija",
+  "O ritmo pode falhar de novo. O médico pede um eletrocardiograma de controle"
+ ],
+ "red_flags": [
+  "Dor no peito, falta de ar forte, desmaio: ligue para a emergência",
+  "Fraqueza repentina no braço ou na perna, fala alterada: ligue para a emergência",
+  "O coração dispara de novo: avise o médico"
+ ],
+ "faq": [
+  {
+   "q": "Um choque no coração é perigoso?",
+   "a": "É um procedimento usado há muito tempo. É feito com acompanhamento do médico e dos aparelhos, e você está dormindo."
+  },
+  {
+   "q": "O ritmo volta ao normal para sempre?",
+   "a": "Nem sempre. Às vezes a arritmia volta. O médico ajusta o tratamento para evitar isso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cardioversão. Não pule os comprimidos contra coágulos. Comida e água, só até o horário que a clínica indicou. Combine quem vai levar você para casa."
+  }
+ ]
+}

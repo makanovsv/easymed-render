@@ -1,0 +1,72 @@
+{
+ "title": "Acupuntura",
+ "also": [
+  "acupuntura",
+  "agulhas",
+  "terapia com agulhas",
+  "acupuntura médica"
+ ],
+ "what": "O médico coloca agulhas finas e estéreis em pontos específicos do corpo, por um tempo.",
+ "why": "Na maioria das vezes em dores crônicas nas costas, no pescoço e dores de cabeça, como complemento ao tratamento principal.",
+ "duration": "a sessão dura normalmente de 30 a 45 minutos, e as agulhas ficam normalmente de 20 a 30 minutos; o número de sessões quem define é o médico",
+ "tell_doctor": [
+  "Se você toma remédios que afinam o sangue",
+  "Se você está grávida",
+  "Se já desmaiou com picadas",
+  "Se você usa marca-passo",
+  "Doenças de pele no local"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Não vá com fome, mas também não logo depois de uma refeição pesada."
+  },
+  {
+   "title": "Roupa",
+   "text": "Larga, para mostrar os locais necessários."
+  },
+  {
+   "title": "Agulhas",
+   "text": "As agulhas devem ser descartáveis e estéreis. A embalagem é aberta na sua frente."
+  }
+ ],
+ "bring": [
+  "O pedido ou parecer do médico, se tiver",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você deita confortavelmente",
+  "O médico limpa a pele",
+  "Coloca as agulhas finas, rápido e de leve",
+  "Você fica tranquilo com as agulhas por 20 a 30 minutos",
+  "O médico retira as agulhas e descarta"
+ ],
+ "feel": [
+  "Uma picada rápida e leve, muitas vezes quase imperceptível",
+  "Às vezes peso, calor ou dor leve perto da agulha",
+  "Pode haver relaxamento e sono"
+ ],
+ "after": [
+  "Fique sentado alguns minutos antes de ir",
+  "Uma gotinha de sangue ou um roxinho acontecem e passam sozinhos"
+ ],
+ "red_flags": [
+  "Fraqueza forte, desmaio ou dor no peito depois da sessão: avise o médico. Com falta de ar forte, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Normalmente não. As agulhas são muito finas, e a picada é leve."
+  },
+  {
+   "q": "Dá para pegar infecção pelas agulhas?",
+   "a": "Não, se as agulhas forem descartáveis e estéreis. Peça para abrirem a embalagem na sua frente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Hoje é a acupuntura. Faça um lanche antes e vista roupa larga."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Resonancia magnética de hipófisis",
+ "also": [
+  "resonancia de hipófisis",
+  "resonancia de silla turca",
+  "resonancia de hipófisis con contraste",
+  "resonancia dinámica de hipófisis"
+ ],
+ "what": "Es una resonancia detallada de una glándula pequeña en la base del cerebro. Normalmente con medio de contraste en la vena. Sin radiación.",
+ "why": "Con alteraciones de hormonas: prolactina, hormona del crecimiento o cortisol; con alteraciones del ciclo o de la vista.",
+ "duration": "normalmente de 20 a 40 minutos; el reporte en 1 a 3 días",
+ "tell_doctor": [
+  "Marcapasos, desfibrilador u otro implante con electrónica",
+  "Metal en el cuerpo: prótesis, placas, grapas en vasos, esquirlas",
+  "Si estás embarazada o podrías estarlo",
+  "Si te dan miedo los lugares cerrados. El médico te dirá cómo ayudarte",
+  "Enfermedades de los riñones o alergia al medio de contraste"
+ ],
+ "prepare": [
+  {
+   "title": "Contraste",
+   "text": "Si es con medio de contraste, a veces piden un análisis de creatinina. Normalmente no comas de 2 a 4 horas antes. Pregunta en la clínica."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate todo lo de metal: joyas, reloj, pasadores, piercings. Deja el teléfono y las tarjetas en el casillero."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus análisis de hormonas",
+  "Tus resonancias de cabeza e hipófisis anteriores"
+ ],
+ "steps": [
+  "Te cambias de ropa y dejas todo lo de metal en el casillero",
+  "Te ponen un catéter en la vena",
+  "Te acuestas boca arriba y pones la cabeza en una bobina como un casco",
+  "El aparato hace golpeteos fuertes. Te dan audífonos o tapones",
+  "Tienes que estar sin moverte. Te hablan por un intercomunicador",
+  "Durante las imágenes ponen el contraste y las imágenes se toman seguidas"
+ ],
+ "feel": [
+  "No duele, pero hay ruido y poco espacio",
+  "A veces se siente calor en la zona del estudio. Es normal",
+  "Con el medio de contraste, sensación de frío en la vena"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "Después del medio de contraste toma más agua, salvo que el médico te diga otra cosa",
+  "Lleva el reporte al endocrinólogo"
+ ],
+ "red_flags": [
+  "Después del medio de contraste, comezón, ronchas, hinchazón de la cara o dificultad para respirar: avísale de inmediato al personal o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Tiene que ser con contraste?",
+   "a": "Casi siempre sí: las lesiones pequeñas de la hipófisis se ven mal sin contraste."
+  },
+  {
+   "q": "Si encontraron una lesión, ¿es cáncer?",
+   "a": "Casi siempre son lesiones benignas. Qué hacer después lo decide el endocrinólogo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Pronto es tu resonancia de hipófisis. Normalmente no comas de 2 a 4 horas antes. Lleva tus análisis de hormonas."
+  }
+ ]
+}

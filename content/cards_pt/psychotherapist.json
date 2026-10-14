@@ -1,0 +1,67 @@
+{
+ "title": "Consulta com psicoterapeuta",
+ "also": [
+  "psicoterapeuta",
+  "psicoterapia",
+  "psiquiatra psicoterapeuta"
+ ],
+ "what": "É um médico que trata ansiedade, depressão e outros quadros por métodos de conversa. Se for preciso, pode receitar remédios.",
+ "why": "Com ansiedade, crises de pânico, tristeza, insônia, pensamentos obsessivos, efeitos de traumas e estresse.",
+ "duration": "normalmente de 45 a 60 minutos; o tratamento é decidido junto com o médico",
+ "tell_doctor": [
+  "O que incomoda e há quanto tempo",
+  "Quais remédios e substâncias você usa, inclusive álcool",
+  "Se já procurou especialistas antes",
+  "Doenças crônicas",
+  "Se já teve pensamentos de se machucar"
+ ],
+ "prepare": [
+  {
+   "title": "Motivo",
+   "text": "Anote o que incomoda e o que você espera do tratamento."
+  },
+  {
+   "title": "Lugar",
+   "text": "Se a sessão for online, encontre um lugar tranquilo, onde ninguém ouça."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas e sua vida",
+  "Explica qual método pode servir",
+  "Juntos vocês definem os objetivos",
+  "Combinam o calendário dos encontros",
+  "Se preciso, o médico receita remédios"
+ ],
+ "feel": [
+  "É uma conversa, sem procedimentos",
+  "Falar de coisas pessoais pode ser difícil. Você pode fazer pausas"
+ ],
+ "after": [
+  "Faça as tarefas entre os encontros, se forem passadas",
+  "Não suspenda remédios por conta própria. Tire as dúvidas com o médico"
+ ],
+ "red_flags": [
+  "Pensamentos de se machucar: não espere a consulta, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Qual a diferença entre psicoterapeuta médico e psicólogo?",
+   "a": "O psicoterapeuta médico pode receitar remédios. O psicólogo trabalha só com a conversa."
+  },
+  {
+   "q": "Quanto tempo dura a psicoterapia?",
+   "a": "O tratamento pode durar de algumas semanas a um ano ou mais. O prazo se combina com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o psicoterapeuta. Anote o que incomoda e leve a lista de remédios."
+  }
+ ]
+}

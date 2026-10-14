@@ -1,0 +1,70 @@
+{
+ "title": "Children's ENT checkup",
+ "also": [
+  "pediatric ENT",
+  "children's ENT doctor",
+  "child ear exam",
+  "kids ear nose and throat doctor"
+ ],
+ "what": "An ENT doctor examines your child's ears, nose, and throat. The exam is usually short and does not hurt.",
+ "why": "For frequent colds and ear infections, snoring, mouth breathing, ear or throat pain, poor hearing, and routine checkups.",
+ "duration": "usually 15 to 30 minutes",
+ "tell_doctor": [
+  "How often your child gets ill, and with what",
+  "If they snore or breathe through the mouth",
+  "How they hear and speak for their age",
+  "What medicines and drops you have already given",
+  "Your child's allergies"
+ ],
+ "prepare": [
+  {
+   "title": "Talk to your child",
+   "text": "Tell your child the doctor will look at their ears and throat with a little flashlight."
+  },
+  {
+   "title": "Timing",
+   "text": "Best to come when your child is not hungry or sleepy."
+  }
+ ],
+ "bring": [
+  "Your child's documents",
+  "Past medical reports and test results",
+  "A toy"
+ ],
+ "steps": [
+  "The doctor asks you questions",
+  "Your child sits on your lap, and you gently hold them",
+  "The doctor checks the throat with a tongue depressor",
+  "The nose and ears are examined",
+  "Sometimes hearing is tested",
+  "The doctor explains what was found and gives treatment"
+ ],
+ "feel": [
+  "The tongue depressor may cause gagging",
+  "Little ones often cry from being held. That is normal"
+ ],
+ "after": [
+  "Follow the treatment plan",
+  "Come back for a follow-up if the doctor says so"
+ ],
+ "red_flags": [
+  "Your child has trouble breathing, cannot swallow, or is drooling: call emergency services",
+  "High fever and severe ear pain, or swelling behind the ear: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Do adenoids need to be removed if my child snores?",
+   "a": "Not always. The doctor will examine your child and say what they need."
+  },
+  {
+   "q": "How do I hold my child during the exam?",
+   "a": "Sit them on your lap. Wrap one arm around their body and arms, and hold their head with the other hand."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Your child's ENT checkup is in 2 hours. Bring past medical reports."
+  }
+ ]
+}

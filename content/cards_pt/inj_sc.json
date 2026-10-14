@@ -1,0 +1,67 @@
+{
+ "title": "Injeção subcutânea",
+ "also": [
+  "injeção subcutânea",
+  "injeção embaixo da pele",
+  "injeção SC",
+  "injeção na barriga"
+ ],
+ "what": "O remédio é aplicado com uma agulha fina e curta na camada de gordura embaixo da pele, normalmente na barriga, no braço ou na coxa.",
+ "why": "É assim que se aplica insulina, remédios contra trombose, alguns hormônios e vacinas, conforme a receita médica.",
+ "duration": "a injeção em si leva menos de um minuto",
+ "tell_doctor": [
+  "Alergias a remédios",
+  "Remédios que afinam o sangue",
+  "Se já teve roxos ou caroços depois de injeções"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma roupa fácil de liberar a barriga ou o braço."
+  }
+ ],
+ "bring": [
+  "Receita médica",
+  "O remédio, se você mesmo comprou"
+ ],
+ "steps": [
+  "A enfermeira confere a receita e o remédio",
+  "Escolhe o local: barriga em volta do umbigo, braço ou coxa",
+  "Limpa a pele com antisséptico",
+  "Faz uma prega na pele e coloca a agulha rápido",
+  "Aplica o remédio devagar e tira a agulha"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Alguns remédios ardem um pouco ao entrar"
+ ],
+ "after": [
+  "Não esfregue o local, se a enfermeira não disser diferente",
+  "Um roxinho pode aparecer e some sozinho",
+  "Se forem várias injeções, o local muda a cada vez"
+ ],
+ "red_flags": [
+  "Inchaço no rosto ou nos lábios, dificuldade para respirar, manchas pelo corpo: ligue para a emergência",
+  "O local da injeção ficou muito vermelho, quente e dolorido"
+ ],
+ "faq": [
+  {
+   "q": "Por que injeção na barriga?",
+   "a": "Ali há bastante gordura embaixo da pele, e o remédio é absorvido de forma regular. Não dói mais do que no braço."
+  },
+  {
+   "q": "Por que aparecem roxos depois das injeções na barriga?",
+   "a": "Com remédios contra trombose, roxos são comuns. Se forem muito grandes, avise o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a injeção. Vista uma roupa fácil de liberar a barriga ou o braço."
+  }
+ ]
+}

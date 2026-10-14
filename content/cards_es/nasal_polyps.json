@@ -1,0 +1,85 @@
+{
+ "title": "Extirpación de pólipos nasales",
+ "also": [
+  "polipectomía nasal",
+  "pólipos en la nariz",
+  "cirugía endoscópica de nariz",
+  "quitar pólipos nasales"
+ ],
+ "what": "El cirujano quita los pólipos por la nariz con una cámara delgada e instrumentos. Normalmente no hay cortes en la cara.",
+ "why": "Cuando los pólipos no te dejan respirar por la nariz, bajan el olfato o causan sinusitis frecuentes, y los medicamentos no ayudan.",
+ "duration": "la cirugía suele durar de 30 minutos a 2 horas; en el hospital normalmente de 1 a 3 días, o te vas a casa el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá qué hacer",
+  "Si tienes asma o no toleras algunos analgésicos",
+  "Tus alergias",
+  "Enfermedades crónicas",
+  "Si tú o algún familiar tuvo problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Normalmente se necesita una tomografía de senos paranasales, análisis y electrocardiograma. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo."
+  },
+  {
+   "title": "Comida y bebida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda, pañuelos desechables y los medicamentos que tomas siempre."
+  }
+ ],
+ "bring": [
+  "La orden médica, las imágenes y los análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital para 1 a 3 días"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "Te ponen la anestesia y te duermes",
+  "El cirujano mete una cámara delgada por la nariz",
+  "Con instrumentos especiales quita los pólipos",
+  "A veces ponen tapones en la nariz",
+  "Despiertas en la sala de recuperación"
+ ],
+ "feel": [
+  "Después de la anestesia hay sueño y a veces náuseas",
+  "La nariz está tapada y tienes que respirar por la boca",
+  "Dolor sordo y pesadez en la cabeza; los primeros días sale líquido con sangre por la nariz"
+ ],
+ "after": [
+  "Los tapones normalmente se quitan en 1 a 2 días",
+  "No te suenes fuerte hasta que el médico lo permita",
+  "Lavados y sprays, como te los indique el médico",
+  "Por un par de semanas no cargues cosas pesadas, sin sauna ni baños calientes",
+  "Los pólipos pueden volver. Es importante el tratamiento que te indique el médico"
+ ],
+ "red_flags": [
+  "Sangrado fuerte por la nariz o hacia la garganta: llama a emergencias",
+  "Fiebre de más de 38 o dolor de cabeza fuerte",
+  "Hinchazón alrededor del ojo o ves peor: ve al médico de urgencia",
+  "Sale un líquido claro como agua por la nariz después de la cirugía: díselo al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Los pólipos van a volver?",
+   "a": "A veces sí. Para que pase menos, el médico te indicará un tratamiento después de la cirugía."
+  },
+  {
+   "q": "¿Voy a recuperar el olfato?",
+   "a": "Muchas veces mejora, pero no siempre de inmediato."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de nariz. Junta tus cosas y documentos. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

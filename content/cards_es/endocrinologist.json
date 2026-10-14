@@ -1,0 +1,73 @@
+{
+ "title": "Consulta con el endocrinólogo",
+ "also": [
+  "endocrinólogo",
+  "médico de las hormonas",
+  "médico de la tiroides",
+  "diabetólogo"
+ ],
+ "what": "Es el médico que trata enfermedades de las hormonas: de la tiroides, la diabetes, y problemas de peso y metabolismo.",
+ "why": "Si tienes diabetes, cambios en la tiroides, cambios bruscos de peso, cansancio constante o alteraciones del ciclo menstrual.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Qué te molesta y desde cuándo",
+  "Todos tus medicamentos, sobre todo hormonas y medicamentos para la diabetes",
+  "Cómo ha cambiado tu peso",
+  "Enfermedades de la tiroides o diabetes en tu familia",
+  "Si estás embarazada o lo planeas"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Si el médico puede mandarte a análisis de sangre ese mismo día, pregunta en la clínica si debes ir en ayunas."
+  },
+  {
+   "title": "Diario",
+   "text": "Si tienes diabetes, lleva tus registros de azúcar y tu glucómetro."
+  },
+  {
+   "title": "Análisis anteriores",
+   "text": "Lleva tus análisis de hormonas y el ultrasonido de tiroides, si te los hiciste."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tu glucómetro y diario de azúcar, si tienes",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias y medicamentos",
+  "Te toma la presión, la estatura y el peso",
+  "Palpa tu cuello y la tiroides",
+  "Revisa tus análisis",
+  "Te pide estudios o te indica un tratamiento"
+ ],
+ "feel": [
+  "Nada molesto. Es una revisión normal",
+  "Palpar el cuello no duele"
+ ],
+ "after": [
+  "Hazte los análisis indicados y regresa con los resultados",
+  "No cambies las dosis de tus medicamentos por tu cuenta, solo si lo decide el médico"
+ ],
+ "red_flags": [
+  "Azúcar muy alta o muy baja, confusión o debilidad fuerte: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Tengo que ir en ayunas?",
+   "a": "Para la consulta, no. Pero si el médico te puede mandar a análisis ese día, en ayunas es más práctico. Pregunta en la clínica."
+  },
+  {
+   "q": "¿Tengo que hacerme análisis de hormonas antes?",
+   "a": "Puedes llevar los que ya tengas. Cuáles se necesitan ahora, lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el endocrinólogo. Lleva tus análisis, el diario de azúcar y la lista de medicamentos."
+  }
+ ]
+}

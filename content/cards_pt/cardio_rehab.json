@@ -1,0 +1,80 @@
+{
+ "title": "Reabilitação cardíaca",
+ "also": [
+  "reabilitação cardíaca",
+  "reabilitação depois do infarto",
+  "exercícios para o coração",
+  "reabilitação depois do stent"
+ ],
+ "what": "Um programa de exercícios com acompanhamento do médico e do instrutor, para o coração se recuperar depois de uma doença ou cirurgia. Inclui exercícios e orientações sobre alimentação e hábitos.",
+ "why": "Depois de infarto, stent, ponte de safena, cirurgia de válvula, na insuficiência cardíaca, quando o médico considera seguro.",
+ "duration": "a sessão dura normalmente de 45 a 60 minutos; o programa costuma durar algumas semanas, e o prazo quem decide é o médico",
+ "tell_doctor": [
+  "Se nos últimos dias teve dor no peito, falta de ar ou coração falhando",
+  "Todos os remédios que você toma",
+  "Se tem tontura ou desmaios",
+  "Se as articulações ou as costas doem. Os exercícios serão adaptados",
+  "Se você tem diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes de começar, normalmente fazem eletrocardiograma, às vezes teste de esforço e ecocardiograma. Isso ajuda a escolher um esforço seguro."
+  },
+  {
+   "title": "Remédios",
+   "text": "Tome como sempre. Não suspenda por conta própria. Se tiver dúvidas, fale com o médico, e ele decide."
+  },
+  {
+   "title": "Comida",
+   "text": "Uma refeição leve de 1 a 2 horas antes da sessão. Não faça exercício em jejum nem logo depois de uma refeição pesada."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa esportiva, tênis confortável e uma garrafa de água."
+  }
+ ],
+ "bring": [
+  "O resumo de alta e os últimos eletrocardiogramas",
+  "Lista de remédios",
+  "Roupa e tênis de exercício",
+  "Os comprimidos que o médico mandou ter sempre por perto"
+ ],
+ "steps": [
+  "Antes da sessão, medem a pressão e o pulso",
+  "Às vezes colocam um sensor para acompanhar o coração",
+  "Aquecimento: caminhada tranquila e movimentos leves",
+  "Parte principal: bicicleta, esteira ou exercícios no seu ritmo",
+  "O esforço aumenta aos poucos, de uma sessão para outra",
+  "No fim, desaquecimento e nova medida de pressão e pulso"
+ ],
+ "feel": [
+  "O esforço é moderado: dá para falar, mas cantar já fica difícil",
+  "Pode haver um leve cansaço muscular depois das primeiras sessões"
+ ],
+ "after": [
+  "O médico passa um plano de exercícios e caminhadas em casa",
+  "Anote num diário o pulso, a pressão e como se sente",
+  "Regularidade é mais importante que intensidade"
+ ],
+ "red_flags": [
+  "Dor ou aperto no peito que não passa em repouso: pare o exercício e ligue para a emergência",
+  "Falta de ar forte, desmaio, tontura repentina: avise o instrutor na hora"
+ ],
+ "faq": [
+  {
+   "q": "Não é perigoso fazer exercício depois do infarto?",
+   "a": "Com acompanhamento médico, não. O esforço é escolhido pelos exames e aumenta aos poucos."
+  },
+  {
+   "q": "Posso fazer em casa em vez de no centro?",
+   "a": "Muitas vezes parte do programa é feita em casa. Que esforço serve para você, o médico decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a sessão de reabilitação cardíaca. Café da manhã leve, remédios como sempre, leve a roupa de exercício e água."
+  }
+ ]
+}

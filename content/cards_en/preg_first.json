@@ -1,0 +1,81 @@
+{
+ "title": "First pregnancy appointment",
+ "also": [
+  "first prenatal visit",
+  "booking appointment",
+  "first antenatal appointment",
+  "pregnancy confirmation visit"
+ ],
+ "what": "Your first visit to a gynecologist for your pregnancy. The doctor confirms the pregnancy, asks about your health, and makes a care plan.",
+ "why": "As soon as you know you are pregnant. Usually you are advised to register before 12 weeks.",
+ "duration": "the visit usually takes 30 to 60 minutes; test results come in 1 to 7 days",
+ "tell_doctor": [
+  "The first day of your last period",
+  "All the medicines and vitamins you take",
+  "Long-term conditions: blood pressure, thyroid, diabetes",
+  "Past pregnancies, births, miscarriages, and surgeries",
+  "Family conditions and allergies"
+ ],
+ "prepare": [
+  {
+   "title": "Medicines",
+   "text": "Do not stop your regular medicines on your own. Tell your doctor, and they will decide what is safe in pregnancy."
+  },
+  {
+   "title": "Questions",
+   "text": "Write down what you want to ask: diet, work, exercise, vitamins."
+  },
+  {
+   "title": "Tests",
+   "text": "Blood is often taken the same day. Ask if you need to come fasting."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Ultrasound and test results, if you already have them",
+  "A list of your medicines",
+  "Medical reports about long-term conditions"
+ ],
+ "steps": [
+  "The doctor asks about your health and past pregnancies",
+  "Your blood pressure, height, and weight are measured",
+  "A pelvic exam is done, and swabs are taken",
+  "The doctor works out how far along you are and your due date",
+  "You get referrals for tests and an ultrasound",
+  "The doctor explains your visit schedule and what to do if warning signs appear"
+ ],
+ "feel": [
+  "The pelvic exam may be uncomfortable, but it does not hurt",
+  "A prick when blood is taken"
+ ],
+ "after": [
+  "Have your tests done as listed",
+  "The next visit is usually in 2 to 4 weeks. Your doctor will give you a date",
+  "Start the vitamins your doctor prescribed"
+ ],
+ "red_flags": [
+  "Bleeding from the vagina",
+  "Severe pain in the lower belly: call emergency services",
+  "Vomiting many times a day, and you cannot keep even water down"
+ ],
+ "faq": [
+  {
+   "q": "When is it best to register?",
+   "a": "Usually before 12 weeks. That leaves time for important tests and the first screening."
+  },
+  {
+   "q": "Should I take anything in early pregnancy?",
+   "a": "Folic acid is usually prescribed. Anything else only on your doctor's advice."
+  },
+  {
+   "q": "Can I keep working?",
+   "a": "Usually yes. If your job is hazardous or physically hard, talk to your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "First pregnancy appointment tomorrow. Remember the date of your last period, and bring your medicine list."
+  }
+ ]
+}

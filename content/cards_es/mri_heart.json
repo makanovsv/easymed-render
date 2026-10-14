@@ -1,0 +1,81 @@
+{
+ "title": "Resonancia magnética del corazón",
+ "also": [
+  "resonancia cardiaca",
+  "resonancia del corazón con contraste",
+  "cardio-resonancia"
+ ],
+ "what": "Son imágenes del corazón con un campo magnético. Se ve el músculo, las válvulas, las cavidades y cómo se contrae el corazón. Sin radiación.",
+ "why": "Con miocardiopatías, después de una miocarditis o un infarto, con malformaciones de nacimiento, o cuando el ultrasonido del corazón no dio respuesta.",
+ "duration": "normalmente de 45 a 60 minutos; el reporte en 1 a 3 días",
+ "tell_doctor": [
+  "Marcapasos, desfibrilador u otro implante con electrónica",
+  "Metal en el cuerpo: prótesis, placas, grapas en vasos, esquirlas",
+  "Si estás embarazada o podrías estarlo",
+  "Si te dan miedo los lugares cerrados. El médico te dirá cómo ayudarte",
+  "Si tu pulso es irregular. El estudio tardará más",
+  "Enfermedades de los riñones o alergia al medio de contraste"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer algo ligero. Si habrá prueba de esfuerzo con medicamento, hay reglas especiales. Pregunta en la clínica."
+  },
+  {
+   "title": "Café",
+   "text": "Si es con prueba de estrés, normalmente un día antes se evitan café, té y chocolate."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Díselo al médico y él decidirá."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate todo lo de metal: joyas, reloj, pasadores, piercings. Deja el teléfono y las tarjetas en el casillero."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu ultrasonido del corazón, electrocardiogramas y reportes del cardiólogo",
+  "La lista de tus medicamentos",
+  "El análisis de creatinina, si te lo pidieron"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena",
+  "Te pegan electrodos en el pecho",
+  "Te acuestas boca arriba y ponen una bobina sobre el pecho",
+  "Muchas veces te piden aguantar la respiración de 10 a 15 segundos",
+  "El aparato hace golpeteos fuertes. Te dan audífonos",
+  "A la mitad ponen el contraste y toman más imágenes"
+ ],
+ "feel": [
+  "No duele, pero hay ruido y poco espacio",
+  "Aguantar la respiración cansa. Puedes pedir una pausa",
+  "Con el medio de contraste, sensación de frío en la vena"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "Después del medio de contraste toma más agua, salvo que el médico te diga otra cosa",
+  "Lleva el reporte al cardiólogo"
+ ],
+ "red_flags": [
+  "Dolor opresivo en el pecho, falta de aire o desmayo: llama a emergencias de inmediato",
+  "Después del medio de contraste, comezón, ronchas, hinchazón de la cara o dificultad para respirar: avísale de inmediato al personal o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué tarda tanto?",
+   "a": "El corazón se mueve, y las imágenes se toman al ritmo del corazón y de la respiración. Se necesitan muchas series."
+  },
+  {
+   "q": "¿Me pueden hacer resonancia del corazón con marcapasos?",
+   "a": "Solo si es compatible con resonancia y el cardiólogo lo autoriza. Avisa antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu resonancia del corazón. Lleva tu ultrasonido del corazón, electrocardiogramas y lista de medicamentos. Quítate todo lo de metal."
+  }
+ ]
+}

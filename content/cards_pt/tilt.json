@@ -1,0 +1,80 @@
+{
+ "title": "Tilt test (teste de inclinação)",
+ "also": [
+  "tilt test",
+  "teste de inclinação",
+  "teste da mesa inclinada",
+  "exame para desmaios"
+ ],
+ "what": "Você fica deitado numa mesa especial, preso com cintos. A mesa é levantada quase na vertical, e o médico acompanha a pressão e o pulso.",
+ "why": "Com desmaios repetidos ou sensação de que vai desmaiar, para descobrir a causa.",
+ "duration": "normalmente de 30 a 60 minutos, às vezes até 90. O laudo normalmente sai no mesmo dia",
+ "tell_doctor": [
+  "Como são os seus desmaios: quando, com que frequência, o que vem antes",
+  "Todos os remédios, principalmente de pressão e do coração",
+  "Doenças do coração",
+  "Se está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente sem comer de 2 a 4 horas antes do teste. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Alguns remédios às vezes são pausados. Não suspenda por conta própria. Pergunte ao médico antes."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "É melhor ir com alguém. Depois do teste, pode ficar uma fraqueza."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, sem cinto apertado."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Eletrocardiogramas, Holter e ecocardiogramas anteriores",
+  "Lista de remédios",
+  "Acompanhante"
+ ],
+ "steps": [
+  "Você se deita na mesa e prendem você com cintos",
+  "Colocam eletrodos de eletrocardiograma e o manguito de pressão, às vezes um cateter na veia",
+  "Primeiro você fica deitado tranquilo por alguns minutos",
+  "A mesa sobe devagar até ficar quase na vertical",
+  "Você fica em pé na mesa, sem se mexer, e o médico acompanha a pressão e o pulso",
+  "Às vezes dão um remédio embaixo da língua e observam mais um tempo",
+  "Se você passar mal, a mesa desce na hora"
+ ],
+ "feel": [
+  "Pode ser chato ficar parado",
+  "Pode vir fraqueza, enjoo e suor, como antes de um desmaio. Avise o médico",
+  "Às vezes a pessoa desmaia. Isso é esperado. A mesa desce, e você volta a si rápido"
+ ],
+ "after": [
+  "Fique deitado e descanse até se sentir melhor",
+  "No dia do teste, é melhor não dirigir",
+  "O laudo normalmente sai no mesmo dia"
+ ],
+ "red_flags": [
+  "Dor no peito, falhas fortes no ritmo do coração ou desmaios repetidos em casa: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "E se eu desmaiar?",
+   "a": "Você está preso, e a mesa desce na hora. Normalmente você volta a si em segundos, com o médico ao lado."
+  },
+  {
+   "q": "Por que provocar um desmaio de propósito?",
+   "a": "Para ver o que acontece com a pressão e o pulso nesse momento. Assim é mais fácil entender a causa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem tilt test. Fique sem comer no horário que a clínica indicou. Vá com um acompanhante."
+  }
+ ]
+}

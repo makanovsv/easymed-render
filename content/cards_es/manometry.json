@@ -1,0 +1,73 @@
+{
+ "title": "Manometría esofágica",
+ "also": [
+  "manometría esofágica",
+  "manometría de alta resolución",
+  "estudio de motilidad esofágica",
+  "manometría del esófago"
+ ],
+ "what": "Por la nariz meten hasta el esófago una sonda delgada con sensores. Das tragos de agua y el aparato mide cómo trabajan los músculos del esófago.",
+ "why": "Con dificultad para tragar, dolor de pecho sin causa clara, antes de una cirugía para el reflujo, o antes de una pH-metría.",
+ "duration": "normalmente de 20 a 30 minutos; el reporte suele tardar varios días",
+ "tell_doctor": [
+  "Todos tus medicamentos. Algunos cambian cómo trabaja el esófago, y el médico te dirá qué hacer con ellos",
+  "Cirugías del esófago o del estómago",
+  "Problemas de la nariz o tabique desviado",
+  "Medicamentos que hacen la sangre más líquida"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no comas ni bebas 6 horas antes. Pregunta en la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los dejes por tu cuenta. Pregunta antes al médico cuáles saltarte."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, sin cuello apretado."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus reportes de endoscopia anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te ponen un gel anestésico en la nariz",
+  "Meten la sonda delgada por la nariz mientras tragas",
+  "Te acuestas o te sientas y respiras tranquilo",
+  "Cuando te digan, das traguitos de agua, normalmente unos diez",
+  "Durante el registro no hables ni tragues de más",
+  "Retiran la sonda en unos segundos"
+ ],
+ "feel": [
+  "Meter la sonda es molesto: lloran los ojos y puede dar arcada",
+  "Al tragar se siente raro, pero no duele"
+ ],
+ "after": [
+  "Puedes comer y beber de inmediato",
+  "La nariz puede arder un poco",
+  "El reporte suele tardar varios días"
+ ],
+ "red_flags": [
+  "Sangrado de nariz que no para o dolor fuerte de pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es como una endoscopia?",
+   "a": "No. La sonda es más delgada, entra por la nariz y no muestra imágenes en una pantalla. Solo mide la presión."
+  },
+  {
+   "q": "¿Por qué se hace antes de la pH-metría?",
+   "a": "La manometría ayuda a encontrar el lugar exacto donde poner el sensor de la pH-metría."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu manometría esofágica. No comas ni bebas desde la hora que te dijo la clínica. Lleva la lista de tus medicamentos."
+  }
+ ]
+}

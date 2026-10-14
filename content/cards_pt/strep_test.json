@@ -1,0 +1,68 @@
+{
+ "title": "Teste rápido para estreptococo (amigdalite)",
+ "also": [
+  "teste de estreptococo",
+  "teste rápido de garganta",
+  "strep test",
+  "swab de garganta"
+ ],
+ "what": "Colhem material da garganta com uma haste de algodão. Em poucos minutos, o teste mostra se há estreptococo, um micróbio que muitas vezes causa amigdalite.",
+ "why": "Com dor de garganta, febre e placas nas amígdalas, para saber se precisa de antibiótico.",
+ "duration": "a coleta leva alguns segundos, o resultado sai normalmente em 5 a 15 minutos",
+ "tell_doctor": [
+  "Se já começou a tomar antibiótico",
+  "Se gargarejou com antisséptico há pouco tempo",
+  "Se você tem ânsia de vômito com facilidade"
+ ],
+ "prepare": [
+  {
+   "title": "Comida e bebida",
+   "text": "Normalmente, de 1 a 2 horas antes da coleta, não coma nem beba. Confirme com a clínica."
+  },
+  {
+   "title": "Garganta",
+   "text": "De manhã, não gargareje e não use sprays ou pastilhas para dor de garganta."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que já tomou. Ele decide."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Documento com foto"
+ ],
+ "steps": [
+  "Você se senta e abre bem a boca",
+  "Seguram a língua com uma espátula",
+  "Passam a haste rápido nas amígdalas e no fundo da garganta",
+  "A haste vai para um líquido, e fazem o teste",
+  "Em poucos minutos, o resultado aparece na tira"
+ ],
+ "feel": [
+  "Pode dar ânsia de vômito por um segundo",
+  "É desagradável, mas não dói"
+ ],
+ "after": [
+  "Normalmente o resultado sai na hora",
+  "Se o teste der positivo, o médico decide se precisa de antibiótico",
+  "Se der negativo, mas houver sinais de amigdalite, às vezes fazem também uma cultura"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Se o teste der negativo, não é amigdalite?",
+   "a": "Nem sempre. A dor de garganta muitas vezes é causada por vírus. Se ficar dúvida, o médico pode pedir cultura."
+  },
+  {
+   "q": "Para que o teste, se dá para ver a amigdalite?",
+   "a": "Pelo aspecto da garganta é difícil diferenciar estreptococo de vírus. O teste ajuda a não tomar antibiótico à toa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco você faz o teste de garganta. De 1 a 2 horas antes, não coma, não beba e não gargareje, salvo orientação diferente da clínica."
+  }
+ ]
+}

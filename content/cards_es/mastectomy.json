@@ -1,0 +1,84 @@
+{
+ "title": "Mastectomía",
+ "also": [
+  "mastectomía",
+  "quitar el seno",
+  "cirugía de cáncer de mama",
+  "mastectomía radical"
+ ],
+ "what": "El cirujano quita todo el seno. Muchas veces también quita algunos ganglios de la axila.",
+ "why": "Casi siempre por cáncer de mama. A veces para prevenir, en mujeres con riesgo hereditario alto.",
+ "duration": "la cirugía suele durar de 1 hora y media a 3 horas; en el hospital normalmente varios días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si quieres reconstrucción del seno; a veces se hace en la misma cirugía",
+  "Lo que te preocupa. Puedes pedir una cita con el psicólogo"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Plática",
+   "text": "Pregúntale antes al cirujano sobre los drenajes, la reconstrucción y la prótesis. Así estarás más tranquila."
+  }
+ ],
+ "bring": [
+  "Todos los resultados de estudios y de la biopsia",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Un suéter o camisa con botones"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "El anestesiólogo te pone la anestesia",
+  "El cirujano quita el seno y, si hace falta, los ganglios",
+  "Pone en la herida un tubo delgado, un drenaje, para que salga el líquido",
+  "Cierra la herida y pone un vendaje"
+ ],
+ "feel": [
+  "Dolor y tirantez en el pecho y la axila. Te dan analgésicos",
+  "La piel del pecho y del hombro se siente dormida; muchas veces dura bastante tiempo",
+  "Es difícil y emocional. Ayuda el apoyo de tu familia y del psicólogo"
+ ],
+ "after": [
+  "El drenaje normalmente se quita en unos días, según cuánto líquido salga",
+  "Los ejercicios del brazo se empiezan según el plan del médico",
+  "En el brazo del lado operado cuídate de cortaduras y de puños apretados; el médico te explicará",
+  "El estudio de patología define el tratamiento que sigue",
+  "Puedes elegir una prótesis de seno temporal y luego una definitiva"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38, o enrojecimiento y pus en la herida",
+  "Se juntó líquido bajo la piel y la zona se hinchó mucho",
+  "El brazo del lado operado se hinchó mucho",
+  "Dolor en la pantorrilla, falta de aire o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede reconstruir el seno?",
+   "a": "Sí. A veces en la misma cirugía, a veces después. Las opciones se platican con el cirujano."
+  },
+  {
+   "q": "¿Por qué se hincha el brazo?",
+   "a": "Por quitar los ganglios. Los ejercicios y cuidar el brazo bajan el riesgo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Lleva los resultados de tus estudios y ropa con botones. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

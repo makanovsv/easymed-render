@@ -1,0 +1,76 @@
+{
+ "title": "Retirada de corpo estranho (farpa, anzol)",
+ "also": [
+  "tirar farpa",
+  "tirar anzol",
+  "corpo estranho na pele",
+  "retirada de caco"
+ ],
+ "what": "O médico tira da pele o que entrou nela: farpa, caco de vidro, anzol. Se precisar, o local é anestesiado.",
+ "why": "Quando o objeto está fundo, não sai em casa, está perto do olho ou no rosto, ou o local inflamou.",
+ "duration": "normalmente de 10 a 30 minutos",
+ "tell_doctor": [
+  "O que exatamente entrou na pele e quando",
+  "Quando você tomou vacina contra tétano",
+  "Alergia a anestésicos e antissépticos",
+  "Diabetes",
+  "Remédios que afinam o sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Não puxe sozinho",
+   "text": "Anzol com farpa e caco fundo é melhor não tirar em casa. A ferida pode ficar maior."
+  },
+  {
+   "title": "Antes da consulta",
+   "text": "Não mexa no local. Pode cobrir com um curativo limpo. Se o objeto for grande, prenda para ele não se mexer."
+  },
+  {
+   "title": "Olho",
+   "text": "Se algo entrou no olho, não esfregue e procure o médico na hora."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Dados da vacina contra tétano, se tiver"
+ ],
+ "steps": [
+  "O médico examina o local e decide como tirar o objeto",
+  "Às vezes fazem raio-X ou ultrassom para achar o caco",
+  "Limpam a pele com antisséptico",
+  "Se precisar, aplicam anestesia",
+  "O objeto é retirado com cuidado com um instrumento",
+  "Lavam a ferida e fazem um curativo"
+ ],
+ "feel": [
+  "A injeção de anestesia arde rápido",
+  "Depois, você sente pressão, mas não dor",
+  "Depois do procedimento, o local pode doer um pouco"
+ ],
+ "after": [
+  "Mantenha a ferida limpa e seca nas primeiras 24 horas",
+  "Troque o curativo como o médico orientar",
+  "Às vezes o médico indica a vacina contra tétano"
+ ],
+ "red_flags": [
+  "A vermelhidão se espalha, o local fica quente e dói cada vez mais",
+  "Sai pus da ferida ou aparece febre",
+  "O dedo ou a mão ficaram dormentes ou se mexem mal"
+ ],
+ "faq": [
+  {
+   "q": "Posso tirar o anzol sozinho?",
+   "a": "Uma farpa pequena na superfície, sim. Anzol com farpa é melhor deixar com o médico, para não rasgar o tecido."
+  },
+  {
+   "q": "Preciso de vacina contra tétano?",
+   "a": "Depende de quando você tomou a última. O médico pergunta e decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Daqui a pouco é a consulta. Não tente tirar o objeto sozinho e mantenha o local limpo."
+  }
+ ]
+}

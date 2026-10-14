@@ -1,0 +1,84 @@
+{
+ "title": "Litotricia láser por ureteroscopía",
+ "also": [
+  "ureteroscopía",
+  "litotricia láser",
+  "romper piedras del riñón con láser",
+  "cálculos en el uréter"
+ ],
+ "what": "Por la uretra, el cirujano lleva un tubo delgado con cámara hasta la piedra y la rompe con láser. No hay cortes en la piel.",
+ "why": "Cuando una piedra en el uréter o en el riñón no sale sola, da dolor o no deja salir la orina.",
+ "duration": "la cirugía suele durar de 30 a 90 minutos; en el hospital normalmente de 1 a 3 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Tus alergias, también al medio de contraste",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si tienes fiebre o infección de orina",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre y orina, ultrasonido o tomografía de los riñones. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Normalmente con anestesia general o raquídea. El anestesiólogo platicará contigo cuál conviene."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda, pantuflas, el cargador y tus medicamentos de siempre."
+  }
+ ],
+ "bring": [
+  "La orden médica y las imágenes de tomografía o ultrasonido",
+  "Los análisis",
+  "Tus documentos y la lista de medicamentos",
+  "Tus cosas para el hospital para 1 a 3 días"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "Te ponen la anestesia",
+  "El cirujano mete por la uretra un instrumento delgado con cámara",
+  "Encuentra la piedra y la rompe con láser",
+  "Saca los pedazos o saldrán con la orina",
+  "Muchas veces pone un tubito temporal, el catéter doble J, del riñón a la vejiga"
+ ],
+ "feel": [
+  "Ardor y muchas ganas de orinar los primeros días",
+  "Un poco de sangre en la orina",
+  "Si tienes el catéter doble J, dolor sordo en el costado al orinar"
+ ],
+ "after": [
+  "Toma mucha agua, si el médico no te dijo otra cosa",
+  "El catéter doble J se quita en la fecha que diga el médico. No faltes",
+  "Pueden salir piedritas con la orina; a veces piden juntarlas para analizarlas",
+  "El médico te dirá cómo comer para que no se vuelvan a formar piedras"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 o escalofríos",
+  "Dolor fuerte en el costado que no se quita con el analgésico",
+  "No puedes orinar",
+  "La orina sale roja brillante o con coágulos"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo olvidarme del catéter doble J?",
+   "a": "No. Hay que quitarlo en la fecha que diga el médico. Apunta la fecha."
+  },
+  {
+   "q": "¿Las piedras van a volver?",
+   "a": "A veces regresan. El médico puede pedir un análisis de la piedra y darte consejos de comida y de cuánta agua tomar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu litotricia. Junta tus imágenes, documentos y cosas. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

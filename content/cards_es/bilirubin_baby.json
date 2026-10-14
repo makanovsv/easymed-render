@@ -1,0 +1,72 @@
+{
+ "title": "Bilirrubina en el recién nacido",
+ "also": [
+  "bilirrubina neonatal",
+  "prueba de ictericia",
+  "bebé amarillo",
+  "bilirrubinómetro de piel"
+ ],
+ "what": "Miden la bilirrubina, la sustancia que pone amarilla la piel del bebé. Muchas veces primero ponen un aparato en la piel, y si hace falta toman sangre.",
+ "why": "Cuando el recién nacido se ve amarillo, para saber si se le quitará solo o si necesita la lámpara.",
+ "duration": "el aparato en la piel toma unos segundos y la sangre unos minutos; el resultado suele estar el mismo día",
+ "tell_doctor": [
+  "Cuántos días tiene el bebé y si nació a tiempo",
+  "Cómo come y cuántos pañales mojados hace al día",
+  "De qué color son las heces y la orina",
+  "Tu tipo de sangre y factor Rh, si lo sabes"
+ ],
+ "prepare": [
+  {
+   "title": "Alimentación",
+   "text": "Dale de comer al bebé como siempre. No hace falta preparación especial."
+  },
+  {
+   "title": "Calor",
+   "text": "Ponle calcetines. Del talón calientito la sangre sale más rápido."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda y fácil de abrir. El aparato se pone en la frente o en el pecho."
+  }
+ ],
+ "bring": [
+  "Los documentos del bebé",
+  "La orden médica, si la tienes",
+  "El resumen de alta del hospital"
+ ],
+ "steps": [
+  "La enfermera pone el aparato en la frente o el pecho del bebé",
+  "En un segundo el aparato muestra el nivel aproximado",
+  "Si hace falta el nivel exacto, toman una gota de sangre del talón o de la vena",
+  "Presionan un algodón en el lugar del piquete"
+ ],
+ "feel": [
+  "El bebé no siente el aparato",
+  "El piquete es breve. El bebé puede llorar. Dale pecho o abrázalo"
+ ],
+ "after": [
+  "El resultado suele estar el mismo día",
+  "Si la bilirrubina está alta, el médico puede indicar la lámpara, o fototerapia",
+  "Muchas veces la prueba se repite en uno o dos días"
+ ],
+ "red_flags": [
+  "El bebé está muy decaído, come mal o cuesta despertarlo: ve al médico de urgencia",
+  "El amarillo aumenta, las heces son claras o la orina oscura: llévalo al médico el mismo día"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligroso que el recién nacido esté amarillo?",
+   "a": "Casi siempre es normal y se quita solo en 1 a 2 semanas. La prueba sirve para no pasar por alto un nivel alto."
+  },
+  {
+   "q": "¿Ayuda ponerlo al sol?",
+   "a": "No se recomienda poner al bebé al sol. Se puede sobrecalentar o quemar. El tratamiento lo indica el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es la revisión de bilirrubina del bebé. Ponle calcetines y lleva el resumen de alta del hospital."
+  }
+ ]
+}

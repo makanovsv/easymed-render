@@ -1,0 +1,84 @@
+{
+ "title": "Extirpación del riñón",
+ "also": [
+  "nefrectomía",
+  "nefrectomía parcial",
+  "nefrectomía laparoscópica",
+  "cirugía de riñón"
+ ],
+ "what": "El cirujano quita todo el riñón o solo la parte con el tumor. Muchas veces por orificios, a veces por un corte.",
+ "why": "Casi siempre por un tumor del riñón. A veces, si el riñón ya no funciona y da problemas.",
+ "duration": "la cirugía suele durar de 2 a 4 horas; en el hospital normalmente de 3 a 7 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Presión alta, diabetes o enfermedades del corazón",
+  "Cómo funciona el otro riñón. El médico lo revisará con análisis",
+  "Medicamentos que dañan los riñones; el médico te dirá cuáles"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Análisis de los riñones",
+   "text": "Antes de la cirugía revisan cómo funcionan los dos riñones, normalmente con análisis de sangre y tomografía."
+  }
+ ],
+ "bring": [
+  "Los resultados de la tomografía y los análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "El anestesiólogo te pone la anestesia",
+  "Te ponen una sonda en la vejiga",
+  "Te acuestan de lado",
+  "El cirujano quita el riñón o una parte",
+  "Cierra la herida; a veces pone un drenaje"
+ ],
+ "feel": [
+  "Dolor en el costado y en las heridas. Te dan analgésicos",
+  "La sonda en la vejiga molesta; se quita en 1 o 2 días",
+  "Debilidad los primeros días"
+ ],
+ "after": [
+  "Normalmente te levantas y caminas el primer día",
+  "Toma agua como te diga el médico",
+  "No cargues cosas pesadas por unas semanas",
+  "Hazte análisis del riñón con regularidad",
+  "El resultado de patología suele estar en 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Sangre en la orina con coágulos grandes, u orinas muy poco",
+  "Fiebre de más de 38 o dolor fuerte en el costado",
+  "Dolor en la pantorrilla, falta de aire o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede vivir con un solo riñón?",
+   "a": "Sí. Un riñón sano puede con el trabajo. Es importante revisar la presión y los análisis."
+  },
+  {
+   "q": "¿Necesito una dieta?",
+   "a": "Normalmente no hay una especial. El médico puede recomendarte menos sal y evitar algunos analgésicos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de riñón. Lleva la tomografía y los análisis. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

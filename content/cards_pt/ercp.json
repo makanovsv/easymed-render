@@ -1,0 +1,89 @@
+{
+ "title": "CPRE (colangiopancreatografia endoscópica)",
+ "also": [
+  "CPRE",
+  "colangiopancreatografia retrógrada endoscópica",
+  "endoscopia das vias biliares"
+ ],
+ "what": "Um tubo flexível com câmera entra pela boca até o intestino. Por ele, colocam contraste nos canais do fígado e do pâncreas e fazem radiografias. Na hora, dá para tirar pedras ou colocar um tubinho, o stent.",
+ "why": "Com pedra no canal da bile, icterícia por entupimento do canal, estreitamento dos canais ou para trocar o stent.",
+ "duration": "o procedimento em si leva normalmente de 30 a 90 minutos. Normalmente é preciso ficar internado pelo menos um dia",
+ "tell_doctor": [
+  "Remédios que afinam o sangue. Muitas vezes precisam ser ajustados, quem decide é o médico",
+  "Alergia a iodo, contraste ou remédios",
+  "Diabetes: os remédios e o jejum vão precisar de ajuste",
+  "Doenças do coração, dos pulmões e dos rins",
+  "Se fez cirurgia no estômago",
+  "Se você está grávida ou pode estar"
+ ],
+ "prepare": [
+  {
+   "title": "Jejum",
+   "text": "Normalmente sem comer de 6 a 8 horas e sem beber de 2 a 4 horas antes. O horário exato quem diz é o médico."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Fale com o médico, ele decide o que tomar e quando."
+  },
+  {
+   "title": "Exames",
+   "text": "Normalmente são precisos exames de sangue e de coagulação. A lista, a clínica entrega."
+  },
+  {
+   "title": "Consentimento",
+   "text": "Vão explicar o procedimento, os riscos e a sedação. Tire todas as dúvidas antes de assinar."
+  }
+ ],
+ "bring": [
+  "Pedido médico e relatórios",
+  "Resultados de ultrassom, tomografia ou ressonância",
+  "Lista dos seus remédios",
+  "Coisas para 1 a 2 dias no hospital"
+ ],
+ "steps": [
+  "Colocam um cateter na veia",
+  "Passam spray na garganta e colocam um protetor na boca",
+  "Aplicam o remédio, e você dorme ou cochila",
+  "Normalmente você fica deitado de barriga para baixo",
+  "O médico leva o tubo pela boca até o intestino e encontra a saída do canal",
+  "Colocam o contraste e fazem radiografias",
+  "Se precisar, tiram pedras ou colocam um stent"
+ ],
+ "feel": [
+  "Durante o procedimento, você normalmente está dormindo e não sente nada",
+  "Depois, a garganta pode doer e a barriga ficar estufada",
+  "Por um tempo, você vai ficar sonolento"
+ ],
+ "after": [
+  "Você fica em observação médica",
+  "Comer e beber, só quando o médico liberar. Normalmente não é logo",
+  "Depois da sedação, não dirija nesse dia",
+  "O médico explica o resultado depois do procedimento"
+ ],
+ "red_flags": [
+  "Dor forte na barriga ou nas costas: avise o médico na hora. Em casa, ligue para a emergência",
+  "Vômito com sangue, fezes pretas: ligue para a emergência",
+  "Febre acima de 38 graus, calafrios, pele amarelando: ligue para o médico ou para a emergência",
+  "Dificuldade para respirar ou dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "É uma cirurgia?",
+   "a": "É um procedimento por endoscopia, sem cortes. Mas é mais complexo que uma endoscopia comum, por isso você fica em observação no hospital."
+  },
+  {
+   "q": "Qual é o principal risco?",
+   "a": "O mais comum é uma inflamação do pâncreas depois do procedimento. Por isso o médico acompanha a dor e os exames."
+  },
+  {
+   "q": "Vou precisar trocar o stent?",
+   "a": "Se colocaram um stent, o médico diz se e quando ele precisa ser retirado ou trocado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a CPRE. Confira o horário a partir do qual não pode comer nem beber e separe as coisas para o hospital."
+  }
+ ]
+}

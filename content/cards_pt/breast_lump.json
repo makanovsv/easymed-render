@@ -1,0 +1,82 @@
+{
+ "title": "Setorectomia de mama",
+ "also": [
+  "retirada de nódulo na mama",
+  "retirada de fibroadenoma",
+  "setorectomia",
+  "nodulectomia"
+ ],
+ "what": "O cirurgião retira o nódulo da mama junto com uma pequena parte do tecido. O tecido vai para biópsia.",
+ "why": "Quando foi encontrado na mama um nódulo que precisa ser retirado ou analisado com precisão no microscópio.",
+ "duration": "a cirurgia leva normalmente de 30 a 60 minutos, e muitas vezes a alta é no mesmo dia ou no seguinte",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Gravidez ou amamentação",
+  "Se já operou as mamas",
+  "Se o nódulo é difícil de sentir. Antes da cirurgia ele pode ser marcado"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Marcação",
+   "text": "Se o nódulo for pequeno, na véspera ou de manhã ele pode ser marcado guiado por ultrassom ou mamografia."
+  }
+ ],
+ "bring": [
+  "Mamografia, ultrassom, resultado da biópsia",
+  "Documentos",
+  "Lista de remédios",
+  "Um sutiã confortável sem aro"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "O anestesista aplica anestesia geral, ou fazem anestesia local",
+  "O cirurgião faz um corte, muitas vezes na borda da aréola ou numa dobra",
+  "Retira o nódulo com uma pequena parte do tecido",
+  "O corte é fechado com sutura estética",
+  "Fazem o curativo"
+ ],
+ "feel": [
+  "A mama dói um pouco por alguns dias. Dão analgésico",
+  "Pode haver roxo e um endurecimento no local dos pontos",
+  "Ficar ansiosa pelo resultado é normal. Pergunte quando ele sai"
+ ],
+ "after": [
+  "Um sutiã confortável que sustente diminui a dor",
+  "Não molhe o curativo até liberarem",
+  "A biópsia normalmente fica pronta em 1 a 2 semanas",
+  "O resultado, o médico explica na consulta"
+ ],
+ "red_flags": [
+  "A mama aumentou muito, ficou tensa e roxa",
+  "Febre acima de 38 graus, vermelhidão e pus na ferida"
+ ],
+ "faq": [
+  {
+   "q": "A forma da mama vai mudar?",
+   "a": "Normalmente pouco. O cirurgião tenta preservar a forma e esconder a cicatriz."
+  },
+  {
+   "q": "Se vou operar, é câncer?",
+   "a": "Não. Muitas vezes os nódulos são benignos. A resposta vem da biópsia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia na mama. Leve os exames de imagem e um sutiã confortável. Comida e água, só até o horário da clínica."
+  }
+ ]
+}

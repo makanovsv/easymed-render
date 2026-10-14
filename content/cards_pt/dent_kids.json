@@ -1,0 +1,71 @@
+{
+ "title": "Primeira consulta da criança no dentista",
+ "also": [
+  "primeira consulta no dentista",
+  "odontopediatra",
+  "dentista infantil",
+  "consulta de dente do bebê"
+ ],
+ "what": "O odontopediatra apresenta o consultório para a criança e examina os dentes. Normalmente não se trata nada. O principal é a criança não se assustar.",
+ "why": "Normalmente se recomenda ir quando nasce o primeiro dente, e no máximo com 1 ano. Depois, para prevenção, a cada 6 meses.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Como a criança escova os dentes e quem ajuda",
+  "Se a criança toma leite, fórmula ou suco à noite",
+  "Alergias e doenças da criança",
+  "Se a criança tem medo de médico ou sente alguma dor"
+ ],
+ "prepare": [
+  {
+   "title": "Conversa",
+   "text": "Conte para a criança com calma que o dentista vai contar os dentinhos. Não assuste e não prometa que não vai doer nada."
+  },
+  {
+   "title": "Horário",
+   "text": "Escolha um horário em que a criança dormiu bem e não está com fome."
+  },
+  {
+   "title": "Você",
+   "text": "A criança sente o seu humor. Fique calmo."
+  }
+ ],
+ "bring": [
+  "Documento da criança",
+  "Brinquedo preferido",
+  "Escova de dente da criança, se quiser conferir a escovação"
+ ],
+ "steps": [
+  "O dentista conhece a criança e mostra os instrumentos",
+  "A criança pequena é examinada no seu colo",
+  "O dentista conta os dentinhos e olha a gengiva",
+  "Mostra para você como escovar os dentes do jeito certo",
+  "Indica a pasta e orienta sobre a alimentação",
+  "Marca a próxima consulta"
+ ],
+ "feel": [
+  "Não dói para a criança",
+  "O bebê pode chorar. É normal e não atrapalha o exame"
+ ],
+ "after": [
+  "Elogie a criança pela consulta",
+  "Escove os dentes da criança 2 vezes por dia",
+  "Volte a cada 6 meses ou como o dentista indicar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que tratar dente de leite, se ele vai cair?",
+   "a": "Dentes de leite com cárie doem e podem prejudicar os dentes permanentes que estão crescendo embaixo."
+  },
+  {
+   "q": "E se a criança chorar?",
+   "a": "É normal. O dentista tem experiência e sabe como ajudar. O principal é você ficar calmo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a primeira consulta no dentista. A criança deve estar descansada e alimentada. Leve o brinquedo preferido."
+  }
+ ]
+}

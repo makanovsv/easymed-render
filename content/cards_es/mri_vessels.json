@@ -1,0 +1,70 @@
+{
+ "title": "Angiorresonancia de vasos cerebrales",
+ "also": [
+  "angiorresonancia cerebral",
+  "angio-RM de cerebro",
+  "resonancia de vasos de la cabeza"
+ ],
+ "what": "Es una resonancia que muestra los vasos del cerebro. Muchas veces se hace sin medio de contraste. Sin radiación.",
+ "why": "Si se sospecha un aneurisma o estrechamiento de los vasos, con dolores de cabeza y mareos frecuentes, o después de un derrame cerebral.",
+ "duration": "normalmente de 15 a 30 minutos; el reporte en 1 a 2 días",
+ "tell_doctor": [
+  "Marcapasos, desfibrilador u otro implante con electrónica",
+  "Metal en el cuerpo: prótesis, placas, grapas en vasos, esquirlas",
+  "Si estás embarazada o podrías estarlo",
+  "Si te dan miedo los lugares cerrados. El médico te dirá cómo ayudarte",
+  "Grapas en vasos después de una cirugía del cerebro: avísalo siempre"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Sin contraste normalmente no hace falta. Puedes comer y beber."
+  },
+  {
+   "title": "Contraste",
+   "text": "Si es con medio de contraste, a veces piden un análisis de creatinina. Normalmente no comas de 2 a 4 horas antes. Pregunta en la clínica."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate todo lo de metal: joyas, reloj, pasadores, piercings. Deja el teléfono y las tarjetas en el casillero."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus resonancias y tomografías de cabeza anteriores"
+ ],
+ "steps": [
+  "Te cambias de ropa y dejas todo lo de metal en el casillero",
+  "Te acuestas boca arriba y pones la cabeza en una bobina como un casco",
+  "El aparato hace golpeteos fuertes. Te dan audífonos o tapones",
+  "Tienes que estar sin moverte. Te hablan por un intercomunicador",
+  "En la mano tienes un botón para llamar al personal cuando quieras"
+ ],
+ "feel": [
+  "No duele, pero hay ruido y poco espacio",
+  "A veces se siente calor en la zona del estudio. Es normal"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "Lleva el reporte al neurólogo"
+ ],
+ "red_flags": [
+  "Dolor de cabeza repentino y muy fuerte, debilidad en un brazo o una pierna, la cara chueca o dificultad para hablar: llama a emergencias de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Hace falta contraste para los vasos?",
+   "a": "Muchas veces no. Los vasos se ven sin él. A veces se agrega según lo que se busque."
+  },
+  {
+   "q": "¿Es lo mismo que una resonancia del cerebro?",
+   "a": "No. La resonancia del cerebro ve el tejido, y la angiorresonancia los vasos. Muchas veces se hacen juntas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu angiorresonancia de vasos cerebrales. Quítate todo lo de metal y lleva tus estudios anteriores."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Exame para doença celíaca",
+ "also": [
+  "doença celíaca",
+  "antitransglutaminase",
+  "anti-tTG",
+  "intolerância ao glúten"
+ ],
+ "what": "É um exame de sangue colhido da veia. Procura anticorpos que aparecem quando o intestino não tolera o glúten.",
+ "why": "Com diarreia frequente, barriga inchada, perda de peso, anemia, atraso no crescimento em crianças ou doença celíaca na família.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Se você já tirou da dieta o pão e outros alimentos com glúten",
+  "Quais remédios você toma, principalmente corticoides",
+  "Se alguém da família tem doença celíaca"
+ ],
+ "prepare": [
+  {
+   "title": "Glúten",
+   "text": "O principal: até o exame, continue comendo pão, macarrão e outros alimentos com trigo. Sem glúten, o exame pode dar falso normal."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente é melhor fazer de manhã em jejum. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma. Ele decide se algo precisa mudar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos, sem dobrar o braço",
+  "Você já pode comer e voltar à rotina",
+  "Não comece uma dieta sem glúten antes de falar com o médico",
+  "O resultado sai normalmente em alguns dias. O prazo quem informa é o laboratório"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso tirar o glúten antes do exame?",
+   "a": "Não. Pelo contrário, coma normalmente. Se não, o exame pode não mostrar nada."
+  },
+  {
+   "q": "Se o exame der positivo, o que acontece?",
+   "a": "Normalmente o médico pede uma endoscopia com biópsia para confirmar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame para doença celíaca. Coma normalmente, não tire o glúten. De manhã, é melhor ir em jejum."
+  }
+ ]
+}

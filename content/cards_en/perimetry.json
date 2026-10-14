@@ -1,0 +1,67 @@
+{
+ "title": "Visual field test",
+ "also": [
+  "visual field test",
+  "perimetry",
+  "peripheral vision test",
+  "automated perimetry"
+ ],
+ "what": "A machine checks how wide you can see to the sides. You look at the center and press a button when you notice a flash.",
+ "why": "For glaucoma or suspected glaucoma, retina and nerve conditions, and after injuries.",
+ "duration": "usually 10 to 30 minutes for both eyes; results are often ready right away",
+ "tell_doctor": [
+  "If you have glaucoma or it is suspected",
+  "If you had this test before",
+  "What eye drops and medicines you use",
+  "If you wear glasses"
+ ],
+ "prepare": [
+  {
+   "title": "Rest",
+   "text": "Get a good night's sleep. Focus matters for an accurate result."
+  },
+  {
+   "title": "Glasses",
+   "text": "Bring your glasses, especially reading glasses."
+  }
+ ],
+ "bring": [
+  "Your glasses",
+  "Past results",
+  "Your ID"
+ ],
+ "steps": [
+  "One eye is covered with a patch",
+  "You rest your chin on a stand and look at a center point",
+  "Faint flashes appear in different places",
+  "When you see a flash, you press the button",
+  "Do not search for flashes with your eyes. Keep looking at the center",
+  "Then the same is done for the other eye"
+ ],
+ "feel": [
+  "It does not hurt",
+  "It can be tiring and dull. You can ask for a break",
+  "You will miss some flashes. That is how the test works"
+ ],
+ "after": [
+  "No restrictions",
+  "The doctor will compare the result with past ones and tell you what is next"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "I missed a lot of flashes. Is that bad?",
+   "a": "Not necessarily. The machine also shows very faint flashes on purpose."
+  },
+  {
+   "q": "Why repeat this test?",
+   "a": "To see if your vision changes over time, especially with glaucoma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Visual field test tomorrow. Get a good night's sleep and bring your glasses."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Consulta pré-anestésica",
+ "also": [
+  "consulta pré-anestésica",
+  "avaliação pré-operatória",
+  "consulta com anestesista"
+ ],
+ "what": "O anestesista conhece você, pergunta sobre sua saúde e escolhe a anestesia mais segura para a cirurgia.",
+ "why": "Antes de qualquer cirurgia ou procedimento com anestesia geral, sedação ou raquianestesia.",
+ "duration": "normalmente de 15 a 30 minutos; às vezes alguns dias antes, às vezes na véspera ou no dia da cirurgia",
+ "tell_doctor": [
+  "Todos os remédios, incluindo vitaminas e ervas",
+  "Alergias",
+  "Doenças do coração, dos pulmões, dos rins, diabetes",
+  "Ronco, pausas na respiração durante o sono",
+  "Como foram anestesias anteriores, suas e da família",
+  "Dentaduras, coroas, dentes moles"
+ ],
+ "prepare": [
+  {
+   "title": "Lista",
+   "text": "Anote antes os remédios com as doses e suas perguntas."
+  },
+  {
+   "title": "Documentos",
+   "text": "Junte exames, eletrocardiograma, laudos e pareceres de outros médicos."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Pergunte qual será a anestesia, quando parar de comer e o que fazer com os remédios de manhã."
+  }
+ ],
+ "bring": [
+  "Exames e eletrocardiograma",
+  "Laudos e pareceres médicos",
+  "Lista de remédios",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "O anestesista pergunta sobre sua saúde e cirurgias anteriores",
+  "Ausculta o coração e os pulmões, mede a pressão",
+  "Olha a boca e o pescoço, para avaliar a respiração durante o sono",
+  "Analisa os exames, às vezes pede outros",
+  "Propõe o tipo de anestesia e explica os riscos",
+  "Diz quando parar de comer e beber e o que fazer com os remédios",
+  "Você assina o termo de consentimento da anestesia"
+ ],
+ "feel": [
+  "É só uma conversa e um exame rápido, sem dor",
+  "Ficar nervoso é normal. Pergunte tudo o que preocupa"
+ ],
+ "after": [
+  "Anote o horário depois do qual não pode comer nem beber",
+  "Faça com os remédios só o que o médico disse",
+  "Se ficar doente antes da cirurgia, ligue para a clínica"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso escolher o tipo de anestesia?",
+   "a": "Você pode dizer suas preferências. A decisão final é do anestesista, pela opção mais segura para você."
+  },
+  {
+   "q": "Por que falar dos dentes?",
+   "a": "Um dente mole ou uma prótese pode atrapalhar a colocação do tubo de respiração. O médico já se prepara para isso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta pré-anestésica. Leve os exames, o eletrocardiograma e a lista de remédios. Anote suas perguntas."
+  }
+ ]
+}

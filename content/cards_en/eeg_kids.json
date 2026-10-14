@@ -1,0 +1,79 @@
+{
+ "title": "EEG for children",
+ "also": [
+  "child EEG",
+  "pediatric EEG",
+  "sleep EEG for children",
+  "kids' brain wave test"
+ ],
+ "what": "A nurse puts a cap with sensors on your child's head and records brain activity. It is safe. The sensors send nothing, they only listen.",
+ "why": "For seizures, fainting, strange episodes, delayed development, sleep problems, or when a neurologist orders it.",
+ "duration": "usually 30 to 60 minutes; a sleep EEG takes longer; the report is usually ready in 1 to 3 days",
+ "tell_doctor": [
+  "What the episodes that worry you look like",
+  "What medicines your child takes",
+  "Videos of the episodes on your phone, if you have them",
+  "Whether a sleep recording is needed. Ask in advance"
+ ],
+ "prepare": [
+  {
+   "title": "Hair",
+   "text": "Wash your child's hair the day before, with no oil or styling products. Undo braids."
+  },
+  {
+   "title": "Sleep",
+   "text": "If a sleep recording is needed, bring your child tired, before a nap. The clinic will tell you how."
+  },
+  {
+   "title": "Food",
+   "text": "Feed your child. Hungry children are more restless."
+  },
+  {
+   "title": "Mindset",
+   "text": "Tell your child: we will put on a cap like an astronaut's, and it will not hurt."
+  }
+ ],
+ "bring": [
+  "The referral and past EEGs",
+  "A list of medicines",
+  "Videos of episodes, if you have them",
+  "A favorite toy, a bottle, and a sheet",
+  "A towel to dry the hair afterward"
+ ],
+ "steps": [
+  "Your child sits on your lap or on the couch",
+  "A cap with electrodes is put on, with gel under them",
+  "Your child is asked to sit still and open and close their eyes",
+  "Older children may be asked to breathe fast or look at a flashing light",
+  "Sometimes the recording is made while your child sleeps",
+  "The cap is removed, and the gel is wiped off"
+ ],
+ "feel": [
+  "It does not hurt",
+  "Your child may not like the cap. Your calm helps"
+ ],
+ "after": [
+  "Wash your child's hair at home",
+  "Your child can go back to a normal day",
+  "The report is usually ready in 1 to 3 days. Go over it with a neurologist"
+ ],
+ "red_flags": [
+  "A seizure lasting more than 5 minutes, or your child does not come round after a seizure: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Will it hurt my child?",
+   "a": "No. The electrodes only record. They send nothing into the head."
+  },
+  {
+   "q": "Why are we asked to come sleepy?",
+   "a": "During sleep, the EEG sometimes shows what cannot be seen while awake."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Your child's EEG is tomorrow. Wash the hair with no oil or styling products. Bring a toy and a towel."
+  }
+ ]
+}

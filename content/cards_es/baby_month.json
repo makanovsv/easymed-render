@@ -1,0 +1,75 @@
+{
+ "title": "Revisión del bebé al mes",
+ "also": [
+  "revisión del primer mes",
+  "consulta del niño sano",
+  "control del bebé de un mes",
+  "revisión de rutina del bebé"
+ ],
+ "what": "Es la revisión de rutina del bebé al mes de nacido. El médico ve cómo crece y se desarrolla.",
+ "why": "Para todos los bebés al mes, según el calendario de revisiones.",
+ "duration": "la revisión del pediatra suele durar de 20 a 30 minutos; si hacen falta especialistas o ultrasonido, más",
+ "tell_doctor": [
+  "Cómo come tu bebé: pecho, fórmula o los dos",
+  "Cómo duerme y cada cuánto hace popó",
+  "Si vomita o llora mucho",
+  "Todo lo que te preocupe"
+ ],
+ "prepare": [
+  {
+   "title": "Alimentación",
+   "text": "Dale de comer poco antes de la cita, para que esté más tranquilo."
+  },
+  {
+   "title": "Cosas",
+   "text": "Una cobija, un pañal, toallitas y el biberón, si toma fórmula."
+  },
+  {
+   "title": "Horario",
+   "text": "Pregunta si ese día también lo verán otros médicos o le harán un ultrasonido."
+  }
+ ],
+ "bring": [
+  "Los documentos del bebé",
+  "Su expediente y la cartilla de vacunación",
+  "Una cobija y un pañal",
+  "Tu lista de preguntas"
+ ],
+ "steps": [
+  "La enfermera pesa al bebé y mide su estatura y su cabeza",
+  "El pediatra revisa la piel, la mollera y el abdomen",
+  "Escucha el corazón y los pulmones, y revisa los reflejos",
+  "A veces lo mandan con especialistas o a ultrasonido",
+  "Si el calendario marca una vacuna, la platican",
+  "El médico te da consejos de cuidados y alimentación"
+ ],
+ "feel": [
+  "El bebé puede llorar cuando lo desvisten. Es normal",
+  "La revisión no duele"
+ ],
+ "after": [
+  "La siguiente revisión suele ser a los 2 meses",
+  "El pediatra te explica los resultados del ultrasonido y de los especialistas",
+  "Vacunas según el calendario; el médico te dirá las fechas"
+ ],
+ "red_flags": [
+  "El bebé está decaído o no quiere comer: llama a emergencias",
+  "Fiebre de más de 38 en un bebé menor de 3 meses: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto debe subir de peso en un mes?",
+   "a": "Varía. El médico revisa cuánto subió con tablas y según cómo se ve el bebé."
+  },
+  {
+   "q": "¿Para qué un ultrasonido al mes?",
+   "a": "En algunos países a esta edad se revisa la cabeza, el abdomen y las caderas. Pregúntale al pediatra."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la revisión del mes de tu bebé. Lleva sus documentos, una cobija y tu lista de preguntas."
+  }
+ ]
+}

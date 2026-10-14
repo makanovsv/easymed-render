@@ -1,0 +1,85 @@
+{
+ "title": "Retirada de pólipos nasais",
+ "also": [
+  "polipectomia nasal",
+  "pólipo no nariz",
+  "cirurgia de pólipo nasal",
+  "cirurgia endoscópica do nariz"
+ ],
+ "what": "Pelo nariz, com uma câmera fina e instrumentos, o cirurgião retira os pólipos. Normalmente não há cortes no rosto.",
+ "why": "Quando os pólipos atrapalham a respiração pelo nariz, diminuem o olfato, causam sinusites frequentes e os remédios não ajudam.",
+ "duration": "a cirurgia leva normalmente de 30 minutos a 2 horas; a internação costuma ser de 1 a 3 dias, ou a alta é no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que fazer",
+  "Asma e intolerância a analgésicos",
+  "Alergias",
+  "Doenças crônicas",
+  "Se você ou alguém da família já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente é preciso tomografia dos seios da face, exames de sangue e eletrocardiograma. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você."
+  },
+  {
+   "title": "Comida e bebida",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Coisas",
+   "text": "Roupa confortável, lenços e os remédios que você toma sempre."
+  }
+ ],
+ "bring": [
+  "Pedido médico, exames de imagem e de sangue",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para ficar no hospital de 1 a 3 dias"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "Aplicam a anestesia, e você dorme",
+  "O cirurgião introduz uma câmera fina pelo nariz",
+  "Com instrumentos especiais, retira os pólipos",
+  "Às vezes colocam tampões no nariz",
+  "Você acorda na sala de recuperação"
+ ],
+ "feel": [
+  "Depois da anestesia, sono e às vezes enjoo",
+  "O nariz fica entupido, e você respira pela boca",
+  "Dor surda e cabeça pesada, e secreção com sangue pelo nariz nos primeiros dias"
+ ],
+ "after": [
+  "Os tampões normalmente são retirados em 1 a 2 dias",
+  "Não assoe o nariz com força até o médico liberar",
+  "Lavagens e sprays, conforme a receita",
+  "Por umas duas semanas, não pegue peso e evite sauna e banho muito quente",
+  "Os pólipos podem voltar. O tratamento que o médico indicar é importante"
+ ],
+ "red_flags": [
+  "Sangramento forte pelo nariz ou descendo pela garganta: ligue para a emergência",
+  "Febre acima de 38 graus, dor de cabeça forte",
+  "Inchaço em volta do olho, piora da visão: procure o médico com urgência",
+  "Líquido transparente, como água, saindo do nariz depois da cirurgia: avise o médico"
+ ],
+ "faq": [
+  {
+   "q": "Os pólipos voltam?",
+   "a": "Às vezes sim. Para voltarem menos, o médico indica um tratamento depois da cirurgia."
+  },
+  {
+   "q": "O olfato volta?",
+   "a": "Muitas vezes melhora, mas nem sempre na hora."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia no nariz. Separe as coisas e os documentos. Comida e água, só até o horário que a clínica indicou."
+  }
+ ]
+}

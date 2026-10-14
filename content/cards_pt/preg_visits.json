@@ -1,0 +1,78 @@
+{
+ "title": "Consultas de pré-natal",
+ "also": [
+  "consulta de pré-natal",
+  "acompanhamento da gravidez",
+  "consulta da gestante",
+  "pré-natal de rotina"
+ ],
+ "what": "São as consultas regulares com o médico durante a gravidez. O médico acompanha sua saúde e o crescimento do bebê.",
+ "why": "Para todas as gestantes, conforme o calendário: no começo com menos frequência, mais perto do parto com mais frequência.",
+ "duration": "a consulta leva normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Como você está se sentindo, o que incomoda",
+  "Inchaço, dor de cabeça, pontinhos brilhantes na vista",
+  "Corrimento, dor na barriga",
+  "Como o bebê se mexe, na segunda metade da gravidez",
+  "Remédios novos que você começou a tomar"
+ ],
+ "prepare": [
+  {
+   "title": "Exame de urina",
+   "text": "Muitas vezes pedem exame de urina a cada consulta. A primeira urina da manhã, num frasco limpo."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Anote as perguntas entre as consultas para não esquecer."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, para mostrar a barriga com facilidade."
+  }
+ ],
+ "bring": [
+  "A caderneta da gestante",
+  "Resultados de exames e ultrassons",
+  "Exame de urina, se pediram",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Pesam você e medem a pressão",
+  "O médico pergunta como você está",
+  "Mede a barriga com uma fita métrica",
+  "Na segunda metade da gravidez, ouve o coração do bebê",
+  "Olha os exames e pede novos",
+  "Marca a próxima consulta"
+ ],
+ "feel": [
+  "Normalmente nada desagradável",
+  "O exame na maca não é feito em todas as consultas"
+ ],
+ "after": [
+  "Faça os exames e ultrassons conforme o calendário",
+  "Anote como se sente e como o bebê se mexe",
+  "Vá no dia marcado, mesmo que esteja tudo bem"
+ ],
+ "red_flags": [
+  "Sangramento ou perda de líquido: ligue para a emergência",
+  "Dor de cabeça forte, pontinhos brilhantes na vista, inchaço repentino: ligue para a emergência",
+  "O bebê se mexe bem menos que o normal: procure o médico com urgência",
+  "Contrações antes da hora: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "De quanto em quanto tempo ir ao médico?",
+   "a": "Normalmente uma vez por mês no começo, a cada 2 semanas na segunda metade e toda semana no final. Seu médico vai dizer."
+  },
+  {
+   "q": "Por que fazer exame de urina toda vez?",
+   "a": "Assim se percebe cedo proteína, açúcar e infecção. Isso é importante para você e para o bebê."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta de pré-natal. Leve a caderneta da gestante e, se pediram, colha a urina de manhã."
+  }
+ ]
+}

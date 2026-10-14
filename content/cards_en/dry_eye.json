@@ -1,0 +1,65 @@
+{
+ "title": "Dry eye testing",
+ "also": [
+  "dry eye test",
+  "dry eye syndrome",
+  "Schirmer test",
+  "tear film test"
+ ],
+ "what": "The doctor checks how many tears your eyes make and how long they stay on the surface of the eye.",
+ "why": "When your eyes feel dry, burn, turn red, feel gritty, or get tired from screens.",
+ "duration": "usually 15 to 30 minutes; the doctor tells you the result right away",
+ "tell_doctor": [
+  "What eye drops and medicines you use",
+  "If you wear contact lenses",
+  "Long screen time or air conditioning",
+  "Past eye surgery, including laser vision correction"
+ ],
+ "prepare": [
+  {
+   "title": "Drops",
+   "text": "Ask the clinic whether to skip lubricating drops before the exam."
+  },
+  {
+   "title": "Lenses and makeup",
+   "text": "Best to come without contacts and without eye makeup."
+  }
+ ],
+ "bring": [
+  "A list of your eye drops and medicines",
+  "Your glasses",
+  "Your ID"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "Your eyes are examined under a microscope",
+  "A dye may be put in to see how fast the tear film breaks up",
+  "Sometimes a paper strip is placed under the lower lid for 5 minutes",
+  "The strip shows how many tears you make"
+ ],
+ "feel": [
+  "The strip under the lid tickles a little, and you want to blink",
+  "The dye may turn your tears yellow for a while"
+ ],
+ "after": [
+  "Your eyes may water for a few minutes",
+  "The doctor will suggest care and eye drops"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why do my eyes get dry?",
+   "a": "Often from screens, dry air, age, contact lenses, or medicines. Your doctor will help find the cause."
+  },
+  {
+   "q": "Can I use lubricating drops all the time?",
+   "a": "Many are fine, but ask your doctor which ones and how often."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Dry eye test tomorrow. Come without contacts and eye makeup if you can."
+  }
+ ]
+}

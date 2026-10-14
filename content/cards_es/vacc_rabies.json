@@ -1,0 +1,79 @@
+{
+ "title": "Vacuna antirrábica después de una mordida",
+ "also": [
+  "vacuna contra la rabia",
+  "vacuna antirrábica",
+  "vacuna después de mordida de perro",
+  "vacuna después de rasguño de gato"
+ ],
+ "what": "Es una serie de inyecciones después de una mordida o un rasguño de un animal. Si se empieza a tiempo, evita que se desarrolle la rabia.",
+ "why": "Después de una mordida, un rasguño o que un perro, gato, animal salvaje o murciélago te babee una herida.",
+ "duration": "la inyección dura unos segundos; la serie es de varias inyecciones según un calendario de algunas semanas",
+ "tell_doctor": [
+  "Qué animal fue, si es de casa o callejero",
+  "Cuándo y dónde te mordió",
+  "Si se puede observar al animal",
+  "Si ya te vacunaste contra la rabia antes",
+  "Si estás embarazada o tienes enfermedades del sistema inmune"
+ ],
+ "prepare": [
+  {
+   "title": "Justo después de la mordida",
+   "text": "Lava la herida con agua corriente y jabón al menos 15 minutos."
+  },
+  {
+   "title": "No esperes",
+   "text": "Ve de inmediato a urgencias. Mientras antes empiecen las inyecciones, mejor."
+  },
+  {
+   "title": "El animal",
+   "text": "Si se puede, pregúntale al dueño si el animal está vacunado. Hay que observarlo 10 días."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Los datos del animal y del dueño, si los tienes",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico revisa y limpia la herida",
+  "Te pregunta sobre el animal y decide si hace falta la serie",
+  "Te ponen la primera inyección en el brazo",
+  "A veces, en mordidas profundas, ponen otro medicamento alrededor de la herida",
+  "Te dan el calendario de las siguientes inyecciones",
+  "Deciden si necesitas la vacuna contra el tétanos"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces duele el lugar de la inyección, hay cansancio o un poco de fiebre"
+ ],
+ "after": [
+  "No faltes a ninguna inyección del calendario. Es muy importante",
+  "El médico puede pedirte no tomar alcohol durante la serie",
+  "Si el animal sigue sano después de 10 días, el médico puede terminar la serie antes"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o salen ronchas por todo el cuerpo: llama a emergencias",
+  "La herida se pone muy roja, hinchada, con pus, o te da fiebre"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuántas inyecciones necesito?",
+   "a": "Normalmente varias en el brazo, según el calendario. El médico te dice cuántas."
+  },
+  {
+   "q": "¿Me la puedo saltar si el perro es de casa?",
+   "a": "Lo decide el médico. Muchas veces se observa al animal vacunado 10 días, y la serie se empieza antes de que pasen."
+  },
+  {
+   "q": "¿Qué pasa si falto a una inyección?",
+   "a": "Comunícate de inmediato con el médico. Te dirá cómo seguir la serie."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana te toca la siguiente vacuna antirrábica. No puedes faltar."
+  }
+ ]
+}

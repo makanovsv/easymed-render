@@ -1,0 +1,79 @@
+{
+ "title": "Internação: o que levar e como é",
+ "also": [
+  "internação",
+  "internar no hospital",
+  "internação marcada",
+  "o que levar para o hospital"
+ ],
+ "what": "Quando você é internado no hospital para tratamento ou cirurgia. Explicamos o que levar e como é o primeiro dia.",
+ "why": "Para tratamento, exames ou cirurgia que não podem ser feitos sem internação.",
+ "duration": "depende do tratamento, de um dia a algumas semanas",
+ "tell_doctor": [
+  "Todos os remédios que você toma",
+  "Alergias",
+  "Doenças crônicas",
+  "Se precisa de comida especial ou ajuda para andar"
+ ],
+ "prepare": [
+  {
+   "title": "Documentos",
+   "text": "Confirme quais exames são necessários antes da internação e qual a validade deles."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda por conta própria. Pergunte ao médico quais remédios levar e quais parar."
+  },
+  {
+   "title": "Assuntos",
+   "text": "Avise no trabalho e combine quem vai cuidar da casa e da família."
+  }
+ ],
+ "bring": [
+  "Documento e pedido médico",
+  "Exames e laudos",
+  "Os remédios de uso contínuo, nas caixas",
+  "Roupa confortável, chinelo, itens de higiene",
+  "Celular, carregador, caneca e colher"
+ ],
+ "steps": [
+  "Na recepção, conferem os documentos",
+  "Examinam você e às vezes colhem exames",
+  "A enfermagem leva você ao quarto",
+  "O médico responsável conhece você e explica o plano",
+  "A enfermagem explica a rotina: visita médica, procedimentos, refeições",
+  "Depois, o tratamento segue o plano"
+ ],
+ "feel": [
+  "O primeiro dia muitas vezes é agitado",
+  "Faça perguntas ao médico na visita. É normal"
+ ],
+ "after": [
+  "Todo dia, na visita médica, pergunte como está o tratamento",
+  "Normalmente a alta é avisada com antecedência",
+  "Cuide dos objetos de valor"
+ ],
+ "red_flags": [
+  "Se no quarto você piorar de repente, aperte a campainha ou chame a enfermagem na hora"
+ ],
+ "faq": [
+  {
+   "q": "Posso levar minha comida?",
+   "a": "Normalmente pode, se não houver dieta especial. Confirme no setor se há geladeira."
+  },
+  {
+   "q": "Pode receber visita?",
+   "a": "As regras variam em cada hospital. Confirme os horários e as exigências."
+  },
+  {
+   "q": "Levo meus remédios?",
+   "a": "Normalmente sim, nas caixas. O médico diz quais continuar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a internação. Separe os documentos, os exames, os remédios e as coisas."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "RNI para quem toma varfarina",
+ "also": [
+  "RNI",
+  "INR",
+  "tempo de protrombina (TAP)",
+  "controle da varfarina"
+ ],
+ "what": "É um exame de sangue que mostra quanto tempo o sangue leva para coagular. Com ele, o médico ajusta a dose da varfarina.",
+ "why": "Regularmente, para quem toma varfarina: no começo do tratamento com mais frequência, depois normalmente a cada poucas semanas.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente no mesmo dia",
+ "tell_doctor": [
+  "Qual a dose de varfarina e em que horário você toma",
+  "Se esqueceu algum comprimido ou tomou a mais",
+  "Se começou qualquer remédio novo, antibiótico ou chá",
+  "Se mudou muito a alimentação, principalmente folhas verdes e verduras",
+  "Se bebeu álcool ou ficou doente"
+ ],
+ "prepare": [
+  {
+   "title": "Varfarina",
+   "text": "Tome como sempre, no seu horário. Não mude a dose por conta própria antes do exame."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de jejum, mas é melhor ir de manhã, antes de um café da manhã reforçado. Confirme com a clínica."
+  },
+  {
+   "title": "Anotações",
+   "text": "Mantenha um diário: data, dose e resultado do RNI. Leve com você."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Diário do RNI e das doses de varfarina"
+ ],
+ "steps": [
+  "O sangue é colhido da veia ou, às vezes, do dedo com um aparelho rápido",
+  "Se for da veia, colocam o garrote e fazem uma picada rápida",
+  "Se for do dedo, fazem um furinho e pegam uma gota",
+  "Colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão"
+ ],
+ "after": [
+  "Aperte o algodão por mais tempo, de 5 a 10 minutos. Com varfarina, o sangue demora mais para parar",
+  "O resultado e a nova dose quem informa é o médico",
+  "Anote o resultado no diário"
+ ],
+ "red_flags": [
+  "Fezes pretas, sangue na urina ou no vômito, sangramento do nariz que não para: ligue para a emergência",
+  "Dor de cabeça forte e repentina, fraqueza no braço ou na perna: ligue para a emergência",
+  "Muitos roxos sem motivo: procure o médico nos próximos dias"
+ ],
+ "faq": [
+  {
+   "q": "Com que frequência faço o RNI?",
+   "a": "No começo, com frequência, até acertar a dose. Depois, normalmente a cada poucas semanas. O calendário quem define é o médico."
+  },
+  {
+   "q": "Posso comer folhas verdes tomando varfarina?",
+   "a": "Pode, mas mais ou menos a mesma quantidade todos os dias. Mudanças bruscas na alimentação alteram o RNI."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de RNI. Tome a varfarina como sempre. Leve o diário das doses."
+  }
+ ]
+}

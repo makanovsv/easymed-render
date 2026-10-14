@@ -1,0 +1,72 @@
+{
+ "title": "Consulta com infectologista",
+ "also": [
+  "infectologista",
+  "médico de doenças infecciosas",
+  "consulta de infectologia"
+ ],
+ "what": "É o médico que trata infecções por vírus, bactérias e parasitas, e ajuda com vacinas antes de viagens.",
+ "why": "Com febre que não passa, infecções intestinais, hepatites, alterações em exames de infecção, depois de viagens para outros países, picada de carrapato.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Quando começou e como a febre variou",
+  "Para onde viajou nos últimos meses",
+  "Se teve contato com pessoas doentes, picada de carrapato ou mordida de animal",
+  "Quais vacinas tomou",
+  "Quais remédios tomou, inclusive antibióticos"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Leve todos os exames e resultados, se fez."
+  },
+  {
+   "title": "Febre",
+   "text": "Anote como a febre variou dia a dia."
+  },
+  {
+   "title": "Máscara",
+   "text": "Se estiver com febre ou tosse, use máscara e avise a recepção."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "A carteira de vacinação, se tiver",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas, as viagens e os contatos",
+  "Examina a pele, a garganta, os gânglios",
+  "Apalpa a barriga",
+  "Olha os exames",
+  "Pede exames ou indica o tratamento"
+ ],
+ "feel": [
+  "Nada desagradável. É um exame comum",
+  "Às vezes, no mesmo dia, colhem sangue ou uma amostra com cotonete"
+ ],
+ "after": [
+  "Faça os exames e volte com os resultados",
+  "Tome antibiótico só com receita e até o fim do tratamento"
+ ],
+ "red_flags": [
+  "Febre muito alta, confusão, manchas na pele que não clareiam ao apertar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Preciso ir ao médico depois de uma picada de carrapato?",
+   "a": "Sim, é melhor ser examinado. Dá para guardar o carrapato para análise. Confirme com a clínica."
+  },
+  {
+   "q": "Por que o médico pergunta sobre viagens?",
+   "a": "Cada país tem suas infecções. Isso ajuda a entender a causa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o infectologista. Leve os exames e lembre as viagens e os contatos."
+  }
+ ]
+}

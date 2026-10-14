@@ -1,0 +1,81 @@
+{
+ "title": "Ecocardiograma com estresse",
+ "also": [
+  "eco de estresse",
+  "ecocardiograma com esforço",
+  "ecocardiografia de estresse",
+  "eco com estresse farmacológico"
+ ],
+ "what": "O médico faz ultrassom do coração em repouso e logo depois de um esforço, na esteira, na bicicleta ou com remédio. Assim dá para ver se chega sangue suficiente ao coração quando ele trabalha mais.",
+ "why": "Com dor no peito, para avaliar as artérias do coração, depois de tratamento dessas artérias ou para ver as válvulas durante o esforço.",
+ "duration": "normalmente de 45 a 60 minutos, o laudo normalmente sai no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios para coração e pressão. O médico diz se precisa pular algum",
+  "Dor no peito, falta de ar, desmaios",
+  "Problemas nas articulações que atrapalham andar ou pedalar",
+  "Asma. É importante se o esforço for feito com remédio",
+  "Diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Uma refeição leve de 2 a 3 horas antes do teste. Não vá em jejum e não coma demais."
+  },
+  {
+   "title": "Remédios",
+   "text": "Alguns remédios do coração às vezes são pausados. Não suspenda por conta própria. Quem decide é o médico."
+  },
+  {
+   "title": "Café e cigarro",
+   "text": "No dia do teste, normalmente sem café, chá forte e cigarro. Confirme com a clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa de ginástica e um tênis confortável para caminhar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Eletrocardiogramas e ecocardiogramas anteriores",
+  "Lista de remédios",
+  "Tênis e água",
+  "Toalha"
+ ],
+ "steps": [
+  "Colam eletrodos no seu peito e colocam o manguito de pressão no braço",
+  "O médico faz o ultrassom do coração em repouso",
+  "Você caminha na esteira ou pedala, e o esforço aumenta aos poucos",
+  "Às vezes, no lugar do esforço, aplicam um remédio na veia",
+  "Logo depois do esforço, você se deita, e o médico repete o ultrassom rápido",
+  "Depois, você descansa até o pulso e a pressão voltarem ao normal"
+ ],
+ "feel": [
+  "Você vai cansar, e o pulso e a respiração vão acelerar. Isso é esperado",
+  "Avise na hora se sentir dor no peito, falta de ar forte ou tontura. O teste é interrompido"
+ ],
+ "after": [
+  "Depois de descansar, você pode voltar à rotina",
+  "O laudo normalmente sai no mesmo dia",
+  "Converse sobre o resultado com o cardiologista"
+ ],
+ "red_flags": [
+  "Dor no peito que não passa depois do teste: avise o médico na hora ou ligue para a emergência",
+  "Desmaio, falta de ar forte, falhas no ritmo do coração"
+ ],
+ "faq": [
+  {
+   "q": "É perigoso para o coração?",
+   "a": "O teste é feito com acompanhamento médico, e há tudo para socorro por perto. O esforço é interrompido nos primeiros sinais."
+  },
+  {
+   "q": "E se eu não consigo andar muito?",
+   "a": "Avise antes. O esforço pode ser feito com remédio, sem caminhar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem eco de estresse. Leve tênis e a lista de remédios. De manhã, sem café. Confirme com a clínica."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "First newborn checkup",
+ "also": [
+  "newborn checkup",
+  "first pediatrician visit",
+  "newborn home visit",
+  "baby's first doctor visit"
+ ],
+ "what": "A pediatrician and nurse examine your baby in the first days after you leave the maternity hospital. They often come to your home.",
+ "why": "For all newborns after discharge from the maternity hospital.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "How the birth went and what you were told at the hospital",
+  "How your baby feeds and how many wet diapers a day",
+  "If the skin is turning yellow",
+  "How the umbilical cord stump is healing",
+  "Anything that worries you"
+ ],
+ "prepare": [
+  {
+   "title": "Documents",
+   "text": "Keep the hospital discharge papers and your baby's documents at hand."
+  },
+  {
+   "title": "Questions",
+   "text": "Write down questions about feeding, sleep, and bathing so you do not forget."
+  },
+  {
+   "title": "Space",
+   "text": "Prepare a changing table or a clean surface where your baby can be examined."
+  }
+ ],
+ "bring": [
+  "The hospital discharge papers",
+  "Your baby's documents",
+  "Your list of questions"
+ ],
+ "steps": [
+  "The doctor asks about the birth and how you both are",
+  "The skin, head, eyes, and cord stump are checked",
+  "The doctor listens to the heart and lungs and checks reflexes",
+  "Feeding is observed, and the doctor helps if needed",
+  "Care and warning signs are explained",
+  "The next visit is set"
+ ],
+ "feel": [
+  "Your baby may cry when undressed. That is normal",
+  "The exam is painless"
+ ],
+ "after": [
+  "The next checkup is usually at 1 month",
+  "Care for the cord stump as the doctor showed you",
+  "Call the clinic whenever you are unsure"
+ ],
+ "red_flags": [
+  "Your baby is floppy, feeds poorly, or does not wake for feeds: call emergency services",
+  "A temperature over 38°C (100.4°F), or cold, pale skin: call emergency services",
+  "Jaundice gets worse, or the skin is yellow down to the legs",
+  "The cord stump is red, oozing, or smells bad"
+ ],
+ "faq": [
+  {
+   "q": "Is it normal for my baby to look a little yellow?",
+   "a": "Mild yellowing in the first days is common. Show it to the doctor, who will say if it needs checking."
+  },
+  {
+   "q": "How often should I feed?",
+   "a": "Usually on demand, often 8 to 12 times a day. The doctor will check that your baby is getting enough."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Your baby's first checkup is tomorrow. Have the hospital discharge papers and your questions ready."
+  }
+ ]
+}

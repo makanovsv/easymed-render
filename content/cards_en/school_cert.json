@@ -1,0 +1,71 @@
+{
+ "title": "School and nursery health check",
+ "also": [
+  "school health check",
+  "school medical form",
+  "nursery medical certificate",
+  "kindergarten health check"
+ ],
+ "what": "A pediatrician and other doctors examine your child and fill in a medical record for school or nursery. Vaccines and general health are checked.",
+ "why": "Before starting nursery or school for the first time, or when moving to another one.",
+ "duration": "usually a few days or weeks to see all doctors and do tests; the pediatrician completes the form at the last visit",
+ "tell_doctor": [
+  "Your child's long-term conditions and medicines",
+  "Allergies, especially to food and stings",
+  "If your child sees any specialists",
+  "If any vaccines were missed"
+ ],
+ "prepare": [
+  {
+   "title": "Start early",
+   "text": "Begin 1 to 2 months ahead, so you can see all the doctors without rush."
+  },
+  {
+   "title": "Checklist",
+   "text": "Ask the clinic for the list of doctors and tests. It depends on age."
+  },
+  {
+   "title": "Your child",
+   "text": "Tell your child the doctors will look and listen, without scary words."
+  }
+ ],
+ "bring": [
+  "Your child's documents and yours",
+  "The vaccination record",
+  "Your child's medical record",
+  "The form from the school or nursery, if given"
+ ],
+ "steps": [
+  "The pediatrician gives you a list of doctors and tests",
+  "Your child has the tests",
+  "You see the specialists: usually an eye doctor, ENT, neurologist, surgeon, and dentist",
+  "The pediatrician checks vaccines",
+  "The pediatrician collects the reports and completes the medical record"
+ ],
+ "feel": [
+  "The exams are painless",
+  "Only the blood test is unpleasant"
+ ],
+ "after": [
+  "Give the medical record to the school or nursery nurse",
+  "If vaccines are due, they are given on schedule",
+  "If a doctor found something, you will be told what to do next"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Will my child be accepted without vaccines?",
+   "a": "Rules depend on the country and the school. Check with your clinic and the nursery."
+  },
+  {
+   "q": "Can it all be done in one day?",
+   "a": "Sometimes, yes. Some clinics have such programs. Ask in advance."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "School or nursery health check tomorrow. Bring the vaccination record and your child's documents."
+  }
+ ]
+}

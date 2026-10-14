@@ -1,0 +1,69 @@
+{
+ "title": "Vitamina B12 e ácido fólico",
+ "also": [
+  "vitamina B12",
+  "ácido fólico",
+  "folato",
+  "cobalamina"
+ ],
+ "what": "É um exame de sangue colhido da veia. Mostra se o corpo tem vitamina B12 e ácido fólico suficientes.",
+ "why": "Com anemia, cansaço, formigamento nas mãos e nos pés, dieta vegetariana, planejamento de gravidez ou uso de alguns remédios.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Se toma vitaminas, principalmente B12, ácido fólico ou biotina",
+  "Se tomou injeções de vitamina",
+  "Quais remédios você usa sempre",
+  "Se você é vegetariano ou não come carne"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente em jejum: de 8 a 12 horas sem comer. Água pura pode. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "No dia anterior, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Vitaminas",
+   "text": "Não pare por conta própria. Diga ao médico quais vitaminas você toma. Ele decide se precisa dar uma pausa antes do exame."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos, sem dobrar o braço",
+  "Você já pode comer e voltar à rotina",
+  "O resultado sai normalmente em 1 a 3 dias. O prazo quem informa é o laboratório"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Preciso parar as vitaminas antes do exame?",
+   "a": "Não pare por conta própria. Fale com o médico. Ele decide se precisa de pausa e por quanto tempo."
+  },
+  {
+   "q": "Por que a B12 pode estar baixa se eu como carne?",
+   "a": "Às vezes a vitamina não é bem absorvida. A causa quem investiga é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de vitamina B12 e ácido fólico. Depois do jantar, não coma mais nada. Água pura pode."
+  }
+ ]
+}

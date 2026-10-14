@@ -1,0 +1,72 @@
+{
+ "title": "Prueba de tuberculina (PPD) y Diaskintest",
+ "also": [
+  "prueba de tuberculina",
+  "PPD",
+  "prueba de Mantoux",
+  "prueba cutánea de tuberculosis"
+ ],
+ "what": "Te ponen una gotita de una sustancia especial en la piel del antebrazo. A los 3 días el médico revisa si hay enrojecimiento o bolita y de qué tamaño. El Diaskintest es una prueba parecida que se usa en Rusia y Kazajistán.",
+ "why": "Para revisar si hay tuberculosis en niños y adultos: cada año en escuelas y guarderías, si hubo contacto con un enfermo, o para certificados.",
+ "duration": "la inyección dura 1 minuto; la revisión suele ser a las 72 horas",
+ "tell_doctor": [
+  "Si ahora tienes fiebre, gripa o una enfermedad que empeoró",
+  "Si tienes alergias o enfermedades de la piel",
+  "Si te pusieron una vacuna hace poco",
+  "Si tu hijo está enfermo, avísale antes al médico. Pueden cambiar la fecha de la prueba"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No hace falta preparación especial. Puedes comer como siempre."
+  },
+  {
+   "title": "Salud",
+   "text": "La prueba se pone cuando la persona está sana. Con gripa normalmente se cambia la fecha. Pregunta al médico."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente hasta el codo."
+  }
+ ],
+ "bring": [
+  "La orden médica, si la tienes",
+  "Una identificación",
+  "La cartilla de vacunación del niño"
+ ],
+ "steps": [
+  "Te sientas y apoyas el antebrazo en la mesa",
+  "Limpian la piel",
+  "Con una aguja muy delgada ponen una gotita justo debajo de la capa superior de la piel",
+  "Se forma una bolita pequeña",
+  "Te dan la fecha para regresar a mostrar el brazo"
+ ],
+ "feel": [
+  "Un piquete breve y pequeño",
+  "A tu hijo puedes decirle antes: será rápido y pellizca un poquito"
+ ],
+ "after": [
+  "Hasta la revisión, no mojes ni rasques el lugar, no le pongas curita ni cremas",
+  "A las 72 horas el médico mide la reacción con una regla",
+  "El resultado te lo dicen en la misma revisión"
+ ],
+ "red_flags": [
+  "Mucha hinchazón del brazo, ampollas o rayas rojas desde el lugar del piquete: ve al médico antes de la fecha"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede mojar la prueba?",
+   "a": "Mejor no: no la talles, no la laves con esponja y no la mojes hasta la revisión. Unas gotas de agua por accidente normalmente no pasan nada."
+  },
+  {
+   "q": "¿En qué se diferencia el Diaskintest de la tuberculina?",
+   "a": "El Diaskintest no reacciona a la vacuna BCG. Por eso muestra con más exactitud la infección de tuberculosis."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la prueba de tuberculina. Si tienes fiebre o gripa, llama a la clínica."
+  }
+ ]
+}

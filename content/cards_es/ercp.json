@@ -1,0 +1,89 @@
+{
+ "title": "CPRE (colangiopancreatografía retrógrada endoscópica)",
+ "also": [
+  "CPRE",
+  "colangiopancreatografía retrógrada endoscópica",
+  "endoscopia de vías biliares"
+ ],
+ "what": "Por la boca meten un tubo flexible con cámara hasta el duodeno. Por ahí ponen medio de contraste en los conductos del hígado y del páncreas y toman radiografías. Se pueden quitar piedras o poner un tubito, llamado stent, en ese momento.",
+ "why": "Con piedras en el conducto biliar, piel amarilla por un conducto tapado, estrechamientos de los conductos, o para cambiar un stent.",
+ "duration": "el procedimiento suele durar de 30 a 90 minutos; normalmente hay que quedarse en el hospital al menos un día",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. Muchas veces hay que cambiarlos por un tiempo; lo decide el médico",
+  "Alergia al yodo, al medio de contraste o a medicamentos",
+  "Diabetes. Habrá que ajustar los medicamentos y el ayuno",
+  "Enfermedades del corazón, los pulmones o los riñones",
+  "Si te operaron del estómago",
+  "Si estás embarazada o podrías estarlo"
+ ],
+ "prepare": [
+  {
+   "title": "Ayuno",
+   "text": "Normalmente no comes de 6 a 8 horas y no bebes de 2 a 4 horas antes. La hora exacta te la dice el médico."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Díselo al médico y él decidirá qué tomar y cuándo."
+  },
+  {
+   "title": "Análisis",
+   "text": "Normalmente se necesitan análisis de sangre y de coagulación. La clínica te da la lista."
+  },
+  {
+   "title": "Consentimiento",
+   "text": "Te explicarán el procedimiento, los riesgos y la sedación. Haz todas tus preguntas antes de firmar."
+  }
+ ],
+ "bring": [
+  "La orden médica y tus resúmenes clínicos",
+  "Tus ultrasonidos, tomografías o resonancias",
+  "La lista de tus medicamentos",
+  "Tus cosas para 1 a 2 días en el hospital"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena",
+  "Te echan un spray en la garganta y te ponen una boquilla",
+  "Te ponen un medicamento y te duermes o te adormeces",
+  "Normalmente estás acostado boca abajo",
+  "El médico mete el tubo por la boca hasta el intestino y encuentra la salida del conducto",
+  "Ponen el contraste y toman radiografías",
+  "Si hace falta, quitan piedras o ponen un stent"
+ ],
+ "feel": [
+  "Durante el procedimiento normalmente estás dormido y no sientes nada",
+  "Después puede doler la garganta e inflamarse el abdomen",
+  "Un rato tendrás sueño"
+ ],
+ "after": [
+  "Te quedas en observación médica",
+  "Puedes comer y beber cuando el médico lo permita, normalmente no de inmediato",
+  "Después de la sedación, ese día no manejes",
+  "El médico te explica el resultado después del procedimiento"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el abdomen o la espalda: avísale de inmediato al médico; en casa, llama a emergencias",
+  "Vómito con sangre o heces negras: llama a emergencias",
+  "Fiebre de más de 38, escalofríos o piel amarilla: llama al médico o a emergencias",
+  "Dificultad para respirar o dolor de pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es una cirugía?",
+   "a": "Es un procedimiento endoscópico sin cortes. Pero es más complicado que una endoscopia normal, por eso te vigilan en el hospital."
+  },
+  {
+   "q": "¿Cuál es el riesgo principal?",
+   "a": "Lo más común es una inflamación del páncreas después del procedimiento. Por eso el médico vigila el dolor y los análisis."
+  },
+  {
+   "q": "¿Habrá que cambiar el stent?",
+   "a": "Si te pusieron un stent, el médico te dirá si hay que quitarlo o cambiarlo y cuándo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu CPRE. Revisa desde qué hora ya no puedes comer ni beber, y prepara tus cosas para el hospital."
+  }
+ ]
+}

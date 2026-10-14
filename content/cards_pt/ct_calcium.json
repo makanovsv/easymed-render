@@ -1,0 +1,65 @@
+{
+ "title": "Escore de cálcio coronariano",
+ "also": [
+  "escore de cálcio",
+  "cálcio coronariano",
+  "tomografia para cálcio nas coronárias",
+  "escore de Agatston"
+ ],
+ "what": "É uma tomografia rápida do coração, sem contraste. Mede quanto cálcio há nas artérias do coração, que é um sinal de aterosclerose.",
+ "why": "Para avaliar o risco de doenças do coração em pessoas sem sintomas, quando o médico decide sobre prevenção.",
+ "duration": "na sala, normalmente de 10 a 15 minutos, a imagem em si leva alguns segundos. O resultado sai no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se já tem stent ou fez ponte de safena. Esse exame pode não servir",
+  "Se o pulso é rápido ou irregular"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa de injeção. Pode comer e beber."
+  },
+  {
+   "title": "Café",
+   "text": "Normalmente pedem para não tomar café e energéticos nesse dia. Confirme com a clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Sem metal no peito: é melhor tirar sutiã com aro e correntes."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exames de colesterol, se tiver"
+ ],
+ "steps": [
+  "Colam eletrodos de eletrocardiograma no peito",
+  "Você se deita de barriga para cima, com as mãos atrás da cabeça",
+  "A mesa entra no anel do aparelho",
+  "Segure a respiração por alguns segundos, e fazem a imagem"
+ ],
+ "feel": [
+  "Não dói, sem agulhas"
+ ],
+ "after": [
+  "Você já pode seguir o seu dia",
+  "O resultado é um número, o escore de cálcio. Leve ao cardiologista ou clínico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O que quer dizer zero?",
+   "a": "Não encontraram cálcio nas artérias do coração. Normalmente isso indica risco baixo nos próximos anos."
+  },
+  {
+   "q": "Se encontraram cálcio, é infarto?",
+   "a": "Não. É um sinal de depósitos nas artérias. O médico decide se precisa de prevenção ou de mais exames."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem escore de cálcio. De manhã, sem café. Vista roupa sem metal."
+  }
+ ]
+}

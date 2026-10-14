@@ -1,0 +1,75 @@
+{
+ "title": "Plasma rico en plaquetas en articulaciones",
+ "also": [
+  "plasma rico en plaquetas",
+  "PRP",
+  "infiltración de plasma",
+  "inyección de plasma en la rodilla"
+ ],
+ "what": "Te sacan un poco de sangre, en una centrífuga separan el plasma con plaquetas y lo inyectan en la articulación o el tendón.",
+ "why": "A veces con artrosis de rodilla o enfermedades de tendones y ligamentos. No a todos les funciona. Platica con el médico si te conviene.",
+ "duration": "normalmente de 30 a 60 minutos; el efecto, si lo hay, se ve en unas semanas; muchas veces se necesitan varias sesiones",
+ "tell_doctor": [
+  "Medicamentos que hacen la sangre más líquida y antiinflamatorios. El médico decidirá qué hacer",
+  "Enfermedades de la sangre",
+  "Si ahora tienes una infección o fiebre",
+  "Si antes te pusieron inyecciones en esa articulación"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "A veces piden no tomar antiinflamatorios unos días antes y después. No los dejes por tu cuenta. Pregunta al médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Come ligero, sin grasa, y toma agua. Así el plasma sale mejor."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda para descubrir fácilmente la articulación."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus estudios de la articulación",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te sacan sangre de la vena, como en un análisis",
+  "El tubo se pone en una centrífuga unos minutos",
+  "Limpian la piel sobre la articulación con antiséptico",
+  "A veces adormecen la articulación",
+  "El médico inyecta el plasma en la articulación, muchas veces guiándose con ultrasonido",
+  "Ponen una curita"
+ ],
+ "feel": [
+  "Piquete al sacar la sangre y al inyectar la articulación",
+  "Sensación de llenura en la articulación",
+  "Dolor e hinchazón en la articulación de 1 a 3 días después. Es común"
+ ],
+ "after": [
+  "Los primeros días, sin esfuerzos grandes en la articulación",
+  "Puedes ponerte frío si duele. Los antiinflamatorios, solo si el médico lo indica",
+  "Las siguientes inyecciones las indica el médico"
+ ],
+ "red_flags": [
+  "La articulación está caliente, muy hinchada y duele, o hay fiebre de más de 38: ve al médico de inmediato",
+  "El dolor aumenta mucho después de 2 o 3 días"
+ ],
+ "faq": [
+  {
+   "q": "¿Me va a funcionar seguro?",
+   "a": "No a todos. A unos les baja el dolor y a otros el efecto es débil. El médico te dirá si tiene sentido en tu caso."
+  },
+  {
+   "q": "¿Puedo tener alergia a mi propio plasma?",
+   "a": "Es muy poco probable. Pero después de la inyección puede haber dolor e hinchazón en la articulación."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu PRP. Hoy y en la mañana toma agua y come ligero. Con los antiinflamatorios, haz lo que dijo el médico."
+  }
+ ]
+}

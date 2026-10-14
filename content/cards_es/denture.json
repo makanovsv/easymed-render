@@ -1,0 +1,72 @@
+{
+ "title": "Prótesis dental removible",
+ "also": [
+  "prótesis removible",
+  "dentadura postiza",
+  "placa dental",
+  "prótesis parcial removible"
+ ],
+ "what": "Es una prótesis que sustituye varios o todos los dientes. Tú mismo te la quitas y te la pones para limpiarla.",
+ "why": "Cuando faltan muchos o todos los dientes, y las opciones fijas no sirven.",
+ "duration": "normalmente de 3 a 5 visitas en varias semanas; acostumbrarse suele tomar de unas semanas a un par de meses",
+ "tell_doctor": [
+  "Enfermedades de las encías, heridas o boca seca",
+  "Diabetes",
+  "Alergia al plástico o a metales",
+  "Si antes usaste prótesis y qué no te gustó"
+ ],
+ "prepare": [
+  {
+   "title": "Tratamiento",
+   "text": "Primero se tratan los dientes que quedan y las encías; a veces se saca algún diente."
+  },
+  {
+   "title": "Prótesis anterior",
+   "text": "Si tienes una prótesis anterior, llévala."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tu prótesis anterior, si la tienes",
+  "Tus radiografías dentales, si las tienes"
+ ],
+ "steps": [
+  "El dentista revisa la boca y platica contigo el tipo de prótesis",
+  "Toman impresiones",
+  "Registran la mordida y eligen el color y la forma de los dientes",
+  "Prueban un modelo de cera",
+  "Te entregan la prótesis terminada y la ajustan",
+  "A los pocos días, ajuste de las zonas que lastiman"
+ ],
+ "feel": [
+  "Al principio la prótesis se siente grande y puede haber más saliva",
+  "La forma de hablar puede cambiar unos días",
+  "Puede lastimar en algunas zonas. Se arregla en el ajuste"
+ ],
+ "after": [
+  "Empieza con comida suave, en pedacitos",
+  "Lee en voz alta para acostumbrarte más rápido a hablar",
+  "Limpia la prótesis todos los días; en la noche, como te diga el dentista",
+  "No dobles ni arregles la prótesis tú solo"
+ ],
+ "red_flags": [
+  "Una herida en la boca que no sana en más de 1 a 2 semanas: ve al dentista",
+  "La prótesis se rompió o se cuarteó"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo dormir con la prótesis?",
+   "a": "Normalmente se recomienda quitarla en la noche para que las encías descansen. Pregunta al dentista."
+  },
+  {
+   "q": "¿Cuánto tarda uno en acostumbrarse?",
+   "a": "Normalmente unas semanas. Úsala todos los días. Así te acostumbras más rápido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cita para la prótesis. Lleva tu prótesis anterior, si la tienes."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Consulta com hematologista",
+ "also": [
+  "hematologista",
+  "médico do sangue",
+  "consulta de hematologia"
+ ],
+ "what": "É o médico que trata as doenças do sangue e da produção do sangue.",
+ "why": "Com alterações no hemograma: hemoglobina baixa, leucócitos ou plaquetas altos ou baixos. Também com roxos e sangramentos frequentes ou gânglios aumentados.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "O que incomoda: fraqueza, roxos, sangramentos, perda de peso, suor",
+  "Todos os remédios, principalmente os que afinam o sangue",
+  "Se já recebeu transfusão de sangue",
+  "Doenças do sangue na família",
+  "Para mulheres: como é a menstruação"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Leve todos os exames de sangue recentes. Para o médico, a evolução é importante."
+  },
+  {
+   "title": "Outros exames",
+   "text": "Leve ultrassons e laudos, se fez."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Examina a pele e as mucosas",
+  "Apalpa os gânglios e a barriga",
+  "Analisa os exames",
+  "Pede exames ou indica o tratamento"
+ ],
+ "feel": [
+  "Nada desagradável. É um exame comum",
+  "Apalpar a barriga e os gânglios não dói"
+ ],
+ "after": [
+  "Muitas vezes pedem um novo hemograma",
+  "Às vezes são necessários outros exames. O médico explica para quê"
+ ],
+ "red_flags": [
+  "Sangramento forte que não para: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Fui encaminhado ao hematologista. Devo ficar com medo?",
+   "a": "Não. Na maioria das vezes a causa é simples, por exemplo falta de ferro. O médico vai investigar."
+  },
+  {
+   "q": "Quais exames levar?",
+   "a": "Todos os exames de sangue que tiver, principalmente os mais recentes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o hematologista. Leve todos os exames de sangue recentes."
+  }
+ ]
+}

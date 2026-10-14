@@ -1,0 +1,75 @@
+{
+ "title": "Rectosigmoidoscopia",
+ "also": [
+  "rectosigmoidoscopia",
+  "sigmoidoscopia",
+  "rectoscopia",
+  "revisión del recto"
+ ],
+ "what": "El médico revisa el recto y la parte baja del intestino grueso con un tubo con cámara o luz. Puede tomar un pedacito de tejido para analizarlo.",
+ "why": "Con sangre en las heces, dolor o comezón en el ano, cambios en las evacuaciones, antes de tratar hemorroides, o como chequeo.",
+ "duration": "el procedimiento suele durar de 10 a 20 minutos; el reporte es inmediato y el análisis del tejido tarda de 5 a 10 días",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida o suplementos de hierro",
+  "Diabetes",
+  "Enfermedades del corazón",
+  "Alergias a medicamentos o al látex"
+ ],
+ "prepare": [
+  {
+   "title": "Limpieza",
+   "text": "Normalmente te pones un enema la noche anterior y otro en la mañana, o un microenema. El esquema te lo da la clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "La noche anterior, una cena ligera sin verduras, frutas ni frijoles u otras leguminosas. En la mañana puedes no desayunar o desayunar ligero. Pregunta."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Díselo al médico y él decidirá."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus reportes de colonoscopia anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te quitas la ropa de la cintura para abajo o te pones un short desechable",
+  "Te acuestas sobre el lado izquierdo, con las rodillas hacia el pecho",
+  "Primero el médico revisa el ano con el dedo",
+  "Después mete el tubo lubricado y pone un poco de aire",
+  "Revisa las paredes del intestino en el monitor",
+  "Si hace falta, toma un pedacito de tejido. No duele"
+ ],
+ "feel": [
+  "Sensación de llenura y ganas de ir al baño. Es por el aire",
+  "Es molesto, pero normalmente tolerable",
+  "Si duele, díselo al médico"
+ ],
+ "after": [
+  "Los gases salen en una hora",
+  "Puedes comer de inmediato",
+  "Si tomaron muestra, puede haber un poco de sangre en las heces 1 o 2 días"
+ ],
+ "red_flags": [
+  "Dolor fuerte de abdomen, abdomen duro o fiebre: llama a emergencias",
+  "Sangre por el recto con coágulos o que no para: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué se diferencia de la colonoscopia?",
+   "a": "La rectosigmoidoscopia revisa solo la parte baja del intestino y la preparación es más sencilla. La colonoscopia revisa todo el intestino grueso."
+  },
+  {
+   "q": "¿Me la pueden hacer dormido?",
+   "a": "Normalmente se hace sin sedación, porque es corta. Pregunta en la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu rectosigmoidoscopia. Hoy en la noche, el enema o la preparación según la clínica."
+  }
+ ]
+}

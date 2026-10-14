@@ -1,0 +1,81 @@
+{
+ "title": "Cardioversion",
+ "also": [
+  "cardioversion",
+  "electrical cardioversion",
+  "DC cardioversion",
+  "heart rhythm reset"
+ ],
+ "what": "Under brief anesthesia, a short electric shock is given to the chest. It helps the heart go back to a normal rhythm.",
+ "why": "For atrial fibrillation, atrial flutter, and some other heart rhythm problems.",
+ "duration": "the procedure itself takes a few minutes, usually 1 to 3 hours in total; sometimes you stay overnight",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners. You must not miss them",
+  "Allergies",
+  "Any past problems with anesthesia",
+  "If you missed blood thinner pills in recent weeks. Be sure to say so"
+ ],
+ "prepare": [
+  {
+   "title": "Blood thinners",
+   "text": "They are usually taken for several weeks before. Do not miss doses. Sometimes a heart ultrasound through the esophagus is done first."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no food or drink for a few hours. The clinic will tell you the exact time."
+  },
+  {
+   "title": "Before the procedure",
+   "text": "Remove jewelry. Do not put cream on your chest."
+  },
+  {
+   "title": "Getting home",
+   "text": "You cannot drive after anesthesia that day. Have someone take you home."
+  }
+ ],
+ "bring": [
+  "Your referral and ECG",
+  "A list of your medicines",
+  "Documents",
+  "Someone to take you home"
+ ],
+ "steps": [
+  "You lie down, and an IV line is placed",
+  "Large pads are stuck on your chest and back",
+  "The anesthetist gives medicine, and you fall asleep for a few minutes",
+  "The machine gives a short shock, sometimes more than one",
+  "You wake up, and an ECG is taken",
+  "You are watched for a few hours"
+ ],
+ "feel": [
+  "You will not feel the shock. You are asleep",
+  "Sleepiness afterward",
+  "The skin on your chest may be red and sore, like after sunburn"
+ ],
+ "after": [
+  "Keep taking blood thinners exactly as your doctor prescribed",
+  "Do not drive that day",
+  "The rhythm may go off again. Your doctor will order a follow-up ECG"
+ ],
+ "red_flags": [
+  "Chest pain, severe shortness of breath, or fainting: call emergency services",
+  "Sudden weakness of an arm or leg, or trouble speaking: call emergency services",
+  "A strong, racing heartbeat again: tell your doctor"
+ ],
+ "faq": [
+  {
+   "q": "Is a shock to the heart dangerous?",
+   "a": "It is a long-established procedure. It is done with a doctor and monitors watching, while you sleep."
+  },
+  {
+   "q": "Will the rhythm stay normal for good?",
+   "a": "Not always. Sometimes the arrhythmia comes back. Your doctor will choose treatment to prevent that."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Cardioversion tomorrow. Do not miss your blood thinners. Eat and drink only until the time the clinic gave you. Arrange a ride home."
+  }
+ ]
+}

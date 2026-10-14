@@ -1,0 +1,73 @@
+{
+ "title": "Esophageal manometry",
+ "also": [
+  "esophageal manometry",
+  "high-resolution manometry",
+  "HRM",
+  "swallowing muscle test"
+ ],
+ "what": "A thin tube with sensors is passed through your nose into your food pipe. You take sips of water, and the device measures how the food pipe muscles work.",
+ "why": "For trouble swallowing, chest pain with no clear cause, before reflux surgery, or before pH monitoring.",
+ "duration": "usually 20 to 30 minutes; the report usually takes a few days",
+ "tell_doctor": [
+  "All your medicines. Some affect the food pipe. Your doctor will say what to do with them",
+  "Surgery on your food pipe or stomach",
+  "Nose problems, such as a bent septum",
+  "Blood thinners"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no food or drink for 6 hours. Check with the clinic."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Ask your doctor in advance which ones to skip."
+  },
+  {
+   "title": "Clothing",
+   "text": "Comfortable clothes with no tight collar."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past endoscopy reports",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "Your nose is numbed with a gel",
+  "A thin tube is passed through your nose while you swallow",
+  "You lie or sit and breathe calmly",
+  "On command, you take small sips of water, usually about ten",
+  "During the recording, do not talk or swallow extra",
+  "The tube is removed in a few seconds"
+ ],
+ "feel": [
+  "Putting in the tube is unpleasant: your eyes water, and you may gag",
+  "The sips feel odd, but do not hurt"
+ ],
+ "after": [
+  "You can eat and drink right away",
+  "Your nose may feel a little sore",
+  "The report usually takes a few days"
+ ],
+ "red_flags": [
+  "A nosebleed that will not stop, or severe chest pain: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Is it like an upper endoscopy?",
+   "a": "No. The tube is thinner, goes in through the nose, and shows nothing on a screen. It only measures pressure."
+  },
+  {
+   "q": "Why is it done before pH monitoring?",
+   "a": "Manometry helps find the exact spot to place the pH sensor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Esophageal manometry tomorrow. Do not eat or drink for the time the clinic told you. Bring a list of your medicines."
+  }
+ ]
+}

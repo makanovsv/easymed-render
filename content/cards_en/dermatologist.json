@@ -1,0 +1,74 @@
+{
+ "title": "Dermatologist visit",
+ "also": [
+  "dermatologist",
+  "skin doctor",
+  "mole check",
+  "skin specialist"
+ ],
+ "what": "A doctor who treats conditions of the skin, hair, and nails, and checks moles.",
+ "why": "For rashes, itching, acne, spots, hair loss, nail fungus, or changing moles.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "When it appeared and how it has changed",
+  "What you have already applied or taken",
+  "Allergies to medicines or cosmetics",
+  "What medicines you take regularly",
+  "Skin conditions in relatives"
+ ],
+ "prepare": [
+  {
+   "title": "Skin",
+   "text": "On the day of the visit, do not put cream or ointment on the area. The doctor needs to see it as it is."
+  },
+  {
+   "title": "Makeup",
+   "text": "If it is your face, come without makeup. If it is your nails, no nail polish."
+  },
+  {
+   "title": "Photos",
+   "text": "If the rash comes and goes, take photos of it."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Photos of the rash, if you have them",
+  "Names of creams and ointments you used",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "Your skin is checked in good light",
+  "Moles are looked at through a special magnifier called a dermatoscope",
+  "Sometimes a skin scraping is taken for testing",
+  "Treatment or tests are ordered"
+ ],
+ "feel": [
+  "The exam does not hurt",
+  "A scraping feels like a light scratch, almost painless"
+ ],
+ "after": [
+  "Apply treatments as the doctor said, and do not stop the course early",
+  "Compare changes using photos"
+ ],
+ "red_flags": [
+  "Fast-growing swelling of the face or lips, or a rash with a high fever: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I put cream on the rash before the visit?",
+   "a": "Best not on the day of the visit. The doctor needs to see the skin without ointment."
+  },
+  {
+   "q": "How often should moles be checked?",
+   "a": "Usually once a year, unless your doctor says otherwise. More often if a mole changes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Dermatologist visit tomorrow. No cream on the area, and come without makeup or nail polish."
+  }
+ ]
+}

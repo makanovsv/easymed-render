@@ -1,0 +1,64 @@
+{
+ "title": "Raio-X das articulações",
+ "also": [
+  "raio-X de articulação",
+  "radiografia articular",
+  "raio-X do joelho",
+  "raio-X do ombro"
+ ],
+ "what": "É uma radiografia da articulação. Mostra os ossos, o espaço da articulação, fraturas e sinais de desgaste.",
+ "why": "Depois de uma pancada, com dor, inchaço, estalos ou movimento limitado na articulação, ou para controle depois do tratamento.",
+ "duration": "na sala, normalmente de 5 a 15 minutos. O laudo sai no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se há prótese, placa ou parafusos na articulação",
+  "Se é difícil dobrar ou esticar a articulação"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Roupa",
+   "text": "Tire acessórios e coisas de metal na região do exame. Às vezes pedem para trocar de roupa."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Radiografias anteriores dessa articulação, para comparar"
+ ],
+ "steps": [
+  "Você tira a roupa e os acessórios da região",
+  "O técnico coloca a articulação na posição certa",
+  "Normalmente fazem duas imagens, de lados diferentes",
+  "Às vezes fazem as duas articulações ou em pé, com carga",
+  "Em cada imagem, é preciso ficar parado por uns dois segundos"
+ ],
+ "feel": [
+  "Não dói. A imagem leva uma fração de segundo",
+  "Às vezes é preciso aguentar um pouco uma posição desconfortável",
+  "Com lesão recente, a posição pode doer. Avise o técnico"
+ ],
+ "after": [
+  "Você já pode seguir o seu dia",
+  "Com a imagem e o laudo, volte ao ortopedista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O raio-X mostra ligamentos e menisco?",
+   "a": "Não, o raio-X mostra os ossos. Ligamentos e meniscos aparecem melhor na ressonância ou no ultrassom."
+  },
+  {
+   "q": "Para que fazer raio-X da articulação saudável?",
+   "a": "Às vezes, para comparar com a que dói. Quem decide é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o raio-X da articulação. Vista roupa confortável e leve as radiografias anteriores."
+  }
+ ]
+}

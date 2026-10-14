@@ -1,0 +1,76 @@
+{
+ "title": "Pletismografia corporal",
+ "also": [
+  "pletismografia",
+  "pletismografia corporal",
+  "cabine de função pulmonar",
+  "volumes pulmonares"
+ ],
+ "what": "Você fica sentado numa cabine transparente e respira num tubo. O aparelho mede com precisão o volume dos pulmões e como o ar passa pelos brônquios.",
+ "why": "Quando a espirometria comum não basta: para esclarecer doenças do pulmão, antes de cirurgia no pulmão ou para acompanhar o tratamento.",
+ "duration": "normalmente de 20 a 40 minutos, o laudo normalmente sai no mesmo dia",
+ "tell_doctor": [
+  "Quais bombinhas e remédios para respirar você usa",
+  "Se fez cirurgia nos olhos, no peito ou na barriga há pouco tempo",
+  "Se teve infarto há pouco tempo ou tem doença do coração",
+  "Se agora está resfriado ou em crise",
+  "Se tem medo de lugar fechado. A cabine é transparente, e a porta abre na hora"
+ ],
+ "prepare": [
+  {
+   "title": "Cigarro e café",
+   "text": "Não fume por pelo menos algumas horas. De manhã, sem café e sem chá forte."
+  },
+  {
+   "title": "Bombinhas",
+   "text": "Pergunte ao médico se deve usar as bombinhas antes do teste. Não suspenda por conta própria."
+  },
+  {
+   "title": "Comida",
+   "text": "Café da manhã leve, 2 horas antes. Não coma demais."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa folgada, sem cinto apertado."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "As suas bombinhas",
+  "Espirometrias anteriores",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você se senta na cabine transparente, e a porta é fechada",
+  "Colocam um clipe no nariz, e você segura o tubo com os lábios",
+  "Primeiro você respira tranquilo",
+  "O tubo é fechado por um segundo, e você continua respirando de leve",
+  "Às vezes pedem para puxar o ar fundo e soltar com força",
+  "Depois de alguns minutos, a porta é aberta"
+ ],
+ "feel": [
+  "A cabine é fechada, mas transparente, e falam com você o tempo todo",
+  "Quando o tubo fecha, parece difícil respirar. Isso dura 1 a 2 segundos"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "O laudo normalmente sai no mesmo dia"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "E se eu ficar com medo dentro da cabine?",
+   "a": "Fale ou acene com a mão. A porta é aberta na hora."
+  },
+  {
+   "q": "Qual a diferença para a espirometria?",
+   "a": "A espirometria mede o sopro. A pletismografia mostra todo o volume dos pulmões, inclusive o ar que fica depois de soprar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem pletismografia. De manhã, não fume e não tome café. Pergunte ao médico sobre as bombinhas."
+  }
+ ]
+}

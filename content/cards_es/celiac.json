@@ -1,0 +1,69 @@
+{
+ "title": "Prueba de enfermedad celíaca",
+ "also": [
+  "prueba de celiaquía",
+  "anticuerpos antitransglutaminasa",
+  "anti-tTG",
+  "intolerancia al gluten"
+ ],
+ "what": "Es un análisis de sangre de la vena. Busca anticuerpos que aparecen cuando el intestino no tolera bien el gluten.",
+ "why": "Con diarrea frecuente, inflamación del abdomen, pérdida de peso, anemia, niños que no crecen bien, o si hay celiaquía en la familia.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele tardar varios días",
+ "tell_doctor": [
+  "Si ya dejaste el pan y otros alimentos con gluten",
+  "Qué medicamentos tomas, sobre todo cortisona",
+  "Si tienes familiares con enfermedad celíaca"
+ ],
+ "prepare": [
+  {
+   "title": "Gluten",
+   "text": "Lo más importante: hasta el análisis, sigue comiendo pan, pasta y otros alimentos con trigo. Sin gluten, el análisis puede salir normal por error."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente es mejor ir en la mañana en ayunas. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas y él decidirá si hay que cambiar algo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve y la sangre llena el tubo",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un ligero mareo. Avísale a la enfermera"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos, sin doblar el brazo",
+  "Puedes comer de inmediato y seguir con tu día",
+  "No empieces una dieta sin gluten antes de hablar con el médico",
+  "El resultado suele estar en varios días. En el laboratorio te dirán cuándo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo dejar el gluten antes del análisis?",
+   "a": "No. Al contrario, tienes que comerlo como siempre. Si no, el análisis puede no mostrar nada."
+  },
+  {
+   "q": "Si el análisis sale positivo, ¿qué sigue?",
+   "a": "Normalmente el médico pide una endoscopia con biopsia para confirmarlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu prueba de celiaquía. Come como siempre, no dejes el gluten. Mejor ve en ayunas."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Ecocardiograma transesofágico",
+ "also": [
+  "ecocardiograma transesofágico",
+  "ECO transesofágico",
+  "ETE",
+  "ultrassom do coração pelo esôfago"
+ ],
+ "what": "O médico examina o coração com ultrassom por dentro, com um aparelho fino que você engole até o esôfago. Assim o coração aparece muito melhor do que pelo peito.",
+ "why": "Para descartar coágulos no coração antes de corrigir o ritmo, avaliar as válvulas em detalhe ou com suspeita de infecção nas válvulas.",
+ "duration": "o exame em si leva normalmente de 15 a 30 minutos, mais o preparo e o descanso. O laudo normalmente sai no mesmo dia",
+ "tell_doctor": [
+  "Remédios que afinam o sangue. O médico diz o que fazer com eles",
+  "Doenças do esôfago ou do estômago, dificuldade para engolir",
+  "Alergias, principalmente a anestésicos",
+  "Se você usa dentadura ou prótese removível",
+  "Se quer fazer com sedação. Isso normalmente se combina antes"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente nada de comida por 6 horas, e nada de bebida de 2 a 4 horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Pergunte ao médico quais remédios da manhã tomar e com o quê."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Se for com sedação, vá com acompanhante. Depois, não pode dirigir."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ecocardiogramas e eletrocardiogramas anteriores",
+  "Lista de remédios",
+  "Acompanhante, se for com sedação"
+ ],
+ "steps": [
+  "Tiram a prótese dentária e colocam um cateter na veia",
+  "Passam um spray que anestesia a garganta",
+  "Você se deita do lado esquerdo, com um protetor de plástico na boca",
+  "Se for com sedação, aplicam o remédio, e você cochila",
+  "O médico coloca o aparelho na boca e pede para você engolir",
+  "O aparelho fica alguns minutos no esôfago, e o médico examina o coração",
+  "Retiram o aparelho"
+ ],
+ "feel": [
+  "A garganta fica dormente pelo spray, e engolir fica estranho",
+  "Engolir o aparelho é desagradável e pode dar ânsia. Respirar de forma calma ajuda",
+  "Com sedação, normalmente você quase não lembra de nada"
+ ],
+ "after": [
+  "Não coma nem beba por 1 a 2 horas, até passar a dormência da garganta",
+  "A garganta pode ficar um pouco irritada por um ou dois dias",
+  "Depois da sedação, não dirija até o fim do dia",
+  "O laudo normalmente sai no mesmo dia"
+ ],
+ "red_flags": [
+  "Dor forte na garganta ou no peito, sangue ao tossir ou vomitar: procure o médico na hora ou ligue para a emergência",
+  "Dificuldade para engolir ou febre nos dias seguintes"
+ ],
+ "faq": [
+  {
+   "q": "Dá para fazer o eco transesofágico dormindo?",
+   "a": "Muitas vezes sim, com sedação leve. Confirme com a clínica antes."
+  },
+  {
+   "q": "É como uma endoscopia?",
+   "a": "Parecido: também se engole um tubo. Mas o aparelho é mais fino e fica só no esôfago."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem ecocardiograma transesofágico. Fique sem comer e sem beber no horário que a clínica indicou. Leve a lista de remédios."
+  }
+ ]
+}

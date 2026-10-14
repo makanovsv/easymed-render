@@ -1,0 +1,68 @@
+{
+ "title": "Uric acid",
+ "also": [
+  "uric acid test",
+  "gout blood test",
+  "serum urate"
+ ],
+ "what": "This is a blood test from a vein. It shows your uric acid level. Too much of it can cause joint pain.",
+ "why": "For painful, swollen joints, especially the big toe, for kidney stones, high blood pressure, or at a checkup.",
+ "duration": "the blood draw takes a few minutes; results usually come the next day",
+ "tell_doctor": [
+  "What medicines you take, especially water pills",
+  "If you are already treated for gout",
+  "If you had joint pain attacks, and when the last one was"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually fasting: no food for 8 to 12 hours. Plain water is fine. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 1 to 2 days, eat less meat, organ meats, and fish. No alcohol and no hard workouts."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "Past test results, if you have them"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in 1 day. The lab will tell you when"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Does high uric acid mean gout?",
+   "a": "Not always. The doctor diagnoses gout from your symptoms and an exam, not just the test."
+  },
+  {
+   "q": "Can I take the test during an attack?",
+   "a": "Yes, but during an attack the level is sometimes normal. Your doctor may ask you to repeat it later."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Uric acid test tomorrow. No meat, fish, or alcohol today. Do not eat after dinner."
+  }
+ ]
+}

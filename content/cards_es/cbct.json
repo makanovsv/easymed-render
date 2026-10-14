@@ -1,0 +1,63 @@
+{
+ "title": "Tomografía dental (cone beam)",
+ "also": [
+  "tomografía dental",
+  "tomografía cone beam",
+  "CBCT",
+  "radiografía dental en 3D"
+ ],
+ "what": "Es una imagen en 3D de los dientes y las mandíbulas. El médico ve las raíces, los conductos y el hueso desde todos los lados.",
+ "why": "Antes de implantes o de sacar un diente difícil, para tratar conductos, con quistes, antes de brackets, o para revisar los senos de la nariz.",
+ "duration": "normalmente de 5 a 10 minutos; la toma dura menos de un minuto; el resultado muchas veces está de inmediato",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si tienes coronas de metal o implantes. Estorban un poco la imagen, pero no impiden el estudio",
+  "Si te cuesta estar de pie o sentado sin moverte"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No hace falta. Puedes comer y beber."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate aretes, cadenas, piercings, pasadores, lentes y dentaduras removibles."
+  }
+ ],
+ "bring": [
+  "La orden del dentista con la zona a estudiar",
+  "Tus radiografías dentales anteriores"
+ ],
+ "steps": [
+  "Te ponen un mandil protector, si no estorba la imagen",
+  "Te sientas o te paras en el aparato, con la barbilla en el soporte",
+  "Muerdes una pieza y te fijan la cabeza",
+  "El aparato gira alrededor de tu cabeza. No te muevas ni tragues",
+  "La imagen se procesa en la computadora"
+ ],
+ "feel": [
+  "No duele",
+  "Solo tienes que estar quieto menos de un minuto"
+ ],
+ "after": [
+  "Normalmente te dan la imagen en disco o USB; el reporte, el mismo día o después",
+  "Llévala al dentista o al cirujano"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Es peligrosa por la radiación?",
+   "a": "La dosis es mayor que la de una panorámica, pero normalmente menor que la de una tomografía normal de cabeza. Se pide cuando hace falta para el tratamiento."
+  },
+  {
+   "q": "¿Se puede estudiar solo una parte de la mandíbula?",
+   "a": "Sí, muchas veces se estudia una zona pequeña. Así la dosis es menor. El tamaño lo elige el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu tomografía dental. Quítate aretes y piercings, y lleva la orden con la zona a estudiar."
+  }
+ ]
+}

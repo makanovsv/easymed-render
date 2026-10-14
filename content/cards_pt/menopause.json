@@ -1,0 +1,81 @@
+{
+ "title": "Consulta de menopausa",
+ "also": [
+  "menopausa",
+  "climatério",
+  "fogachos",
+  "calorões",
+  "terapia hormonal"
+ ],
+ "what": "O médico ajuda você a passar pela menopausa com mais tranquilidade. Conversa sobre calorões, sono, humor e indica tratamento, se precisar.",
+ "why": "Com calorões, suor, insônia, mudanças de humor, secura vaginal ou menstruação irregular depois dos 40 a 45 anos.",
+ "duration": "a consulta leva normalmente de 30 a 40 minutos; os exames saem em 1 a 7 dias",
+ "tell_doctor": [
+  "Quando foi a última menstruação",
+  "O que mais incomoda: calorões, sono, humor, secura",
+  "Trombose, câncer de mama ou de útero em você ou na família",
+  "Pressão, doenças do fígado, fraturas",
+  "Quais remédios e suplementos você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Anotações",
+   "text": "Anote por uma semana com que frequência vêm os calorões e como você dorme."
+  },
+  {
+   "title": "Exames",
+   "text": "Leve a última mamografia, ultrassom e exames, se tiver."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Pense no que quer conversar: hormônios, ossos, peso, vida sexual."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios e suplementos",
+  "A última mamografia e exames",
+  "Anotações sobre os calorões"
+ ],
+ "steps": [
+  "O médico pergunta sobre os sintomas e a saúde",
+  "Mede a pressão e o peso",
+  "Faz o exame na maca e o exame das mamas",
+  "Pede exames: sangue, ultrassom, mamografia, às vezes densitometria óssea",
+  "Explica as opções de ajuda: estilo de vida, hormônios e outros remédios",
+  "Juntos vocês escolhem o plano"
+ ],
+ "feel": [
+  "Normalmente nada desagradável",
+  "O exame na maca pode incomodar se houver secura. Avise o médico"
+ ],
+ "after": [
+  "Faça os exames da lista",
+  "Se começou tratamento, o controle é normalmente em 2 a 3 meses",
+  "Atividade física, parar de fumar e alimentação com cálcio ajudam os ossos e o coração",
+  "Exame das mamas e preventivo, com regularidade"
+ ],
+ "red_flags": [
+  "Sangramento depois de um ano sem menstruação: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "A terapia hormonal é perigosa?",
+   "a": "Para muitas mulheres, o benefício é maior que o risco, se começar na hora certa. O médico avalia os seus riscos."
+  },
+  {
+   "q": "Quanto tempo duram os calorões?",
+   "a": "Varia, normalmente alguns anos. O tratamento ajuda a diminuir."
+  },
+  {
+   "q": "Preciso de anticoncepcional na menopausa?",
+   "a": "Normalmente sim, até ficar um ano sem menstruar. Confirme com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta de menopausa. Leve a última mamografia, os exames e a lista de remédios."
+  }
+ ]
+}

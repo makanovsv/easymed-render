@@ -1,0 +1,74 @@
+{
+ "title": "Vacuna contra el COVID-19",
+ "also": [
+  "vacuna contra el coronavirus",
+  "vacuna del COVID",
+  "refuerzo de COVID",
+  "vacuna anticovid"
+ ],
+ "what": "Es una inyección de vacuna en el brazo que baja el riesgo de enfermarte gravemente de coronavirus.",
+ "why": "Hoy se recomienda sobre todo a personas mayores, con enfermedades crónicas, embarazadas y personal de salud. Pregúntale al médico si la necesitas.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Si ahora estás enfermo o tienes fiebre",
+  "Reacciones fuertes a vacunas anteriores",
+  "Cuándo fue tu última vacuna o cuándo te enfermaste",
+  "Si estás embarazada",
+  "Enfermedades del sistema inmune o tratamientos que lo debilitan"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando estás sano."
+  },
+  {
+   "title": "Tiempo",
+   "text": "Entre vacunas o después de enfermarte hay que esperar un tiempo. El médico te dirá cuándo."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir fácilmente el brazo."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La cartilla o el certificado de vacunación"
+ ],
+ "steps": [
+  "El médico o la enfermera pregunta cómo te sientes y toma la temperatura",
+  "Descubres el brazo",
+  "Limpian la piel y ponen la inyección",
+  "Anotan la vacuna en tus documentos",
+  "Después de la inyección hay que quedarse sentado en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces duele el brazo por 1 o 2 días",
+  "A veces cansancio, dolor de cabeza o fiebre; normalmente se quita en 1 o 2 días"
+ ],
+ "after": [
+  "Quédate 30 minutos cerca del consultorio",
+  "Descansa si te sientes cansado",
+  "Si necesitas otra dosis, te lo dirá el médico"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o salen ronchas por todo el cuerpo: llama a emergencias",
+  "Dolor en el pecho, el corazón muy acelerado o falta de aire en los primeros días después de la vacuna: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo enfermar por la vacuna?",
+   "a": "No. La vacuna no tiene un virus que pueda causar la enfermedad."
+  },
+  {
+   "q": "¿Tengo que vacunarme si ya me dio COVID?",
+   "a": "A veces sí, sobre todo en grupos de riesgo. El médico te dirá cuándo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu vacuna contra el COVID-19. Lleva tu identificación y tu cartilla de vacunación."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "title": "Cirurgia de varizes",
+ "also": [
+  "cirurgia de varizes",
+  "safenectomia",
+  "retirada de varizes",
+  "flebectomia"
+ ],
+ "what": "O cirurgião retira as veias dilatadas da perna por pequenos cortes. O sangue passa a circular pelas veias profundas saudáveis.",
+ "why": "Nas varizes grandes, com inchaço, peso nas pernas, alterações da pele, quando outros métodos não servem.",
+ "duration": "a cirurgia leva normalmente de 1 a 2 horas, com alta normalmente no mesmo dia ou em 1 a 2 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue e os hormonais",
+  "Se você ou alguém da família já teve trombose",
+  "Alergias",
+  "Doenças do coração, diabetes",
+  "Se já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Ultrassom das veias, exames de sangue e eletrocardiograma. A lista quem dá é a clínica. Na véspera, o médico marca as veias com caneta."
+  },
+  {
+   "title": "Meia",
+   "text": "Compre antes a meia de compressão no tamanho e na compressão certos. O médico vai dizer quais."
+  },
+  {
+   "title": "Comida",
+   "text": "Com anestesia geral ou raquidiana, normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Pele",
+   "text": "Tome banho na véspera. Às vezes pedem para raspar os pelos da perna. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico e ultrassom das veias",
+  "Exames e documentos",
+  "A meia de compressão",
+  "Sapato confortável e calça larga"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "Aplicam anestesia geral, raquidiana ou local",
+  "Por pequenos cortes, o cirurgião retira as veias dilatadas",
+  "Às vezes a veia principal é fechada por dentro com laser ou radiofrequência",
+  "Os cortes são suturados ou colados",
+  "Na hora, colocam a meia de compressão ou uma faixa"
+ ],
+ "feel": [
+  "Dor tipo repuxo ao longo das veias. Dão analgésico",
+  "Roxos na perna por algumas semanas",
+  "Às vezes dormência numa pequena área da pele, que costuma passar"
+ ],
+ "after": [
+  "Caminhe já no primeiro dia. Isso protege contra trombose",
+  "Use a meia pelo tempo que o médico indicar",
+  "Por algumas semanas, sem sauna, sem peso e sem ficar muito tempo sentado",
+  "Ultrassom de controle, conforme o calendário do médico"
+ ],
+ "red_flags": [
+  "Dor forte e inchaço na perna toda: ligue para o médico",
+  "Falta de ar ou dor no peito de repente: ligue para a emergência",
+  "Febre acima de 38 graus, vermelhidão ou pus nos cortes"
+ ],
+ "faq": [
+  {
+   "q": "Não faz mal tirar as veias?",
+   "a": "Só são retiradas as veias superficiais doentes. O sangue passa pelas profundas, que dão conta."
+  },
+  {
+   "q": "As varizes voltam?",
+   "a": "Às vezes aparecem novas veias dilatadas. Atividade física, meias e acompanhamento médico ajudam."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia de varizes. Leve a meia de compressão, os documentos e sapato confortável. Comida e água, só até o horário que a clínica indicou."
+  }
+ ]
+}

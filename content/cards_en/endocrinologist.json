@@ -1,0 +1,73 @@
+{
+ "title": "Endocrinologist visit",
+ "also": [
+  "endocrinologist",
+  "hormone doctor",
+  "thyroid doctor",
+  "diabetes specialist"
+ ],
+ "what": "A doctor who treats hormone conditions: thyroid problems, diabetes, and weight and metabolism problems.",
+ "why": "For diabetes, thyroid changes, sudden weight change, constant tiredness, or irregular periods.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "What bothers you, and since when",
+  "All your medicines, especially hormones and diabetes medicines",
+  "How your weight has changed",
+  "Thyroid conditions or diabetes in relatives",
+  "If you are pregnant or planning to be"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "If the doctor may send you for blood tests right away, ask the clinic whether to come fasting."
+  },
+  {
+   "title": "Diary",
+   "text": "With diabetes, bring your blood sugar records and your meter."
+  },
+  {
+   "title": "Past tests",
+   "text": "Bring past hormone tests and thyroid ultrasounds, if you had them."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your glucose meter and sugar diary, if you have them",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms and medicines",
+  "Your blood pressure, height, and weight are measured",
+  "Your neck and thyroid are felt",
+  "Your test results are reviewed",
+  "Tests or treatment are ordered"
+ ],
+ "feel": [
+  "Nothing unpleasant. It is a regular checkup",
+  "Feeling the neck does not hurt"
+ ],
+ "after": [
+  "Have the tests ordered and come back with the results",
+  "Do not change medicine doses on your own. Only your doctor decides"
+ ],
+ "red_flags": [
+  "Very high or very low blood sugar, confusion, or severe weakness: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Do I need to fast?",
+   "a": "Not for the visit itself. But if the doctor may send you for a blood test right away, fasting helps. Check with the clinic."
+  },
+  {
+   "q": "Should I have hormone tests first?",
+   "a": "You can bring past tests. The doctor will decide which ones are needed now."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Endocrinologist visit tomorrow. Bring your test results, sugar diary, and medicine list."
+  }
+ ]
+}

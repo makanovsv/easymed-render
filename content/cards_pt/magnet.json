@@ -1,0 +1,68 @@
+{
+ "title": "Magnetoterapia",
+ "also": [
+  "magnetoterapia",
+  "fisioterapia com campo magnético",
+  "tratamento com ímã",
+  "campo magnético terapêutico"
+ ],
+ "what": "O aparelho cria um campo magnético fraco sobre o local doente. Isso ajuda a diminuir o inchaço e a dor.",
+ "why": "Com dores nas articulações e nas costas, depois de lesões e fraturas, com inchaço, por indicação do médico.",
+ "duration": "a sessão dura normalmente de 10 a 20 minutos; o tratamento costuma ter cerca de 10 sessões",
+ "tell_doctor": [
+  "Se você usa marca-passo ou outro aparelho implantado",
+  "Se você está grávida",
+  "Se tem sangramentos ou toma remédios que afinam o sangue",
+  "Se está com febre",
+  "Doenças oncológicas"
+ ],
+ "prepare": [
+  {
+   "title": "Metal",
+   "text": "Tire o relógio e as joias. Mantenha cartões de banco e celular longe do aparelho."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável. Muitas vezes a sessão é feita por cima da roupa ou do curativo. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "O pedido do médico",
+  "Roupa confortável"
+ ],
+ "steps": [
+  "Você deita ou senta",
+  "O emissor do aparelho é colocado sobre o local doente ou perto dele",
+  "A enfermagem liga o aparelho e ajusta o tempo",
+  "Você fica tranquilo até o sinal",
+  "O aparelho é retirado, e você pode ir"
+ ],
+ "feel": [
+  "Normalmente não se sente nada",
+  "Às vezes um leve calor ou formigamento"
+ ],
+ "after": [
+  "Pode voltar às atividades normais na hora",
+  "Vá às sessões conforme o calendário. O tratamento completo é o que importa",
+  "Às vezes, nos primeiros dias, a dor aumenta um pouco e depois passa. Avise o médico"
+ ],
+ "red_flags": [
+  "Tontura, fraqueza forte ou pico de pressão depois da sessão: avise o médico"
+ ],
+ "faq": [
+  {
+   "q": "Pode fazer com gesso?",
+   "a": "Muitas vezes sim, a sessão é feita por cima do gesso. O médico decide."
+  },
+  {
+   "q": "Faz mal?",
+   "a": "O campo é fraco e age só no local. O médico confere as contraindicações antes de indicar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Hoje é a magnetoterapia. Tire o relógio e as joias e leve o pedido do médico."
+  }
+ ]
+}

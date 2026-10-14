@@ -1,0 +1,68 @@
+{
+ "title": "D-dimer",
+ "also": [
+  "D-dimer test",
+  "blood clot test",
+  "DVT blood test"
+ ],
+ "what": "This is a blood test from a vein. It helps show whether there are fresh blood clots in your blood vessels.",
+ "why": "For a possible clot in the leg or lungs, sometimes in pregnancy, after surgery, or with some illnesses.",
+ "duration": "the blood draw takes a few minutes; results usually come the same or the next day",
+ "tell_doctor": [
+  "If you take blood thinners",
+  "If you are pregnant or recently gave birth",
+  "If you recently had surgery or an injury",
+  "If one leg is swollen and painful"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "Usually nothing special. Best fasting or a few hours after a light meal. Check with the lab."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in 1 day. The lab will tell you when",
+  "A high D-dimer is not a diagnosis. The doctor may order a vein ultrasound or other tests"
+ ],
+ "red_flags": [
+  "Sudden shortness of breath, chest pain, or coughing up blood: call emergency services. Do not wait for the test",
+  "One leg suddenly swells, turns red, and hurts: see a doctor the same day"
+ ],
+ "faq": [
+  {
+   "q": "Does a high D-dimer mean I have a clot?",
+   "a": "Not necessarily. It goes up in pregnancy, with inflammation, after surgery, and with age. Your doctor decides."
+  },
+  {
+   "q": "Why do this test if I feel fine?",
+   "a": "Sometimes it is ordered for monitoring, for example in pregnancy. Ask your doctor why."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "D-dimer test tomorrow. Best to come before eating. Water is fine."
+  }
+ ]
+}

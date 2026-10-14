@@ -1,0 +1,73 @@
+{
+ "title": "Consulta com urologista pediátrico",
+ "also": [
+  "urologista pediátrico",
+  "urologista infantil",
+  "urologista para criança",
+  "consulta de urologia infantil"
+ ],
+ "what": "O médico examina os órgãos genitais e o sistema urinário da criança. Verifica se estão se desenvolvendo bem.",
+ "why": "Nas consultas de rotina dos meninos, com problemas para fazer xixi, escape de xixi, inchaço ou dor no saco escrotal.",
+ "duration": "normalmente de 15 a 30 minutos, com orientações na hora",
+ "tell_doctor": [
+  "O que incomoda e desde quando",
+  "Com que frequência a criança faz xixi e se tem \"acidentes\"",
+  "Se já teve infecção urinária",
+  "Se já fez cirurgias",
+  "Quais remédios a criança toma"
+ ],
+ "prepare": [
+  {
+   "title": "Conversa com a criança",
+   "text": "Explique com calma que o médico vai olhar e que não dói. Não use o médico para dar medo."
+  },
+  {
+   "title": "Higiene",
+   "text": "De manhã, a higiene de sempre, sem produtos especiais."
+  },
+  {
+   "title": "Exames",
+   "text": "Se o médico pediu antes exame de urina ou ultrassom, faça antes da consulta."
+  }
+ ],
+ "bring": [
+  "Documento da criança",
+  "Exames de urina e ultrassons anteriores, se tiver",
+  "Fralda ou troca de roupa íntima para o pequeno"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas e o desenvolvimento da criança",
+  "Pedem para a criança tirar a roupa da cintura para baixo",
+  "O médico examina os genitais, às vezes em pé e deitado",
+  "Se preciso, apalpa a barriga",
+  "O médico explica o que viu e passa orientações"
+ ],
+ "feel": [
+  "O exame normalmente não dói",
+  "A criança pode ficar com vergonha ou chorar. Você está perto, é normal"
+ ],
+ "after": [
+  "Se pediram ultrassom ou exames, faça e volte para retorno",
+  "Siga as orientações de higiene"
+ ],
+ "red_flags": [
+  "Dor forte e repentina ou inchaço no saco escrotal: procure o médico com urgência ou ligue para a emergência",
+  "A criança não consegue fazer xixi"
+ ],
+ "faq": [
+  {
+   "q": "Preciso puxar a pele do pênis do bebê?",
+   "a": "Não. Isso não deve ser feito à força. O médico explica como cuidar."
+  },
+  {
+   "q": "Com que idade levar o menino ao urologista?",
+   "a": "Normalmente ele é examinado nas consultas de rotina. Se houver queixas, em qualquer idade."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o urologista pediátrico. Leve o documento da criança e os exames anteriores."
+  }
+ ]
+}

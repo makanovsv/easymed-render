@@ -1,0 +1,72 @@
+{
+ "title": "Health check after 60",
+ "also": [
+  "senior health check",
+  "annual wellness visit",
+  "checkup for older adults",
+  "health screening over 60"
+ ],
+ "what": "A routine health check for people over 60. The doctor checks blood pressure, blood sugar, heart, memory, vision, and fall risk.",
+ "why": "Once a year or on schedule, to catch conditions early and adjust medicines.",
+ "duration": "usually 1 to 2 visits; test results in 1 to 3 days",
+ "tell_doctor": [
+  "All the medicines you take, including herbs and supplements",
+  "Any falls or dizziness",
+  "If your memory, sleep, hearing, or vision has gotten worse",
+  "Long-term conditions and surgeries"
+ ],
+ "prepare": [
+  {
+   "title": "Medicines",
+   "text": "Put all your medicine packs in a bag and bring them."
+  },
+  {
+   "title": "Tests",
+   "text": "Blood is usually taken in the morning on an empty stomach. Plain water is fine. Check with the clinic."
+  },
+  {
+   "title": "Morning medicines",
+   "text": "Do not stop them on your own. Ask your doctor whether to take morning medicines before the tests."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "All your medicines, or a list",
+  "Past test results and discharge papers",
+  "Glasses and a hearing aid, if you use them"
+ ],
+ "steps": [
+  "You give blood and urine samples",
+  "The nurse checks your blood pressure, weight, and height",
+  "An ECG and other listed tests are done",
+  "The doctor asks how you feel and about your medicines",
+  "A few questions about memory and mood",
+  "The results and plan are discussed with you"
+ ],
+ "feel": [
+  "Usually nothing unpleasant, except the needle for the blood test",
+  "You may get tired. Bring water and a snack"
+ ],
+ "after": [
+  "The doctor may adjust your medicines. Do not change them on your own",
+  "If needed, you will be referred to specialists",
+  "Discuss vaccines for older adults with your doctor"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why bring all my medicines?",
+   "a": "The doctor will check for duplicates and how they work together. This matters more with age."
+  },
+  {
+   "q": "Can I bring a family member?",
+   "a": "Yes, it often helps. They can remember the doctor's advice."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Health check tomorrow. Bring all your medicines and your ID. Tests in the morning on an empty stomach. Water is fine."
+  }
+ ]
+}

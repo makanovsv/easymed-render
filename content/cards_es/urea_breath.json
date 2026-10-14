@@ -1,0 +1,67 @@
+{
+ "title": "Prueba de aliento para Helicobacter",
+ "also": [
+  "prueba de aliento",
+  "prueba de urea en aliento",
+  "test de aliento para H. pylori",
+  "prueba del soplido"
+ ],
+ "what": "Te tomas una solución especial y soplas en una bolsa o un tubo. Con el aire que sacas se ve si hay Helicobacter en el estómago.",
+ "why": "Con dolor de estómago, acidez, úlcera, o para revisar después del tratamiento del Helicobacter.",
+ "duration": "normalmente de 30 a 40 minutos; el resultado muchas veces está el mismo día",
+ "tell_doctor": [
+  "Si tomaste antibióticos en el último mes",
+  "Si tomas medicamentos para la acidez",
+  "Si alguna vez te trataron el Helicobacter y cuándo terminaste",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "En ayunas: normalmente 6 horas sin comer. Pregunta en la clínica si puedes tomar agua."
+  },
+  {
+   "title": "Cigarro y chicle",
+   "text": "El día de la prueba no fumes ni masques chicle."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Los antibióticos y los medicamentos para la acidez pueden alterar el resultado. No los suspendas por tu cuenta. Díselo al médico y él decidirá."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "Soplas en la primera bolsa o tubo. Es la muestra inicial",
+  "Te tomas un vaso de la solución. Normalmente sabe un poco ácida",
+  "Te quedas sentado tranquilo, normalmente de 15 a 30 minutos",
+  "Soplas en la segunda bolsa o tubo",
+  "Las muestras se mandan a analizar"
+ ],
+ "feel": [
+  "Nada molesto. Solo tienes que esperar tranquilo"
+ ],
+ "after": [
+  "Puedes comer de inmediato y seguir con tu día",
+  "El resultado suele estar el mismo día o al día siguiente. En el laboratorio te dirán cuándo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Es segura la prueba de aliento?",
+   "a": "Sí, normalmente se usa una solución que no es radiactiva. También sirve como control después del tratamiento."
+  },
+  {
+   "q": "¿Cuándo me reviso después del tratamiento?",
+   "a": "Normalmente al menos 4 semanas después de terminarlo. El médico te dirá cuándo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "Hoy es tu prueba de aliento para Helicobacter. 6 horas antes no comas, no fumes y no masques chicle."
+  }
+ ]
+}

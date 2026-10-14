@@ -1,0 +1,70 @@
+{
+ "title": "Consulta para psoríase",
+ "also": [
+  "psoríase",
+  "placas de psoríase",
+  "dermatologista para psoríase",
+  "placas na pele"
+ ],
+ "what": "O dermatologista examina a pele, as unhas e as articulações e escolhe o tratamento. A psoríase não é contagiosa e pode ser mantida sob controle.",
+ "why": "Com placas vermelhas que descamam, coceira ou alterações nas unhas, para escolher ou rever o tratamento.",
+ "duration": "a consulta leva normalmente de 20 a 30 minutos. O tratamento é escolhido para longo prazo",
+ "tell_doctor": [
+  "Quando apareceram as lesões e o que faz piorar",
+  "Quais pomadas e remédios você já tentou",
+  "Dor e inchaço nas articulações",
+  "Gravidez ou planos de engravidar",
+  "Outras doenças e remédios"
+ ],
+ "prepare": [
+  {
+   "title": "Pele",
+   "text": "Um dia antes da consulta, não passe nada nas lesões, para o médico ver a pele como ela está, se o médico não disse diferente."
+  },
+  {
+   "title": "Foto",
+   "text": "Se agora melhorou, leve fotos das lesões da época da crise."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Lista de remédios e pomadas",
+  "Exames e laudos de médicos anteriores"
+ ],
+ "steps": [
+  "O médico pergunta sobre os sintomas e o tratamento",
+  "Examina a pele, o couro cabeludo e as unhas",
+  "Pergunta sobre as articulações",
+  "Se precisar, pede exames",
+  "Escolhe o tratamento e explica como usar",
+  "Marca o retorno"
+ ],
+ "feel": [
+  "A consulta não dói",
+  "Às vezes o médico raspa com cuidado algumas escamas para examinar"
+ ],
+ "after": [
+  "Use o tratamento com regularidade, mesmo se melhorar, como o médico orientar",
+  "Hidrate a pele todos os dias",
+  "Não pare os remédios por conta própria. Fale com o médico, ele decide"
+ ],
+ "red_flags": [
+  "A pele ficou vermelha em quase todo o corpo, com calafrios e febre: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Psoríase pega?",
+   "a": "Não. Ninguém pega psoríase de outra pessoa."
+  },
+  {
+   "q": "A psoríase tem cura definitiva?",
+   "a": "Totalmente, normalmente não. Mas o tratamento ajuda a tirar as lesões por muito tempo e a viver tranquilo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a consulta com o dermatologista. Leve a lista de pomadas e remédios que você já tentou."
+  }
+ ]
+}

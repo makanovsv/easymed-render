@@ -1,0 +1,76 @@
+{
+ "title": "Control del sangrado nasal",
+ "also": [
+  "sangrado de nariz",
+  "epistaxis",
+  "cauterización nasal",
+  "taponamiento nasal"
+ ],
+ "what": "El médico encuentra de dónde sale la sangre y la detiene. A veces cauteriza el vaso o pone un tapón en la nariz.",
+ "why": "Cuando la sangre de la nariz no se detiene sola o se repite seguido.",
+ "duration": "normalmente de 15 a 30 minutos; si ponen un tapón, normalmente se quita en 1 a 2 días",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. No los dejes por tu cuenta",
+  "Si tienes presión alta",
+  "Enfermedades de la sangre o si te salen moretones fácilmente",
+  "Si te golpeaste la nariz"
+ ],
+ "prepare": [
+  {
+   "title": "En este momento",
+   "text": "Siéntate e inclina la cabeza hacia adelante, no hacia atrás. Aprieta firme la parte blanda de la nariz por 10 a 15 minutos."
+  },
+  {
+   "title": "Qué no hacer",
+   "text": "No eches la cabeza hacia atrás y no te tragues la sangre."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Si tomas medicamentos que hacen la sangre más líquida, díselo al médico. No los dejes por tu cuenta."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Pañuelos desechables"
+ ],
+ "steps": [
+  "El médico limpia los coágulos de la nariz",
+  "Anestesia la nariz por dentro con spray o algodones",
+  "Encuentra el vaso que sangra",
+  "Lo cauteriza o pone un tapón",
+  "A veces te toman la presión",
+  "Te explican qué hacer en casa"
+ ],
+ "feel": [
+  "Es molesto y puede arder",
+  "El tapón no te deja respirar por la nariz y te hace llorar"
+ ],
+ "after": [
+  "Por unos días no te suenes ni te metas el dedo en la nariz",
+  "Los primeros días no cargues cosas pesadas ni tomes bebidas calientes",
+  "Si tienes tapón, te lo quitan en la clínica",
+  "Humedece el aire en casa"
+ ],
+ "red_flags": [
+  "La sangre no se detiene en más de 20 minutos o sale mucha: llama a emergencias",
+  "Debilidad, mareo o palidez",
+  "Sangrado después de un golpe en la cabeza: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué no hay que echar la cabeza hacia atrás?",
+   "a": "La sangre baja a la garganta, te la tragas y puedes vomitar."
+  },
+  {
+   "q": "¿Por qué me sangra la nariz seguido?",
+   "a": "Muchas veces por el aire seco y vasos frágiles. El médico encontrará la causa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "En una hora es tu consulta por el sangrado de nariz. Lleva la lista de tus medicamentos."
+  }
+ ]
+}

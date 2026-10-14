@@ -1,0 +1,88 @@
+{
+ "title": "Laparoscopia por quiste de ovario",
+ "also": [
+  "quistectomía de ovario",
+  "laparoscopia de ovario",
+  "cirugía de quiste de ovario",
+  "quitar quiste de ovario"
+ ],
+ "what": "Por varios orificios pequeños en el abdomen, el cirujano quita el quiste y conserva con cuidado el tejido sano del ovario. La cirugía es con anestesia general.",
+ "why": "Cuando el quiste no se quita solo, crece, duele o en el ultrasonido genera dudas.",
+ "duration": "la cirugía suele durar de 40 a 90 minutos, en el hospital normalmente 1 o 2 días; el resultado de patología llega en 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Tus alergias",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si te han operado del abdomen antes",
+  "Si planeas embarazarte"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma, ultrasonido y a veces marcadores tumorales. La clínica te da la lista."
+  },
+  {
+   "title": "Día del ciclo",
+   "text": "Normalmente la cirugía se programa fuera de la regla. Pregúntale al médico."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de análisis",
+  "Los resultados del ultrasonido",
+  "Tus documentos",
+  "Tus cosas para el hospital para 1 o 2 días"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "En el quirófano el anestesiólogo te pone la anestesia y te duermes",
+  "El cirujano hace 3 o 4 orificios pequeños y mete la cámara y los instrumentos",
+  "Separa con cuidado el quiste del ovario y lo quita",
+  "Cierran los orificios con puntos o con cinta",
+  "Despiertas en la sala de recuperación"
+ ],
+ "feel": [
+  "Después de la anestesia hay sueño y a veces náuseas",
+  "Dolor donde hicieron los orificios. Te dan analgésicos",
+  "Muchas veces duele el hombro por el gas. Se quita en 1 o 2 días",
+  "Puede haber un poco de sangrado vaginal"
+ ],
+ "after": [
+  "Normalmente te dejan levantarte el mismo día",
+  "No cargues cosas pesadas por 2 a 4 semanas",
+  "Sin relaciones sexuales, tina ni alberca, normalmente de 2 a 4 semanas; el médico te dirá exactamente",
+  "El médico te explica el resultado de patología"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38, o dolor fuerte o que aumenta en el abdomen",
+  "Mareo, desmayo o debilidad repentina: llama a emergencias",
+  "Enrojecimiento o pus en los orificios"
+ ],
+ "faq": [
+  {
+   "q": "¿Voy a conservar el ovario?",
+   "a": "Normalmente sí. El cirujano quita solo el quiste y cuida el tejido sano."
+  },
+  {
+   "q": "¿Me podré embarazar después?",
+   "a": "Normalmente sí. Si planeas un embarazo, díselo antes al médico."
+  },
+  {
+   "q": "¿El quiste puede volver?",
+   "a": "A veces regresa. El médico te dirá cada cuánto hacerte ultrasonido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de ovario. Junta tus documentos, el ultrasonido y tus cosas. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

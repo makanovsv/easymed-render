@@ -1,0 +1,88 @@
+{
+ "title": "Coronary CT angiography",
+ "also": [
+  "coronary CT angiography",
+  "CCTA",
+  "cardiac CT angiogram",
+  "CT scan of the heart arteries"
+ ],
+ "what": "Images of the heart's arteries on a CT scanner, with contrast dye into a vein. They show narrowing and plaques.",
+ "why": "For chest pain, to check the heart arteries without a catheter, or when stress test results are unclear.",
+ "duration": "usually 20 to 40 minutes in the room including prep; the scan itself takes a few seconds; the report in 1 to 2 days",
+ "tell_doctor": [
+  "Allergy to iodine or contrast dye",
+  "Kidney disease, diabetes, and your diabetes medicines",
+  "The heart and blood pressure medicines you take",
+  "Asthma. It can affect the choice of medicine to slow your pulse",
+  "If you are or might be pregnant",
+  "If you have stents or had bypass surgery"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no food for 3 to 4 hours. Water is fine. Check with the clinic."
+  },
+  {
+   "title": "Coffee",
+   "text": "On the day of the scan, you are usually asked to skip coffee, strong tea, and energy drinks. They speed up your pulse."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop your medicines on your own. Tell your doctor. They will decide. Sometimes a pill is given before the scan to slow your pulse."
+  },
+  {
+   "title": "Blood test",
+   "text": "A recent creatinine test is often needed."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A creatinine test",
+  "ECGs and cardiologist reports",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "An IV line is put in a vein in your arm",
+  "Your pulse is checked. If it is fast, medicine is given to slow it",
+  "ECG stickers are put on your chest",
+  "Sometimes a pill or spray under the tongue is given to widen the arteries",
+  "You lie on the table and practice holding your breath on command",
+  "Contrast is given and images are taken. Hold your breath for a few seconds",
+  "After the scan, the IV line is removed"
+ ],
+ "feel": [
+  "It does not hurt, apart from the IV line",
+  "With contrast: a wave of warmth and a metallic taste",
+  "The spray under the tongue may cause a mild headache"
+ ],
+ "after": [
+  "Sit for 15 to 30 minutes under observation",
+  "Drink more water, unless your doctor said otherwise",
+  "The report usually comes in 1 to 2 days. Take it to a cardiologist"
+ ],
+ "red_flags": [
+  "Pressing chest pain for more than 15 minutes, shortness of breath, or cold sweat: call emergency services right away",
+  "After contrast: itching, a rash, a swollen face, or trouble breathing. Tell the staff right away or call emergency services",
+  "The IV site becomes very swollen and painful"
+ ],
+ "faq": [
+  {
+   "q": "Can CT replace a regular coronary angiogram?",
+   "a": "They are different methods. CT checks the arteries without a catheter. If a severe narrowing is found, a regular angiogram may be ordered."
+  },
+  {
+   "q": "Why slow the pulse?",
+   "a": "The heart moves. With a slow pulse, the image is sharper."
+  },
+  {
+   "q": "Can I have coffee in the morning?",
+   "a": "Usually not. It speeds up your pulse. Check with the clinic."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Coronary CT tomorrow. No coffee or strong tea in the morning. Bring your creatinine test and a list of your medicines."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Transfusão de sangue",
+ "also": [
+  "transfusão de sangue",
+  "hemotransfusão",
+  "transfusão de concentrado de hemácias",
+  "transfusão de plasma"
+ ],
+ "what": "Pelo soro na veia, você recebe sangue de um doador ou uma parte dele: hemácias, plasma ou plaquetas.",
+ "why": "Com anemia forte, grande perda de sangue, durante cirurgias ou em algumas doenças do sangue.",
+ "duration": "uma bolsa normalmente leva de 1 a 4 horas, mais o tempo de observação",
+ "tell_doctor": [
+  "Se já recebeu transfusões e se teve reação",
+  "Gestações anteriores",
+  "Doenças do coração e dos rins",
+  "Se, por suas crenças, você é contra a transfusão, avise antes"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes da transfusão, determinam o tipo de sangue e testam a compatibilidade. Isso é obrigatório."
+  },
+  {
+   "title": "Consentimento",
+   "text": "O médico explica por que a transfusão é necessária, e você assina o termo de consentimento."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer e beber como sempre, se o médico não disser diferente."
+  }
+ ],
+ "bring": [
+  "Documentos",
+  "Relatórios anteriores com o tipo de sangue e transfusões"
+ ],
+ "steps": [
+  "Colhem sangue para o tipo e a compatibilidade",
+  "Colocam um cateter na veia",
+  "A enfermeira e o médico, ao lado da cama, conferem o seu nome e os dados da bolsa",
+  "Antes de começar, conferem o tipo de sangue de novo",
+  "Nos primeiros minutos, o sangue pinga devagar, e acompanham você de perto",
+  "Medem a pressão, o pulso e a temperatura regularmente"
+ ],
+ "feel": [
+  "Normalmente nada de especial",
+  "Às vezes calafrios ou febre. Avise a enfermeira na hora"
+ ],
+ "after": [
+  "Normalmente você fica mais um tempo em observação",
+  "Depois de um tempo, repetem o exame de sangue",
+  "Às vezes a reação aparece nas primeiras 24 horas. Avise o médico se sentir qualquer mal-estar"
+ ],
+ "red_flags": [
+  "Durante a transfusão: calafrios, calor, dor nas costas ou no peito, falta de ar, manchas na pele. Chame a enfermeira na hora",
+  "Em casa, nas primeiras 24 horas: falta de ar, urina escura, pele amarelada, febre alta. Ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso pegar alguma doença pela transfusão?",
+   "a": "O sangue doado é testado para infecções. O risco é muito baixo. O médico explica melhor."
+  },
+  {
+   "q": "Posso doar sangue para um parente?",
+   "a": "Às vezes pode, mas quem decide é o hemocentro. O sangue do parente também passa por todos os testes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoje é a transfusão de sangue. Leve os documentos. Se já recebeu transfusão antes, avise o médico."
+  }
+ ]
+}

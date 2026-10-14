@@ -1,0 +1,81 @@
+{
+ "title": "Menopause appointment",
+ "also": [
+  "menopause",
+  "perimenopause",
+  "hot flashes",
+  "hormone replacement therapy",
+  "HRT"
+ ],
+ "what": "The doctor helps you go through menopause more comfortably. They look at hot flashes, sleep, and mood, and suggest treatment if needed.",
+ "why": "For hot flashes, sweating, sleeplessness, mood swings, vaginal dryness, or irregular periods after age 40 to 45.",
+ "duration": "the visit usually takes 30 to 40 minutes; test results come in 1 to 7 days",
+ "tell_doctor": [
+  "When your last period was",
+  "What bothers you most: hot flashes, sleep, mood, dryness",
+  "Blood clots, or breast or uterine cancer, in you or relatives",
+  "High blood pressure, liver disease, or broken bones",
+  "What medicines and supplements you take"
+ ],
+ "prepare": [
+  {
+   "title": "Notes",
+   "text": "For a week, write down how often you have hot flashes and how you sleep."
+  },
+  {
+   "title": "Tests",
+   "text": "Bring your latest mammogram, ultrasound, and test results, if you have them."
+  },
+  {
+   "title": "Questions",
+   "text": "Think about what you want to discuss: hormones, bones, weight, sex."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your medicines and supplements",
+  "Your latest mammogram and test results",
+  "Your hot flash notes"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms and health",
+  "Your blood pressure and weight are checked",
+  "A pelvic exam and breast exam are done",
+  "You get referrals: blood tests, ultrasound, mammogram, sometimes a bone density scan",
+  "The options are explained: lifestyle, hormones, and other medicines",
+  "Together you choose a plan"
+ ],
+ "feel": [
+  "Usually nothing unpleasant",
+  "The pelvic exam may be uncomfortable with dryness. Tell your doctor"
+ ],
+ "after": [
+  "Have your tests as listed",
+  "If treatment is prescribed, a follow-up is usually after 2 to 3 months",
+  "Exercise, not smoking, and a diet with calcium help your bones and heart",
+  "Have breast checks and smear tests regularly"
+ ],
+ "red_flags": [
+  "Bleeding after your periods have stopped for a year: see a doctor"
+ ],
+ "faq": [
+  {
+   "q": "Is hormone therapy dangerous?",
+   "a": "For many women, the benefits outweigh the risks if started at the right time. Your doctor will assess your risks."
+  },
+  {
+   "q": "How long do hot flashes last?",
+   "a": "It varies, usually a few years. Treatment helps reduce them."
+  },
+  {
+   "q": "Do I need birth control during menopause?",
+   "a": "Usually yes, until your periods have stopped for a year. Check with your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Menopause appointment tomorrow. Bring your latest mammogram, test results, and medicine list."
+  }
+ ]
+}

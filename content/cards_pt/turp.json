@@ -1,0 +1,85 @@
+{
+ "title": "RTU de próstata",
+ "also": [
+  "ressecção transuretral da próstata",
+  "RTU",
+  "cirurgia de próstata",
+  "raspagem da próstata"
+ ],
+ "what": "Pela uretra, o cirurgião retira a parte da próstata aumentada que atrapalha o xixi. Não há cortes na pele.",
+ "why": "No aumento da próstata, quando é difícil urinar e os remédios não ajudam, ou se já houve retenção de urina.",
+ "duration": "a cirurgia leva normalmente de 1 hora a 1 hora e meia, com internação normalmente de 2 a 5 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergias",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se você está com sonda na bexiga",
+  "Se já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue e de urina, eletrocardiograma, ultrassom, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Normalmente é feita raquianestesia ou anestesia geral. O anestesista conversa com você sobre a opção."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Coisas",
+   "text": "Roupa confortável, chinelo, carregador e os remédios que você toma sempre."
+  }
+ ],
+ "bring": [
+  "Pedido médico e exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para ficar alguns dias no hospital"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "Aplicam a anestesia: a parte de baixo do corpo fica sem sensação, ou você dorme",
+  "O cirurgião introduz um instrumento fino com câmera pela uretra",
+  "O excesso de tecido da próstata é retirado aos pedaços",
+  "No final, colocam uma sonda na bexiga",
+  "Pela sonda a bexiga é lavada, e a urina pode sair rosada"
+ ],
+ "feel": [
+  "Vontade de urinar por causa da sonda. É normal",
+  "Ardência ao urinar nos primeiros dias depois de tirar a sonda",
+  "Depois da anestesia, sono"
+ ],
+ "after": [
+  "A sonda normalmente é retirada em 1 a 3 dias",
+  "Beba bastante água, se o médico não disser outra coisa",
+  "Um pouco de sangue na urina pode aparecer por algumas semanas",
+  "Sem peso, bicicleta e relação sexual, normalmente por 4 a 6 semanas",
+  "A ejaculação muitas vezes fica \"seca\". Isso é esperado"
+ ],
+ "red_flags": [
+  "A urina ficou vermelho vivo, com coágulos",
+  "Você não consegue urinar",
+  "Febre acima de 38 graus, calafrios",
+  "Dor forte no pé da barriga: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Vou ter incontinência depois da cirurgia?",
+   "a": "No começo a vontade de urinar pode ser frequente. Normalmente passa em algumas semanas. Exercícios para os músculos da pelve ajudam."
+  },
+  {
+   "q": "O que é orgasmo \"seco\"?",
+   "a": "O sêmen vai para a bexiga, e não para fora. As sensações costumam continuar, e não é perigoso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia de próstata. Separe as coisas, os documentos e a lista de remédios. Comida e água, só até o horário que a clínica indicou."
+  }
+ ]
+}

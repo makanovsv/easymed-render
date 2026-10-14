@@ -1,0 +1,62 @@
+{
+ "title": "Radiografía panorámica dental",
+ "also": [
+  "radiografía panorámica",
+  "ortopantomografía",
+  "panorámica dental",
+  "rayos X panorámicos"
+ ],
+ "what": "Una sola placa muestra todos los dientes, las mandíbulas y los huesos de alrededor.",
+ "why": "Antes de tratar o sacar dientes, antes de implantes o brackets, o para buscar infecciones ocultas y muelas del juicio.",
+ "duration": "normalmente 5 minutos; la placa en sí dura de 10 a 20 segundos y te la dan de inmediato",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si la placa es para un niño, di su edad. El médico ajusta el modo"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No hace falta. Puedes comer y beber."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate aretes, cadenas, piercings de la cara, pasadores, lentes y dentaduras removibles."
+  }
+ ],
+ "bring": [
+  "La orden del dentista, si la tienes",
+  "Tus radiografías dentales anteriores"
+ ],
+ "steps": [
+  "Te ponen un mandil protector",
+  "Te paras en el aparato y muerdes una pieza de plástico",
+  "Cierras los labios y pegas la lengua al paladar",
+  "El aparato gira despacio alrededor de tu cabeza. Quédate quieto",
+  "La placa aparece de inmediato en la pantalla"
+ ],
+ "feel": [
+  "No duele",
+  "Solo tienes que estar de pie de 10 a 20 segundos"
+ ],
+ "after": [
+  "Normalmente te dan la placa de inmediato, en disco, USB o por correo",
+  "Llévala al dentista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Cuánta radiación tiene una panorámica?",
+   "a": "La dosis es pequeña, parecida a la radiación natural de unos cuantos días."
+  },
+  {
+   "q": "¿En qué se diferencia la panorámica de la tomografía dental?",
+   "a": "La panorámica es una imagen plana de todos los dientes. La tomografía es en 3D, con más detalle. Se pide para implantes y casos difíciles."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu radiografía panorámica dental. Quítate aretes y piercings, y lleva tus placas anteriores."
+  }
+ ]
+}

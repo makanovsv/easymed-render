@@ -1,0 +1,80 @@
+{
+ "title": "Ultrasonido endoscópico",
+ "also": [
+  "ultrasonido endoscópico",
+  "ecoendoscopia",
+  "USE",
+  "endosonografía"
+ ],
+ "what": "El médico mete por la boca un tubo flexible con cámara y un pequeño transductor de ultrasonido en la punta. Así se ven de cerca el páncreas, los conductos biliares y la pared del estómago.",
+ "why": "Cuando el ultrasonido normal o la tomografía no dan respuesta: con cambios en el páncreas, piedras en los conductos, o bultos en la pared del esófago, el estómago o el intestino. A veces para tomar un pedacito de tejido con una aguja delgada.",
+ "duration": "el procedimiento suele durar de 20 a 60 minutos, más 1 a 2 horas de observación; el reporte suele estar el mismo día y la biopsia en 1 a 2 semanas",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. El médico decidirá si hay que cambiar algo",
+  "Diabetes y los medicamentos que usas",
+  "Alergias, sobre todo a medicamentos y a la anestesia",
+  "Enfermedades del corazón y de los pulmones",
+  "Si estás embarazada o podrías estarlo"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes de 6 a 8 horas y no bebes de 2 a 4 horas antes. La hora exacta te la dice la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas y él decidirá qué tomar en la mañana."
+  },
+  {
+   "title": "Sedación",
+   "text": "Casi siempre se hace dormido, con sedación. Arregla quién pasará por ti."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los ultrasonidos, tomografías o resonancias por los que te pidieron el estudio",
+  "La lista de tus medicamentos",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena y te quitas la dentadura removible",
+  "Te acuestas sobre el lado izquierdo con una boquilla suave en la boca",
+  "Te ponen el medicamento para dormir y te duermes",
+  "El médico mete el tubo por la boca hasta el esófago y el estómago",
+  "El transductor de la punta muestra en la pantalla los órganos de alrededor",
+  "Si hace falta, toman un pedacito de tejido con una aguja delgada",
+  "Despiertas en el cuarto y te vigilan"
+ ],
+ "feel": [
+  "Con sedación normalmente no sientes ni recuerdas nada",
+  "Después puede picar la garganta",
+  "Puede haber un poco de inflamación del abdomen por el aire"
+ ],
+ "after": [
+  "Normalmente puedes comer y beber en 1 a 2 horas, cuando se quite lo adormecido de la garganta. Pregunta al médico",
+  "Después de la sedación, el resto del día no manejes ni firmes documentos importantes",
+  "El médico normalmente te da el reporte el mismo día",
+  "Si tomaron biopsia, el resultado suele estar en 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el abdomen, el pecho o el cuello: llama a emergencias",
+  "Vómito con sangre o heces negras: llama a emergencias",
+  "Fiebre de más de 38 en los primeros días: avísale al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué se diferencia de una endoscopia normal?",
+   "a": "La endoscopia muestra la superficie por dentro. El ultrasonido endoscópico ve más profundo: la pared del órgano y lo que está junto a él."
+  },
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente no, porque casi siempre se hace dormido. Después puede picar un poco la garganta."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu ultrasonido endoscópico. La clínica te dijo desde qué hora ya no comer ni beber. Arregla quién pasará por ti."
+  }
+ ]
+}

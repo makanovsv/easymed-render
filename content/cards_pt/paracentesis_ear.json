@@ -1,0 +1,72 @@
+{
+ "title": "Paracentese do tímpano",
+ "also": [
+  "paracentese",
+  "miringotomia",
+  "furo no tímpano",
+  "drenagem do ouvido"
+ ],
+ "what": "O médico faz um furinho no tímpano. Por ele sai o pus ou o líquido do ouvido.",
+ "why": "Na otite forte, quando o pus pressiona o tímpano e a dor não passa, ou quando há líquido atrás do tímpano por muito tempo.",
+ "duration": "o procedimento em si leva normalmente alguns minutos",
+ "tell_doctor": [
+  "Remédios que afinam o sangue",
+  "Alergia a analgésicos e anestésicos",
+  "Se já operou o ouvido",
+  "Se for criança: há quanto tempo dói e qual a febre"
+ ],
+ "prepare": [
+  {
+   "title": "Anestesia",
+   "text": "Normalmente é feito com anestesia local, e em crianças às vezes com anestesia geral. O médico vai dizer."
+  },
+  {
+   "title": "Comida",
+   "text": "Se houver anestesia geral, o jejum quem indica é a clínica."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios",
+  "Algodão ou discos de algodão"
+ ],
+ "steps": [
+  "O ouvido é anestesiado com gotas ou injeção",
+  "O paciente fica sentado ou deitado, com a cabeça firme",
+  "Com um funil ou microscópio, o médico localiza o tímpano",
+  "Com uma agulha fina, faz um pequeno furo",
+  "O líquido ou o pus é aspirado",
+  "Colocam um algodão no ouvido"
+ ],
+ "feel": [
+  "Pode haver uma dor rápida e aguda ou um estalo",
+  "Depois, a dor da pressão costuma diminuir rápido",
+  "Secreção no ouvido nos primeiros dias"
+ ],
+ "after": [
+  "Não molhe o ouvido até o médico liberar",
+  "Gotas e remédios, conforme a receita",
+  "O furinho normalmente fecha sozinho em alguns dias"
+ ],
+ "red_flags": [
+  "A febre continua ou aumenta, dor de cabeça forte",
+  "Inchaço e dor atrás da orelha",
+  "Tontura forte, rosto torto: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "A audição vai piorar?",
+   "a": "Normalmente não. O furo é pequeno e fecha sozinho."
+  },
+  {
+   "q": "Por que não esperar o tímpano estourar sozinho?",
+   "a": "O furo feito com cuidado pelo médico cicatriza melhor que uma ruptura."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a 2 horas é o procedimento no ouvido. Leve a lista de remédios."
+  }
+ ]
+}

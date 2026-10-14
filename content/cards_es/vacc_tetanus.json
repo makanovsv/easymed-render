@@ -1,0 +1,72 @@
+{
+ "title": "Vacuna contra el tétanos (Td)",
+ "also": [
+  "vacuna Td",
+  "toxoide tetánico",
+  "vacuna contra tétanos y difteria",
+  "refuerzo de tétanos cada 10 años"
+ ],
+ "what": "Es una inyección de vacuna contra el tétanos, normalmente junto con la difteria. En adultos se repite más o menos cada 10 años.",
+ "why": "Según el calendario cada 10 años, y también después de heridas o mordidas si hace mucho que no te vacunas.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Cuándo fue tu última vacuna contra el tétanos",
+  "Si ahora estás enfermo o tienes fiebre",
+  "Reacciones fuertes a vacunas anteriores",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna programada se pone cuando estás sano."
+  },
+  {
+   "title": "Documentos",
+   "text": "Busca tu cartilla de vacunación: ahí ves cuándo te toca."
+  },
+  {
+   "title": "Después de una lesión",
+   "text": "Si tienes una herida o una mordida, no esperes la fecha: ve a urgencias."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico o la enfermera pregunta cómo te sientes y toma la temperatura",
+  "Descubres el brazo",
+  "Limpian la piel y ponen la inyección",
+  "Anotan la vacuna en tus documentos",
+  "Después de la inyección hay que quedarse sentado en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "Muchas veces el lugar de la inyección duele y se pone duro por 1 a 3 días",
+  "A veces cansancio o un poco de fiebre"
+ ],
+ "after": [
+  "Quédate 30 minutos cerca del consultorio",
+  "No te frotes el lugar de la inyección",
+  "El siguiente refuerzo programado normalmente es en 10 años"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o salen ronchas por todo el cuerpo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Necesito la vacuna si me corté?",
+   "a": "Si la vacuna fue hace mucho o no lo recuerdas, ve a urgencias. El médico decide qué hace falta."
+  },
+  {
+   "q": "¿Por qué me duele tanto el brazo después de la vacuna?",
+   "a": "Es una reacción común a esta vacuna. Normalmente se quita en unos días."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna contra el tétanos. Lleva tu cartilla de vacunación."
+  }
+ ]
+}

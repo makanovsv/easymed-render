@@ -1,0 +1,79 @@
+{
+ "title": "Transesophageal echocardiogram (TEE)",
+ "also": [
+  "TEE",
+  "transesophageal echo",
+  "heart ultrasound through the esophagus",
+  "TOE"
+ ],
+ "what": "The doctor looks at your heart with ultrasound from the inside, using a thin probe that you swallow into your food pipe. The heart is seen much better this way than through the chest.",
+ "why": "To rule out clots in the heart before restoring a normal rhythm, to look at the valves in detail, or for a possible valve infection.",
+ "duration": "the procedure itself usually takes 15 to 30 minutes, plus prep and rest; the report is usually ready the same day",
+ "tell_doctor": [
+  "Blood thinners. Your doctor will tell you what to do with them",
+  "Problems with your food pipe or stomach, or trouble swallowing",
+  "Allergies, especially to numbing medicines",
+  "If you have removable dentures",
+  "If you want sedation. This is usually discussed in advance"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no food for 6 hours and no drinks for 2 to 4 hours. Your clinic will give you the exact times."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Ask your doctor which morning medicines to take and what to take them with."
+  },
+  {
+   "title": "Someone with you",
+   "text": "If you will have sedation, come with someone. You cannot drive afterward."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past echocardiograms and ECGs",
+  "A list of your medicines",
+  "Someone to take you home, if you have sedation"
+ ],
+ "steps": [
+  "Dentures are removed, and an IV line is put in a vein",
+  "Your throat is sprayed with a numbing spray",
+  "You lie on your left side with a plastic mouth guard",
+  "If you have sedation, medicine is given and you doze off",
+  "The doctor puts the probe in your mouth and asks you to swallow",
+  "The probe stays in the food pipe for a few minutes while the doctor checks the heart",
+  "The probe is removed"
+ ],
+ "feel": [
+  "Your throat goes numb from the spray, and swallowing feels strange",
+  "Swallowing the probe is unpleasant, and you may gag. Steady breathing helps",
+  "With sedation, you usually remember almost nothing"
+ ],
+ "after": [
+  "Do not eat or drink for 1 to 2 hours, until the numbness wears off",
+  "Your throat may feel a bit sore for a day or two",
+  "After sedation, do not drive for the rest of the day",
+  "The report is usually ready the same day"
+ ],
+ "red_flags": [
+  "Severe pain in the throat or chest, or blood when coughing or vomiting: see a doctor right away or call emergency services",
+  "Trouble swallowing or a fever in the next few days"
+ ],
+ "faq": [
+  {
+   "q": "Can I be asleep for a TEE?",
+   "a": "Often yes, with light sedation. Ask the clinic in advance."
+  },
+  {
+   "q": "Is it like an upper endoscopy?",
+   "a": "It is similar, since you also swallow a tube. But the probe is thinner and stays only in the food pipe."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "TEE tomorrow. Stop eating and drinking at the times your clinic gave you. Bring a list of your medicines."
+  }
+ ]
+}

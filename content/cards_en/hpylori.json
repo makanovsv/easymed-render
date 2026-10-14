@@ -1,0 +1,68 @@
+{
+ "title": "H. pylori stool test",
+ "also": [
+  "H. pylori test",
+  "Helicobacter pylori",
+  "H. pylori stool antigen",
+  "stomach bacteria test"
+ ],
+ "what": "This is a stool test. It looks for traces of a bacterium that lives in the stomach and can cause gastritis and ulcers.",
+ "why": "For stomach pain or heaviness, heartburn, ulcers, stomach disease in relatives, or to check after treatment.",
+ "duration": "collecting at home takes a few minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "If you took antibiotics in the last month",
+  "If you take medicines for heartburn or stomach acid",
+  "If you were already treated for H. pylori, and when you finished"
+ ],
+ "prepare": [
+  {
+   "title": "Medicines",
+   "text": "Antibiotics and acid medicines can change the result. Do not stop them on your own. Tell your doctor. They will decide if a break is needed."
+  },
+  {
+   "title": "Container",
+   "text": "Buy a sterile container with a small scoop at a pharmacy, or get one at the lab."
+  },
+  {
+   "title": "After treatment",
+   "text": "A follow-up test is usually done at least 4 weeks after treatment ends. Your doctor will tell you when."
+  }
+ ],
+ "bring": [
+  "The container with the stool sample",
+  "Your test request form"
+ ],
+ "steps": [
+  "Pass stool into a clean, dry pot or onto clean plastic wrap, not from the toilet bowl",
+  "Use the scoop in the lid to take a little stool",
+  "Close the container tightly and label it",
+  "Take it to the lab the same day"
+ ],
+ "feel": [
+  "Nothing. The test is painless"
+ ],
+ "after": [
+  "If you cannot take it right away, the container is usually kept in the fridge. Ask the lab how long",
+  "Results usually come in 1 to 3 days. The lab will tell you when",
+  "If the bacterium is found, your doctor will prescribe treatment"
+ ],
+ "red_flags": [
+  "Black stools, or vomiting blood or something like coffee grounds: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why a stool test instead of a blood test for H. pylori?",
+   "a": "Stool shows if the bacterium is there right now. Blood antibodies can stay after treatment."
+  },
+  {
+   "q": "Should my family be tested?",
+   "a": "Your doctor decides. Usually people with symptoms are tested."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "H. pylori stool test tomorrow. Get the container and a clean pot ready."
+  }
+ ]
+}

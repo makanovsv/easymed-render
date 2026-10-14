@@ -1,0 +1,68 @@
+{
+ "title": "D-dímero",
+ "also": [
+  "D-dímero",
+  "dímero D",
+  "exame para trombose"
+ ],
+ "what": "É um exame de sangue colhido da veia. Ajuda a ver se há coágulos recentes nos vasos.",
+ "why": "Com suspeita de trombose na perna ou embolia no pulmão, às vezes na gravidez, depois de cirurgias ou em algumas doenças.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Se toma remédios que afinam o sangue",
+  "Se você está grávida ou teve bebê há pouco tempo",
+  "Se fez cirurgia ou se machucou há pouco tempo",
+  "Se uma perna está inchada e doendo"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não precisa de preparo especial. É melhor fazer em jejum ou algumas horas depois de uma refeição leve. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma. Ele decide se algo precisa mudar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos, sem dobrar o braço",
+  "Você já pode comer e voltar à rotina",
+  "O resultado sai normalmente em 1 dia. O prazo quem informa é o laboratório",
+  "D-dímero alto não é diagnóstico. O médico pode pedir ultrassom dos vasos ou outro exame"
+ ],
+ "red_flags": [
+  "Falta de ar de repente, dor no peito, tosse com sangue: ligue para a emergência, não espere o exame",
+  "Uma perna inchou de repente, ficou vermelha e dói: procure o médico no mesmo dia"
+ ],
+ "faq": [
+  {
+   "q": "D-dímero alto quer dizer que tenho trombose?",
+   "a": "Não necessariamente. Ele sobe na gravidez, com inflamação, depois de cirurgias e com a idade. Quem decide é o médico."
+  },
+  {
+   "q": "Por que fazer esse exame se estou bem?",
+   "a": "Às vezes ele é pedido para acompanhamento, por exemplo na gravidez. Pergunte ao médico o motivo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de D-dímero. De manhã, é melhor ir em jejum. Água pode."
+  }
+ ]
+}

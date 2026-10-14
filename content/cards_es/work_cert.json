@@ -1,0 +1,72 @@
+{
+ "title": "Examen médico laboral",
+ "also": [
+  "examen médico de ingreso",
+  "examen médico periódico",
+  "certificado médico laboral",
+  "certificado de salud para trabajar",
+  "examen médico ocupacional"
+ ],
+ "what": "Los médicos revisan si tu salud es adecuada para el trabajo. Qué médicos y análisis se hacen depende de la profesión.",
+ "why": "Antes de entrar a un trabajo, y luego con regularidad si el trabajo tiene riesgos o es con alimentos, niños o transporte.",
+ "duration": "normalmente de 1 a 2 horas, o hasta 1 o 2 días si hay análisis; el dictamen se da después de ver a todos los médicos",
+ "tell_doctor": [
+  "Enfermedades crónicas y medicamentos",
+  "Cirugías y lesiones",
+  "Si estás embarazada",
+  "Si antes tuviste restricciones para trabajar"
+ ],
+ "prepare": [
+  {
+   "title": "Orden",
+   "text": "Lleva la orden de la empresa. Ahí dice tu puesto y los riesgos del trabajo."
+  },
+  {
+   "title": "Análisis",
+   "text": "Si piden sangre en ayunas, llega en la mañana sin desayunar. Pregunta en la clínica."
+  },
+  {
+   "title": "Tiempo",
+   "text": "Ve con tiempo de sobra: pueden ser muchos consultorios."
+  }
+ ],
+ "bring": [
+  "La orden de la empresa",
+  "Una identificación",
+  "Tu tarjeta o certificado de salud, si te lo piden",
+  "Resultados de exámenes anteriores y radiografía de tórax"
+ ],
+ "steps": [
+  "En recepción revisan la orden y te dan la ruta",
+  "Te haces los análisis y estudios necesarios",
+  "Pasas con los médicos de la lista",
+  "Cada médico hace su anotación",
+  "El médico responsable te da el dictamen"
+ ],
+ "feel": [
+  "Normalmente nada molesto, salvo el piquete al tomar la sangre",
+  "Puede haber filas"
+ ],
+ "after": [
+  "El dictamen se entrega a la empresa",
+  "Si encuentran algo, te pedirán más estudios",
+  "El siguiente examen, según el calendario de la empresa"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Quién paga el examen médico?",
+   "a": "Normalmente la empresa. Pregúntalo antes."
+  },
+  {
+   "q": "¿Me pueden decir que no soy apto para el trabajo?",
+   "a": "Sí, si una enfermedad impide hacer ese trabajo. Muchas veces dan tiempo para tratarse o hacer más estudios."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu examen médico laboral. Lleva la orden de la empresa y tu identificación. Si te sacan sangre, no desayunes."
+  }
+ ]
+}

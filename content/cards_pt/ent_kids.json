@@ -1,0 +1,69 @@
+{
+ "title": "Consulta de otorrino infantil",
+ "also": [
+  "otorrino infantil",
+  "otorrinopediatra",
+  "exame de ouvido da criança"
+ ],
+ "what": "O otorrino examina ouvidos, nariz e garganta do seu filho. O exame normalmente é rápido e não dói.",
+ "why": "Com resfriados e otites frequentes, ronco, respiração pela boca, dor de ouvido ou de garganta, audição ruim, ou nas consultas de rotina.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Com que frequência a criança fica doente e de quê",
+  "Se ronca ou respira pela boca",
+  "Como ouve e como fala para a idade",
+  "Quais remédios e gotas já deu",
+  "Alergias da criança"
+ ],
+ "prepare": [
+  {
+   "title": "Clima",
+   "text": "Diga à criança que o médico vai olhar o ouvido e a garganta com uma lanterninha."
+  },
+  {
+   "title": "Horário",
+   "text": "É melhor ir quando a criança não estiver com fome nem com sono."
+  }
+ ],
+ "bring": [
+  "Documentos da criança",
+  "Laudos e exames anteriores",
+  "Um brinquedo"
+ ],
+ "steps": [
+  "O médico faz perguntas a você",
+  "A criança senta no seu colo, e você a segura com carinho",
+  "O médico olha a garganta com uma espátula",
+  "Examina o nariz e os ouvidos",
+  "Às vezes testa a audição",
+  "Explica o que encontrou e passa as orientações"
+ ],
+ "feel": [
+  "A espátula pode dar ânsia",
+  "Os pequenos muitas vezes choram por estarem sendo segurados. É normal"
+ ],
+ "after": [
+  "Siga as orientações",
+  "Volte para nova consulta, se o médico pedir"
+ ],
+ "red_flags": [
+  "A criança tem dificuldade para respirar, não consegue engolir, baba: ligue para a emergência",
+  "Febre alta e dor forte no ouvido, inchaço atrás da orelha: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Se a criança ronca, precisa tirar a adenoide?",
+   "a": "Nem sempre. O médico examina e diz o que seu filho precisa."
+  },
+  {
+   "q": "Como segurar a criança no exame?",
+   "a": "Sente a criança no colo, abrace o corpo e os braços com uma mão e segure a cabeça com a outra."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a 2 horas é a consulta de otorrino da criança. Leve os laudos anteriores."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Fototerapia de la piel",
+ "also": [
+  "fototerapia",
+  "fototerapia UVB",
+  "terapia con luz ultravioleta",
+  "tratamiento con luz"
+ ],
+ "what": "La piel recibe luz ultravioleta en una cabina especial o con una lámpara. Este tratamiento lo indica el dermatólogo, en varias sesiones.",
+ "why": "Con psoriasis, vitíligo, algunos tipos de eccema y otras enfermedades de la piel.",
+ "duration": "cada sesión dura de unos segundos a unos minutos; normalmente 2 a 3 veces por semana durante varias semanas",
+ "tell_doctor": [
+  "Todos tus medicamentos. Algunos hacen la piel más sensible a la luz",
+  "Si tuviste cáncer de piel o tienes muchos lunares",
+  "Embarazo",
+  "Enfermedades de los ojos",
+  "Cómo te bronceas y te quemas normalmente con el sol"
+ ],
+ "prepare": [
+  {
+   "title": "Piel",
+   "text": "Antes de la sesión no te pongas cremas ni perfume, salvo que el médico te diga otra cosa."
+  },
+  {
+   "title": "Sol",
+   "text": "Los días del tratamiento no te asolees de más ni vayas a camas de bronceado."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda y fácil de quitar."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La orden del dermatólogo"
+ ],
+ "steps": [
+  "La enfermera confirma la dosis de ese día",
+  "Te pones lentes de protección",
+  "Tapan las zonas que no se tratan",
+  "Te quedas en la cabina o bajo la lámpara el tiempo indicado",
+  "La dosis sube poco a poco de una sesión a otra"
+ ],
+ "feel": [
+  "Durante la sesión, un ligero calor",
+  "Después, a veces la piel se pone un poco rosada",
+  "La piel se puede resecar. Ayuda una crema humectante"
+ ],
+ "after": [
+  "Usa crema humectante, si el médico lo permitió",
+  "No faltes a las sesiones. La regularidad es importante",
+  "Protege la piel del sol durante el tratamiento"
+ ],
+ "red_flags": [
+  "Mucho enrojecimiento, ardor o ampollas, como una quemadura",
+  "Salieron manchas nuevas o lunares que cambian"
+ ],
+ "faq": [
+  {
+   "q": "¿Es lo mismo que una cama de bronceado?",
+   "a": "No. Aquí es una dosis exacta de un tipo de luz, controlada por el médico. La cama de bronceado no sustituye la fototerapia."
+  },
+  {
+   "q": "¿Cuándo se ve el resultado?",
+   "a": "Normalmente la mejoría se ve en unas semanas. En el vitíligo tarda más, a veces meses."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu fototerapia. No te pongas cremas y no te asolees de más."
+  }
+ ]
+}

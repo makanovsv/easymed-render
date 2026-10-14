@@ -1,0 +1,70 @@
+{
+ "title": "Consulta con el especialista en mama",
+ "also": [
+  "mastólogo",
+  "consulta de mama",
+  "revisión de senos",
+  "especialista en senos"
+ ],
+ "what": "El médico revisa y palpa tus senos y axilas. Si hace falta, te manda a ultrasonido o mastografía.",
+ "why": "Si sentiste una bolita, te duelen los senos, te sale líquido del pezón, o para una revisión preventiva.",
+ "duration": "normalmente de 15 a 30 minutos; el resultado te lo dicen de inmediato",
+ "tell_doctor": [
+  "Qué te preocupa exactamente y desde cuándo",
+  "La fecha en que empezó tu última regla",
+  "Si tienes familiares de sangre con cáncer de mama o de ovario",
+  "Qué medicamentos hormonales tomas",
+  "Si das pecho o estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Cuándo ir",
+   "text": "Normalmente del día 5 al 12 del ciclo, cuando los senos están menos hinchados. Después de la menopausia, cualquier día. Pregunta en la clínica."
+  },
+  {
+   "title": "Antes de la consulta",
+   "text": "No te pongas crema ni desodorante en los senos ni en las axilas."
+  },
+  {
+   "title": "Ropa",
+   "text": "Es más cómodo ir con ropa de dos piezas: solo te quitas la parte de arriba."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Ultrasonidos de mama y mastografías anteriores, si tienes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias y tu salud",
+  "Te descubres de la cintura para arriba",
+  "El médico revisa tus senos de pie y sentada, a veces te pide levantar los brazos",
+  "Luego palpa tus senos y axilas acostada",
+  "Te explica lo que encontró y, si hace falta, te manda a estudios"
+ ],
+ "feel": [
+  "La revisión normalmente no duele",
+  "Si tus senos están sensibles, puede ser molesto. Díselo al médico"
+ ],
+ "after": [
+  "Si te mandaron ultrasonido o mastografía, haz la cita en los días adecuados del ciclo",
+  "En casa, revisa tus senos una vez al mes. El médico te enseña cómo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Desde qué edad hay que ir al especialista en mama?",
+   "a": "Las revisiones preventivas se recomiendan con regularidad, y la mastografía normalmente desde los 40 años. Si tienes molestias, a cualquier edad."
+  },
+  {
+   "q": "¿Una bolita en el seno siempre es peligrosa?",
+   "a": "No. La mayoría de las bolitas son benignas. Pero siempre hay que enseñársela al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta de mama. Lleva tus estudios anteriores y en la mañana no te pongas crema ni desodorante."
+  }
+ ]
+}

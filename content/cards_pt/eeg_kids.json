@@ -1,0 +1,79 @@
+{
+ "title": "Eletroencefalograma em criança",
+ "also": [
+  "EEG infantil",
+  "eletroencefalograma pediátrico",
+  "EEG em criança",
+  "EEG com sono em criança"
+ ],
+ "what": "A enfermeira coloca na criança uma touca com sensores e registra o funcionamento do cérebro. É seguro: os sensores não mandam nada, só escutam.",
+ "why": "Com convulsões, desmaios, episódios estranhos, atraso no desenvolvimento ou problemas de sono, quando o neurologista pede.",
+ "duration": "normalmente de 30 a 60 minutos. O EEG com sono demora mais. O laudo sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Como são os episódios que preocupam",
+  "Quais remédios a criança toma",
+  "Vídeos dos episódios no celular, se tiver",
+  "Se precisa de registro com sono. Pergunte antes"
+ ],
+ "prepare": [
+  {
+   "title": "Cabelo",
+   "text": "Lave o cabelo na véspera, sem óleo e sem produtos de penteado. Desfaça as tranças."
+  },
+  {
+   "title": "Sono",
+   "text": "Se precisar de registro com sono, é melhor levar a criança cansada, antes da soneca. Como fazer, a clínica explica."
+  },
+  {
+   "title": "Comida",
+   "text": "Alimente a criança. Criança com fome fica mais agitada."
+  },
+  {
+   "title": "Conversa",
+   "text": "Diga para a criança: vamos colocar uma touca de astronauta, e não vai doer."
+  }
+ ],
+ "bring": [
+  "Pedido médico e EEGs anteriores",
+  "Lista de remédios",
+  "Vídeos dos episódios, se tiver",
+  "Brinquedo preferido, mamadeira, fralda de pano",
+  "Toalha para secar a cabeça depois"
+ ],
+ "steps": [
+  "A criança fica no seu colo ou na maca",
+  "Colocam a touca com eletrodos e passam gel embaixo deles",
+  "Pedem para ficar quietinha e abrir e fechar os olhos",
+  "Para as maiores, pedem para respirar rápido ou olhar uma luz piscando",
+  "Às vezes registram enquanto a criança dorme",
+  "Tiram a touca e limpam o gel"
+ ],
+ "feel": [
+  "Não dói",
+  "A criança pode não gostar da touca. A sua calma ajuda"
+ ],
+ "after": [
+  "Em casa, lave o cabelo",
+  "A criança já pode voltar à rotina",
+  "O laudo sai normalmente em 1 a 3 dias. Converse sobre ele com o neurologista"
+ ],
+ "red_flags": [
+  "Convulsão que dura mais de 5 minutos ou a criança não volta a si depois da crise: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Vai doer na criança?",
+   "a": "Não. Os eletrodos só registram, não mandam nada para a cabeça."
+  },
+  {
+   "q": "Por que pedem para levar a criança com sono?",
+   "a": "Durante o sono, o EEG às vezes mostra o que não aparece acordado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã a criança faz EEG. Lave o cabelo sem óleo e sem produtos. Leve um brinquedo e uma toalha."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "Magnetoterapia",
+ "also": [
+  "magnetoterapia",
+  "terapia magnética",
+  "campos magnéticos terapéuticos",
+  "fisioterapia con imanes"
+ ],
+ "what": "Un aparato crea un campo magnético suave sobre la zona enferma. Ayuda a bajar la hinchazón y el dolor.",
+ "why": "En dolores de articulaciones y espalda, después de lesiones y fracturas, o con hinchazón, si te lo indica el médico.",
+ "duration": "el procedimiento suele durar de 10 a 20 minutos; el programa, normalmente unas 10 sesiones",
+ "tell_doctor": [
+  "Si tienes marcapasos u otro aparato implantado",
+  "Si estás embarazada",
+  "Si tienes sangrados o tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes fiebre",
+  "Enfermedades oncológicas"
+ ],
+ "prepare": [
+  {
+   "title": "Metal",
+   "text": "Quítate el reloj y las joyas; mantén las tarjetas bancarias y el celular lejos del aparato."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda. Muchas veces se hace sobre la ropa o el vendaje. Pregunta en la clínica."
+  }
+ ],
+ "bring": [
+  "La indicación del médico",
+  "Ropa cómoda"
+ ],
+ "steps": [
+  "Te acuestas o te sientas",
+  "Ponen la parte del aparato sobre la zona enferma o cerca",
+  "La enfermera prende el aparato y pone el tiempo",
+  "Te quedas quieto hasta la señal",
+  "Quitan el aparato y te puedes ir"
+ ],
+ "feel": [
+  "Normalmente no sientes nada",
+  "A veces un poco de calor o un hormigueo"
+ ],
+ "after": [
+  "Puedes regresar de inmediato a tus actividades",
+  "Ve a tus sesiones según el calendario. Importa completar el programa",
+  "A veces los primeros días el dolor sube un poco y luego se quita. Díselo al médico"
+ ],
+ "red_flags": [
+  "Mareo, debilidad fuerte o cambio brusco de la presión después de la sesión: díselo al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede con yeso?",
+   "a": "Muchas veces sí, se hace sobre el yeso. Lo decide el médico."
+  },
+  {
+   "q": "¿Hace daño?",
+   "a": "El campo es suave y actúa solo en la zona. El médico revisa las contraindicaciones antes de indicarlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Hoy es tu magnetoterapia. Quítate el reloj y las joyas, y lleva la indicación del médico."
+  }
+ ]
+}

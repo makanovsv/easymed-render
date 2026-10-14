@@ -1,0 +1,71 @@
+{
+ "title": "Fecal calprotectin",
+ "also": [
+  "calprotectin test",
+  "stool calprotectin",
+  "fecal calprotectin",
+  "stool inflammation test"
+ ],
+ "what": "This is a stool test. It shows whether there is inflammation in your bowel.",
+ "why": "For long-term diarrhea, belly pain, or blood in the stool; to tell bowel inflammation from irritable bowel; and to track treatment.",
+ "duration": "collecting at home takes a few minutes; results usually come in 1 to 5 days",
+ "tell_doctor": [
+  "If you take painkillers or anti-inflammatory pills. They can raise the result",
+  "If you recently had a stomach bug",
+  "If you have your period now or bleeding from hemorrhoids"
+ ],
+ "prepare": [
+  {
+   "title": "Container",
+   "text": "Get a sterile container from the lab or a pharmacy."
+  },
+  {
+   "title": "Collecting",
+   "text": "Collect stool from a natural bowel movement, without enemas or laxatives. Keep urine and water out of the container."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide the best time for the test."
+  },
+  {
+   "title": "Storage",
+   "text": "Take it to the lab within the time they gave you."
+  }
+ ],
+ "bring": [
+  "The container with the sample",
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "Pass stool into a clean, dry pot or a bag",
+  "Use the scoop in the lid to take a little stool",
+  "Put in as much as the lab told you",
+  "Close it tightly and label it",
+  "Take it to the lab"
+ ],
+ "feel": [
+  "Nothing unpleasant, just a little awkward"
+ ],
+ "after": [
+  "Results usually come in 1 to 5 days",
+  "A high calprotectin is a reason for the next step. Your doctor will decide what it is"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "If calprotectin is high, is it a serious disease?",
+   "a": "Not necessarily. It goes up with any bowel inflammation, including from an infection. Your doctor will find the cause."
+  },
+  {
+   "q": "Why do this test if I can have a colonoscopy?",
+   "a": "It helps show whether you need a colonoscopy at all. Sometimes you can do without one."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Calprotectin stool test tomorrow. Get the container and a clean pot or bag ready."
+  }
+ ]
+}

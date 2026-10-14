@@ -1,0 +1,74 @@
+{
+ "title": "Donating blood",
+ "also": [
+  "blood donation",
+  "giving blood",
+  "becoming a blood donor",
+  "plasma donation"
+ ],
+ "what": "You donate about 450 mL (about 1 pint) of blood, or a part of it, such as plasma or platelets, for free. This blood saves other people's lives.",
+ "why": "Donor blood is needed for surgery, injuries, childbirth, and treatment of cancer and blood disorders.",
+ "duration": "usually about an hour with the form and checkup; giving whole blood takes about 10 minutes, plasma takes longer",
+ "tell_doctor": [
+  "All your illnesses and medicines. Answer the form honestly",
+  "Recent tattoos, piercings, surgery, or travel",
+  "If you were recently ill or took antibiotics",
+  "If you are pregnant or breastfeeding"
+ ],
+ "prepare": [
+  {
+   "title": "Requirements",
+   "text": "Usually a donor can be a healthy adult aged 18 or older, weighing at least 50 kg (110 lb). The blood center will tell you the exact rules."
+  },
+  {
+   "title": "Food",
+   "text": "Do not come hungry. Have a light, low-fat breakfast: porridge made with water, crackers, sweet tea."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol for 2 days before. The day before, no fatty food, and get a good sleep. Do not smoke for an hour before donating."
+  }
+ ],
+ "bring": [
+  "Your photo ID",
+  "Water"
+ ],
+ "steps": [
+  "You fill out a health form",
+  "A drop of blood from your finger is tested for hemoglobin",
+  "A doctor checks your blood pressure and does a short exam",
+  "You lie down in the donor chair",
+  "A needle goes into a vein in the bend of your elbow, and blood collects in a bag",
+  "The needle comes out, and a bandage is put on"
+ ],
+ "feel": [
+  "A prick when the needle goes in",
+  "Sometimes slight dizziness. Tell the nurse right away"
+ ],
+ "after": [
+  "Sit for 10 to 15 minutes and drink sweet tea",
+  "Keep the bandage on for 3 to 4 hours",
+  "That day, drink more, and avoid heavy exercise and alcohol",
+  "You can donate again only after the time the blood center tells you"
+ ],
+ "red_flags": [
+  "Fainting again or strong weakness at home: tell a doctor",
+  "Your arm becomes swollen, very painful, or numb"
+ ],
+ "faq": [
+  {
+   "q": "Can I catch an infection by donating blood?",
+   "a": "No. Needles and bags are single-use and opened in front of you."
+  },
+  {
+   "q": "How long does it take to recover?",
+   "a": "The fluid comes back in 1 to 2 days. Blood cells take a few weeks, so a break is needed between donations."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Blood donation tomorrow. Today, no fatty food or alcohol, and get a good sleep. Have a light breakfast. Do not come hungry."
+  }
+ ]
+}

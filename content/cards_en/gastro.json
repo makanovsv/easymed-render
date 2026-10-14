@@ -1,0 +1,68 @@
+{
+ "title": "Gastroenterologist visit",
+ "also": [
+  "gastroenterologist",
+  "GI doctor",
+  "stomach doctor",
+  "digestive specialist"
+ ],
+ "what": "A doctor who treats the stomach, bowel, liver, gallbladder, and pancreas.",
+ "why": "For belly pain, heartburn, nausea, bloating, constipation or diarrhea, or abnormal liver tests.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "What bothers you, when, and after what",
+  "How your stools and weight have changed",
+  "What medicines you take, including painkillers",
+  "Past belly surgery",
+  "Digestive conditions in relatives"
+ ],
+ "prepare": [
+  {
+   "title": "Diary",
+   "text": "For a few days, write down what you ate, when it hurt, and what your stools were like."
+  },
+  {
+   "title": "Tests",
+   "text": "Bring results of upper endoscopy, colonoscopy, ultrasound, and blood tests, if you had them."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms and diet",
+  "Your tongue and skin are checked",
+  "Your belly is felt while you lie down",
+  "Past tests are reviewed",
+  "Blood tests, an ultrasound, an endoscopy, or treatment are ordered"
+ ],
+ "feel": [
+  "Feeling the belly may be a little unpleasant if it hurts there",
+  "Otherwise, a regular checkup"
+ ],
+ "after": [
+  "The doctor will give you diet advice and prescriptions",
+  "Check the prep for any ordered tests in advance"
+ ],
+ "red_flags": [
+  "Vomiting blood or material like coffee grounds, black stools, or severe belly pain: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Do I need to fast?",
+   "a": "Usually not for the visit. If an ultrasound or endoscopy may be done the same day, check with the clinic."
+  },
+  {
+   "q": "What should I bring?",
+   "a": "Past test results, your medicine list, and notes on diet and symptoms."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Gastroenterologist visit tomorrow. Bring your test results and medicine list."
+  }
+ ]
+}

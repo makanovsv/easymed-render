@@ -1,0 +1,69 @@
+{
+ "title": "Examen médico de alcohol",
+ "also": [
+  "prueba de alcoholemia",
+  "alcoholímetro",
+  "examen de alcohol en aliento",
+  "alcohol en sangre"
+ ],
+ "what": "El médico revisa si hay alcohol en tu cuerpo: soplas en un aparato y a veces das sangre u orina. El médico también te hace una revisión breve.",
+ "why": "Cuando lo pide la policía o la empresa, después de un accidente de tránsito, o en revisiones médicas de choferes y trabajadores.",
+ "duration": "normalmente de 20 a 40 minutos; el resultado del alcoholímetro es inmediato y el de sangre u orina tarda más",
+ "tell_doctor": [
+  "Todos los medicamentos que tomas",
+  "Si usaste un spray, enjuague bucal o gotas con alcohol",
+  "Si tienes diabetes o enfermedades de los pulmones"
+ ],
+ "prepare": [
+  {
+   "title": "Identificación",
+   "text": "Lleva una identificación oficial."
+  },
+  {
+   "title": "Boca",
+   "text": "De 15 a 20 minutos antes de soplar, no fumes, no comas y no te enjuagues la boca con productos con alcohol."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico todo lo que tomas."
+  }
+ ],
+ "bring": [
+  "Una identificación oficial",
+  "La orden o el acta, si te enviaron"
+ ],
+ "steps": [
+  "El médico revisa tu identificación y llena el acta",
+  "Te hacen una revisión breve: presión, pulso, forma de hablar y equilibrio",
+  "Soplas largo en la boquilla desechable del aparato",
+  "Normalmente repiten la prueba en 15 a 20 minutos",
+  "A veces toman sangre de la vena u orina para el laboratorio",
+  "El médico redacta el dictamen"
+ ],
+ "feel": [
+  "Nada molesto",
+  "Tienes que soplar parejo y por un buen rato"
+ ],
+ "after": [
+  "El resultado del alcoholímetro se ve de inmediato",
+  "El resultado de sangre u orina suele tardar varios días",
+  "El acta se entrega según las reglas. Pregunta quién la recibe y cuándo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Un refresco fermentado o un yogur bebible pueden marcar alcohol?",
+   "a": "A veces dan cifras muy bajas justo después de tomarlos. Por eso la prueba se repite en 15 a 20 minutos."
+  },
+  {
+   "q": "¿Me puedo negar al examen?",
+   "a": "Depende de la ley de tu país, y negarse puede tener consecuencias. Pregunta a un abogado o a la autoridad que te envió."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Pronto es tu examen de alcohol. De 15 a 20 minutos antes de soplar, no fumes, no comas y no te enjuagues la boca."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Terapia manual",
+ "also": [
+  "terapia manual",
+  "quiropraxia",
+  "osteopatia",
+  "manipulação da coluna"
+ ],
+ "what": "O médico trabalha com as mãos nos músculos, nas articulações e na coluna: alonga, relaxa e recupera os movimentos com suavidade.",
+ "why": "Com dor e rigidez nas costas, no pescoço e nas articulações, depois do exame e das imagens, por indicação do médico.",
+ "duration": "a sessão dura normalmente de 20 a 40 minutos; o tratamento costuma ter algumas sessões",
+ "tell_doctor": [
+  "Onde dói e há quanto tempo",
+  "Se há dormência ou fraqueza nos braços ou nas pernas",
+  "Osteoporose, lesões e cirurgias na coluna",
+  "Se você toma remédios que afinam o sangue",
+  "Pressão alta, ou se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Imagens",
+   "text": "Leve radiografia, ressonância e laudos. Sem eles, o médico pode não começar."
+  },
+  {
+   "title": "Comida",
+   "text": "Não vá logo depois de uma refeição pesada."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, de preferência esportiva."
+  }
+ ],
+ "bring": [
+  "Exames de imagem e laudos",
+  "Pedido médico, se tiver",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico pergunta e olha as imagens",
+  "Testa os movimentos, a força e a sensibilidade",
+  "Relaxa os músculos com as mãos",
+  "Alonga e movimenta as articulações com suavidade",
+  "Às vezes há um estalo rápido na articulação",
+  "No fim, passa orientações e exercícios"
+ ],
+ "feel": [
+  "Pressão e alongamento suportáveis",
+  "Não deve haver dor forte. Se houver, avise o médico na hora",
+  "Depois pode haver uma leve dor por 1 a 2 dias"
+ ],
+ "after": [
+  "No dia da sessão, não pegue peso",
+  "Faça os exercícios que o médico passou",
+  "Se a dor piorou, converse com o médico"
+ ],
+ "red_flags": [
+  "Dormência, fraqueza no braço ou na perna, tontura forte ou fala alterada depois da sessão: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Preciso de exames de imagem antes da terapia manual?",
+   "a": "Normalmente sim. Eles ajudam o médico a saber o que pode e o que não pode ser feito."
+  },
+  {
+   "q": "O estalo é a vértebra voltando para o lugar?",
+   "a": "Não, é o som da articulação com o movimento. As vértebras não \"saem do lugar\" assim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a terapia manual. Leve os exames de imagem e os laudos e vista roupa confortável."
+  }
+ ]
+}

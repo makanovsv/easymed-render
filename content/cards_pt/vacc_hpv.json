@@ -1,0 +1,77 @@
+{
+ "title": "Vacina contra HPV",
+ "also": [
+  "vacina do HPV",
+  "vacina contra câncer de colo do útero",
+  "vacinação contra papilomavírus",
+  "vacina HPV"
+ ],
+ "what": "Uma injeção de vacina no braço. Ela protege contra o papilomavírus humano, que pode causar câncer de colo do útero e outras doenças.",
+ "why": "O ideal é para crianças de cerca de 9 a 14 anos, antes do início da vida sexual. Para adolescentes e adultos, conforme orientação médica.",
+ "duration": "a injeção leva alguns segundos, com a avaliação normalmente de 15 a 40 minutos; o esquema tem de 1 a 3 doses, conforme a idade",
+ "tell_doctor": [
+  "Se está doente agora ou com febre",
+  "Alergias e reações fortes a vacinas anteriores",
+  "Se você está grávida",
+  "Se já desmaiou com injeções"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é aplicada quando a pessoa está saudável. Antes da injeção, fazem uma avaliação rápida."
+  },
+  {
+   "title": "Comida",
+   "text": "É melhor comer antes da vacina: adolescentes em jejum ficam tontos com mais facilidade."
+  },
+  {
+   "title": "Esquema",
+   "text": "Quantas doses e com que intervalo, o médico diz. Confirme na clínica."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "A carteira de vacinação"
+ ],
+ "steps": [
+  "O médico pergunta como você está e mede a temperatura",
+  "Você mostra o braço",
+  "A pele é limpa, e aplicam a injeção",
+  "A vacina é registrada nos documentos",
+  "Depois da injeção, fique de 15 a 30 minutos na clínica"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes, por 1 a 3 dias, o local dói ou fica vermelho",
+  "Às vezes fraqueza, dor de cabeça ou um pouco de febre"
+ ],
+ "after": [
+  "Fique sentado perto da sala, e não levante de repente",
+  "Pode voltar às atividades normais",
+  "A próxima dose, conforme o calendário, se for necessária"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência",
+  "Desmaio depois da injeção: deite a pessoa e chame a enfermagem"
+ ],
+ "faq": [
+  {
+   "q": "Por que vacinar a criança tão cedo?",
+   "a": "A vacina funciona melhor antes do contato com o vírus. Na infância, a resposta do corpo é mais forte."
+  },
+  {
+   "q": "Meninos também precisam da vacina?",
+   "a": "Em muitos países ela é recomendada também para meninos. Confirme com o médico."
+  },
+  {
+   "q": "A vacina substitui as consultas com o ginecologista?",
+   "a": "Não. As consultas e o preventivo continuam necessários."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina contra HPV. Tome o café da manhã e leve a carteira de vacinação."
+  }
+ ]
+}

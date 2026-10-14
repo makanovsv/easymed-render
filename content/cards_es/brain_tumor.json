@@ -1,0 +1,90 @@
+{
+ "title": "Cirugía del cerebro",
+ "also": [
+  "craneotomía",
+  "cirugía de tumor cerebral",
+  "neurocirugía",
+  "operación de cabeza"
+ ],
+ "what": "Por una abertura en el cráneo, el neurocirujano quita un tumor u otra lesión. Trabaja con microscopio y cuidando las zonas sanas.",
+ "why": "En tumores del cerebro, algunos sangrados, aneurismas y otras enfermedades que necesitan cirugía.",
+ "duration": "la cirugía suele durar varias horas; en el hospital normalmente de 5 a 10 días, a veces más",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Si tienes convulsiones y qué medicamentos tomas para ellas",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Qué cambió: el habla, la vista, la fuerza o la memoria"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Normalmente resonancia, análisis, electrocardiograma y revisión del médico internista y otros especialistas. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Cabello",
+   "text": "A veces rasuran una zona pequeña. Pregunta si tienes que hacer algo antes."
+  },
+  {
+   "title": "Familia",
+   "text": "Ponte de acuerdo sobre quién estará en contacto con el médico y te ayudará después del alta."
+  }
+ ],
+ "bring": [
+  "La resonancia y la tomografía en disco",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen catéteres",
+  "El anestesiólogo te pone la anestesia",
+  "Te fijan la cabeza en un soporte especial",
+  "El cirujano abre una zona pequeña del cráneo",
+  "Con microscopio, quita la lesión",
+  "Regresa el hueso a su lugar y cose la piel",
+  "Después de la cirugía te vigilan en terapia intensiva"
+ ],
+ "feel": [
+  "Dolor de cabeza y cara hinchada. Te dan analgésicos",
+  "Debilidad y sueño los primeros días",
+  "A veces cambian por un tiempo el habla, la vista o la fuerza de un brazo; el médico te explicará"
+ ],
+ "after": [
+  "Normalmente el primer día estás en terapia intensiva, en vigilancia",
+  "Empiezas a levantarte poco a poco, cuando lo permita el médico",
+  "Los puntos se quitan normalmente en 7 a 14 días",
+  "El estudio de patología define el tratamiento que sigue",
+  "Manejar, solo cuando lo permita el médico"
+ ],
+ "red_flags": [
+  "Convulsiones o pérdida del conocimiento: llama a emergencias",
+  "Dolor de cabeza fuerte y repentino, vómito o confusión: llama a emergencias",
+  "Debilidad nueva en un brazo o una pierna, o problemas para hablar: llama a emergencias",
+  "Fiebre de más de 38 o secreción en la herida"
+ ],
+ "faq": [
+  {
+   "q": "¿Me va a doler?",
+   "a": "El cerebro no siente dolor. Duelen la piel y los músculos de la cabeza, y eso se quita con analgésicos."
+  },
+  {
+   "q": "¿Se puede operar estando despierto?",
+   "a": "A veces sí, si el tumor está cerca de las zonas del habla o del movimiento. Lo decide el cirujano."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Lleva tus estudios en disco y la lista de medicamentos. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

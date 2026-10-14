@@ -1,0 +1,74 @@
+{
+ "title": "Vacunas en el embarazo",
+ "also": [
+  "vacunación en el embarazo",
+  "vacunas para embarazadas",
+  "qué vacunas puedo ponerme embarazada",
+  "vacuna Tdpa en el embarazo"
+ ],
+ "what": "Algunas vacunas en el embarazo protegen a la mamá y al bebé en sus primeros meses de vida. Otras no se pueden poner; el médico te dirá.",
+ "why": "Normalmente se recomienda la vacuna de la influenza y, en muchos países, la de tosferina en la segunda mitad del embarazo. A veces otras, si hay motivo.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Cuántas semanas de embarazo tienes",
+  "Qué vacunas tenías antes del embarazo",
+  "Si ahora estás enferma o tienes fiebre",
+  "Reacciones fuertes a vacunas anteriores",
+  "Enfermedades crónicas"
+ ],
+ "prepare": [
+  {
+   "title": "Plática",
+   "text": "Platica las vacunas con el médico que lleva tu embarazo. Él elige cuáles y cuándo."
+  },
+  {
+   "title": "Vacunas vivas",
+   "text": "Algunas vacunas, como la del sarampión y la de la varicela, no se ponen en el embarazo. Mejor ponerlas antes de embarazarte."
+  },
+  {
+   "title": "Documentos",
+   "text": "Busca tu cartilla de vacunación."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La cartilla de vacunación",
+  "Tu carnet prenatal"
+ ],
+ "steps": [
+  "El médico te pregunta las semanas de embarazo y cómo te sientes",
+  "Te toma la temperatura",
+  "Descubres el brazo",
+  "Te ponen la inyección",
+  "Después de la inyección, quédate en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces duele el brazo por 1 o 2 días, o hay cansancio"
+ ],
+ "after": [
+  "Quédate 30 minutos cerca del consultorio",
+  "Anota la vacuna en tu carnet prenatal",
+  "En la siguiente consulta, cuéntale al médico cómo te sentiste"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o salen ronchas por todo el cuerpo: llama a emergencias",
+  "Sangrado, dolor en la parte baja del abdomen o el bebé dejó de moverse: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La vacuna le puede hacer daño al bebé?",
+   "a": "Las vacunas que se recomiendan en el embarazo están bien estudiadas. Los anticuerpos que protegen pasan al bebé."
+  },
+  {
+   "q": "¿Y si sin querer me pusieron una vacuna viva?",
+   "a": "No te preocupes y díselo al médico. Normalmente no es motivo de alarma; el médico te explicará todo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu vacuna. Lleva tu carnet prenatal y tu cartilla de vacunación."
+  }
+ ]
+}

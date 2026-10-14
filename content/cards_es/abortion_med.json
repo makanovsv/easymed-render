@@ -1,0 +1,89 @@
+{
+ "title": "Interrupción del embarazo con medicamentos",
+ "also": [
+  "aborto con medicamentos",
+  "aborto con pastillas",
+  "interrupción legal del embarazo con medicamentos",
+  "aborto farmacológico"
+ ],
+ "what": "Un embarazo temprano se interrumpe con pastillas, sin cirugía. Se vive como una regla muy fuerte.",
+ "why": "Cuando una mujer decidió interrumpir un embarazo temprano. Hasta qué semana se puede, te lo dice el médico.",
+ "duration": "dos consultas y las pastillas en 1 a 2 días; la revisión de control suele ser en 1 a 2 semanas",
+ "tell_doctor": [
+  "La fecha exacta de tu última regla",
+  "Si tomas medicamentos que hacen la sangre más líquida o medicamentos hormonales",
+  "Anemia, enfermedades de la sangre o de las glándulas suprarrenales, o asma",
+  "Si tienes un DIU puesto",
+  "Alergias a medicamentos"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Normalmente se hace un ultrasonido para confirmar las semanas y que el embarazo esté dentro del útero. Toman análisis."
+  },
+  {
+   "title": "Consulta",
+   "text": "El médico y el psicólogo platican contigo con calma. Firmas un consentimiento. La decisión es tuya."
+  },
+  {
+   "title": "En casa",
+   "text": "Ten en casa toallas sanitarias, el analgésico que te recomiende el médico y 1 o 2 días tranquilos."
+  },
+  {
+   "title": "Alguien cercano",
+   "text": "Es bueno que esté contigo alguien de tu confianza."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Los resultados del ultrasonido y los análisis",
+  "Toallas sanitarias",
+  "El teléfono de la clínica para contactarlos"
+ ],
+ "steps": [
+  "El médico te revisa y te hace un ultrasonido",
+  "Tomas la primera pastilla frente al médico",
+  "Normalmente 1 o 2 días después tomas las segundas pastillas; dónde, te lo dice la clínica",
+  "En unas horas empiezan los cólicos y el sangrado",
+  "Sale el embarazo, normalmente en unas horas",
+  "En 1 a 2 semanas, ultrasonido o análisis de control"
+ ],
+ "feel": [
+  "Cólicos más fuertes que los de la regla. Ayuda el analgésico",
+  "Sangrado con coágulos, más abundante que la regla",
+  "Ese día puede haber náuseas, escalofríos o diarrea",
+  "Es normal sentir emociones distintas. Puedes pedir apoyo"
+ ],
+ "after": [
+  "El sangrado suele durar hasta 2 semanas",
+  "Sin tampones ni alberca hasta que termine el sangrado",
+  "No faltes a la revisión de control",
+  "Puedes embarazarte desde las primeras semanas. Elige un anticonceptivo con el médico"
+ ],
+ "red_flags": [
+  "Empapas 2 toallas grandes en una hora, 2 horas seguidas: llama a emergencias",
+  "Dolor fuerte que no se quita con el analgésico: llama a emergencias",
+  "Fiebre de más de 38 por más de un día, o escalofríos: ve al médico de urgencia",
+  "Mareo o desmayo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente es como una regla muy fuerte. El médico te dice antes qué analgésico puedes tomar."
+  },
+  {
+   "q": "¿Afecta a embarazos futuros?",
+   "a": "Normalmente no, si todo salió sin complicaciones y fuiste a la revisión de control."
+  },
+  {
+   "q": "¿Puedo quedarme sola en casa?",
+   "a": "Mejor que esté contigo alguien cercano y que tengas a la mano el teléfono de la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta en la clínica. Ten en casa toallas sanitarias, aparta 1 o 2 días tranquilos y pide a alguien cercano que esté contigo."
+  }
+ ]
+}

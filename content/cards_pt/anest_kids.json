@@ -1,0 +1,89 @@
+{
+ "title": "Anestesia geral na criança",
+ "also": [
+  "anestesia geral infantil",
+  "anestesia em criança",
+  "anestesia com máscara",
+  "sedação infantil"
+ ],
+ "what": "A criança dorme profundamente e não sente nada durante a cirurgia ou o exame. O anestesista fica ao lado o tempo todo e acompanha a respiração e o coração.",
+ "why": "Para cirurgias e alguns exames em que a criança não consegue ficar parada ou sentiria dor.",
+ "duration": "dura o tempo do procedimento; a criança normalmente acorda em 15 a 60 minutos",
+ "tell_doctor": [
+  "Alergia a remédios, alimentos, látex",
+  "Resfriado, tosse, febre nas últimas 2 semanas",
+  "Se a criança nasceu prematura, se tem doença do coração ou dos pulmões",
+  "Se a criança ou alguém da família já teve problema com anestesia",
+  "Ronco, pausas na respiração durante o sono",
+  "Dentes moles"
+ ],
+ "prepare": [
+  {
+   "title": "Jejum",
+   "text": "O tempo sem comida, fórmula, leite e líquidos claros quem define, com rigor, é a clínica. Não dê nada além disso."
+  },
+  {
+   "title": "Saúde",
+   "text": "Se a criança ficar doente antes da anestesia, ligue para a clínica. A anestesia pode ser adiada."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda por conta própria os remédios da criança. Pergunte ao anestesista."
+  },
+  {
+   "title": "Conversa",
+   "text": "Diga com calma e sinceridade que ela vai dormir e que, quando acordar, você vai estar perto."
+  }
+ ],
+ "bring": [
+  "Documentos da criança e do responsável",
+  "Lista de remédios",
+  "O brinquedo favorito",
+  "Muda de roupa, fraldas"
+ ],
+ "steps": [
+  "O anestesista examina a criança e responde às perguntas",
+  "Podem passar um creme na mão para a picada não doer",
+  "A criança dorme com uma máscara com cheirinho ou com remédio na veia",
+  "Às vezes o responsável pode ficar perto enquanto ela adormece. Pergunte",
+  "Durante o sono, a criança fica monitorada, com o anestesista ao lado",
+  "Depois do procedimento, a criança acorda na sala de recuperação"
+ ],
+ "feel": [
+  "Adormecer é rápido, e a criança normalmente não lembra",
+  "Ao acordar pode haver choro e confusão. Isso passa",
+  "Às vezes enjoo, garganta arranhando e sono até a noite"
+ ],
+ "after": [
+  "Beber e comer, aos poucos, quando liberarem",
+  "No resto do dia, descanso tranquilo em casa",
+  "O sono e a manha costumam passar em um dia",
+  "Analgésico, conforme o esquema do médico"
+ ],
+ "red_flags": [
+  "A criança tem dificuldade para respirar, os lábios ficam roxos: ligue para a emergência",
+  "A criança não acorda como de costume, está muito molinha: ligue para a emergência",
+  "Vômitos fortes, a criança não bebe",
+  "Manchas na pele, inchaço no rosto: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A anestesia é perigosa para a criança?",
+   "a": "A anestesia infantil moderna é muito segura. O anestesista ajusta conforme o peso e a saúde da criança."
+  },
+  {
+   "q": "Posso ficar perto?",
+   "a": "Muitas vezes o responsável pode ficar perto quando a criança adormece e quando acorda. Pergunte na clínica."
+  },
+  {
+   "q": "Por que não pode comer antes da anestesia?",
+   "a": "Para a comida do estômago não ir para os pulmões durante o sono. É a principal regra de segurança."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a anestesia da criança. Comida, leite e água, só até o horário que a clínica indicou."
+  }
+ ]
+}

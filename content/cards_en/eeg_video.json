@@ -1,0 +1,81 @@
+{
+ "title": "Video EEG monitoring",
+ "also": [
+  "video EEG",
+  "video EEG monitoring",
+  "overnight EEG",
+  "sleep EEG",
+  "long-term EEG"
+ ],
+ "what": "Brain activity is recorded through electrodes on your head for several hours or all night. Video is recorded at the same time, to compare the EEG with what is happening.",
+ "why": "For seizures, fainting, or strange episodes during sleep, to find out what they are and choose treatment.",
+ "duration": "from a few hours to 24 hours or longer, as your doctor decides; the report usually takes a few days",
+ "tell_doctor": [
+  "What your seizures look like and how often they happen",
+  "What medicines you take. Do not stop them on your own",
+  "If you have a video of a seizure on your phone, show it",
+  "How much you usually sleep"
+ ],
+ "prepare": [
+  {
+   "title": "Sleep",
+   "text": "Sometimes you are asked to sleep less the night before, so it is easier to fall asleep during the recording. Do this only if your doctor says so."
+  },
+  {
+   "title": "Hair",
+   "text": "Wash your hair the day before, with no oil, hairspray, or gel. Remove braids and hair extensions."
+  },
+  {
+   "title": "Medicines",
+   "text": "Take them as usual. Do not stop them on your own. If needed, your doctor will decide."
+  },
+  {
+   "title": "Things",
+   "text": "Comfortable clothes that button at the front. You will not be able to pull anything over your head."
+  }
+ ],
+ "bring": [
+  "Your referral and past EEGs",
+  "A list of your medicines and the medicines themselves",
+  "Videos of seizures, if you have them",
+  "Food, water, a charger, and a book",
+  "Someone with you, if the clinic asks"
+ ],
+ "steps": [
+  "Paste is put on your head and electrodes are placed, with a cap or bandage on top",
+  "The camera and recording are turned on",
+  "You go about as usual: read, eat, and sleep",
+  "Sometimes you are asked to breathe fast or look at a flashing light",
+  "If a seizure starts, press the button or tell the person with you",
+  "At the end, the electrodes are removed and the paste is washed off"
+ ],
+ "feel": [
+  "It does not hurt. The electrodes send nothing into your head",
+  "The cap may make it hard to sleep at first",
+  "Your hair will be a bit sticky from the paste afterward"
+ ],
+ "after": [
+  "Wash your hair at home",
+  "You can go back to normal life right away, unless your doctor says otherwise",
+  "The report usually takes a few days"
+ ],
+ "red_flags": [
+  "A seizure lasting more than 5 minutes, or seizures one after another: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why does it need a night?",
+   "a": "Many EEG changes show only during sleep. The longer the recording, the better the chance of catching a seizure."
+  },
+  {
+   "q": "Can I get up to use the toilet?",
+   "a": "Usually yes. The staff will show you how not to damage the wires."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Video EEG tomorrow. Wash your hair with no oil or hairspray. Bring your medicines, food, and a charger."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "pH-metría de 24 horas",
+ "also": [
+  "pH-metría esofágica",
+  "pH-metría de 24 horas",
+  "impedancia-pH",
+  "prueba de reflujo",
+  "sonda de 24 horas"
+ ],
+ "what": "Por la nariz ponen una sonda delgada hasta el esófago y la dejas un día. El aparato registra cada cuánto sube ácido del estómago al esófago.",
+ "why": "Con agruras que no se quitan con tratamiento, tos o dolor de pecho sin causa clara, o antes de una cirugía para el reflujo.",
+ "duration": "poner la sonda toma unos 15 minutos y se usa normalmente 24 horas; el reporte suele tardar varios días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo para las agruras y la acidez. El médico te dirá si hay que dejarlos por un tiempo",
+  "Cirugías del esófago o del estómago, o problemas de la nariz",
+  "Si toleras mal las sondas",
+  "Si tomas medicamentos que hacen la sangre más líquida"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos para las agruras",
+   "text": "Muchas veces se dejan unos días antes de la prueba. No los dejes por tu cuenta. Lo decide el médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comas de 4 a 6 horas antes de poner la sonda. Pregunta en la clínica."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, con bolsillo o cinturón para el aparato."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus reportes de endoscopia y manometría anteriores",
+  "La lista de tus medicamentos",
+  "Un diario y una pluma. Normalmente te los dan en la clínica"
+ ],
+ "steps": [
+  "Te ponen anestésico en la nariz y la garganta",
+  "Meten la sonda delgada por la nariz mientras das tragos de agua",
+  "Pegan la punta de la sonda en tu mejilla con cinta",
+  "El aparato se cuelga en la cintura",
+  "Te vas a casa y haces tu día normal",
+  "En el diario anotas comidas, sueño, agruras y dolor",
+  "Al día siguiente regresas y te quitan la sonda en segundos"
+ ],
+ "feel": [
+  "Meter la sonda es molesto: lloran los ojos y dan ganas de estornudar o toser",
+  "Después te acostumbras, pero tragar se siente un poco raro"
+ ],
+ "after": [
+  "Después de quitarla, vida normal",
+  "Los medicamentos para las agruras, según te diga el médico",
+  "El reporte suele tardar varios días"
+ ],
+ "red_flags": [
+  "Sangrado de nariz que no para o dolor fuerte de pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo comer con la sonda?",
+   "a": "Sí, tienes que comer como siempre. Así la prueba muestra lo que pasa en realidad. Muchas veces piden evitar lo ácido y los refrescos."
+  },
+  {
+   "q": "¿Me puedo bañar con el aparato?",
+   "a": "No, el aparato no se puede mojar. Báñate antes de que te pongan la sonda y después de quitarla."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu pH-metría de 24 horas. No comas desde la hora que te dijo la clínica. Pregunta al médico por tus medicamentos para las agruras."
+  }
+ ]
+}

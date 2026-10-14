@@ -1,0 +1,64 @@
+{
+ "title": "Abdominal X-ray",
+ "also": [
+  "abdominal X-ray",
+  "plain abdominal X-ray",
+  "KUB X-ray",
+  "belly X-ray"
+ ],
+ "what": "A simple X-ray of the belly, without contrast dye. It shows gas, fluid, and some stones.",
+ "why": "For severe belly pain, bloating, no stool or gas passing, a possible bowel blockage, or a swallowed object.",
+ "duration": "usually 5 to 10 minutes in the room; with sudden pain, the doctor looks at the image right away",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "If you recently had a barium test. Barium shows on the image",
+  "If an object was swallowed, say what and when"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "Usually none. In an emergency, the image is taken right away."
+  },
+  {
+   "title": "Clothing",
+   "text": "Take off jewelry and anything metal in the area. Sometimes you are asked to change."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past belly images and ultrasounds, if you have them"
+ ],
+ "steps": [
+  "You remove metal items and change, if asked",
+  "The image is taken standing or lying down, sometimes both",
+  "You hold your breath for a couple of seconds",
+  "The technician takes the image and checks that everything is visible"
+ ],
+ "feel": [
+  "It does not hurt. The image itself takes a fraction of a second",
+  "Sometimes you need to hold an awkward position for a bit"
+ ],
+ "after": [
+  "The doctor who sent you will decide what is next",
+  "The report is usually ready the same day, or right away if urgent"
+ ],
+ "red_flags": [
+  "Severe belly pain that keeps getting worse, vomiting, a hard belly, or no stool or gas: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Does a belly X-ray show all the organs?",
+   "a": "No. It mainly shows gas, fluid, and dense objects. Organs are seen in more detail on ultrasound or CT."
+  },
+  {
+   "q": "Do I need to fast before the X-ray?",
+   "a": "Usually not for a plain X-ray. If unsure, check with the clinic."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Abdominal X-ray soon. Wear clothes with no metal, and bring your referral."
+  }
+ ]
+}

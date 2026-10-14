@@ -1,0 +1,68 @@
+{
+ "title": "Ultrasonido de pleura",
+ "also": [
+  "ultrasonido pleural",
+  "ultrasonido de tórax",
+  "ultrasonido para líquido en pulmones",
+  "derrame pleural por ultrasonido"
+ ],
+ "what": "El médico revisa con ultrasonido el espacio entre los pulmones y la pared del pecho. Así se ve si hay líquido de más.",
+ "why": "Con falta de aire, después de una neumonía, si se sospecha líquido en el pecho, antes de una punción, o para controlar el tratamiento.",
+ "duration": "normalmente de 10 a 20 minutos; el reporte suele estar de inmediato",
+ "tell_doctor": [
+  "Si tienes falta de aire, tos o dolor de pecho",
+  "Qué enfermedades de los pulmones o del corazón tienes",
+  "Si ya te hicieron una punción o te sacaron líquido",
+  "Qué radiografías o tomografías del pecho ya tienes"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Normalmente no hace falta. Puedes comer y beber como siempre."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda para dejar libres el pecho y la espalda con facilidad."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus radiografías o tomografías del pecho con sus reportes, si los tienes",
+  "Tus resúmenes del hospital, si estuviste internado"
+ ],
+ "steps": [
+  "Normalmente estás sentado, con los brazos cruzados o sobre la cabeza",
+  "Ponen gel en la espalda y los costados",
+  "Ponen el transductor entre las costillas y lo mueven de abajo hacia arriba",
+  "El médico revisa los dos lados",
+  "A veces te piden acostarte boca arriba o de lado"
+ ],
+ "feel": [
+  "El gel está frío y hay una ligera presión entre las costillas",
+  "Estar sentado derecho puede cansar. Avisa si te cuesta"
+ ],
+ "after": [
+  "Puedes irte a casa de inmediato",
+  "El reporte suele estar de inmediato",
+  "Si encuentran líquido, el médico decidirá si hace falta una punción"
+ ],
+ "red_flags": [
+  "Mucha falta de aire, sensación de ahogo o dolor de pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "Si encontraron líquido, ¿es peligroso?",
+   "a": "Es motivo para buscar la causa. El médico te dirá si hay que sacarlo y qué estudios hacer."
+  },
+  {
+   "q": "¿Esto sustituye a la radiografía?",
+   "a": "No. El ultrasonido ve bien el líquido, y la radiografía y la tomografía muestran los pulmones. Muchas veces se hacen juntos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu ultrasonido de pleura. No necesitas preparación. Lleva tu radiografía o tomografía del pecho, si la tienes."
+  }
+ ]
+}

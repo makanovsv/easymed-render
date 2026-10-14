@@ -1,0 +1,76 @@
+{
+ "title": "Nosebleed treatment",
+ "also": [
+  "nosebleed",
+  "epistaxis",
+  "nasal cautery",
+  "nasal packing"
+ ],
+ "what": "The doctor finds where the blood is coming from and stops it. Sometimes the vessel is sealed with cautery, or the nose is packed.",
+ "why": "When a nosebleed will not stop on its own or keeps coming back.",
+ "duration": "usually 15 to 30 minutes; if the nose is packed, the packing usually comes out after 1 to 2 days",
+ "tell_doctor": [
+  "Blood thinners. Do not stop them on your own",
+  "High blood pressure",
+  "Blood disorders or easy bruising",
+  "Any injury to the nose"
+ ],
+ "prepare": [
+  {
+   "title": "Right now",
+   "text": "Sit up and lean your head forward, not back. Pinch the soft part of your nose firmly for 10 to 15 minutes."
+  },
+  {
+   "title": "What not to do",
+   "text": "Do not tilt your head back or swallow the blood."
+  },
+  {
+   "title": "Medicines",
+   "text": "If you take blood thinners, tell your doctor. Do not stop them on your own."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your medicines",
+  "Tissues"
+ ],
+ "steps": [
+  "The doctor clears clots from your nose",
+  "The lining is numbed with a spray or cotton pads",
+  "The bleeding vessel is found",
+  "It is sealed with cautery, or the nose is packed",
+  "Sometimes your blood pressure is checked",
+  "You are told what to do at home"
+ ],
+ "feel": [
+  "Unpleasant, may sting",
+  "Packing makes it hard to breathe through your nose and makes your eyes water"
+ ],
+ "after": [
+  "Do not blow or pick your nose for a few days",
+  "No heavy lifting or hot drinks in the first days",
+  "If your nose is packed, it will be removed at the clinic",
+  "Keep the air moist at home"
+ ],
+ "red_flags": [
+  "Bleeding will not stop after 20 minutes, or is heavy: call emergency services",
+  "Weakness, dizziness, or paleness",
+  "A nosebleed after a head injury: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why not tilt my head back?",
+   "a": "Blood runs into your throat, you swallow it, and you may vomit."
+  },
+  {
+   "q": "Why do I get nosebleeds often?",
+   "a": "Often from dry air and fragile vessels. Your doctor will find the cause."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Nosebleed appointment in an hour. Bring your medicine list."
+  }
+ ]
+}

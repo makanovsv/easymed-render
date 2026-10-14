@@ -1,0 +1,83 @@
+{
+ "title": "Prostate MRI",
+ "also": [
+  "prostate MRI",
+  "multiparametric MRI of the prostate",
+  "mpMRI"
+ ],
+ "what": "Detailed images of the prostate in a magnetic field, usually with contrast dye. No radiation.",
+ "why": "For a high PSA, before a biopsy, for monitoring, and to plan treatment.",
+ "duration": "usually 30 to 45 minutes; the report in 1 to 3 days",
+ "tell_doctor": [
+  "A pacemaker, defibrillator, or other implant with electronics",
+  "Metal in your body: joint replacements, plates, clips on blood vessels, or shrapnel",
+  "If you recently had a prostate biopsy. Say the date. The MRI is sometimes moved",
+  "Allergy to contrast dye, or kidney disease",
+  "If you are afraid of closed spaces. Your doctor will suggest ways to help"
+ ],
+ "prepare": [
+  {
+   "title": "Bowel",
+   "text": "Sometimes you are asked to use a small cleansing enema the evening before or in the morning. Check with the clinic."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no food for 3 to 4 hours."
+  },
+  {
+   "title": "Abstinence",
+   "text": "Often 2 to 3 days without ejaculation is advised. Ask your doctor."
+  },
+  {
+   "title": "Metal",
+   "text": "Take off everything metal: jewelry, watches, hair clips, piercings. Leave your phone and cards in the locker."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A recent PSA test",
+  "Past MRIs and biopsy reports",
+  "A creatinine test, if asked"
+ ],
+ "steps": [
+  "You change and leave everything metal in the locker",
+  "You lie on the table, and a soft coil pad is placed over the area",
+  "Sometimes a medicine is given so the bowel moves less",
+  "The machine knocks loudly. You get headphones or earplugs",
+  "Lie still. Staff talk to you over an intercom",
+  "At the end, contrast is given into a vein"
+ ],
+ "feel": [
+  "It does not hurt, but it is loud and tight",
+  "Sometimes the area feels warm. That is normal",
+  "With contrast: a cool feeling in the vein"
+ ],
+ "after": [
+  "You can go back to your day right away",
+  "After contrast, drink more water, unless your doctor said otherwise",
+  "The report includes a risk score. Take it to your urologist"
+ ],
+ "red_flags": [
+  "After contrast: itching, a rash, a swollen face, or trouble breathing. Tell the staff right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Does it replace a biopsy?",
+   "a": "No. The MRI helps decide if a biopsy is needed and where to take tissue from."
+  },
+  {
+   "q": "Is a probe put into the rectum?",
+   "a": "Usually not. The coil is placed on your belly. Check with the clinic."
+  },
+  {
+   "q": "Can I have an MRI with fillings and crowns?",
+   "a": "Yes. Fillings and regular crowns are no problem. Tell staff about implants and prostheses in advance, and they will check."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Prostate MRI tomorrow. Check if you need an enema. Do not eat for 3 to 4 hours before."
+  }
+ ]
+}

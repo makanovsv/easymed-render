@@ -1,0 +1,75 @@
+{
+ "title": "Oncologist visit",
+ "also": [
+  "oncologist",
+  "cancer doctor",
+  "cancer specialist",
+  "oncology consultation"
+ ],
+ "what": "A doctor who checks a suspected tumor, orders tests and treatment, and follows you afterward.",
+ "why": "If a test found a growth or changes that need checking. Also for follow-up after treatment.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "What bothers you, and since when",
+  "All your medicines",
+  "Long-term conditions and surgeries",
+  "Cancer in relatives",
+  "What tests have already been done"
+ ],
+ "prepare": [
+  {
+   "title": "Documents",
+   "text": "Gather all your test results: scans on a disc, reports, and biopsy results."
+  },
+  {
+   "title": "Questions",
+   "text": "Write your questions down in advance. It is easy to forget when nervous."
+  },
+  {
+   "title": "Support",
+   "text": "You can come with someone close to you."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Scans on a disc and their reports",
+  "Biopsy results, and slides and tissue blocks if you were given them",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks questions and reviews your documents",
+  "The relevant area and lymph nodes are examined and felt",
+  "The doctor explains what is known now and what needs checking",
+  "Tests are ordered, or a treatment plan is discussed",
+  "Your questions are answered"
+ ],
+ "feel": [
+  "The exam does not hurt",
+  "Feeling nervous is normal. Ask about anything that is unclear"
+ ],
+ "after": [
+  "Have the ordered tests on time",
+  "You can take notes or ask for a written summary",
+  "Do not start any remedies on your own without your doctor"
+ ],
+ "red_flags": [
+  "Severe pain, bleeding, or a high fever during treatment: call your doctor or emergency services"
+ ],
+ "faq": [
+  {
+   "q": "I was referred to an oncologist. Does it mean I have cancer?",
+   "a": "No. People are often referred to rule out a tumor. Tests give the answer."
+  },
+  {
+   "q": "Can I bring someone with me?",
+   "a": "Yes, it helps. They will remember what you might miss."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Oncologist visit tomorrow. Gather all your scans and reports, and write down your questions."
+  }
+ ]
+}

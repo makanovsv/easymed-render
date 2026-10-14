@@ -1,0 +1,82 @@
+{
+ "title": "Hearing aid fitting",
+ "also": [
+  "hearing aid fitting",
+  "hearing aids",
+  "hearing aid adjustment",
+  "audiologist visit"
+ ],
+ "what": "A specialist tests your hearing, chooses a hearing aid, and sets it up for your ears. The aid makes sounds louder and speech clearer.",
+ "why": "When your hearing is reduced and speech is hard to follow, especially in noise or on the phone.",
+ "duration": "the first visit usually takes 1 to 1.5 hours; getting used to it and fine-tuning takes a few weeks",
+ "tell_doctor": [
+  "Any ear discharge, pain, or ear surgery",
+  "Ringing in the ears or dizziness",
+  "If your hearing dropped suddenly over a few days, see an ENT doctor urgently first",
+  "Where hearing is hardest for you: at home, at work, on the phone",
+  "What medicines you take"
+ ],
+ "prepare": [
+  {
+   "title": "Ears",
+   "text": "An ENT doctor usually checks your ears first and removes any earwax plug."
+  },
+  {
+   "title": "Hearing test",
+   "text": "If you have a recent hearing test, bring it. If not, it will be done on site."
+  },
+  {
+   "title": "Someone with you",
+   "text": "It helps to bring someone close to you. Their voice can be used during setup."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Past hearing tests",
+  "Your ID",
+  "Your glasses, if you wear them"
+ ],
+ "steps": [
+  "The specialist asks where you have trouble hearing",
+  "Your ears are examined",
+  "Your hearing is tested with headphones: you press a button when you hear a tone",
+  "The type of aid is chosen: behind the ear or in the ear",
+  "Sometimes an ear impression is taken for an earpiece",
+  "The aid is connected to a computer and tuned to your hearing",
+  "You learn to put it in, take it out, and change batteries or charge it"
+ ],
+ "feel": [
+  "The hearing test does not hurt",
+  "At first, sounds seem loud and sharp, and your own voice sounds strange",
+  "You may feel the aid in your ear for the first days"
+ ],
+ "after": [
+  "Wear the aid every day, starting with a few hours",
+  "Getting used to it usually takes 2 to 4 weeks",
+  "Come back for fine-tuning. It is a normal part of fitting",
+  "Keep it away from water, and take it out at night"
+ ],
+ "red_flags": [
+  "Pain, redness, or discharge from the ear: take the aid out and see a doctor"
+ ],
+ "faq": [
+  {
+   "q": "Do I need to wear it all the time?",
+   "a": "Yes, it is best to wear it all day. Your brain adjusts faster and understands speech better."
+  },
+  {
+   "q": "Do I need aids for both ears?",
+   "a": "If hearing is reduced on both sides, two are usually advised. It makes speech easier to follow and sounds easier to locate."
+  },
+  {
+   "q": "Why does everything sound loud?",
+   "a": "Your brain has forgotten many sounds. This passes in a few weeks, and the aid can be adjusted if needed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Hearing aid fitting tomorrow. Bring past hearing tests and, if you can, someone close to you."
+  }
+ ]
+}

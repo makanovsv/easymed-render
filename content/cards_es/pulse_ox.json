@@ -1,0 +1,73 @@
+{
+ "title": "Oximetría de pulso nocturna",
+ "also": [
+  "oximetría nocturna",
+  "oxigenación durante el sueño",
+  "monitoreo de saturación nocturna",
+  "prueba de ronquidos"
+ ],
+ "what": "En la noche, en tu casa, duermes con un sensor pequeño en el dedo. Registra el oxígeno en la sangre y el pulso toda la noche.",
+ "why": "Con ronquidos, pausas en la respiración al dormir, sueño durante el día, enfermedades de los pulmones o del corazón, o para ajustar el oxígeno.",
+ "duration": "una noche en casa; el reporte suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Si roncas o tienes pausas en la respiración",
+  "Si tomas pastillas para dormir o calmantes",
+  "Si usas oxígeno en la noche",
+  "Si tienes enfermedades de los pulmones o del corazón"
+ ],
+ "prepare": [
+  {
+   "title": "Uñas",
+   "text": "Quita el esmalte y las uñas postizas del dedo donde va el sensor."
+  },
+  {
+   "title": "En la noche",
+   "text": "Sin alcohol y sin café de más en la noche."
+  },
+  {
+   "title": "Sueño",
+   "text": "Duerme como siempre, en tu cama."
+  }
+ ],
+ "bring": [
+  "El aparato y las instrucciones que te da la clínica",
+  "La orden médica",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "En la clínica te dan el aparato y te enseñan a ponértelo",
+  "Antes de dormir te pones el sensor en el dedo",
+  "Prendes el aparato y te acuestas como siempre",
+  "Si en la noche se cae el sensor, póntelo otra vez",
+  "En la mañana te lo quitas y apagas el aparato",
+  "Regresas el aparato a la clínica"
+ ],
+ "feel": [
+  "No duele. El sensor es solo una pinza",
+  "Al principio se siente raro dormir con él"
+ ],
+ "after": [
+  "Regresa el aparato en la fecha que te diga la clínica",
+  "El reporte suele estar en 1 a 3 días",
+  "Si hace falta, el médico te pedirá un estudio del sueño completo"
+ ],
+ "red_flags": [
+  "Mucha falta de aire, labios morados o dolor de pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Y si el sensor se cae en la noche?",
+   "a": "Póntelo otra vez. Las pausas cortas normalmente no afectan, pero avísale a la clínica."
+  },
+  {
+   "q": "¿Esto sustituye un estudio del sueño?",
+   "a": "No del todo. Es un primer paso sencillo. A veces después hace falta un estudio del sueño completo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoy en la noche es tu oximetría. Quita el esmalte del dedo, ponte el sensor antes de dormir y prende el aparato."
+  }
+ ]
+}

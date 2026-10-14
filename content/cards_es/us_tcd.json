@@ -1,0 +1,71 @@
+{
+ "title": "Doppler transcraneal",
+ "also": [
+  "Doppler transcraneal",
+  "DTC",
+  "ultrasonido de vasos cerebrales",
+  "Doppler de arterias cerebrales"
+ ],
+ "what": "El médico revisa con ultrasonido, a través de los huesos del cráneo, cómo corre la sangre por los vasos del cerebro. Es seguro y no duele.",
+ "why": "Con mareos, después de un derrame cerebral, con estrechamiento de los vasos del cuello, dolores de cabeza frecuentes, o algunas enfermedades de la sangre.",
+ "duration": "normalmente de 20 a 40 minutos; el reporte es inmediato",
+ "tell_doctor": [
+  "Qué te molesta y desde cuándo",
+  "Si tuviste un derrame cerebral, golpes en la cabeza o cirugías",
+  "Qué medicamentos tomas",
+  "Tus estudios anteriores de vasos del cuello y la cabeza"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Normalmente no hace falta. Puedes comer y beber."
+  },
+  {
+   "title": "En la mañana",
+   "text": "Mejor sin café de más, sin bebidas energéticas y sin fumar. Cambian el flujo de sangre."
+  },
+  {
+   "title": "Cabello",
+   "text": "Sin peinados ni productos para el cabello. El gel se pone en la sien y en la nuca."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus ultrasonidos de vasos anteriores",
+  "La lista de tus medicamentos",
+  "Un peine o toallitas"
+ ],
+ "steps": [
+  "Te acuestas boca arriba",
+  "Ponen gel en la sien",
+  "El médico apoya el transductor en la sien y encuentra los vasos",
+  "Después revisan por la nuca. Te piden inclinar la cabeza",
+  "A veces te piden aguantar la respiración o respirar rápido"
+ ],
+ "feel": [
+  "Una ligera presión en la sien y la nuca",
+  "Al respirar rápido te puedes marear un poco. Se pasa"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "El reporte suele estar de inmediato",
+  "Platica el resultado con el neurólogo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿El ultrasonido pasa a través del cráneo?",
+   "a": "Sí, por las partes delgadas: la sien, la nuca y la órbita del ojo. En algunas personas el hueso es más grueso y se ve peor."
+  },
+  {
+   "q": "¿Es peligroso para el cerebro?",
+   "a": "No. El ultrasonido no usa radiación ni hace daño."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu Doppler transcraneal. En la mañana sin café de más y sin fumar. Sin productos en el cabello."
+  }
+ ]
+}

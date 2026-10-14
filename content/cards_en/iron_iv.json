@@ -1,0 +1,73 @@
+{
+ "title": "IV iron infusion",
+ "also": [
+  "iron infusion",
+  "IV iron",
+  "intravenous iron",
+  "iron drip"
+ ],
+ "what": "Iron medicine is given through a drip into a vein. This refills your iron stores faster than tablets.",
+ "why": "For iron deficiency anemia when tablets do not help or cause side effects, in pregnancy, or before surgery, as your doctor prescribes.",
+ "duration": "one infusion usually takes 15 to 60 minutes, plus 30 minutes of observation; blood tests show the effect after a few weeks",
+ "tell_doctor": [
+  "If you ever had an allergy to iron medicines or other medicines",
+  "Asthma or severe allergies",
+  "If you are pregnant",
+  "If you take iron tablets"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "You can usually eat as normal."
+  },
+  {
+   "title": "Tablets",
+   "text": "Do not stop them on your own. Tell your doctor. They will decide if you need iron tablets along with the infusion."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve that is easy to roll up."
+  }
+ ],
+ "bring": [
+  "Your referral and recent blood tests",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The nurse puts an IV line in a vein",
+  "The drip with iron is connected",
+  "It runs slowly, and you are watched",
+  "Your blood pressure and pulse are checked from time to time",
+  "After it finishes, you sit for about 30 minutes more"
+ ],
+ "feel": [
+  "Usually nothing",
+  "Sometimes a metallic taste or mild nausea",
+  "A headache or muscle aches for 1 to 2 days can happen"
+ ],
+ "after": [
+  "A normal day. You can go home",
+  "If the medicine leaks under the skin, a brown mark can stay. So tell the nurse right away about any burning in your arm",
+  "A blood test is usually repeated after a few weeks"
+ ],
+ "red_flags": [
+  "During the infusion: burning in the arm, a rash, itching, shortness of breath, or dizziness. Tell the nurse right away",
+  "At home: a swollen face or trouble breathing. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why not tablets?",
+   "a": "Tablets work more slowly and sometimes cause side effects. An infusion gives a lot of iron at once."
+  },
+  {
+   "q": "How many infusions will I need?",
+   "a": "It depends on the medicine and how much iron you are missing. Usually 1 to 3. Your doctor decides."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Iron infusion today. Eat something and wear a top with an easy sleeve."
+  }
+ ]
+}

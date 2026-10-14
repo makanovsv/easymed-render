@@ -1,0 +1,75 @@
+{
+ "title": "Travel vaccines",
+ "also": [
+  "travel vaccines",
+  "travel vaccinations",
+  "yellow fever vaccine",
+  "travel health clinic"
+ ],
+ "what": "The doctor chooses vaccines for the country you are going to. Some countries require a vaccine to enter.",
+ "why": "Before travel to tropical and other countries with diseases that are rare at home.",
+ "duration": "the consultation usually takes 20 to 40 minutes, and a shot a few seconds; come 4 to 8 weeks before your trip",
+ "tell_doctor": [
+  "Where you are going, when, and for how long",
+  "How you will stay: city, countryside, hiking",
+  "What vaccines you have already had",
+  "Long-term conditions and medicines",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Plan ahead",
+   "text": "Come 1 to 2 months before your trip. Some vaccines need time to work, and some need several shots."
+  },
+  {
+   "title": "Requirements",
+   "text": "Check the country's entry rules. Sometimes a vaccination certificate is required."
+  },
+  {
+   "title": "Documents",
+   "text": "Find your vaccination certificate."
+  }
+ ],
+ "bring": [
+  "Your ID, preferably your passport",
+  "Your vaccination certificate",
+  "Your route and travel dates"
+ ],
+ "steps": [
+  "The doctor asks about your trip and your health",
+  "Your existing vaccines are checked",
+  "The needed vaccines and schedule are chosen",
+  "You get one shot, or several on the same day",
+  "You get a vaccination certificate",
+  "You get advice on staying healthy on the trip"
+ ],
+ "feel": [
+  "A quick prick",
+  "Sometimes a sore arm for 1 to 2 days, tiredness, or a fever"
+ ],
+ "after": [
+  "Stay near the room for 30 minutes",
+  "Take the certificate with you on the trip",
+  "If another dose is needed, do not miss it before you leave"
+ ],
+ "red_flags": [
+  "Trouble breathing, swelling of the face or throat, or a rash all over: call emergency services",
+  "A fever and feeling unwell after your trip: tell your doctor where you have been"
+ ],
+ "faq": [
+  {
+   "q": "Can I get vaccines a week before my trip?",
+   "a": "Some, yes, but protection may not have time to build fully. It is better to come early."
+  },
+  {
+   "q": "Where is the yellow fever vaccine needed?",
+   "a": "In a number of countries in Africa and South America. Check the country's rules and ask your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Travel vaccine consultation in 2 days. Bring your passport and vaccination certificate."
+  }
+ ]
+}

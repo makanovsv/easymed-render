@@ -1,0 +1,75 @@
+{
+ "title": "Thoracentesis (draining fluid from the chest)",
+ "also": [
+  "thoracentesis",
+  "pleural tap",
+  "draining fluid around the lungs",
+  "chest tap"
+ ],
+ "what": "Through a small puncture in your back or side, the doctor drains fluid that has built up around a lung. It is done with local numbing.",
+ "why": "When fluid around a lung makes it hard to breathe, or when it needs to be tested to find the cause.",
+ "duration": "usually 15 to 30 minutes; fluid test results in a few days",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners. Your doctor will decide if anything needs to change",
+  "Allergies, including to numbing medicines",
+  "If you have a strong cough",
+  "If you had this procedure before"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Usually your blood clotting is checked. The puncture spot is marked using ultrasound or an X-ray."
+  },
+  {
+   "title": "Food",
+   "text": "You can usually eat as usual. Check with the clinic."
+  },
+  {
+   "title": "During",
+   "text": "It is important to sit still. If you feel a cough coming, warn the doctor."
+  }
+ ],
+ "bring": [
+  "Your referral, images, and test results",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You sit, lean forward, and rest your arms on a table",
+  "The doctor chooses a spot on your back using ultrasound",
+  "The skin is cleaned and numbed with an injection",
+  "A thin needle goes in between the ribs",
+  "The fluid is slowly drained into a container",
+  "The needle is removed, and a bandage is put on",
+  "Sometimes a chest X-ray is done afterward"
+ ],
+ "feel": [
+  "A prick and stinging from the numbing",
+  "Pressure in your back",
+  "Near the end, you may cough or feel heaviness in your chest. Tell the doctor"
+ ],
+ "after": [
+  "You are usually watched for a while, and your breathing is checked",
+  "Keep the bandage on until the next day, unless your doctor says otherwise",
+  "Breathing usually gets easier"
+ ],
+ "red_flags": [
+  "Shortness of breath that gets worse, chest pain, or coughing up blood: call emergency services",
+  "A fever over 38°C (100.4°F) or redness at the puncture site: see a doctor right away"
+ ],
+ "faq": [
+  {
+   "q": "Can the lung be punctured?",
+   "a": "The risk is small, since the spot is chosen with ultrasound. If it happens, it shows on an X-ray, and the doctor knows what to do."
+  },
+  {
+   "q": "Why do I want to cough near the end?",
+   "a": "The lung expands as the fluid leaves. If the cough is strong, the procedure is stopped."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Chest fluid drainage today. Bring your images and a list of medicines. Keeping still during the procedure is important."
+  }
+ ]
+}

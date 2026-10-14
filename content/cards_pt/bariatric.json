@@ -1,0 +1,91 @@
+{
+ "title": "Cirurgia bariátrica",
+ "also": [
+  "cirurgia bariátrica",
+  "bypass gástrico",
+  "gastrectomia vertical",
+  "sleeve",
+  "cirurgia de redução do estômago"
+ ],
+ "what": "O cirurgião diminui o tamanho do estômago ou muda o caminho da comida. A pessoa fica satisfeita com menos comida e emagrece aos poucos.",
+ "why": "Na obesidade grave, principalmente com diabetes, pressão alta ou problemas nas articulações, quando as dietas não ajudaram.",
+ "duration": "a cirurgia leva normalmente de 1 a 3 horas, com internação normalmente de 2 a 4 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Diabetes e todos os remédios para o açúcar",
+  "Ronco e pausas na respiração durante o sono",
+  "Azia e doenças do estômago",
+  "Cigarro e álcool"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes da cirurgia normalmente há muitos exames: sangue, endoscopia, ultrassom, consultas com vários médicos. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Alimentação",
+   "text": "Muitas vezes, de 1 a 3 semanas antes, indicam uma dieta especial. Ela diminui o fígado e facilita a cirurgia."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  }
+ ],
+ "bring": [
+  "Todos os resultados de exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para alguns dias no hospital"
+ ],
+ "steps": [
+  "No dia da cirurgia, você troca de roupa, e colocam um acesso na veia",
+  "Colocam meias ou faixas nas pernas contra trombose",
+  "O anestesista aplica a anestesia",
+  "O cirurgião trabalha por alguns furinhos na barriga",
+  "O estômago é diminuído ou é feito um desvio",
+  "As costuras são testadas contra vazamento, e os furos são suturados"
+ ],
+ "feel": [
+  "Depois da anestesia, sono e às vezes enjoo",
+  "Dor nos furinhos, às vezes no ombro. Dão analgésico",
+  "Você sente menos fome e fica satisfeito rápido"
+ ],
+ "after": [
+  "Normalmente você levanta e caminha já no primeiro dia",
+  "Beba em goles pequenos. A alimentação avança por etapas: líquida, pastosa, macia",
+  "Muitas vezes as vitaminas são para a vida toda. O médico receita",
+  "É importante acompanhar com o médico e o nutricionista",
+  "Normalmente recomendam planejar gravidez só depois de 12 a 18 meses"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, pulso acelerado, febre",
+  "Vômitos, sem conseguir beber",
+  "Fezes pretas ou vômito com sangue: ligue para a emergência",
+  "Dor na panturrilha, falta de ar, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Quanto peso dá para perder?",
+   "a": "Varia: muita gente perde a maior parte do excesso de peso em 1 a 2 anos. O resultado se mantém se você seguir a alimentação."
+  },
+  {
+   "q": "Depois vou poder comer como antes?",
+   "a": "As porções ficam pequenas para sempre. Vai ser preciso comer com regras novas."
+  },
+  {
+   "q": "Vou precisar tomar vitaminas?",
+   "a": "Normalmente sim, muitas vezes a vida toda. Isso protege contra anemia e problemas nos ossos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Siga a dieta da clínica. Comida e água, só até o horário indicado."
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Colocação de tubo de ventilação no ouvido",
+ "also": [
+  "tubo de ventilação",
+  "timpanostomia",
+  "carretel no ouvido",
+  "drenos no ouvido"
+ ],
+ "what": "O cirurgião coloca um tubinho minúsculo no tímpano. Por ele sai o líquido do ouvido médio e entra ar.",
+ "why": "Com otites frequentes ou líquido atrás do tímpano que demora a sair e diminui a audição.",
+ "duration": "a cirurgia leva normalmente de 15 a 30 minutos; a alta normalmente é no mesmo dia",
+ "tell_doctor": [
+  "Se a criança esteve doente nas últimas 2 semanas",
+  "Todos os remédios e alergias",
+  "Doenças crônicas",
+  "Se o paciente ou alguém da família já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente fazem teste de audição e exames de sangue. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você."
+  },
+  {
+   "title": "Comida e bebida",
+   "text": "O horário da última comida e bebida quem diz é a clínica. Siga à risca."
+  },
+  {
+   "title": "Para a criança",
+   "text": "Diga com calma que ela vai dormir e que você vai estar perto."
+  }
+ ],
+ "bring": [
+  "Documentos",
+  "Resultados de exames e do teste de audição",
+  "Muda de roupa, brinquedo favorito"
+ ],
+ "steps": [
+  "O paciente troca de roupa, às vezes colocam um acesso na veia",
+  "Aplicam a anestesia, e o paciente dorme",
+  "Pelo ouvido, com microscópio, o cirurgião faz um pequeno corte no tímpano",
+  "Aspira o líquido do ouvido",
+  "Coloca o tubinho",
+  "O paciente acorda na sala de recuperação e vai para casa algumas horas depois"
+ ],
+ "feel": [
+  "Depois da anestesia, sono, e as crianças ficam manhosas",
+  "Às vezes um pouco de secreção no ouvido nos primeiros dias",
+  "A audição muitas vezes melhora na hora"
+ ],
+ "after": [
+  "Gotas no ouvido, conforme a receita",
+  "Como proteger o ouvido da água, o médico explica",
+  "Os tubinhos normalmente caem sozinhos depois de alguns meses",
+  "Volte para a revisão no prazo"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, dor forte",
+  "Pus ou sangue saindo do ouvido por vários dias",
+  "A criança tem dificuldade para respirar ou não acorda: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Vai precisar tirar o tubinho?",
+   "a": "Normalmente ele cai sozinho. Se não cair, o médico decide o que fazer."
+  },
+  {
+   "q": "Pode tomar banho e nadar?",
+   "a": "Depende da orientação do médico. Muitas vezes recomendam proteger o ouvido da água."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a colocação do tubo no ouvido. Comida e bebida, só até o horário da clínica."
+  }
+ ]
+}

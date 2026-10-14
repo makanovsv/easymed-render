@@ -1,0 +1,67 @@
+{
+ "title": "Terapia con ultrasonido",
+ "also": [
+  "ultrasonido terapéutico",
+  "fonoforesis",
+  "terapia de ultrasonido",
+  "ultrasonido de fisioterapia"
+ ],
+ "what": "El especialista pasa por la piel un cabezal que manda ultrasonido a los tejidos profundos. A veces junto con un gel con medicamento.",
+ "why": "En dolores de articulaciones, ligamentos y músculos, después de lesiones o en cicatrices, si te lo indica el médico.",
+ "duration": "el procedimiento suele durar de 5 a 15 minutos; el programa, normalmente unas 10 sesiones",
+ "tell_doctor": [
+  "Si tienes marcapasos o placas de metal en esa zona",
+  "Si estás embarazada",
+  "Si tienes fiebre",
+  "Heridas o ronchas en la piel",
+  "Enfermedades oncológicas"
+ ],
+ "prepare": [
+  {
+   "title": "Piel",
+   "text": "Piel limpia, sin crema."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir la zona."
+  }
+ ],
+ "bring": [
+  "La indicación del médico",
+  "Toallitas, para quitarte el gel"
+ ],
+ "steps": [
+  "Te acuestas o te sientas cómodo",
+  "Ponen gel en la piel",
+  "El especialista pasa despacio el cabezal sobre la zona",
+  "A veces se hace dentro del agua, para dedos y pies",
+  "Al final limpian el gel"
+ ],
+ "feel": [
+  "Normalmente nada, solo el contacto del cabezal",
+  "A veces un poco de calor. Si se siente muy caliente o duele, dilo de inmediato"
+ ],
+ "after": [
+  "Puedes regresar de inmediato a tus actividades",
+  "Ve a tus sesiones según el calendario. Importa completar el programa"
+ ],
+ "red_flags": [
+  "Dolor o ardor en la zona que no se quita: díselo al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Es lo mismo que un ultrasonido de diagnóstico?",
+   "a": "No. En el estudio el ultrasonido sirve para ver; aquí sirve para tratar. Los aparatos y la potencia son distintos."
+  },
+  {
+   "q": "¿Se puede si tengo metal en el hueso?",
+   "a": "Normalmente en esa zona se limita. Díselo al médico y él decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Hoy es tu terapia con ultrasonido. La piel sin crema, y lleva la indicación del médico."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Consulta con el nutriólogo",
+ "also": [
+  "nutriólogo",
+  "nutricionista",
+  "consulta de nutrición",
+  "plan de alimentación"
+ ],
+ "what": "El nutriólogo revisa cómo comes y te ayuda a armar una alimentación adecuada para tu salud. Es una plática con cálculos, sin procedimientos.",
+ "why": "Si tienes sobrepeso o bajo peso, diabetes, enfermedades del estómago, los riñones o el corazón, en el embarazo, o si quieres comer mejor.",
+ "duration": "la primera consulta suele durar de 30 a 60 minutos; las siguientes son más cortas",
+ "tell_doctor": [
+  "Tus enfermedades y medicamentos",
+  "Alergias e intolerancias a alimentos",
+  "Cómo ha cambiado tu peso últimamente",
+  "Si hiciste dietas y qué resultado tuviste",
+  "Si estás embarazada o das pecho"
+ ],
+ "prepare": [
+  {
+   "title": "Diario",
+   "text": "De 3 a 7 días antes de la consulta, apunta todo lo que comes y bebes, y a qué hora."
+  },
+  {
+   "title": "Análisis",
+   "text": "Lleva tus análisis de sangre recientes, si tienes. Te pueden pedir nuevos."
+  },
+  {
+   "title": "Meta",
+   "text": "Piensa qué quieres: bajar de peso, sentirte mejor, o comer bien con una enfermedad."
+  }
+ ],
+ "bring": [
+  "Tu diario de comidas",
+  "Los resultados de tus análisis",
+  "La lista de tus medicamentos",
+  "Una identificación"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tu salud, tus horarios y tus hábitos",
+  "Mide tu estatura, tu peso y a veces tu cintura",
+  "A veces mide la composición de tu cuerpo con una báscula especial",
+  "Revisa tu diario de comidas",
+  "Juntos arman un plan: qué cambiar, poco a poco",
+  "Te dan la fecha de la siguiente consulta"
+ ],
+ "feel": [
+  "Es una plática normal, nada molesto",
+  "Los consejos normalmente son graduales, sin prohibiciones bruscas"
+ ],
+ "after": [
+  "Cambia tu alimentación poco a poco, como acordaron",
+  "Sigue con el diario, si te lo pidió el médico",
+  "En la siguiente consulta se ajusta el plan"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Cuál es la diferencia entre nutriólogo y nutricionista?",
+   "a": "En muchos países son nombres de la misma profesión. Lo importante es que tenga formación en salud y pueda trabajar con tus enfermedades."
+  },
+  {
+   "q": "¿Me van a dar un menú ya hecho?",
+   "a": "Muchas veces te dan un menú de ejemplo o reglas. Funciona mejor cuando la alimentación se adapta a tus costumbres."
+  },
+  {
+   "q": "¿Tengo que ir en ayunas?",
+   "a": "No. Si te piden análisis en ayunas, te lo dirán aparte."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta con el nutriólogo. Lleva tu diario de comidas y tus análisis."
+  }
+ ]
+}

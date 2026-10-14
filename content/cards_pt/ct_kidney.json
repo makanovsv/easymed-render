@@ -1,0 +1,72 @@
+{
+ "title": "Tomografia dos rins (pedras)",
+ "also": [
+  "tomografia para pedra nos rins",
+  "TC de rins",
+  "urotomografia",
+  "tomografia de baixa dose dos rins"
+ ],
+ "what": "São imagens rápidas em camadas dos rins e das vias urinárias. Até pedras bem pequenas aparecem.",
+ "why": "Com cólica renal, sangue na urina, suspeita de pedras ou para controle depois do tratamento das pedras.",
+ "duration": "na sala, normalmente de 5 a 10 minutos. O laudo sai no mesmo dia. Com cólica, sai rápido",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se for com contraste: se tem alergia a iodo ou contraste, doença nos rins e diabetes",
+  "Se já encontraram pedras antes"
+ ],
+ "prepare": [
+  {
+   "title": "Sem contraste",
+   "text": "Normalmente não precisa de preparo. Às vezes pedem para chegar com a bexiga cheia. Confirme com a clínica."
+  },
+  {
+   "title": "Com contraste",
+   "text": "Normalmente sem comer de 3 a 4 horas. Água pode. Muitas vezes precisa de exame de creatinina."
+  },
+  {
+   "title": "Roupa",
+   "text": "Sem metal na barriga e na lombar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ultrassons e tomografias anteriores dos rins",
+  "Exame de creatinina, se pediram"
+ ],
+ "steps": [
+  "Você se deita na mesa, e o técnico ajuda a ficar confortável",
+  "A mesa entra num anel largo do aparelho",
+  "É preciso ficar parado e, às vezes, segurar a respiração quando pedirem",
+  "Se for com contraste, aplicam na veia e fazem imagens com pausas"
+ ],
+ "feel": [
+  "Não dói. O aparelho faz um barulho baixo",
+  "O anel é largo, quase não dá sensação de aperto",
+  "Com contraste: calor pelo corpo e sensação de que fez xixi na roupa. É normal e passa rápido"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "Beba água, se o médico não limitou",
+  "Com o laudo, volte ao urologista"
+ ],
+ "red_flags": [
+  "Dor forte de lado que não passa, febre acima de 38 graus, calafrios ou vômito: ligue para a emergência",
+  "Depois do contraste, coceira, manchas na pele, inchaço no rosto ou dificuldade para respirar: avise na hora a equipe ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que fazer tomografia para pedras, e não ultrassom?",
+   "a": "A tomografia vê quase todas as pedras, até as pequenas, e mostra o tamanho exato. O ultrassom é feito primeiro, e a tomografia, para ter precisão."
+  },
+  {
+   "q": "É muita radiação?",
+   "a": "Para pedras, muitas vezes se usa dose reduzida. O médico pede a tomografia quando o benefício é maior que o risco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Daqui a pouco é a tomografia dos rins. Se for com contraste, fique de 3 a 4 horas sem comer. Água pode."
+  }
+ ]
+}

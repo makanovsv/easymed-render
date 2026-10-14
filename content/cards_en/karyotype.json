@@ -1,0 +1,68 @@
+{
+ "title": "Karyotype",
+ "also": [
+  "karyotype test",
+  "chromosome analysis",
+  "karyotyping",
+  "chromosome blood test"
+ ],
+ "what": "This is a blood test from a vein. The lab counts and looks at your chromosomes, which carry your genetic information.",
+ "why": "For infertility, repeated miscarriages, before IVF, or if a child may have a genetic condition.",
+ "duration": "the blood draw takes 3 to 5 minutes; results usually come in 2 to 4 weeks",
+ "tell_doctor": [
+  "If you are ill or have a fever now",
+  "If you take antibiotics or hormones",
+  "If you had blood transfusions",
+  "If genetic conditions run in your family"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "It is best to test when you are well. If you were recently ill, ask your doctor when to come."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no need to fast, but avoid fatty food before the test. Check with the lab."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "Past genetic test results, if you have them"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow, and the skin is wiped",
+  "Blood is drawn into a special tube",
+  "The needle comes out, and a cotton pad is pressed on"
+ ],
+ "feel": [
+  "A quick prick, like a pinch"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Results usually come in 2 to 4 weeks, because the cells need to be grown",
+  "It is best to discuss the result with a geneticist"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why does the test take so long?",
+   "a": "Blood cells are grown for several days. Then their chromosomes are studied under a microscope."
+  },
+  {
+   "q": "If my karyotype is normal, does that mean no genetic problems?",
+   "a": "Not always. A karyotype shows large changes. Smaller ones are found with other tests, if needed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Karyotype test tomorrow. If you are ill now, call the clinic."
+  }
+ ]
+}

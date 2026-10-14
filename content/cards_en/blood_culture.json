@@ -1,0 +1,70 @@
+{
+ "title": "Blood culture",
+ "also": [
+  "blood culture",
+  "blood culture test",
+  "bacteria in blood test",
+  "sepsis test"
+ ],
+ "what": "Blood is taken from a vein into special bottles. The lab watches whether germs grow in it.",
+ "why": "For a high fever and a possible infection in the blood. It is usually done in hospital.",
+ "duration": "the draw takes 5 to 10 minutes; a first answer usually comes in 1 to 3 days, the final one in up to 5 to 7 days",
+ "tell_doctor": [
+  "If you already started antibiotics",
+  "If you are allergic to antiseptic or iodine",
+  "If you already have an IV line in a vein"
+ ],
+ "prepare": [
+  {
+   "title": "Antibiotics",
+   "text": "It is best to take the sample before the first antibiotic dose. But treatment is not delayed. The doctor decides."
+  },
+  {
+   "title": "Food",
+   "text": "No special prep."
+  },
+  {
+   "title": "Timing",
+   "text": "Blood is often taken at the peak of a fever or during chills."
+  }
+ ],
+ "bring": [
+  "Your referral, if done as an outpatient",
+  "Your ID"
+ ],
+ "steps": [
+  "The skin on your arm is cleaned with antiseptic for a long time and very carefully",
+  "A band is tightened above your elbow",
+  "Blood is drawn into 2 bottles, sometimes from both arms",
+  "The needle comes out, and a cotton pad is pressed on",
+  "The bottles go to the lab right away"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "From both arms means two pricks"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "A first answer usually comes in 1 to 3 days, the full one in up to a week",
+  "If a germ grows, the lab checks which antibiotics work on it"
+ ],
+ "red_flags": [
+  "Chills, a fever over 39°C (102°F), confusion, or strong weakness: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why take blood from both arms?",
+   "a": "It makes it easier to tell a real infection from a stray germ from the skin."
+  },
+  {
+   "q": "Why wait a week?",
+   "a": "Some germs grow slowly. While waiting, treatment has usually already started."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Blood culture soon. If you started antibiotics, be sure to tell the nurse."
+  }
+ ]
+}

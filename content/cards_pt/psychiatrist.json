@@ -1,0 +1,67 @@
+{
+ "title": "Consulta com psiquiatra",
+ "also": [
+  "psiquiatra",
+  "médico psiquiatra",
+  "consulta psiquiátrica"
+ ],
+ "what": "É o médico que ajuda nas alterações de humor, ansiedade, sono, pensamento e comportamento. Pode indicar tratamento e remédios.",
+ "why": "Com tristeza que não passa, ansiedade forte, crises de pânico, insônia, pensamentos obsessivos, mudanças bruscas de comportamento.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "O que incomoda e há quanto tempo",
+  "Como você dorme e come",
+  "Quais remédios e substâncias você usa, inclusive álcool",
+  "Se já procurou psiquiatra ou psicólogo antes",
+  "Se já teve pensamentos de se machucar"
+ ],
+ "prepare": [
+  {
+   "title": "Anote",
+   "text": "O que incomoda, como isso afeta sua vida, quais perguntas quer fazer."
+  },
+  {
+   "title": "Sigilo",
+   "text": "O que é dito na consulta é protegido pelo sigilo médico. Pergunte na clínica como a consulta é registrada."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta com calma sobre as queixas e sua vida",
+  "Faz perguntas sobre humor, sono, pensamentos",
+  "Às vezes pede para preencher um questionário",
+  "Explica o que está acontecendo e quais são as opções de ajuda",
+  "Se preciso, indica tratamento e marca o retorno"
+ ],
+ "feel": [
+  "É uma conversa, sem procedimentos",
+  "Falar de coisas pessoais pode ser difícil. Você pode fazer pausas"
+ ],
+ "after": [
+  "Tome os remédios conforme o esquema e não suspenda por conta própria. Tire as dúvidas com o médico",
+  "O efeito do tratamento normalmente não é imediato"
+ ],
+ "red_flags": [
+  "Pensamentos de machucar a si mesmo ou a outra pessoa: não espere a consulta, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Alguém vai ficar sabendo da consulta?",
+   "a": "A consulta é protegida pelo sigilo médico. Como funcionam os registros, pergunte diretamente na clínica."
+  },
+  {
+   "q": "Qual a diferença entre psiquiatra e psicólogo?",
+   "a": "O psiquiatra é médico, pode fazer diagnóstico e receitar remédios. O psicólogo ajuda pela conversa e não trata com remédios."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o psiquiatra. Anote o que incomoda e leve a lista de remédios."
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "title": "Cirugía de estrabismo",
+ "also": [
+  "cirugía de los músculos del ojo",
+  "corrección de estrabismo",
+  "operación de ojo desviado"
+ ],
+ "what": "El cirujano afloja o refuerza los músculos que mueven el ojo para que los ojos miren derecho. No se corta el globo del ojo.",
+ "why": "Cuando el estrabismo no se corrige con lentes ni ejercicios, o para que los dos ojos vuelvan a trabajar juntos.",
+ "duration": "la cirugía suele durar de 30 a 90 minutos; muchas veces te vas a casa ese mismo día o al siguiente",
+ "tell_doctor": [
+  "Todos los medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá qué hacer",
+  "Las alergias",
+  "Enfermedades crónicas o del corazón",
+  "Si el paciente o algún familiar tuvo problemas con la anestesia",
+  "En un niño: si estuvo enfermo en las últimas 2 semanas"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis y revisión del pediatra o del médico general. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo o con tu hijo."
+  },
+  {
+   "title": "Comida y bebida",
+   "text": "Normalmente no se come ni se bebe unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Si es un niño",
+   "text": "Si operan a tu hijo, explícale con calma que va a dormir y que vas a estar a su lado."
+  }
+ ],
+ "bring": [
+  "La orden médica y los análisis",
+  "Los documentos",
+  "La lista de medicamentos",
+  "Ropa cómoda y, para un niño, un juguete"
+ ],
+ "steps": [
+  "Te cambian de ropa a ti o a tu hijo y ponen un catéter en la vena",
+  "En el quirófano ponen la anestesia y el paciente se duerme",
+  "Por un corte pequeño en lo blanco del ojo, el cirujano cambia la posición del músculo",
+  "Pone puntos delgados que se absorben solos",
+  "El paciente despierta en la sala de recuperación",
+  "El médico revisa el ojo y da las indicaciones"
+ ],
+ "feel": [
+  "Después de la anestesia hay sueño y a veces náuseas",
+  "El ojo está rojo, llora y se siente arenilla",
+  "Los primeros días duele mover el ojo. Te dan analgésicos"
+ ],
+ "after": [
+  "Las gotas, exactamente como las indicó el médico",
+  "No te talles el ojo, y no dejes que el niño se lo talle",
+  "No nades en albercas, ríos ni lagos el tiempo que diga el médico",
+  "El enrojecimiento suele quitarse en unas semanas",
+  "A veces se siguen necesitando lentes o ejercicios después de la cirugía"
+ ],
+ "red_flags": [
+  "Dolor fuerte que aumenta, inflamación o pus en el ojo",
+  "La vista empeora de golpe",
+  "Fiebre de más de 38",
+  "Cuesta respirar o la persona no despierta: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Los ojos quedan derechos de inmediato?",
+   "a": "Muchas veces sí, pero el resultado final se evalúa después de unas semanas."
+  },
+  {
+   "q": "¿Se necesita otra cirugía?",
+   "a": "A veces sí. El médico te dirá según el resultado."
+  },
+  {
+   "q": "¿Hay que quitar los puntos?",
+   "a": "Normalmente los puntos se absorben solos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la cirugía de los ojos. Junta los documentos y las cosas. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

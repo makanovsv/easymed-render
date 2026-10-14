@@ -1,0 +1,76 @@
+{
+ "title": "Exame de vista infantil",
+ "also": [
+  "oftalmologista infantil",
+  "exame de vista da criança",
+  "consulta de olhos para criança"
+ ],
+ "what": "O médico verifica se seu filho enxerga bem e examina os olhos. Para os pequenos, usam figuras e brinquedos.",
+ "why": "Nas consultas de rotina, ou se a criança aperta os olhos, olha muito de perto, entorta um olho ou reclama dos olhos.",
+ "duration": "normalmente de 15 a 30 minutos; com colírio para dilatar a pupila, até 1 hora a 1 hora e meia",
+ "tell_doctor": [
+  "O que você percebe: aperta os olhos, coça, inclina a cabeça, entorta o olho",
+  "Se a criança usa óculos",
+  "Se na família há miopia, estrabismo ou outras doenças dos olhos",
+  "Alergias da criança"
+ ],
+ "prepare": [
+  {
+   "title": "Horário",
+   "text": "Escolha um horário em que a criança não esteja com fome nem com sono."
+  },
+  {
+   "title": "Clima",
+   "text": "Diga à criança que vai ter uma brincadeira com figuras e uma lanterninha."
+  },
+  {
+   "title": "Colírio",
+   "text": "Se pingarem colírio para dilatar a pupila, a visão fica embaçada por algumas horas. Planeje o dia."
+  }
+ ],
+ "bring": [
+  "Documentos da criança",
+  "Os óculos da criança, se tiver",
+  "Um brinquedo ou um lanche"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Pedem para a criança dizer as figuras ou letras da tabela",
+  "Cada olho é testado por vez, com o outro tapado",
+  "Um aparelho, sem encostar, mede como o olho foca",
+  "Às vezes pingam colírio e esperam de 20 a 40 minutos",
+  "O médico examina os olhos com uma luz e uma lente"
+ ],
+ "feel": [
+  "O exame não dói",
+  "O colírio pode arder um pouco",
+  "Depois do colírio, a luz parece forte e de perto se enxerga pior. Isso passa em algumas horas"
+ ],
+ "after": [
+  "Se pingaram colírio, boné ou óculos escuros ajudam na rua",
+  "O médico diz se precisa de óculos e quando voltar"
+ ],
+ "red_flags": [
+  "O olho ficou vermelho e dolorido depois do colírio, ou a criança não consegue abrir o olho: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Com que idade se examina a vista?",
+   "a": "O primeiro exame costuma ser nos primeiros meses de vida, e depois nas consultas de rotina."
+  },
+  {
+   "q": "Para que pingar colírio?",
+   "a": "O colírio relaxa os músculos do olho, e o médico vê com mais precisão se precisa de óculos."
+  },
+  {
+   "q": "A criança não sabe as letras. Como examinam?",
+   "a": "Para os pequenos há tabelas com figuras e aparelhos em que não é preciso responder."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a 2 horas é o exame de vista da criança. Leve os óculos dela, se tiver."
+  }
+ ]
+}

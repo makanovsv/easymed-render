@@ -1,0 +1,74 @@
+{
+ "title": "Fototerapia da pele",
+ "also": [
+  "fototerapia",
+  "fototerapia UVB",
+  "luz ultravioleta para a pele",
+  "tratamento com luz"
+ ],
+ "what": "A pele recebe luz ultravioleta numa cabine especial ou com uma lâmpada. Esse tratamento é indicado pelo dermatologista, em série de sessões.",
+ "why": "Com psoríase, vitiligo, alguns tipos de eczema e outras doenças de pele.",
+ "duration": "cada sessão leva normalmente de alguns segundos a alguns minutos. A série é normalmente de 2 a 3 vezes por semana, por algumas semanas",
+ "tell_doctor": [
+  "Todos os remédios. Alguns aumentam a sensibilidade à luz",
+  "Se já teve câncer de pele ou tem muitas pintas",
+  "Gravidez",
+  "Doenças dos olhos",
+  "Como você costuma se bronzear e se queimar"
+ ],
+ "prepare": [
+  {
+   "title": "Pele",
+   "text": "Não passe cremes nem perfume na pele antes da sessão, se o médico não disser diferente."
+  },
+  {
+   "title": "Sol",
+   "text": "Nos dias de tratamento, não tome sol a mais e não faça bronzeamento artificial."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, fácil de tirar."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Encaminhamento do dermatologista"
+ ],
+ "steps": [
+  "A enfermeira confirma a dose do dia",
+  "Você coloca óculos de proteção",
+  "As áreas que não são tratadas são cobertas",
+  "Você fica na cabine ou sob a lâmpada pelo tempo indicado",
+  "A dose aumenta aos poucos de uma sessão para outra"
+ ],
+ "feel": [
+  "Durante a sessão, um leve calor",
+  "Depois, às vezes a pele fica um pouco rosada",
+  "A pele pode ressecar. Ajuda um creme hidratante"
+ ],
+ "after": [
+  "Use creme hidratante, se o médico liberar",
+  "Não falte às sessões. A regularidade é importante",
+  "Proteja a pele do sol nos dias de tratamento"
+ ],
+ "red_flags": [
+  "Vermelhidão forte, ardência ou bolhas, como de queimadura",
+  "Apareceram manchas ou pintas novas que estão mudando"
+ ],
+ "faq": [
+  {
+   "q": "É a mesma coisa que bronzeamento artificial?",
+   "a": "Não. Aqui é uma dose exata de um tipo de luz, com controle médico. O bronzeamento artificial não substitui a fototerapia."
+  },
+  {
+   "q": "Quando vou ver o resultado?",
+   "a": "Normalmente a melhora aparece em algumas semanas. No vitiligo, demora mais, às vezes meses."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a fototerapia. Não passe cremes e não tome sol a mais."
+  }
+ ]
+}

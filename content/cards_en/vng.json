@@ -1,0 +1,78 @@
+{
+ "title": "Videonystagmography (VNG)",
+ "also": [
+  "videonystagmography",
+  "VNG test",
+  "balance test",
+  "dizziness test",
+  "vestibular testing"
+ ],
+ "what": "The doctor records your eye movements with special goggles that have cameras. Your eyes show how the balance organ in your inner ear works.",
+ "why": "For dizziness, unsteady walking, ringing in the ears, or after a head injury, to find the cause.",
+ "duration": "usually 30 to 60 minutes; the report is often ready the same day",
+ "tell_doctor": [
+  "What medicines you take, especially for dizziness, sedatives, and sleeping pills",
+  "If your neck or back hurts. Some head turns can be replaced",
+  "If you have eye problems or see poorly without glasses",
+  "If you have a hole in your eardrum or recent ear surgery"
+ ],
+ "prepare": [
+  {
+   "title": "Medicines",
+   "text": "Some medicines interfere with the test. Do not stop them on your own. Tell your doctor. They will decide what can be skipped and for how many days."
+  },
+  {
+   "title": "Food and alcohol",
+   "text": "No alcohol for 1 to 2 days before. You are usually asked not to eat a big meal for 2 to 3 hours before, because you may feel sick."
+  },
+  {
+   "title": "Face",
+   "text": "Come without eye makeup. Mascara gets in the way of the camera."
+  },
+  {
+   "title": "Getting home",
+   "text": "You may feel a little dizzy after the test. Better not to drive right away. Bring someone with you."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past ENT and neurologist reports",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You sit in a chair, and goggles with cameras are put on",
+  "First, you follow a dot on a screen with your eyes",
+  "Then your head and body positions are changed: lying down, on your side, with turns",
+  "Sometimes warm and cool air or water is put in each ear. This tests each ear separately",
+  "The doctor watches your eye movements on a monitor"
+ ],
+ "feel": [
+  "It does not hurt",
+  "During some tests you feel dizzy and may feel sick. This is expected and passes quickly",
+  "Tell the doctor if you feel very unwell. They will take a break"
+ ],
+ "after": [
+  "Sit for 10 to 15 minutes until the dizziness passes",
+  "You can go on with your normal day",
+  "The report is often ready right away, sometimes in 1 to 2 days"
+ ],
+ "red_flags": [
+  "A severe headache, double vision, weakness in an arm or leg, or trouble speaking: call emergency services right away"
+ ],
+ "faq": [
+  {
+   "q": "Why do I get dizzy during the test?",
+   "a": "Some tests cause brief dizziness on purpose. This shows the doctor how the balance organ responds."
+  },
+  {
+   "q": "Can I take dizziness pills before the VNG?",
+   "a": "They can change the result. Tell your doctor in advance. They will decide if you need a break."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "VNG tomorrow. No eye makeup, no big meal for 2 to 3 hours before, and bring someone with you."
+  }
+ ]
+}

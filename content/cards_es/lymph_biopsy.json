@@ -1,0 +1,77 @@
+{
+ "title": "Biopsia de ganglio",
+ "also": [
+  "biopsia de ganglio linfático",
+  "biopsia por aspiración con aguja fina",
+  "BAAF de ganglio",
+  "extirpación de ganglio"
+ ],
+ "what": "El médico toma un pedacito de un ganglio inflamado o lo quita completo para estudiarlo con microscopio. Se hace con aguja guiada por ultrasonido o por una pequeña herida.",
+ "why": "Cuando un ganglio está grande por mucho tiempo sin causa clara, si se sospecha una enfermedad de la sangre o un tumor, o para precisar el diagnóstico.",
+ "duration": "la biopsia con aguja suele durar de 15 a 30 minutos y quitar el ganglio de 30 a 60 minutos; el resultado suele estar en 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico decidirá si hay que cambiar algo",
+  "Alergias, también a anestésicos",
+  "Diabetes",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Tipo de biopsia",
+   "text": "El médico te dirá si será con aguja o con herida, y qué anestesia: local o general."
+  },
+  {
+   "title": "Comida",
+   "text": "Con anestesia local normalmente puedes comer. Si es con anestesia general, no comas ni bebas según las reglas de la clínica."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Si habrá anestesia general o sedación, necesitas a alguien que pase por ti."
+  }
+ ],
+ "bring": [
+  "La orden médica, tus análisis y el ultrasonido del ganglio",
+  "La lista de tus medicamentos",
+  "Un acompañante, si habrá anestesia general"
+ ],
+ "steps": [
+  "Te acuestas de forma que el ganglio quede fácil de alcanzar",
+  "Limpian la piel y la adormecen",
+  "En la biopsia con aguja, meten la aguja al ganglio guiándose con ultrasonido",
+  "En la biopsia abierta, hacen una herida pequeña y quitan el ganglio",
+  "El lugar se cose o se cierra con cinta",
+  "Ponen un vendaje"
+ ],
+ "feel": [
+  "Piquete y ardor con la anestesia",
+  "Presión durante el procedimiento",
+  "Después, un poco de dolor e hinchazón en el lugar"
+ ],
+ "after": [
+  "Normalmente te vas a casa el mismo día",
+  "Mantén el vendaje seco el tiempo que te diga el médico",
+  "Los puntos se quitan en 7 a 10 días o se absorben solos",
+  "Normalmente el médico te explica el resultado en consulta"
+ ],
+ "red_flags": [
+  "Mucha hinchazón o sangre que empapa el vendaje",
+  "Fiebre de más de 38, enrojecimiento o pus en la herida",
+  "Si la biopsia fue en el cuello y te cuesta respirar o tragar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligroso tener un ganglio grande?",
+   "a": "Casi siempre los ganglios crecen por una infección. La biopsia sirve para saber la causa con seguridad."
+  },
+  {
+   "q": "¿Para qué quitar el ganglio completo?",
+   "a": "A veces, para un diagnóstico exacto, se necesita todo el ganglio y no un pedacito. Sin un ganglio el cuerpo funciona normal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu biopsia de ganglio. Pregunta si puedes comer en la mañana. Lleva el ultrasonido y la lista de tus medicamentos."
+  }
+ ]
+}

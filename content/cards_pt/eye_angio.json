@@ -1,0 +1,78 @@
+{
+ "title": "Angiografia fluoresceínica",
+ "also": [
+  "angiofluoresceinografia",
+  "angiografia de retina",
+  "angiografia fluoresceínica",
+  "exame dos vasos da retina"
+ ],
+ "what": "Um corante é aplicado na veia do braço e, em segundos, chega aos vasos do olho. O aparelho tira uma série de fotos da retina.",
+ "why": "No diabetes, em doenças da retina e dos vasos do olho, antes de laser ou de injeções no olho.",
+ "duration": "normalmente de 20 a 40 minutos com o preparo; o médico explica o resultado depois",
+ "tell_doctor": [
+  "Alergia a corantes, iodo ou qualquer remédio",
+  "Se você está grávida ou amamentando",
+  "Doenças dos rins",
+  "Doenças do coração, asma",
+  "Se já teve reação a corante antes"
+ ],
+ "prepare": [
+  {
+   "title": "Transporte",
+   "text": "As pupilas são dilatadas, e depois do exame você não pode dirigir."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda remédios de uso contínuo por conta própria."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode fazer uma refeição leve, se a clínica não disser outra coisa."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios",
+  "Óculos escuros",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "As pupilas são dilatadas com colírio",
+  "Uma agulha fina ou um acesso é colocado na veia do braço",
+  "Você senta na frente da câmera, com o queixo no suporte",
+  "Aplicam o corante",
+  "A câmera tira muitas fotos com flashes fortes",
+  "Retiram a agulha, e você fica um pouco em observação"
+ ],
+ "feel": [
+  "Uma picada rápida no braço",
+  "Flashes fortes",
+  "Às vezes enjoo por alguns segundos depois do corante",
+  "A pele pode ficar um pouco amarelada por algumas horas"
+ ],
+ "after": [
+  "A urina fica amarelo forte por até 1 a 2 dias. É o corante saindo",
+  "Beba água como de costume",
+  "Não dirija até passar o efeito do colírio"
+ ],
+ "red_flags": [
+  "Manchas na pele, coceira, inchaço no rosto, dificuldade para respirar: ligue para a emergência",
+  "Dor forte ou inchaço no local da picada"
+ ],
+ "faq": [
+  {
+   "q": "É perigoso?",
+   "a": "Normalmente o corante é bem tolerado. Reações graves são raras, e há tudo à mão para ajudar."
+  },
+  {
+   "q": "Por que a urina fica amarela?",
+   "a": "É o corante saindo do corpo. Normalmente passa em 1 a 2 dias."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a angiografia do olho. Leve óculos escuros e combine com seu acompanhante."
+  }
+ ]
+}

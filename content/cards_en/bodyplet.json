@@ -1,0 +1,76 @@
+{
+ "title": "Body plethysmography",
+ "also": [
+  "body plethysmography",
+  "body box test",
+  "lung volume test",
+  "plethysmograph"
+ ],
+ "what": "You sit in a clear booth and breathe into a tube. The device precisely measures your lung volume and how air moves through your airways.",
+ "why": "When regular spirometry is not enough: to clarify lung disease, before lung surgery, or to track treatment.",
+ "duration": "usually 20 to 40 minutes; the report is usually ready the same day",
+ "tell_doctor": [
+  "What inhalers and breathing medicines you use",
+  "If you recently had eye, chest, or belly surgery",
+  "If you recently had a heart attack or have heart disease",
+  "If you have a cold or a flare-up right now",
+  "If you are afraid of closed spaces. The booth is clear, and the door opens right away"
+ ],
+ "prepare": [
+  {
+   "title": "Smoking and coffee",
+   "text": "Do not smoke for at least a few hours. No coffee or strong tea in the morning."
+  },
+  {
+   "title": "Inhalers",
+   "text": "Ask your doctor whether to use your inhalers before the test. Do not stop them on your own."
+  },
+  {
+   "title": "Food",
+   "text": "A light breakfast 2 hours before. Do not eat a big meal."
+  },
+  {
+   "title": "Clothing",
+   "text": "Loose clothes, with no tight belt."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your own inhalers",
+  "Past spirometry results",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You sit in a clear booth, and the door is closed",
+  "A clip goes on your nose, and you hold the tube with your lips",
+  "First you breathe calmly",
+  "The tube is closed for a second. Keep breathing gently",
+  "Sometimes you are asked to take a deep breath in and breathe out hard",
+  "After a few minutes, the door is opened"
+ ],
+ "feel": [
+  "The booth is closed but clear, and staff talk to you",
+  "When the tube is closed, breathing feels hard. It lasts 1 to 2 seconds"
+ ],
+ "after": [
+  "You can go back to your usual day right away",
+  "The report is usually ready the same day"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What if I feel scared in the booth?",
+   "a": "Say so or wave your hand. The door will be opened right away."
+  },
+  {
+   "q": "How is it different from spirometry?",
+   "a": "Spirometry measures your breath out. Body plethysmography shows the full lung volume, including what is left after breathing out."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Body plethysmography tomorrow. No smoking or coffee in the morning. Ask your doctor about your inhalers."
+  }
+ ]
+}

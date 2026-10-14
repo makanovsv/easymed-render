@@ -1,0 +1,69 @@
+{
+ "title": "Como usar a bombinha",
+ "also": [
+  "bombinha",
+  "inalador dosimetrado",
+  "inalador de pó",
+  "como usar inalador"
+ ],
+ "what": "A bombinha leva o remédio direto para os pulmões. O principal é a técnica certa. Se não, o remédio fica na boca.",
+ "why": "Com asma, DPOC e outras doenças dos brônquios, conforme a receita médica.",
+ "duration": "cerca de 1 a 2 minutos",
+ "tell_doctor": [
+  "Quais bombinhas você tem e com que frequência usa",
+  "Se está precisando da bombinha de crise mais do que o normal",
+  "Peça para o médico conferir a sua técnica na consulta"
+ ],
+ "prepare": [
+  {
+   "title": "Tipo",
+   "text": "Há bombinhas de spray e de pó, e a técnica é diferente. Leia a bula da sua."
+  },
+  {
+   "title": "Remédio",
+   "text": "Qual bombinha é para todo dia e qual é para crise, quem diz é o médico. Não pare por conta própria."
+  }
+ ],
+ "bring": [
+  "Suas bombinhas, para a consulta",
+  "O espaçador, se tiver"
+ ],
+ "steps": [
+  "Tire a tampa. Se for spray, agite bem",
+  "Sente ou fique em pé reto e solte o ar com calma, fora da bombinha",
+  "Feche bem os lábios em volta do bocal",
+  "Com spray: aperte e, ao mesmo tempo, comece a puxar o ar devagar e fundo",
+  "Com pó: puxe o ar rápido e com força",
+  "Segure a respiração de 5 a 10 segundos e solte com calma",
+  "Se precisar de mais um jato, espere cerca de um minuto",
+  "Depois da bombinha com corticoide, enxágue a boca e cuspa"
+ ],
+ "feel": [
+  "Friozinho ou um gosto na boca",
+  "Às vezes, garganta arranhando ou tosse"
+ ],
+ "after": [
+  "Fique de olho no contador de doses ou na validade",
+  "Mantenha o bocal limpo e seco",
+  "Ande sempre com a bombinha de crise"
+ ],
+ "red_flags": [
+  "A bombinha de crise não ajuda, é difícil falar, os lábios ficam roxos: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que preciso enxaguar a boca?",
+   "a": "Depois das bombinhas com corticoide, o resto do remédio na boca pode causar sapinho e rouquidão."
+  },
+  {
+   "q": "Como saber se a bombinha acabou?",
+   "a": "Olhe o contador de doses. Se não tiver, conte os jatos. Agitar o spray nem sempre mostra."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 0,
+   "text": "Hora da bombinha. Solte o ar, puxe devagar, segure a respiração. Depois da bombinha com corticoide, enxágue a boca."
+  }
+ ]
+}

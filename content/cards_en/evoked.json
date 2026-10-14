@@ -1,0 +1,73 @@
+{
+ "title": "Evoked potentials",
+ "also": [
+  "evoked potentials",
+  "visual evoked potentials",
+  "VEP",
+  "SSEP",
+  "brainstem auditory evoked response"
+ ],
+ "what": "The doctor shows you pictures, plays sounds, or gives weak pulses to your arm or leg. Electrodes on your head record how fast the signal reaches the brain.",
+ "why": "For problems with vision, hearing, or feeling, for a possible nervous system disease, or to check the nerves.",
+ "duration": "usually 30 to 90 minutes; the report is usually ready in 1 to 3 days",
+ "tell_doctor": [
+  "If you wear glasses or contact lenses",
+  "If you have hearing problems",
+  "What medicines you take",
+  "If you have a pacemaker"
+ ],
+ "prepare": [
+  {
+   "title": "Hair",
+   "text": "Wash your hair the day before, with no oil or hairspray."
+  },
+  {
+   "title": "Glasses",
+   "text": "Bring your glasses or contact lenses, if you wear them."
+  },
+  {
+   "title": "Wellbeing",
+   "text": "Get a good night's sleep. You can eat in the morning."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Glasses or contact lenses",
+  "A list of your medicines",
+  "Past neurologist reports"
+ ],
+ "steps": [
+  "Electrodes are put on your head, and sometimes on an arm or leg",
+  "For vision: you look at a screen with a checkerboard",
+  "For hearing: you wear headphones with clicking sounds",
+  "For feeling: weak pulses are given to an arm or leg",
+  "You need to sit still and pay attention",
+  "The electrodes are removed"
+ ],
+ "feel": [
+  "The pictures and sounds do not hurt",
+  "The pulses feel like light tingling or a finger twitching"
+ ],
+ "after": [
+  "You can go back to your usual day right away",
+  "Wash your hair at home",
+  "The report is usually ready in 1 to 3 days"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Do the pulses hurt?",
+   "a": "They are weak and feel like tingling. The strength is set so it is bearable."
+  },
+  {
+   "q": "Can I wear glasses during the test?",
+   "a": "Yes, and you should. Bring your own glasses or lenses."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Evoked potentials test tomorrow. Wash your hair with no oil or hairspray. Bring your glasses, if you wear them."
+  }
+ ]
+}

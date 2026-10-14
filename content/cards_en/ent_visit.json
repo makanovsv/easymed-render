@@ -1,0 +1,69 @@
+{
+ "title": "ENT doctor visit",
+ "also": [
+  "ENT doctor",
+  "ear nose and throat doctor",
+  "otolaryngologist",
+  "ENT specialist"
+ ],
+ "what": "An ENT doctor examines your ears, nose, and throat. Many problems can be seen right away and treated on the spot.",
+ "why": "For ear or throat pain, a blocked nose, a runny nose that lasts longer than usual, hearing loss, snoring, or nosebleeds.",
+ "duration": "usually 15 to 30 minutes",
+ "tell_doctor": [
+  "What bothers you and for how long",
+  "What medicines and drops you have tried",
+  "Allergies",
+  "Past ear, nose, or throat surgery"
+ ],
+ "prepare": [
+  {
+   "title": "Drops",
+   "text": "If you use nose or ear drops, tell your doctor. Do not stop treatment on your own."
+  },
+  {
+   "title": "Questions",
+   "text": "Write down your symptoms and questions beforehand."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past medical reports and scans",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "Your throat is checked with a tongue depressor",
+  "Your nose is checked with a small speculum or a thin camera",
+  "Your ears are checked with a funnel or microscope",
+  "Sometimes your hearing is tested",
+  "The doctor explains what was found and gives treatment"
+ ],
+ "feel": [
+  "The tongue depressor may make you gag",
+  "Nose and ear checks usually do not hurt"
+ ],
+ "after": [
+  "Follow your doctor's instructions",
+  "If tests or scans were ordered, have them done and come back"
+ ],
+ "red_flags": [
+  "Trouble breathing or swallowing, or drooling: call emergency services",
+  "Severe ear pain with swelling behind the ear and a fever: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Can I clean my ears myself?",
+   "a": "Do not push cotton swabs deep inside. If there is a wax plug, the doctor will remove it."
+  },
+  {
+   "q": "Do I need a referral to an ENT?",
+   "a": "It depends on the clinic and your insurance. Ask when booking."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "ENT visit in 2 hours. Bring past reports and your medicine list."
+  }
+ ]
+}

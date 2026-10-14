@@ -1,0 +1,79 @@
+{
+ "title": "Pruebas de alergia en la piel",
+ "also": [
+  "pruebas cutáneas de alergia",
+  "prick test",
+  "pruebas de alergia",
+  "prueba de punción cutánea"
+ ],
+ "what": "Ponen gotas con sustancias que causan alergia en la piel del antebrazo o la espalda y rascan un poquito la piel. A los 15 o 20 minutos ven dónde salió enrojecimiento y una roncha.",
+ "why": "Con rinitis alérgica, ronchas, asma, reacciones a alimentos o piquetes de insectos, para saber a qué exactamente tienes alergia.",
+ "duration": "normalmente de 30 a 60 minutos con la espera; el resultado es inmediato",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo antialérgicos, cortisona y pastillas para la presión",
+  "Si tuviste reacciones alérgicas fuertes o hinchazón",
+  "Si ahora tu alergia o tu asma están peor",
+  "Si estás embarazada",
+  "Enfermedades de la piel en los brazos o la espalda"
+ ],
+ "prepare": [
+  {
+   "title": "Antialérgicos",
+   "text": "Pueden ocultar el resultado. No los suspendas por tu cuenta. Díselo al médico. Él decidirá qué dejar y cuántos días antes."
+  },
+  {
+   "title": "Salud",
+   "text": "Normalmente las pruebas se hacen cuando la alergia está tranquila. Si ahora tienes mucha alergia o gripa, se cambia la fecha."
+  },
+  {
+   "title": "Piel",
+   "text": "El día de las pruebas no te pongas crema en los brazos ni en la espalda."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente, o ropa que deje la espalda libre."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de tus medicamentos",
+  "Notas de reacciones y análisis de alergia anteriores"
+ ],
+ "steps": [
+  "El médico confirma qué alergenos va a probar",
+  "Limpian la piel y marcan los lugares con pluma",
+  "En cada marca ponen una gota con un alergeno",
+  "A través de la gota rascan o pican un poquito la piel con una lanceta desechable",
+  "Esperas de 15 a 20 minutos sin tocar la piel",
+  "El médico mide las ronchas y anota el resultado"
+ ],
+ "feel": [
+  "Un ligero piquete al rascar",
+  "Donde hay reacción, comezón, enrojecimiento y una roncha, como de mosquito"
+ ],
+ "after": [
+  "La comezón y las ronchas normalmente se quitan en unas horas",
+  "No te rasques",
+  "El médico te explica el resultado en ese momento"
+ ],
+ "red_flags": [
+  "Hinchazón de la cara o los labios, dificultad para respirar o mucha debilidad después de las pruebas: llama a emergencias",
+  "Ronchas fuertes en todo el cuerpo: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Se pueden hacer las pruebas a niños?",
+   "a": "Sí, normalmente desde los pocos años de edad. La edad y el método los decide el alergólogo."
+  },
+  {
+   "q": "¿Por qué no debo tomar antialérgicos?",
+   "a": "Frenan la reacción de la piel, y las pruebas pueden salir como si no hubiera nada. El médico te dirá cuántos días antes dejarlos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "En 3 días son tus pruebas de alergia. Pregunta al médico si tienes que dejar antes los antialérgicos. No los dejes por tu cuenta."
+  }
+ ]
+}

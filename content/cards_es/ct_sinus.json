@@ -1,0 +1,62 @@
+{
+ "title": "Tomografía de senos paranasales",
+ "also": [
+  "tomografía de senos paranasales",
+  "TAC de senos paranasales",
+  "tomografía de nariz",
+  "tomografía de senos maxilares"
+ ],
+ "what": "Son imágenes por capas de la nariz y los senos paranasales. Se ve inflamación, líquido, pólipos y cómo está formada la nariz.",
+ "why": "Con sinusitis frecuentes o que duran mucho, antes de una cirugía de nariz, o si la radiografía no dio respuesta.",
+ "duration": "en el consultorio normalmente de 5 a 10 minutos; la toma dura unos segundos; el reporte, el mismo día o en 1 a 2 días",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si te operaron de la nariz",
+  "Si ya te hicieron radiografía o tomografía de senos. Llévalas"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Normalmente no hace falta. Para los senos casi nunca se usa medio de contraste. Puedes comer y beber."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate aretes, pasadores, lentes, dentadura removible y aparato para oír."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus estudios de senos anteriores"
+ ],
+ "steps": [
+  "Te acuestas en la mesa y el técnico te ayuda a acomodarte",
+  "La mesa entra en el anillo ancho del aparato",
+  "Pones la cabeza en un soporte; a veces te acuestas boca abajo",
+  "Tienes que estar quieto y sin tragar unos segundos"
+ ],
+ "feel": [
+  "No duele. El aparato hace un ruido suave",
+  "El anillo es ancho, casi no se siente encierro"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "Lleva el reporte y las imágenes al otorrino"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué es mejor la tomografía de senos que la radiografía?",
+   "a": "La tomografía muestra todos los senos y sus conductos con detalle. Es importante antes de una cirugía y en casos difíciles."
+  },
+  {
+   "q": "¿Me la puedo hacer con escurrimiento nasal?",
+   "a": "Sí. Pero si es programada, el médico puede pedir hacerla después de tratar el resfriado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu tomografía de senos paranasales. Quítate aretes y pasadores, y lleva tus estudios anteriores."
+  }
+ ]
+}

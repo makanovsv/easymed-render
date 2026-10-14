@@ -1,0 +1,79 @@
+{
+ "title": "Retirada de material de síntese",
+ "also": [
+  "retirada de placa",
+  "retirada de parafusos",
+  "retirada de material de síntese",
+  "retirada de haste"
+ ],
+ "what": "O cirurgião retira a placa, os parafusos ou os fios colocados na fratura. Normalmente pelo mesmo corte.",
+ "why": "Quando o osso já consolidou e o metal incomoda, dói ou precisa ser retirado conforme o plano.",
+ "duration": "a cirurgia leva normalmente de 30 a 90 minutos, e muitas vezes a alta é no mesmo dia ou no seguinte",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Quando e onde o metal foi colocado. O resumo de alta ajuda",
+  "Doenças do coração, dos pulmões, diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Radiografias",
+   "text": "Normalmente é preciso uma radiografia recente antes da cirurgia. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "O resumo de alta da cirurgia anterior",
+  "Radiografias recentes",
+  "Documentos",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "Aplicam anestesia geral ou local, conforme o tamanho da cirurgia",
+  "O cirurgião abre a cicatriz antiga",
+  "Os parafusos são desparafusados, e a placa ou a haste é retirada",
+  "O corte é suturado e enfaixado"
+ ],
+ "feel": [
+  "O local da cirurgia dói por alguns dias. Dão analgésico",
+  "Um pouco de inchaço é normal"
+ ],
+ "after": [
+  "Aumente o esforço aos poucos. O osso nos furos dos parafusos se fortalece em algumas semanas",
+  "Não molhe o curativo até liberarem",
+  "Os pontos são retirados normalmente em 10 a 14 dias"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, vermelhidão e pus na ferida",
+  "Dor forte ou deformidade depois de um esforço: procure o médico na hora",
+  "Falta de ar ou dor no peito de repente: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "É obrigatório tirar o metal?",
+   "a": "Não. Muitas vezes ele pode ficar. A decisão é tomada junto com o cirurgião."
+  },
+  {
+   "q": "Posso apoiar o membro logo?",
+   "a": "Normalmente sim, com cuidado, mas sem saltos e sem peso nas primeiras semanas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a retirada do metal. Leve o resumo de alta da cirurgia anterior e as radiografias."
+  }
+ ]
+}

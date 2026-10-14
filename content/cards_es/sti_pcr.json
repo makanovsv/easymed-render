@@ -1,0 +1,75 @@
+{
+ "title": "PCR para infecciones de transmisión sexual",
+ "also": [
+  "PCR para ITS",
+  "prueba de ITS",
+  "panel de infecciones de transmisión sexual",
+  "clamidia y micoplasma",
+  "exudado para PCR"
+ ],
+ "what": "El médico toma una muestra con hisopo o te pide la primera orina de la mañana. En el laboratorio buscan los microbios que causan infecciones de transmisión sexual.",
+ "why": "Con flujo, comezón, dolor al orinar, después de una relación sin protección, o al planear un embarazo.",
+ "duration": "la toma dura unos minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Qué molestias tienes y desde cuándo",
+  "Si tomaste antibióticos en el último mes",
+  "Si usaste óvulos o cremas vaginales",
+  "La fecha de tu última regla, si eres mujer"
+ ],
+ "prepare": [
+  {
+   "title": "Orina",
+   "text": "No orines de 2 a 3 horas antes de la muestra. Así hay más material."
+  },
+  {
+   "title": "1 a 2 días antes",
+   "text": "Sin relaciones sexuales. Mujeres: sin duchas vaginales, óvulos ni cremas. Hombres: sin antisépticos locales."
+  },
+  {
+   "title": "Regla",
+   "text": "Durante la regla normalmente no se toma la muestra."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Si tomas antibióticos, díselo al médico. Él decidirá cuándo es mejor hacer la prueba."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "Las mujeres se acuestan en la mesa ginecológica y el médico toma la muestra con el espejo vaginal",
+  "A los hombres normalmente les toman la muestra de la uretra con un hisopo delgado, o les piden el primer chorro de orina",
+  "La muestra va a un tubo con tu nombre",
+  "Te puedes vestir"
+ ],
+ "feel": [
+  "Una molestia o ardor breve",
+  "En hombres, ardor al orinar la primera vez después de la muestra. Se quita rápido"
+ ],
+ "after": [
+  "El resultado suele estar en 1 a 3 días. En el laboratorio te dirán cuándo",
+  "Si encuentran una infección, normalmente también se trata a la pareja. Lo decide el médico",
+  "Hasta tener el resultado, mejor sin relaciones sexuales o con condón"
+ ],
+ "red_flags": [
+  "Dolor en la parte baja del abdomen con fiebre: ve al médico el mismo día"
+ ],
+ "faq": [
+  {
+   "q": "¿Me hago la prueba aunque no tenga molestias?",
+   "a": "Muchas infecciones no dan síntomas. Si tuviste una relación sin protección o planeas un embarazo, mejor hazla."
+  },
+  {
+   "q": "¿La prueba es anónima?",
+   "a": "En muchas clínicas se puede hacer de forma anónima. Pregunta en tu clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu prueba PCR de infecciones. Hoy sin relaciones sexuales, óvulos ni duchas vaginales. De 2 a 3 horas antes de la muestra no orines."
+  }
+ ]
+}

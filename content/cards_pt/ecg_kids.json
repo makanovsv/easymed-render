@@ -1,0 +1,75 @@
+{
+ "title": "Eletrocardiograma em criança",
+ "also": [
+  "eletrocardiograma infantil",
+  "ECG em criança",
+  "eletro pediátrico",
+  "ECG para escola ou esporte"
+ ],
+ "what": "A enfermeira registra o funcionamento do coração da criança com adesivos, os eletrodos. É rápido, seguro e não dói.",
+ "why": "Em consultas de rotina, antes de esporte, creche ou escola, com sopro no coração, desmaios ou queixa de coração acelerado.",
+ "duration": "normalmente de 5 a 10 minutos, o laudo muitas vezes sai no mesmo dia",
+ "tell_doctor": [
+  "O que incomoda a criança, se houver queixas",
+  "Quais remédios ela toma",
+  "Se já desmaiou",
+  "Se há problemas de coração na família"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, fácil de liberar o peito, os braços abaixo do cotovelo e as pernas abaixo do joelho."
+  },
+  {
+   "title": "Pele",
+   "text": "No dia do exame, não passe creme no peito."
+  },
+  {
+   "title": "Conversa",
+   "text": "Diga para a criança: os adesivos são geladinhos, mas não dói."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Eletrocardiogramas anteriores, se tiver",
+  "Uma fralda de pano para o bebê",
+  "Um brinquedo para distrair"
+ ],
+ "steps": [
+  "A criança se deita na maca, com você ao lado",
+  "Colocam eletrodos de sucção ou adesivos nos braços, nas pernas e no peito",
+  "Pedem para ficar quietinha e sem falar",
+  "O registro leva de 1 a 2 minutos",
+  "Retiram os eletrodos"
+ ],
+ "feel": [
+  "Adesivos geladinhos, não dói",
+  "Bebês às vezes choram, e o registro é repetido quando se acalmam"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "O laudo do médico normalmente sai no mesmo dia",
+  "Converse sobre o resultado com o pediatra"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que o eletro da criança é diferente do adulto?",
+   "a": "A criança tem outro padrão normal: o pulso é mais rápido, e muita coisa que seria estranha no adulto é normal na criança."
+  },
+  {
+   "q": "Se a criança chorar, o exame estraga?",
+   "a": "Pode atrapalhar. Aí esperam ela se acalmar e registram de novo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã a criança faz eletrocardiograma. Não precisa de preparo. Vista roupa confortável e não passe creme no peito."
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Urodynamic testing",
+ "also": [
+  "urodynamics",
+  "urodynamic study",
+  "cystometry",
+  "bladder function test"
+ ],
+ "what": "A machine measures how your bladder fills and empties. For this, a thin catheter with a sensor is placed in the bladder.",
+ "why": "For urine leaks, frequent urges, a weak stream, and before bladder or prostate surgery.",
+ "duration": "usually 30 to 60 minutes; you usually get the findings the same day",
+ "tell_doctor": [
+  "What medicines you take, especially for the bladder. Your doctor will decide if you need a break",
+  "If you have pain or burning when peeing right now",
+  "Allergies, including to latex",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Diary",
+   "text": "You are often asked to record for 2 to 3 days when and how much you drink and pee. Check with the clinic."
+  },
+  {
+   "title": "Urine test",
+   "text": "A recent urine test is often needed to rule out infection."
+  },
+  {
+   "title": "Bladder",
+   "text": "Come with a full bladder. At the start, you will be asked to pee into a special device."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. If your doctor says to pause, they will tell you for how long."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your bladder diary",
+  "Urine test results",
+  "Spare underwear"
+ ],
+ "steps": [
+  "You pee into a special toilet that measures your stream",
+  "You lie down or sit in a chair",
+  "A thin catheter with a sensor goes into the bladder, and another into the rectum",
+  "The bladder is slowly filled with sterile fluid",
+  "You tell the doctor when you feel the urge to pee",
+  "At the end, you pee while the machine records the pressure"
+ ],
+ "feel": [
+  "An unpleasant feeling as the catheters go in",
+  "A strong urge at the end of filling. That is expected",
+  "It may feel awkward. Staff are used to it"
+ ],
+ "after": [
+  "Drink more water that day, unless your doctor says otherwise",
+  "Mild burning when peeing for 1 to 2 days can happen",
+  "Your doctor will discuss the results with you at your visit"
+ ],
+ "red_flags": [
+  "A fever over 38°C (100.4°F) or chills",
+  "You cannot pee",
+  "Blood in your urine for more than a day"
+ ],
+ "faq": [
+  {
+   "q": "Will it hurt?",
+   "a": "Usually not. The catheters are thin. It may be unpleasant and awkward, but not for long."
+  },
+  {
+   "q": "What if I leak during the test?",
+   "a": "That is normal and even useful for the test. Staff are ready for it."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Urodynamic test tomorrow. Bring your bladder diary and come with a full bladder."
+  }
+ ]
+}

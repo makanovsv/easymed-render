@@ -1,0 +1,73 @@
+{
+ "title": "Potenciais evocados",
+ "also": [
+  "potencial evocado",
+  "potencial evocado visual",
+  "PEV",
+  "potencial evocado somatossensitivo",
+  "potenciais evocados auditivos"
+ ],
+ "what": "O médico mostra imagens, toca sons ou manda impulsos fracos no braço ou na perna. Eletrodos na cabeça registram a rapidez com que o sinal chega ao cérebro.",
+ "why": "Com problemas de visão, audição ou sensibilidade, suspeita de doenças do sistema nervoso ou para avaliar os nervos.",
+ "duration": "normalmente de 30 a 90 minutos, o laudo sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Se usa óculos ou lentes de contato",
+  "Se tem problemas de audição",
+  "Quais remédios você toma",
+  "Se usa marca-passo"
+ ],
+ "prepare": [
+  {
+   "title": "Cabelo",
+   "text": "Lave o cabelo na véspera, sem óleo e sem laquê."
+  },
+  {
+   "title": "Óculos",
+   "text": "Leve os óculos ou as lentes, se você usa."
+  },
+  {
+   "title": "Disposição",
+   "text": "Durma bem. De manhã, pode comer."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Óculos ou lentes de contato",
+  "Lista de remédios",
+  "Laudos anteriores do neurologista"
+ ],
+ "steps": [
+  "Colocam eletrodos na cabeça e, às vezes, no braço ou na perna",
+  "Para a visão: você olha uma tela com um tabuleiro de xadrez",
+  "Para a audição: colocam fones com cliques",
+  "Para a sensibilidade: mandam impulsos fracos no braço ou na perna",
+  "É preciso ficar quieto e atento",
+  "Retiram os eletrodos"
+ ],
+ "feel": [
+  "Imagens e sons não doem",
+  "Os impulsos parecem um formigamento leve ou um tremidinho no dedo"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "Em casa, lave o cabelo",
+  "O laudo sai normalmente em 1 a 3 dias"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Os impulsos doem?",
+   "a": "São descargas fracas, como um formigamento. A força é ajustada para ficar suportável."
+  },
+  {
+   "q": "Posso fazer de óculos?",
+   "a": "Sim, e é até necessário. Leve os seus óculos ou lentes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem potenciais evocados. Lave o cabelo sem óleo e sem laquê. Leve os óculos, se usa."
+  }
+ ]
+}

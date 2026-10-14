@@ -1,0 +1,72 @@
+{
+ "title": "Examen médico para licencia de manejo",
+ "also": [
+  "certificado médico para licencia de conducir",
+  "examen médico de manejo",
+  "certificado para licencia",
+  "examen de aptitud para conducir"
+ ],
+ "what": "Uno o varios médicos revisan que no tengas enfermedades que te impidan manejar con seguridad. Luego te dan un certificado médico para la licencia.",
+ "why": "Antes de sacar la licencia, al renovarla, después de una suspensión o para trabajar como chofer.",
+ "duration": "normalmente de 1 a 3 horas, si todos los médicos están en el mismo lugar; muchas veces el certificado te lo dan el mismo día",
+ "tell_doctor": [
+  "Si usas lentes o lentes de contacto",
+  "Desmayos, convulsiones o epilepsia",
+  "Enfermedades del corazón o diabetes",
+  "Los medicamentos que tomas siempre"
+ ],
+ "prepare": [
+  {
+   "title": "Requisitos",
+   "text": "Pregunta en la clínica qué médicos te tienen que revisar. Normalmente un médico general y uno de la vista; según el país y el tipo de licencia, también otros especialistas."
+  },
+  {
+   "title": "Certificados",
+   "text": "A veces la evaluación psicológica o de consumo de sustancias se hace en otro lugar. Pregunta antes."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Duerme bien y no tomes alcohol."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus lentes o lentes de contacto, si los usas",
+  "Fotos, si la clínica las pide",
+  "Tu licencia anterior, si la vas a renovar"
+ ],
+ "steps": [
+  "En recepción llenas un formato y te dan la ruta por los consultorios",
+  "El especialista de la vista revisa tu vista, los colores y el campo visual",
+  "El médico general te toma la presión y te pregunta sobre tu salud",
+  "A veces un especialista te hace preguntas sobre tu salud mental y el consumo de alcohol",
+  "A veces hacen estudios adicionales",
+  "Te entregan el certificado"
+ ],
+ "feel": [
+  "Nada doloroso",
+  "Puede haber filas. Ve con tiempo de sobra"
+ ],
+ "after": [
+  "El certificado se entrega al tramitar la licencia",
+  "El certificado vale por un tiempo limitado; pregunta cuánto",
+  "Si el médico tiene dudas, te pueden mandar a estudios"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo hacer el examen con lentes?",
+   "a": "Sí. Si con lentes ves bien, el certificado dirá que solo puedes manejar con ellos."
+  },
+  {
+   "q": "¿Cuánto tiempo vale el certificado?",
+   "a": "Depende de las reglas de cada país. Pregunta en la clínica o al entregar los documentos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu examen médico para la licencia. Lleva tu identificación y tus lentes, si los usas."
+  }
+ ]
+}

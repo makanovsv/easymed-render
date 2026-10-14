@@ -1,0 +1,70 @@
+{
+ "title": "Teste da orelhinha",
+ "also": [
+  "teste da orelhinha",
+  "triagem auditiva neonatal",
+  "emissões otoacústicas",
+  "EOA",
+  "exame de audição do bebê"
+ ],
+ "what": "Um teste rápido de audição do bebê. Uma ponteira macia é colocada no ouvido, o aparelho emite sons baixinhos e registra a resposta do ouvido.",
+ "why": "Para todos os recém-nascidos, normalmente na maternidade nos primeiros dias ou no primeiro mês de vida.",
+ "duration": "normalmente de 5 a 10 minutos, com resultado na hora",
+ "tell_doctor": [
+  "Se na família há problemas de audição desde a infância",
+  "Se o bebê nasceu prematuro ou ficou na UTI",
+  "Se a mãe teve infecções na gravidez",
+  "Se o bebê tomou antibióticos fortes"
+ ],
+ "prepare": [
+  {
+   "title": "Horário",
+   "text": "O melhor é quando o bebê está dormindo ou calmo. Vale alimentar antes do teste."
+  },
+  {
+   "title": "Silêncio",
+   "text": "O teste é feito em lugar silencioso. Barulho e choro atrapalham o resultado."
+  }
+ ],
+ "bring": [
+  "Documento do bebê ou o resumo de alta da maternidade",
+  "Fralda e o necessário para alimentar"
+ ],
+ "steps": [
+  "O bebê fica no seu colo ou no berço",
+  "Uma ponteira pequena e macia é colocada no ouvido",
+  "O aparelho emite cliques baixinhos e registra a resposta",
+  "Fazem o mesmo no outro ouvido",
+  "O aparelho mostra na hora: passou ou precisa repetir"
+ ],
+ "feel": [
+  "Não dói para o bebê, muitos dormem durante o teste",
+  "Ele pode ficar um pouco inquieto se acordar"
+ ],
+ "after": [
+  "O resultado é dado na hora",
+  "Não passar não quer dizer que o bebê não ouve. Muitas vezes é líquido ou cera no ouvido",
+  "Se não passou, o teste é repetido em algumas semanas ou o bebê é encaminhado ao otorrino"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O bebê não passou no teste. Ele é surdo?",
+   "a": "Não necessariamente. Muitas vezes é líquido do parto ou barulho. O teste é repetido e, se preciso, feito com o otorrino."
+  },
+  {
+   "q": "Por que testar a audição tão cedo?",
+   "a": "Quanto antes se percebe a perda de audição, melhor a fala se desenvolve com ajuda."
+  },
+  {
+   "q": "Dá para testar se o bebê está chorando?",
+   "a": "É melhor esperar ele se acalmar. O choro atrapalha o aparelho."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o teste da orelhinha. Alimente o bebê antes, para ele estar calmo ou dormindo."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Troca da sonda de cistostomia",
+ "also": [
+  "troca de cistostomia",
+  "sonda suprapúbica",
+  "cistostomia",
+  "troca do tubo na barriga"
+ ],
+ "what": "A enfermagem ou o médico troca o tubo que leva a urina da bexiga para fora pela pele acima do púbis.",
+ "why": "Com regularidade, normalmente a cada 4 a 6 semanas, ou antes se o tubo entupir ou sair. O prazo quem diz é o médico.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Quando foi a última troca",
+  "Se você tem febre, dor ou sangue na urina",
+  "Alergias, inclusive a látex",
+  "Se você toma remédios que afinam o sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Líquidos",
+   "text": "Beba como sempre. A bexiga cheia facilita a troca. Confirme com a clínica."
+  },
+  {
+   "title": "Higiene",
+   "text": "De manhã, o banho de sempre. Lave com sabonete a pele em volta do tubo."
+  },
+  {
+   "title": "Material",
+   "text": "Leve uma bolsa coletora extra."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou resumo de alta",
+  "Uma bolsa coletora extra",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Você deita de barriga para cima",
+  "O curativo é retirado, e a pele em volta é limpa com antisséptico",
+  "A água do balãozinho de dentro é retirada",
+  "O tubo antigo é retirado com cuidado",
+  "Na hora, um tubo novo é colocado no mesmo trajeto",
+  "O balãozinho é enchido, a bolsa é conectada e fazem o curativo"
+ ],
+ "feel": [
+  "Um puxão desagradável quando tiram o tubo",
+  "Uma ardência rápida ao colocar o novo"
+ ],
+ "after": [
+  "Um pouco de sangue na urina nas primeiras horas pode acontecer",
+  "Beba mais água, se o médico não limitou",
+  "Anote a data da próxima troca"
+ ],
+ "red_flags": [
+  "O tubo saiu: ligue na hora para a clínica, porque o trajeto pode fechar em poucas horas",
+  "A urina não sai por algumas horas, a barriga inchou",
+  "Febre acima de 38 graus, vermelhidão e pus em volta do tubo"
+ ],
+ "faq": [
+  {
+   "q": "Posso trocar o tubo sozinho?",
+   "a": "Normalmente não. A troca é feita pela enfermagem ou pelo médico. Alguns pacientes são treinados para isso. Quem decide é o médico."
+  },
+  {
+   "q": "O que fazer se o tubo sair?",
+   "a": "Cubra o orifício com uma gaze limpa e ligue na hora para a clínica. Não coloque o tubo de volta sozinho."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a troca da sonda de cistostomia. Leve uma bolsa coletora extra e o pedido médico."
+  }
+ ]
+}

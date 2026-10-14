@@ -1,0 +1,68 @@
+{
+ "title": "Throat culture",
+ "also": [
+  "throat culture",
+  "throat swab culture",
+  "nose and throat swab",
+  "bacterial culture of the throat"
+ ],
+ "what": "A swab is taken from your throat. The lab grows the sample to see which germs live there and which medicines work on them.",
+ "why": "For frequent tonsillitis, a sore throat that lasts, before a health resort stay or a job, or to check for staph carriage.",
+ "duration": "the swab takes a few seconds; results usually come in 3 to 7 days",
+ "tell_doctor": [
+  "If you take or recently took antibiotics",
+  "If you use throat sprays or gargles",
+  "If you have a strong gag reflex"
+ ],
+ "prepare": [
+  {
+   "title": "Food and drink",
+   "text": "The swab is usually taken before eating, or 2 to 3 hours after eating and drinking. Check with the clinic."
+  },
+  {
+   "title": "Throat and teeth",
+   "text": "In the morning, do not gargle or use sprays. Brushing teeth is usually not advised. Check with the lab."
+  },
+  {
+   "title": "Antibiotics",
+   "text": "The culture is best done before you start antibiotics. If you already take them, tell your doctor. Do not stop them on your own."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit and open your mouth",
+  "Your tongue is held down with a flat stick",
+  "A sterile swab is rubbed over the tonsils and the back of the throat",
+  "The swab goes into a tube with a special gel",
+  "If a nose swab is also ordered, it is taken with a separate swab"
+ ],
+ "feel": [
+  "You may gag for a second",
+  "Unpleasant, but quick"
+ ],
+ "after": [
+  "You can eat and drink right away",
+  "Results usually come in 3 to 7 days",
+  "The report may list which antibiotics work. Your doctor will go over it"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "If staph is found, does that mean I am ill?",
+   "a": "Not necessarily. Many people carry it without harm. Your doctor decides if treatment is needed based on your symptoms."
+  },
+  {
+   "q": "Why does a culture take so long?",
+   "a": "Germs need time to grow. Then they are tested against medicines."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Throat swab tomorrow. In the morning, do not eat, drink, or gargle, unless the clinic said otherwise."
+  }
+ ]
+}

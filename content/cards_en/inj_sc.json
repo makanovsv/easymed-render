@@ -1,0 +1,67 @@
+{
+ "title": "Subcutaneous injection",
+ "also": [
+  "subcutaneous injection",
+  "shot under the skin",
+  "SC injection",
+  "belly injection"
+ ],
+ "what": "Medicine is given with a thin, short needle into the fat layer under the skin, usually on the belly, upper arm, or thigh.",
+ "why": "This is how insulin, blood clot medicines, some hormones, and vaccines are given, as your doctor prescribes.",
+ "duration": "the injection itself takes less than a minute",
+ "tell_doctor": [
+  "Allergies to medicines",
+  "Blood thinners",
+  "If you had bruises or lumps after injections before"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "Usually none. You can eat and drink."
+  },
+  {
+   "title": "Clothing",
+   "text": "Clothes that make it easy to uncover your belly or upper arm."
+  }
+ ],
+ "bring": [
+  "Your doctor's prescription",
+  "The medicine, if you bought it yourself"
+ ],
+ "steps": [
+  "The nurse checks the prescription and the medicine",
+  "A spot is chosen: the belly around the navel, the upper arm, or the thigh",
+  "The skin is wiped with antiseptic",
+  "The skin is pinched into a fold, and the needle goes in quickly",
+  "The medicine is given slowly, and the needle comes out"
+ ],
+ "feel": [
+  "A quick prick",
+  "Some medicines sting a little as they go in"
+ ],
+ "after": [
+  "Do not rub the spot, unless the nurse says otherwise",
+  "A small bruise can happen and goes away on its own",
+  "For a course of injections, use a different spot each time"
+ ],
+ "red_flags": [
+  "Swelling of the face or lips, trouble breathing, or a rash all over: call emergency services",
+  "The injection site becomes very red, hot, and painful"
+ ],
+ "faq": [
+  {
+   "q": "Why injections in the belly?",
+   "a": "There is plenty of fat under the skin there, so the medicine is absorbed evenly. It does not hurt more than the arm."
+  },
+  {
+   "q": "Why do I get bruises after belly injections?",
+   "a": "Blood clot medicines often cause bruises. If they are very large, tell your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Injection soon. Wear clothes that make it easy to uncover your belly or upper arm."
+  }
+ ]
+}

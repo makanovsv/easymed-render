@@ -1,0 +1,63 @@
+{
+ "title": "Raio-X simples de abdome",
+ "also": [
+  "raio-X de abdome",
+  "radiografia abdominal simples",
+  "raio-X da barriga"
+ ],
+ "what": "É uma radiografia simples da barriga, sem contraste. Mostra gases, líquido e algumas pedras.",
+ "why": "Com dor forte na barriga, inchaço, intestino e gases presos, suspeita de obstrução do intestino ou de objeto engolido.",
+ "duration": "na sala, normalmente de 5 a 10 minutos. Com dor forte, o médico vê a imagem na hora",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se fez há pouco tempo exame com bário. Ele aparece na imagem",
+  "Se engoliu um objeto, diga qual e quando"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não precisa. Em emergências, a imagem é feita na hora."
+  },
+  {
+   "title": "Roupa",
+   "text": "Tire acessórios e coisas de metal na região. Às vezes pedem para trocar de roupa."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Radiografias e ultrassons anteriores da barriga, se tiver"
+ ],
+ "steps": [
+  "Você tira objetos de metal e troca de roupa, se pedirem",
+  "A imagem é feita em pé ou deitado, às vezes nas duas posições",
+  "É preciso segurar a respiração por uns dois segundos",
+  "O técnico tira a imagem e confere se ficou boa"
+ ],
+ "feel": [
+  "Não dói. A imagem leva uma fração de segundo",
+  "Às vezes é preciso aguentar um pouco uma posição desconfortável"
+ ],
+ "after": [
+  "Os próximos passos quem decide é o médico que pediu o exame",
+  "O laudo normalmente sai no mesmo dia. Em urgência, na hora"
+ ],
+ "red_flags": [
+  "Dor na barriga forte e piorando, vômito, barriga dura, sem evacuar e sem soltar gases: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O raio-X da barriga mostra todos os órgãos?",
+   "a": "Não. A imagem mostra principalmente gases, líquido e objetos densos. Os órgãos aparecem melhor no ultrassom ou na tomografia."
+  },
+  {
+   "q": "Preciso ficar sem comer antes?",
+   "a": "Para o raio-X simples, normalmente não. Se tiver dúvida, confirme com a clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o raio-X de abdome. Vista roupa sem metal e leve o pedido médico."
+  }
+ ]
+}

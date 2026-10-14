@@ -1,0 +1,67 @@
+{
+ "title": "Limpieza dental profesional",
+ "also": [
+  "limpieza dental",
+  "profilaxis dental",
+  "quitar el sarro",
+  "limpieza con ultrasonido"
+ ],
+ "what": "El higienista quita el sarro y la placa con ultrasonido y cepillos especiales. Los dientes quedan lisos y limpios.",
+ "why": "Normalmente cada 6 a 12 meses para prevenir; antes de tratamientos, implantes o brackets; o si te sangran las encías.",
+ "duration": "normalmente de 40 a 60 minutos",
+ "tell_doctor": [
+  "Si te sangran las encías o tienes los dientes sensibles",
+  "Enfermedades del corazón, sobre todo válvulas artificiales",
+  "Medicamentos que hacen la sangre más líquida",
+  "Embarazo",
+  "Alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Antes de la visita",
+   "text": "Lávate los dientes como siempre."
+  },
+  {
+   "title": "Comida",
+   "text": "Come antes. Después de la limpieza a veces se recomienda no comer ni beber cosas que manchen por 1 a 2 horas."
+  }
+ ],
+ "bring": [
+  "Una identificación"
+ ],
+ "steps": [
+  "El dentista revisa los dientes y las encías",
+  "Quitan el sarro con ultrasonido",
+  "Quitan la placa con un chorro de aire y polvo",
+  "Pulen los dientes con pasta",
+  "A veces ponen un producto con flúor",
+  "Te explican cómo cuidar tus dientes en casa"
+ ],
+ "feel": [
+  "Vibración y agua en la boca",
+  "Los dientes sensibles pueden doler. Avisa y el higienista bajará la potencia o te pondrá anestesia",
+  "Las encías pueden sangrar un poco"
+ ],
+ "after": [
+  "Por 1 a 2 horas no comas ni bebas cosas que manchen: café, té, vino",
+  "Unos días los dientes pueden estar sensibles al frío",
+  "Lávate los dientes 2 veces al día y usa hilo dental"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿La limpieza daña el esmalte?",
+   "a": "No. La limpieza profesional no daña el esmalte. Quita lo que no se puede quitar con el cepillo en casa."
+  },
+  {
+   "q": "¿Por qué sangran las encías después de la limpieza?",
+   "a": "Las encías estaban inflamadas por el sarro. Después de la limpieza normalmente sanan en unos días."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu limpieza dental. Lávate los dientes y come antes."
+  }
+ ]
+}

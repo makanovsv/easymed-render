@@ -1,0 +1,81 @@
+{
+ "title": "Video-electroencefalograma",
+ "also": [
+  "video-EEG",
+  "videoelectroencefalograma",
+  "monitoreo video-EEG",
+  "EEG de sueño",
+  "EEG prolongado"
+ ],
+ "what": "Durante varias horas o toda la noche registran la actividad del cerebro con electrodos en la cabeza. Al mismo tiempo graban un video, para comparar el registro con lo que pasa.",
+ "why": "Con crisis, convulsiones, desmayos o episodios raros durante el sueño, para entender qué son y elegir el tratamiento.",
+ "duration": "de varias horas a un día o más, según el médico; el reporte suele tardar varios días",
+ "tell_doctor": [
+  "Cómo son las crisis y cada cuánto pasan",
+  "Qué medicamentos tomas. No los dejes por tu cuenta",
+  "Si tienes un video de una crisis en el teléfono, muéstralo",
+  "Cuánto duermes normalmente"
+ ],
+ "prepare": [
+  {
+   "title": "Sueño",
+   "text": "A veces te piden dormir menos la noche anterior, para que te duermas más fácil durante el registro. Hazlo solo si el médico te lo dijo."
+  },
+  {
+   "title": "Cabello",
+   "text": "Lávate el cabello la noche anterior, sin aceite, spray ni gel. Quita trenzas y extensiones."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Tómalos como siempre. No los dejes por tu cuenta. Si hace falta, lo decide el médico."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda con botones al frente. No te la podrás quitar por la cabeza."
+  }
+ ],
+ "bring": [
+  "La orden médica y tus EEG anteriores",
+  "La lista de tus medicamentos y los medicamentos",
+  "Videos de las crisis, si los tienes",
+  "Comida, agua, cargador y un libro",
+  "Un acompañante, si la clínica lo pide"
+ ],
+ "steps": [
+  "Te ponen una pasta en la cabeza y los electrodos, y encima un gorro o una venda",
+  "Encienden la cámara y el registro",
+  "Haces lo de siempre: leer, comer, dormir",
+  "A veces te piden respirar rápido o ver una luz que parpadea",
+  "Si empieza una crisis, aprieta el botón o avísale a tu acompañante",
+  "Al final quitan los electrodos y lavan la pasta"
+ ],
+ "feel": [
+  "No duele. Los electrodos no mandan nada a la cabeza",
+  "El gorro puede estorbar para dormir las primeras horas",
+  "Después la cabeza queda un poco pegajosa por la pasta"
+ ],
+ "after": [
+  "En casa lávate el cabello",
+  "Puedes hacer vida normal de inmediato, salvo que el médico te diga otra cosa",
+  "El reporte suele tardar varios días"
+ ],
+ "red_flags": [
+  "Una crisis de más de 5 minutos o crisis una tras otra: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué tiene que ser de noche?",
+   "a": "Muchos cambios en el EEG solo se ven durante el sueño. Entre más largo el registro, más probabilidad de ver una crisis."
+  },
+  {
+   "q": "¿Me puedo levantar al baño?",
+   "a": "Normalmente sí. El personal te dirá cómo hacerlo sin dañar los cables."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu video-EEG. Lávate el cabello sin aceite ni spray. Lleva tus medicamentos, comida y cargador."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Resonancia magnética en niños con sedación",
+ "also": [
+  "resonancia en niños con sedación",
+  "resonancia dormido para niños",
+  "resonancia con anestesia en niños"
+ ],
+ "what": "Es una resonancia durante la cual el niño duerme con un medicamento. Así está quieto y no le asusta el ruido.",
+ "why": "Para niños pequeños y niños que no pueden estar quietos de 20 a 40 minutos.",
+ "duration": "la resonancia suele durar de 20 a 60 minutos; con la preparación y el despertar, de 2 a 4 horas",
+ "tell_doctor": [
+  "Enfermedades crónicas, alergias y medicamentos del niño",
+  "Si hace poco tuvo escurrimiento, tos o fiebre. La sedación se puede cambiar de fecha",
+  "Si el niño o sus familiares tuvieron problemas con la anestesia",
+  "Metal e implantes en el cuerpo, por ejemplo un implante coclear"
+ ],
+ "prepare": [
+  {
+   "title": "Ayuno",
+   "text": "Antes de la sedación no puede comer ni beber por un tiempo. Normalmente: comida, 6 horas antes; leche materna, 4 horas antes; agua clara, 2 horas antes. La hora exacta te la dice el anestesiólogo."
+  },
+  {
+   "title": "Revisión",
+   "text": "Muchas veces se necesita una revisión del pediatra y análisis. Pregunta la lista en la clínica."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa sin metal: sin broches, cierres ni pedrería."
+  },
+  {
+   "title": "Juguete",
+   "text": "Su juguete favorito y un biberón con agua, para cuando despierte."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "El reporte del pediatra y los análisis, si te los pidieron",
+  "Sus estudios anteriores",
+  "Pañales, ropa de cambio y agua"
+ ],
+ "steps": [
+  "El anestesiólogo revisa al niño y te pregunta por su salud",
+  "Le ponen un catéter en la vena; a veces primero una mascarilla con medicamento",
+  "El niño se duerme frente a ti",
+  "Lo acuestan en el aparato y el anestesiólogo vigila su respiración y su pulso",
+  "Tú esperas cerca, afuera del cuarto",
+  "Después del estudio lo despiertan y te lo traen"
+ ],
+ "feel": [
+  "Al niño no le duele",
+  "Al despertar puede estar adormilado, inquieto o llorar. Se le pasa",
+  "A veces tiene un poco de náuseas"
+ ],
+ "after": [
+  "El niño descansa en observación, normalmente de 30 a 60 minutos",
+  "Puede beber y comer cuando lo permita el médico. Normalmente se empieza con agua",
+  "El resto del día, tranquilo y con un adulto a su lado",
+  "El reporte suele estar en 1 a 3 días"
+ ],
+ "red_flags": [
+  "El niño no despierta, respira mal o tiene los labios morados: llama a emergencias de inmediato",
+  "Vómitos repetidos o fiebre alta después de la sedación: llama al médico o a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La sedación es peligrosa para el niño?",
+   "a": "La hace un anestesiólogo que vigila al niño todo el tiempo. Las complicaciones graves son raras."
+  },
+  {
+   "q": "¿La mamá puede estar mientras el niño se duerme?",
+   "a": "Muchas veces sí. Pregunta en la clínica."
+  },
+  {
+   "q": "¿Por qué no puede comer antes de la sedación?",
+   "a": "Con el estómago vacío se evita que la comida pase a las vías respiratorias mientras duerme."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la resonancia de tu hijo con sedación. Revisa desde qué hora ya no puede comer ni beber."
+  }
+ ]
+}

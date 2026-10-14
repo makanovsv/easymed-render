@@ -1,0 +1,67 @@
+{
+ "title": "Consulta con el hematólogo",
+ "also": [
+  "hematólogo",
+  "médico de la sangre",
+  "consulta de hematología"
+ ],
+ "what": "Es el médico que trata enfermedades de la sangre y de los órganos que la producen.",
+ "why": "Si hay cambios en tus análisis de sangre: hemoglobina baja, o glóbulos blancos o plaquetas altos o bajos. También si te salen moretones o sangras seguido, o tienes ganglios inflamados.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Qué te molesta: debilidad, moretones, sangrados, bajaste de peso o sudas mucho",
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida",
+  "Si te han hecho transfusiones de sangre",
+  "Enfermedades de la sangre en tu familia",
+  "En mujeres: cómo es tu regla"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Lleva todos tus análisis de sangre recientes. Al médico le importa cómo han cambiado."
+  },
+  {
+   "title": "Estudios",
+   "text": "Lleva tus ultrasonidos y resúmenes médicos, si tienes."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias",
+  "Revisa tu piel y tus mucosas",
+  "Palpa tus ganglios y tu abdomen",
+  "Revisa tus análisis",
+  "Te pide estudios o te indica un tratamiento"
+ ],
+ "feel": [
+  "Nada molesto. Es una revisión normal",
+  "Palpar el abdomen y los ganglios no duele"
+ ],
+ "after": [
+  "Muchas veces piden repetir el análisis de sangre",
+  "A veces hacen falta más estudios; el médico te explica para qué"
+ ],
+ "red_flags": [
+  "Sangrado fuerte que no se detiene: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "Me mandaron con el hematólogo, ¿debo asustarme?",
+   "a": "No. Casi siempre la causa es sencilla, por ejemplo falta de hierro. El médico lo va a revisar."
+  },
+  {
+   "q": "¿Qué análisis llevo?",
+   "a": "Todos los análisis de sangre que tengas, sobre todo los más recientes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el hematólogo. Lleva todos tus análisis de sangre recientes."
+  }
+ ]
+}

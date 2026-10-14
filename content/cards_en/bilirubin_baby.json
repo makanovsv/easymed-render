@@ -1,0 +1,72 @@
+{
+ "title": "Bilirubin test in newborns",
+ "also": [
+  "newborn bilirubin test",
+  "newborn jaundice test",
+  "baby jaundice check",
+  "transcutaneous bilirubin"
+ ],
+ "what": "This checks the level of bilirubin, the substance that makes a baby's skin look yellow. Often a device is first held to the skin, and blood is taken if needed.",
+ "why": "For jaundice in a newborn, to see if it will go away on its own or if light therapy is needed.",
+ "duration": "the skin device takes a few seconds, a blood test a few minutes; results usually come the same day",
+ "tell_doctor": [
+  "How many days old your baby is and if they were born on time",
+  "How your baby feeds and how many wet diapers they have a day",
+  "The color of the stool and urine",
+  "Your blood type and Rh factor, if you know them"
+ ],
+ "prepare": [
+  {
+   "title": "Feeding",
+   "text": "Feed your baby as usual. No special prep is needed."
+  },
+  {
+   "title": "Warmth",
+   "text": "Put socks on. Blood is easier to take from a warm heel."
+  },
+  {
+   "title": "Clothing",
+   "text": "Comfortable clothes that open easily. The device is held to the forehead or chest."
+  }
+ ],
+ "bring": [
+  "Your baby's documents",
+  "The referral, if you have one",
+  "The discharge papers from the maternity hospital"
+ ],
+ "steps": [
+  "The nurse holds a device to your baby's forehead or chest",
+  "In a second, it shows an approximate level",
+  "If an exact level is needed, a drop of blood is taken from the heel or a vein",
+  "A cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "Your baby will not feel the device",
+  "The prick is quick. Your baby may cry. Breastfeed or cuddle them"
+ ],
+ "after": [
+  "Results usually come the same day",
+  "If bilirubin is high, the doctor may order light therapy, called phototherapy",
+  "The test is often repeated in a day or two"
+ ],
+ "red_flags": [
+  "Your baby is floppy, feeds poorly, or is hard to wake: see a doctor urgently",
+  "Jaundice gets worse, or the stool is pale or the urine dark: see a doctor the same day"
+ ],
+ "faq": [
+  {
+   "q": "Is jaundice in a newborn dangerous?",
+   "a": "Most often it is normal and goes away on its own in 1 to 2 weeks. The test makes sure a high level is not missed."
+  },
+  {
+   "q": "Does sunlight help?",
+   "a": "Putting your baby in the sun is not advised. They can overheat or get sunburned. Your doctor will decide on treatment."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Your baby's bilirubin check is soon. Put socks on and bring the maternity hospital discharge papers."
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "title": "Joint X-ray",
+ "also": [
+  "joint X-ray",
+  "knee X-ray",
+  "shoulder X-ray",
+  "X-ray of a joint"
+ ],
+ "what": "An X-ray of a joint. It shows the bones, the joint space, fractures, and signs of wear.",
+ "why": "After an injury, for pain, swelling, clicking, or limited movement in a joint, or to check after treatment.",
+ "duration": "usually 5 to 15 minutes in the room; the report the same or the next day",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "If the joint has a replacement, a plate, or screws",
+  "If it is hard to bend or straighten the joint"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "None needed. You can eat and drink."
+  },
+  {
+   "title": "Clothing",
+   "text": "Take off jewelry and anything metal in the area. Sometimes you are asked to change."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past X-rays of this joint, for comparison"
+ ],
+ "steps": [
+  "You uncover the joint and remove jewelry",
+  "The technician places the joint in the right position",
+  "Usually two images are taken from different sides",
+  "Sometimes both joints are imaged, or while standing under your weight",
+  "Each time, you keep still for a couple of seconds"
+ ],
+ "feel": [
+  "It does not hurt. The image takes a fraction of a second",
+  "Sometimes you need to hold an awkward position for a bit",
+  "With a fresh injury, positioning can hurt. Tell the technician"
+ ],
+ "after": [
+  "You can go about your day right away",
+  "Take the images and report to an orthopedic or trauma doctor"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Does an X-ray show ligaments and the meniscus?",
+   "a": "No, X-rays show bones. Ligaments and menisci are seen better on MRI or ultrasound."
+  },
+  {
+   "q": "Why image the healthy joint?",
+   "a": "Sometimes to compare it with the painful one. Your doctor decides."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Joint X-ray soon. Wear comfortable clothes and bring past X-rays."
+  }
+ ]
+}

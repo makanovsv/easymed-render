@@ -1,0 +1,90 @@
+{
+ "title": "Cirurgia no cérebro",
+ "also": [
+  "craniotomia",
+  "retirada de tumor cerebral",
+  "neurocirurgia",
+  "cirurgia de tumor no cérebro"
+ ],
+ "what": "Por uma abertura no crânio, o neurocirurgião retira o tumor ou outra lesão. O trabalho é feito no microscópio, com cuidado com as áreas saudáveis.",
+ "why": "Em tumores do cérebro, alguns sangramentos, aneurismas e outras doenças em que a cirurgia é necessária.",
+ "duration": "a cirurgia leva normalmente algumas horas, com internação normalmente de 5 a 10 dias, às vezes mais",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Convulsões e remédios anticonvulsivantes",
+  "Doenças do coração, dos pulmões, diabetes",
+  "O que mudou: fala, visão, fraqueza, memória"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente ressonância, exames de sangue, eletrocardiograma, consulta com clínico e outros médicos. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Cabelo",
+   "text": "Às vezes raspam uma pequena área. Pergunte se precisa fazer algo antes."
+  },
+  {
+   "title": "Família",
+   "text": "Combine quem vai manter contato com o médico e ajudar depois da alta."
+  }
+ ],
+ "bring": [
+  "Ressonância e tomografia em CD",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para o hospital"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam os acessos",
+  "O anestesista aplica a anestesia",
+  "A cabeça é fixada num suporte especial",
+  "O cirurgião abre uma pequena área do crânio",
+  "No microscópio, retira a lesão",
+  "O osso volta para o lugar, e a pele é suturada",
+  "Depois da cirurgia, você fica em observação na UTI"
+ ],
+ "feel": [
+  "Dor de cabeça e inchaço no rosto. Dão analgésico",
+  "Fraqueza e sono nos primeiros dias",
+  "Às vezes a fala, a visão ou a força no braço mudam por um tempo. O médico explica"
+ ],
+ "after": [
+  "No primeiro dia, normalmente você fica na UTI em observação",
+  "Você começa a levantar aos poucos, quando o médico liberar",
+  "Os pontos são retirados normalmente em 7 a 14 dias",
+  "A biópsia define o tratamento seguinte",
+  "Dirigir, só depois que o médico liberar"
+ ],
+ "red_flags": [
+  "Convulsão, perda de consciência: ligue para a emergência",
+  "Dor de cabeça forte e repentina, vômitos, confusão: ligue para a emergência",
+  "Fraqueza nova no braço ou na perna, fala alterada: ligue para a emergência",
+  "Febre acima de 38 graus, secreção na ferida"
+ ],
+ "faq": [
+  {
+   "q": "Vai doer?",
+   "a": "O cérebro em si não sente dor. Doem a pele e os músculos da cabeça, e isso se alivia com analgésico."
+  },
+  {
+   "q": "Dá para operar acordado?",
+   "a": "Às vezes sim, se o tumor está perto das áreas da fala ou do movimento. Quem decide é o cirurgião."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Leve as imagens em CD e a lista de remédios. Comida e água, só até o horário da clínica."
+  }
+ ]
+}

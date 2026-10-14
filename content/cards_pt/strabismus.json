@@ -1,0 +1,88 @@
+{
+ "title": "Cirurgia de estrabismo",
+ "also": [
+  "cirurgia de estrabismo",
+  "correção de olho torto",
+  "cirurgia dos músculos do olho"
+ ],
+ "what": "O cirurgião afrouxa ou reforça os músculos que movem o olho, para os olhos ficarem alinhados. O globo ocular não é cortado.",
+ "why": "No estrabismo que não se corrige com óculos e exercícios, ou para que os olhos voltem a trabalhar juntos.",
+ "duration": "a cirurgia leva normalmente de 30 a 90 minutos; a alta muitas vezes é no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que fazer",
+  "Alergias",
+  "Doenças crônicas, doenças do coração",
+  "Se o paciente ou alguém da família já teve problema com anestesia",
+  "Se for criança: se ela esteve doente nas últimas 2 semanas"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, consulta com pediatra ou clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você ou com a criança."
+  },
+  {
+   "title": "Comida e bebida",
+   "text": "Normalmente não se come nem se bebe por algumas horas. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Para a criança",
+   "text": "Se quem vai operar é a criança, explique com calma que ela vai dormir e que você vai estar perto."
+  }
+ ],
+ "bring": [
+  "Pedido médico e exames",
+  "Documentos",
+  "Lista de remédios",
+  "Roupa confortável e, para a criança, um brinquedo"
+ ],
+ "steps": [
+  "Você ou a criança troca de roupa, e colocam um acesso na veia",
+  "Na sala de cirurgia, aplicam a anestesia, e o paciente dorme",
+  "Por um pequeno corte na parte branca do olho, o cirurgião muda a posição do músculo",
+  "Colocam pontos finos que se dissolvem sozinhos",
+  "O paciente acorda na sala de recuperação",
+  "O médico examina o olho e passa as orientações"
+ ],
+ "feel": [
+  "Depois da anestesia, sono e às vezes enjoo",
+  "O olho fica vermelho, lacrimeja e dá sensação de areia",
+  "Nos primeiros dias dói mexer o olho. Dão analgésico"
+ ],
+ "after": [
+  "Colírios, exatamente como o médico receitar",
+  "Não coce o olho, e não deixe a criança coçar",
+  "Não entre em piscina, rio ou mar pelo tempo que o médico indicar",
+  "A vermelhidão costuma sumir em algumas semanas",
+  "Às vezes, mesmo depois da cirurgia, ainda são necessários óculos ou exercícios"
+ ],
+ "red_flags": [
+  "Dor forte e crescente, inchaço, pus no olho",
+  "Piora brusca da visão",
+  "Febre acima de 38 graus",
+  "Dificuldade para respirar, a pessoa não acorda: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Os olhos ficam retos na hora?",
+   "a": "Muitas vezes sim, mas o resultado final é avaliado depois de algumas semanas."
+  },
+  {
+   "q": "Vai precisar de outra cirurgia?",
+   "a": "Às vezes é necessário. O médico diz conforme o resultado."
+  },
+  {
+   "q": "Precisa tirar os pontos?",
+   "a": "Normalmente os pontos se dissolvem sozinhos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia dos olhos. Separe os documentos e as coisas. Comida e água, só até o horário que a clínica indicou."
+  }
+ ]
+}

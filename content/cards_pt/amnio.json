@@ -1,0 +1,88 @@
+{
+ "title": "Amniocentese",
+ "also": [
+  "amniocentese",
+  "punção do líquido amniótico",
+  "exame do líquido amniótico",
+  "diagnóstico pré-natal"
+ ],
+ "what": "Guiado pelo ultrassom, o médico colhe um pouco de líquido amniótico com uma agulha fina pela barriga. No líquido se analisam os cromossomos e os genes do bebê.",
+ "why": "Quando o rastreamento mostrou risco alto, o ultrassom achou alterações ou há doença hereditária na família. Normalmente depois de 15 a 16 semanas.",
+ "duration": "o procedimento em si leva normalmente de 15 a 30 minutos; os primeiros resultados saem em alguns dias, e a análise completa em até 2 a 3 semanas",
+ "tell_doctor": [
+  "Seu tipo de sangue e fator Rh",
+  "Remédios que afinam o sangue",
+  "Infecções como hepatite e HIV. Isso é importante para a segurança do bebê",
+  "Alergias, principalmente a antissépticos",
+  "Sangramento ou dor nos últimos dias"
+ ],
+ "prepare": [
+  {
+   "title": "Decisão",
+   "text": "O geneticista explica antes para que serve o procedimento, quais os riscos e o que a análise mostra. Você assina um termo de consentimento."
+  },
+  {
+   "title": "Exames",
+   "text": "Normalmente é preciso exame de sangue, tipo sanguíneo e Rh, às vezes exames de infecções."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode fazer uma refeição leve. A bexiga, como a clínica orientar."
+  },
+  {
+   "title": "Descanso",
+   "text": "Reserve o dia depois do procedimento: é preciso ficar em repouso."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados do rastreamento e dos ultrassons",
+  "A caderneta da gestante",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Você deita de barriga para cima, e o médico faz o ultrassom e escolhe o melhor ponto",
+  "A pele da barriga é limpa com antisséptico",
+  "Às vezes a pele é anestesiada",
+  "Guiada pelo ultrassom, a agulha fina entra pela barriga",
+  "Colhem um pouco de líquido, normalmente em menos de um minuto",
+  "A agulha é retirada, e conferem os batimentos do bebê"
+ ],
+ "feel": [
+  "Uma picada e sensação de pressão ou cólica na barriga",
+  "Ficar nervosa é normal. Você pode pedir para alguém segurar sua mão",
+  "Depois, cólica leve no pé da barriga por algumas horas"
+ ],
+ "after": [
+  "Normalmente você descansa na clínica de 20 a 30 minutos",
+  "No dia e por 1 a 2 dias depois, repouso, sem peso e sem exercício",
+  "Se o seu Rh for negativo, normalmente aplicam uma injeção de imunoglobulina anti-D",
+  "Os resultados, o geneticista explica"
+ ],
+ "red_flags": [
+  "Perda de líquido pela vagina: procure o médico com urgência ou ligue para a emergência",
+  "Sangramento ou dor forte na barriga: ligue para a emergência",
+  "Febre acima de 38 graus, calafrios: procure o médico com urgência",
+  "O bebê se mexe bem menos que o normal: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "A amniocentese é perigosa para o bebê?",
+   "a": "Há um pequeno risco de aborto. O médico explica esse risco no seu caso antes do procedimento."
+  },
+  {
+   "q": "Dói?",
+   "a": "Normalmente é suportável: como uma picada e pressão na barriga. Dura pouco."
+  },
+  {
+   "q": "É obrigatório fazer?",
+   "a": "Não. A escolha é sua. O médico ajuda a pesar o benefício e o risco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a amniocentese. Leve os resultados do rastreamento e dos ultrassons. Peça para alguém levar você para casa."
+  }
+ ]
+}

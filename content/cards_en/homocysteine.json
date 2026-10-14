@@ -1,0 +1,66 @@
+{
+ "title": "Homocysteine",
+ "also": [
+  "homocysteine test",
+  "homocysteine level",
+  "plasma homocysteine"
+ ],
+ "what": "This is a blood test from a vein. Homocysteine is a substance whose level is linked to B vitamins and blood vessel health.",
+ "why": "For blood vessel disease and blood clots, when planning a pregnancy, or for low vitamin B12 and folate.",
+ "duration": "the blood draw takes 3 to 5 minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "If you take vitamins, especially B vitamins and folic acid",
+  "If you take epilepsy medicines or medicines that lower immunity",
+  "If you have kidney or thyroid disease",
+  "If you smoke"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually strictly fasting, 8 to 12 hours without food. Water is fine."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol, no fatty food or meat, and no hard workouts. Do not smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Ask your doctor if you should pause vitamins before the test."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow, and the skin is wiped",
+  "Blood is drawn into a tube",
+  "The needle comes out, and a cotton pad is pressed on"
+ ],
+ "feel": [
+  "A quick prick, like a pinch"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Results usually come in 1 to 3 days",
+  "Your doctor will explain the results"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What if my homocysteine is high?",
+   "a": "Often the cause is low B vitamins. Your doctor decides what to take and at what dose."
+  },
+  {
+   "q": "Why test homocysteine when planning a pregnancy?",
+   "a": "It helps show if you have enough folate. Your doctor decides about vitamins."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Homocysteine test tomorrow. Do not eat after dinner. Water is fine."
+  }
+ ]
+}

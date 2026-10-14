@@ -1,0 +1,74 @@
+{
+ "title": "Testosterone",
+ "also": [
+  "testosterone test",
+  "total testosterone",
+  "free testosterone",
+  "male hormone test"
+ ],
+ "what": "This is a blood test from a vein. It shows your level of testosterone. Both men and women have this hormone.",
+ "why": "In men, for low sex drive, tiredness, or trouble conceiving. In women, for irregular periods, acne, or extra hair growth.",
+ "duration": "the blood draw takes a few minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "If you take hormones or sports supplements",
+  "If you take birth control pills",
+  "Your cycle day, if you are a woman",
+  "If you work nights or sleep poorly"
+ ],
+ "prepare": [
+  {
+   "title": "Time",
+   "text": "Usually in the morning, before about 11 a.m. Women will be told the cycle day by their doctor."
+  },
+  {
+   "title": "Food",
+   "text": "Usually fasting: no food for 8 to 12 hours. Plain water is fine. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours, no alcohol and no hard workouts. Best not to smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in 1 to 3 days. The lab will tell you when",
+  "Sometimes the doctor asks you to repeat the test. The level changes from day to day"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why is testosterone tested in the morning?",
+   "a": "It is highest in the morning. Normal ranges are set for a morning test."
+  },
+  {
+   "q": "Do women need a testosterone test?",
+   "a": "Yes, if your doctor ordered it. Women have it too, just in smaller amounts."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Testosterone test tomorrow morning. Do not eat after dinner, get a good sleep, and skip workouts."
+  }
+ ]
+}

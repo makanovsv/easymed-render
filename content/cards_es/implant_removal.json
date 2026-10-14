@@ -1,0 +1,79 @@
+{
+ "title": "Retiro de material de osteosíntesis",
+ "also": [
+  "retiro de placa",
+  "quitar tornillos",
+  "retiro de clavo",
+  "retiro de material después de fractura"
+ ],
+ "what": "El cirujano quita la placa, los tornillos o los alambres que te pusieron por la fractura. Normalmente por el mismo corte.",
+ "why": "Cuando el hueso ya pegó, pero el metal estorba, duele o hay que quitarlo según el plan.",
+ "duration": "la cirugía suele durar de 30 a 90 minutos; muchas veces te vas a casa el mismo día o al siguiente",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Cuándo y dónde te pusieron el metal. El resumen médico ayuda",
+  "Enfermedades del corazón, de los pulmones o diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Radiografías",
+   "text": "Normalmente antes de la cirugía se necesita una radiografía reciente. Pregunta en la clínica."
+  }
+ ],
+ "bring": [
+  "El resumen de la cirugía anterior",
+  "Radiografías recientes",
+  "Tus documentos",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "Te ponen anestesia general o local, según la cirugía",
+  "El cirujano abre la cicatriz anterior",
+  "Saca los tornillos y quita la placa o el clavo",
+  "Cierra la herida y la venda"
+ ],
+ "feel": [
+  "La zona operada duele unos días. Te dan analgésicos",
+  "Un poco de hinchazón. Es normal"
+ ],
+ "after": [
+  "El esfuerzo se aumenta poco a poco: el hueso donde estaban los tornillos se refuerza en unas semanas",
+  "No mojes el vendaje hasta que te lo permitan",
+  "Los puntos se quitan normalmente en 10 a 14 días"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38, o enrojecimiento y pus en la herida",
+  "Dolor fuerte y repentino o deformidad después de un esfuerzo: ve al médico de inmediato",
+  "Falta de aire o dolor en el pecho de repente: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es obligatorio quitar el metal?",
+   "a": "No. Muchas veces se puede dejar. Se decide junto con el cirujano."
+  },
+  {
+   "q": "¿Puedo apoyar el peso de inmediato?",
+   "a": "Normalmente sí, con cuidado, pero sin saltos ni cargas pesadas las primeras semanas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te quitan el material. Lleva el resumen de la cirugía anterior y tus radiografías."
+  }
+ ]
+}

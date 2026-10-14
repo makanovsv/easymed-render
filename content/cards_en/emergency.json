@@ -1,0 +1,74 @@
+{
+ "title": "What to expect in the emergency room",
+ "also": [
+  "emergency room",
+  "ER",
+  "emergency department",
+  "A&E"
+ ],
+ "what": "The emergency department is the part of a hospital where the ambulance brings you, or you come yourself with an urgent problem. You are examined there, and a decision is made about admission.",
+ "why": "For sudden pain, an injury, a high fever, or when an ambulance has brought you to hospital.",
+ "duration": "usually from 1 to several hours, depending on tests and how busy it is",
+ "tell_doctor": [
+  "What happened, and when it started",
+  "All your medicines and allergies",
+  "Long-term conditions and surgeries",
+  "If you are pregnant",
+  "What you already took at home"
+ ],
+ "prepare": [
+  {
+   "title": "Documents",
+   "text": "Keep your ID and health insurance card or medical record in one place at home, so you can grab them quickly."
+  },
+  {
+   "title": "Medicines",
+   "text": "Bring a list of your medicines, or the packs themselves."
+  },
+  {
+   "title": "Someone with you",
+   "text": "If possible, have a family member with you."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your medicines",
+  "Discharge papers, if you have them",
+  "Your phone and charger"
+ ],
+ "steps": [
+  "You are registered and briefly asked about the problem",
+  "A nurse checks your blood pressure, pulse, and temperature",
+  "The sickest patients are seen first, so the queue is not by arrival time",
+  "A doctor examines you and orders blood tests, an X-ray, or an ultrasound",
+  "Based on the results, you go home or are admitted to a ward"
+ ],
+ "feel": [
+  "Waiting can be long. It does not mean you have been forgotten",
+  "If you get worse while waiting, tell a nurse right away"
+ ],
+ "after": [
+  "If you are sent home, ask for a discharge summary and advice",
+  "If you are admitted, you will be taken to the ward",
+  "Ask who to see next"
+ ],
+ "red_flags": [
+  "If you get worse while waiting, with severe pain, trouble breathing, or feeling faint: tell a nurse right away"
+ ],
+ "faq": [
+  {
+   "q": "Why was someone who came later seen first?",
+   "a": "In the emergency department, those who are sicker are seen first. This is done to save the most serious cases."
+  },
+  {
+   "q": "Can I come without an ambulance?",
+   "a": "Usually yes, if your condition allows. Check which hospital handles your problem."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Keep your ID and medicine list in one place, in case you need to go to hospital urgently."
+  }
+ ]
+}

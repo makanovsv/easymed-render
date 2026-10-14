@@ -1,0 +1,76 @@
+{
+ "title": "Tratamiento de la fisura anal",
+ "also": [
+  "fisura anal",
+  "grieta en el ano",
+  "fisura en el recto",
+  "dolor al evacuar"
+ ],
+ "what": "El médico revisa la fisura junto al ano y elige un tratamiento. Normalmente son pomadas, alimentación y baños de asiento; a veces, un procedimiento pequeño.",
+ "why": "Si tienes dolor y sangre al ir al baño o después.",
+ "duration": "la consulta suele durar de 15 a 30 minutos; con tratamiento, sanar suele tomar unas semanas",
+ "tell_doctor": [
+  "Desde cuándo te duele y si hay sangre",
+  "Si tienes estreñimiento o diarrea",
+  "Todos tus medicamentos",
+  "Si estás embarazada o diste a luz hace poco",
+  "Si te han operado en esa zona"
+ ],
+ "prepare": [
+  {
+   "title": "Intestino",
+   "text": "Normalmente no hace falta limpiar el intestino. Si será un procedimiento, pregunta en la clínica."
+  },
+  {
+   "title": "Higiene",
+   "text": "En la mañana, lávate con agua tibia."
+  },
+  {
+   "title": "Dolor",
+   "text": "Si te duele mucho, el médico te revisará con mucho cuidado. Díselo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias",
+  "Te acuestas de lado con las piernas dobladas",
+  "El médico revisa la zona del ano",
+  "Si duele mucho, la revisión profunda se puede dejar para después",
+  "El médico te indica el tratamiento y te explica cómo usarlo",
+  "Si las pomadas no ayudan, pueden proponer una inyección o una cirugía pequeña"
+ ],
+ "feel": [
+  "La revisión puede doler. El médico va con cuidado",
+  "Puede dar pena. Para el médico es un tema normal"
+ ],
+ "after": [
+  "Come más verduras y frutas y toma agua: las heces deben ser blandas",
+  "Baños de asiento tibios, si te los recomienda el médico",
+  "Lávate después de ir al baño",
+  "Pomadas y supositorios, solo los que indicó el médico"
+ ],
+ "red_flags": [
+  "Sangrado fuerte",
+  "Fiebre de más de 38, con dolor que aumenta o hinchazón junto al ano"
+ ],
+ "faq": [
+  {
+   "q": "¿La fisura se cura sin cirugía?",
+   "a": "Muchas veces sí, si se trata y las heces se hacen blandas. La cirugía se necesita si el tratamiento no ayuda."
+  },
+  {
+   "q": "¿Por qué duele tanto ir al baño?",
+   "a": "La fisura se irrita y el músculo se aprieta con un espasmo. El tratamiento quita el espasmo y el dolor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta por la fisura. En la mañana lávate con agua tibia y lleva la lista de tus medicamentos."
+  }
+ ]
+}

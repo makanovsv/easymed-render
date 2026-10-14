@@ -1,0 +1,84 @@
+{
+ "title": "Anestesia peridural no parto",
+ "also": [
+  "peridural",
+  "analgesia de parto",
+  "anestesia no parto",
+  "epidural"
+ ],
+ "what": "O anestesista coloca um tubinho fino nas costas, perto da medula. Por ele entra o remédio, e a dor das contrações fica bem mais fraca.",
+ "why": "Quando as contrações doem muito e a gestante quer analgesia. Às vezes o médico indica por motivo de saúde.",
+ "duration": "a colocação leva normalmente de 10 a 20 minutos, o efeito começa em 10 a 20 minutos e dura até o fim do parto",
+ "tell_doctor": [
+  "Remédios que afinam o sangue e quando foi a última dose",
+  "Problemas de coagulação do sangue",
+  "Cirurgias e lesões na coluna",
+  "Alergia a anestésicos e analgésicos",
+  "Doenças do coração e doenças neurológicas"
+ ],
+ "prepare": [
+  {
+   "title": "Antes",
+   "text": "Converse sobre analgesia com o médico antes do parto. Você pode dizer que quer a peridural."
+  },
+  {
+   "title": "Exames",
+   "text": "Normalmente é preciso um exame de sangue recente de coagulação e plaquetas."
+  },
+  {
+   "title": "Decisão",
+   "text": "O anestesista explica os benefícios e os riscos. Você assina um termo de consentimento."
+  }
+ ],
+ "bring": [
+  "A caderneta da gestante",
+  "Resultados de exames",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Colocam um acesso na veia e o soro",
+  "Você senta, inclina para a frente e arqueia as costas, ou deita de lado",
+  "A pele das costas é limpa e anestesiada",
+  "O anestesista introduz a agulha e passa o tubinho fino, e a agulha é retirada",
+  "É importante não se mexer. Avise quando vier uma contração, e o médico espera",
+  "O tubinho é preso com esparadrapo, e o remédio é aplicado",
+  "A obstetriz acompanha a pressão e o coração do bebê"
+ ],
+ "feel": [
+  "A anestesia da pele arde",
+  "Pressão nas costas durante a colocação",
+  "As pernas ficam pesadas, quentes e dormentes",
+  "As contrações viram uma pressão, e não uma dor forte"
+ ],
+ "after": [
+  "O tubinho é retirado depois do parto. Não dói",
+  "A sensibilidade das pernas volta em algumas horas",
+  "Levantar pela primeira vez, só com ajuda da equipe",
+  "Um pouco de dor nas costas no local da agulha pode acontecer e passa"
+ ],
+ "red_flags": [
+  "Dor de cabeça forte que piora sentada e em pé: avise o médico na hora",
+  "Dormência ou fraqueza nas pernas que não passa: avise o médico na hora",
+  "Febre, dor e vermelhidão no local da agulha"
+ ],
+ "faq": [
+  {
+   "q": "A peridural faz mal ao bebê?",
+   "a": "Normalmente não. Muito pouco remédio chega ao sangue do bebê. A obstetriz acompanha o coração dele."
+  },
+  {
+   "q": "Vou conseguir fazer força?",
+   "a": "Normalmente sim. As contrações viram pressão, e a obstetriz diz a hora de fazer força."
+  },
+  {
+   "q": "Pode ser feita a qualquer momento?",
+   "a": "Normalmente na fase ativa do parto. Às vezes já é tarde ou há contraindicação. Quem decide é o anestesista."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Converse antes com o médico sobre a analgesia no parto. Deixe a caderneta da gestante e os exames na bolsa da maternidade."
+  }
+ ]
+}

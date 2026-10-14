@@ -1,0 +1,90 @@
+{
+ "title": "ERCP",
+ "also": [
+  "ERCP",
+  "endoscopic retrograde cholangiopancreatography",
+  "bile duct endoscopy",
+  "ERCP stent"
+ ],
+ "what": "A flexible tube with a camera is passed through your mouth into the first part of the small bowel. Through it, contrast dye goes into the bile and pancreatic ducts, and X-rays are taken. Stones can be removed or a small tube called a stent placed right away.",
+ "why": "For stones in the bile duct, jaundice from a blocked duct, narrowed ducts, or to replace a stent.",
+ "duration": "the procedure itself usually takes 30 to 90 minutes; a hospital stay of at least one day is usually needed",
+ "tell_doctor": [
+  "Blood thinners. They often need to be changed for a short time. Your doctor decides",
+  "Allergy to iodine, contrast dye, or medicines",
+  "Diabetes. Your medicines and fasting will need to be adjusted",
+  "Heart, lung, or kidney disease",
+  "If you had stomach surgery",
+  "If you are or might be pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Fasting",
+   "text": "Usually no food for 6 to 8 hours and no drinks for 2 to 4 hours before. Your doctor will give you the exact times."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor. They will decide what to take and when."
+  },
+  {
+   "title": "Tests",
+   "text": "Blood and clotting tests are usually needed. The clinic will give you the list."
+  },
+  {
+   "title": "Consent",
+   "text": "The procedure, its risks, and sedation will be discussed with you. Ask all your questions before you sign."
+  }
+ ],
+ "bring": [
+  "Your referral and discharge papers",
+  "Ultrasound, CT, or MRI results",
+  "A list of your medicines",
+  "Things for 1 to 2 days in hospital"
+ ],
+ "steps": [
+  "An IV line is put in a vein",
+  "Your throat is sprayed, and a mouth guard is put in",
+  "Medicine is given, and you fall asleep or doze",
+  "You usually lie on your stomach",
+  "The doctor passes the tube through your mouth into the bowel and finds the duct opening",
+  "Contrast is given and X-rays are taken",
+  "If needed, stones are removed or a stent is placed"
+ ],
+ "feel": [
+  "During the procedure, you usually sleep and feel nothing",
+  "Afterward, your throat may be sore and your belly bloated",
+  "You will feel sleepy for a while"
+ ],
+ "after": [
+  "You stay under a doctor's watch",
+  "You can eat and drink when the doctor allows, usually not right away",
+  "After sedation, do not drive that day",
+  "The doctor will explain the results after the procedure"
+ ],
+ "red_flags": [
+  "Severe pain in the belly or back: tell the doctor right away. At home, call emergency services",
+  "Vomiting blood or black stools: call emergency services",
+  "A fever over 38°C (100.4°F), chills, or yellowing skin: call your doctor or emergency services",
+  "Trouble breathing or chest pain: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Is it surgery?",
+   "a": "It is an endoscopic procedure with no cuts. But it is more complex than a regular upper endoscopy, so you are watched in hospital."
+  },
+  {
+   "q": "What is the main risk?",
+   "a": "Most often, inflammation of the pancreas after the procedure. That is why the doctor watches your pain and blood tests."
+  },
+  {
+   "q": "Will the stent need to be changed?",
+   "a": "If a stent was placed, your doctor will tell you if and when it needs to be removed or replaced."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "ERCP tomorrow. Check the time after which you cannot eat or drink, and pack for the hospital."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Depilação a laser",
+ "also": [
+  "depilação a laser",
+  "remoção de pelos a laser",
+  "laser para pelos",
+  "fotodepilação"
+ ],
+ "what": "O laser aquece a raiz dos pelos e danifica ela. Os pelos caem aos poucos e depois crescem menos.",
+ "why": "Quando você quer tirar pelos do corpo ou do rosto por bastante tempo.",
+ "duration": "uma sessão leva normalmente de 10 minutos a uma hora, dependendo da área. A série tem normalmente de 6 a 10 sessões",
+ "tell_doctor": [
+  "Bronzeado recente",
+  "Gravidez",
+  "Remédios que aumentam a sensibilidade ao sol",
+  "Herpes, se a área for perto dos lábios",
+  "Tendência a manchas e cicatrizes"
+ ],
+ "prepare": [
+  {
+   "title": "Raspar",
+   "text": "Normalmente, de 1 a 2 dias antes, os pelos são raspados. Não pode arrancar com pinça nem cera. A raiz precisa estar lá."
+  },
+  {
+   "title": "Sol",
+   "text": "Nas 2 semanas antes, não tome sol e não use autobronzeador."
+  },
+  {
+   "title": "Pele",
+   "text": "No dia, não passe creme nem desodorante na área."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Protetor solar",
+  "Roupa confortável"
+ ],
+ "steps": [
+  "O profissional examina a pele e os pelos",
+  "Você coloca óculos de proteção",
+  "Às vezes passam um gel gelado",
+  "O laser passa pela área, parte por parte",
+  "A pele é resfriada, e passam um produto calmante"
+ ],
+ "feel": [
+  "A sensação é como estalos de elástico na pele, ou calor",
+  "Em áreas sensíveis, pode incomodar mais",
+  "Depois, vermelhidão e um leve inchaço em volta dos pelos por algumas horas"
+ ],
+ "after": [
+  "Por alguns dias, não tome sol e passe protetor solar",
+  "Por 1 a 2 dias, sem sauna, banho muito quente e piscina",
+  "Depois de 1 a 3 semanas, os pelos tratados começam a cair. É normal",
+  "A próxima sessão, no prazo que o profissional indicar"
+ ],
+ "red_flags": [
+  "Bolhas, dor forte, queimadura",
+  "Manchas na pele que não passam"
+ ],
+ "faq": [
+  {
+   "q": "Os pelos vão embora para sempre?",
+   "a": "Normalmente ficam bem menos, mais finos e mais claros. Às vezes é preciso uma sessão de manutenção por ano."
+  },
+  {
+   "q": "Por que são tantas sessões?",
+   "a": "O laser age só nos pelos que estão crescendo agora. Os outros ainda estão parados e são tratados na próxima vez."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a depilação a laser. Raspe os pelos da área, não tome sol e não passe creme."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Testosterona",
+ "also": [
+  "testosterona",
+  "hormônio masculino",
+  "testosterona livre"
+ ],
+ "what": "É um exame de sangue colhido da veia. Mostra o nível de testosterona, um hormônio que homens e mulheres têm.",
+ "why": "Nos homens, com queda da libido, cansaço ou dificuldade para ter filhos. Nas mulheres, com menstruação irregular, acne ou excesso de pelos.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Se usa hormônios ou suplementos esportivos",
+  "Se toma pílula anticoncepcional",
+  "O dia do ciclo, se você é mulher",
+  "Se trabalha à noite ou dorme mal"
+ ],
+ "prepare": [
+  {
+   "title": "Horário",
+   "text": "Normalmente de manhã, até umas 11 horas. Para mulheres, o dia do ciclo quem diz é o médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente em jejum: de 8 a 12 horas sem comer. Água pura pode. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "No dia anterior, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma. Ele decide se algo precisa mudar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos, sem dobrar o braço",
+  "Você já pode comer e voltar à rotina",
+  "O resultado sai normalmente em 1 a 3 dias. O prazo quem informa é o laboratório",
+  "Às vezes o médico pede para repetir. O nível muda de um dia para o outro"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que a testosterona é medida de manhã?",
+   "a": "De manhã ela está mais alta. Os valores de referência são para o exame da manhã."
+  },
+  {
+   "q": "Mulher precisa fazer exame de testosterona?",
+   "a": "Sim, se o médico pediu. A mulher também tem esse hormônio, só que em menor quantidade."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã de manhã você tem exame de testosterona. Depois do jantar, não coma. Durma bem e não treine."
+  }
+ ]
+}

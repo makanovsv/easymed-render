@@ -1,0 +1,78 @@
+{
+ "title": "Endoscopia en niños",
+ "also": [
+  "endoscopia pediátrica",
+  "endoscopia superior en niños",
+  "panendoscopia en niños",
+  "gastroscopia infantil"
+ ],
+ "what": "El médico revisa el esófago, el estómago y el inicio del intestino del niño con un tubo delgado y flexible con cámara, por la boca.",
+ "why": "Con dolor de estómago frecuente, vómito, si se sospecha gastritis o úlcera, si tragó un objeto, con sangrado o si no sube bien de peso.",
+ "duration": "el procedimiento suele durar de 5 a 15 minutos; después de la sedación, cerca de una hora de observación; el reporte suele estar de inmediato",
+ "tell_doctor": [
+  "Todos los medicamentos del niño",
+  "Alergias",
+  "Enfermedades del corazón, los pulmones o convulsiones",
+  "Si el niño tuvo gripa hace poco",
+  "Si el niño tuvo problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente el niño no come 6 horas antes y no bebe 2 horas antes. En bebés los tiempos pueden ser más cortos. Pregunta en la clínica."
+  },
+  {
+   "title": "Sedación",
+   "text": "A los niños casi siempre se les hace dormidos. El anestesiólogo te explicará antes cómo será."
+  },
+  {
+   "title": "Plática",
+   "text": "Explícale al niño con palabras sencillas: el doctor va a ver su pancita con una camarita y él va a dormir."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Sus análisis y reportes anteriores",
+  "Su juguete favorito",
+  "Ropa de cambio y agua para después"
+ ],
+ "steps": [
+  "Pesan al niño y el anestesiólogo platica con él",
+  "Normalmente uno de los papás se queda con el niño mientras se duerme",
+  "El niño se duerme con una mascarilla o con medicamento en la vena",
+  "El médico mete el tubo delgado por la boca",
+  "Revisa el esófago, el estómago y el intestino, y si hace falta toma un pedacito de tejido",
+  "El niño despierta en el cuarto y te llaman"
+ ],
+ "feel": [
+  "Dormido, el niño no siente nada",
+  "Después puede estar adormilado, inquieto o con picor en la garganta",
+  "A veces tiene un poco de náuseas"
+ ],
+ "after": [
+  "Normalmente puede beber y comer en 1 a 2 horas. Empieza con agua",
+  "El niño puede estar decaído hasta la noche. Es normal",
+  "El reporte suele estar de inmediato; la biopsia, en 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Vómito con sangre o heces negras: llama a emergencias",
+  "Dolor fuerte en el abdomen o el pecho, o el niño respira con dificultad: llama a emergencias",
+  "Fiebre alta en las primeras 24 horas: avísale al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo estar con mi hijo?",
+   "a": "Normalmente uno de los papás está con el niño mientras se duerme y a su lado cuando despierta. Pregunta las reglas en la clínica."
+  },
+  {
+   "q": "¿Se puede hacer sin anestesia?",
+   "a": "A los adolescentes a veces se les hace con anestesia en la garganta, sin dormir. A los niños pequeños casi siempre dormidos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la endoscopia de tu hijo. Dale de comer y beber solo hasta la hora que te dijo la clínica. Lleva su juguete."
+  }
+ ]
+}

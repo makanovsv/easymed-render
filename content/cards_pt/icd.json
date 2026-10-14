@@ -1,0 +1,83 @@
+{
+ "title": "Implante de cardiodesfibrilador (CDI)",
+ "also": [
+  "cardiodesfibrilador implantável",
+  "CDI",
+  "desfibrilador implantável",
+  "implante de CDI"
+ ],
+ "what": "Um pequeno aparelho é colocado sob a pele abaixo da clavícula, e os eletrodos são levados pela veia até o coração. Se o ritmo ficar perigoso, o aparelho corrige sozinho, às vezes com um choque.",
+ "why": "Com risco alto de arritmias perigosas, por exemplo depois de uma parada cardíaca ou com o coração muito enfraquecido.",
+ "duration": "a cirurgia leva normalmente de 1 a 2 horas, com internação normalmente de 1 a 3 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergias, inclusive a antibióticos e antissépticos",
+  "Com que mão você escreve. O aparelho normalmente vai do outro lado",
+  "Doenças dos rins, diabetes",
+  "Se já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, ecocardiograma. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come por algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Higiene",
+   "text": "Tome banho na véspera. Às vezes pedem para raspar os pelos do peito."
+  },
+  {
+   "title": "Coisas",
+   "text": "Roupa confortável que abre na frente, seus remédios, carregador."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados de exames",
+  "Documentos e lista de remédios",
+  "Coisas para ficar no hospital de 1 a 3 dias"
+ ],
+ "steps": [
+  "Colocam um acesso na veia e dão um calmante",
+  "A pele abaixo da clavícula é anestesiada com injeção",
+  "O médico faz um pequeno corte e leva os eletrodos pela veia até o coração",
+  "Os eletrodos são ligados ao aparelho",
+  "O aparelho é colocado sob a pele, e o corte é suturado",
+  "Testam o funcionamento do aparelho, às vezes com anestesia rápida"
+ ],
+ "feel": [
+  "A injeção da anestesia",
+  "Pressão e puxões durante a cirurgia",
+  "Dor no corte por alguns dias. Dão analgésico"
+ ],
+ "after": [
+  "Por algumas semanas, não levante o braço do lado do aparelho acima do ombro",
+  "Sem pegar peso por cerca de um mês",
+  "Você recebe a carteirinha do aparelho. Ande sempre com ela",
+  "Revisões do aparelho, conforme o calendário do médico",
+  "Sobre ímãs, celular e detectores de metal no aeroporto, o médico explica"
+ ],
+ "red_flags": [
+  "O aparelho deu um choque e você está mal, ou deu vários choques seguidos: ligue para a emergência",
+  "Febre acima de 38 graus, vermelhidão, pus ou inchaço sobre o aparelho",
+  "Falta de ar forte, desmaio: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O que eu sinto se o aparelho der um choque?",
+   "a": "Um tranco forte no peito por um instante. Se for um choque só e você estiver bem, avise o médico. Se estiver mal, ligue para a emergência."
+  },
+  {
+   "q": "Posso dirigir com o aparelho?",
+   "a": "Há restrições, principalmente no começo e depois de choques. Os prazos, o médico diz."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o implante do desfibrilador. Tome banho, separe os documentos e as coisas. Comida, só até o horário que a clínica indicou."
+  }
+ ]
+}

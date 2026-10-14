@@ -1,0 +1,76 @@
+{
+ "title": "Prueba del sudor",
+ "also": [
+  "prueba del sudor",
+  "cloruros en sudor",
+  "prueba de fibrosis quística",
+  "test del sudor en niños"
+ ],
+ "what": "En la piel del brazo provocan un poco de sudor y lo recogen. Miden la sal del sudor. Esto ayuda a revisar si hay fibrosis quística.",
+ "why": "Si el tamiz neonatal mostró riesgo de fibrosis quística, con bronquitis y neumonías frecuentes, si el niño no sube bien de peso, o con heces grasosas.",
+ "duration": "normalmente de 30 a 60 minutos; el resultado muchas veces está el mismo día",
+ "tell_doctor": [
+  "Si el niño tiene eccema o irritación en los brazos",
+  "Si toma cortisona o diuréticos",
+  "Si ahora está enfermo o tiene fiebre",
+  "El peso del bebé y su edad en semanas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta preparación especial. Dale de comer como siempre."
+  },
+  {
+   "title": "Piel",
+   "text": "El día de la prueba no le pongas cremas ni aceites en los brazos."
+  },
+  {
+   "title": "Salud",
+   "text": "Si el niño está enfermo, pregunta si conviene cambiar la fecha."
+  },
+  {
+   "title": "Niños",
+   "text": "Lleva un juguete, un libro o caricaturas. Hay que estar sentado como media hora."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los documentos del niño",
+  "El resultado del tamiz neonatal, si lo tienes",
+  "Un juguete y un refrigerio"
+ ],
+ "steps": [
+  "Lavan y secan la piel del antebrazo",
+  "Ponen dos electrodos pequeños con gel y pasan una corriente muy débil unos 5 minutos",
+  "Quitan los electrodos y en ese lugar ponen un colector de sudor",
+  "Durante unos 30 minutos el niño está sentado tranquilo, con el brazo tapado",
+  "Quitan el colector y lo mandan al laboratorio"
+ ],
+ "feel": [
+  "Un ligero cosquilleo o calor bajo los electrodos",
+  "No duele, pero al niño le puede aburrir la espera",
+  "Después la piel puede quedar un poco roja"
+ ],
+ "after": [
+  "Lo rojo se quita en unas horas",
+  "El resultado muchas veces está el mismo día o en 1 a 2 días",
+  "A veces la prueba se repite si se juntó poco sudor"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿La corriente es peligrosa para el niño?",
+   "a": "No. La corriente es muy débil. Solo ayuda a que la piel suelte sudor."
+  },
+  {
+   "q": "¿Y si el resultado sale en el límite?",
+   "a": "El médico puede pedir repetir la prueba o un análisis genético."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la prueba del sudor. No le pongas crema en los brazos a tu hijo y lleva un juguete para la media hora de espera."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Exames de trombofilia",
+ "also": [
+  "trombofilia",
+  "genética da trombofilia",
+  "anticoagulante lúpico",
+  "anticorpos antifosfolípides",
+  "exames de coagulação"
+ ],
+ "what": "É um grupo de exames de sangue colhido da veia. Eles verificam se há uma tendência maior de formar coágulos.",
+ "why": "Depois de trombose, principalmente em pessoas jovens, com abortos de repetição, ou antes de pílula hormonal ou fertilização in vitro, se houve trombose na família.",
+ "duration": "a coleta leva de 5 a 10 minutos, o resultado sai normalmente em 3 a 14 dias",
+ "tell_doctor": [
+  "Se toma remédios que afinam o sangue",
+  "Se usa hormônios ou anticoncepcional",
+  "Se está grávida ou teve bebê há pouco tempo",
+  "Se teve trombose ou cirurgia há pouco tempo"
+ ],
+ "prepare": [
+  {
+   "title": "Momento",
+   "text": "Alguns exames dão resultado falso logo depois de uma trombose, na gravidez ou com certos remédios. O momento certo quem escolhe é o médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente em jejum de 8 a 12 horas. Água pode. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Nunca suspenda por conta própria os remédios que afinam o sangue. Fale com o médico, ele decide."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Sem álcool e sem treino pesado. De manhã, não fume."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Lista de remédios",
+  "Exames de coagulação anteriores, se tiver"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam o garrote acima do cotovelo e limpam a pele",
+  "O sangue vai para alguns tubos",
+  "Retiram a agulha e colocam um algodão"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão"
+ ],
+ "after": [
+  "Aperte o algodão por mais tempo, se você toma remédio que afina o sangue",
+  "O exame genético é feito uma vez na vida. Outros exames às vezes são repetidos depois de 12 semanas",
+  "Converse sobre o resultado com o médico, o hematologista ou o ginecologista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Encontraram uma mutação de trombofilia. É perigoso?",
+   "a": "Muitas dessas variantes são comuns e aumentam pouco o risco. O que isso significa para você, o médico explica."
+  },
+  {
+   "q": "Por que preciso repetir o exame?",
+   "a": "Alguns anticorpos aparecem por um tempo depois de uma infecção. Se o resultado se confirma depois de 12 semanas, isso é importante."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exames de trombofilia. Depois do jantar, não coma. Não suspenda por conta própria os remédios que afinam o sangue."
+  }
+ ]
+}

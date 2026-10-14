@@ -1,0 +1,58 @@
+{
+ "title": "Radiografía dental",
+ "also": [
+  "radiografía periapical",
+  "radiografía de aleta de mordida",
+  "rayos X del diente",
+  "placa dental"
+ ],
+ "what": "Es una radiografía pequeña de uno o varios dientes. Muestra caries entre los dientes y cómo está la raíz.",
+ "why": "Para encontrar caries escondidas y revisar las raíces, las resinas y el hueso alrededor del diente.",
+ "duration": "normalmente de 1 a 5 minutos; la imagen sale de inmediato",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si te tomaron radiografías hace poco"
+ ],
+ "prepare": [
+  {
+   "title": "Accesorios",
+   "text": "Quítate aretes, piercings de la boca o la dentadura postiza, si te lo piden."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La orden médica, si tienes"
+ ],
+ "steps": [
+  "Te sientas en el sillón y te pueden poner un mandil de protección",
+  "Te ponen un sensor pequeño o una placa dentro de la boca, detrás de los dientes",
+  "Te piden morder el soporte y no moverte",
+  "El aparato toma la imagen en una fracción de segundo",
+  "Sacan el sensor y la imagen aparece en la pantalla"
+ ],
+ "feel": [
+  "El sensor en la boca es un poco incómodo",
+  "A algunas personas les da ganas de vomitar. Respira por la nariz"
+ ],
+ "after": [
+  "No hay ninguna restricción",
+  "El médico ve la imagen de inmediato y te dice qué sigue"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Es peligroso?",
+   "a": "La radiación es muy poca. La radiografía se toma cuando se necesita para el tratamiento."
+  },
+  {
+   "q": "¿Se puede en el embarazo?",
+   "a": "Si es necesaria, se toma con protección. Siempre dile al médico si estás embarazada."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "En una hora es tu radiografía dental. Lleva tu identificación."
+  }
+ ]
+}

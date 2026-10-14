@@ -1,0 +1,72 @@
+{
+ "title": "Exame para óculos",
+ "also": [
+  "receita de óculos",
+  "exame de grau",
+  "exame de refração"
+ ],
+ "what": "O médico examina a vista e escolhe as lentes com que você enxerga nítido e com conforto. Você recebe a receita dos óculos.",
+ "why": "Quando piorou a visão de longe ou de perto, os olhos cansam ou a cabeça dói ao ler.",
+ "duration": "normalmente de 20 a 40 minutos; a receita sai na hora",
+ "tell_doctor": [
+  "Para que você precisa dos óculos: dirigir, computador, leitura",
+  "Se já usou óculos ou lentes de contato",
+  "Doenças dos olhos, diabetes, pressão alta",
+  "Dor de cabeça e cansaço nos olhos"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes de contato",
+   "text": "Se você usa lentes de contato, normalmente é preciso tirá-las antes. Com quantas horas de antecedência, confirme com a clínica."
+  },
+  {
+   "title": "Descanso",
+   "text": "É melhor não chegar depois de muitas horas de tela."
+  }
+ ],
+ "bring": [
+  "Os óculos antigos",
+  "Documento de identidade",
+  "A receita anterior, se tiver"
+ ],
+ "steps": [
+  "Um aparelho, sem encostar, mede como o olho foca",
+  "Você olha uma tabela de letras com cada olho",
+  "Colocam uma armação de teste e trocam as lentes",
+  "Você diz com quais lentes enxerga melhor",
+  "Se precisar, testam a visão de perto",
+  "O médico examina os olhos e faz a receita"
+ ],
+ "feel": [
+  "O exame não dói",
+  "Às vezes é difícil escolher a melhor lente. É normal, diga o que sente"
+ ],
+ "after": [
+  "Com a receita, vá a uma ótica",
+  "Normalmente leva alguns dias para se acostumar com os óculos novos",
+  "Se depois de 1 a 2 semanas ainda incomodar, volte ao médico"
+ ],
+ "red_flags": [
+  "A visão piorou de repente, ou apareceram flashes, manchas ou uma \"cortina\" na frente do olho: procure o oftalmologista com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Posso comprar óculos prontos sem exame?",
+   "a": "Os óculos prontos não levam em conta a diferença entre os olhos e outros detalhes. É melhor fazer com o médico."
+  },
+  {
+   "q": "De quanto em quanto tempo examinar a vista?",
+   "a": "Normalmente a cada 1 ou 2 anos, ou como o médico indicar."
+  },
+  {
+   "q": "Por que fico tonto com os óculos novos?",
+   "a": "Os olhos precisam se acostumar. Normalmente são alguns dias."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a 2 horas é o exame para óculos. Leve os óculos antigos."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Inyección subcutánea",
+ "also": [
+  "inyección subcutánea",
+  "inyección debajo de la piel",
+  "inyección en el abdomen",
+  "vía subcutánea"
+ ],
+ "what": "El medicamento se pone con una aguja delgada y corta en la capa de grasa debajo de la piel, normalmente en el abdomen, el brazo o el muslo.",
+ "why": "Así se ponen la insulina, los medicamentos contra coágulos, algunas hormonas y vacunas, según indique el médico.",
+ "duration": "la inyección dura menos de un minuto",
+ "tell_doctor": [
+  "Alergias a medicamentos",
+  "Medicamentos que hacen la sangre más líquida",
+  "Si antes te salieron moretones o bolitas después de las inyecciones"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Normalmente no hace falta. Puedes comer y beber."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa que permita descubrir fácilmente el abdomen o el brazo."
+  }
+ ],
+ "bring": [
+  "La receta del médico",
+  "El medicamento, si lo compraste tú"
+ ],
+ "steps": [
+  "La enfermera revisa la receta y el medicamento",
+  "Elige el lugar: el abdomen alrededor del ombligo, el brazo o el muslo",
+  "Limpia la piel con antiséptico",
+  "Toma un pliegue de piel y mete la aguja rápido",
+  "Pone el medicamento despacio y saca la aguja"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "Algunos medicamentos arden un poco al entrar"
+ ],
+ "after": [
+  "No te frotes el lugar, salvo que la enfermera te diga otra cosa",
+  "Puede salir un moretón pequeño que se quita solo",
+  "Si son varias inyecciones, se cambia de lugar cada vez"
+ ],
+ "red_flags": [
+  "Hinchazón de la cara o los labios, dificultad para respirar o ronchas en el cuerpo: llama a emergencias",
+  "El lugar de la inyección está muy rojo, caliente y duele"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué las inyecciones en el abdomen?",
+   "a": "Ahí hay mucha grasa debajo de la piel y el medicamento se absorbe parejo. No duele más que en el brazo."
+  },
+  {
+   "q": "¿Por qué salen moretones con las inyecciones en el abdomen?",
+   "a": "Con los medicamentos contra coágulos los moretones son comunes. Si son muy grandes, díselo al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu inyección. Usa ropa que te permita descubrir fácilmente el abdomen o el brazo."
+  }
+ ]
+}

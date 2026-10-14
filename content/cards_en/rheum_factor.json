@@ -1,0 +1,70 @@
+{
+ "title": "Rheumatoid factor and anti-CCP",
+ "also": [
+  "rheumatoid factor",
+  "RF test",
+  "anti-CCP",
+  "rheumatoid arthritis blood test"
+ ],
+ "what": "This is a blood test from a vein. It looks for antibodies that can show up with joint inflammation.",
+ "why": "For pain, swelling, and morning stiffness in the joints, especially in the hands and feet.",
+ "duration": "the blood draw takes a few minutes; results usually come in 1 to 5 days",
+ "tell_doctor": [
+  "Which joints hurt and for how long",
+  "If your hands feel stiff for more than half an hour in the morning",
+  "What medicines you take, especially steroids and painkillers"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Best in the morning, fasting for 8 to 12 hours. Water is fine. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours, no alcohol and no hard workouts. Best not to smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "Past tests and joint X-rays, if you have them"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in 1 to 5 days. The lab will tell you when",
+  "A rheumatologist will look at the result together with an exam"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Does a positive rheumatoid factor mean rheumatoid arthritis?",
+   "a": "Not always. It can show up in healthy people and in other illnesses. Your doctor makes the diagnosis."
+  },
+  {
+   "q": "Why test anti-CCP together with rheumatoid factor?",
+   "a": "Together they are more accurate. Anti-CCP can turn positive earlier."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Rheumatoid factor and anti-CCP test tomorrow. Do not eat after dinner. Plain water is fine."
+  }
+ ]
+}

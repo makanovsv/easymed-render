@@ -1,0 +1,70 @@
+{
+ "title": "Blood electrolytes (potassium, sodium, calcium)",
+ "also": [
+  "electrolyte panel",
+  "potassium test",
+  "sodium test",
+  "calcium test",
+  "basic metabolic panel"
+ ],
+ "what": "This is a blood test from a vein. It shows the level of salts in your blood that your heart, muscles, and nerves need.",
+ "why": "For weakness, cramps, skipped heartbeats, while taking water pills, after vomiting or diarrhea, or with kidney disease.",
+ "duration": "the blood draw takes a few minutes; results usually come the next day",
+ "tell_doctor": [
+  "What medicines you take, especially water pills and blood pressure pills",
+  "If you take potassium, calcium, or vitamin D",
+  "If you had vomiting or diarrhea in the last few days"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually fasting: no food for 8 to 12 hours. Plain water is fine. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours, no alcohol and no hard workouts. Best not to smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow for a short time",
+  "Do not pump your fist hard. It can make potassium look higher",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in 1 day. The lab will tell you when"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why can potassium come out too high?",
+   "a": "If the band was on too long or you squeezed your fist hard. Then the doctor will ask you to repeat the test."
+  },
+  {
+   "q": "Do I need to fast?",
+   "a": "Usually yes. The test is done in the morning before eating. Check with the lab."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Electrolyte test tomorrow. Do not eat after dinner. Plain water is fine."
+  }
+ ]
+}

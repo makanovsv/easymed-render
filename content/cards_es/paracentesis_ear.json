@@ -1,0 +1,72 @@
+{
+ "title": "Punción del tímpano",
+ "also": [
+  "miringotomía",
+  "paracentesis del tímpano",
+  "drenaje del oído",
+  "punción del oído"
+ ],
+ "what": "El médico hace un piquete pequeño en el tímpano. Por ahí sale el pus o el líquido del oído.",
+ "why": "En una otitis fuerte, cuando el pus empuja el tímpano y el dolor no se quita, o cuando hay líquido detrás del tímpano por mucho tiempo.",
+ "duration": "el procedimiento suele durar unos minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes alergia a anestésicos",
+  "Si te han operado del oído",
+  "En un niño: desde cuándo le duele y cuánta fiebre tiene"
+ ],
+ "prepare": [
+  {
+   "title": "Anestesia",
+   "text": "Normalmente se hace con anestesia local; en niños, a veces con anestesia general. El médico te lo dirá."
+  },
+  {
+   "title": "Comida",
+   "text": "Si será con anestesia general, la clínica te dirá desde qué hora no comer."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Algodón o discos de algodón"
+ ],
+ "steps": [
+  "Te anestesian el oído con gotas o una inyección",
+  "Te sientas o te acuestas y te sostienen la cabeza",
+  "Con un cono o microscopio, el médico encuentra el tímpano",
+  "Con una aguja delgada hace un piquete pequeño",
+  "Aspiran el líquido o el pus",
+  "Te ponen un algodón en el oído"
+ ],
+ "feel": [
+  "Puede haber un dolor breve y agudo o un chasquido",
+  "Después, el dolor por la presión suele bajar rápido",
+  "Sale líquido del oído los primeros días"
+ ],
+ "after": [
+  "No mojes el oído hasta que el médico lo permita",
+  "Gotas y medicamentos, como te los indique el médico",
+  "El piquete normalmente cierra solo en unos días"
+ ],
+ "red_flags": [
+  "La fiebre sigue o sube, o hay dolor de cabeza fuerte",
+  "Hinchazón y dolor detrás de la oreja",
+  "Mareo fuerte o la cara se ve chueca: ve al médico de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿Voy a oír peor?",
+   "a": "Normalmente no. El piquete es pequeño y cierra solo."
+  },
+  {
+   "q": "¿Por qué no esperar a que se reviente solo?",
+   "a": "Un piquete cuidadoso del médico sana mejor que una ruptura."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "En 2 horas es tu procedimiento en el oído. Lleva la lista de tus medicamentos."
+  }
+ ]
+}

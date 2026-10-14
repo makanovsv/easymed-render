@@ -1,0 +1,71 @@
+{
+ "title": "Teste IGRA para tuberculose (QuantiFERON)",
+ "also": [
+  "QuantiFERON",
+  "IGRA",
+  "T-SPOT",
+  "exame de sangue para tuberculose",
+  "teste de interferon-gama"
+ ],
+ "what": "É um exame de sangue colhido da veia. Mostra se o corpo já teve contato com o bacilo da tuberculose.",
+ "why": "No lugar do PPD ou junto com ele, antes de alguns tratamentos, depois de contato com alguém com tuberculose, ou para trabalho e estudo.",
+ "duration": "a coleta leva de 3 a 5 minutos, o resultado sai normalmente em 2 a 7 dias",
+ "tell_doctor": [
+  "Se você toma corticoides ou remédios que baixam a imunidade",
+  "Se tem HIV ou outra condição que enfraquece a imunidade",
+  "Se teve contato com alguém com tuberculose",
+  "Se já fez PPD ou outro teste de pele para tuberculose, e os resultados"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente em jejum ou algumas horas depois de uma refeição leve. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma. Ele decide."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Resultados anteriores de testes para tuberculose, se tiver"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "O sangue vai para alguns tubos especiais",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "O resultado sai normalmente em 2 a 7 dias",
+  "Resultado positivo não quer dizer que você está doente. Os próximos passos quem decide é o pneumologista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que esse teste é melhor que o PPD?",
+   "a": "A vacina BCG não interfere nele, e você não precisa voltar para mostrarem o braço."
+  },
+  {
+   "q": "Se o teste deu positivo, eu transmito a doença?",
+   "a": "Não necessariamente. O teste mostra contato com o bacilo. Se é doença ativa, o médico investiga com outros exames."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de sangue para tuberculose. Confirme se precisa ir em jejum."
+  }
+ ]
+}

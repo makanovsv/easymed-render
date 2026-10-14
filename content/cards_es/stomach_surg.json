@@ -1,0 +1,84 @@
+{
+ "title": "Cirugía de estómago",
+ "also": [
+  "gastrectomía",
+  "resección gástrica",
+  "quitar parte del estómago",
+  "cirugía de úlcera"
+ ],
+ "what": "El cirujano quita una parte o todo el estómago, y a veces cierra una úlcera. Une el esófago o el intestino para que la comida siga su camino.",
+ "why": "Por un tumor del estómago, una úlcera grave con complicaciones o un sangrado.",
+ "duration": "la cirugía suele durar de 2 a 5 horas; en el hospital normalmente de 5 a 10 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si bajaste de peso y cómo estás comiendo",
+  "Si fumas o tomas alcohol"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Alimentación",
+   "text": "Si bajaste de peso, el médico puede indicarte una alimentación especial antes de la cirugía."
+  }
+ ],
+ "bring": [
+  "Los resultados de la endoscopía, la biopsia, la tomografía y los análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital para 1 a 2 semanas"
+ ],
+ "steps": [
+  "Te cambias de ropa, te ponen un catéter en la vena y medias contra los trombos",
+  "El anestesiólogo te pone la anestesia",
+  "A veces ponen por la nariz un tubo delgado hasta el estómago",
+  "El cirujano trabaja por un corte u orificios en el abdomen",
+  "Quita una parte o todo el estómago y une el tubo digestivo",
+  "Cierra la herida y pone drenajes"
+ ],
+ "feel": [
+  "Dolor en el abdomen. Te dan analgésicos",
+  "Los tubos y drenajes molestan, pero se quitan en unos días",
+  "Te llenas rápido y tienes menos hambre"
+ ],
+ "after": [
+  "Empiezas a beber y comer poco a poco, cuando lo permita el médico",
+  "Hay que comer porciones pequeñas de 5 a 6 veces al día",
+  "A veces se necesitan vitaminas e inyecciones de vitamina B12; el médico te las indicará",
+  "El estudio de patología define el tratamiento que sigue"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el abdomen o fiebre de más de 38",
+  "Vómito, o no puedes beber",
+  "Vómito con sangre o heces negras: llama a emergencias",
+  "Dolor en la pantorrilla, falta de aire o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede vivir sin estómago?",
+   "a": "Sí. La comida pasa directo al intestino. Tendrás que comer seguido y poco a poco."
+  },
+  {
+   "q": "¿Por qué después de comer siento debilidad y sudor?",
+   "a": "Pasa cuando la comida baja muy rápido al intestino. Ayudan las porciones pequeñas y menos dulce. Cuéntaselo al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de estómago. Lleva los resultados de tus estudios. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

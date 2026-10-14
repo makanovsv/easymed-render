@@ -9,7 +9,7 @@ i=0
 LIST=$(cat batch.txt 2>/dev/null || ls ../../content/cards | sed 's/.json$//')
 for id in $(echo $LIST | tr ' ' '\n' | sort); do
   [[ ! -f batch.txt && " $SKIP " == *" $id "* ]] && continue
-  for lang in ru en kk es pt ar zh ja ko; do
+  for lang in $(cat langs.txt 2>/dev/null || echo ru en kk es pt ar zh ja ko); do
     if (( i % T == N )); then
       echo "::group::$id $lang"
       if python3 build.py $id $lang && (cd proj_${id}_$lang && npx --yes hyperframes@0.8.119 render --quality looks --output ../raw.mp4 < /dev/null > render.log 2>&1); then

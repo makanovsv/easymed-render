@@ -1,0 +1,62 @@
+{
+ "title": "Joint CT scan",
+ "also": [
+  "joint CT",
+  "knee CT",
+  "shoulder CT",
+  "ankle CT"
+ ],
+ "what": "Cross-section images of a joint. The bones are seen in 3D and in great detail.",
+ "why": "For complex fractures, before joint surgery, or when an X-ray did not make everything clear.",
+ "duration": "usually 5 to 15 minutes in the room; the report the same day or in 1 to 2 days",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "If the joint has a replacement, a plate, or screws",
+  "If CT with contrast is ordered: any allergy to iodine or contrast dye, and kidney disease"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "None needed without contrast. You can eat and drink."
+  },
+  {
+   "title": "Clothing",
+   "text": "Take off jewelry and anything metal in the area. Sometimes you are asked to change."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past images of this joint"
+ ],
+ "steps": [
+  "You lie on the table, and the technician helps you get comfortable",
+  "The joint is positioned and supported with pillows",
+  "The table moves into the ring of the scanner",
+  "Keep still for a few seconds"
+ ],
+ "feel": [
+  "It does not hurt. The scanner hums quietly",
+  "The ring is wide, so it does not feel cramped"
+ ],
+ "after": [
+  "You can go about your day right away",
+  "Take the report and images to an orthopedic or trauma doctor"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "CT or MRI of a joint?",
+   "a": "CT is better for bones and fractures. Ligaments, cartilage, and menisci are seen better on MRI. Your doctor chooses."
+  },
+  {
+   "q": "Can I have a CT with a cast on?",
+   "a": "Often yes. Ask your doctor. Sometimes the cast is removed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Joint CT soon. Wear clothes with no metal and bring past images."
+  }
+ ]
+}

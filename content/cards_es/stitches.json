@@ -1,0 +1,78 @@
+{
+ "title": "Puntos en una herida",
+ "also": [
+  "sutura de herida",
+  "poner puntos",
+  "puntadas",
+  "coser una herida"
+ ],
+ "what": "El médico limpia la herida y la cierra con hilo, grapas o un pegamento especial. Así sana más rápido y la cicatriz queda más fina.",
+ "why": "Con cortadas profundas, heridas con las orillas separadas, o heridas en la cara, las manos o las articulaciones.",
+ "duration": "normalmente de 15 a 40 minutos; los puntos se quitan normalmente en 5 a 14 días, según el lugar",
+ "tell_doctor": [
+  "Cómo y cuándo te heriste, y con qué te cortaste",
+  "Cuándo te pusieron la vacuna contra el tétanos",
+  "Medicamentos que hacen la sangre más líquida",
+  "Diabetes",
+  "Alergia a anestésicos"
+ ],
+ "prepare": [
+  {
+   "title": "Sangrado",
+   "text": "Presiona la herida con una tela limpia y no la sueltes. Levanta el brazo o la pierna arriba del corazón."
+  },
+  {
+   "title": "Tiempo",
+   "text": "Entre más pronto, mejor. Normalmente se trata de cerrar la herida en las primeras horas."
+  },
+  {
+   "title": "No hagas",
+   "text": "No le eches alcohol ni le pongas nada a la herida. Puedes lavarla con agua limpia."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Datos de tu vacuna contra el tétanos, si los tienes"
+ ],
+ "steps": [
+  "El médico revisa la herida",
+  "Lavan la herida y la limpian con antiséptico",
+  "Ponen inyecciones de anestesia alrededor",
+  "Cosen o unen las orillas de la herida",
+  "Ponen un vendaje",
+  "Te dicen cuándo regresar para la curación y para quitar los puntos"
+ ],
+ "feel": [
+  "Las inyecciones de anestesia arden unos segundos",
+  "Al coser se siente que jalan, pero no duele",
+  "Cuando se pase la anestesia, la herida dolerá"
+ ],
+ "after": [
+  "Mantén el vendaje seco los primeros 1 a 2 días, o lo que diga el médico",
+  "No te quites las costras",
+  "Quítate los puntos en la fecha indicada, ni antes ni después",
+  "Después de quitar los puntos, protege la cicatriz del sol"
+ ],
+ "red_flags": [
+  "Sangrado fuerte que no para al presionar: llama a emergencias",
+  "La herida se pone roja, caliente, con pus, o hay fiebre",
+  "Se abrieron los puntos",
+  "Adormecimiento, o los dedos se mueven mal"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuándo se quitan los puntos?",
+   "a": "Normalmente en la cara a los 5 a 7 días, en el cuerpo y los brazos a los 7 a 10, y en las piernas y articulaciones más tiempo. La fecha exacta te la dice el médico."
+  },
+  {
+   "q": "¿Me puedo bañar con puntos?",
+   "a": "Normalmente después de 1 a 2 días puedes darte un baño rápido. Después seca la herida con cuidado. Pregunta al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu curación o el retiro de puntos. No mojes el vendaje y lleva una identificación."
+  }
+ ]
+}

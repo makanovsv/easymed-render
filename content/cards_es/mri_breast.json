@@ -1,0 +1,76 @@
+{
+ "title": "Resonancia magnética de mama",
+ "also": [
+  "resonancia de mama",
+  "resonancia de mamas con contraste",
+  "mamografía por resonancia"
+ ],
+ "what": "Son imágenes de los senos con un campo magnético y medio de contraste en la vena. Sin radiación.",
+ "why": "Para aclarar algo después de la mastografía y el ultrasonido, con riesgo familiar alto, con implantes, o antes de una cirugía.",
+ "duration": "normalmente de 20 a 40 minutos; el reporte en 1 a 3 días",
+ "tell_doctor": [
+  "Marcapasos, desfibrilador u otro implante con electrónica",
+  "Metal en el cuerpo: prótesis, placas, grapas en vasos, esquirlas",
+  "Si estás embarazada o podrías estarlo",
+  "Si te dan miedo los lugares cerrados. El médico te dirá cómo ayudarte",
+  "Si tienes implantes de seno",
+  "Si estás dando pecho"
+ ],
+ "prepare": [
+  {
+   "title": "Día del ciclo",
+   "text": "Lo mejor es entre el día 7 y 14 del ciclo. Después de la menopausia, cualquier día. Pregunta al médico."
+  },
+  {
+   "title": "Contraste",
+   "text": "Si es con medio de contraste, a veces piden un análisis de creatinina. Normalmente no comas de 2 a 4 horas antes. Pregunta en la clínica."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate todo lo de metal: joyas, reloj, pasadores, piercings. Deja el teléfono y las tarjetas en el casillero."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus mastografías, ultrasonidos y resonancias de mama anteriores",
+  "El análisis de creatinina, si te lo pidieron"
+ ],
+ "steps": [
+  "Te quitas la ropa de la cintura para arriba y dejas el metal en el casillero",
+  "Te ponen un catéter en la vena del brazo",
+  "Te acuestas boca abajo, con los senos en una bobina especial con aberturas",
+  "Pones la cabeza en un soporte, con los brazos hacia adelante o junto al cuerpo",
+  "El aparato hace golpeteos fuertes. Te dan audífonos o tapones",
+  "Tienes que estar sin moverte. Te hablan por un intercomunicador",
+  "A la mitad ponen el contraste y toman más imágenes"
+ ],
+ "feel": [
+  "No duele, pero hay ruido y poco espacio",
+  "Estar boca abajo puede ser incómodo. Avísale al personal y te pondrán almohadas",
+  "Con el medio de contraste, sensación de frío en la vena"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "Después del medio de contraste toma más agua, salvo que el médico te diga otra cosa",
+  "Lleva el reporte al especialista en mama"
+ ],
+ "red_flags": [
+  "Después del medio de contraste, comezón, ronchas, hinchazón de la cara o dificultad para respirar: avísale de inmediato al personal o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué importa el día del ciclo?",
+   "a": "En la segunda mitad del ciclo el tejido del seno cambia y absorbe más contraste. Las imágenes salen menos exactas."
+  },
+  {
+   "q": "¿Puedo dar pecho después del contraste?",
+   "a": "Normalmente sí. Si tienes dudas, pregunta al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu resonancia de mama. Lleva tus mastografías y ultrasonidos anteriores, y quítate las joyas."
+  }
+ ]
+}

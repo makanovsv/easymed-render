@@ -1,0 +1,71 @@
+{
+ "title": "Vacina contra rotavírus",
+ "also": [
+  "vacina rotavírus",
+  "gotinha do rotavírus",
+  "vacina contra diarreia por rotavírus"
+ ],
+ "what": "Não é injeção, são gotas pela boca. Elas protegem o bebê da infecção grave por rotavírus, com vômito e diarreia.",
+ "why": "Para bebês nos primeiros meses de vida, conforme o calendário. O esquema costuma ter 2 a 3 doses, e é preciso começar no tempo certo.",
+ "duration": "dar as gotas leva cerca de um minuto, com a avaliação normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Se o bebê está doente agora, com vômito ou diarreia",
+  "Se já teve invaginação intestinal (intestino que dobra para dentro)",
+  "Doenças da imunidade",
+  "Reações fortes a vacinas anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Prazos",
+   "text": "A primeira dose é dada até uma certa idade em semanas. Não adie. Confirme com o pediatra."
+  },
+  {
+   "title": "Mamada",
+   "text": "Pode alimentar o bebê como sempre, antes e depois."
+  },
+  {
+   "title": "Saúde",
+   "text": "O bebê precisa estar saudável no dia da vacina."
+  }
+ ],
+ "bring": [
+  "Documentos do bebê",
+  "A carteira de vacinação"
+ ],
+ "steps": [
+  "O médico examina o bebê e mede a temperatura",
+  "Você segura o bebê semissentado",
+  "A enfermagem pinga a vacina na boca dele",
+  "A vacina é registrada na carteira",
+  "Depois da vacina, fique cerca de 30 minutos na clínica"
+ ],
+ "feel": [
+  "Não dói",
+  "Às vezes, por alguns dias, as fezes ficam mais moles ou o bebê fica manhoso"
+ ],
+ "after": [
+  "Alimente como sempre",
+  "Lave as mãos depois de trocar a fralda, principalmente na primeira semana",
+  "A próxima dose, conforme o calendário"
+ ],
+ "red_flags": [
+  "Crises de choro forte, o bebê encolhe as perninhas, vômito, sangue nas fezes: ligue para a emergência",
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "E se o bebê cuspir a vacina?",
+   "a": "Normalmente não é preciso repetir. Avise a enfermagem, e ela decide."
+  },
+  {
+   "q": "Dá para dar depois?",
+   "a": "Há limites de idade para a primeira e a última dose. Se passou do prazo, o médico decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina contra rotavírus. O bebê precisa estar saudável. Leve a carteira de vacinação."
+  }
+ ]
+}

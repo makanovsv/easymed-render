@@ -1,0 +1,78 @@
+{
+ "title": "Escolha do método anticoncepcional",
+ "also": [
+  "anticoncepção",
+  "métodos anticoncepcionais",
+  "consulta de planejamento familiar",
+  "escolher anticoncepcional"
+ ],
+ "what": "O médico ajuda a escolher o método para evitar gravidez que combina com sua saúde e seu estilo de vida.",
+ "why": "Quando você quer evitar gravidez, quer trocar de método, depois do parto ou de um aborto.",
+ "duration": "a consulta leva normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Se você fuma",
+  "Pressão alta, enxaqueca, trombose em você ou na família",
+  "Doenças do fígado, diabetes, câncer de mama",
+  "Quais remédios você toma",
+  "Se você amamenta e se planeja engravidar em breve"
+ ],
+ "prepare": [
+  {
+   "title": "Perguntas",
+   "text": "Pense no que é importante para você: praticidade, longo prazo ou por um tempo, efeito na menstruação."
+  },
+  {
+   "title": "Ciclo",
+   "text": "Lembre a data da última menstruação."
+  },
+  {
+   "title": "Exames",
+   "text": "Às vezes o médico pede antes um ultrassom ou exames."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios",
+  "Resultados de exames e ultrassons anteriores, se tiver"
+ ],
+ "steps": [
+  "O médico pergunta sobre sua saúde e o que é importante para você",
+  "Mede a pressão e o peso",
+  "Às vezes faz o exame na maca",
+  "Explica as opções: pílula, DIU, implante, anel, camisinha e outras",
+  "Juntos vocês escolhem a mais adequada",
+  "O médico explica como começar e o que fazer se esquecer"
+ ],
+ "feel": [
+  "Normalmente nada desagradável"
+ ],
+ "after": [
+  "Comece o método como o médico orientou",
+  "Nos primeiros meses pode haver sangramento leve fora de hora. Muitas vezes é normal",
+  "Se o método não servir, dá para trocar",
+  "Em alguns meses, consulta de controle"
+ ],
+ "red_flags": [
+  "Dor forte na perna, inchaço em uma perna só, dor no peito, falta de ar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Qual é o anticoncepcional mais seguro?",
+   "a": "Os mais seguros são o DIU e o implante. Mas o melhor método é o que serve para você."
+  },
+  {
+   "q": "A pílula protege contra infecções?",
+   "a": "Não. Contra infecções, só a camisinha protege."
+  },
+  {
+   "q": "Dá para engravidar depois de parar?",
+   "a": "Normalmente sim, a fertilidade volta. A rapidez depende do método."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta sobre anticoncepção. Lembre a data da última menstruação e leve a lista de remédios."
+  }
+ ]
+}

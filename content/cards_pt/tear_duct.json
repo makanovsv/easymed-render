@@ -1,0 +1,78 @@
+{
+ "title": "Sondagem do canal lacrimal no bebê",
+ "also": [
+  "sondagem do canal lacrimal",
+  "obstrução do canal lacrimal",
+  "olho lacrimejando no bebê",
+  "dacriocistite do recém-nascido"
+ ],
+ "what": "O médico passa com cuidado uma sonda fina pelo canal lacrimal do bebê para abri-lo. As lágrimas voltam a escoar para o nariz.",
+ "why": "Quando o olho do bebê lacrimeja e fica com remela o tempo todo, e a massagem no canal lacrimal não ajuda.",
+ "duration": "o procedimento em si leva normalmente alguns minutos",
+ "tell_doctor": [
+  "Há quanto tempo o olho lacrimeja e fica com remela",
+  "Quais colírios e massagens você já fez",
+  "Se o bebê esteve doente há pouco tempo ou tem febre",
+  "Alergias do bebê"
+ ],
+ "prepare": [
+  {
+   "title": "Mamada",
+   "text": "Confirme com a clínica quando alimentar o bebê antes do procedimento."
+  },
+  {
+   "title": "Cueiro",
+   "text": "Leve um cueiro. Normalmente o bebê é enrolado para não se mexer."
+  },
+  {
+   "title": "Sua calma",
+   "text": "O bebê vai chorar, e isso é normal. O procedimento é rápido."
+  }
+ ],
+ "bring": [
+  "Documentos do bebê",
+  "Cueiro e fralda",
+  "Mamadeira, ou a possibilidade de amamentar depois"
+ ],
+ "steps": [
+  "O olho é anestesiado com colírio",
+  "O bebê é enrolado no cueiro, e um assistente ajuda a segurar a cabeça",
+  "O médico dilata o pontinho lacrimal e introduz uma sonda fina",
+  "O canal é lavado com uma solução",
+  "Se a solução passou para o nariz, o canal está aberto",
+  "O bebê volta para o seu colo, e você pode acalmar e alimentar"
+ ],
+ "feel": [
+  "O bebê chora, principalmente porque está sendo segurado",
+  "Algumas gotas de sangue no nariz ou no olho podem acontecer e passam"
+ ],
+ "after": [
+  "Colírios, conforme a receita",
+  "Massagem no canal lacrimal, se o médico orientar",
+  "Volte para a revisão quando o médico indicar"
+ ],
+ "red_flags": [
+  "Inchaço e vermelhidão no canto de dentro do olho, febre",
+  "O olho volta a ter pus depois de alguns dias: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Pode melhorar sem sondagem?",
+   "a": "Muitas vezes melhora sozinho nos primeiros meses, principalmente com massagem. Quando a sonda é necessária, quem decide é o médico."
+  },
+  {
+   "q": "Dói para o bebê?",
+   "a": "O olho é anestesiado com colírio. O bebê chora mais por estar sendo segurado."
+  },
+  {
+   "q": "Precisa repetir?",
+   "a": "Normalmente uma vez basta, às vezes é preciso repetir."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a sondagem do canal lacrimal. Leve um cueiro e confirme o horário da mamada."
+  }
+ ]
+}

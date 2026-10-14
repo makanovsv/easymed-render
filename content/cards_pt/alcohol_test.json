@@ -1,0 +1,70 @@
+{
+ "title": "Exame de alcoolemia",
+ "also": [
+  "exame de alcoolemia",
+  "bafômetro",
+  "teste do bafômetro",
+  "avaliação de embriaguez",
+  "dosagem de álcool no sangue"
+ ],
+ "what": "O médico verifica se há álcool no corpo: você sopra num aparelho e, às vezes, entrega sangue ou urina. O médico também faz uma avaliação rápida.",
+ "why": "A pedido da polícia ou do empregador, depois de acidente de trânsito, ou em exames de motoristas e trabalhadores.",
+ "duration": "normalmente de 20 a 40 minutos. O resultado do bafômetro sai na hora, e o de sangue ou urina, depois",
+ "tell_doctor": [
+  "Todos os remédios que você toma",
+  "Se usou spray, enxaguante bucal ou gotas com álcool",
+  "Se tem diabetes ou doença nos pulmões"
+ ],
+ "prepare": [
+  {
+   "title": "Documento",
+   "text": "Leve um documento de identidade."
+  },
+  {
+   "title": "Boca",
+   "text": "De 15 a 20 minutos antes de soprar, não fume, não coma e não use enxaguante com álcool."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico tudo o que você toma."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Encaminhamento ou auto, se você foi encaminhado"
+ ],
+ "steps": [
+  "O médico confere o documento e preenche o formulário",
+  "Fazem uma avaliação rápida: pressão, pulso, fala e coordenação",
+  "Você sopra longo num bocal descartável do aparelho",
+  "Normalmente repetem o sopro depois de 15 a 20 minutos",
+  "Às vezes colhem sangue da veia ou urina para o laboratório",
+  "O médico emite o laudo"
+ ],
+ "feel": [
+  "Nada desagradável",
+  "É preciso soprar de forma constante e longa no aparelho"
+ ],
+ "after": [
+  "O resultado do bafômetro aparece na hora",
+  "O resultado do sangue ou da urina sai normalmente em alguns dias",
+  "O laudo é entregue conforme as regras. Confirme quem recebe e quando"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Kefir ou bebida fermentada pode dar álcool?",
+   "a": "Às vezes dá um valor bem baixo logo depois de beber. Por isso repetem o sopro depois de 15 a 20 minutos."
+  },
+  {
+   "q": "Posso me recusar a fazer o exame?",
+   "a": "Isso depende da lei do seu país, e a recusa pode ter consequências. Pergunte a um advogado ou ao agente que encaminhou você."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Daqui a pouco é o exame de alcoolemia. De 15 a 20 minutos antes de soprar, não fume, não coma e não use enxaguante bucal."
+  }
+ ]
+}

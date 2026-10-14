@@ -1,0 +1,88 @@
+{
+ "title": "Colectomia",
+ "also": [
+  "retirada de parte do intestino",
+  "hemicolectomia",
+  "colectomia",
+  "cirurgia de intestino"
+ ],
+ "what": "O cirurgião retira a parte doente do intestino e une as pontas. Às vezes o intestino é levado temporariamente para fora na barriga, a estomia (bolsinha).",
+ "why": "No tumor de intestino, inflamação forte, divertículos, obstrução.",
+ "duration": "a cirurgia leva normalmente de 2 a 4 horas, com internação normalmente de 4 a 10 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Há quanto tempo o intestino mudou, se você emagreceu",
+  "Dúvidas sobre a estomia. É melhor conversar antes"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Intestino",
+   "text": "Às vezes, na véspera, indicam limpeza do intestino ou uma bebida especial. Siga o esquema da clínica."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Estomia",
+   "text": "Se houver chance de estomia, a enfermagem marca antes o melhor lugar na barriga e explica os cuidados."
+  }
+ ],
+ "bring": [
+  "Resultados da colonoscopia, da tomografia e dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para uma semana no hospital"
+ ],
+ "steps": [
+  "Você troca de roupa, colocam um acesso na veia e meias contra trombose",
+  "O anestesista aplica a anestesia",
+  "O cirurgião trabalha por furinhos ou por um corte na barriga",
+  "A parte doente do intestino é retirada",
+  "As pontas do intestino são unidas, ou é feita a estomia",
+  "O corte é suturado, às vezes colocam um dreno"
+ ],
+ "feel": [
+  "Dor na barriga. Dão analgésico",
+  "Barriga estufada e fraqueza nos primeiros dias",
+  "No começo, o intestino pode funcionar muitas vezes ou de forma irregular"
+ ],
+ "after": [
+  "Normalmente você levanta e caminha no primeiro dia. Isso acelera a recuperação",
+  "Beber e comer, aos poucos, quando o médico liberar",
+  "Não pegue peso por algumas semanas",
+  "A biópsia define se é preciso mais tratamento"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, febre acima de 38 graus, pulso acelerado",
+  "Vômitos, barriga estufada, sem soltar gases",
+  "Sangue nas fezes ou fezes pretas",
+  "Dor na panturrilha, falta de ar, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A estomia é para sempre?",
+   "a": "Muitas vezes é temporária e é fechada depois de alguns meses. Às vezes é definitiva. Converse com o cirurgião."
+  },
+  {
+   "q": "Como o intestino vai funcionar?",
+   "a": "No começo pode funcionar muitas vezes por dia. Normalmente vai se ajustando aos poucos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia do intestino. Preparo e bebida, conforme o esquema da clínica. Comida e água, só até o horário indicado."
+  }
+ ]
+}

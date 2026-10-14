@@ -1,0 +1,80 @@
+{
+ "title": "Retirada de calázio",
+ "also": [
+  "calázio",
+  "bolinha na pálpebra",
+  "caroço na pálpebra",
+  "cisto na pálpebra"
+ ],
+ "what": "O calázio é um caroço firme na pálpebra, formado por uma glândula entupida. Com anestesia local, o médico abre e limpa o caroço.",
+ "why": "Quando o caroço não some sozinho em algumas semanas, incomoda, cresce ou inflama com frequência.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Remédios que afinam o sangue",
+  "Alergias",
+  "Há quanto tempo está o caroço e se ele muda",
+  "Se você já teve calázio"
+ ],
+ "prepare": [
+  {
+   "title": "Maquiagem",
+   "text": "Vá sem maquiagem nos olhos."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda por conta própria. O médico diz se precisa mudar algo."
+  },
+  {
+   "title": "Transporte",
+   "text": "Depois do procedimento pode ficar um curativo no olho. É melhor não dirigir."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios",
+  "Um acompanhante, se for de carro"
+ ],
+ "steps": [
+  "A pálpebra é limpa com antisséptico",
+  "Aplicam uma injeção de anestesia na pálpebra",
+  "Colocam uma pinça para a pálpebra não se mexer",
+  "Na maioria das vezes, fazem um pequeno corte no lado de dentro da pálpebra",
+  "O conteúdo é retirado",
+  "Colocam pomada e um curativo apertado"
+ ],
+ "feel": [
+  "A injeção incomoda, mas é rápida",
+  "Depois, pressão sem dor",
+  "Depois, um pouco de inchaço e roxo na pálpebra"
+ ],
+ "after": [
+  "O curativo é retirado algumas horas depois, como o médico indicar",
+  "Pomada ou colírio, conforme a receita",
+  "Não coce o olho",
+  "O inchaço costuma passar em alguns dias"
+ ],
+ "red_flags": [
+  "Inchaço, vermelhidão e dor aumentando, febre",
+  "Piora da visão"
+ ],
+ "faq": [
+  {
+   "q": "Pode sumir sozinho?",
+   "a": "Às vezes sim. Compressas mornas e massagem nas pálpebras ajudam. Pergunte ao médico como fazer."
+  },
+  {
+   "q": "Fica cicatriz?",
+   "a": "Normalmente o corte é no lado de dentro da pálpebra, e a cicatriz não aparece."
+  },
+  {
+   "q": "Pode voltar?",
+   "a": "Pode acontecer. O médico explica como cuidar das pálpebras."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a retirada do calázio. Vá sem maquiagem nos olhos."
+  }
+ ]
+}

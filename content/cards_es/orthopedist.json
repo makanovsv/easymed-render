@@ -1,0 +1,71 @@
+{
+ "title": "Consulta con el traumatólogo y ortopedista",
+ "also": [
+  "traumatólogo",
+  "ortopedista",
+  "traumatología y ortopedia",
+  "médico de los huesos"
+ ],
+ "what": "Es el médico que trata lesiones y enfermedades de los huesos, las articulaciones, los músculos y los ligamentos.",
+ "why": "Si tienes una lesión, fractura o luxación, dolor de articulaciones o de espalda, pie plano, o después de una cirugía de huesos.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Cómo y cuándo pasó la lesión o empezó el dolor",
+  "Qué empeora el dolor",
+  "Si tuviste fracturas o cirugías",
+  "Qué medicamentos tomas",
+  "Si tienes osteoporosis"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Lleva tus radiografías, resonancia o tomografía en disco, con sus informes."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir fácilmente la articulación que duele."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Las imágenes en disco y sus informes",
+  "Tu férula o plantillas, si las usas",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias",
+  "Revisa y palpa la zona que duele",
+  "Revisa cómo se mueve la articulación",
+  "Revisa tus radiografías o te manda a tomarlas",
+  "Te indica el tratamiento: reposo, inmovilización, fisioterapia, medicamentos o cirugía"
+ ],
+ "feel": [
+  "Revisar el movimiento de la articulación que duele puede ser molesto",
+  "Dile al médico dónde te duele; tendrá más cuidado"
+ ],
+ "after": [
+  "Sigue las indicaciones de esfuerzo e inmovilización",
+  "Pregunta cuándo regresar a revisión"
+ ],
+ "red_flags": [
+  "Dolor fuerte después de un golpe, se ve el hueso, la pierna está torcida o no puedes moverla: llama a emergencias",
+  "Adormecimiento, o dedos morados o fríos bajo el yeso: ve al médico de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿Tengo que tomarme una radiografía antes?",
+   "a": "Si tienes radiografías recientes, llévalas. Si hace falta una nueva, lo decide el médico."
+  },
+  {
+   "q": "¿El traumatólogo y el ortopedista son médicos diferentes?",
+   "a": "Casi siempre es la misma especialidad: el traumatólogo y ortopedista trata tanto lesiones como enfermedades de las articulaciones."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el traumatólogo. Lleva tus radiografías y ponte ropa cómoda."
+  }
+ ]
+}

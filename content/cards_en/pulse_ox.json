@@ -1,0 +1,73 @@
+{
+ "title": "Overnight pulse oximetry",
+ "also": [
+  "overnight oximetry",
+  "overnight pulse oximetry",
+  "oxygen level during sleep",
+  "sleep oxygen test"
+ ],
+ "what": "At home, you sleep with a small sensor on your finger. It records your blood oxygen and pulse all night.",
+ "why": "For snoring, pauses in breathing during sleep, daytime sleepiness, lung or heart disease, or to set up oxygen therapy.",
+ "duration": "one night at home; the report is usually ready in 1 to 3 days",
+ "tell_doctor": [
+  "If you snore or stop breathing during sleep",
+  "If you take sleeping pills or sedatives",
+  "If you need oxygen at night",
+  "If you have lung or heart disease"
+ ],
+ "prepare": [
+  {
+   "title": "Nails",
+   "text": "Remove nail polish and fake nails from the finger the sensor will go on."
+  },
+  {
+   "title": "Evening",
+   "text": "No alcohol and no extra coffee in the evening."
+  },
+  {
+   "title": "Sleep",
+   "text": "Sleep as usual, in your own bed."
+  }
+ ],
+ "bring": [
+  "The device and instructions the clinic gives you",
+  "Your referral",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "At the clinic, you get the device and are shown how to put it on",
+  "Before bed, you put the sensor on your finger",
+  "You turn on the device and go to sleep as usual",
+  "If the sensor falls off at night, put it back on",
+  "In the morning, you take it off and turn it off",
+  "You return the device to the clinic"
+ ],
+ "feel": [
+  "It does not hurt. The sensor is just a clip",
+  "Sleeping with it feels odd at first"
+ ],
+ "after": [
+  "Return the device by the time the clinic tells you",
+  "The report is usually ready in 1 to 3 days",
+  "If needed, your doctor will suggest a full sleep study"
+ ],
+ "red_flags": [
+  "Severe shortness of breath, blue lips, or chest pain: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "What if the sensor falls off at night?",
+   "a": "Put it back on. Short gaps usually do not matter, but tell the clinic about them."
+  },
+  {
+   "q": "Does this replace a sleep study?",
+   "a": "Not fully. It is a simple first step. Sometimes a full sleep study is needed after it."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Overnight pulse oximetry tonight. Remove polish from your finger, put the sensor on before bed, and turn on the device."
+  }
+ ]
+}

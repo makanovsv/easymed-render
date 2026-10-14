@@ -1,0 +1,73 @@
+{
+ "title": "Infectious disease doctor visit",
+ "also": [
+  "infectious disease specialist",
+  "infection doctor",
+  "travel medicine clinic",
+  "ID doctor"
+ ],
+ "what": "A doctor who treats infections caused by viruses, bacteria, or parasites, and helps with vaccines before travel.",
+ "why": "For a long-lasting fever, gut infections, hepatitis, abnormal infection tests, after travel abroad, or after a tick bite.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "When the fever started and how it changed",
+  "Where you traveled in recent months",
+  "Contact with sick people, or tick or animal bites",
+  "What vaccines you have had",
+  "What medicines you took, including antibiotics"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Bring all your test results, if you had any."
+  },
+  {
+   "title": "Temperature",
+   "text": "Write down how your temperature changed day by day."
+  },
+  {
+   "title": "Mask",
+   "text": "If you have a fever or cough, wear a mask and tell the front desk."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your vaccination certificate, if you have one",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms, travel, and contacts",
+  "Your skin, throat, and lymph nodes are checked",
+  "Your belly is felt",
+  "Your test results are reviewed",
+  "Tests or treatment are ordered"
+ ],
+ "feel": [
+  "Nothing unpleasant. It is a regular checkup",
+  "Sometimes blood or a swab is taken the same day"
+ ],
+ "after": [
+  "Have the tests done and come back with the results",
+  "Take antibiotics only as prescribed, and finish the course"
+ ],
+ "red_flags": [
+  "A very high fever, confusion, or a rash that does not fade when pressed: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Should I see a doctor after a tick bite?",
+   "a": "Yes, it is best to. You can keep the tick for testing. Check with the clinic."
+  },
+  {
+   "q": "Why does the doctor ask about travel?",
+   "a": "Different countries have different infections. It helps find the cause."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Infectious disease visit tomorrow. Bring your test results, and recall your recent travel and contacts."
+  }
+ ]
+}

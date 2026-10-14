@@ -1,0 +1,70 @@
+{
+ "title": "Ultrassom da aorta abdominal",
+ "also": [
+  "ultrassom da aorta",
+  "doppler da aorta abdominal",
+  "rastreamento de aneurisma de aorta"
+ ],
+ "what": "O médico examina com ultrassom a artéria principal da barriga. Dá para ver se ela está dilatada e se há placas.",
+ "why": "Para procurar dilatação da aorta em homens mais velhos e fumantes, com pulsação na barriga ou com doenças dos vasos.",
+ "duration": "normalmente de 15 a 20 minutos, o laudo sai na hora",
+ "tell_doctor": [
+  "Se você fuma ou já fumou",
+  "Se alguém da família teve dilatação da aorta",
+  "Pressão alta, doenças dos vasos",
+  "Se já fez cirurgia na barriga ou nos vasos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente em jejum: de 6 a 8 horas sem comer. Confirme com a clínica."
+  },
+  {
+   "title": "Gases",
+   "text": "De 1 a 2 dias antes, evite alimentos que dão gases: repolho, feijão, refrigerante."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, fácil de liberar a barriga."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ultrassons ou tomografias anteriores da barriga",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você se deita de barriga para cima",
+  "Passam gel na barriga",
+  "O médico desliza o aparelho da parte de cima da barriga até o umbigo",
+  "Mede a largura da aorta em alguns pontos",
+  "Às vezes olham também os vasos que vão para as pernas"
+ ],
+ "feel": [
+  "Gel geladinho e pressão do aparelho na barriga"
+ ],
+ "after": [
+  "Você já pode comer e voltar à rotina",
+  "O laudo normalmente sai na hora",
+  "Se a aorta estiver dilatada, o médico diz com que frequência acompanhar"
+ ],
+ "red_flags": [
+  "Dor forte e repentina na barriga ou nas costas, fraqueza, desmaio: ligue na hora para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Quem precisa examinar a aorta?",
+   "a": "Normalmente homens mais velhos, principalmente fumantes, e quem tem casos de dilatação na família."
+  },
+  {
+   "q": "E se a aorta estiver dilatada?",
+   "a": "Na maioria das vezes, só acompanham e medem de tempos em tempos. Se precisa de tratamento, quem decide é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem ultrassom da aorta abdominal. Normalmente em jejum: depois do jantar, não coma. Água pode."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Vitamina B12 y ácido fólico",
+ "also": [
+  "vitamina B12",
+  "ácido fólico",
+  "folatos",
+  "cobalamina"
+ ],
+ "what": "Es un análisis de sangre de la vena. Muestra si tu cuerpo tiene suficiente vitamina B12 y ácido fólico.",
+ "why": "Con anemia, cansancio, hormigueo en manos y pies, con dieta vegetariana, al planear un embarazo, o al tomar algunos medicamentos.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Si tomas vitaminas, sobre todo B12, ácido fólico o biotina",
+  "Si te pusieron inyecciones de vitaminas",
+  "Qué medicamentos tomas siempre",
+  "Si eres vegetariano o no comes carne"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente en ayunas: de 8 a 12 horas sin comer. Puedes tomar agua natural. Pregunta en el laboratorio."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Un día antes, nada de alcohol ni ejercicio intenso. En la mañana, mejor no fumes."
+  },
+  {
+   "title": "Vitaminas",
+   "text": "No las dejes por tu cuenta. Dile al médico qué vitaminas tomas. Él decidirá si hay que hacer una pausa antes del análisis."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve y la sangre llena el tubo",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un ligero mareo. Avísale a la enfermera"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos, sin doblar el brazo",
+  "Puedes comer de inmediato y seguir con tu día",
+  "El resultado suele estar en 1 a 3 días. En el laboratorio te dirán cuándo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Tengo que dejar las vitaminas antes del análisis?",
+   "a": "No las dejes por tu cuenta. Díselo al médico. Él decidirá si hace falta una pausa y de cuánto tiempo."
+  },
+  {
+   "q": "¿Por qué puedo tener la B12 baja si como carne?",
+   "a": "A veces la vitamina no se absorbe bien. La causa la busca el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de vitamina B12 y ácido fólico. Después de la cena ya no comas. Puedes tomar agua natural."
+  }
+ ]
+}

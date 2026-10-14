@@ -1,0 +1,72 @@
+{
+ "title": "Índice tobillo-brazo",
+ "also": [
+  "índice tobillo-brazo",
+  "ITB",
+  "presión en tobillos",
+  "revisión de circulación de piernas"
+ ],
+ "what": "La enfermera mide la presión en los brazos y en los tobillos. Si en las piernas es mucho más baja, los vasos de las piernas pueden estar estrechos.",
+ "why": "Con dolor de piernas al caminar, en fumadores, con diabetes o presión alta, para revisar los vasos de las piernas.",
+ "duration": "normalmente de 15 a 20 minutos; el resultado suele estar de inmediato",
+ "tell_doctor": [
+  "Dolor de piernas al caminar que se quita al descansar",
+  "Diabetes y presión alta",
+  "Si fumas",
+  "Heridas en las piernas que tardan en sanar",
+  "Si en algún brazo no te pueden medir la presión"
+ ],
+ "prepare": [
+  {
+   "title": "Descanso",
+   "text": "Llega antes y descansa de 5 a 10 minutos. Antes de la prueba no fumes ni tomes café."
+  },
+  {
+   "title": "Ropa",
+   "text": "Pantalón o falda holgados para descubrir los tobillos. Calcetines fáciles de quitar."
+  },
+  {
+   "title": "Comida",
+   "text": "No hace falta preparación. Puedes comer."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de tus medicamentos",
+  "Tus ultrasonidos de vasos de las piernas anteriores"
+ ],
+ "steps": [
+  "Te acuestas boca arriba unos minutos",
+  "Te ponen brazaletes en los dos brazos y en los dos tobillos",
+  "Con un sensor pequeño escuchan el pulso en el brazo y en el pie",
+  "Inflan el brazalete y lo desinflan despacio",
+  "Miden la presión en los cuatro puntos",
+  "El aparato o la enfermera calcula el índice"
+ ],
+ "feel": [
+  "El brazalete aprieta el brazo y la pierna unos segundos",
+  "El gel del sensor está frío"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "El resultado suele estar de inmediato",
+  "Si el índice sale alterado, el médico puede pedir un ultrasonido de los vasos de las piernas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Para qué medir la presión en las piernas?",
+   "a": "Si los vasos de las piernas están estrechos, la presión ahí es más baja que en los brazos. Es una forma sencilla de encontrar el problema."
+  },
+  {
+   "q": "¿Duele?",
+   "a": "No. Es como una toma de presión normal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu índice tobillo-brazo. En la mañana no fumes ni tomes café. Usa ropa que puedas subir hasta las rodillas."
+  }
+ ]
+}

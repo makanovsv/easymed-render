@@ -1,0 +1,77 @@
+{
+ "title": "Bloqueio anestésico de nervo",
+ "also": [
+  "bloqueio de nervo",
+  "anestesia do braço",
+  "anestesia da perna",
+  "anestesia regional"
+ ],
+ "what": "O anestesista aplica uma injeção perto do nervo, e o braço ou a perna fica dormente. Dá para operar sem anestesia geral, e a dor depois da cirurgia é menor.",
+ "why": "Para cirurgias no braço, ombro, perna, pé, e também para aliviar a dor depois da cirurgia.",
+ "duration": "a aplicação leva normalmente de 10 a 20 minutos, e a dormência dura algumas horas, às vezes até um dia",
+ "tell_doctor": [
+  "Remédios que afinam o sangue. Não suspenda por conta própria, o médico decide",
+  "Alergia a anestésicos locais",
+  "Se esse membro já teve dormência ou fraqueza antes",
+  "Doenças dos pulmões. Para o bloqueio no pescoço, isso é importante"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente as regras são as mesmas de antes de uma cirurgia. O tempo sem comida e água quem diz é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Conte ao anestesista sobre sua saúde. Você pode pedir sedação para cochilar."
+  },
+  {
+   "title": "Transporte",
+   "text": "Combine quem vai levar você para casa: o braço ou a perna ainda vai estar dormente."
+  }
+ ],
+ "bring": [
+  "Documentos",
+  "Lista de remédios",
+  "Roupa larga"
+ ],
+ "steps": [
+  "Colocam um acesso na veia e ligam os monitores",
+  "Às vezes dão um calmante para você relaxar",
+  "A pele é limpa e anestesiada",
+  "Guiado pelo ultrassom, o médico leva uma agulha fina até o nervo",
+  "Aplica o remédio, e o membro esquenta e fica dormente",
+  "Conferem se a dormência está completa e começam a cirurgia"
+ ],
+ "feel": [
+  "A picada é como uma injeção comum, rápida",
+  "Calor, formigamento, depois peso e dormência",
+  "Durante a cirurgia, toques, mas sem dor. Se doer, avise na hora"
+ ],
+ "after": [
+  "Enquanto o membro estiver dormente, proteja: não encoste em coisa quente e não se apoie nele",
+  "Use o braço na tipoia, e não apoie o peso na perna sem apoio",
+  "Comece o analgésico conforme o esquema antes de a dormência passar",
+  "A sensibilidade costuma voltar em algumas horas ou até a manhã seguinte"
+ ],
+ "red_flags": [
+  "Dormência ou fraqueza que dura mais de um dia",
+  "Falta de ar ou dor no peito depois de um bloqueio no pescoço: ligue para a emergência",
+  "Zumbido no ouvido, gosto de metal na boca, convulsão: avise o médico na hora ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Vou ficar acordado?",
+   "a": "Pode ficar acordado ou cochilar com sedação. Isso se combina com o anestesista."
+  },
+  {
+   "q": "Por que o braço não mexe depois da cirurgia?",
+   "a": "É o efeito do bloqueio. Os movimentos voltam quando o remédio passar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a cirurgia com bloqueio. Comida e água, só até o horário da clínica. Combine a volta para casa."
+  }
+ ]
+}

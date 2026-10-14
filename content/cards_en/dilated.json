@@ -1,0 +1,70 @@
+{
+ "title": "Dilated eye exam",
+ "also": [
+  "dilated eye exam",
+  "eye dilation",
+  "retina exam",
+  "fundus exam",
+  "ophthalmoscopy"
+ ],
+ "what": "The doctor puts in drops to widen your pupils. This gives a better view of the retina at the back of the eye.",
+ "why": "For diabetes, high blood pressure, nearsightedness, flashes or floaters, and routine checkups.",
+ "duration": "usually 30 to 60 minutes including waiting for the drops; vision stays blurry for another 4 to 6 hours",
+ "tell_doctor": [
+  "Glaucoma or high eye pressure, if you know",
+  "Allergy to eye drops",
+  "If you have diabetes",
+  "If you wear contact lenses"
+ ],
+ "prepare": [
+  {
+   "title": "Getting there",
+   "text": "After the drops, you cannot drive for a few hours. Come with someone or take a taxi."
+  },
+  {
+   "title": "Your day",
+   "text": "For a few hours it will be hard to read or look at screens. Plan your day."
+  }
+ ],
+ "bring": [
+  "Sunglasses",
+  "Your glasses and ID",
+  "Someone to drive you, if you usually drive"
+ ],
+ "steps": [
+  "The doctor checks your vision and eye pressure",
+  "Drops are put in",
+  "You wait 20 to 40 minutes for the pupils to widen",
+  "The doctor shines a light in your eye and looks through a lens",
+  "You are asked to look in different directions"
+ ],
+ "feel": [
+  "The drops sting a little",
+  "The bright light is unpleasant, but brief",
+  "For a few hours, close-up vision is blurry and light feels glaring"
+ ],
+ "after": [
+  "Do not drive until your vision is back to normal",
+  "Wear sunglasses outdoors",
+  "If you wear contacts, put them back in when your doctor says"
+ ],
+ "red_flags": [
+  "Severe eye pain, headache, nausea, and rainbow rings around lights after the drops: see an eye doctor urgently or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "How long do the pupils stay wide?",
+   "a": "Usually 4 to 6 hours, sometimes up to a day."
+  },
+  {
+   "q": "Can I work afterward?",
+   "a": "Usually yes, but reading and screens will be hard for a few hours."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Dilated eye exam tomorrow. Do not plan to drive. Bring sunglasses."
+  }
+ ]
+}

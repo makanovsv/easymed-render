@@ -1,0 +1,75 @@
+{
+ "title": "Terapia manual",
+ "also": [
+  "quiropráctico",
+  "terapia manual",
+  "osteopatía",
+  "ajuste de columna"
+ ],
+ "what": "El médico trabaja con las manos los músculos, las articulaciones y la columna: estira, relaja y devuelve el movimiento con suavidad.",
+ "why": "En dolor y rigidez de la espalda, el cuello y las articulaciones, después de una revisión y radiografías, si te lo indica el médico.",
+ "duration": "la sesión suele durar de 20 a 40 minutos; el programa, normalmente varias sesiones",
+ "tell_doctor": [
+  "Dónde te duele y desde cuándo",
+  "Si tienes adormecimiento o debilidad en brazos o piernas",
+  "Osteoporosis, golpes o cirugías de la columna",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes presión alta o estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Lleva tus radiografías, resonancia e informes. Sin ellos el médico puede no empezar."
+  },
+  {
+   "title": "Comida",
+   "text": "No llegues justo después de una comida pesada."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, mejor deportiva."
+  }
+ ],
+ "bring": [
+  "Tus estudios e informes",
+  "La indicación del médico, si tienes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta y revisa tus estudios",
+  "Revisa el movimiento, la fuerza y la sensibilidad",
+  "Relaja los músculos con las manos",
+  "Estira y mueve las articulaciones con suavidad",
+  "A veces se oye un tronido breve en la articulación",
+  "Al final te da consejos y ejercicios"
+ ],
+ "feel": [
+  "Presión y estiramiento que se aguantan",
+  "No debe haber dolor fuerte. Si lo hay, díselo de inmediato al médico",
+  "Después puede haber un dolor leve por 1 o 2 días"
+ ],
+ "after": [
+  "El día de la sesión no cargues cosas pesadas",
+  "Haz los ejercicios que te dio el médico",
+  "Si el dolor aumentó, platícalo con el médico"
+ ],
+ "red_flags": [
+  "Adormecimiento o debilidad en un brazo o una pierna, mareo fuerte o problemas para hablar después de la sesión: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Necesito estudios antes de la terapia manual?",
+   "a": "Normalmente sí. Ayudan al médico a saber qué se puede hacer y qué no."
+  },
+  {
+   "q": "Cuando truena, ¿es que me acomodaron una vértebra?",
+   "a": "No, es el sonido de la articulación al moverse. Las vértebras no se salen de esa forma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu terapia manual. Lleva tus estudios e informes y ponte ropa cómoda."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "title": "Ecoendoscopia",
+ "also": [
+  "ecoendoscopia",
+  "ultrassom endoscópico",
+  "endossonografia",
+  "ultrassom pelo estômago"
+ ],
+ "what": "O médico coloca pela boca um tubo flexível com câmera e um pequeno aparelho de ultrassom na ponta. Assim dá para ver de perto o pâncreas, os canais da bile e a parede do estômago.",
+ "why": "Quando o ultrassom comum ou a tomografia não dão resposta: com alterações no pâncreas, pedras nos canais, nódulos na parede do esôfago, do estômago ou do intestino. Às vezes, para tirar um pedacinho de tecido com agulha fina.",
+ "duration": "o procedimento em si leva normalmente de 20 a 60 minutos, depois 1 a 2 horas de observação. O laudo normalmente sai no mesmo dia, e a biópsia em 1 a 2 semanas",
+ "tell_doctor": [
+  "Remédios que afinam o sangue. O médico decide se algo precisa mudar",
+  "Diabetes e os remédios para ela",
+  "Alergias, principalmente a remédios e anestesia",
+  "Doenças do coração e dos pulmões",
+  "Se você está grávida ou pode estar"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente sem comer de 6 a 8 horas e sem beber de 2 a 4 horas antes. O horário exato, a clínica informa."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que toma. Ele decide o que tomar de manhã."
+  },
+  {
+   "title": "Sedação",
+   "text": "Normalmente a ecoendoscopia é feita dormindo, com sedação. Combine quem vai buscar você."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ultrassom, tomografia ou ressonância que levaram ao pedido",
+  "Lista de remédios",
+  "Acompanhante"
+ ],
+ "steps": [
+  "Colocam um cateter na veia e tiram a dentadura removível",
+  "Você se deita do lado esquerdo, com um protetor macio na boca",
+  "Aplicam o remédio para dormir, e você adormece",
+  "O médico leva o tubo pela boca até o esôfago e o estômago",
+  "O aparelho na ponta do tubo mostra na tela os órgãos ao redor",
+  "Se precisar, com agulha fina, tiram um pedacinho de tecido para análise",
+  "Você acorda na sala de recuperação, em observação"
+ ],
+ "feel": [
+  "Com sedação, normalmente você não sente nem lembra de nada",
+  "Depois, a garganta pode arranhar",
+  "Pode ficar um leve estufamento por causa do ar"
+ ],
+ "after": [
+  "Normalmente você pode comer e beber depois de 1 a 2 horas, quando passar a dormência da garganta. Confirme com o médico",
+  "Depois da sedação, até o fim do dia, não dirija e não assine documentos importantes",
+  "O laudo, o médico normalmente entrega no mesmo dia",
+  "Se tiraram biópsia, o resultado sai normalmente em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, no peito ou no pescoço: ligue para a emergência",
+  "Vômito com sangue ou fezes pretas: ligue para a emergência",
+  "Febre acima de 38 graus nos primeiros dias depois do procedimento: avise o médico"
+ ],
+ "faq": [
+  {
+   "q": "Qual a diferença para a endoscopia comum?",
+   "a": "A endoscopia mostra a superfície por dentro. A ecoendoscopia, com ultrassom, vê mais fundo: a parede do órgão e o que está ao redor."
+  },
+  {
+   "q": "Dói?",
+   "a": "Normalmente não, porque é feita dormindo. Depois, a garganta pode arranhar um pouco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a ecoendoscopia. A clínica informou o horário a partir do qual não pode comer nem beber. Combine quem vai buscar você."
+  }
+ ]
+}

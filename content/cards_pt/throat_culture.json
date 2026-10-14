@@ -1,0 +1,69 @@
+{
+ "title": "Cultura de orofaringe",
+ "also": [
+  "cultura de orofaringe",
+  "cultura de garganta",
+  "swab de garganta",
+  "exame de secreção da garganta",
+  "cultura de nariz e garganta"
+ ],
+ "what": "Colhem material da garganta com uma haste de algodão. No laboratório, cultivam a amostra para saber quais micróbios vivem ali e quais remédios funcionam contra eles.",
+ "why": "Com amigdalites frequentes, dor de garganta que não passa, antes de alguns trabalhos e, às vezes, para ver se a pessoa carrega estafilococo.",
+ "duration": "a coleta leva alguns segundos, o resultado sai normalmente em 3 a 7 dias",
+ "tell_doctor": [
+  "Se você toma ou tomou antibiótico há pouco tempo",
+  "Se usa sprays ou gargarejos para a garganta",
+  "Se tem ânsia de vômito forte"
+ ],
+ "prepare": [
+  {
+   "title": "Comida e bebida",
+   "text": "Normalmente a coleta é feita em jejum ou de 2 a 3 horas depois de comer e beber. Confirme com a clínica."
+  },
+  {
+   "title": "Garganta e dentes",
+   "text": "De manhã, não gargareje e não use sprays. Escovar os dentes normalmente não é recomendado. Confirme com o laboratório."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "O ideal é fazer a cultura antes de começar o antibiótico. Se já está tomando, avise o médico e não pare por conta própria."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "Você se senta e abre a boca",
+  "Seguram a língua com uma espátula",
+  "Passam uma haste estéril nas amígdalas e no fundo da garganta",
+  "A haste vai para um tubo com meio de cultura",
+  "Se pediram também do nariz, usam outra haste"
+ ],
+ "feel": [
+  "Pode dar ânsia de vômito por um segundo",
+  "É desagradável, mas rápido"
+ ],
+ "after": [
+  "Você já pode comer e beber",
+  "O resultado sai normalmente em 3 a 7 dias",
+  "O laudo pode trazer o antibiograma. Quem explica é o médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Encontraram estafilococo. Isso é doença?",
+   "a": "Não necessariamente. Muitas pessoas carregam esse micróbio sem problema. Se precisa tratar, quem decide é o médico, pelos sintomas."
+  },
+  {
+   "q": "Por que a cultura demora tanto?",
+   "a": "Os micróbios precisam de tempo para crescer. Depois, ainda testam os remédios contra eles."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz a cultura de garganta. De manhã, não coma, não beba e não gargareje, salvo orientação diferente da clínica."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "title": "Antinuclear antibodies (ANA)",
+ "also": [
+  "ANA test",
+  "antinuclear antibodies",
+  "ANA screen",
+  "autoimmune blood test"
+ ],
+ "what": "This is a blood test from a vein. It looks for antibodies that the immune system sometimes makes against your own cells.",
+ "why": "For a possible autoimmune disease: joint pain, a rash, or a long-lasting fever with no clear cause.",
+ "duration": "the blood draw takes a few minutes; results usually come in a few days, sometimes up to a week",
+ "tell_doctor": [
+  "What medicines you take. Some of them affect the result",
+  "What symptoms you have and for how long",
+  "If anyone in your family has an autoimmune disease"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Best in the morning before eating, or a few hours after a light meal. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours, no alcohol and no hard workouts. Best not to smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "Past test results, if you have them"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "The result is often given as a titer and a pattern. Your doctor will explain it",
+  "Results usually come in a few days. The lab will tell you when"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Does a positive ANA mean I have a disease?",
+   "a": "No. A low titer can be found in healthy people. Your symptoms and other tests matter."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "ANA test tomorrow. Best to come before eating. Water is fine."
+  }
+ ]
+}

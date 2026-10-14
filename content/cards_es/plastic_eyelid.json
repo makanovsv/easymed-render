@@ -1,0 +1,88 @@
+{
+ "title": "Blefaroplastia",
+ "also": [
+  "blefaroplastia",
+  "cirugía de párpados",
+  "quitar bolsas de los ojos",
+  "levantamiento de párpados"
+ ],
+ "what": "El cirujano quita la piel y la grasa de más en los párpados de arriba o de abajo. La mirada se ve más abierta y las bolsas más pequeñas.",
+ "why": "Cuando los párpados de arriba cuelgan y estorban para ver, o te molestan las bolsas debajo de los ojos.",
+ "duration": "la cirugía suele durar de 1 a 2 horas; normalmente te vas a casa el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Ojo seco, glaucoma o cirugías de los ojos",
+  "Presión alta y enfermedades de la tiroides",
+  "Qué esperas de la cirugía"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Puede ser anestesia local con sedación o anestesia general. Pregunta en la clínica."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Ojos",
+   "text": "El día de la cirugía no uses lentes de contacto ni maquillaje. Lleva tus lentes."
+  },
+  {
+   "title": "Transporte",
+   "text": "Ponte de acuerdo con alguien que te lleve a casa: no puedes manejar."
+  }
+ ],
+ "bring": [
+  "Los análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Lentes de sol"
+ ],
+ "steps": [
+  "El cirujano marca las líneas de los cortes con plumón",
+  "Te ponen la anestesia",
+  "El corte va por el pliegue del párpado o debajo de las pestañas",
+  "Quitan la piel y la grasa de más",
+  "Ponen una sutura delgada",
+  "Te ponen frío en los párpados"
+ ],
+ "feel": [
+  "Hinchazón y moretones alrededor de los ojos las primeras 1 a 2 semanas",
+  "Tirantez y resequedad en los ojos",
+  "El dolor normalmente es poco y se quita con pastillas"
+ ],
+ "after": [
+  "Compresas frías los primeros 1 o 2 días",
+  "Duerme con la cabeza un poco levantada",
+  "Los puntos se quitan normalmente en 4 a 7 días",
+  "Sin maquillaje, lentes de contacto, sauna ni ejercicio por 1 a 2 semanas; el médico te dirá",
+  "El resultado final se ve normalmente en unos meses"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el ojo o ves peor: ve al médico de inmediato o llama a emergencias",
+  "La hinchazón y el moretón aumentan rápido de un lado",
+  "Fiebre de más de 38 o pus en la herida"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuándo se quitan los moretones?",
+   "a": "Normalmente en 1 a 2 semanas. Ayudan el frío y la cabeza levantada."
+  },
+  {
+   "q": "¿Se van a ver las cicatrices?",
+   "a": "Normalmente la cicatriz queda escondida en el pliegue del párpado o bajo las pestañas, y con el tiempo casi no se nota."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de párpados. Sin lentes de contacto ni maquillaje. Lleva lentes de sol y confirma quién te llevará a casa."
+  }
+ ]
+}

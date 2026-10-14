@@ -1,0 +1,76 @@
+{
+ "title": "Pletismografía corporal",
+ "also": [
+  "pletismografía corporal",
+  "pletismografía",
+  "cabina para pulmones",
+  "volúmenes pulmonares"
+ ],
+ "what": "Te sientas en una cabina transparente y respiras por un tubo. El aparato mide con exactitud el volumen de los pulmones y cómo pasa el aire por los bronquios.",
+ "why": "Cuando la espirometría normal no basta: para precisar enfermedades de los pulmones, antes de una cirugía de pulmón, o para controlar el tratamiento.",
+ "duration": "normalmente de 20 a 40 minutos; el reporte suele estar el mismo día",
+ "tell_doctor": [
+  "Qué inhaladores y medicamentos para respirar usas",
+  "Si te operaron hace poco de los ojos, el pecho o el abdomen",
+  "Si tuviste un infarto hace poco o tienes enfermedades del corazón",
+  "Si ahora tienes gripa o estás peor de lo normal",
+  "Si te dan miedo los lugares cerrados. La cabina es transparente y la puerta se abre de inmediato"
+ ],
+ "prepare": [
+  {
+   "title": "Cigarro y café",
+   "text": "No fumes al menos unas horas antes. En la mañana, sin café ni té cargado."
+  },
+  {
+   "title": "Inhaladores",
+   "text": "Pregunta al médico si debes usar tus inhaladores antes de la prueba. No los dejes por tu cuenta."
+  },
+  {
+   "title": "Comida",
+   "text": "Un desayuno ligero 2 horas antes. No comas demasiado."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa holgada, sin cinturón apretado."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus inhaladores",
+  "Tus espirometrías anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te sientas en la cabina transparente y cierran la puerta",
+  "Te ponen una pinza en la nariz y tomas el tubo con los labios",
+  "Primero respiras tranquilo",
+  "Tapan el tubo un segundo y tú sigues respirando suave",
+  "A veces te piden tomar aire profundo y soplar fuerte",
+  "En unos minutos abren la puerta"
+ ],
+ "feel": [
+  "La cabina está cerrada, pero es transparente y te van hablando",
+  "Cuando tapan el tubo parece que cuesta respirar. Dura 1 o 2 segundos"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "El reporte suele estar el mismo día"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Y si me da miedo en la cabina?",
+   "a": "Dilo o haz una seña con la mano. Abren la puerta de inmediato."
+  },
+  {
+   "q": "¿En qué se diferencia de la espirometría?",
+   "a": "La espirometría mide el aire que sacas. La pletismografía muestra todo el volumen de los pulmones, incluso el aire que queda después de soplar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu pletismografía. En la mañana no fumes ni tomes café. Pregunta al médico por tus inhaladores."
+  }
+ ]
+}

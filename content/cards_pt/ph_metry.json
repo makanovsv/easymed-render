@@ -1,0 +1,76 @@
+{
+ "title": "pHmetria de 24 horas",
+ "also": [
+  "pHmetria",
+  "pHmetria esofágica de 24 horas",
+  "impedanciopHmetria",
+  "exame de refluxo",
+  "sonda de 24 horas"
+ ],
+ "what": "Colocam uma sonda fina pelo nariz até o esôfago e deixam por 24 horas. O aparelho registra quantas vezes o ácido do estômago sobe para o esôfago.",
+ "why": "Com azia que não melhora com tratamento, tosse ou dor no peito sem causa clara, ou antes de cirurgia de refluxo.",
+ "duration": "a colocação da sonda leva uns 15 minutos, o uso normalmente 24 horas. O laudo sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente para azia e acidez. O médico diz se precisa pausar",
+  "Cirurgias no esôfago e no estômago, problemas no nariz",
+  "Se você tolera mal sondas",
+  "Se toma remédio que afina o sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios para azia",
+   "text": "Muitas vezes eles são pausados alguns dias antes do teste. Não suspenda por conta própria. Quem decide é o médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente sem comer de 4 a 6 horas antes da colocação da sonda. Confirme com a clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, com bolso ou cinto para o aparelho."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos anteriores de endoscopia e manometria",
+  "Lista de remédios",
+  "Diário e caneta. Normalmente a clínica entrega"
+ ],
+ "steps": [
+  "Anestesiam o nariz e a garganta",
+  "A sonda fina entra pelo nariz enquanto você engole goles de água",
+  "A ponta da sonda é presa na bochecha com esparadrapo",
+  "O aparelho fica preso na cintura",
+  "Você vai para casa e tem um dia normal",
+  "No diário, você anota comida, sono, azia e dor",
+  "Depois de 24 horas, você volta, e a sonda é retirada em segundos"
+ ],
+ "feel": [
+  "A colocação da sonda é desagradável: os olhos lacrimejam, dá vontade de espirrar ou tossir",
+  "Depois você se acostuma, mas engolir fica um pouco estranho"
+ ],
+ "after": [
+  "Logo depois de tirar, vida normal",
+  "Remédios para azia, conforme o médico orientar",
+  "O laudo sai normalmente em alguns dias"
+ ],
+ "red_flags": [
+  "Sangramento do nariz que não para, dor forte no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso comer com a sonda?",
+   "a": "Sim, coma como sempre. Assim o teste mostra a realidade. Muitas vezes pedem para evitar coisas ácidas e refrigerante."
+  },
+  {
+   "q": "Posso tomar banho com o aparelho?",
+   "a": "Não, o aparelho não pode molhar. Tome banho antes da colocação e depois da retirada."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você faz a pHmetria de 24 horas. Fique sem comer no horário que a clínica indicou. Pergunte ao médico sobre os remédios para azia."
+  }
+ ]
+}

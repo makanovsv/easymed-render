@@ -1,0 +1,72 @@
+{
+ "title": "Vacuna contra la hepatitis B",
+ "also": [
+  "vacuna de la hepatitis B",
+  "vacuna contra hepatitis",
+  "vacunación hepatitis B",
+  "esquema de hepatitis B"
+ ],
+ "what": "Es una inyección de vacuna que protege el hígado del virus de la hepatitis B. Normalmente se necesitan varias dosis según un calendario.",
+ "why": "A los recién nacidos en los primeros días de vida, a los niños según el calendario, a adultos sin vacuna, al personal de salud y a quienes tienen en la familia a alguien con el virus.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos; el esquema suele ser de 3 dosis en varios meses",
+ "tell_doctor": [
+  "Si ahora estás enfermo o tienes fiebre",
+  "Alergias y reacciones fuertes a vacunas anteriores",
+  "Si tienes alergia a la levadura",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando estás sano. Antes de la inyección te revisan."
+  },
+  {
+   "title": "Calendario",
+   "text": "El esquema suele ser de 3 dosis. Apunta las fechas para no faltar."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir fácilmente el brazo."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico o la enfermera pregunta cómo te sientes y toma la temperatura",
+  "Descubres el brazo",
+  "Limpian la piel y ponen la inyección",
+  "Anotan la vacuna en tus documentos",
+  "Después de la inyección hay que quedarse sentado en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces duele el lugar de la inyección por 1 o 2 días",
+  "A veces cansancio o un poco de fiebre"
+ ],
+ "after": [
+  "Quédate 30 minutos cerca del consultorio",
+  "Puedes regresar a tus actividades",
+  "La siguiente dosis, según el calendario; te dirán la fecha"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o salen ronchas por todo el cuerpo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué pasa si se me pasó la segunda dosis?",
+   "a": "Normalmente el esquema no se empieza de nuevo. Ve con el médico; él sigue desde donde te quedaste."
+  },
+  {
+   "q": "¿Hay que revisar la protección después del esquema?",
+   "a": "A veces el médico recomienda un análisis de anticuerpos, por ejemplo al personal de salud. Pregúntale al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna contra la hepatitis B. Lleva tu cartilla de vacunación."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Alta do hospital",
+ "also": [
+  "alta hospitalar",
+  "resumo de alta",
+  "sair do hospital",
+  "depois da internação"
+ ],
+ "what": "Quando o tratamento no hospital terminou e você vai para casa. Você recebe o resumo de alta com as orientações.",
+ "why": "Depois de terminar o tratamento no hospital, ou quando dá para continuar o tratamento em casa.",
+ "duration": "a papelada costuma levar de 1 a algumas horas no dia da alta",
+ "tell_doctor": [
+  "O que preocupa você antes da alta",
+  "Se em casa não há quem ajude",
+  "Se não ficou claro como tomar os remédios",
+  "Se precisa de atestado para o trabalho"
+ ],
+ "prepare": [
+  {
+   "title": "Horário",
+   "text": "Pergunte na véspera o horário da alta e combine quem vai buscar você."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Anote as perguntas: remédios, esforço, alimentação, quando voltar ao médico."
+  },
+  {
+   "title": "Coisas",
+   "text": "Arrume as coisas antes e confira a gaveta do criado-mudo."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Coisas e roupa para a volta",
+  "Lista de perguntas ao médico"
+ ],
+ "steps": [
+  "O médico faz o último exame",
+  "Você recebe o resumo de alta com o diagnóstico e as orientações",
+  "O médico explica quais remédios tomar e como",
+  "Dizem quando e a que médico ir depois",
+  "Entregam o atestado, se precisar",
+  "Você pega as coisas e vai para casa"
+ ],
+ "feel": [
+  "Pode dar ansiedade ir para casa. É normal",
+  "A fraqueza depois do hospital pode durar alguns dias"
+ ],
+ "after": [
+  "Guarde o resumo de alta e mostre ao seu médico",
+  "Tome os remédios conforme as orientações",
+  "Vá ao médico do posto ou da clínica no prazo indicado"
+ ],
+ "red_flags": [
+  "Piorou de repente: dor forte, febre alta, dificuldade para respirar: ligue para a emergência",
+  "Os sinais sobre os quais o médico avisou na alta"
+ ],
+ "faq": [
+  {
+   "q": "E se algo no resumo de alta não estiver claro?",
+   "a": "Pergunte ao médico antes de sair. Depois, dá para mostrar o resumo ao seu médico."
+  },
+  {
+   "q": "Quando ir à consulta depois da alta?",
+   "a": "Normalmente nos primeiros dias depois da alta. O prazo exato está nas orientações."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a alta. Arrume as coisas, combine quem vai buscar você e anote as perguntas ao médico."
+  }
+ ]
+}

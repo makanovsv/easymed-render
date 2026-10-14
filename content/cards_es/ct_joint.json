@@ -1,0 +1,62 @@
+{
+ "title": "Tomografía de articulación",
+ "also": [
+  "tomografía de articulación",
+  "TAC de rodilla",
+  "tomografía de hombro",
+  "tomografía de tobillo"
+ ],
+ "what": "Son imágenes por capas de una articulación. Los huesos se ven en 3D y con mucho detalle.",
+ "why": "Con fracturas complicadas, antes de una cirugía de la articulación, o si la radiografía no aclaró todo.",
+ "duration": "en el consultorio normalmente de 5 a 15 minutos; el reporte, el mismo día o en 1 a 2 días",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si en la articulación tienes una prótesis, placa o tornillos",
+  "Si es con medio de contraste: si tienes alergia al yodo o al contraste, o enfermedades de los riñones"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Sin contraste no hace falta. Puedes comer y beber."
+  },
+  {
+   "title": "Ropa",
+   "text": "Quítate joyas y cosas de metal en la zona. A veces te piden ponerte una bata."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus estudios anteriores de esa articulación"
+ ],
+ "steps": [
+  "Te acuestas en la mesa y el técnico te ayuda a acomodarte",
+  "Acomodan la articulación y la sujetan con almohadas",
+  "La mesa entra en el anillo del aparato",
+  "Tienes que estar sin moverte unos segundos"
+ ],
+ "feel": [
+  "No duele. El aparato hace un ruido suave",
+  "El anillo es ancho, casi no se siente encierro"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "Lleva el reporte y las imágenes al traumatólogo u ortopedista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Tomografía o resonancia de la articulación?",
+   "a": "La tomografía es mejor para huesos y fracturas. Los ligamentos, el cartílago y los meniscos se ven mejor en resonancia. Lo elige el médico."
+  },
+  {
+   "q": "¿Me pueden hacer la tomografía con yeso?",
+   "a": "Muchas veces sí. Pregunta al médico. A veces quitan el yeso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu tomografía de articulación. Usa ropa sin metal y lleva tus estudios anteriores."
+  }
+ ]
+}

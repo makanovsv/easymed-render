@@ -1,0 +1,81 @@
+{
+ "title": "Avaliação da tontura",
+ "also": [
+  "exame do labirinto",
+  "avaliação vestibular",
+  "vectoeletronistagmografia",
+  "exame de tontura"
+ ],
+ "what": "O médico investiga por que você sente tontura. Examina os olhos, o equilíbrio e a posição do corpo, às vezes grava os movimentos dos olhos com óculos especiais.",
+ "why": "Com tontura que volta, desequilíbrio, tontura ao virar a cabeça ou ao levantar.",
+ "duration": "normalmente de 30 a 60 minutos; parte da resposta o médico dá na hora",
+ "tell_doctor": [
+  "Como é a tontura: tudo gira, você balança ou a vista escurece",
+  "Quando começou, quanto dura a crise e o que provoca",
+  "Zumbido, perda de audição, enjoo",
+  "Quais remédios você toma",
+  "Dormência, fraqueza, fala alterada: diga na hora"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Alguns remédios para tontura atrapalham o exame. Não suspenda por conta própria. Pergunte antes ao médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente um café da manhã leve. Não coma muito, porque os testes podem dar enjoo."
+  },
+  {
+   "title": "Olhos",
+   "text": "É melhor ir sem maquiagem nos olhos. Se você usa lentes, leve os óculos."
+  },
+  {
+   "title": "Transporte",
+   "text": "Vale ir com acompanhante: depois dos testes pode ficar um pouco tonto."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos anteriores, ressonância ou tomografia, se tiver",
+  "Lista de remédios",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "O médico pergunta em detalhes sobre as crises",
+  "Pede para você seguir com os olhos um dedo ou um ponto",
+  "Testa o equilíbrio: ficar de pé de olhos fechados, andar em linha reta",
+  "Pode deitar você rápido virando a cabeça. É o teste para cristais soltos no ouvido",
+  "Às vezes colocam óculos com câmera que gravam o movimento dos olhos",
+  "Muitas vezes também testam a audição"
+ ],
+ "feel": [
+  "Alguns testes dão tontura por pouco tempo. É de propósito",
+  "Pode dar enjoo. Avise o médico",
+  "Não dói"
+ ],
+ "after": [
+  "A tontura dos testes costuma passar em minutos",
+  "Se acharem cristais soltos no ouvido, muitas vezes corrigem na hora com manobras da cabeça",
+  "O laudo normalmente sai no mesmo dia, às vezes é preciso ressonância ou exames"
+ ],
+ "red_flags": [
+  "Tontura junto com fraqueza no braço ou na perna, rosto torto, fala alterada: ligue para a emergência",
+  "Dor de cabeça forte e repentina ou visão dupla: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O que mais causa tontura ao virar a cabeça?",
+   "a": "Muitas vezes são pequenos cristais soltos no ouvido interno. Isso se trata com manobras da cabeça no consultório."
+  },
+  {
+   "q": "Posso ir sozinho?",
+   "a": "Pode, mas com acompanhante é mais tranquilo: depois dos testes a cabeça pode rodar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a avaliação da tontura. Leve laudos anteriores e a lista de remédios. Não coma muito antes."
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Retirada do baço",
+ "also": [
+  "esplenectomia",
+  "esplenectomia por vídeo",
+  "cirurgia do baço"
+ ],
+ "what": "O cirurgião retira o baço, normalmente por alguns furinhos, às vezes por um corte. Parte do trabalho dele passa para outros órgãos.",
+ "why": "Na ruptura do baço depois de um trauma, em algumas doenças do sangue, cistos e tumores.",
+ "duration": "a cirurgia leva normalmente de 1 a 3 horas, com internação normalmente de 2 a 7 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Doenças do sangue e o nível de plaquetas",
+  "Quais vacinas você já tomou",
+  "Doenças do coração, dos pulmões, diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Vacinas",
+   "text": "Na cirurgia marcada, normalmente se tomam antes as vacinas contra pneumococo, meningococo e Haemophilus."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  }
+ ],
+ "bring": [
+  "Resultados de exames",
+  "Documentos",
+  "Lista de remédios",
+  "A carteira de vacinação"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "O anestesista aplica a anestesia",
+  "O cirurgião faz furinhos ou um corte no lado esquerdo da barriga",
+  "Os vasos do baço são ligados, e o órgão é retirado",
+  "O corte é suturado, às vezes colocam um dreno"
+ ],
+ "feel": [
+  "Dor no lado esquerdo. Dão analgésico",
+  "Às vezes dor no ombro pelo gás, que passa em 1 a 2 dias",
+  "Fraqueza nos primeiros dias"
+ ],
+ "after": [
+  "Você começa a levantar e caminhar cedo",
+  "Não pegue peso por algumas semanas",
+  "Sem baço, as infecções podem ser mais graves. Com febre, procure o médico na hora",
+  "Diga a qualquer médico que você não tem baço"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus: procure atendimento na hora, não espere",
+  "Dor forte na barriga, fraqueza, palidez",
+  "Dor na panturrilha, falta de ar, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Como é viver sem baço?",
+   "a": "Normalmente é uma vida normal. É importante tomar as vacinas e não esperar com febre: procure o médico na hora."
+  },
+  {
+   "q": "Preciso de vacinas depois da cirurgia?",
+   "a": "Sim, conforme o calendário do médico. Elas são repetidas depois de alguns anos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Leve os exames e a carteira de vacinação. Comida e água, só até o horário da clínica."
+  }
+ ]
+}

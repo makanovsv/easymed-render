@@ -1,0 +1,84 @@
+{
+ "title": "Retirada do rim",
+ "also": [
+  "nefrectomia",
+  "nefrectomia parcial",
+  "nefrectomia por vídeo",
+  "cirurgia de rim"
+ ],
+ "what": "O cirurgião retira o rim inteiro ou só a parte com o tumor. Muitas vezes por furinhos, às vezes por um corte.",
+ "why": "Na maioria das vezes no tumor de rim. Às vezes, se o rim não funciona e causa problemas.",
+ "duration": "a cirurgia leva normalmente de 2 a 4 horas, com internação normalmente de 3 a 7 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Pressão alta, diabetes, doenças do coração",
+  "Como funciona o outro rim. O médico confere nos exames",
+  "Remédios que fazem mal aos rins. O médico orienta"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Exames dos rins",
+   "text": "Antes da cirurgia, conferem como funcionam os dois rins. Normalmente com exame de sangue e tomografia."
+  }
+ ],
+ "bring": [
+  "Tomografia e exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para o hospital"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "O anestesista aplica a anestesia",
+  "Colocam uma sonda na bexiga",
+  "Você fica deitado de lado",
+  "O cirurgião retira o rim ou parte dele",
+  "O corte é suturado, às vezes colocam um dreno"
+ ],
+ "feel": [
+  "Dor no lado e nos cortes. Dão analgésico",
+  "A sonda na bexiga incomoda. Ela é retirada em 1 a 2 dias",
+  "Fraqueza nos primeiros dias"
+ ],
+ "after": [
+  "Normalmente você levanta e caminha no primeiro dia",
+  "Beba água como o médico indicar",
+  "Não pegue peso por algumas semanas",
+  "Os exames da função do rim são feitos com regularidade",
+  "A biópsia sai normalmente em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Sangue na urina com coágulos grandes, ou muito pouca urina",
+  "Febre acima de 38 graus, dor forte no lado",
+  "Dor na panturrilha, falta de ar, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dá para viver com um rim só?",
+   "a": "Sim. Um rim saudável dá conta. É importante acompanhar a pressão e os exames."
+  },
+  {
+   "q": "Preciso de dieta?",
+   "a": "Normalmente não há dieta especial. O médico pode recomendar menos sal e evitar alguns analgésicos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia no rim. Leve a tomografia e os exames. Comida e água, só até o horário da clínica."
+  }
+ ]
+}

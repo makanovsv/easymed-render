@@ -1,0 +1,81 @@
+{
+ "title": "Retirada da glândula suprarrenal",
+ "also": [
+  "adrenalectomia",
+  "adrenalectomia por vídeo",
+  "cirurgia da suprarrenal"
+ ],
+ "what": "O cirurgião retira a suprarrenal, uma pequena glândula acima do rim. Normalmente por alguns furinhos.",
+ "why": "No tumor de suprarrenal, principalmente se ele produz hormônios em excesso e aumenta a pressão.",
+ "duration": "a cirurgia leva normalmente de 1 a 3 horas, com internação normalmente de 2 a 5 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Pressão e todos os remédios para pressão",
+  "Diabetes",
+  "Crises de coração disparado, suor, dor de cabeça"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Hormônios",
+   "text": "Às vezes, por algumas semanas antes da cirurgia, se tomam remédios para preparar a pressão. Quem receita é o endocrinologista."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  }
+ ],
+ "bring": [
+  "Tomografia e exames de hormônios",
+  "Documentos",
+  "Lista de remédios",
+  "O diário da pressão, se você faz"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "O anestesista aplica a anestesia e acompanha a pressão",
+  "Você fica de lado ou de barriga para baixo",
+  "Pelos furinhos, o cirurgião retira a suprarrenal",
+  "Os furos são suturados"
+ ],
+ "feel": [
+  "Dor no lado e nos furinhos. Dão analgésico",
+  "Fraqueza nos primeiros dias",
+  "A pressão pode variar. Ela é medida muitas vezes"
+ ],
+ "after": [
+  "Você começa a levantar e caminhar cedo",
+  "Às vezes, por um tempo, são precisos hormônios em comprimido. O médico receita",
+  "Pressão e exames são conferidos depois da cirurgia",
+  "A biópsia sai normalmente em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Fraqueza forte, tontura, vômitos, queda da pressão: ligue para a emergência",
+  "Febre acima de 38 graus, pus nos furinhos",
+  "Dor na panturrilha, falta de ar, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Uma suprarrenal só dá conta?",
+   "a": "Normalmente sim. A outra assume o trabalho."
+  },
+  {
+   "q": "A pressão vai normalizar?",
+   "a": "Muitas vezes melhora, mas nem sempre na hora. O médico ajusta o tratamento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Tome os remédios conforme o esquema do médico. Comida e água, só até o horário da clínica."
+  }
+ ]
+}

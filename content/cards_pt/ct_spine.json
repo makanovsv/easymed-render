@@ -1,0 +1,73 @@
+{
+ "title": "Tomografia da coluna",
+ "also": [
+  "tomografia da coluna",
+  "TC de coluna lombar",
+  "tomografia da coluna cervical",
+  "tomografia computadorizada da coluna"
+ ],
+ "what": "São imagens em camadas das vértebras. Mostram melhor os ossos: fraturas, estreitamento do canal e bicos de papagaio.",
+ "why": "Depois de uma pancada nas costas, com dor, quando não se pode fazer ressonância, antes de cirurgia e para controle depois dela.",
+ "duration": "na sala, normalmente de 10 a 15 minutos. O laudo sai no mesmo dia ou em 1 a 2 dias",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se a tomografia for com contraste: se tem alergia a iodo ou contraste e doença nos rins",
+  "Se tem pinos ou placas de metal na coluna",
+  "Se é difícil ficar deitado de costas por causa da dor"
+ ],
+ "prepare": [
+  {
+   "title": "Sem contraste",
+   "text": "Não precisa de preparo. Pode comer e beber."
+  },
+  {
+   "title": "Com contraste",
+   "text": "Normalmente sem comer de 3 a 4 horas. Água pode. Às vezes pedem exame de creatinina. Confirme com a clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Sem metal na região do exame: zíperes, fechos, cinto."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Tomografias e ressonâncias anteriores da coluna",
+  "O analgésico que o médico receitou, se a dor estiver forte"
+ ],
+ "steps": [
+  "Você se deita na mesa, e o técnico ajuda a ficar confortável",
+  "A mesa entra num anel largo do aparelho",
+  "É preciso ficar parado e, às vezes, segurar a respiração quando pedirem",
+  "Se for com contraste, aplicam na veia e fazem mais uma série de imagens"
+ ],
+ "feel": [
+  "Não dói. O aparelho faz um barulho baixo",
+  "O anel é largo, quase não dá sensação de aperto",
+  "Com contraste: uma onda de calor e gosto de metal na boca. Passa em um minuto"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "Depois do contraste, beba mais água, se o médico não disser diferente",
+  "Com o laudo, volte ao neurologista ou neurocirurgião"
+ ],
+ "red_flags": [
+  "Dormência na região íntima, dificuldade para urinar, fraqueza forte e repentina nas pernas: ligue na hora para a emergência",
+  "Depois do contraste, coceira, manchas na pele, inchaço no rosto ou dificuldade para respirar: avise na hora a equipe ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Para hérnia de disco, o que é melhor: tomografia ou ressonância?",
+   "a": "Hérnias e nervos aparecem melhor na ressonância. A tomografia mostra melhor os ossos. Quem escolhe é o médico."
+  },
+  {
+   "q": "Posso fazer tomografia com metal na coluna?",
+   "a": "Sim, metal não impede a tomografia, mas pode atrapalhar um pouco a imagem."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Daqui a pouco é a tomografia da coluna. Se for com contraste, fique de 3 a 4 horas sem comer. Água pode."
+  }
+ ]
+}

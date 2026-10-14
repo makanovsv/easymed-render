@@ -1,0 +1,69 @@
+{
+ "title": "Consulta con el psicólogo",
+ "also": [
+  "psicólogo",
+  "terapia psicológica",
+  "consulta de psicología"
+ ],
+ "what": "Es un especialista que te ayuda, platicando, a entender tus emociones, tus relaciones y situaciones difíciles. No es médico y no receta medicamentos.",
+ "why": "Si tienes estrés, ansiedad, problemas en tus relaciones, perdiste a alguien querido, pasas por una crisis, o hay problemas de conducta en los niños.",
+ "duration": "la sesión suele durar de 50 a 60 minutos; cuántas sesiones, lo deciden juntos",
+ "tell_doctor": [
+  "Qué te trajo y qué quieres cambiar",
+  "Si antes fuiste con un psicólogo o psiquiatra",
+  "Qué medicamentos tomas",
+  "Si tienes pensamientos de hacerte daño, dilo de inmediato"
+ ],
+ "prepare": [
+  {
+   "title": "Motivo",
+   "text": "Piensa con qué quieres llegar. Si cuesta ponerlo en palabras, es normal; lo verán juntos."
+  },
+  {
+   "title": "Para un niño",
+   "text": "Si es para tu hijo: muchas veces a la primera sesión van juntos, a veces primero sin el niño. Pregunta antes."
+  },
+  {
+   "title": "Lugar",
+   "text": "Si la sesión es en línea, busca un lugar tranquilo donde nadie te escuche."
+  }
+ ],
+ "bring": [
+  "Una identificación, si la clínica la pide",
+  "Una libreta, si quieres apuntar algo"
+ ],
+ "steps": [
+  "Se conocen y platican de lo que te preocupa",
+  "El especialista te explica cómo va a ser el trabajo",
+  "Cuentas las cosas a tu ritmo",
+  "Juntos ponen metas",
+  "Acuerdan la siguiente sesión"
+ ],
+ "feel": [
+  "A veces cuesta hablar de cosas personales. Es normal",
+  "Después de la sesión puedes sentir cansancio o alivio"
+ ],
+ "after": [
+  "El resultado normalmente se nota después de varias sesiones",
+  "Puedes cambiar de especialista si no te sentiste cómodo"
+ ],
+ "red_flags": [
+  "Pensamientos de hacerte daño: no esperes la sesión, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuántas sesiones necesito?",
+   "a": "Varía: de unas cuantas a muchos meses. Se platica con el psicólogo."
+  },
+  {
+   "q": "¿El psicólogo puede recetar medicamentos?",
+   "a": "No. Si hacen falta medicamentos, te recomendará ir con un psiquiatra."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu sesión con el psicólogo. Piensa de qué quieres hablar."
+  }
+ ]
+}

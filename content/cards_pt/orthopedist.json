@@ -1,0 +1,71 @@
+{
+ "title": "Consulta com ortopedista",
+ "also": [
+  "ortopedista",
+  "traumatologista",
+  "ortopedia e traumatologia",
+  "médico dos ossos"
+ ],
+ "what": "É o médico que trata lesões e doenças dos ossos, das articulações, dos músculos e dos ligamentos.",
+ "why": "Com lesões, fraturas, luxações, dores nas articulações e nas costas, pé chato, depois de cirurgias nos ossos.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Como e quando aconteceu a lesão ou começou a dor",
+  "O que piora a dor",
+  "Se já teve fraturas e cirurgias",
+  "Quais remédios você toma",
+  "Se você tem osteoporose"
+ ],
+ "prepare": [
+  {
+   "title": "Imagens",
+   "text": "Leve radiografia, ressonância ou tomografia em CD e os laudos."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, para mostrar a articulação doente com facilidade."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Imagens em CD e os laudos",
+  "Órtese ou palmilhas, se usar",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Examina e apalpa o local doente",
+  "Testa os movimentos da articulação",
+  "Olha as imagens ou pede uma radiografia",
+  "Indica o tratamento: repouso, imobilização, fisioterapia, remédios ou cirurgia"
+ ],
+ "feel": [
+  "Testar os movimentos da articulação doente pode incomodar",
+  "Diga ao médico onde dói. Ele vai com mais cuidado"
+ ],
+ "after": [
+  "Siga as orientações sobre esforço e imobilização",
+  "Pergunte quando voltar para revisão"
+ ],
+ "red_flags": [
+  "Dor forte depois de uma lesão, osso aparecendo ou perna torta, impossível mexer: ligue para a emergência",
+  "Dormência, dedos roxos ou frios sob o gesso: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Preciso fazer radiografia antes?",
+   "a": "Se tiver imagens recentes, leve. Se precisa de uma nova, o médico decide."
+  },
+  {
+   "q": "Ortopedista e traumatologista são médicos diferentes?",
+   "a": "Normalmente é a mesma especialidade: o ortopedista trata tanto as lesões quanto as doenças das articulações."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o ortopedista. Leve as imagens e vista roupa confortável."
+  }
+ ]
+}

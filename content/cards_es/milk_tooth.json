@@ -1,0 +1,73 @@
+{
+ "title": "Extracción de diente de leche",
+ "also": [
+  "sacar un diente de leche",
+  "extracción dental en niños",
+  "quitar un diente de leche"
+ ],
+ "what": "El dentista infantil saca con cuidado el diente de leche, con anestesia local. Normalmente es rápido.",
+ "why": "Cuando el diente de leche está flojo y no deja salir el permanente, o está muy dañado o inflamado y no se puede curar.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Enfermedades y alergias del niño, sobre todo a anestésicos",
+  "Si al niño le salen moretones fácil o tarda en dejar de sangrar",
+  "Medicamentos que toma el niño",
+  "Si el niño tiene miedo. El dentista buscará cómo tratarlo"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Dale de comer al niño 1 a 2 horas antes de la cita. Después de la extracción no puede comer por 2 horas."
+  },
+  {
+   "title": "Ánimo",
+   "text": "Dile con calma al niño que el dentista va a ayudar a su dientito. No lo asustes ni le prometas que no le va a doler nada."
+  },
+  {
+   "title": "Salud",
+   "text": "Si el niño tiene fiebre o gripa, llama a la clínica. Pueden cambiar la cita."
+  }
+ ],
+ "bring": [
+  "Los documentos del niño",
+  "Su juguete favorito"
+ ],
+ "steps": [
+  "El dentista revisa el diente y a veces toma una radiografía",
+  "Ponen un gel anestésico en la encía",
+  "Ponen una inyección de anestesia",
+  "Cuando la encía está dormida, sacan el diente",
+  "Ponen una gasa en el hueco, que hay que morder"
+ ],
+ "feel": [
+  "La inyección es un pellizco breve, después del gel",
+  "Luego el labio y el cachete se duermen de 1 a 3 horas",
+  "Al sacar el diente se siente presión, pero no dolor"
+ ],
+ "after": [
+  "Que muerda la gasa de 15 a 20 minutos",
+  "2 horas sin comer, hasta que se quite lo dormido",
+  "Cuida que el niño no se muerda el labio o el cachete dormidos",
+  "El día de la extracción, nada caliente, sin enjuagues y sin tocar el hueco"
+ ],
+ "red_flags": [
+  "El hueco sigue sangrando una hora después de morder la gasa",
+  "Cachete hinchado, fiebre o dolor fuerte 1 a 2 días después"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuándo sale el diente permanente?",
+   "a": "Depende: a veces en unas semanas, a veces después. Si el diente se sacó muy pronto, el dentista puede proponer un aparato para guardar el espacio."
+  },
+  {
+   "q": "¿Puedo sacar en casa un diente flojo?",
+   "a": "Si está muy flojo y casi se cae, a veces se cae solo. Si la encía duele o está inflamada, ve al dentista."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es la extracción del diente de tu hijo. Dale de comer antes: 2 horas después no podrá comer."
+  }
+ ]
+}

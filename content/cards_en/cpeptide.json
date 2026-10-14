@@ -1,0 +1,68 @@
+{
+ "title": "C-peptide",
+ "also": [
+  "C-peptide test",
+  "connecting peptide",
+  "diabetes blood test"
+ ],
+ "what": "This is a blood test from a vein. It shows how much insulin your own pancreas makes.",
+ "why": "To find out the type of diabetes, to choose treatment, or for episodes of low blood sugar.",
+ "duration": "the blood draw takes a few minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "If you have diabetes and how it is treated",
+  "If you inject insulin",
+  "If you have episodes of low blood sugar",
+  "If you have kidney disease"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually fasting: no food for 8 to 12 hours. Plain water is fine. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours, no alcohol and no hard workouts. Best not to smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. If you have diabetes, tell your doctor how you take your medicines and insulin. They will tell you what to do on the morning of the test."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "Food and something sweet for after the test, if you have diabetes"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Sometimes blood is taken again after a meal or a sweet drink, if your doctor says so",
+  "Results usually come in 1 to 3 days. The lab will tell you when"
+ ],
+ "red_flags": [
+  "Shaking, cold sweat, or strong weakness while fasting may mean low blood sugar. Eat something sweet and tell the nurse"
+ ],
+ "faq": [
+  {
+   "q": "How is C-peptide different from insulin?",
+   "a": "It is released together with your own insulin. It shows how your pancreas works, even if you inject insulin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "C-peptide test tomorrow. Do not eat after dinner. Plain water is fine."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Lavagem das amígdalas",
+ "also": [
+  "lavagem das amígdalas",
+  "limpeza de cáseos",
+  "lavagem das criptas amigdalianas"
+ ],
+ "what": "O médico lava as amígdalas com uma solução de remédio. Assim saem as bolinhas brancas (cáseos) e o pus.",
+ "why": "Na amigdalite crônica, dor de garganta frequente, cáseos nas amígdalas e mau hálito.",
+ "duration": "normalmente de 10 a 15 minutos; muitas vezes indicam uma série de sessões",
+ "tell_doctor": [
+  "Se agora você tem febre ou dor de garganta aguda",
+  "Alergia a remédios e soluções",
+  "Ânsia forte",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "É melhor não comer de 1 a 2 horas antes, para não enjoar."
+  },
+  {
+   "title": "Depois",
+   "text": "Não planeje comer logo depois. Normalmente pedem para esperar."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Pedido médico, se tiver"
+ ],
+ "steps": [
+  "Você senta na cadeira",
+  "A garganta pode ser anestesiada com spray",
+  "Com uma seringa especial ou um aparelho, o médico lava as amígdalas",
+  "A solução tira os cáseos",
+  "Você cospe a solução numa cuba",
+  "Às vezes passam remédio nas amígdalas"
+ ],
+ "feel": [
+  "Ânsia",
+  "É desagradável, mas normalmente não dói",
+  "A garganta arranha um pouco depois"
+ ],
+ "after": [
+  "Não coma nem beba por cerca de uma hora, ou como o médico indicar",
+  "Faça a série inteira, se foi indicada"
+ ],
+ "red_flags": [
+  "Febre alta, dor forte na garganta de um lado só, dificuldade para abrir a boca: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Posso lavar as amígdalas em casa?",
+   "a": "Gargarejar pode ajudar, mas tirar os cáseos do jeito certo quem faz é o médico."
+  },
+  {
+   "q": "Isso evita a cirurgia de amígdalas?",
+   "a": "Muitas vezes ajuda. Se a cirurgia é necessária, quem decide é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a 2 horas é a lavagem das amígdalas. É melhor não comer antes."
+  }
+ ]
+}

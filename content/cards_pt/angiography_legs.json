@@ -1,0 +1,82 @@
+{
+ "title": "Arteriografia das pernas",
+ "also": [
+  "arteriografia de membros inferiores",
+  "angiografia das pernas",
+  "angiografia periférica",
+  "cateterismo das pernas"
+ ],
+ "what": "O médico coloca um tubo fino na artéria e aplica contraste. No raio-X aparece onde as artérias das pernas estão estreitas. Às vezes, no mesmo procedimento, elas já são desobstruídas.",
+ "why": "Com dor nas pernas ao caminhar, feridas nos pés que não cicatrizam, ou se o ultrassom mostrou estreitamento das artérias.",
+ "duration": "o procedimento leva normalmente de 30 a 90 minutos, depois algumas horas de repouso na cama; a internação costuma ser de até 1 a 2 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue e os de diabetes. O médico diz o que suspender e quando",
+  "Alergia a iodo ou a contraste",
+  "Doenças dos rins",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, inclusive da função dos rins, e eletrocardiograma. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come por algumas horas antes do procedimento. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Pele",
+   "text": "Às vezes pedem para raspar os pelos da virilha. Confirme com a clínica."
+  },
+  {
+   "title": "Coisas",
+   "text": "Roupa confortável, seus remédios de sempre, carregador."
+  }
+ ],
+ "bring": [
+  "Pedido médico e o ultrassom dos vasos",
+  "Exames",
+  "Documentos e lista de remédios",
+  "Alguém para levar você para casa"
+ ],
+ "steps": [
+  "Colocam um acesso na veia, e você deita na mesa",
+  "A pele da virilha ou do braço é anestesiada com injeção",
+  "O médico introduz um tubo fino na artéria",
+  "Aplicam o contraste e tiram as imagens",
+  "Se preciso, já abrem o vaso com um balão ou colocam um stent",
+  "O tubo é retirado, e o local da punção é apertado com força ou fechado com um dispositivo especial"
+ ],
+ "feel": [
+  "A injeção da anestesia",
+  "Sensação de calor nas pernas quando entra o contraste, por alguns segundos",
+  "O tubo dentro do vaso normalmente não dói"
+ ],
+ "after": [
+  "Fique deitado algumas horas sem dobrar a perna. O tempo quem diz é o médico",
+  "Beba mais água, para o contraste sair mais rápido",
+  "Por alguns dias, sem peso e sem esporte",
+  "Um pequeno roxo no local da punção pode aparecer"
+ ],
+ "red_flags": [
+  "O local da punção inchou ou sangra: aperte e ligue para a emergência",
+  "A perna ficou fria, pálida ou dormente: ligue para a emergência",
+  "Febre acima de 38 graus"
+ ],
+ "faq": [
+  {
+   "q": "Precisa de anestesia geral?",
+   "a": "Normalmente não. É feita anestesia local, às vezes com um calmante."
+  },
+  {
+   "q": "Por que não posso dobrar a perna depois?",
+   "a": "Para o furo na artéria fechar bem e não sangrar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a arteriografia. Separe os documentos e os exames. Comida, só até o horário que a clínica indicou."
+  }
+ ]
+}

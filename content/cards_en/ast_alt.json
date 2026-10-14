@@ -1,0 +1,72 @@
+{
+ "title": "Liver function tests (ALT, AST, bilirubin)",
+ "also": [
+  "liver function test",
+  "LFT",
+  "liver panel",
+  "ALT and AST",
+  "bilirubin test"
+ ],
+ "what": "This is a blood test from a vein. It shows how well your liver works and whether it is inflamed.",
+ "why": "For weakness, yellowish skin, pain under the right ribs, while taking certain medicines, or at a checkup.",
+ "duration": "the blood draw takes a few minutes; results usually come the next day",
+ "tell_doctor": [
+  "What medicines, vitamins, and herbs you take",
+  "If you drank alcohol recently",
+  "If you had hard workouts in the last few days",
+  "If your liver tests were abnormal before. Bring your past results"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually fasting: no food for 8 to 12 hours. Plain water is fine. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 1 to 2 days, no alcohol and no fatty or fried food. No hard workouts."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "Past test results, if you have them"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in 1 day. The lab will tell you when",
+  "Your doctor will explain what the numbers mean"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why can ALT be high?",
+   "a": "There are many reasons: fatty food, alcohol, medicines, exercise, or liver disease. Your doctor will sort it out. Often the test is simply repeated."
+  },
+  {
+   "q": "Can I drink coffee before the test?",
+   "a": "No, if the test is fasting. Plain water only."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Liver tests tomorrow. Do not eat after dinner. Plain water is fine."
+  }
+ ]
+}

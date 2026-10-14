@@ -1,0 +1,74 @@
+{
+ "title": "Alta del hospital",
+ "also": [
+  "alta hospitalaria",
+  "resumen de alta",
+  "salir del hospital",
+  "después de la hospitalización"
+ ],
+ "what": "Es cuando termina el tratamiento en el hospital y te dejan ir a casa. Te dan un resumen de alta con recomendaciones.",
+ "why": "Al terminar el tratamiento en el hospital, o cuando ya puedes seguir el tratamiento en casa.",
+ "duration": "el trámite suele tomar de 1 a varias horas el día del alta",
+ "tell_doctor": [
+  "Lo que te preocupa antes de irte",
+  "Si en casa no hay quien te ayude",
+  "Si no entiendes cómo tomar los medicamentos",
+  "Si necesitas una incapacidad para el trabajo"
+ ],
+ "prepare": [
+  {
+   "title": "Hora",
+   "text": "Pregunta el día anterior a qué hora es el alta y quién te va a recoger."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Apunta tus preguntas: medicamentos, esfuerzo, comida, cuándo ir al médico."
+  },
+  {
+   "title": "Cosas",
+   "text": "Junta tus cosas antes y revisa el buró."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus cosas y ropa para el camino",
+  "Tu lista de preguntas para el médico"
+ ],
+ "steps": [
+  "El médico te hace la última revisión",
+  "Te dan el resumen de alta con el diagnóstico y las recomendaciones",
+  "El médico te explica qué medicamentos tomar y cómo",
+  "Te dicen cuándo y con qué médico ir después",
+  "Te dan la incapacidad, si la necesitas",
+  "Recoges tus cosas y te vas a casa"
+ ],
+ "feel": [
+  "Puede dar ansiedad irse a casa. Es normal",
+  "La debilidad después del hospital puede durar unos días"
+ ],
+ "after": [
+  "Guarda el resumen de alta y enséñaselo a tu médico",
+  "Toma los medicamentos según las recomendaciones",
+  "Ve con tu médico en la fecha indicada"
+ ],
+ "red_flags": [
+  "Te sientes mucho peor de repente: dolor fuerte, fiebre alta o te cuesta respirar: llama a emergencias",
+  "Las señales de alarma de las que te habló el médico al darte de alta"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué hago si no entiendo algo del resumen?",
+   "a": "Pregúntale al médico antes de irte. Después puedes enseñarle el resumen a tu médico de cabecera."
+  },
+  {
+   "q": "¿Cuándo voy con mi médico?",
+   "a": "Normalmente en los primeros días después del alta. La fecha exacta está en las recomendaciones."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te dan de alta. Junta tus cosas, confirma quién te recoge y apunta tus preguntas para el médico."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Vacina tríplice viral (sarampo)",
+ "also": [
+  "tríplice viral",
+  "SCR",
+  "vacina contra sarampo",
+  "vacina contra caxumba e rubéola"
+ ],
+ "what": "Uma injeção de vacina contra três doenças de uma vez: sarampo, rubéola e caxumba. A criança normalmente recebe duas doses.",
+ "why": "Para crianças conforme o calendário de vacinação. Para adultos sem as duas doses, conforme orientação médica.",
+ "duration": "a injeção leva alguns segundos, com a avaliação normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Se a criança está doente agora ou com febre",
+  "Reações fortes a vacinas anteriores",
+  "Doenças da imunidade ou tratamento que a diminui",
+  "Se recebeu sangue ou derivados há pouco tempo",
+  "Se você está grávida ou planeja engravidar"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é aplicada quando a criança está saudável. Antes da injeção, ela é examinada."
+  },
+  {
+   "title": "Criança",
+   "text": "Leve o brinquedo favorito para distrair o pequeno."
+  },
+  {
+   "title": "Gravidez",
+   "text": "Para mulheres adultas: é melhor adiar a gravidez por um mês depois da vacina."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "A carteira de vacinação"
+ ],
+ "steps": [
+  "O médico pergunta como a criança está e mede a temperatura",
+  "Você segura a criança no colo",
+  "A pele é limpa, e aplicam a injeção no braço ou na coxa",
+  "A vacina é registrada na carteira",
+  "Depois da injeção, fique cerca de 30 minutos na clínica"
+ ],
+ "feel": [
+  "Uma picada rápida. A criança pode chorar um pouco",
+  "Às vezes, de 5 a 12 dias depois, aparece um pouco de febre ou manchinhas. É reação à vacina",
+  "Às vezes as bochechas ou o pescoço incham um pouco"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala",
+  "As manchinhas depois da vacina não passam para outras pessoas",
+  "A segunda dose, conforme o calendário"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência",
+  "Convulsão com febre: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que a febre apareceu uma semana depois?",
+   "a": "É uma vacina de vírus vivo atenuado, e a reação a ela pode vir mais tarde. Normalmente passa em 1 a 2 dias."
+  },
+  {
+   "q": "É verdade que essa vacina causa autismo?",
+   "a": "Não. Grandes estudos não confirmaram isso."
+  },
+  {
+   "q": "Adultos precisam se vacinar?",
+   "a": "Se você não tem as duas doses ou não sabe, pergunte ao médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina tríplice viral. A criança precisa estar saudável. Leve a carteira de vacinação."
+  }
+ ]
+}

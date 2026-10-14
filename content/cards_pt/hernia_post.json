@@ -1,0 +1,84 @@
+{
+ "title": "Hérnia incisional",
+ "also": [
+  "hérnia incisional",
+  "hérnia na cicatriz",
+  "hérnia depois de cirurgia",
+  "hernioplastia com tela"
+ ],
+ "what": "O cirurgião coloca a parte que saiu de volta para dentro e reforça a área fraca da cicatriz com uma tela. A cirurgia pode ser aberta ou por pequenos furos.",
+ "why": "Quando uma hérnia sai pela cicatriz de uma cirurgia antiga, dói ou cresce.",
+ "duration": "a cirurgia leva normalmente de 1 a 3 horas, com internação normalmente de 2 a 5 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue e os de diabetes. O médico diz o que suspender e quando",
+  "Alergias",
+  "Quais cirurgias você já fez na barriga",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se você fuma. O cigarro atrapalha a cicatrização"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes ultrassom ou tomografia da barriga. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Peso e cigarro",
+   "text": "Se houver tempo, o médico pode recomendar perder peso e parar de fumar. Assim o risco de a hérnia voltar é menor."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Cinta",
+   "text": "Pergunte se precisa comprar antes uma cinta abdominal e de que tamanho."
+  }
+ ],
+ "bring": [
+  "Pedido médico e exames",
+  "Documentos e lista de remédios",
+  "A cinta, se pediram",
+  "Coisas para alguns dias no hospital"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "O anestesista aplica a anestesia",
+  "O cirurgião faz um corte ou pequenos furos",
+  "O conteúdo da hérnia é colocado de volta na barriga",
+  "A área fraca é reforçada com uma tela",
+  "O corte é suturado, às vezes colocam um dreno"
+ ],
+ "feel": [
+  "Dor no corte. Dão analgésico",
+  "Sensação de barriga repuxada",
+  "Depois da anestesia, sono"
+ ],
+ "after": [
+  "Use a cinta, se o médico indicou",
+  "Não pegue peso, normalmente por 1 a 3 meses. O prazo quem diz é o cirurgião",
+  "Cuide para não ficar com intestino preso",
+  "Ao tossir, segure o corte com a mão"
+ ],
+ "red_flags": [
+  "Dor forte e crescente na barriga, vômitos: ligue para a emergência",
+  "Febre acima de 38 graus",
+  "Vermelhidão, pus ou inchaço forte no corte",
+  "Sem evacuar e sem soltar gases por mais de um dia, com barriga estufada"
+ ],
+ "faq": [
+  {
+   "q": "Para que serve a tela?",
+   "a": "Ela reforça a área fraca e diminui o risco de a hérnia voltar."
+  },
+  {
+   "q": "A hérnia pode voltar?",
+   "a": "Às vezes acontece. O risco é menor se você não pegar peso, não ganhar peso e não fumar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia da hérnia. Separe os documentos, a cinta e as coisas. Comida e água, só até o horário que a clínica indicou."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Prueba prenatal no invasiva (NIPT)",
+ "also": [
+  "NIPT",
+  "prueba prenatal no invasiva",
+  "ADN fetal en sangre materna",
+  "prueba de síndrome de Down en sangre"
+ ],
+ "what": "A la embarazada le sacan sangre de la vena. En ella hay ADN del bebé, y con él se calcula el riesgo de algunas enfermedades de los cromosomas.",
+ "why": "Normalmente desde las 10 semanas de embarazo, para calcular el riesgo de síndrome de Down y otras alteraciones de los cromosomas, sobre todo si el tamizaje mostró riesgo alto.",
+ "duration": "la toma de sangre dura de 3 a 5 minutos; el resultado suele estar en 7 a 14 días",
+ "tell_doctor": [
+  "Las semanas exactas de embarazo",
+  "Si son gemelos o el embarazo es por fertilización in vitro",
+  "Si te hicieron una transfusión o un trasplante de órganos",
+  "Si hay enfermedades genéticas en tu familia"
+ ],
+ "prepare": [
+  {
+   "title": "Semanas",
+   "text": "Normalmente se hace a partir de las 10 semanas. El médico o la clínica te dirán cuándo."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayunar. Pregunta en la clínica."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Tus ultrasonidos con las semanas exactas de embarazo"
+ ],
+ "steps": [
+  "Llenas un cuestionario: semanas, estatura, peso y datos del embarazo",
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y limpian la piel",
+  "La sangre se toma en un tubo especial",
+  "Sacan la aguja y ponen un algodón"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "La prueba es segura para el bebé. Solo se toma sangre de la mamá"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "El resultado suele estar en 7 a 14 días",
+  "Si el riesgo sale alto, el médico te ofrecerá un estudio para confirmarlo. El NIPT no es un diagnóstico final"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿El NIPT le puede hacer daño al bebé?",
+   "a": "No. Solo se toma sangre de la vena de la mamá, como en un análisis normal."
+  },
+  {
+   "q": "Si el NIPT sale bien, ¿ya no necesito el ultrasonido de tamizaje?",
+   "a": "No. El ultrasonido muestra otra cosa: cómo se desarrollan los órganos. Normalmente el médico pide los dos."
+  },
+  {
+   "q": "¿Se puede saber el sexo del bebé?",
+   "a": "Muchas pruebas lo muestran. Pregunta en la clínica si quieres saberlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu prueba NIPT. Lleva tus ultrasonidos con las semanas exactas de embarazo."
+  }
+ ]
+}

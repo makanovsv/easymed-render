@@ -1,0 +1,68 @@
+{
+ "title": "Consulta com cirurgião",
+ "also": [
+  "cirurgião",
+  "cirurgião geral",
+  "consulta com cirurgião"
+ ],
+ "what": "É o médico que decide se é preciso operar e trata doenças em que as mãos do cirurgião ajudam: de hérnias a abscessos.",
+ "why": "Com hérnia, pedra na vesícula, abscessos, unha encravada, caroços sob a pele, ou antes de uma cirurgia marcada.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "O que incomoda e desde quando",
+  "Todos os remédios, principalmente os que afinam o sangue",
+  "Alergias",
+  "Cirurgias anteriores e como foi a anestesia",
+  "Doenças do coração, dos pulmões, diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Leve ultrassons, imagens e exames de sangue, se fez."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, para mostrar o local com facilidade."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Imagens e laudos",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Examina e apalpa o local",
+  "Olha os exames",
+  "Explica se a cirurgia é necessária e quais são as opções",
+  "Passa a lista de exames antes da cirurgia, se ela for necessária"
+ ],
+ "feel": [
+  "Apalpar o local dolorido pode incomodar",
+  "Avise o médico se doer"
+ ],
+ "after": [
+  "Se precisar operar, o médico explica como se preparar",
+  "Pergunte quanto tempo leva a recuperação"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, vômitos, febre alta: não espere a consulta, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A cirurgia já vai ser marcada?",
+   "a": "Nem sempre. Muitas vezes primeiro são precisos exames, e às vezes a cirurgia nem é necessária."
+  },
+  {
+   "q": "O que perguntar ao cirurgião?",
+   "a": "Quais as opções de tratamento, quais os riscos, quanto tempo leva a recuperação e quando dá para trabalhar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o cirurgião. Leve os exames e a lista de remédios."
+  }
+ ]
+}

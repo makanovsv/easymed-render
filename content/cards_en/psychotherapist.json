@@ -1,0 +1,68 @@
+{
+ "title": "Psychotherapist visit",
+ "also": [
+  "psychotherapist",
+  "psychotherapy",
+  "talk therapy",
+  "therapist"
+ ],
+ "what": "A doctor who treats anxiety, depression, and other conditions with talking methods. If needed, they can prescribe medicines.",
+ "why": "For anxiety, panic attacks, low mood, insomnia, obsessive thoughts, and the effects of trauma and stress.",
+ "duration": "usually 45 to 60 minutes; you decide on the course together with the doctor",
+ "tell_doctor": [
+  "What bothers you, and for how long",
+  "What medicines and substances you take, including alcohol",
+  "Past visits to specialists",
+  "Long-term conditions",
+  "Any thoughts of harming yourself"
+ ],
+ "prepare": [
+  {
+   "title": "Your goal",
+   "text": "Write down what bothers you and what you expect from treatment."
+  },
+  {
+   "title": "Place",
+   "text": "For an online session, find a quiet place where no one can overhear you."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your concerns and your life",
+  "They explain which method may suit you",
+  "Together you set goals",
+  "You agree on a session schedule",
+  "If needed, the doctor prescribes medicines"
+ ],
+ "feel": [
+  "It is a conversation, with no procedures",
+  "Talking about personal things can be hard. You can take pauses"
+ ],
+ "after": [
+  "Do the tasks between sessions, if you are given any",
+  "Do not stop medicines on your own. Ask the doctor"
+ ],
+ "red_flags": [
+  "Thoughts of harming yourself: do not wait for the visit. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "How is a psychotherapist different from a psychologist?",
+   "a": "Here, a psychotherapist is a doctor who can prescribe medicines. A psychologist works only through talking."
+  },
+  {
+   "q": "How long does psychotherapy last?",
+   "a": "A course can last from a few weeks to a year or more. Discuss the timing with your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Psychotherapist visit tomorrow. Write down what bothers you, and bring your medicine list."
+  }
+ ]
+}

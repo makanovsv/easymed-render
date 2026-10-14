@@ -1,0 +1,69 @@
+{
+ "title": "Pulmonologist visit",
+ "also": [
+  "pulmonologist",
+  "lung doctor",
+  "lung specialist",
+  "respiratory doctor"
+ ],
+ "what": "A doctor who treats the lungs and airways. They listen to your breathing and check how well your lungs work.",
+ "why": "For a long-lasting cough, shortness of breath, asthma, frequent bronchitis, or changes on a chest scan.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "How long you have had the cough or shortness of breath, and what makes it worse",
+  "If you smoke or used to smoke",
+  "Work with dust or chemicals, or contact with animals",
+  "What inhalers and medicines you use",
+  "Allergies"
+ ],
+ "prepare": [
+  {
+   "title": "Smoking",
+   "text": "If your breathing will be tested, do not smoke for at least a few hours before. Check with the clinic."
+  },
+  {
+   "title": "Scans",
+   "text": "Bring chest X-rays or CT scans, if you had them."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "The inhalers you use",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "Your lungs are listened to",
+  "Your blood oxygen is measured with a sensor on your finger",
+  "Sometimes a breathing test called spirometry is done right away",
+  "Tests or treatment are ordered"
+ ],
+ "feel": [
+  "Nothing unpleasant",
+  "In the breathing test, you blow out hard. You may feel a little dizzy"
+ ],
+ "after": [
+  "The doctor may check that you use your inhaler correctly",
+  "Do not change treatment on your own. Ask the doctor"
+ ],
+ "red_flags": [
+  "Severe shortness of breath at rest, blue lips, or coughing up blood: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why bring my inhaler?",
+   "a": "The doctor will check that you use it correctly. It is a common reason treatment does not work."
+  },
+  {
+   "q": "Do I need a chest scan beforehand?",
+   "a": "If you have one, bring it. The doctor will decide if a new one is needed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Pulmonologist visit tomorrow. Bring your chest scans and your inhalers."
+  }
+ ]
+}

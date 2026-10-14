@@ -1,0 +1,78 @@
+{
+ "title": "Consultas de control prenatal",
+ "also": [
+  "control prenatal",
+  "consulta del embarazo",
+  "cita con el ginecólogo en el embarazo",
+  "seguimiento del embarazo"
+ ],
+ "what": "Son las consultas regulares con el médico durante el embarazo. El médico revisa tu salud y cómo crece tu bebé.",
+ "why": "Para todas las embarazadas, según un calendario: al principio menos seguido y cerca del parto más seguido.",
+ "duration": "la consulta suele durar de 15 a 30 minutos",
+ "tell_doctor": [
+  "Cómo te sientes y qué te molesta",
+  "Hinchazón, dolor de cabeza o lucecitas en la vista",
+  "Flujo o dolor en el abdomen",
+  "Cómo se mueve el bebé, en la segunda mitad del embarazo",
+  "Medicamentos nuevos que empezaste a tomar"
+ ],
+ "prepare": [
+  {
+   "title": "Examen de orina",
+   "text": "Muchas veces piden un examen de orina en cada consulta. La primera orina de la mañana, en un frasco limpio."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Apunta tus preguntas entre una consulta y otra para no olvidarlas."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir fácilmente el abdomen."
+  }
+ ],
+ "bring": [
+  "Tu carnet prenatal",
+  "Resultados de análisis y ultrasonidos",
+  "La muestra de orina, si te la pidieron",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te pesan y te toman la presión",
+  "El médico te pregunta cómo te sientes",
+  "Mide tu abdomen con una cinta métrica",
+  "En la segunda mitad del embarazo escucha el corazón del bebé",
+  "Revisa tus análisis y te da nuevas órdenes",
+  "Te da la fecha de la siguiente consulta"
+ ],
+ "feel": [
+  "Normalmente nada molesto",
+  "La revisión ginecológica no es en todas las consultas"
+ ],
+ "after": [
+  "Hazte los análisis y ultrasonidos según el calendario",
+  "Apunta cómo te sientes y los movimientos del bebé",
+  "Ve el día de tu cita, aunque todo esté bien"
+ ],
+ "red_flags": [
+  "Sangrado o se te sale líquido: llama a emergencias",
+  "Dolor de cabeza fuerte, lucecitas en la vista o hinchazón repentina: llama a emergencias",
+  "El bebé se mueve mucho menos de lo normal: ve al médico de urgencia",
+  "Contracciones antes de tiempo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cada cuánto tengo que ir al médico?",
+   "a": "Normalmente una vez al mes al principio, cada 2 semanas en la segunda mitad y cada semana al final. Tu médico te dirá."
+  },
+  {
+   "q": "¿Por qué hay que hacer examen de orina cada vez?",
+   "a": "Así se detectan a tiempo proteína, azúcar o infección. Es importante para ti y para tu bebé."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta prenatal. Lleva tu carnet prenatal y, si te la pidieron, junta en la mañana la muestra de orina."
+  }
+ ]
+}

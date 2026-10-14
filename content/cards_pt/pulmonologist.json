@@ -1,0 +1,68 @@
+{
+ "title": "Consulta com pneumologista",
+ "also": [
+  "pneumologista",
+  "médico do pulmão",
+  "consulta de pneumologia"
+ ],
+ "what": "É o médico que trata os pulmões e os brônquios. Ele ausculta a respiração e verifica como os pulmões estão funcionando.",
+ "why": "Com tosse que não passa, falta de ar, asma, bronquites frequentes, alterações na radiografia dos pulmões.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Há quanto tempo há tosse ou falta de ar e o que piora",
+  "Se você fuma ou já fumou",
+  "Trabalho com poeira, produtos químicos, contato com animais",
+  "Quais bombinhas e remédios você usa",
+  "Alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Cigarro",
+   "text": "Se na consulta forem testar a respiração, não fume pelo menos algumas horas antes. Confirme com a clínica."
+  },
+  {
+   "title": "Imagens",
+   "text": "Leve a radiografia ou a tomografia dos pulmões, se fez."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "As bombinhas que você usa",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Ausculta os pulmões",
+  "Mede o oxigênio no sangue com um sensor no dedo",
+  "Às vezes faz na hora o teste de sopro, a espirometria",
+  "Pede exames ou indica o tratamento"
+ ],
+ "feel": [
+  "Nada desagradável",
+  "No teste de sopro é preciso soprar com força. A cabeça pode rodar um pouco"
+ ],
+ "after": [
+  "O médico pode conferir se você usa a bombinha do jeito certo",
+  "Não mude o tratamento por conta própria. Tire as dúvidas com o médico"
+ ],
+ "red_flags": [
+  "Falta de ar forte em repouso, lábios roxos, sangue na tosse: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que levar a bombinha à consulta?",
+   "a": "O médico vê se você está usando do jeito certo. Isso é um motivo comum de o tratamento não funcionar."
+  },
+  {
+   "q": "Preciso fazer radiografia dos pulmões antes?",
+   "a": "Se tiver, leve. Se precisa de uma nova, o médico decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o pneumologista. Leve as imagens dos pulmões e suas bombinhas."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Soro de vitaminas",
+ "also": [
+  "soro vitaminado",
+  "vitaminas na veia",
+  "terapia endovenosa",
+  "soro para energia"
+ ],
+ "what": "Uma solução com vitaminas e minerais entra pelo soro na veia.",
+ "why": "O médico indica quando há falta comprovada de vitaminas que não dá para repor com comida e comprimidos. Para disposição e beleza, o benefício desses soros não é comprovado.",
+ "duration": "normalmente de 30 a 60 minutos",
+ "tell_doctor": [
+  "Doenças do coração e dos rins",
+  "Alergias a remédios e vitaminas",
+  "Todas as vitaminas e suplementos que você já toma",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "É bom fazer exames antes do soro. Assim o médico vê o que realmente está faltando."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente é melhor não ir em jejum."
+  }
+ ],
+ "bring": [
+  "Exames, se tiver",
+  "Lista de remédios e suplementos"
+ ],
+ "steps": [
+  "O médico pergunta sobre sua saúde e confere a indicação",
+  "A enfermeira coloca um cateter na veia",
+  "Ligam o soro",
+  "Você fica sentado ou deitado até a solução acabar",
+  "Retiram o cateter e colocam um algodão"
+ ],
+ "feel": [
+  "Friozinho na veia",
+  "Às vezes calor ou um gosto na boca"
+ ],
+ "after": [
+  "Você já pode seguir o seu dia",
+  "Um roxinho no local do cateter some sozinho"
+ ],
+ "red_flags": [
+  "Manchas na pele, inchaço no rosto, dificuldade para respirar, fraqueza súbita: ligue para a emergência",
+  "O braço ficou vermelho, inchado e dolorido ao longo da veia"
+ ],
+ "faq": [
+  {
+   "q": "Isso é melhor que vitamina em comprimido?",
+   "a": "Normalmente não, a não ser que haja uma doença que atrapalhe a absorção das vitaminas. Pergunte ao médico se você precisa do soro."
+  },
+  {
+   "q": "Dá para exagerar nas vitaminas?",
+   "a": "Sim, algumas vitaminas se acumulam. Por isso é importante falar ao médico de todos os suplementos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoje é o soro. Coma algo e leve a lista de vitaminas e suplementos que você toma."
+  }
+ ]
+}

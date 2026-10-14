@@ -1,0 +1,67 @@
+{
+ "title": "Psychiatrist visit",
+ "also": [
+  "psychiatrist",
+  "psychiatric consultation",
+  "mental health doctor"
+ ],
+ "what": "A doctor who helps with problems of mood, anxiety, sleep, thinking, and behavior. They can prescribe treatment and medicines.",
+ "why": "For long-lasting low mood, severe anxiety, panic attacks, insomnia, obsessive thoughts, or sudden changes in behavior.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "What bothers you, and for how long",
+  "How you sleep and eat",
+  "What medicines and substances you take, including alcohol",
+  "Past visits to a psychiatrist or psychologist",
+  "Any thoughts of harming yourself"
+ ],
+ "prepare": [
+  {
+   "title": "Write it down",
+   "text": "What bothers you, how it affects your life, and what questions you want to ask."
+  },
+  {
+   "title": "Confidentiality",
+   "text": "What happens at the visit is confidential. Ask the clinic how the visit is recorded."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor calmly asks about your concerns and your life",
+  "You are asked about mood, sleep, and thoughts",
+  "Sometimes you fill in a questionnaire",
+  "The doctor explains what is going on and what help is available",
+  "If needed, treatment is prescribed and the next visit set"
+ ],
+ "feel": [
+  "It is a conversation, with no procedures",
+  "Talking about personal things can be hard. You can take pauses"
+ ],
+ "after": [
+  "Take medicines as prescribed. Do not stop them on your own. Ask the doctor",
+  "Treatment usually takes time to work"
+ ],
+ "red_flags": [
+  "Thoughts of harming yourself or someone else: do not wait for the visit. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Will I be put on a psychiatric register?",
+   "a": "A consultation usually does not mean that. Ask the clinic directly how it works."
+  },
+  {
+   "q": "How is a psychiatrist different from a psychologist?",
+   "a": "A psychiatrist is a doctor who can diagnose and prescribe medicines. A psychologist helps through talking and does not prescribe."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Psychiatrist visit tomorrow. Write down what bothers you, and bring your medicine list."
+  }
+ ]
+}

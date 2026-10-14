@@ -1,0 +1,73 @@
+{
+ "title": "Ecocardiograma em criança",
+ "also": [
+  "ecocardiograma infantil",
+  "ultrassom do coração em criança",
+  "eco pediátrico",
+  "ecocardiograma pediátrico"
+ ],
+ "what": "O médico examina o coração da criança com ultrassom: como ele é formado e como funcionam as válvulas e as paredes. É seguro e não dói.",
+ "why": "Com sopro no coração, em consultas de rotina no primeiro mês, falta de ar, cansaço fácil ou alteração no eletrocardiograma.",
+ "duration": "normalmente de 15 a 30 minutos, o laudo sai na hora",
+ "tell_doctor": [
+  "O que incomoda: sopro, falta de ar, lábios roxos, cansaço",
+  "Se há problemas de coração na família",
+  "Quais remédios a criança toma",
+  "Eletrocardiogramas e ecocardiogramas anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Calma",
+   "text": "É bom alimentar o bebê antes do exame. Criança de barriga cheia fica deitada mais tranquila."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, fácil de tirar a parte de cima."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Eletrocardiogramas e ecocardiogramas anteriores",
+  "Uma fralda de pano",
+  "Chupeta, mamadeira ou desenho para distrair"
+ ],
+ "steps": [
+  "A criança se deita de barriga para cima, com você ao lado",
+  "Passam gel no peito",
+  "O médico desliza o aparelho no peito, às vezes embaixo das costelas e acima da clavícula",
+  "Às vezes colocam eletrodos de eletrocardiograma no peito",
+  "Limpam o gel com papel"
+ ],
+ "feel": [
+  "Gel geladinho e uma leve pressão",
+  "Bebês podem chorar. O médico precisa que a criança fique quieta, por isso às vezes faz pausas"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "O laudo normalmente sai na hora",
+  "Converse sobre o resultado com o pediatra ou o cardiologista infantil"
+ ],
+ "red_flags": [
+  "Os lábios ficam roxos, a criança perde o fôlego ou desmaia: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Sopro no coração é doença?",
+   "a": "Na maioria das vezes, o sopro em criança é inocente. O ecocardiograma mostra se há algum problema."
+  },
+  {
+   "q": "Preciso dar calmante para a criança?",
+   "a": "Normalmente não. Ajudam a mamada, um brinquedo ou um desenho."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã a criança faz ecocardiograma. Não precisa de preparo. Leve uma fralda de pano e algo para distrair."
+  }
+ ]
+}

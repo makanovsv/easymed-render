@@ -1,0 +1,79 @@
+{
+ "title": "Hospitalización: qué llevar y qué esperar",
+ "also": [
+  "internarse en el hospital",
+  "hospitalización programada",
+  "qué llevar al hospital",
+  "quedarse internado"
+ ],
+ "what": "Es cuando te internan en el hospital para un tratamiento o una cirugía. Te contamos qué llevar y cómo es el primer día.",
+ "why": "Para un tratamiento, estudio o cirugía que no se puede hacer sin quedarte en el hospital.",
+ "duration": "depende del tratamiento, de un día a varias semanas",
+ "tell_doctor": [
+  "Todos los medicamentos que tomas",
+  "Tus alergias",
+  "Enfermedades crónicas",
+  "Si necesitas una comida especial o ayuda para caminar"
+ ],
+ "prepare": [
+  {
+   "title": "Documentos",
+   "text": "Pregunta qué análisis y estudios necesitas antes de internarte y cuánto tiempo valen."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los dejes por tu cuenta. Pregúntale al médico cuáles llevar y cuáles suspender."
+  },
+  {
+   "title": "Pendientes",
+   "text": "Avisa en el trabajo y decide quién cuidará tu casa y a tu familia."
+  }
+ ],
+ "bring": [
+  "Una identificación y la orden de internamiento",
+  "Tus análisis y resúmenes médicos",
+  "Los medicamentos que tomas siempre, en sus cajas",
+  "Ropa cómoda, pantuflas y artículos de aseo",
+  "El teléfono, el cargador, una taza y una cuchara"
+ ],
+ "steps": [
+  "En admisión revisan tus documentos",
+  "Te revisan y a veces toman análisis",
+  "La enfermera te lleva a tu cuarto",
+  "Tu médico tratante te conoce y te explica el plan",
+  "La enfermera te explica la rutina: visita médica, procedimientos y comidas",
+  "Después, el tratamiento sigue según el plan"
+ ],
+ "feel": [
+  "El primer día muchas veces es ajetreado",
+  "Haz preguntas al médico en la visita. Es normal"
+ ],
+ "after": [
+  "Cada día en la visita pregunta cómo va el tratamiento",
+  "Normalmente te avisan con tiempo cuándo te dan de alta",
+  "Cuida tus objetos de valor"
+ ],
+ "red_flags": [
+  "Si en el cuarto te sientes mucho peor de repente: aprieta el timbre o llama a la enfermera de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo llevar mi propia comida?",
+   "a": "Normalmente sí, si no tienes una dieta especial. Pregunta en el piso si hay refrigerador."
+  },
+  {
+   "q": "¿Se permiten visitas?",
+   "a": "Las reglas cambian en cada hospital. Pregunta los horarios y requisitos."
+  },
+  {
+   "q": "¿Llevo mis medicamentos?",
+   "a": "Normalmente sí, en sus cajas. El médico te dirá cuáles seguir tomando."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te internan. Junta tus documentos, análisis, medicamentos y cosas."
+  }
+ ]
+}

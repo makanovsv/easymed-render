@@ -1,0 +1,78 @@
+{
+ "title": "Adaptação de lentes de contato",
+ "also": [
+  "adaptação de lentes",
+  "lentes de contato",
+  "lentes gelatinosas",
+  "exame para lentes de contato"
+ ],
+ "what": "O médico examina os olhos e escolhe lentes com o tamanho e o grau certos. Ensinam você a colocar, tirar e cuidar delas.",
+ "why": "Quando você quer enxergar sem óculos, para esporte ou por indicação do médico.",
+ "duration": "normalmente de 40 a 60 minutos; às vezes é preciso voltar para revisão em alguns dias",
+ "tell_doctor": [
+  "Se já usou lentes e se teve problemas",
+  "Olho seco, alergia, inflamações frequentes",
+  "Como vai usar: todo dia ou de vez em quando",
+  "Quais remédios e colírios você usa"
+ ],
+ "prepare": [
+  {
+   "title": "Se você já usa lentes",
+   "text": "Confirme com a clínica se é para ir com ou sem as lentes."
+  },
+  {
+   "title": "Unhas",
+   "text": "Unhas curtas facilitam colocar as lentes."
+  },
+  {
+   "title": "Tempo",
+   "text": "Vá sem pressa. O treinamento leva tempo."
+  }
+ ],
+ "bring": [
+  "Os óculos",
+  "As lentes antigas ou a caixinha delas",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "O médico examina a vista",
+  "Mede a superfície do olho e examina",
+  "Coloca lentes de teste",
+  "Depois de um tempo, verifica como as lentes se ajustam",
+  "Você aprende a colocar e tirar as lentes sozinho",
+  "Explicam os cuidados, o tempo de uso e quando trocar"
+ ],
+ "feel": [
+  "Nos primeiros minutos, você sente a lente no olho",
+  "Lacrimejar na primeira vez é normal"
+ ],
+ "after": [
+  "Lave as mãos antes de mexer nas lentes",
+  "Não durma nem nade de lentes, se o médico não liberou",
+  "Troque as lentes e a solução no prazo",
+  "Volte para revisão quando o médico indicar"
+ ],
+ "red_flags": [
+  "Vermelhidão, dor, sensibilidade à luz ou piora da visão: tire as lentes e procure o oftalmologista com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Posso dormir de lentes?",
+   "a": "Normalmente não. Só lentes especiais e só se o médico liberar."
+  },
+  {
+   "q": "Posso lavar as lentes com água?",
+   "a": "Não. Só com a solução própria."
+  },
+  {
+   "q": "Lentes ou óculos, o que é melhor?",
+   "a": "Depende dos seus olhos e do seu estilo de vida. O médico ajuda a escolher."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a 2 horas é a adaptação das lentes. Leve os óculos e a caixinha das lentes antigas."
+  }
+ ]
+}

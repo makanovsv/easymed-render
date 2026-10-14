@@ -1,0 +1,82 @@
+{
+ "title": "Consulta pós-parto",
+ "also": [
+  "consulta pós-parto",
+  "revisão pós-parto",
+  "consulta de puerpério",
+  "consulta 6 semanas depois do parto"
+ ],
+ "what": "É a consulta com o ginecologista depois do parto. O médico verifica como o corpo está se recuperando e responde suas dúvidas.",
+ "why": "Para todas depois do parto, normalmente entre 6 e 8 semanas. Antes, se algo incomodar.",
+ "duration": "a consulta leva normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Como está o sangramento e quanto",
+  "Dores, problemas com os pontos",
+  "Escape de urina ou dificuldade para ir ao banheiro",
+  "O humor: tristeza, ansiedade, insônia. É importante contar",
+  "Se você está amamentando e quais remédios toma"
+ ],
+ "prepare": [
+  {
+   "title": "Perguntas",
+   "text": "Anote as perguntas: anticoncepção, sexo, exercício, amamentação."
+  },
+  {
+   "title": "Bebê",
+   "text": "Confirme se pode levar o bebê, ou combine quem vai ficar com ele."
+  },
+  {
+   "title": "Exames",
+   "text": "Às vezes é preciso exame de sangue ou de urina. O médico vai dizer."
+  }
+ ],
+ "bring": [
+  "O resumo de alta da maternidade",
+  "A caderneta da gestante",
+  "Documento de identidade",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico pergunta como você está e sobre seu humor",
+  "Mede a pressão",
+  "Examina a barriga e as mamas",
+  "Faz o exame na maca e confere os pontos, se houver",
+  "Conversa sobre anticoncepção e volta às atividades",
+  "Se preciso, pede exames"
+ ],
+ "feel": [
+  "O exame na maca pode ser desconfortável, principalmente se teve pontos",
+  "Normalmente não dói"
+ ],
+ "after": [
+  "Se estiver tudo bem, o médico libera sexo e exercício, aos poucos",
+  "Escolha um anticoncepcional: é possível engravidar mesmo amamentando",
+  "Exercícios para o assoalho pélvico ajudam na recuperação"
+ ],
+ "red_flags": [
+  "Sangramento forte, que encharca um absorvente em uma hora: ligue para a emergência",
+  "Febre acima de 38 graus, sangramento com cheiro ruim",
+  "Dor, vermelhidão e caroço na mama com febre",
+  "Pensamentos de machucar a si mesma ou o bebê: ligue para a emergência na hora"
+ ],
+ "faq": [
+  {
+   "q": "Quando posso voltar a ter relação sexual depois do parto?",
+   "a": "Normalmente depois que o sangramento acaba e o médico examina. Muitas vezes isso é por volta de 6 semanas."
+  },
+  {
+   "q": "Posso engravidar amamentando?",
+   "a": "Sim, pode. Pense na anticoncepção antes e converse com o médico."
+  },
+  {
+   "q": "Fico triste o tempo todo. É normal?",
+   "a": "Nos primeiros dias, o humor oscila. Se a tristeza durar mais de 2 semanas, conte ao médico. Isso tem tratamento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta pós-parto. Leve o resumo de alta da maternidade e anote as perguntas para o médico."
+  }
+ ]
+}

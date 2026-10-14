@@ -1,0 +1,80 @@
+{
+ "title": "Cardiac rehabilitation",
+ "also": [
+  "cardiac rehab",
+  "rehab after heart attack",
+  "heart rehabilitation program",
+  "rehab after stent"
+ ],
+ "what": "An exercise program supervised by a doctor and instructor, to help your heart recover after illness or surgery. It includes exercise and advice on diet and lifestyle.",
+ "why": "After a heart attack, a stent, bypass or valve surgery, or with heart failure, when your doctor says it is safe.",
+ "duration": "a session usually lasts 45 to 60 minutes; the program usually runs several weeks. Your doctor will decide",
+ "tell_doctor": [
+  "Any chest pain, shortness of breath, or irregular heartbeat in recent days",
+  "All the medicines you take",
+  "If you feel dizzy or faint",
+  "If your joints or back hurt. Exercises will be adapted",
+  "If you have diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Before starting, you usually have an ECG, sometimes a stress test and heart ultrasound. This helps set a safe level of exercise."
+  },
+  {
+   "title": "Medicines",
+   "text": "Take them as usual. Do not stop them on your own. If you have questions, tell your doctor, and they will decide."
+  },
+  {
+   "title": "Food",
+   "text": "A light meal 1 to 2 hours before. Do not exercise on an empty stomach or right after a big meal."
+  },
+  {
+   "title": "Clothes",
+   "text": "Sportswear, comfortable shoes, and a bottle of water."
+  }
+ ],
+ "bring": [
+  "Your hospital discharge papers and latest ECGs",
+  "A list of your medicines",
+  "Sportswear and shoes",
+  "Pills your doctor told you to keep on hand"
+ ],
+ "steps": [
+  "Before the session, your blood pressure and pulse are checked",
+  "Sometimes a heart monitor is attached",
+  "Warm-up: easy walking and light movements",
+  "Main part: exercise bike, treadmill, or exercises at your own pace",
+  "The load is increased gradually from session to session",
+  "At the end, a cool-down and another blood pressure and pulse check"
+ ],
+ "feel": [
+  "The effort feels moderate: you can talk, but singing is hard",
+  "Mild muscle tiredness after the first sessions"
+ ],
+ "after": [
+  "Your doctor will give you a plan for home exercise and walking",
+  "Keep a diary of your pulse, blood pressure, and how you feel",
+  "Regular exercise matters more than hard exercise"
+ ],
+ "red_flags": [
+  "Chest pain or pressure that does not go away at rest: stop and call emergency services",
+  "Severe shortness of breath, fainting, or sudden dizziness: tell the instructor right away"
+ ],
+ "faq": [
+  {
+   "q": "Is it dangerous to exercise after a heart attack?",
+   "a": "Not under a doctor's supervision. The load is set from your tests and increased gradually."
+  },
+  {
+   "q": "Can I exercise at home instead of a center?",
+   "a": "Part of the program is often done at home. Your doctor will decide what level suits you."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Cardiac rehab session tomorrow. Light breakfast, medicines as usual. Bring sportswear and water."
+  }
+ ]
+}

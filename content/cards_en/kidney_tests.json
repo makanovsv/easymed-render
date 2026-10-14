@@ -1,0 +1,72 @@
+{
+ "title": "Kidney function tests (creatinine, urea, eGFR)",
+ "also": [
+  "kidney function test",
+  "creatinine test",
+  "BUN",
+  "eGFR",
+  "renal panel"
+ ],
+ "what": "This is a blood test from a vein. It shows how well your kidneys clean your blood. eGFR is calculated from creatinine, age, and sex.",
+ "why": "For high blood pressure, diabetes, swelling, before some scans with contrast dye, while taking certain medicines, or at a checkup.",
+ "duration": "the blood draw takes a few minutes; results usually come the next day",
+ "tell_doctor": [
+  "What medicines you take, especially water pills and painkillers",
+  "If you take sports supplements, such as creatine",
+  "If you have a scan with contrast dye planned",
+  "If your results were abnormal before. Bring your past results"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually fasting: no food for 8 to 12 hours. Plain water is fine. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol and no hard workouts. Do not eat a lot of meat in the evening."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "Past test results, if you have them"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in 1 day. The lab will tell you when",
+  "Sometimes the doctor adds a urine test to get the full picture"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What is eGFR?",
+   "a": "It is an estimate of how much blood your kidneys clean each minute. It is based on creatinine, age, and sex."
+  },
+  {
+   "q": "Why can creatinine be high without illness?",
+   "a": "It depends on muscle mass, meat in your diet, exercise, and how much water you drink. So your doctor draws the conclusions."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Kidney tests tomorrow. Do not eat after dinner. Plain water is fine."
+  }
+ ]
+}

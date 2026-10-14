@@ -1,0 +1,74 @@
+{
+ "title": "Pruebas de trombofilia",
+ "also": [
+  "trombofilia",
+  "perfil de trombofilia",
+  "anticoagulante lúpico",
+  "anticuerpos antifosfolípidos",
+  "estudio de coagulación"
+ ],
+ "what": "Es un grupo de análisis de sangre de la vena. Revisan si tienes más tendencia a formar coágulos.",
+ "why": "Después de un coágulo, sobre todo en gente joven; con abortos repetidos; antes de pastillas hormonales o fertilización in vitro, si hubo coágulos en la familia.",
+ "duration": "la toma de sangre dura de 5 a 10 minutos; el resultado suele estar en 3 a 14 días",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tomas hormonas o anticonceptivos",
+  "Si estás embarazada o tuviste un bebé hace poco",
+  "Si hace poco tuviste un coágulo o una cirugía"
+ ],
+ "prepare": [
+  {
+   "title": "Momento",
+   "text": "Algunos análisis salen mal justo después de un coágulo, en el embarazo o con ciertos medicamentos. La fecha la elige el médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente en ayunas, de 8 a 12 horas sin comer. Puedes tomar agua. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Nunca dejes por tu cuenta los medicamentos que hacen la sangre más líquida. Díselo al médico y él decidirá."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Sin alcohol ni ejercicio intenso. En la mañana no fumes."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Tus análisis de coagulación anteriores, si los tienes"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y limpian la piel",
+  "La sangre se toma en varios tubos",
+  "Sacan la aguja y ponen un algodón"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco"
+ ],
+ "after": [
+  "Presiona el algodón más tiempo si tomas medicamentos que hacen la sangre más líquida",
+  "El estudio genético se hace una sola vez en la vida. Otros análisis a veces se repiten a las 12 semanas",
+  "Revisa el resultado con tu médico, el hematólogo o el ginecólogo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Me encontraron una mutación de trombofilia, ¿es peligroso?",
+   "a": "Muchas de estas variantes son comunes y suben poco el riesgo. Qué significa para ti, te lo explica el médico."
+  },
+  {
+   "q": "¿Por qué hay que repetir el análisis?",
+   "a": "Algunos anticuerpos aparecen por un tiempo después de una infección. Si el resultado se confirma a las 12 semanas, es importante."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana son tus pruebas de trombofilia. Después de la cena ya no comas. No dejes por tu cuenta los medicamentos para la sangre."
+  }
+ ]
+}

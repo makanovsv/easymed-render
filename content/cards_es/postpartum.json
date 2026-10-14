@@ -1,0 +1,82 @@
+{
+ "title": "Revisión después del parto",
+ "also": [
+  "consulta posparto",
+  "revisión posparto",
+  "cuarentena",
+  "revisión a las 6 semanas del parto"
+ ],
+ "what": "Es la consulta con el ginecólogo después del parto. El médico revisa cómo se recupera tu cuerpo y responde tus preguntas.",
+ "why": "Para todas después del parto, normalmente a las 6 u 8 semanas. Antes, si algo te preocupa.",
+ "duration": "la consulta suele durar de 20 a 40 minutos",
+ "tell_doctor": [
+  "Cómo es ahora el sangrado o flujo y cuánto es",
+  "Dolor o problemas con los puntos",
+  "Si se te sale la orina o tienes problemas para ir al baño",
+  "Tu estado de ánimo: tristeza, ansiedad o insomnio. Es importante decirlo",
+  "Si das pecho y qué medicamentos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Preguntas",
+   "text": "Apunta tus preguntas: anticonceptivos, relaciones sexuales, ejercicio, lactancia."
+  },
+  {
+   "title": "Bebé",
+   "text": "Pregunta si puedes ir con tu bebé, o ponte de acuerdo con alguien que lo cuide."
+  },
+  {
+   "title": "Análisis",
+   "text": "A veces se necesita análisis de sangre o de orina. El médico te dirá."
+  }
+ ],
+ "bring": [
+  "El resumen del hospital donde diste a luz",
+  "Tu carnet prenatal",
+  "Una identificación",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta cómo te sientes y cómo está tu ánimo",
+  "Te toma la presión",
+  "Revisa tu abdomen y tus senos",
+  "Hace la revisión ginecológica y revisa los puntos, si los hubo",
+  "Platica contigo de anticonceptivos y de cuándo volver a la actividad",
+  "Si hace falta, te da órdenes para estudios"
+ ],
+ "feel": [
+  "La revisión ginecológica puede ser incómoda, sobre todo si hubo puntos",
+  "Normalmente no duele"
+ ],
+ "after": [
+  "Si todo está bien, el médico te dirá que puedes volver a las relaciones sexuales y al ejercicio, poco a poco",
+  "Elige un anticonceptivo: puedes embarazarte aunque estés dando pecho",
+  "Los ejercicios del piso pélvico ayudan a recuperarte"
+ ],
+ "red_flags": [
+  "Sangrado fuerte, que empapa una toalla en una hora: llama a emergencias",
+  "Fiebre de más de 38 o flujo con mal olor",
+  "Dolor, enrojecimiento y una bolita dura en el seno con fiebre",
+  "Pensamientos de hacerte daño a ti o a tu bebé: llama a emergencias de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuándo puedo tener relaciones sexuales después del parto?",
+   "a": "Normalmente cuando se termina el sangrado y te revisa el médico. Muchas veces es alrededor de las 6 semanas."
+  },
+  {
+   "q": "¿Me puedo embarazar si doy pecho?",
+   "a": "Sí, puedes. Piensa antes en un anticonceptivo y platícalo con el médico."
+  },
+  {
+   "q": "Estoy triste todo el tiempo. ¿Es normal?",
+   "a": "Los primeros días puede haber cambios de ánimo. Si la tristeza dura más de 2 semanas, díselo al médico. Tiene tratamiento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu revisión después del parto. Lleva el resumen del hospital y apunta tus preguntas para el médico."
+  }
+ ]
+}

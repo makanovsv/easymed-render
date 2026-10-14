@@ -1,0 +1,67 @@
+{
+ "title": "Consulta com gastroenterologista",
+ "also": [
+  "gastroenterologista",
+  "gastro",
+  "médico do estômago"
+ ],
+ "what": "É o médico que trata o estômago, o intestino, o fígado, a vesícula e o pâncreas.",
+ "why": "Com dor na barriga, azia, enjoo, gases, intestino preso ou diarreia, alterações nos exames do fígado.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "O que incomoda, quando e depois do quê",
+  "Como mudaram o intestino e o peso",
+  "Quais remédios você toma, inclusive analgésicos",
+  "Se já operou a barriga",
+  "Doenças do aparelho digestivo na família"
+ ],
+ "prepare": [
+  {
+   "title": "Diário",
+   "text": "Anote por alguns dias: o que comeu, quando doeu, como foi o intestino."
+  },
+  {
+   "title": "Exames",
+   "text": "Leve os resultados de endoscopia, colonoscopia, ultrassom e exames de sangue, se fez."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas e a alimentação",
+  "Olha a língua e a pele",
+  "Apalpa a barriga com você deitado",
+  "Olha os exames anteriores",
+  "Pede exames de sangue, ultrassom, endoscopia ou indica o tratamento"
+ ],
+ "feel": [
+  "Apalpar a barriga pode incomodar um pouco, se ali dói",
+  "De resto, é um exame comum"
+ ],
+ "after": [
+  "O médico dá orientações sobre alimentação e o tratamento",
+  "Confirme antes o preparo para os exames pedidos"
+ ],
+ "red_flags": [
+  "Vômito com sangue ou parecido com borra de café, fezes pretas, dor forte na barriga: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Preciso ir em jejum?",
+   "a": "Para a consulta, normalmente não. Se no mesmo dia houver ultrassom ou endoscopia, confirme com a clínica."
+  },
+  {
+   "q": "O que levar à consulta?",
+   "a": "Exames anteriores, a lista de remédios e as anotações sobre alimentação e sintomas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o gastroenterologista. Leve os exames e a lista de remédios."
+  }
+ ]
+}

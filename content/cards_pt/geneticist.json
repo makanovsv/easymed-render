@@ -1,0 +1,77 @@
+{
+ "title": "Consulta com geneticista",
+ "also": [
+  "geneticista",
+  "aconselhamento genético",
+  "consulta genética",
+  "médico geneticista"
+ ],
+ "what": "O médico geneticista investiga se há doenças hereditárias na família e qual o risco para você ou para a criança. Ele explica os resultados dos exames genéticos com palavras simples.",
+ "why": "No planejamento da gravidez, depois de resultados incomuns no rastreamento, se há doenças hereditárias na família ou se a criança tem particularidades no desenvolvimento.",
+ "duration": "a consulta leva normalmente de 30 a 60 minutos; os exames genéticos, se pedidos, levam de alguns dias a algumas semanas",
+ "tell_doctor": [
+  "Doenças em parentes próximos: pais, irmãos, filhos",
+  "Se teve abortos espontâneos ou gravidez que parou de evoluir",
+  "Se você e seu parceiro são parentes",
+  "O tempo de gravidez, se você está grávida",
+  "Quais exames já fez"
+ ],
+ "prepare": [
+  {
+   "title": "Família",
+   "text": "Pergunte antes à família: quem teve que doença, em que idade, de que morreram os avós."
+  },
+  {
+   "title": "Documentos",
+   "text": "Junte laudos, resultados de rastreamento, ultrassons e exames, seus e da criança."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Anote o que quer saber. Na consulta é fácil esquecer."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Documento de identidade",
+  "Laudos e resultados de exames",
+  "Anotações sobre as doenças na família"
+ ],
+ "steps": [
+  "O médico pergunta sobre você, as gestações e a saúde da família",
+  "Ele desenha um esquema da família: quem teve o quê",
+  "Se preciso, examina você ou a criança",
+  "Explica qual é o risco e do que ele depende",
+  "Se preciso, propõe exames e explica o que eles vão mostrar",
+  "Vocês conversam sobre os próximos passos"
+ ],
+ "feel": [
+  "A conversa pode ser difícil. É normal, faça qualquer pergunta",
+  "Normalmente as decisões são suas. O médico só explica"
+ ],
+ "after": [
+  "Se pediram exame, o prazo do resultado a clínica informa",
+  "Com o resultado, normalmente se volta para uma nova consulta",
+  "Peça o parecer por escrito"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que ir ao geneticista se na família todos são saudáveis?",
+   "a": "Às vezes os médicos recomendam no planejamento da gravidez ou depois do rastreamento. O geneticista ajuda a entender o risco e tranquiliza, se ele for baixo."
+  },
+  {
+   "q": "O exame genético dói?",
+   "a": "Normalmente não. Na maioria das vezes colhem sangue da veia ou passam um cotonete na parte de dentro da bochecha."
+  },
+  {
+   "q": "Preciso ir com meu parceiro?",
+   "a": "Muitas vezes é útil: para o médico, a história das duas famílias importa. Confirme com a clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o geneticista. Leve os laudos, os exames e as anotações sobre as doenças na família."
+  }
+ ]
+}

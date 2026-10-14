@@ -1,0 +1,75 @@
+{
+ "title": "Consulta com cardiologista",
+ "also": [
+  "cardiologista",
+  "consulta de cardiologia",
+  "médico do coração",
+  "consulta do coração"
+ ],
+ "what": "O médico pergunta como você está, ausculta o coração e mede a pressão. Se precisar, pede eletrocardiograma, ecocardiograma ou outros exames.",
+ "why": "Com dor no peito, falta de ar, coração falhando, pressão alta, pernas inchadas, ou como avaliação antes de cirurgia.",
+ "duration": "normalmente de 20 a 40 minutos, com orientações na hora",
+ "tell_doctor": [
+  "O que incomoda, quando e com que esforço",
+  "Todos os remédios e as doses",
+  "Os valores da pressão, se você mede em casa",
+  "Doenças do coração na família",
+  "Se você fuma"
+ ],
+ "prepare": [
+  {
+   "title": "Diário da pressão",
+   "text": "Se você tem aparelho de pressão, anote por 3 a 7 dias a pressão de manhã e à noite."
+  },
+  {
+   "title": "Remédios",
+   "text": "Tome como sempre. Não suspenda por conta própria antes da consulta."
+  },
+  {
+   "title": "Antes da consulta",
+   "text": "Uma hora antes, não tome café forte e não fume. Isso altera a pressão e o pulso."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios ou as próprias caixas",
+  "Eletrocardiogramas, ecocardiogramas e exames anteriores",
+  "O diário da pressão"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas e a saúde",
+  "Mede a pressão e o pulso",
+  "Ausculta o coração e os pulmões",
+  "Examina as pernas para ver se há inchaço",
+  "Muitas vezes fazem o eletrocardiograma na própria consulta",
+  "O médico explica os próximos passos"
+ ],
+ "feel": [
+  "A consulta não dói"
+ ],
+ "after": [
+  "Faça os exames que o médico pediu",
+  "Tome os remédios conforme o esquema do médico",
+  "Volte para o retorno com os resultados"
+ ],
+ "red_flags": [
+  "Dor forte no peito, em aperto, por mais de 15 minutos: ligue para a emergência",
+  "Falta de ar forte e repentina ou desmaio: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Preciso ir em jejum?",
+   "a": "Normalmente não. Mas se no mesmo dia houver exame de sangue, confirme com a clínica."
+  },
+  {
+   "q": "Tomo o remédio de pressão de manhã antes da consulta?",
+   "a": "Sim, como sempre, se o médico não disse outra coisa. Assim ele vê como o tratamento está funcionando."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o cardiologista. Leve a lista de remédios, os eletrocardiogramas anteriores e o diário da pressão."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "title": "Troponina",
+ "also": [
+  "troponina",
+  "troponina I",
+  "troponina T",
+  "prueba de infarto"
+ ],
+ "what": "Es un análisis de sangre de la vena. Muestra si hay daño en el músculo del corazón.",
+ "why": "Normalmente en una urgencia: con dolor de pecho o si se sospecha un infarto. A veces como control después de enfermedades del corazón.",
+ "duration": "la toma dura unos minutos; en el hospital el resultado suele estar en una hora; muchas veces se repite en 1 a 3 horas",
+ "tell_doctor": [
+  "Cuándo empezó el dolor de pecho y cómo es",
+  "Qué medicamentos tomas para el corazón y la presión",
+  "Si tienes enfermedades de los riñones",
+  "Si hiciste un esfuerzo muy fuerte hace poco"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No hace falta. Si tienes dolor de pecho, no esperes: el análisis se hace de inmediato en el hospital."
+  },
+  {
+   "title": "Importante",
+   "text": "Si te duele el pecho, no vayas tú solo al laboratorio. Llama a emergencias."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Tus electrocardiogramas anteriores, si los tienes"
+ ],
+ "steps": [
+  "La enfermera toma sangre de la vena. Muchas veces te dejan un catéter puesto",
+  "Al mismo tiempo suelen hacer un electrocardiograma",
+  "En 1 a 3 horas muchas veces toman sangre otra vez",
+  "El médico compara los dos resultados"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco"
+ ],
+ "after": [
+  "El médico decide qué estudios y qué tratamiento siguen",
+  "Si fue un análisis programado, el resultado suele estar el mismo día"
+ ],
+ "red_flags": [
+  "Dolor, presión o ardor en el pecho que dura más de unos minutos: llama a emergencias",
+  "Dolor que se va al brazo, la mandíbula o la espalda, con sudor frío o falta de aire: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué la troponina se mide dos veces?",
+   "a": "Sube poco a poco. El segundo análisis muestra si el nivel está cambiando."
+  },
+  {
+   "q": "¿Puedo ir al laboratorio a hacerme la troponina si me duele el pecho?",
+   "a": "No. Con dolor de pecho llama a emergencias. Lo importante es el electrocardiograma y la atención rápida."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis programado de troponina. No necesitas preparación. Si te empieza a doler el pecho, llama a emergencias de inmediato."
+  }
+ ]
+}

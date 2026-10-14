@@ -1,0 +1,72 @@
+{
+ "title": "Inalação com nebulizador",
+ "also": [
+  "nebulizador",
+  "inalação",
+  "nebulização",
+  "fazer inalação"
+ ],
+ "what": "O nebulizador transforma o remédio líquido numa névoa bem fina. Você respira essa névoa com calma, por uma máscara ou um bocal.",
+ "why": "Com bronquite com falta de ar, asma, crupe em crianças e outras doenças do pulmão, conforme a receita médica.",
+ "duration": "normalmente de 5 a 15 minutos por inalação",
+ "tell_doctor": [
+  "Quais outras bombinhas você usa",
+  "Se depois da inalação o coração acelera ou dá tremor",
+  "Se as inalações não estão ajudando"
+ ],
+ "prepare": [
+  {
+   "title": "Remédio",
+   "text": "Coloque só o que o médico receitou, na dose certa. Para diluir, normalmente se usa soro fisiológico. Não use água comum."
+  },
+  {
+   "title": "Horário",
+   "text": "Normalmente pelo menos uma hora depois de comer."
+  },
+  {
+   "title": "Aparelho",
+   "text": "Antes da primeira inalação, leia o manual do nebulizador."
+  }
+ ],
+ "bring": [
+  "Nebulizador, máscara ou bocal",
+  "O remédio receitado e soro fisiológico"
+ ],
+ "steps": [
+  "Lave as mãos",
+  "Coloque o remédio no copinho do nebulizador",
+  "Encaixe a máscara ou o bocal e ligue o aparelho",
+  "Sente reto e respire com calma pela boca",
+  "Respire até parar de sair névoa",
+  "Desligue o aparelho. Depois de remédios com corticoide, enxágue a boca"
+ ],
+ "feel": [
+  "Normalmente nada desagradável",
+  "Às vezes, coração acelerado ou leve tremor nas mãos com alguns remédios"
+ ],
+ "after": [
+  "Lave o copinho e a máscara com água morna e deixe secar",
+  "Higienize as peças regularmente, como diz o manual",
+  "Óleos, ervas e chás não vão no nebulizador"
+ ],
+ "red_flags": [
+  "A falta de ar está piorando, é difícil falar, os lábios ficam roxos: ligue para a emergência",
+  "Criança com tosse de cachorro e respiração barulhenta que não passa depois da inalação: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso fazer inalação com água mineral?",
+   "a": "Só se o médico disser. Para diluir remédios, normalmente se usa soro fisiológico."
+  },
+  {
+   "q": "Posso fazer com febre?",
+   "a": "Normalmente pode, se o médico receitou. Inalação de vapor quente é outra coisa, e essa não se faz com febre."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 0,
+   "text": "Hora da inalação. Remédio conforme a receita, respiração calma pela boca, e depois lave a máscara."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "title": "Hemocultivo",
+ "also": [
+  "hemocultivo",
+  "cultivo de sangre",
+  "hemocultivos",
+  "cultivo bacteriano en sangre"
+ ],
+ "what": "Sacan sangre de la vena en unos frascos especiales. En el laboratorio ven si crecen microbios.",
+ "why": "Con fiebre alta y sospecha de infección en la sangre. Normalmente se hace en el hospital.",
+ "duration": "la toma dura de 5 a 10 minutos; el resultado preliminar suele estar en 1 a 3 días y el final hasta en 5 a 7 días",
+ "tell_doctor": [
+  "Si ya empezaste antibióticos",
+  "Si tienes alergia al antiséptico o al yodo",
+  "Si ya te pusieron un catéter en la vena"
+ ],
+ "prepare": [
+  {
+   "title": "Antibióticos",
+   "text": "Es mejor tomar el cultivo antes de la primera dosis de antibiótico. Pero el tratamiento no se retrasa. Eso lo decide el médico."
+  },
+  {
+   "title": "Comida",
+   "text": "No hace falta preparación especial."
+  },
+  {
+   "title": "Momento",
+   "text": "Muchas veces la sangre se toma cuando la fiebre está más alta o durante los escalofríos."
+  }
+ ],
+ "bring": [
+  "La orden médica, si el análisis es en consulta externa",
+  "Una identificación"
+ ],
+ "steps": [
+  "Limpian la piel del brazo con antiséptico por un buen rato y con mucho cuidado",
+  "Te ponen una liga arriba del codo",
+  "La sangre se toma en 2 frascos, a veces de los dos brazos",
+  "Sacan la aguja y ponen un algodón",
+  "Los frascos se mandan de inmediato al laboratorio"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "Si es de los dos brazos, son dos piquetes"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "La primera respuesta suele estar en 1 a 3 días y la completa hasta en una semana",
+  "Si crece un microbio, revisan qué antibióticos le hacen efecto"
+ ],
+ "red_flags": [
+  "Escalofríos, fiebre de más de 39, confusión o mucha debilidad: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué toman sangre de los dos brazos?",
+   "a": "Así es más fácil distinguir una infección real de un microbio de la piel que cayó por accidente."
+  },
+  {
+   "q": "¿Por qué hay que esperar una semana?",
+   "a": "Algunos microbios crecen despacio. Mientras se espera la respuesta, el tratamiento normalmente ya empezó."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Pronto es tu hemocultivo. Si ya empezaste antibióticos, díselo a la enfermera."
+  }
+ ]
+}

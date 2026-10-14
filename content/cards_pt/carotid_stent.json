@@ -1,0 +1,81 @@
+{
+ "title": "Angioplastia de carótida com stent",
+ "also": [
+  "stent na carótida",
+  "angioplastia de carótida",
+  "desobstrução da carótida"
+ ],
+ "what": "Por um furo na virilha ou no braço, o médico leva um tubo fino até a artéria carótida estreitada, no pescoço, e coloca um tubinho de malha, o stent. Ele mantém a artéria aberta.",
+ "why": "No estreitamento forte da carótida, para diminuir o risco de AVC.",
+ "duration": "o procedimento leva normalmente de 1 a 2 horas, com internação normalmente de 1 a 3 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue e os de diabetes. O médico diz o que tomar",
+  "Alergia a iodo ou a contraste",
+  "Doenças dos rins",
+  "Se já teve AVC ou episódios passageiros de fala, visão alterada ou fraqueza no braço"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, ultrassom ou tomografia dos vasos do pescoço. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Antes do stent, normalmente receitam remédios contra coágulos. Tome exatamente conforme o esquema do médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come por algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Coisas",
+   "text": "Roupa confortável, seus remédios, carregador."
+  }
+ ],
+ "bring": [
+  "Pedido médico e as imagens dos vasos do pescoço",
+  "Exames",
+  "Documentos e lista de remédios",
+  "Coisas para ficar no hospital de 1 a 3 dias"
+ ],
+ "steps": [
+  "Colocam um acesso na veia, e você deita na mesa",
+  "O local da punção é anestesiado com injeção. Você fica acordado",
+  "O médico leva um tubo fino pelos vasos até o pescoço",
+  "Coloca um filtro de proteção contra pequenos coágulos",
+  "A parte estreita é aberta, e o stent é colocado",
+  "O tubo é retirado, e o local da punção é apertado"
+ ],
+ "feel": [
+  "Calor quando entra o contraste",
+  "Às vezes pressão no pescoço quando a artéria é aberta",
+  "O médico vai pedir para você mexer a mão e falar algo. Assim se confere o cérebro"
+ ],
+ "after": [
+  "Fique deitado algumas horas sem dobrar o braço ou a perna da punção",
+  "Tome os remédios contra coágulos exatamente conforme o esquema. Não pare por conta própria",
+  "Ultrassom de controle quando o médico indicar"
+ ],
+ "red_flags": [
+  "Fraqueza ou dormência repentina no braço, na perna ou no rosto: ligue para a emergência",
+  "A fala ou a visão ficaram alteradas: ligue para a emergência",
+  "O local da punção inchou ou sangra: ligue para a emergência",
+  "Dor de cabeça forte e repentina: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Qual a diferença entre stent e cirurgia da carótida?",
+   "a": "No stent não há corte no pescoço, a artéria é aberta por dentro. Qual o melhor caminho para você, o médico decide."
+  },
+  {
+   "q": "Posso parar os comprimidos contra coágulos depois do stent?",
+   "a": "Não. Sem eles, pode se formar um coágulo dentro do stent. Por quanto tempo tomar, o médico define."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o stent na carótida. Os comprimidos contra coágulos, exatamente conforme o esquema do médico. Comida, só até o horário que a clínica indicou."
+  }
+ ]
+}

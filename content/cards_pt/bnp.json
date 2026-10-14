@@ -1,0 +1,69 @@
+{
+ "title": "NT-proBNP (peptídeo do coração)",
+ "also": [
+  "NT-proBNP",
+  "peptídeo natriurético",
+  "BNP",
+  "exame de insuficiência cardíaca"
+ ],
+ "what": "É um exame de sangue colhido da veia. Mostra se o coração está sobrecarregado.",
+ "why": "Com falta de ar, inchaço nas pernas, cansaço fácil ou para acompanhar o tratamento da insuficiência cardíaca.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Quais remédios para o coração e a pressão você toma",
+  "Se tem doença nos rins",
+  "Se a falta de ar apareceu ou piorou"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa de preparo especial. É melhor fazer de manhã, antes de um café da manhã reforçado. Confirme com o laboratório."
+  },
+  {
+   "title": "Antes da coleta",
+   "text": "Sem esforço pesado. Fique sentado tranquilo de 10 a 15 minutos."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma. Ele decide se algo precisa mudar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Resultados anteriores de NT-proBNP e eletrocardiogramas, se tiver"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos, sem dobrar o braço",
+  "Você já pode comer e voltar à rotina",
+  "O resultado sai normalmente em 1 dia. O prazo quem informa é o laboratório",
+  "O médico compara com os resultados anteriores. O que importa é a evolução"
+ ],
+ "red_flags": [
+  "A falta de ar piorou muito, você não consegue ficar deitado, dor no peito: ligue para a emergência",
+  "O inchaço e o peso aumentam rápido em poucos dias: procure o médico logo"
+ ],
+ "faq": [
+  {
+   "q": "NT-proBNP alto é insuficiência cardíaca?",
+   "a": "Não necessariamente. Ele depende da idade, dos rins e de outros fatores. Quem avalia é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de NT-proBNP. De manhã, antes do café, e sem esforço."
+  }
+ ]
+}

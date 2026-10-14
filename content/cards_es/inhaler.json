@@ -1,0 +1,69 @@
+{
+ "title": "Cómo usar el inhalador",
+ "also": [
+  "inhalador",
+  "bombita para el asma",
+  "inhalador de dosis medida",
+  "inhalador de polvo seco"
+ ],
+ "what": "El inhalador lleva el medicamento directo a los pulmones. Lo más importante es la técnica correcta. Si no, el medicamento se queda en la boca.",
+ "why": "Con asma, EPOC y otras enfermedades de los bronquios, según indique el médico.",
+ "duration": "cerca de 1 a 2 minutos",
+ "tell_doctor": [
+  "Qué inhaladores tienes y cada cuánto los usas",
+  "Si tienes que usar el inhalador de rescate más seguido de lo normal",
+  "Pide que revisen tu técnica en la consulta"
+ ],
+ "prepare": [
+  {
+   "title": "Tipo",
+   "text": "Hay inhaladores en aerosol y de polvo. La técnica es diferente. Lee el instructivo del tuyo."
+  },
+  {
+   "title": "Medicamento",
+   "text": "Cuál inhalador es para diario y cuál para las crisis te lo dice el médico. No los dejes por tu cuenta."
+  }
+ ],
+ "bring": [
+  "Tus inhaladores, a la consulta",
+  "La cámara espaciadora, si tienes"
+ ],
+ "steps": [
+  "Quita la tapa. Si es de aerosol, agítalo bien",
+  "Siéntate o párate derecho y saca el aire tranquilo, no dentro del inhalador",
+  "Rodea bien la boquilla con los labios",
+  "Con aerosol: aprieta y al mismo tiempo empieza a tomar aire lento y profundo",
+  "Con polvo: toma aire rápido y fuerte",
+  "Aguanta la respiración de 5 a 10 segundos y luego saca el aire tranquilo",
+  "Si necesitas otra inhalación, espera cerca de un minuto",
+  "Después de un inhalador con cortisona, enjuágate la boca y escupe"
+ ],
+ "feel": [
+  "Sensación fría o un sabor en la boca",
+  "A veces picor en la garganta o tos"
+ ],
+ "after": [
+  "Revisa el contador de dosis o la caducidad",
+  "Mantén la boquilla limpia y seca",
+  "Siempre lleva contigo el inhalador de rescate"
+ ],
+ "red_flags": [
+  "El inhalador de rescate no ayuda, te cuesta hablar o los labios se ponen morados: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué hay que enjuagarse la boca?",
+   "a": "Después de los inhaladores con cortisona, los restos en la boca pueden causar hongos y ronquera."
+  },
+  {
+   "q": "¿Cómo sé si el inhalador está vacío?",
+   "a": "Revisa el contador de dosis. Si no tiene, cuenta las inhalaciones. Agitarlo no siempre ayuda a saberlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 0,
+   "text": "Hora de tu inhalador. Saca el aire, inhala lento, aguanta la respiración y, si tiene cortisona, enjuágate la boca."
+  }
+ ]
+}

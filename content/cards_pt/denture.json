@@ -1,0 +1,73 @@
+{
+ "title": "Prótese removível",
+ "also": [
+  "prótese removível",
+  "dentadura",
+  "dentes postiços",
+  "prótese parcial removível",
+  "PPR"
+ ],
+ "what": "É uma prótese que substitui alguns ou todos os dentes. Você mesmo tira e coloca, para limpar.",
+ "why": "Quando faltam muitos dentes ou todos, e as opções fixas não servem.",
+ "duration": "normalmente de 3 a 5 consultas em algumas semanas. A adaptação leva normalmente de algumas semanas a uns dois meses",
+ "tell_doctor": [
+  "Doenças da gengiva, feridas, boca seca",
+  "Diabetes",
+  "Alergia a acrílico e metais",
+  "Se já usou prótese e o que não gostou"
+ ],
+ "prepare": [
+  {
+   "title": "Tratamento",
+   "text": "Primeiro se tratam os dentes que restaram e a gengiva. Às vezes é preciso tirar algum dente."
+  },
+  {
+   "title": "Prótese antiga",
+   "text": "Se tiver prótese antiga, leve."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Prótese antiga, se tiver",
+  "Radiografias dos dentes, se tiver"
+ ],
+ "steps": [
+  "O dentista examina a boca e conversa sobre o tipo de prótese",
+  "Fazem as moldagens",
+  "Registram a mordida e escolhem a cor e o formato dos dentes",
+  "Provam o modelo em cera",
+  "Entregam a prótese pronta e fazem ajustes",
+  "Depois de alguns dias, ajustam os pontos que machucam"
+ ],
+ "feel": [
+  "No começo, a prótese parece grande, e pode haver mais saliva",
+  "A fala pode mudar por alguns dias",
+  "Pode machucar um pouco. Isso é corrigido nos ajustes"
+ ],
+ "after": [
+  "Comece com comida mole, cortada em pedaços pequenos",
+  "Leia em voz alta, para se acostumar a falar mais rápido",
+  "Limpe a prótese todos os dias. À noite, faça como o dentista orientar",
+  "Não entorte nem ajuste a prótese sozinho"
+ ],
+ "red_flags": [
+  "Uma ferida na boca não sara em mais de 1 a 2 semanas: mostre ao dentista",
+  "A prótese quebrou ou rachou"
+ ],
+ "faq": [
+  {
+   "q": "Posso dormir com a prótese?",
+   "a": "Normalmente se recomenda tirar à noite, para a gengiva descansar. Confirme com o dentista."
+  },
+  {
+   "q": "Quanto tempo leva para acostumar?",
+   "a": "Normalmente algumas semanas. Use a prótese todos os dias. Assim você se acostuma mais rápido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta da prótese. Leve a prótese antiga, se tiver."
+  }
+ ]
+}

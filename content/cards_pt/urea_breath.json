@@ -1,0 +1,67 @@
+{
+ "title": "Teste respiratório para H. pylori",
+ "also": [
+  "teste respiratório",
+  "teste da urease respiratório",
+  "teste do sopro",
+  "teste de H. pylori pelo hálito"
+ ],
+ "what": "Você bebe uma solução especial e sopra num saquinho ou tubo. Pelo ar que você solta, dá para ver se há a bactéria H. pylori no estômago.",
+ "why": "Com dor no estômago, azia, úlcera ou para conferir depois do tratamento do H. pylori.",
+ "duration": "normalmente de 30 a 40 minutos, o resultado muitas vezes sai no mesmo dia",
+ "tell_doctor": [
+  "Se tomou antibiótico no último mês",
+  "Se toma remédio para azia e acidez",
+  "Se já tratou H. pylori e quando terminou",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Em jejum: normalmente 6 horas sem comer. Pergunte na clínica se pode beber água."
+  },
+  {
+   "title": "Cigarro e chiclete",
+   "text": "No dia do teste, não fume e não masque chiclete."
+  },
+  {
+   "title": "Remédios",
+   "text": "Antibióticos e remédios para acidez podem alterar o resultado. Não suspenda por conta própria. Fale com o médico, ele decide."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "Você sopra no primeiro saquinho ou tubo. É a amostra de base",
+  "Bebe um copo da solução. Normalmente tem gosto azedinho",
+  "Fica sentado tranquilo, normalmente de 15 a 30 minutos",
+  "Sopra no segundo saquinho ou tubo",
+  "As amostras vão para análise"
+ ],
+ "feel": [
+  "Nada desagradável. Só é preciso esperar com calma"
+ ],
+ "after": [
+  "Você já pode comer e voltar à rotina",
+  "O resultado sai normalmente no mesmo dia ou no dia seguinte. O prazo quem informa é o laboratório"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O teste respiratório é seguro?",
+   "a": "Sim, normalmente usam uma solução não radioativa. Ele serve também para controle depois do tratamento."
+  },
+  {
+   "q": "Quando faço o teste depois do tratamento?",
+   "a": "Normalmente pelo menos 4 semanas depois do fim do tratamento. O prazo quem diz é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "Hoje você tem teste respiratório para H. pylori. Nas 6 horas antes, não coma, não fume e não masque chiclete."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "title": "Troca de válvula cardíaca",
+ "also": [
+  "troca de válvula",
+  "prótese de válvula cardíaca",
+  "troca da válvula aórtica",
+  "troca da válvula mitral"
+ ],
+ "what": "O cirurgião troca a válvula do coração danificada por uma prótese. Normalmente é uma cirurgia aberta. Às vezes a válvula é colocada por um vaso, sem abrir o peito.",
+ "why": "Quando a válvula está muito estreita ou não fecha, e o coração não dá conta.",
+ "duration": "a cirurgia leva normalmente de 3 a 5 horas, com internação normalmente de 7 a 14 dias; quando é colocada pelo vaso, menos",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergias",
+  "Doenças dos rins, dos pulmões, diabetes",
+  "Se você tem dentes com problema. Eles são tratados antes da cirurgia",
+  "Se você planeja engravidar. Isso importa na escolha da válvula"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, ecocardiograma, cateterismo ou tomografia. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Dentes",
+   "text": "Normalmente é preciso tratar os dentes antes da cirurgia, para evitar infecção."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Casa",
+   "text": "Combine antes quem vai ajudar você em casa nas primeiras semanas."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados de exames",
+  "Atestado do dentista, se pediram",
+  "Documentos e lista de remédios",
+  "Coisas para ficar no hospital de 1 a 2 semanas"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam os acessos",
+  "O anestesista aplica a anestesia, e você dorme",
+  "Na cirurgia aberta, o coração é ligado à máquina de circulação extracorpórea",
+  "O cirurgião retira a válvula doente e costura a nova",
+  "O coração volta a bater, o esterno é fechado e o corte é suturado",
+  "Você acorda na UTI"
+ ],
+ "feel": [
+  "Depois da anestesia, fraqueza e sono",
+  "Dor no peito pelo corte. Dão analgésico",
+  "A válvula mecânica às vezes faz um tique-taque baixinho. É normal"
+ ],
+ "after": [
+  "Você começa a levantar nos primeiros dias",
+  "Por algumas semanas, proteja o esterno: sem peso e sem se apoiar nos braços",
+  "Com válvula mecânica, os remédios contra coágulos são para a vida toda, com exames regulares",
+  "Antes de tratamento dentário e outros procedimentos, avise que você tem válvula artificial",
+  "A recuperação costuma levar de 2 a 3 meses"
+ ],
+ "red_flags": [
+  "Dor no peito, falta de ar forte: ligue para a emergência",
+  "Fraqueza repentina no braço ou na perna, fala alterada: ligue para a emergência",
+  "Febre acima de 38 graus sem causa clara",
+  "Sangramentos e roxos sem motivo, se você toma remédio contra coágulos"
+ ],
+ "faq": [
+  {
+   "q": "Qual válvula é melhor, mecânica ou biológica?",
+   "a": "A mecânica dura mais, mas exige remédio contra coágulos a vida toda. A biológica dispensa esse remédio, mas pode se desgastar. A escolha é feita com o cirurgião."
+  },
+  {
+   "q": "Por que tratar os dentes antes da cirurgia?",
+   "a": "Uma infecção dos dentes pode chegar à válvula nova. Por isso os dentes são tratados antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia da válvula do coração. Separe os documentos, as coisas e a lista de remédios. Comida e água, só até o horário que a clínica indicou."
+  }
+ ]
+}

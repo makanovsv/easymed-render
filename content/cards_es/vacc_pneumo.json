@@ -1,0 +1,72 @@
+{
+ "title": "Vacuna contra el neumococo",
+ "also": [
+  "vacuna neumocócica",
+  "vacuna contra la neumonía",
+  "vacuna del neumococo",
+  "vacuna antineumocócica"
+ ],
+ "what": "Es una inyección de vacuna que protege contra el neumococo, una causa común de neumonía grave, otitis y meningitis.",
+ "why": "A los niños según el calendario, desde los primeros meses de vida. En adultos, normalmente después de los 65 años y con enfermedades del corazón, de los pulmones o diabetes.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Si ahora estás enfermo o tienes fiebre",
+  "Reacciones fuertes a vacunas anteriores",
+  "Qué vacunas contra el neumococo ya tienes",
+  "Enfermedades crónicas"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando estás sano."
+  },
+  {
+   "title": "Esquema",
+   "text": "Hay distintas vacunas, y el esquema depende de la edad. El médico lo elige."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir fácilmente el brazo."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico o la enfermera pregunta cómo te sientes y toma la temperatura",
+  "Descubres el brazo",
+  "Limpian la piel y ponen la inyección",
+  "Anotan la vacuna en tus documentos",
+  "Después de la inyección hay que quedarse sentado en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces duele o se pone rojo el lugar de la inyección por 1 o 2 días",
+  "A veces cansancio o un poco de fiebre"
+ ],
+ "after": [
+  "Quédate 30 minutos cerca del consultorio",
+  "Puedes regresar a tus actividades",
+  "Si hace falta otra dosis, te lo dirá el médico"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o salen ronchas por todo el cuerpo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La vacuna protege contra cualquier neumonía?",
+   "a": "No, solo contra la del neumococo. Pero es una de las causas más comunes y peligrosas."
+  },
+  {
+   "q": "¿Se puede poner junto con la vacuna de la influenza?",
+   "a": "Normalmente sí, el mismo día. Pregúntale al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna contra el neumococo. Lleva tu cartilla de vacunación."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Retirada de pinta a laser",
+ "also": [
+  "tirar pinta",
+  "retirada de nevo",
+  "remoção de pinta a laser",
+  "retirada de verruga a laser"
+ ],
+ "what": "O médico retira a pinta ou a lesão da pele com laser, com anestesia local. Antes, ela sempre é examinada.",
+ "why": "Quando a pinta incomoda, machuca com a roupa ou você não gosta dela, e o médico confirmou que dá para tirar com laser.",
+ "duration": "o procedimento leva normalmente de 10 a 30 minutos. A cicatrização leva normalmente de 1 a 3 semanas",
+ "tell_doctor": [
+  "Se a pinta mudou: cresceu, mudou de cor, sangrou",
+  "Remédios que afinam o sangue",
+  "Tendência a queloide",
+  "Gravidez",
+  "Alergia a anestésicos"
+ ],
+ "prepare": [
+  {
+   "title": "Avaliação",
+   "text": "Antes de tirar, o dermatologista sempre examina a pinta com o dermatoscópio. Pintas suspeitas são retiradas com cirurgia e mandadas para análise."
+  },
+  {
+   "title": "Sol",
+   "text": "De 1 a 2 semanas antes do procedimento, não tome sol."
+  },
+  {
+   "title": "Pele",
+   "text": "No dia, não passe creme nem maquiagem no local."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Laudo do dermatologista, se a avaliação foi antes"
+ ],
+ "steps": [
+  "O médico examina a pinta",
+  "Limpam a pele com antisséptico",
+  "Aplicam a anestesia ou passam um creme anestésico",
+  "Com o laser, tiram a pinta camada por camada",
+  "Limpam o local e às vezes cobrem com curativo"
+ ],
+ "feel": [
+  "A injeção de anestesia arde rápido",
+  "Durante o laser, calor e cheiro, mas não dor",
+  "Depois, uma leve ardência e vermelhidão"
+ ],
+ "after": [
+  "No local vai ficar uma casquinha. Não arranque",
+  "Cuide do local como o médico orientou",
+  "Por alguns dias, não esfregue com bucha e evite banho muito quente",
+  "Proteja o local do sol por alguns meses"
+ ],
+ "red_flags": [
+  "O local fica muito vermelho, inchado, com pus",
+  "Sangramento que não para com pressão"
+ ],
+ "faq": [
+  {
+   "q": "Qualquer pinta pode ser tirada com laser?",
+   "a": "Não. Primeiro o médico examina. Pintas suspeitas são retiradas com bisturi e mandadas para análise."
+  },
+  {
+   "q": "Vai ficar marca?",
+   "a": "Normalmente fica uma manchinha clara, que vai clareando com o tempo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a retirada da pinta. Não passe creme no local e não tome sol."
+  }
+ ]
+}

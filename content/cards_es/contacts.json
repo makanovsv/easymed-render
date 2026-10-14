@@ -1,0 +1,78 @@
+{
+ "title": "Adaptación de lentes de contacto",
+ "also": [
+  "lentes de contacto",
+  "pupilentes",
+  "lentes de contacto blandos",
+  "adaptación de lentes de contacto"
+ ],
+ "what": "El médico te revisa los ojos y elige lentes de contacto del tamaño y graduación correctos. Te enseñan a ponerlos, quitarlos y cuidarlos.",
+ "why": "Cuando quieres ver sin lentes de armazón, para hacer deporte o porque te lo recomendó el médico.",
+ "duration": "normalmente de 40 a 60 minutos; a veces hay que regresar a revisión en unos días",
+ "tell_doctor": [
+  "Si ya usaste lentes de contacto y si tuviste problemas",
+  "Ojo seco, alergias o infecciones frecuentes",
+  "Cómo los vas a usar: todos los días o de vez en cuando",
+  "Qué medicamentos y gotas usas"
+ ],
+ "prepare": [
+  {
+   "title": "Si ya usas lentes de contacto",
+   "text": "Pregunta en la clínica si debes llegar con ellos puestos o sin ellos."
+  },
+  {
+   "title": "Uñas",
+   "text": "Con las uñas cortas es más fácil ponerse los lentes."
+  },
+  {
+   "title": "Tiempo",
+   "text": "Llega sin prisa. Aprender a usarlos toma tiempo."
+  }
+ ],
+ "bring": [
+  "Tus lentes de armazón",
+  "Tus lentes de contacto anteriores o su caja",
+  "Una identificación"
+ ],
+ "steps": [
+  "El médico revisa tu vista",
+  "Mide la superficie del ojo y lo revisa",
+  "Te pone lentes de prueba",
+  "Después de un rato revisa cómo quedan",
+  "Aprendes a ponerte y quitarte los lentes tú solo",
+  "Te explican cómo cuidarlos, cuánto tiempo usarlos y cuándo cambiarlos"
+ ],
+ "feel": [
+  "Los primeros minutos sientes el lente en el ojo",
+  "Es normal que lloren los ojos la primera vez"
+ ],
+ "after": [
+  "Lávate las manos antes de tocar los lentes",
+  "No duermas ni nades con los lentes, si el médico no lo permitió",
+  "Cambia los lentes y la solución a tiempo",
+  "Ve a revisión cuando te diga el médico"
+ ],
+ "red_flags": [
+  "Ojo rojo, dolor, molestia con la luz o ves peor: quítate los lentes y ve al oftalmólogo de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo dormir con los lentes de contacto?",
+   "a": "Normalmente no. Solo con lentes especiales y si el médico lo permitió."
+  },
+  {
+   "q": "¿Puedo enjuagar los lentes con agua?",
+   "a": "No. Solo con la solución especial."
+  },
+  {
+   "q": "¿Qué es mejor, lentes de contacto o de armazón?",
+   "a": "Depende de tus ojos y tu estilo de vida. El médico te ayuda a elegir."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "En 2 horas es tu adaptación de lentes de contacto. Lleva tus lentes y la caja de los lentes anteriores."
+  }
+ ]
+}

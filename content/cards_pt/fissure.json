@@ -1,0 +1,75 @@
+{
+ "title": "Tratamento de fissura anal",
+ "also": [
+  "fissura anal",
+  "rachadura no ânus",
+  "ferida no ânus"
+ ],
+ "what": "O médico examina a fissura perto do ânus e indica o tratamento. Normalmente são pomadas, alimentação e banhos de assento, às vezes um pequeno procedimento.",
+ "why": "Com dor e sangue durante ou depois de evacuar.",
+ "duration": "a consulta leva normalmente de 15 a 30 minutos; com tratamento, a cicatrização costuma levar algumas semanas",
+ "tell_doctor": [
+  "Há quanto tempo dói e se sai sangue",
+  "Se você tem intestino preso ou diarreia",
+  "Todos os remédios",
+  "Se você está grávida ou teve bebê há pouco tempo",
+  "Se já operou essa região"
+ ],
+ "prepare": [
+  {
+   "title": "Intestino",
+   "text": "Normalmente não é preciso limpar o intestino. Se for feito um procedimento, confirme com a clínica."
+  },
+  {
+   "title": "Higiene",
+   "text": "De manhã, lave a região com água morna."
+  },
+  {
+   "title": "Dor",
+   "text": "Se doer muito, o médico examina com muito cuidado. Avise a ele."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Você deita de lado com as pernas dobradas",
+  "O médico examina a região do ânus",
+  "Se doer muito, o exame mais profundo pode ser adiado",
+  "O médico passa o tratamento e explica como usar",
+  "Se as pomadas não ajudarem, podem propor uma injeção ou uma pequena cirurgia"
+ ],
+ "feel": [
+  "O exame pode doer. O médico age com cuidado",
+  "Vergonha é normal, mas para o médico é um assunto comum"
+ ],
+ "after": [
+  "Coma mais verduras, legumes e frutas e beba água. As fezes precisam ficar macias",
+  "Banhos de assento mornos, como o médico orientar",
+  "Lave a região depois de evacuar",
+  "Pomadas e supositórios, só os que o médico receitou"
+ ],
+ "red_flags": [
+  "Sangramento forte",
+  "Febre acima de 38 graus e dor aumentando, inchaço perto do ânus"
+ ],
+ "faq": [
+  {
+   "q": "A fissura sara sem cirurgia?",
+   "a": "Muitas vezes sim, com tratamento e fezes macias. A cirurgia é necessária se o tratamento não ajudar."
+  },
+  {
+   "q": "Por que dói tanto para evacuar?",
+   "a": "A fissura fica irritada e o músculo se contrai em espasmo. O tratamento alivia o espasmo e a dor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta sobre a fissura. De manhã, lave a região com água morna e leve a lista de remédios."
+  }
+ ]
+}

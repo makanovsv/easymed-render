@@ -1,0 +1,74 @@
+{
+ "title": "Blood test for children",
+ "also": [
+  "child blood test",
+  "pediatric blood draw",
+  "finger prick for kids",
+  "kids' blood test"
+ ],
+ "what": "A nurse takes a little blood from your child's fingertip or a vein. It usually takes a couple of minutes.",
+ "why": "At a checkup, during illness, before kindergarten or school, before surgery, or to check treatment.",
+ "duration": "usually 3 to 10 minutes; results often come in 1 to 2 days",
+ "tell_doctor": [
+  "If your child has fainted or is very afraid of needles",
+  "If your child takes medicines",
+  "If your child is allergic to latex or bandages",
+  "If your child has a bleeding disorder"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Babies are usually fed as normal. Ask first. Older children are often asked to come fasting. Ask the lab how many hours without food."
+  },
+  {
+   "title": "Water",
+   "text": "Plain water is usually fine. It helps keep your child calmer."
+  },
+  {
+   "title": "Mindset",
+   "text": "Tell your child the truth: a quick prick, a little pain, and you will be right there. Do not use the doctor as a threat."
+  },
+  {
+   "title": "Bring along",
+   "text": "A favorite toy and a treat for afterward."
+  }
+ ],
+ "bring": [
+  "The test request form",
+  "Your child's documents",
+  "A toy and a snack for afterward"
+ ],
+ "steps": [
+  "You sit and hold your child on your lap, as the nurse shows you",
+  "The finger or arm is wiped with antiseptic",
+  "From a finger: a quick prick and a few drops into a tube",
+  "From a vein: a band, a quick prick, and blood fills a tube",
+  "A cotton pad is pressed on the spot, and your child is praised"
+ ],
+ "feel": [
+  "A quick prick. Your child may cry, and that is normal",
+  "Your calm helps your child a lot"
+ ],
+ "after": [
+  "Press the cotton pad for a few minutes",
+  "Praise your child right away and give a snack if they were fasting",
+  "Results usually come in 1 to 2 days"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why is blood taken from a vein and not a finger?",
+   "a": "Many tests need more blood. A vein is faster and more accurate."
+  },
+  {
+   "q": "How can I calm my child?",
+   "a": "Be honest and calm, hold them on your lap, and distract them with a toy or a cartoon."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Your child's blood test is tomorrow. Check if fasting is needed, and bring a toy and a snack."
+  }
+ ]
+}

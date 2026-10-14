@@ -1,0 +1,69 @@
+{
+ "title": "Revisión de ojos con dilatación de pupila",
+ "also": [
+  "fondo de ojo",
+  "dilatación de pupila",
+  "revisión con gotas",
+  "oftalmoscopía"
+ ],
+ "what": "El médico te pone gotas para que la pupila se haga grande. Así ve mejor la retina y el fondo del ojo.",
+ "why": "Si tienes diabetes, presión alta o miopía, si ves destellos o manchas, o en una revisión de rutina.",
+ "duration": "normalmente de 30 a 60 minutos contando la espera de las gotas; la vista sigue borrosa de 4 a 6 horas",
+ "tell_doctor": [
+  "Si tienes glaucoma o presión alta en el ojo, si lo sabes",
+  "Si tienes alergia a alguna gota",
+  "Si tienes diabetes",
+  "Si usas lentes de contacto"
+ ],
+ "prepare": [
+  {
+   "title": "Transporte",
+   "text": "Después de las gotas no puedes manejar por unas horas. Ve con un acompañante o en taxi."
+  },
+  {
+   "title": "Pendientes",
+   "text": "Por unas horas te va a costar leer y ver pantallas. Organiza tu día."
+  }
+ ],
+ "bring": [
+  "Lentes de sol",
+  "Tus lentes y una identificación",
+  "Un acompañante, si normalmente manejas"
+ ],
+ "steps": [
+  "El médico revisa tu vista y la presión del ojo",
+  "Te ponen las gotas",
+  "Esperas de 20 a 40 minutos a que se dilate la pupila",
+  "El médico te alumbra el ojo y mira a través de una lente",
+  "Te piden mirar hacia distintos lados"
+ ],
+ "feel": [
+  "Las gotas arden un poco",
+  "La luz fuerte de la revisión molesta, pero es breve",
+  "Por unas horas ves borroso de cerca y la luz deslumbra"
+ ],
+ "after": [
+  "No manejes hasta que tu vista vuelva a la normalidad",
+  "En la calle usa lentes de sol",
+  "Si usas lentes de contacto, póntelos cuando te diga el médico"
+ ],
+ "red_flags": [
+  "Después de las gotas, dolor fuerte en el ojo, dolor de cabeza, náuseas y halos de colores alrededor de las luces: ve al oftalmólogo de urgencia o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto dura la dilatación?",
+   "a": "Normalmente de 4 a 6 horas, a veces hasta un día."
+  },
+  {
+   "q": "¿Puedo trabajar después?",
+   "a": "Normalmente sí, pero por unas horas te va a costar leer y ver pantallas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu revisión con dilatación de pupila. No planees manejar. Lleva lentes de sol."
+  }
+ ]
+}

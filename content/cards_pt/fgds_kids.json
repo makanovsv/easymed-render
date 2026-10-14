@@ -1,0 +1,78 @@
+{
+ "title": "Endoscopia digestiva em criança",
+ "also": [
+  "endoscopia infantil",
+  "endoscopia digestiva alta em criança",
+  "EDA pediátrica",
+  "exame do estômago em criança"
+ ],
+ "what": "O médico examina o esôfago, o estômago e o começo do intestino da criança com um tubo fino e flexível com câmera, pela boca.",
+ "why": "Com dor de barriga frequente, vômito, suspeita de gastrite ou úlcera, objeto engolido, sangramento ou pouco ganho de peso.",
+ "duration": "o exame em si leva normalmente de 5 a 15 minutos. Depois da sedação, uma hora de observação. O laudo normalmente sai na hora",
+ "tell_doctor": [
+  "Todos os remédios da criança",
+  "Alergias",
+  "Doenças do coração, dos pulmões, convulsões",
+  "Se a criança teve resfriado há pouco tempo",
+  "Se a criança já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente a criança fica 6 horas sem comer e 2 horas sem beber. Para bebês, o tempo pode ser menor. Confirme com a clínica."
+  },
+  {
+   "title": "Sedação",
+   "text": "Em crianças, a endoscopia é feita normalmente dormindo. O anestesista explica antes como vai ser."
+  },
+  {
+   "title": "Conversa",
+   "text": "Explique para a criança com palavras simples: o médico vai olhar a barriguinha com uma câmera pequena, e ela vai dormir."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exames e laudos anteriores",
+  "Brinquedo preferido",
+  "Roupa extra e água para depois do exame"
+ ],
+ "steps": [
+  "Pesam a criança, e o anestesista conversa com ela",
+  "Normalmente um dos pais fica com a criança até ela dormir",
+  "A criança dorme com uma máscara ou um remédio na veia",
+  "O médico coloca o tubo fino pela boca",
+  "Examina o esôfago, o estômago e o intestino. Se precisar, tira um pedacinho de tecido",
+  "A criança acorda na sala de recuperação, e chamam você"
+ ],
+ "feel": [
+  "Dormindo, a criança não sente nada",
+  "Depois, pode ficar sonolenta, manhosa e com a garganta arranhando",
+  "Às vezes dá um pouco de enjoo"
+ ],
+ "after": [
+  "Normalmente pode beber e comer depois de 1 a 2 horas. Comece com água",
+  "A criança pode ficar molinha até a noite. É normal",
+  "O laudo normalmente sai na hora, e a biópsia em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Vômito com sangue ou fezes pretas: ligue para a emergência",
+  "Dor forte na barriga ou no peito, dificuldade para respirar: ligue para a emergência",
+  "Febre alta nas primeiras 24 horas: avise o médico"
+ ],
+ "faq": [
+  {
+   "q": "Posso ficar com a criança?",
+   "a": "Normalmente um dos pais fica com a criança até ela dormir e perto quando ela acordar. Confirme as regras com a clínica."
+  },
+  {
+   "q": "Dá para fazer sem anestesia?",
+   "a": "Em adolescentes, às vezes fazem só com anestesia na garganta, acordados. Em crianças pequenas, normalmente é feito dormindo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã a criança faz endoscopia. Comida e bebida, só até o horário que a clínica indicou. Leve um brinquedo."
+  }
+ ]
+}

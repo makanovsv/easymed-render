@@ -1,0 +1,69 @@
+{
+ "title": "Reoencefalografía (REG)",
+ "also": [
+  "reoencefalografía",
+  "REG",
+  "estudio de circulación cerebral por REG"
+ ],
+ "what": "La enfermera pone sensores en la cabeza y registra una corriente muy débil que pasa por los tejidos. Con el registro, el médico valora el llenado de sangre de los vasos de la cabeza. Es un estudio que se usa sobre todo en Rusia y Kazajistán.",
+ "why": "A veces se pide con dolores de cabeza, mareos o cambios de presión. Hoy en día se hace más seguido el ultrasonido de los vasos. El médico decidirá qué necesitas.",
+ "duration": "normalmente de 15 a 20 minutos; el reporte suele estar el mismo día",
+ "tell_doctor": [
+  "Qué te molesta y desde cuándo",
+  "Qué medicamentos tomas, sobre todo para la presión y para la circulación",
+  "Si tuviste un derrame cerebral o un golpe en la cabeza",
+  "Si tienes marcapasos"
+ ],
+ "prepare": [
+  {
+   "title": "En la mañana",
+   "text": "El día del estudio, sin café, té cargado ni cigarro. Afectan los vasos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer, pero sin llenarte. Pregunta en la clínica."
+  },
+  {
+   "title": "Cabello",
+   "text": "Limpio, sin peinado ni spray."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus estudios de vasos anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te sientas o te acuestas y descansas unos minutos",
+  "Te ponen electrodos en la cabeza con una banda elástica",
+  "Registran en reposo. Tienes que estar quieto",
+  "A veces te piden girar o inclinar la cabeza",
+  "A veces te dan un medicamento debajo de la lengua y registran otra vez. Solo si el médico lo decide"
+ ],
+ "feel": [
+  "No duele. La corriente es débil y no se siente",
+  "La banda elástica puede apretar un poco"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "El reporte suele estar el mismo día",
+  "Platica el resultado con el neurólogo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Qué es mejor, la REG o el ultrasonido de los vasos?",
+   "a": "Hoy se pide más el ultrasonido de los vasos de la cabeza y el cuello, porque muestra más. Pregunta al médico qué te conviene."
+  },
+  {
+   "q": "¿Es seguro?",
+   "a": "Sí. La corriente es muy débil y no se siente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu reoencefalografía. En la mañana sin café ni cigarro. Cabello limpio, sin spray."
+  }
+ ]
+}

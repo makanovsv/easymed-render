@@ -1,0 +1,72 @@
+{
+ "title": "Colocación de sonda nasogástrica",
+ "also": [
+  "sonda nasogástrica",
+  "sonda al estómago",
+  "sonda por la nariz",
+  "sonda de alimentación"
+ ],
+ "what": "Por la nariz pasan un tubo delgado y suave hasta el estómago. Por ahí se da alimento, medicamentos o se saca lo que hay en el estómago.",
+ "why": "Cuando la persona no puede tragar o comer sola, después de algunas cirugías, con obstrucción del intestino, o en intoxicaciones.",
+ "duration": "ponerla suele tomar de 5 a 15 minutos; la sonda se deja el tiempo necesario, de horas a semanas",
+ "tell_doctor": [
+  "Si tuviste un golpe o una cirugía en la nariz",
+  "Medicamentos que hacen la sangre más líquida",
+  "Si te sangra la nariz seguido",
+  "Si tienes enfermedades del esófago"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Normalmente no hace falta preparación especial. La enfermera te explicará qué hacer."
+  },
+  {
+   "title": "Señal",
+   "text": "Pónganse de acuerdo en una señal con la mano, por si quieres que se detengan."
+  }
+ ],
+ "bring": [
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te sientan con la cabeza un poco hacia adelante",
+  "La enfermera mide qué largo tiene que entrar la sonda",
+  "Ponen gel en la punta de la sonda; a veces adormecen la nariz",
+  "Meten la sonda por un orificio de la nariz",
+  "Cuando llega a la garganta, te piden tragar. Si te lo permiten, con traguitos de agua",
+  "Revisan dónde quedó la sonda, a veces con una radiografía",
+  "Sujetan la sonda con cinta en la nariz"
+ ],
+ "feel": [
+  "Es molesto y puede dar arcadas. Tragar ayuda",
+  "Te lloran los ojos",
+  "Mientras tengas la sonda, puede picar la garganta"
+ ],
+ "after": [
+  "No jales ni muevas la sonda tú solo",
+  "La enfermera revisa la nariz y la piel bajo la cinta",
+  "Si te vas a casa con la sonda, te enseñarán a alimentar y a lavar la sonda",
+  "La sonda se quita rápido, casi no duele"
+ ],
+ "red_flags": [
+  "Tos, ahogo o dificultad para respirar durante la alimentación: detén la alimentación y llama de inmediato a la enfermera o a emergencias",
+  "La sonda se salió o se movió: no la metas tú solo, avísale a la enfermera",
+  "Sangrado de nariz que no para"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo hablar con la sonda?",
+   "a": "Sí. La sonda estorba un poco, pero puedes hablar."
+  },
+  {
+   "q": "¿Cuánto tiempo puedo tener la sonda?",
+   "a": "Depende de la causa. Normalmente varios días o semanas. Si se necesita por mucho tiempo, el médico puede proponer otra forma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Pronto te ponen la sonda. Ponte de acuerdo con la enfermera en una señal con la mano por si quieres una pausa."
+  }
+ ]
+}

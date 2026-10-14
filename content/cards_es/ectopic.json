@@ -1,0 +1,85 @@
+{
+ "title": "Embarazo ectópico",
+ "also": [
+  "embarazo ectópico",
+  "embarazo tubario",
+  "embarazo fuera del útero",
+  "laparoscopia por embarazo ectópico"
+ ],
+ "what": "El embarazo se implantó fuera del útero, casi siempre en la trompa. No se puede continuar, y es importante tratarlo a tiempo: con medicamento inyectado o con cirugía por pequeños orificios.",
+ "why": "Cuando la prueba sale positiva pero en el ultrasonido no hay embarazo en el útero, o si hay dolor de un lado en la parte baja del abdomen y manchado.",
+ "duration": "la laparoscopia suele durar de 30 a 90 minutos, en el hospital normalmente de 1 a 3 días; con el tratamiento inyectado, análisis por varias semanas",
+ "tell_doctor": [
+  "El dolor: dónde, desde cuándo y si se va al hombro",
+  "Desmayos o mareos",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Alergias y enfermedades del corazón, del hígado o de los riñones",
+  "Si ya tuviste un embarazo ectópico o cirugías del abdomen"
+ ],
+ "prepare": [
+  {
+   "title": "Urgente",
+   "text": "Muchas veces se trata el mismo día. Si el dolor es fuerte o te mareas, llama a emergencias de inmediato."
+  },
+  {
+   "title": "Opciones",
+   "text": "Al inicio, a veces ayuda un medicamento inyectado. Si no, cirugía por pequeños orificios. Lo decide el médico con los análisis y el ultrasonido."
+  },
+  {
+   "title": "Comida",
+   "text": "Hasta que el médico decida, no comas ni bebas: puede hacer falta anestesia."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Los resultados del ultrasonido y de la prueba de embarazo en sangre",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital"
+ ],
+ "steps": [
+  "El médico hace un ultrasonido y toma sangre para medir la hormona del embarazo",
+  "Si eligen la inyección, te la ponen y luego te sacan sangre varias veces hasta que la hormona baje",
+  "Si es cirugía, te cambias de ropa y te ponen suero",
+  "Con anestesia general, el cirujano hace unos orificios pequeños en el abdomen",
+  "Quita el embarazo, a veces junto con la trompa",
+  "Despiertas en la sala y te vigilan"
+ ],
+ "feel": [
+  "Después de la anestesia hay sueño y a veces náuseas",
+  "Dolor donde hicieron los orificios. Te dan analgésicos",
+  "Muchas veces duele el hombro por el gas. Se quita en 1 o 2 días",
+  "Tristeza y angustia son naturales. Puedes pedir apoyo"
+ ],
+ "after": [
+  "Normalmente te dejan levantarte el mismo día o al siguiente",
+  "No cargues cosas pesadas por unas semanas",
+  "A veces se mide la hormona del embarazo hasta que llega a cero, según el plan del médico",
+  "Si tu Rh es negativo, puede hacer falta una inyección de inmunoglobulina",
+  "Platica con el médico sobre un nuevo embarazo y los anticonceptivos"
+ ],
+ "red_flags": [
+  "Dolor fuerte y repentino en el abdomen, dolor de hombro, mareo o desmayo: llama a emergencias",
+  "Sangrado fuerte: llama a emergencias",
+  "Fiebre de más de 38, o enrojecimiento y pus en los orificios"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede salvar este embarazo?",
+   "a": "No. No puede desarrollarse fuera del útero y pone en peligro tu vida. Hay que tratarlo."
+  },
+  {
+   "q": "¿Podré embarazarme después?",
+   "a": "La mayoría de las mujeres sí, aunque les quede una sola trompa. El médico te dirá cuándo planearlo."
+  },
+  {
+   "q": "¿Por qué me duele el hombro?",
+   "a": "Es por el gas de la laparoscopia o por sangre en el abdomen. Si te duele antes de la cirugía, llama a emergencias de inmediato."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta por el embarazo ectópico. Si el dolor aumenta, te mareas o te sientes débil, no esperes: llama a emergencias."
+  }
+ ]
+}

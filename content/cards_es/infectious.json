@@ -1,0 +1,72 @@
+{
+ "title": "Consulta con el infectólogo",
+ "also": [
+  "infectólogo",
+  "médico de infecciones",
+  "consulta de infectología"
+ ],
+ "what": "Es el médico que trata infecciones por virus, bacterias o parásitos, y te ayuda con las vacunas antes de viajar.",
+ "why": "Si tienes fiebre que no se quita, infecciones intestinales, hepatitis, cambios en tus análisis de infecciones, después de viajar a otros países o de una picadura de garrapata.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Cuándo empezó la fiebre y cómo ha cambiado",
+  "A dónde viajaste en los últimos meses",
+  "Si tuviste contacto con enfermos, o picaduras de garrapata o mordidas de animales",
+  "Qué vacunas tienes",
+  "Qué medicamentos tomaste, también antibióticos"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Lleva todos tus análisis y resultados, si te los hiciste."
+  },
+  {
+   "title": "Fiebre",
+   "text": "Apunta cómo ha cambiado la fiebre día por día."
+  },
+  {
+   "title": "Cubrebocas",
+   "text": "Si tienes fiebre o tos, ponte cubrebocas y avisa en la recepción."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tu cartilla de vacunación, si tienes",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias, viajes y contactos",
+  "Revisa tu piel, tu garganta y tus ganglios",
+  "Palpa tu abdomen",
+  "Revisa tus análisis",
+  "Te pide estudios o te indica un tratamiento"
+ ],
+ "feel": [
+  "Nada molesto. Es una revisión normal",
+  "A veces ese mismo día toman sangre o un exudado"
+ ],
+ "after": [
+  "Hazte los análisis y regresa con los resultados",
+  "Toma antibióticos solo si te los indican, y hasta terminar el tratamiento"
+ ],
+ "red_flags": [
+  "Fiebre muy alta, confusión o ronchas que no se aclaran al presionarlas: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Tengo que ir después de una picadura de garrapata?",
+   "a": "Sí, mejor que te vea un médico. Puedes guardar la garrapata para analizarla; pregunta en la clínica."
+  },
+  {
+   "q": "¿Por qué el médico pregunta por mis viajes?",
+   "a": "Cada país tiene sus propias infecciones. Ayuda a encontrar la causa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el infectólogo. Lleva tus análisis y recuerda tus viajes y contactos."
+  }
+ ]
+}

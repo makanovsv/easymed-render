@@ -1,0 +1,81 @@
+{
+ "title": "Inducción del parto",
+ "also": [
+  "inducción del parto",
+  "inducir el parto",
+  "maduración cervical",
+  "provocar el parto"
+ ],
+ "what": "Si el parto no empieza solo, el médico ayuda a que empiece. Primero se ablanda el cuello del útero y luego, si hace falta, se provocan las contracciones.",
+ "why": "Si el embarazo ya pasó de la fecha, se rompió la fuente sin contracciones, hay presión alta, diabetes u otras razones en las que esperar es más peligroso.",
+ "duration": "de unas horas a 1 a 3 días; depende de qué tan listo esté el cuello del útero",
+ "tell_doctor": [
+  "Si tuviste una cesárea u otra cirugía del útero",
+  "Alergias a medicamentos",
+  "Si se rompió la fuente y cuándo",
+  "Cómo se mueve el bebé",
+  "Tus miedos y deseos. El médico te explica cada paso"
+ ],
+ "prepare": [
+  {
+   "title": "Decisión",
+   "text": "El médico te explica por qué hace falta la inducción y qué opciones hay. Firmas un consentimiento."
+  },
+  {
+   "title": "Maleta",
+   "text": "Lleva tus cosas para el hospital: puede tardar varios días."
+  },
+  {
+   "title": "Comida",
+   "text": "Antes de la inducción normalmente puedes comer algo ligero. Pregunta en el hospital."
+  }
+ ],
+ "bring": [
+  "Tu carnet prenatal",
+  "Tus documentos",
+  "La maleta para el hospital",
+  "El cargador del teléfono"
+ ],
+ "steps": [
+  "El médico revisa el cuello del útero en la mesa de exploración y decide por dónde empezar",
+  "Normalmente primero ponen un gel o una pastilla en la vagina, o te dan una pastilla por la boca",
+  "A veces ponen en el cuello un globito que lo abre suavemente",
+  "Después de unas horas el médico te vuelve a revisar",
+  "Si hace falta, rompen la fuente. No duele",
+  "A veces ponen suero con un medicamento que refuerza las contracciones",
+  "Vigilan todo el tiempo el corazón del bebé"
+ ],
+ "feel": [
+  "La revisión y poner el globito son molestos",
+  "Cólicos como de regla, y luego empiezan las contracciones",
+  "Con la inducción, las contracciones pueden ser más fuertes. Puedes pedir alivio del dolor"
+ ],
+ "after": [
+  "Después el parto sigue como siempre",
+  "Si la inducción no funciona, el médico platicará contigo otras opciones, incluida la cesárea"
+ ],
+ "red_flags": [
+  "Dolor fuerte y constante en el abdomen o sangrado: díselo al personal de inmediato",
+  "El bebé se mueve mucho menos: díselo al personal"
+ ],
+ "faq": [
+  {
+   "q": "¿La inducción duele más que un parto normal?",
+   "a": "A veces las contracciones son más fuertes. El alivio del dolor está disponible igual que en un parto normal."
+  },
+  {
+   "q": "¿Cuánto tarda?",
+   "a": "Varía: de unas horas a 1 a 3 días. Mientras más blando el cuello, más rápido."
+  },
+  {
+   "q": "¿Puedo decir que no?",
+   "a": "Sí. El médico te explica qué riesgo tiene esperar en tu caso y deciden juntos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu inducción del parto. Prepara la maleta para el hospital, tus documentos y tu carnet prenatal."
+  }
+ ]
+}

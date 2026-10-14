@@ -1,0 +1,69 @@
+{
+ "title": "Consulta com psicólogo",
+ "also": [
+  "psicólogo",
+  "terapia com psicólogo",
+  "atendimento psicológico"
+ ],
+ "what": "É o especialista que ajuda a entender sentimentos, relações e situações difíceis pela conversa. Não é médico e não receita remédios.",
+ "why": "Com estresse, ansiedade, dificuldades nos relacionamentos, luto, crises, problemas de comportamento em crianças.",
+ "duration": "o encontro dura normalmente de 50 a 60 minutos; quantos encontros, vocês decidem juntos",
+ "tell_doctor": [
+  "O que trouxe você e o que quer mudar",
+  "Se já procurou psicólogo ou psiquiatra antes",
+  "Quais remédios você toma",
+  "Se há pensamentos de se machucar, diga logo"
+ ],
+ "prepare": [
+  {
+   "title": "Motivo",
+   "text": "Pense com o que quer chegar. Se for difícil explicar, é normal: vocês descobrem juntos."
+  },
+  {
+   "title": "Para a criança",
+   "text": "Para os pais: no primeiro encontro, muitas vezes vão juntos, às vezes primeiro sem a criança. Confirme antes."
+  },
+  {
+   "title": "Lugar",
+   "text": "Se o encontro for online, encontre um lugar tranquilo, onde ninguém ouça."
+  }
+ ],
+ "bring": [
+  "Documento de identidade, se a clínica pedir",
+  "Um caderno, se quiser anotar algo"
+ ],
+ "steps": [
+  "Apresentação e conversa sobre o que incomoda",
+  "O especialista explica como vai ser o trabalho",
+  "Você conta no seu ritmo",
+  "Juntos vocês definem os objetivos",
+  "Combinam o próximo encontro"
+ ],
+ "feel": [
+  "Às vezes é difícil falar de coisas pessoais. É normal",
+  "Depois do encontro pode haver cansaço ou alívio"
+ ],
+ "after": [
+  "O resultado costuma aparecer depois de alguns encontros",
+  "Você pode trocar de profissional se não houver sintonia"
+ ],
+ "red_flags": [
+  "Pensamentos de se machucar: não espere o encontro, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Quantos encontros são necessários?",
+   "a": "Varia: de alguns a muitos meses. Isso se combina com o psicólogo."
+  },
+  {
+   "q": "O psicólogo pode receitar remédio?",
+   "a": "Não. Se precisar de remédio, ele indica procurar um psiquiatra."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o encontro com o psicólogo. Pense no que quer conversar."
+  }
+ ]
+}

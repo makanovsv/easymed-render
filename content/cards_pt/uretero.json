@@ -1,0 +1,82 @@
+{
+ "title": "Ureteroscopia",
+ "also": [
+  "ureteroscopia",
+  "ureterorrenoscopia",
+  "URS",
+  "quebra de pedra no ureter",
+  "litotripsia a laser"
+ ],
+ "what": "O urologista coloca um instrumento fino com câmera pela uretra até a bexiga e o ureter. Sem cortes. Na maioria das vezes, é assim que se quebram e retiram pedras.",
+ "why": "Com pedra no ureter ou no rim que não sai sozinha. Às vezes com estreitamento do ureter ou para tirar material para análise.",
+ "duration": "normalmente de 30 a 90 minutos, com internação normalmente de 1 a 2 dias. Às vezes você volta para casa no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que mudar e quando",
+  "Alergias",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se agora tem febre ou sinais de infecção urinária",
+  "Se você ou alguém da família já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exame de urina, urocultura, exames de sangue, tomografia ou ultrassom dos rins. A lista, a clínica entrega."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Ele pergunta sobre sua saúde e seus remédios e escolhe a anestesia: geral ou raquidiana."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente sem comer desde a noite anterior e sem beber algumas horas antes. O horário exato, a clínica informa."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados de exames",
+  "Imagens da tomografia ou do ultrassom",
+  "Documentos e lista de remédios",
+  "Coisas para 1 a 2 dias no hospital"
+ ],
+ "steps": [
+  "Colocam um cateter na veia",
+  "Na sala de cirurgia, o anestesista aplica a anestesia",
+  "O urologista coloca o instrumento fino pela uretra, sem cortes",
+  "A pedra é quebrada com laser, e os pedaços são retirados",
+  "Muitas vezes colocam um tubinho, o duplo J, do rim até a bexiga, enquanto o ureter cicatriza",
+  "Você acorda no quarto, às vezes com sonda na bexiga"
+ ],
+ "feel": [
+  "Depois da anestesia, sonolência e às vezes enjoo",
+  "Ardência ao urinar e vontade frequente de urinar",
+  "Urina rosada nos primeiros dias",
+  "Com o duplo J, uma sensação de puxão do lado ao urinar"
+ ],
+ "after": [
+  "Beba mais água, se o médico não disser diferente",
+  "O duplo J normalmente é retirado depois de alguns dias ou semanas. Não perca esse prazo",
+  "Pedacinhos da pedra podem sair na urina por alguns dias",
+  "A pedra pode ir para análise da composição. Isso ajuda a escolher a prevenção"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, calafrios: procure o médico na hora ou ligue para a emergência",
+  "Não consegue urinar: ligue para a emergência",
+  "Dor forte do lado que não passa com analgésico",
+  "Urina vermelho vivo ou com coágulos"
+ ],
+ "faq": [
+  {
+   "q": "Vai ter corte?",
+   "a": "Não. O instrumento entra pelo caminho natural, a uretra."
+  },
+  {
+   "q": "Para que serve o duplo J e quando é retirado?",
+   "a": "Ele ajuda a urina a descer enquanto o ureter cicatriza. Quando tirar, quem diz é o urologista. É importante não perder esse prazo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a ureteroscopia. Separe as coisas, os documentos e as imagens. Comida e água só até o horário que a clínica informou."
+  }
+ ]
+}

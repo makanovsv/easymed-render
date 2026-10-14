@@ -1,0 +1,68 @@
+{
+ "title": "Consulta con el alergólogo",
+ "also": [
+  "alergólogo",
+  "inmunólogo",
+  "médico de las alergias"
+ ],
+ "what": "Es el médico que averigua a qué tienes alergia y elige el tratamiento.",
+ "why": "Si tienes mocos y estornudos según la temporada, ronchas y comezón, reacciones a comida, medicamentos o piquetes de insectos, o asma.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "A qué y cuándo tuviste reacción, y cómo fue",
+  "Qué medicamentos para la alergia tomas y cuándo fue la última vez",
+  "Si tuviste reacciones fuertes con hinchazón o dificultad para respirar",
+  "Si tienes asma o eccema",
+  "Alergias en tu familia"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos para la alergia",
+   "text": "Si te harán pruebas en la piel, algunos medicamentos afectan el resultado. No los dejes por tu cuenta; pregúntale antes al médico y él decide."
+  },
+  {
+   "title": "Diario",
+   "text": "Apunta cuándo y después de qué tienes reacciones. Fotos de las ronchas también ayudan."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Resultados de análisis de alergia, si te los hiciste",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta con detalle sobre tus reacciones",
+  "Revisa tu piel, nariz y garganta",
+  "Escucha tus pulmones",
+  "Decide si hacen falta pruebas en la piel o un análisis de sangre",
+  "Te explica cómo evitar lo que te da alergia y te indica un tratamiento"
+ ],
+ "feel": [
+  "La revisión no es molesta",
+  "Si te hacen pruebas en la piel, son piquetitos y da comezón en la zona"
+ ],
+ "after": [
+  "El médico te puede dar un plan de qué hacer si tienes una reacción fuerte",
+  "No dejes por tu cuenta los medicamentos indicados"
+ ],
+ "red_flags": [
+  "Labios o lengua hinchados, dificultad para respirar o debilidad repentina después del contacto con lo que te da alergia: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Me pueden hacer las pruebas en la primera consulta?",
+   "a": "A veces sí, pero muchas veces primero hay que prepararse. Pregunta en la clínica."
+  },
+  {
+   "q": "¿Tengo que dejar los medicamentos para la alergia antes de la consulta?",
+   "a": "No los dejes por tu cuenta. Dile al médico qué tomas y él decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta con el alergólogo. Apunta qué medicamentos para la alergia tomas y lleva tus análisis anteriores."
+  }
+ ]
+}

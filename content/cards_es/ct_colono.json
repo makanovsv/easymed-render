@@ -1,0 +1,77 @@
+{
+ "title": "Colonoscopia virtual",
+ "also": [
+  "colonografía por tomografía",
+  "colonoscopia virtual",
+  "tomografía de colon"
+ ],
+ "what": "Son imágenes del intestino grueso en un tomógrafo. Inflan un poco el intestino con aire, pero no meten un tubo con cámara.",
+ "why": "Para buscar pólipos si no se puede hacer una colonoscopia normal o no se terminó, o si lo decide el médico.",
+ "duration": "en el consultorio normalmente de 15 a 20 minutos, más la preparación del día anterior; el reporte en 1 a 2 días",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida o suplementos de hierro",
+  "Si tienes diabetes. Habrá que ajustar la preparación y los medicamentos",
+  "Alergia al yodo o al medio de contraste, o enfermedades de los riñones",
+  "Si estás embarazada o podrías estarlo",
+  "Cirugías recientes del intestino"
+ ],
+ "prepare": [
+  {
+   "title": "1 a 2 días antes",
+   "text": "Dieta sin fibra: sin verduras, frutas, semillas, nueces ni frijoles u otras leguminosas. Pregunta el esquema en la clínica."
+  },
+  {
+   "title": "Limpieza",
+   "text": "El día anterior tomas la solución para limpiar el intestino según el médico. Muchas veces se agrega un contraste especial que marca las heces."
+  },
+  {
+   "title": "El día del estudio",
+   "text": "Normalmente no comes. Los líquidos claros, según las instrucciones de la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Díselo al médico y él decidirá."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus reportes de colonoscopia anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas de lado",
+  "Meten un tubito delgado y suave en el recto",
+  "Por ahí pasan aire o dióxido de carbono para abrir el intestino",
+  "A veces ponen un medicamento en la vena para relajar el intestino",
+  "Toman imágenes boca arriba y boca abajo. Tienes que aguantar la respiración",
+  "Retiran el tubito"
+ ],
+ "feel": [
+  "Inflamación y cólicos en el abdomen mientras pasan el gas",
+  "No duele. Las molestias se quitan rápido después"
+ ],
+ "after": [
+  "Los gases salen en una hora. Es normal",
+  "Puedes comer como siempre",
+  "Si encuentran pólipos, normalmente el médico te manda a una colonoscopia normal para quitarlos"
+ ],
+ "red_flags": [
+  "Dolor fuerte de abdomen, abdomen duro, fiebre o sangrado por el recto: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo no limpiar el intestino?",
+   "a": "No. Los restos de heces pueden esconder un pólipo o parecerse a uno."
+  },
+  {
+   "q": "¿Esto sustituye la colonoscopia normal?",
+   "a": "No siempre. En la tomografía no se puede quitar un pólipo ni tomar una muestra. Lo elige el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu colonoscopia virtual. Hoy sigue el esquema de dieta y limpieza del intestino."
+  }
+ ]
+}

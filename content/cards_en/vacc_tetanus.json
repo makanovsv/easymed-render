@@ -1,0 +1,72 @@
+{
+ "title": "Tetanus booster (Td)",
+ "also": [
+  "tetanus shot",
+  "Td vaccine",
+  "tetanus and diphtheria booster",
+  "tetanus booster every 10 years"
+ ],
+ "what": "A vaccine shot against tetanus, usually combined with diphtheria. Adults repeat it about every 10 years.",
+ "why": "As planned every 10 years, and after wounds or bites if your last shot was long ago.",
+ "duration": "the shot takes a few seconds, with the checkup usually 15 to 40 minutes",
+ "tell_doctor": [
+  "When you last had a tetanus shot",
+  "If you are ill now or have a fever",
+  "Strong reactions to past vaccines",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "The planned shot is given when you are well."
+  },
+  {
+   "title": "Documents",
+   "text": "Find your vaccination certificate. It shows when a booster is due."
+  },
+  {
+   "title": "After an injury",
+   "text": "With a wound or bite, do not wait for the planned date. Go to an urgent care clinic."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your vaccination certificate or record"
+ ],
+ "steps": [
+  "The doctor or nurse asks how you feel and takes your temperature",
+  "You uncover your upper arm",
+  "The skin is wiped, and the shot is given",
+  "The vaccine is recorded in your documents",
+  "After the shot, sit in the clinic for about 30 minutes"
+ ],
+ "feel": [
+  "A quick prick",
+  "Often soreness and a firm spot at the site for 1 to 3 days",
+  "Sometimes tiredness or a mild fever"
+ ],
+ "after": [
+  "Stay near the room for 30 minutes",
+  "Do not rub the injection site",
+  "The next planned booster is usually in 10 years"
+ ],
+ "red_flags": [
+  "Trouble breathing, swelling of the face or throat, or a rash all over: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Do I need a shot if I cut myself?",
+   "a": "If your last shot was long ago or you do not remember, go to an urgent care clinic. The doctor will decide what is needed."
+  },
+  {
+   "q": "Why does my arm hurt so much after the shot?",
+   "a": "It is a common reaction to this vaccine. It usually passes in a few days."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Tetanus booster tomorrow. Bring your vaccination certificate."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "title": "Resonancia magnética de próstata",
+ "also": [
+  "resonancia de próstata",
+  "resonancia multiparamétrica de próstata",
+  "RM multiparamétrica"
+ ],
+ "what": "Son imágenes detalladas de la próstata con un campo magnético, normalmente con medio de contraste. Sin radiación.",
+ "why": "Con el antígeno prostático (PSA) alto, antes de una biopsia, para seguimiento o para planear el tratamiento.",
+ "duration": "normalmente de 30 a 45 minutos; el reporte en 1 a 3 días",
+ "tell_doctor": [
+  "Marcapasos, desfibrilador u otro implante con electrónica",
+  "Metal en el cuerpo: prótesis, placas, grapas en vasos, esquirlas",
+  "Si te hicieron una biopsia de próstata hace poco. Di la fecha; a veces se cambia la fecha de la resonancia",
+  "Alergia al medio de contraste o enfermedades de los riñones",
+  "Si te dan miedo los lugares cerrados. El médico te dirá cómo ayudarte"
+ ],
+ "prepare": [
+  {
+   "title": "Intestino",
+   "text": "A veces piden un microenema de limpieza la noche anterior o en la mañana. Pregunta en la clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comas de 3 a 4 horas antes."
+  },
+  {
+   "title": "Abstinencia",
+   "text": "Muchas veces se recomienda no eyacular de 2 a 3 días antes. Pregunta al médico."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate todo lo de metal: joyas, reloj, pasadores, piercings. Deja el teléfono y las tarjetas en el casillero."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Un análisis de PSA reciente",
+  "Tus resonancias y reportes de biopsia anteriores",
+  "El análisis de creatinina, si te lo pidieron"
+ ],
+ "steps": [
+  "Te cambias de ropa y dejas todo lo de metal en el casillero",
+  "Te acuestas en la mesa y ponen sobre la zona una bobina suave, como una almohadilla",
+  "A veces ponen un medicamento para que el intestino se mueva menos",
+  "El aparato hace golpeteos fuertes. Te dan audífonos o tapones",
+  "Tienes que estar sin moverte. Te hablan por un intercomunicador",
+  "Al final te ponen el medio de contraste en la vena"
+ ],
+ "feel": [
+  "No duele, pero hay ruido y poco espacio",
+  "A veces se siente calor en la zona del estudio. Es normal",
+  "Con el medio de contraste, sensación de frío en la vena"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "Después del medio de contraste toma más agua, salvo que el médico te diga otra cosa",
+  "Lleva el reporte, con su calificación en la escala, al urólogo"
+ ],
+ "red_flags": [
+  "Después del medio de contraste, comezón, ronchas, hinchazón de la cara o dificultad para respirar: avísale de inmediato al personal o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Esto sustituye la biopsia?",
+   "a": "No. La resonancia ayuda a decidir si hace falta biopsia y de dónde tomar el tejido."
+  },
+  {
+   "q": "¿Meten un sensor en el recto?",
+   "a": "Normalmente no. La bobina se pone sobre el abdomen. Pregunta en la clínica."
+  },
+  {
+   "q": "¿Me puedo hacer la resonancia con resinas y coronas?",
+   "a": "Sí. Las resinas y las coronas normales no estorban. Si tienes implantes o prótesis, avisa antes y el médico lo revisará."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu resonancia de próstata. Revisa si necesitas microenema. No comas de 3 a 4 horas antes."
+  }
+ ]
+}

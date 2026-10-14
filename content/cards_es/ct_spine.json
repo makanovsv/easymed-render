@@ -1,0 +1,73 @@
+{
+ "title": "Tomografía de columna",
+ "also": [
+  "tomografía de columna",
+  "TAC de columna",
+  "tomografía lumbar",
+  "tomografía de columna cervical"
+ ],
+ "what": "Son imágenes por capas de las vértebras. Se ven mejor los huesos: fracturas, estrechamiento del canal y crecimientos de hueso.",
+ "why": "Después de un golpe en la espalda, con dolor, si no te pueden hacer resonancia, antes de una cirugía o para control después de ella.",
+ "duration": "en el consultorio normalmente de 10 a 15 minutos; el reporte, el mismo día o en 1 a 2 días",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si es con medio de contraste: si tienes alergia al yodo o al contraste, o enfermedades de los riñones",
+  "Si tienes implantes de metal en la columna",
+  "Si te cuesta estar boca arriba por el dolor"
+ ],
+ "prepare": [
+  {
+   "title": "Sin contraste",
+   "text": "No hace falta preparación. Puedes comer y beber."
+  },
+  {
+   "title": "Con contraste",
+   "text": "Normalmente no comas de 3 a 4 horas antes. Puedes tomar agua. A veces piden un análisis de creatinina. Pregunta en la clínica."
+  },
+  {
+   "title": "Ropa",
+   "text": "Sin metal en la zona: cierres, broches, cinturón."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus tomografías y resonancias de columna anteriores",
+  "El analgésico que te indicó el médico, si el dolor es fuerte"
+ ],
+ "steps": [
+  "Te acuestas en la mesa y el técnico te ayuda a acomodarte",
+  "La mesa entra en el anillo ancho del aparato",
+  "Tienes que estar quieto y a veces aguantar la respiración cuando te digan",
+  "Si es con contraste, te lo ponen en la vena y toman otra serie de imágenes"
+ ],
+ "feel": [
+  "No duele. El aparato hace un ruido suave",
+  "El anillo es ancho, casi no se siente encierro",
+  "Con el contraste se siente una ola de calor y sabor a metal. Se quita en un minuto"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "Después del medio de contraste toma más agua, salvo que el médico te diga otra cosa",
+  "Lleva el reporte al neurólogo o al neurocirujano"
+ ],
+ "red_flags": [
+  "Adormecimiento entre las piernas, problemas para orinar o debilidad repentina en las piernas: llama a emergencias de inmediato",
+  "Después del medio de contraste, comezón, ronchas, hinchazón de la cara o dificultad para respirar: avísale de inmediato al personal o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué es mejor para una hernia de disco, tomografía o resonancia?",
+   "a": "Las hernias y los nervios se ven mejor en resonancia. La tomografía muestra mejor los huesos. Lo elige el médico."
+  },
+  {
+   "q": "¿Me pueden hacer tomografía si tengo metal en la espalda?",
+   "a": "Sí, el metal no impide la tomografía, aunque puede estorbar un poco la imagen."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Pronto es tu tomografía de columna. Si es con contraste, no comas de 3 a 4 horas antes. Puedes tomar agua."
+  }
+ ]
+}

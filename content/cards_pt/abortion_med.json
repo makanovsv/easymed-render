@@ -1,0 +1,89 @@
+{
+ "title": "Interrupção da gravidez com medicamentos",
+ "also": [
+  "aborto medicamentoso",
+  "interrupção da gravidez com remédios",
+  "aborto com comprimidos",
+  "interrupção legal da gravidez"
+ ],
+ "what": "A gravidez inicial é interrompida com comprimidos, sem cirurgia. É parecido com uma menstruação forte.",
+ "why": "Quando a mulher decidiu interromper a gravidez no início. Em que casos e até que prazo é permitido, o médico explica conforme a lei do país.",
+ "duration": "duas consultas e os comprimidos ao longo de 1 a 2 dias; o controle é normalmente em 1 a 2 semanas",
+ "tell_doctor": [
+  "A data exata da última menstruação",
+  "Remédios que afinam o sangue e remédios hormonais",
+  "Anemia, doenças do sangue, das glândulas suprarrenais, asma",
+  "Se você usa DIU",
+  "Alergia a remédios"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente fazem ultrassom para confirmar o tempo e que a gravidez está no útero. Colhem exames."
+  },
+  {
+   "title": "Conversa",
+   "text": "O médico e o psicólogo conversam com você com calma. Você assina um termo de consentimento. A decisão é sua."
+  },
+  {
+   "title": "Casa",
+   "text": "Deixe em casa absorventes, um analgésico indicado pelo médico e 1 a 2 dias tranquilos."
+  },
+  {
+   "title": "Alguém perto",
+   "text": "É bom ter perto alguém em quem você confia."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Resultados do ultrassom e dos exames",
+  "Absorventes",
+  "O telefone da clínica para contato"
+ ],
+ "steps": [
+  "O médico examina você e faz o ultrassom",
+  "Você toma o primeiro comprimido na frente do médico",
+  "Normalmente, em 1 a 2 dias, você toma os outros comprimidos. Onde, a clínica diz",
+  "Algumas horas depois começam cólicas e sangramento",
+  "A gravidez é expelida, normalmente em algumas horas",
+  "Em 1 a 2 semanas, ultrassom ou exame de controle"
+ ],
+ "feel": [
+  "Cólicas mais fortes que as da menstruação. O analgésico ajuda",
+  "Sangramento com coágulos, mais forte que a menstruação",
+  "Pode haver enjoo, calafrios e diarreia no dia dos comprimidos",
+  "Sentimentos misturados são normais. Você pode pedir apoio"
+ ],
+ "after": [
+  "O sangramento normalmente dura até 2 semanas",
+  "Sem absorvente interno e sem piscina até o sangramento acabar",
+  "Vá sem falta à consulta de controle",
+  "É possível engravidar já nas primeiras semanas. Escolha um anticoncepcional com o médico"
+ ],
+ "red_flags": [
+  "Encharcar 2 absorventes grandes por hora, por 2 horas seguidas: ligue para a emergência",
+  "Dor forte que não passa com analgésico: ligue para a emergência",
+  "Febre acima de 38 graus por mais de um dia, ou calafrios: procure o médico com urgência",
+  "Tontura, desmaio: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Normalmente como uma menstruação forte. O médico diz antes qual analgésico você pode tomar."
+  },
+  {
+   "q": "Isso afeta gestações futuras?",
+   "a": "Normalmente não, se tudo correu sem complicações e você foi à consulta de controle."
+  },
+  {
+   "q": "Posso ficar sozinha em casa?",
+   "a": "É melhor ter alguém próximo por perto e o telefone da clínica à mão."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta na clínica. Deixe em casa absorventes, reserve 1 a 2 dias tranquilos e peça para alguém próximo ficar por perto."
+  }
+ ]
+}

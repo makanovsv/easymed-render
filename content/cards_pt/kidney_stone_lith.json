@@ -1,0 +1,84 @@
+{
+ "title": "Ureterolitotripsia a laser",
+ "also": [
+  "laser para pedra nos rins",
+  "ureteroscopia",
+  "ureterolitotripsia",
+  "quebrar pedra no ureter"
+ ],
+ "what": "Pela uretra, o cirurgião leva um tubo fino com câmera até a pedra e a quebra com laser. Não há cortes na pele.",
+ "why": "Quando a pedra no ureter ou no rim não sai sozinha, causa dor ou atrapalha a saída da urina.",
+ "duration": "a cirurgia leva normalmente de 30 a 90 minutos, com internação normalmente de 1 a 3 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergias, inclusive a contraste",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se você tem febre ou infecção urinária",
+  "Se já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue e de urina, ultrassom ou tomografia dos rins. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Normalmente anestesia geral ou raquianestesia. O anestesista conversa com você sobre a opção."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Coisas",
+   "text": "Roupa confortável, chinelo, carregador e seus remédios de sempre."
+  }
+ ],
+ "bring": [
+  "Pedido médico e a tomografia ou o ultrassom",
+  "Exames",
+  "Documentos e lista de remédios",
+  "Coisas para ficar no hospital de 1 a 3 dias"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "Aplicam a anestesia",
+  "O cirurgião introduz um instrumento fino com câmera pela uretra",
+  "Encontra a pedra e a quebra com laser",
+  "Os fragmentos são retirados ou saem com a urina",
+  "Muitas vezes colocam um tubinho temporário (cateter duplo J) do rim até a bexiga"
+ ],
+ "feel": [
+  "Ardência e vontade frequente de urinar nos primeiros dias",
+  "Um pouco de sangue na urina",
+  "Se houver duplo J, dor leve no lado ao urinar"
+ ],
+ "after": [
+  "Beba bastante água, se o médico não disser outra coisa",
+  "O duplo J é retirado no prazo que o médico marcar. Não perca",
+  "Pedrinhas podem sair na urina. Às vezes pedem para guardar para análise",
+  "O médico orienta como se alimentar para as pedras não voltarem"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, calafrios",
+  "Dor forte no lado que não passa com analgésico",
+  "Você não consegue urinar",
+  "Urina vermelho vivo, com coágulos"
+ ],
+ "faq": [
+  {
+   "q": "Posso esquecer o duplo J?",
+   "a": "Não. Ele precisa ser retirado no prazo que o médico indicar. Anote a data."
+  },
+  {
+   "q": "As pedras voltam?",
+   "a": "Às vezes voltam. O médico pode pedir análise da pedra e dar dicas de alimentação e de quanto beber."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia para quebrar a pedra. Separe os exames de imagem, os documentos e as coisas. Comida e água, só até o horário que a clínica indicou."
+  }
+ ]
+}

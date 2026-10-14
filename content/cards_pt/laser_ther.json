@@ -1,0 +1,68 @@
+{
+ "title": "Laserterapia",
+ "also": [
+  "laserterapia",
+  "laser de baixa potência",
+  "fotobiomodulação",
+  "laser terapêutico"
+ ],
+ "what": "O especialista aponta um feixe fraco de laser para o local doente. Ele não corta nem queima, mas ajuda os tecidos a se recuperar.",
+ "why": "Com dores nas articulações e nos músculos, depois de lesões, em feridas que demoram a cicatrizar, por indicação do médico.",
+ "duration": "a sessão dura normalmente de 5 a 15 minutos; o tratamento costuma ter cerca de 10 sessões",
+ "tell_doctor": [
+  "Se você está grávida",
+  "Se há pintas ou caroços nessa região",
+  "Se você toma remédios que deixam a pele mais sensível à luz",
+  "Se está com febre",
+  "Doenças oncológicas"
+ ],
+ "prepare": [
+  {
+   "title": "Pele",
+   "text": "Pele limpa, sem creme e sem maquiagem no local."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, para mostrar o local."
+  }
+ ],
+ "bring": [
+  "O pedido do médico",
+  "Roupa confortável"
+ ],
+ "steps": [
+  "Você deita ou senta confortavelmente",
+  "Podem dar óculos de proteção",
+  "A ponteira é encostada na pele ou fica perto dela",
+  "O aparelho funciona alguns minutos em cada ponto",
+  "A sessão termina no sinal"
+ ],
+ "feel": [
+  "Normalmente não se sente nada",
+  "Às vezes um leve calor"
+ ],
+ "after": [
+  "Pode voltar às atividades normais na hora",
+  "Não tome sol nos primeiros dias do tratamento. Confirme com o médico",
+  "Vá às sessões conforme o calendário. O tratamento completo é o que importa"
+ ],
+ "red_flags": [
+  "Queimadura ou vermelhidão forte no local: mostre ao médico"
+ ],
+ "faq": [
+  {
+   "q": "O laser é perigoso para os olhos?",
+   "a": "Não se pode olhar para o feixe, por isso dão óculos. Para a pele, esse laser é seguro."
+  },
+  {
+   "q": "Dói?",
+   "a": "Não. Normalmente não se sente nada ou só um leve calor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Hoje é a laserterapia. Pele sem creme. Leve o pedido do médico."
+  }
+ ]
+}

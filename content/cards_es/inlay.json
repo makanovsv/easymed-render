@@ -1,0 +1,76 @@
+{
+ "title": "Incrustación dental",
+ "also": [
+  "incrustación",
+  "inlay",
+  "onlay",
+  "incrustación de cerámica",
+  "poste y muñón"
+ ],
+ "what": "Una incrustación es una pieza resistente hecha exactamente a la forma de la parte dañada del diente. Se pega en lugar de una resina grande.",
+ "why": "Cuando el diente está muy dañado y una resina común podría no aguantar.",
+ "duration": "normalmente 2 citas de 1 hora; la incrustación suele estar lista en unos días o hasta 2 semanas",
+ "tell_doctor": [
+  "Tus alergias, también a la anestesia",
+  "Si rechinas los dientes",
+  "Si ese diente ya fue tratado antes",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Dientes",
+   "text": "Lávate los dientes antes de la cita."
+  },
+  {
+   "title": "Comida",
+   "text": "Puedes comer antes. Después de la inyección, por unas horas es incómodo comer."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Radiografías del diente, si tienes"
+ ],
+ "steps": [
+  "Te anestesian el diente con una inyección",
+  "El médico quita la resina vieja y la parte enferma, y le da forma",
+  "Toma una impresión o escanea el diente",
+  "Pone una curación temporal",
+  "En la segunda cita prueban la incrustación y revisan la mordida",
+  "La pegan y la pulen"
+ ],
+ "feel": [
+  "Un piquete breve y luego se duerme la zona",
+  "Ruido y vibración de los instrumentos",
+  "Por un par de días el diente puede doler un poco"
+ ],
+ "after": [
+  "No comas hasta que se quite lo dormido",
+  "Con la curación temporal, no mastiques cosas duras ni pegajosas de ese lado",
+  "Después de ponerla, cuidado y cepillado normales",
+  "Ve a tus revisiones"
+ ],
+ "red_flags": [
+  "Dolor fuerte o inflamación de la encía o la mejilla",
+  "La incrustación se mueve o se cayó: guárdala y pide cita con el médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué es mejor que una resina?",
+   "a": "Es más resistente y queda más exacta. Sirve para dientes muy dañados."
+  },
+  {
+   "q": "¿De qué se hacen las incrustaciones?",
+   "a": "Normalmente de cerámica, resina o metal. El médico te dice qué te conviene."
+  },
+  {
+   "q": "¿Hay que matar el nervio?",
+   "a": "No siempre. Depende de cómo esté el diente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "En 2 horas es tu cita con el dentista. Lávate los dientes y come antes."
+  }
+ ]
+}

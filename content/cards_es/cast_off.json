@@ -1,0 +1,69 @@
+{
+ "title": "Retiro de yeso",
+ "also": [
+  "quitar el yeso",
+  "retiro de yeso",
+  "retiro de férula"
+ ],
+ "what": "El yeso se corta con una sierra especial o con tijeras y se quita. Después el médico revisa cómo pegó el hueso.",
+ "why": "Cuando termina el tiempo que indicó el médico, o cuando hay que cambiar el yeso.",
+ "duration": "normalmente de 10 a 20 minutos; la radiografía de control y la revisión, el mismo día",
+ "tell_doctor": [
+  "Si debajo del yeso hubo dolor, ardor o mal olor",
+  "Si se te adormecían los dedos"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Normalmente no hace falta."
+  },
+  {
+   "title": "Ropa",
+   "text": "Lleva ropa y zapatos holgados. El brazo o la pierna pueden estar un poco hinchados."
+  }
+ ],
+ "bring": [
+  "Tus documentos y radiografías anteriores",
+  "Ropa holgada y zapatos cómodos",
+  "Crema para la piel"
+ ],
+ "steps": [
+  "Normalmente primero toman una radiografía de control",
+  "Cortan el yeso con una sierra que vibra, no que gira",
+  "Abren el yeso y lo quitan",
+  "Cortan el algodón y la media con tijeras",
+  "El médico revisa la piel y los movimientos",
+  "El médico te explica qué puedes hacer y qué no"
+ ],
+ "feel": [
+  "Ruido, vibración y calor de la sierra. La sierra no corta la piel",
+  "El brazo o la pierna se sienten ligeros y débiles",
+  "La articulación está rígida y cuesta moverla"
+ ],
+ "after": [
+  "La piel está seca y se descama. Lávala con agua tibia y ponle crema",
+  "La hinchazón puede durar unos días",
+  "Los músculos se recuperan poco a poco. Haz los ejercicios que diga el médico",
+  "Aumenta el esfuerzo poco a poco"
+ ],
+ "red_flags": [
+  "Mucha hinchazón, dolor y enrojecimiento en la pantorrilla: ve al médico de inmediato",
+  "Dolor repentino o deformidad después de quitar el yeso"
+ ],
+ "faq": [
+  {
+   "q": "¿La sierra me puede cortar?",
+   "a": "No. Vibra y corta solo el yeso duro, no la piel suave. Puede sentirse calor."
+  },
+  {
+   "q": "¿Por qué el brazo está tan débil?",
+   "a": "Los músculos se debilitaron sin moverse. La fuerza regresa en unas semanas de ejercicios."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana te quitan el yeso. Lleva tus radiografías anteriores, ropa holgada y zapatos cómodos."
+  }
+ ]
+}

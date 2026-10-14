@@ -1,0 +1,78 @@
+{
+ "title": "Birth control consultation",
+ "also": [
+  "birth control",
+  "contraception advice",
+  "family planning visit",
+  "choosing contraception"
+ ],
+ "what": "The doctor helps you choose a way to prevent pregnancy that suits your health and lifestyle.",
+ "why": "When you want protection from pregnancy, want to change methods, or after a birth or abortion.",
+ "duration": "the visit usually takes 20 to 40 minutes",
+ "tell_doctor": [
+  "If you smoke",
+  "High blood pressure, migraine, or blood clots in you or relatives",
+  "Liver disease, diabetes, or breast cancer",
+  "What medicines you take",
+  "If you are breastfeeding, and if you plan a pregnancy soon"
+ ],
+ "prepare": [
+  {
+   "title": "Questions",
+   "text": "Think about what matters to you: convenience, long-term or short-term, effect on your periods."
+  },
+  {
+   "title": "Cycle",
+   "text": "Remember the date of your last period."
+  },
+  {
+   "title": "Tests",
+   "text": "Sometimes your doctor will send you for an ultrasound or tests first."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your medicines",
+  "Past test and ultrasound results, if you have them"
+ ],
+ "steps": [
+  "The doctor asks about your health and what matters to you",
+  "Your blood pressure and weight are checked",
+  "Sometimes a pelvic exam is done",
+  "The options are explained: pills, IUD, implant, ring, condoms, and others",
+  "Together you choose the right one",
+  "The doctor explains how to start and what to do if you miss a dose"
+ ],
+ "feel": [
+  "Usually nothing unpleasant"
+ ],
+ "after": [
+  "Start your method as your doctor said",
+  "Spotting in the first months is common and often normal",
+  "If a method does not suit you, you can change it",
+  "A follow-up visit after a few months"
+ ],
+ "red_flags": [
+  "Severe leg pain, swelling of one leg, chest pain, or shortness of breath: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Which birth control is most reliable?",
+   "a": "The most reliable are the IUD and the implant. But the best method is the one that suits you."
+  },
+  {
+   "q": "Do pills protect against infections?",
+   "a": "No. Only condoms protect against infections."
+  },
+  {
+   "q": "Can I get pregnant after stopping?",
+   "a": "Usually yes. Fertility comes back. How fast depends on the method."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Birth control consultation tomorrow. Remember the date of your last period, and bring your medicine list."
+  }
+ ]
+}

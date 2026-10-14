@@ -1,0 +1,71 @@
+{
+ "title": "Bone scan",
+ "also": [
+  "bone scan",
+  "bone scintigraphy",
+  "nuclear medicine bone scan",
+  "skeletal scintigraphy"
+ ],
+ "what": "A small dose of a tracer substance is injected into a vein. It collects in the bones, and a special camera takes images of the whole skeleton.",
+ "why": "To find changes in the bones when the doctor needs to see the whole skeleton at once, or for bone pain with no clear cause.",
+ "duration": "the whole visit usually takes 3 to 5 hours: the injection, 2 to 4 hours of waiting, and a 20 to 40 minute scan; the report in 1 to 3 days",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "If you are breastfeeding. You will need a break",
+  "If you recently had other tests with tracers or barium",
+  "If it is hard to lie on your back for 30 minutes"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no special prep. You can eat and drink."
+  },
+  {
+   "title": "Water",
+   "text": "After the injection, you are asked to drink plenty of water and use the toilet often."
+  },
+  {
+   "title": "Metal",
+   "text": "Before the scan, take off jewelry and your belt, and empty your pockets of keys."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past images and reports",
+  "Water and something to read while you wait"
+ ],
+ "steps": [
+  "You get an injection into a vein, just like a blood test",
+  "You wait 2 to 4 hours, drink water, and use the toilet",
+  "Before the scan, you empty your bladder",
+  "You lie on your back, and the camera moves slowly over your body",
+  "You lie still for 20 to 40 minutes"
+ ],
+ "feel": [
+  "The injection feels like giving blood",
+  "You do not feel the tracer at all",
+  "The camera is close, but it does not touch you or make noise"
+ ],
+ "after": [
+  "That day, drink more water and use the toilet more often",
+  "For about 24 hours, it is usually best not to hold small children or sit close to pregnant women. Check with the clinic",
+  "Take the report to the doctor who referred you"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is the radiation dangerous?",
+   "a": "The dose is small, about the same as a CT scan. The tracer leaves your body quickly in your urine."
+  },
+  {
+   "q": "Can I be around children after the scan?",
+   "a": "You are usually advised not to hold babies for 24 hours. The clinic will tell you the exact time."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Bone scan tomorrow. The visit takes 3 to 5 hours. Bring water and something to read."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Tomografía de riñones (piedras)",
+ "also": [
+  "uro-TAC",
+  "tomografía para piedras en el riñón",
+  "tomografía de vías urinarias",
+  "tomografía renal simple"
+ ],
+ "what": "Son imágenes rápidas por capas de los riñones y las vías urinarias. Se ven las piedras, aunque sean muy pequeñas.",
+ "why": "Con cólico renal, sangre en la orina, si se sospechan piedras, o para control después de tratarlas.",
+ "duration": "en el consultorio normalmente de 5 a 10 minutos; el reporte, el mismo día; con cólico, rápido",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si es con medio de contraste: si tienes alergia al yodo o al contraste, enfermedades de los riñones o diabetes",
+  "Si antes ya te encontraron piedras"
+ ],
+ "prepare": [
+  {
+   "title": "Sin contraste",
+   "text": "Normalmente no hace falta. A veces piden llegar con la vejiga llena. Pregunta en la clínica."
+  },
+  {
+   "title": "Con contraste",
+   "text": "Normalmente no comas de 3 a 4 horas antes. Puedes tomar agua. Muchas veces se necesita un análisis de creatinina."
+  },
+  {
+   "title": "Ropa",
+   "text": "Sin metal en el abdomen ni en la espalda baja."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus ultrasonidos y tomografías de riñones anteriores",
+  "El análisis de creatinina, si te lo pidieron"
+ ],
+ "steps": [
+  "Te acuestas en la mesa y el técnico te ayuda a acomodarte",
+  "La mesa entra en el anillo ancho del aparato",
+  "Tienes que estar quieto y a veces aguantar la respiración cuando te digan",
+  "Si es con contraste, te lo ponen en la vena y toman imágenes con pausas"
+ ],
+ "feel": [
+  "No duele. El aparato hace un ruido suave",
+  "El anillo es ancho, casi no se siente encierro",
+  "Con el contraste se siente calor en el cuerpo, como si te hubieras orinado. Es normal y se quita rápido"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "Toma agua, salvo que el médico te la haya limitado",
+  "Lleva el reporte al urólogo"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el costado que no se quita, fiebre de más de 38, escalofríos o vómito: llama a emergencias",
+  "Después del medio de contraste, comezón, ronchas, hinchazón de la cara o dificultad para respirar: avísale de inmediato al personal o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué para las piedras se hace tomografía y no ultrasonido?",
+   "a": "La tomografía ve casi todas las piedras, hasta las pequeñas, y muestra su tamaño exacto. El ultrasonido se hace primero, y la tomografía para tener precisión."
+  },
+  {
+   "q": "¿Tiene mucha radiación?",
+   "a": "Para piedras muchas veces se usa una dosis reducida. El médico la pide cuando el beneficio es mayor que el riesgo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Pronto es tu tomografía de riñones. Si es con contraste, no comas de 3 a 4 horas antes. Puedes tomar agua."
+  }
+ ]
+}

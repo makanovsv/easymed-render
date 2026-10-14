@@ -1,0 +1,70 @@
+{
+ "title": "Psoriasis consultation",
+ "also": [
+  "psoriasis",
+  "psoriasis treatment",
+  "dermatologist for psoriasis",
+  "plaque psoriasis"
+ ],
+ "what": "A dermatologist examines your skin, nails, and joints and chooses treatment. Psoriasis is not contagious, and it can be kept under control.",
+ "why": "For red, scaly patches on the skin, itching, or nail changes; or to choose or review treatment.",
+ "duration": "the visit usually takes 20 to 30 minutes; treatment is planned for the long term",
+ "tell_doctor": [
+  "When the rash appeared and what makes it worse",
+  "Which ointments and medicines you have tried",
+  "Joint pain or swelling",
+  "Pregnancy or plans for pregnancy",
+  "Other conditions and medicines"
+ ],
+ "prepare": [
+  {
+   "title": "Skin",
+   "text": "The day before the visit, do not put ointment on the patches, so the doctor sees the skin as it is, unless your doctor said otherwise."
+  },
+  {
+   "title": "Photos",
+   "text": "Take photos of the rash during a flare-up, if it is better now."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your medicines and ointments",
+  "Tests and reports from past doctors"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms and treatment",
+  "The doctor checks your skin, scalp, and nails",
+  "You are asked about your joints",
+  "If needed, tests are ordered",
+  "Treatment is chosen and explained",
+  "A follow-up visit is booked"
+ ],
+ "feel": [
+  "The visit does not hurt",
+  "Sometimes the doctor gently scrapes off a few scales to look closer"
+ ],
+ "after": [
+  "Use the treatment regularly, even when it gets better, as your doctor says",
+  "Moisturize your skin every day",
+  "Do not stop medicines on your own. Tell your doctor. They will decide"
+ ],
+ "red_flags": [
+  "Red skin over almost the whole body, chills, or a fever: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Is psoriasis contagious?",
+   "a": "No. You cannot catch it from another person."
+  },
+  {
+   "q": "Can psoriasis be cured for good?",
+   "a": "Usually not completely, but treatment can clear the rash for a long time so you can live comfortably."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Dermatologist visit soon. Bring a list of the ointments and medicines you have tried."
+  }
+ ]
+}

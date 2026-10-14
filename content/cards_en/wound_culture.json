@@ -1,0 +1,72 @@
+{
+ "title": "Wound culture",
+ "also": [
+  "wound culture",
+  "wound swab",
+  "pus culture",
+  "wound infection test"
+ ],
+ "what": "A swab is taken from the wound with a sterile stick. The lab grows the germs and checks which medicines work on them.",
+ "why": "When a wound heals slowly, has pus, is red or painful, or after surgery.",
+ "duration": "the swab takes 2 to 5 minutes; results usually come in 3 to 7 days",
+ "tell_doctor": [
+  "If you take antibiotics or put antibiotic ointments on the wound",
+  "If you have diabetes",
+  "If you are allergic to antiseptic"
+ ],
+ "prepare": [
+  {
+   "title": "Ointments",
+   "text": "Usually no ointments go on the wound before the swab. Ask your doctor when to do the last dressing change."
+  },
+  {
+   "title": "Antibiotics",
+   "text": "It is best to take the sample before antibiotics. Do not stop them on your own. Tell your doctor."
+  },
+  {
+   "title": "Bandage",
+   "text": "Do not remove the bandage at home. The nurse will take it off."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The nurse removes the bandage",
+  "The wound is rinsed with a sterile solution",
+  "A sterile swab is wiped over the base of the wound",
+  "The swab goes into a tube",
+  "A new bandage is put on the wound"
+ ],
+ "feel": [
+  "Touching the wound may hurt. Tell the nurse",
+  "It is usually quick"
+ ],
+ "after": [
+  "Care for the wound as your doctor told you",
+  "Results usually come in 3 to 7 days",
+  "Based on the result, your doctor may change your medicine"
+ ],
+ "red_flags": [
+  "The wound quickly gets red and swollen, red streaks appear on the skin, or you get a fever: see a doctor the same day",
+  "Strong weakness, chills, or confusion: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why a culture if treatment has already started?",
+   "a": "It shows exactly which germ is in the wound and which medicines work on it. That makes treatment more precise."
+  },
+  {
+   "q": "Can I put ointment on the wound before the test?",
+   "a": "Usually not. The ointment can kill the germs, and the culture will show nothing. Ask your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Wound culture tomorrow. Do not put ointment on the wound before the test, unless your doctor said otherwise."
+  }
+ ]
+}

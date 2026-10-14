@@ -1,0 +1,78 @@
+{
+ "title": "Curativo de queimadura",
+ "also": [
+  "curativo de queimadura",
+  "tratamento de queimadura",
+  "limpeza de queimadura",
+  "troca de curativo de queimadura"
+ ],
+ "what": "A enfermeira ou o médico limpa a pele queimada e coloca um curativo especial. Isso ajuda a ferida a cicatrizar e protege contra infecção.",
+ "why": "Com queimaduras com bolhas, queimaduras no rosto, nas mãos, nos pés, em crianças, ou depois do primeiro socorro no pronto-socorro.",
+ "duration": "um curativo leva normalmente de 15 a 30 minutos. Os curativos se repetem até a queimadura cicatrizar",
+ "tell_doctor": [
+  "Com o que e quando você se queimou",
+  "Se teve febre",
+  "Diabetes",
+  "Alergia a remédios e esparadrapo",
+  "Quando você tomou vacina contra tétano"
+ ],
+ "prepare": [
+  {
+   "title": "Analgésico",
+   "text": "Se o curativo dói, pergunte ao médico se pode tomar um analgésico antes."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa folgada, que não esfregue no local queimado."
+  },
+  {
+   "title": "Em casa",
+   "text": "Não passe óleo, pasta de dente, cremes ou remédios caseiros na queimadura. Só o que o médico indicou."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Os produtos que o médico indicou, se pediram para levar",
+  "Roupa folgada para trocar"
+ ],
+ "steps": [
+  "O curativo antigo é tirado com cuidado. Se estiver grudado, molham antes",
+  "Examinam a ferida",
+  "Lavam a pele com soro",
+  "Se precisar, tiram a pele que soltou",
+  "Colocam pomada ou curativo especial",
+  "Dizem quando voltar para o próximo curativo"
+ ],
+ "feel": [
+  "Pode doer, principalmente quando tiram o curativo antigo",
+  "Avise se doer. Fazem uma pausa ou dão analgésico",
+  "Depois do curativo, a ardência normalmente diminui"
+ ],
+ "after": [
+  "Não molhe nem tire o curativo sozinho sem autorização",
+  "Não estoure as bolhas em casa",
+  "Volte para os curativos nos dias marcados",
+  "Depois de cicatrizar, proteja a pele do sol"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, calafrios",
+  "A ferida fica muito vermelha, inchada, com cheiro ruim ou pus",
+  "Queimadura grande, no rosto ou na virilha, ou criança molinha: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso estourar a bolha?",
+   "a": "Em casa, não. A bolha protege a ferida. Se precisar, o médico cuida dela."
+  },
+  {
+   "q": "Vai ficar cicatriz?",
+   "a": "Queimaduras superficiais normalmente cicatrizam sem marca. As profundas podem deixar marca. O médico diz como cuidar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o curativo da queimadura. Se ele dói, pergunte ao médico sobre o analgésico antes."
+  }
+ ]
+}

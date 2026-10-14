@@ -1,0 +1,72 @@
+{
+ "title": "Prueba de VPH",
+ "also": [
+  "prueba de VPH",
+  "virus del papiloma humano",
+  "detección de VPH",
+  "VPH de alto riesgo"
+ ],
+ "what": "El ginecólogo toma una muestra del cuello del útero con un cepillo suave. En el laboratorio buscan el virus del papiloma humano.",
+ "why": "Para prevenir el cáncer de cuello uterino, normalmente desde los 30 años, con cambios en el Papanicolaou, y antes y después de tratar el cuello del útero.",
+ "duration": "la toma de muestra dura 1 a 2 minutos; el resultado suele tardar varios días",
+ "tell_doctor": [
+  "La fecha de tu última regla",
+  "Si estás embarazada o podrías estarlo",
+  "Si te trataron el cuello del útero hace poco",
+  "Si antes te encontraron VPH o cambios en el Papanicolaou"
+ ],
+ "prepare": [
+  {
+   "title": "Regla",
+   "text": "La muestra no se toma durante la regla. Mejor a mitad del ciclo."
+  },
+  {
+   "title": "2 días antes",
+   "text": "Sin relaciones sexuales, sin duchas vaginales, óvulos, cremas ni tampones."
+  },
+  {
+   "title": "Revisión",
+   "text": "Si también te van a hacer una colposcopia, la muestra normalmente se toma antes."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Tus resultados anteriores de Papanicolaou, si los tienes"
+ ],
+ "steps": [
+  "Te quitas la ropa de la cintura para abajo y te acuestas en la mesa ginecológica",
+  "El médico pone el espejo vaginal para ver el cuello del útero",
+  "Pasa el cepillo suave por el cuello unos segundos",
+  "El cepillo se pone en un tubo con líquido",
+  "Retiran el espejo y te puedes vestir"
+ ],
+ "feel": [
+  "Presión y una ligera molestia por el espejo",
+  "A veces un dolor breve, como cólico, en la parte baja del abdomen"
+ ],
+ "after": [
+  "A veces hay un poco de manchado ese mismo día. Es normal",
+  "El resultado suele estar en varios días. En el laboratorio te dirán cuándo",
+  "Si encuentran VPH, el médico te dirá si hace falta un Papanicolaou o una colposcopia"
+ ],
+ "red_flags": [
+  "Sangrado abundante o dolor fuerte en la parte baja del abdomen después de la muestra: ve al médico"
+ ],
+ "faq": [
+  {
+   "q": "Si me encontraron VPH, ¿es cáncer?",
+   "a": "No. El VPH es muy común y normalmente se quita solo. El médico te da seguimiento para notar a tiempo cualquier cambio."
+  },
+  {
+   "q": "¿Cada cuánto me hago la prueba de VPH?",
+   "a": "Normalmente cada pocos años, si el resultado es normal. El médico te dirá cada cuánto."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "En 2 días es tu prueba de VPH. Desde hoy, sin relaciones sexuales, óvulos, cremas ni duchas vaginales."
+  }
+ ]
+}

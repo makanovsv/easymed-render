@@ -1,0 +1,71 @@
+{
+ "title": "Teen checkup",
+ "also": [
+  "teen checkup",
+  "adolescent physical",
+  "school-age health check",
+  "annual teen visit"
+ ],
+ "what": "A routine checkup for a teenager: growth, development, vision, posture, and blood pressure. The doctor talks with both the parent and the teen.",
+ "why": "On the routine checkup schedule, or before school, sports, or college.",
+ "duration": "usually 30 to 60 minutes with the pediatrician; longer with other doctors",
+ "tell_doctor": [
+  "Long-term conditions and medicines",
+  "Symptoms: headaches, tiredness, belly pain",
+  "How your teen sleeps and eats",
+  "For girls: if periods have started and how they are"
+ ],
+ "prepare": [
+  {
+   "title": "Talk first",
+   "text": "Let your teen know the doctor may ask some questions without a parent present. That is normal."
+  },
+  {
+   "title": "Documents",
+   "text": "The medical record and vaccination record."
+  },
+  {
+   "title": "Tests",
+   "text": "If a fasting blood test is ordered, come in the morning without breakfast."
+  }
+ ],
+ "bring": [
+  "Your teen's ID",
+  "The medical record and vaccination record",
+  "Glasses, if worn"
+ ],
+ "steps": [
+  "The nurse measures height, weight, and blood pressure",
+  "Vision is checked",
+  "The doctor checks posture, skin, and development",
+  "The doctor may ask your teen some questions alone",
+  "Sometimes tests or specialists are ordered",
+  "The doctor goes over the results with you"
+ ],
+ "feel": [
+  "Nothing painful",
+  "Teens may feel awkward. The doctor handles it with care"
+ ],
+ "after": [
+  "If something is found, more tests will be ordered",
+  "Vaccines follow the schedule",
+  "The next checkup follows the schedule"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why does the doctor talk to my teen without me?",
+   "a": "Teens are more open about their health that way. The doctor will discuss anything important for safety with you."
+  },
+  {
+   "q": "Is a gynecologist or urologist visit needed?",
+   "a": "Sometimes they are part of the checkup at certain ages. Ask your clinic."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Teen checkup tomorrow. Bring the medical record, vaccination record, and ID."
+  }
+ ]
+}

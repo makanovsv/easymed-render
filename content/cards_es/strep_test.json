@@ -1,0 +1,68 @@
+{
+ "title": "Prueba rápida de estreptococo (anginas)",
+ "also": [
+  "prueba rápida de estreptococo",
+  "prueba de faringitis estreptocócica",
+  "test rápido de anginas",
+  "exudado faríngeo rápido"
+ ],
+ "what": "Con un hisopo toman una muestra de la garganta. En unos minutos la prueba muestra si hay estreptococo, un microbio que muchas veces causa las anginas.",
+ "why": "Con dolor de garganta, fiebre y placas en las amígdalas, para saber si hace falta antibiótico.",
+ "duration": "la muestra toma unos segundos; el resultado suele estar en 5 a 15 minutos",
+ "tell_doctor": [
+  "Si ya empezaste a tomar antibiótico",
+  "Si hiciste gárgaras con antiséptico hace poco",
+  "Si te dan náuseas con facilidad"
+ ],
+ "prepare": [
+  {
+   "title": "Comida y bebida",
+   "text": "Normalmente no comas ni bebas de 1 a 2 horas antes de la muestra. Pregunta en la clínica."
+  },
+  {
+   "title": "Garganta",
+   "text": "En la mañana no hagas gárgaras ni uses sprays o pastillas para la garganta."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomaste y él decidirá."
+  }
+ ],
+ "bring": [
+  "La orden médica, si la tienes",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te sientas y abres bien la boca",
+  "Te bajan la lengua con un abatelenguas",
+  "Pasan rápido el hisopo por las amígdalas y el fondo de la garganta",
+  "El hisopo se pone en un líquido y se hace la prueba",
+  "En unos minutos se ve el resultado en la tira"
+ ],
+ "feel": [
+  "Puede darte una arcada por un segundo",
+  "Es incómodo, pero no duele"
+ ],
+ "after": [
+  "Normalmente te dicen el resultado de inmediato",
+  "Si la prueba sale positiva, el médico decidirá si necesitas antibiótico",
+  "Si sale negativa pero hay señales de anginas, a veces también hacen un cultivo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Si la prueba sale negativa, ¿no tengo anginas?",
+   "a": "No siempre. El dolor de garganta muchas veces lo causan virus. Si hay dudas, el médico puede pedir un cultivo."
+  },
+  {
+   "q": "¿Para qué la prueba si se ven las anginas?",
+   "a": "Solo con ver la garganta es difícil distinguir el estreptococo de un virus. La prueba ayuda a no tomar antibiótico sin necesidad."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto te toman la muestra de garganta. De 1 a 2 horas antes no comas, no bebas y no hagas gárgaras, salvo que la clínica te diga otra cosa."
+  }
+ ]
+}

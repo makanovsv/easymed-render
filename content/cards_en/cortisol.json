@@ -1,0 +1,74 @@
+{
+ "title": "Cortisol",
+ "also": [
+  "cortisol test",
+  "stress hormone test",
+  "serum cortisol"
+ ],
+ "what": "This is a blood test from a vein. It shows your level of cortisol, a hormone made by the adrenal glands.",
+ "why": "For possible adrenal problems, sudden changes in weight or blood pressure, or strong weakness.",
+ "duration": "the blood draw takes a few minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "If you use steroid hormones: pills, shots, creams, or inhalers",
+  "If you take birth control pills",
+  "If you work nights or your sleep is irregular",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Time",
+   "text": "Cortisol changes during the day. Blood is usually taken in the morning, at the time your doctor sets."
+  },
+  {
+   "title": "Food",
+   "text": "Usually fasting: no food for 8 to 12 hours. Plain water is fine. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol, no hard workouts, and no smoking. Try to get a good night's sleep."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "Before the draw, sit quietly for 15 to 30 minutes, if the lab asks you to",
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in 1 to 3 days. The lab will tell you when",
+  "Sometimes the doctor also orders a saliva or urine cortisol test"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why does the time of the test matter?",
+   "a": "Cortisol is higher in the morning and lower in the evening. Your doctor compares your result with the normal range for that time."
+  },
+  {
+   "q": "Will stress affect the result?",
+   "a": "Yes, stress raises cortisol. That is why you are asked to rest before the draw."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Cortisol test tomorrow morning. Go to bed early and do not eat after dinner. Come at the time your doctor set."
+  }
+ ]
+}

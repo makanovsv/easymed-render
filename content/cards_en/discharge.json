@@ -1,0 +1,74 @@
+{
+ "title": "Hospital discharge",
+ "also": [
+  "hospital discharge",
+  "discharge summary",
+  "going home from hospital",
+  "after a hospital stay"
+ ],
+ "what": "When your hospital treatment is finished and you can go home. You get a discharge summary with advice.",
+ "why": "When hospital treatment is complete, or when you can continue treatment at home.",
+ "duration": "the paperwork usually takes from 1 to several hours on the day of discharge",
+ "tell_doctor": [
+  "What worries you before going home",
+  "If there is no one to help you at home",
+  "If it is unclear how to take your medicines",
+  "If you need a sick note for work"
+ ],
+ "prepare": [
+  {
+   "title": "Timing",
+   "text": "Find out the day before what time you will be discharged and who will pick you up."
+  },
+  {
+   "title": "Questions",
+   "text": "Write down your questions: medicines, activity, diet, and when to see a doctor."
+  },
+  {
+   "title": "Things",
+   "text": "Pack your things in advance, and check your bedside cabinet."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your things and clothes for the trip home",
+  "Your list of questions for the doctor"
+ ],
+ "steps": [
+  "The doctor does a final check",
+  "You get a discharge summary with your diagnosis and advice",
+  "The doctor explains which medicines to take and how",
+  "You are told when and which doctor to see next",
+  "A sick note is given, if needed",
+  "You collect your things and go home"
+ ],
+ "feel": [
+  "It can feel worrying to go home. That is normal",
+  "Weakness after hospital can last a few days"
+ ],
+ "after": [
+  "Keep your discharge summary and show it to your regular doctor",
+  "Take your medicines as advised",
+  "See your doctor at the clinic within the stated time"
+ ],
+ "red_flags": [
+  "You suddenly get much worse, with severe pain, a high fever, or trouble breathing: call emergency services",
+  "Any warning signs the doctor told you about at discharge"
+ ],
+ "faq": [
+  {
+   "q": "What if something in the summary is unclear?",
+   "a": "Ask the doctor before you leave. Later, you can show it to your regular doctor."
+  },
+  {
+   "q": "When should I see my regular doctor?",
+   "a": "Usually in the first days after discharge. The exact timing is written in your advice."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Discharge tomorrow. Pack your things, arrange a ride home, and write down your questions for the doctor."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Endometrial biopsy",
+ "also": [
+  "endometrial biopsy",
+  "pipelle biopsy",
+  "uterine biopsy",
+  "womb lining sample"
+ ],
+ "what": "The doctor passes a thin, flexible tube through the cervix into the womb and takes a little tissue from its lining. No cuts, and usually no anesthesia.",
+ "why": "For irregular periods, bleeding after menopause, infertility, or when an ultrasound shows a changed womb lining.",
+ "duration": "the procedure usually takes 5 to 15 minutes; results usually come in 1 to 2 weeks",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "Blood thinners",
+  "If you have an IUD",
+  "Allergy to painkillers",
+  "Any discharge or inflammation right now"
+ ],
+ "prepare": [
+  {
+   "title": "Cycle day",
+   "text": "The cycle day depends on the purpose. Your doctor will say when to come."
+  },
+  {
+   "title": "Test",
+   "text": "Sometimes you are asked to take a pregnancy test before the procedure."
+  },
+  {
+   "title": "Painkiller",
+   "text": "Ask your doctor if you can take a painkiller an hour before."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Ultrasound results",
+  "A pad",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit in the gynecological chair",
+  "The doctor inserts a speculum and cleans the cervix",
+  "A thin, flexible tube is passed through the cervix into the womb",
+  "Gentle suction draws up some tissue. It takes a few seconds",
+  "The tube is removed, and the tissue is sent to the lab"
+ ],
+ "feel": [
+  "A strong cramp, like a painful period, usually brief",
+  "Sometimes dizziness or nausea. Tell the doctor",
+  "Afterward, cramping for a few hours"
+ ],
+ "after": [
+  "Light bleeding, usually for 1 to 2 days",
+  "No sex, tampons, baths, or pools, usually for a few days. Your doctor will say exactly",
+  "Your doctor will explain the result at your visit"
+ ],
+ "red_flags": [
+  "Bleeding like a heavy period",
+  "A fever over 38°C (100.4°F), severe pain low in the belly, or bad-smelling discharge"
+ ],
+ "faq": [
+  {
+   "q": "Does it hurt?",
+   "a": "You feel a sharp cramp, like a painful period. It is brief, usually under a minute."
+  },
+  {
+   "q": "How is this different from a D&C?",
+   "a": "It is simpler: no anesthesia, no widening of the cervix, just a thin tube."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Endometrial biopsy tomorrow. Bring your ultrasound results and a pad. Ask your doctor about a painkiller beforehand."
+  }
+ ]
+}

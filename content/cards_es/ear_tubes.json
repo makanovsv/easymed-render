@@ -1,0 +1,81 @@
+{
+ "title": "Colocación de tubos de ventilación en el oído",
+ "also": [
+  "tubos en los oídos",
+  "miringotomía con tubos",
+  "timpanostomía",
+  "diábolos"
+ ],
+ "what": "El cirujano pone un tubito muy pequeño en el tímpano. Por ahí sale el líquido del oído medio y entra aire.",
+ "why": "Si hay otitis frecuentes o líquido detrás del tímpano que no se va en mucho tiempo y baja la audición.",
+ "duration": "la cirugía suele durar de 15 a 30 minutos; normalmente te vas a casa el mismo día",
+ "tell_doctor": [
+  "Si tu hijo estuvo enfermo en las últimas 2 semanas",
+  "Todos los medicamentos y alergias",
+  "Enfermedades crónicas",
+  "Si el paciente o algún familiar tuvo problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Normalmente se revisa la audición y se hacen análisis. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo."
+  },
+  {
+   "title": "Comida y bebida",
+   "text": "La clínica te dirá la hora de la última comida y bebida. Respétala exactamente."
+  },
+  {
+   "title": "Si es un niño",
+   "text": "Dile con calma que va a dormir y que vas a estar a su lado."
+  }
+ ],
+ "bring": [
+  "Los documentos",
+  "Los resultados de análisis y de la prueba de audición",
+  "Ropa de cambio y su juguete favorito"
+ ],
+ "steps": [
+  "Cambian de ropa al paciente y a veces ponen un catéter en la vena",
+  "Ponen la anestesia y el paciente se duerme",
+  "Por el oído, con microscopio, el cirujano hace un corte pequeño en el tímpano",
+  "Aspira el líquido del oído",
+  "Coloca el tubito",
+  "El paciente despierta en la sala y en unas horas se va a casa"
+ ],
+ "feel": [
+  "Después de la anestesia hay sueño, y los niños pueden estar inquietos",
+  "A veces sale un poco de líquido del oído los primeros días",
+  "Muchas veces se oye mejor de inmediato"
+ ],
+ "after": [
+  "Gotas en los oídos, como las indique el médico",
+  "El médico te dirá cómo proteger los oídos del agua",
+  "Los tubitos normalmente se caen solos en unos meses",
+  "Ve a la revisión a tiempo"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 o dolor fuerte",
+  "Pus o sangre del oído por varios días",
+  "A tu hijo le cuesta respirar o no despierta: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Hay que quitar el tubito?",
+   "a": "Normalmente se cae solo. Si no, el médico decide qué hacer."
+  },
+  {
+   "q": "¿Se puede bañar?",
+   "a": "Depende de lo que indique el médico. Muchas veces recomiendan proteger los oídos del agua."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la colocación de tubos en el oído. Comida y bebida solo hasta la hora exacta de la clínica."
+  }
+ ]
+}

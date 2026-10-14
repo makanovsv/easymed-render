@@ -1,0 +1,72 @@
+{
+ "title": "Revisión preventiva después de los 60",
+ "also": [
+  "chequeo médico después de los 60",
+  "revisión del adulto mayor",
+  "chequeo preventivo",
+  "valoración geriátrica"
+ ],
+ "what": "Es una revisión de salud de rutina para mayores de 60. El médico revisa la presión, el azúcar, el corazón, la memoria, la vista y el riesgo de caídas.",
+ "why": "Una vez al año o según el calendario, para encontrar enfermedades a tiempo y ajustar los medicamentos.",
+ "duration": "normalmente 1 o 2 consultas; los análisis, en 1 a 3 días",
+ "tell_doctor": [
+  "Todos los medicamentos que tomas, también hierbas y suplementos",
+  "Si te has caído o mareado",
+  "Si empeoró tu memoria, tu sueño, tu audición o tu vista",
+  "Enfermedades crónicas y cirugías"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "Junta en una bolsa todas las cajas de tus medicamentos y llévalas."
+  },
+  {
+   "title": "Análisis",
+   "text": "La sangre normalmente se saca en la mañana en ayunas. Puedes tomar agua natural. Pregunta en la clínica."
+  },
+  {
+   "title": "Medicamentos de la mañana",
+   "text": "No los dejes por tu cuenta. Pregúntale al médico si tomar tus medicamentos de la mañana antes de los análisis."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Todos tus medicamentos o la lista",
+  "Tus análisis y resúmenes anteriores",
+  "Tus lentes y aparato auditivo, si tienes"
+ ],
+ "steps": [
+  "Te sacan sangre y das una muestra de orina",
+  "La enfermera te toma la presión, el peso y la estatura",
+  "Te hacen un electrocardiograma y otros estudios de la lista",
+  "El médico te pregunta cómo te sientes y por tus medicamentos",
+  "Te hace algunas preguntas sobre tu memoria y tu ánimo",
+  "Platica contigo los resultados y el plan"
+ ],
+ "feel": [
+  "Normalmente nada molesto, salvo el piquete al sacar la sangre",
+  "Te puedes cansar. Lleva agua y algo para comer"
+ ],
+ "after": [
+  "El médico puede ajustar tus medicamentos; no los cambies tú",
+  "Si hace falta, te mandarán con especialistas",
+  "Platica con el médico las vacunas para adultos mayores"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Para qué llevar todos mis medicamentos?",
+   "a": "El médico revisa que no se repitan y que se puedan tomar juntos. Con la edad esto es muy importante."
+  },
+  {
+   "q": "¿Puedo ir con un familiar?",
+   "a": "Sí, muchas veces ayuda. Tu familiar recordará los consejos del médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu revisión. Lleva todos tus medicamentos y tu identificación. En la mañana, análisis en ayunas; puedes tomar agua."
+  }
+ ]
+}

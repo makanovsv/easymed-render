@@ -1,0 +1,67 @@
+{
+ "title": "Consulta con el gastroenterólogo",
+ "also": [
+  "gastroenterólogo",
+  "médico del estómago",
+  "consulta de gastroenterología"
+ ],
+ "what": "Es el médico que trata el estómago, el intestino, el hígado, la vesícula y el páncreas.",
+ "why": "Si tienes dolor de estómago, agruras, náuseas, inflamación, estreñimiento o diarrea, o cambios en los análisis del hígado.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Qué te molesta, cuándo y después de qué",
+  "Cómo han cambiado tus evacuaciones y tu peso",
+  "Qué medicamentos tomas, también analgésicos",
+  "Si te han operado del abdomen",
+  "Enfermedades digestivas en tu familia"
+ ],
+ "prepare": [
+  {
+   "title": "Diario",
+   "text": "Apunta por unos días qué comiste, cuándo te dolió y cómo fueron tus evacuaciones."
+  },
+  {
+   "title": "Estudios",
+   "text": "Lleva los resultados de endoscopía, colonoscopia, ultrasonido y análisis, si te los hiciste."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias y tu alimentación",
+  "Revisa tu lengua y tu piel",
+  "Palpa tu abdomen acostado",
+  "Revisa tus estudios anteriores",
+  "Te pide análisis, ultrasonido, endoscopía o te indica un tratamiento"
+ ],
+ "feel": [
+  "Palpar el abdomen puede ser un poco molesto si ahí te duele",
+  "Lo demás es una revisión normal"
+ ],
+ "after": [
+  "El médico te dará consejos de alimentación e indicaciones",
+  "Pregunta antes cómo prepararte para los estudios que te pidan"
+ ],
+ "red_flags": [
+  "Vómito con sangre o como asientos de café, heces negras o dolor fuerte en el abdomen: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Tengo que ir en ayunas?",
+   "a": "Para la consulta normalmente no. Si ese mismo día te harán ultrasonido o endoscopía, pregunta en la clínica."
+  },
+  {
+   "q": "¿Qué llevo a la consulta?",
+   "a": "Tus estudios anteriores, la lista de medicamentos y tus notas de comida y síntomas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el gastroenterólogo. Lleva tus estudios y la lista de medicamentos."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "title": "Consulta con el reumatólogo",
+ "also": [
+  "reumatólogo",
+  "médico de las articulaciones",
+  "médico de la artritis"
+ ],
+ "what": "Es el médico que trata enfermedades inflamatorias de las articulaciones, la columna y el tejido conectivo.",
+ "why": "Si tienes dolor, hinchazón o rigidez en las articulaciones, sobre todo en las mañanas, o cambios en los análisis de inflamación.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Qué articulaciones te duelen y cuánto dura la rigidez en la mañana",
+  "Si hay hinchazón o enrojecimiento de las articulaciones, ronchas o fiebre",
+  "Qué medicamentos tomas, también analgésicos",
+  "Enfermedades de las articulaciones en tu familia"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Lleva tus análisis de sangre y radiografías de las articulaciones, si te los hiciste."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para enseñar fácilmente las articulaciones de manos y pies."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias",
+  "Revisa y palpa tus articulaciones",
+  "Revisa cómo se mueven",
+  "Revisa tus análisis y radiografías",
+  "Te pide estudios o te indica un tratamiento"
+ ],
+ "feel": [
+  "Palpar las articulaciones que duelen puede ser molesto",
+  "Dile al médico si te duele; tendrá más cuidado"
+ ],
+ "after": [
+  "Hazte los análisis indicados",
+  "El tratamiento muchas veces es largo; no lo dejes por tu cuenta"
+ ],
+ "red_flags": [
+  "Hinchazón fuerte de una articulación con fiebre alta: ve al médico ese mismo día"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué es diferente del ortopedista?",
+   "a": "El reumatólogo trata la inflamación de las articulaciones con medicamentos; el ortopedista trata lesiones y desgaste, muchas veces con cirugía."
+  },
+  {
+   "q": "¿Qué análisis llevo?",
+   "a": "Los que tengas: biometría hemática, velocidad de sedimentación, proteína C reactiva. Lo que haga falta, el médico lo pedirá."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el reumatólogo. Lleva tus análisis y radiografías de las articulaciones."
+  }
+ ]
+}

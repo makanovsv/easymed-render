@@ -1,0 +1,71 @@
+{
+ "title": "Gammagrafía ósea",
+ "also": [
+  "gammagrafía ósea",
+  "centellograma óseo",
+  "rastreo óseo",
+  "gammagrama de huesos"
+ ],
+ "what": "Te ponen en la vena una dosis pequeña de una sustancia marcada. Se junta en los huesos, y una cámara especial toma imágenes de todo el esqueleto.",
+ "why": "Para encontrar cambios en los huesos cuando el médico necesita revisar todo el esqueleto a la vez, o con dolor de huesos sin causa clara.",
+ "duration": "toda la visita suele durar de 3 a 5 horas: inyección, espera de 2 a 4 horas e imagen de 20 a 40 minutos; el reporte en 1 a 3 días",
+ "tell_doctor": [
+  "Si estás embarazada o podrías estarlo",
+  "Si estás dando pecho. Habrá que hacer una pausa",
+  "Si hace poco te hicieron otros estudios con sustancias radiactivas o con bario",
+  "Si te cuesta estar boca arriba 30 minutos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta preparación especial. Puedes comer y beber."
+  },
+  {
+   "title": "Agua",
+   "text": "Después de la inyección te piden tomar mucha agua y orinar seguido."
+  },
+  {
+   "title": "Metal",
+   "text": "Antes de las imágenes, quítate joyas, cinturón y llaves de los bolsillos."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus estudios y reportes anteriores",
+  "Agua y algo para leer durante la espera"
+ ],
+ "steps": [
+  "Te ponen una inyección en la vena, normal, como en un análisis",
+  "Esperas de 2 a 4 horas, tomas agua y vas al baño",
+  "Antes de las imágenes tienes que vaciar la vejiga",
+  "Te acuestas boca arriba y la cámara pasa despacio sobre tu cuerpo",
+  "Tienes que estar quieto de 20 a 40 minutos"
+ ],
+ "feel": [
+  "La inyección es como en un análisis de sangre",
+  "La sustancia no se siente",
+  "La cámara está cerca, pero no te toca y no hace ruido"
+ ],
+ "after": [
+  "Ese día toma más agua y ve al baño seguido",
+  "Normalmente es mejor no cargar niños pequeños ni estar cerca de embarazadas durante un día. Pregunta en la clínica",
+  "Lleva el reporte al médico que te envió"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Es una radiación peligrosa?",
+   "a": "La dosis es pequeña, parecida a una tomografía. La sustancia sale rápido con la orina."
+  },
+  {
+   "q": "¿Puedo estar con niños después del estudio?",
+   "a": "Normalmente se recomienda no cargar bebés durante un día. El tiempo exacto te lo dicen en la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu gammagrafía ósea. La visita dura de 3 a 5 horas. Lleva agua y algo para leer."
+  }
+ ]
+}

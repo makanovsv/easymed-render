@@ -1,0 +1,68 @@
+{
+ "title": "Consulta con el cirujano",
+ "also": [
+  "cirujano general",
+  "consulta de cirugía",
+  "cirujano"
+ ],
+ "what": "Es el médico que decide si hace falta una cirugía, y trata enfermedades que se resuelven con cirugía: desde hernias hasta abscesos.",
+ "why": "Si tienes una hernia, piedras en la vesícula, abscesos, uña enterrada, bolitas bajo la piel, o antes de una cirugía programada.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Qué te molesta y desde cuándo",
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida",
+  "Tus alergias",
+  "Cirugías anteriores y cómo te fue con la anestesia",
+  "Enfermedades del corazón, de los pulmones o diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Lleva tus ultrasonidos, radiografías y análisis, si te los hiciste."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para enseñar la zona."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus imágenes e informes",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tus molestias",
+  "Revisa y palpa la zona",
+  "Revisa tus estudios",
+  "Te explica si hace falta una cirugía y qué opciones hay",
+  "Si hace falta cirugía, te da la lista de estudios previos"
+ ],
+ "feel": [
+  "Palpar la zona que duele puede ser molesto",
+  "Dile al médico si te duele"
+ ],
+ "after": [
+  "Si hace falta cirugía, el médico te dirá cómo prepararte",
+  "Pregunta cuánto dura la recuperación"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el abdomen, vómito o fiebre alta: no esperes la consulta, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Me van a programar la cirugía de inmediato?",
+   "a": "No siempre. Muchas veces primero hacen falta estudios, y a veces la cirugía no es necesaria."
+  },
+  {
+   "q": "¿Qué le pregunto al cirujano?",
+   "a": "Qué opciones de tratamiento hay, qué riesgos, cuánto dura la recuperación y cuándo puedo trabajar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el cirujano. Lleva tus estudios y la lista de medicamentos."
+  }
+ ]
+}

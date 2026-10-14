@@ -1,0 +1,76 @@
+{
+ "title": "Depilación láser",
+ "also": [
+  "depilación láser",
+  "depilación definitiva",
+  "eliminación de vello con láser",
+  "láser para el vello"
+ ],
+ "what": "El láser calienta la raíz del vello y la daña. El vello se cae poco a poco y después crece menos.",
+ "why": "Cuando quieres quitar el vello del cuerpo o la cara por mucho tiempo.",
+ "duration": "cada sesión suele durar de 10 minutos a una hora, según la zona; normalmente se necesitan de 6 a 10 sesiones",
+ "tell_doctor": [
+  "Si te asoleaste hace poco",
+  "Embarazo",
+  "Medicamentos que hacen la piel más sensible al sol",
+  "Fuegos o herpes, si se trabaja la zona cerca de los labios",
+  "Tendencia a manchas o cicatrices"
+ ],
+ "prepare": [
+  {
+   "title": "Rasurado",
+   "text": "Normalmente 1 a 2 días antes se rasura el vello. No te lo arranques con pinzas ni con cera: la raíz tiene que quedarse."
+  },
+  {
+   "title": "Sol",
+   "text": "2 semanas antes no te asolees ni uses autobronceador."
+  },
+  {
+   "title": "Piel",
+   "text": "El día del procedimiento no te pongas cremas ni desodorante en la zona."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Protector solar",
+  "Ropa cómoda"
+ ],
+ "steps": [
+  "El especialista revisa la piel y el vello",
+  "Te pones lentes de protección",
+  "A veces ponen un gel frío",
+  "Pasan el láser por la zona, parte por parte",
+  "Enfrían la piel y ponen un producto calmante"
+ ],
+ "feel": [
+  "Se siente como golpecitos con una liga o calor",
+  "En zonas sensibles puede ser más molesto",
+  "Después, enrojecimiento y una ligera hinchazón alrededor de los vellos por unas horas"
+ ],
+ "after": [
+  "Unos días no te asolees y ponte protector solar",
+  "De 1 a 2 días sin vapor, sauna ni alberca",
+  "En 1 a 3 semanas el vello tratado empieza a caerse. Es normal",
+  "La siguiente sesión, en el tiempo que te diga el especialista"
+ ],
+ "red_flags": [
+  "Ampollas, dolor fuerte o quemadura",
+  "Manchas en la piel que no se quitan"
+ ],
+ "faq": [
+  {
+   "q": "¿El vello se va para siempre?",
+   "a": "Normalmente queda mucho menos, más delgado y más claro. A veces hace falta una sesión de mantenimiento al año."
+  },
+  {
+   "q": "¿Por qué se necesitan tantas sesiones?",
+   "a": "El láser solo funciona en el vello que está creciendo en ese momento. El resto está en reposo y se trata en la siguiente sesión."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu depilación láser. Rasura la zona, no te asolees y no te pongas crema."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Teste tuberculínico (PPD) e Diaskintest",
+ "also": [
+  "PPD",
+  "prova tuberculínica",
+  "teste de Mantoux",
+  "teste de pele para tuberculose",
+  "Diaskintest"
+ ],
+ "what": "Aplicam uma gotinha de uma substância especial na pele do antebraço. Depois de 3 dias, o médico vê se há vermelhidão ou endurecimento e de que tamanho. O Diaskintest é um teste de pele parecido, usado em alguns países.",
+ "why": "Para investigar tuberculose em crianças e adultos: em exames de rotina, depois de contato com alguém doente ou para atestados.",
+ "duration": "a aplicação leva 1 minuto, a leitura é feita normalmente depois de 72 horas",
+ "tell_doctor": [
+  "Se agora tem febre, resfriado ou alguma doença em crise",
+  "Se tem alergia ou doença de pele",
+  "Se tomou alguma vacina há pouco tempo",
+  "Se a criança está doente, avise o médico antes. O teste pode ser adiado"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa de preparo especial. Pode comer normalmente."
+  },
+  {
+   "title": "Saúde",
+   "text": "O teste é feito quando a pessoa está bem. Com resfriado, normalmente é adiado. Confirme com o médico."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de subir até o cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Documento com foto",
+  "Carteira de vacinação da criança"
+ ],
+ "steps": [
+  "Você se senta e apoia o antebraço na mesa",
+  "Limpam a pele",
+  "Com uma agulha fina, injetam uma gotinha logo abaixo da camada de cima da pele",
+  "Forma-se uma bolinha pequena na pele",
+  "Marcam o dia para você voltar e mostrar o braço"
+ ],
+ "feel": [
+  "Uma picada pequena e rápida",
+  "Para a criança, dá para avisar antes: vai ser rápido e vai beliscar um pouquinho"
+ ],
+ "after": [
+  "Até a leitura, não coce, não cubra com curativo e não passe nada no local",
+  "Depois de 72 horas, o médico mede a reação com uma régua",
+  "O resultado é dado na hora da leitura"
+ ],
+ "red_flags": [
+  "Inchaço forte no braço, bolhas ou riscas vermelhas saindo do local: mostre ao médico antes da data"
+ ],
+ "faq": [
+  {
+   "q": "Posso molhar o local do PPD?",
+   "a": "É melhor não esfregar, não lavar com bucha e evitar molhar até a leitura. Umas gotas de água por acaso normalmente não atrapalham."
+  },
+  {
+   "q": "Qual a diferença entre o Diaskintest e o PPD?",
+   "a": "O Diaskintest não reage à vacina BCG. Por isso mostra com mais precisão a infecção por tuberculose."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem teste tuberculínico. Se tiver febre ou resfriado, ligue para a clínica."
+  }
+ ]
+}

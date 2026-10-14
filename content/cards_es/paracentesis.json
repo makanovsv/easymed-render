@@ -1,0 +1,76 @@
+{
+ "title": "Paracentesis",
+ "also": [
+  "paracentesis",
+  "punción abdominal",
+  "sacar líquido del abdomen",
+  "punción por ascitis"
+ ],
+ "what": "Por un pequeño piquete en el abdomen, el médico saca el líquido que se ha juntado. Se hace con anestesia local.",
+ "why": "Cuando se junta líquido en el abdomen, llamado ascitis, y no deja respirar, comer o moverse bien, o cuando hay que analizar el líquido.",
+ "duration": "normalmente de 20 a 60 minutos, a veces más si hay mucho líquido; el análisis del líquido tarda varios días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico decidirá si hay que cambiar algo",
+  "Alergias, también a anestésicos locales",
+  "Si estás embarazada",
+  "Si antes ya te hicieron una punción"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Normalmente antes se revisa la coagulación. El lugar del piquete se marca con ultrasonido."
+  },
+  {
+   "title": "Vejiga",
+   "text": "Ve al baño antes del procedimiento."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer como siempre. Pregunta en la clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de tus análisis",
+  "La lista de tus medicamentos",
+  "Tus resúmenes clínicos anteriores"
+ ],
+ "steps": [
+  "Te acuestas boca arriba, a veces un poco de lado",
+  "El médico elige el lugar en el abdomen con ultrasonido",
+  "Limpian la piel y la adormecen con una inyección",
+  "Por un piquete pequeño meten una aguja delgada o un tubito",
+  "El líquido sale despacio a un recipiente",
+  "Sacan la aguja y ponen un vendaje"
+ ],
+ "feel": [
+  "Piquete y ardor con la anestesia",
+  "Después presión, pero normalmente no dolor",
+  "Cuando sale el líquido, respiras más fácil"
+ ],
+ "after": [
+  "Normalmente después te quedas acostado y te miden la presión",
+  "El vendaje puede escurrir un poco. Pasa, y se cambia",
+  "El líquido puede volver a juntarse. El médico te dirá qué sigue"
+ ],
+ "red_flags": [
+  "Mareo, desmayo o debilidad repentina: llama a emergencias",
+  "Dolor fuerte de abdomen o fiebre de más de 38: ve al médico de inmediato",
+  "El vendaje se empapa de sangre, o sale líquido por más de un día"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele?",
+   "a": "El lugar se adormece, así que normalmente se siente presión, no dolor."
+  },
+  {
+   "q": "¿Por qué se vuelve a juntar el líquido?",
+   "a": "La punción saca el líquido, pero no quita la causa. La causa la trata el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoy es tu paracentesis. Ve al baño antes del procedimiento y lleva la lista de tus medicamentos."
+  }
+ ]
+}

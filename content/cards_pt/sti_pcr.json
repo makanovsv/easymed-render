@@ -1,0 +1,75 @@
+{
+ "title": "PCR para infecções sexualmente transmissíveis",
+ "also": [
+  "PCR para IST",
+  "exame de IST",
+  "infecções sexualmente transmissíveis",
+  "clamídia e micoplasma",
+  "PCR de secreção"
+ ],
+ "what": "O médico colhe uma amostra de secreção, ou você entrega a primeira urina da manhã. No laboratório, procuram os micróbios das infecções sexuais.",
+ "why": "Com corrimento, coceira, dor ao urinar, depois de relação sem proteção ou no planejamento da gravidez.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Quais são os sintomas e desde quando",
+  "Se tomou antibiótico no último mês",
+  "Se usou óvulos ou cremes vaginais",
+  "A data da última menstruação, se você é mulher"
+ ],
+ "prepare": [
+  {
+   "title": "Urina",
+   "text": "Não urine por 2 a 3 horas antes da coleta. Assim a amostra tem mais material."
+  },
+  {
+   "title": "1 a 2 dias antes",
+   "text": "Sem relação sexual. Mulheres: sem ducha vaginal, óvulos e cremes. Homens: sem antissépticos locais."
+  },
+  {
+   "title": "Menstruação",
+   "text": "Durante a menstruação, normalmente a coleta não é feita."
+  },
+  {
+   "title": "Remédios",
+   "text": "Se toma antibiótico, avise o médico. Ele decide quando é melhor fazer o exame."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "A mulher se deita na maca ginecológica, e o médico colhe a amostra com o espéculo",
+  "No homem, normalmente colhem com uma haste fina da uretra ou pedem o primeiro jato de urina",
+  "A amostra vai para um tubo com o nome",
+  "Você pode se vestir"
+ ],
+ "feel": [
+  "Um desconforto rápido ou ardência",
+  "No homem, ardência ao urinar na primeira vez depois da coleta. Passa rápido"
+ ],
+ "after": [
+  "O resultado sai normalmente em 1 a 3 dias. O prazo quem informa é o laboratório",
+  "Se encontrarem infecção, normalmente o parceiro também é tratado. Quem decide é o médico",
+  "Até o resultado, é melhor evitar relação sexual ou usar camisinha"
+ ],
+ "red_flags": [
+  "Dor no pé da barriga com febre: procure o médico no mesmo dia"
+ ],
+ "faq": [
+  {
+   "q": "Preciso fazer o exame se não sinto nada?",
+   "a": "Muitas infecções não dão sintomas. Se teve relação sem proteção ou planeja engravidar, é melhor fazer."
+  },
+  {
+   "q": "O exame é sigiloso?",
+   "a": "Em muitas clínicas dá para fazer de forma anônima. Confirme na clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem PCR para IST. Hoje, sem relação sexual, óvulos e ducha vaginal. Não urine nas 2 a 3 horas antes da coleta."
+  }
+ ]
+}

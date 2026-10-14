@@ -1,0 +1,88 @@
+{
+ "title": "Angiotomografía coronaria",
+ "also": [
+  "angiotomografía coronaria",
+  "angio-TAC de corazón",
+  "tomografía de arterias coronarias",
+  "coronariografía no invasiva"
+ ],
+ "what": "Son imágenes de las arterias del corazón en un tomógrafo, con medio de contraste en la vena. Se ve si hay estrechamientos y placas.",
+ "why": "Con dolor de pecho, para revisar las arterias del corazón sin catéter, o si las pruebas de esfuerzo dieron resultados dudosos.",
+ "duration": "en el consultorio normalmente de 20 a 40 minutos con la preparación; la toma dura unos segundos; el reporte en 1 a 2 días",
+ "tell_doctor": [
+  "Alergia al yodo o al medio de contraste",
+  "Enfermedades de los riñones, diabetes y medicamentos para la diabetes",
+  "Los medicamentos que tomas para el corazón y la presión",
+  "Asma. A veces cambia el medicamento que se usa para bajar el pulso",
+  "Si estás embarazada o podrías estarlo",
+  "Si tienes stents o te hicieron un bypass"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no comas de 3 a 4 horas antes. Puedes tomar agua. Pregunta en la clínica."
+  },
+  {
+   "title": "Café",
+   "text": "El día del estudio normalmente piden no tomar café, té cargado ni bebidas energéticas. Aceleran el pulso."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos por tu cuenta. Díselo al médico y él decidirá. A veces antes del estudio te dan una pastilla para bajar el pulso."
+  },
+  {
+   "title": "Análisis",
+   "text": "Muchas veces se necesita un análisis de creatinina reciente."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "El análisis de creatinina",
+  "Tus electrocardiogramas y reportes del cardiólogo",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena del brazo",
+  "Te miden el pulso. Si está rápido, te dan un medicamento para bajarlo",
+  "Te pegan electrodos en el pecho",
+  "A veces te dan una pastilla o un spray debajo de la lengua para abrir los vasos",
+  "Te acuestas en la mesa y practicas aguantar la respiración",
+  "Ponen el contraste y toman las imágenes. No respiras unos segundos",
+  "Después te quitan el catéter"
+ ],
+ "feel": [
+  "No duele, salvo al poner el catéter",
+  "Con el contraste se siente una ola de calor y sabor a metal",
+  "El spray debajo de la lengua puede dar un poco de dolor de cabeza"
+ ],
+ "after": [
+  "Quédate de 15 a 30 minutos en observación",
+  "Toma más agua, salvo que el médico te diga otra cosa",
+  "El reporte suele estar en 1 a 2 días. Llévalo al cardiólogo"
+ ],
+ "red_flags": [
+  "Dolor opresivo en el pecho por más de 15 minutos, falta de aire o sudor frío: llama a emergencias de inmediato",
+  "Después del medio de contraste, comezón, ronchas, hinchazón de la cara o dificultad para respirar: avísale de inmediato al personal o llama a emergencias",
+  "El lugar del catéter está muy hinchado y duele"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede cambiar la tomografía por un cateterismo cardiaco?",
+   "a": "Son métodos diferentes. La tomografía revisa las arterias sin catéter. Si encuentran un estrechamiento importante, pueden pedir un cateterismo."
+  },
+  {
+   "q": "¿Para qué bajar el pulso?",
+   "a": "El corazón se mueve. Con el pulso lento la imagen sale más clara."
+  },
+  {
+   "q": "¿Puedo tomar café en la mañana?",
+   "a": "Normalmente no, porque acelera el pulso. Pregunta en la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu angiotomografía coronaria. En la mañana sin café ni té cargado. Lleva tu análisis de creatinina y la lista de tus medicamentos."
+  }
+ ]
+}

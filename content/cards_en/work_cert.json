@@ -1,0 +1,72 @@
+{
+ "title": "Occupational health check",
+ "also": [
+  "pre-employment medical",
+  "occupational health check",
+  "work medical exam",
+  "periodic medical exam",
+  "health certificate for work"
+ ],
+ "what": "Doctors check that your health suits the job. The doctors and tests depend on your profession.",
+ "why": "Before starting a job, and then regularly if the work involves hazards, food, children, or transport.",
+ "duration": "usually from 1 to 2 hours up to 1 to 2 days if tests are needed; the final report comes after all doctors",
+ "tell_doctor": [
+  "Long-term conditions and medicines",
+  "Surgeries and injuries",
+  "If you are pregnant",
+  "Any past work restrictions"
+ ],
+ "prepare": [
+  {
+   "title": "Referral",
+   "text": "Bring the referral from your employer. It lists your job and workplace hazards."
+  },
+  {
+   "title": "Tests",
+   "text": "If a fasting blood test is needed, come in the morning without breakfast. Check with the clinic."
+  },
+  {
+   "title": "Time",
+   "text": "Allow extra time. There may be many rooms to visit."
+  }
+ ],
+ "bring": [
+  "The referral from your employer",
+  "Your ID",
+  "Your health record book, if your job needs one",
+  "Results of past checks and chest X-rays"
+ ],
+ "steps": [
+  "At the front desk, the referral is checked, and you get a route",
+  "You give samples for tests and have the needed scans",
+  "You see the doctors on the list",
+  "Each doctor signs off",
+  "The panel chair issues the final report"
+ ],
+ "feel": [
+  "Usually nothing unpleasant, except the needle for a blood test",
+  "There may be queues"
+ ],
+ "after": [
+  "Give the report to your employer",
+  "If something is found, more tests will be ordered",
+  "The next check follows your employer's schedule"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Who pays for the medical?",
+   "a": "Usually the employer. Check with them in advance."
+  },
+  {
+   "q": "Can I be found unfit for work?",
+   "a": "Yes, if a condition gets in the way of that job. More often you are given time for treatment or tests."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Work medical tomorrow. Bring the referral and your ID. If you are giving blood, do not eat in the morning."
+  }
+ ]
+}

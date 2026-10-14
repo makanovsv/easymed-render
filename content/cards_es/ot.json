@@ -1,0 +1,65 @@
+{
+ "title": "Terapia ocupacional",
+ "also": [
+  "terapeuta ocupacional",
+  "terapia ocupacional",
+  "recuperar actividades diarias",
+  "rehabilitación para la vida diaria"
+ ],
+ "what": "El especialista te ayuda a recuperar las habilidades de la vida diaria: vestirte, comer, bañarte, escribir o cocinar. Elige aparatos de ayuda para la casa.",
+ "why": "Después de un derrame cerebral o una lesión, en enfermedades de las articulaciones, y en niños con problemas del desarrollo, cuando cuesta hacer las cosas uno solo.",
+ "duration": "la sesión suele durar de 45 a 60 minutos; el especialista decide cuántas sesiones",
+ "tell_doctor": [
+  "Qué actividades se te hicieron difíciles",
+  "Qué medicamentos tomas",
+  "Si tienes dolor, mareo o problemas de la vista",
+  "Cómo es tu casa: escalones, tina o regadera, desniveles"
+ ],
+ "prepare": [
+  {
+   "title": "Metas",
+   "text": "Piensa qué es lo que más quieres volver a hacer tú solo. Por ahí se empieza."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda y los zapatos que usas normalmente."
+  }
+ ],
+ "bring": [
+  "Los resúmenes e informes de los médicos",
+  "Tus lentes, aparato auditivo o bastón, si los usas",
+  "Al familiar que te ayuda en casa"
+ ],
+ "steps": [
+  "El especialista te pregunta qué te cuesta hacer",
+  "Ve cómo haces actividades de todos los días",
+  "Juntos eligen las metas",
+  "En la sesión practicas movimientos y habilidades",
+  "Te recomienda aparatos de ayuda y cambios en la casa"
+ ],
+ "feel": [
+  "Las actividades pueden cansar. Toma descansos",
+  "No debe doler. Si duele, díselo al especialista"
+ ],
+ "after": [
+  "Practica las habilidades en casa todos los días",
+  "Es importante que tu familia no lo haga todo por ti, sino que te ayude poco a poco"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿En qué es diferente de la fisioterapia?",
+   "a": "La fisioterapia entrena los músculos y el movimiento; la terapia ocupacional entrena actividades concretas: vestirte, comer, bañarte."
+  },
+  {
+   "q": "¿Tengo que ir con un familiar?",
+   "a": "Es recomendable. Así aprende a ayudarte bien en casa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu sesión de terapia ocupacional. Lleva tus resúmenes médicos y las cosas que usas todos los días."
+  }
+ ]
+}

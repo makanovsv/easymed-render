@@ -1,0 +1,77 @@
+{
+ "title": "Biópsia de linfonodo",
+ "also": [
+  "biópsia de gânglio",
+  "punção de linfonodo",
+  "retirada de gânglio para análise",
+  "PAAF de linfonodo"
+ ],
+ "what": "O médico tira um pedaço de um gânglio aumentado ou retira o gânglio todo para analisar no microscópio. Isso é feito com agulha guiada por ultrassom ou por um corte pequeno.",
+ "why": "Quando um gânglio fica aumentado por muito tempo sem causa clara, com suspeita de doença do sangue ou tumor, ou para esclarecer o diagnóstico.",
+ "duration": "a biópsia por agulha leva normalmente de 15 a 30 minutos, e a retirada do gânglio de 30 a 60 minutos. O resultado sai normalmente em 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico decide se algo precisa mudar",
+  "Alergias, inclusive a anestésicos",
+  "Diabetes",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Tipo de biópsia",
+   "text": "O médico diz se vai ser com agulha ou com corte, e qual anestesia: local ou geral."
+  },
+  {
+   "title": "Comida",
+   "text": "Com anestesia local, normalmente pode comer. Com anestesia geral, siga as regras de jejum da clínica."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Se for com anestesia geral ou sedação, você precisa de alguém para buscar você."
+  }
+ ],
+ "bring": [
+  "Pedido médico, exames e ultrassom do gânglio",
+  "Lista de remédios",
+  "Acompanhante, se for com anestesia"
+ ],
+ "steps": [
+  "Você se deita numa posição boa para chegar ao gânglio",
+  "Limpam a pele e aplicam a anestesia",
+  "Na biópsia por agulha, a agulha entra no gânglio guiada pelo ultrassom",
+  "Na biópsia aberta, fazem um corte pequeno e retiram o gânglio",
+  "O local é costurado ou colado",
+  "Fazem um curativo"
+ ],
+ "feel": [
+  "A picada e a ardência da anestesia",
+  "Pressão durante o procedimento",
+  "Depois, uma dor leve e inchaço no local"
+ ],
+ "after": [
+  "Normalmente você vai para casa no mesmo dia",
+  "Mantenha o curativo seco pelo tempo que o médico disser",
+  "Os pontos são retirados em 7 a 10 dias, ou são absorvíveis",
+  "O resultado normalmente é explicado pelo médico na consulta"
+ ],
+ "red_flags": [
+  "Inchaço forte, sangue encharcando o curativo",
+  "Febre acima de 38 graus, vermelhidão e pus no local do corte",
+  "Se a biópsia foi no pescoço e ficou difícil respirar ou engolir: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Gânglio aumentado é perigoso?",
+   "a": "Na maioria das vezes, os gânglios aumentam por causa de infecção. A biópsia serve para saber a causa com certeza."
+  },
+  {
+   "q": "Por que tirar o gânglio inteiro?",
+   "a": "Às vezes, para um diagnóstico preciso, é preciso o gânglio todo, e não só um pedaço. Sem um gânglio, o corpo funciona normalmente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a biópsia de linfonodo. Confirme se pode comer de manhã. Leve o ultrassom e a lista de remédios."
+  }
+ ]
+}

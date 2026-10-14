@@ -1,0 +1,79 @@
+{
+ "title": "Histerossalpingografia",
+ "also": [
+  "histerossalpingografia",
+  "HSG",
+  "exame das trompas",
+  "raio-X das trompas"
+ ],
+ "what": "Colocam contraste pelo colo do útero e fazem radiografias. Mostra a forma do útero e se as trompas estão livres.",
+ "why": "Com dificuldade para engravidar, antes de tratar infertilidade ou depois de cirurgias nas trompas.",
+ "duration": "o procedimento em si leva normalmente de 15 a 30 minutos. O resultado muitas vezes sai logo depois das imagens",
+ "tell_doctor": [
+  "Se pode haver gravidez. Nesse caso, o exame não é feito",
+  "Alergia a iodo ou contraste",
+  "Inflamação, corrimento ou dor no pé da barriga agora ou há pouco tempo",
+  "Remédios que afinam o sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Dia do ciclo",
+   "text": "Normalmente na primeira metade do ciclo: depois do fim da menstruação e antes da ovulação, muitas vezes entre o 6º e o 12º dia. Confirme com o médico."
+  },
+  {
+   "title": "Exames",
+   "text": "Normalmente é preciso um exame de secreção vaginal para infecções, às vezes exame de sangue. A lista, a clínica entrega."
+  },
+  {
+   "title": "Gravidez",
+   "text": "Antes do exame, descartam gravidez. Às vezes pedem um teste ou para evitar engravidar nesse ciclo antes da HSG."
+  },
+  {
+   "title": "Analgésico",
+   "text": "Pergunte ao médico se pode tomar um analgésico de 30 a 60 minutos antes do exame."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exame de secreção e outros exames recentes",
+  "Absorvente",
+  "Acompanhante, se estiver nervosa"
+ ],
+ "steps": [
+  "Você se deita na mesa, como no exame ginecológico",
+  "O médico coloca o espéculo e limpa o colo do útero",
+  "Colocam um tubinho fino no colo",
+  "Por ele, o contraste entra devagar",
+  "Fazem algumas radiografias",
+  "Retiram o tubinho e o espéculo"
+ ],
+ "feel": [
+  "Cólicas no pé da barriga, como de menstruação, enquanto entra o contraste",
+  "Normalmente a sensação passa em alguns minutos ou horas"
+ ],
+ "after": [
+  "Por alguns dias pode sair um pouco de sangue. Use absorvente",
+  "Normalmente, de 1 a 2 dias sem relação sexual, piscina e banheira. Confirme com o médico",
+  "Converse sobre o resultado com o ginecologista ou especialista em reprodução"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, dor forte no pé da barriga, corrimento com cheiro ruim: ligue para o médico",
+  "Sangramento forte, desmaio: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dói muito?",
+   "a": "Normalmente são cólicas, como de menstruação. Avise o médico se doer muito. Dá para fazer uma pausa."
+  },
+  {
+   "q": "Posso engravidar no mesmo ciclo depois da HSG?",
+   "a": "Pergunte ao médico. Muitas vezes já liberam tentar nesse ciclo, mas as regras variam entre clínicas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a histerossalpingografia. Leve o exame de secreção, os outros exames e um absorvente."
+  }
+ ]
+}

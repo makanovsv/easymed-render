@@ -1,0 +1,70 @@
+{
+ "title": "Ultrasonido de aorta abdominal",
+ "also": [
+  "ultrasonido de aorta",
+  "Doppler de aorta abdominal",
+  "tamizaje de aneurisma de aorta"
+ ],
+ "what": "El médico revisa con ultrasonido la arteria principal del abdomen. Se ve si está dilatada o si tiene placas.",
+ "why": "Para revisar si la aorta está dilatada en hombres mayores y fumadores, si sientes latidos en el abdomen, o con enfermedades de los vasos.",
+ "duration": "normalmente de 15 a 20 minutos; el reporte es inmediato",
+ "tell_doctor": [
+  "Si fumas o fumaste antes",
+  "Si algún familiar tuvo la aorta dilatada",
+  "Presión alta o enfermedades de los vasos",
+  "Si te operaron del abdomen o de los vasos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente en ayunas: de 6 a 8 horas sin comer. Pregunta en la clínica."
+  },
+  {
+   "title": "Gases",
+   "text": "De 1 a 2 días antes, come menos alimentos que inflaman: col, frijoles y otras leguminosas, refrescos."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda para descubrir el abdomen."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus ultrasonidos o tomografías del abdomen anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas boca arriba",
+  "Ponen gel en el abdomen",
+  "El médico pasa el transductor desde la parte alta del abdomen hasta el ombligo",
+  "Mide el ancho de la aorta en varios puntos",
+  "A veces también revisan los vasos que van a las piernas"
+ ],
+ "feel": [
+  "El gel está frío y el transductor presiona el abdomen"
+ ],
+ "after": [
+  "Puedes comer de inmediato y seguir con tu día",
+  "El reporte suele estar de inmediato",
+  "Si la aorta está dilatada, el médico te dirá cada cuánto revisarte"
+ ],
+ "red_flags": [
+  "Dolor fuerte y repentino en el abdomen o la espalda, debilidad o desmayo: llama a emergencias de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Quién debe revisarse la aorta?",
+   "a": "Normalmente los hombres mayores, sobre todo los fumadores, y quienes tienen familiares con la aorta dilatada."
+  },
+  {
+   "q": "¿Y si la aorta está dilatada?",
+   "a": "Casi siempre solo se vigila y se mide con regularidad. El médico decide si hace falta tratamiento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu ultrasonido de aorta abdominal. Normalmente es en ayunas: después de la cena ya no comas. Puedes tomar agua."
+  }
+ ]
+}

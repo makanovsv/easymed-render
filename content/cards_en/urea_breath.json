@@ -1,0 +1,67 @@
+{
+ "title": "H. pylori breath test",
+ "also": [
+  "urea breath test",
+  "UBT",
+  "H. pylori breath test",
+  "stomach bacteria breath test"
+ ],
+ "what": "You drink a special solution and breathe into a bag or tube. Your breath shows if H. pylori bacteria are in your stomach.",
+ "why": "For stomach pain, heartburn, ulcers, or to check after H. pylori treatment.",
+ "duration": "usually 30 to 40 minutes; results often come the same day",
+ "tell_doctor": [
+  "If you took antibiotics in the last month",
+  "If you take medicines for heartburn or stomach acid",
+  "If you were ever treated for H. pylori, and when you finished",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Fasting: usually no food for 6 hours. Ask the clinic if water is allowed."
+  },
+  {
+   "title": "Smoking and gum",
+   "text": "On the test day, do not smoke or chew gum."
+  },
+  {
+   "title": "Medicines",
+   "text": "Antibiotics and acid medicines can change the result. Do not stop them on your own. Tell your doctor. They will decide."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "You breathe into the first bag or tube. This is the baseline sample",
+  "You drink a glass of the solution. It usually tastes a bit sour",
+  "You sit quietly, usually for 15 to 30 minutes",
+  "You breathe into the second bag or tube",
+  "The samples are sent for testing"
+ ],
+ "feel": [
+  "Nothing unpleasant. You just need to wait quietly"
+ ],
+ "after": [
+  "You can eat right away and go back to your day",
+  "Results usually come the same or the next day. The lab will tell you when"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is the breath test safe?",
+   "a": "Yes. A non-radioactive solution is usually used. It is also fine for checking after treatment."
+  },
+  {
+   "q": "When should I be retested after treatment?",
+   "a": "Usually at least 4 weeks after treatment ends. Your doctor will tell you when."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "H. pylori breath test today. For 6 hours before, do not eat, smoke, or chew gum."
+  }
+ ]
+}

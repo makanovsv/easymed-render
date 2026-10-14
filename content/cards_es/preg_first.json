@@ -1,0 +1,81 @@
+{
+ "title": "Primera consulta prenatal",
+ "also": [
+  "control prenatal",
+  "primera cita de embarazo",
+  "inicio del control prenatal",
+  "consulta prenatal"
+ ],
+ "what": "Es la primera cita con el ginecólogo por tu embarazo. El médico confirma el embarazo, te pregunta sobre tu salud y arma un plan de seguimiento.",
+ "why": "En cuanto sepas que estás embarazada. Normalmente se recomienda empezar el control antes de las 12 semanas.",
+ "duration": "la consulta suele durar de 30 a 60 minutos; los análisis, de 1 a 7 días",
+ "tell_doctor": [
+  "La fecha del primer día de tu última regla",
+  "Todos los medicamentos y vitaminas que tomas",
+  "Enfermedades crónicas: presión, tiroides o diabetes",
+  "Embarazos, partos, pérdidas o cirugías anteriores",
+  "Enfermedades en la familia y tus alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "No dejes por tu cuenta tus medicamentos de siempre. Díselo al médico y él decide qué puedes tomar en el embarazo."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Apunta antes lo que quieres preguntar: alimentación, trabajo, ejercicio, vitaminas."
+  },
+  {
+   "title": "Análisis",
+   "text": "Muchas veces toman sangre ese mismo día. Pregunta si debes ir en ayunas."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Resultados de ultrasonido y pruebas, si ya tienes",
+  "La lista de tus medicamentos",
+  "Resúmenes médicos de tus enfermedades crónicas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tu salud y tus embarazos anteriores",
+  "Te toma la presión, la estatura y el peso",
+  "Hace la revisión ginecológica y toma muestras",
+  "Calcula las semanas de embarazo y la fecha probable de parto",
+  "Te da órdenes para análisis y ultrasonido",
+  "Te explica el plan de consultas y qué hacer si notas señales de alarma"
+ ],
+ "feel": [
+  "La revisión ginecológica puede ser incómoda, pero no duele",
+  "Un piquete al tomar la sangre"
+ ],
+ "after": [
+  "Hazte los análisis de la lista",
+  "La siguiente cita suele ser en 2 a 4 semanas; el médico te dirá la fecha",
+  "Empieza a tomar las vitaminas que te indicó el médico"
+ ],
+ "red_flags": [
+  "Sangrado vaginal",
+  "Dolor fuerte en la parte baja del abdomen: llama a emergencias",
+  "Vomitas muchas veces al día y no retienes ni el agua"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuándo es mejor empezar el control prenatal?",
+   "a": "Normalmente antes de las 12 semanas. Así da tiempo de hacer los análisis importantes y el primer tamizaje."
+  },
+  {
+   "q": "¿Tengo que tomar algo al inicio del embarazo?",
+   "a": "Normalmente se indica ácido fólico. Lo demás, solo si te lo recomienda el médico."
+  },
+  {
+   "q": "¿Puedo seguir trabajando?",
+   "a": "Normalmente sí. Si tu trabajo es pesado o con riesgos, platícalo con el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu primera consulta prenatal. Recuerda la fecha de tu última regla y lleva la lista de medicamentos."
+  }
+ ]
+}

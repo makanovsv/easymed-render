@@ -1,0 +1,71 @@
+{
+ "title": "Doppler das artérias renais",
+ "also": [
+  "doppler de artérias renais",
+  "ultrassom dos vasos dos rins",
+  "duplex das artérias renais",
+  "doppler renal"
+ ],
+ "what": "O médico vê com ultrassom como o sangue corre nos vasos dos rins. Assim dá para saber se há estreitamento.",
+ "why": "Com pressão alta que não baixa bem com remédios, alteração nos exames dos rins ou depois de transplante de rim.",
+ "duration": "normalmente de 20 a 40 minutos, o laudo sai na hora",
+ "tell_doctor": [
+  "Como costuma ser a sua pressão e quais remédios para pressão você toma",
+  "Doenças dos rins, diabetes",
+  "Se já fez cirurgia nos rins ou nos vasos",
+  "Exames anteriores de urina e sangue dos rins"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente em jejum: de 6 a 8 horas sem comer, de manhã. Confirme com a clínica."
+  },
+  {
+   "title": "Gases",
+   "text": "De 2 a 3 dias antes, evite alimentos que dão gases: repolho, feijão, refrigerante, pão integral."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda os remédios de sempre por conta própria. Se tiver dúvida, fale com o médico. Ele decide."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exames de sangue e de urina",
+  "Ultrassons anteriores dos rins",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você se deita de barriga para cima e depois de lado",
+  "Passam gel na barriga e nos lados",
+  "O médico encontra os vasos dos rins com o aparelho",
+  "Às vezes pedem para segurar a respiração por alguns segundos",
+  "O médico mede a velocidade do sangue nos vasos"
+ ],
+ "feel": [
+  "Gel geladinho e pressão do aparelho na barriga, às vezes bem forte",
+  "Segurar a respiração pode cansar. Avise o médico"
+ ],
+ "after": [
+  "Você já pode comer e voltar à rotina",
+  "O laudo normalmente sai na hora",
+  "Se encontrarem estreitamento, o médico decide se precisa de outro exame"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que precisa ser em jejum?",
+   "a": "Os gases do intestino atrapalham o ultrassom. Com a barriga vazia, os vasos aparecem melhor."
+  },
+  {
+   "q": "Demora?",
+   "a": "Normalmente de 20 a 40 minutos. Os vasos dos rins são profundos, por isso o médico examina com atenção."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem doppler das artérias renais. Normalmente em jejum: depois do jantar, não coma. Água pode."
+  }
+ ]
+}

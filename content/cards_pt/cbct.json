@@ -1,0 +1,63 @@
+{
+ "title": "Tomografia dos dentes (cone beam)",
+ "also": [
+  "tomografia cone beam",
+  "tomografia odontológica",
+  "tomografia 3D dos dentes",
+  "TCFC"
+ ],
+ "what": "É uma imagem em 3D dos dentes e das arcadas. O dentista vê as raízes, os canais e o osso de todos os lados.",
+ "why": "Antes de implante e extração difícil, no tratamento de canal, com cistos, antes de aparelho ou para ver os seios da face.",
+ "duration": "normalmente de 5 a 10 minutos, a imagem em si leva menos de um minuto. O resultado muitas vezes sai na hora",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se tem coroas de metal ou implantes. Eles atrapalham um pouco a imagem, mas não impedem o exame",
+  "Se é difícil ficar parado em pé ou sentado"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire brincos, correntes, piercings, presilhas, óculos e próteses removíveis."
+  }
+ ],
+ "bring": [
+  "Pedido do dentista com a região do exame",
+  "Radiografias anteriores dos dentes"
+ ],
+ "steps": [
+  "Colocam um avental de proteção, se ele não atrapalhar a imagem",
+  "Você se senta ou fica em pé no aparelho, com o queixo no apoio",
+  "Morde uma pecinha, e a cabeça é presa",
+  "O aparelho gira em volta da cabeça. Não se mexa e não engula",
+  "A imagem é processada no computador"
+ ],
+ "feel": [
+  "Não dói",
+  "É só ficar parado por menos de um minuto"
+ ],
+ "after": [
+  "A imagem normalmente é entregue em CD ou pen drive. O laudo sai no mesmo dia ou depois",
+  "Com ela, volte ao dentista ou ao cirurgião"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "A radiação é perigosa?",
+   "a": "A dose é maior que a da panorâmica, mas normalmente menor que a de uma tomografia comum da cabeça. É pedida quando é necessária para o tratamento."
+  },
+  {
+   "q": "Dá para fazer só uma parte da arcada?",
+   "a": "Sim, muitas vezes fazem só uma área pequena. Assim a dose é menor. O tamanho quem escolhe é o dentista."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a tomografia dos dentes. Tire os brincos e os piercings e leve o pedido com a região do exame."
+  }
+ ]
+}

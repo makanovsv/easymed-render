@@ -1,0 +1,84 @@
+{
+ "title": "Cirugía de hernia incisional",
+ "also": [
+  "hernia incisional",
+  "eventración",
+  "hernia ventral",
+  "hernioplastia con malla"
+ ],
+ "what": "El cirujano regresa el bulto a su lugar y refuerza la zona débil de la cicatriz con una malla. La cirugía puede ser abierta o por pequeños orificios.",
+ "why": "Cuando sale una hernia por una cicatriz de cirugía anterior, duele o crece.",
+ "duration": "la cirugía suele durar de 1 a 3 horas; en el hospital normalmente de 2 a 5 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y los de la diabetes. El médico te dirá cuáles dejar y cuándo",
+  "Tus alergias",
+  "Qué cirugías del abdomen te hicieron antes",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si fumas. Fumar afecta la cicatrización"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis, electrocardiograma y a veces ultrasonido o tomografía del abdomen. La clínica te da la lista."
+  },
+  {
+   "title": "Peso y cigarro",
+   "text": "Si hay tiempo, el médico puede recomendarte bajar de peso y dejar de fumar. Así hay menos riesgo de que la hernia vuelva."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Faja",
+   "text": "Pregunta si debes comprar antes una faja abdominal y de qué talla."
+  }
+ ],
+ "bring": [
+  "La orden médica y los análisis",
+  "Tus documentos y la lista de medicamentos",
+  "La faja, si te la pidieron",
+  "Tus cosas para el hospital para varios días"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "El anestesiólogo te pone la anestesia",
+  "El cirujano hace un corte o unos orificios",
+  "Regresa el contenido de la hernia al abdomen",
+  "Refuerza la zona débil con una malla",
+  "Cierra la herida; a veces pone un tubito para drenar"
+ ],
+ "feel": [
+  "Dolor en la herida. Te dan analgésicos",
+  "Sensación de abdomen apretado",
+  "Después de la anestesia, sueño"
+ ],
+ "after": [
+  "Usa la faja, si te la indicó el médico",
+  "No cargues cosas pesadas, normalmente de 1 a 3 meses; el cirujano te dirá cuánto",
+  "Cuida no estar estreñido",
+  "Al toser, sostén la herida con la mano"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el abdomen que aumenta, o vómito: llama a emergencias",
+  "Fiebre de más de 38",
+  "Enrojecimiento, pus o mucha hinchazón en la herida",
+  "No haces del baño ni echas gases por más de un día y tienes el abdomen inflamado"
+ ],
+ "faq": [
+  {
+   "q": "¿Para qué es la malla?",
+   "a": "Refuerza la zona débil y baja el riesgo de que la hernia vuelva."
+  },
+  {
+   "q": "¿La hernia puede volver a salir?",
+   "a": "A veces pasa. El riesgo es menor si no cargas cosas pesadas, no subes de peso y no fumas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de hernia. Junta tus documentos, la faja y tus cosas. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

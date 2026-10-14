@@ -1,0 +1,62 @@
+{
+ "title": "Tomografia dos seios da face",
+ "also": [
+  "tomografia dos seios paranasais",
+  "TC de seios da face",
+  "tomografia do nariz",
+  "tomografia para sinusite"
+ ],
+ "what": "São imagens em camadas do nariz e dos seios da face. Mostram inchaço, líquido, pólipos e a estrutura do nariz.",
+ "why": "Com sinusites frequentes ou que não passam, antes de cirurgia no nariz ou quando o raio-X não deu resposta.",
+ "duration": "na sala, normalmente de 5 a 10 minutos, a imagem em si leva alguns segundos. O laudo sai no mesmo dia ou em 1 a 2 dias",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se fez cirurgia no nariz",
+  "Se já fez raio-X ou tomografia dos seios, leve"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não precisa. Contraste para os seios da face é raro. Pode comer e beber."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire brincos, presilhas, óculos, dentadura removível e aparelho auditivo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Imagens anteriores dos seios da face"
+ ],
+ "steps": [
+  "Você se deita na mesa, e o técnico ajuda a ficar confortável",
+  "A mesa entra num anel largo do aparelho",
+  "A cabeça fica num apoio, às vezes deitado de barriga para baixo",
+  "É preciso não se mexer e não engolir por alguns segundos"
+ ],
+ "feel": [
+  "Não dói. O aparelho faz um barulho baixo",
+  "O anel é largo, quase não dá sensação de aperto"
+ ],
+ "after": [
+  "Você já pode seguir o seu dia",
+  "Com o laudo e as imagens, volte ao otorrino"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que a tomografia é melhor que o raio-X?",
+   "a": "A tomografia mostra todos os seios e as passagens com detalhes. Isso é importante antes de cirurgia e em casos difíceis."
+  },
+  {
+   "q": "Posso fazer a tomografia com o nariz escorrendo?",
+   "a": "Pode. Mas, se for exame agendado, o médico pode pedir para fazer depois de tratar a crise."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a tomografia dos seios da face. Tire os brincos e as presilhas e leve as imagens anteriores."
+  }
+ ]
+}

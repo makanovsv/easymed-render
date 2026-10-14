@@ -1,0 +1,85 @@
+{
+ "title": "Vasectomia",
+ "also": [
+  "vasectomia",
+  "esterilização masculina",
+  "laqueadura masculina"
+ ],
+ "what": "O cirurgião corta e fecha os canais por onde passam os espermatozoides. É um método anticoncepcional masculino permanente.",
+ "why": "Quando o homem decidiu com firmeza não ter mais filhos.",
+ "duration": "a cirurgia leva normalmente de 20 a 40 minutos, com alta normalmente no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico decide o que fazer",
+  "Alergias, inclusive a anestésicos",
+  "Se já teve cirurgias ou lesões no saco escrotal",
+  "Doenças de coagulação do sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Decisão",
+   "text": "É um método permanente. Converse com o médico e, se quiser, com a parceira. Reverter é difícil e nem sempre dá certo."
+  },
+  {
+   "title": "Exames",
+   "text": "Normalmente é preciso exame de sangue. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Higiene",
+   "text": "Tome banho na véspera. Às vezes pedem para raspar os pelos do saco escrotal. Confirme com a clínica."
+  },
+  {
+   "title": "Coisas",
+   "text": "Cueca justa. Ela sustenta o saco escrotal depois da cirurgia."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Resultados de exames",
+  "Uma cueca justa",
+  "Alguém para levar você para casa, se derem calmante"
+ ],
+ "steps": [
+  "Você deita de barriga para cima",
+  "A pele do saco escrotal é limpa com antisséptico",
+  "O médico aplica anestesia local com injeção",
+  "Por um pequeno corte ou furo, encontra os canais",
+  "Os canais são cortados e fechados",
+  "O corte é suturado ou cicatriza sozinho"
+ ],
+ "feel": [
+  "A injeção de anestesia dá uma dor rápida",
+  "Durante a cirurgia, sensação de puxão",
+  "Depois, dor leve e inchaço por alguns dias"
+ ],
+ "after": [
+  "Repouso por 1 a 2 dias, gelo no saco escrotal se o médico indicar",
+  "Não pegue peso nem faça esporte por cerca de uma semana",
+  "Relação sexual, normalmente depois de uma semana, conforme o médico",
+  "A proteção não é imediata: use anticoncepcional até o espermograma mostrar que não há espermatozoides, normalmente em alguns meses"
+ ],
+ "red_flags": [
+  "O saco escrotal inchou muito ou o roxo cresce rápido",
+  "Febre acima de 38 graus",
+  "Pus ou vermelhidão no local do corte"
+ ],
+ "faq": [
+  {
+   "q": "Isso afeta a ereção?",
+   "a": "Não. Ereção, desejo e ejaculação continuam. Só os espermatozoides saem do sêmen."
+  },
+  {
+   "q": "Quando posso parar de usar proteção?",
+   "a": "Só depois do espermograma mostrar que não há espermatozoides. O prazo quem marca é o médico."
+  },
+  {
+   "q": "Dá para reverter depois?",
+   "a": "Às vezes os canais são religados com cirurgia, mas é difícil e nem sempre funciona. Por isso a decisão precisa ser firme."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vasectomia. Tome banho, leve uma cueca justa e os documentos."
+  }
+ ]
+}

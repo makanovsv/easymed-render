@@ -1,0 +1,71 @@
+{
+ "title": "Prueba de difusión pulmonar (DLCO)",
+ "also": [
+  "DLCO",
+  "difusión de monóxido de carbono",
+  "capacidad de difusión pulmonar",
+  "prueba de intercambio de gases"
+ ],
+ "what": "Inhalas una mezcla de gas segura y aguantas la respiración 10 segundos. El aparato ve qué tan bien pasan los pulmones el gas a la sangre.",
+ "why": "Con falta de aire sin causa clara, con enfermedades del tejido del pulmón, para controlar el tratamiento, o antes de algunos tratamientos.",
+ "duration": "normalmente de 15 a 30 minutos; el reporte suele estar el mismo día",
+ "tell_doctor": [
+  "Si fumas y cuándo fumaste por última vez",
+  "Si tienes anemia o análisis de sangre recientes. Cambian el resultado",
+  "Si usas oxígeno",
+  "Qué inhaladores usas"
+ ],
+ "prepare": [
+  {
+   "title": "Cigarro",
+   "text": "No fumes el día de la prueba, por lo menos desde la mañana. Fumar cambia mucho el resultado."
+  },
+  {
+   "title": "Oxígeno",
+   "text": "Si usas oxígeno, avisa antes. Te dirán qué hacer."
+  },
+  {
+   "title": "Comida",
+   "text": "Un desayuno ligero. Sin esfuerzo fuerte antes de la prueba."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Un análisis de sangre reciente, si lo tienes",
+  "Tus pruebas de respiración anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te sientas y te ponen una pinza en la nariz",
+  "Tomas el tubo con los labios y respiras tranquilo",
+  "Cuando te digan, sacas todo el aire",
+  "Tomas rápido y hondo la mezcla de gas",
+  "Aguantas la respiración unos 10 segundos",
+  "Sacas el aire tranquilo. Se repite 2 o 3 veces con pausas"
+ ],
+ "feel": [
+  "Aguantar la respiración puede costar. Avisa si no puedes",
+  "La mezcla no huele y es segura"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "El reporte suele estar el mismo día"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿El gas de la prueba es peligroso?",
+   "a": "No. Es muy poco y se elimina rápido al respirar."
+  },
+  {
+   "q": "¿Por qué no puedo fumar antes de la prueba?",
+   "a": "Fumar cambia la sangre, y la prueba saldría peor de lo que es en realidad."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu prueba de difusión pulmonar. No fumes desde la mañana. Lleva un análisis de sangre reciente, si lo tienes."
+  }
+ ]
+}

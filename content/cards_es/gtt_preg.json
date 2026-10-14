@@ -1,0 +1,82 @@
+{
+ "title": "Curva de tolerancia a la glucosa en el embarazo",
+ "also": [
+  "curva de tolerancia a la glucosa",
+  "prueba de glucosa en el embarazo",
+  "tamiz de diabetes gestacional",
+  "prueba de O'Sullivan",
+  "prueba del azúcar"
+ ],
+ "what": "Te toman sangre en ayunas, tomas una solución dulce de glucosa y te vuelven a tomar sangre a la hora y a las dos horas. Así se ve cómo maneja tu cuerpo el azúcar.",
+ "why": "Normalmente entre las semanas 24 y 28 del embarazo, para detectar a tiempo la diabetes gestacional. A veces antes, si el médico ve motivos.",
+ "duration": "alrededor de 2 a 2 horas y media; el resultado suele estar en 1 o 2 días",
+ "tell_doctor": [
+  "Si ya tuviste el azúcar alto",
+  "Si tienes muchas náuseas y vómito",
+  "Todos los medicamentos que tomas",
+  "Si ahora tienes gripa o te sientes mal"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "En ayunas: normalmente de 8 a 14 horas sin comer. Puedes tomar agua natural."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Come como siempre; no te pongas a dieta los días antes. En la noche no te atasques de cosas dulces."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los dejes por tu cuenta. Pregúntale al médico cómo tomar tus medicamentos de la mañana."
+  },
+  {
+   "title": "Tiempo",
+   "text": "Aparta la mañana: tienes que estar 2 horas sentada tranquila en la clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu carnet prenatal",
+  "Agua y algo para comer después de la prueba",
+  "Un libro o algo para pasar el tiempo"
+ ],
+ "steps": [
+  "En la mañana, en ayunas, te toman sangre de la vena",
+  "Te tomas un vaso de solución dulce en 5 minutos",
+  "Te quedas sentada tranquila: no puedes caminar, comer ni beber",
+  "A la hora te toman sangre por segunda vez",
+  "A las dos horas, por tercera vez",
+  "Después ya puedes comer"
+ ],
+ "feel": [
+  "La solución es muy dulce y puede darte náuseas",
+  "A veces un poco de debilidad o mareo. Avísale a la enfermera",
+  "Tres piquetes en la vena"
+ ],
+ "after": [
+  "Come en cuanto termine la prueba",
+  "El resultado suele estar en 1 o 2 días y te lo explica el médico",
+  "Si el azúcar sale alto, el médico te explicará la alimentación y el control"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué no puedo caminar durante la prueba?",
+   "a": "El movimiento quema azúcar y altera el resultado. Tienes que estar sentada tranquila."
+  },
+  {
+   "q": "¿Y si vomito la solución?",
+   "a": "Avísale a la enfermera. Normalmente se suspende la prueba y se cambia a otro día."
+  },
+  {
+   "q": "¿La glucosa le hace daño al bebé?",
+   "a": "No. Es una cantidad normal de azúcar, como en una bebida dulce."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Mañana es tu curva de glucosa. Después de cenar ya no comas; puedes tomar agua. En la mañana nada dulce y sin desayuno."
+  }
+ ]
+}

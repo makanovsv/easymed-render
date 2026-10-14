@@ -1,0 +1,71 @@
+{
+ "title": "Doppler transcraniano",
+ "also": [
+  "doppler transcraniano",
+  "DTC",
+  "doppler dos vasos cerebrais",
+  "ultrassom dos vasos do cérebro"
+ ],
+ "what": "O médico vê com ultrassom, através dos ossos do crânio, como o sangue corre nos vasos do cérebro. É seguro e não dói.",
+ "why": "Com tontura, depois de AVC, com estreitamento dos vasos do pescoço, dores de cabeça frequentes ou algumas doenças do sangue.",
+ "duration": "normalmente de 20 a 40 minutos, o laudo sai na hora",
+ "tell_doctor": [
+  "O que incomoda e há quanto tempo",
+  "Se já teve AVC, pancada na cabeça ou cirurgia",
+  "Quais remédios você toma",
+  "Exames anteriores dos vasos do pescoço e da cabeça"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não precisa. Pode comer e beber."
+  },
+  {
+   "title": "De manhã",
+   "text": "É melhor evitar café em excesso, energéticos e cigarro. Eles mudam o fluxo de sangue."
+  },
+  {
+   "title": "Cabelo",
+   "text": "Sem penteado e sem produtos no cabelo. O gel vai na têmpora e na nuca."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ultrassons anteriores dos vasos",
+  "Lista de remédios",
+  "Pente ou lenços"
+ ],
+ "steps": [
+  "Você se deita de barriga para cima",
+  "Passam gel na têmpora",
+  "O médico encosta o aparelho na têmpora e encontra os vasos",
+  "Depois olham pela nuca, e pedem para você abaixar a cabeça",
+  "Às vezes pedem para segurar a respiração ou respirar rápido"
+ ],
+ "feel": [
+  "Uma leve pressão na têmpora e na nuca",
+  "Respirando rápido, pode dar uma leve tontura. Isso passa"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "O laudo normalmente sai na hora",
+  "Converse sobre o resultado com o neurologista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O ultrassom passa pelo crânio?",
+   "a": "Sim, pelos lugares mais finos: têmpora, nuca e órbita do olho. Em algumas pessoas o osso é mais grosso, e a imagem fica pior."
+  },
+  {
+   "q": "É perigoso para o cérebro?",
+   "a": "Não. O ultrassom não tem radiação e não faz mal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem doppler transcraniano. De manhã, sem café em excesso e sem cigarro. Cabelo sem penteado."
+  }
+ ]
+}

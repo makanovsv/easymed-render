@@ -1,0 +1,71 @@
+{
+ "title": "TORCH tests before pregnancy",
+ "also": [
+  "TORCH panel",
+  "TORCH screen",
+  "toxoplasma, rubella, CMV, herpes test",
+  "pre-pregnancy blood test"
+ ],
+ "what": "This is a blood test from a vein. It shows if your body has met infections that are risky in pregnancy: toxoplasmosis, rubella, cytomegalovirus, and herpes.",
+ "why": "When planning a pregnancy, usually 2 to 3 months before, and sometimes in early pregnancy.",
+ "duration": "the blood draw takes a few minutes; results usually come in a few days",
+ "tell_doctor": [
+  "If you are already pregnant",
+  "If you had a rubella vaccine",
+  "If you were recently ill or had a fever",
+  "If you have a cat at home"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Best in the morning before eating, or a few hours after a light meal. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours, no alcohol and no hard workouts. Best not to smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "Your vaccination record, if you have it"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in a few days. The lab will tell you when",
+  "If you are not protected against rubella, your doctor may offer a vaccine before pregnancy"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What does a positive IgG mean?",
+   "a": "Usually it means you had the infection in the past and are protected. Your doctor will explain."
+  },
+  {
+   "q": "When should I test if I am planning a pregnancy?",
+   "a": "Usually 2 to 3 months before, so there is time for a vaccine if needed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "TORCH test tomorrow. Best to come before eating. Water is fine."
+  }
+ ]
+}

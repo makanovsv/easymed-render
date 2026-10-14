@@ -1,0 +1,73 @@
+{
+ "title": "Prolactin",
+ "also": [
+  "prolactin test",
+  "prolactin level",
+  "PRL test"
+ ],
+ "what": "This is a blood test from a vein. It shows your level of prolactin, a hormone that affects the menstrual cycle and the breasts.",
+ "why": "For irregular periods, infertility, discharge from the breasts, headaches, and in men, low sex drive.",
+ "duration": "the blood draw takes a few minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "What medicines you take. Many of them affect prolactin",
+  "If you are pregnant or breastfeeding",
+  "Your cycle day, if you are a woman"
+ ],
+ "prepare": [
+  {
+   "title": "Time",
+   "text": "Usually in the morning, 2 to 3 hours after waking up. Your doctor will tell you the cycle day."
+  },
+  {
+   "title": "The day before",
+   "text": "No sex, no sauna, no hard workouts, and no alcohol. Do not touch or massage your breasts."
+  },
+  {
+   "title": "Food",
+   "text": "Usually fasting: no food for 8 to 12 hours. Plain water is fine. Check with the lab."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "Before the draw, sit quietly for 15 to 30 minutes",
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in 1 to 3 days. The lab will tell you when",
+  "If prolactin is high, the doctor often asks you to repeat the test. Stress can easily raise it"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why can prolactin be high without illness?",
+   "a": "Stress, sleep, sex, exercise, and medicines can raise it. That is why following the prep matters."
+  },
+  {
+   "q": "Which cycle day is best for prolactin?",
+   "a": "Usually early in the cycle, but your doctor will tell you the exact day."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Prolactin test tomorrow. Today, no sex, sauna, or workouts. Do not eat after dinner."
+  }
+ ]
+}

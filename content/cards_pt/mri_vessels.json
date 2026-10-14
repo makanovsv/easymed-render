@@ -1,0 +1,70 @@
+{
+ "title": "Angiorressonância dos vasos cerebrais",
+ "also": [
+  "angiorressonância cerebral",
+  "ressonância dos vasos da cabeça",
+  "angio-RM"
+ ],
+ "what": "É uma ressonância que mostra os vasos do cérebro. Muitas vezes é feita sem contraste. Sem radiação.",
+ "why": "Com suspeita de aneurisma ou estreitamento dos vasos, dores de cabeça e tonturas frequentes ou depois de AVC.",
+ "duration": "normalmente de 15 a 30 minutos. O laudo sai em 1 a 2 dias",
+ "tell_doctor": [
+  "Marca-passo, desfibrilador ou outro implante eletrônico",
+  "Metal no corpo: próteses, placas, clipes nos vasos, estilhaços",
+  "Se você está grávida ou pode estar",
+  "Se tem medo de lugar fechado. O médico explica como ajudar",
+  "Clipes nos vasos depois de cirurgia no cérebro: avise sem falta"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Sem contraste, normalmente não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Contraste",
+   "text": "Se for com contraste, às vezes pedem exame de creatinina. Normalmente sem comer de 2 a 4 horas. Confirme com a clínica."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire tudo que é de metal: joias, relógio, presilhas, piercings. Deixe o celular e os cartões no armário."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ressonâncias e tomografias anteriores da cabeça"
+ ],
+ "steps": [
+  "Você troca de roupa e deixa tudo que é de metal no armário",
+  "Você se deita de barriga para cima, e a cabeça fica numa bobina em forma de capacete",
+  "O aparelho faz batidas altas. Dão fones ou protetores de ouvido",
+  "É preciso ficar deitado parado. Falam com você pelo interfone",
+  "Na mão, você tem um botão de chamada. Pode chamar a equipe a qualquer momento"
+ ],
+ "feel": [
+  "Não dói, mas é barulhento e apertado",
+  "Às vezes fica quente na região do exame. É normal"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "Com o laudo, volte ao neurologista"
+ ],
+ "red_flags": [
+  "Dor de cabeça fortíssima e repentina, fraqueza no braço ou na perna, boca torta, fala enrolada: ligue na hora para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Precisa de contraste para ver os vasos?",
+   "a": "Muitas vezes não. Os vasos aparecem mesmo sem ele. Às vezes o contraste é usado, dependendo do caso."
+  },
+  {
+   "q": "É o mesmo que ressonância do cérebro?",
+   "a": "Não. A ressonância do cérebro vê o tecido, e a angiorressonância vê os vasos. Muitas vezes são feitas juntas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a angiorressonância. Tire tudo que é de metal e leve as imagens anteriores."
+  }
+ ]
+}

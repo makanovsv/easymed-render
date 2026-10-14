@@ -1,0 +1,74 @@
+{
+ "title": "Online doctor consultation",
+ "also": [
+  "telemedicine",
+  "online doctor",
+  "video consultation",
+  "virtual doctor visit"
+ ],
+ "what": "A talk with a doctor by video or chat. The doctor asks questions, looks at your test results, and gives advice.",
+ "why": "To discuss results, get a second opinion, adjust treatment, or find out if you need an in-person visit.",
+ "duration": "usually 15 to 40 minutes",
+ "tell_doctor": [
+  "What bothers you, and since when",
+  "All your medicines and allergies",
+  "Long-term conditions",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Connection",
+   "text": "Check your internet, phone battery, camera, and microphone."
+  },
+  {
+   "title": "Place",
+   "text": "Find a quiet, well-lit place where you will not be interrupted."
+  },
+  {
+   "title": "Documents",
+   "text": "Upload or photograph your test results and reports in advance."
+  }
+ ],
+ "bring": [
+  "Test results and reports on your phone or computer",
+  "A list of your medicines",
+  "A list of questions",
+  "A thermometer or blood pressure monitor, if the doctor asked"
+ ],
+ "steps": [
+  "You join by the link at the set time",
+  "The doctor introduces themselves and asks about your symptoms",
+  "You show your test results, and sometimes the sore area on camera",
+  "The doctor explains what they think",
+  "They give advice or suggest an in-person visit",
+  "A written summary is usually sent to you"
+ ],
+ "feel": [
+  "It is a normal conversation",
+  "The doctor cannot examine you by hand, so sometimes an in-person visit is needed"
+ ],
+ "after": [
+  "Save the summary",
+  "If you get worse, go for an in-person visit",
+  "What can be prescribed online depends on the country's rules"
+ ],
+ "red_flags": [
+  "Chest pain, severe shortness of breath, or weakness in an arm or the face: do not wait for the consultation. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can an online doctor make a diagnosis?",
+   "a": "It depends on the country's rules. Often the doctor gives advice, and an exact diagnosis is made in person."
+  },
+  {
+   "q": "What if the connection drops?",
+   "a": "Rejoin by the same link, or message the clinic's support."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Online consultation in an hour. Check your internet, and have your test results and questions ready."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "title": "Raio-X da coluna para escoliose",
+ "also": [
+  "raio-X da coluna em pé",
+  "radiografia para escoliose",
+  "raio-X panorâmico da coluna"
+ ],
+ "what": "É uma radiografia da coluna em pé, muitas vezes do corpo inteiro. Com ela, o médico mede o ângulo da curvatura.",
+ "why": "Com postura torta, ombros ou escápulas em alturas diferentes, suspeita de escoliose ou para acompanhar o tratamento.",
+ "duration": "na sala, normalmente de 10 a 15 minutos. O laudo sai no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se usa colete, diga se a imagem é com ou sem ele",
+  "Radiografias anteriores da coluna e as datas"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Roupa",
+   "text": "Tire tudo que tem metal: fechos, zíperes, sutiã com aro, correntes. Às vezes dão um avental descartável."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Radiografias anteriores da coluna. Sem elas, é difícil comparar o ângulo"
+ ],
+ "steps": [
+  "Você tira a roupa e fica de roupa íntima",
+  "Fica de costas ou de lado para o aparelho, com os pés retos",
+  "Os braços ficam junto do corpo ou num apoio",
+  "É preciso ficar reto e sem respirar por uns dois segundos",
+  "Às vezes fazem uma imagem inclinando para os lados"
+ ],
+ "feel": [
+  "Não dói",
+  "É preciso ficar em pé reto. Não é difícil"
+ ],
+ "after": [
+  "Você já pode seguir o seu dia",
+  "Com o laudo e o ângulo da curvatura, volte ao ortopedista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Com que frequência posso fazer raio-X para escoliose?",
+   "a": "Com a frequência que o médico pedir. Normalmente não mais de uma vez a cada 6 a 12 meses, sem motivo especial."
+  },
+  {
+   "q": "Por que a criança faz em pé e não deitada?",
+   "a": "Deitado, a curvatura diminui. Em pé, aparece o ângulo real."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o raio-X da coluna. Vista roupa íntima sem metal e leve as radiografias anteriores."
+  }
+ ]
+}

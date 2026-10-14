@@ -1,0 +1,82 @@
+{
+ "title": "Cuándo y cómo llamar a una ambulancia",
+ "also": [
+  "ambulancia",
+  "llamar a una ambulancia",
+  "número de emergencias",
+  "servicios de emergencia",
+  "atención de urgencia"
+ ],
+ "what": "Cómo saber que es momento de llamar a una ambulancia y qué decirle al operador. Llama al número de emergencias de tu país; en muchos países es el 911.",
+ "why": "En situaciones peligrosas: dolor en el pecho, dificultad para respirar, señales de derrame cerebral, pérdida del conocimiento, sangrado fuerte o una lesión grave.",
+ "duration": "la llamada con el operador suele durar de 1 a 3 minutos; el tiempo de llegada depende de la urgencia y del lugar",
+ "tell_doctor": [
+  "Qué pasó y cuándo",
+  "La edad y el estado: si está consciente y si respira",
+  "La dirección exacta: calle, número, piso, cómo entrar",
+  "Tu número de teléfono"
+ ],
+ "prepare": [
+  {
+   "title": "Número",
+   "text": "Apréndete el número de emergencias de tu país y tenlo guardado en el teléfono."
+  },
+  {
+   "title": "En casa",
+   "text": "Ten los documentos y la lista de medicamentos del enfermo en un mismo lugar."
+  },
+  {
+   "title": "Recibirlos",
+   "text": "Si se puede, que alguien abra la puerta y espere a la ambulancia afuera."
+  }
+ ],
+ "bring": [
+  "La identificación del enfermo",
+  "La lista de medicamentos o las cajas",
+  "Resúmenes médicos y electrocardiogramas, si hay",
+  "El teléfono"
+ ],
+ "steps": [
+  "Llama al número de emergencias y habla con calma",
+  "Di qué pasó, la edad y la dirección",
+  "Responde las preguntas del operador",
+  "No cuelgues hasta que te lo indiquen",
+  "Sigue los consejos del operador mientras llega la ambulancia",
+  "Abre la puerta, encierra a los perros y ten listos los documentos"
+ ],
+ "feel": [
+  "Es normal estar nervioso. El operador te ayudará con sus preguntas",
+  "Es importante decir lo principal: si respira y si está consciente"
+ ],
+ "after": [
+  "El personal de la ambulancia revisará al enfermo y le dará atención",
+  "Si hace falta, lo llevarán al hospital",
+  "Si se queda en casa, pide recomendaciones"
+ ],
+ "red_flags": [
+  "Dolor o presión en el pecho por más de unos minutos: llama a emergencias",
+  "La cara se ve chueca, un brazo se debilita o cuesta hablar: llama a emergencias de inmediato",
+  "Cuesta respirar o la persona está inconsciente: llama a emergencias",
+  "Sangrado fuerte o una lesión grave: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Me pueden negar la ambulancia?",
+   "a": "Si la vida está en peligro, la ambulancia sale. Describe claramente lo que está pasando."
+  },
+  {
+   "q": "¿Puedo darle un medicamento antes de que llegue la ambulancia?",
+   "a": "Pregúntale al operador. Él te dirá qué puedes hacer."
+  },
+  {
+   "q": "¿Qué hago si veo señales de un derrame cerebral?",
+   "a": "Llama a emergencias de inmediato y fíjate a qué hora empezó. Es importante para el tratamiento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Recuerda el número de emergencias de tu país. Al llamar, di qué pasó y la dirección exacta."
+  }
+ ]
+}

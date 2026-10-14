@@ -1,0 +1,78 @@
+{
+ "title": "Retirada de pólipo na colonoscopia",
+ "also": [
+  "polipectomia",
+  "retirada de pólipos",
+  "remoção de pólipo do intestino",
+  "polipectomia endoscópica"
+ ],
+ "what": "Pólipo é um pequeno crescimento na parede do intestino. Durante a colonoscopia, o médico retira o pólipo com uma alça ou pinça, pelo mesmo tubo.",
+ "why": "Quando encontram um pólipo na colonoscopia. Alguns pólipos podem virar câncer com o tempo, por isso são retirados antes.",
+ "duration": "acrescenta normalmente de 5 a 20 minutos à colonoscopia. O resultado da análise do pólipo sai normalmente em 1 a 2 semanas",
+ "tell_doctor": [
+  "Remédios que afinam o sangue. Às vezes são ajustados antes da retirada, quem decide é o médico",
+  "Se você usa marca-passo",
+  "Diabetes",
+  "Se já retirou pólipos antes, leve os laudos"
+ ],
+ "prepare": [
+  {
+   "title": "Como na colonoscopia",
+   "text": "Dieta sem fibras de 2 a 3 dias e limpeza do intestino com a solução, conforme o esquema do médico."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico todos os remédios. Ele decide o que mudar e quando."
+  },
+  {
+   "title": "Sedação",
+   "text": "Se for feito dormindo, você precisa de acompanhante."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos de colonoscopias anteriores",
+  "Lista de remédios",
+  "Acompanhante, se for com sedação"
+ ],
+ "steps": [
+  "A colonoscopia segue normalmente",
+  "O médico encontra o pólipo e examina",
+  "Pelo tubo, passam uma alça fina ou uma pinça",
+  "O pólipo é separado da parede, às vezes o local é cauterizado",
+  "Às vezes colocam um clipe pequeno no local",
+  "O pólipo é retirado e vai para análise"
+ ],
+ "feel": [
+  "Normalmente você não sente a retirada. A parede do intestino não tem nervos de dor",
+  "Estufamento pelo ar, como depois de uma colonoscopia"
+ ],
+ "after": [
+  "Normalmente, de 1 a 2 dias, comida leve e sem álcool. Confirme com o médico",
+  "Por alguns dias, sem pegar peso e sem esporte intenso, se o médico orientar",
+  "Um pouco de sangue nas fezes nos primeiros dias pode acontecer",
+  "O clipe sai sozinho. Não precisa procurar",
+  "A próxima colonoscopia, o médico marca pelo resultado da análise"
+ ],
+ "red_flags": [
+  "Muito sangue pelo ânus ou coágulos: ligue para a emergência",
+  "Dor na barriga forte e piorando: ligue para a emergência",
+  "Febre acima de 38 graus, fraqueza, tontura: procure o médico na hora"
+ ],
+ "faq": [
+  {
+   "q": "Pólipo é câncer?",
+   "a": "Na maioria das vezes não. A análise mostra o que era. A retirada serve justamente para o pólipo não mudar."
+  },
+  {
+   "q": "O pólipo pode voltar?",
+   "a": "Podem aparecer pólipos novos. Por isso o médico marca uma colonoscopia de controle depois de um tempo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a colonoscopia com retirada de pólipo. Hoje, só líquidos claros e a solução, conforme o esquema do médico."
+  }
+ ]
+}

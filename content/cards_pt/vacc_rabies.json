@@ -1,0 +1,79 @@
+{
+ "title": "Vacina antirrábica depois de mordida",
+ "also": [
+  "vacina contra raiva",
+  "vacina depois de mordida de cachorro",
+  "vacina antirrábica",
+  "vacina depois de mordida de gato"
+ ],
+ "what": "Uma série de injeções depois de uma mordida ou arranhão de animal. Ela impede a raiva de se desenvolver, se começar a tempo.",
+ "why": "Depois de mordida, arranhão ou lambida na pele por cachorro, gato, animal silvestre ou morcego.",
+ "duration": "a injeção leva alguns segundos; o esquema tem algumas doses conforme o calendário, ao longo de algumas semanas",
+ "tell_doctor": [
+  "Que animal foi, se é de casa ou de rua",
+  "Quando e onde mordeu",
+  "Se dá para observar o animal",
+  "Se já tomou vacina antirrábica antes",
+  "Se você está grávida ou tem doença da imunidade"
+ ],
+ "prepare": [
+  {
+   "title": "Logo depois da mordida",
+   "text": "Lave a ferida com água corrente e sabão por pelo menos 15 minutos."
+  },
+  {
+   "title": "Não espere",
+   "text": "Vá na hora ao pronto atendimento. Quanto antes começar a vacina, melhor."
+  },
+  {
+   "title": "Animal",
+   "text": "Se der, pergunte ao dono se o animal é vacinado. Ele precisa ser observado por 10 dias."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Informações sobre o animal e o dono, se tiver",
+  "A carteira de vacinação"
+ ],
+ "steps": [
+  "O médico examina e limpa a ferida",
+  "Pergunta sobre o animal e decide se a vacina é necessária",
+  "Aplicam a primeira injeção no braço",
+  "Às vezes, em mordidas fundas, aplicam também um remédio em volta da ferida",
+  "Você recebe o calendário das próximas doses",
+  "Decidem se é preciso vacina contra tétano"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes o local dói, com fraqueza ou um pouco de febre"
+ ],
+ "after": [
+  "Não perca nenhuma dose do calendário. Isso é muito importante",
+  "O médico pode pedir para não beber álcool durante o esquema",
+  "Se o animal estiver saudável depois de 10 dias, o médico pode encerrar o esquema antes"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência",
+  "A ferida ficou muito vermelha, inchada, com pus, ou apareceu febre"
+ ],
+ "faq": [
+  {
+   "q": "Quantas doses são necessárias?",
+   "a": "Normalmente algumas doses no braço, conforme o calendário. O número exato, o médico diz."
+  },
+  {
+   "q": "Se o cachorro é de casa, posso não tomar?",
+   "a": "Quem decide é o médico. Muitas vezes o animal vacinado é observado por 10 dias, e a vacina começa antes disso."
+  },
+  {
+   "q": "E se eu perdi uma dose?",
+   "a": "Fale logo com o médico. Ele diz como continuar o esquema."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a próxima dose da vacina antirrábica, conforme o calendário. Não pode faltar."
+  }
+ ]
+}

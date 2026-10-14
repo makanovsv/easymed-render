@@ -1,0 +1,71 @@
+{
+ "title": "Primera visita del niño al dentista",
+ "also": [
+  "primera visita al dentista",
+  "odontopediatra",
+  "dentista para niños",
+  "revisión dental infantil"
+ ],
+ "what": "El dentista infantil le enseña al niño el consultorio y le revisa los dientes. Normalmente no se hace ningún tratamiento. Lo principal es que el niño no se asuste.",
+ "why": "Normalmente se recomienda ir cuando sale el primer diente y no después del primer año; luego, cada 6 meses para prevenir.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Cómo se lava los dientes el niño y quién le ayuda",
+  "Si en la noche toma leche, fórmula o jugo",
+  "Alergias y enfermedades del niño",
+  "Si el niño le tiene miedo a los médicos o si algo le duele"
+ ],
+ "prepare": [
+  {
+   "title": "Ánimo",
+   "text": "Explícale con calma al niño que el dentista va a contar sus dientitos. No lo asustes ni le prometas que no le va a doler."
+  },
+  {
+   "title": "Hora",
+   "text": "Elige una hora en que el niño haya dormido bien y no tenga hambre."
+  },
+  {
+   "title": "Tú",
+   "text": "El niño siente tu ánimo. Mantente tranquilo."
+  }
+ ],
+ "bring": [
+  "Los documentos del niño",
+  "Su juguete favorito",
+  "El cepillo de dientes del niño, si quieres que revisen cómo se lava"
+ ],
+ "steps": [
+  "El dentista se presenta con el niño y le enseña los instrumentos",
+  "A los niños pequeños los revisan sentados en tus piernas",
+  "El dentista cuenta los dientes y revisa las encías",
+  "Te enseña cómo lavarle bien los dientes",
+  "Te recomienda una pasta y cómo debe comer",
+  "Te da la siguiente cita"
+ ],
+ "feel": [
+  "Al niño no le duele",
+  "El bebé puede llorar. Es normal y no estorba la revisión"
+ ],
+ "after": [
+  "Felicita al niño por la visita",
+  "Lávale los dientes 2 veces al día",
+  "Ve a revisión cada 6 meses o como diga el dentista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Para qué curar los dientes de leche si se van a caer?",
+   "a": "Los dientes de leche enfermos duelen y pueden dañar los dientes permanentes que crecen debajo."
+  },
+  {
+   "q": "¿Qué hago si el niño llora?",
+   "a": "Es normal. El dentista tiene experiencia y sabe cómo ayudar. Lo importante es que tú estés tranquilo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es la primera visita de tu hijo al dentista. Que haya dormido bien y haya comido. Lleva su juguete favorito."
+  }
+ ]
+}

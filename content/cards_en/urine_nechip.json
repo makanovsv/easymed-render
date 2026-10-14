@@ -1,0 +1,71 @@
+{
+ "title": "Nechiporenko urine test (cell count)",
+ "also": [
+  "urine cell count",
+  "quantitative urine microscopy",
+  "midstream urine test",
+  "Nechiporenko test"
+ ],
+ "what": "This is a test of your morning urine. It is common in Russia and nearby countries. The lab counts white cells, red cells, and casts in a set amount of urine.",
+ "why": "If a routine urine test showed changes, for kidney and urinary tract problems, or to check treatment.",
+ "duration": "collecting takes 5 minutes; results usually come in 1 day",
+ "tell_doctor": [
+  "If you take water pills or antibiotics",
+  "If you have your period now",
+  "If you recently had a bladder scope or a catheter"
+ ],
+ "prepare": [
+  {
+   "title": "The day before",
+   "text": "Usually avoid foods that color urine, like beets and bright berries. No alcohol and no hard workouts."
+  },
+  {
+   "title": "Periods",
+   "text": "The test is usually not done during your period. Move it. Ask your doctor."
+  },
+  {
+   "title": "Container",
+   "text": "A sterile container from a pharmacy or the lab."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take."
+  }
+ ],
+ "bring": [
+  "The container with urine",
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "In the morning, right after waking, wash with warm water, no soap",
+  "Pee the first few seconds into the toilet",
+  "Catch the middle part in the container",
+  "Finish peeing into the toilet",
+  "Close the container and take it to the lab within 1 to 2 hours"
+ ],
+ "feel": [
+  "Nothing unpleasant"
+ ],
+ "after": [
+  "Results usually come the next day",
+  "Your doctor will explain the results"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "How is this different from a routine urine test?",
+   "a": "It counts cells exactly in 1 mL of urine. This helps show what a routine test shows unclearly."
+  },
+  {
+   "q": "Why the middle part of the stream?",
+   "a": "The first part washes away cells from the skin. The middle part better shows what is in your kidneys and bladder."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Urine cell count test tomorrow. In the morning, collect the middle part of the stream in a sterile container."
+  }
+ ]
+}

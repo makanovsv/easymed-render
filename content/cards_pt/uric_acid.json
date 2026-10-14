@@ -1,0 +1,68 @@
+{
+ "title": "Ácido úrico",
+ "also": [
+  "ácido úrico",
+  "exame de gota",
+  "uricemia"
+ ],
+ "what": "É um exame de sangue colhido da veia. Mostra o nível de ácido úrico. Quando ele está alto, as articulações podem doer.",
+ "why": "Com dor e inchaço nas articulações, principalmente no dedão do pé, pedra nos rins, pressão alta ou em check-ups.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente no dia seguinte",
+ "tell_doctor": [
+  "Quais remédios você toma, principalmente diuréticos",
+  "Se já trata gota",
+  "Se teve crises de dor nas articulações e quando foi a última"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente em jejum: de 8 a 12 horas sem comer. Água pura pode. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "De 1 a 2 dias antes, menos carne, miúdos e peixe, e sem álcool. Sem treino pesado."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma. Ele decide se algo precisa mudar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Exames anteriores, se tiver"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos, sem dobrar o braço",
+  "Você já pode comer e voltar à rotina",
+  "O resultado sai normalmente em 1 dia. O prazo quem informa é o laboratório"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ácido úrico alto é gota?",
+   "a": "Nem sempre. Quem diagnostica gota é o médico, pelos sintomas e pelo exame físico, não só pelo exame de sangue."
+  },
+  {
+   "q": "Posso fazer o exame durante uma crise?",
+   "a": "Pode, mas durante a crise o nível às vezes fica normal. O médico pode pedir para repetir depois."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de ácido úrico. Hoje, sem carne, peixe e álcool. Depois do jantar, não coma mais."
+  }
+ ]
+}

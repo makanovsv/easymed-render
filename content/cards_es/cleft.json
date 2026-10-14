@@ -1,0 +1,85 @@
+{
+ "title": "Cirugía de labio y paladar hendido",
+ "also": [
+  "labio leporino",
+  "paladar hendido",
+  "queiloplastia",
+  "palatoplastia",
+  "fisura labio palatina"
+ ],
+ "what": "El cirujano une los tejidos del labio o del paladar para cerrar la hendidura. Muchas veces se necesitan varias cirugías a distintas edades.",
+ "why": "Cuando un niño nace con labio o paladar hendido: por la apariencia de la cara y para que pueda comer, hablar y oír bien.",
+ "duration": "la cirugía suele durar de 1 a 3 horas; en el hospital normalmente varios días",
+ "tell_doctor": [
+  "Cómo come tu hijo y cómo sube de peso",
+  "Gripa, tos o fiebre en las últimas 2 semanas",
+  "Alergias y medicamentos",
+  "Si en la familia hubo problemas con la anestesia",
+  "Otras enfermedades o malformaciones"
+ ],
+ "prepare": [
+  {
+   "title": "Edad",
+   "text": "El labio normalmente se opera en los primeros meses de vida, y el paladar casi siempre antes de 1 año o año y medio. El cirujano te dirá cuándo."
+  },
+  {
+   "title": "Estudios",
+   "text": "Análisis, revisión del pediatra y a veces de otros médicos. La clínica te da la lista."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "El tiempo sin comida, fórmula y leche lo marca la clínica con exactitud."
+  },
+  {
+   "title": "Alimentación",
+   "text": "Pregunta antes cómo darle de comer después de la cirugía: con cuchara, con jeringa o con un biberón especial."
+  }
+ ],
+ "bring": [
+  "Los documentos del niño y los tuyos",
+  "Los resultados de estudios",
+  "El biberón o el utensilio para darle de comer que te indiquen",
+  "Su juguete favorito"
+ ],
+ "steps": [
+  "Le cambian la ropa a tu hijo y lo preparan para la anestesia",
+  "En el quirófano se duerme",
+  "El cirujano une los tejidos del labio o del paladar",
+  "Pone puntos delgados",
+  "Tu hijo despierta y te llaman para estar con él",
+  "A veces le ponen férulas suaves en los brazos para que no se toque los puntos"
+ ],
+ "feel": [
+  "Después de la cirugía le duele. Le dan un analgésico para niños",
+  "El labio o la cara se hinchan por unos días",
+  "Puede estar inquieto y comer peor al principio"
+ ],
+ "after": [
+  "Se le da de comer según el plan del médico, con comida suave o líquida",
+  "Mantén los puntos limpios, como te enseñe la enfermera",
+  "No le des chupón ni juguetes duros en la boca hasta que lo permitan",
+  "Después lo siguen el cirujano, el terapeuta de lenguaje, el otorrino y el ortodoncista"
+ ],
+ "red_flags": [
+  "Tu hijo no bebe y orina poco",
+  "Sangrado de la boca o de los puntos",
+  "Le cuesta respirar o se le ponen morados los labios: llama a emergencias",
+  "Fiebre de más de 38, o se abrieron los puntos"
+ ],
+ "faq": [
+  {
+   "q": "¿Le va a quedar cicatriz?",
+   "a": "Normalmente queda una cicatriz delgada, que se aclara con el tiempo. A veces después se hace una corrección."
+  },
+  {
+   "q": "¿Mi hijo va a hablar bien?",
+   "a": "Casi siempre sí, sobre todo si la cirugía se hace a tiempo y con terapia de lenguaje."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la cirugía de tu hijo. Comida y leche solo hasta la hora exacta que dijo la clínica. Lleva el utensilio para darle de comer."
+  }
+ ]
+}

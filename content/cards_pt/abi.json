@@ -1,0 +1,72 @@
+{
+ "title": "Índice tornozelo-braquial",
+ "also": [
+  "ITB",
+  "índice tornozelo-braço",
+  "pressão nas pernas",
+  "avaliação da circulação das pernas"
+ ],
+ "what": "A enfermeira mede a pressão nos braços e nos tornozelos. Se nas pernas ela estiver bem mais baixa, os vasos das pernas podem estar estreitados.",
+ "why": "Com dor nas pernas ao caminhar, em fumantes, com diabetes ou pressão alta, para avaliar os vasos das pernas.",
+ "duration": "normalmente de 15 a 20 minutos, o resultado normalmente sai na hora",
+ "tell_doctor": [
+  "Dor nas pernas ao caminhar que passa em repouso",
+  "Diabetes e pressão alta",
+  "Se você fuma",
+  "Feridas nas pernas que cicatrizam mal",
+  "Se em algum braço não se pode medir a pressão"
+ ],
+ "prepare": [
+  {
+   "title": "Descanso",
+   "text": "Chegue antes e descanse de 5 a 10 minutos. Antes do teste, não fume e não tome café."
+  },
+  {
+   "title": "Roupa",
+   "text": "Calça ou saia folgada, para deixar os tornozelos à mostra. Meias fáceis de tirar."
+  },
+  {
+   "title": "Comida",
+   "text": "Não precisa de preparo. Pode comer."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios",
+  "Ultrassons anteriores dos vasos das pernas"
+ ],
+ "steps": [
+  "Você fica deitado de barriga para cima por alguns minutos",
+  "Colocam manguitos nos dois braços e nos dois tornozelos",
+  "Com um aparelho pequeno, escutam o pulso no braço e no pé",
+  "O manguito enche e esvazia devagar",
+  "A pressão é medida nos quatro pontos",
+  "O aparelho ou a enfermeira calcula o índice"
+ ],
+ "feel": [
+  "O manguito aperta o braço e a perna por alguns segundos",
+  "Gel geladinho para o aparelho"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "O resultado normalmente sai na hora",
+  "Se o índice estiver alterado, o médico pode pedir ultrassom dos vasos das pernas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Para que medir a pressão nas pernas?",
+   "a": "Se os vasos das pernas estiverem estreitados, a pressão ali fica mais baixa que nos braços. É um jeito simples de achar o problema."
+  },
+  {
+   "q": "Dói?",
+   "a": "Não. É como uma medida de pressão comum."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem índice tornozelo-braquial. De manhã, não fume e não tome café. Vista uma roupa fácil de subir até os joelhos."
+  }
+ ]
+}

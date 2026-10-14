@@ -1,0 +1,69 @@
+{
+ "title": "Exame com dilatação da pupila",
+ "also": [
+  "mapeamento de retina",
+  "exame de fundo de olho",
+  "dilatação da pupila",
+  "fundoscopia"
+ ],
+ "what": "O médico pinga um colírio para a pupila ficar grande. Assim ele vê melhor a retina e o fundo do olho.",
+ "why": "Com diabetes, pressão alta, miopia, queixa de flashes e manchas, ou no exame de rotina.",
+ "duration": "normalmente de 30 a 60 minutos com a espera do colírio; a visão fica embaçada por mais 4 a 6 horas",
+ "tell_doctor": [
+  "Glaucoma ou pressão alta no olho, se você sabe",
+  "Alergia a colírios",
+  "Se você tem diabetes",
+  "Se você usa lentes de contato"
+ ],
+ "prepare": [
+  {
+   "title": "Transporte",
+   "text": "Depois do colírio, você não pode dirigir por algumas horas. Vá com acompanhante ou de táxi."
+  },
+  {
+   "title": "Compromissos",
+   "text": "Por algumas horas vai ser difícil ler e olhar telas. Planeje o dia."
+  }
+ ],
+ "bring": [
+  "Óculos escuros",
+  "Os óculos e o documento",
+  "Um acompanhante, se você costuma dirigir"
+ ],
+ "steps": [
+  "O médico examina a vista e a pressão do olho",
+  "Pingam o colírio",
+  "Você espera de 20 a 40 minutos até a pupila dilatar",
+  "O médico ilumina o olho e olha por uma lente",
+  "Pedem para você olhar para lados diferentes"
+ ],
+ "feel": [
+  "O colírio arde um pouco",
+  "A luz forte no exame incomoda, mas é rápido",
+  "Por algumas horas, a visão de perto fica embaçada e a luz ofusca"
+ ],
+ "after": [
+  "Não dirija até a visão voltar ao normal",
+  "Na rua, use óculos escuros",
+  "Se você usa lentes, coloque-as quando o médico liberar"
+ ],
+ "red_flags": [
+  "Dor forte no olho, dor de cabeça, enjoo e halos coloridos em volta das luzes depois do colírio: procure o oftalmologista com urgência ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Quanto tempo dura a dilatação?",
+   "a": "Normalmente de 4 a 6 horas, às vezes até um dia."
+  },
+  {
+   "q": "Posso trabalhar depois?",
+   "a": "Normalmente pode, mas por algumas horas vai ser difícil ler e olhar telas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o exame com dilatação da pupila. Não planeje dirigir. Leve óculos escuros."
+  }
+ ]
+}

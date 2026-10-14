@@ -1,0 +1,76 @@
+{
+ "title": "Tratamento do glaucoma com laser",
+ "also": [
+  "laser para glaucoma",
+  "trabeculoplastia a laser",
+  "iridotomia a laser",
+  "SLT"
+ ],
+ "what": "Com o laser, o médico ajuda o líquido a sair melhor de dentro do olho. Com isso, a pressão do olho baixa.",
+ "why": "No glaucoma ou na pressão alta no olho, e também quando o ângulo do olho é estreito, para evitar uma crise.",
+ "duration": "o procedimento em si leva normalmente de 5 a 15 minutos, com o preparo cerca de 1 hora",
+ "tell_doctor": [
+  "Quais colírios para glaucoma você usa",
+  "Alergia a colírios",
+  "Doenças do coração e dos pulmões. Alguns colírios afetam essas doenças",
+  "Se já operou os olhos"
+ ],
+ "prepare": [
+  {
+   "title": "Colírios",
+   "text": "Não suspenda seus colírios de glaucoma por conta própria. Pergunte ao médico se é para pingar nesse dia."
+  },
+  {
+   "title": "Transporte",
+   "text": "Depois do procedimento a visão pode ficar embaçada. É melhor ir com acompanhante."
+  }
+ ],
+ "bring": [
+  "Seus colírios",
+  "Documento de identidade",
+  "Óculos escuros",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "O olho é anestesiado com colírio, e às vezes a pupila é contraída ou dilatada",
+  "Você senta no aparelho, com o queixo no suporte",
+  "Uma lente é colocada no olho",
+  "O médico aplica pulsos de laser, e você vê flashes",
+  "A lente é retirada",
+  "Depois de um tempo, medem a pressão do olho"
+ ],
+ "feel": [
+  "Flashes de luz, às vezes estalos",
+  "Um leve desconforto, às vezes dor de cabeça",
+  "A visão fica embaçada por algumas horas"
+ ],
+ "after": [
+  "Colírios, conforme a receita. Seus colírios de sempre, como o médico orientar",
+  "Volte para medir a pressão no prazo",
+  "O efeito do laser é avaliado depois de algumas semanas"
+ ],
+ "red_flags": [
+  "Dor forte no olho, dor de cabeça, enjoo, halos coloridos em volta das luzes: ligue para a emergência ou procure o oftalmologista com urgência",
+  "Piora brusca da visão"
+ ],
+ "faq": [
+  {
+   "q": "Depois do laser posso parar os colírios?",
+   "a": "Às vezes os colírios diminuem, mas quem decide é só o médico."
+  },
+  {
+   "q": "O laser cura o glaucoma?",
+   "a": "O glaucoma é uma doença para a vida toda. O laser ajuda a manter a pressão normal."
+  },
+  {
+   "q": "Precisa repetir?",
+   "a": "Às vezes o efeito diminui com o tempo, e o procedimento é repetido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o laser para glaucoma. Leve seus colírios e óculos escuros."
+  }
+ ]
+}

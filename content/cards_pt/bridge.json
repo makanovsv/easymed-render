@@ -1,0 +1,70 @@
+{
+ "title": "Prótese fixa (ponte)",
+ "also": [
+  "ponte dentária",
+  "ponte fixa",
+  "prótese fixa",
+  "coroa em ponte"
+ ],
+ "what": "A ponte preenche o espaço de um ou mais dentes que foram tirados. Ela se apoia nos dentes vizinhos ou em implantes e não sai.",
+ "why": "Quando faltam um ou dois dentes seguidos, e os dentes vizinhos podem servir de apoio.",
+ "duration": "normalmente de 2 a 3 consultas em 1 a 3 semanas",
+ "tell_doctor": [
+  "Se há dentes ou gengiva com problema",
+  "Se você range os dentes",
+  "Remédios que afinam o sangue",
+  "Alergias",
+  "Se já pensou em implantes"
+ ],
+ "prepare": [
+  {
+   "title": "Tratamento",
+   "text": "Os dentes de apoio são tratados antes. Às vezes é preciso tratamento de canal."
+  },
+  {
+   "title": "Radiografias",
+   "text": "O dentista faz uma radiografia para conferir as raízes dos dentes de apoio."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Radiografias dos dentes, se tiver"
+ ],
+ "steps": [
+  "O dentista examina os dentes e faz uma radiografia",
+  "Com anestesia, os dentes de apoio são desgastados para as coroas",
+  "Fazem a moldagem ou o escaneamento",
+  "Colocam uma ponte provisória",
+  "Depois de um tempo, a ponte definitiva é provada e cimentada",
+  "Conferem a mordida e explicam os cuidados"
+ ],
+ "feel": [
+  "Com anestesia, o desgaste não dói",
+  "Nos primeiros dias, a ponte é estranha, e os dentes podem reagir ao frio"
+ ],
+ "after": [
+  "Limpe embaixo da ponte com fio especial ou irrigador",
+  "Não morda coisas muito duras",
+  "Consulta a cada 6 meses"
+ ],
+ "red_flags": [
+  "A ponte está mole ou descolou",
+  "Dor forte no dente de apoio, gengiva inchada"
+ ],
+ "faq": [
+  {
+   "q": "Por que a ponte é pior que o implante?",
+   "a": "Para a ponte, os dentes vizinhos são desgastados. O implante não mexe neles, mas precisa de cirurgia. O dentista ajuda a escolher."
+  },
+  {
+   "q": "Quanto tempo dura a ponte?",
+   "a": "Normalmente muitos anos, com bom cuidado. É importante limpar embaixo dela todos os dias."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta da prótese. Coma antes. Vai ter anestesia."
+  }
+ ]
+}

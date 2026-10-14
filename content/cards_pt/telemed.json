@@ -1,0 +1,74 @@
+{
+ "title": "Consulta médica online",
+ "also": [
+  "teleconsulta",
+  "telemedicina",
+  "consulta por vídeo",
+  "médico online"
+ ],
+ "what": "Uma conversa com o médico por vídeo ou chat. O médico pergunta, olha seus exames e dá orientações.",
+ "why": "Para discutir resultados, ter uma segunda opinião, ajustar o tratamento ou saber se precisa de consulta presencial.",
+ "duration": "normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "O que incomoda e desde quando",
+  "Todos os remédios e alergias",
+  "Doenças crônicas",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Conexão",
+   "text": "Confira a internet, a bateria do celular, a câmera e o microfone."
+  },
+  {
+   "title": "Lugar",
+   "text": "Encontre um lugar tranquilo e iluminado, onde ninguém interrompa."
+  },
+  {
+   "title": "Documentos",
+   "text": "Envie antes ou fotografe os exames e laudos."
+  }
+ ],
+ "bring": [
+  "Exames e laudos no celular ou no computador",
+  "Lista de remédios",
+  "Lista de perguntas",
+  "Termômetro ou aparelho de pressão, se o médico pediu"
+ ],
+ "steps": [
+  "Você entra pelo link no horário marcado",
+  "O médico se apresenta e pergunta sobre as queixas",
+  "Você mostra os exames, às vezes o local que dói na câmera",
+  "O médico explica o que acha",
+  "Dá orientações ou recomenda consulta presencial",
+  "Normalmente o parecer é enviado por escrito"
+ ],
+ "feel": [
+  "É uma conversa comum",
+  "O médico não pode examinar você com as mãos. Por isso às vezes é preciso uma consulta presencial"
+ ],
+ "after": [
+  "Guarde o parecer",
+  "Se piorar, vá a uma consulta presencial",
+  "O que pode ser receitado online depende das regras do país"
+ ],
+ "red_flags": [
+  "Dor no peito, falta de ar forte, fraqueza no braço ou no rosto: não espere a consulta, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O médico online pode dar diagnóstico?",
+   "a": "Depende das regras do país. Muitas vezes o médico dá orientações, e o diagnóstico exato é feito na consulta presencial."
+  },
+  {
+   "q": "E se a conexão cair?",
+   "a": "Entre de novo pelo mesmo link ou escreva para o suporte da clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Daqui a uma hora é a consulta online. Confira a internet e deixe prontos os exames e a lista de perguntas."
+  }
+ ]
+}

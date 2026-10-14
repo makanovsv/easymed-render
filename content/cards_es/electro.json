@@ -1,0 +1,75 @@
+{
+ "title": "Iontoforesis",
+ "also": [
+  "iontoforesis",
+  "electroforesis con medicamento",
+  "galvanoterapia",
+  "fisioterapia con corriente"
+ ],
+ "what": "Una corriente eléctrica suave ayuda a que el medicamento pase por la piel hasta la zona que lo necesita. Se ponen sobre el cuerpo almohadillas húmedas con electrodos.",
+ "why": "En dolores de articulaciones y espalda, después de lesiones o con inflamación, como parte del tratamiento que indica el médico. También se usa en niños.",
+ "duration": "el procedimiento suele durar de 10 a 20 minutos; el programa, normalmente unas 10 sesiones; el médico decide cuántas",
+ "tell_doctor": [
+  "Si tienes marcapasos o metal en esa zona",
+  "Si estás embarazada",
+  "Si tienes fiebre",
+  "Alergias a medicamentos",
+  "Heridas, ronchas o raspones en la piel de la zona",
+  "Enfermedades oncológicas"
+ ],
+ "prepare": [
+  {
+   "title": "Piel",
+   "text": "Piel limpia, sin crema ni heridas."
+  },
+  {
+   "title": "Comida",
+   "text": "No llegues con hambre ni justo después de una comida pesada."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir la zona. Quítate las joyas de esa zona."
+  }
+ ],
+ "bring": [
+  "La indicación del médico",
+  "El medicamento, si la clínica te pidió llevar el tuyo",
+  "Una toalla, si te la piden"
+ ],
+ "steps": [
+  "Te acuestas o te sientas cómodo",
+  "Ponen en la piel almohadillas húmedas, a veces con medicamento",
+  "Encima ponen los electrodos y los sujetan",
+  "La enfermera prende el aparato y sube la corriente poco a poco",
+  "Te quedas quieto hasta que termine",
+  "Quitan las almohadillas y te secan la piel"
+ ],
+ "feel": [
+  "Un hormigueo o cosquilleo ligero",
+  "No debe arder. Si arde, díselo de inmediato a la enfermera"
+ ],
+ "after": [
+  "Bajo los electrodos puede quedar un poco rojo. Se quita solo",
+  "No te frotes ni te mojes la piel justo después",
+  "Ve a tus sesiones según el calendario. Importa completar el programa"
+ ],
+ "red_flags": [
+  "Quemadura, ampolla o enrojecimiento fuerte en la piel: enséñaselo al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele?",
+   "a": "No. Normalmente solo se siente un hormigueo ligero."
+  },
+  {
+   "q": "¿Se puede en niños?",
+   "a": "Sí, también se hace en niños si lo indica el médico. Para ellos la corriente se ajusta más baja."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Hoy es tu sesión de iontoforesis. La piel sin crema, y lleva la indicación del médico."
+  }
+ ]
+}

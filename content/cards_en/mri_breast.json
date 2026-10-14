@@ -1,0 +1,76 @@
+{
+ "title": "Breast MRI",
+ "also": [
+  "breast MRI",
+  "contrast breast MRI",
+  "MR mammography"
+ ],
+ "what": "Images of the breasts in a magnetic field, with contrast dye into a vein. No radiation.",
+ "why": "To clarify findings after a mammogram and ultrasound, for a high family risk, with breast implants, or before surgery.",
+ "duration": "usually 20 to 40 minutes; the report in 1 to 3 days",
+ "tell_doctor": [
+  "A pacemaker, defibrillator, or other implant with electronics",
+  "Metal in your body: joint replacements, plates, clips on blood vessels, or shrapnel",
+  "If you are or might be pregnant",
+  "If you are afraid of closed spaces. Your doctor will suggest ways to help",
+  "If you have breast implants",
+  "If you are breastfeeding"
+ ],
+ "prepare": [
+  {
+   "title": "Cycle day",
+   "text": "Best on day 7 to 14 of your cycle. After menopause, any day. Ask your doctor."
+  },
+  {
+   "title": "Contrast",
+   "text": "If contrast is ordered, a creatinine test is sometimes needed. Usually no food for 2 to 4 hours. Check with the clinic."
+  },
+  {
+   "title": "Metal",
+   "text": "Take off everything metal: jewelry, watches, hair clips, piercings. Leave your phone and cards in the locker."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past mammograms, breast ultrasounds, and MRIs",
+  "A creatinine test, if asked"
+ ],
+ "steps": [
+  "You undress to the waist and leave metal in the locker",
+  "An IV line is put in a vein in your arm",
+  "You lie on your stomach with your breasts in a special coil with openings",
+  "Your head rests on a support, with your arms forward or at your sides",
+  "The machine knocks loudly. You get headphones or earplugs",
+  "Lie still. Staff talk to you over an intercom",
+  "Halfway through, contrast is given and more images are taken"
+ ],
+ "feel": [
+  "It does not hurt, but it is loud and tight",
+  "Lying on your stomach can be uncomfortable. Say so, and pillows will be added",
+  "With contrast: a cool feeling in the vein"
+ ],
+ "after": [
+  "You can go back to your day right away",
+  "After contrast, drink more water, unless your doctor said otherwise",
+  "Take the report to a breast specialist"
+ ],
+ "red_flags": [
+  "After contrast: itching, a rash, a swollen face, or trouble breathing. Tell the staff right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why does the cycle day matter?",
+   "a": "In the second half of the cycle, breast tissue changes and takes up more contrast. The images are less accurate."
+  },
+  {
+   "q": "Can I breastfeed after contrast?",
+   "a": "Usually yes. If unsure, ask your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Breast MRI tomorrow. Bring past mammograms and ultrasounds, and take off jewelry."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Oximetria noturna",
+ "also": [
+  "oximetria noturna",
+  "oxigênio durante o sono",
+  "saturação durante a noite",
+  "investigação de ronco"
+ ],
+ "what": "À noite, em casa, você dorme com um sensor pequeno no dedo. Ele registra o oxigênio no sangue e o pulso a noite toda.",
+ "why": "Com ronco, paradas na respiração durante o sono, sono durante o dia, doenças do pulmão e do coração ou para ajustar o oxigênio.",
+ "duration": "uma noite em casa. O laudo sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Se você ronca e se tem paradas na respiração",
+  "Se toma remédio para dormir ou calmante",
+  "Se usa oxigênio à noite",
+  "Se tem doenças do pulmão ou do coração"
+ ],
+ "prepare": [
+  {
+   "title": "Unhas",
+   "text": "Tire o esmalte e a unha postiça do dedo onde vai o sensor."
+  },
+  {
+   "title": "À noite",
+   "text": "Sem álcool e sem café em excesso à noite."
+  },
+  {
+   "title": "Sono",
+   "text": "Durma como sempre, na sua cama."
+  }
+ ],
+ "bring": [
+  "O aparelho e as instruções que a clínica entregar",
+  "Pedido médico",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Na clínica, entregam o aparelho e mostram como colocar",
+  "Antes de dormir, você coloca o sensor no dedo",
+  "Liga o aparelho e vai dormir como sempre",
+  "Se o sensor cair à noite, coloque de novo",
+  "De manhã, tire e desligue",
+  "Devolva o aparelho à clínica"
+ ],
+ "feel": [
+  "Não dói. O sensor é só um prendedor",
+  "No começo, é estranho dormir com ele"
+ ],
+ "after": [
+  "Devolva o aparelho no prazo que a clínica indicar",
+  "O laudo sai normalmente em 1 a 3 dias",
+  "Se precisar, o médico sugere um estudo do sono completo"
+ ],
+ "red_flags": [
+  "Falta de ar forte, lábios roxos, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "E se o sensor cair à noite?",
+   "a": "Coloque de novo. Pequenas pausas normalmente não atrapalham, mas avise a clínica."
+  },
+  {
+   "q": "Isso substitui o estudo do sono?",
+   "a": "Não totalmente. É um primeiro passo simples. Às vezes depois é preciso um estudo do sono completo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoje à noite você faz a oximetria. Tire o esmalte do dedo, coloque o sensor antes de dormir e ligue o aparelho."
+  }
+ ]
+}

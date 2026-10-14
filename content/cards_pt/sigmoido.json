@@ -1,0 +1,75 @@
+{
+ "title": "Retossigmoidoscopia",
+ "also": [
+  "retossigmoidoscopia",
+  "sigmoidoscopia",
+  "exame do reto",
+  "retoscopia"
+ ],
+ "what": "O médico examina o reto e a parte final do intestino grosso com um tubo com câmera ou luz. Dá para tirar um pedacinho de tecido para análise.",
+ "why": "Com sangue nas fezes, dor e coceira no ânus, mudança no intestino, antes de tratar hemorroidas ou como rastreamento.",
+ "duration": "o exame em si leva normalmente de 10 a 20 minutos. O laudo sai na hora, e a biópsia em 5 a 10 dias",
+ "tell_doctor": [
+  "Remédios que afinam o sangue e remédios com ferro",
+  "Diabetes",
+  "Doenças do coração",
+  "Alergias a remédios e a látex"
+ ],
+ "prepare": [
+  {
+   "title": "Limpeza",
+   "text": "Normalmente faz-se uma lavagem intestinal na noite anterior e de manhã, ou um miniclister. O esquema, a clínica informa."
+  },
+  {
+   "title": "Comida",
+   "text": "Na véspera, jantar leve, sem verduras, frutas e feijões. De manhã, pode não tomar café ou fazer um café leve. Confirme."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Fale com o médico, ele decide."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos de colonoscopias anteriores",
+  "Lista dos seus remédios"
+ ],
+ "steps": [
+  "Você tira a roupa da cintura para baixo ou veste um short descartável",
+  "Deita do lado esquerdo, com os joelhos perto do peito",
+  "Primeiro, o médico examina o ânus com o dedo",
+  "Depois, coloca o tubo com lubrificante e manda um pouco de ar",
+  "Examina as paredes do intestino no monitor",
+  "Se precisar, tira um pedacinho de tecido. Isso não dói"
+ ],
+ "feel": [
+  "Estufamento e vontade de ir ao banheiro. É por causa do ar",
+  "É desagradável, mas normalmente dá para aguentar",
+  "Se doer, avise o médico"
+ ],
+ "after": [
+  "Os gases saem em até uma hora",
+  "Você pode comer logo depois",
+  "Se tiraram material, pode sair um pouco de sangue nas fezes por 1 a 2 dias"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, barriga dura, febre: ligue para a emergência",
+  "Sangue pelo ânus em coágulos ou que não para: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Qual a diferença para a colonoscopia?",
+   "a": "A retossigmoidoscopia vê só a parte final do intestino, e o preparo é mais simples. A colonoscopia vê o intestino grosso inteiro."
+  },
+  {
+   "q": "Dá para fazer dormindo?",
+   "a": "Normalmente é feita sem sedação, porque é rápida. Confirme com a clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a retossigmoidoscopia. Hoje à noite, faça a lavagem ou o preparo conforme o esquema da clínica."
+  }
+ ]
+}

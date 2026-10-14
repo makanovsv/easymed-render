@@ -1,0 +1,72 @@
+{
+ "title": "Exame parasitológico de fezes",
+ "also": [
+  "parasitológico de fezes",
+  "exame de fezes para vermes",
+  "pesquisa de ovos e parasitas",
+  "EPF",
+  "exame de verminose"
+ ],
+ "what": "Você colhe um pouco de fezes em casa num frasco especial. No laboratório, procuram no microscópio ovos de vermes e protozoários.",
+ "why": "Para atestados de creche, escola ou piscina, ou com dor de barriga, coceira, intestino irregular e falta de apetite.",
+ "duration": "a coleta em casa leva poucos minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Se toma ou tomou há pouco tempo remédio para vermes ou antibiótico",
+  "Se fez há pouco tempo raio-X com contraste",
+  "Se toma laxante"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Pegue no laboratório ou na farmácia um frasco estéril com pazinha. Às vezes o frasco vem com um líquido. Não jogue fora."
+  },
+  {
+   "title": "Coleta",
+   "text": "As fezes devem ser de evacuação natural, sem lavagem e sem laxante. A urina não pode cair no frasco."
+  },
+  {
+   "title": "Conservação",
+   "text": "Leve ao laboratório no mesmo dia, normalmente em algumas horas. Confirme as regras com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma."
+  }
+ ],
+ "bring": [
+  "Frasco com a amostra",
+  "Pedido médico",
+  "Documento com foto"
+ ],
+ "steps": [
+  "Evacue num recipiente limpo e seco ou num saco plástico, não na água do vaso",
+  "Com a pazinha da tampa, pegue um pouco das fezes de vários pontos",
+  "Encha o frasco até mais ou menos um terço",
+  "Feche bem e escreva seu nome",
+  "Leve ao laboratório no prazo indicado"
+ ],
+ "feel": [
+  "Nada desagradável, só um pouco de constrangimento"
+ ],
+ "after": [
+  "O resultado sai normalmente em 1 a 3 dias",
+  "Às vezes o médico pede 2 ou 3 amostras. Assim a chance de achar parasitas é maior"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O exame não achou nada. Por que o médico pede para repetir?",
+   "a": "Os ovos não saem todos os dias. Por isso, às vezes, o exame é feito algumas vezes, com intervalo."
+  },
+  {
+   "q": "Posso colher à noite e entregar de manhã?",
+   "a": "Depende do laboratório e do tipo de frasco. Confirme antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você entrega o exame de fezes para parasitas. Separe o frasco e um recipiente ou saco limpo."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "title": "Resección transuretral de próstata",
+ "also": [
+  "RTU de próstata",
+  "RTUP",
+  "cirugía de próstata",
+  "operación de próstata crecida"
+ ],
+ "what": "Por la uretra, el cirujano quita la parte de la próstata crecida que no te deja orinar bien. No hay cortes en la piel.",
+ "why": "Cuando la próstata está crecida, cuesta orinar y los medicamentos no ayudan, o si ya no pudiste orinar en algún momento.",
+ "duration": "la cirugía suele durar de 1 hora a 1 hora y media; en el hospital normalmente de 2 a 5 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Tus alergias",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Si tienes una sonda en la vejiga",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre y orina, electrocardiograma, ultrasonido y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Normalmente se usa anestesia raquídea o general. El anestesiólogo platicará contigo cuál conviene."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda, pantuflas, el cargador y los medicamentos que tomas siempre."
+  }
+ ],
+ "bring": [
+  "La orden médica y los análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital para varios días"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "Te ponen la anestesia: no sientes de la cintura para abajo, o duermes",
+  "El cirujano mete un instrumento delgado con cámara por la uretra",
+  "Quita el tejido de más de la próstata en pedacitos",
+  "Al final pone una sonda en la vejiga",
+  "Por la sonda lavan la vejiga; la orina puede salir rosada"
+ ],
+ "feel": [
+  "Ganas de orinar por la sonda. Es normal",
+  "Ardor al orinar los primeros días después de quitar la sonda",
+  "Después de la anestesia general, sueño"
+ ],
+ "after": [
+  "La sonda normalmente se quita en 1 a 3 días",
+  "Toma mucha agua, si el médico no te dijo otra cosa",
+  "Un poco de sangre en la orina puede durar unas semanas",
+  "Sin cargar cosas pesadas, sin bicicleta y sin relaciones sexuales, normalmente de 4 a 6 semanas",
+  "Muchas veces la eyaculación se vuelve seca. Es lo esperado"
+ ],
+ "red_flags": [
+  "La orina sale roja brillante o con coágulos",
+  "No puedes orinar",
+  "Fiebre de más de 38 o escalofríos",
+  "Dolor fuerte en la parte baja del abdomen: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Voy a tener incontinencia después de la cirugía?",
+   "a": "Al principio puedes tener ganas de orinar muy seguido. Normalmente se quita en unas semanas. Ayudan los ejercicios del piso pélvico."
+  },
+  {
+   "q": "¿Qué es un orgasmo seco?",
+   "a": "El semen se va a la vejiga en vez de salir. Las sensaciones normalmente se conservan y no es peligroso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de próstata. Junta tus cosas, documentos y la lista de medicamentos. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Consulta do bebê com 1 mês",
+ "also": [
+  "consulta de 1 mês",
+  "puericultura de 1 mês",
+  "consulta de rotina do bebê",
+  "primeiro mês no pediatra"
+ ],
+ "what": "É a consulta de rotina do bebê com um mês. O médico vê como ele está crescendo e se desenvolvendo.",
+ "why": "Para todas as crianças com 1 mês, conforme o calendário de acompanhamento.",
+ "duration": "a consulta com o pediatra leva normalmente de 20 a 30 minutos; se houver especialistas e ultrassom, mais",
+ "tell_doctor": [
+  "Como o bebê se alimenta: peito, fórmula ou os dois",
+  "Como dorme e com que frequência evacua",
+  "Se golfa ou chora muito",
+  "Tudo o que preocupa você"
+ ],
+ "prepare": [
+  {
+   "title": "Mamada",
+   "text": "Alimente o bebê pouco antes da consulta, para ele ficar mais tranquilo."
+  },
+  {
+   "title": "Coisas",
+   "text": "Cueiro, fralda, lenços, mamadeira se usar fórmula."
+  },
+  {
+   "title": "Horário",
+   "text": "Confirme se nesse dia há outros médicos ou ultrassom."
+  }
+ ],
+ "bring": [
+  "Documentos do bebê",
+  "A caderneta de saúde e a carteira de vacinação",
+  "Cueiro e fralda",
+  "A lista de perguntas"
+ ],
+ "steps": [
+  "A enfermagem pesa o bebê e mede a altura e a cabeça",
+  "O pediatra examina a pele, a moleira e a barriga",
+  "Ausculta o coração e os pulmões e testa os reflexos",
+  "Às vezes encaminham a especialistas ou ao ultrassom",
+  "Se o calendário pedir uma vacina, ela é discutida",
+  "O médico dá orientações sobre cuidados e alimentação"
+ ],
+ "feel": [
+  "O bebê pode chorar ao tirar a roupa. É normal",
+  "O exame não dói"
+ ],
+ "after": [
+  "A próxima consulta costuma ser com 2 meses",
+  "Os resultados do ultrassom e os pareceres, o pediatra explica",
+  "Vacinas, conforme o calendário. As datas, o médico diz"
+ ],
+ "red_flags": [
+  "O bebê está molinho e recusa a comida: ligue para a emergência",
+  "Febre acima de 38 graus num bebê com menos de 3 meses: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Quanto o bebê deve ganhar em um mês?",
+   "a": "Varia. O médico avalia o ganho pelas tabelas e por como o bebê está."
+  },
+  {
+   "q": "Para que ultrassom com um mês?",
+   "a": "Em alguns países, nessa idade se examinam a cabeça, a barriga e o quadril. Confirme com o pediatra."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta do bebê de 1 mês. Leve os documentos, o cueiro e a lista de perguntas."
+  }
+ ]
+}

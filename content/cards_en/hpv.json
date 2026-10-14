@@ -1,0 +1,72 @@
+{
+ "title": "HPV test",
+ "also": [
+  "HPV test",
+  "human papillomavirus test",
+  "high-risk HPV test",
+  "cervical screening"
+ ],
+ "what": "The gynecologist takes a sample from your cervix with a soft brush. The lab checks it for human papillomavirus.",
+ "why": "To help prevent cervical cancer, usually from age 30; for abnormal Pap test results; before and after cervical treatment.",
+ "duration": "the sample takes 1 to 2 minutes; results usually come in a few days",
+ "tell_doctor": [
+  "The date of your last period",
+  "If you are or might be pregnant",
+  "If your cervix was treated recently",
+  "If HPV or an abnormal smear was found before"
+ ],
+ "prepare": [
+  {
+   "title": "Periods",
+   "text": "The sample is not taken during your period. Mid-cycle is best."
+  },
+  {
+   "title": "2 days before",
+   "text": "No sex, douching, vaginal suppositories, creams, or tampons."
+  },
+  {
+   "title": "Exam",
+   "text": "If a colposcopy is planned, the sample is usually taken before it."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "Past smear results, if you have them"
+ ],
+ "steps": [
+  "You undress below the waist and sit in the exam chair",
+  "The doctor inserts a speculum to see the cervix",
+  "A soft brush is moved over the cervix for a few seconds",
+  "The brush is placed in a tube with liquid",
+  "The speculum is removed, and you can get dressed"
+ ],
+ "feel": [
+  "Pressure and mild discomfort from the speculum",
+  "Sometimes a brief cramping pain low in the belly"
+ ],
+ "after": [
+  "A little spotting the same day is normal",
+  "Results usually come in a few days. The lab will tell you when",
+  "If HPV is found, your doctor will tell you if you need a Pap test or a colposcopy"
+ ],
+ "red_flags": [
+  "Heavy bleeding or severe pain low in the belly after the test: see a doctor"
+ ],
+ "faq": [
+  {
+   "q": "Does finding HPV mean cancer?",
+   "a": "No. HPV is common and usually goes away by itself. Your doctor keeps watch to catch any changes early."
+  },
+  {
+   "q": "How often should I have an HPV test?",
+   "a": "Usually every few years if the result is normal. Your doctor will tell you how often."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "HPV test in 2 days. Starting today, no sex, suppositories, creams, or douching."
+  }
+ ]
+}

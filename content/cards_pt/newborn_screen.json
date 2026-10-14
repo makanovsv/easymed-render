@@ -1,0 +1,68 @@
+{
+ "title": "Teste do pezinho",
+ "also": [
+  "teste do pezinho",
+  "triagem neonatal",
+  "exame do pezinho",
+  "triagem do recém-nascido"
+ ],
+ "what": "Colhem algumas gotas de sangue do calcanhar do bebê num papel especial. O exame procura doenças congênitas raras que precisam ser tratadas logo.",
+ "why": "Para todos os recém-nascidos, normalmente na maternidade ou no posto entre o 2º e o 5º dia de vida. Em prematuros, às vezes mais tarde.",
+ "duration": "alguns minutos, o resultado sai normalmente em 1 a 3 semanas",
+ "tell_doctor": [
+  "Se o bebê nasceu prematuro ou recebeu transfusão de sangue",
+  "Se o bebê está com alimentação especial ou soro na veia",
+  "O seu endereço e telefone certos. Por eles avisam se precisar repetir"
+ ],
+ "prepare": [
+  {
+   "title": "Mamada",
+   "text": "Normalmente a coleta é feita algumas horas depois da mamada. A enfermeira indica o horário."
+  },
+  {
+   "title": "Calor",
+   "text": "Pezinhos quentes dão sangue mais rápido. Coloque meias no bebê."
+  },
+  {
+   "title": "Você por perto",
+   "text": "Você pode segurar o bebê no colo ou ficar ao lado. Pergunte à enfermeira."
+  }
+ ],
+ "bring": [
+  "Documentos do bebê e da mãe, se a coleta não for na maternidade",
+  "Pedido médico, se for repetição"
+ ],
+ "steps": [
+  "Aquecem e limpam o pezinho do bebê",
+  "Fazem um furinho no calcanhar com uma lanceta pequena",
+  "Encostam as gotas de sangue nos círculos do papel",
+  "Apertam um algodão no local",
+  "O papel seca e vai para o laboratório"
+ ],
+ "feel": [
+  "O bebê pode chorar. A picada é rápida",
+  "Mamar no peito, chupeta ou colo logo depois ajudam a acalmar"
+ ],
+ "after": [
+  "A marquinha no calcanhar some em poucos dias",
+  "Se estiver tudo bem, normalmente ninguém liga",
+  "Se precisar repetir, vão ligar. Isso nem sempre quer dizer doença"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ligaram pedindo para repetir. Isso é ruim?",
+   "a": "Não necessariamente. Muitas vezes é por pouco sangue no papel ou coleta muito cedo. Repita o quanto antes."
+  },
+  {
+   "q": "Para quais doenças é esse exame?",
+   "a": "Para algumas doenças congênitas raras do metabolismo e dos hormônios. Tratadas cedo, a criança cresce saudável."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o teste do pezinho. Coloque meias no bebê para os pés ficarem quentinhos."
+  }
+ ]
+}

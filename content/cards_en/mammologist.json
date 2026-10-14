@@ -1,0 +1,70 @@
+{
+ "title": "Breast specialist visit",
+ "also": [
+  "breast specialist",
+  "breast clinic",
+  "clinical breast exam",
+  "breast doctor"
+ ],
+ "what": "The doctor looks at and feels your breasts and armpits. If needed, an ultrasound or mammogram is ordered.",
+ "why": "If you feel a lump, have breast pain or nipple discharge, or for a routine check.",
+ "duration": "usually 15 to 30 minutes; you get the findings right away",
+ "tell_doctor": [
+  "What bothers you, and since when",
+  "The date your last period started",
+  "If blood relatives had breast or ovarian cancer",
+  "What hormone medicines you take",
+  "If you are breastfeeding or pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Best timing",
+   "text": "Usually days 5 to 12 of your cycle, when the breasts are less swollen. After menopause, any day. Check with the clinic."
+  },
+  {
+   "title": "Before the visit",
+   "text": "Do not put cream or deodorant on your breasts or armpits."
+  },
+  {
+   "title": "Clothes",
+   "text": "A two-piece outfit is easiest. You only need to take off your top."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past breast ultrasounds and mammograms, if you have them",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks about your concerns and health",
+  "You undress to the waist",
+  "The doctor looks at your breasts standing and sitting, sometimes with your arms raised",
+  "Then your breasts and armpits are felt while you lie down",
+  "The doctor explains the findings and orders tests if needed"
+ ],
+ "feel": [
+  "The exam is usually painless",
+  "If your breasts are tender, it may be uncomfortable. Tell the doctor"
+ ],
+ "after": [
+  "If an ultrasound or mammogram was ordered, book it on a good day of your cycle",
+  "Check your breasts yourself once a month at home. Your doctor will show you how"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "At what age should I start seeing a breast specialist?",
+   "a": "Regular routine checks are usually advised, and mammograms from age 40. If you have symptoms, at any age."
+  },
+  {
+   "q": "Is a breast lump always dangerous?",
+   "a": "No. Most lumps are benign. But you must show it to a doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Breast specialist visit tomorrow. Bring past scans, and do not use cream or deodorant in the morning."
+  }
+ ]
+}

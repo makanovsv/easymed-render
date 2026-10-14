@@ -1,0 +1,72 @@
+{
+ "title": "Progesterona",
+ "also": [
+  "progesterona",
+  "hormônio da gravidez",
+  "exame de ovulação"
+ ],
+ "what": "É um exame de sangue colhido da veia. Pelo nível de progesterona, o médico vê se houve ovulação e como está a segunda metade do ciclo.",
+ "why": "No planejamento da gravidez, com infertilidade, menstruação irregular e, às vezes, no começo da gravidez.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Como costuma ser o seu ciclo e quando foi a última menstruação",
+  "Se usa hormônios ou anticoncepcional",
+  "Se você está grávida ou pode estar"
+ ],
+ "prepare": [
+  {
+   "title": "Dia do ciclo",
+   "text": "Normalmente cerca de 7 dias antes da menstruação esperada. Num ciclo de 28 dias, por volta do 21º dia. O dia exato quem diz é o médico."
+  },
+  {
+   "title": "Comida",
+   "text": "De preferência de manhã, em jejum ou algumas horas depois de uma refeição leve. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "No dia anterior, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Diga ao médico o que você toma. Ele decide se algo precisa mudar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Anotações das menstruações dos últimos meses"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos, sem dobrar o braço",
+  "Você já pode comer e voltar à rotina",
+  "O resultado sai normalmente em 1 a 3 dias. O prazo quem informa é o laboratório"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que a progesterona não é medida no começo do ciclo?",
+   "a": "Ela sobe depois da ovulação. Por isso o exame é feito na segunda metade do ciclo."
+  },
+  {
+   "q": "E se o meu ciclo é irregular?",
+   "a": "Avise o médico. Ele indica o dia ou pede o exame algumas vezes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem exame de progesterona. Confira o dia do ciclo que o médico indicou. De manhã, é melhor ir em jejum."
+  }
+ ]
+}

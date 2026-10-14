@@ -1,0 +1,73 @@
+{
+ "title": "Acne consultation",
+ "also": [
+  "acne treatment",
+  "acne",
+  "pimples",
+  "dermatologist for acne",
+  "breakouts"
+ ],
+ "what": "A dermatologist examines your skin, finds out what causes the pimples, and chooses treatment. It is a regular visit with no painful procedures.",
+ "why": "When pimples do not go away, leave marks, hurt, or affect your life.",
+ "duration": "the visit usually takes 20 to 30 minutes; treatment usually shows results in 6 to 12 weeks",
+ "tell_doctor": [
+  "What skin products and medicines you have already tried",
+  "All medicines you take, including hormones",
+  "Pregnancy or plans for pregnancy. This matters for choosing treatment",
+  "Irregular periods, or facial hair growth in women",
+  "Allergies"
+ ],
+ "prepare": [
+  {
+   "title": "Skin",
+   "text": "Come without makeup, so the doctor can see your skin."
+  },
+  {
+   "title": "Products",
+   "text": "Take photos of the products you use or bring them."
+  },
+  {
+   "title": "Do not squeeze",
+   "text": "For a few days before the visit, do not squeeze pimples or have any skin procedures."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your skin products and medicines",
+  "Test results, if you already had tests"
+ ],
+ "steps": [
+  "The doctor asks when the pimples started and what helped",
+  "The doctor checks your face, and sometimes your back and chest",
+  "If needed, tests are ordered",
+  "Treatment and skin care are chosen",
+  "The doctor explains how to use the products",
+  "A follow-up visit is booked"
+ ],
+ "feel": [
+  "The visit does not hurt",
+  "At the start of treatment, the skin may get dry, flaky, or red. Tell your doctor"
+ ],
+ "after": [
+  "Use the products regularly, as your doctor said",
+  "Do not expect results right away. It usually takes 6 to 12 weeks",
+  "Come to the follow-up visit so the treatment can be adjusted"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why did my skin get worse with treatment?",
+   "a": "In the first weeks, the skin may react with irritation. Do not stop on your own. Tell your doctor, and they will adjust it."
+  },
+  {
+   "q": "Do I need to change my diet?",
+   "a": "Sometimes the doctor suggests looking at your diet. But regular treatment that the doctor chooses matters most."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Dermatologist visit soon. Come without makeup and bring a list of the products you use."
+  }
+ ]
+}

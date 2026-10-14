@@ -1,0 +1,72 @@
+{
+ "title": "Kidney CT scan (for stones)",
+ "also": [
+  "kidney stone CT",
+  "CT KUB",
+  "CT urogram",
+  "low-dose CT for kidney stones"
+ ],
+ "what": "Quick cross-section images of your kidneys and urinary tract. Even very small stones show up.",
+ "why": "For kidney colic, blood in the urine, possible stones, or to check after stone treatment.",
+ "duration": "usually 5 to 10 minutes in the room; the report the same day, quickly if you have colic",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "If contrast is ordered: any allergy to iodine or contrast dye, kidney disease, and diabetes",
+  "If stones were found before"
+ ],
+ "prepare": [
+  {
+   "title": "Without contrast",
+   "text": "Usually no prep. Sometimes you are asked to come with a full bladder. Check with the clinic."
+  },
+  {
+   "title": "With contrast",
+   "text": "Usually no food for 3 to 4 hours. Water is fine. A creatinine blood test is often needed."
+  },
+  {
+   "title": "Clothing",
+   "text": "No metal on the belly or lower back."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past kidney ultrasounds and CT scans",
+  "A creatinine test, if asked"
+ ],
+ "steps": [
+  "You lie on the table, and the technician helps you get comfortable",
+  "The table moves into the wide ring of the scanner",
+  "Keep still, and sometimes hold your breath on command",
+  "If contrast is used, it goes into a vein and images are taken with pauses"
+ ],
+ "feel": [
+  "It does not hurt. The scanner hums quietly",
+  "The ring is wide, so it does not feel cramped",
+  "With contrast: warmth through the body and a feeling as if you wet yourself. This is normal and passes quickly"
+ ],
+ "after": [
+  "You can go back to your day right away",
+  "Drink water, unless your doctor limited it",
+  "Take the report to a urologist"
+ ],
+ "red_flags": [
+  "Severe pain in your side that does not go away, a fever over 38°C (100.4°F), chills, or vomiting: call emergency services",
+  "After contrast: itching, a rash, a swollen face, or trouble breathing. Tell the staff right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why CT and not ultrasound for stones?",
+   "a": "CT sees almost all stones, even small ones, and shows their exact size. Ultrasound is done first, CT for accuracy."
+  },
+  {
+   "q": "Is there a lot of radiation?",
+   "a": "A lower dose is often used for stones. Your doctor orders CT when the benefit outweighs the risk."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Kidney CT soon. If contrast is used, do not eat for 3 to 4 hours. Water is fine."
+  }
+ ]
+}

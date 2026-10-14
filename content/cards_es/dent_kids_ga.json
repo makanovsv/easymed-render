@@ -1,0 +1,88 @@
+{
+ "title": "Tratamiento dental infantil con anestesia general",
+ "also": [
+  "dentista para niños con anestesia general",
+  "odontopediatría bajo anestesia",
+  "tratamiento dental del niño dormido",
+  "anestesia general en el dentista"
+ ],
+ "what": "Tu hijo duerme con anestesia general y el médico le trata todos los dientes enfermos en una sola vez. El anestesiólogo está a su lado todo el tiempo.",
+ "why": "Cuando hay muchos dientes enfermos, el niño es muy pequeño o no puede estar tranquilo en el sillón.",
+ "duration": "el tratamiento suele durar de 1 a 3 horas, y después un rato más en la clínica mientras despierta",
+ "tell_doctor": [
+  "Si tu hijo estuvo enfermo en las últimas 2 semanas: mocos, tos o fiebre",
+  "Todos sus medicamentos y alergias",
+  "Enfermedades crónicas o del corazón",
+  "Si tu hijo o algún familiar tuvo problemas con la anestesia",
+  "Si ronca o deja de respirar dormido"
+ ],
+ "prepare": [
+  {
+   "title": "Revisión",
+   "text": "Antes de la anestesia, normalmente lo revisa el pediatra y se necesitan análisis. La clínica te da la lista."
+  },
+  {
+   "title": "Comida y bebida",
+   "text": "La clínica te dirá exactamente la hora de la última comida, leche y agua. Respétala al pie de la letra. Es importante para su seguridad."
+  },
+  {
+   "title": "Ánimo",
+   "text": "Dile con calma que va a dormir un rato y que cuando despierte vas a estar a su lado."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, una muda extra y su juguete favorito."
+  }
+ ],
+ "bring": [
+  "Los documentos de tu hijo y tu identificación",
+  "El certificado del pediatra y los análisis",
+  "Pañal, ropa de cambio y agua para después",
+  "Su juguete favorito"
+ ],
+ "steps": [
+  "El anestesiólogo te pregunta sobre tu hijo y lo revisa",
+  "Normalmente puedes estar a su lado mientras se duerme",
+  "Se duerme con una mascarilla o con medicamento en la vena",
+  "El médico trata los dientes y el anestesiólogo vigila todo el tiempo su respiración y su corazón",
+  "Tu hijo despierta en la sala y te llaman para estar con él",
+  "Descansan en la clínica hasta que el médico los deje ir a casa"
+ ],
+ "feel": [
+  "Al despertar puede llorar, estar inquieto o confundido. Normalmente se pasa rápido",
+  "Puede tener sueño o náuseas",
+  "Las encías pueden dolerle un poco"
+ ],
+ "after": [
+  "El resto del día, en calma y con un adulto a su lado en casa",
+  "Que beba y coma cuando lo permita el médico, empezando con agua y comida suave",
+  "Cuida que no se muerda los labios ni las mejillas dormidos",
+  "Llévalo a la revisión cuando te diga el médico"
+ ],
+ "red_flags": [
+  "A tu hijo le cuesta respirar o se le ponen morados los labios: llama a emergencias",
+  "Cuesta despertarlo o está muy decaído: llama a emergencias",
+  "Vomita varias veces seguidas o tiene fiebre de más de 38",
+  "La sangre de la boca no se detiene"
+ ],
+ "faq": [
+  {
+   "q": "¿La anestesia es peligrosa para un niño?",
+   "a": "La anestesia moderna normalmente se tolera bien. El anestesiólogo evalúa los riesgos y te explica todo."
+  },
+  {
+   "q": "¿Puedo estar con él?",
+   "a": "Casi siempre sí, mientras se duerme y cuando despierta. Pregunta en la clínica."
+  },
+  {
+   "q": "¿Por qué no puede comer antes de la anestesia?",
+   "a": "Con el estómago vacío no pasa comida a los pulmones mientras duerme."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es el tratamiento dental con anestesia. La última comida y bebida de tu hijo, solo a la hora exacta que dijo la clínica."
+  }
+ ]
+}

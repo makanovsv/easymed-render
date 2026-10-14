@@ -1,0 +1,74 @@
+{
+ "title": "NIPT (non-invasive prenatal test)",
+ "also": [
+  "NIPT",
+  "cell-free DNA test",
+  "prenatal DNA screening",
+  "Down syndrome blood test"
+ ],
+ "what": "Blood is taken from the mother's vein. It contains the baby's DNA, which is used to estimate the risk of some chromosome conditions.",
+ "why": "Usually from 10 weeks of pregnancy, to estimate the risk of Down syndrome and other chromosome conditions, especially if screening showed a high risk.",
+ "duration": "the blood draw takes 3 to 5 minutes; results usually come in 7 to 14 days",
+ "tell_doctor": [
+  "Exactly how far along you are",
+  "If you are carrying twins or conceived through IVF",
+  "If you had a blood transfusion or an organ transplant",
+  "If genetic conditions run in your family"
+ ],
+ "prepare": [
+  {
+   "title": "Timing",
+   "text": "Usually done no earlier than 10 weeks. Your doctor or clinic will tell you when."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no fasting is needed. Check with the clinic."
+  },
+  {
+   "title": "Clothing",
+   "text": "Wear a sleeve that is easy to roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "Ultrasound results showing how far along you are"
+ ],
+ "steps": [
+  "You fill out a form: weeks of pregnancy, height, weight, and pregnancy details",
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow, and the skin is wiped",
+  "Blood is drawn into a special tube",
+  "The needle comes out, and a cotton pad is pressed on"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "The test is safe for the baby. Blood is taken only from the mother"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Results usually come in 7 to 14 days",
+  "If the risk is high, your doctor will offer more tests. NIPT is not a final diagnosis"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can NIPT harm the baby?",
+   "a": "No. Only the mother's blood is taken from a vein, like a regular test."
+  },
+  {
+   "q": "If NIPT is fine, can I skip the ultrasound screening?",
+   "a": "No. The ultrasound shows something else: how the organs are developing. Your doctor usually orders both."
+  },
+  {
+   "q": "Can I find out the baby's sex?",
+   "a": "Many tests show it. Ask the clinic if you want to know."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "NIPT tomorrow. Bring your ultrasound results showing how far along you are."
+  }
+ ]
+}

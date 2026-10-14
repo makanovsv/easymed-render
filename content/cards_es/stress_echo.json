@@ -1,0 +1,81 @@
+{
+ "title": "Ecocardiograma de estrés",
+ "also": [
+  "eco de estrés",
+  "ecocardiograma de esfuerzo",
+  "ecocardiograma con estrés farmacológico",
+  "eco estrés en banda"
+ ],
+ "what": "El médico hace un ultrasonido del corazón en reposo y justo después de un esfuerzo: en la caminadora, en la bicicleta o con un medicamento. Así se ve si al corazón le llega suficiente sangre cuando trabaja.",
+ "why": "Con dolor de pecho, para revisar las arterias del corazón; después de un tratamiento de las arterias; o para ver las válvulas con esfuerzo.",
+ "duration": "normalmente de 45 a 60 minutos; el reporte suele estar el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos para el corazón y la presión. El médico te dirá si hay que saltarse alguno",
+  "Dolor de pecho, falta de aire o desmayos",
+  "Problemas de articulaciones que no te dejen caminar o pedalear",
+  "Asma. Es importante si el esfuerzo se hará con medicamento",
+  "Diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Una comida ligera 2 a 3 horas antes. No vayas con hambre ni demasiado lleno."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Algunos medicamentos del corazón a veces se dejan por un tiempo. No los suspendas por tu cuenta. Lo decide el médico."
+  },
+  {
+   "title": "Café y cigarro",
+   "text": "El día de la prueba, normalmente sin café, té cargado ni cigarro. Pregunta en la clínica."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa deportiva y zapatos cómodos para caminar."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus electrocardiogramas y ecocardiogramas anteriores",
+  "La lista de tus medicamentos",
+  "Tenis y agua",
+  "Una toalla"
+ ],
+ "steps": [
+  "Te pegan electrodos en el pecho y te ponen un brazalete para la presión",
+  "El médico hace el ultrasonido del corazón en reposo",
+  "Caminas en la banda o pedaleas, y el esfuerzo sube poco a poco",
+  "A veces, en lugar del ejercicio, te ponen un medicamento en la vena",
+  "Justo después del esfuerzo te acuestas y el médico repite el ultrasonido rápido",
+  "Después descansas hasta que el pulso y la presión se normalicen"
+ ],
+ "feel": [
+  "Te vas a cansar, y el pulso y la respiración se aceleran. Es lo esperado",
+  "Avisa de inmediato si sientes dolor de pecho, mucha falta de aire o mareo. Detendrán la prueba"
+ ],
+ "after": [
+  "Después de descansar puedes seguir con tu día",
+  "El reporte suele estar el mismo día",
+  "Platica el resultado con el cardiólogo"
+ ],
+ "red_flags": [
+  "Dolor de pecho que no se quita después de la prueba: avísale de inmediato al médico o llama a emergencias",
+  "Desmayo, mucha falta de aire o latidos irregulares"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligroso para el corazón?",
+   "a": "La prueba se hace con un médico presente y con todo listo para ayudar. El esfuerzo se detiene a la primera señal."
+  },
+  {
+   "q": "¿Y si no puedo caminar mucho?",
+   "a": "Avisa antes. El esfuerzo se puede hacer con medicamento, sin caminar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu ecocardiograma de estrés. Lleva tenis y la lista de tus medicamentos. Pregunta en la clínica si en la mañana debes evitar el café."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Tratamento da gengiva (raspagem)",
+ "also": [
+  "raspagem",
+  "raspagem subgengival",
+  "tratamento de periodontite",
+  "limpeza profunda da gengiva",
+  "tratamento periodontal"
+ ],
+ "what": "Com anestesia, o dentista limpa o espaço entre o dente e a gengiva, as bolsas. De lá são retirados o tártaro e a placa, que inflamam a gengiva.",
+ "why": "Com periodontite: a gengiva sangra, se afasta dos dentes, há bolsas, mau hálito, e os dentes começam a ficar moles.",
+ "duration": "cada consulta leva normalmente de 40 a 90 minutos. Muitas vezes o tratamento é feito por partes, em várias consultas",
+ "tell_doctor": [
+  "Diabetes",
+  "Remédios que afinam o sangue. Não suspenda por conta própria, o dentista decide",
+  "Doenças do coração, principalmente válvulas artificiais",
+  "Se você fuma",
+  "Gravidez e alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Antes da consulta",
+   "text": "Normalmente, primeiro, é feita a limpeza profissional dos dentes."
+  },
+  {
+   "title": "Comida",
+   "text": "Coma antes. Depois do procedimento, vai ficar dormente por algumas horas."
+  },
+  {
+   "title": "Cigarro",
+   "text": "Se você fuma, tente não fumar no dia do procedimento e depois. A gengiva cicatriza pior."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Radiografias dos dentes, se tiver"
+ ],
+ "steps": [
+  "O dentista mede a profundidade das bolsas",
+  "Aplicam a anestesia",
+  "Com instrumentos especiais, limpam as raízes dos dentes embaixo da gengiva",
+  "As bolsas são lavadas",
+  "Às vezes colocam um curativo na gengiva",
+  "Explicam como cuidar em casa"
+ ],
+ "feel": [
+  "Com anestesia, pressão e raspagem, mas não dor",
+  "Depois, a gengiva dói de 1 a 3 dias",
+  "Os dentes podem ficar mais sensíveis ao frio"
+ ],
+ "after": [
+  "Faça bochechos como o dentista indicou",
+  "Escova macia e escovação com cuidado",
+  "Por alguns dias, sem comida muito quente, apimentada e dura",
+  "Retorno em algumas semanas. O dentista mede as bolsas de novo"
+ ],
+ "red_flags": [
+  "Inchaço forte, febre",
+  "Sangramento que não passa"
+ ],
+ "faq": [
+  {
+   "q": "Por que os dentes parecem mais compridos depois da limpeza?",
+   "a": "A inflamação foi embora, o inchaço baixou, e a gengiva voltou ao nível real."
+  },
+  {
+   "q": "A periodontite tem cura?",
+   "a": "A inflamação pode ser controlada. Mas é preciso um bom cuidado em casa e consultas regulares."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o tratamento da gengiva. Coma antes e tente não fumar hoje."
+  }
+ ]
+}

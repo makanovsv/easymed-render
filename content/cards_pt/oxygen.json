@@ -1,0 +1,68 @@
+{
+ "title": "Oxigenoterapia",
+ "also": [
+  "oxigênio",
+  "máscara de oxigênio",
+  "cateter nasal de oxigênio",
+  "concentrador de oxigênio"
+ ],
+ "what": "Você respira ar com mais oxigênio por um cateter no nariz ou uma máscara. Assim o sangue fica com mais oxigênio.",
+ "why": "Quando há pouco oxigênio no sangue: com pneumonia, doenças do pulmão e do coração ou depois de cirurgias. Às vezes o oxigênio é usado também em casa.",
+ "duration": "de algumas horas a uso contínuo. Quem diz é o médico",
+ "tell_doctor": [
+  "Se você fuma. Perto do oxigênio não se pode fumar",
+  "Doenças crônicas do pulmão",
+  "Se o nariz resseca ou as orelhas doem pelo cateter"
+ ],
+ "prepare": [
+  {
+   "title": "Segurança",
+   "text": "O oxigênio aumenta o fogo. Perto dele, não se fuma, não se acende vela nem fogão, e não se usam cremes oleosos no rosto."
+  },
+  {
+   "title": "Fluxo",
+   "text": "Quanto oxigênio usar, quem decide é o médico. Não mude o fluxo por conta própria."
+  }
+ ],
+ "bring": [
+  "Lista de remédios",
+  "Hidratante labial à base de água. O nariz e os lábios podem ressecar"
+ ],
+ "steps": [
+  "A enfermeira escolhe o cateter ou a máscara",
+  "O cateter fica no nariz e é preso atrás das orelhas",
+  "Ligam o oxigênio com o fluxo que o médico indicou",
+  "Colocam um sensor no dedo, que mostra o nível de oxigênio",
+  "Respire normalmente, pelo nariz ou pela boca"
+ ],
+ "feel": [
+  "Um fluxo leve de ar no nariz",
+  "O nariz e a boca podem ressecar",
+  "O cateter às vezes machuca atrás das orelhas"
+ ],
+ "after": [
+  "O nível de oxigênio é conferido regularmente",
+  "O fluxo é diminuído aos poucos, quando você melhora",
+  "Se o oxigênio for para casa, vão mostrar como usar o aparelho"
+ ],
+ "red_flags": [
+  "A falta de ar piora, os lábios ficam roxos, confusão ou sono forte: ligue para a emergência",
+  "Em casa, o aparelho parou e sem oxigênio você passa mal: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O corpo fica viciado em oxigênio?",
+   "a": "Não, não vicia. O oxigênio é usado enquanto o corpo precisa."
+  },
+  {
+   "q": "Posso comer e falar com o cateter no nariz?",
+   "a": "Sim, o cateter no nariz não atrapalha."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Confira o oxigênio: fluxo como o médico indicou, e nada de fogo ou cigarro por perto."
+  }
+ ]
+}

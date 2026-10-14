@@ -1,0 +1,72 @@
+{
+ "title": "Check-up depois dos 60",
+ "also": [
+  "check-up do idoso",
+  "consulta preventiva do idoso",
+  "avaliação geriátrica",
+  "check-up depois dos 60"
+ ],
+ "what": "É uma avaliação de saúde de rotina para quem tem mais de 60 anos. O médico olha pressão, açúcar, coração, memória, visão e risco de quedas.",
+ "why": "Uma vez por ano ou conforme o calendário, para perceber doenças cedo e ajustar os remédios.",
+ "duration": "normalmente 1 a 2 consultas; os exames saem em 1 a 3 dias",
+ "tell_doctor": [
+  "Todos os remédios que você toma, inclusive ervas e suplementos",
+  "Se teve quedas ou tontura",
+  "Se piorou a memória, o sono, a audição ou a visão",
+  "Doenças crônicas e cirurgias"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Coloque todas as caixas de remédios numa sacola e leve com você."
+  },
+  {
+   "title": "Exames",
+   "text": "O sangue normalmente é colhido de manhã, em jejum. Água pura pode. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios da manhã",
+   "text": "Não suspenda por conta própria. Pergunte ao médico se toma os remédios da manhã antes dos exames."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Todos os remédios ou a lista deles",
+  "Exames e laudos anteriores",
+  "Óculos e aparelho auditivo, se tiver"
+ ],
+ "steps": [
+  "Você colhe sangue e urina",
+  "A enfermagem mede pressão, peso e altura",
+  "Fazem eletrocardiograma e outros exames da lista",
+  "O médico pergunta como você está e sobre os remédios",
+  "Faz algumas perguntas sobre memória e humor",
+  "Conversa com você sobre os resultados e o plano"
+ ],
+ "feel": [
+  "Normalmente nada desagradável, além da picada na coleta de sangue",
+  "Pode cansar. Leve água e um lanche"
+ ],
+ "after": [
+  "O médico pode ajustar os remédios. Não mude por conta própria",
+  "Se precisar, encaminham a especialistas",
+  "Converse com o médico sobre as vacinas para idosos"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que levar todos os remédios?",
+   "a": "O médico confere se não se repetem e se combinam entre si. Com a idade, isso é ainda mais importante."
+  },
+  {
+   "q": "Posso ir com um familiar?",
+   "a": "Sim, muitas vezes ajuda. O familiar guarda as orientações do médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o check-up. Leve todos os remédios e o documento. De manhã, exames em jejum. Água pode."
+  }
+ ]
+}

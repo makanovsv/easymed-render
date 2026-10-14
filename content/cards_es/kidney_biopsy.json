@@ -1,0 +1,78 @@
+{
+ "title": "Biopsia de riñón",
+ "also": [
+  "biopsia renal",
+  "biopsia renal percutánea",
+  "punción de riñón"
+ ],
+ "what": "Con una aguja delgada, por un piquete en la espalda, el médico toma un pedacito de riñón para analizarlo. Se hace con anestesia local y guiado con ultrasonido.",
+ "why": "Cuando hay proteína o sangre en la orina, los riñones funcionan mal y hay que saber la causa exacta; a veces después de un trasplante de riñón.",
+ "duration": "el procedimiento suele durar de 20 a 40 minutos, después reposo en cama varias horas, muchas veces una noche en el hospital; el resultado suele estar en 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico decidirá si hay que cambiar algo",
+  "Presión alta. Hay que bajarla antes",
+  "Alergias, también a anestésicos locales",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Antes de la biopsia se revisan la coagulación, análisis de sangre y orina, y la presión."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes de 6 a 8 horas antes. Pregunta en la clínica."
+  },
+  {
+   "title": "Hospital",
+   "text": "Casi siempre, después de la biopsia de riñón te quedas un día en el hospital. Lleva tus cosas."
+  }
+ ],
+ "bring": [
+  "La orden médica, tus análisis y estudios de los riñones",
+  "La lista de tus medicamentos",
+  "Tus cosas para un día en el hospital"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena",
+  "Te acuestas boca abajo con un cojín bajo el abdomen",
+  "El médico elige el lugar en la espalda con ultrasonido",
+  "Limpian la piel y la adormecen con una inyección",
+  "Te piden aguantar la respiración unos segundos",
+  "Con una aguja delgada toman un pedacito de tejido, a veces 2 o 3 veces",
+  "Ponen un vendaje apretado"
+ ],
+ "feel": [
+  "Piquete y ardor con la anestesia",
+  "Un clic y presión cuando toman el tejido",
+  "Después puede doler la espalda baja"
+ ],
+ "after": [
+  "Varias horas te quedas acostado boca arriba sin moverte. Así hay menos riesgo de sangrado",
+  "Toma agua y fíjate en el color de la orina",
+  "La primera vez la orina puede salir un poco rosada",
+  "De 1 a 2 semanas sin cargar cosas pesadas ni hacer deporte. Pregunta al médico"
+ ],
+ "red_flags": [
+  "Orina rojo intenso o con coágulos: llama a emergencias",
+  "Dolor fuerte en la espalda baja o el abdomen, mareo o debilidad: llama a emergencias",
+  "No puedes orinar",
+  "Fiebre de más de 38"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué tengo que estar acostado tanto tiempo?",
+   "a": "El riñón tiene mucha sangre. El reposo ayuda a que el piquete se cierre."
+  },
+  {
+   "q": "¿El riñón funcionará peor después de la biopsia?",
+   "a": "No. Se toma un pedacito muy pequeño y no afecta cómo trabaja el riñón."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu biopsia de riñón. Prepara tus cosas para un día en el hospital. Come solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

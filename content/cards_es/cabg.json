@@ -1,0 +1,86 @@
+{
+ "title": "Cirugía de bypass coronario",
+ "also": [
+  "bypass coronario",
+  "revascularización coronaria",
+  "cirugía de puentes coronarios",
+  "bypass del corazón"
+ ],
+ "what": "El cirujano toma un vaso de la pierna, el brazo o la pared del pecho y lo cose para rodear la arteria estrecha del corazón. La sangre llega al corazón por un camino nuevo.",
+ "why": "Cuando varias arterias del corazón están muy estrechas y los stents no sirven o no van a ayudar.",
+ "duration": "la cirugía suele durar de 3 a 6 horas; en el hospital normalmente de 7 a 10 días, de ellos 1 o 2 en terapia intensiva",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y los de la diabetes. El médico te dirá cuáles dejar y cuándo",
+  "Tus alergias",
+  "Enfermedades de los riñones, de los pulmones o diabetes",
+  "Si fumas. Mejor déjalo lo antes posible",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis, electrocardiograma, ecocardiograma, cateterismo y a veces ultrasonido de los vasos de las piernas y del cuello. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía platicarán contigo el anestesiólogo y el cirujano. Haz todas tus preguntas."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Casa",
+   "text": "Ponte de acuerdo antes con quién te ayudará en casa las primeras semanas."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de estudios",
+  "Tus documentos y la lista de medicamentos",
+  "Ropa cómoda que se abra por delante",
+  "Tus cosas para el hospital para 1 a 2 semanas"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen catéteres",
+  "El anestesiólogo te pone la anestesia y te duermes",
+  "El cirujano abre el esternón; a veces el corazón se conecta a una máquina de circulación extracorpórea",
+  "Toman los vasos para los puentes de la pierna, el brazo o la pared del pecho",
+  "Cosen los puentes para rodear las arterias estrechas",
+  "Cierran el esternón con alambre y cosen la herida",
+  "Despiertas en terapia intensiva, a veces con un tubo para respirar"
+ ],
+ "feel": [
+  "Después de la anestesia hay debilidad y sueño",
+  "Dolor en el pecho por la herida. Te dan analgésicos",
+  "Puede costar toser y respirar profundo. Te enseñan ejercicios"
+ ],
+ "after": [
+  "Empiezas a levantarte desde los primeros días",
+  "Por unas semanas no cargues cosas pesadas ni te apoyes en los brazos. Hay que cuidar el esternón",
+  "La recuperación suele tomar de 2 a 3 meses, muchas veces con rehabilitación cardiaca",
+  "Toma los medicamentos exactamente como te indicó el médico",
+  "Sin fumar"
+ ],
+ "red_flags": [
+  "Dolor en el pecho como antes de la cirugía: llama a emergencias",
+  "Falta de aire fuerte: llama a emergencias",
+  "Fiebre de más de 38, o enrojecimiento o secreción en la herida",
+  "Chasquidos o sientes que el esternón se mueve"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto duran los puentes?",
+   "a": "Normalmente muchos años. Duran más si no fumas y controlas la presión y el colesterol."
+  },
+  {
+   "q": "¿Cuándo puedo volver a mi vida normal?",
+   "a": "Las actividades ligeras en unas semanas; el trabajo y manejar, normalmente en 1 a 3 meses. El médico te dirá los plazos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía del corazón. Junta tus documentos, cosas y la lista de medicamentos. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

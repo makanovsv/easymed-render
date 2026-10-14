@@ -1,0 +1,68 @@
+{
+ "title": "Injeção na veia",
+ "also": [
+  "injeção na veia",
+  "injeção intravenosa",
+  "injeção EV"
+ ],
+ "what": "O remédio é aplicado com seringa direto na veia, normalmente na dobra do cotovelo. Ele age rápido.",
+ "why": "Quando o remédio precisa agir rápido ou não funciona em comprimido ou injeção no músculo, conforme a receita médica.",
+ "duration": "normalmente de 2 a 5 minutos",
+ "tell_doctor": [
+  "Alergias a remédios",
+  "Remédios que afinam o sangue",
+  "Se já passou mal ou desmaiou com injeção",
+  "Se suas veias são difíceis de achar"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente é melhor não ir em jejum, se o médico não disser diferente."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Receita médica",
+  "O remédio, se você mesmo comprou"
+ ],
+ "steps": [
+  "Você se senta ou se deita",
+  "Colocam o garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "A enfermeira coloca a agulha na veia",
+  "Tiram o garrote e aplicam o remédio devagar",
+  "Retiram a agulha e colocam um algodão"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes dá calor ou um gosto na boca pelo remédio. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Normalmente pedem para ficar sentado de 10 a 15 minutos depois da injeção",
+  "Um roxinho pode aparecer e some sozinho"
+ ],
+ "red_flags": [
+  "Inchaço no rosto ou nos lábios, dificuldade para respirar, manchas, fraqueza súbita: ligue para a emergência",
+  "O braço ficou vermelho, inchado e dolorido ao longo da veia"
+ ],
+ "faq": [
+  {
+   "q": "Por que o remédio é aplicado devagar?",
+   "a": "Muitos remédios causam mal-estar quando entram rápido. Devagar é mais seguro."
+  },
+  {
+   "q": "Posso ir embora logo depois?",
+   "a": "Normalmente pedem para ficar de 10 a 15 minutos sentado. Assim dá para ver se o remédio caiu mal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a injeção na veia. Vista uma roupa com manga fácil de dobrar e coma algo, se o médico não disser diferente."
+  }
+ ]
+}

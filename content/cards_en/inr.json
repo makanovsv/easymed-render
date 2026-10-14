@@ -1,0 +1,74 @@
+{
+ "title": "INR test on warfarin",
+ "also": [
+  "INR test",
+  "PT/INR",
+  "prothrombin time",
+  "warfarin blood test",
+  "clotting test"
+ ],
+ "what": "This blood test shows how fast your blood clots. Your doctor uses it to set your warfarin dose.",
+ "why": "Regularly while you take warfarin: more often at the start, then usually every few weeks.",
+ "duration": "the blood draw takes a few minutes; results usually come the same day",
+ "tell_doctor": [
+  "Your warfarin dose and when you take it",
+  "If you missed a pill or took an extra one",
+  "If you started any new medicines, antibiotics, or herbs",
+  "If your diet changed a lot, especially greens and vegetables",
+  "If you drank alcohol or were ill"
+ ],
+ "prepare": [
+  {
+   "title": "Warfarin",
+   "text": "Take it as usual, at your usual time. Do not change the dose yourself before the test."
+  },
+  {
+   "title": "Food",
+   "text": "Usually you do not need to fast, but it is best in the morning before a big breakfast. Check with your clinic."
+  },
+  {
+   "title": "Records",
+   "text": "Keep a log: date, dose, and INR result. Bring it with you."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "Your INR and warfarin dose log"
+ ],
+ "steps": [
+  "Blood is taken from a vein, or sometimes from a fingertip with a quick-test device",
+  "From a vein: a band is tightened and there is a quick prick",
+  "From a finger: a small prick, and a drop of blood is taken",
+  "A cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch"
+ ],
+ "after": [
+  "Press the cotton pad longer, 5 to 10 minutes. On warfarin, bleeding stops more slowly",
+  "Your doctor will tell you the result and your new dose",
+  "Write the result in your log"
+ ],
+ "red_flags": [
+  "Black stools, blood in urine or vomit, or a nosebleed that will not stop: call emergency services",
+  "A sudden severe headache, or weakness in an arm or leg: call emergency services",
+  "Many bruises for no reason: see a doctor in the next few days"
+ ],
+ "faq": [
+  {
+   "q": "How often do I need an INR test?",
+   "a": "Often at first, while the dose is being set. Then usually every few weeks. Your doctor will give you a schedule."
+  },
+  {
+   "q": "Can I eat greens on warfarin?",
+   "a": "Yes, but about the same amount every day. Sudden diet changes change your INR."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "INR test tomorrow. Take warfarin as usual. Bring your dose log."
+  }
+ ]
+}

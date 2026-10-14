@@ -1,0 +1,75 @@
+{
+ "title": "Cortisol",
+ "also": [
+  "cortisol",
+  "cortisol en sangre",
+  "hormona del estrés",
+  "cortisol sérico"
+ ],
+ "what": "Es un análisis de sangre de la vena. Muestra el nivel de cortisol, una hormona que producen las glándulas suprarrenales.",
+ "why": "Si se sospecha una enfermedad de las suprarrenales, con cambios bruscos de peso o de presión, o con mucha debilidad.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Si usas hormonas: pastillas, inyecciones, cremas o inhaladores",
+  "Si tomas pastillas anticonceptivas",
+  "Si trabajas de noche o tu sueño está desordenado",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Hora",
+   "text": "El cortisol cambia durante el día. Normalmente la sangre se toma en la mañana, a la hora que indique el médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente en ayunas: de 8 a 12 horas sin comer. Puedes tomar agua natural. Pregunta en el laboratorio."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Sin alcohol, sin ejercicio intenso y sin fumar. Trata de dormir bien."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas y él decidirá si hay que cambiar algo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "Antes de la toma, siéntate tranquilo de 15 a 30 minutos. En el laboratorio te dirán",
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve y la sangre llena el tubo",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un ligero mareo. Avísale a la enfermera"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos, sin doblar el brazo",
+  "Puedes comer de inmediato y seguir con tu día",
+  "El resultado suele estar en 1 a 3 días. En el laboratorio te dirán cuándo",
+  "A veces el médico pide también cortisol en saliva o en orina"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué importa la hora del análisis?",
+   "a": "En la mañana hay más cortisol y en la noche menos. El médico compara el resultado con lo normal para esa hora."
+  },
+  {
+   "q": "¿Los nervios afectan el resultado?",
+   "a": "Sí, el estrés sube el cortisol. Por eso te piden descansar antes de la toma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana en la mañana es tu análisis de cortisol. Acuéstate temprano y no comas después de la cena. Llega a la hora que te dio el médico."
+  }
+ ]
+}

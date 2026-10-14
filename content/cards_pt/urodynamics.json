@@ -1,0 +1,81 @@
+{
+ "title": "Estudo urodinâmico",
+ "also": [
+  "urodinâmica",
+  "exame urodinâmico",
+  "estudo urodinâmico completo",
+  "cistometria"
+ ],
+ "what": "Um aparelho mede como a bexiga enche e esvazia. Para isso, uma sonda fina com sensor é colocada na bexiga.",
+ "why": "Com perda de urina, vontade frequente de urinar, jato fraco, ou antes de cirurgias na bexiga ou na próstata.",
+ "duration": "normalmente de 30 a 60 minutos, com laudo normalmente no mesmo dia",
+ "tell_doctor": [
+  "Quais remédios você toma, principalmente para a bexiga. O médico decide se precisa pausar",
+  "Se agora você tem dor ou ardência ao urinar",
+  "Alergias, inclusive a látex",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Diário",
+   "text": "Muitas vezes pedem para anotar por 2 a 3 dias quando e quanto você bebe e urina. Confirme com a clínica."
+  },
+  {
+   "title": "Exame de urina",
+   "text": "Muitas vezes é preciso um exame de urina recente, para descartar infecção."
+  },
+  {
+   "title": "Bexiga",
+   "text": "Vá com a bexiga cheia. No começo vão pedir para você urinar num aparelho especial."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda por conta própria. Se o médico pedir uma pausa, ele diz por quanto tempo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Diário miccional",
+  "Exame de urina",
+  "Roupa íntima extra"
+ ],
+ "steps": [
+  "Você urina num vaso especial, que mede o jato",
+  "Você deita ou senta numa cadeira",
+  "Uma sonda fina com sensor é colocada na bexiga, e outra no reto",
+  "A bexiga é enchida devagar com um líquido estéril",
+  "Você avisa o médico quando sentir vontade de urinar",
+  "No final, você urina, e o aparelho registra a pressão"
+ ],
+ "feel": [
+  "Desconforto ao colocar as sondas",
+  "Vontade forte de urinar no fim do enchimento. É assim mesmo",
+  "Às vezes constrangimento. A equipe está acostumada"
+ ],
+ "after": [
+  "Beba mais água nesse dia, se o médico não disser outra coisa",
+  "Ardência leve ao urinar por 1 a 2 dias pode acontecer",
+  "O médico conversa com você sobre os resultados na consulta"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, calafrios",
+  "Você não consegue urinar",
+  "Sangue na urina por mais de um dia"
+ ],
+ "faq": [
+  {
+   "q": "Vai doer?",
+   "a": "Normalmente não. As sondas são finas. Pode ser desconfortável e constrangedor, mas é rápido."
+  },
+  {
+   "q": "E se escapar urina durante o exame?",
+   "a": "É normal e até necessário para o exame. A equipe está preparada."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o estudo urodinâmico. Leve o diário miccional e vá com a bexiga cheia."
+  }
+ ]
+}

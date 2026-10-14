@@ -1,0 +1,69 @@
+{
+ "title": "Oxygen therapy",
+ "also": [
+  "oxygen therapy",
+  "nasal cannula",
+  "oxygen mask",
+  "oxygen concentrator",
+  "home oxygen"
+ ],
+ "what": "You breathe air with extra oxygen through small tubes in your nose or a mask. This raises the oxygen in your blood.",
+ "why": "When your blood oxygen is low: with pneumonia, lung or heart disease, or after surgery. Sometimes oxygen is also prescribed for home.",
+ "duration": "from a few hours to constant use, as your doctor decides",
+ "tell_doctor": [
+  "If you smoke. No smoking near oxygen",
+  "Long-term lung conditions",
+  "If your nose gets dry or your ears hurt from the tubes"
+ ],
+ "prepare": [
+  {
+   "title": "Safety",
+   "text": "Oxygen makes fire burn stronger. No smoking, candles, or gas flames nearby, and no greasy creams on your face."
+  },
+  {
+   "title": "Flow rate",
+   "text": "Your doctor decides how much oxygen to give. Do not change the flow yourself."
+  }
+ ],
+ "bring": [
+  "A list of your medicines",
+  "A water-based lip balm. Your nose and lips may get dry"
+ ],
+ "steps": [
+  "The nurse chooses the nasal tubes or a mask",
+  "The tubes go into your nose and loop behind your ears",
+  "The oxygen is turned on at the flow your doctor prescribed",
+  "A sensor is clipped on your finger. It shows your oxygen level",
+  "Breathe as usual, through your nose or mouth"
+ ],
+ "feel": [
+  "A light flow of air in your nose",
+  "Your nose and mouth may get dry",
+  "The tubes sometimes rub behind your ears"
+ ],
+ "after": [
+  "Your oxygen level is checked regularly",
+  "The flow is lowered step by step as you get better",
+  "If oxygen is prescribed for home, you will be shown how to use the device"
+ ],
+ "red_flags": [
+  "Shortness of breath gets worse, blue lips, confusion, or strong drowsiness: call emergency services",
+  "At home, the device stops working and you feel unwell without oxygen: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I get addicted to oxygen?",
+   "a": "No, there is no addiction. Oxygen is given for as long as your body needs it."
+  },
+  {
+   "q": "Can I eat and talk with tubes in my nose?",
+   "a": "Yes. Nasal tubes do not get in the way."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Check your oxygen: flow as your doctor set, and no fire or cigarettes nearby."
+  }
+ ]
+}

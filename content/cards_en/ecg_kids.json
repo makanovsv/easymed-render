@@ -1,0 +1,75 @@
+{
+ "title": "ECG for children",
+ "also": [
+  "child ECG",
+  "pediatric ECG",
+  "kids' EKG",
+  "ECG for school or sports"
+ ],
+ "what": "A nurse records your child's heart activity with sticky pads called electrodes. It is quick, safe, and painless.",
+ "why": "At a routine checkup, before sports, kindergarten, or school, or for a heart murmur, fainting, or a racing heart.",
+ "duration": "usually 5 to 10 minutes; the report is often ready the same day",
+ "tell_doctor": [
+  "What bothers your child, if anything",
+  "What medicines your child takes",
+  "If your child has fainted",
+  "If heart problems run in the family"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "None needed. Your child can eat and drink."
+  },
+  {
+   "title": "Clothing",
+   "text": "Comfortable clothes, so the chest, forearms, and lower legs are easy to uncover."
+  },
+  {
+   "title": "Skin",
+   "text": "Do not put cream on the chest on the day of the ECG."
+  },
+  {
+   "title": "Mindset",
+   "text": "Tell your child: the stickers will feel cold, but it will not hurt."
+  }
+ ],
+ "bring": [
+  "The referral",
+  "Past ECGs, if you have them",
+  "A sheet for a baby",
+  "A toy, to distract your child"
+ ],
+ "steps": [
+  "Your child lies on the couch, and you stay close",
+  "Suction cups or stickers are put on the arms, legs, and chest",
+  "Your child is asked to lie still and not talk",
+  "The recording takes 1 to 2 minutes",
+  "The electrodes are removed"
+ ],
+ "feel": [
+  "Cold stickers. It does not hurt",
+  "Babies sometimes cry, and the recording is repeated once they calm down"
+ ],
+ "after": [
+  "You can go back to your usual day right away",
+  "The doctor's report is usually ready the same day",
+  "Go over the results with your pediatrician"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why does a child's ECG look different from an adult's?",
+   "a": "Children have different normal values. The pulse is faster, and much that is unusual in adults is normal for a child."
+  },
+  {
+   "q": "If my child cries, will the recording be ruined?",
+   "a": "It might. Then they wait until your child calms down and record again."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Your child's ECG is tomorrow. No prep needed. Dress your child comfortably and do not put cream on the chest."
+  }
+ ]
+}

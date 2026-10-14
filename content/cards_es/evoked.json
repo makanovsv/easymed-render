@@ -1,0 +1,72 @@
+{
+ "title": "Potenciales evocados",
+ "also": [
+  "potenciales evocados",
+  "potenciales evocados visuales",
+  "potenciales evocados auditivos",
+  "potenciales evocados somatosensoriales"
+ ],
+ "what": "El médico te muestra imágenes, te pone sonidos o pequeños impulsos en el brazo o la pierna. Los electrodos en la cabeza registran qué tan rápido llega la señal al cerebro.",
+ "why": "Con problemas de la vista, del oído o de la sensibilidad, si se sospecha una enfermedad del sistema nervioso, o para revisar los nervios.",
+ "duration": "normalmente de 30 a 90 minutos; el reporte suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Si usas lentes o lentes de contacto",
+  "Si tienes problemas para oír",
+  "Qué medicamentos tomas",
+  "Si tienes marcapasos"
+ ],
+ "prepare": [
+  {
+   "title": "Cabello",
+   "text": "Lávate el cabello la noche anterior, sin aceite ni spray."
+  },
+  {
+   "title": "Lentes",
+   "text": "Lleva tus lentes o lentes de contacto, si los usas."
+  },
+  {
+   "title": "Cómo estar",
+   "text": "Duerme bien. En la mañana puedes comer."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus lentes o lentes de contacto",
+  "La lista de tus medicamentos",
+  "Tus reportes anteriores del neurólogo"
+ ],
+ "steps": [
+  "Te ponen electrodos en la cabeza y a veces en un brazo o una pierna",
+  "Para la vista, ves una pantalla con un tablero de ajedrez",
+  "Para el oído, te ponen audífonos con chasquidos",
+  "Para la sensibilidad, te dan impulsos débiles en el brazo o la pierna",
+  "Tienes que estar quieto y atento",
+  "Quitan los electrodos"
+ ],
+ "feel": [
+  "Las imágenes y los sonidos no duelen",
+  "Los impulsos se sienten como un cosquilleo o un pequeño brinco del dedo"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "En casa lávate el cabello",
+  "El reporte suele estar en 1 a 3 días"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Los impulsos duelen?",
+   "a": "Son descargas débiles, como un cosquilleo. La fuerza se ajusta para que sea tolerable."
+  },
+  {
+   "q": "¿Puedo ver la pantalla con lentes?",
+   "a": "Sí, y además es necesario. Lleva tus lentes o lentes de contacto."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana son tus potenciales evocados. Lávate el cabello sin aceite ni spray. Lleva tus lentes, si los usas."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "title": "Biopsia de vellosidades coriónicas",
+ "also": [
+  "biopsia de vellosidades coriales",
+  "biopsia corial",
+  "BVC",
+  "diagnóstico prenatal temprano"
+ ],
+ "what": "Con ayuda del ultrasonido, el médico toma un pedacito muy pequeño del tejido de la futura placenta. En él se revisan los cromosomas y genes del bebé.",
+ "why": "Cuando el primer tamizaje salió con riesgo alto o en la familia hay una enfermedad hereditaria. Normalmente entre las semanas 11 y 14.",
+ "duration": "el procedimiento suele durar de 15 a 30 minutos; los primeros resultados suelen estar en unos días y el análisis completo hasta en 2 semanas",
+ "tell_doctor": [
+  "Tu tipo de sangre y factor Rh",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Infecciones como hepatitis o VIH",
+  "Si tuviste manchado en los últimos días",
+  "Tus alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Decisión",
+   "text": "El genetista te explica antes para qué es el procedimiento, qué riesgos tiene y qué mostrará el análisis. Firmas un consentimiento."
+  },
+  {
+   "title": "Forma",
+   "text": "Normalmente la aguja entra por el abdomen. A veces se usa un tubito delgado por el cuello del útero. El médico te dice qué forma te conviene."
+  },
+  {
+   "title": "Vejiga",
+   "text": "A veces piden llegar con la vejiga llena, y a veces al revés. Pregunta en la clínica."
+  },
+  {
+   "title": "Descanso",
+   "text": "Aparta el día del procedimiento."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los resultados del tamizaje y del ultrasonido",
+  "Tu carnet prenatal",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te acuestas boca arriba y el médico hace un ultrasonido",
+  "Limpian la piel del abdomen con antiséptico y la anestesian",
+  "Guiado por el ultrasonido, meten una aguja delgada hasta la futura placenta",
+  "Toman un pedacito muy pequeño de tejido; son unos segundos",
+  "Retiran la aguja y revisan el latido del bebé"
+ ],
+ "feel": [
+  "Un piquete y presión o un cólico en el abdomen",
+  "Después, cólicos como de regla por unas horas",
+  "A veces un poco de manchado"
+ ],
+ "after": [
+  "Normalmente descansas en la clínica de 20 a 30 minutos",
+  "Por 1 o 2 días, reposo, sin cargar cosas, sin ejercicio y sin relaciones sexuales",
+  "Si tu Rh es negativo, normalmente te ponen una inyección de inmunoglobulina anti-D",
+  "El genetista te explica los resultados"
+ ],
+ "red_flags": [
+  "Sangrado como de regla o dolor fuerte: llama a emergencias",
+  "Se te sale líquido por la vagina: ve al médico de urgencia",
+  "Fiebre de más de 38 o escalofríos: ve al médico de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué es diferente de la amniocentesis?",
+   "a": "Se hace antes, entre las semanas 11 y 14, y se toma tejido de la placenta, no líquido. El resultado también llega antes."
+  },
+  {
+   "q": "¿Hay riesgo para el embarazo?",
+   "a": "Hay un riesgo pequeño de pérdida del embarazo. El médico te explica cómo es en tu caso."
+  },
+  {
+   "q": "¿Es obligatoria?",
+   "a": "No. Es tu decisión. El médico te ayuda a pesar los beneficios y los riesgos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu biopsia de vellosidades coriónicas. Pregunta si necesitas la vejiga llena. Pide a alguien que te acompañe a casa."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Rinoplastia",
+ "also": [
+  "rinoplastia",
+  "cirugía de nariz",
+  "rinoseptoplastia",
+  "operación de nariz"
+ ],
+ "what": "El cirujano cambia la forma de la nariz: el hueso, el cartílago y los tejidos blandos. A veces también endereza el tabique para respirar mejor.",
+ "why": "Cuando no te gusta la forma de tu nariz, por un golpe o de nacimiento, o te cuesta respirar por la nariz.",
+ "duration": "la cirugía suele durar de 2 a 3 horas; en la clínica normalmente hasta el día siguiente",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Golpes o cirugías de la nariz",
+  "Rinitis alérgica o sinusitis",
+  "Qué quieres cambiar exactamente; muéstralo en fotos"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Casa",
+   "text": "Ten listas una almohada alta y compresas frías. Los primeros días vas a respirar por la boca."
+  }
+ ],
+ "bring": [
+  "Los análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Ropa con botones o cierre"
+ ],
+ "steps": [
+  "El cirujano repasa contigo el plan",
+  "El anestesiólogo te pone la anestesia",
+  "Los cortes se hacen dentro de la nariz o con un corte pequeño entre las fosas nasales",
+  "El cirujano cambia la forma del hueso y el cartílago",
+  "Pueden poner tapones o férulas suaves dentro de la nariz",
+  "Sobre la nariz ponen yeso o una férula de plástico"
+ ],
+ "feel": [
+  "La nariz está tapada y respiras por la boca. Es temporal",
+  "Hinchazón y moretones bajo los ojos por 1 a 2 semanas",
+  "Dolor de cabeza y pesadez. Te dan analgésicos"
+ ],
+ "after": [
+  "Los tapones normalmente se quitan en 1 a 3 días y la férula en una semana más o menos",
+  "Duerme con la cabeza levantada",
+  "No te suenes, no te agaches ni cargues cosas pesadas; el médico te dirá hasta cuándo",
+  "Lentes sobre la nariz, no antes de que el médico lo permita",
+  "La forma final se ve en 6 a 12 meses"
+ ],
+ "red_flags": [
+  "Sangrado fuerte por la nariz: llama a emergencias",
+  "Fiebre de más de 38, o dolor e hinchazón que aumentan",
+  "Ves peor o tienes dolor de cabeza fuerte: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuándo voy a ver el resultado?",
+   "a": "La mayor parte de la hinchazón se va en unas semanas, pero la forma final se ve en 6 a 12 meses."
+  },
+  {
+   "q": "¿Puedo usar lentes después de la cirugía?",
+   "a": "Normalmente no de inmediato, porque la presión en la nariz afecta. El cirujano te dirá cuándo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu rinoplastia. Ten lista una almohada alta y algo frío. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

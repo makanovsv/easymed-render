@@ -1,0 +1,82 @@
+{
+ "title": "Adaptación de aparato auditivo",
+ "also": [
+  "aparato auditivo",
+  "audífono",
+  "adaptación de audífonos",
+  "prótesis auditiva"
+ ],
+ "what": "Un especialista revisa tu audición, elige el aparato y lo ajusta a tus oídos. El aparato sube el volumen de los sonidos y hace que se entienda mejor lo que te dicen.",
+ "why": "Cuando oyes menos y te cuesta entender lo que dicen, sobre todo con ruido o por teléfono.",
+ "duration": "la primera cita suele durar de 1 hora a 1 hora y media; acostumbrarse y ajustarlo toma unas semanas",
+ "tell_doctor": [
+  "Si te ha salido líquido del oído, te ha dolido o te han operado",
+  "Zumbido en los oídos o mareos",
+  "Si dejaste de oír de golpe, en unos días: primero ve al otorrino de urgencia",
+  "Dónde te cuesta más oír: en casa, en el trabajo o por teléfono",
+  "Qué medicamentos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Oídos",
+   "text": "Normalmente primero el otorrino revisa los oídos y quita el tapón de cerilla, si lo hay."
+  },
+  {
+   "title": "Audiometría",
+   "text": "Si tienes una prueba de audición reciente, llévala. Si no, te la hacen ahí."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Conviene ir con alguien cercano: su voz sirve para ajustar el aparato."
+  }
+ ],
+ "bring": [
+  "La orden médica, si tienes",
+  "Tus audiometrías anteriores",
+  "Una identificación",
+  "Tus lentes, si usas"
+ ],
+ "steps": [
+  "El médico te pregunta dónde te cuesta oír",
+  "Te revisa los oídos",
+  "Revisa tu audición con audífonos: aprietas un botón cuando oyes un sonido",
+  "Elige el tipo de aparato: detrás de la oreja o dentro del oído",
+  "A veces toman un molde del oído para la pieza",
+  "Conectan el aparato a la computadora y lo ajustan a tu audición",
+  "Te enseñan a ponerlo, quitarlo, cambiar las pilas o cargarlo"
+ ],
+ "feel": [
+  "La prueba de audición no duele",
+  "Al principio los sonidos se oyen fuertes y agudos, y tu propia voz suena rara",
+  "Los primeros días puedes sentir el aparato en el oído"
+ ],
+ "after": [
+  "Usa el aparato todos los días, empezando con unas horas",
+  "Acostumbrarse suele tomar de 2 a 4 semanas",
+  "Ve a los ajustes. Son una parte normal de la adaptación",
+  "Protégelo del agua y quítatelo para dormir"
+ ],
+ "red_flags": [
+  "Dolor, enrojecimiento o secreción del oído: quítate el aparato y ve al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Tengo que usarlo todo el tiempo?",
+   "a": "Sí, durante el día es mejor usarlo siempre. Así el cerebro se acostumbra más rápido y entiende mejor."
+  },
+  {
+   "q": "¿Necesito aparato en los dos oídos?",
+   "a": "Si oyes menos de los dos lados, normalmente recomiendan dos. Así entiendes mejor y sabes de dónde viene el sonido."
+  },
+  {
+   "q": "¿Por qué todo se oye tan fuerte con el aparato?",
+   "a": "El cerebro se desacostumbró a muchos sonidos. En unas semanas se pasa y, si hace falta, ajustan el aparato."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu adaptación de aparato auditivo. Lleva tus pruebas de audición anteriores y, si puedes, ve con alguien cercano."
+  }
+ ]
+}

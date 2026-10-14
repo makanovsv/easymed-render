@@ -1,0 +1,67 @@
+{
+ "title": "Blood magnesium",
+ "also": [
+  "magnesium test",
+  "serum magnesium",
+  "blood magnesium level"
+ ],
+ "what": "This is a blood test from a vein. It shows your magnesium level. Your muscles, nerves, and heart need magnesium.",
+ "why": "For cramps, skipped heartbeats, weakness, while taking water pills, or with kidney or bowel disease.",
+ "duration": "the blood draw takes a few minutes; results usually come the next day",
+ "tell_doctor": [
+  "If you take magnesium or other supplements",
+  "What medicines you take, especially water pills and heartburn pills",
+  "If you had vomiting or diarrhea in the last few days"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually fasting: no food for 8 to 12 hours. Plain water is fine. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours, no alcohol and no hard workouts. Best not to smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in 1 day. The lab will tell you when"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "If my magnesium is normal, do I have enough?",
+   "a": "Usually yes. But only a small part of your magnesium is in the blood. So your doctor also looks at your symptoms."
+  },
+  {
+   "q": "Should I take magnesium before the test?",
+   "a": "Do not change anything on your own. Tell your doctor what you take. They will decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Magnesium test tomorrow. Do not eat after dinner. Plain water is fine."
+  }
+ ]
+}

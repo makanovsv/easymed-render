@@ -1,0 +1,75 @@
+{
+ "title": "Sports medical clearance",
+ "also": [
+  "sports physical",
+  "sports medical certificate",
+  "pre-participation physical",
+  "sports clearance"
+ ],
+ "what": "A doctor checks whether you or your child can do sports, and at what level. At the end, you get a clearance certificate.",
+ "why": "Before joining a club, before competitions or fitness tests, or when a coach asks for it.",
+ "duration": "usually 30 minutes to a few hours, if several doctors are needed; the certificate is often given the same day",
+ "tell_doctor": [
+  "Chest pain, fainting, or shortness of breath during exercise",
+  "Sudden death at a young age or heart disease in relatives",
+  "Injuries and surgeries",
+  "Long-term conditions and medicines",
+  "What sport you plan to do, and how intensely"
+ ],
+ "prepare": [
+  {
+   "title": "Checklist",
+   "text": "Ask the clinic or coach which doctors and tests are needed for your sport."
+  },
+  {
+   "title": "The day before",
+   "text": "No hard workout the day before. It can affect the ECG and blood pressure."
+  },
+  {
+   "title": "Clothes",
+   "text": "Comfortable sportswear and shoes, if there will be an exercise test."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Vaccination record or your child's medical record",
+  "Past certificates and reports",
+  "Club or federation requirements, if any"
+ ],
+ "steps": [
+  "The doctor asks about your health and training",
+  "Height, weight, blood pressure, and pulse are measured",
+  "An ECG is done",
+  "Sometimes blood tests, an exercise test, or other doctors' checks",
+  "The doctor listens to your heart and lungs, and checks posture and joints",
+  "You get a clearance certificate, or are sent for more tests"
+ ],
+ "feel": [
+  "The exam is painless",
+  "An exercise test is like a normal workout. You may get tired"
+ ],
+ "after": [
+  "Give the certificate to the coach or club",
+  "The certificate is valid for a limited time. Check how long",
+  "If something is found, the doctor will say what activity is OK for now"
+ ],
+ "red_flags": [
+  "Chest pain, fainting, or severe shortness of breath during training: stop and call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why does a healthy child need an ECG?",
+   "a": "An ECG helps spot rare heart problems that are dangerous with intense exercise."
+  },
+  {
+   "q": "How often is clearance needed?",
+   "a": "Usually once a year, sometimes more often for competitions. Check the club's requirements."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Sports medical tomorrow. No hard training today. Bring your documents."
+  }
+ ]
+}

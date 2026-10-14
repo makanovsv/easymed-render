@@ -1,0 +1,67 @@
+{
+ "title": "Consulta con el psiquiatra",
+ "also": [
+  "psiquiatra",
+  "consulta de psiquiatría",
+  "médico psiquiatra"
+ ],
+ "what": "Es el médico que ayuda con problemas del ánimo, ansiedad, sueño, pensamiento y conducta. Puede indicar tratamiento y medicamentos.",
+ "why": "Si tienes tristeza que no se quita, ansiedad fuerte, ataques de pánico, insomnio, pensamientos que no puedes sacar de tu cabeza o cambios bruscos de conducta.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Qué te molesta y desde cuándo",
+  "Cómo duermes y cómo comes",
+  "Qué medicamentos y sustancias tomas, también alcohol",
+  "Si antes fuiste con un psiquiatra o psicólogo",
+  "Si has tenido pensamientos de hacerte daño"
+ ],
+ "prepare": [
+  {
+   "title": "Apunta",
+   "text": "Qué te molesta, cómo afecta tu vida y qué preguntas quieres hacer."
+  },
+  {
+   "title": "Confidencialidad",
+   "text": "Lo que hables en la consulta es secreto médico. Pregunta en la clínica cómo se registra la visita."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus análisis, resúmenes e informes anteriores",
+  "La lista de tus medicamentos o las cajas"
+ ],
+ "steps": [
+  "El médico te pregunta con calma sobre tus molestias y tu vida",
+  "Te pregunta sobre tu ánimo, tu sueño y tus pensamientos",
+  "A veces te pide llenar un cuestionario",
+  "Te explica qué está pasando y qué opciones de ayuda hay",
+  "Si hace falta, te indica un tratamiento y la fecha de la siguiente cita"
+ ],
+ "feel": [
+  "Es una plática, sin procedimientos",
+  "Hablar de cosas personales puede costar. Puedes hacer pausas"
+ ],
+ "after": [
+  "Toma los medicamentos según el plan; no los dejes por tu cuenta, pregúntale al médico",
+  "El efecto del tratamiento normalmente no es inmediato"
+ ],
+ "red_flags": [
+  "Pensamientos de hacerte daño o de hacerle daño a alguien: no esperes la consulta, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Esto va a quedar registrado en algún lado?",
+   "a": "Normalmente una consulta no significa ningún registro especial. Pregunta directamente en la clínica cómo lo manejan."
+  },
+  {
+   "q": "¿En qué es diferente el psiquiatra del psicólogo?",
+   "a": "El psiquiatra es médico: puede hacer un diagnóstico e indicar medicamentos. El psicólogo ayuda con la plática y no trata con medicamentos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el psiquiatra. Apunta lo que te molesta y lleva la lista de medicamentos."
+  }
+ ]
+}

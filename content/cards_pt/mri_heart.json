@@ -1,0 +1,81 @@
+{
+ "title": "Ressonância do coração",
+ "also": [
+  "ressonância cardíaca com contraste",
+  "ressonância cardíaca",
+  "RM do coração"
+ ],
+ "what": "São imagens do coração num campo magnético. Mostram o músculo, as válvulas, as câmaras e como o coração se contrai. Sem radiação.",
+ "why": "Com cardiomiopatias, depois de miocardite e infarto, com doenças congênitas, quando o ecocardiograma não deu resposta.",
+ "duration": "normalmente de 45 a 60 minutos. O laudo sai em 1 a 3 dias",
+ "tell_doctor": [
+  "Marca-passo, desfibrilador ou outro implante eletrônico",
+  "Metal no corpo: próteses, placas, clipes nos vasos, estilhaços",
+  "Se você está grávida ou pode estar",
+  "Se tem medo de lugar fechado. O médico explica como ajudar",
+  "Se o pulso é irregular. O exame vai levar mais tempo",
+  "Doença nos rins, alergia a contraste"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente uma refeição leve pode. Se tiver teste de estresse com remédio, há regras especiais. Confirme com a clínica."
+  },
+  {
+   "title": "Café",
+   "text": "Se for com estresse, normalmente nas 24 horas antes cortam café, chá e chocolate."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Fale com o médico, ele decide."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire tudo que é de metal: joias, relógio, presilhas, piercings. Deixe o celular e os cartões no armário."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ecocardiograma, eletrocardiograma e laudos do cardiologista",
+  "Lista dos seus remédios",
+  "Exame de creatinina, se pediram"
+ ],
+ "steps": [
+  "Colocam um cateter na veia",
+  "Colam eletrodos de eletrocardiograma no peito",
+  "Você se deita de barriga para cima, e colocam uma bobina sobre o peito",
+  "Pedem muitas vezes para segurar a respiração por 10 a 15 segundos",
+  "O aparelho faz batidas altas. Dão fones",
+  "No meio do exame, aplicam o contraste e fazem mais imagens"
+ ],
+ "feel": [
+  "Não dói, mas é barulhento e apertado",
+  "Segurar a respiração cansa. Pode pedir uma pausa",
+  "Com contraste: sensação gelada na veia"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "Depois do contraste, beba mais água, se o médico não disser diferente",
+  "Com o laudo, volte ao cardiologista"
+ ],
+ "red_flags": [
+  "Dor em aperto no peito, falta de ar, desmaio: ligue na hora para a emergência",
+  "Depois do contraste, coceira, manchas na pele, inchaço no rosto ou dificuldade para respirar: avise na hora a equipe ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que demora tanto?",
+   "a": "O coração se mexe, e as imagens são feitas no ritmo do coração e da respiração. São muitas séries."
+  },
+  {
+   "q": "Posso fazer ressonância do coração com marca-passo?",
+   "a": "Só se ele for compatível com ressonância e o cardiologista liberar. Avise antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a ressonância do coração. Leve o ecocardiograma, o eletrocardiograma e a lista de remédios. Tire tudo que é de metal."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Inyección intravenosa",
+ "also": [
+  "inyección intravenosa",
+  "inyección en la vena",
+  "vía intravenosa",
+  "aplicación IV"
+ ],
+ "what": "El medicamento se pone con una jeringa directo en la vena, normalmente en el pliegue del codo. Hace efecto rápido.",
+ "why": "Cuando el medicamento tiene que entrar rápido o no funciona en pastillas ni en inyección en el músculo, según indique el médico.",
+ "duration": "normalmente de 2 a 5 minutos",
+ "tell_doctor": [
+  "Alergias a medicamentos",
+  "Medicamentos que hacen la sangre más líquida",
+  "Si antes te sentiste mal o te desmayaste con las inyecciones",
+  "Si tus venas son difíciles"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente es mejor no ir con hambre, salvo que el médico te diga otra cosa."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La receta del médico",
+  "El medicamento, si lo compraste tú"
+ ],
+ "steps": [
+  "Te sientas o te acuestas",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "La enfermera mete la aguja en la vena",
+  "Quitan la liga y ponen el medicamento despacio",
+  "Sacan la aguja y ponen un algodón"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces calor o un sabor en la boca por el medicamento. Díselo a la enfermera"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Normalmente te piden quedarte sentado de 10 a 15 minutos después",
+  "Puede salir un moretón pequeño que se quita solo"
+ ],
+ "red_flags": [
+  "Hinchazón de la cara o los labios, dificultad para respirar, ronchas o debilidad repentina: llama a emergencias",
+  "El brazo a lo largo de la vena está rojo, hinchado y duele"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué el medicamento se pone despacio?",
+   "a": "Muchos medicamentos dan molestias si entran rápido. Despacio es más seguro."
+  },
+  {
+   "q": "¿Me puedo ir de inmediato?",
+   "a": "Normalmente te piden quedarte de 10 a 15 minutos. Así se nota si el medicamento te cae mal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu inyección en la vena. Usa ropa con manga cómoda y come algo, salvo que el médico te diga otra cosa."
+  }
+ ]
+}

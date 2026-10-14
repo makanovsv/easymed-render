@@ -1,0 +1,68 @@
+{
+ "title": "Exame toxicológico de urina",
+ "also": [
+  "exame toxicológico",
+  "teste de drogas na urina",
+  "teste de substâncias psicoativas",
+  "exame antidoping",
+  "triagem toxicológica"
+ ],
+ "what": "Você entrega urina num frasco. O teste mostra se houve drogas e alguns remédios fortes no corpo.",
+ "why": "Para atestados de trabalho, porte de arma, carteira de motorista, a pedido do empregador ou em exames ocupacionais.",
+ "duration": "a coleta leva de 5 a 10 minutos, o resultado rápido sai em poucos minutos, e o exame de confirmação normalmente em alguns dias",
+ "tell_doctor": [
+  "Todos os remédios que você toma, até os comuns para tosse ou dor",
+  "Se fez há pouco tempo algum tratamento com anestesia ou analgésicos fortes"
+ ],
+ "prepare": [
+  {
+   "title": "Documento",
+   "text": "Leve um documento de identidade. Sem ele, o exame para atestado normalmente não é aceito."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Anote o que você toma e avise a enfermeira."
+  },
+  {
+   "title": "Bebida",
+   "text": "Beba como sempre. Não precisa beber água a mais. Urina muito diluída pode ser recusada."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Pedido médico ou solicitação do trabalho",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Conferem o seu documento e dão um frasco com o seu nome",
+  "Antes do banheiro, às vezes pedem para deixar a bolsa e o casaco",
+  "Você urina no frasco, às vezes com alguém acompanhando, como manda o procedimento",
+  "Fecham e lacram o frasco na sua frente",
+  "O teste é feito na hora ou enviado ao laboratório"
+ ],
+ "feel": [
+  "Nada desagradável, só um possível constrangimento por ter alguém acompanhando"
+ ],
+ "after": [
+  "O resultado rápido normalmente sai na hora",
+  "Se o teste rápido der positivo, a urina é conferida por um método preciso no laboratório",
+  "O atestado é entregue no prazo que informarem"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Um remédio comum pode dar teste positivo?",
+   "a": "Sim, alguns remédios interferem no teste rápido. Por isso é importante informar, e os casos duvidosos são conferidos por um método preciso."
+  },
+  {
+   "q": "Por que a coleta é acompanhada?",
+   "a": "É uma regra para atestados, para evitar troca da amostra. É igual para todos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame toxicológico. Leve o documento de identidade e a lista de remédios."
+  }
+ ]
+}

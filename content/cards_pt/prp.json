@@ -1,0 +1,75 @@
+{
+ "title": "PRP nas articulações",
+ "also": [
+  "PRP",
+  "plasma rico em plaquetas",
+  "injeção de plasma na articulação",
+  "infiltração com PRP"
+ ],
+ "what": "Colhem um pouco do seu sangue, separam numa centrífuga o plasma com as plaquetas e aplicam esse plasma na articulação ou no tendão.",
+ "why": "Às vezes com artrose do joelho e doenças de tendões e ligamentos. Nem todo mundo se beneficia. Converse com o médico se é indicado para você.",
+ "duration": "normalmente de 30 a 60 minutos. O efeito, se houver, aparece em algumas semanas. Muitas vezes são precisas várias sessões",
+ "tell_doctor": [
+  "Remédios que afinam o sangue e anti-inflamatórios. O médico decide o que fazer",
+  "Doenças do sangue",
+  "Se agora tem infecção ou febre",
+  "Se já tomou injeções nessa articulação"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Às vezes pedem para não tomar anti-inflamatório alguns dias antes e depois. Não suspenda por conta própria. Pergunte ao médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Coma algo leve, sem gordura, e beba água. Assim o plasma fica melhor."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, fácil de liberar a articulação."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Imagens da articulação",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Colhem sangue da veia, como num exame",
+  "O tubo vai para a centrífuga por alguns minutos",
+  "Limpam a pele sobre a articulação com antisséptico",
+  "Às vezes anestesiam a articulação",
+  "O médico aplica o plasma com agulha na articulação, muitas vezes guiado por ultrassom",
+  "Colocam um curativo"
+ ],
+ "feel": [
+  "Picada na coleta e na aplicação na articulação",
+  "Sensação de pressão dentro da articulação",
+  "Dor e inchaço na articulação por 1 a 3 dias depois. É comum"
+ ],
+ "after": [
+  "Nos primeiros dias, sem muito esforço na articulação",
+  "Gelo na articulação pode, se doer. Anti-inflamatório, só por orientação médica",
+  "As próximas aplicações, quem marca é o médico"
+ ],
+ "red_flags": [
+  "A articulação ficou quente, muito inchada e dolorida, febre acima de 38 graus: procure o médico na hora",
+  "A dor piora muito depois de 2 a 3 dias"
+ ],
+ "faq": [
+  {
+   "q": "Isso vai funcionar com certeza?",
+   "a": "Não para todos. Em alguns, a dor diminui. Em outros, o efeito é fraco. O médico diz se vale a pena no seu caso."
+  },
+  {
+   "q": "Posso ter alergia ao meu próprio plasma?",
+   "a": "Alergia ao próprio plasma é improvável. Mas, depois da injeção, pode haver dor e inchaço na articulação."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o PRP. Hoje e de manhã, beba água e coma leve. Anti-inflamatório, só como o médico orientou."
+  }
+ ]
+}

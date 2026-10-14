@@ -1,0 +1,65 @@
+{
+ "title": "Avaliação de olho seco",
+ "also": [
+  "olho seco",
+  "teste de Schirmer",
+  "avaliação do filme lacrimal",
+  "síndrome do olho seco"
+ ],
+ "what": "O médico verifica quanta lágrima o olho produz e quanto tempo ela fica na superfície do olho.",
+ "why": "Quando os olhos ficam secos, ardem, ficam vermelhos, dão sensação de areia ou cansam com telas.",
+ "duration": "normalmente de 15 a 30 minutos; o médico diz o resultado na hora",
+ "tell_doctor": [
+  "Quais colírios e remédios você usa",
+  "Se você usa lentes de contato",
+  "Muitas horas de tela, ar-condicionado",
+  "Se já operou os olhos, inclusive cirurgia a laser para grau"
+ ],
+ "prepare": [
+  {
+   "title": "Colírios",
+   "text": "Confirme com a clínica se precisa deixar de pingar colírio lubrificante antes do exame."
+  },
+  {
+   "title": "Lentes e maquiagem",
+   "text": "É melhor ir sem lentes e sem maquiagem nos olhos."
+  }
+ ],
+ "bring": [
+  "Lista de colírios e remédios",
+  "Os óculos",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Examina os olhos no microscópio",
+  "Pode pingar um corante e ver com que rapidez o filme de lágrima se rompe",
+  "Às vezes colocam uma tirinha de papel sob a pálpebra de baixo por 5 minutos",
+  "A tirinha mostra quanta lágrima é produzida"
+ ],
+ "feel": [
+  "A tirinha na pálpebra faz cócegas e dá vontade de piscar",
+  "O corante pode deixar as lágrimas amareladas por um tempo"
+ ],
+ "after": [
+  "Os olhos podem lacrimejar por alguns minutos",
+  "O médico indica os cuidados e os colírios"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que os olhos ficam secos?",
+   "a": "Muitas vezes por tela, ar seco, idade, lentes ou remédios. O médico ajuda a achar a causa."
+  },
+  {
+   "q": "Posso pingar colírio lubrificante sempre?",
+   "a": "Muitos podem, mas qual e com que frequência é melhor perguntar ao médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a avaliação de olho seco. Se puder, vá sem lentes e sem maquiagem nos olhos."
+  }
+ ]
+}

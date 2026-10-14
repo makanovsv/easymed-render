@@ -1,0 +1,74 @@
+{
+ "title": "Exame de sangue em criança",
+ "also": [
+  "exame de sangue infantil",
+  "coleta de sangue em criança",
+  "sangue do dedinho",
+  "exame de sangue pediátrico"
+ ],
+ "what": "A enfermeira colhe um pouco de sangue do dedinho ou da veia da criança. Normalmente leva uns dois minutos.",
+ "why": "Em consultas de rotina, quando a criança está doente, antes da creche ou da escola, antes de cirurgia e para acompanhar tratamento.",
+ "duration": "normalmente de 3 a 10 minutos, o resultado muitas vezes sai em 1 a 2 dias",
+ "tell_doctor": [
+  "Se a criança já desmaiou ou tem muito medo de agulha",
+  "Se ela toma algum remédio",
+  "Se tem alergia a látex ou a esparadrapo",
+  "Se tem doença de coagulação do sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "O bebê que mama normalmente pode mamar como sempre. Confirme. Para crianças maiores, muitas vezes pedem jejum. Pergunte ao laboratório quantas horas."
+  },
+  {
+   "title": "Água",
+   "text": "Água pura normalmente pode. A criança fica menos irritada."
+  },
+  {
+   "title": "Conversa",
+   "text": "Fale a verdade para a criança: vai ser uma picada rápida, vai doer um pouco, e você vai estar junto. Não use o médico para dar medo."
+  },
+  {
+   "title": "Para levar",
+   "text": "O brinquedo preferido e um lanche gostoso para depois."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documentos da criança",
+  "Brinquedo e lanche para depois"
+ ],
+ "steps": [
+  "Você se senta e segura a criança no colo, como a enfermeira mostrar",
+  "Limpam o dedo ou o braço com antisséptico",
+  "Se for do dedinho, um furinho rápido e algumas gotas no tubo",
+  "Se for da veia, garrote, uma picada rápida, e o sangue enche o tubo",
+  "Colocam um algodão no local e elogiam a criança"
+ ],
+ "feel": [
+  "Uma picada rápida. A criança pode chorar, e isso é normal",
+  "A sua calma ajuda muito a criança"
+ ],
+ "after": [
+  "Aperte o algodão por alguns minutos",
+  "Elogie logo e dê o lanche, se ela estava em jejum",
+  "O resultado sai normalmente em 1 a 2 dias"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que colhem da veia e não do dedo?",
+   "a": "Muitos exames precisam de mais sangue. Da veia é mais rápido e mais preciso."
+  },
+  {
+   "q": "Como acalmar a criança?",
+   "a": "Fale com sinceridade e calma, segure no colo, distraia com um brinquedo ou desenho."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã a criança faz exame de sangue. Confirme se precisa de jejum e leve um brinquedo e um lanche."
+  }
+ ]
+}

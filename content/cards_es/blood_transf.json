@@ -1,0 +1,73 @@
+{
+ "title": "Transfusión de sangre",
+ "also": [
+  "transfusión de sangre",
+  "transfusión sanguínea",
+  "transfusión de glóbulos rojos",
+  "transfusión de plasma"
+ ],
+ "what": "Por un suero en la vena te ponen sangre de un donante o una parte de ella: glóbulos rojos, plasma o plaquetas.",
+ "why": "Con anemia fuerte, mucha pérdida de sangre, durante cirugías, o con algunas enfermedades de la sangre.",
+ "duration": "una unidad suele pasar en 1 a 4 horas, más la observación",
+ "tell_doctor": [
+  "Si antes te hicieron transfusiones y tuviste reacciones",
+  "Embarazos anteriores",
+  "Enfermedades del corazón y de los riñones",
+  "Si por tus creencias no aceptas transfusiones. Avísalo antes"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Antes de la transfusión se determina tu tipo de sangre y se revisa la compatibilidad. Es obligatorio."
+  },
+  {
+   "title": "Consentimiento",
+   "text": "El médico te explica para qué es la transfusión y firmas el consentimiento."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer y beber como siempre, salvo que el médico te diga otra cosa."
+  }
+ ],
+ "bring": [
+  "Tus documentos",
+  "Resúmenes anteriores donde aparezcan tu tipo de sangre y transfusiones"
+ ],
+ "steps": [
+  "Te toman sangre para el tipo y la compatibilidad",
+  "Te ponen un catéter en la vena",
+  "La enfermera y el médico revisan junto a tu cama tu nombre y los datos de la bolsa",
+  "Antes de empezar revisan otra vez el tipo de sangre",
+  "Los primeros minutos la sangre pasa despacio y te vigilan de cerca",
+  "Te miden seguido la presión, el pulso y la temperatura"
+ ],
+ "feel": [
+  "Normalmente nada especial",
+  "A veces escalofríos o fiebre. Avísale de inmediato a la enfermera"
+ ],
+ "after": [
+  "Normalmente te observan un rato más",
+  "Después de un tiempo revisan un análisis de sangre",
+  "A veces hay reacción en las primeras 24 horas. Dile al médico cualquier malestar"
+ ],
+ "red_flags": [
+  "Durante la transfusión: escalofríos, calor, dolor de espalda o de pecho, falta de aire o ronchas: llama de inmediato a la enfermera",
+  "En casa, en las primeras 24 horas: falta de aire, orina oscura, piel amarilla o fiebre alta: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo contagiar de algo por una transfusión?",
+   "a": "La sangre donada se revisa para infecciones. El riesgo es muy bajo. El médico te dará más detalles."
+  },
+  {
+   "q": "¿Puedo donar sangre para un familiar?",
+   "a": "A veces sí, pero lo decide el banco de sangre. La sangre de un familiar también pasa todas las pruebas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoy es tu transfusión de sangre. Lleva tus documentos. Si antes te hicieron transfusiones, díselo al médico."
+  }
+ ]
+}

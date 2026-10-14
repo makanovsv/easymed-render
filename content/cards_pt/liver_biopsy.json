@@ -1,0 +1,77 @@
+{
+ "title": "Biópsia de fígado",
+ "also": [
+  "biópsia hepática percutânea",
+  "punção do fígado",
+  "biópsia de fígado guiada por ultrassom"
+ ],
+ "what": "Com uma agulha fina, por um furo do lado direito, o médico tira um pedacinho do fígado para análise. É feita com anestesia local e guiada por ultrassom.",
+ "why": "Para esclarecer a causa de uma doença do fígado, avaliar o grau das alterações ou investigar um nódulo no fígado.",
+ "duration": "o procedimento em si leva normalmente de 15 a 30 minutos, depois algumas horas de observação. O resultado sai normalmente em 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico decide se algo precisa mudar",
+  "Alergias, inclusive a anestésicos locais",
+  "Doenças de coagulação do sangue",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes da biópsia, sempre conferem a coagulação do sangue e as plaquetas."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente sem comer de 6 a 8 horas antes. O horário exato, a clínica informa."
+  },
+  {
+   "title": "O dia",
+   "text": "Reserve o dia todo. Depois da biópsia, é preciso ficar algumas horas deitado em observação."
+  }
+ ],
+ "bring": [
+  "Pedido médico, exames, imagens de ultrassom, tomografia ou ressonância",
+  "Lista de remédios",
+  "Acompanhante"
+ ],
+ "steps": [
+  "Colocam um cateter na veia",
+  "Você se deita de barriga para cima, com a mão direita atrás da cabeça",
+  "O médico escolhe o local do lado direito pelo ultrassom",
+  "Limpam a pele e aplicam a anestesia",
+  "Pedem para soltar o ar e segurar a respiração por alguns segundos",
+  "Com a agulha fina, tiram rápido um pedacinho de tecido",
+  "Fazem um curativo, e você deita sobre o lado direito"
+ ],
+ "feel": [
+  "A picada e a ardência da anestesia",
+  "Um estalo e uma pressão rápida quando tiram o tecido",
+  "Depois, o lado ou o ombro direito podem doer. É normal"
+ ],
+ "after": [
+  "Você fica deitado algumas horas, em observação, medindo a pressão",
+  "Por 24 horas, sem pegar peso e sem esporte. Por uma semana, sem esforço grande. Confirme com o médico",
+  "O curativo é retirado no dia seguinte",
+  "O resultado normalmente é explicado pelo médico na consulta"
+ ],
+ "red_flags": [
+  "Dor forte e piorando na barriga ou do lado: ligue para a emergência",
+  "Tontura, fraqueza, pulso acelerado, suor frio: ligue para a emergência",
+  "Febre acima de 38 graus, falta de ar"
+ ],
+ "faq": [
+  {
+   "q": "Por que o ombro dói depois da biópsia de fígado?",
+   "a": "É uma dor reflexa, de um nervo perto do fígado. Normalmente passa em 1 a 2 dias."
+  },
+  {
+   "q": "Por que preciso segurar a respiração?",
+   "a": "O fígado se mexe com a respiração. Segurar ajuda a tirar o tecido com precisão e segurança."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a biópsia de fígado. Não coma depois do horário que a clínica indicou. Reserve o dia todo e vá com um acompanhante."
+  }
+ ]
+}

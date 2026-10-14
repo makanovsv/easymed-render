@@ -1,0 +1,61 @@
+{
+ "title": "Raio-X dos pés para pé chato",
+ "also": [
+  "raio-X dos pés com carga",
+  "radiografia para pé plano",
+  "raio-X dos pés em pé"
+ ],
+ "what": "São radiografias dos pés em pé, com o peso do corpo. Com elas, o médico mede a altura do arco do pé.",
+ "why": "Com suspeita de pé chato, dor nos pés, para o alistamento militar ou para escolher palmilhas.",
+ "duration": "na sala, normalmente de 10 a 15 minutos. O laudo sai no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se teve lesões ou cirurgias nos pés"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Roupa",
+   "text": "Vai precisar tirar meias ou meia-calça e dobrar a calça até os joelhos."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Radiografias anteriores dos pés, se tiver"
+ ],
+ "steps": [
+  "Você tira o calçado e as meias",
+  "Sobe num suporte especial, com o peso nos dois pés",
+  "Fazem uma imagem de lado de cada pé",
+  "Às vezes fazem também uma imagem de cima",
+  "É preciso ficar reto e parado por uns dois segundos"
+ ],
+ "feel": [
+  "Não dói",
+  "É preciso ficar reto. Segure no apoio, se houver"
+ ],
+ "after": [
+  "Você já pode seguir o seu dia",
+  "O laudo normalmente traz os ângulos medidos. Leve ao ortopedista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que a imagem é feita em pé?",
+   "a": "O pé chato aparece com o peso do corpo. Deitado, o arco parece normal."
+  },
+  {
+   "q": "Essa radiografia serve para o alistamento militar?",
+   "a": "Normalmente sim, mas confirme antes as exigências da junta militar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o raio-X dos pés. Vista uma calça fácil de dobrar até os joelhos."
+  }
+ ]
+}

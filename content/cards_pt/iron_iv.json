@@ -1,0 +1,73 @@
+{
+ "title": "Ferro na veia",
+ "also": [
+  "ferro endovenoso",
+  "ferro intravenoso",
+  "infusão de ferro",
+  "soro com ferro"
+ ],
+ "what": "O remédio com ferro entra pelo soro na veia. Assim as reservas de ferro se recuperam mais rápido do que com comprimidos.",
+ "why": "Com anemia por falta de ferro, quando os comprimidos não ajudam ou caem mal, na gravidez ou antes de cirurgia, conforme a receita médica.",
+ "duration": "cada aplicação leva normalmente de 15 a 60 minutos, mais 30 minutos de observação. O efeito nos exames aparece em algumas semanas",
+ "tell_doctor": [
+  "Se já teve alergia a remédios com ferro ou outros remédios",
+  "Asma, alergias graves",
+  "Se você está grávida",
+  "Se toma comprimidos de ferro"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer como sempre."
+  },
+  {
+   "title": "Comprimidos",
+   "text": "Não pare por conta própria. Fale com o médico. Ele decide se você continua com os comprimidos de ferro junto com a aplicação."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga confortável."
+  }
+ ],
+ "bring": [
+  "Pedido médico e exames de sangue recentes",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "A enfermeira coloca um cateter na veia",
+  "Ligam o soro com o remédio de ferro",
+  "O soro corre devagar, e acompanham você",
+  "De vez em quando medem a pressão e o pulso",
+  "Depois que termina, você fica sentado mais uns 30 minutos"
+ ],
+ "feel": [
+  "Normalmente nada",
+  "Às vezes gosto de metal na boca ou um leve enjoo",
+  "Pode dar dor de cabeça ou dor no corpo por 1 a 2 dias"
+ ],
+ "after": [
+  "Dia normal, você pode ir para casa",
+  "Se o remédio vazar para baixo da pele, pode ficar uma mancha marrom. Por isso, avise na hora se o braço arder",
+  "O exame de sangue normalmente é repetido depois de algumas semanas"
+ ],
+ "red_flags": [
+  "Durante o soro: ardência no braço, manchas, coceira, falta de ar, tontura. Avise a enfermeira na hora",
+  "Em casa, inchaço no rosto ou dificuldade para respirar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que não comprimidos?",
+   "a": "Os comprimidos agem mais devagar e às vezes caem mal. Na veia, entra muito ferro de uma vez."
+  },
+  {
+   "q": "Quantas aplicações vou precisar?",
+   "a": "Depende do remédio e de quanto ferro está faltando. Normalmente de 1 a 3. Quem decide é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoje é a aplicação de ferro na veia. Coma algo e vista uma roupa com manga confortável."
+  }
+ ]
+}

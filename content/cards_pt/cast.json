@@ -1,0 +1,76 @@
+{
+ "title": "Colocação de gesso",
+ "also": [
+  "gesso",
+  "imobilização gessada",
+  "tala gessada",
+  "gesso sintético"
+ ],
+ "what": "Colocam no braço ou na perna uma imobilização de gesso ou de material sintético. Ela segura o osso ou os ligamentos parados enquanto cicatrizam.",
+ "why": "Com fraturas, fissuras, entorses fortes, rompimento de ligamentos ou depois de algumas cirurgias.",
+ "duration": "a colocação leva normalmente de 15 a 30 minutos. Normalmente se usa por algumas semanas. O prazo quem diz é o médico",
+ "tell_doctor": [
+  "Diabetes e problemas de circulação",
+  "Doenças de pele ou feridas no local",
+  "Alergias",
+  "Se você está grávida, antes do raio-X"
+ ],
+ "prepare": [
+  {
+   "title": "Roupa",
+   "text": "Roupa folgada, em que caiba o braço ou a perna com gesso."
+  },
+  {
+   "title": "Acessórios",
+   "text": "Tire anéis e pulseiras do braço machucado. Ele pode inchar."
+  }
+ ],
+ "bring": [
+  "Documentos",
+  "Imagens, se fez raio-X em outro lugar",
+  "Calça larga ou manga folgada"
+ ],
+ "steps": [
+  "Normalmente, primeiro, fazem um raio-X",
+  "O médico coloca o osso ou a articulação na posição certa",
+  "A pele é coberta com uma malha macia e uma camada de algodão",
+  "Colocam faixas molhadas de gesso ou de material sintético",
+  "A imobilização é moldada no formato do braço ou da perna",
+  "O gesso endurece aos poucos",
+  "Muitas vezes fazem um raio-X de controle"
+ ],
+ "feel": [
+  "Calor quando o gesso endurece. É normal",
+  "Peso e o membro parado",
+  "Nos primeiros dias, o local da lesão pode doer"
+ ],
+ "after": [
+  "Nos primeiros 1 a 2 dias, mantenha o braço ou a perna elevados. Incha menos",
+  "Não molhe o gesso. No banho, cubra com um saco plástico",
+  "Não enfie nada embaixo do gesso, mesmo se coçar",
+  "Mexa os dedos, se puder",
+  "Consulta e raio-X de controle no prazo que o médico indicar"
+ ],
+ "red_flags": [
+  "Os dedos ficam roxos, brancos, frios ou dormentes: procure o médico na hora ou ligue para a emergência",
+  "Dor forte e piorando, o gesso aperta muito",
+  "Cheiro ruim, ardência ou umidade embaixo do gesso",
+  "Dor e inchaço na panturrilha: procure o médico na hora"
+ ],
+ "faq": [
+  {
+   "q": "O que fazer se coçar embaixo do gesso?",
+   "a": "Não enfie nada dentro. Dá para soprar ar frio com o secador de cabelo."
+  },
+  {
+   "q": "Posso pisar com a perna engessada?",
+   "a": "Só se o médico liberar. Normalmente, no começo, se anda de muletas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a colocação do gesso. Tire os anéis e as pulseiras e leve uma roupa folgada."
+  }
+ ]
+}

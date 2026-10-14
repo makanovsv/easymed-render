@@ -1,0 +1,67 @@
+{
+ "title": "Ultrassom terapêutico",
+ "also": [
+  "ultrassom terapêutico",
+  "fonoforese",
+  "ultrassom na fisioterapia",
+  "terapia por ultrassom"
+ ],
+ "what": "O especialista passa na pele uma ponteira que leva o ultrassom para dentro dos tecidos. Às vezes junto com um gel com remédio.",
+ "why": "Com dores nas articulações, nos ligamentos e nos músculos, depois de lesões, em cicatrizes, por indicação do médico.",
+ "duration": "a sessão dura normalmente de 5 a 15 minutos; o tratamento costuma ter cerca de 10 sessões",
+ "tell_doctor": [
+  "Se você usa marca-passo ou tem metal nessa região",
+  "Se você está grávida",
+  "Se está com febre",
+  "Feridas ou manchas na pele",
+  "Doenças oncológicas"
+ ],
+ "prepare": [
+  {
+   "title": "Pele",
+   "text": "Pele limpa, sem creme."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, para mostrar o local."
+  }
+ ],
+ "bring": [
+  "O pedido do médico",
+  "Lenços para limpar o gel"
+ ],
+ "steps": [
+  "Você deita ou senta confortavelmente",
+  "Passam gel na pele",
+  "O especialista move a ponteira devagar sobre o local doente",
+  "Às vezes a sessão é feita dentro da água, para dedos e pés",
+  "No fim, o gel é limpo"
+ ],
+ "feel": [
+  "Normalmente nada além do toque da ponteira",
+  "Às vezes um leve calor. Se esquentar muito ou doer, avise na hora"
+ ],
+ "after": [
+  "Pode voltar às atividades normais na hora",
+  "Vá às sessões conforme o calendário. O tratamento completo é o que importa"
+ ],
+ "red_flags": [
+  "Dor ou ardência no local que não passa: avise o médico"
+ ],
+ "faq": [
+  {
+   "q": "É o mesmo que fazer ultrassom de exame?",
+   "a": "Não. No exame, o ultrassom serve para ver. Aqui, serve para tratar. Os aparelhos e a potência são diferentes."
+  },
+  {
+   "q": "Pode fazer com metal no osso?",
+   "a": "Normalmente há restrição nessa região. Conte ao médico, e ele decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Hoje é o ultrassom terapêutico. Pele sem creme. Leve o pedido do médico."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "Peptídeo C",
+ "also": [
+  "peptídeo C",
+  "peptídeo-C",
+  "exame para diabetes"
+ ],
+ "what": "É um exame de sangue colhido da veia. Mostra quanta insulina o seu próprio pâncreas produz.",
+ "why": "Para definir o tipo de diabetes, ajustar o tratamento ou investigar episódios de glicose baixa.",
+ "duration": "a coleta leva poucos minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Se você tem diabetes e como trata",
+  "Se aplica insulina",
+  "Se tem episódios de glicose baixa",
+  "Se tem doença nos rins"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente em jejum: de 8 a 12 horas sem comer. Água pura pode. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "No dia anterior, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda nada por conta própria. Se tem diabetes, diga ao médico como toma os remédios e a insulina. Ele explica o que fazer na manhã do exame."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Um lanche e algo doce para depois do exame, se você tem diabetes"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida, e o sangue enche o tubo",
+  "Retiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos, sem dobrar o braço",
+  "Você já pode comer e voltar à rotina",
+  "Às vezes colhem sangue de novo depois de uma refeição ou de uma bebida doce. O médico avisa",
+  "O resultado sai normalmente em 1 a 3 dias. O prazo quem informa é o laboratório"
+ ],
+ "red_flags": [
+  "Tremor, suor frio, fraqueza forte em jejum podem ser glicose baixa. Coma algo doce e avise a enfermeira"
+ ],
+ "faq": [
+  {
+   "q": "Qual a diferença entre peptídeo C e insulina?",
+   "a": "Ele é liberado junto com a sua própria insulina. Mostra como o pâncreas trabalha, mesmo se você aplica insulina."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de peptídeo C. Depois do jantar, não coma mais nada. Água pura pode."
+  }
+ ]
+}

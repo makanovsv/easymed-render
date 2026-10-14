@@ -1,0 +1,75 @@
+{
+ "title": "Como aplicar insulina",
+ "also": [
+  "caneta de insulina",
+  "como aplicar insulina",
+  "injeção de insulina",
+  "insulina na caneta"
+ ],
+ "what": "Você mesmo aplica a insulina embaixo da pele com uma caneta. Não é difícil, se fizer sempre do mesmo jeito.",
+ "why": "Para quem tem diabetes e o médico receitou insulina.",
+ "duration": "a aplicação em si leva de 1 a 2 minutos",
+ "tell_doctor": [
+  "Se a glicose fica muito baixa ou muito alta com frequência",
+  "Se apareceram caroços nos locais das aplicações",
+  "Se você enxerga mal os números da caneta"
+ ],
+ "prepare": [
+  {
+   "title": "Insulina",
+   "text": "Guarde o estoque na geladeira, não no congelador. A caneta em uso normalmente fica em temperatura ambiente. Confirme na bula."
+  },
+  {
+   "title": "Agulhas",
+   "text": "Agulha nova a cada aplicação. As usadas vão para um pote firme com tampa."
+  },
+  {
+   "title": "Dose",
+   "text": "A dose e os horários, quem define é o médico. Não mude o esquema por conta própria."
+  }
+ ],
+ "bring": [
+  "Caneta e agulhas",
+  "Glicosímetro",
+  "Diário da glicose"
+ ],
+ "steps": [
+  "Lave as mãos e confira o nome e a validade da insulina",
+  "Se a insulina for turva, role a caneta nas mãos e balance com cuidado de 10 a 20 vezes",
+  "Coloque uma agulha nova e solte 2 unidades no ar. Uma gota na ponta mostra que a caneta funciona",
+  "Marque a sua dose",
+  "Escolha o local: barriga, coxa, braço ou nádega. A cada vez, mude um pouco o ponto",
+  "Coloque a agulha reta e aperte o botão até o fim",
+  "Espere 10 segundos e tire a agulha",
+  "Tire a agulha da caneta e jogue no pote"
+ ],
+ "feel": [
+  "A agulha é fina. Quase não se sente",
+  "Às vezes sai uma gota de sangue ou fica um roxinho"
+ ],
+ "after": [
+  "Anote a dose e a glicose no diário",
+  "Mude os locais de aplicação. Assim não aparecem caroços",
+  "Ande sempre com algo doce, para o caso de glicose baixa"
+ ],
+ "red_flags": [
+  "Tremor, suor, muita fome, confusão: coma algo doce e meça a glicose",
+  "Pessoa desmaiada ou com convulsão: ligue para a emergência e não coloque nada na boca dela"
+ ],
+ "faq": [
+  {
+   "q": "Posso aplicar por cima da roupa?",
+   "a": "Não. Aplique na pele limpa. Assim o risco de infecção e de erro na dose é menor."
+  },
+  {
+   "q": "O que faço se esqueci uma aplicação?",
+   "a": "Não aplique dose dobrada. Meça a glicose e siga o plano que o médico deu. Se não tiver plano, ligue para o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Hora da insulina. Agulha nova, 2 unidades no ar, a dose, e 10 segundos."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Driver's medical exam",
+ "also": [
+  "driver's medical certificate",
+  "driving license medical",
+  "medical exam for driving",
+  "fitness to drive check"
+ ],
+ "what": "Several doctors check that you have no conditions that stop you driving safely. Then you get a medical certificate for your license.",
+ "why": "Before getting a license, when renewing it, after a suspension, or for work as a driver.",
+ "duration": "usually 1 to 3 hours, if all doctors are in one place; the certificate is often given the same day",
+ "tell_doctor": [
+  "If you wear glasses or contacts",
+  "Fainting, seizures, or epilepsy",
+  "Heart disease or diabetes",
+  "Medicines you take regularly"
+ ],
+ "prepare": [
+  {
+   "title": "Checklist",
+   "text": "Ask the clinic which doctors you need: usually a GP, an eye doctor, a psychiatrist, and an addiction specialist, and more for some license categories."
+  },
+  {
+   "title": "Certificates",
+   "text": "Sometimes the psychiatric and addiction certificates come from separate clinics. Check in advance."
+  },
+  {
+   "title": "The day before",
+   "text": "Get a good night's sleep, and do not drink alcohol."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Glasses or contacts, if you wear them",
+  "A photo, if the clinic asks",
+  "Your old license, if renewing"
+ ],
+ "steps": [
+  "At the front desk, a form is filled in, and you get a list of rooms",
+  "The eye doctor checks your vision, color vision, and visual field",
+  "The GP checks your blood pressure and asks about your health",
+  "The psychiatrist and addiction specialist ask questions",
+  "Sometimes extra tests are done",
+  "You get the certificate"
+ ],
+ "feel": [
+  "Nothing painful",
+  "There may be queues. Allow extra time"
+ ],
+ "after": [
+  "Hand in the certificate when applying for your license",
+  "The certificate is valid for a limited time. Check how long",
+  "If a doctor has doubts, you may be sent for tests"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can I pass the exam with glasses?",
+   "a": "Yes. If your vision is good enough with glasses, the certificate will say you may drive only with them."
+  },
+  {
+   "q": "How long is the certificate valid?",
+   "a": "It depends on the country's rules. Check with the clinic or when you hand in your documents."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Driver's medical tomorrow. Bring your ID, and your glasses or contacts if you wear them."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Dímero D",
+ "also": [
+  "dímero D",
+  "D-dímero",
+  "prueba de coágulos",
+  "análisis de trombosis"
+ ],
+ "what": "Es un análisis de sangre de la vena. Ayuda a saber si hay coágulos recientes en los vasos sanguíneos.",
+ "why": "Si se sospecha un coágulo en la pierna o en los pulmones, a veces en el embarazo, después de una cirugía o con algunas enfermedades.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar el mismo día o al día siguiente",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si estás embarazada o tuviste un bebé hace poco",
+  "Si tuviste una cirugía o un golpe fuerte hace poco",
+  "Si una pierna está hinchada y te duele"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Normalmente no hace falta nada especial. Es mejor ir en ayunas o unas horas después de una comida ligera. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas y él decidirá si hay que cambiar algo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve y la sangre llena el tubo",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un ligero mareo. Avísale a la enfermera"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos, sin doblar el brazo",
+  "Puedes comer de inmediato y seguir con tu día",
+  "El resultado suele estar en 1 día. En el laboratorio te dirán cuándo",
+  "Un dímero D alto no es un diagnóstico. El médico puede pedir un ultrasonido de las venas u otro estudio"
+ ],
+ "red_flags": [
+  "Falta de aire repentina, dolor de pecho o tos con sangre: llama a emergencias. No esperes el análisis",
+  "Una pierna se hinchó de golpe, está roja y duele: ve al médico el mismo día"
+ ],
+ "faq": [
+  {
+   "q": "Si el dímero D sale alto, ¿tengo un coágulo?",
+   "a": "No necesariamente. Sube en el embarazo, con inflamación, después de una cirugía y con la edad. Lo decide el médico."
+  },
+  {
+   "q": "¿Por qué me lo piden si me siento bien?",
+   "a": "A veces se pide para control, por ejemplo en el embarazo. Pregúntale al médico para qué es."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de dímero D. Mejor ve en ayunas. Puedes tomar agua."
+  }
+ ]
+}

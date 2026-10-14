@@ -1,0 +1,68 @@
+{
+ "title": "Endoscopia nasal",
+ "also": [
+  "endoscopia nasal",
+  "nasofibroscopia",
+  "videoendoscopia nasal",
+  "rinoscopia"
+ ],
+ "what": "O otorrino examina o nariz e a parte de trás do nariz por dentro, com um tubo fino com câmera.",
+ "why": "Com coriza que não passa, nariz entupido, sangramentos pelo nariz, ronco, suspeita de pólipos ou adenoide, ou depois de pancada no nariz.",
+ "duration": "normalmente de 5 a 10 minutos. O médico diz o resultado na hora",
+ "tell_doctor": [
+  "Se o seu nariz sangra com frequência",
+  "Remédios que afinam o sangue",
+  "Alergia a anestésicos locais",
+  "Se fez cirurgia no nariz há pouco tempo"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Antes do exame",
+   "text": "Assoe o nariz. Não use descongestionante por conta própria antes do exame, se o médico não pedir."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Imagens anteriores dos seios da face e laudos do otorrino"
+ ],
+ "steps": [
+  "Você se senta na cadeira, com a cabeça um pouco para trás",
+  "Borrifam ou colocam no nariz um remédio para anestesiar e desinchar",
+  "Depois de alguns minutos, o médico coloca o tubo fino no nariz",
+  "Examina as passagens do nariz e a parte de trás, com a imagem na tela",
+  "Retiram o tubo"
+ ],
+ "feel": [
+  "Frio e dormência pelo spray, às vezes gosto amargo na garganta",
+  "Pressão no nariz e vontade de espirrar",
+  "Os olhos lacrimejam. É normal"
+ ],
+ "after": [
+  "A dormência passa em 15 a 30 minutos",
+  "Você já pode seguir o seu dia",
+  "O médico normalmente explica na hora o que viu"
+ ],
+ "red_flags": [
+  "Sangramento pelo nariz que não para em 15 a 20 minutos: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Normalmente não, porque o nariz é anestesiado. É desagradável, mas dá para aguentar."
+  },
+  {
+   "q": "Criança pode fazer?",
+   "a": "Sim, há tubos finos para crianças. A criança precisa ficar quietinha, e um dos pais normalmente fica junto."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a endoscopia nasal. Assoe o nariz antes da consulta e leve as imagens anteriores, se tiver."
+  }
+ ]
+}

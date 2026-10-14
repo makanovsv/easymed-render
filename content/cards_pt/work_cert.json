@@ -1,0 +1,72 @@
+{
+ "title": "Exame médico ocupacional",
+ "also": [
+  "exame admissional",
+  "exame periódico",
+  "ASO",
+  "atestado de saúde ocupacional",
+  "exame médico para trabalho"
+ ],
+ "what": "Médicos verificam se sua saúde é compatível com o trabalho. Os médicos e exames dependem da profissão.",
+ "why": "Antes de ser contratado e depois com regularidade, se o trabalho tem riscos, envolve alimentos, crianças ou transporte.",
+ "duration": "normalmente de 1 a 2 horas até 1 a 2 dias, se forem precisos exames; o parecer sai depois de passar por todos os médicos",
+ "tell_doctor": [
+  "Doenças crônicas e remédios",
+  "Cirurgias e lesões",
+  "Gravidez, se houver",
+  "Se já teve restrições no trabalho antes"
+ ],
+ "prepare": [
+  {
+   "title": "Guia",
+   "text": "Leve a guia do empregador. Nela estão os riscos do trabalho e a profissão."
+  },
+  {
+   "title": "Exames",
+   "text": "Se precisar colher sangue em jejum, vá de manhã sem café da manhã. Confirme com a clínica."
+  },
+  {
+   "title": "Tempo",
+   "text": "Reserve tempo de sobra: às vezes são muitas salas."
+  }
+ ],
+ "bring": [
+  "A guia do empregador",
+  "Documento de identidade",
+  "Carteira de saúde, se for exigida",
+  "Resultados de exames anteriores, raio-X do tórax"
+ ],
+ "steps": [
+  "Na recepção, conferem a guia e entregam o roteiro",
+  "Você faz os exames de sangue e as avaliações necessárias",
+  "Passa pelos médicos da lista",
+  "Cada médico faz sua anotação",
+  "O médico responsável entrega o parecer"
+ ],
+ "feel": [
+  "Normalmente nada desagradável, além da picada na coleta de sangue",
+  "Pode haver fila"
+ ],
+ "after": [
+  "O parecer é entregue ao empregador",
+  "Se encontrarem algo, pedem exames complementares",
+  "O próximo exame, conforme o calendário do empregador"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Quem paga o exame?",
+   "a": "Normalmente o empregador. Confirme com ele antes."
+  },
+  {
+   "q": "Podem me considerar inapto para o trabalho?",
+   "a": "Sim, se a doença atrapalhar esse trabalho. Na maioria das vezes, dão tempo para tratamento ou exames complementares."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o exame ocupacional. Leve a guia e o documento. Se for colher sangue, não coma de manhã."
+  }
+ ]
+}

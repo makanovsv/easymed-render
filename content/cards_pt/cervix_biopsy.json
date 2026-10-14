@@ -1,0 +1,76 @@
+{
+ "title": "Biópsia do colo do útero",
+ "also": [
+  "biópsia do colo",
+  "biópsia dirigida do colo do útero",
+  "biópsia na colposcopia",
+  "biópsia de colo uterino"
+ ],
+ "what": "O médico tira um pedacinho minúsculo de tecido do colo do útero. Ele é analisado no microscópio.",
+ "why": "Quando o preventivo ou a colposcopia mostram alterações e é preciso entender o que são.",
+ "duration": "o procedimento leva normalmente de 5 a 15 minutos; o resultado sai normalmente em 1 a 2 semanas",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Remédios que afinam o sangue",
+  "Alergia a analgésicos e a iodo",
+  "Se agora você tem corrimento ou inflamação"
+ ],
+ "prepare": [
+  {
+   "title": "Dia do ciclo",
+   "text": "Normalmente é feito nos primeiros dias depois da menstruação. Não durante a menstruação."
+  },
+  {
+   "title": "2 dias antes",
+   "text": "Sem relação sexual, absorvente interno, ducha vaginal e óvulos vaginais, se o médico não disser outra coisa."
+  },
+  {
+   "title": "Analgésico",
+   "text": "Você pode perguntar ao médico se vale tomar um analgésico antes."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados do preventivo e da colposcopia",
+  "Um absorvente",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Você deita na maca ginecológica",
+  "O médico coloca o espéculo e examina o colo com o colposcópio, um aparelho de aumento",
+  "Passam uma solução no colo para ver a área alterada",
+  "Às vezes anestesiam",
+  "Com uma pinça especial, tiram um pedacinho de tecido",
+  "Se sangrar, tratam o local"
+ ],
+ "feel": [
+  "Um beliscão ou cólica rápida",
+  "Cólica como a da menstruação por alguns minutos",
+  "Às vezes uma leve tontura. Avise o médico"
+ ],
+ "after": [
+  "Um pouco de sangramento ou corrimento escuro, normalmente por alguns dias",
+  "Sem relação sexual, absorvente interno, banheira e piscina, normalmente por 1 a 2 semanas. O prazo exato quem diz é o médico",
+  "O resultado, o médico explica na consulta"
+ ],
+ "red_flags": [
+  "Sangramento como uma menstruação forte",
+  "Febre acima de 38 graus, dor forte, corrimento com cheiro ruim"
+ ],
+ "faq": [
+  {
+   "q": "Se fizeram biópsia, é câncer?",
+   "a": "Não. Na maioria das vezes se encontram alterações benignas. A biópsia serve para saber com certeza."
+  },
+  {
+   "q": "Dói?",
+   "a": "Normalmente é como um beliscão e uma cólica rápida. Dura pouco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a biópsia do colo do útero. Hoje, sem relação sexual e sem absorvente interno. Leve os resultados do preventivo e um absorvente."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Doppler das carótidas e vertebrais",
+ "also": [
+  "doppler de carótidas",
+  "doppler de vasos cervicais",
+  "ultrassom das artérias do pescoço",
+  "duplex de carótidas e vertebrais",
+  "doppler do pescoço"
+ ],
+ "what": "O médico examina com ultrassom os vasos do pescoço que levam sangue ao cérebro. Dá para ver placas, estreitamentos e como o sangue corre.",
+ "why": "Com tontura, dor de cabeça, zumbido no ouvido, depois de AVC, ou com colesterol e pressão altos.",
+ "duration": "normalmente de 20 a 40 minutos, o laudo sai na hora",
+ "tell_doctor": [
+  "O que incomoda: tontura, fraqueza no braço, alteração da fala ou da visão",
+  "Pressão alta, colesterol, diabetes",
+  "Se já teve AVC ou cirurgia nos vasos",
+  "Quais remédios você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Pescoço",
+   "text": "Tire correntes e brincos. Sem gola alta."
+  },
+  {
+   "title": "De manhã",
+   "text": "No dia do exame, é melhor evitar café em excesso e cigarro. Eles podem influenciar os vasos."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ultrassons anteriores dos vasos",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você se deita de barriga para cima e vira a cabeça um pouco para o lado",
+  "Passam gel no pescoço",
+  "O médico desliza o aparelho pelo pescoço, de um lado e do outro",
+  "Às vezes olham os vasos atrás da orelha e acima da clavícula",
+  "O médico mede o fluxo e a espessura das paredes"
+ ],
+ "feel": [
+  "Gel geladinho e uma leve pressão no pescoço",
+  "Você pode ouvir o barulho do sangue. É normal"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "O laudo normalmente sai na hora",
+  "Se encontrarem placa, o médico decide como tratar e quando repetir"
+ ],
+ "red_flags": [
+  "Fraqueza repentina no braço ou na perna, boca torta ou fala enrolada: ligue na hora para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dá para ver os vasos do cérebro?",
+   "a": "O pescoço aparece bem. Os vasos dentro do crânio são vistos em outro exame, o doppler transcraniano."
+  },
+  {
+   "q": "Placa é perigoso?",
+   "a": "Depende do tamanho e do tipo. O médico avalia e decide se precisa de tratamento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem doppler das carótidas. Não precisa de preparo. Tire a corrente e os brincos."
+  }
+ ]
+}

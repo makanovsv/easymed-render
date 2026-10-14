@@ -1,0 +1,82 @@
+{
+ "title": "Glucose test in pregnancy",
+ "also": [
+  "glucose tolerance test",
+  "GTT",
+  "OGTT in pregnancy",
+  "gestational diabetes test",
+  "glucose drink test"
+ ],
+ "what": "You give blood on an empty stomach, drink a sweet glucose solution, and give blood again after one hour and after two. This checks how your body handles sugar.",
+ "why": "Usually at 24 to 28 weeks of pregnancy, to catch gestational diabetes in time. Sometimes earlier, if your doctor sees a reason.",
+ "duration": "about 2 to 2.5 hours; results usually come in 1 to 2 days",
+ "tell_doctor": [
+  "If your blood sugar was high before",
+  "Severe morning sickness and vomiting",
+  "All the medicines you take",
+  "If you have a cold or feel unwell right now"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Fasting: usually 8 to 14 hours without food. Plain water is fine."
+  },
+  {
+   "title": "The day before",
+   "text": "Eat as usual. Do not diet in the days before. In the evening, do not overeat sweets."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Ask your doctor how to take your morning medicines."
+  },
+  {
+   "title": "Time",
+   "text": "Keep your morning free. You need to sit quietly at the clinic for 2 hours."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your pregnancy record",
+  "Water and a snack for after the test",
+  "A book or something to pass the time"
+ ],
+ "steps": [
+  "In the morning, on an empty stomach, blood is taken from a vein",
+  "You drink a glass of sweet solution within 5 minutes",
+  "You sit quietly. No walking, eating, or drinking",
+  "After one hour, blood is taken a second time",
+  "After two hours, a third time",
+  "Then you can eat"
+ ],
+ "feel": [
+  "The solution is very sweet and may make you feel sick",
+  "Sometimes mild weakness or dizziness. Tell the nurse",
+  "Three needle pricks in the vein"
+ ],
+ "after": [
+  "Eat right after the test",
+  "Results usually come in 1 to 2 days. Your doctor will explain them",
+  "If your sugar is high, your doctor will talk about diet and monitoring"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why can't I walk around during the test?",
+   "a": "Movement burns sugar and skews the result. You need to sit quietly."
+  },
+  {
+   "q": "What if I throw up the drink?",
+   "a": "Tell the nurse. Usually the test is stopped and moved to another day."
+  },
+  {
+   "q": "Is the glucose harmful to my baby?",
+   "a": "No. It is a normal amount of sugar, like in a sweet drink."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Glucose test tomorrow. Do not eat after dinner. Water is fine. No breakfast and nothing sweet in the morning."
+  }
+ ]
+}

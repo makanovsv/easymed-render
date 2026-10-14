@@ -1,0 +1,84 @@
+{
+ "title": "Anestesia epidural en el parto",
+ "also": [
+  "epidural",
+  "bloqueo epidural",
+  "parto sin dolor",
+  "anestesia para el parto"
+ ],
+ "what": "El anestesiólogo pone un tubito delgado en la espalda, cerca de la médula. Por ahí pasa el medicamento y el dolor de las contracciones baja mucho.",
+ "why": "Cuando las contracciones duelen mucho y quieres un alivio del dolor. A veces el médico la recomienda por razones médicas.",
+ "duration": "ponerla toma normalmente de 10 a 20 minutos; empieza a hacer efecto en 10 a 20 minutos y dura hasta el final del parto",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida y cuándo fue la última dosis",
+  "Problemas de coagulación",
+  "Cirugías o lesiones de la columna",
+  "Alergias a anestésicos",
+  "Enfermedades del corazón o neurológicas"
+ ],
+ "prepare": [
+  {
+   "title": "Antes del parto",
+   "text": "Platica con el médico del alivio del dolor antes del parto. Puedes decir que quieres la epidural."
+  },
+  {
+   "title": "Análisis",
+   "text": "Normalmente se necesita un análisis de sangre reciente de coagulación y plaquetas."
+  },
+  {
+   "title": "Decisión",
+   "text": "El anestesiólogo te explica los beneficios y los riesgos. Firmas un consentimiento."
+  }
+ ],
+ "bring": [
+  "Tu carnet prenatal",
+  "Los resultados de tus análisis",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena y suero",
+  "Te sientas inclinada hacia adelante y arqueando la espalda, o te acuestas de lado",
+  "Limpian y anestesian la piel de la espalda",
+  "El anestesiólogo mete la aguja, pasa el tubito delgado y retira la aguja",
+  "Es importante no moverte. Avisa cuando venga una contracción y el médico espera",
+  "Fijan el tubito con cinta y ponen el medicamento",
+  "La partera o enfermera vigila tu presión y el corazón del bebé"
+ ],
+ "feel": [
+  "La inyección para dormir la piel arde",
+  "Presión en la espalda al ponerla",
+  "Las piernas se sienten pesadas, calientes y dormidas",
+  "Las contracciones se sienten como presión, no como un dolor fuerte"
+ ],
+ "after": [
+  "El tubito se quita después del parto. No duele",
+  "La sensibilidad de las piernas regresa en unas horas",
+  "La primera vez que te levantes, solo con ayuda del personal",
+  "Un poco de dolor en la espalda donde fue la inyección puede pasar, y se quita"
+ ],
+ "red_flags": [
+  "Dolor de cabeza fuerte que empeora al sentarte o pararte: díselo al médico de inmediato",
+  "El adormecimiento o la debilidad de las piernas no se quita: díselo al médico de inmediato",
+  "Fiebre, dolor y enrojecimiento donde fue la inyección"
+ ],
+ "faq": [
+  {
+   "q": "¿La epidural le hace daño al bebé?",
+   "a": "Normalmente no. Llega muy poco medicamento a la sangre del bebé. Vigilan su corazón."
+  },
+  {
+   "q": "¿Voy a poder pujar?",
+   "a": "Normalmente sí. Las contracciones se sienten como presión y te dicen cuándo pujar."
+  },
+  {
+   "q": "¿Se puede poner en cualquier momento?",
+   "a": "Normalmente en la fase activa del parto. A veces ya es tarde o hay contraindicaciones. Lo decide el anestesiólogo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Platica antes con tu médico sobre el alivio del dolor en el parto. Ten tu carnet prenatal y tus análisis en la maleta para el hospital."
+  }
+ ]
+}

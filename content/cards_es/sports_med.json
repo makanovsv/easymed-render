@@ -1,0 +1,75 @@
+{
+ "title": "Certificado médico para deporte",
+ "also": [
+  "certificado médico deportivo",
+  "médico del deporte",
+  "revisión médica para deportistas",
+  "apto para competir"
+ ],
+ "what": "El médico revisa si tú o tu hijo pueden hacer deporte y con qué intensidad. Al final te dan un certificado de aptitud.",
+ "why": "Antes de inscribirte en un club o equipo, antes de competencias o pruebas físicas, o si lo pide el entrenador.",
+ "duration": "normalmente de 30 minutos a varias horas, si hay que ver a varios médicos; muchas veces el certificado te lo dan el mismo día",
+ "tell_doctor": [
+  "Dolor en el pecho, desmayos o falta de aire al hacer esfuerzo",
+  "Si en tu familia alguien murió de repente siendo joven o tuvo enfermedades del corazón",
+  "Lesiones y cirugías",
+  "Enfermedades crónicas y medicamentos",
+  "Qué deporte vas a hacer y con qué intensidad"
+ ],
+ "prepare": [
+  {
+   "title": "Requisitos",
+   "text": "Pregunta en la clínica o al entrenador qué médicos y análisis se necesitan para tu deporte."
+  },
+  {
+   "title": "El día anterior",
+   "text": "No hagas un entrenamiento pesado un día antes de la revisión. Puede alterar el electrocardiograma y la presión."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa y zapatos deportivos cómodos, si habrá una prueba de esfuerzo."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La cartilla de vacunación o el expediente del niño",
+  "Certificados e informes anteriores",
+  "Los requisitos del club o la federación, si tienes"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tu salud y tus entrenamientos",
+  "Mide tu estatura, peso, presión y pulso",
+  "Te hacen un electrocardiograma",
+  "A veces análisis, prueba de esfuerzo o revisión de otros médicos",
+  "El médico escucha tu corazón y pulmones, y revisa tu postura y articulaciones",
+  "Te dan el certificado de aptitud o te mandan a estudios"
+ ],
+ "feel": [
+  "La revisión no duele",
+  "La prueba de esfuerzo es como un entrenamiento normal; te puedes cansar"
+ ],
+ "after": [
+  "El certificado se entrega al entrenador o al club",
+  "El certificado vale por un tiempo limitado; pregunta cuánto",
+  "Si encuentran algo, el médico te dirá qué esfuerzo puedes hacer por ahora"
+ ],
+ "red_flags": [
+  "Dolor en el pecho, desmayo o falta de aire fuerte al entrenar: detente y llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Para qué un electrocardiograma en un niño sano?",
+   "a": "El electrocardiograma ayuda a encontrar problemas raros del corazón que son peligrosos con mucho esfuerzo."
+  },
+  {
+   "q": "¿Cada cuánto hay que sacar el certificado?",
+   "a": "Normalmente una vez al año; para competencias a veces más seguido. Pregunta los requisitos del club."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu revisión médica para deporte. Hoy no entrenes pesado, y lleva tus documentos."
+  }
+ ]
+}

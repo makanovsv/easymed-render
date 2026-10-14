@@ -1,0 +1,69 @@
+{
+ "title": "Consulta con el otorrino",
+ "also": [
+  "otorrino",
+  "otorrinolaringólogo",
+  "consulta de oído, nariz y garganta",
+  "especialista en garganta"
+ ],
+ "what": "El otorrino revisa tus oídos, nariz y garganta. Muchos problemas los ve de inmediato y puede ayudarte en ese momento.",
+ "why": "Si te duele el oído o la garganta, tienes la nariz tapada, mocos por más tiempo de lo normal, oyes menos, roncas o te sangra la nariz.",
+ "duration": "normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Qué te molesta y desde cuándo",
+  "Qué medicamentos y gotas ya probaste",
+  "Tus alergias",
+  "Si te han operado del oído, la nariz o la garganta"
+ ],
+ "prepare": [
+  {
+   "title": "Gotas",
+   "text": "Si te pones gotas en la nariz o en los oídos, díselo al médico. No dejes el tratamiento por tu cuenta."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Apunta antes tus molestias y tus preguntas."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus resúmenes médicos y radiografías anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta qué molestias tienes",
+  "Te revisa la garganta con un abatelenguas",
+  "Te revisa la nariz con un separador o una cámara delgada",
+  "Te revisa los oídos con un cono o un microscopio",
+  "A veces revisa tu audición",
+  "Te explica lo que encontró y te da indicaciones"
+ ],
+ "feel": [
+  "El abatelenguas en la lengua puede darte ganas de vomitar",
+  "La revisión de la nariz y los oídos normalmente no duele"
+ ],
+ "after": [
+  "Sigue las indicaciones del médico",
+  "Si te pidieron análisis o estudios, háztelos y regresa"
+ ],
+ "red_flags": [
+  "Te cuesta respirar o tragar, o se te escurre la saliva: llama a emergencias",
+  "Dolor fuerte de oído con hinchazón detrás de la oreja y fiebre: ve al médico de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo limpiarme los oídos yo mismo?",
+   "a": "Mejor no metas cotonetes muy adentro. Si hay un tapón de cerilla, lo quita el médico."
+  },
+  {
+   "q": "¿Necesito un pase para el otorrino?",
+   "a": "Depende de la clínica y de tu seguro. Pregunta al hacer la cita."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "En 2 horas es tu consulta con el otorrino. Lleva tus resúmenes médicos y la lista de medicamentos."
+  }
+ ]
+}

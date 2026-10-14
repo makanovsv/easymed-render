@@ -1,0 +1,71 @@
+{
+ "title": "Lung diffusion test (DLCO)",
+ "also": [
+  "DLCO",
+  "diffusion capacity test",
+  "gas transfer test",
+  "TLCO"
+ ],
+ "what": "You breathe in a safe gas mix and hold your breath for 10 seconds. The device shows how well your lungs pass gas into your blood.",
+ "why": "For shortness of breath with no clear cause, for diseases of the lung tissue, to track treatment, or before some treatments.",
+ "duration": "usually 15 to 30 minutes; the report is usually ready the same day",
+ "tell_doctor": [
+  "If you smoke and when you last smoked",
+  "Anemia or recent blood tests. They affect the result",
+  "If you need oxygen",
+  "What inhalers you use"
+ ],
+ "prepare": [
+  {
+   "title": "Smoking",
+   "text": "Do not smoke on the test day, at least from the morning. Smoking changes the result a lot."
+  },
+  {
+   "title": "Oxygen",
+   "text": "If you use oxygen, say so in advance. They will tell you what to do."
+  },
+  {
+   "title": "Food",
+   "text": "A light breakfast. No hard exercise before the test."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A recent blood test, if you have one",
+  "Past breathing tests",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You sit, and a clip is put on your nose",
+  "You hold the tube with your lips and breathe calmly",
+  "On command, you breathe all the way out",
+  "You take a quick, deep breath of the gas mix",
+  "You hold your breath for about 10 seconds",
+  "You breathe out calmly. This is repeated 2 or 3 times with breaks"
+ ],
+ "feel": [
+  "Holding your breath can be hard. Say so if you cannot manage",
+  "The gas mix has no smell and is safe"
+ ],
+ "after": [
+  "You can go back to your usual day right away",
+  "The report is usually ready the same day"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is the gas in the test dangerous?",
+   "a": "No. There is very little of it, and you breathe it out quickly."
+  },
+  {
+   "q": "Why can't I smoke before the test?",
+   "a": "Smoking changes your blood, and the test will look worse than it really is."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Lung diffusion test tomorrow. Do not smoke from the morning. Bring a recent blood test, if you have one."
+  }
+ ]
+}

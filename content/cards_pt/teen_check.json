@@ -1,0 +1,71 @@
+{
+ "title": "Consulta do adolescente",
+ "also": [
+  "consulta de rotina do adolescente",
+  "hebiatria",
+  "exame de saúde escolar",
+  "médico do adolescente"
+ ],
+ "what": "É a consulta de rotina do adolescente: crescimento, desenvolvimento, visão, postura, pressão. O médico conversa com o responsável e com o próprio adolescente.",
+ "why": "Conforme o calendário de consultas preventivas, antes da escola, do esporte ou de uma seleção.",
+ "duration": "normalmente de 30 a 60 minutos com o pediatra; com outros médicos, mais",
+ "tell_doctor": [
+  "Doenças crônicas e remédios",
+  "Queixas: dores de cabeça, cansaço, dor na barriga",
+  "Como o adolescente dorme e se alimenta",
+  "Se a menina já menstrua e como é a menstruação"
+ ],
+ "prepare": [
+  {
+   "title": "Conversa",
+   "text": "Avise o adolescente que o médico pode fazer parte das perguntas sem o responsável. É normal."
+  },
+  {
+   "title": "Documentos",
+   "text": "A caderneta de saúde e a carteira de vacinação."
+  },
+  {
+   "title": "Exames",
+   "text": "Se pedirem exame de sangue em jejum, vá de manhã sem café da manhã."
+  }
+ ],
+ "bring": [
+  "Documento do adolescente",
+  "A caderneta de saúde e a carteira de vacinação",
+  "Óculos, se usar"
+ ],
+ "steps": [
+  "A enfermagem mede altura, peso e pressão",
+  "Testam a visão",
+  "O médico examina a postura, a pele, o desenvolvimento",
+  "Parte das perguntas o médico pode fazer a sós com o adolescente",
+  "Às vezes pedem exames ou especialistas",
+  "O médico conversa com você sobre o resultado"
+ ],
+ "feel": [
+  "Nada doloroso",
+  "O adolescente pode ficar sem graça. O médico lida com isso com cuidado"
+ ],
+ "after": [
+  "Se encontrarem algo, pedem exames complementares",
+  "Vacinas, conforme o calendário",
+  "A próxima consulta, conforme o calendário"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que o médico conversa com o adolescente sem os pais?",
+   "a": "Assim o adolescente fala com mais sinceridade sobre a saúde. O que for importante para a segurança, o médico conversa com você."
+  },
+  {
+   "q": "Precisa de ginecologista ou urologista?",
+   "a": "Às vezes eles entram na consulta conforme a idade. Confirme no posto ou na clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta do adolescente. Leve a caderneta de saúde, a carteira de vacinação e o documento."
+  }
+ ]
+}

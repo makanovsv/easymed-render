@@ -1,0 +1,77 @@
+{
+ "title": "Biopsia de hígado",
+ "also": [
+  "biopsia hepática",
+  "biopsia de hígado por punción",
+  "biopsia hepática guiada por ultrasonido"
+ ],
+ "what": "Con una aguja delgada, por un piquete en el costado derecho, el médico toma un pedacito de hígado para analizarlo. Se hace con anestesia local y guiado con ultrasonido.",
+ "why": "Para precisar la causa de una enfermedad del hígado, ver qué tan avanzados están los cambios, o estudiar una bolita en el hígado.",
+ "duration": "el procedimiento suele durar de 15 a 30 minutos, después varias horas de observación; el resultado suele estar en 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico decidirá si hay que cambiar algo",
+  "Alergias, también a anestésicos locales",
+  "Problemas de coagulación",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Antes de la biopsia siempre se revisan la coagulación y las plaquetas."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes de 6 a 8 horas antes. La hora exacta te la dice la clínica."
+  },
+  {
+   "title": "Día",
+   "text": "Aparta todo el día: después de la biopsia tienes que estar acostado varias horas en observación."
+  }
+ ],
+ "bring": [
+  "La orden médica, tus análisis y tus ultrasonidos, tomografías o resonancias",
+  "La lista de tus medicamentos",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena",
+  "Te acuestas boca arriba con la mano derecha detrás de la cabeza",
+  "El médico elige el lugar en el costado derecho con ultrasonido",
+  "Limpian la piel y la adormecen con una inyección",
+  "Te piden sacar el aire y aguantar la respiración unos segundos",
+  "Con una aguja delgada toman rápido un pedacito de tejido",
+  "Ponen un vendaje y te acuestas sobre el lado derecho"
+ ],
+ "feel": [
+  "Piquete y ardor con la anestesia",
+  "Un clic y una presión breve cuando toman el tejido",
+  "Después puede doler el costado o el hombro derecho. Es normal"
+ ],
+ "after": [
+  "Varias horas te quedas acostado en observación y te miden la presión",
+  "Un día sin cargar cosas pesadas ni hacer deporte, y una semana sin esfuerzos grandes. Pregunta al médico",
+  "El vendaje se quita al día siguiente",
+  "Normalmente el médico te explica el resultado en consulta"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el abdomen o el costado que va en aumento: llama a emergencias",
+  "Mareo, debilidad, pulso rápido o sudor frío: llama a emergencias",
+  "Fiebre de más de 38 o falta de aire"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué duele el hombro después de la biopsia de hígado?",
+   "a": "Es un dolor reflejo por un nervio que está cerca del hígado. Normalmente se quita en 1 a 2 días."
+  },
+  {
+   "q": "¿Por qué hay que aguantar la respiración?",
+   "a": "El hígado se mueve al respirar. Aguantar la respiración ayuda a tomar el tejido con precisión y seguridad."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu biopsia de hígado. No comas después de la hora que te dijo la clínica. Aparta todo el día y ve con un acompañante."
+  }
+ ]
+}

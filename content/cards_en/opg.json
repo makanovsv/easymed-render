@@ -1,0 +1,63 @@
+{
+ "title": "Panoramic dental X-ray (OPG)",
+ "also": [
+  "panoramic X-ray",
+  "OPG",
+  "orthopantomogram",
+  "panorex",
+  "full mouth X-ray"
+ ],
+ "what": "One image shows all your teeth, both jaws, and the nearby bones at once.",
+ "why": "Before dental treatment and extractions, before implants and braces, and to find hidden infection and wisdom teeth.",
+ "duration": "usually 5 minutes; the image itself takes 10 to 20 seconds; you get the image right away",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "If the X-ray is for a child, say their age. The settings will be adjusted"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "None needed. You can eat and drink."
+  },
+  {
+   "title": "Metal",
+   "text": "Take off earrings, necklaces, face piercings, hair clips, glasses, and removable dentures."
+  }
+ ],
+ "bring": [
+  "Your dentist's referral, if you have one",
+  "Past dental X-rays"
+ ],
+ "steps": [
+  "A protective apron is put on you",
+  "You step into the machine and bite on a plastic piece",
+  "You close your lips and press your tongue to the roof of your mouth",
+  "The machine slowly moves around your head. Stand still",
+  "The image appears on the screen right away"
+ ],
+ "feel": [
+  "It does not hurt",
+  "You just stand for 10 to 20 seconds"
+ ],
+ "after": [
+  "You usually get the image right away, on a disc, a USB drive, or by email",
+  "Take it to your dentist"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "How much radiation is in a panoramic X-ray?",
+   "a": "The dose is small, about the same as a few days of normal natural background radiation."
+  },
+  {
+   "q": "How is a panoramic X-ray different from a dental CT?",
+   "a": "A panoramic X-ray is a flat picture of all the teeth. A CT is 3D and more detailed. It is ordered for implants and complex cases."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Panoramic dental X-ray soon. Take off earrings and piercings, and bring past X-rays."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "title": "Tratamento dentário com sedação",
+ "also": [
+  "sedação no dentista",
+  "tratamento dentário dormindo",
+  "sedação consciente",
+  "dentista sem medo"
+ ],
+ "what": "Você recebe um calmante e faz o tratamento dentário relaxado, meio sonolento. O dente é anestesiado com a injeção de sempre.",
+ "why": "Com muito medo de dentista, ânsia forte, ou quando é preciso fazer muita coisa de uma vez.",
+ "duration": "o tratamento leva normalmente de 1 a 3 horas, mais um tempo de descanso na clínica",
+ "tell_doctor": [
+  "Todos os remédios e doenças, principalmente do coração, dos pulmões e pressão",
+  "Ronco ou pausas na respiração durante o sono",
+  "Alergias",
+  "Se você está grávida ou pode estar",
+  "Se já teve problema com anestesia ou sedação"
+ ],
+ "prepare": [
+  {
+   "title": "Comida e bebida",
+   "text": "Normalmente não se come nem se bebe por algumas horas antes da sedação. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda remédios de uso contínuo por conta própria. Pergunte ao médico como tomar nesse dia."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Você precisa voltar para casa com um adulto. Dirigir não pode."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável de manga curta, sem esmalte nas unhas e sem maquiagem."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios",
+  "Um acompanhante",
+  "Resultados de exames, se pediram"
+ ],
+ "steps": [
+  "O anestesista ou o dentista faz perguntas e mede sua pressão",
+  "Colocam um sensor no dedo e um acesso na veia, ou dão o remédio de outro jeito",
+  "Aplicam o calmante, e você relaxa e cochila",
+  "O dente é anestesiado com uma injeção",
+  "O dentista trata os dentes, e a respiração e o pulso são monitorados o tempo todo",
+  "Você acorda e descansa na clínica até se recuperar"
+ ],
+ "feel": [
+  "Você fica calmo e sonolento, e depois não lembra de muita coisa",
+  "A picada na veia ou na gengiva é rápida",
+  "Depois, sono e fraqueza até o fim do dia"
+ ],
+ "after": [
+  "Descanse em casa até o fim do dia",
+  "Nesse dia, não dirija, não beba álcool e não tome decisões importantes",
+  "Não coma até passar a dormência",
+  "As orientações sobre os dentes, o dentista passa"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, lábios roxos: ligue para a emergência",
+  "A sonolência não passa, a pessoa custa a acordar: ligue para a emergência",
+  "Dor forte ou inchaço no local tratado"
+ ],
+ "faq": [
+  {
+   "q": "Isso é anestesia geral?",
+   "a": "Não. Com sedação você cochila, mas normalmente respira sozinho e consegue responder. A anestesia geral é um sono mais profundo."
+  },
+  {
+   "q": "Não vou sentir nada?",
+   "a": "Normalmente o tratamento é tranquilo. O dente também é anestesiado com injeção."
+  },
+  {
+   "q": "Posso ir para casa sozinho?",
+   "a": "Não. Precisa de um adulto acompanhando, e nesse dia você não pode dirigir."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o tratamento com sedação. Comida e água, só até o horário que a clínica indicou. Combine com seu acompanhante."
+  }
+ ]
+}

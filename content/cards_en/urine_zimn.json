@@ -1,0 +1,73 @@
+{
+ "title": "Zimnitsky urine test (24-hour, in portions)",
+ "also": [
+  "Zimnitsky test",
+  "urine concentration test",
+  "24-hour urine in portions",
+  "kidney concentration test"
+ ],
+ "what": "For 24 hours, you collect urine into 8 separate jars, one every 3 hours. This test is common in Russia and nearby countries. The lab checks how your kidneys concentrate urine by day and by night.",
+ "why": "To check how your kidneys work, if you pee often at night, or for swelling or thirst.",
+ "duration": "collection takes 24 hours; results usually come in 1 to 2 days",
+ "tell_doctor": [
+  "If you take water pills. Your doctor will tell you what to do on the collection day",
+  "If you have diabetes",
+  "If you have your period now"
+ ],
+ "prepare": [
+  {
+   "title": "Jars",
+   "text": "You need 8 clean containers. Label each with a time: 9:00, 12:00, 15:00, 18:00, 21:00, 0:00, 3:00, 6:00, or as the lab tells you."
+  },
+  {
+   "title": "Food and drink",
+   "text": "Eat and drink as usual. Write down how much you drank in 24 hours, if your doctor asked."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor about water pills in advance. They will decide."
+  },
+  {
+   "title": "Alarm",
+   "text": "Set an alarm for the night portions."
+  }
+ ],
+ "bring": [
+  "The 8 jars of urine",
+  "Your fluid log, if asked",
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "In the morning at about 6:00, pee into the toilet. You do not keep this urine",
+  "After that, every 3 hours, pee into the jar with the right time",
+  "If you need to pee again within those 3 hours, use the same jar",
+  "If a jar fills up, take an extra one and label it with the same time",
+  "Collect the last portion at 6:00 the next morning",
+  "Keep the jars in the fridge and take them to the lab in the morning"
+ ],
+ "feel": [
+  "Nothing unpleasant, but you need to watch the time, including at night"
+ ],
+ "after": [
+  "Results usually come in 1 to 2 days",
+  "Your doctor will explain the results"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What if I did not need to pee during one time slot?",
+   "a": "Leave that jar empty and still bring it to the lab."
+  },
+  {
+   "q": "Should I drink extra water?",
+   "a": "No. Drink as usual. Otherwise the result will not be accurate."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Your Zimnitsky urine collection starts tomorrow. Get 8 labeled jars ready and set an alarm for the night."
+  }
+ ]
+}

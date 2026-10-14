@@ -1,0 +1,72 @@
+{
+ "title": "Hepatitis B vaccine",
+ "also": [
+  "hepatitis B vaccine",
+  "hep B shot",
+  "hepatitis B vaccination",
+  "HBV vaccine"
+ ],
+ "what": "A vaccine shot that protects the liver from the hepatitis B virus. Usually several shots are needed on a schedule.",
+ "why": "For newborns in the first days of life, children on the schedule, unvaccinated adults, health workers, and people with a family member who carries the virus.",
+ "duration": "the shot takes a few seconds, with the checkup usually 15 to 40 minutes; the course is usually 3 shots over a few months",
+ "tell_doctor": [
+  "If you are ill now or have a fever",
+  "Allergies and strong reactions to past vaccines",
+  "Allergy to yeast",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "The vaccine is given when you are well. You will be checked first."
+  },
+  {
+   "title": "Schedule",
+   "text": "The course is usually 3 shots. Write down the dates so you do not miss one."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something that makes it easy to uncover your upper arm."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your vaccination certificate or record"
+ ],
+ "steps": [
+  "The doctor or nurse asks how you feel and takes your temperature",
+  "You uncover your upper arm",
+  "The skin is wiped, and the shot is given",
+  "The vaccine is recorded in your documents",
+  "After the shot, sit in the clinic for about 30 minutes"
+ ],
+ "feel": [
+  "A quick prick",
+  "Sometimes soreness at the spot for 1 to 2 days",
+  "Sometimes tiredness or a mild fever"
+ ],
+ "after": [
+  "Stay near the room for 30 minutes",
+  "You can go back to normal activities",
+  "Next shot on schedule. You will be given the date"
+ ],
+ "red_flags": [
+  "Trouble breathing, swelling of the face or throat, or a rash all over: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "What if I missed the second shot?",
+   "a": "The course usually does not need to start over. See your doctor, and they will continue from where you left off."
+  },
+  {
+   "q": "Should I check my protection after the course?",
+   "a": "Sometimes an antibody test is advised, for example for health workers. Ask your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Hepatitis B vaccine tomorrow. Bring your vaccination record."
+  }
+ ]
+}

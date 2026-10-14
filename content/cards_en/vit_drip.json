@@ -1,0 +1,67 @@
+{
+ "title": "Vitamin IV drip",
+ "also": [
+  "vitamin IV drip",
+  "IV vitamin therapy",
+  "vitamin infusion",
+  "IV drip for energy"
+ ],
+ "what": "A solution of vitamins and minerals is given through a drip into a vein.",
+ "why": "A doctor orders it for a proven vitamin shortage that cannot be fixed with food and pills. For energy and beauty, the benefit of these drips is not proven.",
+ "duration": "usually 30 to 60 minutes",
+ "tell_doctor": [
+  "Heart or kidney disease",
+  "Allergies to medicines or vitamins",
+  "All vitamins and supplements you already take",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "It is good to have blood tests before the drip, so the doctor can see what you are really missing."
+  },
+  {
+   "title": "Food",
+   "text": "It is usually better not to come hungry."
+  }
+ ],
+ "bring": [
+  "Test results, if you have them",
+  "A list of your medicines and supplements"
+ ],
+ "steps": [
+  "The doctor asks about your health and checks the order",
+  "The nurse puts an IV line in a vein",
+  "The drip is connected",
+  "You sit or lie down until the solution runs out",
+  "The IV line is removed, and a cotton pad is pressed on"
+ ],
+ "feel": [
+  "A cool feeling along the vein",
+  "Sometimes warmth or a taste in the mouth"
+ ],
+ "after": [
+  "You can go about your day right away",
+  "A small bruise at the IV site goes away on its own"
+ ],
+ "red_flags": [
+  "A rash, a swollen face, trouble breathing, or sudden weakness: call emergency services",
+  "The arm along the vein becomes red, swollen, and painful"
+ ],
+ "faq": [
+  {
+   "q": "Is it better than vitamin pills?",
+   "a": "Usually not, unless you have a condition where vitamins are poorly absorbed. Ask your doctor if you need a drip."
+  },
+  {
+   "q": "Can I get too many vitamins?",
+   "a": "Yes, some vitamins build up in the body. That is why you should tell your doctor about all your supplements."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "IV drip today. Eat something and bring a list of the vitamins and supplements you take."
+  }
+ ]
+}

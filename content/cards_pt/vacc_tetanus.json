@@ -1,0 +1,72 @@
+{
+ "title": "Vacina contra tétano (dupla adulto)",
+ "also": [
+  "dT",
+  "dupla adulto",
+  "vacina antitetânica",
+  "reforço do tétano"
+ ],
+ "what": "Uma injeção de vacina contra tétano, normalmente junto com difteria. Nos adultos, é repetida mais ou menos a cada 10 anos.",
+ "why": "Como reforço a cada 10 anos, e também depois de ferimentos e mordidas, se faz tempo desde a última dose.",
+ "duration": "a injeção leva alguns segundos, com a avaliação normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Quando foi a última vacina contra tétano",
+  "Se está doente agora ou com febre",
+  "Reações fortes a vacinas anteriores",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina de rotina é aplicada quando você está saudável."
+  },
+  {
+   "title": "Documentos",
+   "text": "Procure a carteira de vacinação. Por ela se vê quando é hora do reforço."
+  },
+  {
+   "title": "Depois de um ferimento",
+   "text": "Com ferimento ou mordida, não espere o prazo de rotina. Vá ao pronto atendimento."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "A carteira de vacinação"
+ ],
+ "steps": [
+  "O médico ou a enfermagem pergunta como você está e mede a temperatura",
+  "Você mostra o braço",
+  "A pele é limpa, e aplicam a injeção",
+  "A vacina é registrada nos documentos",
+  "Depois da injeção, é preciso ficar cerca de 30 minutos na clínica"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Muitas vezes o local dói e fica endurecido por 1 a 3 dias",
+  "Às vezes fraqueza ou um pouco de febre"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala",
+  "Não esfregue o local da injeção",
+  "O próximo reforço costuma ser em 10 anos"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Preciso da vacina se me cortei?",
+   "a": "Se a vacina foi há muito tempo ou você não lembra, procure o pronto atendimento. O médico decide o que é necessário."
+  },
+  {
+   "q": "Por que o braço dói tanto depois da vacina?",
+   "a": "É uma reação comum a essa vacina. Normalmente passa em alguns dias."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina contra tétano. Leve a carteira de vacinação."
+  }
+ ]
+}

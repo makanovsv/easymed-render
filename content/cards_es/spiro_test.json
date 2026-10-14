@@ -1,0 +1,76 @@
+{
+ "title": "Espirometría con broncodilatador",
+ "also": [
+  "espirometría con broncodilatador",
+  "prueba broncodilatadora",
+  "espirometría pre y post broncodilatador",
+  "prueba con salbutamol"
+ ],
+ "what": "Soplas fuerte en un tubo, luego inhalas un medicamento que abre los bronquios y soplas otra vez. Así se ve si la respiración mejora con el medicamento.",
+ "why": "Con tos, falta de aire o silbido en el pecho, para revisar si hay asma o EPOC, o para controlar el tratamiento.",
+ "duration": "normalmente de 30 a 40 minutos; el reporte muchas veces está de inmediato o el mismo día",
+ "tell_doctor": [
+  "Qué inhaladores y medicamentos para respirar usas",
+  "Si te operaron hace poco de los ojos, el pecho o el abdomen",
+  "Si tuviste un infarto hace poco o tienes enfermedades del corazón",
+  "Si ahora tienes gripa o estás peor de lo normal"
+ ],
+ "prepare": [
+  {
+   "title": "Inhaladores",
+   "text": "Algunos inhaladores no se usan unas horas antes de la prueba. No los dejes por tu cuenta. Pregunta antes al médico."
+  },
+  {
+   "title": "Cigarro y café",
+   "text": "No fumes al menos unas horas antes. En la mañana, sin café ni té cargado."
+  },
+  {
+   "title": "Comida",
+   "text": "Un desayuno ligero, sin comida pesada 2 horas antes. Sin esfuerzo fuerte antes de la prueba."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa holgada, sin cinturón apretado."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tus inhaladores",
+  "Tus espirometrías anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te sientas y te ponen una pinza en la nariz",
+  "Rodeas bien el tubo con los labios",
+  "Tomas aire profundo y lo sacas lo más fuerte y largo que puedas",
+  "Lo repites 3 veces o más",
+  "Inhalas el medicamento del inhalador",
+  "En 15 a 20 minutos repites los soplidos"
+ ],
+ "feel": [
+  "Por soplar tantas veces te puedes marear o te puede dar tos",
+  "El medicamento a veces da un poco de temblor o palpitaciones. Se pasa"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "Usa tus inhaladores como siempre, salvo que el médico te diga otra cosa",
+  "El reporte muchas veces está de inmediato"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Para qué el medicamento durante la prueba?",
+   "a": "Si después la respiración mejora mucho, eso ayuda al médico a saber qué enfermedad es y cómo tratarla."
+  },
+  {
+   "q": "¿Puedo usar el inhalador en la mañana?",
+   "a": "No lo decidas tú solo. Pregunta antes al médico. Algunos inhaladores no se deben usar antes de la prueba."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu espirometría con broncodilatador. Pregunta al médico por tus inhaladores. En la mañana no fumes ni tomes café."
+  }
+ ]
+}

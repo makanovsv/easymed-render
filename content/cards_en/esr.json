@@ -1,0 +1,67 @@
+{
+ "title": "ESR (sed rate)",
+ "also": [
+  "ESR",
+  "sed rate",
+  "erythrocyte sedimentation rate"
+ ],
+ "what": "This is a simple blood test. It shows how fast blood cells settle in a tube. It is a general sign of inflammation.",
+ "why": "Usually together with a complete blood count: at a checkup, or for fever, joint pain, or weakness.",
+ "duration": "the blood draw takes a few minutes; results usually come the next day",
+ "tell_doctor": [
+  "If you are pregnant",
+  "If you were recently ill or had a fever",
+  "What medicines you take"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Best in the morning before eating, or a few hours after a light meal. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours, no alcohol and no hard workouts. Best not to smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide if anything should change."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "Blood is usually taken from a vein, sometimes from a fingertip",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "A quick prick, and blood fills a tube",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes and keep your arm straight",
+  "You can eat right away and go back to your usual day",
+  "Results usually come in 1 day. The lab will tell you when"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is a high ESR dangerous?",
+   "a": "It is only a general sign. A cold, pregnancy, and age can raise it. Your doctor looks at it with other tests."
+  },
+  {
+   "q": "Why does ESR stay high after an illness?",
+   "a": "It goes back to normal slowly, sometimes over several weeks. Your doctor will order a repeat test."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "ESR blood test tomorrow. Best to come before eating. Water is fine."
+  }
+ ]
+}

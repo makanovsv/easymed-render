@@ -1,0 +1,78 @@
+{
+ "title": "Tratamento do ronco",
+ "also": [
+  "ronco",
+  "cirurgia de ronco",
+  "radiofrequência do palato",
+  "tratamento para roncar"
+ ],
+ "what": "O médico descobre onde, na garganta e no nariz, o ar fica preso e propõe o tratamento. Muitas vezes é um pequeno procedimento no palato mole ou no nariz, com anestesia local.",
+ "why": "Quando o ronco alto atrapalha você e quem dorme perto, principalmente se há pausas na respiração durante o sono.",
+ "duration": "a consulta leva normalmente 30 minutos; o procedimento, normalmente de 20 a 40 minutos, com alta no mesmo dia",
+ "tell_doctor": [
+  "Se há pausas na respiração durante o sono. Pergunte a quem dorme perto",
+  "Sono durante o dia, dor de cabeça de manhã",
+  "Pressão alta, doenças do coração, diabetes",
+  "Remédios que afinam o sangue",
+  "Alergia a anestésicos e analgésicos"
+ ],
+ "prepare": [
+  {
+   "title": "Sono",
+   "text": "O médico pode pedir primeiro um exame do sono (polissonografia), para descartar pausas na respiração. Isso é importante para escolher o tratamento."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda por conta própria. Conte ao médico o que toma, e ele decide."
+  },
+  {
+   "title": "Comida",
+   "text": "Antes do procedimento, normalmente uma refeição leve de 1 a 2 horas antes. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultado do exame do sono, se tiver",
+  "Lista de remédios",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "O médico examina o nariz, a garganta e o palato mole",
+  "Às vezes olha com uma câmera fina pelo nariz",
+  "Se for preciso o procedimento, a garganta ou o nariz é anestesiado com spray e injeção",
+  "Com um eletrodo fino, o médico firma e reduz o palato mole ou os cornetos",
+  "Depois do procedimento, você fica um pouco em observação e é liberado"
+ ],
+ "feel": [
+  "A injeção de anestesia incomoda",
+  "Depois do procedimento, a garganta dói por alguns dias, como numa amigdalite",
+  "No começo, engolir incomoda"
+ ],
+ "after": [
+  "Por alguns dias, comida macia e morna, sem picante e sem coisas quentes",
+  "Analgésico, conforme a receita",
+  "O efeito costuma aparecer em algumas semanas. Às vezes é preciso repetir o procedimento",
+  "Perder peso e evitar álcool à noite também diminuem o ronco"
+ ],
+ "red_flags": [
+  "Sangue na garganta que não para: ligue para a emergência",
+  "Dificuldade para respirar ou para engolir até água: ligue para a emergência",
+  "Febre acima de 38 graus"
+ ],
+ "faq": [
+  {
+   "q": "Ronco é perigoso?",
+   "a": "O ronco sozinho normalmente não é perigoso. Mas se a respiração para durante o sono, isso precisa ser tratado. Conte ao médico."
+  },
+  {
+   "q": "O ronco some para sempre?",
+   "a": "Em muita gente, o ronco fica mais baixo ou some. Às vezes volta com o tempo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o tratamento do ronco. Leve o resultado do exame do sono, se tiver, e a lista de remédios."
+  }
+ ]
+}

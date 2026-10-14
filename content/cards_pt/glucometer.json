@@ -1,0 +1,72 @@
+{
+ "title": "Como medir a glicose com glicosímetro",
+ "also": [
+  "medir glicose",
+  "glicosímetro",
+  "glicemia capilar",
+  "ponta de dedo"
+ ],
+ "what": "O glicosímetro mostra a glicose no sangue com uma gota do dedo. Dá para fazer sozinho em casa.",
+ "why": "Para quem tem diabetes, para ajustar o tratamento e perceber a tempo a glicose muito baixa ou muito alta.",
+ "duration": "cerca de 1 a 2 minutos, o resultado sai em poucos segundos",
+ "tell_doctor": [
+  "Com que frequência e quando você mede a glicose",
+  "Se a glicose fica baixa com frequência",
+  "Se os números do aparelho não batem com como você se sente"
+ ],
+ "prepare": [
+  {
+   "title": "Mãos",
+   "text": "Lave as mãos com água morna e sabonete e seque bem. Resto de doce no dedo altera o resultado."
+  },
+  {
+   "title": "Fitas",
+   "text": "Confira a validade. Guarde as fitas no pote fechado, longe da umidade e do sol."
+  },
+  {
+   "title": "Quando medir",
+   "text": "Quantas vezes por dia e quando, antes ou depois de comer e antes de dormir, quem diz é o médico."
+  }
+ ],
+ "bring": [
+  "Glicosímetro, fitas e lancetas",
+  "Diário ou celular para anotar"
+ ],
+ "steps": [
+  "Coloque a fita no glicosímetro",
+  "Coloque uma lanceta nova no lancetador",
+  "Fure a lateral da ponta do dedo. Ali dói menos",
+  "Massageie o dedo de leve até sair uma gota. Não aperte com força",
+  "Encoste a fita na gota. O aparelho puxa o sangue sozinho",
+  "Em poucos segundos aparece o número. Anote com o horário"
+ ],
+ "feel": [
+  "Uma picada rápida no dedo",
+  "Se furar sempre o mesmo lugar, pode doer. Troque de dedo"
+ ],
+ "after": [
+  "Aperte um algodão no dedo",
+  "Jogue fora a lanceta e a fita",
+  "Mostre o diário ao médico em toda consulta"
+ ],
+ "red_flags": [
+  "Glicose baixa e você se sente mal, com tremor, suor, confusão: coma algo doce e meça de novo",
+  "Glicose muito alta, muita sede, vômito, sonolência: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que o glicosímetro mostra diferente do laboratório?",
+   "a": "Uma pequena diferença é normal. Se a diferença for grande, confira as fitas e pergunte ao médico."
+  },
+  {
+   "q": "Preciso passar álcool no dedo?",
+   "a": "Normalmente basta lavar as mãos. Se passou álcool, espere o dedo secar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 0,
+   "text": "Hora de medir a glicose. Lave as mãos, fure a lateral do dedo e anote o resultado."
+  }
+ ]
+}

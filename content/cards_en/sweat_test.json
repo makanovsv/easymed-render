@@ -1,0 +1,76 @@
+{
+ "title": "Sweat test",
+ "also": [
+  "sweat test",
+  "sweat chloride test",
+  "cystic fibrosis test",
+  "sweat test for children"
+ ],
+ "what": "A little sweating is triggered on the skin of the arm, and the sweat is collected. The salt in it is measured. This helps check for cystic fibrosis.",
+ "why": "If newborn screening showed a risk of cystic fibrosis, or for frequent bronchitis and pneumonia, poor weight gain, or greasy stools.",
+ "duration": "usually 30 to 60 minutes; results often come the same day",
+ "tell_doctor": [
+  "If your child has eczema or irritated skin on the arms",
+  "If your child takes steroids or water pills",
+  "If your child is ill or has a fever now",
+  "Your baby's weight and age in weeks"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually no special prep. Feed your child as usual."
+  },
+  {
+   "title": "Skin",
+   "text": "On the test day, do not put creams or oils on the arms."
+  },
+  {
+   "title": "Health",
+   "text": "If your child is ill now, ask if the test should be moved."
+  },
+  {
+   "title": "Kids",
+   "text": "Bring a toy, a book, or cartoons. Your child needs to sit for about half an hour."
+  }
+ ],
+ "bring": [
+  "The referral",
+  "Your child's documents",
+  "The newborn screening report, if you have it",
+  "A toy and a snack"
+ ],
+ "steps": [
+  "The skin on the forearm is washed and dried",
+  "Two small electrodes with gel are placed, and a weak current runs for about 5 minutes",
+  "The electrodes are removed, and a sweat collector is attached to the spot",
+  "Your child sits quietly for about 30 minutes with the arm covered",
+  "The collector is removed and sent to the lab"
+ ],
+ "feel": [
+  "Light tingling or warmth under the electrodes",
+  "It does not hurt, but waiting can be boring for a child",
+  "Afterward, the skin may be a little red"
+ ],
+ "after": [
+  "The redness goes away in a few hours",
+  "Results often come the same day or in 1 to 2 days",
+  "Sometimes the test is repeated if too little sweat was collected"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is the current safe for my child?",
+   "a": "Yes. The current is very weak. It only helps the skin make sweat."
+  },
+  {
+   "q": "What if the result is borderline?",
+   "a": "The doctor may order a repeat test or a genetic test."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Sweat test tomorrow. Do not put cream on your child's arms, and bring a toy for the half-hour wait."
+  }
+ ]
+}

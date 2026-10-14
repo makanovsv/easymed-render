@@ -1,0 +1,76 @@
+{
+ "title": "Instilación vesical",
+ "also": [
+  "instilación vesical",
+  "medicamento dentro de la vejiga",
+  "lavado vesical con medicamento"
+ ],
+ "what": "Por una sonda delgada, el médico pone el medicamento directo en la vejiga. El medicamento actúa en la pared de la vejiga por dentro.",
+ "why": "En la inflamación crónica de la vejiga, en algunos dolores de vejiga y para prevenir después del tratamiento de tumores.",
+ "duration": "el procedimiento suele durar de 10 a 15 minutos; el medicamento se queda en la vejiga de 30 minutos a 2 horas, el médico te dirá",
+ "tell_doctor": [
+  "Si ahora tienes fiebre, dolor o sangre en la orina",
+  "Tus alergias, también al látex y a los geles anestésicos",
+  "Todos los medicamentos que tomas",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Líquidos",
+   "text": "Unas horas antes normalmente piden tomar menos líquidos, para que el medicamento dure más en la vejiga. Pregunta en la clínica."
+  },
+  {
+   "title": "Vejiga",
+   "text": "Orina antes del procedimiento."
+  },
+  {
+   "title": "Serie",
+   "text": "Normalmente es una serie de varias sesiones. Pregunta el calendario."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Una toalla sanitaria o ropa interior de cambio"
+ ],
+ "steps": [
+  "Orinas y te acuestas boca arriba en la camilla",
+  "Limpian los genitales con antiséptico",
+  "Ponen un gel con anestesia en la uretra",
+  "Meten una sonda delgada",
+  "Por la sonda pasan el medicamento",
+  "Quitan la sonda y el medicamento se queda en la vejiga el tiempo que diga el médico"
+ ],
+ "feel": [
+  "Es molesto cuando meten la sonda",
+  "Ganas de orinar mientras el medicamento está en la vejiga",
+  "Un poco de ardor después del procedimiento"
+ ],
+ "after": [
+  "Orina cuando el médico lo permita",
+  "Después toma más agua, si el médico no te dijo otra cosa",
+  "El primer día puede haber ardor y ganas de orinar seguido",
+  "Algunos medicamentos piden una higiene especial después. El médico te explica"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 o escalofríos",
+  "No puedes orinar",
+  "Mucha sangre en la orina"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente no. La sonda es delgada y se usa gel anestésico. Puede ser molesto."
+  },
+  {
+   "q": "¿Cuántas sesiones necesito?",
+   "a": "Normalmente es una serie de varias sesiones. El médico decide cuántas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Pronto es tu instilación vesical. Normalmente piden tomar menos líquidos unas horas antes. Orina antes del procedimiento."
+  }
+ ]
+}

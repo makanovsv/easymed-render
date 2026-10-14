@@ -1,0 +1,77 @@
+{
+ "title": "Primeira consulta do recém-nascido",
+ "also": [
+  "primeira consulta do bebê",
+  "consulta de puericultura",
+  "visita domiciliar ao recém-nascido",
+  "pediatra depois da maternidade"
+ ],
+ "what": "O pediatra e a enfermagem examinam o bebê nos primeiros dias depois da maternidade. Muitas vezes eles vão até a sua casa.",
+ "why": "Para todos os recém-nascidos depois da alta da maternidade.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Como foi o parto e o que disseram na maternidade",
+  "Como o bebê mama e quantas fraldas molha por dia",
+  "Se a pele está ficando amarelada",
+  "Como está cicatrizando o umbigo",
+  "Tudo o que preocupa você"
+ ],
+ "prepare": [
+  {
+   "title": "Documentos",
+   "text": "Deixe à mão o resumo de alta da maternidade e os documentos do bebê."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Anote as perguntas sobre mamada, sono e banho, para não esquecer."
+  },
+  {
+   "title": "Lugar",
+   "text": "Prepare o trocador ou um lugar limpo para examinar o bebê."
+  }
+ ],
+ "bring": [
+  "O resumo de alta da maternidade",
+  "Os documentos do bebê",
+  "A lista de perguntas"
+ ],
+ "steps": [
+  "O médico pergunta sobre o parto e como vocês estão",
+  "Examina a pele, a cabeça, os olhos e o umbigo",
+  "Ausculta o coração e os pulmões e testa os reflexos",
+  "Observa a mamada e, se preciso, ajuda",
+  "Explica os cuidados e o que deve preocupar",
+  "Marca a próxima consulta"
+ ],
+ "feel": [
+  "O bebê pode chorar ao tirar a roupa. É normal",
+  "O exame não dói"
+ ],
+ "after": [
+  "A próxima consulta costuma ser com 1 mês",
+  "Cuide do umbigo como o médico mostrou",
+  "Ligue para o posto ou a clínica em qualquer dúvida"
+ ],
+ "red_flags": [
+  "O bebê está molinho, mama mal ou não acorda para mamar: ligue para a emergência",
+  "Febre acima de 38 graus ou pele fria e pálida: ligue para a emergência",
+  "A icterícia aumenta ou a pele ficou amarela até as perninhas",
+  "O umbigo ficou vermelho, úmido ou com cheiro ruim"
+ ],
+ "faq": [
+  {
+   "q": "É normal o bebê ficar um pouco amarelinho?",
+   "a": "Um pouco de amarelo nos primeiros dias é comum. Mostre ao médico, e ele diz se é preciso examinar."
+  },
+  {
+   "q": "De quanto em quanto tempo amamentar?",
+   "a": "Normalmente em livre demanda, muitas vezes de 8 a 12 vezes por dia. O médico verifica se o bebê está mamando o suficiente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a primeira consulta do bebê. Separe o resumo de alta da maternidade e a lista de perguntas."
+  }
+ ]
+}

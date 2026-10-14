@@ -1,0 +1,72 @@
+{
+ "title": "Triagem bioquímica na gravidez",
+ "also": [
+  "triagem pré-natal",
+  "duplo teste",
+  "triplo teste",
+  "triagem bioquímica",
+  "rastreio do primeiro trimestre"
+ ],
+ "what": "A gestante colhe sangue da veia para medir proteínas e hormônios especiais. Junto com o ultrassom, isso ajuda a avaliar o risco de algumas doenças no bebê.",
+ "why": "Para todas as gestantes em semanas específicas: normalmente entre 11 e 14 semanas, às vezes no segundo trimestre.",
+ "duration": "a coleta leva de 3 a 5 minutos, o resultado sai normalmente em 2 a 7 dias",
+ "tell_doctor": [
+  "A idade gestacional exata e os dados do último ultrassom",
+  "Se a gravidez é de gêmeos ou por fertilização in vitro",
+  "Se você tem diabetes",
+  "Se você fuma",
+  "O seu peso exato. Ele entra no cálculo"
+ ],
+ "prepare": [
+  {
+   "title": "Momento",
+   "text": "O sangue é colhido nas semanas que o médico indicou. Muitas vezes no mesmo dia ou perto do ultrassom de triagem."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente em jejum ou algumas horas depois de uma refeição leve. Na véspera, evite comida gordurosa. Confirme com a clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento com foto",
+  "Laudo do ultrassom"
+ ],
+ "steps": [
+  "Você preenche um formulário: idade gestacional, peso e altura",
+  "Você se senta e apoia o braço",
+  "Colocam o garrote acima do cotovelo e limpam a pele",
+  "O sangue vai para o tubo",
+  "Retiram a agulha e colocam um algodão"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "O procedimento é seguro para o bebê"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "O resultado sai normalmente em 2 a 7 dias. É um cálculo de risco, não um diagnóstico",
+  "Se o risco for alto, o médico sugere exames adicionais"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Risco alto quer dizer que o bebê tem uma doença?",
+   "a": "Não. Quer dizer que é preciso investigar mais. A maioria das mulheres com risco alto tem bebês saudáveis."
+  },
+  {
+   "q": "Por que a idade gestacional exata é importante?",
+   "a": "Os níveis das proteínas mudam a cada semana. Se a idade estiver errada, o cálculo do risco sai errado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz a triagem pré-natal. Leve o laudo do ultrassom e confirme se precisa ir em jejum."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Como medir a pressão em casa",
+ "also": [
+  "medir pressão",
+  "aparelho de pressão",
+  "pressão em casa",
+  "diário da pressão"
+ ],
+ "what": "O aparelho com manguito no braço mostra a pressão e o pulso. É importante medir do jeito certo. Se não, os números saem errados.",
+ "why": "Com pressão alta, ajuste de tratamento, doenças do coração e dos rins ou na gravidez, por orientação do médico.",
+ "duration": "cerca de 5 a 10 minutos, com o descanso",
+ "tell_doctor": [
+  "Quais números você tem em casa, de manhã e à noite",
+  "Se a pressão varia muito",
+  "Se o seu aparelho é de pulso e não de braço"
+ ],
+ "prepare": [
+  {
+   "title": "30 minutos antes",
+   "text": "Não fume, não tome café nem chá forte, e sem esforço."
+  },
+  {
+   "title": "Antes de medir",
+   "text": "Vá ao banheiro e fique sentado tranquilo por 5 minutos."
+  },
+  {
+   "title": "Manguito",
+   "text": "O tamanho do manguito precisa servir no seu braço. Um manguito pequeno demais dá pressão mais alta."
+  }
+ ],
+ "bring": [
+  "Aparelho de pressão",
+  "Diário da pressão. Mostre ao médico"
+ ],
+ "steps": [
+  "Sente numa cadeira, com as costas apoiadas e os pés no chão, sem cruzar as pernas",
+  "Coloque o manguito no braço sem roupa, 2 a 3 centímetros acima do cotovelo",
+  "Apoie o braço na mesa, com o manguito na altura do coração",
+  "Aperte o botão. Não fale e não se mexa",
+  "Depois de 1 a 2 minutos, meça de novo",
+  "Anote os dois resultados e o horário"
+ ],
+ "feel": [
+  "O manguito aperta forte o braço por alguns segundos. É normal"
+ ],
+ "after": [
+  "Normalmente se mede de manhã e à noite por alguns dias seguidos. Quantos, o médico diz",
+  "Não mude a dose dos remédios por conta própria por causa de um número. Mostre o diário ao médico"
+ ],
+ "red_flags": [
+  "Pressão muito alta com dor de cabeça, dor no peito, fala enrolada ou fraqueza no braço: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Em qual braço medir?",
+   "a": "Na primeira vez, nos dois. Depois, meça no braço em que a pressão deu mais alta."
+  },
+  {
+   "q": "Por que no consultório a pressão é mais alta que em casa?",
+   "a": "O nervosismo no consultório muitas vezes aumenta a pressão. Por isso o diário de casa ajuda muito."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 0,
+   "text": "Hora de medir a pressão. Fique 5 minutos sentado tranquilo, manguito na altura do coração, duas medidas."
+  }
+ ]
+}

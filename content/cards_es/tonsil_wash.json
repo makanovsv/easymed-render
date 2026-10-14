@@ -1,0 +1,68 @@
+{
+ "title": "Lavado de amígdalas",
+ "also": [
+  "lavado de criptas amigdalinas",
+  "limpieza de amígdalas",
+  "caseum amigdalino",
+  "piedras en las amígdalas"
+ ],
+ "what": "El médico lava las amígdalas con una solución con medicamento. Así salen las bolitas blancas y el pus.",
+ "why": "En amigdalitis crónica, anginas frecuentes, bolitas blancas en las amígdalas y mal aliento.",
+ "duration": "normalmente de 10 a 15 minutos; muchas veces se indica una serie de varias sesiones",
+ "tell_doctor": [
+  "Si ahora tienes fiebre o una infección de garganta",
+  "Alergias a medicamentos o soluciones",
+  "Si te dan muchas ganas de vomitar con facilidad",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Mejor no comas 1 o 2 horas antes, para que no te den náuseas."
+  },
+  {
+   "title": "Después",
+   "text": "No planees comer justo después. Normalmente recomiendan esperar."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La orden médica, si tienes"
+ ],
+ "steps": [
+  "Te sientas en el sillón",
+  "Te pueden anestesiar la garganta con un spray",
+  "El médico lava las amígdalas con una jeringa especial o un aparato",
+  "La solución saca las bolitas",
+  "Escupes la solución en una charola",
+  "A veces untan medicamento en las amígdalas"
+ ],
+ "feel": [
+  "Ganas de vomitar",
+  "Es molesto, pero normalmente no duele",
+  "Después, un poco de picor en la garganta"
+ ],
+ "after": [
+  "No comas ni bebas por una hora más o menos, o como te diga el médico",
+  "Completa toda la serie, si te la indicaron"
+ ],
+ "red_flags": [
+  "Fiebre alta, dolor fuerte de garganta de un lado o te cuesta abrir la boca: ve al médico de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo lavarme las amígdalas en casa?",
+   "a": "Hacer gárgaras puede ayudar, pero sacar bien las bolitas lo hace el médico."
+  },
+  {
+   "q": "¿Esto ayuda a no tener que quitar las amígdalas?",
+   "a": "Muchas veces ayuda. Si hace falta operar, lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "En 2 horas es tu lavado de amígdalas. Mejor no comas antes."
+  }
+ ]
+}

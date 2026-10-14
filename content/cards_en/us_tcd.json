@@ -1,0 +1,71 @@
+{
+ "title": "Transcranial Doppler",
+ "also": [
+  "transcranial Doppler",
+  "TCD ultrasound",
+  "brain blood flow ultrasound",
+  "TCD"
+ ],
+ "what": "The doctor uses ultrasound through the skull to see how blood flows in the brain's vessels. It is safe and painless.",
+ "why": "For dizziness, after a stroke, with narrowed neck arteries, frequent headaches, or some blood disorders.",
+ "duration": "usually 20 to 40 minutes; the report is ready right away",
+ "tell_doctor": [
+  "What bothers you and for how long",
+  "If you had a stroke, head injury, or surgery",
+  "What medicines you take",
+  "Past tests of the neck and head vessels"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "Usually none. You can eat and drink."
+  },
+  {
+   "title": "Morning",
+   "text": "Better to skip extra coffee, energy drinks, and smoking. They affect blood flow."
+  },
+  {
+   "title": "Hair",
+   "text": "No hair products or styling. Gel goes on the temple and the back of the head."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past vessel ultrasounds",
+  "A list of your medicines",
+  "A comb or tissues"
+ ],
+ "steps": [
+  "You lie on your back",
+  "Gel is put on your temple",
+  "The doctor presses the probe to your temple and finds the vessels",
+  "Then the back of the head is checked. You are asked to tilt your head forward",
+  "Sometimes you are asked to hold your breath or breathe fast"
+ ],
+ "feel": [
+  "Light pressure on the temple and the back of the head",
+  "Breathing fast can make you a little dizzy. It passes"
+ ],
+ "after": [
+  "You can go back to your usual day right away",
+  "The report is usually ready right away",
+  "Go over the results with a neurologist"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can ultrasound go through the skull?",
+   "a": "Yes, through thin spots: the temple, the back of the head, and the eye socket. In some people the bone is thicker, and the view is not as clear."
+  },
+  {
+   "q": "Is it dangerous for the brain?",
+   "a": "No. Ultrasound uses no radiation and does no harm."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Transcranial Doppler tomorrow. In the morning, skip extra coffee and smoking. No hair styling."
+  }
+ ]
+}

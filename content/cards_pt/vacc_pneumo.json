@@ -1,0 +1,71 @@
+{
+ "title": "Vacina pneumocócica",
+ "also": [
+  "vacina pneumocócica",
+  "vacina contra pneumonia",
+  "vacina contra pneumococo"
+ ],
+ "what": "Uma injeção de vacina que protege contra o pneumococo, causa comum de pneumonia grave, otite e meningite.",
+ "why": "Para crianças conforme o calendário, desde os primeiros meses de vida. Para adultos, normalmente depois dos 65 anos e em doenças do coração, dos pulmões e diabetes.",
+ "duration": "a injeção leva alguns segundos, com a avaliação normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Se está doente agora ou com febre",
+  "Reações fortes a vacinas anteriores",
+  "Quais vacinas pneumocócicas você já tomou",
+  "Doenças crônicas"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é aplicada quando você está saudável."
+  },
+  {
+   "title": "Esquema",
+   "text": "Há vacinas diferentes, e o esquema depende da idade. O médico escolhe."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, para mostrar o braço com facilidade."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "A carteira de vacinação"
+ ],
+ "steps": [
+  "O médico ou a enfermagem pergunta como você está e mede a temperatura",
+  "Você mostra o braço",
+  "A pele é limpa, e aplicam a injeção",
+  "A vacina é registrada nos documentos",
+  "Depois da injeção, é preciso ficar cerca de 30 minutos na clínica"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes o local dói ou fica vermelho por 1 a 2 dias",
+  "Às vezes fraqueza ou um pouco de febre"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala",
+  "Pode voltar às atividades normais",
+  "Se precisa de outra dose, o médico vai dizer"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A vacina protege contra qualquer pneumonia?",
+   "a": "Não, só contra a causada pelo pneumococo. Mas essa é uma das causas mais comuns e perigosas."
+  },
+  {
+   "q": "Posso tomar junto com a vacina da gripe?",
+   "a": "Normalmente sim, no mesmo dia. Pergunte ao médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina pneumocócica. Leve a carteira de vacinação."
+  }
+ ]
+}

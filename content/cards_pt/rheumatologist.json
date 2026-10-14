@@ -1,0 +1,66 @@
+{
+ "title": "Consulta com reumatologista",
+ "also": [
+  "reumatologista",
+  "médico das articulações",
+  "médico de artrite"
+ ],
+ "what": "É o médico que trata as doenças inflamatórias das articulações, da coluna e do tecido conjuntivo.",
+ "why": "Com dor, inchaço e rigidez nas articulações, principalmente de manhã, e com alterações nos exames de inflamação.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Quais articulações doem e quanto tempo dura a rigidez de manhã",
+  "Se há inchaço, vermelhidão nas articulações, manchas na pele, febre",
+  "Quais remédios você toma, inclusive analgésicos",
+  "Doenças das articulações na família"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Leve os exames de sangue e as radiografias das articulações, se fez."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, para mostrar com facilidade as articulações das mãos e dos pés."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Examina e apalpa as articulações",
+  "Confere como elas se movimentam",
+  "Olha os exames e as imagens",
+  "Pede exames ou indica o tratamento"
+ ],
+ "feel": [
+  "Apalpar as articulações doloridas pode incomodar",
+  "Avise o médico se doer. Ele vai com mais cuidado"
+ ],
+ "after": [
+  "Faça os exames pedidos",
+  "O tratamento muitas vezes é longo. Não interrompa por conta própria"
+ ],
+ "red_flags": [
+  "Inchaço forte na articulação com febre alta: procure o médico no mesmo dia"
+ ],
+ "faq": [
+  {
+   "q": "Qual a diferença entre reumatologista e ortopedista?",
+   "a": "O reumatologista trata a inflamação das articulações com remédios. O ortopedista trata lesões e desgaste das articulações, muitas vezes com cirurgia."
+  },
+  {
+   "q": "Quais exames levar?",
+   "a": "Todos os que já fez: hemograma, VHS, proteína C reativa. O que for preciso, o médico pede."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o reumatologista. Leve os exames e as imagens das articulações."
+  }
+ ]
+}

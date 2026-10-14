@@ -1,0 +1,71 @@
+{
+ "title": "Revisión médica del adolescente",
+ "also": [
+  "revisión del adolescente",
+  "chequeo médico escolar",
+  "consulta del adolescente",
+  "medicina del adolescente"
+ ],
+ "what": "Es la revisión de rutina del adolescente: estatura, desarrollo, vista, postura y presión. El médico habla con el papá o la mamá y también con el adolescente.",
+ "why": "Según el calendario de revisiones preventivas, antes de la escuela, del deporte o de entrar a estudiar.",
+ "duration": "normalmente de 30 a 60 minutos con el pediatra; con otros médicos, más",
+ "tell_doctor": [
+  "Enfermedades crónicas y medicamentos",
+  "Molestias: dolores de cabeza, cansancio, dolor de estómago",
+  "Cómo duerme y cómo come",
+  "En una chica, si ya empezó a reglar y cómo es la regla"
+ ],
+ "prepare": [
+  {
+   "title": "Plática",
+   "text": "Avísale a tu hijo que el médico puede hacerle algunas preguntas sin ti. Es normal."
+  },
+  {
+   "title": "Documentos",
+   "text": "El expediente médico y la cartilla de vacunación."
+  },
+  {
+   "title": "Análisis",
+   "text": "Si piden sangre en ayunas, lleguen en la mañana sin desayunar."
+  }
+ ],
+ "bring": [
+  "El documento del adolescente",
+  "El expediente médico y la cartilla de vacunación",
+  "Sus lentes, si usa"
+ ],
+ "steps": [
+  "La enfermera mide su estatura, peso y presión",
+  "Revisan la vista",
+  "El médico revisa la postura, la piel y el desarrollo",
+  "El médico puede hacerle algunas preguntas a solas",
+  "A veces piden análisis o especialistas",
+  "El médico platica contigo el resultado"
+ ],
+ "feel": [
+  "Nada doloroso",
+  "Al adolescente le puede dar pena. El médico lo trata con cuidado"
+ ],
+ "after": [
+  "Si encuentran algo, pedirán más estudios",
+  "Vacunas según el calendario",
+  "La siguiente revisión, según el calendario"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué el médico habla con mi hijo sin mí?",
+   "a": "Así el adolescente cuenta con más confianza sobre su salud. Lo importante para su seguridad, el médico lo platicará contigo."
+  },
+  {
+   "q": "¿Necesita ginecólogo o urólogo?",
+   "a": "A veces se incluyen según la edad. Pregunta en tu clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la revisión de tu hijo adolescente. Lleva su expediente, la cartilla de vacunación y su documento."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "title": "Rapid test for COVID-19 and flu",
+ "also": [
+  "rapid COVID test",
+  "flu test",
+  "rapid antigen test",
+  "COVID and flu combo test"
+ ],
+ "what": "A nurse runs a soft swab inside your nose. The test shows COVID and flu viruses in 15 to 20 minutes.",
+ "why": "For fever, cough, runny nose, or sore throat, to quickly find the cause of your illness.",
+ "duration": "the swab takes about a minute; results usually come in 15 to 20 minutes",
+ "tell_doctor": [
+  "When your symptoms started",
+  "If you get nosebleeds often or had nose surgery",
+  "If you have long-term illnesses or are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Nose",
+   "text": "For a few hours before, do not use nose drops or sprays, and do not rinse your nose."
+  },
+  {
+   "title": "Food",
+   "text": "Usually do not eat or drink for 30 to 60 minutes before. Check with the clinic."
+  },
+  {
+   "title": "Timing",
+   "text": "The test works best in the first days of illness."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Your ID",
+  "A face mask"
+ ],
+ "steps": [
+  "You sit and tilt your head back a little",
+  "The swab goes into your nostril and is turned for a few seconds",
+  "The swab is dipped in liquid, and drops go on a test strip",
+  "The result is read after 15 to 20 minutes"
+ ],
+ "feel": [
+  "It tickles. You may want to sneeze, and your eyes may water"
+ ],
+ "after": [
+  "If the test is negative but you are ill, it may be repeated, or a PCR test may be done",
+  "While ill, limit contact with others, wear a mask, and air out the room",
+  "Your doctor will prescribe treatment"
+ ],
+ "red_flags": [
+  "Trouble breathing, chest pain, or confusion: call emergency services",
+  "A fever over 39°C (102°F) that does not come down with medicine: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "How is a rapid test different from PCR?",
+   "a": "A rapid test is faster but less accurate. PCR catches the virus even in small amounts."
+  },
+  {
+   "q": "Does a negative test mean it is not COVID?",
+   "a": "Not always. In the first hours of illness, there may be too little virus. Your doctor may order a repeat or a PCR test."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Rapid test soon. No nose drops, and do not eat for 30 to 60 minutes before the swab."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Raspado para hongos en piel y uñas",
+ "also": [
+  "raspado para hongos",
+  "examen directo con KOH",
+  "cultivo de hongos",
+  "hongos en las uñas",
+  "onicomicosis"
+ ],
+ "what": "Toman un pequeño raspado de la piel o de la uña. Con microscopio y cultivo revisan si hay hongos.",
+ "why": "Con descamación, comezón o manchas en la piel, o uñas gruesas o amarillas, antes de empezar un tratamiento.",
+ "duration": "el raspado toma de 5 a 10 minutos; el microscopio suele dar resultado en 1 a 3 días y el cultivo en 2 a 4 semanas",
+ "tell_doctor": [
+  "Si te pones productos para hongos en la piel o las uñas",
+  "Si tomas pastillas para hongos",
+  "Si te pintaste las uñas con esmalte normal o medicado"
+ ],
+ "prepare": [
+  {
+   "title": "Tratamiento",
+   "text": "Normalmente el análisis se hace antes del tratamiento o después de una pausa. Cuánto tiempo, te lo dice el médico. No lo dejes por tu cuenta."
+  },
+  {
+   "title": "Uñas",
+   "text": "Unos días antes no cortes ni limes las uñas afectadas. Quítate el esmalte."
+  },
+  {
+   "title": "Piel",
+   "text": "El día del análisis no te pongas cremas y no laves la zona con jabón."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "El médico revisa la piel o las uñas",
+  "Limpian la zona",
+  "Con un bisturí o una navaja raspan con cuidado escamas de piel o pedacitos de uña",
+  "Ponen el material en un vidrio o en un tubo",
+  "Lo mandan al laboratorio"
+ ],
+ "feel": [
+  "Normalmente no duele. Solo quitan la capa muerta de arriba",
+  "A veces es un poco molesto en la orilla de la uña"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "El resultado del microscopio suele estar en 1 a 3 días",
+  "El cultivo, en 2 a 4 semanas. Con él se sabe qué hongo es"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué no puedo ponerme pomada antes del análisis?",
+   "a": "Puede ocultar el hongo, y el análisis saldría como si no hubiera nada."
+  },
+  {
+   "q": "¿Tengo que hacerme el análisis si ya se ve el hongo?",
+   "a": "Sí. Otros problemas se ven parecidos a los hongos. El tratamiento de hongos es largo, por eso se confirma antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu raspado para hongos. No cortes las uñas afectadas, quítate el esmalte y no te pongas cremas."
+  }
+ ]
+}

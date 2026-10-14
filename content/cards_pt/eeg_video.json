@@ -1,0 +1,81 @@
+{
+ "title": "Vídeo-eletroencefalograma",
+ "also": [
+  "vídeo-EEG",
+  "videoeletroencefalografia",
+  "monitorização por vídeo-EEG",
+  "EEG noturno",
+  "EEG com sono"
+ ],
+ "what": "Durante algumas horas ou a noite toda, registram o funcionamento do cérebro com eletrodos na cabeça. Ao mesmo tempo, gravam vídeo para comparar o registro com o que acontece.",
+ "why": "Com crises, convulsões, desmaios ou episódios estranhos durante o sono, para entender o que são e escolher o tratamento.",
+ "duration": "de algumas horas a 24 horas ou mais, quem decide é o médico. O laudo sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Como são as crises e com que frequência acontecem",
+  "Quais remédios você toma. Não suspenda por conta própria",
+  "Se tem vídeo de uma crise no celular, mostre",
+  "Quanto você costuma dormir"
+ ],
+ "prepare": [
+  {
+   "title": "Sono",
+   "text": "Às vezes pedem para dormir menos na noite anterior, para pegar no sono mais fácil durante o registro. Faça isso só se o médico pedir."
+  },
+  {
+   "title": "Cabelo",
+   "text": "Lave o cabelo na véspera, sem óleo, laquê ou gel. Tire tranças e mega-hair."
+  },
+  {
+   "title": "Remédios",
+   "text": "Tome como sempre. Não suspenda por conta própria. Se precisar, quem decide é o médico."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável com botões na frente. Não vai dar para tirar pela cabeça."
+  }
+ ],
+ "bring": [
+  "Pedido médico e EEGs anteriores",
+  "Lista de remédios e os próprios remédios",
+  "Vídeos das crises, se tiver",
+  "Comida, água, carregador e um livro",
+  "Acompanhante, se a clínica pedir"
+ ],
+ "steps": [
+  "Passam uma pasta na cabeça e colocam os eletrodos. Por cima, uma touca ou faixa",
+  "Ligam a câmera e o registro",
+  "Você faz as coisas normalmente: lê, come, dorme",
+  "Às vezes pedem para respirar rápido ou olhar para uma luz piscando",
+  "Se começar uma crise, aperte o botão ou avise o acompanhante",
+  "No final, retiram os eletrodos e lavam a pasta"
+ ],
+ "feel": [
+  "Não dói. Os eletrodos não mandam nada para a cabeça",
+  "A touca pode atrapalhar o sono nas primeiras horas",
+  "Depois, a cabeça fica um pouco grudenta pela pasta"
+ ],
+ "after": [
+  "Em casa, lave o cabelo",
+  "Vida normal na hora, se o médico não disser diferente",
+  "O laudo sai normalmente em alguns dias"
+ ],
+ "red_flags": [
+  "Crise que dura mais de 5 minutos ou crises uma atrás da outra: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que precisa ser durante a noite?",
+   "a": "Muitas alterações no EEG só aparecem durante o sono. Quanto mais longo o registro, maior a chance de ver uma crise."
+  },
+  {
+   "q": "Posso levantar para ir ao banheiro?",
+   "a": "Normalmente sim. A equipe explica como não danificar os fios."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o vídeo-EEG. Lave o cabelo sem óleo e sem laquê. Leve os remédios, comida e o carregador."
+  }
+ ]
+}

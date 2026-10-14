@@ -1,0 +1,70 @@
+{
+ "title": "Prueba rápida de COVID-19 e influenza",
+ "also": [
+  "prueba rápida de COVID",
+  "prueba de antígeno",
+  "prueba rápida de influenza",
+  "test rápido"
+ ],
+ "what": "La enfermera pasa un hisopo suave por tu nariz. La prueba detecta el virus del COVID y de la influenza en 15 a 20 minutos.",
+ "why": "Con fiebre, tos, escurrimiento nasal o dolor de garganta, para saber rápido la causa del resfriado.",
+ "duration": "la muestra toma cerca de un minuto; el resultado suele estar en 15 a 20 minutos",
+ "tell_doctor": [
+  "Cuándo empezaron los síntomas",
+  "Si te sangra la nariz seguido o te operaron de la nariz",
+  "Si tienes enfermedades crónicas o estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Nariz",
+   "text": "Unas horas antes, no uses gotas ni sprays nasales y no te laves la nariz."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comas ni bebas de 30 a 60 minutos antes. Pregunta en la clínica."
+  },
+  {
+   "title": "Momento",
+   "text": "La prueba funciona mejor en los primeros días de la enfermedad."
+  }
+ ],
+ "bring": [
+  "La orden médica, si la tienes",
+  "Una identificación",
+  "Un cubrebocas"
+ ],
+ "steps": [
+  "Te sientas e inclinas un poco la cabeza hacia atrás",
+  "Meten el hisopo en la nariz y lo giran unos segundos",
+  "El hisopo se pone en un líquido y se ponen unas gotas en la tira de la prueba",
+  "En 15 a 20 minutos se ve el resultado"
+ ],
+ "feel": [
+  "Cosquillas. Puedes estornudar o te pueden llorar los ojos"
+ ],
+ "after": [
+  "Si la prueba sale negativa pero estás enfermo, pueden repetirla o hacer una PCR",
+  "Mientras estés enfermo, evita el contacto con otros, usa cubrebocas y ventila",
+  "El tratamiento te lo da el médico"
+ ],
+ "red_flags": [
+  "Te cuesta respirar, te duele el pecho o estás confundido: llama a emergencias",
+  "Fiebre de más de 39 que no baja con medicamentos: ve al médico de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué se diferencia la prueba rápida de la PCR?",
+   "a": "La prueba rápida es más rápida, pero menos exacta. La PCR detecta el virus aunque haya muy poco."
+  },
+  {
+   "q": "Si la prueba sale negativa, ¿no es COVID?",
+   "a": "No siempre. En las primeras horas puede haber poco virus. El médico puede pedir repetirla o una PCR."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu prueba rápida. No uses gotas nasales y no comas de 30 a 60 minutos antes de la muestra."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "Péptido C",
+ "also": [
+  "péptido C",
+  "péptido C en sangre",
+  "análisis para la diabetes"
+ ],
+ "what": "Es un análisis de sangre de la vena. Muestra cuánta insulina produce tu propio páncreas.",
+ "why": "Para saber qué tipo de diabetes es, para elegir el tratamiento, o si tienes bajones de azúcar.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Si tienes diabetes y cómo la tratas",
+  "Si te inyectas insulina",
+  "Si a veces se te baja el azúcar",
+  "Si tienes enfermedades de los riñones"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente en ayunas: de 8 a 12 horas sin comer. Puedes tomar agua natural. Pregunta en el laboratorio."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Un día antes, nada de alcohol ni ejercicio intenso. En la mañana, mejor no fumes."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Si tienes diabetes, dile al médico cómo tomas tus medicamentos y tu insulina. Él te dirá qué hacer en la mañana antes del análisis."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Comida y algo dulce para después del análisis, si tienes diabetes"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve y la sangre llena el tubo",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un ligero mareo. Avísale a la enfermera"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos, sin doblar el brazo",
+  "Puedes comer de inmediato y seguir con tu día",
+  "A veces te sacan sangre otra vez después de comer o de una bebida dulce. El médico te dirá",
+  "El resultado suele estar en 1 a 3 días. En el laboratorio te dirán cuándo"
+ ],
+ "red_flags": [
+  "Temblor, sudor frío o mucha debilidad en ayunas: puede ser azúcar baja. Come algo dulce y avísale a la enfermera"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué se diferencia el péptido C de la insulina?",
+   "a": "Se libera junto con tu propia insulina. Muestra cómo trabaja tu páncreas, aunque te inyectes insulina."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de péptido C. Después de la cena ya no comas. Puedes tomar agua natural."
+  }
+ ]
+}

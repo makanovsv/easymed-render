@@ -1,0 +1,71 @@
+{
+ "title": "Examen de heces para parásitos",
+ "also": [
+  "coproparasitoscópico",
+  "examen de heces para parásitos",
+  "análisis de huevos de parásitos",
+  "coproparasitológico seriado"
+ ],
+ "what": "En casa recoges un poco de heces en un frasco especial. En el laboratorio buscan con microscopio huevos de lombrices y otros parásitos.",
+ "why": "Para certificados de guardería, escuela o alberca; con dolor de estómago, comezón, evacuaciones irregulares o poco apetito.",
+ "duration": "recoger la muestra en casa toma unos minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Si tomas o tomaste hace poco medicamentos para parásitos o antibióticos",
+  "Si te hicieron hace poco una radiografía con medio de contraste",
+  "Si tomas laxantes"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Pide en el laboratorio o compra en la farmacia un frasco estéril con cucharita. A veces te dan un frasco con líquido. No lo tires."
+  },
+  {
+   "title": "Cómo recoger",
+   "text": "Las heces se recogen después de una evacuación natural, sin enemas ni laxantes. No debe caer orina en el frasco."
+  },
+  {
+   "title": "Cómo guardar",
+   "text": "Llévalo al laboratorio el mismo día, normalmente en pocas horas. Pregunta en el laboratorio cómo guardarlo."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas."
+  }
+ ],
+ "bring": [
+  "El frasco con la muestra",
+  "La orden médica",
+  "Una identificación"
+ ],
+ "steps": [
+  "Haz popó en un recipiente limpio y seco o en una bolsa, no en el agua del inodoro",
+  "Con la cucharita de la tapa toma un poco de heces de diferentes partes",
+  "Llena el frasco más o menos un tercio",
+  "Ciérralo bien y ponle tu nombre",
+  "Llévalo al laboratorio en el tiempo que te dijeron"
+ ],
+ "feel": [
+  "Nada molesto, solo un poco de pena"
+ ],
+ "after": [
+  "El resultado suele estar en 1 a 3 días",
+  "A veces el médico pide la muestra 2 o 3 veces. Así hay más probabilidad de encontrar parásitos"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué no encontraron parásitos y el médico pide repetir?",
+   "a": "Los huevos no salen todos los días. Por eso a veces el análisis se hace varias veces, con días de diferencia."
+  },
+  {
+   "q": "¿Puedo recoger la muestra en la noche y entregarla en la mañana?",
+   "a": "Depende del laboratorio y del tipo de frasco. Pregunta antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana entregas la muestra de heces para parásitos. Ten listo el frasco y un recipiente limpio o una bolsa."
+  }
+ ]
+}

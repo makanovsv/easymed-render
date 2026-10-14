@@ -1,0 +1,85 @@
+{
+ "title": "Cirugía de juanete",
+ "also": [
+  "juanete",
+  "hallux valgus",
+  "osteotomía del primer metatarsiano",
+  "bunionectomía"
+ ],
+ "what": "El cirujano corta y endereza el hueso en la base del dedo gordo. El hueso se fija con tornillos o grapas y el dedo queda más derecho.",
+ "why": "Cuando el juanete duele, no te deja caminar o encontrar zapatos, y los zapatos cómodos y las plantillas no ayudan.",
+ "duration": "la cirugía suele durar de 1 a 2 horas; en el hospital normalmente 1 o 2 días, o te vas a casa el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Si tienes diabetes o problemas de circulación en las piernas",
+  "Si fumas. Hace que el hueso pegue más lento",
+  "Si ya te operaron del pie"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Casa",
+   "text": "Prepara antes un lugar cómodo en casa: las primeras semanas vas a caminar poco. Pregunta si necesitas muletas."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Un zapato amplio para el pie sano"
+ ],
+ "steps": [
+  "El día de la cirugía te cambias de ropa y te ponen un catéter en la vena",
+  "El anestesiólogo te pone anestesia general o anestesia de la pierna",
+  "El cirujano hace un corte en el pie y endereza el hueso",
+  "Fija el hueso con tornillos o una placa",
+  "Cierra la herida y venda el pie",
+  "Te ponen un zapato especial para después de la cirugía"
+ ],
+ "feel": [
+  "Los primeros días el pie duele y se hincha. Te dan analgésicos",
+  "Pesadez y vendaje apretado. Es normal",
+  "Caminar con el zapato especial se siente raro"
+ ],
+ "after": [
+  "Mantén el pie en alto. Así hay menos hinchazón y dolor",
+  "Normalmente se camina con el zapato especial de 4 a 6 semanas",
+  "No mojes el vendaje hasta que el médico lo permita",
+  "La hinchazón puede durar unos meses",
+  "Zapatos normales, cuando lo permita el cirujano"
+ ],
+ "red_flags": [
+  "Dolor fuerte, hinchazón y dolor en la pantorrilla de cualquiera de las dos piernas",
+  "Los dedos se ponen morados, fríos o dormidos",
+  "Fiebre de más de 38, pus o mal olor bajo el vendaje",
+  "Falta de aire o dolor en el pecho de repente: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Los tornillos se quedan toda la vida?",
+   "a": "Normalmente sí; no estorban. Solo se quitan si molestan."
+  },
+  {
+   "q": "¿Cuándo puedo usar zapatos normales?",
+   "a": "Normalmente en 6 a 8 semanas, según la radiografía y lo que decida el cirujano."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de juanete. Lleva tus documentos, medicamentos y un zapato amplio. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

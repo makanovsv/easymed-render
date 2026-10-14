@@ -1,0 +1,76 @@
+{
+ "title": "Fotocoagulação a laser da retina",
+ "also": [
+  "laser na retina",
+  "fotocoagulação",
+  "panfotocoagulação",
+  "laser para reforçar a retina"
+ ],
+ "what": "Com o laser, o médico faz pequenas \"soldas\" na retina. Isso reforça a retina ou elimina vasos doentes.",
+ "why": "Em rupturas e áreas finas da retina, alterações da retina pelo diabetes e algumas doenças dos vasos do olho.",
+ "duration": "normalmente de 10 a 30 minutos, com o preparo cerca de 1 hora a 1 hora e meia",
+ "tell_doctor": [
+  "Todos os remédios e colírios",
+  "Glaucoma, se você sabe",
+  "Diabetes",
+  "Se você está grávida",
+  "Alergia a colírios"
+ ],
+ "prepare": [
+  {
+   "title": "Transporte",
+   "text": "A pupila é dilatada, e depois você não pode dirigir. Vá com acompanhante."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer antes, se a clínica não disser outra coisa."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda remédios de uso contínuo por conta própria."
+  }
+ ],
+ "bring": [
+  "Óculos escuros",
+  "Documento de identidade",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "O olho é anestesiado, e a pupila é dilatada com colírio",
+  "Você senta no aparelho e apoia o queixo no suporte",
+  "Uma lente especial é colocada no olho",
+  "O médico aponta o laser, e você vê flashes fortes",
+  "Olhe para onde o médico pedir e não se mexa",
+  "A lente é retirada, e lavam o olho"
+ ],
+ "feel": [
+  "Flashes de luz fortes",
+  "Às vezes pontadas ou uma dor leve",
+  "Depois, a visão fica embaçada por algumas horas"
+ ],
+ "after": [
+  "Não dirija até a visão voltar ao normal",
+  "Nos primeiros dias, não pegue peso e não se abaixe de repente, se o médico orientar",
+  "Volte para a revisão no prazo"
+ ],
+ "red_flags": [
+  "De repente muitas \"moscas volantes\" novas, flashes ou uma \"cortina\" na frente do olho: procure o oftalmologista com urgência",
+  "Dor forte no olho, dor de cabeça com enjoo: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O laser vai melhorar a visão?",
+   "a": "Normalmente o objetivo é preservar a visão e evitar que piore."
+  },
+  {
+   "q": "Precisa repetir?",
+   "a": "Às vezes são necessárias várias sessões. O médico vai dizer."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o laser na retina. Combine com seu acompanhante e leve óculos escuros."
+  }
+ ]
+}

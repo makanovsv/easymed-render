@@ -1,0 +1,70 @@
+{
+ "title": "Psychologist visit",
+ "also": [
+  "psychologist",
+  "counseling",
+  "talk therapy",
+  "counselor"
+ ],
+ "what": "A specialist who helps you work through feelings, relationships, and hard situations by talking. They are not a doctor and do not prescribe medicines.",
+ "why": "For stress, anxiety, relationship problems, grief, a crisis, or behavior problems in children.",
+ "duration": "a session usually lasts 50 to 60 minutes; you decide together how many sessions",
+ "tell_doctor": [
+  "What brought you, and what you want to change",
+  "Past visits to a psychologist or psychiatrist",
+  "What medicines you take",
+  "If you have thoughts of harming yourself, say so right away"
+ ],
+ "prepare": [
+  {
+   "title": "Your goal",
+   "text": "Think about what you want to come with. If it is hard to put into words, that is normal. You will work it out together."
+  },
+  {
+   "title": "For a child",
+   "text": "For parents: often you come together the first time, sometimes first without the child. Ask in advance."
+  },
+  {
+   "title": "Place",
+   "text": "For an online session, find a quiet place where no one can overhear you."
+  }
+ ],
+ "bring": [
+  "Your ID, if the clinic asks",
+  "A notebook, if you want to take notes"
+ ],
+ "steps": [
+  "You get to know each other and talk about what bothers you",
+  "The specialist explains how the work will go",
+  "You talk at your own pace",
+  "Together you set goals",
+  "You agree on the next session"
+ ],
+ "feel": [
+  "It can be hard to talk about personal things. That is normal",
+  "After a session, you may feel tired or relieved"
+ ],
+ "after": [
+  "Results usually show after a few sessions",
+  "You can change specialists if it does not feel right"
+ ],
+ "red_flags": [
+  "Thoughts of harming yourself: do not wait for the session. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "How many sessions will I need?",
+   "a": "It varies: from a few to many months. Discuss it with your psychologist."
+  },
+  {
+   "q": "Can a psychologist prescribe medicine?",
+   "a": "No. If medicine is needed, they will suggest seeing a psychiatrist or psychotherapist."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Psychologist session tomorrow. Think about what you want to talk about."
+  }
+ ]
+}

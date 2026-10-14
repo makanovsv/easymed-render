@@ -1,0 +1,73 @@
+{
+ "title": "INR si tomas warfarina",
+ "also": [
+  "INR",
+  "tiempo de protrombina",
+  "prueba de coagulación",
+  "control de warfarina"
+ ],
+ "what": "Es un análisis de sangre que muestra qué tan rápido coagula la sangre. Con él, el médico ajusta la dosis de warfarina.",
+ "why": "De forma regular si tomas warfarina: más seguido al inicio del tratamiento y después, normalmente, cada pocas semanas.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar el mismo día",
+ "tell_doctor": [
+  "Qué dosis de warfarina tomas y a qué hora",
+  "Si se te olvidó alguna pastilla o tomaste una de más",
+  "Si empezaste cualquier medicamento nuevo, antibiótico o hierba",
+  "Si cambiaste mucho tu alimentación, sobre todo verduras de hoja verde",
+  "Si tomaste alcohol o estuviste enfermo"
+ ],
+ "prepare": [
+  {
+   "title": "Warfarina",
+   "text": "Tómala como siempre, a tu hora. No cambies la dosis por tu cuenta antes del análisis."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayunar, pero es mejor ir en la mañana antes de un desayuno fuerte. Pregunta en la clínica."
+  },
+  {
+   "title": "Registro",
+   "text": "Lleva un diario con la fecha, la dosis y el resultado del INR. Llévalo contigo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "Tu diario de INR y de dosis de warfarina"
+ ],
+ "steps": [
+  "La sangre se toma de la vena o, a veces, del dedo con un aparato rápido",
+  "Si es de la vena, te ponen la liga y sientes un piquete breve",
+  "Si es del dedo, hacen un piquetito y toman una gota",
+  "Ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco"
+ ],
+ "after": [
+  "Presiona el algodón más tiempo, de 5 a 10 minutos. Con warfarina la sangre tarda más en parar",
+  "El médico te dirá el resultado y la nueva dosis",
+  "Anota el resultado en tu diario"
+ ],
+ "red_flags": [
+  "Heces negras, sangre en la orina o en el vómito, o sangrado de nariz que no para: llama a emergencias",
+  "Dolor de cabeza fuerte y repentino, o debilidad en un brazo o una pierna: llama a emergencias",
+  "Muchos moretones sin razón: ve al médico en los próximos días"
+ ],
+ "faq": [
+  {
+   "q": "¿Cada cuánto me hago el INR?",
+   "a": "Al inicio, seguido, mientras ajustan la dosis. Después, normalmente cada pocas semanas. El médico te dirá el calendario."
+  },
+  {
+   "q": "¿Puedo comer verduras verdes si tomo warfarina?",
+   "a": "Sí, pero más o menos la misma cantidad cada día. Los cambios bruscos en la comida cambian el INR."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de INR. Toma la warfarina como siempre. Lleva tu diario de dosis."
+  }
+ ]
+}

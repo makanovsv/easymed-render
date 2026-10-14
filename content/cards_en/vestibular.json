@@ -1,0 +1,82 @@
+{
+ "title": "Dizziness and balance testing",
+ "also": [
+  "dizziness test",
+  "balance test",
+  "vestibular testing",
+  "vertigo test",
+  "VNG test"
+ ],
+ "what": "The doctor works out why you feel dizzy. Your eyes, balance, and body position are checked, and sometimes eye movements are recorded with special goggles.",
+ "why": "For repeated dizziness, unsteadiness, or spinning when you turn your head or stand up.",
+ "duration": "usually 30 to 60 minutes; the doctor can tell you part of the answer right away",
+ "tell_doctor": [
+  "What the dizziness is like: the room spins, you sway, or your vision goes dark",
+  "When it started, how long attacks last, and what triggers them",
+  "Ringing in the ears, hearing loss, nausea",
+  "What medicines you take",
+  "Numbness, weakness, or trouble speaking: say so right away"
+ ],
+ "prepare": [
+  {
+   "title": "Medicines",
+   "text": "Some dizziness medicines affect the test. Do not stop them on your own. Ask your doctor in advance."
+  },
+  {
+   "title": "Food",
+   "text": "Usually a light breakfast. Do not eat a big meal. The tests may make you feel sick."
+  },
+  {
+   "title": "Eyes",
+   "text": "Best without eye makeup. If you wear contacts, bring your glasses."
+  },
+  {
+   "title": "Getting there",
+   "text": "It helps to come with someone. You may feel a little dizzy after the tests."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past reports, MRI or CT scans, if you have them",
+  "A list of your medicines",
+  "Someone to go with you"
+ ],
+ "steps": [
+  "The doctor asks about your attacks in detail",
+  "You follow a finger or a dot with your eyes",
+  "Your balance is checked: standing with eyes closed, walking along a line",
+  "You may be laid down quickly with your head turned. This tests for loose crystals in the ear",
+  "Sometimes you wear goggles with a camera that records eye movements",
+  "Your hearing is often checked too"
+ ],
+ "feel": [
+  "Some tests briefly cause dizziness. That is the point",
+  "You may feel sick. Tell the doctor",
+  "No pain"
+ ],
+ "after": [
+  "Dizziness after the tests usually passes in minutes",
+  "If loose crystals in the ear are found, they are often fixed right away with special head movements",
+  "You usually get the report the same day. Sometimes an MRI or tests are needed"
+ ],
+ "red_flags": [
+  "Dizziness with weakness in an arm or leg, a drooping face, or trouble speaking: call emergency services",
+  "A sudden severe headache or double vision: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "What most often causes dizziness when turning my head?",
+   "a": "Often it is loose tiny crystals in the inner ear. A doctor treats it with head movements."
+  },
+  {
+   "q": "Can I go alone?",
+   "a": "You can, but it is easier with someone. You may feel dizzy after the tests."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Dizziness testing tomorrow. Bring past reports and your medicine list. Do not eat a big meal beforehand."
+  }
+ ]
+}

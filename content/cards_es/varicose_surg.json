@@ -1,0 +1,83 @@
+{
+ "title": "Cirugía de várices",
+ "also": [
+  "flebectomía",
+  "safenectomía",
+  "operación de várices",
+  "quitar várices"
+ ],
+ "what": "El cirujano quita las venas dilatadas de la pierna por cortes pequeños. La sangre empieza a ir por las venas profundas sanas.",
+ "why": "En várices grandes con hinchazón, pesadez en las piernas o cambios en la piel, cuando otros métodos no sirven.",
+ "duration": "la cirugía suele durar de 1 a 2 horas; normalmente te vas a casa el mismo día o en 1 o 2 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida y los hormonales",
+  "Si tú o tus familiares tuvieron trombosis en las venas",
+  "Tus alergias",
+  "Enfermedades del corazón o diabetes",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Ultrasonido de las venas, análisis de sangre y electrocardiograma. La clínica te da la lista. El día anterior el médico marca las venas con plumón."
+  },
+  {
+   "title": "Medias",
+   "text": "Compra antes una media de compresión de tu talla y grado; el médico te dirá cuál."
+  },
+  {
+   "title": "Comida",
+   "text": "Si es con anestesia general o raquídea, normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Piel",
+   "text": "Báñate el día anterior. A veces piden rasurar el vello de la pierna. Pregunta en la clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica y el ultrasonido de las venas",
+  "Los análisis y tus documentos",
+  "La media de compresión",
+  "Zapatos cómodos y pantalón holgado"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "Te ponen anestesia general, raquídea o local",
+  "Por cortes pequeños, el cirujano quita las venas dilatadas",
+  "A veces la vena principal se cierra por dentro con láser o radiofrecuencia",
+  "Cierran los cortes con puntos o con cinta",
+  "De inmediato te ponen la media de compresión o una venda"
+ ],
+ "feel": [
+  "Dolor tipo jalón a lo largo de las venas. Te dan analgésicos",
+  "Moretones en la pierna por unas semanas",
+  "A veces una zona pequeña de piel dormida. Normalmente se quita"
+ ],
+ "after": [
+  "Camina desde el primer día. Esto protege contra los trombos",
+  "Usa la media el tiempo que te diga el médico",
+  "Por unas semanas, sin sauna, sin cargar cosas pesadas y sin estar sentado mucho tiempo",
+  "Ultrasonido de control según el calendario del médico"
+ ],
+ "red_flags": [
+  "Dolor fuerte e hinchazón de toda la pierna: llama al médico",
+  "Falta de aire o dolor en el pecho de repente: llama a emergencias",
+  "Fiebre de más de 38, o enrojecimiento o pus en los cortes"
+ ],
+ "faq": [
+  {
+   "q": "¿No hace daño quitar venas?",
+   "a": "Solo se quitan las venas superficiales enfermas. La sangre va por las profundas, que pueden con el trabajo."
+  },
+  {
+   "q": "¿Las várices van a volver?",
+   "a": "A veces salen nuevas venas dilatadas. Ayudan moverte, usar medias y las revisiones con el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de várices. Lleva la media de compresión, tus documentos y zapatos cómodos. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

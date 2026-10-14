@@ -1,0 +1,90 @@
+{
+ "title": "Brain surgery",
+ "also": [
+  "craniotomy",
+  "brain tumor surgery",
+  "neurosurgery",
+  "brain tumor removal"
+ ],
+ "what": "Through an opening in the skull, a neurosurgeon removes a tumor or other growth. The work is done under a microscope, protecting healthy areas.",
+ "why": "For brain tumors, some bleeds, aneurysms, and other conditions that need surgery.",
+ "duration": "surgery usually takes several hours, with 5 to 10 days in hospital, sometimes longer",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners. Your doctor will say what to stop and when",
+  "Allergies to medicines, latex, or iodine",
+  "Seizures and seizure medicines",
+  "Heart or lung disease, or diabetes",
+  "What has changed: speech, vision, weakness, memory"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Usually an MRI, blood tests, an ECG, and checkups by a GP and other doctors. The clinic will give you a list."
+  },
+  {
+   "title": "Anesthetist",
+   "text": "Before surgery, an anesthetist will talk with you. Tell them about your health and medicines."
+  },
+  {
+   "title": "Food and water",
+   "text": "Usually no food from the night before and no drinks for a few hours. The clinic will tell you the exact time."
+  },
+  {
+   "title": "Hair",
+   "text": "Sometimes a small area is shaved. Ask if you need to do anything in advance."
+  },
+  {
+   "title": "Family",
+   "text": "Agree on who will keep in touch with the doctor and help after discharge."
+  }
+ ],
+ "bring": [
+  "MRI and CT images on a disc",
+  "Documents",
+  "A list of your medicines",
+  "Things for a hospital stay"
+ ],
+ "steps": [
+  "You change, and IV lines are placed",
+  "The anesthetist gives anesthesia",
+  "Your head is held still in a special frame",
+  "The surgeon opens a small area of the skull",
+  "The growth is removed under a microscope",
+  "The bone is put back, and the skin is stitched",
+  "After surgery, you are watched in intensive care or a high-dependency unit"
+ ],
+ "feel": [
+  "Headache and facial swelling. You will get painkillers",
+  "Weakness and sleepiness in the first days",
+  "Sometimes speech, vision, or arm strength changes for a while. Your doctor will explain"
+ ],
+ "after": [
+  "The first day is usually in intensive care, under close watch",
+  "You start getting up gradually, as your doctor allows",
+  "Stitches usually come out after 7 to 14 days",
+  "The lab results will guide further treatment",
+  "Drive only after your doctor allows it"
+ ],
+ "red_flags": [
+  "A seizure or loss of consciousness: call emergency services",
+  "A sudden severe headache, vomiting, or confusion: call emergency services",
+  "New weakness in an arm or leg, or trouble speaking: call emergency services",
+  "A fever over 38°C (100.4°F), or discharge from the wound"
+ ],
+ "faq": [
+  {
+   "q": "Will it hurt?",
+   "a": "The brain itself feels no pain. The skin and muscles of the head hurt, and painkillers relieve it."
+  },
+  {
+   "q": "Can the surgery be done while I am awake?",
+   "a": "Sometimes, if the tumor is near the areas for speech or movement. The surgeon decides."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Surgery tomorrow. Bring your scans on a disc and your medicine list. Eat and drink only until the time the clinic gave you."
+  }
+ ]
+}

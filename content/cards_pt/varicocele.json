@@ -1,0 +1,83 @@
+{
+ "title": "Cirurgia de varicocele",
+ "also": [
+  "varicocele",
+  "varicocelectomia",
+  "cirurgia de varizes no testículo",
+  "tratamento de varicocele"
+ ],
+ "what": "O cirurgião liga as veias dilatadas que vão ao testículo. O sangue passa a escoar pelas veias saudáveis.",
+ "why": "Na varicocele com dor, testículo diminuindo ou problemas no espermograma.",
+ "duration": "a cirurgia leva normalmente de 30 a 60 minutos, com alta normalmente no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que fazer",
+  "Alergias",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se já operou a virilha",
+  "Se já teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, ultrassom do saco escrotal, às vezes espermograma. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Pode ser local ou geral. Se for geral, o anestesista conversa com você."
+  },
+  {
+   "title": "Comida",
+   "text": "Com anestesia geral, normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Coisas",
+   "text": "Cueca justa, roupa confortável."
+  }
+ ],
+ "bring": [
+  "Documento de identidade e pedido médico",
+  "Resultados de exames e do ultrassom",
+  "Lista de remédios",
+  "Uma cueca justa"
+ ],
+ "steps": [
+  "Você troca de roupa, e colocam um acesso na veia",
+  "Aplicam a anestesia local ou geral",
+  "O cirurgião faz um pequeno corte na virilha ou furinhos na barriga",
+  "Encontra as veias dilatadas e as liga",
+  "O corte é suturado",
+  "Depois da cirurgia, você descansa no quarto"
+ ],
+ "feel": [
+  "Dor no local do corte. Dão analgésico",
+  "Um pouco de inchaço no saco escrotal",
+  "Depois da anestesia, sono"
+ ],
+ "after": [
+  "Normalmente pode andar no mesmo dia",
+  "Use cueca justa",
+  "Não pegue peso nem faça esporte por algumas semanas. O prazo quem diz é o médico",
+  "O novo espermograma costuma ser feito depois de alguns meses"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus",
+  "Inchaço forte no saco escrotal que vai aumentando",
+  "Pus ou vermelhidão nos pontos"
+ ],
+ "faq": [
+  {
+   "q": "O espermograma melhora depois da cirurgia?",
+   "a": "Muitas vezes melhora, mas não em todos. O resultado normalmente é avaliado em 3 a 6 meses."
+  },
+  {
+   "q": "A varicocele pode voltar?",
+   "a": "Às vezes acontece. Por isso o médico marca consultas de revisão."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Separe os documentos, os exames e a cueca justa. Comida e água, só até o horário que a clínica indicou."
+  }
+ ]
+}

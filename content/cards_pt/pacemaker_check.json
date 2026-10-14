@@ -1,0 +1,73 @@
+{
+ "title": "Avaliação do marca-passo",
+ "also": [
+  "revisão do marca-passo",
+  "programação do marca-passo",
+  "teste do marca-passo",
+  "controle do marca-passo"
+ ],
+ "what": "O médico encosta uma peça especial sobre o aparelho e lê os dados dele. Confere a bateria, os eletrodos e, se preciso, muda os ajustes.",
+ "why": "Com regularidade depois do implante: normalmente alguns meses depois e então a cada 6 a 12 meses. O prazo quem diz é o médico.",
+ "duration": "normalmente de 15 a 30 minutos, com resultado na hora",
+ "tell_doctor": [
+  "Se teve desmaios, tontura, falta de ar ou coração disparado",
+  "Todos os remédios",
+  "Se os remédios mudaram desde a última revisão"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não é preciso preparo especial. Coma e tome os remédios como sempre."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, para mostrar o peito no local do aparelho com facilidade."
+  },
+  {
+   "title": "Documentos",
+   "text": "A carteirinha do marca-passo, sem falta."
+  }
+ ],
+ "bring": [
+  "A carteirinha do marca-passo",
+  "O resumo de alta do implante",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você deita ou senta",
+  "Colocam eletrodos de eletrocardiograma nos braços e nas pernas",
+  "Uma peça do programador é encostada no aparelho, no peito",
+  "O médico lê os dados e confere o funcionamento",
+  "Às vezes muda os ajustes, e o coração pode bater diferente por pouco tempo",
+  "O médico explica o resultado e marca a próxima revisão"
+ ],
+ "feel": [
+  "Normalmente nada",
+  "Às vezes, por alguns segundos, o pulso muda ou a cabeça roda. Avise o médico"
+ ],
+ "after": [
+  "Anote a data da próxima revisão",
+  "Ande sempre com a carteirinha do aparelho"
+ ],
+ "red_flags": [
+  "Desmaio ou tontura forte: ligue para a emergência",
+  "O pulso ficou muito lento ou muito rápido",
+  "Vermelhidão, inchaço ou secreção sobre o aparelho"
+ ],
+ "faq": [
+  {
+   "q": "Quanto dura a bateria?",
+   "a": "Normalmente muitos anos. A revisão mostra quanto falta, e o médico avisa com antecedência quando trocar o aparelho."
+  },
+  {
+   "q": "Dá para revisar o aparelho a distância?",
+   "a": "Alguns aparelhos permitem. Pergunte ao médico se o seu tem essa opção."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a avaliação do marca-passo. Leve a carteirinha do aparelho e a lista de remédios."
+  }
+ ]
+}

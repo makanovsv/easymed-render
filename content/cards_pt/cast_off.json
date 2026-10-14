@@ -1,0 +1,69 @@
+{
+ "title": "Retirada do gesso",
+ "also": [
+  "tirar o gesso",
+  "retirada do gesso",
+  "retirada da tala"
+ ],
+ "what": "O gesso é cortado com uma serra especial ou tesoura e retirado. Depois, o médico confere como o osso consolidou.",
+ "why": "Quando termina o prazo que o médico indicou, ou quando o gesso precisa ser trocado.",
+ "duration": "normalmente de 10 a 20 minutos. O raio-X de controle e a consulta, no mesmo dia",
+ "tell_doctor": [
+  "Se embaixo do gesso doía, ardia ou tinha cheiro",
+  "Se os dedos ficavam dormentes"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não precisa."
+  },
+  {
+   "title": "Roupa",
+   "text": "Leve roupa e calçado folgados. O braço ou a perna podem estar um pouco inchados."
+  }
+ ],
+ "bring": [
+  "Documentos e imagens anteriores",
+  "Roupa folgada e calçado confortável",
+  "Creme para a pele"
+ ],
+ "steps": [
+  "Normalmente, primeiro, fazem um raio-X de controle",
+  "O gesso é cortado com uma serra que vibra, e não gira",
+  "Abrem o gesso e retiram",
+  "O algodão e a malha são cortados com tesoura",
+  "O médico examina a pele e confere os movimentos",
+  "O médico explica o que pode e o que não pode fazer daqui em diante"
+ ],
+ "feel": [
+  "Barulho e vibração da serra, e um pouco de calor. A serra não corta a pele",
+  "O braço ou a perna parecem leves e fracos",
+  "A articulação fica dura, e os movimentos, difíceis"
+ ],
+ "after": [
+  "A pele fica seca e descascando. Lave com água morna e passe creme",
+  "O inchaço pode durar alguns dias",
+  "Os músculos se recuperam aos poucos. Exercícios, como o médico orientar",
+  "Aumente o esforço aos poucos"
+ ],
+ "red_flags": [
+  "Inchaço forte, dor e vermelhidão na panturrilha: procure o médico na hora",
+  "Dor forte e repentina ou deformidade depois da retirada"
+ ],
+ "faq": [
+  {
+   "q": "A serra não vai me cortar?",
+   "a": "Não. Ela vibra e corta só o gesso duro, não corta a pele macia. Pode esquentar um pouco."
+  },
+  {
+   "q": "Por que o braço está tão fraco?",
+   "a": "Os músculos enfraqueceram sem movimento. A força volta em algumas semanas de exercícios."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a retirada do gesso. Leve as imagens anteriores, roupa folgada e calçado confortável."
+  }
+ ]
+}

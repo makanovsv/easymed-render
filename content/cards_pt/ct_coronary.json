@@ -1,0 +1,88 @@
+{
+ "title": "Angiotomografia de coronárias",
+ "also": [
+  "angiotomografia coronariana",
+  "angio-TC do coração",
+  "tomografia das artérias do coração",
+  "cateterismo virtual"
+ ],
+ "what": "São imagens das artérias do coração feitas no tomógrafo, com contraste na veia. Mostram se há estreitamentos e placas.",
+ "why": "Com dor no peito, para avaliar as artérias do coração sem cateter, ou quando os testes de esforço deram resultado duvidoso.",
+ "duration": "na sala, normalmente de 20 a 40 minutos com o preparo, as imagens em si levam alguns segundos. O laudo sai em 1 a 2 dias",
+ "tell_doctor": [
+  "Alergia a iodo ou contraste",
+  "Doenças dos rins, diabetes e remédios para diabetes",
+  "Remédios que você toma para o coração e a pressão",
+  "Asma. Às vezes ela muda a escolha do remédio para baixar o pulso",
+  "Se você está grávida ou pode estar",
+  "Se tem stent ou fez ponte de safena"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente sem comer de 3 a 4 horas. Água pode. Confirme com a clínica."
+  },
+  {
+   "title": "Café",
+   "text": "No dia do exame, normalmente pedem para não tomar café, chá forte e energéticos. Eles aceleram o pulso."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não suspenda seus remédios por conta própria. Fale com o médico, ele decide. Às vezes, antes da imagem, dão um comprimido para baixar o pulso."
+  },
+  {
+   "title": "Exame",
+   "text": "Muitas vezes é preciso um exame de creatinina recente."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exame de creatinina",
+  "Eletrocardiograma e laudos do cardiologista",
+  "Lista dos seus remédios"
+ ],
+ "steps": [
+  "Colocam um cateter na veia do braço",
+  "Medem o pulso. Se estiver rápido, dão um remédio para baixar",
+  "Colam eletrodos de eletrocardiograma no peito",
+  "Às vezes dão um comprimido ou spray embaixo da língua para dilatar os vasos",
+  "Você se deita na mesa e treina segurar a respiração quando pedirem",
+  "Aplicam o contraste e fazem as imagens. É preciso não respirar por alguns segundos",
+  "Depois das imagens, tiram o cateter"
+ ],
+ "feel": [
+  "Não dói, a não ser a colocação do cateter",
+  "Com o contraste: uma onda de calor pelo corpo e gosto de metal na boca",
+  "O spray embaixo da língua pode dar um pouco de dor de cabeça"
+ ],
+ "after": [
+  "Fique sentado de 15 a 30 minutos em observação",
+  "Beba mais água, se o médico não disser diferente",
+  "O laudo sai normalmente em 1 a 2 dias. Leve ao cardiologista"
+ ],
+ "red_flags": [
+  "Dor em aperto no peito por mais de 15 minutos, falta de ar, suor frio: ligue na hora para a emergência",
+  "Depois do contraste, coceira, manchas na pele, inchaço no rosto ou dificuldade para respirar: avise na hora a equipe ou ligue para a emergência",
+  "O local do cateter ficou muito inchado e dolorido"
+ ],
+ "faq": [
+  {
+   "q": "A angiotomografia pode substituir o cateterismo?",
+   "a": "São métodos diferentes. A tomografia avalia as artérias sem cateter. Se acharem um estreitamento forte, podem pedir o cateterismo."
+  },
+  {
+   "q": "Por que baixar o pulso?",
+   "a": "O coração se mexe. Com o pulso mais lento, a imagem fica mais nítida."
+  },
+  {
+   "q": "Posso tomar café de manhã?",
+   "a": "Normalmente não, porque acelera o pulso. Confirme com a clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem angiotomografia de coronárias. De manhã, sem café e sem chá forte. Leve o exame de creatinina e a lista de remédios."
+  }
+ ]
+}

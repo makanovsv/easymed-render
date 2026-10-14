@@ -1,0 +1,81 @@
+{
+ "title": "Cardioversión",
+ "also": [
+  "cardioversión eléctrica",
+  "choque eléctrico para el ritmo",
+  "cardioversión",
+  "restablecer el ritmo del corazón"
+ ],
+ "what": "Con una anestesia corta, se da en el pecho una descarga eléctrica breve. Ayuda al corazón a volver a su ritmo normal.",
+ "why": "En la fibrilación auricular, el aleteo auricular y algunas otras alteraciones del ritmo.",
+ "duration": "la descarga dura unos minutos; todo junto, normalmente de 1 a 3 horas, a veces te quedas una noche",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. No hay que saltarse dosis",
+  "Tus alergias",
+  "Si tuviste problemas con la anestesia",
+  "Si te saltaste pastillas contra los coágulos en las últimas semanas. Dilo siempre"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos contra los coágulos",
+   "text": "Normalmente se toman varias semanas antes del procedimiento. No te saltes dosis. A veces antes se hace un ultrasonido del corazón por el esófago."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes ni bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Antes del procedimiento",
+   "text": "Quítate las joyas. No te pongas crema en el pecho."
+  },
+  {
+   "title": "Transporte",
+   "text": "Después de la anestesia no puedes manejar ese día. Que alguien te lleve."
+  }
+ ],
+ "bring": [
+  "La orden médica y el electrocardiograma",
+  "La lista de tus medicamentos",
+  "Tus documentos",
+  "Alguien que te lleve a casa"
+ ],
+ "steps": [
+  "Te acuestas y te ponen un catéter en la vena",
+  "Te pegan electrodos grandes en el pecho y la espalda",
+  "El anestesiólogo te pone el medicamento y te duermes unos minutos",
+  "El aparato da una descarga breve, a veces varias",
+  "Despiertas y te toman un electrocardiograma",
+  "Te vigilan unas horas"
+ ],
+ "feel": [
+  "No sientes la descarga, porque estás dormido",
+  "Después, sueño",
+  "La piel del pecho puede quedar roja y doler, como después de asolearte"
+ ],
+ "after": [
+  "Sigue con las pastillas contra los coágulos exactamente como te indicó el médico",
+  "Ese día no manejes",
+  "El ritmo puede volver a fallar. El médico te pedirá un electrocardiograma de control"
+ ],
+ "red_flags": [
+  "Dolor en el pecho, falta de aire fuerte o desmayo: llama a emergencias",
+  "Debilidad repentina de un brazo o una pierna, o problemas para hablar: llama a emergencias",
+  "Vuelves a sentir el corazón muy acelerado: díselo al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligroso dar una descarga al corazón?",
+   "a": "Es un procedimiento que se usa desde hace mucho tiempo. Se hace con vigilancia del médico y de los aparatos, y tú estás dormido."
+  },
+  {
+   "q": "¿El ritmo se queda normal para siempre?",
+   "a": "No siempre. A veces la arritmia regresa. El médico te dará un tratamiento para evitarlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cardioversión. No te saltes las pastillas contra los coágulos. Comida y agua solo hasta la hora que dijo la clínica. Confirma quién te llevará a casa."
+  }
+ ]
+}

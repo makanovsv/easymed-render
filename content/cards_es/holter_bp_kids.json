@@ -1,0 +1,71 @@
+{
+ "title": "Monitoreo de presión de 24 horas en adolescentes",
+ "also": [
+  "MAPA en adolescentes",
+  "monitoreo ambulatorio de presión arterial",
+  "Holter de presión en niños",
+  "presión de 24 horas"
+ ],
+ "what": "El adolescente lleva un brazalete en el brazo durante un día. Un aparato pequeño en la cintura mide la presión solo, de día y de noche.",
+ "why": "Si salió la presión alta en consulta, con dolores de cabeza, sangrados de nariz, antes de un deporte, o para controlar el tratamiento.",
+ "duration": "normalmente se usa 24 horas; el reporte suele estar en 1 a 2 días",
+ "tell_doctor": [
+  "Qué medicamentos toma el adolescente",
+  "Cómo es su día: escuela, deporte, entrenamientos",
+  "Qué le molesta: dolores de cabeza, sangrados de nariz, mareos",
+  "Si ya le habían medido la presión, qué números salieron"
+ ],
+ "prepare": [
+  {
+   "title": "Rutina",
+   "text": "Un día normal: escuela y paseos. Es mejor cancelar los entrenamientos fuertes ese día. Pregunta al médico."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una playera de manga ancha y floja, y encima una sudadera holgada."
+  },
+  {
+   "title": "Baño",
+   "text": "Con el aparato no se puede bañar. Que se bañe antes de que se lo pongan."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "El diario que te dan en la clínica y una pluma",
+  "La lista de sus medicamentos"
+ ],
+ "steps": [
+  "Le ponen el brazalete en el brazo, normalmente en el que no usa para escribir",
+  "El aparato se cuelga en la cintura",
+  "Le explican cómo llenar el diario",
+  "De día el aparato mide la presión normalmente cada 15 a 30 minutos, de noche menos seguido",
+  "Durante cada medición el brazo debe estar quieto y hacia abajo",
+  "Al día siguiente le quitan el aparato en la clínica"
+ ],
+ "feel": [
+  "El brazalete aprieta el brazo en cada medición",
+  "De noche las mediciones pueden despertarlo. Es normal"
+ ],
+ "after": [
+  "Después de quitarlo, vida normal",
+  "El reporte suele estar en 1 a 2 días",
+  "Platica el resultado con el pediatra o el cardiólogo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puede ir a la escuela con el aparato?",
+   "a": "Sí. La actividad normal ayuda a ver cómo cambia la presión."
+  },
+  {
+   "q": "¿Qué se escribe en el diario?",
+   "a": "Cuándo durmió, comió, hizo ejercicio, tomó medicamentos y si algo le molestó."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana le ponen el monitor de presión de 24 horas. Que se bañe en la mañana y use una playera de manga floja."
+  }
+ ]
+}

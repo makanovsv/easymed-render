@@ -1,0 +1,70 @@
+{
+ "title": "Puente dental",
+ "also": [
+  "puente dental",
+  "puente fijo",
+  "prótesis fija",
+  "corona puente"
+ ],
+ "what": "El puente cubre el espacio de uno o varios dientes que faltan. Se apoya en los dientes de al lado o en implantes y no se quita.",
+ "why": "Cuando faltan uno o dos dientes seguidos y los dientes de al lado pueden servir de apoyo.",
+ "duration": "normalmente de 2 a 3 visitas en 1 a 3 semanas",
+ "tell_doctor": [
+  "Si tienes dientes o encías enfermos",
+  "Si aprietas o rechinas los dientes",
+  "Medicamentos que hacen la sangre más líquida",
+  "Alergias",
+  "Si has pensado en implantes"
+ ],
+ "prepare": [
+  {
+   "title": "Tratamiento",
+   "text": "Primero se curan los dientes de apoyo; a veces necesitan tratamiento de conductos."
+  },
+  {
+   "title": "Radiografías",
+   "text": "El dentista toma una radiografía para revisar las raíces de los dientes de apoyo."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "Tus radiografías dentales, si las tienes"
+ ],
+ "steps": [
+  "El dentista revisa los dientes y toma una radiografía",
+  "Con anestesia desgastan los dientes de apoyo para las coronas",
+  "Toman una impresión o un escaneo",
+  "Ponen un puente temporal",
+  "Después de un tiempo prueban y fijan el puente definitivo",
+  "Revisan la mordida y te explican los cuidados"
+ ],
+ "feel": [
+  "Con anestesia, el desgaste no duele",
+  "Los primeros días el puente se siente raro y los dientes pueden reaccionar al frío"
+ ],
+ "after": [
+  "Limpia debajo del puente con un hilo especial o un irrigador",
+  "No muerdas cosas muy duras",
+  "Revisión cada 6 meses"
+ ],
+ "red_flags": [
+  "El puente se mueve o se despegó",
+  "Dolor fuerte en un diente de apoyo o encías hinchadas"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué es peor un puente que un implante?",
+   "a": "Para el puente se desgastan los dientes de al lado. El implante no los toca, pero necesita cirugía. El dentista te ayudará a elegir."
+  },
+  {
+   "q": "¿Cuánto dura un puente?",
+   "a": "Normalmente muchos años, con buen cuidado. Es importante limpiar debajo todos los días."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cita para el puente. Come antes, porque te pondrán anestesia."
+  }
+ ]
+}

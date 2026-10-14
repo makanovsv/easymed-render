@@ -1,0 +1,72 @@
+{
+ "title": "Acupuntura",
+ "also": [
+  "acupuntura",
+  "agujas chinas",
+  "terapia con agujas",
+  "electroacupuntura"
+ ],
+ "what": "El médico pone agujas delgadas y estériles en ciertos puntos del cuerpo por un rato.",
+ "why": "Casi siempre en dolores crónicos de espalda, de cuello o de cabeza, como complemento del tratamiento principal.",
+ "duration": "la sesión suele durar de 30 a 45 minutos; las agujas se quedan normalmente de 20 a 30 minutos; el médico decide cuántas sesiones",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si estás embarazada",
+  "Si te has desmayado con las inyecciones",
+  "Si tienes marcapasos",
+  "Enfermedades de la piel en la zona"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "No llegues con hambre, pero tampoco después de una comida pesada."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa holgada, para descubrir las zonas necesarias."
+  },
+  {
+   "title": "Agujas",
+   "text": "Las agujas deben ser desechables y estériles. Las abren frente a ti."
+  }
+ ],
+ "bring": [
+  "La indicación o el informe del médico, si tienes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas cómodo",
+  "El médico limpia la piel",
+  "Pone las agujas delgadas, rápido y poco profundo",
+  "Te quedas quieto con las agujas de 20 a 30 minutos",
+  "El médico quita las agujas y las tira"
+ ],
+ "feel": [
+  "Un piquete breve y ligero, muchas veces casi no se siente",
+  "A veces pesadez, calor o un dolor sordo cerca de la aguja",
+  "Puedes sentirte relajado y con sueño"
+ ],
+ "after": [
+  "Quédate sentado unos minutos antes de irte",
+  "Puede salir una gotita de sangre o un moretón pequeño, que se quita solo"
+ ],
+ "red_flags": [
+  "Debilidad fuerte, desmayo o dolor en el pecho después de la sesión: díselo al médico; si te falta mucho el aire, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente no. Las agujas son muy delgadas y el piquete casi no se siente."
+  },
+  {
+   "q": "¿Me puedo contagiar de algo por las agujas?",
+   "a": "No, si son desechables y estériles. Pide que abran el paquete frente a ti."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Hoy es tu sesión de acupuntura. Come algo antes y ponte ropa holgada."
+  }
+ ]
+}

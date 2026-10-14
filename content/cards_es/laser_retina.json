@@ -1,0 +1,76 @@
+{
+ "title": "Fotocoagulación con láser de la retina",
+ "also": [
+  "láser de retina",
+  "fotocoagulación",
+  "láser para la retina",
+  "sellado de retina con láser"
+ ],
+ "what": "El médico hace con láser pequeños puntos de unión en la retina. Esto la refuerza o elimina vasos enfermos.",
+ "why": "Si hay desgarros o zonas delgadas en la retina, cambios en la retina por diabetes o algunas enfermedades de los vasos del ojo.",
+ "duration": "normalmente de 10 a 30 minutos; con la preparación, alrededor de 1 hora a 1 hora y media",
+ "tell_doctor": [
+  "Todos tus medicamentos y gotas",
+  "Si tienes glaucoma, si lo sabes",
+  "Si tienes diabetes",
+  "Si estás embarazada",
+  "Si tienes alergia a alguna gota"
+ ],
+ "prepare": [
+  {
+   "title": "Transporte",
+   "text": "Te dilatan la pupila y después no puedes manejar. Ve con un acompañante."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer antes, si la clínica no te dijo otra cosa."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos por tu cuenta."
+  }
+ ],
+ "bring": [
+  "Lentes de sol",
+  "Una identificación",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te anestesian el ojo y te dilatan la pupila con gotas",
+  "Te sientas frente al aparato y apoyas la barbilla",
+  "Ponen una lente especial sobre el ojo",
+  "El médico apunta el láser y ves destellos brillantes",
+  "Tienes que mirar hacia donde te diga el médico y no moverte",
+  "Quitan la lente y te enjuagan el ojo"
+ ],
+ "feel": [
+  "Destellos de luz brillantes",
+  "A veces piquetitos o un dolor sordo",
+  "Después ves borroso unas horas"
+ ],
+ "after": [
+  "No manejes hasta que tu vista vuelva a la normalidad",
+  "Los primeros días no cargues cosas pesadas ni te agaches de golpe, si te lo dice el médico",
+  "Ve a tu revisión a tiempo"
+ ],
+ "red_flags": [
+  "De repente ves muchas moscas nuevas, destellos o una cortina frente al ojo: ve al oftalmólogo de urgencia",
+  "Dolor fuerte en el ojo, dolor de cabeza con náuseas: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿El láser me va a mejorar la vista?",
+   "a": "Normalmente su objetivo es conservar la vista y evitar que empeore."
+  },
+  {
+   "q": "¿Hay que repetirlo?",
+   "a": "A veces se necesitan varias sesiones. El médico te dirá."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu láser de retina. Confirma con tu acompañante y lleva lentes de sol."
+  }
+ ]
+}

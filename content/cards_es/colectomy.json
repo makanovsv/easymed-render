@@ -1,0 +1,88 @@
+{
+ "title": "Resección de intestino",
+ "also": [
+  "colectomía",
+  "hemicolectomía",
+  "resección de colon",
+  "cirugía de intestino"
+ ],
+ "what": "El cirujano quita la parte enferma del intestino y une los extremos. A veces se saca el intestino al abdomen por un tiempo: una ostomía.",
+ "why": "Por un tumor del intestino, inflamación fuerte, divertículos u obstrucción.",
+ "duration": "la cirugía suele durar de 2 a 4 horas; en el hospital normalmente de 4 a 10 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Enfermedades del corazón, de los pulmones o diabetes",
+  "Desde cuándo cambiaron tus evacuaciones y si bajaste de peso",
+  "Tus dudas sobre la ostomía; mejor platicarlas antes"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Intestino",
+   "text": "A veces el día anterior se indica limpieza del intestino o una bebida especial. Hazlo según el plan de la clínica."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Ostomía",
+   "text": "Si puede haber ostomía, la enfermera marcará antes un lugar cómodo en el abdomen y te explicará los cuidados."
+  }
+ ],
+ "bring": [
+  "Los resultados de la colonoscopia, la tomografía y los análisis",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital para una semana"
+ ],
+ "steps": [
+  "Te cambias de ropa, te ponen un catéter en la vena y medias contra los trombos",
+  "El anestesiólogo te pone la anestesia",
+  "El cirujano trabaja por orificios o por un corte en el abdomen",
+  "Quita la parte enferma del intestino",
+  "Une los extremos del intestino o hace una ostomía",
+  "Cierra la herida; a veces pone un drenaje"
+ ],
+ "feel": [
+  "Dolor en el abdomen. Te dan analgésicos",
+  "Inflamación y debilidad los primeros días",
+  "Al principio las evacuaciones pueden ser frecuentes o irregulares"
+ ],
+ "after": [
+  "Normalmente te levantas y caminas el primer día. Esto acelera la recuperación",
+  "Empiezas a beber y comer poco a poco, cuando lo permita el médico",
+  "No cargues cosas pesadas por unas semanas",
+  "El estudio de patología define si hace falta más tratamiento"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el abdomen, fiebre de más de 38 o pulso rápido",
+  "Vómito, abdomen inflamado o no salen gases",
+  "Sangre en las heces o heces negras",
+  "Dolor en la pantorrilla, falta de aire o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La ostomía es para siempre?",
+   "a": "Muchas veces es temporal y se cierra en unos meses. También puede ser permanente; platícalo con el cirujano."
+  },
+  {
+   "q": "¿Cómo van a cambiar mis evacuaciones?",
+   "a": "Al principio pueden ser frecuentes. Normalmente se regularizan poco a poco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de intestino. Preparación y líquidos según el plan de la clínica. Comida y agua solo hasta la hora indicada."
+  }
+ ]
+}

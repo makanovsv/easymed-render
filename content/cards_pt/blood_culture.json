@@ -1,0 +1,70 @@
+{
+ "title": "Hemocultura",
+ "also": [
+  "hemocultura",
+  "cultura de sangue",
+  "hemocultura aeróbia",
+  "exame de infecção no sangue"
+ ],
+ "what": "Colhem sangue da veia em frascos especiais. No laboratório, veem se crescem micróbios nesse sangue.",
+ "why": "Com febre alta e suspeita de infecção no sangue. Normalmente é feita no hospital.",
+ "duration": "a coleta leva de 5 a 10 minutos, o resultado parcial sai normalmente em 1 a 3 dias, e o final em até 5 a 7 dias",
+ "tell_doctor": [
+  "Se já começou antibiótico",
+  "Se tem alergia a antisséptico ou iodo",
+  "Se já colocaram cateter na veia"
+ ],
+ "prepare": [
+  {
+   "title": "Antibióticos",
+   "text": "O ideal é colher antes da primeira dose de antibiótico. Mas o tratamento não é adiado. Quem decide é o médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Não precisa de preparo especial."
+  },
+  {
+   "title": "Momento",
+   "text": "Muitas vezes o sangue é colhido no pico da febre ou durante os calafrios."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se a coleta for ambulatorial",
+  "Documento com foto"
+ ],
+ "steps": [
+  "Limpam a pele do braço com antisséptico, com bastante cuidado e por mais tempo",
+  "Colocam o garrote acima do cotovelo",
+  "O sangue vai para 2 frascos, às vezes de braços diferentes",
+  "Retiram a agulha e colocam um algodão",
+  "Os frascos vão direto para o laboratório"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Se for dos dois braços, são duas picadas"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "O primeiro resultado sai normalmente em 1 a 3 dias, e o completo em até uma semana",
+  "Se crescer um micróbio, testam quais antibióticos funcionam contra ele"
+ ],
+ "red_flags": [
+  "Calafrios, febre acima de 39 graus, confusão mental ou fraqueza forte: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que colhem dos dois braços?",
+   "a": "Assim é mais fácil diferenciar uma infecção de verdade de um micróbio da pele que caiu por acaso na amostra."
+  },
+  {
+   "q": "Por que esperar uma semana?",
+   "a": "Alguns micróbios crescem devagar. Enquanto se espera, o tratamento normalmente já começou."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Daqui a pouco é a hemocultura. Se já começou antibiótico, avise a enfermeira."
+  }
+ ]
+}

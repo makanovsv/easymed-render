@@ -1,0 +1,82 @@
+{
+ "title": "Inyección intravítrea",
+ "also": [
+  "inyección en el ojo",
+  "inyección intravítrea",
+  "aplicación de medicamento en el ojo",
+  "inyección para la retina"
+ ],
+ "what": "El médico pone el medicamento dentro del ojo con una aguja muy delgada. Antes te anestesian el ojo con gotas.",
+ "why": "En algunas enfermedades de la retina, por ejemplo la degeneración macular por la edad o los cambios en la retina por diabetes.",
+ "duration": "la inyección dura unos segundos; todo junto, normalmente de 20 a 40 minutos; muchas veces se necesita una serie de inyecciones",
+ "tell_doctor": [
+  "Ojo rojo, lagañas o inflamación del ojo o los párpados",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes alergia al yodo o a alguna gota",
+  "Si estás embarazada",
+  "Si tuviste hace poco un infarto o un derrame cerebral"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos por tu cuenta. Pregúntale al médico."
+  },
+  {
+   "title": "Maquillaje",
+   "text": "Llega sin maquillaje en los ojos ni en la cara."
+  },
+  {
+   "title": "Transporte",
+   "text": "Después de la inyección no puedes manejar. Ve con un acompañante."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Un acompañante",
+  "Lentes de sol"
+ ],
+ "steps": [
+  "Te anestesian el ojo con gotas",
+  "Limpian el ojo y la piel alrededor con antiséptico",
+  "Ponen un separador de párpados para que no parpadees",
+  "Te piden mirar hacia un lado",
+  "El médico pone la inyección. Son unos segundos",
+  "Vuelven a limpiar el ojo y revisan tu vista y la presión del ojo"
+ ],
+ "feel": [
+  "Sientes presión, pero normalmente no dolor",
+  "El antiséptico puede arder",
+  "Después, arenilla en el ojo y a veces manchas o burbujitas en la vista"
+ ],
+ "after": [
+  "No te talles ni te mojes el ojo los primeros días, como te diga el médico",
+  "Una manchita roja en lo blanco del ojo normalmente se quita sola en 1 a 2 semanas",
+  "Las gotas después de la inyección, como te las indique el médico",
+  "Ve a tus siguientes inyecciones según el calendario"
+ ],
+ "red_flags": [
+  "En los primeros días aumenta el dolor o el enrojecimiento, o la vista baja de golpe: ve al oftalmólogo de urgencia",
+  "Sale pus del ojo: ve al oftalmólogo de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele mucho?",
+   "a": "Normalmente no. El ojo se anestesia y la inyección dura segundos."
+  },
+  {
+   "q": "¿Cuántas inyecciones necesito?",
+   "a": "Muchas veces una serie y luego inyecciones de mantenimiento. El médico te da el calendario."
+  },
+  {
+   "q": "¿Voy a ver la aguja?",
+   "a": "Normalmente solo ves una mancha borrosa. Tienes que mirar hacia un lado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu inyección en el ojo. Llega sin maquillaje y con un acompañante. Después no puedes manejar."
+  }
+ ]
+}

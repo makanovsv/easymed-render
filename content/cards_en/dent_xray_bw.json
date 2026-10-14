@@ -1,0 +1,58 @@
+{
+ "title": "Dental X-ray",
+ "also": [
+  "dental X-ray",
+  "bitewing X-ray",
+  "periapical X-ray",
+  "tooth X-ray"
+ ],
+ "what": "This is a small X-ray of one or a few teeth. It shows decay between teeth and the state of the root.",
+ "why": "To find hidden decay and check the roots, fillings, and bone around a tooth.",
+ "duration": "usually 1 to 5 minutes; the image is ready right away",
+ "tell_doctor": [
+  "If you are or might be pregnant",
+  "If you had X-rays recently"
+ ],
+ "prepare": [
+  {
+   "title": "Jewelry",
+   "text": "Remove earrings, mouth piercings, and removable dentures if asked."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your referral, if you have one"
+ ],
+ "steps": [
+  "You sit in the chair and may get a protective apron",
+  "A small sensor or film is placed in your mouth behind the teeth",
+  "You bite on a holder and keep still",
+  "The machine takes the image in a split second",
+  "The sensor comes out, and the image appears on screen"
+ ],
+ "feel": [
+  "The sensor in your mouth is a little uncomfortable",
+  "Some people gag. Breathe through your nose"
+ ],
+ "after": [
+  "No restrictions",
+  "The dentist looks at the image right away and tells you what is next"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is it dangerous?",
+   "a": "The radiation dose is very small. The X-ray is taken when it is needed for treatment."
+  },
+  {
+   "q": "Can I have it while pregnant?",
+   "a": "If it is needed, it is done with protection. Be sure to tell your dentist you are pregnant."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Dental X-ray in an hour. Bring your ID."
+  }
+ ]
+}

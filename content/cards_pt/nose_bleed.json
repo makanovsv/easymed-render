@@ -1,0 +1,76 @@
+{
+ "title": "Tratamento de sangramento nasal",
+ "also": [
+  "sangramento nasal",
+  "sangue pelo nariz",
+  "epistaxe",
+  "cauterização nasal"
+ ],
+ "what": "O médico encontra de onde sai o sangue e faz parar. Às vezes cauteriza o vaso ou coloca um tampão no nariz.",
+ "why": "Quando o sangue do nariz não para sozinho ou volta com frequência.",
+ "duration": "normalmente de 15 a 30 minutos; se colocarem tampão, normalmente ele é retirado em 1 a 2 dias",
+ "tell_doctor": [
+  "Remédios que afinam o sangue. Não suspenda por conta própria",
+  "Pressão alta",
+  "Doenças do sangue, roxos com facilidade",
+  "Se você bateu o nariz"
+ ],
+ "prepare": [
+  {
+   "title": "Agora",
+   "text": "Sente e incline a cabeça para a frente, não para trás. Aperte bem a parte mole do nariz por 10 a 15 minutos."
+  },
+  {
+   "title": "O que não fazer",
+   "text": "Não jogue a cabeça para trás e não engula o sangue."
+  },
+  {
+   "title": "Remédios",
+   "text": "Se você toma remédio que afina o sangue, avise o médico. Não suspenda por conta própria."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios",
+  "Lenços"
+ ],
+ "steps": [
+  "O médico limpa os coágulos do nariz",
+  "Anestesia a mucosa com spray ou algodões",
+  "Encontra o vaso que sangra",
+  "Cauteriza o vaso ou coloca um tampão",
+  "Às vezes medem a pressão",
+  "Explicam o que fazer em casa"
+ ],
+ "feel": [
+  "É desagradável e pode arder",
+  "O tampão atrapalha a respiração pelo nariz e faz lacrimejar"
+ ],
+ "after": [
+  "Por alguns dias, não assoe o nariz e não mexa dentro dele",
+  "Nos primeiros dias, não pegue peso e não beba coisas quentes",
+  "Se houver tampão, ele é retirado na clínica",
+  "Deixe o ar de casa úmido"
+ ],
+ "red_flags": [
+  "O sangue não para em mais de 20 minutos ou sai muito: ligue para a emergência",
+  "Fraqueza, tontura, palidez",
+  "Sangramento depois de bater a cabeça: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que não pode jogar a cabeça para trás?",
+   "a": "O sangue escorre para a garganta, a pessoa engole e pode vomitar."
+  },
+  {
+   "q": "Por que o nariz sangra tanto?",
+   "a": "Muitas vezes por ar seco e vasos frágeis. A causa quem encontra é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Daqui a uma hora é a consulta sobre sangramento nasal. Leve a lista de remédios."
+  }
+ ]
+}

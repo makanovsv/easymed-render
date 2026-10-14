@@ -1,0 +1,77 @@
+{
+ "title": "Nerve block anesthesia",
+ "also": [
+  "nerve block",
+  "regional anesthesia",
+  "arm block",
+  "leg block"
+ ],
+ "what": "The anesthetist injects near a nerve, and your arm or leg goes numb. Surgery can be done without general anesthesia, and there is less pain afterward.",
+ "why": "For surgery on the arm, shoulder, leg, or foot, and for pain relief after surgery.",
+ "duration": "the injection usually takes 10 to 20 minutes; numbness lasts several hours, sometimes up to a day",
+ "tell_doctor": [
+  "Blood thinners. Do not stop them on your own. Your doctor will decide",
+  "Allergies to local numbing medicines",
+  "Past numbness or weakness in this limb",
+  "Lung conditions. This matters for a block near the neck"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually the same rules as before surgery. The clinic will tell you when to stop eating and drinking."
+  },
+  {
+   "title": "Anesthetist",
+   "text": "Tell the anesthetist about your health. You can ask for sedation to doze."
+  },
+  {
+   "title": "Getting home",
+   "text": "Arrange a ride home. Your arm or leg will still be numb."
+  }
+ ],
+ "bring": [
+  "Documents",
+  "A list of your medicines",
+  "Loose clothes"
+ ],
+ "steps": [
+  "An IV line is placed, and you are connected to monitors",
+  "Sometimes you get a sedative to relax",
+  "The skin is cleaned and numbed",
+  "Using ultrasound, the doctor guides a thin needle near the nerve",
+  "The medicine is injected, and the limb gets warm and numb",
+  "Once the numbness is complete, surgery begins"
+ ],
+ "feel": [
+  "The injection feels like a regular shot, brief",
+  "Warmth and tingling, then heaviness and numbness",
+  "During surgery, touch but no pain. If it hurts, say so right away"
+ ],
+ "after": [
+  "While the limb is numb, protect it: keep it away from heat, do not lean on it",
+  "Keep your arm in a sling, and do not put weight on your leg without support",
+  "Start painkillers on schedule before the numbness wears off",
+  "Feeling usually comes back after a few hours or by morning"
+ ],
+ "red_flags": [
+  "Numbness or weakness lasts more than a day",
+  "Shortness of breath or chest pain after a block near the neck: call emergency services",
+  "Ringing in the ears, a metallic taste, or seizures: tell a doctor right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Will I be awake?",
+   "a": "You can stay awake, or doze under sedation. Discuss it with the anesthetist."
+  },
+  {
+   "q": "Why can't I move my arm after surgery?",
+   "a": "That is how the block works. Movement will come back when the medicine wears off."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Surgery with a nerve block tomorrow. Eat and drink only until the time the clinic gave you. Arrange a ride home."
+  }
+ ]
+}

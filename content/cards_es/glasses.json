@@ -1,0 +1,73 @@
+{
+ "title": "Graduación de lentes",
+ "also": [
+  "examen de la vista",
+  "graduación de la vista",
+  "receta para lentes",
+  "lentes para leer"
+ ],
+ "what": "El médico revisa tu vista y elige los lentes con los que ves claro y cómodo. Te dan una receta para tus lentes.",
+ "why": "Cuando ves peor de lejos o de cerca, se te cansan los ojos o te duele la cabeza al leer.",
+ "duration": "normalmente de 20 a 40 minutos; la receta te la dan en ese momento",
+ "tell_doctor": [
+  "Para qué necesitas los lentes: manejar, la computadora o leer",
+  "Si antes usaste lentes o lentes de contacto",
+  "Enfermedades de los ojos, diabetes o presión alta",
+  "Si tienes dolor de cabeza o se te cansan los ojos"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes de contacto",
+   "text": "Si usas lentes de contacto, normalmente hay que quitárselos antes. Pregunta en la clínica con cuántas horas."
+  },
+  {
+   "title": "Descanso",
+   "text": "Mejor no llegues después de muchas horas frente a una pantalla."
+  }
+ ],
+ "bring": [
+  "Tus lentes actuales",
+  "Una identificación",
+  "La receta de tus lentes anteriores, si tienes"
+ ],
+ "steps": [
+  "Un aparato, sin tocar el ojo, mide cómo enfoca",
+  "Miras una tabla de letras con cada ojo",
+  "Te ponen un armazón de prueba y te cambian los lentes",
+  "Dices con cuáles ves más claro",
+  "Revisan la vista de cerca, si hace falta",
+  "El médico te revisa los ojos y te da la receta"
+ ],
+ "feel": [
+  "La revisión no duele",
+  "A veces cuesta decidir qué lente es mejor. Es normal, di lo que ves"
+ ],
+ "after": [
+  "Con la receta, ve a la óptica",
+  "Normalmente te acostumbras a los lentes nuevos en unos días",
+  "Si después de 1 a 2 semanas siguen incómodos, regresa con el médico"
+ ],
+ "red_flags": [
+  "La vista empeora de golpe, o ves destellos, manchas o una cortina frente al ojo: ve al oftalmólogo de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo comprar lentes sin revisión?",
+   "a": "Los lentes ya hechos no toman en cuenta la diferencia entre tus ojos ni otros detalles. Mejor que te gradúe el médico."
+  },
+  {
+   "q": "¿Cada cuánto me reviso la vista?",
+   "a": "Normalmente cada 1 o 2 años, o como te diga el médico."
+  },
+  {
+   "q": "¿Por qué me mareo con los lentes nuevos?",
+   "a": "Los ojos necesitan acostumbrarse. Normalmente son unos días."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "En 2 horas es tu graduación de lentes. Lleva tus lentes actuales."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Reoencefalografia (REG)",
+ "also": [
+  "REG",
+  "reoencefalografia",
+  "exame de circulação da cabeça por REG"
+ ],
+ "what": "A enfermeira coloca sensores na cabeça e registra uma corrente bem fraca passando pelos tecidos. Pelo registro, o médico avalia o enchimento de sangue nos vasos da cabeça.",
+ "why": "Às vezes é pedida com dores de cabeça, tontura ou variações de pressão. É um exame pouco usado hoje. Hoje se faz mais o ultrassom dos vasos. O médico decide o que você precisa.",
+ "duration": "normalmente de 15 a 20 minutos, o laudo normalmente sai no mesmo dia",
+ "tell_doctor": [
+  "O que incomoda e há quanto tempo",
+  "Quais remédios você toma, principalmente para pressão e para circulação",
+  "Se já teve AVC ou pancada na cabeça",
+  "Se usa marca-passo"
+ ],
+ "prepare": [
+  {
+   "title": "De manhã",
+   "text": "No dia do exame, sem café, chá forte e cigarro. Eles influenciam os vasos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer, mas sem exagero. Confirme com a clínica."
+  },
+  {
+   "title": "Cabelo",
+   "text": "Limpo, sem penteado e sem laquê."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exames anteriores dos vasos",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você se senta ou se deita e descansa alguns minutos",
+  "Colocam eletrodos na cabeça, presos com um elástico",
+  "Registram em repouso. É preciso ficar quieto",
+  "Às vezes pedem para virar ou inclinar a cabeça",
+  "Às vezes dão um remédio embaixo da língua e registram de novo. Só se o médico decidir"
+ ],
+ "feel": [
+  "Não dói. A corrente é fraca e não se sente",
+  "O elástico pode apertar um pouco"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "O laudo normalmente sai no mesmo dia",
+  "Converse sobre o resultado com o neurologista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "REG ou ultrassom dos vasos: qual é melhor?",
+   "a": "Hoje se pede mais o ultrassom dos vasos da cabeça e do pescoço. Ele mostra mais. Pergunte ao médico o que é melhor para você."
+  },
+  {
+   "q": "É seguro?",
+   "a": "Sim. A corrente é muito fraca, ninguém sente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem reoencefalografia. De manhã, sem café e sem cigarro. Cabelo limpo, sem laquê."
+  }
+ ]
+}

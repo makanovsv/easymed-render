@@ -1,0 +1,72 @@
+{
+ "title": "Nebulizaciones",
+ "also": [
+  "nebulizador",
+  "nebulización",
+  "micronebulización",
+  "terapia con nebulizador"
+ ],
+ "what": "El nebulizador convierte el medicamento líquido en una neblina fina. Se respira tranquilo con una mascarilla o una boquilla.",
+ "why": "Con bronquitis con falta de aire, asma, crup en niños y otras enfermedades de los pulmones, según indique el médico.",
+ "duration": "normalmente de 5 a 15 minutos por nebulización",
+ "tell_doctor": [
+  "Qué otros inhaladores usas",
+  "Si después de nebulizar sientes el corazón acelerado o temblor",
+  "Si las nebulizaciones no te ayudan"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamento",
+   "text": "Pon solo lo que indicó el médico, en esa dosis. Para diluir normalmente se usa solución salina; no uses agua de la llave."
+  },
+  {
+   "title": "Hora",
+   "text": "Normalmente al menos una hora después de comer."
+  },
+  {
+   "title": "Aparato",
+   "text": "Antes de la primera nebulización, lee el instructivo del nebulizador."
+  }
+ ],
+ "bring": [
+  "El nebulizador, la mascarilla o la boquilla",
+  "El medicamento indicado y solución salina"
+ ],
+ "steps": [
+  "Lávate las manos",
+  "Pon el medicamento en el vaso del nebulizador",
+  "Conecta la mascarilla o la boquilla y prende el aparato",
+  "Siéntate derecho y respira tranquilo por la boca",
+  "Respira hasta que deje de salir neblina",
+  "Apaga el aparato. Después de medicamentos con cortisona, enjuágate la boca"
+ ],
+ "feel": [
+  "Normalmente nada molesto",
+  "A veces corazón acelerado o un ligero temblor en las manos con algunos medicamentos"
+ ],
+ "after": [
+  "Lava el vaso y la mascarilla con agua tibia y déjalos secar",
+  "Desinfecta las piezas con regularidad, como dice el instructivo",
+  "En el nebulizador no se ponen aceites, hierbas ni tés"
+ ],
+ "red_flags": [
+  "La falta de aire aumenta, te cuesta hablar o los labios se ponen morados: llama a emergencias",
+  "El niño tiene tos como de perro y respira con ruido, y no mejora después de nebulizar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo nebulizar con agua mineral?",
+   "a": "Solo si el médico lo indicó. Para diluir los medicamentos normalmente se usa solución salina."
+  },
+  {
+   "q": "¿Puedo nebulizar con fiebre?",
+   "a": "Normalmente sí, si el médico lo indicó. Las inhalaciones de vapor caliente son otra cosa, y con fiebre no se hacen."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 0,
+   "text": "Hora de tu nebulización. El medicamento indicado, respira tranquilo por la boca y después lava la mascarilla."
+  }
+ ]
+}

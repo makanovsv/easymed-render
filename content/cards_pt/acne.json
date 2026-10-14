@@ -1,0 +1,73 @@
+{
+ "title": "Consulta para acne",
+ "also": [
+  "espinhas",
+  "cravos e espinhas",
+  "acne",
+  "tratamento de acne",
+  "dermatologista para acne"
+ ],
+ "what": "O dermatologista examina a pele, descobre por que as espinhas aparecem e escolhe o tratamento. É uma consulta comum, sem procedimentos dolorosos.",
+ "why": "Quando as espinhas não passam, deixam marcas, doem ou atrapalham a vida.",
+ "duration": "a consulta leva normalmente de 20 a 30 minutos. O efeito do tratamento aparece normalmente em 6 a 12 semanas",
+ "tell_doctor": [
+  "Quais produtos para a pele e remédios você já testou",
+  "Todos os remédios que você toma, inclusive hormonais",
+  "Gravidez ou planos de engravidar. Isso importa para escolher o tratamento",
+  "Menstruação irregular, pelos no rosto nas mulheres",
+  "Alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Pele",
+   "text": "Vá sem maquiagem, para o médico ver a pele."
+  },
+  {
+   "title": "Produtos",
+   "text": "Tire foto ou leve as embalagens dos produtos que você usa."
+  },
+  {
+   "title": "Não esprema",
+   "text": "Alguns dias antes da consulta, não esprema as espinhas e não faça procedimentos."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Lista de produtos e remédios",
+  "Exames, se já fez"
+ ],
+ "steps": [
+  "O médico pergunta quando começaram as espinhas e o que ajudou",
+  "Examina o rosto, às vezes as costas e o peito",
+  "Se precisar, pede exames",
+  "Escolhe o tratamento e os cuidados",
+  "Explica como usar os produtos",
+  "Marca o retorno"
+ ],
+ "feel": [
+  "A consulta não dói",
+  "No começo do tratamento, a pele pode ressecar, descamar ou ficar vermelha. Avise o médico"
+ ],
+ "after": [
+  "Use os produtos com regularidade, como o médico orientou",
+  "Não espere efeito na hora. Normalmente leva de 6 a 12 semanas",
+  "Volte no retorno, para ajustar o tratamento"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que piorou com o tratamento?",
+   "a": "Nas primeiras semanas, a pele pode reagir com irritação. Não pare por conta própria. Avise o médico, ele ajusta."
+  },
+  {
+   "q": "Preciso mudar a alimentação?",
+   "a": "Às vezes o médico sugere olhar a alimentação. Mas o principal é o tratamento regular que ele escolher."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a consulta com o dermatologista. Vá sem maquiagem e leve a lista dos produtos que você usa."
+  }
+ ]
+}

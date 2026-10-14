@@ -1,0 +1,78 @@
+{
+ "title": "Routine prenatal visits",
+ "also": [
+  "prenatal checkup",
+  "antenatal appointment",
+  "routine pregnancy visit",
+  "prenatal care"
+ ],
+ "what": "Regular doctor visits during pregnancy. The doctor checks your health and your baby's growth.",
+ "why": "For all pregnant women, on a schedule: less often at first, more often closer to the birth.",
+ "duration": "the visit usually takes 15 to 30 minutes",
+ "tell_doctor": [
+  "How you feel and what bothers you",
+  "Swelling, headaches, or spots before your eyes",
+  "Discharge or belly pain",
+  "How your baby is moving, in the second half of pregnancy",
+  "Any new medicines you have started"
+ ],
+ "prepare": [
+  {
+   "title": "Urine sample",
+   "text": "A urine test is often needed at each visit. Collect your first morning urine in a clean container."
+  },
+  {
+   "title": "Questions",
+   "text": "Write down questions between visits so you do not forget."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something comfortable that lets you uncover your belly easily."
+  }
+ ],
+ "bring": [
+  "Your pregnancy record",
+  "Test and ultrasound results",
+  "A urine sample, if you were asked",
+  "Your ID"
+ ],
+ "steps": [
+  "You are weighed, and your blood pressure is checked",
+  "The doctor asks how you feel",
+  "Your belly is measured with a tape measure",
+  "In the second half of pregnancy, the doctor listens to your baby's heartbeat",
+  "Your test results are reviewed, and new tests are ordered",
+  "The date of your next visit is set"
+ ],
+ "feel": [
+  "Usually nothing unpleasant",
+  "A pelvic exam is not done at every visit"
+ ],
+ "after": [
+  "Have your tests and ultrasounds on schedule",
+  "Keep notes on how you feel and how your baby moves",
+  "Come on the set day, even if everything is fine"
+ ],
+ "red_flags": [
+  "Bleeding or leaking fluid: call emergency services",
+  "A severe headache, spots before your eyes, or sudden swelling: call emergency services",
+  "Your baby is moving much less than usual: see a doctor urgently",
+  "Contractions before your due time: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "How often do I need to see the doctor?",
+   "a": "Usually once a month at first, every 2 weeks in the second half, and every week at the end. Your doctor will tell you."
+  },
+  {
+   "q": "Why a urine test every time?",
+   "a": "It catches protein, sugar, and infection early. This matters for you and your baby."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Prenatal visit tomorrow. Bring your pregnancy record, and collect a morning urine sample if you were asked."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Retiro de lunares con láser",
+ "also": [
+  "quitar un lunar",
+  "retiro de nevo",
+  "eliminación de lunares con láser",
+  "quitar verrugas con láser"
+ ],
+ "what": "El médico quita un lunar o una bolita de la piel con láser, con anestesia local. Antes siempre se revisa.",
+ "why": "Cuando el lunar estorba, se lastima con la ropa o no te gusta, y el médico confirmó que se puede quitar con láser.",
+ "duration": "el procedimiento suele durar de 10 a 30 minutos; sana normalmente en 1 a 3 semanas",
+ "tell_doctor": [
+  "Si el lunar cambió: creció, cambió de color o sangró",
+  "Medicamentos que hacen la sangre más líquida",
+  "Tendencia a cicatrices queloides",
+  "Embarazo",
+  "Alergia a anestésicos"
+ ],
+ "prepare": [
+  {
+   "title": "Revisión",
+   "text": "Antes de quitarlo, el dermatólogo siempre revisa el lunar con dermatoscopio. Los lunares sospechosos se quitan con cirugía y se mandan a analizar."
+  },
+  {
+   "title": "Sol",
+   "text": "De 1 a 2 semanas antes del procedimiento no te asolees."
+  },
+  {
+   "title": "Piel",
+   "text": "El día del procedimiento no te pongas crema ni maquillaje en la zona."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "El reporte del dermatólogo, si ya te revisó antes"
+ ],
+ "steps": [
+  "El médico revisa el lunar",
+  "Limpian la piel con antiséptico",
+  "Ponen una inyección de anestesia o una crema",
+  "Con el láser quitan el lunar capa por capa",
+  "Limpian la zona y a veces ponen una curita"
+ ],
+ "feel": [
+  "La inyección de anestesia arde un momento",
+  "Durante el láser se siente calor y hay olor, pero no dolor",
+  "Después, un ligero ardor y enrojecimiento"
+ ],
+ "after": [
+  "En el lugar quedará una costra. No te la quites",
+  "Cuida la zona como te dijo el médico",
+  "Unos días no talles la zona con esponja ni la expongas a vapor",
+  "Protege la zona del sol por varios meses"
+ ],
+ "red_flags": [
+  "La zona se pone muy roja, hinchada o con pus",
+  "Sangrado que no para al presionar"
+ ],
+ "faq": [
+  {
+   "q": "¿Cualquier lunar se puede quitar con láser?",
+   "a": "No. Primero lo revisa el médico. Los lunares sospechosos se quitan con bisturí y se mandan a analizar."
+  },
+  {
+   "q": "¿Quedará marca?",
+   "a": "Normalmente queda una manchita clara que con el tiempo se aclara más."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te quitan el lunar. No te pongas crema en esa zona y no te asolees."
+  }
+ ]
+}

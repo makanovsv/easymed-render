@@ -1,0 +1,78 @@
+{
+ "title": "Punção de medula óssea",
+ "also": [
+  "mielograma",
+  "punção de medula óssea",
+  "biópsia de medula óssea",
+  "punção esternal"
+ ],
+ "what": "Com uma agulha fina, o médico retira um pouco da medula óssea, normalmente do osso da bacia, atrás, às vezes do esterno. É feita com anestesia local.",
+ "why": "Para entender a causa de alterações no exame de sangue, em doenças do sangue ou para acompanhar o tratamento.",
+ "duration": "o procedimento em si leva normalmente de 15 a 30 minutos. O resultado sai normalmente de alguns dias a 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico decide se algo precisa mudar",
+  "Alergias, inclusive a anestésicos locais",
+  "Se você está com medo. Às vezes dá para tomar um calmante",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente, antes, fazem hemograma e exame de coagulação."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer, se não for com sedação. Confirme com a clínica."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Se derem calmante, é melhor que alguém vá buscar você."
+  }
+ ],
+ "bring": [
+  "Pedido médico e exames de sangue",
+  "Lista de remédios",
+  "Acompanhante, se for com sedação"
+ ],
+ "steps": [
+  "Você se deita de lado ou de barriga para baixo",
+  "Limpam a pele sobre o osso e aplicam a anestesia",
+  "Anestesiam também a superfície do osso",
+  "Com uma agulha especial, entram no osso",
+  "Com uma seringa, puxam um pouco da medula",
+  "Às vezes tiram um pequeno cilindro de osso",
+  "Retiram a agulha e fazem um curativo apertado"
+ ],
+ "feel": [
+  "A picada e a ardência da anestesia",
+  "Pressão quando a agulha entra no osso",
+  "Uma dor rápida, como um puxão, quando aspiram a medula. Dura alguns segundos"
+ ],
+ "after": [
+  "Fique deitado sobre o local de 10 a 20 minutos",
+  "Não molhe o curativo por 24 horas",
+  "O local pode doer de 1 a 3 dias. O analgésico, o médico indica",
+  "O resultado normalmente é explicado pelo hematologista"
+ ],
+ "red_flags": [
+  "O curativo encharca de sangue: aperte o local e avise o médico",
+  "Febre acima de 38 graus, vermelhidão e pus no local",
+  "Dor forte e piorando"
+ ],
+ "faq": [
+  {
+   "q": "Dói muito?",
+   "a": "A pele e o osso são anestesiados. Dá um desconforto de alguns segundos quando aspiram a medula."
+  },
+  {
+   "q": "É perigoso para a medula espinhal?",
+   "a": "Não. Medula óssea e medula espinhal são coisas diferentes. A punção é feita no osso da bacia ou no esterno, não na coluna."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a punção de medula óssea. Leve os exames e a lista de remédios. Comida, como a clínica orientou."
+  }
+ ]
+}

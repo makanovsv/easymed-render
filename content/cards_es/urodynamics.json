@@ -1,0 +1,81 @@
+{
+ "title": "Estudio urodinámico",
+ "also": [
+  "urodinamia",
+  "estudio urodinámico",
+  "cistometría",
+  "prueba de la vejiga"
+ ],
+ "what": "Un aparato mide cómo se llena y se vacía la vejiga. Para eso se pone en la vejiga una sonda delgada con un sensor.",
+ "why": "Si se te sale la orina, tienes ganas de orinar muy seguido o el chorro es débil, y antes de cirugías de la vejiga o la próstata.",
+ "duration": "normalmente de 30 a 60 minutos; el resultado suele estar el mismo día",
+ "tell_doctor": [
+  "Qué medicamentos tomas, sobre todo para la vejiga. El médico decide si hay que suspenderlos un tiempo",
+  "Si ahora tienes dolor o ardor al orinar",
+  "Tus alergias, también al látex",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Diario",
+   "text": "Muchas veces piden apuntar 2 o 3 días antes cuándo y cuánto bebes y orinas. Pregunta en la clínica."
+  },
+  {
+   "title": "Examen de orina",
+   "text": "Muchas veces se necesita un examen de orina reciente para descartar infección."
+  },
+  {
+   "title": "Vejiga",
+   "text": "Llega con la vejiga llena: al inicio te piden orinar en un aparato especial."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los dejes por tu cuenta. Si el médico te pide suspenderlos, te dirá por cuánto tiempo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu diario de orina",
+  "El examen de orina",
+  "Ropa interior de cambio"
+ ],
+ "steps": [
+  "Orinas en un baño especial que mide el chorro",
+  "Te acuestas o te sientas en un sillón",
+  "Ponen una sonda delgada con sensor en la vejiga y otra en el recto",
+  "Llenan la vejiga despacio con un líquido estéril",
+  "Le dices al médico cuándo sientes ganas de orinar",
+  "Al final orinas y el aparato registra la presión"
+ ],
+ "feel": [
+  "Es molesto cuando meten las sondas",
+  "Muchas ganas de orinar al final del llenado. Así debe ser",
+  "A veces da pena. El personal está acostumbrado"
+ ],
+ "after": [
+  "Ese día toma más agua, si el médico no te dijo otra cosa",
+  "Puede haber un poco de ardor al orinar por 1 o 2 días",
+  "El médico platicará los resultados contigo en la consulta"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 o escalofríos",
+  "No puedes orinar",
+  "Sangre en la orina por más de un día"
+ ],
+ "faq": [
+  {
+   "q": "¿Me va a doler?",
+   "a": "Normalmente no. Las sondas son delgadas. Puede ser molesto y dar pena, pero dura poco."
+  },
+  {
+   "q": "¿Y si se me sale la orina durante la prueba?",
+   "a": "Es normal, y hasta es necesario para el estudio. El personal está preparado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu estudio urodinámico. Lleva tu diario de orina y llega con la vejiga llena."
+  }
+ ]
+}

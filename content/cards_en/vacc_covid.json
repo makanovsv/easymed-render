@@ -1,0 +1,74 @@
+{
+ "title": "COVID-19 vaccine",
+ "also": [
+  "COVID-19 vaccine",
+  "COVID shot",
+  "coronavirus vaccine",
+  "COVID booster"
+ ],
+ "what": "A vaccine shot in the upper arm that lowers the risk of getting seriously ill with COVID-19.",
+ "why": "It is now most often advised for older people, those with long-term conditions, pregnant women, and health workers. Ask your doctor if you need it.",
+ "duration": "the shot takes a few seconds, with the checkup usually 15 to 40 minutes",
+ "tell_doctor": [
+  "If you are ill now or have a fever",
+  "Strong reactions to past vaccines",
+  "When you last had a vaccine or were ill with COVID",
+  "If you are pregnant",
+  "Immune system conditions, or treatment that weakens immunity"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "The vaccine is given when you are well."
+  },
+  {
+   "title": "Timing",
+   "text": "A gap is needed between shots or after illness. Your doctor will say when."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something that makes it easy to uncover your upper arm."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your vaccination certificate or record"
+ ],
+ "steps": [
+  "The doctor or nurse asks how you feel and takes your temperature",
+  "You uncover your upper arm",
+  "The skin is wiped, and the shot is given",
+  "The vaccine is recorded in your documents",
+  "After the shot, sit in the clinic for about 30 minutes"
+ ],
+ "feel": [
+  "A quick prick",
+  "Sometimes a sore arm for 1 to 2 days",
+  "Sometimes tiredness, a headache, or a fever. It usually passes in 1 to 2 days"
+ ],
+ "after": [
+  "Stay near the room for 30 minutes",
+  "Rest if you feel tired",
+  "Your doctor will say if another dose is needed"
+ ],
+ "red_flags": [
+  "Trouble breathing, swelling of the face or throat, or a rash all over: call emergency services",
+  "Chest pain, a strong pounding heartbeat, or shortness of breath in the first days after: see a doctor right away"
+ ],
+ "faq": [
+  {
+   "q": "Can the vaccine give me COVID?",
+   "a": "No. The vaccine has no virus that can cause illness."
+  },
+  {
+   "q": "Do I need it if I already had COVID?",
+   "a": "Sometimes yes, especially in high-risk groups. Your doctor will say when."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "COVID-19 vaccine tomorrow. Bring your ID and vaccination certificate."
+  }
+ ]
+}

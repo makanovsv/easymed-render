@@ -1,0 +1,68 @@
+{
+ "title": "Prueba de Helicobacter pylori en heces",
+ "also": [
+  "Helicobacter pylori",
+  "antígeno de H. pylori en heces",
+  "prueba de la bacteria del estómago",
+  "H. pylori"
+ ],
+ "what": "Es un análisis de heces. Busca rastros de una bacteria que vive en el estómago y puede causar gastritis y úlceras.",
+ "why": "Con dolor o pesadez en el estómago, acidez, úlcera, si hay enfermedades del estómago en la familia, o para control después del tratamiento.",
+ "duration": "recoger la muestra en casa toma unos minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Si tomaste antibióticos en el último mes",
+  "Si tomas medicamentos para la acidez",
+  "Si ya te trataron el Helicobacter y cuándo terminaste"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "Los antibióticos y los medicamentos para la acidez pueden alterar el resultado. No los suspendas por tu cuenta. Díselo al médico y él decidirá si hace falta una pausa."
+  },
+  {
+   "title": "Frasco",
+   "text": "Compra en la farmacia un frasco estéril con cucharita, o pídelo en el laboratorio."
+  },
+  {
+   "title": "Después del tratamiento",
+   "text": "La prueba de control normalmente se hace al menos 4 semanas después de terminar el tratamiento. El médico te dirá cuándo."
+  }
+ ],
+ "bring": [
+  "El frasco con la muestra de heces",
+  "La orden médica"
+ ],
+ "steps": [
+  "Haz popó en un recipiente limpio y seco o sobre un plástico limpio. No la tomes del inodoro",
+  "Con la cucharita de la tapa toma un poco de heces",
+  "Cierra bien el frasco y ponle tu nombre",
+  "Llévalo al laboratorio el mismo día"
+ ],
+ "feel": [
+  "Nada, la prueba no duele"
+ ],
+ "after": [
+  "Si no puedes llevarlo de inmediato, normalmente se guarda en el refrigerador. Pregunta en el laboratorio cuánto tiempo",
+  "El resultado suele estar en 1 a 3 días. En el laboratorio te dirán cuándo",
+  "Si encuentran la bacteria, el médico te dará el tratamiento"
+ ],
+ "red_flags": [
+  "Heces negras, o vómito con sangre o como asientos de café: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué es mejor la prueba en heces que la de sangre?",
+   "a": "Las heces muestran si la bacteria está ahora. Los anticuerpos en la sangre pueden quedar después del tratamiento."
+  },
+  {
+   "q": "¿Hay que revisar a la familia?",
+   "a": "Lo decide el médico. Normalmente se revisa a quienes tienen molestias."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana entregas la muestra de heces para Helicobacter. Ten listo el frasco y un recipiente limpio."
+  }
+ ]
+}

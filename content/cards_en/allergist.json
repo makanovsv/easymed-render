@@ -1,0 +1,69 @@
+{
+ "title": "Allergist visit",
+ "also": [
+  "allergist",
+  "allergy doctor",
+  "allergy and immunology specialist",
+  "allergy testing"
+ ],
+ "what": "A doctor who finds out what you are allergic to and chooses treatment.",
+ "why": "For seasonal runny nose and sneezing, rashes and itching, reactions to food, medicines, or stings, and asthma.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "What you reacted to, when, and what it looked like",
+  "What allergy medicines you take, and when you last took them",
+  "Any severe reactions with swelling or trouble breathing",
+  "If you have asthma or eczema",
+  "Allergies in relatives"
+ ],
+ "prepare": [
+  {
+   "title": "Allergy medicines",
+   "text": "If skin tests are planned, some medicines affect the result. Do not stop them on your own. Ask the doctor in advance, and they will decide."
+  },
+  {
+   "title": "Diary",
+   "text": "Write down when reactions happen and after what. Photos of a rash help too."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Allergy test results, if you had them",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your reactions in detail",
+  "Your skin, nose, and throat are checked",
+  "Your lungs are listened to",
+  "The doctor decides if skin tests or a blood test are needed",
+  "You learn how to avoid the allergen and get treatment"
+ ],
+ "feel": [
+  "The exam itself is not unpleasant",
+  "If skin tests are done, light pricks and itching at the test spots"
+ ],
+ "after": [
+  "The doctor may give you an action plan for a severe reaction",
+  "Do not stop prescribed medicines on your own"
+ ],
+ "red_flags": [
+  "Swelling of the lips or tongue, trouble breathing, or sudden weakness after contact with an allergen: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I have tests at the first visit?",
+   "a": "Sometimes, but often you need to prepare first. Check with the clinic."
+  },
+  {
+   "q": "Should I stop allergy medicines before the visit?",
+   "a": "Do not stop them on your own. Tell the doctor what you take, and they will decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Allergist visit tomorrow. Write down the allergy medicines you take, and bring past test results."
+  }
+ ]
+}

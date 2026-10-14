@@ -1,0 +1,83 @@
+{
+ "title": "Mastectomy",
+ "also": [
+  "mastectomy",
+  "breast removal surgery",
+  "breast cancer surgery"
+ ],
+ "what": "The surgeon removes the whole breast. Often some lymph nodes under the arm are removed too.",
+ "why": "Most often for breast cancer. Sometimes to prevent cancer in women with a high inherited risk.",
+ "duration": "surgery usually takes 1.5 to 3 hours, with a few days in hospital",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners. Your doctor will say what to stop and when",
+  "Allergies to medicines, latex, or iodine",
+  "Heart or lung disease, or diabetes",
+  "If you want breast reconstruction. Sometimes it is done at the same time",
+  "What worries you. You can ask to see a psychologist"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Blood tests, an ECG, and sometimes a GP checkup. The clinic will give you a list."
+  },
+  {
+   "title": "Anesthetist",
+   "text": "Before surgery, an anesthetist will talk with you. Tell them about your health and medicines."
+  },
+  {
+   "title": "Food and water",
+   "text": "Usually no food from the night before and no drinks for a few hours. The clinic will tell you the exact time."
+  },
+  {
+   "title": "Talk it through",
+   "text": "Ask your surgeon in advance about drains, reconstruction, and a breast form. It helps you feel calmer."
+  }
+ ],
+ "bring": [
+  "All test and biopsy results",
+  "Documents",
+  "A list of your medicines",
+  "A button-up top or shirt"
+ ],
+ "steps": [
+  "You change, and an IV line is placed",
+  "The anesthetist gives anesthesia",
+  "The surgeon removes the breast and, if needed, lymph nodes",
+  "A thin tube called a drain is placed to let fluid out",
+  "The wound is stitched, and a dressing is applied"
+ ],
+ "feel": [
+  "Pain and tightness in the chest and under the arm. You will get painkillers",
+  "Numb skin on the chest and upper arm. It often lasts a long time",
+  "It is hard and emotional. Support from loved ones and a psychologist helps"
+ ],
+ "after": [
+  "The drain usually comes out after a few days, depending on the amount of fluid",
+  "Arm exercises start on your doctor's plan",
+  "On the arm on the surgery side, avoid cuts and tight cuffs. Your doctor will explain",
+  "The lab results will guide further treatment",
+  "A temporary, then a permanent breast form can be fitted"
+ ],
+ "red_flags": [
+  "A fever over 38°C (100.4°F), or redness and pus from the wound",
+  "Fluid has built up under the skin, and the area is very swollen",
+  "The arm on the surgery side is very swollen",
+  "Calf pain, shortness of breath, or chest pain: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can my breast be reconstructed?",
+   "a": "Yes. Sometimes right away, sometimes later. Discuss the options with your surgeon."
+  },
+  {
+   "q": "Why does my arm swell?",
+   "a": "Because lymph nodes were removed. Exercises and caring for the arm lower the risk."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Surgery tomorrow. Bring your test results and button-up clothes. Eat and drink only until the time the clinic gave you."
+  }
+ ]
+}

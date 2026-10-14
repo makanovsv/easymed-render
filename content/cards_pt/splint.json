@@ -1,0 +1,79 @@
+{
+ "title": "Órtese e tala depois de lesão",
+ "also": [
+  "tala",
+  "tala gessada",
+  "órtese",
+  "imobilizador",
+  "bandagem"
+ ],
+ "what": "O braço, a perna ou a articulação machucada são imobilizados para não se mexerem e cicatrizarem. Para isso se usa tala, tala gessada ou órtese pronta.",
+ "why": "Com fraturas, fissuras, luxações, entorses fortes e depois de algumas cirurgias.",
+ "duration": "a colocação leva normalmente de 10 a 30 minutos. O uso dura o que o médico indicar, muitas vezes de alguns dias a algumas semanas",
+ "tell_doctor": [
+  "Onde e como você se machucou, e quando",
+  "Se o braço ou a perna fica dormente, formigando ou pálido",
+  "Diabetes e problemas de circulação",
+  "Alergia a materiais, látex ou esparadrapo",
+  "Remédios que afinam o sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Antes da consulta",
+   "text": "Deixe o local machucado em repouso. Pode pôr gelo enrolado num pano. Não tente colocar a articulação no lugar sozinho."
+  },
+  {
+   "title": "Acessórios",
+   "text": "Tire antes anéis, pulseiras e relógio do braço machucado. Com o inchaço, fica difícil tirar."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa folgada, com manga ou perna larga."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Imagens e laudos, se já fez raio-X",
+  "A órtese pronta, se comprou por indicação médica"
+ ],
+ "steps": [
+  "O médico examina a lesão e, se precisar, pede raio-X",
+  "Escolhem o tipo de imobilização e o tamanho",
+  "Colocam uma proteção macia sobre a pele",
+  "Colocam a tala ou a órtese e prendem com faixa ou fechos",
+  "Conferem se os dedos estão quentes, se mexem e se a imobilização não aperta",
+  "Explicam como usar, quando tirar e quando voltar para controle"
+ ],
+ "feel": [
+  "Durante a colocação, pode doer, se mexerem no local machucado",
+  "Nos primeiros dias é estranho e desconfortável. É normal",
+  "Embaixo da imobilização, a pele pode coçar"
+ ],
+ "after": [
+  "Nos primeiros dias, mantenha o braço ou a perna elevados. Incha menos",
+  "Não molhe a tala gessada. Tire a órtese só se o médico liberar",
+  "Não enfie nada embaixo da imobilização, mesmo se coçar",
+  "Volte para controle e raio-X no prazo que o médico marcou"
+ ],
+ "red_flags": [
+  "Os dedos ficaram roxos, pálidos ou frios: procure o médico com urgência",
+  "Dor forte e piorando, dormência ou formigamento embaixo da imobilização",
+  "A imobilização molhou, rachou ou aperta muito"
+ ],
+ "faq": [
+  {
+   "q": "Posso tirar a tala para dormir?",
+   "a": "Só se o médico liberar. Na maioria das vezes, a tala fica o tempo todo. Se não, o osso pode sair do lugar."
+  },
+  {
+   "q": "O que fazer se coçar embaixo da tala?",
+   "a": "Não enfie nada embaixo. Ar frio do secador ajuda. Se a coceira for forte, avise o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a consulta com o ortopedista. Tire os anéis e as pulseiras do braço machucado e leve as imagens, se tiver."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Doação de sangue",
+ "also": [
+  "doação de sangue",
+  "ser doador",
+  "doar sangue",
+  "doação de plasma"
+ ],
+ "what": "Você doa de forma voluntária cerca de 450 ml de sangue ou uma parte dele, como plasma ou plaquetas. Esse sangue salva outras pessoas.",
+ "why": "O sangue doado é necessário em cirurgias, acidentes, partos, tratamento de câncer e doenças do sangue.",
+ "duration": "normalmente cerca de uma hora, com a entrevista e a triagem. A doação de sangue total leva uns 10 minutos, e a de plasma, mais tempo",
+ "tell_doctor": [
+  "Todas as doenças e remédios, com sinceridade, na entrevista",
+  "Tatuagens, piercings, cirurgias e viagens recentes",
+  "Se esteve doente ou tomou antibiótico há pouco tempo",
+  "Se você está grávida ou amamentando"
+ ],
+ "prepare": [
+  {
+   "title": "Requisitos",
+   "text": "Normalmente pode doar um adulto saudável, com pelo menos 50 kg. As regras exatas, o hemocentro informa."
+  },
+  {
+   "title": "Comida",
+   "text": "Não vá em jejum. Um café da manhã leve e sem gordura: pão, fruta, suco."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Nos 2 dias antes, sem álcool. Na véspera, sem comida gordurosa, e durma bem. Uma hora antes da doação, não fume."
+  }
+ ],
+ "bring": [
+  "Documento oficial com foto",
+  "Água"
+ ],
+ "steps": [
+  "Você preenche a entrevista sobre a saúde",
+  "Colhem uma gota de sangue do dedo para a hemoglobina",
+  "O médico mede a pressão e faz uma avaliação rápida",
+  "Você se deita na cadeira de doação",
+  "A agulha entra na veia do cotovelo, e o sangue vai para a bolsa",
+  "Retiram a agulha e colocam um curativo"
+ ],
+ "feel": [
+  "Uma picada quando a agulha entra",
+  "Às vezes uma leve tontura. Avise a enfermeira na hora"
+ ],
+ "after": [
+  "Fique sentado de 10 a 15 minutos e coma o lanche oferecido",
+  "Não tire o curativo por 3 a 4 horas",
+  "Nesse dia, beba mais líquido, sem esforço pesado e sem álcool",
+  "A próxima doação só depois do prazo que o hemocentro informar"
+ ],
+ "red_flags": [
+  "Desmaio de novo ou fraqueza forte em casa: avise o médico",
+  "O braço ficou inchado, dói muito ou está dormente"
+ ],
+ "faq": [
+  {
+   "q": "Posso pegar alguma doença ao doar sangue?",
+   "a": "Não. As agulhas e as bolsas são descartáveis e abertas na sua frente."
+  },
+  {
+   "q": "Quanto tempo o sangue leva para se recuperar?",
+   "a": "O volume de líquido, em 1 a 2 dias. As células do sangue, em algumas semanas. Por isso é preciso um intervalo entre as doações."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a doação de sangue. Hoje, sem gordura e sem álcool, e durma bem. De manhã, café leve. Não vá em jejum."
+  }
+ ]
+}

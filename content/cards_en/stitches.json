@@ -1,0 +1,78 @@
+{
+ "title": "Stitches for a wound",
+ "also": [
+  "stitches",
+  "sutures",
+  "wound stitching",
+  "getting stitches for a cut"
+ ],
+ "what": "The doctor cleans the wound and closes it with stitches, staples, or special skin glue. This helps it heal faster and leaves a neater scar.",
+ "why": "For deep cuts, wounds with gaping edges, or wounds on the face, hands, or joints.",
+ "duration": "usually 15 to 40 minutes; stitches usually come out after 5 to 14 days, depending on the spot",
+ "tell_doctor": [
+  "How and when you got the wound, and what cut you",
+  "When you last had a tetanus shot",
+  "Blood thinners",
+  "Diabetes",
+  "Allergy to numbing medicines"
+ ],
+ "prepare": [
+  {
+   "title": "Bleeding",
+   "text": "Press a clean cloth on the wound and hold it. Raise the arm or leg above heart level."
+  },
+  {
+   "title": "Timing",
+   "text": "The sooner the better. Doctors usually try to close a wound within the first hours."
+  },
+  {
+   "title": "Do not",
+   "text": "Do not pour alcohol into the wound or put anything on it. You can rinse it with clean water."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your tetanus shot record, if you have it"
+ ],
+ "steps": [
+  "The doctor examines the wound",
+  "The wound is rinsed and cleaned with antiseptic",
+  "Numbing injections are given around it",
+  "The edges are stitched or held together",
+  "A bandage is put on",
+  "You are told when to come for a dressing change and stitch removal"
+ ],
+ "feel": [
+  "The numbing injections sting for a few seconds",
+  "During stitching you feel pulling, but no pain",
+  "When the numbing wears off, the wound will ache"
+ ],
+ "after": [
+  "Keep the bandage dry for the first 1 to 2 days, or as long as your doctor says",
+  "Do not pick at scabs",
+  "Have the stitches removed on time, not earlier and not later",
+  "After the stitches are out, protect the scar from the sun"
+ ],
+ "red_flags": [
+  "Heavy bleeding that does not stop with pressure: call emergency services",
+  "The wound becomes red, hot, or has pus, or you get a fever",
+  "The stitches come apart",
+  "Numbness, or fingers that do not move well"
+ ],
+ "faq": [
+  {
+   "q": "When do stitches come out?",
+   "a": "Usually after 5 to 7 days on the face, 7 to 10 days on the body and arms, and longer on the legs and joints. Your doctor will tell you exactly."
+  },
+  {
+   "q": "Can I shower with stitches?",
+   "a": "Usually a short shower is fine after 1 to 2 days. Then pat the wound dry. Ask your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Dressing change or stitch removal tomorrow. Keep the bandage dry and bring your ID."
+  }
+ ]
+}

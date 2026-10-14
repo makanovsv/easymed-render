@@ -1,0 +1,68 @@
+{
+ "title": "Neurologist visit",
+ "also": [
+  "neurologist",
+  "nerve doctor",
+  "neurology consultation",
+  "brain and nerve specialist"
+ ],
+ "what": "A doctor who treats the nervous system: brain, spinal cord, and nerves. They ask questions and check your reflexes, strength, and feeling.",
+ "why": "For headaches, dizziness, back and neck pain, numbness, seizures, and sleep or memory problems.",
+ "duration": "usually 20 to 40 minutes",
+ "tell_doctor": [
+  "What bothers you, since when, and what helps",
+  "Past head or back injuries",
+  "What medicines you take",
+  "High blood pressure or diabetes",
+  "Nervous system conditions in relatives"
+ ],
+ "prepare": [
+  {
+   "title": "Diary",
+   "text": "For headaches, write down for a few days when it hurts, how much, and what helps."
+  },
+  {
+   "title": "Scans",
+   "text": "Bring MRI, CT, or EEG results and their reports, if you had them."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past test results, discharge papers, and reports",
+  "A list of your medicines, or the packs themselves"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "Your reflexes are checked with a small hammer",
+  "You do simple movements: close your eyes, touch your nose, walk",
+  "Strength and feeling in your arms and legs are checked",
+  "The doctor explains the next steps: treatment or tests"
+ ],
+ "feel": [
+  "Nothing unpleasant. The hammer taps do not hurt",
+  "Sometimes feeling is tested with a light pinprick"
+ ],
+ "after": [
+  "The doctor may order an MRI, an EEG, or blood tests",
+  "Do not change your treatment on your own. Ask the doctor"
+ ],
+ "red_flags": [
+  "A drooping face, weakness in an arm or leg, trouble speaking, or a sudden worst-ever headache: do not wait for the visit. Call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why tap with a hammer?",
+   "a": "It checks your reflexes, which shows how your nerves are working."
+  },
+  {
+   "q": "Do I need an MRI before the visit?",
+   "a": "Usually not. The doctor will decide if you need one."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Neurologist visit tomorrow. Bring your scans, reports, and medicine list."
+  }
+ ]
+}

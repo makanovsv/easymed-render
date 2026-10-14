@@ -1,0 +1,77 @@
+{
+ "title": "Tratamento de canal (pulpite)",
+ "also": [
+  "tratamento de canal",
+  "canal do dente",
+  "dor de dente à noite",
+  "desvitalização"
+ ],
+ "what": "A pulpite é a inflamação do nervo dentro do dente. Com anestesia, o dentista tira o tecido inflamado, limpa os canais e coloca o material de obturação.",
+ "why": "Com dor forte no dente, principalmente à noite, sensibilidade longa ao quente e ao frio, ou cárie profunda.",
+ "duration": "cada consulta leva normalmente de 1 a 2 horas. Muitas vezes são precisas de 1 a 3 consultas",
+ "tell_doctor": [
+  "Onde e como dói, e quando começou a dor",
+  "Alergia a anestésicos",
+  "Remédios que afinam o sangue",
+  "Doenças do coração, gravidez",
+  "Quais analgésicos você já tomou"
+ ],
+ "prepare": [
+  {
+   "title": "Dor",
+   "text": "Antes da consulta, pode tomar o analgésico que normalmente funciona para você. Diga ao dentista o que tomou e quando."
+  },
+  {
+   "title": "Não faça",
+   "text": "Não esquente a bochecha e não coloque comprimido ou álcool no dente."
+  },
+  {
+   "title": "Comida",
+   "text": "Coma antes. Depois do tratamento, vai ficar dormente por algumas horas."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Radiografias dos dentes, se tiver"
+ ],
+ "steps": [
+  "O dentista examina o dente e faz uma radiografia",
+  "Aplicam a anestesia",
+  "O dente é isolado com um lençol de borracha, para a saliva não entrar",
+  "O dentista abre o dente e tira o nervo inflamado",
+  "Os canais são limpos, lavados e medidos",
+  "Os canais são obturados na hora, ou é colocada uma restauração provisória até a próxima consulta",
+  "Fazem uma radiografia de controle"
+ ],
+ "feel": [
+  "Com anestesia, normalmente não dói, mas a boca fica aberta muito tempo",
+  "Se sentir dor, levante a mão, e o dentista aplica mais anestesia",
+  "Depois do tratamento, o dente pode doer ao morder por alguns dias"
+ ],
+ "after": [
+  "Não coma até passar a dormência",
+  "Não mastigue desse lado, se tiver restauração provisória",
+  "Volte para a próxima consulta no prazo",
+  "Muitas vezes, depois do canal, o dente recebe uma coroa ou uma restauração resistente. O dentista diz"
+ ],
+ "red_flags": [
+  "Bochecha inchada, febre",
+  "A dor aumenta depois de 2 a 3 dias, em vez de diminuir"
+ ],
+ "faq": [
+  {
+   "q": "Por que o dente dói depois do tratamento?",
+   "a": "Os tecidos em volta do dente reagem ao tratamento. A dor ao morder normalmente passa em alguns dias."
+  },
+  {
+   "q": "Posso não tratar, se a dor passou?",
+   "a": "Às vezes a dor passa quando o nervo morre. Mas a inflamação continua e pode ir para o osso. Precisa tratar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o tratamento do dente. Coma antes e diga ao dentista quais analgésicos você tomou."
+  }
+ ]
+}

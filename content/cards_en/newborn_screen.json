@@ -1,0 +1,68 @@
+{
+ "title": "Newborn screening (heel prick test)",
+ "also": [
+  "newborn screening",
+  "heel prick test",
+  "newborn blood spot test",
+  "PKU test"
+ ],
+ "what": "A few drops of blood are taken from your baby's heel onto a special card. The test checks for rare inborn conditions that need treatment right away.",
+ "why": "For all newborns, usually in the maternity hospital on day 2 to 5 of life. In premature babies, it may be later.",
+ "duration": "a few minutes; results usually come in 1 to 3 weeks",
+ "tell_doctor": [
+  "If your baby was born early or had a blood transfusion",
+  "If your baby is on special feeding or IV drips",
+  "Your exact address and phone number, so you can be contacted if a repeat test is needed"
+ ],
+ "prepare": [
+  {
+   "title": "Feeding",
+   "text": "The test is usually done a few hours after a feed. The nurse will tell you the time."
+  },
+  {
+   "title": "Warmth",
+   "text": "Warm feet give blood faster. Put socks on your baby."
+  },
+  {
+   "title": "Stay close",
+   "text": "You can hold your baby or stay nearby. Ask the nurse."
+  }
+ ],
+ "bring": [
+  "Your baby's and your documents, if the test is not in the maternity hospital",
+  "The referral, if it is a repeat test"
+ ],
+ "steps": [
+  "Your baby's foot is warmed and wiped",
+  "The heel is pricked with a tiny lancet",
+  "Drops of blood are placed on circles on a paper card",
+  "A cotton pad is pressed on the spot",
+  "The card is dried and sent to the lab"
+ ],
+ "feel": [
+  "Your baby may cry. The prick is quick",
+  "Breastfeeding, a pacifier, or a cuddle right after helps calm your baby"
+ ],
+ "after": [
+  "The small mark on the heel heals in a few days",
+  "If all is well, usually no one calls",
+  "If a repeat test is needed, you will get a call. It does not always mean illness"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "I got a call asking for a repeat test. Is that bad?",
+   "a": "Not necessarily. Often it is because there was too little blood on the card or the test was done too early. Repeat it as soon as you can."
+  },
+  {
+   "q": "Which conditions does this test check for?",
+   "a": "Several rare inborn conditions of metabolism and hormones. If they are treated early, the child grows up healthy."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Your baby's heel prick test is soon. Put socks on so the feet stay warm."
+  }
+ ]
+}

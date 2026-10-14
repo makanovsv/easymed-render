@@ -1,0 +1,89 @@
+{
+ "title": "Lipoaspiração",
+ "also": [
+  "lipoaspiração",
+  "lipo",
+  "retirada de gordura localizada",
+  "contorno corporal"
+ ],
+ "what": "Por pequenos furos, o cirurgião introduz um tubo fino e aspira a gordura das áreas desejadas. É uma correção do contorno, não uma forma de emagrecer.",
+ "why": "Quando a gordura fica em certas áreas, como barriga, coxas, flancos, mesmo com peso normal.",
+ "duration": "a cirurgia leva normalmente de 1 a 3 horas, e muitas vezes a alta é no mesmo dia ou no seguinte",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Doenças do coração, dos pulmões, diabetes",
+  "Se já teve trombose nas veias",
+  "Cigarro e pílula anticoncepcional"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Cinta",
+   "text": "Normalmente é preciso uma cinta modeladora. Ela é escolhida antes."
+  },
+  {
+   "title": "Transporte",
+   "text": "Combine quem vai levar você para casa."
+  }
+ ],
+ "bring": [
+  "Exames",
+  "Documentos",
+  "Lista de remédios",
+  "A cinta modeladora",
+  "Roupa larga e escura"
+ ],
+ "steps": [
+  "O cirurgião marca as áreas com caneta, com você em pé",
+  "O anestesista aplica anestesia geral ou outro tipo",
+  "Por pequenos furos, injetam uma solução especial",
+  "Com um tubo fino, a gordura é aspirada",
+  "Os furos são fechados, e colocam a cinta"
+ ],
+ "feel": [
+  "Dor como depois de um treino forte. Dão analgésico",
+  "Inchaço e roxos por algumas semanas",
+  "Nos primeiros 1 a 2 dias pode sair um líquido rosado pelos furos"
+ ],
+ "after": [
+  "A cinta é usada normalmente por algumas semanas",
+  "Caminhe desde o primeiro dia. Isso protege contra trombose",
+  "Sauna, esporte e sol, quando o médico liberar",
+  "O resultado final aparece normalmente em alguns meses",
+  "Se você ganhar peso, a gordura pode se acumular em outros lugares"
+ ],
+ "red_flags": [
+  "Falta de ar ou dor no peito de repente: ligue para a emergência",
+  "Dor e inchaço na panturrilha",
+  "Febre acima de 38 graus, vermelhidão e pus nos furos",
+  "Fraqueza forte, tontura, palidez"
+ ],
+ "faq": [
+  {
+   "q": "Dá para emagrecer com lipoaspiração?",
+   "a": "Não. Ela muda o contorno de algumas áreas, não o peso total."
+  },
+  {
+   "q": "A gordura volta?",
+   "a": "Nas áreas tratadas, vai ter menos gordura. Mas, se ganhar peso, ela se acumula em outros lugares."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a lipoaspiração. Leve a cinta modeladora e os documentos. Comida e água, só até o horário da clínica."
+  }
+ ]
+}

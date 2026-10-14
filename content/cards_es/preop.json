@@ -1,0 +1,74 @@
+{
+ "title": "Valoración preanestésica",
+ "also": [
+  "consulta con el anestesiólogo",
+  "valoración preoperatoria",
+  "consulta preanestésica"
+ ],
+ "what": "El anestesiólogo te conoce, te pregunta sobre tu salud y elige la anestesia más segura para tu cirugía.",
+ "why": "Antes de cualquier cirugía o procedimiento con anestesia general, sedación o anestesia raquídea.",
+ "duration": "normalmente de 15 a 30 minutos; a veces unos días antes, a veces el día anterior o el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos, también vitaminas y hierbas",
+  "Tus alergias",
+  "Enfermedades del corazón, de los pulmones, de los riñones o diabetes",
+  "Si roncas o dejas de respirar dormido",
+  "Cómo te fue con anestesias anteriores, a ti y a tu familia",
+  "Dentaduras postizas, coronas o dientes flojos"
+ ],
+ "prepare": [
+  {
+   "title": "Lista",
+   "text": "Apunta antes tus medicamentos con sus dosis y tus preguntas."
+  },
+  {
+   "title": "Documentos",
+   "text": "Junta tus análisis, electrocardiograma, resúmenes e informes de otros médicos."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Pregunta qué anestesia te pondrán, desde cuándo no comer y qué hacer con tus medicamentos en la mañana."
+  }
+ ],
+ "bring": [
+  "Los análisis y el electrocardiograma",
+  "Los resúmenes e informes de otros médicos",
+  "La lista de tus medicamentos",
+  "Una identificación"
+ ],
+ "steps": [
+  "El anestesiólogo te pregunta sobre tu salud y cirugías anteriores",
+  "Escucha tu corazón y tus pulmones y te toma la presión",
+  "Revisa tu boca y tu cuello, para ver qué tan fácil será ayudarte a respirar dormido",
+  "Revisa tus análisis y a veces pide otros",
+  "Te propone el tipo de anestesia y te explica los riesgos",
+  "Te dice desde cuándo no comer ni beber y qué hacer con tus medicamentos",
+  "Firmas el consentimiento para la anestesia"
+ ],
+ "feel": [
+  "Es solo una plática y una revisión corta, sin dolor",
+  "Es normal estar nervioso. Pregunta todo lo que te preocupe"
+ ],
+ "after": [
+  "Apunta la hora a partir de la cual ya no puedes comer ni beber",
+  "Haz con tus medicamentos solo lo que te dijo el médico",
+  "Si te enfermas antes de la cirugía, llama a la clínica"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo elegir el tipo de anestesia?",
+   "a": "Puedes decir lo que prefieres. Al final, el anestesiólogo elige la opción más segura para ti."
+  },
+  {
+   "q": "¿Por qué hay que hablar de los dientes?",
+   "a": "Un diente flojo o una dentadura puede estorbar al poner el tubo para respirar. El médico lo toma en cuenta antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu valoración con el anestesiólogo. Lleva tus análisis, el electrocardiograma y la lista de medicamentos, y apunta tus preguntas."
+  }
+ ]
+}

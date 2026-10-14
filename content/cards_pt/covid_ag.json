@@ -1,0 +1,70 @@
+{
+ "title": "Teste rápido de COVID-19 e gripe",
+ "also": [
+  "teste rápido de covid",
+  "teste de gripe",
+  "teste de antígeno",
+  "swab nasal"
+ ],
+ "what": "A enfermeira passa uma haste macia no nariz. O teste mostra o vírus da covid e da gripe em 15 a 20 minutos.",
+ "why": "Com febre, tosse, coriza ou dor de garganta, para descobrir rápido a causa do resfriado.",
+ "duration": "a coleta leva cerca de um minuto, o resultado sai normalmente em 15 a 20 minutos",
+ "tell_doctor": [
+  "Quando começaram os sintomas",
+  "Se o seu nariz sangra com frequência ou se já fez cirurgia no nariz",
+  "Se tem doenças crônicas ou está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Nariz",
+   "text": "Algumas horas antes, não use gotas nem sprays no nariz e não faça lavagem nasal."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente, de 30 a 60 minutos antes, não coma nem beba. Confirme com a clínica."
+  },
+  {
+   "title": "Momento",
+   "text": "O teste funciona melhor nos primeiros dias da doença."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Documento com foto",
+  "Máscara"
+ ],
+ "steps": [
+  "Você se senta e inclina a cabeça um pouco para trás",
+  "A haste entra na narina e gira por alguns segundos",
+  "A haste vai para um líquido, e pingam gotas na tira do teste",
+  "Depois de 15 a 20 minutos, veem o resultado"
+ ],
+ "feel": [
+  "Faz cócegas, dá vontade de espirrar e os olhos lacrimejam"
+ ],
+ "after": [
+  "Se o teste der negativo, mas você estiver doente, podem repetir ou fazer PCR",
+  "Enquanto estiver doente, evite contato, use máscara e areje o ambiente",
+  "O tratamento quem indica é o médico"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, dor no peito, confusão mental: ligue para a emergência",
+  "Febre acima de 39 graus que não baixa com remédio: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Qual a diferença entre o teste rápido e o PCR?",
+   "a": "O teste rápido é mais rápido, mas menos preciso. O PCR detecta o vírus mesmo em pouca quantidade."
+  },
+  {
+   "q": "Teste negativo quer dizer que não é covid?",
+   "a": "Nem sempre. Nas primeiras horas, pode haver pouco vírus. O médico pode pedir para repetir ou fazer PCR."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco você faz o teste rápido. Não use gotas no nariz e não coma de 30 a 60 minutos antes."
+  }
+ ]
+}

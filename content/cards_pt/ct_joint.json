@@ -1,0 +1,62 @@
+{
+ "title": "Tomografia de articulação",
+ "also": [
+  "tomografia de articulação",
+  "tomografia do joelho",
+  "tomografia do ombro",
+  "tomografia do tornozelo"
+ ],
+ "what": "São imagens em camadas da articulação. Os ossos aparecem em 3D e com muitos detalhes.",
+ "why": "Com fraturas complicadas, antes de cirurgia na articulação ou quando o raio-X não deixou tudo claro.",
+ "duration": "na sala, normalmente de 5 a 15 minutos. O laudo sai no mesmo dia ou em 1 a 2 dias",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Se há prótese, placa ou parafusos na articulação",
+  "Se a tomografia for com contraste: se tem alergia a iodo ou contraste e doença nos rins"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Sem contraste, não precisa. Pode comer e beber."
+  },
+  {
+   "title": "Roupa",
+   "text": "Tire acessórios e coisas de metal na região do exame. Às vezes pedem para trocar de roupa."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Imagens anteriores dessa articulação"
+ ],
+ "steps": [
+  "Você se deita na mesa, e o técnico ajuda a ficar confortável",
+  "A articulação é posicionada e apoiada com almofadas",
+  "A mesa entra no anel do aparelho",
+  "É preciso não se mexer por alguns segundos"
+ ],
+ "feel": [
+  "Não dói. O aparelho faz um barulho baixo",
+  "O anel é largo, quase não dá sensação de aperto"
+ ],
+ "after": [
+  "Você já pode seguir o seu dia",
+  "Com o laudo e as imagens, volte ao ortopedista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tomografia ou ressonância da articulação?",
+   "a": "A tomografia é melhor para ossos e fraturas. Ligamentos, cartilagens e meniscos aparecem melhor na ressonância. Quem escolhe é o médico."
+  },
+  {
+   "q": "Posso fazer tomografia com gesso?",
+   "a": "Muitas vezes sim. Confirme com o médico. Às vezes o gesso é retirado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a tomografia da articulação. Vista roupa sem metal e leve as imagens anteriores."
+  }
+ ]
+}

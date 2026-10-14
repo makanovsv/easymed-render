@@ -1,0 +1,68 @@
+{
+ "title": "Consulta com alergista",
+ "also": [
+  "alergista",
+  "alergologista",
+  "médico de alergia"
+ ],
+ "what": "É o médico que descobre a que você tem alergia e indica o tratamento.",
+ "why": "Com coriza e espirros em certas épocas do ano, manchas e coceira na pele, reações a comida, remédios ou picadas de insetos, asma.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "A que e quando teve reação, e como ela foi",
+  "Quais remédios para alergia você toma e quando tomou pela última vez",
+  "Se já teve reações fortes, com inchaço ou dificuldade para respirar",
+  "Se você tem asma ou eczema",
+  "Alergias na família"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios para alergia",
+   "text": "Se estiverem previstos testes na pele, alguns remédios atrapalham o resultado. Não suspenda por conta própria. Pergunte antes ao médico, e ele decide."
+  },
+  {
+   "title": "Diário",
+   "text": "Anote quando e depois do quê aparecem as reações. Fotos das manchas também ajudam."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Exames de alergia, se já fez",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta em detalhes sobre as reações",
+  "Examina a pele, o nariz e a garganta",
+  "Ausculta os pulmões",
+  "Decide se são necessários testes na pele ou exame de sangue",
+  "Explica como evitar o que causa a alergia e indica o tratamento"
+ ],
+ "feel": [
+  "O exame em si não incomoda",
+  "Se fizerem testes na pele, picadinhas leves e coceira no local"
+ ],
+ "after": [
+  "O médico pode passar um plano do que fazer numa reação forte",
+  "Não suspenda os remédios receitados por conta própria"
+ ],
+ "red_flags": [
+  "Inchaço nos lábios ou na língua, dificuldade para respirar, fraqueza repentina depois do contato com o que causa a alergia: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dá para fazer os testes já na primeira consulta?",
+   "a": "Às vezes sim, mas muitas vezes é preciso se preparar antes. Confirme com a clínica."
+  },
+  {
+   "q": "Preciso parar os remédios de alergia antes da consulta?",
+   "a": "Não suspenda por conta própria. Conte ao médico o que você toma, e ele decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o alergista. Anote quais remédios para alergia você toma e leve os exames anteriores."
+  }
+ ]
+}

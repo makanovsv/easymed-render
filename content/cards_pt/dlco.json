@@ -1,0 +1,71 @@
+{
+ "title": "Teste de difusão pulmonar (DLCO)",
+ "also": [
+  "DLCO",
+  "difusão de monóxido de carbono",
+  "capacidade de difusão pulmonar",
+  "teste de difusão"
+ ],
+ "what": "Você inspira uma mistura de gases segura e segura a respiração por 10 segundos. O aparelho vê como os pulmões passam o gás para o sangue.",
+ "why": "Com falta de ar sem causa clara, doenças do tecido do pulmão, para acompanhar tratamento ou antes de alguns tratamentos.",
+ "duration": "normalmente de 15 a 30 minutos, o laudo normalmente sai no mesmo dia",
+ "tell_doctor": [
+  "Se você fuma e quando fumou pela última vez",
+  "Se tem anemia ou exames de sangue recentes. Isso influencia o resultado",
+  "Se você usa oxigênio",
+  "Quais bombinhas você usa"
+ ],
+ "prepare": [
+  {
+   "title": "Cigarro",
+   "text": "Não fume no dia do teste, pelo menos desde a manhã. O cigarro altera bastante o resultado."
+  },
+  {
+   "title": "Oxigênio",
+   "text": "Se você usa oxigênio, avise antes. Vão explicar o que fazer."
+  },
+  {
+   "title": "Comida",
+   "text": "Café da manhã leve. Sem esforço pesado antes do teste."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exame de sangue recente, se tiver",
+  "Testes de respiração anteriores",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você se senta, e colocam um clipe no nariz",
+  "Você segura o tubo com os lábios e respira tranquilo",
+  "No comando, solta todo o ar",
+  "Puxa rápido e fundo a mistura de gases",
+  "Segura a respiração por uns 10 segundos",
+  "Solta o ar com calma. O teste é repetido 2 ou 3 vezes, com pausas"
+ ],
+ "feel": [
+  "Segurar a respiração pode ser difícil. Avise se não conseguir",
+  "A mistura não tem cheiro e é segura"
+ ],
+ "after": [
+  "Você já pode voltar à rotina",
+  "O laudo normalmente sai no mesmo dia"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O gás do teste é perigoso?",
+   "a": "Não. A quantidade é muito pequena, e ele sai rápido com a respiração."
+  },
+  {
+   "q": "Por que não posso fumar antes do teste?",
+   "a": "O cigarro muda a composição do sangue, e o teste mostra um resultado pior do que o real."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem teste de difusão pulmonar. Não fume desde a manhã. Leve um exame de sangue recente, se tiver."
+  }
+ ]
+}

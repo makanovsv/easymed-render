@@ -1,0 +1,82 @@
+{
+ "title": "Extirpación del bazo",
+ "also": [
+  "esplenectomía",
+  "esplenectomía laparoscópica",
+  "cirugía del bazo",
+  "quitar el bazo"
+ ],
+ "what": "El cirujano quita el bazo, normalmente por varios orificios y a veces por un corte. Otros órganos toman parte de su trabajo.",
+ "why": "Si el bazo se rompió por un golpe, en algunas enfermedades de la sangre, y en quistes o tumores.",
+ "duration": "la cirugía suele durar de 1 a 3 horas; en el hospital normalmente de 2 a 7 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Alergias a medicamentos, látex o yodo",
+  "Enfermedades de la sangre y cómo están tus plaquetas",
+  "Qué vacunas te han puesto",
+  "Enfermedades del corazón, de los pulmones o diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y a veces revisión del médico internista. La clínica te da la lista."
+  },
+  {
+   "title": "Vacunas",
+   "text": "En una cirugía programada, normalmente antes se ponen vacunas contra neumococo, meningococo y Haemophilus."
+  },
+  {
+   "title": "Anestesiólogo",
+   "text": "Antes de la cirugía, el anestesiólogo platicará contigo. Cuéntale de tu salud y tus medicamentos."
+  },
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente no comes desde la noche anterior y no bebes unas horas antes. La clínica te dirá la hora exacta."
+  }
+ ],
+ "bring": [
+  "Los resultados de análisis y estudios",
+  "Tus documentos",
+  "La lista de tus medicamentos",
+  "Tu cartilla de vacunación"
+ ],
+ "steps": [
+  "Te cambias de ropa y te ponen un catéter en la vena",
+  "El anestesiólogo te pone la anestesia",
+  "El cirujano hace orificios o un corte en el lado izquierdo del abdomen",
+  "Liga los vasos del bazo y lo quita",
+  "Cierra la herida; a veces pone un drenaje"
+ ],
+ "feel": [
+  "Dolor en el costado izquierdo. Te dan analgésicos",
+  "A veces dolor de hombro por el gas; se quita en 1 o 2 días",
+  "Debilidad los primeros días"
+ ],
+ "after": [
+  "Te levantas y caminas pronto",
+  "No cargues cosas pesadas por unas semanas",
+  "Sin bazo, las infecciones pueden ser más fuertes: si tienes fiebre, ve al médico de inmediato",
+  "Dile a cualquier médico que no tienes bazo"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38: ve al médico de inmediato, no esperes",
+  "Dolor fuerte en el abdomen, debilidad o palidez",
+  "Dolor en la pantorrilla, falta de aire o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo se vive sin bazo?",
+   "a": "Normalmente bien. Es importante vacunarte y no aguantar la fiebre: ve al médico de inmediato."
+  },
+  {
+   "q": "¿Necesito vacunas después de la cirugía?",
+   "a": "Sí, según el calendario del médico. Se repiten después de unos años."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Lleva los resultados de análisis y tu cartilla de vacunación. Comida y agua solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

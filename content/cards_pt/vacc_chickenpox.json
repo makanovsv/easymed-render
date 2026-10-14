@@ -1,0 +1,72 @@
+{
+ "title": "Vacina contra catapora",
+ "also": [
+  "vacina contra varicela",
+  "vacina da catapora",
+  "vacinação contra catapora"
+ ],
+ "what": "Uma injeção de vacina que protege contra a catapora. Normalmente são precisas duas doses.",
+ "why": "Para crianças que não tiveram catapora e adultos sem imunidade. Às vezes, nos primeiros dias depois do contato com alguém doente.",
+ "duration": "a injeção leva alguns segundos, com a avaliação normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Se está doente agora ou com febre",
+  "Doenças da imunidade ou tratamento que a diminui",
+  "Reações fortes a vacinas anteriores",
+  "Se você está grávida ou planeja engravidar",
+  "Se teve contato com alguém com catapora e quando"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é aplicada quando a pessoa está saudável."
+  },
+  {
+   "title": "Depois do contato",
+   "text": "Se houve contato com alguém doente, vá o quanto antes, normalmente nos primeiros 3 dias."
+  },
+  {
+   "title": "Gravidez",
+   "text": "Para mulheres: é melhor adiar a gravidez por um mês depois da vacina."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "A carteira de vacinação"
+ ],
+ "steps": [
+  "O médico ou a enfermagem pergunta como você está e mede a temperatura",
+  "Você mostra o braço",
+  "A pele é limpa, e aplicam a injeção",
+  "A vacina é registrada nos documentos",
+  "Depois da injeção, é preciso ficar cerca de 30 minutos na clínica"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes o local dói por 1 a 2 dias",
+  "Às vezes, de 1 a 3 semanas depois, aparecem algumas bolinhas ou febre"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala",
+  "Se aparecerem bolinhas, evite contato com grávidas e pessoas com imunidade fraca até elas secarem",
+  "A segunda dose, conforme o calendário"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Para que vacinar, se a catapora é uma doença leve?",
+   "a": "Em adolescentes e adultos ela pode ser grave. A vacina também protege das complicações."
+  },
+  {
+   "q": "Posso ter catapora depois da vacina?",
+   "a": "Pode acontecer uma catapora leve, com algumas bolinhas. É bem mais leve que a doença comum."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina contra catapora. Leve a carteira de vacinação."
+  }
+ ]
+}

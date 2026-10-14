@@ -1,0 +1,77 @@
+{
+ "title": "Lymph node biopsy",
+ "also": [
+  "lymph node biopsy",
+  "fine needle aspiration of a lymph node",
+  "excisional lymph node biopsy",
+  "core needle biopsy"
+ ],
+ "what": "The doctor takes a piece of an enlarged lymph node, or removes the whole node, to look at it under a microscope. This is done with a needle and ultrasound, or through a small cut.",
+ "why": "When a lymph node has been enlarged for a long time with no clear cause, for a possible blood disorder or tumor, or to clarify a diagnosis.",
+ "duration": "a needle biopsy usually takes 15 to 30 minutes, removing a node 30 to 60 minutes; results usually in 1 to 2 weeks",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners. Your doctor will decide if anything needs to change",
+  "Allergies, including to painkillers and numbing medicines",
+  "Diabetes",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Type of biopsy",
+   "text": "Your doctor will tell you whether a needle or a cut will be used, and what kind of numbing or anesthesia."
+  },
+  {
+   "title": "Food",
+   "text": "With local numbing, you can usually eat. With general anesthesia, follow the clinic's rules on food and drink."
+  },
+  {
+   "title": "Someone with you",
+   "text": "If you have anesthesia or sedation, you need someone to take you home."
+  }
+ ],
+ "bring": [
+  "Your referral, tests, and lymph node ultrasound",
+  "A list of your medicines",
+  "Someone to take you home, if you have anesthesia"
+ ],
+ "steps": [
+  "You lie in a position that gives easy access to the node",
+  "The skin is cleaned and numbed",
+  "For a needle biopsy, the needle goes into the node with ultrasound guidance",
+  "For an open biopsy, a small cut is made and the node is removed",
+  "The spot is stitched or closed with skin tape",
+  "A bandage is put on"
+ ],
+ "feel": [
+  "A prick and stinging from the numbing",
+  "Pressure during the procedure",
+  "Afterward, mild pain and swelling at the spot"
+ ],
+ "after": [
+  "You usually go home the same day",
+  "Keep the bandage dry for as long as your doctor says",
+  "Stitches are removed after 7 to 10 days, or they dissolve",
+  "Your doctor usually explains the results at a visit"
+ ],
+ "red_flags": [
+  "Strong swelling, or blood soaking through the bandage",
+  "A fever over 38°C (100.4°F), or redness and pus at the cut",
+  "If the biopsy was on the neck and it becomes hard to breathe or swallow: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Is an enlarged lymph node dangerous?",
+   "a": "Most often lymph nodes swell because of an infection. A biopsy is needed to find the exact cause."
+  },
+  {
+   "q": "Why remove the whole node?",
+   "a": "Sometimes the whole node is needed for an accurate diagnosis, not just a piece. Your body works fine without one node."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Lymph node biopsy tomorrow. Check if you can eat in the morning. Bring your ultrasound and a list of medicines."
+  }
+ ]
+}

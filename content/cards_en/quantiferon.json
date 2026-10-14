@@ -1,0 +1,71 @@
+{
+ "title": "QuantiFERON blood test for TB",
+ "also": [
+  "QuantiFERON test",
+  "T-SPOT",
+  "TB blood test",
+  "IGRA test",
+  "interferon gamma release assay"
+ ],
+ "what": "This is a blood test from a vein. It shows if your body has met the germ that causes tuberculosis.",
+ "why": "Instead of or together with a TB skin test, before some treatments, after contact with someone with TB, or for work or school.",
+ "duration": "the blood draw takes 3 to 5 minutes; results usually come in 2 to 7 days",
+ "tell_doctor": [
+  "If you take steroids or medicines that weaken the immune system",
+  "If you have HIV or another condition that weakens immunity",
+  "If you were in contact with someone with TB",
+  "Results of any past TB skin tests (Mantoux or Diaskintest)"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually fasting, or a few hours after a light meal. Check with the lab."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take. They will decide."
+  },
+  {
+   "title": "Clothing",
+   "text": "Wear a sleeve that is easy to roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your test request form",
+  "Your ID",
+  "Past TB test results, if you have them"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "Blood is drawn into several special tubes",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Results usually come in 2 to 7 days",
+  "A positive result does not mean you are ill. A TB specialist will decide what is next"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why is this test better than a skin test?",
+   "a": "It is not affected by the BCG vaccine, and you do not need to come back to have your arm checked."
+  },
+  {
+   "q": "If the test is positive, am I contagious?",
+   "a": "Not necessarily. The test shows contact with the germ. Other tests show whether it is active disease."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "TB blood test tomorrow. Check if you need to come fasting."
+  }
+ ]
+}

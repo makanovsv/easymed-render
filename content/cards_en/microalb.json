@@ -1,0 +1,67 @@
+{
+ "title": "Urine microalbumin",
+ "also": [
+  "urine microalbumin",
+  "albumin to creatinine ratio",
+  "ACR test",
+  "protein in urine test"
+ ],
+ "what": "This is a urine test. It looks for very small amounts of a protein called albumin, which a routine test does not pick up.",
+ "why": "Once a year with diabetes or high blood pressure, to catch early strain on the kidneys.",
+ "duration": "collecting takes 5 minutes; results usually come in 1 to 2 days",
+ "tell_doctor": [
+  "If you have a cold, a fever, or a urinary infection right now",
+  "If you had a hard workout the day before",
+  "If you have your period now",
+  "What blood pressure and sugar medicines you take"
+ ],
+ "prepare": [
+  {
+   "title": "The day before",
+   "text": "No hard workouts and no alcohol. Better not to eat a lot of meat."
+  },
+  {
+   "title": "Collecting",
+   "text": "Usually a morning sample, sometimes a 24-hour collection. Ask the lab which one you need."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor what you take."
+  }
+ ],
+ "bring": [
+  "The container with urine",
+  "Your test request form",
+  "Your ID"
+ ],
+ "steps": [
+  "In the morning, wash with warm water, no soap",
+  "Pee the first few seconds into the toilet",
+  "Catch the middle part in a sterile container",
+  "Close the lid and take it to the lab within 1 to 2 hours"
+ ],
+ "feel": [
+  "Nothing unpleasant"
+ ],
+ "after": [
+  "Results usually come in 1 to 2 days",
+  "If the result is high, the doctor usually asks you to repeat the test"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "If albumin is high, does that mean my kidneys are sick?",
+   "a": "Not necessarily. It can rise for a short time after exercise or with a fever. That is why the test is repeated."
+  },
+  {
+   "q": "How often should I have it with diabetes?",
+   "a": "Usually once a year. Your doctor will tell you more exactly."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Urine microalbumin test tomorrow. Today, no hard workouts and no alcohol."
+  }
+ ]
+}

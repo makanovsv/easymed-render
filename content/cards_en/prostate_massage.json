@@ -1,0 +1,76 @@
+{
+ "title": "Prostate fluid test",
+ "also": [
+  "prostate fluid test",
+  "expressed prostatic secretion test",
+  "prostate massage for testing",
+  "prostatitis test"
+ ],
+ "what": "The doctor massages the prostate with a finger through the rectum. The drop of fluid that comes out is sent to the lab.",
+ "why": "For suspected prostate inflammation, pain in the area between the legs, or problems peeing.",
+ "duration": "the procedure usually takes 5 to 10 minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "If you have a fever or severe pain right now",
+  "If you have hemorrhoids or anal fissures",
+  "All your medicines, especially antibiotics",
+  "If you recently had other urology tests"
+ ],
+ "prepare": [
+  {
+   "title": "Abstinence",
+   "text": "You are usually asked to avoid sex and ejaculation for 2 to 3 days. Check with the clinic."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol, sauna, or steam bath. A normal shower in the morning."
+  },
+  {
+   "title": "Bowels",
+   "text": "Try to go to the toilet before the procedure. Sometimes you are asked to do an enema. Check with the clinic."
+  },
+  {
+   "title": "Antibiotics",
+   "text": "If you are taking antibiotics, tell your doctor. They will decide when best to test."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID"
+ ],
+ "steps": [
+  "You undress below the waist",
+  "You kneel on your knees and elbows, or lie on your side",
+  "The doctor inserts a gloved, lubricated finger into the rectum",
+  "The prostate is massaged for a few seconds",
+  "A drop of fluid is collected on a slide or in a tube",
+  "Sometimes you are asked to give a urine sample afterward"
+ ],
+ "feel": [
+  "Uncomfortable pressure and an urge to pee",
+  "Sometimes mild pain. Tell the doctor"
+ ],
+ "after": [
+  "You can return to normal activities right away",
+  "Discuss the result with your doctor"
+ ],
+ "red_flags": [
+  "A fever over 38°C (100.4°F) after the procedure",
+  "Severe pain between the legs, or you cannot pee"
+ ],
+ "faq": [
+  {
+   "q": "Does it hurt?",
+   "a": "Usually it is uncomfortable, but not painful. It takes less than a minute."
+  },
+  {
+   "q": "What if no fluid comes out?",
+   "a": "That happens. Sometimes you give a urine sample right after the massage, or it is repeated."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Prostate fluid test in 2 days. You are usually asked to avoid sex, alcohol, and saunas for 2 to 3 days before."
+  }
+ ]
+}

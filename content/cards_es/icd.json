@@ -1,0 +1,83 @@
+{
+ "title": "Implante de desfibrilador automático",
+ "also": [
+  "desfibrilador implantable",
+  "DAI",
+  "desfibrilador automático implantable",
+  "cardiodesfibrilador"
+ ],
+ "what": "Bajo la piel, debajo de la clavícula, se pone un aparato pequeño, y por una vena se llevan cables hasta el corazón. Si el ritmo se vuelve peligroso, el aparato lo corrige solo, a veces con una descarga.",
+ "why": "Cuando hay riesgo alto de alteraciones peligrosas del ritmo, por ejemplo después de un paro cardiaco o con el corazón muy débil.",
+ "duration": "la cirugía suele durar de 1 a 2 horas; en el hospital normalmente de 1 a 3 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuáles dejar y cuándo",
+  "Tus alergias, también a antibióticos y antisépticos",
+  "Con qué mano escribes. El aparato normalmente se pone del otro lado",
+  "Enfermedades de los riñones o diabetes",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis de sangre, electrocardiograma y ecocardiograma. La clínica te da la lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comes unas horas antes. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Higiene",
+   "text": "Báñate el día anterior. A veces piden rasurar el vello del pecho."
+  },
+  {
+   "title": "Cosas",
+   "text": "Ropa cómoda que se abra por delante, tus medicamentos y el cargador."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de estudios",
+  "Tus documentos y la lista de medicamentos",
+  "Tus cosas para el hospital para 1 a 3 días"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena y te dan un calmante",
+  "Anestesian con una inyección la piel debajo de la clavícula",
+  "El médico hace un corte pequeño y lleva los cables por la vena hasta el corazón",
+  "Conectan los cables al aparato",
+  "Ponen el aparato bajo la piel y cierran el corte",
+  "Revisan que el aparato funcione, a veces con anestesia corta"
+ ],
+ "feel": [
+  "La inyección de anestesia",
+  "Presión y jalones durante la cirugía",
+  "Dolor en la herida por unos días. Te dan analgésicos"
+ ],
+ "after": [
+  "Por unas semanas no levantes el brazo del lado del aparato por arriba del hombro",
+  "Sin cargar cosas pesadas por un mes más o menos",
+  "Te dan una tarjeta del aparato. Llévala siempre contigo",
+  "Revisiones del aparato según el calendario del médico",
+  "El médico te explica qué hacer con imanes, el celular y los arcos de seguridad del aeropuerto"
+ ],
+ "red_flags": [
+  "El aparato dio una descarga y te sientes mal, o dio varias seguidas: llama a emergencias",
+  "Fiebre de más de 38, o enrojecimiento, pus o hinchazón sobre el aparato",
+  "Falta de aire fuerte o desmayo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué voy a sentir si el aparato da una descarga?",
+   "a": "Un golpe fuerte en el pecho por un instante. Si es una sola y estás bien, avísale al médico. Si te sientes mal, llama a emergencias."
+  },
+  {
+   "q": "¿Puedo manejar con el aparato?",
+   "a": "Puede haber restricciones, sobre todo al principio y después de descargas. El médico te dirá por cuánto tiempo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen el desfibrilador. Báñate y junta tus documentos y cosas. Come solo hasta la hora que dijo la clínica."
+  }
+ ]
+}

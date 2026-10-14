@@ -1,0 +1,72 @@
+{
+ "title": "Bilirrubina no recém-nascido",
+ "also": [
+  "bilirrubina do recém-nascido",
+  "exame de icterícia",
+  "amarelão do bebê",
+  "bilirrubinômetro transcutâneo"
+ ],
+ "what": "Medem a bilirrubina, a substância que deixa a pele do bebê amarelada. Muitas vezes primeiro encostam um aparelho na pele e, se precisar, colhem sangue.",
+ "why": "Com icterícia no recém-nascido, para saber se ela vai passar sozinha ou se precisa de banho de luz.",
+ "duration": "o aparelho na pele leva alguns segundos, o exame de sangue alguns minutos, o resultado sai normalmente no mesmo dia",
+ "tell_doctor": [
+  "Quantos dias o bebê tem e se nasceu no tempo certo",
+  "Como ele mama e quantas fraldas molhadas faz por dia",
+  "A cor das fezes e da urina",
+  "O seu tipo de sangue e fator Rh, se souber"
+ ],
+ "prepare": [
+  {
+   "title": "Mamada",
+   "text": "Amamente como sempre. Não precisa de preparo especial."
+  },
+  {
+   "title": "Calor",
+   "text": "Coloque meias. Do calcanhar quentinho, o sangue sai mais rápido."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa fácil de abrir. O aparelho é encostado na testa ou no peito."
+  }
+ ],
+ "bring": [
+  "Documentos do bebê",
+  "Pedido médico, se tiver",
+  "Resumo de alta da maternidade"
+ ],
+ "steps": [
+  "A enfermeira encosta o aparelho na testa ou no peito do bebê",
+  "Em um segundo, o aparelho mostra o nível aproximado",
+  "Se precisar do valor exato, colhem uma gota de sangue do calcanhar ou da veia",
+  "Apertam um algodão no local da picada"
+ ],
+ "feel": [
+  "O bebê não sente o aparelho",
+  "A picada é rápida, e o bebê pode chorar. Ofereça o peito ou dê colo"
+ ],
+ "after": [
+  "O resultado sai normalmente no mesmo dia",
+  "Se a bilirrubina estiver alta, o médico pode indicar banho de luz, a fototerapia",
+  "Muitas vezes o exame é repetido depois de um ou dois dias"
+ ],
+ "red_flags": [
+  "O bebê está molinho, mama mal ou é difícil de acordar: procure o médico com urgência",
+  "A icterícia está piorando, as fezes estão claras ou a urina escura: mostre ao médico no mesmo dia"
+ ],
+ "faq": [
+  {
+   "q": "Icterícia no recém-nascido é perigosa?",
+   "a": "Na maioria das vezes é normal e passa sozinha em 1 a 2 semanas. O exame serve para não deixar passar um nível alto."
+  },
+  {
+   "q": "Tomar sol ajuda?",
+   "a": "Não é recomendado colocar o bebê no sol. Ele pode esquentar demais e se queimar. O tratamento quem indica é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é o exame de bilirrubina do bebê. Coloque meias nele e leve o resumo de alta da maternidade."
+  }
+ ]
+}

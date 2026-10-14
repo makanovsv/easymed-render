@@ -1,0 +1,68 @@
+{
+ "title": "Tamiz neonatal (prueba del talón)",
+ "also": [
+  "tamiz neonatal",
+  "prueba del talón",
+  "tamizaje del recién nacido",
+  "tamiz metabólico neonatal"
+ ],
+ "what": "Del talón del bebé toman unas gotas de sangre en una tarjeta especial. La prueba revisa enfermedades de nacimiento poco comunes que es importante tratar pronto.",
+ "why": "A todos los recién nacidos, normalmente en el hospital entre el día 2 y 5 de vida. En bebés prematuros a veces se hace después.",
+ "duration": "unos minutos; el resultado suele estar en 1 a 3 semanas",
+ "tell_doctor": [
+  "Si el bebé nació antes de tiempo o le hicieron una transfusión",
+  "Si el bebé tiene una alimentación especial o está con suero",
+  "Tu dirección y teléfono exactos. Por ahí te avisarán si hay que repetir la prueba"
+ ],
+ "prepare": [
+  {
+   "title": "Alimentación",
+   "text": "Normalmente la muestra se toma unas horas después de comer. La enfermera te dirá la hora."
+  },
+  {
+   "title": "Calor",
+   "text": "Con los pies calientitos la sangre sale más rápido. Ponle calcetines al bebé."
+  },
+  {
+   "title": "Estar cerca",
+   "text": "Puedes tener al bebé en brazos o estar a su lado. Pregunta a la enfermera."
+  }
+ ],
+ "bring": [
+  "Los documentos del bebé y de la mamá, si la prueba no es en el hospital",
+  "La orden médica, si es para repetirla"
+ ],
+ "steps": [
+  "Calientan y limpian el pie del bebé",
+  "Hacen un piquetito en el talón con una lanceta pequeña",
+  "Ponen las gotas de sangre en los círculos de la tarjeta",
+  "Presionan un algodón en el lugar del piquete",
+  "La tarjeta se seca y se manda al laboratorio"
+ ],
+ "feel": [
+  "El bebé puede llorar. El piquete es rápido",
+  "Ayuda calmarlo justo después con el pecho, el chupón o un abrazo"
+ ],
+ "after": [
+  "La marquita en el talón se quita en unos días",
+  "Si todo está bien, normalmente nadie te llama",
+  "Si hay que repetir la prueba, te llamarán. No siempre significa una enfermedad"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Me llamaron para repetir la prueba, ¿es malo?",
+   "a": "No necesariamente. Muchas veces se repite porque hubo poca sangre en la tarjeta o se tomó muy pronto. Repítela lo antes posible."
+  },
+  {
+   "q": "¿Qué enfermedades busca esta prueba?",
+   "a": "Varias enfermedades de nacimiento poco comunes del metabolismo y de las hormonas. Si se tratan pronto, el niño crece sano."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es la prueba del talón de tu bebé. Ponle calcetines para que tenga los pies calientitos."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Suero con vitaminas",
+ "also": [
+  "suero vitaminado",
+  "vitaminas intravenosas",
+  "terapia intravenosa",
+  "sueroterapia"
+ ],
+ "what": "Una solución con vitaminas y minerales se pone por suero en la vena.",
+ "why": "El médico lo indica cuando está comprobado que faltan vitaminas y no se pueden obtener con la comida ni con pastillas. No está demostrado que estos sueros sirvan para tener energía o para la belleza.",
+ "duration": "normalmente de 30 a 60 minutos",
+ "tell_doctor": [
+  "Enfermedades del corazón y de los riñones",
+  "Alergias a medicamentos y vitaminas",
+  "Todas las vitaminas y suplementos que ya tomas",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Conviene hacerte análisis antes del suero. Así el médico ve qué te falta de verdad."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente es mejor no ir con hambre."
+  }
+ ],
+ "bring": [
+  "Tus análisis, si los tienes",
+  "La lista de tus medicamentos y suplementos"
+ ],
+ "steps": [
+  "El médico pregunta por tu salud y revisa la indicación",
+  "La enfermera te pone un catéter en la vena",
+  "Conectan el suero",
+  "Te quedas sentado o acostado hasta que se termine",
+  "Quitan el catéter y ponen un algodón"
+ ],
+ "feel": [
+  "Sensación fría en la vena",
+  "A veces calor o un sabor en la boca"
+ ],
+ "after": [
+  "Puedes seguir con tu día de inmediato",
+  "Un moretón pequeño donde estuvo el catéter se quita solo"
+ ],
+ "red_flags": [
+  "Ronchas, hinchazón de la cara, dificultad para respirar o debilidad repentina: llama a emergencias",
+  "El brazo a lo largo de la vena está rojo, hinchado y duele"
+ ],
+ "faq": [
+  {
+   "q": "¿Es mejor que las vitaminas en pastilla?",
+   "a": "Normalmente no, salvo que tengas una enfermedad que impida absorber las vitaminas. Pregunta al médico si de verdad necesitas el suero."
+  },
+  {
+   "q": "¿Puedo pasarme de vitaminas?",
+   "a": "Sí, algunas vitaminas se acumulan. Por eso es importante decirle al médico todos tus suplementos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoy es tu suero. Come algo y lleva la lista de las vitaminas y suplementos que tomas."
+  }
+ ]
+}

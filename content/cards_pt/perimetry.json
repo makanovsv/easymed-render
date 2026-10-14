@@ -1,0 +1,67 @@
+{
+ "title": "Campo visual (campimetria)",
+ "also": [
+  "campimetria",
+  "campo visual",
+  "exame de campo visual",
+  "perimetria computadorizada"
+ ],
+ "what": "Um aparelho verifica até onde você enxerga para os lados. Você olha para o centro e aperta um botão quando vê uma luzinha.",
+ "why": "No glaucoma ou suspeita dele, em doenças da retina e dos nervos, e depois de traumas.",
+ "duration": "normalmente de 10 a 30 minutos para os dois olhos; o resultado muitas vezes sai na hora",
+ "tell_doctor": [
+  "Se você tem glaucoma ou suspeita",
+  "Se já fez esse exame antes",
+  "Quais colírios e remédios você usa",
+  "Se você usa óculos"
+ ],
+ "prepare": [
+  {
+   "title": "Descanso",
+   "text": "Durma bem. A atenção é importante para um resultado preciso."
+  },
+  {
+   "title": "Óculos",
+   "text": "Leve os óculos, principalmente os de perto."
+  }
+ ],
+ "bring": [
+  "Os óculos",
+  "Resultados anteriores",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Um olho é tapado com um tampão",
+  "Você apoia o queixo no suporte e olha para o ponto central",
+  "Luzinhas fracas aparecem em lugares diferentes",
+  "Quando vir uma luz, aperte o botão",
+  "Não procure as luzes com os olhos. Olhe para o centro",
+  "Depois, fazem o mesmo com o outro olho"
+ ],
+ "feel": [
+  "Não dói",
+  "Pode ser cansativo e monótono. Dá para pedir uma pausa",
+  "Algumas luzes você não vai ver. É de propósito"
+ ],
+ "after": [
+  "Não há restrições",
+  "O médico compara com os resultados anteriores e diz os próximos passos"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Perdi muitas luzes. Isso é ruim?",
+   "a": "Não necessariamente. O aparelho mostra de propósito luzes muito fracas."
+  },
+  {
+   "q": "Por que repetir esse exame?",
+   "a": "Para ver se a visão muda com o tempo, principalmente no glaucoma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o exame de campo visual. Durma bem e leve os óculos."
+  }
+ ]
+}

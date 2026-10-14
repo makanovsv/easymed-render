@@ -1,0 +1,79 @@
+{
+ "title": "Hospital stay: what to bring and expect",
+ "also": [
+  "hospital admission",
+  "planned hospital stay",
+  "inpatient stay",
+  "what to pack for hospital"
+ ],
+ "what": "When you are admitted to hospital for treatment or surgery. Here is what to bring and how the first day goes.",
+ "why": "For treatment, tests, or surgery that cannot be done as an outpatient.",
+ "duration": "depends on the treatment, from one day to several weeks",
+ "tell_doctor": [
+  "All the medicines you take",
+  "Allergies",
+  "Long-term conditions",
+  "If you need a special diet or help walking"
+ ],
+ "prepare": [
+  {
+   "title": "Documents",
+   "text": "Ask which tests are needed before admission and how long they stay valid."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Ask your doctor which to bring and which to stop."
+  },
+  {
+   "title": "Arrangements",
+   "text": "Tell your work, and decide who will look after your home and family."
+  }
+ ],
+ "bring": [
+  "Your ID and referral",
+  "Test results and discharge papers",
+  "Your daily medicines, in their packs",
+  "Comfortable clothes, slippers, and toiletries",
+  "A phone, charger, mug, and spoon"
+ ],
+ "steps": [
+  "At the admissions desk, your documents are checked",
+  "You are examined, and sometimes blood is taken",
+  "A nurse takes you to your room",
+  "Your doctor meets you and explains the plan",
+  "A nurse explains the routine: ward rounds, procedures, meals",
+  "Then treatment goes ahead as planned"
+ ],
+ "feel": [
+  "The first day is often hectic",
+  "Ask the doctor questions during ward rounds. That is normal"
+ ],
+ "after": [
+  "Ask every day on rounds how treatment is going",
+  "You are usually told about discharge in advance",
+  "Keep your valuables safe"
+ ],
+ "red_flags": [
+  "If you suddenly feel much worse in the ward, press the call button or call a nurse right away"
+ ],
+ "faq": [
+  {
+   "q": "Can I bring my own food?",
+   "a": "Usually yes, unless you are on a special diet. Ask the ward if there is a fridge."
+  },
+  {
+   "q": "Are visitors allowed?",
+   "a": "Rules differ in every hospital. Check the visiting hours and rules."
+  },
+  {
+   "q": "Should I bring my own medicines?",
+   "a": "Usually yes, in their packs. The doctor will say which to continue."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Hospital admission tomorrow. Pack your documents, test results, medicines, and things."
+  }
+ ]
+}

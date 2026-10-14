@@ -1,0 +1,85 @@
+{
+ "title": "Cirurgia de joanete (hálux valgo)",
+ "also": [
+  "joanete",
+  "hálux valgo",
+  "cirurgia de joanete",
+  "osteotomia do primeiro metatarso"
+ ],
+ "what": "O cirurgião corta e alinha o osso na base do dedão. O osso é fixado com parafusos ou grampos, e o dedo fica mais reto.",
+ "why": "Quando o joanete dói, atrapalha para andar e para achar calçado, e calçado confortável e palmilhas não ajudam.",
+ "duration": "a cirurgia leva normalmente de 1 a 2 horas, com internação normalmente de 1 a 2 dias ou alta no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergia a remédios, látex, iodo",
+  "Diabetes e problemas de circulação nas pernas",
+  "Se você fuma. O cigarro atrasa a consolidação do osso",
+  "Se já operou o pé"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma, às vezes consulta com clínico. A lista quem dá é a clínica."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista conversa com você. Conte sobre sua saúde e seus remédios."
+  },
+  {
+   "title": "Comida e água",
+   "text": "Normalmente nada de comida desde a noite anterior, e nada de beber algumas horas antes. O horário exato quem diz é a clínica."
+  },
+  {
+   "title": "Casa",
+   "text": "Prepare antes um lugar confortável em casa: nas primeiras semanas você vai andar pouco. Pergunte se precisa de muletas."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados de exames",
+  "Documentos",
+  "Lista de remédios",
+  "Um calçado largo para o pé saudável"
+ ],
+ "steps": [
+  "No dia da cirurgia, você troca de roupa, e colocam um acesso na veia",
+  "O anestesista aplica anestesia geral ou bloqueio na perna",
+  "O cirurgião faz um corte no pé e alinha o osso",
+  "O osso é fixado com parafusos ou placa",
+  "O corte é suturado, e o pé é enfaixado",
+  "Colocam um sapato pós-operatório especial"
+ ],
+ "feel": [
+  "Nos primeiros dias o pé dói e incha. Dão analgésico",
+  "Peso e curativo apertado são normais",
+  "Andar com o sapato especial é estranho no começo"
+ ],
+ "after": [
+  "Mantenha a perna elevada. Assim incha e dói menos",
+  "Normalmente se anda com o sapato especial por cerca de 4 a 6 semanas",
+  "Não molhe o curativo até o médico liberar",
+  "O inchaço pode durar alguns meses",
+  "Calçado comum, quando o cirurgião liberar"
+ ],
+ "red_flags": [
+  "Dor forte, inchaço e dor na panturrilha desta ou da outra perna",
+  "Os dedos ficam roxos, frios ou dormentes",
+  "Febre acima de 38 graus, pus ou cheiro ruim sob o curativo",
+  "Falta de ar ou dor no peito de repente: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Os parafusos ficam para sempre?",
+   "a": "Normalmente sim, e não atrapalham. Só são retirados se incomodarem."
+  },
+  {
+   "q": "Quando posso usar calçado comum?",
+   "a": "Normalmente em 6 a 8 semanas, pela radiografia e decisão do cirurgião."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia no pé. Leve os documentos, os remédios e um calçado largo. Comida e água, só até o horário da clínica."
+  }
+ ]
+}

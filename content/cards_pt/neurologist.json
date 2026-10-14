@@ -1,0 +1,67 @@
+{
+ "title": "Consulta com neurologista",
+ "also": [
+  "neurologista",
+  "consulta de neurologia",
+  "médico dos nervos"
+ ],
+ "what": "É o médico que trata o sistema nervoso: cérebro, medula e nervos. Ele pergunta, testa os reflexos, a força e a sensibilidade.",
+ "why": "Com dores de cabeça, tontura, dores nas costas e no pescoço, dormência, convulsões, problemas de sono e de memória.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "O que incomoda, desde quando e o que ajuda",
+  "Se já teve lesões na cabeça e na coluna",
+  "Quais remédios você toma",
+  "Pressão alta, diabetes",
+  "Doenças do sistema nervoso na família"
+ ],
+ "prepare": [
+  {
+   "title": "Diário",
+   "text": "Com dores de cabeça, anote por alguns dias: quando dói, quanto e o que ajuda."
+  },
+  {
+   "title": "Imagens",
+   "text": "Leve ressonância, tomografia, eletroencefalograma e os laudos, se fez."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Exames, laudos e pareceres anteriores",
+  "Lista de remédios ou as próprias caixas"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Testa os reflexos com um martelinho",
+  "Pede movimentos simples: fechar os olhos, tocar o nariz, andar",
+  "Testa a força e a sensibilidade nos braços e nas pernas",
+  "Explica os próximos passos: tratamento ou exames"
+ ],
+ "feel": [
+  "Nada desagradável. As batidas do martelinho não doem",
+  "Às vezes testam a sensibilidade com picadinhas leves"
+ ],
+ "after": [
+  "O médico pode pedir ressonância, eletroencefalograma ou exames de sangue",
+  "Não mude o tratamento por conta própria. Tire as dúvidas com o médico"
+ ],
+ "red_flags": [
+  "Rosto torto, fraqueza no braço ou na perna, fala alterada, dor de cabeça fortíssima e repentina: não espere a consulta, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Para que serve o martelinho?",
+   "a": "Assim se testam os reflexos. Isso mostra como os nervos estão funcionando."
+  },
+  {
+   "q": "Preciso fazer ressonância antes da consulta?",
+   "a": "Normalmente não. O médico decide se ela é necessária."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o neurologista. Leve os exames de imagem, os laudos e a lista de remédios."
+  }
+ ]
+}

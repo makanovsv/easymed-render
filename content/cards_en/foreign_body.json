@@ -1,0 +1,76 @@
+{
+ "title": "Removing a foreign object (splinter, fishhook)",
+ "also": [
+  "splinter removal",
+  "fishhook removal",
+  "foreign body in the skin",
+  "glass splinter removal"
+ ],
+ "what": "The doctor removes something stuck in your skin: a splinter, a piece of glass, or a fishhook. The area is numbed if needed.",
+ "why": "When the object is deep, cannot be removed at home, is near the eye or on the face, or the area is getting inflamed.",
+ "duration": "usually 10 to 30 minutes",
+ "tell_doctor": [
+  "What exactly got into the skin and when",
+  "When you last had a tetanus shot",
+  "Allergy to numbing medicines or antiseptics",
+  "Diabetes",
+  "Blood thinners"
+ ],
+ "prepare": [
+  {
+   "title": "Do not pull it out yourself",
+   "text": "A barbed hook or a deep shard is better not removed at home. You can make the wound bigger."
+  },
+  {
+   "title": "Before the visit",
+   "text": "Do not touch the area. You can cover it with a clean bandage. Hold a large object in place so it does not move."
+  },
+  {
+   "title": "Eye",
+   "text": "If something got into your eye, do not rub it. See a doctor right away."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your tetanus shot record, if you have it"
+ ],
+ "steps": [
+  "The doctor examines the area and decides how to remove the object",
+  "Sometimes an X-ray or ultrasound is done to find a shard",
+  "The skin is cleaned with antiseptic",
+  "If needed, a numbing injection is given",
+  "The object is carefully removed with an instrument",
+  "The wound is rinsed and covered with a bandage"
+ ],
+ "feel": [
+  "The numbing injection stings briefly",
+  "Then you feel pressure, but no pain",
+  "After the procedure, the spot may ache a little"
+ ],
+ "after": [
+  "Keep the wound clean and dry for the first 24 hours",
+  "Change the bandage as your doctor said",
+  "Sometimes the doctor gives a tetanus shot"
+ ],
+ "red_flags": [
+  "Redness is spreading, or the area is hot and more and more painful",
+  "Pus comes from the wound, or you get a fever",
+  "A finger or hand goes numb or does not move well"
+ ],
+ "faq": [
+  {
+   "q": "Can I remove a fishhook myself?",
+   "a": "A small splinter near the surface, yes. A barbed hook is better left to a doctor, so the tissue is not torn."
+  },
+  {
+   "q": "Do I need a tetanus shot?",
+   "a": "It depends on when you last had one. Your doctor will ask and decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Your visit is soon. Do not try to remove the object yourself, and keep the area clean."
+  }
+ ]
+}

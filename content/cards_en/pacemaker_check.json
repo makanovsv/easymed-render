@@ -1,0 +1,73 @@
+{
+ "title": "Pacemaker check",
+ "also": [
+  "pacemaker check",
+  "pacemaker interrogation",
+  "pacemaker clinic",
+  "pacemaker follow-up"
+ ],
+ "what": "The doctor places a special wand over the device and reads its data. The battery and leads are checked, and settings are changed if needed.",
+ "why": "Regularly after implant: usually after a few months, then every 6 to 12 months. Your doctor will set the timing.",
+ "duration": "usually 15 to 30 minutes; results right away",
+ "tell_doctor": [
+  "Any fainting, dizziness, shortness of breath, or strong heartbeat",
+  "All your medicines",
+  "If your medicines changed since the last check"
+ ],
+ "prepare": [
+  {
+   "title": "Preparation",
+   "text": "None needed. Eat and take your medicines as usual."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear something that lets you uncover the device area easily."
+  },
+  {
+   "title": "Documents",
+   "text": "Your pacemaker card is a must."
+  }
+ ],
+ "bring": [
+  "Your pacemaker card",
+  "Your discharge papers from the implant",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You lie or sit down",
+  "ECG stickers are placed on your arms and legs",
+  "The programmer wand is placed over the device on your chest",
+  "The doctor reads the data and checks how it works",
+  "Sometimes settings are changed. Your heart may beat differently for a short time",
+  "The doctor explains the result and sets the next check"
+ ],
+ "feel": [
+  "Usually nothing",
+  "Sometimes your pulse changes or you feel dizzy for a few seconds. Tell the doctor"
+ ],
+ "after": [
+  "Write down the date of the next check",
+  "Carry your device card with you"
+ ],
+ "red_flags": [
+  "Fainting or severe dizziness: call emergency services",
+  "Your pulse becomes very slow or very fast",
+  "Redness, swelling, or discharge over the device"
+ ],
+ "faq": [
+  {
+   "q": "How long does the battery last?",
+   "a": "Usually many years. The check shows how much is left, and your doctor will tell you in advance when to replace it."
+  },
+  {
+   "q": "Can the device be checked remotely?",
+   "a": "Some devices allow it. Ask your doctor if yours does."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Pacemaker check tomorrow. Bring your device card and medicine list."
+  }
+ ]
+}

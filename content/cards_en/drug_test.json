@@ -1,0 +1,68 @@
+{
+ "title": "Urine drug test",
+ "also": [
+  "urine drug screen",
+  "drug test",
+  "toxicology screen",
+  "workplace drug test",
+  "substance test"
+ ],
+ "what": "You give urine in a container. The test shows whether drugs or some strong medicines have been in your body.",
+ "why": "For certificates for work, a gun license, or a driver's license; at an employer's request; or for medical checkups.",
+ "duration": "collecting takes 5 to 10 minutes; a rapid result comes in a few minutes; a confirming lab test usually takes a few days",
+ "tell_doctor": [
+  "All medicines you take, even common cough medicines or painkillers",
+  "If you recently had anesthesia or strong painkillers"
+ ],
+ "prepare": [
+  {
+   "title": "ID",
+   "text": "Bring your ID. Without it, the test for a certificate is usually not accepted."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Write down what you take and tell the nurse."
+  },
+  {
+   "title": "Drinking",
+   "text": "Drink as usual. Do not drink extra water. Urine that is too diluted may be rejected."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your referral or request from work",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "Your ID is checked, and you get a labeled container",
+  "Before going to the toilet, you may be asked to leave your bag and coat",
+  "You pee into the container, sometimes while observed. The rules require it",
+  "The container is closed and sealed in front of you",
+  "The test is done right away or sent to the lab"
+ ],
+ "feel": [
+  "Nothing unpleasant, though being observed may feel awkward"
+ ],
+ "after": [
+  "The rapid result is usually ready right away",
+  "If the rapid test is positive, the urine is checked with a precise lab method",
+  "The certificate is issued within the time they tell you"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can a regular medicine make the test positive?",
+   "a": "Yes, some medicines affect the rapid test. That is why you should name them. Unclear cases are checked with a precise method."
+  },
+  {
+   "q": "Why is urine collected while observed?",
+   "a": "It is a rule for certificates, to make sure the sample is not swapped. It is the same for everyone."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Drug test tomorrow. Bring your ID and a list of your medicines."
+  }
+ ]
+}

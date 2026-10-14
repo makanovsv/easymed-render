@@ -1,0 +1,71 @@
+{
+ "title": "MAPA em adolescente",
+ "also": [
+  "MAPA em adolescente",
+  "monitorização da pressão 24 horas",
+  "pressão de 24 horas em criança",
+  "MAPA pediátrico"
+ ],
+ "what": "O adolescente usa um manguito no braço por 24 horas. Um aparelhinho na cintura mede a pressão sozinho, de dia e de noite.",
+ "why": "Com pressão alta na consulta, dores de cabeça, sangramento pelo nariz, antes de esporte ou para acompanhar o tratamento.",
+ "duration": "normalmente 24 horas de uso. O laudo sai normalmente em 1 a 2 dias",
+ "tell_doctor": [
+  "Quais remédios o adolescente toma",
+  "Como é a rotina: escola, esporte, treinos",
+  "O que incomoda: dor de cabeça, sangramento pelo nariz, tontura",
+  "Se já mediram a pressão antes, quais foram os valores"
+ ],
+ "prepare": [
+  {
+   "title": "Rotina",
+   "text": "Um dia normal: escola, passeios. É melhor cancelar treinos pesados nesse dia. Confirme com o médico."
+  },
+  {
+   "title": "Roupa",
+   "text": "Camiseta com manga larga e solta, e por cima uma blusa folgada."
+  },
+  {
+   "title": "Banho",
+   "text": "Com o aparelho não pode tomar banho. Tome banho antes da instalação."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "O diário que a clínica entrega e uma caneta",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Colocam o manguito no braço, normalmente no braço que se usa menos",
+  "O aparelho fica preso na cintura",
+  "Explicam como preencher o diário",
+  "De dia, o aparelho mede a pressão normalmente a cada 15 a 30 minutos, à noite com menos frequência",
+  "Durante a medida, o braço precisa ficar parado e esticado para baixo",
+  "Depois de 24 horas, o aparelho é retirado na clínica"
+ ],
+ "feel": [
+  "O manguito aperta o braço a cada medida",
+  "À noite, as medidas podem acordar. Isso é normal"
+ ],
+ "after": [
+  "Depois de tirar, vida normal",
+  "O laudo sai normalmente em 1 a 2 dias",
+  "Converse sobre o resultado com o pediatra ou o cardiologista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Dá para ir à escola com o aparelho?",
+   "a": "Sim. A atividade normal até ajuda a entender como a pressão muda."
+  },
+  {
+   "q": "O que escrever no diário?",
+   "a": "Quando dormiu, comeu, fez atividade, tomou remédio e se sentiu algo diferente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a instalação do MAPA. De manhã, tome banho. Vista uma camiseta com manga solta."
+  }
+ ]
+}

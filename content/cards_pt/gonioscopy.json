@@ -1,0 +1,65 @@
+{
+ "title": "Gonioscopia",
+ "also": [
+  "gonioscopia",
+  "exame do ângulo do olho",
+  "exame com lente de contato"
+ ],
+ "what": "O médico coloca uma lente especial no olho e observa o local por onde o líquido sai de dentro do olho.",
+ "why": "No glaucoma ou suspeita dele, e antes do tratamento do glaucoma com laser.",
+ "duration": "normalmente de 5 a 15 minutos; o médico diz o resultado na hora",
+ "tell_doctor": [
+  "Alergia a colírios",
+  "Se você usa lentes de contato",
+  "Se já operou os olhos"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes de contato",
+   "text": "Se você usa lentes de contato, elas são retiradas antes do exame. Leve o estojo."
+  },
+  {
+   "title": "Transporte",
+   "text": "A visão pode ficar um pouco turva por um tempo. Planeje a volta."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Os óculos",
+  "Estojo das lentes"
+ ],
+ "steps": [
+  "O olho é anestesiado com colírio",
+  "Você apoia o queixo no suporte",
+  "O médico encosta com cuidado uma lente com gel no olho",
+  "Pedem para você olhar para lados diferentes",
+  "A lente é retirada e, se preciso, lavam o olho"
+ ],
+ "feel": [
+  "Normalmente não dói, você sente o toque",
+  "Dá vontade de piscar. O médico ajuda a segurar a pálpebra"
+ ],
+ "after": [
+  "Não coce o olho enquanto o colírio anestésico faz efeito",
+  "Um pouco de visão turva e vermelhidão costumam passar rápido"
+ ],
+ "red_flags": [
+  "Dor forte ou piora da visão depois do exame: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Normalmente não, porque o olho é anestesiado com colírio."
+  },
+  {
+   "q": "Qual a diferença para o exame comum?",
+   "a": "O exame comum não mostra o ângulo do olho. Para isso é preciso uma lente especial."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a 2 horas é o exame dos olhos. Se você usa lentes, leve o estojo."
+  }
+ ]
+}

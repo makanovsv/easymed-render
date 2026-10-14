@@ -1,0 +1,75 @@
+{
+ "title": "Pre-op anesthesia assessment",
+ "also": [
+  "pre-anesthesia assessment",
+  "pre-op assessment",
+  "anesthesia consultation",
+  "pre-operative checkup"
+ ],
+ "what": "The anesthetist gets to know you, asks about your health, and chooses the safest anesthesia for your surgery.",
+ "why": "Before any surgery or procedure under general anesthesia, sedation, or spinal anesthesia.",
+ "duration": "usually 15 to 30 minutes; sometimes a few days before, sometimes the day before or the day of surgery",
+ "tell_doctor": [
+  "All your medicines, including vitamins and herbs",
+  "Allergies",
+  "Heart, lung, or kidney disease, or diabetes",
+  "Snoring or pauses in breathing during sleep",
+  "How past anesthesia went for you and your relatives",
+  "Dentures, crowns, or loose teeth"
+ ],
+ "prepare": [
+  {
+   "title": "List",
+   "text": "Write down your medicines with doses and your questions in advance."
+  },
+  {
+   "title": "Documents",
+   "text": "Gather your test results, ECG, and doctors' reports."
+  },
+  {
+   "title": "Questions",
+   "text": "Ask what kind of anesthesia it will be, when to stop eating, and what to do with your medicines that morning."
+  }
+ ],
+ "bring": [
+  "Test results and ECG",
+  "Doctors' reports",
+  "A list of your medicines",
+  "Your ID"
+ ],
+ "steps": [
+  "The anesthetist asks about your health and past surgeries",
+  "Your heart and lungs are checked, and your blood pressure measured",
+  "Your mouth and neck are checked to see how easy breathing support will be",
+  "Your test results are reviewed. Sometimes more are ordered",
+  "The type of anesthesia is suggested and the risks explained",
+  "You are told when to stop eating and drinking and what to do with medicines",
+  "You sign a consent form for anesthesia"
+ ],
+ "feel": [
+  "It is just a conversation and a short exam, with no pain",
+  "Feeling nervous is normal. Ask anything that worries you"
+ ],
+ "after": [
+  "Write down the time after which you must not eat or drink",
+  "Do with your medicines only what the doctor said",
+  "If you get ill before surgery, call the clinic"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can I choose the type of anesthesia?",
+   "a": "You can share your wishes. In the end, the anesthetist chooses the safest option for you."
+  },
+  {
+   "q": "Why mention my teeth?",
+   "a": "A loose tooth or denture can get in the way of placing the breathing tube. The doctor will plan for it."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Anesthesia assessment tomorrow. Bring your test results, ECG, and medicine list, and write down your questions."
+  }
+ ]
+}

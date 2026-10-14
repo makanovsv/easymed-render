@@ -1,0 +1,84 @@
+{
+ "title": "Ressonância em criança com sedação",
+ "also": [
+  "ressonância infantil com sedação",
+  "ressonância com anestesia em criança",
+  "ressonância dormindo para criança"
+ ],
+ "what": "É uma ressonância em que a criança dorme com remédio. Assim ela fica parada e não se assusta com o barulho.",
+ "why": "Para crianças pequenas e para as que não conseguem ficar paradas de 20 a 40 minutos.",
+ "duration": "a ressonância em si leva normalmente de 20 a 60 minutos. Com o preparo e o despertar, de 2 a 4 horas",
+ "tell_doctor": [
+  "Doenças crônicas, alergias e remédios da criança",
+  "Se teve coriza, tosse ou febre há pouco tempo. A sedação pode ser adiada",
+  "Se a criança ou alguém da família teve problema com anestesia",
+  "Metal e implantes no corpo, como implante coclear"
+ ],
+ "prepare": [
+  {
+   "title": "Jejum",
+   "text": "Antes da sedação, não pode comer nem beber por um tempo. Normalmente: comida até 6 horas antes, leite materno até 4 horas antes, água até 2 horas antes. O horário exato quem diz é o anestesista."
+  },
+  {
+   "title": "Avaliação",
+   "text": "Muitas vezes é preciso consulta com o pediatra e exames. Confirme a lista com a clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa sem metal: sem botões de pressão, zíperes e strass."
+  },
+  {
+   "title": "Brinquedo",
+   "text": "O brinquedo preferido e uma mamadeira com água, para depois de acordar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudo do pediatra e exames, se pediram",
+  "Imagens anteriores",
+  "Fraldas, roupa extra e água"
+ ],
+ "steps": [
+  "O anestesista examina a criança e pergunta sobre a saúde dela",
+  "Colocam um cateter na veia. Às vezes primeiro dão uma máscara com remédio",
+  "A criança dorme na sua frente",
+  "Colocam a criança no aparelho, e o anestesista acompanha a respiração e o pulso",
+  "Você espera perto, do lado de fora da sala",
+  "Depois das imagens, acordam a criança e trazem até você"
+ ],
+ "feel": [
+  "A criança não sente dor",
+  "Ao acordar, ela pode ficar sonolenta, manhosa ou chorar. Isso passa",
+  "Às vezes dá um pouco de enjoo"
+ ],
+ "after": [
+  "A criança descansa em observação, normalmente de 30 a 60 minutos",
+  "Pode beber e comer quando o médico liberar. Normalmente começa com água",
+  "Até o fim do dia, repouso, com um adulto por perto",
+  "O laudo sai normalmente em 1 a 3 dias"
+ ],
+ "red_flags": [
+  "A criança não acorda, respira mal, os lábios ficam roxos: ligue na hora para a emergência",
+  "Vômitos repetidos ou febre alta depois da sedação: ligue para o médico ou para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A sedação é perigosa para a criança?",
+   "a": "Ela é feita pelo anestesista, que acompanha a criança o tempo todo. Complicações sérias são raras."
+  },
+  {
+   "q": "A mãe pode ficar junto enquanto a criança adormece?",
+   "a": "Muitas vezes sim. Confirme com a clínica."
+  },
+  {
+   "q": "Por que não pode comer antes da sedação?",
+   "a": "O estômago vazio evita que comida vá para as vias respiratórias durante o sono."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a ressonância da criança com sedação. Confira o horário a partir do qual não pode comer nem beber."
+  }
+ ]
+}

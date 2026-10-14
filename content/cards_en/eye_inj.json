@@ -1,0 +1,82 @@
+{
+ "title": "Eye injection (intravitreal injection)",
+ "also": [
+  "intravitreal injection",
+  "eye injection",
+  "anti-VEGF injection",
+  "injection for macular degeneration"
+ ],
+ "what": "The doctor injects medicine into the eye with a very fine needle. The eye is numbed with drops first.",
+ "why": "For some retina conditions, such as age-related macular degeneration or retina changes from diabetes.",
+ "duration": "the injection itself takes a few seconds, the whole visit usually 20 to 40 minutes; often a course of injections is needed",
+ "tell_doctor": [
+  "Redness, discharge, or inflammation of the eye or eyelids",
+  "Blood thinners",
+  "Allergy to iodine or eye drops",
+  "If you are pregnant",
+  "A recent heart attack or stroke"
+ ],
+ "prepare": [
+  {
+   "title": "Medicines",
+   "text": "Do not stop your regular medicines on your own. Ask your doctor."
+  },
+  {
+   "title": "Makeup",
+   "text": "Come without eye or face makeup."
+  },
+  {
+   "title": "Getting there",
+   "text": "You cannot drive after the injection. Come with someone."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your medicines",
+  "Someone to take you home",
+  "Sunglasses"
+ ],
+ "steps": [
+  "The eye is numbed with drops",
+  "The skin around the eye and the eye are cleaned with antiseptic",
+  "A small clip holds your eyelids open so you do not blink",
+  "You are asked to look to the side",
+  "The doctor gives the injection. It takes a few seconds",
+  "The eye is cleaned again, and vision and pressure are checked"
+ ],
+ "feel": [
+  "You feel pressure, but usually no pain",
+  "The antiseptic may sting",
+  "Afterward, a gritty feeling, sometimes spots or bubbles in your vision"
+ ],
+ "after": [
+  "Do not rub your eye or get it wet in the first days, as your doctor says",
+  "A small red spot on the white of the eye usually goes away on its own in 1 to 2 weeks",
+  "Use eye drops after the injection as prescribed",
+  "Come for your next injections on schedule"
+ ],
+ "red_flags": [
+  "Pain or redness gets worse, or vision drops sharply in the first days: see an eye doctor urgently",
+  "Pus coming from the eye: see an eye doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Does it hurt a lot?",
+   "a": "Usually not. The eye is numbed, and the injection takes seconds."
+  },
+  {
+   "q": "How many injections will I need?",
+   "a": "Often a course, then maintenance injections. Your doctor will set the schedule."
+  },
+  {
+   "q": "Will I see the needle?",
+   "a": "You usually see only a blurry spot. You need to look to the side."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Eye injection tomorrow. Come without makeup and with someone. You cannot drive afterward."
+  }
+ ]
+}

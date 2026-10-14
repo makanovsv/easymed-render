@@ -1,0 +1,68 @@
+{
+ "title": "Ultrassom do tórax (pleura)",
+ "also": [
+  "ultrassom de pleura",
+  "ultrassom para derrame pleural",
+  "ultrassom do tórax",
+  "ultrassom de seios costofrênicos"
+ ],
+ "what": "O médico examina com ultrassom o espaço entre os pulmões e a parede do peito. Assim dá para ver se há líquido a mais ali.",
+ "why": "Com falta de ar, depois de pneumonia, com suspeita de líquido no peito, antes de uma punção e para acompanhar o tratamento.",
+ "duration": "normalmente de 10 a 20 minutos, o laudo muitas vezes sai na hora",
+ "tell_doctor": [
+  "Se tem falta de ar, tosse ou dor no peito",
+  "Quais doenças do pulmão ou do coração você tem",
+  "Se já fez punção ou retirada de líquido",
+  "Quais raios-X e tomografias do tórax você já fez"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não precisa. Pode comer e beber como sempre."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, para liberar o peito e as costas com facilidade."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Raio-X ou tomografia do tórax e laudos, se tiver",
+  "Resumos de alta do hospital, se esteve internado"
+ ],
+ "steps": [
+  "Normalmente você fica sentado, com os braços cruzados ou as mãos na cabeça",
+  "Passam gel nas costas e nos lados",
+  "Colocam o aparelho entre as costelas e vão subindo",
+  "O médico olha os dois lados",
+  "Às vezes pedem para deitar de barriga para cima ou de lado"
+ ],
+ "feel": [
+  "Gel geladinho e uma leve pressão entre as costelas",
+  "Ficar sentado reto pode cansar. Avise se estiver difícil"
+ ],
+ "after": [
+  "Você já pode ir para casa",
+  "O laudo muitas vezes sai na hora",
+  "Se encontrarem líquido, o médico decide se precisa de punção"
+ ],
+ "red_flags": [
+  "Falta de ar forte, sensação de ar insuficiente ou dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Se encontraram líquido, é perigoso?",
+   "a": "É um motivo para descobrir a causa. O médico diz se precisa retirar o líquido e quais exames fazer."
+  },
+  {
+   "q": "Isso substitui o raio-X?",
+   "a": "Não. O ultrassom vê bem o líquido, e o raio-X e a tomografia mostram os pulmões. Muitas vezes são feitos juntos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você tem ultrassom do tórax. Não precisa de preparo. Leve o raio-X ou a tomografia do tórax, se tiver."
+  }
+ ]
+}

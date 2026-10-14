@@ -1,0 +1,68 @@
+{
+ "title": "Chest ultrasound for fluid (pleural ultrasound)",
+ "also": [
+  "pleural ultrasound",
+  "chest ultrasound",
+  "ultrasound for fluid around the lungs",
+  "pleural effusion ultrasound"
+ ],
+ "what": "The doctor uses ultrasound to look at the space between the lungs and the chest wall. It shows if there is extra fluid there.",
+ "why": "For shortness of breath, after pneumonia, for possible fluid in the chest, before draining fluid, and to check treatment.",
+ "duration": "usually 10 to 20 minutes; the report is usually ready right away",
+ "tell_doctor": [
+  "If you have shortness of breath, a cough, or chest pain",
+  "What lung or heart conditions you have",
+  "If fluid was drained before",
+  "Which chest X-rays and CT scans you already had"
+ ],
+ "prepare": [
+  {
+   "title": "Prep",
+   "text": "Usually none. You can eat and drink as usual."
+  },
+  {
+   "title": "Clothing",
+   "text": "Comfortable clothes, so you can easily uncover your chest and back."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Chest X-ray or CT and reports, if you have them",
+  "Hospital discharge papers, if you were treated"
+ ],
+ "steps": [
+  "You usually sit with your arms crossed or on your head",
+  "Gel is put on your back and sides",
+  "The probe is placed between the ribs and moved from bottom to top",
+  "The doctor checks both sides",
+  "Sometimes you are asked to lie on your back or side"
+ ],
+ "feel": [
+  "Cool gel and light pressure between the ribs",
+  "Sitting up straight can be tiring. Say so if it is hard"
+ ],
+ "after": [
+  "You can go home right away",
+  "The report is usually ready right away",
+  "If fluid is found, the doctor will decide if it needs to be drained"
+ ],
+ "red_flags": [
+  "Severe shortness of breath, feeling you cannot get enough air, or chest pain: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "If fluid is found, is it dangerous?",
+   "a": "It is a reason to find the cause. Your doctor will say whether it needs to be removed and what other tests to do."
+  },
+  {
+   "q": "Is this instead of an X-ray?",
+   "a": "No. Ultrasound sees fluid well, while X-ray and CT show the lungs themselves. They are often done together."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Chest ultrasound tomorrow. No prep needed. Bring your chest X-ray or CT, if you have them."
+  }
+ ]
+}

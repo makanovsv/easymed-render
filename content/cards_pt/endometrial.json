@@ -1,0 +1,76 @@
+{
+ "title": "Biópsia de endométrio por aspiração",
+ "also": [
+  "biópsia de endométrio",
+  "pipelle",
+  "aspirado endometrial",
+  "biópsia do útero"
+ ],
+ "what": "Pelo colo, o médico introduz no útero um tubinho fino e flexível e tira um pouco do tecido da camada de dentro. Sem cortes e normalmente sem anestesia geral.",
+ "why": "Com alterações no ciclo, sangramento depois da menopausa, infertilidade ou quando o ultrassom mostra alteração na camada interna do útero.",
+ "duration": "o procedimento leva normalmente de 5 a 15 minutos; o resultado sai normalmente em 1 a 2 semanas",
+ "tell_doctor": [
+  "Se você está grávida ou pode estar",
+  "Remédios que afinam o sangue",
+  "Se você usa DIU",
+  "Alergia a analgésicos",
+  "Se agora você tem corrimento ou inflamação"
+ ],
+ "prepare": [
+  {
+   "title": "Dia do ciclo",
+   "text": "O dia do ciclo depende do objetivo. O médico diz quando ir."
+  },
+  {
+   "title": "Teste",
+   "text": "Às vezes pedem um teste de gravidez antes do procedimento."
+  },
+  {
+   "title": "Analgésico",
+   "text": "Pergunte ao médico se pode tomar um analgésico uma hora antes."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados do ultrassom",
+  "Um absorvente",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Você deita na maca ginecológica",
+  "O médico coloca o espéculo e limpa o colo",
+  "Pelo colo, introduz no útero um tubinho fino e flexível",
+  "Lá dentro, faz uma leve sucção e colhe o tecido em poucos segundos",
+  "O tubinho é retirado, e o tecido vai para análise"
+ ],
+ "feel": [
+  "Uma cólica forte, como de menstruação dolorida, normalmente rápida",
+  "Às vezes tontura ou enjoo. Avise o médico",
+  "Depois, cólica leve por algumas horas"
+ ],
+ "after": [
+  "Um pouco de sangramento, normalmente por 1 a 2 dias",
+  "Sem relação sexual, absorvente interno, banheira e piscina, normalmente por alguns dias. O prazo exato quem diz é o médico",
+  "O resultado, o médico explica na consulta"
+ ],
+ "red_flags": [
+  "Sangramento como uma menstruação forte",
+  "Febre acima de 38 graus, dor forte no pé da barriga, corrimento com cheiro ruim"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Você sente uma cólica forte, como de menstruação dolorida. É rápida, normalmente menos de um minuto."
+  },
+  {
+   "q": "Qual a diferença para a curetagem?",
+   "a": "É mais simples: sem anestesia geral, sem dilatar o colo, com um tubinho fino."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a biópsia de endométrio. Leve os resultados do ultrassom e um absorvente. Pergunte antes ao médico sobre o analgésico."
+  }
+ ]
+}

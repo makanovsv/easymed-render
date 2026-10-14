@@ -1,0 +1,77 @@
+{
+ "title": "Primera revisión del recién nacido",
+ "also": [
+  "primera consulta del recién nacido",
+  "primera cita con el pediatra",
+  "revisión del recién nacido",
+  "visita del pediatra después del hospital"
+ ],
+ "what": "El pediatra y la enfermera revisan a tu bebé en los primeros días después de salir del hospital. Muchas veces van a tu casa.",
+ "why": "Para todos los recién nacidos después de salir del hospital.",
+ "duration": "normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "Cómo fue el parto y qué te dijeron en el hospital",
+  "Cómo come tu bebé y cuántos pañales moja al día",
+  "Si la piel se pone amarilla",
+  "Cómo está sanando el ombligo",
+  "Todo lo que te preocupe"
+ ],
+ "prepare": [
+  {
+   "title": "Documentos",
+   "text": "Ten a la mano el resumen del hospital y los documentos del bebé."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Apunta tus preguntas sobre la alimentación, el sueño y el baño, para no olvidarlas."
+  },
+  {
+   "title": "Lugar",
+   "text": "Prepara un cambiador o un lugar limpio donde puedan revisar al bebé."
+  }
+ ],
+ "bring": [
+  "El resumen del hospital",
+  "Los documentos del bebé",
+  "Tu lista de preguntas"
+ ],
+ "steps": [
+  "El médico te pregunta sobre el parto y cómo están",
+  "Revisa la piel, la cabeza, los ojos y el ombligo",
+  "Escucha el corazón y los pulmones, y revisa los reflejos",
+  "Ve cómo come tu bebé y, si hace falta, te ayuda con la lactancia",
+  "Te explica los cuidados y qué señales deben preocuparte",
+  "Te da la fecha de la siguiente revisión"
+ ],
+ "feel": [
+  "El bebé puede llorar cuando lo desvisten. Es normal",
+  "La revisión no duele"
+ ],
+ "after": [
+  "La siguiente revisión suele ser al mes",
+  "Cuida el ombligo como te enseñó el médico",
+  "Llama a tu clínica ante cualquier duda"
+ ],
+ "red_flags": [
+  "El bebé está decaído, succiona mal o no despierta para comer: llama a emergencias",
+  "Fiebre de más de 38, o la piel está fría y pálida: llama a emergencias",
+  "La piel amarilla aumenta o llega hasta las piernas",
+  "El ombligo está rojo, húmedo o huele mal"
+ ],
+ "faq": [
+  {
+   "q": "¿Es normal que mi bebé se vea un poco amarillo?",
+   "a": "Un poco de color amarillo en los primeros días es común. Enséñaselo al médico; él te dirá si hay que revisarlo."
+  },
+  {
+   "q": "¿Cada cuánto le doy de comer?",
+   "a": "Normalmente cuando lo pida, muchas veces de 8 a 12 veces al día. El médico revisará si le alcanza."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la primera revisión de tu bebé. Ten listo el resumen del hospital y tu lista de preguntas."
+  }
+ ]
+}

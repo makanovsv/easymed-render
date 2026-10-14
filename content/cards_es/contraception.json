@@ -1,0 +1,78 @@
+{
+ "title": "Elección de método anticonceptivo",
+ "also": [
+  "anticonceptivos",
+  "planificación familiar",
+  "métodos anticonceptivos",
+  "consulta de anticoncepción"
+ ],
+ "what": "El médico te ayuda a elegir un método para no embarazarte que vaya con tu salud y tu estilo de vida.",
+ "why": "Cuando quieres protegerte del embarazo, cambiar de método, o después de un parto o un aborto.",
+ "duration": "la consulta suele durar de 20 a 40 minutos",
+ "tell_doctor": [
+  "Si fumas",
+  "Presión alta, migraña o trombos en ti o en tu familia",
+  "Enfermedades del hígado, diabetes o cáncer de mama",
+  "Qué medicamentos tomas",
+  "Si das pecho y si planeas embarazarte pronto"
+ ],
+ "prepare": [
+  {
+   "title": "Preguntas",
+   "text": "Piensa qué es importante para ti: comodidad, por mucho tiempo o por un rato, y cómo afecta la regla."
+  },
+  {
+   "title": "Ciclo",
+   "text": "Ten presente la fecha de tu última regla."
+  },
+  {
+   "title": "Análisis",
+   "text": "A veces el médico te manda primero a un ultrasonido o a análisis."
+  }
+ ],
+ "bring": [
+  "Una identificación",
+  "La lista de tus medicamentos",
+  "Resultados de análisis y ultrasonidos anteriores, si tienes"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tu salud y lo que es importante para ti",
+  "Te toma la presión y el peso",
+  "A veces hace una revisión ginecológica",
+  "Te explica las opciones: pastillas, DIU, implante, anillo, condones y otras",
+  "Juntos eligen el que te conviene",
+  "El médico te explica cómo empezar y qué hacer si se te olvida"
+ ],
+ "feel": [
+  "Normalmente nada molesto"
+ ],
+ "after": [
+  "Empieza el método como te dijo el médico",
+  "Los primeros meses puede haber manchado. Muchas veces es normal",
+  "Si el método no te va bien, se puede cambiar",
+  "En unos meses, consulta de control"
+ ],
+ "red_flags": [
+  "Dolor fuerte en una pierna, una pierna hinchada, dolor en el pecho o falta de aire: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuál es el anticonceptivo más seguro?",
+   "a": "Los más seguros son el DIU y el implante. Pero el mejor método es el que te queda a ti."
+  },
+  {
+   "q": "¿Las pastillas protegen de infecciones?",
+   "a": "No. De las infecciones solo protege el condón."
+  },
+  {
+   "q": "¿Me puedo embarazar después de dejarlo?",
+   "a": "Normalmente sí, la fertilidad regresa. Qué tan rápido depende del método."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta de anticoncepción. Recuerda la fecha de tu última regla y lleva la lista de medicamentos."
+  }
+ ]
+}

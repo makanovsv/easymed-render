@@ -1,0 +1,76 @@
+{
+ "title": "Cirugía de dedo en gatillo",
+ "also": [
+  "dedo en gatillo",
+  "dedo en resorte",
+  "liberación de la polea",
+  "tenosinovitis estenosante"
+ ],
+ "what": "El médico corta el anillo apretado del ligamento en la base del dedo. El tendón deja de atorarse y el dedo se dobla libremente.",
+ "why": "Cuando el dedo truena, se traba o se queda doblado, y las inyecciones y el reposo no ayudaron.",
+ "duration": "el procedimiento suele durar de 10 a 20 minutos; te vas a casa el mismo día",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. No los dejes por tu cuenta; el médico decide",
+  "Si tienes diabetes",
+  "Alergias a medicamentos y a la anestesia",
+  "Si te pusieron inyecciones en ese dedo y cuándo"
+ ],
+ "prepare": [
+  {
+   "title": "Anestesia",
+   "text": "Normalmente es anestesia local: se anestesian el dedo y la palma con una inyección."
+  },
+  {
+   "title": "Mano",
+   "text": "Quítate antes los anillos de esa mano. Uñas sin esmalte."
+  },
+  {
+   "title": "Comida",
+   "text": "Con anestesia local normalmente puedes comer antes. Pregunta en la clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una identificación",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas o te sientas y ponen tu mano en una mesita",
+  "Limpian la piel y te ponen la inyección de anestesia",
+  "El médico hace un corte pequeño en la base del dedo, o trabaja por un piquete con aguja",
+  "Corta el ligamento apretado",
+  "Te pide doblar el dedo para revisar que ya no truene",
+  "Pone puntos y un vendaje"
+ ],
+ "feel": [
+  "La inyección de anestesia arde unos segundos",
+  "Durante el procedimiento sientes presión y que te tocan",
+  "Después la palma duele de 1 a 3 días"
+ ],
+ "after": [
+  "Normalmente puedes doblar el dedo de inmediato. Así queda menos rígido",
+  "Los primeros días mantén la mano en alto",
+  "No mojes el vendaje hasta que el médico lo permita",
+  "Los puntos se quitan normalmente en 10 a 14 días"
+ ],
+ "red_flags": [
+  "Enrojecimiento, hinchazón o pus en la herida, o fiebre de más de 38",
+  "El dedo se durmió o se puso frío y pálido"
+ ],
+ "faq": [
+  {
+   "q": "¿Puede volver a tronar?",
+   "a": "Pasa poco. Si vuelve, ve con el médico."
+  },
+  {
+   "q": "¿Puedo usar la mano de inmediato?",
+   "a": "Para cosas ligeras, normalmente sí. Cargar o apretar fuerte, después, según el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu cirugía del dedo. Quítate los anillos de esa mano y lleva la lista de tus medicamentos."
+  }
+ ]
+}

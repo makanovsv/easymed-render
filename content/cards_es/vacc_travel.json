@@ -1,0 +1,75 @@
+{
+ "title": "Vacunas antes de viajar",
+ "also": [
+  "vacunas para viajar",
+  "medicina del viajero",
+  "vacuna contra la fiebre amarilla",
+  "vacunas para viaje internacional"
+ ],
+ "what": "El médico elige las vacunas según el país al que vas. Para entrar a algunos países la vacuna es obligatoria.",
+ "why": "Antes de viajar a países tropicales u otros donde hay enfermedades que son raras en tu país.",
+ "duration": "la consulta suele durar de 20 a 40 minutos; la inyección, unos segundos; ve de 4 a 8 semanas antes del viaje",
+ "tell_doctor": [
+  "A dónde vas, cuándo y por cuánto tiempo",
+  "Cómo vas a estar: ciudad, campo o caminatas",
+  "Qué vacunas ya tienes",
+  "Enfermedades crónicas y medicamentos",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Con tiempo",
+   "text": "Ve 1 o 2 meses antes del viaje: algunas vacunas necesitan tiempo, y otras varias dosis."
+  },
+  {
+   "title": "Requisitos",
+   "text": "Revisa las reglas de entrada del país: a veces se pide un certificado de vacunación."
+  },
+  {
+   "title": "Documentos",
+   "text": "Busca tu cartilla de vacunación."
+  }
+ ],
+ "bring": [
+  "Una identificación, mejor tu pasaporte",
+  "La cartilla de vacunación",
+  "Tu itinerario y fechas de viaje"
+ ],
+ "steps": [
+  "El médico te pregunta sobre el viaje y tu salud",
+  "Revisa qué vacunas ya tienes",
+  "Elige las vacunas necesarias y el calendario",
+  "Te ponen una o varias inyecciones el mismo día",
+  "Te dan el certificado de vacunación",
+  "Te aconsejan cómo cuidarte en el viaje"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "A veces duele el brazo por 1 o 2 días, o hay cansancio o fiebre"
+ ],
+ "after": [
+  "Quédate 30 minutos cerca del consultorio",
+  "Lleva el certificado en tu viaje",
+  "Si hace falta otra dosis, no faltes antes de salir"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o salen ronchas por todo el cuerpo: llama a emergencias",
+  "Fiebre o malestar después del viaje: dile al médico dónde estuviste"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo vacunar una semana antes del viaje?",
+   "a": "Algunas sí, pero la protección no alcanza a formarse completa. Mejor ve con tiempo."
+  },
+  {
+   "q": "¿Dónde se pide la vacuna contra la fiebre amarilla?",
+   "a": "En varios países de África y de Sudamérica. Revisa las reglas del país y pregúntale al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Pasado mañana es tu consulta de vacunas para el viaje. Lleva tu pasaporte y tu cartilla de vacunación."
+  }
+ ]
+}

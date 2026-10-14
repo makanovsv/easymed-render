@@ -1,0 +1,82 @@
+{
+ "title": "Adaptação de aparelho auditivo",
+ "also": [
+  "aparelho auditivo",
+  "aparelho de surdez",
+  "regulagem de aparelho auditivo",
+  "adaptação de prótese auditiva"
+ ],
+ "what": "O especialista examina a audição, escolhe o aparelho e ajusta para os seus ouvidos. O aparelho deixa os sons mais altos e a fala mais clara.",
+ "why": "Quando a audição diminuiu e fica difícil entender a fala, principalmente com barulho ou ao telefone.",
+ "duration": "a primeira consulta leva normalmente de 1 hora a 1 hora e meia; a adaptação e os ajustes levam algumas semanas",
+ "tell_doctor": [
+  "Se já teve secreção no ouvido, dor ou cirurgia no ouvido",
+  "Zumbido e tontura",
+  "Se a audição caiu de repente, em poucos dias: primeiro procure o otorrino com urgência",
+  "Onde é mais difícil ouvir: em casa, no trabalho, ao telefone",
+  "Quais remédios você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Ouvidos",
+   "text": "Normalmente o otorrino primeiro examina os ouvidos e tira a rolha de cera, se houver."
+  },
+  {
+   "title": "Audiometria",
+   "text": "Se você tem uma audiometria recente, leve. Se não tiver, fazem no local."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Vale ir com alguém próximo: a voz dessa pessoa pode ajudar no ajuste."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Audiometrias anteriores",
+  "Documento de identidade",
+  "Seus óculos, se usar"
+ ],
+ "steps": [
+  "O especialista pergunta onde você tem dificuldade para ouvir",
+  "Examina os ouvidos",
+  "Testa a audição com fones: você aperta um botão quando ouve o sinal",
+  "Escolhe o tipo de aparelho: atrás da orelha ou dentro do ouvido",
+  "Às vezes fazem um molde do ouvido para a ponteira",
+  "O aparelho é ligado ao computador e ajustado à sua audição",
+  "Ensinam a colocar, tirar, trocar a bateria ou carregar"
+ ],
+ "feel": [
+  "O teste de audição não dói",
+  "No começo, os sons parecem altos e ásperos, e a própria voz parece estranha",
+  "Nos primeiros dias você sente o aparelho no ouvido"
+ ],
+ "after": [
+  "Use o aparelho todos os dias, começando com algumas horas",
+  "A adaptação costuma levar de 2 a 4 semanas",
+  "Volte para os ajustes. Isso faz parte da adaptação",
+  "Proteja o aparelho da água e tire à noite"
+ ],
+ "red_flags": [
+  "Dor, vermelhidão ou secreção no ouvido: tire o aparelho e procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Preciso usar o aparelho o tempo todo?",
+   "a": "Sim, de dia é melhor usar sempre. Assim o cérebro se acostuma mais rápido e entende melhor a fala."
+  },
+  {
+   "q": "Preciso de aparelho nos dois ouvidos?",
+   "a": "Se a audição caiu dos dois lados, normalmente indicam dois. Assim fica mais fácil entender a fala e saber de onde vem o som."
+  },
+  {
+   "q": "Por que tudo soa alto com o aparelho?",
+   "a": "O cérebro desacostumou de muitos sons. Em algumas semanas isso passa e, se preciso, o aparelho é reajustado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a adaptação do aparelho auditivo. Leve as audiometrias anteriores e, se puder, vá com alguém próximo."
+  }
+ ]
+}

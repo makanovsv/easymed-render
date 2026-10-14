@@ -1,0 +1,69 @@
+{
+ "title": "Intravenous injection",
+ "also": [
+  "IV injection",
+  "intravenous injection",
+  "injection into a vein",
+  "IV push"
+ ],
+ "what": "Medicine is given with a syringe directly into a vein, usually in the bend of the elbow. It works quickly.",
+ "why": "When medicine needs to act fast, or does not work as a pill or a shot into a muscle, as your doctor prescribes.",
+ "duration": "usually 2 to 5 minutes",
+ "tell_doctor": [
+  "Allergies to medicines",
+  "Blood thinners",
+  "If you have felt unwell or fainted during injections before",
+  "If your veins are hard to find"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "It is usually better not to come hungry, unless your doctor said otherwise."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve that is easy to roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your doctor's prescription",
+  "The medicine, if you bought it yourself"
+ ],
+ "steps": [
+  "You sit or lie down",
+  "A band is tightened above your elbow",
+  "The skin is wiped with antiseptic",
+  "The nurse puts the needle into a vein",
+  "The band is removed, and the medicine is given slowly",
+  "The needle comes out, and a cotton pad is pressed on"
+ ],
+ "feel": [
+  "A quick prick",
+  "Sometimes warmth or a taste in the mouth from the medicine. Tell the nurse"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "You are usually asked to sit for 10 to 15 minutes after the injection",
+  "A small bruise can happen and goes away on its own"
+ ],
+ "red_flags": [
+  "Swelling of the face or lips, trouble breathing, a rash, or sudden weakness: call emergency services",
+  "The arm along the vein becomes red, swollen, and painful"
+ ],
+ "faq": [
+  {
+   "q": "Why is the medicine given slowly?",
+   "a": "Many medicines cause unpleasant feelings if given fast. Slowly is safer."
+  },
+  {
+   "q": "Can I leave right away?",
+   "a": "You are usually asked to sit for 10 to 15 minutes. This shows whether you tolerate the medicine well."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "IV injection soon. Wear a top with an easy sleeve and eat something, unless your doctor said otherwise."
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "title": "Amniocentesis",
+ "also": [
+  "amniocentesis",
+  "estudio del líquido amniótico",
+  "punción amniótica",
+  "diagnóstico prenatal"
+ ],
+ "what": "Con ayuda del ultrasonido, el médico saca un poco de líquido amniótico con una aguja delgada a través del abdomen. En ese líquido se revisan los cromosomas y genes del bebé.",
+ "why": "Cuando el tamizaje salió con riesgo alto, el ultrasonido mostró algo especial o en la familia hay una enfermedad hereditaria. Normalmente después de las 15 o 16 semanas.",
+ "duration": "el procedimiento suele durar de 15 a 30 minutos; los primeros resultados suelen estar en unos días y el análisis completo hasta en 2 o 3 semanas",
+ "tell_doctor": [
+  "Tu tipo de sangre y factor Rh",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Infecciones como hepatitis o VIH. Es importante para la seguridad del bebé",
+  "Tus alergias, sobre todo a antisépticos",
+  "Si tuviste manchado o dolor en los últimos días"
+ ],
+ "prepare": [
+  {
+   "title": "Decisión",
+   "text": "El genetista te explica antes para qué es el procedimiento, qué riesgos tiene y qué mostrará el análisis. Firmas un consentimiento."
+  },
+  {
+   "title": "Análisis",
+   "text": "Normalmente se necesitan análisis de sangre, tipo de sangre y Rh, y a veces pruebas de infecciones."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer algo ligero. Lo de la vejiga, como te diga la clínica."
+  },
+  {
+   "title": "Descanso",
+   "text": "Aparta el día del procedimiento: necesitas reposo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los resultados del tamizaje y del ultrasonido",
+  "Tu carnet prenatal",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te acuestas boca arriba; el médico hace un ultrasonido y busca un buen lugar",
+  "Limpian la piel del abdomen con antiséptico",
+  "A veces anestesian la piel",
+  "Guiado por el ultrasonido, meten una aguja delgada por el abdomen",
+  "Sacan un poco de líquido, normalmente en menos de un minuto",
+  "Retiran la aguja y revisan el latido del bebé"
+ ],
+ "feel": [
+  "Un piquete y presión o un cólico en el abdomen",
+  "Es normal estar nerviosa. Puedes pedir que te tomen de la mano",
+  "Después, sensación de jalón en la parte baja del abdomen por unas horas"
+ ],
+ "after": [
+  "Normalmente descansas en la clínica de 20 a 30 minutos",
+  "El día del procedimiento y 1 o 2 días después, reposo, sin cargar cosas ni hacer ejercicio",
+  "Si tu Rh es negativo, normalmente te ponen una inyección de inmunoglobulina anti-D",
+  "El genetista te explica los resultados"
+ ],
+ "red_flags": [
+  "Se te sale líquido por la vagina: ve al médico de urgencia o llama a emergencias",
+  "Sangrado o dolor fuerte en el abdomen: llama a emergencias",
+  "Fiebre de más de 38 o escalofríos: ve al médico de urgencia",
+  "El bebé se mueve mucho menos de lo normal: ve al médico de urgencia"
+ ],
+ "faq": [
+  {
+   "q": "¿La amniocentesis es peligrosa para el bebé?",
+   "a": "Hay un riesgo pequeño de pérdida del embarazo. El médico te explica cómo es en tu caso antes del procedimiento."
+  },
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente se aguanta bien: es como un piquete y presión en el abdomen. Dura poco."
+  },
+  {
+   "q": "¿Es obligatoria?",
+   "a": "No. Es tu decisión. El médico te ayuda a pesar los beneficios y los riesgos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu amniocentesis. Lleva los resultados del tamizaje y del ultrasonido. Pide a alguien que te acompañe a casa."
+  }
+ ]
+}

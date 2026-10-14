@@ -1,0 +1,66 @@
+{
+ "title": "Troponina",
+ "also": [
+  "troponina",
+  "exame de infarto",
+  "troponina I",
+  "troponina T"
+ ],
+ "what": "É um exame de sangue colhido da veia. Mostra se há lesão no músculo do coração.",
+ "why": "Normalmente numa emergência, com dor no peito ou suspeita de infarto. Às vezes para acompanhamento depois de doenças do coração.",
+ "duration": "a coleta leva poucos minutos, no hospital o resultado sai normalmente em até uma hora. Muitas vezes o exame é repetido depois de 1 a 3 horas",
+ "tell_doctor": [
+  "Quando começou a dor no peito e como ela é",
+  "Quais remédios para o coração e a pressão você toma",
+  "Se tem doença nos rins",
+  "Se fez muito esforço físico há pouco tempo"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não precisa. Com dor no peito, não espere: o exame é feito na hora, no hospital."
+  },
+  {
+   "title": "Importante",
+   "text": "Se o peito estiver doendo, não vá sozinho ao laboratório. Ligue para a emergência."
+  }
+ ],
+ "bring": [
+  "Documento com foto",
+  "Lista de remédios",
+  "Eletrocardiogramas anteriores, se tiver"
+ ],
+ "steps": [
+  "A enfermeira colhe sangue da veia. Muitas vezes já colocam um cateter",
+  "Ao mesmo tempo, normalmente fazem um eletrocardiograma",
+  "Depois de 1 a 3 horas, muitas vezes colhem sangue de novo",
+  "O médico compara os dois resultados"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão"
+ ],
+ "after": [
+  "Os próximos exames e o tratamento quem decide é o médico",
+  "Se o exame foi agendado, o resultado sai normalmente no mesmo dia"
+ ],
+ "red_flags": [
+  "Dor, aperto ou queimação no peito por mais de alguns minutos: ligue para a emergência",
+  "Dor que vai para o braço, a mandíbula ou as costas, com suor frio ou falta de ar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que a troponina é medida duas vezes?",
+   "a": "Ela sobe aos poucos. O segundo exame mostra se o nível está mudando."
+  },
+  {
+   "q": "Com dor no peito, posso só fazer o exame no laboratório?",
+   "a": "Não. Com dor no peito, ligue para a emergência. O eletrocardiograma e o atendimento rápido são o mais importante."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você tem exame de troponina agendado. Não precisa de preparo. Se sentir dor no peito, ligue na hora para a emergência."
+  }
+ ]
+}
