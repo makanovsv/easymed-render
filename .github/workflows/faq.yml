@@ -1,0 +1,39 @@
+name: faq
+on:
+  workflow_dispatch:
+    inputs:
+      shards: { description: 'JSON список частей', default: '[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]' }
+      total: { description: 'на сколько частей', default: '20' }
+jobs:
+  faq:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        shard: ${{ fromJSON(inputs.shards) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-liberation fonts-noto-cjk fonts-noto-core > /dev/null
+          mkdir -p video/hf_draw/assets/fonts
+          cp /usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf video/hf_draw/assets/fonts/ArialBold.ttf
+          cp /usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf video/hf_draw/assets/fonts/Arial.ttf
+          pip install -q edge-tts
+          echo "EDGE_TTS=$(which edge-tts)" >> $GITHUB_ENV
+          echo "TTS_TRIES=8" >> $GITHUB_ENV
+      - name: shorts
+        timeout-minutes: 310
+        continue-on-error: true
+        run: python3 video/faqshorts/faq_ci.py ${{ matrix.shard }} ${{ inputs.total }} 290
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: faq-${{ matrix.shard }}
+          path: video/faqshorts/dist/
+          retention-days: 90
