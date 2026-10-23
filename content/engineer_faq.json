@@ -1,0 +1,381 @@
+{
+  "_note": "Серия «Отвечает инженер» (23.10.2026): новые вопросы в faq карточек по темам, которые ищут на YouTube. Порядок важен: добавляются в конец faq.",
+  "items": [
+    {
+      "card": "mri_brain",
+      "ru": {
+        "q": "Как работает МРТ?",
+        "a": "Внутри аппарата сильный магнит. Он выстраивает водород в воде вашего тела, радиоволны ненадолго сбивают его, а когда он возвращается на место, аппарат ловит слабый сигнал и строит из него снимок. Рентгеновского излучения нет."
+      },
+      "en": {
+        "q": "How does an MRI work?",
+        "a": "Inside the scanner is a strong magnet. It lines up the hydrogen in the water of your body, radio waves briefly knock it out of line, and as it settles back the scanner picks up a faint signal and builds the image from it. There is no X-ray radiation."
+      },
+      "kk": {
+        "q": "МРТ қалай жұмыс істейді?",
+        "a": "Аппараттың ішінде күшті магнит бар. Ол денеңіздегі судың құрамындағы сутегіні бір бағытқа қояды. Радиотолқындар оны қысқа уақытқа бағытынан шығарады, ал ол орнына қайтқанда аппарат әлсіз сигналды ұстап, содан сурет жасайды. Рентген сәулесі жоқ."
+      },
+      "uz": {
+        "q": "MRT qanday ishlaydi?",
+        "a": "Apparat ichida kuchli magnit bor. U tanangizdagi suvning tarkibidagi vodorodni bir tomonga tartibga soladi. Radioto'lqinlar uni qisqa muddatga o'z o'rnidan chiqaradi, u joyiga qaytayotganda esa apparat kuchsiz signalni ushlab, undan tasvir hosil qiladi. Rentgen nuri yo'q."
+      },
+      "es": {
+        "q": "¿Cómo funciona una resonancia magnética?",
+        "a": "Dentro del equipo hay un imán potente. Alinea el hidrógeno del agua de su cuerpo. Las ondas de radio lo desordenan por un momento y, cuando vuelve a su sitio, el equipo capta una señal débil y con ella forma la imagen. No hay radiación de rayos X."
+      },
+      "pt": {
+        "q": "Como funciona uma ressonância magnética?",
+        "a": "Dentro do aparelho há um ímã forte. Ele alinha o hidrogênio da água do seu corpo. As ondas de rádio o desalinham por um instante e, quando ele volta ao lugar, o aparelho capta um sinal fraco e forma a imagem a partir dele. Não há radiação de raios X."
+      },
+      "ar": {
+        "q": "كيف يعمل جهاز الرنين المغناطيسي؟",
+        "a": "داخل الجهاز مغناطيس قوي. يرتب هذا المغناطيس ذرات الهيدروجين في الماء الموجود في جسمك. تُخرجها الموجات الراديوية من مكانها لوقت قصير، وعندما تعود إلى مكانها يلتقط الجهاز إشارة ضعيفة ويصنع منها الصورة. لا توجد أشعة إكس."
+      },
+      "zh": {
+        "q": "核磁共振是怎么工作的？",
+        "a": "机器里面有一块强磁体。它让您身体水分中的氢原子排列整齐。无线电波会让它们短暂偏离原位，当它们回到原位时，机器接收到微弱的信号，并用它生成图像。整个过程没有X射线辐射。"
+      },
+      "ja": {
+        "q": "MRIはどのように働きますか？",
+        "a": "装置の中には強い磁石があります。この磁石が、体の水分に含まれる水素をそろえます。電波が一瞬だけ水素をずらし、元に戻るときに、装置が弱い信号をとらえて画像をつくります。X線の放射線はありません。"
+      },
+      "ko": {
+        "q": "MRI는 어떻게 작동하나요?",
+        "a": "장비 안에는 강한 자석이 있습니다. 이 자석이 몸속 물에 있는 수소를 한 방향으로 정렬합니다. 전파가 잠깐 수소를 흐트러뜨리고, 수소가 제자리로 돌아올 때 장비가 약한 신호를 받아 영상을 만듭니다. 엑스선 방사선은 없습니다."
+      },
+      "hi": {
+        "q": "MRI कैसे काम करता है?",
+        "a": "मशीन के अंदर एक मज़बूत चुंबक होता है। यह आपके शरीर के पानी में मौजूद हाइड्रोजन को एक दिशा में जमा देता है। रेडियो तरंगें उसे थोड़ी देर के लिए अपनी जगह से हिला देती हैं, और जब वह वापस अपनी जगह पर आता है, तो मशीन एक हल्का संकेत पकड़कर उससे तस्वीर बनाती है। इसमें एक्स-रे विकिरण नहीं होता।"
+      }
+    },
+    {
+      "card": "mri_brain",
+      "ru": {
+        "q": "Магнит МРТ выключают на ночь?",
+        "a": "Нет. В большинстве аппаратов магнит сверхпроводящий и работает всегда, даже в пустом кабинете. Поэтому металл в кабинет нельзя заносить никогда."
+      },
+      "en": {
+        "q": "Is the MRI magnet switched off at night?",
+        "a": "No. In most scanners the magnet is superconducting and stays on all the time, even when the room is empty. That is why metal must never be taken into the room."
+      },
+      "kk": {
+        "q": "МРТ магнитін түнде өшіре ме?",
+        "a": "Жоқ. Көптеген аппараттарда магнит асқын өткізгіш және үнемі қосулы тұрады, кабинет бос болса да. Сондықтан кабинетке металл заттарды ешқашан алып кіруге болмайды."
+      },
+      "uz": {
+        "q": "MRT magniti kechasi o'chiriladimi?",
+        "a": "Yo'q. Aksariyat apparatlarda magnit o'ta o'tkazuvchan bo'lib, doim yoniq turadi, xona bo'sh bo'lsa ham. Shuning uchun xonaga hech qachon metall olib kirmang."
+      },
+      "es": {
+        "q": "¿Se apaga el imán de la resonancia por la noche?",
+        "a": "No. En la mayoría de los equipos el imán es superconductor y está siempre encendido, incluso con la sala vacía. Por eso nunca se debe llevar metal a la sala."
+      },
+      "pt": {
+        "q": "O ímã da ressonância é desligado à noite?",
+        "a": "Não. Na maioria dos aparelhos o ímã é supercondutor e fica sempre ligado, mesmo com a sala vazia. Por isso, nunca se deve levar metal para dentro da sala."
+      },
+      "ar": {
+        "q": "هل يُطفأ مغناطيس الرنين المغناطيسي في الليل؟",
+        "a": "لا. في معظم الأجهزة يكون المغناطيس فائق التوصيل ويبقى يعمل طوال الوقت، حتى عندما تكون الغرفة فارغة. لذلك يجب ألا يدخل أي معدن إلى الغرفة أبدًا."
+      },
+      "zh": {
+        "q": "核磁共振的磁体晚上会关掉吗？",
+        "a": "不会。大多数机器的磁体是超导磁体，一直处于工作状态，即使检查室里没有人也是如此。所以，任何金属物品都绝不能带进检查室。"
+      },
+      "ja": {
+        "q": "MRIの磁石は夜は止めるのですか？",
+        "a": "いいえ。ほとんどの装置では磁石は超伝導で、部屋が空でも常に働いています。そのため、金属を部屋に持ち込んではいけません。"
+      },
+      "ko": {
+        "q": "MRI 자석은 밤에 꺼두나요?",
+        "a": "아니요. 대부분의 장비에서 자석은 초전도 자석이라 검사실이 비어 있어도 항상 켜져 있습니다. 그래서 금속은 절대로 검사실에 들고 들어가면 안 됩니다."
+      },
+      "hi": {
+        "q": "क्या MRI का चुंबक रात में बंद किया जाता है?",
+        "a": "नहीं। ज़्यादातर मशीनों में चुंबक सुपरकंडक्टिंग होता है और हमेशा चालू रहता है, कमरा खाली हो तब भी। इसलिए धातु को कमरे में कभी नहीं ले जाना चाहिए।"
+      }
+    },
+    {
+      "card": "mri_brain",
+      "ru": {
+        "q": "Почему рядом с МРТ нельзя металл?",
+        "a": "Магнит в десятки тысяч раз сильнее магнитного поля Земли. Он с большой силой притягивает железные предметы и может сдвинуть или нагреть их. Поэтому всё металлическое остаётся за дверью."
+      },
+      "en": {
+        "q": "Why is metal not allowed near an MRI?",
+        "a": "The magnet is tens of thousands of times stronger than the Earth's magnetic field. It pulls iron objects with great force and can move or heat them. So everything metal stays outside the door."
+      },
+      "kk": {
+        "q": "МРТ жанында неге металл болмайды?",
+        "a": "Магнит Жердің магнит өрісінен ондаған мың есе күшті. Ол темір заттарды үлкен күшпен тартады, оларды жылжытып немесе қыздыруы мүмкін. Сондықтан барлық металл есіктің сыртында қалады."
+      },
+      "uz": {
+        "q": "MRT yonida nega metall mumkin emas?",
+        "a": "Magnit Yerning magnit maydonidan o'n minglab marta kuchliroq. U temir buyumlarni katta kuch bilan tortadi, ularni siljitishi yoki qizdirishi mumkin. Shuning uchun barcha metall narsalar eshik tashqarisida qoladi."
+      },
+      "es": {
+        "q": "¿Por qué no se permite el metal cerca de una resonancia magnética?",
+        "a": "El imán es decenas de miles de veces más fuerte que el campo magnético de la Tierra. Atrae los objetos de hierro con gran fuerza y puede moverlos o calentarlos. Por eso todo lo metálico se queda fuera de la puerta."
+      },
+      "pt": {
+        "q": "Por que não é permitido metal perto de uma ressonância magnética?",
+        "a": "O ímã é dezenas de milhares de vezes mais forte que o campo magnético da Terra. Ele atrai objetos de ferro com grande força e pode movê-los ou aquecê-los. Por isso, tudo o que é de metal fica do lado de fora da porta."
+      },
+      "ar": {
+        "q": "لماذا لا يُسمح بالمعادن قرب جهاز الرنين المغناطيسي؟",
+        "a": "المغناطيس أقوى بعشرات الآلاف من المرات من المجال المغناطيسي للأرض. يجذب الأجسام الحديدية بقوة كبيرة، وقد يحركها أو يسخّنها. لذلك تبقى كل الأشياء المعدنية خارج الباب."
+      },
+      "zh": {
+        "q": "为什么核磁共振设备附近不能有金属？",
+        "a": "这块磁体比地球磁场强几万倍。它会用很大的力量吸引铁制物品，还可能使其移动或发热。所以，所有金属物品都要留在门外。"
+      },
+      "ja": {
+        "q": "なぜMRIの近くに金属を持ち込めないのですか？",
+        "a": "この磁石は、地球の磁場の数万倍の強さがあります。鉄の物を強い力で引きつけ、動かしたり熱くしたりすることがあります。そのため、金属はすべてドアの外に置きます。"
+      },
+      "ko": {
+        "q": "MRI 근처에 왜 금속을 가져가면 안 되나요?",
+        "a": "이 자석은 지구 자기장보다 수만 배 강합니다. 철로 된 물건을 아주 큰 힘으로 끌어당기고, 움직이게 하거나 뜨겁게 만들 수 있습니다. 그래서 금속으로 된 것은 모두 문 밖에 둡니다."
+      },
+      "hi": {
+        "q": "MRI के पास धातु क्यों नहीं ले जा सकते?",
+        "a": "यह चुंबक पृथ्वी के चुंबकीय क्षेत्र से दसियों हज़ार गुना ज़्यादा मज़बूत होता है। यह लोहे की चीज़ों को बहुत ज़ोर से खींचता है और उन्हें हिला या गर्म कर सकता है। इसलिए हर धातु की चीज़ दरवाज़े के बाहर ही रहती है।"
+      }
+    },
+    {
+      "card": "mri_brain",
+      "ru": {
+        "q": "Зачем МРТ гелий?",
+        "a": "Катушки магнита охлаждают жидким гелием почти до минус 269 градусов. При таком холоде провод теряет сопротивление, и ток в магните идёт без остановки."
+      },
+      "en": {
+        "q": "Why does an MRI need helium?",
+        "a": "The magnet coils are cooled with liquid helium to almost minus 269 degrees Celsius. At that cold the wire loses its resistance, and the current in the magnet flows without stopping."
+      },
+      "kk": {
+        "q": "МРТ-ға неге гелий керек?",
+        "a": "Магнит катушкаларын сұйық гелиймен шамамен минус 269 градусқа дейін суытады. Мұндай суықта сымның кедергісі жоғалады, ал магниттегі ток тоқтамай жүре береді."
+      },
+      "uz": {
+        "q": "MRT uchun nega geliy kerak?",
+        "a": "Magnit g'altaklari suyuq geliy bilan deyarli minus 269 darajagacha sovutiladi. Bunday sovuqda simning qarshiligi yo'qoladi va magnitdagi tok to'xtamasdan oqadi."
+      },
+      "es": {
+        "q": "¿Por qué necesita helio una resonancia magnética?",
+        "a": "Las bobinas del imán se enfrían con helio líquido hasta casi menos 269 grados Celsius. Con ese frío, el cable pierde su resistencia y la corriente del imán circula sin detenerse."
+      },
+      "pt": {
+        "q": "Por que a ressonância magnética precisa de hélio?",
+        "a": "As bobinas do ímã são resfriadas com hélio líquido até quase menos 269 graus Celsius. Com esse frio, o fio perde a resistência e a corrente no ímã circula sem parar."
+      },
+      "ar": {
+        "q": "لماذا يحتاج جهاز الرنين المغناطيسي إلى الهيليوم؟",
+        "a": "تُبرَّد ملفات المغناطيس بالهيليوم السائل إلى ما يقارب 269 درجة مئوية تحت الصفر. عند هذه البرودة يفقد السلك مقاومته، ويمر التيار في المغناطيس دون توقف."
+      },
+      "zh": {
+        "q": "核磁共振为什么需要氦？",
+        "a": "磁体的线圈用液氦冷却到接近零下269摄氏度。在这样的低温下，导线失去电阻，磁体中的电流可以不停地流动。"
+      },
+      "ja": {
+        "q": "MRIにはなぜヘリウムが必要ですか？",
+        "a": "磁石のコイルは、液体ヘリウムでほぼマイナス269度まで冷やされます。それほど冷たくなると、導線の抵抗がなくなり、磁石の中の電流が止まらずに流れ続けます。"
+      },
+      "ko": {
+        "q": "MRI에는 왜 헬륨이 필요한가요?",
+        "a": "자석의 코일은 액체 헬륨으로 거의 영하 269도까지 냉각됩니다. 그렇게 차가워지면 전선의 저항이 사라져서, 자석 속의 전류가 멈추지 않고 계속 흐릅니다."
+      },
+      "hi": {
+        "q": "MRI में हीलियम की ज़रूरत क्यों होती है?",
+        "a": "चुंबक की कॉइल को तरल हीलियम से लगभग माइनस 269 डिग्री सेल्सियस तक ठंडा किया जाता है। इतनी ठंड में तार का प्रतिरोध खत्म हो जाता है, और चुंबक में करंट बिना रुके बहता रहता है।"
+      }
+    },
+    {
+      "card": "mri_brain",
+      "ru": {
+        "q": "Чем 1,5 Тесла отличается от 3 Тесла?",
+        "a": "Магнит на 3 Тесла вдвое сильнее, поэтому снимки мозга и суставов бывают чётче и быстрее. Для большинства обследований 1,5 Тесла вполне достаточно; какой аппарат нужен, решает врач."
+      },
+      "en": {
+        "q": "What is the difference between 1.5 and 3 Tesla?",
+        "a": "A 3 Tesla magnet is twice as strong, so brain and joint images can be sharper and faster. For most scans 1.5 Tesla is quite enough; your doctor decides which one you need."
+      },
+      "kk": {
+        "q": "1,5 және 3 Тесла арасында қандай айырмашылық бар?",
+        "a": "3 Тесла магнит екі есе күшті, сондықтан ми мен буындардың суреттері анығырақ әрі жылдамырақ болуы мүмкін. Көптеген зерттеулер үшін 1,5 Тесла жеткілікті; қандай аппарат керек екенін дәрігер шешеді."
+      },
+      "uz": {
+        "q": "1,5 va 3 Tesla o'rtasida qanday farq bor?",
+        "a": "3 Tesla magnit ikki baravar kuchli, shuning uchun miya va bo'g'imlarning tasvirlari aniqroq va tezroq bo'lishi mumkin. Ko'pchilik tekshiruvlar uchun 1,5 Tesla yetarli; qaysi apparat kerakligini shifokor hal qiladi."
+      },
+      "es": {
+        "q": "¿Cuál es la diferencia entre 1,5 y 3 Tesla?",
+        "a": "Un imán de 3 Tesla es el doble de potente, así que las imágenes del cerebro y de las articulaciones pueden ser más nítidas y más rápidas. Para la mayoría de los estudios, 1,5 Tesla es suficiente. Su médico decide cuál necesita."
+      },
+      "pt": {
+        "q": "Qual é a diferença entre 1,5 e 3 Tesla?",
+        "a": "Um ímã de 3 Tesla é duas vezes mais forte, então as imagens do cérebro e das articulações podem ser mais nítidas e mais rápidas. Para a maioria dos exames, 1,5 Tesla é suficiente. Seu médico decide qual aparelho você precisa."
+      },
+      "ar": {
+        "q": "ما الفرق بين 1.5 و3 تسلا؟",
+        "a": "مغناطيس 3 تسلا أقوى بمرتين، ولذلك قد تكون صور الدماغ والمفاصل أوضح وأسرع. في معظم الفحوصات يكفي 1.5 تسلا. والطبيب هو من يقرر أي جهاز تحتاجه."
+      },
+      "zh": {
+        "q": "1.5特斯拉和3特斯拉有什么区别？",
+        "a": "3特斯拉的磁体强度是前者的两倍，所以脑部和关节的图像可能更清晰、更快。对大多数检查来说，1.5特斯拉已经足够。需要哪一种，由医生决定。"
+      },
+      "ja": {
+        "q": "1.5テスラと3テスラの違いは何ですか？",
+        "a": "3テスラの磁石は2倍の強さがあるため、脳や関節の画像がより鮮明で、より速く撮れることがあります。ほとんどの検査では1.5テスラで十分です。どちらが必要かは、医師が決めます。"
+      },
+      "ko": {
+        "q": "1.5테슬라와 3테슬라는 무엇이 다른가요?",
+        "a": "3테슬라 자석은 두 배 강해서, 뇌와 관절 영상이 더 선명하고 더 빠르게 나올 수 있습니다. 대부분의 검사에는 1.5테슬라로 충분합니다. 어떤 장비가 필요한지는 의사가 정합니다."
+      },
+      "hi": {
+        "q": "1.5 और 3 टेस्ला में क्या फ़र्क है?",
+        "a": "3 टेस्ला का चुंबक दोगुना मज़बूत होता है, इसलिए दिमाग़ और जोड़ों की तस्वीरें ज़्यादा साफ़ और तेज़ आ सकती हैं। ज़्यादातर जाँचों के लिए 1.5 टेस्ला काफ़ी है। आपको कौन सी मशीन चाहिए, यह आपके डॉक्टर तय करते हैं।"
+      }
+    },
+    {
+      "card": "mri_brain",
+      "ru": {
+        "q": "Почему в МРТ становится тепло?",
+        "a": "Радиоволны немного нагревают ткани. Аппарат рассчитывает это по вашему весу и не превышает безопасный предел, поэтому называйте точный вес. Лёгкое тепло — это нормально."
+      },
+      "en": {
+        "q": "Why do I feel warm in the MRI?",
+        "a": "The radio waves warm the tissues slightly. The scanner calculates this from your weight and stays under a safe limit, so give your correct weight. Mild warmth is normal."
+      },
+      "kk": {
+        "q": "МРТ кезінде неге жылы болады?",
+        "a": "Радиотолқындар тіндерді сәл қыздырады. Аппарат мұны салмағыңыз бойынша есептейді және қауіпсіз шектен аспайды, сондықтан салмағыңызды дәл айтыңыз. Жеңіл жылулық сезім қалыпты нәрсе."
+      },
+      "uz": {
+        "q": "MRT paytida nega issiq bo'ladi?",
+        "a": "Radioto'lqinlar to'qimalarni biroz qizdiradi. Apparat buni vazningizga qarab hisoblaydi va xavfsiz chegaradan oshmaydi, shuning uchun vazningizni aniq ayting. Yengil issiqlik sezish normal holat."
+      },
+      "es": {
+        "q": "¿Por qué siento calor durante la resonancia magnética?",
+        "a": "Las ondas de radio calientan un poco los tejidos. El equipo lo calcula según su peso y no supera un límite seguro, así que indique su peso correcto. Sentir un leve calor es normal."
+      },
+      "pt": {
+        "q": "Por que sinto calor durante a ressonância magnética?",
+        "a": "As ondas de rádio aquecem um pouco os tecidos. O aparelho calcula isso pelo seu peso e não ultrapassa um limite seguro, então informe o seu peso correto. Sentir um calor leve é normal."
+      },
+      "ar": {
+        "q": "لماذا أشعر بالدفء أثناء الرنين المغناطيسي؟",
+        "a": "تُسخّن الموجات الراديوية الأنسجة قليلًا. يحسب الجهاز ذلك وفق وزنك، ولا يتجاوز حدًّا آمنًا، لذلك أخبر الفني بوزنك الصحيح. الشعور بدفء خفيف أمر طبيعي."
+      },
+      "zh": {
+        "q": "做核磁共振时为什么会觉得热？",
+        "a": "无线电波会使组织稍微变热。机器根据您的体重计算这一点，并且不会超过安全限值，所以请说出您准确的体重。感到轻微的温热是正常的。"
+      },
+      "ja": {
+        "q": "MRIの最中になぜ温かく感じるのですか？",
+        "a": "電波が体の組織を少し温めるためです。装置はあなたの体重から計算し、安全な限度を超えないようにしています。そのため、正確な体重を伝えてください。軽い温かさは普通のことです。"
+      },
+      "ko": {
+        "q": "MRI를 찍을 때 왜 따뜻하게 느껴지나요?",
+        "a": "전파가 조직을 조금 데우기 때문입니다. 장비는 체중을 기준으로 이를 계산하고 안전한 한도를 넘지 않습니다. 그러니 정확한 체중을 알려 주세요. 약간 따뜻한 느낌은 정상입니다."
+      },
+      "hi": {
+        "q": "MRI में गर्मी क्यों महसूस होती है?",
+        "a": "रेडियो तरंगें ऊतकों को थोड़ा गर्म करती हैं। मशीन इसे आपके वज़न के हिसाब से तय करती है और सुरक्षित सीमा से ऊपर नहीं जाती, इसलिए अपना सही वज़न बताएँ। हल्की गर्मी महसूस होना सामान्य है।"
+      }
+    },
+    {
+      "card": "ct_head",
+      "ru": {
+        "q": "Почему КТ делается так быстро?",
+        "a": "Рентгеновская трубка с детекторами вращается вокруг вас быстрее раза в секунду, а стол плавно едет. Всё тело снимают за секунды; главное — не двигаться и задерживать дыхание по команде."
+      },
+      "en": {
+        "q": "Why is a CT scan so fast?",
+        "a": "The X-ray tube and detectors spin around you more than once a second while the table moves smoothly. The whole body can be scanned in seconds; just keep still and hold your breath when asked."
+      },
+      "kk": {
+        "q": "КТ неге соншалықты жылдам жасалады?",
+        "a": "Рентген түтігі детекторлармен бірге сіздің айналаңызда секундына бір реттен жылдамырақ айналады, ал үстел бірқалыпты жылжиды. Бүкіл денені секундтар ішінде түсіреді. Басты нәрсе — қозғалмау және команда бойынша тынысты ұстау."
+      },
+      "uz": {
+        "q": "KT nega bunchalik tez bajariladi?",
+        "a": "Rentgen trubkasi detektorlar bilan birga atrofingizda sekundiga bir martadan tezroq aylanadi, stol esa silliq harakatlanadi. Butun tanani soniyalar ichida suratga olish mumkin. Asosiysi — qimirlamay yotish va buyruq bo'yicha nafasni ushlab turish."
+      },
+      "es": {
+        "q": "¿Por qué una tomografía (TC) es tan rápida?",
+        "a": "El tubo de rayos X y los detectores giran a su alrededor más de una vez por segundo, mientras la camilla se mueve con suavidad. Todo el cuerpo se puede explorar en segundos. Solo debe quedarse quieto y contener la respiración cuando se lo pidan."
+      },
+      "pt": {
+        "q": "Por que a tomografia (TC) é tão rápida?",
+        "a": "O tubo de raios X e os detectores giram ao seu redor mais de uma vez por segundo, enquanto a mesa se move suavemente. O corpo inteiro pode ser examinado em segundos. Basta ficar parado e prender a respiração quando for pedido."
+      },
+      "ar": {
+        "q": "لماذا يكون التصوير بالأشعة المقطعية سريعًا جدًا؟",
+        "a": "تدور أنبوبة الأشعة السينية مع الكواشف حولك أكثر من مرة في الثانية، بينما تتحرك الطاولة بسلاسة. يمكن تصوير الجسم كله في ثوانٍ. المهم أن تبقى ثابتًا وأن تحبس أنفاسك عندما يُطلب منك ذلك."
+      },
+      "zh": {
+        "q": "CT检查为什么这么快？",
+        "a": "X射线管和探测器围绕您旋转，每秒超过一圈，同时检查床平稳移动。整个身体几秒钟就能扫描完。您只需要保持不动，并在被要求时屏住呼吸。"
+      },
+      "ja": {
+        "q": "CT検査はなぜこんなに速いのですか？",
+        "a": "X線管と検出器が、1秒に1回より速く体のまわりを回り、その間ベッドがなめらかに動きます。全身を数秒で撮影できます。大切なのは、動かないことと、合図で息を止めることです。"
+      },
+      "ko": {
+        "q": "CT는 왜 이렇게 빠른가요?",
+        "a": "엑스선관과 검출기가 1초에 한 바퀴보다 빠르게 몸 주위를 돌고, 그동안 검사대가 부드럽게 움직입니다. 온몸을 몇 초 만에 촬영할 수 있습니다. 가만히 있고, 안내에 따라 숨을 참기만 하면 됩니다."
+      },
+      "hi": {
+        "q": "सीटी स्कैन इतना तेज़ क्यों होता है?",
+        "a": "एक्स-रे ट्यूब और डिटेक्टर आपके चारों ओर एक सेकंड में एक बार से भी ज़्यादा घूमते हैं, और मेज़ आराम से आगे बढ़ती है। पूरे शरीर का स्कैन कुछ सेकंड में हो सकता है। आपको बस स्थिर रहना है और कहने पर साँस रोकनी है।"
+      }
+    },
+    {
+      "card": "xr_chest",
+      "ru": {
+        "q": "Почему лаборант выходит из кабинета во время рентгена?",
+        "a": "Ваш снимок длится доли секунды, а лаборант делает десятки снимков в день. Чтобы не набирать дозу каждый раз, он стоит за защитой. Для вас одна такая доза небольшая."
+      },
+      "en": {
+        "q": "Why does the radiographer leave the room during an X-ray?",
+        "a": "Your X-ray lasts a fraction of a second, but the radiographer takes dozens of images a day. To avoid collecting a dose every time, they stand behind protection. For you, one such dose is small."
+      },
+      "kk": {
+        "q": "Рентген кезінде рентген лаборанты неге кабинеттен шығады?",
+        "a": "Сіздің суретіңіз секундтың бір бөлігінде ғана түсіріледі, ал рентген лаборанты күніне ондаған түсірілім жасайды. Әр жолы сәуле дозасын жинамау үшін ол қорғаныстың артында тұрады. Сіз үшін осындай бір доза аз."
+      },
+      "uz": {
+        "q": "Rentgen paytida rentgen laboranti nega xonadan chiqib ketadi?",
+        "a": "Sizning suratingiz soniyaning bir bo'lagi davom etadi, rentgen laboranti esa kuniga o'nlab surat oladi. Har safar doza yig'maslik uchun u himoya ortida turadi. Siz uchun bunday bitta doza kichik."
+      },
+      "es": {
+        "q": "¿Por qué el técnico de radiología sale de la sala durante una radiografía?",
+        "a": "Su radiografía dura una fracción de segundo, pero el técnico de radiología toma decenas de imágenes al día. Para no acumular una dosis cada vez, se coloca detrás de una protección. Para usted, una dosis así es pequeña."
+      },
+      "pt": {
+        "q": "Por que o técnico de radiologia sai da sala durante um raio X?",
+        "a": "O seu raio X dura uma fração de segundo, mas o técnico de radiologia faz dezenas de imagens por dia. Para não acumular dose a cada vez, ele fica atrás de uma proteção. Para você, uma dose assim é pequena."
+      },
+      "ar": {
+        "q": "لماذا يخرج فني الأشعة من الغرفة أثناء التصوير بالأشعة السينية؟",
+        "a": "يستغرق تصويرك جزءًا من الثانية، لكن فني الأشعة يلتقط عشرات الصور في اليوم. ولكي لا يتلقى جرعة في كل مرة، يقف خلف حاجز واقٍ. أما بالنسبة لك، فجرعة واحدة كهذه صغيرة."
+      },
+      "zh": {
+        "q": "拍X光片时，放射技师为什么要离开房间？",
+        "a": "您的X光拍摄只持续一瞬间，但放射技师每天要拍几十张。为了避免每次都受到辐射剂量，他们会站在防护屏后面。对您来说，一次这样的剂量很小。"
+      },
+      "ja": {
+        "q": "X線撮影のとき、診療放射線技師はなぜ部屋から出るのですか？",
+        "a": "あなたの撮影は一瞬で終わりますが、診療放射線技師は1日に何十枚も撮影します。毎回被ばくしないように、防護の後ろに立ちます。あなたにとっては、1回分の線量はわずかです。"
+      },
+      "ko": {
+        "q": "엑스선 촬영 중에 방사선사는 왜 방에서 나가나요?",
+        "a": "환자분의 촬영은 아주 짧은 순간이지만, 방사선사는 하루에 수십 장을 찍습니다. 매번 방사선을 받지 않도록 방호 장치 뒤에 서 있습니다. 환자분에게는 이런 한 번의 선량은 적습니다."
+      },
+      "hi": {
+        "q": "एक्स-रे के दौरान रेडियोग्राफर कमरे से बाहर क्यों चले जाते हैं?",
+        "a": "आपका एक्स-रे सेकंड के एक छोटे से हिस्से का होता है, लेकिन रेडियोग्राफर दिन में दर्जनों एक्स-रे लेते हैं। हर बार विकिरण की मात्रा जमा न हो, इसलिए वे सुरक्षा के पीछे खड़े होते हैं। आपके लिए ऐसी एक खुराक छोटी होती है।"
+      }
+    }
+  ]
+}

@@ -16,12 +16,13 @@ sys.path.insert(0, str(HERE.parent / "cards"))
 import build  # noqa: E402
 from strings import VOICE  # noqa: E402
 
-LANGS = ["ru", "en", "es", "pt", "kk", "ar", "zh", "ja", "ko"]
+LANGS = ["ru", "en", "es", "pt", "kk", "ar", "zh", "ja", "ko", "hi", "uz"]
 CTA = {"ru": "Подробно — в полном видео, ссылка в описании.", "en": "More in the full video, link in the description.",
        "kk": "Толығырақ — толық бейнеде, сілтеме сипаттамада.", "es": "Más detalles en el video completo, enlace en la descripción.",
        "pt": "Mais detalhes no vídeo completo, link na descrição.", "ar": "التفاصيل في الفيديو الكامل، الرابط في الوصف.",
        "zh": "更多内容请看完整视频，链接在简介里。", "ja": "くわしくはフル動画で。リンクは概要欄にあります。",
-       "ko": "자세한 내용은 전체 영상에서, 링크는 설명란에 있어요."}
+       "ko": "자세한 내용은 전체 영상에서, 링크는 설명란에 있어요.",
+       "hi": "पूरी जानकारी पूरे वीडियो में, लिंक विवरण में है।", "uz": "Batafsil — to‘liq videoda, havola tavsifda."}
 INK = "#2D4A7A"
 
 

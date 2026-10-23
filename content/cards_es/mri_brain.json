@@ -73,6 +73,30 @@
   {
    "q": "¿La resonancia hace daño?",
    "a": "No hay radiación. Para la mayoría de las personas es segura; lo importante es contarle al médico con sinceridad sobre metales e implantes."
+  },
+  {
+   "q": "¿Cómo funciona una resonancia magnética?",
+   "a": "Dentro del equipo hay un imán potente. Alinea el hidrógeno del agua de su cuerpo. Las ondas de radio lo desordenan por un momento y, cuando vuelve a su sitio, el equipo capta una señal débil y con ella forma la imagen. No hay radiación de rayos X."
+  },
+  {
+   "q": "¿Se apaga el imán de la resonancia por la noche?",
+   "a": "No. En la mayoría de los equipos el imán es superconductor y está siempre encendido, incluso con la sala vacía. Por eso nunca se debe llevar metal a la sala."
+  },
+  {
+   "q": "¿Por qué no se permite el metal cerca de una resonancia magnética?",
+   "a": "El imán es decenas de miles de veces más fuerte que el campo magnético de la Tierra. Atrae los objetos de hierro con gran fuerza y puede moverlos o calentarlos. Por eso todo lo metálico se queda fuera de la puerta."
+  },
+  {
+   "q": "¿Por qué necesita helio una resonancia magnética?",
+   "a": "Las bobinas del imán se enfrían con helio líquido hasta casi menos 269 grados Celsius. Con ese frío, el cable pierde su resistencia y la corriente del imán circula sin detenerse."
+  },
+  {
+   "q": "¿Cuál es la diferencia entre 1,5 y 3 Tesla?",
+   "a": "Un imán de 3 Tesla es el doble de potente, así que las imágenes del cerebro y de las articulaciones pueden ser más nítidas y más rápidas. Para la mayoría de los estudios, 1,5 Tesla es suficiente. Su médico decide cuál necesita."
+  },
+  {
+   "q": "¿Por qué siento calor durante la resonancia magnética?",
+   "a": "Las ondas de radio calientan un poco los tejidos. El equipo lo calcula según su peso y no supera un límite seguro, así que indique su peso correcto. Sentir un leve calor es normal."
   }
  ],
  "reminders": [

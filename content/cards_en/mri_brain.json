@@ -74,6 +74,30 @@
   {
    "q": "Is an MRI harmful?",
    "a": "There is no radiation. For most people, MRI is safe. The key is to tell the doctor honestly about any metal and implants."
+  },
+  {
+   "q": "How does an MRI work?",
+   "a": "Inside the scanner is a strong magnet. It lines up the hydrogen in the water of your body, radio waves briefly knock it out of line, and as it settles back the scanner picks up a faint signal and builds the image from it. There is no X-ray radiation."
+  },
+  {
+   "q": "Is the MRI magnet switched off at night?",
+   "a": "No. In most scanners the magnet is superconducting and stays on all the time, even when the room is empty. That is why metal must never be taken into the room."
+  },
+  {
+   "q": "Why is metal not allowed near an MRI?",
+   "a": "The magnet is tens of thousands of times stronger than the Earth's magnetic field. It pulls iron objects with great force and can move or heat them. So everything metal stays outside the door."
+  },
+  {
+   "q": "Why does an MRI need helium?",
+   "a": "The magnet coils are cooled with liquid helium to almost minus 269 degrees Celsius. At that cold the wire loses its resistance, and the current in the magnet flows without stopping."
+  },
+  {
+   "q": "What is the difference between 1.5 and 3 Tesla?",
+   "a": "A 3 Tesla magnet is twice as strong, so brain and joint images can be sharper and faster. For most scans 1.5 Tesla is quite enough; your doctor decides which one you need."
+  },
+  {
+   "q": "Why do I feel warm in the MRI?",
+   "a": "The radio waves warm the tissues slightly. The scanner calculates this from your weight and stays under a safe limit, so give your correct weight. Mild warmth is normal."
   }
  ],
  "reminders": [

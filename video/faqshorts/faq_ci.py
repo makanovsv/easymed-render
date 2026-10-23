@@ -23,6 +23,9 @@ for f in sorted((C / "cards").glob("*.json")):
         for lang in faq.LANGS:
             if lang == "ru" or (C / f"cards_{lang}" / f.name).exists():
                 items.append((f.stem, lang, k))
+only = set((HERE / "only.txt").read_text().split()) if (HERE / "only.txt").exists() else None  # партия: только эти имена
+if only:
+    items = [x for x in items if f"{x[0]}_{x[2]}_{x[1]}" in only]
 mine = [x for i, x in enumerate(items) if i % T == N and f"{x[0]}_{x[2]}_{x[1]}" not in done]
 out = HERE / "dist"
 out.mkdir(exist_ok=True)
