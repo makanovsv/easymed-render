@@ -1,0 +1,76 @@
+{
+ "title": "Qon glyukozasi",
+ "also": [
+  "qon shakari",
+  "shakarga tahlil",
+  "och qoringa glyukoza"
+ ],
+ "what": "Tahlil hozir qonda qancha shakar borligini ko‘rsatadi. Qon venadan yoki barmoqdan olinadi.",
+ "why": "Diabetni tekshirish uchun, chanqoq, tez-tez siyish, holsizlikda, tibbiy ko‘rikda, davolash nazorati uchun.",
+ "duration": "qon olish — 2–5 daqiqa, natija odatda o‘sha kuni yoki ertasi kuni",
+ "tell_doctor": [
+  "Diabetingiz bo‘lsa va tabletka yoki insulin ichsangiz — shifokorga ayting, ertalab nima qilishni u hal qiladi",
+  "Homilador bo‘lsangiz",
+  "Yaqinda kasal bo‘lgan bo‘lsangiz yoki gormon ichayotgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Qat’iy och qoringa: odatda 8–14 soat ovqatsiz. Oddiy suv ichish mumkin."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Oddiy kechki ovqat, ortiqcha yemasdan va alkogolsiz. Tahlildan bir necha kun oldin ovqatlanishni o‘zgartirmang."
+  },
+  {
+   "title": "Ertalab",
+   "text": "Chekmang, saqich chaynamang, shirin, choy va kofe ichmang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Diabetda tahlil kuni dorilarni qanday ichishni shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Tahlildan keyin darrov yeyish uchun ovqat, ayniqsa diabetda"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz stolchaga qo‘yiladi",
+  "Teri antiseptik bilan artiladi",
+  "Venaga yoki barmoqqa qisqa ukol",
+  "Qon probirkaga olinadi",
+  "Joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol"
+ ],
+ "after": [
+  "Tahlildan keyin darrov ovqatlansangiz bo‘ladi",
+  "Natijani shifokor baholaydi — shubha bo‘lsa, tahlil takrorlanadi yoki boshqalari buyuriladi"
+ ],
+ "red_flags": [
+  "Diabetda: och qoringa titroq, sovuq ter, chalkashlik paydo bo‘lsa — shakar yeng va hamshiraga ayting"
+ ],
+ "faq": [
+  {
+   "q": "Shakar tahlilidan oldin tish yuvsa bo‘ladimi?",
+   "a": "Odatda pastasiz yoki shakarsiz pasta bilan yaxshiroq. Bu mayda narsa, lekin ba’zi laboratoriyalar so‘raydi."
+  },
+  {
+   "q": "Barmoqdan va venadan shakar bir xilmi?",
+   "a": "Deyarli, lekin raqamlar biroz farq qiladi. Tashxis qo‘yishda shifokorlar ko‘pincha venadan qonga qaraydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga shakar tahlili. Kechki ovqatdan keyin boshqa yemang, suv ichish mumkin."
+  },
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada shakar tahlili. Hech narsa yemang, shirin ichmang. Keyin uchun ovqat oling."
+  }
+ ]
+}

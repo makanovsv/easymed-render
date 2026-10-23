@@ -1,0 +1,87 @@
+{
+ "title": "Bachadon ichiga spiral qo‘yish",
+ "also": [
+  "BIS",
+  "spiral",
+  "bachadon ichi kontratseptsiyasi"
+ ],
+ "what": "Ginekolog bachadonga homiladorlikdan himoya qiladigan kichik egiluvchan spiral kiritadi. Spirallar mis va gormonal bo‘ladi.",
+ "why": "Homiladorlikdan uzoq va ishonchli himoya uchun. Gormonal spiral ba’zan ko‘p hayz ko‘rishda qo‘yiladi.",
+ "duration": "qo‘yishning o‘zi odatda 5–10 daqiqa, butun qabul taxminan 30 daqiqa",
+ "tell_doctor": [
+  "So‘nggi hayz boshlangan sanani",
+  "So‘nggi hayzdan keyin himoyasiz jinsiy aloqa bo‘lganmi",
+  "Infeksiyalar va ajralmalar, qorin pastida og‘riq",
+  "Misga yoki dorilarga allergiya",
+  "Kesarcha kesish yo‘li bilan tug‘ruq yoki bachadonda operatsiyalar bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tekshiruv",
+   "text": "Odatda qo‘yishdan oldin — ko‘rik, infeksiyalarga surtmalar, ba’zan UTT. Ro‘yxatni shifokor beradi."
+  },
+  {
+   "title": "Sikl kuni",
+   "text": "Ko‘pincha hayz paytida yoki undan keyin darrov qo‘yiladi. Homiladorlik istisno qilingan bo‘lsa, boshqa kunlarda ham mumkin. Shifokordan aniqlab oling."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Muolajadan taxminan bir soat oldin og‘riq qoldiruvchi ichish mumkinmi, shifokordan so‘rang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Qabuldan oldin ovqatlaning — och qoringa boshingiz aylanishi mumkin."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va surtma natijalari",
+  "Prokladkalar",
+  "Spiral, agar klinika uni oldindan sotib olishni so‘ragan bo‘lsa"
+ ],
+ "steps": [
+  "Siz ginekologik kresloga o‘tirasiz, shifokor ko‘rik o‘tkazadi",
+  "Ko‘zgu kiritiladi va bachadon bo‘yni antiseptik bilan artiladi",
+  "Bachadon bo‘yni asbob bilan ehtiyotkorlik bilan mahkamlanadi",
+  "Ingichka zond bilan bachadon chuqurligi o‘lchanadi",
+  "Spiral ingichka naycha orqali kiritiladi, ichkarida ochiladi",
+  "Spiral iplari qirqiladi, ular qin ichida qoladi"
+ ],
+ "feel": [
+  "Ko‘zgudan bosim hissi",
+  "Og‘riqli hayzdagi kabi bir necha kuchli spazm — soniyalar davom etadi",
+  "Ba’zan holsizlik yoki bosh aylanishi — bir necha daqiqa yoting"
+ ],
+ "after": [
+  "Bir necha kun spazmlar va oz-moz ajralmalar — bu normal",
+  "Jinsiy aloqa va tamponlar — odatda bir necha kundan keyin, muddatni shifokor aytadi",
+  "Nazorat ko‘rigi — odatda 4–6 haftadan keyin yoki birinchi hayzdan so‘ng",
+  "Hayzdan keyin iplarni tekshirishni o‘rganing — shifokor qanday qilishni ko‘rsatadi"
+ ],
+ "red_flags": [
+  "Qorin pastida kuchli og‘riq, og‘riq qoldiruvchidan keyin ham o‘tmasa",
+  "Harorat 38 dan yuqori, yoqimsiz hidli ajralmalar",
+  "Kuchli qon ketishi",
+  "Iplar sezilmasa yoki spiralning qattiq uchi seziladigan bo‘lsa",
+  "Homiladorlik belgilari — darrov ginekologga boring"
+ ],
+ "faq": [
+  {
+   "q": "Spiral qo‘yish og‘riydimi?",
+   "a": "Odatda soniyalarga cho‘ziladigan bir necha kuchli spazm bo‘ladi. Ko‘pchilik buni og‘riqli hayz kabi o‘tkazadi. Og‘riqdan qo‘rqsangiz, shifokorga ayting."
+  },
+  {
+   "q": "Spiral qachondan himoya qila boshlaydi?",
+   "a": "Misli — darrov. Gormonal — darrov yoki 7 kundan keyin, sikl kuniga qarab. Shifokordan aniqlab oling."
+  },
+  {
+   "q": "Spiral tushib ketishi mumkinmi?",
+   "a": "Ba’zan ha, ko‘proq dastlabki oylarda. Shuning uchun iplarni tekshirish va nazorat ko‘rigiga kelish muhim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga spiral qo‘yiladi. Prokladkalar va surtma natijalarini olib keling. Qabuldan oldin ovqatlaning."
+  }
+ ]
+}

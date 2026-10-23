@@ -1,0 +1,72 @@
+{
+ "title": "Shingles vaccine",
+ "also": [
+  "shingles vaccine",
+  "shingles shot",
+  "herpes zoster vaccine",
+  "zoster vaccine"
+ ],
+ "what": "A vaccine shot that lowers the risk of shingles and the severe pain that can follow. Usually 2 shots are given.",
+ "why": "For people over 50 and adults with weakened immunity, as advised by a doctor.",
+ "duration": "the shot takes a few seconds; with the check-up usually 15 to 40 minutes; the second shot is usually 2 to 6 months later",
+ "tell_doctor": [
+  "If you are sick now or have a fever",
+  "Allergies and strong reactions to past vaccines",
+  "If you receive treatment that lowers immunity",
+  "If you recently had shingles"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "The vaccine is given when you are healthy. You will be examined before the shot."
+  },
+  {
+   "title": "Schedule",
+   "text": "The course is usually 2 shots. Write down the date of the second."
+  },
+  {
+   "title": "After the shot",
+   "text": "Many people feel weak for 1 to 2 days. It is better not to plan important things for the next day."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "The vaccination certificate or record"
+ ],
+ "steps": [
+  "A doctor or nurse asks how you feel and takes your temperature",
+  "You uncover your shoulder",
+  "The skin is wiped and the shot is given",
+  "The vaccine is recorded in the documents",
+  "After the shot, sit at the clinic for about 30 minutes"
+ ],
+ "feel": [
+  "A quick shot",
+  "Often the spot aches and turns red for 1 to 3 days",
+  "Sometimes weakness, body aches, chills or fever. It passes on its own"
+ ],
+ "after": [
+  "Stay near the office for 30 minutes",
+  "You can go back to your usual activities",
+  "Do not forget the second shot"
+ ],
+ "red_flags": [
+  "Trouble breathing, swelling of the face or throat, a rash all over: call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Do I need the vaccine if I already had shingles?",
+   "a": "Often yes, shingles can come back. The doctor will say when to get it."
+  },
+  {
+   "q": "Do I need it if I had chickenpox?",
+   "a": "Yes. Shingles is caused by the same virus as chickenpox."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Shingles vaccine tomorrow. Bring your vaccination record."
+  }
+ ]
+}

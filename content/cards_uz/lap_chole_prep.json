@@ -1,0 +1,82 @@
+{
+ "title": "Laparoskopiyaga tayyorgarlik",
+ "also": [
+  "laparoskopik operatsiyaga tayyorgarlik",
+  "laparoskopiyadan oldin nima kerak",
+  "teshiklar orqali operatsiyadan oldin"
+ ],
+ "what": "Qorindagi kichik teshiklar orqali qilinadigan operatsiyaga qanday tayyorlanish haqida eslatma: tahlillar, ovqat, dorilar, buyumlar.",
+ "why": "Sizga laparoskopiya buyurilganda — masalan, o‘t pufagini, churrani olib tashlash yoki ginekologdagi operatsiya.",
+ "duration": "tayyorgarlik odatda bir necha kundan 2 haftagacha vaqt oladi",
+ "tell_doctor": [
+  "Barcha dorilarni, ayniqsa qonni suyultiruvchi va diabet uchun dorilarni — shifokor nimani va qachon bekor qilishni aytadi",
+  "Dorilarga, lateksga, plastirga allergiyalar",
+  "Yurak, o‘pka kasalliklari, diabet, qon bosimi",
+  "Sizda yoki qarindoshlaringizda behushlikda muammolar bo‘lganmi",
+  "Operatsiya oldidan shamollab qolsangiz yoki harorat ko‘tarilsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Qon va siydik tahlillari, EKG, flyuorografiya, ba’zan terapevt ko‘rigi. Ro‘yxat va tahlillarning yaroqlilik muddatini klinikadan aniqlab oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Shifokor operatsiya kuni qaysilarini ichish va qaysilarini vaqtincha bekor qilishni aytadi."
+  },
+  {
+   "title": "Ovqat va ichimlik",
+   "text": "Odatda kechdan boshlab ovqat yemaslik, bir necha soat oldin ichmaslik kerak. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Teri",
+   "text": "Bir kun oldin dush qabul qiling. Klinika so‘ramasa, qorindagi tuklarni olish shart emas."
+  },
+  {
+   "title": "Chekish",
+   "text": "Operatsiyadan kamida bir necha kun oldin chekmaslik ma’qul — behushlikdan keyin nafas olish yengilroq bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va barcha tahlillar",
+  "Hujjatlar va dorilar ro‘yxati",
+  "Qulay kiyim, tapochka, zaryadlovchi",
+  "O‘zingizning doimiy dorilaringiz"
+ ],
+ "steps": [
+  "Klinika ro‘yxati bo‘yicha tahlillar topshirasiz va ko‘riklardan o‘tasiz",
+  "Natijalarni jarrohga olib borasiz",
+  "Bir kun oldin — anesteziolog bilan suhbat",
+  "Kechqurun yengil kechki ovqat va dush",
+  "Ertalab hech narsa yemaysiz, faqat ruxsat berilganini ichasiz",
+  "Belgilangan vaqtda kasalxonaga kelasiz"
+ ],
+ "feel": [
+  "Operatsiyadan oldin xavotir bo‘lishi normal, bu haqida shifokorga ayting",
+  "Operatsiya kuni och qolish — uzoq emas"
+ ],
+ "after": [
+  "Odatda turishga operatsiya kuni yoki ertasi kuni ruxsat berishadi",
+  "Teshiklardagi va gazdan yelkadagi og‘riq bir necha kunda o‘tadi",
+  "Odatda bir necha hafta og‘ir ishlarsiz — muddatni jarroh aytadi"
+ ],
+ "red_flags": [
+  "Operatsiya oldidan harorat, yo‘tal yoki burun oqishi — klinikaga xabar bering, operatsiyani ko‘chirishlari mumkin"
+ ],
+ "faq": [
+  {
+   "q": "Nega operatsiyadan oldin ovqat yeyish mumkin emas?",
+   "a": "Behushlik paytida oshqozon tarkibi o‘pkaga tushib ketmasligi uchun. Bu xavfsizlik uchun muhim."
+  },
+  {
+   "q": "Ertalab o‘z tabletkalarimni ichsam bo‘ladimi?",
+   "a": "Faqat shifokor ruxsat bergan dorilarni, bir ho‘plam suv bilan. Oldindan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga operatsiya. Kechki ovqatdan keyin yemang, ichish — klinika aytgan vaqtgacha. Hujjat va buyumlarni yig‘ib qo‘ying."
+  }
+ ]
+}

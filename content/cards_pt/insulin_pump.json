@@ -1,0 +1,85 @@
+{
+ "title": "Bomba de insulina: colocação e troca do cateter",
+ "also": [
+  "bomba de insulina",
+  "troca do cateter da bomba",
+  "conjunto de infusão",
+  "colocar bomba de insulina",
+  "sistema de infusão contínua de insulina"
+ ],
+ "what": "A bomba é um aparelho pequeno que aplica insulina aos pouquinhos, embaixo da pele, por um tubinho fino. O cateter na pele é trocado pela própria pessoa a cada poucos dias.",
+ "why": "No diabetes, quando o médico decidiu trocar as injeções pela bomba.",
+ "duration": "a troca do cateter leva normalmente 10 a 15 minutos; o primeiro treinamento na clínica leva algumas horas",
+ "tell_doctor": [
+  "Se a glicose fica baixa ou alta demais com frequência",
+  "Se nos locais do cateter aparecem vermelhidão ou caroços",
+  "Se você enxerga mal a tela da bomba ou tem dificuldade com peças pequenas",
+  "Se planeja viagem, esporte ou gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Treinamento",
+   "text": "A primeira colocação e a configuração normalmente são feitas com o médico ou a enfermeira. As doses, só o médico define."
+  },
+  {
+   "title": "Estoque",
+   "text": "Tenha em casa cateteres, reservatórios, pilhas e uma caneta de insulina para o caso de a bomba quebrar."
+  },
+  {
+   "title": "Hora da troca",
+   "text": "Troque o cateter de dia, quando puder medir a glicose 2 a 3 horas depois. Não antes de dormir."
+  },
+  {
+   "title": "Limpeza",
+   "text": "Lave as mãos e prepare o antisséptico e tudo o que precisa numa mesa limpa."
+  }
+ ],
+ "bring": [
+  "A bomba e um conjunto de infusão novo",
+  "Reservatório e insulina",
+  "Glicosímetro",
+  "Diário da glicose ou aplicativo"
+ ],
+ "steps": [
+  "Lave as mãos e confira a validade da insulina e do conjunto",
+  "Encha o reservatório novo de insulina, sem bolhas de ar",
+  "Coloque o reservatório na bomba e encha o tubinho como ensinaram, até sair uma gota na ponta",
+  "Escolha um local novo na barriga ou em outro lugar, longe do anterior",
+  "Passe antisséptico na pele e espere secar",
+  "Coloque o cateter com o aplicador e retire a agulha-guia",
+  "Preencha a cânula pelo menu da bomba, se o seu modelo pedir",
+  "Depois de 2 a 3 horas, meça a glicose"
+ ],
+ "feel": [
+  "Uma picada rápida ao colocar o cateter",
+  "Nos primeiros dias, a bomba no corpo é estranha. Depois quase não se percebe"
+ ],
+ "after": [
+  "Troque o cateter normalmente a cada 2 a 3 dias. O prazo está na bula do conjunto",
+  "Anote a troca do conjunto e a glicose",
+  "Tenha sempre com você algo doce e a caneta de insulina de reserva",
+  "Mostre os dados da bomba ao médico com regularidade"
+ ],
+ "red_flags": [
+  "Glicose alta que não baixa depois da correção: troque o cateter e ligue para o médico",
+  "Enjoo, vômito, hálito de acetona, muita sede: procure o médico com urgência; se piorar, ligue para a emergência",
+  "Vermelhidão, dor ou pus no local do cateter",
+  "Pessoa desmaiada ou com convulsão: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso tomar banho com a bomba?",
+   "a": "Normalmente a bomba é desconectada durante o banho. Se ela pode ir na água, está na bula do seu modelo."
+  },
+  {
+   "q": "O que fazer se a bomba quebrar?",
+   "a": "Passe para as injeções com a caneta, pelo plano de reserva do médico. Se não tiver plano, ligue para o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoje é dia de trocar o cateter da bomba. Faça durante o dia e meça a glicose 2 a 3 horas depois."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Uyda homila harakatlarini sanash",
+ "also": [
+  "homila harakatlari",
+  "harakatlarni qanday sanash",
+  "o‘nta harakat testi",
+  "chaqaloq kam qimirlayapti"
+ ],
+ "what": "Chaqaloq qanchalik tez-tez qimirlashini o‘zingiz kuzatasiz. Bu uning ahvoli yaxshi ekanini payqashning oddiy usuli.",
+ "why": "Odatda homiladorlikning ikkinchi yarmidan, harakatlar yaxshi sezila boshlaganda. Qanday sanashni shifokor aytadi.",
+ "duration": "odatda kuniga 1–2 soatgacha, shifokor usuli bo‘yicha",
+ "tell_doctor": [
+  "Harakatlar siyraklashgan yoki kuchsizlashgan bo‘lsa",
+  "Harakatlar ritmi keskin o‘zgargan bo‘lsa",
+  "Qanday to‘g‘ri sanashga ishonchingiz komil bo‘lmasa"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Chaqaloq odatda faol bo‘ladigan vaqtni tanlang, ko‘pincha ovqatdan keyin yoki kechqurun."
+  },
+  {
+   "title": "Holat",
+   "text": "Chap yonboshingizga yoting yoki qulay o‘tiring."
+  },
+  {
+   "title": "Yozuv",
+   "text": "Harakatlarni belgilash uchun daftar yoki ilova tayyorlang."
+  }
+ ],
+ "bring": [
+  "Yozuvlar uchun daftar yoki telefon",
+  "Soat yoki taymer"
+ ],
+ "steps": [
+  "Yonboshingizga qulay joylashing",
+  "Boshlanish vaqtini belgilang",
+  "Har bir harakatni sanang: turtki, aylanish, tepish",
+  "Hiqichoqni sanamang",
+  "Kerakli miqdor sanalgan vaqtni belgilang",
+  "Natijani yozib qo‘ying"
+ ],
+ "feel": [
+  "Harakatlar turlicha bo‘ladi: turtkilar, aylanishlar, yengil pirpirash",
+  "Chaqaloq 20–40 daqiqagacha uxlashi mumkin — bu normal"
+ ],
+ "after": [
+  "Yozuvlarni qabulda shifokorga ko‘rsating",
+  "Hammasi odatdagidek bo‘lsa — kuzatishni davom ettiring",
+  "Chaqaloqning odatiy ritmini bilish muhim"
+ ],
+ "red_flags": [
+  "Chaqaloq qimirlashdan to‘xtadi yoki odatdagidan sezilarli kam qimirlayapti — darrov shifokorga yoki tug‘ruqxonaga qo‘ng‘iroq qiling",
+  "Shifokor ko‘rsatgan vaqt ichida harakatlarni kuta olmadingiz — 103 ga qo‘ng‘iroq qiling",
+  "Qonli ajralmalar yoki suv oqishi — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Qancha harakat bo‘lishi kerak?",
+   "a": "Usullar turlicha. Ko‘pincha ma’lum vaqt ichida 10 ta harakatga qarashadi. O‘z sonini shifokor aytadi."
+  },
+  {
+   "q": "Chaqaloq jim bo‘lib qoldi — ertagacha kutsam bo‘ladimi?",
+   "a": "Yo‘q. Harakatlar odatdagidan kam bo‘lsa, kutmasdan darrov shifokorga yoki tug‘ruqxonaga qo‘ng‘iroq qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Chaqaloq harakatlarini sanash vaqti. Yonboshingizga yoting va harakatlarni belgilang."
+  }
+ ]
+}

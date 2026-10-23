@@ -1,0 +1,86 @@
+{
+ "title": "Umurtqa pog‘onasi MRT si",
+ "also": [
+  "bo‘yin MRT si",
+  "bel MRT si",
+  "ko‘krak umurtqasi MRT si",
+  "umurtqa tomografiyasi"
+ ],
+ "what": "Magnit maydonida umurtqa pog‘onasi, disklar va nervlarning surati olinadi. Nurlanish yo‘q. Odatda bitta bo‘lim olinadi: bo‘yin, ko‘krak yoki bel.",
+ "why": "Orqa yoki bo‘yindagi og‘riq o‘tmasa, qo‘l yoki oyoqlarda uvishish va zaiflik bo‘lsa, jarohatdan keyin, operatsiyadan oldin.",
+ "duration": "odatda bitta bo‘lim uchun 20–40 daqiqa",
+ "tell_doctor": [
+  "Yurak stimulyatori, defibrillyator yoki elektronikali boshqa implant",
+  "Tanadagi metall: protezlar, plastinkalar, tomirlardagi klipslar, parchalar",
+  "Eshitish implanti, insulin nasosi",
+  "Homiladorlik",
+  "Yopiq joydan qo‘rqish",
+  "Kontrast bilan qilinsa — buyrak kasalliklari va kontrastga allergiya",
+  "Og‘riq tufayli uzoq vaqt chalqancha yotish qiyin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Metall",
+   "text": "Uyda taqinchoqlar, pirsing va soatni yechib qo‘ying. Xonaga metall olib kirish mumkin emas."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay va metallsiz: zamok, tugma va ichki kiyimda suyakchalar bo‘lmasin. Ko‘pincha bir martalik kiyim berishadi."
+  },
+  {
+   "title": "Upa-elik",
+   "text": "Yaltiroq tush va soyalar surtmang — ularda metall zarralari bo‘lishi mumkin."
+  },
+  {
+   "title": "Og‘riq",
+   "text": "Yotish og‘riqli bo‘lsa, tekshiruvdan oldin o‘zingizning og‘riq qoldiruvchi dorini ichish mumkinmi, shifokordan oldindan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi MRT, KT suratlari va xulosalari",
+  "Implantlar bo‘lsa, ularning hujjatlari"
+ ],
+ "steps": [
+  "Telefon, kalit, kartalar va barcha metall narsalarni shkafchada qoldirasiz",
+  "Apparat stoliga yotasiz, quloqchin yoki quloq tiqinlari beriladi — apparat shovqin qiladi",
+  "Chalqancha yotasiz, tizza ostiga yostiqcha qo‘yilishi mumkin — shunda qulayroq bo‘ladi",
+  "Stol apparat tunneliga kiradi",
+  "Qimirlamay yotish kerak; shifokor siz bilan aloqa orqali gaplashadi",
+  "Qo‘lingizda chaqiruv tugmasi bor: istalgan payt bosishingiz mumkin"
+ ],
+ "feel": [
+  "Qattiq taqillash va g‘uvillash — bu normal",
+  "Ba’zan suratga olinayotgan joyda yengil iliqlik seziladi",
+  "Kontrast yuborilsa — venada salqinlik seziladi, tez o‘tib ketadi",
+  "Uzoq chalqancha yotish qiyin bo‘lishi mumkin — og‘riq paydo bo‘lsa, ayting"
+ ],
+ "after": [
+  "Darhol odatiy ishlaringizga qaytishingiz mumkin",
+  "Xulosa odatda o‘sha kuni yoki 1–2 kunda tayyor bo‘ladi",
+  "Kontrast bo‘lgan bo‘lsa — shifokor taqiqlamagan bo‘lsa, o‘sha kuni ko‘proq suv iching"
+ ],
+ "red_flags": [
+  "Oyoqlarda birdan zaiflik, chov oralig‘ida uvishish, siydik chiqarishda muammo — MRT ni kutmang, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Bir safarda nechta bo‘lim olinadi?",
+   "a": "Odatda bitta, yo‘llanmaga ko‘ra. Bir tashrifda bir nechta bo‘limni ham olish mumkin, lekin bu uzoqroq davom etadi."
+  },
+  {
+   "q": "Tanamda metall bo‘lsa, MRT qilsa bo‘ladimi?",
+   "a": "Ko‘pincha bo‘ladi, lekin buni shifokor hal qiladi. Har qanday implant haqida oldindan ayting va uning hujjatlarini olib keling."
+  },
+  {
+   "q": "Umurtqa uchun MRT yaxshimi yoki KT?",
+   "a": "MRT disklar, nervlar va orqa miyani yaxshiroq ko‘rsatadi, KT esa suyaklarni. Sizga qaysi biri kerakligini shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga MRT. Uyda taqinchoqlar va pirsingni yeching, metallsiz kiyim kiying. Oldingi suratlar va implant hujjatlarini oling."
+  }
+ ]
+}

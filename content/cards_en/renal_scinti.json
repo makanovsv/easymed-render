@@ -1,0 +1,77 @@
+{
+ "title": "Kidney scan (renal scintigraphy)",
+ "also": [
+  "kidney scan",
+  "renal scan",
+  "renal scintigraphy",
+  "nuclear kidney test"
+ ],
+ "what": "A very small dose of a radioactive substance is given into a vein, and a gamma camera shows how each kidney works separately.",
+ "why": "When it is important to know how much each kidney works, for reflux in children, narrowing of the urinary tract, and before operations.",
+ "duration": "usually 30 to 60 minutes; for some types of scan a repeat image is needed after a few hours; the report comes the same day or in 1 to 2 days",
+ "tell_doctor": [
+  "If you might be pregnant or are breastfeeding",
+  "What medicines you take, especially water pills and blood pressure pills",
+  "If you have allergies",
+  "For a child: weight and height"
+ ],
+ "prepare": [
+  {
+   "title": "Water",
+   "text": "Usually you are asked to drink water about an hour before the scan. The clinic will say how much."
+  },
+  {
+   "title": "Medicines",
+   "text": "Sometimes you are asked to pause certain blood pressure pills. Do not stop them on your own. The doctor decides."
+  },
+  {
+   "title": "Toilet",
+   "text": "Go to the toilet before the scan."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past ultrasounds and tests",
+  "Water",
+  "For a child: a diaper and a toy"
+ ],
+ "steps": [
+  "You drink water as the clinic said",
+  "You lie on the table under the gamma camera",
+  "A small dose of the substance is given into a vein",
+  "The camera records images while you lie still for 20 to 40 minutes",
+  "Sometimes a water pill is given and more images are taken",
+  "Sometimes you are asked to come back for a repeat image"
+ ],
+ "feel": [
+  "A needle prick in the vein, like a regular blood test",
+  "The scan itself does not hurt",
+  "Lying still can be hard, especially for a child"
+ ],
+ "after": [
+  "Drink more water and go to the toilet more often that day",
+  "Wash your hands after using the toilet",
+  "For a day, try not to hold small children or pregnant women close for long. Check with the clinic",
+  "If you are breastfeeding, you may be advised to pause for a while. Ask the doctor"
+ ],
+ "red_flags": [
+  "Rash, swelling of the face, trouble breathing: call your local emergency number",
+  "Severe lower back pain or blood in the urine"
+ ],
+ "faq": [
+  {
+   "q": "Is the radiation dangerous?",
+   "a": "The dose is small and leaves the body quickly in the urine. A doctor orders it when the benefit outweighs the risk."
+  },
+  {
+   "q": "Can I be with my child during the scan?",
+   "a": "Yes, a parent usually stays close and helps the child lie calmly."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Kidney scan tomorrow. In the morning drink water as the clinic said. Ask your doctor about blood pressure pills."
+  }
+ ]
+}

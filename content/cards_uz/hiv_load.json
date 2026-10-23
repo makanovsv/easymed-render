@@ -1,0 +1,79 @@
+{
+ "title": "OIV: virus yuklamasi va CD4",
+ "also": [
+  "OIV virus yuklamasi",
+  "OIV RNK si",
+  "CD4",
+  "immun holat",
+  "CD4 hujayralari"
+ ],
+ "what": "Bu OIV bilan yashovchi odamlar uchun qon tahlili. U qonda qancha virus va immunitetning qancha himoya hujayralari borligini ko‘rsatadi.",
+ "why": "Davolashni qanday boshlashni hal qilish va uning ishlayotganini muntazam tekshirish uchun.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda bir necha kunda",
+ "tell_doctor": [
+  "Tabletkalarni o‘tkazib yuborgan bo‘lsangiz",
+  "Yaqinda kasal bo‘lgan, harorat ko‘tarilgan yoki emlangan bo‘lsangiz — bu natijani vaqtincha o‘zgartirishi mumkin",
+  "Yana qanday dorilar va qo‘shimchalar ichasiz",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Qat’iy och qoringa odatda kerak emas, lekin yengil ovqatdan 3–4 soat o‘tgach, yog‘siz kelgan yaxshi. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Davolash",
+   "text": "Tabletkalarni odatdagidek, o‘z vaqtida iching. Tahlildan oldin o‘tkazib yubormang."
+  },
+  {
+   "title": "Ahvol",
+   "text": "Hozir shamollash yoki harorat bo‘lsa, shifokorga ayting — tahlilni keyinga qoldirgan ma’qul bo‘lishi mumkin."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqoriga oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "Oldingi natijalar",
+  "Barcha dorilar ro‘yxati"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut bog‘lanadi va musht qilish so‘raladi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Davolashni tanaffussiz davom ettiring",
+  "Natija — shifokor siri. Uni faqat siz yoki shifokor oladi."
+ ],
+ "red_flags": [
+  "Ukol joyi qattiq shishsa, og‘risa va qizarsa",
+  "Bir necha kun yuqori harorat, kuchli hansirash, hushning chalkashishi — darrov shifokorga yoki tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "«Virus aniqlanmaydi» nimani bildiradi?",
+   "a": "Davolash ishlayapti. Virus doimiy aniqlanmasa, OIV jinsiy yo‘l bilan yuqmaydi. Bunda davolash davom ettiriladi."
+  },
+  {
+   "q": "Nega CD4 tahlildan tahlilga o‘zgaradi?",
+   "a": "U o‘zingizni his qilishingizga, kun vaqtiga va hatto laboratoriyaga bog‘liq. Shifokor bir necha tahlildagi o‘zgarishlarga qaraydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga virus yuklamasi va CD4 tahlili. Tabletkalar — odatdagidek, o‘tkazib yubormasdan."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Gipsni olish",
+ "also": [
+  "gipsni olish",
+  "gips bog‘lamni olish",
+  "longetani olish"
+ ],
+ "what": "Gips maxsus arra yoki qaychi bilan kesilib, olinadi. Shundan keyin shifokor suyak qanday bitganini tekshiradi.",
+ "why": "Shifokor belgilagan muddat tugaganda yoki gipsni almashtirish kerak bo‘lganda.",
+ "duration": "odatda 10–20 daqiqa; nazorat rentgeni va ko‘rik shu kunning o‘zida",
+ "tell_doctor": [
+  "Gips ostida og‘rigan, achishgan yoki hid bo‘lgan bo‘lsa",
+  "Barmoqlar uyushgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Erkin kiyim va poyabzal olib keling: qo‘l yoki oyoq biroz shishgan bo‘lishi mumkin."
+  }
+ ],
+ "bring": [
+  "Hujjatlar va oldingi suratlar",
+  "Erkin kiyim va qulay poyabzal",
+  "Teri uchun krem"
+ ],
+ "steps": [
+  "Odatda avval nazorat rentgeni qilinadi",
+  "Gips aylanmaydigan, titraydigan arra bilan kesiladi",
+  "Gips ochilib, olinadi",
+  "Paxta va paypoq qaychi bilan kesiladi",
+  "Shifokor terini ko‘radi va harakatlarni tekshiradi",
+  "Shifokor keyin nima mumkin, nima mumkin emasligini tushuntiradi"
+ ],
+ "feel": [
+  "Arraning shovqini va titrashi, issiqlik: arra terini kesmaydi",
+  "Qo‘l yoki oyoq yengil va kuchsiz tuyuladi",
+  "Bo‘g‘im qotib qolgan, harakatlar qiyin"
+ ],
+ "after": [
+  "Teri quruq va po‘st tashlaydi: iliq suv bilan yuving va krem surting",
+  "Shish bir necha kun saqlanishi mumkin",
+  "Mushaklar asta-sekin tiklanadi; mashqlar shifokor aytganidek",
+  "Yuklamani oz-ozdan oshiring"
+ ],
+ "red_flags": [
+  "Boldirda kuchli shish, og‘riq va qizarish bo‘lsa, darhol shifokorga",
+  "Gips olingandan keyin keskin og‘riq yoki shakli o‘zgarsa"
+ ],
+ "faq": [
+  {
+   "q": "Arra kesib yubormaydimi?",
+   "a": "Yo‘q. U titraydi va faqat qattiq gipsni kesadi, yumshoq terini kesmaydi. Issiq bo‘lishi mumkin."
+  },
+  {
+   "q": "Qo‘l nega bunchalik kuchsiz?",
+   "a": "Harakatsizlikdan mushaklar bo‘shashgan. Kuch bir necha hafta mashqdan keyin qaytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga gips olinadi. Oldingi suratlar, erkin kiyim va qulay poyabzal olib keling."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Cetonas en orina y sangre en casa",
+ "also": [
+  "cetonas en orina",
+  "acetona en orina",
+  "tiras de cetonas",
+  "cetonas en sangre con glucómetro"
+ ],
+ "what": "En casa se revisan las cetonas con tiras en la orina o con un aparato con una gota de sangre. Aparecen cuando al cuerpo le falta insulina o comida.",
+ "why": "En la diabetes: cuando el azúcar está alta, al enfermarte, con vómito o fiebre; a veces en dietas estrictas por consejo del médico.",
+ "duration": "la prueba toma de 1 a 2 minutos",
+ "tell_doctor": [
+  "Cada cuánto te salen las cetonas altas",
+  "Si usas bomba de insulina",
+  "Si tomas pastillas para la diabetes: algunas suben las cetonas aunque el azúcar esté normal",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Plan",
+   "text": "Pídele al médico con tiempo un plan: cuándo revisar las cetonas y qué hacer con cada resultado."
+  },
+  {
+   "title": "Reserva",
+   "text": "Ten en casa tiras o el aparato con sus tiras. Revisa la fecha de caducidad."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas ni los cambies por tu cuenta. Las dosis con cetonas, solo según el plan del médico."
+  }
+ ],
+ "bring": [
+  "Tiras para orina o el aparato para sangre",
+  "Tu registro de azúcar y cetonas",
+  "El plan del médico"
+ ],
+ "steps": [
+  "Para orina: moja la tira en la orina o ponla bajo el chorro",
+  "Espera el tiempo del instructivo y compara el color con la escala del empaque",
+  "Para sangre: lávate y sécate las manos",
+  "Mete la tira de cetonas en el aparato y pícate el dedo",
+  "Acerca la gota de sangre a la tira y espera el resultado",
+  "Anota el resultado junto con el azúcar y la hora"
+ ],
+ "feel": [
+  "En orina, nada",
+  "En sangre, un piquete breve en el dedo"
+ ],
+ "after": [
+  "Actúa según el plan que te dio el médico",
+  "Con cetonas altas normalmente se toma más agua y se revisan el azúcar y las cetonas más seguido",
+  "Si no tienes plan, llama al médico"
+ ],
+ "red_flags": [
+  "Cetonas altas con vómito o dolor de abdomen: llama al médico o a emergencias",
+  "Respiración rápida y profunda, aliento a acetona, mucho sueño o confusión: llama a emergencias",
+  "Un niño con diabetes está decaído, vomita y tiene cetonas: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué es más exacto, la orina o la sangre?",
+   "a": "La sangre muestra las cetonas en este momento. La orina las muestra con retraso. Si tienes aparato, la sangre es más útil para decidir."
+  },
+  {
+   "q": "Tengo cetonas pero el azúcar está normal. ¿Es peligroso?",
+   "a": "Puede pasar por no comer. Pero con algunas pastillas para la diabetes es peligroso: llama al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "¿Tienes el azúcar alta o te enfermaste? Revisa tus cetonas y actúa según el plan del médico."
+  }
+ ]
+}

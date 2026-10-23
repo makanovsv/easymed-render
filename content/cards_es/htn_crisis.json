@@ -1,0 +1,77 @@
+{
+ "title": "Presión alta en casa: qué hacer",
+ "also": [
+  "presión alta qué hacer",
+  "pico de presión",
+  "crisis hipertensiva",
+  "se me subió la presión"
+ ],
+ "what": "Una guía para medir bien la presión y qué hacer si subió de golpe.",
+ "why": "Para todos los que a veces tienen la presión alta, y para sus familiares.",
+ "duration": "medir toma de 5 a 10 minutos; la ayuda, normalmente hasta una hora",
+ "tell_doctor": [
+  "Con qué frecuencia tienes picos de presión",
+  "Qué medicamentos tomas para la presión y a qué hora",
+  "Si tienes un medicamento para un pico; el médico debe recetarlo",
+  "Si la presión te sube después de algunos medicamentos o situaciones"
+ ],
+ "prepare": [
+  {
+   "title": "Baumanómetro",
+   "text": "Ten en casa un baumanómetro que funcione bien. El brazalete debe ser del tamaño de tu brazo."
+  },
+  {
+   "title": "Plan",
+   "text": "Pregunta al médico qué tomar en un pico y con qué cifras llamar."
+  },
+  {
+   "title": "Diario",
+   "text": "Anota la presión en la mañana y en la noche."
+  }
+ ],
+ "bring": [
+  "El baumanómetro",
+  "El diario de presión",
+  "Los medicamentos que recetó el médico"
+ ],
+ "steps": [
+  "Siéntate, recarga la espalda, con los pies en el piso, y quédate sentado 5 minutos",
+  "Ponte el brazalete en el brazo desnudo, a la altura del corazón",
+  "No hables mientras te miden",
+  "Después de 1 o 2 minutos, mide otra vez",
+  "Si la presión está alta, toma el medicamento que el médico indicó para ese caso",
+  "No tomes varias pastillas a la vez: bajar la presión de golpe es peligroso",
+  "Después de 30 a 60 minutos, mide otra vez y anota"
+ ],
+ "feel": [
+  "Puede doler la cabeza, zumbar los oídos, ver lucecitas",
+  "Los nervios suben la presión; trata de respirar con calma"
+ ],
+ "after": [
+  "Muéstrale el diario de presión al médico",
+  "No dejes los medicamentos de todos los días",
+  "Menos sal y más movimiento, como aconseje el médico"
+ ],
+ "red_flags": [
+  "Dolor en el pecho, falta de aire: llama a emergencias",
+  "Debilidad o adormecimiento de un brazo, una pierna o medio rostro, problemas para hablar: llama a emergencias",
+  "Dolor de cabeza muy fuerte, pérdida de la vista, confusión: llama a emergencias",
+  "Cifras muy altas, por ejemplo más de 180/110, que no bajan: llama al médico o a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo tomar la pastilla de un vecino?",
+   "a": "No. Toma solo lo que te recetó tu médico."
+  },
+  {
+   "q": "¿Por qué la presión es distinta en los dos brazos?",
+   "a": "Una diferencia pequeña es normal. Mide en el brazo donde sale más alta, y dile al médico si la diferencia es grande."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Es hora de medir la presión: siéntate 5 minutos y haz dos mediciones."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+epley|ent|Манёвр Эпли при позиционном головокружении|Epley manoeuvre for positional vertigo|ent_room|L|2
+phoniatrist|ent|Приём фониатра (проблемы с голосом)|Voice clinic (phoniatrist) visit|ent_room|L|3
+smell_test|ent|Проверка обоняния|Smell test|ent_room|L|3
+otoplasty|ent|Отопластика (лопоухость)|Otoplasty (prominent ears)|or_room|H|3
+preconception|gyn|Подготовка к беременности|Preconception check-up|office|L|1
+kick_count|gyn|Подсчёт шевелений плода дома|Counting fetal movements at home|home|L|2
+birth_classes|gyn|Курсы подготовки к родам|Antenatal classes|office|L|2
+partner_birth|gyn|Партнёрские роды|Partner-assisted birth|ward|L|2
+perineal_care|gyn|Уход за швами на промежности после родов|Perineal stitch care after birth|home|L|2
+vbac|gyn|Роды после кесарева сечения|Vaginal birth after caesarean (VBAC)|ward|H|3
+pessary_preg|gyn|Акушерский пессарий при беременности|Cervical pessary in pregnancy|gyn_chair|M|3
+cerclage|gyn|Шов на шейку матки (серкляж)|Cervical cerclage|or_room|H|3
+anti_d|gyn|Антирезусный иммуноглобулин|Anti-D immunoglobulin|proc_room|M|2
+maternity_bag|gyn|Что взять в роддом|What to pack for the maternity hospital|home|L|1
+ppd_screen|gyn|Скрининг послеродовой депрессии|Postnatal depression screening|office|L|2
+thrush|gyn|Лечение молочницы и бактериального вагиноза|Thrush and bacterial vaginosis treatment|office|L|1
+pcos|gyn|Приём при поликистозе яичников (СПКЯ)|Polycystic ovary syndrome (PCOS) consultation|office|L|2
+endometriosis_lap|gyn|Лапароскопия при эндометриозе|Laparoscopy for endometriosis|or_room|H|3
+endometrial_polyp|gyn|Удаление полипа эндометрия|Endometrial polyp removal|or_room|H|2
+condyloma|gyn|Удаление остроконечных кондилом|Genital wart removal|gyn_chair|M|2
+girl_gyn|gyn|Первый визит девочки к гинекологу|A girl's first gynaecology visit|gyn_chair|L|2
+ovulation_ind|gyn|Стимуляция овуляции|Ovulation induction|us_room|M|3
+ivf_stim|gyn|ЭКО: стимуляция яичников и уколы|IVF: ovarian stimulation and injections|home|M|3
+tvt_sling|gyn|Слинговая операция при недержании мочи|Sling surgery for urinary incontinence|or_room|H|3
+prolapse_pessary|gyn|Пессарий при опущении матки|Pessary for uterine prolapse|gyn_chair|M|3
+breast_self|gyn|Самообследование молочных желёз|Breast self-examination|home|L|1
+tubal_ligation|gyn|Женская стерилизация (перевязка труб)|Tubal ligation|or_room|H|3
+bartholin|gyn|Лечение кисты бартолиновой железы|Bartholin cyst treatment|gyn_chair|M|3
+emergency_contra|gyn|Экстренная контрацепция|Emergency contraception|office|L|2

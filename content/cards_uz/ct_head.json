@@ -1,0 +1,65 @@
+{
+ "title": "Bosh KT’si",
+ "also": [
+  "bosh miya KT’si",
+  "boshning MSKT’si",
+  "bosh tomografiyasi"
+ ],
+ "what": "Kompyuter tomografiyasi miya va bosh suyagi suyaklarini qatlam-qatlam ko‘rsatadi. Bu tez, odatda ukolsiz.",
+ "why": "Bosh jarohatidan keyin, insultga shubhada, kuchli bosh og‘riqlarida, burun bo‘shliqlarini ko‘rish uchun.",
+ "duration": "kabinetda odatda 5–10 daqiqa, suratning o‘zi bir daqiqadan kam",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Kontrastli KT tayinlangan bo‘lsa: yodga yoki kontrastga allergiya va buyrak kasalliklari bormi",
+  "Qimirlamay yotish qiyin bo‘lsa yoki yopiq joydan qo‘rqsangiz: apparat ochiq, lekin oldindan ayting"
+ ],
+ "prepare": [
+  {
+   "title": "Kontrastsiz",
+   "text": "Tayyorgarlik kerak emas. Ovqatlanish va ichish mumkin."
+  },
+  {
+   "title": "Kontrastli",
+   "text": "Odatda 3–4 soat ovqat yemaslikni so‘rashadi, suv ichish mumkin, ba’zan kreatinin tahlili kerak. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Metall",
+   "text": "Zirak, soch qisqichlari, ko‘zoynak, olinadigan tish protezlari va eshitish apparatini yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Boshning oldingi KT va MRT suratlari",
+  "So‘ralgan bo‘lsa, kreatinin tahlili"
+ ],
+ "steps": [
+  "Chalqancha yotasiz, boshingiz yumshoq tayanchga qo‘yiladi",
+  "Stol keng halqaga kiradi: bosh ichkarida, tana tashqarida",
+  "Apparat suratga olayotganda qimirlamaslik kerak",
+  "Kontrastli bo‘lsa, u venaga yuboriladi va yana bir qator suratlar olinadi"
+ ],
+ "feel": [
+  "Og‘rimaydi, apparat shovqin qiladi",
+  "Kontrastda issiqlik to‘lqini va metall ta’mi, bir daqiqada o‘tadi"
+ ],
+ "after": [
+  "Darhol ishlaringizga qaytishingiz mumkin",
+  "Kontrastdan keyin shifokor boshqacha demagan bo‘lsa, ko‘proq suv iching",
+  "Xulosa odatda bir necha soatdan yoki 1–2 kunda; shoshilinch holatlarda darhol"
+ ],
+ "red_flags": [
+  "To‘satdan kuchli bosh og‘rig‘i, qo‘l yoki oyoqda holsizlik, yuzning qiyshayishi, nutqning buzilishi bo‘lsa, darhol 103 ga qo‘ng‘iroq qiling",
+  "Kontrastdan keyin qichishish, toshma, yuz shishi, nafas olish qiyin bo‘lsa, xodimga ayting yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Bosh uchun nima yaxshi: KT yoki MRT?",
+   "a": "KT tezroq va jarohat hamda qon quyilishida yaxshiroq. MRT miya to‘qimasini batafsilroq ko‘rsatadi. Vazifaga qarab shifokor tanlaydi."
+  },
+  {
+   "q": "Bosh KT’sida qancha nurlanish bo‘ladi?",
+   "a": "Rentgendan ko‘proq, lekin doza vazifaga qarab hisoblanadi. KT ko‘rsatma bo‘yicha tayinlangan bo‘lsa, foyda xavfdan ko‘p."
+  }
+ ],
+ "reminders": []
+}

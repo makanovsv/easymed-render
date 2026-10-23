@@ -1,0 +1,83 @@
+{
+ "title": "Colonoscopia na criança",
+ "also": [
+  "colonoscopia infantil",
+  "colonoscopia pediátrica",
+  "exame do intestino na criança"
+ ],
+ "what": "O médico examina o intestino grosso da criança por dentro com um tubo fino e flexível com câmera. Em crianças normalmente é feito dormindo, com sedação ou anestesia.",
+ "why": "Com sangue nas fezes, diarreia longa, dor na barriga, anemia, ganho de peso ruim, e para acompanhar doenças inflamatórias do intestino.",
+ "duration": "o procedimento leva normalmente 20 a 60 minutos, mais o preparo na véspera e o tempo para acordar",
+ "tell_doctor": [
+  "Todos os remédios que a criança toma, incluindo ferro",
+  "Alergias",
+  "Doenças do coração, dos pulmões, convulsões",
+  "Se a criança ficou gripada há pouco tempo",
+  "Se houve problemas com anestesia na criança ou em parentes"
+ ],
+ "prepare": [
+  {
+   "title": "Dieta",
+   "text": "Nos 1 a 3 dias antes, comida sem fibras. A lista exata, o médico passa. Na véspera, normalmente só líquidos claros."
+  },
+  {
+   "title": "Limpeza",
+   "text": "A criança bebe a solução de limpeza conforme o esquema do médico. A dose depende do peso. Para ficar mais fácil, pode gelar e dar de canudinho."
+  },
+  {
+   "title": "Jejum",
+   "text": "Antes da sedação, a criança não come nem bebe por um tempo. As horas exatas, a clínica diz."
+  },
+  {
+   "title": "Conversa",
+   "text": "Explique com palavras simples que ela vai dormir e o médico vai olhar a barriguinha."
+  }
+ ],
+ "bring": [
+  "Pedido médico e laudos anteriores",
+  "Documentos da criança",
+  "O brinquedo preferido",
+  "Roupa íntima e fraldas para trocar, se precisar",
+  "Lenços umedecidos"
+ ],
+ "steps": [
+  "A criança troca de roupa e colocam um cateter na veia, muitas vezes depois de um creme anestésico",
+  "Normalmente um dos pais fica ao lado até a criança dormir",
+  "A criança dorme, e o médico coloca o tubo com cuidado e examina o intestino",
+  "Se for preciso, tiram pedacinhos de tecido para análise",
+  "A criança acorda no quarto, e chamam você"
+ ],
+ "feel": [
+  "Dormindo, não se sente o procedimento",
+  "Ao acordar, pode haver sonolência, choro e barriga estufada",
+  "O preparo é a parte mais difícil: muitas idas ao banheiro com fezes líquidas e o gosto ruim da solução"
+ ],
+ "after": [
+  "Normalmente pode comer e beber quando a criança acordar de vez",
+  "O inchaço de ar passa em algumas horas",
+  "Até o fim do dia, repouso tranquilo em casa",
+  "O resultado da biópsia sai normalmente em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Dor forte na barriga ou barriga dura: ligue para a emergência",
+  "Febre acima de 38 °C",
+  "Sangramento forte pelo ânus ou vômito com sangue",
+  "Criança molinha, difícil de acordar, sem beber"
+ ],
+ "faq": [
+  {
+   "q": "A criança não consegue beber toda a solução. O que fazer?",
+   "a": "Ligue para a clínica. Às vezes se escolhe outro esquema, mas o preparo não pode ser pulado."
+  },
+  {
+   "q": "Posso ficar perto?",
+   "a": "Normalmente um dos pais fica com a criança até ela dormir e logo quando acorda. Confirme as regras com a clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a colonoscopia da criança. Hoje, só líquidos claros e a solução conforme o médico. Jejum no horário da clínica."
+  }
+ ]
+}

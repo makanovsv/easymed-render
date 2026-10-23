@@ -1,0 +1,79 @@
+{
+ "title": "Qondagi dori miqdori (valproatlar, litiy, digoksin)",
+ "also": [
+  "qondagi dori darajasi",
+  "dori monitoringi",
+  "litiy miqdori",
+  "valproatlar miqdori",
+  "digoksin darajasi"
+ ],
+ "what": "Qon tahlili hozir qonda qancha dori borligini ko‘rsatadi. Shunda shifokor doza yetarli yoki juda yuqori emasligini tushunadi.",
+ "why": "Xavfsiz oralig‘i tor bo‘lgan dorilarni ichganda, doza o‘zgargandan keyin, nojo‘ya ta’sirlarda yoki dori yordam bermasa.",
+ "duration": "qon olish odatda 5 daqiqa, natija odatda 1–2 kunda",
+ "tell_doctor": [
+  "Dorini oxirgi marta aniq qachon ichganingizni",
+  "Oxirgi kunlarda dozani o‘tkazib yuborganmisiz",
+  "Boshqa barcha dorilar va qo‘shimchalar",
+  "Qusish, ich ketishi, suvsizlanish, harorat bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Asosiysi — qon olish vaqti. Odatda qon dorining navbatdagi qabulidan oldin topshiriladi. Aniq vaqtni shifokor aytadi."
+  },
+  {
+   "title": "Ertalabki doza",
+   "text": "Ertalabki dozani tahlildan oldin yoki keyin ichishni shifokordan so‘rang. Dozani o‘zingiz o‘tkazib yubormang va o‘zgartirmang."
+  },
+  {
+   "title": "Muntazamlik",
+   "text": "Tahlildan bir necha kun oldin dorini qat’iy sxema bo‘yicha iching."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qolish shart emas. Laboratoriyadan aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oxirgi qabul vaqti yozilgan qog‘oz",
+  "Shifokor tahlildan keyin ichishni aytgan bo‘lsa, dorini o‘zingiz bilan"
+ ],
+ "steps": [
+  "Hamshiraga dorini oxirgi marta qachon ichganingizni ayting",
+  "Tirsakdan yuqoriga jgut bog‘lashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qon venadan probirkaga olinadi",
+  "Qon olish vaqti yo‘llanmaga yoziladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Shifokor shunday degan bo‘lsa, dorini iching",
+  "Natija odatda 1–2 kunda",
+  "Dozani natijaga qarab faqat shifokor o‘zgartiradi"
+ ],
+ "red_flags": [
+  "Kuchli titroq, qusish, ich ketishi, muvozanatning buzilishi, ongning chalkashishi — darhol shifokorga",
+  "Hushdan ketish, tutqanoq, yurakning kuchli uzilishlari — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Tahlil vaqti nega muhim?",
+   "a": "Dori ichilgandan keyin qonda ko‘p bo‘ladi, keyin kamayadi. Aniq vaqtsiz natijani noto‘g‘ri tushunish oson."
+  },
+  {
+   "q": "Bu tahlil qanchalik tez-tez topshiriladi?",
+   "a": "Davoning boshida va doza o‘zgargandan keyin tez-tez, keyin kamroq. Jadvalni shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga dori darajasiga tahlil. Oxirgi qabul vaqtini yozib qo‘ying. Ertalabki dozani shifokor aytganidek iching."
+  }
+ ]
+}

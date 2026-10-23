@@ -1,0 +1,62 @@
+{
+ "title": "Allergenlarga qon tahlili",
+ "also": [
+  "allergopanel",
+  "spetsifik IgE",
+  "allergiya tahlili",
+  "umumiy IgE"
+ ],
+ "what": "Turli allergenlarga antitanalarni qidiradigan qon tahlili: gul changi, chang, hayvon juni, ovqat. Bunda teri sinamalari kerak emas.",
+ "why": "Muayyan narsalardan yoki muayyan mavsumda paydo bo‘ladigan burun oqishi, aksirish, toshma, qichishish yoki yo‘talda.",
+ "duration": "odatda 5 daqiqa, qon venadan olinadi",
+ "tell_doctor": [
+  "Sizningcha nimaga reaksiya bo‘ladi va u qanday ko‘rinadi",
+  "Qanday dorilar ichasiz",
+  "Allergiyani ukol yoki til ostiga ichish bilan davolayotgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Qat’iy och qoringa odatda kerak emas. Ba’zi laboratoriyalar ertalab, ovqatdan 3–4 soat keyin kelishni so‘raydi — klinikadan aniqlang."
+  },
+  {
+   "title": "Allergiya dorilari",
+   "text": "Teri sinamalaridan farqli o‘laroq, ular odatda qon tahliliga ta’sir qilmaydi. Ularni o‘zingiz bekor qilmang — shifokorga ayting, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Allergenlar ro‘yxati bilan yo‘llanma, agar shifokor bergan bo‘lsa",
+  "Oldingi allergiya tahlillari natijalari"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakchaga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lashadi",
+  "Teri artiladi va venadan qon olinadi",
+  "Ukol joyi paxta sharcha bilan bosib turiladi"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan keyin kichik ko‘karish qoladi"
+ ],
+ "after": [
+  "Darrov ovqatlanib, odatiy ishlar bilan shug‘ullansangiz bo‘ladi",
+  "Natija odatda bir necha kunda — allergenlar soniga bog‘liq",
+  "Natijani allergolog tushuntiradi: antitanalar har doim ham haqiqiy allergiyani bildirmaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Allergiya tabletkalarini ichayotganda allergiya tahlilini topshirsa bo‘ladimi?",
+   "a": "Odatda ha: ular qon tahliliga deyarli ta’sir qilmaydi. Teri sinamalari esa dori ichishda tanaffus talab qiladi."
+  },
+  {
+   "q": "Tahlilda antitanalar topilsa, albatta allergiyami?",
+   "a": "Har doim ham emas. Shifokor natijani o‘zingizni his qilishingiz bilan solishtiradi. Ba’zan antitana bor, reaksiya esa yo‘q."
+  },
+  {
+   "q": "Bolaga allergiya tahlilini qilsa bo‘ladimi?",
+   "a": "Ha, qon tahlili bolalarga ham mos. Qaysi allergenlar tekshirilishini shifokor aytadi."
+  }
+ ],
+ "reminders": []
+}

@@ -1,0 +1,72 @@
+{
+ "title": "60 yoshdan keyin profilaktik ko‘rik",
+ "also": [
+  "60 yoshdan keyin dispanserizatsiya",
+  "keksalar ko‘rigi",
+  "keksalar uchun profilaktika",
+  "60 yoshdan keyin cheklap"
+ ],
+ "what": "60 yoshdan oshganlar uchun rejali sog‘liq tekshiruvi. Shifokor qon bosimi, qand, yurak, xotira, ko‘rish va yiqilish xavfini ko‘radi.",
+ "why": "Yilda bir marta yoki jadval bo‘yicha — kasalliklarni erta payqash va dorilarni to‘g‘rilash uchun.",
+ "duration": "odatda 1–2 tashrif; tahlillar — 1–3 kunda",
+ "tell_doctor": [
+  "Ichayotgan barcha dorilaringiz, o‘tlar va qo‘shimchalar bilan",
+  "Yiqilishlar yoki bosh aylanishi bo‘lgan bo‘lsa",
+  "Xotira, uyqu, eshitish yoki ko‘rish yomonlashgan bo‘lsa",
+  "Surunkali kasalliklar va operatsiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Barcha dori qadoqlarini bir xaltaga solib, o‘zingiz bilan oling."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Qon odatda ertalab och qoringa topshiriladi. Oddiy suv ichsa bo‘ladi. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Ertalabki dorilar",
+   "text": "O‘zingiz bekor qilmang. Ertalabki dorilarni tahlildan oldin ichish-ichmaslikni shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Barcha dorilar yoki ularning ro‘yxati",
+  "Avvalgi tahlillar va ko‘chirmalar",
+  "Ko‘zoynak va eshitish apparati, agar bo‘lsa"
+ ],
+ "steps": [
+  "Qon va siydik topshirasiz",
+  "Hamshira qon bosimi, vazn va bo‘yni o‘lchaydi",
+  "EKG va ro‘yxat bo‘yicha boshqa tekshiruvlar qilinadi",
+  "Shifokor ahvolingiz va dorilaringiz haqida so‘raydi",
+  "Xotira va kayfiyat haqida bir nechta savol beradi",
+  "Natijalar va reja bilan sizni tanishtiradi"
+ ],
+ "feel": [
+  "Odatda qon topshirishdagi ukoldan boshqa noxush narsa yo‘q",
+  "Charchashingiz mumkin — suv va tamaddi oling"
+ ],
+ "after": [
+  "Shifokor dorilarni to‘g‘rilashi mumkin — ularni o‘zingiz o‘zgartirmang",
+  "Kerak bo‘lsa, mutaxassislarga yo‘llashadi",
+  "Keksalar uchun emlashlarni shifokor bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nega barcha dorilarni olib kelish kerak?",
+   "a": "Shifokor ularning takrorlanmasligini va bir-biriga mosligini tekshiradi. Yoshga qarab bu ayniqsa muhim."
+  },
+  {
+   "q": "Qarindosh bilan kelsa bo‘ladimi?",
+   "a": "Ha, bu ko‘pincha yordam beradi. Qarindosh shifokor maslahatlarini eslab qoladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ko‘rik. Barcha dorilar va hujjatni oling. Ertalab — tahlillar och qoringa, suv ichsa bo‘ladi."
+  }
+ ]
+}

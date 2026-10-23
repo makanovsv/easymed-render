@@ -1,0 +1,75 @@
+{
+ "title": "Avaliação do risco cardiovascular",
+ "also": [
+  "risco cardiovascular",
+  "risco de infarto",
+  "risco de AVC",
+  "escore de risco cardiovascular"
+ ],
+ "what": "O médico avalia qual é a chance de você ter infarto ou AVC nos próximos anos. Para isso, usa a pressão, os exames e o seu estilo de vida.",
+ "why": "Em check-ups, principalmente depois dos 40 anos; com pressão alta, colesterol alto, diabetes, cigarro ou doença do coração na família.",
+ "duration": "a consulta leva normalmente de 20 a 30 minutos; a avaliação sai na hora ou depois dos exames",
+ "tell_doctor": [
+  "Se você fuma e quanto",
+  "Se tem pressão alta, diabetes ou doença nos rins",
+  "Se parentes próximos tiveram infarto ou AVC ainda jovens",
+  "Quais remédios você toma",
+  "Dor no peito ou falta de ar no esforço"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Muitas vezes são necessários colesterol e glicose no sangue. Normalmente em jejum. Confirme na clínica."
+  },
+  {
+   "title": "Pressão",
+   "text": "Se você mede em casa, leve as anotações dos últimos dias."
+  },
+  {
+   "title": "Remédios",
+   "text": "Tome como sempre. Não pare por conta própria."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Exames de colesterol e glicose, se tiver",
+  "Diário da pressão",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico pergunta sobre a saúde, os hábitos e os parentes",
+  "Mede pressão, altura, peso e cintura",
+  "Olha os exames ou pede",
+  "Às vezes faz eletrocardiograma",
+  "Calcula o risco por uma escala especial",
+  "Explica o que ajuda a diminuir o risco"
+ ],
+ "feel": [
+  "A consulta não dói",
+  "Se colherem sangue, uma picada rápida"
+ ],
+ "after": [
+  "Você recebe um plano: alimentação, atividade física, parar de fumar e, às vezes, remédios",
+  "A nova avaliação costuma ser feita em um ano ou antes. O médico vai dizer"
+ ],
+ "red_flags": [
+  "Dor no peito em aperto por mais de alguns minutos: ligue para a emergência",
+  "Fraqueza repentina no braço ou na perna, rosto torto, fala enrolada: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Se o risco é baixo, não preciso fazer nada?",
+   "a": "Mesmo assim é preciso fazer controle regular. O risco muda com a idade e com os hábitos."
+  },
+  {
+   "q": "Se o risco é alto, preciso tomar remédio?",
+   "a": "O médico decide. Às vezes, no começo, basta mudar o estilo de vida."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a avaliação do risco cardiovascular. Se for colher sangue, não coma depois do jantar; água pode."
+  }
+ ]
+}

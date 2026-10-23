@@ -1,0 +1,77 @@
+{
+ "title": "Gaymor bo‘shlig‘i punksiyasi",
+ "also": [
+  "gaymor bo‘shlig‘ini sanchish",
+  "gaymoritda punksiya",
+  "bo‘shliqni sanchish orqali yuvish"
+ ],
+ "what": "Shifokor burun orqali ingichka igna bilan bo‘shliqni sanchib, uni yuvadi. Shunday qilib yiring chiqariladi.",
+ "why": "Yiringli gaymoritda, dori bilan davolash yordam bermaganda yoki tarkibini tahlilga olish uchun.",
+ "duration": "odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar qabul qilsangiz",
+  "Og‘riqsizlantirishga allergiya",
+  "Homilador bo‘lsangiz",
+  "Yurak kasalliklari yoki bosim bormi",
+  "Burunda operatsiyalar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Rasm",
+   "text": "Odatda muolajadan oldin bo‘shliqlarning rasmi yoki KT qilinadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Oldindan yengil ovqatlansa bo‘ladi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘z dorilaringizni o‘zingiz bekor qilmang: shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Bo‘shliqlar rasmlari",
+  "Salfetkalar"
+ ],
+ "steps": [
+  "Shifokor burunni sprey yoki paxta yordamida og‘riqsizlantiradi",
+  "Siz o‘tirasiz, boshingiz biroz egiladi",
+  "Ingichka igna bilan bo‘shliq devorini sanchishadi",
+  "Igna orqali bo‘shliqni eritma bilan yuvishadi",
+  "Yiringli suyuqlik burun orqali tarnovga oqib chiqadi",
+  "Ignani olishadi"
+ ],
+ "feel": [
+  "Og‘riqsizlantirish biroz chimdiydi",
+  "Sanchish paytida qarsillash va bosim",
+  "Yuvish yonoqda to‘lib-toshish sifatida seziladi"
+ ],
+ "after": [
+  "Burundan ozgina qon: odatda tez to‘xtaydi",
+  "Dastlabki soatlarda kuchli qoqmang",
+  "Yuvish kursi va dorilar shifokor buyrug‘i bo‘yicha"
+ ],
+ "red_flags": [
+  "Burundan kuchli qon ketishi",
+  "Yonoq yoki qovoqlarning shishishi, ko‘zda og‘riq",
+  "Muolajadan keyin harorat 38 dan yuqori",
+  "Kuchli bosh og‘rig‘i, qusish: 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Bir marta sanchilsa, doim shunday qilish kerak bo‘ladimi?",
+   "a": "Yo‘q. Bu mish-mish. Sanchish odatlanish keltirmaydi."
+  },
+  {
+   "q": "Bu og‘riqlimi?",
+   "a": "Og‘riqsizlantirishdan keyin odatda og‘rimaydi, yoqimsiz bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bo‘shliq punksiyasi. Bo‘shliqlar rasmlari va salfetkalarni oling."
+  }
+ ]
+}

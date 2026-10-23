@@ -1,0 +1,77 @@
+{
+ "title": "A gepatitiga tahlil",
+ "also": [
+  "A gepatiti",
+  "Botkin kasalligi",
+  "anti-HAV",
+  "sariqlikka tahlil"
+ ],
+ "what": "Bu A gepatiti virusiga antitanalar uchun qon tahlili. U hozir kasal ekaningizni yoki allaqachon himoyalanganingizni ko‘rsatadi.",
+ "why": "Sariqlik, to‘q siydik, holsizlik va ko‘ngil aynishida, kasal bilan aloqadan keyin, A gepatitiga qarshi emlashdan oldin.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "A gepatiti bilan kasal odam bilan aloqa bo‘lgan bo‘lsa",
+  "A gepatitiga qarshi emlangan bo‘lsangiz",
+  "Yaqinda boshqa mamlakatlarga borgan bo‘lsangiz",
+  "Teri yoki ko‘zlar sarg‘ayayotgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Qat’iy och qoringa odatda kerak emas, lekin yengil ovqatdan 3–4 soat o‘tgach, yog‘siz kelgan yaxshi. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir kun oldin alkogolsiz va og‘ir mashqlarsiz. Ertalab chekmagan yaxshi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — tahlildan oldin biror narsani o‘zgartirish kerakmi, u hal qiladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqoriga oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "Emlashlar haqida ma’lumot, agar bo‘lsa"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut bog‘lanadi va musht qilish so‘raladi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Belgilar bo‘lsa — hojatxonadan keyin qo‘llarni yuving va natija chiqquncha boshqalar uchun ovqat tayyorlamang",
+  "Natijani shifokor tushuntiradi"
+ ],
+ "red_flags": [
+  "Teri sarg‘ayishi, kuchli holsizlik, qusish — o‘sha kuni shifokorga murojaat qiling",
+  "Hushning chalkashishi, kuchli uyquchanlik, qon ketishlar — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Qaysi antitanalar nimani bildiradi?",
+   "a": "IgM antitanalar odatda kasallik hozir davom etayotganini bildiradi. IgG antitanalar — siz allaqachon kasallanganingizni yoki emlanganingizni."
+  },
+  {
+   "q": "A gepatiti qanday yuqadi?",
+   "a": "Iflos qo‘llar, suv va ovqat orqali. Qo‘l yuvish va emlash yaxshi himoya qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga A gepatitiga tahlil. Ertalab yog‘li ovqatsiz yaxshiroq."
+  }
+ ]
+}

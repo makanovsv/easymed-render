@@ -1,0 +1,69 @@
+{
+ "title": "ENMG — nervlar va mushaklarni tekshirish",
+ "also": [
+  "elektroneyromiografiya",
+  "EMG",
+  "elektromiografiya",
+  "nerv o‘tkazuvchanligini tekshirish"
+ ],
+ "what": "Shifokor signal nervlar bo‘ylab qanday o‘tishini va mushaklar qanday ishlashini tekshiradi. Teridagi datchiklar, kuchsiz tok impulslari va ba’zan ingichka igna ishlatiladi.",
+ "why": "Uvishish, chimirlash, qo‘l yoki oyoqlarda holsizlikda, nerv jarohatlaridan keyin, oyoqqa beradigan bel og‘riqlarida, diabetda.",
+ "duration": "odatda 30–60 daqiqa",
+ "tell_doctor": [
+  "Yurak stimulyatori yoki tanada boshqa asbob bo‘lsa",
+  "Qonni suyultiradigan dorilar — igna bilan tekshirishsa",
+  "Qo‘l yoki oyoqlarda shish yoki teri kasalligi bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Teri",
+   "text": "Qo‘l va oyoqlarni yuving. Tekshiruv kuni krem va moy surtmang."
+  },
+  {
+   "title": "Issiqlik",
+   "text": "Sovuq qo‘l va oyoqlar natijani buzadi. Issiq kiyim va paypoqda keling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng, qo‘l va oyoqlarni oson ochish uchun. Uzuk va bilaguzuklarni yeching."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘z dorilaringizni bekor qilmang. Shubha qilsangiz — shifokorga ayting, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "ENMG va MRTning avvalgi xulosalari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Yotasiz yoki o‘tirasiz, kerakli qo‘l yoki oyoqni ochasiz",
+  "Teriga datchiklar yopishtiriladi",
+  "Shifokor nervga qisqa kuchsiz tok impulslarini beradi",
+  "Kompyuter signal qanchalik tez o‘tishini yozadi",
+  "Ba’zan mushakka ingichka igna kiritib, uni tarang qilish va bo‘shashtirishni so‘rashadi",
+  "Datchiklar olinadi"
+ ],
+ "feel": [
+  "Impulslar — qisqa chertish yoki yengil tok urishidek, noxush, lekin chidasa bo‘ladi",
+  "Mushak o‘zi tortishib ketishi mumkin — bu normal",
+  "Igna — qisqa ukoldek"
+ ],
+ "after": [
+  "Darhol ishlaringizga qaytsangiz bo‘ladi",
+  "Ignadan keyin mushak bir-ikki kun biroz sirqirashi mumkin",
+  "Xulosa darhol yoki 1–2 kunda beriladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "ENMG qilish og‘riydimi?",
+   "a": "Impulslar noxush, tok chertishidek, lekin qisqa. Ko‘pchilik odamlar tinch ko‘taradi."
+  },
+  {
+   "q": "ENMGdagi tok xavfli emasmi?",
+   "a": "Yo‘q. Tok juda kuchsiz va qisqa, u faqat nervni tekshiradi."
+  }
+ ],
+ "reminders": []
+}

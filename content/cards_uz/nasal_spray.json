@@ -1,0 +1,75 @@
+{
+ "title": "Burun spreyidan to‘g‘ri foydalanish",
+ "also": [
+  "burunga sprey",
+  "burun spreyi",
+  "burunga qanday purkash kerak",
+  "burunga tomchi",
+  "tumovga qarshi sprey"
+ ],
+ "what": "Burun spreyidan dori burun ichiga tushishi uchun, tomoqqa oqib ketmasligi uchun qanday foydalanish kerak.",
+ "why": "Shifokor tumov, allergiya, gaymorit yoki boshqa maqsadlarda sprey buyurganida.",
+ "duration": "muolajaning o‘zi — bir daqiqadan kam",
+ "tell_doctor": [
+  "Burundan tez-tez qon ketsa",
+  "Uzoq vaqt tomir toraytiruvchi spreydan foydalansangiz va usiz nafas ololmasangiz",
+  "Qon bosimi yuqori bo‘lsa yoki yurak kasalliklari bo‘lsa",
+  "Ichayotgan barcha dorilaringiz"
+ ],
+ "prepare": [
+  {
+   "title": "Burun",
+   "text": "Spreydan oldin burunni ehtiyotkorlik bilan qoqing."
+  },
+  {
+   "title": "Flakon",
+   "text": "Yangi flakonni odatda havoga bir necha marta purkash kerak — yo‘riqnomaga qarang."
+  },
+  {
+   "title": "Bolalar",
+   "text": "Bolalar uchun bolalar shakli va dozasi kerak — pediatrdan aniqlang."
+  }
+ ],
+ "bring": [
+  "Sprey",
+  "Salfetkalar"
+ ],
+ "steps": [
+  "Burunni qoqing",
+  "Yo‘riqnomada aytilgan bo‘lsa, flakonni chayqating",
+  "Boshni biroz oldinga egin",
+  "Uchini bir burun teshigiga soling, ikkinchisini barmoq bilan bosib turing",
+  "Uchini perdaga emas, o‘sha tomondagi quloq tomon yo‘naltiring",
+  "Bosing va shu bilan birga burun orqali xotirjam nafas oling",
+  "Ikkinchi burun teshigi uchun ham takrorlang va uchini arting"
+ ],
+ "feel": [
+  "Ba’zan yengil qichishish yoki og‘izda ta’m seziladi",
+  "Tomoqqa oqsa — juda kuchli nafas olgansiz yoki boshingizni orqaga tashlagansiz"
+ ],
+ "after": [
+  "Spreydan keyin darhol kuchli tortinmang",
+  "Tomir toraytiruvchi spreylar odatda bir necha kundan ko‘p ishlatilmaydi — shifokordan aniqlang",
+  "Bitta flakondan boshqa odamlar bilan birga foydalanmang"
+ ],
+ "red_flags": [
+  "Burundan qon ketishi 20 daqiqa to‘xtamasa — tez yordamni chaqiring (103)",
+  "Yuz shishishi, nafas olish qiyin — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Nega perda tomonga purkash mumkin emas?",
+   "a": "Shunda dori shilliq qavatni qitiqlaydi, qon ketishi mumkin. Quloq tomon yo‘naltirish xavfsizroq."
+  },
+  {
+   "q": "Spreyga ko‘nikib qolsa bo‘ladimi?",
+   "a": "Tomir toraytiruvchilarga — ha, uzoq ishlatilsa. Usiz turolmasangiz, shifokorga ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Burun spreyi vaqti. Burunni qoqing, boshni biroz oldinga eging, uchini quloq tomon yo‘naltiring."
+  }
+ ]
+}

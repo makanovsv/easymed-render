@@ -1,0 +1,77 @@
+{
+ "title": "Tratamiento de alveolitis después de una extracción",
+ "also": [
+  "alveolitis",
+  "alveolo seco",
+  "infección después de sacar una muela",
+  "dolor después de una extracción"
+ ],
+ "what": "El médico limpia el hueco del diente que te sacaron y pone un apósito con medicamento. Así baja el dolor y la herida sana.",
+ "why": "Cuando de 2 a 4 días después de sacarte un diente el dolor aumenta en vez de bajar y hay mal olor.",
+ "duration": "el procedimiento dura normalmente de 15 a 20 minutos; la herida sana en 1 o 2 semanas",
+ "tell_doctor": [
+  "Cuándo te sacaron el diente y cuándo empeoró el dolor",
+  "Si fumas",
+  "Si tomas medicamentos que hacen la sangre más líquida u hormonas",
+  "Si eres alérgico a algún medicamento",
+  "Si tuviste fiebre"
+ ],
+ "prepare": [
+  {
+   "title": "Cigarro",
+   "text": "No fumes. Fumar impide que la herida sane."
+  },
+  {
+   "title": "Enjuagues",
+   "text": "No hagas buches fuertes antes de la cita."
+  },
+  {
+   "title": "Analgésico",
+   "text": "Puedes tomar el analgésico que ya te permitió el médico. Dile qué tomaste."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "La lista de tus medicamentos",
+  "Las indicaciones que te dieron después de la extracción, si las tienes"
+ ],
+ "steps": [
+  "El médico revisa el hueco del diente",
+  "Si hace falta, te pone anestesia",
+  "Lava el hueco con cuidado",
+  "Quita restos de comida y del coágulo deshecho",
+  "Pone un apósito o pasta con medicamento",
+  "Te explica cómo cuidarte en casa"
+ ],
+ "feel": [
+  "El lavado puede ser molesto",
+  "Con el apósito, el dolor normalmente baja mucho en un día"
+ ],
+ "after": [
+  "No toques el hueco con la lengua ni con los dedos",
+  "No fumes ni tomes con popote",
+  "A veces hay que cambiar el apósito. Ve a tu revisión",
+  "Enjuagues y medicamentos como te indicó el médico"
+ ],
+ "red_flags": [
+  "La hinchazón del cachete sigue creciendo",
+  "Fiebre de más de 38",
+  "Te cuesta tragar o abrir la boca: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué se seca el alveolo?",
+   "a": "El coágulo de sangre del hueco se deshizo o se lavó. Pasa más en personas que fuman y después de extracciones difíciles."
+  },
+  {
+   "q": "¿Cuánto tiempo va a doler?",
+   "a": "Después del tratamiento normalmente se siente mejor en un día. Sana por completo en 1 o 2 semanas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu cita por el hueco de la extracción. No fumes ni hagas buches fuertes."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Estudio de la tos crónica",
+ "also": [
+  "tos larga",
+  "tos que no se quita",
+  "tos prolongada",
+  "estudio de la tos"
+ ],
+ "what": "El médico busca la causa de una tos que no se quita en varias semanas. Para eso pregunta, revisa y hace algunos estudios.",
+ "why": "Si la tos dura más de 3 a 8 semanas en un adulto o más de 4 semanas en un niño, sobre todo con flemas, falta de aire o sangre.",
+ "duration": "la primera consulta suele durar de 20 a 40 minutos; los estudios toman desde unos días hasta un par de semanas",
+ "tell_doctor": [
+  "Cuánto tiempo llevas con tos y cuándo es peor: de día o de noche",
+  "Si hay flemas, de qué color, si hubo sangre",
+  "Si fumas o fumaste antes",
+  "Qué medicamentos tomas: algunos para la presión causan tos",
+  "Acidez, escurrimiento nasal, alergia",
+  "Si tuviste contacto con una persona con tuberculosis"
+ ],
+ "prepare": [
+  {
+   "title": "Diario de la tos",
+   "text": "Anota cuándo la tos es más fuerte y qué la provoca: comida, frío, estar acostado, polvo."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico todo lo que tomas."
+  },
+  {
+   "title": "Imágenes anteriores",
+   "text": "Lleva la radiografía o tomografía de pulmones, si te las hicieron."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Imágenes de pulmones e informes",
+  "La lista de tus medicamentos",
+  "Análisis anteriores"
+ ],
+ "steps": [
+  "El médico te pregunta con detalle por la tos",
+  "Escucha los pulmones y revisa la garganta y la nariz",
+  "Normalmente manda una radiografía de pulmones",
+  "Puede pedir una prueba de respiración: espirometría",
+  "A veces hace falta un análisis de flemas o de sangre",
+  "Según los resultados receta tratamiento o te manda con el médico adecuado"
+ ],
+ "feel": [
+  "Los estudios normalmente no duelen",
+  "En la espirometría hay que soplar fuerte; te puedes marear"
+ ],
+ "after": [
+  "El tratamiento depende de la causa; hay varias",
+  "A veces primero prueban un tratamiento y ven si se quita la tos",
+  "La siguiente consulta, en la fecha que indique el médico"
+ ],
+ "red_flags": [
+  "Tos con sangre, falta de aire fuerte o dolor en el pecho: acude de urgencia al médico o llama a emergencias",
+  "Fiebre alta y respiración difícil: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto puede durar la tos después de un resfriado?",
+   "a": "A veces hasta 3 a 8 semanas. Si dura más o empeora, acude al médico."
+  },
+  {
+   "q": "¿Es obligatoria la radiografía de pulmones?",
+   "a": "Casi siempre sí, es uno de los primeros estudios. Lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes consulta por la tos. Lleva las imágenes de pulmones y la lista de medicamentos."
+  }
+ ]
+}

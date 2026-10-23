@@ -1,0 +1,62 @@
+{
+ "title": "Burun bo‘shliqlari KT’si",
+ "also": [
+  "burun atrofi bo‘shliqlari KT’si",
+  "bo‘shliqlar MSKT’si",
+  "burun tomografiyasi",
+  "gaymor bo‘shliqlari KT’si"
+ ],
+ "what": "Burun va bo‘shliqlarning qatlam-qatlam suratlari. Shish, suyuqlik, poliplar va burun tuzilishi ko‘rinadi.",
+ "why": "Tez-tez yoki uzoq sinusitlarda, burundagi operatsiyadan oldin, rentgen javob bermaganda.",
+ "duration": "kabinetda odatda 5–10 daqiqa, suratning o‘zi bir necha soniya; tavsif o‘sha kuni yoki 1–2 kunda",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Burunda operatsiyalar bo‘lgan bo‘lsa",
+  "Bo‘shliqlarning rentgeni yoki KT’sini allaqachon qilgan bo‘lsangiz, olib keling"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas, bo‘shliqlar uchun kontrast kamdan-kam yuboriladi. Ovqatlanish va ichish mumkin."
+  },
+  {
+   "title": "Metall",
+   "text": "Zirak, soch qisqichlari, ko‘zoynak, olinadigan tish protezlari va eshitish apparatini yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bo‘shliqlarning oldingi suratlari"
+ ],
+ "steps": [
+  "Stolga yotasiz, laborant qulay yotishga yordam beradi",
+  "Stol apparatning keng halqasiga kiradi",
+  "Boshingiz tayanchga qo‘yiladi, ba’zan qorin bilan yotib",
+  "Bir necha soniya qimirlamaslik va yutinmaslik kerak"
+ ],
+ "feel": [
+  "Og‘rimaydi, apparat sekin shovqin qiladi",
+  "Halqa keng, torlik deyarli yo‘q"
+ ],
+ "after": [
+  "Darhol ishlaringiz bilan ketishingiz mumkin",
+  "Tavsif va suratlar: LOR shifokoriga"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bo‘shliqlar KT’si rentgendan nimasi bilan yaxshi?",
+   "a": "KT barcha bo‘shliqlarni va ularning yo‘llarini batafsil ko‘rsatadi. Bu operatsiyadan oldin va murakkab holatlarda muhim."
+  },
+  {
+   "q": "Burun oqayotganda bo‘shliqlar KT’sini qilsa bo‘ladimi?",
+   "a": "Ha. Lekin KT rejali bo‘lsa, shifokor uni o‘tkir burun oqishini davolagandan keyin qilishni so‘rashi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada burun bo‘shliqlari KT’si. Zirak va soch qisqichlarini yeching, oldingi suratlarni oling."
+  }
+ ]
+}

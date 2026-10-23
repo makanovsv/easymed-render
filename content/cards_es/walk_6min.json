@@ -1,0 +1,79 @@
+{
+ "title": "Prueba de caminata de seis minutos",
+ "also": [
+  "caminata de 6 minutos",
+  "prueba de marcha de 6 minutos",
+  "prueba de caminata",
+  "prueba de esfuerzo caminando"
+ ],
+ "what": "Caminas por un pasillo durante 6 minutos a tu ritmo. Miden cuántos metros recorriste y cómo cambian el pulso y el oxígeno.",
+ "why": "En enfermedades de los pulmones y del corazón, para evaluar la resistencia, elegir el tratamiento o ver cómo ayuda.",
+ "duration": "normalmente de 20 a 30 minutos, con el descanso; el resultado se da en el momento",
+ "tell_doctor": [
+  "Qué medicamentos tomas",
+  "Si te duele el pecho o te mareas mucho con el esfuerzo",
+  "Si usas oxígeno, bastón o andadera",
+  "Si te duelen las articulaciones o las piernas"
+ ],
+ "prepare": [
+  {
+   "title": "Ropa",
+   "text": "Ropa y zapatos cómodos para caminar."
+  },
+  {
+   "title": "Comida",
+   "text": "Una comida ligera un par de horas antes de la prueba. No vengas en ayunas."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Normalmente tus medicamentos se toman como siempre. Confírmalo con el médico."
+  },
+  {
+   "title": "Esfuerzo",
+   "text": "En las 2 horas anteriores a la prueba, no hagas ejercicio."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Zapatos cómodos",
+  "Bastón o andadera, si los usas",
+  "Inhalador, si tienes"
+ ],
+ "steps": [
+  "Descansas sentado unos 10 minutos",
+  "Te miden la presión, el pulso y el oxígeno en el dedo",
+  "Caminas por el pasillo de ida y vuelta durante 6 minutos",
+  "Puedes ir más despacio o detenerte si te cuesta",
+  "Cada minuto te dicen cuánto falta",
+  "Después de la prueba te miden otra vez el pulso y el oxígeno"
+ ],
+ "feel": [
+  "Puede aparecer falta de aire y cansancio",
+  "Las piernas se cansan: es normal"
+ ],
+ "after": [
+  "Siéntate unos minutos después de la prueba",
+  "El resultado, los metros recorridos, se te dice en el momento",
+  "El médico lo comparará con pruebas anteriores"
+ ],
+ "red_flags": [
+  "Dolor en el pecho, falta de aire fuerte o mareo durante la prueba: detente de inmediato y avisa",
+  "El dolor en el pecho no se quita con el descanso: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Hay que correr?",
+   "a": "No. Camina rápido, pero a un ritmo cómodo para ti. No se puede correr."
+  },
+  {
+   "q": "¿Puedo detenerme?",
+   "a": "Sí. Descansa y sigue cuando puedas. El tiempo sigue corriendo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la prueba de caminata de seis minutos. Usa zapatos cómodos y desayuna ligero."
+  }
+ ]
+}

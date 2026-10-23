@@ -1,0 +1,73 @@
+{
+ "title": "Parto com acompanhante",
+ "also": [
+  "parto com acompanhante",
+  "parto com o marido",
+  "acompanhante no parto",
+  "parto com a mãe junto"
+ ],
+ "what": "Uma pessoa próxima fica ao seu lado durante o parto. Ela apoia, ajuda a respirar e a mudar de posição.",
+ "why": "Quando você quer ter perto o marido, a mãe ou outra pessoa próxima. É uma escolha sua.",
+ "duration": "normalmente durante todo o parto; a forma exata segue as regras da maternidade",
+ "tell_doctor": [
+  "Se você quer um acompanhante no parto: avise antes",
+  "Quem vai ficar com você",
+  "Se o acompanhante tem os exames exigidos, caso peçam",
+  "O que você deseja: o que o acompanhante pode e não pode fazer"
+ ],
+ "prepare": [
+  {
+   "title": "Regras da maternidade",
+   "text": "Pergunte antes quais exames e documentos o acompanhante precisa."
+  },
+  {
+   "title": "Preparo",
+   "text": "É bom o acompanhante fazer o curso de preparação para o parto."
+  },
+  {
+   "title": "Roupa do acompanhante",
+   "text": "Roupa e calçado limpos para trocar; às vezes, um avental descartável."
+  }
+ ],
+ "bring": [
+  "Documentos do acompanhante",
+  "Exames do acompanhante, se pedirem",
+  "Roupa e calçado para o acompanhante trocar",
+  "Água e lanche para o acompanhante"
+ ],
+ "steps": [
+  "O acompanhante chega com você ou depois, conforme as regras da maternidade",
+  "Ele troca de roupa por uma limpa",
+  "Nas contrações, ajuda a respirar e faz massagem na lombar",
+  "Ajuda a mudar de posição e oferece água",
+  "Segue as orientações dos médicos e da parteira",
+  "Depois do parto, pode ficar com você e com o bebê"
+ ],
+ "feel": [
+  "O apoio de alguém próximo costuma ajudar a passar pelas contrações com mais calma",
+  "Pode ser difícil para o acompanhante ver você com dor. Isso é normal"
+ ],
+ "after": [
+  "O acompanhante pode ajudar na primeira mamada do bebê",
+  "Normalmente o acompanhante sai depois da observação na sala de parto. A maternidade explica as regras"
+ ],
+ "red_flags": [
+  "O acompanhante passou mal: ele deve avisar a equipe na hora e sair da sala"
+ ],
+ "faq": [
+  {
+   "q": "O acompanhante pode sair durante o parto?",
+   "a": "Sim, a qualquer momento. A equipe diz qual é a melhor hora."
+  },
+  {
+   "q": "O que o acompanhante faz se os médicos estiverem ocupados?",
+   "a": "Não atrapalhar, segurar a sua mão e fazer o que a equipe pedir."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Lembrete: confira se os documentos e exames do acompanhante para a maternidade estão prontos."
+  }
+ ]
+}

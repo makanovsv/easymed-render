@@ -1,0 +1,82 @@
+{
+ "title": "Kontrastli jigar UZI’si",
+ "also": [
+  "jigar KUUZI",
+  "kontrastli UZI",
+  "jigarning kontrastli ultratovush tekshiruvi",
+  "mikropufakchali jigar UZI’si"
+ ],
+ "what": "Bu jigar UZI’si bo‘lib, vaqtida venaga mayda gaz pufakchalaridan iborat maxsus kontrast yuboriladi. Shunda shifokor jigardagi o‘choqlarning qon bilan qanday to‘lishini ko‘radi.",
+ "why": "Oddiy UZI, KT yoki MRT’da jigarda topilgan o‘choq nima ekanini tushunish uchun; jigar davolangandan keyin kuzatuvda.",
+ "duration": "tayyorgarlik bilan birga odatda 20–40 daqiqa, xulosa odatda o‘sha kuni",
+ "tell_doctor": [
+  "Allergiyalar, ayniqsa ilgari kontrastga reaksiya bo‘lganmi",
+  "Yurak va o‘pka kasalliklari, ayniqsa yaqinda yomonlashgan bo‘lsa",
+  "Homilador bo‘lsangiz yoki ko‘krak bilan boqsangiz",
+  "Ichayotgan barcha dorilaringizni",
+  "Jigarning oldingi suratlarini olib keling"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda 4–6 soat ovqatsiz, gazsiz suv mumkin. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting."
+  },
+  {
+   "title": "Buyraklar",
+   "text": "Bu kontrast buyraklarga zarar qilmaydi, buyrak tahlillari odatda kerak emas: klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Tekshiruvdan keyin odatda klinikada taxminan 30 daqiqa o‘tirishni so‘rashadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Jigarning oldingi UZI, KT va MRT natijalari",
+  "Dorilar ro‘yxati",
+  "Salfetkalar"
+ ],
+ "steps": [
+  "Hamshira qo‘lingizdagi venaga ingichka kateter qo‘yadi",
+  "Chalqancha yotasiz, qoringa gel surtiladi",
+  "Shifokor avval jigarni oddiy UZI bilan ko‘radi",
+  "Kateter orqali oz miqdorda kontrast yuboriladi",
+  "Shifokor o‘choqni bir necha daqiqa kuzatadi, ba’zan nafasni ushlab turishni so‘rashadi",
+  "Kateter olinadi, paxta bosiladi"
+ ],
+ "feel": [
+  "Kateter qo‘yilganda qisqa sanchiq",
+  "Kontrast odatda sezilmaydi, ba’zan yengil issiqlik yoki g‘alati ta’m bo‘ladi",
+  "Kamdan-kam yengil bosh og‘rig‘i yoki ko‘ngil aynishi: shifokorga ayting"
+ ],
+ "after": [
+  "Odatda taxminan 30 daqiqa kuzatuv ostida qolasiz",
+  "Keyin ovqatlanib, ishlaringizga qaytish mumkin",
+  "Xulosa odatda o‘sha kuni",
+  "Keyingi rejani davolovchi shifokor muhokama qiladi"
+ ],
+ "red_flags": [
+  "Toshma, qichishish, yuz yoki lablar shishsa, darhol shifokorga ayting",
+  "Nafas olish qiyin bo‘lsa, ko‘krakda og‘riq, kuchli holsizlik bo‘lsa va allaqachon uyda bo‘lsangiz, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Bu kontrast KT’dagi bilan bir xilmi?",
+   "a": "Yo‘q. Unda yod yo‘q, u nafas bilan o‘pka orqali chiqadi va buyraklarga yuk bo‘lmaydi."
+  },
+  {
+   "q": "Bu kontrastga allergiya bo‘ladimi?",
+   "a": "Kamdan-kam. Shuning uchun tekshiruvdan keyin klinikada sizni biroz kuzatishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga kontrastli jigar UZI’si. 4–6 soat ovqat yemang, gazsiz suv mumkin. Oldingi suratlarni oling."
+  }
+ ]
+}

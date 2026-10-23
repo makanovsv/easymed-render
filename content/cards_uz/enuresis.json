@@ -1,0 +1,72 @@
+{
+ "title": "Bolada tungi siydik tutolmaslikni davolash",
+ "also": [
+  "enurez",
+  "tungi siydik tutolmaslik",
+  "bola kechasi siyib qo‘yadi",
+  "ho‘l to‘shak"
+ ],
+ "what": "Enurez — 5 yoshdan katta bola tunda uyquda siysa. Bu tez-tez uchraydigan holat va uni davolashadi.",
+ "why": "Bola 5 yoshdan katta bo‘lib, muntazam ho‘l bo‘lib uyg‘onsa yoki enurez quruq davrdan keyin paydo bo‘lsa.",
+ "duration": "qabul odatda 20–40 daqiqa, davo odatda bir necha oy",
+ "tell_doctor": [
+  "Ho‘l tunlar qanchalik tez-tez bo‘lishi",
+  "Quruq davrlar bo‘lganmi",
+  "Kunduzi siydik tutolmaslik, ich qotishi bo‘ladimi",
+  "Bola qancha va qachon ichishi",
+  "Stresslar bo‘lganmi: ko‘chish, maktab, ajrashish"
+ ],
+ "prepare": [
+  {
+   "title": "Kundalik",
+   "text": "Bir necha kun bola qancha ichishini, qachon hojatxonaga borishini va tunlar ho‘l bo‘lganini yozib boring. Bu shifokorga juda yordam beradi."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Odatda siydik tahlili kerak, ba’zan UZI — klinikadan aniqlab oling."
+  },
+  {
+   "title": "Suhbat",
+   "text": "Bolaga shifokorga so‘kish uchun emas, yordam uchun ketayotganingizni tushuntiring."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjatlari",
+  "Siyish kundaligi",
+  "Avvalgi tahlillar"
+ ],
+ "steps": [
+  "Shifokor sizdan va bolangizdan so‘raydi",
+  "Bolani ko‘radi",
+  "Kundalik va tahlillarni ko‘radi",
+  "Ba’zan UZI tayinlaydi",
+  "Rejani tushuntiradi: ichish tartibi, tungi enurez uchun budilnik yoki dorilar"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "Yaxshilanish odatda asta-sekin, orqaga qaytishlar bo‘ladi — bu normal"
+ ],
+ "after": [
+  "Bolani so‘kmang va jazolamang — bu yordam bermaydi",
+  "Quruq tunlar uchun maqtang",
+  "Kundalik yuritib, shifokorga ko‘rsating",
+  "Takroriy qabul — shifokor rejasiga ko‘ra"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bu o‘zi o‘tib ketadimi?",
+   "a": "Ko‘pincha yosh bilan o‘tadi, lekin davo uni tezlashtiradi va bolaning stressini kamaytiradi. Shifokor bilan birga qaror qiling."
+  },
+  {
+   "q": "Bolani tunda uyg‘otish kerakmi?",
+   "a": "Tunda soat bo‘yicha turg‘izish odatda bolani o‘rgatmaydi. Sizning holatingizda nima qilish kerakligini shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga enurez bo‘yicha qabul. Siyish kundaligi va bolaning hujjatlarini oling."
+  }
+ ]
+}

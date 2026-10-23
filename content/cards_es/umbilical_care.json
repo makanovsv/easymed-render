@@ -1,0 +1,80 @@
+{
+ "title": "Cuidado del ombligo del recién nacido",
+ "also": [
+  "ombligo del recién nacido",
+  "herida del ombligo",
+  "limpieza del ombligo",
+  "cuidado del ombligo del bebé",
+  "cordón umbilical"
+ ],
+ "what": "Al salir del hospital, al bebé le queda un trocito de cordón. Se seca y se cae solo, y la heridita sana. Tu tarea es mantenerla limpia y seca.",
+ "why": "Para todos los recién nacidos, en las primeras semanas de vida.",
+ "duration": "el trocito de cordón suele caerse en 1 a 3 semanas, y la herida sana en unos días más",
+ "tell_doctor": [
+  "Si el ombligo se pone rojo alrededor, se hincha o huele mal",
+  "Si de la herida sale líquido o sangre",
+  "Si el trocito no se ha caído después de 3 semanas",
+  "Si el bebé tiene fiebre o está decaído"
+ ],
+ "prepare": [
+  {
+   "title": "Limpieza",
+   "text": "Lávate las manos antes de cuidar el ombligo."
+  },
+  {
+   "title": "Sequedad",
+   "text": "Hoy normalmente se recomienda el cuidado seco: mantener el ombligo limpio y al aire. Pregunta al pediatra si hace falta curarlo."
+  },
+  {
+   "title": "Pañal",
+   "text": "Dobla el borde del pañal por debajo del ombligo para que no roce ni se moje."
+  },
+  {
+   "title": "Baño",
+   "text": "El pediatra te dirá si se puede bañar al bebé en la tina."
+  }
+ ],
+ "bring": [
+  "Hisopos y toallitas limpios",
+  "Pañales",
+  "Agua hervida"
+ ],
+ "steps": [
+  "Lávate las manos",
+  "Revisa el ombligo y la piel alrededor",
+  "Si la herida se ensució, enjuágala con agua hervida y sécala con toques suaves",
+  "Deja el ombligo al aire unos minutos",
+  "Ponle el pañal, doblando el borde por debajo del ombligo",
+  "No jales el trocito de cordón, aunque esté casi desprendido"
+ ],
+ "feel": [
+  "Al bebé no le duele, porque el cordón no tiene nervios",
+  "Puede haber una gota de sangre cuando se cae, y se quita sola"
+ ],
+ "after": [
+  "Cuando se cae el trocito, mantén la herida limpia unos días más",
+  "No se tapa el ombligo con curitas ni vendas",
+  "Muéstrale el ombligo al pediatra en la visita a casa o en la consulta"
+ ],
+ "red_flags": [
+  "El enrojecimiento alrededor del ombligo se extiende, hay hinchazón, pus o mal olor: ve al pediatra de inmediato",
+  "El bebé tiene fiebre, está decaído o mama mal: llama a emergencias",
+  "El ombligo sangra y no para"
+ ],
+ "faq": [
+  {
+   "q": "¿Hay que ponerle alcohol o un antiséptico al ombligo?",
+   "a": "Hoy normalmente no hace falta. Basta con mantenerlo limpio y seco. Confírmalo con el pediatra."
+  },
+  {
+   "q": "El ombligo se abulta cuando llora, ¿es peligroso?",
+   "a": "Muchas veces es una hernia umbilical, común en los bebés. Muéstrasela al pediatra: te dirá qué hacer."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Muéstrale el ombligo del bebé al pediatra en la próxima revisión. Mantén la herida limpia y seca."
+  }
+ ]
+}

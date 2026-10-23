@@ -1,0 +1,89 @@
+{
+ "title": "Chemotherapy: how a course goes",
+ "also": [
+  "chemo",
+  "chemotherapy",
+  "chemotherapy infusion",
+  "chemo drip",
+  "chemotherapy course"
+ ],
+ "what": "Medicines against a tumor are given into a vein through a drip. The course runs in cycles: treatment days and rest days.",
+ "why": "For cancer, as decided by your oncologist.",
+ "duration": "one infusion takes from 30 minutes to several hours; a course lasts several weeks or months",
+ "tell_doctor": [
+  "All medicines, vitamins, and herbs, since some cannot be combined with chemo",
+  "A fever, cough, or infection in recent days",
+  "How you handled the last cycle: nausea, weakness, numbness",
+  "Pregnancy or plans for it",
+  "Planned dental treatment"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Before each cycle, a blood test is usually taken. If it is poor, the cycle may be postponed."
+  },
+  {
+   "title": "Food",
+   "text": "Usually a light breakfast is fine in the morning. Check with the clinic."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop or add anything on your own. Take anti-nausea medicines on your doctor's schedule."
+  },
+  {
+   "title": "Time",
+   "text": "The infusion can be long, so bring water, a snack, and a book."
+  }
+ ],
+ "bring": [
+  "The referral and test results",
+  "An ID",
+  "A list of your medicines",
+  "Water, a snack, a blanket, headphones"
+ ],
+ "steps": [
+  "The nurse checks your tests and how you feel",
+  "A line is placed in a vein, or connected to a port",
+  "First you get anti-nausea and anti-allergy medicines",
+  "Then the chemotherapy drip is connected",
+  "The nurse watches how you feel",
+  "At the end, the line is flushed and disconnected"
+ ],
+ "feel": [
+  "The drip itself usually does not hurt",
+  "You may have nausea, weakness, or a change in taste, different on different days",
+  "If it burns at the injection site, tell the nurse right away"
+ ],
+ "after": [
+  "Drink enough water, unless your doctor limited it",
+  "Wash your hands and avoid contact with sick people",
+  "Keep notes on how you feel and show your doctor",
+  "Take medicines for side effects on schedule"
+ ],
+ "red_flags": [
+  "A fever of 38°C (100.4°F) or higher: call your doctor or emergency services right away",
+  "Shortness of breath, a rash, or a swollen face during or after the drip: call emergency services",
+  "Vomiting so you cannot drink, or severe diarrhea",
+  "Bleeding or bruises for no reason"
+ ],
+ "faq": [
+  {
+   "q": "Will my hair fall out?",
+   "a": "Not with every medicine. Your doctor will tell you what to expect with your plan."
+  },
+  {
+   "q": "Can I work during chemo?",
+   "a": "Many people do. It depends on the plan and how you feel, so talk to your doctor."
+  },
+  {
+   "q": "Why is a fever so dangerous?",
+   "a": "Chemo lowers your defense against infection. Even a slight fever needs a quick call to your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Chemotherapy infusion tomorrow. Have your tests done if needed. Bring water, a snack, and a blanket."
+  }
+ ]
+}

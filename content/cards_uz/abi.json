@@ -1,0 +1,72 @@
+{
+ "title": "To‘piq-yelka indeksi",
+ "also": [
+  "to‘piq-yelka indeksi",
+  "oyoqdagi qon bosimi",
+  "oyoq tomirlarini tekshirish",
+  "TYI"
+ ],
+ "what": "Hamshira qo‘llaringiz va to‘piqlaringizdagi qon bosimini o‘lchaydi. Agar oyoqlarda bosim ancha past bo‘lsa, oyoq tomirlari torayib qolgan bo‘lishi mumkin.",
+ "why": "Yurganda oyoq og‘riganda, chekuvchilarda, qandli diabet va yuqori bosimda, oyoq tomirlarini tekshirish uchun.",
+ "duration": "odatda 15–20 daqiqa, natija odatda darrov",
+ "tell_doctor": [
+  "Yurganda oyoqlar og‘riydi, dam olganda o‘tib ketadi",
+  "Qandli diabet va yuqori qon bosimi",
+  "Chekasizmi",
+  "Oyoqlarda yomon bitadigan yaralar",
+  "Biror qo‘lda bosim o‘lchash mumkin bo‘lmasa"
+ ],
+ "prepare": [
+  {
+   "title": "Dam olish",
+   "text": "Oldinroq keling va 5–10 daqiqa dam oling. Testdan oldin chekmang va qahva ichmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng shim yoki yubka, to‘piqlar oson ochilishi uchun. Paypoq oson yechiladigan bo‘lsin."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Tayyorgarlik kerak emas, ovqatlansangiz bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Dorilar ro‘yxati",
+  "Oyoq tomirlarining oldingi UZI natijalari"
+ ],
+ "steps": [
+  "Bir necha daqiqa orqangizga yotasiz",
+  "Ikkala qo‘lga va ikkala to‘piqqa manjetka bog‘lanadi",
+  "Kichik datchik bilan qo‘l va oyoq tomiri urishini tinglashadi",
+  "Manjetka shishiriladi va sekin bo‘shatiladi",
+  "Bosim to‘rtala nuqtada o‘lchanadi",
+  "Indeksni asbob yoki hamshira hisoblaydi"
+ ],
+ "feel": [
+  "Manjetka qo‘l va oyog‘ingizni bir necha soniya siqadi",
+  "Datchik uchun salqin gel"
+ ],
+ "after": [
+  "Darrov odatiy ishlaringizga qaytishingiz mumkin",
+  "Natija odatda darrov beriladi",
+  "Indeks me’yordan farq qilsa, shifokor oyoq tomirlari UZI ni buyurishi mumkin"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nega oyoqlarda bosim o‘lchanadi?",
+   "a": "Oyoq tomirlari torayib qolgan bo‘lsa, u yerda bosim qo‘llardagidan past bo‘ladi. Bu muammoni topishning oddiy usuli."
+  },
+  {
+   "q": "Og‘riqlimi?",
+   "a": "Yo‘q. Oddiy qon bosimini o‘lchashga o‘xshaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga to‘piq-yelka indeksi tekshiruvi. Ertalab chekmang va qahva ichmang. Tizzagacha oson ko‘tariladigan kiyim kiying."
+  }
+ ]
+}

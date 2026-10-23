@@ -1,0 +1,72 @@
+{
+ "title": "Plugues nos pontos lacrimais",
+ "also": [
+  "plug lacrimal",
+  "oclusão do ponto lacrimal",
+  "plugue para olho seco",
+  "tampão lacrimal"
+ ],
+ "what": "O médico coloca plugues minúsculos nos furinhos por onde a lágrima escorre para o nariz. A lágrima fica mais tempo no olho.",
+ "why": "Para olho seco, quando os colírios ajudam pouco.",
+ "duration": "o procedimento leva normalmente de 10 a 15 minutos",
+ "tell_doctor": [
+  "Se você tem alergia",
+  "Se tem conjuntivite ou lacrimejamento com frequência",
+  "Se já teve doença nas vias lacrimais",
+  "Quais colírios você já usa"
+ ],
+ "prepare": [
+  {
+   "title": "Maquiagem",
+   "text": "Venha sem maquiagem nos olhos."
+  },
+  {
+   "title": "Colírios",
+   "text": "Use seus colírios como sempre e conte ao médico quais são."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Colírios que você usa",
+  "Óculos escuros"
+ ],
+ "steps": [
+  "O médico pinga um colírio anestésico",
+  "Examina os pontos lacrimais no microscópio",
+  "Às vezes alarga um pouco o ponto lacrimal",
+  "Coloca o plugue com uma pinça",
+  "Confere se o plugue ficou no lugar certo"
+ ],
+ "feel": [
+  "Normalmente não dói",
+  "Sensação de leve pressão no canto do olho",
+  "Nos primeiros dias você pode sentir o plugue; depois se acostuma"
+ ],
+ "after": [
+  "Pode voltar às atividades normais logo depois",
+  "Não esfregue o canto dos olhos",
+  "Se o plugue incomodar ou cair, avise o médico",
+  "Revisão conforme o plano do médico"
+ ],
+ "red_flags": [
+  "Lacrimejamento muito forte",
+  "Vermelhidão, inchaço ou pus no canto do olho",
+  "Dor no canto do olho"
+ ],
+ "faq": [
+  {
+   "q": "Os plugues ficam para sempre?",
+   "a": "Existem plugues temporários, que se dissolvem, e de longa duração. O médico escolhe."
+  },
+  {
+   "q": "Dá para tirar?",
+   "a": "Sim, os plugues de longa duração normalmente podem ser retirados."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a colocação dos plugues lacrimais. Sem maquiagem; leve seus colírios."
+  }
+ ]
+}

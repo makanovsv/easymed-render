@@ -1,0 +1,78 @@
+{
+ "title": "Home pregnancy test",
+ "also": [
+  "pregnancy test",
+  "pregnancy test strip",
+  "how to take a pregnancy test",
+  "two lines on a pregnancy test"
+ ],
+ "what": "A home test looks for the pregnancy hormone in urine. If it is there, a second line or a sign appears.",
+ "why": "If your period is late or you think you may be pregnant.",
+ "duration": "the test itself takes a few minutes; read the result after the time given in the instructions",
+ "tell_doctor": [
+  "The date your last period started",
+  "Your test result and when you took it",
+  "All the medicines you take",
+  "If you had lower belly pain or bloody spotting"
+ ],
+ "prepare": [
+  {
+   "title": "When",
+   "text": "It is most accurate from the first day of a missed period. Earlier, the test may not show it yet."
+  },
+  {
+   "title": "Time of day",
+   "text": "Morning is best, with your first urine. It has more hormone."
+  },
+  {
+   "title": "Water",
+   "text": "Do not drink a lot of water before the test. It dilutes the urine."
+  },
+  {
+   "title": "Instructions",
+   "text": "Read the instructions. Different tests have different waiting times."
+  }
+ ],
+ "bring": [
+  "A test that has not expired",
+  "A clock or timer",
+  "A clean, dry cup, if needed"
+ ],
+ "steps": [
+  "Wash your hands and open the test right before using it",
+  "Hold the tip in your urine stream or dip it in the cup, for as many seconds as the instructions say",
+  "Lay the test flat with the window facing up",
+  "Wait for the time in the instructions",
+  "Read the result. The control line should always appear"
+ ],
+ "feel": [
+  "Nothing. The test is painless",
+  "Waiting can be nerve-racking. That is normal"
+ ],
+ "after": [
+  "Two lines, even faint ones, usually mean pregnancy. Make an appointment with a gynecologist",
+  "One line but still no period: repeat the test in 2 to 3 days",
+  "No control line means the test is faulty. Use a new one",
+  "A result that shows up after the time in the instructions does not count"
+ ],
+ "red_flags": [
+  "A positive test and severe lower belly pain, especially on one side: call emergency services",
+  "A positive test with bleeding, weakness, or fainting: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "The second line is very faint. Am I pregnant?",
+   "a": "Most likely yes. It is just very early. Repeat the test in 2 days or have a blood hCG test."
+  },
+  {
+   "q": "Can the test be wrong?",
+   "a": "A negative one can be, if it is too early. A positive one is rarely wrong. Either way, a doctor will confirm."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Pregnancy test tomorrow morning. Use your first morning urine and follow the instructions."
+  }
+ ]
+}

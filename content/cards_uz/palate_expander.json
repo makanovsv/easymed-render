@@ -1,0 +1,70 @@
+{
+ "title": "Tanglay kengaytirgichi",
+ "also": [
+  "yuqori jag‘ kengaytirgichi",
+  "tanglayni kengaytirish apparati",
+  "tanglay ekspanderi"
+ ],
+ "what": "Bu yuqori tishlarga qo‘yiladigan vintli apparat. Uni asta-sekin buraydilar va yuqori jag‘ kengayadi.",
+ "why": "Yuqori jag‘ tor bo‘lganda, tishlarga joy yetmaganda yoki tishlov o‘zaro kesishganda.",
+ "duration": "o‘rnatish odatda 30–60 daqiqa, odatda bir necha oy taqiladi",
+ "tell_doctor": [
+  "Allergiyalar, shu jumladan metallarga",
+  "Burun va nafas bilan muammolar",
+  "Surunkali kasalliklar va dorilar",
+  "Bola tishlarini g‘ijirlatsa"
+ ],
+ "prepare": [
+  {
+   "title": "Kayfiyat",
+   "text": "Bolaga apparat og‘izda seziladi, lekin unga ko‘nikishini tushuntiring."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Oldingi kuni va o‘rnatish kuni yumshoq ovqat tayyorlab qo‘ying."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Suratlar, olingan bo‘lsa",
+  "Uyda dastlabki kunlar uchun yumshoq ovqat"
+ ],
+ "steps": [
+  "Shifokor qolip oladi yoki tishlarni skanerlaydi",
+  "Apparat qolip bo‘yicha tayyorlanadi",
+  "Keyingi tashrifda u tishlarga mahkamlanadi",
+  "Shifokor vintni kalit bilan qanday burashni ko‘rsatadi",
+  "Qanchalik tez-tez burash va qachon kelishni belgilaydi"
+ ],
+ "feel": [
+  "Burashdan keyin tishlar va tanglayda bosim",
+  "Dastlabki kunlari gapirish va yutish qiyin",
+  "Old tishlar orasida tirqish paydo bo‘lishi mumkin — shunday bo‘lishi kerak"
+ ],
+ "after": [
+  "Vintni aynan shifokor aytganidek buring",
+  "Dastlabki kunlari yumshoq ovqat, qattiq va yopishqoq bo‘lmasin",
+  "Tishlar va apparatni yaxshilab tozalang",
+  "Belgilangan kunlarda nazoratga keling"
+ ],
+ "red_flags": [
+  "Apparat ajralib ketdi yoki sindi",
+  "Tanglayda kuchli og‘riq yoki yaralar"
+ ],
+ "faq": [
+  {
+   "q": "Tishlar orasidagi tirqish qayerdan?",
+   "a": "Bu jag‘ kengayayotganining belgisi. Keyin tirqish odatda o‘zi yoki shifokor yordamida yopiladi."
+  },
+  {
+   "q": "Burashni o‘tkazib yuborsa bo‘ladimi?",
+   "a": "Sxemani o‘zingiz o‘zgartirmang. O‘tkazib yuborgan bo‘lsangiz — shifokorga ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga tanglay kengaytirgichini o‘rnatish. Dastlabki kunlar uchun yumshoq ovqat tayyorlab qo‘ying."
+  }
+ ]
+}

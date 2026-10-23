@@ -1,0 +1,82 @@
+{
+ "title": "Extirpación de un pólipo del estómago",
+ "also": [
+  "polipectomía gástrica",
+  "extirpación endoscópica de pólipo",
+  "quitar un pólipo en la gastroscopia"
+ ],
+ "what": "Con el gastroscopio, el médico quita un pólipo del estómago con un asa delgada o con pinzas. No hay cortes en el abdomen.",
+ "why": "Cuando en una gastroscopia encontraron un pólipo y hay que quitarlo y estudiarlo.",
+ "duration": "el procedimiento normalmente dura de 20 a 60 minutos; a veces te observan hasta la tarde o pasas la noche en el hospital; la histología sale en 1 o 2 semanas",
+ "tell_doctor": [
+  "Medicamentos que adelgazan la sangre; el médico dirá cuáles suspender y cuándo",
+  "Diabetes",
+  "Enfermedades del corazón, marcapasos",
+  "Alergias y problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Normalmente hacen falta análisis de sangre de coagulación y tipo de sangre. La clínica te dará la lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comas durante 6 a 8 horas; el agua, hasta la hora que diga la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. El médico te dirá cuáles omitir."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Después de la sedación necesitas un acompañante."
+  }
+ ],
+ "bring": [
+  "La orden médica y el informe de la gastroscopia anterior",
+  "Identificación",
+  "La lista de tus medicamentos",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te ponen un catéter en una vena",
+  "Te acuestas del lado izquierdo y te colocan un protector en la boca",
+  "Te dan la sedación y te duermes",
+  "El médico introduce el gastroscopio, encuentra el pólipo y lo corta con el asa",
+  "Cauterizan el sitio o lo cierran con clips",
+  "Mandan el pólipo al laboratorio"
+ ],
+ "feel": [
+  "Con sedación normalmente no sientes ni recuerdas el procedimiento",
+  "Después hay irritación en la garganta e hinchazón",
+  "A veces una molestia leve en la parte alta del abdomen"
+ ],
+ "after": [
+  "Empiezas a comer pasado el tiempo que diga el médico, primero comida suave y tibia",
+  "Unos días, comida suave, sin picante, nada caliente ni alcohol",
+  "El médico puede recetarte medicamentos para proteger el estómago",
+  "Después de la sedación no manejes el resto del día",
+  "El resultado de la histología sale en 1 o 2 semanas"
+ ],
+ "red_flags": [
+  "Vómito con sangre o con aspecto de “café molido”: llama a emergencias",
+  "Heces negras y líquidas, debilidad, mareo: llama a emergencias",
+  "Dolor fuerte en el abdomen o fiebre"
+ ],
+ "faq": [
+  {
+   "q": "¿Un pólipo es cáncer?",
+   "a": "Casi siempre no. Solo lo dirá con exactitud el análisis del tejido después de quitarlo."
+  },
+  {
+   "q": "¿Va a doler?",
+   "a": "Normalmente no. En el estómago no hay nervios del dolor y el procedimiento se hace con sedación."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana te quitan el pólipo del estómago. Después de la cena ya no comas. En la mañana ven con un acompañante."
+  }
+ ]
+}

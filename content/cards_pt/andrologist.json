@@ -1,0 +1,71 @@
+{
+ "title": "Consulta com andrologista",
+ "also": [
+  "andrologista",
+  "urologista",
+  "médico do homem",
+  "saúde masculina"
+ ],
+ "what": "O andrologista é o médico da saúde do homem. Ele cuida de questões de ereção, fertilidade e hormônios.",
+ "why": "Para problemas de ereção, quando o casal tenta engravidar há muito tempo sem conseguir, dor no saco escrotal ou queda do desejo.",
+ "duration": "a consulta leva normalmente de 20 a 40 minutos; os exames saem em 1 a 7 dias",
+ "tell_doctor": [
+  "O que exatamente incomoda e há quanto tempo",
+  "Quais remédios e suplementos você toma",
+  "Doenças crônicas: diabetes, pressão, doenças do coração",
+  "Cirurgias e pancadas anteriores na região da virilha",
+  "Resultados de exames anteriores, se tiver"
+ ],
+ "prepare": [
+  {
+   "title": "Perguntas",
+   "text": "Anote antes tudo o que quer perguntar. Na consulta é fácil esquecer."
+  },
+  {
+   "title": "Higiene",
+   "text": "Banho normal na véspera. Normalmente não precisa de preparo especial."
+  },
+  {
+   "title": "Exames",
+   "text": "Se o médico já pediu espermograma, é preciso ficar alguns dias sem ejacular. Confirme o prazo na clínica."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Resultados de exames e ultrassons anteriores",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas, a saúde e o estilo de vida",
+  "Examina os órgãos genitais",
+  "Às vezes examina a próstata pelo ânus",
+  "Pode fazer ultrassom na hora",
+  "Pede exames e explica o plano"
+ ],
+ "feel": [
+  "O exame é rápido e normalmente não dói",
+  "Ficar sem graça é normal. O médico vê essas questões todos os dias"
+ ],
+ "after": [
+  "Faça os exames pedidos",
+  "Volte quando tiver os resultados",
+  "O tratamento é indicado só pelo médico, com base nos resultados"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "É mesmo necessário falar dessas coisas com o médico?",
+   "a": "Sim. A maioria dos problemas tem solução quando é contada. Tudo o que você disser é sigilo médico."
+  },
+  {
+   "q": "Preciso ir com a parceira?",
+   "a": "Não é obrigatório. Se o casal quer ter um filho, o médico pode chamar os dois."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o andrologista. Leve os exames anteriores e a lista de remédios, e anote suas perguntas."
+  }
+ ]
+}

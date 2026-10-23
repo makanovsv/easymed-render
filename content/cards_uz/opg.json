@@ -1,0 +1,62 @@
+{
+ "title": "Tishlarning panoramik surati (OPTG)",
+ "also": [
+  "OPTG",
+  "panoramik surat",
+  "ortopantomogramma",
+  "tishlar panoramasi"
+ ],
+ "what": "Bitta suratda barcha tishlar, jag‘lar va qo‘shni suyaklar birdan ko‘rinadi.",
+ "why": "Tishlarni davolash va olishdan oldin, implantatsiya va breketlardan oldin, yashirin yallig‘lanish va aql tishlarini izlash uchun.",
+ "duration": "odatda 5 daqiqa, suratning o‘zi — 10–20 soniya; surat darhol beriladi",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Surat bola uchun bo‘lsa — yoshini ayting, shifokor rejimni tanlaydi"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Metall",
+   "text": "Sirg‘a, zanjir, yuzdagi pirsing, soch qisqichlari, ko‘zoynak va olinadigan protezlarni yeching."
+  }
+ ],
+ "bring": [
+  "Bo‘lsa, stomatologdan yo‘llanma",
+  "Tishlarning oldingi suratlari"
+ ],
+ "steps": [
+  "Sizga himoya fartugi kiygizishadi",
+  "Apparatga turasiz va plastmassa uchlikni tishlaysiz",
+  "Lablar yopiladi, til tanglayga bosiladi",
+  "Apparat boshingiz atrofida sekin aylanadi — qimirlamay turing",
+  "Surat darhol ekranda paydo bo‘ladi"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Shunchaki 10–20 soniya qimirlamay turish kerak"
+ ],
+ "after": [
+  "Suratni odatda darhol berishadi — diskda, fleshkada yoki pochta orqali",
+  "Uni stomatologga olib boring"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Panoramik suratda qancha nurlanish bor?",
+   "a": "Doza kichik, oddiy tabiiy fonning bir necha kuniga teng."
+  },
+  {
+   "q": "Panorama tishlar KT sidan nimasi bilan farq qiladi?",
+   "a": "Panorama — barcha tishlarning yassi surati. KT — hajmli, batafsilroq. Uni implantlar va murakkab holatlarda buyurishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada tishlarning panoramik surati. Sirg‘a va pirsingni yeching, oldingi suratlarni oling."
+  }
+ ]
+}

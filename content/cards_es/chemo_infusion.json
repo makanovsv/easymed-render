@@ -1,0 +1,88 @@
+{
+ "title": "Quimioterapia: cómo es el tratamiento",
+ "also": [
+  "quimio",
+  "quimioterapia",
+  "suero de quimioterapia",
+  "sesiones de quimio"
+ ],
+ "what": "Los medicamentos contra el tumor se ponen por una vena con suero. El tratamiento va por ciclos: días de tratamiento y días de descanso.",
+ "why": "En enfermedades oncológicas, por decisión del oncólogo.",
+ "duration": "un suero dura desde 30 minutos hasta varias horas; el tratamiento toma varias semanas o meses",
+ "tell_doctor": [
+  "Todos tus medicamentos, vitaminas y hierbas: algunos no se pueden combinar con la quimio",
+  "Fiebre, tos o infección en los últimos días",
+  "Cómo toleraste el ciclo anterior: náuseas, debilidad, adormecimiento",
+  "Embarazo o planes de embarazo",
+  "Tratamientos dentales programados"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Antes de cada ciclo normalmente se hace un análisis de sangre. Si sale mal, pueden posponer el ciclo."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente en la mañana puedes tomar un desayuno ligero. Pregunta en la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No suspendas ni agregues nada por tu cuenta. Toma los medicamentos para las náuseas según el esquema del médico."
+  },
+  {
+   "title": "Tiempo",
+   "text": "El suero puede ser largo: lleva agua, algo de comer y un libro."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de análisis",
+  "Un documento de identidad",
+  "La lista de tus medicamentos",
+  "Agua, un bocadillo, una cobija y audífonos"
+ ],
+ "steps": [
+  "La enfermera revisa los análisis y cómo te sientes",
+  "Te ponen un catéter en la vena o se conectan a tu puerto",
+  "Primero te dan medicamentos contra las náuseas y la alergia",
+  "Luego conectan el suero con la quimioterapia",
+  "La enfermera vigila cómo te sientes",
+  "Al final enjuagan el sistema y lo desconectan"
+ ],
+ "feel": [
+  "El suero normalmente no duele",
+  "Puede haber náuseas, debilidad, cambio en el sabor; varía de un día a otro",
+  "Si arde en el lugar de la vía, díselo enseguida a la enfermera"
+ ],
+ "after": [
+  "Toma suficiente agua, a menos que el médico lo limite",
+  "Lávate las manos y evita el contacto con personas enfermas",
+  "Anota cómo te sientes y muéstraselo al médico",
+  "Toma los medicamentos para los efectos secundarios según el esquema"
+ ],
+ "red_flags": [
+  "Fiebre de 38 o más: llama de inmediato al médico o a emergencias",
+  "Falta de aire, ronchas o hinchazón de la cara durante o después del suero: llama a emergencias",
+  "Vómito que no te deja beber o diarrea fuerte",
+  "Sangrado o moretones sin motivo"
+ ],
+ "faq": [
+  {
+   "q": "¿Se me caerá el cabello?",
+   "a": "No con todos los medicamentos. El médico te dirá qué esperar con tu esquema."
+  },
+  {
+   "q": "¿Puedo trabajar durante la quimio?",
+   "a": "Muchas personas trabajan. Depende del esquema y de cómo te sientas; coméntalo con el médico."
+  },
+  {
+   "q": "¿Por qué es tan peligrosa la fiebre?",
+   "a": "La quimio baja las defensas contra las infecciones. Hasta una fiebre leve exige llamar rápido al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes el suero de quimioterapia. Haz los análisis, si hacen falta. Lleva agua, un bocadillo y una cobija."
+  }
+ ]
+}

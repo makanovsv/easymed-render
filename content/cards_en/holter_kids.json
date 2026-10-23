@@ -1,0 +1,79 @@
+{
+ "title": "Holter ECG for children",
+ "also": [
+  "Holter monitor for kids",
+  "24-hour ECG for a child",
+  "pediatric Holter monitoring"
+ ],
+ "what": "Sensors are stuck on your child's chest, and a small device records their ECG for 24 hours. Your child goes about a normal day.",
+ "why": "When a child has a racing heart, fainting, or chest pain, or the doctor heard skipped beats.",
+ "duration": "usually worn for 24 hours; results come in 1 to 3 days",
+ "tell_doctor": [
+  "What medicines your child takes",
+  "What exactly bothers your child, and when",
+  "If your child is allergic to bandages",
+  "If your child plays sports"
+ ],
+ "prepare": [
+  {
+   "title": "Bathing",
+   "text": "Bathe your child the day before. They cannot wash with the device on."
+  },
+  {
+   "title": "Clothing",
+   "text": "A loose undershirt or T-shirt, so the wires do not get in the way."
+  },
+  {
+   "title": "Talk about it",
+   "text": "Explain to your child that the sensors must not be touched or pulled off."
+  },
+  {
+   "title": "Diary",
+   "text": "Write down what your child did and felt: play, sleep, and complaints."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A notebook for the diary",
+  "A loose T-shirt",
+  "Your child's documents"
+ ],
+ "steps": [
+  "The nurse cleans the skin on your child's chest",
+  "Several sensors are stuck on",
+  "A small device on a belt or strap is connected to them",
+  "Your child goes home and lives as usual",
+  "You keep a diary: sleep, play, complaints",
+  "After 24 hours, the device is removed at the clinic"
+ ],
+ "feel": [
+  "It does not hurt",
+  "The sticky pads may itch",
+  "Little ones sometimes grab the wires. Keep an eye on them"
+ ],
+ "after": [
+  "Results usually come in 1 to 3 days",
+  "Mild redness from the pads goes away on its own",
+  "Your doctor will explain the result"
+ ],
+ "red_flags": [
+  "Your child faints: call emergency services",
+  "Severe chest pain or shortness of breath"
+ ],
+ "faq": [
+  {
+   "q": "Can my child run around with the Holter?",
+   "a": "Yes. Normal activity is actually needed. But no water and no swimming pool."
+  },
+  {
+   "q": "What if a sensor comes off?",
+   "a": "Press it back on and write down the time. If it came off completely, call the clinic."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Your child's Holter goes on tomorrow. Give them a bath today and get a loose T-shirt ready."
+  }
+ ]
+}

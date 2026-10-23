@@ -1,0 +1,72 @@
+{
+ "title": "Óxido nítrico no ar expirado (FeNO)",
+ "also": [
+  "FeNO",
+  "fração exalada de óxido nítrico",
+  "teste de inflamação nos brônquios",
+  "teste de óxido nítrico"
+ ],
+ "what": "Você sopra devagar num aparelho pequeno. Ele mostra se há nos brônquios um certo tipo de inflamação.",
+ "why": "Com suspeita de asma e para ver se o tratamento com bombinhas está funcionando.",
+ "duration": "normalmente 5 a 10 minutos, o resultado sai na hora",
+ "tell_doctor": [
+  "Quais bombinhas e remédios você usa",
+  "Se teve gripe há pouco tempo",
+  "Se você fuma"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente, 1 hora antes do teste, não coma nem beba nada além de água. Muitas vezes pedem para não comer alimentos com nitrato antes: beterraba, alface. Confirme com a clínica."
+  },
+  {
+   "title": "Cigarro",
+   "text": "No dia do teste, não fume."
+  },
+  {
+   "title": "Esforço",
+   "text": "Na hora antes do teste, sem exercício físico."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare as bombinhas por conta própria. Diga ao médico quando usou pela última vez."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios e bombinhas"
+ ],
+ "steps": [
+  "Você se senta perto do aparelho",
+  "Puxa o ar fundo pelo bocal",
+  "Solta o ar devagar e de forma contínua por cerca de 10 segundos",
+  "Uma indicação na tela ajuda a manter a força certa do sopro",
+  "Normalmente se repete 2 a 3 vezes"
+ ],
+ "feel": [
+  "Não dói",
+  "Às vezes é difícil soprar por igual. Com a indicação da tela, dá certo"
+ ],
+ "after": [
+  "O resultado normalmente aparece na hora",
+  "O médico explica junto com os outros exames",
+  "Você pode voltar à rotina logo em seguida"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O teste mostra asma?",
+   "a": "Ele mostra inflamação nos brônquios. O diagnóstico o médico faz junto com outros exames."
+  },
+  {
+   "q": "Criança pode fazer?",
+   "a": "Pode, normalmente a partir de 5 a 6 anos, se a criança consegue soprar por igual."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o teste FeNO. De manhã, não fume. Na hora antes do teste, não coma e não faça exercício."
+  }
+ ]
+}

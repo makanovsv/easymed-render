@@ -1,0 +1,87 @@
+{
+ "title": "Contrast for CT and MRI: kidneys, allergy, breastfeeding",
+ "also": [
+  "contrast dye",
+  "contrast agent",
+  "CT with contrast",
+  "MRI with contrast",
+  "contrast and kidneys"
+ ],
+ "what": "Contrast is a medicine given into a vein so the blood vessels and organs show up better on CT or MRI. For CT it is usually iodine-based, for MRI it is gadolinium-based.",
+ "why": "When the doctor needs to see organs, tumors, inflammation, or blood vessels better.",
+ "duration": "the injection takes a minute, and the kidneys usually clear the contrast within a day",
+ "tell_doctor": [
+  "If you ever had a reaction to contrast",
+  "If you have asthma or a severe allergy",
+  "If you have kidney disease or are on dialysis",
+  "If you have diabetes and take sugar-lowering pills",
+  "If you might be pregnant or are breastfeeding",
+  "If you have thyroid disease, for CT"
+ ],
+ "prepare": [
+  {
+   "title": "Test",
+   "text": "A blood test for creatinine is often requested to check the kidneys."
+  },
+  {
+   "title": "Food",
+   "text": "Sometimes you are asked not to eat for 2 to 4 hours. Check with the clinic."
+  },
+  {
+   "title": "Water",
+   "text": "Unless your doctor limited it, drink plain water the day before and the day of the scan."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. If you take diabetes pills, your doctor will say what to do."
+  }
+ ],
+ "bring": [
+  "The referral",
+  "Your creatinine test",
+  "Papers about a past reaction to contrast, if any",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "Before the scan, you are asked about allergies and your kidneys",
+  "A thin line is placed in a vein in your arm",
+  "During the pictures, the contrast is given through the line",
+  "After the scan you are asked to sit for 15 to 30 minutes",
+  "The line is removed"
+ ],
+ "feel": [
+  "For CT: warmth through the body, a metallic taste, a feeling of needing the toilet",
+  "For MRI: usually nothing, or a cool feeling in the arm",
+  "These feelings pass within a minute"
+ ],
+ "after": [
+  "Drink more water that day, unless your doctor limited it",
+  "Breastfeeding after contrast is usually fine, but check with your doctor",
+  "With kidney disease, your doctor may order a test after the scan"
+ ],
+ "red_flags": [
+  "A rash, itching, swelling of the face or lips, or trouble breathing: call emergency services",
+  "Severe pain, swelling, or redness at the injection site",
+  "Much less urine in the next days"
+ ],
+ "faq": [
+  {
+   "q": "Can I breastfeed after contrast?",
+   "a": "Usually yes, very little gets into the milk. If you are unsure, talk to your doctor."
+  },
+  {
+   "q": "What if I had an allergy to contrast?",
+   "a": "Be sure to tell the staff beforehand. The doctor will decide whether to change the scan or give medicine first."
+  },
+  {
+   "q": "Is contrast harmful for the kidneys?",
+   "a": "For healthy kidneys the risk is very small. With kidney disease, your doctor will weigh the benefit and risk beforehand."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Scan with contrast tomorrow. Bring your creatinine test, and drink water unless your doctor limited it."
+  }
+ ]
+}

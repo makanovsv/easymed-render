@@ -1,0 +1,76 @@
+{
+ "title": "Consulta com angiologista (veias)",
+ "also": [
+  "angiologista",
+  "cirurgião vascular",
+  "varizes",
+  "médico de varizes"
+ ],
+ "what": "O médico das veias examina as pernas e normalmente faz na hora um ultrassom das veias. Isso ajuda a entender como estão as veias e se é preciso tratamento.",
+ "why": "Para vasinhos, veias saltadas, inchaço e peso nas pernas, câimbras à noite e depois de trombose.",
+ "duration": "normalmente de 20 a 40 minutos, com o ultrassom das veias; a conclusão sai na hora",
+ "tell_doctor": [
+  "Quando apareceram as veias, o inchaço e o peso",
+  "Se você ou alguém da família teve trombose",
+  "Se toma hormônios ou remédios que afinam o sangue",
+  "Se está grávida ou planeja engravidar",
+  "Se já operou as veias"
+ ],
+ "prepare": [
+  {
+   "title": "Pernas",
+   "text": "Não passe creme nas pernas no dia da consulta. Não precisa depilar."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, fácil de tirar da cintura para baixo."
+  },
+  {
+   "title": "Horário",
+   "text": "O inchaço aparece melhor à tarde. Confirme qual o melhor horário para ir."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Ultrassons anteriores das veias",
+  "Lista de remédios",
+  "Meia de compressão, se usa"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Examina as pernas com você de pé",
+  "Faz o ultrassom das veias, passando o aparelho com gel na perna",
+  "Às vezes pede para fazer força ou tossir durante o ultrassom",
+  "Explica o resultado",
+  "Propõe o tratamento: meias, remédios ou procedimentos"
+ ],
+ "feel": [
+  "O exame e o ultrassom não doem",
+  "O gel é geladinho"
+ ],
+ "after": [
+  "Se receitaram meia de compressão, use como o médico disse",
+  "Caminhe mais e não fique muito tempo sentado sem se mexer",
+  "Nova consulta no prazo que o médico disser"
+ ],
+ "red_flags": [
+  "A perna inchou de repente, dói e ficou vermelha: procure o médico com urgência",
+  "Falta de ar repentina ou dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Os vasinhos nas pernas são perigosos?",
+   "a": "Na maioria das vezes são uma questão estética. Mas vale examinar as veias."
+  },
+  {
+   "q": "É obrigatório operar as varizes?",
+   "a": "Nem sempre. Há procedimentos pequenos e tratamento sem cirurgia; o médico decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta das veias. Não passe creme nas pernas e leve os ultrassons anteriores."
+  }
+ ]
+}

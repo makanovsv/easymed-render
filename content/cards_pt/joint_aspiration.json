@@ -1,0 +1,77 @@
+{
+ "title": "Punção da articulação para retirar líquido",
+ "also": [
+  "punção articular",
+  "artrocentese",
+  "tirar líquido do joelho",
+  "drenar líquido da articulação"
+ ],
+ "what": "Com uma agulha fina, o médico retira o líquido em excesso da articulação. Isso diminui o inchaço, e o líquido pode ir para análise.",
+ "why": "Com articulação inchada, para achar a causa: inflamação, gota, infecção, trauma. Às vezes já se aplica um remédio na hora.",
+ "duration": "normalmente 10 a 20 minutos; a análise do líquido leva de um a alguns dias",
+ "tell_doctor": [
+  "Remédios que afinam o sangue",
+  "Alergia a anestesia local ou a iodo",
+  "Febre ou infecção na pele em cima da articulação",
+  "Diabetes, se for aplicado corticoide"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer como sempre."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria."
+  },
+  {
+   "title": "Roupa",
+   "text": "Larga, para descobrir a articulação com facilidade."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Radiografias e ultrassons da articulação",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Você se deita ou se senta, com a articulação numa posição confortável",
+  "Limpam a pele com antisséptico",
+  "Aplicam uma injeção de anestesia",
+  "O médico coloca a agulha na articulação, muitas vezes guiado pelo ultrassom",
+  "O líquido é puxado com a seringa. Às vezes aplicam um remédio",
+  "Colocam um curativo no local da punção"
+ ],
+ "feel": [
+  "A picada da anestesia",
+  "Pressão na articulação durante a punção",
+  "Depois, o inchaço normalmente diminui e fica mais fácil mexer"
+ ],
+ "after": [
+  "Por um dia, poupe a articulação",
+  "Se aplicaram remédio, descanse um ou dois dias",
+  "Pode colocar gelo com um pano por cima, se o médico permitiu",
+  "Converse sobre o resultado da análise do líquido com o médico"
+ ],
+ "red_flags": [
+  "Febre, a articulação ficou quente e vermelha",
+  "Dor ou inchaço forte que vai piorando",
+  "Pus saindo do local da punção"
+ ],
+ "faq": [
+  {
+   "q": "O líquido vai voltar?",
+   "a": "Às vezes sim. Depende da causa, por isso a análise do líquido é importante."
+  },
+  {
+   "q": "Dói?",
+   "a": "Normalmente é suportável. A pele é anestesiada. O que incomoda mais é a pressão."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a punção da articulação. Leve as imagens e use roupa larga."
+  }
+ ]
+}

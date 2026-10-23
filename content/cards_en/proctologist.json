@@ -1,0 +1,76 @@
+{
+ "title": "Proctologist visit",
+ "also": [
+  "proctologist",
+  "colorectal doctor",
+  "hemorrhoid doctor",
+  "rectal exam"
+ ],
+ "what": "The doctor examines the anus and the rectum. The exam is short, and the doctor is gentle.",
+ "why": "For blood in the stool, pain or itching in the anus, hemorrhoids, fissures, constipation, and for screening after age 40 to 50.",
+ "duration": "the visit usually takes 15 to 30 minutes; conclusion right away",
+ "tell_doctor": [
+  "What bothers you and for how long",
+  "Whether there was blood, and what color",
+  "How often you have a bowel movement and what it is like",
+  "Blood-thinning medicines",
+  "Past bowel surgery"
+ ],
+ "prepare": [
+  {
+   "title": "Cleansing",
+   "text": "You are often asked to empty your bowel before the visit, sometimes with an enema or mini-enema. Ask the clinic exactly how."
+  },
+  {
+   "title": "Hygiene",
+   "text": "Take a shower in the morning. No special skin prep is needed."
+  },
+  {
+   "title": "Food",
+   "text": "Usually a light breakfast is fine."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Colonoscopy or test results, if you have them",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks about your complaints",
+  "You lie on your side with your knees drawn up, or kneel on all fours",
+  "The doctor looks at the skin around the anus",
+  "Gently checks the rectum with a gloved, gel-covered finger",
+  "Sometimes looks with a short tube called an anoscope",
+  "Explains what was found and prescribes treatment"
+ ],
+ "feel": [
+  "It feels awkward. That is normal, and for the doctor it is routine work",
+  "The finger exam can be unpleasant, but it is brief",
+  "With a fissure it can hurt. Tell the doctor"
+ ],
+ "after": [
+  "You can usually go about your day right after the exam",
+  "A little gel or traces of blood are possible, especially with a fissure",
+  "If needed, the doctor will send you for a colonoscopy"
+ ],
+ "red_flags": [
+  "Heavy bleeding from the anus, weakness or dizziness: call your local emergency number",
+  "Severe pain with swelling and fever: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Does it hurt?",
+   "a": "Usually not. It is just unpleasant. With a fissure, the doctor can numb the area with a gel."
+  },
+  {
+   "q": "Is blood in the stool always hemorrhoids?",
+   "a": "Not always. That is why it is important to see a doctor and not treat yourself."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Proctologist visit tomorrow. Ask whether you need to empty your bowel in the morning, and how to do it."
+  }
+ ]
+}

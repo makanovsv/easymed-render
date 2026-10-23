@@ -1,0 +1,75 @@
+{
+ "title": "Homiladorlikning 2 va 3-trimestr skriningi",
+ "also": [
+  "ikkinchi skrining",
+  "uchinchi skrining",
+  "20 haftalik UZI",
+  "32 haftalik UZI",
+  "homiladorlikda doppler"
+ ],
+ "what": "Homiladorlikning ikkinchi va uchinchi uchdan birida homila UZIsi. Shifokor chaqaloq qanday o‘sayotganini, a’zolarini, yo‘ldosh va suvlarni ko‘radi.",
+ "why": "Barcha homilador ayollarga taklif qilinadi: ikkinchisi — odatda 18–21 haftada, uchinchisi — taxminan 30–34 haftada. Aniq muddatni shifokor aytadi.",
+ "duration": "odatda 30–40 daqiqa",
+ "tell_doctor": [
+  "Homiladorlik muddati va birinchi skrining natijalari",
+  "Egizak yoki EKOdan keyingi homiladorlik bo‘lsa",
+  "Ajralma, og‘riq bo‘lgan yoki chaqaloqning qimirlashi o‘zgargan bo‘lsa",
+  "Surunkali kasalliklar va dorilar"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Maxsus tayyorgarlik kerak emas. Bu muddatlarda to‘la siydik pufagi odatda kerak emas."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatdagidek ovqatlansangiz bo‘ladi. Och kelish shart emas."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qorinni oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Almashinuv kartasi yoki yo‘llanma",
+  "Oldingi skrining va UZI natijalari",
+  "Salfetka yoki sochiq"
+ ],
+ "steps": [
+  "Chalqancha yotib, qorningizni ochasiz",
+  "Shifokor gel surtib, chaqaloqni qorin orqali ko‘radi",
+  "Chaqaloqning o‘sishi o‘lchanadi va a’zolari tekshiriladi",
+  "Yo‘ldosh, suv miqdori va bachadon bo‘yni qaraladi",
+  "Uchinchi skriningda ko‘pincha qon oqimi tekshiriladi — bu doppler"
+ ],
+ "feel": [
+  "Og‘riqsiz; datchikning bosimi seziladi",
+  "Chalqancha yotganda boshingiz aylansa yoki ko‘ngil aynisa — ayting, sizni yonboshga yotqizishadi",
+  "Chaqaloqni ekranda ko‘rish mumkin"
+ ],
+ "after": [
+  "Xulosa odatda darrov beriladi",
+  "Nimadir aniqlashtirish kerak bo‘lsa, shifokor qanday tekshiruvlar kerakligini aytadi"
+ ],
+ "red_flags": [
+  "Qonli ajralma, suv oqishi yoki qorinda kuchli og‘riq — tez yordamni chaqiring (103)",
+  "Chaqaloq sezilarli kam qimirlay boshladi — darrov shifokorga",
+  "Qattiq bosh og‘rig‘i, ko‘z oldida pashshalar, yuzning shishishi — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Ikkinchi skriningda jinsini bilsa bo‘ladimi?",
+   "a": "Odatda ha, agar chaqaloq qulay yotgan bo‘lsa. Lekin asosiy maqsad — uning qanday rivojlanayotganini tekshirish."
+  },
+  {
+   "q": "Ikkinchisi yaxshi bo‘lsa, nega uchinchi skrining kerak?",
+   "a": "Homiladorlik oxirida chaqaloq qanday o‘sayotgani, yo‘ldosh qanday ishlayotgani va tug‘ruqdan oldin qanday yotgani muhim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga homiladorlik skriningi. Almashinuv kartasi va oldingi UZIlarni oling."
+  }
+ ]
+}

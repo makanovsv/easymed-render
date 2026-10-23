@@ -1,0 +1,77 @@
+{
+ "title": "Tuxumdonlar polikistozi (PKYaS) bo‘yicha qabul",
+ "also": [
+  "PKYaS",
+  "polikistoz tuxumdonlar sindromi",
+  "polikistoz",
+  "tartibsiz hayz"
+ ],
+ "what": "Shifokor sikl nega buzilganini aniqlaydi, gormonlar va tuxumdonlarni tekshiradi. Keyin maqsadlaringizga mos davolashni tanlaydi.",
+ "why": "Kam yoki tartibsiz hayzda, tanadagi ortiqcha tuklarda, husnbuzarlarda, homilador bo‘lishda qiyinchiliklarda.",
+ "duration": "qabul odatda 30–40 daqiqa, tahlillar odatda bir necha kunda tayyor bo‘ladi",
+ "tell_doctor": [
+  "Sikl qanday o‘tadi va oxirgi hayz qachon bo‘lgan",
+  "Homiladorlikni xohlaysizmi",
+  "Vazn o‘zgarganmi",
+  "O‘zingizda yoki qarindoshlarda diabet bormi",
+  "Qanday dorilar va gormonlar ichasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Sikl kundaligi",
+   "text": "So‘nggi oylardagi hayz sanalarini yozib qo‘ying."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Gormonlarni odatda siklning ma’lum kunlarida topshirishadi — shifokor qaysi kunlarda ekanini aytadi."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Oldingi tahlillar va UZI ni oling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Sikl kundaligi",
+  "Oldingi tahlillar va UZI",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor sikl va ahvolingiz haqida so‘raydi",
+  "Bo‘y, vazn, bosimni o‘lchaydi",
+  "Ko‘rik o‘tkazadi",
+  "Gormonlar, qon qandiga yo‘llanma beradi",
+  "Kichik chanoq a’zolari UZI sini buyuradi",
+  "Takroriy qabulda natijalar va davolashni muhokama qiladi"
+ ],
+ "feel": [
+  "Oddiy qabul, noxush narsa yo‘q",
+  "Ichki UZI biroz noqulay bo‘lishi mumkin"
+ ],
+ "after": [
+  "Ro‘yxat bo‘yicha tahlillarni topshiring",
+  "Ko‘pincha ovqatlanish va harakatni kuzatishni maslahat berishadi",
+  "Davolash maqsadga qarab tanlanadi: siklni tuzatish yoki homiladorlik",
+  "Muntazam kuzatuvda bo‘lish kerak"
+ ],
+ "red_flags": [
+  "Kuchli qon ketishi — tez yordamni chaqiring (103)",
+  "Qorin pastida keskin og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "PKYaS bilan homilador bo‘lsa bo‘ladimi?",
+   "a": "Ha, ko‘p ayollarda bo‘ladi, ba’zan davolash yordamida."
+  },
+  {
+   "q": "Bu butun umrgami?",
+   "a": "PKYaS odatda butunlay o‘tib ketmaydi, lekin alomatlarni yaxshi nazorat qilsa bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ginekolog qabuli. Hayz sanalari va oldingi tahlillarni oling."
+  }
+ ]
+}

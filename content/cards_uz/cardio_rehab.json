@@ -1,0 +1,80 @@
+{
+ "title": "Kardioreabilitatsiya",
+ "also": [
+  "infarktdan keyingi reabilitatsiya",
+  "kardiologik reabilitatsiya",
+  "yurak uchun davolash badantarbiyasi",
+  "stentlashdan keyingi reabilitatsiya"
+ ],
+ "what": "Kasallik yoki operatsiyadan keyin yurak tiklanishi uchun shifokor va instruktor nazoratidagi mashg‘ulotlar dasturi. Mashqlar, ovqatlanish va turmush tarzi bo‘yicha maslahatlarni o‘z ichiga oladi.",
+ "why": "Infarkt, stentlash, shuntlash, klapan operatsiyalari va yurak yetishmovchiligidan keyin: shifokor buni xavfsiz deb hisoblasa.",
+ "duration": "mashg‘ulot odatda 45–60 daqiqa; dastur odatda bir necha haftaga mo‘ljallangan, muddatni shifokor hal qiladi",
+ "tell_doctor": [
+  "So‘nggi kunlarda ko‘krakda og‘riq, nafas qisilishi yoki yurak urishida uzilishlar bo‘lganmi",
+  "Ichayotgan barcha dorilaringizni",
+  "Boshingiz aylansa yoki hushdan ketsangiz",
+  "Bo‘g‘imlar yoki bel og‘risa: mashqlar shunga moslab tanlanadi",
+  "Diabetingiz bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tekshiruv",
+   "text": "Boshlashdan oldin odatda EKG, ba’zan yuklama sinovi va yurak UZI qilinadi: bu xavfsiz yuklamani tanlashga yordam beradi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Odatdagidek iching. O‘zingiz bekor qilmang. Savollaringiz bo‘lsa, shifokorga ayting, u hal qiladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Mashg‘ulotdan 1–2 soat oldin yengil ovqatlaning. Och qoringa va to‘yib ovqatlangandan keyin darhol shug‘ullanmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Sport kiyimi va qulay poyabzal, suv shishasi."
+  }
+ ],
+ "bring": [
+  "Kasalxonadan epikriz va oxirgi EKG’lar",
+  "Dorilar ro‘yxati",
+  "Sport kiyimi va poyabzal",
+  "Shifokor yoningizda olib yurishni aytgan tabletkalar"
+ ],
+ "steps": [
+  "Mashg‘ulotdan oldin bosim va puls o‘lchanadi",
+  "Ba’zan yurakni nazorat qilish uchun datchik taqishadi",
+  "Isinish: sokin yurish va yengil harakatlar",
+  "Asosiy qism: velotrenajyor, yugurish yo‘lakchasi yoki mashqlar o‘z sur’atingizda",
+  "Yuklama mashg‘ulotdan mashg‘ulotga asta-sekin oshiriladi",
+  "Oxirida sovitish va yana bosim hamda pulsni nazorat qilish"
+ ],
+ "feel": [
+  "Yuklama o‘rtacha sezilishi kerak: gapirish mumkin, lekin qo‘shiq aytish qiyin",
+  "Birinchi mashg‘ulotlardan keyin mushaklarda yengil charchoq bo‘lishi mumkin"
+ ],
+ "after": [
+  "Shifokor uyda bajariladigan mashqlar va yurish rejasini beradi",
+  "Kundalikda puls, bosim va o‘zingizni his qilishingizni yozib boring",
+  "Yuklamaning kuchidan ko‘ra muntazamlik muhimroq"
+ ],
+ "red_flags": [
+  "Ko‘krakdagi og‘riq yoki siqilish dam olganda ham o‘tmasa, mashg‘ulotni to‘xtating va tez yordamni chaqiring (103)",
+  "Kuchli nafas qisilishi, hushdan ketish yoki keskin bosh aylanishi bo‘lsa, darhol instruktorga ayting"
+ ],
+ "faq": [
+  {
+   "q": "Infarktdan keyin shug‘ullanish xavfli emasmi?",
+   "a": "Shifokor nazoratida xavfli emas. Yuklama tekshiruv natijalariga qarab tanlanadi va asta-sekin oshiriladi."
+  },
+  {
+   "q": "Markaz o‘rniga uyda shug‘ullansa bo‘ladimi?",
+   "a": "Ko‘pincha dasturning bir qismi uyda o‘tadi. Sizga qanday yuklama mosligini shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga kardioreabilitatsiya mashg‘uloti. Yengil nonushta, dorilar odatdagidek, kiyim va suvni olib keling."
+  }
+ ]
+}

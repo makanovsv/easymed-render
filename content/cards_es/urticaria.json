@@ -1,0 +1,76 @@
+{
+ "title": "Consulta por urticaria",
+ "also": [
+  "urticaria",
+  "ronchas en la piel",
+  "sarpullido alérgico",
+  "ronchas con comezón",
+  "hives"
+ ],
+ "what": "La urticaria son ronchas y comezón en la piel, como si fuera por una ortiga. Las manchas salen y se van rápido. El médico busca la causa y elige el tratamiento.",
+ "why": "Cuando en la piel aparecen ronchas que pican, una sola vez o repetidas durante semanas.",
+ "duration": "la consulta suele durar de 20 a 30 minutos; los análisis, según indique el médico",
+ "tell_doctor": [
+  "Cuándo empezó, cuánto duran las manchas y cada cuánto salen",
+  "Qué comiste, qué medicamentos tomaste, qué pasó antes del sarpullido",
+  "Si se hincharon los labios, los párpados o la lengua",
+  "Todos los medicamentos y suplementos que tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Fotos",
+   "text": "Toma fotos del sarpullido: para la consulta puede haberse quitado."
+  },
+  {
+   "title": "Diario",
+   "text": "Anota cuándo apareció el sarpullido y qué pasó antes."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No suspendas tus medicamentos por tu cuenta. Si tomas algo para la alergia, díselo al médico."
+  }
+ ],
+ "bring": [
+  "Fotos del sarpullido",
+  "La lista de medicamentos y suplementos",
+  "El diario de los brotes",
+  "Resultados de análisis anteriores"
+ ],
+ "steps": [
+  "El médico te pregunta con detalle sobre el sarpullido",
+  "Te revisa la piel",
+  "A veces pasa el dedo por la piel para ver la reacción",
+  "Si hace falta, pide análisis",
+  "Elige el medicamento y te explica cómo tomarlo"
+ ],
+ "feel": [
+  "La revisión no duele",
+  "La comezón puede ser fuerte: el tratamiento normalmente ayuda pronto"
+ ],
+ "after": [
+  "Toma el medicamento como indicó el médico, aunque el sarpullido se haya quitado",
+  "Evita lo que provoca el sarpullido, si se sabe",
+  "No uses ropa apretada ni te des baños calientes durante un brote",
+  "Si el sarpullido dura más de 6 semanas, necesitas otra consulta"
+ ],
+ "red_flags": [
+  "Hinchazón de los labios, la lengua o la garganta, o cuesta tragar o respirar: llama a emergencias",
+  "Debilidad, mareo o desmayo junto con el sarpullido: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La urticaria es contagiosa?",
+   "a": "No. No se pasa de una persona a otra."
+  },
+  {
+   "q": "¿Siempre es alergia a la comida?",
+   "a": "No. Muchas veces no se logra encontrar la causa; puede aparecer después de infecciones y por medicamentos. El médico te ayudará a averiguarlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes consulta por la urticaria. Lleva las fotos del sarpullido y la lista de medicamentos."
+  }
+ ]
+}

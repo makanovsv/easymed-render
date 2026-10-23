@@ -1,0 +1,67 @@
+{
+ "title": "Xelikobakterga nafas testi",
+ "also": [
+  "nafas testi",
+  "ureaza testi",
+  "xelik-test",
+  "xelikobakterga nafas orqali test"
+ ],
+ "what": "Siz maxsus eritma ichasiz va xaltachaga yoki probirkaga nafas chiqarasiz. Nafas chiqarishga qarab oshqozonda xelikobakter bakteriyasi bor-yo‘qligi ko‘rinadi.",
+ "why": "Oshqozon og‘riganda, jig‘ildon qaynaganda, yarada, xelikobakter davolangandan keyin tekshirish uchun.",
+ "duration": "odatda 30–40 daqiqa, natija ko‘pincha o‘sha kuni",
+ "tell_doctor": [
+  "So‘nggi oyda antibiotik ichgan bo‘lsangiz",
+  "Jig‘ildon qaynashi va kislotalilikka dori ichsangiz",
+  "Ilgari xelikobakter davolangan bo‘lsa va qachon tugagani",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Och qoringa: odatda 6 soat ovqatsiz. Suv ichsa bo‘ladimi — klinikadan so‘rang."
+  },
+  {
+   "title": "Chekish va saqich",
+   "text": "Test kuni chekmang va saqich chaynamang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Antibiotiklar va kislotalilikka dorilar natijani buzishi mumkin. O‘zingiz bekor qilmang — shifokorga ayting, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Birinchi xaltachaga yoki probirkaga nafas chiqarasiz — bu fon namunasi",
+  "Bir stakan eritma ichasiz — ta’mi odatda biroz nordon",
+  "Odatda 15–30 daqiqa xotirjam o‘tirasiz",
+  "Ikkinchi xaltachaga yoki probirkaga nafas chiqarasiz",
+  "Namunalar tahlilga yuboriladi"
+ ],
+ "feel": [
+  "Yoqimsiz hech narsa yo‘q — faqat xotirjam kutish kerak"
+ ],
+ "after": [
+  "Darrov ovqatlansa va ishlariga qaytsa bo‘ladi",
+  "Natija odatda o‘sha kuni yoki ertasi kuni — muddatini laboratoriya aytadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nafas testi xavfsizmi?",
+   "a": "Ha, odatda radioaktiv bo‘lmagan eritma ishlatiladi. U davolashdan keyingi nazorat uchun ham mos."
+  },
+  {
+   "q": "Davolashdan keyin qachon tekshirish kerak?",
+   "a": "Odatda davolash tugaganidan kamida 4 hafta o‘tgach. Muddatini shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "Bugun xelikobakterga nafas testi. Testdan 6 soat oldin ovqat yemang, chekmang va saqich chaynamang."
+  }
+ ]
+}

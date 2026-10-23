@@ -1,0 +1,79 @@
+{
+ "title": "Esputo para tuberculosis (baciloscopia y PCR rápida)",
+ "also": [
+  "baciloscopia",
+  "análisis de esputo",
+  "esputo para tuberculosis",
+  "PCR de tuberculosis"
+ ],
+ "what": "Es un análisis de la flema que sacas de los pulmones al toser. En ella se busca el microbio de la tuberculosis.",
+ "why": "Con tos de más de dos o tres semanas, flema con sangre, sudor en la noche, pérdida de peso, después de estar con alguien con tuberculosis, o para controlar el tratamiento.",
+ "duration": "juntar la muestra toma unos minutos; la respuesta rápida suele estar en 1 a 2 días, y el cultivo puede tardar varias semanas",
+ "tell_doctor": [
+  "Cuántas semanas llevas con tos y si hay sangre en la flema",
+  "Si antes tuviste tuberculosis y cómo te trataron",
+  "Si estuviste con alguien con tuberculosis",
+  "Si tienes VIH, diabetes o tomas medicamentos que bajan las defensas"
+ ],
+ "prepare": [
+  {
+   "title": "En la mañana",
+   "text": "Es mejor juntar la flema en la mañana, apenas despiertes y antes de comer."
+  },
+  {
+   "title": "Boca",
+   "text": "Antes de juntarla, lávate los dientes y enjuágate la boca con agua hervida."
+  },
+  {
+   "title": "Muestras",
+   "text": "Normalmente se necesitan 2 o 3 muestras en días distintos, o una en la mañana y otra durante el día. El médico te dirá cuántas."
+  },
+  {
+   "title": "Lugar",
+   "text": "Junta la flema afuera o junto a una ventana abierta, lejos de otras personas."
+  }
+ ],
+ "bring": [
+  "El frasco con la flema",
+  "La orden médica",
+  "Tu identificación",
+  "Un cubrebocas"
+ ],
+ "steps": [
+  "Toma un frasco estéril y ábrelo solo justo antes de usarlo",
+  "Respira hondo varias veces y aguanta la respiración",
+  "Tose con fuerza desde el fondo del pecho",
+  "Escupe la flema en el frasco: se necesita flema, no saliva",
+  "Cierra bien la tapa y llévalo al laboratorio"
+ ],
+ "feel": [
+  "Toser así puede cansar",
+  "Si la flema no sale, ayuda tomar algo tibio la noche anterior"
+ ],
+ "after": [
+  "Hasta tener el resultado, usa cubrebocas cerca de otras personas",
+  "Ventila el cuarto",
+  "Si el análisis sale positivo, el médico te explicará con detalle cómo es el tratamiento"
+ ],
+ "red_flags": [
+  "Tos con mucha sangre: llama a emergencias",
+  "Mucha falta de aire o dolor en el pecho: llama a emergencias",
+  "Fiebre que no baja en varios días: ve al médico"
+ ],
+ "faq": [
+  {
+   "q": "Si no tengo flema, ¿puedo entregar saliva?",
+   "a": "No, la saliva no sirve. Díselo a la enfermera: hay formas de ayudarte a sacar la flema."
+  },
+  {
+   "q": "¿La tuberculosis se cura?",
+   "a": "Sí. El tratamiento es largo, pero si tomas los medicamentos con regularidad, normalmente se cura."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Mañana temprano juntas la flema. Apenas despiertes, lávate los dientes, enjuágate la boca y tose la flema en el frasco."
+  }
+ ]
+}

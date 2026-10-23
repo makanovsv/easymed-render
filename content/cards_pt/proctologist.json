@@ -1,0 +1,76 @@
+{
+ "title": "Consulta com proctologista",
+ "also": [
+  "proctologista",
+  "coloproctologista",
+  "médico de hemorroida",
+  "exame do reto"
+ ],
+ "what": "O médico examina o ânus e o reto. O exame é rápido, e o médico faz tudo com cuidado.",
+ "why": "Para sangue nas fezes, dor ou coceira no ânus, hemorroidas, fissuras, prisão de ventre, e como prevenção depois dos 40 ou 50 anos.",
+ "duration": "a consulta leva normalmente de 15 a 30 minutos; a conclusão sai na hora",
+ "tell_doctor": [
+  "O que incomoda e há quanto tempo",
+  "Se teve sangue e de que cor",
+  "Com que frequência você evacua e como são as fezes",
+  "Remédios que afinam o sangue",
+  "Se já operou o intestino"
+ ],
+ "prepare": [
+  {
+   "title": "Limpeza",
+   "text": "Muitas vezes pedem para esvaziar o intestino antes da consulta, às vezes com lavagem intestinal ou minilavagem. Confirme na clínica como fazer."
+  },
+  {
+   "title": "Higiene",
+   "text": "Tome banho de manhã. Não precisa de preparo especial da pele."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode tomar um café da manhã leve."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Resultados de colonoscopia ou exames, se tiver",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Você deita de lado com os joelhos dobrados ou fica de joelhos e cotovelos",
+  "O médico examina a pele em volta do ânus",
+  "Com o dedo na luva e gel, examina o reto com cuidado",
+  "Às vezes olha com um tubo curto, o anuscópio",
+  "Explica o que encontrou e indica o tratamento"
+ ],
+ "feel": [
+  "É constrangedor, e isso é normal. Para o médico é um trabalho comum",
+  "O toque com o dedo pode incomodar, mas é rápido",
+  "Se houver fissura, pode doer. Avise o médico"
+ ],
+ "after": [
+  "Depois do exame, normalmente você já pode seguir o seu dia",
+  "Um pouco de gel ou sinais de sangue, se houver fissura, podem acontecer",
+  "Se precisar, o médico pede colonoscopia"
+ ],
+ "red_flags": [
+  "Sangramento forte pelo ânus, fraqueza ou tontura: ligue para a emergência",
+  "Dor forte com inchaço e febre: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Normalmente não, só incomoda. Se houver fissura, o médico pode usar um gel anestésico."
+  },
+  {
+   "q": "Sangue nas fezes é sempre hemorroida?",
+   "a": "Nem sempre. Por isso é importante ir ao médico, e não se tratar sozinho."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o proctologista. Confirme se precisa esvaziar o intestino de manhã e como fazer."
+  }
+ ]
+}

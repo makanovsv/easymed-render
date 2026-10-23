@@ -1,0 +1,79 @@
+{
+ "title": "Hemodiálisis",
+ "also": [
+  "diálisis",
+  "hemodiálisis",
+  "riñón artificial",
+  "máquina de diálisis"
+ ],
+ "what": "Una máquina limpia la sangre cuando los riñones no pueden. La sangre pasa por un filtro y regresa al cuerpo.",
+ "why": "En insuficiencia renal grave; normalmente de forma permanente, varias veces por semana.",
+ "duration": "cada sesión normalmente dura unas 4 horas, normalmente 3 veces por semana",
+ "tell_doctor": [
+  "Todos tus medicamentos; algunos se toman después de la sesión",
+  "Cómo te sentiste después de la sesión anterior",
+  "Si cambió tu peso, hay hinchazón o falta de aire",
+  "Si la fístula duele, se hinchó o no “zumba”"
+ ],
+ "prepare": [
+  {
+   "title": "Peso",
+   "text": "Pésate todos los días. Entre sesiones, cuida cuánto tomas."
+  },
+  {
+   "title": "Líquidos y comida",
+   "text": "El médico indicará las restricciones de agua, sal, potasio y fósforo. No las cambies por tu cuenta."
+  },
+  {
+   "title": "Fístula",
+   "text": "El brazo con la fístula: sin ropa ajustada, relojes, toma de presión ni inyecciones. Revisa todos los días el zumbido y la vibración."
+  }
+ ],
+ "bring": [
+  "La lista de tus medicamentos",
+  "Registros de peso y presión",
+  "Una cobija, un libro o audífonos",
+  "Algo de comer, si se permite"
+ ],
+ "steps": [
+  "Te pesan y te miden la presión",
+  "La enfermera limpia el brazo y te pone dos agujas en la fístula, o conecta el catéter",
+  "La sangre pasa a la máquina, se limpia y regresa",
+  "Estás acostado o sentado varias horas",
+  "La enfermera vigila tu presión y cómo te sientes",
+  "Al final retiran las agujas y presionan los puntos de punción"
+ ],
+ "feel": [
+  "El pinchazo de las agujas en la fístula",
+  "Durante la sesión pueden darte calambres, debilidad o mareo; avísale a la enfermera",
+  "Después de la sesión es común el cansancio"
+ ],
+ "after": [
+  "Presiona los puntos de punción hasta que dejen de sangrar",
+  "Levántate despacio; puede darte mareo",
+  "Sigue la dieta y la restricción de agua",
+  "No faltes a las sesiones"
+ ],
+ "red_flags": [
+  "Sangrado de la fístula que no se detiene: presiona y llama a emergencias",
+  "Falta de aire fuerte, dolor en el pecho: llama a emergencias",
+  "La fístula dejó de zumbar y vibrar: llama de inmediato a la unidad",
+  "Fiebre, escalofríos, enrojecimiento en el sitio de acceso"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo faltar a una sesión?",
+   "a": "No. Es peligroso: se acumulan potasio y líquido en la sangre. Si algo te lo impide, llama de inmediato a la unidad."
+  },
+  {
+   "q": "¿Puedo viajar?",
+   "a": "Sí, si acuerdas la diálisis en otra ciudad con anticipación. Habla con la unidad."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu diálisis. Pésate en la mañana, lleva la lista de medicamentos y una cobija."
+  }
+ ]
+}

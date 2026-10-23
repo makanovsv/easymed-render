@@ -1,0 +1,81 @@
+{
+ "title": "Yurak MRTsi",
+ "also": [
+  "kontrastli yurak MRTsi",
+  "kardio-MRT",
+  "yurak MR-tomografiyasi"
+ ],
+ "what": "Yurakning magnit maydondagi suratlari. Mushak, klapanlar, kameralar va yurak qanday qisqarishi ko‘rinadi. Nurlanishsiz.",
+ "why": "Kardiomiopatiyalarda, miokardit va infarktdan keyin, tug‘ma nuqsonlarda, yurak UTTsi javob bermaganda.",
+ "duration": "odatda 45–60 daqiqa; xulosa 1–3 kundan keyin",
+ "tell_doctor": [
+  "Yurak stimulyatori, defibrillyator yoki elektronikali boshqa implant",
+  "Tanadagi metall: protezlar, plastinkalar, tomirlardagi klipsalar, parchalar",
+  "Homilador yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Yopiq joylardan qo‘rqsangiz — shifokor qanday yordam berishni aytadi",
+  "Puls notekis bo‘lsa — surat ko‘proq vaqt oladi",
+  "Buyrak kasalliklari, kontrastga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda yengil ovqatlansangiz bo‘ladi. Dori bilan yuklama sinamasi bo‘lsa — alohida qoidalar. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Qahva",
+   "text": "Stress-test buyurilgan bo‘lsa, odatda bir sutka oldin qahva, choy va shokolad chiqarib tashlanadi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Shifokorga ayting, u hal qiladi."
+  },
+  {
+   "title": "Metall",
+   "text": "Barcha metallni yeching: taqinchoq, soat, soch qisqichlari, pirsing. Telefon va kartalarni shkafchada qoldiring."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Yurak UTTsi, EKG, kardiolog xulosalari",
+  "Dorilaringiz ro‘yxati",
+  "Kreatinin tahlili, agar so‘ralgan bo‘lsa"
+ ],
+ "steps": [
+  "Tomirga kateter qo‘yiladi",
+  "Ko‘kragingizga EKG elektrodlari yopishtiriladi",
+  "Siz chalqancha yotasiz, ko‘kragingizga g‘altak qo‘yiladi",
+  "10–15 soniya nafasni ushlab turish ko‘p marta so‘raladi",
+  "Apparat qattiq taqillaydi — quloqchin berishadi",
+  "O‘rtada kontrast yuboriladi va yana suratlar olinadi"
+ ],
+ "feel": [
+  "Og‘rimaydi, lekin shovqinli va tor",
+  "Nafasni ushlab turish charchatadi — tanaffus so‘rash mumkin",
+  "Kontrastda — tomirda salqinlik"
+ ],
+ "after": [
+  "Darrov o‘z ishlaringizga qaytishingiz mumkin",
+  "Kontrastdan keyin, shifokor boshqacha demagan bo‘lsa, ko‘proq suv iching",
+  "Xulosa — kardiologga"
+ ],
+ "red_flags": [
+  "Ko‘krakda siquvchi og‘riq, nafas qisishi, hushdan ketish — darrov 103 ga qo‘ng‘iroq qiling",
+  "Kontrastdan keyin qichishish, toshma, yuz shishishi, nafas olish qiyin — darrov xodimga ayting yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Nega bunchalik uzoq?",
+   "a": "Yurak harakatlanadi, suratlar yurak va nafas ritmiga mos olinadi. Ko‘p seriya kerak."
+  },
+  {
+   "q": "Yurak stimulyatori bilan yurak MRTsi qilsa bo‘ladimi?",
+   "a": "Faqat u MRT bilan mos bo‘lsa va kardiolog ruxsat bergan bo‘lsa. Oldindan ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga yurak MRTsi. Yurak UTTsi, EKG va dorilar ro‘yxatini oling. Barcha metallni yeching."
+  }
+ ]
+}

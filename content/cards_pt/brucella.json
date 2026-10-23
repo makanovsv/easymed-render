@@ -1,0 +1,73 @@
+{
+ "title": "Exame de brucelose",
+ "also": [
+  "brucelose",
+  "sorologia para brucelose",
+  "reação de Wright",
+  "anticorpos contra Brucella"
+ ],
+ "what": "É um exame de sangue para uma infecção que a pessoa pega do gado: pelo leite cru, pela carne ou cuidando dos animais.",
+ "why": "Com febre longa, muito suor, dor nas articulações e nas costas. Também para quem trabalha com gado.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 1 a 5 dias",
+ "tell_doctor": [
+  "Se você tomou leite não fervido ou comeu queijo caseiro",
+  "Se trabalha com gado ou corta carne",
+  "Se já teve brucelose",
+  "Se já tomou antibióticos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Jejum rigoroso normalmente não é necessário, mas é melhor ir 3 a 4 horas depois de uma refeição leve, sem gordura. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma. Ele decide se é preciso mudar algo antes do exame."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Exames anteriores de brucelose, se teve"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Tome só leite fervido",
+  "Às vezes o exame é repetido depois de algumas semanas, se o médico pedir"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho",
+  "Febre alta, fraqueza forte, dor nas costas ou nas articulações: procure o médico sem demora"
+ ],
+ "faq": [
+  {
+   "q": "Dá para pegar de outra pessoa?",
+   "a": "Quase nunca. Normalmente a pessoa pega dos animais e de alimentos crus."
+  },
+  {
+   "q": "Como me proteger?",
+   "a": "Ferva o leite, cozinhe bem a carne e use luvas ao lidar com o gado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de brucelose. De manhã, é melhor evitar comida gordurosa."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Nivel de medicamento en sangre (valproato, litio, digoxina)",
+ "also": [
+  "nivel de medicamento en sangre",
+  "monitoreo de fármacos",
+  "niveles de litio",
+  "niveles de valproato",
+  "nivel de digoxina"
+ ],
+ "what": "El análisis de sangre muestra cuánto medicamento hay ahora en tu sangre. Así el médico sabe si la dosis alcanza y si no es demasiado alta.",
+ "why": "Cuando tomas medicamentos con un margen seguro muy estrecho, después de cambiar la dosis, con efectos secundarios o si el medicamento no te ayuda.",
+ "duration": "la toma de sangre suele durar 5 minutos; el resultado suele estar en 1 a 2 días",
+ "tell_doctor": [
+  "La hora exacta en que tomaste la última dosis",
+  "Si te saltaste dosis en los últimos días",
+  "Todos los demás medicamentos y suplementos",
+  "Si tuviste vómito, diarrea, deshidratación o fiebre"
+ ],
+ "prepare": [
+  {
+   "title": "Hora",
+   "text": "Lo más importante es la hora de la toma. Normalmente la sangre se toma antes de la siguiente dosis. El médico te dirá la hora exacta."
+  },
+  {
+   "title": "Dosis de la mañana",
+   "text": "Pregúntale al médico si tomas la dosis de la mañana antes o después del análisis. No te saltes ni cambies la dosis por tu cuenta."
+  },
+  {
+   "title": "Constancia",
+   "text": "Varios días antes del análisis, toma el medicamento exactamente según el esquema."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayunar. Pregunta en el laboratorio."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Anotada la hora de tu última dosis",
+  "El medicamento, si el médico dijo que lo tomes después del análisis"
+ ],
+ "steps": [
+  "Dile a la enfermera cuándo tomaste la última dosis",
+  "Te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Toman sangre de la vena en un tubo",
+  "Anotan la hora de la toma en la orden"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Toma tu medicamento, si el médico así lo indicó",
+  "El resultado suele estar en 1 a 2 días",
+  "Solo el médico cambia la dosis según el resultado"
+ ],
+ "red_flags": [
+  "Temblor fuerte, vómito, diarrea, inestabilidad o confusión: ve al médico de inmediato",
+  "Desmayo, convulsiones o latidos muy irregulares: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué importa la hora del análisis?",
+   "a": "Después de tomar el medicamento hay mucho en la sangre, y luego va bajando. Sin la hora exacta, es fácil interpretar mal el resultado."
+  },
+  {
+   "q": "¿Cada cuánto se hace este análisis?",
+   "a": "Más seguido al inicio del tratamiento y después de cambiar la dosis; luego, menos. El médico te dará el calendario."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de nivel de medicamento. Anota la hora de tu última dosis. La dosis de la mañana, como dijo el médico."
+  }
+ ]
+}

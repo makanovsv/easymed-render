@@ -1,0 +1,82 @@
+{
+ "title": "Oshqozon polipini olib tashlash",
+ "also": [
+  "oshqozon polipektomiyasi",
+  "polipni endoskopik olib tashlash",
+  "gastroskopiyada polipni olish"
+ ],
+ "what": "Gastroskop orqali shifokor oshqozondagi polipni ingichka xalqa yoki qisqich bilan olib tashlaydi. Qorinda kesma yo‘q.",
+ "why": "Gastroskopiyada polip topilib, uni olib tashlash va tekshirish kerak bo‘lganda.",
+ "duration": "protsedura odatda 20–60 daqiqa; ba’zan kechgacha yoki tunda kasalxonada kuzatiladi; gistologiya 1–2 haftada",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar — nimani va qachon to‘xtatishni shifokor aytadi",
+  "Qandli diabet",
+  "Yurak kasalliklari, kardiostimulyator",
+  "Allergiyalar va narkoz bilan muammolar"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Odatda qon ivishi va qon guruhi tahlillari kerak. Ro‘yxatni klinika beradi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda 6–8 soat ovqat yemang, suvni klinika aytgan vaqtgacha ichish mumkin."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nimani o‘tkazib yuborishni shifokor aytadi."
+  },
+  {
+   "title": "Hamroh",
+   "text": "Sedatsiyadan keyin hamroh kerak."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va oldingi gastroskopiya xulosasi",
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Hamroh"
+ ],
+ "steps": [
+  "Venaga kateter qo‘yiladi",
+  "Chap yonboshingizga yotasiz, og‘izga og‘izlik qo‘yiladi",
+  "Sedatsiya beriladi — uxlab qolasiz",
+  "Shifokor gastroskopni kiritadi, polipni topib, xalqa bilan kesadi",
+  "Olib tashlangan joy kuydiriladi yoki klipsalar bilan yopiladi",
+  "Polip laboratoriyaga yuboriladi"
+ ],
+ "feel": [
+  "Sedatsiyada protsedurani odatda sezmaysiz va eslamaysiz",
+  "Keyin — tomoqda qirilish va dam bo‘lish",
+  "Ba’zan qorin yuqorisida yengil noqulaylik"
+ ],
+ "after": [
+  "Ovqatni shifokor aytgan vaqtdan keyin, avval yumshoq iliq ovqatdan boshlang",
+  "Bir necha kun yengil ovqat: achchiq, issiq narsa va alkogolsiz",
+  "Shifokor oshqozonni himoya qiluvchi dorilar buyurishi mumkin",
+  "Sedatsiyadan keyin kun oxirigacha rul ortiga o‘tirmang",
+  "Gistologiya natijasi — 1–2 haftada"
+ ],
+ "red_flags": [
+  "Qon yoki «qahva quyqasi» bilan qusish — tez yordamni chaqiring (103)",
+  "Qora suyuq axlat, holsizlik, bosh aylanishi — tez yordamni chaqiring (103)",
+  "Qorinda kuchli og‘riq yoki harorat"
+ ],
+ "faq": [
+  {
+   "q": "Polip — bu saratonmi?",
+   "a": "Ko‘pincha yo‘q. Aniq javobni faqat olib tashlangandan keyingi to‘qima tahlili beradi."
+  },
+  {
+   "q": "Og‘riydimi?",
+   "a": "Odatda yo‘q. Oshqozonda og‘riq nervlari yo‘q, protsedura esa sedatsiya ostida qilinadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga oshqozon polipini olib tashlash. Kechki ovqatdan keyin boshqa yemang. Ertalab — hamroh bilan keling."
+  }
+ ]
+}

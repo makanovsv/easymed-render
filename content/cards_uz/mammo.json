@@ -1,0 +1,65 @@
+{
+ "title": "Mammografiya",
+ "also": [
+  "ko‘krak rentgeni",
+  "mammogramma"
+ ],
+ "what": "Sut bezlarining rentgeni. Surat aniq chiqishi uchun ko‘krak bir necha soniyaga plastina bilan bosiladi.",
+ "why": "Ko‘krak saratonini erta aniqlash uchun — odatda 40 yoshdan boshlab 2 yilda bir marta yoki zichlik sezilganda.",
+ "duration": "odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Homiladorlik yoki ko‘krak bilan emizish",
+  "Ko‘kraklarda implantlar",
+  "Ko‘krakda operatsiyalar bo‘lgan bo‘lsa",
+  "Zichlik paypaslangan bo‘lsa — aynan qayerda"
+ ],
+ "prepare": [
+  {
+   "title": "Sikl kuni",
+   "text": "Eng qulayi sikl 5–12-kuni — ko‘krak kamroq sezgir. Hayz bo‘lmasa — istalgan kun."
+  },
+  {
+   "title": "Teri",
+   "text": "Surat kuni ko‘krak va qo‘ltiqqa dezodorant, krem va upa surtmang — ular suratda dog‘ beradi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yubka yoki shim va kofta — faqat belgacha yechinish kerak."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi mammogrammalar va ko‘krak UTTsi — ularni solishtirish juda muhim"
+ ],
+ "steps": [
+  "Siz belgacha yechinib, apparat oldiga turasiz",
+  "Laborant bitta ko‘krakni maydonchaga qo‘yadi",
+  "Tepadan plastina tushib, ko‘krakni bir necha soniya bosadi",
+  "Surat olinadi, keyin boshqa proyeksiya va boshqa ko‘krak — odatda 4 ta surat"
+ ],
+ "feel": [
+  "Siqish yoqimsiz, ba’zan og‘riydi — lekin atigi bir necha soniya",
+  "Kuchli og‘risa, laborantga ayting"
+ ],
+ "after": [
+  "Xulosa odatda 1–3 kun ichida",
+  "Ba’zan qo‘shimcha suratga yoki UTTga chaqirishadi — bu keng tarqalgan amaliyot, qo‘rqish uchun sabab emas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nega ko‘krakni bunchalik qattiq siqishadi?",
+   "a": "Shunda to‘qima tekis yoyiladi, surat aniqroq chiqadi, nurlanish dozasi esa kamroq bo‘ladi."
+  },
+  {
+   "q": "Mammografiyami yoki ko‘krak UTTsimi?",
+   "a": "Bu turli tekshiruvlar. Mammografiyani odatda 40 yoshdan keyin qilishadi, UTTni — yoshlarga va qo‘shimcha sifatida. Shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga mammografiya. Ertalab ko‘krak va qo‘ltiqqa dezodorant va krem surtmang."
+  }
+ ]
+}

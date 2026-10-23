@@ -1,0 +1,71 @@
+{
+ "title": "Prueba de apnea del sueño en casa",
+ "also": [
+  "prueba de apnea en casa",
+  "monitoreo cardiorrespiratorio",
+  "monitoreo respiratorio del sueño",
+  "revisión de ronquidos de noche"
+ ],
+ "what": "Te llevas a casa un aparato pequeño y duermes con él una noche. Registra la respiración, el oxígeno y el pulso.",
+ "why": "Con ronquidos fuertes, pausas en la respiración al dormir y mucho sueño durante el día.",
+ "duration": "una noche en casa; la lectura normalmente sale en unos días",
+ "tell_doctor": [
+  "Si tomas pastillas para dormir o calmantes",
+  "Si tienes enfermedades del corazón o de los pulmones",
+  "Si trabajas en turno de noche"
+ ],
+ "prepare": [
+  {
+   "title": "Tarde",
+   "text": "Sin alcohol ni pastillas para dormir, si el médico no lo permitió. Acuéstate a tu hora de siempre."
+  },
+  {
+   "title": "Dedos",
+   "text": "Quita el esmalte de la uña donde se coloca el sensor."
+  },
+  {
+   "title": "Aparato",
+   "text": "La enfermera te mostrará cómo ponerte los sensores. Pídele que lo anotes o lo fotografíes."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de tus medicamentos",
+  "Una bolsa para devolver el aparato"
+ ],
+ "steps": [
+  "En la clínica te muestran el aparato y cómo ponértelo",
+  "En la noche, antes de dormir, te pones la banda con sensores en el pecho",
+  "Bajo la nariz colocas un tubito delgado y en el dedo, un sensor de oxígeno",
+  "Enciendes el aparato y duermes como siempre",
+  "En la mañana te quitas los sensores y apagas el aparato",
+  "Devuelves el aparato a la clínica el mismo día"
+ ],
+ "feel": [
+  "No duele",
+  "Los primeros minutos es raro, pero la mayoría se duerme tranquila",
+  "El tubito bajo la nariz puede molestar"
+ ],
+ "after": [
+  "La lectura normalmente tarda unos días",
+  "Con el resultado ve al médico: te lo explicará y propondrá el tratamiento",
+  "Si en la noche se cayó un sensor, dilo al devolver el aparato"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Y si dormí mal?",
+   "a": "Normalmente bastan unas horas de sueño. Si hay poco registro, pueden repetir la prueba."
+  },
+  {
+   "q": "¿En qué se diferencia de dormir en un laboratorio?",
+   "a": "En casa hay menos sensores y duermes en tu cama. Para algunas personas el médico igual pedirá un estudio en un laboratorio del sueño."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Esta noche es tu prueba del sueño. En la tarde, sin alcohol. Ponte los sensores como te mostraron y enciende el aparato."
+  }
+ ]
+}

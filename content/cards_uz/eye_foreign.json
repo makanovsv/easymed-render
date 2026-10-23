@@ -1,0 +1,78 @@
+{
+ "title": "Ko‘zdan begona jismni olib tashlash",
+ "also": [
+  "ko‘zga ahlat tushdi",
+  "shox parda begona jismi",
+  "ko‘zda metall qirindi",
+  "ko‘zga tushdi"
+ ],
+ "what": "Shifokor tomchi ostida ko‘zdagi ahlatni topib, ehtiyotkorlik bilan olib tashlaydi. Odatda bu bir necha daqiqa oladi.",
+ "why": "Ko‘zga ahlat, qirindi yoki zarra tushib, yuvilib ketmaganda.",
+ "duration": "odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Ko‘zga nima tushgani va qachon",
+  "Metall, charx, yog‘och bilan ishlaganmisiz",
+  "Linza taqsangiz",
+  "Tomchiga allergiya bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ishqalamang",
+   "text": "Ko‘zni ishqalamang — bu shox pardani tirnashi mumkin."
+  },
+  {
+   "title": "Yuvish",
+   "text": "Ko‘zni toza suv bilan yuvsa bo‘ladi. Zarrani o‘tkir buyumlar bilan olishga urinmang."
+  },
+  {
+   "title": "Linzalar",
+   "text": "Ko‘zda linza bo‘lsa — iloji bo‘lsa, toza qo‘llar bilan yeching."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Ko‘zoynak, agar taqsangiz",
+  "Yomon ko‘rsangiz, hamroh"
+ ],
+ "steps": [
+  "Shifokor og‘riq qoldiruvchi tomchi tomizadi",
+  "Ko‘zni mikroskop ostida ko‘radi",
+  "Ba’zan tirnalishlarni ko‘rish uchun bo‘yoq tomizadi",
+  "Zarrani nam cho‘p yoki ingichka asbob bilan olib tashlaydi",
+  "Zang izi qolgan bo‘lsa, uni ham olib tashlaydi",
+  "Davolovchi tomchi yoki malham tomiziladi"
+ ],
+ "feel": [
+  "Tomchidan keyin — deyarli og‘rimaydi",
+  "Tomchi ta’siri o‘tgach, qum tushgandek va achish hissi bo‘lishi mumkin",
+  "Ko‘z yoshlanishi va bir-ikki kun yorug‘likdan qochishi mumkin"
+ ],
+ "after": [
+  "Tomchi yoki malham — shifokor sxemasi bo‘yicha",
+  "Ruxsat berilmaguncha ko‘zni ishqalamang va linza taqmang",
+  "Kerak bo‘lsa — ertasi kuni nazoratga keling",
+  "Metall bilan ishlashda himoya ko‘zoynagidan foydalaning"
+ ],
+ "red_flags": [
+  "Og‘riq o‘tmaydi yoki bir kundan keyin kuchayadi",
+  "Ko‘rishning yomonlashuvi",
+  "Yiring, ko‘zdagi oq dog‘",
+  "Katta tezlikda parcha urilsa — darhol shifokorga, kuchli jarohatda 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Nega ko‘zni ishqalash mumkin emas?",
+   "a": "Zarra shox pardani tirnab, chuqurroq kirib ketishi mumkin."
+  },
+  {
+   "q": "Yuvilib ketganga o‘xshasa ham shifokorga borish kerakmi?",
+   "a": "Ahlat hissi qolgan, ko‘z qizargan yoki yomonroq ko‘rsa — ha."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Ko‘zni ishqalamang. Ahlat hissi qolsa — oftalmologga ko‘rining."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "title": "Ergoterapiya",
+ "also": [
+  "ergoterapevt",
+  "kundalik ko‘nikmalarni tiklash",
+  "mehnat terapiyasi",
+  "insultdan keyin reabilitatsiya"
+ ],
+ "what": "Mutaxassis oddiy hayot uchun ko‘nikmalarni qaytarishga yordam beradi: kiyinish, ovqatlanish, yuvinish, yozish, ovqat tayyorlash. Uy uchun moslamalarni tanlaydi.",
+ "why": "Insult va jarohatlardan keyin, bo‘g‘im kasalliklarida, rivojlanishida buzilishlari bor bolalarga — ishlarni o‘zi uddalash qiyin bo‘lganda.",
+ "duration": "mashg‘ulot odatda 45–60 daqiqa; kursni mutaxassis hal qiladi",
+ "tell_doctor": [
+  "Qaysi ishlar qiyinlashgan",
+  "Qanday dorilar ichasiz",
+  "Og‘riq, bosh aylanishi, ko‘rish bilan muammolar bormi",
+  "Uyingiz qanday: zinapoyalar, vanna, ostona"
+ ],
+ "prepare": [
+  {
+   "title": "Maqsadlar",
+   "text": "Yana o‘zingiz nimani eng ko‘p qilishni xohlayotganingizni o‘ylab ko‘ring — shundan boshlashadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Odatda yuradigan qulay kiyim va poyabzal."
+  }
+ ],
+ "bring": [
+  "Shifokorlarning ko‘chirmalari va xulosalari",
+  "Ko‘zoynak, eshitish apparati, hassa — foydalansangiz",
+  "Uyda yordam beradigan qarindosh"
+ ],
+ "steps": [
+  "Mutaxassis nimani qilish qiyinligini so‘raydi",
+  "Odatiy harakatlarni qanday bajarishingizni ko‘radi",
+  "Birgalikda maqsadlarni tanlaysiz",
+  "Mashg‘ulotda harakat va ko‘nikmalarni mashq qildirasiz",
+  "Mutaxassis moslamalar va uydagi o‘zgarishlar bo‘yicha maslahat beradi"
+ ],
+ "feel": [
+  "Topshiriqlar charchatishi mumkin — tanaffus qiling",
+  "Og‘riq bo‘lmasligi kerak — mutaxassisga ayting"
+ ],
+ "after": [
+  "Ko‘nikmalarni uyda har kuni takrorlang",
+  "Qarindoshlar hamma narsani sizning o‘rningizga qilmasdan, ozgina yordam berishi muhim"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ergoterapevt davolash gimnastikasidan nimasi bilan farq qiladi?",
+   "a": "Davolash gimnastikasi mushaklar va harakatlarni mashq qildiradi, ergoterapiya esa aniq ishlarni: kiyinish, ovqatlanish, yuvinish."
+  },
+  {
+   "q": "Qarindosh bilan kelish kerakmi?",
+   "a": "Ma’qul. U uyda to‘g‘ri yordam berishni o‘rganadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ergoterapevt bilan mashg‘ulot. Ko‘chirmalar va har kuni ishlatadigan narsalaringizni oling."
+  }
+ ]
+}

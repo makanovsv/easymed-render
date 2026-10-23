@@ -1,0 +1,79 @@
+{
+ "title": "PCR en heces para infecciones intestinales (rotavirus, norovirus)",
+ "also": [
+  "PCR en heces",
+  "infecciones intestinales",
+  "rotavirus",
+  "norovirus",
+  "gripa estomacal"
+ ],
+ "what": "Es un análisis de heces que busca los virus y microbios que causan diarrea y vómito.",
+ "why": "Con diarrea y vómito repentinos, sobre todo en niños, o cuando se enferman varios en la familia o en la escuela.",
+ "duration": "juntar la muestra toma unos minutos; el resultado suele estar en 1 a 2 días",
+ "tell_doctor": [
+  "Cuántos días lleva la diarrea y el vómito",
+  "Si hay sangre o moco en las heces",
+  "Qué medicamentos ya se dieron",
+  "Si alguien más en la familia está enfermo"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Consigue un frasco estéril en la farmacia o el laboratorio. Para heces, el que trae una cucharita en la tapa."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "Es mejor hacer el análisis antes de empezar antibióticos. Si ya los tomas, no los dejes por tu cuenta y díselo al médico."
+  },
+  {
+   "title": "Recolección",
+   "text": "Las heces se toman de una superficie limpia o del pañal, no del agua del excusado. No las mezcles con orina."
+  },
+  {
+   "title": "Entrega",
+   "text": "Lleva el frasco al laboratorio el mismo día. Pregunta en el laboratorio cómo guardarlo mientras tanto."
+  }
+ ],
+ "bring": [
+  "El frasco con las heces",
+  "La orden médica",
+  "Tu identificación"
+ ],
+ "steps": [
+  "Pon un plástico o papel limpio en la bacinica o el excusado",
+  "Con la cucharita de la tapa toma un poco de heces, de preferencia de la parte líquida",
+  "Ponlo en el frasco: no más de un tercio",
+  "Ciérralo bien y ponle nombre",
+  "Lávate las manos y lleva el frasco al laboratorio"
+ ],
+ "feel": [
+  "Nada molesto: es una recolección normal de heces",
+  "Al niño no le molesta: se puede tomar de la bacinica o del pañal"
+ ],
+ "after": [
+  "Da de beber seguido y poco a poco: es lo más importante con la diarrea",
+  "Lávate las manos después de ir al baño y de cambiar pañales",
+  "El médico te explica el resultado"
+ ],
+ "red_flags": [
+  "El niño lleva mucho sin orinar, tiene la boca seca o llora sin lágrimas: ve al médico de inmediato",
+  "Sangre en las heces o fiebre alta: ve al médico ese mismo día",
+  "El niño está muy decaído, no despierta o tiene convulsiones: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Se pueden tomar las heces del pañal?",
+   "a": "Sí, si no se absorbieron. Tómalas con la cucharita de la superficie del pañal."
+  },
+  {
+   "q": "¿Hacen falta antibióticos con el rotavirus?",
+   "a": "Normalmente no: es un virus. Lo más importante es beber líquidos. El tratamiento lo indica el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la muestra de heces para PCR. Ten listo el frasco y un plástico limpio para recogerla."
+  }
+ ]
+}

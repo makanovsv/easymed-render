@@ -1,0 +1,84 @@
+{
+ "title": "Cirugía de glaucoma",
+ "also": [
+  "trabeculectomía",
+  "cirugía para glaucoma",
+  "operación para bajar la presión del ojo"
+ ],
+ "what": "El cirujano crea una nueva salida para el líquido del ojo. Así baja la presión dentro del ojo.",
+ "why": "Si tienes glaucoma y las gotas y el láser no bajan la presión lo suficiente.",
+ "duration": "la cirugía suele durar de 45 a 90 minutos; normalmente regresas a casa el mismo día o en 1 o 2 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuál dejar y cuándo",
+  "Qué gotas para el glaucoma usas",
+  "Tus alergias",
+  "Si tienes diabetes, enfermedades del corazón o presión alta",
+  "Si te operaron antes de ese ojo"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis, electrocardiograma y a veces revisión del médico general. La clínica te dará la lista."
+  },
+  {
+   "title": "Gotas",
+   "text": "Normalmente sigues con tus gotas hasta la cirugía, pero pueden suspender algunas. Solo si te lo indica el médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Si te van a dormir, la clínica te dirá desde qué hora no comer."
+  },
+  {
+   "title": "Transporte",
+   "text": "Regresa a casa solo con un acompañante."
+  }
+ ],
+ "bring": [
+  "Tus documentos y la orden médica",
+  "Los resultados de tus análisis",
+  "La lista de tus medicamentos y gotas",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te ponen gotas y anestesia junto al ojo",
+  "A veces te dan un calmante o anestesia general",
+  "Sostienen los párpados con un separador",
+  "El cirujano hace un canal pequeño debajo del párpado de arriba",
+  "Pone puntos muy delgados",
+  "Te tapan el ojo con un parche"
+ ],
+ "feel": [
+  "Durante la cirugía sientes presión, pero no dolor",
+  "Después sientes algo en el ojo y está rojo",
+  "Las primeras semanas puedes ver borroso"
+ ],
+ "after": [
+  "Gotas exactamente según las indicaciones; muchas veces son frecuentes y por mucho tiempo",
+  "Revisiones seguido, sobre todo las primeras semanas",
+  "No te talles el ojo ni cargues cosas pesadas",
+  "A veces ajustan o quitan puntos en la consulta",
+  "Las gotas de glaucoma de ese ojo solo las suspende el médico"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el ojo, náuseas o vómito: ve al médico de inmediato",
+  "La vista baja de repente",
+  "Pus o el ojo muy rojo, sobre todo semanas después de la cirugía: ve al médico de inmediato",
+  "Dolor de cabeza fuerte con dolor en el ojo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La cirugía me devuelve la vista?",
+   "a": "No, lo que se perdió por el glaucoma no regresa. La cirugía ayuda a conservar lo que queda."
+  },
+  {
+   "q": "¿Voy a necesitar gotas después?",
+   "a": "A veces no y a veces sí. El médico lo decide según la presión."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía de glaucoma. Usa tus gotas como te dijo el médico. Ve con un acompañante."
+  }
+ ]
+}

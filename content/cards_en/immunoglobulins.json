@@ -1,0 +1,68 @@
+{
+ "title": "Immunoglobulins A, M, and G",
+ "also": [
+  "immunoglobulin test",
+  "IgA IgM IgG",
+  "immune system blood test",
+  "total antibodies test"
+ ],
+ "what": "This blood test shows how much of the three main types of antibodies you have. They protect you from infections.",
+ "why": "For frequent or severe infections, when an immune problem is suspected, and for liver, blood, and joint conditions.",
+ "duration": "the blood draw usually takes 5 minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "How often you get sick, and with what",
+  "If you had immunoglobulin or a blood transfusion",
+  "If you take steroids or drugs that suppress the immune system",
+  "If a child is being tested, their age. Normal values are different for children"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "It is usually better on an empty stomach or 4 hours after eating. Water is fine. Check with the lab."
+  },
+  {
+   "title": "Your health",
+   "text": "If you have an acute infection now, ask your doctor if the test should be moved."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Tell your doctor what you take."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past test results, if any"
+ ],
+ "steps": [
+  "You sit down, and a band is tied above your elbow",
+  "The skin is wiped with antiseptic",
+  "Blood is taken from a vein into a tube",
+  "The band is removed, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Results usually come in 1 to 3 days",
+  "The doctor will read the result based on your age and health conditions"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Do low immunoglobulins mean immunodeficiency?",
+   "a": "Not always. Drops can be temporary. The doctor makes a diagnosis from the tests and how you get sick."
+  },
+  {
+   "q": "Can vitamins raise immunoglobulins?",
+   "a": "No. If they really are low, your doctor will choose treatment."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Immunoglobulin test tomorrow. Better on an empty stomach. Water is fine."
+  }
+ ]
+}

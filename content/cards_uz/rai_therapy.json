@@ -1,0 +1,84 @@
+{
+ "title": "Radioaktiv yod bilan davolash",
+ "also": [
+  "radioyodterapiya",
+  "RYT",
+  "radioyod bilan davolash",
+  "radioaktiv yod kapsulasi"
+ ],
+ "what": "Siz radioaktiv yodli kapsula yoki eritmani ichasiz. U qalqonsimon bezda to‘planib, uning to‘qimasini asta-sekin kamaytiradi yoki yo‘q qiladi.",
+ "why": "Qalqonsimon bez funksiyasi oshganda va qalqonsimon bez saratoni bo‘yicha operatsiyadan keyin.",
+ "duration": "kapsulani ichish bir necha daqiqa; bo‘limda odatda bir necha kun, klinika qoidalariga ko‘ra",
+ "tell_doctor": [
+  "Homiladorlik yoki u mumkin bo‘lsa: homiladorlikda davolanmaydi",
+  "Emizish: uni oldindan to‘xtatish kerak, qachon ekanini shifokor aytadi",
+  "Barcha dorilar, ayniqsa qalqonsimon bez gormonlari",
+  "Yaqinda kontrastli KT bo‘lgan bo‘lsa: kontrastda yod bor",
+  "Uyda kichik bolalar yoki homilador ayollar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Parhez",
+   "text": "Odatda davodan 1–2 hafta oldin yodi kam parhez: dengiz mahsulotlari, dengiz karami, yodlangan tuzsiz. Aniq ro‘yxatni klinika beradi."
+  },
+  {
+   "title": "Gormonlar",
+   "text": "O‘zingiz bekor qilmang. Qalqonsimon bez gormonlarini to‘xtatish kerak bo‘lsa, qachon va qanday ekanini shifokor aytadi."
+  },
+  {
+   "title": "Tahlil",
+   "text": "Ayollarga davodan oldin odatda homiladorlik testi qilinadi."
+  },
+  {
+   "title": "Buyumlar",
+   "text": "Minimal buyum oling: ularning bir qismini keyin alohida yuvgan ma’qul."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va xulosalar",
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Kiyim almashtirish uchun va bir necha kunlik oddiy buyumlar"
+ ],
+ "steps": [
+  "Sizni alohida palataga joylashtirishadi",
+  "Shifokor qoidalarni yana bir bor tushuntiradi",
+  "Siz kapsulani yutasiz yoki eritmani suv bilan ichasiz",
+  "Dastlabki soatlarda odatda ovqat yeyish mumkin emas",
+  "Siz ko‘p suv ichasiz va tez-tez hojatxonaga borasiz: shunda ortiqchasi tezroq chiqadi",
+  "Mutaxassis nurlanishni o‘lchaydi va u pasaygach, sizni chiqarishadi"
+ ],
+ "feel": [
+  "Ichishning o‘zi sezilmaydi",
+  "Ba’zan og‘iz qurishi, ta’mning o‘zgarishi, yengil ko‘ngil aynishi",
+  "Dastlabki kunlarda bo‘yin sohasida shish va og‘riq bo‘lishi mumkin",
+  "Yolg‘izlikda zerikarli: kitob yoki quloqchin oling"
+ ],
+ "after": [
+  "Chiqqandan keyin bir necha kun odamlardan, ayniqsa bolalar va homilador ayollardan uzoqroq turing: muddatni shifokor aytadi",
+  "Alohida uxlang, o‘z idish-tovog‘ingiz va sochig‘ingizdan foydalaning",
+  "Hojatxonani tez-tez suv bilan yuving va qo‘llarni yaxshilab yuving",
+  "Homiladorlik odatda shifokor aytgan muddatga qoldiriladi",
+  "Gormonlarga nazorat tahlillari bir necha haftadan keyin"
+ ],
+ "red_flags": [
+  "Bo‘yinning kuchli shishishi, nafas olish yoki yutinish qiyinlashishi: 103 ga qo‘ng‘iroq qiling",
+  "Suv ichishga imkon bermaydigan kuchli qusish"
+ ],
+ "faq": [
+  {
+   "q": "Men oilam uchun xavfli bo‘lamanmi?",
+   "a": "Davodan keyin qisqa vaqt ha, shuning uchun masofa qoidalari kerak. Ularga necha kun amal qilishni shifokor aytadi."
+  },
+  {
+   "q": "Ko‘p suv ichsa bo‘ladimi?",
+   "a": "Ha, hatto kerak. Suv ortiqcha yodning organizmdan tezroq chiqishiga yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "2 kundan keyin radioaktiv yod bilan davolash. Yodi kam parhezni davom ettiring, bir necha kunlik oddiy buyumlarni yig‘ing."
+  }
+ ]
+}

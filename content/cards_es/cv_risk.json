@@ -1,0 +1,75 @@
+{
+ "title": "Evaluación del riesgo cardiovascular",
+ "also": [
+  "riesgo de infarto",
+  "riesgo de embolia cerebral",
+  "evaluación del riesgo del corazón",
+  "escala de riesgo"
+ ],
+ "what": "El médico calcula qué tan grande es la probabilidad de un infarto o una embolia cerebral en los próximos años. Para eso hacen falta la presión, los análisis y tu estilo de vida.",
+ "why": "En los chequeos preventivos, sobre todo después de los 40 años; con presión alta, colesterol, diabetes, tabaquismo, enfermedades del corazón en la familia.",
+ "duration": "la consulta suele durar de 20 a 30 minutos; la evaluación se da al momento o después de los análisis",
+ "tell_doctor": [
+  "Si fumas y cuánto",
+  "Si tienes presión alta, diabetes, enfermedad de los riñones",
+  "Si hubo infartos o embolias cerebrales en familiares cercanos a edad joven",
+  "Qué medicamentos tomas",
+  "Dolor en el pecho o falta de aire con el esfuerzo"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Muchas veces hacen falta colesterol y azúcar en la sangre. Normalmente se hacen en ayunas. Pregunta en la clínica."
+  },
+  {
+   "title": "Presión",
+   "text": "Si te la mides en casa, lleva los registros de los últimos días."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Tómalos como siempre. No los suspendas por tu cuenta."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Resultados de colesterol y azúcar, si los tienes",
+  "El diario de presión",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta por tu salud, tus hábitos y tus familiares",
+  "Mide la presión, la estatura, el peso y la cintura",
+  "Ve los análisis o te manda a hacerlos",
+  "A veces hace un electrocardiograma",
+  "Calcula el riesgo con una escala especial",
+  "Te explica qué ayuda a bajar el riesgo"
+ ],
+ "feel": [
+  "La consulta no duele",
+  "Si sacan sangre, un pinchazo breve"
+ ],
+ "after": [
+  "Recibes un plan: alimentación, movimiento, dejar de fumar y a veces medicamentos",
+  "La evaluación se repite normalmente en un año o antes; el médico te dirá"
+ ],
+ "red_flags": [
+  "Dolor opresivo en el pecho por más de unos minutos: llama a emergencias",
+  "Debilidad repentina de un brazo o una pierna, cara torcida o dificultad para hablar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "Si el riesgo es bajo, ¿no tengo que hacer nada?",
+   "a": "De todos modos hay que revisarse con regularidad. El riesgo cambia con la edad y los hábitos."
+  },
+  {
+   "q": "¿Es obligatorio tomar pastillas si el riesgo es alto?",
+   "a": "Lo decide el médico. A veces al principio basta cambiar el estilo de vida."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes la evaluación del riesgo cardiovascular. Si te sacan sangre, no comas después de la cena; el agua sí puedes beberla."
+  }
+ ]
+}

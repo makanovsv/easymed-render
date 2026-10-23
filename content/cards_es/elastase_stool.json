@@ -1,0 +1,67 @@
+{
+ "title": "Elastasa pancreática en heces",
+ "also": [
+  "elastasa fecal",
+  "elastasa pancreática",
+  "análisis de heces para el páncreas",
+  "elastasa 1"
+ ],
+ "what": "Es un análisis de heces de una enzima del páncreas. Muestra si tienes suficientes enzimas para digerir la comida.",
+ "why": "Con heces grasosas, abundantes y que no se van fácil al jalar, pérdida de peso o inflamación; en enfermedades del páncreas; en niños, cuando suben poco de peso.",
+ "duration": "juntar la muestra en casa toma unos minutos; el resultado suele estar en unos días",
+ "tell_doctor": [
+  "Si ahora tienes heces líquidas: el resultado puede salir inexacto",
+  "Si tomas enzimas u otros medicamentos",
+  "Si te operaron del estómago, el intestino o el páncreas"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Consigue en la farmacia o el laboratorio un frasco con cucharita."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Las enzimas en pastillas normalmente no afectan este análisis, pero díselo al médico."
+  },
+  {
+   "title": "Heces",
+   "text": "Es mejor entregar heces formadas, no líquidas."
+  }
+ ],
+ "bring": [
+  "El frasco con la muestra",
+  "La orden médica"
+ ],
+ "steps": [
+  "Junta las heces en un recipiente limpio y seco: no del excusado",
+  "Cuida que a la muestra no le caiga orina ni agua",
+  "Con la cucharita toma un pedacito del tamaño de un chícharo o un frijol",
+  "Cierra bien el frasco y ponle nombre",
+  "Llévalo al laboratorio en el tiempo que te indicaron"
+ ],
+ "feel": [
+  "Nada: la muestra se junta en casa y no duele",
+  "Puede ser desagradable juntarla, pero es rápido y se hace una vez"
+ ],
+ "after": [
+  "El resultado suele estar en unos días",
+  "Si la elastasa está baja, el médico decidirá si hacen falta enzimas y otros estudios"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo guardar la muestra en el refrigerador?",
+   "a": "Normalmente sí, por poco tiempo. En el laboratorio te dirán cuánto exactamente."
+  },
+  {
+   "q": "¿Hay que hacer dieta antes del análisis?",
+   "a": "Normalmente no. Come como siempre."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana entregas tus heces para elastasa. Ten listo el frasco y un recipiente limpio y seco para juntarlas."
+  }
+ ]
+}

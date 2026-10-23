@@ -1,0 +1,79 @@
+{
+ "title": "Holter de ECG na criança",
+ "also": [
+  "Holter infantil",
+  "ECG de 24 horas na criança",
+  "monitorização de 24 horas do ECG em crianças"
+ ],
+ "what": "Colam sensores no peito da criança, e um aparelho pequeno grava o ECG por 24 horas. Ela leva a vida normal.",
+ "why": "Quando a criança reclama de coração acelerado, desmaios, dor no peito, ou o médico ouviu falhas no ritmo.",
+ "duration": "normalmente fica 24 horas, a análise sai em 1 a 3 dias",
+ "tell_doctor": [
+  "Quais remédios a criança toma",
+  "O que exatamente incomoda e quando",
+  "Se a criança tem alergia a esparadrapo",
+  "Se a criança faz esporte"
+ ],
+ "prepare": [
+  {
+   "title": "Banho",
+   "text": "Dê banho na criança na véspera. Com o aparelho, não pode tomar banho."
+  },
+  {
+   "title": "Roupa",
+   "text": "Camiseta larga, para os fios não atrapalharem."
+  },
+  {
+   "title": "Conversa",
+   "text": "Explique à criança que não pode mexer nos sensores nem tirar."
+  },
+  {
+   "title": "Diário",
+   "text": "Anote o que a criança fez e sentiu: brincadeiras, sono, queixas."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Caderno para o diário",
+  "Camiseta larga",
+  "Documentos da criança"
+ ],
+ "steps": [
+  "A enfermeira limpa a pele do peito da criança",
+  "Cola alguns sensores",
+  "Liga neles um aparelho pequeno, preso na cintura ou numa alça",
+  "A criança vai para casa e vive como sempre",
+  "Você faz o diário: sono, brincadeiras, queixas",
+  "Depois de 24 horas, o aparelho é tirado na clínica"
+ ],
+ "feel": [
+  "Não dói",
+  "Os adesivos podem coçar",
+  "Crianças pequenas às vezes puxam os fios. Fique de olho"
+ ],
+ "after": [
+  "A análise sai normalmente em 1 a 3 dias",
+  "Uma leve vermelhidão do adesivo passa sozinha",
+  "Quem explica o resultado é o médico"
+ ],
+ "red_flags": [
+  "A criança desmaiou: ligue para a emergência",
+  "Dor forte no peito ou falta de ar"
+ ],
+ "faq": [
+  {
+   "q": "A criança pode correr com o Holter?",
+   "a": "Pode. A atividade normal é até necessária. Mas sem água e sem piscina."
+  },
+  {
+   "q": "O que fazer se um sensor descolar?",
+   "a": "Aperte de volta e anote o horário. Se soltou de vez, ligue para a clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã colocam o Holter na criança. Hoje dê banho nela e separe uma camiseta larga."
+  }
+ ]
+}

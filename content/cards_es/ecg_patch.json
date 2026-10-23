@@ -1,0 +1,75 @@
+{
+ "title": "Monitor de electrocardiograma de larga duración (parche de 7 a 14 días)",
+ "also": [
+  "parche de electrocardiograma",
+  "monitoreo prolongado del electrocardiograma",
+  "parche monitor del corazón",
+  "electrocardiograma por una semana"
+ ],
+ "what": "En el pecho se pega un monitor pequeño en forma de parche. Registra el electrocardiograma sin parar de 1 a 2 semanas, mientras haces tu vida normal.",
+ "why": "Cuando los latidos que se saltan, las palpitaciones o los desmayos pasan pocas veces y el Holter de 24 horas no los atrapa.",
+ "duration": "se usa normalmente de 7 a 14 días; el resultado, unos días después de quitarlo",
+ "tell_doctor": [
+  "Qué medicamentos tomas",
+  "Si tienes marcapasos",
+  "Si tienes alergia a los parches o al pegamento",
+  "Qué tan seguido te dan tus síntomas"
+ ],
+ "prepare": [
+  {
+   "title": "Piel",
+   "text": "El día que te lo pongan, no te pongas crema en el pecho. A los hombres a veces les rasuran la zona."
+  },
+  {
+   "title": "Diario",
+   "text": "Anota la hora y cómo te sentiste. Muchas veces el parche tiene un botón: púlsalo cuando tengas síntomas."
+  },
+  {
+   "title": "Agua",
+   "text": "Muchos parches permiten la ducha, pero no la bañera ni la alberca. Pregunta por tu aparato."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de tus medicamentos",
+  "Una libreta o el teléfono para el diario"
+ ],
+ "steps": [
+  "La enfermera limpia la piel del pecho",
+  "Pega el parche en el lado izquierdo del pecho",
+  "Comprueba que el registro funciona",
+  "Te explica cómo pulsar el botón y llevar el diario",
+  "Te vas a casa y vives como siempre",
+  "A los 7 a 14 días te lo quitas tú o en la clínica, como te digan"
+ ],
+ "feel": [
+  "No duele",
+  "La piel bajo el parche puede dar comezón",
+  "Los primeros días se siente que hay algo pegado; luego te acostumbras"
+ ],
+ "after": [
+  "Entregas el parche a la clínica o lo envías, como te digan",
+  "La interpretación suele tomar unos días",
+  "Un pequeño enrojecimiento después de quitarlo se pasa solo"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el pecho, desmayo, dificultad para respirar: llama a emergencias; el parche no estorba",
+  "Comezón fuerte o ampollas bajo el parche: comunícate con la clínica"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo ducharme con el parche?",
+   "a": "Muchos parches lo resisten, pero normalmente no se puede la bañera ni la alberca. Pregunta por tu aparato."
+  },
+  {
+   "q": "¿Qué hago si el parche se despegó?",
+   "a": "Llama a la clínica. No lo pegues de nuevo con cinta sin consultar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen el parche de electrocardiograma. En la mañana no te pongas crema en el pecho. Piensa dónde vas a llevar el diario."
+  }
+ ]
+}

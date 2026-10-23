@@ -1,0 +1,85 @@
+{
+ "title": "Cuidado de la traqueostomía en casa",
+ "also": [
+  "traqueostomía",
+  "cuidado de la cánula del cuello",
+  "cánula de traqueostomía",
+  "limpieza de la traqueostomía",
+  "aspiración de la traqueostomía"
+ ],
+ "what": "La traqueostomía es una abertura en el cuello por donde la persona respira a través de un tubo. En casa hay que cuidarla todos los días, para que el tubo esté limpio y la piel sana.",
+ "why": "Cuando la persona no puede respirar bien por la boca y la nariz y el médico le hizo una traqueostomía por mucho tiempo.",
+ "duration": "el cuidado suele durar de 15 a 30 minutos, 1 o 2 veces al día; la aspiración, según haga falta",
+ "tell_doctor": [
+  "Si hay más mucosidad, cambió de color o huele mal",
+  "Si la piel alrededor del estoma está roja, húmeda o sangra",
+  "Si el tubo cuesta meterlo o se mueve",
+  "Si te falta material o no estás segura o seguro de cómo hacerlo"
+ ],
+ "prepare": [
+  {
+   "title": "Capacitación",
+   "text": "Antes del alta, pide a la enfermera que te muestre todo y haz el cuidado tú mismo varias veces frente a ella."
+  },
+  {
+   "title": "Tubo de repuesto",
+   "text": "Ten siempre a la mano un tubo de repuesto del mismo tamaño y otro un número más chico."
+  },
+  {
+   "title": "Equipo",
+   "text": "Aspirador, sondas, toallitas, agua hervida, gasas con corte y cintas de sujeción."
+  },
+  {
+   "title": "Aire",
+   "text": "El aire seco reseca la mucosidad. Normalmente se recomienda un humidificador en el cuarto."
+  }
+ ],
+ "bring": [
+  "El tubo de repuesto y las cintas",
+  "El aspirador y las sondas",
+  "El resumen de alta y los datos del médico",
+  "Una lista de preguntas para el médico"
+ ],
+ "steps": [
+  "Lávate las manos y ponte guantes",
+  "Si se oyen burbujeos, aspira la mucosidad con la sonda como te enseñaron",
+  "Saca la cánula interna, si hay, y lávala",
+  "Quita la gasa vieja y revisa la piel",
+  "Limpia la piel alrededor del estoma con una toallita húmeda y sécala con toques suaves",
+  "Coloca una gasa nueva con corte",
+  "Cambia las cintas: sostén el tubo con la mano hasta que las cintas viejas estén cambiadas",
+  "Entre la cinta y el cuello debe caber un dedo"
+ ],
+ "feel": [
+  "La aspiración da tos: es normal",
+  "A la persona le puede dar miedo: háblale con calma y explícale cada paso"
+ ],
+ "after": [
+  "Fíjate en el color y la cantidad de mucosidad",
+  "Evita que entre agua al tubo al bañarla",
+  "El cambio de todo el tubo se hace según el calendario del médico",
+  "Ten a la vista el teléfono de emergencias"
+ ],
+ "red_flags": [
+  "El tubo se salió o se tapó y no se destapa: pon el de repuesto y llama a emergencias",
+  "La persona se ahoga, los labios se ponen azules: llama a emergencias",
+  "Sangre por el tubo, más que unas rayitas: llama a emergencias",
+  "Fiebre, mucosidad espesa amarilla o verde con mal olor: ve al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Una persona con traqueostomía puede hablar?",
+   "a": "A veces sí, con una válvula especial. El médico decide si en tu caso se puede."
+  },
+  {
+   "q": "¿Cada cuánto hay que aspirar la mucosidad?",
+   "a": "Según haga falta: cuando se oyen burbujeos o la persona no puede toser. No por horario."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Cuidado de la traqueostomía en la mañana: manos, guantes, aspirador, gasa, cintas. El tubo de repuesto, a la mano."
+  }
+ ]
+}

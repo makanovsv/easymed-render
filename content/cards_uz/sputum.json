@@ -1,0 +1,78 @@
+{
+ "title": "Balg‘am tahlili",
+ "also": [
+  "tahlil uchun balg‘am",
+  "balg‘am topshirish",
+  "balg‘am ekmasi"
+ ],
+ "what": "Siz o‘pkadan balg‘amni steril idishga yo‘talib chiqarasiz. Laboratoriyada uni mikroskop ostida ko‘rishadi va kerak bo‘lsa, ekma qilishadi.",
+ "why": "Balg‘amli uzoq yo‘talda, bronx yoki o‘pka yallig‘lanishida, silga shubha bo‘lganda, davoni tanlash uchun.",
+ "duration": "yig‘ish 5–10 daqiqa",
+ "tell_doctor": [
+  "Antibiotik qabul qilayotgan bo‘lsangiz: bu natijaga ta’sir qiladi",
+  "Balg‘amda qon bo‘lgan bo‘lsa",
+  "Balg‘am yo‘talib chiqmasa"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Balg‘am odatda ertalab, uyqudan darhol keyin yig‘iladi: tunda u eng ko‘p to‘planadi."
+  },
+  {
+   "title": "Og‘iz",
+   "text": "Yig‘ishdan oldin ovqatlanmang. Tishlaringizni tozalab, og‘zingizni qaynatilgan suv bilan chayqang: shunda idishga ortiqcha mikroblar tushmaydi."
+  },
+  {
+   "title": "Idish",
+   "text": "Dorixonadan yoki klinikadan steril idish oling. Uni oldindan ochmang va ichiga tegmang."
+  },
+  {
+   "title": "Bir nechta namuna",
+   "text": "Ba’zan balg‘amni 2–3 kun ketma-ket yig‘ish so‘raladi. Klinikadan aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Balg‘amli idish, uyda yig‘ilgan bo‘lsa, imzolangan holda"
+ ],
+ "steps": [
+  "2–3 marta chuqur nafas oling",
+  "Nafas chiqarayotib, ko‘krak tubidan kuchli yo‘taling",
+  "Balg‘amni lablaringiz chetlariga tegmasdan idishga tupuring",
+  "Qopqoqni zich yoping",
+  "1–2 soat ichida laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Yo‘taldan boshqa yoqimsiz narsa yo‘q",
+  "Balg‘am chiqmasa, bir kun oldin kechqurun iliq ichimlik va chuqur nafaslar yordam beradi"
+ ],
+ "after": [
+  "Tahlilga so‘lak mos kelmaydi: aynan o‘pkadan chiqqan balg‘am kerak",
+  "Mikroskopiya natijasi odatda 1–2 kunda, ekma natijasi bir necha kunda",
+  "Natijani shifokor bilan muhokama qiling"
+ ],
+ "red_flags": [
+  "Ko‘p qon bilan yo‘tal: 103 ga qo‘ng‘iroq qiling",
+  "Kuchli hansirash yoki ko‘krakda og‘riq: 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Balg‘am so‘lakdan nimasi bilan farq qiladi?",
+   "a": "Balg‘am quyuq, chuqur yo‘talda o‘pkadan chiqadi. So‘lak suyuq va shaffof. So‘lakni topshirishning foydasi yo‘q."
+  },
+  {
+   "q": "Balg‘am yo‘talib chiqmasa nima qilish kerak?",
+   "a": "Bir kun oldin ko‘proq iliq suv iching, ertalab bir necha chuqur nafas oling. Uddalay olmasangiz, shifokorga ayting: boshqa usullar bor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ertalab balg‘am yig‘iladi. Steril idishni tayyorlang, kechqurun ko‘proq iliq suv iching."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "Balg‘am yig‘ishdan oldin: ovqat yemang, tishlaringizni tozalang va og‘zingizni qaynatilgan suv bilan chayqang."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Prueba de Coombs y grupo sanguíneo del recién nacido",
+ "also": [
+  "prueba de Coombs directa",
+  "prueba de antiglobulina directa",
+  "grupo sanguíneo del bebé",
+  "Rh del bebé"
+ ],
+ "what": "Al recién nacido le ven el grupo sanguíneo y el Rh, y revisan si en sus glóbulos rojos hay anticuerpos de la mamá. Esos anticuerpos pueden destruir la sangre del bebé.",
+ "why": "Si la mamá tiene Rh negativo o grupo O, o si el bebé tiene ictericia o anemia muy pronto.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en el mismo día",
+ "tell_doctor": [
+  "El grupo sanguíneo y el Rh de la mamá",
+  "Si a la mamá le encontraron anticuerpos en el embarazo",
+  "Si a la mamá le pusieron la inmunoglobulina anti-D",
+  "Si los hermanos mayores tuvieron ictericia al nacer"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No hace falta. Alimenta al bebé como siempre."
+  },
+  {
+   "title": "Cómo se toma",
+   "text": "Muchas veces la sangre se toma del cordón umbilical justo después del parto. A veces, del talón o de una vena del bebé."
+  },
+  {
+   "title": "Documentos",
+   "text": "Ten a la mano el carnet prenatal y los análisis de la mamá."
+  }
+ ],
+ "bring": [
+  "El carnet prenatal de la mamá",
+  "Los análisis de grupo sanguíneo y anticuerpos de la mamá"
+ ],
+ "steps": [
+  "Si es del cordón, la sangre se toma justo después del parto y al bebé no le duele",
+  "Si es del talón, lo calientan y lo limpian con antiséptico",
+  "Hacen un piquete pequeño y juntan unas gotas",
+  "Ponen un algodón en el lugar",
+  "La sangre se manda al laboratorio"
+ ],
+ "feel": [
+  "Del cordón, el bebé no siente nada",
+  "Del talón o la vena, llora un momento; ayuda abrazarlo o darle de comer"
+ ],
+ "after": [
+  "El resultado suele estar en el mismo día",
+  "Si la prueba sale positiva, el médico revisa más seguido la bilirrubina y vigila la ictericia",
+  "A veces el bebé necesita tratamiento con lámpara (fototerapia): el médico te lo explicará"
+ ],
+ "red_flags": [
+  "La ictericia aumenta y la piel se pone amarilla hasta el abdomen y las piernas: ve al médico de inmediato",
+  "El bebé está decaído, succiona poco o cuesta despertarlo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Una prueba de Coombs positiva es peligrosa?",
+   "a": "Significa que hay anticuerpos de la mamá en la sangre del bebé. Muchas veces todo se resuelve con vigilancia; el médico revisa la bilirrubina."
+  },
+  {
+   "q": "¿Puedo darle pecho?",
+   "a": "Normalmente sí. Darle pecho seguido ayuda al bebé a eliminar más rápido la bilirrubina. Pregúntale al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Antes del parto, mete en tu maleta el carnet prenatal y los análisis de grupo sanguíneo y anticuerpos."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Ko‘z yosh nuqtalari uchun tiqinlar",
+ "also": [
+  "ko‘z yosh nuqtalariga tiqin",
+  "okkluderlar",
+  "ko‘z yosh nuqtalarini yopuvchi tiqinlar",
+  "quruq ko‘zni tiqinlar bilan davolash"
+ ],
+ "what": "Shifokor yosh burunga oqib o‘tadigan teshiklarga kichkina tiqinlar qo‘yadi. Yosh ko‘zda uzoqroq turadi.",
+ "why": "Ko‘z qurishida, tomchilar kam yordam berganda.",
+ "duration": "muolaja odatda 10–15 daqiqa",
+ "tell_doctor": [
+  "Allergiya bo‘lsa",
+  "Tez-tez konyunktivit yoki yosh oqishi bo‘lsa",
+  "Ko‘z yosh yo‘llari kasalliklari bo‘lganmi",
+  "Qanday tomchilardan allaqachon foydalanasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Kosmetika",
+   "text": "Ko‘zlarga upa-elik qilmasdan keling."
+  },
+  {
+   "title": "Tomchilar",
+   "text": "O‘z tomchilaringizdan odatdagidek foydalaning va shifokorga qaysilarini aytib bering."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Foydalanadigan tomchilaringiz",
+  "Quyoshdan saqlovchi ko‘zoynak"
+ ],
+ "steps": [
+  "Shifokor og‘riqsizlantiruvchi tomchi tomizadi",
+  "Ko‘z yosh nuqtalarini mikroskop ostida ko‘radi",
+  "Ba’zan ko‘z yosh nuqtasini kengaytiradi",
+  "Pinset bilan tiqinni kiritadi",
+  "Tiqin to‘g‘ri turganini tekshiradi"
+ ],
+ "feel": [
+  "Odatda og‘rimaydi",
+  "Ko‘z burchagida yengil bosim hissi",
+  "Dastlabki kunlarda tiqin sezilishi mumkin: keyin ko‘nikasiz"
+ ],
+ "after": [
+  "Darhol odatiy ishlaringiz bilan shug‘ullansangiz bo‘ladi",
+  "Ko‘z burchaklarini ishqalamang",
+  "Tiqin xalaqit bersa yoki tushib ketsa, shifokorga ayting",
+  "Nazorat shifokor rejasi bo‘yicha"
+ ],
+ "red_flags": [
+  "Kuchli yosh oqishi",
+  "Ko‘z burchagida qizarish, shish, yiring",
+  "Ko‘z burchagida og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Tiqinlar abadiy qoladimi?",
+   "a": "Vaqtinchalik, so‘riladiganlari ham, uzoq muddatlilari ham bor. Shifokor tanlaydi."
+  },
+  {
+   "q": "Ularni olib tashlash mumkinmi?",
+   "a": "Ha, uzoq muddatli tiqinlarni odatda olib tashlasa bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ko‘z yosh nuqtalariga tiqin qo‘yiladi. Upa-eliksiz keling, o‘z tomchilaringizni oling."
+  }
+ ]
+}

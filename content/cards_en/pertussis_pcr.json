@@ -1,0 +1,79 @@
+{
+ "title": "Whooping cough PCR",
+ "also": [
+  "pertussis test",
+  "whooping cough swab",
+  "Bordetella pertussis PCR",
+  "test for long-lasting cough"
+ ],
+ "what": "This is a swab from the nose and throat that looks for the whooping cough germ.",
+ "why": "For a long cough that comes in fits, especially in children, and after contact with someone who has whooping cough.",
+ "duration": "the swab itself takes about a minute; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "How many weeks the cough has lasted",
+  "If you took antibiotics, and which ones",
+  "If you had whooping cough vaccines",
+  "If you were around a coughing child or adult"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Do not eat or drink for 2 to 3 hours before the swab. Children are usually asked to do the same. Check with the lab."
+  },
+  {
+   "title": "Nose and throat",
+   "text": "In the morning, do not gargle or use nose drops, unless the doctor said otherwise."
+  },
+  {
+   "title": "Antibiotics",
+   "text": "It is better to do the test before starting antibiotics. If you already take them, do not stop on your own. Tell your doctor."
+  },
+  {
+   "title": "Your child",
+   "text": "Tell your child a stick will touch the inside of the nose. It is quick. Hold them on your lap."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "Your vaccination certificate"
+ ],
+ "steps": [
+  "The child sits on a parent's lap, and their head is held gently",
+  "A thin soft swab goes into the nose to the back wall",
+  "The swab is turned for a few seconds and taken out",
+  "Sometimes a second swab is taken from the throat",
+  "The swab is put in a tube and sent to the lab"
+ ],
+ "feel": [
+  "Unpleasant and tickly in the nose. You may want to sneeze",
+  "Your eyes may water. That is normal",
+  "A child may cry, but it all takes a few seconds"
+ ],
+ "after": [
+  "You can eat and drink right away",
+  "Until the result comes, try to stay away from babies and pregnant women",
+  "Only a doctor prescribes antibiotics"
+ ],
+ "red_flags": [
+  "The child stops breathing or turns blue during coughing: call emergency services",
+  "A baby eats poorly, is floppy, or vomits with the cough: see a doctor urgently",
+  "High fever and shortness of breath: see a doctor the same day"
+ ],
+ "faq": [
+  {
+   "q": "When is the best time for a whooping cough PCR?",
+   "a": "The sooner the better, usually in the first weeks of the cough and before antibiotics. Later on, a blood test works better."
+  },
+  {
+   "q": "Can you get whooping cough after the vaccine?",
+   "a": "Yes, but it is usually milder. Vaccine protection weakens over time."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Whooping cough swab soon. Do not eat or drink, do not gargle, and do not use nose drops."
+  }
+ ]
+}

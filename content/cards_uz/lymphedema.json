@@ -1,0 +1,79 @@
+{
+ "title": "Limfedemani davolash (limfodrenaj, pressoterapiya)",
+ "also": [
+  "limfodrenaj",
+  "pressoterapiya",
+  "ko‘krak operatsiyasidan keyin qo‘l shishi",
+  "limfostaz",
+  "oyoq shishi"
+ ],
+ "what": "Davolash qo‘l yoki oyoqdagi dimlangan shishni kamaytiradi. Yumshoq massaj, bog‘lash, siquvchi kiyim va oyoq-qo‘lni siquvchi apparat qo‘llanadi.",
+ "why": "Qo‘l yoki oyoqdagi turg‘un shishda, masalan limfa tugunlari olib tashlangandan yoki nur terapiyasidan keyin.",
+ "duration": "seans odatda 30–60 daqiqa, kurs — bir necha hafta, keyin uyda qo‘llab-quvvatlash",
+ "tell_doctor": [
+  "Venalarda tromblar bo‘lganmi",
+  "Yurak va buyrak kasalliklari, butun tanada shishlar",
+  "Terida yaralar, yallig‘lanish yoki infeksiya bormi",
+  "Hozir saraton davolanishi",
+  "Barcha dorilar"
+ ],
+ "prepare": [
+  {
+   "title": "Tekshiruv",
+   "text": "Davolashdan oldin shifokor oyoq-qo‘lni ko‘radi, ba’zan vena UTTsini buyuradi."
+  },
+  {
+   "title": "Teri",
+   "text": "Terining tozaligini kuzating va namlang — bu yallig‘lanishdan himoya qiladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qo‘l yoki oyoqni qulay bog‘lash uchun keng kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va ko‘chirmalar",
+  "Siquvchi yeng yoki paypoq, agar allaqachon bo‘lsa",
+  "Keng kiyim"
+ ],
+ "steps": [
+  "Mutaxassis qo‘l yoki oyoq hajmini o‘lchaydi",
+  "Yumshoq limfodrenaj massaji qiladi",
+  "Ba’zan apparat manjetasi kiygiziladi, u oyoq-qo‘lni navbatma-navbat siqadi",
+  "Qo‘l yoki oyoq bog‘lanadi yoki siquvchi buyum kiygiziladi",
+  "Teriga qarash va mashqlar qilish o‘rgatiladi",
+  "Keyinroq har kunga siquvchi kiyim tanlanadi"
+ ],
+ "feel": [
+  "Massaj juda yumshoq, og‘rimaydi",
+  "Apparat manjetasi sezilarli siqadi, lekin og‘riq keltirmasligi kerak",
+  "Bintlar dastlab odatiy emas va issiq bo‘ladi"
+ ],
+ "after": [
+  "Siquvchi kiyimni buyurilganidek kiying — usiz shish qaytadi",
+  "Terini kesilish, chaqish va kuyishdan asrang",
+  "Qo‘l yoki oyoqni harakatlantiring, mashqlar qiling"
+ ],
+ "red_flags": [
+  "Oyoq-qo‘l qizardi, issiq, harorat — shifokorga qo‘ng‘iroq qiling",
+  "Oyoq yoki qo‘lda keskin og‘riq va shish",
+  "To‘satdan nafas qisishi yoki ko‘krak og‘rig‘i — 103 ga qo‘ng‘iroq qiling",
+  "Bint ostida barmoqlar uvishdi yoki ko‘kardi — bintni yechib, qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Shish butunlay ketadimi?",
+   "a": "Ko‘pincha uni sezilarli kamaytirish mumkin. Lekin davolashni umr bo‘yi qo‘llab-quvvatlash kerak."
+  },
+  {
+   "q": "Massajni uyda qilsa bo‘ladimi?",
+   "a": "Ha, mutaxassis o‘rgatgan bo‘lsa. Kuch bilan oddiy massaj zarar keltirishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun shishni davolash. Siquvchi buyumni oling va keng kiyim kiying."
+  }
+ ]
+}

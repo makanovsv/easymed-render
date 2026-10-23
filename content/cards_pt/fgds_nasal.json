@@ -1,0 +1,78 @@
+{
+ "title": "Endoscopia pelo nariz (aparelho fino)",
+ "also": [
+  "endoscopia transnasal",
+  "endoscopia pelo nariz",
+  "endoscópio ultrafino",
+  "EDA transnasal"
+ ],
+ "what": "É o exame do esôfago, do estômago e do começo do intestino com um tubo fino com câmera, que entra pelo nariz e não pela boca.",
+ "why": "Com dor na barriga, azia, dificuldade para engolir; para quem tem dificuldade com a endoscopia comum por causa da ânsia de vômito.",
+ "duration": "normalmente 10 a 20 minutos; o laudo é entregue na hora, a biópsia em 1 a 2 semanas",
+ "tell_doctor": [
+  "Remédios que afinam o sangue",
+  "Sangramentos frequentes pelo nariz, desvio de septo, cirurgias no nariz",
+  "Diabetes. O jejum e os remédios precisam ser ajustados",
+  "Alergia a anestésicos locais"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come por 6 a 8 horas. Água, até o horário que a clínica disser."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Pergunte ao médico quais remédios tomar de manhã."
+  },
+  {
+   "title": "Nariz",
+   "text": "Se o nariz estiver entupido, avise o médico antes."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos de endoscopias anteriores",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "O médico pergunta por qual narina você respira melhor",
+  "Borrifam no nariz um anestésico e um descongestionante",
+  "Você fica sentado ou deitado do lado esquerdo",
+  "O tubo fino entra pelo nariz, e pedem para você engolir",
+  "O médico examina o esôfago, o estômago e o começo do intestino e, se for preciso, tira um pedacinho de tecido",
+  "Tiram o tubo"
+ ],
+ "feel": [
+  "Pressão e cócegas no nariz quando o tubo entra",
+  "A ânsia de vômito normalmente é bem menor que na endoscopia comum",
+  "Dá para falar durante o procedimento",
+  "A barriga fica um pouco estufada de ar"
+ ],
+ "after": [
+  "Enquanto a garganta estiver dormente, normalmente cerca de uma hora, não coma nem beba",
+  "A dormência do nariz e um pouco de inchaço passam sozinhos",
+  "Sem sedação, pode ir para casa e dirigir logo em seguida",
+  "Se tiraram biópsia, o resultado sai em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Sangramento forte pelo nariz que não para em 15 minutos",
+  "Vômito com sangue ou fezes pretas: ligue para a emergência",
+  "Dor forte na barriga ou no peito, febre"
+ ],
+ "faq": [
+  {
+   "q": "É mais fácil que a endoscopia comum?",
+   "a": "Para muita gente, sim: o tubo é mais fino e não pressiona a base da língua, por isso dá menos ânsia."
+  },
+  {
+   "q": "Pelo nariz serve para todo mundo?",
+   "a": "Não para todos. Com nariz estreito ou se for preciso fazer um tratamento, o médico pode escolher o jeito comum."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a endoscopia pelo nariz. Depois do jantar não coma mais. Água, até o horário que a clínica disse."
+  }
+ ]
+}

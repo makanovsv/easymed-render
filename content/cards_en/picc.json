@@ -1,0 +1,79 @@
+{
+ "title": "PICC line placement",
+ "also": [
+  "PICC line",
+  "PICC",
+  "long arm catheter",
+  "peripherally inserted central catheter"
+ ],
+ "what": "A long, thin tube is placed through a vein in your arm. Its tip reaches a large vein near the heart. It can stay in for weeks or months.",
+ "why": "For long treatment through a vein: chemotherapy, antibiotics, feeding, or frequent blood tests.",
+ "duration": "placement usually takes 30 to 60 minutes; the line stays as long as treatment needs",
+ "tell_doctor": [
+  "Blood-thinning medicines",
+  "Allergy to local anesthetic, antiseptics or adhesive tape",
+  "Surgery on the chest or armpit, or lymph nodes removed on one side",
+  "Past blood clots in the arm veins",
+  "Kidney disease: sometimes it affects which arm is chosen"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually you can eat as normal. Check with the clinic."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. The doctor will tell you about blood thinners."
+  },
+  {
+   "title": "Clothing",
+   "text": "A wide sleeve or a shirt with buttons."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You lie down and your arm is moved out to the side",
+  "The vein is found with ultrasound",
+  "The skin is cleaned and numbed with an injection",
+  "The doctor or nurse inserts the tube into the vein and moves it toward the heart",
+  "The tip position is checked with an ECG or X-ray",
+  "The line is secured to the skin and covered with a clear dressing"
+ ],
+ "feel": [
+  "A numbing injection",
+  "Pressure in the arm during insertion, usually not painful",
+  "The arm may ache a little for a couple of days"
+ ],
+ "after": [
+  "The dressing is usually changed once a week and the line is flushed, at the clinic or by a nurse at home",
+  "Keep the dressing dry: cover your arm with plastic wrap in the shower",
+  "Do not lift heavy things with this arm or swim",
+  "Blood pressure and blood tests on this arm only as the clinic advises"
+ ],
+ "red_flags": [
+  "Swelling, pain or redness of the arm, neck or face",
+  "Fever or chills: call your doctor right away",
+  "The line slipped out, broke or is leaking",
+  "Sudden shortness of breath or chest pain: call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Can I live a normal life with a PICC line?",
+   "a": "Yes, almost. Do not get the dressing wet, swim, or lift heavy things with that arm."
+  },
+  {
+   "q": "Does removal hurt?",
+   "a": "Usually not. The line is simply pulled out, and it takes a minute."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "PICC line placement tomorrow. Wear a wide-sleeved top and bring your list of medicines."
+  }
+ ]
+}

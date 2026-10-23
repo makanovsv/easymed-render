@@ -1,0 +1,29 @@
+vng|func|Видеонистагмография|Videonystagmography|ent_room|L|3
+xr_sinus|rad|Рентген пазух носа|Sinus X-ray|xr_room|L|2
+xr_abdomen|rad|Обзорный рентген живота|Abdominal X-ray|xr_room|L|3
+xr_joints|rad|Рентген суставов|Joint X-ray|xr_room|L|1
+xr_hip_baby|rad|Рентген тазобедренных суставов у малыша|Hip X-ray in a baby|xr_room|L|3
+xr_flatfoot|rad|Рентген стоп на плоскостопие|Foot X-ray for flat feet|xr_room|L|2
+xr_scoliosis|rad|Рентген позвоночника на сколиоз|Scoliosis spine X-ray|xr_room|L|2
+xr_kids_chest|rad|Рентген лёгких у ребёнка|Chest X-ray in a child|xr_room|L|2
+opg|rad|Панорамный снимок зубов (ОПТГ)|Dental panoramic X-ray|dent_xray|L|1
+cbct|rad|КТ зубов (КЛКТ)|Dental CBCT scan|dent_xray|L|2
+ct_sinus|rad|КТ пазух носа|Sinus CT|ct_room|L|2
+ct_spine|rad|КТ позвоночника|Spine CT|ct_room|L|2
+ct_kidney|rad|КТ почек (камни)|Kidney stone CT|ct_room|L|2
+ct_coronary|rad|КТ-коронарография|CT coronary angiography|ct_room|M|2
+ct_calcium|rad|Кальциевый индекс сердца|Coronary calcium score|ct_room|L|3
+ct_colono|rad|Виртуальная колоноскопия|CT colonography|ct_room|L|3
+ct_joint|rad|КТ сустава|Joint CT|ct_room|L|3
+mri_pelvis|rad|МРТ малого таза|Pelvic MRI|mri_room|L|2
+mri_prostate|rad|МРТ предстательной железы|Prostate MRI|mri_room|L|2
+mri_breast|rad|МРТ молочных желёз|Breast MRI|mri_room|L|3
+mri_heart|rad|МРТ сердца|Cardiac MRI|mri_room|L|3
+mri_vessels|rad|МР-ангиография сосудов головы|Brain MR angiography|mri_room|L|2
+mri_kids|rad|МРТ ребёнку (с седацией)|MRI for a child (with sedation)|mri_room|M|2
+mri_pituitary|rad|МРТ гипофиза|Pituitary MRI|mri_room|L|3
+scinti_bone|rad|Сцинтиграфия скелета|Bone scan|ct_room|L|3
+scinti_thyroid|rad|Сцинтиграфия щитовидной железы|Thyroid scan|ct_room|L|3
+hsg|rad|Проверка проходимости маточных труб (ГСГ)|Fallopian tube test (HSG)|xr_room|M|2
+sigmoido|endo|Ректороманоскопия|Sigmoidoscopy|endo_room|M|2
+ercp|endo|ЭРХПГ|ERCP|endo_room|H|3

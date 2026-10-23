@@ -1,0 +1,73 @@
+{
+ "title": "Dermatolog qabuli",
+ "also": [
+  "dermatolog",
+  "teri shifokori",
+  "teri-tanosil kasalliklari shifokori"
+ ],
+ "what": "Teri, soch va tirnoq kasalliklarini davolaydigan va xollarni tekshiradigan shifokor.",
+ "why": "Toshma, qichishish, husnbuzar, dog‘lar, soch to‘kilishi, tirnoq zamburug‘i, xollar o‘zgarganda.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Qachon paydo bo‘lgani va qanday o‘zgargani",
+  "Nimalarni surtgan va ichgansiz",
+  "Dori va kosmetikaga allergiya",
+  "Doimiy ichadigan dorilaringiz",
+  "Qarindoshlarda teri kasalliklari bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Teri",
+   "text": "Qabul kuni og‘rigan joyga krem va malham surtmang — shifokorga u qanday bo‘lsa, shunday ko‘rinishi muhim."
+  },
+  {
+   "title": "Kosmetika",
+   "text": "Yuz bezovta qilsa — bo‘yanmasdan keling. Tirnoq bo‘lsa — lak surtmasdan."
+  },
+  {
+   "title": "Surat",
+   "text": "Toshma paydo bo‘lib, yana yo‘qolib qolsa — uni suratga oling."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Toshmalarning suratlari, agar bo‘lsa",
+  "Ishlatgan krem va malhamlar nomi",
+  "Avvalgi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarining o‘zi"
+ ],
+ "steps": [
+  "Shifokor shikoyatlaringiz haqida so‘raydi",
+  "Terini yaxshi yorug‘likda ko‘radi",
+  "Xollarni maxsus lupa — dermatoskop orqali ko‘radi",
+  "Ba’zan tahlil uchun qirindi oladi",
+  "Davolash yoki tekshiruv tayinlaydi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "Qirindi olish — yengil tirnash, deyarli og‘rimaydi"
+ ],
+ "after": [
+  "Vositalarni shifokor aytganidek surting va kursni muddatidan oldin to‘xtatmang",
+  "O‘zgarishlarni suratlar bilan solishtirib turing"
+ ],
+ "red_flags": [
+  "Yuz yoki lablarning tez shishishi, yuqori harorat bilan toshma — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Qabuldan oldin toshmaga malham surtsa bo‘ladimi?",
+   "a": "Qabul kuni surtmagan ma’qul — shifokor terini malhamsiz ko‘rishi kerak."
+  },
+  {
+   "q": "Xollarni qanchalik tez-tez tekshirtirish kerak?",
+   "a": "Shifokor boshqacha demasa, odatda yilda bir marta. Xol o‘zgarsa — tezroq."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga dermatolog qabuli. Og‘rigan joyga krem surtmang, bo‘yanmasdan va laksiz keling."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Sleep doctor visit",
+ "also": [
+  "sleep doctor",
+  "sleep specialist",
+  "insomnia treatment",
+  "snoring and breathing pauses"
+ ],
+ "what": "The sleep doctor finds out why you sleep badly, snore or feel tired in the day. Sometimes a sleep study is ordered.",
+ "why": "For insomnia, loud snoring, pauses in breathing during sleep, heavy daytime sleepiness, and restless legs at night.",
+ "duration": "the visit usually takes 30 to 40 minutes; a sleep study is one night, with results in a few days",
+ "tell_doctor": [
+  "What time you go to bed and get up, and how long you sleep",
+  "Whether you snore, and whether anyone has noticed pauses in your breathing",
+  "Whether you fall asleep suddenly in the day, for example while driving",
+  "Which medicines, sleeping pills and alcohol you take",
+  "Blood pressure, weight, heart"
+ ],
+ "prepare": [
+  {
+   "title": "Sleep diary",
+   "text": "For 1 to 2 weeks, write down when you sleep and wake up and how you feel in the morning."
+  },
+  {
+   "title": "People close to you",
+   "text": "Ask whoever sleeps near you to describe your snoring. You can record the sound on your phone."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop sleeping pills on your own. Tell the doctor what you take."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your sleep diary",
+  "A recording of your snoring, if you have one",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks about your sleep and how you feel in the day",
+  "Offers questionnaires about sleepiness",
+  "Examines your throat and neck, measures blood pressure and weight",
+  "Decides whether a sleep study is needed",
+  "If so, explains how it will be done, at home or at the clinic",
+  "Gives advice or prescribes treatment"
+ ],
+ "feel": [
+  "The visit does not hurt",
+  "In a sleep study you have sensors on your body. Sleeping with them is unusual but painless"
+ ],
+ "after": [
+  "Follow the sleep routine the doctor advised",
+  "If you are sleepy in the day, be careful when driving",
+  "Follow-up visit after the study or after a course of treatment"
+ ],
+ "red_flags": [
+  "You fall asleep at the wheel: do not drive and tell your doctor",
+  "Night attacks of choking with chest pain: call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Is snoring dangerous?",
+   "a": "Snoring alone is not always. It is dangerous if your breathing stops during sleep, and that needs to be checked."
+  },
+  {
+   "q": "Can I take sleeping pills on my own?",
+   "a": "Better not. The doctor will find the cause of the insomnia and choose the treatment."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Sleep doctor visit tomorrow. Bring your sleep diary and, if you have one, a recording of your snoring."
+  }
+ ]
+}

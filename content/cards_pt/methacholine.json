@@ -1,0 +1,78 @@
+{
+ "title": "Teste de broncoprovocação com metacolina",
+ "also": [
+  "teste da metacolina",
+  "broncoprovocação",
+  "teste de hiper-responsividade brônquica"
+ ],
+ "what": "Você inala uma substância em doses pequenas que vão aumentando e, depois de cada uma, faz uma espirometria. Assim se vê o quanto os brônquios são sensíveis.",
+ "why": "Quando há suspeita de asma, mas a espirometria comum está normal.",
+ "duration": "normalmente 1 a 2 horas, o resultado sai na hora",
+ "tell_doctor": [
+  "Todas as bombinhas e remédios. Alguns precisam ser suspensos antes, mas só com orientação do médico",
+  "Se você está grávida ou amamentando",
+  "Se teve infarto, AVC ou gripe recente",
+  "Se tem pressão alta"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Muitas bombinhas e remédios para alergia são suspensos por prazos diferentes antes do teste. O esquema quem passa é o médico. Não pare nada por conta própria."
+  },
+  {
+   "title": "Café",
+   "text": "No dia do teste, normalmente não pode café, chá, refrigerante de cola e chocolate. Confirme com a clínica."
+  },
+  {
+   "title": "Cigarro e esforço",
+   "text": "No dia do teste, não fume e não faça exercício."
+  },
+  {
+   "title": "Saúde",
+   "text": "Se ficar gripado, ligue. Normalmente o teste é adiado."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios",
+  "A sua bombinha de alívio"
+ ],
+ "steps": [
+  "Primeiro fazem uma espirometria comum",
+  "Você inala uma dose pequena da substância pelo nebulizador",
+  "Depois de uns minutos, faz a espirometria de novo",
+  "A dose vai aumentando, e se repete",
+  "O teste para quando os valores caem ou quando todo o programa termina",
+  "No fim, dão a bombinha para a respiração voltar ao normal"
+ ],
+ "feel": [
+  "Pode aparecer tosse e um leve aperto no peito",
+  "Às vezes chiado ao respirar. O médico está ao lado e resolve na hora com a bombinha",
+  "Soprar tantas vezes cansa"
+ ],
+ "after": [
+  "Você é liberado quando a respiração volta ao que era",
+  "O resultado normalmente é dito na hora",
+  "Pode voltar aos seus remédios. Confirme com o médico"
+ ],
+ "red_flags": [
+  "Tosse ou falta de ar voltaram em casa e a bombinha não ajuda: ligue para a emergência",
+  "Chiado no peito e dificuldade para falar"
+ ],
+ "faq": [
+  {
+   "q": "É perigoso?",
+   "a": "O teste é feito com o médico acompanhando e os remédios prontos. Reações fortes são raras."
+  },
+  {
+   "q": "Por que suspender as bombinhas?",
+   "a": "Senão o teste pode dar resultado errado. O que suspender e por quanto tempo, só o médico decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o teste com metacolina. Confira quais remédios o médico mandou não tomar. De manhã, sem café e sem chá. Leve a sua bombinha."
+  }
+ ]
+}

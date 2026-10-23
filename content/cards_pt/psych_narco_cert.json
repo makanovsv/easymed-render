@@ -1,0 +1,69 @@
+{
+ "title": "Atestados do psiquiatra e do narcologista",
+ "also": [
+  "atestado psiquiátrico",
+  "atestado de sanidade mental",
+  "atestado de não dependência química",
+  "atestado para carteira de motorista"
+ ],
+ "what": "São atestados de que você não está registrado no psiquiatra nem no narcologista (médico de dependência química). Na Rússia e no Cazaquistão, eles são emitidos num dispensário ou numa clínica que tenha esses médicos.",
+ "why": "Para carteira de motorista, licença de arma, trabalho, estudo, guarda de crianças e outros documentos.",
+ "duration": "normalmente de 15 a 60 minutos; muitas vezes o atestado sai no mesmo dia",
+ "tell_doctor": [
+  "Para que é o atestado: o tipo depende disso",
+  "Se já procurou psiquiatra ou narcologista antes",
+  "Quais remédios você toma sempre"
+ ],
+ "prepare": [
+  {
+   "title": "Aonde ir",
+   "text": "Normalmente ao dispensário do seu endereço de registro ou a uma clínica licenciada. Confirme antes onde atendem e em que horário."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Não beba álcool por pelo menos 24 horas. O narcologista pode pedir para soprar no aparelho ou entregar urina."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Se toma calmantes ou analgésicos fortes, conte ao médico."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Pedido ou formulário, se o trabalho ou a autoescola entregou",
+  "Foto, se pedirem; confirme na clínica"
+ ],
+ "steps": [
+  "Você faz o cadastro na recepção",
+  "Conferem o seu nome no registro",
+  "O médico conversa rapidamente com você e faz perguntas",
+  "O narcologista às vezes pede teste de álcool ou exame de urina",
+  "Você recebe o atestado com carimbo"
+ ],
+ "feel": [
+  "É uma conversa comum, sem procedimentos desagradáveis",
+  "Pode dar nervoso. É normal; as perguntas são padrão"
+ ],
+ "after": [
+  "Confira no atestado o nome, a data e a finalidade",
+  "Veja quanto tempo o atestado vale; o prazo varia",
+  "Se não entregaram na hora, pergunte quando buscar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Se já fui ao psiquiatra alguma vez, não vou conseguir o atestado?",
+   "a": "Não necessariamente. O médico decide; depende muito de haver registro e por qual motivo."
+  },
+  {
+   "q": "Dá para tirar os dois atestados na mesma clínica?",
+   "a": "Muitas vezes sim, se a clínica tem os dois médicos e a licença necessária. Confirme antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você vai buscar os atestados. Leve o documento e o formulário. Hoje, sem álcool."
+  }
+ ]
+}

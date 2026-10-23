@@ -1,0 +1,73 @@
+{
+ "title": "Colangiorresonancia (CPRM)",
+ "also": [
+  "CPRM",
+  "colangiorresonancia",
+  "resonancia de las vías biliares",
+  "resonancia de la vesícula y vías biliares"
+ ],
+ "what": "Una resonancia del abdomen que muestra las vías biliares, la vesícula y el conducto del páncreas. Sin aguja y sin radiación.",
+ "why": "Cuando se sospechan cálculos en las vías biliares, con color amarillo en la piel, dolores bajo la costilla derecha y antes de cirugías.",
+ "duration": "normalmente de 20 a 40 minutos; el informe sale en 1 a 3 días",
+ "tell_doctor": [
+  "Si tienes marcapasos, implantes metálicos, esquirlas",
+  "Si temes a los espacios cerrados",
+  "Si puedes estar embarazada",
+  "Si tienes enfermedades de los riñones, si van a usar contraste"
+ ],
+ "prepare": [
+  {
+   "title": "Ayuno",
+   "text": "Normalmente de 4 a 6 horas sin comer ni beber, para que la vesícula esté llena. Confírmalo en la clínica."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate joyas, reloj y cinturón. Deja las tarjetas y el teléfono en el casillero."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Tus medicamentos de siempre normalmente se pueden tomar con un traguito de agua. Confírmalo con el médico."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Ultrasonidos, tomografías y resonancias anteriores",
+  "Análisis de sangre, si te los hiciste",
+  "Identificación"
+ ],
+ "steps": [
+  "Te cambias y te quitas todo el metal",
+  "Te acuestas boca arriba en la mesa del aparato",
+  "Te colocan sobre el abdomen una bobina, una almohadilla ligera",
+  "La mesa entra en el aparato y te dan audífonos",
+  "A menudo te piden contener la respiración cuando te lo indican",
+  "A veces aplican contraste en la vena"
+ ],
+ "feel": [
+  "No duele",
+  "El aparato hace ruidos fuertes; es normal",
+  "Contener la respiración cansa, pero es por poco tiempo"
+ ],
+ "after": [
+  "Puedes comer de inmediato e ir a tus actividades",
+  "El informe normalmente sale en 1 a 3 días",
+  "Habla del resultado con el médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Hace falta contraste?",
+   "a": "Muchas veces las vías se ven bien sin él. Lo decide el médico."
+  },
+  {
+   "q": "¿Por qué no puedo comer?",
+   "a": "Para que la vesícula y las vías estén llenas y el intestino estorbe menos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu resonancia de las vías biliares. De 4 a 6 horas antes no comas. Quítate todo el metal."
+  }
+ ]
+}

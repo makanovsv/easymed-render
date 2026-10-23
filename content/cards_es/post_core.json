@@ -1,0 +1,75 @@
+{
+ "title": "Reconstrucción del diente con poste",
+ "also": [
+  "poste dental",
+  "perno muñón",
+  "endoposte",
+  "diente con poste"
+ ],
+ "what": "Si queda poco del diente, se pone un poste o un muñón dentro de la raíz. Encima luego se fija una resina o una corona.",
+ "why": "Después de una endodoncia, cuando la parte visible del diente está muy destruida.",
+ "duration": "normalmente 1 o 2 citas de 30 a 60 minutos",
+ "tell_doctor": [
+  "Si el diente ya fue tratado y cuándo",
+  "Si te duele el diente al morder",
+  "Si eres alérgico a la anestesia o a algún material",
+  "Si tomas medicamentos que hacen la sangre más líquida"
+ ],
+ "prepare": [
+  {
+   "title": "Radiografía",
+   "text": "Normalmente se necesita una radiografía reciente del diente. Te la toman en la clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Come antes. Después de la cita tendrás la boca dormida un rato."
+  },
+  {
+   "title": "Conductos",
+   "text": "Antes del poste, los conductos deben estar bien sellados. Eso lo revisa el médico."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Radiografías anteriores del diente"
+ ],
+ "steps": [
+  "El médico revisa el diente y la radiografía",
+  "Si hace falta, te pone anestesia",
+  "Quita parte del material de relleno del conducto",
+  "Coloca un poste ya hecho o toma un molde para el muñón",
+  "Fija el poste con un cemento especial",
+  "Reconstruye el diente con resina o lo prepara para la corona"
+ ],
+ "feel": [
+  "Normalmente no duele; puede haber vibración del instrumento",
+  "Sientes presión cuando ponen el poste"
+ ],
+ "after": [
+  "No comas hasta que se te pase lo dormido",
+  "No muerdas cosas duras con ese diente hasta que tengas la corona",
+  "Si te hacen un muñón, normalmente tarda unos días",
+  "La corona se pone según el plan del médico"
+ ],
+ "red_flags": [
+  "Dolor fuerte al morder durante varios días",
+  "Encía hinchada junto al diente",
+  "Se cayó el poste o la curación temporal"
+ ],
+ "faq": [
+  {
+   "q": "¿Es obligatorio poner corona a un diente con poste?",
+   "a": "Muchas veces sí. Así hay menos riesgo de que el diente se parta. Lo decide el médico."
+  },
+  {
+   "q": "¿Cuánto dura un poste?",
+   "a": "Normalmente muchos años, si el diente está protegido con corona y lo cuidas de cosas duras."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la reconstrucción de tu diente. Come antes y lleva tus radiografías anteriores."
+  }
+ ]
+}

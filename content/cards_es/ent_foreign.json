@@ -1,0 +1,75 @@
+{
+ "title": "Sacar un objeto del oído o la nariz de un niño",
+ "also": [
+  "objeto en el oído",
+  "el niño se metió algo en la nariz",
+  "algo atorado en el oído",
+  "cuenta en la nariz"
+ ],
+ "what": "El otorrino saca con cuidado el objeto del oído o la nariz del niño con un instrumento especial.",
+ "why": "Cuando el niño se metió en la nariz o el oído una cuenta, un juguete o comida, o se le metió un insecto.",
+ "duration": "normalmente de 5 a 20 minutos",
+ "tell_doctor": [
+  "Qué se metió y cuándo",
+  "Si intentaron sacarlo en casa",
+  "Si hay sangre, secreción o dolor",
+  "Si el niño tiene alergias"
+ ],
+ "prepare": [
+  {
+   "title": "No lo saques tú",
+   "text": "No intentes sacarlo con pinzas o un hisopo. Lo puedes empujar más adentro."
+  },
+  {
+   "title": "Pila",
+   "text": "Si es una pila o un imán, ve al médico de inmediato."
+  },
+  {
+   "title": "El niño",
+   "text": "Tranquiliza al niño. Dile que el médico lo va a ayudar rápido."
+  }
+ ],
+ "bring": [
+  "La identificación del niño",
+  "Su juguete favorito",
+  "Pañuelos"
+ ],
+ "steps": [
+  "El médico revisa la nariz o el oído con una lámpara",
+  "El niño se sienta en las piernas de un papá, que lo sostiene para que no se mueva",
+  "A veces ponen gotas en la nariz",
+  "El médico saca el objeto con unas pinzas, un ganchito o lavando",
+  "Revisa que no quedaron pedazos"
+ ],
+ "feel": [
+  "El niño tiene miedo y le molesta; puede llorar",
+  "Normalmente es rápido. Tranquilízalo y felicítalo"
+ ],
+ "after": [
+  "A veces sale un poco de sangre de la nariz. Se quita sola",
+  "El médico puede indicar gotas",
+  "Guarda los objetos pequeños lejos de los niños"
+ ],
+ "red_flags": [
+  "Una pila en la nariz o en el oído: ve al médico de inmediato y llama a emergencias",
+  "El niño tose, se ahoga o le silba el pecho: llama a emergencias",
+  "Dolor fuerte, sangre o pus después",
+  "Mal olor de un solo lado de la nariz: que lo revise un médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Lo podemos sacar nosotros?",
+   "a": "Solo si se ve el objeto y sale fácil. Si no, al médico. Lo pueden empujar más adentro."
+  },
+  {
+   "q": "¿Por qué es peligrosa una pila?",
+   "a": "Quema los tejidos muy rápido. Se necesita atención urgente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "No intentes sacar el objeto tú. Vamos con el otorrino."
+  }
+ ]
+}

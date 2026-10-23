@@ -1,0 +1,73 @@
+{
+ "title": "Brutsellyozga tahlil",
+ "also": [
+  "brutsellyoz",
+  "Rayt reaksiyasi",
+  "Xeddlson reaksiyasi",
+  "brutsellaga antitanalar"
+ ],
+ "what": "Bu odam chorva mollaridan oladigan infeksiyaga qon tahlili — xom sut, go‘sht orqali yoki hayvonlarga qarashda.",
+ "why": "Uzoq haroratda, kuchli terlashda, bo‘g‘imlar va bel og‘rig‘ida. Shuningdek chorva bilan ishlaydigan odamlarga.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda 1–5 kunda",
+ "tell_doctor": [
+  "Qaynatilmagan sut ichgan yoki uy pishlog‘ini yegan bo‘lsangiz",
+  "Chorva bilan ishlasangiz yoki go‘sht bo‘laklasangiz",
+  "Oldin brutsellyoz bilan og‘rigan bo‘lsangiz",
+  "Antibiotiklarni allaqachon ichgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Qat’iy och qoringa odatda kerak emas, lekin yengil, yog‘siz ovqatdan 3–4 soat keyin kelgan ma’qul. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — tahlildan oldin biror narsani o‘zgartirish kerakmi, u hal qiladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqori oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "Brutsellyozga oldingi tahlillar, agar bo‘lgan bo‘lsa"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakchaga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lashadi va mushtni qisib-ochishni so‘rashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilaganday",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Faqat qaynatilgan sut iching",
+  "Ba’zan tahlil bir necha haftadan keyin takrorlanadi — shifokor shunday deydi"
+ ],
+ "red_flags": [
+  "Ukol joyi qattiq shishdi, og‘riyapti va qizardi",
+  "Yuqori harorat, kuchli holsizlik, bel yoki bo‘g‘imlarda og‘riq — kechiktirmay shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Odamdan yuqishi mumkinmi?",
+   "a": "Deyarli hech qachon. Odatda hayvonlardan va xom mahsulotlardan yuqadi."
+  },
+  {
+   "q": "O‘zimni qanday himoya qilish kerak?",
+   "a": "Sutni qaynating, go‘shtni yaxshi pishiring, chorva bilan qo‘lqopda ishlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga brutsellyoz tahlili. Ertalab yog‘li ovqatsiz bo‘lgani yaxshi."
+  }
+ ]
+}

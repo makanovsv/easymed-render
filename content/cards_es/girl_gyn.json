@@ -1,0 +1,78 @@
+{
+ "title": "Primera consulta de una niña con el ginecólogo",
+ "also": [
+  "ginecóloga infantil",
+  "primera visita al ginecólogo de mi hija",
+  "ginecólogo para adolescentes",
+  "revisión ginecológica de niña"
+ ],
+ "what": "Es el primer encuentro de tu hija con el ginecólogo. Casi siempre es una plática y una revisión por fuera, sin instrumentos.",
+ "why": "Cuando empieza la regla, si el ciclo es irregular, hay dolores o flujo, o como revisión de rutina.",
+ "duration": "normalmente de 20 a 30 minutos",
+ "tell_doctor": [
+  "Cuándo empezó la regla y cómo es",
+  "Si tiene dolores, flujo o comezón",
+  "Qué enfermedades tiene tu hija y qué medicamentos toma",
+  "Si tiene alergias",
+  "Qué le preocupa a ella"
+ ],
+ "prepare": [
+  {
+   "title": "Plática",
+   "text": "Explícale antes a tu hija, con calma, lo que va a pasar. Dile que puede hacer preguntas y decir «alto»."
+  },
+  {
+   "title": "Higiene",
+   "text": "En la mañana que se bañe, sin productos con aroma."
+  },
+  {
+   "title": "Diario",
+   "text": "Anota las fechas de sus reglas, si ya empezaron."
+  }
+ ],
+ "bring": [
+  "Los documentos de la niña",
+  "El diario de sus reglas",
+  "Su expediente médico",
+  "La lista de sus medicamentos"
+ ],
+ "steps": [
+  "El médico se presenta y platica con tu hija y contigo",
+  "A veces pide al papá o la mamá salir un rato para que la niña hable con confianza",
+  "Mide su estatura y peso y revisa los senos",
+  "Revisa los genitales por fuera",
+  "Si hace falta, pide un ultrasonido por el abdomen",
+  "Explica los resultados y da consejos"
+ ],
+ "feel": [
+  "La niña puede sentir pena. Es normal",
+  "La revisión por fuera no duele",
+  "El médico explica todo antes de cada paso"
+ ],
+ "after": [
+  "Felicita a tu hija y platiquen cómo le fue",
+  "Hagan los análisis, si el médico los pidió",
+  "Regresen a consulta según el plan del médico"
+ ],
+ "red_flags": [
+  "Dolor fuerte de vientre: llama a emergencias",
+  "Reglas muy abundantes, debilidad o mareo",
+  "No le ha bajado la regla a los 15 años: haz una cita con el médico"
+ ],
+ "faq": [
+  {
+   "q": "¿A qué edad va por primera vez al ginecólogo?",
+   "a": "Normalmente cuando empieza la regla o alrededor de los 13 a 15 años. Si algo le preocupa, antes."
+  },
+  {
+   "q": "¿La van a revisar en la mesa ginecológica?",
+   "a": "A las niñas normalmente solo se les revisa por fuera. Sin su permiso no se hace nada."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la consulta de tu hija con el ginecólogo. Cuéntale con calma lo que va a pasar."
+  }
+ ]
+}

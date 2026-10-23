@@ -1,0 +1,68 @@
+{
+ "title": "Waking up after anesthesia",
+ "also": [
+  "recovery room",
+  "waking up after surgery",
+  "coming out of anesthesia",
+  "after anesthesia"
+ ],
+ "what": "After surgery you are taken to the recovery room. There you wake up under the watch of nurses and a doctor.",
+ "why": "After any operation or procedure under general anesthesia or sedation.",
+ "duration": "usually 30 minutes to 2 hours, then you are moved to a ward or go home",
+ "tell_doctor": [
+  "If you had severe nausea after anesthesia before",
+  "If you have been confused after anesthesia",
+  "Whether you need your glasses or hearing aid right after waking"
+ ],
+ "prepare": [
+  {
+   "title": "In advance",
+   "text": "Ask how long you will stay in the recovery room and when your family can see you."
+  },
+  {
+   "title": "Going home",
+   "text": "If it is day surgery, arrange for someone to pick you up and stay with you for the first day."
+  }
+ ],
+ "bring": [
+  "Glasses, hearing aid: give them to the staff",
+  "A relative's phone number"
+ ],
+ "steps": [
+  "You wake up with sensors on you and an oxygen mask or tubes",
+  "A nurse asks how you are and watches your blood pressure and breathing",
+  "If you are in pain or feel sick, say so and you will be given medicine",
+  "When you are awake and all is well, you are moved to a ward or prepared for discharge"
+ ],
+ "feel": [
+  "Sleepiness, heaviness, foggy thoughts",
+  "A dry mouth, sometimes a scratchy throat",
+  "Sometimes cold, shivering or nausea",
+  "You may not remember the first hours. This is normal"
+ ],
+ "after": [
+  "Get up for the first time only with help from staff",
+  "Drinking and eating start when the doctor allows",
+  "For a day after anesthesia, do not drive and do not make important decisions"
+ ],
+ "red_flags": [
+  "Trouble breathing or chest pain: tell the nurse at once",
+  "At home: extreme drowsiness, cannot be woken: call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Why am I shivering after anesthesia?",
+   "a": "This happens because of the medicines and the cool operating room. You will be covered and warmed."
+  },
+  {
+   "q": "When can my relatives come in?",
+   "a": "Usually after you are moved to a ward. Rules differ, so ask the clinic."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Surgery tomorrow. Arrange for someone to meet you afterward. Food and water only until the time the clinic gave you."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Óxido nítrico en el aire exhalado (FeNO)",
+ "also": [
+  "FeNO",
+  "óxido nítrico exhalado",
+  "prueba de inflamación en los bronquios",
+  "prueba de óxido nítrico"
+ ],
+ "what": "Soplas despacio en un aparato pequeño. Muestra si hay cierto tipo de inflamación en los bronquios.",
+ "why": "Cuando se sospecha asma y para ver cómo funciona el tratamiento con inhaladores.",
+ "duration": "normalmente de 5 a 10 minutos; el resultado sale de inmediato",
+ "tell_doctor": [
+  "Qué inhaladores y medicamentos usas",
+  "Si hace poco tuviste un resfriado",
+  "Si fumas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente 1 hora antes de la prueba no comas ni bebas nada, salvo agua. A menudo piden no comer alimentos con nitratos antes: betabel, lechuga. Confírmalo en la clínica."
+  },
+  {
+   "title": "Cigarro",
+   "text": "El día de la prueba no fumes."
+  },
+  {
+   "title": "Ejercicio",
+   "text": "Una hora antes de la prueba, sin ejercicio físico."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No suspendas los inhaladores por tu cuenta. Dile al médico cuándo usaste el último."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de tus medicamentos e inhaladores"
+ ],
+ "steps": [
+  "Te sientas junto al aparato",
+  "Inhalas profundo por la boquilla",
+  "Exhalas despacio y parejo unos 10 segundos",
+  "En la pantalla una guía te ayuda a mantener la fuerza correcta",
+  "Normalmente se repite 2 o 3 veces"
+ ],
+ "feel": [
+  "No duele",
+  "A veces cuesta exhalar parejo; con la guía se logra"
+ ],
+ "after": [
+  "El resultado normalmente se ve de inmediato",
+  "El médico lo explicará junto con otros estudios",
+  "Puedes volver de inmediato a tus actividades"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿La prueba va a mostrar si tengo asma?",
+   "a": "Muestra la inflamación en los bronquios. El diagnóstico lo hace el médico junto con otros estudios."
+  },
+  {
+   "q": "¿Se puede hacer en niños?",
+   "a": "Sí, normalmente desde los 5 o 6 años, si el niño puede exhalar parejo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu prueba de FeNO. En la mañana no fumes. Una hora antes de la prueba no comas ni hagas ejercicio."
+  }
+ ]
+}

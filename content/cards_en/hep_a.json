@@ -1,0 +1,77 @@
+{
+ "title": "Hepatitis A test",
+ "also": [
+  "hepatitis A blood test",
+  "anti-HAV",
+  "HAV antibodies",
+  "jaundice test"
+ ],
+ "what": "This blood test looks for antibodies to the hepatitis A virus. It shows whether you have it now or are already protected.",
+ "why": "For yellow skin, dark urine, weakness, and nausea, after contact with someone who has it, or before a hepatitis A vaccine.",
+ "duration": "the blood draw takes a few minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "If you were in contact with someone who has hepatitis A",
+  "If you had a hepatitis A vaccine",
+  "If you recently traveled abroad",
+  "If your skin or eyes are turning yellow"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast strictly, but it is better to come 3 to 4 hours after a light, non-fatty meal. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours: no alcohol and no hard workouts. Try not to smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Tell your doctor what you take. They will decide if anything needs to change before the test."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve you can easily roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID",
+  "Your vaccination records, if you have them"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "If you have symptoms, wash your hands after using the toilet, and do not cook for others until you get the result",
+  "Your doctor will explain the result"
+ ],
+ "red_flags": [
+  "Yellow skin, severe weakness, or vomiting: see a doctor the same day",
+  "Confusion, extreme sleepiness, or bleeding: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "What do the different antibodies mean?",
+   "a": "IgM antibodies usually mean the illness is happening now. IgG antibodies mean you had it before or were vaccinated."
+  },
+  {
+   "q": "How does hepatitis A spread?",
+   "a": "Through dirty hands, water, and food. Hand washing and the vaccine protect well."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Hepatitis A test tomorrow. Better to skip fatty food in the morning."
+  }
+ ]
+}

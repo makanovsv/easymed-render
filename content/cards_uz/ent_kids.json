@@ -1,0 +1,69 @@
+{
+ "title": "Bolaning LOR ko‘rigi",
+ "also": [
+  "bolalar LORi",
+  "bolaning quloqlarini ko‘rish",
+  "bola uchun LOR"
+ ],
+ "what": "LOR-shifokor farzandingizning quloq, burun va tomog‘ini ko‘radi. Ko‘rik odatda qisqa va og‘riqsiz.",
+ "why": "Tez-tez burun bitishi va otitlarda, xurrakda, og‘iz bilan nafas olishda, quloq yoki tomoq og‘rig‘ida, yomon eshitishda, rejali ko‘riklar uchun.",
+ "duration": "odatda 15–30 daqiqa",
+ "tell_doctor": [
+  "Bola qanchalik tez-tez va nima bilan kasal bo‘lishi",
+  "Xurrak otadimi, og‘iz bilan nafas oladimi",
+  "Yoshiga nisbatan qanday eshitishi va gapirishi",
+  "Qanday dori va tomchilar allaqachon berilgan",
+  "Bolaning allergiyalari"
+ ],
+ "prepare": [
+  {
+   "title": "Kayfiyat",
+   "text": "Bolaga ayting: shifokor quloqchalari va tomog‘ini fonarcha bilan ko‘radi."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Bola och bo‘lmagan va uyqusiramagan paytda kelgan ma’qul."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjatlari",
+  "Ko‘chirmalar va avvalgi tahlillar",
+  "O‘yinchoq"
+ ],
+ "steps": [
+  "Shifokor sizdan so‘raydi",
+  "Bola tizzangizda o‘tiradi, siz uni yumshoq ushlab turasiz",
+  "Shifokor tomoqni shpatel bilan ko‘radi",
+  "Burun va quloqlarni ko‘radi",
+  "Ba’zan eshitishni tekshiradi",
+  "Nima topganini tushuntirib, tayinlovlar beradi"
+ ],
+ "feel": [
+  "Shpatel ko‘ngil aynishi istagini chaqirishi mumkin",
+  "Kichkintoylar ushlab turilgani uchun ko‘pincha yig‘laydi — bu normal"
+ ],
+ "after": [
+  "Tayinlovlarni bajaring",
+  "Shifokor aytsa, takroriy ko‘rikka keling"
+ ],
+ "red_flags": [
+  "Bolaga nafas olish qiyin, yuta olmayapti, so‘lagi oqyapti — 103 ga qo‘ng‘iroq qiling",
+  "Yuqori harorat va quloqda kuchli og‘riq, quloq orqasida shish — zudlik bilan shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Bola xurrak otsa, adenoidlarni olib tashlash kerakmi?",
+   "a": "Har doim emas. Shifokor ko‘rib, aynan farzandingizga nima kerakligini aytadi."
+  },
+  {
+   "q": "Ko‘rikda bolani qanday ushlash kerak?",
+   "a": "Tizzangizga o‘tqazing, bir qo‘lingiz bilan tana va qo‘llarini quchoqlang, ikkinchisi bilan boshini ushlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "2 soatdan keyin bolaning LOR ko‘rigi. Avvalgi ko‘chirmalarni oling."
+  }
+ ]
+}

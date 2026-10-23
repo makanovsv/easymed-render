@@ -1,0 +1,66 @@
+{
+ "title": "Consulta con el ortodoncista",
+ "also": [
+  "cita con el ortodoncista",
+  "consulta por brackets",
+  "revisión de la mordida"
+ ],
+ "what": "El ortodoncista revisa los dientes y la mordida. Te dice si hace falta alinearlos y de qué forma.",
+ "why": "Con dientes chuecos, mordida incorrecta, apiñamiento o espacios entre los dientes, en niños y adultos.",
+ "duration": "normalmente de 30 a 60 minutos",
+ "tell_doctor": [
+  "Qué te preocupa: el aspecto, masticar, hablar, respirar",
+  "Si ha habido lesiones de dientes y mandíbula",
+  "Malos hábitos: chuparse el dedo, respirar por la boca, rechinar los dientes",
+  "Enfermedades crónicas y medicamentos",
+  "Si es un niño: cuándo empezaron a cambiarle los dientes"
+ ],
+ "prepare": [
+  {
+   "title": "Dientes",
+   "text": "Cepíllate los dientes antes de la cita."
+  },
+  {
+   "title": "Imágenes",
+   "text": "Si tienes radiografías de los dientes, llévalas. A veces las radiografías se toman el día de la cita."
+  }
+ ],
+ "bring": [
+  "Identificación",
+  "Radiografías de los dientes, si las hay",
+  "La lista de preguntas para el médico"
+ ],
+ "steps": [
+  "El médico te pregunta qué te preocupa",
+  "Examina los dientes y la mordida",
+  "Puede tomar fotos de la cara y los dientes",
+  "Si hace falta, pide radiografías o toma moldes",
+  "Explica las opciones de tratamiento y los plazos"
+ ],
+ "feel": [
+  "La revisión no duele",
+  "El molde puede dar ganas de vomitar; respira por la nariz"
+ ],
+ "after": [
+  "El médico da el plan de tratamiento después de ver las radiografías",
+  "Puedes tomarte tiempo para pensarlo",
+  "Pregunta por los plazos y el cuidado"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿A qué edad hay que ir al ortodoncista?",
+   "a": "A los niños normalmente se les aconseja la primera revisión al empezar el cambio de dientes. A los adultos, a cualquier edad."
+  },
+  {
+   "q": "¿Se pueden alinear los dientes en adultos?",
+   "a": "Sí, normalmente se puede. Los plazos suelen ser más largos que en los niños."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta con el ortodoncista. Cepíllate los dientes y lleva las radiografías, si las tienes."
+  }
+ ]
+}

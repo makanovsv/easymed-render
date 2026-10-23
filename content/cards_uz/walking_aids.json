@@ -1,0 +1,74 @@
+{
+ "title": "Qo‘ltiqtayoq va yurgich bilan yurishni o‘rgatish",
+ "also": [
+  "qo‘ltiqtayoq bilan qanday yuriladi",
+  "yurgich",
+  "hassa",
+  "tayanch bilan yurish"
+ ],
+ "what": "Mutaxassis bo‘yingizga qarab qo‘ltiqtayoq, yurgich yoki hassa tanlaydi va ulardan to‘g‘ri foydalanishni o‘rgatadi. Shunda yurish xavfsizroq va yengilroq bo‘ladi.",
+ "why": "Oyoqdagi jarohat yoki operatsiyadan keyin, holsizlikda, insultdan keyin, yiqilish xavfi bor keksalarda.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Og‘riyotgan oyoqqa tayansa bo‘ladimi va qanchalik",
+  "Bosh aylanishi va yiqilishlar bo‘ladimi",
+  "Qo‘l va yelkalarda og‘riq yoki holsizlik",
+  "Uyingizda qanday zinalar va ostonalar bor"
+ ],
+ "prepare": [
+  {
+   "title": "Tayanch",
+   "text": "Qo‘ltiqtayoq yoki yurgichingiz bo‘lsa — olib keling, ularni bo‘yingizga moslashadi."
+  },
+  {
+   "title": "Poyabzal",
+   "text": "Sirpanmaydigan tagli, orqasi yopiq poyabzal."
+  },
+  {
+   "title": "Uy",
+   "text": "Polni gilam va simlardan tozalang, o‘tish joylarini bo‘shating."
+  }
+ ],
+ "bring": [
+  "Bo‘lsa, qo‘ltiqtayoq, yurgich yoki hassa",
+  "Qulay poyabzal",
+  "Shifokor buyurtmalari bilan ma’lumotnoma"
+ ],
+ "steps": [
+  "Mutaxassis tayanch balandligini bo‘yingizga moslaydi",
+  "Tayanch bilan stuldan turish va o‘tirishni o‘rgatadi",
+  "Qadamlar tartibini ko‘rsatadi: avval tayanch, keyin og‘riyotgan oyoq, keyin sog‘ oyoq",
+  "Burilishlarni mashq qildiradi",
+  "Zinadan ko‘tarilish va tushishni o‘rgatadi",
+  "Uyni xavfsiz qilish bo‘yicha maslahat beradi"
+ ],
+ "feel": [
+  "Avval odatiy emas va qo‘llar tez charchaydi",
+  "Yiqilishdan qo‘rqish mumkin — yoningizda mutaxassis bo‘ladi"
+ ],
+ "after": [
+  "Kuniga bir necha marta oz-ozdan mashq qiling",
+  "Rezina uchliklar yeyilganda almashtiring",
+  "Narsalarni qo‘lingizda ko‘tarmang — ryukzak yoki yelkadan osma sumka ishlating"
+ ],
+ "red_flags": [
+  "Yiqilib tushdingiz va oyog‘ingiz qattiq og‘riydi",
+  "Qo‘ltiqtayoqdan qo‘ltiq ostida og‘riq va karaxtlik — balandlik noto‘g‘ri"
+ ],
+ "faq": [
+  {
+   "q": "Qo‘ltiqtayoq bilan zinadan qanday yuriladi?",
+   "a": "Yuqoriga — avval sog‘ oyoq, pastga — avval qo‘ltiqtayoq va og‘riyotgan oyoq. Mutaxassis ko‘rsatadi."
+  },
+  {
+   "q": "Qo‘ltiqtayoq yaxshimi yoki yurgichmi?",
+   "a": "Yurgich barqarorroq, qo‘ltiqtayoq esa zinada tezroq va qulayroq. Mutaxassis tanlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun tayanch bilan yurishni o‘rganamiz. Qo‘ltiqtayoq yoki yurgich va qulay poyabzalni oling."
+  }
+ ]
+}

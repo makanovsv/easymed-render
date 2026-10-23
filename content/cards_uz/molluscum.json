@@ -1,0 +1,80 @@
+{
+ "title": "Bolada yuqumli mollyuskni olib tashlash",
+ "also": [
+  "yuqumli mollyusk",
+  "bolada mollyusk",
+  "mollyuskni olib tashlash",
+  "bolaning terisidagi pufakchalar",
+  "mollyusk kyuretaji"
+ ],
+ "what": "Yuqumli mollyusk — virusdan terida paydo bo‘ladigan mayda silliq tugunchalar. Ular ko‘pincha o‘zi o‘tib ketadi, lekin ba’zan shifokor ularni olib tashlaydi.",
+ "why": "Tugunchalar ko‘p bo‘lsa, o‘sib, yallig‘lansa, bolaga halaqit bersa yoki boshqa bolalarga yuqsa.",
+ "duration": "muolaja odatda 10–30 daqiqa; tugunchalarning o‘zi davolashsiz oylar davomida o‘tadi",
+ "tell_doctor": [
+  "Tugunchalar nechta va qayerda, qachon paydo bo‘lgan",
+  "Bolada ekzema yoki boshqa teri kasalliklari bo‘lsa",
+  "Allergiyalar, ayniqsa og‘riqsizlantiruvchi kremlarga",
+  "Bola muolajalardan juda qo‘rqsa"
+ ],
+ "prepare": [
+  {
+   "title": "Qaror",
+   "text": "Olib tashlash yoki kutish — shifokor bilan birga hal qilasiz. Ba’zan kuzatuvni tanlashadi."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Ko‘pincha 30–60 daqiqa oldin plyonka ostiga og‘riqsizlantiruvchi krem surtishadi — klinikadan aniqlab oling."
+  },
+  {
+   "title": "Suhbat",
+   "text": "Bolaga nima bo‘lishini xotirjam aytib bering. Sevimli o‘yinchoqni oling."
+  },
+  {
+   "title": "Teri",
+   "text": "Tugunchalarni uyda siqmang — shunda virus tarqaladi."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati va yo‘llanma",
+  "Sevimli o‘yinchoq yoki planshet",
+  "Almashtiriladigan kiyim"
+ ],
+ "steps": [
+  "Shifokor terini ko‘radi va usulni tanlaydi",
+  "Teri antiseptik bilan artiladi",
+  "Tugunchalar kichik qoshiqcha, sovuq yoki maxsus vosita bilan olib tashlanadi",
+  "Biroz qon ketsa — salfetka bilan bosiladi",
+  "Joylar antiseptik bilan ishlanadi",
+  "Shifokor uyda qanday parvarish qilishni tushuntiradi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi kremda odatda yoqimsiz, lekin chidasa bo‘ladi",
+  "Bola og‘riqdan ko‘ra qo‘rquvdan ko‘proq yig‘lashi mumkin — yonida bo‘ling"
+ ],
+ "after": [
+  "Joylarni shifokor aytganidek ishlang",
+  "Bolaga yaralarni qashitmang va ishqalatmang",
+  "Bolaga alohida sochiq, mochalka va kiyim",
+  "Yangi tugunchalar paydo bo‘lishi mumkin — shifokorga ko‘rsating"
+ ],
+ "red_flags": [
+  "Yaralar atrofida qizarish, shish, yiring yoki harorat — shifokorga boring",
+  "Ko‘z yonida yoki qovoqda tugunchalar — shifokorga boring, o‘zingiz tegmang"
+ ],
+ "faq": [
+  {
+   "q": "Bolani basseynga va bog‘chaga olib borish mumkinmi?",
+   "a": "Bog‘chaga odatda mumkin. Basseynga — shifokordan aniqlab oling; tugunchalarni yopib qo‘ygan ma’qul."
+  },
+  {
+   "q": "Mollyusk o‘zi o‘tib ketadimi?",
+   "a": "Ko‘pincha ha, lekin oylar ketishi mumkin. Olib tashlash haqidagi qarorni shifokor bilan birga qabul qilasiz."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada mollyuskni olib tashlash. Shifokor aytgan bo‘lsa — og‘riqsizlantiruvchi krem suring. Bola uchun o‘yinchoq oling."
+  }
+ ]
+}

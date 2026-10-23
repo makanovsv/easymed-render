@@ -1,0 +1,73 @@
+{
+ "title": "Manometria anorretal",
+ "also": [
+  "manometria anorretal",
+  "manometria do reto",
+  "exame dos músculos do ânus"
+ ],
+ "what": "Colocam no ânus um cateter fino e macio. Ele mede como funcionam os músculos do reto e do ânus.",
+ "why": "Com prisão de ventre, incontinência de fezes, antes de algumas cirurgias e depois do parto, se houver essas queixas.",
+ "duration": "normalmente 30 a 45 minutos, o resultado sai na hora ou em alguns dias",
+ "tell_doctor": [
+  "Quais remédios você toma",
+  "Se fez cirurgias no reto",
+  "Se tem fissura ou hemorroida com dor",
+  "Se pode haver gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Limpeza",
+   "text": "Muitas vezes, 1 a 2 horas antes do teste, se faz uma lavagem intestinal pequena. A clínica passa o esquema."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não é preciso dieta especial. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Às vezes pedem para não tomar laxantes e alguns remédios. Não pare por conta própria. Pergunte ao médico."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios",
+  "Resultados de exames anteriores"
+ ],
+ "steps": [
+  "Você se deita do lado esquerdo, com os joelhos dobrados em direção ao peito",
+  "O médico coloca no ânus um cateter fino com gel",
+  "Pedem para você relaxar, apertar os músculos e fazer força",
+  "Às vezes enchem um balãozinho no intestino e perguntam o que você sente",
+  "Tiram o cateter"
+ ],
+ "feel": [
+  "É incômodo, mas normalmente não dói",
+  "Pode dar vontade de ir ao banheiro",
+  "Dá vergonha. É normal, o médico faz isso todo dia"
+ ],
+ "after": [
+  "Você pode voltar à rotina logo em seguida",
+  "O resultado é explicado na hora ou em alguns dias",
+  "Um pequeno incômodo passa rápido"
+ ],
+ "red_flags": [
+  "Sangramento pelo ânus que não para",
+  "Dor forte na barriga ou febre acima de 38 °C"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Normalmente não. O cateter é fino, o procedimento é mais incômodo que doloroso."
+  },
+  {
+   "q": "Por que fazer força durante o teste?",
+   "a": "Assim o médico vê se os músculos funcionam direito na hora de evacuar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a manometria anorretal. Confira se precisa de lavagem antes do teste e quando."
+  }
+ ]
+}

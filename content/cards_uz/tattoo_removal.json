@@ -1,0 +1,80 @@
+{
+ "title": "Tatuirovkani lazer bilan olib tashlash",
+ "also": [
+  "tatuirovkani olib tashlash",
+  "tatuni yo‘qotish",
+  "lazer tatu",
+  "tatuirovkani chiqarish",
+  "tatuni lazer bilan olish"
+ ],
+ "what": "Lazer teridagi bo‘yoqni mayda zarrachalarga bo‘ladi, organizm ularni asta-sekin chiqarib tashlaydi. Tatuirovka seansdan seansga oqarib boradi.",
+ "why": "Tatuirovkani, qosh yoki lab tatuajini olib tashlash yoki ochroq qilish kerak bo‘lganda.",
+ "duration": "seans odatda 10–30 daqiqa; ko‘pincha bir necha hafta tanaffus bilan ko‘p seans kerak bo‘ladi",
+ "tell_doctor": [
+  "Yaqinda toblanganmisiz",
+  "Keloid izlar bo‘lgan bo‘lsa",
+  "Barcha dorilarni, ayniqsa qonni suyultiruvchi va quyoshga sezgirlikni oshiruvchi dorilarni",
+  "Homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "Quyosh",
+   "text": "Muolajadan oldin toblanmang — muddatini klinikadan so‘rang."
+  },
+  {
+   "title": "Teri",
+   "text": "Tatuirovka ustidagi teri toza, kremsiz bo‘lsin."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Ba’zan oldindan og‘riq qoldiruvchi krem surtiladi — klinikadan so‘rang."
+  },
+  {
+   "title": "Kutilmalar",
+   "text": "Shifokor sizning tatuirovkangiz uchun taxminan nechta seans kerakligini aytadi."
+  }
+ ],
+ "bring": [
+  "Tatuirovka joyini ochish uchun qulay kiyim",
+  "Dorilar ro‘yxati",
+  "Quyoshdan himoya kremi"
+ ],
+ "steps": [
+  "Shifokor tatuirovka va terini ko‘radi",
+  "Sizga himoya ko‘zoynagi taqiladi",
+  "Teri sovutiladi",
+  "Lazer tatuirovkani qisqa chaqnashlar bilan ishlaydi",
+  "Teri yana sovutiladi",
+  "Bitishni tezlatuvchi vosita va bog‘lam qo‘yiladi"
+ ],
+ "feel": [
+  "Og‘riydi: rezina bilan urilgandek yoki issiq moy sachragandek",
+  "Sovutish yordam beradi"
+ ],
+ "after": [
+  "Qizarish, shish, ba’zan pufak va po‘stloq — odatda 1–2 haftada o‘tadi",
+  "Po‘stloqlarni yulmang",
+  "Teri bitmaguncha hammom va basseynga bormang",
+  "Seanslar davom etayotganda o‘sha joyga quyoshdan himoya kremi surting"
+ ],
+ "red_flags": [
+  "Yiring, kuchayib borayotgan og‘riq, harorat bo‘lsa — shifokorga",
+  "Yara uzoq bitmasa"
+ ],
+ "faq": [
+  {
+   "q": "Tatuirovkani butunlay yo‘qotsa bo‘ladimi?",
+   "a": "Ko‘pincha ha, lekin har doim emas. Rangli va eski tatular har xil chiqadi. Shifokor ko‘rgandan keyin aytadi."
+  },
+  {
+   "q": "Chandiq qoladimi?",
+   "a": "Teriga to‘g‘ri qarasangiz, odatda yo‘q. Keloid izlar bo‘lsa, xavf yuqoriroq."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga tatuirovkani olib tashlash. Toblanmang, teri kremsiz bo‘lsin."
+  }
+ ]
+}

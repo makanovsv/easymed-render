@@ -1,0 +1,72 @@
+{
+ "title": "Harbiy komissariatdagi tibbiy komissiya",
+ "also": [
+  "harbiy komissariat tibbiy komissiyasi",
+  "chaqiruv komissiyasi",
+  "HTK",
+  "armiya uchun tibbiy ko‘rik"
+ ],
+ "what": "Harbiy komissariatda bir necha shifokor sizni ko‘radi va sog‘lig‘ingiz bo‘yicha xizmatga yaroqli yoki yaroqsizligingizni hal qiladi.",
+ "why": "Harbiy hisobga olinishda, chaqiruvda, shartnoma asosidagi xizmatga yoki harbiy oliy o‘quv yurtiga kirishda.",
+ "duration": "odatda yarim kun yoki kun, qaror — komissiya kuni yoki keyinroq",
+ "tell_doctor": [
+  "Barcha kasallik va jarohatlarni — hatto eskilarini ham",
+  "Qanday dorilar ichasiz",
+  "Kasalxonada yotgan va operatsiya bo‘lganmi",
+  "Hozirgi shikoyatlar"
+ ],
+ "prepare": [
+  {
+   "title": "Hujjatlar",
+   "text": "Barcha kasalliklar bo‘yicha ko‘chirmalar, xulosalar va suratlarni yig‘ing. Ularsiz shifokorlarga kasallikni hisobga olish qiyin."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Ko‘pincha tahlillar va flyuorografiyani oldindan harbiy komissariat yo‘llanmasi bilan topshirishadi. U yerdan aniqlab oling."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Yaxshi uxlang, alkogol ichmang."
+  }
+ ],
+ "bring": [
+  "Pasport",
+  "Chaqiruv qog‘ozi yoki yo‘llanma",
+  "Kasalliklar haqidagi tibbiy hujjatlar",
+  "Tahlil natijalari, agar so‘ralgan bo‘lsa"
+ ],
+ "steps": [
+  "Siz belgilangan vaqtda harbiy komissariatga kelasiz",
+  "Anketa to‘ldirasiz",
+  "Shifokorlardan navbat bilan o‘tasiz: terapevt, jarroh, nevrolog, psixiatr, ko‘z shifokori, LOR, stomatolog va boshqalar",
+  "Bo‘y, vazn, bosim o‘lchanadi, ko‘rish tekshiriladi",
+  "Kerak bo‘lsa, qo‘shimcha tekshiruvga yuborishadi",
+  "Komissiya yaroqlilik haqida qaror chiqaradi"
+ ],
+ "feel": [
+  "Ko‘riklar og‘riqsiz",
+  "Navbatlar sababli uzoq va charchatuvchi bo‘lishi mumkin"
+ ],
+ "after": [
+  "Sizga yaroqlilik toifasi aytiladi",
+  "Qo‘shimcha tekshiruvga yuborilgan bo‘lsa — uni o‘z vaqtida o‘ting",
+  "Qarorga qonun doirasida shikoyat qilish mumkin"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Kasallik haqidagi hujjatlarni olib kelmasam nima bo‘ladi?",
+   "a": "Shifokorlar uni hisobga olmasligi mumkin. Ko‘chirmalarni oldindan yig‘ib qo‘ygan ma’qul."
+  },
+  {
+   "q": "O‘z shifokorimda tekshiruvdan o‘tsam bo‘ladimi?",
+   "a": "Qo‘shimcha tekshiruvdan odatda harbiy komissariat yo‘llanmasi bilan o‘tishadi. U yerdan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga harbiy komissariatda tibbiy komissiya. Pasport, chaqiruv qog‘ozi va barcha tibbiy hujjatlarni oling."
+  }
+ ]
+}

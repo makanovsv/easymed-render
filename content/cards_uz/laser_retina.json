@@ -1,0 +1,76 @@
+{
+ "title": "To‘r pardani lazer bilan koagulyatsiya qilish",
+ "also": [
+  "to‘r parda lazerkoagulyatsiyasi",
+  "TLK",
+  "to‘r pardaga lazer",
+  "to‘r pardani lazer bilan mustahkamlash"
+ ],
+ "what": "Shifokor lazer bilan to‘r pardada nuqtali «payvandlar» qiladi. Bu uni mustahkamlaydi yoki kasal tomirlarni yo‘qotadi.",
+ "why": "To‘r parda yirtilishi va yupqalashishida, diabetda to‘r parda o‘zgarishlarida, ko‘z tomirlarining ba’zi kasalliklarida.",
+ "duration": "odatda 10–30 daqiqa, tayyorgarlik bilan taxminan 1–1,5 soat",
+ "tell_doctor": [
+  "Barcha dori va tomchilar",
+  "Glaukoma, bilsangiz",
+  "Qandli diabet",
+  "Homiladorlik",
+  "Tomchilarga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Yo‘l",
+   "text": "Qorachiq kengaytiriladi, muolajadan keyin rulga o‘tirish mumkin emas — hamroh bilan keling."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Klinika boshqacha demagan bo‘lsa, oldindan ovqatlansangiz bo‘ladi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Doimiy dorilarni o‘zingiz bekor qilmang."
+  }
+ ],
+ "bring": [
+  "Quyosh ko‘zoynagi",
+  "Hujjat",
+  "Hamroh"
+ ],
+ "steps": [
+  "Ko‘z og‘riqsizlantiriladi va qorachiq tomchilar bilan kengaytiriladi",
+  "Siz apparat yoniga o‘tirib, iyagingizni tayanchga qo‘yasiz",
+  "Ko‘zga maxsus linza qo‘yiladi",
+  "Shifokor lazerni yo‘naltiradi — siz yorqin chaqnashlarni ko‘rasiz",
+  "Shifokor aytgan tomonga qarash va qimirlamaslik kerak",
+  "Linza olinadi, ko‘z yuviladi"
+ ],
+ "feel": [
+  "Yorqin yorug‘lik chaqnashlari",
+  "Ba’zan chaqish yoki zirqiroq his",
+  "Keyin — ko‘rish bir necha soat xira bo‘ladi"
+ ],
+ "after": [
+  "Ko‘rish tiklanmaguncha mashina haydamang",
+  "Shifokor aytsa, dastlabki kunlarda og‘ir narsa ko‘tarmang va keskin engashmang",
+  "Nazoratga o‘z vaqtida keling"
+ ],
+ "red_flags": [
+  "To‘satdan juda ko‘p yangi «pashshalar», chaqnashlar yoki ko‘z oldida «parda» — shoshilinch ko‘z shifokoriga boring",
+  "Ko‘zda kuchli og‘riq, bosh og‘rig‘i va ko‘ngil aynishi — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Lazer ko‘rishni yaxshilaydimi?",
+   "a": "Odatda uning maqsadi — ko‘rishni saqlab qolish va yomonlashishiga yo‘l qo‘ymaslik."
+  },
+  {
+   "q": "Takrorlash kerakmi?",
+   "a": "Ba’zan bir necha seans kerak bo‘ladi. Shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga to‘r pardaga lazer. Hamrohingiz bilan kelishib oling, quyosh ko‘zoynagini oling."
+  }
+ ]
+}

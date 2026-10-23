@@ -1,0 +1,77 @@
+{
+ "title": "Dietolog qabuli",
+ "also": [
+  "dietolog",
+  "nutritsiolog",
+  "ovqatlanish bo‘yicha maslahat",
+  "ovqatlanishni tanlash"
+ ],
+ "what": "Dietolog shifokor qanday ovqatlanishingizni ko‘rib chiqadi va sog‘lig‘ingizga mos ovqatlanishni tuzishga yordam beradi. Bu suhbat va hisob-kitoblar, muolajalarsiz.",
+ "why": "Ortiqcha yoki kam vaznda, diabet, oshqozon, buyrak, yurak kasalliklarida, homiladorlikda yoki ovqatlanishni yo‘lga qo‘ygingiz kelsa.",
+ "duration": "birinchi qabul odatda 30–60 daqiqa; takroriylari qisqaroq",
+ "tell_doctor": [
+  "Kasalliklaringiz va dorilaringiz",
+  "Allergiyalar va ba’zi mahsulotlarni ko‘tara olmaslik",
+  "So‘nggi paytda vazn qanday o‘zgargan",
+  "Parhezlar bo‘lganmi va nima chiqdi",
+  "Homilador yoki emizikli bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Kundalik",
+   "text": "Qabuldan 3–7 kun oldin yeyayotgan va ichayotgan hamma narsangizni va vaqtini yozib boring."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Bo‘lsa, yangi qon tahlillarini oling. Shifokor yangilarini buyurishi mumkin."
+  },
+  {
+   "title": "Maqsad",
+   "text": "Nimani xohlayotganingizni o‘ylab ko‘ring: vaznni kamaytirish, o‘zingizni yaxshi his qilish, kasallikda ovqatlanish."
+  }
+ ],
+ "bring": [
+  "Ovqatlanish kundaligi",
+  "Tahlil natijalari",
+  "Dorilar ro‘yxati",
+  "Hujjat"
+ ],
+ "steps": [
+  "Shifokor sog‘ligingiz, tartibingiz va odatlaringiz haqida so‘raydi",
+  "Bo‘y, vazn va ba’zan bel aylanasini o‘lchaydi",
+  "Ba’zan maxsus tarozida tana tarkibini o‘lchaydi",
+  "Ovqatlanish kundaligingizni ko‘rib chiqadi",
+  "Birgalikda reja tuzasiz: nimani va asta-sekin o‘zgartirish kerak",
+  "Takroriy qabul sanasini belgilashadi"
+ ],
+ "feel": [
+  "Bu oddiy suhbat, noxush narsa yo‘q",
+  "Maslahatlar odatda bosqichma-bosqich, keskin taqiqlarsiz"
+ ],
+ "after": [
+  "Ovqatlanishni kelishilganidek asta-sekin o‘zgartiring",
+  "Shifokor so‘ragan bo‘lsa, kundalikni yuritishda davom eting",
+  "Takroriy qabulda reja to‘g‘rilanadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Dietolog nutritsiologdan nimasi bilan farq qiladi?",
+   "a": "Dietolog — tibbiy ma’lumotli shifokor. U kasalliklar bilan ishlay oladi va tekshiruv buyuradi."
+  },
+  {
+   "q": "Tayyor menyu berishadimi?",
+   "a": "Ko‘pincha taxminiy menyu yoki qoidalar berishadi. Ovqatlanish sizning odatlaringizga moslab tanlansa, yaxshiroq."
+  },
+  {
+   "q": "Qabuldan oldin och qolish kerakmi?",
+   "a": "Yo‘q. Shifokor och qoringa tahlil buyursa, bu alohida aytiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga dietolog qabuli. Ovqatlanish kundaligi va tahlillarni oling."
+  }
+ ]
+}

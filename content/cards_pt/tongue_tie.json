@@ -1,0 +1,74 @@
+{
+ "title": "Corte do freio da língua",
+ "also": [
+  "frenotomia lingual",
+  "língua presa",
+  "freio curto da língua",
+  "teste da linguinha"
+ ],
+ "what": "O médico corta o freio curto embaixo da língua. Depois disso a língua se mexe com mais liberdade.",
+ "why": "Quando o freio curto atrapalha o bebê a mamar no peito ou a criança a falar alguns sons.",
+ "duration": "o procedimento leva normalmente alguns minutos; em crianças maiores, até 30 minutos",
+ "tell_doctor": [
+  "Como o bebê mama no peito ou na mamadeira",
+  "Quais sons são difíceis para a criança",
+  "Doenças do sangue, coagulação, sangramentos na família",
+  "Alergias da criança",
+  "Remédios que ela toma"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "O bebê normalmente mama depois do procedimento. Confirme com a clínica quando alimentar antes."
+  },
+  {
+   "title": "Preparo",
+   "text": "Explique com calma à criança maior que o médico vai ajudar a língua a se mexer melhor."
+  }
+ ],
+ "bring": [
+  "Documento da criança",
+  "Um paninho ou lenço",
+  "Encaminhamento do fonoaudiólogo ou do pediatra, se tiver"
+ ],
+ "steps": [
+  "O médico examina a língua e o freio",
+  "Fazem a anestesia, com gel ou injeção",
+  "A criança é segurada com cuidado",
+  "O freio é cortado com tesoura ou laser",
+  "Às vezes dão pontos finos",
+  "Apertam a feridinha com um lenço"
+ ],
+ "feel": [
+  "O bebê normalmente chora por pouco tempo",
+  "Um pouco de sangue, que normalmente para rápido",
+  "Por alguns dias, dói embaixo da língua"
+ ],
+ "after": [
+  "O bebê normalmente vai logo para o peito",
+  "Para os maiores, comida macia e fresca por 1 a 2 dias",
+  "Embaixo da língua aparece uma camada branca. É a cicatrização",
+  "Exercícios para a língua, como o médico ou o fonoaudiólogo mostrar"
+ ],
+ "red_flags": [
+  "Sangramento que não para em mais de 10 a 15 minutos apertando",
+  "A criança recusa comida e bebida",
+  "Febre acima de 38 °C, inchaço forte"
+ ],
+ "faq": [
+  {
+   "q": "É obrigatório fazer?",
+   "a": "Nem sempre. O médico decide se o freio atrapalha comer ou falar."
+  },
+  {
+   "q": "A criança vai falar certo logo?",
+   "a": "Não logo. Muitas vezes são precisas sessões com o fonoaudiólogo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o corte do freio da língua. Confirme com a clínica quando alimentar a criança antes do procedimento."
+  }
+ ]
+}

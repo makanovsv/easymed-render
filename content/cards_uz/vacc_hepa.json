@@ -1,0 +1,72 @@
+{
+ "title": "A gepatitiga qarshi emlash",
+ "also": [
+  "gepatit A emlashi",
+  "A gepatiti vaksinasi",
+  "Botkin kasalligiga qarshi emlash",
+  "sariq kasalligiga qarshi emlash"
+ ],
+ "what": "A gepatitidan himoya qiladigan vaksina ukoli — bu jigar infeksiyasi, iflos qo‘l, suv va ovqat orqali yuqadi. Odatda 2 ta ukol qilinadi.",
+ "why": "Emlanmagan bolalar va kattalarga, issiq mamlakatlarga safar oldidan, jigar kasalliklarida, infeksiya o‘chog‘ida.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa; ikkinchi ukol odatda 6–12 oydan keyin",
+ "tell_doctor": [
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Allergiyalar va oldingi emlashlarga kuchli reaksiyalar",
+  "Homilador bo‘lsangiz",
+  "Ilgari A gepatiti bilan og‘rigan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash siz sog‘ bo‘lganda qilinadi. Ukoldan oldin sizni ko‘rikdan o‘tkazishadi."
+  },
+  {
+   "title": "Jadval",
+   "text": "Kurs odatda 2 ukoldan iborat. Ikkinchisining sanasini yozib oling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yelkani oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor yoki hamshira o‘zingizni qanday his qilayotganingizni so‘raydi va haroratni o‘lchaydi",
+  "Yelkangizni ochasiz",
+  "Teri artiladi va ukol qilinadi",
+  "Emlash hujjatlarga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tirish kerak"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan 1–2 kun ukol joyi og‘riydi",
+  "Ba’zan holsizlik yoki ozgina harorat"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "Ikkinchi ukolni unutmang"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Kasal bilan aloqa bo‘lgan bo‘lsa, emlash yordam beradimi?",
+   "a": "Tez qilinsa, ko‘pincha ha, odatda dastlabki 2 hafta ichida. Shoshilinch shifokorga murojaat qiling."
+  },
+  {
+   "q": "U B va C gepatitlaridan himoya qiladimi?",
+   "a": "Yo‘q. B gepatitiga qarshi alohida emlash bor, C ga qarshi emlash yo‘q."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga A gepatitiga qarshi emlash. Emlash kartasini oling."
+  }
+ ]
+}

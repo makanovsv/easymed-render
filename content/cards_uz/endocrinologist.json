@@ -1,0 +1,73 @@
+{
+ "title": "Endokrinolog qabuli",
+ "also": [
+  "endokrinolog",
+  "gormonlar shifokori",
+  "qalqonsimon bez shifokori",
+  "diabetolog"
+ ],
+ "what": "Gormonlar kasalliklarini davolaydigan shifokor: qalqonsimon bez, qandli diabet, vazn va modda almashinuvi buzilishlari.",
+ "why": "Qandli diabet, qalqonsimon bez o‘zgarishlari, vaznning keskin o‘zgarishi, doimiy charchoq, tsikl buzilishlarida.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Nima bezovta qilayotgani va qachondan",
+  "Barcha dorilar, ayniqsa gormonlar va diabet dorilari",
+  "Vazn qanday o‘zgargani",
+  "Qarindoshlarda qalqonsimon bez kasalliklari yoki diabet",
+  "Homilador bo‘lsangiz yoki rejalashtirayotgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Shifokor darhol qonga yo‘llashi mumkin bo‘lsa — och qoringa kelish kerakmi, klinikadan aniqlab oling."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Diabetda qand yozuvlari va glyukometrni oling."
+  },
+  {
+   "title": "Avvalgi tahlillar",
+   "text": "Gormonlarga tahlillar va qalqonsimon bez UZIsini, agar qilingan bo‘lsa, oling."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Glyukometr va qand kundaligi, agar bo‘lsa",
+  "Avvalgi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarining o‘zi"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar va dorilar haqida so‘raydi",
+  "Qon bosimi, bo‘y va vaznni o‘lchaydi",
+  "Bo‘yin va qalqonsimon bezni paypaslaydi",
+  "Tahlillarni ko‘radi",
+  "Tekshiruv yoki davo tayinlaydi"
+ ],
+ "feel": [
+  "Noxush narsa yo‘q — oddiy ko‘rik",
+  "Bo‘yinni paypaslash og‘riqsiz"
+ ],
+ "after": [
+  "Tayinlangan tahlillarni topshiring va natijalar bilan keling",
+  "Dorilar dozasini o‘zingiz o‘zgartirmang — faqat shifokor qaroriga ko‘ra"
+ ],
+ "red_flags": [
+  "Qand juda yuqori yoki juda past, ongning chalkashishi, kuchli holsizlik — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Och qoringa kelish kerakmi?",
+   "a": "Qabulning o‘zi uchun — yo‘q. Lekin shifokor darhol tahlilga yo‘llashi mumkin bo‘lsa, och qoringa qulayroq. Klinikadan aniqlab oling."
+  },
+  {
+   "q": "Avval gormonlarni topshirish kerakmi?",
+   "a": "Avvalgi tahlillarni olib kelsangiz bo‘ladi. Hozir qaysilari kerakligini shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga endokrinolog qabuli. Tahlillar, qand kundaligi va dorilar ro‘yxatini oling."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Tratamento de úlcera na perna",
+ "also": [
+  "úlcera varicosa",
+  "úlcera venosa",
+  "ferida na canela",
+  "ferida na perna que não cicatriza"
+ ],
+ "what": "É uma ferida na perna, abaixo do joelho, que demora a cicatrizar, na maioria das vezes por mau funcionamento das veias. O tratamento são curativos e compressão da perna.",
+ "why": "Com feridas na perna que não cicatrizam por várias semanas.",
+ "duration": "o curativo leva normalmente 20 a 40 minutos; o tratamento dura semanas e meses",
+ "tell_doctor": [
+  "Diabetes",
+  "Doenças das artérias, dor nas pernas ao andar",
+  "Todos os remédios",
+  "Alergia a pomadas ou esparadrapo"
+ ],
+ "prepare": [
+  {
+   "title": "Investigação",
+   "text": "Normalmente se faz ultrassom das veias e artérias das pernas para achar a causa."
+  },
+  {
+   "title": "Compressão",
+   "text": "Faixas ou meias são o principal tratamento. Use do jeito que o médico indicou."
+  },
+  {
+   "title": "Pernas",
+   "text": "Quando estiver sentado ou deitado, deixe a perna mais alta."
+  }
+ ],
+ "bring": [
+  "Pedido médico e ultrassom das veias",
+  "Meias de compressão, se tiver",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Tiram o curativo antigo",
+  "Lavam a ferida e a pele em volta",
+  "O médico avalia a ferida, às vezes faz uma limpeza",
+  "Colocam um curativo na ferida",
+  "Por cima, enfaixam a perna com uma faixa de compressão",
+  "Dizem quando é o próximo curativo"
+ ],
+ "feel": [
+  "A limpeza da ferida pode incomodar",
+  "A compressão é estranha nos primeiros dias, depois normalmente alivia",
+  "Se a faixa apertar muito e a perna ficar dormente, tire e ligue para o médico"
+ ],
+ "after": [
+  "Caminhe. Isso ajuda as veias",
+  "Não molhe o curativo",
+  "Levante a perna quando estiver descansando",
+  "Depois de cicatrizar, continue usando as meias. Assim a úlcera volta menos"
+ ],
+ "red_flags": [
+  "Febre, vermelhidão que se espalha",
+  "A perna ficou dormente, fria ou roxa embaixo da faixa",
+  "Dor forte ou cheiro ruim na ferida"
+ ],
+ "faq": [
+  {
+   "q": "Para que enfaixar a perna?",
+   "a": "A compressão ajuda o sangue a sair pelas veias. Sem ela a úlcera cicatriza muito devagar."
+  },
+  {
+   "q": "Dá para tirar a causa?",
+   "a": "Às vezes sim, por exemplo tratando as veias. O médico conversa sobre isso depois do ultrassom."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o curativo da perna. Leve o ultrassom das veias e as meias de compressão."
+  }
+ ]
+}

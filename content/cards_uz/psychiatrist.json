@@ -1,0 +1,67 @@
+{
+ "title": "Psixiatr qabuli",
+ "also": [
+  "psixiatr",
+  "psixiatr shifokor",
+  "psixiatr maslahati"
+ ],
+ "what": "Kayfiyat, xavotir, uyqu, fikrlash va xulq-atvor buzilishlarida yordam beradigan shifokor. Davo va dorilar buyurishi mumkin.",
+ "why": "Uzoq davom etgan tushkunlikda, kuchli xavotirda, vahima hujumlarida, uyqusizlikda, aqldan ketmaydigan fikrlarda, xulq-atvorning keskin o‘zgarishida.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Sizni nima bezovta qilayotgani va qachondan beri",
+  "Qanday uxlaysiz va ovqatlanasiz",
+  "Qanday dori va moddalar qabul qilasiz, alkogolni ham",
+  "Avval psixiatr yoki psixologga murojaat qilganmisiz",
+  "O‘zingizga zarar yetkazish haqida fikrlar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Yozib qo‘ying",
+   "text": "Nima bezovta qilayotganini, bu hayotingizga qanday ta’sir qilayotganini, qanday savollar bermoqchiligingizni."
+  },
+  {
+   "title": "Maxfiylik",
+   "text": "Qabul haqidagi ma’lumotlar tibbiy sir hisoblanadi. Tashrif qanday rasmiylashtirilishini klinikadan aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Oldingi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarning o‘zi"
+ ],
+ "steps": [
+  "Shifokor shikoyatlaringiz va hayotingiz haqida xotirjam so‘raydi",
+  "Kayfiyat, uyqu, fikrlar haqida savollar beradi",
+  "Ba’zan so‘rovnoma to‘ldirishni taklif qiladi",
+  "Nima bo‘layotganini va qanday yordam variantlari borligini tushuntiradi",
+  "Kerak bo‘lsa, davo va keyingi tashrif sanasini belgilaydi"
+ ],
+ "feel": [
+  "Bu suhbat: muolajalarsiz",
+  "Shaxsiy narsalar haqida gapirish oson emas: pauza qilishingiz mumkin"
+ ],
+ "after": [
+  "Dorilarni sxema bo‘yicha iching, o‘zingiz bekor qilmang: savollarni shifokorga bering",
+  "Davoning ta’siri odatda darhol bilinmaydi"
+ ],
+ "red_flags": [
+  "O‘zingizga yoki boshqalarga zarar yetkazish haqida fikrlar: qabulni kutmang, 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Meni hisobga qo‘yishadimi?",
+   "a": "Odatda maslahat hisobga olishni anglatmaydi. Bu qanday tartibda ekanini klinikadan aniqlab oling: to‘g‘ridan-to‘g‘ri so‘rang."
+  },
+  {
+   "q": "Psixiatr psixologdan nimasi bilan farq qiladi?",
+   "a": "Psixiatr — shifokor, tashxis qo‘yishi va dori buyurishi mumkin. Psixolog suhbat bilan yordam beradi va dori bilan davolamaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga psixiatr qabuli. Nima bezovta qilayotganini yozib qo‘ying va dorilar ro‘yxatini oling."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Shira chaqqandan keyingi tahlillar (entsefalit, borrelioz)",
+ "also": [
+  "shira chaqqandan keyin tahlil",
+  "shira entsefaliti",
+  "borrelioz",
+  "Layma kasalligi",
+  "shiraga tahlil"
+ ],
+ "what": "Bu shira kasallik yuqtirmaganini ko‘rsatadigan tahlillar. Shiraning o‘zini ham, qoningizni ham tekshirish mumkin.",
+ "why": "Shira chaqqandan keyin, ayniqsa shira entsefaliti uchraydigan joylarda bo‘lgan bo‘lsangiz yoki harorat yoki qizarish paydo bo‘lsa.",
+ "duration": "shira tahlili — odatda 1–3 kun; qon darrov emas, shifokor aytgan muddatlarda topshiriladi",
+ "tell_doctor": [
+  "Chaqish qachon va qayerda bo‘lganini",
+  "Shira teringizda qancha vaqt turganini",
+  "Shira entsefalitiga qarshi emlash olinganmi",
+  "Harorat, bosh og‘rig‘i yoki qizil dog‘ paydo bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Shira",
+   "text": "Shira olingan bo‘lsa, uni nam paxtali bankaga solib, mahkam yoping. Imkon qadar tezroq laboratoriyaga olib boring."
+  },
+  {
+   "title": "Muddatlar",
+   "text": "Qonda antitanachalar darrov paydo bo‘lmaydi — odatda chaqqandan bir necha hafta keyin. Qonni qachon topshirishni shifokor aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Qon tahlilidan oldin 3–4 soat ovqat yemagan ma’qul. Suv ichsa bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Shira yopiq bankada, agar bo‘lsa",
+  "Yo‘llanma",
+  "Hujjat",
+  "Shira entsefalitiga qarshi emlash haqida ma’lumot"
+ ],
+ "steps": [
+  "Shira laboratoriyaga topshiriladi — uni infeksiyalarga tekshirishadi",
+  "Tirsakdan yuqorida jgut bog‘lanadi va musht qilishni so‘rashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Ukol joyiga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan biroz bosh aylanadi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Chaqqandan keyin bir oy haroratingiz va chaqqan joyni kuzating",
+  "Profilaktika haqida qarorni shifokor qabul qiladi — qabulni kechiktirmang"
+ ],
+ "red_flags": [
+  "Chaqqan joy atrofidagi qizil dog‘ kattalashsa — shifokorga ko‘rsating",
+  "Harorat, kuchli bosh og‘rig‘i, badan zirqirashi bo‘lsa — o‘sha kuni shifokorga",
+  "Ong chalkashishi, tutqanoq, qo‘l yoki oyoqlarda holsizlik bo‘lsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Shirani to‘g‘ri qanday olish kerak?",
+   "a": "Pinset yoki ip bilan teriga juda yaqindan ushlab, sekin burab chiqaring. Joyni antiseptik bilan artib qo‘ying."
+  },
+  {
+   "q": "Shira toza bo‘lsa, qon topshirish kerak emasmi?",
+   "a": "Odatda yo‘q, lekin qarorni shifokor qabul qiladi. Bir oy o‘zingizni kuzating."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga shira chaqqandan keyingi tahlilni topshiramiz. Emlash ma’lumotlarini oling va chaqqan sanani yozib qo‘ying."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Kolostoma va ileostomani parvarish qilish",
+ "also": [
+  "kolostoma",
+  "ileostoma",
+  "kalopriyomnik",
+  "stomani parvarish qilish",
+  "kalopriyomnikni almashtirish"
+ ],
+ "what": "Stoma — qorindagi ichak teshigi, undan axlat maxsus xalta, ya’ni kalopriyomnikka chiqadi. Uni almashtirish va terini parvarish qilishni o‘zingiz o‘rganasiz.",
+ "why": "Ichak operatsiyasidan keyin, jarroh ichakni qoringa vaqtincha yoki doimiy chiqarganda.",
+ "duration": "kalopriyomnikni almashtirish odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Stoma atrofidagi teri qizargan, ho‘l bo‘lgan yoki og‘riyotgan bo‘lsa",
+  "Kalopriyomnik tez-tez oqsa",
+  "Stoma rangi, o‘lchami o‘zgargan yoki bo‘rtib chiqsa",
+  "Axlat juda suyuq yoki bir sutkadan ortiq yo‘q bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Sarf materiallari",
+   "text": "Xaltalar, plastinalar, teri uchun vositalar zaxirasini saqlang. Ularni stoma parvarishi hamshirasi bilan tanlashadi."
+  },
+  {
+   "title": "O‘lcham",
+   "text": "Plastinadagi teshik stoma o‘lchamiga qarab kesiladi. Dastlabki haftalarda stoma kichrayadi: qaytadan o‘lchang."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Ovqatdan oldin ertalab almashtirish qulayroq: ichak kamroq ishlaydi."
+  },
+  {
+   "title": "Joy",
+   "text": "Kerakli narsalarning hammasini hammomda toza sochiq ustiga qo‘ying."
+  }
+ ],
+ "bring": [
+  "Kalopriyomniklar va plastinalar zaxirasi",
+  "Qaychi va o‘lcham shabloni",
+  "Salfetkalar va chiqindi uchun paket",
+  "Ko‘chirma va hamshira kontaktlari"
+ ],
+ "steps": [
+  "Qo‘llarni yuving va yangi kalopriyomnikni tayyorlang",
+  "Eski xaltani terini ushlab, yuqoridan pastga ehtiyotkorlik bilan yeching",
+  "Stoma atrofidagi terini iliq suv bilan yuvib, quruq artib oling",
+  "Stoma va atrofidagi terini ko‘zdan kechiring",
+  "Plastinadagi teshikni stoma o‘lchamiga qarab kesing",
+  "Plastinani pastdan yuqoriga yopishtiring va 1–2 daqiqa qo‘l bilan bosib turing",
+  "Ishlatilgan xaltani paketga solib, tashlang"
+ ],
+ "feel": [
+  "Stomaning o‘zi og‘rimaydi: unda asab yo‘q, lekin tegsa oson qonaydi",
+  "Dastlab odatiy emas va xavotirli: bu tabiiy, yengillashadi"
+ ],
+ "after": [
+  "Xaltani uchdan bir yoki yarmigacha to‘lganda bo‘shating",
+  "Yetarli suv iching, ayniqsa ileostomada",
+  "Ovqat va kiyim odatda deyarli har qanday bo‘lishi mumkin: o‘z holatingiz haqida shifokordan so‘rang",
+  "Og‘ir ko‘tarmang: bu churradan himoya qiladi"
+ ],
+ "red_flags": [
+  "Stoma qorayib, ko‘karib yoki qora bo‘lib qoldi: shoshilinch shifokorga yoki 103 ga qo‘ng‘iroq qiling",
+  "Qorinda kuchli og‘riq, qusish va axlat yo‘q: 103 ga qo‘ng‘iroq qiling",
+  "Stomadan kuchli qon ketishi",
+  "Juda suyuq axlat ko‘p marta, holsizlik, siydik kam: shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Stoma bilan dushda yuvinsa bo‘ladimi?",
+   "a": "Ha, xalta bilan ham, usiz ham. Suv stomaga kirmaydi."
+  },
+  {
+   "q": "Hid bo‘ladimi?",
+   "a": "Zamonaviy xaltalar hidni o‘tkazmaydi. Hid faqat almashtirishda yoki oqib ketganda bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ertalab kalopriyomnikni almashtirish. Xaltalar va plastinalar zaxirasini tekshiring."
+  }
+ ]
+}

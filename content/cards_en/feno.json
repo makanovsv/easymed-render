@@ -1,0 +1,72 @@
+{
+ "title": "Exhaled nitric oxide test (FeNO)",
+ "also": [
+  "FeNO test",
+  "exhaled nitric oxide",
+  "airway inflammation test",
+  "nitric oxide breath test"
+ ],
+ "what": "You breathe out slowly into a small device. It shows whether there is a certain type of inflammation in your airways.",
+ "why": "When asthma is suspected, and to check how well inhaler treatment is working.",
+ "duration": "usually 5 to 10 minutes; the result is given right away",
+ "tell_doctor": [
+  "Which inhalers and medicines you use",
+  "If you recently had a cold",
+  "If you smoke"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually do not eat or drink anything except water for 1 hour before. You are often asked to avoid nitrate-rich foods before the test, like beets and leafy salad. Check with the clinic."
+  },
+  {
+   "title": "Smoking",
+   "text": "Do not smoke on the day of the test."
+  },
+  {
+   "title": "Exercise",
+   "text": "No exercise for an hour before the test."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop your inhalers on your own. Tell your doctor when you last used them."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A list of your medicines and inhalers"
+ ],
+ "steps": [
+  "You sit by the device",
+  "You take a deep breath in through the mouthpiece",
+  "You breathe out slowly and evenly for about 10 seconds",
+  "A guide on the screen helps you keep the right force",
+  "It is usually repeated 2 to 3 times"
+ ],
+ "feel": [
+  "It does not hurt",
+  "Sometimes it is hard to breathe out evenly. The screen guide helps"
+ ],
+ "after": [
+  "The result is usually shown right away",
+  "Your doctor will explain it along with other tests",
+  "You can go back to your usual day right away"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Will the test show asthma?",
+   "a": "It shows inflammation in the airways. Your doctor makes the diagnosis together with other tests."
+  },
+  {
+   "q": "Can children do it?",
+   "a": "Yes, usually from age 5 or 6, if the child can breathe out evenly."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "FeNO test tomorrow. Do not smoke in the morning. Do not eat or exercise for an hour before the test."
+  }
+ ]
+}

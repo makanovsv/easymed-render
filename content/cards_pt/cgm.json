@@ -1,0 +1,83 @@
+{
+ "title": "Sensor de monitorização contínua de glicose",
+ "also": [
+  "sensor de glicose",
+  "sensor no braço para glicose",
+  "monitor contínuo de glicose",
+  "medidor de glicose sem picada",
+  "CGM"
+ ],
+ "what": "Um sensor pequeno fica preso na pele e mostra a glicose no celular ou num aparelho, dia e noite. É preciso furar o dedo muito menos.",
+ "why": "No diabetes, para ver a glicose o tempo todo, inclusive à noite.",
+ "duration": "a colocação leva alguns minutos; o sensor funciona normalmente de 1 a 2 semanas",
+ "tell_doctor": [
+  "Se a glicose fica baixa com frequência, principalmente à noite",
+  "Se a pele embaixo do adesivo fica irritada",
+  "Se você vai fazer ressonância, tomografia ou raio-X. Normalmente o sensor é retirado",
+  "Se os valores do sensor não batem com o glicosímetro"
+ ],
+ "prepare": [
+  {
+   "title": "Local",
+   "text": "Normalmente o braço ou a barriga, onde a bula indicar. Pele limpa, sem cicatrizes e pintas."
+  },
+  {
+   "title": "Pele",
+   "text": "Passe um lenço com álcool no local e espere secar. Não passe creme ali."
+  },
+  {
+   "title": "Celular",
+   "text": "Instale o aplicativo antes e veja se o celular está carregado."
+  },
+  {
+   "title": "Glicosímetro",
+   "text": "Não se desfaça do glicosímetro: ele é preciso quando o que você sente não bate com os números do sensor."
+  }
+ ],
+ "bring": [
+  "Sensor novo e aplicador",
+  "Lenços com álcool",
+  "Celular ou leitor",
+  "Glicosímetro"
+ ],
+ "steps": [
+  "Lave as mãos e confira a validade do sensor",
+  "Passe álcool na pele e espere secar",
+  "Prepare o aplicador conforme a bula",
+  "Encoste o aplicador na pele e aperte. O sensor fica preso",
+  "Tire o aplicador com cuidado e alise o adesivo",
+  "Conecte o sensor no aplicativo",
+  "Espere o tempo de aquecimento. Os primeiros números não aparecem na hora"
+ ],
+ "feel": [
+  "A picada quase não se sente",
+  "Nas primeiras horas você sente o sensor na pele. Depois acostuma"
+ ],
+ "after": [
+  "Cuidado para não arrancar o sensor com a roupa, nas portas e com a bolsa",
+  "Nadar e tomar banho normalmente pode. Confirme na bula",
+  "Se os números parecerem estranhos, meça com o glicosímetro",
+  "Mostre os gráficos ao médico. Ele ajusta o tratamento por eles"
+ ],
+ "red_flags": [
+  "Tremor, suor, confusão: meça a glicose e coma algo doce, mesmo que o sensor mostre normal",
+  "Vermelhidão, dor ou pus embaixo do sensor: tire e mostre ao médico",
+  "Pessoa desmaiada ou com convulsão: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Ainda preciso furar o dedo?",
+   "a": "Bem menos. Fura-se o dedo quando o que você sente não bate com os números ou quando o sensor pede."
+  },
+  {
+   "q": "Por que o sensor mostra números diferentes do glicosímetro?",
+   "a": "O sensor mede a glicose no líquido embaixo da pele e tem um atraso de alguns minutos. Uma pequena diferença é normal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã acaba o prazo do sensor. Deixe pronto um sensor novo e os lenços com álcool."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Vertebroplastia na fratura de vértebra",
+ "also": [
+  "vertebroplastia",
+  "cifoplastia",
+  "cimento na vértebra",
+  "fratura de vértebra por osteoporose"
+ ],
+ "what": "Por uma agulha grossa nas costas, injetam cimento ósseo na vértebra quebrada. Ele endurece e fortalece a vértebra.",
+ "why": "Para fratura por compressão da vértebra, na maioria das vezes por osteoporose, quando a dor não passa.",
+ "duration": "o procedimento leva normalmente de 30 a 60 minutos por vértebra; a internação costuma ser de 1 dia",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias, inclusive a remédios e iodo",
+  "Doenças do coração, do pulmão, dos rins ou diabetes",
+  "Se você ou alguém da família teve problema com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Exames de imagem",
+   "text": "É preciso ressonância ou tomografia da coluna. Por elas se escolhe a vértebra."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Normalmente anestesia local com sedação; às vezes, anestesia geral. Confirme na clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Imagens da ressonância ou da tomografia",
+  "Coisas para 1 dia"
+ ],
+ "steps": [
+  "No dia da cirurgia, você troca de roupa e recebe um acesso na veia",
+  "Você deita de barriga para baixo e recebe um calmante",
+  "A pele das costas é anestesiada",
+  "Guiada por raio-X, a agulha é colocada na vértebra",
+  "Por ela, injetam o cimento",
+  "A agulha é retirada e colocam um curativo no furo",
+  "Você fica deitado de costas enquanto o cimento endurece"
+ ],
+ "feel": [
+  "Pressão nas costas quando a agulha entra",
+  "O local do furo dói um pouco por 1 a 2 dias",
+  "Muitos sentem alívio da dor já nos primeiros dias"
+ ],
+ "after": [
+  "Normalmente pode levantar depois de algumas horas",
+  "Sem carregar peso e sem se abaixar de repente, conforme o médico orientar",
+  "Converse com o médico sobre o tratamento da osteoporose",
+  "Retorno conforme o plano"
+ ],
+ "red_flags": [
+  "Fraqueza ou dormência nas pernas: ligue para a emergência",
+  "Dor forte no peito ou falta de ar: ligue para a emergência",
+  "Febre acima de 38 graus ou vermelhidão no local do furo"
+ ],
+ "faq": [
+  {
+   "q": "O cimento fica para sempre?",
+   "a": "Sim. Ele passa a fazer parte da vértebra e não é absorvido."
+  },
+  {
+   "q": "Outras vértebras podem quebrar?",
+   "a": "Na osteoporose isso pode acontecer. Por isso é importante tratar a própria osteoporose."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o procedimento na coluna. Documentos, exames de imagem e lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

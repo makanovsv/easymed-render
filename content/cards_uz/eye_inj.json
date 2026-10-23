@@ -1,0 +1,81 @@
+{
+ "title": "Ko‘zga ukol (intravitreal inyeksiya)",
+ "also": [
+  "intravitreal kiritish",
+  "ko‘zga ukol",
+  "ko‘z ichiga dori kiritish"
+ ],
+ "what": "Shifokor juda ingichka igna bilan ko‘z ichiga dori kiritadi. Buning oldidan ko‘z tomchi bilan og‘riqsizlantiriladi.",
+ "why": "To‘r pardaning ba’zi kasalliklarida, masalan yoshga bog‘liq makulyar degeneratsiyada yoki diabetda to‘r parda o‘zgarishlarida.",
+ "duration": "ukolning o‘zi — bir necha soniya, hammasi birga odatda 20–40 daqiqa; ko‘pincha ukollar kursi kerak",
+ "tell_doctor": [
+  "Ko‘z yoki qovoqlarning qizarishi, ajralmasi, yallig‘lanishi",
+  "Qonni suyultiradigan preparatlar",
+  "Yod yoki tomchilarga allergiya",
+  "Homiladorlik",
+  "Yaqinda infarkt yoki insult bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Doimiy dorilarni o‘zingiz bekor qilmang — shifokordan so‘rang."
+  },
+  {
+   "title": "Kosmetika",
+   "text": "Ko‘z va yuz bo‘yanishisiz keling."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Ukoldan keyin rulga o‘tirish mumkin emas — hamroh bilan keling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Hamroh",
+  "Quyoshdan saqlovchi ko‘zoynak"
+ ],
+ "steps": [
+  "Ko‘z tomchi bilan og‘riqsizlantiriladi",
+  "Atrofdagi teri va ko‘z antiseptik bilan ishlanadi",
+  "Ko‘z pirpiratmasligi uchun qovoq kengaytirgich qo‘yiladi",
+  "Sizdan yon tomonga qarashni so‘rashadi",
+  "Shifokor ukol qiladi — bir necha soniya",
+  "Ko‘z yana ishlanadi, ko‘rish va bosim tekshiriladi"
+ ],
+ "feel": [
+  "Bosim seziladi, lekin odatda og‘riq emas",
+  "Antiseptik achishtirishi mumkin",
+  "Keyin — ko‘zda qum hissi, ba’zan ko‘rish maydonida dog‘lar yoki pufakchalar"
+ ],
+ "after": [
+  "Dastlabki kunlarda, shifokor aytganidek, ko‘zni ishqalamang va ho‘llamang",
+  "Oqlikdagi kichik qizil dog‘ odatda 1–2 haftada o‘zi o‘tadi",
+  "Ukoldan keyingi tomchilar — shifokor tayinlovi bo‘yicha",
+  "Keyingi ukollarga jadval bo‘yicha keling"
+ ],
+ "red_flags": [
+  "Og‘riq, qizarish kuchayadi, dastlabki kunlarda ko‘rish keskin tushadi — zudlik bilan oftalmologga",
+  "Ko‘zdan yiringli ajralma — zudlik bilan oftalmologga"
+ ],
+ "faq": [
+  {
+   "q": "Bu juda og‘riydimi?",
+   "a": "Odatda yo‘q. Ko‘z og‘riqsizlantiriladi, ukol soniyalar davom etadi."
+  },
+  {
+   "q": "Nechta ukol kerak?",
+   "a": "Ko‘pincha kurs, keyin qo‘llab-quvvatlovchi ukollar kerak. Jadvalni shifokor aytadi."
+  },
+  {
+   "q": "Ignani ko‘rish mumkinmi?",
+   "a": "Odatda faqat xira dog‘ni ko‘rasiz. Yon tomonga qarash kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ko‘zga ukol. Bo‘yanishsiz va hamroh bilan keling — ukoldan keyin rulga o‘tirish mumkin emas."
+  }
+ ]
+}

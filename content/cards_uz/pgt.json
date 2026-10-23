@@ -1,0 +1,74 @@
+{
+ "title": "Embrionlarni genetik tekshirish (PGT)",
+ "also": [
+  "PGT",
+  "PGD",
+  "EKO da embrionlar genetikasi",
+  "embrionlarni tekshirish"
+ ],
+ "what": "EKO paytida embriondan bir necha hujayra olinadi va ularning genlari yoki xromosomalari tekshiriladi. Bachadonga topilgan buzilishlarsiz embrion ko‘chiriladi.",
+ "why": "Oilada irsiy kasallik bo‘lganda, EKO yoki tushishlarda takroriy muvaffaqiyatsizliklarda, ba’zan onaning katta yoshida.",
+ "duration": "EKO siklining bir qismi; embrionlar tahlili odatda bir necha kundan bir necha haftagacha",
+ "tell_doctor": [
+  "Oilada qanday irsiy kasalliklar bor — genetik xulosalarni olib keling",
+  "Nechta homiladorlik, tushish va EKO urinishi bo‘lgan",
+  "Barcha dorilar va kasalliklar",
+  "Testdan nimani kutayotganingiz — shifokor u nima qila olishi va nima qila olmasligini tushuntiradi"
+ ],
+ "prepare": [
+  {
+   "title": "Genetik",
+   "text": "EKO dan oldin siz bilan shifokor-genetik gaplashadi. Bitta genni tekshirish uchun testni oldindan, ba’zan bir necha hafta tayyorlashadi."
+  },
+  {
+   "title": "Juftlik tahlillari",
+   "text": "Ko‘pincha ikkala hamkor qon topshiradi, ba’zan qarindoshlar ham — testni shular bo‘yicha sozlashadi."
+  },
+  {
+   "title": "EKO sikli",
+   "text": "Rag‘batlantirish, punksiya va ukollar — shifokor sxemasi bo‘yicha. O‘zingiz o‘zgartirmang."
+  }
+ ],
+ "bring": [
+  "Oilaning genetik xulosalari",
+  "Ikkala hamkorning hujjatlari",
+  "Oldingi EKO natijalari"
+ ],
+ "steps": [
+  "Siz oddiy EKO siklidan o‘tasiz: rag‘batlantirish va punksiya",
+  "Embrionlar laboratoriyada odatda 5–6 kun o‘sadi",
+  "Embriolog embrionning tashqi qavatidan bir necha hujayra oladi",
+  "Tahlil davom etayotganda embrionlar odatda muzlatiladi",
+  "Hujayralar genetik laboratoriyada tekshiriladi",
+  "Shifokor siz bilan natijani muhokama qiladi va ko‘chirish uchun embrionni tanlaydi"
+ ],
+ "feel": [
+  "Embrionlar tahlilini o‘zingiz sezmaysiz — uni laboratoriyada qilishadi",
+  "His-tuyg‘ular oddiy EKO dagidek: ukollar, punksiya, ba’zan qorin tortishi"
+ ],
+ "after": [
+  "Embrionni ko‘chirish odatda keyingi sikllardan birida",
+  "Test xavfni kamaytiradi, lekin to‘liq kafolat bermaydi — homiladorlik paytida shifokor o‘z tekshiruvlarini taklif qilishi mumkin",
+  "Mos embrionlar bo‘lmasligi ham bo‘ladi — shifokor keyingi rejani muhokama qiladi"
+ ],
+ "red_flags": [
+  "Punksiyadan keyin: kuchli qorin og‘rig‘i yoki dam bo‘lishi, nafas qisilishi, siydik oz — darhol shifokorga",
+  "Ko‘p qon ketishi yoki hushdan ketish — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Biopsiya embrionga zarar qilmaydimi?",
+   "a": "Hujayralar keyin yo‘ldoshga aylanadigan qavatdan olinadi. Embrion uchun xavf kichik hisoblanadi, batafsilini embriolog aytadi."
+  },
+  {
+   "q": "Bola jinsini tanlasa bo‘ladimi?",
+   "a": "Tibbiy sababsiz jinsni tanlashga odatda ruxsat berilmaydi. Test kasalliklardan qochish uchun kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga EKO bosqichi. Klinika bergan ukollar sxemasi va vaqtiga amal qiling."
+  }
+ ]
+}

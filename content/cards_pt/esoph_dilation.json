@@ -1,0 +1,79 @@
+{
+ "title": "Dilatação do esôfago",
+ "also": [
+  "dilatação esofágica",
+  "dilatação com balão do esôfago",
+  "dilatação de estenose",
+  "sondagem com velas"
+ ],
+ "what": "O médico alarga o trecho estreito do esôfago com dilatadores especiais ou com um balão. Depois, a comida passa com mais facilidade.",
+ "why": "Com estreitamento do esôfago depois de queimadura, refluxo, cirurgia ou radioterapia, e na acalasia, quando é difícil engolir.",
+ "duration": "o procedimento leva normalmente 20 a 40 minutos; muitas vezes são precisas várias sessões",
+ "tell_doctor": [
+  "Remédios que afinam o sangue",
+  "Há quanto tempo e quanto é difícil engolir",
+  "Cirurgias no esôfago e no estômago",
+  "Doenças do coração e dos pulmões",
+  "Problemas com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come por 6 a 8 horas. Se a comida fica parada no esôfago, o jejum pode ser maior. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. O que pular, o médico diz."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Depois da sedação, vá para casa com acompanhante."
+  }
+ ],
+ "bring": [
+  "Pedido médico e laudos anteriores",
+  "Documento de identidade",
+  "Lista de remédios",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Colocam um cateter na veia e aplicam a sedação",
+  "Você fica deitado do lado esquerdo com um bocal na boca",
+  "O médico examina o esôfago com o endoscópio",
+  "No local estreito passam o dilatador ou o balão",
+  "O estreitamento é esticado com cuidado, às vezes em várias etapas",
+  "O médico confere se não há machucados"
+ ],
+ "feel": [
+  "Com sedação, normalmente não se lembra do procedimento",
+  "Depois, dor na garganta ou atrás do osso do peito, normalmente leve",
+  "Engolir muitas vezes fica mais fácil já nos primeiros dias"
+ ],
+ "after": [
+  "Comece a beber e comer no tempo que o médico disser, primeiro líquidos e comida macia",
+  "Coma em pedaços pequenos e mastigue bem",
+  "Depois da sedação, não dirija até o fim do dia",
+  "Vá às próximas sessões, se estiverem marcadas"
+ ],
+ "red_flags": [
+  "Dor forte no peito, no pescoço ou na barriga: ligue para a emergência",
+  "Falta de ar, febre, vômito com sangue: ligue para a emergência",
+  "Fezes pretas, ou não consegue engolir nem água"
+ ],
+ "faq": [
+  {
+   "q": "Quantas sessões vou precisar?",
+   "a": "Depende do estreitamento. Às vezes uma basta, às vezes é preciso um ciclo. O médico diz."
+  },
+  {
+   "q": "O estreitamento vai voltar?",
+   "a": "Às vezes sim. Aí o procedimento é repetido. O médico orienta como diminuir o risco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a dilatação do esôfago. Depois do jantar não coma mais. Vá com um acompanhante."
+  }
+ ]
+}

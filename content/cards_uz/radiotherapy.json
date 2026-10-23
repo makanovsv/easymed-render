@@ -1,0 +1,79 @@
+{
+ "title": "Nur terapiyasi: kurs qanday o‘tadi",
+ "also": [
+  "nur terapiyasi",
+  "nurlantirish",
+  "radioterapiya",
+  "NT"
+ ],
+ "what": "Apparat aniq hisoblangan nurlarni o‘smaga yo‘naltiradi. Seans qisqa va og‘riqsiz, kurs esa bir necha hafta davom etadi.",
+ "why": "Onkologik kasalliklarda: yolg‘iz yoki operatsiya va kimyoterapiya bilan birga.",
+ "duration": "seans odatda 10–30 daqiqa, nurlantirishning o‘zi bir necha daqiqa; kurs bir necha kundan 6–8 haftagacha",
+ "tell_doctor": [
+  "Tanangizda yurak stimulyatori yoki boshqa qurilmalar bo‘lsa",
+  "Homiladorlik yoki u mumkin bo‘lsa",
+  "Avval nurlantirish olgan bo‘lsangiz",
+  "Barcha dorilar, vitaminlar va giyohlar",
+  "Qimirlamay yoki bir holatda yotish qiyin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Belgilash",
+   "text": "Kursdan oldin KT belgilash qilinadi, teriga belgilar qo‘yiladi. Ularni yuvib yubormang."
+  },
+  {
+   "title": "Teri",
+   "text": "Nurlantirish zonasidagi terini shifokor aytganidek parvarish qiling. Ruxsat bo‘lmasa, bu zonaga o‘z kremlaringizni surtmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Paxtadan yumshoq, keng kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Siz kiyimingizni almashtirib, stolga yotasiz",
+  "Sizni belgilar bo‘yicha o‘sha holatga yotqizishadi, ba’zan niqob yoki tirgak bilan",
+  "Xodimlar xonadan chiqib ketadi, lekin sizni ko‘radi va eshitadi",
+  "Apparat atrofingizda harakatlanadi, ba’zan g‘uvillaydi",
+  "Nurlantirish bir necha daqiqa davom etadi",
+  "Seansdan keyin darhol uyga ketasiz"
+ ],
+ "feel": [
+  "Seansning o‘zi sezilmaydi",
+  "Kurs o‘rtalariga kelib charchoq",
+  "Nurlantirish zonasidagi teri qizarishi va po‘stlashi mumkin",
+  "Boshqa reaksiyalar nurlantirish joyiga bog‘liq: shifokor aytib beradi"
+ ],
+ "after": [
+  "Tashqi nurlantirishdan keyin siz nur sochmaysiz: bolalarni quchoqlash mumkin",
+  "Shifokor bilan kelishmay seanslarni o‘tkazib yubormang",
+  "Suv iching, to‘liq ovqatlaning, dam oling",
+  "Nurlantirish zonasidagi terini ishqalamang, isitmang va quyoshda toblanmang"
+ ],
+ "red_flags": [
+  "Harorat 38 va undan yuqori",
+  "Nurlantirish zonasida teridagi ochiq yaralar yoki pufaklar",
+  "Ovqat yeya olmaydigan va suv ichmaydigan darajada kuchli og‘riq, qusish yoki ich ketishi"
+ ],
+ "faq": [
+  {
+   "q": "Seansdan keyin men radioaktiv bo‘lib qolamanmi?",
+   "a": "Yo‘q. Tashqi nurlantirishda siz nur sochmaysiz va yaqinlaringiz uchun xavfli emassiz."
+  },
+  {
+   "q": "Yuvinsa bo‘ladimi?",
+   "a": "Odatda ha, iliq suv va yumshoq vosita bilan. Nurlantirish zonasini ishqalamang: shifokordan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga nur terapiyasi seansi. Teridagi belgilarni yuvmang, yumshoq kiyim kiying."
+  }
+ ]
+}

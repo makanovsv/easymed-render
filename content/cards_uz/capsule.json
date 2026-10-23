@@ -1,0 +1,87 @@
+{
+ "title": "Kapsulali endoskopiya",
+ "also": [
+  "videokapsula",
+  "kamerali kapsula",
+  "ichakning kapsulali tekshiruvi"
+ ],
+ "what": "Siz yirik tabletkadek kapsulani yutasiz. Uning ichida kamera bor: kapsula ichak bo‘ylab o‘tayotganda ichakni ichkaridan suratga oladi.",
+ "why": "Oddiy FGDS va kolonoskopiya yetmaydigan ingichka ichakni ko‘rish uchun. Masalan, yashirin qon ketishda yoki sababi noma’lum kamqonlikda.",
+ "duration": "kapsulani bir daqiqada yutasiz, yozuv taxminan 8–12 soat davom etadi",
+ "tell_doctor": [
+  "Yutish qiyin bo‘lsa",
+  "Qorin operatsiyalari, ichak tutilishi yoki ichak torayishi bo‘lgan bo‘lsa",
+  "Yurak stimulyatori bo‘lsa",
+  "Barcha dorilar, ayniqsa temir preparatlari: nimani va qachon to‘xtatishni shifokor aytadi",
+  "Homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "Oldingi kun",
+   "text": "Odatda bir kun oldin yengil ovqat, kunduzi suyuq, po‘stli sabzavotlar, urug‘lar va danakli rezavorlarsiz."
+  },
+  {
+   "title": "Tozalash",
+   "text": "Ko‘pincha kolonoskopiya oldidagidek ichakni tozalovchi vosita buyuriladi. Klinika ko‘rsatmasi bo‘yicha iching."
+  },
+  {
+   "title": "Ochlik",
+   "text": "Odatda tekshiruvdan oldin 10–12 soat ovqat yemaslik kerak. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Paxtadan erkin kiyim: qoringa datchiklar yopishtiriladi yoki yozuv qurilmali kamar taqiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi FGDS va kolonoskopiya xulosalari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Qoringa datchiklar yopishtiriladi yoki kamar taqiladi",
+  "Kamarga kichik yozuv qurilmasi osiladi",
+  "Kapsulani suv bilan yutasiz",
+  "Uyga ketish yoki klinikada qolish mumkin, klinika qoidalariga qarab",
+  "Toza suvni odatda 2 soatdan, yengil ovqatni 4 soatdan keyin ruxsat etishadi",
+  "Kechqurun yoki 8–12 soatdan keyin yozuv qurilmasini topshirasiz"
+ ],
+ "feel": [
+  "Kapsulani yutish katta tabletkani yutishdek",
+  "Ichkarida uni sezmaysiz"
+ ],
+ "after": [
+  "Kapsula najas bilan o‘zi chiqib ketadi, odatda 1–3 kunda. Uni qidirish shart emas, u bir martalik",
+  "Kapsula chiqmaguncha MRT qilib bo‘lmaydi",
+  "Yozuv ketayotganda kuchli magnitlar va radio uzatgichlardan uzoq turing",
+  "Natija odatda bir necha kunda: shifokor minglab kadrlarni ko‘rib chiqadi"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq, dam bo‘lish, qusish",
+  "Gaz va najas chiqmasa, ayniqsa kapsula hali chiqmagan bo‘lsa"
+ ],
+ "faq": [
+  {
+   "q": "Kapsula chiqqandan keyin u bilan nima qilish kerak?",
+   "a": "Hech narsa. U bir martalik, uni qidirish shart emas. Chiqqanmi-yo‘qmi deb shubhalansangiz, shifokorga ayting."
+  },
+  {
+   "q": "Kapsula tiqilib qolishi mumkinmi?",
+   "a": "Kamdan-kam. Ko‘pincha ichak torayganda bo‘ladi. Shuning uchun ichak operatsiyalari va kasalliklari haqida oldindan shifokorga aytish muhim."
+  },
+  {
+   "q": "Kapsula kolonoskopiyani almashtiradimi?",
+   "a": "Odatda yo‘q. Kapsula asosan ingichka ichakni ko‘radi va tahlil uchun to‘qima parchasini ola olmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga kapsulali endoskopiya. Bugun yengil ovqat, tayyorgarlik klinika ko‘rsatmasi bo‘yicha."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Shu vaqtdan boshlab odatda tekshiruvgacha ovqat yemaydilar. Vaqtni klinika ko‘rsatmasi bo‘yicha aniqlashtiring."
+  }
+ ]
+}

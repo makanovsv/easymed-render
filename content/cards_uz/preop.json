@@ -1,0 +1,74 @@
+{
+ "title": "Operatsiyadan oldin anesteziolog ko‘rigi",
+ "also": [
+  "anesteziolog maslahati",
+  "operatsiyadan oldingi ko‘rik",
+  "anesteziolog bilan suhbat"
+ ],
+ "what": "Anesteziolog siz bilan tanishadi, sog‘lig‘ingiz haqida so‘raydi va operatsiya uchun eng xavfsiz og‘riqsizlantirishni tanlaydi.",
+ "why": "Narkoz, sedatsiya yoki spinal anesteziya ostida o‘tadigan har qanday operatsiya yoki muolajadan oldin.",
+ "duration": "odatda 15–30 daqiqa; ba’zan bir necha kun oldin, ba’zan bir kun oldin yoki operatsiya kuni",
+ "tell_doctor": [
+  "Barcha dori-darmonlar, vitamin va giyohlar ham",
+  "Allergiyalar",
+  "Yurak, o‘pka, buyrak kasalliklari, diabet",
+  "Xurrak otish, uyqudagi nafas to‘xtashlari",
+  "Sizda va qarindoshlaringizda oldingi narkozlar qanday o‘tgan",
+  "Olinadigan tishlar, qoplamalar, qimirlaydigan tishlar"
+ ],
+ "prepare": [
+  {
+   "title": "Ro‘yxat",
+   "text": "Dorilarni dozasi bilan va savollaringizni oldindan yozib oling."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Tahlillar, EKG, ko‘chirmalar va shifokor xulosalarini yig‘ing."
+  },
+  {
+   "title": "Savollar",
+   "text": "Narkoz qanday bo‘lishini, qachondan ovqat yemaslikni va ertalab dorilarni nima qilishni so‘rang."
+  }
+ ],
+ "bring": [
+  "Tahlillar va EKG",
+  "Ko‘chirmalar va shifokor xulosalari",
+  "Dorilar ro‘yxati",
+  "Hujjat"
+ ],
+ "steps": [
+  "Anesteziolog sog‘lig‘ingiz va oldingi operatsiyalar haqida so‘raydi",
+  "Yurak va o‘pkangizni tinglaydi, qon bosimini o‘lchaydi",
+  "Og‘iz va bo‘yinga qaraydi: uyquda nafas olish qanchalik qulay bo‘lishini baholaydi",
+  "Tahlillarni ko‘rib chiqadi, ba’zan qo‘shimcha tahlil buyuradi",
+  "Og‘riqsizlantirish turini taklif qiladi va xavflarni tushuntiradi",
+  "Qachondan ovqat va suv ichmaslikni, dorilarni nima qilishni aytadi",
+  "Siz anesteziyaga rozilik imzolaysiz"
+ ],
+ "feel": [
+  "Bu oddiy suhbat va qisqa ko‘rik, og‘riqsiz",
+  "Hayajonlanish tabiiy: xavotir olgan hamma narsani so‘rang"
+ ],
+ "after": [
+  "Ovqat va suv ichish mumkin bo‘lmagan vaqtni yozib qo‘ying",
+  "Dorilarni faqat shifokor aytganidek qiling",
+  "Operatsiyadan oldin kasal bo‘lib qolsangiz, klinikaga qo‘ng‘iroq qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Narkoz turini tanlash mumkinmi?",
+   "a": "O‘z xohishingizni aytishingiz mumkin. Yakuniy qarorni anesteziolog siz uchun eng xavfsiz variant bo‘yicha qabul qiladi."
+  },
+  {
+   "q": "Nega tishlar haqida aytish kerak?",
+   "a": "Qimirlaydigan tish yoki protez nafas olish naychasini qo‘yishga xalaqit berishi mumkin. Shifokor buni oldindan hisobga oladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga anesteziolog ko‘rigi. Tahlillar, EKG va dorilar ro‘yxatini oling, savollaringizni yozib qo‘ying."
+  }
+ ]
+}

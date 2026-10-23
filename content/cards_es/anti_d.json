@@ -1,0 +1,74 @@
+{
+ "title": "Inmunoglobulina anti-D",
+ "also": [
+  "inmunoglobulina anti-D",
+  "vacuna anti-Rh",
+  "inyección por Rh negativo",
+  "Rh negativo en el embarazo"
+ ],
+ "what": "Es una inyección para la mujer con Rh negativo. Protege al bebé de la incompatibilidad de Rh en este embarazo y en los siguientes.",
+ "why": "Si la mujer es Rh negativo y el bebé puede ser Rh positivo. Normalmente alrededor de la semana 28, después del parto y en otros casos según decida el médico.",
+ "duration": "la inyección tarda de 1 a 2 minutos; después te vigilan unos 30 minutos",
+ "tell_doctor": [
+  "Tu Rh y el de tu pareja, si lo sabes",
+  "Si antes te pusieron inmunoglobulina",
+  "Tus alergias, sobre todo a productos de la sangre",
+  "Si tuviste sangrado o golpes en el abdomen",
+  "Si tu análisis de sangre muestra anticuerpos"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Normalmente antes de la inyección revisan tu sangre para buscar anticuerpos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta preparación especial. Come como siempre."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda. La inyección normalmente es en el brazo o en el glúteo."
+  }
+ ],
+ "bring": [
+  "Tu carnet de control prenatal",
+  "El resultado del análisis de anticuerpos",
+  "Tu identificación"
+ ],
+ "steps": [
+  "El médico revisa tus análisis y las semanas de embarazo",
+  "La enfermera confirma tu nombre y el medicamento",
+  "Te pone la inyección en el músculo",
+  "Te quedas en la clínica media hora en vigilancia",
+  "Anotan la fecha de la inyección en tu carnet"
+ ],
+ "feel": [
+  "Un piquete breve",
+  "El lugar de la inyección puede doler un poco uno o dos días"
+ ],
+ "after": [
+  "Después de la inyección, el análisis de anticuerpos a veces puede salir positivo. Es lo esperado",
+  "Después del parto revisan el Rh en la sangre del bebé",
+  "Si el bebé es Rh positivo, normalmente te ponen otra inyección en las primeras 72 horas"
+ ],
+ "red_flags": [
+  "Ronchas, cara hinchada o dificultad para respirar: llama a emergencias",
+  "Sangrado o dolor de vientre en el embarazo"
+ ],
+ "faq": [
+  {
+   "q": "¿Para qué la inyección, si es mi primer embarazo?",
+   "a": "Protege este embarazo y los siguientes. El riesgo existe desde el primer embarazo."
+  },
+  {
+   "q": "¿La inyección es peligrosa para el bebé?",
+   "a": "Normalmente no. Se pone justamente para proteger al bebé."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen la inmunoglobulina anti-D. Lleva tu carnet de control prenatal."
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Uretrocistografia miccional na criança",
+ "also": [
+  "uretrocistografia miccional",
+  "UCM",
+  "cistografia",
+  "exame para refluxo vesicoureteral"
+ ],
+ "what": "Por um cateter fino, colocam contraste na bexiga e fazem raio-X enquanto a criança faz xixi. Assim se vê se a urina volta para os rins.",
+ "why": "Normalmente depois de infecções urinárias com febre ou se o ultrassom mostrou dilatação dos rins.",
+ "duration": "normalmente 30 a 60 minutos, o resultado sai no mesmo dia",
+ "tell_doctor": [
+  "Se agora há infecção urinária ou febre",
+  "Se a criança tem alergia a contraste ou remédios",
+  "Se a criança toma antibióticos",
+  "Se há alergia a látex"
+ ],
+ "prepare": [
+  {
+   "title": "Exame de urina",
+   "text": "Muitas vezes, antes do exame, é preciso um exame de urina recente sem infecção. Confirme com a clínica."
+  },
+  {
+   "title": "Antibiótico",
+   "text": "Às vezes o médico receita um antibiótico de prevenção. O esquema quem passa é o médico."
+  },
+  {
+   "title": "Conversa",
+   "text": "Explique com calma à criança o que vai acontecer. Pode levar o brinquedo preferido."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer como de costume."
+  }
+ ],
+ "bring": [
+  "Pedido médico e exame de urina",
+  "Roupa íntima e fralda para trocar",
+  "Um brinquedo ou desenho no celular",
+  "Documentos da criança"
+ ],
+ "steps": [
+  "A criança se deita na mesa do raio-X",
+  "Limpam a região genital com antisséptico",
+  "Pelo canal da urina colocam um cateter fino com gel",
+  "Pelo cateter enchem a bexiga devagar com contraste",
+  "Fazem imagens, depois pedem para a criança fazer xixi e fazem mais",
+  "Tiram o cateter"
+ ],
+ "feel": [
+  "Colocar o cateter é incômodo, a criança pode chorar",
+  "Vontade forte de ir ao banheiro",
+  "Fazer xixi deitado na mesa é estranho e dá vergonha"
+ ],
+ "after": [
+  "Hoje, deixe a criança beber mais líquido",
+  "Nas primeiras 1 a 2 vezes, pode arder um pouco ao fazer xixi",
+  "O laudo sai normalmente no mesmo dia. Quem decide é o médico"
+ ],
+ "red_flags": [
+  "Febre acima de 38 °C",
+  "Dor forte ao fazer xixi ou a criança não consegue fazer xixi",
+  "Sangue na urina por mais de um dia"
+ ],
+ "faq": [
+  {
+   "q": "Posso ficar perto da criança?",
+   "a": "Normalmente um dos pais pode ficar. Você recebe um avental de proteção."
+  },
+  {
+   "q": "Por que fazer xixi na mesa?",
+   "a": "A volta da urina muitas vezes aparece justamente durante o xixi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã a criança faz a uretrocistografia. Leve o exame de urina, roupa para trocar e um brinquedo."
+  }
+ ]
+}

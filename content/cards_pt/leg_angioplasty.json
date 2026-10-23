@@ -1,0 +1,83 @@
+{
+ "title": "Angioplastia com balão das artérias das pernas",
+ "also": [
+  "angioplastia de membros inferiores",
+  "angioplastia das pernas",
+  "stent nas artérias da perna",
+  "angioplastia com balão"
+ ],
+ "what": "Por um furo na artéria, levam um balão fino até o ponto estreito e o inflam. Às vezes colocam um stent, um tubinho de malha.",
+ "why": "Para estreitamento das artérias das pernas: dor ao caminhar, feridas no pé, perna fria.",
+ "duration": "o procedimento leva normalmente de 1 a 2 horas; a internação costuma ser de 1 a 2 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias, principalmente a iodo e contraste",
+  "Doenças dos rins e diabetes",
+  "Se você pode estar grávida",
+  "Se você fuma"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Contraste",
+   "text": "Se você tem doença nos rins, avise antes. O médico pode pedir um exame e orientar a beber água antes e depois."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. O médico vai dizer o que tomar antes e depois do procedimento."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para 1 a 3 dias no hospital"
+ ],
+ "steps": [
+  "Você troca de roupa e recebe um acesso na veia",
+  "Anestesiam o local do furo, na virilha ou no braço",
+  "Por uma artéria, levam um tubo fino",
+  "Injetam contraste e veem os vasos no raio-X",
+  "No ponto estreito, inflam o balão; às vezes colocam um stent",
+  "O tubo é retirado e colocam um curativo compressivo no furo"
+ ],
+ "feel": [
+  "O furo quase não se sente depois da anestesia",
+  "Calor pelo corpo quando o contraste entra. Isso é normal",
+  "Quando o balão é inflado, a perna pode doer por pouco tempo"
+ ],
+ "after": [
+  "Fique deitado algumas horas, sem dobrar a perna",
+  "Beba água para o contraste sair mais rápido, se o médico não restringiu",
+  "Remédios exatamente como receitados, principalmente os contra trombose",
+  "Caminhar conforme o médico orientar e parar de fumar ajudam os vasos"
+ ],
+ "red_flags": [
+  "O local do furo inchou, sangra muito ou dói",
+  "A perna ficou fria, pálida ou dormente: ligue para a emergência",
+  "Febre acima de 38 graus"
+ ],
+ "faq": [
+  {
+   "q": "O estreitamento pode voltar?",
+   "a": "Pode. Remédios, caminhada e parar de fumar ajudam. O médico vai dizer com que frequência fazer controle."
+  },
+  {
+   "q": "Dá para sentir o stent?",
+   "a": "Não. Ele fica dentro do vaso e não se sente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o procedimento nos vasos das pernas. Documentos, exames e lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

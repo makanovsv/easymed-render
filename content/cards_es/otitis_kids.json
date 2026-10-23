@@ -1,0 +1,79 @@
+{
+ "title": "Otitis en niños: tratamiento y seguimiento",
+ "also": [
+  "otitis en niños",
+  "dolor de oído en niños",
+  "infección de oído",
+  "otitis media"
+ ],
+ "what": "El médico revisa el oído del niño y decide cómo tratar la inflamación. Muchas veces es analgésico y vigilancia, a veces antibióticos.",
+ "why": "Cuando al niño le duele el oído, tiene fiebre, duerme mal, se toca el oído o le sale líquido.",
+ "duration": "la consulta suele durar de 15 a 30 minutos; la otitis normalmente se quita en unos días",
+ "tell_doctor": [
+  "Cuándo empezó el dolor y si hubo fiebre",
+  "Si le salió líquido del oído",
+  "Si antes ha tenido otitis y qué tan seguido",
+  "Qué medicamentos ya le dieron",
+  "Si el niño tiene alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Para el dolor",
+   "text": "Antes de la consulta puedes darle un medicamento para la fiebre para niños, en la dosis según su peso. Dile al médico qué le diste."
+  },
+  {
+   "title": "Gotas",
+   "text": "No le pongas nada en el oído sin que lo revisen, sobre todo si le sale líquido."
+  },
+  {
+   "title": "El niño",
+   "text": "Explícale que el médico va a ver su oído con una lamparita."
+  }
+ ],
+ "bring": [
+  "La identificación del niño",
+  "La lista de sus medicamentos",
+  "Un juguete",
+  "Las temperaturas que anotaste"
+ ],
+ "steps": [
+  "El médico pregunta por los síntomas",
+  "Revisa el oído con un otoscopio, una lamparita con un embudo",
+  "Revisa la garganta y la nariz",
+  "A veces revisa la audición",
+  "Explica el tratamiento y cuándo regresar"
+ ],
+ "feel": [
+  "La revisión no duele, pero con la inflamación puede molestarle al niño",
+  "El niño puede tener miedo. Cárgalo en tus brazos"
+ ],
+ "after": [
+  "Medicamentos exactamente como los indicó el médico",
+  "Si le dieron antibiótico, no lo suspendas antes de tiempo",
+  "No mojes el oído enfermo si le sale líquido",
+  "Revisión según el plan, aunque ya esté mejor",
+  "Si el líquido en el oído no se va, le revisan la audición"
+ ],
+ "red_flags": [
+  "Fiebre de más de 39 o que dura más de 2 o 3 días",
+  "Hinchazón y enrojecimiento detrás de la oreja, o la oreja se ve despegada",
+  "El niño está decaído, con dolor de cabeza fuerte, vómito o cuello rígido: llama a emergencias",
+  "Le sale sangre del oído o el pus no disminuye"
+ ],
+ "faq": [
+  {
+   "q": "¿Siempre se necesita antibiótico?",
+   "a": "No. Muchas otitis se quitan solas. El médico decide según la edad y los síntomas."
+  },
+  {
+   "q": "¿Puede salir a pasear con otitis?",
+   "a": "Si no tiene fiebre y se siente bien, normalmente sí. Pregúntale al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la consulta por el oído del niño. Anota qué medicamentos le diste y qué temperatura tuvo."
+  }
+ ]
+}

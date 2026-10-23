@@ -1,0 +1,71 @@
+{
+ "title": "Homiladorlikdan oldin irsiy kasalliklar tashuvchiligini skrining qilish",
+ "also": [
+  "homiladorlikdan oldin genetik test",
+  "tashuvchilik skriningi",
+  "juftlikni genetikaga tekshirish",
+  "tashuvchilik testi"
+ ],
+ "what": "Tahlil odamda o‘ziga zarar qilmaydigan, lekin bolaga o‘tishi mumkin bo‘lgan yashirin gen o‘zgarishi bor-yo‘qligini ko‘rsatadi. Odatda uni ikkala bo‘lajak ota-ona topshiradi.",
+ "why": "Homiladorlikni rejalashtirishda, oilada irsiy kasalliklar bo‘lgan bo‘lsa, juftlik qarindosh bo‘lsa, EKO oldidan.",
+ "duration": "qon olish odatda 5 daqiqa, natija odatda 2–4 haftada",
+ "tell_doctor": [
+  "Oilalarda irsiy kasalliklar yoki ular bilan kasallangan bolalar bo‘lganmi",
+  "Siz va sherigingiz qarindosh bo‘lsangiz",
+  "Allaqachon homilador bo‘lsangiz, muddatni",
+  "Sizga qon quyilgan yoki ilik ko‘chirib o‘tkazilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Maslahat",
+   "text": "Testga qaysi kasalliklar kirishini oldindan genetik shifokor bilan muhokama qilgan ma’qul."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qolish shart emas. Laboratoriyadan aniqlashtiring."
+  },
+  {
+   "title": "Sherik",
+   "text": "Kim birinchi topshirishini kelishib oling yoki birga topshiring: shunda juftlik uchun javob tezroq olinadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Ikkala sherikning hujjatlari",
+  "Oilalardagi kasalliklar haqida ma’lumot"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Teri antiseptik bilan artiladi",
+  "Qon venadan olinadi, ba’zan uning o‘rniga so‘lak yig‘ishadi",
+  "Sherik ham xuddi shunday qiladi",
+  "Namunalar genetik laboratoriyaga yuboriladi"
+ ],
+ "feel": [
+  "Oddiy qon tahlilidagidek qisqa sanchiq",
+  "Ba’zan yengil bosh aylanishi: hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Natija odatda 2–4 haftada",
+  "O‘zgarishlar tashuvchisi deyarli har bir odam bo‘lishi mumkin, bu normal",
+  "Bola uchun xavf ikkala sherik bir xil genda o‘zgarish tashisa paydo bo‘ladi",
+  "Shunday bo‘lsa, genetik shifokor variantlar haqida gapirib beradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Men tashuvchi bo‘lsam, kasalmanmi?",
+   "a": "Yo‘q. Tashuvchi odatda sog‘lom. O‘zgarish faqat kelajakdagi bolalar uchun muhim."
+  },
+  {
+   "q": "Juftlikdan bittasi topshirsa yetarlimi?",
+   "a": "Ba’zan bittasidan boshlashadi. Lekin bola uchun xavf haqida aniq javobni ikkalasining natijalari beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga homiladorlikdan oldin genetik tahlil. Ikkala sherikning hujjatlarini olib keling."
+  }
+ ]
+}

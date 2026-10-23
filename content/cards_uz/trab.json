@@ -1,0 +1,77 @@
+{
+ "title": "TTG retseptoriga antitanachalar",
+ "also": [
+  "TTG retseptoriga AT",
+  "rTTGga antitanachalar",
+  "AT-rTTG",
+  "Bazedov kasalligiga tahlil"
+ ],
+ "what": "Bu qalqonsimon bezni haddan tashqari kuchli ishlashga majbur qilishi mumkin bo‘lgan maxsus antitanachalarga qon tahlili.",
+ "why": "Qalqonsimon bez gormonlari yuqori bo‘lib, sababini tushunish kerak bo‘lganda. Shuningdek davolashni nazorat qilish va oldin qalqonsimon bezda muammo bo‘lgan homiladorlarda.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda 1–5 kunda",
+ "tell_doctor": [
+  "Qalqonsimon bez uchun qanday dorilar ichayotganingizni",
+  "Biotinli vitamin yoki BFQ ichsangiz — u natijani buzishi mumkin",
+  "Homilador bo‘lsangiz yoki homiladorlikni rejalashtirsangiz",
+  "Ilgari radioaktiv yod bilan davolangan yoki qalqonsimon bezda operatsiya bo‘lgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Ertalab topshirgan yaxshi. Ko‘p laboratoriyalar och qoringa kelishni maslahat beradi — oldindan so‘rang."
+  },
+  {
+   "title": "Biotin",
+   "text": "Biotin ichsangiz, tahlildan necha kun oldin tanaffus qilishni shifokordan so‘rang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — u tahlildan oldin biror narsani o‘zgartirish kerak-kerakmasligini hal qiladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqoriga oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "Qalqonsimon bez gormonlariga oldingi tahlillar",
+  "Qalqonsimon bez UZIsi xulosasi, agar bo‘lsa"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut bog‘lanadi va musht qilishni so‘rashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan biroz bosh aylanadi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Darrov ovqatlansa va odatdagi ishlariga qaytsa bo‘ladi",
+  "Natijani endokrinolog boshqa gormonlar bilan birga tushuntiradi"
+ ],
+ "red_flags": [
+  "Ukol joyi qattiq shishsa, og‘risa va qizarsa"
+ ],
+ "faq": [
+  {
+   "q": "Antitanachalar yuqori bo‘lsa — bu aniq Bazedov kasalligimi?",
+   "a": "Bu muhim belgi, lekin xulosani shifokor barcha tahlillar va ko‘rik asosida qiladi."
+  },
+  {
+   "q": "Bu tahlilni qayta topshirish kerakmi?",
+   "a": "Ba’zan ha — shifokor davolash paytida uni takrorlashi mumkin, qachon tugatishni hal qilish uchun."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga TTG retseptoriga antitanachalar tahlili. Ertalab kelgan yaxshi; biotin — shifokor bilan kelishilganidek."
+  }
+ ]
+}

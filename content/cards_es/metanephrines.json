@@ -1,0 +1,79 @@
+{
+ "title": "Metanefrinas en sangre y orina",
+ "also": [
+  "metanefrinas",
+  "normetanefrina",
+  "catecolaminas",
+  "prueba de feocromocitoma",
+  "metanefrinas en orina de 24 horas"
+ ],
+ "what": "Es un análisis de sangre u orina de sustancias que se forman a partir de las hormonas del estrés. Ayuda a encontrar tumores raros de las glándulas suprarrenales.",
+ "why": "Con crisis de presión alta junto con palpitaciones, sudoración y dolor de cabeza, o cuando encuentran algo en una glándula suprarrenal.",
+ "duration": "la toma de sangre dura unos minutos y la recolección de orina, 24 horas; el resultado suele estar en unos días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo para la presión, la depresión y el resfriado",
+  "Si tomas mucho café o bebidas energéticas",
+  "Si en tu familia hubo tumores de las suprarrenales",
+  "Si a veces tienes crisis de presión muy alta"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "Algunos medicamentos alteran el resultado. No los suspendas por tu cuenta: el médico te dirá si hay que cambiar alguno."
+  },
+  {
+   "title": "Comida y bebidas",
+   "text": "Normalmente un día antes se evitan el café, el té cargado, el alcohol y el cigarro. Muchas veces piden no comer plátano, nueces ni chocolate. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Sangre",
+   "text": "La sangre se toma en ayunas. Antes de la toma normalmente hay que estar acostado unos 20 a 30 minutos."
+  },
+  {
+   "title": "Orina de 24 horas",
+   "text": "La primera orina de la mañana no se junta. Después, durante 24 horas, orinas en un recipiente grande; la última vez es en la mañana del día siguiente. A veces el recipiente lleva un conservador: te lo da el laboratorio."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "El recipiente con la orina de 24 horas o una parte, como diga el laboratorio",
+  "Anotado el volumen total de orina del día"
+ ],
+ "steps": [
+  "Para la sangre te acuestas y te quedas tranquilo una media hora",
+  "La enfermera pone la liga y limpia la piel",
+  "Un piquete breve: la sangre llena el tubo",
+  "Para la orina, llevas toda la orina de 24 horas o una parte",
+  "El laboratorista anota el volumen y la hora de recolección"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "Juntar la orina de 24 horas no duele, pero no hay que olvidar ninguna vez"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Después del análisis puedes comer y beber como siempre",
+  "El médico valora el resultado. A veces se repite el análisis"
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y está rojo",
+  "Una crisis con presión muy alta, dolor de cabeza fuerte o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo tomar café antes del análisis?",
+   "a": "Normalmente no: la cafeína puede alterar el resultado. El laboratorio te dirá el tiempo exacto."
+  },
+  {
+   "q": "¿Y si se me pasó juntar una vez la orina?",
+   "a": "Habrá que empezar de nuevo; si no, el resultado no será exacto."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu análisis de metanefrinas. Desde hoy, sin café, alcohol ni cigarro. Los medicamentos, como dijo el médico."
+  }
+ ]
+}

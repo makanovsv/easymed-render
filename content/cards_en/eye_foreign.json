@@ -1,0 +1,78 @@
+{
+ "title": "Removing something from the eye",
+ "also": [
+  "something in my eye",
+  "foreign body in the eye",
+  "metal in the eye",
+  "eye debris removal"
+ ],
+ "what": "With numbing drops, the doctor finds and gently removes the particle from your eye. It usually takes a few minutes.",
+ "why": "When dust, a metal chip, or another particle gets into your eye and will not wash out.",
+ "duration": "usually 10 to 20 minutes",
+ "tell_doctor": [
+  "What got into your eye and when",
+  "If you were working with metal, a grinder, or wood",
+  "If you wear contact lenses",
+  "If you are allergic to any eye drops"
+ ],
+ "prepare": [
+  {
+   "title": "Do not rub",
+   "text": "Do not rub your eye. It can scratch the cornea."
+  },
+  {
+   "title": "Rinsing",
+   "text": "You can rinse your eye with clean water. Do not try to remove the particle with anything sharp."
+  },
+  {
+   "title": "Contact lenses",
+   "text": "If you have a lens in, take it out with clean hands if you can."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your glasses, if you wear them",
+  "Someone to go with you, if you cannot see well"
+ ],
+ "steps": [
+  "The doctor puts in numbing drops",
+  "The eye is checked under a microscope",
+  "Sometimes a dye is used to see scratches",
+  "The particle is removed with a moist swab or a fine tool",
+  "If a rust mark is left, it is removed too",
+  "Medicated drops or ointment are put in"
+ ],
+ "feel": [
+  "After the drops, it barely hurts",
+  "When the drops wear off, it may feel like sand in the eye and sting",
+  "The eye may water and be sensitive to light for a day or two"
+ ],
+ "after": [
+  "Use drops or ointment as the doctor said",
+  "Do not rub your eye or wear contact lenses until you are allowed",
+  "If needed, come back for a check the next day",
+  "Wear safety glasses when working with metal"
+ ],
+ "red_flags": [
+  "Pain does not go away or gets worse after a day",
+  "Worse vision",
+  "Pus or a white spot on the eye",
+  "If a fast-flying fragment hit the eye, see a doctor right away. Call emergency services if the injury is severe"
+ ],
+ "faq": [
+  {
+   "q": "Why shouldn't I rub my eye?",
+   "a": "The particle can scratch the cornea and go deeper."
+  },
+  {
+   "q": "Should I see a doctor if it seems to have washed out?",
+   "a": "Yes, if it still feels like something is there, the eye is red, or you see worse."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Do not rub your eye. If it still feels like something is in it, see an eye doctor."
+  }
+ ]
+}

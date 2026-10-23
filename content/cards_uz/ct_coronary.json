@@ -1,0 +1,88 @@
+{
+ "title": "KT-koronarografiya",
+ "also": [
+  "yurak KT-angiografiyasi",
+  "koronar arteriyalar MSKT’si",
+  "yurak tomirlari KT’si",
+  "noinvaziv koronarografiya"
+ ],
+ "what": "Venaga kontrast yuborilib, yurak tomirlarining kompyuter tomografida olingan suratlari. Torayishlar va pilakchalar bor-yo‘qligi ko‘rinadi.",
+ "why": "Ko‘krakda og‘riqlarda, yurak tomirlarini kateter qo‘ymasdan tekshirish uchun, yuklama testlari natijalari shubhali bo‘lganda.",
+ "duration": "kabinetda tayyorgarlik bilan odatda 20–40 daqiqa, suratning o‘zi bir necha soniya; tavsif 1–2 kunda",
+ "tell_doctor": [
+  "Yodga yoki kontrastga allergiya",
+  "Buyrak kasalliklari, qandli diabet va diabet dorilari",
+  "Yurak va bosim uchun ichayotgan preparatlar",
+  "Astma: ba’zan u pulsni sekinlashtiruvchi dori tanloviga ta’sir qiladi",
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Stentlar bo‘lsa yoki shuntlash qilingan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda 3–4 soat ovqat yemaslik kerak, suv ichish mumkin. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Qahva",
+   "text": "Tekshiruv kuni odatda qahva, kuchli choy va energetiklar ichmaslikni so‘rashadi: ular pulsni tezlashtiradi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘z dorilaringizni o‘zingiz bekor qilmang. Shifokorga ayting, u hal qiladi. Ba’zan suratdan oldin pulsni sekinlashtirish uchun tabletka berishadi."
+  },
+  {
+   "title": "Tahlil",
+   "text": "Ko‘pincha yangi kreatinin tahlili kerak bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Kreatinin tahlili",
+  "EKG va kardiolog xulosalari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Qo‘lingizdagi venaga kateter qo‘yishadi",
+  "Pulsni o‘lchaydilar; tez bo‘lsa, sekinlashtiruvchi dori berishadi",
+  "Ko‘krakka EKG elektrodlari yopishtiriladi",
+  "Ba’zan tomirlarni kengaytirish uchun til ostiga tabletka yoki sprey berishadi",
+  "Stolga yotasiz, buyruq bo‘yicha nafasni ushlashni o‘rganasiz",
+  "Kontrast yuboriladi va suratlar olinadi: bir necha soniya nafas olmaslik kerak",
+  "Suratdan keyin kateter olinadi"
+ ],
+ "feel": [
+  "Kateter qo‘yilishidan boshqa og‘rimaydi",
+  "Kontrastda tanada issiqlik to‘lqini va metall ta’mi",
+  "Til ostidagi spreydan bosh biroz og‘rishi mumkin"
+ ],
+ "after": [
+  "Kuzatuv ostida 15–30 daqiqa o‘tiring",
+  "Shifokor boshqacha demagan bo‘lsa, ko‘proq suv iching",
+  "Tavsif odatda 1–2 kunda: u bilan kardiologga boring"
+ ],
+ "red_flags": [
+  "Ko‘krakda siquvchi og‘riq 15 daqiqadan uzoq, nafas qisilishi, sovuq ter bo‘lsa, darhol 103 ga qo‘ng‘iroq qiling",
+  "Kontrastdan keyin qichishish, toshma, yuz shishi, nafas olish qiyin bo‘lsa, darhol xodimga ayting yoki 103 ga qo‘ng‘iroq qiling",
+  "Kateter joyi kuchli shishsa va og‘risa"
+ ],
+ "faq": [
+  {
+   "q": "KT’ni oddiy koronarografiya bilan almashtirsa bo‘ladimi?",
+   "a": "Bular har xil usullar. KT tomirlarni kateter qo‘ymasdan tekshiradi. Kuchli torayish topilsa, oddiy koronarografiya tayinlanishi mumkin."
+  },
+  {
+   "q": "Pulsni nega sekinlashtirish kerak?",
+   "a": "Yurak harakatlanadi. Puls sekin bo‘lsa, surat aniqroq chiqadi."
+  },
+  {
+   "q": "Ertalab qahva ichsa bo‘ladimi?",
+   "a": "Odatda yo‘q: u pulsni tezlashtiradi. Klinikadan aniqlashtiring."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga yurak tomirlari KT’si. Ertalab qahva va kuchli choysiz, kreatinin tahlili va dorilar ro‘yxatini oling."
+  }
+ ]
+}

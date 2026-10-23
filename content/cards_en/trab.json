@@ -1,0 +1,77 @@
+{
+ "title": "TSH receptor antibodies",
+ "also": [
+  "TRAb",
+  "TSH receptor antibody test",
+  "TSI test",
+  "Graves disease blood test"
+ ],
+ "what": "This blood test looks for special antibodies that can make your thyroid work too hard.",
+ "why": "When your thyroid hormones are high and the cause is not clear. Also to check treatment, and in pregnancy if you have had thyroid problems before.",
+ "duration": "the blood draw takes a few minutes; results usually come in 1 to 5 days",
+ "tell_doctor": [
+  "What thyroid medicines you take",
+  "If you take vitamins or supplements with biotin. It can affect the result",
+  "If you are pregnant or planning a pregnancy",
+  "If you had radioactive iodine treatment or thyroid surgery"
+ ],
+ "prepare": [
+  {
+   "title": "Timing",
+   "text": "Morning is best. Many labs advise coming on an empty stomach. Check ahead."
+  },
+  {
+   "title": "Biotin",
+   "text": "If you take biotin, ask your doctor how many days before the test to stop it."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Tell your doctor what you take. They will decide if anything needs to change before the test."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve you can easily roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID",
+  "Past thyroid hormone results",
+  "Your thyroid ultrasound report, if you have one"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "You can eat right away and go back to your usual day",
+  "An endocrinologist, a hormone doctor, will explain the result together with your other hormone tests"
+ ],
+ "red_flags": [
+  "The puncture site is very swollen, painful, and red"
+ ],
+ "faq": [
+  {
+   "q": "If the antibodies are high, does that mean Graves disease?",
+   "a": "It is an important sign, but the doctor decides based on all your tests and an exam."
+  },
+  {
+   "q": "Will I need to repeat this test?",
+   "a": "Sometimes, yes. The doctor may repeat it during treatment to decide when to stop."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "TSH receptor antibody test tomorrow. Morning is best. Follow what you agreed with your doctor about biotin."
+  }
+ ]
+}

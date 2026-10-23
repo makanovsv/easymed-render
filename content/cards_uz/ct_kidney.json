@@ -1,0 +1,72 @@
+{
+ "title": "Buyraklar KT’si (toshlar)",
+ "also": [
+  "buyrakdagi toshlarga KT",
+  "buyraklarning MSKT’si",
+  "siydik yo‘llari KT’si",
+  "buyraklarning past dozali KT’si"
+ ],
+ "what": "Buyraklar va siydik yo‘llarining tezkor qatlam-qatlam suratlari. Hatto juda kichik toshlar ham ko‘rinadi.",
+ "why": "Buyrak sanchig‘ida, siydikda qon bo‘lganda, toshlarga shubhada, toshlarni davolagandan keyin nazorat uchun.",
+ "duration": "kabinetda odatda 5–10 daqiqa; tavsif o‘sha kuni, sanchiqda esa tez",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Kontrastli tayinlangan bo‘lsa: yodga yoki kontrastga allergiya, buyrak kasalliklari va diabet bormi",
+  "Ilgari toshlar topilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Kontrastsiz",
+   "text": "Odatda kerak emas. Ba’zan siydik pufagi to‘la holda kelishni so‘rashadi: klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Kontrastli",
+   "text": "Odatda 3–4 soat ovqat yemaslik kerak, suv ichish mumkin; ko‘pincha kreatinin tahlili kerak."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qorin va belda metallsiz."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Buyraklarning oldingi UZI va KT’lari",
+  "So‘ralgan bo‘lsa, kreatinin tahlili"
+ ],
+ "steps": [
+  "Stolga yotasiz, laborant qulay yotishga yordam beradi",
+  "Stol apparatning keng halqasiga kiradi",
+  "Qimirlamaslik kerak, ba’zan buyruq bo‘yicha nafasni ushlash",
+  "Kontrastli bo‘lsa, u venaga yuboriladi va tanaffuslar bilan suratlar olinadi"
+ ],
+ "feel": [
+  "Og‘rimaydi, apparat sekin shovqin qiladi",
+  "Halqa keng, torlik deyarli yo‘q",
+  "Kontrastda tanada issiqlik va ichki kiyim ho‘l bo‘lgandek hissi. Bu normal va tez o‘tadi"
+ ],
+ "after": [
+  "Darhol ishlaringizga qaytishingiz mumkin",
+  "Shifokor cheklamagan bo‘lsa, suv iching",
+  "Tavsif: urologga"
+ ],
+ "red_flags": [
+  "Biqinda kuchli og‘riq o‘tmasa, harorat 38 dan yuqori, titroq yoki qusish bo‘lsa, 103 ga qo‘ng‘iroq qiling",
+  "Kontrastdan keyin qichishish, toshma, yuz shishi, nafas olish qiyin bo‘lsa, darhol xodimga ayting yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Toshlar uchun nega UZI emas, KT qilinadi?",
+   "a": "KT deyarli barcha toshlarni, hatto mayda bo‘lsa ham ko‘radi va o‘lchamini aniq ko‘rsatadi. UZI birinchi qilinadi, KT aniqlik uchun."
+  },
+  {
+   "q": "Nurlanish ko‘pmi?",
+   "a": "Toshlar uchun ko‘pincha kamaytirilgan doza ishlatiladi. Shifokor KT’ni foyda xavfdan ko‘p bo‘lganda tayinlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Tez orada buyraklar KT’si. Kontrastli bo‘lsa, 3–4 soat ovqat yemang, suv ichish mumkin."
+  }
+ ]
+}

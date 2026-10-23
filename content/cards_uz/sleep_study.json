@@ -1,0 +1,81 @@
+{
+ "title": "Uyquni tekshirish (polisomnografiya)",
+ "also": [
+  "polisomnografiya",
+  "PSG",
+  "somnografiya",
+  "apnoeni tekshirish"
+ ],
+ "what": "Tunda uyqu paytida nafas, qondagi kislorod, puls, miya ishi va harakatlar yozib olinadi. Tanaga datchiklar yopishtirishadi: hech narsa sanchilmaydi.",
+ "why": "Nafas to‘xtashlari bilan baland xurrakda, kunduzi kuchli uyquchanlikda, uyqusizlikda, uyquda g‘alati xulq-atvorda.",
+ "duration": "bir tun, odatda kechqurundan ertalabgacha",
+ "tell_doctor": [
+  "Qanday dori qabul qilasiz, ayniqsa uyqu dorilari va tinchlantiruvchilar",
+  "Yurak, o‘pka kasalliklari",
+  "Uyquda nafas olish uchun apparatingiz allaqachon bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Kunduzi",
+   "text": "Kunduzi uxlamang. Tushdan keyin kofe, kuchli choy va energetiklarsiz."
+  },
+  {
+   "title": "Alkogol",
+   "text": "Tekshiruv kuni alkogolsiz."
+  },
+  {
+   "title": "Tana",
+   "text": "Boshingizni yuvib keling, yuz va teriga lak, gel va krem surtmang. Erkaklarga: soqol bo‘lsa, qirib keling, klinikadan aniqlab oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Shifokor boshqacha aytmagan bo‘lsa, odatiy dorilaringizni doimgidek iching."
+  }
+ ],
+ "bring": [
+  "Qulay pijama",
+  "O‘z yostig‘ingiz, shunda yaxshiroq uxlasangiz",
+  "Kechki dorilar",
+  "Tish cho‘tkasi va ertalab uchun buyumlar",
+  "Yo‘llanma"
+ ],
+ "steps": [
+  "Kechqurun sizni palataga kuzatib borishadi",
+  "Hamshira bosh, yuz, ko‘krak va oyoqlarga datchiklar yopishtiradi",
+  "Burun ostiga ingichka naycha, barmoqqa kislorod datchigi qo‘yishadi",
+  "Siz odatdagidek uxlaysiz, yorug‘lik o‘chiriladi",
+  "Tunda yozuvni hamshira kamera orqali kuzatib turadi",
+  "Ertalab datchiklarni yechishadi"
+ ],
+ "feel": [
+  "Datchiklar bilan odatiy emas, lekin ular og‘rimaydi",
+  "Ko‘pchilik uxlay olmayman deb qo‘rqadi: natija uchun odatda uyqu yetadi",
+  "Hojatxonaga kerak bo‘lsa, hamshirani chaqiring: sizni uzib qo‘yishadi"
+ ],
+ "after": [
+  "Ertalab darhol uyga ketsangiz bo‘ladi",
+  "Yopishtiruvchi qoldiqlari suv bilan yuviladi",
+  "Natija odatda bir necha kunda: uni shifokor tahlil qiladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Uyquni tekshirishni uyda qilsa bo‘ladimi?",
+   "a": "Ha, apnoeni tekshirish uchun uy asboblari bor. Lekin ular kamroq yozadi: nima mosligini shifokor hal qiladi."
+  },
+  {
+   "q": "Klinikada uxlay olmasam-chi?",
+   "a": "Deyarli hamma uxlab qoladi. Natija uchun odatda bir necha soat uyqu yetadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "Bugun uyquni tekshirish. Kunduzi uxlamang, tushdan keyin kofesiz va alkogolsiz."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Pijama, kechki dorilar va ertalab uchun buyumlarni oling."
+  }
+ ]
+}

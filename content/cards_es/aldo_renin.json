@@ -1,0 +1,78 @@
+{
+ "title": "Aldosterona y renina",
+ "also": [
+  "relación aldosterona/renina",
+  "cociente aldosterona renina",
+  "renina",
+  "aldosterona"
+ ],
+ "what": "Es un análisis de sangre de dos sustancias que controlan la presión y la sal en el cuerpo.",
+ "why": "Cuando la presión está alta y baja poco con medicamentos, con potasio bajo en la sangre o cuando encuentran algo en una glándula suprarrenal.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en unos días",
+ "tell_doctor": [
+  "Todos tus medicamentos para la presión y diuréticos: muchos cambian el resultado",
+  "Si tomas anticonceptivos hormonales",
+  "Si tu potasio salió bajo en otros análisis",
+  "Si comes mucho regaliz u orozuz o tomas bebidas con él"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "Muchas pastillas para la presión afectan el análisis. El médico puede cambiarlas por otras con tiempo. No suspendas nada por tu cuenta."
+  },
+  {
+   "title": "Sal",
+   "text": "Come como siempre. No reduzcas la sal a propósito, si el médico no dijo otra cosa."
+  },
+  {
+   "title": "En la mañana",
+   "text": "Normalmente la sangre se toma en la mañana, después de estar unas dos horas de pie. Luego te piden sentarte unos minutos. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "La lista de todos tus medicamentos con sus dosis",
+  "Tus últimos análisis de potasio"
+ ],
+ "steps": [
+  "Te quedas sentado tranquilo unos minutos antes de la toma",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Toma tus medicamentos según el esquema que te dio el médico",
+  "El médico valora el resultado. A veces hacen falta pruebas adicionales"
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y está rojo",
+  "Dolor de cabeza fuerte, presión mucho más alta de lo normal o debilidad en un brazo o una pierna: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué el médico me cambia las pastillas antes del análisis?",
+   "a": "Algunos medicamentos para la presión alteran el resultado. El cambio es solo mientras dura el estudio."
+  },
+  {
+   "q": "¿Qué hago si me sube la presión después del cambio de pastillas?",
+   "a": "No regreses a los medicamentos anteriores por tu cuenta. Llama al médico y mídete la presión."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu análisis de aldosterona y renina. Medicamentos según el esquema del médico y sal como siempre. En la mañana, después de levantarte, no te vuelvas a acostar."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Infusão de terapia biológica",
+ "also": [
+  "terapia biológica",
+  "imunobiológico",
+  "medicamento biológico",
+  "soro de imunobiológico"
+ ],
+ "what": "Um remédio especial, que age de forma precisa numa parte da imunidade, é aplicado no soro pela veia. O procedimento é repetido em intervalos iguais.",
+ "why": "Na artrite reumatoide, doença de Crohn, retocolite ulcerativa, psoríase e outras doenças da imunidade.",
+ "duration": "o soro leva normalmente 1 a 3 horas com a observação; repete-se depois de algumas semanas, conforme o esquema",
+ "tell_doctor": [
+  "Febre, tosse, qualquer infecção agora",
+  "Tuberculose ou contato com ela, hepatites",
+  "Gravidez ou planos de engravidar",
+  "Vacinas ou cirurgias planejadas",
+  "Reações aos soros anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Investigação",
+   "text": "Antes de começar, normalmente se investiga tuberculose, hepatites e se fazem exames de sangue."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria os seus remédios de sempre."
+  },
+  {
+   "title": "Tempo",
+   "text": "Leve água, um lanche e algo para fazer por algumas horas."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Lista de remédios",
+  "Água, lanche, fones de ouvido"
+ ],
+ "steps": [
+  "A enfermeira mede a pressão, o pulso e a temperatura",
+  "Colocam um cateter na veia",
+  "Às vezes dão antes remédios contra alergia",
+  "Ligam o soro, e a velocidade aumenta aos poucos",
+  "A enfermeira acompanha como você está",
+  "Depois do soro você fica um pouco em observação"
+ ],
+ "feel": [
+  "O soro em si normalmente não dói",
+  "Às vezes dor de cabeça ou cansaço no dia do soro",
+  "Calor, coceira, manchas durante o soro: avise a enfermeira na hora"
+ ],
+ "after": [
+  "Normalmente pode voltar à rotina logo em seguida",
+  "Lave as mãos e evite contato com pessoas doentes",
+  "Vacinas de vírus vivo só depois de combinar com o médico",
+  "Vá ao próximo soro no prazo"
+ ],
+ "red_flags": [
+  "Falta de ar, inchaço no rosto, manchas na pele: ligue para a emergência",
+  "Febre de 38 °C ou mais, tosse: ligue para o médico",
+  "Qualquer infecção: avise o médico antes do próximo soro"
+ ],
+ "faq": [
+  {
+   "q": "Por que investigam tuberculose?",
+   "a": "O remédio diminui parte da defesa. Uma infecção escondida pode acordar, por isso ela é procurada antes."
+  },
+  {
+   "q": "Posso pular um soro?",
+   "a": "É melhor não pular. Se ficou doente ou algo atrapalha, ligue para o médico. Ele decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o soro de terapia biológica. Se tiver febre ou infecção, ligue para a clínica antes de ir."
+  }
+ ]
+}

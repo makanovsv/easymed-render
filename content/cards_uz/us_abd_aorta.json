@@ -1,0 +1,70 @@
+{
+ "title": "Qorin aortasi UZIsi",
+ "also": [
+  "aorta UZIsi",
+  "qorin aortasi UZDG",
+  "aorta anevrizmasi skrining"
+ ],
+ "what": "Shifokor ultratovush bilan qorindagi asosiy arteriyani ko‘radi. U kengaymagani va blyashkalar yo‘qligi ko‘rinadi.",
+ "why": "Katta yoshdagi erkaklarda va chekuvchilarda aorta kengayishini tekshirish uchun, qorinda pulsatsiya bo‘lsa, tomir kasalliklarida.",
+ "duration": "odatda 15–20 daqiqa, xulosa darrov",
+ "tell_doctor": [
+  "Chekasizmi yoki ilgari chekkanmisiz",
+  "Qarindoshlarda aorta kengayishi bo‘lganmi",
+  "Yuqori bosim, tomir kasalliklari",
+  "Qorin yoki tomirlarda operatsiyalar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa: 6–8 soat ovqatsiz. Klinikadan so‘rang."
+  },
+  {
+   "title": "Gazlar",
+   "text": "1–2 kun oldin qorinni shishiradigan mahsulotlar — karam, dukkaklilar, gazli ichimliklar kamroq."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qorinni ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi qorin UZI yoki KT",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Chalqancha yotasiz",
+  "Qoringa gel suriladi",
+  "Shifokor datchikni qorinning yuqorisidan kindikkacha yuritadi",
+  "Aorta kengligini bir necha joyda o‘lchaydi",
+  "Ba’zan oyoqlarga boruvchi tomirlar ham ko‘riladi"
+ ],
+ "feel": [
+  "Salqin gel, datchikning qoringa bosimi"
+ ],
+ "after": [
+  "Darrov ovqatlansa va ishlariga qaytsa bo‘ladi",
+  "Xulosa odatda darrov",
+  "Aorta kengaygan bo‘lsa, shifokor qanchalik tez-tez kuzatuvda bo‘lishni aytadi"
+ ],
+ "red_flags": [
+  "Qorin yoki belda to‘satdan kuchli og‘riq, holsizlik, hushdan ketish bo‘lsa — darrov tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Aortani kimlar tekshirishi kerak?",
+   "a": "Odatda katta yoshdagi erkaklar, ayniqsa chekuvchilar va oilasida kengayish bo‘lganlar."
+  },
+  {
+   "q": "Aorta kengaygan bo‘lsa nima bo‘ladi?",
+   "a": "Ko‘pincha uni shunchaki kuzatib, muntazam o‘lchab boriladi. Davolash kerak-kerakmasligini shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga qorin aortasi UZIsi. Odatda och qoringa: kechki ovqatdan keyin yemang. Suv ichsa bo‘ladi."
+  }
+ ]
+}

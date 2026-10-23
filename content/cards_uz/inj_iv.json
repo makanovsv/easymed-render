@@ -1,0 +1,68 @@
+{
+ "title": "Vena ichiga inyeksiya",
+ "also": [
+  "venaga ukol",
+  "vena ichiga ukol",
+  "v/i inyeksiya"
+ ],
+ "what": "Dori shprits bilan to‘g‘ridan-to‘g‘ri venaga, odatda tirsak bukilmasiga kiritiladi. U tez ta’sir qiladi.",
+ "why": "Dorini tez kiritish kerak bo‘lganda yoki u tabletkada va mushak ichiga ukolda ta’sir qilmasa — shifokor buyrug‘i bilan.",
+ "duration": "odatda 2–5 daqiqa",
+ "tell_doctor": [
+  "Dorilarga allergiyalar",
+  "Qonni suyultiruvchi dorilar",
+  "Oldin ukollarda o‘zingizni yomon his qilgan yoki hushdan ketgan bo‘lsangiz",
+  "Tomirlaringiz qiyin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Shifokor boshqacha aytmagan bo‘lsa, och bo‘lmasdan kelgan yaxshi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqoriga oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Shifokor buyrug‘i",
+  "Dori, agar o‘zingiz sotib olgan bo‘lsangiz"
+ ],
+ "steps": [
+  "O‘tirasiz yoki yotasiz",
+  "Tirsakdan yuqorida jgut bog‘lanadi",
+  "Teri antiseptik bilan artiladi",
+  "Hamshira venaga igna kiritadi",
+  "Jgut yechiladi va dori sekin yuboriladi",
+  "Igna olinadi, paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan dorining issiqligi yoki og‘izdagi ta’mi — hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Odatda ukoldan keyin 10–15 daqiqa o‘tirishni so‘rashadi",
+  "Kichik ko‘kargan joy bo‘ladi va o‘zi o‘tadi"
+ ],
+ "red_flags": [
+  "Yuz yoki lablar shishi, nafas olish qiyin, toshma, keskin holsizlik — tez yordamni chaqiring (103)",
+  "Qo‘l vena bo‘ylab qizarsa, shishsa va og‘risa"
+ ],
+ "faq": [
+  {
+   "q": "Nega dori sekin kiritiladi?",
+   "a": "Ko‘p dorilar tez kiritilsa, noxush his-tuyg‘ular beradi. Sekin — xavfsizroq."
+  },
+  {
+   "q": "Darrov ketsa bo‘ladimi?",
+   "a": "Odatda 10–15 daqiqa o‘tirishni so‘rashadi — shunda dori yomon ko‘tarilmasa ko‘rinadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada venaga ukol. Qulay yengli kiyim kiying va shifokor boshqacha aytmagan bo‘lsa, ovqatlaning."
+  }
+ ]
+}

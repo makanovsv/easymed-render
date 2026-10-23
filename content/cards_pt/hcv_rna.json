@@ -1,0 +1,73 @@
+{
+ "title": "PCR para hepatite C (carga viral)",
+ "also": [
+  "HCV-RNA",
+  "carga viral da hepatite C",
+  "PCR quantitativo para hepatite C",
+  "RNA do vírus da hepatite C"
+ ],
+ "what": "É um exame de sangue que procura o próprio vírus da hepatite C e mostra quanto dele há no sangue.",
+ "why": "Se acharam anticorpos contra a hepatite C, para saber se o vírus está presente agora. Também antes, durante e depois do tratamento.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Se você já tratou hepatite C e quando terminou",
+  "Quais remédios você toma agora",
+  "Se tem outras doenças do fígado ou HIV",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Jejum rigoroso normalmente não é necessário, mas é melhor ir 3 a 4 horas depois de uma refeição leve, sem gordura. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Se está em tratamento, continue tomando como orientado. Não pule comprimidos antes do exame."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Exames anteriores de hepatite C",
+  "O relatório do tratamento, se teve"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Até sair o resultado, use só a sua lâmina de barbear e a sua escova de dentes",
+  "O resultado é sigilo médico. Só você ou o médico recebem"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho"
+ ],
+ "faq": [
+  {
+   "q": "Tem anticorpo, mas não tem vírus. O que isso quer dizer?",
+   "a": "Muitas vezes quer dizer que você teve contato com o vírus no passado, mas agora ele não está presente. Quem confirma é o médico."
+  },
+  {
+   "q": "Hepatite C tem cura?",
+   "a": "Sim. Hoje ela normalmente é curada com comprimidos. O médico escolhe o tratamento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o PCR para hepatite C. De manhã, é melhor evitar comida gordurosa. Remédios como sempre."
+  }
+ ]
+}

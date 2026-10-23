@@ -1,0 +1,80 @@
+{
+ "title": "Umurtqa bo‘g‘imlarining radiochastotali denervatsiyasi",
+ "also": [
+  "radiochastotali ablyatsiya",
+  "fasetli bo‘g‘imlar denervatsiyasi",
+  "RCh-denervatsiya",
+  "belda asabni kuydirish"
+ ],
+ "what": "Shifokor ingichka igna bilan toki yordamida umurtqa bo‘g‘imlaridan og‘riqni uzatadigan mayda asablarni qizdiradi. Og‘riq kamayadi.",
+ "why": "Umurtqa bo‘g‘imlaridan bo‘ynda yoki belda uzoq davom etgan og‘riqda, sinov blokadasi yordam bergan bo‘lsa.",
+ "duration": "muolaja odatda 30–90 daqiqa, keyin kuzatuv taxminan bir soat",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar: shifokor qaysilarini va qachon to‘xtatishni aytadi",
+  "Yurak stimulyatori yoki tanadagi boshqa qurilmalar",
+  "Dorilar va kontrastga allergiya",
+  "Bir kun oldin harorat yoki infeksiya bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Sinov blokadasi",
+   "text": "Odatda avval sinov ukoli qilinadi. Og‘riq kamaygan bo‘lsa, denervatsiya qilinadi."
+  },
+  {
+   "title": "Rasmlar",
+   "text": "Umurtqaning MRT yoki KT rasmini oling."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda yengil ovqatlansa bo‘ladi. Sedatsiya bo‘lsa, vaqtni klinikadan aniqlab oling."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Sizni uyga kimdir olib ketishini so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va rasmlar",
+  "Hujjatlar",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Siz qorningizga yotasiz, muolaja bo‘ynda bo‘lsa, chalqancha",
+  "Terini artib, og‘riqsizlantirishadi",
+  "Rentgen nazoratida shifokor ingichka ignalarni asablarga yaqinlashtiradi",
+  "Joyni kuchsiz tok bilan tekshirishadi: chimirlash bo‘lishi mumkin",
+  "Igna uchini qizdirishadi, asab og‘riqni o‘tkazmay qo‘yadi",
+  "Ignalarni olib, plastir yopishtirishadi"
+ ],
+ "feel": [
+  "Og‘riqsizlantirish ukollari chimdiydi",
+  "Tekshirish paytida chimirlash yoki mushaklar tortishishi bo‘ladi",
+  "Muolajadan keyin bir necha kun yoki hafta o‘sha joyda kuyish yoki zirqiragan og‘riq"
+ ],
+ "after": [
+  "Bugun tinch kun, rulsiz",
+  "Ta’sir odatda 2–4 haftadan keyin keladi",
+  "Davolash badantarbiyasini davom ettiring: bu natijani saqlashga yordam beradi"
+ ],
+ "red_flags": [
+  "Harorat 38 dan yuqori, ukol joyida qizarish va shish",
+  "Qo‘l yoki oyoqda kuchayib boruvchi holsizlik yoki uvishish: shifokorga qo‘ng‘iroq qiling",
+  "Siydik qila olmaslik yoki ushlay olmaslik: 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Asab tiklanmaydimi?",
+   "a": "Vaqt o‘tishi bilan asab tiklanishi va og‘riq qaytishi mumkin. Shunda muolaja ba’zan takrorlanadi."
+  },
+  {
+   "q": "Bu harakat uchun xavfli emasmi?",
+   "a": "Faqat bo‘g‘imlardagi og‘riq uchun javob beradigan mayda asablar qizdiriladi. Oyoq va qo‘l mushaklari odatda zarar ko‘rmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bel muolajasi. Rasmlar va dorilar ro‘yxatini oling. Sizni uyga kimdir olib ketishini so‘rang."
+  }
+ ]
+}

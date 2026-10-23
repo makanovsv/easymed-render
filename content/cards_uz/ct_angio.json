@@ -1,0 +1,86 @@
+{
+ "title": "KT-angiografiya",
+ "also": [
+  "tomirlar KT’si",
+  "tomirlarning kontrastli KT’si",
+  "KT-koronarografiya"
+ ],
+ "what": "Tomirlarning kompyuter tomografiyasi. Venaga kontrast modda yuboriladi va apparat qon tomirlar bo‘ylab qanday oqayotganini ko‘rsatadigan suratlar oladi.",
+ "why": "Yurak, bosh, bo‘yin, o‘pka, oyoqlar yoki aorta tomirlarini tekshirish uchun: torayish, tiqilish yoki kengayishni topish.",
+ "duration": "tayyorgarlik bilan odatda 15–30 daqiqa, suratlarning o‘zi bir necha daqiqa",
+ "tell_doctor": [
+  "Kontrastga, yodga yoki har qanday dorilarga allergiya",
+  "Buyrak kasalliklari",
+  "Qandli diabet va uning dorilari: biror narsani o‘zgartirish kerakmi, shifokor hal qiladi",
+  "Qalqonsimon bez kasalliklari",
+  "Homiladorlik yoki ko‘krak bilan boqish",
+  "Astma"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlil",
+   "text": "Odatda oldindan kreatinin topshirishni so‘rashadi: bu buyraklar qanday ishlashini ko‘rsatadigan qon tahlili."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda tekshiruvdan 2–4 soat oldin ovqat yemaslik kerak. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Suv",
+   "text": "Oddiy suvni odatda ichish mumkin va hatto kerak: shunda kontrast tezroq chiqadi."
+  },
+  {
+   "title": "Yurak",
+   "text": "Yurak tomirlari ko‘riladigan bo‘lsa, odatda shu kuni qahva va kuchli choy ichmaslikni so‘rashadi. Ba’zan pulsni siyraklashtiruvchi dori berishadi: suratlar aniqroq bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Kreatinin tahlili",
+  "KT yoki MRT’ning oldingi suratlari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Metall buyumlarni yechasiz",
+  "Hamshira qo‘lingizdagi venaga kateter qo‘yadi",
+  "Apparat stoliga yotasiz",
+  "Kateter orqali kontrast yuboriladi",
+  "Stol apparat halqasi orqali o‘tadi",
+  "Bir necha soniya nafasni ushlab, qimirlamay turishni so‘rashadi"
+ ],
+ "feel": [
+  "Kontrast yuborilganda tanada issiqlik to‘lqini bo‘lishi mumkin",
+  "Ba’zan hojatga borgisi kelgandek tuyuladi: bu his tez o‘tadi",
+  "Og‘izda metall ta’mi bo‘lishi mumkin"
+ ],
+ "after": [
+  "Suratlardan keyin odatda 15–30 daqiqa o‘tirishni so‘rashadi: kontrastga reaksiya yo‘qligiga ishonch hosil qilish uchun",
+  "Kateter olinadi",
+  "Shifokor cheklamagan bo‘lsa, shu kuni ko‘proq suv iching",
+  "Xulosa odatda 1–2 kun ichida tayyor bo‘ladi"
+ ],
+ "red_flags": [
+  "Toshma, qichishish, yuz yoki lablar shishsa, nafas olish qiyin bo‘lsa, darhol xodimlarga ayting yoki 103 ga qo‘ng‘iroq qiling",
+  "Sanchilgan joyda kuchli shish, og‘riq yoki qizarish"
+ ],
+ "faq": [
+  {
+   "q": "KT uchun kontrast xavflimi?",
+   "a": "Odatda yaxshi ko‘tariladi. Kamdan-kam allergiya bo‘ladi, shuning uchun allergiyalar va buyrak kasalliklari haqida shifokorga oldindan aytish muhim."
+  },
+  {
+   "q": "KT-angiografiya oddiy koronarografiyadan nimasi bilan farq qiladi?",
+   "a": "KT’da kateter faqat qo‘ldagi venaga qo‘yiladi, suratlarni apparat oladi. Koronarografiyada ingichka nay arteriya orqali yurakka yetkaziladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga KT-angiografiya. Kreatinin tahlili, yo‘llanma va dorilar ro‘yxatini oling."
+  },
+  {
+   "hoursBefore": 4,
+   "text": "Odatda shu vaqtdan KT’gacha ovqat yemaydilar. Oddiy suv mumkin. Aniq vaqt: klinika aytganidek."
+  }
+ ]
+}

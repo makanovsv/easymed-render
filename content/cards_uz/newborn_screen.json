@@ -1,0 +1,68 @@
+{
+ "title": "Yangi tug‘ilgan chaqaloq skriningi (tovon)",
+ "also": [
+  "neonatal skrining",
+  "tovon testi",
+  "tovondan tahlil",
+  "chaqaloqlar skriningi"
+ ],
+ "what": "Chaqaloqning tovonidan maxsus blankaga bir necha tomchi qon olinadi. Tahlil darhol davolash muhim bo‘lgan kam uchraydigan tug‘ma kasalliklarni tekshiradi.",
+ "why": "Barcha yangi tug‘ilgan chaqaloqlarga — odatda tug‘ruqxonada hayotining 2–5-kunida, muddatidan oldin tug‘ilganlarda keyinroq bo‘lishi mumkin.",
+ "duration": "bir necha daqiqa, natija odatda 1–3 haftada",
+ "tell_doctor": [
+  "Chaqaloq muddatidan oldin tug‘ilgan yoki qon quyilgan bo‘lsa",
+  "Bola maxsus ovqatlanishda yoki tomchi infuziyada bo‘lsa",
+  "Aniq manzil va telefoningiz — qayta topshirish kerak bo‘lsa, shu orqali xabar berishadi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqatlantirish",
+   "text": "Tahlilni odatda ovqatlantirishdan bir necha soat o‘tgach olishadi. Hamshira vaqtni aytadi."
+  },
+  {
+   "title": "Issiqlik",
+   "text": "Issiq oyoqchalardan qon tezroq chiqadi — chaqaloqqa paypoqcha kiyg‘izing."
+  },
+  {
+   "title": "Siz yoningizda",
+   "text": "Chaqaloqni qo‘lingizda yoki yoningizda ushlab turishingiz mumkin — hamshiradan so‘rang."
+  }
+ ],
+ "bring": [
+  "Tahlil tug‘ruqxonada bo‘lmasa, chaqaloq va onaning hujjatlari",
+  "Qayta topshirish bo‘lsa, yo‘llanma"
+ ],
+ "steps": [
+  "Chaqaloq oyog‘i isitiladi va artiladi",
+  "Tovon kichik lantset bilan teshiladi",
+  "Qon tomchilari qog‘oz blankadagi doirachalarga tegiziladi",
+  "Teshilgan joyga paxta bosiladi",
+  "Blanka quritiladi va laboratoriyaga yuboriladi"
+ ],
+ "feel": [
+  "Chaqaloq yig‘lashi mumkin — sanchiq tez o‘tadi",
+  "Darhol keyin ko‘krak, so‘rg‘ich yoki quchoqlash tinchlantiradi"
+ ],
+ "after": [
+  "Tovondagi kichik iz bir necha kunda o‘tib ketadi",
+  "Hammasi joyida bo‘lsa, odatda hech kim qo‘ng‘iroq qilmaydi",
+  "Qayta topshirish kerak bo‘lsa, sizga qo‘ng‘iroq qilishadi — bu har doim ham kasallik degani emas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Sizga qo‘ng‘iroq qilib qayta topshirishni so‘rashdi — bu yomonmi?",
+   "a": "Shart emas. Qayta topshirish ko‘pincha blankada qon kam bo‘lgani yoki muddat erta bo‘lgani uchun kerak bo‘ladi. Iloji boricha tezroq qayta topshiring."
+  },
+  {
+   "q": "Bu tahlil qaysi kasalliklar uchun?",
+   "a": "Moddalar almashinuvi va gormonlarning bir necha kam uchraydigan tug‘ma kasalliklari uchun. Ularni erta davolasa, bola sog‘lom o‘sadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada chaqaloqning tovonidan tahlil. Oyoqchalari iliq bo‘lishi uchun paypoqcha kiyg‘izing."
+  }
+ ]
+}

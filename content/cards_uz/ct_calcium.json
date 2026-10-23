@@ -1,0 +1,65 @@
+{
+ "title": "Yurak kalsiy indeksi",
+ "also": [
+  "kalsiy-skoring",
+  "koronar kalsiy",
+  "yurak tomirlarida kalsiyni baholash",
+  "Agatston indeksi"
+ ],
+ "what": "Kontrastsiz yurakning qisqa KT’si. Yurak tomirlarida qancha kalsiy borligi o‘lchanadi: bu ateroskleroz izi.",
+ "why": "Shikoyatsiz odamlarda yurak kasalliklari xavfini baholash uchun, shifokor profilaktika haqida qaror qilganda.",
+ "duration": "kabinetda odatda 10–15 daqiqa, suratning o‘zi bir necha soniya; natija o‘sha kuni yoki ertasiga",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Stentlar allaqachon bo‘lsa yoki shuntlash qilingan bo‘lsa: bu tekshiruv mos kelmasligi mumkin",
+  "Puls tez yoki notekis bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Ukol kerak emas. Ovqatlanish va ichish mumkin."
+  },
+  {
+   "title": "Qahva",
+   "text": "Odatda shu kuni qahva va energetiklar ichmaslikni so‘rashadi. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Ko‘krakda metallsiz: suyakli ko‘krakcha va zanjirlarni yechgan ma’qul."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Xolesterin tahlillari natijalari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Ko‘krakka EKG elektrodlari yopishtiriladi",
+  "Chalqancha yotasiz, qo‘llar bosh orqasida",
+  "Stol apparat halqasiga kiradi",
+  "Bir necha soniya nafasni ushlash kerak: surat olinadi"
+ ],
+ "feel": [
+  "Og‘rimaydi, ukolsiz"
+ ],
+ "after": [
+  "Darhol ishlaringiz bilan ketishingiz mumkin",
+  "Natija: raqam, kalsiy indeksi. U bilan kardiolog yoki terapevtga boring"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nol nimani anglatadi?",
+   "a": "Yurak tomirlarida kalsiy topilmadi. Bu odatda yaqin yillarda xavf past ekanini ko‘rsatadi."
+  },
+  {
+   "q": "Kalsiy topilsa, bu infarktmi?",
+   "a": "Yo‘q. Bu tomirlardagi to‘planishlar belgisi. Profilaktika yoki qo‘shimcha tekshiruv kerakmi, shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga yurak kalsiyiga KT. Ertalab qahvasiz, metallsiz kiyim kiying."
+  }
+ ]
+}

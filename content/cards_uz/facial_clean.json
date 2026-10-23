@@ -1,0 +1,68 @@
+{
+ "title": "Kosmetologda yuz tozalash",
+ "also": [
+  "yuz tozalash",
+  "kosmetik tozalash",
+  "mexanik tozalash",
+  "ultratovush bilan tozalash"
+ ],
+ "what": "Kosmetolog yuz terisini iflosliklar va qora nuqtalardan tozalaydi. Tozalash qo‘lda, apparat bilan yoki aralash bo‘ladi.",
+ "why": "Yuzda kengaygan teshiklar, qora nuqtalar bo‘lsa, teri yog‘li yoki xira bo‘lsa.",
+ "duration": "odatda 60–90 daqiqa",
+ "tell_doctor": [
+  "Terida yallig‘lanish, toshma yoki labda shamollash bo‘lsa",
+  "Husnbuzarga qarshi dorilar yoki gormonlar ichsangiz",
+  "Yaqinda pilling yoki ukollar qilingan bo‘lsa",
+  "Kosmetikaga allergiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "Bir kun oldin",
+   "text": "Toblanmagan va skrab qilmagan ma’qul."
+  },
+  {
+   "title": "Teri",
+   "text": "Bo‘yanib kelsa bo‘ladi — uni olib tashlashadi, lekin bo‘yanishsiz yaxshiroq."
+  }
+ ],
+ "bring": [
+  "Alohida narsa shart emas",
+  "Xohlasangiz, o‘z soch rezinkangiz yoki obodingiz"
+ ],
+ "steps": [
+  "Teri kosmetikadan tozalanadi",
+  "Teri bug‘lantiriladi yoki yumshatuvchi vosita surtiladi",
+  "Kosmetolog qora nuqtalarni qo‘lqopli qo‘llar yoki apparat bilan olib tashlaydi",
+  "Teri tinchlantiruvchi vosita bilan ishlanadi",
+  "Oxirida — niqob va krem"
+ ],
+ "feel": [
+  "Qo‘lda tozalash noxush, joy-joyida og‘riqli bo‘lishi mumkin",
+  "Keyin — qizarish, odatda bir necha soatga"
+ ],
+ "after": [
+  "Birinchi kuni dekorativ kosmetikasiz bo‘lgan ma’qul",
+  "1–2 kun hammom, basseyn va skrabsiz",
+  "Yuzga qo‘l bilan tegmang",
+  "Quyoshdan saqlovchi kremdan foydalaning"
+ ],
+ "red_flags": [
+  "Ko‘p yiringchalar, kuchli shish yoki og‘riq 1–2 kundan keyin"
+ ],
+ "faq": [
+  {
+   "q": "Tozalashni qanchalik tez-tez qilish mumkin?",
+   "a": "Odatda oyiga bir martadan tez-tez emas. Terangizga qarab kosmetolog maslahat beradi."
+  },
+  {
+   "q": "Tozalashdan keyin nega toshib ketdi?",
+   "a": "Ba’zan 1–2 kun shunday bo‘ladi. Toshmalar ko‘p va og‘risa — kosmetologga ko‘rining."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga yuz tozalash. Bugun skrabsiz va toblanmasdan."
+  }
+ ]
+}

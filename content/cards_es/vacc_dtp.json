@@ -1,0 +1,76 @@
+{
+ "title": "Vacuna DPT (tos ferina, difteria, tétanos)",
+ "also": [
+  "DPT",
+  "vacuna contra la tos ferina",
+  "vacuna contra el tétanos",
+  "vacuna contra la difteria",
+  "pentavalente"
+ ],
+ "what": "Una inyección de vacuna combinada que protege de la tos ferina, la difteria y el tétanos. A los niños se les ponen varias dosis según el calendario.",
+ "why": "En niños, según el calendario nacional de vacunación; en adultos, refuerzo contra la difteria y el tétanos, normalmente cada 10 años.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Si el niño ahora está enfermo o tiene fiebre",
+  "Alergias y reacciones fuertes a vacunas anteriores",
+  "Si ha tenido convulsiones o enfermedades del sistema nervioso",
+  "Si el niño recibió hace poco productos de la sangre"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando el niño está sano. Antes de la inyección lo revisarán."
+  },
+  {
+   "title": "Calendario",
+   "text": "Pregunta al pediatra las fechas de todas las dosis del esquema."
+  },
+  {
+   "title": "Antifebril",
+   "text": "Pregunta al médico qué medicamento para la fiebre conviene tener en casa por si sube la temperatura."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La cartilla de vacunación",
+  "Un juguete favorito del niño"
+ ],
+ "steps": [
+  "El médico revisa al niño y le mide la temperatura",
+  "Tú sostienes al niño en brazos o en las piernas",
+  "Limpian la piel y ponen la inyección en el muslo o en el brazo",
+  "Se anota la vacuna en los documentos",
+  "Después de la inyección hay que quedarse unos 30 minutos en la clínica"
+ ],
+ "feel": [
+  "Un pinchazo corto: el niño puede llorar",
+  "A veces, 1 o 2 días de enrojecimiento y una dureza en el lugar de la inyección",
+  "A veces fiebre, mal humor y poco apetito"
+ ],
+ "after": [
+  "Quédate cerca del consultorio unos 30 minutos",
+  "En casa dale más líquidos y vístelo con ropa ligera",
+  "La siguiente dosis, según el calendario"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o sale sarpullido en todo el cuerpo: llama a emergencias",
+  "Convulsiones: llama a emergencias",
+  "Fiebre alta que no baja, o llanto continuo durante varias horas: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Es verdad que la DPT es una vacuna pesada?",
+   "a": "Las reacciones son más frecuentes que con otras, pero normalmente leves y pasan en 1 a 3 días."
+  },
+  {
+   "q": "¿Los adultos necesitan la vacuna del tétanos?",
+   "a": "Sí, el refuerzo normalmente se pone cada 10 años. Confírmalo con el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna DPT. Lleva la cartilla de vacunación. El niño debe estar sano."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Elektroretinografiya",
+ "also": [
+  "ERG",
+  "elektroretinogramma",
+  "to‘r pardani tok bilan tekshirish"
+ ],
+ "what": "Yorug‘lik chaqnashlariga qaraganingizda asbob to‘r pardaning kuchsiz elektr signallarini yozadi.",
+ "why": "Qorong‘ida ko‘rish pasayganda, to‘r pardaning irsiy kasalliklarida va oddiy ko‘rik yomon ko‘rishni tushuntirmaganda.",
+ "duration": "odatda 30–90 daqiqa, xulosa darhol yoki bir necha kunda",
+ "tell_doctor": [
+  "Kontakt linza taqsangiz",
+  "Qanday dorilar ichayotganingiz",
+  "Ko‘zlarda operatsiyalar bo‘lgan bo‘lsa",
+  "Epilepsiya bo‘lsa — chaqnashlar sababli"
+ ],
+ "prepare": [
+  {
+   "title": "Qorachiqlar",
+   "text": "Odatda qorachiqlarni kengaytirish uchun tomchi tomiziladi. Keyin bir necha soat hamma narsa xira ko‘rinadi."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Testdan keyin rulga o‘tirmang — sizni kimdir olib borsin."
+  },
+  {
+   "title": "Linzalar",
+   "text": "Kontakt linzalarni yeching. Qutisini o‘zingiz bilan oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Quyoshdan saqlovchi ko‘zoynak",
+  "Ko‘zoynak, agar taqsangiz",
+  "Hamroh"
+ ],
+ "steps": [
+  "Ko‘zlarga qorachiqni kengaytiruvchi tomchi tomiziladi",
+  "Ba’zan ko‘zlar ko‘nikishi uchun bir muddat qorong‘ida o‘tirasiz",
+  "Og‘riq qoldiruvchi tomchi tomiziladi",
+  "Ko‘z ustiga yoki ostiga elektrod qo‘yiladi",
+  "Yorug‘lik yonib-o‘chadigan asbobga qaraysiz",
+  "Elektrodlar olinadi"
+ ],
+ "feel": [
+  "Tomchi bir necha soniya achishtiradi",
+  "Ko‘zdagi elektrod odatiy emas, lekin og‘rimaydi",
+  "Chaqnashlar yorqin"
+ ],
+ "after": [
+  "Bir necha soat — xira ko‘rish va yorug‘likka sezgirlik",
+  "Tomchi ta’sir qilayotganda ko‘zlarni ishqalamang",
+  "Xulosa — darhol yoki bir necha kunda"
+ ],
+ "red_flags": [
+  "Ko‘zda kuchli og‘riq yoki ko‘rishning keskin yomonlashuvi",
+  "Ko‘z qattiq qizarib, bir kundan ortiq yoshlanyapti"
+ ],
+ "faq": [
+  {
+   "q": "Darhol rulga o‘tirsa bo‘ladimi?",
+   "a": "Yo‘q. Qorachiqlar bir necha soat kengaygan bo‘ladi — sizni olib borishsin."
+  },
+  {
+   "q": "Bu og‘riydimi?",
+   "a": "Yo‘q. Og‘riq qoldiruvchi tomchidan keyin elektrod deyarli sezilmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga elektroretinografiya. Testdan keyin mashina haydashni rejalashtirmang, quyoshdan saqlovchi ko‘zoynak oling."
+  }
+ ]
+}

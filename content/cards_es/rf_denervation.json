@@ -1,0 +1,80 @@
+{
+ "title": "Denervación por radiofrecuencia de las articulaciones de la columna",
+ "also": [
+  "ablación por radiofrecuencia",
+  "denervación de las facetas articulares",
+  "denervación por radiofrecuencia",
+  "quemar el nervio de la espalda"
+ ],
+ "what": "El médico, con una aguja delgada, calienta con corriente unos nervios pequeños que llevan el dolor de las articulaciones de la columna. El dolor disminuye.",
+ "why": "Con dolor largo en el cuello o la zona lumbar causado por las articulaciones de la columna, si un bloqueo de prueba ayudó.",
+ "duration": "el procedimiento suele durar de 30 a 90 minutos, y la observación después es de cerca de una hora",
+ "tell_doctor": [
+  "Medicamentos que adelgazan la sangre: el médico te dirá cuáles suspender y cuándo",
+  "Marcapasos u otros aparatos en el cuerpo",
+  "Alergias a medicamentos y al contraste",
+  "Fiebre o infección el día anterior"
+ ],
+ "prepare": [
+  {
+   "title": "Bloqueo de prueba",
+   "text": "Normalmente primero se pone una inyección de prueba. Si el dolor disminuyó, se hace la denervación."
+  },
+  {
+   "title": "Imágenes",
+   "text": "Lleva la resonancia o la tomografía de la columna."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer algo ligero. Si habrá sedación, confirma el horario en la clínica."
+  },
+  {
+   "title": "Traslado",
+   "text": "Pide a alguien que te lleve a casa."
+  }
+ ],
+ "bring": [
+  "La orden médica y las imágenes",
+  "Un documento de identidad",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas boca abajo, o boca arriba si es en el cuello",
+  "Te limpian la piel y te ponen anestesia",
+  "Con rayos X, el médico lleva agujas delgadas hasta los nervios",
+  "Revisan el lugar con una corriente débil: puede haber hormigueo",
+  "Se calienta la punta de la aguja y el nervio deja de conducir el dolor",
+  "Retiran las agujas y ponen una curita"
+ ],
+ "feel": [
+  "Los pinchazos de la anestesia arden un poco",
+  "Durante la revisión puede haber hormigueo o tirones en los músculos",
+  "Unos días o semanas después, ardor o dolor sordo en la zona del procedimiento"
+ ],
+ "after": [
+  "Hoy, día tranquilo y sin manejar",
+  "El efecto normalmente llega en 2 a 4 semanas",
+  "Sigue con los ejercicios de rehabilitación: ayudan a mantener el resultado"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38, enrojecimiento e hinchazón en el lugar de los pinchazos",
+  "Debilidad o adormecimiento que aumentan en un brazo o una pierna: avisa al médico",
+  "No puedes orinar o no controlas la orina: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿El nervio no se recupera?",
+   "a": "Con el tiempo el nervio puede recuperarse y el dolor volver. Entonces a veces se repite el procedimiento."
+  },
+  {
+   "q": "¿Afecta el movimiento?",
+   "a": "Solo se calientan nervios pequeños que dan el dolor de las articulaciones. Los músculos de las piernas y los brazos normalmente no se afectan."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes el procedimiento en la espalda. Lleva tus imágenes y la lista de medicamentos. Pide a alguien que te lleve a casa."
+  }
+ ]
+}

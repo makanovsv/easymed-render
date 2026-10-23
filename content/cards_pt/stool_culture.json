@@ -1,0 +1,78 @@
+{
+ "title": "Cultura de fezes para salmonela e shigella",
+ "also": [
+  "coprocultura",
+  "cultura de fezes",
+  "exame de salmonela",
+  "exame de fezes para trabalho"
+ ],
+ "what": "É um exame de fezes: no laboratório elas são cultivadas para achar bactérias intestinais perigosas e escolher o remédio certo.",
+ "why": "Com diarreia com febre, sangue ou muco. Também para a carteira de saúde de quem trabalha em cozinha ou com crianças. É um documento exigido para esses trabalhos.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 3 a 5 dias",
+ "tell_doctor": [
+  "Se tomou antibióticos nas últimas semanas",
+  "Se há sangue ou muco nas fezes",
+  "Se alguém próximo ficou doente",
+  "Se o exame é para o trabalho ou para a carteira de saúde"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Pegue um frasco estéril na farmácia ou no laboratório. Para fezes, com uma pazinha na tampa."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "É melhor fazer o exame antes de começar o antibiótico. Se já está tomando, não pare por conta própria. Avise o médico."
+  },
+  {
+   "title": "Coleta",
+   "text": "As fezes são colhidas de uma superfície limpa, não do vaso. Normalmente não se usa laxante ou supositório antes da coleta. Confirme com o médico."
+  },
+  {
+   "title": "Entrega",
+   "text": "As fezes frescas precisam chegar rápido, normalmente em umas duas horas. O prazo exato quem diz é o laboratório."
+  }
+ ],
+ "bring": [
+  "O frasco com as fezes",
+  "Pedido médico",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Forre o vaso ou o penico com um plástico ou papel limpo",
+  "Com a pazinha da tampa, pegue um pouco de fezes, de preferência com muco, se houver",
+  "Coloque no frasco e feche bem",
+  "Escreva o nome no frasco",
+  "Lave as mãos e leve logo ao laboratório"
+ ],
+ "feel": [
+  "Nada desagradável. É uma coleta de fezes comum",
+  "O principal é não demorar para levar ao laboratório"
+ ],
+ "after": [
+  "Na diarreia, beba líquidos várias vezes, aos pouquinhos",
+  "Se acharem uma bactéria, o laboratório mostra quais remédios funcionam contra ela",
+  "Quem indica o tratamento é o médico"
+ ],
+ "red_flags": [
+  "Sangue nas fezes, febre alta, dor forte na barriga: procure o médico no mesmo dia",
+  "Sinais de desidratação: boca seca, pouco xixi, fraqueza forte: procure o médico com urgência",
+  "Desmaio ou confusão: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que o resultado demora tanto?",
+   "a": "As bactérias primeiro precisam crescer no laboratório. Isso leva alguns dias."
+  },
+  {
+   "q": "Posso colher à noite e entregar de manhã?",
+   "a": "Normalmente é preciso fezes frescas. Se não tiver outro jeito, pergunte ao laboratório como guardar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz a cultura de fezes. Deixe pronto o frasco estéril e leve ao laboratório logo depois da coleta."
+  }
+ ]
+}

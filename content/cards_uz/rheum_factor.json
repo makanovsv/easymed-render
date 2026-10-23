@@ -1,0 +1,71 @@
+{
+ "title": "Revmofaktor va ATsTsP",
+ "also": [
+  "revmofaktor",
+  "RF",
+  "ATsTsP",
+  "anti-TsTsP",
+  "revmosinamalar"
+ ],
+ "what": "Bu venadan olinadigan qon tahlili. U bo‘g‘imlar yallig‘lanishida uchraydigan antitanalarni qidiradi.",
+ "why": "Bo‘g‘imlarda og‘riq, shish va ertalabki qotishda, ayniqsa kaft va oyoq panjalarida.",
+ "duration": "qon olish bir necha daqiqa, natija odatda 1–5 kunda",
+ "tell_doctor": [
+  "Qaysi bo‘g‘imlar og‘riydi va qachondan beri",
+  "Ertalab qo‘llar yarim soatdan uzoq qotib turadimi",
+  "Qanday dori qabul qilasiz, ayniqsa gormonlar va og‘riq qoldiruvchilar"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Ertalab och qoringa yaxshi: 8–12 soat ovqatsiz. Suv ichsa bo‘ladi. Laboratoriyadan aniqlab oling."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir kun oldin alkogolsiz va og‘ir mashqlarsiz. Ertalab chekmagan ma’qul."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima qabul qilayotganingizni shifokorga ayting: u biror narsani o‘zgartirish kerakligini hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Oldingi tahlillar va bo‘g‘im rasmlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Siz o‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsakdan yuqorini jgut bilan bog‘lashadi",
+  "Terini antiseptik bilan artishadi",
+  "Qisqa sanchiq: qon probirkaga olinadi",
+  "Ignani olishadi, joyga paxta bosishadi"
+ ],
+ "feel": [
+  "Chimdiganday qisqa sanchiq",
+  "Ba’zan yengil bosh aylanishi: hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darhol ovqatlanib, odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "Natija odatda 1–5 kunda: muddatni laboratoriyada aytishadi",
+  "Natijani revmatolog ko‘rik bilan birga baholaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Revmofaktor musbat bo‘lsa, bu revmatoid artritmi?",
+   "a": "Har doim emas. U sog‘lom odamlarda ham, boshqa kasalliklarda ham uchraydi. Tashxisni shifokor qo‘yadi."
+  },
+  {
+   "q": "Nega revmofaktor bilan birga ATsTsP ham topshiriladi?",
+   "a": "Birga ular aniqroq. ATsTsP ertaroq musbat bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga revmofaktor va ATsTsP tahlili. Kechki ovqatdan keyin boshqa ovqat yemang, oddiy suv ichsa bo‘ladi."
+  }
+ ]
+}

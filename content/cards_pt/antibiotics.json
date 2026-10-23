@@ -1,0 +1,74 @@
+{
+ "title": "Como tomar antibiótico do jeito certo",
+ "also": [
+  "como tomar antibiótico",
+  "tratamento com antibiótico",
+  "regras do antibiótico",
+  "uso de antibióticos"
+ ],
+ "what": "Os antibióticos matam bactérias. Eles não funcionam contra vírus, como os de resfriado e gripe.",
+ "why": "Quando o médico encontrou uma infecção por bactéria e receitou antibiótico.",
+ "duration": "o tratamento costuma durar alguns dias; o médico diz exatamente quantos",
+ "tell_doctor": [
+  "Alergia a antibiótico, se já teve",
+  "Todos os outros remédios: os antibióticos podem interagir com eles",
+  "Se está grávida ou amamentando",
+  "Doenças do fígado e dos rins"
+ ],
+ "prepare": [
+  {
+   "title": "Receita",
+   "text": "Tome só o antibiótico que o médico receitou para essa doença."
+  },
+  {
+   "title": "Horários",
+   "text": "Descubra quantas vezes por dia e por quantos dias tomar. Coloque lembretes."
+  },
+  {
+   "title": "Comida",
+   "text": "Alguns são tomados antes de comer, outros depois. Leia a bula ou pergunte ao médico."
+  }
+ ],
+ "bring": [
+  "Receita ou orientação do médico",
+  "Lista dos outros remédios"
+ ],
+ "steps": [
+  "Tome o antibiótico sempre nos mesmos horários",
+  "Tome com água pura",
+  "Tome pelo número de dias que o médico receitou",
+  "Não pare o tratamento por conta própria, mesmo que melhore",
+  "Se esqueceu uma dose, não tome dose dobrada: pergunte ao médico ou leia a bula",
+  "Não guarde as sobras para depois e não dê para ninguém"
+ ],
+ "feel": [
+  "A melhora costuma vir em 2 a 3 dias",
+  "Às vezes há diarreia ou enjoo"
+ ],
+ "after": [
+  "Durante o tratamento, não beba álcool",
+  "Se não melhorar em 2 a 3 dias, avise o médico",
+  "Se precisa de probiótico, pergunte ao médico"
+ ],
+ "red_flags": [
+  "Inchaço no rosto ou na garganta, dificuldade para respirar: ligue para a emergência",
+  "Manchas pelo corpo todo ou bolhas: procure o médico com urgência",
+  "Diarreia frequente com sangue: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Preciso de antibiótico no resfriado?",
+   "a": "Normalmente não. Resfriado é vírus. O médico decide."
+  },
+  {
+   "q": "Posso parar o tratamento se melhorei?",
+   "a": "Não por conta própria. A infecção pode voltar. Pergunte ao médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Hora do antibiótico. Com água pura, no horário."
+  }
+ ]
+}

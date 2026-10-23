@@ -40,9 +40,19 @@ S = {
                steps="진행 과정", feel="어떤 느낌일까요", dur="걸리는 시간", after="검사 후", red="이럴 때는 바로 의사에게 연락하세요",
                disclaimer="이 영상은 의사의 진료를 대신하지 않습니다. 항상 병원의 안내를 따르세요.",
                outro="EasyMed Global. 미리 알면 더 편안합니다. 새 영상을 놓치지 않도록 채널을 구독해 주세요."),
+    "hi": dict(kicker="क्या होगा", tell="डॉक्टर को ज़रूर बताएँ", prep="तैयारी कैसे करें", bring="साथ क्या लाएँ",
+               steps="जाँच कैसे होती है", feel="आपको क्या महसूस होगा", dur="कितना समय लगता है", after="जाँच के बाद",
+               red="तुरंत डॉक्टर से संपर्क करें, अगर",
+               disclaimer="यह वीडियो डॉक्टर की सलाह की जगह नहीं लेता। हमेशा अपने क्लिनिक के निर्देशों का पालन करें।",
+               outro="EasyMed Global. पहले से जानना, मन को शांत रखता है। नए वीडियो के लिए सब्सक्राइब करें।"),
+    "uz": dict(kicker="nima bo‘ladi", tell="Shifokorga albatta ayting", prep="Qanday tayyorlanish kerak", bring="O‘zingiz bilan nima olish kerak",
+               steps="Tekshiruv qanday o‘tadi", feel="Nimani his qilasiz", dur="Qancha vaqt oladi", after="Tekshiruvdan keyin",
+               red="Darhol shifokorga murojaat qiling, agar",
+               disclaimer="Bu video shifokor maslahatining o‘rnini bosmaydi. Doimo klinikangiz ko‘rsatmalariga amal qiling.",
+               outro="EasyMed Global. Oldindan bilish — xotirjamlik. Yangi videolarni o‘tkazib yubormaslik uchun obuna bo‘ling."),
 }
 
 VOICE = {"ru": "ru-RU-DmitryNeural", "en": "en-US-AndrewNeural", "kk": "kk-KZ-DauletNeural", "es": "es-MX-JorgeNeural",
          "pt": "pt-BR-AntonioNeural", "ar": "ar-SA-HamedNeural", "zh": "zh-CN-YunyangNeural", "ja": "ja-JP-KeitaNeural",
-         "ko": "ko-KR-InJoonNeural"}
+         "ko": "ko-KR-InJoonNeural", "hi": "hi-IN-MadhurNeural", "uz": "uz-UZ-SardorNeural"}
 LANGS = list(S)

@@ -1,0 +1,91 @@
+{
+ "title": "EKU: embrionni ko‘chirib o‘tkazish",
+ "also": [
+  "embrion o‘tkazish",
+  "embrionlarni ko‘chirish",
+  "krioperenos"
+ ],
+ "what": "Shifokor embrionni ingichka yumshoq naycha orqali bachadon bo‘shlig‘iga ko‘chiradi. Bu tez, kesishsiz va odatda uyqusiz bajariladi.",
+ "why": "Bu EKUning asosiy bosqichi: tuxum hujayralar olinib, urug‘lantirilgandan keyin embrion bachadonga joylanadi, shunda u yopishib olishi mumkin.",
+ "duration": "ko‘chirishning o‘zi odatda 5–15 daqiqa, klinikada — taxminan 1–2 soat",
+ "tell_doctor": [
+  "Ishlatayotgan barcha dori va gormonlaringiz",
+  "Qorin pastida og‘riq, dam bo‘lish yoki qonli ajralmalar paydo bo‘lgan bo‘lsa",
+  "Harorat yoki shamollash",
+  "Allergiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "Gormonlar",
+   "text": "Qo‘llab-quvvatlovchi preparatlarni shifokor sxemasiga qat’iy amal qilib davom ettiring. Hech narsani o‘zingiz o‘zgartirmang."
+  },
+  {
+   "title": "Qovuq",
+   "text": "Ko‘pincha o‘rtacha to‘la qovuq bilan kelishni so‘rashadi — shunda UTTda yaxshiroq ko‘rinadi. Qancha ichishni klinika aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda yengil nonushta mumkin. Sedatsiya rejalashtirilgan bo‘lsa — qancha ovqatlanmaslik kerakligini aniqlab oling."
+  },
+  {
+   "title": "O‘sha kuni",
+   "text": "Atir va hidi kuchli kosmetikasiz, qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Hujjatlar va shartnoma",
+  "Yo‘llanma va tahlil natijalari",
+  "Gormonal qo‘llab-quvvatlash sxemasi",
+  "Paypoq — kabinetda salqin bo‘lishi mumkin",
+  "Xohlasangiz, hamrohni"
+ ],
+ "steps": [
+  "Sizni kabinetga taklif qilishadi, ism va embrion ma’lumotlari solishtiriladi",
+  "Siz ginekologik kresloga yotasiz",
+  "Shifokor oddiy ko‘rikdagidek ko‘zgu kiritadi va bachadon bo‘ynini tozalaydi",
+  "Embriolog embrionli ingichka naychani uzatadi",
+  "Shifokor uni UTT nazorati ostida bachadonga o‘tkazadi va embrionni qo‘yib yuboradi",
+  "Embrion bachadonda qolganini naychani mikroskop ostida tekshirib aniqlashadi",
+  "Bir necha daqiqa yotib dam olasiz, keyin ketishingiz mumkin"
+ ],
+ "feel": [
+  "Odatda ginekolog ko‘rigi yoki surtmaga o‘xshaydi",
+  "Ba’zan qorin pastida yengil spazm",
+  "To‘la qovuq noqulaylik beradi — ko‘chirishdan keyin darrov hojatxonaga borishingiz mumkin, embrion tushib ketmaydi"
+ ],
+ "after": [
+  "Qat’iy yotish rejimi kerak emas — odatdagidek xotirjam hayot",
+  "Odatda hammom, issiq vanna va og‘ir yuklamalardan saqlanish maslahat beriladi — shifokordan aniqlab oling",
+  "Gormonal qo‘llab-quvvatlashni sxema bo‘yicha qat’iy davom ettiring",
+  "Homiladorlikka qon tahlili — odatda 9–14 kundan keyin, muddatni klinika aytadi",
+  "Muddatidan oldin uy testi xato ko‘rsatishi mumkin"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq, ko‘p qon ketishi, harorat — darrov shifokorga boring",
+  "Qorin kuchli dam bo‘lishi, nafas qisishi, vazn keskin ortishi, siydik kamayishi — shoshilinch shifokorga boring yoki 103 ni chaqiring"
+ ],
+ "faq": [
+  {
+   "q": "Embrion ko‘chirilgandan keyin yotish kerakmi?",
+   "a": "Yo‘q. Uzoq yotish homiladorlik ehtimolini oshirmaydi. Xotirjam rejim yetarli."
+  },
+  {
+   "q": "Hojatxonaga borsam, embrion tushib ketishi mumkinmi?",
+   "a": "Yo‘q. Embrion bachadon bo‘shlig‘ida bo‘ladi va qovuq bilan hech qanday bog‘liq emas."
+  },
+  {
+   "q": "Natija bo‘lganini qachon bilish mumkin?",
+   "a": "Odatda 9–14 kundan keyin XGCh qon tahlili bilan. Muddatidan oldingi test ko‘pincha noto‘g‘ri natija beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga embrion ko‘chiriladi. Gormonlarni sxema bo‘yicha davom ettiring. Hujjat va paypoqni oling."
+  },
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada ko‘chirish. Klinika so‘ragan bo‘lsa — qovuq o‘rtacha to‘la bo‘lishi uchun suv iching."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Flyusni ochish",
+ "also": [
+  "flyus",
+  "milkni kesish",
+  "milkdagi yiringlik",
+  "periostit"
+ ],
+ "what": "Shifokor milkda kichik kesim qilib, yiringni chiqaradi. Bu bosimni va og‘riqni kamaytiradi.",
+ "why": "Kasal tishda milk va yonoq shishi, og‘riq va yiring paydo bo‘lganda.",
+ "duration": "muolajaning o‘zi odatda 15–30 daqiqa",
+ "tell_doctor": [
+  "Og‘riqsizlantirishga yoki dorilarga allergiyangiz bo‘lsa",
+  "Qonni suyultiruvchi preparatlar ichsangiz",
+  "Diabet yoki yurak kasalliklari bo‘lsa",
+  "Homilador bo‘lsangiz",
+  "Shish qachon boshlangan va harorat bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Isitmang",
+   "text": "Yonoqqa issiq narsa qo‘ymang: bu yallig‘lanishni kuchaytirishi mumkin."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Oldindan ovqatlansa bo‘ladi, muolajadan bir necha soat keyin ham og‘riqsizlantirish ta’sir qilib turadi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘z dorilaringizni o‘zingiz bekor qilmang. Ichayotgan hamma narsani shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Tishning oldingi suratlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor tish va milkni ko‘radi, ko‘pincha surat oladi",
+  "Og‘riqsizlantiruvchi ukol qiladi",
+  "Milkda kichik kesim qiladi",
+  "Yiringni chiqaradi va bo‘shliqni yuvadi",
+  "Ba’zan oqib chiqishi uchun ingichka rezina qoldiradi",
+  "Tishning o‘zi bilan nima qilishni hal qiladi: darhol davolash yoki keyinroq"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol: qisqa og‘riq",
+  "Kesim paytida bosim, lekin og‘riq emas",
+  "Og‘riqsizlantirish o‘tgach 1–3 kun zirqiraydi, odatda oldingisidan yengilroq"
+ ],
+ "after": [
+  "Chayishlar va dorilar qat’iy shifokor tayinlaganidek",
+  "Yonoqni isitmang, yarani til bilan tegmang",
+  "Odatda 1–2 kundan keyin nazoratga kelishadi, rezina olinadi",
+  "Sabab bo‘lgan tishni albatta oxirigacha davolash yoki olib tashlash kerak: shifokor aytadi"
+ ],
+ "red_flags": [
+  "Shish kattalashib, bo‘yinga yoki ko‘z ostiga o‘tsa, 103 ga qo‘ng‘iroq qiling",
+  "Yutish, nafas olish yoki og‘izni ochish qiyin bo‘lsa, 103 ga qo‘ng‘iroq qiling",
+  "Harorat 38 dan yuqori saqlansa yoki ko‘tarilsa",
+  "2–3 kundan keyin yangi yiring va kuchli og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Flyusni uyda davolasa bo‘ladimi?",
+   "a": "Yo‘q. Yiringni chiqarish, tishni davolash kerak. Tabletkalar muammoni o‘zi hal qilmaydi."
+  },
+  {
+   "q": "Yonoqni nega isitib bo‘lmaydi?",
+   "a": "Issiqlik yallig‘lanishni kuchaytirib, yiringni tarqatishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada flyus bo‘yicha qabul. Yonoqni isitmang. Dorilar ro‘yxatini oling."
+  }
+ ]
+}

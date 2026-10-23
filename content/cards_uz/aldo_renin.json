@@ -1,0 +1,78 @@
+{
+ "title": "Aldosteron va renin",
+ "also": [
+  "ARN",
+  "aldosteron-renin nisbati",
+  "renin",
+  "aldosteron"
+ ],
+ "what": "Bu organizmdagi bosim va tuzni boshqaradigan ikki moddaga qon tahlili.",
+ "why": "Bosim yuqori bo‘lib, dorilar bilan yomon pasayganda, qondagi kaliy past bo‘lganda, buyrak usti bezidan topilma bo‘lganda.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda bir necha kunda",
+ "tell_doctor": [
+  "Bosim va siydik haydovchi dorilarning hammasi — ko‘pchiligi natijani o‘zgartiradi",
+  "Gormonal kontratseptivlar ichsangiz",
+  "Tahlillarda kaliy past bo‘lgan bo‘lsa",
+  "Qiyomli (shirinmiya) ko‘p yesangiz yoki u bilan ichimliklar ichsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Bosim uchun ko‘p tabletkalar tahlilga ta’sir qiladi. Shifokor ularni oldindan boshqalariga almashtirishi mumkin. O‘zingiz hech narsani bekor qilmang."
+  },
+  {
+   "title": "Tuz",
+   "text": "Odatdagidek yeng, shifokor boshqacha demagan bo‘lsa, tuzni maxsus cheklamang."
+  },
+  {
+   "title": "Ertalab",
+   "text": "Odatda qon ertalab, taxminan ikki soat oyoqda yurgandan keyin olinadi. Keyin bir necha daqiqa o‘tirishni so‘rashadi. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqori oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "Barcha dorilar ro‘yxati dozalari bilan",
+  "Kaliyga oxirgi tahlillar"
+ ],
+ "steps": [
+  "Qon olishdan oldin bir necha daqiqa tinch o‘tirasiz",
+  "Tirsakdan yuqoriga jgut bog‘lashadi va mushtni qisib-ochishni so‘rashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilaganday",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Dorilarni shifokor bergan sxema bo‘yicha iching",
+  "Natijani shifokor baholaydi — ba’zan qo‘shimcha sinamalar kerak bo‘ladi"
+ ],
+ "red_flags": [
+  "Ukol joyi qattiq shishdi, og‘riyapti va qizardi",
+  "Kuchli bosh og‘rig‘i, bosim odatdagidan ancha yuqori, qo‘l yoki oyoqda kuchsizlik — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Nega shifokor tahlildan oldin tabletkalarimni almashtiradi?",
+   "a": "Ba’zi bosim dorilari natijani buzadi. Almashtirish faqat tekshiruv vaqtiga kerak."
+  },
+  {
+   "q": "Tabletkalar almashtirilgandan keyin bosim ko‘tarilsa nima qilish kerak?",
+   "a": "Eski dorilarni o‘zingiz qaytarmang. Shifokorga qo‘ng‘iroq qiling va bosimni o‘lchab turing."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga aldosteron va renin tahlili. Dorilar — shifokor sxemasi bo‘yicha, tuz odatdagidek. Ertalab turgandan keyin yotmang."
+  }
+ ]
+}

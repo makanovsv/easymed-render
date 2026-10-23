@@ -1,0 +1,72 @@
+{
+ "title": "Exame médico do motorista antes da viagem",
+ "also": [
+  "exame pré-viagem",
+  "exame do motorista antes do turno",
+  "exame toxicológico de motorista",
+  "controle médico de motorista"
+ ],
+ "what": "É uma verificação rápida do motorista antes de sair: pressão, pulso e sobriedade. Na Rússia e no Cazaquistão, é feita antes de cada viagem.",
+ "why": "Para motoristas que dirigem veículos de uma empresa, antes de cada viagem ou turno.",
+ "duration": "normalmente de 3 a 5 minutos",
+ "tell_doctor": [
+  "Se está se sentindo mal, com dor de cabeça ou tontura",
+  "Se tomou remédios, principalmente calmantes, antialérgicos ou para tosse",
+  "Como dormiu"
+ ],
+ "prepare": [
+  {
+   "title": "Sono",
+   "text": "Durma bem antes da viagem."
+  },
+  {
+   "title": "Álcool",
+   "text": "Não beba na véspera. Até o álcool da noite anterior pode aparecer no aparelho de manhã."
+  },
+  {
+   "title": "Remédios",
+   "text": "Alguns remédios afetam os reflexos. Conte ao profissional de saúde o que toma, mas não pare por conta própria."
+  }
+ ],
+ "bring": [
+  "Documento de identidade ou crachá de trabalho",
+  "Folha de viagem",
+  "Óculos, se precisar para dirigir"
+ ],
+ "steps": [
+  "Você entra na sala do exame",
+  "O profissional pergunta como você está",
+  "Mede a pressão e o pulso",
+  "Você sopra no bafômetro",
+  "Às vezes testam os reflexos ou examinam",
+  "Se estiver tudo normal, carimbam a folha de viagem"
+ ],
+ "feel": [
+  "Tudo é rápido e não dói",
+  "Se estiver nervoso, a pressão pode subir um pouco; o profissional leva isso em conta"
+ ],
+ "after": [
+  "Com o carimbo, você pode sair para a viagem",
+  "Se não for liberado, não dirija e avise o seu chefe",
+  "Se se sentir mal no caminho, pare"
+ ],
+ "red_flags": [
+  "Dor no peito em aperto, fraqueza repentina ou fala enrolada: pare e ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "E se a pressão estiver alta?",
+   "a": "O profissional pode não liberar a viagem e encaminhar ao médico. É para a sua segurança."
+  },
+  {
+   "q": "O enxaguante bucal aparece no bafômetro?",
+   "a": "Às vezes sim. Espere um pouco e repita o teste; normalmente é assim que se faz."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Amanhã tem viagem. Durma bem e não beba álcool: de manhã é o exame médico antes da viagem."
+  }
+ ]
+}

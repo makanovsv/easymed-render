@@ -1,0 +1,51 @@
+{
+ "title": "Exokardiografiya (yurak UZIsi)",
+ "also": [
+  "ExoKG",
+  "yurak UZIsi",
+  "yurak exosi"
+ ],
+ "what": "Ultratovush yurakni harakatda ko‘rsatadi: kameralar va klapanlar qanday ishlayotgani, yurak qanchalik kuchli qisqarishi.",
+ "why": "Yurakda shovqin, nafas qisilishi, shishlar, yuqori qon bosimida, operatsiyalar va sportdan oldin.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Yurak yoki qon bosimi uchun qanday dorilar ichayotganingiz",
+  "Yurakda operatsiyalar bo‘lgan yoki klapanlar o‘rnatilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kerak emas. Ovqatlansangiz va ichsangiz bo‘ladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay: belgacha yechinishga to‘g‘ri keladi. Ayollarga — yaxlit bodisiz."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Avvalgi EKG va ExoKGlar, agar bo‘lsa"
+ ],
+ "steps": [
+  "Belgacha yechinib, chap yonboshga yotasiz",
+  "Ko‘kragingizga EKG elektrodlari yopishtiriladi",
+  "Gel surtiladi, datchik ko‘krakning turli joylariga qo‘yiladi",
+  "Ba’zan nafasni ushlab turishni so‘rashadi"
+ ],
+ "feel": [
+  "Datchik ko‘krakni bosadi — biroz noqulay, lekin og‘rimaydi",
+  "Qon oqimi tovushini eshitish mumkin — bu normal"
+ ],
+ "after": [
+  "Gel artiladi",
+  "Xulosa odatda darhol yoki o‘sha kuni"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "ExoKG EKGdan nimasi bilan farq qiladi?",
+   "a": "EKG yurakning elektr faoliyatini yozadi, ExoKG esa uning tuzilishi va harakatini ko‘rsatadi."
+  }
+ ],
+ "reminders": []
+}

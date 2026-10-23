@@ -1,0 +1,74 @@
+{
+ "title": "Tratamento da sarna",
+ "also": [
+  "sarna",
+  "escabiose",
+  "coceira à noite",
+  "ácaro da sarna",
+  "pomada para sarna"
+ ],
+ "what": "A sarna é uma doença de pele causada por um ácaro pequeno. A pele coça muito, principalmente à noite. Trata-se com pomada ou loção, normalmente a família toda de uma vez.",
+ "why": "Com coceira forte, principalmente à noite, e manchinhas entre os dedos, nos punhos e na barriga.",
+ "duration": "a consulta leva normalmente 15 a 20 minutos; o tratamento dura normalmente alguns dias, às vezes repete depois de uma semana",
+ "tell_doctor": [
+  "Há quanto tempo e onde coça",
+  "Se familiares ou pessoas próximas também têm coceira",
+  "Gravidez ou amamentação",
+  "Se é para tratar uma criança, a idade e o peso dela"
+ ],
+ "prepare": [
+  {
+   "title": "Família",
+   "text": "É preciso tratar todos que moram juntos, mesmo sem coceira. O médico diz."
+  },
+  {
+   "title": "Roupa de cama",
+   "text": "Separe roupa de cama limpa e roupas para trocar depois do tratamento."
+  },
+  {
+   "title": "Remédio",
+   "text": "O remédio e o esquema, o médico receita. Não trate com remédios caseiros."
+  }
+ ],
+ "bring": [
+  "Lista de remédios",
+  "Informações sobre pessoas próximas que também têm coceira"
+ ],
+ "steps": [
+  "O médico faz perguntas e examina a pele",
+  "Às vezes olha a pele com aumento ou raspa um pouquinho",
+  "Receita o produto e explica como passar",
+  "Em casa, o produto é passado no corpo todo, do pescoço aos calcanhares",
+  "Deixa-se pelo número de horas indicado",
+  "Depois se lava o corpo e se veste roupa limpa",
+  "A roupa de cama e as roupas são lavadas em água quente"
+ ],
+ "feel": [
+  "O exame não dói",
+  "A coceira pode durar mais 2 a 4 semanas depois do tratamento. Isso não quer dizer que o tratamento não funcionou"
+ ],
+ "after": [
+  "O que não dá para lavar normalmente fica guardado num saco fechado por alguns dias",
+  "Faça a segunda aplicação, se o médico receitou",
+  "Se depois de 2 a 4 semanas aparecerem manchas novas, volte à consulta"
+ ],
+ "red_flags": [
+  "Cascas, pus, inchaço da pele, febre: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Sarna é por sujeira?",
+   "a": "Não. Pega-se no contato próximo com alguém que tem sarna. A limpeza não protege totalmente."
+  },
+  {
+   "q": "Por que coça depois do tratamento?",
+   "a": "A pele ainda reage aos restos do ácaro. A coceira passa em algumas semanas. Se piorar, procure o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Hoje à noite é o tratamento da sarna. Separe roupa de cama e roupas limpas para toda a família."
+  }
+ ]
+}

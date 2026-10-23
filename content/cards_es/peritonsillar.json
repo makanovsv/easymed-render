@@ -1,0 +1,79 @@
+{
+ "title": "Drenaje de un absceso periamigdalino",
+ "also": [
+  "absceso periamigdalino",
+  "absceso en la garganta",
+  "flemón de amígdala",
+  "complicación de anginas"
+ ],
+ "what": "El médico abre la bolsa de pus que está junto a la amígdala y saca el pus. Esto quita rápido el dolor y la presión.",
+ "why": "Cuando después de unas anginas duele mucho la garganta de un lado y cuesta abrir la boca y tragar.",
+ "duration": "el procedimiento suele durar de 15 a 30 minutos; a veces hay que quedarse en el hospital unos días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida",
+  "Si eres alérgico a antibióticos o a la anestesia",
+  "Si tienes diabetes o enfermedades del corazón",
+  "Si te cuesta respirar, dilo de inmediato",
+  "Cuándo empezaron los síntomas"
+ ],
+ "prepare": [
+  {
+   "title": "Es urgente",
+   "text": "Es atención urgente. No dejes la consulta para después."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no se come antes del drenaje. Si es urgente, dile al médico cuándo comiste."
+  },
+  {
+   "title": "Cosas",
+   "text": "Lleva tus cosas por si te dejan en el hospital."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "La lista de tus medicamentos",
+  "Cosas para 1 a 3 días en el hospital"
+ ],
+ "steps": [
+  "El médico revisa tu garganta",
+  "A veces hace una punción de prueba o un ultrasonido",
+  "Duerme la garganta con spray y una inyección",
+  "Hace un corte pequeño y saca el pus",
+  "Lava la zona",
+  "Te indica antibióticos, muchas veces por la vena"
+ ],
+ "feel": [
+  "La anestesia arde",
+  "Durante el drenaje sientes presión y puede doler",
+  "Después del drenaje normalmente te sientes mejor rápido"
+ ],
+ "after": [
+  "Toma líquidos y come comida blanda y tibia",
+  "Gárgaras y medicamentos según las indicaciones",
+  "A veces vuelven a abrir la zona al día siguiente",
+  "Más adelante el médico puede hablar contigo sobre quitar las amígdalas"
+ ],
+ "red_flags": [
+  "Te cuesta respirar o el cuello está muy hinchado: llama a emergencias",
+  "No puedes tragar ni el agua",
+  "Sangre por la boca: llama a emergencias",
+  "Fiebre de más de 38 que no baja"
+ ],
+ "faq": [
+  {
+   "q": "¿El absceso se quita solo?",
+   "a": "Normalmente no. Hay que sacar el pus; si no, la infección se puede extender."
+  },
+  {
+   "q": "¿Me tienen que quitar las amígdalas?",
+   "a": "A veces sí, si el absceso vuelve a salir. Lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "No dejes la consulta para después. Si te cuesta respirar, llama a emergencias."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Diagnóstico molecular de alergia (ALEX, ImmunoCAP)",
+ "also": [
+  "diagnóstico molecular de alergia",
+  "diagnóstico por componentes",
+  "painel de alergia no sangue",
+  "IgE específica por componentes"
+ ],
+ "what": "É um exame de sangue que mostra a quais proteínas dos alérgenos o corpo reage. Muitos alérgenos são testados de uma vez.",
+ "why": "Quando os testes comuns não dão uma resposta clara, com alergia a muitos alimentos ou pólen, antes da vacina para alergia, e depois de reações graves.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em alguns dias, até 2 semanas",
+ "tell_doctor": [
+  "Ao que e como você reage. Anote antes",
+  "Se teve reações graves, inchaço ou desmaio",
+  "Se faz tratamento com alérgenos ou toma vacina para alergia",
+  "Quais remédios você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente é melhor fazer de manhã, 3 a 4 horas depois de uma refeição leve ou em jejum. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios para alergia",
+   "text": "Normalmente não afetam o exame de sangue. Não pare por conta própria. Pergunte ao médico."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Exames anteriores de alergia",
+  "Lista das reações: a quê, quando, com que força"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar",
+  "Explique à criança que vai ser só uma picada, sem testes na pele"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Quem explica o resultado é o alergista. Sozinho, ele ainda não é um diagnóstico",
+  "Não corte alimentos da dieta sem orientação do médico"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho"
+ ],
+ "faq": [
+  {
+   "q": "Posso fazer o exame durante uma crise?",
+   "a": "Pode. O exame de sangue pode ser feito tomando remédio para alergia e também durante uma crise."
+  },
+  {
+   "q": "O que esse exame tem de melhor que o comum?",
+   "a": "Ele mostra a qual proteína exata é a reação. Isso ajuda a entender o risco de reações graves e a escolher o tratamento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de sangue para alergia. Anote ao que você reage. Remédios para alergia como sempre."
+  }
+ ]
+}

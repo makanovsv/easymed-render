@@ -1,0 +1,78 @@
+{
+ "title": "Urografía excretora",
+ "also": [
+  "urografía intravenosa",
+  "urografía excretora",
+  "radiografía de riñones con contraste"
+ ],
+ "what": "Te ponen un contraste en la vena y toman varias radiografías. Se ve cómo los riñones eliminan la orina y cómo fluye por las vías urinarias.",
+ "why": "Con cálculos, dolores en la zona lumbar, sangre en la orina y anomalías de los riñones, cuando el médico elige este método.",
+ "duration": "normalmente de 30 a 60 minutos, a veces más; el informe, el mismo día",
+ "tell_doctor": [
+  "Si tienes alergia al yodo o al contraste",
+  "Si tienes enfermedades de los riñones, diabetes, enfermedades de la tiroides",
+  "Si tomas medicamentos para la diabetes; el médico dirá qué hacer",
+  "Si puedes estar embarazada o das pecho"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "A menudo antes del estudio hace falta un análisis de sangre de creatinina. Confírmalo en la clínica."
+  },
+  {
+   "title": "Intestino",
+   "text": "A veces el día anterior recomiendan una cena ligera y piden evitar alimentos que inflaman."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente en la mañana no comas. La hora exacta la dirá la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Si tomas medicamentos para la diabetes, pregunta al médico con anticipación."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "El análisis de creatinina",
+  "Radiografías y ultrasonidos anteriores",
+  "Identificación"
+ ],
+ "steps": [
+  "Te acuestas en la mesa de rayos X",
+  "Toman una primera radiografía sin contraste",
+  "Te ponen el contraste en la vena",
+  "A los pocos minutos toman una serie de radiografías",
+  "A veces te piden ir al baño y toman otra"
+ ],
+ "feel": [
+  "Al poner el contraste, calor por el cuerpo y sabor metálico en la boca",
+  "A veces parece que quieres ir al baño; es una sensación por el contraste"
+ ],
+ "after": [
+  "Toma más agua ese día, si el médico no lo limitó",
+  "El informe normalmente sale el mismo día",
+  "Habla del resultado con el urólogo"
+ ],
+ "red_flags": [
+  "Sarpullido, comezón, hinchazón de la cara, dificultad para respirar: avisa de inmediato al personal; en casa, llama a emergencias",
+  "Dolor o hinchazón en el sitio de la inyección",
+  "Orinas mucho menos"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué se diferencia de una tomografía de riñones?",
+   "a": "Es una radiografía con contraste. Ahora muchas veces se hace tomografía, pero a veces el médico elige la urografía."
+  },
+  {
+   "q": "¿Y si tengo alergia al yodo?",
+   "a": "Díselo al médico con anticipación. Él decidirá si se puede hacer y si hace falta preparación."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu urografía. Lleva el análisis de creatinina. La comida, como dijo la clínica; sobre los medicamentos para la diabetes, pregunta al médico."
+  }
+ ]
+}

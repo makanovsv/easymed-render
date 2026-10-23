@@ -1,0 +1,77 @@
+{
+ "title": "Consulta por ovario poliquístico (SOP)",
+ "also": [
+  "SOP",
+  "síndrome de ovario poliquístico",
+  "ovarios poliquísticos",
+  "regla irregular"
+ ],
+ "what": "El médico averigua por qué tu ciclo está alterado y revisa tus hormonas y ovarios. Luego elige un tratamiento según lo que buscas.",
+ "why": "Si tu regla viene poco o de forma irregular, tienes vello de más en el cuerpo, acné o te cuesta embarazarte.",
+ "duration": "la consulta suele durar de 30 a 40 minutos; los análisis normalmente están en unos días",
+ "tell_doctor": [
+  "Cómo es tu ciclo y cuándo fue tu última regla",
+  "Si quieres embarazarte",
+  "Si cambió tu peso",
+  "Si tú o algún familiar tiene diabetes",
+  "Qué medicamentos y hormonas tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Diario del ciclo",
+   "text": "Anota las fechas de tus reglas de los últimos meses."
+  },
+  {
+   "title": "Análisis",
+   "text": "Las hormonas normalmente se miden en ciertos días del ciclo. El médico te dirá cuáles."
+  },
+  {
+   "title": "Documentos",
+   "text": "Lleva tus análisis y ultrasonidos anteriores."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Tu diario del ciclo",
+  "Análisis y ultrasonidos anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tu ciclo y cómo te sientes",
+  "Mide tu estatura, peso y presión",
+  "Te revisa",
+  "Te da órdenes para análisis de hormonas y azúcar en la sangre",
+  "Pide un ultrasonido pélvico",
+  "En la siguiente consulta platica los resultados y el tratamiento"
+ ],
+ "feel": [
+  "Es una consulta normal, nada desagradable",
+  "El ultrasonido vaginal puede ser un poco incómodo"
+ ],
+ "after": [
+  "Hazte los análisis de la lista",
+  "Muchas veces se recomienda cuidar la alimentación y moverte más",
+  "El tratamiento se elige según lo que buscas: regular el ciclo o embarazarte",
+  "Hay que hacer revisiones con regularidad"
+ ],
+ "red_flags": [
+  "Sangrado fuerte: llama a emergencias",
+  "Dolor fuerte y repentino en el bajo vientre"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo embarazar con SOP?",
+   "a": "Sí. Muchas mujeres lo logran, a veces con ayuda de tratamiento."
+  },
+  {
+   "q": "¿Es para siempre?",
+   "a": "El SOP normalmente no se quita por completo, pero los síntomas se controlan bien."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta con el ginecólogo. Lleva las fechas de tus reglas y tus análisis anteriores."
+  }
+ ]
+}

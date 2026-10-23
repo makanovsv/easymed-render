@@ -1,0 +1,64 @@
+{
+ "title": "Bo‘g‘imlar rentgeni",
+ "also": [
+  "bo‘g‘im surati",
+  "bo‘g‘im rentgenografiyasi",
+  "tizza rentgeni",
+  "yelka rentgeni"
+ ],
+ "what": "Bo‘g‘imning rentgen surati. Suyaklar, bo‘g‘im oralig‘i, sinishlar va yeyilish belgilari ko‘rinadi.",
+ "why": "Jarohatdan keyin, bo‘g‘imda og‘riq, shish, g‘ijirlash va harakat cheklanganida, davolashdan keyin nazorat uchun.",
+ "duration": "xonada odatda 5–15 daqiqa; tavsif o‘sha kuni yoki ertasi kuni",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Bo‘g‘imda protez, plastina yoki vintlar bo‘lsa",
+  "Bo‘g‘imni bukish yoki yozish qiyin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Surat joyidagi taqinchoqlar va metalli narsalarni yeching. Ba’zan kiyim almashtirish so‘raladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Shu bo‘g‘imning oldingi suratlari — solishtirish uchun"
+ ],
+ "steps": [
+  "Bo‘g‘imni kiyim va taqinchoqlardan bo‘shatasiz",
+  "Laborant bo‘g‘imni kerakli holatga qo‘yadi",
+  "Odatda turli tomondan ikkita surat olinadi",
+  "Ba’zan ikkala bo‘g‘im yoki yuklama bilan — tik turib olinadi",
+  "Har safar bir necha soniya qimirlamay turish kerak"
+ ],
+ "feel": [
+  "Og‘rimaydi, suratning o‘zi soniyaning ulushi",
+  "Ba’zan noqulay holatga ozgina chidash kerak",
+  "Yangi jarohatda joylashtirish og‘riqli bo‘lishi mumkin — laborantga ayting"
+ ],
+ "after": [
+  "Darrov ishlaringizga ketsangiz bo‘ladi",
+  "Surat va tavsif bilan — travmatolog yoki ortopedga"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Rentgenda bog‘lamlar va menisk ko‘rinadimi?",
+   "a": "Yo‘q, rentgen suyaklarni ko‘rsatadi. Bog‘lamlar va menisklar MRT yoki UZIda yaxshiroq ko‘rinadi."
+  },
+  {
+   "q": "Nega sog‘ bo‘g‘imni ham suratga olishadi?",
+   "a": "Ba’zan og‘riyotgani bilan solishtirish uchun. Buni shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada bo‘g‘im rentgeni. Qulay kiyim kiying, oldingi suratlarni oling."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "title": "Quruq ko‘zni aniqlash",
+ "also": [
+  "quruq ko‘z",
+  "ko‘z yoshi pardasini tekshirish",
+  "Shirmer testi",
+  "quruq ko‘z sindromi"
+ ],
+ "what": "Shifokor ko‘z qancha yosh ishlab chiqarishini va u ko‘z yuzasida qancha turishini tekshiradi.",
+ "why": "Ko‘zlar qurisa, achisa, qizarsa, qum tushgandek tuyulsa, ekrandan charchasa.",
+ "duration": "odatda 15–30 daqiqa; natijani shifokor darhol aytadi",
+ "tell_doctor": [
+  "Qanday tomchi va dorilarni ishlatayotganingiz",
+  "Kontakt linza taqasizmi",
+  "Ekran oldida uzoq ishlash, konditsioner",
+  "Ko‘zlarda operatsiyalar bo‘lganmi, jumladan lazer bilan tuzatish"
+ ],
+ "prepare": [
+  {
+   "title": "Tomchilar",
+   "text": "Ko‘rikdan oldin namlovchi tomchilarni tomizmaslik kerakmi, klinikadan aniqlab oling."
+  },
+  {
+   "title": "Linza va kosmetika",
+   "text": "Linzasiz va ko‘z bo‘yanishisiz kelgan ma’qul."
+  }
+ ],
+ "bring": [
+  "Tomchi va dorilar ro‘yxati",
+  "Ko‘zoynak",
+  "Hujjat"
+ ],
+ "steps": [
+  "Shifokor shikoyatlaringiz haqida so‘raydi",
+  "Ko‘zlarni mikroskop ostida ko‘radi",
+  "Bo‘yoq tomizib, ko‘z yoshi pardasi qanchalik tez uzilishini ko‘rishi mumkin",
+  "Ba’zan pastki qovoq ostiga 5 daqiqaga qog‘oz tasma qo‘yiladi",
+  "Tasma qancha yosh ishlab chiqarilishini ko‘rsatadi"
+ ],
+ "feel": [
+  "Qovoq ostidagi tasma biroz qitiqlaydi, ko‘z qisgingiz keladi",
+  "Bo‘yoq ko‘z yoshini vaqtincha sariq rangga bo‘yashi mumkin"
+ ],
+ "after": [
+  "Ko‘zlardan bir necha daqiqa yosh oqishi mumkin",
+  "Shifokor parvarish va tomchilarni tanlab beradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ko‘zlar nega quriydi?",
+   "a": "Ko‘pincha ekran, quruq havo, yosh, linzalar yoki dorilardan. Sababni topishga shifokor yordam beradi."
+  },
+  {
+   "q": "Namlovchi tomchilarni doim tomizsa bo‘ladimi?",
+   "a": "Ko‘pchiligini mumkin, lekin qaysi birini va qanchalik tez-tez — shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga quruq ko‘z tekshiruvi. Iloji bo‘lsa, linzasiz va ko‘z bo‘yanishisiz keling."
+  }
+ ]
+}

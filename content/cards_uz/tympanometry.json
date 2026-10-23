@@ -1,0 +1,60 @@
+{
+ "title": "Timpanometriya",
+ "also": [
+  "impedansometriya",
+  "quloq pardasini tekshirish"
+ ],
+ "what": "Qisqa tekshiruv: quloqqa yumshoq uchlik kiritiladi va havo bosimi biroz o‘zgartiriladi. Asbob quloq pardasi qanday harakatlanishini ko‘radi.",
+ "why": "Eshitish pasayganda, quloq bitganda, bolalarda tez-tez otitda, eshitish apparati tanlashda.",
+ "duration": "ikkala quloq uchun odatda 2–5 daqiqa",
+ "tell_doctor": [
+  "Quloq og‘riyotgan yoki undan suyuqlik oqayotgan bo‘lsa",
+  "Yaqinda quloqda operatsiya bo‘lgan bo‘lsa",
+  "Quloqda naychalar — shuntlar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Maxsus tayyorgarlik kerak emas."
+  },
+  {
+   "title": "Quloqlar",
+   "text": "Tekshiruv oldidan quloqlarni cho‘p bilan tozalamang. Oltingugurt tiqini bo‘lsa, shifokor o‘zi olib tashlaydi."
+  },
+  {
+   "title": "Bolalarga",
+   "text": "Bolaga qitiqlashi va samolyotdagidek biroz bosishini ayting. Jim o‘tirish muhim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi eshitish tekshiruvi natijalari"
+ ],
+ "steps": [
+  "Shifokor quloqni ko‘radi",
+  "Quloqqa yumshoq uchlik kiritiladi",
+  "Jim o‘tirish, gapirmaslik va yutinmaslik kerak",
+  "Asbob bosimni o‘zgartiradi va natijani yozadi",
+  "Xuddi shu narsa ikkinchi quloq bilan qilinadi"
+ ],
+ "feel": [
+  "Quloqda yengil bosim, samolyot ko‘tarilgandagidek",
+  "Ba’zan past gumburlash yoki chiqillash eshitiladi"
+ ],
+ "after": [
+  "Darrov ishlaringizga qaytsa bo‘ladi",
+  "Natija odatda darrov beriladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bolaga timpanometriya qilsa bo‘ladimi?",
+   "a": "Ha, hatto chaqaloqlarga ham. Bu og‘riqsiz, asosiysi — bola ikki daqiqa tinch o‘tirsa bo‘ldi."
+  },
+  {
+   "q": "Bu eshitishni tekshirishmi?",
+   "a": "Aynan emas. U o‘rta quloq va parda qanday ishlashini ko‘rsatadi. Eshitish alohida — audiometriya bilan tekshiriladi."
+  }
+ ],
+ "reminders": []
+}

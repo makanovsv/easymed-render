@@ -1,0 +1,83 @@
+{
+ "title": "Sensor de monitoreo continuo de glucosa (Libre, Dexcom)",
+ "also": [
+  "sensor de glucosa",
+  "sensor de azúcar",
+  "monitoreo de glucosa",
+  "sensor en el brazo para el azúcar",
+  "monitoreo continuo"
+ ],
+ "what": "Un sensor pequeño se pega a la piel y muestra el azúcar todo el día y toda la noche en el teléfono o en un aparato. Casi no hace falta picarte el dedo.",
+ "why": "En la diabetes, para ver el azúcar de forma constante, también de noche.",
+ "duration": "ponerlo toma unos minutos; el sensor funciona normalmente de 1 a 2 semanas",
+ "tell_doctor": [
+  "Si tienes azúcares bajos con frecuencia, sobre todo de noche",
+  "Si la piel bajo el parche se irrita",
+  "Si te van a hacer resonancia, tomografía o radiografía: normalmente el sensor se quita",
+  "Si los valores del sensor no coinciden con el glucómetro"
+ ],
+ "prepare": [
+  {
+   "title": "Lugar",
+   "text": "Normalmente el brazo o el abdomen, donde diga el instructivo. La piel limpia, sin cicatrices ni lunares."
+  },
+  {
+   "title": "Piel",
+   "text": "Limpia el sitio con una toallita con alcohol y deja que seque. No pongas cremas ahí."
+  },
+  {
+   "title": "Teléfono",
+   "text": "Instala la aplicación con anticipación y verifica que el teléfono tenga carga."
+  },
+  {
+   "title": "Glucómetro",
+   "text": "Conserva el glucómetro: lo necesitas si lo que sientes no coincide con los números del sensor."
+  }
+ ],
+ "bring": [
+  "Un sensor nuevo y su aplicador",
+  "Toallitas con alcohol",
+  "El teléfono o el aparato lector",
+  "El glucómetro"
+ ],
+ "steps": [
+  "Lávate las manos y revisa la fecha de caducidad del sensor",
+  "Limpia la piel con alcohol y espera a que seque",
+  "Prepara el aplicador según el instructivo",
+  "Apoya el aplicador en la piel y presiona: el sensor queda fijo",
+  "Retira con cuidado el aplicador y alisa el parche",
+  "Conecta el sensor en la aplicación",
+  "Espera el tiempo de calentamiento: las primeras cifras no salen enseguida"
+ ],
+ "feel": [
+  "El pinchazo casi no se siente",
+  "Las primeras horas se nota el sensor en la piel; luego te acostumbras"
+ ],
+ "after": [
+  "No lo arranques con la ropa: ten cuidado en las puertas y con el bolso",
+  "Normalmente puedes nadar y bañarte; revisa el instructivo",
+  "Si las cifras te parecen raras, mide el azúcar con el glucómetro",
+  "Muestra las gráficas al médico: con ellas ajusta el tratamiento"
+ ],
+ "red_flags": [
+  "Temblor, sudor o confusión: mide el azúcar y come algo dulce, aunque el sensor marque normal",
+  "Enrojecimiento, dolor o pus bajo el sensor: quítalo y acude al médico",
+  "Persona inconsciente o con convulsiones: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Ya no tengo que picarme el dedo?",
+   "a": "Mucho menos. Se mide con el dedo si lo que sientes no coincide con las cifras o si el sensor lo pide."
+  },
+  {
+   "q": "¿Por qué el sensor marca cifras distintas al glucómetro?",
+   "a": "El sensor mide el azúcar del líquido bajo la piel y se atrasa unos minutos. Una diferencia pequeña es normal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana termina la vida del sensor. Prepara uno nuevo y las toallitas con alcohol."
+  }
+ ]
+}

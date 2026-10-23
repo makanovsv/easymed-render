@@ -1,0 +1,75 @@
+{
+ "title": "Anticorpos anti-Rh na gravidez",
+ "also": [
+  "Coombs indireto",
+  "anticorpos anti-D",
+  "incompatibilidade Rh",
+  "pesquisa de anticorpos na gravidez",
+  "titulação de anticorpos"
+ ],
+ "what": "O exame de sangue da mãe mostra se há anticorpos contra o sangue Rh positivo do bebê. É feito por mulheres com Rh negativo.",
+ "why": "Quando a mãe é Rh negativo: durante a gravidez, antes da injeção de proteção e depois de sangramentos ou pancadas.",
+ "duration": "a coleta leva normalmente 5 minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "O Rh do parceiro, se souber",
+  "Se teve gestações, abortos ou transfusões de sangue antes",
+  "Se recebeu imunoglobulina anti-Rh e quando",
+  "Se teve sangramento, pancada ou queda sobre a barriga"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não é preciso jejum. Se for junto com outros exames, confirme."
+  },
+  {
+   "title": "Calendário",
+   "text": "Quantas vezes fazer, quem diz é o médico. Normalmente algumas vezes durante a gravidez."
+  },
+  {
+   "title": "Injeção de proteção",
+   "text": "Normalmente a imunoglobulina é dada por volta de 28 semanas e depois do parto. O momento quem decide é o médico."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Caderneta da gestante",
+  "Resultados anteriores de anticorpos"
+ ],
+ "steps": [
+  "Você se senta, e colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "O sangue é colhido da veia num tubo",
+  "Tiram o garrote e colocam um algodão"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Se ficar tonta, avise a enfermeira. Você vai poder se deitar de lado"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "O resultado sai normalmente em 1 a 3 dias",
+  "Se acharem anticorpos, o médico examina o bebê no ultrassom com mais frequência",
+  "Se não houver anticorpos, o médico diz quando tomar a injeção de proteção"
+ ],
+ "red_flags": [
+  "Sangramento, pancada ou queda sobre a barriga: avise o médico logo. Pode ser preciso a injeção de proteção",
+  "Dor forte na barriga, sangramento forte: ligue para a emergência",
+  "O bebê está mexendo bem menos: procure o médico na hora"
+ ],
+ "faq": [
+  {
+   "q": "Meu Rh é negativo. É perigoso para o bebê?",
+   "a": "Normalmente não, se você fizer os exames e a injeção de proteção no prazo. O médico acompanha isso a gravidez toda."
+  },
+  {
+   "q": "Para que a injeção, se não há anticorpos?",
+   "a": "Ela impede que os anticorpos apareçam. Assim protege este bebê e os próximos filhos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de anticorpos anti-Rh. Leve a caderneta da gestante."
+  }
+ ]
+}

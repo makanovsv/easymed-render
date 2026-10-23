@@ -1,0 +1,79 @@
+{
+ "title": "Imunoterapia com alérgenos (vacina para alergia)",
+ "also": [
+  "vacina para alergia",
+  "imunoterapia específica",
+  "imunoterapia sublingual",
+  "dessensibilização"
+ ],
+ "what": "A pessoa recebe doses pequenas de alérgeno, que vão aumentando. O corpo se acostuma, e a alergia fica mais fraca.",
+ "why": "Na alergia a pólen, ácaros da poeira, picadas de insetos, quando se sabe exatamente qual é o alérgeno.",
+ "duration": "a injeção ou a dose embaixo da língua leva alguns minutos, mais cerca de 30 minutos de observação; o tratamento dura normalmente de 3 a 5 anos",
+ "tell_doctor": [
+  "Crise de asma ou alergia agora",
+  "Febre, gripe, infecção",
+  "Todos os remédios, principalmente os do coração e da pressão",
+  "Gravidez ou planos de engravidar",
+  "Reações às doses anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Estação",
+   "text": "O tratamento muitas vezes começa fora da época de pólen. O esquema, o alergista monta."
+  },
+  {
+   "title": "Dia da injeção",
+   "text": "No dia da injeção, sem sauna, treino pesado e álcool."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria os seus remédios de alergia e asma."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados dos testes de alergia",
+  "Documento de identidade",
+  "Diário das reações"
+ ],
+ "steps": [
+  "O médico ou a enfermeira pergunta como você está",
+  "Às vezes medem a respiração, se você tem asma",
+  "Aplicam uma injeção embaixo da pele do braço ou dão gotas ou um comprimido embaixo da língua",
+  "Você fica em observação cerca de 30 minutos",
+  "A enfermeira olha o local da injeção",
+  "Dizem a data da próxima dose"
+ ],
+ "feel": [
+  "Uma picada pequena",
+  "Vermelhidão e coceira no local da injeção são comuns",
+  "Embaixo da língua: coceira na boca nos primeiros dias"
+ ],
+ "after": [
+  "Não saia da clínica antes do fim da observação",
+  "Neste dia, sem esforço, sauna e álcool",
+  "Anote as reações no diário",
+  "Não pule doses. O efeito depende da regularidade"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço nos lábios ou na língua, manchas no corpo todo: ligue para a emergência",
+  "Inchaço forte no local da injeção, maior que a palma da mão",
+  "Tontura, fraqueza depois da dose"
+ ],
+ "faq": [
+  {
+   "q": "Quando vem o resultado?",
+   "a": "Normalmente a melhora aparece lá pelo fim do primeiro ano. O tratamento completo leva alguns anos."
+  },
+  {
+   "q": "Criança pode fazer?",
+   "a": "Muitas vezes sim, normalmente a partir dos 5 anos. Quem decide é o alergista."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a dose da vacina para alergia. Se tiver febre ou crise, ligue para a clínica antes de ir."
+  }
+ ]
+}

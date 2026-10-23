@@ -1,0 +1,72 @@
+{
+ "title": "Anticorpos contra sarampo (teste de imunidade)",
+ "also": [
+  "sarampo IgG",
+  "sorologia para sarampo",
+  "imunidade para sarampo",
+  "teste de vacina do sarampo"
+ ],
+ "what": "É um exame de sangue que mostra se você está protegido contra o sarampo.",
+ "why": "Se você não lembra da vacina, antes da gravidez, para profissionais de saúde e professores, antes de viagens, em surtos de sarampo.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 1 a 5 dias",
+ "tell_doctor": [
+  "Se tomou vacina contra sarampo e quando",
+  "Se já teve sarampo",
+  "Se tomou vacina há pouco tempo",
+  "Se nos últimos meses recebeu imunoglobulina ou sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Jejum rigoroso normalmente não é necessário, mas é melhor ir 3 a 4 horas depois de uma refeição leve, sem gordura. Confirme com o laboratório."
+  },
+  {
+   "title": "Depois da vacina",
+   "text": "Se tomou vacina há pouco tempo, não é preciso fazer o exame logo. Quando fazer, quem diz é o médico."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Carteira de vacinação, se tiver"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Se não houver proteção, o médico pode sugerir a vacina",
+  "Guarde o resultado junto com a carteira de vacinação"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho"
+ ],
+ "faq": [
+  {
+   "q": "Se há poucos anticorpos, preciso me vacinar de novo?",
+   "a": "Muitas vezes sim. Quem decide é o médico, considerando as suas vacinas."
+  },
+  {
+   "q": "Posso tomar a vacina durante a gravidez?",
+   "a": "Não, grávidas não tomam a vacina do sarampo. Por isso é melhor checar a proteção antes de engravidar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de anticorpos contra sarampo. Leve a carteira de vacinação."
+  }
+ ]
+}

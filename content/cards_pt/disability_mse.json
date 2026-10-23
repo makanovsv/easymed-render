@@ -1,0 +1,72 @@
+{
+ "title": "Perícia médico-social (deficiência)",
+ "also": [
+  "perícia médica",
+  "perícia de deficiência",
+  "reconhecimento de deficiência",
+  "laudo de deficiência"
+ ],
+ "what": "Uma junta decide se a pessoa tem deficiência e de que ajuda ela precisa. A decisão se baseia nos documentos médicos e no exame. Na Rússia e no Cazaquistão ela se chama MSE.",
+ "why": "Para problemas de saúde permanentes depois de doença ou lesão, que atrapalham trabalhar ou se cuidar.",
+ "duration": "juntar os documentos leva semanas; a perícia em si, normalmente até uma hora; a decisão sai no dia ou depois",
+ "tell_doctor": [
+  "Todas as doenças e como elas atrapalham a vida",
+  "Quais remédios e tratamentos você recebe",
+  "De quais recursos você precisa: bengala, cadeira de rodas, aparelho auditivo",
+  "Dificuldades no trabalho, em casa e para se locomover"
+ ],
+ "prepare": [
+  {
+   "title": "Encaminhamento",
+   "text": "Normalmente o médico que trata você faz o encaminhamento para a perícia, depois dos exames necessários."
+  },
+  {
+   "title": "Documentos",
+   "text": "Junte relatórios, laudos e resultados de exames. Quanto mais completo, mais precisa a decisão."
+  },
+  {
+   "title": "Sem presença",
+   "text": "Às vezes a perícia é feita só pelos documentos, sem ir ao local. Confirme no posto de saúde."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Encaminhamento para a perícia",
+  "Documentos e relatórios médicos",
+  "Carteira de trabalho ou declaração do trabalho, se pedirem"
+ ],
+ "steps": [
+  "O médico que trata você pede os exames",
+  "Faz o encaminhamento para a perícia",
+  "A junta analisa os documentos",
+  "Se for preciso exame presencial, você é chamado",
+  "Os especialistas conversam com você e examinam",
+  "A junta decide e monta um programa de reabilitação"
+ ],
+ "feel": [
+  "O exame não dói",
+  "O processo pode ser longo e cansativo"
+ ],
+ "after": [
+  "Você recebe o certificado e o programa de reabilitação",
+  "A decisão pode ser contestada no prazo previsto",
+  "Fique de olho na data da nova perícia"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Dá para fazer a perícia em casa?",
+   "a": "Se a pessoa não consegue ir, às vezes há perícia em domicílio ou só por documentos. Confirme no posto de saúde."
+  },
+  {
+   "q": "O que fazer se não concordar com a decisão?",
+   "a": "Dá para contestar. O procedimento e os prazos são explicados no órgão da perícia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a perícia médico-social. Confira se todos os documentos e o encaminhamento estão com você."
+  }
+ ]
+}

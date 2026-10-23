@@ -1,0 +1,76 @@
+{
+ "title": "Geriatrician visit",
+ "also": [
+  "geriatrician",
+  "doctor for older people",
+  "senior health check",
+  "geriatric consultation"
+ ],
+ "what": "A doctor for older people looks at your health as a whole: memory, balance, mood and medicines. They help you stay independent.",
+ "why": "For people over 65 to 70 with several illnesses at once, falls, worsening memory or many medicines.",
+ "duration": "the visit usually takes 40 to 60 minutes",
+ "tell_doctor": [
+  "All your medicines, including supplements and herbs",
+  "Falls in the past year",
+  "Changes in memory, mood or sleep",
+  "Trouble with everyday tasks",
+  "Hearing, vision and urination"
+ ],
+ "prepare": [
+  {
+   "title": "Medicines",
+   "text": "Put all the packages in a bag and bring them. The doctor will check how they work together."
+  },
+  {
+   "title": "Companion",
+   "text": "It is best to come with a close person who knows about your health and daily life."
+  },
+  {
+   "title": "Questions",
+   "text": "Write down in advance what worries you most."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "All your medicines in their packages",
+  "Discharge summaries and doctors' reports",
+  "Glasses and a hearing aid, if you have them"
+ ],
+ "steps": [
+  "The doctor asks in detail about your health and daily life",
+  "Checks your medicines",
+  "Does simple tests of memory and balance",
+  "Measures your blood pressure and weight",
+  "Examines you",
+  "Makes a plan: treatment, exercises and help at home"
+ ],
+ "feel": [
+  "The visit is painless",
+  "The tests are simple, sometimes tiring - you can ask for a break"
+ ],
+ "after": [
+  "The doctor may stop or replace some medicines - do not change them yourself",
+  "At home, remove things you could trip over",
+  "Come back for a follow-up when your doctor says"
+ ],
+ "red_flags": [
+  "Sudden weakness in an arm or leg, a drooping face or trouble speaking - call your local emergency number",
+  "Sudden confusion - call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Why a geriatrician if I have a general doctor?",
+   "a": "A geriatrician sees everything together and helps sort out many medicines and problems."
+  },
+  {
+   "q": "Can a relative come without the older person?",
+   "a": "They can ask for advice, but the patient needs to be examined in person. Ask the clinic."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Geriatrician visit tomorrow. Put all your medicines in a bag and take your medical summaries."
+  }
+ ]
+}

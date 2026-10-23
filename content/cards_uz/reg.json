@@ -1,0 +1,69 @@
+{
+ "title": "Reoensefalografiya (REG)",
+ "also": [
+  "REG",
+  "reoensefalogramma",
+  "bosh qon tomirlarini REG bilan tekshirish"
+ ],
+ "what": "Hamshira boshingizga datchiklar qo‘yadi va to‘qimalar orqali o‘tadigan kuchsiz tokni yozib oladi. Yozuv bo‘yicha shifokor bosh qon tomirlarining qon bilan to‘lishini baholaydi.",
+ "why": "Ba’zan bosh og‘rig‘i, bosh aylanishi, qon bosimi o‘zgarishlarida buyuriladi. Hozir ko‘proq qon tomirlari UZI qilinadi: sizga nima kerakligini shifokor hal qiladi.",
+ "duration": "odatda 15–20 daqiqa, xulosa odatda o‘sha kuni",
+ "tell_doctor": [
+  "Sizni nima bezovta qilayotgani va qachondan beri",
+  "Qanday dori ichasiz, ayniqsa bosim va qon tomirlar uchun",
+  "Insult yoki bosh jarohati bo‘lganmi",
+  "Yurak stimulyatori bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Ertalab",
+   "text": "Tekshiruv kuni kofesiz, kuchli choysiz va chekmasdan: bu qon tomirlarga ta’sir qiladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda ovqatlansa bo‘ladi, lekin to‘yib emas. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Sochlar",
+   "text": "Toza, yasatilmagan va laksiz."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Qon tomirlarining oldingi tekshiruvlari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Siz o‘tirasiz yoki yotasiz va bir necha daqiqa dam olasiz",
+  "Boshingizga rezinkali elektrodlar qo‘yishadi",
+  "Tinch holatda yozishadi, jim o‘tirish kerak",
+  "Ba’zan boshni burishni yoki egishni so‘rashadi",
+  "Ba’zan til ostiga dori berib, yana yozishadi: faqat shifokor qaroriga ko‘ra"
+ ],
+ "feel": [
+  "Og‘riq yo‘q, tok kuchsiz va sezilmaydi",
+  "Rezinka biroz bosishi mumkin"
+ ],
+ "after": [
+  "Darhol odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "Xulosa odatda o‘sha kuni",
+  "Natijani nevrolog bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "REG yoki qon tomirlari UZI: qaysi biri yaxshi?",
+   "a": "Hozir ko‘proq bosh va bo‘yin qon tomirlari UZI buyuriladi: u ko‘proq narsani ko‘rsatadi. Sizga nima mosligini shifokordan so‘rang."
+  },
+  {
+   "q": "Bu xavfsizmi?",
+   "a": "Ha. Tok juda kuchsiz, uni sezmaysiz."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga REG. Ertalab kofesiz va chekmasdan. Sochlar toza, laksiz."
+  }
+ ]
+}

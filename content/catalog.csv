@@ -522,3 +522,357 @@ vacc_bcg;Прививки;БЦЖ новорождённому;BCG vaccine for a 
 vacc_rota;Прививки;Прививка от ротавируса;Rotavirus vaccine;процедурный / малая операционная;L;2
 vacc_preg;Прививки;Прививки при беременности;Vaccines in pregnancy;процедурный / малая операционная;L;2
 vacc_chickenpox;Прививки;Прививка от ветрянки;Chickenpox vaccine;процедурный / малая операционная;L;3
+trab;Анализы;Антитела к рецептору ТТГ;TSH receptor antibodies;процедурный кабинет: забор крови;L;3
+calcitonin;Анализы;Кальцитонин и тиреоглобулин;Calcitonin and thyroglobulin;процедурный кабинет: забор крови;L;3
+dheas_17oh;Анализы;ДГЭА-С и 17-ОН-прогестерон;DHEA-S and 17-OH progesterone;процедурный кабинет: забор крови;L;3
+aldo_renin;Анализы;Альдостерон и ренин;Aldosterone and renin;процедурный кабинет: забор крови;L;3
+acth;Анализы;АКТГ (адренокортикотропный гормон);ACTH test;процедурный кабинет: забор крови;L;3
+gh_igf1;Анализы;Гормон роста и ИФР-1;Growth hormone and IGF-1;процедурный кабинет: забор крови;L;3
+metanephrines;Анализы;Метанефрины в крови и моче;Metanephrines in blood and urine;процедурный кабинет: забор крови;L;3
+zinc;Анализы;Цинк в крови;Blood zinc;процедурный кабинет: забор крови;L;3
+vit_a_e;Анализы;Витамины A и E;Vitamins A and E;процедурный кабинет: забор крови;L;3
+iodine_urine;Анализы;Йод в моче;Urinary iodine;сдача мочи/кала: контейнер, туалет клиники;L;3
+hep_a;Анализы;Анализ на гепатит A;Hepatitis A test;процедурный кабинет: забор крови;L;2
+anti_hbs;Анализы;Антитела после прививки от гепатита B (анти-HBs);Hepatitis B vaccine antibody check (anti-HBs);процедурный кабинет: забор крови;L;2
+hcv_rna;Анализы;ПЦР на гепатит C (вирусная нагрузка);Hepatitis C viral load (PCR);процедурный кабинет: забор крови;L;3
+hbv_dna;Анализы;ПЦР на гепатит B (вирусная нагрузка);Hepatitis B viral load (PCR);процедурный кабинет: забор крови;L;3
+hiv_load;Анализы;ВИЧ: вирусная нагрузка и CD4;HIV viral load and CD4 count;процедурный кабинет: забор крови;L;3
+ebv;Анализы;Вирус Эпштейна–Барр (мононуклеоз);Epstein–Barr virus (mononucleosis) test;процедурный кабинет: забор крови;L;2
+tick_tests;Анализы;Анализы после укуса клеща (энцефалит, боррелиоз);Tests after a tick bite (encephalitis, Lyme);процедурный кабинет: забор крови;L;2
+brucella;Анализы;Анализ на бруцеллёз;Brucellosis test;процедурный кабинет: забор крови;L;2
+echinococcus;Анализы;Антитела к эхинококку;Echinococcus antibodies;процедурный кабинет: забор крови;L;3
+toxocara_giardia;Анализы;Антитела к токсокарам и лямблиям;Toxocara and Giardia antibodies;процедурный кабинет: забор крови;L;2
+pertussis_pcr;Анализы;ПЦР на коклюш;Whooping cough PCR;взятие мазка из носа и горла;L;2
+stool_pcr;Анализы;ПЦР кала на кишечные инфекции (рота-, норовирус);Stool PCR for gut infections (rotavirus, norovirus);сдача мочи/кала: контейнер, туалет клиники;L;2
+stool_culture;Анализы;Посев кала на сальмонеллу и шигеллу;Stool culture for Salmonella and Shigella;сдача мочи/кала: контейнер, туалет клиники;L;2
+measles_igg;Анализы;Антитела к кори (проверка иммунитета);Measles immunity test (IgG);процедурный кабинет: забор крови;L;2
+nasal_staph;Анализы;Посев из носа на золотистый стафилококк;Nasal swab for Staphylococcus aureus;взятие мазка из носа и горла;L;2
+tb_sputum;Анализы;Мокрота на туберкулёз (микроскопия, GeneXpert);Sputum test for tuberculosis (smear, GeneXpert);сдача мочи/кала: контейнер, туалет клиники;L;3
+aslo;Анализы;Антистрептолизин-О (АСЛО);Antistreptolysin O (ASO);процедурный кабинет: забор крови;L;2
+urethral_swab;Анализы;Мазок из уретры у мужчин;Urethral swab (men);кабинет уролога;L;2
+gbs_swab;Анализы;Мазок на стрептококк группы B при беременности;Group B strep swab in pregnancy;гинекологическое кресло;L;2
+allergy_molecular;Анализы;Молекулярная аллергодиагностика (ALEX, ImmunoCAP);Component allergy testing (ALEX, ImmunoCAP);процедурный кабинет: забор крови;L;3
+allergy_milk_baby;Анализы;Аллергия на белок коровьего молока у малыша;Cow's milk protein allergy in infants;процедурный кабинет: забор крови;L;2
+patch_test;Анализы;Аппликационные аллергопробы (патч-тест);Patch testing for contact allergy;процедурный / малая операционная;L;3
+brca;Анализы;Генетический тест BRCA1/2;BRCA1/2 genetic test;процедурный кабинет: забор крови;L;3
+lynch_panel;Анализы;Генетическая панель наследственного рака кишечника;Hereditary colorectal cancer gene panel;процедурный кабинет: забор крови;L;3
+carrier_screen;Анализы;Скрининг носительства генетических болезней перед беременностью;Carrier screening before pregnancy;процедурный кабинет: забор крови;L;3
+pharmacogenetics;Анализы;Фармакогенетический тест (варфарин, клопидогрел);Pharmacogenetic test (warfarin, clopidogrel);процедурный кабинет: забор крови;L;3
+exome;Анализы;Экзомное секвенирование ребёнку;Exome sequencing for a child;процедурный кабинет: забор крови;L;3
+hla_b27;Анализы;HLA-B27;HLA-B27 test;процедурный кабинет: забор крови;L;3
+hb_electro;Анализы;Электрофорез гемоглобина (талассемия);Haemoglobin electrophoresis (thalassaemia);процедурный кабинет: забор крови;L;3
+pgt;Анализы;Генетическое тестирование эмбрионов (ПГТ);Preimplantation genetic testing (PGT);процедурный кабинет: забор крови;L;3
+amylase_lipase;Анализы;Амилаза и липаза;Amylase and lipase;процедурный кабинет: забор крови;L;2
+cystatin;Анализы;Цистатин C;Cystatin C;процедурный кабинет: забор крови;L;3
+immunoglobulins;Анализы;Иммуноглобулины A, M, G;Immunoglobulins A, M, G;процедурный кабинет: забор крови;L;3
+protein_electro;Анализы;Электрофорез белков крови;Serum protein electrophoresis;процедурный кабинет: забор крови;L;3
+mar_test;Анализы;MAR-тест (антиспермальные антитела);MAR test (antisperm antibodies);сдача мочи/кала: контейнер, туалет клиники;L;3
+sperm_dna;Анализы;Фрагментация ДНК сперматозоидов;Sperm DNA fragmentation;сдача мочи/кала: контейнер, туалет клиники;L;3
+elastase_stool;Анализы;Панкреатическая эластаза в кале;Faecal pancreatic elastase;сдача мочи/кала: контейнер, туалет клиники;L;3
+drug_levels;Анализы;Концентрация лекарства в крови (вальпроаты, литий, дигоксин);Drug level monitoring (valproate, lithium, digoxin);процедурный кабинет: забор крови;L;3
+coombs_baby;Анализы;Проба Кумбса и группа крови у новорождённого;Coombs test and blood type in newborns;процедурный кабинет: забор крови;L;3
+rh_antibodies;Анализы;Антирезусные антитела при беременности;Rh antibodies in pregnancy;процедурный кабинет: забор крови;L;2
+preg_test_home;Анализы;Домашний тест на беременность;Home pregnancy test;дома: подготовка;L;1
+ovulation_test;Анализы;Тест на овуляцию дома;Home ovulation test;дома: подготовка;L;2
+ketones_home;Анализы;Кетоны в моче и крови дома;Home ketone testing;дома: подготовка;L;3
+us_bowel;УЗИ;УЗИ кишечника;Bowel ultrasound;кабинет УЗИ;L;3
+us_fetal_echo;УЗИ;УЗИ сердца плода (фетальная ЭхоКГ);Fetal echocardiography;кабинет УЗИ;L;3
+us_adrenal;УЗИ;УЗИ надпочечников;Adrenal ultrasound;кабинет УЗИ;L;3
+us_eye;УЗИ;УЗИ глаза;Eye ultrasound;кабинет УЗИ;L;3
+us_inguinal;УЗИ;УЗИ паховых каналов (грыжа);Groin ultrasound for hernia;кабинет УЗИ;L;3
+ceus_liver;УЗИ;УЗИ печени с контрастом;Contrast-enhanced liver ultrasound;кабинет УЗИ;M;3
+hycosy;УЗИ;УЗИ проходимости маточных труб (Эхо-ГСС);Tubal patency ultrasound (HyCoSy);кабинет УЗИ;M;3
+us_3d_preg;УЗИ;3D/4D УЗИ при беременности;3D/4D pregnancy scan;кабинет УЗИ;L;2
+biophysical;УЗИ;Биофизический профиль плода;Fetal biophysical profile;кабинет УЗИ;L;3
+us_postpartum;УЗИ;УЗИ матки после родов;Postpartum uterine ultrasound;кабинет УЗИ;L;2
+us_pylorus_baby;УЗИ;УЗИ желудка младенцу при срыгиваниях (пилоростеноз);Infant ultrasound for pyloric stenosis;кабинет УЗИ;L;3
+ecg_patch;Функциональная диагностика;Длительный ЭКГ-монитор (патч на 7–14 дней);Extended ECG patch monitor (7–14 days);кабинет функциональной диагностики;L;3
+ecg_watch;Функциональная диагностика;ЭКГ на смарт-часах: как записать и показать врачу;Recording an ECG on a smartwatch;дома: подготовка;L;3
+peak_flow;Функциональная диагностика;Пикфлоуметрия дома;Home peak flow monitoring;дома: подготовка;L;2
+walk_6min;Функциональная диагностика;Тест шестиминутной ходьбы;Six-minute walk test;кабинет функциональной диагностики;L;3
+cpet;Функциональная диагностика;Кардиопульмональный нагрузочный тест;Cardiopulmonary exercise test;беговая дорожка / велоэргометр с ЭКГ;M;3
+feno;Функциональная диагностика;Оксид азота в выдохе (FeNO);Exhaled nitric oxide test (FeNO);кабинет функциональной диагностики;L;3
+methacholine;Функциональная диагностика;Провокационный тест с метахолином;Methacholine challenge test;кабинет функциональной диагностики;M;3
+spiro_kids;Функциональная диагностика;Спирометрия у ребёнка;Spirometry in children;кабинет функциональной диагностики;L;2
+capillaroscopy;Функциональная диагностика;Капилляроскопия ногтевого ложа;Nailfold capillaroscopy;кабинет функциональной диагностики;L;3
+home_sleep_test;Функциональная диагностика;Домашний тест на апноэ сна;Home sleep apnoea test;дома: подготовка;L;2
+bia;Функциональная диагностика;Биоимпедансный анализ состава тела;Body composition analysis (bioimpedance);кабинет функциональной диагностики;L;2
+anorectal_mano;Функциональная диагностика;Аноректальная манометрия;Anorectal manometry;кабинет функциональной диагностики;M;3
+hydrogen_breath;Функциональная диагностика;Водородный дыхательный тест (СИБР, лактоза);Hydrogen breath test (SIBO, lactose);кабинет функциональной диагностики;L;3
+holter_kids;Функциональная диагностика;Холтер ЭКГ у ребёнка;Holter monitor in children;кабинет функциональной диагностики;L;3
+ssep_hearing_baby;Функциональная диагностика;Объективная проверка слуха у малыша (КСВП, ASSR);Objective infant hearing test (ABR, ASSR);кабинет функциональной диагностики;L;3
+erg;Функциональная диагностика;Электроретинография;Electroretinography;кабинет окулиста;L;3
+bone_age;Рентген, КТ, МРТ;Рентген кисти на костный возраст;Hand X-ray for bone age;рентген-кабинет;L;3
+vcug;Рентген, КТ, МРТ;Микционная цистография у ребёнка;Voiding cystourethrogram in children;рентген-кабинет;M;3
+iv_urography;Рентген, КТ, МРТ;Экскреторная урография;Intravenous urography;рентген-кабинет;M;3
+ldct_lung;Рентген, КТ, МРТ;Низкодозная КТ лёгких для курильщиков;Low-dose CT lung cancer screening;кабинет КТ;L;2
+mrcp;Рентген, КТ, МРТ;МР-холангиография (МРХПГ);MR cholangiography (MRCP);кабинет МРТ;L;3
+mr_enterography;Рентген, КТ, МРТ;МР-энтерография;MR enterography;кабинет МРТ;L;3
+mri_preg;Рентген, КТ, МРТ;МРТ при беременности;MRI during pregnancy;кабинет МРТ;L;3
+contrast_safety;Рентген, КТ, МРТ;Контраст при КТ и МРТ: почки, аллергия, кормление грудью;Contrast for CT and MRI: kidneys, allergy, breastfeeding;кабинет КТ;L;1
+renal_scinti;Рентген, КТ, МРТ;Сцинтиграфия почек;Renal scintigraphy;кабинет КТ;L;3
+myo_scinti;Рентген, КТ, МРТ;Перфузионная сцинтиграфия миокарда;Myocardial perfusion scan;кабинет КТ;M;3
+rai_therapy;Рентген, КТ, МРТ;Лечение радиоактивным йодом;Radioactive iodine therapy;палата;M;3
+ceph_xray;Рентген, КТ, МРТ;Телерентгенограмма (ТРГ) для ортодонта;Cephalometric X-ray for orthodontics;панорамный рентген зубов;L;2
+cerebral_angio;Рентген, КТ, МРТ;Ангиография сосудов головного мозга;Cerebral angiography;рентгеноперационная (ангиограф);H;3
+fgds_nasal;Эндоскопия;Трансназальная гастроскопия (тонким зондом);Transnasal gastroscopy;эндоскопический кабинет;M;3
+colono_kids;Эндоскопия;Колоноскопия ребёнку;Colonoscopy in children;эндоскопический кабинет;M;3
+gastric_polyp;Эндоскопия;Удаление полипа желудка;Gastric polyp removal;эндоскопический кабинет;M;3
+varices_banding;Эндоскопия;Лигирование варикозных вен пищевода;Oesophageal variceal banding;эндоскопический кабинет;H;3
+peg;Эндоскопия;Установка гастростомы (ПЭГ);Feeding tube placement (PEG);эндоскопический кабинет;H;3
+enteroscopy;Эндоскопия;Энтероскопия тонкой кишки;Small-bowel enteroscopy;эндоскопический кабинет;H;3
+foreign_swallow;Эндоскопия;Удаление проглоченного предмета у ребёнка;Removal of a swallowed object in a child;эндоскопический кабинет;H;3
+esoph_dilation;Эндоскопия;Бужирование пищевода;Oesophageal dilation;эндоскопический кабинет;H;3
+picc;Процедуры и манипуляции;Установка PICC-катетера;PICC line insertion;процедурный / малая операционная;M;3
+port_install;Процедуры и манипуляции;Установка порт-системы для химиотерапии;Implanted port placement for chemotherapy;операционная;H;3
+port_care;Процедуры и манипуляции;Промывка и уход за порт-системой;Implanted port flushing and care;процедурный / малая операционная;M;3
+chemo_infusion;Процедуры и манипуляции;Химиотерапия: как проходит курс;Chemotherapy infusion: what to expect;палата;M;2
+radiotherapy;Процедуры и манипуляции;Лучевая терапия: как проходит курс;Radiotherapy course: what to expect;кабинет КТ;M;2
+hemodialysis;Процедуры и манипуляции;Гемодиализ;Haemodialysis;палата;M;3
+pd_home;Процедуры и манипуляции;Перитонеальный диализ дома;Home peritoneal dialysis;дома: подготовка;M;3
+plasmapheresis;Процедуры и манипуляции;Плазмаферез;Plasmapheresis;палата;M;3
+biologic_infusion;Процедуры и манипуляции;Инфузия биологической терапии;Biologic therapy infusion;палата;M;3
+zoledronic;Процедуры и манипуляции;Капельница от остеопороза (золедроновая кислота);Zoledronic acid infusion for osteoporosis;процедурный / малая операционная;M;3
+hbot;Процедуры и манипуляции;Гипербарическая оксигенация (барокамера);Hyperbaric oxygen therapy;процедурный / малая операционная;M;3
+joint_aspiration;Процедуры и манипуляции;Пункция сустава с удалением жидкости;Joint aspiration;процедурный / малая операционная;M;2
+breast_cyst_asp;Процедуры и манипуляции;Пункция кисты молочной железы;Breast cyst aspiration;кабинет УЗИ;M;3
+vac_therapy;Процедуры и манипуляции;Вакуумная терапия раны;Negative-pressure wound therapy;палата;M;3
+diabetic_foot_care;Процедуры и манипуляции;Перевязки при диабетической стопе;Diabetic foot ulcer dressings;процедурный / малая операционная;M;2
+leg_ulcer;Процедуры и манипуляции;Лечение трофической язвы ноги;Venous leg ulcer treatment;процедурный / малая операционная;M;3
+ait;Процедуры и манипуляции;Аллергенспецифическая иммунотерапия (АСИТ);Allergen immunotherapy;процедурный / малая операционная;M;2
+insulin_pump;Процедуры и манипуляции;Инсулиновая помпа: установка и смена катетера;Insulin pump: setup and set changes;дома: подготовка;M;3
+cgm;Процедуры и манипуляции;Датчик непрерывного мониторинга глюкозы (Libre, Dexcom);Continuous glucose monitor (Libre, Dexcom);дома: подготовка;L;2
+cpap;Процедуры и манипуляции;СИПАП-терапия дома;CPAP therapy at home;дома: подготовка;L;2
+trach_care;Процедуры и манипуляции;Уход за трахеостомой дома;Tracheostomy care at home;дома: подготовка;M;3
+tube_feeding;Процедуры и манипуляции;Кормление через зонд и гастростому дома;Tube and gastrostomy feeding at home;дома: подготовка;M;3
+stoma_care;Процедуры и манипуляции;Уход за колостомой и илеостомой;Colostomy and ileostomy care;дома: подготовка;M;2
+bedsores;Процедуры и манипуляции;Профилактика пролежней у лежачего;Pressure sore prevention in bedridden patients;дома: подготовка;L;2
+patient_transfer;Процедуры и манипуляции;Как перемещать и переворачивать лежачего больного;Moving and turning a bedridden patient;дома: подготовка;L;2
+umbilical_care;Процедуры и манипуляции;Уход за пупочной ранкой новорождённого;Newborn umbilical cord care;дома: подготовка;L;1
+nephrostomy_care;Процедуры и манипуляции;Уход за нефростомой дома;Nephrostomy care at home;дома: подготовка;M;3
+self_cath;Процедуры и манипуляции;Самокатетеризация мочевого пузыря;Intermittent self-catheterisation;дома: подготовка;M;3
+eye_drops;Процедуры и манипуляции;Как закапывать капли и закладывать мазь в глаза;How to use eye drops and ointment;дома: подготовка;L;1
+nasal_spray;Процедуры и манипуляции;Как правильно пользоваться назальным спреем;How to use a nasal spray correctly;дома: подготовка;L;1
+fever_kids;Процедуры и манипуляции;Температура у ребёнка: как мерить и когда к врачу;Fever in children: measuring and when to see a doctor;дома: подготовка;L;1
+anticoag_home;Процедуры и манипуляции;Жизнь на антикоагулянтах: кровотечения, еда, другие лекарства;Living on blood thinners: bleeding, food, other drugs;дома: подготовка;L;2
+molluscum;Малая хирургия и кожа;Удаление контагиозного моллюска у ребёнка;Molluscum contagiosum removal in children;процедурный / малая операционная;M;2
+onychomycosis;Малая хирургия и кожа;Лечение грибка ногтей;Nail fungus treatment;процедурный / малая операционная;M;2
+atopic_kids;Малая хирургия и кожа;Атопический дерматит у ребёнка: лечение и уход;Atopic eczema in children: treatment and skin care;кабинет врача;L;1
+urticaria;Малая хирургия и кожа;Приём при крапивнице;Hives (urticaria) consultation;кабинет врача;L;2
+rosacea;Малая хирургия и кожа;Лечение розацеа;Rosacea treatment;кабинет врача;L;2
+scabies;Малая хирургия и кожа;Лечение чесотки;Scabies treatment;кабинет врача;L;3
+lice;Малая хирургия и кожа;Лечение педикулёза у ребёнка;Head lice treatment in children;дома: подготовка;L;2
+pdt_skin;Малая хирургия и кожа;Фотодинамическая терапия кожи;Photodynamic therapy of the skin;процедурный / малая операционная;M;3
+calluses;Малая хирургия и кожа;Удаление мозолей и натоптышей (медицинский педикюр);Callus and corn removal (medical pedicure);процедурный / малая операционная;M;2
+hemangioma;Малая хирургия и кожа;Лечение гемангиомы у ребёнка;Infant haemangioma treatment;процедурный / малая операционная;M;3
+face_vessels;Малая хирургия и кожа;Удаление сосудистых звёздочек на лице лазером;Laser removal of facial spider veins;процедурный / малая операционная;M;2
+tattoo_removal;Малая хирургия и кожа;Лазерное удаление татуировки;Laser tattoo removal;процедурный / малая операционная;M;3
+fractional_laser;Малая хирургия и кожа;Фракционное лазерное омоложение;Fractional laser resurfacing;процедурный / малая операционная;M;3
+acne_scars;Малая хирургия и кожа;Лечение рубцов после акне;Acne scar treatment;процедурный / малая операционная;M;2
+mesotherapy;Малая хирургия и кожа;Мезотерапия кожи;Skin mesotherapy;процедурный / малая операционная;M;2
+biorevital;Малая хирургия и кожа;Биоревитализация;Skin biorevitalisation (hyaluronic acid);процедурный / малая операционная;M;2
+prp_face;Малая хирургия и кожа;Плазмолифтинг лица и кожи головы;PRP for face and scalp;процедурный / малая операционная;M;2
+hifu;Малая хирургия и кожа;SMAS-лифтинг (HIFU);HIFU SMAS lift;процедурный / малая операционная;M;3
+ipl;Малая хирургия и кожа;IPL-фотоомоложение (пигмент, купероз);IPL photorejuvenation (pigment, redness);процедурный / малая операционная;M;2
+facial_clean;Малая хирургия и кожа;Чистка лица у косметолога;Facial cleansing by a cosmetologist;процедурный / малая операционная;M;1
+hair_transplant;Малая хирургия и кожа;Пересадка волос;Hair transplant;операционная;H;3
+alopecia_areata;Малая хирургия и кожа;Лечение гнёздной алопеции;Alopecia areata treatment;кабинет врача;M;3
+ganglion;Малая хирургия и кожа;Удаление гигромы кисти;Ganglion cyst removal;операционная;M;3
+caries_milk;Стоматология;Лечение кариеса молочных зубов;Treating cavities in baby teeth;стоматологическое кресло;M;1
+pulpotomy;Стоматология;Пульпотомия молочного зуба;Pulpotomy of a baby tooth;стоматологическое кресло;M;2
+kids_crown;Стоматология;Детская коронка на молочный зуб;Crown for a baby tooth;стоматологическое кресло;M;3
+removable_plate;Стоматология;Съёмная ортодонтическая пластинка у ребёнка;Removable orthodontic plate for children;стоматологическое кресло;M;2
+palate_expander;Стоматология;Расширитель нёба;Palatal expander;стоматологическое кресло;M;3
+retainer;Стоматология;Ретейнер после брекетов;Retainer after braces;стоматологическое кресло;M;2
+braces_hygiene;Стоматология;Чистка зубов с брекетами;Cleaning teeth with braces;дома: подготовка;L;2
+ortho_consult;Стоматология;Консультация ортодонта;Orthodontic consultation;стоматологическое кресло;L;2
+tongue_tie;Стоматология;Подрезка уздечки языка;Tongue-tie release;стоматологическое кресло;M;2
+lip_frenum;Стоматология;Пластика уздечки губы;Lip frenum correction;стоматологическое кресло;M;3
+stomatitis_kids;Стоматология;Стоматит у ребёнка;Mouth ulcers (stomatitis) in children;кабинет врача;L;2
+brushing_kids;Стоматология;Как чистить зубы ребёнку;How to brush a child's teeth;дома: подготовка;L;1
+splinting;Стоматология;Шинирование подвижных зубов;Splinting loose teeth;стоматологическое кресло;M;3
+flap_surgery;Стоматология;Лоскутная операция на дёснах;Gum flap surgery;стоматологическое кресло;M;3
+gum_graft;Стоматология;Пластика рецессии десны;Gum recession graft;стоматологическое кресло;M;3
+retreatment;Стоматология;Перелечивание каналов зуба;Root canal retreatment;стоматологическое кресло;M;2
+apicoectomy;Стоматология;Резекция верхушки корня (удаление кисты зуба);Apicoectomy (root tip and cyst removal);стоматологическое кресло;M;3
+all_on_4;Стоматология;Протезирование на 4–6 имплантах (All-on-4);Full-arch implant prosthesis (All-on-4);стоматологическое кресло;H;3
+implant_care;Стоматология;Уход за имплантами;Caring for dental implants;дома: подготовка;L;2
+clasp_denture;Стоматология;Бюгельный протез;Cast partial denture;стоматологическое кресло;M;3
+denture_care;Стоматология;Уход за съёмным протезом;Caring for removable dentures;дома: подготовка;L;2
+tmj;Стоматология;Лечение боли в челюстном суставе (ВНЧС);Jaw joint (TMJ) pain treatment;стоматологическое кресло;M;3
+dental_abscess;Стоматология;Вскрытие флюса;Draining a dental abscess;стоматологическое кресло;M;2
+dry_socket;Стоматология;Лечение альвеолита после удаления зуба;Dry socket treatment;стоматологическое кресло;M;3
+intraoral_scan;Стоматология;Цифровой слепок зубов (сканер);Digital dental impression (intraoral scan);стоматологическое кресло;L;3
+dent_preg;Стоматология;Лечение зубов при беременности;Dental treatment during pregnancy;стоматологическое кресло;M;2
+post_core;Стоматология;Восстановление зуба на штифте;Post and core restoration;стоматологическое кресло;M;3
+color_vision;Глаза;Проверка цветового зрения;Colour vision test;кабинет окулиста;L;2
+cycloplegia;Глаза;Проверка рефракции с закапыванием (циклоплегия) у ребёнка;Cycloplegic refraction in children;кабинет окулиста;L;2
+myopia_control;Глаза;Контроль близорукости у детей (ночные линзы, капли);Myopia control in children (night lenses, drops);кабинет окулиста;L;2
+amblyopia;Глаза;Лечение амблиопии (заклейка, аппаратное);Lazy eye treatment (patching, vision therapy);кабинет окулиста;L;2
+topography;Глаза;Кератотопография и пахиметрия;Corneal topography and pachymetry;кабинет окулиста;L;3
+biometry;Глаза;Биометрия глаза перед операцией катаракты;Eye biometry before cataract surgery;кабинет окулиста;L;3
+rop;Глаза;Осмотр глаз недоношенного (ретинопатия);Eye exam for premature babies (ROP);кабинет окулиста;L;3
+crosslinking;Глаза;Кросслинкинг роговицы;Corneal cross-linking;кабинет окулиста;M;3
+pterygium;Глаза;Удаление птеригиума;Pterygium removal;операционная;M;3
+eye_foreign;Глаза;Удаление инородного тела из глаза;Removing a foreign body from the eye;кабинет окулиста;M;2
+blepharitis;Глаза;Гигиена век при блефарите;Eyelid hygiene for blepharitis;дома: подготовка;L;2
+punctal_plugs;Глаза;Пробки для слёзных точек;Punctal plugs;кабинет окулиста;M;3
+diabetic_eye;Глаза;Осмотр глаз при диабете;Diabetic eye screening;кабинет окулиста;L;2
+vitrectomy;Глаза;Витрэктомия (при отслойке сетчатки и кровоизлиянии);Vitrectomy;операционная;H;3
+trabeculectomy;Глаза;Операция при глаукоме;Glaucoma surgery;операционная;H;3
+icl;Глаза;Факичная линза (ICL);Phakic lens implant (ICL);операционная;H;3
+ent_foreign;Ухо, горло, нос;Удаление инородного тела из уха и носа у ребёнка;Removing a foreign body from a child's ear or nose;кабинет ЛОРа;M;2
+politzer;Ухо, горло, нос;Продувание слуховых труб;Eustachian tube inflation;кабинет ЛОРа;M;2
+sinus_puncture;Ухо, горло, нос;Пункция гайморовой пазухи;Maxillary sinus puncture;кабинет ЛОРа;M;3
+peritonsillar;Ухо, горло, нос;Вскрытие паратонзиллярного абсцесса;Peritonsillar abscess drainage;кабинет ЛОРа;H;3
+otitis_kids;Ухо, горло, нос;Отит у ребёнка: лечение и наблюдение;Ear infection in children: treatment and follow-up;кабинет врача;L;1
+cochlear;Ухо, горло, нос;Кохлеарная имплантация;Cochlear implant surgery;операционная;H;3
+tympanoplasty;Ухо, горло, нос;Тимпанопластика;Tympanoplasty;операционная;H;3
+tinnitus;Ухо, горло, нос;Приём при шуме в ушах;Tinnitus consultation;кабинет ЛОРа;L;2
+epley;Ухо, горло, нос;Манёвр Эпли при позиционном головокружении;Epley manoeuvre for positional vertigo;кабинет ЛОРа;L;2
+phoniatrist;Ухо, горло, нос;Приём фониатра (проблемы с голосом);Voice clinic (phoniatrist) visit;кабинет ЛОРа;L;3
+smell_test;Ухо, горло, нос;Проверка обоняния;Smell test;кабинет ЛОРа;L;3
+otoplasty;Ухо, горло, нос;Отопластика (лопоухость);Otoplasty (prominent ears);операционная;H;3
+preconception;Гинекология и беременность;Подготовка к беременности;Preconception check-up;кабинет врача;L;1
+kick_count;Гинекология и беременность;Подсчёт шевелений плода дома;Counting fetal movements at home;дома: подготовка;L;2
+birth_classes;Гинекология и беременность;Курсы подготовки к родам;Antenatal classes;кабинет врача;L;2
+partner_birth;Гинекология и беременность;Партнёрские роды;Partner-assisted birth;палата;L;2
+perineal_care;Гинекология и беременность;Уход за швами на промежности после родов;Perineal stitch care after birth;дома: подготовка;L;2
+vbac;Гинекология и беременность;Роды после кесарева сечения;Vaginal birth after caesarean (VBAC);палата;H;3
+pessary_preg;Гинекология и беременность;Акушерский пессарий при беременности;Cervical pessary in pregnancy;гинекологическое кресло;M;3
+cerclage;Гинекология и беременность;Шов на шейку матки (серкляж);Cervical cerclage;операционная;H;3
+anti_d;Гинекология и беременность;Антирезусный иммуноглобулин;Anti-D immunoglobulin;процедурный / малая операционная;M;2
+maternity_bag;Гинекология и беременность;Что взять в роддом;What to pack for the maternity hospital;дома: подготовка;L;1
+ppd_screen;Гинекология и беременность;Скрининг послеродовой депрессии;Postnatal depression screening;кабинет врача;L;2
+thrush;Гинекология и беременность;Лечение молочницы и бактериального вагиноза;Thrush and bacterial vaginosis treatment;кабинет врача;L;1
+pcos;Гинекология и беременность;Приём при поликистозе яичников (СПКЯ);Polycystic ovary syndrome (PCOS) consultation;кабинет врача;L;2
+endometriosis_lap;Гинекология и беременность;Лапароскопия при эндометриозе;Laparoscopy for endometriosis;операционная;H;3
+endometrial_polyp;Гинекология и беременность;Удаление полипа эндометрия;Endometrial polyp removal;операционная;H;2
+condyloma;Гинекология и беременность;Удаление остроконечных кондилом;Genital wart removal;гинекологическое кресло;M;2
+girl_gyn;Гинекология и беременность;Первый визит девочки к гинекологу;A girl's first gynaecology visit;гинекологическое кресло;L;2
+ovulation_ind;Гинекология и беременность;Стимуляция овуляции;Ovulation induction;кабинет УЗИ;M;3
+ivf_stim;Гинекология и беременность;ЭКО: стимуляция яичников и уколы;IVF: ovarian stimulation and injections;дома: подготовка;M;3
+tvt_sling;Гинекология и беременность;Слинговая операция при недержании мочи;Sling surgery for urinary incontinence;операционная;H;3
+prolapse_pessary;Гинекология и беременность;Пессарий при опущении матки;Pessary for uterine prolapse;гинекологическое кресло;M;3
+breast_self;Гинекология и беременность;Самообследование молочных желёз;Breast self-examination;дома: подготовка;L;1
+tubal_ligation;Гинекология и беременность;Женская стерилизация (перевязка труб);Tubal ligation;операционная;H;3
+bartholin;Гинекология и беременность;Лечение кисты бартолиновой железы;Bartholin cyst treatment;гинекологическое кресло;M;3
+emergency_contra;Гинекология и беременность;Экстренная контрацепция;Emergency contraception;кабинет врача;L;2
+andrologist;Урология;Приём андролога;Andrology consultation;кабинет уролога;L;2
+prostatitis;Урология;Лечение простатита;Prostatitis treatment;кабинет уролога;L;2
+cystitis;Урология;Лечение цистита у женщин;Cystitis treatment in women;кабинет врача;L;1
+prostatectomy;Урология;Радикальная простатэктомия;Radical prostatectomy;операционная;H;3
+frenuloplasty;Урология;Пластика уздечки крайней плоти;Frenuloplasty;операционная;M;3
+orchiopexy;Урология;Операция при неопущении яичка у мальчика;Undescended testicle surgery in boys;операционная;H;3
+ureteral_stent;Урология;Стент мочеточника: установка и удаление;Ureteral stent placement and removal;кабинет уролога;M;3
+pcnl;Урология;Перкутанная нефролитотрипсия;Percutaneous nephrolithotomy;операционная;H;3
+enuresis;Урология;Лечение ночного недержания у ребёнка;Bedwetting treatment in children;кабинет врача;L;2
+bladder_diary;Урология;Дневник мочеиспускания;Bladder diary;дома: подготовка;L;2
+bladder_botox;Урология;Ботокс в мочевой пузырь при гиперактивности;Bladder Botox for overactive bladder;кабинет уролога;M;3
+tese;Урология;Биопсия яичка (TESE);Testicular sperm extraction (TESE);операционная;H;3
+loop_recorder;Сердце и сосуды: вмешательства;Имплантация петлевого регистратора ЭКГ;Implantable loop recorder;рентгеноперационная (ангиограф);M;3
+pfo_closure;Сердце и сосуды: вмешательства;Закрытие дефекта перегородки сердца (окклюдер);Septal defect closure (occluder);рентгеноперационная (ангиограф);H;3
+tavi;Сердце и сосуды: вмешательства;Транскатетерная замена аортального клапана (TAVI);Transcatheter aortic valve implantation (TAVI);рентгеноперационная (ангиограф);H;3
+laa_closure;Сердце и сосуды: вмешательства;Закрытие ушка левого предсердия;Left atrial appendage closure;рентгеноперационная (ангиограф);H;3
+leg_angioplasty;Сердце и сосуды: вмешательства;Баллонная ангиопластика артерий ног;Balloon angioplasty of leg arteries;рентгеноперационная (ангиограф);H;3
+evar;Сердце и сосуды: вмешательства;Эндопротезирование аневризмы аорты;Endovascular aortic aneurysm repair (EVAR);рентгеноперационная (ангиограф);H;3
+stroke_thrombectomy;Сердце и сосуды: вмешательства;Тромбэктомия при инсульте;Thrombectomy for stroke;рентгеноперационная (ангиограф);H;3
+uae;Сердце и сосуды: вмешательства;Эмболизация маточных артерий;Uterine artery embolisation;рентгеноперационная (ангиограф);H;3
+ep_study;Сердце и сосуды: вмешательства;Электрофизиологическое исследование сердца (ЭФИ);Cardiac electrophysiology study;рентгеноперационная (ангиограф);H;3
+fundoplication;Плановые операции;Операция при грыже пищеводного отверстия и рефлюксе;Hiatal hernia repair and fundoplication;операционная;H;3
+parathyroid;Плановые операции;Удаление паращитовидной железы;Parathyroidectomy;операционная;H;3
+achilles;Плановые операции;Операция при разрыве ахиллова сухожилия;Achilles tendon repair;операционная;H;3
+vertebroplasty;Плановые операции;Вертебропластика при переломе позвонка;Vertebroplasty for a vertebral fracture;операционная;H;3
+pyloromyotomy;Плановые операции;Операция при пилоростенозе у младенца;Pyloromyotomy in infants;операционная;H;3
+lobectomy;Плановые операции;Удаление доли лёгкого;Lung lobectomy;операционная;H;3
+breast_recon;Плановые операции;Реконструкция груди после мастэктомии;Breast reconstruction after mastectomy;операционная;H;3
+abdominoplasty;Плановые операции;Абдоминопластика;Abdominoplasty (tummy tuck);операционная;H;3
+anal_fistula;Плановые операции;Операция при свище прямой кишки;Anal fistula surgery;операционная;H;3
+dupuytren;Плановые операции;Операция при контрактуре Дюпюитрена;Dupuytren's contracture surgery;операционная;H;3
+kidney_transplant;Плановые операции;Пересадка почки;Kidney transplant;операционная;H;3
+breast_reduction;Плановые операции;Уменьшение груди;Breast reduction;операционная;H;3
+meniscus;Плановые операции;Шов и резекция мениска;Meniscus repair and trimming;операционная;H;2
+fasting_preop;Обезболивание и наркоз;Голод перед наркозом: что можно и когда;Fasting before anaesthesia: what and when;дома: подготовка;L;1
+pca;Обезболивание и наркоз;Обезболивание после операции (эпидуральный катетер, помпа);Pain relief after surgery (epidural, PCA pump);палата;M;2
+anest_elderly;Обезболивание и наркоз;Наркоз у пожилых;Anaesthesia in older adults;операционная;H;2
+pain_home;Обезболивание и наркоз;Обезболивание дома после операции;Managing pain at home after surgery;дома: подготовка;L;1
+recovery_room;Обезболивание и наркоз;Пробуждение после наркоза;Waking up after anaesthesia;палата;L;1
+epidural_steroid;Обезболивание и наркоз;Эпидуральная инъекция при боли в спине;Epidural steroid injection for back pain;процедурный / малая операционная;M;3
+rf_denervation;Обезболивание и наркоз;Радиочастотная денервация суставов позвоночника;Radiofrequency denervation of spinal joints;процедурный / малая операционная;M;3
+hip_fracture_rehab;Реабилитация и физиотерапия;Реабилитация после перелома шейки бедра;Rehab after hip fracture;зал реабилитации;L;2
+pulm_rehab;Реабилитация и физиотерапия;Лёгочная реабилитация (после пневмонии, при ХОБЛ);Pulmonary rehabilitation;зал реабилитации;L;2
+spine_surg_rehab;Реабилитация и физиотерапия;Реабилитация после операции на позвоночнике;Rehab after spine surgery;зал реабилитации;L;3
+acl_rehab;Реабилитация и физиотерапия;Реабилитация после пластики связки колена;Rehab after ACL reconstruction;зал реабилитации;L;3
+cp_rehab;Реабилитация и физиотерапия;Реабилитация ребёнка с ДЦП;Rehabilitation for children with cerebral palsy;зал реабилитации;L;3
+lymphedema;Реабилитация и физиотерапия;Лечение лимфедемы (лимфодренаж, прессотерапия);Lymphoedema treatment (drainage, compression);зал реабилитации;L;3
+walking_aids;Реабилитация и физиотерапия;Обучение ходьбе с костылями и ходунками;Learning to walk with crutches or a walker;зал реабилитации;L;2
+insoles;Реабилитация и физиотерапия;Подбор ортопедических стелек;Orthotic insole fitting;зал реабилитации;L;2
+scoliosis_brace;Реабилитация и физиотерапия;Корсет при сколиозе;Scoliosis brace;зал реабилитации;L;3
+scoliosis_lfk;Реабилитация и физиотерапия;ЛФК при сколиозе у ребёнка;Scoliosis exercise therapy for children;зал реабилитации;L;2
+parkinson_rehab;Реабилитация и физиотерапия;Реабилитация при болезни Паркинсона;Rehab for Parkinson's disease;зал реабилитации;L;3
+neuropsych;Реабилитация и физиотерапия;Восстановление памяти и внимания после инсульта;Cognitive rehab after stroke;кабинет врача;L;3
+swallow_rehab;Реабилитация и физиотерапия;Восстановление глотания после инсульта;Swallowing rehab after stroke;зал реабилитации;L;3
+amputation_rehab;Реабилитация и физиотерапия;Реабилитация и протез после ампутации;Rehab and prosthesis after amputation;зал реабилитации;L;3
+defectologist;Реабилитация и физиотерапия;Занятия с дефектологом;Special education sessions (defectologist);кабинет врача;L;3
+autism_aba;Реабилитация и физиотерапия;Абилитация ребёнка с аутизмом (АВА-терапия);Early intervention for autism (ABA);кабинет врача;L;3
+headache_visit;Приёмы и осмотры;Обследование при головной боли и мигрени;Headache and migraine evaluation;кабинет врача;L;1
+memory_screen;Приёмы и осмотры;Проверка памяти (скрининг деменции);Memory check (dementia screening);кабинет врача;L;2
+kids_neuro;Приёмы и осмотры;Приём детского невролога;Paediatric neurology visit;кабинет врача;L;1
+cv_risk;Приёмы и осмотры;Оценка сердечно-сосудистого риска;Cardiovascular risk assessment;кабинет врача;L;2
+fatty_liver;Приёмы и осмотры;Жировой гепатоз: наблюдение у гепатолога;Fatty liver: hepatology follow-up;кабинет врача;L;2
+proctologist;Приёмы и осмотры;Приём проктолога;Proctology visit;процедурный / малая операционная;L;2
+chronic_cough;Приёмы и осмотры;Обследование при хроническом кашле;Chronic cough evaluation;кабинет врача;L;2
+diabetes_foot_exam;Приёмы и осмотры;Осмотр стоп при диабете (чувствительность);Diabetic foot examination;кабинет врача;L;2
+obesity;Приёмы и осмотры;Лечение ожирения у врача;Medical weight management;кабинет врача;L;2
+osteoporosis;Приёмы и осмотры;Обследование и лечение остеопороза;Osteoporosis assessment and treatment;кабинет врача;L;2
+gout;Приёмы и осмотры;Подагра: лечение и диета;Gout: treatment and diet;кабинет врача;L;2
+ra_followup;Приёмы и осмотры;Наблюдение при ревматоидном артрите;Rheumatoid arthritis follow-up;кабинет врача;L;3
+cancer_screen_age;Приёмы и осмотры;Онкоскрининг по возрасту: что и когда;Age-based cancer screening: what and when;кабинет врача;L;1
+phlebologist;Приёмы и осмотры;Приём флеболога;Vein specialist (phlebologist) visit;кабинет врача;L;2
+somnologist;Приёмы и осмотры;Приём сомнолога;Sleep specialist visit;кабинет врача;L;3
+narcologist;Приёмы и осмотры;Приём нарколога;Addiction specialist visit;кабинет врача;L;3
+phthisiatrician;Приёмы и осмотры;Приём фтизиатра;Tuberculosis specialist visit;кабинет врача;L;3
+geriatrician;Приёмы и осмотры;Приём гериатра;Geriatrician visit;кабинет врача;L;3
+palliative_home;Приёмы и осмотры;Паллиативная помощь на дому;Palliative care at home;дома: подготовка;L;3
+kids_orvi;Приёмы и осмотры;Ребёнок заболел ОРВИ: приём педиатра;Child with a cold: paediatrician visit;кабинет врача;L;1
+kids_endo;Приёмы и осмотры;Приём детского эндокринолога (рост, вес, половое созревание);Paediatric endocrinology (growth, weight, puberty);кабинет врача;L;3
+dispans_rf;Приёмы и осмотры;Диспансеризация взрослых (РФ);Adult preventive health check (Russia);кабинет врача;L;1
+screening_kz;Приёмы и осмотры;Скрининговые осмотры по возрасту (РК);Age-based screening programme (Kazakhstan);кабинет врача;L;1
+dispensary;Приёмы и осмотры;Диспансерное наблюдение при хронической болезни;Chronic disease follow-up programme;кабинет врача;L;2
+military_cert;Приёмы и осмотры;Медкомиссия в военкомате;Military medical board;кабинет врача;L;2
+gun_cert;Приёмы и осмотры;Медкомиссия на оружие;Medical certificate for a firearms licence;кабинет врача;L;3
+san_book;Приёмы и осмотры;Санитарная книжка;Health certificate for food and childcare workers;кабинет врача;L;2
+university_cert;Приёмы и осмотры;Медсправка для поступления в вуз;Medical certificate for university admission;кабинет врача;L;2
+pool_cert;Приёмы и осмотры;Справка в бассейн;Medical certificate for a swimming pool;кабинет врача;L;2
+migrant_cert;Приёмы и осмотры;Медосвидетельствование для мигрантов и ВНЖ;Medical exam for migrants and residence permits;кабинет врача;L;2
+disability_mse;Приёмы и осмотры;Медико-социальная экспертиза (инвалидность);Disability assessment;кабинет врача;L;3
+predtrip;Приёмы и осмотры;Предрейсовый медосмотр водителя;Pre-trip medical check for drivers;кабинет врача;L;2
+psych_narco_cert;Приёмы и осмотры;Справки от психиатра и нарколога;Psychiatric and addiction clearance certificates;кабинет врача;L;2
+diabetes_school;Приёмы и осмотры;Школа диабета;Diabetes education programme;кабинет врача;L;2
+hypo;Приёмы и осмотры;Гипогликемия: как распознать и что делать;Hypoglycaemia: signs and what to do;дома: подготовка;L;1
+bread_units;Приёмы и осмотры;Подсчёт хлебных единиц и углеводов;Carbohydrate counting;дома: подготовка;L;2
+diabetic_feet_home;Приёмы и осмотры;Уход за ногами при диабете;Foot care with diabetes;дома: подготовка;L;1
+diabetes_kids_school;Приёмы и осмотры;Ребёнок с диабетом в школе и садике;A child with diabetes at school;дома: подготовка;L;3
+levothyroxine;Приёмы и осмотры;Как принимать гормоны щитовидной железы;How to take thyroid hormone tablets;дома: подготовка;L;2
+htn_crisis;Приёмы и осмотры;Высокое давление дома: что делать;High blood pressure at home: what to do;дома: подготовка;L;1
+asthma_life;Приёмы и осмотры;Жизнь с астмой: план действий;Living with asthma: action plan;дома: подготовка;L;1
+asthma_kids;Приёмы и осмотры;Астма у ребёнка: контроль и приступ;Asthma in children: control and attacks;дома: подготовка;L;2
+copd_life;Приёмы и осмотры;Жизнь с ХОБЛ;Living with COPD;дома: подготовка;L;2
+hf_life;Приёмы и осмотры;Жизнь с сердечной недостаточностью (вес, отёки, соль);Living with heart failure (weight, swelling, salt);дома: подготовка;L;2
+after_mi;Приёмы и осмотры;Жизнь после инфаркта;Life after a heart attack;дома: подготовка;L;2
+ckd_life;Приёмы и осмотры;Хроническая болезнь почек: диета и контроль;Chronic kidney disease: diet and monitoring;дома: подготовка;L;2
+epilepsy_life;Приёмы и осмотры;Эпилепсия: первая помощь при приступе и жизнь;Epilepsy: seizure first aid and daily life;дома: подготовка;L;2
+stroke_home;Приёмы и осмотры;Уход после инсульта дома;Caring for someone after a stroke;дома: подготовка;L;2
+antibiotics;Приёмы и осмотры;Как правильно принимать антибиотики;How to take antibiotics correctly;дома: подготовка;L;1
+af_life;Приёмы и осмотры;Жизнь с фибрилляцией предсердий;Living with atrial fibrillation;дома: подготовка;L;2
+vacc_dtp;Прививки;Прививка АКДС (коклюш, дифтерия, столбняк);DTP vaccine (whooping cough, diphtheria, tetanus);процедурный / малая операционная;L;1
+vacc_polio;Прививки;Прививка от полиомиелита;Polio vaccine;процедурный / малая операционная;L;1
+vacc_hib;Прививки;Прививка от гемофильной инфекции;Hib vaccine;процедурный / малая операционная;L;2
+vacc_mening;Прививки;Прививка от менингококка;Meningococcal vaccine;процедурный / малая операционная;L;2
+vacc_hepa;Прививки;Прививка от гепатита A;Hepatitis A vaccine;процедурный / малая операционная;L;2
+vacc_tbe;Прививки;Прививка от клещевого энцефалита;Tick-borne encephalitis vaccine;процедурный / малая операционная;L;2
+vacc_zoster;Прививки;Прививка от опоясывающего лишая;Shingles vaccine;процедурный / малая операционная;L;3
+vacc_rsv;Прививки;Прививка от РСВ (беременным и пожилым);RSV vaccine (pregnancy and older adults);процедурный / малая операционная;L;3
+rsv_baby;Прививки;Защита младенца от РСВ (моноклональные антитела);RSV antibody protection for infants;процедурный / малая операционная;L;3
+vacc_adults;Прививки;Прививки взрослым: что и когда;Adult vaccination schedule;кабинет врача;L;2
+vacc_reaction;Прививки;Реакция на прививку: что нормально;Vaccine reactions: what is normal;дома: подготовка;L;1

@@ -1,0 +1,80 @@
+{
+ "title": "Bel og‘rig‘ida blokada",
+ "also": [
+  "blokada",
+  "umurtqa blokadasi",
+  "belga ukol",
+  "epidural blokada",
+  "asab blokadasi"
+ ],
+ "what": "Shifokor og‘riq qoldiruvchi, ba’zan gormonal dori bilan birga, umurtqadagi asab yoki bo‘g‘im yoniga yuboradi. Bu og‘riq va yallig‘lanishni kamaytiradi.",
+ "why": "Qo‘l yoki oyoqqa beradigan kuchli bel yoki bo‘yin og‘rig‘ida, disk churrasida, tabletka va davolovchi jismoniy tarbiya kam yordam berganda.",
+ "duration": "odatda 15–30 daqiqa, yana 20–30 daqiqa kuzatuv; ta’siri — bir necha soatdan bir necha kungacha",
+ "tell_doctor": [
+  "Barcha dorilarni, ayniqsa qonni suyultiruvchilarni — shifokor biror narsani o‘zgartirish kerak-kerakmasligini hal qiladi",
+  "Dorilar va og‘riq qoldiruvchilarga allergiya",
+  "Qandli diabet — gormon qandni oshirishi mumkin",
+  "Hozir harorat yoki infeksiya bo‘lsa",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda yengil nonushta mumkin — klinikadan so‘rang."
+  },
+  {
+   "title": "Rasmlar",
+   "text": "Bel MRT yoki KTsini oling — joy shularga qarab tanlanadi."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Muolajadan keyin oyoq uvishib qolishi mumkin. Sizni uyga olib borishsa yaxshi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va MRT yoki KT",
+  "Dorilar ro‘yxati",
+  "Hamroh"
+ ],
+ "steps": [
+  "Qorin ustida yoki yonboshlab yotasiz",
+  "Teri antiseptik bilan artiladi",
+  "Ba’zan avval teri og‘riqsizlantiriladi",
+  "Shifokor ingichka ignani, ko‘pincha rentgen yoki UZI ostida, kiritadi",
+  "Dorini sekin yuboradi",
+  "Igna olinadi, plaster yopishtiriladi",
+  "Bir muddat kuzatuv ostida yotasiz"
+ ],
+ "feel": [
+  "Ukol va bosim",
+  "Ba’zan tanish og‘riq qisqa muddat kuchayadi — demak igna asab yonida",
+  "Belda yoki oyoqda iliqlik yoki uvishish"
+ ],
+ "after": [
+  "Uvishish bir necha soatda o‘tadi — yurganda ehtiyot bo‘ling",
+  "Muolaja kuni rulga o‘tirmang",
+  "Dastlabki 1–2 kun og‘riq hatto kuchayishi mumkin, keyin odatda yengillashadi",
+  "Davolovchi jismoniy tarbiyani shifokor aytganidek davom ettiring"
+ ],
+ "red_flags": [
+  "Oyoqlarda holsizlik, chov sohasida uvishish, siydik yoki najas bilan muammo bo‘lsa — tez yordamni chaqiring (103)",
+  "Harorat 38 dan yuqori, ukol joyida kuchli bel og‘rig‘i",
+  "Yotganda o‘tib ketadigan kuchli bosh og‘rig‘i"
+ ],
+ "faq": [
+  {
+   "q": "Blokada churrani davolaydimi?",
+   "a": "Yo‘q. U harakatlanish va davolanishni davom ettirish uchun og‘riq va yallig‘lanishni olib tashlaydi."
+  },
+  {
+   "q": "Nechta blokada qilsa bo‘ladi?",
+   "a": "Buni shifokor hal qiladi. Odatda blokadalar tez-tez qilinmaydi — oralarida tanaffus kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga blokada. Bel MRTsini oling va sizni uyga kim olib borishini kelishib oling."
+  }
+ ]
+}

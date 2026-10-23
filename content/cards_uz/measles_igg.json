@@ -1,0 +1,72 @@
+{
+ "title": "Qizamiqqa antitanalar (immunitetni tekshirish)",
+ "also": [
+  "qizamiq IgG",
+  "qizamiqqa antitanalar",
+  "qizamiqqa immunitetni tekshirish",
+  "qizamiqqa qarshi emlash bormi"
+ ],
+ "what": "Bu qon tahlili bo‘lib, sizda qizamiqdan himoya bor-yo‘qligini ko‘rsatadi.",
+ "why": "Emlash esingizda bo‘lmasa, homiladorlikdan oldin, tibbiyot xodimlari va o‘qituvchilarga, sayohatlardan oldin, qizamiq avj olganda.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda 1–5 kundan keyin",
+ "tell_doctor": [
+  "Qizamiqqa qarshi emlash bo‘lganmi va qachon",
+  "Qizamiq bilan og‘riganmisiz",
+  "Yaqinda emlangan bo‘lsangiz",
+  "So‘nggi oylarda immunoglobulin yuborilgan yoki qon quyilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Qat’iy och qoringa odatda kerak emas, lekin yengil ovqatdan 3–4 soat o‘tgach, yog‘siz kelgan ma’qul. Laboratoriyadan aniqlab oling."
+  },
+  {
+   "title": "Emlashdan keyin",
+   "text": "Yaqinda emlangan bo‘lsangiz, tahlilni darrov qilish shart emas. Qachon topshirishni shifokor aytadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqorigacha oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "Emlash sertifikati, agar bo‘lsa"
+ ],
+ "steps": [
+  "Siz o‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut tortiladi va musht qilishni so‘rashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, joyiga paxta qo‘yiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Himoya bo‘lmasa, shifokor emlashni taklif qilishi mumkin",
+  "Natijani emlash hujjatlari bilan birga saqlang"
+ ],
+ "red_flags": [
+  "Ukol joyi qattiq shishdi, og‘riydi va qizaradi"
+ ],
+ "faq": [
+  {
+   "q": "Antitanalar kam bo‘lsa, qayta emlanish kerakmi?",
+   "a": "Ko‘pincha ha. Qarorni shifokor emlashlaringizni hisobga olib qabul qiladi."
+  },
+  {
+   "q": "Homiladorlikda emlanish mumkinmi?",
+   "a": "Yo‘q, homiladorlarga qizamiq emlashi qilinmaydi. Shuning uchun himoyani homiladorlikdan oldin tekshirgan ma’qul."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga qizamiqqa antitanalar tahlili. Emlash sertifikatini oling."
+  }
+ ]
+}

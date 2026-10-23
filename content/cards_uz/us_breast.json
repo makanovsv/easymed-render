@@ -1,0 +1,77 @@
+{
+ "title": "Sut bezlari UZIsi",
+ "also": [
+  "ko‘krak UZIsi",
+  "sut bezi UZIsi",
+  "SB UZIsi"
+ ],
+ "what": "Shifokor ko‘krak va qo‘ltiq ostini ultratovush bilan ko‘radi. Bu xavfsiz, nurlanishsiz, istalgan yoshda mos.",
+ "why": "Ko‘krakda qattiqlik yoki og‘riqda, so‘rg‘ichdan ajralma bo‘lganda, profilaktika uchun, mammografiyaga qo‘shimcha sifatida.",
+ "duration": "odatda 15–20 daqiqa",
+ "tell_doctor": [
+  "Oxirgi hayzning birinchi kunini",
+  "Qattiqlik paypaslagan bo‘lsangiz — aynan qayerda",
+  "Ko‘krakda operatsiyalar bo‘lgan yoki implantlar bo‘lsa",
+  "Homilador bo‘lsangiz yoki emizsangiz",
+  "Gormonal dorilar ichasizmi"
+ ],
+ "prepare": [
+  {
+   "title": "Tsikl kuni",
+   "text": "Hayz ko‘rsangiz, tsiklning birinchi yarmida kelgan yaxshi — odatda 5–12-kuni. Menopauzadan keyin — istalgan kuni."
+  },
+  {
+   "title": "Shoshilinch",
+   "text": "Qattiqlik yoki ajralma paydo bo‘lsa — kerakli tsikl kunini kutmang, darrov yoziling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Belgacha oson yechinish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Solishtirish uchun oldingi UZI va mammogrammalar",
+  "Salfetka yoki sochiq"
+ ],
+ "steps": [
+  "Belgacha yechinib, chalqancha yotasiz",
+  "Qo‘lingizni bosh orqasiga qo‘yasiz",
+  "Shifokor gel suradi va har bir ko‘krakni ko‘radi",
+  "Qo‘ltiq osti alohida ko‘riladi — u yerda limfa tugunlari"
+ ],
+ "feel": [
+  "Gel salqin",
+  "Datchik biroz bosadi — bu og‘riqsiz"
+ ],
+ "after": [
+  "Darrov o‘z ishlaringizga qaytsa bo‘ladi",
+  "Xulosa odatda darrov beriladi",
+  "Biror narsa topilsa, shifokor mammografiya yoki biroz vaqtdan keyin nazoratni maslahat berishi mumkin"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ko‘krak UZIsini tsiklning qaysi kuni qilish kerak?",
+   "a": "Odatda tsiklning 5–12-kuni. Bu paytda ko‘krak yumshoqroq bo‘ladi va shifokorga yaxshiroq ko‘rinadi."
+  },
+  {
+   "q": "Qaysi biri yaxshi — UZI yoki mammografiya?",
+   "a": "Ular bir-birini to‘ldiradi. 40 yoshgacha ko‘pincha UZI, 40 dan keyin mammografiya, ba’zan ikkalasi ham qilinadi. Shifokor hal qiladi."
+  },
+  {
+   "q": "Emizish paytida ko‘krak UZIsi qilsa bo‘ladimi?",
+   "a": "Ha, mumkin. UZIdan oldin emizib yoki sog‘ib olgan yaxshi."
+  },
+  {
+   "q": "Ko‘krak UZIsini qanchalik tez-tez qilish kerak?",
+   "a": "UZI zararsiz, uni takrorlash mumkin. Hammasi normal bo‘lsa — odatda yiliga bir marta. Og‘ishlar bo‘lsa — yarim yilda bir marta. Yaxshi sifatli hosilalarda, masalan fibroadenomada, — 3–6 oyda bir marta. Aniq muddatni mammolog aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga sut bezlari UZIsi. Oldingi UZI va mammogrammalarni oling."
+  }
+ ]
+}

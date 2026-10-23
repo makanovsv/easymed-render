@@ -1,0 +1,72 @@
+{
+ "title": "Análisis de composición corporal por bioimpedancia",
+ "also": [
+  "bioimpedancia",
+  "análisis de composición corporal",
+  "medición de grasa y músculo",
+  "báscula de bioimpedancia"
+ ],
+ "what": "Se pasa por el cuerpo una corriente muy débil que no se siente. El aparato calcula cuánta grasa, músculo y agua tiene el cuerpo.",
+ "why": "Para elegir la alimentación y bajar de peso, para vigilar el peso y en algunas enfermedades, por indicación del médico.",
+ "duration": "normalmente de 5 a 10 minutos; el resultado es inmediato",
+ "tell_doctor": [
+  "Si tienes marcapasos u otro aparato implantado: normalmente no se hace la prueba",
+  "Si estás embarazada",
+  "Si tienes prótesis de metal"
+ ],
+ "prepare": [
+  {
+   "title": "Comida y agua",
+   "text": "Normalmente de 2 a 4 horas antes de la prueba no comas ni bebas mucho. Pregunta en la clínica."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Sin alcohol ni ejercicio fuerte."
+  },
+  {
+   "title": "Baño",
+   "text": "Antes de la medición ve al baño."
+  },
+  {
+   "title": "Joyas",
+   "text": "Quítate las joyas de metal y el reloj."
+  }
+ ],
+ "bring": [
+  "La orden médica, si la hay",
+  "Ropa cómoda"
+ ],
+ "steps": [
+  "Te pesan y te miden",
+  "Te acuestas en una camilla o te paras en la báscula analizadora",
+  "Te pegan electrodos en la mano y el pie, o tomas las manijas con las manos",
+  "Estás acostado o parado, tranquilo, unos minutos",
+  "El aparato da el resultado"
+ ],
+ "feel": [
+  "No se siente nada: la corriente es muy débil",
+  "La piel puede sentir fresco por los electrodos"
+ ],
+ "after": [
+  "Te dan la impresión al momento",
+  "Las mediciones siguientes conviene hacerlas a la misma hora del día y en las mismas condiciones",
+  "Comenta el resultado con tu médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Es exacto?",
+   "a": "Es una buena estimación, pero el resultado cambia con la comida, el agua y la hora del día. Compara las mediciones en las mismas condiciones."
+  },
+  {
+   "q": "¿Se puede hacer con marcapasos?",
+   "a": "Normalmente no. Avísalo con anticipación."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "En poco tiempo tienes el análisis de composición corporal. Desde 2 a 4 horas antes no comas ni bebas mucho. Quítate las joyas."
+  }
+ ]
+}

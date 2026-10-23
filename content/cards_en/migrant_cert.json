@@ -1,0 +1,71 @@
+{
+ "title": "Medical exam for migrants and residence permits",
+ "also": [
+  "medical exam for a work permit",
+  "migrant medical exam",
+  "certificate for residence permit",
+  "medical check for foreigners"
+ ],
+ "what": "A medical check for foreigners who are getting a work or residence permit. It checks for some infections and sometimes for drug use.",
+ "why": "When applying for a work permit, a residence permit, a residence card or citizenship.",
+ "duration": "usually 1 to 2 visits, results in a few days",
+ "tell_doctor": [
+  "If you have had tuberculosis, hepatitis, HIV or other infections",
+  "Which medicines you take",
+  "If you are pregnant now"
+ ],
+ "prepare": [
+  {
+   "title": "What is included",
+   "text": "Usually a blood test for HIV and syphilis, a chest X-ray and exams by doctors are needed. The list depends on the country and the document - ask the migration office or the clinic."
+  },
+  {
+   "title": "Clinic",
+   "text": "The exam can only be done at clinics that are authorized for it. Find out the list in advance."
+  },
+  {
+   "title": "Translation",
+   "text": "If you have documents in another language, a translation may be needed."
+  }
+ ],
+ "bring": [
+  "Your passport and a translation of it, if needed",
+  "Your migration card or other papers",
+  "A photo, if required",
+  "Results of earlier tests"
+ ],
+ "steps": [
+  "You come to a clinic authorized to do the exam",
+  "You fill out a form",
+  "You give blood",
+  "You have a chest X-ray",
+  "You see the doctors on the list",
+  "You receive a medical certificate"
+ ],
+ "feel": [
+  "The exams are painless",
+  "The blood test is a short needle prick"
+ ],
+ "after": [
+  "Keep the original of the certificate and a copy",
+  "Submit your papers on time - certificates are valid for a limited period",
+  "If something is found, you will be referred to a doctor"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can I have the exam at any clinic?",
+   "a": "No, only at those that are authorized. Ask the migration office."
+  },
+  {
+   "q": "What if a test is positive?",
+   "a": "You will be referred to a doctor. The clinic and the migration office will explain the next steps."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Medical exam tomorrow. Take your passport, translation and migration papers."
+  }
+ ]
+}

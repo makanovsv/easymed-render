@@ -1,0 +1,78 @@
+{
+ "title": "Punción del seno maxilar",
+ "also": [
+  "punción de senos paranasales",
+  "punción en sinusitis",
+  "lavado del seno maxilar",
+  "punción sinusal"
+ ],
+ "what": "El médico hace una punción con una aguja delgada por la nariz hasta el seno maxilar y lo lava. Así sale el pus.",
+ "why": "Si tienes sinusitis con pus y los medicamentos no ayudan, o para tomar una muestra para análisis.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si eres alérgico a la anestesia",
+  "Si estás embarazada",
+  "Si tienes enfermedades del corazón o de la presión",
+  "Si te operaron de la nariz"
+ ],
+ "prepare": [
+  {
+   "title": "Radiografía",
+   "text": "Normalmente antes del procedimiento te toman una radiografía o tomografía de los senos."
+  },
+  {
+   "title": "Comida",
+   "text": "Puedes comer algo ligero antes."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos por tu cuenta. Díselo al médico."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Las radiografías de los senos",
+  "Pañuelos"
+ ],
+ "steps": [
+  "El médico duerme la nariz con un spray o un algodón",
+  "Te sientas con la cabeza un poco inclinada",
+  "Con una aguja delgada hace una punción en la pared del seno",
+  "Por la aguja lava el seno con una solución",
+  "El líquido con pus sale por la nariz a una charola",
+  "Sacan la aguja"
+ ],
+ "feel": [
+  "La anestesia arde un poco",
+  "Durante la punción sientes un crujido y presión",
+  "El lavado se siente como presión en el cachete"
+ ],
+ "after": [
+  "Puede salir un poco de sangre de la nariz. Normalmente se quita rápido",
+  "No te suenes con fuerza las primeras horas",
+  "Lavados y medicamentos según te indique el médico"
+ ],
+ "red_flags": [
+  "Sangrado fuerte de la nariz",
+  "Hinchazón del cachete o los párpados, dolor en el ojo",
+  "Fiebre de más de 38 después del procedimiento",
+  "Dolor de cabeza fuerte o vómito: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Si me hacen una punción, la voy a necesitar siempre?",
+   "a": "No. Es un mito. La punción no crea dependencia."
+  },
+  {
+   "q": "¿Duele?",
+   "a": "Con la anestesia normalmente no duele, solo es molesto."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu punción del seno. Lleva las radiografías de los senos y pañuelos."
+  }
+ ]
+}

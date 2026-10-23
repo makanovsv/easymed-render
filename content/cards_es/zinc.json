@@ -1,0 +1,76 @@
+{
+ "title": "Zinc en sangre",
+ "also": [
+  "zinc",
+  "prueba de zinc",
+  "nivel de zinc",
+  "oligoelementos en sangre"
+ ],
+ "what": "Es un análisis de sangre que muestra si tu cuerpo tiene suficiente zinc.",
+ "why": "Con caída del cabello, heridas que tardan en sanar, resfriados frecuentes, problemas con el gusto o diarrea larga. En niños, cuando crecen poco.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en unos días",
+ "tell_doctor": [
+  "Si tomas vitaminas o suplementos con zinc",
+  "Si tienes enfermedades del intestino o te operaron del estómago",
+  "Si tomas diuréticos o pastillas hormonales",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente la sangre se toma en la mañana en ayunas: de 8 a 12 horas sin comer. Puedes tomar agua natural. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Suplementos",
+   "text": "Pregúntale al médico si debes dejar los suplementos de zinc antes del análisis."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Un día antes, sin alcohol ni ejercicio intenso. En la mañana mejor no fumes."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "La lista de vitaminas y suplementos que tomas"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Puedes comer de inmediato",
+  "No empieces a tomar zinc por tu cuenta: el médico elegirá la dosis según el resultado"
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y está rojo"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué en ayunas?",
+   "a": "Después de comer, el nivel de zinc en la sangre cambia. En la mañana en ayunas el resultado es más exacto."
+  },
+  {
+   "q": "¿Puedo empezar a tomar zinc sin hacer el análisis?",
+   "a": "Mejor no. El exceso de zinc también hace daño, por eso la dosis y el tiempo los indica el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de zinc. Después de cenar no comas nada. Puedes tomar agua."
+  }
+ ]
+}

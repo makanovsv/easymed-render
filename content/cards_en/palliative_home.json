@@ -1,0 +1,76 @@
+{
+ "title": "Palliative care at home",
+ "also": [
+  "palliative care",
+  "help for seriously ill people",
+  "home palliative service",
+  "caring for a seriously ill person at home"
+ ],
+ "what": "Doctors and nurses come to the home of a seriously ill person. They relieve pain and other symptoms and help the family.",
+ "why": "For a serious illness that cannot be cured, when the main aim is to reduce pain and make life calmer.",
+ "duration": "a visit usually takes 30 to 60 minutes, follow-up for as long as needed",
+ "tell_doctor": [
+  "Which symptoms bother the person most: pain, shortness of breath, nausea, sleeplessness",
+  "Which medicines the person gets and how they cope with them",
+  "Whether they can eat, drink and get up",
+  "Who is giving care and what is hard",
+  "The person's own wishes about treatment"
+ ],
+ "prepare": [
+  {
+   "title": "Referral",
+   "text": "A doctor's report on palliative status is usually needed. Ask your clinic how to get it."
+  },
+  {
+   "title": "Medicines",
+   "text": "Gather all the medicines and notes of when they were given."
+  },
+  {
+   "title": "Questions",
+   "text": "Write down what worries you as the caregiver."
+  }
+ ],
+ "bring": [
+  "The patient's ID",
+  "Discharge summaries and reports",
+  "All the medicines",
+  "Notes about pain and symptoms"
+ ],
+ "steps": [
+  "The team arrives at the set time",
+  "The doctor asks questions and examines the patient",
+  "Assesses pain and other symptoms",
+  "Chooses or changes treatment",
+  "A nurse shows how to give care",
+  "You agree on the next visit and how to be in touch"
+ ],
+ "feel": [
+  "The exam is gentle",
+  "It can be hard for close ones - the team supports the family too"
+ ],
+ "after": [
+  "Give the medicines exactly by the schedule",
+  "Write down how the pain changes",
+  "Call the service if things get worse - do not wait for the next visit"
+ ],
+ "red_flags": [
+  "Severe pain that medicines do not relieve - call the palliative service",
+  "Hard breathing, bleeding or seizures - call your local emergency number or the service"
+ ],
+ "faq": [
+  {
+   "q": "Is palliative care only for the last days?",
+   "a": "No. Help can be received for a long time, so that the person feels better."
+  },
+  {
+   "q": "Can I get pain relief at home?",
+   "a": "Yes, the doctor will choose and prescribe the needed medicines."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Palliative service visit tomorrow. Gather all the medicines and write down what worries you."
+  }
+ ]
+}

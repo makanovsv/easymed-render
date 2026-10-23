@@ -1,0 +1,76 @@
+{
+ "title": "Burundan qon ketishini to‘xtatish",
+ "also": [
+  "burundan qon ketishi",
+  "burundan qon oqishi",
+  "burundagi tomirni kuydirish",
+  "burunni tamponlash"
+ ],
+ "what": "Shifokor qon oqayotgan joyni topadi va uni to‘xtatadi. Ba’zan tomirni kuydiradi yoki burunga tampon qo‘yadi.",
+ "why": "Burundan qon o‘z-o‘zidan to‘xtamasa yoki tez-tez takrorlansa.",
+ "duration": "odatda 15–30 daqiqa; tampon qo‘yilsa, uni odatda 1–2 kundan keyin olishadi",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar — o‘zingiz bekor qilmang",
+  "Yuqori qon bosimi",
+  "Qon kasalliklari, tez-tez ko‘kargan joylar",
+  "Burunga jarohat bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Hoziroq",
+   "text": "O‘tiring va boshni orqaga emas, oldinga eging. Burunning yumshoq qismini 10–15 daqiqa zich qisib turing."
+  },
+  {
+   "title": "Nima qilmaslik kerak",
+   "text": "Boshni orqaga tashlamang va qonni yutmang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Qonni suyultiruvchi dorilar ichsangiz, shifokorga ayting. O‘zingiz bekor qilmang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Salfetkalar"
+ ],
+ "steps": [
+  "Shifokor burunni laxtalardan tozalaydi",
+  "Shilliq qavatni sprey yoki paxta bilan og‘riqsizlantiradi",
+  "Qon oqayotgan tomirni topadi",
+  "Uni kuydiradi yoki tampon qo‘yadi",
+  "Ba’zan bosimni o‘lchashadi",
+  "Uyda nima qilish kerakligini tushuntirishadi"
+ ],
+ "feel": [
+  "Noxush, achishi mumkin",
+  "Tampon burun orqali nafas olishga xalaqit beradi va ko‘zdan yosh keltiradi"
+ ],
+ "after": [
+  "Bir necha kun burunni qoqmang va burunga barmoq tiqmang",
+  "Birinchi kunlari og‘ir ko‘tarmang, issiq narsa ichmang",
+  "Tampon bo‘lsa — uni klinikada olishadi",
+  "Uyda havoni namlang"
+ ],
+ "red_flags": [
+  "Qon 20 daqiqadan ko‘p to‘xtamasa, kuchli oqsa — tez yordamni chaqiring (103)",
+  "Holsizlik, bosh aylanishi, rangning oqarishi",
+  "Boshga zarbadan keyin qon ketsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Nega boshni orqaga tashlash mumkin emas?",
+   "a": "Qon tomoqqa oqadi, uni yutib yuborishadi va qayt qilish boshlanishi mumkin."
+  },
+  {
+   "q": "Nega burundan tez-tez qon ketadi?",
+   "a": "Ko‘pincha havoning quruqligi va mo‘rt tomirlar tufayli. Sababni shifokor topadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Bir soatdan keyin burundan qon ketishi bo‘yicha qabul. Dorilar ro‘yxatini oling."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Estomatite na criança",
+ "also": [
+  "estomatite",
+  "aftas na criança",
+  "feridas na boca",
+  "sapinho",
+  "herpes na boca da criança"
+ ],
+ "what": "São feridinhas doloridas ou manchas brancas na boca da criança. O médico vê a causa e escolhe o tratamento.",
+ "why": "Quando a criança reclama de dor na boca, come mal, e se veem feridinhas na língua, nas bochechas ou na gengiva.",
+ "duration": "a consulta leva normalmente 15 a 30 minutos; as feridinhas normalmente cicatrizam em 1 a 2 semanas",
+ "tell_doctor": [
+  "Quando as feridinhas apareceram e quantas são",
+  "Se teve febre",
+  "Quanto a criança bebe e come",
+  "Se alguém em casa está doente",
+  "Alergias e remédios da criança"
+ ],
+ "prepare": [
+  {
+   "title": "Líquidos",
+   "text": "Antes da consulta, dê líquidos à criança com mais frequência, em golinhos."
+  },
+  {
+   "title": "Comida",
+   "text": "Ofereça comida macia e fresca, sem coisas ácidas e salgadas."
+  }
+ ],
+ "bring": [
+  "Documento da criança",
+  "Lista dos remédios que já deu"
+ ],
+ "steps": [
+  "O médico pergunta como começaram os sintomas",
+  "Examina a boca, a língua, a gengiva e a garganta",
+  "Às vezes olha a pele e mede a temperatura",
+  "Explica com o que tratar a boca e o que dar para a dor",
+  "Diz quando voltar"
+ ],
+ "feel": [
+  "O exame normalmente não dói, mas abrir a boca pode incomodar a criança",
+  "Comer e beber dói, principalmente coisas ácidas e quentes"
+ ],
+ "after": [
+  "Dê líquidos com frequência, mesmo que pouco",
+  "Comida macia e fresca, sem coisas ácidas, apimentadas e quentes",
+  "Pratos, copos e toalha separados para a criança",
+  "Trate a boca como o médico receitou"
+ ],
+ "red_flags": [
+  "A criança quase não bebe, faz pouco xixi, está molinha",
+  "Febre acima de 38 °C por vários dias",
+  "As feridinhas não cicatrizam em mais de 2 semanas ou estão aumentando"
+ ],
+ "faq": [
+  {
+   "q": "Pega?",
+   "a": "Às vezes sim. Depende da causa. O médico diz se é preciso proteger as outras crianças."
+  },
+  {
+   "q": "Pode ir à creche?",
+   "a": "Normalmente não, enquanto a criança está doente e com febre. Confirme com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta sobre a estomatite da criança. Dê líquidos com mais frequência e leve a lista de remédios."
+  }
+ ]
+}

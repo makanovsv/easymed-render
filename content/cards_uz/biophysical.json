@@ -1,0 +1,69 @@
+{
+ "title": "Homila biofizik profili",
+ "also": [
+  "homila BFP",
+  "biofizik profil",
+  "UZI da homila holatini baholash"
+ ],
+ "what": "UZI da shifokor chaqaloq qanday nafas olayotgani, harakatlanayotgani, tonusini ushlab turishini va atrofida qancha homila suvi borligini ko‘radi. Ko‘pincha bunga qo‘shimcha KTG ham qilinadi.",
+ "why": "Odatda uchinchi trimestrda: chaqaloqning ahvolini tekshirish kerak bo‘lganda, masalan homiladorlik oshib ketganda yoki u kamroq qimirlay boshlaganda.",
+ "duration": "odatda 30–40 daqiqa, natija darrov",
+ "tell_doctor": [
+  "Chaqaloq kamroq qimirlay boshlagan bo‘lsa",
+  "Suv sizishi yoki qonli ajralmalar bo‘lsa",
+  "Yuqori bosim yoki diabet bo‘lsa",
+  "Qanday dorilar ichasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Tekshiruvdan oldin ovqatlangan ma’qul — och chaqaloq lanj bo‘lishi mumkin. Klinikadan aniqlang."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Kuzatuv yarim soatgacha cho‘zilishi mumkin, chaqaloq ba’zan uxlab yotadi. Sabr qiling."
+  }
+ ],
+ "bring": [
+  "Homilador almashinuv kartasi",
+  "Oldingi UZI va KTG natijalari",
+  "Suv"
+ ],
+ "steps": [
+  "Kushetkaga yotasiz, qorningizga gel surtiladi",
+  "Shifokor chaqaloqni UZI da ko‘radi",
+  "Nafas harakatlari, tana va qo‘lchalar harakatini qidiradi",
+  "Homila suvi miqdorini o‘lchaydi",
+  "Buyurilgan bo‘lsa, qoringa KTG datchiklari qo‘yilib, yurak urishi yoziladi"
+ ],
+ "feel": [
+  "Og‘riqsiz",
+  "Orqaga yotish noqulay bo‘lishi mumkin — yonboshlab yotishni so‘rasa bo‘ladi"
+ ],
+ "after": [
+  "Shifokor natijani darrov ball bilan aytadi",
+  "Ball kam bo‘lsa, tekshiruv takrorlanishi yoki tug‘ruq masalasi hal qilinishi mumkin — buni shifokor hal qiladi",
+  "Uyda chaqaloqning qimirlashini kuzatib boring"
+ ],
+ "red_flags": [
+  "Chaqaloq deyarli qimirlamay qo‘ydi — darrov tug‘ruqxonaga murojaat qiling",
+  "Suv sizmoqda yoki qon keldi — tez yordamni chaqiring (103)",
+  "Qorinda kuchli og‘riq yoki muntazam tutqanoqlar"
+ ],
+ "faq": [
+  {
+   "q": "UZI da chaqaloq nega qimirlamadi?",
+   "a": "U uxlab yotgan bo‘lishi mumkin. Odatda shifokor shunchaki kutadi yoki holatni o‘zgartirishni so‘raydi."
+  },
+  {
+   "q": "10 dan 8 nimani anglatadi?",
+   "a": "Odatda bu yaxshi natija. Aniq tushuntirishni vaziyatingizni hisobga olib, shifokor beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga homila biofizik profili. Qabuldan oldin ovqatlaning va almashinuv kartasini oling."
+  }
+ ]
+}

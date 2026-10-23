@@ -1,0 +1,83 @@
+{
+ "title": "Continuous glucose monitor sensor",
+ "also": [
+  "glucose sensor",
+  "continuous glucose monitor",
+  "CGM",
+  "sugar sensor on the arm",
+  "glucose monitoring sensor"
+ ],
+ "what": "A small sensor sticks to the skin and shows your sugar around the clock on a phone or reader. You need to prick your finger much less often.",
+ "why": "With diabetes, to see your sugar all the time, including at night.",
+ "duration": "putting it on takes a few minutes; a sensor usually works for 1 to 2 weeks",
+ "tell_doctor": [
+  "If you often have low sugar, especially at night",
+  "If the skin under the plaster gets irritated",
+  "If you are due for an MRI, CT, or X-ray, since the sensor is usually removed",
+  "If the sensor readings differ from your glucose meter"
+ ],
+ "prepare": [
+  {
+   "title": "Site",
+   "text": "Usually the upper arm or the belly, as the instructions say. The skin should be clean, without scars or moles."
+  },
+  {
+   "title": "Skin",
+   "text": "Wipe the spot with an alcohol wipe and let it dry. Do not put creams on that spot."
+  },
+  {
+   "title": "Phone",
+   "text": "Install the app beforehand and make sure your phone is charged."
+  },
+  {
+   "title": "Meter",
+   "text": "Keep your glucose meter, as you need it if how you feel does not match the sensor numbers."
+  }
+ ],
+ "bring": [
+  "A new sensor and applicator",
+  "Alcohol wipes",
+  "A phone or a reader",
+  "A glucose meter"
+ ],
+ "steps": [
+  "Wash your hands and check the sensor's expiry date",
+  "Wipe your skin with alcohol and wait until it dries",
+  "Prepare the applicator following the instructions",
+  "Press the applicator against the skin and push, so the sensor attaches",
+  "Carefully remove the applicator and smooth down the plaster",
+  "Connect the sensor in the app",
+  "Wait for the warm-up time, as the first numbers do not appear right away"
+ ],
+ "feel": [
+  "The prick is barely felt",
+  "You notice the sensor on your skin for the first hours, then get used to it"
+ ],
+ "after": [
+  "Do not catch the sensor on clothing, and take care in doorways and with bags",
+  "You can usually swim and shower, but check the instructions",
+  "If numbers look odd, check your sugar with the meter",
+  "Show the graphs to your doctor, who uses them to adjust treatment"
+ ],
+ "red_flags": [
+  "Shakiness, sweating, or confusion: check your sugar and eat something sweet, even if the sensor shows normal",
+  "Redness, pain, or pus under the sensor: remove it and see a doctor",
+  "A person is unconscious or having seizures: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Do I still need to prick my finger?",
+   "a": "Much less often. Check by finger if how you feel does not match the numbers, or if the sensor asks."
+  },
+  {
+   "q": "Why does the sensor show different numbers than the meter?",
+   "a": "The sensor measures sugar in the fluid under the skin, and it lags by a few minutes. A small difference is normal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Your sensor expires tomorrow. Have a new one ready, along with alcohol wipes."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Chaqaloq eshitishini ob’ektiv tekshirish (KSVP, ASSR)",
+ "also": [
+  "KSVP",
+  "ASSR",
+  "yangi tug‘ilganning eshitishini tekshirish",
+  "eshitish chaqirilgan potensiallari",
+  "uyquda audiometriya"
+ ],
+ "what": "Chaqaloqning boshiga datchiklar yopishtirib, quloqlariga past tovushlar berishadi. Asbob miyaning javobini yozib oladi va bola qanday eshitishini ko‘rsatadi.",
+ "why": "Chaqaloq tug‘ruqxonada eshitish skriningidan o‘tmaganda, eshitish buzilishi xavfi bo‘lganda yoki uning darajasini aniq belgilash kerak bo‘lganda.",
+ "duration": "odatda 30–90 daqiqa, xulosa darhol yoki o‘sha kuni",
+ "tell_doctor": [
+  "Chaqaloq tug‘ruqxonada skriningdan o‘tmaganmi",
+  "Oilangizda eshitish buzilishlari bo‘lganmi",
+  "Homiladorlik va tug‘ruq qanday o‘tgan",
+  "Otit yoki tumov bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Uyqu",
+   "text": "Test chaqaloq uxlayotganda qilinadi. Tashrifdan oldin uxlamasligiga harakat qiling, uyquchan holda keling."
+  },
+  {
+   "title": "Ovqatlantirish",
+   "text": "Chaqaloqni testdan oldin to‘g‘ridan-to‘g‘ri ovqatlantirgan qulay: ovqatdan keyin u uxlab qoladi."
+  },
+  {
+   "title": "Sog‘liq",
+   "text": "Chaqaloqda tumov yoki otit bo‘lsa, qo‘ng‘iroq qiling: testni ko‘chirishlari mumkin."
+  },
+  {
+   "title": "Kattaroq bolalarga",
+   "text": "Ba’zan test yengil sedatsiya ostida uyquda qilinadi. Tayyorgarlikni shifokor tushuntiradi."
+  }
+ ],
+ "bring": [
+  "Shisha yoki emizishga tayyor bo‘ling",
+  "Yengil ko‘rpacha va taglik",
+  "Ko‘rpacha",
+  "Tug‘ruqxonadan ko‘chirma"
+ ],
+ "steps": [
+  "Chaqaloqni ovqatlantirib, uxlatishadi",
+  "Peshona va quloq orqasidagi terini artishadi",
+  "Bir nechta kichik datchik yopishtirishadi",
+  "Quloqlarga yumshoq quloqchin qo‘yishadi",
+  "Chaqaloq uxlayotganda tovushlar berib, javobni yozishadi",
+  "Datchiklarni yechishadi"
+ ],
+ "feel": [
+  "Chaqaloq uchun og‘riqsiz",
+  "Chaqaloq uyg‘onib ketsa, testni to‘xtatib turishadi"
+ ],
+ "after": [
+  "Natijani odatda darhol aytishadi",
+  "Eshitish pasaygan bo‘lsa, shifokor keyin nima qilishni aytadi",
+  "Muammo qanchalik erta topilsa, davo natijalari shunchalik yaxshi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nega chaqaloq uxlashi kerak?",
+   "a": "Uyquda harakatlar bo‘lmaydi va asbob kuchsiz signallarni aniqroq yozadi."
+  },
+  {
+   "q": "Tug‘ruqxonadagi skriningdan o‘tmasa, eshitmaydi degani emasmi?",
+   "a": "Shart emas. Ko‘pincha bu tug‘ruqdan keyin quloqdagi suyuqlik. Aniqini shu test ko‘rsatadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga chaqaloqning eshitishini tekshirish. Uni uyquchan holda olib keling va testdan oldin ovqatlantiring. Taglik va tagliklarni oling."
+  }
+ ]
+}

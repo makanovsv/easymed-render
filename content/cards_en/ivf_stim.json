@@ -1,0 +1,83 @@
+{
+ "title": "IVF: ovarian stimulation and injections",
+ "also": [
+  "IVF stimulation",
+  "IVF injections",
+  "ovarian stimulation",
+  "IVF protocol"
+ ],
+ "what": "You give yourself hormone injections so that several eggs mature in the ovaries. The doctor watches this with ultrasounds and blood tests.",
+ "why": "This is the first stage of IVF. It starts on your doctor's schedule, usually at the beginning of the cycle.",
+ "duration": "injections usually last 8 to 14 days, with several ultrasounds",
+ "tell_doctor": [
+  "All your medicines. Do not stop them on your own",
+  "Allergies",
+  "How you handled past stimulation",
+  "Long-term illnesses",
+  "If you are afraid to inject yourself. You will get help"
+ ],
+ "prepare": [
+  {
+   "title": "Schedule",
+   "text": "Get a written schedule from your doctor: which medicine, what dose, and what time."
+  },
+  {
+   "title": "Storage",
+   "text": "Some medicines are kept in the fridge. Check the instructions."
+  },
+  {
+   "title": "Training",
+   "text": "Ask the nurse to show you how to give the injection."
+  },
+  {
+   "title": "Calendar",
+   "text": "Set phone reminders for your injection times."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your medicine schedule",
+  "Your medicines, if asked to bring them",
+  "Your injection diary"
+ ],
+ "steps": [
+  "Wash your hands and get the pen or syringe ready",
+  "Wipe the skin on your belly with an alcohol wipe",
+  "Pinch a fold of skin",
+  "Put in the needle and slowly inject the medicine",
+  "Hold the needle for a few seconds, then take it out",
+  "Write down the time and dose",
+  "Come for ultrasounds and blood tests on the set days"
+ ],
+ "feel": [
+  "A quick prick, sometimes a small bruise",
+  "Bloating and heaviness low in the belly",
+  "Mood swings and tiredness"
+ ],
+ "after": [
+  "When the follicles are mature, you get a trigger shot. Give it at exactly the set time",
+  "At a set time after it, the eggs are collected",
+  "No hard workouts during stimulation"
+ ],
+ "red_flags": [
+  "Severe belly pain or bloating: call your doctor or emergency services",
+  "Shortness of breath, little urine, or sudden weight gain: call emergency services",
+  "Severe weakness or dizziness"
+ ],
+ "faq": [
+  {
+   "q": "What if I missed an injection?",
+   "a": "Call your doctor or clinic right away. Do not double the dose on your own."
+  },
+  {
+   "q": "Can I work during stimulation?",
+   "a": "Usually yes. The main thing is not to miss injections and ultrasounds."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Time for your IVF injection. Check the medicine and dose, and write down the time."
+  }
+ ]
+}

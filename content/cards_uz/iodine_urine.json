@@ -1,0 +1,73 @@
+{
+ "title": "Siydikdagi yod",
+ "also": [
+  "siydikdagi yod",
+  "yodurya",
+  "yod tahlili",
+  "yod yetishmasligini tekshirish"
+ ],
+ "what": "Bu siydik tahlili bo‘lib, organizm ovqat bilan qancha yod olayotganini ko‘rsatadi.",
+ "why": "Yod yetishmasligi yoki ko‘pligini tekshirish uchun: qalqonsimon bez kasalliklarida, homiladorlikda, radioaktiv yod bilan davolashdan oldin.",
+ "duration": "siydik yig‘ish — bir necha daqiqa yoki bir sutka, natija odatda bir necha kundan keyin",
+ "tell_doctor": [
+  "Yodli vitamin yoki qo‘shimchalar ichsangiz",
+  "Yaqinda kontrast bilan KT yoki boshqa tekshiruv qilingan bo‘lsa",
+  "Terini yod bilan surtsangiz yoki og‘izni yodli vositalar bilan chaysangiz",
+  "Homilador bo‘lsangiz yoki emizsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Kontrast",
+   "text": "Kontrastli KTdan keyin siydikda yod bir necha hafta ko‘p bo‘ladi. Shifokorga ayting — tahlil, ehtimol, keyinga qoldiriladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatdagidek yeng, lekin bir kun oldin ko‘p miqdorda dengiz karami va dengiz mahsulotlari yemang."
+  },
+  {
+   "title": "Qo‘shimchalar",
+   "text": "O‘zingiz bekor qilmang. Yod qabul qilishda tanaffus kerakmi, shifokordan so‘rang."
+  },
+  {
+   "title": "Yig‘ish",
+   "text": "Odatda ertalabki siydik topshiriladi. Ba’zan shifokor bir sutkalik siydikni yig‘ishni so‘raydi — aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Siydik solingan idish",
+  "Hujjat"
+ ],
+ "steps": [
+  "Dorixonadan yoki laboratoriyadan steril idish oling",
+  "Ertalab qo‘llaringizni yuving va yodli bo‘lmagan sovunsiz suv bilan yuvining",
+  "Idish chetiga tegmasdan unga siying",
+  "Qopqog‘ini mahkam yoping",
+  "Siydikni bir necha soat ichida laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Noqulay narsa yo‘q — bu oddiy siydik yig‘ishdir",
+  "Idishga tushish biroz noqulay — uni tashqi tomonidan ushlang"
+ ],
+ "after": [
+  "Darrov odatdagidek yeb-ichsangiz bo‘ladi",
+  "Bitta tahlil natijasi kundan kunga o‘zgarishi mumkin — shifokor ba’zan qaytadan topshirtiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tahlildan oldin yodlangan tuz yeyish mumkinmi?",
+   "a": "Ha, odatdagidek yeng. Tahlil sizning odatiy ovqatlanishingizni ko‘rsatishi kerak."
+  },
+  {
+   "q": "Kontrastli KT natijaga ta’sir qiladimi?",
+   "a": "Ha, kuchli ta’sir qiladi. So‘nggi haftalarda KT qilingan bo‘lsa, shifokorga ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga yodga siydik tahlili. Ertalabki siydikni steril idishga yig‘ib, bir necha soat ichida laboratoriyaga olib boring."
+  }
+ ]
+}

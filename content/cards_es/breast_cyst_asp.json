@@ -1,0 +1,75 @@
+{
+ "title": "Punción de un quiste de mama",
+ "also": [
+  "punción de quiste en el pecho",
+  "aspiración de quiste de mama",
+  "sacar líquido de un quiste del pecho"
+ ],
+ "what": "El médico, con una aguja delgada y guiado por ultrasonido, saca el líquido de un quiste en el pecho. Normalmente el quiste se desinfla.",
+ "why": "Si el quiste duele, es grande o se ve diferente, por decisión del médico.",
+ "duration": "normalmente de 10 a 20 minutos; el análisis del líquido, si se hace, tarda unos días",
+ "tell_doctor": [
+  "Medicamentos que adelgazan la sangre",
+  "Embarazo o lactancia",
+  "Alergia a antisépticos o a la anestesia local",
+  "Implantes en el pecho"
+ ],
+ "prepare": [
+  {
+   "title": "Ropa",
+   "text": "Es más cómoda una prenda de dos piezas."
+  },
+  {
+   "title": "Piel",
+   "text": "El día del procedimiento no te pongas cremas ni desodorante en el pecho."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Ultrasonidos y mamografías anteriores",
+  "Un documento de identidad"
+ ],
+ "steps": [
+  "Te desvistes de la cintura para arriba y te acuestas",
+  "El médico encuentra el quiste en el ultrasonido",
+  "Limpian la piel y a veces ponen anestesia",
+  "Introducen una aguja delgada en el quiste y sacan el líquido",
+  "En el ultrasonido comprueban que el quiste se desinfló",
+  "Presionan el sitio de la punción y ponen una curita"
+ ],
+ "feel": [
+  "Un pinchazo, como al sacar sangre",
+  "Una presión leve",
+  "Muchas veces el dolor del quiste se quita enseguida"
+ ],
+ "after": [
+  "Puedes poner frío 10 o 15 minutos",
+  "Puede salir un pequeño moretón y se quita solo",
+  "El ultrasonido de control, en el plazo que diga el médico"
+ ],
+ "red_flags": [
+  "El pecho se hincha mucho, se pone rojo y caliente",
+  "Fiebre",
+  "Sangrado que no se detiene"
+ ],
+ "faq": [
+  {
+   "q": "¿El quiste volverá?",
+   "a": "A veces sí. Entonces se puede volver a drenar, si el médico lo considera necesario."
+  },
+  {
+   "q": "¿Es peligroso un quiste?",
+   "a": "Un quiste simple normalmente no es peligroso. El médico lo evaluará en el ultrasonido y decidirá qué sigue."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes la punción del quiste del pecho. En la mañana, sin crema ni desodorante; lleva los ultrasonidos anteriores."
+  }
+ ]
+}

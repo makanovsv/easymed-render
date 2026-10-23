@@ -1,0 +1,77 @@
+{
+ "title": "Implante de monitor de eventos cardíacos (loop recorder)",
+ "also": [
+  "loop recorder",
+  "monitor cardíaco implantável",
+  "Holter implantável",
+  "registrador de eventos implantável"
+ ],
+ "what": "Colocam embaixo da pele do peito um aparelho pequeno, do tamanho de um pen drive. Ele grava o ritmo do coração por anos.",
+ "why": "Para desmaios ou batimentos irregulares que acontecem raramente e não aparecem no eletrocardiograma comum nem no Holter de 24 horas.",
+ "duration": "o procedimento leva normalmente de 15 a 30 minutos; o aparelho costuma funcionar por alguns anos",
+ "tell_doctor": [
+  "Remédios, principalmente os que afinam o sangue",
+  "Alergias, inclusive a anestésicos",
+  "Com que frequência as crises acontecem e como elas são",
+  "Doenças de coagulação do sangue"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente pode tomar um café da manhã leve. Confirme na clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. O médico vai dizer o que tomar no dia do procedimento."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, que não aperte o peito."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Pedido médico e eletrocardiogramas anteriores",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você deita na mesa e o peito é limpo com antisséptico",
+  "Aplicam anestesia embaixo da pele, do lado esquerdo do peito",
+  "O médico faz um corte pequeno",
+  "O aparelho é colocado embaixo da pele",
+  "O corte é fechado com ponto ou cola",
+  "O aparelho é configurado e explicam como usar"
+ ],
+ "feel": [
+  "A injeção anestésica: alguns segundos",
+  "Durante o procedimento: pressão, sem dor",
+  "Por uns dois dias o local pode doer um pouco"
+ ],
+ "after": [
+  "Mantenha o local seco até o médico liberar",
+  "Durante uma crise, aperte o botão do controle, se houver",
+  "Os dados são enviados ao médico. A clínica diz com que frequência",
+  "Quando o aparelho não for mais necessário, ele é retirado do mesmo jeito simples"
+ ],
+ "red_flags": [
+  "Vermelhidão, inchaço ou pus no local",
+  "Febre acima de 38 graus",
+  "Desmaio ou dor forte no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso fazer ressonância com ele?",
+   "a": "A maioria desses aparelhos pode passar por ressonância em certas condições. Mostre o cartão do aparelho antes do exame."
+  },
+  {
+   "q": "O aparelho trata o ritmo?",
+   "a": "Não. Ele só grava. Com a gravação, o médico decide qual tratamento é necessário."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a colocação do monitor cardíaco. Documentos, eletrocardiogramas anteriores e lista de remédios."
+  }
+ ]
+}

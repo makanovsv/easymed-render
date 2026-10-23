@@ -1,0 +1,74 @@
+{
+ "title": "Donor sifatida qon topshirish",
+ "also": [
+  "qon donorligi",
+  "donor bo‘lish",
+  "donor sifatida qon topshirish",
+  "plazma donori"
+ ],
+ "what": "Siz bepul taxminan 450 ml qon yoki uning bir qismini — plazma yoki trombotsitlarni topshirasiz. Bu qon boshqa odamlarni qutqaradi.",
+ "why": "Donor qoni operatsiyalarda, jarohatlarda, tug‘ruqda, saraton va qon kasalliklarini davolashda kerak.",
+ "duration": "odatda anketa va ko‘rik bilan birga taxminan bir soat; butun qon topshirishning o‘zi — taxminan 10 daqiqa, plazma — uzoqroq",
+ "tell_doctor": [
+  "Barcha kasalliklar va dorilar — anketada rostini ayting",
+  "Yaqinda tatuirovkalar, pirsing, operatsiyalar, safarlar",
+  "Yaqinda kasal bo‘lgan yoki antibiotik ichgan bo‘lsangiz",
+  "Homilador bo‘lsangiz yoki emizsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Talablar",
+   "text": "Odatda donor 18 yoshdan oshgan, vazni 50 kg dan kam bo‘lmagan sog‘lom kattalar bo‘lishi mumkin. Aniq shartlarni qon markazida aytishadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Och kelmang. Yog‘siz yengil nonushta: suvli bo‘tqa, quritilgan non, shirin choy."
+  },
+  {
+   "title": "Oldingi kun",
+   "text": "2 kun oldin — alkogolsiz. Oldingi kuni — yog‘li ovqatsiz, yaxshi uxlang. Topshirishdan bir soat oldin chekmang."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Suv"
+ ],
+ "steps": [
+  "Sog‘lig‘ingiz haqida anketani to‘ldirasiz",
+  "Barmoqdan gemoglobinga bir tomchi qon olinadi",
+  "Shifokor bosimni o‘lchaydi va qisqa ko‘rik o‘tkazadi",
+  "Donor kreslosiga yotasiz",
+  "Tirsakdagi venaga igna kiritiladi, qon xaltaga yig‘iladi",
+  "Igna olinadi, bog‘lam qo‘yiladi"
+ ],
+ "feel": [
+  "Igna kiritilganda sanchiq",
+  "Ba’zan yengil bosh aylanishi — darhol hamshiraga ayting"
+ ],
+ "after": [
+  "10–15 daqiqa o‘tiring, shirin choy iching",
+  "Bog‘lamni 3–4 soat olmang",
+  "O‘sha kuni — ko‘proq suyuqlik iching, og‘ir yuklamasiz va alkogolsiz",
+  "Keyingi topshirish qon markazida aytiladigan muddatdan oldin emas"
+ ],
+ "red_flags": [
+  "Takroriy hushdan ketish, uyda kuchli holsizlik — shifokorga xabar bering",
+  "Qo‘l shishdi, qattiq og‘riydi yoki uvishadi"
+ ],
+ "faq": [
+  {
+   "q": "Qon topshirganda kasallik yuqtirsa bo‘ladimi?",
+   "a": "Yo‘q. Ignalar va xaltalar bir martalik va sizning ko‘z oldingizda ochiladi."
+  },
+  {
+   "q": "Qon qancha vaqtda tiklanadi?",
+   "a": "Suyuqlik hajmi — 1–2 kunda. Qon hujayralari — bir necha haftada, shuning uchun topshirishlar orasida tanaffus kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga qon topshirish. Bugun yog‘li va alkogolsiz, yaxshi uxlang. Ertalab yengil nonushta qiling — och qolmang."
+  }
+ ]
+}

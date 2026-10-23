@@ -1,0 +1,77 @@
+{
+ "title": "Limfa tuguni biopsiyasi",
+ "also": [
+  "limfa tuguni biopsiyasi",
+  "limfa tugunini punksiya qilish",
+  "limfa tugunini tahlil uchun olib tashlash",
+  "limfa tugunining ingichka igna aspiratsiyasi"
+ ],
+ "what": "Shifokor kattalashgan limfa tugunidan bo‘lak oladi yoki uni butunlay olib tashlaydi, mikroskop ostida tekshirish uchun. Buni UTT nazoratida igna bilan yoki kichik kesma orqali qilishadi.",
+ "why": "Limfa tuguni uzoq vaqt kattalashgan va sababi noma’lum bo‘lsa, qon kasalliklari yoki o‘smaga shubha bo‘lganda, tashxisni aniqlashtirish uchun.",
+ "duration": "igna biopsiyasi odatda 15–30 daqiqa, tugunni olib tashlash — 30–60 daqiqa; natija — odatda 1–2 haftadan keyin",
+ "tell_doctor": [
+  "Barcha dorilarni, ayniqsa qonni suyultiruvchilarni — biror narsani o‘zgartirish kerakmi, shifokor hal qiladi",
+  "Allergiyalar, shu jumladan og‘riqsizlantiruvchilarga",
+  "Qandli diabet",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Biopsiya turi",
+   "text": "Shifokor igna yoki kesma bo‘lishini va qanday og‘riqsizlantirish — mahalliy yoki behushlik bo‘lishini aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Mahalliy og‘riqsizlantirishda odatda ovqatlansangiz bo‘ladi. Behushlik bo‘lsa — klinika qoidalari bo‘yicha yemang va ichmang."
+  },
+  {
+   "title": "Hamroh",
+   "text": "Behushlik yoki sedatsiya bo‘lsa, sizni olib ketadigan odam kerak."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, tahlillar va limfa tuguni UTTsi",
+  "Dorilar ro‘yxati",
+  "Behushlik bo‘lsa, hamroh"
+ ],
+ "steps": [
+  "Tugunga qulay yondashish uchun yotasiz",
+  "Teri ishlanadi va og‘riqsizlantiriladi",
+  "Igna biopsiyasida igna tugunga UTT nazoratida kiritiladi",
+  "Ochiq biopsiyada kichik kesma qilinib, tugun olib tashlanadi",
+  "Joyi tikiladi yoki yopishtiriladi",
+  "Bog‘lam qo‘yiladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantirishda ukol va achishish",
+  "Muolaja paytida bosim",
+  "Keyin — joyida ozgina og‘riq va shish"
+ ],
+ "after": [
+  "Odatda o‘sha kuni uyga",
+  "Bog‘lamni shifokor aytgancha quruq saqlang",
+  "Choklar 7–10 kundan keyin olinadi yoki o‘zi so‘riladi",
+  "Natijani odatda qabulda shifokor tushuntiradi"
+ ],
+ "red_flags": [
+  "Kuchli shish, qon bog‘lamni ho‘l qilmoqda",
+  "Harorat 38 dan yuqori, kesma joyida qizarish va yiring",
+  "Biopsiya bo‘yinda bo‘lgan bo‘lsa va nafas olish yoki yutish qiyinlashsa — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Kattalashgan limfa tuguni xavfli emasmi?",
+   "a": "Ko‘pincha limfa tugunlari infeksiyadan kattalashadi. Biopsiya sababini aniq bilish uchun kerak."
+  },
+  {
+   "q": "Nega tugunni butunlay olib tashlash kerak?",
+   "a": "Ba’zan aniq tashxis uchun bo‘lak emas, butun tugun kerak bo‘ladi. Bitta tugunsiz organizm odatdagidek ishlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga limfa tuguni biopsiyasi. Ertalab ovqatlansa bo‘ladimi, aniqlab oling. UTT va dorilar ro‘yxatini oling."
+  }
+ ]
+}

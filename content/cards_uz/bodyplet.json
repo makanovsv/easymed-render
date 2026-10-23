@@ -1,0 +1,76 @@
+{
+ "title": "Bodipletizmografiya",
+ "also": [
+  "bodipletizmografiya",
+  "bodibox",
+  "o‘pka kabinasi",
+  "o‘pka hajmini tekshirish"
+ ],
+ "what": "Shaffof kabinada o‘tirib, naychaga nafas olasiz. Asbob o‘pka hajmini va havo bronxlardan qanday o‘tishini aniq o‘lchaydi.",
+ "why": "Oddiy spirometriya yetarli bo‘lmaganda: o‘pka kasalliklarini aniqlashtirish, o‘pka operatsiyasidan oldin, davoni nazorat qilish uchun.",
+ "duration": "odatda 20–40 daqiqa, xulosa odatda o‘sha kuni",
+ "tell_doctor": [
+  "Nafas uchun qanday ingalyator va dorilardan foydalanasiz",
+  "Yaqinda ko‘z, ko‘krak yoki qorin operatsiyasi bo‘lgan bo‘lsa",
+  "Yaqinda infarkt bo‘lgan yoki yurak kasalliklari bo‘lsa",
+  "Hozir shamollash yoki zo‘rayish bo‘lsa",
+  "Yopiq joydan qo‘rqsangiz — kabina shaffof, eshik darrov ochiladi"
+ ],
+ "prepare": [
+  {
+   "title": "Chekish va qahva",
+   "text": "Kamida bir necha soat chekmang. Ertalab qahva va quyuq choysiz."
+  },
+  {
+   "title": "Ingalyatorlar",
+   "text": "Testdan oldin ingalyator ishlatish kerakmi, shifokordan so‘rang. O‘zingiz bekor qilmang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "2 soat oldin yengil nonushta. To‘yib yemang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Erkin, qisadigan belbog‘siz."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "O‘z ingalyatorlaringiz",
+  "Oldingi spirometriyalar",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shaffof kabinaga o‘tirasiz, eshik yopiladi",
+  "Burunga qisqich qo‘yiladi, lablar bilan naychani olasiz",
+  "Avval sokin nafas olasiz",
+  "Naycha bir soniyaga to‘silardi — siz yumshoq nafas olishda davom etasiz",
+  "Ba’zan chuqur nafas olish va kuchli chiqarish so‘raladi",
+  "Bir necha daqiqadan keyin eshik ochiladi"
+ ],
+ "feel": [
+  "Kabina yopiq, lekin shaffof, va siz bilan gaplashishadi",
+  "Naycha to‘silganda nafas olish qiyindek tuyuladi — bu 1–2 soniya"
+ ],
+ "after": [
+  "Darrov odatiy ishlarga qaytsangiz bo‘ladi",
+  "Xulosa odatda o‘sha kuni"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Kabinada qo‘rqib ketsam-chi?",
+   "a": "Ayting yoki qo‘lingizni siltang — eshik darrov ochiladi."
+  },
+  {
+   "q": "Spirometriyadan nimasi bilan farq qiladi?",
+   "a": "Spirometriya nafas chiqarishni o‘lchaydi. Bodipletizmografiya o‘pkaning butun hajmini va nafas chiqarilgandan keyin qoladigan narsani ko‘rsatadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bodipletizmografiya. Ertalab chekmang va qahva ichmang. Ingalyatorlar haqida shifokordan so‘rang."
+  }
+ ]
+}

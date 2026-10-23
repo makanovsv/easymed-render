@@ -1,0 +1,74 @@
+{
+ "title": "Onkolog qabuli",
+ "also": [
+  "onkolog",
+  "onkolog shifokor",
+  "onkolog maslahati"
+ ],
+ "what": "O‘smaga gumonni tekshiradigan, tekshiruv va davolashni buyuradigan hamda undan keyin kuzatadigan shifokor.",
+ "why": "Tekshiruvda tekshirish kerak bo‘lgan hosila yoki o‘zgarishlar topilgan bo‘lsa. Shuningdek, davolashdan keyin kuzatuv uchun.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Nima bezovta qiladi va qachondan beri",
+  "Barcha dorilar",
+  "Surunkali kasalliklar va operatsiyalar",
+  "Qarindoshlarda onkologik kasalliklar",
+  "Qanday tekshiruvlar allaqachon qilingan"
+ ],
+ "prepare": [
+  {
+   "title": "Hujjatlar",
+   "text": "Barcha tekshiruvlarni to‘plang: diskdagi suratlar, xulosalar, biopsiya natijalari."
+  },
+  {
+   "title": "Savollar",
+   "text": "Savollarni oldindan yozib qo‘ying — qabulda hayajondan unutish oson."
+  },
+  {
+   "title": "Qo‘llab-quvvatlash",
+   "text": "Yaqin odam bilan kelishingiz mumkin."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Diskdagi suratlar va ularning xulosalari",
+  "Biopsiya natijalari, berilgan bo‘lsa shisha va bloklar",
+  "Oldingi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarning o‘zi"
+ ],
+ "steps": [
+  "Shifokor so‘raydi va hujjatlarni o‘rganadi",
+  "Kerakli joy va limfa tugunlarini ko‘radi va paypaslaydi",
+  "Hozir nimalar ma’lum va nimani aniqlash kerakligini tushuntiradi",
+  "Tekshiruv buyuradi yoki davolash rejasini muhokama qiladi",
+  "Savollaringizga javob beradi"
+ ],
+ "feel": [
+  "Ko‘rik og‘rimaydi",
+  "Hayajonlanish — normal. Tushunarsiz narsalarning hammasini so‘rang"
+ ],
+ "after": [
+  "Buyurilgan tekshiruvlarni o‘z vaqtida qiling",
+  "Shifokor so‘zlarini yozib borishingiz yoki ko‘chirma so‘rashingiz mumkin",
+  "Shifokorsiz o‘zingiz hech qanday vosita boshlamang"
+ ],
+ "red_flags": [
+  "Davolash paytida kuchli og‘riq, qon ketishi, yuqori harorat — shifokorga qo‘ng‘iroq qiling yoki tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Onkologga yo‘llashdi — demak, menda saraton bormi?",
+   "a": "Yo‘q. Ko‘pincha onkologga o‘smani inkor etish uchun yo‘llashadi. Javobni tekshiruvlar beradi."
+  },
+  {
+   "q": "Yaqin odamni olib kelsa bo‘ladimi?",
+   "a": "Ha, bu yordam beradi. U siz o‘tkazib yuborishingiz mumkin bo‘lgan narsani eslab qoladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga onkolog qabuli. Barcha suratlar, xulosalarni to‘plang va savollarni yozib qo‘ying."
+  }
+ ]
+}

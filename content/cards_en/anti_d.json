@@ -1,0 +1,74 @@
+{
+ "title": "Anti-D immunoglobulin",
+ "also": [
+  "anti-D injection",
+  "Rh immunoglobulin",
+  "RhoGAM shot",
+  "Rh negative in pregnancy"
+ ],
+ "what": "This is an injection for a woman with Rh-negative blood. It protects the baby from Rh disease in this and future pregnancies.",
+ "why": "If the mother is Rh-negative and the baby may be Rh-positive. Usually around 28 weeks, after birth, and at other times as your doctor decides.",
+ "duration": "the injection takes 1 to 2 minutes; afterward you are watched for about 30 minutes",
+ "tell_doctor": [
+  "Your Rh type, and your partner's if known",
+  "If you had anti-D injections before",
+  "Allergies, especially to blood products",
+  "If you had bleeding or an injury to your belly",
+  "If antibodies were found in your blood test"
+ ],
+ "prepare": [
+  {
+   "title": "Test",
+   "text": "Your blood is usually checked for antibodies before the injection."
+  },
+  {
+   "title": "Food",
+   "text": "No special prep is usually needed. Eat as usual."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear comfortable clothes. The injection is usually in the upper arm or buttock."
+  }
+ ],
+ "bring": [
+  "Your pregnancy record",
+  "Your antibody test results",
+  "Your ID"
+ ],
+ "steps": [
+  "The doctor checks your tests and how far along you are",
+  "The nurse confirms your name and the medicine",
+  "The injection is given into a muscle",
+  "You stay at the clinic for half an hour to be watched",
+  "The date of the injection is noted in your pregnancy record"
+ ],
+ "feel": [
+  "A quick prick",
+  "The injection site may be a little sore for a day or two"
+ ],
+ "after": [
+  "After the injection, your antibody test may sometimes become positive. This is expected",
+  "After birth, your baby's blood is checked for Rh type",
+  "If your baby is Rh-positive, you usually get another injection within 72 hours"
+ ],
+ "red_flags": [
+  "A rash, a swollen face, or trouble breathing: call emergency services",
+  "Bleeding or belly pain during pregnancy"
+ ],
+ "faq": [
+  {
+   "q": "Why get the injection in a first pregnancy?",
+   "a": "It protects both this pregnancy and future ones. The risk is already there in the first pregnancy."
+  },
+  {
+   "q": "Is the injection dangerous for my baby?",
+   "a": "Usually not. It is given to protect your baby."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Anti-D injection tomorrow. Bring your pregnancy record."
+  }
+ ]
+}

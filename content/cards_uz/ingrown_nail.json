@@ -1,0 +1,78 @@
+{
+ "title": "O‘sib kirgan tirnoqni olib tashlash",
+ "also": [
+  "o‘sib kirgan tirnoq",
+  "o‘sib kirgan tirnoqni olish",
+  "tirnoq chetini rezeksiya qilish",
+  "tirnoq operatsiyasi"
+ ],
+ "what": "Shifokor barmoq terisiga o‘sib kirgan tirnoq chetini olib tashlaydi. Odatda mahalliy og‘riqsizlantirish ostida qilinadi.",
+ "why": "Tirnoq cheti terini kesib kirsa, og‘risa, qizarsa, yiringlasa yoki o‘sib kirgan tirnoq qayta-qayta qaytsa.",
+ "duration": "protseduraning o‘zi odatda 20–40 daqiqa; bitish odatda 2–4 hafta",
+ "tell_doctor": [
+  "Qandli diabet va oyoq qon tomirlari bilan muammolar",
+  "Qonni suyultiruvchi dorilar — o‘zingiz bekor qilmang, shifokor hal qiladi",
+  "Og‘riq qoldiruvchilar, antibiotiklar, yodga allergiya",
+  "Tirnoq oldin olib tashlangan bo‘lsa",
+  "Homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "Oyoqlar",
+   "text": "Oyoqlarni yuving va tirnoqlardagi lakni oling."
+  },
+  {
+   "title": "Poyabzal",
+   "text": "Erkin ochiq poyabzal oling — protseduradan keyin bog‘lam bo‘ladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Maxsus tayyorgarlik odatda kerak emas, xotirjam ovqatlansangiz bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Erkin poyabzal yoki keng shippak",
+  "Almashtirish uchun paypoq"
+ ],
+ "steps": [
+  "Shifokor barmoqni ko‘radi",
+  "Teri antiseptik bilan ishlanadi",
+  "Barmoq asosiga og‘riqsizlantiruvchi ukol qilinadi",
+  "Barmoq uvishgach, shifokor o‘sib kirgan tirnoq chetini olib tashlaydi",
+  "Ba’zan bu cheti qayta o‘smasligi uchun o‘sish zonasi ishlanadi",
+  "Bog‘lam qo‘yiladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol noqulay va bir necha soniya kuydiradi",
+  "Keyin barmoq uvishadi, faqat tegish sezgisi qoladi",
+  "Og‘riqsizlantirish o‘tgach, barmoq zirqiraydi — shifokor maslahat bergan og‘riq qoldiruvchi yordam beradi"
+ ],
+ "after": [
+  "Birinchi kuni ko‘proq yotgan, oyoqni baland tutgan yaxshi",
+  "Bog‘lamlarni almashtirish — shifokor aytganidek, uyda yoki klinikada",
+  "Bir necha kun erkin poyabzal kiying",
+  "Shifokor ruxsat bermaguncha bog‘lamni ho‘l qilmang"
+ ],
+ "red_flags": [
+  "Barmoq qattiq qizarsa, shishsa, jarohatdan yiring kelsa",
+  "Harorat 38 dan yuqori",
+  "Qon bog‘lamni ho‘l qilib, to‘xtamasa"
+ ],
+ "faq": [
+  {
+   "q": "Tirnoq keyin o‘sib chiqadimi?",
+   "a": "Ha, odatda tirnoq o‘sadi, lekin biroz torroq. O‘sib kirgan cheti ko‘pincha boshqa o‘sib kirmaydi."
+  },
+  {
+   "q": "Ertasi kuni ishga borsa bo‘ladimi?",
+   "a": "Ish o‘tirib bajariladigan bo‘lsa — odatda ha. Kun bo‘yi oyoqda bo‘lsangiz, shifokordan bir necha kun dam olish haqida so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga o‘sib kirgan tirnoqni olib tashlash. Lakni oling va erkin poyabzal tayyorlang."
+  }
+ ]
+}

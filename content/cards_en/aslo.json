@@ -1,0 +1,79 @@
+{
+ "title": "Antistreptolysin O (ASO)",
+ "also": [
+  "ASO test",
+  "ASO titer",
+  "antistreptolysin O",
+  "strep antibody test",
+  "rheumatic tests"
+ ],
+ "what": "This blood test looks for antibodies to strep bacteria. It shows whether you had a recent strep infection.",
+ "why": "For painful, swollen joints, for changes in urine tests or the heart after strep throat, and for frequent strep throat.",
+ "duration": "the blood draw takes a few minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "If you recently had strep throat, scarlet fever, or a sore throat",
+  "If you took antibiotics",
+  "If your joints hurt or your face is swollen",
+  "If your ASO was high before"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast strictly, but it is better to come 3 to 4 hours after a light, non-fatty meal. Check with the lab."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours: no alcohol and no hard workouts. Try not to smoke in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Tell your doctor what you take. They will decide if anything needs to change before the test."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve you can easily roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID",
+  "Past ASO results",
+  "Your urine test, if you had one"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "ASO does not rise right after strep throat. Sometimes the test is repeated after a few weeks",
+  "A high ASO with no symptoms is usually not treated. Your doctor decides"
+ ],
+ "red_flags": [
+  "The puncture site is very swollen, painful, and red",
+  "Swelling, dark cola-colored urine, or shortness of breath after strep throat: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Does a high ASO mean rheumatic fever?",
+   "a": "No. It only shows you had strep recently. The doctor makes a diagnosis based on everything."
+  },
+  {
+   "q": "Do I need antibiotics if my ASO is high?",
+   "a": "Not always. Your doctor decides. Do not start antibiotics on your own."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "ASO test tomorrow. Better to skip fatty food in the morning."
+  }
+ ]
+}

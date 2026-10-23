@@ -1,0 +1,77 @@
+{
+ "title": "Osteoporosis checkup and treatment",
+ "also": [
+  "osteoporosis",
+  "brittle bones",
+  "bone density check",
+  "bone density scan and treatment"
+ ],
+ "what": "The doctor checks how strong your bones are and, if needed, prescribes treatment to lower the risk of fractures.",
+ "why": "For women after menopause, people over 65, after a fracture from a minor injury, and with long-term use of steroids.",
+ "duration": "the visit usually takes 20 to 30 minutes, the bone density scan about 10 to 20 minutes, with the result usually the same day",
+ "tell_doctor": [
+  "Whether you have had fractures from a fall from standing height",
+  "Hip fractures in your parents",
+  "Whether you take steroids, seizure medicines or other regular medicines",
+  "When your menopause began",
+  "Whether you have become shorter"
+ ],
+ "prepare": [
+  {
+   "title": "Bone density scan",
+   "text": "Before the bone density scan you usually do not take calcium for a day. Ask the clinic."
+  },
+  {
+   "title": "Clothing",
+   "text": "No metal fasteners, buckles or zippers."
+  },
+  {
+   "title": "Documents",
+   "text": "Bring earlier scans and bone density tests - they are compared."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Results of earlier bone density tests",
+  "A list of your medicines and supplements",
+  "Blood test results, if you had them"
+ ],
+ "steps": [
+  "The doctor asks about fractures, illnesses and medicines",
+  "Measures your height and weight",
+  "Sends you for a bone density scan - a special quick X-ray of the bones",
+  "May order blood tests",
+  "Explains the result and the risk of fractures",
+  "Prescribes treatment and advice on food and movement"
+ ],
+ "feel": [
+  "The bone density scan is painless, you just lie still",
+  "The radiation dose is very small"
+ ],
+ "after": [
+  "Treatment is usually long - several years",
+  "Do not stop medicines on your own",
+  "A repeat bone density scan is usually done after 1 to 2 years",
+  "It is important to protect yourself from falls at home"
+ ],
+ "red_flags": [
+  "Sudden back pain after a small effort or fall - see a doctor",
+  "Severe hip pain and you cannot get up after a fall - call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Does osteoporosis hurt?",
+   "a": "By itself usually not. It is often found only after a fracture."
+  },
+  {
+   "q": "Is calcium from pills enough?",
+   "a": "You need calcium, vitamin D and movement. Your doctor will choose the dose."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Osteoporosis visit tomorrow. Take earlier bone density tests and your list of medicines."
+  }
+ ]
+}

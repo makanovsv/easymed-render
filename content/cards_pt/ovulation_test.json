@@ -1,0 +1,69 @@
+{
+ "title": "Teste de ovulação em casa",
+ "also": [
+  "teste de ovulação",
+  "tiras de ovulação",
+  "como saber o dia da ovulação",
+  "teste de LH"
+ ],
+ "what": "O teste caseiro de urina capta o pico de um hormônio que acontece 1 a 2 dias antes da saída do óvulo. Assim você sabe os dias mais indicados para engravidar.",
+ "why": "No planejamento da gravidez, para escolher os dias; às vezes por orientação do médico, no preparo para tratamento de infertilidade.",
+ "duration": "o teste leva alguns minutos por dia, normalmente vários dias seguidos no meio do ciclo",
+ "tell_doctor": [
+  "A duração do seu ciclo e se ele é regular",
+  "Se o teste não fica positivo por vários ciclos seguidos",
+  "Todos os remédios e hormônios que você toma"
+ ],
+ "prepare": [
+  {
+   "title": "A partir de que dia",
+   "text": "O dia de começar os testes depende da duração do ciclo. Veja a tabela da bula."
+  },
+  {
+   "title": "Horário",
+   "text": "Normalmente o teste é feito durante o dia, sempre no mesmo horário. A primeira urina da manhã muitas vezes não serve. Veja a bula."
+  },
+  {
+   "title": "Água",
+   "text": "Nas 2 horas antes do teste, não beba muito líquido e tente não urinar."
+  }
+ ],
+ "bring": [
+  "Testes para vários dias",
+  "Timer",
+  "Calendário do ciclo ou aplicativo"
+ ],
+ "steps": [
+  "Comece os testes no dia indicado na bula para o seu ciclo",
+  "Segure a ponta do teste no jato de urina ou no copinho pelo tempo indicado",
+  "Deixe o teste na horizontal e espere o tempo da bula",
+  "Compare a linha do teste com a de controle",
+  "Repita todos os dias até o teste dar positivo"
+ ],
+ "feel": [
+  "Nada. O teste não dói",
+  "Esperar o resultado pode deixar ansiosa. É normal"
+ ],
+ "after": [
+  "Teste positivo normalmente quer dizer que a ovulação vai acontecer nos próximos 1 a 2 dias",
+  "Os dias mais indicados para engravidar são o dia do teste positivo e o seguinte",
+  "Anote os resultados. Isso ajuda o médico se a gravidez demorar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "O teste deu positivo vários dias seguidos. É normal?",
+   "a": "Às vezes acontece. Se for assim todo ciclo, conte ao médico. Em algumas alterações hormonais, os testes são imprecisos."
+  },
+  {
+   "q": "Se não aparece a ovulação, não vou conseguir engravidar?",
+   "a": "Não necessariamente. Às vezes o pico é curto e o teste não pega. Se acontecer por vários ciclos, procure o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a 2 horas é o teste de ovulação. Agora não beba muito e tente não ir ao banheiro."
+  }
+ ]
+}

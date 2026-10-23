@@ -1,0 +1,73 @@
+{
+ "title": "Umurtqa KT’si",
+ "also": [
+  "umurtqaning MSKT’si",
+  "bel KT’si",
+  "bo‘yin bo‘limi KT’si",
+  "umurtqa tomografiyasi"
+ ],
+ "what": "Umurtqalarning qatlam-qatlam suratlari. Eng yaxshi suyaklar ko‘rinadi: sinishlar, kanalning torayishi, suyak o‘simtalari.",
+ "why": "Orqa jarohatidan keyin, og‘riqda, MRT qilib bo‘lmasa, operatsiyadan oldin va undan keyin nazorat uchun.",
+ "duration": "kabinetda odatda 10–15 daqiqa; tavsif o‘sha kuni yoki 1–2 kunda",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Kontrastli KT tayinlangan bo‘lsa: yodga yoki kontrastga allergiya va buyrak kasalliklari bormi",
+  "Umurtqada metall konstruksiyalar bo‘lsa",
+  "Og‘riq tufayli chalqancha yotish qiyin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Kontrastsiz",
+   "text": "Tayyorgarlik kerak emas. Ovqatlanish va ichish mumkin."
+  },
+  {
+   "title": "Kontrastli",
+   "text": "Odatda 3–4 soat ovqat yemaslik kerak, suv ichish mumkin; ba’zan kreatinin tahlilini so‘rashadi. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Surat zonasida metallsiz: zanjirlar, qisqichlar, kamar."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Umurtqaning oldingi KT va MRT suratlari",
+  "Og‘riq kuchli bo‘lsa, shifokor tayinlagan og‘riq qoldiruvchi"
+ ],
+ "steps": [
+  "Stolga yotasiz, laborant qulay yotishga yordam beradi",
+  "Stol apparatning keng halqasiga kiradi",
+  "Qimirlamaslik kerak, ba’zan buyruq bo‘yicha nafasni ushlash",
+  "Kontrastli bo‘lsa, u venaga yuboriladi va yana bir qator suratlar olinadi"
+ ],
+ "feel": [
+  "Og‘rimaydi, apparat sekin shovqin qiladi",
+  "Halqa keng, torlik deyarli yo‘q",
+  "Kontrastda issiqlik to‘lqini va metall ta’mi, bir daqiqada o‘tadi"
+ ],
+ "after": [
+  "Darhol ishlaringizga qaytishingiz mumkin",
+  "Kontrastdan keyin shifokor boshqacha demagan bo‘lsa, ko‘proq suv iching",
+  "Tavsif: nevrolog yoki neyroxirurgga"
+ ],
+ "red_flags": [
+  "Oraliqda uyushish, siydik chiqarish bilan muammolar, oyoqlarda keskin holsizlik bo‘lsa, darhol 103 ga qo‘ng‘iroq qiling",
+  "Kontrastdan keyin qichishish, toshma, yuz shishi, nafas olish qiyin bo‘lsa, darhol xodimga ayting yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Churra uchun nima yaxshi: KT yoki MRT?",
+   "a": "Churralar va nervlar MRT’da yaxshiroq ko‘rinadi. KT suyaklarni yaxshiroq ko‘rsatadi. Shifokor tanlaydi."
+  },
+  {
+   "q": "Orqadagi metall bilan umurtqa KT’sini qilsa bo‘ladimi?",
+   "a": "Ha, metall KT uchun taqiq emas, lekin suratga biroz xalaqit berishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Tez orada umurtqa KT’si. Kontrastli bo‘lsa, 3–4 soat ovqat yemang, suv ichish mumkin."
+  }
+ ]
+}

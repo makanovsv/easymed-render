@@ -1,0 +1,69 @@
+{
+ "title": "Perfil biofísico fetal",
+ "also": [
+  "perfil biofísico fetal",
+  "PBF",
+  "avaliação do bem-estar fetal no ultrassom"
+ ],
+ "what": "No ultrassom, o médico vê como o bebê respira, se mexe, mantém o tônus e quanto líquido amniótico há em volta. Muitas vezes junto se faz a cardiotocografia, o registro dos batimentos do bebê.",
+ "why": "Normalmente no terceiro trimestre: quando é preciso checar o bem-estar do bebê, por exemplo com a gravidez passando da data ou se ele está mexendo menos.",
+ "duration": "normalmente 30 a 40 minutos, o resultado sai na hora",
+ "tell_doctor": [
+  "Se o bebê está mexendo menos",
+  "Se há perda de líquido ou sangramento",
+  "Se você tem pressão alta ou diabetes",
+  "Quais remédios você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "É melhor comer antes do exame. Bebê com fome pode ficar parado. Confirme com a clínica."
+  },
+  {
+   "title": "Tempo",
+   "text": "A observação pode levar até meia hora. Às vezes o bebê está dormindo. Tenha paciência."
+  }
+ ],
+ "bring": [
+  "Caderneta da gestante (cartão do pré-natal)",
+  "Resultados de ultrassons e cardiotocografias anteriores",
+  "Água"
+ ],
+ "steps": [
+  "Você se deita na maca, e passam gel na barriga",
+  "O médico olha o bebê no ultrassom",
+  "Procura movimentos de respiração, do corpo e das mãozinhas",
+  "Mede o líquido amniótico",
+  "Se foi pedido, colocam na barriga os sensores da cardiotocografia e registram os batimentos"
+ ],
+ "feel": [
+  "Não dói",
+  "Ficar de costas pode incomodar. Dá para pedir para virar de lado"
+ ],
+ "after": [
+  "O médico diz o resultado em pontos na hora",
+  "Se a pontuação for baixa, o exame pode ser repetido ou se pode decidir sobre o parto. Isso é o médico quem decide",
+  "Em casa, preste atenção aos movimentos do bebê"
+ ],
+ "red_flags": [
+  "O bebê quase parou de mexer: vá logo para a maternidade",
+  "Perda de líquido ou sangramento: ligue para a emergência",
+  "Dor forte na barriga ou contrações regulares"
+ ],
+ "faq": [
+  {
+   "q": "Por que o bebê não se mexeu no ultrassom?",
+   "a": "Ele podia estar dormindo. Normalmente o médico só espera ou pede para você mudar de posição."
+  },
+  {
+   "q": "O que quer dizer 8 de 10?",
+   "a": "Normalmente é um bom resultado. O médico explica direitinho para o seu caso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o perfil biofísico fetal. Coma antes da consulta e leve a caderneta da gestante."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Vacuna contra el meningococo",
+ "also": [
+  "vacuna meningocócica",
+  "vacuna contra la meningitis",
+  "vacuna contra el meningococo",
+  "meningococo"
+ ],
+ "what": "Una inyección de vacuna que protege del meningococo, una bacteria que puede causar meningitis e infección de la sangre.",
+ "why": "En niños y adolescentes según indicación, en estudiantes que viven en residencias, antes de peregrinaciones y viajes, y con algunas enfermedades.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Si ahora estás enferma o enfermo o tienes fiebre",
+  "Alergias y reacciones fuertes a vacunas anteriores",
+  "Si no tienes bazo o tienes problemas del sistema inmune",
+  "A dónde piensas viajar: para algunos países la vacuna es obligatoria"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando estás sano. Antes de la inyección te revisarán."
+  },
+  {
+   "title": "Plazos",
+   "text": "Antes de un viaje, la vacuna normalmente se pone con anticipación, al menos 10 días antes. Confírmalo con el médico."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir el hombro con facilidad."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico o la enfermera te pregunta cómo te sientes y te mide la temperatura",
+  "Descubres el hombro",
+  "Limpian la piel y ponen la inyección",
+  "Se anota la vacuna en los documentos",
+  "Después de la inyección hay que quedarse sentado en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un pinchazo corto",
+  "A veces el lugar de la inyección duele 1 o 2 días",
+  "A veces dolor de cabeza, debilidad o una fiebre ligera"
+ ],
+ "after": [
+  "Quédate cerca del consultorio unos 30 minutos",
+  "Puedes volver a tus actividades",
+  "El médico te dirá si hace falta otro refuerzo"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o sale sarpullido en todo el cuerpo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto tiempo dura la protección?",
+   "a": "Depende de la vacuna y de la edad. A veces hace falta un refuerzo: pregunta al médico."
+  },
+  {
+   "q": "¿Hace falta la vacuna antes de la peregrinación a La Meca (hach o umra)?",
+   "a": "Normalmente sí, la piden. Confirma los requisitos con anticipación y guarda el certificado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna contra el meningococo. Lleva tu documento y tu cartilla de vacunación."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Buyrak stsintigrafiyasi",
+ "also": [
+  "buyrak stsintigrafiyasi",
+  "renostsintigrafiya",
+  "buyrakning radioizotop tekshiruvi",
+  "dinamik nefrostsintigrafiya"
+ ],
+ "what": "Venaga radioaktiv moddaning juda kichik dozasi yuboriladi, gamma-kamera esa har bir buyrak alohida qanday ishlayotganini ko‘rsatadi.",
+ "why": "Har bir buyrak qancha ishlayotganini bilish kerak bo‘lganda, bolalarda reflyuksda, siydik yo‘llari torayishida va operatsiyalardan oldin.",
+ "duration": "odatda 30–60 daqiqa, tekshiruvning ba’zi turlarida bir necha soatdan keyin takroriy rasm kerak bo‘ladi, tavsif o‘sha kuni yoki 1–2 kunda",
+ "tell_doctor": [
+  "Homiladorlik mumkin bo‘lsa yoki emizsangiz",
+  "Qanday dori qabul qilasiz, ayniqsa siydik haydovchi va bosimga",
+  "Allergiya bo‘lsa",
+  "Bola uchun: uning vazni va bo‘yi"
+ ],
+ "prepare": [
+  {
+   "title": "Suv",
+   "text": "Odatda tekshiruvdan bir soat oldin suv ichish so‘raladi. Qancha ekanini klinika aytadi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Bosimga ba’zi dorilarni vaqtincha ichmaslik so‘raladi. O‘zingiz bekor qilmang: shifokor hal qiladi."
+  },
+  {
+   "title": "Hojatxona",
+   "text": "Tekshiruvdan oldin hojatxonaga chiqing."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi UZI va tahlillar",
+  "Suv",
+  "Bola uchun: taglik, o‘yinchoq"
+ ],
+ "steps": [
+  "Siz klinikada aytilganidek suv ichasiz",
+  "Gamma-kamera ostidagi stolga yotasiz",
+  "Venaga moddaning kichik dozasi yuboriladi",
+  "Kamera rasmlarni yozadi, siz 20–40 daqiqa qimirlamay yotasiz",
+  "Ba’zan siydik haydovchi yuborib, yana suratga olishadi",
+  "Ba’zan takroriy suratga kelishni so‘rashadi"
+ ],
+ "feel": [
+  "Venaga ukol: oddiy tahlildagi kabi",
+  "Tekshiruvning o‘zi og‘riqsiz",
+  "Qimirlamay yotish ba’zan qiyin, ayniqsa bolaga"
+ ],
+ "after": [
+  "Shu kuni ko‘proq suv iching va tez-tez hojatxonaga boring",
+  "Hojatxonadan keyin qo‘llarni yuving",
+  "Bir sutka kichik bolalarni va homilador ayollarni uzoq qo‘lda ushlamaslikka harakat qiling: klinikadan aniqlab oling",
+  "Emizikli onalarga vaqtincha emizishni to‘xtatishni maslahat berishlari mumkin: shifokordan so‘rang"
+ ],
+ "red_flags": [
+  "Toshma, yuz shishishi, nafas olish qiyin: 103 ga qo‘ng‘iroq qiling",
+  "Belda kuchli og‘riq yoki siydikda qon"
+ ],
+ "faq": [
+  {
+   "q": "Nurlanish sababli bu xavfli emasmi?",
+   "a": "Doza kichik va siydik bilan tez chiqib ketadi. Shifokor foyda xavfdan ko‘p bo‘lganda buyuradi."
+  },
+  {
+   "q": "Bola yonida bo‘lsa bo‘ladimi?",
+   "a": "Ha, ota-ona odatda yonida qolib, tinch yotishga yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga buyrak stsintigrafiyasi. Ertalab klinika aytganidek suv iching. Bosim dorilari haqida shifokordan so‘rang."
+  }
+ ]
+}

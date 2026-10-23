@@ -1,0 +1,76 @@
+{
+ "title": "Uyda palliativ yordam",
+ "also": [
+  "palliativ",
+  "og‘ir bemorlarga yordam",
+  "palliativ xizmatning uyga chiqishi",
+  "og‘ir bemorni uyda parvarish qilish"
+ ],
+ "what": "Shifokorlar va hamshiralar og‘ir bemorning uyiga keladi. Ular og‘riqni bosadi, boshqa alomatlarni yengillashtiradi va oilaga yordam beradi.",
+ "why": "Og‘ir, davolab bo‘lmaydigan kasallikda, asosiysi og‘riqni kamaytirish va hayotni xotirjamroq qilish bo‘lganda.",
+ "duration": "tashrif odatda 30–60 daqiqa, kuzatuv — kerakli muddatgacha",
+ "tell_doctor": [
+  "Qaysi alomatlar ko‘proq bezovta qiladi: og‘riq, nafas qisilishi, ko‘ngil aynishi, uyqusizlik",
+  "Inson qanday dorilar olayapti va ularni qanday ko‘tarayapti",
+  "U yeya oladimi, ichadimi, tura oladimi",
+  "Kim parvarish qiladi va nima qiyin kechayapti",
+  "Insonning o‘zining davolanish haqidagi xohishlari"
+ ],
+ "prepare": [
+  {
+   "title": "Yo‘llanma",
+   "text": "Odatda shifokorning palliativ maqom haqidagi xulosasi kerak. Qanday rasmiylashtirishni poliklinikadan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Barcha dorilarni va ularni qachon berganingiz yozuvlarini to‘plang."
+  },
+  {
+   "title": "Savollar",
+   "text": "Parvarish qiluvchi sifatida sizni nima bezovta qilishini yozib qo‘ying."
+  }
+ ],
+ "bring": [
+  "Bemorning hujjati",
+  "Ko‘chirmalar va xulosalar",
+  "Barcha dorilar",
+  "Og‘riq va alomatlar yozuvlari"
+ ],
+ "steps": [
+  "Jamoa belgilangan vaqtda keladi",
+  "Shifokor bemordan so‘raydi va ko‘rikdan o‘tkazadi",
+  "Og‘riq va boshqa alomatlarni baholaydi",
+  "Davolashni tanlaydi yoki o‘zgartiradi",
+  "Hamshira qanday parvarish qilishni ko‘rsatadi",
+  "Keyingi tashrif va qanday bog‘lanish haqida kelishadi"
+ ],
+ "feel": [
+  "Ko‘rik ehtiyotkorona",
+  "Yaqinlarga qiyin bo‘lishi mumkin — jamoa oilani ham qo‘llab-quvvatlaydi"
+ ],
+ "after": [
+  "Dorilarni aynan sxema bo‘yicha bering",
+  "Og‘riq qanday o‘zgarishini yozib boring",
+  "Ahvol yomonlashsa, xizmatga qo‘ng‘iroq qiling — keyingi tashrifni kutmang"
+ ],
+ "red_flags": [
+  "Dorilar bosa olmayotgan kuchli og‘riq — palliativ xizmatga qo‘ng‘iroq qiling",
+  "Og‘ir nafas, qon ketishi, tutqanoq — tez yordamni chaqiring (103) yoki xizmatga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Palliativ yordam faqat oxirgi kunlardagina bo‘ladimi?",
+   "a": "Yo‘q. Yordamni uzoq muddat, insonga yengilroq bo‘lishi uchun olish mumkin."
+  },
+  {
+   "q": "Uyda og‘riqsizlantirish olsa bo‘ladimi?",
+   "a": "Ha, shifokor kerakli dorilarni tanlaydi va yozib beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga palliativ xizmat tashrifi. Barcha dorilarni to‘plang va nima bezovta qilishini yozib qo‘ying."
+  }
+ ]
+}

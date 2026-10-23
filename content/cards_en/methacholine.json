@@ -1,0 +1,79 @@
+{
+ "title": "Methacholine challenge test",
+ "also": [
+  "methacholine test",
+  "bronchial challenge test",
+  "bronchial provocation test",
+  "airway hyperresponsiveness test"
+ ],
+ "what": "You breathe in a substance in small, slowly rising doses and do a breathing test, called spirometry, after each one. This checks how sensitive your airways are.",
+ "why": "When asthma is suspected but a regular spirometry is normal.",
+ "duration": "usually 1 to 2 hours; the result is given right away",
+ "tell_doctor": [
+  "All inhalers and medicines. Some must be stopped ahead of time, but only as your doctor says",
+  "If you are pregnant or breastfeeding",
+  "If you had a heart attack, a stroke, or a recent cold",
+  "If you have high blood pressure"
+ ],
+ "prepare": [
+  {
+   "title": "Medicines",
+   "text": "Many inhalers and allergy pills are stopped for different lengths of time before the test. Your doctor will give you the plan. Do not stop anything on your own."
+  },
+  {
+   "title": "Coffee",
+   "text": "On the day of the test, you usually cannot have coffee, tea, cola, or chocolate. Check with the clinic."
+  },
+  {
+   "title": "Smoking and exercise",
+   "text": "Do not smoke or exercise on the day of the test."
+  },
+  {
+   "title": "Your health",
+   "text": "If you catch a cold, call the clinic. The test is usually moved."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A list of your medicines",
+  "Your rescue inhaler"
+ ],
+ "steps": [
+  "First, you do a regular spirometry test",
+  "You breathe in a small dose of the substance through a nebulizer",
+  "After a couple of minutes, you do spirometry again",
+  "The dose is slowly increased and the steps repeated",
+  "The test stops when your readings drop or the full program is done",
+  "At the end, you get an inhaler to bring your breathing back to normal"
+ ],
+ "feel": [
+  "You may cough or feel slight tightness in your chest",
+  "Sometimes wheezing. The doctor is right there and will relieve it with an inhaler",
+  "Blowing out so many times can be tiring"
+ ],
+ "after": [
+  "You can leave when your breathing is back to where it started",
+  "You are usually told the result right away",
+  "You can go back to your medicines. Ask your doctor"
+ ],
+ "red_flags": [
+  "Cough or shortness of breath comes back at home and the inhaler does not help: call emergency services",
+  "Wheezing in the chest and trouble speaking"
+ ],
+ "faq": [
+  {
+   "q": "Is it dangerous?",
+   "a": "The test is done under a doctor's watch, with medicines ready. Strong reactions are rare."
+  },
+  {
+   "q": "Why stop my inhalers?",
+   "a": "Otherwise the test may give a wrong result. Only your doctor decides what to stop and for how long."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Methacholine test tomorrow. Check which medicines your doctor told you not to take. No coffee or tea in the morning. Bring your inhaler."
+  }
+ ]
+}

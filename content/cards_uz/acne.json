@@ -1,0 +1,73 @@
+{
+ "title": "Husnbuzarlar bo‘yicha qabul",
+ "also": [
+  "husnbuzar",
+  "akne",
+  "yuzdagi toshmalar",
+  "husnbuzarni davolash",
+  "pimple"
+ ],
+ "what": "Dermatolog terini ko‘zdan kechiradi, husnbuzar nimadan paydo bo‘layotganini aniqlaydi va davo tanlaydi. Bu og‘riqli protseduralarsiz oddiy qabul.",
+ "why": "Husnbuzarlar o‘tmasa, iz qoldirsa, og‘risa yoki hayotga xalaqit bersa.",
+ "duration": "qabul odatda 20–30 daqiqa; davo samarasi odatda 6–12 haftada seziladi",
+ "tell_doctor": [
+  "Teri uchun qanday vositalar va dorilarni sinab ko‘rgansiz",
+  "Ichayotgan barcha dorilar, shu jumladan gormonal dorilar",
+  "Homiladorlik yoki uni rejalashtirish — bu davoni tanlash uchun muhim",
+  "Hayz tartibsiz, ayollarda yuzda tuk o‘sishi",
+  "Allergiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "Teri",
+   "text": "Bo‘yanmasdan keling, shifokor terini ko‘rishi uchun."
+  },
+  {
+   "title": "Vositalar",
+   "text": "Ishlatayotgan vositalaringizning suratini oling yoki o‘zini olib keling."
+  },
+  {
+   "title": "Siqmang",
+   "text": "Qabuldan bir necha kun oldin husnbuzarlarni siqmang va protseduralar qilmang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Vositalar va dorilar ro‘yxati",
+  "Tahlillar, agar oldin topshirgan bo‘lsangiz"
+ ],
+ "steps": [
+  "Shifokor husnbuzar qachon boshlangani va nima yordam bergani haqida so‘raydi",
+  "Yuzni, ba’zan orqa va ko‘krakni ko‘zdan kechiradi",
+  "Kerak bo‘lsa, tahlillarni buyuradi",
+  "Davo va parvarishni tanlaydi",
+  "Vositalardan qanday foydalanishni tushuntiradi",
+  "Qayta qabul belgilaydi"
+ ],
+ "feel": [
+  "Qabul og‘riqsiz",
+  "Davo boshida teri qurishi, po‘st tashlashi yoki qizarishi mumkin — shifokorga ayting"
+ ],
+ "after": [
+  "Vositalardan shifokor aytganidek muntazam foydalaning",
+  "Samarani darrov kutmang — odatda 6–12 hafta kerak",
+  "Davoni to‘g‘rilash uchun qayta qabulga keling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Davodan keyin nega yomonlashdi?",
+   "a": "Dastlabki haftalarda teri ta’sirlanishi mumkin. O‘zingiz to‘xtatmang — shifokorga ayting, u davoni to‘g‘rilaydi."
+  },
+  {
+   "q": "Ovqatlanishni o‘zgartirish kerakmi?",
+   "a": "Ba’zan shifokor ovqatlanishga e’tibor berishni maslahat beradi. Lekin asosiysi — u tanlagan muntazam davo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada dermatolog qabuli. Bo‘yanmasdan keling va ishlatayotgan vositalaringiz ro‘yxatini oling."
+  }
+ ]
+}

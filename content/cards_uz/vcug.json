@@ -1,0 +1,81 @@
+{
+ "title": "Bolada miktsion sistografiya",
+ "also": [
+  "MSUG",
+  "sistografiya",
+  "bolaning siydik pufagi rentgeni",
+  "reflyuksni tekshirish"
+ ],
+ "what": "Siydik pufagiga ingichka kateter orqali kontrast yuboriladi va bola siyayotganda rentgen qilinadi. Shunda siydik buyraklarga orqaga qaytayotgani yoki yo‘qligi ko‘rinadi.",
+ "why": "Odatda haroratli siydik yo‘llari infeksiyalaridan keyin yoki UZIda buyraklarning kengayishi ko‘rinsa.",
+ "duration": "odatda 30–60 daqiqa, natija o‘sha kuni",
+ "tell_doctor": [
+  "Hozir siydik infeksiyasi yoki harorat bo‘lsa",
+  "Bolada kontrast yoki dorilarga allergiya bo‘lsa",
+  "Bola antibiotik ichayotgan bo‘lsa",
+  "Lateksga allergiya bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Siydik tahlili",
+   "text": "Ko‘pincha tekshiruvdan oldin infeksiyasiz yangi siydik tahlili kerak bo‘ladi. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Antibiotik",
+   "text": "Ba’zan shifokor profilaktika uchun antibiotik buyuradi. Sxemani shifokor aytadi."
+  },
+  {
+   "title": "Suhbat",
+   "text": "Bolaga nima bo‘lishini xotirjam tushuntiring. Sevimli o‘yinchog‘ini olib kelsangiz bo‘ladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda odatdagidek yesa bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va siydik tahlili",
+  "Almashtirish uchun ichki kiyim va taglik",
+  "O‘yinchoq yoki telefonda multfilm",
+  "Bolaning hujjatlari"
+ ],
+ "steps": [
+  "Bola rentgen stoliga yotadi",
+  "Jinsiy a’zolar antiseptik bilan artiladi",
+  "Siydik chiqarish yo‘li orqali gelli ingichka kateter kiritiladi",
+  "Kateter orqali siydik pufagi sekin kontrast bilan to‘ldiriladi",
+  "Suratlar olinadi, keyin boladan siyish so‘raladi va yana suratga olinadi",
+  "Kateter chiqariladi"
+ ],
+ "feel": [
+  "Kateter kiritilishi noqulay, bola yig‘lashi mumkin",
+  "Hojatxonaga borishga kuchli istak hissi",
+  "Stolda yotib siyish odatiy emas va noqulay bo‘lishi mumkin"
+ ],
+ "after": [
+  "Bugun bola ko‘proq ichsin",
+  "Dastlabki 1–2 marta siyganda biroz achishishi mumkin",
+  "Xulosa odatda o‘sha kuni, qaror — shifokorda"
+ ],
+ "red_flags": [
+  "Harorat 38 dan yuqori",
+  "Siyganda kuchli og‘riq yoki bola siya olmasa",
+  "Siydikda qon bir kundan ortiq bo‘lsa"
+ ],
+ "faq": [
+  {
+   "q": "Bolaning yonida bo‘lsa bo‘ladimi?",
+   "a": "Odatda bir ota-ona qolishi mumkin. Sizga himoya fartugi berishadi."
+  },
+  {
+   "q": "Nega stolda siyish kerak?",
+   "a": "Siydikning orqaga qaytishi ko‘pincha aynan siyish paytida ko‘rinadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bolada sistografiya. Siydik tahlili, almashtirish uchun ichki kiyim va o‘yinchoqni oling."
+  }
+ ]
+}

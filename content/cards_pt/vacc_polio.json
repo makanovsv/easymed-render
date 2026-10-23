@@ -1,0 +1,72 @@
+{
+ "title": "Vacina contra poliomielite",
+ "also": [
+  "vacina da pólio",
+  "VIP",
+  "VOP",
+  "gotinha da pólio",
+  "vacina contra paralisia infantil"
+ ],
+ "what": "A vacina protege contra a poliomielite, uma infecção que pode causar paralisia. É dada por injeção ou em gotas pela boca.",
+ "why": "Para crianças, conforme o calendário nacional de vacinação; às vezes para adultos antes de viajar para países com risco.",
+ "duration": "a vacina em si leva alguns segundos; com a avaliação, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Se a criança está doente agora ou com febre",
+  "Alergias e reações fortes a vacinas anteriores",
+  "Se a criança ou alguém da família tem imunidade baixa: isso é importante para as gotinhas"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é dada quando a criança está saudável. Antes, ela será examinada."
+  },
+  {
+   "title": "Tipo de vacina",
+   "text": "Confirme se será injeção ou gotinha. Depende da idade e do calendário."
+  },
+  {
+   "title": "Comida",
+   "text": "Se for gotinha, normalmente não se dá comida nem bebida por cerca de uma hora depois. Confirme com a enfermeira."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Carteira de vacinação"
+ ],
+ "steps": [
+  "O médico examina a criança e mede a temperatura",
+  "Se for injeção, ela é dada na coxa ou no braço",
+  "Se for gotinha, as gotas são pingadas na boca",
+  "A vacina é registrada nos documentos",
+  "Depois da vacina, é preciso ficar na clínica por cerca de 30 minutos"
+ ],
+ "feel": [
+  "A injeção: uma dor rápida; a gotinha: sem dor",
+  "Às vezes vermelhidão no local da injeção ou febre baixa"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala de vacinação",
+  "Se a criança cuspir as gotas logo depois, avise a enfermeira",
+  "A próxima vacina segue o calendário"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência",
+  "Fraqueza na perna ou no braço depois da vacina: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Qual a diferença entre a injeção e a gotinha?",
+   "a": "A injeção tem vírus inativado; a gotinha, vírus vivo atenuado. O médico escolhe o esquema pelo calendário."
+  },
+  {
+   "q": "Adulto precisa da vacina?",
+   "a": "Normalmente não, se tomou as doses na infância. Antes de viajar para alguns países, pergunte ao médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina contra poliomielite. Leve a carteira de vacinação."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Consulta con el geriatra",
+ "also": [
+  "geriatra",
+  "médico para adultos mayores",
+  "consulta para adultos mayores",
+  "consulta geriátrica"
+ ],
+ "what": "El médico de adultos mayores revisa la salud en conjunto: memoria, equilibrio, ánimo, medicamentos. Te ayuda a conservar tu independencia.",
+ "why": "Para personas mayores de 65 a 70 años con varias enfermedades a la vez, caídas, pérdida de memoria o muchos medicamentos.",
+ "duration": "la consulta normalmente dura de 40 a 60 minutos",
+ "tell_doctor": [
+  "Todos tus medicamentos, incluidos suplementos y hierbas",
+  "Caídas en el último año",
+  "Cambios en la memoria, el ánimo o el sueño",
+  "Dificultades con las tareas del día a día",
+  "Oído, vista y al orinar"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "Pon todos los envases en una bolsa y llévalos: el médico revisará cómo se combinan."
+  },
+  {
+   "title": "Acompañante",
+   "text": "Es mejor ir con una persona cercana que conozca tu salud y tu vida diaria."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Anota con anticipación lo que más te preocupa."
+  }
+ ],
+ "bring": [
+  "Identificación",
+  "Todos los medicamentos en sus envases",
+  "Resúmenes e informes de otros médicos",
+  "Lentes y audífono, si los usas"
+ ],
+ "steps": [
+  "El médico te pregunta con detalle sobre tu salud y tu vida diaria",
+  "Revisa los medicamentos",
+  "Hace pruebas sencillas de memoria y equilibrio",
+  "Mide la presión y el peso",
+  "Te examina",
+  "Arma un plan: tratamiento, ejercicios, ayuda en casa"
+ ],
+ "feel": [
+  "La consulta no duele",
+  "Las pruebas son sencillas, a veces cansan; puedes pedir una pausa"
+ ],
+ "after": [
+  "El médico puede quitar o cambiar medicamentos de más; no los cambies por tu cuenta",
+  "En casa quita lo que pueda hacerte tropezar",
+  "La cita de seguimiento será en el plazo que diga el médico"
+ ],
+ "red_flags": [
+  "Debilidad repentina en un brazo o pierna, cara chueca, problemas para hablar: llama a emergencias",
+  "Confusión repentina y fuerte: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Para qué un geriatra si ya tengo médico general?",
+   "a": "El geriatra ve todo en conjunto y ayuda a ordenar muchos medicamentos y problemas."
+  },
+  {
+   "q": "¿Puede ir un familiar sin la persona mayor?",
+   "a": "Se puede pedir consejo, pero la revisión la necesita el propio paciente. Confírmalo en la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la consulta con el geriatra. Pon todos los medicamentos en una bolsa y lleva los informes médicos."
+  }
+ ]
+}

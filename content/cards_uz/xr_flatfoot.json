@@ -1,0 +1,61 @@
+{
+ "title": "Yassi oyoqlik uchun oyoq kafti rentgeni",
+ "also": [
+  "yuklama bilan oyoq kafti rentgeni",
+  "yassi oyoqlik uchun oyoq kafti surati",
+  "tik turib oyoq kafti rentgeni"
+ ],
+ "what": "Oyoq kaftlarining tik turib, tana vazni ostida suratlari. Ular bo‘yicha shifokor oyoq kafti gumbazining balandligini o‘lchaydi.",
+ "why": "Yassi oyoqlikka shubha bo‘lganda, oyoq kaftlarida og‘riqda, chaqiruv komissiyasi uchun yoki kavsh tanlash uchun.",
+ "duration": "xonada odatda 10–15 daqiqa; tavsif o‘sha kuni yoki ertasi kuni",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Oyoq kaftlarida jarohat yoki operatsiya bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Paypoq yoki kolgotkani yechishga, shimni tizzagacha shimarishga to‘g‘ri keladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bo‘lsa, oyoq kaftlarining oldingi suratlari"
+ ],
+ "steps": [
+  "Poyabzal va paypoqni yechasiz",
+  "Maxsus tagliqqa chiqasiz, vazn ikkala oyoqqa",
+  "Har bir oyoq kaftining yon tomondan surati olinadi",
+  "Ba’zan yuqoridan ham surat qo‘shiladi",
+  "Bir necha soniya tekis turib, qimirlamaslik kerak"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Tekis turish kerak — bo‘lsa, tutqichdan ushlang"
+ ],
+ "after": [
+  "Darrov ishlaringizga ketsangiz bo‘ladi",
+  "Tavsif odatda burchaklar raqamlari bilan — u bilan ortopedga"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Surat nega tik turib olinadi?",
+   "a": "Yassi oyoqlik tana vazni ostida ko‘rinadi. Yotganda gumbaz normal ko‘rinadi."
+  },
+  {
+   "q": "Bu surat harbiy komissariat uchun yaroqlimi?",
+   "a": "Odatda ha, lekin talablarni oldindan komissariatdan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada oyoq kaftlari rentgeni. Tizzagacha oson shimariladigan shim kiying."
+  }
+ ]
+}

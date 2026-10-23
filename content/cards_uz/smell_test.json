@@ -1,0 +1,72 @@
+{
+ "title": "Hidlashni tekshirish",
+ "also": [
+  "hidlash testi",
+  "olfaktometriya",
+  "hidlarni tekshirish",
+  "hid bilishni yo‘qotish"
+ ],
+ "what": "Sizga turli hidlarni hidlatib, ularni nomlashni yoki ajratishni so‘rashadi. Shunday qilib shifokor hidlarni qanchalik yaxshi sezishingizni tushunadi.",
+ "why": "Hid bilish pasayganda yoki yo‘qolganda, shamollashdan, bosh jarohatidan keyin yoki tushunarli sababsiz.",
+ "duration": "odatda 15–30 daqiqa, xulosani shifokor qabulda aytadi",
+ "tell_doctor": [
+  "Hid bilish qachon va nimadan keyin yomonlashgani",
+  "Tumov, burun bitishi, burunda polip bo‘lganmi",
+  "Bosh jarohatlari bo‘lganmi",
+  "Qanday dori qabul qilasiz",
+  "Chekasizmi"
+ ],
+ "prepare": [
+  {
+   "title": "Hidlar",
+   "text": "Test kuni atir va xushbo‘y krem ishlatmang."
+  },
+  {
+   "title": "Ovqat va chekish",
+   "text": "Testdan bir soat oldin chekmang va achchiq ovqat yemang. Saqich chaynamang."
+  },
+  {
+   "title": "Burun",
+   "text": "Burun bitib qolgan bo‘lsa, shifokorga oldindan ayting: testni ko‘chirishlari mumkin."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor burunni ko‘radi",
+  "Burun yoniga hidli flakon yoki maxsus marker tutishadi",
+  "Siz bir necha soniya hidlaysiz",
+  "Ro‘yxatdan hid nomini tanlaysiz",
+  "Ba’zan har bir burun teshigini alohida tekshirishadi",
+  "Hidlar almashtiriladi, jami ular bir necha o‘nta bo‘ladi"
+ ],
+ "feel": [
+  "Yoqimsiz his odatda yo‘q",
+  "Ba’zi hidlarni tanish qiyin: bu tabiiy, shunchaki his qilganingizcha javob bering"
+ ],
+ "after": [
+  "Shifokor natijani va keyin nima qilishni tushuntiradi",
+  "Ba’zan uyda hidlashni mashq qilish buyuriladi",
+  "Burunni qo‘shimcha tekshirishga yuborishlari mumkin"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Hid bilishni qaytarsa bo‘ladimi?",
+   "a": "Ko‘pincha tiklanadi, ayniqsa shamollashdan keyin. Mashqlar yordam beradi, lekin vaqt kerak."
+  },
+  {
+   "q": "Hidlash mashqi nima?",
+   "a": "Har kuni bir nechta tanish hidni navbat bilan hidlaysiz. Qanday qilishni shifokor ko‘rsatadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada hidlashni tekshirish. Testdan oldin atir ishlatmang va chekmang."
+  }
+ ]
+}

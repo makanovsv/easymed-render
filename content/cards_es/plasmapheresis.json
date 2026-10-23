@@ -1,0 +1,79 @@
+{
+ "title": "Plasmaféresis",
+ "also": [
+  "plasmaféresis",
+  "limpieza de la sangre",
+  "recambio de plasma",
+  "intercambio plasmático"
+ ],
+ "what": "Un aparato toma la sangre, separa la parte líquida, que es el plasma, y devuelve las células de la sangre. Así se retiran sustancias dañinas de la sangre.",
+ "why": "En algunas enfermedades del sistema inmune, de la sangre y de los nervios, y en intoxicaciones, por decisión del médico.",
+ "duration": "cada sesión suele durar de 1 a 3 horas; el tratamiento son varias sesiones",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que adelgazan la sangre y los de la presión",
+  "Alergias, también a productos de la sangre",
+  "Enfermedades del corazón o presión baja",
+  "Si te sentiste mal después de procedimientos anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente conviene un desayuno ligero antes de la sesión. Confírmalo en la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. El horario de tomarlos puede cambiar: te lo dirá el médico."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa holgada, de manga ancha."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Un documento de identidad",
+  "La lista de tus medicamentos",
+  "Agua y un libro"
+ ],
+ "steps": [
+  "Te pesan y te miden la presión",
+  "Te ponen un catéter en una vena o te conectan al que ya tienes",
+  "La sangre pasa al aparato y se separa el plasma",
+  "Las células de la sangre se devuelven junto con una solución de reemplazo",
+  "La enfermera vigila tu presión y cómo te sientes",
+  "Al final se desconecta el sistema"
+ ],
+ "feel": [
+  "Un pinchazo al poner el catéter",
+  "Frío u hormigueo en los labios o los dedos: avisa a la enfermera",
+  "A veces debilidad y mareo"
+ ],
+ "after": [
+  "Quédate sentada o sentado un rato antes de levantarte",
+  "El resto del día, descansa",
+  "Toma agua, si el médico no lo limita",
+  "Ven a las siguientes sesiones según el calendario"
+ ],
+ "red_flags": [
+  "Sarpullido, comezón, hinchazón de la cara o dificultad para respirar: llama a emergencias",
+  "Mareo fuerte o desmayo",
+  "Sangrado o hinchazón en el lugar del catéter",
+  "Fiebre o escalofríos"
+ ],
+ "faq": [
+  {
+   "q": "¿La plasmaféresis «limpia el cuerpo» de cualquiera?",
+   "a": "No. Es un tratamiento médico para casos concretos, y lo indica el médico para enfermedades específicas."
+  },
+  {
+   "q": "¿Cuántas sesiones hacen falta?",
+   "a": "Depende de la enfermedad. Normalmente es un tratamiento de varias sesiones."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes plasmaféresis. Desayuno ligero, ropa de manga ancha y la lista de tus medicamentos."
+  }
+ ]
+}

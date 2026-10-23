@@ -1,0 +1,81 @@
+{
+ "title": "Cistografía miccional en niños",
+ "also": [
+  "cistouretrografía miccional",
+  "cistografía",
+  "radiografía de la vejiga del niño",
+  "estudio de reflujo"
+ ],
+ "what": "Por una sonda delgada se pone contraste en la vejiga y se toman radiografías mientras el niño orina. Así se ve si la orina regresa hacia los riñones.",
+ "why": "Normalmente después de infecciones urinarias con fiebre, o si en el ultrasonido se vio dilatación de los riñones.",
+ "duration": "normalmente de 30 a 60 minutos; el resultado llega el mismo día",
+ "tell_doctor": [
+  "Si ahora hay una infección de orina o fiebre",
+  "Si el niño tiene alergia al contraste o a medicamentos",
+  "Si el niño toma antibióticos",
+  "Si hay alergia al látex"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis de orina",
+   "text": "Muchas veces, antes del estudio hace falta un análisis de orina reciente, sin infección. Confírmalo en la clínica."
+  },
+  {
+   "title": "Antibiótico",
+   "text": "A veces el médico receta un antibiótico para prevenir infecciones. El esquema lo indica el médico."
+  },
+  {
+   "title": "Plática",
+   "text": "Explícale al niño con calma qué va a pasar. Puede llevar su juguete favorito."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puede comer como siempre."
+  }
+ ],
+ "bring": [
+  "La orden médica y el análisis de orina",
+  "Ropa interior de repuesto y un pañal",
+  "Un juguete o caricaturas en el celular",
+  "Los documentos del niño"
+ ],
+ "steps": [
+  "El niño se acuesta en la mesa de rayos X",
+  "Le limpian los genitales con un antiséptico",
+  "Por la uretra le meten una sonda delgada con gel",
+  "Por la sonda llenan despacio la vejiga con contraste",
+  "Toman imágenes y luego le piden que orine, y toman más",
+  "Retiran la sonda"
+ ],
+ "feel": [
+  "Meter la sonda es incómodo y el niño puede llorar",
+  "Sensación de muchas ganas de ir al baño",
+  "Orinar acostado en la mesa puede ser raro y dar pena"
+ ],
+ "after": [
+  "Que el niño tome más líquidos hoy",
+  "Las primeras 1 o 2 veces puede arder un poco al orinar",
+  "El informe normalmente llega el mismo día, y la decisión es del médico"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38",
+  "Dolor fuerte al orinar o el niño no puede orinar",
+  "Sangre en la orina por más de un día"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo estar junto a mi hijo?",
+   "a": "Normalmente uno de los padres puede quedarse. Te darán un delantal de protección."
+  },
+  {
+   "q": "¿Por qué orinar en la mesa?",
+   "a": "El regreso de la orina muchas veces se ve justo cuando orina."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la cistografía del niño. Lleva el análisis de orina, ropa de repuesto y un juguete."
+  }
+ ]
+}

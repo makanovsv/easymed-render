@@ -1,0 +1,69 @@
+{
+ "title": "Insulin va HOMA indeksi",
+ "also": [
+  "insulin",
+  "HOMA indeksi",
+  "insulin rezistentligi",
+  "HOMA-IR"
+ ],
+ "what": "Bu venadan olinadigan qon tahlili. Bir vaqtda insulin va shakar o‘lchanadi, ular bo‘yicha esa HOMA indeksi hisoblanadi — tana insulinga qanday javob berishi.",
+ "why": "Ortiqcha vaznda, insulin rezistentligiga shubhada, sikl buzilishlarida, shakar yuqori bo‘lganda.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda 1–2 kunda",
+ "tell_doctor": [
+  "Diabetingiz bo‘lsa va shakarga qanday dorilar ichsangiz",
+  "Gormonlar ichayotgan bo‘lsangiz",
+  "Yana qanday dorilarni doimiy ichasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Qat’iy och qoringa: odatda 8–12 soat ovqatsiz. Hatto shirin choy yoki saqich ham natijani buzadi. Suv ichish mumkin."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir kun oldin alkogolsiz va og‘ir mashqlarsiz. Ertalab chekmagan yaxshi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — biror narsani o‘zgartirish kerakmi, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut bog‘lanadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon probirkaga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darrov ovqatlanib, odatiy ishlarga qaytish mumkin",
+  "Natija odatda 1–2 kunda — muddatni laboratoriyada aytishadi",
+  "HOMA indeksini laboratoriya yoki shifokor hisoblaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nega insulin shakar bilan birga topshiriladi?",
+   "a": "HOMA indeksi bir vaqtda ikkita raqam bo‘yicha hisoblanadi. Ular bir xil qon olishdan bo‘lishi kerak."
+  },
+  {
+   "q": "Tahlildan oldin shakarsiz kofe ichsa bo‘ladimi?",
+   "a": "Yo‘q, yaxshisi. Faqat oddiy suv."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga insulinga tahlil. Kechki ovqatdan keyin boshqa yemang, oddiy suv ichish mumkin."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "title": "Digital dental impression (scanner)",
+ "also": [
+  "digital impression",
+  "intraoral scan",
+  "3D teeth scan",
+  "optical impression"
+ ],
+ "what": "The doctor moves a small scanner around your mouth and gets a 3D model of your teeth on the screen. No impression putty is needed.",
+ "why": "For crowns, veneers, inlays, implants, clear aligners and braces, and night guards.",
+ "duration": "usually 5 to 20 minutes; the model appears right away",
+ "tell_doctor": [
+  "If you have a strong gag reflex",
+  "If your jaw hurts or it is hard to keep your mouth open for long",
+  "If you have dentures or braces"
+ ],
+ "prepare": [
+  {
+   "title": "Hygiene",
+   "text": "Brush your teeth before the visit."
+  },
+  {
+   "title": "Food",
+   "text": "You can eat beforehand. No special prep is needed."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A referral from your doctor, if you have one"
+ ],
+ "steps": [
+  "You sit in the dental chair",
+  "Your teeth are dried with air",
+  "The doctor moves the scanner along your upper and lower teeth",
+  "You are asked to bite together to record your bite",
+  "The model is checked on screen, and some areas are scanned again if needed"
+ ],
+ "feel": [
+  "It does not hurt",
+  "The scanner may feel slightly warm",
+  "You need to keep your mouth open for a few minutes"
+ ],
+ "after": [
+  "You can eat and drink right away",
+  "The model is sent to the lab or used for your treatment plan",
+  "The doctor will tell you how long it takes to make your item"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is it more accurate than a regular impression?",
+   "a": "Usually it is just as good, and for many types of work more accurate. Your doctor decides."
+  },
+  {
+   "q": "Is there any radiation?",
+   "a": "No. The scanner uses light, like a camera."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Digital teeth scan tomorrow. Brush your teeth before the visit."
+  }
+ ]
+}

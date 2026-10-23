@@ -1,0 +1,76 @@
+{
+ "title": "Quloq solinchog‘ini teshish",
+ "also": [
+  "quloqni teshish",
+  "quloq teshish",
+  "solinchoq pirsingi",
+  "bolaga sirg‘a"
+ ],
+ "what": "Quloq solinchog‘i steril asbob bilan teshiladi va darhol sirg‘a taqiladi. Bu bir necha daqiqa oladi.",
+ "why": "Kattalarning xohishiga ko‘ra yoki ota-onaning bola uchun xohishiga ko‘ra.",
+ "duration": "muolajaning o‘zi odatda 10–15 daqiqa; bitish odatda 6–8 hafta",
+ "tell_doctor": [
+  "Metallarga, ayniqsa nikelga allergiya",
+  "Keloid chandiqlarga moyillik",
+  "Teri kasalliklari, tez-tez infeksiyalar",
+  "Qonni suyultiradigan preparatlar",
+  "Bola uchun — yaqinda bo‘lgan kasalliklar va emlashlar"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Teshish siz yoki bola sog‘ bo‘lganda qilinadi: haroratsiz va shamollashsiz."
+  },
+  {
+   "title": "Sochlar",
+   "text": "Sochlarni quloqdan chetga olib qo‘ying — qisqich yoki rezinka bilan."
+  },
+  {
+   "title": "Bolaga",
+   "text": "Bolaga tinch tushuntiring: tez bo‘ladi va ozgina noxush."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Bola teshilayotgan bo‘lsa, ota-ona hujjati va bolaning guvohnomasi"
+ ],
+ "steps": [
+  "Solinchoqlar antiseptik bilan ishlanadi",
+  "Markerda nuqtalar belgilanadi — to‘g‘ri-to‘g‘ri emasligini siz tekshirasiz",
+  "Ba’zan og‘riq qoldiruvchi krem surtiladi",
+  "Tez teshish — sirg‘a darhol taqiladi",
+  "Qisqich mahkamlanib, joy yana ishlanadi",
+  "Teshikni qanday parvarish qilish aytiladi"
+ ],
+ "feel": [
+  "Tez ukol, chimchilagandek",
+  "Solinchoq bir necha soat kuyib, qizarishi mumkin"
+ ],
+ "after": [
+  "Dastlabki sirg‘alarni 6–8 hafta yoki aytilgancha yechmang",
+  "Solinchoqlarni kuniga 1–2 marta antiseptik bilan ishlang",
+  "Teshiklarga iflos qo‘l bilan tegmang",
+  "Bir necha hafta basseyn va suv havzalarida cho‘milmang"
+ ],
+ "red_flags": [
+  "Solinchoq qattiq shishgan, og‘riydi, yiring kelyapti",
+  "Qisqich yoki sirg‘a solinchoq ichiga kirib ketdi",
+  "Harorat ko‘tarildi"
+ ],
+ "faq": [
+  {
+   "q": "Bolaning qulog‘ini necha yoshdan teshsa bo‘ladi?",
+   "a": "Qat’iy yosh yo‘q. Ko‘pchilik bola quloqlarini o‘zi parvarish qila olguncha kutadi. Pediatr bilan maslahatlashing."
+  },
+  {
+   "q": "Sirg‘alarni qachon almashtirsa bo‘ladi?",
+   "a": "Odatda teshik bitgach, 6–8 haftadan keyin. Dastlab gipoallergen metalldan silliq sirg‘alar yaxshiroq."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Quloq teshish yaqin. Sochlarni yig‘ing, hujjatni oling. Harorat bo‘lsa — ko‘chirgan ma’qul."
+  }
+ ]
+}

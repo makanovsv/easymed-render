@@ -1,0 +1,76 @@
+{
+ "title": "Quitar callos y durezas (pedicura médica)",
+ "also": [
+  "quitar callos",
+  "durezas",
+  "pedicura médica",
+  "callo en el pie",
+  "pedicura con aparato"
+ ],
+ "what": "El especialista quita con cuidado la piel endurecida y los callos de los pies. Ayuda cuando duele al caminar.",
+ "why": "Con durezas, callos con raíz, grietas en los talones y, en la diabetes, para el cuidado delicado de los pies.",
+ "duration": "normalmente de 30 a 60 minutos",
+ "tell_doctor": [
+  "Si tienes diabetes o mala circulación en las piernas",
+  "Si tomas medicamentos que adelgazan la sangre",
+  "Si tienes menos sensibilidad en los pies",
+  "Si hay hongos, heridas o una uña enterrada"
+ ],
+ "prepare": [
+  {
+   "title": "Pies",
+   "text": "Antes del procedimiento no remojes ni cortes los callos por tu cuenta."
+  },
+  {
+   "title": "Zapatos",
+   "text": "Lleva los zapatos que usas más: el especialista verá qué roza."
+  },
+  {
+   "title": "Diabetes",
+   "text": "Con diabetes no cortes los callos en casa con navajas: solo con el especialista."
+  }
+ ],
+ "bring": [
+  "Tus zapatos de siempre",
+  "La lista de tus medicamentos",
+  "Calcetines de repuesto"
+ ],
+ "steps": [
+  "El especialista revisa los pies y las uñas",
+  "Limpian la piel con antiséptico",
+  "Ponen un producto que ablanda la piel endurecida",
+  "Quitan los callos y las durezas con un aparato o con un instrumento",
+  "Tratan los pies y ponen crema",
+  "El especialista te aconseja cómo descargar el pie"
+ ],
+ "feel": [
+  "Normalmente no duele; a veces hay un calor leve o vibración",
+  "Quitar un callo con raíz puede ser incómodo"
+ ],
+ "after": [
+  "Usa crema para los pies todos los días",
+  "Usa zapatos cómodos de tu talla",
+  "Los parches blandos y las plantillas bajan la presión",
+  "Los callos vuelven si sigue la causa: repite el cuidado"
+ ],
+ "red_flags": [
+  "Enrojecimiento, hinchazón, dolor y pus en el lugar del callo: acude al médico",
+  "Con diabetes, cualquier herida del pie que no sana: acude enseguida al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué vuelve el callo?",
+   "a": "Lo causa la presión del zapato o una particularidad del pie. Hay que quitar la causa: plantillas, zapatos."
+  },
+  {
+   "q": "¿Se puede hacer pedicura con diabetes?",
+   "a": "Sí, la médica con un especialista. No cortes con navajas ni uses piedra pómez con fuerza por tu cuenta."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes la pedicura médica. No cortes nada en casa; lleva tus zapatos de siempre."
+  }
+ ]
+}

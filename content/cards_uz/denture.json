@@ -1,0 +1,73 @@
+{
+ "title": "Olinadigan protez",
+ "also": [
+  "olinadigan protez",
+  "sun’iy tishlar",
+  "olinadigan tishlar",
+  "tish protezi",
+  "sun’iy jag‘"
+ ],
+ "what": "Bir nechta yoki barcha tishlar o‘rnini bosadigan protez. Uni tozalash uchun o‘zingiz olib, qayta taqasiz.",
+ "why": "Ko‘p tishlar yoki barcha tishlar yo‘q bo‘lganda va olinmaydigan variantlar mos kelmaganda.",
+ "duration": "odatda bir necha hafta ichida 3–5 marta kelish; ko‘nikish odatda bir necha haftadan ikki oygacha",
+ "tell_doctor": [
+  "Milk kasalliklari, og‘izdagi yaralar, og‘iz qurishi",
+  "Qandli diabet",
+  "Plastmassa va metallga allergiya",
+  "Avval protez taqqan-taqmaganingiz va nima yoqmaganini"
+ ],
+ "prepare": [
+  {
+   "title": "Davolash",
+   "text": "Avval qolgan tishlar va milk davolanadi, ba’zan ayrimlari olib tashlanadi."
+  },
+  {
+   "title": "Eski protez",
+   "text": "Eski protezingiz bo‘lsa, o‘zingiz bilan olib keling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Eski protez, agar bo‘lsa",
+  "Tish suratlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor og‘izni ko‘radi va protez turini muhokama qiladi",
+  "Tishlar qolipi olinadi",
+  "Tishlam aniqlanadi, tishlarning rangi va shakli tanlanadi",
+  "Mum model sinab ko‘riladi",
+  "Tayyor protez beriladi va moslashtiriladi",
+  "Bir necha kundan keyin — ishqalangan joylar tuzatiladi"
+ ],
+ "feel": [
+  "Dastlab protez katta tuyulishi, so‘lak ko‘payishi mumkin",
+  "Talaffuz bir necha kunga o‘zgarishi mumkin",
+  "Ishqalanish bo‘lishi mumkin — uni tuzatish vaqtida bartaraf etishadi"
+ ],
+ "after": [
+  "Yumshoq ovqatdan boshlang, uni mayda bo‘laklarga bo‘ling",
+  "Tezroq ko‘nikish uchun ovoz chiqarib o‘qing",
+  "Protezni har kuni tozalang, tunda esa shifokor aytganidek saqlang",
+  "Protezni o‘zingiz egmang va to‘g‘rilamang"
+ ],
+ "red_flags": [
+  "Og‘izdagi yara 1–2 haftadan ortiq bitmasa — shifokorga ko‘rining",
+  "Protez sindi yoki yorildi"
+ ],
+ "faq": [
+  {
+   "q": "Protez bilan uxlash mumkinmi?",
+   "a": "Odatda milk dam olishi uchun tunda yechish tavsiya etiladi. Shifokordan aniqlab oling."
+  },
+  {
+   "q": "Ko‘nikish qancha davom etadi?",
+   "a": "Odatda bir necha hafta. Protezni har kuni taqing — shunda tezroq ko‘nikasiz."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga protez bo‘yicha qabul. Eski protezingiz bo‘lsa, olib keling."
+  }
+ ]
+}

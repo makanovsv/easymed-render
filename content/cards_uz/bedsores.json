@@ -1,0 +1,81 @@
+{
+ "title": "Yotib qolgan bemorda yotoq yaralarining oldini olish",
+ "also": [
+  "yotoq yaralari",
+  "yotib qolgan bemorga qarash",
+  "yotoq yaralari profilaktikasi",
+  "yotoq yaralariga qarshi matras",
+  "yotoq yarasi bo‘lmasligi uchun nima qilish kerak"
+ ],
+ "what": "Yotoq yaralari — odam harakatsiz yotganda yoki o‘tirganda uzoq bosim tufayli terida paydo bo‘ladigan yaralar. Ularning oldini olish davolashdan osonroq.",
+ "why": "Odam uzoq vaqt yotoqda yotganda yoki aravachada o‘tirganda va o‘zi deyarli holatini o‘zgartirmaganda.",
+ "duration": "doimiy: holatni odatda har 2 soatda o‘zgartirish, terini har kuni ko‘zdan kechirish",
+ "tell_doctor": [
+  "Terida bosganda oqarmaydigan qizil dog‘lar paydo bo‘lsa",
+  "Pufakchalar, yaralar yoki terining qorayishi paydo bo‘lsa",
+  "Odam kam ovqatlansa va ichsa yoki ozib ketsa",
+  "Siydik yoki najasni tuta olmaslik bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Matras",
+   "text": "Odatda yotoq yaralariga qarshi matras tavsiya etiladi. Qaysi biri mosligini shifokor yoki hamshiradan so‘rang."
+  },
+  {
+   "title": "Jadval",
+   "text": "Holatni o‘zgartirish jadvalini tuzing va har bir burishni belgilab boring."
+  },
+  {
+   "title": "Joy",
+   "text": "Choyshab tekis, burmalar va uvoqlarsiz bo‘lsin."
+  },
+  {
+   "title": "Vositalar",
+   "text": "Tizza, tovon ostiga va oyoqlar orasiga yostiq va valiklar."
+  }
+ ],
+ "bring": [
+  "Yostiq va valiklar",
+  "Terini yuvish vositasi va namlovchi krem",
+  "Shimuvchi taglik",
+  "Holat o‘zgartirish jadvali"
+ ],
+ "steps": [
+  "Odam holatini taxminan har 2 soatda o‘zgartiring: orqa, bir yon, boshqa yon",
+  "Yonboshda tizzalar orasiga va orqa ostiga yostiq qo‘ying",
+  "Tovonlarni havoda tuting — boldir ostiga valik",
+  "Har kuni dumg‘aza, tovon, kurak, ensa, sonlardagi terini ko‘zdan kechiring",
+  "Terini yumshoq yuving va artmay, paxtalab quriting",
+  "Nam ichki kiyim va taglikni darrov almashtiring"
+ ],
+ "feel": [
+  "Burilganda odam noqulay his qilishi mumkin — sekin qiling, tushuntiring",
+  "Boshlang‘ich qizarishni o‘tkazib yuborish oson — diqqat bilan qarang"
+ ],
+ "after": [
+  "Odam yetarlicha ichishi va ovqatlanishini nazorat qiling",
+  "Qizargan joylarni uqalamang",
+  "Imkon bo‘lsa, o‘zi harakatlanishiga yordam bering",
+  "Har qanday yangi yara haqida shifokorga ayting"
+ ],
+ "red_flags": [
+  "Terida ochiq yara, pufak yoki qora dog‘ paydo bo‘ldi — shifokorga",
+  "Yara yiringli, hidli va harorat bilan — shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Rezina doira qo‘yish yordam beradimi?",
+   "a": "Odatda tavsiya etilmaydi: doiraning o‘zi terini bosadi. Yotoq yaralariga qarshi matras va holatni o‘zgartirish yaxshiroq."
+  },
+  {
+   "q": "Qizargan joyni yashil dori yoki spirt bilan surtsa bo‘ladimi?",
+   "a": "Yo‘q, spirt terini quritadi. Qizarishni shifokor yoki hamshiraga ko‘rsating."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Odamni boshqa yoniga burish va terisini ko‘zdan kechirish vaqti."
+  }
+ ]
+}

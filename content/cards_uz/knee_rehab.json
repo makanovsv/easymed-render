@@ -1,0 +1,81 @@
+{
+ "title": "Bo‘g‘im almashtirilgandan keyingi reabilitatsiya",
+ "also": [
+  "endoprotezlashdan keyin tiklanish",
+  "tizza almashtirilgandan keyin davolovchi jismoniy tarbiya",
+  "son bo‘g‘imi almashtirilgandan keyin davolovchi jismoniy tarbiya",
+  "bo‘g‘imni yurgizish"
+ ],
+ "what": "Reabilitolog yangi bo‘g‘im bilan harakatlanishni o‘rgatadi: kuch, egiluvchanlik va yurish mashqlari. Shunda bo‘g‘im yaxshiroq xizmat qiladi.",
+ "why": "Tizza yoki son bo‘g‘imi almashtirilgandan keyin — odatda operatsiyadan keyingi dastlabki kunlardan.",
+ "duration": "mashg‘ulotlar odatda 30–60 daqiqa, kurs — odatda bir necha hafta yoki oy",
+ "tell_doctor": [
+  "Qaysi bo‘g‘im va qachon almashtirilgan",
+  "Og‘riq, shish, harorat",
+  "Qonni suyultiruvchi dorilar",
+  "Yiqilishlar va bosh aylanishi",
+  "Boshqa og‘riydigan bo‘g‘imlar va bel"
+ ],
+ "prepare": [
+  {
+   "title": "Kiyim",
+   "text": "Keng kiyim, shorti yoki osongina shimarib bo‘ladigan shim. Tovonli, mustahkam poyabzal."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Shifokor og‘riq qoldiruvchi buyurgan bo‘lsa, uni mashg‘ulotdan oldin ichish mumkin — shifokordan so‘rang."
+  },
+  {
+   "title": "Tayanch",
+   "text": "O‘zingiz foydalanadigan qo‘ltiqtayoq yoki yurgichni oling."
+  }
+ ],
+ "bring": [
+  "Operatsiyadan keyingi ko‘chirma",
+  "Dorilar ro‘yxati",
+  "Qulay kiyim va poyabzal",
+  "Qo‘ltiqtayoq yoki yurgich"
+ ],
+ "steps": [
+  "Reabilitolog bo‘g‘imni ko‘radi va harakatlarni o‘lchaydi",
+  "Yengil isinishdan boshlanadi",
+  "Bo‘g‘imni bukish va yozish mashqlari bajariladi",
+  "Son va dumba mushaklari mustahkamlanadi",
+  "Yurish, zinapoya, stuldan turish mashq qilinadi",
+  "Oxirida ba’zan bo‘g‘imga sovuq qo‘yiladi",
+  "Uyda bajarish uchun mashqlar beriladi"
+ ],
+ "feel": [
+  "Mashqlar paytida tortuvchi og‘riq bo‘ladi — chidasa bo‘ladigan, odatda qancha mumkinligini aytishadi",
+  "Mashg‘ulotdan keyin — charchoq va ozgina shish",
+  "Har haftada harakat qilish yengillashadi"
+ ],
+ "after": [
+  "Uy mashqlarini har kuni bajaring",
+  "Sovuq va ko‘tarib qo‘yilgan oyoq shishni kamaytiradi",
+  "Son bo‘g‘imi almashtirilgandan keyin holatlar bo‘yicha cheklovlarga rioya qiling — shifokor aytadi",
+  "Tayanchsiz yurish — shifokor ruxsat berganda"
+ ],
+ "red_flags": [
+  "Boldirda og‘riq va shish, oyoq issiq bo‘lib qoldi",
+  "Harorat 38 dan yuqori, qizarish, chokdan ajralmalar",
+  "Keskin og‘riq, oyoq qisqargan yoki burilib qolgan — 103 ga qo‘ng‘iroq qiling",
+  "To‘satdan nafas qisishi, ko‘krak og‘rig‘i — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Tiklanish qancha davom etadi?",
+   "a": "Asosiysi odatda 6–12 haftada, to‘liq — bir necha oyda."
+  },
+  {
+   "q": "Og‘risa mashq qilish mumkinmi?",
+   "a": "Mashqlarda ozgina og‘riq bo‘ladi. Kuchli bo‘lsa — to‘xtab, reabilitologga aytish kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga reabilitatsiya mashg‘uloti. Qulay kiyim, poyabzal va qo‘ltiqtayoqni oling."
+  }
+ ]
+}

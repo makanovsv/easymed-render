@@ -1,0 +1,72 @@
+{
+ "title": "Free adult health check-up",
+ "also": [
+  "health check-up",
+  "free health screening",
+  "preventive check-up",
+  "routine adult medical exam"
+ ],
+ "what": "A free health check under your health insurance. The set of tests depends on your age and sex.",
+ "why": "For adults by age: usually once every three years until 40 and every year after 40. Check with your own clinic.",
+ "duration": "the first stage usually takes 1 to 2 visits of 1 to 3 hours, with results in a few days",
+ "tell_doctor": [
+  "Which illnesses you have and which medicines you take",
+  "Whether you smoke and how often you drink alcohol",
+  "Heart disease and cancer in close relatives",
+  "Any complaints, even minor ones"
+ ],
+ "prepare": [
+  {
+   "title": "Booking",
+   "text": "Book at the clinic where you are registered, or through an online portal."
+  },
+  {
+   "title": "Food",
+   "text": "For a blood test, people usually come in the morning on an empty stomach. Check with the clinic."
+  },
+  {
+   "title": "Stool test",
+   "text": "If a test for hidden blood is ordered, you will be given a container beforehand and told how to collect it."
+  }
+ ],
+ "bring": [
+  "An ID",
+  "Your health insurance card",
+  "Your insurance or social security number, if the clinic asks",
+  "Results of tests from the last year, if you had any"
+ ],
+ "steps": [
+  "You fill in a health questionnaire",
+  "Your height, weight, blood pressure, and waist are measured",
+  "You give blood",
+  "An ECG and chest X-ray are done, if it is due",
+  "Women have a gynecology exam",
+  "The doctor sums up and says whether a second stage is needed"
+ ],
+ "feel": [
+  "The tests are usually painless",
+  "The blood test is a short prick"
+ ],
+ "after": [
+  "You get a health record or a report",
+  "If something is found, you are sent for a second stage or to a specialist",
+  "Come for your next check-up on schedule"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Do I need to take time off work for the check-up?",
+   "a": "An employee may get a paid day for the check-up. Ask your employer."
+  },
+  {
+   "q": "Can I do it on a weekend?",
+   "a": "Many clinics see patients on Saturdays. Ask your own."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Health check-up tomorrow. Do not eat in the morning before the blood test, and bring your ID and insurance card."
+  }
+ ]
+}

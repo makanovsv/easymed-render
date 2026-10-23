@@ -1,0 +1,77 @@
+{
+ "title": "Objective hearing test for babies (ABR, ASSR)",
+ "also": [
+  "ABR test",
+  "ASSR",
+  "newborn hearing test",
+  "auditory brainstem response",
+  "hearing test during sleep"
+ ],
+ "what": "Sensors are stuck on your baby's head, and quiet sounds are played into the ears. The device records the brain's response and shows how your baby hears.",
+ "why": "When a baby did not pass the hearing screening at the maternity hospital, when there is a risk of hearing loss, or when the exact level of hearing needs to be found.",
+ "duration": "usually 30 to 90 minutes; the report is ready right away or the same day",
+ "tell_doctor": [
+  "If your baby did not pass the hearing screening after birth",
+  "If hearing loss runs in your family",
+  "How your pregnancy and birth went",
+  "If your baby has an ear infection or a runny nose"
+ ],
+ "prepare": [
+  {
+   "title": "Sleep",
+   "text": "The test is done while your baby sleeps. Try to keep them awake before the visit so they arrive sleepy."
+  },
+  {
+   "title": "Feeding",
+   "text": "It helps to feed your baby right before the test. After eating, they fall asleep."
+  },
+  {
+   "title": "Health",
+   "text": "If your baby has a runny nose or an ear infection, call. The test may be moved."
+  },
+  {
+   "title": "Older children",
+   "text": "Sometimes the test is done during sleep with light sedation. The doctor will explain how to prepare."
+  }
+ ],
+ "bring": [
+  "A bottle, or be ready to breastfeed",
+  "A blanket and a diaper",
+  "A small blanket for warmth",
+  "Your hospital discharge summary"
+ ],
+ "steps": [
+  "Your baby is fed and put to sleep",
+  "The skin on the forehead and behind the ears is wiped",
+  "A few small sensors are stuck on",
+  "Soft earphones are put in the ears",
+  "While your baby sleeps, sounds are played and the response is recorded",
+  "The sensors are removed"
+ ],
+ "feel": [
+  "It does not hurt your baby",
+  "If your baby wakes up, the test is paused"
+ ],
+ "after": [
+  "You are usually told the result right away",
+  "If hearing is reduced, the doctor will tell you what to do next",
+  "The earlier a problem is found, the better treatment works"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why does my baby need to sleep?",
+   "a": "During sleep there is no movement, so the device records the weak signals more accurately."
+  },
+  {
+   "q": "If my baby failed the screening at the hospital, does that mean they cannot hear?",
+   "a": "Not necessarily. Often it is fluid in the ear after birth. This test will show for sure."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Your baby's hearing test is tomorrow. Bring them sleepy and feed them before the test. Bring a blanket and a diaper."
+  }
+ ]
+}

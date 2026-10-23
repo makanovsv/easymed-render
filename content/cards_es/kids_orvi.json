@@ -1,0 +1,79 @@
+{
+ "title": "El niño tiene una infección respiratoria: consulta con el pediatra",
+ "also": [
+  "el niño se resfrió",
+  "pediatra por resfriado",
+  "llamar al pediatra",
+  "fiebre en el niño"
+ ],
+ "what": "El pediatra revisa al niño enfermo y te dice cómo tratar el resfriado en casa. Normalmente la infección viral se quita sola en 5 a 7 días.",
+ "why": "Con mocos, tos, dolor de garganta, fiebre en el niño.",
+ "duration": "la consulta normalmente dura de 15 a 20 minutos",
+ "tell_doctor": [
+  "Cuándo empezaron los síntomas y qué temperatura tuvo",
+  "Qué le diste y en qué dosis",
+  "Cómo toma líquidos y cuánto orina",
+  "Si hay sarpullido, dolor de oído, respiración pesada",
+  "Enfermedades crónicas y alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Notas",
+   "text": "Anota la temperatura y la hora en que diste el medicamento para la fiebre."
+  },
+  {
+   "title": "Visita a domicilio o consulta",
+   "text": "Si la fiebre es alta, se puede pedir al médico a casa. Confírmalo en el centro de salud."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa que se quite fácil para la revisión."
+  }
+ ],
+ "bring": [
+  "Los documentos del niño",
+  "El expediente médico",
+  "Notas de temperatura y medicamentos",
+  "Agua y pañuelos"
+ ],
+ "steps": [
+  "El médico te pregunta por la enfermedad",
+  "Mira la garganta y la nariz",
+  "Revisa los oídos",
+  "Escucha los pulmones",
+  "A veces palpa el abdomen y el cuello",
+  "Explica cómo tratarlo en casa y cuándo volver a llamar"
+ ],
+ "feel": [
+  "Revisar la garganta puede ser incómodo; el niño puede llorar, es normal",
+  "El resto de la revisión no duele; puedes tener al niño en brazos"
+ ],
+ "after": [
+  "Dale más líquidos",
+  "Baja la fiebre si el niño se siente mal; la dosis la dirá el médico",
+  "Los antibióticos normalmente no se necesitan en una infección viral; dalos solo si el médico los receta",
+  "Si no mejora en 3 días, vuelve con el médico"
+ ],
+ "red_flags": [
+  "El niño respira con dificultad o muy rápido, se le hunde la piel entre las costillas: llama a emergencias",
+  "Sarpullido que no se borra al presionar con un vaso: llama a emergencias",
+  "El niño está decaído, no toma líquidos, hace mucho que no orina: acude al médico de inmediato",
+  "Convulsiones con fiebre: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Se necesitan antibióticos para un resfriado?",
+   "a": "Normalmente no, la infección la causan virus. Los antibióticos solo los receta el médico."
+  },
+  {
+   "q": "¿Cuándo puede volver a la guardería?",
+   "a": "Normalmente cuando ya no hay fiebre y el niño se siente bien. El plazo lo dirá el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es la consulta con el pediatra. Lleva el expediente y anota la temperatura y los medicamentos que le diste."
+  }
+ ]
+}

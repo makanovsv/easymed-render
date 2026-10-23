@@ -1,0 +1,73 @@
+{
+ "title": "PCR de hepatitis C (carga viral)",
+ "also": [
+  "ARN del virus de hepatitis C",
+  "HCV RNA",
+  "carga viral de hepatitis C",
+  "PCR cuantitativa de hepatitis C"
+ ],
+ "what": "Es un análisis de sangre que busca el propio virus de la hepatitis C y muestra cuánto hay en la sangre.",
+ "why": "Si encontraron anticuerpos contra la hepatitis C, para saber si el virus está presente ahora. También antes, durante y después del tratamiento.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en unos días",
+ "tell_doctor": [
+  "Si te trataron la hepatitis C y cuándo terminaste",
+  "Qué medicamentos tomas ahora",
+  "Si tienes otras enfermedades del hígado o VIH",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayuno estricto, pero es mejor ir 3 o 4 horas después de una comida ligera, sin grasa. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Si estás en tratamiento, sigue tomándolo según el esquema. No te saltes pastillas antes del análisis."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "Análisis anteriores de hepatitis C",
+  "El informe del tratamiento, si lo tuviste"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Mientras llega el resultado, usa solo tu propio rastrillo y tu cepillo de dientes",
+  "El resultado es confidencial. Solo lo recibes tú o tu médico."
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y está rojo"
+ ],
+ "faq": [
+  {
+   "q": "Tengo anticuerpos pero no virus, ¿qué significa?",
+   "a": "Muchas veces significa que en algún momento tuviste contacto con el virus, pero ya no está. La última palabra la tiene el médico."
+  },
+  {
+   "q": "¿La hepatitis C se cura?",
+   "a": "Sí, hoy en día normalmente se cura con pastillas. El médico elegirá el esquema."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu PCR de hepatitis C. En la mañana mejor no comas grasoso. Tus medicamentos, como siempre."
+  }
+ ]
+}

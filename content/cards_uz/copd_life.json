@@ -1,0 +1,75 @@
+{
+ "title": "SOKK bilan yashash",
+ "also": [
+  "SOKK",
+  "chekuvchining surunkali bronxiti",
+  "surunkali obstruktiv o‘pka kasalligi",
+  "chekuvchining nafas qisilishi"
+ ],
+ "what": "SOKK: o‘pka kasalligi bo‘lib, bunda nafas olish og‘irlashadi. Davolash va turmush tarzi uni sekinlashtirishga va kamroq bo‘g‘ilishga yordam beradi.",
+ "why": "Shifokor SOKK topgan bo‘lsa, ko‘pincha chekkan yoki uzoq vaqt chang va tutun hidlaganlarda.",
+ "duration": "davolash odatda doimiy, shifokor nazorati jadval bo‘yicha",
+ "tell_doctor": [
+  "Hozir chekasizmi: shifokor tashlashga yordam beradi",
+  "Xurujlar va nafas qisilishi qanchalik tez-tez bo‘ladi",
+  "Qanday ingalyatorlardan va qanday foydalanasiz",
+  "Oyoqlarda shish paydo bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Chekishni tashlash",
+   "text": "Bu eng muhimi. Shifokordan yordam so‘rang: shunda tashlash osonroq."
+  },
+  {
+   "title": "Ingalyatorlar",
+   "text": "Ulardan qanday foydalanayotganingizni shifokorga ko‘rsating."
+  },
+  {
+   "title": "Emlashlar",
+   "text": "Shifokordan gripp va pnevmokokkka qarshi emlashlar haqida so‘rang."
+  }
+ ],
+ "bring": [
+  "Ingalyatorlar",
+  "Dorilar ro‘yxati",
+  "O‘zingizni his qilish kundaligi"
+ ],
+ "steps": [
+  "Ingalyatorlardan har kuni shifokor tayinlaganidek foydalaning",
+  "Har kuni harakatlaning: sokin sur’atda yuring",
+  "Shifokor o‘rgatgan nafas mashqlarini bajaring",
+  "Nafas qisilganda lablarni qisib nafas oling: burun bilan nafas olish, og‘iz bilan uzoq chiqarish",
+  "Oz-ozdan, lekin muntazam ovqatlaning",
+  "Tutun, chang va sovuq havodan saqlaning"
+ ],
+ "feel": [
+  "Yuklamada nafas qisilishi tez-tez bo‘ladi, mashqlar uni kamaytiradi",
+  "Ertalabki balg‘amli yo‘tal ko‘p uchraydi"
+ ],
+ "after": [
+  "Xuruj belgilarini sezing: nafas qisilishi ko‘payishi, balg‘am ko‘payishi, balg‘am rangi o‘zgarishi",
+  "Xuruj paytida darhol shifokor bilan bog‘laning",
+  "O‘pka reabilitatsiyasi dasturi haqida so‘rang"
+ ],
+ "red_flags": [
+  "Dam olganda kuchli nafas qisilishi, gapirish qiyin bo‘lsa, tez yordamni chaqiring (103)",
+  "Lablar ko‘karsa, chalkashlik yoki uyquchanlik bo‘lsa, tez yordamni chaqiring (103)",
+  "Ko‘krakda og‘riq bo‘lsa, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Kasallik allaqachon bo‘lsa, chekishni tashlashning ma’nosi bormi?",
+   "a": "Ha. Bu har qanday yoshda kasallikni sekinlashtiradi."
+  },
+  {
+   "q": "Uyda kislorod kerakmi?",
+   "a": "Faqat ba’zilarga. Buni shifokor tahlillarga qarab hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Ertalabki ingalyator va sokin sur’atda qisqa sayr."
+  }
+ ]
+}

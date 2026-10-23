@@ -1,0 +1,72 @@
+{
+ "title": "Polio vaccine",
+ "also": [
+  "polio vaccine",
+  "polio shot",
+  "polio drops",
+  "IPV",
+  "OPV"
+ ],
+ "what": "The vaccine protects against polio, an infection that can cause paralysis. It is given as an injection or as drops in the mouth.",
+ "why": "For children on the national vaccination schedule, and sometimes for adults before travel to high-risk countries.",
+ "duration": "the vaccine itself takes a few seconds; with the check-up usually 15 to 40 minutes",
+ "tell_doctor": [
+  "If your child is sick now or has a fever",
+  "Allergies and strong reactions to past vaccines",
+  "If your child or someone in the family has weakened immunity. This matters for the drops"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "The vaccine is given when your child is healthy. Your child will be examined first."
+  },
+  {
+   "title": "Type of vaccine",
+   "text": "Ask whether it will be a shot or drops. It depends on age and the schedule."
+  },
+  {
+   "title": "Food",
+   "text": "If drops are given, usually no feeding or drinks for about an hour afterward. Ask the nurse."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "The vaccination certificate or record"
+ ],
+ "steps": [
+  "The doctor examines your child and takes the temperature",
+  "If it is a shot, it is given in the thigh or arm",
+  "If it is drops, they are dropped into the mouth",
+  "The vaccine is recorded in the documents",
+  "After the vaccine, stay at the clinic for about 30 minutes"
+ ],
+ "feel": [
+  "A shot gives a quick pain; drops do not hurt",
+  "Sometimes redness at the shot spot or a mild fever"
+ ],
+ "after": [
+  "Stay near the office for 30 minutes",
+  "If your child spits up the drops right away, tell the nurse",
+  "Next vaccine on schedule"
+ ],
+ "red_flags": [
+  "Trouble breathing, a swollen face, a rash all over: call your local emergency number",
+  "Weakness in a leg or arm after the vaccine: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "How is the shot different from the drops?",
+   "a": "The shot contains a killed virus; the drops contain a weakened live one. The doctor chooses the plan from the schedule."
+  },
+  {
+   "q": "Do adults need the vaccine?",
+   "a": "Usually not, if the course was completed in childhood. Ask your doctor before travel to some countries."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Polio vaccine tomorrow. Bring the vaccination record."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Health book for work (sanitary book)",
+ "also": [
+  "sanitary book",
+  "health card for work",
+  "personal medical book",
+  "food handler health certificate"
+ ],
+ "what": "A document in which the results of medical exams and tests are recorded. Without it you cannot work with food or with children.",
+ "why": "For work in catering, food retail, kindergartens, schools, healthcare and other similar jobs.",
+ "duration": "usually 1 to 3 days for the exams; test results in a few days",
+ "tell_doctor": [
+  "Whether you have had intestinal infections, hepatitis or tuberculosis",
+  "Skin diseases",
+  "What medicines you take"
+ ],
+ "prepare": [
+  {
+   "title": "The set",
+   "text": "Usually you need a visit to a general doctor, a chest X-ray, tests for intestinal infections and worms, and sometimes a skin doctor and a gynecologist. The list depends on the job. Ask the clinic."
+  },
+  {
+   "title": "Stool test",
+   "text": "The sample is collected in a container from a pharmacy or the clinic. They will explain how to collect it."
+  },
+  {
+   "title": "Vaccinations",
+   "text": "Sometimes your vaccinations are checked. Bring your record if you have one."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A photo, if the clinic requires it",
+  "Your vaccination record",
+  "Your chest X-ray from the last year, if you have it"
+ ],
+ "steps": [
+  "You come to a clinic that issues these books",
+  "You fill in a form",
+  "You give your tests",
+  "You have a chest X-ray if you do not have a recent one",
+  "You see the required doctors",
+  "Sometimes you take a hygiene course and a test",
+  "After the test results, you are given the book with the stamps"
+ ],
+ "feel": [
+  "The exams do not hurt",
+  "A swab may be unpleasant but is quick"
+ ],
+ "after": [
+  "Keep the book with your employer or with you, as is usual at your workplace",
+  "Watch the date of your next exam"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "How often must the book be renewed?",
+   "a": "Usually once a year, sometimes more often. It depends on the job."
+  },
+  {
+   "q": "Can I do the tests at one clinic and get the book at another?",
+   "a": "Sometimes yes, but it is better to check with the clinic that issues the book."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Health book appointment tomorrow. Bring your ID, vaccination record and a sample container if needed."
+  }
+ ]
+}

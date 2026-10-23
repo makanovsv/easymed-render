@@ -1,0 +1,73 @@
+{
+ "title": "PCR de hepatitis B (carga viral)",
+ "also": [
+  "ADN del virus de hepatitis B",
+  "HBV DNA",
+  "carga viral de hepatitis B",
+  "PCR cuantitativa de hepatitis B"
+ ],
+ "what": "Es un análisis de sangre que muestra cuánto virus de la hepatitis B hay ahora en la sangre.",
+ "why": "Si encontraron hepatitis B, para decidir si hace falta tratamiento y para darle seguimiento. También en el embarazo en mujeres con hepatitis B.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en unos días",
+ "tell_doctor": [
+  "Si tomas medicamentos para la hepatitis B",
+  "Si estás embarazada o lo planeas",
+  "Si tienes hepatitis C, D o VIH",
+  "Si tomas medicamentos que bajan las defensas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayuno estricto, pero es mejor ir 3 o 4 horas después de una comida ligera, sin grasa. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Si estás en tratamiento, toma las pastillas según el esquema. No las suspendas ni te las saltes por tu cuenta."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "Análisis anteriores de hepatitis B",
+  "Los resultados de ultrasonido de hígado, si los tienes"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Es mejor comparar el resultado con los anteriores: el médico ve cómo cambia",
+  "El resultado es confidencial. Solo lo recibes tú o tu médico."
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y está rojo"
+ ],
+ "faq": [
+  {
+   "q": "¿Cada cuánto hay que hacer este análisis?",
+   "a": "Normalmente una o varias veces al año, y más seguido durante el tratamiento. El médico te dará el esquema."
+  },
+  {
+   "q": "Si no se detecta el virus, ¿puedo dejar las pastillas?",
+   "a": "No. Significa que el tratamiento funciona. Solo el médico puede suspenderlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu PCR de hepatitis B. En la mañana mejor no comas grasoso. Tus medicamentos, como siempre."
+  }
+ ]
+}

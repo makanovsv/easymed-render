@@ -1,0 +1,87 @@
+{
+ "title": "Correção endovascular de aneurisma da aorta (EVAR)",
+ "also": [
+  "EVAR",
+  "endoprótese de aorta",
+  "stent da aorta",
+  "aneurisma de aorta sem corte"
+ ],
+ "what": "Pelos vasos da virilha, levam até a aorta uma endoprótese, um tubo de tecido e metal. O sangue passa por ela, e a parte dilatada não se rompe.",
+ "why": "Para aneurisma da aorta abdominal, quando o tamanho ou o crescimento dele são perigosos.",
+ "duration": "o procedimento leva normalmente de 2 a 3 horas; a internação, alguns dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias, principalmente a iodo e contraste",
+  "Doenças dos rins e diabetes",
+  "Se você pode estar grávida",
+  "Doenças do pulmão e se você fuma"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Contraste",
+   "text": "Se você tem doença nos rins, avise antes. O médico pode pedir um exame e orientar a beber água antes e depois."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  },
+  {
+   "title": "Tomografia",
+   "text": "Normalmente é preciso uma tomografia da aorta com contraste. Por ela se escolhe a prótese."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista vai conversar com você. Conte sobre a sua saúde e os seus remédios."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para alguns dias no hospital"
+ ],
+ "steps": [
+  "Você troca de roupa e recebe um acesso na veia",
+  "Aplicam anestesia geral ou anestesia local com sedação",
+  "Pelas artérias da virilha, levam tubos finos",
+  "Guiada por raio-X, a endoprótese é colocada na aorta e aberta",
+  "Com contraste, conferem se o sangue passa direito",
+  "Os tubos são retirados e os furos são fechados"
+ ],
+ "feel": [
+  "Depois da anestesia: sonolência",
+  "Dor na virilha, nos locais dos furos",
+  "Às vezes, por alguns dias, febre baixa. Avise o médico"
+ ],
+ "after": [
+  "Normalmente pode andar no dia seguinte",
+  "Sem carregar peso pelo tempo que o médico disser",
+  "Tomografia ou ultrassom de controle: obrigatório, conforme o calendário, pela vida toda",
+  "Remédios exatamente como receitados"
+ ],
+ "red_flags": [
+  "O local do furo inchou, sangra muito ou dói",
+  "Dor forte na barriga ou nas costas: ligue para a emergência",
+  "A perna ficou fria, pálida ou dormente: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que fazer controle, se já colocaram tudo?",
+   "a": "A prótese pode sair do lugar ou vazar. Exames regulares encontram isso a tempo."
+  },
+  {
+   "q": "Por que é melhor que a cirurgia aberta?",
+   "a": "A recuperação costuma ser mais rápida. Qual método serve para você, o cirurgião vascular decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia na aorta. Documentos, imagens da tomografia e lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "title": "Laqueadura (esterilização feminina)",
+ "also": [
+  "laqueadura",
+  "ligadura de trompas",
+  "esterilização feminina",
+  "laqueadura por vídeo"
+ ],
+ "what": "O cirurgião fecha as trompas para que o óvulo e o espermatozoide não se encontrem. Normalmente é feito por furinhos pequenos, com anestesia.",
+ "why": "Quando a mulher tem certeza de que não quer mais filhos. Essa decisão normalmente é para sempre.",
+ "duration": "a cirurgia leva normalmente de 30 a 60 minutos; muitas vezes se vai para casa no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Se você tem certeza da decisão: é difícil desfazer",
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias",
+  "Doenças crônicas",
+  "Se já operou a barriga",
+  "Se já teve problemas com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Decisão",
+   "text": "Converse com o médico sobre outros métodos para evitar gravidez. Normalmente se assina o consentimento antes."
+  },
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, coleta de material vaginal e eletrocardiograma. A clínica passa a lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come nem bebe por algumas horas antes da cirurgia. A clínica vai dizer o horário exato."
+  },
+  {
+   "title": "Transporte",
+   "text": "Vá com um acompanhante. Depois da anestesia, não pode dirigir."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Roupa confortável"
+ ],
+ "steps": [
+  "Você troca de roupa e recebe um acesso na veia",
+  "Aplicam a anestesia e você dorme",
+  "O cirurgião faz 2 ou 3 furinhos pequenos na barriga",
+  "As trompas são fechadas ou retiradas",
+  "Os furinhos são fechados com pontos",
+  "Você acorda na sala de recuperação"
+ ],
+ "feel": [
+  "Sonolência depois da anestesia",
+  "Dor na barriga e nos furinhos; dão analgésico",
+  "O ombro pode doer por causa do gás. Passa em 1 a 2 dias"
+ ],
+ "after": [
+  "Não carregue peso por 1 a 2 semanas",
+  "Os pontos são retirados ou se dissolvem sozinhos. O cirurgião vai dizer",
+  "A menstruação normalmente continua como antes",
+  "A cirurgia não protege contra infecções"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus",
+  "Dor na barriga forte ou que vai aumentando",
+  "Vermelhidão ou pus nos furinhos",
+  "Menstruação atrasada e dor no pé da barriga: procure o médico na hora"
+ ],
+ "faq": [
+  {
+   "q": "Dá para engravidar depois?",
+   "a": "Essa decisão normalmente é para sempre. Reconstruir as trompas é difícil e nem sempre funciona."
+  },
+  {
+   "q": "Os hormônios vão mudar?",
+   "a": "Normalmente não. Os ovários continuam funcionando como antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Leve os documentos e um acompanhante. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

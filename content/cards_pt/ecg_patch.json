@@ -1,0 +1,75 @@
+{
+ "title": "Monitor de ECG prolongado (adesivo por 7 a 14 dias)",
+ "also": [
+  "adesivo de ECG",
+  "monitorização prolongada do ECG",
+  "monitor cardíaco adesivo",
+  "ECG de uma semana"
+ ],
+ "what": "Colam no peito um monitor pequeno em forma de adesivo. Ele grava o ECG sem parar por 1 a 2 semanas, enquanto você leva a vida normal.",
+ "why": "Quando as falhas no coração, as palpitações ou os desmaios acontecem raramente e o Holter de 24 horas não consegue pegar.",
+ "duration": "normalmente fica de 7 a 14 dias, o resultado sai alguns dias depois de tirar",
+ "tell_doctor": [
+  "Quais remédios você toma",
+  "Se tem marca-passo",
+  "Se tem alergia a adesivo ou cola",
+  "Com que frequência os sintomas aparecem"
+ ],
+ "prepare": [
+  {
+   "title": "Pele",
+   "text": "No dia da colocação, não passe creme no peito. Nos homens, às vezes raspam o local."
+  },
+  {
+   "title": "Diário",
+   "text": "Anote o horário e o que você sentiu. Muitas vezes o adesivo tem um botão. Aperte quando tiver sintomas."
+  },
+  {
+   "title": "Água",
+   "text": "Muitos adesivos permitem chuveiro, mas não banheira nem piscina. Confirme para o seu aparelho."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios",
+  "Caderno ou celular para o diário"
+ ],
+ "steps": [
+  "A enfermeira limpa a pele do peito",
+  "Cola o adesivo no lado esquerdo do peito",
+  "Confere se a gravação está funcionando",
+  "Explica como apertar o botão e fazer o diário",
+  "Você vai para casa e vive como de costume",
+  "Depois de 7 a 14 dias, o adesivo é tirado por você ou na clínica, como orientarem"
+ ],
+ "feel": [
+  "Não dói",
+  "A pele embaixo do adesivo pode coçar",
+  "Nos primeiros dias você sente que tem algo colado. Depois acostuma"
+ ],
+ "after": [
+  "O adesivo é devolvido à clínica ou enviado, como orientarem",
+  "A análise normalmente leva alguns dias",
+  "Uma leve vermelhidão depois de tirar passa sozinha"
+ ],
+ "red_flags": [
+  "Dor forte no peito, desmaio, dificuldade para respirar: ligue para a emergência. O adesivo não atrapalha",
+  "Coceira forte ou bolhas embaixo do adesivo: fale com a clínica"
+ ],
+ "faq": [
+  {
+   "q": "Posso tomar banho com o adesivo?",
+   "a": "Muitos adesivos aguentam chuveiro, mas banheira e piscina normalmente não. Confirme para o seu aparelho."
+  },
+  {
+   "q": "O que fazer se o adesivo descolar?",
+   "a": "Ligue para a clínica. Não cole de volta com fita sem orientação."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã colocam o adesivo de ECG. De manhã, não passe creme no peito. Pense onde vai fazer o diário."
+  }
+ ]
+}

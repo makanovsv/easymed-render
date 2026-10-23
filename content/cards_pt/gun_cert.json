@@ -1,0 +1,70 @@
+{
+ "title": "Exame médico para porte de arma",
+ "also": [
+  "atestado para arma",
+  "laudo médico para porte de arma",
+  "exame para licença de arma",
+  "atestado para caça"
+ ],
+ "what": "É uma avaliação médica sem a qual não se emite nem se renova a licença de arma. Normalmente inclui alguns médicos e um exame.",
+ "why": "Para tirar ou renovar a licença de arma.",
+ "duration": "normalmente 1 a 2 dias; o resultado do exame sai em alguns dias",
+ "tell_doctor": [
+  "Doenças dos olhos e como está a visão",
+  "Doenças do sistema nervoso e da saúde mental",
+  "Quais remédios você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Lista de médicos",
+   "text": "Normalmente são necessários clínico ou médico do trabalho, oftalmologista, psiquiatra e médico de dependência química (narcologista). Confirme a lista na clínica."
+  },
+  {
+   "title": "Exame",
+   "text": "Muitas vezes se faz exame de urina para drogas e substâncias fortes. Conte ao médico todos os remédios."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Não beba álcool. Não pare remédios por conta própria."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Óculos ou lentes, se usa",
+  "Foto, se a clínica pedir",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você vai à clínica que emite esse laudo",
+  "Passa pelo oftalmologista: teste de visão",
+  "O psiquiatra faz perguntas e às vezes aplica testes",
+  "O narcologista faz uma avaliação",
+  "Você entrega urina para exame",
+  "O clínico ou médico do trabalho emite o laudo"
+ ],
+ "feel": [
+  "Nenhum exame dói",
+  "A conversa com o psiquiatra são perguntas comuns; não precisa ficar nervoso"
+ ],
+ "after": [
+  "O laudo é entregue depois de todos os exames",
+  "Veja quanto tempo o laudo vale e entregue os documentos no prazo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso passar pelo psiquiatra e pelo narcologista em qualquer clínica?",
+   "a": "Normalmente é preciso uma clínica autorizada a emitir esse laudo. Confirme antes."
+  },
+  {
+   "q": "Remédios afetam o exame?",
+   "a": "Alguns podem afetar. Conte sem falta ao médico o que você toma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o exame médico para arma. Não beba álcool; leve o documento e os óculos, se usa."
+  }
+ ]
+}

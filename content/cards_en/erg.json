@@ -1,0 +1,75 @@
+{
+ "title": "Electroretinography",
+ "also": [
+  "ERG",
+  "electroretinogram",
+  "retina function test"
+ ],
+ "what": "A device records weak electrical signals from your retina while you look at flashes of light.",
+ "why": "For poor vision in the dark, inherited retinal diseases, and when a normal eye exam does not explain poor vision.",
+ "duration": "usually 30 to 90 minutes; the report is ready right away or in a few days",
+ "tell_doctor": [
+  "If you wear contact lenses",
+  "What medicines you take",
+  "If you had eye surgery",
+  "If you have epilepsy, because of the flashing light"
+ ],
+ "prepare": [
+  {
+   "title": "Pupils",
+   "text": "Drops are usually put in to widen your pupils. For several hours afterward, things will look blurry."
+  },
+  {
+   "title": "Getting home",
+   "text": "Do not drive after the test. Have someone take you home."
+  },
+  {
+   "title": "Lenses",
+   "text": "Take out your contact lenses. Bring the case with you."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Sunglasses",
+  "Your glasses, if you wear them",
+  "Someone to go with you"
+ ],
+ "steps": [
+  "Drops are put in your eyes to widen the pupils",
+  "Sometimes you sit in the dark for a while so your eyes adjust",
+  "Numbing drops are put in",
+  "An electrode is placed on or under your eye",
+  "You look into a device with flashing light",
+  "The electrodes are removed"
+ ],
+ "feel": [
+  "The drops sting for a few seconds",
+  "The electrode on your eye feels strange but does not hurt",
+  "The flashes are bright"
+ ],
+ "after": [
+  "For several hours: blurry vision and sensitivity to light",
+  "Do not rub your eyes while the drops are working",
+  "The report is ready right away or in a few days"
+ ],
+ "red_flags": [
+  "Severe eye pain or a sudden drop in vision",
+  "The eye is very red and watering for more than a day"
+ ],
+ "faq": [
+  {
+   "q": "Can I drive right after?",
+   "a": "No. Your pupils stay wide for several hours. Have someone drive you."
+  },
+  {
+   "q": "Does it hurt?",
+   "a": "No. After the numbing drops, you can hardly feel the electrode."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Electroretinography tomorrow. Do not plan to drive after the test. Bring sunglasses."
+  }
+ ]
+}

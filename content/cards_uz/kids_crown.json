@@ -1,0 +1,69 @@
+{
+ "title": "Sut tishiga bolalar qoplamasi",
+ "also": [
+  "sut tishiga qoplama",
+  "bolalar metall qoplamasi",
+  "bola uchun standart qoplama"
+ ],
+ "what": "Stomatolog sut tishiga tayyor bolalar qoplamasini kiygizadi. U qattiq buzilgan tishni almashguncha himoya qiladi.",
+ "why": "Sut tishi qattiq buzilganda yoki nerv davolangandan keyin, plomba ushlab turolmasligi mumkin bo‘lganda.",
+ "duration": "odatda 30–60 daqiqa",
+ "tell_doctor": [
+  "Bolaning allergiyalari, shu jumladan metallarga",
+  "Surunkali kasalliklar va dorilar",
+  "Bola davolanishni qanday o‘tkazishi",
+  "Bola tishini g‘ijirlatsa"
+ ],
+ "prepare": [
+  {
+   "title": "Kayfiyat",
+   "text": "Bolaga shifokor tishchasiga «qalpoqcha» kiygizishini va u mustahkam bo‘lishini ayting."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Bolani qabuldan 1–2 soat oldin ovqatlantiring."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Sevimli o‘yinchoq"
+ ],
+ "steps": [
+  "Kerak bo‘lsa, og‘riqsizlantirish qilinadi",
+  "Tish tozalanadi va biroz yo‘nib qo‘yiladi",
+  "Qoplama o‘lchamiga qarab tanlanadi",
+  "Qoplama maxsus sement bilan mahkamlanadi",
+  "Tishlar qanday jipslashishi tekshiriladi"
+ ],
+ "feel": [
+  "Qoplama kiygizilganda bosim",
+  "Ukol qilingan bo‘lsa, 1–2 soat uvishish",
+  "Dastlabki kunlarda qoplama odatiy bo‘lmagandek tuyulishi mumkin"
+ ],
+ "after": [
+  "Uvishish o‘tmaguncha ovqatlantirmang",
+  "Qoplamali tishni oddiy tishlar kabi tozalang",
+  "Yopishqoq shirinliklarni cheklang — irisk, saqich",
+  "Qoplama odatda sut tishi bilan birga tushib ketadi"
+ ],
+ "red_flags": [
+  "Qoplama tushib ketdi yoki qimirlayapti",
+  "Qoplama atrofida milk shishgan, og‘riq bor"
+ ],
+ "faq": [
+  {
+   "q": "Qoplamani keyin olishadimi?",
+   "a": "Odatda yo‘q — vaqti kelganda u sut tishi bilan birga tushib ketadi."
+  },
+  {
+   "q": "Bu doimiy tishga zarar qilmaydimi?",
+   "a": "Yo‘q. Qoplama faqat sut tishida turadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolaga tishga qoplama qo‘yiladi. Uni qabuldan 1–2 soat oldin ovqatlantiring."
+  }
+ ]
+}

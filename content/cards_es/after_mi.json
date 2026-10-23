@@ -1,0 +1,75 @@
+{
+ "title": "La vida después de un infarto",
+ "also": [
+  "después de un infarto",
+  "rehabilitación después de un infarto",
+  "vida después de un infarto de miocardio",
+  "recuperación después de un infarto"
+ ],
+ "what": "Después de un infarto, el corazón se recupera durante varios meses. Los medicamentos, el movimiento y dejar de fumar reducen el riesgo de otro infarto.",
+ "why": "Para todos los que tuvieron un infarto y sus familiares.",
+ "duration": "la recuperación suele tomar varias semanas y meses",
+ "tell_doctor": [
+  "Si vuelve a aparecer dolor o presión en el pecho",
+  "Si te cuesta tomar los medicamentos o tienes efectos secundarios",
+  "Si fumas",
+  "Cuándo puedes volver al trabajo, a manejar y a la vida íntima: pregúntaselo al médico"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "Normalmente recetan varios por mucho tiempo. Tómalos todos los días, no los suspendas por tu cuenta."
+  },
+  {
+   "title": "Rehabilitación",
+   "text": "Pregunta por el programa de rehabilitación cardiaca: ahí te ayudan a volver al esfuerzo de forma segura."
+  },
+  {
+   "title": "Medicamento bajo la lengua",
+   "text": "Pregunta al médico si necesitas un medicamento para el dolor de pecho y cómo tomarlo."
+  }
+ ],
+ "bring": [
+  "El resumen de alta del hospital",
+  "La lista de tus medicamentos",
+  "El diario de presión y pulso"
+ ],
+ "steps": [
+  "Toma los medicamentos todos los días a la misma hora",
+  "Empieza con caminatas cortas y aumenta el esfuerzo poco a poco",
+  "Deja de fumar por completo",
+  "Come menos sal y grasa, y más verduras",
+  "Mide la presión y el pulso y anótalos",
+  "Ve a todas las consultas de control con el médico"
+ ],
+ "feel": [
+  "El cansancio en las primeras semanas es común",
+  "El miedo y la ansiedad después de un infarto son una reacción normal; puedes hablarlo con el médico"
+ ],
+ "after": [
+  "Los análisis de colesterol y azúcar, según el calendario del médico",
+  "El regreso al trabajo y al deporte lo decide el médico",
+  "Enseña a tus familiares a reconocer un infarto"
+ ],
+ "red_flags": [
+  "Dolor o presión en el pecho por más de unos minutos: llama a emergencias",
+  "El dolor llega al brazo, la mandíbula o la espalda, con sudor frío: llama a emergencias",
+  "Falta de aire fuerte o desmayo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo tener relaciones sexuales después de un infarto?",
+   "a": "Normalmente sí, cuando el médico permita el esfuerzo. Pregúntaselo directamente."
+  },
+  {
+   "q": "¿Por qué no debo dejar las pastillas si me siento bien?",
+   "a": "Protegen el corazón y los vasos de otro infarto. Sentirte bien no es motivo para suspenderlas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Es hora de tus medicamentos del corazón. Después, una caminata tranquila."
+  }
+ ]
+}

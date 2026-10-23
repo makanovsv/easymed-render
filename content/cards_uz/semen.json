@@ -1,0 +1,74 @@
+{
+ "title": "Spermogramma",
+ "also": [
+  "sperma tahlili",
+  "eyakulyat tahlili"
+ ],
+ "what": "Spermani mikroskop ostida tahlil qilish. Spermatozoidlar soni, harakatchanligi va shakli ko‘riladi.",
+ "why": "Juftlik bola ko‘ra olmaganda, EKUdan oldin, erkak jinsiy sohasi kasalliklarida, operatsiyalardan keyin.",
+ "duration": "material yig‘ish odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "So‘nggi 2–3 oyda harorat 38 dan yuqori bo‘lgan bo‘lsa: bu natijani yomonlashtirishi mumkin",
+  "Qanday dori, gormon yoki qo‘shimchalar qabul qilasiz",
+  "Chovda operatsiya yoki jarohat bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tiyilish",
+   "text": "Odatda 2–7 kun jinsiy aloqasiz va eyakulyatsiyasiz. Aniq muddatni klinika aytadi."
+  },
+  {
+   "title": "Bir necha kun oldin",
+   "text": "Alkogolsiz, hammom, sauna va issiq vannasiz. Qizib ketmagan ma’qul."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Dorilarni o‘zingiz bekor qilmang. Nima qabul qilayotganingizni shifokorga ayting: u hal qiladi."
+  },
+  {
+   "title": "Qayerda topshirish",
+   "text": "Klinikada, alohida xonada yaxshiroq. Uyda bo‘lsa, laboratoriyadan steril idish kerak."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Oldingi spermogramma natijalari"
+ ],
+ "steps": [
+  "Sizga steril idish berib, alohida xonaga olib borishadi",
+  "Qo‘llar va jinsiy a’zolarni sovun bilan yuving",
+  "Sperma masturbatsiya bilan darhol idishga yig‘iladi",
+  "Butun porsiya kerak: ayniqsa birinchi qismi",
+  "Idishni yopib, xodimga berasiz"
+ ],
+ "feel": [
+  "Og‘riqli narsa yo‘q. Noqulaylik tabiiy, xodimlar bunga ko‘nikkan"
+ ],
+ "after": [
+  "Natija odatda 1–2 kunda",
+  "Bitta tahlil tasodifan yomonroq bo‘lishi mumkin: shifokor ko‘pincha 2–4 haftadan keyin takrorlashni so‘raydi",
+  "Natijani urolog yoki androlog izohlaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Spermani prezervativga yig‘sa bo‘ladimi?",
+   "a": "Oddiy prezervativga yo‘q: unda spermatozoidlar uchun zararli moddalar bor. Moyni ham ishlatib bo‘lmaydi."
+  },
+  {
+   "q": "Spermogrammani uyda topshirsa bo‘ladimi?",
+   "a": "Ba’zan ha. Idishni taxminan bir soat ichida, issiq tutib, tanaga yaqin holda laboratoriyaga olib kelish kerak. Klinikadan aniqlab oling."
+  },
+  {
+   "q": "Spermogrammadan oldin necha kun tiyilish kerak?",
+   "a": "Odatda 2 kundan 7 kungacha. Juda qisqa va juda uzoq muddat natijani buzadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "3 kundan keyin spermogramma. Hammom, sauna va alkogolsiz. Tiyilish klinika aytgan muddat bo‘yicha."
+  }
+ ]
+}

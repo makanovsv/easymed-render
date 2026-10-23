@@ -1,0 +1,76 @@
+{
+ "title": "Begona jismni olib tashlash (zirapcha, baliq ilgagi)",
+ "also": [
+  "zirapchani olish",
+  "ilgakni chiqarish",
+  "teridagi begona jism",
+  "parchani olib tashlash"
+ ],
+ "what": "Shifokor teriga kirgan narsani chiqarib oladi: zirapcha, shisha siniqi, baliq ilgagi. Kerak bo‘lsa, joyi og‘riqsizlantiriladi.",
+ "why": "Narsa chuqur o‘tirgan bo‘lsa, uyda chiqmasa, ko‘z yoki yuz yonida bo‘lsa yoki joyi yallig‘lansa.",
+ "duration": "odatda 10–30 daqiqa",
+ "tell_doctor": [
+  "Teriga aynan nima kirdi va qachon",
+  "Qoqshol emlashini qachon olgansiz",
+  "Og‘riq qoldiruvchi va antiseptiklarga allergiya",
+  "Qandli diabet",
+  "Qonni suyultiruvchi dorilar"
+ ],
+ "prepare": [
+  {
+   "title": "O‘zingiz tortmang",
+   "text": "Tikanli ilgak va chuqur parchani uyda chiqarmaslik yaxshi — jarohatni kattalashtirib yuborishingiz mumkin."
+  },
+  {
+   "title": "Qabuldan oldin",
+   "text": "Joyga tegmang, toza bog‘lam bilan yopib qo‘yish mumkin. Katta narsani qimirlamasligi uchun mahkamlang."
+  },
+  {
+   "title": "Ko‘z",
+   "text": "Ko‘zga biror narsa tushsa, ishqalamang, darrov shifokorga boring."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Qoqshol emlashi haqida ma’lumot, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor joyni ko‘rib, narsani qanday olishni hal qiladi",
+  "Ba’zan parchani topish uchun rentgen yoki ultratovush qilinadi",
+  "Teriga antiseptik surtiladi",
+  "Kerak bo‘lsa, og‘riqsizlantiruvchi ukol qilinadi",
+  "Narsa asbob bilan ehtiyotkorlik bilan olinadi",
+  "Jarohat yuviladi va bog‘lanadi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol — qisqa kuyish",
+  "Keyin bosim sezasiz, lekin og‘riq yo‘q",
+  "Protseduradan keyin joyi biroz zirqirashi mumkin"
+ ],
+ "after": [
+  "Birinchi sutka jarohatni toza va quruq saqlang",
+  "Bog‘lamni shifokor aytganidek almashtiring",
+  "Ba’zan shifokor qoqshol emlashini buyuradi"
+ ],
+ "red_flags": [
+  "Qizarish tarqalib borsa, joyi issiq bo‘lsa, og‘riq kuchaysa",
+  "Jarohatdan yiring kelsa yoki harorat ko‘tarilsa",
+  "Barmoq yoki qo‘l uvishsa yoki yomon harakatlansa"
+ ],
+ "faq": [
+  {
+   "q": "Ilgakni o‘zim chiqarsam bo‘ladimi?",
+   "a": "Yuzadagi kichik zirapchani — ha. Tikanli ilgakni shifokorga ishonish yaxshi, to‘qimalar yirtilmasligi uchun."
+  },
+  {
+   "q": "Qoqshol emlashi kerakmi?",
+   "a": "Bu oxirgi marta qachon emlanganingizga bog‘liq. Shifokor so‘raydi va hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Tez orada qabul. Narsani o‘zingiz chiqarishga urinmang, joyni toza saqlang."
+  }
+ ]
+}

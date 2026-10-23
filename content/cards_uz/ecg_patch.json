@@ -1,0 +1,75 @@
+{
+ "title": "Uzoq EKG-monitor (7–14 kunlik yamoq)",
+ "also": [
+  "EKG-yamoq",
+  "uzoq EKG monitoringi",
+  "yurak monitori-plastir",
+  "bir haftalik EKG"
+ ],
+ "what": "Ko‘krakka plastir ko‘rinishidagi kichik monitor yopishtiriladi. U odatdagi hayotingizni davom ettirayotganingizda 1–2 hafta uzluksiz EKG yozadi.",
+ "why": "Yurak uzilishlari, yurak urishi yoki hushdan ketish kamdan-kam bo‘lib, sutkalik xolter ularni tutmaganda.",
+ "duration": "odatda 7–14 kun taqiladi, natija yechilgandan keyin bir necha kunda",
+ "tell_doctor": [
+  "Qanday dorilar ichayotganingiz",
+  "Yurak stimulyatori bormi",
+  "Plastir yoki yelimga allergiya bormi",
+  "Alomatlaringiz qanchalik tez-tez bo‘ladi"
+ ],
+ "prepare": [
+  {
+   "title": "Teri",
+   "text": "O‘rnatish kuni ko‘krakdagi teriga krem surtmang. Erkaklarda joyni ba’zan qirishadi."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Vaqtni va nimani his qilganingizni yozib boring. Yamoqda ko‘pincha tugma bo‘ladi — alomatlar paytida uni bosing."
+  },
+  {
+   "title": "Suv",
+   "text": "Ko‘p yamoqlar dushga ruxsat beradi, lekin vanna va basseynga emas. O‘z asbobingiz uchun aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Dorilar ro‘yxati",
+  "Kundalik uchun daftar yoki telefon"
+ ],
+ "steps": [
+  "Hamshira ko‘krakdagi terini tozalaydi",
+  "Yamoqni ko‘krakning chap tomoniga yopishtiradi",
+  "Yozuv ketayotganini tekshiradi",
+  "Tugmani qanday bosish va kundalik yuritishni tushuntiradi",
+  "Uyga ketib, odatdagidek yashaysiz",
+  "7–14 kundan keyin yamoqni o‘zingiz yoki klinikada yechishadi — qanday aytishsa"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Plastir ostidagi teri qichishi mumkin",
+  "Dastlabki kunlarda nimadir yopishib turganini sezasiz, keyin ko‘nikasiz"
+ ],
+ "after": [
+  "Yamoqni klinikaga topshirasiz yoki yuborasiz, qanday aytishsa",
+  "Dekodlash odatda bir necha kun oladi",
+  "Yechilgandan keyingi ozgina qizarish o‘zi o‘tadi"
+ ],
+ "red_flags": [
+  "Ko‘krakda kuchli og‘riq, hushdan ketish, nafas olish qiyin — 103 ga qo‘ng‘iroq qiling, yamoq xalaqit bermaydi",
+  "Plastir ostida kuchli qichishish, pufakchalar — klinika bilan bog‘laning"
+ ],
+ "faq": [
+  {
+   "q": "Yamoq bilan dushga kirsa bo‘ladimi?",
+   "a": "Ko‘p yamoqlar bunga chidaydi, lekin vanna va basseynga odatda bo‘lmaydi. O‘z asbobingiz uchun aniqlab oling."
+  },
+  {
+   "q": "Yamoq ko‘chib ketsa nima qilish kerak?",
+   "a": "Klinikaga qo‘ng‘iroq qiling. Maslahatsiz uni skotch bilan qayta yopishtirmang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga EKG-yamoq qo‘yiladi. Ertalab ko‘krakka krem surtmang. Kundalikni qayerda yuritishni o‘ylab qo‘ying."
+  }
+ ]
+}

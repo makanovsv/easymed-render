@@ -1,0 +1,75 @@
+{
+ "title": "Tishni shtift bilan tiklash",
+ "also": [
+  "shtift",
+  "kultya qo‘yma",
+  "shtiftda tiklash",
+  "shtiftli tish"
+ ],
+ "what": "Tishdan oz narsa qolgan bo‘lsa, ildizga shtift yoki qo‘yma o‘rnatiladi. Keyin unga plomba yoki koronka mahkamlanadi.",
+ "why": "Kanallarni davolagandan keyin, tish toji kuchli yemirilgan bo‘lsa.",
+ "duration": "odatda 30–60 daqiqadan 1–2 tashrif",
+ "tell_doctor": [
+  "Tish allaqachon davolanganmi va qachon",
+  "Tish tishlaganda og‘riydimi",
+  "Og‘riqsizlantirish yoki materiallarga allergiya bormi",
+  "Qonni suyultiruvchi dorilar ichsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Surat",
+   "text": "Odatda tishning yangi surati kerak — uni klinikada qilishadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Oldindan yeb oling, qabuldan keyin bir muddat uvishish bo‘ladi."
+  },
+  {
+   "title": "Kanallar",
+   "text": "Shtiftdan oldin kanallar yaxshi plombalangan bo‘lishi kerak — buni shifokor tekshiradi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tishning oldingi suratlari"
+ ],
+ "steps": [
+  "Shifokor tishni va suratni tekshiradi",
+  "Kerak bo‘lsa, og‘riqsizlantiradi",
+  "Kanalning bir qismini plomba materialidan bo‘shatadi",
+  "Tayyor shtiftni o‘rnatadi yoki qo‘yma uchun qolip oladi",
+  "Shtiftni maxsus sement bilan mahkamlaydi",
+  "Tishni plomba bilan tiklaydi yoki koronka uchun tayyorlaydi"
+ ],
+ "feel": [
+  "Odatda og‘rimaydi, asbobdan tebranish bo‘lishi mumkin",
+  "Shtift o‘rnatilganda bosim hissi"
+ ],
+ "after": [
+  "Uvishish o‘tmaguncha yemang",
+  "Koronkagacha tishni qattiq ovqat bilan yuklamang",
+  "Qo‘yma qilinsa, uni odatda bir necha kunda tayyorlashadi",
+  "Koronkani shifokor rejasi bo‘yicha o‘rnatishadi"
+ ],
+ "red_flags": [
+  "Tishlaganda bir necha kun kuchli og‘riq",
+  "Tish yonidagi milkning shishishi",
+  "Shtift yoki vaqtinchalik plomba tushib ketdi"
+ ],
+ "faq": [
+  {
+   "q": "Shtiftli tishga koronka qo‘yish shartmi?",
+   "a": "Ko‘pincha ha — shunda tishning yorilish xavfi kamroq. Shifokor hal qiladi."
+  },
+  {
+   "q": "Shtift qancha xizmat qiladi?",
+   "a": "Odatda ko‘p yil, agar tish koronka bilan himoyalangan bo‘lsa va uni qattiqdan asrasangiz."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga tishni tiklash. Oldindan yeb oling va oldingi suratlarni oling."
+  }
+ ]
+}

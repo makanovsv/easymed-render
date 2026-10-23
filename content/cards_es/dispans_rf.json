@@ -1,0 +1,72 @@
+{
+ "title": "Chequeo médico de adultos",
+ "also": [
+  "chequeo médico",
+  "chequeo preventivo",
+  "revisión de salud gratuita",
+  "examen médico preventivo"
+ ],
+ "what": "Una revisión de salud gratuita con el seguro médico. El conjunto de estudios depende de la edad y del sexo.",
+ "why": "Para adultos según la edad: normalmente cada tres años hasta los 40 y cada año después de los 40. Confírmalo en tu centro de salud.",
+ "duration": "la primera etapa suele ser de 1 a 2 visitas de 1 a 3 horas; los resultados llegan en unos días",
+ "tell_doctor": [
+  "Qué enfermedades tienes y qué medicamentos tomas",
+  "Si fumas y qué tanto bebes alcohol",
+  "Enfermedades del corazón y cáncer en familiares cercanos",
+  "Molestias, aunque sean pequeñas"
+ ],
+ "prepare": [
+  {
+   "title": "Cita",
+   "text": "Haz una cita en el centro de salud donde estás registrado o por el portal de servicios del Estado."
+  },
+  {
+   "title": "Comida",
+   "text": "Para el análisis de sangre normalmente se va en la mañana en ayunas. Pregunta en el centro de salud."
+  },
+  {
+   "title": "Análisis de heces",
+   "text": "Si te piden el análisis de sangre oculta, te dan el frasco con anticipación y te explican cómo tomar la muestra."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La tarjeta del seguro médico",
+  "El documento de seguridad social",
+  "Resultados de estudios del último año, si te los hiciste"
+ ],
+ "steps": [
+  "Llenas un cuestionario sobre tu salud",
+  "Miden la estatura, el peso, la presión y la cintura",
+  "Te sacan sangre",
+  "Te hacen un electrocardiograma y una radiografía de tórax, si ya toca",
+  "A las mujeres, revisión con ginecólogo o partera",
+  "El médico hace el resumen y dice si hace falta una segunda etapa"
+ ],
+ "feel": [
+  "Los estudios normalmente no duelen",
+  "El análisis de sangre es un pinchazo breve"
+ ],
+ "after": [
+  "Te entregan una cartilla de salud o un informe",
+  "Si encuentran algo, te mandan a una segunda etapa o con un especialista",
+  "El siguiente chequeo hazlo según el calendario"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Necesito pedir un día en el trabajo para el chequeo?",
+   "a": "Un trabajador puede tener un día pagado para el chequeo; pregunta a tu empleador."
+  },
+  {
+   "q": "¿Se puede hacer en fin de semana?",
+   "a": "Muchos centros de salud atienden los sábados. Pregunta en el tuyo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes el chequeo. En la mañana no comas antes del análisis de sangre; lleva tu documento y la tarjeta del seguro."
+  }
+ ]
+}

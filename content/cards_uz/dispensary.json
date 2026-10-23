@@ -1,0 +1,74 @@
+{
+ "title": "Surunkali kasallikda dispanser kuzatuvi",
+ "also": [
+  "dispanser hisobi",
+  "D-hisob",
+  "surunkali bemorlarni kuzatish",
+  "dispanser kuzatuvi"
+ ],
+ "what": "Surunkali kasallikda shifokorga muntazam tashriflar. Shifokor davo qanday ketayotganini tekshiradi va kasallik og‘irlashishiga yo‘l qo‘ymaydi.",
+ "why": "Qon bosimi, diabet, yurak, o‘pka, buyrak va boshqa surunkali kasalliklarda.",
+ "duration": "tashrif odatda 15–30 daqiqa, odatda yiliga 1 martadan 4 martagacha — shifokor rejasiga ko‘ra",
+ "tell_doctor": [
+  "Oxirgi tashrifdan beri o‘zingizni qanday his qilganingiz",
+  "Dorilarni ichayotganingiz va ko‘tarayotganingiz",
+  "Kasallik qo‘zg‘agan, tez yordam chaqirilgan, kasalxonaga yotgan paytlar bo‘lganmi",
+  "Yangi shikoyatlar"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Tashrifdan oldin ko‘pincha tahlil topshirish kerak. Qaysilari va qachon ekanini aniqlab oling."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Qon bosimi, qand yoki ahvolingiz yozuvlarini oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Odatdagidek iching. O‘zingiz bekor qilmang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Qon bosimi yoki qand kundaligi",
+  "Yangi tahlillar",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor ahvolingiz haqida so‘raydi",
+  "Qon bosimi, vazn va boshqa ko‘rsatkichlarni o‘lchaydi",
+  "Tahlillarni ko‘radi",
+  "Davoni qoldirish yoki o‘zgartirishni hal qiladi",
+  "Retseptlar yozadi",
+  "Keyingi tashrif sanasini belgilaydi"
+ ],
+ "feel": [
+  "Tashrif og‘riqsiz",
+  "Qon olishsa — qisqa ukol"
+ ],
+ "after": [
+  "Hammasi yaxshi bo‘lsa ham belgilangan sanalarda keling",
+  "Keyingi tashrifga savollarni yozib boring",
+  "Dorilarni o‘zingiz bekor qilmang"
+ ],
+ "red_flags": [
+  "Kasallikning keskin yomonlashuvi, ko‘krakda kuchli og‘riq, nafas qisilishi — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "O‘zimni yaxshi his qilsam, nega borishim kerak?",
+   "a": "Shunda shifokor yomonlashuvni siz sezmasdan oldin payqaydi."
+  },
+  {
+   "q": "Hisobdan chiqsa bo‘ladimi?",
+   "a": "Buni shifokor hal qiladi, odatda kasallik o‘tib ketgan yoki uzoq vaqt bilinmaganda."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga shifokorga rejali tashrif. Ko‘rsatkichlar kundaligi va yangi tahlillarni oling."
+  }
+ ]
+}

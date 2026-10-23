@@ -1,0 +1,77 @@
+{
+ "title": "Anticoncepción de emergencia",
+ "also": [
+  "anticoncepción de emergencia",
+  "pastilla del día después",
+  "anticoncepción poscoital",
+  "si se rompió el condón"
+ ],
+ "what": "Es una forma de evitar un embarazo después de una relación sin protección. Normalmente es una pastilla; a veces el médico pone un dispositivo intrauterino.",
+ "why": "Si hubo una relación sin protección, se rompió el condón o se olvidaron las pastillas anticonceptivas.",
+ "duration": "mientras antes, mejor: normalmente en las primeras 72 horas; algunos métodos sirven hasta 5 días",
+ "tell_doctor": [
+  "Cuándo fue la relación: la hora exacta",
+  "Cuándo fue tu última menstruación",
+  "Qué medicamentos tomas",
+  "Si tienes enfermedades crónicas",
+  "Si tomaste anticoncepción de emergencia hace poco"
+ ],
+ "prepare": [
+  {
+   "title": "Tiempo",
+   "text": "No lo dejes para después: mientras antes, más seguro."
+  },
+  {
+   "title": "Consulta",
+   "text": "Acude al médico o a una clínica: te dirán qué método te conviene."
+  },
+  {
+   "title": "Comida",
+   "text": "La pastilla normalmente se toma después de una comida ligera, para que haya menos náuseas."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La lista de tus medicamentos",
+  "La fecha de tu última menstruación"
+ ],
+ "steps": [
+  "Le cuentas al médico cuándo fue la relación",
+  "El médico pregunta por tu ciclo y tu salud",
+  "Elige el método",
+  "Tomas la pastilla con el médico o en casa",
+  "Si se elige el dispositivo, lo colocan en la camilla",
+  "El médico te explica qué hacer después"
+ ],
+ "feel": [
+  "A veces náuseas, dolor de cabeza, cansancio",
+  "La siguiente menstruación puede llegar antes o después"
+ ],
+ "after": [
+  "Si vomitas en las 2 o 3 horas después de la pastilla, llama al médico",
+  "Si la menstruación se retrasa más de una semana, hazte una prueba de embarazo",
+  "Piensa con el médico en un anticonceptivo permanente",
+  "Hazte estudios de infecciones, si la relación fue con una pareja nueva"
+ ],
+ "red_flags": [
+  "Dolor fuerte en la parte baja del abdomen, sobre todo de un lado: llama a emergencias",
+  "Sangrado abundante",
+  "Desmayo o debilidad fuerte: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es un aborto?",
+   "a": "No. La anticoncepción de emergencia evita el embarazo, no lo interrumpe."
+  },
+  {
+   "q": "¿Se puede usar seguido?",
+   "a": "No, es una opción de reserva. Para una protección permanente, elige un método con el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "No lo dejes para después: mientras antes tomes la anticoncepción de emergencia, más segura es."
+  }
+ ]
+}

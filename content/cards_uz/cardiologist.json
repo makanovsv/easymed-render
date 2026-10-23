@@ -1,0 +1,75 @@
+{
+ "title": "Kardiolog qabuli",
+ "also": [
+  "kardiolog",
+  "kardiolog maslahati",
+  "yurak shifokori",
+  "yurak bo‘yicha qabul"
+ ],
+ "what": "Shifokor o‘zingizni qanday his qilayotganingizni so‘raydi, yurakni tinglaydi, bosimni o‘lchaydi. Kerak bo‘lsa, EKG, yurak UZI yoki boshqa tekshiruvlar buyuradi.",
+ "why": "Ko‘krakda og‘riq, nafas qisilishi, yurak urishida uzilishlar, yuqori bosim, oyoqlar shishi bo‘lganda, operatsiyadan oldin tekshiruv uchun.",
+ "duration": "odatda 20–40 daqiqa, tavsiyalar darhol",
+ "tell_doctor": [
+  "Sizni nima bezovta qilayotganini, qachon va qanday yuklamada",
+  "Barcha dorilar va dozalarini",
+  "Uyda o‘lchasangiz, bosim ko‘rsatkichlarini",
+  "Qarindoshlarda yurak kasalliklari bo‘lganmi",
+  "Chekasizmi"
+ ],
+ "prepare": [
+  {
+   "title": "Bosim kundaligi",
+   "text": "Tonometr bo‘lsa, 3–7 kun ertalab va kechqurun bosimni yozib boring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Odatdagidek iching. Qabuldan oldin o‘zingiz bekor qilmang."
+  },
+  {
+   "title": "Qabul oldidan",
+   "text": "Bir soat oldin kuchli qahva ichmang va chekmang: bu bosim va pulsni o‘zgartiradi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati yoki qadoqlarning o‘zi",
+  "Oldingi EKG, yurak UZI, tahlillar",
+  "Bosim kundaligi"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar va sog‘ligingiz haqida so‘raydi",
+  "Bosim va pulsni o‘lchaydi",
+  "Yurak va o‘pkani tinglaydi",
+  "Oyoqlarda shish bor-yo‘qligini ko‘radi",
+  "Ko‘pincha EKG qabulning o‘zida qilinadi",
+  "Shifokor keyin nima qilish kerakligini tushuntiradi"
+ ],
+ "feel": [
+  "Qabul og‘riqsiz"
+ ],
+ "after": [
+  "Shifokor buyurgan tahlillarni topshiring va tekshiruvlardan o‘ting",
+  "Dorilarni shifokor sxemasi bo‘yicha iching",
+  "Natijalar bilan takroriy qabulga keling"
+ ],
+ "red_flags": [
+  "Ko‘krakda kuchli siquvchi og‘riq 15 daqiqadan uzoq davom etsa, tez yordamni chaqiring (103)",
+  "To‘satdan kuchli nafas qisilishi yoki hushdan ketish bo‘lsa, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Och qoringa kelish kerakmi?",
+   "a": "Odatda yo‘q. Lekin shu kuni qon tahlili bo‘lsa, klinikadan aniqlashtiring."
+  },
+  {
+   "q": "Qabuldan oldin ertalab bosim tabletkasini ichish kerakmi?",
+   "a": "Ha, shifokor boshqacha demagan bo‘lsa, odatdagidek. Shunda u davo qanday ishlayotganini ko‘radi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga kardiolog qabuli. Dorilar ro‘yxati, oldingi EKG’lar va bosim kundaligini olib keling."
+  }
+ ]
+}

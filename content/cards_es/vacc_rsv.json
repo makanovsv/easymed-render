@@ -1,0 +1,72 @@
+{
+ "title": "Vacuna contra el VSR (embarazadas y personas mayores)",
+ "also": [
+  "vacuna del VSR",
+  "vacuna contra el VSR",
+  "vacuna contra el virus sincitial respiratorio",
+  "VSR en el embarazo"
+ ],
+ "what": "Inyección de vacuna contra el VSR, un virus que causa bronquitis y neumonías graves en bebés y personas mayores. A la embarazada se la ponen para proteger al bebé.",
+ "why": "A embarazadas en una etapa avanzada, para proteger al bebé, y a personas mayores, por consejo del médico.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos; normalmente es una sola inyección",
+ "tell_doctor": [
+  "Si ahora estás enferma o enfermo o tienes fiebre",
+  "Alergias y reacciones fuertes a vacunas anteriores",
+  "Las semanas de embarazo: la vacuna se pone en ciertas semanas",
+  "Enfermedades crónicas del corazón y de los pulmones"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando estás sano. Antes de la inyección te revisarán."
+  },
+  {
+   "title": "Fecha",
+   "text": "A las embarazadas se les pone en una semana determinada del embarazo. El médico te dirá las fechas exactas."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir el hombro con facilidad."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico o la enfermera te pregunta cómo te sientes y te mide la temperatura",
+  "Descubres el hombro",
+  "Limpian la piel y ponen la inyección",
+  "Se anota la vacuna en los documentos",
+  "Después de la inyección hay que quedarse sentado en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un pinchazo corto",
+  "A veces el lugar de la inyección duele 1 o 2 días",
+  "A veces debilidad, dolor de cabeza o dolor en el cuerpo"
+ ],
+ "after": [
+  "Quédate cerca del consultorio unos 30 minutos",
+  "Puedes volver a tus actividades",
+  "Si estás embarazada: después del parto dile al pediatra que te pusieron la vacuna"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o sale sarpullido en todo el cuerpo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es segura la vacuna en el embarazo?",
+   "a": "Se pone a las embarazadas según las recomendaciones médicas, en ciertas semanas. Decídelo junto con tu médico."
+  },
+  {
+   "q": "¿Hay que ponerla cada año?",
+   "a": "Normalmente no. Pregunta al médico si hace falta otra dosis."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna contra el VSR. Lleva tu cartilla de vacunación y, si estás embarazada, tu carnet del embarazo."
+  }
+ ]
+}

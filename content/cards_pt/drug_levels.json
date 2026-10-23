@@ -1,0 +1,79 @@
+{
+ "title": "Nível de remédio no sangue (valproato, lítio, digoxina)",
+ "also": [
+  "nível do remédio no sangue",
+  "monitorização terapêutica",
+  "litemia",
+  "nível de valproato",
+  "dosagem de digoxina"
+ ],
+ "what": "O exame de sangue mostra quanto remédio há no sangue agora. Assim o médico entende se a dose é suficiente e se não está alta demais.",
+ "why": "Quando se toma remédios com margem segura estreita, depois de mudar a dose, com efeitos colaterais ou se o remédio não está ajudando.",
+ "duration": "a coleta leva normalmente 5 minutos, o resultado sai normalmente em 1 a 2 dias",
+ "tell_doctor": [
+  "O horário exato da última dose do remédio",
+  "Se pulou doses nos últimos dias",
+  "Todos os outros remédios e suplementos",
+  "Se teve vômito, diarreia, desidratação ou febre"
+ ],
+ "prepare": [
+  {
+   "title": "Horário",
+   "text": "O mais importante é o horário da coleta. Normalmente o sangue é colhido antes da próxima dose do remédio. O horário exato quem diz é o médico."
+  },
+  {
+   "title": "Dose da manhã",
+   "text": "Pergunte ao médico se a dose da manhã é antes ou depois do exame. Não pule nem mude a dose por conta própria."
+  },
+  {
+   "title": "Regularidade",
+   "text": "Nos dias antes do exame, tome o remédio rigorosamente como orientado."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não é preciso jejum. Confirme com o laboratório."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "O horário da última dose anotado",
+  "O remédio, se o médico disse para tomar depois do exame"
+ ],
+ "steps": [
+  "Diga à enfermeira quando você tomou o remédio pela última vez",
+  "Colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "O sangue é colhido da veia num tubo",
+  "O horário da coleta é anotado no pedido"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Tome o remédio, se o médico disse para fazer assim",
+  "O resultado sai normalmente em 1 a 2 dias",
+  "Quem muda a dose pelo resultado é só o médico"
+ ],
+ "red_flags": [
+  "Tremor forte, vômito, diarreia, desequilíbrio, confusão: procure o médico na hora",
+  "Desmaio, convulsões, coração muito descompassado: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que o horário do exame é importante?",
+   "a": "Logo depois da dose há muito remédio no sangue, depois vai diminuindo. Sem o horário exato, é fácil entender o resultado errado."
+  },
+  {
+   "q": "Com que frequência se faz esse exame?",
+   "a": "Mais no começo do tratamento e depois de mudar a dose, depois menos. O calendário quem diz é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de nível do remédio. Anote o horário da última dose. A dose da manhã, como o médico disse."
+  }
+ ]
+}

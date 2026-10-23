@@ -1,0 +1,76 @@
+{
+ "title": "Acompanhamento da artrite reumatoide",
+ "also": [
+  "artrite reumatoide",
+  "reumatologista",
+  "controle da artrite",
+  "acompanhamento reumatológico"
+ ],
+ "what": "O reumatologista confere com regularidade se o tratamento está funcionando e se não está fazendo mal. Assim, as articulações são preservadas.",
+ "why": "Para todos com artrite reumatoide: normalmente a cada 1 a 3 meses no começo do tratamento, e com menos frequência quando a doença está calma.",
+ "duration": "a consulta leva normalmente de 20 a 30 minutos; os exames saem em 1 a 3 dias",
+ "tell_doctor": [
+  "Quais articulações doem e incham e quanto tempo dura a rigidez da manhã",
+  "Efeitos colaterais dos remédios: enjoo, manchas na pele, infecções frequentes",
+  "Se planeja engravidar",
+  "Se teve recentemente infecções, vacinas ou cirurgias",
+  "Todos os remédios e suplementos"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes da consulta muitas vezes se colhe sangue: hemograma, exames do fígado e marcadores de inflamação. Confirme quais e quando."
+  },
+  {
+   "title": "Diário",
+   "text": "Anote como você se sentiu entre as consultas."
+  },
+  {
+   "title": "Remédios",
+   "text": "Tome conforme o esquema. Não pule nem pare por conta própria."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Exames recentes",
+  "Diário de como se sentiu",
+  "Lista de remédios e doses"
+ ],
+ "steps": [
+  "O médico pergunta sobre dor, rigidez e efeitos colaterais",
+  "Examina e apalpa as articulações",
+  "Olha os exames",
+  "Avalia a atividade da doença",
+  "Decide se mantém ou muda o tratamento",
+  "Marca a data do próximo controle"
+ ],
+ "feel": [
+  "Apalpar as articulações inflamadas pode doer",
+  "O exame de sangue: uma picada rápida"
+ ],
+ "after": [
+  "Faça os exames no prazo: isso protege contra efeitos colaterais",
+  "Antes de vacinas e cirurgias, avise o médico sobre o tratamento",
+  "Mexa-se e faça os exercícios que o médico liberou"
+ ],
+ "red_flags": [
+  "Febre alta, tosse ou falta de ar durante o tratamento: procure o médico com urgência",
+  "Fraqueza forte, sangramentos ou pele amarelada: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Posso parar o tratamento se as articulações não doem?",
+   "a": "Não sem o médico. A doença pode voltar."
+  },
+  {
+   "q": "Posso tomar vacinas?",
+   "a": "Muitas podem e devem ser tomadas, mas sempre combine com o reumatologista."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Daqui a 2 dias é a consulta com o reumatologista. Não esqueça de fazer os exames, se o médico pediu."
+  }
+ ]
+}

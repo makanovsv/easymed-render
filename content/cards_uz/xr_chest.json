@@ -1,0 +1,61 @@
+{
+ "title": "Ko‘krak qafasi rentgeni",
+ "also": [
+  "o‘pka rentgeni",
+  "KQR rentgenografiyasi",
+  "o‘pka surati"
+ ],
+ "what": "Rentgen nurlari yordamida o‘pka va yurak surati. Nurlanish dozasi kichik.",
+ "why": "Yo‘tal, harorat, nafas qisilishida, zotiljamga shubha bo‘lganda, operatsiya oldidan.",
+ "duration": "odatda 5–10 daqiqa",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Yaqinda rentgen yoki KT qilgan bo‘lsangiz — suratlarni oling"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Maxsus kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Metall",
+   "text": "Zanjir, taqinchoq va ko‘krakdagi pirsingni yeching. Uzun sochni yig‘ing."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Belgacha yechinishni so‘rashadi. Metalli detallarsiz kiyim kiygan qulay."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi suratlar — solishtirish uchun"
+ ],
+ "steps": [
+  "Belgacha yechinib, ko‘kragingiz bilan apparat tomon turasiz",
+  "Qo‘llar belga qo‘yiladi, yelkalar oldinga burildi",
+  "Buyruq bo‘yicha nafas olib, bir necha soniya nafas olmaysiz",
+  "Ba’zan ikkinchi surat — yon tomondan olinadi"
+ ],
+ "feel": [
+  "Hech narsa — suratning o‘zi sezilmaydi",
+  "Plastina salqin bo‘lishi mumkin"
+ ],
+ "after": [
+  "Darrov ishlaringizga qaytsangiz bo‘ladi",
+  "Xulosa odatda o‘sha yoki ertasi kuni"
+ ],
+ "red_flags": [
+  "Nafas olish juda qiyin bo‘lsa, lablar ko‘karsa yoki ko‘krakda kuchli og‘riq bo‘lsa — suratni kutmang, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "O‘pka rentgeni zararlimi?",
+   "a": "Doza kichik — taxminan bir necha kunlik tabiiy fonga teng. Surat kerak bo‘lsa, foydasi xavfdan ko‘p."
+  },
+  {
+   "q": "Rentgen flyuorografiyadan nimasi bilan farq qiladi?",
+   "a": "Rentgen aniqroq va shikoyatlar bo‘lganda qilinadi. Flyuorografiya — ko‘rikdagi tez tekshiruv."
+  }
+ ],
+ "reminders": []
+}

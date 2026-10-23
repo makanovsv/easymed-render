@@ -1,0 +1,77 @@
+{
+ "title": "Pulpitni davolash",
+ "also": [
+  "asabni davolash",
+  "asabni olib tashlash",
+  "kanallarni davolash",
+  "tish kechasi og‘riydi"
+ ],
+ "what": "Pulpit — tish ichidagi asabning yallig‘lanishi. Shifokor og‘riqsizlantirish ostida yallig‘langan to‘qimani olib tashlaydi, kanallarni tozalaydi va plomba qo‘yadi.",
+ "why": "Tishda kuchli, ayniqsa tungi og‘riqda, issiq va sovuqqa uzoq reaksiyada, chuqur kariesda.",
+ "duration": "bir tashrif odatda 1–2 soat; ko‘pincha 1–3 tashrif kerak bo‘ladi",
+ "tell_doctor": [
+  "Qayerda va qanday og‘riydi, og‘riq qachon boshlangan",
+  "Og‘riqsizlantiruvchilarga allergiya",
+  "Qonni suyultiruvchi dorilar",
+  "Yurak kasalliklari, homiladorlik",
+  "Qanday og‘riq qoldiruvchilarni allaqachon ichgansiz"
+ ],
+ "prepare": [
+  {
+   "title": "Og‘riq",
+   "text": "Tashrifgacha odatda sizga mos og‘riq qoldiruvchini ichsangiz bo‘ladi. Shifokorga nima va qachon ichganingizni ayting."
+  },
+  {
+   "title": "Qilmang",
+   "text": "Yonoqni isitmang va tishga tabletka yoki spirt qo‘ymang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Oldindan ovqatlaning: davodan keyin bir-ikki soat lablar uvishib turadi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tish rasmlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor tishni ko‘radi va rasm oladi",
+  "Og‘riqsizlantiruvchi ukol qilishadi",
+  "Tishga so‘lak tushmasligi uchun uni rezina parda bilan ajratishadi",
+  "Shifokor tishni ochadi va yallig‘langan asabni olib tashlaydi",
+  "Kanallar tozalanadi, yuviladi va o‘lchanadi",
+  "Kanallarni darhol plombalashadi yoki keyingi tashrifgacha vaqtinchalik plomba qo‘yishadi",
+  "Nazorat rasmi olinadi"
+ ],
+ "feel": [
+  "Og‘riqsizlantirish ostida odatda og‘rimaydi, lekin og‘izni uzoq ochib turish charchatadi",
+  "Og‘riq sezsangiz, qo‘lingizni ko‘taring: shifokor og‘riqsizlantirishni qo‘shadi",
+  "Davodan keyin tish bir necha kun tishlaganda zirqirashi mumkin"
+ ],
+ "after": [
+  "Uvishish o‘tmaguncha ovqat yemang",
+  "Vaqtinchalik plomba bo‘lsa, shu tomonda chaynamang",
+  "Keyingi tashrifga o‘z vaqtida keling",
+  "Kanal davosidan keyin tishga ko‘pincha qoplama yoki mustahkam plomba qo‘yiladi: shifokor aytadi"
+ ],
+ "red_flags": [
+  "Yonoq shishishi, isitma",
+  "Og‘riq 2–3 kundan keyin kamaymay, kuchayadi"
+ ],
+ "faq": [
+  {
+   "q": "Nega davodan keyin tish og‘riydi?",
+   "a": "Tish atrofidagi to‘qimalar davoga javob beradi. Tishlaganda zirqiragan og‘riq odatda bir necha kunda o‘tadi."
+  },
+  {
+   "q": "Og‘riq o‘tgan bo‘lsa, davolamasa ham bo‘ladimi?",
+   "a": "Og‘riq ba’zan asab nobud bo‘lganda o‘tadi. Lekin yallig‘lanish qoladi va suyakka o‘tishi mumkin: davolash kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada tish davosi. Oldindan ovqatlaning va shifokorga qanday og‘riq qoldiruvchi ichganingizni ayting."
+  }
+ ]
+}

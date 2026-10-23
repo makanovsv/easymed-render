@@ -1,0 +1,75 @@
+{
+ "title": "Prostatit davosi",
+ "also": [
+  "prostata yallig‘lanishi",
+  "prostatit",
+  "surunkali prostatit",
+  "prostatada og‘riq"
+ ],
+ "what": "Prostatit — prostata bezining yallig‘lanishi. Davo sababiga qarab tanlanadi: ba’zan bu infeksiya, ba’zan yo‘q.",
+ "why": "Qorin pastida, oraliqda og‘riq, achishish va tez-tez siydik qilishda.",
+ "duration": "qabul 20–40 daqiqa, davo kursi odatda bir necha haftadan boshlanadi",
+ "tell_doctor": [
+  "Qayerda va qachondan beri og‘riyapti",
+  "Isitma va titroq bormi",
+  "Hojatxonaga qanchalik tez-tez borasiz va siydik qilish qiyinmi",
+  "Qanday dorilarni allaqachon ichgansiz, antibiotiklarni ham",
+  "Dorilarga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Shifokor odatda siydik tahlilini, ba’zan prostata sekreti va UZI buyuradi."
+  },
+  {
+   "title": "Tahlildan oldin",
+   "text": "Ba’zi tahlillar uchun bir necha kun jinsiy aloqadan tiyilish kerak: klinikadan aniqlab oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Qabuldan oldin antibiotiklarni o‘zingiz boshlamang: bu tahlillarni buzishi mumkin."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Oldingi tahlillar va UZI",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor shikoyatlaringizni so‘raydi",
+  "Ko‘radi va prostatani to‘g‘ri ichak orqali tekshiradi",
+  "Tahlillar oladi, kerak bo‘lsa UZI qiladi",
+  "Davo buyuradi",
+  "Dorilarni qanday va qancha ichishni tushuntiradi"
+ ],
+ "feel": [
+  "To‘g‘ri ichak orqali ko‘rik yoqimsiz, lekin qisqa",
+  "Yaxshilanish odatda asta-sekin keladi, darhol emas"
+ ],
+ "after": [
+  "Yengillashgan bo‘lsa ham kursni oxirigacha o‘ting",
+  "Takroriy qabul natijani tekshirish uchun",
+  "Sovqotishdan va uzoq o‘tirishdan saqlaning"
+ ],
+ "red_flags": [
+  "Titroq bilan yuqori isitma",
+  "Umuman siydik qila olmaslik: 103 ga qo‘ng‘iroq qiling",
+  "Siydikda qon yoki kuchli og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Prostatit butunlay davolanadimi?",
+   "a": "O‘tkir turi odatda to‘liq davolanadi. Surunkalisini ko‘pincha nazoratda ushlab turish mumkin, kursni shifokor tanlaydi."
+  },
+  {
+   "q": "Prostatit sherikka yuqadimi?",
+   "a": "Prostatitning o‘zi yuqmaydi. Lekin sababi infeksiya bo‘lsa, shifokor sherikka ham tahlil buyurishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga prostatit bo‘yicha qabul. Oldingi tahlillar va dorilar ro‘yxatini oling."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "title": "Axlatda yashirin qon tahlili",
+ "also": [
+  "yashirin qonga axlat tahlili",
+  "FIT-test",
+  "immunokimyoviy test",
+  "axlatda qon tekshiruvi"
+ ],
+ "what": "Ko‘z bilan ko‘rinmaydigan qonni axlatdan qidiradi. Bu ichakdagi polip va o‘smalarni erta bosqichda gumon qilishning oddiy usuli.",
+ "why": "Odatda 45–50 yoshdan keyin skrining sifatida, kamqonlik yoki axlat o‘zgarganda — buni shifokor hal qiladi.",
+ "duration": "uyda yig‘ish — 5 daqiqa, natija 1–3 kunda",
+ "tell_doctor": [
+  "Hozir bavosil qonayotgan bo‘lsa",
+  "Hayz kunlari bo‘lsa — testni keyinga qoldirgan ma’qul",
+  "Qonni suyultiruvchi dorilar ichayotgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Idish",
+   "text": "Laboratoriyadan cho‘pli maxsus idish oling. Oddiy bankaga test qilinmaydi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Zamonaviy immunokimyoviy test uchun parhez kerak emas. Test boshqa turdagi bo‘lsa — laboratoriyadan so‘rang."
+  }
+ ],
+ "bring": [
+  "Namunali idish",
+  "Yo‘llanma"
+ ],
+ "steps": [
+  "Axlatni suvga tushmaydigan qilib yig‘ing — masalan, qog‘ozga",
+  "Idishdagi cho‘p bilan bir necha joyidan ozgina axlat oling",
+  "Cho‘pni idishga solib, mahkam yoping",
+  "Sizga aytilgan muddatda laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Hech narsa — og‘riq yo‘q"
+ ],
+ "after": [
+  "Test musbat bo‘lsa — bu tashxis emas. Shifokor odatda sababini topish uchun kolonoskopiyaga yo‘llaydi"
+ ],
+ "red_flags": [
+  "Axlatda qon ko‘rinsa yoki axlat qora bo‘lsa — natijani kutmang, shifokorga murojaat qiling"
+ ],
+ "faq": [
+  {
+   "q": "Test musbat bo‘lsa — bu saraton degani emi?",
+   "a": "Ko‘pincha yo‘q. Qon bavosil, yoriq yoki polipdan bo‘lishi mumkin. Lekin sababini topish kerak — odatda kolonoskopiya qilinadi."
+  }
+ ],
+ "reminders": []
+}

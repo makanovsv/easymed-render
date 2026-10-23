@@ -1,0 +1,72 @@
+{
+ "title": "RSV ga qarshi emlash (homilador va keksalarga)",
+ "also": [
+  "RSV emlashi",
+  "RSV vaksinasi",
+  "respirator-sinsitial virusga qarshi emlash",
+  "homilador ayollarga RSV"
+ ],
+ "what": "RSV vaksinasi ukoli — bu virus chaqaloqlar va keksalarda og‘ir bronxit va zotiljamni chaqiradi. Homilador ayolga chaqaloqni himoya qilish uchun emlash qilinadi.",
+ "why": "Homiladorlikning kech muddatida chaqaloqni himoya qilish uchun, keksa odamlarga esa — shifokor maslahati bilan.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa; odatda bitta ukol",
+ "tell_doctor": [
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Allergiyalar va oldingi emlashlarga kuchli reaksiyalar",
+  "Homiladorlik muddati — emlash aniq haftalarda qilinadi",
+  "Yurak va o‘pkaning surunkali kasalliklari"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash siz sog‘ bo‘lganda qilinadi. Ukoldan oldin sizni ko‘rikdan o‘tkazishadi."
+  },
+  {
+   "title": "Muddat",
+   "text": "Homilador ayollarga emlash muddatning aniq haftasida qilinadi. Aniq muddatni shifokor aytadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yelkani oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor yoki hamshira o‘zingizni qanday his qilayotganingizni so‘raydi va haroratni o‘lchaydi",
+  "Yelkangizni ochasiz",
+  "Teri artiladi va ukol qilinadi",
+  "Emlash hujjatlarga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tirish kerak"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan 1–2 kun ukol joyi og‘riydi",
+  "Ba’zan holsizlik, bosh og‘rig‘i yoki badan og‘rig‘i"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "Homilador ayollarga: tug‘ruqdan keyin bolalar shifokoriga emlash qilinganini ayting"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Homiladorlikda emlash xavfsizmi?",
+   "a": "Uni homilador ayollarga shifokorlar tavsiyasi bo‘yicha aniq muddatlarda qilishadi. Shifokor bilan birga qaror qiling."
+  },
+  {
+   "q": "Uni har yili qilish kerakmi?",
+   "a": "Odatda yo‘q. Qayta emlash kerak yoki kerak emasligini shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga RSV ga qarshi emlash. Emlash kartasini oling, homilador bo‘lsangiz — almashinuv kartasini ham."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Radioactive iodine treatment",
+ "also": [
+  "radioactive iodine therapy",
+  "RAI",
+  "radioiodine",
+  "iodine-131 capsule"
+ ],
+ "what": "You swallow a capsule or drink a liquid with radioactive iodine. It collects in the thyroid gland and gradually shrinks or destroys its tissue.",
+ "why": "For an overactive thyroid and after surgery for thyroid cancer.",
+ "duration": "taking the capsule takes a few minutes; you usually stay in the ward for a few days, depending on clinic rules",
+ "tell_doctor": [
+  "Pregnancy, or if you could be pregnant. The treatment is not given during pregnancy",
+  "Breastfeeding. It must be stopped in advance, and the doctor will say when",
+  "All medicines, especially thyroid hormones",
+  "Recent CT scans with contrast, as contrast contains iodine",
+  "If you have small children or pregnant women at home"
+ ],
+ "prepare": [
+  {
+   "title": "Diet",
+   "text": "Usually for 1 to 2 weeks before treatment you follow a low-iodine diet: no seafood, seaweed or iodized salt. The clinic will give the exact list."
+  },
+  {
+   "title": "Hormones",
+   "text": "Do not stop on your own. If thyroid hormones must be paused, the doctor will say when and how."
+  },
+  {
+   "title": "Test",
+   "text": "Women usually have a pregnancy test before treatment."
+  },
+  {
+   "title": "Belongings",
+   "text": "Bring as little as possible. Some of it is best washed separately afterward."
+  }
+ ],
+ "bring": [
+  "Your referral and reports",
+  "Your ID",
+  "A list of your medicines",
+  "A change of clothes and simple things for a few days"
+ ],
+ "steps": [
+  "You are placed in a separate room",
+  "The doctor explains the rules once more",
+  "You swallow the capsule or drink the liquid with water",
+  "For the first hours you usually cannot eat",
+  "You drink a lot and go to the toilet often, so the extra iodine leaves faster",
+  "A specialist measures the radiation, and when it drops enough you are discharged"
+ ],
+ "feel": [
+  "You do not feel the dose itself",
+  "Sometimes a dry mouth, a change in taste, mild nausea",
+  "Swelling and tenderness in the neck can occur in the first days",
+  "Isolation is boring, so bring a book or headphones"
+ ],
+ "after": [
+  "For several days after discharge keep your distance from people, especially children and pregnant women. The doctor will give the time",
+  "Sleep alone and use your own dishes and towel",
+  "Flush the toilet often and wash your hands well",
+  "Pregnancy is usually postponed for the time the doctor advises",
+  "Follow-up hormone tests in a few weeks"
+ ],
+ "red_flags": [
+  "Severe swelling of the neck, trouble breathing or swallowing: call your local emergency number",
+  "Heavy vomiting so you cannot drink"
+ ],
+ "faq": [
+  {
+   "q": "Will I be dangerous to my family?",
+   "a": "For a short time after treatment, yes, which is why distance rules are needed. The doctor will tell you how many days to follow them."
+  },
+  {
+   "q": "Can I drink a lot of water?",
+   "a": "Yes, you even should. Water helps the extra iodine leave the body faster."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Radioactive iodine treatment in 2 days. Keep following the low-iodine diet and pack simple things for a few days."
+  }
+ ]
+}

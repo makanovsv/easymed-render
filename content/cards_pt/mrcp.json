@@ -1,0 +1,73 @@
+{
+ "title": "Colangiorressonância",
+ "also": [
+  "colangiorressonância",
+  "colangio-RM",
+  "ressonância das vias biliares",
+  "ressonância dos ductos biliares"
+ ],
+ "what": "É uma ressonância da barriga que mostra os ductos da bile, a vesícula e o ducto do pâncreas. Sem agulha e sem radiação.",
+ "why": "Com suspeita de pedras nos ductos da bile, icterícia, dor embaixo das costelas do lado direito e antes de cirurgias.",
+ "duration": "normalmente 20 a 40 minutos, o laudo sai em 1 a 3 dias",
+ "tell_doctor": [
+  "Se tem marca-passo, implantes de metal ou estilhaços no corpo",
+  "Se tem medo de lugar fechado",
+  "Se pode haver gravidez",
+  "Se tem doença nos rins, caso planejem contraste"
+ ],
+ "prepare": [
+  {
+   "title": "Jejum",
+   "text": "Normalmente 4 a 6 horas sem comer nem beber, para a vesícula ficar cheia. Confirme com a clínica."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire joias, relógio e cinto. Cartões e celular ficam no armário."
+  },
+  {
+   "title": "Remédios",
+   "text": "Os remédios de sempre normalmente podem ser tomados com um golinho de água. Confirme com o médico."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ultrassons, tomografias e ressonâncias anteriores",
+  "Exames de sangue, se fez",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Você troca de roupa e tira todo o metal",
+  "Deita de costas na mesa do aparelho",
+  "Colocam na barriga uma bobina, uma peça leve",
+  "A mesa entra no aparelho, e dão fones de ouvido",
+  "Muitas vezes pedem para segurar a respiração no comando",
+  "Às vezes aplicam contraste na veia"
+ ],
+ "feel": [
+  "Não dói",
+  "O aparelho faz barulho alto. É normal",
+  "Segurar a respiração cansa, mas é por pouco tempo"
+ ],
+ "after": [
+  "Pode comer e seguir o dia logo em seguida",
+  "O laudo sai normalmente em 1 a 3 dias",
+  "Converse sobre o resultado com o médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Precisa de contraste?",
+   "a": "Muitas vezes os ductos aparecem sem ele. Quem decide é o médico."
+  },
+  {
+   "q": "Por que não pode comer?",
+   "a": "Para a vesícula e os ductos ficarem cheios e o intestino atrapalhar menos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a ressonância das vias biliares. Fique 4 a 6 horas sem comer. Tire todo o metal."
+  }
+ ]
+}

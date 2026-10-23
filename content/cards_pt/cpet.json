@@ -1,0 +1,80 @@
+{
+ "title": "Teste cardiopulmonar de exercício",
+ "also": [
+  "teste cardiopulmonar",
+  "ergoespirometria",
+  "teste de esforço com análise de gases",
+  "TCPE"
+ ],
+ "what": "Você pedala ou caminha na esteira usando uma máscara. Os aparelhos acompanham o coração e quanto oxigênio você consome.",
+ "why": "Quando a causa da falta de ar não está clara, antes de cirurgias, em doenças do coração e dos pulmões ou para escolher um nível de exercício seguro.",
+ "duration": "normalmente 45 a 60 minutos com o preparo; o esforço em si dura 8 a 12 minutos",
+ "tell_doctor": [
+  "Todos os remédios. O médico diz se é preciso parar algum",
+  "Se tem dor no peito com esforço",
+  "Se as articulações doem e é difícil andar ou pedalar",
+  "Se já desmaiou"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Uma refeição leve 2 a 3 horas antes do teste. Não vá com fome nem de barriga cheia."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Sem treino pesado e sem álcool. No dia do teste, normalmente não se toma café nem se fuma. Confirme com a clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa de ginástica e calçado confortável."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Se o médico orientar, siga o esquema dele."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios",
+  "Roupa e tênis de ginástica",
+  "Água e toalha"
+ ],
+ "steps": [
+  "Colam eletrodos de ECG no peito e colocam o manguito de pressão no braço",
+  "Colocam uma máscara no rosto, e você respira por ela",
+  "Primeiro registram os dados em repouso",
+  "Você começa a pedalar ou caminhar, e o esforço aumenta aos poucos",
+  "Você continua até cansar ou até o médico parar",
+  "Depois do teste você descansa até o pulso acalmar"
+ ],
+ "feel": [
+  "No começo, a máscara é estranha",
+  "No fim, muito cansaço e falta de ar, como depois de um treino intenso",
+  "As pernas podem doer até no dia seguinte"
+ ],
+ "after": [
+  "Fique sentado 10 a 15 minutos antes de ir embora",
+  "A análise leva normalmente de algumas horas a alguns dias",
+  "Hoje, evite esforço pesado"
+ ],
+ "red_flags": [
+  "Dor no peito, tontura, falta de ar durante o teste: avise o médico na hora",
+  "Dor no peito ou desmaio depois do teste: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que ir até o limite?",
+   "a": "Para ver como o coração e os pulmões funcionam no máximo. Mas você será parado se não for seguro."
+  },
+  {
+   "q": "Qual a diferença para o teste comum na esteira?",
+   "a": "Além do ECG, aqui se mede a respiração e a troca de gases. Isso ajuda a entender o que limita o esforço: o coração, os pulmões ou os músculos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o teste de esforço. Leve roupa e tênis de ginástica. Coma algo leve 2 a 3 horas antes."
+  }
+ ]
+}

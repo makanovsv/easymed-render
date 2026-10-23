@@ -1,0 +1,80 @@
+{
+ "title": "Plasma rico em plaquetas no rosto e no couro cabeludo",
+ "also": [
+  "PRP",
+  "plasma rico em plaquetas",
+  "injeção de plasma",
+  "PRP capilar"
+ ],
+ "what": "Colhem um pouco do seu sangue da veia. Dele preparam o plasma, que é aplicado com picadinhas na pele do rosto ou da cabeça.",
+ "why": "Para melhorar a aparência da pele ou na queda de cabelo, por decisão do médico.",
+ "duration": "o procedimento leva normalmente 30 a 60 minutos; o ciclo normalmente tem várias sessões; o efeito aparece em algumas semanas",
+ "tell_doctor": [
+  "Se você está grávida ou amamentando",
+  "Se toma remédios que afinam o sangue",
+  "Doenças do sangue e da coagulação",
+  "Se agora há inflamação na pele ou herpes",
+  "Alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente, nas horas antes do procedimento, não se come gordura. Água pode. Confirme com a clínica."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Nos 1 a 2 dias antes, sem álcool."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma."
+  },
+  {
+   "title": "Cabelo",
+   "text": "Para o couro cabeludo, normalmente pedem para ir com o cabelo limpo, sem produtos de penteado."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Colhem seu sangue da veia num tubo",
+  "O tubo gira numa máquina, e o plasma se separa",
+  "Limpam a pele e passam antisséptico",
+  "Às vezes passam um creme anestésico",
+  "O médico faz picadinhas com o plasma"
+ ],
+ "feel": [
+  "Picadas rápidas, espetadas",
+  "Depois, vermelhidão e um pouco de inchaço, normalmente por 1 a 2 dias",
+  "Às vezes pequenas manchas roxas"
+ ],
+ "after": [
+  "Normalmente 1 a 2 dias sem maquiagem, sauna e piscina",
+  "Depois do procedimento no couro cabeludo, normalmente não se lava a cabeça até o dia seguinte. Confirme com o médico",
+  "Não mexa com as mãos nos locais das picadas",
+  "A próxima sessão, no prazo que o médico marcar"
+ ],
+ "red_flags": [
+  "Dor, inchaço e vermelhidão fortes que vão piorando",
+  "Pontinhos de pus ou febre acima de 38 °C",
+  "Inchaço no rosto ou nos lábios, dificuldade para respirar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que é seguro? É o meu próprio sangue?",
+   "a": "Sim, é aplicado o seu próprio plasma, por isso alergia é muito rara. Mas a esterilidade é importante."
+  },
+  {
+   "q": "Quando dá para ver o resultado?",
+   "a": "Normalmente depois de algumas semanas e de um ciclo de algumas sessões."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o PRP. Hoje, sem álcool. De manhã, café leve sem gordura. Água pode."
+  }
+ ]
+}

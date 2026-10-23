@@ -1,0 +1,82 @@
+{
+ "title": "Ildiz uchini rezeksiya qilish (tish kistasini olib tashlash)",
+ "also": [
+  "ildiz uchi rezeksiyasi",
+  "tish kistasini olib tashlash",
+  "tish ildizidagi operatsiya"
+ ],
+ "what": "Jarroh milkdagi kichik kesma orqali tish ildizining uchini kista bilan birga olib tashlaydi. Tishning o‘zi qoladi.",
+ "why": "Ildiz uchida kista yoki yallig‘lanish bo‘lib, kanallarni qayta davolab bo‘lmaganda.",
+ "duration": "operatsiya odatda 30–90 daqiqa",
+ "tell_doctor": [
+  "Barcha dorilar, ayniqsa qonni suyultiradiganlar — nimani va qachon bekor qilishni shifokor aytadi",
+  "Allergiyalar, ayniqsa og‘riqsizlantiruvchi va antibiotiklarga",
+  "Yurak kasalliklari, bosim, diabet",
+  "Homilador bo‘lsangiz",
+  "Chekasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Suratlar",
+   "text": "Odatda tishning 3D surati kerak."
+  },
+  {
+   "title": "Kanallar",
+   "text": "Ko‘pincha operatsiyadan oldin tish kanallari plombalanadi — shifokordan aniqlang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Operatsiyadan 1–2 soat oldin ovqatlaning."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Alkogolsiz."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tish suratlari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Ukol bilan og‘riqsizlantirishadi",
+  "Jarroh ildiz ustidagi milkni kesib, ajratadi",
+  "Suyakda kichik darcha ochadi",
+  "Kista va ildiz uchini olib tashlaydi",
+  "Ba’zan ildizni uchidan plombalaydi",
+  "Milk tikiladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantirish ostida — bosim, og‘riqsiz",
+  "Keyin — yonoq shishi va 2–3 kun og‘riq, og‘riq qoldiruvchi berishadi",
+  "Yuzda ko‘karish bo‘lishi mumkin"
+ ],
+ "after": [
+  "Dastlabki soatlarda yonoqqa tanaffuslar bilan sovuq qo‘ying",
+  "Bir necha kun yumshoq, issiq bo‘lmagan ovqat",
+  "Shu tomonda chaynamang",
+  "Birinchi kuni og‘izni qattiq chayqamang",
+  "Choklar odatda 1–2 haftada olinadi"
+ ],
+ "red_flags": [
+  "Bosganda qon ketishi to‘xtamasa",
+  "Harorat 38 dan yuqori, 3-kundan keyin shish kuchaysa",
+  "Shish bo‘yinga o‘tsa, yutish yoki nafas olish qiyin — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Tish mustahkam qoladimi?",
+   "a": "Odatda ha. Ildiz biroz qisqaroq bo‘ladi, lekin tish xizmat qiladi."
+  },
+  {
+   "q": "Nega tishni darrov olib tashlamaysiz?",
+   "a": "Imkon bo‘lsa, o‘z tishingizni saqlagan yaxshi. Imkoniyat bor-yo‘qligini shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga tish ildizidagi operatsiya. Alkogolsiz. Qabuldan 1–2 soat oldin ovqatlaning. Dorilar — shifokor aytganidek."
+  }
+ ]
+}

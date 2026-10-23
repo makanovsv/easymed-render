@@ -1,0 +1,77 @@
+{
+ "title": "Tish olingandan keyingi alveolitni davolash",
+ "also": [
+  "alveolit",
+  "quruq katak",
+  "katak yallig‘lanishi",
+  "tish olingandan keyin og‘riyapti"
+ ],
+ "what": "Shifokor olingan tish katagini tozalab, davolovchi bog‘lov qo‘yadi. Bu og‘riqni yengillashtiradi va yaraning bitishiga yordam beradi.",
+ "why": "Tish olingandan 2–4 kun o‘tib og‘riq o‘tib ketish o‘rniga kuchaysa va yoqimsiz hid paydo bo‘lsa.",
+ "duration": "muolaja odatda 15–20 daqiqa, bitish — 1–2 hafta",
+ "tell_doctor": [
+  "Tish qachon olingani va og‘riq qachon kuchaygani",
+  "Chekasizmi",
+  "Qonni suyultiradigan dorilar yoki gormonlar ichsangiz",
+  "Dorilarga allergiya bo‘lsa",
+  "Harorat bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Chekish",
+   "text": "Chekmang — bu bitishga xalaqit beradi."
+  },
+  {
+   "title": "Chayqash",
+   "text": "Qabulgacha og‘izni qattiq chayqamang."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Shifokor avval ruxsat bergan og‘riq qoldiruvchini ichsangiz bo‘ladi. Nima ichganingizni ayting."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Tish olingandan keyingi ko‘chirma yoki tavsiyalar, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor katakni ko‘radi",
+  "Kerak bo‘lsa, og‘riqsizlantiradi",
+  "Katakni ehtiyotkorlik bilan yuvadi",
+  "Ovqat qoldiqlari va parchalangan qon laxtasini olib tashlaydi",
+  "Davolovchi bog‘lov yoki pasta qo‘yadi",
+  "Uyda qanday parvarish qilishni tushuntiradi"
+ ],
+ "feel": [
+  "Yuvish noxush bo‘lishi mumkin",
+  "Bog‘lovdan keyin og‘riq odatda bir kun ichida sezilarli kamayadi"
+ ],
+ "after": [
+  "Katakka til va barmoq bilan tegmang",
+  "Chekmang va naycha orqali ichmang",
+  "Bog‘lov ba’zan almashtiriladi — nazoratga keling",
+  "Chayqash va dorilar — shifokor tayinlaganidek"
+ ],
+ "red_flags": [
+  "Yonoqning shishi kuchayib boradi",
+  "Harorat 38 dan yuqori",
+  "Yutish yoki og‘izni ochish qiyin — zudlik bilan shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Quruq katak nega paydo bo‘ladi?",
+   "a": "Katakdagi qon laxtasi buzilgan yoki yuvilib ketgan. Ko‘proq chekuvchilarda va murakkab tish olishdan keyin bo‘ladi."
+  },
+  {
+   "q": "Qancha vaqt og‘riydi?",
+   "a": "Davodan keyin odatda bir kunda yengillashadi. To‘liq 1–2 haftada bitadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tish olingandan keyingi katak bo‘yicha qabul yaqin. Chekmang va og‘izni qattiq chayqamang."
+  }
+ ]
+}

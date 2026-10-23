@@ -1,0 +1,73 @@
+{
+ "title": "Sut tishi pulpotomiyasi",
+ "also": [
+  "sut tishi asabini davolash",
+  "pulpa amputatsiyasi",
+  "bolada pulpitni davolash"
+ ],
+ "what": "Stomatolog sut tishi toji ichidagi asabning yallig‘langan qismini olib tashlaydi. Ildizlar tirik qoladi, tish plomba yoki qoplama bilan yopiladi.",
+ "why": "Karies sut tishining asabigacha yetib borgan, lekin ildizlar hali sog‘ bo‘lganda.",
+ "duration": "odatda 30–60 daqiqa",
+ "tell_doctor": [
+  "Bolaning allergiyalari, ayniqsa og‘riqsizlantiruvchilarga",
+  "Surunkali kasalliklar va dorilar",
+  "Tish kechasi yoki o‘z-o‘zidan og‘riganmi",
+  "Yonoq yoki milkda shish bo‘lganmi",
+  "Bola davolanishni qanday ko‘taradi"
+ ],
+ "prepare": [
+  {
+   "title": "Kayfiyat",
+   "text": "Bolaga shifokor tishini davolashini xotirjam tushuntiring. Umuman hech narsa bo‘lmaydi deb va’da bermang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Bolani qabuldan 1–2 soat oldin ovqatlantiring."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Sevimli o‘yinchoq",
+  "Tish rasmi, agar qilingan bo‘lsa"
+ ],
+ "steps": [
+  "Ba’zan tish rasmi olinadi",
+  "Og‘riqsizlantirishadi: avval gel, keyin ukol",
+  "Tishni so‘lakdan ajratishadi",
+  "Kariesni va asabning yuqori qismini olib tashlashadi",
+  "Asabni davolovchi material bilan yopishadi",
+  "Plomba yoki qoplama qo‘yishadi"
+ ],
+ "feel": [
+  "Bosim hissi va parma shovqini",
+  "Lab va yonoq 1–2 soat uvishadi",
+  "Tish 1–2 kun biroz zirqirashi mumkin"
+ ],
+ "after": [
+  "Uvishish o‘tmaguncha bolani ovqatlantirmang",
+  "Bola labi va yonog‘ini tishlab olmasligini kuzating",
+  "Tish zirqirasa, bolalar uchun og‘riq qoldiruvchi berish mumkin, dozasini shifokordan aniqlab oling",
+  "Nazorat rasmiga belgilangan muddatda keling"
+ ],
+ "red_flags": [
+  "Yonoq yoki milkda shish",
+  "O‘tmaydigan kuchli og‘riq",
+  "Harorat 38 dan yuqori"
+ ],
+ "faq": [
+  {
+   "q": "Asabni davolash og‘riqlimi?",
+   "a": "Og‘riqsizlantirish ostida bola odatda faqat bosimni sezadi."
+  },
+  {
+   "q": "Nega tishni olib tashlamaymiz?",
+   "a": "Sut tishi doimiy tish uchun joyni saqlaydi. Erta yo‘qotilsa, tishlam buzilishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolaning tish davosi. Uni qabuldan 1–2 soat oldin ovqatlantiring."
+  }
+ ]
+}

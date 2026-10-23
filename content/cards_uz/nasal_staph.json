@@ -1,0 +1,69 @@
+{
+ "title": "Burundan oltin stafilokokkka ekma",
+ "also": [
+  "burundan stafilokokkka surtma",
+  "burundan ekma",
+  "stafilokokk tashuvchilik",
+  "burundan flora surtmasi"
+ ],
+ "what": "Bu burundan surtma bo‘lib, unda oltin stafilokokk qidiriladi va unga qaysi dorilar ta’sir qilishi tekshiriladi.",
+ "why": "Rejali operatsiyadan oldin, tibbiyot xodimlariga, tez-tez yiringchalar va furunkullar bo‘lganda, epidemiologik ko‘rsatmalar bo‘yicha.",
+ "duration": "surtmaning o‘zi — bir daqiqadan kam, natija odatda 3–5 kunda",
+ "tell_doctor": [
+  "Oxirgi haftalarda antibiotik ichganmisiz",
+  "Burun uchun malham va tomchilar ishlatasizmi",
+  "Tez-tez furunkullar bo‘lib tursa",
+  "Yaqinda rejali operatsiya bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Burun",
+   "text": "Surtmadan bir necha soat oldin, shifokor boshqacha aytmasa, burunni yuvmang, tomchi va malham surtmang."
+  },
+  {
+   "title": "Antibiotiklar",
+   "text": "Tahlilni antibiotik boshlashdan oldin topshirgan ma’qul. Allaqachon ichayotgan bo‘lsangiz — o‘zingiz to‘xtatmang, shifokorga ayting."
+  },
+  {
+   "title": "Ertalab",
+   "text": "Surtmani odatda ertalab olishadi. Nonushta qilsa bo‘ladi, lekin tomoqni chayqamang — laboratoriyadan aniqlang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz va boshni biroz orqaga tashlaysiz",
+  "Hamshira cho‘pni bir burun teshigiga sayoz kiritadi",
+  "Cho‘p burun devorlari bo‘ylab aylantiriladi",
+  "Xuddi shu narsa ikkinchi burun teshigida ham qilinadi",
+  "Cho‘p probirkaga solinadi"
+ ],
+ "feel": [
+  "Qitiqlaydi, aksirgingiz kelishi mumkin",
+  "Ba’zan ko‘zdan yosh keladi — bu darhol o‘tadi"
+ ],
+ "after": [
+  "Darhol odatiy ishlaringizga qaytishingiz mumkin",
+  "Shikoyatsiz stafilokokk topilsa, davolash har doim ham shart emas — shifokor hal qiladi",
+  "Antibiotikli malhamlarni o‘zingiz boshlamang"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Burundagi stafilokokk kasallikmi?",
+   "a": "Ko‘pincha yo‘q. Ko‘pchilik sog‘lom odamlar uni burunda zararsiz olib yuradi. Davolash alohida holatlarda kerak."
+  },
+  {
+   "q": "Nega operatsiyadan oldin bu tahlil kerak?",
+   "a": "Yara infeksiyasi xavfini kamaytirish uchun. Mikrob topilsa, shifokor ishlov berishni buyurishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 6,
+   "text": "Bugun burundan surtma. Undan oldin burunni yuvmang va tomchi tomizmang."
+  }
+ ]
+}

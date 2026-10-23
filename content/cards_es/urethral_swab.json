@@ -1,0 +1,78 @@
+{
+ "title": "Exudado uretral en hombres",
+ "also": [
+  "exudado uretral",
+  "muestra de uretra",
+  "prueba de ITS en hombres",
+  "cultivo uretral"
+ ],
+ "what": "Es una muestra del conducto por donde sale la orina. En ella se busca inflamación e infecciones de transmisión sexual.",
+ "why": "Con ardor y secreción, dolor al orinar, después de una relación sin protección, o cuando la pareja planea un embarazo.",
+ "duration": "la toma dura cerca de un minuto; el resultado suele estar en 1 a 5 días",
+ "tell_doctor": [
+  "Qué molestias tienes y desde hace cuántos días",
+  "Si tomaste antibióticos en las últimas semanas",
+  "Si tuviste una relación sin protección y cuándo",
+  "Si a tu pareja le encontraron una infección"
+ ],
+ "prepare": [
+  {
+   "title": "Orinar",
+   "text": "Normalmente no hay que orinar de 2 a 3 horas antes de la toma. Pregunta en la clínica."
+  },
+  {
+   "title": "Relaciones",
+   "text": "Normalmente, de 1 a 2 días antes del análisis, sin relaciones sexuales."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "Es mejor hacer el análisis antes de los antibióticos. Si ya los tomas, no los dejes por tu cuenta y díselo al médico."
+  },
+  {
+   "title": "Higiene",
+   "text": "Báñate la noche anterior. En la mañana no uses antisépticos ni geles íntimos."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu identificación",
+  "Análisis anteriores, si los tienes"
+ ],
+ "steps": [
+  "Te quedas de pie o te acuestas en la camilla",
+  "Limpian la punta del pene con una toallita",
+  "Meten un hisopo delgado poco profundo en el conducto",
+  "Lo giran unos segundos y lo sacan",
+  "La muestra se pone en un tubo o en un vidrio"
+ ],
+ "feel": [
+  "Es molesto y puede arder unos segundos",
+  "Después, la primera vez que orines puede arder un poco"
+ ],
+ "after": [
+  "Toma agua como siempre: el ardor se quita en un día",
+  "Hasta tener el resultado, mejor sin relaciones sexuales",
+  "Si encuentran una infección, normalmente deben tratarse los dos miembros de la pareja"
+ ],
+ "red_flags": [
+  "No puedes orinar o tienes dolor fuerte en la parte baja del abdomen: llama a emergencias",
+  "Fiebre alta, dolor e hinchazón en el escroto: ve al médico ese mismo día",
+  "Sangre en la orina por más de un día: ve al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele?",
+   "a": "Casi siempre es molesto y arde unos segundos. Normalmente no hay dolor fuerte."
+  },
+  {
+   "q": "¿Puedo entregar orina en lugar del exudado?",
+   "a": "Para muchas pruebas de PCR también sirve el primer chorro de orina. El médico te dirá qué es mejor en tu caso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Pronto es tu exudado uretral. No orines antes del análisis y no uses antisépticos."
+  }
+ ]
+}

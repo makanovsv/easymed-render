@@ -1,0 +1,78 @@
+{
+ "title": "Exame de grau com colírio (cicloplegia) na criança",
+ "also": [
+  "exame de vista com colírio",
+  "cicloplegia",
+  "dilatar a pupila da criança",
+  "refração sob cicloplegia"
+ ],
+ "what": "Pingam na criança um colírio que relaxa por um tempo o músculo do olho. Assim o médico sabe com precisão se ela precisa de óculos.",
+ "why": "Antes dos primeiros óculos, quando se suspeita de miopia, hipermetropia ou estrabismo, e para acompanhar a visão.",
+ "duration": "o colírio e a espera levam normalmente de 30 a 60 minutos; às vezes se pinga em casa por alguns dias; o resultado sai na hora",
+ "tell_doctor": [
+  "Se a criança já teve alergia a colírio",
+  "Se tem doença do coração, convulsões ou outra doença crônica",
+  "Quais remédios a criança toma",
+  "Se a criança usa óculos"
+ ],
+ "prepare": [
+  {
+   "title": "Rotina",
+   "text": "O colírio pode fazer efeito de algumas horas a alguns dias. Confirme na clínica e não marque atividades de leitura para esse dia."
+  },
+  {
+   "title": "Criança",
+   "text": "Explique que o colírio arde um pouco, mas passa rápido."
+  },
+  {
+   "title": "Sol",
+   "text": "Leve boné ou óculos escuros, porque a luz vai incomodar."
+  }
+ ],
+ "bring": [
+  "Documento da criança",
+  "Óculos da criança, se tiver",
+  "Boné ou óculos escuros",
+  "Um brinquedo ou livrinho para a espera"
+ ],
+ "steps": [
+  "A enfermeira pinga o colírio nos dois olhos",
+  "Às vezes o colírio é pingado mais vezes",
+  "Vocês esperam as pupilas dilatarem",
+  "O médico ilumina os olhos com um aparelho especial",
+  "O grau é medido num aparelho",
+  "O médico examina o fundo do olho e explica o resultado"
+ ],
+ "feel": [
+  "O colírio arde por alguns segundos",
+  "Depois, a luz incomoda a criança e fica difícil ver de perto",
+  "Isso é passageiro e some sozinho"
+ ],
+ "after": [
+  "Enquanto o colírio age, a criança tem dificuldade para ler e desenhar",
+  "Proteja os olhos do sol forte",
+  "Se o colírio for para usar em casa, pingue exatamente como o médico indicou",
+  "A receita dos óculos normalmente é dada na hora"
+ ],
+ "red_flags": [
+  "Rosto vermelho, calor, boca muito seca ou agitação depois do colírio: ligue para o médico",
+  "A criança está mole, muito sonolenta ou muito agitada: ligue para a emergência",
+  "Dor forte ou vermelhidão no olho"
+ ],
+ "faq": [
+  {
+   "q": "Por que colírio, se dá para ver só pela tabela?",
+   "a": "O olho da criança faz muito esforço e pode esconder a hipermetropia ou mostrar uma falsa miopia. O colírio relaxa o olho e dá um resultado preciso."
+  },
+  {
+   "q": "Isso não faz mal?",
+   "a": "Na dose certa, é um procedimento comum e seguro. Conte ao médico sobre as doenças da criança."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o exame de vista com colírio. Leve boné ou óculos escuros para a criança."
+  }
+ ]
+}

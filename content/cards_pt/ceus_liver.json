@@ -1,0 +1,82 @@
+{
+ "title": "Ultrassom do fígado com contraste",
+ "also": [
+  "ultrassom com contraste do fígado",
+  "CEUS do fígado",
+  "ultrassom contrastado",
+  "ultrassom com microbolhas"
+ ],
+ "what": "É um ultrassom do fígado em que se aplica na veia um contraste especial, feito de bolhinhas minúsculas de gás. Assim o médico vê como o sangue enche as lesões do fígado.",
+ "why": "Para entender o que é uma lesão no fígado achada no ultrassom comum, na tomografia ou na ressonância, e no acompanhamento depois de tratamento do fígado.",
+ "duration": "normalmente 20 a 40 minutos com o preparo, o laudo sai normalmente no mesmo dia",
+ "tell_doctor": [
+  "Alergias, principalmente se já teve reação a contraste",
+  "Doenças do coração e dos pulmões, principalmente se pioraram há pouco tempo",
+  "Se você está grávida ou amamentando",
+  "Todos os remédios que você toma",
+  "Exames de imagem anteriores do fígado. Leve-os"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente 4 a 6 horas sem comer. Água sem gás pode. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma."
+  },
+  {
+   "title": "Rins",
+   "text": "Esse contraste não faz mal aos rins. Exames dos rins normalmente não são precisos. Confirme com a clínica."
+  },
+  {
+   "title": "Tempo",
+   "text": "Depois do exame, normalmente pedem para ficar uns 30 minutos na clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ultrassons, tomografias e ressonâncias anteriores do fígado",
+  "Lista de remédios",
+  "Lenços"
+ ],
+ "steps": [
+  "A enfermeira coloca um cateter fino na veia do braço",
+  "Você se deita de costas, e passam gel na barriga",
+  "O médico primeiro olha o fígado com ultrassom comum",
+  "Pelo cateter aplicam um pouco de contraste",
+  "O médico observa a lesão por alguns minutos. Às vezes pedem para segurar a respiração",
+  "Tiram o cateter e colocam um algodão"
+ ],
+ "feel": [
+  "Uma picada rápida ao colocar o cateter",
+  "Normalmente não se sente o contraste. Às vezes dá um leve calor ou um gosto estranho",
+  "Raramente, uma leve dor de cabeça ou enjoo. Avise o médico"
+ ],
+ "after": [
+  "Normalmente você fica uns 30 minutos em observação",
+  "Depois pode comer e voltar à rotina",
+  "O laudo sai normalmente no mesmo dia",
+  "Os próximos passos você conversa com o seu médico"
+ ],
+ "red_flags": [
+  "Manchas na pele, coceira, inchaço no rosto ou nos lábios: avise o médico na hora",
+  "Dificuldade para respirar, dor no peito, fraqueza forte: se já estiver em casa, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Esse contraste é o mesmo da tomografia?",
+   "a": "Não. Ele não tem iodo, sai pela respiração através dos pulmões e não sobrecarrega os rins."
+  },
+  {
+   "q": "Pode dar alergia a esse contraste?",
+   "a": "Raramente. Por isso você fica um pouco em observação na clínica depois do exame."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o ultrassom do fígado com contraste. Fique 4 a 6 horas sem comer. Água sem gás pode. Leve os exames anteriores."
+  }
+ ]
+}

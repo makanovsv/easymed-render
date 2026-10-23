@@ -1,0 +1,29 @@
+strep_test|lab|Экспресс-тест на стрептококк (ангина)|Rapid strep throat test|swab|L|2
+throat_culture|lab|Мазок из зева на флору|Throat culture|swab|L|2
+quantiferon|lab|Квантифероновый тест на туберкулёз|QuantiFERON TB blood test|lab_draw|L|3
+mantoux|lab|Проба Манту и Диаскинтест|Mantoux and Diaskintest skin tests|proc_room|L|1
+parasites|lab|Анализ на паразитов (яйца глист)|Stool test for parasites|lab_cup|L|2
+enterobiasis|lab|Соскоб на энтеробиоз|Pinworm tape test|lab_cup|L|2
+calprotectin|lab|Фекальный кальпротектин|Faecal calprotectin|lab_cup|L|3
+urine_nechip|lab|Анализ мочи по Нечипоренко|Nechiporenko urine test|lab_cup|L|2
+urine_zimn|lab|Анализ мочи по Зимницкому|Zimnitsky urine test|lab_cup|L|3
+microalb|lab|Микроальбумин в моче|Urine microalbumin|lab_cup|L|2
+drug_test|lab|Тест на наркотики (моча)|Urine drug test|lab_cup|L|2
+alcohol_test|lab|Медосвидетельствование на алкоголь|Alcohol breath and blood test|office|L|3
+genetic_nipt|lab|НИПТ — неинвазивный пренатальный тест|NIPT prenatal blood test|lab_draw|L|2
+prenatal_screen|lab|Биохимический скрининг беременных|Prenatal biochemical screening|lab_draw|L|1
+karyotype|lab|Кариотип|Karyotype test|lab_draw|L|3
+newborn_screen|lab|Неонатальный скрининг (пяточка)|Newborn heel-prick screening|lab_draw|L|1
+bilirubin_baby|lab|Билирубин у новорождённого|Newborn bilirubin test|lab_draw|L|2
+blood_kids|lab|Анализ крови у ребёнка|Blood test in a child|lab_draw|L|1
+urine_kids|lab|Как собрать мочу у малыша|Collecting urine from a baby|lab_cup|L|1
+allergy_skin|lab|Кожные аллергопробы|Skin prick allergy test|proc_room|L|2
+food_intol|lab|Анализ на пищевую непереносимость|Food intolerance test|lab_draw|L|3
+sweat_test|lab|Потовый тест|Sweat test|proc_room|L|3
+blood_culture|lab|Посев крови|Blood culture|lab_draw|L|3
+wound_culture|lab|Посев из раны|Wound swab culture|proc_room|L|3
+fungal_scrape|lab|Соскоб на грибок кожи и ногтей|Skin and nail fungus scraping|proc_room|L|2
+ige_total|lab|Общий IgE|Total IgE test|lab_draw|L|3
+homocysteine|lab|Гомоцистеин|Homocysteine test|lab_draw|L|3
+lupus_ac|lab|Анализ на тромбофилию|Thrombophilia tests|lab_draw|L|3
+us_salivary|us|УЗИ слюнных желёз|Salivary gland ultrasound|us_room|L|3

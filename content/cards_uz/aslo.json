@@ -1,0 +1,79 @@
+{
+ "title": "Antistreptolizin-O (ASLO)",
+ "also": [
+  "ASLO",
+  "antistreptolizin",
+  "ASO",
+  "qonda streptokokk tahlili",
+  "revmosinamalar"
+ ],
+ "what": "Bu streptokokkka antitanalarga qon tahlili. U yaqinda streptokokk infeksiyasi bo‘lgan-bo‘lmaganini ko‘rsatadi.",
+ "why": "Angina, bo‘g‘imlarda og‘riq va shish, siydik tahlilida yoki yurakda o‘zgarishlar bo‘lganda, tez-tez anginada.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Yaqinda angina, qizamiqcha (skarlatina) yoki tomoq og‘rig‘i bo‘lganmi",
+  "Antibiotiklar ichganmisiz",
+  "Bo‘g‘imlar og‘risa yoki yuz shishsa",
+  "Oldin ASLO yuqori bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Qat’iy och qoringa odatda kerak emas, lekin yengil, yog‘siz ovqatdan 3–4 soat keyin kelgan ma’qul. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir sutka oldin — alkogolsiz va og‘ir mashqsiz. Ertalab chekmagan ma’qul."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — tahlildan oldin biror narsani o‘zgartirish kerakmi, u hal qiladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqori oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "ASLO ning oldingi natijalari",
+  "Umumiy siydik tahlili, agar topshirgan bo‘lsangiz"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakchaga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lashadi va mushtni qisib-ochishni so‘rashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilaganday",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "ASLO anginadan keyin darrov ko‘tarilmaydi — ba’zan tahlil bir necha haftadan keyin takrorlanadi",
+  "Shikoyatlarsiz yuqori ASLO odatda davolanmaydi — shifokor hal qiladi"
+ ],
+ "red_flags": [
+  "Ukol joyi qattiq shishdi, og‘riyapti va qizardi",
+  "Shishlar, go‘sht yuvindisi rangidagi peshob, anginadan keyin nafas qisilishi — shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Yuqori ASLO — bu revmatizmmi?",
+   "a": "Yo‘q. U faqat yaqinda streptokokk bo‘lganini ko‘rsatadi. Tashxisni shifokor barcha ma’lumotlarga qarab qo‘yadi."
+  },
+  {
+   "q": "ASLO yuqori bo‘lsa, antibiotik ichish kerakmi?",
+   "a": "Har doim ham emas. Qarorni shifokor qabul qiladi, antibiotikni o‘zingiz boshlamang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ASLO tahlili. Ertalab yog‘li ovqatsiz bo‘lgan ma’qul."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "title": "FIV: estimulación de los ovarios e inyecciones",
+ "also": [
+  "estimulación en FIV",
+  "inyecciones para FIV",
+  "estimulación hormonal",
+  "protocolo de fecundación in vitro"
+ ],
+ "what": "Te pones inyecciones de hormonas para que maduren varios óvulos en los ovarios. El médico lo vigila con ultrasonidos y análisis.",
+ "why": "Es la primera etapa de la fecundación in vitro. Se empieza según el plan del médico, normalmente al inicio del ciclo.",
+ "duration": "las inyecciones duran normalmente de 8 a 14 días, con varios ultrasonidos",
+ "tell_doctor": [
+  "Todos tus medicamentos. No los dejes por tu cuenta",
+  "Tus alergias",
+  "Cómo te fue en estimulaciones anteriores",
+  "Enfermedades crónicas",
+  "Si te da miedo inyectarte tú sola. Te van a ayudar"
+ ],
+ "prepare": [
+  {
+   "title": "Indicaciones",
+   "text": "Pide al médico las indicaciones por escrito: qué medicamento, qué dosis y a qué hora."
+  },
+  {
+   "title": "Guardado",
+   "text": "Algunos medicamentos se guardan en el refrigerador. Revisa el instructivo."
+  },
+  {
+   "title": "Aprender",
+   "text": "Pide a la enfermera que te enseñe cómo inyectarte."
+  },
+  {
+   "title": "Calendario",
+   "text": "Pon alarmas en el celular a la hora de las inyecciones."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Las indicaciones de tus medicamentos",
+  "Los medicamentos, si te piden llevarlos",
+  "Tu registro de inyecciones"
+ ],
+ "steps": [
+  "Lávate las manos y prepara la pluma o la jeringa",
+  "Limpia la piel del abdomen con una toallita con alcohol",
+  "Toma un pellizco de piel",
+  "Mete la aguja y pasa el medicamento despacio",
+  "Deja la aguja unos segundos y sácala",
+  "Anota la hora y la dosis",
+  "Ve a tus ultrasonidos y análisis en los días indicados"
+ ],
+ "feel": [
+  "Un piquete breve, a veces un moretón pequeño",
+  "Inflamación y pesadez en el bajo vientre",
+  "Cambios de humor y cansancio"
+ ],
+ "after": [
+  "Cuando maduren los folículos te indicarán la inyección final para la ovulación. Póntela exactamente a la hora indicada",
+  "Un tiempo después se hace la punción para sacar los óvulos",
+  "Sin ejercicio intenso durante la estimulación"
+ ],
+ "red_flags": [
+  "Dolor fuerte o mucha inflamación del abdomen: llama a tu médico o a emergencias",
+  "Falta de aire, orinas poco o subes mucho de peso de golpe: llama a emergencias",
+  "Debilidad o mareo fuerte"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué hago si se me pasó una inyección?",
+   "a": "Llama de inmediato a tu médico o a la clínica. No te pongas doble dosis por tu cuenta."
+  },
+  {
+   "q": "¿Puedo trabajar durante la estimulación?",
+   "a": "Normalmente sí. Lo importante es no faltar a las inyecciones ni a los ultrasonidos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Es hora de tu inyección de FIV. Revisa el medicamento y la dosis, y anota la hora."
+  }
+ ]
+}

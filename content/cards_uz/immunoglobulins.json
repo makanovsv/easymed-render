@@ -1,0 +1,68 @@
+{
+ "title": "A, M, G immunoglobulinlari",
+ "also": [
+  "immunoglobulinlar",
+  "IgA IgM IgG",
+  "immunitetga tahlil",
+  "umumiy antitanalar"
+ ],
+ "what": "Qon tahlili qonda antitanalarning uchta asosiy turi qancha ekanini ko‘rsatadi. Ular infeksiyalardan himoya qiladi.",
+ "why": "Tez-tez yoki og‘ir infeksiyalarda, immunitet buzilishiga shubhada, jigar, qon va bo‘g‘imlar kasalliklarida.",
+ "duration": "qon olish odatda 5 daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Qanchalik tez-tez va nima bilan kasal bo‘lasiz",
+  "Sizga immunoglobulinlar yuborilgan yoki qon quyilgan bo‘lsa",
+  "Gormonlar yoki immunitetni bostiruvchi dorilar ichayotgan bo‘lsangiz",
+  "Tahlilni bola topshirsa — uning yoshi: bolalarda me’yorlar boshqa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa yoki ovqatdan 4 soat o‘tgach yaxshiroq, suv ichish mumkin. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Salomatlik",
+   "text": "Hozir o‘tkir infeksiya bo‘lsa, tahlilni ko‘chirish kerakmi, shifokordan so‘rang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi tahlillar, agar bo‘lsa"
+ ],
+ "steps": [
+  "O‘tirasiz, tirsakdan yuqorida jgut bog‘lanadi",
+  "Teri antiseptik bilan artiladi",
+  "Qon venadan probirkaga olinadi",
+  "Jgut yechiladi, paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda 1–3 kunda",
+  "Shifokor natijani yosh va kasalliklarni hisobga olib baholaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Immunoglobulinlar past bo‘lsa — bu immunitet tanqisligimi?",
+   "a": "Har doim emas. Vaqtinchalik pasayishlar bo‘ladi. Tashxisni shifokor tahlillar va qanday kasallanishingizga qarab qo‘yadi."
+  },
+  {
+   "q": "Immunoglobulinlarni vitaminlar bilan ko‘tarsa bo‘ladimi?",
+   "a": "Yo‘q. Haqiqatan kam bo‘lsa, davolashni shifokor tanlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga immunoglobulinlarga tahlil. Och qoringa yaxshiroq, suv ichish mumkin."
+  }
+ ]
+}

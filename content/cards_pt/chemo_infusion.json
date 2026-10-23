@@ -1,0 +1,88 @@
+{
+ "title": "Quimioterapia: como é o tratamento",
+ "also": [
+  "quimio",
+  "quimioterapia",
+  "soro de quimioterapia",
+  "ciclo de quimioterapia"
+ ],
+ "what": "Os remédios contra o tumor entram pela veia, no soro. O tratamento é feito em ciclos: dias de tratamento e dias de descanso.",
+ "why": "Em doenças oncológicas, por decisão do oncologista.",
+ "duration": "um soro leva de 30 minutos a algumas horas; o tratamento dura algumas semanas ou meses",
+ "tell_doctor": [
+  "Todos os remédios, vitaminas e chás e ervas. Alguns não podem ser combinados com a quimioterapia",
+  "Febre, tosse ou infecção nos últimos dias",
+  "Como foi o ciclo anterior: enjoo, fraqueza, dormência",
+  "Gravidez ou planos de engravidar",
+  "Tratamento planejado com o dentista"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes de cada ciclo, normalmente se faz exame de sangue. Se ele vier ruim, o ciclo pode ser adiado."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode tomar um café da manhã leve. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nem acrescente nada por conta própria. Tome os remédios para enjoo conforme o esquema do médico."
+  },
+  {
+   "title": "Tempo",
+   "text": "O soro pode demorar. Leve água, um lanche e um livro."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documento de identidade",
+  "Lista de remédios",
+  "Água, lanche, manta, fones de ouvido"
+ ],
+ "steps": [
+  "A enfermeira confere os exames e como você está",
+  "Colocam um cateter na veia ou conectam no port",
+  "Primeiro dão remédios contra enjoo e alergia",
+  "Depois ligam o soro com a quimioterapia",
+  "A enfermeira acompanha como você está",
+  "No fim, o equipo é lavado e desconectado"
+ ],
+ "feel": [
+  "O soro em si normalmente não dói",
+  "Pode haver enjoo, fraqueza, mudança no paladar. Varia de um dia para outro",
+  "Se arder no local da aplicação, avise a enfermeira na hora"
+ ],
+ "after": [
+  "Beba água suficiente, se o médico não restringiu",
+  "Lave as mãos e evite contato com pessoas doentes",
+  "Anote como você está se sentindo e mostre ao médico",
+  "Tome os remédios para os efeitos colaterais conforme o esquema"
+ ],
+ "red_flags": [
+  "Febre de 38 °C ou mais: ligue na hora para o médico ou para a emergência",
+  "Falta de ar, manchas na pele, inchaço no rosto durante ou depois do soro: ligue para a emergência",
+  "Vômito que impede de beber, ou diarreia forte",
+  "Sangramento, manchas roxas sem motivo"
+ ],
+ "faq": [
+  {
+   "q": "O cabelo vai cair?",
+   "a": "Não com todos os remédios. O médico diz o que esperar no seu esquema."
+  },
+  {
+   "q": "Posso trabalhar durante a quimioterapia?",
+   "a": "Muita gente trabalha. Depende do esquema e de como você se sente. Converse com o médico."
+  },
+  {
+   "q": "Por que a febre é tão perigosa?",
+   "a": "A quimioterapia baixa a defesa contra infecções. Mesmo uma febre pequena exige ligar rápido para o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o soro de quimioterapia. Faça os exames, se for preciso. Leve água, um lanche e uma manta."
+  }
+ ]
+}

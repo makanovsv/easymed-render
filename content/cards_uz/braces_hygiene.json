@@ -1,0 +1,74 @@
+{
+ "title": "Breketlar bilan tishlarni tozalash",
+ "also": [
+  "breketlarga qarash",
+  "breketlarni qanday tozalash",
+  "breketlar bilan gigiena"
+ ],
+ "what": "Breketlar bilan ovqat osonroq tiqilib qoladi va tishlarni sinchiklab tozalash kerak. Buni uyda har kuni qanday qilish kerakligi mana.",
+ "why": "Breket taqqan barcha uchun — birinchi kundan yechilgunicha.",
+ "duration": "odatda ertalab va kechqurun 5–10 daqiqa",
+ "tell_doctor": [
+  "Milk qonasa yoki og‘risa",
+  "Breket ajralib qolsa yoki yoy sanchsa",
+  "Tishlarda oq dog‘lar paydo bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Cho‘tkalar",
+   "text": "Ortodontik cho‘tka (o‘yiqli), yoy ostidagi joy uchun kichik ershik."
+  },
+  {
+   "title": "Ip",
+   "text": "Qattiq uchli ip yoki irrigator — tishlar orasini tozalashga yordam beradi. Nimani tanlashni shifokor aytadi."
+  },
+  {
+   "title": "Pasta",
+   "text": "Shifokor boshqasini maslahat bermagan bo‘lsa, ftorli oddiy pasta."
+  }
+ ],
+ "bring": [
+  "Ortodontik cho‘tka",
+  "Ershiklar",
+  "Ip yoki irrigator",
+  "Ko‘zgu"
+ ],
+ "steps": [
+  "Ovqat qoldiqlarini yuvish uchun og‘izni suv bilan chayqang",
+  "Breketlar ustidagi tishlarni cho‘tkani pastga qaratib tozalang",
+  "Keyin — breketlar ostini cho‘tkani yuqoriga qaratib",
+  "Yoy ostidan, breketlar orasidan ershik bilan o‘ting",
+  "Tishlarning ichki tomonini tozalang",
+  "Tishlar orasidan ip yoki irrigator bilan o‘ting",
+  "Ko‘zguga qarang — ovqat qolmadimi"
+ ],
+ "feel": [
+  "Avvaliga uzoq vaqt oladi, keyin ko‘nikasiz",
+  "Dastlabki kunlarda milk biroz qonashi mumkin — muntazam tozalashda o‘tib ketadi"
+ ],
+ "after": [
+  "Imkon bo‘lsa, har ovqatdan keyin tozalang",
+  "Qattiq va yopishqoq narsalardan saqlaning: yong‘oq, irisk, saqich",
+  "Qattiq mevalarni bo‘laklab kesing",
+  "Stomatologda professional tozalash — shifokor jadvali bo‘yicha"
+ ],
+ "red_flags": [
+  "Breket ajralib qoldi yoki yoy yonoqni sanchyapti — shifokorga yoziling"
+ ],
+ "faq": [
+  {
+   "q": "Elektr cho‘tka bo‘ladimi?",
+   "a": "Bo‘ladi, mos nasadka bilan. Sekin va ehtiyotkorlik bilan harakatlaning."
+  },
+  {
+   "q": "Tishlarda oq dog‘lar qayerdan?",
+   "a": "Ko‘pincha breketlar atrofi yomon tozalanganidan. Shifokorga iloji boricha erta ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Uxlashdan oldin breketli tishlarni yuving: cho‘tka, ershik va ip."
+  }
+ ]
+}

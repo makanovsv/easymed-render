@@ -1,0 +1,84 @@
+{
+ "title": "Ponto no colo do útero (cerclagem)",
+ "also": [
+  "cerclagem",
+  "cerclagem uterina",
+  "ponto no colo do útero",
+  "costurar o colo do útero"
+ ],
+ "what": "O médico dá um ponto firme no colo do útero para que ele não abra antes da hora. Normalmente é feito pela vagina, com anestesia.",
+ "why": "Quando o colo do útero é fraco e há risco de perder a gravidez ou de parto prematuro.",
+ "duration": "o procedimento leva normalmente de 20 a 40 minutos; a internação costuma ser de 1 a 3 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias",
+  "Corrimento, sangramento ou contrações",
+  "Se já teve parto prematuro",
+  "Se já teve problemas com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Coleta de material vaginal, exames de sangue e ultrassom. A clínica passa a lista."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Normalmente se faz anestesia geral ou nas costas. O anestesista vai conversar com você."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come nem bebe por algumas horas antes. A clínica vai dizer o horário exato."
+  },
+  {
+   "title": "Pertences",
+   "text": "Absorventes, roupa confortável, chinelo e carregador."
+  }
+ ],
+ "bring": [
+  "Cartão da gestante e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para 1 a 3 dias no hospital"
+ ],
+ "steps": [
+  "Você troca de roupa e recebe um acesso na veia",
+  "O anestesista aplica a anestesia",
+  "Você fica deitada na mesa ginecológica",
+  "O médico dá um ponto em volta do colo do útero",
+  "Confere se o ponto está firme",
+  "Você vai para o quarto, e acompanham você e o bebê"
+ ],
+ "feel": [
+  "Depois do procedimento pode repuxar no pé da barriga",
+  "Nos primeiros dias pode haver um pequeno sangramento",
+  "Pode haver sonolência depois da anestesia"
+ ],
+ "after": [
+  "O médico vai dizer quanto repouso e esforço você pode ter",
+  "Relação sexual normalmente não é recomendada. Confirme com o médico",
+  "Consultas conforme o calendário",
+  "O ponto normalmente é retirado com 36 a 37 semanas, ou antes se o parto começar"
+ ],
+ "red_flags": [
+  "Contrações ou dor regular no pé da barriga: ligue para a emergência",
+  "Perda de líquido: ligue para a emergência",
+  "Sangramento",
+  "Febre acima de 38 graus"
+ ],
+ "faq": [
+  {
+   "q": "Dá para ter o parto com o ponto?",
+   "a": "Não. O ponto é retirado antes do parto. Se as contrações começarem, vá direto para a maternidade."
+  },
+  {
+   "q": "O procedimento é perigoso para o bebê?",
+   "a": "Há riscos, como em qualquer procedimento. O médico só faz quando o benefício é maior que o risco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o procedimento no colo do útero. Leve o cartão da gestante. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

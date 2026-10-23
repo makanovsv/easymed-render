@@ -1,0 +1,77 @@
+{
+ "title": "Avaliação objetiva da audição do bebê (BERA, ASSR)",
+ "also": [
+  "BERA",
+  "PEATE",
+  "ASSR",
+  "potencial evocado auditivo",
+  "exame de audição do bebê dormindo"
+ ],
+ "what": "Colam sensores na cabeça do bebê e colocam sons baixinhos nos ouvidos. O aparelho grava a resposta do cérebro e mostra como a criança ouve.",
+ "why": "Quando o bebê não passou no teste da orelhinha na maternidade, há risco de problema de audição ou é preciso saber o nível exato da audição.",
+ "duration": "normalmente 30 a 90 minutos, o laudo sai na hora ou no mesmo dia",
+ "tell_doctor": [
+  "Se o bebê não passou no teste da orelhinha na maternidade",
+  "Se há problemas de audição na família",
+  "Como foram a gravidez e o parto",
+  "Se há otite ou nariz escorrendo"
+ ],
+ "prepare": [
+  {
+   "title": "Sono",
+   "text": "O exame é feito com o bebê dormindo. Tente que ele não durma antes da consulta e chegue com sono."
+  },
+  {
+   "title": "Mamada",
+   "text": "É prático alimentar o bebê logo antes do exame. Depois de mamar ele dorme."
+  },
+  {
+   "title": "Saúde",
+   "text": "Se o bebê está com o nariz escorrendo ou com otite, ligue. O exame pode ser adiado."
+  },
+  {
+   "title": "Crianças maiores",
+   "text": "Às vezes o exame é feito durante o sono com uma sedação leve. O médico explica o preparo."
+  }
+ ],
+ "bring": [
+  "Mamadeira, ou esteja pronta para dar o peito",
+  "Um paninho e uma fralda",
+  "Uma mantinha",
+  "O relatório de alta da maternidade"
+ ],
+ "steps": [
+  "O bebê mama e é colocado para dormir",
+  "Limpam a pele da testa e de trás das orelhas",
+  "Colam alguns sensores pequenos",
+  "Colocam fones macios nos ouvidos",
+  "Enquanto o bebê dorme, tocam sons e gravam a resposta",
+  "Tiram os sensores"
+ ],
+ "feel": [
+  "Para o bebê não dói",
+  "Se o bebê acordar, o exame é pausado"
+ ],
+ "after": [
+  "Normalmente o resultado é dito na hora",
+  "Se a audição estiver baixa, o médico diz os próximos passos",
+  "Quanto antes se acha o problema, melhores os resultados do tratamento"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que o bebê precisa estar dormindo?",
+   "a": "Dormindo ele não se mexe, e o aparelho grava melhor os sinais fracos."
+  },
+  {
+   "q": "Se não passou no teste da orelhinha, quer dizer que não ouve?",
+   "a": "Não necessariamente. Muitas vezes é líquido no ouvido depois do parto. Este exame mostra com certeza."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o exame de audição do bebê. Leve-o com sono e dê de mamar antes do exame. Leve um paninho e uma fralda."
+  }
+ ]
+}

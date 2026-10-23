@@ -1,0 +1,76 @@
+{
+ "title": "Ateromani olib tashlash",
+ "also": [
+  "ateroma",
+  "yog‘ bo‘rtmasini olib tashlash",
+  "teri kistasini olib tashlash",
+  "teri ostidagi bo‘rtma"
+ ],
+ "what": "Ateroma: teri ostidagi quyuq mazmunli xaltacha. Jarroh uni mahalliy og‘riqsizlantirish ostida po‘sti bilan birga olib tashlaydi.",
+ "why": "Ateroma kattalashsa, xalaqit bersa, yallig‘lansa yoki yuz va bo‘yinda ko‘rinib tursa.",
+ "duration": "muolaja odatda 20–40 daqiqa; choklar odatda 7–10 kunda olinadi",
+ "tell_doctor": [
+  "Ateroma hozir yallig‘langan, og‘riyotgan yoki yiringlayotgan bo‘lsa",
+  "Qonni suyultiruvchi preparatlar: o‘zingiz bekor qilmang, shifokor hal qiladi",
+  "Og‘riqsizlantiruvchi va antiseptiklarga allergiya",
+  "Qandli diabet",
+  "Keloid chandiqlarga moyillik"
+ ],
+ "prepare": [
+  {
+   "title": "Tegmang",
+   "text": "Ateromani o‘zingiz siqmang: u yallig‘lanib ketishi mumkin."
+  },
+  {
+   "title": "Soch",
+   "text": "Ateroma boshda bo‘lsa, bir kun oldin sochni yuving."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Maxsus tayyorgarlik odatda kerak emas, ovqatlansa bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "UZI natijalari, agar qilingan bo‘lsa"
+ ],
+ "steps": [
+  "Jarroh hosilani ko‘radi",
+  "Teriga antiseptik bilan ishlov beriladi",
+  "Og‘riqsizlantiruvchi ukol qilinadi",
+  "Kichik kesim qilinadi va ateroma po‘sti bilan olib tashlanadi",
+  "Choklar va bog‘lam qo‘yiladi",
+  "Olib tashlangan to‘qima ba’zan tahlilga yuboriladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol: bir necha soniya achishish",
+  "Olib tashlash paytida bosim va tortilish, og‘riqsiz",
+  "Keyin joy 1–2 kun zirqiraydi"
+ ],
+ "after": [
+  "Bog‘lamni jarroh aytganidek quruq saqlang",
+  "Bog‘lashlar va choklarni olish: belgilangan kunlarda",
+  "To‘qima tahlili natijasi odatda 1–2 haftada"
+ ],
+ "red_flags": [
+  "Kuchli og‘riq, shish, yaradan yiring",
+  "Harorat 38 dan yuqori",
+  "Qon bog‘lamni shimdirib, to‘xtamasa"
+ ],
+ "faq": [
+  {
+   "q": "Ateroma qaytib kelishi mumkinmi?",
+   "a": "Po‘sti butunlay olib tashlangan bo‘lsa, odatda yo‘q. Shuning uchun uni kuchli yallig‘lanish bo‘lmaganda olib tashlashadi."
+  },
+  {
+   "q": "Yallig‘langan bo‘lsa, nega darhol olib tashlamaydi?",
+   "a": "Yallig‘lanishda avval yallig‘lanishni davolashadi yoki yiringlikni ochishadi. Ateromaning o‘zi keyinroq olib tashlanadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ateromani olib tashlash. Uni siqmang, hujjat va UZI’ni oling, agar bo‘lsa."
+  }
+ ]
+}

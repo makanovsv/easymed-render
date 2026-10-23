@@ -1,0 +1,84 @@
+{
+ "title": "Cirurgia de glaucoma",
+ "also": [
+  "trabeculectomia",
+  "cirurgia de glaucoma",
+  "cirurgia para baixar a pressão do olho"
+ ],
+ "what": "O cirurgião cria um novo caminho para o líquido sair do olho. Assim, a pressão dentro do olho diminui.",
+ "why": "No glaucoma, quando colírios e laser não baixam a pressão o suficiente.",
+ "duration": "a cirurgia leva normalmente de 45 a 90 minutos; você costuma ir para casa no mesmo dia ou em 1 a 2 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Quais colírios para glaucoma você usa",
+  "Alergias",
+  "Diabetes, doenças do coração e pressão",
+  "Se já operou esse olho"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Colírios",
+   "text": "Normalmente os colírios continuam até a cirurgia, mas alguns podem ser suspensos. Só com orientação do médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Se for com anestesia geral, a clínica vai dizer quanto tempo ficar sem comer."
+  },
+  {
+   "title": "Transporte",
+   "text": "Volte para casa só com acompanhante."
+  }
+ ],
+ "bring": [
+  "Documentos e pedido médico",
+  "Resultados dos exames",
+  "Lista de remédios e colírios",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Pingam colírio e aplicam anestesia perto do olho",
+  "Às vezes dão um calmante ou anestesia geral",
+  "As pálpebras são mantidas abertas com um afastador",
+  "O cirurgião cria um pequeno canal embaixo da pálpebra de cima",
+  "Dá pontos finos",
+  "O olho é coberto com um curativo"
+ ],
+ "feel": [
+  "Durante a cirurgia: pressão, mas não dor",
+  "Depois, sensação de algo no olho e vermelhidão",
+  "Nas primeiras semanas a visão pode ficar embaçada"
+ ],
+ "after": [
+  "Colírios exatamente como no esquema, muitas vezes várias vezes ao dia e por bastante tempo",
+  "Revisões frequentes, principalmente nas primeiras semanas",
+  "Não coce o olho e não carregue peso",
+  "Às vezes os pontos são ajustados ou retirados no consultório",
+  "Só o médico suspende os colírios de glaucoma desse olho"
+ ],
+ "red_flags": [
+  "Dor forte no olho, enjoo ou vômito: procure o médico com urgência",
+  "Piora repentina da visão",
+  "Pus ou vermelhidão forte, principalmente semanas depois da cirurgia: procure o médico com urgência",
+  "Dor de cabeça forte com dor no olho: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A cirurgia devolve a visão?",
+   "a": "Não. O que foi perdido pelo glaucoma não volta. A cirurgia ajuda a preservar o que resta."
+  },
+  {
+   "q": "Vou precisar de colírio depois?",
+   "a": "Às vezes não, às vezes sim. O médico decide pela pressão do olho."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia de glaucoma. Colírios como o médico disse. Vá com um acompanhante."
+  }
+ ]
+}

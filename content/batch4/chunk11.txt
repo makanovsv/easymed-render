@@ -1,0 +1,27 @@
+geneticist|visit|Приём генетика|Genetic counselling|office|L|3
+nutritionist|visit|Приём диетолога|Dietitian consultation|office|L|2
+sports_med|visit|Допуск к спорту|Sports medical clearance|office|L|2
+driver_cert|visit|Медкомиссия для водительских прав|Driver's medical exam|office|L|1
+work_cert|visit|Профосмотр для работы|Occupational health check|office|L|1
+school_cert|visit|Справка в школу и детский сад|School and kindergarten health form|office|L|1
+newborn_visit|visit|Первый осмотр новорождённого|Newborn first check|office|L|1
+baby_month|visit|Осмотр малыша в 1 месяц|One-month baby check|office|L|1
+teen_check|visit|Осмотр подростка|Teen health check|office|L|2
+elderly_check|visit|Профилактический осмотр после 60|Health check after 60|office|L|2
+telemed|visit|Онлайн-консультация врача|Online doctor consultation|home|L|1
+emergency|visit|Что делать в приёмном покое|What happens in the emergency room|ward|L|1
+ambulance|visit|Когда и как вызывать скорую|When and how to call an ambulance|home|L|1
+hospital_stay|visit|Госпитализация: что взять и что будет|Going into hospital: what to bring|ward|L|1
+discharge|visit|Выписка из больницы|Hospital discharge|ward|L|2
+vacc_hpv|vacc|Прививка от ВПЧ|HPV vaccine|proc_room|L|2
+vacc_hepb|vacc|Прививка от гепатита B|Hepatitis B vaccine|proc_room|L|2
+vacc_tetanus|vacc|Прививка от столбняка (АДС)|Tetanus booster|proc_room|L|2
+vacc_measles|vacc|Прививка от кори (КПК)|MMR vaccine|proc_room|L|1
+vacc_pneumo|vacc|Прививка от пневмококка|Pneumococcal vaccine|proc_room|L|2
+vacc_covid|vacc|Прививка от COVID-19|COVID-19 vaccine|proc_room|L|2
+vacc_travel|vacc|Прививки перед поездкой|Travel vaccines|proc_room|L|3
+vacc_rabies|vacc|Прививка от бешенства после укуса|Rabies vaccine after a bite|proc_room|M|2
+vacc_bcg|vacc|БЦЖ новорождённому|BCG vaccine for a newborn|proc_room|L|1
+vacc_rota|vacc|Прививка от ротавируса|Rotavirus vaccine|proc_room|L|2
+vacc_preg|vacc|Прививки при беременности|Vaccines in pregnancy|proc_room|L|2
+vacc_chickenpox|vacc|Прививка от ветрянки|Chickenpox vaccine|proc_room|L|3

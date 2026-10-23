@@ -1,0 +1,83 @@
+{
+ "title": "Glyukozani uzluksiz monitoring qilish datchigi (Libre, Dexcom)",
+ "also": [
+  "glyukoza datchigi",
+  "qand sensori",
+  "glyukoza monitoringi",
+  "qand uchun qo‘ldagi datchik",
+  "uzluksiz monitoring"
+ ],
+ "what": "Kichik datchik teriga mahkamlanadi va kecha-kunduz qandni telefonda yoki asbobda ko‘rsatib turadi. Barmoqni ancha kam sanchish kerak bo‘ladi.",
+ "why": "Qandli diabetda, qandni doim, jumladan tunda ham ko‘rib turish uchun.",
+ "duration": "o‘rnatish bir necha daqiqa; datchik odatda 1–2 hafta ishlaydi",
+ "tell_doctor": [
+  "Past qand tez-tez, ayniqsa tunda bo‘lib tursa",
+  "Plastir ostidagi teri bezovta bo‘lsa",
+  "MRT, KT yoki rentgen kutilayotgan bo‘lsa: datchik odatda yechiladi",
+  "Datchik ko‘rsatkichlari glyukometrdan farq qilsa"
+ ],
+ "prepare": [
+  {
+   "title": "Joy",
+   "text": "Odatda yelka yoki qorin: ko‘rsatmada qayerda ko‘rsatilgan bo‘lsa, o‘sha yerda. Teri toza, chandiq va xolsiz bo‘lsin."
+  },
+  {
+   "title": "Teri",
+   "text": "Joyni spirtli salfetka bilan arting va qurishini kuting. Bu joyga krem surtmang."
+  },
+  {
+   "title": "Telefon",
+   "text": "Ilovani oldindan o‘rnating va telefon zaryadlanganini tekshiring."
+  },
+  {
+   "title": "Glyukometr",
+   "text": "Glyukometrni qoldiring: o‘zingizni his qilish datchik raqamlariga mos kelmasa, kerak bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Yangi datchik va applikator",
+  "Spirtli salfetkalar",
+  "O‘qish uchun telefon yoki asbob",
+  "Glyukometr"
+ ],
+ "steps": [
+  "Qo‘llarni yuving va datchikning yaroqlilik muddatini tekshiring",
+  "Terini spirt bilan arting va quriguncha kuting",
+  "Applikatorni ko‘rsatma bo‘yicha tayyorlang",
+  "Applikatorni teriga qo‘yib bosing: datchik mahkamlanadi",
+  "Applikatorni ehtiyotkorlik bilan olib, plastirni silliqlang",
+  "Datchikni ilovada ulang",
+  "Isish vaqtini kuting: birinchi raqamlar darhol chiqmaydi"
+ ],
+ "feel": [
+  "Sanchiq deyarli sezilmaydi",
+  "Datchik teridagi dastlabki soatlarda sezilib turadi, keyin o‘rganib qolasiz"
+ ],
+ "after": [
+  "Datchikni kiyim bilan yirtib olmang: eshik oraliqlari va sumka bilan ehtiyot bo‘ling",
+  "Suzish va yuvinish odatda mumkin: ko‘rsatmadan aniqlashtiring",
+  "Raqamlar g‘alati tuyulsa, qandni glyukometr bilan tekshiring",
+  "Grafiklarni shifokorga ko‘rsating: u shu bo‘yicha davoni tanlaydi"
+ ],
+ "red_flags": [
+  "Titroq, ter, chalkashlik bo‘lsa, qandni tekshiring va datchik normani ko‘rsatsa ham shirin yeng",
+  "Datchik ostida qizarish, og‘riq yoki yiring bo‘lsa, uni yechib, shifokorga ko‘rining",
+  "Odam hushsiz yoki tutqanoqda bo‘lsa, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Endi barmoqni sanchish shart emasmi?",
+   "a": "Ancha kam. Barmoq o‘zingizni his qilish raqamlarga mos kelmasa yoki datchik so‘rasa tekshiriladi."
+  },
+  {
+   "q": "Datchik nega glyukometrdan boshqa raqamlarni ko‘rsatadi?",
+   "a": "Datchik teri ostidagi suyuqlikdagi qandni o‘lchaydi, u bir necha daqiqaga kechikadi. Kichik farq normal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga datchik muddati tugaydi. Yangisini va spirtli salfetkalarni tayyorlab qo‘ying."
+  }
+ ]
+}

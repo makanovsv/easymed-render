@@ -1,0 +1,72 @@
+{
+ "title": "Jarohatdan ekma",
+ "also": [
+  "jarohatdan bakekma",
+  "jarohatdan surtma",
+  "jarohat ajralmasi ekmasi",
+  "yiring ekmasi"
+ ],
+ "what": "Jarohatdan steril tayoqcha bilan surtma olinadi. Laboratoriyada mikroblar o‘stiriladi va ularga qaysi dorilar ta’sir qilishi tekshiriladi.",
+ "why": "Jarohat uzoq bitmaganda, yiringlaganda, qizarganda, og‘riganda yoki operatsiyadan keyin.",
+ "duration": "surtma 2–5 daqiqa, natija odatda 3–7 kunda",
+ "tell_doctor": [
+  "Antibiotik ichayotgan bo‘lsangiz yoki jarohatga antibakterial malhamlar surtsangiz",
+  "Diabetingiz bo‘lsa",
+  "Antiseptikka allergiya bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Malhamlar",
+   "text": "Odatda surtma olishdan oldin jarohatga malham surtilmaydi. Oxirgi bog‘lamni qachon qilishni shifokordan aniqlang."
+  },
+  {
+   "title": "Antibiotiklar",
+   "text": "Ekmani antibiotikdan oldin topshirgan yaxshi. O‘zingiz bekor qilmang — shifokorga ayting."
+  },
+  {
+   "title": "Bog‘lam",
+   "text": "Bog‘lamni uyda yechmang — uni hamshira yechadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Hamshira bog‘lamni yechadi",
+  "Jarohat steril eritma bilan yuviladi",
+  "Steril tayoqcha jarohat tubi bo‘ylab yurgiziladi",
+  "Tayoqcha probirkaga solinadi",
+  "Jarohatga yangi bog‘lam qo‘yiladi"
+ ],
+ "feel": [
+  "Jarohatga tekkanda og‘rishi mumkin — hamshiraga ayting",
+  "Odatda tez bo‘ladi"
+ ],
+ "after": [
+  "Jarohatga shifokor aytganidek qarang",
+  "Natija odatda 3–7 kunda",
+  "Natijaga qarab shifokor dorini almashtirishi mumkin"
+ ],
+ "red_flags": [
+  "Jarohat tez qizarsa, shishsa, teri bo‘ylab yo‘llar paydo bo‘lsa yoki harorat bo‘lsa — o‘sha kuni shifokorga",
+  "Kuchli holsizlik, titroq, es-hushning chalkashishi — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Davolash buyurilgan bo‘lsa, nega ekma kerak?",
+   "a": "U jarohatda aynan qaysi mikrob borligini va qaysi dorilarga javob berishini ko‘rsatadi. Shunda davolash aniqroq bo‘ladi."
+  },
+  {
+   "q": "Tahlildan oldin jarohatga malham surtsa bo‘ladimi?",
+   "a": "Odatda yo‘q — malham mikroblarni o‘ldirishi mumkin va ekma hech narsa ko‘rsatmaydi. Shifokordan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga jarohatdan ekma. Shifokor boshqacha demagan bo‘lsa, tahlildan oldin jarohatga malham surtmang."
+  }
+ ]
+}

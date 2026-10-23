@@ -1,0 +1,68 @@
+{
+ "title": "Inmunoglobulinas A, M y G",
+ "also": [
+  "inmunoglobulinas",
+  "IgA IgM IgG",
+  "prueba de defensas",
+  "anticuerpos totales"
+ ],
+ "what": "El análisis de sangre muestra cuánto hay de los tres tipos principales de anticuerpos. Te protegen de las infecciones.",
+ "why": "Con infecciones frecuentes o graves, si se sospechan problemas de las defensas, o en enfermedades del hígado, la sangre o las articulaciones.",
+ "duration": "la toma de sangre suele durar 5 minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Cada cuánto te enfermas y de qué",
+  "Si te pusieron inmunoglobulinas o te hicieron transfusiones",
+  "Si tomas corticoides o medicamentos que bajan las defensas",
+  "Si el análisis es para un niño, su edad: los valores normales en niños son distintos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente es mejor en ayunas o 4 horas después de comer; puedes tomar agua. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Salud",
+   "text": "Si ahora tienes una infección aguda, pregúntale al médico si conviene cambiar la fecha del análisis."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Análisis anteriores, si los tienes"
+ ],
+ "steps": [
+  "Te sientas y te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Toman sangre de la vena en un tubo",
+  "Quitan la liga y ponen un algodón"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "El resultado suele estar en 1 a 3 días",
+  "El médico valora el resultado según tu edad y tus enfermedades"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Inmunoglobulinas bajas significan inmunodeficiencia?",
+   "a": "No siempre. A veces bajan por un tiempo. El diagnóstico lo hace el médico con los análisis y con cómo te enfermas."
+  },
+  {
+   "q": "¿Se pueden subir las inmunoglobulinas con vitaminas?",
+   "a": "No. Si de verdad están bajas, el médico elige el tratamiento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de inmunoglobulinas. Mejor en ayunas. Puedes tomar agua."
+  }
+ ]
+}

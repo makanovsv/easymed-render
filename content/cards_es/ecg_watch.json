@@ -1,0 +1,74 @@
+{
+ "title": "Electrocardiograma con un reloj inteligente: cómo grabarlo y mostrarlo al médico",
+ "also": [
+  "electrocardiograma en el reloj",
+  "electrocardiograma con reloj inteligente",
+  "grabar un electrocardiograma con la pulsera",
+  "mostrar al médico el electrocardiograma del reloj"
+ ],
+ "what": "Algunos relojes inteligentes pueden grabar un electrocardiograma de una derivación en medio minuto. El registro se puede guardar y mostrar al médico.",
+ "why": "Cuando las palpitaciones o los latidos que se saltan llegan de repente y pasan antes de ir al médico. El registro ayuda a atrapar el momento.",
+ "duration": "cada registro dura más o menos 30 segundos",
+ "tell_doctor": [
+  "Qué mostró el reloj y cuándo",
+  "Qué sentías en el momento del registro",
+  "Qué medicamentos tomas",
+  "El reloj no reemplaza un electrocardiograma normal: el médico puede pedirlo además"
+ ],
+ "prepare": [
+  {
+   "title": "Configuración",
+   "text": "Activa con tiempo la función de electrocardiograma en la aplicación del reloj y haz la guía."
+  },
+  {
+   "title": "Correa",
+   "text": "El reloj debe quedar firme en la muñeca, con la piel seca y limpia."
+  },
+  {
+   "title": "Postura",
+   "text": "Durante el registro siéntate, apoya el brazo en la mesa y no hables."
+  }
+ ],
+ "bring": [
+  "El reloj y el teléfono con los registros",
+  "Los registros guardados en PDF, si la aplicación lo permite",
+  "Un diario: hora y sensaciones"
+ ],
+ "steps": [
+  "Siéntate y tranquilízate",
+  "Abre en el reloj la aplicación de electrocardiograma",
+  "Apoya el dedo de la otra mano en el botón o la corona del reloj",
+  "No te muevas unos 30 segundos, mientras graba",
+  "Agrega una nota de lo que sientes",
+  "Guarda o exporta el registro en PDF para el médico"
+ ],
+ "feel": [
+  "No se siente nada: el reloj solo registra",
+  "Puede que el registro no salga si mueves la mano; solo repítelo"
+ ],
+ "after": [
+  "Muestra los registros al médico junto con el diario",
+  "Aunque el reloj diga «normal» y tú te sientas mal, acude al médico",
+  "El reloj no hace un diagnóstico; lo hace el médico"
+ ],
+ "red_flags": [
+  "Dolor o presión en el pecho, falta de aire, desmayo: llama a emergencias, no pierdas tiempo grabando",
+  "Palpitaciones muy rápidas que no se quitan"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo confiar en el electrocardiograma del reloj?",
+   "a": "Es una buena pista para el médico, pero no es un electrocardiograma completo. Lo decide al final el médico."
+  },
+  {
+   "q": "¿Cómo le muestro el registro al médico?",
+   "a": "Normalmente en la aplicación del teléfono se puede guardar el registro en PDF y enviarlo o imprimirlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes consulta con el médico. Guarda en PDF los registros de electrocardiograma del reloj y lleva el diario de sensaciones."
+  }
+ ]
+}

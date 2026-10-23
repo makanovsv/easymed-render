@@ -1,0 +1,66 @@
+{
+ "title": "Qondagi magniy",
+ "also": [
+  "magniy",
+  "magniyga tahlil"
+ ],
+ "what": "Bu tomirdan olinadigan qon tahlili. U mushaklar, nervlar va yurak uchun kerak bo‘lgan magniy miqdorini ko‘rsatadi.",
+ "why": "Tutqanoqlarda, yurak uzilishlarida, holsizlikda, siydik haydovchilarni qabul qilganda, buyrak va ichak kasalliklarida.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda ertasi kuni",
+ "tell_doctor": [
+  "Magniy yoki boshqa qo‘shimchalar ichsangiz",
+  "Qanday dorilar ichasiz — ayniqsa siydik haydovchi va jig‘ildonga qarshi",
+  "So‘nggi kunlarda qusish yoki ich ketishi bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa: 8–12 soat ovqatsiz. Oddiy suv ichish mumkin. Laboratoriyadan aniqlab oling."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir sutka alkogolsiz va og‘ir mashqlarsiz. Ertalab chekmagan ma’qul."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — biror narsani o‘zgartirish kerakmi, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Siz o‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut tortiladi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon probirkaga olinadi",
+  "Igna olinadi, joyiga paxta qo‘yiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darrov ovqatlanib, odatdagi ishlaringizga qaytishingiz mumkin",
+  "Natija odatda 1 kundan keyin — muddatni laboratoriya aytadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Magniy normada bo‘lsa, demak yetarlimi?",
+   "a": "Odatda ha, lekin qonda magniyning faqat kichik qismi bo‘ladi. Shuning uchun shifokor shikoyatlarni ham baholaydi."
+  },
+  {
+   "q": "Tahlildan oldin magniy ichish kerakmi?",
+   "a": "Qabulni o‘zingiz o‘zgartirmang. Nima ichayotganingizni shifokorga ayting — u hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga magniyga tahlil. Kechki ovqatdan keyin boshqa yemang, oddiy suv ichish mumkin."
+  }
+ ]
+}

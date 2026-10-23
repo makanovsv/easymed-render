@@ -1,0 +1,77 @@
+{
+ "title": "Osteoporozni tekshirish va davolash",
+ "also": [
+  "osteoporoz",
+  "mo‘rt suyaklar",
+  "suyak zichligini tekshirish",
+  "densitometriya va davolash"
+ ],
+ "what": "Shifokor suyaklaringiz qanchalik mustahkamligini tekshiradi va kerak bo‘lsa, sinish xavfini kamaytirish uchun davolash buyuradi.",
+ "why": "Menopauzadan keyingi ayollarga, 65 yoshdan oshganlarga, kichik jarohatdan keyin sinish bo‘lganda, gormonlarni uzoq ichganda.",
+ "duration": "qabul odatda 20–30 daqiqa, densitometriya — taxminan 10–20 daqiqa, natija odatda o‘sha kuni",
+ "tell_doctor": [
+  "O‘z bo‘yingiz balandligidan yiqilganda sinishlar bo‘lganmi",
+  "Ota-onada son suyagi sinishi bo‘lganmi",
+  "Gormonlar, tutqanoqqa qarshi dorilar va boshqa doimiy dorilarni ichasizmi",
+  "Menopauza qachon boshlangan",
+  "Bo‘y qisqarganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Densitometriya",
+   "text": "Suyak zichligini tekshirishdan oldin odatda bir kun oldin kaltsiy ichilmaydi. Klinikadan aniqlang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Metall qisqichlar, to‘qalar va zamoklarsiz."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Oldingi suratlar va densitometriyalarni oling — ular taqqoslanadi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Oldingi densitometriya natijalari",
+  "Dorilar va qo‘shimchalar ro‘yxati",
+  "Qon tahlillari, qilingan bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor sinishlar, kasalliklar va dorilar haqida so‘raydi",
+  "Bo‘y va vaznni o‘lchaydi",
+  "Densitometriyaga yo‘llaydi — suyaklarning maxsus tez rentgeni",
+  "Qon tahlillarini buyurishi mumkin",
+  "Natija va sinish xavfini tushuntiradi",
+  "Davolash hamda ovqatlanish va harakat bo‘yicha maslahatlar buyuradi"
+ ],
+ "feel": [
+  "Densitometriya og‘riqsiz, shunchaki qimirlamay yotish kerak",
+  "Unda nurlanish dozasi juda kichik"
+ ],
+ "after": [
+  "Davolash odatda uzoq — bir necha yil",
+  "Dorilarni o‘zingiz bekor qilmang",
+  "Takroriy densitometriya odatda 1–2 yildan keyin qilinadi",
+  "Uyda yiqilishdan saqlanish muhim"
+ ],
+ "red_flags": [
+  "Kichik zo‘riqish yoki yiqilishdan keyin orqada birdan og‘riq — shifokorga",
+  "Sonda kuchli og‘riq, yiqilgandan keyin turolmayapsiz — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Osteoporoz og‘riydimi?",
+   "a": "O‘zi odatda yo‘q. Ko‘pincha uni faqat sinishdan keyin topishadi."
+  },
+  {
+   "q": "Tabletkalardagi kaltsiy yetarlimi?",
+   "a": "Kaltsiy ham, D vitamini ham, harakat ham kerak. Dozani shifokor tanlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga osteoporoz bo‘yicha qabul. Oldingi densitometriyalar va dorilar ro‘yxatini oling."
+  }
+ ]
+}

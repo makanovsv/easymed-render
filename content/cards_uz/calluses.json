@@ -1,0 +1,76 @@
+{
+ "title": "Qadoq va g‘altak terini olib tashlash (tibbiy pedikyur)",
+ "also": [
+  "qadoqni olib tashlash",
+  "oyoq qadog‘i",
+  "tibbiy pedikyur",
+  "tovondagi qadoq",
+  "apparatli pedikyur"
+ ],
+ "what": "Mutaxassis oyoq kafti va barmoqlaridagi qalinlashgan teri va qadoqlarni ehtiyotkorlik bilan oladi. Yurish og‘riqli bo‘lganda bu yordam beradi.",
+ "why": "Qalin teri, ildizli qadoq, tovon yoriqlarida hamda diabetda oyoqlarni ehtiyot qilib parvarishlash uchun.",
+ "duration": "odatda 30–60 daqiqa",
+ "tell_doctor": [
+  "Diabetingiz yoki oyoqlarda qon aylanishi muammosi bo‘lsa",
+  "Qonni suyultiruvchi dorilar ichsangiz",
+  "Oyoq sezgisi pasaygan bo‘lsa",
+  "Zamburug‘, yarachalar yoki tirnoq o‘sib kirishi bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Oyoqlar",
+   "text": "Muolajadan oldin o‘zingiz qadoqlarni ivitmang va kesmang."
+  },
+  {
+   "title": "Poyabzal",
+   "text": "Eng ko‘p kiyadigan poyabzalingizni olib keling: mutaxassis nima ishqalayotganini ko‘radi."
+  },
+  {
+   "title": "Diabet",
+   "text": "Diabetda qadoqlarni uyda tig‘ bilan kesmang, faqat mutaxassisga ko‘rsating."
+  }
+ ],
+ "bring": [
+  "Odatiy poyabzal",
+  "Dorilar ro‘yxati",
+  "Almashtirish uchun paypoq"
+ ],
+ "steps": [
+  "Mutaxassis oyoq va tirnoqlarni ko‘zdan kechiradi",
+  "Teriga antiseptik bilan ishlov beriladi",
+  "Qalin terini yumshatuvchi vosita surtiladi",
+  "Qadoq va qalin terini apparat yoki asbob bilan olishadi",
+  "Oyoqlarga ishlov berib, krem surtishadi",
+  "Mutaxassis oyoqqa tushadigan yukni qanday kamaytirishni maslahat beradi"
+ ],
+ "feel": [
+  "Odatda og‘riqsiz, yengil issiqlik yoki titroq sezilishi mumkin",
+  "Ildizli qadoqni olish ba’zan noqulay"
+ ],
+ "after": [
+  "Har kuni oyoq kremidan foydalaning",
+  "O‘lchamiga mos qulay poyabzal kiying",
+  "Yumshoq qistirmalar va tagliklar bosimni kamaytiradi",
+  "Sabab saqlansa, qadoqlar qaytadi: parvarishni takrorlang"
+ ],
+ "red_flags": [
+  "Qadoq o‘rnida qizarish, shish, og‘riq va yiring bo‘lsa, shifokorga boring",
+  "Diabetda oyoqdagi bitmayotgan har qanday yara bo‘lsa, darhol shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Qadoq nega qaytadi?",
+   "a": "Uni poyabzal bosimi yoki oyoq tuzilishining o‘ziga xosligi keltirib chiqaradi. Sababni bartaraf etish kerak: taglik, poyabzal."
+  },
+  {
+   "q": "Diabetda pedikyur qilish mumkinmi?",
+   "a": "Ha, mutaxassisda tibbiy pedikyur. O‘zingiz tig‘ va pemza bilan qattiq kesmang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga tibbiy pedikyur. Uyda hech narsa kesmang, odatiy poyabzalingizni olib keling."
+  }
+ ]
+}

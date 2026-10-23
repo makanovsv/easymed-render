@@ -1,0 +1,70 @@
+{
+ "title": "Examen médico para portar armas",
+ "also": [
+  "certificado para armas",
+  "examen médico para licencia de armas",
+  "certificado médico para armas",
+  "certificado para permiso de caza"
+ ],
+ "what": "Es una revisión médica sin la cual no entregan ni renuevan el permiso de armas. Normalmente incluye varios médicos y un análisis.",
+ "why": "Para obtener o renovar la licencia de armas.",
+ "duration": "normalmente de 1 a 2 días; el resultado del análisis sale en unos días",
+ "tell_doctor": [
+  "Enfermedades de los ojos y cómo ves",
+  "Enfermedades del sistema nervioso y de salud mental",
+  "Qué medicamentos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Lista de médicos",
+   "text": "Normalmente hacen falta un médico general o de medicina del trabajo, oftalmólogo, psiquiatra y especialista en adicciones. Confirma la lista exacta en la clínica."
+  },
+  {
+   "title": "Análisis",
+   "text": "A menudo se hace un análisis de orina para detectar drogas y sustancias fuertes. Dile al médico todos los medicamentos que tomas."
+  },
+  {
+   "title": "Un día antes",
+   "text": "No tomes alcohol. No suspendas los medicamentos por tu cuenta."
+  }
+ ],
+ "bring": [
+  "Identificación",
+  "Lentes o lentes de contacto, si los usas",
+  "Fotos, si la clínica las pide",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Llegas a la clínica donde dan este certificado",
+  "Pasas con el oftalmólogo: revisión de la vista",
+  "El psiquiatra te hace preguntas y a veces pruebas",
+  "El especialista en adicciones te examina",
+  "Entregas una muestra de orina para el análisis",
+  "El médico general o de medicina del trabajo redacta el informe"
+ ],
+ "feel": [
+  "Todas las revisiones son sin dolor",
+  "La charla con el psiquiatra son preguntas comunes; no hay que preocuparse"
+ ],
+ "after": [
+  "El certificado se entrega después de todas las revisiones y del análisis",
+  "Pregunta cuánto tiempo es válido el certificado y entrega los documentos a tiempo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo pasar con el psiquiatra y el especialista en adicciones en cualquier clínica?",
+   "a": "Normalmente hace falta una clínica con autorización para dar estos informes. Pregunta con anticipación."
+  },
+  {
+   "q": "¿Los medicamentos afectan el análisis?",
+   "a": "Algunos pueden. Dile siempre al médico qué tomas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu examen médico para portar armas. No tomes alcohol, lleva tu identificación y tus lentes, si los usas."
+  }
+ ]
+}

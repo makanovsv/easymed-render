@@ -1,0 +1,79 @@
+{
+ "title": "PICC-kateter o‘rnatish",
+ "also": [
+  "PICC",
+  "PIK-kateter",
+  "periferik kiritiladigan markaziy kateter",
+  "qo‘lga uzoq kateter"
+ ],
+ "what": "Qo‘ldagi vena orqali uzun ingichka kateter qo‘yiladi, uning uchi yurak yonidagi yirik venaga yetadi. U haftalar va oylar turishi mumkin.",
+ "why": "Vena orqali uzoq davolash uchun: ximioterapiya, antibiotiklar, ovqatlantirish, qonni tez-tez tahlil qilish.",
+ "duration": "o‘rnatish odatda 30–60 daqiqa; kateter davolash uchun kerakli muddat turadi",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar",
+  "Mahalliy og‘riqsizlantirish, antiseptiklar, plasterga allergiya",
+  "Ko‘krak yoki qo‘ltiq ostida operatsiyalar, bir tomondan olib tashlangan limfa tugunlari",
+  "O‘tmishda qo‘l venalarida tromblar",
+  "Buyrak kasalliklari — ba’zan bu qo‘lni tanlashga ta’sir qiladi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda doimgidek yesa bo‘ladi. Klinikadan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Qon uchun preparatlar haqida shifokor aytadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng yengli yoki tugmali."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Yotasiz, qo‘l yon tomonga qo‘yiladi",
+  "Vena UZI da topiladi",
+  "Teri ishlanadi va ukol bilan og‘riqsizlantiriladi",
+  "Shifokor yoki hamshira kateterni venaga kiritadi va yurak tomon suradi",
+  "Uchining holati EKG yoki rentgen bilan tekshiriladi",
+  "Kateter teriga mahkamlanadi va shaffof bog‘lam bilan yopiladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol",
+  "Kiritilganda qo‘lda bosim, odatda og‘rimaydi",
+  "Bir-ikki kun qo‘l biroz zirqirashi mumkin"
+ ],
+ "after": [
+  "Bog‘lam odatda haftada bir marta almashtiriladi, kateter yuviladi — klinikada yoki uyda hamshira",
+  "Bog‘lamni ho‘llab bo‘lmaydi: dushda qo‘lni plyonka bilan yoping",
+  "Bu qo‘l bilan og‘ir ko‘tarmang va suzmang",
+  "Bu qo‘ldan bosim o‘lchash va tahlillar — faqat klinika qoidalari bo‘yicha"
+ ],
+ "red_flags": [
+  "Qo‘l, bo‘yin yoki yuzda shish, og‘riq yoki qizarish",
+  "Harorat, titroq — darhol shifokorga qo‘ng‘iroq qiling",
+  "Kateter chiqib ketdi, sindi yoki oqyapti",
+  "Birdan nafas qisilishi yoki ko‘krak og‘rig‘i — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "PICC bilan oddiy hayot kechirsa bo‘ladimi?",
+   "a": "Ha, deyarli. Bog‘lamni ho‘llash, suzish va bu qo‘l bilan og‘ir ko‘tarish mumkin emas."
+  },
+  {
+   "q": "Olib tashlash og‘riydimi?",
+   "a": "Odatda yo‘q. Kateter shunchaki tortib olinadi, bu bir daqiqa oladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga PICC-kateter o‘rnatish. Keng yengli kiyim kiying, dorilar ro‘yxatini oling."
+  }
+ ]
+}

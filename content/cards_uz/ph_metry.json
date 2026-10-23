@@ -1,0 +1,76 @@
+{
+ "title": "Sutkalik pH-metriya",
+ "also": [
+  "pH-metriya",
+  "sutkalik pH-metriya",
+  "pH-impedansometriya",
+  "reflyuksga test",
+  "sutkaga zond"
+ ],
+ "what": "Burun orqali qizilo‘ngachga ingichka zond qo‘yiladi va sutkaga qoldiriladi. Asbob oshqozondagi kislota qizilo‘ngachga qanchalik tez-tez tushishini yozib boradi.",
+ "why": "Davolashdan o‘tmayotgan jig‘ildonda, sababi noma’lum yo‘tal yoki ko‘krak og‘rig‘ida, reflyuksga qarshi operatsiyadan oldin.",
+ "duration": "zond qo‘yish — taxminan 15 daqiqa, taqish odatda 24 soat; xulosa odatda bir necha kunda",
+ "tell_doctor": [
+  "Barcha dorilar, ayniqsa jig‘ildon va kislotalilikka qarshi — ularni vaqtincha ichmaslik kerakmi, shifokor aytadi",
+  "Qizilo‘ngach va oshqozonda operatsiyalar, burun bilan muammolar",
+  "Zondlarni yomon ko‘tarsangiz",
+  "Qonni suyultiruvchi dorilar ichsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Jig‘ildonga qarshi dorilar",
+   "text": "Ularni ko‘pincha testdan bir necha kun oldin ichishmaydi. O‘zingiz bekor qilmang — shifokor hal qiladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda zond qo‘yishdan 4–6 soat oldin yemaslik kerak. Klinikadan aniqlang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Asbob uchun cho‘ntakli yoki kamarli qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi gastroskopiya va manometriya xulosalari",
+  "Dorilar ro‘yxati",
+  "Kundalik va ruchka — odatda klinikada berishadi"
+ ],
+ "steps": [
+  "Burun va tomoq og‘riqsizlantiruvchi bilan ishlanadi",
+  "Ingichka zond burun orqali kiritiladi, siz suv ho‘playsiz",
+  "Zond uchi yonoqqa plaster bilan yopishtiriladi",
+  "Asbob belga osiladi",
+  "Uyga ketasiz va odatdagi kuningizni o‘tkazasiz",
+  "Kundalikda ovqat, uyqu, jig‘ildon, og‘riqni belgilaysiz",
+  "Sutkadan keyin qaytasiz, zond soniyalarda olinadi"
+ ],
+ "feel": [
+  "Zondni kiritish noxush: ko‘zdan yosh keladi, aksirgingiz yoki yo‘talgingiz keladi",
+  "Keyin zondga ko‘nikiladi, lekin yutish biroz odatiy emas"
+ ],
+ "after": [
+  "Olingandan keyin darhol odatiy hayot",
+  "Jig‘ildonga qarshi dorilar — shifokor ko‘rsatmasi bo‘yicha",
+  "Xulosa odatda bir necha kunda"
+ ],
+ "red_flags": [
+  "Burundan to‘xtamaydigan qon ketishi, ko‘krakda kuchli og‘riq — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Zond bilan yesa bo‘ladimi?",
+   "a": "Ha, odatdagidek yeyish kerak — shunda test haqiqiy manzarani ko‘rsatadi. Nordon va gazlangan ichimliklarni ko‘pincha chiqarib tashlashni so‘rashadi."
+  },
+  {
+   "q": "Asbob bilan yuvinsa bo‘ladimi?",
+   "a": "Yo‘q, asbobni ho‘llab bo‘lmaydi. Dush — qo‘yishdan oldin va olingandan keyin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga sutkalik pH-metriya. Klinika aytgan vaqt davomida yemang. Jig‘ildonga qarshi dorilar haqida shifokordan so‘rang."
+  }
+ ]
+}

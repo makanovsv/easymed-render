@@ -1,0 +1,68 @@
+{
+ "title": "Lazeroterapiya",
+ "also": [
+  "davolovchi lazer",
+  "lazer bilan davolash",
+  "past intensivlikdagi lazer",
+  "magnitolazer"
+ ],
+ "what": "Mutaxassis og‘riyotgan joyga kuchsiz lazer nurini yo‘naltiradi. U kesmaydi va kuydirmaydi, to‘qimalarning tiklanishiga yordam beradi.",
+ "why": "Bo‘g‘im va mushaklarda og‘riqda, jarohatlardan keyin, uzoq bitmaydigan yaralarda — shifokor buyrug‘i bilan.",
+ "duration": "muolaja odatda 5–15 daqiqa; kurs odatda taxminan 10 muolaja",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz",
+  "O‘sha hududda xol yoki o‘smalar bo‘lsa",
+  "Yorug‘likka sezgirlikni oshiradigan dorilar ichsangiz",
+  "Harorat ko‘tarilgan bo‘lsa",
+  "Onkologik kasalliklar"
+ ],
+ "prepare": [
+  {
+   "title": "Teri",
+   "text": "Muolaja joyida teri toza, kremsiz va upa-eliksiz bo‘lsin."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay, kerakli joyni ochish uchun."
+  }
+ ],
+ "bring": [
+  "Shifokor yo‘llanmasi",
+  "Qulay kiyim"
+ ],
+ "steps": [
+  "Siz qulay yotasiz yoki o‘tirasiz",
+  "Sizga himoya ko‘zoynagi berilishi mumkin",
+  "Nasadka teriga qo‘yiladi yoki yaqinida ushlab turiladi",
+  "Apparat har bir nuqtada bir necha daqiqa ishlaydi",
+  "Muolaja signal bilan tugaydi"
+ ],
+ "feel": [
+  "Odatda hech narsa sezilmaydi",
+  "Ba’zan — yengil issiqlik"
+ ],
+ "after": [
+  "Darrov odatdagi ishlaringizga qaytishingiz mumkin",
+  "Kursning dastlabki kunlarida quyoshda toblanmang — shifokordan aniqlab oling",
+  "Muolajalarga jadval bo‘yicha boring — kurs muhim"
+ ],
+ "red_flags": [
+  "Muolaja joyida kuyish yoki kuchli qizarish — shifokorga ko‘rsating"
+ ],
+ "faq": [
+  {
+   "q": "Lazer ko‘zga xavfli emasmi?",
+   "a": "Nurga qarash mumkin emas, shuning uchun ko‘zoynak berishadi. Teri uchun bunday lazer xavfsiz."
+  },
+  {
+   "q": "Bu og‘riydimi?",
+   "a": "Yo‘q. Odatda hech narsa sezilmaydi yoki faqat yengil issiqlik."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Bugun lazeroterapiya. Teri kremsiz bo‘lsin, yo‘llanmani oling."
+  }
+ ]
+}

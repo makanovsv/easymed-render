@@ -1,0 +1,78 @@
+{
+ "title": "Kuygan joyni bog‘lash",
+ "also": [
+  "kuyishda bog‘lash",
+  "kuygan joyni davolash",
+  "kuyish uchun bog‘lam almashtirish",
+  "kuygan yarani parvarishlash"
+ ],
+ "what": "Hamshira yoki shifokor kuygan terini tozalaydi va maxsus bog‘lam qo‘yadi. Bu yaraning bitishiga yordam beradi va infeksiyadan saqlaydi.",
+ "why": "Pufakli kuyishlarda, yuz, kaft va oyoq kuyishlarida, bolalarda hamda travmpunktda birinchi yordamdan keyin.",
+ "duration": "bitta bog‘lash odatda 15–30 daqiqa; kuyish bitguncha takrorlanadi",
+ "tell_doctor": [
+  "Nima bilan va qachon kuyganingizni",
+  "Harorat ko‘tarilgan bo‘lsa",
+  "Qandli diabet bo‘lsa",
+  "Dori yoki plastirga allergiya bo‘lsa",
+  "Qoqsholga qarshi emlash qachon qilinganini"
+ ],
+ "prepare": [
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Bog‘lash og‘riqli bo‘lsa, oldindan og‘riq qoldiruvchi ichish mumkinligini shifokordan so‘rang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Kuygan joyni ishqalamaydigan erkin kiyim."
+  },
+  {
+   "title": "Uyda",
+   "text": "Kuygan joyga yog‘, krem va xalq vositalarini surtmang, faqat shifokor buyurganini ishlating."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Shifokor buyurgan vositalar, agar olib kelish so‘ralgan bo‘lsa",
+  "Almashtirish uchun erkin kiyim"
+ ],
+ "steps": [
+  "Eski bog‘lamni ehtiyotkorlik bilan olishadi, yopishib qolgan bo‘lsa namlab yumshatishadi",
+  "Yarani ko‘rikdan o‘tkazishadi",
+  "Terini eritma bilan yuvishadi",
+  "Kerak bo‘lsa, ko‘chgan terini olib tashlashadi",
+  "Davolovchi malham yoki maxsus bog‘lam qo‘yishadi",
+  "Keyingi bog‘lashga qachon kelishni aytishadi"
+ ],
+ "feel": [
+  "Og‘riq bo‘lishi mumkin, ayniqsa eski bog‘lam olinayotganda",
+  "Og‘risa ayting: tanaffus qilishadi yoki og‘riq qoldiruvchi berishadi",
+  "Bog‘lagandan keyin achishish odatda pasayadi"
+ ],
+ "after": [
+  "Ruxsatsiz bog‘lamni ho‘llamang va o‘zingiz yechmang",
+  "Pufaklarni uyda teshmang",
+  "Bog‘lashga jadval bo‘yicha keling",
+  "Bitgandan keyin terini quyoshdan asrang"
+ ],
+ "red_flags": [
+  "Harorat 38 dan yuqori, titroq",
+  "Yara juda qizarsa, shishsa, yoqimsiz hid chiqsa yoki yiring bo‘lsa",
+  "Kuyish katta bo‘lsa, yuzda yoki chov sohasida bo‘lsa, bola holsiz bo‘lsa, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Pufakni teshish mumkinmi?",
+   "a": "Uyda yo‘q. Pufak yarani himoya qiladi. Kerak bo‘lsa, shifokor o‘zi ishlov beradi."
+  },
+  {
+   "q": "Chandiq qoladimi?",
+   "a": "Yuzaki kuyishlar odatda chandiqsiz bitadi. Chuqur kuyishlar iz qoldirishi mumkin, shifokor uni qanday parvarish qilishni aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada kuygan joyni bog‘lash. Og‘riqli bo‘lsa, shifokordan oldindan og‘riq qoldiruvchi haqida so‘rang."
+  }
+ ]
+}

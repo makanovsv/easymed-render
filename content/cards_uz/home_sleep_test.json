@@ -1,0 +1,71 @@
+{
+ "title": "Uyda uyqu apnoesi testi",
+ "also": [
+  "uyda apnoe testi",
+  "kardiorespirator monitoring",
+  "uyquning respirator monitoringi",
+  "kechasi xurrakni tekshirish"
+ ],
+ "what": "Uyga kichik asbob olib ketasiz va u bilan bir kecha uxlaysiz. U nafas, kislorod va pulsni yozib boradi.",
+ "why": "Baland xurrak, uyquda nafas to‘xtashi va kunduzgi kuchli uyquchanlikda.",
+ "duration": "uyda bir kecha, xulosa odatda bir necha kunda",
+ "tell_doctor": [
+  "Uyqu dorilari yoki tinchlantiruvchi ichayotgan bo‘lsangiz",
+  "Yurak yoki o‘pka kasalliklari bo‘lsa",
+  "Tungi smenada ishlasangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Kechqurun",
+   "text": "Shifokor ruxsat bermagan bo‘lsa, alkogolsiz va uyqu dorilarisiz. Odatdagi vaqtda yoting."
+  },
+  {
+   "title": "Barmoqlar",
+   "text": "Datchik taqiladigan tirnoqdan lakni oling."
+  },
+  {
+   "title": "Asbob",
+   "text": "Hamshira datchiklarni qanday taqishni ko‘rsatadi. Yozib olishni yoki suratga olishni so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Dorilar ro‘yxati",
+  "Asbobni qaytarish uchun paket"
+ ],
+ "steps": [
+  "Klinikada sizga asbob va uni qanday taqishni ko‘rsatishadi",
+  "Kechqurun uxlashdan oldin ko‘krakka datchikli kamar taqasiz",
+  "Burun ostiga ingichka naycha, barmoqqa kislorod datchigi qo‘yasiz",
+  "Asbobni yoqib, odatdagidek uxlaysiz",
+  "Ertalab datchiklarni yechib, asbobni o‘chirasiz",
+  "Asbobni o‘sha kuni klinikaga qaytarasiz"
+ ],
+ "feel": [
+  "Og‘riq yo‘q",
+  "Dastlabki daqiqalarda g‘alati, lekin ko‘pchilik xotirjam uxlab qoladi",
+  "Burun ostidagi naycha xalaqit berishi mumkin"
+ ],
+ "after": [
+  "Xulosa odatda bir necha kun oladi",
+  "Natija bilan shifokorga boring — u tushuntiradi va davo taklif qiladi",
+  "Tunda datchik tushib ketgan bo‘lsa — asbobni topshirganda ayting"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Yomon uxlagan bo‘lsam-chi?",
+   "a": "Odatda bir necha soat uyqu yetarli. Yozuv oz bo‘lsa, test takrorlanishi mumkin."
+  },
+  {
+   "q": "Bu laboratoriyadagi uyqudan nimasi bilan farq qiladi?",
+   "a": "Uyda datchiklar kamroq va o‘z to‘shagingizda uxlaysiz. Ba’zi odamlarga shifokor baribir uyqu laboratoriyasida tekshiruv buyuradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Bugun kechasi uyqu testi. Kechqurun alkogolsiz. Datchiklarni ko‘rsatilganidek taqing va asbobni yoqing."
+  }
+ ]
+}

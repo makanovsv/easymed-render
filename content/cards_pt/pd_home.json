@@ -1,0 +1,81 @@
+{
+ "title": "Diálise peritoneal em casa",
+ "also": [
+  "diálise peritoneal",
+  "DP",
+  "diálise em casa",
+  "diálise pela barriga"
+ ],
+ "what": "Por um tubo na barriga, coloca-se uma solução especial. Ela retira o excesso do sangue e depois é drenada. Isso é feito em casa, pela própria pessoa.",
+ "why": "Na insuficiência renal grave, quando é mais prático tratar em casa do que ir à unidade.",
+ "duration": "uma troca de solução leva normalmente 30 a 40 minutos, algumas vezes por dia; ou à noite, com uma máquina, durante o sono",
+ "tell_doctor": [
+  "Se a solução ficou turva",
+  "Dor na barriga ou febre",
+  "Mudança de peso, inchaço, falta de ar",
+  "Vermelhidão em volta do tubo"
+ ],
+ "prepare": [
+  {
+   "title": "Treinamento",
+   "text": "Antes de começar, você e a família recebem treinamento na clínica. Faça como ensinaram."
+  },
+  {
+   "title": "Limpeza",
+   "text": "Um lugar limpo e separado, janelas fechadas, sem animais por perto durante a troca."
+  },
+  {
+   "title": "Mãos",
+   "text": "Antes de cada troca, lave bem as mãos e coloque a máscara."
+  },
+  {
+   "title": "Estoque",
+   "text": "Guarde as soluções como a clínica disser e confira a validade."
+  }
+ ],
+ "bring": [
+  "Anotações de peso, pressão e volumes drenados, para a consulta",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você lava as mãos, coloca a máscara e prepara o lugar",
+  "Conecta a bolsa de solução aquecida ao tubo",
+  "Primeiro drena a solução antiga da barriga",
+  "Depois coloca a nova",
+  "Desconecta o sistema e fecha o tubo com a tampinha",
+  "Anota o volume e o aspecto do que drenou"
+ ],
+ "feel": [
+  "Sensação de barriga cheia quando a solução está dentro",
+  "Solução fria é desagradável. Ela precisa ser aquecida",
+  "Normalmente não dói"
+ ],
+ "after": [
+  "Todos os dias, olhe e limpe a pele em volta do tubo",
+  "Controle o peso, a pressão e o inchaço",
+  "Siga a dieta que o médico passou",
+  "Vá aos controles na clínica com regularidade"
+ ],
+ "red_flags": [
+  "Solução turva ao drenar: ligue logo para a clínica",
+  "Dor na barriga, febre, calafrios",
+  "Pus ou vermelhidão em volta do tubo",
+  "Falta de ar forte ou dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dá para trabalhar fazendo DP?",
+   "a": "Muita gente trabalha. As trocas podem ser ajustadas ao horário ou feitas à noite com a máquina."
+  },
+  {
+   "q": "Por que a solução turva é tão importante?",
+   "a": "É um sinal comum de inflamação na barriga. É preciso ligar logo para a clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Confira o estoque de solução para amanhã e anote o peso e os volumes drenados de hoje."
+  }
+ ]
+}

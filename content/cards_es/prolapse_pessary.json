@@ -1,0 +1,80 @@
+{
+ "title": "Pesario para el prolapso uterino",
+ "also": [
+  "pesario para prolapso",
+  "anillo vaginal",
+  "anillo para matriz caída",
+  "pesario uroginecológico",
+  "matriz caída"
+ ],
+ "what": "El médico elige y pone en la vagina un anillo suave de silicón. Sostiene el útero y las paredes de la vagina.",
+ "why": "Si el útero o las paredes de la vagina están caídos y por ahora no se necesita o no se desea una cirugía.",
+ "duration": "elegir el tamaño y ponerlo tarda normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Qué molestias tienes: pesadez, bulto, pérdida de orina",
+  "Todos tus medicamentos",
+  "Tus alergias",
+  "Si tienes flujo o sangrado",
+  "Si vas a quitarte el anillo tú misma"
+ ],
+ "prepare": [
+  {
+   "title": "Vejiga",
+   "text": "Antes de la consulta, ve al baño."
+  },
+  {
+   "title": "Higiene",
+   "text": "En la mañana lávate con agua tibia."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda; lleva una toalla sanitaria."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Una toalla sanitaria",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas en la mesa ginecológica",
+  "El médico te revisa y ve qué tan caído está",
+  "Elige el tamaño del anillo",
+  "Lo mete con cuidado",
+  "Te pide pararte, caminar y toser",
+  "Revisa que el anillo se sostenga y no moleste",
+  "Te explica cómo cuidarlo y cuándo regresar"
+ ],
+ "feel": [
+  "Al ponerlo sientes presión y es molesto",
+  "Un anillo del tamaño correcto normalmente casi no se siente",
+  "Puede aumentar el flujo"
+ ],
+ "after": [
+  "Ve a revisión según el plan: quitan el anillo, lo lavan y te revisan",
+  "Si el médico te enseñó, puedes quitarlo y lavarlo tú misma",
+  "A veces indican una crema vaginal",
+  "El anillo se cambia por uno nuevo a su tiempo. El médico te dirá"
+ ],
+ "red_flags": [
+  "Se salió el anillo o aprieta mucho",
+  "Dolor, sangrado o flujo con mal olor",
+  "No puedes orinar o evacuar"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo hacer mi vida normal con el anillo?",
+   "a": "Normalmente sí: caminar, trabajar y hacer ejercicio sin esfuerzos pesados."
+  },
+  {
+   "q": "¿Puedo tener relaciones sexuales con el anillo?",
+   "a": "Depende del tipo de anillo. Pregúntale al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen el pesario. Lleva una toalla sanitaria y tu identificación."
+  }
+ ]
+}

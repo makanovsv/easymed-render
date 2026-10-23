@@ -1,0 +1,75 @@
+{
+ "title": "Tratamiento de la prostatitis",
+ "also": [
+  "inflamación de la próstata",
+  "prostatitis",
+  "prostatitis crónica",
+  "dolor de próstata"
+ ],
+ "what": "La prostatitis es la inflamación de la próstata. El tratamiento se elige según la causa: a veces es una infección y a veces no.",
+ "why": "Con dolor en la parte baja del abdomen o entre las piernas, ardor y ganas frecuentes de orinar.",
+ "duration": "la consulta dura de 20 a 40 minutos; el tratamiento suele durar desde algunas semanas",
+ "tell_doctor": [
+  "Dónde te duele y desde cuándo",
+  "Si hay fiebre y escalofríos",
+  "Cuántas veces vas al baño y si cuesta orinar",
+  "Qué medicamentos ya tomaste, también antibióticos",
+  "Alergias a medicamentos"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "El médico suele pedir un análisis de orina y, a veces, de la secreción de la próstata y un ultrasonido."
+  },
+  {
+   "title": "Antes del análisis",
+   "text": "Para algunos análisis hay que evitar las relaciones sexuales unos días. Pregunta en la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No empieces antibióticos por tu cuenta antes de la consulta: pueden alterar los análisis."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Análisis y ultrasonidos anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta por tus molestias",
+  "Te revisa y palpa la próstata por el recto",
+  "Toma muestras y, si hace falta, hace un ultrasonido",
+  "Indica el tratamiento",
+  "Te explica cómo y por cuánto tiempo tomar los medicamentos"
+ ],
+ "feel": [
+  "La revisión por el recto es incómoda, pero corta",
+  "La mejoría suele llegar poco a poco, no de golpe"
+ ],
+ "after": [
+  "Termina todo el tratamiento, aunque te sientas mejor",
+  "Habrá una nueva consulta para revisar el resultado",
+  "Evita el frío y estar sentado mucho tiempo"
+ ],
+ "red_flags": [
+  "Fiebre alta con escalofríos",
+  "No puedes orinar nada: llama a emergencias",
+  "Sangre en la orina o dolor fuerte"
+ ],
+ "faq": [
+  {
+   "q": "¿La prostatitis se cura por completo?",
+   "a": "La aguda normalmente se cura. La crónica casi siempre se logra controlar; el médico elige el tratamiento."
+  },
+  {
+   "q": "¿Se le contagia a la pareja?",
+   "a": "La prostatitis en sí no. Pero si la causa es una infección, el médico puede pedir análisis también para la pareja."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes consulta por la prostatitis. Lleva tus análisis anteriores y la lista de tus medicamentos."
+  }
+ ]
+}

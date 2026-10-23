@@ -1,0 +1,75 @@
+{
+ "title": "Emlashga reaksiya: nima normal",
+ "also": [
+  "emlashga reaksiya",
+  "emlashdan keyingi harorat",
+  "emlashdan keyingi qizarish",
+  "emlashning nojo‘ya ta’siri"
+ ],
+ "what": "Emlashdan keyin organizm himoya hosil qiladi va bu ba’zan sezilib turadi. Ko‘pchilik reaksiyalar yengil bo‘lib, 1–3 kunda o‘zi o‘tadi.",
+ "why": "Emlashdan keyin hamma uchun — o‘zingiz va bolangiz uchun.",
+ "duration": "odatdagi reaksiyalar odatda 1–3 kunda o‘tadi",
+ "tell_doctor": [
+  "Oldingi emlashlarga qanday reaksiyalar bo‘lgan",
+  "Allergiyalar",
+  "Bolada haroratda tutqanoq bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Isitma tushiruvchi",
+   "text": "Uyda shifokor yoshingizga yoki bolangizga tavsiya qiladigan isitma tushiruvchi dori saqlang."
+  },
+  {
+   "title": "Termometr",
+   "text": "Termometr ishlayotganini tekshiring."
+  },
+  {
+   "title": "Telefon",
+   "text": "Emlash qilingan klinikaning telefon raqamini yozib oling."
+  }
+ ],
+ "bring": [
+  "Emlash kartasi",
+  "Termometr"
+ ],
+ "steps": [
+  "Ukoldan keyin dastlabki 30 daqiqa klinikada bo‘ling",
+  "Uyda o‘zingizni his qilishingizni va ukol joyini kuzating",
+  "Bir necha santimetrgacha qizarish va qotish — odatda normal",
+  "Dastlabki 1–2 kunda ozgina harorat, holsizlik, injiqlik — bu ham normal",
+  "Harorat bo‘lsa — ko‘proq ichish va yengil kiyim",
+  "Shifokor maslahat bergan bo‘lsa, isitma tushiruvchi bering",
+  "Ba’zi tirik vaksinalardan keyin reaksiya keyinroq, 5–14 kundan keyin bo‘ladi — shifokordan aniqlang"
+ ],
+ "feel": [
+  "Ko‘pincha ukol joyi og‘riydi",
+  "Holsizlik va ishtahasizlik bo‘lishi mumkin"
+ ],
+ "after": [
+  "Ukol joyini ishqalamang va isitmang",
+  "Cho‘milsa odatda bo‘ladi",
+  "Kuchli reaksiya haqida keyingi emlashdan oldin shifokorga ayting"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)",
+  "Tutqanoq yoki hushdan ketish — tez yordamni chaqiring (103)",
+  "Harorat juda yuqori va tushmasa, bola bir necha soat tinmay yig‘lasa — shoshilinch shifokorga",
+  "Ukol joyi qattiq shishsa, issiq bo‘lsa, yiring bo‘lsa — shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Reaksiya bo‘lmasa, emlash ishlamaganmi?",
+   "a": "Yo‘q. Himoya sezilarli reaksiyasiz ham hosil bo‘ladi."
+  },
+  {
+   "q": "Emlashdan keyin sayr qilsa bo‘ladimi?",
+   "a": "Odatda ha, o‘zingizni yaxshi his qilsangiz. Birinchi kuni sovqotish va olomondan saqlaning."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Emlash qilindimi? 1–3 kun o‘zingizni his qilishingizni kuzating. Termometr va isitma tushiruvchi dorini qo‘l ostida saqlang."
+  }
+ ]
+}

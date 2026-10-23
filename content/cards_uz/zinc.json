@@ -1,0 +1,76 @@
+{
+ "title": "Qondagi rux",
+ "also": [
+  "rux",
+  "ruxga tahlil",
+  "rux darajasi",
+  "qondagi mikroelementlar"
+ ],
+ "what": "Bu qon tahlili bo‘lib, organizmda rux yetarlimi yoki yo‘qligini ko‘rsatadi.",
+ "why": "Soch to‘kilganda, jarohatlar yomon bitganda, tez-tez shamollaganda, ta’m bilan muammolarda, uzoq ichburug‘da, bolalarda — o‘sish yomon bo‘lganda.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda bir necha kunda",
+ "tell_doctor": [
+  "Rux bilan vitamin yoki qo‘shimchalar ichsangiz",
+  "Ichak kasalliklari bo‘lsa yoki oshqozon operatsiyasi bo‘lgan bo‘lsa",
+  "Siydik haydovchi yoki gormonal tabletkalar ichsangiz",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda qon ertalab och qoringa topshiriladi: 8–12 soat ovqat yemang. Oddiy suv ichsa bo‘ladi. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Qo‘shimchalar",
+   "text": "Tahlildan oldin rux qo‘shimchalarini qabul qilishda tanaffus kerak yoki kerak emasligini shifokordan so‘rang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir kecha-kunduz alkogolsiz va og‘ir mashqlarsiz. Ertalab chekmagan yaxshi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqori oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "Ichayotgan vitaminlar va qo‘shimchalar ro‘yxati"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsakdan yuqori jgut tortiladi va musht qilib turish so‘raladi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, joyiga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilashga o‘xshaydi",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Darrov ovqat yesangiz bo‘ladi",
+  "Ruxni o‘zingiz ichishni boshlamang — dozani shifokor natijaga qarab tanlaydi"
+ ],
+ "red_flags": [
+  "Ukol joyi qattiq shishsa, og‘risa va qizarsa"
+ ],
+ "faq": [
+  {
+   "q": "Nega och qoringa?",
+   "a": "Ovqatdan keyin qondagi rux darajasi o‘zgaradi. Ertalab och qoringa natija aniqroq."
+  },
+  {
+   "q": "Tahlilsiz shunchaki rux ichishni boshlasa bo‘ladimi?",
+   "a": "Yo‘q bo‘lgani yaxshi. Ortiqcha rux ham zararli, shuning uchun dozani va muddatni shifokor belgilaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ruxga tahlil. Kechki ovqatdan keyin ovqat yemang, suv ichsa bo‘ladi."
+  }
+ ]
+}

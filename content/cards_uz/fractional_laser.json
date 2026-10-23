@@ -1,0 +1,80 @@
+{
+ "title": "Fraksion lazer bilan yoshartirish",
+ "also": [
+  "fraksion lazer",
+  "lazerli silliqlash",
+  "lazer bilan yoshartirish",
+  "fraksion yoshartirish",
+  "ajinlarga qarshi lazer"
+ ],
+ "what": "Lazer teringizda juda ko‘p mikroskopik nuqta hosil qiladi. Teri yangilanadi, tekislanadi va zichlashadi.",
+ "why": "Mayda ajinlar, notekis teri, kengaygan teshiklar, husnbuzar izlari va pigment dog‘larida.",
+ "duration": "protsedura og‘riqsizlantirish bilan odatda 30–60 daqiqa; tiklanish — bir necha kundan 1–2 haftagacha",
+ "tell_doctor": [
+  "Yuzda gerpes bo‘lgan bo‘lsa — ba’zan oldindan dori berishadi",
+  "Yaqinda quyoshda toblanganmisiz",
+  "Keloid chandiqlar bo‘lgan bo‘lsa",
+  "Barcha dorilar va teri vositalari, ayniqsa retinoidlar"
+ ],
+ "prepare": [
+  {
+   "title": "Quyosh",
+   "text": "Protseduradan oldin toblanmang — muddatini klinikadan aniqlang."
+  },
+  {
+   "title": "Vositalar",
+   "text": "Kuchli teri kremlarini ba’zan bir necha kun oldin to‘xtatishni so‘rashadi — shifokor aytadi."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Odatda 30–60 daqiqa oldin og‘riqsizlantiruvchi krem surtishadi."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Uyda bir necha kunni rejalashtiring: yuz qizargan va shishgan bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Quyoshdan himoya kremi",
+  "Shlyapa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Teri tozalanadi va og‘riqsizlantiruvchi krem surtiladi",
+  "Kremning ta’sir qilishini kutasiz",
+  "Krem artiladi, himoya ko‘zoynagi taqiladi",
+  "Shifokor lazer bilan teri bo‘ylab qism-qism yuradi",
+  "Teri sovutiladi",
+  "Tinchlantiruvchi vosita surtiladi"
+ ],
+ "feel": [
+  "Issiqlik va chaqish, quyoshda kuyganga o‘xshash",
+  "Keyin — teri qizargan, shishgan, issiq bo‘ladi"
+ ],
+ "after": [
+  "Qizarish va po‘st tashlash odatda 3–7 kun",
+  "Faqat shifokor aytgan vositalardan foydalaning",
+  "Po‘stloq va tangachalarni kovlamang",
+  "Bir necha oy davomida har kuni quyoshdan himoya kremi surting"
+ ],
+ "red_flags": [
+  "Pufakchalar, kuchli og‘riq, yiring, harorat — shifokorga",
+  "Bir necha haftadan keyin qorayib borayotgan dog‘lar — shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Natija qachon ko‘rinadi?",
+   "a": "Birinchi o‘zgarishlar 1–2 haftada, to‘liq natija bir necha oydan keyin."
+  },
+  {
+   "q": "Nechta protsedura kerak?",
+   "a": "Odatda bir necha hafta tanaffus bilan birdan bir nechtagacha. Shifokor sizning teringiz uchun aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga fraksion lazer. Toblanmang, tiklanish uchun bir necha kunni ajrating."
+  }
+ ]
+}

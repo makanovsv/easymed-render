@@ -1,0 +1,78 @@
+{
+ "title": "Qizamiqqa qarshi emlash (KPK)",
+ "also": [
+  "KPK",
+  "qizamiq qizilcha parotit",
+  "qizamiqqa qarshi emlash",
+  "tepki vaksinasi"
+ ],
+ "what": "Bir vaqtning o‘zida uchta kasallikka qarshi vaksina ukoli: qizamiq, qizilcha va tepki. Bolaga odatda ikki marta qilinadi.",
+ "why": "Bolalarga kalendar bo‘yicha: odatda 1 yoshda va 6 yoshda. Ikki dozasi bo‘lmagan kattalarga — shifokor maslahati bilan.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa",
+ "tell_doctor": [
+  "Bola hozir kasal bo‘lsa yoki harorat bo‘lsa",
+  "Oldingi emlashlarga kuchli reaksiyalar",
+  "Immunitet kasalliklari yoki uni pasaytiradigan davolanish",
+  "Yaqinda qon preparatlari yuborilgan bo‘lsa",
+  "Homilador bo‘lsangiz yoki homiladorlikni rejalashtirsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash bola sog‘ bo‘lganda qilinadi. Ukoldan oldin uni ko‘rikdan o‘tkazishadi."
+  },
+  {
+   "title": "Bola",
+   "text": "Bolani chalg‘itish uchun sevimli o‘yinchog‘ini oling."
+  },
+  {
+   "title": "Homiladorlik",
+   "text": "Katta yoshdagi ayollarga: homiladorlikni emlashdan keyin bir oyga kechiktirgan yaxshi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor bolaning ahvolini so‘raydi va haroratini o‘lchaydi",
+  "Siz bolani qo‘lingizda ushlaysiz",
+  "Teri artiladi va yelkaga yoki songa ukol qilinadi",
+  "Emlash kartaga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tiring"
+ ],
+ "feel": [
+  "Qisqa ukol — bola yig‘lashi mumkin",
+  "Ba’zan 5–12 kundan keyin ozgina harorat yoki toshma bo‘ladi — bu vaksinaga reaksiya",
+  "Ba’zan yonoqlar yoki bo‘yin biroz shishadi"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Emlashdan keyingi toshma yuqumli emas",
+  "Ikkinchi emlash — jadval bo‘yicha"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)",
+  "Harorat fonidagi tutqanoq — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Nega harorat bir haftadan keyin ko‘tarildi?",
+   "a": "Bu tirik zaiflashtirilgan vaksina, unga javob keyinroq bo‘lishi mumkin. Odatda 1–2 kunda o‘tadi."
+  },
+  {
+   "q": "Bu emlash autizm chaqirishi rostmi?",
+   "a": "Yo‘q. Katta tadqiqotlar buni tasdiqlamagan."
+  },
+  {
+   "q": "Kattalar emlanishi kerakmi?",
+   "a": "Ikki dozangiz bo‘lmasa yoki bilmasangiz, shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga qizamiqqa qarshi emlash. Bola sog‘ bo‘lishi kerak. Emlash kartasini oling."
+  }
+ ]
+}

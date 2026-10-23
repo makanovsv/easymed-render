@@ -1,0 +1,73 @@
+{
+ "title": "Ultrassom do olho",
+ "also": [
+  "ultrassom ocular",
+  "ecografia ocular",
+  "ultrassom do globo ocular",
+  "ultrassom modo B do olho"
+ ],
+ "what": "O médico vê as partes de dentro do olho e a órbita com ultrassom, pela pálpebra fechada.",
+ "why": "Quando o médico não consegue ver o fundo do olho, por exemplo com catarata ou sangramento; com traumas, suspeita de descolamento da retina e nódulos no olho.",
+ "duration": "normalmente 10 a 20 minutos, o laudo sai normalmente na hora",
+ "tell_doctor": [
+  "Se fez cirurgias ou teve traumas no olho",
+  "Se tem um machucado recente no olho",
+  "Se usa lentes de contato",
+  "Se o olho dói muito ou a visão piorou de repente"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não é preciso. Pode comer e beber."
+  },
+  {
+   "title": "Olhos",
+   "text": "Tire as lentes de contato. É melhor ir sem maquiagem nos olhos."
+  },
+  {
+   "title": "Volta para casa",
+   "text": "Se dilatarem as pupilas com colírio, é melhor não dirigir depois. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos anteriores do oftalmologista",
+  "Estojo para as lentes",
+  "Óculos de sol"
+ ],
+ "steps": [
+  "Você se senta ou se deita, com os olhos fechados",
+  "Passam gel na pálpebra",
+  "O aparelho é encostado com cuidado na pálpebra fechada",
+  "O médico pede para olhar para cima, para baixo, para a direita e para a esquerda",
+  "Limpam o gel com um lenço"
+ ],
+ "feel": [
+  "Gel geladinho e um toque leve",
+  "O gel pode arder um pouco se entrar no olho. Ele é lavado"
+ ],
+ "after": [
+  "Você pode voltar à rotina logo em seguida",
+  "O laudo sai normalmente na hora. Os próximos passos quem decide é o oftalmologista"
+ ],
+ "red_flags": [
+  "De repente surgiram flashes de luz, muitas \"moscas volantes\" ou uma sombra na frente do olho: procure o oftalmologista na hora",
+  "Queda forte da visão ou dor forte no olho: procure o médico com urgência ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Isso não machuca o olho?",
+   "a": "Não. O aparelho toca a pálpebra de leve, e o ultrassom é seguro para o olho."
+  },
+  {
+   "q": "Preciso abrir o olho durante o ultrassom?",
+   "a": "Não. O exame é feito pela pálpebra fechada. Você só mexe os olhos quando o médico pedir."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o ultrassom do olho. Tire as lentes antes do exame e vá sem maquiagem nos olhos."
+  }
+ ]
+}

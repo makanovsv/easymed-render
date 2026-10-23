@@ -1,0 +1,78 @@
+{
+ "title": "Inducción de la ovulación",
+ "also": [
+  "estimulación ovárica",
+  "inducción de la ovulación",
+  "seguimiento folicular",
+  "monitoreo de la ovulación"
+ ],
+ "what": "El médico indica pastillas o inyecciones para que madure un óvulo. Con ultrasonido vigila cómo crece el folículo.",
+ "why": "Cuando no ovulas por tu cuenta o lo haces pocas veces, y quieres embarazarte.",
+ "duration": "normalmente un intento es un ciclo; ultrasonidos de 10 a 20 minutos varias veces",
+ "tell_doctor": [
+  "Cómo es tu ciclo",
+  "Resultados de análisis e intentos anteriores",
+  "Todos tus medicamentos. No los dejes por tu cuenta",
+  "Si tu pareja tiene espermograma",
+  "Enfermedades crónicas"
+ ],
+ "prepare": [
+  {
+   "title": "Ciclo",
+   "text": "La estimulación empieza en cierto día del ciclo. El médico te dirá cuándo ir."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Tómalos exactamente según las indicaciones, a la misma hora."
+  },
+  {
+   "title": "Calendario",
+   "text": "Anota en tu calendario las fechas de ultrasonidos y medicamentos."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "El diario de tu ciclo",
+  "Las indicaciones de tus medicamentos",
+  "Tus análisis anteriores"
+ ],
+ "steps": [
+  "Al inicio del ciclo el médico hace un ultrasonido",
+  "Indica pastillas o inyecciones",
+  "Unos días después regresas al ultrasonido",
+  "El médico ve cuántos folículos hay y de qué tamaño",
+  "Cuando el folículo madura, puede indicar una inyección para ovular",
+  "El médico te dirá en qué días tener relaciones o hacer el procedimiento"
+ ],
+ "feel": [
+  "El ultrasonido vaginal es un poco molesto, pero no duele",
+  "A veces hay inflamación o dolor leve en el bajo vientre",
+  "Puede haber cambios de humor"
+ ],
+ "after": [
+  "Sigue las indicaciones del médico día por día",
+  "Prueba de embarazo cuando te diga el médico",
+  "Si no funciona, la estimulación se puede repetir"
+ ],
+ "red_flags": [
+  "Dolor fuerte de vientre, mucha inflamación o falta de aire: llama a emergencias",
+  "Subes mucho de peso en 1 o 2 días u orinas poco",
+  "Sangrado fuerte"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuántas veces se puede hacer la estimulación?",
+   "a": "Normalmente un número limitado de ciclos seguidos. Cuántos, lo decide el médico."
+  },
+  {
+   "q": "¿Puede haber gemelos?",
+   "a": "El riesgo de gemelos es mayor. Por eso el médico vigila con cuidado en el ultrasonido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu ultrasonido de la estimulación. Toma tus medicamentos según las indicaciones y anota tus preguntas."
+  }
+ ]
+}

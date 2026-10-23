@@ -1,0 +1,74 @@
+{
+ "title": "Yuzdagi tomir yulduzchalarini lazer bilan olib tashlash",
+ "also": [
+  "tomir yulduzchalari",
+  "kuperoz",
+  "tomirlarga lazer",
+  "yuzdagi tomirlarni olib tashlash",
+  "burundagi qizil tomirlar"
+ ],
+ "what": "Lazer yuzdagi kengaygan tomirlarni qizdiradi va ular asta-sekin yo‘qoladi. Yondagi teri shikastlanmaydi.",
+ "why": "Burun, yonoq, iyakdagi tomir yulduzchalari va to‘rchalarda.",
+ "duration": "muolaja odatda 15–30 daqiqa; ko‘pincha bir necha seans kerak",
+ "tell_doctor": [
+  "Yaqinda toblanganmisiz",
+  "Gerpes, keloid chandiqlar bo‘lgan bo‘lsa",
+  "Barcha dorilar, ayniqsa quyoshga sezgirlikni oshiradigan yoki qonni suyultiradiganlar",
+  "Homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "Quyosh",
+   "text": "Odatda muolajadan 2–4 hafta oldin toblanmang — klinikadan aniqlab oling."
+  },
+  {
+   "title": "Teri",
+   "text": "Bo‘yanishsiz keling."
+  },
+  {
+   "title": "Vositalar",
+   "text": "Teri uchun kuchli kremlardan foydalansangiz, shifokorga ayting — ularni bekor qilishni so‘rashlari mumkin."
+  }
+ ],
+ "bring": [
+  "Quyoshdan saqlovchi krem",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Teri tozalanadi",
+  "Sizga va shifokorga himoya ko‘zoynagi taqiladi",
+  "Sovituvchi gel surtiladi yoki sovutish yoqiladi",
+  "Shifokor tomirlarni qisqa chaqnashlar bilan ishlaydi",
+  "Teri sovutilib, tinchlantiruvchi vosita surtiladi"
+ ],
+ "feel": [
+  "Chaqnashlar rezinka urilishidek seziladi",
+  "Keyin — qizarish va ozgina shish, ba’zan vaqtincha ko‘karishlar"
+ ],
+ "after": [
+  "Qizarish odatda bir necha kunda o‘tadi",
+  "Bir necha kun hammom, sauna va issiq dushsiz",
+  "Har kuni quyoshdan saqlovchi krem",
+  "Keyingi seans — odatda bir necha haftadan keyin"
+ ],
+ "red_flags": [
+  "Pufaklar, po‘stloqlar, kuchli og‘riq — shifokorga",
+  "Bir necha haftadan keyin teridagi qora yoki oq dog‘lar — shifokorga ko‘rining"
+ ],
+ "faq": [
+  {
+   "q": "Tomirlar qaytib kelmaydimi?",
+   "a": "Ishlangan tomirlar odatda qaytmaydi. Lekin vaqt o‘tishi bilan yangilari paydo bo‘lishi mumkin."
+  },
+  {
+   "q": "Natija qachon ko‘rinadi?",
+   "a": "Ko‘pincha darhol yoki bir necha haftadan keyin. Ba’zan takroriy seanslar kerak bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga tomirlarga lazer. Bo‘yanishsiz keling, quyoshdan saqlovchi krem oling."
+  }
+ ]
+}

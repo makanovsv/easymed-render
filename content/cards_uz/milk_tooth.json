@@ -1,0 +1,73 @@
+{
+ "title": "Sut tishini olib tashlash",
+ "also": [
+  "sut tishini olish",
+  "sut tishini sug‘urish",
+  "bolada tishni olib tashlash"
+ ],
+ "what": "Bolalar stomatologi sut tishini mahalliy og‘riqsizlantirish ostida ehtiyotkorlik bilan olib tashlaydi. Odatda bu tez bajariladi.",
+ "why": "Sut tishi qimirlab, doimiysining o‘sishiga xalaqit bersa, qattiq buzilgan yoki yallig‘langan bo‘lib, davolab bo‘lmasa.",
+ "duration": "odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Bolaning kasalliklari va allergiyalari, ayniqsa og‘riqsizlantiruvchilarga",
+  "Bola oson ko‘karsa yoki uzoq qon ketsa",
+  "Bola ichayotgan dorilar",
+  "Bola qo‘rqsa — shifokor yondashuv topadi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Bolani qabuldan 1–2 soat oldin ovqatlantiring — olib tashlangandan keyin 2 soat ovqat yeyish mumkin emas."
+  },
+  {
+   "title": "Kayfiyat",
+   "text": "Bolaga xotirjam ayting: shifokor tishchaga yordam beradi. Qo‘rqitmang va «umuman og‘rimaydi» deb va’da bermang."
+  },
+  {
+   "title": "Sog‘liq",
+   "text": "Bolada harorat yoki shamollash bo‘lsa, klinikaga qo‘ng‘iroq qiling, qabul ko‘chirilishi mumkin."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Sevimli o‘yinchoq"
+ ],
+ "steps": [
+  "Shifokor tishni ko‘radi va ba’zan surat oladi",
+  "Milk og‘riqsizlantiruvchi gel bilan surtiladi",
+  "Og‘riqsizlantiruvchi ukol qilinadi",
+  "Milk uvishgach, tish olib tashlanadi",
+  "Chuqurchaga paxta qo‘yiladi — uni tishlab turish kerak"
+ ],
+ "feel": [
+  "Ukol — geldan keyin qisqa chimchilash",
+  "Keyin lab va yonoq 1–3 soat uvishadi",
+  "Olishda — bosim, lekin og‘riq emas"
+ ],
+ "after": [
+  "Paxtani 15–20 daqiqa tishlab turing",
+  "Uvishish o‘tmaguncha 2 soat ovqat yemang",
+  "Bola uvishgan lab yoki yonog‘ini tishlamasligini kuzating",
+  "Olib tashlangan kuni — issiqsiz, chayqamasdan va chuqurchaga tegmasdan"
+ ],
+ "red_flags": [
+  "Paxtani tishlagandan keyin bir soat o‘tsa ham chuqurchadan qon to‘xtamayapti",
+  "1–2 kundan keyin yonoq shishishi, harorat, kuchli og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Doimiy tish qachon chiqadi?",
+   "a": "Har xil: ba’zan bir necha haftadan keyin, ba’zan keyinroq. Tish erta olib tashlangan bo‘lsa, shifokor joyni saqlab qolish uchun konstruksiya taklif qilishi mumkin."
+  },
+  {
+   "q": "Qimirlayotgan tishni uyda olib tashlasa bo‘ladimi?",
+   "a": "Tish qattiq qimirlab, deyarli tushgan bo‘lsa — o‘zi tushib ketishi mumkin. Milk og‘risa yoki yallig‘lansa — shifokorga boring."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada bolaning tishi olib tashlanadi. Uni oldindan ovqatlantiring — olingandan keyin 2 soat ovqat yeyish mumkin emas."
+  }
+ ]
+}

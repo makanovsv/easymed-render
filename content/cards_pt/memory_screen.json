@@ -1,0 +1,75 @@
+{
+ "title": "Teste de memória (rastreamento de demência)",
+ "also": [
+  "teste de demência",
+  "teste de memória em idosos",
+  "avaliação cognitiva",
+  "esquecimento",
+  "miniexame do estado mental"
+ ],
+ "what": "O médico faz perguntas e dá tarefas simples de memória, atenção e raciocínio. Assim dá para perceber cedo problemas de memória.",
+ "why": "Quando a pessoa ou a família percebem esquecimento, confusão ou dificuldade com tarefas do dia a dia.",
+ "duration": "o teste leva normalmente de 15 a 30 minutos; a consulta, cerca de uma hora",
+ "tell_doctor": [
+  "O que exatamente mudou e há quanto tempo",
+  "Dificuldade com dinheiro, remédios ou caminhos",
+  "Humor, sono, ansiedade",
+  "Todos os remédios: alguns afetam a memória",
+  "Problemas de audição e visão"
+ ],
+ "prepare": [
+  {
+   "title": "Acompanhante",
+   "text": "É bom ir com alguém próximo: ele pode contar o que percebeu."
+  },
+  {
+   "title": "Sono",
+   "text": "Durma bem na véspera e coma antes da consulta."
+  },
+  {
+   "title": "Óculos",
+   "text": "Leve óculos e aparelho auditivo: sem eles, o teste fica impreciso."
+  }
+ ],
+ "bring": [
+  "Lista de remédios",
+  "Óculos e aparelho auditivo",
+  "Relatórios e exames, se tiver"
+ ],
+ "steps": [
+  "O médico conversa com você e com o acompanhante",
+  "Dá tarefas: lembrar palavras, dizer a data, desenhar um relógio",
+  "Avalia atenção, contas e fala",
+  "Explica o resultado",
+  "Se precisar, pede exames de sangue e ressonância",
+  "Marca a próxima consulta"
+ ],
+ "feel": [
+  "O teste não dói",
+  "Pode dar nervoso ou vergonha se algo não sair. Isso é normal"
+ ],
+ "after": [
+  "Se o teste mostrar alterações, o médico vai pedir mais exames",
+  "A causa também pode ser algo tratável: falta de vitaminas, tireoide, depressão",
+  "O teste costuma ser repetido depois de um tempo"
+ ],
+ "red_flags": [
+  "Confusão repentina, fraqueza no braço ou na perna, fala enrolada: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O teste já dá o diagnóstico?",
+   "a": "Não. O teste é só o primeiro passo. Para concluir, são necessários exame médico e outros exames."
+  },
+  {
+   "q": "Dá para se preparar para o teste?",
+   "a": "Não precisa de preparo especial. Só durma bem e leve os óculos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o teste de memória. Leve os óculos e a lista de remédios e, se der, chame alguém próximo."
+  }
+ ]
+}

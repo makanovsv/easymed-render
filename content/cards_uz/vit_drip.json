@@ -1,0 +1,67 @@
+{
+ "title": "Vitaminli tomchi",
+ "also": [
+  "vitaminli kapelnitsa",
+  "venaga vitamin",
+  "infuzion terapiya",
+  "quvvat uchun kapelnitsa"
+ ],
+ "what": "Vitaminlar va minerallar solingan eritma tomchi orqali venaga yuboriladi.",
+ "why": "Shifokor uni vitaminlar yetishmasligi isbotlangan, ularni ovqat va tabletka bilan olib bo‘lmaganda buyuradi. Tetiklik va go‘zallik uchun bunday tomchilarning foydasi isbotlanmagan.",
+ "duration": "odatda 30–60 daqiqa",
+ "tell_doctor": [
+  "Yurak va buyrak kasalliklari",
+  "Dorilar va vitaminlarga allergiya",
+  "Siz allaqachon qabul qilayotgan barcha vitamin va qo‘shimchalar",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Tomchidan oldin tahlil topshirgan yaxshi — shifokor aslida nima yetishmayotganini ko‘radi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda och kelmagan yaxshi."
+  }
+ ],
+ "bring": [
+  "Bo‘lsa, tahlillar",
+  "Dorilar va qo‘shimchalar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor sog‘lig‘ingiz haqida so‘raydi va buyurtmani tekshiradi",
+  "Hamshira venaga kateter qo‘yadi",
+  "Tomchi ulanadi",
+  "Eritma tugaguncha o‘tirasiz yoki yotasiz",
+  "Kateter olinadi, paxta bosiladi"
+ ],
+ "feel": [
+  "Vena bo‘ylab salqinlik",
+  "Ba’zan issiqlik yoki og‘izda ta’m"
+ ],
+ "after": [
+  "Darrov ishlaringizga ketsangiz bo‘ladi",
+  "Kateter joyidagi ozgina ko‘kargan joy o‘zi o‘tadi"
+ ],
+ "red_flags": [
+  "Toshma, yuzning shishishi, nafas olish qiyinlashishi, keskin holsizlik — tez yordamni chaqiring (103)",
+  "Vena bo‘ylab qo‘l qizarsa, shishsa va og‘risa"
+ ],
+ "faq": [
+  {
+   "q": "Bu tabletkadagi vitaminlardan foydaliroqmi?",
+   "a": "Vitaminlar yomon so‘riladigan kasallik bo‘lmasa, odatda yo‘q. Sizga tomchi kerak yoki kerak emasligini shifokordan so‘rang."
+  },
+  {
+   "q": "Vitaminni me’yoridan oshirib yuborsa bo‘ladimi?",
+   "a": "Ha, ba’zi vitaminlar to‘planib qoladi. Shuning uchun barcha qo‘shimchalar haqida shifokorga aytish muhim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun tomchi. Ovqatlaning va ichayotgan vitamin hamda qo‘shimchalar ro‘yxatini oling."
+  }
+ ]
+}

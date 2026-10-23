@@ -1,0 +1,77 @@
+{
+ "title": "Quloqdagi shovqin bo‘yicha qabul",
+ "also": [
+  "quloq shovqini",
+  "quloq jaranglashi",
+  "tinnitus",
+  "quloqda g‘uvillaydi"
+ ],
+ "what": "LOR shifokor quloqdagi shovqin qayerdan kelayotganini aniqlaydi va eshitishni tekshiradi. Keyin davolash yoki shovqindan bezovtalikni kamaytirish yo‘llarini tanlaydi.",
+ "why": "Bir yoki ikkala quloqda jaranglash, shovqin, g‘uvillash bo‘lganda.",
+ "duration": "qabul odatda 30–60 daqiqa, eshitishni tekshirish — taxminan 20 daqiqa",
+ "tell_doctor": [
+  "Shovqin qachon boshlanganini va qaysi quloqda",
+  "Baland tovush, jarohat yoki shamollash bo‘lgan-bo‘lmaganini",
+  "Eshitish pasayishi yoki bosh aylanishi bor-yo‘qligini",
+  "Qanday dorilar ichayotganingizni",
+  "Qon bosimi yuqori bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Yozuvlar",
+   "text": "Shovqin qachon kuchayishi va nima yordam berishini yozib qo‘ying."
+  },
+  {
+   "title": "Baland tovushlar",
+   "text": "Eshitishni tekshirishdan bir kun oldin baland musiqa va shovqindan saqlaning."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Barcha dorilar ro‘yxatini oling — ba’zilari eshitishga ta’sir qiladi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Oldingi eshitish tekshiruvi natijalari"
+ ],
+ "steps": [
+  "Shifokor shovqin haqida so‘raydi",
+  "Quloqlarni ko‘radi",
+  "Tovush o‘tkazmaydigan kabinada eshitishni tekshiradi",
+  "Ba’zan quloq pardasining ishlashini tekshiradi",
+  "Kerak bo‘lsa, MRT yoki tahlillar buyuradi",
+  "Reja va shovqin bilan qanday yashashni tushuntiradi"
+ ],
+ "feel": [
+  "Ko‘rik va tekshiruv og‘riqsiz",
+  "Kabinada sokin tovushlarga e’tibor qaratish kerak"
+ ],
+ "after": [
+  "Baland tovushlardan saqlaning, shovqinli joyda quloq tiqinlaridan foydalaning",
+  "Tunda fon tovushi uxlashga yordam berishi mumkin",
+  "Qayta qabul — shifokor rejasi bo‘yicha"
+ ],
+ "red_flags": [
+  "Shovqin to‘satdan eshitish yo‘qolishi bilan paydo bo‘lsa — bir kun ichida shifokorga",
+  "Kuchli bosh aylanishi va qusish bilan birga shovqin",
+  "Bir quloqda urib turadigan shovqin",
+  "Qo‘l yoki yuzda holsizlik, nutq buzilishi bo‘lsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Quloqdagi shovqin o‘tib ketadimi?",
+   "a": "Ba’zan o‘tadi, ba’zan qoladi. Uni kamroq sezdiradigan usullar bor."
+  },
+  {
+   "q": "Shovqin stressdan bo‘lishi mumkinmi?",
+   "a": "Stress va uyqusizlik shovqinni ko‘pincha kuchaytiradi. Lekin sababni shifokor aniqlashi kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga quloqdagi shovqin bo‘yicha qabul. Dorilar ro‘yxatini oling, baland musiqadan saqlaning."
+  }
+ ]
+}

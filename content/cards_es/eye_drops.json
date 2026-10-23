@@ -1,0 +1,81 @@
+{
+ "title": "Cómo poner gotas y pomada en los ojos",
+ "also": [
+  "cómo poner gotas en los ojos",
+  "gotas para los ojos",
+  "pomada en el ojo",
+  "poner gotas",
+  "cómo poner pomada"
+ ],
+ "what": "Cómo poner bien las gotas y la pomada detrás del párpado inferior, para que el medicamento llegue al ojo y no a la mejilla.",
+ "why": "Cuando el médico recetó gotas o pomada para los ojos: en inflamación, después de una operación, con presión alta en el ojo.",
+ "duration": "el procedimiento toma 1 o 2 minutos",
+ "tell_doctor": [
+  "Si usas lentes de contacto",
+  "Si te recetaron varias gotas distintas",
+  "Si después de las gotas arde más de un par de minutos, enrojece o se hincha",
+  "Todos los medicamentos que tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Manos",
+   "text": "Lávate las manos antes de cada aplicación."
+  },
+  {
+   "title": "Frasco",
+   "text": "Revisa el nombre y la fecha de caducidad. Un frasco abierto sirve normalmente un tiempo limitado: mira el instructivo."
+  },
+  {
+   "title": "Lentes",
+   "text": "Normalmente los lentes de contacto se quitan antes de las gotas; pregunta al médico cuándo puedes ponértelos."
+  },
+  {
+   "title": "Varias gotas",
+   "text": "Entre gotas distintas espera normalmente 5 minutos. La pomada, al final."
+  }
+ ],
+ "bring": [
+  "Las gotas o la pomada",
+  "Pañuelos limpios",
+  "Un espejo"
+ ],
+ "steps": [
+  "Lávate las manos",
+  "Inclina la cabeza hacia atrás o acuéstate",
+  "Con el dedo jala hacia abajo el párpado inferior: se forma una bolsita",
+  "Mira hacia arriba y deja caer una gota en la bolsita, sin tocar el ojo con el frasco",
+  "Cierra el ojo y presiona con el dedo la esquina interna por 1 o 2 minutos",
+  "Pomada: pon una tirita en la bolsita del párpado inferior y cierra el ojo",
+  "Seca lo que sobre con un pañuelo limpio"
+ ],
+ "feel": [
+  "Las gotas pueden picar un poco",
+  "Después de la pomada, unos minutos se ve borroso; es normal"
+ ],
+ "after": [
+  "No te frotes el ojo",
+  "La pomada es más cómoda en la noche",
+  "No des tus gotas a otras personas",
+  "Pon las gotas todo el tiempo que dijo el médico"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el ojo, mucho enrojecimiento, empeoramiento de la vista: acude de urgencia al médico",
+  "Hinchazón de los párpados y de la cara, dificultad para respirar después de las gotas: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuántas gotas hay que poner?",
+   "a": "Normalmente una. En el ojo no caben más, lo demás sale."
+  },
+  {
+   "q": "¿Qué hago si no estoy seguro de que la gota entró?",
+   "a": "Pon otra. Si estás seguro de que entró, no hace falta repetir."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Es hora de poner las gotas en los ojos. Manos limpias, una gota, presiona la esquina del ojo."
+  }
+ ]
+}

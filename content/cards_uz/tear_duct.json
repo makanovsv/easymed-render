@@ -1,0 +1,78 @@
+{
+ "title": "Chaqaloqda ko‘z yosh kanalini zondlash",
+ "also": [
+  "ko‘z yosh kanalini zondlash",
+  "chaqaloqlarda dakriosistit",
+  "ko‘z yosh kanalining tiqilishi",
+  "chaqaloqning ko‘zi ivishi"
+ ],
+ "what": "Shifokor chaqaloqning ko‘z yosh kanalidan ingichka zondni ehtiyotkorlik bilan o‘tkazib, uni ochadi. Yosh yana burunga ketadigan bo‘ladi.",
+ "why": "Chaqaloqning ko‘zi doim yoshlanib, ivib turganda va ko‘z yosh xaltasini massaj qilish yordam bermaganda.",
+ "duration": "muolajaning o‘zi odatda bir necha daqiqa",
+ "tell_doctor": [
+  "Ko‘z qachondan beri yoshlanib, ivib turganini",
+  "Qanday tomchi va massaj qilganingizni",
+  "Chaqaloq yaqinda kasal bo‘lganmi, harorati bormi",
+  "Bolaning allergiyalari"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqatlantirish",
+   "text": "Muolajadan oldin chaqaloqni qachon ovqatlantirishni klinikadan so‘rang."
+  },
+  {
+   "title": "Yengil ko‘rpacha",
+   "text": "Yengil ko‘rpacha oling — chaqaloq qimirlamasligi uchun odatda o‘rab qo‘yiladi."
+  },
+  {
+   "title": "Sizning kayfiyatingiz",
+   "text": "Chaqaloq yig‘laydi — bu normal. Muolaja qisqa."
+  }
+ ],
+ "bring": [
+  "Chaqaloqning hujjatlari",
+  "Yengil ko‘rpacha va taglik",
+  "Shisha yoki muolajadan keyin emizish imkoni"
+ ],
+ "steps": [
+  "Ko‘z tomchi bilan og‘riqsizlantiriladi",
+  "Chaqaloq o‘raladi, yordamchi boshini ushlab turadi",
+  "Shifokor ko‘z yosh nuqtasini kengaytiradi va ingichka zond kiritadi",
+  "Kanal eritma bilan yuviladi",
+  "Eritma burunga o‘tsa — kanal ochilgan",
+  "Chaqaloq sizga qaytariladi, tinchlantirib, ovqatlantirsa bo‘ladi"
+ ],
+ "feel": [
+  "Chaqaloq yig‘laydi — asosan uni ushlab turishgani uchun",
+  "Burundan yoki ko‘zdan bir necha tomchi qon bo‘lishi mumkin va o‘tib ketadi"
+ ],
+ "after": [
+  "Tomchilar — shifokor buyurganidek",
+  "Ko‘z yosh xaltasi massaji — shifokor aytsa",
+  "Shifokor aytganda nazoratga keling"
+ ],
+ "red_flags": [
+  "Ko‘zning ichki burchagida shish va qizarish, harorat",
+  "Ko‘z bir necha kundan keyin yana yiringlasa — shifokorga ko‘rsating"
+ ],
+ "faq": [
+  {
+   "q": "Zondlamasdan o‘tib ketishi mumkinmi?",
+   "a": "Ko‘pincha dastlabki oylarda o‘zi o‘tadi, ayniqsa massaj bilan. Zond qachon kerakligini shifokor hal qiladi."
+  },
+  {
+   "q": "Bu chaqaloqqa og‘riqlimi?",
+   "a": "Ko‘z tomchi bilan og‘riqsizlantiriladi. Chaqaloq ko‘pincha ushlab turilgani uchun yig‘laydi."
+  },
+  {
+   "q": "Takrorlash kerakmi?",
+   "a": "Odatda bir marta yetadi, ba’zan takrorlash kerak bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ko‘z yosh kanalini zondlash. Yengil ko‘rpacha oling va ovqatlantirish vaqtini so‘rang."
+  }
+ ]
+}

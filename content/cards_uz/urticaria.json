@@ -1,0 +1,76 @@
+{
+ "title": "Chayon kasalligi (qichima toshma) bo‘yicha qabul",
+ "also": [
+  "qichima toshma",
+  "teridagi pufakchalar",
+  "allergik toshma",
+  "gazanda chaqqandek toshma",
+  "qichishish va pufakchalar"
+ ],
+ "what": "Qichima toshma — teridagi pufakchalar va qichishish, xuddi gazanda kuydirgandek. Dog‘lar tez paydo bo‘ladi va tez yo‘qoladi. Shifokor sababini qidiradi va davolashni tanlaydi.",
+ "why": "Teridagi qichiydigan pufakchalar bir marta paydo bo‘lganda yoki haftalab takrorlanganda.",
+ "duration": "qabul odatda 20–30 daqiqa; tahlillar — shifokor buyrug‘i bilan",
+ "tell_doctor": [
+  "Qachon boshlangani, dog‘lar qancha turishi va qanchalik tez-tez bo‘lishi",
+  "Nima yegansiz, qanday dori ichgansiz, toshmadan oldin nima bo‘lgan",
+  "Lab, qovoq, tilda shish bo‘lgan-bo‘lmaganini",
+  "Siz qabul qilayotgan barcha dorilar va qo‘shimchalar"
+ ],
+ "prepare": [
+  {
+   "title": "Surat",
+   "text": "Toshmani suratga oling — qabulga kelguncha u o‘tib ketishi mumkin."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Toshma qachon paydo bo‘lgani va undan oldin nima bo‘lganini yozib boring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘z dorilaringizni o‘zingiz bekor qilmang. Allergiyaga vosita ichsangiz — shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Toshma surati",
+  "Dorilar va qo‘shimchalar ro‘yxati",
+  "Xurujlar kundaligi",
+  "Oldingi tahlil natijalari"
+ ],
+ "steps": [
+  "Shifokor toshma haqida batafsil so‘raydi",
+  "Terini ko‘radi",
+  "Ba’zan reaksiyani tekshirish uchun barmoq bilan teri ustidan yuritadi",
+  "Kerak bo‘lsa, tahlillar buyuradi",
+  "Dori tanlaydi va uni qanday ichishni tushuntiradi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "Qichishish kuchli bo‘lishi mumkin — davolash odatda tez yordam beradi"
+ ],
+ "after": [
+  "Toshma o‘tib ketgan bo‘lsa ham, dorini shifokor buyurganidek iching",
+  "Toshma keltirib chiqaradigan narsa ma’lum bo‘lsa, undan saqlaning",
+  "Xuruj paytida tor kiyim kiymang, issiq vannaga tushmang",
+  "Toshma 6 haftadan ortiq tursa — qayta qabul kerak"
+ ],
+ "red_flags": [
+  "Lab, til, tomoqda shish, yutish yoki nafas olish qiyin bo‘lsa — tez yordamni chaqiring (103)",
+  "Toshma bilan birga holsizlik, bosh aylanishi, hushdan ketish bo‘lsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Qichima toshma yuqumlimi?",
+   "a": "Yo‘q. U odamdan odamga yuqmaydi."
+  },
+  {
+   "q": "Bu doim ovqatga allergiyami?",
+   "a": "Yo‘q. Ko‘pincha sababni topib bo‘lmaydi, infeksiya va dorilardan keyin ham bo‘ladi. Shifokor aniqlashga yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga qichima toshma bo‘yicha qabul. Toshma suratlari va dorilar ro‘yxatini oling."
+  }
+ ]
+}

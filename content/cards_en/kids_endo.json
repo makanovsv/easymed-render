@@ -1,0 +1,75 @@
+{
+ "title": "Pediatric endocrinologist visit (growth, weight, puberty)",
+ "also": [
+  "pediatric endocrinologist",
+  "child growth",
+  "overweight child",
+  "puberty"
+ ],
+ "what": "The doctor checks how your child is growing and developing, and whether hormones are getting in the way.",
+ "why": "If your child is noticeably shorter or taller than others, is gaining extra weight, puberty began too early or too late, or thyroid problems are suspected.",
+ "duration": "the visit usually takes 20 to 40 minutes, test results in a few days",
+ "tell_doctor": [
+  "Your child's height and weight by year - from the record or your notes",
+  "The parents' height",
+  "When signs of puberty began",
+  "How your child eats, sleeps and moves",
+  "Which medicines your child takes"
+ ],
+ "prepare": [
+  {
+   "title": "Height by year",
+   "text": "Copy your child's height and weight for past years from the medical record - this is the most important thing for the doctor."
+  },
+  {
+   "title": "Tests",
+   "text": "The doctor may order hormone tests, usually in the morning on an empty stomach. Ask the clinic."
+  },
+  {
+   "title": "Talk",
+   "text": "Explain to your child that the doctor will look at how they are growing, and it does not hurt."
+  }
+ ],
+ "bring": [
+  "Your child's ID",
+  "The medical record with height measurements",
+  "Earlier tests and a hand X-ray, if done"
+ ],
+ "steps": [
+  "The doctor asks you about your child's development",
+  "Measures height and weight",
+  "Examines your child - if needed also signs of puberty, gently and with a parent present",
+  "Feels the neck",
+  "May send for tests or a hand X-ray",
+  "Explains the conclusion and the plan"
+ ],
+ "feel": [
+  "The exam is painless",
+  "A teenager may feel awkward - you can ask for the exam to be shorter"
+ ],
+ "after": [
+  "Keep track of height and weight - write them down every few months",
+  "Only the doctor prescribes medicines",
+  "Come back for a follow-up when the doctor says"
+ ],
+ "red_flags": [
+  "Your child drinks a lot, urinates often, is losing weight and is listless - see a doctor urgently",
+  "Acetone smell on the breath, vomiting or drowsiness - call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "My child is the shortest in class - is it an illness?",
+   "a": "Not always. Often it runs in the family. The doctor will look at the height by year."
+  },
+  {
+   "q": "Why an X-ray of the hand?",
+   "a": "It shows how mature the bones are and how much more the child can grow."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Pediatric endocrinologist tomorrow. Write down your child's height and weight for past years."
+  }
+ ]
+}

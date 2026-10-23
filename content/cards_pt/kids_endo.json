@@ -1,0 +1,75 @@
+{
+ "title": "Consulta com endocrinologista infantil (altura, peso, puberdade)",
+ "also": [
+  "endocrinologista infantil",
+  "endocrinopediatra",
+  "crescimento da criança",
+  "puberdade precoce"
+ ],
+ "what": "O médico avalia como a criança está crescendo e se desenvolvendo e se os hormônios não estão atrapalhando.",
+ "why": "Se a criança é bem mais baixa ou mais alta que as outras da idade, ganha peso demais, a puberdade começou cedo ou tarde demais, ou há suspeita de problema na tireoide.",
+ "duration": "a consulta leva normalmente de 20 a 40 minutos; os exames saem em alguns dias",
+ "tell_doctor": [
+  "Altura e peso da criança ano a ano, da caderneta ou das suas anotações",
+  "Altura dos pais",
+  "Quando começaram os sinais da puberdade",
+  "Como a criança come, dorme e se mexe",
+  "Quais remédios toma"
+ ],
+ "prepare": [
+  {
+   "title": "Altura ano a ano",
+   "text": "Copie da caderneta a altura e o peso dos anos anteriores. Isso é o principal para o médico."
+  },
+  {
+   "title": "Exames",
+   "text": "O médico pode pedir exames de hormônios. Normalmente de manhã, em jejum. Confirme na clínica."
+  },
+  {
+   "title": "Conversa",
+   "text": "Explique à criança que o médico vai ver como ela está crescendo e que não dói."
+  }
+ ],
+ "bring": [
+  "Documento da criança",
+  "Caderneta de saúde com as medidas de altura",
+  "Exames anteriores e radiografia da mão, se fez"
+ ],
+ "steps": [
+  "O médico pergunta sobre o desenvolvimento",
+  "Mede altura e peso",
+  "Examina a criança e, se precisar, também os sinais de puberdade, com cuidado e com o responsável presente",
+  "Apalpa o pescoço",
+  "Pode pedir exames ou radiografia da mão",
+  "Explica a conclusão e o plano"
+ ],
+ "feel": [
+  "O exame não dói",
+  "O adolescente pode ficar sem graça; dá para pedir um exame mais rápido"
+ ],
+ "after": [
+  "Acompanhe a altura e o peso: anote a cada poucos meses",
+  "Remédios só com receita do médico",
+  "Volte no prazo que o médico indicar"
+ ],
+ "red_flags": [
+  "A criança bebe muita água, faz muito xixi, emagrece e está mole: procure o médico com urgência",
+  "Hálito com cheiro de acetona, vômito e sonolência: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Meu filho é o mais baixo da turma. Isso é doença?",
+   "a": "Nem sempre. Muitas vezes é herança da família. O médico vai olhar a altura ano a ano."
+  },
+  {
+   "q": "Para que radiografia da mão?",
+   "a": "Ela mostra o quanto os ossos já amadureceram e quanto a criança ainda pode crescer."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o endocrinologista infantil. Copie a altura e o peso da criança dos anos anteriores."
+  }
+ ]
+}

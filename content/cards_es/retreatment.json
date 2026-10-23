@@ -1,0 +1,74 @@
+{
+ "title": "Retratamiento de conductos del diente",
+ "also": [
+  "retratamiento de conductos",
+  "repetir el tratamiento de conductos",
+  "retiro del empaste de los conductos"
+ ],
+ "what": "El dentista abre un diente que ya fue tratado, retira el material anterior de los conductos, los limpia y los vuelve a rellenar.",
+ "why": "Cuando después del tratamiento anterior el diente duele, en la radiografía se ve inflamación en la raíz o hace falta poner una corona en un diente con conductos mal rellenados.",
+ "duration": "normalmente de 1 a 2 horas, muchas veces en 2 o 3 visitas",
+ "tell_doctor": [
+  "Cuándo y dónde te trataron el diente antes, si lo sabes",
+  "Si el diente duele o hubo hinchazón",
+  "Alergias, sobre todo a anestésicos y antibióticos",
+  "Enfermedades y medicamentos, sobre todo los que adelgazan la sangre",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Radiografías",
+   "text": "Normalmente hace falta una radiografía reciente o una imagen 3D del diente."
+  },
+  {
+   "title": "Comida",
+   "text": "Come de 1 a 2 horas antes de la cita."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Radiografías anteriores del diente, si las tienes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te ponen anestesia",
+  "El diente se aísla de la saliva con una lámina de hule",
+  "Retiran el empaste o la corona anterior",
+  "Sacan el material viejo de los conductos",
+  "Limpian y enjuagan los conductos",
+  "A veces dejan un medicamento hasta la siguiente visita",
+  "Rellenan los conductos y cierran el diente con una resina temporal o definitiva"
+ ],
+ "feel": [
+  "Con anestesia, presión y vibración",
+  "Mantener la boca abierta mucho tiempo cansa",
+  "Después, el diente puede molestar unos días"
+ ],
+ "after": [
+  "No mastiques de ese lado mientras tengas la resina temporal",
+  "El analgésico, solo como recomiende el médico",
+  "Ve a todas las citas programadas",
+  "Después del tratamiento, el diente normalmente se cubre con una corona o incrustación; el médico te lo dirá"
+ ],
+ "red_flags": [
+  "Hinchazón de la mejilla o la encía",
+  "Dolor fuerte que va en aumento",
+  "Fiebre de más de 38 con hinchazón de la cara"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué hay que tratar el diente otra vez?",
+   "a": "A veces queda infección en los conductos o el relleno no quedó bien sellado. Entonces se inflama la raíz."
+  },
+  {
+   "q": "¿Puedo no tratarlo si no duele?",
+   "a": "La inflamación puede avanzar sin dolor. Tomen la decisión junto con el dentista."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes el tratamiento de conductos. Come de 1 a 2 horas antes de la cita y lleva tus radiografías anteriores."
+  }
+ ]
+}

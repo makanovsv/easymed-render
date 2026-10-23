@@ -1,0 +1,70 @@
+{
+ "title": "Skelet stsintigrafiyasi",
+ "also": [
+  "osteostsintigrafiya",
+  "suyak stsintigrafiyasi",
+  "skeletning radioizotop tekshiruvi"
+ ],
+ "what": "Venaga belgili moddaning kichik dozasi yuboriladi. U suyaklarda to‘planadi, maxsus kamera esa butun skeletning rasmlarini oladi.",
+ "why": "Suyaklardagi o‘zgarishlarni topish uchun, shifokorga butun skeletni birdan ko‘rish kerak bo‘lganda; sababi noma’lum suyak og‘riqlarida.",
+ "duration": "butun tashrif odatda 3–5 soat: ukol, 2–4 soat kutish va 20–40 daqiqa rasm; tavsif 1–3 kunda",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Emizsangiz: tanaffus kerak bo‘ladi",
+  "Yaqinda izotoplar yoki bariy bilan boshqa tekshiruvlar bo‘lgan bo‘lsa",
+  "30 daqiqa chalqancha yotish qiyin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda maxsus tayyorgarlik kerak emas. Ovqat yeb, suv ichsa bo‘ladi."
+  },
+  {
+   "title": "Suv",
+   "text": "Ukoldan keyin ko‘proq suv ichish va tez-tez hojatxonaga borish so‘raladi."
+  },
+  {
+   "title": "Metall",
+   "text": "Rasmdan oldin taqinchoqlar, kamar va cho‘ntakdagi kalitlarni yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi rasmlar va xulosalar",
+  "Suv va kutish vaqtida o‘qish uchun biror narsa"
+ ],
+ "steps": [
+  "Sizga venaga ukol qilishadi: oddiy, tahlildagi kabi",
+  "2–4 soat kutasiz, suv ichasiz, hojatxonaga borasiz",
+  "Rasmdan oldin siydik pufagini bo‘shatish kerak",
+  "Siz chalqancha yotasiz, kamera tana ustidan sekin o‘tadi",
+  "20–40 daqiqa qimirlamay yotish kerak"
+ ],
+ "feel": [
+  "Ukol: qon topshirishdagi kabi",
+  "Modda hech qanday sezilmaydi",
+  "Kamera yaqin, lekin tegmaydi va shovqin qilmaydi"
+ ],
+ "after": [
+  "Shu kuni ko‘proq suv iching va tez-tez hojatxonaga boring",
+  "Odatda bir sutka kichik bolalarni qo‘lda ushlamagan va homilador ayollar yonida yaqin o‘tirmagan ma’qul: klinikadan aniqlab oling",
+  "Tavsif sizni yuborgan shifokorga"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bu xavfli nurlanishmi?",
+   "a": "Doza kichik, KT ga yaqin. Modda siydik bilan tez chiqib ketadi."
+  },
+  {
+   "q": "Tekshiruvdan keyin bolalar bilan bo‘lsa bo‘ladimi?",
+   "a": "Odatda bir sutka chaqaloqlarni qo‘lda ushlamaslik maslahat beriladi. Aniq vaqtni klinikada aytishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga skelet stsintigrafiyasi. Tashrif 3–5 soat davom etadi, suv va o‘qish uchun biror narsa oling."
+  }
+ ]
+}

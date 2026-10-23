@@ -1,0 +1,75 @@
+{
+ "title": "Consulta com tisiologista (médico da tuberculose)",
+ "also": [
+  "tisiologista",
+  "médico da tuberculose",
+  "pneumologista tuberculose",
+  "exame de tuberculose"
+ ],
+ "what": "O tisiologista é o médico que verifica se há tuberculose e trata a doença. Muitas vezes a pessoa é encaminhada só para conferir.",
+ "why": "Para alterações na fluorografia (radiografia de tórax de rastreamento, comum na Rússia e no Cazaquistão), teste de tuberculose positivo, contato com doente, tosse longa e atestados.",
+ "duration": "a consulta leva normalmente de 20 a 30 minutos; a investigação, de alguns dias a umas duas semanas",
+ "tell_doctor": [
+  "Se teve contato com alguém com tuberculose",
+  "Tosse, suor à noite, perda de peso, febre",
+  "Se já teve tuberculose",
+  "Se tem HIV, diabetes ou toma corticoides",
+  "Resultados de testes e imagens anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Imagens",
+   "text": "Leve a fluorografia, o raio-X ou a tomografia do pulmão e os testes de tuberculose, se tiver."
+  },
+  {
+   "title": "Escarro",
+   "text": "Se pedirem exame de escarro, ele é colhido de manhã, antes de comer, num frasco especial. Vão explicar como."
+  },
+  {
+   "title": "Máscara",
+   "text": "Se estiver tossindo, vá de máscara."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Pedido médico",
+  "Imagens do pulmão",
+  "Resultados de testes de tuberculose"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas e os contatos",
+  "Escuta os pulmões",
+  "Olha as imagens e os testes",
+  "Pode pedir tomografia, exame de escarro ou de sangue",
+  "Explica o resultado",
+  "Se precisar, indica tratamento ou acompanhamento"
+ ],
+ "feel": [
+  "A consulta não dói",
+  "Se fizerem teste na pele, uma picada rápida no antebraço"
+ ],
+ "after": [
+  "Se não houver tuberculose, você recebe o laudo",
+  "Se houver tratamento, ele é tomado por muito tempo e sem falhas",
+  "As pessoas próximas talvez também precisem fazer exames"
+ ],
+ "red_flags": [
+  "Tosse com sangue ou falta de ar forte: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Se me encaminharam ao tisiologista, quer dizer que tenho tuberculose?",
+   "a": "Não. Na maioria das vezes é só para conferir e descartar a doença."
+  },
+  {
+   "q": "Tuberculose tem cura?",
+   "a": "Sim. O principal é tomar os remédios até o fim, sem falhar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o tisiologista. Leve as imagens do pulmão e os resultados dos testes."
+  }
+ ]
+}

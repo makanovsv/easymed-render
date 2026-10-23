@@ -1,0 +1,74 @@
+{
+ "title": "Consulta con el especialista en adicciones",
+ "also": [
+  "especialista en adicciones",
+  "médico de adicciones",
+  "tratamiento del alcoholismo",
+  "ayuda para una adicción"
+ ],
+ "what": "El médico ayuda con la dependencia del alcohol, de medicamentos y de otras sustancias. También hace revisiones para certificados.",
+ "why": "Con problemas con el alcohol u otras sustancias, si tú o tus familiares están preocupados; para revisiones médicas y certificados.",
+ "duration": "la consulta normalmente dura de 20 a 40 minutos",
+ "tell_doctor": [
+  "Qué consumes, con qué frecuencia y cuánto, con honestidad; eso ayudará al tratamiento",
+  "Cuándo fue la última vez",
+  "Qué medicamentos tomas",
+  "Si has tenido convulsiones o un estado grave al dejarlo",
+  "Si tienes enfermedades del hígado o del corazón, depresión"
+ ],
+ "prepare": [
+  {
+   "title": "Anonimato",
+   "text": "Pregunta en la clínica con anticipación por la consulta anónima, si es importante para ti."
+  },
+  {
+   "title": "Antes de la consulta",
+   "text": "Ven sobrio: así el médico podrá evaluar bien tu estado."
+  },
+  {
+   "title": "Apoyo",
+   "text": "Puedes venir con una persona cercana."
+  }
+ ],
+ "bring": [
+  "Identificación",
+  "La lista de medicamentos",
+  "Resúmenes de hospitales, si has estado"
+ ],
+ "steps": [
+  "El médico te pregunta con calma sobre tus hábitos y tu salud",
+  "Mide la presión y el pulso, te revisa",
+  "Puede proponer un análisis de sangre u orina",
+  "Habla contigo sobre lo que quieres lograr",
+  "Propone un plan de tratamiento y apoyo"
+ ],
+ "feel": [
+  "La consulta no duele",
+  "Hablar de la adicción es difícil; el médico no juzga, ayuda"
+ ],
+ "after": [
+  "Es mejor empezar el tratamiento bajo vigilancia del médico",
+  "Dejarlo de golpe con una dependencia fuerte puede ser peligroso; habla con el médico",
+  "Los grupos de apoyo ayudan a mantener el resultado"
+ ],
+ "red_flags": [
+  "Convulsiones, confusión, alucinaciones después de dejar el alcohol: llama a emergencias",
+  "Señales de intoxicación: mucha somnolencia, respiración lenta: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿En mi trabajo se enterarán de que fui con el especialista en adicciones?",
+   "a": "El secreto médico está protegido por la ley. Pregunta en la clínica por la consulta anónima."
+  },
+  {
+   "q": "¿Puedo dejarlo yo solo?",
+   "a": "A veces sí, pero con una dependencia fuerte dejarlo de golpe es peligroso. Es mejor bajo vigilancia del médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta con el especialista en adicciones. Lleva tu identificación y la lista de medicamentos."
+  }
+ ]
+}

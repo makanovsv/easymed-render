@@ -5275,6 +5275,3546 @@
    "review": "L",
    "freq": 3,
    "code": ""
+  },
+  {
+   "id": "trab",
+   "section": "lab",
+   "ru": "Антитела к рецептору ТТГ",
+   "en": "TSH receptor antibodies",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "calcitonin",
+   "section": "lab",
+   "ru": "Кальцитонин и тиреоглобулин",
+   "en": "Calcitonin and thyroglobulin",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "dheas_17oh",
+   "section": "lab",
+   "ru": "ДГЭА-С и 17-ОН-прогестерон",
+   "en": "DHEA-S and 17-OH progesterone",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "aldo_renin",
+   "section": "lab",
+   "ru": "Альдостерон и ренин",
+   "en": "Aldosterone and renin",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "acth",
+   "section": "lab",
+   "ru": "АКТГ (адренокортикотропный гормон)",
+   "en": "ACTH test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "gh_igf1",
+   "section": "lab",
+   "ru": "Гормон роста и ИФР-1",
+   "en": "Growth hormone and IGF-1",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "metanephrines",
+   "section": "lab",
+   "ru": "Метанефрины в крови и моче",
+   "en": "Metanephrines in blood and urine",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "zinc",
+   "section": "lab",
+   "ru": "Цинк в крови",
+   "en": "Blood zinc",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "vit_a_e",
+   "section": "lab",
+   "ru": "Витамины A и E",
+   "en": "Vitamins A and E",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "iodine_urine",
+   "section": "lab",
+   "ru": "Йод в моче",
+   "en": "Urinary iodine",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "hep_a",
+   "section": "lab",
+   "ru": "Анализ на гепатит A",
+   "en": "Hepatitis A test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "anti_hbs",
+   "section": "lab",
+   "ru": "Антитела после прививки от гепатита B (анти-HBs)",
+   "en": "Hepatitis B vaccine antibody check (anti-HBs)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "hcv_rna",
+   "section": "lab",
+   "ru": "ПЦР на гепатит C (вирусная нагрузка)",
+   "en": "Hepatitis C viral load (PCR)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "hbv_dna",
+   "section": "lab",
+   "ru": "ПЦР на гепатит B (вирусная нагрузка)",
+   "en": "Hepatitis B viral load (PCR)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "hiv_load",
+   "section": "lab",
+   "ru": "ВИЧ: вирусная нагрузка и CD4",
+   "en": "HIV viral load and CD4 count",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ebv",
+   "section": "lab",
+   "ru": "Вирус Эпштейна–Барр (мононуклеоз)",
+   "en": "Epstein–Barr virus (mononucleosis) test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "tick_tests",
+   "section": "lab",
+   "ru": "Анализы после укуса клеща (энцефалит, боррелиоз)",
+   "en": "Tests after a tick bite (encephalitis, Lyme)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "brucella",
+   "section": "lab",
+   "ru": "Анализ на бруцеллёз",
+   "en": "Brucellosis test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "echinococcus",
+   "section": "lab",
+   "ru": "Антитела к эхинококку",
+   "en": "Echinococcus antibodies",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "toxocara_giardia",
+   "section": "lab",
+   "ru": "Антитела к токсокарам и лямблиям",
+   "en": "Toxocara and Giardia antibodies",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "pertussis_pcr",
+   "section": "lab",
+   "ru": "ПЦР на коклюш",
+   "en": "Whooping cough PCR",
+   "scene": "swab",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "stool_pcr",
+   "section": "lab",
+   "ru": "ПЦР кала на кишечные инфекции (рота-, норовирус)",
+   "en": "Stool PCR for gut infections (rotavirus, norovirus)",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "stool_culture",
+   "section": "lab",
+   "ru": "Посев кала на сальмонеллу и шигеллу",
+   "en": "Stool culture for Salmonella and Shigella",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "measles_igg",
+   "section": "lab",
+   "ru": "Антитела к кори (проверка иммунитета)",
+   "en": "Measles immunity test (IgG)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "nasal_staph",
+   "section": "lab",
+   "ru": "Посев из носа на золотистый стафилококк",
+   "en": "Nasal swab for Staphylococcus aureus",
+   "scene": "swab",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "tb_sputum",
+   "section": "lab",
+   "ru": "Мокрота на туберкулёз (микроскопия, GeneXpert)",
+   "en": "Sputum test for tuberculosis (smear, GeneXpert)",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "aslo",
+   "section": "lab",
+   "ru": "Антистрептолизин-О (АСЛО)",
+   "en": "Antistreptolysin O (ASO)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "urethral_swab",
+   "section": "lab",
+   "ru": "Мазок из уретры у мужчин",
+   "en": "Urethral swab (men)",
+   "scene": "uro_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "gbs_swab",
+   "section": "lab",
+   "ru": "Мазок на стрептококк группы B при беременности",
+   "en": "Group B strep swab in pregnancy",
+   "scene": "gyn_chair",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "allergy_molecular",
+   "section": "lab",
+   "ru": "Молекулярная аллергодиагностика (ALEX, ImmunoCAP)",
+   "en": "Component allergy testing (ALEX, ImmunoCAP)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "allergy_milk_baby",
+   "section": "lab",
+   "ru": "Аллергия на белок коровьего молока у малыша",
+   "en": "Cow's milk protein allergy in infants",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "patch_test",
+   "section": "lab",
+   "ru": "Аппликационные аллергопробы (патч-тест)",
+   "en": "Patch testing for contact allergy",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "brca",
+   "section": "lab",
+   "ru": "Генетический тест BRCA1/2",
+   "en": "BRCA1/2 genetic test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "lynch_panel",
+   "section": "lab",
+   "ru": "Генетическая панель наследственного рака кишечника",
+   "en": "Hereditary colorectal cancer gene panel",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "carrier_screen",
+   "section": "lab",
+   "ru": "Скрининг носительства генетических болезней перед беременностью",
+   "en": "Carrier screening before pregnancy",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "pharmacogenetics",
+   "section": "lab",
+   "ru": "Фармакогенетический тест (варфарин, клопидогрел)",
+   "en": "Pharmacogenetic test (warfarin, clopidogrel)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "exome",
+   "section": "lab",
+   "ru": "Экзомное секвенирование ребёнку",
+   "en": "Exome sequencing for a child",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "hla_b27",
+   "section": "lab",
+   "ru": "HLA-B27",
+   "en": "HLA-B27 test",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "hb_electro",
+   "section": "lab",
+   "ru": "Электрофорез гемоглобина (талассемия)",
+   "en": "Haemoglobin electrophoresis (thalassaemia)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "pgt",
+   "section": "lab",
+   "ru": "Генетическое тестирование эмбрионов (ПГТ)",
+   "en": "Preimplantation genetic testing (PGT)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "amylase_lipase",
+   "section": "lab",
+   "ru": "Амилаза и липаза",
+   "en": "Amylase and lipase",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "cystatin",
+   "section": "lab",
+   "ru": "Цистатин C",
+   "en": "Cystatin C",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "immunoglobulins",
+   "section": "lab",
+   "ru": "Иммуноглобулины A, M, G",
+   "en": "Immunoglobulins A, M, G",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "protein_electro",
+   "section": "lab",
+   "ru": "Электрофорез белков крови",
+   "en": "Serum protein electrophoresis",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "mar_test",
+   "section": "lab",
+   "ru": "MAR-тест (антиспермальные антитела)",
+   "en": "MAR test (antisperm antibodies)",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "sperm_dna",
+   "section": "lab",
+   "ru": "Фрагментация ДНК сперматозоидов",
+   "en": "Sperm DNA fragmentation",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "elastase_stool",
+   "section": "lab",
+   "ru": "Панкреатическая эластаза в кале",
+   "en": "Faecal pancreatic elastase",
+   "scene": "lab_cup",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "drug_levels",
+   "section": "lab",
+   "ru": "Концентрация лекарства в крови (вальпроаты, литий, дигоксин)",
+   "en": "Drug level monitoring (valproate, lithium, digoxin)",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "coombs_baby",
+   "section": "lab",
+   "ru": "Проба Кумбса и группа крови у новорождённого",
+   "en": "Coombs test and blood type in newborns",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "rh_antibodies",
+   "section": "lab",
+   "ru": "Антирезусные антитела при беременности",
+   "en": "Rh antibodies in pregnancy",
+   "scene": "lab_draw",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "preg_test_home",
+   "section": "lab",
+   "ru": "Домашний тест на беременность",
+   "en": "Home pregnancy test",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "ovulation_test",
+   "section": "lab",
+   "ru": "Тест на овуляцию дома",
+   "en": "Home ovulation test",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "ketones_home",
+   "section": "lab",
+   "ru": "Кетоны в моче и крови дома",
+   "en": "Home ketone testing",
+   "scene": "home",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "us_bowel",
+   "section": "us",
+   "ru": "УЗИ кишечника",
+   "en": "Bowel ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "us_fetal_echo",
+   "section": "us",
+   "ru": "УЗИ сердца плода (фетальная ЭхоКГ)",
+   "en": "Fetal echocardiography",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "us_adrenal",
+   "section": "us",
+   "ru": "УЗИ надпочечников",
+   "en": "Adrenal ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "us_eye",
+   "section": "us",
+   "ru": "УЗИ глаза",
+   "en": "Eye ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "us_inguinal",
+   "section": "us",
+   "ru": "УЗИ паховых каналов (грыжа)",
+   "en": "Groin ultrasound for hernia",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ceus_liver",
+   "section": "us",
+   "ru": "УЗИ печени с контрастом",
+   "en": "Contrast-enhanced liver ultrasound",
+   "scene": "us_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "hycosy",
+   "section": "us",
+   "ru": "УЗИ проходимости маточных труб (Эхо-ГСС)",
+   "en": "Tubal patency ultrasound (HyCoSy)",
+   "scene": "us_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "us_3d_preg",
+   "section": "us",
+   "ru": "3D/4D УЗИ при беременности",
+   "en": "3D/4D pregnancy scan",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "biophysical",
+   "section": "us",
+   "ru": "Биофизический профиль плода",
+   "en": "Fetal biophysical profile",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "us_postpartum",
+   "section": "us",
+   "ru": "УЗИ матки после родов",
+   "en": "Postpartum uterine ultrasound",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "us_pylorus_baby",
+   "section": "us",
+   "ru": "УЗИ желудка младенцу при срыгиваниях (пилоростеноз)",
+   "en": "Infant ultrasound for pyloric stenosis",
+   "scene": "us_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ecg_patch",
+   "section": "func",
+   "ru": "Длительный ЭКГ-монитор (патч на 7–14 дней)",
+   "en": "Extended ECG patch monitor (7–14 days)",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ecg_watch",
+   "section": "func",
+   "ru": "ЭКГ на смарт-часах: как записать и показать врачу",
+   "en": "Recording an ECG on a smartwatch",
+   "scene": "home",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "peak_flow",
+   "section": "func",
+   "ru": "Пикфлоуметрия дома",
+   "en": "Home peak flow monitoring",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "walk_6min",
+   "section": "func",
+   "ru": "Тест шестиминутной ходьбы",
+   "en": "Six-minute walk test",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "cpet",
+   "section": "func",
+   "ru": "Кардиопульмональный нагрузочный тест",
+   "en": "Cardiopulmonary exercise test",
+   "scene": "func_treadmill",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "feno",
+   "section": "func",
+   "ru": "Оксид азота в выдохе (FeNO)",
+   "en": "Exhaled nitric oxide test (FeNO)",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "methacholine",
+   "section": "func",
+   "ru": "Провокационный тест с метахолином",
+   "en": "Methacholine challenge test",
+   "scene": "func_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "spiro_kids",
+   "section": "func",
+   "ru": "Спирометрия у ребёнка",
+   "en": "Spirometry in children",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "capillaroscopy",
+   "section": "func",
+   "ru": "Капилляроскопия ногтевого ложа",
+   "en": "Nailfold capillaroscopy",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "home_sleep_test",
+   "section": "func",
+   "ru": "Домашний тест на апноэ сна",
+   "en": "Home sleep apnoea test",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "bia",
+   "section": "func",
+   "ru": "Биоимпедансный анализ состава тела",
+   "en": "Body composition analysis (bioimpedance)",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "anorectal_mano",
+   "section": "func",
+   "ru": "Аноректальная манометрия",
+   "en": "Anorectal manometry",
+   "scene": "func_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "hydrogen_breath",
+   "section": "func",
+   "ru": "Водородный дыхательный тест (СИБР, лактоза)",
+   "en": "Hydrogen breath test (SIBO, lactose)",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "holter_kids",
+   "section": "func",
+   "ru": "Холтер ЭКГ у ребёнка",
+   "en": "Holter monitor in children",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ssep_hearing_baby",
+   "section": "func",
+   "ru": "Объективная проверка слуха у малыша (КСВП, ASSR)",
+   "en": "Objective infant hearing test (ABR, ASSR)",
+   "scene": "func_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "erg",
+   "section": "func",
+   "ru": "Электроретинография",
+   "en": "Electroretinography",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "bone_age",
+   "section": "rad",
+   "ru": "Рентген кисти на костный возраст",
+   "en": "Hand X-ray for bone age",
+   "scene": "xr_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "vcug",
+   "section": "rad",
+   "ru": "Микционная цистография у ребёнка",
+   "en": "Voiding cystourethrogram in children",
+   "scene": "xr_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "iv_urography",
+   "section": "rad",
+   "ru": "Экскреторная урография",
+   "en": "Intravenous urography",
+   "scene": "xr_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ldct_lung",
+   "section": "rad",
+   "ru": "Низкодозная КТ лёгких для курильщиков",
+   "en": "Low-dose CT lung cancer screening",
+   "scene": "ct_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "mrcp",
+   "section": "rad",
+   "ru": "МР-холангиография (МРХПГ)",
+   "en": "MR cholangiography (MRCP)",
+   "scene": "mri_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "mr_enterography",
+   "section": "rad",
+   "ru": "МР-энтерография",
+   "en": "MR enterography",
+   "scene": "mri_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "mri_preg",
+   "section": "rad",
+   "ru": "МРТ при беременности",
+   "en": "MRI during pregnancy",
+   "scene": "mri_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "contrast_safety",
+   "section": "rad",
+   "ru": "Контраст при КТ и МРТ: почки, аллергия, кормление грудью",
+   "en": "Contrast for CT and MRI: kidneys, allergy, breastfeeding",
+   "scene": "ct_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "renal_scinti",
+   "section": "rad",
+   "ru": "Сцинтиграфия почек",
+   "en": "Renal scintigraphy",
+   "scene": "ct_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "myo_scinti",
+   "section": "rad",
+   "ru": "Перфузионная сцинтиграфия миокарда",
+   "en": "Myocardial perfusion scan",
+   "scene": "ct_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "rai_therapy",
+   "section": "rad",
+   "ru": "Лечение радиоактивным йодом",
+   "en": "Radioactive iodine therapy",
+   "scene": "ward",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ceph_xray",
+   "section": "rad",
+   "ru": "Телерентгенограмма (ТРГ) для ортодонта",
+   "en": "Cephalometric X-ray for orthodontics",
+   "scene": "dent_xray",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "cerebral_angio",
+   "section": "rad",
+   "ru": "Ангиография сосудов головного мозга",
+   "en": "Cerebral angiography",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "fgds_nasal",
+   "section": "endo",
+   "ru": "Трансназальная гастроскопия (тонким зондом)",
+   "en": "Transnasal gastroscopy",
+   "scene": "endo_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "colono_kids",
+   "section": "endo",
+   "ru": "Колоноскопия ребёнку",
+   "en": "Colonoscopy in children",
+   "scene": "endo_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "gastric_polyp",
+   "section": "endo",
+   "ru": "Удаление полипа желудка",
+   "en": "Gastric polyp removal",
+   "scene": "endo_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "varices_banding",
+   "section": "endo",
+   "ru": "Лигирование варикозных вен пищевода",
+   "en": "Oesophageal variceal banding",
+   "scene": "endo_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "peg",
+   "section": "endo",
+   "ru": "Установка гастростомы (ПЭГ)",
+   "en": "Feeding tube placement (PEG)",
+   "scene": "endo_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "enteroscopy",
+   "section": "endo",
+   "ru": "Энтероскопия тонкой кишки",
+   "en": "Small-bowel enteroscopy",
+   "scene": "endo_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "foreign_swallow",
+   "section": "endo",
+   "ru": "Удаление проглоченного предмета у ребёнка",
+   "en": "Removal of a swallowed object in a child",
+   "scene": "endo_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "esoph_dilation",
+   "section": "endo",
+   "ru": "Бужирование пищевода",
+   "en": "Oesophageal dilation",
+   "scene": "endo_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "picc",
+   "section": "proc",
+   "ru": "Установка PICC-катетера",
+   "en": "PICC line insertion",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "port_install",
+   "section": "proc",
+   "ru": "Установка порт-системы для химиотерапии",
+   "en": "Implanted port placement for chemotherapy",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "port_care",
+   "section": "proc",
+   "ru": "Промывка и уход за порт-системой",
+   "en": "Implanted port flushing and care",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "chemo_infusion",
+   "section": "proc",
+   "ru": "Химиотерапия: как проходит курс",
+   "en": "Chemotherapy infusion: what to expect",
+   "scene": "ward",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "radiotherapy",
+   "section": "proc",
+   "ru": "Лучевая терапия: как проходит курс",
+   "en": "Radiotherapy course: what to expect",
+   "scene": "ct_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "hemodialysis",
+   "section": "proc",
+   "ru": "Гемодиализ",
+   "en": "Haemodialysis",
+   "scene": "ward",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "pd_home",
+   "section": "proc",
+   "ru": "Перитонеальный диализ дома",
+   "en": "Home peritoneal dialysis",
+   "scene": "home",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "plasmapheresis",
+   "section": "proc",
+   "ru": "Плазмаферез",
+   "en": "Plasmapheresis",
+   "scene": "ward",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "biologic_infusion",
+   "section": "proc",
+   "ru": "Инфузия биологической терапии",
+   "en": "Biologic therapy infusion",
+   "scene": "ward",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "zoledronic",
+   "section": "proc",
+   "ru": "Капельница от остеопороза (золедроновая кислота)",
+   "en": "Zoledronic acid infusion for osteoporosis",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "hbot",
+   "section": "proc",
+   "ru": "Гипербарическая оксигенация (барокамера)",
+   "en": "Hyperbaric oxygen therapy",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "joint_aspiration",
+   "section": "proc",
+   "ru": "Пункция сустава с удалением жидкости",
+   "en": "Joint aspiration",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "breast_cyst_asp",
+   "section": "proc",
+   "ru": "Пункция кисты молочной железы",
+   "en": "Breast cyst aspiration",
+   "scene": "us_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "vac_therapy",
+   "section": "proc",
+   "ru": "Вакуумная терапия раны",
+   "en": "Negative-pressure wound therapy",
+   "scene": "ward",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "diabetic_foot_care",
+   "section": "proc",
+   "ru": "Перевязки при диабетической стопе",
+   "en": "Diabetic foot ulcer dressings",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "leg_ulcer",
+   "section": "proc",
+   "ru": "Лечение трофической язвы ноги",
+   "en": "Venous leg ulcer treatment",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ait",
+   "section": "proc",
+   "ru": "Аллергенспецифическая иммунотерапия (АСИТ)",
+   "en": "Allergen immunotherapy",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "insulin_pump",
+   "section": "proc",
+   "ru": "Инсулиновая помпа: установка и смена катетера",
+   "en": "Insulin pump: setup and set changes",
+   "scene": "home",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "cgm",
+   "section": "proc",
+   "ru": "Датчик непрерывного мониторинга глюкозы (Libre, Dexcom)",
+   "en": "Continuous glucose monitor (Libre, Dexcom)",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "cpap",
+   "section": "proc",
+   "ru": "СИПАП-терапия дома",
+   "en": "CPAP therapy at home",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "trach_care",
+   "section": "proc",
+   "ru": "Уход за трахеостомой дома",
+   "en": "Tracheostomy care at home",
+   "scene": "home",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "tube_feeding",
+   "section": "proc",
+   "ru": "Кормление через зонд и гастростому дома",
+   "en": "Tube and gastrostomy feeding at home",
+   "scene": "home",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "stoma_care",
+   "section": "proc",
+   "ru": "Уход за колостомой и илеостомой",
+   "en": "Colostomy and ileostomy care",
+   "scene": "home",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "bedsores",
+   "section": "proc",
+   "ru": "Профилактика пролежней у лежачего",
+   "en": "Pressure sore prevention in bedridden patients",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "patient_transfer",
+   "section": "proc",
+   "ru": "Как перемещать и переворачивать лежачего больного",
+   "en": "Moving and turning a bedridden patient",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "umbilical_care",
+   "section": "proc",
+   "ru": "Уход за пупочной ранкой новорождённого",
+   "en": "Newborn umbilical cord care",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "nephrostomy_care",
+   "section": "proc",
+   "ru": "Уход за нефростомой дома",
+   "en": "Nephrostomy care at home",
+   "scene": "home",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "self_cath",
+   "section": "proc",
+   "ru": "Самокатетеризация мочевого пузыря",
+   "en": "Intermittent self-catheterisation",
+   "scene": "home",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "eye_drops",
+   "section": "proc",
+   "ru": "Как закапывать капли и закладывать мазь в глаза",
+   "en": "How to use eye drops and ointment",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "nasal_spray",
+   "section": "proc",
+   "ru": "Как правильно пользоваться назальным спреем",
+   "en": "How to use a nasal spray correctly",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "fever_kids",
+   "section": "proc",
+   "ru": "Температура у ребёнка: как мерить и когда к врачу",
+   "en": "Fever in children: measuring and when to see a doctor",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "anticoag_home",
+   "section": "proc",
+   "ru": "Жизнь на антикоагулянтах: кровотечения, еда, другие лекарства",
+   "en": "Living on blood thinners: bleeding, food, other drugs",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "molluscum",
+   "section": "derm",
+   "ru": "Удаление контагиозного моллюска у ребёнка",
+   "en": "Molluscum contagiosum removal in children",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "onychomycosis",
+   "section": "derm",
+   "ru": "Лечение грибка ногтей",
+   "en": "Nail fungus treatment",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "atopic_kids",
+   "section": "derm",
+   "ru": "Атопический дерматит у ребёнка: лечение и уход",
+   "en": "Atopic eczema in children: treatment and skin care",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "urticaria",
+   "section": "derm",
+   "ru": "Приём при крапивнице",
+   "en": "Hives (urticaria) consultation",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "rosacea",
+   "section": "derm",
+   "ru": "Лечение розацеа",
+   "en": "Rosacea treatment",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "scabies",
+   "section": "derm",
+   "ru": "Лечение чесотки",
+   "en": "Scabies treatment",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "lice",
+   "section": "derm",
+   "ru": "Лечение педикулёза у ребёнка",
+   "en": "Head lice treatment in children",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "pdt_skin",
+   "section": "derm",
+   "ru": "Фотодинамическая терапия кожи",
+   "en": "Photodynamic therapy of the skin",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "calluses",
+   "section": "derm",
+   "ru": "Удаление мозолей и натоптышей (медицинский педикюр)",
+   "en": "Callus and corn removal (medical pedicure)",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "hemangioma",
+   "section": "derm",
+   "ru": "Лечение гемангиомы у ребёнка",
+   "en": "Infant haemangioma treatment",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "face_vessels",
+   "section": "derm",
+   "ru": "Удаление сосудистых звёздочек на лице лазером",
+   "en": "Laser removal of facial spider veins",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "tattoo_removal",
+   "section": "derm",
+   "ru": "Лазерное удаление татуировки",
+   "en": "Laser tattoo removal",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "fractional_laser",
+   "section": "derm",
+   "ru": "Фракционное лазерное омоложение",
+   "en": "Fractional laser resurfacing",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "acne_scars",
+   "section": "derm",
+   "ru": "Лечение рубцов после акне",
+   "en": "Acne scar treatment",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "mesotherapy",
+   "section": "derm",
+   "ru": "Мезотерапия кожи",
+   "en": "Skin mesotherapy",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "biorevital",
+   "section": "derm",
+   "ru": "Биоревитализация",
+   "en": "Skin biorevitalisation (hyaluronic acid)",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "prp_face",
+   "section": "derm",
+   "ru": "Плазмолифтинг лица и кожи головы",
+   "en": "PRP for face and scalp",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "hifu",
+   "section": "derm",
+   "ru": "SMAS-лифтинг (HIFU)",
+   "en": "HIFU SMAS lift",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ipl",
+   "section": "derm",
+   "ru": "IPL-фотоомоложение (пигмент, купероз)",
+   "en": "IPL photorejuvenation (pigment, redness)",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "facial_clean",
+   "section": "derm",
+   "ru": "Чистка лица у косметолога",
+   "en": "Facial cleansing by a cosmetologist",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "hair_transplant",
+   "section": "derm",
+   "ru": "Пересадка волос",
+   "en": "Hair transplant",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "alopecia_areata",
+   "section": "derm",
+   "ru": "Лечение гнёздной алопеции",
+   "en": "Alopecia areata treatment",
+   "scene": "office",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ganglion",
+   "section": "derm",
+   "ru": "Удаление гигромы кисти",
+   "en": "Ganglion cyst removal",
+   "scene": "or_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "caries_milk",
+   "section": "dent",
+   "ru": "Лечение кариеса молочных зубов",
+   "en": "Treating cavities in baby teeth",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "pulpotomy",
+   "section": "dent",
+   "ru": "Пульпотомия молочного зуба",
+   "en": "Pulpotomy of a baby tooth",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "kids_crown",
+   "section": "dent",
+   "ru": "Детская коронка на молочный зуб",
+   "en": "Crown for a baby tooth",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "removable_plate",
+   "section": "dent",
+   "ru": "Съёмная ортодонтическая пластинка у ребёнка",
+   "en": "Removable orthodontic plate for children",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "palate_expander",
+   "section": "dent",
+   "ru": "Расширитель нёба",
+   "en": "Palatal expander",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "retainer",
+   "section": "dent",
+   "ru": "Ретейнер после брекетов",
+   "en": "Retainer after braces",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "braces_hygiene",
+   "section": "dent",
+   "ru": "Чистка зубов с брекетами",
+   "en": "Cleaning teeth with braces",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "ortho_consult",
+   "section": "dent",
+   "ru": "Консультация ортодонта",
+   "en": "Orthodontic consultation",
+   "scene": "dent_chair",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "tongue_tie",
+   "section": "dent",
+   "ru": "Подрезка уздечки языка",
+   "en": "Tongue-tie release",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "lip_frenum",
+   "section": "dent",
+   "ru": "Пластика уздечки губы",
+   "en": "Lip frenum correction",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "stomatitis_kids",
+   "section": "dent",
+   "ru": "Стоматит у ребёнка",
+   "en": "Mouth ulcers (stomatitis) in children",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "brushing_kids",
+   "section": "dent",
+   "ru": "Как чистить зубы ребёнку",
+   "en": "How to brush a child's teeth",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "splinting",
+   "section": "dent",
+   "ru": "Шинирование подвижных зубов",
+   "en": "Splinting loose teeth",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "flap_surgery",
+   "section": "dent",
+   "ru": "Лоскутная операция на дёснах",
+   "en": "Gum flap surgery",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "gum_graft",
+   "section": "dent",
+   "ru": "Пластика рецессии десны",
+   "en": "Gum recession graft",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "retreatment",
+   "section": "dent",
+   "ru": "Перелечивание каналов зуба",
+   "en": "Root canal retreatment",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "apicoectomy",
+   "section": "dent",
+   "ru": "Резекция верхушки корня (удаление кисты зуба)",
+   "en": "Apicoectomy (root tip and cyst removal)",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "all_on_4",
+   "section": "dent",
+   "ru": "Протезирование на 4–6 имплантах (All-on-4)",
+   "en": "Full-arch implant prosthesis (All-on-4)",
+   "scene": "dent_chair",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "implant_care",
+   "section": "dent",
+   "ru": "Уход за имплантами",
+   "en": "Caring for dental implants",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "clasp_denture",
+   "section": "dent",
+   "ru": "Бюгельный протез",
+   "en": "Cast partial denture",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "denture_care",
+   "section": "dent",
+   "ru": "Уход за съёмным протезом",
+   "en": "Caring for removable dentures",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "tmj",
+   "section": "dent",
+   "ru": "Лечение боли в челюстном суставе (ВНЧС)",
+   "en": "Jaw joint (TMJ) pain treatment",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "dental_abscess",
+   "section": "dent",
+   "ru": "Вскрытие флюса",
+   "en": "Draining a dental abscess",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "dry_socket",
+   "section": "dent",
+   "ru": "Лечение альвеолита после удаления зуба",
+   "en": "Dry socket treatment",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "intraoral_scan",
+   "section": "dent",
+   "ru": "Цифровой слепок зубов (сканер)",
+   "en": "Digital dental impression (intraoral scan)",
+   "scene": "dent_chair",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "dent_preg",
+   "section": "dent",
+   "ru": "Лечение зубов при беременности",
+   "en": "Dental treatment during pregnancy",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "post_core",
+   "section": "dent",
+   "ru": "Восстановление зуба на штифте",
+   "en": "Post and core restoration",
+   "scene": "dent_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "color_vision",
+   "section": "eye",
+   "ru": "Проверка цветового зрения",
+   "en": "Colour vision test",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "cycloplegia",
+   "section": "eye",
+   "ru": "Проверка рефракции с закапыванием (циклоплегия) у ребёнка",
+   "en": "Cycloplegic refraction in children",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "myopia_control",
+   "section": "eye",
+   "ru": "Контроль близорукости у детей (ночные линзы, капли)",
+   "en": "Myopia control in children (night lenses, drops)",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "amblyopia",
+   "section": "eye",
+   "ru": "Лечение амблиопии (заклейка, аппаратное)",
+   "en": "Lazy eye treatment (patching, vision therapy)",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "topography",
+   "section": "eye",
+   "ru": "Кератотопография и пахиметрия",
+   "en": "Corneal topography and pachymetry",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "biometry",
+   "section": "eye",
+   "ru": "Биометрия глаза перед операцией катаракты",
+   "en": "Eye biometry before cataract surgery",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "rop",
+   "section": "eye",
+   "ru": "Осмотр глаз недоношенного (ретинопатия)",
+   "en": "Eye exam for premature babies (ROP)",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "crosslinking",
+   "section": "eye",
+   "ru": "Кросслинкинг роговицы",
+   "en": "Corneal cross-linking",
+   "scene": "eye_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "pterygium",
+   "section": "eye",
+   "ru": "Удаление птеригиума",
+   "en": "Pterygium removal",
+   "scene": "or_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "eye_foreign",
+   "section": "eye",
+   "ru": "Удаление инородного тела из глаза",
+   "en": "Removing a foreign body from the eye",
+   "scene": "eye_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "blepharitis",
+   "section": "eye",
+   "ru": "Гигиена век при блефарите",
+   "en": "Eyelid hygiene for blepharitis",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "punctal_plugs",
+   "section": "eye",
+   "ru": "Пробки для слёзных точек",
+   "en": "Punctal plugs",
+   "scene": "eye_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "diabetic_eye",
+   "section": "eye",
+   "ru": "Осмотр глаз при диабете",
+   "en": "Diabetic eye screening",
+   "scene": "eye_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "vitrectomy",
+   "section": "eye",
+   "ru": "Витрэктомия (при отслойке сетчатки и кровоизлиянии)",
+   "en": "Vitrectomy",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "trabeculectomy",
+   "section": "eye",
+   "ru": "Операция при глаукоме",
+   "en": "Glaucoma surgery",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "icl",
+   "section": "eye",
+   "ru": "Факичная линза (ICL)",
+   "en": "Phakic lens implant (ICL)",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ent_foreign",
+   "section": "ent",
+   "ru": "Удаление инородного тела из уха и носа у ребёнка",
+   "en": "Removing a foreign body from a child's ear or nose",
+   "scene": "ent_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "politzer",
+   "section": "ent",
+   "ru": "Продувание слуховых труб",
+   "en": "Eustachian tube inflation",
+   "scene": "ent_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "sinus_puncture",
+   "section": "ent",
+   "ru": "Пункция гайморовой пазухи",
+   "en": "Maxillary sinus puncture",
+   "scene": "ent_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "peritonsillar",
+   "section": "ent",
+   "ru": "Вскрытие паратонзиллярного абсцесса",
+   "en": "Peritonsillar abscess drainage",
+   "scene": "ent_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "otitis_kids",
+   "section": "ent",
+   "ru": "Отит у ребёнка: лечение и наблюдение",
+   "en": "Ear infection in children: treatment and follow-up",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "cochlear",
+   "section": "ent",
+   "ru": "Кохлеарная имплантация",
+   "en": "Cochlear implant surgery",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "tympanoplasty",
+   "section": "ent",
+   "ru": "Тимпанопластика",
+   "en": "Tympanoplasty",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "tinnitus",
+   "section": "ent",
+   "ru": "Приём при шуме в ушах",
+   "en": "Tinnitus consultation",
+   "scene": "ent_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "epley",
+   "section": "ent",
+   "ru": "Манёвр Эпли при позиционном головокружении",
+   "en": "Epley manoeuvre for positional vertigo",
+   "scene": "ent_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "phoniatrist",
+   "section": "ent",
+   "ru": "Приём фониатра (проблемы с голосом)",
+   "en": "Voice clinic (phoniatrist) visit",
+   "scene": "ent_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "smell_test",
+   "section": "ent",
+   "ru": "Проверка обоняния",
+   "en": "Smell test",
+   "scene": "ent_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "otoplasty",
+   "section": "ent",
+   "ru": "Отопластика (лопоухость)",
+   "en": "Otoplasty (prominent ears)",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "preconception",
+   "section": "gyn",
+   "ru": "Подготовка к беременности",
+   "en": "Preconception check-up",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "kick_count",
+   "section": "gyn",
+   "ru": "Подсчёт шевелений плода дома",
+   "en": "Counting fetal movements at home",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "birth_classes",
+   "section": "gyn",
+   "ru": "Курсы подготовки к родам",
+   "en": "Antenatal classes",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "partner_birth",
+   "section": "gyn",
+   "ru": "Партнёрские роды",
+   "en": "Partner-assisted birth",
+   "scene": "ward",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "perineal_care",
+   "section": "gyn",
+   "ru": "Уход за швами на промежности после родов",
+   "en": "Perineal stitch care after birth",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "vbac",
+   "section": "gyn",
+   "ru": "Роды после кесарева сечения",
+   "en": "Vaginal birth after caesarean (VBAC)",
+   "scene": "ward",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "pessary_preg",
+   "section": "gyn",
+   "ru": "Акушерский пессарий при беременности",
+   "en": "Cervical pessary in pregnancy",
+   "scene": "gyn_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "cerclage",
+   "section": "gyn",
+   "ru": "Шов на шейку матки (серкляж)",
+   "en": "Cervical cerclage",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "anti_d",
+   "section": "gyn",
+   "ru": "Антирезусный иммуноглобулин",
+   "en": "Anti-D immunoglobulin",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "maternity_bag",
+   "section": "gyn",
+   "ru": "Что взять в роддом",
+   "en": "What to pack for the maternity hospital",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "ppd_screen",
+   "section": "gyn",
+   "ru": "Скрининг послеродовой депрессии",
+   "en": "Postnatal depression screening",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "thrush",
+   "section": "gyn",
+   "ru": "Лечение молочницы и бактериального вагиноза",
+   "en": "Thrush and bacterial vaginosis treatment",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "pcos",
+   "section": "gyn",
+   "ru": "Приём при поликистозе яичников (СПКЯ)",
+   "en": "Polycystic ovary syndrome (PCOS) consultation",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "endometriosis_lap",
+   "section": "gyn",
+   "ru": "Лапароскопия при эндометриозе",
+   "en": "Laparoscopy for endometriosis",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "endometrial_polyp",
+   "section": "gyn",
+   "ru": "Удаление полипа эндометрия",
+   "en": "Endometrial polyp removal",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "condyloma",
+   "section": "gyn",
+   "ru": "Удаление остроконечных кондилом",
+   "en": "Genital wart removal",
+   "scene": "gyn_chair",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "girl_gyn",
+   "section": "gyn",
+   "ru": "Первый визит девочки к гинекологу",
+   "en": "A girl's first gynaecology visit",
+   "scene": "gyn_chair",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "ovulation_ind",
+   "section": "gyn",
+   "ru": "Стимуляция овуляции",
+   "en": "Ovulation induction",
+   "scene": "us_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ivf_stim",
+   "section": "gyn",
+   "ru": "ЭКО: стимуляция яичников и уколы",
+   "en": "IVF: ovarian stimulation and injections",
+   "scene": "home",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "tvt_sling",
+   "section": "gyn",
+   "ru": "Слинговая операция при недержании мочи",
+   "en": "Sling surgery for urinary incontinence",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "prolapse_pessary",
+   "section": "gyn",
+   "ru": "Пессарий при опущении матки",
+   "en": "Pessary for uterine prolapse",
+   "scene": "gyn_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "breast_self",
+   "section": "gyn",
+   "ru": "Самообследование молочных желёз",
+   "en": "Breast self-examination",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "tubal_ligation",
+   "section": "gyn",
+   "ru": "Женская стерилизация (перевязка труб)",
+   "en": "Tubal ligation",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "bartholin",
+   "section": "gyn",
+   "ru": "Лечение кисты бартолиновой железы",
+   "en": "Bartholin cyst treatment",
+   "scene": "gyn_chair",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "emergency_contra",
+   "section": "gyn",
+   "ru": "Экстренная контрацепция",
+   "en": "Emergency contraception",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "andrologist",
+   "section": "uro",
+   "ru": "Приём андролога",
+   "en": "Andrology consultation",
+   "scene": "uro_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "prostatitis",
+   "section": "uro",
+   "ru": "Лечение простатита",
+   "en": "Prostatitis treatment",
+   "scene": "uro_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "cystitis",
+   "section": "uro",
+   "ru": "Лечение цистита у женщин",
+   "en": "Cystitis treatment in women",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "prostatectomy",
+   "section": "uro",
+   "ru": "Радикальная простатэктомия",
+   "en": "Radical prostatectomy",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "frenuloplasty",
+   "section": "uro",
+   "ru": "Пластика уздечки крайней плоти",
+   "en": "Frenuloplasty",
+   "scene": "or_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "orchiopexy",
+   "section": "uro",
+   "ru": "Операция при неопущении яичка у мальчика",
+   "en": "Undescended testicle surgery in boys",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ureteral_stent",
+   "section": "uro",
+   "ru": "Стент мочеточника: установка и удаление",
+   "en": "Ureteral stent placement and removal",
+   "scene": "uro_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "pcnl",
+   "section": "uro",
+   "ru": "Перкутанная нефролитотрипсия",
+   "en": "Percutaneous nephrolithotomy",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "enuresis",
+   "section": "uro",
+   "ru": "Лечение ночного недержания у ребёнка",
+   "en": "Bedwetting treatment in children",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "bladder_diary",
+   "section": "uro",
+   "ru": "Дневник мочеиспускания",
+   "en": "Bladder diary",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "bladder_botox",
+   "section": "uro",
+   "ru": "Ботокс в мочевой пузырь при гиперактивности",
+   "en": "Bladder Botox for overactive bladder",
+   "scene": "uro_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "tese",
+   "section": "uro",
+   "ru": "Биопсия яичка (TESE)",
+   "en": "Testicular sperm extraction (TESE)",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "loop_recorder",
+   "section": "cardio",
+   "ru": "Имплантация петлевого регистратора ЭКГ",
+   "en": "Implantable loop recorder",
+   "scene": "cath_lab",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "pfo_closure",
+   "section": "cardio",
+   "ru": "Закрытие дефекта перегородки сердца (окклюдер)",
+   "en": "Septal defect closure (occluder)",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "tavi",
+   "section": "cardio",
+   "ru": "Транскатетерная замена аортального клапана (TAVI)",
+   "en": "Transcatheter aortic valve implantation (TAVI)",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "laa_closure",
+   "section": "cardio",
+   "ru": "Закрытие ушка левого предсердия",
+   "en": "Left atrial appendage closure",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "leg_angioplasty",
+   "section": "cardio",
+   "ru": "Баллонная ангиопластика артерий ног",
+   "en": "Balloon angioplasty of leg arteries",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "evar",
+   "section": "cardio",
+   "ru": "Эндопротезирование аневризмы аорты",
+   "en": "Endovascular aortic aneurysm repair (EVAR)",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "stroke_thrombectomy",
+   "section": "cardio",
+   "ru": "Тромбэктомия при инсульте",
+   "en": "Thrombectomy for stroke",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "uae",
+   "section": "cardio",
+   "ru": "Эмболизация маточных артерий",
+   "en": "Uterine artery embolisation",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "ep_study",
+   "section": "cardio",
+   "ru": "Электрофизиологическое исследование сердца (ЭФИ)",
+   "en": "Cardiac electrophysiology study",
+   "scene": "cath_lab",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "fundoplication",
+   "section": "surg",
+   "ru": "Операция при грыже пищеводного отверстия и рефлюксе",
+   "en": "Hiatal hernia repair and fundoplication",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "parathyroid",
+   "section": "surg",
+   "ru": "Удаление паращитовидной железы",
+   "en": "Parathyroidectomy",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "achilles",
+   "section": "surg",
+   "ru": "Операция при разрыве ахиллова сухожилия",
+   "en": "Achilles tendon repair",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "vertebroplasty",
+   "section": "surg",
+   "ru": "Вертебропластика при переломе позвонка",
+   "en": "Vertebroplasty for a vertebral fracture",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "pyloromyotomy",
+   "section": "surg",
+   "ru": "Операция при пилоростенозе у младенца",
+   "en": "Pyloromyotomy in infants",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "lobectomy",
+   "section": "surg",
+   "ru": "Удаление доли лёгкого",
+   "en": "Lung lobectomy",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "breast_recon",
+   "section": "surg",
+   "ru": "Реконструкция груди после мастэктомии",
+   "en": "Breast reconstruction after mastectomy",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "abdominoplasty",
+   "section": "surg",
+   "ru": "Абдоминопластика",
+   "en": "Abdominoplasty (tummy tuck)",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "anal_fistula",
+   "section": "surg",
+   "ru": "Операция при свище прямой кишки",
+   "en": "Anal fistula surgery",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "dupuytren",
+   "section": "surg",
+   "ru": "Операция при контрактуре Дюпюитрена",
+   "en": "Dupuytren's contracture surgery",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "kidney_transplant",
+   "section": "surg",
+   "ru": "Пересадка почки",
+   "en": "Kidney transplant",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "breast_reduction",
+   "section": "surg",
+   "ru": "Уменьшение груди",
+   "en": "Breast reduction",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "meniscus",
+   "section": "surg",
+   "ru": "Шов и резекция мениска",
+   "en": "Meniscus repair and trimming",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "fasting_preop",
+   "section": "anest",
+   "ru": "Голод перед наркозом: что можно и когда",
+   "en": "Fasting before anaesthesia: what and when",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "pca",
+   "section": "anest",
+   "ru": "Обезболивание после операции (эпидуральный катетер, помпа)",
+   "en": "Pain relief after surgery (epidural, PCA pump)",
+   "scene": "ward",
+   "review": "M",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "anest_elderly",
+   "section": "anest",
+   "ru": "Наркоз у пожилых",
+   "en": "Anaesthesia in older adults",
+   "scene": "or_room",
+   "review": "H",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "pain_home",
+   "section": "anest",
+   "ru": "Обезболивание дома после операции",
+   "en": "Managing pain at home after surgery",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "recovery_room",
+   "section": "anest",
+   "ru": "Пробуждение после наркоза",
+   "en": "Waking up after anaesthesia",
+   "scene": "ward",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "epidural_steroid",
+   "section": "anest",
+   "ru": "Эпидуральная инъекция при боли в спине",
+   "en": "Epidural steroid injection for back pain",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "rf_denervation",
+   "section": "anest",
+   "ru": "Радиочастотная денервация суставов позвоночника",
+   "en": "Radiofrequency denervation of spinal joints",
+   "scene": "proc_room",
+   "review": "M",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "hip_fracture_rehab",
+   "section": "rehab",
+   "ru": "Реабилитация после перелома шейки бедра",
+   "en": "Rehab after hip fracture",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "pulm_rehab",
+   "section": "rehab",
+   "ru": "Лёгочная реабилитация (после пневмонии, при ХОБЛ)",
+   "en": "Pulmonary rehabilitation",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "spine_surg_rehab",
+   "section": "rehab",
+   "ru": "Реабилитация после операции на позвоночнике",
+   "en": "Rehab after spine surgery",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "acl_rehab",
+   "section": "rehab",
+   "ru": "Реабилитация после пластики связки колена",
+   "en": "Rehab after ACL reconstruction",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "cp_rehab",
+   "section": "rehab",
+   "ru": "Реабилитация ребёнка с ДЦП",
+   "en": "Rehabilitation for children with cerebral palsy",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "lymphedema",
+   "section": "rehab",
+   "ru": "Лечение лимфедемы (лимфодренаж, прессотерапия)",
+   "en": "Lymphoedema treatment (drainage, compression)",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "walking_aids",
+   "section": "rehab",
+   "ru": "Обучение ходьбе с костылями и ходунками",
+   "en": "Learning to walk with crutches or a walker",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "insoles",
+   "section": "rehab",
+   "ru": "Подбор ортопедических стелек",
+   "en": "Orthotic insole fitting",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "scoliosis_brace",
+   "section": "rehab",
+   "ru": "Корсет при сколиозе",
+   "en": "Scoliosis brace",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "scoliosis_lfk",
+   "section": "rehab",
+   "ru": "ЛФК при сколиозе у ребёнка",
+   "en": "Scoliosis exercise therapy for children",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "parkinson_rehab",
+   "section": "rehab",
+   "ru": "Реабилитация при болезни Паркинсона",
+   "en": "Rehab for Parkinson's disease",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "neuropsych",
+   "section": "rehab",
+   "ru": "Восстановление памяти и внимания после инсульта",
+   "en": "Cognitive rehab after stroke",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "swallow_rehab",
+   "section": "rehab",
+   "ru": "Восстановление глотания после инсульта",
+   "en": "Swallowing rehab after stroke",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "amputation_rehab",
+   "section": "rehab",
+   "ru": "Реабилитация и протез после ампутации",
+   "en": "Rehab and prosthesis after amputation",
+   "scene": "rehab_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "defectologist",
+   "section": "rehab",
+   "ru": "Занятия с дефектологом",
+   "en": "Special education sessions (defectologist)",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "autism_aba",
+   "section": "rehab",
+   "ru": "Абилитация ребёнка с аутизмом (АВА-терапия)",
+   "en": "Early intervention for autism (ABA)",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "headache_visit",
+   "section": "visit",
+   "ru": "Обследование при головной боли и мигрени",
+   "en": "Headache and migraine evaluation",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "memory_screen",
+   "section": "visit",
+   "ru": "Проверка памяти (скрининг деменции)",
+   "en": "Memory check (dementia screening)",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "kids_neuro",
+   "section": "visit",
+   "ru": "Приём детского невролога",
+   "en": "Paediatric neurology visit",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "cv_risk",
+   "section": "visit",
+   "ru": "Оценка сердечно-сосудистого риска",
+   "en": "Cardiovascular risk assessment",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "fatty_liver",
+   "section": "visit",
+   "ru": "Жировой гепатоз: наблюдение у гепатолога",
+   "en": "Fatty liver: hepatology follow-up",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "proctologist",
+   "section": "visit",
+   "ru": "Приём проктолога",
+   "en": "Proctology visit",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "chronic_cough",
+   "section": "visit",
+   "ru": "Обследование при хроническом кашле",
+   "en": "Chronic cough evaluation",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "diabetes_foot_exam",
+   "section": "visit",
+   "ru": "Осмотр стоп при диабете (чувствительность)",
+   "en": "Diabetic foot examination",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "obesity",
+   "section": "visit",
+   "ru": "Лечение ожирения у врача",
+   "en": "Medical weight management",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "osteoporosis",
+   "section": "visit",
+   "ru": "Обследование и лечение остеопороза",
+   "en": "Osteoporosis assessment and treatment",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "gout",
+   "section": "visit",
+   "ru": "Подагра: лечение и диета",
+   "en": "Gout: treatment and diet",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "ra_followup",
+   "section": "visit",
+   "ru": "Наблюдение при ревматоидном артрите",
+   "en": "Rheumatoid arthritis follow-up",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "cancer_screen_age",
+   "section": "visit",
+   "ru": "Онкоскрининг по возрасту: что и когда",
+   "en": "Age-based cancer screening: what and when",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "phlebologist",
+   "section": "visit",
+   "ru": "Приём флеболога",
+   "en": "Vein specialist (phlebologist) visit",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "somnologist",
+   "section": "visit",
+   "ru": "Приём сомнолога",
+   "en": "Sleep specialist visit",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "narcologist",
+   "section": "visit",
+   "ru": "Приём нарколога",
+   "en": "Addiction specialist visit",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "phthisiatrician",
+   "section": "visit",
+   "ru": "Приём фтизиатра",
+   "en": "Tuberculosis specialist visit",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "geriatrician",
+   "section": "visit",
+   "ru": "Приём гериатра",
+   "en": "Geriatrician visit",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "palliative_home",
+   "section": "visit",
+   "ru": "Паллиативная помощь на дому",
+   "en": "Palliative care at home",
+   "scene": "home",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "kids_orvi",
+   "section": "visit",
+   "ru": "Ребёнок заболел ОРВИ: приём педиатра",
+   "en": "Child with a cold: paediatrician visit",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "kids_endo",
+   "section": "visit",
+   "ru": "Приём детского эндокринолога (рост, вес, половое созревание)",
+   "en": "Paediatric endocrinology (growth, weight, puberty)",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "dispans_rf",
+   "section": "visit",
+   "ru": "Диспансеризация взрослых (РФ)",
+   "en": "Adult preventive health check (Russia)",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "screening_kz",
+   "section": "visit",
+   "ru": "Скрининговые осмотры по возрасту (РК)",
+   "en": "Age-based screening programme (Kazakhstan)",
+   "scene": "office",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "dispensary",
+   "section": "visit",
+   "ru": "Диспансерное наблюдение при хронической болезни",
+   "en": "Chronic disease follow-up programme",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "military_cert",
+   "section": "visit",
+   "ru": "Медкомиссия в военкомате",
+   "en": "Military medical board",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "gun_cert",
+   "section": "visit",
+   "ru": "Медкомиссия на оружие",
+   "en": "Medical certificate for a firearms licence",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "san_book",
+   "section": "visit",
+   "ru": "Санитарная книжка",
+   "en": "Health certificate for food and childcare workers",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "university_cert",
+   "section": "visit",
+   "ru": "Медсправка для поступления в вуз",
+   "en": "Medical certificate for university admission",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "pool_cert",
+   "section": "visit",
+   "ru": "Справка в бассейн",
+   "en": "Medical certificate for a swimming pool",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "migrant_cert",
+   "section": "visit",
+   "ru": "Медосвидетельствование для мигрантов и ВНЖ",
+   "en": "Medical exam for migrants and residence permits",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "disability_mse",
+   "section": "visit",
+   "ru": "Медико-социальная экспертиза (инвалидность)",
+   "en": "Disability assessment",
+   "scene": "office",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "predtrip",
+   "section": "visit",
+   "ru": "Предрейсовый медосмотр водителя",
+   "en": "Pre-trip medical check for drivers",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "psych_narco_cert",
+   "section": "visit",
+   "ru": "Справки от психиатра и нарколога",
+   "en": "Psychiatric and addiction clearance certificates",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "diabetes_school",
+   "section": "visit",
+   "ru": "Школа диабета",
+   "en": "Diabetes education programme",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "hypo",
+   "section": "visit",
+   "ru": "Гипогликемия: как распознать и что делать",
+   "en": "Hypoglycaemia: signs and what to do",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "bread_units",
+   "section": "visit",
+   "ru": "Подсчёт хлебных единиц и углеводов",
+   "en": "Carbohydrate counting",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "diabetic_feet_home",
+   "section": "visit",
+   "ru": "Уход за ногами при диабете",
+   "en": "Foot care with diabetes",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "diabetes_kids_school",
+   "section": "visit",
+   "ru": "Ребёнок с диабетом в школе и садике",
+   "en": "A child with diabetes at school",
+   "scene": "home",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "levothyroxine",
+   "section": "visit",
+   "ru": "Как принимать гормоны щитовидной железы",
+   "en": "How to take thyroid hormone tablets",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "htn_crisis",
+   "section": "visit",
+   "ru": "Высокое давление дома: что делать",
+   "en": "High blood pressure at home: what to do",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "asthma_life",
+   "section": "visit",
+   "ru": "Жизнь с астмой: план действий",
+   "en": "Living with asthma: action plan",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "asthma_kids",
+   "section": "visit",
+   "ru": "Астма у ребёнка: контроль и приступ",
+   "en": "Asthma in children: control and attacks",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "copd_life",
+   "section": "visit",
+   "ru": "Жизнь с ХОБЛ",
+   "en": "Living with COPD",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "hf_life",
+   "section": "visit",
+   "ru": "Жизнь с сердечной недостаточностью (вес, отёки, соль)",
+   "en": "Living with heart failure (weight, swelling, salt)",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "after_mi",
+   "section": "visit",
+   "ru": "Жизнь после инфаркта",
+   "en": "Life after a heart attack",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "ckd_life",
+   "section": "visit",
+   "ru": "Хроническая болезнь почек: диета и контроль",
+   "en": "Chronic kidney disease: diet and monitoring",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "epilepsy_life",
+   "section": "visit",
+   "ru": "Эпилепсия: первая помощь при приступе и жизнь",
+   "en": "Epilepsy: seizure first aid and daily life",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "stroke_home",
+   "section": "visit",
+   "ru": "Уход после инсульта дома",
+   "en": "Caring for someone after a stroke",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "antibiotics",
+   "section": "visit",
+   "ru": "Как правильно принимать антибиотики",
+   "en": "How to take antibiotics correctly",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "af_life",
+   "section": "visit",
+   "ru": "Жизнь с фибрилляцией предсердий",
+   "en": "Living with atrial fibrillation",
+   "scene": "home",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "vacc_dtp",
+   "section": "vacc",
+   "ru": "Прививка АКДС (коклюш, дифтерия, столбняк)",
+   "en": "DTP vaccine (whooping cough, diphtheria, tetanus)",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "vacc_polio",
+   "section": "vacc",
+   "ru": "Прививка от полиомиелита",
+   "en": "Polio vaccine",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 1,
+   "code": ""
+  },
+  {
+   "id": "vacc_hib",
+   "section": "vacc",
+   "ru": "Прививка от гемофильной инфекции",
+   "en": "Hib vaccine",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "vacc_mening",
+   "section": "vacc",
+   "ru": "Прививка от менингококка",
+   "en": "Meningococcal vaccine",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "vacc_hepa",
+   "section": "vacc",
+   "ru": "Прививка от гепатита A",
+   "en": "Hepatitis A vaccine",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "vacc_tbe",
+   "section": "vacc",
+   "ru": "Прививка от клещевого энцефалита",
+   "en": "Tick-borne encephalitis vaccine",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "vacc_zoster",
+   "section": "vacc",
+   "ru": "Прививка от опоясывающего лишая",
+   "en": "Shingles vaccine",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "vacc_rsv",
+   "section": "vacc",
+   "ru": "Прививка от РСВ (беременным и пожилым)",
+   "en": "RSV vaccine (pregnancy and older adults)",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "rsv_baby",
+   "section": "vacc",
+   "ru": "Защита младенца от РСВ (моноклональные антитела)",
+   "en": "RSV antibody protection for infants",
+   "scene": "proc_room",
+   "review": "L",
+   "freq": 3,
+   "code": ""
+  },
+  {
+   "id": "vacc_adults",
+   "section": "vacc",
+   "ru": "Прививки взрослым: что и когда",
+   "en": "Adult vaccination schedule",
+   "scene": "office",
+   "review": "L",
+   "freq": 2,
+   "code": ""
+  },
+  {
+   "id": "vacc_reaction",
+   "section": "vacc",
+   "ru": "Реакция на прививку: что нормально",
+   "en": "Vaccine reactions: what is normal",
+   "scene": "home",
+   "review": "L",
+   "freq": 1,
+   "code": ""
   }
  ]
 }

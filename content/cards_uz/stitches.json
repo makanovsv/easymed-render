@@ -1,0 +1,78 @@
+{
+ "title": "Yaraga chok qo‘yish",
+ "also": [
+  "yarani tikish",
+  "chok qo‘yish",
+  "kesilganda chok",
+  "yarani jarrohlik ishlovi"
+ ],
+ "what": "Shifokor yarani tozalaydi va ip, skobka yoki maxsus yelim bilan tikadi. Shunda yara tezroq bitadi va chandiq ozodaroq bo‘ladi.",
+ "why": "Chuqur kesilishlarda, chetlari ochilib turgan yaralarda, yuz, kaft va bo‘g‘imlardagi yaralarda.",
+ "duration": "odatda 15–40 daqiqa; choklar odatda 5–14 kunda olinadi, joyga qarab",
+ "tell_doctor": [
+  "Yarani qanday va qachon oldingiz, nima bilan kesildingiz",
+  "Qoqsholga qarshi emlash qachon qilingan",
+  "Qonni suyultiruvchi dorilar",
+  "Qandli diabet",
+  "Og‘riqsizlantiruvchilarga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Qon",
+   "text": "Yarani toza mato bilan bosib turing. Qo‘l yoki oyoqni yurakdan balandroq ko‘taring."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Qanchalik erta bo‘lsa, shunchalik yaxshi: yarani odatda dastlabki soatlarda tikishga harakat qilishadi."
+  },
+  {
+   "title": "Qilmang",
+   "text": "Yaraga spirt quymang va hech narsa sepmang. Toza suv bilan yuvsa bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Qoqshol emlashi haqida ma’lumot, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor yarani ko‘radi",
+  "Yarani yuvib, antiseptik bilan ishlov berishadi",
+  "Atrofiga og‘riqsizlantiruvchi ukollar qilishadi",
+  "Yara chetlarini tikishadi yoki mahkamlashadi",
+  "Bog‘lam qo‘yishadi",
+  "Qachon bog‘lamga va choklarni olishga kelishni aytishadi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukollar bir necha soniya kuydiradi",
+  "Tikish paytida tortilish seziladi, lekin og‘riq yo‘q",
+  "Og‘riqsizlantirish o‘tgach, yara zirqiraydi"
+ ],
+ "after": [
+  "Bog‘lamni dastlabki 1–2 kun yoki shifokor aytgancha quruq tuting",
+  "Po‘stlog‘ini yulmang",
+  "Choklarni o‘z vaqtida oldiring: ertaroq ham, kechroq ham emas",
+  "Choklar olingach, chandiqni quyoshdan himoya qiling"
+ ],
+ "red_flags": [
+  "Bosish bilan to‘xtamaydigan kuchli qon ketishi: 103 ga qo‘ng‘iroq qiling",
+  "Yara qizaradi, issiq bo‘ladi, yiringlaydi, harorat ko‘tarildi",
+  "Choklar ochilib ketdi",
+  "Uvishish yoki barmoqlar yomon qimirlaydi"
+ ],
+ "faq": [
+  {
+   "q": "Choklar qachon olinadi?",
+   "a": "Odatda yuzda 5–7 kunda, tana va qo‘llarda 7–10, oyoq va bo‘g‘imlarda uzoqroq. Aniq muddatni shifokor aytadi."
+  },
+  {
+   "q": "Choklar bilan yuvinsa bo‘ladimi?",
+   "a": "Odatda 1–2 kundan keyin qisqa dush qabul qilsa bo‘ladi. Keyin yarani ehtiyotkorlik bilan quriting. Shifokordan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bog‘lam yoki choklarni olish. Bog‘lamni ho‘l qilmang va hujjatni oling."
+  }
+ ]
+}

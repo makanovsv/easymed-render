@@ -1,0 +1,76 @@
+{
+ "title": "Secuenciación del exoma para niños",
+ "also": [
+  "secuenciación del exoma completo",
+  "exoma",
+  "prueba genética para niños",
+  "WES"
+ ],
+ "what": "Es un análisis genético grande que lee casi todos los genes del niño a la vez. Ayuda a encontrar la causa de una enfermedad cuando otros análisis no dieron respuesta.",
+ "why": "Con retraso en el desarrollo, malformaciones, convulsiones, rasgos físicos poco comunes o enfermedades que no se han podido explicar.",
+ "duration": "la toma de sangre suele durar de 5 a 10 minutos; el resultado suele estar en varias semanas",
+ "tell_doctor": [
+  "Todos los diagnósticos y estudios del niño: lleva los informes",
+  "Enfermedades en la familia y si los papás son parientes",
+  "Si al niño le hicieron transfusiones y cuándo",
+  "Si antes le hicieron otros análisis genéticos"
+ ],
+ "prepare": [
+  {
+   "title": "Consulta",
+   "text": "Antes del análisis, un médico genetista hablará contigo: qué puede encontrar la prueba y qué no."
+  },
+  {
+   "title": "Papás",
+   "text": "Muchas veces piden sangre también a la mamá y al papá: así el resultado es más exacto. Pregunta en la clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente el niño no tiene que ayunar."
+  },
+  {
+   "title": "Niño",
+   "text": "Explícale con palabras sencillas que habrá un piquete breve. Lleva un juguete o una tableta."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los documentos del niño y de los papás",
+  "Todos los informes médicos y análisis genéticos anteriores",
+  "Un juguete o una tableta"
+ ],
+ "steps": [
+  "Te sientas con el niño; puedes tenerlo en tus piernas",
+  "La enfermera limpia la piel del brazo con antiséptico",
+  "Un piquete breve: la sangre se toma en un tubo",
+  "Si hace falta, los papás también dan sangre",
+  "Los tubos se mandan a un laboratorio de genética"
+ ],
+ "feel": [
+  "El piquete es breve; los pequeños suelen llorar: cárgalo enseguida",
+  "Muchas veces los papás están más nerviosos que el niño: es normal, hazle preguntas al genetista"
+ ],
+ "after": [
+  "El resultado suele estar en varias semanas",
+  "El médico genetista explica el resultado en una cita aparte",
+  "La prueba no encuentra la causa en todos los niños, y eso no significa que ya no haya nada que buscar",
+  "Los datos se pueden revisar más adelante, cuando la ciencia sepa más"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Para qué la sangre de los papás?",
+   "a": "Así el laboratorio sabe qué cambios heredó el niño de sus papás y cuáles son nuevos. Eso ayuda a encontrar la causa."
+  },
+  {
+   "q": "¿Y si no encuentran nada?",
+   "a": "Puede pasar. El médico decidirá si hacen falta otros análisis o revisar los datos después de un tiempo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es el análisis genético de tu hijo. Lleva los documentos y los informes médicos. Quizá los papás también den sangre."
+  }
+ ]
+}

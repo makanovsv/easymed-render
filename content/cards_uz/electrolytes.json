@@ -1,0 +1,70 @@
+{
+ "title": "Qon elektrolitlari (kaliy, natriy, kalsiy)",
+ "also": [
+  "elektrolitlar",
+  "kaliy",
+  "natriy",
+  "kalsiy",
+  "ionogramma"
+ ],
+ "what": "Bu venadan olinadigan qon tahlili. U qonda yurak, mushaklar va nervlar uchun kerak bo‘lgan tuzlar darajasini ko‘rsatadi.",
+ "why": "Holsizlik, tutqanoq, yurak uzilishlarida, siydik haydovchi dorilar ichganda, qusish va ich ketishda, buyrak kasalliklarida.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda ertasi kuni",
+ "tell_doctor": [
+  "Qanday dorilar ichayotganingiz — ayniqsa siydik haydovchi va qon bosimi uchun",
+  "Kaliy, kalsiy preparatlari yoki D vitamini ichsangiz",
+  "Oxirgi kunlarda qusish yoki ich ketishi bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa: 8–12 soat ovqatsiz. Oddiy suv ichsa bo‘ladi. Laboratoriyadan aniqlab oling."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir sutka oldin alkogolsiz va og‘ir mashqlarsiz. Ertalab chekmagan ma’qul."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — biror narsani o‘zgartirish kerakmi, shuni u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakka qo‘yiladi",
+  "Tirsakdan yuqoriga jgut qisqa vaqtga bog‘lanadi",
+  "Mushtni qattiq qisish shart emas — bu kaliyni buzishi mumkin",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon probirkaga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darhol ovqatlanib, odatdagi ishlarga qaytsangiz bo‘ladi",
+  "Natija odatda 1 kunda — muddatni laboratoriyada aytishadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Kaliy nega oshib chiqishi mumkin?",
+   "a": "Jgut uzoq bog‘lab turilsa yoki musht qattiq qisilsa. Unda shifokor qayta topshirishni so‘raydi."
+  },
+  {
+   "q": "Och qolish kerakmi?",
+   "a": "Odatda ha, tahlil ertalab och qoringa topshiriladi. Laboratoriyadan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga elektrolitlarga tahlil. Kechki ovqatdan keyin ovqatlanmang, oddiy suv ichsa bo‘ladi."
+  }
+ ]
+}

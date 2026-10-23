@@ -1,0 +1,68 @@
+{
+ "title": "Enterobiozga qirindi",
+ "also": [
+  "enterobiozga qirindi",
+  "o‘tkir uchli qurtlarga tahlil",
+  "o‘tkir uchli qurtga test",
+  "yopishqoq tasma",
+  "gijja tuxumiga qirindi"
+ ],
+ "what": "Orqa teshik atrofidagi teridan yopishqoq tasma yoki cho‘p bilan iz olinadi. Mikroskop ostida o‘tkir uchli qurtlar — mayda gijjalar tuxumi qidiriladi.",
+ "why": "Bog‘cha, maktab, basseyn uchun ma’lumotnoma olish uchun; orqa teshik atrofida tungi qichishishda, ayniqsa bolalarda.",
+ "duration": "1–2 daqiqa, natija odatda 1–2 kunda",
+ "tell_doctor": [
+  "Gijjaga qarshi dorilar ichgan bo‘lsangiz",
+  "Orqa teshik atrofidagi terida tirnash yoki yaralar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ertalab",
+   "text": "Qirindi uyqudan turgan zahoti, hojatxonaga borish va yuvinishdan oldin olinadi. Aynan tunda o‘tkir uchli qurtlar tuxum qo‘yadi."
+  },
+  {
+   "title": "Yuvinish",
+   "text": "Ertalab qirindigacha yuvinmang va bolani yuvintirmang. Bir kun oldin kechqurun — oddiy dush."
+  },
+  {
+   "title": "To‘plam",
+   "text": "Laboratoriyadan to‘plam oling: oynadagi yopishqoq tasma yoki probirkadagi cho‘p. Ba’zan qirindini laboratoriyada olishadi."
+  }
+ ],
+ "bring": [
+  "Namunali to‘plam yoki bola — qirindi laboratoriyada olinsa",
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Ertalab, uyqudan turgan zahoti, dumbalarni kerib turing",
+  "Tasmaning yopishqoq tomonini orqa teshik atrofidagi teriga qo‘yib, bosing",
+  "Tasmani olib, laboratoriyada ko‘rsatilganidek oynaga yopishtiring",
+  "Cho‘pli to‘plam bo‘lsa — cho‘pni teri bo‘ylab yurgizib, probirkaga soling",
+  "Qo‘llaringizni yuvib, namunani o‘sha kuni laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Bolaga qitiq yoki noqulay bo‘lishi mumkin — oldindan tushuntiring, bu tez"
+ ],
+ "after": [
+  "Natija odatda 1–2 kunda",
+  "Ba’zan tahlil 2–3 marta takrorlanadi — shunda aniqroq bo‘ladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Qirindi nega aynan ertalab olinadi?",
+   "a": "O‘tkir uchli qurtlar tuxumni tunda orqa teshik atrofiga qo‘yadi. Ertalab yuvinishdan oldin ularni topish eng oson."
+  },
+  {
+   "q": "O‘tkir uchli qurt topilsa, butun oilani davolash kerakmi?",
+   "a": "Buni shifokor hal qiladi. Ko‘pincha birga yashovchilarning hammasi davolanadi va ich kiyim almashtiriladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga enterobiozga qirindi. Ertalab uyqudan turgan zahoti, hojatxona va yuvinishdan oldin qirindi oling."
+  }
+ ]
+}

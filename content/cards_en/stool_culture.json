@@ -1,0 +1,79 @@
+{
+ "title": "Stool culture for Salmonella and Shigella",
+ "also": [
+  "stool culture",
+  "bacterial stool test",
+  "Salmonella test",
+  "enteric pathogens test",
+  "stool test for a work health certificate"
+ ],
+ "what": "This is a stool test. The lab grows germs from it to find dangerous gut bacteria and choose a medicine that works.",
+ "why": "For diarrhea with fever, blood, or mucus. It is also required for the work health record of kitchen and childcare staff.",
+ "duration": "collection takes a few minutes; results usually come in 3 to 5 days",
+ "tell_doctor": [
+  "If you took antibiotics in the past few weeks",
+  "If there is blood or mucus in the stool",
+  "If anyone close to you was sick",
+  "If you need the test for work or a health record"
+ ],
+ "prepare": [
+  {
+   "title": "Container",
+   "text": "Get a sterile container from a pharmacy or the lab. For stool, choose one with a small spoon in the lid."
+  },
+  {
+   "title": "Antibiotics",
+   "text": "It is better to do the test before starting antibiotics. If you already take them, do not stop on your own. Tell your doctor."
+  },
+  {
+   "title": "Collection",
+   "text": "Collect stool from a clean surface, not from the toilet. Laxatives and suppositories are usually not used before collection. Ask your doctor."
+  },
+  {
+   "title": "Delivery",
+   "text": "Fresh stool must get to the lab quickly, usually within a couple of hours. The lab will tell you the exact time."
+  }
+ ],
+ "bring": [
+  "The stool container",
+  "Your referral",
+  "Your ID"
+ ],
+ "steps": [
+  "Line the toilet or potty with clean plastic wrap or paper",
+  "Use the spoon in the lid to take a bit of stool, ideally with mucus if there is any",
+  "Put it in the container and close it tightly",
+  "Label the container",
+  "Wash your hands and take it to the lab right away"
+ ],
+ "feel": [
+  "Nothing unpleasant. It is a normal stool sample",
+  "The main thing is not to delay getting it to the lab"
+ ],
+ "after": [
+  "With diarrhea, drink often, in small sips",
+  "If a germ is found, the lab will show which medicines work against it",
+  "Your doctor will prescribe treatment"
+ ],
+ "red_flags": [
+  "Blood in the stool, high fever, or severe belly pain: see a doctor the same day",
+  "Signs of dehydration, like a dry mouth, little urine, or severe weakness: see a doctor urgently",
+  "Fainting or confusion: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why do results take so long?",
+   "a": "The germs first have to grow in the lab. That takes several days."
+  },
+  {
+   "q": "Can I collect stool in the evening and bring it in the morning?",
+   "a": "Fresh stool is usually needed. If there is no other way, ask the lab how to store it."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Stool culture tomorrow. Have a sterile container ready, and take the stool to the lab soon after collecting it."
+  }
+ ]
+}

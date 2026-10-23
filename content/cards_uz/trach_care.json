@@ -1,0 +1,85 @@
+{
+ "title": "Uyda traxeostomaga qarash",
+ "also": [
+  "traxeostoma",
+  "tomoqdagi naychaga qarash",
+  "traxeostomik naycha",
+  "traxeostomani tozalash",
+  "traxeostomani sanatsiya qilish"
+ ],
+ "what": "Traxeostoma — bo‘yindagi teshik bo‘lib, odam naycha orqali nafas oladi. Uyda unga har kuni qarash kerak: naycha toza, teri sog‘lom bo‘lishi uchun.",
+ "why": "Odam og‘iz va burun orqali odatdagidek nafas ola olmasa va shifokor traxeostomani uzoq muddatga qo‘ygan bo‘lsa.",
+ "duration": "parvarish odatda kuniga 1–2 marta 15–30 daqiqa, so‘rib olish — zarurat bo‘lganda",
+ "tell_doctor": [
+  "Shilimshiq ko‘payib, rangi yoki hidi o‘zgargan bo‘lsa",
+  "Stoma atrofidagi teri qizargan, ho‘l bo‘lgan yoki qonayotgan bo‘lsa",
+  "Naychani kiritish qiyin bo‘lsa yoki u siljisa",
+  "Sarf materiallari yetmasa yoki o‘z ko‘nikmangizga ishonchingiz komil bo‘lmasa"
+ ],
+ "prepare": [
+  {
+   "title": "O‘rganish",
+   "text": "Javob berilgunga qadar hamshiradan hammasini ko‘rsatishni so‘rang va uning huzurida parvarishni bir necha marta o‘zingiz qiling."
+  },
+  {
+   "title": "Zaxira naycha",
+   "text": "Yoningizda doim bir xil o‘lchamdagi va bir o‘lcham kichik zaxira naycha tursin."
+  },
+  {
+   "title": "Jihozlar",
+   "text": "So‘rg‘ich, kateterlar, salfetkalar, qaynatilgan suv, kesikli doka salfetkalar, bog‘ichlar."
+  },
+  {
+   "title": "Havo",
+   "text": "Quruq havo shilimshiqni quritadi. Odatda xonada namlagich qo‘yish tavsiya etiladi."
+  }
+ ],
+ "bring": [
+  "Zaxira naycha va bog‘ichlar",
+  "So‘rg‘ich va kateterlar",
+  "Epikriz va shifokor aloqa ma’lumotlari",
+  "Shifokorga savollar ro‘yxati"
+ ],
+ "steps": [
+  "Qo‘lingizni yuving va qo‘lqop kiying",
+  "Qaynash tovushi eshitilsa, o‘rgatilganidek shilimshiqni kateter bilan so‘rib oling",
+  "Ichki naycha bo‘lsa, uni chiqarib, yuving",
+  "Eski salfetkani olib, terini ko‘zdan kechiring",
+  "Stoma atrofidagi terini nam salfetka bilan artib, quritib oling",
+  "Yangi kesikli salfetka qo‘ying",
+  "Bog‘ichlarni almashtiring: eskisi almashtirilguncha naychani qo‘lingiz bilan ushlab turing",
+  "Bog‘ich bilan bo‘yin orasidan bitta barmoq o‘tishi kerak"
+ ],
+ "feel": [
+  "So‘rib olish yo‘talni keltiradi — bu normal",
+  "Odamga qo‘rqinchli bo‘lishi mumkin — xotirjam gapiring, har bir harakatni tushuntiring"
+ ],
+ "after": [
+  "Shilimshiqning rangi va miqdorini kuzatib boring",
+  "Yuvinganda naychaga suv tushishiga yo‘l qo‘ymang",
+  "Butun naychani almashtirishni shifokor jadvali bo‘yicha qilishadi",
+  "Shoshilinch xizmat telefonini ko‘z oldida saqlang"
+ ],
+ "red_flags": [
+  "Naycha tushib ketsa yoki tiqilib, tozalanmasa — zaxirasini kiriting va tez yordamni chaqiring (103)",
+  "Odam bo‘g‘ilsa, lablari ko‘karsa — tez yordamni chaqiring (103)",
+  "Naychadan bir necha chiziqdan ko‘p qon chiqsa — tez yordamni chaqiring (103)",
+  "Harorat, qo‘lansa hidli quyuq sariq yoki yashil shilimshiq bo‘lsa — shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Traxeostomali odam gapirsa bo‘ladimi?",
+   "a": "Ba’zan ha — maxsus klapan bilan. Sizning holatingizda mumkin-mumkin emasligini shifokor hal qiladi."
+  },
+  {
+   "q": "Shilimshiqni qanchalik tez-tez so‘rib olish kerak?",
+   "a": "Zarurat bo‘lganda — qaynash tovushi eshitilsa yoki odam yo‘tala olmasa. Soat bo‘yicha emas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertalabki traxeostoma parvarishi: qo‘l, qo‘lqop, so‘rg‘ich, salfetka, bog‘ichlar. Zaxira naycha yonida bo‘lsin."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Anticorpos depois da vacina de hepatite B (anti-HBs)",
+ "also": [
+  "anti-HBs",
+  "anticorpo anti-HBs",
+  "teste da vacina de hepatite B",
+  "imunidade para hepatite B"
+ ],
+ "what": "É um exame de sangue que mostra quantos anticorpos de proteção contra a hepatite B você tem depois da vacina.",
+ "why": "Para profissionais de saúde, pessoas em hemodiálise, familiares de pessoas com hepatite B e pessoas com imunidade baixa. Serve para saber se a vacina funcionou.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Quando você tomou a última dose da vacina de hepatite B",
+  "Quantas doses tomou ao todo",
+  "Se já teve hepatite B",
+  "Se recebeu sangue ou imunoglobulina há pouco tempo"
+ ],
+ "prepare": [
+  {
+   "title": "Quando",
+   "text": "Normalmente o exame é feito 1 a 2 meses depois da última dose do esquema. Confirme com o médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Jejum rigoroso normalmente não é necessário, mas é melhor ir 3 a 4 horas depois de uma refeição leve, sem gordura. Confirme com o laboratório."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Carteira de vacinação"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Se houver poucos anticorpos, o médico pode sugerir mais uma dose",
+  "Guarde o resultado junto com a carteira de vacinação"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho"
+ ],
+ "faq": [
+  {
+   "q": "Quantos anticorpos contam como proteção?",
+   "a": "O laudo do laboratório mostra o limite de proteção. Se o seu resultado estiver acima dele, a vacina funcionou."
+  },
+  {
+   "q": "Todo mundo precisa checar os anticorpos depois da vacina?",
+   "a": "Não. Normalmente checam quem tem risco alto de infecção. O médico orienta."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de anticorpos da vacina de hepatite B. Leve a carteira de vacinação."
+  }
+ ]
+}

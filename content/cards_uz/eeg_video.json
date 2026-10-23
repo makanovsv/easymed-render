@@ -1,0 +1,81 @@
+{
+ "title": "Video-EEG monitoring",
+ "also": [
+  "video-EEG",
+  "VEEG",
+  "EEG video monitoringi",
+  "tungi EEG monitoring",
+  "uyquda EEG"
+ ],
+ "what": "Bir necha soat yoki butun tun davomida boshdagi elektrodlar orqali miya faoliyati yoziladi. Shu bilan birga yozuvni sodir bo‘layotgan narsa bilan solishtirish uchun video olinadi.",
+ "why": "Xurujlar, tutqanoq, hushdan ketish, uyquda g‘alati epizodlarda — ularning tabiatini tushunish va davo tanlash uchun.",
+ "duration": "bir necha soatdan bir sutka va undan uzoqqacha — shifokor hal qiladi; xulosa odatda bir necha kunda",
+ "tell_doctor": [
+  "Xurujlar qanday ko‘rinishi va qanchalik tez-tez bo‘lishi",
+  "Qanday dorilar ichayotganingiz — o‘zingiz bekor qilmang",
+  "Telefonda xuruj videosi bo‘lsa — ko‘rsating",
+  "Odatda qancha uxlaysiz"
+ ],
+ "prepare": [
+  {
+   "title": "Uyqu",
+   "text": "Ba’zan yozuvda oson uxlash uchun bir kun oldin kamroq uxlashni so‘rashadi. Buni faqat shifokor aytgandagina qiling."
+  },
+  {
+   "title": "Sochlar",
+   "text": "Bir kun oldin bosh yuving, moy, lak, gelsiz. Kokil va ulangan sochlarni olib tashlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Odatdagidek iching. O‘zingiz bekor qilmang — kerak bo‘lsa, shifokor hal qiladi."
+  },
+  {
+   "title": "Buyumlar",
+   "text": "Old tomonida tugmali qulay kiyim — boshdan yechib bo‘lmaydi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va avvalgi EEGlar",
+  "Dorilar ro‘yxati va dorilarning o‘zi",
+  "Xuruj videolari, agar bo‘lsa",
+  "Ovqat, suv, zaryadlovchi, kitob",
+  "Klinika so‘rasa, hamroh"
+ ],
+ "steps": [
+  "Boshga pasta surtilib, elektrodlar qo‘yiladi, ustidan shapkacha yoki bint",
+  "Kamera va yozuv yoqiladi",
+  "Siz odatdagidek yurasiz: o‘qiysiz, ovqatlanasiz, uxlaysiz",
+  "Ba’zan tez-tez nafas olish yoki yonib-o‘chuvchi yorug‘likka qarashni so‘rashadi",
+  "Xuruj boshlansa — tugmani bosing yoki hamrohga ayting",
+  "Oxirida elektrodlar olinadi, pasta yuviladi"
+ ],
+ "feel": [
+  "Og‘rimaydi, elektrodlar boshga hech narsa yubormaydi",
+  "Shapkacha dastlabki soatlarda uxlashga xalaqit berishi mumkin",
+  "Boshingiz keyin pastadan biroz yopishqoq bo‘ladi"
+ ],
+ "after": [
+  "Uyda boshingizni yuving",
+  "Shifokor boshqacha demasa — odatdagi hayot darhol",
+  "Xulosa odatda bir necha kunda"
+ ],
+ "red_flags": [
+  "Xuruj 5 daqiqadan uzoq yoki xurujlar ketma-ket — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Nega tun kerak?",
+   "a": "EEGdagi ko‘p o‘zgarishlar faqat uyquda ko‘rinadi. Yozuv qanchalik uzoq bo‘lsa, xurujni ko‘rish imkoni shunchalik katta."
+  },
+  {
+   "q": "Hojatxonaga turish mumkinmi?",
+   "a": "Odatda ha. Xodimlar simlarni shikastlamaslik yo‘lini aytib berishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga video-EEG. Boshni moy va laksiz yuving. Dorilar, ovqat va zaryadlovchini oling."
+  }
+ ]
+}

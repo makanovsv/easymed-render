@@ -1,0 +1,80 @@
+{
+ "title": "Bone-strengthening infusion for osteoporosis (zoledronic acid)",
+ "also": [
+  "osteoporosis infusion",
+  "zoledronic acid",
+  "IV bone strengthening",
+  "bisphosphonate infusion"
+ ],
+ "what": "A medicine that strengthens the bones is given by drip into a vein. It is usually done once a year.",
+ "why": "For osteoporosis, to lower the risk of fractures, when tablets are not suitable.",
+ "duration": "the drip usually takes 15 to 30 minutes, and the whole visit about an hour",
+ "tell_doctor": [
+  "Kidney disease",
+  "Planned dental treatment or tooth removal",
+  "Low calcium or vitamin D",
+  "All your medicines",
+  "Pregnancy or breastfeeding"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Before the infusion, your kidney function and calcium are usually checked."
+  },
+  {
+   "title": "Water",
+   "text": "Drink plenty of water before and after, unless your doctor limited it."
+  },
+  {
+   "title": "Teeth",
+   "text": "It is best to have your teeth treated beforehand. Tell your dentist you are getting this medicine."
+  },
+  {
+   "title": "Vitamins",
+   "text": "Take calcium and vitamin D as your doctor prescribed."
+  }
+ ],
+ "bring": [
+  "Your referral and test results",
+  "Your ID",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The nurse checks your test results and how you feel",
+  "A catheter is placed in a vein",
+  "The drip is connected",
+  "The medicine runs in for 15 to 30 minutes",
+  "The catheter is removed and the spot is pressed"
+ ],
+ "feel": [
+  "The drip itself usually does not hurt",
+  "In the first 1 to 3 days there may be fever, aches and weakness, like a cold",
+  "This reaction usually happens after the first infusion"
+ ],
+ "after": [
+  "Drink water through the day",
+  "For aches, you can take a fever reducer your doctor approved",
+  "The next infusion is usually in a year. The doctor will tell you the date"
+ ],
+ "red_flags": [
+  "Severe jaw pain or a sore in the mouth that does not heal",
+  "New pain in the thigh or groin",
+  "Rash, swelling of the face, trouble breathing: call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Why do I feel like I have the flu after the infusion?",
+   "a": "This is a common reaction to the first dose. It usually passes in 1 to 3 days."
+  },
+  {
+   "q": "Do I need to tell my dentist?",
+   "a": "Yes, always. Especially before a tooth is removed or implants are placed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Bone infusion tomorrow. Drink more water and bring your test results."
+  }
+ ]
+}

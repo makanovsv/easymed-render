@@ -1,0 +1,72 @@
+{
+ "title": "Ultrassom do intestino",
+ "also": [
+  "ultrassom de intestino",
+  "ultrassom de alças intestinais",
+  "ultrassom do intestino grosso",
+  "ultrassom do intestino delgado"
+ ],
+ "what": "O médico olha as paredes do intestino pela barriga com ultrassom. Assim se veem inflamação, espessamento e as alças do intestino.",
+ "why": "Com dor na barriga, suspeita de apendicite, inflamação no intestino, para acompanhar doenças crônicas do intestino, e em crianças com dor e vômito.",
+ "duration": "normalmente 20 a 30 minutos, o laudo sai normalmente na hora",
+ "tell_doctor": [
+  "Onde e há quanto tempo dói a barriga",
+  "Se fez cirurgias na barriga",
+  "Se fez há pouco tempo colonoscopia ou raio-X com bário",
+  "Se tem doença do intestino, leve os laudos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não coma por 4 a 6 horas. Às vezes pedem para beber água antes do exame. Confirme com a clínica."
+  },
+  {
+   "title": "Gases",
+   "text": "Na véspera, menos comida que dá gases: repolho, feijão, refrigerante, pão preto."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ultrassons, colonoscopias e exames anteriores",
+  "Toalha ou lenços"
+ ],
+ "steps": [
+  "Você se deita de costas e descobre a barriga",
+  "Passam gel na pele",
+  "O aparelho passa pela barriga toda, às vezes apertando um pouco",
+  "Às vezes pedem para virar de lado",
+  "Limpam o gel com um lenço"
+ ],
+ "feel": [
+  "Gel geladinho, pressão do aparelho",
+  "Se o local dói, a pressão pode incomodar. Avise o médico"
+ ],
+ "after": [
+  "Pode comer e beber logo em seguida",
+  "O laudo sai normalmente na hora",
+  "O médico pode pedir outros exames"
+ ],
+ "red_flags": [
+  "Dor forte na barriga que piora, vômito, febre: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Ultrassom do intestino substitui a colonoscopia?",
+   "a": "Não. O ultrassom vê a parede do intestino por fora, mas não vê pólipos pequenos por dentro."
+  },
+  {
+   "q": "Por que não pode comer antes?",
+   "a": "Depois de comer há mais gases no intestino, e eles atrapalham o ultrassom."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o ultrassom do intestino. Hoje, sem repolho, feijão e refrigerante. Fique sem comer pelo tempo que a clínica disse."
+  }
+ ]
+}

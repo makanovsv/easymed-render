@@ -1,0 +1,75 @@
+{
+ "title": "Hydrogen breath test (SIBO, lactose)",
+ "also": [
+  "hydrogen breath test",
+  "SIBO breath test",
+  "lactose intolerance test",
+  "lactose breath test"
+ ],
+ "what": "You drink a sweet solution and blow into a device every 15 to 30 minutes. The gases in your breath show how your bowel digests sugars.",
+ "why": "For bloating, pain, or diarrhea after meals. To check for too many bacteria in the small bowel, called SIBO, or for lactose intolerance.",
+ "duration": "usually 2 to 3 hours; results are given right away or in a few days",
+ "tell_doctor": [
+  "If you took antibiotics in the past month",
+  "If you recently had a colonoscopy",
+  "What medicines you take, especially laxatives and heartburn medicines",
+  "If you have diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Diet the day before",
+   "text": "Usually for 24 hours: no beans, dairy, sweets, fruit, or flour foods. Most often allowed: rice, meat, fish, and eggs. The clinic will give you a list."
+  },
+  {
+   "title": "Fasting",
+   "text": "Usually 10 to 12 hours without food. Water is fine."
+  },
+  {
+   "title": "In the morning",
+   "text": "Do not smoke, chew gum, or drink coffee. Brush your teeth."
+  },
+  {
+   "title": "Medicines",
+   "text": "You are sometimes asked to skip some medicines before the test. Do not stop anything on your own. Ask your doctor."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A book or phone. There is a lot of waiting",
+  "Water, if allowed"
+ ],
+ "steps": [
+  "First, you breathe out into the device. This is your starting level",
+  "You drink the sugar solution",
+  "Every 15 to 30 minutes, you blow into the device again",
+  "You sit quietly at the clinic the whole time",
+  "You are told when the test is over"
+ ],
+ "feel": [
+  "It does not hurt",
+  "During the test, you may get bloating, rumbling, or loose stool. This is part of the answer",
+  "The waiting can be tiring"
+ ],
+ "after": [
+  "You can eat after the test",
+  "Bloating usually passes within the day",
+  "Your doctor will explain the result"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can I drink water during the test?",
+   "a": "Most often, a little plain water is fine. Check with the clinic."
+  },
+  {
+   "q": "Why can't I smoke?",
+   "a": "Smoking changes your breath, and the result will be wrong."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Hydrogen breath test tomorrow. Today, eat only allowed foods, and have dinner early. Do not smoke or eat in the morning."
+  }
+ ]
+}

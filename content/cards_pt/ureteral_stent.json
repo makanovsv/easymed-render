@@ -1,0 +1,78 @@
+{
+ "title": "Cateter duplo J: colocação e retirada",
+ "also": [
+  "duplo J",
+  "cateter duplo J",
+  "stent ureteral",
+  "retirada do duplo J"
+ ],
+ "what": "O cateter duplo J é um tubinho fino e macio dentro do ureter. Ele ajuda a urina a passar do rim para a bexiga.",
+ "why": "Para pedras nos rins, depois de cirurgias no rim ou no ureter, quando a urina tem dificuldade para descer.",
+ "duration": "a colocação ou retirada leva normalmente de 15 a 30 minutos; o cateter fica de alguns dias a alguns meses",
+ "tell_doctor": [
+  "Remédios, principalmente os que afinam o sangue",
+  "Alergias",
+  "Se você pode estar grávida",
+  "Se tem febre ou dor agora",
+  "Diabetes e doenças dos rins"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente é preciso exame de urina e, às vezes, de sangue. A clínica passa a lista."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Às vezes o procedimento é feito com anestesia local, às vezes com anestesia geral. Se for geral, não coma nem beba antes; a clínica vai dizer o horário."
+  },
+  {
+   "title": "Prazo",
+   "text": "Anote a data em que o cateter precisa ser retirado ou trocado."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Pedido médico e resultados dos exames",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você deita na maca ou na mesa",
+  "A uretra é limpa e recebe um gel anestésico",
+  "O médico introduz um aparelho fino com câmera na bexiga",
+  "Por ele, coloca o cateter ou pega e retira o antigo",
+  "Às vezes a posição do cateter é conferida com raio-X"
+ ],
+ "feel": [
+  "Pressão e vontade de urinar durante o procedimento",
+  "Depois da colocação: vontade frequente de urinar e repuxamento no lado do corpo, principalmente ao urinar",
+  "Urina rosada nos primeiros dias é comum"
+ ],
+ "after": [
+  "Beba mais água, se o médico não restringiu",
+  "Um pouco de sangue na urina com o cateter pode acontecer",
+  "Não perca o prazo de retirada: o cateter não pode ficar muito tempo",
+  "Depois da retirada, o incômodo costuma passar em 1 a 2 dias"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus com calafrios: ligue para a emergência",
+  "Dor forte no lado do corpo que não passa",
+  "A urina não sai nada",
+  "Muito sangue ou coágulos na urina"
+ ],
+ "faq": [
+  {
+   "q": "Por que com o cateter dá vontade de urinar o tempo todo?",
+   "a": "O cateter irrita a bexiga. É uma queixa comum, e o médico pode receitar algo para aliviar."
+  },
+  {
+   "q": "O que acontece se esquecer de tirar o cateter?",
+   "a": "Sais se depositam nele, e ele pode entupir e grudar. É preciso tirar exatamente no prazo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o procedimento do cateter duplo J. Documentos e lista de remédios. Se for com anestesia geral, comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

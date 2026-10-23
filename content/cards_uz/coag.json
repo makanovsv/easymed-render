@@ -1,0 +1,74 @@
+{
+ "title": "Koagulogramma",
+ "also": [
+  "qon ivish tahlili",
+  "gemostaziogramma",
+  "MNO",
+  "AChTV"
+ ],
+ "what": "Qon qanchalik tez ivishini ko‘rsatadigan qon tahlili. Qon venadan olinadi.",
+ "why": "Operatsiya va tug‘ruqdan oldin, sababsiz ko‘karish va qon ketishida, qonni suyultiruvchi dorilarni nazorat qilish uchun, homiladorlikda.",
+ "duration": "qon olishning o‘zi bir necha daqiqa, natija odatda 1–2 kunda",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar va aspirin: ular natijaga ta’sir qiladi",
+  "Homilador bo‘lsangiz",
+  "Ilgari tromblar yoki kuchli qon ketishlar bo‘lgan bo‘lsa",
+  "Qon olishni yomon ko‘tarsangiz yoki hushdan ketgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa, ovqatdan 8–12 soat o‘tgach topshiriladi. Toza suv ichish mumkin. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Oldingi kun",
+   "text": "Yog‘li ovqat yemang va alkogol ichmang. Tahlildan kamida bir soat oldin chekmang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘z dorilaringizni bekor qilmang. Qon uchun preparatlar ichsangiz, shifokorga ayting: qanday qilishni u hal qiladi."
+  },
+  {
+   "title": "Qon olishdan oldin",
+   "text": "10–15 daqiqa tinch o‘tiring, shoshilmang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Ichayotgan dorilaringiz ro‘yxati"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tayanchga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lanadi",
+  "Teri artilib, venaga igna kiritiladi",
+  "Qon bir yoki bir nechta probirkaga olinadi",
+  "Igna olinadi, sanchilgan joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Chivin chaqqandek qisqa sanchiq",
+  "Ba’zan bosh biroz aylanadi: hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Sanchilgan joyda ko‘kargan bo‘lishi mumkin va o‘zi o‘tadi",
+  "Darhol ovqatlanib, ishlaringizga qaytish mumkin",
+  "Natijani davolovchi shifokor tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Koagulogrammani och qoringa topshirish kerakmi?",
+   "a": "Odatda ha, ovqatdan 8–12 soat o‘tgach. Suv ichish mumkin. Aniq qoidalarni klinika aytadi."
+  },
+  {
+   "q": "MNO nima?",
+   "a": "Bu qon ivish ko‘rsatkichi. Uni ko‘pincha qonni suyultiruvchi dorilar ichadiganlarda dozani tanlash uchun tekshirishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga koagulogramma. Odatda och qoringa topshiriladi: kechki ovqatdan keyin ovqat yemang, faqat suv mumkin. Alkogolsiz va yog‘siz."
+  }
+ ]
+}

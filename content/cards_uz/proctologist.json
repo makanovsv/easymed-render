@@ -1,0 +1,76 @@
+{
+ "title": "Proktolog qabuli",
+ "also": [
+  "proktolog",
+  "koloproktolog",
+  "bavosil shifokori",
+  "to‘g‘ri ichak ko‘rigi"
+ ],
+ "what": "Shifokor orqa chiqaruv teshigi va to‘g‘ri ichakni ko‘radi. Ko‘rik qisqa, shifokor hamma narsani ehtiyotkorlik bilan qiladi.",
+ "why": "Axlatda qon bo‘lganda, orqa teshikda og‘riq yoki qichishishda, bavosil, yoriq, ich qotishida, shuningdek 40–50 yoshdan keyin profilaktika uchun.",
+ "duration": "qabul odatda 15–30 daqiqa, xulosa darhol",
+ "tell_doctor": [
+  "Sizni nima bezovta qilayotgani va qachondan beri",
+  "Qon bo‘lganmi, qanday rangda",
+  "Axlat qanchalik tez-tez va qanday bo‘ladi",
+  "Qonni suyultiruvchi dorilar",
+  "Ichakka operatsiya qilinganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Tozalash",
+   "text": "Qabuldan oldin ko‘pincha ichakni bo‘shatish so‘raladi, ba’zan huqna yoki mikrohuqna bilan. Aynan qanday qilishni klinikadan so‘rang."
+  },
+  {
+   "title": "Gigiena",
+   "text": "Ertalab dush qabul qiling. Teri uchun maxsus tayyorgarlik kerak emas."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda yengil nonushta qilsa bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Kolonoskopiya yoki tahlil natijalari, agar bo‘lgan bo‘lsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor shikoyatlaringizni so‘raydi",
+  "Siz tizzalaringizni bukib yonboshlab yotasiz yoki tirsak-tizza holatida turasiz",
+  "Shifokor orqa teshik atrofidagi terini ko‘radi",
+  "Gelli qo‘lqopdagi barmoq bilan to‘g‘ri ichakni ehtiyotkorlik bilan tekshiradi",
+  "Ba’zan qisqa naycha, anoskop bilan qaraydi",
+  "Nima topganini tushuntiradi va davo buyuradi"
+ ],
+ "feel": [
+  "Noqulay bo‘lishi tabiiy, shifokor uchun bu oddiy ish",
+  "Barmoq bilan ko‘rik ba’zan yoqimsiz, lekin uzoq emas",
+  "Yoriq bo‘lsa og‘riq bo‘lishi mumkin: shifokorga ayting"
+ ],
+ "after": [
+  "Ko‘rikdan keyin odatda darhol ishlaringizga ketsangiz bo‘ladi",
+  "Biroz gel yoki yoriqda qon izlari bo‘lishi mumkin",
+  "Kerak bo‘lsa, shifokor kolonoskopiyaga yuboradi"
+ ],
+ "red_flags": [
+  "Orqa teshikdan kuchli qon ketishi, holsizlik, bosh aylanishi: 103 ga qo‘ng‘iroq qiling",
+  "Shish va isitma bilan kuchli og‘riq: shoshilinch shifokorga boring"
+ ],
+ "faq": [
+  {
+   "q": "Bu og‘riqlimi?",
+   "a": "Odatda yo‘q, shunchaki yoqimsiz. Yoriq bo‘lsa, shifokor gel bilan og‘riqsizlantirishi mumkin."
+  },
+  {
+   "q": "Axlatda qon doim bavosilmi?",
+   "a": "Har doim emas. Shuning uchun o‘zingizcha davolanmay, shifokorga ko‘rinish muhim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga proktolog qabuli. Ertalab ichakni tozalash kerakmi va buni qanday qilishni aniqlab oling."
+  }
+ ]
+}

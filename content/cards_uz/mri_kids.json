@@ -1,0 +1,84 @@
+{
+ "title": "Bolaga MRT (sedatsiya bilan)",
+ "also": [
+  "bolaga uyquda MRT",
+  "bolaga behushlikda MRT",
+  "bolalarga sedatsiya bilan MRT"
+ ],
+ "what": "Bola dori ta’sirida uxlab yotganda o‘tkaziladigan MRT. Shunda u qimirlamay yotadi va shovqindan qo‘rqmaydi.",
+ "why": "Kichik bolalarga va 20–40 daqiqa qimirlamay yota olmaydigan bolalarga.",
+ "duration": "MRTning o‘zi odatda 20–60 daqiqa, tayyorgarlik va uyg‘onish bilan — 2–4 soat",
+ "tell_doctor": [
+  "Bolaning surunkali kasalliklari, allergiyalari, dorilari",
+  "Yaqinda burun oqishi, yo‘tal yoki harorat bo‘lganmi — sedatsiyani ko‘chirishlari mumkin",
+  "Bolada yoki qarindoshlarda behushlik bilan muammolar bo‘lganmi",
+  "Tanadagi metall va implantlar, masalan koxlear implant"
+ ],
+ "prepare": [
+  {
+   "title": "Ochlik",
+   "text": "Sedatsiyadan oldin ma’lum vaqt ovqat yeyish va ichish mumkin emas. Odatda: ovqat — 6 soat, ona suti — 4 soat, tiniq suv — 2 soat oldin. Aniq vaqtni anesteziolog aytadi."
+  },
+  {
+   "title": "Ko‘rik",
+   "text": "Ko‘pincha pediatr ko‘rigi va tahlillar kerak. Ro‘yxatni klinikadan aniqlab oling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Metallsiz kiyim: tugma, zamok, yaltiroq toshlarsiz."
+  },
+  {
+   "title": "O‘yinchoq",
+   "text": "Sevimli o‘yinchoq va suvli shisha — uyg‘ongandan keyin uchun."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Pediatr xulosasi va tahlillar, agar so‘ralgan bo‘lsa",
+  "Oldingi suratlar",
+  "Taglik, almashtiriladigan kiyim, suv"
+ ],
+ "steps": [
+  "Anesteziolog bolani ko‘radi va sizdan sog‘lig‘i haqida so‘raydi",
+  "Tomirga kateter qo‘yiladi, ba’zan avval dorili niqob beriladi",
+  "Bola ko‘z o‘ngingizda uxlab qoladi",
+  "U apparatga yotqiziladi, anesteziolog nafas va pulsni kuzatib turadi",
+  "Siz kabinet eshigi orqasida yonida kutasiz",
+  "Suratdan keyin bolani uyg‘otishadi va sizga olib kelishadi"
+ ],
+ "feel": [
+  "Bolaga og‘rimaydi",
+  "Uyg‘ongandan keyin chaqaloq uyquchan, injiq bo‘lishi yoki yig‘lashi mumkin — bu o‘tib ketadi",
+  "Ba’zan biroz ko‘ngli aynishi mumkin"
+ ],
+ "after": [
+  "Bola kuzatuv ostida dam oladi, odatda 30–60 daqiqa",
+  "Ichish va yeyish — shifokor ruxsat berganda, odatda suvdan boshlashadi",
+  "Kun oxirigacha — xotirjam rejim, yonida kattalar",
+  "Xulosa odatda 1–3 kundan keyin"
+ ],
+ "red_flags": [
+  "Bola uyg‘onmayapti, yomon nafas olmoqda, lablari ko‘k — darrov 103 ga qo‘ng‘iroq qiling",
+  "Sedatsiyadan keyin ko‘p marta qusish yoki yuqori harorat — shifokorga yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Sedatsiya bola uchun xavfli emasmi?",
+   "a": "Uni anesteziolog o‘tkazadi va bolani doim kuzatib turadi. Jiddiy asoratlar kam uchraydi."
+  },
+  {
+   "q": "Bola uxlayotganda ona yonida bo‘lishi mumkinmi?",
+   "a": "Ko‘pincha ha. Klinikadan aniqlab oling."
+  },
+  {
+   "q": "Sedatsiyadan oldin nega ovqatlantirib bo‘lmaydi?",
+   "a": "Bo‘sh oshqozon uyqu paytida ovqat nafas yo‘llariga tushishidan himoya qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolaga sedatsiya bilan MRT. Qaysi vaqtdan keyin ovqat yeyish va ichish mumkin emasligini tekshiring."
+  }
+ ]
+}

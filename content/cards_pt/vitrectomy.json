@@ -1,0 +1,86 @@
+{
+ "title": "Vitrectomia (descolamento de retina e sangramento)",
+ "also": [
+  "vitrectomia",
+  "cirurgia do vítreo",
+  "cirurgia de descolamento de retina"
+ ],
+ "what": "Por furinhos finos, o cirurgião tira o vítreo, o gel transparente de dentro do olho. Ele repara a retina e enche o olho com líquido, gás ou óleo.",
+ "why": "Para descolamento de retina, sangramento dentro do olho, buraco no centro da retina e outras doenças.",
+ "duration": "a cirurgia leva normalmente de 1 a 2 horas; às vezes é preciso ficar 1 ou 2 dias no hospital",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias",
+  "Diabetes, doenças do coração e pressão",
+  "Se você vai viajar de avião ou subir montanha",
+  "Se já teve problemas com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Se for com anestesia geral, normalmente não se come desde a noite anterior. A clínica vai dizer o horário exato."
+  },
+  {
+   "title": "Posição da cabeça",
+   "text": "Pode ser que, depois da cirurgia, você precise manter a cabeça numa posição especial. Prepare travesseiros em casa."
+  },
+  {
+   "title": "Transporte",
+   "text": "Volte para casa só com acompanhante."
+  }
+ ],
+ "bring": [
+  "Documentos e pedido médico",
+  "Resultados dos exames",
+  "Lista de remédios",
+  "Roupa confortável",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Colocam um acesso na veia",
+  "Aplicam anestesia perto do olho ou anestesia geral",
+  "O cirurgião faz alguns furinhos finos",
+  "Tira o vítreo e repara a retina",
+  "Às vezes faz laser",
+  "O olho é preenchido com líquido, gás ou óleo de silicone",
+  "Colocam um curativo"
+ ],
+ "feel": [
+  "Durante a cirurgia não dói",
+  "Depois, peso e sensação de areia no olho",
+  "No começo a visão fica muito embaçada, principalmente se houver gás no olho"
+ ],
+ "after": [
+  "Posição da cabeça exatamente como o médico disse",
+  "Colírios conforme o esquema",
+  "Enquanto houver gás no olho, não pode viajar de avião nem subir montanha",
+  "Não carregue peso e não se abaixe de repente",
+  "Se ficou óleo, ele é tirado depois numa segunda cirurgia"
+ ],
+ "red_flags": [
+  "Dor forte no olho, enjoo ou vômito: procure o médico com urgência",
+  "Piora repentina da visão",
+  "Pus no olho ou pálpebras muito inchadas",
+  "Dor de cabeça forte com dor no olho: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que preciso ficar de rosto para baixo?",
+   "a": "A bolha de gás sobe e pressiona a retina. Isso ajuda a retina a grudar de novo."
+  },
+  {
+   "q": "Quando a visão volta?",
+   "a": "Aos poucos, em semanas e meses. Depende muito do estado da retina."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia no olho. Leve documentos, lista de remédios e um acompanhante. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

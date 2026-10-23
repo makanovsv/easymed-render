@@ -1,0 +1,76 @@
+{
+ "title": "BRCA1/2 genetik testi",
+ "also": [
+  "BRCA tahlili",
+  "Anjelina Joli geni",
+  "ko‘krak saratoniga genetik test",
+  "BRCA mutatsiyalari testi"
+ ],
+ "what": "Bu qon yoki so‘lak tahlili. U BRCA1 va BRCA2 genlaridagi irsiy o‘zgarishlarni qidiradi. Bunday o‘zgarishlar ko‘krak va tuxumdon saratoni xavfini oshiradi.",
+ "why": "Oilada ko‘krak, tuxumdon, prostata yoki oshqozon osti bezi saratoni bir necha marta bo‘lgan bo‘lsa; ko‘krak saratoni yoshligida bo‘lgan bo‘lsa; davoni tanlash uchun.",
+ "duration": "qon olish odatda 5 daqiqa, natija odatda 2–4 haftada",
+ "tell_doctor": [
+  "Oilada kim va qaysi yoshda saraton bilan og‘riganini — ikkala tomondan",
+  "Qarindoshda genda o‘zgarish topilgan bo‘lsa — uning xulosasini olib keling",
+  "Sizga qon quyilgan yoki suyak ko‘migi ko‘chirilgan bo‘lsa",
+  "Test sizga nega kerak: xavfni tekshirish yoki davoni tanlash"
+ ],
+ "prepare": [
+  {
+   "title": "Maslahat",
+   "text": "Tahlildan oldin shifokor-genetik bilan gaplashgan ma’qul: test nimani ko‘rsatadi va natija bilan nima qilish kerak."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Och qolish odatda kerak emas. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Oila",
+   "text": "Saraton bilan og‘rigan qarindoshlar ro‘yxatini tuzing: kim, qanday saraton, qaysi yoshda."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Saraton bilan og‘rigan qarindoshlar ro‘yxati",
+  "Qarindoshning genetik xulosasi, agar bo‘lsa"
+ ],
+ "steps": [
+  "O‘tirasiz, hamshira qo‘lingizga jgut bog‘laydi",
+  "Teri antiseptik bilan artiladi",
+  "Venadan bitta probirkaga qon olinadi",
+  "Ba’zan qon o‘rniga probirkaga so‘lak yig‘iladi",
+  "Namuna genetik laboratoriyaga yuboriladi"
+ ],
+ "feel": [
+  "Qisqa ukol, oddiy qon tahlilidagidek",
+  "Ko‘pincha hayajon bo‘ladi — bu normal, shifokordan savollar bering"
+ ],
+ "after": [
+  "Natija odatda 2–4 haftada",
+  "Natijani shifokor-genetik bilan muhokama qilgan ma’qul",
+  "O‘zgarish topilsa, shifokor tekshiruvlar va himoya choralari haqida aytadi, qarindoshlarga test taklif qilinishi mumkin",
+  "Topilmasa — bu saraton bo‘lmasligi kafolati emas; qanday tekshiruvlar kerakligini shifokor aytadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Mutatsiya topilsa, albatta saraton bo‘ladimi?",
+   "a": "Yo‘q. Xavf boshqa odamlarnikidan yuqori, lekin bu hukm emas. Bu xavfni kamaytiradigan tekshiruvlar va choralar bor."
+  },
+  {
+   "q": "Bu tahlilni qayta topshirish kerakmi?",
+   "a": "Odatda yo‘q. Genlar umr bo‘yi o‘zgarmaydi, bir marta yetarli."
+  },
+  {
+   "q": "Erkaklarga bu test kerakmi?",
+   "a": "Ba’zan ha. BRCA o‘zgarishlari erkaklarda ham bo‘ladi va har qanday jinsdagi bolalarga o‘tadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga BRCA genetik tahlili. Saraton bilan og‘rigan qarindoshlar ro‘yxati va ularning xulosalarini oling, agar bo‘lsa."
+  }
+ ]
+}

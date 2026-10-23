@@ -1,0 +1,79 @@
+{
+ "title": "Ichak infeksiyalariga najas PZR (rota-, norovirus)",
+ "also": [
+  "najas PZR",
+  "ichak infeksiyalari",
+  "rotavirus",
+  "norovirus",
+  "ichak grippi"
+ ],
+ "what": "Bu najas tahlili: ich ketishi va qusishni keltirib chiqaradigan virus va mikroblarni qidiradi.",
+ "why": "O‘tkir ich ketish va qusishda, ayniqsa bolalarda, oilada yoki jamoada kasallik tarqalganda.",
+ "duration": "yig‘ish — bir necha daqiqa, natija odatda 1–2 kunda",
+ "tell_doctor": [
+  "Ich ketish va qusish necha kundan beri davom etayotganini",
+  "Najasda qon yoki shilimshiq bor-yo‘qligini",
+  "Qanday dorilar allaqachon berilganini",
+  "Oilada yana kimdir kasal bo‘lgan-bo‘lmaganini"
+ ],
+ "prepare": [
+  {
+   "title": "Idish",
+   "text": "Dorixona yoki laboratoriyadan steril idish oling. Najas uchun qopqog‘ida qoshiqchasi bor idish kerak."
+  },
+  {
+   "title": "Antibiotiklar",
+   "text": "Tahlilni antibiotik boshlashdan oldin topshirgan ma’qul. Agar allaqachon ichayotgan bo‘lsangiz, o‘zingiz to‘xtatmang, shifokorga ayting."
+  },
+  {
+   "title": "Yig‘ish",
+   "text": "Najas toza sirtdan yoki taglikdan yig‘iladi, hojatxona suvidan emas. Siydikni aralashtirmang."
+  },
+  {
+   "title": "Yetkazish",
+   "text": "Idishni o‘sha kuni laboratoriyaga olib boring. Bundan oldin qanday saqlashni laboratoriyadan so‘rang."
+  }
+ ],
+ "bring": [
+  "Najasli idish",
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Tog‘oraga yoki hojatxonaga toza plyonka yoki qog‘oz to‘shang",
+  "Qopqoqdagi qoshiqcha bilan najasdan bir parcha oling, suyuq qismidan olgan yaxshi",
+  "Idishga soling — hajmining uchdan biridan ko‘p bo‘lmasin",
+  "Mahkam yoping va ismingizni yozing",
+  "Qo‘lingizni yuving va idishni laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Yoqimsiz hech narsa yo‘q — bu oddiy najas yig‘ish",
+  "Bolaga yig‘ish xalaqit bermaydi — tog‘oradan yoki taglikdan olsa bo‘ladi"
+ ],
+ "after": [
+  "Tez-tez, oz-ozdan suv bering — ich ketganda eng muhimi shu",
+  "Hojatxonadan va taglik almashtirgandan keyin qo‘lingizni yuving",
+  "Natijani shifokor tushuntiradi"
+ ],
+ "red_flags": [
+  "Bola uzoq vaqt siymasa, og‘zi quruq bo‘lsa, ko‘z yoshsiz yig‘lasa — shoshilinch shifokorga",
+  "Najasda qon yoki yuqori harorat bo‘lsa — o‘sha kuni shifokorga",
+  "Qattiq holsizlik, bola uyg‘onmasa, tutqanoq bo‘lsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Taglikdagi najasni topshirsa bo‘ladimi?",
+   "a": "Ha, agar so‘rilib ketmagan bo‘lsa. Qoshiqcha bilan taglik yuzasidan yig‘ing."
+  },
+  {
+   "q": "Rotavirusda antibiotik kerakmi?",
+   "a": "Odatda yo‘q — bu virus. Asosiysi — ko‘p suv ichish. Davolashni shifokor buyuradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga najasni PZRga topshiramiz. Idish va yig‘ish uchun toza plyonkani tayyorlab qo‘ying."
+  }
+ ]
+}

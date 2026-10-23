@@ -1,0 +1,75 @@
+{
+ "title": "Lavado y cuidado del puerto",
+ "also": [
+  "lavado del puerto",
+  "cuidado del puerto",
+  "mantenimiento del puerto",
+  "puerto subcutáneo",
+  "reservorio venoso"
+ ],
+ "what": "La enfermera introduce en el puerto una aguja especial y lo enjuaga, para que no se formen coágulos adentro.",
+ "why": "Entre ciclos de quimioterapia, cuando no se usa el puerto. Normalmente cada pocas semanas; el calendario te lo dirá la clínica.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Si la zona del puerto duele, está roja o hinchada",
+  "Si has tenido fiebre",
+  "Alergia al antiséptico o al esparadrapo",
+  "Cuándo fue el último lavado"
+ ],
+ "prepare": [
+  {
+   "title": "Calendario",
+   "text": "Anota la fecha del próximo lavado: no debe saltarse."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Si el pinchazo te molesta, pregunta por la crema anestésica, que se pone antes."
+  },
+  {
+   "title": "Ropa",
+   "text": "Que se pueda descubrir el pecho con facilidad."
+  }
+ ],
+ "bring": [
+  "La tarjeta o el pasaporte del puerto",
+  "Un documento de identidad",
+  "La fecha del último lavado"
+ ],
+ "steps": [
+  "La enfermera revisa y limpia la piel sobre el puerto",
+  "Localiza la cámara y mete la aguja especial",
+  "Comprueba que sale sangre y que el puerto funciona",
+  "Enjuaga el puerto con solución salina",
+  "Retira la aguja y cubre el lugar con una curita"
+ ],
+ "feel": [
+  "Un pinchazo corto a través de la piel",
+  "Frescura por la solución y, a veces, sabor raro en la boca"
+ ],
+ "after": [
+  "La curita se puede quitar después de unas horas",
+  "Normalmente puedes volver enseguida a tus actividades",
+  "Anota la fecha del próximo lavado"
+ ],
+ "red_flags": [
+  "Enrojecimiento, pus o dolor en el lugar del puerto",
+  "Fiebre o escalofríos después del lavado",
+  "Hinchazón del brazo, el cuello o la cara"
+ ],
+ "faq": [
+  {
+   "q": "¿Cada cuánto hay que lavar el puerto?",
+   "a": "Normalmente cada pocas semanas, cuando no se usa. El calendario exacto te lo dará la clínica."
+  },
+  {
+   "q": "¿Qué pasa si me salto un lavado?",
+   "a": "El puerto se puede tapar con un coágulo. Entonces es más difícil usarlo y a veces hay que cambiarlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te lavan el puerto. Lleva la tarjeta del puerto y anota la fecha del último lavado."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Homiladorlikda tishlarni davolash",
+ "also": [
+  "homiladorlikda tish shifokori",
+  "homilador tishini davolash",
+  "homiladorlik paytida karies"
+ ],
+ "what": "Homiladorlik paytida tishlarni davolash mumkin va kerak. Shifokor xavfsiz og‘riqsizlantirish va davolash vaqtini tanlaydi.",
+ "why": "Karies, milk qonashi, tish og‘rig‘ida, shuningdek rejali tekshiruv va tozalash uchun.",
+ "duration": "qabul odatda 30–60 daqiqa",
+ "tell_doctor": [
+  "Homiladorlik muddatini",
+  "Homiladorlik qanday kechayotgani va asoratlar bormi",
+  "Qanday dorilar va vitaminlar ichasiz",
+  "Allergiya bo‘lsa",
+  "Ko‘ngil aynisa yoki bosh aylansa"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Rejali davolash uchun eng qulayi: ikkinchi trimestr. O‘tkir og‘riqni istalgan muddatda davolashadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Qabuldan 1–2 soat oldin yengil ovqatlaning."
+  },
+  {
+   "title": "Shifokor",
+   "text": "Ginekolog bilan oldindan maslahatlashish mumkin, ayniqsa homiladorlik murakkab bo‘lsa."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Almashinuv kartasi yoki homiladorlik haqida epikriz, agar bo‘lsa",
+  "Dorilar ro‘yxati",
+  "Suv"
+ ],
+ "steps": [
+  "Tish shifokoriga homiladorlik muddatini ayting",
+  "Kreslo qulay o‘rnatiladi, kech muddatlarda biroz yonboshga",
+  "Shifokor tishlar va milklarni ko‘radi",
+  "Kerak bo‘lsa, homiladorlikda ruxsat etilgan og‘riqsizlantirishni qiladi",
+  "Tishni davolaydi yoki tozalash qiladi",
+  "Surat faqat zarur bo‘lsa va qorin himoyasi bilan olinadi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol: qisqa og‘riq",
+  "Chalqancha uzoq yotish noqulay bo‘lishi mumkin: shifokorga ayting, tanaffus qilishadi"
+ ],
+ "after": [
+  "Uyushish o‘tgach ovqatlanish mumkin",
+  "Tishlarni kuniga ikki marta tozalang, milklar tez-tez qonashi mumkin",
+  "Keyingi tashrif shifokor rejasi bo‘yicha"
+ ],
+ "red_flags": [
+  "Tishda kuchli og‘riq yoki yonoq shishi bo‘lsa, kutmang, tish shifokoriga boring",
+  "Kreslo‘da bosh aylanishi va holsizlik bo‘lsa, darhol shifokorga ayting",
+  "Qorinda og‘riq, qonli ajralmalar bo‘lsa, 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Homiladorlikda og‘riqsizlantirish mumkinmi?",
+   "a": "Ha. Homiladorlikda qo‘llanadigan preparatlar bor. Og‘riqqa chidash zararliroq."
+  },
+  {
+   "q": "Tish suratini olsa bo‘ladimi?",
+   "a": "Faqat usiz bo‘lmasa. Doza juda kichik, qorin himoya fartugi bilan yopiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga tish shifokori. Shifokorga homiladorlik muddatini ayting va dorilar ro‘yxatini oling."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Qabul bo‘limida nima qilish kerak",
+ "also": [
+  "qabul bo‘limi",
+  "qabul xonasi",
+  "kasalxonadagi shoshilinch yordam",
+  "kasalxonadagi tez yordam"
+ ],
+ "what": "Qabul bo‘limi — tez yordam olib keladigan yoki shoshilinch muammoda o‘zlari keladigan kasalxona bo‘limi. Bu yerda ko‘rishadi va kasalxonaga yotqizish kerakmi, hal qilishadi.",
+ "why": "To‘satdan og‘riq, jarohat, yuqori haroratda yoki tez yordam kasalxonaga olib kelganda.",
+ "duration": "odatda 1 soatdan bir necha soatgacha — tekshiruvlar va navbatga bog‘liq",
+ "tell_doctor": [
+  "Nima bo‘lgani va qachon boshlangani",
+  "Barcha dorilar va allergiyalar",
+  "Surunkali kasalliklar va operatsiyalar",
+  "Homilador bo‘lsangiz",
+  "Uyda nima ichgansiz"
+ ],
+ "prepare": [
+  {
+   "title": "Hujjatlar",
+   "text": "Hujjat va polis yoki tibbiy kartani uyda bir joyda saqlang, tez olish uchun."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Dorilar ro‘yxatini yoki qadoqlarning o‘zini oling."
+  },
+  {
+   "title": "Hamroh",
+   "text": "Iloji bo‘lsa, yoningizda qarindosh bo‘lsin."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Ko‘chirmalar, agar bo‘lsa",
+  "Telefon va zaryadlovchi"
+ ],
+ "steps": [
+  "Sizni ro‘yxatga olib, qisqacha so‘rashadi",
+  "Hamshira qon bosimi, puls, haroratni o‘lchaydi",
+  "Avval eng og‘irlarni ko‘rishadi — shuning uchun navbat vaqt bo‘yicha emas",
+  "Shifokor ko‘rib, tahlil, rentgen yoki UZI tayinlaydi",
+  "Natijaga ko‘ra sizni uyga qo‘yib yuborishadi yoki bo‘limga yotqizishadi"
+ ],
+ "feel": [
+  "Kutish uzoq bo‘lishi mumkin — bu sizni unutishgani degani emas",
+  "Kutish paytida ahvolingiz yomonlashsa, darhol hamshiraga ayting"
+ ],
+ "after": [
+  "Uyga qo‘yib yuborishsa, ko‘chirma va tavsiyalarni so‘rang",
+  "Kasalxonaga yotqizishsa, sizni bo‘limga kuzatib qo‘yishadi",
+  "Keyin kimga murojaat qilishni so‘rang"
+ ],
+ "red_flags": [
+  "Navbatda ahvolingiz yomonlashsa: kuchli og‘riq, nafas olish qiyin, hushdan ketayotgan bo‘lsangiz — darhol hamshiraga ayting"
+ ],
+ "faq": [
+  {
+   "q": "Nega kimdir keyin kelsa ham, uni oldin olishdi?",
+   "a": "Qabul bo‘limida avval ahvoli og‘irroqlarni ko‘rishadi. Bu og‘ir bemorlarni qutqarish uchun qilinadi."
+  },
+  {
+   "q": "Tez yordamsiz kelsa bo‘ladimi?",
+   "a": "Odatda ha, ahvolingiz ruxsat bersa. Muammongiz bilan qaysi kasalxona qabul qilishini aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Hujjat va dorilar ro‘yxatini bir joyda saqlang — kasalxonaga shoshilinch borish holati uchun."
+  }
+ ]
+}

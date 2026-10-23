@@ -1,0 +1,75 @@
+{
+ "title": "Husnbuzardan keyingi chandiqlarni davolash",
+ "also": [
+  "husnbuzar chandiqlari",
+  "postakne",
+  "husnbuzardan keyingi chuqurchalar",
+  "yuzdagi chandiqlar",
+  "postaknen davolash"
+ ],
+ "what": "Husnbuzardan keyingi chandiqlar — terdagi chuqurchalar va notekisliklar. Ularni lazer, pilling, mikroigna va boshqa usullar bilan sezilarli kichraytirish mumkin.",
+ "why": "Husnbuzarlar o‘tib ketgan, lekin chuqurchalar va chandiqlar qolgan bo‘lsa.",
+ "duration": "bitta protsedura odatda 30–60 daqiqa; davo — bir necha seansdan iborat kurs",
+ "tell_doctor": [
+  "Hozir yangi husnbuzarlar bormi",
+  "Husnbuzar uchun tabletka dorilar ichasizmi yoki ichganmisiz",
+  "Gerpes yoki keloid chandiqlar bo‘lgan bo‘lsa",
+  "Yaqinda quyoshda toblanganmisiz"
+ ],
+ "prepare": [
+  {
+   "title": "Husnbuzar",
+   "text": "Avval faol husnbuzarlar davolanadi. Chandiqlar yangi toshmalar kam bo‘lganda davolanadi."
+  },
+  {
+   "title": "Quyosh",
+   "text": "Protsedurardan oldin quyoshda toblanmang."
+  },
+  {
+   "title": "Kutilma",
+   "text": "Chandiqlar odatda kichrayadi, lekin butunlay yo‘qolmaydi. Siz uchun nima real ekanini shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Teri suratlari",
+  "Dorilar ro‘yxati",
+  "Quyoshdan himoya kremi"
+ ],
+ "steps": [
+  "Shifokor chandiqlarni ko‘zdan kechirib, usulni tanlaydi",
+  "Teri tozalanadi va odatda og‘riqsizlantiruvchi krem surtiladi",
+  "Protsedura o‘tkaziladi: lazer, mikroigna, pilling yoki boshqa usul",
+  "Teri sovutiladi va tinchlantiruvchi vosita surtiladi",
+  "Keyingi seans sanasi belgilanadi"
+ ],
+ "feel": [
+  "Issiqlik, chaqqonlik, ba’zan achishish",
+  "Keyin — bir necha kun qizarish va shish"
+ ],
+ "after": [
+  "Shifokor buyurgan vositalardan foydalaning",
+  "Teridagi hech narsani ushlamang va siqmang",
+  "Har kuni quyoshdan himoya kremi surting",
+  "Natija bir necha seansdan keyin yaxshiroq ko‘rinadi"
+ ],
+ "red_flags": [
+  "Pufakchalar, yiring, qattiq og‘riq, harorat bo‘lsa — shifokorga",
+  "Qora dog‘lar paydo bo‘lsa — shifokorga ko‘rining"
+ ],
+ "faq": [
+  {
+   "q": "Chandiqlarni butunlay yo‘q qilsa bo‘ladimi?",
+   "a": "Odatda ularni sezilarli kichraytirishadi, lekin har doim ham oxirigacha emas."
+  },
+  {
+   "q": "Husnbuzarlar hali bo‘lsa, chandiqlarni davolasa bo‘ladimi?",
+   "a": "Odatda avval husnbuzarlar davolanadi. Qachon boshlashni shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga chandiqlar uchun protsedura. Quyoshda toblanmang, teri bo‘yanishsiz bo‘lsin."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Uchinchi trimestrda UZI",
+ "also": [
+  "uchinchi skrining",
+  "32 haftalik UZI",
+  "homiladorlik oxirida UZI",
+  "3-trimestr UZIsi"
+ ],
+ "what": "Shifokor homiladorlik oxirida chaqaloqni ultratovush bilan ko‘radi: o‘sishi, joylashuvi, suv miqdori va yo‘ldosh.",
+ "why": "Odatda 30–34 haftada, kuzatuv rejasi bo‘yicha. Ba’zan shifokor buyursa, tez-tez.",
+ "duration": "odatda 20–40 daqiqa, natija darrov beriladi",
+ "tell_doctor": [
+  "Homiladorlik muddati",
+  "Chaqaloq qanday qimirlayapti",
+  "Oldingi UZIlarda muammolar bo‘lganmi",
+  "Bosim, shish, diabet bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Ovqatlansangiz bo‘ladi, pufakni to‘ldirish shart emas."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qorinni oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Homilador ayolning almashinuv kartasi",
+  "Yo‘llanma",
+  "Oldingi UZI xulosalari"
+ ],
+ "steps": [
+  "Chalqancha yoki biroz yonboshga yotasiz",
+  "Qoringa gel surtiladi",
+  "Shifokor chaqaloqning boshi, qorni va oyoqlarini o‘lchaydi",
+  "Chaqaloqning joylashuvi, yo‘ldosh va suvlarni ko‘radi",
+  "Ko‘pincha darrov doppler ham qilinadi — qon oqimi tekshiriladi"
+ ],
+ "feel": [
+  "Salqin gel, datchikning qorinni bosishi",
+  "Chalqancha yotganda boshingiz aylanishi mumkin — ayting, sizni yonboshga yotqizishadi"
+ ],
+ "after": [
+  "Xulosa odatda darrov beriladi",
+  "Natijani qabulda o‘z shifokoringiz bilan muhokama qiling",
+  "UZIdagi chaqaloq vazni taxminiy, farq bo‘lishi mumkin"
+ ],
+ "red_flags": [
+  "Chaqaloq sezilarli kamroq qimirlasa — darrov shifokorga",
+  "Qon, qorinda kuchli og‘riq, suv ketishi — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "UZI chaqaloq vaznini aniq ko‘rsatadimi?",
+   "a": "Taxminan. Xato ikki tomonga ham bo‘lishi mumkin, shuning uchun shifokor faqat vaznga qarab qolmaydi."
+  },
+  {
+   "q": "Chaqaloq boshi bilan tepada yotgan bo‘lsa-chi?",
+   "a": "Tug‘ruqqacha u yana aylanishi mumkin. Keyin nima qilishni shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga uchinchi trimestr UZIsi. Tayyorgarlik kerak emas. Almashinuv kartasini oling."
+  }
+ ]
+}

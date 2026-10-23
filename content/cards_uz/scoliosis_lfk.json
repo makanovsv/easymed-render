@@ -1,0 +1,76 @@
+{
+ "title": "Bolada skolyozda DJT",
+ "also": [
+  "skolyozda davolash jismoniy tarbiyasi",
+  "skolyozda gimnastika",
+  "bola qaddi uchun mashqlar",
+  "Shrot usuli"
+ ],
+ "what": "Bu orqa mushaklarini mustahkamlaydigan va bolani to‘g‘ri qad-qomat saqlashga o‘rgatadigan maxsus mashqlar. Mashqlar qiyshayish turiga qarab tanlanadi.",
+ "why": "Skolyoz yoki qad-qomat buzilishi bor bolalar va o‘smirlarga: alohida yoki korset bilan birga.",
+ "duration": "mashg‘ulot odatda 30–60 daqiqa, oylar davomida shug‘ullanish kerak",
+ "tell_doctor": [
+  "Rasmlar nimani ko‘rsatgani va ortoped nima degani",
+  "Bola korset taqadimi",
+  "Bel og‘rig‘i",
+  "Bola nima bilan shug‘ullanadi: sport, raqs"
+ ],
+ "prepare": [
+  {
+   "title": "Rasmlar",
+   "text": "Rentgen va ortoped xulosasini oling: instruktor mashqlarni shularga qarab tanlaydi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Orqa ko‘rinishi uchun tor sport kiyimi. Yalang oyoq yoki paypoqda shug‘ullanish mumkin."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Mashg‘ulotdan bir soat oldin bola to‘yib ovqatlanmasin."
+  }
+ ],
+ "bring": [
+  "Rasmlar va ortoped xulosasi",
+  "Sport kiyimi",
+  "Kilamcha, agar so‘ralsa",
+  "Suv"
+ ],
+ "steps": [
+  "Instruktor bolaning orqasi va qad-qomatini ko‘radi",
+  "Bolaga skolyozi qanday tuzilganini tushuntiradi",
+  "Maxsus nafas olish va tananing to‘g‘ri holatiga o‘rgatadi",
+  "Oyna oldida mashqlar qildiradi",
+  "Ota-onaga uyda qanday shug‘ullanishni ko‘rsatadi",
+  "Bola mashqlarni qanday bajarayotganini muntazam tekshiradi"
+ ],
+ "feel": [
+  "Mashqlar og‘riqli bo‘lmasligi kerak",
+  "Mushaklar charchashi va biroz og‘rishi mumkin",
+  "Bolaga ba’zan zerikarli: o‘yin va maqtov yordam beradi"
+ ],
+ "after": [
+  "Uyda har kuni, yaxshisi bir vaqtda shug‘ullaning",
+  "Partada va telefon qarshisida qad-qomatni kuzating",
+  "Ortopedga muntazam ko‘rining va buyurilganda rasm oling"
+ ],
+ "red_flags": [
+  "Belda yangi yoki kuchli og‘riq",
+  "Oyoqlarda uvishish yoki holsizlik: shifokorga ko‘rining"
+ ],
+ "faq": [
+  {
+   "q": "DJT skolyozni to‘g‘rilaydimi?",
+   "a": "DJT qiyshayish kuchayishini to‘xtatishga va qad-qomatni yaxshilashga yordam beradi. Qanchalik, daraja bog‘liq."
+  },
+  {
+   "q": "Shunchaki basseynga borsa bo‘ladimi?",
+   "a": "Suzish foydali, lekin maxsus mashqlarning o‘rnini bosmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun bolaning DJT mashg‘uloti. Sport kiyimi, suv va rasmlarni oling."
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "title": "Parto normal depois de cesárea",
+ "also": [
+  "parto normal após cesárea",
+  "VBAC",
+  "parto com cicatriz de cesárea",
+  "parto vaginal depois de cesárea"
+ ],
+ "what": "É um parto normal numa mulher que já teve cesárea antes. Ele é feito com acompanhamento atento dos médicos.",
+ "why": "Quando, depois da cesárea, a cicatriz do útero está boa e não há outro motivo para operar. A decisão é tomada junto com o médico.",
+ "duration": "o parto dura tempos diferentes, normalmente muitas horas; a internação costuma ser de 2 a 4 dias",
+ "tell_doctor": [
+  "Por que foi feita a cesárea anterior",
+  "Quanto tempo passou desde ela",
+  "Se houve complicações depois da cirurgia",
+  "Todos os remédios e doenças",
+  "O que você deseja e quais são os seus medos"
+ ],
+ "prepare": [
+  {
+   "title": "Consulta",
+   "text": "Converse antes com o médico se você pode ter parto normal e quais são os riscos."
+  },
+  {
+   "title": "Documentos",
+   "text": "Leve o relatório da cirurgia anterior. Ele é muito importante."
+  },
+  {
+   "title": "Maternidade",
+   "text": "Normalmente se escolhe uma maternidade onde dá para fazer uma cirurgia de urgência a qualquer hora."
+  },
+  {
+   "title": "Mala",
+   "text": "Prepare a mala da maternidade com antecedência."
+  }
+ ],
+ "bring": [
+  "Cartão da gestante",
+  "Relatório da cesárea anterior",
+  "Documentos",
+  "Mala da maternidade"
+ ],
+ "steps": [
+  "Quando começarem as contrações ou a bolsa estourar, você vai para a maternidade",
+  "O médico examina você e, se precisar, faz ultrassom da cicatriz",
+  "Normalmente o coração do bebê é monitorado o tempo todo",
+  "Colocam um acesso na veia, por segurança",
+  "As contrações seguem como num parto normal; dá para pedir analgesia",
+  "Se algo não for bem, os médicos podem partir para a cesárea",
+  "O bebê é colocado no seu peito"
+ ],
+ "feel": [
+  "As contrações doem como num parto normal. Converse com o médico sobre analgesia",
+  "O sensor fixo na barriga pode atrapalhar os movimentos"
+ ],
+ "after": [
+  "A recuperação costuma ser mais rápida do que depois de uma cesárea",
+  "Na maternidade, acompanham o sangramento e como você está",
+  "Consulta com o médico depois da alta. Vão dizer a data"
+ ],
+ "red_flags": [
+  "Dor forte e repentina na cicatriz: avise a equipe na hora",
+  "Sangramento depois da alta: ligue para a emergência",
+  "Febre acima de 38 graus ou dor forte na barriga"
+ ],
+ "faq": [
+  {
+   "q": "É seguro ter parto normal depois de cesárea?",
+   "a": "Para muitas mulheres, sim. Mas a decisão é do médico, depois de examinar você e ver como foi a cirurgia anterior."
+  },
+  {
+   "q": "E se não der certo?",
+   "a": "Aí os médicos fazem a cesárea. Por isso o parto é feito onde isso pode ser feito rápido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "O parto está chegando. Confira a mala, o cartão da gestante e o relatório da cesárea anterior."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "title": "Son bo‘yni sinishidan keyingi reabilitatsiya",
+ "also": [
+  "son sinishidan keyin tiklanish",
+  "sinish tufayli endoprotezlashdan keyingi reabilitatsiya",
+  "son bo‘yni sinishidan keyin qanday yurish kerak",
+  "keksalarda son bo‘yni sinishi"
+ ],
+ "what": "Son operatsiyasidan keyin odamni asta-sekin turish, yurish va o‘ziga xizmat qilishga o‘rgatishadi. Mashg‘ulotlarni davolash badantarbiyasi shifokori yoki reabilitolog olib boradi.",
+ "why": "Son bo‘yni sinishi operatsiyasidan keyin, yurishni qaytarish va yotishdan kelib chiqadigan asoratlarning oldini olish uchun.",
+ "duration": "mashg‘ulotlar odatda 30–60 daqiqa, tiklanish — bir necha hafta yoki oy",
+ "tell_doctor": [
+  "Qanday operatsiya qilingan va jarroh nimaga ruxsat bergan",
+  "Odam sinishdan oldin qanday harakatlanardi",
+  "Og‘riqlar, bosh aylanishi, yiqilishlar",
+  "Yurak kasalliklari, bosim, diabet",
+  "Barcha dorilar"
+ ],
+ "prepare": [
+  {
+   "title": "Kiyim",
+   "text": "Qulay kiyim va yopiq, sirpanmaydigan tagli, bog‘ichsiz poyabzal."
+  },
+  {
+   "title": "Tayanch",
+   "text": "Yurish ramkasi yoki qo‘ltiqtayoq — qaysi biri kerakligini reabilitolog aytadi."
+  },
+  {
+   "title": "Uy",
+   "text": "Gilam va simlarni poldan olib tashlang, tungi chiroq va vannada tutqichlar qo‘ying."
+  }
+ ],
+ "bring": [
+  "Operatsiyadan keyingi ko‘chirma",
+  "Yurish uchun ramka yoki qo‘ltiqtayoq",
+  "Qulay poyabzal",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Reabilitolog qanday o‘tirishingiz, turishingiz va oyoqni qimirlatishingizni tekshiradi",
+  "Karavotdan to‘g‘ri turish va o‘tirishga o‘rgatadi",
+  "Yurish ramkasi yoki qo‘ltiqtayoq bilan yurishni mashq qildiradi",
+  "Oyoq va bel mushaklari uchun mashqlar qildiradi",
+  "Zinadan yurish va uyda xavfsiz harakatlanishni o‘rgatadi",
+  "Har kunlik mashqlar beradi"
+ ],
+ "feel": [
+  "Avval yurish og‘ir va qo‘rqinchli — bu odatiy",
+  "Mashg‘ulotlardan keyin oyoq zirqirashi mumkin",
+  "Dastlabki haftalarda tez charchaysiz"
+ ],
+ "after": [
+  "Mashqlarni ko‘rsatilganidek har kuni qiling",
+  "Jarroh taqiqlariga rioya qiling — masalan, chuqur engashish yoki oyoqlarni chalishtirmaslik",
+  "Ruxsat berilmaguncha tayanchsiz yurmang",
+  "Ozgina, lekin tez-tez yuring"
+ ],
+ "red_flags": [
+  "Sonda kuchli og‘riq, oyoq qisqarib qolgan yoki tashqariga burilgan bo‘lsa — shifokorga qo‘ng‘iroq qiling",
+  "Boldirda shish va og‘riq",
+  "To‘satdan hansirash yoki ko‘krakda og‘riq — tez yordamni chaqiring (103)",
+  "Operatsiya qilingan oyoqda og‘riq bilan yiqilish"
+ ],
+ "faq": [
+  {
+   "q": "Keksa odam yana yura oladimi?",
+   "a": "Ko‘pchilik tayanch bilan yoki tayanchsiz yurishga qaytadi. Qanchalik erta harakatlana boshlasa, natija shunchalik yaxshi."
+  },
+  {
+   "q": "Bitguncha yotsa bo‘ladimi?",
+   "a": "Uzoq yotish xavfli: yotoq yaralari, pnevmoniya, tromblar. Shifokor ruxsati bilan imkon qadar erta turishni boshlashadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun reabilitatsiya mashg‘uloti. Qulay poyabzal kiying va yurish ramkasi yoki qo‘ltiqtayoqni oling."
+  }
+ ]
+}

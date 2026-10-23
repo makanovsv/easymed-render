@@ -1,0 +1,75 @@
+{
+ "title": "Teste respiratório do hidrogênio (SIBO, lactose)",
+ "also": [
+  "teste do hidrogênio expirado",
+  "teste respiratório para SIBO",
+  "teste de intolerância à lactose",
+  "supercrescimento bacteriano"
+ ],
+ "what": "Você bebe uma solução doce e, a cada 15 a 30 minutos, sopra num aparelho. Pelos gases do ar soprado se vê como o intestino digere os açúcares.",
+ "why": "Com inchaço, dor e diarreia depois de comer. Para ver se há excesso de bactérias no intestino ou intolerância ao açúcar do leite.",
+ "duration": "normalmente 2 a 3 horas, o resultado sai na hora ou em alguns dias",
+ "tell_doctor": [
+  "Se tomou antibióticos no último mês",
+  "Se fez colonoscopia há pouco tempo",
+  "Quais remédios você toma, principalmente laxantes e para azia",
+  "Se você tem diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Dieta na véspera",
+   "text": "Normalmente, nas 24 horas antes, sem feijão e outros grãos, leite e derivados, doces, frutas e massas. O mais permitido: arroz, carne, peixe, ovos. A clínica passa a lista."
+  },
+  {
+   "title": "Jejum",
+   "text": "Normalmente 10 a 12 horas sem comer. Água pode."
+  },
+  {
+   "title": "De manhã",
+   "text": "Não fume, não masque chiclete e não tome café. Escove os dentes."
+  },
+  {
+   "title": "Remédios",
+   "text": "Às vezes pedem para não tomar alguns remédios antes do teste. Não pare por conta própria. Pergunte ao médico."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Um livro ou o celular. A espera é longa",
+  "Água, se permitirem"
+ ],
+ "steps": [
+  "Primeiro você sopra no aparelho. É o nível de partida",
+  "Você bebe a solução de açúcar",
+  "A cada 15 a 30 minutos, sopra de novo no aparelho",
+  "O tempo todo você fica sentado tranquilo na clínica",
+  "Avisam quando o teste terminou"
+ ],
+ "feel": [
+  "Não dói",
+  "Durante o teste pode aparecer inchaço, barulho na barriga ou fezes moles. Isso faz parte da resposta",
+  "A espera pode cansar"
+ ],
+ "after": [
+  "Depois do teste você pode comer",
+  "O inchaço normalmente passa durante o dia",
+  "Quem explica o resultado é o médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso beber água durante o teste?",
+   "a": "Na maioria das vezes, um pouco de água pura pode. Confirme com a clínica."
+  },
+  {
+   "q": "Por que não pode fumar?",
+   "a": "O cigarro muda a composição do ar soprado, e o resultado sai errado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o teste do hidrogênio. Hoje coma só o permitido, jante cedo. De manhã, não fume e não coma."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Teste de caminhada de seis minutos",
+ "also": [
+  "teste de caminhada de 6 minutos",
+  "TC6",
+  "teste da caminhada",
+  "prova de esforço caminhando"
+ ],
+ "what": "Você caminha num corredor por 6 minutos, no seu ritmo. Medem quantos metros você andou e como mudam o pulso e o oxigênio.",
+ "why": "Em doenças dos pulmões e do coração, para avaliar o fôlego, escolher o tratamento ou ver se ele está ajudando.",
+ "duration": "normalmente 20 a 30 minutos com o descanso, o resultado sai na hora",
+ "tell_doctor": [
+  "Quais remédios você toma",
+  "Se dói o peito ou dá muita tontura com esforço",
+  "Se usa oxigênio, bengala ou andador",
+  "Se doem as articulações ou as pernas"
+ ],
+ "prepare": [
+  {
+   "title": "Roupa",
+   "text": "Roupa e calçado confortáveis para caminhar."
+  },
+  {
+   "title": "Comida",
+   "text": "Uma refeição leve umas duas horas antes do teste. Não vá com fome."
+  },
+  {
+   "title": "Remédios",
+   "text": "Normalmente os remédios são tomados como sempre. Confirme com o médico."
+  },
+  {
+   "title": "Esforço",
+   "text": "Nas 2 horas antes do teste, não faça exercício."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Calçado confortável",
+  "Bengala ou andador, se usa",
+  "Bombinha, se tiver"
+ ],
+ "steps": [
+  "Você descansa sentado uns 10 minutos",
+  "Medem a pressão, o pulso e o oxigênio no dedo",
+  "Você caminha pelo corredor, ida e volta, por 6 minutos",
+  "Pode ir mais devagar ou parar se ficar difícil",
+  "A cada minuto dizem quanto falta",
+  "Depois do teste medem de novo o pulso e o oxigênio"
+ ],
+ "feel": [
+  "Pode aparecer falta de ar e cansaço",
+  "As pernas cansam. É normal"
+ ],
+ "after": [
+  "Fique sentado alguns minutos depois do teste",
+  "O resultado, os metros percorridos, sai na hora",
+  "O médico compara com os testes anteriores"
+ ],
+ "red_flags": [
+  "Dor no peito, falta de ar forte, tontura durante o teste: pare na hora e avise",
+  "Dor no peito que não passa com descanso: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Preciso correr?",
+   "a": "Não. Ande rápido, mas num ritmo confortável para você. Correr não pode."
+  },
+  {
+   "q": "Posso parar?",
+   "a": "Pode. Descanse e continue quando conseguir. O tempo continua contando."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o teste de caminhada de seis minutos. Use calçado confortável e tome um café da manhã leve."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Skolyozda korset",
+ "also": [
+  "Shyeno korseti",
+  "ortopedik korset",
+  "umurtqa uchun korset",
+  "skolyozni korset bilan davolash"
+ ],
+ "what": "Korset — gavdaga moslab yasaladigan qattiq belbog‘. U bola o‘sayotganda umurtqani ushlab turadi va qiyshayishning kuchayishiga yo‘l qo‘ymaydi.",
+ "why": "Odatda bolalar va o‘smirlarda, o‘sish davrida sezilarli kuchayadigan skolyozda.",
+ "duration": "tayyorlash odatda bir necha tashrif, korset oylar yoki yillar taqiladi",
+ "tell_doctor": [
+  "Qiyshayish qachon sezilgani va qanday o‘zgargani",
+  "Bel og‘rig‘i",
+  "Qizda hayz boshlanganmi: bu o‘sishni baholash uchun muhim",
+  "Teri kasalliklari va allergiyalar",
+  "Bola nima bilan shug‘ullanadi: sport, maktab"
+ ],
+ "prepare": [
+  {
+   "title": "Rasmlar",
+   "text": "Umurtqa rentgenini oling: shifokor unga qarab qanday korset kerakligini hal qiladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Chokisiz ingichka tor futbolka: uni korset ostida kiyishadi."
+  },
+  {
+   "title": "Suhbat",
+   "text": "Bola bilan oldindan gaplashing: korset — bu davo, jazo emas."
+  }
+ ],
+ "bring": [
+  "Rentgen rasmlari",
+  "Ortoped xulosasi",
+  "Chokisiz ingichka futbolka"
+ ],
+ "steps": [
+  "Mutaxassis belni ko‘radi va tana o‘lchamlarini oladi yoki skanerlaydi",
+  "Ular bo‘yicha korset yasashadi",
+  "Kiyib ko‘rishda korsetni bosmasligi uchun moslashtirishadi",
+  "Korsetni kiyish va yechishga o‘rgatishadi",
+  "Taqish vaqtini asta-sekin oshirishadi",
+  "Bir ozdan keyin korsetda rasm olishadi"
+ ],
+ "feel": [
+  "Dastlab korset tor va odatiy emas, chuqur nafas olish qiyin",
+  "Dastlabki haftalarda issiq va uxlash og‘ir bo‘lishi mumkin",
+  "Bir necha haftadan keyin ko‘pchilik bolalar ko‘nikadi"
+ ],
+ "after": [
+  "Korsetni shifokor buyurgan soat davomida taqing: natija shunga bog‘liq",
+  "Har kuni korset ostidagi terini ko‘zdan kechiring",
+  "Davolash badantarbiyasini davom ettiring: korset uning o‘rnini bosmaydi",
+  "Shifokorga muntazam ko‘rining: korset o‘sish bilan almashtiriladi"
+ ],
+ "red_flags": [
+  "Korsetdan o‘tmayotgan qizarishlar, yaralar yoki pufaklar",
+  "Belda kuchli og‘riq yoki oyoqlarning uvishishi",
+  "Korset aniq kichik bo‘lib qoldi"
+ ],
+ "faq": [
+  {
+   "q": "Korsetni kuniga necha soat taqish kerak?",
+   "a": "Odatda kuniga ko‘p soat, ba’zan deyarli sutka davomida. Aniq tartibni shifokor belgilaydi."
+  },
+  {
+   "q": "Sport bilan shug‘ullansa bo‘ladimi?",
+   "a": "Ko‘pincha ha, shu vaqtga korset yechiladi. Qaysi turlar mumkinligini shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga korsetni kiyib ko‘rish. Rasmlar va chokisiz ingichka futbolkani oling."
+  }
+ ]
+}

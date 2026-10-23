@@ -1,0 +1,72 @@
+{
+ "title": "Tana tarkibining bioimpedans tahlili",
+ "also": [
+  "bioimpedansometriya",
+  "tana tarkibi tahlili",
+  "BIA",
+  "yog‘ va mushaklarni o‘lchash"
+ ],
+ "what": "Tana orqali juda zaif tok o‘tkaziladi, uni sezmaysiz. Asbob tanada qancha yog‘, mushak va suv borligini hisoblaydi.",
+ "why": "Ovqatlanish va ozishni tanlashda, vaznni kuzatishda, shuningdek ba’zi kasalliklarda — shifokor buyrug‘i bilan.",
+ "duration": "odatda 5–10 daqiqa, natija darrov",
+ "tell_doctor": [
+  "Yuragingizda kardiostimulyator yoki boshqa joylashtirilgan asbob bo‘lsa — odatda test qilinmaydi",
+  "Homilador bo‘lsangiz",
+  "Metall protezlar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat va suv",
+   "text": "Odatda testdan oldin 2–4 soat ovqat yemaslik va ko‘p ichmaslik kerak. Klinikadan aniqlang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Alkogolsiz va og‘ir mashqsiz."
+  },
+  {
+   "title": "Hojatxona",
+   "text": "O‘lchashdan oldin hojatxonaga boring."
+  },
+  {
+   "title": "Taqinchoqlar",
+   "text": "Metall taqinchoqlar va soatni yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Qulay kiyim"
+ ],
+ "steps": [
+  "Sizni tortishadi va bo‘yingizni o‘lchashadi",
+  "Kushetkaga yotasiz yoki tahlil qiluvchi tarozida turasiz",
+  "Qo‘l va oyoqqa elektrodlar yopishtiriladi yoki qo‘lga tutqichlar olinadi",
+  "Bir necha daqiqa tinch yotasiz yoki turasiz",
+  "Asbob natijani chiqaradi"
+ ],
+ "feel": [
+  "Hech narsa sezilmaydi — tok juda zaif",
+  "Elektrodlardan teri salqin bo‘lishi mumkin"
+ ],
+ "after": [
+  "Chop etilgan natija darrov beriladi",
+  "Takroriy o‘lchovlarni sutkaning shu vaqtida va bir xil sharoitda qilgan ma’qul",
+  "Natijani shifokor bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bu aniqmi?",
+   "a": "Bu yaxshi baho, lekin natijaga ovqat, suv va sutka vaqti ta’sir qiladi. O‘lchovlarni bir xil sharoitda solishtiring."
+  },
+  {
+   "q": "Kardiostimulyator bilan mumkinmi?",
+   "a": "Odatda yo‘q. Buni albatta oldindan ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Tez orada tana tarkibi tahlili. 2–4 soat oldin ovqat yemang va ko‘p ichmang. Taqinchoqlarni yeching."
+  }
+ ]
+}

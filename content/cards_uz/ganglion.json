@@ -1,0 +1,79 @@
+{
+ "title": "Qo‘ldagi ganglionni olib tashlash",
+ "also": [
+  "ganglion",
+  "bilak ganglioni",
+  "bilakdagi do‘ng",
+  "gigroma"
+ ],
+ "what": "Ganglion — qo‘lda bo‘g‘im yoki paylar yonidagi suyuqlikli yumshoq do‘ng. Jarroh uni kichik kesma orqali olib tashlaydi.",
+ "why": "Do‘ng xalaqit bersa, og‘risa, kattalashsa yoki nervlarni bossa.",
+ "duration": "operatsiya odatda 20–60 daqiqa, uyga odatda o‘sha kuni ketasiz",
+ "tell_doctor": [
+  "Barcha dorilar, ayniqsa qonni suyultiruvchilar — nimani va qachon to‘xtatishni shifokor aytadi",
+  "Allergiyalar, ayniqsa og‘riq qoldiruvchilarga",
+  "Diabet va boshqa surunkali kasalliklar",
+  "Do‘ng oldin sanchilgan yoki olib tashlangan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tekshiruv",
+   "text": "Ba’zan qo‘l ultratovushi va tahlillar qilinadi — ro‘yxatni klinika aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Narkoz bo‘lsa, odatda kechdan boshlab ovqat yemaslik kerak. Mahalliy og‘riqsizlantirishda — klinikadan aniqlang."
+  },
+  {
+   "title": "Uzuklar",
+   "text": "Bu qo‘ldagi uzuk va bilakuzuklarni oldindan yechib qo‘ying."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng, erkin yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va tekshiruv natijalari",
+  "Hujjatlar",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Qo‘l antiseptik bilan ishlanadi",
+  "Og‘riqsizlantirish qilinadi — qo‘lga ukol yoki narkoz",
+  "Jarroh do‘ng ustidan kichik kesma qiladi",
+  "Ganglion pardasi bilan birga olib tashlanadi",
+  "Jarohat tikiladi, bog‘lam, ba’zan longeta qo‘yiladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukollar noqulay, operatsiya paytida — og‘riqsiz bosim",
+  "Keyin — zirqiroq og‘riq va shish, og‘riq qoldiruvchi beriladi"
+ ],
+ "after": [
+  "Dastlabki kunlarda qo‘lni baland tutib turing",
+  "Bog‘lamni ho‘l qilmang",
+  "Choklar odatda 1–2 haftada olinadi",
+  "Qo‘lga yukni jarroh aytganidek asta-sekin oshiring"
+ ],
+ "red_flags": [
+  "Harorat 38 dan yuqori",
+  "Kuchli og‘riq, shish, qizarish yoki jarohatdan yiring",
+  "Barmoqlar uvishsa, oqarsa yoki ko‘karsa — darrov shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Ganglion qaytishi mumkinmi?",
+   "a": "Ba’zan ha, operatsiyadan keyin ham. Jarroh bu xavfni qanday kamaytirishni aytadi."
+  },
+  {
+   "q": "Uni shunchaki ezib yuborsa bo‘ladimi?",
+   "a": "Yo‘q. Bu to‘qimalarga zarar yetkazishi mumkin, ganglion esa ko‘pincha qaytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ganglionni olib tashlash. Qo‘ldagi uzuklarni yeching, keng yeng kiying. Ovqat — klinika aytganidek."
+  }
+ ]
+}

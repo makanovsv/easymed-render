@@ -1,0 +1,70 @@
+{
+ "title": "Qimirlaydigan tishlarni shinalash",
+ "also": [
+  "tishlarni shinalash",
+  "tishlarga shina",
+  "qimirlaydigan tishlarni mustahkamlash"
+ ],
+ "what": "Shifokor qimirlaydigan tishlarni qo‘shni tishlar bilan ingichka lenta yoki sim bilan biriktiradi. Shunda tishlar mustahkamroq turadi.",
+ "why": "Tishlar milk kasalligi tufayli yoki jarohatdan keyin qimirlaganda.",
+ "duration": "odatda 30–90 daqiqa",
+ "tell_doctor": [
+  "Allergiyalar, jumladan materiallarga",
+  "Milk kasalliklari va tishlar qachondan beri qimirlayapti",
+  "Jarohat bo‘lganmi",
+  "Tish g‘ichirlatsangiz",
+  "Kasalliklar, diabet va dorilar"
+ ],
+ "prepare": [
+  {
+   "title": "Tishlar",
+   "text": "Qabuldan oldin tishlaringizni tozalang."
+  },
+  {
+   "title": "Tozalash",
+   "text": "Ko‘pincha avval tishlarning professional tozalanishi qilinadi: klinikadan aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tish rasmlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Tishlar karashdan tozalanadi",
+  "Ba’zan og‘riqsizlantirishadi",
+  "Tishlarning ichki tomonida kichik egat ochishadi yoki shunchaki yuzani tayyorlashadi",
+  "Lenta yoki simni joylashtirishadi",
+  "Uni plomba materiali va yorug‘lik bilan mahkamlashadi",
+  "Tishlamni tekshirishadi"
+ ],
+ "feel": [
+  "Odatda og‘rimaydi, bosim bo‘ladi",
+  "Dastlabki kunlarda shina til bilan seziladi"
+ ],
+ "after": [
+  "Shina yonidagi tishlarni yorshik va ip bilan tozalang",
+  "Bu tishlar bilan qattiq narsani tishlab uzmang",
+  "Buyurilgan bo‘lsa, milk davosini davom ettiring",
+  "Nazoratga belgilangan muddatda keling"
+ ],
+ "red_flags": [
+  "Shina uzildi yoki sindi",
+  "Milk shishishi, og‘riq, yiring"
+ ],
+ "faq": [
+  {
+   "q": "Shina abadiy qo‘yiladimi?",
+   "a": "Turlicha: jarohatdan keyin vaqtincha, milk kasalligida uzoq muddatga. Shifokor hal qiladi."
+  },
+  {
+   "q": "Shina bilan odatdagidek ovqatlansa bo‘ladimi?",
+   "a": "Deyarli, lekin qattiq narsani shinalangan tishlar bilan tishlamagan ma’qul."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga tishlarni shinalash. Tishlaringizni tozalang va rasmlarni oling, agar bo‘lsa."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "title": "Uyda nefrostomaga qarash",
+ "also": [
+  "nefrostoma",
+  "buyrakdan naycha",
+  "nefrostomaga qarash",
+  "siydik yig‘gich",
+  "nefrostomik drenaj"
+ ],
+ "what": "Nefrostoma — buyrakdan orqa terisi orqali chiqarilgan ingichka naycha bo‘lib, u orqali siydik xaltaga oqadi. Uyda unga har kuni qaraladi.",
+ "why": "Buyrakdan siydik oqishiga biror narsa — tosh, torayish, o‘sma — to‘sqinlik qilganda va shifokor naycha qo‘yganda.",
+ "duration": "parvarish odatda 10–15 daqiqa; bog‘lamni odatda 2–3 kunda bir marta yoki shifokor aytganidek tez-tez almashtirish",
+ "tell_doctor": [
+  "Xaltada siydik kamaygan yoki kelmay qolgan bo‘lsa",
+  "Siydikda qon paydo bo‘lsa yoki siydik loyqa bo‘lsa",
+  "Bog‘lam tez-tez ho‘l bo‘lsa",
+  "Barcha dorilar, ayniqsa qonni suyultiruvchilar"
+ ],
+ "prepare": [
+  {
+   "title": "O‘rgatish",
+   "text": "Chiqishdan oldin hamshiradan bog‘lam va xaltani almashtirishni ko‘rsatishni so‘rang."
+  },
+  {
+   "title": "Zaxira",
+   "text": "Uyda xaltalar, steril salfetkalar, plaster, antiseptik bo‘lsin."
+  },
+  {
+   "title": "Xalta",
+   "text": "Xalta doim buyrakdan pastda bo‘lishi kerak — shunda siydik orqaga oqmaydi."
+  },
+  {
+   "title": "Suv",
+   "text": "Qancha ichishni shifokor aytadi. Odatda yetarlicha ichish maslahat beriladi."
+  }
+ ],
+ "bring": [
+  "Siydik yig‘gichlar va bog‘lamlar zaxirasi",
+  "Ko‘chirma va urologiya aloqa ma’lumotlari",
+  "Siydik miqdori yozuvlari"
+ ],
+ "steps": [
+  "Qo‘llarni yuving va qo‘lqop kiying",
+  "Eski bog‘lamni naychani tortmasdan oling",
+  "Atrofdagi terini ko‘zdan kechiring: qizarish va oqma yo‘qmi",
+  "Terini o‘rgatilganidek antiseptik bilan ishlang",
+  "Toza bog‘lam qo‘ying va naychani plaster bilan mahkamlang",
+  "Naycha bukilmaganini tekshiring",
+  "Xalta yarmiga to‘lganda uni bo‘shating"
+ ],
+ "feel": [
+  "Ba’zan yonda zirqiroq his qilinadi",
+  "Naycha shu yonboshda uxlashga xalaqit beradi — vaqt o‘tib ko‘nikasiz"
+ ],
+ "after": [
+  "Shifokor so‘ragan bo‘lsa, siydikni yozib boring",
+  "Dushga odatda bog‘lamni himoyalab kirsa bo‘ladi — vannaga mumkin emas, shifokordan aniqlang",
+  "Naychani almashtirishni kasalxonada jadval bo‘yicha qilishadi",
+  "Og‘ir ko‘tarmang va naychani tortmang"
+ ],
+ "red_flags": [
+  "Naycha tushib ketsa — joyni toza salfetka bilan yoping va darhol kasalxonaga boring, teshik tez bitib qoladi",
+  "Siydik kelmay qolsa, yonda kuchli og‘riq — shoshilinch shifokorga",
+  "Harorat, titroq — shoshilinch shifokorga, kuchli holsizlikda tez yordamni chaqiring (103)",
+  "Xaltada ko‘p qon yoki laxtalar"
+ ],
+ "faq": [
+  {
+   "q": "Nefrostoma bilan yonboshda yotsa bo‘ladimi?",
+   "a": "Naycha bosilmasa bo‘ladi. Chalqancha yoki boshqa yonboshda yotish qulayroq."
+  },
+  {
+   "q": "Naycha atrofidan siydik sizib chiqsa nima qilish kerak?",
+   "a": "Bog‘lamni almashtiring va shifokorga ayting — naycha siljigan yoki tiqilgan bo‘lishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga nefrostomadagi bog‘lamni almashtirish. Salfetkalar va xaltalar zaxirasini tekshiring."
+  }
+ ]
+}

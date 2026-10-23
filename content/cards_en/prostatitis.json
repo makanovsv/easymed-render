@@ -1,0 +1,75 @@
+{
+ "title": "Prostatitis treatment",
+ "also": [
+  "prostatitis",
+  "prostate inflammation",
+  "chronic prostatitis",
+  "prostate pain"
+ ],
+ "what": "Prostatitis is inflammation of the prostate gland. Treatment depends on the cause: sometimes it is an infection, sometimes not.",
+ "why": "For pain low in the belly or between the legs, burning, and peeing often.",
+ "duration": "the visit takes 20 to 40 minutes; treatment usually lasts several weeks or more",
+ "tell_doctor": [
+  "Where it hurts and for how long",
+  "If you have a fever and chills",
+  "How often you pee and if it is hard to pee",
+  "What medicines you already took, including antibiotics",
+  "Allergies to medicines"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "The doctor usually orders a urine test, sometimes a prostate fluid test and an ultrasound."
+  },
+  {
+   "title": "Before the test",
+   "text": "For some tests, you need to avoid sex for a few days. Ask the clinic."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not start antibiotics on your own before the visit. It can affect the test results."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past tests and ultrasounds",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "You are examined, and the prostate is checked through the rectum",
+  "Tests are taken, and an ultrasound is done if needed",
+  "Treatment is prescribed",
+  "The doctor explains how and for how long to take the medicines"
+ ],
+ "feel": [
+  "The rectal exam is unpleasant but short",
+  "Improvement usually comes gradually, not right away"
+ ],
+ "after": [
+  "Finish the whole course, even if you feel better",
+  "Come back to check the result",
+  "Avoid getting cold and sitting for a long time"
+ ],
+ "red_flags": [
+  "A high fever with chills",
+  "You cannot pee at all: call emergency services",
+  "Blood in the urine or severe pain"
+ ],
+ "faq": [
+  {
+   "q": "Can prostatitis be cured completely?",
+   "a": "Acute prostatitis is usually cured. Chronic prostatitis can often be kept under control. The doctor chooses the treatment."
+  },
+  {
+   "q": "Can my partner catch prostatitis?",
+   "a": "Prostatitis itself does not spread. But if the cause is an infection, the doctor may order tests for your partner too."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Prostatitis visit tomorrow. Bring past tests and your list of medicines."
+  }
+ ]
+}

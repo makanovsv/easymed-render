@@ -1,0 +1,72 @@
+{
+ "title": "Suvchechakka qarshi emlash",
+ "also": [
+  "suvchechak vaksinasi",
+  "suvchechakka qarshi emlash",
+  "suvchechak emlashi"
+ ],
+ "what": "Suvchechakdan himoya qiladigan vaksina ukoli. Odatda ikkita ukol kerak.",
+ "why": "Suvchechak bilan og‘rimagan bolalarga va immuniteti yo‘q kattalarga. Ba’zan kasal bilan aloqadan keyingi dastlabki kunlarda.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa",
+ "tell_doctor": [
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Immunitet kasalliklari yoki uni pasaytiradigan davolanish",
+  "Oldingi emlashlarga kuchli reaksiyalar",
+  "Homilador bo‘lsangiz yoki homiladorlikni rejalashtirsangiz",
+  "Suvchechak bilan og‘rigan odam bilan aloqa bo‘lganmi va qachon"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash odam sog‘ bo‘lganda qilinadi."
+  },
+  {
+   "title": "Aloqadan keyin",
+   "text": "Kasal bilan aloqa bo‘lgan bo‘lsa, imkon qadar tez keling — odatda dastlabki 3 kun ichida."
+  },
+  {
+   "title": "Homiladorlik",
+   "text": "Ayollarga: homiladorlikni emlashdan keyin bir oyga kechiktirgan yaxshi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor yoki hamshira o‘zingizni qanday his qilayotganingizni so‘raydi va haroratni o‘lchaydi",
+  "Yelkangizni ochasiz",
+  "Teri artiladi va ukol qilinadi",
+  "Emlash hujjatlarga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tirish kerak"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan 1–2 kun ukol joyi og‘riydi",
+  "Ba’zan 1–3 haftadan keyin bir nechta pufakcha yoki harorat paydo bo‘ladi"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Pufakchalar paydo bo‘lsa, ular quriguncha homilador ayollar va immuniteti zaif odamlar bilan uchrashmang",
+  "Ikkinchi doza — jadval bo‘yicha"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Suvchechak yengil kasallik bo‘lsa, nega emlanish kerak?",
+   "a": "O‘smirlar va kattalarda u og‘ir kechishi mumkin. Emlash asoratlardan ham himoya qiladi."
+  },
+  {
+   "q": "Emlashdan keyin kasal bo‘lish mumkinmi?",
+   "a": "Bir necha pufakchali yengil suvchechak bo‘lishi mumkin. Bu oddiy kasallikdan ancha yengil."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga suvchechakka qarshi emlash. Emlash kartasini oling."
+  }
+ ]
+}

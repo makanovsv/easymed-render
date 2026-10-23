@@ -1,0 +1,80 @@
+{
+ "title": "Soro para osteoporose (ácido zoledrônico)",
+ "also": [
+  "soro para osteoporose",
+  "ácido zoledrônico",
+  "injeção anual para os ossos",
+  "bifosfonato na veia"
+ ],
+ "what": "Um remédio para fortalecer os ossos é aplicado no soro pela veia. Normalmente isso é feito uma vez por ano.",
+ "why": "Na osteoporose, para diminuir o risco de fraturas, quando os comprimidos não servem.",
+ "duration": "o soro leva normalmente 15 a 30 minutos, a visita toda cerca de uma hora",
+ "tell_doctor": [
+  "Doenças dos rins",
+  "Tratamento ou extração de dentes planejados",
+  "Cálcio ou vitamina D baixos",
+  "Todos os remédios",
+  "Gravidez ou amamentação"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes do soro, normalmente se confere a função dos rins e o cálcio."
+  },
+  {
+   "title": "Água",
+   "text": "É bom beber água antes e depois, se o médico não restringiu."
+  },
+  {
+   "title": "Dentes",
+   "text": "É bom tratar os dentes antes. Diga ao dentista que você recebe esse remédio."
+  },
+  {
+   "title": "Vitaminas",
+   "text": "Tome cálcio e vitamina D como o médico receitou."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documento de identidade",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "A enfermeira confere os exames e como você está",
+  "Colocam um cateter na veia",
+  "Ligam o soro",
+  "O remédio corre por 15 a 30 minutos",
+  "Tiram o cateter e apertam o local"
+ ],
+ "feel": [
+  "O soro em si normalmente não dói",
+  "Nos primeiros 1 a 3 dias pode haver febre, dor no corpo e fraqueza, como numa gripe",
+  "Normalmente essa reação acontece depois do primeiro soro"
+ ],
+ "after": [
+  "Beba água durante o dia",
+  "Com dor no corpo, pode tomar o antitérmico que o médico aprovou",
+  "O próximo soro normalmente é depois de um ano. O prazo, o médico diz"
+ ],
+ "red_flags": [
+  "Dor forte na mandíbula ou uma feridinha na boca que não cicatriza",
+  "Dor nova na coxa ou na virilha",
+  "Manchas na pele, inchaço no rosto, dificuldade para respirar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que depois do soro parece uma gripe?",
+   "a": "É uma reação comum do corpo à primeira dose. Normalmente passa em 1 a 3 dias."
+  },
+  {
+   "q": "Preciso contar ao dentista?",
+   "a": "Sim, sem falta. Principalmente antes de extração de dente ou implantes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o soro para os ossos. Beba mais água e leve os exames."
+  }
+ ]
+}

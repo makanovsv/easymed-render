@@ -1,0 +1,77 @@
+{
+ "title": "Bolada spirometriya",
+ "also": [
+  "bolaga spirometriya",
+  "bolada tashqi nafas funksiyasi",
+  "bolalarda nafasni tekshirish",
+  "bolalar uchun nafas testi"
+ ],
+ "what": "Bola naychaga puflaydi, asbob esa uning o‘pkasi qanday ishlayotganini ko‘rsatadi. Buning uchun ekranda ko‘pincha o‘yin bo‘ladi.",
+ "why": "Tez-tez yo‘talda, ko‘krakda hushtak tovushida, astmaga shubha bo‘lganda va davo qanday yordam berayotganini tekshirish uchun.",
+ "duration": "odatda 15–30 daqiqa, natija darhol",
+ "tell_doctor": [
+  "Bola qanday ingalyator va dorilar olayotgani",
+  "Hozir shamollash yoki harorat bo‘lsa",
+  "Bola muolajalardan qo‘rqsa"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Ba’zan testdan oldin ingalyatorlarni bir necha soat bermaydilar. Faqat shifokor aytadi: o‘zingiz bekor qilmang."
+  },
+  {
+   "title": "Sog‘liq",
+   "text": "Bola kasal bo‘lib qolsa, testni odatda ko‘chirgan ma’qul. Klinikaga qo‘ng‘iroq qiling."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Yengil nonushta, to‘yib emas: to‘la qorin bilan puflash qiyin."
+  },
+  {
+   "title": "Suhbat",
+   "text": "Uyda tushuntiring: tortdagi shamlarni o‘chirgandek kuchli puflash kerak bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bolaning ingalyatorlari",
+  "Sevimli o‘yinchoq",
+  "Bolaning hujjatlari"
+ ],
+ "steps": [
+  "Bola tik o‘tiradi, burniga yumshoq qisqich taqiladi",
+  "Unga nima qilishni tushuntirishadi: ko‘pincha ekranda o‘yin ko‘rsatishadi",
+  "U chuqur nafas olib, naychaga kuchli puflaydi",
+  "Yaxshi natija chiqishi uchun bir necha marta takrorlashadi",
+  "Ba’zan ingalyator berib, 15–20 daqiqadan keyin testni takrorlashadi"
+ ],
+ "feel": [
+  "Og‘riqsiz",
+  "Burundagi qisqich biroz odatiy emas",
+  "Tez-tez puflashdan boshi aylanishi yoki yo‘tal paydo bo‘lishi mumkin"
+ ],
+ "after": [
+  "Natija odatda darhol",
+  "Shifokor uni tushuntiradi va kerak bo‘lsa davoni o‘zgartiradi",
+  "Bolani maqtang: bu keyingi safar yordam beradi"
+ ],
+ "red_flags": [
+  "Testdan keyin bolaga nafas olish qiyin, ko‘krakda hushtak va ingalyator yordam bermaydi: 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Necha yoshdan mumkin?",
+   "a": "Odatda 5–6 yoshdan, bola buyruqlarni bajara olganda. Shifokordan aniqlab oling."
+  },
+  {
+   "q": "Uddalay olmasa-chi?",
+   "a": "Bunday bo‘ladi. Test takrorlanadi, ba’zan boshqa kuni."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolada spirometriya. Shifokor aytgan bo‘lsa, ingalyator bermang. O‘yinchoqni oling."
+  }
+ ]
+}

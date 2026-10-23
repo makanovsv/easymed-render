@@ -1,0 +1,83 @@
+{
+ "title": "Fechamento de comunicação no septo do coração (oclusor)",
+ "also": [
+  "fechamento de forame oval patente",
+  "fechamento de CIA",
+  "oclusor septal",
+  "fechamento de comunicação interatrial"
+ ],
+ "what": "Por um vaso na virilha, levam um tubo fino até o coração e colocam um «remendo», o oclusor. Ele fecha o buraco entre os átrios.",
+ "why": "Para comunicação interatrial ou forame oval patente, quando o médico acha necessário fechar.",
+ "duration": "o procedimento leva normalmente de 1 a 2 horas; a internação costuma ser de 1 a 2 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias, principalmente a iodo e contraste",
+  "Doenças dos rins e diabetes",
+  "Se você pode estar grávida",
+  "Se já teve AVC, enxaqueca ou trombose"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Contraste",
+   "text": "Se você tem doença nos rins, avise antes. O médico pode pedir um exame e orientar a beber água antes e depois."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Normalmente anestesia geral ou sedação profunda com anestesia local. Confirme na clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para 1 a 3 dias no hospital"
+ ],
+ "steps": [
+  "Você troca de roupa e recebe um acesso na veia",
+  "Aplicam anestesia geral ou sedação",
+  "Anestesiam a virilha e fazem um furo na veia",
+  "Por ela, levam um tubo fino até o coração",
+  "A posição do oclusor é acompanhada por ultrassom e raio-X",
+  "O oclusor é aberto no buraco, o tubo é retirado e colocam um curativo no furo"
+ ],
+ "feel": [
+  "O furo na virilha quase não se sente depois da anestesia",
+  "Depois do procedimento é preciso ficar deitado algumas horas",
+  "Às vezes, nas primeiras semanas, há batimentos irregulares. Avise o médico"
+ ],
+ "after": [
+  "Não dobre a perna pelo número de horas que disserem",
+  "Remédios contra trombose exatamente como o médico receitou",
+  "Sem peso e sem esporte normalmente por algumas semanas",
+  "Ecocardiograma de controle conforme o plano do médico"
+ ],
+ "red_flags": [
+  "O local do furo inchou, sangra muito ou dói",
+  "Dor no peito, falta de ar ou desmaio: ligue para a emergência",
+  "Fraqueza no braço ou na perna, fala enrolada: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O oclusor fica para sempre?",
+   "a": "Sim. Com o tempo ele é coberto pelo tecido do coração e passa a fazer parte dele."
+  },
+  {
+   "q": "Preciso avisar outros médicos?",
+   "a": "Sim. Conte ao dentista e aos outros médicos; eles vão dizer se precisa de algum cuidado especial."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o procedimento no coração. Documentos, exames e lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

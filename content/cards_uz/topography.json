@@ -1,0 +1,67 @@
+{
+ "title": "Keratotopografiya va pakimetriya",
+ "also": [
+  "keratotopografiya",
+  "pakimetriya",
+  "shox parda xaritasi",
+  "shox parda qalinligi"
+ ],
+ "what": "Asbob shox pardani — ko‘zning shaffof old qismini — suratga oladi. U uning shakli va qalinligini ko‘rsatadi.",
+ "why": "Ko‘rishni lazer bilan tuzatish oldidan, linza tanlashda, keratokonus gumon qilinganda va uni kuzatish uchun.",
+ "duration": "odatda 5–15 daqiqa, natija darrov",
+ "tell_doctor": [
+  "Kontakt linza taqsangiz va qaysi turini",
+  "Ko‘zga operatsiya yoki jarohat bo‘lgan-bo‘lmaganini",
+  "Ko‘z qurishi bo‘lsa",
+  "Qarindoshlarda keratokonus bor-yo‘qligini"
+ ],
+ "prepare": [
+  {
+   "title": "Linzalar",
+   "text": "Yumshoq linzalar odatda bir necha kun oldin, qattiq linzalar undan oldinroq yechiladi. Aniq muddatni klinika aytadi."
+  },
+  {
+   "title": "Kosmetika",
+   "text": "Tush va soyasiz keling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Ko‘zoynak",
+  "Oldingi tekshiruv natijalari"
+ ],
+ "steps": [
+  "Asbob oldiga o‘tirasiz va iyagingizni tayanchga qo‘yasiz",
+  "Yorqin nuqtaga qaraysiz",
+  "Asbob har bir ko‘zning suratini oladi",
+  "Ba’zan qalinlik tomchidan keyin alohida datchik bilan o‘lchanadi",
+  "Shifokor xaritalarni ko‘radi va natijani tushuntiradi"
+ ],
+ "feel": [
+  "Og‘riq yo‘q",
+  "Yorqin yorug‘lik va bir necha soniya ko‘z qisib turmaslik kerak",
+  "Datchik bilan o‘lchansa, buning oldidan og‘riqsizlantiruvchi tomchi tomiziladi"
+ ],
+ "after": [
+  "Darrov odatdagi ishlar bilan shug‘ullansa bo‘ladi",
+  "Tomchi tomizilgan bo‘lsa, 20–30 daqiqa ko‘zni ishqalamang",
+  "Natijani shifokor darrov yoki qabulda muhokama qiladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Linzalarni nega oldindan yechish kerak?",
+   "a": "Linzalar shox parda shaklini o‘zgartiradi va natija noaniq bo‘ladi."
+  },
+  {
+   "q": "Darrov rulga o‘tirsa bo‘ladimi?",
+   "a": "Odatda ha. Tomchi tomizilgan bo‘lsa, shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga shox parda tekshiruvi. Linzalarni oldindan yechish kerak-kerakmasligini aniqlang. Ko‘zda kosmetikasiz."
+  }
+ ]
+}

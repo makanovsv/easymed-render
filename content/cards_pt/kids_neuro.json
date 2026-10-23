@@ -1,0 +1,75 @@
+{
+ "title": "Consulta com neurologista infantil",
+ "also": [
+  "neurologista infantil",
+  "neuropediatra",
+  "consulta de neurologia infantil",
+  "avaliação do desenvolvimento do bebê"
+ ],
+ "what": "O médico avalia como estão se desenvolvendo o sistema nervoso, os movimentos e a fala da criança. O exame é tranquilo e não dói.",
+ "why": "Em consultas de rotina no primeiro ano e antes da creche ou da escola; em atraso no desenvolvimento, dores de cabeça, convulsões, tiques e sono ruim.",
+ "duration": "normalmente de 20 a 40 minutos; a conclusão sai logo depois da consulta",
+ "tell_doctor": [
+  "Como foram a gravidez e o parto",
+  "Quando a criança começou a firmar a cabeça, sentar, andar e falar",
+  "O que exatamente preocupa você e há quanto tempo",
+  "Se houve convulsões, pancadas na cabeça ou desmaios",
+  "Quais remédios a criança toma"
+ ],
+ "prepare": [
+  {
+   "title": "Observações",
+   "text": "Anote o que preocupa você. Se acontece em crises, grave um vídeo."
+  },
+  {
+   "title": "Horário",
+   "text": "Escolha um horário em que a criança costuma estar disposta, sem fome e sem sono."
+  },
+  {
+   "title": "Para o bebê",
+   "text": "Leve o brinquedo favorito, água e um lanche."
+  }
+ ],
+ "bring": [
+  "Documento da criança e o seu",
+  "Caderneta de saúde ou relatórios",
+  "Resultados de exames anteriores, se houver",
+  "Vídeos das crises ou dos movimentos, se gravou"
+ ],
+ "steps": [
+  "O médico pergunta sobre o desenvolvimento e as queixas",
+  "Observa como a criança se mexe, brinca e reage a sons e objetos",
+  "Testa os reflexos com o martelinho",
+  "Avalia a força e o tônus dos músculos",
+  "No bebê, mede o perímetro da cabeça",
+  "O médico explica a conclusão e, se precisar, pede exames"
+ ],
+ "feel": [
+  "O exame não dói; os reflexos são testados com batidinhas leves",
+  "O bebê pode chorar pelo ambiente estranho. Isso não atrapalha o médico"
+ ],
+ "after": [
+  "O médico dá orientações ou pedido de exames",
+  "Não pare os remédios receitados por conta própria",
+  "Volte no prazo que o médico marcar"
+ ],
+ "red_flags": [
+  "Convulsão, desmaio, sonolência forte ou vômito depois de pancada na cabeça: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Preciso ir ao neurologista se a criança está saudável?",
+   "a": "Sim. As consultas de rotina no primeiro ano servem para perceber a tempo qualquer atraso."
+  },
+  {
+   "q": "E se a criança chorar a consulta toda?",
+   "a": "Não tem problema. O médico está acostumado e consegue examinar mesmo assim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o neurologista infantil. Leve a caderneta de saúde, um brinquedo e anote o que preocupa você."
+  }
+ ]
+}

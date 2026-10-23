@@ -1,0 +1,66 @@
+{
+ "title": "Barmoqdan qon olish",
+ "also": [
+  "barmoqdan qon",
+  "kapillyar qon",
+  "barmoqdan tahlil"
+ ],
+ "what": "Hamshira barmoq uchiga kichik teshik qiladi va bir necha tomchi qon yig‘adi. Ko‘p qon kerak bo‘lmaganda oddiy tahlillar shunday qilinadi.",
+ "why": "Umumiy qon tahlili, qand uchun, bolalarda va venadan qon olish qiyin bo‘lganda.",
+ "duration": "odatda 2–3 daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiradigan preparatlar ichsangiz",
+  "Qon topshirganda oldin o‘zingizni yomon his qilgan bo‘lsangiz",
+  "Qandli diabetingiz bo‘lsa va qand topshirsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Qand va ko‘p tahlillar uchun — och qoringa, 8–12 soat ovqatsiz. Suv ichsa bo‘ladi. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Qo‘llar",
+   "text": "Qo‘llaringiz iliq holda keling. Sovqotgan bo‘lsangiz — iliq suv ostida ushlab turing: qon osonroq keladi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ertalab dori ichsangiz, qonni ulardan oldin yoki keyin topshirishni shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz stolchaga qo‘yiladi",
+  "Barmoq antiseptik bilan artiladi",
+  "Bir martalik skarifikator bilan barmoq yostig‘ining yonidan tez teshiladi",
+  "Birinchi tomchi artiladi, keyingilari probirkaga yig‘iladi",
+  "Barmoqqa paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa o‘tkir sanchiq",
+  "Barmoq bir-ikki soat biroz zirqirashi mumkin"
+ ],
+ "after": [
+  "Paxtani 2–3 daqiqa bosib turing",
+  "Natijalar odatda o‘sha yoki ertasi kuni — muddatni laboratoriya aytadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Qaysi aniqroq — barmoqdan yoki venadan olingan qon?",
+   "a": "Ko‘pchilik tahlillar uchun venadan olingan qon aniqroq. Barmoqdan oddiy tahlillar qilinadi va ular uchun bu yetarli."
+  },
+  {
+   "q": "Qaysi barmoq teshiladi?",
+   "a": "Odatda ishlamaydigan qo‘lning nomsiz yoki o‘rta barmog‘i. Kichik bolalarda ba’zan tovon."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga barmoqdan qon tahlili. Och qoringa bo‘lsa — kechki ovqatdan keyin ovqat yemang, suv ichsa bo‘ladi."
+  }
+ ]
+}

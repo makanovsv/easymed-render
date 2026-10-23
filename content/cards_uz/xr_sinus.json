@@ -1,0 +1,59 @@
+{
+ "title": "Burun bo‘shliqlari rentgeni",
+ "also": [
+  "burun bo‘shliqlari rentgeni",
+  "bo‘shliqlar surati",
+  "gaymor bo‘shliqlari rentgeni"
+ ],
+ "what": "Yuzning oddiy rentgen surati. Burun bo‘shliqlarida suyuqlik yoki shish bor-yo‘qligi ko‘rinadi.",
+ "why": "Uzoq davom etgan tumovda, yonoq va peshona sohasida og‘riq va bosim bo‘lganda, gaymoritga shubha bo‘lganda.",
+ "duration": "xonada odatda 5–10 daqiqa; tavsif o‘sha kuni yoki ertasi kuni",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Ilgari bo‘shliqlar rentgeni yoki KT qilingan bo‘lsa — qachon ekanini ayting"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Taqinchoqlar",
+   "text": "Sirg‘a, soch qisqichlari, ko‘zoynak, olinadigan tish protezlarini yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bo‘lsa, bo‘shliqlarning oldingi suratlari"
+ ],
+ "steps": [
+  "Apparat tayanchiga yuz bilan turasiz yoki o‘tirasiz",
+  "Iyak tagliqqa qo‘yiladi, bosh biroz orqaga tashlanadi",
+  "Ba’zan og‘izni ochish so‘raladi",
+  "Bir necha soniya qotib turish kerak — surat olinadi"
+ ],
+ "feel": [
+  "Og‘rimaydi, surat soniyaning ulushi"
+ ],
+ "after": [
+  "Darrov ishlaringizga ketsangiz bo‘ladi",
+  "Surat va tavsif odatda o‘sha kuni — ular bilan LOR-shifokorga"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Qaysi biri aniqroq — rentgenmi yoki bo‘shliqlar KTsi?",
+   "a": "KT bo‘shliqlarni batafsilroq ko‘rsatadi. Rentgen oddiyroq va tezroq, ko‘pincha birinchi shu qilinadi. Shifokor tanlaydi."
+  },
+  {
+   "q": "Bolaga bo‘shliqlar rentgenini qilsa bo‘ladimi?",
+   "a": "Ha, shifokor buyursa. Nurlanish dozasi kichik."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada burun bo‘shliqlari rentgeni. Sirg‘a va soch qisqichlarini yeching, yo‘llanmani oling."
+  }
+ ]
+}

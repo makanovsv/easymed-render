@@ -1,0 +1,68 @@
+{
+ "title": "C-reaktiv oqsil (SRO)",
+ "also": [
+  "SRO",
+  "CRP",
+  "yallig‘lanishga tahlil",
+  "yuqori sezgir SRO"
+ ],
+ "what": "Venadan qon tahlili. U organizmda yallig‘lanish bor-yo‘qligini va qanchalik kuchli ekanini ko‘rsatadi.",
+ "why": "Haroratda, infeksiyaga shubhada, bo‘g‘imlar og‘rig‘ida, davoni nazorat qilish uchun. Yuqori sezgir SRO’ni ba’zan yurak kasalliklari xavfini baholash uchun tayinlashadi.",
+ "duration": "qon olish 2–3 daqiqa, natija odatda 1 kunda",
+ "tell_doctor": [
+  "Yaqinda kasal bo‘lgan, jarohat olgan yoki operatsiya qilingan bo‘lsa",
+  "Qanday dorilar ichasiz, ayniqsa gormonlar va yallig‘lanishga qarshi",
+  "Homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda ertalab och qoringa yoki yengil ovqatdan 3–4 soat o‘tgach topshiriladi. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Oldingi kun",
+   "text": "Yog‘li ovqat, alkogol va og‘ir mashqlarsiz."
+  },
+  {
+   "title": "Suv",
+   "text": "Oddiy suv ichish mumkin."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Taqqoslash uchun SRO’ning oldingi natijalari"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tayanchga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lanadi",
+  "Teri spirt bilan artiladi",
+  "Igna bilan probirkaga qon olinadi",
+  "Sanchilgan joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa sanchiq",
+  "Qo‘rqsangiz yoki boshingiz aylansa ayting: sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Darhol ovqatlanish mumkin",
+  "Natijani shifokor tushuntiradi: raqamning o‘zi tashxis qo‘ymaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "SRO oshgani nimani anglatadi?",
+   "a": "Organizmda yallig‘lanish borligini. Sababini shifokor qidiradi: bu shamollash, infeksiya yoki boshqa narsa bo‘lishi mumkin."
+  },
+  {
+   "q": "SRO SOE’dan nimasi bilan farq qiladi?",
+   "a": "SRO tezroq oshadi va tezroq pasayadi. Shuning uchun yallig‘lanishni u bo‘yicha kuzatish qulay."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga SRO’ga qon tahlili. Kechki ovqat yengil, yog‘siz va alkogolsiz."
+  }
+ ]
+}

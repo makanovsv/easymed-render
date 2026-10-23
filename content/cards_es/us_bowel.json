@@ -1,0 +1,72 @@
+{
+ "title": "Ultrasonido de intestino",
+ "also": [
+  "ecografía intestinal",
+  "ultrasonido de colon",
+  "ultrasonido de intestino delgado",
+  "ecografía de asas intestinales"
+ ],
+ "what": "El médico revisa las paredes del intestino a través del abdomen con ultrasonido. Así se ven inflamación, engrosamiento y las asas del intestino.",
+ "why": "Con dolor de abdomen, si se sospecha apendicitis o inflamación del intestino, para seguir enfermedades crónicas del intestino, y en niños con dolor o vómito.",
+ "duration": "normalmente de 20 a 30 minutos; el resultado suele darse al momento",
+ "tell_doctor": [
+  "Dónde te duele el abdomen y desde cuándo",
+  "Si te operaron del abdomen",
+  "Si hace poco te hicieron una colonoscopia o una radiografía con bario",
+  "Si tienes una enfermedad del intestino: lleva los informes"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no comer de 4 a 6 horas antes. A veces piden tomar agua antes del estudio. Pregunta en la clínica."
+  },
+  {
+   "title": "Gases",
+   "text": "El día anterior, menos comida que da gases: col, frijoles y otras leguminosas, refrescos y pan negro."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Si tomas medicamentos, díselo al médico."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Ultrasonidos, colonoscopias y análisis anteriores",
+  "Una toalla o pañuelos"
+ ],
+ "steps": [
+  "Te acuestas boca arriba y descubres el abdomen",
+  "Ponen gel en la piel",
+  "Pasan el transductor por todo el abdomen, a veces apretando un poco",
+  "A veces te piden ponerte de lado",
+  "Te limpian el gel con una toalla de papel"
+ ],
+ "feel": [
+  "El gel frío y la presión del transductor",
+  "Si un lugar te duele, la presión puede molestar: díselo al médico"
+ ],
+ "after": [
+  "Puedes comer y beber de inmediato",
+  "El resultado suele darse al momento",
+  "El médico puede pedir estudios adicionales"
+ ],
+ "red_flags": [
+  "Dolor de abdomen fuerte que va aumentando, con vómito o fiebre: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿El ultrasonido de intestino reemplaza la colonoscopia?",
+   "a": "No. El ultrasonido ve la pared del intestino por fuera, pero no ve pólipos pequeños por dentro."
+  },
+  {
+   "q": "¿Por qué no se puede comer antes del ultrasonido?",
+   "a": "Después de comer hay más gas en el intestino, y el gas estorba al ultrasonido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu ultrasonido de intestino. Hoy sin col, frijoles ni refrescos. No comas durante el tiempo que te dijo la clínica."
+  }
+ ]
+}

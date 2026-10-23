@@ -1,0 +1,69 @@
+{
+ "title": "Buyrak UZIsi",
+ "also": [
+  "buyrak va siydik pufagi UZIsi",
+  "siydik chiqarish yo‘llari UZIsi"
+ ],
+ "what": "Shifokor buyraklar va siydik pufagini ultratovush bilan ko‘radi. Bu xavfsiz, nurlanishsiz.",
+ "why": "Belda og‘riqda, siydik tahlilida o‘zgarishlarda, bosim yuqori bo‘lganda, toshlar gumon qilinganda.",
+ "duration": "odatda 15–20 daqiqa",
+ "tell_doctor": [
+  "Buyrakda toshlar yoki buyrak operatsiyalari bo‘lgan bo‘lsa",
+  "Bitta buyragingiz bo‘lsa",
+  "Hozir og‘riyotgan bo‘lsa — qayerda va qachondan beri"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Maxsus parhez odatda kerak emas. Bir kun oldin gaz hosil qiladigan narsalarni yemagan ma’qul: dukkaklilar, gazli ichimlik, xom sabzavotlar."
+  },
+  {
+   "title": "Siydik pufagi",
+   "text": "Siydik pufagi ham ko‘rilsa, odatda UZIdan bir soat oldin 0,5–1 litr suv ichib, hojatxonaga bormaslikni so‘rashadi. Klinikadan so‘rang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay: qorin va belni ochish kerak."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Siydik tahlili va oldingi UZI xulosalari, agar bo‘lsa",
+  "Salfetka yoki sochiq"
+ ],
+ "steps": [
+  "Chalqancha, keyin yonboshga yoki qorin ustida yotasiz",
+  "Shifokor yon va belga gel suradi",
+  "Datchik bilan ikkala buyrak ko‘riladi",
+  "Chuqur nafas olib, bir necha soniya ushlab turishni so‘rashadi",
+  "Siydik pufagi ko‘rilsa — keyin hojatxonaga borishni so‘rashadi va yana ko‘rishadi"
+ ],
+ "feel": [
+  "Gel salqin",
+  "Datchik biroz bosadi — bu og‘riqsiz",
+  "Siydik pufagi to‘la bo‘lsa, noqulay bo‘lishi mumkin — bu uzoq emas"
+ ],
+ "after": [
+  "Darrov o‘z ishlaringizga qaytsa bo‘ladi",
+  "Xulosa odatda darrov beriladi"
+ ],
+ "red_flags": [
+  "Belda kuchli og‘riq harorat, qusish yoki siydikda qon bilan kelsa — yozilishni kutmang, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "UZIda buyrak toshlari ko‘rinadimi?",
+   "a": "Ha, buyrakdagi toshlarning ko‘pchiligi ko‘rinadi. Juda mayda toshlar yoki siydik yo‘lidagi toshlar ba’zan KTda yaxshiroq ko‘rinadi."
+  },
+  {
+   "q": "Buyrak UZIsidan oldin suv ichish kerakmi?",
+   "a": "Buyraklarning o‘zi uchun shart emas. Siydik pufagi to‘la bo‘lishi kerak, shuning uchun ko‘pincha suv ichishni so‘rashadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada buyrak UZIsi. Klinika to‘la siydik pufagini so‘ragan bo‘lsa — bir soat oldin suv iching va hojatxonaga bormang."
+  }
+ ]
+}

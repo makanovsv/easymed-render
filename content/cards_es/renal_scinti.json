@@ -1,0 +1,77 @@
+{
+ "title": "Gammagrafía de los riñones",
+ "also": [
+  "gammagrafía renal",
+  "renograma",
+  "estudio renal con isótopos",
+  "gammagrafía dinámica de riñón"
+ ],
+ "what": "Te ponen en la vena una dosis muy pequeña de una sustancia radiactiva, y una gammacámara muestra cómo trabaja cada riñón por separado.",
+ "why": "Cuando hay que saber cuánto trabaja cada riñón, en el reflujo en niños, en estrechamientos de las vías urinarias y antes de operaciones.",
+ "duration": "normalmente de 30 a 60 minutos; en algunos tipos de estudio hace falta otra imagen unas horas después; el informe llega el mismo día o en 1 a 2 días",
+ "tell_doctor": [
+  "Si es posible que estés embarazada o si das pecho",
+  "Qué medicamentos tomas, sobre todo diuréticos y para la presión",
+  "Si tienes alguna alergia",
+  "En un niño: su peso y su estatura"
+ ],
+ "prepare": [
+  {
+   "title": "Agua",
+   "text": "Normalmente piden tomar agua una hora antes del estudio. La clínica te dirá cuánta."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "A veces piden no tomar algunos medicamentos de la presión por un tiempo. No los suspendas por tu cuenta: lo decide el médico."
+  },
+  {
+   "title": "Baño",
+   "text": "Ve al baño antes del estudio."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Ultrasonidos y análisis anteriores",
+  "Agua",
+  "Para un niño: pañal y un juguete"
+ ],
+ "steps": [
+  "Tomas agua como te indicaron en la clínica",
+  "Te acuestas en la mesa bajo la gammacámara",
+  "Te ponen en la vena una dosis pequeña de la sustancia",
+  "La cámara toma imágenes y tú te quedas quieta o quieto de 20 a 40 minutos",
+  "A veces te ponen un diurético y toman más imágenes",
+  "A veces piden volver para otra imagen"
+ ],
+ "feel": [
+  "El pinchazo en la vena es como el de un análisis normal",
+  "El estudio en sí no duele",
+  "Estar quieto puede ser difícil, sobre todo para un niño"
+ ],
+ "after": [
+  "Ese día toma más agua y ve al baño más seguido",
+  "Lávate las manos después de ir al baño",
+  "Durante un día procura no cargar mucho tiempo a niños pequeños ni acercarte a embarazadas; confírmalo en la clínica",
+  "A las mujeres que dan pecho a veces les aconsejan pausar la lactancia un tiempo: pregunta al médico"
+ ],
+ "red_flags": [
+  "Sarpullido, hinchazón de la cara o dificultad para respirar: llama a emergencias",
+  "Dolor fuerte en la espalda baja o sangre en la orina"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligrosa por la radiación?",
+   "a": "La dosis es pequeña y sale rápido con la orina. El médico la indica cuando el beneficio es mayor que el riesgo."
+  },
+  {
+   "q": "¿Puedo estar junto a mi hijo?",
+   "a": "Sí, normalmente el padre o la madre se queda cerca y ayuda al niño a estar tranquilo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes la gammagrafía de riñones. En la mañana toma agua como te indicó la clínica. Pregunta al médico por los medicamentos de la presión."
+  }
+ ]
+}

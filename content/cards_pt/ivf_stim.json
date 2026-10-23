@@ -1,0 +1,83 @@
+{
+ "title": "FIV: estimulação dos ovários e injeções",
+ "also": [
+  "estimulação para FIV",
+  "injeções da FIV",
+  "fertilização in vitro",
+  "protocolo de FIV"
+ ],
+ "what": "Você aplica em si mesma injeções de hormônio para que vários óvulos amadureçam nos ovários. O médico acompanha isso no ultrassom e nos exames de sangue.",
+ "why": "É a primeira etapa da FIV. Começa conforme o esquema do médico, normalmente no início do ciclo.",
+ "duration": "as injeções duram normalmente de 8 a 14 dias; o ultrassom é feito algumas vezes",
+ "tell_doctor": [
+  "Todos os remédios: não pare por conta própria",
+  "Alergias",
+  "Como você reagiu a estimulações anteriores",
+  "Doenças crônicas",
+  "Se tem medo de aplicar as injeções sozinha: vão ajudar você"
+ ],
+ "prepare": [
+  {
+   "title": "Esquema",
+   "text": "Peça ao médico o esquema por escrito: qual remédio, qual dose e em que horário."
+  },
+  {
+   "title": "Armazenamento",
+   "text": "Alguns remédios ficam na geladeira. Veja a bula."
+  },
+  {
+   "title": "Treino",
+   "text": "Peça à enfermeira para mostrar como aplicar a injeção."
+  },
+  {
+   "title": "Calendário",
+   "text": "Coloque alarmes no celular para os horários das injeções."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Esquema dos remédios",
+  "Os remédios, se pedirem",
+  "Diário das injeções"
+ ],
+ "steps": [
+  "Lave as mãos e prepare a caneta ou a seringa",
+  "Passe um lenço com álcool na pele da barriga",
+  "Faça uma prega na pele",
+  "Introduza a agulha e aplique o remédio devagar",
+  "Segure a agulha por alguns segundos e retire",
+  "Anote o horário e a dose",
+  "Vá ao ultrassom e aos exames nos dias marcados"
+ ],
+ "feel": [
+  "Uma picada rápida; às vezes um pequeno roxo",
+  "Inchaço e peso no pé da barriga",
+  "Mudanças de humor e cansaço"
+ ],
+ "after": [
+  "Quando os folículos amadurecerem, vão receitar a injeção de gatilho. Aplique exatamente no horário indicado",
+  "Um certo tempo depois dela, é feita a punção dos óvulos",
+  "Sem treinos pesados durante a estimulação"
+ ],
+ "red_flags": [
+  "Dor forte ou barriga muito inchada: ligue para o médico ou para a emergência",
+  "Falta de ar, pouca urina, ganho de peso rápido: ligue para a emergência",
+  "Fraqueza forte ou tontura"
+ ],
+ "faq": [
+  {
+   "q": "O que fazer se esqueci uma injeção?",
+   "a": "Ligue na hora para o médico ou para a clínica. Não dobre a dose por conta própria."
+  },
+  {
+   "q": "Posso trabalhar durante a estimulação?",
+   "a": "Normalmente sim. O principal é não perder as injeções e os ultrassons."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Hora da injeção do esquema da FIV. Confira o remédio e a dose e anote o horário."
+  }
+ ]
+}

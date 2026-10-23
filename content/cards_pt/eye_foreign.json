@@ -1,0 +1,78 @@
+{
+ "title": "Retirada de corpo estranho do olho",
+ "also": [
+  "cisco no olho",
+  "corpo estranho no olho",
+  "limalha no olho",
+  "caiu algo no olho"
+ ],
+ "what": "Com colírio anestésico, o médico encontra e tira com cuidado o cisco do olho. Normalmente leva poucos minutos.",
+ "why": "Quando caiu no olho um cisco, limalha ou partícula e ela não sai com água.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "O que caiu no olho e quando",
+  "Se você trabalhou com metal, esmerilhadeira ou madeira",
+  "Se usa lentes",
+  "Se tem alergia a colírio"
+ ],
+ "prepare": [
+  {
+   "title": "Não coce",
+   "text": "Não coce o olho. Isso pode arranhar a córnea."
+  },
+  {
+   "title": "Lavagem",
+   "text": "Você pode lavar o olho com água limpa. Não tente tirar a partícula com objetos pontudos."
+  },
+  {
+   "title": "Lentes",
+   "text": "Se estiver com lente no olho, tire-a com as mãos limpas, se der."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Óculos, se usa",
+  "Um acompanhante, se estiver enxergando mal"
+ ],
+ "steps": [
+  "O médico pinga um colírio anestésico",
+  "Examina o olho no microscópio",
+  "Às vezes pinga um corante para ver arranhões",
+  "Tira a partícula com um cotonete úmido ou um instrumento fino",
+  "Se ficou uma mancha de ferrugem, ela também é retirada",
+  "Pingam colírio ou pomada de tratamento"
+ ],
+ "feel": [
+  "Depois do colírio, quase não dói",
+  "Quando o efeito passa, pode haver sensação de areia e ardência",
+  "O olho pode lacrimejar e ficar sensível à luz por um ou dois dias"
+ ],
+ "after": [
+  "Colírio ou pomada conforme o médico indicou",
+  "Não coce o olho e não use lentes até liberarem",
+  "Se precisar, volte para revisão no dia seguinte",
+  "Ao trabalhar com metal, use óculos de proteção"
+ ],
+ "red_flags": [
+  "A dor não passa ou piora depois de um dia",
+  "Piora da visão",
+  "Pus ou mancha branca no olho",
+  "Se um fragmento bateu no olho em alta velocidade: vá ao médico na hora; em lesão grave, ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que não posso coçar o olho?",
+   "a": "A partícula pode arranhar a córnea e entrar mais fundo."
+  },
+  {
+   "q": "Preciso ir ao médico se parece que saiu com a água?",
+   "a": "Se ainda sente o cisco, se o olho está vermelho ou enxergando pior, sim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Não coce o olho. Se continuar sentindo o cisco, procure um oftalmologista."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "title": "Aql tishini olib tashlash",
+ "also": [
+  "sakkizinchi tishni olib tashlash",
+  "yarim chiqqan tishni olib tashlash",
+  "murakkab tish olish"
+ ],
+ "what": "Stomatolog-jarroh chetdagi tishni — aql tishini olib tashlaydi. Odatda mahalliy og‘riqsizlantirish ostida. Tish suyak ichida bo‘lsa, milkda kichik kesma qilinadi.",
+ "why": "Tish qiyshiq o‘sganda, chiqmaganda, qo‘shni tishni bosganda, ustidagi milk yallig‘lansa yoki tish buzilgan bo‘lsa.",
+ "duration": "odatda 20–60 daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiradigan dorilar",
+  "Qandli diabet, yurak kasalliklari",
+  "Og‘riqsizlantiruvchi va antibiotiklarga allergiya",
+  "Homiladorlik",
+  "Hozir yallig‘lanish, shish bo‘lsa yoki og‘izni ochish qiyin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Surat",
+   "text": "Olishdan oldin surat olinadi — ba’zan ildizlar va nervni ko‘rish uchun hajmli."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Tashrifdan 1–2 soat oldin ovqatlaning — olishdan keyin bir necha soat ovqat yeb bo‘lmaydi."
+  },
+  {
+   "title": "Alkogol va chekish",
+   "text": "Bir kun oldin alkogolsiz. Chekishni oldindan to‘xtatgan yaxshi — u bitishga xalaqit beradi."
+  },
+  {
+   "title": "Keyin",
+   "text": "1–2 tinch kunni rejalashtiring: shish bo‘lishi mumkin."
+  }
+ ],
+ "bring": [
+  "Tish surati",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor suratni ko‘radi va rejani tushuntiradi",
+  "Og‘riqsizlantiruvchi ukol qilinadi — yonoq va til karaxt bo‘ladi",
+  "Kerak bo‘lsa, milk kesiladi va suyakning bir qismi olinadi",
+  "Ba’zan tish qismlarga bo‘linadi — shunda uni olish osonroq",
+  "Chuqurcha yuviladi, zarur bo‘lsa, chok qo‘yiladi",
+  "Doka tamponi qo‘yiladi — uni tishlab turish kerak"
+ ],
+ "feel": [
+  "Bosim, tebranish va tovushlar — bu normal, og‘riq bo‘lmasligi kerak",
+  "Og‘risa — shifokorga ayting, og‘riqsizlantirishni qo‘shishadi",
+  "Og‘iz uzoq ochiq turadi — tanaffus so‘rasa bo‘ladi"
+ ],
+ "after": [
+  "Tamponni 20–30 daqiqa ushlab turing",
+  "Dastlabki soatlarda yonoqqa sovuq — 10–15 daqiqadan tanaffuslar bilan",
+  "2–3 soat ovqat yemang; birinchi kun — issiq narsa, naycha va chekishsiz",
+  "Og‘izni qattiq chayqamang — chuqurchadagi laxta qolishi kerak",
+  "3–5 kun shish va og‘riq — normal; og‘riq qoldiruvchi — shifokor maslahati bo‘yicha",
+  "Choklar so‘rilmaydigan bo‘lsa, taxminan bir haftadan keyin olinadi"
+ ],
+ "red_flags": [
+  "Qon ketishi bir soatdan ortiq to‘xtamasa",
+  "Yutish yoki nafas olish qiyin, shish tez o‘ssa — tez yordamni chaqiring (103)",
+  "3-kundan keyin og‘riq kuchaysa, harorat, chuqurchadan yoqimsiz hid",
+  "Lab yoki tildagi karaxtlik keyingi kun o‘tmasa"
+ ],
+ "faq": [
+  {
+   "q": "Aql tishi og‘rimasa ham olib tashlash kerakmi?",
+   "a": "Har doim emas. Tish tekis o‘sib, xalaqit bermasa, ko‘pincha qoldiriladi. Surat bo‘yicha shifokor hal qiladi."
+  },
+  {
+   "q": "Aql tishini olgandan keyin qancha og‘riydi?",
+   "a": "Odatda 3–5 kun, shish 2-kuni eng kuchli. Keyin yengillashadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga aql tishini olish. Alkogolsiz, suratni oling. Tashrifdan oldin ovqatlaning."
+  }
+ ]
+}

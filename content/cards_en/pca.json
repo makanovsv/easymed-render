@@ -1,0 +1,77 @@
+{
+ "title": "Pain relief after surgery (epidural catheter, pump)",
+ "also": [
+  "epidural catheter",
+  "pain pump",
+  "epidural after surgery",
+  "patient-controlled analgesia",
+  "pump with a button"
+ ],
+ "what": "After surgery, pain medicine is given continuously - through a thin tube in the back or through a pump into a vein. With a pump, you press the button yourself when it hurts.",
+ "why": "After big surgery on the belly, chest or joints, when ordinary injections and pills are not enough.",
+ "duration": "usually 1 to 3 days after surgery, then you switch to pills",
+ "tell_doctor": [
+  "Allergies to painkillers",
+  "Blood-thinning medicines - your doctor will tell you what to stop and when",
+  "Spine disease or back surgery",
+  "If strong painkillers have caused nausea or confusion before"
+ ],
+ "prepare": [
+  {
+   "title": "Talk",
+   "text": "The anesthesiologist will tell you in advance which pain relief method suits you."
+  },
+  {
+   "title": "Button",
+   "text": "If you will have a pump, you will be shown how to press the button. Ask if anything is unclear."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor about everything you take."
+  }
+ ],
+ "bring": [
+  "A list of your medicines",
+  "Glasses, if you need them - to see the button and the pump screen"
+ ],
+ "steps": [
+  "An epidural catheter is usually placed before surgery",
+  "You sit or lie on your side and your back is numbed with an injection",
+  "A thin tube is inserted in your back and taped with a plaster",
+  "The pump is connected to the catheter or to a vein",
+  "When it hurts, you press the button and the pump gives a dose of medicine",
+  "Nurses check your pain, blood pressure and breathing"
+ ],
+ "feel": [
+  "The pain is usually much less, but not always completely gone",
+  "Sometimes your legs go numb or weak, or you feel itching or nausea",
+  "You will not get too much: the pump will not give more than a safe dose"
+ ],
+ "after": [
+  "The catheter is taken out quickly and almost painlessly",
+  "Pain relief continues with pills",
+  "Tell the nurse if the pain becomes strong again"
+ ],
+ "red_flags": [
+  "Severe drowsiness, hard to wake, slow breathing - call the nurse right away",
+  "Your legs do not move or your back hurts badly",
+  "Redness or discharge at the catheter site",
+  "Fever above 38"
+ ],
+ "faq": [
+  {
+   "q": "Can my family press the button for me?",
+   "a": "No. Only the patient presses the button - this keeps the pump safe."
+  },
+  {
+   "q": "Will I get used to the painkiller?",
+   "a": "With short use after surgery this is rare. The doctor watches the dose."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Surgery tomorrow. If anything is unclear about pain relief afterward, ask the anesthesiologist."
+  }
+ ]
+}

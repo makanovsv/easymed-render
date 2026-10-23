@@ -1,0 +1,73 @@
+{
+ "title": "Testosteron",
+ "also": [
+  "testosteron",
+  "erkaklik gormoni",
+  "erkin testosteron"
+ ],
+ "what": "Bu venadan olinadigan qon tahlili. U testosteron — erkaklarda ham, ayollarda ham bor gormon — darajasini ko‘rsatadi.",
+ "why": "Erkaklarda — istak pasayganda, charchoqda, homila bo‘lish muammolarida. Ayollarda — tsikl buzilganda, husnbuzar va ortiqcha tuklarda.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Gormonlar yoki sport qo‘shimchalarini qabul qilsangiz",
+  "Kontratseptiv tabletkalar ichsangiz",
+  "Ayol bo‘lsangiz, tsiklning kuni",
+  "Tunda ishlasangiz yoki yomon uxlasangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Odatda ertalab, taxminan soat 11 gacha. Ayollarga tsiklning kunini shifokor aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa: 8–12 soat ovqatsiz. Oddiy suv ichsa bo‘ladi. Laboratoriyadan so‘rang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir kun oldin spirtli ichimliksiz va og‘ir mashg‘ulotsiz. Ertalab chekmagan ma’qul."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — u biror narsani o‘zgartirish kerak-kerakmasligini hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut bog‘lanadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon probirkaga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan biroz bosh aylanadi — hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darrov ovqatlansa va odatdagi ishlariga qaytsa bo‘ladi",
+  "Natija odatda 1–3 kunda — muddatini laboratoriya aytadi",
+  "Ba’zan shifokor qayta topshirishni so‘raydi — daraja kundan-kunga o‘zgaradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Testosteron nega ertalab topshiriladi?",
+   "a": "Ertalab u eng ko‘p bo‘ladi. Me’yorlar ertalabki tahlilga qarab hisoblangan."
+  },
+  {
+   "q": "Ayollar testosteron topshirishi kerakmi?",
+   "a": "Ha, shifokor buyurgan bo‘lsa. Ayollarda ham bor, faqat kamroq miqdorda."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ertalab testosteronga tahlil. Kechki ovqatdan keyin yemang, yaxshilab uxlang, mashg‘ulotsiz."
+  }
+ ]
+}

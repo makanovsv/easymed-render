@@ -1,0 +1,72 @@
+{
+ "title": "Glyukozaga bardoshlilik testi",
+ "also": [
+  "GBT",
+  "glyukoza yuklamasi bilan test",
+  "qand egri chizig‘i"
+ ],
+ "what": "Organizm shakar bilan qanday kurashishini tekshiradi. Qon och qoringa va glyukoza eritmasini ichganingizdan 2 soat o‘tgach olinadi.",
+ "why": "Diabet yoki prediabetga gumon bo‘lganda va barcha homilador ayollarga odatda 24–28-haftada.",
+ "duration": "klinikada taxminan 2–2,5 soat",
+ "tell_doctor": [
+  "Sizda allaqachon diabet yoki yuqori qand bo‘lsa",
+  "Homiladorlik va muddati",
+  "Qanday dorilar ichasiz",
+  "Yaqinda kasal bo‘lgan, operatsiya o‘tgan yoki kuchli stress bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Testdan oldin 10–14 soat ovqatsiz. Suv ichsa bo‘ladi."
+  },
+  {
+   "title": "3 kun oldin",
+   "text": "Odatdagidek ovqatlaning, parhezga o‘tirmang — aks holda natija noaniq bo‘ladi."
+  },
+  {
+   "title": "Ertalab",
+   "text": "Chekmang, saqich chaynamang. Kitob oling — uzoq kutishga to‘g‘ri keladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Suv va testdan keyin yeyish uchun yengil ovqat"
+ ],
+ "steps": [
+  "Avval och qoringa qon olinadi",
+  "5 daqiqada bir stakan shirin glyukoza eritmasini ichasiz",
+  "Ikki soat klinikada xotirjam o‘tirasiz: yemaysiz, chekmaysiz, tez yurmaysiz",
+  "2 soatdan keyin qon yana olinadi"
+ ],
+ "feel": [
+  "Eritma juda shirin, ko‘ngil aynishi mumkin — ozgina-ozgina ichib turing",
+  "Ba’zan kutish oxirida holsizlik"
+ ],
+ "after": [
+  "Ikkinchi qon olingandan keyin ovqatlansa bo‘ladi",
+  "Natija odatda 1–2 kunda, shifokor tushuntiradi"
+ ],
+ "red_flags": [
+  "Kuchli holsizlik, terlash, titroq — darhol hamshiraga ayting"
+ ],
+ "faq": [
+  {
+   "q": "Test paytida sayr qilib kelsa bo‘ladimi?",
+   "a": "Yo‘q ma’qul: harakat qand darajasini o‘zgartiradi. Klinikada o‘tirib turing."
+  },
+  {
+   "q": "Glyukozadan keyin qayt qilsa nima qilish kerak?",
+   "a": "Hamshiraga ayting — test, ehtimol, boshqa kunga ko‘chiriladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Ertaga glyukozaga bardoshlilik testi. Shu vaqtdan boshlab ovqat yemang, suv ichsa bo‘ladi."
+  },
+  {
+   "hoursBefore": 1.5,
+   "text": "Tez orada test. Suv, keyin yeyish uchun yengil ovqat va 2 soatga mashg‘ulot oling."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Uyda siydik va qondagi ketonlar",
+ "also": [
+  "siydikdagi ketonlar",
+  "siydikdagi aseton",
+  "keton test-poloskalari",
+  "glyukometr bilan qondagi ketonlar"
+ ],
+ "what": "Uyda siydik bo‘yicha poloska yoki bir tomchi qon bo‘yicha asbob bilan ketonlar tekshiriladi. Ular organizmda insulin yoki ovqat yetishmaganda paydo bo‘ladi.",
+ "why": "Qandli diabetda — qand yuqori bo‘lganda, kasallik, qusish, haroratda; ba’zan shifokor maslahati bilan qattiq parhezlarda.",
+ "duration": "test — 1–2 daqiqa",
+ "tell_doctor": [
+  "Ketonlar qanchalik tez-tez oshib turadi",
+  "Insulin nasosida bo‘lsangiz",
+  "Diabetga tabletka ichsangiz — ba’zilari qand normal bo‘lsa ham ketonlarni oshiradi",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Reja",
+   "text": "Shifokordan oldindan reja so‘rang: ketonlarni qachon tekshirish va har bir natijada nima qilish."
+  },
+  {
+   "title": "Zaxira",
+   "text": "Uyda poloskalar yoki test-poloskali asbobni saqlang. Yaroqlilik muddatini tekshiring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang va o‘zgartirmang. Ketonlarda dozalar — faqat shifokor rejasi bo‘yicha."
+  }
+ ],
+ "bring": [
+  "Siydik uchun poloskalar yoki qon uchun asbob",
+  "Qand va ketonlar kundaligi",
+  "Shifokor rejasi"
+ ],
+ "steps": [
+  "Siydik uchun: poloskani siydikka botiring yoki oqim ostida ushlang",
+  "Yo‘riqnomadagi vaqtni kuting va rangni qadoqdagi shkala bilan solishtiring",
+  "Qon uchun: qo‘llaringizni yuving va quriting",
+  "Keton poloskasini asbobga soling va barmoqni teshing",
+  "Qon tomchisini poloskaga tekkizing va natijani kuting",
+  "Natijani qand va vaqt bilan birga yozib qo‘ying"
+ ],
+ "feel": [
+  "Siydik bo‘yicha — hech narsa",
+  "Qon bo‘yicha — barmoqda qisqa ukol"
+ ],
+ "after": [
+  "Shifokor bergan reja bo‘yicha harakat qiling",
+  "Ketonlar yuqori bo‘lsa, odatda ko‘proq suv ichiladi va qand hamda ketonlar tez-tez tekshiriladi",
+  "Reja bo‘lmasa — shifokorga qo‘ng‘iroq qiling"
+ ],
+ "red_flags": [
+  "Ketonlar yuqori va qusish, qorin og‘rig‘i — shifokorga yoki 103 ga qo‘ng‘iroq qiling",
+  "Tez-tez chuqur nafas olish, og‘izdan aseton hidi, kuchli uyquchanlik yoki aralashib qolish — 103 ga qo‘ng‘iroq qiling",
+  "Diabetli bola loqayd, qusmoqda, ketonlar bor — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Qaysi biri aniqroq — siydikmi yoki qonmi?",
+   "a": "Qon ketonlarni aynan hozirgi paytda ko‘rsatadi. Siydik kechikib ko‘rsatadi. Asbob bo‘lsa, qaror qabul qilish uchun qon qulayroq."
+  },
+  {
+   "q": "Ketonlar bor, qand normal. Bu xavfli emasmi?",
+   "a": "Bu ochlikdan bo‘lishi mumkin. Ammo ba’zi diabet dorilarida bu xavfli — shifokorga qo‘ng‘iroq qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Qand yuqorimi yoki kasal bo‘lib qoldingizmi? Ketonlarni tekshiring va shifokor rejasi bo‘yicha harakat qiling."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Gout: treatment and diet",
+ "also": [
+  "gout",
+  "gouty arthritis",
+  "uric acid",
+  "gout attack"
+ ],
+ "what": "Gout is when crystals build up in a joint and it suddenly becomes inflamed. The doctor relieves the attack and chooses treatment so that attacks do not come back.",
+ "why": "For sudden severe pain and swelling in a joint, often the big toe; or when uric acid in the blood is high.",
+ "duration": "the visit usually takes 20 to 30 minutes, test results in 1 to 2 days",
+ "tell_doctor": [
+  "When the attack happened and which joint hurt",
+  "How often attacks happen",
+  "Which medicines you take - some raise uric acid",
+  "How much alcohol you drink",
+  "If you have kidney disease"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Blood for uric acid is usually taken on an empty stomach. Ask the clinic."
+  },
+  {
+   "title": "Diary",
+   "text": "Write down what you ate and drank before attacks."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own, even if the joint no longer hurts."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Uric acid test results",
+  "Joint scans, if you have them",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks about attacks and diet",
+  "Examines your joints",
+  "Sends you for a blood test and sometimes a joint ultrasound",
+  "Sometimes takes fluid from the joint for testing",
+  "Prescribes treatment for the attack",
+  "If attacks are frequent, chooses a medicine that lowers uric acid"
+ ],
+ "feel": [
+  "Examining the sore joint may be painful",
+  "The blood test is a short needle prick"
+ ],
+ "after": [
+  "Drink more water",
+  "Limit alcohol, especially beer, red meat and sweet fizzy drinks",
+  "Gout medicines are taken for a long time - do not stop on your own",
+  "Check-up tests follow your doctor's schedule"
+ ],
+ "red_flags": [
+  "A hot, badly swollen joint with high fever - see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Can gout be cured with diet?",
+   "a": "Diet helps, but medicines are often needed too. Your doctor decides."
+  },
+  {
+   "q": "Why did an attack start after I began treatment?",
+   "a": "This can happen in the first months. Do not stop the pills, tell your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Gout visit tomorrow. If you are having a blood test, do not eat after dinner. You may drink water."
+  }
+ ]
+}

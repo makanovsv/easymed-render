@@ -1,0 +1,30 @@
+insulin_pump|proc|Инсулиновая помпа: установка и смена катетера|Insulin pump: setup and set changes|home|M|3
+cgm|proc|Датчик непрерывного мониторинга глюкозы (Libre, Dexcom)|Continuous glucose monitor (Libre, Dexcom)|home|L|2
+cpap|proc|СИПАП-терапия дома|CPAP therapy at home|home|L|2
+trach_care|proc|Уход за трахеостомой дома|Tracheostomy care at home|home|M|3
+tube_feeding|proc|Кормление через зонд и гастростому дома|Tube and gastrostomy feeding at home|home|M|3
+stoma_care|proc|Уход за колостомой и илеостомой|Colostomy and ileostomy care|home|M|2
+bedsores|proc|Профилактика пролежней у лежачего|Pressure sore prevention in bedridden patients|home|L|2
+patient_transfer|proc|Как перемещать и переворачивать лежачего больного|Moving and turning a bedridden patient|home|L|2
+umbilical_care|proc|Уход за пупочной ранкой новорождённого|Newborn umbilical cord care|home|L|1
+nephrostomy_care|proc|Уход за нефростомой дома|Nephrostomy care at home|home|M|3
+self_cath|proc|Самокатетеризация мочевого пузыря|Intermittent self-catheterisation|home|M|3
+eye_drops|proc|Как закапывать капли и закладывать мазь в глаза|How to use eye drops and ointment|home|L|1
+nasal_spray|proc|Как правильно пользоваться назальным спреем|How to use a nasal spray correctly|home|L|1
+fever_kids|proc|Температура у ребёнка: как мерить и когда к врачу|Fever in children: measuring and when to see a doctor|home|L|1
+anticoag_home|proc|Жизнь на антикоагулянтах: кровотечения, еда, другие лекарства|Living on blood thinners: bleeding, food, other drugs|home|L|2
+molluscum|derm|Удаление контагиозного моллюска у ребёнка|Molluscum contagiosum removal in children|proc_room|M|2
+onychomycosis|derm|Лечение грибка ногтей|Nail fungus treatment|proc_room|M|2
+atopic_kids|derm|Атопический дерматит у ребёнка: лечение и уход|Atopic eczema in children: treatment and skin care|office|L|1
+urticaria|derm|Приём при крапивнице|Hives (urticaria) consultation|office|L|2
+rosacea|derm|Лечение розацеа|Rosacea treatment|office|L|2
+scabies|derm|Лечение чесотки|Scabies treatment|office|L|3
+lice|derm|Лечение педикулёза у ребёнка|Head lice treatment in children|home|L|2
+pdt_skin|derm|Фотодинамическая терапия кожи|Photodynamic therapy of the skin|proc_room|M|3
+calluses|derm|Удаление мозолей и натоптышей (медицинский педикюр)|Callus and corn removal (medical pedicure)|proc_room|M|2
+hemangioma|derm|Лечение гемангиомы у ребёнка|Infant haemangioma treatment|proc_room|M|3
+face_vessels|derm|Удаление сосудистых звёздочек на лице лазером|Laser removal of facial spider veins|proc_room|M|2
+tattoo_removal|derm|Лазерное удаление татуировки|Laser tattoo removal|proc_room|M|3
+fractional_laser|derm|Фракционное лазерное омоложение|Fractional laser resurfacing|proc_room|M|3
+acne_scars|derm|Лечение рубцов после акне|Acne scar treatment|proc_room|M|2
+mesotherapy|derm|Мезотерапия кожи|Skin mesotherapy|proc_room|M|2

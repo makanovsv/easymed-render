@@ -1,0 +1,76 @@
+{
+ "title": "Prueba genética BRCA1/2",
+ "also": [
+  "prueba BRCA",
+  "gen BRCA",
+  "prueba genética de cáncer de mama",
+  "mutaciones BRCA1 y BRCA2"
+ ],
+ "what": "Es un análisis de sangre o saliva que busca cambios hereditarios en los genes BRCA1 y BRCA2. Esos cambios aumentan el riesgo de cáncer de mama y de ovario.",
+ "why": "Si en la familia hubo varios casos de cáncer de mama, ovario, próstata o páncreas; si hubo cáncer de mama a edad joven, o para elegir el tratamiento.",
+ "duration": "la toma de sangre suele durar 5 minutos; el resultado suele estar en 2 a 4 semanas",
+ "tell_doctor": [
+  "Quién en tu familia tuvo cáncer y a qué edad, de los dos lados",
+  "Si a un familiar ya le encontraron un cambio en el gen: lleva su informe",
+  "Si te hicieron transfusiones o un trasplante de médula ósea",
+  "Para qué quieres la prueba: conocer tu riesgo o elegir un tratamiento"
+ ],
+ "prepare": [
+  {
+   "title": "Consulta",
+   "text": "Es mejor hablar antes con un médico genetista: qué muestra la prueba y qué hacer con el resultado."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayunar. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Familia",
+   "text": "Haz una lista de familiares con cáncer: quién, qué cáncer y a qué edad."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu identificación",
+  "La lista de familiares con cáncer",
+  "El informe genético de tu familiar, si lo hay"
+ ],
+ "steps": [
+  "Te sientas y la enfermera te pone una liga en el brazo",
+  "Limpian la piel con antiséptico",
+  "Toman sangre de la vena en un tubo",
+  "A veces, en lugar de sangre, juntan saliva en un tubo",
+  "La muestra se manda a un laboratorio de genética"
+ ],
+ "feel": [
+  "Un piquete breve, como en un análisis de sangre normal",
+  "Es común sentir nervios: es normal, hazle preguntas al médico"
+ ],
+ "after": [
+  "El resultado suele estar en 2 a 4 semanas",
+  "Es mejor revisar el resultado con un médico genetista",
+  "Si encuentran un cambio, el médico te hablará de revisiones y medidas de protección, y a tus familiares les pueden ofrecer la prueba",
+  "Si no encuentran nada, no garantiza que no tendrás cáncer; el médico te dirá qué revisiones necesitas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Si encuentran una mutación, ¿seguro tendré cáncer?",
+   "a": "No. El riesgo es más alto que en otras personas, pero no es una sentencia. Hay revisiones y medidas que bajan ese riesgo."
+  },
+  {
+   "q": "¿Hay que repetir este análisis?",
+   "a": "Normalmente no. Los genes no cambian durante la vida: basta con una vez."
+  },
+  {
+   "q": "¿Los hombres necesitan esta prueba?",
+   "a": "A veces sí. Los cambios en BRCA también se dan en hombres y se pasan a hijos e hijas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu prueba genética BRCA. Lleva la lista de familiares con cáncer y sus informes, si los hay."
+  }
+ ]
+}

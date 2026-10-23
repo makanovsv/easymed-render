@@ -1,0 +1,84 @@
+{
+ "title": "Cuidado de la colostomía y la ileostomía",
+ "also": [
+  "colostomía",
+  "ileostomía",
+  "bolsa de ostomía",
+  "cuidado del estoma",
+  "cambio de bolsa de colostomía"
+ ],
+ "what": "El estoma es una abertura del intestino en el abdomen por donde sale la materia fecal a una bolsa especial. Aprenderás tú mismo a cambiar la bolsa y a cuidar la piel.",
+ "why": "Después de una cirugía del intestino, cuando el cirujano sacó el intestino al abdomen, de forma temporal o permanente.",
+ "duration": "el cambio de bolsa suele durar de 10 a 20 minutos",
+ "tell_doctor": [
+  "Si la piel alrededor del estoma está roja, húmeda o duele",
+  "Si la bolsa se despega o gotea seguido",
+  "Si el estoma cambió de color o de tamaño, o se sale",
+  "Si las heces son muy líquidas o no hay evacuación por más de un día"
+ ],
+ "prepare": [
+  {
+   "title": "Material",
+   "text": "Ten reserva de bolsas, placas y productos para la piel. Se eligen junto con la enfermera especialista en ostomías."
+  },
+  {
+   "title": "Tamaño",
+   "text": "El hueco de la placa se corta al tamaño del estoma. Las primeras semanas el estoma se encoge: mídelo de nuevo."
+  },
+  {
+   "title": "Horario",
+   "text": "Es más cómodo cambiarla en la mañana antes de comer, cuando el intestino trabaja menos."
+  },
+  {
+   "title": "Lugar",
+   "text": "Deja todo lo necesario en el baño, sobre una toalla limpia."
+  }
+ ],
+ "bring": [
+  "Reserva de bolsas y placas",
+  "Tijeras y la plantilla de medida",
+  "Toallitas y una bolsa para la basura",
+  "El resumen de alta y los datos de la enfermera"
+ ],
+ "steps": [
+  "Lávate las manos y prepara la bolsa nueva",
+  "Quita con cuidado la bolsa vieja, de arriba hacia abajo, sosteniendo la piel",
+  "Lava la piel alrededor del estoma con agua tibia y sécala con toques suaves",
+  "Revisa el estoma y la piel de alrededor",
+  "Corta el hueco de la placa al tamaño del estoma",
+  "Pega la placa de abajo hacia arriba y sostenla con la mano 1 o 2 minutos",
+  "Mete la bolsa usada en una bolsa de basura y tírala"
+ ],
+ "feel": [
+  "El estoma en sí no duele, porque no tiene nervios, pero sangra fácil al tocarlo",
+  "Al principio es raro y da ansiedad: es normal, con el tiempo se hace más fácil"
+ ],
+ "after": [
+  "Vacía la bolsa cuando esté llena a un tercio o a la mitad",
+  "Toma suficiente agua, sobre todo con ileostomía",
+  "Normalmente se puede comer casi de todo y usar casi cualquier ropa; pregunta al médico por tu caso",
+  "No cargues cosas pesadas: así previenes una hernia"
+ ],
+ "red_flags": [
+  "El estoma se puso oscuro, azul o negro: ve al médico de inmediato o llama a emergencias",
+  "Dolor fuerte de abdomen, vómito y no hay evacuación: llama a emergencias",
+  "Sangrado fuerte por el estoma",
+  "Heces muy líquidas muchas veces, debilidad y poca orina: ve al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo bañarme con el estoma?",
+   "a": "Sí, con la bolsa o sin ella. El agua no entra al estoma."
+  },
+  {
+   "q": "¿Habrá mal olor?",
+   "a": "Las bolsas modernas no dejan pasar el olor. Solo huele al cambiarla o si gotea."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana en la mañana cambias la bolsa de ostomía. Revisa tu reserva de bolsas y placas."
+  }
+ ]
+}

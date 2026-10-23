@@ -1,0 +1,77 @@
+{
+ "title": "Tug‘ruqxonaga nima olish kerak",
+ "also": [
+  "tug‘ruqxonaga sumka",
+  "tug‘ruqxonaga narsalar ro‘yxati",
+  "tug‘ruqqa nima olish kerak",
+  "shoshilinch chemodan"
+ ],
+ "what": "Bu tug‘ruqxonaga o‘zingiz va chaqaloq uchun olish kerak bo‘lgan narsalar ro‘yxati. Sumkani oldindan yig‘ib qo‘ygan ma’qul.",
+ "why": "Sumkani odatda 36-haftagacha yig‘ishadi, erta tug‘ruq xavfi bo‘lsa — oldinroq.",
+ "duration": "yig‘ish — odatda bir kechqurun, sumka 2–5 kunga kerak",
+ "tell_doctor": [
+  "Kasalliklaringizga qarab maxsus narsalar kerakmi",
+  "Doimiy dorilar ichasizmi",
+  "Kesarcha kesish rejalashtirilganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Hujjatlar",
+   "text": "Hujjat, almashinuv kartasi, polis yoki yo‘llanma, agar kerak bo‘lsa."
+  },
+  {
+   "title": "Ona uchun",
+   "text": "Xalat, ko‘ylak, tapochka, ichki kiyim, prokladkalar, gigiyena vositalari, zaryadlovchi."
+  },
+  {
+   "title": "Chaqaloq uchun",
+   "text": "Yangi tug‘ilganlar uchun taglik, kiyim, qalpoqcha, paypoqcha, mavsumga mos chiqish kiyimi."
+  },
+  {
+   "title": "Tug‘ruqxona qoidalari",
+   "text": "Tug‘ruqxonaning ro‘yxatini oldindan bilib oling: nima olib kelish mumkin va nima mumkin emas."
+  }
+ ],
+ "bring": [
+  "Hujjatlar va almashinuv kartasi",
+  "Ona uchun narsalar",
+  "Chaqaloq uchun narsalar",
+  "Doimiy dorilar va ularning ro‘yxati",
+  "Telefon va zaryadlovchi"
+ ],
+ "steps": [
+  "O‘z tug‘ruqxonangizning ro‘yxatini oling",
+  "Narsalarni uch xaltaga ajrating: tug‘ruq zaliga, palataga, chiqish uchun",
+  "Hujjatlarni alohida papkaga soling",
+  "Hammasi imzolanganini tekshiring",
+  "Sumkani eshik yoniga qo‘ying",
+  "Yaqinlaringizga u qayerda turganini ayting"
+ ],
+ "feel": [
+  "Yig‘ish tinchlantiradi — tug‘ruq boshlanganda shovqin-suron kamroq bo‘ladi"
+ ],
+ "after": [
+  "Chiqish uchun narsalarni uyda qoldirsangiz bo‘ladi, ularni olib kelishadi",
+  "Ketishdan oldin hujjat va telefonni tekshiring"
+ ],
+ "red_flags": [
+  "Muntazam tug‘ruq og‘riqlari, suv ketishi yoki qon — tug‘ruqxonaga boring yoki 103 ga qo‘ng‘iroq qiling",
+  "Chaqaloq sezilarli kam qimirlayapti"
+ ],
+ "faq": [
+  {
+   "q": "Sumkani qachon yig‘ish kerak?",
+   "a": "Odatda 36-haftagacha. Shifokor erta tug‘ruq xavfini aytsa — oldinroq."
+  },
+  {
+   "q": "Eng muhimi nima?",
+   "a": "Hujjatlar va almashinuv kartasi. Qolganini yaqinlaringiz olib kelishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Tug‘ruqxonaga sumkani tekshiring: hujjatlar, almashinuv kartasi, ona va chaqaloq uchun narsalar."
+  }
+ ]
+}

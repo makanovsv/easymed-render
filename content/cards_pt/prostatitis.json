@@ -1,0 +1,75 @@
+{
+ "title": "Tratamento da prostatite",
+ "also": [
+  "prostatite",
+  "inflamação na próstata",
+  "prostatite crônica",
+  "dor na próstata"
+ ],
+ "what": "Prostatite é a inflamação da próstata. O tratamento depende da causa: às vezes é infecção, às vezes não.",
+ "why": "Para dor no pé da barriga ou no períneo, ardência e vontade frequente de urinar.",
+ "duration": "a consulta leva de 20 a 40 minutos; o tratamento normalmente dura algumas semanas ou mais",
+ "tell_doctor": [
+  "Onde dói e há quanto tempo",
+  "Se tem febre e calafrios",
+  "Com que frequência vai ao banheiro e se é difícil urinar",
+  "Quais remédios já tomou, incluindo antibióticos",
+  "Alergia a remédios"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "O médico normalmente pede exame de urina e, às vezes, de secreção da próstata e ultrassom."
+  },
+  {
+   "title": "Antes do exame",
+   "text": "Para alguns exames é preciso ficar alguns dias sem ejacular. Confirme na clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não comece antibiótico por conta própria antes da consulta. Isso pode alterar os exames."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Exames e ultrassons anteriores",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Examina e avalia a próstata pelo ânus",
+  "Pede exames e, se precisar, faz ultrassom",
+  "Receita o tratamento",
+  "Explica como e por quanto tempo tomar os remédios"
+ ],
+ "feel": [
+  "O exame pelo ânus incomoda, mas é rápido",
+  "A melhora normalmente vem aos poucos, não na hora"
+ ],
+ "after": [
+  "Faça o tratamento até o fim, mesmo que melhore",
+  "Volte para conferir o resultado",
+  "Evite frio e ficar muito tempo sentado"
+ ],
+ "red_flags": [
+  "Febre alta com calafrios",
+  "Não consegue urinar nada: ligue para a emergência",
+  "Sangue na urina ou dor forte"
+ ],
+ "faq": [
+  {
+   "q": "A prostatite tem cura completa?",
+   "a": "A aguda normalmente é curada. A crônica, na maioria das vezes, é mantida sob controle; o médico escolhe o tratamento."
+  },
+  {
+   "q": "A prostatite passa para a parceira?",
+   "a": "A prostatite em si, não. Mas se a causa for infecção, o médico pode pedir exames para a parceira também."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta da prostatite. Leve os exames anteriores e a lista de remédios."
+  }
+ ]
+}

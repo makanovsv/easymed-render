@@ -1,0 +1,79 @@
+{
+ "title": "O‘sish gormoni va IFR-1",
+ "also": [
+  "STG",
+  "somatotrop gormon",
+  "somatomedin C",
+  "IFR-1",
+  "o‘sish gormoni"
+ ],
+ "what": "Bu o‘sish gormoni va u ishlab chiqarilishiga yordam beradigan modda uchun qon tahlili. Ikkinchisi orqali o‘rtacha o‘sish gormoni miqdorini baholash qulayroq.",
+ "why": "Bolalarda — bola tengdoshlaridan sekinroq o‘ssa. Kattalarda — qo‘l, oyoq va yuz belgilari kattalashganda va gipofiz kasalliklarida.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda bir necha kunda",
+ "tell_doctor": [
+  "Bola yoki siz o‘sish gormoni ukollarini olayotgan bo‘lsangiz",
+  "Gormonal dorilar ichayotgan bo‘lsangiz",
+  "Qandli diabet yoki ovqatlanish muammolari bo‘lsa",
+  "Yaqinda kasallik yoki kuchli ozish bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda qon ertalab och qoringa topshiriladi: 8–12 soat ovqatsiz. Oddiy suv ichish mumkin. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Tinchlik",
+   "text": "Bir kun oldin og‘ir mashqlarsiz. Qon olishdan oldin tinch o‘tirib turing — o‘sish gormoni zo‘riqish va hayajondan o‘zgaradi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — tahlildan oldin biror narsani o‘zgartirish kerakmi, u hal qiladi."
+  },
+  {
+   "title": "Bola",
+   "text": "Bolaga qisqa ukol bo‘lishini tushuntiring. Keyin uchun suv va yengil ovqat oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "Bolaning yillar bo‘yicha bo‘y yozuvlari, agar bo‘lsa",
+  "Gormonlarga oldingi tahlillar"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut bog‘lanadi va musht qilib turish so‘raladi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi",
+  "Bola qo‘rqishi mumkin — yonida o‘tiring va qo‘lidan ushlang"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Darrov ovqatlansangiz bo‘ladi",
+  "Ba’zan shifokorga dori bilan qo‘shimcha sinamalar kerak bo‘ladi — bu alohida tekshiruv"
+ ],
+ "red_flags": [
+  "Ukol joyi qattiq shishsa, og‘risa va qizarsa"
+ ],
+ "faq": [
+  {
+   "q": "Nega faqat o‘sish gormoni yetarli emas?",
+   "a": "U sakrab-sakrab ajraladi va bitta namuna deyarli hech narsani aytmaydi. IFR-1 barqarorroq — shuning uchun ikkalasi birga ko‘riladi."
+  },
+  {
+   "q": "Natija past bo‘lsa, bolaga ukol kerak degani emi?",
+   "a": "Yo‘q, qarorni endokrinolog to‘liq tekshiruvdan keyin qabul qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga o‘sish gormoni va IFR-1 tahlili. Kechki ovqatdan keyin yemang, suv ichish mumkin. Ertalab zo‘riqishsiz."
+  }
+ ]
+}

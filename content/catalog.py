@@ -564,7 +564,9 @@ SCENES = {
 if __name__ == "__main__":
     here = Path(__file__).parent
     items = []
-    for line in ROWS.strip().splitlines():
+    # партия 5 живёт отдельным файлом (строки «# раздел» — комментарии)
+    extra = [l for l in (here / "catalog3_rows.txt").read_text().splitlines() if l.strip() and not l.startswith("#")]
+    for line in ROWS.strip().splitlines() + extra:
         i, sec, ru, en, scene, review, freq = line.split("|")
         assert sec in SECTIONS and scene in SCENES, line
         items.append(dict(id=i, section=sec, ru=ru, en=en, scene=scene, review=review, freq=int(freq), code=""))

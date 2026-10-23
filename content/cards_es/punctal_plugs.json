@@ -1,0 +1,72 @@
+{
+ "title": "Tapones en los puntos lagrimales",
+ "also": [
+  "tapones lagrimales",
+  "oclusión de puntos lagrimales",
+  "tapones para ojo seco",
+  "punctum plugs"
+ ],
+ "what": "El médico pone unos tapones diminutos en los orificios por donde la lágrima se va hacia la nariz. Así la lágrima se queda más tiempo en el ojo.",
+ "why": "Si tienes ojo seco y las gotas ayudan poco.",
+ "duration": "el procedimiento dura normalmente de 10 a 15 minutos",
+ "tell_doctor": [
+  "Si tienes alergias",
+  "Si te dan seguido conjuntivitis o lagrimeo",
+  "Si tuviste problemas en los conductos de las lágrimas",
+  "Qué gotas ya usas"
+ ],
+ "prepare": [
+  {
+   "title": "Maquillaje",
+   "text": "Llega sin maquillaje en los ojos."
+  },
+  {
+   "title": "Gotas",
+   "text": "Usa tus gotas como siempre y dile al médico cuáles son."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Las gotas que usas",
+  "Lentes de sol"
+ ],
+ "steps": [
+  "El médico te pone gotas de anestesia",
+  "Revisa los puntos lagrimales con un microscopio",
+  "A veces abre un poco el punto lagrimal",
+  "Con unas pinzas coloca el tapón",
+  "Revisa que el tapón quedó bien"
+ ],
+ "feel": [
+  "Normalmente no duele",
+  "Sientes un poco de presión en la esquina del ojo",
+  "Los primeros días puedes sentir el tapón. Luego te acostumbras"
+ ],
+ "after": [
+  "Puedes seguir con tus actividades normales de inmediato",
+  "No te talles las esquinas de los ojos",
+  "Si el tapón molesta o se cayó, dile al médico",
+  "Revisión según el plan del médico"
+ ],
+ "red_flags": [
+  "Lagrimeo fuerte",
+  "Enrojecimiento, hinchazón o pus en la esquina del ojo",
+  "Dolor en la esquina del ojo"
+ ],
+ "faq": [
+  {
+   "q": "¿Los tapones se quedan para siempre?",
+   "a": "Hay temporales, que se absorben solos, y de larga duración. El médico elige el adecuado."
+  },
+  {
+   "q": "¿Se pueden quitar?",
+   "a": "Sí, los de larga duración normalmente se pueden quitar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen los tapones lagrimales. Ven sin maquillaje y lleva tus gotas."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Prueba de hepatitis A",
+ "also": [
+  "hepatitis A",
+  "anti-VHA",
+  "anticuerpos hepatitis A",
+  "prueba de ictericia"
+ ],
+ "what": "Es un análisis de sangre de anticuerpos contra el virus de la hepatitis A. Muestra si estás enfermo ahora o si ya estás protegido.",
+ "why": "Con piel amarilla, orina oscura, cansancio y náuseas; después de estar con una persona enferma, o antes de la vacuna contra la hepatitis A.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Si estuviste en contacto con una persona con hepatitis A",
+  "Si te pusieron la vacuna contra la hepatitis A",
+  "Si hace poco viajaste a otros países",
+  "Si se te ponen amarillos la piel o los ojos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayuno estricto, pero es mejor ir 3 o 4 horas después de una comida ligera, sin grasa. Pregunta en el laboratorio."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Un día antes, sin alcohol ni ejercicio intenso. En la mañana mejor no fumes."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas; él decidirá si hay que cambiar algo antes del análisis."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "Tu registro de vacunas, si lo tienes"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Si tienes síntomas, lávate las manos después de ir al baño y no cocines para otros hasta tener el resultado",
+  "El médico te explica el resultado"
+ ],
+ "red_flags": [
+  "Piel amarilla, mucho cansancio o vómito: ve al médico ese mismo día",
+  "Confusión, mucho sueño o sangrados: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué significa cada tipo de anticuerpo?",
+   "a": "Los anticuerpos IgM suelen indicar que la enfermedad está activa ahora. Los IgG, que ya la tuviste o estás vacunado."
+  },
+  {
+   "q": "¿Cómo se contagia la hepatitis A?",
+   "a": "Por manos sucias, agua y comida. Lavarse las manos y la vacuna protegen bien."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu prueba de hepatitis A. En la mañana mejor no comas grasoso."
+  }
+ ]
+}

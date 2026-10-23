@@ -1,0 +1,78 @@
+{
+ "title": "Vitaminas A e E",
+ "also": [
+  "vitamina A",
+  "retinol",
+  "vitamina E",
+  "tocoferol",
+  "vitaminas lipossolúveis"
+ ],
+ "what": "É um exame de sangue que mostra se o corpo tem vitaminas A e E suficientes.",
+ "why": "Em doenças em que a gordura é mal absorvida: intestino, fígado, pâncreas, depois de cirurgia no estômago. Também com visão ruim ao anoitecer e pele seca.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 1 a 2 semanas",
+ "tell_doctor": [
+  "Se você toma vitaminas ou óleo de peixe",
+  "Se tem doença do intestino, do fígado ou do pâncreas",
+  "Se fez cirurgia no estômago ou no intestino",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente em jejum: 8 a 12 horas sem comer. Na véspera, é muito importante não comer gordura. Água pode."
+  },
+  {
+   "title": "Vitaminas",
+   "text": "Pergunte ao médico se é preciso parar as vitaminas antes do exame."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Nas 24 horas antes, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Lista de vitaminas e suplementos"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local",
+  "O tubo é protegido da luz, porque a luz destrói as vitaminas"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Pode comer logo em seguida",
+  "Não tome doses altas de vitaminas por conta própria. O excesso também faz mal"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho"
+ ],
+ "faq": [
+  {
+   "q": "Por que o resultado demora tanto?",
+   "a": "Essas vitaminas são medidas num equipamento especial, que nem todo laboratório tem. O prazo é informado na coleta."
+  },
+  {
+   "q": "Posso tomar vitaminas para prevenir, sem exame?",
+   "a": "Doses comuns de multivitamínico, com orientação do médico. Doses altas de vitamina A sem exame são perigosas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de vitaminas A e E. Hoje, jantar sem gordura, e depois não coma mais. Água pode."
+  }
+ ]
+}

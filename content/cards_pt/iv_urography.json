@@ -1,0 +1,78 @@
+{
+ "title": "Urografia excretora",
+ "also": [
+  "urografia venosa",
+  "urografia excretora",
+  "raio-X dos rins com contraste"
+ ],
+ "what": "Aplicam contraste na veia e fazem várias radiografias. Dá para ver como os rins eliminam a urina e como ela desce pelas vias urinárias.",
+ "why": "Com pedras, dor lombar, sangue na urina e alterações dos rins, quando o médico escolhe esse método.",
+ "duration": "normalmente 30 a 60 minutos, às vezes mais; o laudo sai no mesmo dia",
+ "tell_doctor": [
+  "Se tem alergia a iodo ou a contraste",
+  "Se tem doença dos rins, diabetes ou doença da tireoide",
+  "Se toma remédio para diabetes. O médico diz o que fazer",
+  "Se pode haver gravidez ou se está amamentando"
+ ],
+ "prepare": [
+  {
+   "title": "Exame",
+   "text": "Muitas vezes, antes do exame, é preciso um exame de sangue de creatinina. Confirme com a clínica."
+  },
+  {
+   "title": "Intestino",
+   "text": "Às vezes recomendam um jantar leve na véspera e pedem para evitar alimentos que dão gases."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come de manhã. O horário exato, a clínica diz."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Se toma remédio para diabetes, pergunte ao médico antes."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exame de creatinina",
+  "Radiografias e ultrassons anteriores",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Você se deita na mesa do raio-X",
+  "Fazem a primeira radiografia sem contraste",
+  "Aplicam o contraste na veia",
+  "Depois de alguns minutos, fazem uma série de radiografias",
+  "Às vezes pedem para ir ao banheiro e radiografam de novo"
+ ],
+ "feel": [
+  "Na aplicação do contraste: calor pelo corpo, gosto de metal na boca",
+  "Às vezes parece que dá vontade de ir ao banheiro. É uma sensação do contraste"
+ ],
+ "after": [
+  "Neste dia, beba mais água, se o médico não restringiu",
+  "O laudo sai normalmente no mesmo dia",
+  "Converse sobre o resultado com o urologista"
+ ],
+ "red_flags": [
+  "Manchas, coceira, inchaço no rosto, dificuldade para respirar: avise a equipe na hora; em casa, ligue para a emergência",
+  "Dor ou inchaço no local da picada",
+  "A urina diminuiu muito"
+ ],
+ "faq": [
+  {
+   "q": "Qual a diferença para a tomografia dos rins?",
+   "a": "É um raio-X com contraste. Hoje muitas vezes se faz tomografia, mas às vezes o médico escolhe a urografia."
+  },
+  {
+   "q": "E se eu tiver alergia a iodo?",
+   "a": "Avise o médico antes, sem falta. Ele decide se pode fazer e se é preciso preparo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a urografia. Leve o exame de creatinina. Comida, como a clínica disse. Sobre remédio de diabetes, pergunte ao médico."
+  }
+ ]
+}

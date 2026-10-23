@@ -1,0 +1,68 @@
+{
+ "title": "Homiladorlikda bachadon bo‘yni UZIsi (servikometriya)",
+ "also": [
+  "servikometriya",
+  "bachadon bo‘ynini o‘lchash",
+  "homiladorlikda bo‘yin UZIsi",
+  "bachadon bo‘ynining uzunligi"
+ ],
+ "what": "Shifokor homiladorlik paytida bachadon bo‘ynining uzunligini ultratovush bilan o‘lchaydi. Qisqa bo‘yin erta tug‘ruq xavfi bo‘lishi mumkin.",
+ "why": "Odatda ikkinchi trimestrda, ko‘pincha ikkinchi skrining bilan birga. Erta tug‘ruq bo‘lgan yoki xavf bor bo‘lsa — tez-tez.",
+ "duration": "odatda 10–15 daqiqa, natija darrov",
+ "tell_doctor": [
+  "Homiladorlik muddatini",
+  "Ilgari erta tug‘ruq yoki tushish bo‘lganmi",
+  "Bachadon bo‘ynida operatsiyalar bo‘lganmi",
+  "Tortishtiruvchi og‘riqlar, ajralmalar yoki qon bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Siydik pufagi",
+   "text": "Odatda ichki datchik bilan qilinadi, pufak bo‘sh bo‘lishi kerak. Tekshiruvdan oldin hojatxonaga boring."
+  },
+  {
+   "title": "Xavfsizlik",
+   "text": "Tekshiruv chaqaloq uchun xavfsiz. Maxsus tayyorgarlik kerak emas."
+  }
+ ],
+ "bring": [
+  "Homiladorning almashinuv kartasi",
+  "Yo‘llanma",
+  "Oldingi UZI xulosalari"
+ ],
+ "steps": [
+  "Belgacha pastini yechib, chalqancha yotasiz",
+  "Datchikka gelli g‘ilof kiygiziladi",
+  "Datchik ehtiyotkorlik bilan, sayoz qinga kiritiladi",
+  "Shifokor bo‘yin uzunligini o‘lchaydi, ba’zan bir necha marta",
+  "Ba’zan ozgina yo‘talishni yoki kuchanishni so‘rashadi — shunda bo‘yin yuklama ostida tekshiriladi"
+ ],
+ "feel": [
+  "Yengil bosim, odatda og‘riqsiz",
+  "Hayajonlanish mumkin — bu normal, yoqimsiz bo‘lsa, shifokorga ayting"
+ ],
+ "after": [
+  "Darrov odatdagi ishlaringizga qaytsa bo‘ladi",
+  "Natija darrov",
+  "Bo‘yin qisqa bo‘lsa, shifokor homiladorlikni qanday qo‘llab-quvvatlashni muhokama qiladi"
+ ],
+ "red_flags": [
+  "Qisqarishlar, qindan qon yoki suv ketishi bo‘lsa — darrov tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Ichki datchik chaqaloqqa zarar qilmaydimi?",
+   "a": "Yo‘q. Datchik bo‘yin yonida turadi va chaqaloqqa tegmaydi. Bu standart usul."
+  },
+  {
+   "q": "Bo‘yin qisqa bo‘lsa-chi?",
+   "a": "Bu tug‘ruq boshlanadi degani emas. Homiladorlikni qo‘llab-quvvatlash usullari bor — shifokor tanlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga servikometriya. Almashinuv kartasini oling. Tekshiruvdan oldin hojatxonaga boring."
+  }
+ ]
+}

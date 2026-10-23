@@ -1,0 +1,87 @@
+{
+ "title": "KT va MRT’da kontrast: buyraklar, allergiya, ko‘krak bilan boqish",
+ "also": [
+  "kontrast",
+  "kontrast modda",
+  "kontrastli KT",
+  "kontrastli MRT",
+  "kontrast va buyraklar"
+ ],
+ "what": "Kontrast: tomir va a’zolar KT yoki MRT’da yaxshiroq ko‘rinishi uchun venaga yuboriladigan dori. KT uchun odatda yodli, MRT uchun gadoliniy asosidagi.",
+ "why": "Shifokorga a’zolar, o‘smalar, yallig‘lanish yoki tomirlarni yaxshiroq ko‘rish kerak bo‘lganda.",
+ "duration": "yuborish bir daqiqa oladi, kontrast buyraklar orqali odatda bir kunda chiqadi",
+ "tell_doctor": [
+  "Ilgari kontrastga reaksiya bo‘lgan bo‘lsa",
+  "Astma yoki kuchli allergiya bo‘lsa",
+  "Buyraklar kasal bo‘lsa yoki gemodializda bo‘lsangiz",
+  "Diabetingiz bo‘lsa va qand tabletkalarini ichsangiz",
+  "Homiladorlik mumkin bo‘lsa yoki ko‘krak bilan boqsangiz",
+  "Qalqonsimon bez kasal bo‘lsa: KT uchun"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlil",
+   "text": "Ko‘pincha kreatininga qon tahlilini so‘rashadi: shu bilan buyraklar tekshiriladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Ba’zan 2–4 soat ovqat yemaslikni so‘rashadi. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Suv",
+   "text": "Shifokor cheklamagan bo‘lsa, oldingi kuni va tekshiruv kuni oddiy suv iching."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Diabet dorilarini ichsangiz, shifokor nima qilishni aytadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Kreatinin tahlili",
+  "Ilgari kontrastga reaksiya bo‘lgan bo‘lsa, epikriz",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Tekshiruvdan oldin allergiya va buyraklar haqida so‘rashadi",
+  "Qo‘lingizdagi venaga ingichka kateter qo‘yishadi",
+  "Suratga olish paytida kontrast kateter orqali yuboriladi",
+  "Tekshiruvdan keyin 15–30 daqiqa o‘tirishni so‘rashadi",
+  "Kateter olinadi"
+ ],
+ "feel": [
+  "KT uchun: tanada issiqlik, metall ta’mi, hojatga borgisi kelgandek tuyuladi",
+  "MRT uchun: odatda hech narsa yoki qo‘lda salqinlik",
+  "Bu his-tuyg‘ular bir daqiqada o‘tadi"
+ ],
+ "after": [
+  "Shifokor cheklamagan bo‘lsa, shu kuni ko‘proq suv iching",
+  "Kontrastdan keyin ko‘krak bilan boqish odatda mumkin: shifokordan aniqlashtiring",
+  "Buyrak kasalliklari bo‘lsa, shifokor tekshiruvdan keyin tahlil tayinlashi mumkin"
+ ],
+ "red_flags": [
+  "Toshma, qichishish, yuz yoki lablar shishsa, nafas olish qiyin bo‘lsa, tez yordamni chaqiring (103)",
+  "Sanchilgan joyda kuchli og‘riq, shish yoki qizarish",
+  "Keyingi kunlarda siydik ancha kamaysa"
+ ],
+ "faq": [
+  {
+   "q": "Kontrastdan keyin ko‘krak bilan boqsa bo‘ladimi?",
+   "a": "Odatda ha, sutga juda oz o‘tadi. Shubhangiz bo‘lsa, shifokor bilan muhokama qiling."
+  },
+  {
+   "q": "Kontrastga allergiyam bo‘lgan bo‘lsa nima qilish kerak?",
+   "a": "Albatta oldindan ayting. Shifokor tekshiruvni o‘zgartirish yoki oldindan dorilar berishni hal qiladi."
+  },
+  {
+   "q": "Kontrast buyraklarga zararlimi?",
+   "a": "Sog‘lom buyraklar uchun xavf juda kichik. Buyrak kasalliklarida shifokor oldindan foyda va xavfni baholaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga kontrastli tekshiruv. Kreatinin tahlilini oling va shifokor cheklamagan bo‘lsa, suv iching."
+  }
+ ]
+}

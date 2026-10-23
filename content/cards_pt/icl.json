@@ -1,0 +1,86 @@
+{
+ "title": "Lente fácica (ICL)",
+ "also": [
+  "ICL",
+  "lente fácica",
+  "lente implantável",
+  "lente no lugar do laser"
+ ],
+ "what": "O cirurgião coloca uma lente fina dentro do olho, e o seu cristalino continua no lugar. Assim, corrige miopia alta e outros problemas de grau.",
+ "why": "Quando é preciso corrigir o grau, mas o laser não serve: miopia alta ou córnea fina.",
+ "duration": "a cirurgia leva normalmente de 15 a 30 minutos por olho; em geral, você volta para casa no mesmo dia",
+ "tell_doctor": [
+  "Todos os remédios: o médico diz se precisa mudar algo",
+  "Alergias",
+  "Se você usa lentes de contato",
+  "Se já teve doenças ou cirurgias nos olhos",
+  "Se está grávida ou amamentando"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes da cirurgia fazem um exame completo dos olhos. As lentes de contato são tiradas antes. A clínica vai dizer o prazo."
+  },
+  {
+   "title": "Comida",
+   "text": "Se houver sedação, a clínica vai dizer quanto tempo ficar sem comer."
+  },
+  {
+   "title": "Maquiagem",
+   "text": "Sem maquiagem e sem creme no rosto no dia da cirurgia."
+  },
+  {
+   "title": "Transporte",
+   "text": "Volte para casa só com acompanhante."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Resultados dos exames",
+  "Lista de remédios",
+  "Óculos escuros",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Pingam colírios para dilatar a pupila e anestesiar",
+  "Às vezes dão um calmante na veia",
+  "As pálpebras são mantidas abertas com um afastador",
+  "O cirurgião faz um microcorte",
+  "Coloca a lente dobrada, que se abre dentro do olho",
+  "O olho é coberto com um protetor"
+ ],
+ "feel": [
+  "Durante a cirurgia: luz e pressão, não dor",
+  "Depois, leve ardência e lacrimejamento",
+  "A visão costuma melhorar já nos primeiros dias"
+ ],
+ "after": [
+  "Revisão normalmente no dia seguinte",
+  "Colírios exatamente como no esquema",
+  "Não coce nem molhe o olho por alguns dias",
+  "Sem piscina e sem esporte até o médico liberar",
+  "O outro olho normalmente é operado depois"
+ ],
+ "red_flags": [
+  "Dor forte no olho, enjoo ou vômito: procure o médico com urgência",
+  "Piora repentina da visão",
+  "Pus ou vermelhidão forte",
+  "Dor de cabeça forte com dor no olho: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dá para tirar a lente?",
+   "a": "Sim, se for preciso, a lente pode ser retirada ou trocada."
+  },
+  {
+   "q": "Dá para sentir a lente no olho?",
+   "a": "Não, normalmente não se sente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia de ICL. Sem maquiagem; leve óculos escuros e um acompanhante."
+  }
+ ]
+}

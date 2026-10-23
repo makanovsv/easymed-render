@@ -1,0 +1,75 @@
+{
+ "title": "Controle da dor em casa depois da cirurgia",
+ "also": [
+  "analgésico depois da cirurgia",
+  "dor depois da cirurgia",
+  "dor depois da alta",
+  "como aliviar a dor depois da cirurgia"
+ ],
+ "what": "Em casa, a dor depois da cirurgia é aliviada com comprimidos conforme o esquema do médico. Quem está com a dor bem controlada levanta e se recupera mais rápido.",
+ "why": "Depois da alta, enquanto o corte ou a articulação cicatriza.",
+ "duration": "normalmente alguns dias ou semanas; a dor vai diminuindo aos poucos",
+ "tell_doctor": [
+  "Quais analgésicos já ajudaram ou não caíram bem",
+  "Doenças do estômago, dos rins ou do fígado",
+  "Todos os remédios que você toma",
+  "Se você dirige ou trabalha com máquinas"
+ ],
+ "prepare": [
+  {
+   "title": "Esquema",
+   "text": "Antes da alta, peça para escreverem: o que tomar, quanto, em que horário e por quanto tempo."
+  },
+  {
+   "title": "Farmácia",
+   "text": "Compre os analgésicos antes, para não ficar sem eles à noite."
+  },
+  {
+   "title": "Ajuda",
+   "text": "Medidas simples também ajudam: gelo, perna ou braço elevado, posição confortável."
+  }
+ ],
+ "bring": [
+  "Relatório de alta com o esquema de analgesia",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Tome o analgésico no horário, não só quando já dói muito",
+  "Anote o horário de cada dose para não se confundir",
+  "Não passe da dose e não junte remédios parecidos por conta própria",
+  "Coloque gelo enrolado num pano, se o médico permitiu",
+  "Mexa-se aos poucos. Isso também diminui a dor",
+  "Quando a dor diminuir, a dose é reduzida conforme o médico orientar"
+ ],
+ "feel": [
+  "A dor costuma ser mais forte nos primeiros dias e depois vai diminuindo",
+  "Alguns analgésicos dão sonolência ou prisão de ventre"
+ ],
+ "after": [
+  "Se a dor não passa ou aumenta, avise o cirurgião",
+  "Não dirija se o remédio der sono",
+  "Na prisão de ventre, beba mais líquidos e se mexa mais; pergunte ao médico sobre um remédio"
+ ],
+ "red_flags": [
+  "A dor aumentou de repente ou mudou",
+  "Febre acima de 38 graus, corte vermelho, quente ou com pus",
+  "Fezes pretas ou vômito com sangue: ligue para a emergência",
+  "Sonolência forte ou respiração lenta: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso tomar analgésico com bebida alcoólica?",
+   "a": "Não. Álcool com analgésicos é perigoso para o fígado, o estômago e a respiração."
+  },
+  {
+   "q": "E se a dor não passar com os comprimidos?",
+   "a": "Não aumente a dose por conta própria. Ligue para o cirurgião ou para a clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Hora do analgésico do esquema. Anote a dose para não se confundir."
+  }
+ ]
+}

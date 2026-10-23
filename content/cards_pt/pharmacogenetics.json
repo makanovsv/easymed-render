@@ -1,0 +1,65 @@
+{
+ "title": "Teste farmacogenético (varfarina, clopidogrel)",
+ "also": [
+  "farmacogenética",
+  "teste genético para remédios",
+  "sensibilidade à varfarina",
+  "teste do clopidogrel"
+ ],
+ "what": "O exame mostra como os seus genes influenciam o efeito de alguns remédios. Isso ajuda o médico a escolher o remédio e a dose.",
+ "why": "Antes de começar ou ao ajustar remédios que afinam o sangue e alguns outros; se o remédio não faz efeito ou dá efeitos colaterais.",
+ "duration": "a coleta leva normalmente 5 minutos, o resultado sai normalmente em alguns dias ou 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos os remédios que você toma agora",
+  "Se algum remédio deu efeito colateral forte ou sangramento",
+  "Se você recebeu sangue ou fez transplante de medula óssea"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não é preciso jejum. Se for colhido swab da bochecha, 30 minutos antes não coma, não beba e não fume."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Os remédios normalmente não afetam o resultado deste teste."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "A enfermeira colhe sangue da veia em um tubo",
+  "Às vezes, em vez de sangue, passam um cotonete na parte de dentro da bochecha",
+  "Se colheram sangue, colocam um algodão no local",
+  "A amostra recebe o nome e vai para o laboratório"
+ ],
+ "feel": [
+  "Uma picada rápida ou só o toque do cotonete na bochecha",
+  "O exame é feito uma vez só. Não precisa repetir"
+ ],
+ "after": [
+  "O resultado sai normalmente em alguns dias ou 1 a 2 semanas",
+  "Leve o resultado ao médico. Ele decide se troca o remédio ou a dose",
+  "Guarde o laudo: ele vale para a vida toda",
+  "Não mude a dose dos remédios por conta própria pelo resultado"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Esse teste substitui os exames de coagulação?",
+   "a": "Não. O teste genético ajuda a escolher a dose inicial, mas o controle da coagulação continua necessário."
+  },
+  {
+   "q": "Quantas vezes preciso fazer?",
+   "a": "Uma vez. Os genes não mudam, o resultado vale a vida toda."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o teste farmacogenético. Leve a lista de todos os remédios que você toma."
+  }
+ ]
+}

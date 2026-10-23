@@ -1,0 +1,70 @@
+{
+ "title": "COVID-19 va grippga ekspress-test",
+ "also": [
+  "kovidga ekspress-test",
+  "grippga test",
+  "antigen test",
+  "tezkor test"
+ ],
+ "what": "Hamshira burunga yumshoq tayoqcha kiritadi. Test 15–20 daqiqada kovid va gripp virusini ko‘rsatadi.",
+ "why": "Harorat, yo‘tal, burun oqishi, tomoq og‘rig‘ida, shamollash sababini tez tushunish uchun.",
+ "duration": "surtma taxminan bir daqiqa, natija odatda 15–20 daqiqada",
+ "tell_doctor": [
+  "Belgilar qachon boshlangan",
+  "Burundan tez-tez qon ketsa yoki burunda operatsiya bo‘lgan bo‘lsa",
+  "Surunkali kasalliklar bo‘lsa yoki homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Burun",
+   "text": "Bir necha soat oldin burunga tomchi va sprey tomizmang, uni chaymang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda 30–60 daqiqa oldin ovqat yemang va ichmang. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Test kasallikning birinchi kunlarida eng yaxshi ishlaydi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Hujjat",
+  "Niqob"
+ ],
+ "steps": [
+  "O‘tirasiz va boshingizni biroz orqaga tashlaysiz",
+  "Tayoqchani burun teshigiga kiritib, bir necha soniya aylantirishadi",
+  "Tayoqchani eritmaga tushirib, test-tasmaga tomizishadi",
+  "15–20 daqiqadan keyin natijaga qarashadi"
+ ],
+ "feel": [
+  "Qitiqlaydi, aksirgingiz kelishi mumkin, ko‘zga yosh keladi"
+ ],
+ "after": [
+  "Test manfiy chiqsa-yu, kasal bo‘lsangiz: uni takrorlashi yoki PZR qilishlari mumkin",
+  "Kasal bo‘lganingizda kamroq muloqot qiling, niqob taqing, xonani shamollating",
+  "Davoni shifokor tayinlaydi"
+ ],
+ "red_flags": [
+  "Nafas olish qiyin, ko‘krakda og‘riq, ong chalkashsa, tez yordamni chaqiring (103)",
+  "Dorilar bilan tushmaydigan 39 dan yuqori harorat bo‘lsa, shoshilinch shifokorga boring"
+ ],
+ "faq": [
+  {
+   "q": "Ekspress-test PZR’dan nimasi bilan farq qiladi?",
+   "a": "Ekspress-test tezroq, lekin aniqligi pastroq. PZR virusni oz miqdorda ham ushlaydi."
+  },
+  {
+   "q": "Test manfiy bo‘lsa, kovid emasmi?",
+   "a": "Doim ham emas. Kasallikning birinchi soatlarida virus kam bo‘lishi mumkin. Shifokor takrorlash yoki PZR tayinlashi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada ekspress-test. Burunga tomizmang va surtmadan 30–60 daqiqa oldin ovqat yemang."
+  }
+ ]
+}

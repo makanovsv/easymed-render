@@ -1,0 +1,78 @@
+{
+ "title": "Consulta por zumbido en los oídos",
+ "also": [
+  "zumbido en los oídos",
+  "tinnitus",
+  "acúfenos",
+  "me zumba el oído",
+  "pitido en el oído"
+ ],
+ "what": "El otorrino averigua de dónde viene el zumbido y revisa tu audición. Luego elige un tratamiento o formas de que el ruido te moleste menos.",
+ "why": "Si tienes pitido, zumbido o ruido en uno o en los dos oídos.",
+ "duration": "la consulta suele durar de 30 a 60 minutos; la prueba de audición, unos 20 minutos",
+ "tell_doctor": [
+  "Cuándo empezó el zumbido y en qué oído",
+  "Si hubo un ruido fuerte, un golpe o un resfriado",
+  "Si oyes menos o tienes mareos",
+  "Qué medicamentos tomas",
+  "Si tienes presión alta"
+ ],
+ "prepare": [
+  {
+   "title": "Notas",
+   "text": "Anota cuándo el zumbido es más fuerte y qué te ayuda."
+  },
+  {
+   "title": "Ruido fuerte",
+   "text": "Un día antes de la prueba de audición evita música fuerte y lugares ruidosos."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Lleva la lista de todos tus medicamentos. Algunos afectan la audición."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "La lista de tus medicamentos",
+  "Resultados de pruebas de audición anteriores"
+ ],
+ "steps": [
+  "El médico te pregunta sobre el zumbido",
+  "Revisa tus oídos",
+  "Revisa tu audición en una cabina sin ruido",
+  "A veces revisa cómo funciona el tímpano",
+  "Si hace falta, pide una resonancia o análisis",
+  "Te explica el plan y cómo vivir con el zumbido"
+ ],
+ "feel": [
+  "La revisión y la prueba no duelen",
+  "En la cabina hay que concentrarse en sonidos muy bajitos"
+ ],
+ "after": [
+  "Evita ruidos fuertes y usa tapones en lugares ruidosos",
+  "Un sonido de fondo en la noche puede ayudarte a dormir",
+  "La siguiente consulta, según el plan del médico"
+ ],
+ "red_flags": [
+  "El zumbido empezó de repente junto con pérdida de audición: ve al médico en menos de un día",
+  "Zumbido con mareo fuerte y vómito",
+  "Zumbido que late como el pulso en un oído",
+  "Debilidad en un brazo o en la cara, o problemas para hablar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿El zumbido se quita?",
+   "a": "A veces se quita y a veces se queda. Hay formas de que se note menos."
+  },
+  {
+   "q": "¿El zumbido puede ser por estrés?",
+   "a": "El estrés y dormir poco muchas veces lo empeoran. Pero la causa la debe buscar el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta por el zumbido en los oídos. Lleva la lista de tus medicamentos y evita la música fuerte."
+  }
+ ]
+}

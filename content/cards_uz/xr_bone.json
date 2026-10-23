@@ -1,0 +1,66 @@
+{
+ "title": "Suyak va bo‘g‘imlar rentgeni",
+ "also": [
+  "bo‘g‘im rentgeni",
+  "qo‘l rentgeni",
+  "oyoq rentgeni",
+  "umurtqa rentgeni",
+  "suyak surati"
+ ],
+ "what": "Rentgen nurlari yordamida suyak va bo‘g‘imlar surati. Sinishlar, yoriqlar, bo‘g‘imlardagi o‘zgarishlarni ko‘rsatadi.",
+ "why": "Jarohatdan keyin, bo‘g‘imlar yoki belda og‘riqda, sinish bitishini nazorat qilish uchun.",
+ "duration": "odatda 5–15 daqiqa",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Qimirlash og‘risa — yotishga yoki turishga yordam berishadi",
+  "Operatsiyadan keyin suyakda metall bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Qo‘l, oyoq va bo‘g‘imlar uchun kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Bel va dumg‘aza",
+   "text": "Ba’zan bir kun oldin gaz chaqiradigan ovqatni kamroq yeyish va ichakni tozalash so‘raladi. Klinikadan aniqlang."
+  },
+  {
+   "title": "Metall",
+   "text": "Suratga olinadigan tana qismidan taqinchoqlar, soat va barcha metalli narsalarni yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Tananing shu qismining oldingi suratlari — solishtirish uchun"
+ ],
+ "steps": [
+  "Kerakli tana qismini ochasiz",
+  "Laborant uni stol yoki plastinaga kerakli holatda yotqizadi",
+  "Tananing qolgan qismi himoya fartugi bilan yopilishi mumkin",
+  "Surat olinayotganda bir necha soniya qimirlamay turish kerak",
+  "Odatda turli holatda 2 ta surat olinadi"
+ ],
+ "feel": [
+  "Suratning o‘zi sezilmaydi",
+  "Jarohatdan keyin holatni saqlash og‘riqli bo‘lishi mumkin — laborantga ayting"
+ ],
+ "after": [
+  "Darrov ishlaringizga qaytsangiz bo‘ladi",
+  "Surat va xulosa odatda o‘sha kuni",
+  "Natija bilan yo‘llanma bergan shifokorga boring"
+ ],
+ "red_flags": [
+  "Jarohatdan keyin qo‘l yoki oyoq ko‘karsa, karaxt bo‘lsa, qattiq shishsa yoki suyak sezilarli qiyshaysa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Rentgenda bog‘lamlar va menisk ko‘rinadimi?",
+   "a": "Yo‘q. Rentgen suyaklarni ko‘rsatadi. Bog‘lamlar, menisklar va tog‘aylar MRT yoki UZIda yaxshiroq ko‘rinadi."
+  },
+  {
+   "q": "Nega ikkita surat olinadi?",
+   "a": "Bitta suratda sinish yashirinib qolishi mumkin. Ikki holat aniq tasvir beradi."
+  }
+ ],
+ "reminders": []
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Cultivo nasal para estafilococo dorado",
+ "also": [
+  "exudado nasal",
+  "cultivo de nariz",
+  "portador de estafilococo",
+  "Staphylococcus aureus en nariz"
+ ],
+ "what": "Es una muestra con hisopo de la nariz en la que se busca el estafilococo dorado y se revisa qué medicamentos funcionan contra él.",
+ "why": "Antes de una cirugía programada, para personal de salud, con granos de pus o forúnculos frecuentes, o cuando lo piden las autoridades de salud.",
+ "duration": "la toma dura menos de un minuto; el resultado suele estar en 3 a 5 días",
+ "tell_doctor": [
+  "Si tomaste antibióticos en las últimas semanas",
+  "Si usas pomadas o gotas para la nariz",
+  "Si te salen forúnculos con frecuencia",
+  "Si pronto tienes una cirugía programada"
+ ],
+ "prepare": [
+  {
+   "title": "Nariz",
+   "text": "Unas horas antes de la toma no te laves la nariz ni te pongas gotas o pomadas, si el médico no dijo otra cosa."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "Es mejor hacer el análisis antes de empezar antibióticos. Si ya los tomas, no los dejes por tu cuenta y díselo al médico."
+  },
+  {
+   "title": "En la mañana",
+   "text": "Normalmente la muestra se toma en la mañana. Puedes desayunar, pero no hagas gárgaras. Pregunta en el laboratorio."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu identificación"
+ ],
+ "steps": [
+  "Te sientas e inclinas un poco la cabeza hacia atrás",
+  "La enfermera mete un hisopo poco profundo en una fosa nasal",
+  "Gira el hisopo por las paredes de la nariz",
+  "Hace lo mismo en la otra fosa nasal",
+  "El hisopo se pone en un tubo"
+ ],
+ "feel": [
+  "Da cosquillas y pueden dar ganas de estornudar",
+  "A veces lloran los ojos, pero se quita de inmediato"
+ ],
+ "after": [
+  "Puedes volver a tus actividades de inmediato",
+  "Si encuentran estafilococo y no tienes molestias, no siempre hace falta tratamiento: lo decide el médico",
+  "No empieces pomadas con antibiótico por tu cuenta"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Tener estafilococo en la nariz es una enfermedad?",
+   "a": "Muchas veces no. Muchas personas sanas lo tienen en la nariz sin daño. El tratamiento solo hace falta en algunos casos."
+  },
+  {
+   "q": "¿Para qué este análisis antes de una cirugía?",
+   "a": "Para bajar el riesgo de infección de la herida. Si encuentran el microbio, el médico puede indicar un tratamiento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 6,
+   "text": "Hoy es tu exudado nasal. Antes de la toma no te laves la nariz ni te pongas gotas."
+  }
+ ]
+}

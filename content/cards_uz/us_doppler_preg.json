@@ -1,0 +1,69 @@
+{
+ "title": "Homiladorlikda doppler",
+ "also": [
+  "homiladorlikda doppler",
+  "dopplerometriya",
+  "homila qon oqimi UZIsi",
+  "homila doppleri"
+ ],
+ "what": "Shifokor ultratovush bilan kindik tizimchasida, bachadon va chaqaloq tomirlarida qon qanday oqayotganini ko‘radi. Shunda unga oziq va kislorod yetarli-yetarli emasligi ko‘rinadi.",
+ "why": "Ko‘pincha 2–3 trimestrdagi skrining bilan birga. Bo‘y o‘sishdan orqada qolganda, bosim yuqori bo‘lganda, diabetda, egizaklarda — tez-tez.",
+ "duration": "odatda 15–30 daqiqa, natija darrov",
+ "tell_doctor": [
+  "Homiladorlik muddatini",
+  "Bosim ko‘tarilgan yoki shishlar bo‘lsa",
+  "Diabet yoki buyrak kasalliklari bo‘lsa",
+  "So‘nggi kunlarda chaqaloq qanday qimirlayotganini"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Ovqatlansa bo‘ladi, siydik pufagini to‘ldirish shart emas."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qorinni oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Homiladorning almashinuv kartasi",
+  "Yo‘llanma",
+  "Oldingi UZI va dopplerlar"
+ ],
+ "steps": [
+  "Chalqancha yoki biroz yonboshga yotasiz",
+  "Qoringa gel suriladi",
+  "Shifokor datchik bilan kindik tizimchasi va tomirlarni topadi",
+  "Qon oqimi rejimi yoqiladi — tomirlar shovqinini eshitishingiz mumkin",
+  "Shifokor bir necha tomirda ko‘rsatkichlarni o‘lchaydi"
+ ],
+ "feel": [
+  "Salqin gel, qoringa yengil bosim",
+  "Chalqancha yotganda bosh aylanishi mumkin — shifokorga ayting, sizni yonboshga o‘girishadi"
+ ],
+ "after": [
+  "Darrov odatdagi ishlaringizga qaytsa bo‘ladi",
+  "Natija odatda darrov",
+  "Ko‘rsatkichlar o‘zgargan bo‘lsa, shifokor takrorlash yoki tez-tez kuzatish kerak-kerakmasligini hal qiladi"
+ ],
+ "red_flags": [
+  "Chaqaloq sezilarli kamroq qimirlasa yoki qimirlamay qo‘ysa — darrov shifokorga yoki 103 ga",
+  "Qon, qorinda og‘riq, suv ketishi bo‘lsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Doppler chaqaloq uchun zararlimi?",
+   "a": "Yo‘q, tibbiy ko‘rsatma bo‘lganda tekshiruv xavfsiz hisoblanadi. U qisqa va maqsadli qilinadi."
+  },
+  {
+   "q": "Dopplerda eshitiladigan tovush nima?",
+   "a": "Bu tomirlardagi qon shovqini va chaqaloqning yurak urishi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga homiladorlikda doppler. Tayyorgarlik kerak emas. Almashinuv kartasini oling."
+  }
+ ]
+}

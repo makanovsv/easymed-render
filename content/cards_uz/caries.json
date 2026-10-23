@@ -1,0 +1,64 @@
+{
+ "title": "Kariesni davolash",
+ "also": [
+  "plomba",
+  "plomba qo‘ydirish",
+  "tishni davolash"
+ ],
+ "what": "Tish shifokori tishning yemirilgan qismini olib tashlaydi va kovakni plomba bilan yopadi. Odatda bu mahalliy og‘riqsizlantirish ostida qilinadi.",
+ "why": "Tishda karies, ya’ni emal va uning ostidagi to‘qimalarning yemirilishi bo‘lganda. Bu ko‘rikda yoki suratda ko‘rinadi.",
+ "duration": "odatda bitta tish uchun 30–60 daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiruvchi preparatlar",
+  "Yurak kasalliklari, bosim, qandli diabet",
+  "Og‘riqsizlantiruvchi va dorilarga allergiya",
+  "Homiladorlik yoki ko‘krak bilan boqish"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Tashrifdan 1–2 soat oldin ovqatlaning: og‘riqsizlantirgandan keyin ovqatlanish noqulay bo‘ladi."
+  },
+  {
+   "title": "Tishlar",
+   "text": "Qabuldan oldin tishlaringizni tozalang."
+  }
+ ],
+ "bring": [
+  "Tish suratlari, agar olingan bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor tishni ko‘radi va kerak bo‘lsa, surat oladi",
+  "Og‘riqsizlantiruvchi ukol qilinadi: bir necha daqiqadan keyin tish va lab uyishadi",
+  "Ba’zan tish quruq turishi uchun uni yupqa rezina plastina bilan ajratishadi",
+  "Yemirilgan to‘qimalar bur bilan olinadi",
+  "Kovak plomba bilan qatlam-qatlam to‘ldiriladi va lampa bilan yoritiladi",
+  "Plomba silliqlanadi va tishlam tekshiriladi"
+ ],
+ "feel": [
+  "Ukol qisqa, keyin tish og‘rimaydi",
+  "Burning shovqini va titrashi, tishga bosim",
+  "Og‘risa shifokorga ayting: og‘riqsizlantirishni qo‘shishadi"
+ ],
+ "after": [
+  "Lab va yonoq uyushgan paytda, odatda 2–3 soat, ovqat yemang: yonog‘ingizni tishlab olishingiz mumkin",
+  "Lampa bilan yoritilgan plomba darhol qattiq bo‘ladi. Boshqa plombalarda qachon ovqatlanish mumkinligini shifokor aytadi",
+  "Bir necha kun tish sovuqqa sezgir bo‘lishi mumkin",
+  "Tishlar jipslashganda plomba xalaqit bersa, to‘g‘rilash uchun keling"
+ ],
+ "red_flags": [
+  "Yonoq yoki milkning shishishi, harorat",
+  "Zirqiratib turadigan kuchli og‘riq o‘tmasa va kuchaysa"
+ ],
+ "faq": [
+  {
+   "q": "Homiladorlikda tishni davolash mumkinmi?",
+   "a": "Ha, odatda mumkin, kariesni bosib qo‘ymaslik kerak. Shifokorga muddatni ayting: u xavfsiz og‘riqsizlantirishni tanlaydi."
+  },
+  {
+   "q": "Davolagandan keyin plomba nega og‘riydi?",
+   "a": "Bir necha kun yengil sezgirlik normal. Og‘riq kuchli bo‘lsa yoki kuchaysa, shifokorga ko‘rining."
+  }
+ ],
+ "reminders": []
+}

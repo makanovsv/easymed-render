@@ -1,0 +1,73 @@
+{
+ "title": "Manometría anorrectal",
+ "also": [
+  "manometría del recto",
+  "manometría anorrectal",
+  "revisión de los músculos del ano"
+ ],
+ "what": "Se introduce por el ano una sonda delgada y suave. Mide cómo trabajan los músculos del recto y del ano.",
+ "why": "Con estreñimiento, con pérdida del control de las heces, antes de algunas operaciones y después del parto, si hay estas molestias.",
+ "duration": "normalmente de 30 a 45 minutos; el resultado, al momento o en unos días",
+ "tell_doctor": [
+  "Qué medicamentos tomas",
+  "Si te operaron del recto",
+  "Si tienes fisura o hemorroides con dolor",
+  "Si puedes estar embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Limpieza",
+   "text": "Muchas veces se pone un enema pequeño de 1 a 2 horas antes de la prueba. La clínica te dirá cómo."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta dieta especial. Pregunta en la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "A veces piden no tomar laxantes y otros medicamentos. No los suspendas por tu cuenta: pregunta al médico."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de tus medicamentos",
+  "Los resultados de estudios anteriores"
+ ],
+ "steps": [
+  "Te acuestas del lado izquierdo, con las rodillas al pecho",
+  "El médico introduce por el ano una sonda delgada con gel",
+  "Te piden que te relajes, que aprietes los músculos y que pujes",
+  "A veces inflan un globito pequeño en el recto y te preguntan qué sientes",
+  "Retiran la sonda"
+ ],
+ "feel": [
+  "Es incómodo, pero normalmente no duele",
+  "Puedes sentir ganas de ir al baño",
+  "Sentir pena es normal; el médico hace esto todos los días"
+ ],
+ "after": [
+  "Puedes volver de inmediato a tus actividades",
+  "Te explican el resultado al momento o en unos días",
+  "La molestia leve pasa rápido"
+ ],
+ "red_flags": [
+  "Sangrado por el ano que no se detiene",
+  "Dolor fuerte de abdomen o fiebre de más de 38"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente no. La sonda es delgada; el procedimiento es más bien incómodo."
+  },
+  {
+   "q": "¿Para qué hay que pujar durante la prueba?",
+   "a": "Así el médico ve si los músculos trabajan bien cuando vas al baño."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes la manometría anorrectal. Revisa si necesitas un enema antes de la prueba y a qué hora."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Ayuno antes de la anestesia: qué se puede y cuándo",
+ "also": [
+  "ayuno antes de la cirugía",
+  "puedo beber antes de la anestesia",
+  "en ayunas antes de una operación",
+  "cuándo comer por última vez antes de la cirugía"
+ ],
+ "what": "Antes de la anestesia el estómago debe estar vacío. Es más seguro: dormido, el contenido del estómago no pasa a los pulmones.",
+ "why": "Antes de cualquier operación o procedimiento con anestesia o sedación.",
+ "duration": "normalmente unas 6 horas sin comer y unas 2 horas sin agua; la clínica te dirá la hora exacta",
+ "tell_doctor": [
+  "Si tienes diabetes: cómo manejar la comida y los medicamentos",
+  "Si tomas medicamentos en la mañana",
+  "Si tienes acidez o regurgitación con frecuencia",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente la última comida es unas 6 horas antes de la anestesia. Lo graso y la carne, todavía antes. Pregunta en la clínica."
+  },
+  {
+   "title": "Agua",
+   "text": "El agua natural sin gas muchas veces se puede hasta unas 2 horas antes. La leche, los jugos con pulpa y el café con leche cuentan como comida."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. El médico dirá cuáles pastillas tomar en la mañana con un sorbo de agua."
+  },
+  {
+   "title": "Otros",
+   "text": "En la mañana no mastiques chicle ni fumes. El día anterior no tomes alcohol."
+  }
+ ],
+ "bring": [
+  "La hora de la última comida y del último líquido que te dijo la clínica",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "La clínica te dice la hora exacta de la última comida y del último líquido",
+  "En la noche cenas ligero",
+  "Después de la hora indicada ya no comes",
+  "Tomas agua natural hasta la hora que te permitieron",
+  "En la mañana tomas solo los medicamentos que permitió el médico",
+  "En la clínica te preguntarán cuándo comiste y bebiste por última vez: responde con la verdad"
+ ],
+ "feel": [
+  "Puedes tener ganas de comer y beber; es normal",
+  "A veces hay un poco de mareo o dolor de cabeza por el hambre"
+ ],
+ "after": [
+  "Si comiste o bebiste sin querer, díselo enseguida al médico",
+  "Pueden posponer la operación; es por tu seguridad",
+  "Después de la operación empiezas a comer y a beber cuando el médico lo permita"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo lavarme los dientes en la mañana antes de la cirugía?",
+   "a": "Sí. Solo no tragues el agua."
+  },
+  {
+   "q": "¿Por qué tanta exigencia?",
+   "a": "Con la anestesia se debilitan los reflejos de protección. La comida del estómago puede pasar a los pulmones, y eso es peligroso."
+  },
+  {
+   "q": "¿Y si pospusieron la operación un día?",
+   "a": "Pregunta en el servicio. Normalmente permiten comer y el ayuno empieza de nuevo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes anestesia. Comida y agua, solo hasta la hora que dijo la clínica. Los medicamentos de la mañana, como permitió el médico."
+  }
+ ]
+}

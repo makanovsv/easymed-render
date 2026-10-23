@@ -1,0 +1,72 @@
+{
+ "title": "Ichak UZIsi",
+ "also": [
+  "ichak UZIsi",
+  "yo‘g‘on ichak UZIsi",
+  "ingichka ichak UZIsi",
+  "ichak ultratovushi"
+ ],
+ "what": "Shifokor ultratovush yordamida qorin orqali ichak devorlarini ko‘radi. Yallig‘lanish, qalinlashish va ichak ilmoqlari ko‘rinadi.",
+ "why": "Qorin og‘riganda, appenditsit gumon qilinganda, ichak yallig‘lanishida, surunkali ichak kasalliklarini kuzatish uchun, bolalarda — og‘riq va qusishda.",
+ "duration": "odatda 20–30 daqiqa, xulosa odatda darrov",
+ "tell_doctor": [
+  "Qorin qayerda va qachondan beri og‘rishini",
+  "Qorinda operatsiyalar bo‘lganmi",
+  "Yaqinda kolonoskopiya yoki bariyli rentgen qilingan bo‘lsa",
+  "Ichak kasalligi bo‘lsa — xulosalarni olib keling"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda 4–6 soat ovqat yemaslik kerak. Ba’zan tekshiruvdan oldin suv ichishni so‘rashadi. Klinikadan so‘rang."
+  },
+  {
+   "title": "Gazlar",
+   "text": "Bir kun oldin gaz hosil qiluvchi ovqat kamroq: karam, dukkaklilar, gazli ichimliklar, qora non."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Dori ichsangiz — shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi UZI, kolonoskopiya va tahlillar",
+  "Sochiq yoki salfetkalar"
+ ],
+ "steps": [
+  "Chalqancha yotib, qorinni ochasiz",
+  "Teriga gel suriladi",
+  "Datchik butun qorin bo‘ylab yuritiladi, ba’zan biroz bosiladi",
+  "Ba’zan yonboshga o‘girilishni so‘rashadi",
+  "Gel salfetka bilan artiladi"
+ ],
+ "feel": [
+  "Salqin gel, datchikning bosimi",
+  "Joy og‘riyotgan bo‘lsa, bosim yoqimsiz bo‘lishi mumkin — shifokorga ayting"
+ ],
+ "after": [
+  "Darrov yeb-ichsa bo‘ladi",
+  "Xulosa odatda darrov",
+  "Shifokor qo‘shimcha tekshiruvlar buyurishi mumkin"
+ ],
+ "red_flags": [
+  "Qorinda kuchayib boruvchi og‘riq, qusish, harorat bo‘lsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Ichak UZIsi kolonoskopiyani o‘rnini bosadimi?",
+   "a": "Yo‘q. UZI ichak devorini tashqaridan ko‘radi, lekin ichkaridagi kichik polipalarni ko‘rmaydi."
+  },
+  {
+   "q": "UZIdan oldin nega ovqat yemaslik kerak?",
+   "a": "Ovqatdan keyin ichakda gaz ko‘proq bo‘ladi, u esa ultratovushga xalaqit beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ichak UZIsi. Bugun karam, dukkaklilar va gazli ichimliksiz. Klinika aytgan vaqtda ovqat yemang."
+  }
+ ]
+}

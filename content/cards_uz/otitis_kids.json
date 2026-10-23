@@ -1,0 +1,79 @@
+{
+ "title": "Bolada otit: davolash va kuzatuv",
+ "also": [
+  "bolada otit",
+  "bolaning qulog‘i og‘riydi",
+  "quloq yallig‘lanishi",
+  "o‘rta otit"
+ ],
+ "what": "Shifokor bolaning qulog‘ini ko‘radi va yallig‘lanishni qanday davolashni hal qiladi. Ko‘pincha bu og‘riqsizlantirish va kuzatuv, ba’zan antibiotiklar.",
+ "why": "Bolaning qulog‘i og‘riganda, harorati ko‘tarilganda, yomon uxlaganda, qulog‘iga tegib turganda yoki qulog‘idan suyuqlik oqqanda.",
+ "duration": "qabul odatda 15–30 daqiqa, otit odatda bir necha kunda o‘tadi",
+ "tell_doctor": [
+  "Og‘riq qachon boshlangan va harorat bo‘lganmi",
+  "Quloqdan suyuqlik oqqanmi",
+  "Avval otitlar bo‘lganmi va qanchalik tez-tez",
+  "Qanday dorilar allaqachon berilgan",
+  "Bolada allergiyalar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Qabuldan oldin vazniga qarab dozada bolalar uchun haroratni tushiruvchi dori berishingiz mumkin. Nima berganingizni shifokorga ayting."
+  },
+  {
+   "title": "Tomchilar",
+   "text": "Ko‘riksiz quloqqa hech narsa tomizmang, ayniqsa suyuqlik oqayotgan bo‘lsa."
+  },
+  {
+   "title": "Bola",
+   "text": "Bolaga shifokor qulog‘iga chiroq bilan qarashini tushuntiring."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Dorilar ro‘yxati",
+  "O‘yinchoq",
+  "Harorat yozuvlari"
+ ],
+ "steps": [
+  "Shifokor alomatlar haqida so‘raydi",
+  "Quloqni otoskop — voronkali chiroq bilan ko‘radi",
+  "Tomoq va burunni ko‘radi",
+  "Ba’zan eshitishni tekshiradi",
+  "Davolash rejasini va qachon yana kelishni tushuntiradi"
+ ],
+ "feel": [
+  "Ko‘rik og‘rimaydi, lekin yallig‘lanishda bolaga noxush bo‘lishi mumkin",
+  "Bola qo‘rqishi mumkin — uni qo‘lingizda ushlab turing"
+ ],
+ "after": [
+  "Dorilar — qat’iy shifokor ko‘rsatmasi bo‘yicha",
+  "Antibiotik buyurilgan bo‘lsa, muddatidan oldin to‘xtatmang",
+  "Suyuqlik oqayotgan bo‘lsa, og‘rigan quloqni ho‘llamang",
+  "Nazorat ko‘rigi — rejaga ko‘ra, yaxshilanib qolgan bo‘lsa ham",
+  "Quloqda suyuqlik uzoq tursa, eshitish tekshiriladi"
+ ],
+ "red_flags": [
+  "Harorat 39 dan yuqori yoki 2–3 kundan ko‘p turib qolsa",
+  "Quloq orqasida shish va qizarish, quloq chiqib qolgan bo‘lsa",
+  "Bola lanj, kuchli bosh og‘rig‘i, qayt qilish, bo‘yin tarang — tez yordamni chaqiring (103)",
+  "Quloqdan qon oqsa yoki yiring kamaymasa"
+ ],
+ "faq": [
+  {
+   "q": "Doim antibiotik kerakmi?",
+   "a": "Yo‘q. Ko‘p otitlar o‘z-o‘zidan o‘tadi. Yoshi va alomatlariga qarab shifokor hal qiladi."
+  },
+  {
+   "q": "Otitda sayr qilsa bo‘ladimi?",
+   "a": "Harorat bo‘lmasa va bola o‘zini yaxshi his qilsa — odatda mumkin. Shifokordan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolaning qulog‘i bo‘yicha qabul. Qanday dorilar berilganini va harorat qanday bo‘lganini yozib qo‘ying."
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "title": "Gemoglobin elektroforezi (talassemiya)",
+ "also": [
+  "talassemiyaga tahlil",
+  "gemoglobin fraksiyalari",
+  "Hb elektroforezi",
+  "gemoglobin turlari"
+ ],
+ "what": "Qon tahlili qonda gemoglobinning qaysi turlari va qancha borligini ko‘rsatadi. Shunday irsiy xususiyatlar, masalan talassemiya topiladi.",
+ "why": "Temir me’yorda bo‘lsa-yu eritrotsitlar mayda bo‘lsa, oilada irsiy kamqonlik bo‘lsa, homiladorlikdan oldin yoki homiladorlik paytida.",
+ "duration": "qon olish odatda 5 daqiqa, natija odatda bir necha kunda",
+ "tell_doctor": [
+  "Oxirgi 3 oyda sizga qon quyilgan bo‘lsa",
+  "Temir yetishmovchiligi bo‘lsa yoki temir ichayotgan bo‘lsangiz",
+  "Homilador bo‘lsangiz",
+  "Qarindoshlarda kamqonlik yoki talassemiya bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Och qolish odatda kerak emas. Boshqa tahlillarni ham birga topshirsangiz — laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang, temirni ham. Shunchaki nima ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi umumiy qon tahlillari va temir tahlillari"
+ ],
+ "steps": [
+  "O‘tirasiz, tirsakdan yuqorida jgut bog‘lanadi",
+  "Teri antiseptik bilan artiladi",
+  "Qon venadan probirkaga olinadi",
+  "Jgut yechiladi, paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda bir necha kunda",
+  "Tashuvchilik topilsa, shifokor turmush o‘rtog‘ingiz va qarindoshlaringizni tekshirishni taklif qilishi mumkin"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Talassemiya tashuvchisi bo‘lish kasallikmi?",
+   "a": "Odatda yo‘q. Tashuvchi hamma kabi yashaydi, ba’zan yengil kamqonlik bilan. Bolalarni rejalashtirishda buni bilish muhim."
+  },
+  {
+   "q": "Temir tabletkalari yordam beradimi?",
+   "a": "Faqat temir haqiqatan yetishmasa. Shifokor hal qiladi — ortiqcha temir zarar qilishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga gemoglobin turlariga tahlil. Oldingi qon tahlillarini oling."
+  }
+ ]
+}

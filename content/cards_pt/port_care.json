@@ -1,0 +1,73 @@
+{
+ "title": "Lavagem e cuidados com o port",
+ "also": [
+  "lavagem do port",
+  "heparinização do port",
+  "manutenção do cateter implantável"
+ ],
+ "what": "A enfermeira coloca uma agulha especial no port e faz a lavagem, para não se formarem coágulos dentro.",
+ "why": "Entre os ciclos de quimioterapia, quando o port não está sendo usado. Normalmente a cada algumas semanas. O calendário, a clínica diz.",
+ "duration": "normalmente 10 a 20 minutos",
+ "tell_doctor": [
+  "Se o local do port dói, ficou vermelho ou inchou",
+  "Se teve febre",
+  "Alergia a antisséptico ou esparadrapo",
+  "Quando foi a última lavagem"
+ ],
+ "prepare": [
+  {
+   "title": "Calendário",
+   "text": "Anote a data da próxima lavagem. Não pode pular."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Se a picada incomoda, pergunte sobre o creme anestésico. Ele é passado antes."
+  },
+  {
+   "title": "Roupa",
+   "text": "Que deixe o peito fácil de acessar."
+  }
+ ],
+ "bring": [
+  "A carteirinha do port",
+  "Documento de identidade",
+  "A data da última lavagem"
+ ],
+ "steps": [
+  "A enfermeira examina e limpa a pele em cima do port",
+  "Sente a câmara com os dedos e coloca a agulha especial",
+  "Confere se o sangue vem e o port funciona",
+  "Lava o port com soro fisiológico",
+  "Tira a agulha e cobre o local com um curativo"
+ ],
+ "feel": [
+  "Uma picada rápida pela pele",
+  "Um friozinho do soro, às vezes um gosto na boca"
+ ],
+ "after": [
+  "O curativo pode ser tirado depois de algumas horas",
+  "Normalmente pode voltar à rotina logo em seguida",
+  "Anote a data da próxima lavagem"
+ ],
+ "red_flags": [
+  "Vermelhidão, pus ou dor no local do port",
+  "Febre, calafrios depois da lavagem",
+  "Inchaço do braço, do pescoço ou do rosto"
+ ],
+ "faq": [
+  {
+   "q": "Com que frequência o port precisa ser lavado?",
+   "a": "Normalmente a cada algumas semanas, quando não está em uso. O calendário exato, a clínica passa."
+  },
+  {
+   "q": "O que acontece se pular a lavagem?",
+   "a": "O port pode entupir com um coágulo. Aí fica mais difícil de usar e às vezes precisa ser trocado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a lavagem do port. Leve a carteirinha do port e anote a data da última lavagem."
+  }
+ ]
+}

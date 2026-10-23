@@ -1,0 +1,73 @@
+{
+ "title": "Teste MAR (anticorpos antiespermatozoide)",
+ "also": [
+  "teste MAR",
+  "anticorpos antiespermatozoide",
+  "MAR test",
+  "infertilidade imunológica masculina"
+ ],
+ "what": "No laboratório, olham no microscópio se os espermatozoides estão grudados a anticorpos. Esses anticorpos atrapalham o movimento e a fecundação.",
+ "why": "Na infertilidade do casal, se no espermograma os espermatozoides grudam uns nos outros ou se movem mal, e depois de traumas ou cirurgias nos testículos.",
+ "duration": "a coleta da amostra leva normalmente 10 a 20 minutos, o resultado sai normalmente no mesmo dia ou no dia seguinte",
+ "tell_doctor": [
+  "Se teve trauma, cirurgia ou inflamação nos testículos ou na próstata",
+  "Se fez vasectomia",
+  "Se teve doença com febre nos últimos 2 a 3 meses",
+  "Todos os remédios que você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Abstinência",
+   "text": "Normalmente 2 a 7 dias sem ejacular. O prazo exato quem diz é o laboratório."
+  },
+  {
+   "title": "Antes",
+   "text": "Por alguns dias, sem álcool, sem banho de vapor e sem sauna."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma."
+  },
+  {
+   "title": "Junto",
+   "text": "O teste MAR muitas vezes é feito junto com o espermograma, da mesma amostra."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Espermogramas anteriores"
+ ],
+ "steps": [
+  "Você recebe um frasco estéril e é levado a uma sala reservada",
+  "Lave as mãos e o pênis com sabonete",
+  "Colha todo o sêmen no frasco por masturbação",
+  "Feche o frasco e entregue ao funcionário",
+  "A amostra vai logo para o microscópio"
+ ],
+ "feel": [
+  "Fisicamente, nada desagradável",
+  "Muitas vezes dá vergonha. É normal, os funcionários estão acostumados"
+ ],
+ "after": [
+  "O resultado sai normalmente no mesmo dia ou no dia seguinte",
+  "Se houver muitos anticorpos, o médico explica as opções para engravidar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso colher a amostra em casa?",
+   "a": "Às vezes deixam, se você levar a amostra aquecida e em pouco tempo. Confirme as regras com o laboratório."
+  },
+  {
+   "q": "Posso usar camisinha para colher?",
+   "a": "A comum não: ela tem substâncias que fazem mal aos espermatozoides. Só o frasco do laboratório."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Daqui a 2 dias é o teste MAR. Sem ejacular no prazo que o laboratório passou. Sem álcool e sem sauna."
+  }
+ ]
+}

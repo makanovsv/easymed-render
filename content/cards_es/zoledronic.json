@@ -1,0 +1,80 @@
+{
+ "title": "Infusión para la osteoporosis (ácido zoledrónico)",
+ "also": [
+  "infusión para la osteoporosis",
+  "ácido zoledrónico",
+  "fortalecer los huesos con suero",
+  "bifosfonato en la vena"
+ ],
+ "what": "El medicamento para fortalecer los huesos se pone por la vena, con un suero. Normalmente se hace una vez al año.",
+ "why": "En la osteoporosis, para reducir el riesgo de fracturas, si las pastillas no son adecuadas.",
+ "duration": "la infusión suele durar de 15 a 30 minutos; toda la visita, cerca de una hora",
+ "tell_doctor": [
+  "Enfermedades de los riñones",
+  "Tratamiento dental programado o extracción de dientes",
+  "Calcio o vitamina D bajos",
+  "Todos tus medicamentos",
+  "Embarazo o lactancia"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Antes de la infusión normalmente se revisa cómo funcionan los riñones y el calcio."
+  },
+  {
+   "title": "Agua",
+   "text": "Conviene tomar bastante agua antes y después, si el médico no lo limita."
+  },
+  {
+   "title": "Dientes",
+   "text": "Conviene arreglar los dientes con anticipación. Dile al dentista que recibes este medicamento."
+  },
+  {
+   "title": "Vitaminas",
+   "text": "Toma el calcio y la vitamina D como te indicó el médico."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de los análisis",
+  "Un documento de identidad",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "La enfermera revisa los análisis y cómo te sientes",
+  "Te ponen un catéter en la vena",
+  "Conectan el suero",
+  "El medicamento gotea durante 15 a 30 minutos",
+  "Retiran el catéter y presionan el lugar"
+ ],
+ "feel": [
+  "La infusión en sí normalmente no duele",
+  "En los primeros 1 a 3 días puede haber fiebre, dolor en el cuerpo y debilidad, como en un resfriado",
+  "Esta reacción suele darse después de la primera infusión"
+ ],
+ "after": [
+  "Toma agua durante el día",
+  "Si hay dolor en el cuerpo, puedes tomar el medicamento para la fiebre que el médico apruebe",
+  "La siguiente infusión normalmente es en un año; el médico te dirá la fecha"
+ ],
+ "red_flags": [
+  "Dolor fuerte en la mandíbula o una llaga en la boca que no sana",
+  "Dolor nuevo en el muslo o en la ingle",
+  "Sarpullido, hinchazón de la cara o dificultad para respirar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué después de la infusión me siento como con gripe?",
+   "a": "Es una reacción frecuente del cuerpo a la primera dosis. Normalmente pasa en 1 a 3 días."
+  },
+  {
+   "q": "¿Hay que decírselo al dentista?",
+   "a": "Sí, sin falta. Sobre todo antes de sacar un diente o de poner implantes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la infusión para los huesos. Toma más agua y lleva tus análisis."
+  }
+ ]
+}

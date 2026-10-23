@@ -1,0 +1,74 @@
+{
+ "title": "Preparo para a gravidez",
+ "also": [
+  "consulta pré-concepcional",
+  "planejamento da gravidez",
+  "exames antes de engravidar",
+  "preparo para engravidar"
+ ],
+ "what": "É uma consulta médica antes da gravidez. O médico avalia a sua saúde, pede exames e orienta como se preparar.",
+ "why": "Quando você planeja engravidar nos próximos meses. Principalmente se tem doença crônica ou já teve gravidez difícil.",
+ "duration": "a consulta leva normalmente de 20 a 40 minutos; os exames costumam ficar prontos em alguns dias",
+ "tell_doctor": [
+  "Quais remédios você toma: não pare por conta própria, o médico vai escolher opções seguras",
+  "Doenças crônicas",
+  "Como foram as gestações e partos anteriores",
+  "Quais vacinas você tomou",
+  "Se há doenças hereditárias na família"
+ ],
+ "prepare": [
+  {
+   "title": "Ciclo",
+   "text": "Lembre a data do primeiro dia da última menstruação."
+  },
+  {
+   "title": "Documentos",
+   "text": "Junte resultados de exames anteriores e a carteira de vacinação."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Anote o que quer perguntar: vitaminas, alimentação, exercícios, hábitos como cigarro e álcool."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Lista de remédios",
+  "Resultados de exames anteriores",
+  "Carteira de vacinação, se tiver"
+ ],
+ "steps": [
+  "O médico pergunta sobre a sua saúde e os seus planos",
+  "Faz um exame físico, às vezes ginecológico",
+  "Pede exames de sangue, de urina e coleta de material vaginal",
+  "Às vezes pede ultrassom",
+  "Indica vitaminas e mudanças no estilo de vida",
+  "Podem recomendar que o parceiro também faça exames"
+ ],
+ "feel": [
+  "É uma consulta comum, nada desagradável",
+  "O exame ginecológico pode incomodar um pouco"
+ ],
+ "after": [
+  "Faça os exames da lista",
+  "Volte ao médico com os resultados",
+  "Normalmente se recomenda começar o ácido fólico antes. O médico diz a dose",
+  "Podem recomendar tomar vacinas antes de engravidar"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Com quanto tempo de antecedência começar o preparo?",
+   "a": "Normalmente 2 a 3 meses antes. O médico vai dizer com mais precisão."
+  },
+  {
+   "q": "O homem também precisa fazer exames?",
+   "a": "Muitas vezes, sim: avaliação geral e exames para infecções. Às vezes, espermograma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta de preparo para a gravidez. Leve a lista de remédios e os exames anteriores."
+  }
+ ]
+}

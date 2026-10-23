@@ -1,0 +1,79 @@
+{
+ "title": "Erkaklarda siydik chiqarish kanalidan surtma",
+ "also": [
+  "erkaklarda surtma",
+  "uretradan surtma",
+  "urogenital surtma",
+  "erkaklarda JYOIga surtma",
+  "erkaklarda floraga surtma"
+ ],
+ "what": "Bu siydik chiqarish kanalidan olinadigan surtma. Unda yallig‘lanish va jinsiy yo‘l bilan yuqadigan infeksiyalar qidiriladi.",
+ "why": "Achishish va ajralmalarda, siyganda og‘riqda, himoyalanmagan aloqadan keyin, juftlikda homiladorlikni rejalashtirishdan oldin.",
+ "duration": "surtmaning o‘zi — taxminan bir daqiqa, natija odatda 1–5 kunda",
+ "tell_doctor": [
+  "Qanday shikoyatlar va necha kundan beri",
+  "So‘nggi haftalarda antibiotik ichgan-ichmaganingizni",
+  "Himoyalanmagan aloqa bo‘lgan-bo‘lmaganini va qachon",
+  "Sherigingizda infeksiya topilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Siyish",
+   "text": "Odatda surtmadan 2–3 soat oldin siymang. Klinikadan so‘rang."
+  },
+  {
+   "title": "Yaqinlik",
+   "text": "Odatda tahlildan 1–2 kun oldin jinsiy aloqasiz."
+  },
+  {
+   "title": "Antibiotiklar",
+   "text": "Tahlilni antibiotikdan oldin topshirgan ma’qul. Allaqachon ichayotgan bo‘lsangiz, o‘zingiz to‘xtatmang, shifokorga ayting."
+  },
+  {
+   "title": "Gigiyena",
+   "text": "Kechqurun dush qabul qiling. Ertalab antiseptik va intim gellardan foydalanmang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Oldingi tahlillar, agar bo‘lsa"
+ ],
+ "steps": [
+  "Tik turasiz yoki kushetkaga yotasiz",
+  "Jinsiy a’zo boshchasi salfetka bilan artiladi",
+  "Ingichka zond kanalga sayoz kiritiladi",
+  "Zond bir necha soniya buriladi va olinadi",
+  "Material probirkaga yoki oynaga qo‘yiladi"
+ ],
+ "feel": [
+  "Yoqimsiz, bir necha soniya achishishi mumkin",
+  "Tahlildan keyin birinchi siyish biroz achishtirishi mumkin"
+ ],
+ "after": [
+  "Suvni odatdagidek iching — achishish bir kunda o‘tadi",
+  "Natija chiqquncha jinsiy aloqasiz bo‘lgan yaxshi",
+  "Infeksiya topilsa, odatda ikkala sherik ham davolanishi kerak"
+ ],
+ "red_flags": [
+  "Siya olmasangiz, qorin pastida kuchli og‘riq bo‘lsa — tez yordamni chaqiring (103)",
+  "Yuqori harorat, moyakda og‘riq va shish bo‘lsa — o‘sha kuni shifokorga",
+  "Siydikda qon bir kundan ko‘p davom etsa — shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Bu og‘riqlimi?",
+   "a": "Ko‘pincha yoqimsiz va bir necha soniya chimchilaydi. Kuchli og‘riq odatda bo‘lmaydi."
+  },
+  {
+   "q": "Surtma o‘rniga siydik topshirsa bo‘ladimi?",
+   "a": "Ko‘p PZR tahlillari uchun siydikning birinchi porsiyasi ham mos. Sizning holatingizda qaysi biri yaxshiroq — shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Tez orada uretradan surtma. Tahlilgacha siymang va antiseptiklardan foydalanmang."
+  }
+ ]
+}

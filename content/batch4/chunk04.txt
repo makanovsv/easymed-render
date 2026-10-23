@@ -1,0 +1,29 @@
+eus|endo|Эндосонография (ЭУС)|Endoscopic ultrasound (EUS)|endo_room|M|3
+polypectomy|endo|Удаление полипа при колоноскопии|Polyp removal during colonoscopy|endo_room|M|2
+fgds_kids|endo|ФГДС ребёнку|Gastroscopy for a child|endo_room|M|3
+rhinoscopy|endo|Эндоскопия носа|Nasal endoscopy|ent_room|L|2
+uretero|endo|Уретероскопия|Ureteroscopy|uro_room|H|3
+inj_sc|proc|Подкожная инъекция|Subcutaneous injection|proc_room|L|1
+inj_iv|proc|Внутривенная инъекция|Intravenous injection|proc_room|L|1
+insulin_pen|proc|Как делать уколы инсулина|How to inject insulin|home|L|1
+glucometer|proc|Как мерить сахар глюкометром|How to check blood sugar at home|home|L|1
+bp_home|proc|Как правильно мерить давление дома|How to measure blood pressure at home|home|L|1
+nebulizer|proc|Ингаляция через небулайзер|Nebuliser treatment|home|L|1
+inhaler|proc|Как пользоваться ингалятором|How to use an inhaler|home|L|1
+spacer_kids|proc|Ингалятор со спейсером у ребёнка|Inhaler with spacer for a child|home|L|2
+oxygen|proc|Кислородная терапия|Oxygen therapy|ward|L|3
+blood_transf|proc|Переливание крови|Blood transfusion|ward|H|3
+iron_iv|proc|Капельница с железом|Iron infusion|proc_room|M|2
+vit_drip|proc|Витаминная капельница|Vitamin drip|proc_room|M|3
+plasma_donation|proc|Сдача крови донором|Blood donation|lab_draw|L|2
+nasogastric|proc|Установка назогастрального зонда|Nasogastric tube|ward|M|3
+paracentesis|proc|Лапароцентез|Abdominal fluid drainage (paracentesis)|proc_room|H|3
+thoracentesis|proc|Плевральная пункция|Pleural tap (thoracentesis)|proc_room|H|3
+bone_marrow|proc|Пункция костного мозга|Bone marrow biopsy|proc_room|H|3
+liver_biopsy|proc|Биопсия печени|Liver biopsy|proc_room|H|3
+kidney_biopsy|proc|Биопсия почки|Kidney biopsy|proc_room|H|3
+lymph_biopsy|proc|Биопсия лимфоузла|Lymph node biopsy|proc_room|M|3
+trigger_inj|proc|Блокада при боли в спине|Spinal pain injection (nerve block)|proc_room|M|2
+prp|proc|PRP-терапия суставов|PRP joint injections|proc_room|M|2
+cast|proc|Наложение гипса|Plaster cast|proc_room|L|2
+cast_off|proc|Снятие гипса|Cast removal|proc_room|L|2

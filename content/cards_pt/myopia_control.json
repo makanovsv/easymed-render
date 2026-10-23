@@ -1,0 +1,78 @@
+{
+ "title": "Controle da miopia em crianças (lentes noturnas, colírio)",
+ "also": [
+  "controle de miopia",
+  "ortoceratologia",
+  "lente para dormir",
+  "colírio para miopia"
+ ],
+ "what": "O médico escolhe uma forma de frear o aumento da miopia da criança. Podem ser lentes noturnas, óculos especiais ou colírio.",
+ "why": "Quando a criança tem miopia e o grau aumenta a cada ano.",
+ "duration": "a adaptação leva normalmente de 1 a 2 horas; o tratamento, anos, com revisão a cada poucos meses",
+ "tell_doctor": [
+  "Com que rapidez a miopia aumentou e quais óculos a criança já usou",
+  "Se os pais têm miopia",
+  "Quanto tempo a criança passa no celular e com livros",
+  "Se teve alergias ou doenças nos olhos",
+  "Quais colírios ou remédios já foram usados"
+ ],
+ "prepare": [
+  {
+   "title": "Óculos",
+   "text": "Leve os óculos da criança e as receitas antigas."
+  },
+  {
+   "title": "Exames",
+   "text": "Normalmente medem o comprimento do olho e a forma da córnea. Não dói."
+  },
+  {
+   "title": "Hábitos",
+   "text": "Pense em quanto tempo a criança brinca ao ar livre. O médico vai perguntar."
+  }
+ ],
+ "bring": [
+  "Documento da criança",
+  "Óculos e receitas antigas",
+  "Relatórios do oftalmologista"
+ ],
+ "steps": [
+  "O médico examina a visão e o grau",
+  "Mede o comprimento do olho e a forma da córnea nos aparelhos",
+  "Conversa com você sobre as opções de controle",
+  "Se escolherem lentes noturnas, testam lentes e ensinam a colocar e tirar",
+  "Se escolherem colírio, explicam como usar",
+  "Marcam a data da revisão"
+ ],
+ "feel": [
+  "Os exames não doem",
+  "Nos primeiros dias a criança sente as lentes noturnas; depois costuma se acostumar",
+  "O colírio pode dilatar um pouco a pupila e deixar o olho sensível à luz"
+ ],
+ "after": [
+  "Lentes noturnas: higiene rigorosa das mãos e da solução",
+  "Mais tempo ao ar livre também ajuda",
+  "Pausas na leitura e nas telas",
+  "Revisão conforme o médico indicar, normalmente a cada 3 a 6 meses"
+ ],
+ "red_flags": [
+  "Olho vermelho, doendo ou lacrimejando com a lente: tire a lente e procure o médico com urgência",
+  "Piora repentina da visão",
+  "Pus ou manchinha branca no olho"
+ ],
+ "faq": [
+  {
+   "q": "Dá para curar a miopia da criança?",
+   "a": "Normalmente não dá para eliminar, mas dá para frear o aumento."
+  },
+  {
+   "q": "A partir de que idade usar lentes noturnas?",
+   "a": "Normalmente a partir da idade em que a criança consegue cuidar delas com ajuda dos pais. O médico decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta de controle da miopia. Leve os óculos da criança e as receitas antigas."
+  }
+ ]
+}

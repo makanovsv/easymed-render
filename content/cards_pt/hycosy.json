@@ -1,0 +1,83 @@
+{
+ "title": "Ultrassom para ver se as trompas estão abertas (histerossonossalpingografia)",
+ "also": [
+  "histerossonossalpingografia",
+  "HyCoSy",
+  "ultrassom das trompas com contraste",
+  "exame de permeabilidade tubária"
+ ],
+ "what": "Por um tubinho fino, colocam um líquido especial no útero e veem no ultrassom se ele passa pelas trompas.",
+ "why": "Quando o casal não consegue engravidar há muito tempo e é preciso ver se as trompas estão abertas.",
+ "duration": "normalmente 15 a 30 minutos, a resposta muitas vezes sai na hora",
+ "tell_doctor": [
+  "Se pode haver gravidez",
+  "Se agora há corrimento, coceira ou dor no pé da barriga",
+  "Se tem alergia a remédios ou iodo",
+  "Se toma remédios que afinam o sangue",
+  "As datas da última menstruação"
+ ],
+ "prepare": [
+  {
+   "title": "Dia do ciclo",
+   "text": "Normalmente é feito na primeira metade do ciclo, depois da menstruação e antes da ovulação. Os dias exatos quem diz é o médico."
+  },
+  {
+   "title": "Exames",
+   "text": "Antes do procedimento, muitas vezes pedem exames de secreção vaginal e de infecções. A clínica passa a lista."
+  },
+  {
+   "title": "Analgésico",
+   "text": "Às vezes recomendam tomar um analgésico antes. Qual e quando, o médico diz."
+  },
+  {
+   "title": "Gravidez",
+   "text": "Neste ciclo, normalmente recomendam evitar gravidez até o procedimento. Confirme com o médico."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados dos exames de secreção e outros",
+  "Um absorvente",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Você se deita na maca ginecológica",
+  "O médico coloca o espéculo e limpa o colo do útero com antisséptico",
+  "Um cateter fino e macio é colocado no colo do útero",
+  "O aparelho de ultrassom é colocado na vagina",
+  "Pelo cateter colocam o líquido devagar, e o médico olha a tela",
+  "Tiram o cateter e o aparelho"
+ ],
+ "feel": [
+  "É incômodo quando colocam o espéculo e o cateter",
+  "Uma dor em cólica no pé da barriga, como na menstruação. Normalmente passa em alguns minutos",
+  "Às vezes uma leve tontura. Avise o médico"
+ ],
+ "after": [
+  "Fique sentada 10 a 15 minutos antes de ir embora",
+  "Um pouco de corrimento ou de sangue por 1 a 2 dias pode acontecer",
+  "Normalmente recomendam uns dois dias sem banheira, piscina e relação sexual. Confirme com o médico",
+  "O laudo é entregue na hora ou no mesmo dia"
+ ],
+ "red_flags": [
+  "Febre acima de 38 °C",
+  "Dor na barriga forte ou que vai piorando",
+  "Sangramento forte ou corrimento com cheiro ruim"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Normalmente é suportável: como uma cólica forte por alguns minutos. Dá para perguntar antes ao médico sobre analgésico."
+  },
+  {
+   "q": "O que tem de melhor que o raio-X das trompas?",
+   "a": "Não tem radiação e não precisa de contraste com iodo. Mas qual método serve para você, quem decide é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você faz o exame das trompas. Leve um absorvente e os resultados dos exames. Se o médico recomendou analgésico, tome antes."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Extirpación de un ganglión de la mano",
+ "also": [
+  "ganglión",
+  "quiste sinovial",
+  "ganglión de la muñeca",
+  "bulto en la muñeca"
+ ],
+ "what": "El ganglión es un bulto blando con líquido junto a una articulación o tendón de la mano. El cirujano lo quita con un corte pequeño.",
+ "why": "Cuando el bulto molesta, duele, crece o presiona un nervio.",
+ "duration": "la cirugía normalmente dura de 20 a 60 minutos; normalmente te vas a casa el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que adelgazan la sangre; el médico dirá cuáles suspender y cuándo",
+  "Alergias, sobre todo a anestésicos",
+  "Diabetes y otras enfermedades crónicas",
+  "Si el bulto ya se punzó o se operó antes"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "A veces se hace un ultrasonido de la mano y análisis; la clínica te dirá la lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Si hay anestesia general, normalmente no comas desde la noche anterior. Con anestesia local, confírmalo en la clínica."
+  },
+  {
+   "title": "Anillos",
+   "text": "Quítate con anticipación los anillos y pulseras de esa mano."
+  },
+  {
+   "title": "Ropa",
+   "text": "Manga suelta y ancha."
+  }
+ ],
+ "bring": [
+  "La orden médica y los resultados de estudios",
+  "Identificación",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Limpian la mano con antiséptico",
+  "Te ponen anestesia: una inyección en el brazo o anestesia general",
+  "El cirujano hace un corte pequeño sobre el bulto",
+  "Quita el ganglión junto con su capa",
+  "Suturan la herida, ponen un vendaje y a veces una férula"
+ ],
+ "feel": [
+  "Las inyecciones de anestesia son incómodas; durante la cirugía hay presión sin dolor",
+  "Después hay dolor sordo e hinchazón; te dan analgésico"
+ ],
+ "after": [
+  "Mantén la mano elevada los primeros días",
+  "No mojes el vendaje",
+  "Los puntos normalmente se retiran a las 1 o 2 semanas",
+  "Aumenta poco a poco el esfuerzo de la mano, como diga el cirujano"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38",
+  "Dolor fuerte, hinchazón, enrojecimiento o pus en la herida",
+  "Dedos dormidos, pálidos o morados: acude al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Puede volver el ganglión?",
+   "a": "A veces sí, incluso después de la cirugía. El cirujano te explicará cómo reducir ese riesgo."
+  },
+  {
+   "q": "¿Se puede simplemente aplastar?",
+   "a": "No. Puede dañar los tejidos y el ganglión suele volver."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la extirpación del ganglión. Quítate los anillos de la mano y ponte una manga suelta. La comida, como dijo la clínica."
+  }
+ ]
+}

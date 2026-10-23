@@ -1,0 +1,77 @@
+{
+ "title": "Tratamento de alveolite depois de extração",
+ "also": [
+  "alveolite",
+  "alvéolo seco",
+  "dor depois de arrancar dente",
+  "inflamação no buraco do dente"
+ ],
+ "what": "O médico limpa o buraco do dente extraído e coloca um curativo com remédio. Isso alivia a dor e ajuda a cicatrizar.",
+ "why": "Quando, 2 a 4 dias depois da extração, a dor aumenta em vez de diminuir e aparece mau cheiro.",
+ "duration": "o procedimento leva normalmente de 15 a 20 minutos; a cicatrização, 1 a 2 semanas",
+ "tell_doctor": [
+  "Quando o dente foi extraído e quando a dor piorou",
+  "Se você fuma",
+  "Se toma remédios que afinam o sangue ou hormônios",
+  "Se tem alergia a remédios",
+  "Se teve febre"
+ ],
+ "prepare": [
+  {
+   "title": "Cigarro",
+   "text": "Não fume. Isso atrapalha a cicatrização."
+  },
+  {
+   "title": "Bochechos",
+   "text": "Não bocheche com força antes da consulta."
+  },
+  {
+   "title": "Analgésico",
+   "text": "Você pode tomar o analgésico que o médico já liberou. Conte o que tomou."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Lista de remédios",
+  "Orientações ou relatório da extração, se tiver"
+ ],
+ "steps": [
+  "O médico examina o buraco do dente",
+  "Se precisar, aplica anestesia",
+  "Lava o local com cuidado",
+  "Tira restos de comida e do coágulo desfeito",
+  "Coloca um curativo ou pasta com remédio",
+  "Explica os cuidados em casa"
+ ],
+ "feel": [
+  "A lavagem pode incomodar",
+  "Depois do curativo, a dor costuma diminuir bem em um dia"
+ ],
+ "after": [
+  "Não mexa no local com a língua nem com os dedos",
+  "Não fume e não beba com canudo",
+  "Às vezes o curativo é trocado. Volte para o retorno",
+  "Bochechos e remédios como o médico indicou"
+ ],
+ "red_flags": [
+  "O inchaço no rosto aumenta",
+  "Febre acima de 38 graus",
+  "Dificuldade para engolir ou abrir a boca: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Por que acontece o alvéolo seco?",
+   "a": "O coágulo de sangue no buraco se desfez ou saiu. É mais comum em quem fuma e depois de extração difícil."
+  },
+  {
+   "q": "Por quanto tempo vai doer?",
+   "a": "Depois do tratamento, normalmente melhora já em um dia. Cicatriza totalmente em 1 a 2 semanas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a consulta do buraco da extração. Não fume e não bocheche com força."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Bachadon naylari o‘tkazuvchanligini tekshirish (GSG)",
+ "also": [
+  "GSG",
+  "gisterosalpingografiya",
+  "bachadon naylari surati",
+  "naylarni tekshirish"
+ ],
+ "what": "Bachadon bo‘yni orqali kontrast kiritiladi va rentgen suratlari olinadi. Bachadon shakli va naylar o‘tkazuvchanligi ko‘rinadi.",
+ "why": "Homilador bo‘lishda qiyinchilikda, bepushtlikni davolashdan oldin, naylardagi operatsiyalardan keyin.",
+ "duration": "protseduraning o‘zi odatda 15–30 daqiqa; natija ko‘pincha suratlardan keyin darrov",
+ "tell_doctor": [
+  "Homiladorlik mumkin bo‘lsa — protsedura qilinmaydi",
+  "Yod yoki kontrastga allergiya",
+  "Hozir yoki yaqinda yallig‘lanish, ajralma, qorin pastida og‘riq bo‘lgan bo‘lsa",
+  "Qonni suyultiruvchi dorilar"
+ ],
+ "prepare": [
+  {
+   "title": "Sikl kuni",
+   "text": "Odatda siklning birinchi yarmida: hayz tugagandan keyin va ovulyatsiyagacha, ko‘pincha 6–12-kun. Shifokordan aniqlang."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Odatda flora va infeksiyalarga surtma, ba’zan qon tahlili kerak. Ro‘yxatni klinika beradi."
+  },
+  {
+   "title": "Homiladorlik",
+   "text": "Protseduradan oldin homiladorlik inkor etiladi. Ba’zan test so‘rashadi yoki GSG gacha shu siklda urug‘lanishni rejalashtirmaslikni."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Protseduradan 30–60 daqiqa oldin og‘riq qoldiruvchi ichish mumkinmi, shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Yangi surtma va tahlillar",
+  "Prokladka",
+  "Hamroh, agar xavotirda bo‘lsangiz"
+ ],
+ "steps": [
+  "Ginekologik ko‘rikdagidek stolga yotasiz",
+  "Shifokor ko‘zgu kiritib, bachadon bo‘yinchasini ishlaydi",
+  "Bo‘yinchaga ingichka naycha kiritiladi",
+  "U orqali sekin kontrast beriladi",
+  "Bir necha rentgen surati olinadi",
+  "Naycha va ko‘zgu olinadi"
+ ],
+ "feel": [
+  "Qorin pastida hayzdagidek spazmlar — kontrast kirayotganda",
+  "Hissiyotlar odatda bir necha daqiqa yoki soatda o‘tadi"
+ ],
+ "after": [
+  "Bir necha kun dog‘li ajralma bo‘lishi mumkin — prokladka kerak",
+  "Odatda 1–2 kun jinsiy aloqasiz, basseynsiz va vannasiz — shifokordan aniqlang",
+  "Natijani ginekolog yoki reproduktolog bilan muhokama qiling"
+ ],
+ "red_flags": [
+  "Harorat 38 dan yuqori, qorin pastida kuchli og‘riq, yoqimsiz ajralma — shifokorga qo‘ng‘iroq qiling",
+  "Ko‘p qon ketishi, hushdan ketish — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Bu juda og‘riqlimi?",
+   "a": "Odatda hayzdagidek spazmlar. Og‘riq kuchli bo‘lsa shifokorga ayting — tanaffus qilish mumkin."
+  },
+  {
+   "q": "GSG dan keyin shu siklda homilador bo‘lsa bo‘ladimi?",
+   "a": "Shifokordan so‘rang. Ko‘pincha homiladorlikni shu siklda rejalashtirishga ruxsat berishadi, lekin klinikalarda qoidalar har xil."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bachadon naylarini tekshirish. Surtma, tahlillar va prokladkani oling."
+  }
+ ]
+}

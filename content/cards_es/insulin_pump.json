@@ -1,0 +1,85 @@
+{
+ "title": "Bomba de insulina: colocación y cambio del catéter",
+ "also": [
+  "bomba de insulina",
+  "bomba para diabetes",
+  "cambio de catéter de la bomba",
+  "colocación de la bomba",
+  "set de infusión"
+ ],
+ "what": "La bomba es un aparato pequeño que aplica insulina poco a poco bajo la piel por un tubito delgado. El catéter en la piel lo cambias tú cada pocos días.",
+ "why": "En la diabetes, cuando el médico decidió pasar de las inyecciones a la bomba.",
+ "duration": "el cambio de catéter normalmente toma de 10 a 15 minutos; el primer entrenamiento en la clínica, varias horas",
+ "tell_doctor": [
+  "Si el azúcar con frecuencia está demasiado baja o alta",
+  "Si en los lugares del catéter hay enrojecimiento o endurecimiento",
+  "Si ves mal la pantalla de la bomba o te cuesta manejar piezas pequeñas",
+  "Si planeas un viaje, deporte o embarazo"
+ ],
+ "prepare": [
+  {
+   "title": "Entrenamiento",
+   "text": "La primera colocación y configuración normalmente se hacen junto con el médico o la enfermera. Las dosis las define solo el médico."
+  },
+  {
+   "title": "Reserva",
+   "text": "Ten en casa reserva de catéteres, depósitos, baterías y una pluma de insulina por si la bomba falla."
+  },
+  {
+   "title": "Hora del cambio",
+   "text": "Cambia el catéter de día, cuando puedas medir el azúcar a las 2 o 3 horas. No antes de dormir."
+  },
+  {
+   "title": "Limpieza",
+   "text": "Lávate las manos, prepara el antiséptico y todo lo necesario en una mesa limpia."
+  }
+ ],
+ "bring": [
+  "La bomba y un nuevo set de infusión",
+  "El depósito y la insulina",
+  "El glucómetro",
+  "El diario del azúcar o la aplicación"
+ ],
+ "steps": [
+  "Lávate las manos y revisa la fecha de caducidad de la insulina y del set",
+  "Llena un depósito nuevo con insulina, sin burbujas de aire",
+  "Coloca el depósito en la bomba y llena el tubito, como te enseñaron, hasta que salga una gota en la punta",
+  "Elige un lugar nuevo en el abdomen u otra zona, alejado del anterior",
+  "Limpia la piel con antiséptico y deja que se seque",
+  "Coloca el catéter con el dispositivo de inserción y retira la aguja guía",
+  "Llena la cánula en el menú de la bomba, si tu modelo lo necesita",
+  "A las 2 o 3 horas mide el azúcar"
+ ],
+ "feel": [
+  "Un pinchazo corto al colocar el catéter",
+  "Los primeros días la bomba en el cuerpo es rara; después casi no la notas"
+ ],
+ "after": [
+  "Cambia el catéter normalmente cada 2 o 3 días; el plazo está en el instructivo del set",
+  "Anota el cambio del set y el azúcar",
+  "Lleva siempre algo dulce y una pluma de insulina de reserva",
+  "Muestra con regularidad los datos de la bomba al médico"
+ ],
+ "red_flags": [
+  "El azúcar está alta y no baja después de la corrección: cambia el catéter y llama al médico",
+  "Náuseas, vómito, olor a acetona, mucha sed: acude al médico de inmediato; si empeora, llama a emergencias",
+  "Enrojecimiento, dolor o pus en el sitio del catéter",
+  "La persona está inconsciente o con convulsiones: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo bañarme con la bomba?",
+   "a": "Normalmente la bomba se desconecta durante la ducha. Si se puede usar en el agua, está en el instructivo de tu modelo."
+  },
+  {
+   "q": "¿Qué hago si se descompone la bomba?",
+   "a": "Pasa a las inyecciones con pluma según el plan de reserva del médico. Si no tienes plan, llama al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hoy es el cambio de catéter de la bomba. Hazlo de día y mide el azúcar a las 2 o 3 horas."
+  }
+ ]
+}

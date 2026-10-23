@@ -1,0 +1,29 @@
+dupuytren|surg|Операция при контрактуре Дюпюитрена|Dupuytren's contracture surgery|or_room|H|3
+kidney_transplant|surg|Пересадка почки|Kidney transplant|or_room|H|3
+breast_reduction|surg|Уменьшение груди|Breast reduction|or_room|H|3
+meniscus|surg|Шов и резекция мениска|Meniscus repair and trimming|or_room|H|2
+fasting_preop|anest|Голод перед наркозом: что можно и когда|Fasting before anaesthesia: what and when|home|L|1
+pca|anest|Обезболивание после операции (эпидуральный катетер, помпа)|Pain relief after surgery (epidural, PCA pump)|ward|M|2
+anest_elderly|anest|Наркоз у пожилых|Anaesthesia in older adults|or_room|H|2
+pain_home|anest|Обезболивание дома после операции|Managing pain at home after surgery|home|L|1
+recovery_room|anest|Пробуждение после наркоза|Waking up after anaesthesia|ward|L|1
+epidural_steroid|anest|Эпидуральная инъекция при боли в спине|Epidural steroid injection for back pain|proc_room|M|3
+rf_denervation|anest|Радиочастотная денервация суставов позвоночника|Radiofrequency denervation of spinal joints|proc_room|M|3
+hip_fracture_rehab|rehab|Реабилитация после перелома шейки бедра|Rehab after hip fracture|rehab_room|L|2
+pulm_rehab|rehab|Лёгочная реабилитация (после пневмонии, при ХОБЛ)|Pulmonary rehabilitation|rehab_room|L|2
+spine_surg_rehab|rehab|Реабилитация после операции на позвоночнике|Rehab after spine surgery|rehab_room|L|3
+acl_rehab|rehab|Реабилитация после пластики связки колена|Rehab after ACL reconstruction|rehab_room|L|3
+cp_rehab|rehab|Реабилитация ребёнка с ДЦП|Rehabilitation for children with cerebral palsy|rehab_room|L|3
+lymphedema|rehab|Лечение лимфедемы (лимфодренаж, прессотерапия)|Lymphoedema treatment (drainage, compression)|rehab_room|L|3
+walking_aids|rehab|Обучение ходьбе с костылями и ходунками|Learning to walk with crutches or a walker|rehab_room|L|2
+insoles|rehab|Подбор ортопедических стелек|Orthotic insole fitting|rehab_room|L|2
+scoliosis_brace|rehab|Корсет при сколиозе|Scoliosis brace|rehab_room|L|3
+scoliosis_lfk|rehab|ЛФК при сколиозе у ребёнка|Scoliosis exercise therapy for children|rehab_room|L|2
+parkinson_rehab|rehab|Реабилитация при болезни Паркинсона|Rehab for Parkinson's disease|rehab_room|L|3
+neuropsych|rehab|Восстановление памяти и внимания после инсульта|Cognitive rehab after stroke|office|L|3
+swallow_rehab|rehab|Восстановление глотания после инсульта|Swallowing rehab after stroke|rehab_room|L|3
+amputation_rehab|rehab|Реабилитация и протез после ампутации|Rehab and prosthesis after amputation|rehab_room|L|3
+defectologist|rehab|Занятия с дефектологом|Special education sessions (defectologist)|office|L|3
+autism_aba|rehab|Абилитация ребёнка с аутизмом (АВА-терапия)|Early intervention for autism (ABA)|office|L|3
+headache_visit|visit|Обследование при головной боли и мигрени|Headache and migraine evaluation|office|L|1
+memory_screen|visit|Проверка памяти (скрининг деменции)|Memory check (dementia screening)|office|L|2

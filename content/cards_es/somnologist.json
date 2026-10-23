@@ -1,0 +1,76 @@
+{
+ "title": "Consulta con el especialista en sueño",
+ "also": [
+  "especialista en sueño",
+  "médico del sueño",
+  "tratamiento del insomnio",
+  "ronquidos y pausas al respirar"
+ ],
+ "what": "El médico del sueño averigua por qué duermes mal, roncas o te sientes cansada o cansado durante el día. A veces indica un estudio del sueño.",
+ "why": "Con insomnio, ronquidos fuertes, pausas al respirar durante el sueño, mucho sueño de día o piernas inquietas por la noche.",
+ "duration": "la consulta suele durar de 30 a 40 minutos; el estudio del sueño es una noche y el resultado llega en unos días",
+ "tell_doctor": [
+  "A qué hora te acuestas y te levantas, y cuánto duermes",
+  "Si roncas y si tus familiares han notado pausas al respirar",
+  "Si te duermes de día sin querer, por ejemplo al manejar",
+  "Qué medicamentos, pastillas para dormir o alcohol tomas",
+  "Presión, peso y corazón"
+ ],
+ "prepare": [
+  {
+   "title": "Diario del sueño",
+   "text": "Durante 1 o 2 semanas anota la hora en que duermes, cuándo despiertas y cómo te sientes en la mañana."
+  },
+  {
+   "title": "Familiares",
+   "text": "Pide a quien duerme a tu lado que te cuente cómo roncas. Se puede grabar el sonido con el celular."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No suspendas por tu cuenta las pastillas para dormir; dile al médico qué tomas."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "El diario del sueño",
+  "La grabación de los ronquidos, si la tienes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta por tu sueño y cómo te sientes de día",
+  "Te propone llenar cuestionarios sobre el sueño",
+  "Te revisa la garganta y el cuello, y te mide la presión y el peso",
+  "Decide si hace falta un estudio del sueño",
+  "Si hace falta, te explica cómo será, en casa o en la clínica",
+  "Te da recomendaciones o indica un tratamiento"
+ ],
+ "feel": [
+  "La consulta no duele",
+  "En el estudio del sueño llevas sensores en el cuerpo: dormir así es raro, pero no duele"
+ ],
+ "after": [
+  "Sigue el horario de sueño que te aconsejó el médico",
+  "Si tienes mucho sueño de día, ten cuidado al manejar",
+  "Volverás a consulta después del estudio o del tratamiento"
+ ],
+ "red_flags": [
+  "Te duermes al volante: no manejes y díselo al médico",
+  "Ataques de ahogo por la noche con dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Roncar es peligroso?",
+   "a": "El ronquido solo no siempre. Es peligroso si hay pausas al respirar durante el sueño; eso se debe revisar."
+  },
+  {
+   "q": "¿Puedo tomar pastillas para dormir por mi cuenta?",
+   "a": "Mejor no. La causa del insomnio y el tratamiento los elige el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes consulta con el especialista en sueño. Lleva tu diario del sueño y, si tienes, la grabación de los ronquidos."
+  }
+ ]
+}

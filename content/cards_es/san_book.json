@@ -1,0 +1,71 @@
+{
+ "title": "Carnet sanitario",
+ "also": [
+  "carnet sanitario",
+  "tarjeta de salud",
+  "libreta médica personal",
+  "certificado para manejar alimentos"
+ ],
+ "what": "Un documento donde se anotan los resultados de revisiones médicas y análisis. Sin él no te dejan trabajar con alimentos ni con niños.",
+ "why": "Para trabajar en restaurantes, en venta de alimentos, en guarderías, escuelas, en el área de la salud y en otros trabajos similares.",
+ "duration": "normalmente de 1 a 3 días para las revisiones; los resultados de los análisis llegan en unos días",
+ "tell_doctor": [
+  "Si has tenido infecciones intestinales, hepatitis o tuberculosis",
+  "Enfermedades de la piel",
+  "Qué medicamentos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Normalmente hacen falta revisión con el médico general, radiografía de tórax, análisis de infecciones intestinales y de parásitos, y a veces revisión del dermatólogo y del ginecólogo. La lista depende del trabajo: pregunta en la clínica."
+  },
+  {
+   "title": "Muestra de heces",
+   "text": "Las heces se recogen en un frasco de la farmacia o de la clínica. Te explicarán cómo recogerlas."
+  },
+  {
+   "title": "Vacunas",
+   "text": "A veces revisan las vacunas. Lleva la cartilla, si la tienes."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Una foto, si la clínica la pide",
+  "La cartilla de vacunación",
+  "La radiografía de tórax del último año, si la tienes"
+ ],
+ "steps": [
+  "Vas a la clínica donde tramitan el carnet sanitario",
+  "Llenas un formulario",
+  "Das las muestras para los análisis",
+  "Te hacen la radiografía de tórax, si no tienes una reciente",
+  "Pasas con los médicos necesarios",
+  "A veces tomas una capacitación de higiene y haces un examen",
+  "Cuando están los análisis, te entregan el carnet con los sellos"
+ ],
+ "feel": [
+  "Las revisiones no duelen",
+  "La toma de muestra puede ser incómoda, pero es corta"
+ ],
+ "after": [
+  "Guarda el carnet con tu empleador o contigo, como se acostumbre en tu trabajo",
+  "Fíjate en la fecha de la siguiente revisión"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Cada cuánto hay que renovar el carnet?",
+   "a": "Normalmente una vez al año, a veces con más frecuencia. Depende del trabajo."
+  },
+  {
+   "q": "¿Puedo hacerme los análisis en una clínica y tramitarlo en otra?",
+   "a": "A veces sí, pero es mejor confirmarlo en la clínica que tramita el carnet."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tramitas tu carnet sanitario. Lleva tu documento, la cartilla de vacunación y el frasco con la muestra, si hace falta."
+  }
+ ]
+}

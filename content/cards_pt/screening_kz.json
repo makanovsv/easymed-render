@@ -1,0 +1,71 @@
+{
+ "title": "Exames de rastreamento por idade (Cazaquistão)",
+ "also": [
+  "rastreamento",
+  "exame preventivo",
+  "check-up gratuito no Cazaquistão",
+  "triagem por idade"
+ ],
+ "what": "São exames gratuitos no posto de saúde em que você está cadastrado. Eles ajudam a encontrar doenças no início. Os exames dependem da idade e do sexo.",
+ "why": "Para adultos de certas idades, conforme o calendário, normalmente a cada alguns anos. Confirme o seu calendário no posto de saúde.",
+ "duration": "normalmente 1 ou 2 visitas; os resultados saem em alguns dias",
+ "tell_doctor": [
+  "Quais doenças você tem e quais remédios toma",
+  "Se você fuma",
+  "Doenças do coração, diabetes e câncer em parentes próximos",
+  "Quais exames já fez e quando"
+ ],
+ "prepare": [
+  {
+   "title": "Veja se é a sua vez",
+   "text": "Pergunte no posto em que você está cadastrado ou no aplicativo se você tem direito ao rastreamento este ano."
+  },
+  {
+   "title": "Comida",
+   "text": "Para o exame de sangue, normalmente se vai de manhã, em jejum. Confirme no posto."
+  },
+  {
+   "title": "Preparo",
+   "text": "Alguns exames, como coleta vaginal ou exame de fezes, têm preparo próprio. Vão explicar antes."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Resultados de exames anteriores",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você vai ao posto de saúde em que está cadastrado",
+  "Preenche um questionário",
+  "Medem pressão, altura e peso",
+  "Faz os exames da sua idade",
+  "Passa pelas consultas e exames necessários",
+  "O médico vê os resultados e diz o que fazer depois"
+ ],
+ "feel": [
+  "A maioria dos exames não dói",
+  "Alguns incomodam, mas são rápidos"
+ ],
+ "after": [
+  "Se estiver tudo bem, o próximo exame segue o calendário",
+  "Se encontrarem algo, você será encaminhado ao especialista; isso ainda não é diagnóstico",
+  "Guarde os resultados"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Preciso pagar pelo rastreamento?",
+   "a": "Os rastreamentos por idade normalmente são gratuitos. Confirme no posto em que você está cadastrado."
+  },
+  {
+   "q": "E se a minha idade não estiver no programa?",
+   "a": "Dá para fazer os exames com pedido do médico ou de forma particular. Converse com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o rastreamento. De manhã, não coma antes do exame de sangue; leve o documento de identidade."
+  }
+ ]
+}

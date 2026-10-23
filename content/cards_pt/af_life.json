@@ -1,0 +1,75 @@
+{
+ "title": "Vivendo com fibrilação atrial",
+ "also": [
+  "fibrilação atrial",
+  "arritmia cardíaca",
+  "FA",
+  "pulso irregular"
+ ],
+ "what": "Na fibrilação atrial, o coração bate de forma irregular. O maior perigo são os coágulos e o AVC, por isso os remédios e o controle são importantes.",
+ "why": "Se o médico encontrou fibrilação atrial no eletrocardiograma.",
+ "duration": "o tratamento costuma ser longo; o controle com o médico segue um calendário",
+ "tell_doctor": [
+  "Se você sente batimentos falhando, coração acelerado ou falta de ar",
+  "Todos os remédios e suplementos, principalmente se toma remédio que afina o sangue",
+  "Se teve sangramentos",
+  "Antes de qualquer cirurgia ou extração de dente"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Tome todo dia, não pule e não pare por conta própria."
+  },
+  {
+   "title": "Pulso",
+   "text": "Aprenda a contar o pulso ou use um aparelho de pressão que mostre arritmia."
+  },
+  {
+   "title": "Outros médicos",
+   "text": "Diga a todo médico e dentista quais remédios você toma."
+  }
+ ],
+ "bring": [
+  "Lista de remédios",
+  "O último eletrocardiograma e relatórios",
+  "Diário de pressão e pulso"
+ ],
+ "steps": [
+  "Tome os remédios todo dia no mesmo horário",
+  "Meça a pressão e o pulso e anote",
+  "Diminua o álcool: ele muitas vezes provoca crises",
+  "Durma bem e mexa-se todo dia",
+  "Faça os exames que o médico pediu",
+  "Vá às consultas de controle"
+ ],
+ "feel": [
+  "Às vezes se sentem falhas ou um tremor no peito",
+  "Muitas pessoas não sentem nada, e isso também é normal"
+ ],
+ "after": [
+  "Fique atento a sinais de sangramento, se toma remédio que afina o sangue",
+  "Não comece remédios novos nem ervas sem orientação do médico",
+  "Ensine aos familiares os sinais de AVC"
+ ],
+ "red_flags": [
+  "Rosto torto, fraqueza no braço, fala enrolada: ligue para a emergência",
+  "Dor no peito, falta de ar forte ou desmaio: ligue para a emergência",
+  "Sangue na urina, fezes pretas ou sangramento forte: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "A fibrilação atrial é perigosa?",
+   "a": "Por si só muitas vezes não ameaça a vida, mas aumenta o risco de AVC. O tratamento diminui esse risco."
+  },
+  {
+   "q": "Posso fazer esporte?",
+   "a": "Normalmente exercício moderado faz bem. Escolha junto com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Hora dos remédios do coração. Meça o pulso e a pressão."
+  }
+ ]
+}

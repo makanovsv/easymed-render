@@ -1,0 +1,62 @@
+{
+ "title": "Quloqlarni yuvish",
+ "also": [
+  "oltingugurt tiqini",
+  "oltingugurt tiqinini olib tashlash",
+  "shifokorda quloq tozalash"
+ ],
+ "what": "LOR-shifokor quloqda to‘plangan oltingugurtni olib tashlaydi: iliq suv bilan yuvadi yoki asbob bilan chiqarib oladi.",
+ "why": "Quloq bitib qolganda, eshitish pasayganda, cho‘milgandan keyin quloqda shovqin bo‘lganda — va shifokor oltingugurt tiqinini ko‘rsa.",
+ "duration": "odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Quloq pardasida teshik yoki quloqqa operatsiya bo‘lgan bo‘lsa",
+  "Quloqdan oqqan, og‘rigan yoki harorat bo‘lgan bo‘lsa",
+  "Qandli diabet",
+  "Eshitish apparatidan foydalansangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Yumshatish",
+   "text": "Ba’zan shifokor bir necha kun oldin oltingugurtni yumshatadigan tomchi tomizishni so‘raydi. Faqat u aytganini qiling."
+  },
+  {
+   "title": "Tegmang",
+   "text": "Quloqqa paxtali cho‘p tiqmang — tiqin chuqurroq ketadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Eshitish apparati, agar taqsangiz"
+ ],
+ "steps": [
+  "Shifokor quloqni voronka orqali yoki kamera bilan ko‘radi",
+  "Parda butun bo‘lsa — quloqni ignasiz shprits bilan iliq suvda yuvadi",
+  "Oltingugurt aralash suv bo‘yin yonidagi tovoqchaga oqadi",
+  "Ba’zan oltingugurt asbob yoki so‘rg‘ich bilan olinadi",
+  "Shifokor quloqni yana ko‘rib, pardani tekshiradi"
+ ],
+ "feel": [
+  "Quloqda iliq suv, shovqin va qaynash tovushi",
+  "Biroz bosh aylanishi mumkin — shifokorga ayting",
+  "Darhol keyin eshitish odatda qaytadi"
+ ],
+ "after": [
+  "Quloqni tashqaridan artsa bo‘ladi, ichiga cho‘p tiqmang",
+  "Tez-tez bo‘lsa — tiqinlarning oldini qanday olish kerakligini shifokordan so‘rang"
+ ],
+ "red_flags": [
+  "Muolajadan keyin quloqda kuchli og‘riq, quloqdan qon yoki yiring",
+  "To‘satdan eshitishni yo‘qotish yoki kuchli bosh aylanishi"
+ ],
+ "faq": [
+  {
+   "q": "Oltingugurt tiqinini uyda olib tashlasa bo‘ladimi?",
+   "a": "Cho‘p yoki shpilka bilan tiqilmaganingiz ma’qul — pardani shikastlash mumkin. Quloq bitib qolsa, LOR-shifokorga ko‘rining."
+  },
+  {
+   "q": "Quloqni yuvish og‘riydimi?",
+   "a": "Odatda yo‘q: iliq, shovqinli va biroz odatiy emas."
+  }
+ ],
+ "reminders": []
+}

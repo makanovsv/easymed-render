@@ -1,0 +1,69 @@
+{
+ "title": "NT-proBNP (yurak peptidi)",
+ "also": [
+  "NT-proBNP",
+  "natriyuretik peptid",
+  "BNP",
+  "yurak yetishmovchiligi tahlili"
+ ],
+ "what": "Bu venadan qon tahlili. U yurakda ortiqcha yuk bor-yo‘qligini ko‘rsatadi.",
+ "why": "Nafas qisilishi, oyoqlar shishishi, tez charchashda, yurak yetishmovchiligi davosini nazorat qilish uchun.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda o‘sha yoki ertasi kuni",
+ "tell_doctor": [
+  "Yurak va bosim uchun qanday dorilar ichasiz",
+  "Buyrak kasalliklari bo‘lsa",
+  "Nafas qisilishi paydo bo‘lgan yoki kuchaygan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Alohida kerak emas. Ertalab, zich nonushtadan oldin topshirgan yaxshi. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Qon olishdan oldin",
+   "text": "Og‘ir yuksiz. 10–15 daqiqa tinch o‘tiring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — biror narsani o‘zgartirish kerakmi, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "NT-proBNP va EKG ning oldingi natijalari, agar bo‘lsa"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakchaga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon probirkaga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilaganday",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darrov ovqatlanib, odatiy ishlarga qaytsangiz bo‘ladi",
+  "Natija odatda 1 kunda — muddatni laboratoriya aytadi",
+  "Shifokor natijani oldingilari bilan solishtiradi — dinamika muhim"
+ ],
+ "red_flags": [
+  "Nafas qisilishi keskin kuchaydi, yota olmayapsiz, ko‘krak og‘rig‘i — tez yordamni chaqiring (103)",
+  "Bir necha kunda shishlar va vazn tez ortyapti — yaqin kunlarda shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "NT-proBNP yuqori — bu yurak yetishmovchiligimi?",
+   "a": "Shart emas. U yoshga, buyraklarga va boshqa sabablarga bog‘liq. Xulosani shifokor chiqaradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga NT-proBNP tahlili. Ertalab nonushtadan oldin, yuksiz."
+  }
+ ]
+}

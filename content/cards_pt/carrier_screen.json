@@ -1,0 +1,71 @@
+{
+ "title": "Triagem de portadores de doenças genéticas antes da gravidez",
+ "also": [
+  "teste genético antes da gravidez",
+  "triagem de portadores",
+  "teste genético do casal",
+  "exame de portador"
+ ],
+ "what": "O exame mostra se a pessoa carrega uma alteração escondida num gene. Ela não faz mal à pessoa, mas pode passar para o filho. Normalmente os dois futuros pais fazem.",
+ "why": "No planejamento da gravidez, se na família houve doenças hereditárias, se o casal é parente, e na fertilização in vitro.",
+ "duration": "a coleta leva normalmente 5 minutos, o resultado sai normalmente em 2 a 4 semanas",
+ "tell_doctor": [
+  "Se nas famílias houve doenças hereditárias ou crianças com elas",
+  "Se você e o parceiro são parentes",
+  "Se já está grávida, com quantas semanas",
+  "Se você recebeu sangue ou fez transplante de medula óssea"
+ ],
+ "prepare": [
+  {
+   "title": "Consulta",
+   "text": "É melhor conversar antes com um médico geneticista sobre quais doenças entram no teste."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não é preciso jejum. Confirme com o laboratório."
+  },
+  {
+   "title": "Parceiro",
+   "text": "Combinem quem faz primeiro, ou façam juntos. Assim a resposta para o casal sai mais rápido."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documentos dos dois parceiros",
+  "Dados sobre doenças nas famílias"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Limpam a pele com antisséptico",
+  "O sangue é colhido da veia. Às vezes, em vez dele, colhem saliva",
+  "O parceiro faz a mesma coisa",
+  "As amostras vão para o laboratório de genética"
+ ],
+ "feel": [
+  "Uma picada rápida, como num exame de sangue comum",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "O resultado sai normalmente em 2 a 4 semanas",
+  "Quase todo mundo é portador de alguma alteração. É normal",
+  "O risco para o filho existe quando os dois parceiros têm alteração no mesmo gene",
+  "Se for o caso, o médico geneticista explica as opções"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Se eu sou portador, estou doente?",
+   "a": "Não. O portador normalmente é saudável. A alteração só importa para os futuros filhos."
+  },
+  {
+   "q": "Basta um do casal fazer o teste?",
+   "a": "Às vezes começam por um. Mas a resposta exata sobre o risco para o filho vem dos resultados dos dois."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você faz o exame genético antes da gravidez. Levem os documentos dos dois."
+  }
+ ]
+}

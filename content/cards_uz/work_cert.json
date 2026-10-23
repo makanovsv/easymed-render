@@ -1,0 +1,72 @@
+{
+ "title": "Ish uchun profilaktik ko‘rik",
+ "also": [
+  "ish uchun tibbiy ko‘rik",
+  "davriy tibbiy ko‘rik",
+  "dastlabki tibbiy ko‘rik",
+  "tibbiy daftarcha",
+  "ishga ma’lumotnoma"
+ ],
+ "what": "Shifokorlar ish sog‘lig‘ingizga mos kelishini tekshiradi. Shifokorlar va tahlillar to‘plami kasbga bog‘liq.",
+ "why": "Ishga qabul qilishdan oldin va keyin muntazam ravishda, agar ish zararli sharoitlar, oziq-ovqat, bolalar, transport bilan bog‘liq bo‘lsa.",
+ "duration": "odatda 1–2 soatdan 1–2 kungacha, tahlillar kerak bo‘lsa; xulosa — barcha shifokorlardan keyin",
+ "tell_doctor": [
+  "Surunkali kasalliklar va dorilar",
+  "Operatsiyalar va jarohatlar",
+  "Homiladorlik, agar bo‘lsa",
+  "Ilgari ish bo‘yicha cheklovlar bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Yo‘llanma",
+   "text": "Ish beruvchidan yo‘llanma oling — unda zararli omillar va kasb ko‘rsatilgan."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Och qoringa qon kerak bo‘lsa, ertalab nonushtasiz keling. Klinikadan aniqlang."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Vaqtni zaxira bilan oling: xonalar ko‘p bo‘lishi mumkin."
+  }
+ ],
+ "bring": [
+  "Ish beruvchidan yo‘llanma",
+  "Hujjat",
+  "Kerak bo‘lsa, tibbiy daftarcha",
+  "Oldingi ko‘riklar, flyuorografiya natijalari"
+ ],
+ "steps": [
+  "Registraturada yo‘llanma tekshiriladi va marshrut beriladi",
+  "Tahlillar topshirasiz va kerakli tekshiruvlardan o‘tasiz",
+  "Shifokorlarni ro‘yxat bo‘yicha aylanib chiqasiz",
+  "Har bir shifokor belgi qo‘yadi",
+  "Komissiya raisi xulosa beradi"
+ ],
+ "feel": [
+  "Odatda qon topshirishdagi ukoldan boshqa noqulaylik yo‘q",
+  "Navbatlar bo‘lishi mumkin"
+ ],
+ "after": [
+  "Xulosa ish beruvchiga topshiriladi",
+  "Nimadir topilsa, qo‘shimcha tekshiruv buyuriladi",
+  "Keyingi ko‘rik — ish beruvchi jadvali bo‘yicha"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tibbiy ko‘rik uchun kim to‘laydi?",
+   "a": "Odatda ish beruvchi. Buni undan oldindan aniqlang."
+  },
+  {
+   "q": "Ishga qo‘ymasliklari mumkinmi?",
+   "a": "Ha, agar kasallik shu ishga xalaqit bersa. Ko‘pincha davolanish yoki qo‘shimcha tekshiruv uchun vaqt berishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga tibbiy ko‘rik. Yo‘llanma va hujjatni oling. Qon topshirsangiz — ertalab ovqat yemang."
+  }
+ ]
+}

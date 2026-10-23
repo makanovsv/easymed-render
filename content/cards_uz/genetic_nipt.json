@@ -1,0 +1,75 @@
+{
+ "title": "NIPT — noinvaziv prenatal test",
+ "also": [
+  "NIPT",
+  "noinvaziv test",
+  "homiladorlar uchun DNK skrining",
+  "prenatal DNK test",
+  "qondan Daun sindromi testi"
+ ],
+ "what": "Homilador ayolning venasidan qon olinadi. Unda bolaning DNK si bor, u orqali ba’zi xromosoma kasalliklari xavfi baholanadi.",
+ "why": "Odatda homiladorlikning 10-haftasidan: Daun sindromi va boshqa xromosoma buzilishlari xavfini baholash uchun, ayniqsa skrining yuqori xavfni ko‘rsatsa.",
+ "duration": "qon olish 3–5 daqiqa, natija odatda 7–14 kunda",
+ "tell_doctor": [
+  "Homiladorlikning aniq muddati",
+  "Egizak homiladorlik yoki EKO dan keyin bo‘lsa",
+  "Sizga qon quyilgan yoki a’zo ko‘chirilgan bo‘lsa",
+  "Oilada genetik kasalliklar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Muddat",
+   "text": "Odatda 10-haftadan oldin topshirilmaydi. Aniq muddatni shifokor yoki klinika aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda maxsus och turish kerak emas. Klinikadan aniqlang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqoriga oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Homiladorlikning aniq muddati ko‘rsatilgan ultratovush natijalari"
+ ],
+ "steps": [
+  "Anketa to‘ldirasiz: muddat, bo‘y, vazn, homiladorlik haqida ma’lumot",
+  "O‘tirasiz, qo‘lingiz tirsakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut bog‘lanadi, teri artiladi",
+  "Qon maxsus probirkaga olinadi",
+  "Igna olinadi, paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Bola uchun test xavfsiz — qon faqat onadan olinadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda 7–14 kunda",
+  "Xavf yuqori bo‘lsa, shifokor aniqlashtiruvchi tekshiruv taklif qiladi — NIPT yakuniy tashxis emas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "NIPT bolaga zarar qilishi mumkinmi?",
+   "a": "Yo‘q. Faqat onaning qoni venadan olinadi, oddiy tahlildagidek."
+  },
+  {
+   "q": "NIPT yaxshi bo‘lsa, ultratovush skriningini qilmasa bo‘ladimi?",
+   "a": "Yo‘q. Ultratovush boshqa narsani ko‘rsatadi — a’zolar rivojlanishini. Shifokor odatda ikkalasini buyuradi."
+  },
+  {
+   "q": "Bolaning jinsini bilsa bo‘ladimi?",
+   "a": "Ko‘p testlar buni ko‘rsatadi. Bilmoqchi bo‘lsangiz, klinikadan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga NIPT. Homiladorlikning aniq muddati ko‘rsatilgan ultratovush natijalarini oling."
+  }
+ ]
+}

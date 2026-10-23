@@ -1,0 +1,71 @@
+{
+ "title": "Bolada stomatit",
+ "also": [
+  "stomatit",
+  "bolaning og‘zidagi yaralar",
+  "aftalar",
+  "og‘izdagi yaralar"
+ ],
+ "what": "Bu bolaning og‘zidagi og‘riqli yaralar yoki oq dog‘lar. Shifokor ularning sababini ko‘radi va davo tanlaydi.",
+ "why": "Bola og‘izda og‘riqdan shikoyat qilsa, yomon ovqatlansa, til, yonoq yoki milkda yaralar ko‘rinsa.",
+ "duration": "qabul odatda 15–30 daqiqa; yaralar odatda 1–2 haftada bitadi",
+ "tell_doctor": [
+  "Yaralar qachon paydo bo‘lgan va nechta",
+  "Harorat bo‘lganmi",
+  "Bola qancha ichadi va ovqatlanadi",
+  "Uyda kimdir kasalmi",
+  "Bolaning allergiyalari va dorilari"
+ ],
+ "prepare": [
+  {
+   "title": "Ichimlik",
+   "text": "Qabuldan oldin bolaga tez-tez, oz-ozdan ichirib turing."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Yumshoq, salqin ovqat bering: nordon va sho‘rsiz."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Allaqachon berilgan dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor belgilar qanday boshlanganini so‘raydi",
+  "Og‘iz, til, milk va tomoqni ko‘radi",
+  "Ba’zan terini ko‘radi va haroratni o‘lchaydi",
+  "Og‘izni nima bilan ishlash va og‘riqqa nima berishni tushuntiradi",
+  "Qachon yana ko‘rinishni aytadi"
+ ],
+ "feel": [
+  "Ko‘rik odatda og‘riqsiz, lekin bolaga og‘zini ochish yoqimsiz bo‘lishi mumkin",
+  "Bolaga yeyish va ichish og‘riqli, ayniqsa nordon va issiq narsalar"
+ ],
+ "after": [
+  "Tez-tez, hech bo‘lmasa oz-ozdan ichiring",
+  "Yumshoq salqin ovqat: nordon, achchiq va issiqsiz",
+  "Bolaga alohida idish-tovoq va sochiq",
+  "Og‘izni shifokor buyurganidek ishlang"
+ ],
+ "red_flags": [
+  "Bola deyarli ichmaydi, kam siyadi, holsiz",
+  "38 dan yuqori harorat bir necha kun saqlanadi",
+  "Yaralar 2 haftadan uzoq bitmaydi yoki ko‘payib boradi"
+ ],
+ "faq": [
+  {
+   "q": "Bu yuqumlimi?",
+   "a": "Ba’zan ha: sababga bog‘liq. Boshqa bolalarni saqlash kerakmi, shifokor aytadi."
+  },
+  {
+   "q": "Bog‘chaga borsa bo‘ladimi?",
+   "a": "Odatda yo‘q, bola kasal va harorat bo‘lsa. Shifokordan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolada stomatit bo‘yicha qabul. Tez-tez ichirib turing va dorilar ro‘yxatini oling."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Tirnoq o‘rnining kapillyaroskopiyasi",
+ "also": [
+  "kapillyaroskopiya",
+  "tirnoq kapillyarlarini tekshirish",
+  "videokapillyaroskopiya"
+ ],
+ "what": "Shifokor maxsus mikroskop ostida qo‘l barmoqlaridagi tirnoq chetidagi mayda tomirlarni ko‘radi.",
+ "why": "Barmoqlar sovuqda oqarsa yoki ko‘karsa, hamda biriktiruvchi to‘qimaning ba’zi kasalliklariga shubha bo‘lsa.",
+ "duration": "odatda 15–30 daqiqa, xulosa darhol yoki kun davomida",
+ "tell_doctor": [
+  "Barmoqlar sovuqda rangini o‘zgartirsa",
+  "Qanday dorilar ichayotganingizni",
+  "Tirnoq yonida jarohat yoki teri shikastlanishi bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tirnoqlar",
+   "text": "Taxminan bir hafta oldin manikyur qilmang va kutikulani kesmang. Lakni oling."
+  },
+  {
+   "title": "Tekshiruv oldidan",
+   "text": "Tekshiruv kuni chekmagan va qahva ichmagan ma’qul. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Issiqlik",
+   "text": "Qo‘llaringiz xonada isishi uchun oldinroq keling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi tekshiruvlar natijalari, agar bo‘lsa"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz stolga qo‘yiladi",
+  "Qo‘llar xona issiqligiga bir necha daqiqa o‘rganadi",
+  "Tirnoq yonidagi teriga yog‘ tomiziladi",
+  "Shifokor har bir barmoqni mikroskop ostida ko‘radi",
+  "Xulosa uchun suratlar saqlanadi"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Qo‘lni bir joyda tinch ushlab turish kerak"
+ ],
+ "after": [
+  "Yog‘ artiladi va ketishingiz mumkin",
+  "Xulosa darhol yoki kun davomida beriladi",
+  "Natijani yo‘llagan shifokor bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nega manikyur mumkin emas?",
+   "a": "U tirnoq yonidagi terini shikastlaydi va kapillyarlar yomon ko‘rinadi."
+  },
+  {
+   "q": "Bu xavflimi?",
+   "a": "Yo‘q. Bu shunchaki kattalashtirib qaraladigan ko‘rik."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga kapillyaroskopiya. Tirnoqlardagi lakni oling, ertalab chekmang va qahva ichmang."
+  }
+ ]
+}

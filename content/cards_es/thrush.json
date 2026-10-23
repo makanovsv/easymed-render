@@ -1,0 +1,78 @@
+{
+ "title": "Tratamiento de candidiasis y vaginosis bacteriana",
+ "also": [
+  "candidiasis vaginal",
+  "hongos vaginales",
+  "vaginosis bacteriana",
+  "infección vaginal",
+  "flujo vaginal"
+ ],
+ "what": "Es el tratamiento de causas comunes de comezón y flujo raro. El médico toma una muestra y elige el tratamiento.",
+ "why": "Si tienes comezón, ardor, flujo como requesón o grisáceo, o mal olor.",
+ "duration": "la consulta suele durar de 15 a 20 minutos; el resultado del exudado normalmente está en 1 a 3 días",
+ "tell_doctor": [
+  "Cómo es el flujo y desde cuándo",
+  "Si estás o podrías estar embarazada",
+  "Qué medicamentos tomaste hace poco, sobre todo antibióticos",
+  "Qué tan seguido te pasa",
+  "Si tienes diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Antes del exudado",
+   "text": "1 o 2 días antes no te hagas duchas vaginales ni uses óvulos, si el médico no te los indicó."
+  },
+  {
+   "title": "Relaciones",
+   "text": "Normalmente se evitan las relaciones sexuales 1 o 2 días antes de la consulta."
+  },
+  {
+   "title": "Higiene",
+   "text": "En la noche lávate con agua tibia, sin productos con aroma."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "La lista de tus medicamentos",
+  "Una toalla sanitaria"
+ ],
+ "steps": [
+  "El médico te pregunta por tus molestias",
+  "Te acuestas en la mesa ginecológica",
+  "El médico revisa con un espejo vaginal",
+  "Toma una muestra con un cepillo suave",
+  "Te indica tratamiento: óvulos, crema o pastillas",
+  "Te explica cómo usarlo y cuántos días"
+ ],
+ "feel": [
+  "La toma de muestra es un poco molesta, pero no duele",
+  "Los óvulos pueden arder un poco"
+ ],
+ "after": [
+  "Termina todo el tratamiento, aunque ya te sientas mejor",
+  "Durante el tratamiento normalmente se recomienda no tener relaciones",
+  "A veces también se trata a la pareja. El médico te dirá",
+  "Si vuelve a pasar, regresa a consulta"
+ ],
+ "red_flags": [
+  "Dolor en el bajo vientre y fiebre de más de 38",
+  "Llagas o ampollitas en la piel",
+  "No mejoras después del tratamiento"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo tratarme los hongos yo sola?",
+   "a": "Es mejor ir primero al médico. Síntomas parecidos pueden tener causas distintas, y el tratamiento cambia."
+  },
+  {
+   "q": "¿Se le pasa a la pareja?",
+   "a": "La candidiasis y la vaginosis normalmente no se consideran infecciones de transmisión sexual, pero a veces también se trata a la pareja."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta con el ginecólogo. Hoy sin duchas vaginales ni óvulos, si el médico no te los indicó."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Terapevt qabuli",
+ "also": [
+  "umumiy amaliyot shifokori qabuli",
+  "uchastka shifokori",
+  "UASh",
+  "oilaviy shifokor"
+ ],
+ "what": "Birinchi murojaat shifokori. So‘raydi, ko‘radi, davolash buyuradi yoki tor mutaxassisga yo‘llaydi.",
+ "why": "Nimadir bezovta qilsa-yu, qaysi shifokorga borishni bilmasangiz. Shuningdek profilaktik ko‘rik, ma’lumotnomalar va surunkali kasalliklarni nazorat qilish uchun.",
+ "duration": "odatda 15–30 daqiqa",
+ "tell_doctor": [
+  "Nima bezovta qilayotganini va qachondan beri",
+  "Qanday dorilar, vitaminlar va qo‘shimchalar ichayotganingizni",
+  "Dorilarga allergiya",
+  "Surunkali kasalliklar va operatsiyalar",
+  "Yaqin qarindoshlardagi kasalliklar"
+ ],
+ "prepare": [
+  {
+   "title": "Shikoyatlar",
+   "text": "Nima bezovta qilayotganini va nimani so‘ramoqchi ekaningizni oldindan yozib qo‘ying — qabulda unutish oson."
+  },
+  {
+   "title": "Bosim",
+   "text": "Uyda bosim yoki qandni o‘lchasangiz, yozuvlarni oling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Ko‘krakni va bosim uchun qo‘lni oson ochish mumkin bo‘lgan qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Oldingi tahlillar, epikrizlar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarining o‘zi"
+ ],
+ "steps": [
+  "Shifokor shikoyatlaringiz va sog‘lig‘ingiz haqida so‘raydi",
+  "Bosim, puls, ba’zan harorat va vaznni o‘lchaydi",
+  "Yurak va o‘pkani tinglaydi",
+  "Tomoqni ko‘radi va qorinni paypaslaydi",
+  "Keyin nima bo‘lishini tushuntiradi: davolash, tahlillar yoki boshqa shifokor"
+ ],
+ "feel": [
+  "Yoqimsiz hech narsa yo‘q — oddiy ko‘rik"
+ ],
+ "after": [
+  "Shifokor buyruqlar va yo‘llanmalar beradi",
+  "Tushunarsiz joy bo‘lsa, xonada turganingizda so‘rang",
+  "Buyurilgan davolashni o‘zingiz o‘zgartirmang — savol bo‘lsa, shifokorga murojaat qiling"
+ ],
+ "red_flags": [
+  "Ko‘krakda og‘riq, nafas qisishi, yuzning qiyshayishi, qo‘l yoki oyoqda holsizlik, to‘satdan qattiq bosh og‘rig‘i bo‘lsa — qabulni kutmang, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Terapevt qabuliga qanday tayyorlanish kerak?",
+   "a": "Shikoyat va savollarni yozing, dorilar ro‘yxatini tuzing va oldingi tahlillarni oling. Shunda qabul tezroq va foydaliroq o‘tadi."
+  },
+  {
+   "q": "Avval terapevtga, keyin tor shifokorga borish kerakmi?",
+   "a": "Ko‘pincha ha: terapevt qaysi mutaxassis kerakligini aniqlaydi va kerakli tahlillarni darrov buyuradi."
+  }
+ ],
+ "reminders": []
+}

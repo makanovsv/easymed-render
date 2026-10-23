@@ -1,0 +1,76 @@
+{
+ "title": "Vivendo com insuficiência cardíaca (peso, inchaço, sal)",
+ "also": [
+  "insuficiência cardíaca",
+  "coração fraco",
+  "inchaço e falta de ar",
+  "ICC"
+ ],
+ "what": "Na insuficiência cardíaca, o coração bombeia o sangue com menos força. O líquido fica retido, e aparecem inchaço e falta de ar. O controle diário ajuda a manter a doença sob controle.",
+ "why": "Se o médico encontrou insuficiência cardíaca.",
+ "duration": "o controle leva alguns minutos todo dia",
+ "tell_doctor": [
+  "Como o peso e o inchaço estão mudando",
+  "Se a falta de ar piorou ou é difícil deitar",
+  "Todos os remédios, incluindo analgésicos e suplementos",
+  "Quanto líquido e sal você pode ter: pergunte ao médico"
+ ],
+ "prepare": [
+  {
+   "title": "Balança",
+   "text": "Você precisa de uma balança em casa. Pese-se toda manhã."
+  },
+  {
+   "title": "Diário",
+   "text": "Anote peso, pressão, pulso e como se sente."
+  },
+  {
+   "title": "Sal e água",
+   "text": "O médico vai dizer quanto sal e líquido você pode. Não mude por conta própria."
+  }
+ ],
+ "bring": [
+  "Diário de peso e pressão",
+  "Lista de remédios",
+  "Aparelho de pressão"
+ ],
+ "steps": [
+  "Toda manhã, depois de ir ao banheiro e antes do café, pese-se com a mesma roupa",
+  "Anote o peso no diário",
+  "Confira as pernas: se apareceu inchaço",
+  "Tome os remédios todo dia, como o médico receitou",
+  "Coloque menos sal na comida e evite alimentos prontos salgados",
+  "Mexa-se um pouco todo dia, se o médico liberou"
+ ],
+ "feel": [
+  "Falta de ar no esforço e cansaço são comuns",
+  "Os diuréticos fazem ir muito ao banheiro; é assim mesmo"
+ ],
+ "after": [
+  "Se o peso subiu mais de 2 kg em 2 a 3 dias, ligue para o médico",
+  "Não tome analgésicos sem orientação: alguns retêm líquido",
+  "Pergunte sobre as vacinas contra gripe e pneumococo"
+ ],
+ "red_flags": [
+  "Falta de ar forte em repouso ou à noite, não consegue deitar: ligue para a emergência",
+  "Dor no peito: ligue para a emergência",
+  "Desmaio ou coração muito acelerado: ligue para a emergência",
+  "O peso sobe rápido e o inchaço aumenta: ligue para o médico hoje mesmo"
+ ],
+ "faq": [
+  {
+   "q": "Posso beber muita água?",
+   "a": "Nem sempre. Quanto líquido você pode, o médico decide."
+  },
+  {
+   "q": "Por que é importante me pesar todo dia?",
+   "a": "O peso sobe pelo excesso de água antes de aparecer o inchaço. É um sinal precoce."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Bom dia! Pese-se antes do café da manhã e anote o peso."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Trixoskopiya (soch to‘kilishi)",
+ "also": [
+  "trixoskopiya",
+  "soch to‘kilishi",
+  "trixolog",
+  "sochni tekshirish"
+ ],
+ "what": "Shifokor bosh terisi va sochni kattalashtiradigan maxsus kamera bilan ko‘radi. Bu og‘riqsiz va to‘kilish sababini tushunishga yordam beradi.",
+ "why": "Soch qattiq to‘kilganda, siyraklashganda yoki sochsiz joylar paydo bo‘lganda.",
+ "duration": "ko‘rik odatda 15–30 daqiqa; xulosa odatda darrov",
+ "tell_doctor": [
+  "To‘kilish qachon boshlangan va undan oldin nima bo‘lgan: kasallik, stress, tug‘ruq, parhez",
+  "Barcha dorilar va qo‘shimchalar",
+  "Qarindoshlarda to‘kilish bo‘lsa",
+  "Gormonal muammolar, agar bilsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Yuvish",
+   "text": "Odatda ko‘rikdan 1–2 kun oldin boshingizni yuvmang — klinikadan aniqlang."
+  },
+  {
+   "title": "Vositalar",
+   "text": "Ko‘rik kuni lak, gel va quruq shampun ishlatmang."
+  },
+  {
+   "title": "Bo‘yash",
+   "text": "Ko‘rikdan 1–2 hafta oldin sochni bo‘yamang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tahlillar, agar topshirgan bo‘lsangiz",
+  "Dorilar va qo‘shimchalar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor to‘kilish haqida so‘raydi",
+  "Soch va bosh terisini ko‘radi",
+  "Kamerani boshning turli joylariga qo‘yadi",
+  "Kattalashtirilgan tasvir ekranda ko‘rinadi",
+  "Ba’zan keyingi tashrifda solishtirish uchun suratga olinadi",
+  "Shifokor natijani tushuntiradi va tahlil yoki davolash buyuradi"
+ ],
+ "feel": [
+  "Og‘riq yo‘q, kamera shunchaki teriga tegadi",
+  "Ba’zan shifokor sochlar qanchalik mustahkam ekanini tekshirish uchun tutamni ehtiyotkorlik bilan tortadi"
+ ],
+ "after": [
+  "Darrov boshni yuvish va vositalardan foydalanish mumkin",
+  "Shifokor buyurgan bo‘lsa, tahlillarni topshiring",
+  "Takroriy ko‘rik odatda davolashning bir necha oyidan keyin"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Har kuni soch to‘kilishi normalmi?",
+   "a": "Ha, har kuni sochning bir qismi to‘kiladi. Sezilarli ko‘payib ketgan bo‘lsa — shifokorga ko‘rinish kerak."
+  },
+  {
+   "q": "Davolash natijasi qachon ko‘rinadi?",
+   "a": "Soch sekin o‘sadi. Odatda 3–6 oydan keyin baholanadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga trixoskopiya. Odatda boshni yuvmang va lak, gel ishlatmang — klinikadan aniqlang."
+  }
+ ]
+}

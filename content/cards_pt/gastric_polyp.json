@@ -1,0 +1,82 @@
+{
+ "title": "Retirada de pólipo do estômago",
+ "also": [
+  "polipectomia gástrica",
+  "retirada endoscópica de pólipo",
+  "tirar pólipo na endoscopia"
+ ],
+ "what": "Pelo endoscópio, o médico retira o pólipo do estômago com uma alça fina ou uma pinça. Não há cortes na barriga.",
+ "why": "Quando a endoscopia achou um pólipo e é preciso tirar e analisar.",
+ "duration": "o procedimento leva normalmente 20 a 60 minutos; às vezes observação até a noite ou uma noite no hospital; a biópsia sai em 1 a 2 semanas",
+ "tell_doctor": [
+  "Remédios que afinam o sangue. O médico diz o que suspender e quando",
+  "Diabetes",
+  "Doenças do coração, marca-passo",
+  "Alergias e problemas com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente são precisos exames de sangue de coagulação e tipo sanguíneo. A clínica passa a lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come por 6 a 8 horas. Água, até o horário que a clínica disser."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. O que pular, o médico diz."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Depois da sedação, é preciso um acompanhante."
+  }
+ ],
+ "bring": [
+  "Pedido médico e laudo da endoscopia anterior",
+  "Documento de identidade",
+  "Lista de remédios",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Colocam um cateter na veia",
+  "Você se deita do lado esquerdo, e colocam um bocal na boca",
+  "Aplicam a sedação, e você dorme",
+  "O médico coloca o endoscópio, acha o pólipo e corta com a alça",
+  "O local é cauterizado ou fechado com clipes",
+  "O pólipo vai para o laboratório"
+ ],
+ "feel": [
+  "Com sedação, normalmente não se sente nem se lembra do procedimento",
+  "Depois, garganta arranhando e barriga estufada",
+  "Às vezes um leve incômodo na parte de cima da barriga"
+ ],
+ "after": [
+  "Volte a comer no tempo que o médico disser, primeiro comida macia e morna",
+  "Por alguns dias, comida leve, sem pimenta, sem coisas muito quentes e sem álcool",
+  "O médico pode receitar remédios para proteger o estômago",
+  "Depois da sedação, não dirija até o fim do dia",
+  "O resultado da biópsia sai em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Vômito com sangue ou parecido com borra de café: ligue para a emergência",
+  "Fezes pretas e moles, fraqueza, tontura: ligue para a emergência",
+  "Dor forte na barriga ou febre"
+ ],
+ "faq": [
+  {
+   "q": "Pólipo é câncer?",
+   "a": "Na maioria das vezes não. Só a análise do tecido depois da retirada diz com certeza."
+  },
+  {
+   "q": "Vai doer?",
+   "a": "Normalmente não. O estômago não tem nervos de dor, e o procedimento é feito com sedação."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a retirada do pólipo do estômago. Depois do jantar não coma mais. De manhã, vá com um acompanhante."
+  }
+ ]
+}

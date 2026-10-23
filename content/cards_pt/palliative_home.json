@@ -1,0 +1,76 @@
+{
+ "title": "Cuidados paliativos em casa",
+ "also": [
+  "cuidados paliativos",
+  "atendimento domiciliar paliativo",
+  "cuidado de doente grave em casa",
+  "home care paliativo"
+ ],
+ "what": "Médicos e enfermeiros vão à casa da pessoa gravemente doente. Eles aliviam a dor e outros sintomas e ajudam a família.",
+ "why": "Em doença grave sem cura, quando o mais importante é diminuir a dor e deixar a vida mais tranquila.",
+ "duration": "cada visita leva normalmente de 30 a 60 minutos; o acompanhamento dura o tempo que for preciso",
+ "tell_doctor": [
+  "Quais sintomas incomodam mais: dor, falta de ar, enjoo, insônia",
+  "Quais remédios a pessoa recebe e como reage a eles",
+  "Se consegue comer, beber e levantar",
+  "Quem cuida e o que está difícil",
+  "O que a própria pessoa deseja sobre o tratamento"
+ ],
+ "prepare": [
+  {
+   "title": "Encaminhamento",
+   "text": "Normalmente é preciso um laudo médico indicando cuidados paliativos. Pergunte no posto de saúde como conseguir."
+  },
+  {
+   "title": "Remédios",
+   "text": "Junte todos os remédios e as anotações de quando foram dados."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Anote o que preocupa você como cuidador."
+  }
+ ],
+ "bring": [
+  "Documento do paciente",
+  "Relatórios e laudos",
+  "Todos os remédios",
+  "Anotações sobre a dor e os sintomas"
+ ],
+ "steps": [
+  "A equipe chega no horário combinado",
+  "O médico conversa e examina o paciente",
+  "Avalia a dor e os outros sintomas",
+  "Escolhe ou muda o tratamento",
+  "A enfermeira mostra como cuidar",
+  "Combinam a próxima visita e como entrar em contato"
+ ],
+ "feel": [
+  "O exame é feito com cuidado",
+  "Para a família pode ser pesado; a equipe apoia também a família"
+ ],
+ "after": [
+  "Dê os remédios exatamente conforme o esquema",
+  "Anote como a dor muda",
+  "Ligue para o serviço se piorar; não espere a próxima visita"
+ ],
+ "red_flags": [
+  "Dor forte que os remédios não aliviam: ligue para o serviço de cuidados paliativos",
+  "Respiração difícil, sangramento ou convulsões: ligue para a emergência ou para o serviço"
+ ],
+ "faq": [
+  {
+   "q": "Cuidado paliativo é só para os últimos dias?",
+   "a": "Não. A ajuda pode durar muito tempo, para a pessoa se sentir melhor."
+  },
+  {
+   "q": "Dá para receber remédio para dor em casa?",
+   "a": "Sim. O médico escolhe e receita os remédios necessários."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a visita do serviço de cuidados paliativos. Junte todos os remédios e anote o que preocupa."
+  }
+ ]
+}

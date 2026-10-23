@@ -1,0 +1,76 @@
+{
+ "title": "Zinc blood test",
+ "also": [
+  "zinc test",
+  "serum zinc",
+  "zinc level",
+  "trace minerals blood test"
+ ],
+ "what": "This blood test shows whether your body has enough zinc.",
+ "why": "For hair loss, slow wound healing, frequent colds, changes in taste, long-lasting diarrhea, and in children, poor growth.",
+ "duration": "the blood draw takes a few minutes; results usually come in a few days",
+ "tell_doctor": [
+  "If you take vitamins or supplements with zinc",
+  "If you have a bowel condition or had stomach surgery",
+  "If you take water pills or hormone pills",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Blood is usually taken in the morning on an empty stomach: 8 to 12 hours without food. Plain water is fine. Check with the lab."
+  },
+  {
+   "title": "Supplements",
+   "text": "Ask your doctor if you should pause zinc supplements before the test."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours: no alcohol and no hard workouts. Try not to smoke in the morning."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve you can easily roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID",
+  "A list of the vitamins and supplements you take"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "You can eat right away",
+  "Do not start taking zinc on your own. Your doctor will choose the dose based on the result"
+ ],
+ "red_flags": [
+  "The puncture site is very swollen, painful, and red"
+ ],
+ "faq": [
+  {
+   "q": "Why on an empty stomach?",
+   "a": "Blood zinc changes after meals. In the morning on an empty stomach, the result is more accurate."
+  },
+  {
+   "q": "Can I just start taking zinc without a test?",
+   "a": "Better not. Too much zinc is harmful too, so your doctor should set the dose and how long to take it."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Zinc test tomorrow. Do not eat after dinner. Water is fine."
+  }
+ ]
+}

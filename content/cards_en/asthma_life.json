@@ -1,0 +1,75 @@
+{
+ "title": "Living with asthma: an action plan",
+ "also": [
+  "asthma action plan",
+  "bronchial asthma",
+  "how to live with asthma",
+  "adult asthma"
+ ],
+ "what": "Asthma is a condition in which the airways narrow easily. With the right treatment and an action plan, most people live a normal life.",
+ "why": "For all adults with asthma and their family.",
+ "duration": "the plan is made at a doctor's visit; treatment is usually ongoing",
+ "tell_doctor": [
+  "How often you have attacks and wake up at night",
+  "How often you use the quick-relief inhaler",
+  "What triggers attacks: dust, animals, cold, exercise",
+  "If you smoke or people around you smoke"
+ ],
+ "prepare": [
+  {
+   "title": "Action plan",
+   "text": "Ask your doctor for a written plan: what to do every day and when you get worse."
+  },
+  {
+   "title": "Inhalers",
+   "text": "Show your doctor how you take a breath from the inhaler. Mistakes in technique are a common reason for poor control."
+  },
+  {
+   "title": "Triggers",
+   "text": "Find out what causes your attacks and try to avoid it."
+  }
+ ],
+ "bring": [
+  "Inhalers and spacer",
+  "Your written action plan",
+  "A symptom diary or a peak flow meter, if you have one"
+ ],
+ "steps": [
+  "Use your controller inhaler every day as your doctor prescribed",
+  "Always carry your quick-relief inhaler",
+  "During an attack, sit up straight and breathe calmly",
+  "Take puffs of the quick-relief inhaler as in your plan",
+  "If it does not help, follow the red zone of your plan and call emergency services",
+  "Write down how many times you used the quick-relief inhaler"
+ ],
+ "feel": [
+  "With good control, you have few attacks or none",
+  "After the inhaler, you may have a shaky feeling or a racing heart that usually passes quickly"
+ ],
+ "after": [
+  "After a steroid inhaler, rinse your mouth with water",
+  "See your doctor regularly, even if you feel fine",
+  "Do not stop your daily treatment on your own when you feel better"
+ ],
+ "red_flags": [
+  "Severe shortness of breath, or it is hard to speak: call emergency services",
+  "The quick-relief inhaler does not help or you need it very often: call emergency services",
+  "Blue lips or fingernails: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I exercise with asthma?",
+   "a": "Usually yes. Ask your doctor if you should take a puff before exercise."
+  },
+  {
+   "q": "Are the steroids in the inhaler harmful?",
+   "a": "The dose in inhalers is small and works mostly on the airways. Do not stop on your own, and talk to your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Do not forget your daily inhaler. Keep the quick-relief one with you."
+  }
+ ]
+}

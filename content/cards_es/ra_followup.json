@@ -1,0 +1,76 @@
+{
+ "title": "Seguimiento de la artritis reumatoide",
+ "also": [
+  "artritis reumatoide",
+  "seguimiento con el reumatólogo",
+  "control de la artritis",
+  "reumatólogo"
+ ],
+ "what": "El reumatólogo revisa con regularidad cómo funciona el tratamiento y si no te hace daño. Así se logra cuidar las articulaciones.",
+ "why": "Para todas las personas con artritis reumatoide: normalmente cada 1 a 3 meses al inicio del tratamiento y con menos frecuencia cuando la enfermedad está tranquila.",
+ "duration": "la consulta suele durar de 20 a 30 minutos; los análisis, de 1 a 3 días",
+ "tell_doctor": [
+  "Qué articulaciones duelen e hinchan y cuánto dura la rigidez de la mañana",
+  "Efectos de los medicamentos: náuseas, sarpullido, infecciones frecuentes",
+  "Si planeas un embarazo",
+  "Si hubo infecciones, vacunas u operaciones recientes",
+  "Todos tus medicamentos y suplementos"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Antes de la consulta muchas veces se hacen análisis de sangre: biometría, pruebas del hígado y marcadores de inflamación. Pregunta cuáles y cuándo."
+  },
+  {
+   "title": "Diario",
+   "text": "Anota cómo te sentiste entre una visita y otra."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Tómalos según el esquema. No los saltes ni los suspendas por tu cuenta."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Análisis recientes",
+  "El diario de cómo te sientes",
+  "La lista de medicamentos y dosis"
+ ],
+ "steps": [
+  "El médico te pregunta por el dolor, la rigidez y los efectos de los medicamentos",
+  "Te revisa y palpa las articulaciones",
+  "Revisa tus análisis",
+  "Evalúa qué tan activa está la enfermedad",
+  "Decide si deja el tratamiento igual o lo cambia",
+  "Fija la fecha del próximo control"
+ ],
+ "feel": [
+  "Al palpar articulaciones inflamadas puede doler",
+  "El análisis de sangre es un pinchazo corto"
+ ],
+ "after": [
+  "Haz los análisis a tiempo: así te proteges de los efectos de los medicamentos",
+  "Antes de vacunas y operaciones, avisa al médico de tu tratamiento",
+  "Muévete y haz los ejercicios que el médico te permita"
+ ],
+ "red_flags": [
+  "Fiebre alta, tos o falta de aire durante el tratamiento: ve al médico de inmediato",
+  "Debilidad repentina, sangrados o piel amarilla: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo dejar el tratamiento si ya no me duelen las articulaciones?",
+   "a": "No, no sin el médico. La enfermedad puede volver."
+  },
+  {
+   "q": "¿Puedo vacunarme?",
+   "a": "Muchas vacunas se pueden y se deben poner, pero siempre consúltalo con el reumatólogo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "En 2 días tienes consulta con el reumatólogo. No olvides hacerte los análisis, si el médico los pidió."
+  }
+ ]
+}

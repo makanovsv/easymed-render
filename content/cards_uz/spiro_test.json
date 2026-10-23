@@ -1,0 +1,76 @@
+{
+ "title": "Bronxolitik bilan spirometriya",
+ "also": [
+  "sinama bilan spirometriya",
+  "bronxolitik sinama",
+  "bronxolitik bilan TNF",
+  "salbutamol bilan sinama"
+ ],
+ "what": "Siz naychaga kuch bilan nafas chiqarasiz, keyin bronxlarni kengaytiruvchi dorini nafasga olasiz va yana nafas chiqarasiz. Shunda dori nafasni yaxshilaydimi-yo‘qmi, ko‘rinadi.",
+ "why": "Yo‘tal, hansirash, ko‘krakda hushtak tovushida, astma va SOOK ni tekshirish uchun, davoni nazorat qilish uchun.",
+ "duration": "odatda 30–40 daqiqa, xulosa ko‘pincha darhol yoki o‘sha kuni",
+ "tell_doctor": [
+  "Nafas uchun qanday ingalyator va dorilardan foydalanasiz",
+  "Yaqinda ko‘z, ko‘krak yoki qorinda operatsiya bo‘lgan bo‘lsa",
+  "Yaqinda infarkt bo‘lgan yoki yurak kasalliklari bor bo‘lsa",
+  "Hozir shamollash yoki kuchayish bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ingalyatorlar",
+   "text": "Ba’zi ingalyatorlarni sinamadan oldin bir necha soat ishlatmaydilar. O‘zingiz bekor qilmang: shifokordan oldindan so‘rang."
+  },
+  {
+   "title": "Chekish va kofe",
+   "text": "Testdan hech bo‘lmaganda bir necha soat oldin chekmang. Ertalab kofesiz va kuchli choysiz."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Yengil nonushta, 2 soat oldin zich ovqatsiz. Testdan oldin og‘ir yuklamasiz."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng, tor kamarsiz."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "O‘z ingalyatorlaringiz",
+  "Oldingi spirometriyalar",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Siz o‘tirasiz, burningizga qisqich taqishadi",
+  "Lablaringiz bilan naychani zich ushlaysiz",
+  "Chuqur nafas olib, imkon qadar kuchli va uzoq chiqarasiz",
+  "3 marta yoki ko‘proq takrorlaysiz",
+  "Ingalyatordan dorini nafasga olasiz",
+  "15–20 daqiqadan keyin nafas chiqarishlarni takrorlaysiz"
+ ],
+ "feel": [
+  "Tez-tez nafas chiqarishdan boshingiz aylanishi yoki yo‘talgingiz kelishi mumkin",
+  "Dori ta’sirida yengil titroq yoki yurak urishi bo‘ladi: o‘tib ketadi"
+ ],
+ "after": [
+  "Darhol odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "O‘z ingalyatorlaringiz odatiy sxema bo‘yicha, shifokor boshqacha aytmagan bo‘lsa",
+  "Xulosa ko‘pincha darhol"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Test paytida nega dori beriladi?",
+   "a": "Undan keyin nafas sezilarli yaxshilansa, bu shifokorga qanday kasallik ekanini va uni qanday davolashni tushunishga yordam beradi."
+  },
+  {
+   "q": "Ertalab ingalyatordan foydalansa bo‘ladimi?",
+   "a": "O‘zingiz hal qilmang. Shifokordan oldindan so‘rang: ba’zi ingalyatorlarni sinamadan oldin ishlatmaslikni so‘rashadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga sinamali spirometriya. Ingalyatorlar haqida shifokordan so‘rang. Ertalab chekmang va kofesiz."
+  }
+ ]
+}

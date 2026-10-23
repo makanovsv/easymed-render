@@ -1,0 +1,63 @@
+{
+ "title": "Tishlar KT’si (KNKT)",
+ "also": [
+  "KNKT",
+  "tishlarning 3D surati",
+  "konussimon nurli tomografiya",
+  "tishlar tomogrammasi"
+ ],
+ "what": "Tishlar va jag‘larning hajmli surati. Shifokor ildizlar, kanallar va suyakni hamma tomondan ko‘radi.",
+ "why": "Implantatsiya va murakkab tish olishdan oldin, kanallarni davolash uchun, kistalarda, breketlardan oldin, burun bo‘shliqlari uchun.",
+ "duration": "odatda 5–10 daqiqa, suratning o‘zi bir daqiqadan kam; natija ko‘pincha darhol",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Metall qoplamalar yoki implantlar bo‘lsa: ular suratga biroz xalaqit beradi, lekin bu taqiq emas",
+  "Qimirlamay turish yoki o‘tirish qiyin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kerak emas. Ovqat yeyish va suv ichish mumkin."
+  },
+  {
+   "title": "Metall",
+   "text": "Zirak, zanjir, pirsing, soch qisqichlari, ko‘zoynak va olinadigan protezlarni yeching."
+  }
+ ],
+ "bring": [
+  "Tish shifokorining surat zonasi ko‘rsatilgan yo‘llanmasi",
+  "Tishlarning oldingi suratlari"
+ ],
+ "steps": [
+  "Suratga xalaqit bermasa, himoya fartugi kiydirishadi",
+  "Apparatga o‘tirasiz yoki turasiz, iyagingiz tayanchga qo‘yiladi",
+  "Nasadkani tishlab turasiz, boshingiz mahkamlanadi",
+  "Apparat boshingiz atrofida aylanadi: qimirlamaslik va yutinmaslik kerak",
+  "Surat kompyuterda qayta ishlanadi"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Bir daqiqadan kam qimirlamay o‘tirish kerak"
+ ],
+ "after": [
+  "Surat odatda diskda yoki fleshkada beriladi, xulosa o‘sha kuni yoki keyinroq",
+  "U bilan tish shifokori yoki jarrohga boring"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nurlanish bo‘yicha xavflimi?",
+   "a": "Doza panoramadan ko‘proq, lekin odatda oddiy bosh KT’sidan kam. Davolash uchun kerak bo‘lganda buyuriladi."
+  },
+  {
+   "q": "Jagning faqat bir qismini suratga olsa bo‘ladimi?",
+   "a": "Ha, ko‘pincha kichik zona olinadi: shunda doza kam bo‘ladi. Hajmni shifokor tanlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada tishlar KT’si. Zirak va pirsinglarni yeching, surat zonasi ko‘rsatilgan yo‘llanmani oling."
+  }
+ ]
+}

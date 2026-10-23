@@ -1,0 +1,78 @@
+{
+ "title": "Metaxolin bilan provokatsion test",
+ "also": [
+  "metaxolin testi",
+  "bronxoprovokatsion sinama",
+  "bronxlar giperreaktivligiga test"
+ ],
+ "what": "Siz moddani kichik, asta-sekin oshib boruvchi dozalarda nafas olasiz va har biridan keyin spirometriya qilasiz. Shu tariqa bronxlar qanchalik sezgirligi tekshiriladi.",
+ "why": "Astmaga shubha bo‘lganda, lekin oddiy spirometriya normada bo‘lsa.",
+ "duration": "odatda 1–2 soat, natija darrov",
+ "tell_doctor": [
+  "Barcha ingalyatorlar va dorilarni — bir qismini oldindan bekor qilish kerak, lekin faqat shifokor ko‘rsatmasi bilan",
+  "Homilador bo‘lsangiz yoki emizsangiz",
+  "Infarkt, insult yoki yaqinda shamollash bo‘lgan bo‘lsa",
+  "Qon bosimi yuqori bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Ko‘p ingalyatorlar va allergiyaga qarshi tabletkalar testdan oldin turli muddatga bekor qilinadi. Sxemani shifokor beradi. O‘zingiz hech narsani bekor qilmang."
+  },
+  {
+   "title": "Qahva",
+   "text": "Test kuni odatda qahva, choy, kola va shokolad mumkin emas. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Chekish va yuklama",
+   "text": "Test kuni chekmang va sport bilan shug‘ullanmang."
+  },
+  {
+   "title": "Sog‘liq",
+   "text": "Shamollab qolsangiz — qo‘ng‘iroq qiling, test odatda ko‘chiriladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Dorilar ro‘yxati",
+  "Xurujni bartaraf qiluvchi o‘z ingalyatoringiz"
+ ],
+ "steps": [
+  "Avval oddiy spirometriya qilinadi",
+  "Siz nebulayzer orqali moddaning kichik dozasini nafas olasiz",
+  "Bir necha daqiqadan keyin yana spirometriya qilasiz",
+  "Doza asta-sekin oshiriladi va takrorlanadi",
+  "Ko‘rsatkichlar pasaysa yoki butun dastur o‘tilsa, test to‘xtatiladi",
+  "Oxirida nafas tiklanishi uchun ingalyator beriladi"
+ ],
+ "feel": [
+  "Yo‘tal, ko‘krakda yengil tiqilish paydo bo‘lishi mumkin",
+  "Ba’zan nafas olganda hushtak — shifokor yonida va buni ingalyator bilan darrov bartaraf qiladi",
+  "Tez-tez nafas chiqarishdan charchaysiz"
+ ],
+ "after": [
+  "Nafas dastlabki holatga qaytgandan keyin ketishingizga ruxsat berishadi",
+  "Natijani odatda darrov aytishadi",
+  "O‘z dorilaringizga qaytishingiz mumkin — shifokordan aniqlab oling"
+ ],
+ "red_flags": [
+  "Uyda yo‘tal yoki nafas qisishi qaytdi va ingalyator yordam bermayapti — 103 ga qo‘ng‘iroq qiling",
+  "Ko‘krakda hushtak va gapirish qiyin"
+ ],
+ "faq": [
+  {
+   "q": "Bu xavfli emasmi?",
+   "a": "Testni shifokor nazoratida, dorilar tayyor holda o‘tkazishadi. Kuchli reaksiyalar kam uchraydi."
+  },
+  {
+   "q": "Nega ingalyatorlarni bekor qilish kerak?",
+   "a": "Aks holda test noto‘g‘ri natija ko‘rsatishi mumkin. Nimani va qancha muddatga bekor qilishni faqat shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga metaxolin bilan test. Shifokor qabul qilmaslikni aytgan dorilarni tekshiring. Ertalab qahva va choysiz, o‘z ingalyatoringizni oling."
+  }
+ ]
+}

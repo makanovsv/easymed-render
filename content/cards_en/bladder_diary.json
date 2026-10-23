@@ -1,0 +1,68 @@
+{
+ "title": "Bladder diary",
+ "also": [
+  "bladder diary",
+  "voiding diary",
+  "toilet diary",
+  "fluid and urine diary"
+ ],
+ "what": "For a few days at home, you write down how much you drink and when you use the toilet. Sometimes also how much urine you pass each time.",
+ "why": "For frequent urges, getting up at night to pee, or leaking. The diary shows the doctor things that are hard to remember.",
+ "duration": "usually 2 to 3 days of notes; it is reviewed at your visit",
+ "tell_doctor": [
+  "What medicines you take, especially water pills",
+  "What bothers you most",
+  "If writing things down is hard, say so. The doctor will suggest an easier way"
+ ],
+ "prepare": [
+  {
+   "title": "Form",
+   "text": "Get a form from your doctor or draw columns in a notebook: time, how much you drank, how much urine, any urges or leaking."
+  },
+  {
+   "title": "Measuring cup",
+   "text": "You need a measuring cup or jar with markings. Pee into it and write down the amount."
+  },
+  {
+   "title": "Days",
+   "text": "Choose normal days when you are at home. Drink and go about your day as usual."
+  }
+ ],
+ "bring": [
+  "Your filled-in diary",
+  "Your referral, if you have one"
+ ],
+ "steps": [
+  "In the morning, note the time you get up",
+  "Each time you drink, write down the time and how much",
+  "Each time you use the toilet, write down the time and the amount of urine",
+  "Mark any strong urges and leaking",
+  "Write down getting up at night too",
+  "Give the diary to the doctor at your visit"
+ ],
+ "feel": [
+  "The first day feels like a hassle, then you get used to it",
+  "It can feel awkward, but the doctor needs honest numbers"
+ ],
+ "after": [
+  "Bring the diary to your visit",
+  "The doctor will review it and tell you what to do next"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Should I drink more or less than usual?",
+   "a": "No. Drink as usual, or the diary will not show your real picture."
+  },
+  {
+   "q": "What if I missed an entry?",
+   "a": "That is OK. Mark the gap and keep going."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "You start your bladder diary tomorrow. Get the form and a measuring cup ready."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Kontakt linzalarni tanlash",
+ "also": [
+  "linza tanlash",
+  "kontakt linzalar",
+  "yumshoq linzalar",
+  "linza taqishni o‘rgatish"
+ ],
+ "what": "Shifokor ko‘zlaringizni tekshiradi va linzalarni o‘lcham hamda kuchiga qarab tanlaydi. Sizga linzani kiyish, yechish va parvarish qilish o‘rgatiladi.",
+ "why": "Ko‘zoynaksiz ko‘rishni xohlasangiz, sport uchun yoki shifokor maslahati bilan.",
+ "duration": "odatda 40–60 daqiqa; ba’zan bir necha kundan keyin takroriy tekshiruv kerak bo‘ladi",
+ "tell_doctor": [
+  "Ilgari linza taqqanmisiz va muammolar bo‘lganmi",
+  "Ko‘z qurishi, allergiya, tez-tez yallig‘lanish",
+  "Qanday taqasiz: har kuni yoki ba’zan",
+  "Qanday dorilar va tomchilar ishlatasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Linza taqsangiz",
+   "text": "Klinikada linzada kelish kerakmi yoki linzasiz, deb aniqlashtiring."
+  },
+  {
+   "title": "Tirnoqlar",
+   "text": "Qisqa tirnoqlar linzani kiyishni osonlashtiradi."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Shoshmasdan keling: o‘rganishga vaqt kerak."
+  }
+ ],
+ "bring": [
+  "Ko‘zoynak",
+  "Eski linzalar yoki ularning qutisi",
+  "Hujjat"
+ ],
+ "steps": [
+  "Shifokor ko‘rishni tekshiradi",
+  "Ko‘z yuzasini o‘lchaydi va ko‘radi",
+  "Sinov linzalarini kiydiradi",
+  "Birozdan keyin linzalar qanday o‘tirganini tekshiradi",
+  "Siz linzani o‘zingiz kiyish va yechishni o‘rganasiz",
+  "Parvarish, taqish va almashtirish muddatlarini tushuntirishadi"
+ ],
+ "feel": [
+  "Dastlabki daqiqalarda linza ko‘zda sezilib turadi",
+  "Birinchi marta kiyganda ko‘z yoshi oqishi normal"
+ ],
+ "after": [
+  "Linzaga har tegishdan oldin qo‘llarni yuving",
+  "Shifokor ruxsat bermasa, linzada uxlamang va suzmang",
+  "Linza va eritmani o‘z vaqtida almashtiring",
+  "Shifokor aytganda nazoratga keling"
+ ],
+ "red_flags": [
+  "Qizarish, og‘riq, yorug‘likdan qo‘rqish, ko‘rishning yomonlashishi bo‘lsa, linzalarni yechib, zudlik bilan okulistga boring"
+ ],
+ "faq": [
+  {
+   "q": "Linzada uxlasa bo‘ladimi?",
+   "a": "Odatda yo‘q. Faqat maxsus linzalar va faqat shifokor ruxsat bergan bo‘lsa."
+  },
+  {
+   "q": "Linzalarni suv bilan chaysa bo‘ladimi?",
+   "a": "Yo‘q. Faqat maxsus eritma bilan."
+  },
+  {
+   "q": "Linza yoki ko‘zoynak: qaysi biri yaxshi?",
+   "a": "Bu ko‘z va turmush tarziga bog‘liq. Shifokor tanlashga yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "2 soatdan keyin linza tanlash. Ko‘zoynak va eski linzalar qutisini oling."
+  }
+ ]
+}

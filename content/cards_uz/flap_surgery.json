@@ -1,0 +1,77 @@
+{
+ "title": "Milkda parda (loskut) operatsiyasi",
+ "also": [
+  "loskut operatsiyasi",
+  "milkdagi operatsiya",
+  "milk cho‘ntaklarini chuqur tozalash"
+ ],
+ "what": "Shifokor milkni ehtiyotkorlik bilan ajratib, tish ildizlarini tosh va yallig‘lanishdan tozalaydi. Keyin milk joyiga qaytarilib, tikiladi.",
+ "why": "Chuqur cho‘ntakli milk kasalligida, oddiy tozalash yordam bermaganda.",
+ "duration": "odatda 1–2 soat",
+ "tell_doctor": [
+  "Barcha dorilar, ayniqsa qonni suyultiradigan — nimani va qachon bekor qilishni shifokor aytadi",
+  "Allergiyalar, ayniqsa og‘riq qoldiruvchi va antibiotiklarga",
+  "Diabet, yurak kasalliklari, qon bosimi",
+  "Chekasizmi",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Tozalash",
+   "text": "Operatsiyadan oldin odatda tishlarni professional tozalashadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Operatsiyadan 1–2 soat oldin ovqatlaning."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Alkogolsiz. Chekishni oldindan to‘xtatgan ma’qul — shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tish suratlari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Ukol bilan og‘riqsizlantirishadi",
+  "Shifokor kichik kesmalar qilib, milkni ajratadi",
+  "Ildizlardagi tosh va yallig‘langan to‘qimani olib tashlaydi",
+  "Ba’zan suyakni tiklash uchun material qo‘yadi",
+  "Milk joyiga qaytarilib, tikiladi"
+ ],
+ "feel": [
+  "Ukol noxush, keyin — bosim va asboblar tovushi",
+  "Keyin — bir necha kun og‘riq va shish, og‘riq qoldiruvchi berishadi",
+  "Tishlar sovuqqa sezgir bo‘lib qolishi mumkin"
+ ],
+ "after": [
+  "Dastlabki soatlarda yonoqqa tanaffuslar bilan sovuq",
+  "Bir necha kun yumshoq, issiq bo‘lmagan ovqat",
+  "Shifokor ruxsat bermaguncha operatsiya hududini cho‘tka bilan tozalamang",
+  "Og‘izni shifokor tayinlaganidek chayqang",
+  "Choklar odatda 1–2 haftada olinadi"
+ ],
+ "red_flags": [
+  "Salfetka bilan bosganda qon ketishi to‘xtamaydi",
+  "Harorat 38 dan yuqori, shish 3-kundan keyin ortib boradi",
+  "Shish bo‘yinga tarqaladi, yutish yoki nafas olish qiyin — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Operatsiyadan keyin milk nega tushib qoldi?",
+   "a": "Yallig‘lanish ketganda shunday bo‘ladi. Nima qilish mumkinligini shifokor aytadi."
+  },
+  {
+   "q": "Keyin chekish mumkinmi?",
+   "a": "Yo‘q desak yaxshi: chekish milkning bitishini yomonlashtiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga milk operatsiyasi. Alkogolsiz. Qabuldan 1–2 soat oldin ovqatlaning. Dorilar — shifokor aytganidek."
+  }
+ ]
+}

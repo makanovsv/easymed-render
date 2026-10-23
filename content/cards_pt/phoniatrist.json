@@ -1,0 +1,78 @@
+{
+ "title": "Consulta de voz (problemas com a voz)",
+ "also": [
+  "otorrino de voz",
+  "laringologista",
+  "exame das cordas vocais",
+  "rouquidão",
+  "médico da voz"
+ ],
+ "what": "É um otorrino especializado em voz. Ele escuta como você fala e examina as cordas vocais com um espelho ou uma câmera fina.",
+ "why": "Para rouquidão por mais de 2 a 3 semanas, voz que cansa rápido, professores, cantores e todos que falam muito.",
+ "duration": "normalmente de 20 a 40 minutos; o médico dá as conclusões na consulta",
+ "tell_doctor": [
+  "Há quanto tempo a voz mudou e depois do quê",
+  "Quanto você fala ou canta durante o dia",
+  "Se você fuma",
+  "Se tem azia ou arroto ácido",
+  "Se já operou o pescoço ou a tireoide"
+ ],
+ "prepare": [
+  {
+   "title": "Voz",
+   "text": "Antes da consulta, não grite e não force a voz."
+  },
+  {
+   "title": "Comida",
+   "text": "Se forem examinar com câmera, é melhor não fazer refeição pesada 1 a 2 horas antes."
+  },
+  {
+   "title": "Gravações",
+   "text": "Se a voz muda ao longo do dia, você pode gravar no celular e mostrar ao médico."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Resultados de exames anteriores",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico pergunta sobre a voz e o trabalho",
+  "Pede para você falar algumas frases ou prolongar um som",
+  "Examina a garganta e a laringe",
+  "Às vezes coloca uma câmera fina pela boca ou pelo nariz e pede para você fazer um «iii» longo",
+  "Na tela dá para ver como as cordas vocais se fecham",
+  "O médico explica o que viu e dá orientações"
+ ],
+ "feel": [
+  "O exame da laringe pode dar ânsia",
+  "Antes da câmera às vezes borrifam um anestésico, e a garganta fica dormente",
+  "Normalmente não dói"
+ ],
+ "after": [
+  "Se borrifaram anestésico, não coma nem beba por cerca de uma hora",
+  "O médico pode indicar repouso da voz ou sessões com fonoaudiólogo",
+  "Às vezes é preciso um novo exame depois de algumas semanas"
+ ],
+ "red_flags": [
+  "Fica difícil respirar ou engolir: ligue para a emergência",
+  "Sangue no catarro",
+  "Rouquidão que não passa depois de 2 a 3 semanas"
+ ],
+ "faq": [
+  {
+   "q": "Preciso ficar calado se perdi a voz?",
+   "a": "Normalmente se recomenda falar menos e não sussurrar: sussurrar também força as cordas vocais. O médico vai dizer o repouso certo."
+  },
+  {
+   "q": "Qual a diferença para um otorrino comum?",
+   "a": "O especialista em voz entende mais a fundo como as cordas vocais funcionam e como recuperá-las."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta de voz. Hoje, poupe a voz e não grite."
+  }
+ ]
+}

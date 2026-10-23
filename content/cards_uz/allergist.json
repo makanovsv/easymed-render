@@ -1,0 +1,68 @@
+{
+ "title": "Allergolog qabuli",
+ "also": [
+  "allergolog",
+  "allergolog-immunolog",
+  "allergiya shifokori"
+ ],
+ "what": "Nimaga allergiyangiz borligini aniqlaydigan va davo tanlaydigan shifokor.",
+ "why": "Mavsumiy burun oqishi va aksirishda, toshma va qichishishda, ovqat, dori yoki chaqishga reaksiyalarda, bronxial astmada.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Nimaga va qachon reaksiya bo‘lgan, u qanday ko‘rinishda edi",
+  "Allergiya uchun qanday dorilar ichasiz va oxirgi marta qachon",
+  "Shish yoki nafas qiyinlashishi bilan kechgan kuchli reaksiyalar bo‘lganmi",
+  "Astma yoki ekzema bormi",
+  "Qarindoshlarda allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Allergiya dorilari",
+   "text": "Teri sinamalari rejalashtirilgan bo‘lsa, ba’zi preparatlar natijaga xalaqit beradi. O‘zingiz bekor qilmang — oldindan shifokordan so‘rang, u hal qiladi."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Reaksiyalar qachon va nimadan keyin bo‘lishini yozib qo‘ying. Toshma surati ham yordam beradi."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Allergiya tahlillari natijalari, agar topshirgan bo‘lsangiz",
+  "Oldingi tahlillar, epikrizlar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarning o‘zi"
+ ],
+ "steps": [
+  "Shifokor reaksiyalar haqida batafsil so‘raydi",
+  "Teri, burun va tomoqni ko‘zdan kechiradi",
+  "O‘pkani tinglaydi",
+  "Teri sinamalari yoki qon tahlili kerakligini hal qiladi",
+  "Allergendan qanday saqlanishni tushuntiradi va davo buyuradi"
+ ],
+ "feel": [
+  "Ko‘rikning o‘zi noqulay emas",
+  "Teri sinamalari qilinsa — yengil sanchiq va sinama joyida qichishish"
+ ],
+ "after": [
+  "Shifokor kuchli reaksiya bo‘lganda harakat rejasini yozib berishi mumkin",
+  "Buyurilgan dorilarni o‘zingiz bekor qilmang"
+ ],
+ "red_flags": [
+  "Allergen bilan to‘qnashgandan keyin lab yoki til shishishi, nafas qiyinlashishi, keskin holsizlik — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Sinamalarni birinchi qabulning o‘zida topshirsa bo‘ladimi?",
+   "a": "Ba’zan ha, lekin ko‘pincha avval tayyorgarlik kerak. Klinikadan aniqlashtiring."
+  },
+  {
+   "q": "Qabuldan oldin allergiya dorilarini tashlash kerakmi?",
+   "a": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — u hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga allergolog qabuli. Allergiya uchun ichayotgan dorilaringizni yozib qo‘ying va oldingi tahlillarni oling."
+  }
+ ]
+}

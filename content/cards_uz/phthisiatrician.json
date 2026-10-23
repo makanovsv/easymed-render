@@ -1,0 +1,75 @@
+{
+ "title": "Ftiziatr qabuli",
+ "also": [
+  "ftiziatr",
+  "sil bo‘yicha shifokor",
+  "silga qarshi dispanser",
+  "silga tekshirish"
+ ],
+ "what": "Shifokor sil bor-yo‘qligini tekshiradi va uni davolaydi. Unga ko‘pincha shunchaki tekshirish uchun yo‘llashadi.",
+ "why": "Flyuorografiyada o‘zgarishlar, silga ijobiy sinama, bemor bilan aloqa, uzoq yo‘tal bo‘lganda, ma’lumotnomalar uchun.",
+ "duration": "qabul odatda 20–30 daqiqa, tekshiruv — bir necha kundan ikki haftagacha",
+ "tell_doctor": [
+  "Sil bilan og‘rigan bemor bilan aloqa bo‘lganmi",
+  "Yo‘tal, tunda terlash, ozish, harorat",
+  "Avval sil bilan og‘riganmisiz",
+  "OIV, diabet, gormonlar qabul qilish bormi",
+  "Oldingi sinamalar va suratlar natijalari"
+ ],
+ "prepare": [
+  {
+   "title": "Suratlar",
+   "text": "Flyuorografiya, o‘pkaning rentgeni yoki KT si va silga sinamalar bo‘lsa, oling."
+  },
+  {
+   "title": "Balg‘am",
+   "text": "Balg‘am tahlili buyurilsa, uni ertalab ovqatdan oldin maxsus idishga yig‘ishadi. Qanday — tushuntirishadi."
+  },
+  {
+   "title": "Niqob",
+   "text": "Yo‘talsangiz — niqobda keling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Yo‘llanma",
+  "O‘pka suratlari",
+  "Silga sinamalar natijalari"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar va aloqalar haqida so‘raydi",
+  "O‘pkani tinglaydi",
+  "Suratlar va sinamalarni ko‘radi",
+  "KT, balg‘am tahlili yoki qon tahlilini buyurishi mumkin",
+  "Natijani tushuntiradi",
+  "Kerak bo‘lsa, davolash yoki kuzatuv buyuradi"
+ ],
+ "feel": [
+  "Qabul og‘riqsiz",
+  "Teri sinamasi qilinsa — bilakka qisqa ukol"
+ ],
+ "after": [
+  "Sil bo‘lmasa — xulosa berishadi",
+  "Davolash buyurilgan bo‘lsa — uni uzoq va o‘tkazib yubormasdan ichishadi",
+  "Yaqinlaringiz ham tekshirilishi kerak bo‘lishi mumkin"
+ ],
+ "red_flags": [
+  "Qon bilan yo‘tal, kuchli nafas qisilishi — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Ftiziatrga yo‘llashdi — demak, menda sil bormi?",
+   "a": "Yo‘q. Ko‘pincha bu kasallikni inkor etish uchun oddiy tekshiruv."
+  },
+  {
+   "q": "Sil davolanadimi?",
+   "a": "Ha. Asosiysi — dorilarni butun kurs davomida o‘tkazib yubormasdan ichish."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ftiziatr qabuli. O‘pka suratlari va sinamalar natijalarini oling."
+  }
+ ]
+}

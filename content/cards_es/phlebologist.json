@@ -1,0 +1,76 @@
+{
+ "title": "Consulta con el flebólogo",
+ "also": [
+  "flebólogo",
+  "médico de las venas",
+  "várices",
+  "revisión de venas de las piernas"
+ ],
+ "what": "El médico de las venas revisa tus piernas y normalmente hace enseguida un ultrasonido de las venas. Así se ve cómo están y si hace falta tratamiento.",
+ "why": "Con arañitas vasculares, venas que se marcan, hinchazón y pesadez en las piernas, calambres por la noche o después de una trombosis.",
+ "duration": "normalmente de 20 a 40 minutos, con el ultrasonido de venas; el resultado se da en el momento",
+ "tell_doctor": [
+  "Cuándo aparecieron las venas, la hinchazón o la pesadez",
+  "Si tú o tus familiares han tenido trombosis",
+  "Si tomas hormonas o medicamentos que adelgazan la sangre",
+  "Si estás embarazada o lo planeas",
+  "Si te han operado las venas"
+ ],
+ "prepare": [
+  {
+   "title": "Piernas",
+   "text": "El día de la consulta no te pongas crema en las piernas. No hace falta rasurarte."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda que se pueda quitar fácilmente de la cintura para abajo."
+  },
+  {
+   "title": "Horario",
+   "text": "La hinchazón se ve mejor por la tarde. Pregunta a qué hora conviene ir."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Ultrasonidos de venas anteriores",
+  "La lista de tus medicamentos",
+  "Medias de compresión, si las usas"
+ ],
+ "steps": [
+  "El médico te pregunta por tus molestias",
+  "Te revisa las piernas de pie",
+  "Hace el ultrasonido de venas: pasa el sensor con gel por la pierna",
+  "A veces te pide que hagas fuerza o tosas durante el estudio",
+  "Te explica el resultado",
+  "Te propone tratamiento: medias, medicamentos o procedimientos"
+ ],
+ "feel": [
+  "La revisión y el ultrasonido no duelen",
+  "El gel está fresco"
+ ],
+ "after": [
+  "Si te recetaron medias, úsalas como indique el médico",
+  "Camina más y no pases mucho tiempo sentada o sentado sin moverte",
+  "La próxima revisión será en el plazo que diga el médico"
+ ],
+ "red_flags": [
+  "Una pierna se hincha de repente, duele y se pone roja: ve al médico de inmediato",
+  "Falta de aire repentina o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Las arañitas en las piernas son peligrosas?",
+   "a": "Casi siempre son un problema estético. Aun así, conviene revisar las venas."
+  },
+  {
+   "q": "¿Las várices siempre se operan?",
+   "a": "No siempre. Hay procedimientos pequeños y tratamiento sin cirugía; lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes consulta con el flebólogo. No te pongas crema en las piernas y lleva tus ultrasonidos de venas anteriores."
+  }
+ ]
+}

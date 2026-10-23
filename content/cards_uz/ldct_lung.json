@@ -1,0 +1,74 @@
+{
+ "title": "Chekuvchilar uchun past dozali o‘pka KTsi",
+ "also": [
+  "PDKT",
+  "past dozali KT",
+  "o‘pka saratoni skrining",
+  "chekuvchilar uchun o‘pka KTsi"
+ ],
+ "what": "Nurlanish dozasi kamroq bo‘lgan ko‘krak qafasi kompyuter tomografiyasi. Shikoyat yo‘qligida o‘pkadagi mayda o‘zgarishlarni qidiradi.",
+ "why": "Odatda ko‘p chekadigan yoki ilgari chekkan katta yoshdagi odamlar uchun. Sizga kerakmi yoki yo‘qmi, shifokor hal qiladi.",
+ "duration": "suratning o‘zi — bir necha daqiqa, xulosa odatda 1–3 kundan keyin",
+ "tell_doctor": [
+  "Necha yildan beri va kuniga nechta sigaret chekasiz yoki chekkansiz",
+  "Yaqinda zotiljam yoki shamollash bo‘lgan bo‘lsa",
+  "Ilgari o‘pka KTsi qilingan bo‘lsa",
+  "Homilador bo‘lishingiz mumkin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Maxsus tayyorgarlik kerak emas, ovqatlansangiz bo‘ladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Ko‘krakda metallsiz: zanjir va suyakli ko‘krakchani yechib qo‘ying."
+  },
+  {
+   "title": "Oldingi suratlar",
+   "text": "Oldingi KTlarni oling — shifokorga solishtirish muhim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi KTlar va xulosalar",
+  "Hujjat"
+ ],
+ "steps": [
+  "Siz apparat stoliga chalqancha, qo‘llar bosh orqasida yotasiz",
+  "Stol apparat halqasiga kiradi",
+  "Sizdan nafas olib, nafasni ushlab turish so‘raladi",
+  "Surat bir necha soniyada olinadi",
+  "Stol chiqadi — hammasi shu"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Apparat ochiq, tor quvur emas"
+ ],
+ "after": [
+  "Darrov ketishingiz mumkin",
+  "Xulosa odatda 1–3 kundan keyin",
+  "Mayda tugunlar topilsa, ko‘pincha bir muddatdan keyin nazorat buyuriladi — shifokor hal qiladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tugun topilsa — bu saratonmi?",
+   "a": "Ko‘pincha yo‘q. Tugunlarning ko‘pchiligi yaxshi sifatli. Kuzatuv kerakmi, shifokor aytadi."
+  },
+  {
+   "q": "Necha marta qilish kerak?",
+   "a": "Odatda yilda bir marta, ko‘rsatma bor ekan. Shifokor hal qiladi."
+  },
+  {
+   "q": "Chekishni tashlashga yordam beradimi?",
+   "a": "Ha. Bu har qanday yoshda o‘pka uchun eng foydali narsa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga o‘pka KTsi. Tayyorgarlik kerak emas. Oldingi suratlarni oling va metallsiz kiyim kiying."
+  }
+ ]
+}

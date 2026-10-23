@@ -1,0 +1,74 @@
+{
+ "title": "Tug‘ruqqa tayyorgarlik kurslari",
+ "also": [
+  "bo‘lajak onalar maktabi",
+  "homiladorlar uchun kurslar",
+  "onalik maktabi",
+  "tug‘ruqqa tayyorgarlik"
+ ],
+ "what": "Bu homilador ayollar va ularning sheriklari uchun mashg‘ulotlar. Tug‘ruq qanday o‘tishi, qanday nafas olish va chaqaloqqa qanday qarash haqida aytib berishadi.",
+ "why": "Odatda homiladorlikning ikkinchi yarmida. Ayniqsa birinchi tug‘ruqdan oldin foydali.",
+ "duration": "odatda 1–2 soatlik bir necha mashg‘ulot",
+ "tell_doctor": [
+  "Homiladorlik muddati",
+  "Shifokoringiz yukka cheklov qo‘yganmi",
+  "Mashg‘ulot kuni o‘zingizni yomon his qilsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Kiyim",
+   "text": "Gilamchaga yotib mashq qilish mumkin bo‘lgan qulay kiyim."
+  },
+  {
+   "title": "Savollar",
+   "text": "Sizni nima tashvishlantirishini yozib qo‘ying: tutqanoqlar, og‘riqsizlantirish, emizish."
+  },
+  {
+   "title": "Sherik",
+   "text": "Sherik bilan barcha yoki bir qism mashg‘ulotlarga kelsa bo‘ladimi, aniqlang."
+  }
+ ],
+ "bring": [
+  "Qulay kiyim va paypoq",
+  "Suv shishasi",
+  "Daftar",
+  "Almashinuv kartasi, agar so‘rashsa"
+ ],
+ "steps": [
+  "Yetakchi guruh bilan tanishadi",
+  "Tug‘ruq qanday boshlanishi va qachon tug‘ruqxonaga borish kerakligini aytadi",
+  "Qanday nafas olish va qaysi holatlar tutqanoqni yengillashtirishini ko‘rsatadi",
+  "Sherik qanday yordam berishi mumkinligini o‘rgatadi",
+  "Ko‘krak bilan boqish va chaqaloqqa qarash haqida aytadi",
+  "Savollarga javob beradi"
+ ],
+ "feel": [
+  "Odatda sokin va qiziqarli",
+  "Charchasangiz yoki ahvolingiz yomonlashsa — yetakchiga ayting, dam olsa bo‘ladi"
+ ],
+ "after": [
+  "Uyda nafas olish va holatlarni sinab ko‘ring",
+  "Tug‘ruqxonaga sumkani oldindan yig‘ing",
+  "Shifokor bilan tug‘ruq bo‘yicha istaklaringizni muhokama qiling"
+ ],
+ "red_flags": [
+  "Tutqanoq, qon yoki suv sizishi — shifokorga yoki 103 ga qo‘ng‘iroq qiling",
+  "Chaqaloq odatdagidan sezilarli kamroq qimirlaydi"
+ ],
+ "faq": [
+  {
+   "q": "Kurslarga necha haftadan borish kerak?",
+   "a": "Odatda 20–30 haftadan. Klinika yoki maktabdan aniqlang."
+  },
+  {
+   "q": "Tug‘ruq birinchi bo‘lmasa, kurslar kerakmi?",
+   "a": "Shart emas, lekin ko‘pchilik bilimlarni yangilash uchun boradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada tug‘ruqqa tayyorgarlik mashg‘uloti. Qulay kiyim va suv oling."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Anal yoriqni davolash",
+ "also": [
+  "anal yoriq",
+  "orqa teshik yorig‘i",
+  "to‘g‘ri ichak yoriqini davolash"
+ ],
+ "what": "Shifokor orqa teshikdagi yoriqni ko‘rib, davo tanlaydi. Odatda bu malhamlar, ovqatlanish va vannachalar, ba’zan — kichik muolaja.",
+ "why": "Hojatxonaga borish paytida yoki keyin og‘riq va qon bo‘lganda.",
+ "duration": "qabul odatda 15–30 daqiqa; davolanganda bitish odatda bir necha hafta",
+ "tell_doctor": [
+  "Qachondan beri og‘riydi va qon bo‘ladimi",
+  "Ich qotishi yoki ich ketishi bormi",
+  "Barcha dorilar",
+  "Homilador bo‘lsangiz yoki yaqinda tuqqan bo‘lsangiz",
+  "Shu hududda operatsiyalar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Ichak",
+   "text": "Ichakni maxsus tozalash odatda shart emas. Muolaja kerak bo‘lsa — klinikadan aniqlab oling."
+  },
+  {
+   "title": "Gigiena",
+   "text": "Ertalab iliq suv bilan yuvining."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Qattiq og‘risa, shifokor juda ehtiyotkorlik bilan ko‘radi — unga buni ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar haqida so‘raydi",
+  "Oyoqlarni bukib, yonboshga yotasiz",
+  "Shifokor orqa teshik hududini ko‘radi",
+  "Juda og‘risa, chuqur ko‘rikni keyinga qoldirishi mumkin",
+  "Shifokor davo tayinlab, undan qanday foydalanishni tushuntiradi",
+  "Malhamlar yordam bermasa, ukol yoki kichik operatsiya taklif qilishlari mumkin"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqli bo‘lishi mumkin — shifokor ehtiyot bo‘lib harakat qiladi",
+  "Noqulaylik — bu shifokor uchun oddiy mavzu"
+ ],
+ "after": [
+  "Ko‘proq sabzavot, meva yeng va suv iching — axlat yumshoq bo‘lishi kerak",
+  "Shifokor maslahatiga ko‘ra iliq o‘tirib vannachalar",
+  "Hojatxonadan keyin yuvining",
+  "Malham va shamlar — faqat shifokor tayinlaganlari"
+ ],
+ "red_flags": [
+  "Kuchli qon ketishi",
+  "Harorat 38 dan yuqori va ortib boruvchi og‘riq, orqa teshik yonida shish"
+ ],
+ "faq": [
+  {
+   "q": "Yoriq operatsiyasiz o‘tib ketadimi?",
+   "a": "Ko‘pincha ha, davolansa va axlat yumshoq bo‘lsa. Davo yordam bermasa, operatsiya kerak bo‘ladi."
+  },
+  {
+   "q": "Hojatxonaga borish nega bunchalik og‘riydi?",
+   "a": "Yoriq tirnaladi va mushak spazmda qisiladi. Davo spazm va og‘riqni olib tashlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga yoriq bo‘yicha qabul. Ertalab iliq suv bilan yuvining va dorilar ro‘yxatini oling."
+  }
+ ]
+}

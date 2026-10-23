@@ -1,0 +1,75 @@
+{
+ "title": "Xotirani tekshirish (demensiya skrining)",
+ "also": [
+  "demensiyaga test",
+  "keksalarda xotirani tekshirish",
+  "kognitiv test",
+  "xotirani tekshirish",
+  "unutuvchanlik"
+ ],
+ "what": "Shifokor savollar beradi va xotira, diqqat, fikrlashga oddiy topshiriqlar beradi. Shu tariqa xotira muammolarini erta payqash mumkin.",
+ "why": "O‘zingiz yoki yaqinlaringiz unutuvchanlik, adashish, odatiy ishlarda qiyinchilikni sezganda.",
+ "duration": "test odatda 15–30 daqiqa, qabul — taxminan bir soat",
+ "tell_doctor": [
+  "Aynan nima o‘zgargani va qachondan beri",
+  "Pul, dorilar, yo‘l bilan qiyinchiliklar",
+  "Kayfiyat, uyqu, xavotir",
+  "Barcha dorilar — ba’zilari xotiraga ta’sir qiladi",
+  "Eshitish va ko‘rish bilan muammolar"
+ ],
+ "prepare": [
+  {
+   "title": "Yaqin odam",
+   "text": "Yaqin odam kelsa yaxshi — u nimani payqaganini aytib beradi."
+  },
+  {
+   "title": "Uyqu",
+   "text": "Bir kun oldin yaxshi uxlang va qabuldan oldin ovqatlaning."
+  },
+  {
+   "title": "Ko‘zoynak",
+   "text": "Ko‘zoynak va eshitish apparatini oling — usiz test noaniq bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Dorilar ro‘yxati",
+  "Ko‘zoynak, eshitish apparati",
+  "Ko‘chirmalar va tahlillar, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor sizdan va yaqin odamingizdan so‘raydi",
+  "Topshiriqlar beradi: so‘zlarni eslab qolish, sanani aytish, soat chizish",
+  "Diqqat, hisob va nutqni tekshiradi",
+  "Natijani tushuntiradi",
+  "Kerak bo‘lsa, qon tahlillari va MRT buyuradi",
+  "Keyingi qabul haqida kelishadi"
+ ],
+ "feel": [
+  "Test og‘riqsiz",
+  "Biror narsa chiqmasa, hayajon yoki noqulaylik bo‘lishi mumkin — bu normal"
+ ],
+ "after": [
+  "Test o‘zgarishlarni ko‘rsatsa — shifokor qo‘shimcha tekshiruv buyuradi",
+  "Sababi davolasa bo‘ladigan narsalar ham bo‘ladi: vitaminlar yetishmasligi, qalqonsimon bez, depressiya",
+  "Testni odatda bir muddatdan keyin takrorlashadi"
+ ],
+ "red_flags": [
+  "To‘satdan aralashib qolish, qo‘l yoki oyoqda holsizlik, nutq buzilishi — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Test darrov tashxis qo‘yadimi?",
+   "a": "Yo‘q. Test — faqat birinchi qadam. Xulosa uchun ko‘rik va tekshiruv kerak."
+  },
+  {
+   "q": "Testga tayyorlansa bo‘ladimi?",
+   "a": "Maxsus tayyorlanish shart emas. Shunchaki yaxshi uxlang va ko‘zoynakni oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga xotirani tekshirish. Ko‘zoynak, dorilar ro‘yxatini oling va iloji bo‘lsa, yaqin odamni taklif qiling."
+  }
+ ]
+}

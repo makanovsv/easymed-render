@@ -1,0 +1,72 @@
+{
+ "title": "Homila yuragi UZIsi (fetal ExoKG)",
+ "also": [
+  "homila ExoKGsi",
+  "qorindagi chaqaloq yuragi UZIsi",
+  "fetal exokardiografiya",
+  "homila yuragi exosi"
+ ],
+ "what": "Shifokor ultratovush yordamida onaning qornidagi chaqaloq yuragini batafsil ko‘radi: kameralar, klapanlar, tomirlar va ritm.",
+ "why": "Skrining UZIda yurak bo‘yicha savollar tug‘ilsa, ota-onalarda yoki boshqa bolalarda yurak nuqsonlari bo‘lsa, onada diabet bo‘lsa, EKOdan keyin, homiladorlik paytida ba’zi dorilar ichilgan bo‘lsa.",
+ "duration": "odatda 30–60 daqiqa; ko‘pincha 18–24 hafta atrofida qilinadi",
+ "tell_doctor": [
+  "Homiladorlik muddatini",
+  "O‘zingizda, sherigingizda yoki bolalaringizda yurak nuqsonlari",
+  "Diabet, qalqonsimon bez kasalliklari va boshqa kasalliklar",
+  "Homiladorlik paytida ichilgan barcha dorilar",
+  "Oldingi skrininglar natijalari"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Odatdagidek yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Tekshiruv uzoq bo‘lishi mumkin — chaqaloq ba’zan noqulay o‘girilib oladi. Darrov muhim ishlarni rejalashtirmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qorinni oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Almashinuv kartasi",
+  "Oldingi UZI va skrininglar",
+  "Salfetkalar yoki sochiq"
+ ],
+ "steps": [
+  "Chalqancha yoki biroz yonboshga yotasiz",
+  "Qoringa gel suriladi",
+  "Shifokor datchikni yuritib, chaqaloq yuragining qulay holatini qidiradi",
+  "Ba’zan chaqaloq holatini o‘zgartirishi uchun o‘girilishni yoki yurib kelishni so‘rashadi",
+  "Shifokor yurakni turli proyeksiyalarda va qon oqimi rangi bilan ko‘radi"
+ ],
+ "feel": [
+  "Salqin gel va datchikning yengil bosimi",
+  "Uzoq chalqancha yotish noqulay bo‘lishi mumkin — shifokorga ayting, yonboshga yotsa bo‘ladi"
+ ],
+ "after": [
+  "Odatda shifokor natijani darrov aytadi",
+  "Biror narsa topilsa, sizni bolalar kardiologiga yo‘llashadi — ko‘p xususiyatlar yaxshi davolanadi",
+  "Ba’zan keyingi muddatda qayta tekshiruv buyuriladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bu UZI chaqaloq uchun xavfsizmi?",
+   "a": "Ha. Ultratovush homiladorlikda ko‘p yillardan beri ishlatiladi, nurlantirmaydi."
+  },
+  {
+   "q": "Skrining bo‘lgan bo‘lsa, yurak UZIsi alohida nega kerak?",
+   "a": "Skriningda yurak qisqa ko‘riladi. Bu yerda shifokor uni batafsil o‘rganadi va ko‘proq narsani ko‘radi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga chaqaloq yuragi UZIsi. Almashinuv kartasi va oldingi UZIlarni oling. Tashrif uchun taxminan bir soat ajrating."
+  }
+ ]
+}

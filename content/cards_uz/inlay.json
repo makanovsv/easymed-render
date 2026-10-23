@@ -1,0 +1,76 @@
+{
+ "title": "Tishga vkladka",
+ "also": [
+  "vkladka",
+  "inley",
+  "onley",
+  "keramik vkladka",
+  "kultya vkladkasi"
+ ],
+ "what": "Vkladka — tishning buzilgan qismining aniq shakliga qarab tayyorlanadigan mustahkam detal. U katta plomba o‘rniga yelimlanadi.",
+ "why": "Tish qattiq buzilgan bo‘lsa va oddiy plomba bardosh bermasligi mumkin bo‘lsa.",
+ "duration": "odatda 1 soatdan 2 tashrif; vkladka odatda bir necha kundan 2 haftagacha tayyorlanadi",
+ "tell_doctor": [
+  "Allergiyalar, shu jumladan og‘riqsizlantirishga",
+  "Tish g‘ichirlatasizmi",
+  "Bu tish oldin davolanganmi",
+  "Homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "Tishlar",
+   "text": "Qabuldan oldin tishlaringizni yuving."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Oldindan ovqatlansangiz bo‘ladi — ukoldan keyin bir necha soat ovqatlanish noqulay."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tish suratlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Tish ukol bilan og‘riqsizlantiriladi",
+  "Shifokor eski plomba va kasal to‘qimalarni olib, shakl beradi",
+  "Qolip oladi yoki tishni skanerlaydi",
+  "Vaqtinchalik plomba qo‘yadi",
+  "Ikkinchi tashrifda vkladkani sinab ko‘rib, tishlash joyini tekshiradi",
+  "Vkladka yelimlanadi va silliqlanadi"
+ ],
+ "feel": [
+  "Qisqa ukol, keyin uvishish",
+  "Asboblardan shovqin va tebranish",
+  "Bir-ikki kun tish biroz zirqirashi mumkin"
+ ],
+ "after": [
+  "Uvishish o‘tmaguncha ovqatlanmang",
+  "Vaqtinchalik plomba bilan shu tomonda qattiq va yopishqoq narsa chaynamang",
+  "O‘rnatilgandan keyin — oddiy parvarish va tozalash",
+  "Profilaktik ko‘riklarga keling"
+ ],
+ "red_flags": [
+  "Kuchli og‘riq, milk yoki yonoq shishi",
+  "Vkladka qimirlasa yoki tushib ketsa — uni saqlab, shifokorga yoziling"
+ ],
+ "faq": [
+  {
+   "q": "Vkladka plombadan nimasi bilan yaxshi?",
+   "a": "U mustahkamroq va shakli aniqroq. Qattiq buzilgan tishlarga mos."
+  },
+  {
+   "q": "Vkladkalar nimadan qilinadi?",
+   "a": "Odatda keramika, kompozit yoki metalldan. Mos variantni shifokor aytadi."
+  },
+  {
+   "q": "Asabni olib tashlash kerakmi?",
+   "a": "Har doim emas. Bu tishning holatiga bog‘liq."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "2 soatdan keyin stomatolog qabuli. Tishlaringizni yuving va oldindan ovqatlaning."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Stent ureteral: colocación y retiro",
+ "also": [
+  "stent en el riñón",
+  "catéter doble J",
+  "stent ureteral",
+  "retiro del stent"
+ ],
+ "what": "El stent es un tubito delgado y suave dentro del uréter. Ayuda a que la orina pase del riñón a la vejiga.",
+ "why": "Con piedras, después de operaciones del riñón o del uréter, cuando la salida de la orina está dificultada.",
+ "duration": "colocarlo o retirarlo suele durar de 15 a 30 minutos; el stent se queda de unos días a varios meses",
+ "tell_doctor": [
+  "Medicamentos, sobre todo los que adelgazan la sangre",
+  "Alergias",
+  "Si es posible que estés embarazada",
+  "Si ahora tienes fiebre o dolor",
+  "Diabetes y enfermedades de los riñones"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Normalmente hace falta un análisis de orina y a veces de sangre: la clínica te dará la lista."
+  },
+  {
+   "title": "Anestesia",
+   "text": "A veces el procedimiento se hace con anestesia local y a veces con anestesia general. Si es general, no comas ni bebas antes; la clínica te dirá la hora."
+  },
+  {
+   "title": "Fecha",
+   "text": "Anota la fecha en que hay que retirar o cambiar el stent."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La orden médica y los resultados de los análisis",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas en la camilla o en la mesa",
+  "Limpian la uretra y te ponen un gel con anestésico",
+  "El médico introduce un instrumento delgado con cámara hasta la vejiga",
+  "Por ahí coloca el stent, o sujeta y saca el anterior",
+  "A veces se revisa la posición del stent con rayos X"
+ ],
+ "feel": [
+  "Presión y ganas de ir al baño durante el procedimiento",
+  "Después de colocarlo, ganas frecuentes de orinar y una sensación de jalón en el costado, sobre todo al orinar",
+  "En los primeros días la orina rosada es frecuente"
+ ],
+ "after": [
+  "Toma más agua, si el médico no lo limita",
+  "Es normal un poco de sangre en la orina con el stent",
+  "No te pases de la fecha de retiro: el stent no debe quedarse mucho tiempo",
+  "Después de retirarlo, las molestias normalmente pasan en 1 o 2 días"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 con escalofríos: llama a emergencias",
+  "Dolor fuerte en el costado que no se quita",
+  "No sale nada de orina",
+  "Mucha sangre o coágulos en la orina"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué con el stent siempre dan ganas de ir al baño?",
+   "a": "El stent irrita la vejiga. Es una molestia frecuente, y el médico puede recetar algo para aliviarla."
+  },
+  {
+   "q": "¿Qué pasa si se olvida retirar el stent?",
+   "a": "Se le pegan sales, se puede tapar y quedarse adherido. Hay que retirarlo exactamente a tiempo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es el procedimiento del stent. Lleva tus documentos y la lista de medicamentos. Si es con anestesia general, comida y agua hasta la hora que indicó la clínica."
+  }
+ ]
+}

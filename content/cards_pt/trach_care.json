@@ -1,0 +1,85 @@
+{
+ "title": "Cuidados com a traqueostomia em casa",
+ "also": [
+  "traqueostomia",
+  "cuidado com a cânula de traqueostomia",
+  "cânula no pescoço",
+  "limpeza da traqueostomia",
+  "aspiração da traqueostomia"
+ ],
+ "what": "A traqueostomia é uma abertura no pescoço pela qual a pessoa respira por uma cânula. Em casa, ela precisa de cuidado todos os dias, para a cânula ficar limpa e a pele saudável.",
+ "why": "Quando a pessoa não consegue respirar bem pela boca e pelo nariz, e o médico colocou a traqueostomia por muito tempo.",
+ "duration": "o cuidado leva normalmente 15 a 30 minutos, 1 a 2 vezes por dia; a aspiração é feita quando for preciso",
+ "tell_doctor": [
+  "Se a secreção aumentou, mudou de cor ou de cheiro",
+  "Se a pele em volta do estoma está vermelha, molhada ou sangrando",
+  "Se é difícil colocar a cânula ou ela sai do lugar",
+  "Se faltam materiais ou você não se sente seguro com os cuidados"
+ ],
+ "prepare": [
+  {
+   "title": "Treinamento",
+   "text": "Antes da alta, peça à enfermeira para mostrar tudo e faça os cuidados você mesmo, na frente dela, algumas vezes."
+  },
+  {
+   "title": "Cânula reserva",
+   "text": "Tenha sempre por perto uma cânula reserva do mesmo tamanho e uma de tamanho menor."
+  },
+  {
+   "title": "Material",
+   "text": "Aspirador, sondas, lenços, água fervida, gazes com fenda, cadarços."
+  },
+  {
+   "title": "Ar",
+   "text": "Ar seco resseca a secreção. Normalmente se recomenda um umidificador no quarto."
+  }
+ ],
+ "bring": [
+  "Cânula reserva e cadarços",
+  "Aspirador e sondas",
+  "Relatório de alta e contatos do médico",
+  "Lista de dúvidas para o médico"
+ ],
+ "steps": [
+  "Lave as mãos e coloque luvas",
+  "Se ouvir um borbulhar, aspire a secreção com a sonda, como ensinaram",
+  "Tire a cânula interna, se houver, e lave",
+  "Tire a gaze antiga e olhe a pele",
+  "Limpe a pele em volta do estoma com um lenço úmido e seque com leves toques",
+  "Coloque uma gaze nova com fenda",
+  "Troque os cadarços: segure a cânula com a mão até trocar os antigos",
+  "Entre o cadarço e o pescoço deve passar um dedo"
+ ],
+ "feel": [
+  "A aspiração provoca tosse. É normal",
+  "A pessoa pode ficar com medo. Fale com calma e explique cada passo"
+ ],
+ "after": [
+  "Observe a cor e a quantidade da secreção",
+  "Não deixe entrar água na cânula no banho",
+  "A troca da cânula inteira é feita conforme o calendário do médico",
+  "Deixe o número de emergência à vista"
+ ],
+ "red_flags": [
+  "A cânula saiu ou entupiu e não desentope: coloque a reserva e ligue para a emergência",
+  "A pessoa está sufocando, os lábios estão roxos: ligue para a emergência",
+  "Sangue na cânula, mais do que alguns rajados: ligue para a emergência",
+  "Febre, secreção grossa amarela ou verde com cheiro: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "A pessoa com traqueostomia pode falar?",
+   "a": "Às vezes sim, com uma válvula especial. Se pode no seu caso, quem decide é o médico."
+  },
+  {
+   "q": "Com que frequência é preciso aspirar a secreção?",
+   "a": "Quando for preciso: quando se ouve o borbulhar ou a pessoa não consegue tossir para fora. Não por horário."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Cuidado da manhã com a traqueostomia: mãos, luvas, aspiração, gaze, cadarços. Cânula reserva por perto."
+  }
+ ]
+}

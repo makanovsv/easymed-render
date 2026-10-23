@@ -1,0 +1,71 @@
+{
+ "title": "Adult vaccinations: what and when",
+ "also": [
+  "adult vaccines",
+  "which vaccines adults need",
+  "adult vaccination schedule",
+  "adult booster shots"
+ ],
+ "what": "Adults need vaccines too: some are repeated, others are given by age or health. The doctor will tell you what you need.",
+ "why": "For all adults, especially with chronic illness, after age 50 to 60, during pregnancy and before travel.",
+ "duration": "the consultation usually takes 15 to 20 minutes; each shot takes a few minutes",
+ "tell_doctor": [
+  "Which vaccines you have had and when",
+  "Chronic illnesses and treatment that lowers immunity",
+  "If you are pregnant or planning to be",
+  "Where and when you plan to travel"
+ ],
+ "prepare": [
+  {
+   "title": "Records",
+   "text": "Find your vaccination record or discharge papers. If you have none, the doctor will tell you what to do."
+  },
+  {
+   "title": "List",
+   "text": "Adults are usually advised diphtheria and tetanus every 10 years and flu every year. The rest depends on age and health."
+  },
+  {
+   "title": "Questions",
+   "text": "Write down what you want to ask."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your vaccination record or papers",
+  "A list of your illnesses and medicines"
+ ],
+ "steps": [
+  "You tell the doctor which vaccines you have had",
+  "The doctor asks about your health, age and work",
+  "Makes a list of the vaccines you need",
+  "Many vaccines can be given on the same day",
+  "Each vaccine is recorded in your documents",
+  "You get the dates of the next vaccines"
+ ],
+ "feel": [
+  "The consultation itself does not hurt",
+  "After a shot your arm may ache, with some weakness"
+ ],
+ "after": [
+  "Keep all your vaccination records",
+  "Set reminders for the repeat dates",
+  "Before travel, see the doctor early, usually 1 to 2 months ahead"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What if I don't remember which vaccines I had?",
+   "a": "The doctor will advise. Sometimes the vaccine is given again, or a blood test checks your protection."
+  },
+  {
+   "q": "Which vaccines are needed after 60?",
+   "a": "Often flu, pneumococcal and shingles vaccines are advised. Check the list with your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Vaccination consultation tomorrow. Bring your vaccination record."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Meningokokkka qarshi emlash",
+ "also": [
+  "meningokokk emlashi",
+  "meningitga qarshi emlash",
+  "meningokokk vaksinasi",
+  "meningokokk"
+ ],
+ "what": "Meningokokkdan himoya qiladigan vaksina ukoli — bu bakteriya meningit va qon zaharlanishini chaqirishi mumkin.",
+ "why": "Bolalar va o‘smirlarga ko‘rsatma bo‘yicha, yotoqxonalardagi talabalarga, ziyoratdan va safarlardan oldin, ba’zi kasalliklarda.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa",
+ "tell_doctor": [
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Allergiyalar va oldingi emlashlarga kuchli reaksiyalar",
+  "Taloq bo‘lmasa yoki immunitet bilan muammolar bo‘lsa",
+  "Qayerga bormoqchisiz — ba’zi mamlakatlar uchun emlash majburiy"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash siz sog‘ bo‘lganda qilinadi. Ukoldan oldin sizni ko‘rikdan o‘tkazishadi."
+  },
+  {
+   "title": "Muddat",
+   "text": "Safar oldidan emlash odatda oldindan, kamida 10 kun oldin qilinadi. Shifokordan aniqlang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yelkani oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor yoki hamshira o‘zingizni qanday his qilayotganingizni so‘raydi va haroratni o‘lchaydi",
+  "Yelkangizni ochasiz",
+  "Teri artiladi va ukol qilinadi",
+  "Emlash hujjatlarga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tirish kerak"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan 1–2 kun ukol joyi og‘riydi",
+  "Ba’zan bosh og‘rig‘i, holsizlik yoki ozgina harorat"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "Qayta emlash kerak yoki kerak emasligini shifokor aytadi"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Emlash qancha vaqt ta’sir qiladi?",
+   "a": "Vaksina va yoshga bog‘liq. Ba’zan qayta emlash kerak — shifokordan so‘rang."
+  },
+  {
+   "q": "Haj yoki umradan oldin emlash kerakmi?",
+   "a": "Odatda ha, uni talab qilishadi. Talablarni oldindan aniqlang va sertifikatni saqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga meningokokkka qarshi emlash. Hujjat va emlash kartasini oling."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "title": "Hand X-ray for bone age",
+ "also": [
+  "bone age",
+  "bone age X-ray",
+  "hand X-ray for a child",
+  "growth plate X-ray"
+ ],
+ "what": "One X-ray picture of the hand is taken. From it, the doctor sees how mature your child's bones are.",
+ "why": "When a child is growing too slowly or too fast, with early or late puberty, and during hormone treatment.",
+ "duration": "the picture takes a couple of minutes; the report usually comes the same day or after a few days",
+ "tell_doctor": [
+  "Your child's height and weight over the last years",
+  "Which hormones or medicines they take",
+  "If they have long-term illnesses"
+ ],
+ "prepare": [
+  {
+   "title": "Preparation",
+   "text": "No special preparation is needed."
+  },
+  {
+   "title": "Hands",
+   "text": "Usually the left hand is X-rayed. Take off your child's rings and bracelets."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Previous X-rays, if any",
+  "Your child's papers"
+ ],
+ "steps": [
+  "Your child sits at a table",
+  "The hand is placed palm down on a plate",
+  "A protective apron is put on the body",
+  "Your child is asked to keep still for a couple of seconds",
+  "The picture is taken"
+ ],
+ "feel": [
+  "It does not hurt",
+  "They only need to sit still"
+ ],
+ "after": [
+  "You can leave right away",
+  "The report usually comes the same day or after a few days",
+  "The doctor will compare bone age with real age and decide what comes next"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is the radiation dangerous?",
+   "a": "The dose is very small, since only the hand is X-rayed. A doctor orders it when the benefit is greater than the risk."
+  },
+  {
+   "q": "What does it mean if the bone age is behind?",
+   "a": "It means the bones are maturing more slowly. The causes vary, and your doctor will explain."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "X-ray of your child's hand tomorrow. Take off their rings and bracelets, and bring previous X-rays."
+  }
+ ]
+}

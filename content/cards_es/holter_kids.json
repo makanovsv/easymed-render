@@ -1,0 +1,79 @@
+{
+ "title": "Holter de ECG en un niño",
+ "also": [
+  "Holter para niños",
+  "electrocardiograma de 24 horas en niños",
+  "monitoreo de ECG de 24 horas en niños"
+ ],
+ "what": "Le pegan al niño sensores en el pecho y un aparato pequeño graba el electrocardiograma durante un día. El niño hace su vida normal.",
+ "why": "Cuando el niño se queja de palpitaciones, desmayos, dolor en el pecho, o el médico escuchó latidos irregulares.",
+ "duration": "normalmente se lleva 24 horas; la lectura sale en 1 a 3 días",
+ "tell_doctor": [
+  "Qué medicamentos recibe el niño",
+  "Qué lo molesta exactamente y cuándo",
+  "Si el niño tiene alergia al esparadrapo",
+  "Si el niño hace deporte"
+ ],
+ "prepare": [
+  {
+   "title": "Baño",
+   "text": "Báñalo el día anterior: con el aparato no se puede bañar."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una playera suelta, para que los cables no estorben."
+  },
+  {
+   "title": "Plática",
+   "text": "Explícale al niño que no debe tocar ni quitarse los sensores."
+  },
+  {
+   "title": "Diario",
+   "text": "Anota lo que hizo el niño y cómo se sintió: juegos, sueño, molestias."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Una libreta para el diario",
+  "Una playera suelta",
+  "Los documentos del niño"
+ ],
+ "steps": [
+  "La enfermera limpia la piel del pecho del niño",
+  "Pega varios sensores",
+  "Los conecta a un aparato pequeño en un cinturón o correa",
+  "El niño se va a casa y vive como siempre",
+  "Tú llevas el diario: sueño, juegos, molestias",
+  "Después de un día retiran el aparato en la clínica"
+ ],
+ "feel": [
+  "No duele",
+  "Los parches pueden dar comezón",
+  "A veces los más pequeños jalan los cables; vigílalos"
+ ],
+ "after": [
+  "La lectura normalmente sale en 1 a 3 días",
+  "El ligero enrojecimiento por el parche se quita solo",
+  "El resultado lo explicará el médico"
+ ],
+ "red_flags": [
+  "El niño se desmayó: llama a emergencias",
+  "Dolor fuerte en el pecho o falta de aire"
+ ],
+ "faq": [
+  {
+   "q": "¿El niño puede correr con el Holter?",
+   "a": "Sí, incluso se necesita la actividad normal. Pero sin agua y sin alberca."
+  },
+  {
+   "q": "¿Qué hago si se despegó un sensor?",
+   "a": "Preciónalo de nuevo y anota la hora. Si se despegó por completo, llama a la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana le ponen el Holter al niño. Hoy báñalo y prepara una playera suelta."
+  }
+ ]
+}

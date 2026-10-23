@@ -1,0 +1,75 @@
+{
+ "title": "Chaqaloqni 1 oyligida ko‘rik",
+ "also": [
+  "bir oylik ko‘rik",
+  "chaqaloqning rejali ko‘rigi",
+  "chaqaloq bir oylik",
+  "pediatrga birinchi oy"
+ ],
+ "what": "Chaqaloqning bir oyligidagi rejali ko‘rigi. Shifokor uning qanday o‘sayotgani va rivojlanayotganini ko‘radi.",
+ "why": "Barcha bolalarga 1 oyligida kuzatuv jadvali bo‘yicha.",
+ "duration": "pediatr ko‘rigi odatda 20–30 daqiqa; mutaxassislar va UZI kerak bo‘lsa — uzoqroq",
+ "tell_doctor": [
+  "Chaqaloq qanday ovqatlanadi: ko‘krak, aralashma yoki ikkalasi",
+  "Qanday uxlaydi va najasi qanchalik tez-tez",
+  "Tez-tez qaytarsa yoki yig‘lasa",
+  "Sizni bezovta qiladigan hamma narsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqatlantirish",
+   "text": "Chaqaloqni tashrifdan sal oldin ovqatlantiring, shunda u tinchroq bo‘ladi."
+  },
+  {
+   "title": "Narsalar",
+   "text": "Yopinchiq, taglik, salfetka, aralashma bilan boqsangiz — shisha."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Shu kuni boshqa shifokorlar yoki UZI kerakmi, aniqlang."
+  }
+ ],
+ "bring": [
+  "Chaqaloq hujjatlari",
+  "Tibbiy karta va emlash kartasi",
+  "Yopinchiq va taglik",
+  "Savollar ro‘yxati"
+ ],
+ "steps": [
+  "Hamshira chaqaloqni tortadi, bo‘yi va bosh aylanasini o‘lchaydi",
+  "Pediatr terini, liqildoqni, qornini ko‘zdan kechiradi",
+  "Yurak va o‘pkani tinglaydi, reflekslarni tekshiradi",
+  "Ba’zan mutaxassislarga yoki UZI ga yuboriladi",
+  "Taqvim bo‘yicha emlash kerak bo‘lsa, u muhokama qilinadi",
+  "Shifokor parvarish va ovqatlantirish bo‘yicha maslahat beradi"
+ ],
+ "feel": [
+  "Yechintirganda chaqaloq yig‘lashi mumkin — bu normal",
+  "Ko‘rik og‘riqsiz"
+ ],
+ "after": [
+  "Keyingi ko‘rik odatda 2 oyligida",
+  "UZI natijalari va shifokorlar xulosalarini pediatr tushuntiradi",
+  "Emlashlar — taqvim bo‘yicha, jadvalni shifokor aytadi"
+ ],
+ "red_flags": [
+  "Chaqaloq lanj, ovqatdan bosh tortadi — tez yordamni chaqiring (103)",
+  "3 oygacha bo‘lgan chaqaloqda harorat 38 dan yuqori — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Chaqaloq bir oyda qancha ortishi kerak?",
+   "a": "Har xil. Shifokor ortishni jadvallar va chaqaloqning ahvoliga qarab baholaydi."
+  },
+  {
+   "q": "Bir oyligida UZI nega kerak?",
+   "a": "Ba’zi mamlakatlarda bu yoshda bosh, qorin va bo‘g‘imlar tekshiriladi. Pediatrdan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga chaqaloqning bir oylik ko‘rigi. Hujjatlar, yopinchiq va savollar ro‘yxatini oling."
+  }
+ ]
+}

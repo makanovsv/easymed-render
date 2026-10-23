@@ -1,0 +1,68 @@
+{
+ "title": "Diário miccional",
+ "also": [
+  "diário miccional",
+  "diário do xixi",
+  "diário da bexiga",
+  "registro de urina"
+ ],
+ "what": "Em casa, por alguns dias, você anota quanto bebe e quando vai ao banheiro. Às vezes, também quanto de urina sai de cada vez.",
+ "why": "Para vontade frequente de urinar, idas ao banheiro à noite e perda de urina. No diário o médico vê o que é difícil lembrar.",
+ "duration": "normalmente 2 a 3 dias de anotações; a análise é feita na consulta",
+ "tell_doctor": [
+  "Quais remédios você toma, principalmente diuréticos",
+  "O que mais incomoda",
+  "Se for difícil anotar, avise. O médico sugere um jeito mais fácil"
+ ],
+ "prepare": [
+  {
+   "title": "Ficha",
+   "text": "Peça a ficha ao médico ou faça colunas num caderno: horário, quanto bebeu, quanto urinou, se teve vontade forte e se escapou."
+  },
+  {
+   "title": "Medidor",
+   "text": "Você precisa de um copo medidor ou pote com marcações. Urine nele e anote a quantidade."
+  },
+  {
+   "title": "Dias",
+   "text": "Escolha dias comuns, em que você fica em casa. Beba e viva como sempre."
+  }
+ ],
+ "bring": [
+  "Diário preenchido",
+  "Pedido médico, se tiver"
+ ],
+ "steps": [
+  "De manhã, anote a hora em que acordou",
+  "Toda vez, anote o horário e quanto bebeu",
+  "Cada ida ao banheiro: horário e quantidade de urina",
+  "Marque vontade forte e escapes, se houve",
+  "Anote também quando levantar à noite",
+  "Entregue o diário ao médico na consulta"
+ ],
+ "feel": [
+  "O primeiro dia parece trabalhoso; depois você se acostuma",
+  "Pode ser constrangedor, mas o médico precisa de números sinceros"
+ ],
+ "after": [
+  "Leve o diário à consulta",
+  "O médico vai analisar e dizer o que fazer depois"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Preciso beber mais ou menos que o normal?",
+   "a": "Não. Beba como sempre; se não, o diário não vai mostrar a sua realidade."
+  },
+  {
+   "q": "E se eu esquecer de anotar?",
+   "a": "Não tem problema. Marque que faltou e continue."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você começa o diário miccional. Prepare a ficha e o copo medidor."
+  }
+ ]
+}

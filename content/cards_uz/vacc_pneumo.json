@@ -1,0 +1,71 @@
+{
+ "title": "Pnevmokokkka qarshi emlash",
+ "also": [
+  "pnevmokokk vaksinasi",
+  "zotiljamga qarshi emlash",
+  "pnevmokokkka qarshi vaksina"
+ ],
+ "what": "Pnevmokokkdan himoya qiladigan vaksina ukoli — bu og‘ir zotiljam, otit va meningitning tez-tez uchraydigan sababi.",
+ "why": "Bolalarga kalendar bo‘yicha hayotning dastlabki oylaridan. Kattalarga — odatda 65 yoshdan keyin va yurak, o‘pka kasalliklari, diabetda.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa",
+ "tell_doctor": [
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Oldingi emlashlarga kuchli reaksiyalar",
+  "Pnevmokokkka qarshi qaysi vaksinalar allaqachon qilingan",
+  "Surunkali kasalliklar"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash siz sog‘ bo‘lganda qilinadi."
+  },
+  {
+   "title": "Sxema",
+   "text": "Vaksinalar turlicha, sxema yoshga bog‘liq. Shifokor tanlaydi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yelkani oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor yoki hamshira o‘zingizni qanday his qilayotganingizni so‘raydi va haroratni o‘lchaydi",
+  "Yelkangizni ochasiz",
+  "Teri artiladi va ukol qilinadi",
+  "Emlash hujjatlarga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tirish kerak"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan 1–2 kun ukol joyi og‘riydi yoki qizaradi",
+  "Ba’zan holsizlik yoki ozgina harorat"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "Yana doza kerak yoki kerak emasligini shifokor aytadi"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Emlash har qanday zotiljamdan himoya qiladimi?",
+   "a": "Yo‘q, faqat pnevmokokk chaqirganidan. Lekin bu eng tez-tez uchraydigan va xavfli sabablardan biri."
+  },
+  {
+   "q": "Uni gripp emlashi bilan birga qilsa bo‘ladimi?",
+   "a": "Odatda ha, bir kunda. Shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga pnevmokokkka qarshi emlash. Emlash kartasini oling."
+  }
+ ]
+}

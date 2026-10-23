@@ -1,0 +1,72 @@
+{
+ "title": "Homilador ayollarning biokimyoviy skriningi",
+ "also": [
+  "homiladorlar skriningi",
+  "ikkilik test",
+  "uchlik test",
+  "biokimyoviy skrining",
+  "birinchi skrining"
+ ],
+ "what": "Homilador ayoldan venadan maxsus oqsillar va gormonlarga qon olinadi. UZI bilan birga bu chaqaloqda ba’zi kasalliklar xavfini baholashga yordam beradi.",
+ "why": "Barcha homilador ayollarga ma’lum muddatlarda: odatda 11–14-haftada, ba’zan ikkinchi trimestrda.",
+ "duration": "qon olish 3–5 daqiqa, natija odatda 2–7 kunda",
+ "tell_doctor": [
+  "Homiladorlikning aniq muddati va oxirgi UZI ma’lumotlari",
+  "Egizak yoki EKO dan keyingi homiladorlik bo‘lsa",
+  "Sizda diabet bo‘lsa",
+  "Chekasizmi",
+  "Aniq vazningiz — hisob-kitob uchun kerak"
+ ],
+ "prepare": [
+  {
+   "title": "Muddat",
+   "text": "Qonni shifokor belgilagan muddatda topshirishadi. Ko‘pincha UZI-skrining bilan bir kunda yoki yaqin."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa yoki yengil ovqatdan bir necha soat o‘tgach. Oldingi kuni yog‘li yemagan yaxshi. Klinikadan aniqlang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqoriga oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "UZI xulosasi"
+ ],
+ "steps": [
+  "Anketani to‘ldirasiz: muddat, vazn, bo‘y",
+  "O‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsak ustidan jgut bog‘lanadi, teri artiladi",
+  "Probirkaga qon olinadi",
+  "Igna olinadi, paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa sanchiq, chimchilash kabi",
+  "Chaqaloq uchun muolaja xavfsiz"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda 2–7 kunda — bu xavf hisobi, tashxis emas",
+  "Xavf yuqori bo‘lsa, shifokor qo‘shimcha tekshiruvlarni taklif qiladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Yuqori xavf — chaqaloqda kasallik borligini bildiradimi?",
+   "a": "Yo‘q. Bu aniqlashtirish kerakligini bildiradi. Yuqori xavfli ayollarning ko‘pchiligida chaqaloq sog‘lom."
+  },
+  {
+   "q": "Nega aniq muddat muhim?",
+   "a": "Oqsil darajalari har hafta o‘zgaradi. Muddat noaniq bo‘lsa, xavf hisobi noto‘g‘ri bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga homiladorlar skriningi. UZI xulosasini oling va och qoringa kelish kerakmi, aniqlang."
+  }
+ ]
+}

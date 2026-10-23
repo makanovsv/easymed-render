@@ -1,0 +1,79 @@
+{
+ "title": "Allergenga xos immunoterapiya (AXIT)",
+ "also": [
+  "AXIT",
+  "allergiya immunoterapiyasi",
+  "allergenlar bilan davolash",
+  "allergiyaga qarshi ukollar"
+ ],
+ "what": "Odamga allergenning kichik, asta-sekin oshib boradigan dozalari beriladi. Organizm ko‘nikadi va allergiya kuchsizlanadi.",
+ "why": "Gul changi, uy changi kanalari, hasharot chaqishiga allergiyada — allergen aniq ma’lum bo‘lganda.",
+ "duration": "ukol yoki til ostiga ichish — bir necha daqiqa, qo‘shimcha taxminan 30 daqiqa kuzatuv; kurs odatda 3–5 yil",
+ "tell_doctor": [
+  "Hozir astma yoki allergiya zo‘rayganmi",
+  "Harorat, shamollash, infeksiya",
+  "Barcha dorilar, ayniqsa yurak va bosim uchun",
+  "Homiladorlik yoki uni rejalashtirish",
+  "Oldingi dozalarga reaksiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "Mavsum",
+   "text": "Kurs ko‘pincha gullash mavsumidan tashqarida boshlanadi. Sxemani allergolog tuzadi."
+  },
+  {
+   "title": "Ukol kuni",
+   "text": "Ukol kuni — hammomga tushmasdan, og‘ir mashqsiz va alkogolsiz."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Allergiya va astma dorilarini o‘zingiz bekor qilmang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Allergiya sinamalari natijalari",
+  "Hujjat",
+  "Reaksiyalar kundaligi"
+ ],
+ "steps": [
+  "Shifokor yoki hamshira ahvolingiz haqida so‘raydi",
+  "Astma bo‘lsa, ba’zan nafasni o‘lchashadi",
+  "Yelka terisi ostiga ukol qilishadi yoki til ostiga tomchi yoki tabletka berishadi",
+  "Taxminan 30 daqiqa kuzatuv ostida qolasiz",
+  "Hamshira ukol joyini tekshiradi",
+  "Keyingi doza sanasi aytiladi"
+ ],
+ "feel": [
+  "Kichik ukol",
+  "Ukol joyida qizarish va qichishish — tez-tez bo‘ladi",
+  "Til ostiga ichilganda — dastlabki kunlarda og‘izda qichishish"
+ ],
+ "after": [
+  "Kuzatuv vaqti tugamasdan klinikadan ketmang",
+  "Shu kuni — yuk, hammom va alkogolsiz",
+  "Reaksiyalarni kundalikka yozib boring",
+  "Dozalarni o‘tkazib yubormang — samara muntazamlikka bog‘liq"
+ ],
+ "red_flags": [
+  "Nafas qiyinlashishi, lab yoki til shishishi, butun badanda toshma — tez yordamni chaqiring (103)",
+  "Ukol joyida kaftdan katta kuchli shish",
+  "Dozadan keyin bosh aylanishi, holsizlik"
+ ],
+ "faq": [
+  {
+   "q": "Natija qachon bo‘ladi?",
+   "a": "Odatda yengillik birinchi yil oxirida seziladi. To‘liq kurs — bir necha yil."
+  },
+  {
+   "q": "Bolaga AXIT qilsa bo‘ladimi?",
+   "a": "Ko‘pincha ha, odatda 5 yoshdan. Qarorni allergolog qabul qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga AXIT dozasi. Harorat yoki zo‘rayish bo‘lsa — kelishdan oldin klinikaga qo‘ng‘iroq qiling."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Teste de Coombs e tipo sanguíneo no recém-nascido",
+ "also": [
+  "Coombs direto no recém-nascido",
+  "teste antiglobulina direto",
+  "tipo sanguíneo do bebê",
+  "fator Rh do bebê"
+ ],
+ "what": "No recém-nascido, veem o tipo sanguíneo e o fator Rh e checam se há anticorpos da mãe nas hemácias dele. Esses anticorpos podem destruir o sangue do bebê.",
+ "why": "Se a mãe é Rh negativo ou tipo O, ou se o bebê teve icterícia ou anemia cedo.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente no mesmo dia",
+ "tell_doctor": [
+  "O tipo sanguíneo e o Rh da mãe",
+  "Se acharam anticorpos na mãe durante a gravidez",
+  "Se a mãe recebeu imunoglobulina anti-Rh",
+  "Se os filhos mais velhos tiveram icterícia depois do nascimento"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não é preciso. Alimente o bebê como de costume."
+  },
+  {
+   "title": "Como é colhido",
+   "text": "Muitas vezes o sangue é colhido do cordão umbilical logo depois do parto. Às vezes, do calcanhar ou da veia do bebê."
+  },
+  {
+   "title": "Documentos",
+   "text": "Tenha à mão a caderneta da gestante e os exames da mãe."
+  }
+ ],
+ "bring": [
+  "Caderneta da gestante (cartão do pré-natal)",
+  "Exames da mãe de tipo sanguíneo e anticorpos"
+ ],
+ "steps": [
+  "Se o exame é do cordão, o sangue é colhido logo depois do parto. Para o bebê não dói",
+  "Se é do calcanhar, ele é aquecido e limpo com antisséptico",
+  "Fazem um furinho e colhem algumas gotas",
+  "Colocam um algodão no local",
+  "O sangue vai para o laboratório"
+ ],
+ "feel": [
+  "Do cordão, o bebê não sente nada",
+  "Do calcanhar ou da veia, um choro rápido. Ajuda abraçar ou amamentar"
+ ],
+ "after": [
+  "O resultado sai normalmente no mesmo dia",
+  "Se o teste der positivo, o médico checa a bilirrubina com mais frequência e acompanha a icterícia",
+  "Às vezes o bebê faz fototerapia, o tratamento com luz. O médico explica"
+ ],
+ "red_flags": [
+  "A icterícia aumenta, a pele fica amarela até a barriga e as pernas: procure o médico na hora",
+  "Bebê molinho, mamando mal, difícil de acordar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Coombs positivo é perigoso?",
+   "a": "Quer dizer que há anticorpos da mãe no sangue do bebê. Muitas vezes tudo passa com acompanhamento. O médico observa a bilirrubina."
+  },
+  {
+   "q": "Posso amamentar?",
+   "a": "Normalmente sim. Mamadas frequentes ajudam o bebê a eliminar a bilirrubina mais rápido. Confirme com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Antes do parto, coloque na bolsa a caderneta da gestante e os exames de tipo sanguíneo e anticorpos."
+  }
+ ]
+}

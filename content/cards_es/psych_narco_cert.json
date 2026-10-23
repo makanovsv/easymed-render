@@ -1,0 +1,70 @@
+{
+ "title": "Certificados de psiquiatría y de adicciones",
+ "also": [
+  "certificado de psiquiatría",
+  "certificado de adicciones",
+  "constancia de no estar en registro",
+  "certificado de salud mental",
+  "certificado para licencia de conducir"
+ ],
+ "what": "Certificados de que no estás registrado con un psiquiatra ni con un especialista en adicciones. Se dan en un centro especializado o en una clínica que tenga esos médicos.",
+ "why": "Para la licencia de conducir, un permiso de armas, un trabajo, estudios, una tutela y otros trámites.",
+ "duration": "normalmente de 15 a 60 minutos; el certificado suele entregarse el mismo día",
+ "tell_doctor": [
+  "Para qué necesitas el certificado: de eso depende su tipo",
+  "Si antes fuiste con un psiquiatra o con un especialista en adicciones",
+  "Qué medicamentos tomas de forma permanente"
+ ],
+ "prepare": [
+  {
+   "title": "A dónde ir",
+   "text": "Normalmente al centro que corresponde a tu domicilio o a una clínica con licencia. Averigua antes dónde atienden y en qué horario."
+  },
+  {
+   "title": "La víspera",
+   "text": "No tomes alcohol al menos un día antes. El especialista puede pedirte soplar en un aparato o dar una muestra de orina."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Si tomas calmantes o analgésicos fuertes, díselo al médico."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La orden o el formato, si te lo dieron en el trabajo o en la escuela de manejo",
+  "Una foto, si la piden: confírmalo en la clínica"
+ ],
+ "steps": [
+  "Te registras en recepción",
+  "Te buscan en la base de registros",
+  "El médico habla un poco contigo y te hace preguntas",
+  "A veces te piden una prueba de alcohol o una muestra de orina",
+  "Recibes el certificado con sello"
+ ],
+ "feel": [
+  "Es una conversación normal, sin procedimientos molestos",
+  "Puede dar nervios: es normal, las preguntas son las de siempre"
+ ],
+ "after": [
+  "Revisa que en el certificado estén bien tu nombre, la fecha y el motivo",
+  "Pregunta cuánto tiempo es válido: varía",
+  "Si no te lo dieron en el momento, pregunta cuándo recogerlo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Si alguna vez fui con un psiquiatra, ¿no me darán el certificado?",
+   "a": "No necesariamente. Lo decide el médico; mucho depende de si hay registro y por qué motivo."
+  },
+  {
+   "q": "¿Se pueden sacar los certificados en una sola clínica?",
+   "a": "Muchas veces sí, si la clínica tiene a los dos médicos y la licencia necesaria. Confírmalo antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana vas por los certificados. Lleva tu documento y el formato. Hoy no tomes alcohol."
+  }
+ ]
+}

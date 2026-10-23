@@ -1,0 +1,76 @@
+{
+ "title": "Qars etuvchi barmoq operatsiyasi",
+ "also": [
+  "stenozlovchi ligamentit",
+  "qars etuvchi barmoq",
+  "halqasimon boylamni kesish",
+  "barmoq paychasi operatsiyasi"
+ ],
+ "what": "Shifokor barmoq asosidagi tarang boylam halqasini kesadi. Pay qisilib qolmaydi, barmoq erkin bukiladi.",
+ "why": "Barmoq qars etsa, tiqilsa yoki bukilgan holda qotib qolsa, ukol va dam olish yordam bermaganda.",
+ "duration": "muolaja odatda 10–20 daqiqa, o‘sha kuni uyga",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilarni — o‘zingiz bekor qilmang, shifokor hal qiladi",
+  "Qandli diabet",
+  "Dorilar va og‘riqsizlantirishga allergiya",
+  "Bu barmoqqa ukol qilinganmi va qachon"
+ ],
+ "prepare": [
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Odatda mahalliy anesteziya: barmoq va kaft ukol bilan og‘riqsizlantiriladi."
+  },
+  {
+   "title": "Qo‘l",
+   "text": "Bu qo‘ldagi uzuklarni oldindan yeching. Tirnoqda lak bo‘lmasin."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Mahalliy anesteziyada odatda oldindan ovqatlansa bo‘ladi. Klinikadan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Yotasiz yoki o‘tirasiz, qo‘l stolchaga qo‘yiladi",
+  "Teri artiladi, og‘riqsizlantiruvchi ukol qilinadi",
+  "Shifokor barmoq asosida kichik kesma qiladi yoki igna bilan teshib ishlaydi",
+  "Tarang boylam kesiladi",
+  "Barmoqni bukishni so‘rashadi — qars etish yo‘qligi tekshiriladi",
+  "Chok va bog‘lam qo‘yiladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol bir necha soniya achishtiradi",
+  "Muolaja paytida — bosim va tegishlar",
+  "Keyin kaft 1–3 kun zirqirab turadi"
+ ],
+ "after": [
+  "Barmoqni odatda darrov bukish mumkin — shunda qotish kam bo‘ladi",
+  "Dastlabki kunlarda qo‘lni baland tuting",
+  "Shifokor ruxsat bermaguncha bog‘lamni ho‘llamang",
+  "Choklar odatda 10–14 kundan keyin olinadi"
+ ],
+ "red_flags": [
+  "Qizarish, shish, yaradan yiring, 38 dan yuqori harorat",
+  "Barmoq uvishib qolsa yoki sovib, oqarib ketsa"
+ ],
+ "faq": [
+  {
+   "q": "Yana qars etishi mumkinmi?",
+   "a": "Kam hollarda bo‘ladi. Qars etish qaytsa, shifokorga ko‘rsating."
+  },
+  {
+   "q": "Qo‘ldan darrov foydalansa bo‘ladimi?",
+   "a": "Yengil ishlar uchun — odatda ha. Og‘ir narsalar va kuchli ushlash — keyinroq, shifokor maslahati bilan."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga barmoq operatsiyasi. Shu qo‘ldagi uzuklarni yeching va dorilar ro‘yxatini oling."
+  }
+ ]
+}

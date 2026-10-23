@@ -1,0 +1,72 @@
+{
+ "title": "Jigar sinamalari (ALT, AST, bilirubin)",
+ "also": [
+  "jigar sinamalari",
+  "jigar tahlili",
+  "ALT va AST",
+  "bilirubin",
+  "jigar uchun biokimyo"
+ ],
+ "what": "Bu venadan qon tahlili. U jigar qanday ishlayotgani va unda yallig‘lanish bor-yo‘qligini ko‘rsatadi.",
+ "why": "Holsizlik, terining sarg‘ayishi, o‘ng qovurg‘a ostida og‘riqda, ba’zi dorilarni qabul qilganda, profilaktik ko‘rikda.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda ertasi kuni",
+ "tell_doctor": [
+  "Qanday dorilar, vitaminlar va giyohlar qabul qilasiz",
+  "Yaqinda alkogol ichgan bo‘lsangiz",
+  "So‘nggi kunlarda og‘ir mashqlar qilgan bo‘lsangiz",
+  "Oldin jigar sinamalarida o‘zgarishlar topilgan bo‘lsa — oldingi tahlillarni olib keling"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa: 8–12 soat ovqatsiz. Oddiy suv ichsa bo‘ladi. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "1–2 kun oldin — alkogolsiz, yog‘li va qovurilgan ovqatsiz. Og‘ir mashqlarsiz."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — biror narsani o‘zgartirish kerakmi, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Oldingi tahlillar, agar bo‘lsa"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakchaga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon probirkaga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilaganday",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darrov ovqatlanib, odatiy ishlarga qaytsangiz bo‘ladi",
+  "Natija odatda 1 kunda — muddatni laboratoriya aytadi",
+  "Raqamlar nimani anglatishini shifokor tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "ALT nega yuqori bo‘lishi mumkin?",
+   "a": "Sabablar ko‘p: yog‘li ovqat, alkogol, dorilar, jismoniy yuk, jigar kasalliklari. Shifokor aniqlaydi — ko‘pincha tahlil shunchaki qayta topshiriladi."
+  },
+  {
+   "q": "Tahlildan oldin qahva ichsa bo‘ladimi?",
+   "a": "Yo‘q, agar tahlil och qoringa bo‘lsa. Faqat oddiy suv."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga jigar sinamalari. Kechki ovqatdan keyin ovqat yemang, oddiy suv ichsa bo‘ladi."
+  }
+ ]
+}

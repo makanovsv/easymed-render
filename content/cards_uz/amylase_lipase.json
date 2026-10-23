@@ -1,0 +1,72 @@
+{
+ "title": "Amilaza va lipaza",
+ "also": [
+  "oshqozon osti bezi tahlili",
+  "qon amilazasi",
+  "qon lipazasi",
+  "oshqozon osti bezi fermentlari"
+ ],
+ "what": "Oshqozon osti bezining ikki fermentiga qon tahlili. U yallig‘lansa, qonda ular ko‘payadi.",
+ "why": "Qorinning yuqori qismida kuchli og‘riqda, ayniqsa orqaga tarqalsa, pankreatitga shubhada, oshqozon osti bezi kasalliklarini kuzatishda.",
+ "duration": "qon olish odatda 5 daqiqa, shoshilinch holatlarda natija bir necha soatda, odatda — 1–2 kunda",
+ "tell_doctor": [
+  "Og‘riq qachon boshlandi va qayeri og‘riydi",
+  "Kecha alkogol ichdingizmi yoki yog‘li ovqat yedingizmi",
+  "Ichayotgan barcha dorilaringiz",
+  "O‘t pufagida toshlar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa topshiriladi: 8–12 soat ovqatsiz, suv ichsa bo‘ladi. Qorin qattiq og‘riyotgan bo‘lsa — tahlil darrov qilinadi, kutmang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Alkogolsiz va yog‘li ovqatsiz."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Oldingi tahlillar, agar bo‘lsa"
+ ],
+ "steps": [
+  "O‘tirasiz, tirsakdan yuqoriga jgut bog‘lashadi",
+  "Teri antiseptik bilan artiladi",
+  "Venadan probirkaga qon olinadi",
+  "Jgut yechiladi, paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilaganday",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda 1–2 kunda, shoshilinch bo‘lsa — bir necha soatda",
+  "Shifokor tahlilni shikoyatlar va UZI bilan birga baholaydi"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq, orqaga tarqaladi, qusish — tez yordamni chaqiring (103)",
+  "Og‘riq bilan birga harorat, teri yoki ko‘zlarning sarg‘ayishi — darrov shifokorga yoki 103 ga"
+ ],
+ "faq": [
+  {
+   "q": "Fermentlar me’yorda bo‘lsa, pankreatit aniq yo‘qmi?",
+   "a": "Har doim ham emas. Ba’zan fermentlar tez pasayadi. Shifokor og‘riq va UZI ga ham qaraydi."
+  },
+  {
+   "q": "Lipaza amilazadan nimasi bilan farq qiladi?",
+   "a": "Lipaza aynan oshqozon osti bezini aniqroq ko‘rsatadi. Amilaza boshqa sabablarga ko‘ra ham ko‘tarilishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga amilaza va lipaza tahlili. Kechki ovqatdan keyin ovqat yemang, alkogolsiz, suv ichsa bo‘ladi."
+  }
+ ]
+}

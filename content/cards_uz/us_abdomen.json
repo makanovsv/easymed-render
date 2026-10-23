@@ -1,0 +1,76 @@
+{
+ "title": "Qorin bo‘shlig‘i UZIsi",
+ "also": [
+  "qorin UZIsi",
+  "QBUZI",
+  "qorin bo‘shlig‘i a’zolari UZIsi"
+ ],
+ "what": "Shifokor qorin a’zolarini ultratovush bilan ko‘radi: jigar, o‘t pufagi, oshqozon osti bezi, taloq. Bu xavfsiz, nurlanishsiz.",
+ "why": "Qorin og‘riganda, ovqatdan keyin og‘irlikda, tahlillarda o‘zgarishlar bo‘lganda, profilaktik ko‘rikda.",
+ "duration": "odatda 15–30 daqiqa",
+ "tell_doctor": [
+  "O‘t pufagi olib tashlangan yoki qorinda operatsiyalar bo‘lgan bo‘lsa",
+  "Yaqinda FGDS yoki kolonoskopiya qilingan bo‘lsa — ichakda havo qolishi mumkin",
+  "Diabetingiz bo‘lsa — uzoq och qolish xavfli bo‘lishi mumkin, shifokor maslahat beradi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda 6–8 soat ovqatsiz. Eng yaxshisi — ertalab och qoringa."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Yengil kechki ovqat. Gazli ichimlik, dukkaklilar, xom sabzavotlar, qora non va sutsiz — gaz kam bo‘lsa, yaxshiroq ko‘rinadi."
+  },
+  {
+   "title": "Suv va chekish",
+   "text": "Ozgina oddiy suv odatda mumkin. UZI oldidan chekmang va saqich chaynamang — qorinda havo to‘planadi."
+  },
+  {
+   "title": "Buyraklar",
+   "text": "Buyrak va siydik pufagi birga ko‘rilsa, siydik pufagi to‘la holda kelishni so‘rashlari mumkin. Klinikadan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi UZI xulosalari va tahlillar, agar bo‘lsa",
+  "Salfetka yoki sochiq — gelni artish uchun"
+ ],
+ "steps": [
+  "Chalqancha yotib, qorinni ochasiz",
+  "Shifokor salqin gel suradi",
+  "Datchik butun qorin bo‘ylab yuritiladi",
+  "Chuqur nafas olib, bir necha soniya ushlab turishni so‘rashadi",
+  "Ba’zan yonboshga o‘girilishni so‘rashadi"
+ ],
+ "feel": [
+  "Gel salqin",
+  "Datchik biroz bosadi — bu og‘riqsiz",
+  "Joy og‘riyotgan bo‘lsa, bosganda yoqimsiz bo‘lishi mumkin — shifokorga ayting"
+ ],
+ "after": [
+  "Gel artiladi — darrov ovqatlansa bo‘ladi",
+  "Xulosa odatda darrov beriladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Qorin bo‘shlig‘i UZIsidan oldin suv ichsa bo‘ladimi?",
+   "a": "Odatda ozgina oddiy suv mumkin. Ovqat yeb, shirin narsa, gazli ichimlik va sutli qahva ichib bo‘lmaydi."
+  },
+  {
+   "q": "Qorin bo‘shlig‘i UZIsiga nimalar kiradi?",
+   "a": "Odatda jigar, o‘t pufagi, oshqozon osti bezi va taloq. Buyraklarni ko‘pincha alohida ko‘rishadi — klinikadan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga qorin bo‘shlig‘i UZIsi. Kechki ovqat yengil, gazli ichimlik, dukkaklilar va xom sabzavotsiz."
+  },
+  {
+   "hoursBefore": 8,
+   "text": "Shu vaqtdan boshlab UZIgacha yemang. Ozgina oddiy suv mumkin."
+  }
+ ]
+}

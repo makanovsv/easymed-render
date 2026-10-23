@@ -1,0 +1,74 @@
+{
+ "title": "Blefaritda qovoqlar gigienasi",
+ "also": [
+  "blefarit",
+  "qovoqlar gigienasi",
+  "qovoqlarga qarash",
+  "qovoqlar yallig‘lanishi"
+ ],
+ "what": "Bu qovoq chetlariga har kungi parvarish: iliq kompresslar, massaj va tozalash. Shunday qilib yallig‘lanish va ko‘z qurishi kamayadi.",
+ "why": "Qovoqlar qizarishi va qichishishida, kiprikda qatqaloqlarda, ko‘zda qum hissida.",
+ "duration": "odatda kuniga 5–10 daqiqa, yaxshilanish — bir necha haftada",
+ "tell_doctor": [
+  "Rozatsea yoki yuz terisi muammolari bo‘lsa",
+  "Linza taqsangiz",
+  "Ko‘z qurisa",
+  "Qanday tomchi va dorilardan foydalanayotgansiz"
+ ],
+ "prepare": [
+  {
+   "title": "Vositalar",
+   "text": "Shifokor buyurgan qovoq vositasidan foydalaning."
+  },
+  {
+   "title": "Qo‘llar",
+   "text": "Protseduradan oldin qo‘llaringizni yuving."
+  },
+  {
+   "title": "Kosmetika",
+   "text": "Qovoqlarga qarashdan oldin bo‘yanishni olib tashlang."
+  }
+ ],
+ "bring": [
+  "Shifokor buyurgan qovoq vositasi",
+  "Toza salfetkalar yoki paxta disklari"
+ ],
+ "steps": [
+  "Qo‘llaringizni yuving",
+  "Yumilgan qovoqlarga bir necha daqiqa iliq kompress qo‘ying",
+  "Qovoq chetlarini barmoqlar bilan yumshoq uqalang",
+  "Qovoq chetlari va kipriklarni buyurilgan vosita bilan tozalang",
+  "Shifokor buyurgan bo‘lsa, tomchi yoki malham ishlating"
+ ],
+ "feel": [
+  "Og‘riqsiz",
+  "Avvaliga yengil chimchilash bo‘lishi mumkin",
+  "Yaxshilanish asta-sekin keladi"
+ ],
+ "after": [
+  "Yaxshi bo‘lib qolganda ham, parvarishni har kuni qiling",
+  "Har bir ko‘z uchun alohida salfetka ishlating",
+  "Shifokor buyurgan bo‘lsa, nazoratga keling"
+ ],
+ "red_flags": [
+  "Ko‘zda kuchli og‘riq",
+  "Ko‘rishning keskin yomonlashishi",
+  "Qovoqda kuchli shish va qizarish, harorat bilan"
+ ],
+ "faq": [
+  {
+   "q": "Blefaritni butunlay davolasa bo‘ladimi?",
+   "a": "Ko‘pincha bu uzoq muddatli holat. Muntazam parvarish uni nazoratda ushlab turadi."
+  },
+  {
+   "q": "Linza taqsa bo‘ladimi?",
+   "a": "Zo‘rayish paytida voz kechgan ma’qul. Shifokordan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Bugun qovoq parvarishini unutmang: kompress, massaj, tozalash."
+  }
+ ]
+}

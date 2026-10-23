@@ -1,0 +1,83 @@
+{
+ "title": "Bolaga kolonoskopiya",
+ "also": [
+  "bolalar kolonoskopiyasi",
+  "bolaga FKS",
+  "bolaning ichagini ko‘rik qilish"
+ ],
+ "what": "Shifokor bolaning yo‘g‘on ichagini kamerali ingichka egiluvchan nay bilan ichkaridan ko‘radi. Bolalarda buni odatda uyquda, sedatsiya yoki narkoz ostida qilishadi.",
+ "why": "Najasda qon, uzoq ich ketishi, qorin og‘rig‘i, kamqonlik, vazn yomon oshishida, ichakning yallig‘lanish kasalliklarini nazorat qilish uchun.",
+ "duration": "muolajaning o‘zi odatda 20–60 daqiqa, oldingi kuni tayyorgarlik va uyg‘onish vaqti qo‘shiladi",
+ "tell_doctor": [
+  "Bola ichayotgan barcha dorilarni va temir preparatlarini",
+  "Allergiyalar",
+  "Yurak, o‘pka kasalliklari, tutqanoq",
+  "Bola yaqinda shamollagan bo‘lsa",
+  "Bolada yoki qarindoshlarda narkoz bilan muammolar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Parhez",
+   "text": "1–3 kun oldin kletchatkasiz ovqat, aniq ro‘yxatni shifokor beradi. Oldingi kuni odatda faqat tiniq suyuqliklar."
+  },
+  {
+   "title": "Tozalash",
+   "text": "Tozalash eritmasini bola shifokor sxemasi bo‘yicha ichadi, doza vazniga bog‘liq. Oson bo‘lishi uchun uni sovitib, nay orqali ichish mumkin."
+  },
+  {
+   "title": "Ochlik",
+   "text": "Sedatsiyadan oldin bola ma’lum vaqt ovqat yemaydi va ichmaydi: aniq soatlarni klinika aytadi."
+  },
+  {
+   "title": "Suhbat",
+   "text": "Bolaga oddiy so‘zlar bilan tushuntiring: u uxlab qoladi, shifokor esa qorinchasini ko‘radi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va oldingi xulosalar",
+  "Bolaning hujjatlari",
+  "Sevimli o‘yinchoq",
+  "Almashtirish uchun ichki kiyim va tagliklar, agar kerak bo‘lsa",
+  "Ho‘l salfetkalar"
+ ],
+ "steps": [
+  "Bolani almashtirishadi, venaga kateter qo‘yishadi: ko‘pincha og‘riqsizlantiruvchi kremdan keyin",
+  "Ota-ona odatda bola uxlab qolguncha yonida qoladi",
+  "Bola uxlaydi, shifokor nayni ehtiyotkorlik bilan kiritib, ichakni ko‘radi",
+  "Kerak bo‘lsa, tahlil uchun mayda to‘qima parchalari olinadi",
+  "Bola palatada uyg‘onadi, sizni uning oldiga chaqirishadi"
+ ],
+ "feel": [
+  "Muolajaning o‘zi uyquda sezilmaydi",
+  "Uyg‘ongandan keyin mudroqlik, injiqlik, qorin dam bo‘lishi mumkin",
+  "Tayyorgarlik eng og‘ir qism: tez-tez suyuq najas va eritmaning yoqimsiz ta’mi"
+ ],
+ "after": [
+  "Ovqat va suvni odatda bola to‘liq uyg‘ongandan keyin ruxsat etishadi",
+  "Havodan dam bo‘lish bir necha soatda o‘tadi",
+  "Kun oxirigacha uyda tinch rejim",
+  "Biopsiya natijasi odatda 1–2 haftada"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq yoki qorin qattiqlashsa, tez yordamni chaqiring (103)",
+  "Harorat 38 dan yuqori",
+  "To‘g‘ri ichakdan ko‘p qon ketishi yoki qonli qusish",
+  "Bola holsiz, qiyin uyg‘onsa, ichmasa"
+ ],
+ "faq": [
+  {
+   "q": "Bola eritmaning hammasini ichib bo‘lmayapti. Nima qilish kerak?",
+   "a": "Klinikaga qo‘ng‘iroq qiling. Ba’zan boshqa sxema tanlashadi, lekin tayyorgarlikning o‘zini o‘tkazib yubormaslik kerak."
+  },
+  {
+   "q": "Men yonida bo‘lsam bo‘ladimi?",
+   "a": "Odatda ota-ona bola uxlab qolguncha va uyg‘onishi bilan yonida bo‘ladi. Tartibni klinikadan aniqlashtiring."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bolaga kolonoskopiya. Bugun faqat tiniq suyuqliklar va shifokor sxemasi bo‘yicha eritma. Ochlik klinika vaqti bo‘yicha."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Preparing for pregnancy",
+ "also": [
+  "preconception care",
+  "pregnancy planning",
+  "checkup before pregnancy",
+  "preparing to conceive"
+ ],
+ "what": "This is a doctor's visit before pregnancy. The doctor checks your health, orders tests, and advises you on how to prepare.",
+ "why": "When you plan to get pregnant in the coming months. Especially if you have a long-term illness or had difficult pregnancies before.",
+ "duration": "the visit usually takes 20 to 40 minutes; test results are usually ready in a few days",
+ "tell_doctor": [
+  "What medicines you take. Do not stop them on your own; the doctor will choose safe ones",
+  "Long-term illnesses",
+  "How past pregnancies and births went",
+  "What vaccines you have had",
+  "If any inherited diseases run in your family"
+ ],
+ "prepare": [
+  {
+   "title": "Your cycle",
+   "text": "Remember the date your last period started."
+  },
+  {
+   "title": "Documents",
+   "text": "Gather past test results and your vaccination record."
+  },
+  {
+   "title": "Questions",
+   "text": "Write down what you want to ask: vitamins, diet, exercise, smoking and alcohol."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your medicines",
+  "Past test results",
+  "Your vaccination record, if you have one"
+ ],
+ "steps": [
+  "The doctor asks about your health and plans",
+  "You have an exam, sometimes a pelvic exam",
+  "You get referrals for blood and urine tests and swabs",
+  "Sometimes an ultrasound is ordered",
+  "The doctor recommends vitamins and lifestyle changes",
+  "Your partner may also be advised to get checked"
+ ],
+ "feel": [
+  "A regular visit with nothing unpleasant",
+  "The pelvic exam may be a little uncomfortable"
+ ],
+ "after": [
+  "Do the tests on the list",
+  "Come back to the doctor with the results",
+  "You are usually advised to start folic acid ahead of time. The doctor will tell you the dose",
+  "You may be advised to get vaccines before pregnancy"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "How long before pregnancy should I start preparing?",
+   "a": "Usually 2 to 3 months before. Your doctor will tell you more exactly."
+  },
+  {
+   "q": "Does my partner need to be checked?",
+   "a": "Often, yes: a general checkup and tests for infections. Sometimes a semen analysis."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Pregnancy planning visit tomorrow. Bring your list of medicines and past test results."
+  }
+ ]
+}

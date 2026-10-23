@@ -1,0 +1,65 @@
+{
+ "title": "So‘lak bezlari UZI",
+ "also": [
+  "so‘lak bezlari ultratovushi",
+  "quloq oldi bezlari UZI",
+  "jag‘ osti bezlari UZI"
+ ],
+ "what": "Shifokor ultratovush yordamida quloq oldidagi va jag‘ ostidagi so‘lak bezlarini ko‘radi: ularning o‘lchami, tuzilishi, toshlari.",
+ "why": "Quloq yonida yoki jag‘ ostida shish bo‘lganda, ovqat paytida og‘riqda, og‘iz qurishida, qotish sezilganda.",
+ "duration": "odatda 10–20 daqiqa, xulosa odatda darrov beriladi",
+ "tell_doctor": [
+  "So‘lak bezlarida tosh bo‘lgan bo‘lsa",
+  "Ilgari UZI yoki KT qilingan bo‘lsa — xulosalarni olib keling",
+  "Og‘iz yoki ko‘z qurishi bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Odatdagidek yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Ba’zan",
+   "text": "Tekshiruv oldidan 1–2 soat ovqat yemaslik yoki limon sharbati berilishi so‘ralishi mumkin — klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Baland yoqasiz; sirg‘a va zanjirni yechgan yaxshi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi UZI va xulosalar, bo‘lsa"
+ ],
+ "steps": [
+  "Chalqancha yotasiz, boshingiz yon tomonga buriladi",
+  "Quloq yonidagi va jag‘ ostidagi teriga gel surtiladi",
+  "Datchik teri bo‘ylab yurgiziladi",
+  "Ba’zan nordon sharbat berib, yana bir bor qarashadi",
+  "Gel salfetka bilan artiladi"
+ ],
+ "feel": [
+  "Salqin gel, datchikning yengil bosimi"
+ ],
+ "after": [
+  "Xulosa odatda darrov beriladi",
+  "Kerak bo‘lsa, shifokor qo‘shimcha tekshiruv taklif qiladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nega limon sharbati beriladi?",
+   "a": "Nordon narsa bezlar ishini kuchaytiradi. Shunda shifokor yo‘llar va toshlarni yaxshiroq ko‘radi."
+  },
+  {
+   "q": "Bez yallig‘langan bo‘lsa, og‘riydimi?",
+   "a": "Datchik bosganidan biroz noqulay bo‘lishi mumkin. Shifokorga ayting — u ehtiyotroq bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga so‘lak bezlari UZIsi. Tekshiruv oldidan ovqat yemaslik kerak yoki kerak emasligini aniqlang."
+  }
+ ]
+}

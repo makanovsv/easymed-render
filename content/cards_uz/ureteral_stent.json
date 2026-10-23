@@ -1,0 +1,78 @@
+{
+ "title": "Siydik yo‘li stenti: o‘rnatish va olib tashlash",
+ "also": [
+  "buyrakka stent",
+  "JJ-stent",
+  "siydik yo‘li stenti",
+  "stentni olib tashlash"
+ ],
+ "what": "Stent — siydik yo‘li ichidagi ingichka yumshoq naycha. U siydikning buyrakdan siydik pufagiga o‘tishiga yordam beradi.",
+ "why": "Toshlarda, buyrak yoki siydik yo‘lidagi operatsiyalardan keyin, siydik chiqishi qiyinlashganda.",
+ "duration": "o‘rnatish yoki olib tashlash odatda 15–30 daqiqa, stent bir necha kundan bir necha oygacha turadi",
+ "tell_doctor": [
+  "Dorilarni, ayniqsa qonni suyultiruvchilarni",
+  "Allergiyalar",
+  "Homilador bo‘lishingiz mumkinmi",
+  "Hozir harorat yoki og‘riq bor-yo‘qligini",
+  "Diabet va buyrak kasalliklari"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Odatda siydik tahlili, ba’zan qon tahlili kerak — ro‘yxatni klinika beradi."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Ba’zan muolaja mahalliy anesteziya, ba’zan narkoz ostida qilinadi. Narkoz bo‘lsa — oldindan ovqat yemang va suv ichmang, vaqtini klinika aytadi."
+  },
+  {
+   "title": "Muddat",
+   "text": "Stentni qachon olib tashlash yoki almashtirish kerakligi sanasini yozib qo‘ying."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Yo‘llanma va tahlil natijalari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Kreslaga yoki stolga yotasiz",
+  "Siydik chiqarish kanali artiladi va og‘riqsizlantiruvchi gel kiritiladi",
+  "Shifokor siydik pufagiga kamerali ingichka asbob kiritadi",
+  "U orqali stent o‘rnatiladi yoki eskisi ushlanib olinadi",
+  "Stent o‘rni ba’zan rentgen bilan tekshiriladi"
+ ],
+ "feel": [
+  "Muolaja paytida bosim va hojatxonaga borish istagi",
+  "O‘rnatilgandan keyin — tez-tez istak va yonda tortishish hissi, ayniqsa siyganda",
+  "Dastlabki kunlarda siydik ko‘pincha pushti tusda bo‘ladi"
+ ],
+ "after": [
+  "Shifokor cheklamagan bo‘lsa, ko‘proq suv iching",
+  "Stent bilan siydikda ozgina qon bo‘lishi mumkin",
+  "Olib tashlash muddatini o‘tkazib yubormang — stentni uzoq qoldirib bo‘lmaydi",
+  "Olib tashlangandan keyin noqulaylik odatda 1–2 kunda o‘tadi"
+ ],
+ "red_flags": [
+  "Titroq bilan 38 dan yuqori harorat bo‘lsa — tez yordamni chaqiring (103)",
+  "Yonda o‘tmaydigan kuchli og‘riq",
+  "Siydik umuman chiqmasa",
+  "Siydikda ko‘p qon yoki laxtalar bo‘lsa"
+ ],
+ "faq": [
+  {
+   "q": "Stent bilan nega doim hojatxonaga borgim keladi?",
+   "a": "Stent siydik pufagini bezovta qiladi. Bu tez-tez uchraydigan shikoyat, shifokor yengillashtiruvchi vosita buyurishi mumkin."
+  },
+  {
+   "q": "Stentni olib tashlashni unutsam nima bo‘ladi?",
+   "a": "Unda tuzlar cho‘kadi, u tiqilib qolishi va o‘sib ketishi mumkin. Aniq muddatida olib tashlash kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga stent bilan muolaja. Hujjatlar va dorilar ro‘yxati. Narkoz bo‘lsa — klinika aytgan vaqtgacha ovqat va suv."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Kontratseptsiya tanlash",
+ "also": [
+  "kontratseptsiya",
+  "homiladorlikdan saqlanish",
+  "homiladorlikka qarshi vositalarni tanlash",
+  "kontratseptsiya bo‘yicha maslahat"
+ ],
+ "what": "Shifokor sog‘ligingiz va turmush tarzingizga mos homiladorlikdan saqlanish usulini tanlashga yordam beradi.",
+ "why": "Homiladorlikdan saqlanishni xohlasangiz, usulni almashtirmoqchi bo‘lsangiz, tug‘ruq yoki abortdan keyin.",
+ "duration": "qabul odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Chekasizmi",
+  "O‘zingizda yoki qarindoshlarda bosim, migren, tromblar",
+  "Jigar kasalliklari, diabet, ko‘krak saratoni",
+  "Qanday dorilar ichasiz",
+  "Ko‘krak bilan boqasizmi va yaqin orada homiladorlikni rejalashtiryapsizmi"
+ ],
+ "prepare": [
+  {
+   "title": "Savollar",
+   "text": "Siz uchun nima muhimligini o‘ylab ko‘ring: qulaylik, uzoq muddatga yoki vaqtincha, hayzga ta’siri."
+  },
+  {
+   "title": "Sikl",
+   "text": "Oxirgi hayz sanasini eslab qoling."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Ba’zan shifokor avval UZI yoki tahlillarga yuboradi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Oldingi tahlillar va UZI natijalari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor sog‘ligingiz va siz uchun nima muhimligi haqida so‘raydi",
+  "Bosim va vaznni o‘lchaydi",
+  "Ba’zan kreslo‘da ko‘rik o‘tkazadi",
+  "Variantlar haqida gapirib beradi: tabletkalar, spiral, implant, halqa, prezervativlar va boshqalar",
+  "Birgalikda mosini tanlaysiz",
+  "Shifokor qanday boshlash va o‘tkazib yuborsangiz nima qilish kerakligini tushuntiradi"
+ ],
+ "feel": [
+  "Odatda yoqimsiz narsa yo‘q"
+ ],
+ "after": [
+  "Usulni shifokor aytganidek boshlang",
+  "Dastlabki oylarda dog‘li ajralmalar bo‘ladi: bu ko‘pincha normal",
+  "Usul mos kelmasa, uni almashtirish mumkin",
+  "Bir necha oydan keyin nazorat tashrifi"
+ ],
+ "red_flags": [
+  "Oyoqda kuchli og‘riq, bir oyoqning shishishi, ko‘krakda og‘riq, nafas qisilishi bo‘lsa, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Eng ishonchli kontratseptsiya qaysi?",
+   "a": "Eng ishonchlilari: spiral va implant. Lekin eng yaxshi usul sizga mos keladigani."
+  },
+  {
+   "q": "Tabletkalar infeksiyalardan himoya qiladimi?",
+   "a": "Yo‘q. Infeksiyalardan faqat prezervativ himoya qiladi."
+  },
+  {
+   "q": "Bekor qilgandan keyin homilador bo‘lsa bo‘ladimi?",
+   "a": "Odatda ha, homilador bo‘lish qobiliyati qaytadi. Tezligi usulga bog‘liq."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga kontratseptsiya bo‘yicha maslahat. Oxirgi hayz sanasini eslang va dorilar ro‘yxatini oling."
+  }
+ ]
+}

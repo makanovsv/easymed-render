@@ -1,0 +1,79 @@
+{
+ "title": "Radioterapia: cómo es el tratamiento",
+ "also": [
+  "radioterapia",
+  "radiación",
+  "terapia de radiación",
+  "sesiones de radio"
+ ],
+ "what": "Un aparato dirige rayos calculados con precisión hacia el tumor. La sesión es corta y no duele; el tratamiento dura varias semanas.",
+ "why": "En enfermedades oncológicas: sola o junto con cirugía y quimioterapia.",
+ "duration": "cada sesión suele durar de 10 a 30 minutos, y la radiación en sí solo unos minutos; el tratamiento va de unos días a 6 u 8 semanas",
+ "tell_doctor": [
+  "Marcapasos u otros aparatos en el cuerpo",
+  "Embarazo o si es posible que estés embarazada",
+  "Si ya recibiste radiación antes",
+  "Todos tus medicamentos, vitaminas y hierbas",
+  "Si te cuesta estar quieta o quieto, o en una misma posición"
+ ],
+ "prepare": [
+  {
+   "title": "Marcado",
+   "text": "Antes del tratamiento se hace una tomografía de planeación y se ponen marcas en la piel. No las borres al lavarte."
+  },
+  {
+   "title": "Piel",
+   "text": "Cuida la piel de la zona tratada como indique el médico. No pongas tus cremas en esa zona si no te lo permitieron."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa suave, holgada y de algodón."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Un documento de identidad",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te cambias de ropa y te acuestas en la mesa",
+  "Te acomodan en la misma posición guiándose por las marcas, a veces con una mascarilla o un soporte",
+  "El personal sale del cuarto, pero te ve y te oye",
+  "El aparato se mueve a tu alrededor y a veces zumba",
+  "La radiación dura unos minutos",
+  "Después de la sesión te vas a casa enseguida"
+ ],
+ "feel": [
+  "La sesión en sí no se siente",
+  "A la mitad del tratamiento, cansancio",
+  "La piel de la zona tratada puede ponerse roja y descamarse",
+  "Otras reacciones dependen de la zona tratada: el médico te lo explicará"
+ ],
+ "after": [
+  "Después de una radiación externa no emites radiación: puedes abrazar a los niños",
+  "No faltes a las sesiones sin avisar al médico",
+  "Toma agua, come bien y descansa",
+  "No frotes, ni calientes ni asolees la piel de la zona tratada"
+ ],
+ "red_flags": [
+  "Fiebre de 38 o más",
+  "Heridas abiertas o ampollas en la piel de la zona tratada",
+  "Dolor fuerte, vómito o diarrea que no te dejan comer ni beber"
+ ],
+ "faq": [
+  {
+   "q": "¿Voy a quedar radiactivo después de la sesión?",
+   "a": "No. Con la radiación externa no emites radiación y no eres un peligro para tus seres queridos."
+  },
+  {
+   "q": "¿Puedo bañarme?",
+   "a": "Normalmente sí, con agua tibia y un jabón suave. No frotes la zona tratada; confírmalo con el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes sesión de radioterapia. No borres las marcas de la piel y usa ropa suave."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "B gepatitiga qarshi emlash",
+ "also": [
+  "B gepatiti vaksinasi",
+  "gepatitga qarshi emlash",
+  "gepatit B emlashi",
+  "B gepatit emlashi"
+ ],
+ "what": "Jigarni B gepatiti virusidan himoya qiladigan vaksina ukoli. Odatda jadval bo‘yicha bir necha ukol kerak bo‘ladi.",
+ "why": "Yangi tug‘ilgan chaqaloqlarga dastlabki kunlarda, bolalarga kalendar bo‘yicha, emlanmagan kattalarga, tibbiyot xodimlariga va oilasida virus tashuvchisi bor odamlarga.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa; kurs odatda bir necha oyda 3 ukol",
+ "tell_doctor": [
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Allergiyalar va oldingi emlashlarga kuchli reaksiyalar",
+  "Achitqiga allergiya",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash siz sog‘ bo‘lganda qilinadi. Ukoldan oldin sizni ko‘rikdan o‘tkazishadi."
+  },
+  {
+   "title": "Jadval",
+   "text": "Kurs odatda 3 ukoldan iborat. O‘tkazib yubormaslik uchun sanalarni yozib oling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yelkani oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor yoki hamshira o‘zingizni qanday his qilayotganingizni so‘raydi va haroratni o‘lchaydi",
+  "Yelkangizni ochasiz",
+  "Teri artiladi va ukol qilinadi",
+  "Emlash hujjatlarga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tirish kerak"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan 1–2 kun ukol joyi og‘riydi",
+  "Ba’zan holsizlik yoki ozgina harorat"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "Keyingi ukol — jadval bo‘yicha, sanasini aytishadi"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Ikkinchi ukolni o‘tkazib yuborsam-chi?",
+   "a": "Kursni odatda boshidan boshlamaydi. Shifokorga boring, u davom ettiradi."
+  },
+  {
+   "q": "Kursdan keyin himoyani tekshirish kerakmi?",
+   "a": "Ba’zan shifokor antitelolarga tahlil maslahat beradi — masalan, tibbiyot xodimlariga. Shifokordan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga B gepatitiga qarshi emlash. Emlash kartasini oling."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Ma’lumotnoma uchun tibbiy ko‘rik",
+ "also": [
+  "haydovchilik ma’lumotnomasi",
+  "haydovchilik guvohnomasi uchun tibbiy komissiya",
+  "ishga olinganda tibbiy ko‘rik",
+  "083 ma’lumotnoma",
+  "tibbiy daftarcha"
+ ],
+ "what": "Haydovchilik guvohnomasi, ish yoki o‘qish uchun tibbiy ma’lumotnoma olish maqsadida bir nechta shifokor ko‘rigi va kerak bo‘lsa, tahlillar.",
+ "why": "Haydovchilik guvohnomasini olish yoki almashtirish, ishga joylashish, ba’zi ishlarda davriy, o‘qish va sport uchun.",
+ "duration": "odatda 1 soatdan 3 soatgacha, ba’zan bir necha kunga",
+ "tell_doctor": [
+  "Ma’lumotnoma nima uchun kerak va guvohnomaning qaysi toifasi",
+  "Qanday dorilar ichasiz — ba’zilari tahlillarga ta’sir qilishi mumkin",
+  "Surunkali kasalliklar",
+  "Ko‘zoynak, linza yoki eshitish apparati taqasizmi"
+ ],
+ "prepare": [
+  {
+   "title": "Shifokorlar ro‘yxati",
+   "text": "Qaysi shifokorlardan va tahlillardan o‘tish kerakligini klinikadan oldindan bilib oling — bu ma’lumotnoma turiga va mamlakatga bog‘liq."
+  },
+  {
+   "title": "Yo‘llanma",
+   "text": "Ishga kirish uchun odatda ish beruvchining yo‘llanmasi kerak."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Yaxshi uxlang, 2–3 kun alkogolsiz. Qon tahlili kerak bo‘lsa, och qoringa kelish kerakmi, aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Ishga kirish uchun ish beruvchi yo‘llanmasi, agar kerak bo‘lsa",
+  "Ko‘zoynak yoki linza, agar taqsangiz",
+  "Surat, agar klinikada talab qilinsa",
+  "Eski ma’lumotnoma yoki tibbiy daftarcha, agar bo‘lsa",
+  "Surunkali kasalliklar bo‘yicha ko‘chirmalar"
+ ],
+ "steps": [
+  "Ro‘yxatdan o‘tasiz va xonalar ro‘yxatini olasiz",
+  "Odatda terapevt va ko‘z shifokoridan o‘tasiz",
+  "Haydovchilik ma’lumotnomasi uchun — psixiatr va narkologdan ham; ba’zan alkogol va giyohvand moddalarga tahlil kerak bo‘ladi",
+  "Guvohnomaning ba’zi toifalari va ishlar uchun — EEG, LOR, nevrolog va boshqa shifokorlar",
+  "Ba’zan tahlillar topshiriladi va EKG yoki flyuorografiya qilinadi",
+  "Oxirida ma’lumotnoma yoki xulosa beriladi"
+ ],
+ "feel": [
+  "Yoqimsiz narsa yo‘q — oddiy ko‘riklar va savollar"
+ ],
+ "after": [
+  "Ma’lumotnomani tahlil kutish kerak bo‘lmasa, ko‘pincha o‘sha kuni berishadi",
+  "Shifokor shubhalansa, qo‘shimcha tekshiruvga yuborishi mumkin",
+  "Ma’lumotnomada F.I.Sh., sana va muhrlarni tekshiring"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Haydovchilik ma’lumotnomasi uchun qaysi shifokorlardan o‘tish kerak?",
+   "a": "Odatda terapevt, ko‘z shifokori, psixiatr va narkologdan. Ba’zi toifalar uchun yana EEG va boshqa shifokorlar. Aniq ro‘yxatni klinikadan bilib oling."
+  },
+  {
+   "q": "Komissiyadan ko‘zoynak bilan o‘tsa bo‘ladimi?",
+   "a": "Ha, agar siz ularda haydasangiz. Shunda ma’lumotnomada ko‘zoynak yoki linzada haydash kerakligi belgilanadi."
+  },
+  {
+   "q": "Ma’lumotnoma berilmasa, nima qilish kerak?",
+   "a": "Odatda shifokor qo‘shimcha tekshiruvga yuboradi. Undan keyin ma’lumotnomani ko‘pincha berishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "2 kundan keyin ma’lumotnoma uchun tibbiy ko‘rik. Ko‘rikgacha alkogolsiz. Hujjatlar, ko‘zoynak va yo‘llanmani tekshiring."
+  }
+ ]
+}

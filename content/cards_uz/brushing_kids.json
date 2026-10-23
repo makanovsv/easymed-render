@@ -1,0 +1,71 @@
+{
+ "title": "Bolaning tishini qanday tozalash",
+ "also": [
+  "bolaning tishini tozalash",
+  "chaqaloq tishini yuvish",
+  "bolalar tish tozalash"
+ ],
+ "what": "Bolaning tishini birinchi tish chiqqanidan boshlab tozalash kerak. Buni uyda oddiy va xotirjam qanday qilish mumkinligini bilib oling.",
+ "why": "Barcha ota-onalarga: birinchi tish chiqqanidan to bola o‘zi tozalashni o‘rganguncha.",
+ "duration": "odatda ertalab va kechqurun 2 daqiqadan",
+ "tell_doctor": [
+  "Milklari qonasa yoki qizarsa",
+  "Tishlarda qoramtir yoki oq dog‘lar bo‘lsa",
+  "Bola shisha bilan uxlab qolsa"
+ ],
+ "prepare": [
+  {
+   "title": "Cho‘tka",
+   "text": "Yoshiga mos yumshoq bolalar cho‘tkasi. Uni taxminan 3 oyda bir marta almashtiring."
+  },
+  {
+   "title": "Pasta",
+   "text": "Ftorli bolalar pastasi. Miqdori yoshiga qarab farq qiladi: pasta izidan no‘xat donasigacha. Tish shifokoridan so‘rang."
+  },
+  {
+   "title": "Joy",
+   "text": "Bolaning orqasida turgan yoki uning boshini tizzangizga qo‘ygan holda tozalash qulay."
+  }
+ ],
+ "bring": [
+  "Bolalar cho‘tkasi",
+  "Bolalar pastasi",
+  "Bola o‘zini ko‘rishi uchun ko‘zgu"
+ ],
+ "steps": [
+  "Cho‘tkaga ozgina pasta suring",
+  "Tishlar ko‘rinadigan qilib bolani ushlang",
+  "Har bir tishni yumshoq aylanma harakatlar bilan tozalang",
+  "Tishlarning ichki tomonini tozalang",
+  "Chaynash yuzasini ham tozalab chiqing",
+  "Bola tupura olsa, pastani tupirtiring",
+  "Bolani maqtang"
+ ],
+ "feel": [
+  "Kichkina bolalar ko‘pincha qarshilik qiladi, bu normal",
+  "O‘yin, qo‘shiq yoki “avval onang, keyin sen” deb navbat bilan qilish yordam beradi"
+ ],
+ "after": [
+  "Odatda maktab yoshigacha tozalashda yordam bering",
+  "Kechqurun tozalagandan keyin faqat suv ichish mumkin",
+  "Shirinlikni ovqat bilan bering, ovqatlar orasida emas",
+  "Bolani jadval bo‘yicha tish shifokoriga ko‘rsating"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Pastadan keyin og‘izni chayish kerakmi?",
+   "a": "Odatda faqat tupirish tavsiya etiladi, ko‘p suv bilan chaymaslik kerak. Tish shifokoridan so‘rang."
+  },
+  {
+   "q": "Bola tozalatmasa nima qilish kerak?",
+   "a": "Taslim bo‘lmang: qisqa bo‘lsa ham har kuni tozalang, buni o‘yinga aylantiring."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Bolaning tishini yuvish vaqti bo‘ldi. Tozalagandan keyin faqat suv beriladi."
+  }
+ ]
+}

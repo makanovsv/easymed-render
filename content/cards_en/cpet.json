@@ -1,0 +1,81 @@
+{
+ "title": "Cardiopulmonary exercise test",
+ "also": [
+  "CPET",
+  "CPX test",
+  "cardiopulmonary exercise testing",
+  "exercise test with gas analysis",
+  "ergospirometry"
+ ],
+ "what": "You pedal a bike or walk on a treadmill while wearing a mask. The equipment checks how your heart works and how much oxygen you use.",
+ "why": "When the cause of shortness of breath is unclear, before surgery, for heart and lung conditions, or to find a safe level of exercise.",
+ "duration": "usually 45 to 60 minutes including setup; the exercise itself takes 8 to 12 minutes",
+ "tell_doctor": [
+  "All your medicines. Your doctor will say if anything needs to be stopped",
+  "If you get chest pain with exercise",
+  "If your joints hurt and it is hard to walk or pedal",
+  "If you have fainted"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "A light meal 2 to 3 hours before the test. Do not come hungry, and do not eat a big meal."
+  },
+  {
+   "title": "The day before",
+   "text": "No hard workouts or alcohol. On the day of the test, you usually skip coffee and do not smoke. Check with the clinic."
+  },
+  {
+   "title": "Clothing",
+   "text": "Sportswear and comfortable shoes."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. If your doctor gives you a plan, follow it."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A list of your medicines",
+  "Sportswear and shoes",
+  "Water and a towel"
+ ],
+ "steps": [
+  "ECG stickers are put on your chest and a blood pressure cuff on your arm",
+  "A mask is put on your face. You breathe through it",
+  "First, readings are taken at rest",
+  "You start pedaling or walking, and the effort slowly goes up",
+  "You keep going until you are tired or the doctor stops you",
+  "After the test, you rest until your pulse settles"
+ ],
+ "feel": [
+  "The mask feels strange at first",
+  "By the end, you feel very tired and out of breath, like after a hard workout",
+  "Your legs may still be sore the next day"
+ ],
+ "after": [
+  "Sit for 10 to 15 minutes before you leave",
+  "Reading the results usually takes from a few hours to a few days",
+  "Avoid heavy exercise for the rest of the day"
+ ],
+ "red_flags": [
+  "Chest pain, dizziness, or not getting enough air during the test: tell the doctor right away",
+  "Chest pain or fainting after the test: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why go to my limit?",
+   "a": "To see how your heart and lungs work at their maximum. But you will be stopped if it becomes unsafe."
+  },
+  {
+   "q": "How is this different from a normal treadmill test?",
+   "a": "Besides the ECG, it measures your breathing and gas exchange. This helps show what limits you: the heart, the lungs, or the muscles."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Exercise test tomorrow. Bring sportswear and shoes. Have a light meal 2 to 3 hours before."
+  }
+ ]
+}

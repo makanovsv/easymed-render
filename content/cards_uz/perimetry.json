@@ -1,0 +1,67 @@
+{
+ "title": "Ko‘rish maydonlari (perimetriya)",
+ "also": [
+  "perimetriya",
+  "ko‘rish maydonlari",
+  "kompyuter perimetriyasi",
+  "yon ko‘rishni tekshirish"
+ ],
+ "what": "Apparat yonlarga qanchalik keng ko‘rishingizni tekshiradi. Siz markazga qaraysiz va chaqnashni payqaganingizda tugmani bosasiz.",
+ "why": "Glaukomada va unga gumon bo‘lganda, to‘r parda va nervlar kasalliklarida va jarohatlardan keyin.",
+ "duration": "odatda ikkala ko‘z uchun 10–30 daqiqa; natija ko‘pincha darhol",
+ "tell_doctor": [
+  "Glaukoma yoki unga gumon bormi",
+  "Bu tekshiruv avval qilinganmi",
+  "Qanday tomchilar va dorilar ishlatasiz",
+  "Ko‘zoynak taqasizmi"
+ ],
+ "prepare": [
+  {
+   "title": "Dam olish",
+   "text": "Yaxshi uxlang — aniq natija uchun diqqat muhim."
+  },
+  {
+   "title": "Ko‘zoynak",
+   "text": "Ko‘zoynagingizni oling, ayniqsa yaqinni ko‘rish uchun."
+  }
+ ],
+ "bring": [
+  "Ko‘zoynak",
+  "Oldingi natijalar",
+  "Hujjat"
+ ],
+ "steps": [
+  "Bir ko‘z bog‘lam bilan yopiladi",
+  "Iyakni tayanchga qo‘yasiz va markaziy nuqtaga qaraysiz",
+  "Turli joylarda kuchsiz chaqnashlar paydo bo‘ladi",
+  "Chaqnashni ko‘rganingizda tugmani bosasiz",
+  "Chaqnashlarni ko‘z bilan qidirmang — markazga qarang",
+  "Keyin xuddi shu narsa ikkinchi ko‘z uchun qilinadi"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Charchatishi va zerikarli bo‘lishi mumkin — pauza so‘rasa bo‘ladi",
+  "Chaqnashlarning bir qismini ko‘rmaysiz — shunday mo‘ljallangan"
+ ],
+ "after": [
+  "Hech qanday cheklov yo‘q",
+  "Shifokor natijani oldingilar bilan solishtiradi va keyin nima bo‘lishini aytadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Men ko‘p chaqnashni o‘tkazib yubordim — bu yomonmi?",
+   "a": "Shart emas. Apparat ataylab juda kuchsiz chaqnashlarni ham ko‘rsatadi."
+  },
+  {
+   "q": "Nega bu tekshiruvni takrorlash kerak?",
+   "a": "Ko‘rish vaqt o‘tishi bilan o‘zgarayotganini ko‘rish uchun, ayniqsa glaukomada."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ko‘rish maydonlarini tekshirish. Yaxshi uxlang va ko‘zoynagingizni oling."
+  }
+ ]
+}

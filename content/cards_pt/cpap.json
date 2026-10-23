@@ -1,0 +1,81 @@
+{
+ "title": "Terapia com CPAP em casa",
+ "also": [
+  "CPAP",
+  "aparelho de CPAP",
+  "aparelho para ronco",
+  "máscara para dormir",
+  "tratamento da apneia"
+ ],
+ "what": "Um aparelho pequeno manda ar pela máscara, com uma pressão leve, durante a noite. Assim as vias aéreas não fecham no sono e a respiração não para.",
+ "why": "Com paradas da respiração durante o sono, a apneia, e ronco alto com sono durante o dia, quando o exame do sono confirmou.",
+ "duration": "toda noite, o sono inteiro; a adaptação leva normalmente de 1 a 4 semanas",
+ "tell_doctor": [
+  "Se a máscara machuca, aperta ou escapa ar por baixo dela",
+  "Se a boca ou o nariz ficam secos, ou o nariz entupido",
+  "Se você continua roncando ou tem sono durante o dia",
+  "Se está difícil se acostumar e dá vontade de desistir"
+ ],
+ "prepare": [
+  {
+   "title": "Máscara",
+   "text": "A máscara é escolhida pelo tamanho. Se estiver desconfortável, peça outro tamanho ou tipo. Há muitos."
+  },
+  {
+   "title": "Adaptação",
+   "text": "Nos primeiros dias, use a máscara durante o dia por 20 a 30 minutos, só sentado, lendo."
+  },
+  {
+   "title": "Água",
+   "text": "Se o aparelho tem umidificador, coloque água fervida ou destilada. Confirme na bula."
+  },
+  {
+   "title": "Pressão",
+   "text": "A pressão é ajustada pelo médico. Não mude por conta própria."
+  }
+ ],
+ "bring": [
+  "O aparelho, a mangueira e a máscara",
+  "O cartão de memória ou os dados do aplicativo, para a consulta",
+  "Lista de dúvidas e queixas"
+ ],
+ "steps": [
+  "Antes de dormir, coloque água no umidificador, se tiver",
+  "Coloque a máscara e ajuste as tiras: firme, mas sem apertar demais",
+  "Deite numa posição confortável e ligue o aparelho",
+  "Respire tranquilo pelo nariz, se a máscara for nasal",
+  "Se escapar ar por baixo da máscara, ajuste um pouco a posição",
+  "De manhã, desligue o aparelho, tire a máscara e jogue fora a água"
+ ],
+ "feel": [
+  "Nas primeiras noites é estranho: a pressão do ar e a máscara no rosto",
+  "Às vezes boca ou nariz secos",
+  "Depois de algumas semanas, muita gente nota que dorme melhor"
+ ],
+ "after": [
+  "Use o aparelho toda noite. Pular noites diminui o benefício",
+  "Limpe a máscara todos os dias, e lave a mangueira e o reservatório uma vez por semana",
+  "Os filtros e a máscara são trocados conforme a bula",
+  "Depois de um tempo, o médico vai conferir os dados do aparelho"
+ ],
+ "red_flags": [
+  "Dor de ouvido, dor forte nos seios da face ou sangramento pelo nariz: avise o médico",
+  "Falta de ar forte, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso pular uma noite?",
+   "a": "É melhor não. Sem o aparelho, as paradas da respiração voltam na mesma noite."
+  },
+  {
+   "q": "E se eu tiro a máscara dormindo?",
+   "a": "Isso acontece no começo. Avise o médico. Às vezes ajuda outra máscara ou outro ajuste."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Já é quase hora de dormir. Água no umidificador, máscara, aparelho: ligue antes de deitar."
+  }
+ ]
+}

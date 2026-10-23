@@ -1,0 +1,63 @@
+{
+ "title": "Sistatin C",
+ "also": [
+  "sistatin S",
+  "buyrak funksiyasiga tahlil",
+  "sistatin bo‘yicha SKF"
+ ],
+ "what": "Buyraklar qonni qanchalik yaxshi tozalashini baholaydigan oqsilga qon tahlili.",
+ "why": "Buyrak ishini aniqroq baholash kerak bo‘lganda, ayniqsa kreatinin noaniq ko‘rsatgan bo‘lishi mumkin bo‘lsa: keksalarda, mushak massasi juda katta yoki juda kichik odamlarda, dori dozalarini tanlashdan oldin.",
+ "duration": "qon olish odatda 5 daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Kortikosteroid gormonlar ichsangiz",
+  "Qalqonsimon bez kasalliklari bo‘lsa",
+  "Buyrak kasalliklari, diabet, bosim",
+  "Ichayotgan barcha dorilaringizni"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qolish shart emas, lekin uni ko‘pincha biokimyo bilan birga och qoringa topshirishadi. Laboratoriyadan aniqlashtiring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Kreatininga oldingi tahlillar"
+ ],
+ "steps": [
+  "O‘tirasiz, tirsakdan yuqoriga jgut bog‘lanadi",
+  "Teri antiseptik bilan artiladi",
+  "Qon venadan probirkaga olinadi",
+  "Jgut yechiladi, paxta bosiladi"
+ ],
+ "feel": [
+  "Chimchilashga o‘xshash qisqa sanchiq",
+  "Ba’zan yengil bosh aylanishi: hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda 1–3 kunda",
+  "Shifokor u bo‘yicha buyrak ishini hisoblaydi va kerak bo‘lsa, dori dozalarini to‘g‘rilaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Kreatinin bor bo‘lsa, sistatin nega kerak?",
+   "a": "Kreatinin mushaklar va ovqatlanishga bog‘liq. Sistatin ularga kamroq bog‘liq, shuning uchun birga ular aniqroq manzara beradi."
+  },
+  {
+   "q": "Och qoringa topshirish kerakmi?",
+   "a": "Sistatinning o‘zi ovqatga deyarli bog‘liq emas. Lekin biokimyo bilan birga topshirsangiz, och qoringa yaxshiroq: laboratoriyadan aniqlashtiring."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga sistatin C tahlili. Biokimyo bilan birga bo‘lsa, kechki ovqatdan keyin ovqat yemang, suv ichish mumkin."
+  }
+ ]
+}

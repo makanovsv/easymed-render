@@ -1,0 +1,30 @@
+tmj|dent|Лечение боли в челюстном суставе (ВНЧС)|Jaw joint (TMJ) pain treatment|dent_chair|M|3
+dental_abscess|dent|Вскрытие флюса|Draining a dental abscess|dent_chair|M|2
+dry_socket|dent|Лечение альвеолита после удаления зуба|Dry socket treatment|dent_chair|M|3
+intraoral_scan|dent|Цифровой слепок зубов (сканер)|Digital dental impression (intraoral scan)|dent_chair|L|3
+dent_preg|dent|Лечение зубов при беременности|Dental treatment during pregnancy|dent_chair|M|2
+post_core|dent|Восстановление зуба на штифте|Post and core restoration|dent_chair|M|3
+color_vision|eye|Проверка цветового зрения|Colour vision test|eye_room|L|2
+cycloplegia|eye|Проверка рефракции с закапыванием (циклоплегия) у ребёнка|Cycloplegic refraction in children|eye_room|L|2
+myopia_control|eye|Контроль близорукости у детей (ночные линзы, капли)|Myopia control in children (night lenses, drops)|eye_room|L|2
+amblyopia|eye|Лечение амблиопии (заклейка, аппаратное)|Lazy eye treatment (patching, vision therapy)|eye_room|L|2
+topography|eye|Кератотопография и пахиметрия|Corneal topography and pachymetry|eye_room|L|3
+biometry|eye|Биометрия глаза перед операцией катаракты|Eye biometry before cataract surgery|eye_room|L|3
+rop|eye|Осмотр глаз недоношенного (ретинопатия)|Eye exam for premature babies (ROP)|eye_room|L|3
+crosslinking|eye|Кросслинкинг роговицы|Corneal cross-linking|eye_room|M|3
+pterygium|eye|Удаление птеригиума|Pterygium removal|or_room|M|3
+eye_foreign|eye|Удаление инородного тела из глаза|Removing a foreign body from the eye|eye_room|M|2
+blepharitis|eye|Гигиена век при блефарите|Eyelid hygiene for blepharitis|home|L|2
+punctal_plugs|eye|Пробки для слёзных точек|Punctal plugs|eye_room|M|3
+diabetic_eye|eye|Осмотр глаз при диабете|Diabetic eye screening|eye_room|L|2
+vitrectomy|eye|Витрэктомия (при отслойке сетчатки и кровоизлиянии)|Vitrectomy|or_room|H|3
+trabeculectomy|eye|Операция при глаукоме|Glaucoma surgery|or_room|H|3
+icl|eye|Факичная линза (ICL)|Phakic lens implant (ICL)|or_room|H|3
+ent_foreign|ent|Удаление инородного тела из уха и носа у ребёнка|Removing a foreign body from a child's ear or nose|ent_room|M|2
+politzer|ent|Продувание слуховых труб|Eustachian tube inflation|ent_room|M|2
+sinus_puncture|ent|Пункция гайморовой пазухи|Maxillary sinus puncture|ent_room|M|3
+peritonsillar|ent|Вскрытие паратонзиллярного абсцесса|Peritonsillar abscess drainage|ent_room|H|3
+otitis_kids|ent|Отит у ребёнка: лечение и наблюдение|Ear infection in children: treatment and follow-up|office|L|1
+cochlear|ent|Кохлеарная имплантация|Cochlear implant surgery|or_room|H|3
+tympanoplasty|ent|Тимпанопластика|Tympanoplasty|or_room|H|3
+tinnitus|ent|Приём при шуме в ушах|Tinnitus consultation|ent_room|L|2

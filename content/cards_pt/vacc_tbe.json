@@ -1,0 +1,72 @@
+{
+ "title": "Vacina contra encefalite transmitida por carrapato",
+ "also": [
+  "vacina contra encefalite do carrapato",
+  "encefalite transmitida por carrapatos",
+  "vacina TBE",
+  "vacina para quem vai à floresta"
+ ],
+ "what": "É a injeção de uma vacina que protege contra a encefalite do carrapato, uma infecção viral do cérebro transmitida por carrapatos. O esquema tem várias doses. É comum na Rússia e no Cazaquistão.",
+ "why": "Para quem mora ou passa tempo na floresta e na natureza em regiões onde existe essa encefalite.",
+ "duration": "a injeção leva alguns segundos; com a avaliação, normalmente de 15 a 40 minutos; o esquema costuma ter 3 doses e depois reforços",
+ "tell_doctor": [
+  "Se está doente agora ou com febre",
+  "Alergias, principalmente a proteína do ovo, e reações a vacinas anteriores",
+  "Se está grávida",
+  "Quando você vai para a floresta: há esquemas acelerados"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é aplicada quando você está saudável. Antes da injeção, você será avaliado."
+  },
+  {
+   "title": "Prazo",
+   "text": "É melhor começar o esquema com antecedência, normalmente no inverno ou no começo da primavera. Confirme com o médico."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, fácil de descobrir o braço."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Carteira de vacinação"
+ ],
+ "steps": [
+  "O médico ou a enfermeira pergunta como você está e mede a temperatura",
+  "Você descobre o braço",
+  "A pele é limpa e a injeção é aplicada",
+  "A vacina é registrada nos documentos",
+  "Depois da injeção, é preciso ficar sentado na clínica por cerca de 30 minutos"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes o local dói por 1 a 2 dias",
+  "Às vezes dor de cabeça, fraqueza ou febre baixa"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala de vacinação",
+  "É melhor ir à floresta só 2 semanas depois da segunda dose; confirme com o médico",
+  "Os reforços costumam ser a cada alguns anos; vão dizer a data"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A vacina protege contra todas as doenças do carrapato?",
+   "a": "Não, só contra a encefalite. Examine o corpo depois da floresta e use repelente para carrapatos."
+  },
+  {
+   "q": "O que fazer se o carrapato me picou?",
+   "a": "Retire com cuidado o carrapato inteiro ou procure um pronto-atendimento. Conte ao médico sobre a picada."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina contra encefalite do carrapato. Leve a carteira de vacinação."
+  }
+ ]
+}

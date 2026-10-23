@@ -1,0 +1,80 @@
+{
+ "title": "Xalyazionni olib tashlash",
+ "also": [
+  "xalyazion",
+  "qovoqdagi do‘l",
+  "qovoqdagi bo‘rtma",
+  "qovoq kistasini olib tashlash"
+ ],
+ "what": "Xalyazion: qovoqda berk qolgan bezdan paydo bo‘lgan zich bo‘rtma. Shifokor mahalliy og‘riqsizlantirish ostida uni ochib, tozalaydi.",
+ "why": "Bo‘rtma bir necha haftada o‘zi o‘tmasa, xalaqit bersa, kattalashsa yoki tez-tez yallig‘lansa.",
+ "duration": "odatda 15–30 daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiruvchi preparatlar",
+  "Allergiyalar",
+  "Bo‘rtma qancha vaqtdan beri bor va o‘zgaryaptimi",
+  "Ilgari xalyazionlar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Upa-elik",
+   "text": "Ko‘z upa-eliksiz keling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang: biror narsani o‘zgartirish kerakmi, shifokor aytadi."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Muolajadan keyin ko‘zda bog‘lam bo‘lishi mumkin: rulga o‘tirmagan yaxshi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Mashinada olib ketishsa, yo‘ldosh"
+ ],
+ "steps": [
+  "Qovoqqa antiseptik bilan ishlov beriladi",
+  "Qovoqqa og‘riqsizlantiruvchi ukol qilinadi",
+  "Qovoq qimirlamasligi uchun qisqich qo‘yiladi",
+  "Ko‘pincha qovoqning ichki tomonidan kichik kesim qilinadi",
+  "Ichidagisi olib tashlanadi",
+  "Malham va bosuvchi bog‘lam qo‘yiladi"
+ ],
+ "feel": [
+  "Ukol noqulay, lekin qisqa",
+  "Keyin og‘riqsiz bosim",
+  "Keyin qovoqda ozgina shish va ko‘karish bo‘ladi"
+ ],
+ "after": [
+  "Bog‘lamni shifokor aytganidek bir necha soatdan keyin yechishadi",
+  "Malham yoki tomchilar tayinlanganidek",
+  "Ko‘zni ishqalamang",
+  "Shish odatda bir necha kunda o‘tadi"
+ ],
+ "red_flags": [
+  "Kuchayib boradigan shish, qizarish va og‘riq, harorat",
+  "Ko‘rish yomonlashsa"
+ ],
+ "faq": [
+  {
+   "q": "O‘zi o‘tib ketishi mumkinmi?",
+   "a": "Ba’zan ha. Iliq kompresslar va qovoq massaji yordam beradi: shifokordan qanday qilishni so‘rang."
+  },
+  {
+   "q": "Chandiq qoladimi?",
+   "a": "Odatda kesim qovoqning ichki tomonidan bo‘ladi va chandiq ko‘rinmaydi."
+  },
+  {
+   "q": "Yana paydo bo‘lishi mumkinmi?",
+   "a": "Bo‘ladi. Shifokor qovoqlarni parvarishlash haqida gapirib beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga xalyazionni olib tashlash. Ko‘z upa-eliksiz keling."
+  }
+ ]
+}

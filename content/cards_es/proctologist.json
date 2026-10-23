@@ -1,0 +1,76 @@
+{
+ "title": "Consulta con el proctólogo",
+ "also": [
+  "proctólogo",
+  "coloproctólogo",
+  "médico de las hemorroides",
+  "revisión del recto"
+ ],
+ "what": "El médico revisa el ano y el recto. La revisión es corta y se hace con mucho cuidado.",
+ "why": "Con sangre en las heces, dolor o comezón en el ano, hemorroides, fisuras, estreñimiento, y también como prevención después de los 40 o 50 años.",
+ "duration": "la consulta suele durar de 15 a 30 minutos; el resultado se da en el momento",
+ "tell_doctor": [
+  "Qué te molesta y desde cuándo",
+  "Si hubo sangre y de qué color",
+  "Cada cuánto evacuas y cómo son las heces",
+  "Medicamentos que adelgazan la sangre",
+  "Si te han operado el intestino"
+ ],
+ "prepare": [
+  {
+   "title": "Limpieza",
+   "text": "Muchas veces piden vaciar el intestino antes de la consulta, a veces con un enema o microenema. Pregunta en la clínica cómo hacerlo."
+  },
+  {
+   "title": "Higiene",
+   "text": "Date un baño en la mañana. No hace falta preparar la piel de manera especial."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes desayunar ligero."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Resultados de colonoscopia o análisis, si los tienes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta por tus molestias",
+  "Te acuestas de lado con las rodillas dobladas o te colocas apoyada o apoyado en rodillas y codos",
+  "Revisa la piel alrededor del ano",
+  "Con un dedo enguantado y con gel, revisa con cuidado el recto",
+  "A veces mira con un tubo corto llamado anoscopio",
+  "Te explica lo que encontró y te indica tratamiento"
+ ],
+ "feel": [
+  "Pena o incomodidad: es normal, para el médico es un trabajo de todos los días",
+  "La revisión con el dedo puede ser incómoda, pero dura poco",
+  "Si tienes una fisura puede doler: díselo al médico"
+ ],
+ "after": [
+  "Después de la revisión normalmente puedes seguir con tu día",
+  "Es normal que salga un poco de gel o rastros de sangre si hay fisura",
+  "Si hace falta, el médico te mandará a una colonoscopia"
+ ],
+ "red_flags": [
+  "Sangrado fuerte por el ano, debilidad o mareo: llama a emergencias",
+  "Dolor fuerte con hinchazón y fiebre: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente no, solo es incómodo. Si hay una fisura, el médico puede aliviar el dolor con un gel."
+  },
+  {
+   "q": "¿La sangre en las heces siempre son hemorroides?",
+   "a": "No siempre. Por eso es importante ir al médico y no tratarse por cuenta propia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes consulta con el proctólogo. Pregunta si hay que limpiar el intestino por la mañana y cómo hacerlo."
+  }
+ ]
+}

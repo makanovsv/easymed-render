@@ -1,0 +1,76 @@
+{
+ "title": "Bolaning profilaktik ko‘rigi",
+ "also": [
+  "pediatrning rejali ko‘rigi",
+  "bolaning profilaktik ko‘rigi",
+  "bog‘cha yoki maktabdan oldingi ko‘rik"
+ ],
+ "what": "Pediatr bolaning qanday o‘sayotganini va rivojlanayotganini tekshiradi. Ba’zan ko‘rikka boshqa shifokorlar, tahlillar va emlashlar qo‘shiladi.",
+ "why": "Yoshga qarab jadval bo‘yicha: ko‘pincha hayotning birinchi yilida. Shuningdek, bog‘cha, maktab, lager va sport seksiyasidan oldin.",
+ "duration": "pediatrda odatda 20–30 daqiqa; boshqa shifokorlar bilan — uzoqroq",
+ "tell_doctor": [
+  "Sog‘liq, uyqu, ovqatlanish yoki xulq-atvorda nima bezovta qilayotganini",
+  "Allergiyani va oldingi emlashlarga reaksiyalarni",
+  "Qanday dori va vitaminlar berayotganingizni",
+  "Yaqinda bola nima bilan kasallanganini"
+ ],
+ "prepare": [
+  {
+   "title": "Ahvoli",
+   "text": "Bola kasal bo‘lib qolsa, klinikaga xabar bering — ko‘rik va emlash odatda ko‘chiriladi."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Siydik yoki qon tahlillari kerak bo‘lsa — siydikni qanday yig‘ish va och qoringa kelish kerakligini klinikadan aniqlab oling."
+  },
+  {
+   "title": "Kayfiyat",
+   "text": "Bolaga xotirjam tushuntiring: shifokor uning qanday o‘sayotganini ko‘radi. Ukollar bilan qo‘rqitmang."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjatlari va emlash pasporti yoki kartasi",
+  "Oldingi ko‘rik va tahlillar yozuvlari",
+  "Taglik, yupqa ko‘rpacha, shisha yoki yengil tamaddi",
+  "Sevimli o‘yinchoq"
+ ],
+ "steps": [
+  "Bola tortiladi va bo‘yi o‘lchanadi, chaqaloqlarning yana bosh aylanasi",
+  "Pediatr uyqu, ovqatlanish va rivojlanish haqida so‘raydi",
+  "Yurak va o‘pkani tinglaydi, tomoq va terini ko‘radi, qornini paypaslaydi",
+  "Yoshiga qarab rivojlanishni tekshiradi: bosh tutishi, yurishi, gapirishi",
+  "Pediatr boshqa shifokorlarga yoki tahlillarga yo‘llanma berishi mumkin",
+  "Jadval bo‘yicha emlash kerak bo‘lsa, shifokor siz bilan muhokama qiladi"
+ ],
+ "feel": [
+  "Ko‘rikning o‘zi og‘riqsiz",
+  "Yechintirilganda chaqaloq yig‘lashi mumkin — bu normal",
+  "Emlash qilinsa — qisqa ukol"
+ ],
+ "after": [
+  "Shifokor tavsiyalar beradi va keyingi ko‘rik qachon ekanini aytadi",
+  "Uyda paydo bo‘ladigan savollarni yozib qo‘ying — keyingi qabulga",
+  "Emlashdan keyin odatda klinikada taxminan 30 daqiqa o‘tirish maslahat beriladi"
+ ],
+ "red_flags": [
+  "Emlashdan keyin darrov nafas olish qiyinlashishi, yuz shishishi, butun tanada toshma",
+  "Tutqanoq, loqaydlik, bolani uyg‘otish qiyin",
+  "3 oydan kichik chaqaloqda yuqori harorat — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Shikoyat bo‘lmasa, bolani pediatrga qanchalik tez-tez olib borish kerak?",
+   "a": "Birinchi yilda — odatda har oy, keyin kamroq, klinika jadvali bo‘yicha. Bog‘cha va maktabdan oldin alohida ko‘rik kerak."
+  },
+  {
+   "q": "Bolada burun tutilgan bo‘lsa, profilaktik ko‘rikka borish mumkinmi?",
+   "a": "Klinikaga xabar bering. Ko‘rikni ba’zan o‘tkazish mumkin, emlash esa odatda sog‘ayguncha ko‘chiriladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bolaning profilaktik ko‘rigi. Emlash pasporti, hujjatlar va sevimli o‘yinchoqni tayyorlang."
+  }
+ ]
+}

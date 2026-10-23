@@ -1,0 +1,74 @@
+{
+ "title": "Bolada qon tahlili",
+ "also": [
+  "bolaga qon tahlili",
+  "chaqaloqdan qon",
+  "bolaning barmog‘idan qon",
+  "bolalar qon tahlili"
+ ],
+ "what": "Hamshira boladan barmoqchasidan yoki venadan ozgina qon oladi. Odatda bu bir necha daqiqa oladi.",
+ "why": "Profilaktik ko‘rikda, kasallikda, bolalar bog‘chasi yoki maktabdan oldin, operatsiyadan oldin va davoni nazorat qilish uchun.",
+ "duration": "odatda 3–10 daqiqa, natija ko‘pincha 1–2 kunda",
+ "tell_doctor": [
+  "Bola ukoldan hushdan ketgan yoki qattiq qo‘rqqan bo‘lsa",
+  "U dorilar qabul qilsa",
+  "Lateks yoki plastirga allergiya bo‘lsa",
+  "Qon ivishi kasalliklari bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Emizikli chaqaloqni odatda odatdagidek ovqatlantirishadi — aniqlang. Kattaroq bolalardan ko‘pincha och qoringa kelishni so‘rashadi: laboratoriyadan necha soat ovqatsiz ekanini aniqlang."
+  },
+  {
+   "title": "Suv",
+   "text": "Toza suv odatda mumkin — bola kamroq injiq bo‘ladi."
+  },
+  {
+   "title": "Kayfiyat",
+   "text": "Bolaga haqiqatni ayting: tez ukol bo‘ladi, biroz og‘riydi, siz yoningizda. Shifokor bilan qo‘rqitmang."
+  },
+  {
+   "title": "Yoningizda",
+   "text": "Sevimli o‘yinchoq va keyin yeyish uchun mazali narsa."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bolaning hujjatlari",
+  "O‘yinchoq va keyin uchun tamaddi"
+ ],
+ "steps": [
+  "Hamshira ko‘rsatganidek bolani quchog‘ingizda ushlaysiz",
+  "Barmoq yoki qo‘l antiseptik bilan artiladi",
+  "Barmoqchadan bo‘lsa — tez teshib, bir necha tomchi probirkaga olinadi",
+  "Venadan bo‘lsa — jgut, qisqa ukol, qon probirkaga olinadi",
+  "Ukol joyiga paxta bosiladi va bola maqtaladi"
+ ],
+ "feel": [
+  "Qisqa ukol — bola yig‘lashi mumkin, bu normal",
+  "Sizning xotirjamligingiz chaqaloqqa ko‘p yordam beradi"
+ ],
+ "after": [
+  "Paxtani bir necha daqiqa bosib turing",
+  "Darrov maqtang va och qoringa topshirgan bo‘lsangiz, tamaddi bering",
+  "Natijalar odatda 1–2 kunda"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Chaqaloqdan nega barmoqdan emas, venadan qon olishadi?",
+   "a": "Ko‘p tahlillar uchun qon ko‘proq kerak. Venadan bu tezroq va aniqroq."
+  },
+  {
+   "q": "Bolani qanday tinchlantirish kerak?",
+   "a": "Rostini va xotirjam gapiring, quchoqda ushlang, o‘yinchoq yoki multfilm bilan chalg‘iting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolada qon tahlili. Och qoringa kerakmi, aniqlang va o‘yinchoq hamda tamaddi oling."
+  }
+ ]
+}

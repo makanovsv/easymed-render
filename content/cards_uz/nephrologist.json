@@ -1,0 +1,67 @@
+{
+ "title": "Nefrolog qabuli",
+ "also": [
+  "nefrolog",
+  "buyrak shifokori",
+  "buyrak bo‘yicha shifokor"
+ ],
+ "what": "Buyrak kasalliklarini davolaydigan va ularning ishini saqlab qolishga yordam beradigan shifokor.",
+ "why": "Siydik yoki qon tahlillarida o‘zgarishlar bo‘lsa, shish, yuqori qon bosimi, buyrak kasalliklari, buyrak zararlangan diabetda.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Barcha dorilar, shu jumladan og‘riq qoldiruvchilar va qo‘shimchalar",
+  "Shish, siydikda o‘zgarishlar bormi",
+  "Qon bosimi, diabet",
+  "Qarindoshlarda buyrak kasalliklari"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Siydik va qonning barcha tahlillarini, ayniqsa kreatinin va buyrak UZI sini oling."
+  },
+  {
+   "title": "Qon bosimi",
+   "text": "Uyda o‘lchasangiz — qon bosimi kundaligini oling."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Qon bosimi kundaligi",
+  "Oldingi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarning o‘zi"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar va dorilar haqida so‘raydi",
+  "Qon bosimi va vazningizni o‘lchaydi",
+  "Shishlarni ko‘radi",
+  "Tahlillar va UZI ni o‘rganadi",
+  "Tekshiruv yoki davolash buyuradi"
+ ],
+ "feel": [
+  "Noxush narsa yo‘q — oddiy ko‘rik",
+  "Shifokor o‘sha kuni siydik topshirishni so‘rashi mumkin"
+ ],
+ "after": [
+  "Nazorat tahlillarini belgilangan muddatda topshiring",
+  "Og‘riq qoldiruvchi va qo‘shimchalarni shifokorsiz ichmagan ma’qul — undan so‘rang"
+ ],
+ "red_flags": [
+  "Siydik deyarli chiqmay qolsa, kuchli shish, nafas qisilishi — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Nefrolog uchun qanday tahlillar kerak?",
+   "a": "Odatda umumiy siydik tahlili, qonda kreatinin va buyrak UZI. Aniq ro‘yxatni shifokor aytadi."
+  },
+  {
+   "q": "Buyrak kasalligida og‘riq qoldiruvchi ichsa bo‘ladimi?",
+   "a": "Hammasini emas. Sizga qaysi biri mos kelishini shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga nefrolog qabuli. Qon va siydik tahlillari, UZI va qon bosimi kundaligini oling."
+  }
+ ]
+}

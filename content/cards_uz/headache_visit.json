@@ -1,0 +1,79 @@
+{
+ "title": "Bosh og‘rig‘i va migrenda tekshiruv",
+ "also": [
+  "migren bo‘yicha qabul",
+  "bosh og‘rig‘i bo‘yicha nevrolog",
+  "boshim og‘riydi",
+  "boshni tekshirish",
+  "bosh og‘rig‘i kundaligi"
+ ],
+ "what": "Shifokor bosh og‘riqlari haqida batafsil so‘raydi va sizni ko‘radi. Ko‘pincha sababni murakkab tekshiruvlarsiz, hikoya va ko‘rik orqali tushunishadi.",
+ "why": "Tez-tez yoki kuchli bosh og‘riqlarida, migrenda, og‘riq o‘zgarsa yoki tabletkalar yordam bermay qo‘ysa.",
+ "duration": "qabul odatda 30–45 daqiqa",
+ "tell_doctor": [
+  "Bosh qanchalik tez-tez og‘riydi va xuruj qancha davom etadi",
+  "Qayerda og‘riydi va qanday og‘riq: bosadi, urib turadi, sanchadi",
+  "Xurujdan oldin va u bilan birga nima bo‘ladi: ko‘ngil aynishi, yorug‘lik bezovta qiladi",
+  "Og‘riqqa qanday tabletkalar ichasiz va qanchalik tez-tez",
+  "Xurujni nima qo‘zg‘atadi: uyqu, ovqat, stress, hayz"
+ ],
+ "prepare": [
+  {
+   "title": "Kundalik",
+   "text": "Tashrifdan 2–4 hafta oldin har bir xurujni yozib boring: sana, kuch, nima ichdingiz va yordam berdimi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Davolashni o‘zingiz o‘zgartirmang. Ichayotgan barcha dorilarni yozib qo‘ying."
+  },
+  {
+   "title": "Tekshiruvlar",
+   "text": "Oldingi suratlar va xulosalarni oling, agar bo‘lsa."
+  }
+ ],
+ "bring": [
+  "Bosh og‘rig‘i kundaligi",
+  "Dorilar ro‘yxati",
+  "Oldingi suratlar va xulosalar",
+  "Bosim o‘lchovlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor xurujlar haqida batafsil so‘raydi",
+  "Bosimni o‘lchaydi",
+  "Reflekslar, harakatlar, qorachiqlar, muvozanatni tekshiradi",
+  "Bu qanday bosh og‘rig‘i ekanini tushuntiradi",
+  "Kerak bo‘lsa, tahlil yoki MRT buyuradi",
+  "Davolash va profilaktika rejasini beradi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "Savollar ko‘p — bu sababni tushunishga yordam beradi"
+ ],
+ "after": [
+  "Bosh og‘rig‘i kundaligini yuritishni davom ettiring",
+  "Og‘riq qoldiruvchilarni juda tez-tez ichmang — bu og‘riqni kuchaytirishi mumkin",
+  "Davolashni baholash uchun takroriy qabulga keling"
+ ],
+ "red_flags": [
+  "To‘satdan juda kuchli bosh og‘rig‘i, umringizdagi eng kuchlisi — tez yordamni chaqiring (103)",
+  "Qo‘l yoki oyoqda zaiflik, nutq buzilishi bilan bosh og‘rig‘i — tez yordamni chaqiring (103)",
+  "Yuqori harorat va bo‘yin qotishi bilan bosh og‘rig‘i — tez yordamni chaqiring (103)",
+  "Boshga zarbadan keyingi bosh og‘rig‘i"
+ ],
+ "faq": [
+  {
+   "q": "Bosh og‘rig‘ida MRT qilish kerakmi?",
+   "a": "Har doim emas. Shifokor xavotirli belgilar bo‘lsa MRT buyuradi."
+  },
+  {
+   "q": "Har kuni og‘riq qoldiruvchi ichsa bo‘ladimi?",
+   "a": "Yo‘q. Tez-tez ichish o‘zi bosh og‘rig‘iga sabab bo‘lishi mumkin. Buni shifokor bilan muhokama qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bosh og‘rig‘i bo‘yicha qabul. Xurujlar kundaligi va dorilar ro‘yxatini oling."
+  }
+ ]
+}

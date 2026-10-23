@@ -1,0 +1,68 @@
+{
+ "title": "Limpieza facial con cosmetóloga",
+ "also": [
+  "limpieza facial",
+  "limpieza cosmética",
+  "limpieza manual",
+  "limpieza con ultrasonido"
+ ],
+ "what": "La cosmetóloga limpia la piel de la cara de suciedad y de puntos negros. La limpieza puede ser manual, con aparato o mixta.",
+ "why": "Cuando la cara tiene poros dilatados, puntos negros, la piel es grasosa o se ve opaca.",
+ "duration": "normalmente de 60 a 90 minutos",
+ "tell_doctor": [
+  "Si hay inflamación, erupción o herpes en los labios",
+  "Si tomas medicamentos para el acné u hormonas",
+  "Si te hiciste hace poco un peeling o inyecciones",
+  "Alergias a cosméticos"
+ ],
+ "prepare": [
+  {
+   "title": "El día anterior",
+   "text": "Es mejor no asolearse ni usar exfoliantes."
+  },
+  {
+   "title": "Piel",
+   "text": "Puedes venir con maquillaje, te lo quitarán, pero es mejor sin él."
+  }
+ ],
+ "bring": [
+  "No hace falta nada especial",
+  "Tu liga o diadema para el cabello, si quieres"
+ ],
+ "steps": [
+  "Limpian la piel y quitan el maquillaje",
+  "Vaporizan la piel o ponen un producto suavizante",
+  "La cosmetóloga quita los puntos negros con las manos enguantadas o con un aparato",
+  "Tratan la piel con un producto calmante",
+  "Al final, mascarilla y crema"
+ ],
+ "feel": [
+  "La limpieza manual puede ser incómoda y en algunas zonas dolorosa",
+  "Después, enrojecimiento, normalmente por unas horas"
+ ],
+ "after": [
+  "El primer día es mejor sin maquillaje",
+  "Durante 1 o 2 días, sin sauna, alberca ni exfoliantes",
+  "No te toques la cara con las manos",
+  "Usa protector solar"
+ ],
+ "red_flags": [
+  "Muchos granitos con pus, hinchazón fuerte o dolor después de 1 o 2 días"
+ ],
+ "faq": [
+  {
+   "q": "¿Cada cuánto se puede hacer la limpieza?",
+   "a": "Normalmente no más de una vez al mes. La cosmetóloga te dirá según tu piel."
+  },
+  {
+   "q": "¿Por qué me salieron granitos después de la limpieza?",
+   "a": "A veces pasa 1 o 2 días. Si hay muchos y duelen, acude a la cosmetóloga."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes limpieza facial. Hoy, sin exfoliantes ni sol."
+  }
+ ]
+}

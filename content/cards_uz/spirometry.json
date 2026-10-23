@@ -1,0 +1,75 @@
+{
+ "title": "Spirometriya",
+ "also": [
+  "tashqi nafas funksiyasini tekshirish",
+  "TNF",
+  "o‘pkani tekshirish"
+ ],
+ "what": "Qancha havo nafas olishingiz va qanchalik tez chiqarishingizni tekshirish. Siz apparat naychasiga nafas olasiz: bu xavfsiz va ukolsiz.",
+ "why": "Yo‘tal, hansirash, hushtakli nafasda; astma va surunkali o‘pka kasalligini topish yoki tekshirish uchun; operatsiyadan oldin va tibbiy ko‘rikda.",
+ "duration": "odatda 15–30 daqiqa, ingalyator bilan sinama bo‘lsa 45 daqiqagacha",
+ "tell_doctor": [
+  "O‘pka uchun qanday ingalyator va dorilardan foydalanasiz: shifokor ularni testdan oldin o‘tkazib yuborish kerakligini aytadi",
+  "Yaqinda infarkt, ko‘z, ko‘krak yoki qorinda operatsiya bo‘lgan bo‘lsa",
+  "Hozir shamollash, harorat yoki qon tupurish bo‘lsa",
+  "Homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Ba’zan testdan oldin bir necha soat ingalyator ishlatmaslik so‘raladi. Buni faqat shifokor aytsa qiling."
+  },
+  {
+   "title": "Chekish",
+   "text": "Tekshiruvdan hech bo‘lmaganda bir soat oldin chekmang."
+  },
+  {
+   "title": "Ovqat va yuklama",
+   "text": "2 soat oldin zich ovqat yemang, ertalab kofe ichmang. Xonaga yugurib kirmang: 15 daqiqa o‘tirib oling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng: tor kamar chuqur nafas olishga xalaqit beradi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Foydalanadigan ingalyatoringiz",
+  "Oldingi spirometriya natijalari"
+ ],
+ "steps": [
+  "Hamshira bo‘y va vaznni o‘lchaydi: me’yorlar shularga bog‘liq",
+  "Siz o‘tirasiz, burningizga qisqich taqishadi",
+  "Lablaringiz bilan bir martalik mundshtukni zich ushlaysiz",
+  "Xotirjam nafas olasiz, keyin buyruq bo‘yicha eng chuqur nafas olasiz",
+  "Va darhol bor kuchingiz bilan, uzoq, oxirigacha chiqarasiz",
+  "Eng yaxshi natijani olish uchun buni 3–4 marta takrorlashadi",
+  "Ba’zan ingalyatordan dori nafasga oldirib, 15–20 daqiqadan keyin testni takrorlashadi"
+ ],
+ "feel": [
+  "Harakat qilish kerak: test sizning kuchingizga bog‘liq",
+  "Boshingiz aylanishi yoki yo‘talgingiz kelishi mumkin: bu bir daqiqada o‘tadi, urinishlar orasida dam olsa bo‘ladi"
+ ],
+ "after": [
+  "Darhol ishlaringizga qaytsangiz bo‘ladi",
+  "Xulosani odatda darhol yoki o‘sha kuni berishadi",
+  "Natijani davolovchi shifokor tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nega spirometriya bir necha marta takrorlanadi?",
+   "a": "Natija nafas chiqarish kuchiga bog‘liq. Ma’lumotlar aniq bo‘lishi uchun bir nechta o‘xshash urinish kerak."
+  },
+  {
+   "q": "Test paytida nega dori nafasga olinadi?",
+   "a": "Bu sinama: shifokor nafas yengillashadimi-yo‘qmi, shuni ko‘radi. Shunday qilib astmani boshqa o‘pka kasalliklaridan ajratishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga spirometriya. O‘z ingalyatoringizni oling. Uni faqat shifokor aytsa o‘tkazib yuboring."
+  }
+ ]
+}

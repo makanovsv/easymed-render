@@ -1,0 +1,84 @@
+{
+ "title": "Cintilografia de perfusão miocárdica",
+ "also": [
+  "cintilografia do coração",
+  "cintilografia miocárdica",
+  "SPECT do miocárdio",
+  "cintilografia com esforço"
+ ],
+ "what": "Aplicam na veia uma dose muito pequena de uma substância especial que se acumula no músculo do coração. A câmera mostra como o sangue alimenta o coração em repouso e no esforço.",
+ "why": "Com suspeita de doença das coronárias, dor no peito, e para avaliar depois de stent ou ponte de safena.",
+ "duration": "normalmente de 3 a 5 horas com a espera, às vezes em dois dias; o laudo sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os do coração. O médico diz quais não tomar e quando",
+  "Asma ou doenças crônicas dos pulmões. Disso depende o tipo de esforço",
+  "Gravidez ou amamentação",
+  "Se é difícil ficar muito tempo deitado de costas com os braços atrás da cabeça",
+  "Se você não consegue andar na esteira ou pedalar a bicicleta"
+ ],
+ "prepare": [
+  {
+   "title": "Cafeína",
+   "text": "Normalmente, nas 24 horas antes, não pode café, chá, refrigerante de cola, energético e chocolate. O prazo exato, a clínica diz."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come 3 a 4 horas antes do exame. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. O médico pode pedir para pular alguns remédios do coração, só com orientação dele."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa e calçado confortáveis para caminhar, sem metal."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Lista de remédios",
+  "ECGs e laudos do coração anteriores",
+  "Um lanche para o intervalo entre as imagens"
+ ],
+ "steps": [
+  "Colocam um cateter fino na veia e colam eletrodos de ECG",
+  "Aplicam uma pequena dose da substância e esperam ela se acumular",
+  "Você fica deitado embaixo da câmera com os braços atrás da cabeça, e ela gira devagar em volta do peito",
+  "Na segunda parte há o esforço: esteira, bicicleta ou um remédio que imita o esforço",
+  "No pico do esforço, aplicam a substância de novo",
+  "Depois de um intervalo, fazem outra série de imagens"
+ ],
+ "feel": [
+  "Uma picada ao colocar o cateter",
+  "No esforço, falta de ar e coração acelerado. Isso é esperado",
+  "Com o remédio de esforço pode dar calor, dor de cabeça ou peso no peito. Normalmente passa em minutos",
+  "Embaixo da câmera é preciso ficar parado. Isso pode cansar"
+ ],
+ "after": [
+  "Beba mais água até o fim do dia. A substância sai mais rápido",
+  "Normalmente pode voltar logo à comida e à rotina de sempre",
+  "À noite, evite contato próximo e prolongado com grávidas e crianças pequenas. Confirme com o médico",
+  "O laudo sai normalmente em 1 a 3 dias e é discutido com o cardiologista"
+ ],
+ "red_flags": [
+  "Dor forte e apertada no peito que não passa: ligue para a emergência",
+  "Falta de ar forte, desmaio ou coração muito acelerado depois do exame"
+ ],
+ "faq": [
+  {
+   "q": "É uma radiação perigosa?",
+   "a": "A dose é pequena e considerada segura para o exame. Se estiver grávida ou amamentando, avise antes, sem falta."
+  },
+  {
+   "q": "Por que não pode café antes do exame?",
+   "a": "A cafeína impede o remédio de esforço de funcionar. Aí o resultado pode sair impreciso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cintilografia do coração. A partir de hoje, sem café, chá, refrigerante de cola e chocolate. Remédios como o médico disse."
+  }
+ ]
+}

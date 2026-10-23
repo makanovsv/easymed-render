@@ -1,0 +1,77 @@
+{
+ "title": "Photodynamic therapy for the skin",
+ "also": [
+  "photodynamic therapy",
+  "skin PDT",
+  "light treatment",
+  "PDT",
+  "photodynamic treatment"
+ ],
+ "what": "A special cream is applied to your skin that makes the changed cells sensitive to light. Then the area is lit with a lamp, and the changed cells are destroyed.",
+ "why": "For some precancerous skin changes, surface skin tumors, and sometimes acne - as decided by the doctor.",
+ "duration": "the cream works for usually 1 to 3 hours, the lighting takes 10 to 20 minutes; healing takes 1 to 2 weeks",
+ "tell_doctor": [
+  "All your medicines, especially ones that make you sensitive to the sun",
+  "If you have had sun reactions or cold sores (herpes) on your face",
+  "Allergies",
+  "Pregnancy"
+ ],
+ "prepare": [
+  {
+   "title": "Skin",
+   "text": "Do not sunbathe for a few days before the procedure. Do not use scrubs or irritating products."
+  },
+  {
+   "title": "Trip home",
+   "text": "After the procedure your skin must be hidden from light - bring a hat, scarf and dark glasses."
+  },
+  {
+   "title": "Time",
+   "text": "With the waiting, the procedure takes several hours - ask the clinic."
+  }
+ ],
+ "bring": [
+  "A hat, scarf and dark glasses",
+  "Sunscreen",
+  "A list of your medicines",
+  "Something to read while you wait"
+ ],
+ "steps": [
+  "Your skin is cleaned and sometimes crusts are lightly removed",
+  "The special cream is applied",
+  "You wait with a dressing on while the cream soaks in",
+  "The cream is washed off and your eyes are covered with protective goggles",
+  "The area is lit with a lamp for several minutes",
+  "The skin is cooled and a soothing product is applied"
+ ],
+ "feel": [
+  "During lighting - burning and tingling, which can be strong",
+  "The doctor can pause and cool your skin with air"
+ ],
+ "after": [
+  "For usually 1 to 2 days keep your skin protected from light, even from a bright lamp",
+  "Redness, swelling and crusts usually go away in 1 to 2 weeks",
+  "Do not pick off the crusts",
+  "After that use sunscreen every day"
+ ],
+ "red_flags": [
+  "Blisters, pus, severe pain or fever - see a doctor",
+  "Severe swelling around the eyes - see a doctor"
+ ],
+ "faq": [
+  {
+   "q": "Does it hurt?",
+   "a": "It burns during the lighting. Cooling and pauses usually help. Tell your doctor if it is hard to bear."
+  },
+  {
+   "q": "How many sessions do I need?",
+   "a": "Often one or two. The doctor will tell you the exact number."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Photodynamic therapy tomorrow. Take a hat, scarf and dark glasses for the trip home."
+  }
+ ]
+}

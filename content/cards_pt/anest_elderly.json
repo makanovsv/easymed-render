@@ -1,0 +1,82 @@
+{
+ "title": "Anestesia em idosos",
+ "also": [
+  "anestesia em idosos",
+  "anestesia depois dos 70",
+  "anestesia é perigosa para idoso",
+  "anestesia geral idoso"
+ ],
+ "what": "Em idosos, a anestesia é feita como em todos, mas os remédios e as doses são escolhidos com mais cuidado. Muitas vezes dá para anestesiar só a parte do corpo necessária.",
+ "why": "Antes de qualquer cirurgia, planejada ou de urgência, numa pessoa idosa.",
+ "duration": "depende da cirurgia; depois da anestesia, normalmente há algumas horas de observação",
+ "tell_doctor": [
+  "A lista completa de remédios, incluindo colírios e ervas",
+  "Doenças do coração, do pulmão, dos rins ou diabetes",
+  "Problemas de memória e se já houve confusão depois de cirurgias anteriores",
+  "Audição, visão e dentadura",
+  "Se houve quedas recentemente"
+ ],
+ "prepare": [
+  {
+   "title": "Anestesista",
+   "text": "Vá antes à conversa com o anestesista. É bom um familiar ir junto."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. O médico vai dizer o que tomar e o que pular antes da cirurgia."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  },
+  {
+   "title": "Objetos do dia a dia",
+   "text": "Leve óculos, aparelho auditivo e dentadura. Eles ajudam a voltar a si mais rápido."
+  }
+ ],
+ "bring": [
+  "Documentos e relatórios médicos",
+  "Lista de remédios",
+  "Óculos e aparelho auditivo",
+  "Telefone de uma pessoa próxima"
+ ],
+ "steps": [
+  "O anestesista pergunta sobre a saúde e os remédios",
+  "Juntos, vocês escolhem o método: anestesia geral ou só de uma parte do corpo",
+  "Na sala de cirurgia, colocam sensores de pressão e do coração",
+  "O anestesista aplica os remédios e acompanha você a cirurgia toda",
+  "Depois da cirurgia, você fica em observação na sala de recuperação"
+ ],
+ "feel": [
+  "Depois da anestesia: sonolência e fraqueza",
+  "Às vezes, nos primeiros dias, os pensamentos ficam confusos e a memória pior. Normalmente passa",
+  "Pode haver enjoo ou frio"
+ ],
+ "after": [
+  "É bom ter perto pessoas próximas, relógio e óculos. Isso ajuda a se orientar",
+  "Levante pela primeira vez só com ajuda da equipe",
+  "Beba líquidos suficientes, se o médico liberou"
+ ],
+ "red_flags": [
+  "Confusão forte, a pessoa não reconhece os familiares: avise o médico",
+  "Dor no peito ou falta de ar: ligue para a emergência",
+  "Fraqueza no braço ou na perna, rosto torto: ligue para a emergência",
+  "Não consegue urinar"
+ ],
+ "faq": [
+  {
+   "q": "A anestesia vai piorar a memória?",
+   "a": "Às vezes, depois da cirurgia, há uma confusão passageira. Na maioria das pessoas, ela passa em alguns dias."
+  },
+  {
+   "q": "Existe idade limite para anestesia?",
+   "a": "A idade por si só não proíbe. O mais importante é o estado de saúde; o anestesista avalia os riscos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Leve óculos, aparelho auditivo e a lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

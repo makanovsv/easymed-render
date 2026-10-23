@@ -1,0 +1,74 @@
+{
+ "title": "How to take antibiotics correctly",
+ "also": [
+  "how to take antibiotics",
+  "antibiotic course",
+  "antibiotic rules",
+  "taking antibiotics"
+ ],
+ "what": "Antibiotics kill bacteria. They do not work on viruses, such as colds and flu.",
+ "why": "When a doctor found a bacterial infection and prescribed an antibiotic.",
+ "duration": "a course usually lasts a few days; your doctor will say exactly",
+ "tell_doctor": [
+  "An allergy to antibiotics, if you have had one",
+  "All your other medicines, since antibiotics can interact with them",
+  "If you are pregnant or breastfeeding",
+  "Liver and kidney disease"
+ ],
+ "prepare": [
+  {
+   "title": "Prescription",
+   "text": "Take only the antibiotic your doctor prescribed for this illness."
+  },
+  {
+   "title": "Schedule",
+   "text": "Find out how many times a day and for how many days. Set reminders."
+  },
+  {
+   "title": "Food",
+   "text": "Some are taken before meals, some after. Read the leaflet or ask your doctor."
+  }
+ ],
+ "bring": [
+  "Your prescription or the doctor's instructions",
+  "A list of your other medicines"
+ ],
+ "steps": [
+  "Take the antibiotic at the same times each day",
+  "Drink it with plain water",
+  "Take it for as many days as your doctor said",
+  "Do not stop the course on your own, even if you feel better",
+  "If you miss a dose, do not take a double one: ask your doctor or read the leaflet",
+  "Do not keep leftovers for later or give them to anyone"
+ ],
+ "feel": [
+  "You usually feel better in 2 to 3 days",
+  "Sometimes you get an upset stomach or nausea"
+ ],
+ "after": [
+  "Avoid alcohol during the course",
+  "If you are no better after 2 to 3 days, tell your doctor",
+  "Ask your doctor whether you need probiotics"
+ ],
+ "red_flags": [
+  "Swelling of the face or throat, trouble breathing: call emergency services",
+  "A rash all over or blisters: see a doctor urgently",
+  "Frequent watery stools with blood: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Do I need an antibiotic for a cold?",
+   "a": "Usually not. A cold is a virus. Your doctor decides."
+  },
+  {
+   "q": "Can I stop the course if I feel better?",
+   "a": "No, not on your own. The infection can come back. Ask your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Time for your antibiotic. Plain water, on schedule."
+  }
+ ]
+}

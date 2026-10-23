@@ -1,0 +1,73 @@
+{
+ "title": "COVID-19 ga qarshi emlash",
+ "also": [
+  "koronavirus vaksinasi",
+  "kovidga qarshi emlash",
+  "COVID qayta emlash"
+ ],
+ "what": "Yelkaga qilinadigan vaksina ukoli, koronavirusdan og‘ir kasal bo‘lish xavfini kamaytiradi.",
+ "why": "Hozir uni ko‘proq keksalar, surunkali kasalligi bor odamlar, homilador ayollar va tibbiyot xodimlariga maslahat berishadi. Sizga kerak yoki kerak emasligini shifokordan aniqlang.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa",
+ "tell_doctor": [
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Oldingi emlashlarga kuchli reaksiyalar",
+  "Oxirgi emlash qachon bo‘lgan yoki qachon kasal bo‘lgansiz",
+  "Homilador bo‘lsangiz",
+  "Immunitet kasalliklari yoki uni pasaytiradigan davolanish"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash siz sog‘ bo‘lganda qilinadi."
+  },
+  {
+   "title": "Muddat",
+   "text": "Emlashlar orasida yoki kasallikdan keyin tanaffus kerak. Qachon mumkinligini shifokor aytadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yelkani oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor yoki hamshira o‘zingizni qanday his qilayotganingizni so‘raydi va haroratni o‘lchaydi",
+  "Yelkangizni ochasiz",
+  "Teri artiladi va ukol qilinadi",
+  "Emlash hujjatlarga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tirish kerak"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan 1–2 kun qo‘l og‘riydi",
+  "Ba’zan holsizlik, bosh og‘rig‘i, harorat — odatda 1–2 kunda o‘tadi"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Holsizlik paydo bo‘lsa, dam oling",
+  "Keyingi doza kerak yoki kerak emasligini shifokor aytadi"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)",
+  "Emlashdan keyingi dastlabki kunlarda ko‘krakda og‘riq, kuchli yurak urishi yoki nafas qisilishi — darrov shifokorga murojaat qiling"
+ ],
+ "faq": [
+  {
+   "q": "Emlashdan kasal bo‘lish mumkinmi?",
+   "a": "Yo‘q. Vaksinada kasallik chaqirishi mumkin bo‘lgan virus yo‘q."
+  },
+  {
+   "q": "Ilgari kasal bo‘lgan bo‘lsam ham emlanish kerakmi?",
+   "a": "Ba’zan ha, ayniqsa xavf guruhlarida. Qachonligini shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga COVID-19 ga qarshi emlash. Hujjat va emlash sertifikatini oling."
+  }
+ ]
+}

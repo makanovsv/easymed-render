@@ -1,0 +1,81 @@
+{
+ "title": "Uyda peritoneal dializ",
+ "also": [
+  "peritoneal dializ",
+  "PD",
+  "uyda dializ",
+  "qorin orqali uy dializi"
+ ],
+ "what": "Qorindagi naycha orqali maxsus eritma quyiladi. U qondan ortiqchasini tortib oladi, keyin uni to‘kishadi. Buni uyda o‘zingiz qilasiz.",
+ "why": "Og‘ir buyrak yetishmovchiligida, bo‘limga qatnashdan ko‘ra uyda davolanish qulay bo‘lganda.",
+ "duration": "eritmaning bitta almashtirilishi odatda 30–40 daqiqa, kuniga bir necha marta; yoki kechasi apparat bilan uyquda",
+ "tell_doctor": [
+  "Eritma loyqa bo‘lib qolsa",
+  "Qorin og‘rig‘i yoki harorat",
+  "Vazn o‘zgarsa, shish, nafas qisilishi",
+  "Naycha atrofida qizarish"
+ ],
+ "prepare": [
+  {
+   "title": "O‘rgatish",
+   "text": "Boshlashdan oldin sizni va yaqinlaringizni klinikada o‘rgatishadi. O‘rgatilganidek qiling."
+  },
+  {
+   "title": "Tozalik",
+   "text": "Alohida toza joy, yopiq derazalar, almashtirish paytida yonida hayvonlar bo‘lmasin."
+  },
+  {
+   "title": "Qo‘llar",
+   "text": "Har bir almashtirishdan oldin — qo‘llarni yaxshilab yuving va niqob kiying."
+  },
+  {
+   "title": "Zaxira",
+   "text": "Eritmalarni klinika aytganidek saqlang, yaroqlilik muddatini kuzating."
+  }
+ ],
+ "bring": [
+  "Vazn, bosim va to‘kilgan hajm yozuvlari — qabulga",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Qo‘llarni yuvasiz, niqob kiyasiz va joyni tayyorlaysiz",
+  "Isitilgan eritma xaltasini naychaga ulaysiz",
+  "Avval qorindan eski eritmani to‘kasiz",
+  "Keyin yangisini quyasiz",
+  "Tizimni uzasiz va naychani qalpoq bilan yopasiz",
+  "To‘kilgan hajm va ko‘rinishini yozib qo‘yasiz"
+ ],
+ "feel": [
+  "Eritma ichkarida bo‘lganda qorinda kerilish",
+  "Sovuq eritma noxush — uni isitish kerak",
+  "Odatda og‘rimaydi"
+ ],
+ "after": [
+  "Har kuni naycha atrofidagi terini ko‘zdan kechiring va ishlov bering",
+  "Vazn, bosim va shishlarni kuzating",
+  "Shifokor buyurgan parhezga rioya qiling",
+  "Klinikaga muntazam nazoratga keling"
+ ],
+ "red_flags": [
+  "To‘kishda eritma loyqa bo‘lsa — darhol klinikaga qo‘ng‘iroq qiling",
+  "Qorin og‘rig‘i, harorat, titroq",
+  "Naycha atrofida yiring, qizarish",
+  "Kuchli nafas qisilishi yoki ko‘krak og‘rig‘i — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "PD bilan ishlasa bo‘ladimi?",
+   "a": "Ko‘pchilik ishlaydi. Almashtirishlarni jadvalga moslashtirish yoki kechasi apparat bilan qilish mumkin."
+  },
+  {
+   "q": "Nega loyqa eritma shunchalik muhim?",
+   "a": "Bu qorindagi yallig‘lanishning tez-tez uchraydigan belgisi. Darhol klinikaga qo‘ng‘iroq qilish kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertangi eritma zaxirasini tekshiring va bugungi vazn hamda to‘kilgan hajmni yozib qo‘ying."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Molecular allergy testing",
+ "also": [
+  "component allergy testing",
+  "molecular allergy test",
+  "allergy chip test",
+  "allergy blood test",
+  "allergy panel"
+ ],
+ "what": "This blood test shows which exact allergen proteins your body reacts to. Many allergens are checked at once.",
+ "why": "When standard tests do not give a clear answer, for allergies to many foods or pollens, before allergy shots, and after severe reactions.",
+ "duration": "the blood draw takes a few minutes; results usually come in a few days, up to 2 weeks",
+ "tell_doctor": [
+  "What you react to and how. Write it down ahead of time",
+  "If you had severe reactions, swelling, or fainting",
+  "If you are getting allergen treatment or allergy shots",
+  "What medicines you take"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "It is usually best to come in the morning, 3 to 4 hours after a light meal or on an empty stomach. Check with the lab."
+  },
+  {
+   "title": "Allergy pills",
+   "text": "They usually do not affect a blood test. Do not stop them on your own. Ask your doctor."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve you can easily roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID",
+  "Past allergy test results",
+  "A list of your reactions: to what, when, and how bad"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down",
+  "Tell your child there will be just one prick, with no skin tests"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "An allergist will explain the result. On its own, it is not a diagnosis",
+  "Do not cut foods from your diet without your doctor's advice"
+ ],
+ "red_flags": [
+  "The puncture site is very swollen, painful, and red"
+ ],
+ "faq": [
+  {
+   "q": "Can I do the test during a flare-up?",
+   "a": "Yes. You can do this blood test while taking allergy pills and during a flare-up."
+  },
+  {
+   "q": "How is this better than a standard test?",
+   "a": "It shows exactly which protein you react to. This helps judge the risk of severe reactions and choose treatment."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Allergy blood test tomorrow. Write down what you react to. Take your allergy pills as usual."
+  }
+ ]
+}

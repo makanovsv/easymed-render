@@ -1,0 +1,71 @@
+{
+ "title": "Estomatitis en niños",
+ "also": [
+  "estomatitis",
+  "llagas en la boca del niño",
+  "aftas",
+  "úlceras en la boca"
+ ],
+ "what": "Son llagas dolorosas o manchas blancas en la boca del niño. El médico revisa a qué se deben y elige el tratamiento.",
+ "why": "Cuando el niño se queja de dolor en la boca, come mal y se ven llagas en la lengua, las mejillas o las encías.",
+ "duration": "la consulta suele durar de 15 a 30 minutos; las llagas normalmente sanan en 1 a 2 semanas",
+ "tell_doctor": [
+  "Cuándo aparecieron las llagas y cuántas hay",
+  "Si hubo fiebre",
+  "Cuánto toma y come el niño",
+  "Si alguien en casa está enfermo",
+  "Alergias y medicamentos del niño"
+ ],
+ "prepare": [
+  {
+   "title": "Líquidos",
+   "text": "Antes de la consulta, dale al niño de beber más seguido, en traguitos."
+  },
+  {
+   "title": "Comida",
+   "text": "Ofrece comida blanda y fresca, sin ácidos ni sal."
+  }
+ ],
+ "bring": [
+  "El documento del niño",
+  "La lista de medicamentos que ya le dieron"
+ ],
+ "steps": [
+  "El médico pregunta cómo empezaron los síntomas",
+  "Revisa la boca, la lengua, las encías y la garganta",
+  "A veces revisa la piel y mide la temperatura",
+  "Te explica con qué limpiar la boca y qué dar para el dolor",
+  "Te dice cuándo volver"
+ ],
+ "feel": [
+  "La revisión normalmente no duele, pero al niño puede incomodarle abrir la boca",
+  "Al niño le duele comer y beber, sobre todo lo ácido y lo caliente"
+ ],
+ "after": [
+  "Dale de beber seguido, aunque sea poquito",
+  "Comida blanda y fresca, sin ácidos, picante ni caliente",
+  "Platos y toalla aparte para el niño",
+  "Limpia la boca como indicó el médico"
+ ],
+ "red_flags": [
+  "El niño casi no toma, orina poco, está decaído",
+  "La fiebre de más de 38 dura varios días",
+  "Las llagas no sanan en más de 2 semanas o son cada vez más"
+ ],
+ "faq": [
+  {
+   "q": "¿Es contagioso?",
+   "a": "A veces sí, depende de la causa. El médico dirá si hay que cuidar a otros niños."
+  },
+  {
+   "q": "¿Puede ir a la guardería?",
+   "a": "Normalmente no, mientras esté enfermo y con fiebre. Confírmalo con el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la consulta por la estomatitis del niño. Dale de beber más seguido y lleva la lista de medicamentos."
+  }
+ ]
+}

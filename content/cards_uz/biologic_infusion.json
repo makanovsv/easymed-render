@@ -1,0 +1,79 @@
+{
+ "title": "Biologik terapiya infuziyasi",
+ "also": [
+  "biologik terapiya",
+  "GIBP",
+  "gen-injener preparat",
+  "biologik preparatli tomchilatib yuborish"
+ ],
+ "what": "Immunitetning bir qismiga aniq ta’sir qiladigan maxsus dori tomir ichiga tomchilatib yuboriladi. Protsedura bir xil oraliqlarda takrorlanadi.",
+ "why": "Revmatoid artrit, Kron kasalligi, yarali kolit, psoriaz va immunitetning boshqa kasalliklarida.",
+ "duration": "tomchilatish kuzatuv bilan birga odatda 1–3 soat; haftalar o‘tib takrorlanadi — sxema bo‘yicha",
+ "tell_doctor": [
+  "Hozir harorat, yo‘tal, har qanday infeksiya",
+  "Sil yoki u bilan aloqa, gepatitlar",
+  "Homiladorlik yoki uni rejalashtirish",
+  "Rejalashtirilgan emlashlar yoki operatsiyalar",
+  "Oldingi tomchilatishlarga reaksiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "Tekshiruv",
+   "text": "Boshlashdan oldin odatda sil, gepatitlar va qon tahlillari tekshiriladi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Odatiy dorilaringizni o‘zingiz bekor qilmang."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Suv, yengil tamaddi va bir necha soatlik mashg‘ulot oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Suv, yengil tamaddi, quloqchin"
+ ],
+ "steps": [
+  "Hamshira bosim, puls va haroratni o‘lchaydi",
+  "Venaga kateter qo‘yiladi",
+  "Ba’zan oldindan allergiyaga qarshi dorilar beriladi",
+  "Tomchilatgich ulanadi, tezlik asta-sekin oshiriladi",
+  "Hamshira ahvolingizni kuzatadi",
+  "Tomchilatishdan keyin biroz kuzatuv ostida qolasiz"
+ ],
+ "feel": [
+  "Tomchilatgichning o‘zi odatda og‘riqsiz",
+  "Ba’zan tomchilatish kuni bosh og‘rig‘i yoki charchoq",
+  "Tomchilatish paytida issiq, qichishish, toshma — darrov hamshiraga ayting"
+ ],
+ "after": [
+  "Odatda darrov odatiy ishlarga qaytsangiz bo‘ladi",
+  "Qo‘llarni yuving, kasallar bilan aloqadan saqlaning",
+  "Tirik emlashlar — faqat shifokor bilan kelishgandan keyin",
+  "Keyingi tomchilatishga o‘z vaqtida keling"
+ ],
+ "red_flags": [
+  "Nafas qisilishi, yuz shishishi, toshma — tez yordamni chaqiring (103)",
+  "Harorat 38 va undan yuqori, yo‘tal — shifokorga qo‘ng‘iroq qiling",
+  "Har qanday infeksiya — keyingi tomchilatishdan oldin shifokorga xabar bering"
+ ],
+ "faq": [
+  {
+   "q": "Nega silni tekshirishadi?",
+   "a": "Preparat himoyaning bir qismini pasaytiradi. Yashirin infeksiya uyg‘onib ketishi mumkin, shuning uchun uni oldindan qidirishadi."
+  },
+  {
+   "q": "Tomchilatishni o‘tkazib yuborsa bo‘ladimi?",
+   "a": "O‘tkazib yubormagan yaxshi. Kasal bo‘lib qolsangiz yoki biror narsa xalaqit bersa — shifokorga qo‘ng‘iroq qiling, u hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga biologik terapiya tomchilatish. Harorat yoki infeksiya bo‘lsa — kelishdan oldin klinikaga qo‘ng‘iroq qiling."
+  }
+ ]
+}

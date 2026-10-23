@@ -1,0 +1,75 @@
+{
+ "title": "Rozatsea davosi",
+ "also": [
+  "rozatsea",
+  "pushti husnbuzar",
+  "yuzning qizarishi",
+  "yuzdagi qon tomirlar",
+  "kuperoz"
+ ],
+ "what": "Rozatsea — yuz terisining surunkali qizarishi, ba’zan husnbuzar va qon tomir to‘rlari bilan. Uni butunlay davolab bo‘lmaydi, lekin yaxshi nazoratda ushlab turish mumkin.",
+ "why": "Yuz tez-tez qizarganda, achishganda, yonoq va burunda husnbuzar paydo bo‘lganda.",
+ "duration": "qabul odatda 20–30 daqiqa; davo haftalar va oylar",
+ "tell_doctor": [
+  "Qizarishni nima kuchaytiradi: quyosh, issiq, achchiq ovqat, alkogol, stress",
+  "Qanday krem va dorilarni allaqachon ishlatgansiz",
+  "Quruqlik, achishish, ko‘zlar qizarishi bormi",
+  "Barcha dorilar, ayniqsa gormonal kremlar"
+ ],
+ "prepare": [
+  {
+   "title": "Teri",
+   "text": "Qabulga upa-eliksiz keling."
+  },
+  {
+   "title": "Vositalar",
+   "text": "Foydalanadigan kremlaringiz va kosmetikangizni oling."
+  },
+  {
+   "title": "Surat",
+   "text": "Yuzni kuchaygan paytda suratga oling."
+  }
+ ],
+ "bring": [
+  "Kuchaygan paytdagi yuz surati",
+  "Foydalanadigan kremlar va kosmetika",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor so‘raydi va yuz terisini ko‘radi",
+  "Ba’zan terini kattalashtirib ko‘radi",
+  "Rozatseani nima kuchaytirishini tushuntiradi",
+  "Krem, gel yoki tabletka buyuradi",
+  "Qon tomirlar bo‘lsa, lazer yoki nur taklif qilishi mumkin",
+  "Yumshoq parvarish va quyoshdan himoyani tanlaydi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "Davo asta-sekin ta’sir qiladi, odatda bir necha haftada"
+ ],
+ "after": [
+  "Har kuni quyoshdan himoya kremi surting",
+  "Yumshoq vosita bilan yuving, skrabsiz",
+  "Qizarishga nima sabab bo‘lishini yozib boring va undan saqlaning",
+  "Darhol natija ko‘rinmasa ham davoni tashlamang"
+ ],
+ "red_flags": [
+  "Ko‘zda kuchli og‘riq, yorug‘likdan qo‘rqish, ko‘rishning yomonlashishi: shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Rozatsea yomon parvarishdan bo‘ladimi?",
+   "a": "Yo‘q. Bu terining xususiyati. Parvarish yordam beradi, lekin sabab unda emas."
+  },
+  {
+   "q": "Kosmetikadan foydalansa bo‘ladimi?",
+   "a": "Ha, yumshoq va tirnash keltirmaydigan tarkibli. Nimaga qarashni shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga dermatolog qabuli. Upa-eliksiz keling va o‘z kremlaringizni oling."
+  }
+ ]
+}

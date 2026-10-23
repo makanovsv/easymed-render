@@ -1,0 +1,69 @@
+{
+ "title": "Qon oqsillari elektroforezi",
+ "also": [
+  "oqsil fraksiyalari",
+  "zardob elektroforezi",
+  "proteinogramma",
+  "paraprotein tahlili"
+ ],
+ "what": "Qon tahlili oqsillarni guruhlarga ajratadi va har birining miqdorini ko‘rsatadi. Shu tarzda yallig‘lanish va g‘ayrioddiy oqsillar topiladi.",
+ "why": "Uzoq davom etgan yallig‘lanishda, umumiy oqsil yoki EChT yuqori bo‘lganda, suyak og‘riqlarida, buyrak va jigar kasalliklarida, qon kasalliklariga shubha bo‘lganda.",
+ "duration": "qon olish odatda 5 daqiqa, natija odatda bir necha kunda",
+ "tell_doctor": [
+  "Barcha dorilar, ayniqsa gormonlar",
+  "Homilador bo‘lsangiz",
+  "Jigar va buyrak kasalliklari",
+  "Bu tahlilni avval topshirgan bo‘lsangiz, natijasini olib keling"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa: 8–12 soat ovqatsiz, suv ichsa bo‘ladi. Laboratoriyadan aniqlab oling."
+  },
+  {
+   "title": "Siydik",
+   "text": "Ba’zan birga siydikda oqsil tahlili ham buyuriladi: siydik yig‘ish kerakmi, so‘rang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima qabul qilayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi tahlillar",
+  "Buyurilgan bo‘lsa, siydik solingan idish"
+ ],
+ "steps": [
+  "Siz o‘tirasiz, tirsakdan yuqorini jgut bilan bog‘lashadi",
+  "Terini antiseptik bilan artishadi",
+  "Qon venadan probirkaga olinadi",
+  "Jgutni yechishadi, paxta bosishadi"
+ ],
+ "feel": [
+  "Chimdiganday qisqa sanchiq",
+  "Ba’zan yengil bosh aylanishi: hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda bir necha kunda",
+  "G‘ayrioddiy oqsil topilsa, shifokor qo‘shimcha tahlillar buyuradi: bu o‘z-o‘zidan tashxis emas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Menga «M-gradient» deb yozishibdi. Bu nima?",
+   "a": "Bir turdagi oqsil ortiqcha topilgan. Sabablari turlicha, ko‘pincha xavfsiz. Shifokor aniqlashtiruvchi tahlillar buyuradi."
+  },
+  {
+   "q": "Nega birga siydik ham topshiriladi?",
+   "a": "Ba’zi g‘ayrioddiy oqsillar siydikda yaxshiroq ko‘rinadi. Siydik tahlili qon tahlilini to‘ldiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga qon oqsillari elektroforezi. Kechki ovqatdan keyin boshqa ovqat yemang, suv ichsa bo‘ladi."
+  }
+ ]
+}

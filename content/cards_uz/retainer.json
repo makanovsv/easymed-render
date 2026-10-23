@@ -1,0 +1,68 @@
+{
+ "title": "Breketdan keyin retayner",
+ "also": [
+  "ushlab turuvchi apparat",
+  "retayner",
+  "tishlar orqasidagi qo‘zg‘almas sim",
+  "breketdan keyin kappa"
+ ],
+ "what": "Retayner breketlardan keyin tishlarni joyida ushlab turadi. U qo‘zg‘almas bo‘ladi: tishlar orqasidagi ingichka sim, yoki olinadigan shaffof kappa.",
+ "why": "Breket yoki elaynerlar olingach, tishlar eski joyiga qaytib ketmasligi uchun.",
+ "duration": "o‘rnatish odatda 20–40 daqiqa, odatda yillar davomida taqiladi: muddatni ortodont aytadi",
+ "tell_doctor": [
+  "Allergiyalar, jumladan metallarga",
+  "Tish g‘ichirlatsangiz",
+  "Avval retayner sinib yoki ko‘chib ketgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tishlar",
+   "text": "Tashrifdan oldin tishlaringizni tozalang."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Breketlar olinayotgan bo‘lsa, retayner ko‘pincha o‘sha kuni qo‘yiladi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Kappa uchun quticha, agar berilgan bo‘lsa"
+ ],
+ "steps": [
+  "Tishlar tozalanib, quritiladi",
+  "Qo‘zg‘almas turi uchun: sim tishlarning ichki tomoniga yopishtiriladi",
+  "Olinadigan turi uchun: qolip olinadi, keyin kappa beriladi",
+  "Shifokor tishlamni tekshiradi",
+  "Parvarish qilish va kappani qanday taqishni ko‘rsatadi"
+ ],
+ "feel": [
+  "Dastlabki kunlarda til bilan sim sezilib turadi",
+  "Kappa avval bosadi: bu tez o‘tib ketadi"
+ ],
+ "after": [
+  "Kappani shifokor aytgancha, odatda tunda taqing",
+  "Sim yonidagi tishlarni yorshik yoki ip bilan tozalang",
+  "Kappani qutichada saqlang",
+  "Nazoratga belgilangan muddatda keling"
+ ],
+ "red_flags": [
+  "Sim ko‘chib ketdi yoki sindi: shifokorga yoziling, kutmang",
+  "Kappa yorildi yoki kiyilmay qoldi"
+ ],
+ "faq": [
+  {
+   "q": "Retayner qancha taqiladi?",
+   "a": "Odatda uzoq, ba’zan yillar. Aniq muddatni ortodont aytadi."
+  },
+  {
+   "q": "Taqmasam nima bo‘ladi?",
+   "a": "Tishlar asta-sekin orqaga siljib ketishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ortodontga tashrif. Tishlaringizni tozalang va kappa qutichasini oling, agar bor bo‘lsa."
+  }
+ ]
+}

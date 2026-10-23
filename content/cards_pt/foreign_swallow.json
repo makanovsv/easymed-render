@@ -1,0 +1,77 @@
+{
+ "title": "Retirada de objeto engolido pela criança",
+ "also": [
+  "criança engoliu objeto",
+  "retirada de corpo estranho",
+  "criança engoliu moeda",
+  "criança engoliu bateria"
+ ],
+ "what": "Se a criança engoliu um objeto, o médico pode tirar pelo endoscópio: um tubo com câmera e uma pinça fina entra pela boca.",
+ "why": "Quando o objeto ficou preso no esôfago ou é perigoso: bateria, ímãs, objetos pontudos ou grandes.",
+ "duration": "o procedimento leva normalmente 15 a 40 minutos com anestesia; muitas vezes a criança fica em observação",
+ "tell_doctor": [
+  "O que exatamente a criança engoliu e quando. Mostre um objeto igual, se tiver",
+  "Bateria ou ímãs: diga na hora, é urgente",
+  "Quando a criança comeu e bebeu pela última vez",
+  "Doenças, alergias e remédios da criança"
+ ],
+ "prepare": [
+  {
+   "title": "Bateria",
+   "text": "Bateria engolida é sempre urgente. Ligue logo para a emergência ou vá ao hospital, mesmo que a criança esteja calma."
+  },
+  {
+   "title": "Comida",
+   "text": "Não dê nada para a criança comer nem beber até o médico examinar."
+  },
+  {
+   "title": "Vômito",
+   "text": "Não provoque vômito e não dê laxante por conta própria."
+  }
+ ],
+ "bring": [
+  "A embalagem ou um objeto igual",
+  "Documentos da criança",
+  "O brinquedo preferido"
+ ],
+ "steps": [
+  "O médico examina a criança. Normalmente fazem um raio-X para achar o objeto",
+  "Colocam um cateter na veia da criança",
+  "Dão anestesia, e a criança dorme",
+  "O médico coloca o endoscópio pela boca e acha o objeto",
+  "Com uma pinça, alça ou cestinha, o objeto é pego e retirado",
+  "O médico olha as paredes para ver se há machucados"
+ ],
+ "feel": [
+  "Com anestesia, a criança não sente nada",
+  "Ao acordar, pode haver sonolência, choro e dor de garganta",
+  "Às vezes arde um pouco ao engolir"
+ ],
+ "after": [
+  "Comer e beber vai ser liberado quando a criança acordar. O médico diz o que pode",
+  "Se houve machucados nas paredes, pode ser preciso dieta e observação",
+  "Guarde objetos pequenos, baterias e ímãs longe do alcance da criança"
+ ],
+ "red_flags": [
+  "Engoliu uma bateria ou vários ímãs: ligue para a emergência na hora",
+  "Baba muito, não consegue engolir, vomita: ligue para a emergência",
+  "Tosse, chiado, dificuldade para respirar: ligue para a emergência",
+  "Dor na barriga, sangue no vômito ou nas fezes, febre"
+ ],
+ "faq": [
+  {
+   "q": "A criança engoliu uma moeda e está calma. Precisa ir ao médico?",
+   "a": "Sim, precisa ser examinada. Pelo raio-X o médico decide se espera ou se tira."
+  },
+  {
+   "q": "Por que a bateria é tão perigosa?",
+   "a": "Ela pode machucar a parede do esôfago em poucas horas. Por isso é preciso ir ao médico na hora."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Daqui a pouco é o procedimento da criança. Não dê comida nem bebida. Leve os documentos e um objeto igual, se tiver."
+  }
+ ]
+}

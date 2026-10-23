@@ -1,0 +1,78 @@
+{
+ "title": "Control de la miopía en niños (lentes de noche, gotas)",
+ "also": [
+  "lentes de contacto nocturnos",
+  "ortoqueratología",
+  "gotas para frenar la miopía",
+  "control de miopía"
+ ],
+ "what": "El médico elige una forma de frenar el aumento de la miopía del niño. Pueden ser lentes de contacto de noche, lentes especiales o gotas.",
+ "why": "Cuando el niño tiene miopía y aumenta año con año.",
+ "duration": "la adaptación suele durar de 1 a 2 horas; el tratamiento, años, con revisiones cada pocos meses",
+ "tell_doctor": [
+  "Qué tan rápido aumentó la miopía y qué lentes ha usado",
+  "Si los papás tienen miopía",
+  "Cuánto tiempo pasa el niño con el celular y con libros",
+  "Si tuvo alergias o enfermedades de los ojos",
+  "Qué gotas o medicamentos ya probaron"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes",
+   "text": "Lleva los lentes del niño y sus recetas anteriores."
+  },
+  {
+   "title": "Estudios",
+   "text": "Normalmente miden el largo del ojo y la forma de la córnea. No duele."
+  },
+  {
+   "title": "Hábitos",
+   "text": "Piensa cuánto tiempo pasa el niño al aire libre. El médico te lo va a preguntar."
+  }
+ ],
+ "bring": [
+  "La identificación del niño",
+  "Los lentes y las recetas anteriores",
+  "Los informes del oftalmólogo"
+ ],
+ "steps": [
+  "El médico revisa la vista y la graduación",
+  "Mide el largo del ojo y la forma de la córnea con aparatos",
+  "Platica contigo las opciones de control",
+  "Si eligen lentes de noche, prueban unos y les enseñan a ponerlos y quitarlos",
+  "Si eligen gotas, les explican cómo usarlas",
+  "Les dan fecha para la revisión"
+ ],
+ "feel": [
+  "Los estudios no duelen",
+  "Los primeros días los lentes de noche se sienten, después normalmente se acostumbra",
+  "Las gotas pueden dilatar un poco la pupila y dar sensibilidad a la luz"
+ ],
+ "after": [
+  "Con lentes de noche: mucha higiene de manos y de la solución",
+  "Más tiempo al aire libre. Eso también ayuda",
+  "Descansos al leer y al usar pantallas",
+  "Revisiones según el plan del médico, normalmente cada 3 a 6 meses"
+ ],
+ "red_flags": [
+  "El ojo está rojo, duele o lagrimea con los lentes: quítaselos y ve al médico de inmediato",
+  "La vista empeora de repente",
+  "Pus o una manchita blanca en el ojo"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede curar la miopía en un niño?",
+   "a": "Normalmente no se puede quitar por completo, pero sí frenar que aumente."
+  },
+  {
+   "q": "¿Desde qué edad se usan los lentes de noche?",
+   "a": "Normalmente desde que el niño puede cuidarlos con cuidado, con ayuda de los papás. Lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la consulta de control de la miopía. Lleva los lentes del niño y sus recetas anteriores."
+  }
+ ]
+}

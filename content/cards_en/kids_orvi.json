@@ -1,0 +1,79 @@
+{
+ "title": "Child with a cold (ARVI): pediatrician visit",
+ "also": [
+  "child has a cold",
+  "pediatrician for a cold",
+  "pediatrician home visit",
+  "fever in a child"
+ ],
+ "what": "The pediatrician examines your sick child and tells you how to treat the cold at home. A cold usually goes away by itself in 5 to 7 days.",
+ "why": "For a runny nose, cough, sore throat or fever in a child.",
+ "duration": "the visit usually takes 15 to 20 minutes",
+ "tell_doctor": [
+  "When the symptoms began and what the temperature was",
+  "What you gave and in what dose",
+  "How your child drinks and how much they urinate",
+  "If there is a rash, ear pain or hard breathing",
+  "Long-term illnesses and allergies"
+ ],
+ "prepare": [
+  {
+   "title": "Notes",
+   "text": "Write down the temperature and the times you gave fever medicine."
+  },
+  {
+   "title": "Visit or home call",
+   "text": "If the fever is high, you can call the doctor to your home. Ask the clinic."
+  },
+  {
+   "title": "Clothing",
+   "text": "Clothes that are easy to take off for the exam."
+  }
+ ],
+ "bring": [
+  "Your child's ID",
+  "The medical record",
+  "Notes of temperature and medicines",
+  "Water and tissues"
+ ],
+ "steps": [
+  "The doctor asks you about the illness",
+  "Looks at the throat and nose",
+  "Looks in the ears",
+  "Listens to the lungs",
+  "Sometimes feels the belly and neck",
+  "Explains how to treat at home and when to call again"
+ ],
+ "feel": [
+  "Looking at the throat can be unpleasant - your child may cry, this is normal",
+  "The rest of the exam is painless - you can hold your child on your lap"
+ ],
+ "after": [
+  "Give plenty to drink",
+  "Bring the fever down if your child feels unwell - the doctor will tell you the dose",
+  "Antibiotics are usually not needed for a cold - give them only if prescribed",
+  "If your child is not better after 3 days, see the doctor again"
+ ],
+ "red_flags": [
+  "Your child breathes hard or fast, or the skin between the ribs sucks in - call your local emergency number",
+  "A rash that does not fade when pressed with a glass - call your local emergency number",
+  "Your child is limp, not drinking or has not urinated for a long time - see a doctor urgently",
+  "A seizure with fever - call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Are antibiotics needed for a cold?",
+   "a": "Usually not, because colds are caused by viruses. Only a doctor prescribes antibiotics."
+  },
+  {
+   "q": "When can my child go back to nursery?",
+   "a": "Usually when there is no fever and your child feels well. The doctor will tell you the time."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pediatrician visit soon. Take the medical record and write down the temperature and medicines you gave."
+  }
+ ]
+}

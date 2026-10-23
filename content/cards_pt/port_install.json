@@ -1,0 +1,85 @@
+{
+ "title": "Colocação de cateter totalmente implantável (port) para quimioterapia",
+ "also": [
+  "port",
+  "cateter totalmente implantável",
+  "cateter de quimioterapia",
+  "cateter implantado no peito",
+  "port de quimioterapia"
+ ],
+ "what": "Colocam embaixo da pele do peito uma pequena câmara ligada a um tubo numa veia grande. Por ela a quimioterapia é aplicada sem picadas constantes no braço.",
+ "why": "Na quimioterapia longa, quando são precisos muitos soros e exames de sangue.",
+ "duration": "a cirurgia leva normalmente 30 a 60 minutos; muitas vezes vai para casa no mesmo dia; o port pode ficar anos",
+ "tell_doctor": [
+  "Remédios que afinam o sangue. O médico diz o que suspender e quando",
+  "Alergias, incluindo a antibióticos e antissépticos",
+  "Marca-passo, cirurgias no peito ou no pescoço",
+  "Trombose no passado",
+  "De que lado é mais confortável para você, por exemplo por causa da alça da bolsa ou do cinto de segurança"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente são precisos exames de sangue de coagulação."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come por 6 horas, se houver sedação. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Depois da sedação, vá para casa com acompanhante."
+  }
+ ],
+ "bring": [
+  "Pedido médico e exames",
+  "Documento de identidade",
+  "Lista de remédios",
+  "Uma camisa larga de botões"
+ ],
+ "steps": [
+  "Colocam um cateter no braço, às vezes dão sedação",
+  "Anestesiam a pele embaixo da clavícula",
+  "Guiado pelo ultrassom, o médico punciona a veia",
+  "O tubo é levado para dentro da veia e ligado à câmara do port",
+  "A câmara é colocada embaixo da pele por um corte pequeno",
+  "O corte é fechado com pontos, e a posição é conferida no raio-X"
+ ],
+ "feel": [
+  "As picadas da anestesia e pressão durante a colocação",
+  "Por alguns dias, dor e inchaço no local do port",
+  "Dá para sentir um carocinho embaixo da pele. É normal"
+ ],
+ "after": [
+  "Mantenha o curativo seco até o médico liberar",
+  "Por alguns dias, não levante peso e não faça movimentos bruscos com o braço",
+  "Muitas vezes o port pode ser usado logo ou em alguns dias. O médico diz",
+  "Entre os ciclos, o port é lavado conforme o calendário da clínica"
+ ],
+ "red_flags": [
+  "Vermelhidão, pus, dor forte no local do port",
+  "Febre, calafrios",
+  "Inchaço do braço, do pescoço ou do rosto desse lado",
+  "Falta de ar de repente ou dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O port vai incomodar?",
+   "a": "Normalmente a pessoa acostuma rápido. Embaixo da roupa quase não aparece."
+  },
+  {
+   "q": "Posso tomar banho e nadar com o port?",
+   "a": "Quando o corte cicatrizou e não há agulha no port, normalmente sim. Confirme com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a colocação do port. Coma só até o horário que a clínica disse. Leve uma camisa de botões."
+  }
+ ]
+}

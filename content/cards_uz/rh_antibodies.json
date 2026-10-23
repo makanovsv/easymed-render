@@ -1,0 +1,74 @@
+{
+ "title": "Homiladorlikda rezusga qarshi antitanalar",
+ "also": [
+  "rezusga antitanalar",
+  "rezus-konflikt",
+  "homiladorlikda antitana tahlili",
+  "antitana titri"
+ ],
+ "what": "Onaning qon tahlili chaqaloqning rezus-musbat qoniga qarshi antitanalar bor-yo‘qligini ko‘rsatadi. Uni rezusi manfiy ayollar topshiradi.",
+ "why": "Onaning qoni rezus-manfiy bo‘lganda: homiladorlik davomida, himoya ukolidan oldin va qon ketishlar yoki jarohatlardan keyin.",
+ "duration": "qon olish odatda 5 daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Sherigingizning rezusi, bilsangiz",
+  "Avval homiladorliklar, bola tashlashlar, abortlar, qon quyishlar bo‘lganmi",
+  "Sizga rezusga qarshi immunoglobulin yuborilganmi va qachon",
+  "Qon ketish, qoringa zarba yoki yiqilish bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Ochlik odatda kerak emas. Boshqa tahlillar bilan birga topshirsangiz, aniqlab oling."
+  },
+  {
+   "title": "Jadval",
+   "text": "Necha marta topshirishni shifokor aytadi. Odatda homiladorlik davomida bir necha marta."
+  },
+  {
+   "title": "Himoya ukoli",
+   "text": "Odatda taxminan 28 haftada va tug‘ruqdan keyin immunoglobulin yuboriladi. Muddatni shifokor hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Almashinuv kartasi",
+  "Antitanalarning oldingi natijalari"
+ ],
+ "steps": [
+  "Siz o‘tirasiz, tirsakdan yuqorini jgut bilan bog‘lashadi",
+  "Terini antiseptik bilan artishadi",
+  "Qon venadan probirkaga olinadi",
+  "Jgutni yechishadi, paxta bosishadi"
+ ],
+ "feel": [
+  "Chimdiganday qisqa sanchiq",
+  "Boshingiz aylansa, hamshiraga ayting: sizni yonboshga yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda 1–3 kunda",
+  "Antitana topilsa, shifokor chaqaloqni UZI da tez-tez ko‘radi",
+  "Antitana bo‘lmasa, shifokor himoya ukoli muddatini aytadi"
+ ],
+ "red_flags": [
+  "Qon ketishi, qoringa zarba yoki yiqilish: darhol shifokorga ayting, himoya ukoli kerak bo‘lishi mumkin",
+  "Qorinda kuchli og‘riq, ko‘p qon ketishi: 103 ga qo‘ng‘iroq qiling",
+  "Chaqaloq sezilarli kamroq qimirlay boshladi: darhol shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Mening rezusim manfiy. Bu bola uchun xavflimi?",
+   "a": "Odatda yo‘q, tahlillarni o‘z vaqtida topshirib, himoya ukolini qilsangiz. Shifokor buni butun homiladorlik davomida kuzatadi."
+  },
+  {
+   "q": "Antitana bo‘lmasa, ukol nega kerak?",
+   "a": "U antitanalar paydo bo‘lishiga yo‘l qo‘ymaydi. Shunday qilib ham shu chaqaloqni, ham keyingi bolalarni himoya qilishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga rezusga qarshi antitanalar tahlili. Almashinuv kartasini oling."
+  }
+ ]
+}

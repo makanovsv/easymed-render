@@ -1,0 +1,71 @@
+{
+ "title": "Andrologist visit",
+ "also": [
+  "andrologist",
+  "men's health doctor",
+  "men's health visit",
+  "male fertility doctor"
+ ],
+ "what": "An andrologist is a doctor for men's health. They deal with erection problems, infertility, and hormones.",
+ "why": "For problems with erections, when a couple cannot conceive for a long time, for pain in the scrotum, or low sex drive.",
+ "duration": "the visit usually takes 20 to 40 minutes; tests take 1 to 7 days",
+ "tell_doctor": [
+  "What exactly bothers you and for how long",
+  "What medicines and supplements you take",
+  "Long-term illnesses: diabetes, blood pressure, heart disease",
+  "Past surgery and injuries in the groin area",
+  "Results of past tests, if you have them"
+ ],
+ "prepare": [
+  {
+   "title": "Questions",
+   "text": "Write down everything you want to ask ahead of time. It is easy to forget during the visit."
+  },
+  {
+   "title": "Hygiene",
+   "text": "Take a regular shower the day before. No special prep is usually needed."
+  },
+  {
+   "title": "Tests",
+   "text": "If the doctor already ordered a semen analysis, you need to avoid ejaculation for a few days first. Ask the clinic how long."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Results of past tests and ultrasounds",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms, health, and lifestyle",
+  "The genitals are examined",
+  "Sometimes the prostate is checked through the rectum",
+  "An ultrasound may be done right away",
+  "The doctor orders tests and explains the plan"
+ ],
+ "feel": [
+  "The exam is short and usually painless",
+  "Feeling awkward is normal. The doctor deals with these questions every day"
+ ],
+ "after": [
+  "Do the tests the doctor ordered",
+  "Come back when the results are ready",
+  "Only the doctor prescribes treatment, based on the results"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Do I really have to talk about these things with a doctor?",
+   "a": "Yes. Most problems can be solved if you talk about them. Everything you say is kept confidential."
+  },
+  {
+   "q": "Should I bring my partner?",
+   "a": "Not necessarily. If the couple is planning a child, the doctor may invite both of you."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Andrologist visit tomorrow. Bring past tests and your list of medicines, and write down your questions."
+  }
+ ]
+}

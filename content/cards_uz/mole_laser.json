@@ -1,0 +1,75 @@
+{
+ "title": "Xolni lazer bilan olib tashlash",
+ "also": [
+  "xolni olib tashlash",
+  "nevusni olib tashlash",
+  "xolni lazer bilan olib tashlash",
+  "papillomalarni lazer bilan olib tashlash"
+ ],
+ "what": "Shifokor xolni yoki teridagi o‘simtani mahalliy og‘riqsizlantirish ostida lazer bilan olib tashlaydi. Bundan oldin uni albatta ko‘rikdan o‘tkazishadi.",
+ "why": "Xol halaqit bersa, kiyimdan jarohatlansa yoki yoqmasa, va shifokor uni lazer bilan olib tashlash mumkinligini tasdiqlagan bo‘lsa.",
+ "duration": "muolaja odatda 10–30 daqiqa; bitish odatda 1–3 hafta",
+ "tell_doctor": [
+  "Xol o‘zgargan bo‘lsa: kattalashgan, rangi o‘zgargan, qon ketgan",
+  "Qonni suyultiruvchi preparatlar",
+  "Keloid chandiqlarga moyillik",
+  "Homiladorlik",
+  "Og‘riqsizlantiruvchilarga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Ko‘rik",
+   "text": "Olishdan oldin dermatolog xolni albatta dermatoskop ostida ko‘radi. Shubhali xollar jarrohlik yo‘li bilan olinib, tahlilga yuboriladi."
+  },
+  {
+   "title": "Quyosh",
+   "text": "Muolajadan 1–2 hafta oldin quyoshda toblanmang."
+  },
+  {
+   "title": "Teri",
+   "text": "Muolaja kuni olinadigan joyga krem va upa-elik surtmang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dermatolog xulosasi, agar ko‘rik oldin bo‘lgan bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor xolni ko‘radi",
+  "Teri antiseptik bilan artiladi",
+  "Og‘riqsizlantiruvchi ukol qilinadi yoki krem suriladi",
+  "Lazer bilan xol qatlama-qatlam olib tashlanadi",
+  "Joy ishlanadi va ba’zan plastir bilan yopiladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol — qisqa achishish",
+  "Lazer paytida — issiqlik va hid, lekin og‘riq emas",
+  "Keyin — yengil achishish va qizarish"
+ ],
+ "after": [
+  "Olib tashlangan joyda po‘st bo‘ladi — uni yirtmang",
+  "Joyni shifokor aytganidek ishlang",
+  "Bir necha kun joyni mochalka bilan ishqalamang va bug‘lamang",
+  "Bir necha oy joyni quyoshdan asrang"
+ ],
+ "red_flags": [
+  "Joy qattiq qizaradi, shishadi, yiringlaydi",
+  "Bosganda ham to‘xtamaydigan qon ketishi"
+ ],
+ "faq": [
+  {
+   "q": "Har qanday xolni lazer bilan olib tashlasa bo‘ladimi?",
+   "a": "Yo‘q. Avval shifokor ko‘radi. Shubhali xollarni skalpel bilan olib, tahlilga yuborishadi."
+  },
+  {
+   "q": "Iz qoladimi?",
+   "a": "Odatda kichik och dog‘ qoladi, u vaqt o‘tishi bilan oqaradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga xolni olib tashlash. Shu joyga krem surtmang va quyoshda toblanmang."
+  }
+ ]
+}

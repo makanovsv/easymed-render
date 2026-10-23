@@ -1,0 +1,75 @@
+{
+ "title": "Homiladorlikda B guruh streptokokkiga surtma",
+ "also": [
+  "B streptokokkka surtma",
+  "GBS",
+  "Streptococcus agalactiae",
+  "tug‘ruqdan oldingi surtma",
+  "B guruh streptokokk ekmasi"
+ ],
+ "what": "Bu qinning va to‘g‘ri ichakning surtmasi. Unda onaga odatda zararsiz, lekin tug‘ruqda chaqaloqqa zarar yetkazishi mumkin bo‘lgan mikrob qidiriladi.",
+ "why": "Odatda barcha homilador ayollarga homiladorlik oxirida, tug‘ruqdan taxminan bir oy oldin.",
+ "duration": "surtmaning o‘zi — taxminan bir daqiqa, natija odatda 2–4 kunda",
+ "tell_doctor": [
+  "Shu homiladorlikda siydikda B streptokokk topilgan bo‘lsa",
+  "Oldingi bolada streptokokk infeksiyasi bo‘lgan bo‘lsa",
+  "Penitsillin yoki boshqa antibiotiklarga allergiya bo‘lsa",
+  "Hozir antibiotik ichayotgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Muddat",
+   "text": "Odatda surtma 36–37-haftada olinadi. Aniq muddatni shifokor belgilaydi."
+  },
+  {
+   "title": "Gigiyena",
+   "text": "Bir kun oldin ichkariga yuvinmang va shifokor buyurmagan bo‘lsa sham qo‘ymang. Shifokordan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Buyurilgan dorilarni o‘zingiz to‘xtatmang. Barcha dorilar haqida shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Homilador ayol almashinuv kartasi",
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Ginekologik kreslaga yotasiz",
+  "Shifokor cho‘p bilan qin kirish qismidan oladi",
+  "Keyin o‘sha yoki boshqa cho‘p bilan to‘g‘ri ichak kirish qismidan, chuqur emas",
+  "Cho‘p probirkaga solinadi",
+  "Ba’zan surtmani shifokor ko‘rsatmasi bo‘yicha o‘zingiz olishingiz mumkin"
+ ],
+ "feel": [
+  "Biroz noqulay, lekin og‘riq yo‘q",
+  "Bir necha soniya davom etadi"
+ ],
+ "after": [
+  "Darrov odatiy ishlaringizga qaytishingiz mumkin",
+  "Mikrob topilsa, tug‘ruqda tomir orqali antibiotik berishadi — bu chaqaloqni himoya qiladi",
+  "Natijani tug‘ruqxonada ayting"
+ ],
+ "red_flags": [
+  "Suv oqsa yoki tutqanoq boshlansa — tug‘ruqxonaga boring yoki tez yordamni chaqiring (103)",
+  "Qon ketsa — tez yordamni chaqiring (103)",
+  "Harorat ko‘tarilsa yoki chaqaloq kamroq qimirlasa — darrov tug‘ruqxonaga"
+ ],
+ "faq": [
+  {
+   "q": "Streptokokk topilsa — bu men uchun xavflimi?",
+   "a": "Odatda yo‘q. Uni ko‘plab sog‘lom ayollar tashiydi. Faqat tug‘ruqda chaqaloqni himoya qilish muhim."
+  },
+  {
+   "q": "Streptokokkni tug‘ruqqacha davolash kerakmi?",
+   "a": "Odatda yo‘q — u qaytib kelishi mumkin. Asosiysi — tug‘ruq paytida antibiotik."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga B guruh streptokokkiga surtma. Almashinuv kartasini oling. Sham va ichkariga yuvinish — faqat shifokor buyurgan bo‘lsa."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "title": "EKG",
+ "also": [
+  "elektrokardiogramma",
+  "kardiogramma"
+ ],
+ "what": "Yurakning elektr faoliyati yozuvi. Teriga datchiklar yopishtiriladi — sizdan tok o‘tmaydi, bu xavfsiz.",
+ "why": "Ko‘krakdagi og‘riqda, yurak uzilishlarida, nafas qisilishida, tibbiy ko‘rikda, operatsiyadan oldin.",
+ "duration": "odatda 5–10 daqiqa",
+ "tell_doctor": [
+  "Qanday yurak dorilarini ichayotganingiz",
+  "Yurak stimulyatori o‘rnatilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Maxsus kerak emas. Ko‘krakka krem yoki moy surtmang — datchiklar yomonroq ushlanadi."
+  },
+  {
+   "title": "Yozuvdan oldin",
+   "text": "Xonaga yugurib kirmang — pulsingiz tinchlanishi uchun 5 daqiqa o‘tirib turing."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay: ko‘krak, bilak va to‘piqlarni ochish kerak. Kolgotka kiymagan ma’qul."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Avvalgi EKGlar — solishtirish uchun"
+ ],
+ "steps": [
+  "Chalqancha yotib, ko‘krak, bilak va to‘piqlarni ochasiz",
+  "Teriga gel surtiladi yoki bir martalik elektrodlar yopishtiriladi",
+  "Taxminan bir daqiqa tinch yotib, gapirmaslik kerak",
+  "Apparat yozuvni chop etadi, elektrodlar olinadi"
+ ],
+ "feel": [
+  "Hech narsa — faqat salqin gel"
+ ],
+ "after": [
+  "Xulosani darhol berishadi yoki shifokorga uzatishadi",
+  "Darhol o‘z ishlaringizga qaytishingiz mumkin"
+ ],
+ "red_flags": [
+  "Hozir ko‘krakda og‘riq bo‘lsa — yozuvni kutmang, tez yordamga 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "EKGda tok uradimi?",
+   "a": "Yo‘q. Apparat faqat yuragingizning kuchsiz signallarini yozadi, tanaga hech narsa bermaydi."
+  }
+ ],
+ "reminders": []
+}

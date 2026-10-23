@@ -1,0 +1,76 @@
+{
+ "title": "Jinsiy gormonlar tahlili",
+ "also": [
+  "FSG, LG gormonlari",
+  "estradiol",
+  "progesteron",
+  "testosteron",
+  "prolaktin",
+  "gormonal profil"
+ ],
+ "what": "Venadan olinadigan oddiy qon tahlili. U sikl, homiladorlik va erkaklar salomatligi uchun javob beradigan gormonlar darajasini ko‘rsatadi.",
+ "why": "Sikl buzilishlarida, homiladorlikni rejalashtirishda, bepushtlikda, potensiya muammolarida, husnbuzarda, ortiqcha soch o‘sishida.",
+ "duration": "qon olishning o‘zi bir necha daqiqa",
+ "tell_doctor": [
+  "Hozir siklning qaysi kuni",
+  "Gormonal tabletka, kontratseptiv yoki boshqa gormonlar qabul qilasizmi",
+  "Homiladorlik yoki emizish",
+  "Doimiy ichadigan barcha dorilar va qo‘shimchalar"
+ ],
+ "prepare": [
+  {
+   "title": "Sikl kuni",
+   "text": "Ayollarga ko‘p gormonlar siklning ma’lum kunlarida topshiriladi. Ko‘pincha 2–5-kun, progesteron esa hayzdan taxminan bir hafta oldin. Aniq kunni shifokor aytadi."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Odatda ertalab, yaxshisi och qoringa: kechki ovqatdan keyin faqat suv mumkin. Erkaklar testosteronni ko‘pincha soat 11 gacha topshiradi."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir kun oldin sport, alkogol va jinsiy yaqinlikdan saqlaning: bu natijani buzishi mumkin."
+  },
+  {
+   "title": "Tahlildan oldin",
+   "text": "Hech bo‘lmaganda bir soat chekmang. 10–15 daqiqa tinch o‘tiring: stress prolaktinga ta’sir qiladi."
+  }
+ ],
+ "bring": [
+  "Gormonlar ro‘yxati yozilgan yo‘llanma",
+  "Oxirgi hayz boshlangan sana",
+  "Solishtirish uchun oldingi tahlillar"
+ ],
+ "steps": [
+  "Siz o‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsakdan yuqorini jgut bilan bog‘lashadi",
+  "Terini spirt bilan artib, venadan probirkalarga qon olishadi",
+  "Sanchilgan joyni paxta bilan bosishadi yoki plastir yopishtirishadi"
+ ],
+ "feel": [
+  "Qisqa sanchiq va jgutdan yengil bosim",
+  "Qonni ko‘rganda boshingiz aylansa, oldindan ayting: sizni yotqizishadi"
+ ],
+ "after": [
+  "Ko‘karish bo‘lmasligi uchun paxtani bir necha daqiqa bosib turing",
+  "Darhol ovqatlanib, ishlaringizga qaytsangiz bo‘ladi",
+  "Natija odatda 1–3 kunda",
+  "Natijani faqat shifokor baholaydi: me’yorlar sikl kuni va yoshga bog‘liq"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Gormonlarni siklning qaysi kuni topshirish kerak?",
+   "a": "Ko‘pincha 2–5-kun, progesteron esa hayzdan taxminan bir hafta oldin. Lekin kunni shifokor sizning maqsadingizga qarab belgilaydi."
+  },
+  {
+   "q": "Hayz paytida gormon topshirsa bo‘ladimi?",
+   "a": "Ha, ko‘p gormonlar aynan siklning dastlabki kunlarida, hayz hali ketayotganda topshiriladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga gormonlar tahlili. Bugun sport, alkogol va jinsiy yaqinliksiz. Ertalab och qoringa, faqat suv."
+  }
+ ]
+}

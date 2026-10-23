@@ -1,0 +1,85 @@
+{
+ "title": "PET-KT",
+ "also": [
+  "PET/KT",
+  "pozitron-emission tomografiya",
+  "glyukozali PET",
+  "butun tana PET-KT si"
+ ],
+ "what": "Venaga ozgina radioaktiv glyukoza yuboriladi. Skaner hujayralar uni qayerda eng faol olishini ko‘rsatadi va buni KT tasviri bilan birlashtiradi.",
+ "why": "Ko‘pincha onkologik kasalliklarda: o‘choqlarni topish, tarqalishini va davolash qanday ishlayotganini baholash.",
+ "duration": "markazda odatda 2–3 soat, skanerlashning o‘zi 15–30 daqiqa",
+ "tell_doctor": [
+  "Qandli diabet va uning dorilari — tayyorgarlik moslashtiriladi",
+  "Homiladorlik yoki emizish",
+  "Kontrastga allergiya va buyrak kasalliklari",
+  "Chalqancha uzoq yotish qiyin bo‘lsa yoki yopiq joydan qo‘rqsangiz",
+  "Oxirgi ximioterapiya yoki nurlanish sanalari"
+ ],
+ "prepare": [
+  {
+   "title": "Ochlik",
+   "text": "Odatda 4–6 soat ovqat yemaslik kerak. Faqat shakarsiz toza suv mumkin. Saqich va konfetsiz."
+  },
+  {
+   "title": "Oldingi kun",
+   "text": "Bir kun oldin og‘ir sport va jismoniy ishni qoldiring. Ko‘pincha shirinlik va un mahsulotlarini kamroq yeyishni maslahat berishadi. Aniqrog‘ini klinika aytadi."
+  },
+  {
+   "title": "Diabet",
+   "text": "Qondagi qand me’yorda bo‘lishi kerak. O‘sha kuni dorilarni qanday ichishni shifokor hal qiladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Iliq va qulay, metallsiz."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjatlar",
+  "Diskdagi oldingi KT, MRT, PET suratlari va xulosalari",
+  "Davolash haqida ko‘chirmalar"
+ ],
+ "steps": [
+  "Qondagi qandingiz o‘lchanadi",
+  "Venaga kateter qo‘yiladi va preparat yuboriladi",
+  "Taxminan bir soat tinch xonada xotirjam o‘tirasiz yoki yotasiz: gaplashmaslik, o‘qimaslik, yurmaslik",
+  "Skanerlashdan oldin hojatxonaga boring",
+  "Stolga yotasiz, u skaner halqasidan sekin o‘tadi",
+  "15–30 daqiqa qimirlamay yotish kerak"
+ ],
+ "feel": [
+  "Preparat yuborilishi sezilmaydi",
+  "Skaner MRT kabi baland shovqin qilmaydi",
+  "Kontrast yuborilsa — tanada iliqlik to‘lqini bo‘lishi mumkin"
+ ],
+ "after": [
+  "Kun oxirigacha ko‘proq suv iching — preparat siydik bilan tezroq chiqib ketadi",
+  "Odatda darhol yesa bo‘ladi",
+  "Bir necha soat homilador ayollar va kichik bolalardan uzoqroq turing — aniq vaqtni klinika aytadi",
+  "Xulosa odatda 1–3 kunda"
+ ],
+ "red_flags": [
+  "Preparat yuborilgandan keyin toshma, yuz shishishi, nafas olish qiyinlashishi — darhol xodimlarga ayting yoki tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "PET-KT dagi radiatsiya xavflimi?",
+   "a": "Doza kichik va organizmdan tez chiqib ketadi. Shifokor foydasi xavfdan yuqori bo‘lganda tekshiruv buyuradi."
+  },
+  {
+   "q": "Nega PET-KT dan oldin yemaslik kerak?",
+   "a": "Preparat — glyukoza. Yegan bo‘lsangiz, qondagi qand yuqori bo‘ladi va suratlar yomonroq chiqadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga PET-KT. Bugun og‘ir sport va jismoniy ishsiz. Shirinlik va un mahsulotlari — kamroq."
+  },
+  {
+   "hoursBefore": 6,
+   "text": "6 soatdan keyin PET-KT. Ovqatni to‘xtatish vaqti. Klinika boshqacha aytmagan bo‘lsa, faqat shakarsiz toza suv mumkin."
+  }
+ ]
+}

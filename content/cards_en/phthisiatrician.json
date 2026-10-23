@@ -1,0 +1,75 @@
+{
+ "title": "TB specialist visit (phthisiatrician)",
+ "also": [
+  "TB specialist",
+  "tuberculosis doctor",
+  "TB clinic",
+  "TB check"
+ ],
+ "what": "The doctor checks whether you have tuberculosis and treats it. Often people are sent just for a check.",
+ "why": "For changes on a chest X-ray, a positive TB skin test, contact with a TB patient, a long cough, or for certificates.",
+ "duration": "the visit usually takes 20 to 30 minutes; tests take from a few days to a couple of weeks",
+ "tell_doctor": [
+  "Whether you had contact with someone who has TB",
+  "Cough, night sweats, weight loss, fever",
+  "Whether you have had TB before",
+  "HIV, diabetes, or taking steroid medicines",
+  "Results of past tests and images"
+ ],
+ "prepare": [
+  {
+   "title": "Images",
+   "text": "Bring your chest X-ray or CT and TB test results, if you have them."
+  },
+  {
+   "title": "Sputum",
+   "text": "If a sputum test is ordered, it is collected in the morning before eating, in a special container. They will explain how."
+  },
+  {
+   "title": "Mask",
+   "text": "If you cough, wear a mask when you come."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your referral",
+  "Chest images",
+  "TB test results"
+ ],
+ "steps": [
+  "The doctor asks about your complaints and contacts",
+  "Listens to your lungs",
+  "Looks at your images and test results",
+  "May order a CT, a sputum test or blood tests",
+  "Explains the result",
+  "If needed, prescribes treatment or follow-up"
+ ],
+ "feel": [
+  "The visit does not hurt",
+  "If a skin test is done, a quick injection in the forearm"
+ ],
+ "after": [
+  "If you do not have TB, you get a written conclusion",
+  "If treatment is prescribed, you take it for a long time without missing doses",
+  "Your close contacts may need to be checked too"
+ ],
+ "red_flags": [
+  "Coughing up blood or severe shortness of breath: call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "If I was sent to a TB specialist, do I have TB?",
+   "a": "No. Most often it is just a check to rule it out."
+  },
+  {
+   "q": "Can TB be cured?",
+   "a": "Yes. The main thing is to take the medicines for the whole course without gaps."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "TB specialist visit tomorrow. Bring your chest images and test results."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Anticorpos contra toxocara e giárdia",
+ "also": [
+  "toxocaríase",
+  "giardíase",
+  "sorologia para giárdia",
+  "exame de verme",
+  "parasitas no sangue"
+ ],
+ "what": "É um exame de sangue que procura anticorpos contra dois parasitas: o toxocara, que passa de cães e gatos, e a giárdia, que vive no intestino.",
+ "why": "Com manchas e coceira na pele, tosse sem motivo, dor de barriga, diarreia, ou eosinófilos altos no exame de sangue.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 1 a 5 dias",
+ "tell_doctor": [
+  "Se em casa há cachorro ou gato",
+  "Se a criança brinca na areia ou coloca a mão na boca",
+  "Se já tratou parasitas",
+  "Quais remédios você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Jejum rigoroso normalmente não é necessário, mas é melhor ir 3 a 4 horas depois de uma refeição leve, sem gordura. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma. Ele decide se é preciso mudar algo antes do exame."
+  },
+  {
+   "title": "Criança",
+   "text": "Se o exame é de uma criança, explique que vai ter uma picada rápida. Leve água e um lanche para depois."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Hemograma e exame de fezes, se já fez"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar",
+  "A criança pode ficar com medo. Fique perto dela"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Para a giárdia, o médico muitas vezes pede também exame de fezes",
+  "Não dê remédio para verme à criança sem receita do médico"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho"
+ ],
+ "faq": [
+  {
+   "q": "Por que para giárdia ainda é preciso exame de fezes?",
+   "a": "Os anticorpos podem ficar depois da doença. O exame de fezes mostra melhor se o parasita está presente agora."
+  },
+  {
+   "q": "Posso tomar remédio para verme \"por garantia\"?",
+   "a": "Não vale a pena. O tratamento é o médico quem indica, pelos resultados dos exames."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de anticorpos contra toxocara e giárdia. De manhã, é melhor evitar comida gordurosa."
+  }
+ ]
+}

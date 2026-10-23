@@ -1,0 +1,80 @@
+{
+ "title": "Inmunoterapia con alérgenos",
+ "also": [
+  "inmunoterapia",
+  "vacunas para la alergia",
+  "inyecciones para la alergia",
+  "tratamiento de la alergia con alérgenos",
+  "desensibilización"
+ ],
+ "what": "Se te dan dosis pequeñas del alérgeno que van aumentando poco a poco. El cuerpo se acostumbra y la alergia se hace más leve.",
+ "why": "En alergia al polen, a los ácaros del polvo o a las picaduras de insectos, cuando se sabe con certeza cuál es el alérgeno.",
+ "duration": "la inyección o la dosis bajo la lengua toma unos minutos, más unos 30 minutos de observación; el tratamiento suele durar de 3 a 5 años",
+ "tell_doctor": [
+  "Si ahora tienes una crisis de asma o de alergia",
+  "Fiebre, resfriado o infección",
+  "Todos tus medicamentos, sobre todo los del corazón y la presión",
+  "Embarazo o planes de embarazo",
+  "Reacciones a dosis anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Temporada",
+   "text": "El tratamiento suele empezar fuera de la temporada de floración. El alergólogo hará el esquema."
+  },
+  {
+   "title": "Día de la inyección",
+   "text": "Ese día, sin sauna, ejercicio fuerte ni alcohol."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No suspendas por tu cuenta tus medicamentos para la alergia y el asma."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los resultados de las pruebas de alergia",
+  "Un documento de identidad",
+  "El diario de reacciones"
+ ],
+ "steps": [
+  "El médico o la enfermera te pregunta cómo te sientes",
+  "A veces miden la respiración si tienes asma",
+  "Te ponen una inyección bajo la piel del hombro o te dan una gota o tableta bajo la lengua",
+  "Te quedas en observación unos 30 minutos",
+  "La enfermera revisa el lugar de la inyección",
+  "Te dicen la fecha de la siguiente dosis"
+ ],
+ "feel": [
+  "Un pinchazo leve",
+  "Enrojecimiento y comezón en el lugar de la inyección: es frecuente",
+  "Con la dosis bajo la lengua, comezón en la boca los primeros días"
+ ],
+ "after": [
+  "No te vayas de la clínica antes de que termine el tiempo de observación",
+  "Ese día, sin esfuerzo, sauna ni alcohol",
+  "Anota las reacciones en el diario",
+  "No te saltes dosis: el efecto depende de la constancia"
+ ],
+ "red_flags": [
+  "Dificultad para respirar, hinchazón de labios o lengua, ronchas por todo el cuerpo: llama a emergencias",
+  "Hinchazón fuerte en el lugar de la inyección, más grande que la palma de la mano",
+  "Mareo o debilidad después de la dosis"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuándo veré resultados?",
+   "a": "Normalmente el alivio se nota al final del primer año. El tratamiento completo dura varios años."
+  },
+  {
+   "q": "¿Se puede dar a un niño?",
+   "a": "Muchas veces sí, normalmente desde los 5 años. Lo decide el alergólogo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te toca la dosis de inmunoterapia. Si tienes fiebre o una crisis, llama a la clínica antes de la cita."
+  }
+ ]
+}

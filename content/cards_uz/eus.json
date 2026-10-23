@@ -1,0 +1,80 @@
+{
+ "title": "Endosonografiya (EUS)",
+ "also": [
+  "EUS",
+  "endoUZI",
+  "endosonografiya",
+  "oshqozon orqali UZI"
+ ],
+ "what": "Shifokor og‘iz orqali uchida kamera va kichik ultratovush datchigi bor egiluvchan nay kiritadi. Shunda oshqozon osti bezi, o‘t yo‘llari va oshqozon devori yaqindan ko‘rinadi.",
+ "why": "Oddiy UZI yoki KT javob bermaganda: oshqozon osti bezi o‘zgarishlarida, yo‘llardagi toshlarda, qizilo‘ngach, oshqozon yoki ichak devoridagi hosilalarda. Ba’zan — ingichka igna bilan to‘qima bo‘lagini olish uchun.",
+ "duration": "muolajaning o‘zi odatda 20–60 daqiqa, keyin 1–2 soat kuzatuv; xulosa odatda o‘sha kuni, biopsiya natijasi — 1–2 haftada",
+ "tell_doctor": [
+  "Qonni suyultiradigan preparatlar — biror narsani o‘zgartirish kerakmi, shifokor hal qiladi",
+  "Qandli diabet va uning dorilari",
+  "Allergiyalar, ayniqsa dorilar va narkozga",
+  "Yurak va o‘pka kasalliklari",
+  "Homilador bo‘lsangiz yoki bo‘lishingiz mumkin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda muolajadan oldin 6–8 soat ovqatlanmaslik va 2–4 soat ichmaslik kerak. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting, ertalab nimani ichishni u hal qiladi."
+  },
+  {
+   "title": "Sedatsiya",
+   "text": "EUSni ko‘pincha uyquda, sedatsiya ostida qilishadi. Sizni kim olib ketishini kelishib oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "EUS tayinlangan UZI, KT yoki MRT natijalari",
+  "Dorilar ro‘yxati",
+  "Hamroh"
+ ],
+ "steps": [
+  "Venaga kateter qo‘yishadi va olinadigan tish protezlarini yechtirishadi",
+  "Chap yonboshga yotasiz, og‘izda — yumshoq og‘izlik",
+  "Uxlatuvchi dori kiritiladi, uxlab qolasiz",
+  "Shifokor nayni og‘iz orqali qizilo‘ngach va oshqozonga kiritadi",
+  "Nay uchidagi datchik yaqin a’zolarni ekranda ko‘rsatadi",
+  "Kerak bo‘lsa, ingichka igna bilan tahlil uchun to‘qima bo‘lagi olinadi",
+  "Palatada uyg‘onasiz, sizni kuzatib turishadi"
+ ],
+ "feel": [
+  "Sedatsiya ostida odatda hech narsani sezmaysiz va eslamaysiz",
+  "Keyin tomoq qirillashi mumkin",
+  "Havodan qorin biroz dam bo‘lishi mumkin"
+ ],
+ "after": [
+  "Ovqatlanish va ichishni odatda 1–2 soatdan keyin, tomoq uvishishi o‘tgach mumkin — shifokordan aniqlab oling",
+  "Sedatsiyadan keyin kun oxirigacha mashina haydash va muhim hujjatlarni imzolash mumkin emas",
+  "Xulosani shifokor odatda o‘sha kuni beradi",
+  "Biopsiya olingan bo‘lsa, natija — odatda 1–2 haftada"
+ ],
+ "red_flags": [
+  "Qorin, ko‘krak yoki bo‘yinda kuchli og‘riq — 103 ga qo‘ng‘iroq qiling",
+  "Qonli qusish yoki qora axlat — 103 ga qo‘ng‘iroq qiling",
+  "Muolajadan keyingi dastlabki kunlarda harorat 38 dan yuqori — shifokorga xabar bering"
+ ],
+ "faq": [
+  {
+   "q": "EUS oddiy gastroskopiyadan nimasi bilan farq qiladi?",
+   "a": "Gastroskopiya yuzani ichkaridan ko‘rsatadi. EUS ultratovush yordamida chuqurroq — a’zo devori va uning yonidagilarni ko‘radi."
+  },
+  {
+   "q": "Bu og‘riydimi?",
+   "a": "Odatda yo‘q: muolajani ko‘pincha uyquda qilishadi. Keyin tomoq biroz qirillashi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga endosonografiya. Qaysi vaqtdan keyin ovqatlanish va ichish mumkin emasligini klinika aytgan. Sizni kim olib ketishini kelishib oling."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Somnolog qabuli",
+ "also": [
+  "somnolog",
+  "uyqu shifokori",
+  "uyqusizlikni davolash",
+  "xurrak va nafas to‘xtashlari"
+ ],
+ "what": "Uyqu shifokori nega yomon uxlayotganingiz, xurrak otayotganingiz yoki kunduzi charchayotganingizni aniqlaydi. Ba’zan uyquni tekshirishni buyuradi.",
+ "why": "Uyqusizlikda, baland xurrakda, uyquda nafas to‘xtashlarida, kunduzi kuchli uyquchanlikda, tunda bezovta oyoqlarda.",
+ "duration": "qabul odatda 30–40 daqiqa; uyquni tekshirish bir tun, natija bir necha kunda",
+ "tell_doctor": [
+  "Soat nechada yotib, nechada turasiz, necha soat uxlaysiz",
+  "Xurrak otasizmi, yaqinlaringiz nafas to‘xtashlarini payqaganmi",
+  "Kunduzi kutilmaganda uxlab qolasizmi, masalan rul ortida",
+  "Qanday dori, uyqu dorilari, alkogol qabul qilasiz",
+  "Bosim, vazn, yurak"
+ ],
+ "prepare": [
+  {
+   "title": "Uyqu kundaligi",
+   "text": "1–2 hafta uxlash vaqti, uyg‘onish va ertalabki ahvolingizni yozib boring."
+  },
+  {
+   "title": "Yaqinlar",
+   "text": "Yoningizda uxlaydiganlardan xurrak haqida gapirib berishni so‘rang. Tovushni telefonga yozib olsa bo‘ladi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Uyqu dorilarini o‘zingiz bekor qilmang: nima qabul qilayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Uyqu kundaligi",
+  "Xurrak yozuvi, agar bo‘lsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor uyqu va kunduzgi ahvol haqida so‘raydi",
+  "Uyquchanlik bo‘yicha anketalarni to‘ldirishni taklif qiladi",
+  "Tomoq va bo‘yinni ko‘radi, bosim va vaznni o‘lchaydi",
+  "Uyquni tekshirish kerakligini hal qiladi",
+  "Kerak bo‘lsa, u uyda yoki klinikada qanday o‘tishini tushuntiradi",
+  "Tavsiyalar beradi yoki davo buyuradi"
+ ],
+ "feel": [
+  "Qabul og‘riqsiz",
+  "Uyquni tekshirish: tanada datchiklar, ular bilan uxlash odatiy emas, lekin og‘riqsiz"
+ ],
+ "after": [
+  "Shifokor maslahat bergan uyqu tartibiga amal qiling",
+  "Kunduzi uyquchanlik bo‘lsa, rul ortida ehtiyot bo‘ling",
+  "Takroriy qabul tekshiruvdan yoki davo kursidan keyin"
+ ],
+ "red_flags": [
+  "Rul ortida uxlab qolasiz: haydamang va shifokorga ayting",
+  "Ko‘krakda og‘riq bilan tungi bo‘g‘ilish xurujlari: 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Xurrak xavflimi?",
+   "a": "Xurrakning o‘zi har doim emas. Uyquda nafas to‘xtasa, xavfli: buni tekshirish kerak."
+  },
+  {
+   "q": "Uyqu dorisini o‘zi ichsa bo‘ladimi?",
+   "a": "Yaxshisi yo‘q. Uyqusizlik sababini va davoni shifokor tanlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga somnolog qabuli. Uyqu kundaligi va xurrak yozuvini oling, agar bo‘lsa."
+  }
+ ]
+}

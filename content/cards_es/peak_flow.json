@@ -1,0 +1,73 @@
+{
+ "title": "Medición del flujo espiratorio en casa",
+ "also": [
+  "flujómetro",
+  "medidor de flujo espiratorio máximo",
+  "peak flow",
+  "diario del asma"
+ ],
+ "what": "El flujómetro es un aparato pequeño en el que se sopla con fuerza. Muestra qué tan libres están ahora tus bronquios.",
+ "why": "Sobre todo en el asma: para vigilar la respiración en casa y notar a tiempo si empeoras.",
+ "duration": "cada medición dura cerca de un minuto, normalmente en la mañana y en la noche",
+ "tell_doctor": [
+  "Tu mejor resultado: el médico calcula tu normal a partir de él",
+  "Con qué frecuencia tienes crisis o te despiertas de noche",
+  "Qué inhaladores usas y cuándo"
+ ],
+ "prepare": [
+  {
+   "title": "Horario",
+   "text": "Normalmente se mide en la mañana y en la noche, a la misma hora. El médico te indicará el esquema."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Normalmente se mide antes del inhalador. Confírmalo con el médico. No cambies el tratamiento por tu cuenta."
+  },
+  {
+   "title": "Diario",
+   "text": "Anota los resultados en un cuaderno o en una aplicación."
+  }
+ ],
+ "bring": [
+  "El flujómetro",
+  "El diario de mediciones",
+  "Tus inhaladores"
+ ],
+ "steps": [
+  "Pon la flecha del aparato en cero",
+  "Párate o siéntate derecho",
+  "Respira hondo",
+  "Rodea bien la boquilla con los labios",
+  "Saca el aire lo más fuerte y rápido que puedas",
+  "Repite 3 veces y anota el mejor resultado"
+ ],
+ "feel": [
+  "No duele",
+  "A veces, por soplar fuerte, da tos o un ligero mareo"
+ ],
+ "after": [
+  "Compara los resultados con tu normal",
+  "Muéstrale el diario al médico en la consulta",
+  "El médico puede darte un plan de qué hacer si los resultados bajan"
+ ],
+ "red_flags": [
+  "El resultado bajó mucho y el inhalador no ayuda: llama a emergencias",
+  "Cuesta hablar o los labios se ponen azules: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué resultado es normal?",
+   "a": "Cada persona tiene el suyo: se calcula a partir de tu mejor resultado. El médico te dirá las zonas."
+  },
+  {
+   "q": "¿Cuántas veces hay que soplar?",
+   "a": "Normalmente 3 veces seguidas, y se anota el mejor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "No olvides medir en la mañana tu flujo espiratorio y anotarlo en el diario."
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "title": "Suyak yoshini aniqlash uchun qo‘l rentgeni",
+ "also": [
+  "suyak yoshi",
+  "bolaga qo‘l rentgeni",
+  "o‘sish zonalari rentgeni"
+ ],
+ "what": "Qo‘lning bitta rentgen surati olinadi. Shunga qarab shifokor bolaning suyaklari qanchalik pishganini aniqlaydi.",
+ "why": "Bola juda sekin yoki tez o‘sganda, erta yoki kech jinsiy yetilishda va gormonlar bilan davolashda.",
+ "duration": "surat bir necha daqiqa oladi, tavsif odatda o‘sha kuni yoki bir necha kunda",
+ "tell_doctor": [
+  "Bolaning so‘nggi yillardagi bo‘yi va vazni",
+  "U qanday gormon yoki dorilar qabul qiladi",
+  "Surunkali kasalliklar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Maxsus tayyorgarlik kerak emas."
+  },
+  {
+   "title": "Qo‘llar",
+   "text": "Odatda chap qo‘l suratga olinadi. Bolaning uzuk va bilaguzuklarini yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi suratlar, agar bo‘lgan bo‘lsa",
+  "Bolaning hujjatlari"
+ ],
+ "steps": [
+  "Bola stol oldiga o‘tiradi",
+  "Qo‘l kaft pastga qarab plastinkaga qo‘yiladi",
+  "Tanasiga himoya fartugi kiygiziladi",
+  "Bir necha soniya qimirlamaslik so‘raladi",
+  "Surat olinadi"
+ ],
+ "feel": [
+  "Og‘riqsiz",
+  "Faqat qimirlamay o‘tirish kerak"
+ ],
+ "after": [
+  "Darrov ketsangiz bo‘ladi",
+  "Tavsif odatda o‘sha kuni yoki bir necha kunda",
+  "Shifokor suyak yoshini haqiqiy yosh bilan solishtirib, keyin nima qilishni hal qiladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nurlanish tufayli xavfli emasmi?",
+   "a": "Doza juda kichik: faqat qo‘l suratga olinadi. Shifokor foyda xavfdan ortiq bo‘lganda buyuradi."
+  },
+  {
+   "q": "Suyak yoshi orqada qolishi nimani anglatadi?",
+   "a": "Bu suyaklar sekinroq pishayotganini anglatadi. Sabablari turlicha — shifokor tushuntiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolaga qo‘l rentgeni. Uning uzuk va bilaguzuklarini yeching, oldingi suratlarni oling."
+  }
+ ]
+}

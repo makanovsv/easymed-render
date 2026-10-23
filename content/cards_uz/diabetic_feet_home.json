@@ -1,0 +1,78 @@
+{
+ "title": "Diabetda oyoqlarni parvarish qilish",
+ "also": [
+  "diabetda oyoq kaftlari parvarishi",
+  "diabetik oyoq",
+  "diabetda oyoqlarni qanday parvarish qilish",
+  "qandli diabetda oyoqlar"
+ ],
+ "what": "Diabetda oyoqlar og‘riqni yomonroq sezadi, yaralar esa uzoqroq bitadi. Kundalik parvarish yara paydo bo‘lishining oldini olishga yordam beradi.",
+ "why": "Diabeti bor hamma uchun, har kuni.",
+ "duration": "odatda kuniga 5–10 daqiqa",
+ "tell_doctor": [
+  "Oyoqlar uvishsa, achishsa yoki muzlasa",
+  "Qadoq, yoriq yoki yara paydo bo‘lsa",
+  "Teri yoki tirnoq rangi o‘zgargan bo‘lsa",
+  "Oyoq kaftlarini o‘zingiz ko‘rish qiyin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Yorug‘lik va ko‘zgu",
+   "text": "Oyoqlarni yaxshi yorug‘likda ko‘ring. Tovonni ko‘zgu orqali ko‘rish qulay."
+  },
+  {
+   "title": "Poyabzal",
+   "text": "Yumshoq, o‘lchamiga mos, ichida qattiq choksiz. Kiyishdan oldin qo‘l bilan toshcha yo‘qligini tekshiring."
+  },
+  {
+   "title": "Yordamchi",
+   "text": "Yomon ko‘rsangiz yoki egilish qiyin bo‘lsa, yaqinlaringizdan oyoqlaringizni ko‘rib turishni so‘rang."
+  }
+ ],
+ "bring": [
+  "Ko‘zgu",
+  "Yumshoq sochiq",
+  "Oyoq uchun krem",
+  "Tirnoq egovi"
+ ],
+ "steps": [
+  "Har kuni oyoq kaftlari, barmoqlar va barmoqlar orasini ko‘rib chiqing",
+  "Oyoqlarni iliq suvda yuving, haroratni qo‘l yoki termometr bilan tekshiring",
+  "Yaxshilab artib quriting, ayniqsa barmoqlar orasini",
+  "Oyoq kaftlariga krem surting, lekin barmoqlar orasiga emas",
+  "Tirnoqlarni to‘g‘ri egovlang, burchaklarini kesmang",
+  "Siqmaydigan rezinkasiz toza paypoq kiying",
+  "Uyda ham yalangoyoq yurmang"
+ ],
+ "feel": [
+  "Sezuvchanlik pasaygan bo‘lsa, yarani sezmay qolish mumkin — shuning uchun ko‘rik muhim",
+  "Teri qurishi va yoriqlar tez-tez bo‘ladi — krem yordam beradi"
+ ],
+ "after": [
+  "Oyoqlarni isitgich bilan isitmang va issiq suvda bug‘lamang — kuyib qolish oson",
+  "Qadoq va ichiga o‘sgan tirnoqlarni o‘zingiz kesmang — shifokorga murojaat qiling",
+  "Oyoqlaringizni qabulda muntazam shifokorga ko‘rsatib turing"
+ ],
+ "red_flags": [
+  "Bir necha kun bitmaydigan yara, chaqa yoki yoriq",
+  "Qizarish, shish, yiring yoki yoqimsiz hid",
+  "Oyoq kafti sovuq, oqargan yoki ko‘karib ketgan",
+  "Harorat va oyoqda kuchli og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Pedikyur qilsa bo‘ladimi?",
+   "a": "Diabet haqida biladigan ustada, o‘tkir asbobsiz qilsa bo‘ladi. Tibbiy pedikyur yaxshiroq."
+  },
+  {
+   "q": "Nega yalangoyoq yurish mumkin emas?",
+   "a": "Jarohat olib, sezmay qolish mumkin. Diabetda bunday yara uzoq bitadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Kechqurun oyoqlaringizni ko‘rib chiqing: barmoqlar, tovon va barmoqlar orasini."
+  }
+ ]
+}

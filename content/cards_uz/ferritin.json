@@ -1,0 +1,73 @@
+{
+ "title": "Ferritin va temir",
+ "also": [
+  "ferritin",
+  "zardobdagi temir",
+  "temirga tahlil",
+  "UTBS",
+  "transferrin"
+ ],
+ "what": "Venadan qon tahlili. Hozir qonda qancha temir borligini va organizmda temir zaxirasi qanday ekanini ko‘rsatadi.",
+ "why": "Holsizlik, oqarish, soch to‘kilishi, gemoglobin past bo‘lganda, homiladorlikda, temir preparatlari bilan davolanayotganda.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda 1–2 kunda",
+ "tell_doctor": [
+  "Temir preparatlari yoki temirli vitaminlar ichsangiz — tanaffus kerakmi, shifokor aytadi",
+  "Yaqinda kasal bo‘lgan, harorat yoki yallig‘lanish bo‘lgan bo‘lsangiz — bu ferritinni buzishi mumkin",
+  "Yaqinda qon quyilgan yoki temir bilan tomchi qilingan bo‘lsa",
+  "Homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda ertalab och qoringa topshiriladi: 8–12 soat ovqatsiz. Suv ichsa bo‘ladi."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Ertalab soat 10–11 gacha kelgan ma’qul — qondagi temir darajasi kun davomida o‘zgaradi."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Alkogolsiz va yog‘li ovqatsiz, og‘ir mashqlarsiz."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Temir preparatlarini o‘zingiz tashlamang. Shifokorga ayting, tahlildan oldin tanaffus kerakmi, shuni u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Avvalgi natijalar — solishtirish uchun"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakka qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lab, terini ishlashadi",
+  "Qon venadan probirkaga olinadi",
+  "Ukol joyi paxta bilan bosiladi yoki plastir yopishtiriladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chivin chaqqandek",
+  "Bosh aylansa — ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Ko‘karmaslik uchun paxtani 3–5 daqiqa bosib turing",
+  "Darhol ovqatlanib, ishlaringizga qaytsangiz bo‘ladi",
+  "Natijani shifokor tushuntiradi — bitta ferritin bo‘yicha tashxis qo‘yilmaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tahlildan oldin temirni tashlash kerakmi?",
+   "a": "O‘zingiz tashlamang. Ba’zan shifokor haqiqiy darajani ko‘rish uchun bir necha kunlik tanaffus so‘raydi. Undan so‘rang."
+  },
+  {
+   "q": "Temir kam bo‘lsa, ferritin nega yuqori?",
+   "a": "Ferritin har qanday yallig‘lanish va shamollashda oshadi. Shuning uchun shifokor uni boshqa tahlillar bilan birga ko‘radi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ertalab temirga tahlil. Kechki ovqatdan keyin ovqatlanmang, suv ichsa bo‘ladi."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Panel genético de cáncer de colon hereditario",
+ "also": [
+  "prueba de síndrome de Lynch",
+  "genética del cáncer de colon",
+  "cáncer de colon hereditario",
+  "panel genético"
+ ],
+ "what": "Es un análisis de sangre o saliva que revisa varios genes a la vez. Los cambios en ellos pueden pasar de padres a hijos y aumentar el riesgo de cáncer de colon.",
+ "why": "Si varios familiares tuvieron cáncer de colon, útero o estómago, o alguien se enfermó joven; o si tienes muchos pólipos en el intestino.",
+ "duration": "la toma de sangre suele durar 5 minutos; el resultado suele estar en 2 a 4 semanas",
+ "tell_doctor": [
+  "Quién en tu familia tuvo cáncer de colon, útero, estómago u ovario y a qué edad",
+  "Cuántos pólipos te encontraron en la colonoscopia",
+  "Si a un familiar ya le encontraron un cambio en el gen: lleva su informe",
+  "Si te hicieron transfusiones o un trasplante de médula ósea"
+ ],
+ "prepare": [
+  {
+   "title": "Consulta",
+   "text": "Es mejor hablar antes con un médico genetista: qué genes van a revisar y qué significa el resultado."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayunar. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Documentos",
+   "text": "Junta los informes de tus colonoscopias y biopsias, si las tuviste."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu identificación",
+  "La lista de familiares con cáncer",
+  "Los informes de colonoscopias y biopsias"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Limpian la piel con antiséptico",
+  "Toman sangre de la vena en un tubo",
+  "A veces, en lugar de sangre, juntan saliva",
+  "La muestra se manda a un laboratorio de genética"
+ ],
+ "feel": [
+  "Un piquete breve, como en un análisis de sangre normal",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "El resultado suele estar en 2 a 4 semanas",
+  "Revisa el resultado con un médico genetista",
+  "Si encuentran un cambio, normalmente la colonoscopia se hace más seguido y desde más joven: el médico te dará el calendario",
+  "A tus familiares les pueden ofrecer revisar el mismo gen"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Para qué esta prueba si ya me hago colonoscopias?",
+   "a": "El resultado muestra cada cuánto necesitas colonoscopia y qué otros órganos revisar. Y ayuda a tus familiares."
+  },
+  {
+   "q": "¿Qué significa «variante de significado incierto»?",
+   "a": "Encontraron un cambio, pero todavía no se sabe si es peligroso. Normalmente no se toman decisiones por él; el médico está pendiente de nuevos datos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu análisis genético. Lleva la lista de familiares con cáncer y los informes de tus colonoscopias."
+  }
+ ]
+}

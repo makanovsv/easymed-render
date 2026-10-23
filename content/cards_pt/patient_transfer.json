@@ -1,0 +1,82 @@
+{
+ "title": "Como mover e virar a pessoa acamada",
+ "also": [
+  "como virar acamado",
+  "transferência de acamado",
+  "como tirar da cama",
+  "cuidados com acamado",
+  "como levantar o doente"
+ ],
+ "what": "Como virar, puxar para cima e passar para a cadeira, com segurança, uma pessoa que não levanta sozinha. As técnicas certas protegem ela e a sua coluna.",
+ "why": "Quando um familiar está acamado ou fraco depois de doença, cirurgia ou AVC.",
+ "duration": "uma virada leva normalmente 1 a 3 minutos",
+ "tell_doctor": [
+  "Se a pessoa tem fraturas, cirurgia recente ou dor ao se mexer. Pergunte como pode virar",
+  "Se ela pode cair ou já desmaiou ao levantar",
+  "Se você mesmo tem dor nas costas",
+  "Se é preciso cama hospitalar ou elevador de transferência"
+ ],
+ "prepare": [
+  {
+   "title": "Cama",
+   "text": "Suba a cama até a altura da cintura, se ela for regulável. Freios travados."
+  },
+  {
+   "title": "Ajudante",
+   "text": "Se a pessoa for pesada, chame mais alguém."
+  },
+  {
+   "title": "Lençol",
+   "text": "Um lençol dobrado embaixo dela ajuda a puxar e virar sem puxar pelos braços."
+  },
+  {
+   "title": "Explique",
+   "text": "Diga o que vai fazer e peça para ela ajudar no que puder."
+  }
+ ],
+ "bring": [
+  "Um lençol ou forro deslizante",
+  "Travesseiros e rolos",
+  "Calçado antiderrapante para você",
+  "Andador ou cadeira de rodas, se precisar"
+ ],
+ "steps": [
+  "Fique perto da cama, com os pés afastados na largura dos ombros",
+  "Para virar de lado: dobre o joelho da perna mais distante e coloque o braço dela sobre o peito",
+  "Segure no ombro e no joelho e vire suavemente na sua direção",
+  "Coloque um travesseiro atrás das costas e entre os joelhos",
+  "Para puxar para cima: em dois, segurem as pontas do lençol e puxem juntos, no comando",
+  "Para sentar: primeiro vire de lado, desça as pernas e levante os ombros",
+  "Fique com ela um minuto sentada na beira da cama antes de levantar"
+ ],
+ "feel": [
+  "A pessoa pode sentir medo e dor. Mexa devagar",
+  "Dobre os joelhos, não as costas. Assim a carga é menor"
+ ],
+ "after": [
+  "Mude a posição normalmente a cada 2 horas",
+  "Confira se não há dobras embaixo da pessoa",
+  "Não puxe pelos braços e pelas axilas. Pode machucar o ombro",
+  "Se estiver difícil, peça treinamento à enfermeira ou ao fisioterapeuta"
+ ],
+ "red_flags": [
+  "A pessoa caiu e bateu a cabeça ou não consegue levantar de dor: ligue para a emergência",
+  "Fraqueza de repente no braço ou na perna, rosto torto, fala enrolada: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O que fazer se a pessoa começar a cair?",
+   "a": "Não tente segurar no ar. Abrace e desça devagar até o chão, protegendo a cabeça."
+  },
+  {
+   "q": "Dá para virar sozinho?",
+   "a": "Dá, se a pessoa for leve e você souber a técnica. Pessoa pesada, melhor em dois."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Hora de mudar de posição: virar de lado, travesseiro atrás das costas e entre os joelhos."
+  }
+ ]
+}

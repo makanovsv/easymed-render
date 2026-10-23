@@ -1,0 +1,72 @@
+{
+ "title": "Vacuna contra la hepatitis A",
+ "also": [
+  "vacuna de hepatitis A",
+  "vacuna contra la hepatitis A",
+  "vacuna contra la ictericia",
+  "hepatitis A"
+ ],
+ "what": "Una inyección de vacuna que protege de la hepatitis A, una infección del hígado que se transmite por manos sucias, agua y comida. Normalmente se ponen 2 dosis.",
+ "why": "En niños y adultos sin vacuna, antes de viajar a países cálidos, con enfermedades del hígado y en zonas con brotes.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos; la segunda dosis, normalmente a los 6 o 12 meses",
+ "tell_doctor": [
+  "Si ahora estás enferma o enfermo o tienes fiebre",
+  "Alergias y reacciones fuertes a vacunas anteriores",
+  "Si estás embarazada",
+  "Si ya tuviste hepatitis A"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando estás sano. Antes de la inyección te revisarán."
+  },
+  {
+   "title": "Calendario",
+   "text": "El esquema normalmente es de 2 inyecciones. Anota la fecha de la segunda."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir el hombro con facilidad."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico o la enfermera te pregunta cómo te sientes y te mide la temperatura",
+  "Descubres el hombro",
+  "Limpian la piel y ponen la inyección",
+  "Se anota la vacuna en los documentos",
+  "Después de la inyección hay que quedarse sentado en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un pinchazo corto",
+  "A veces el lugar de la inyección duele 1 o 2 días",
+  "A veces debilidad o una fiebre ligera"
+ ],
+ "after": [
+  "Quédate cerca del consultorio unos 30 minutos",
+  "Puedes volver a tus actividades",
+  "No olvides la segunda dosis"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o sale sarpullido en todo el cuerpo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "Si tuve contacto con un enfermo, ¿sirve la vacuna?",
+   "a": "Muchas veces sí, si se pone pronto, normalmente en las primeras 2 semanas. Ve cuanto antes con el médico."
+  },
+  {
+   "q": "¿Protege también de la hepatitis B y C?",
+   "a": "No. Contra la hepatitis B hay otra vacuna; contra la C no hay vacuna."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna contra la hepatitis A. Lleva tu cartilla de vacunación."
+  }
+ ]
+}

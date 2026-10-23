@@ -1,0 +1,78 @@
+{
+ "title": "Diabetli bola maktabda va bog‘chada",
+ "also": [
+  "maktabda bolada diabet",
+  "bog‘chada diabetli bola",
+  "diabet va maktab",
+  "maktabda insulin"
+ ],
+ "what": "Ota-onalar uchun eslatma: diabetli bola xavfsiz bo‘lishi uchun maktab yoki bog‘chani qanday tayyorlash kerak.",
+ "why": "O‘qishni boshlashdan oldin, yangi sinf yoki bog‘chaga o‘tganda, davo o‘zgargandan keyin.",
+ "duration": "tayyorgarlik — odatda o‘qituvchi va tibbiyot xodimi bilan bir-ikki uchrashuv",
+ "tell_doctor": [
+  "Bolaning insulin sxemasi qanday va qandni qanchalik tez-tez o‘lchash kerak",
+  "Bola qand pasayganini qanday sezadi",
+  "Maktab uchun yozma reja kerakmi — shifokor uni tuzishga yordam beradi"
+ ],
+ "prepare": [
+  {
+   "title": "Uchrashuv",
+   "text": "Tarbiyachi yoki sinf rahbari, hamshira va jismoniy tarbiya o‘qituvchisi bilan gaplashing."
+  },
+  {
+   "title": "Reja",
+   "text": "Yozma eslatma bering: qand pasayishi va oshishining belgilari, nima qilish kerakligi, telefon raqamlaringiz."
+  },
+  {
+   "title": "Zaxira",
+   "text": "Maktabda tez qand, tamaddi va zaxira sarf materiallarini qoldiring."
+  },
+  {
+   "title": "Bola",
+   "text": "Unga o‘zini yomon his qilsa, aytishdan uyalmaslikni o‘rgating."
+  }
+ ],
+ "bring": [
+  "Glyukometr yoki datchik va zaxira tasmalar",
+  "Tez qand va tamaddi",
+  "Maktab uchun telefon raqamlaringiz yozilgan eslatma",
+  "Maktabda ukol kerak bo‘lsa, insulin va ignalar"
+ ],
+ "steps": [
+  "Maktabdagi kattalarga bolada diabet borligini ayting",
+  "Qand pasayishi qanday ko‘rinishini ko‘rsating: oqarish, ter bosishi, titroq, yig‘lash, g‘alati xatti-harakat",
+  "Qand pasayganda bolaga darhol shirinlik berilishini va yolg‘iz qoldirilmasligini tushuntiring",
+  "Qand o‘lchash va ukolda kim va qachon yordam berishini kelishib oling",
+  "Jismoniy tarbiyadan oldin bolaga tamaddi kerak bo‘lishi mumkin",
+  "Har qanday xavotirda sizga qo‘ng‘iroq qilishlarini kelishib oling"
+ ],
+ "feel": [
+  "Dastlab bolani qo‘yib yuborish qo‘rqinchli — bu normal",
+  "O‘qituvchilar ham ko‘pincha xavotirlanadi — eslatma ularni tinchlantiradi"
+ ],
+ "after": [
+  "Maktab kunlaridagi qand kundaligini tekshirib turing",
+  "Davo o‘zgarsa, eslatmani yangilang",
+  "Shirinlik va sarf materiallari zaxirasini to‘ldirib turing"
+ ],
+ "red_flags": [
+  "Bola hushsiz yoki tutqanoqda — 103 ga qo‘ng‘iroq qiling, og‘ziga hech narsa bermang",
+  "Qusish, qattiq chanqash, og‘zidan aseton hidi — zudlik bilan shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Diabetli bola jismoniy tarbiyaga borishi mumkinmi?",
+   "a": "Ha, odatda mumkin. Mashg‘ulotdan oldin qandni tekshirish va shirinlikni yonda saqlash kerak."
+  },
+  {
+   "q": "Bola dars paytida ovqat yesa bo‘ladimi?",
+   "a": "Qand pasayganda — albatta. Buni o‘qituvchi bilan oldindan kelishib oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga maktabga: glyukometr, shirinlik, tamaddi va telefon zaryadini tekshiring."
+  }
+ ]
+}

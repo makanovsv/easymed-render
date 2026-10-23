@@ -1,0 +1,75 @@
+{
+ "title": "Sistostomani almashtirish",
+ "also": [
+  "sistostomik kateterni almashtirish",
+  "qov usti kateterini almashtirish",
+  "sistostoma",
+  "qorindagi nayni almashtirish"
+ ],
+ "what": "Hamshira yoki shifokor siydik pufagidan siydikni qov ustidagi teri orqali chiqaradigan nayni almashtiradi.",
+ "why": "Muntazam, odatda 4–6 haftada bir marta, yoki nay tiqilib qolsa yoki tushib ketsa ertaroq. Muddatni shifokor aytadi.",
+ "duration": "odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Nayni oxirgi marta qachon almashtirishganini",
+  "Harorat, og‘riq yoki siydikda qon bormi",
+  "Allergiyalar, jumladan lateksga",
+  "Qonni suyultiruvchi dorilar ichasizmi"
+ ],
+ "prepare": [
+  {
+   "title": "Ichish",
+   "text": "Odatdagidek iching: to‘la siydik pufagi almashtirishni osonlashtiradi. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Gigiyena",
+   "text": "Ertalab odatdagi dush, nay atrofidagi terini sovun bilan yuving."
+  },
+  {
+   "title": "Zaxira",
+   "text": "Zaxira siydik xaltasini oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki epikriz",
+  "Zaxira siydik xaltasi",
+  "Hujjat"
+ ],
+ "steps": [
+  "Chalqancha yotasiz",
+  "Bog‘lam olinadi, atrofdagi teriga antiseptik bilan ishlov beriladi",
+  "Ichkaridagi ballondan suv so‘rib olinadi",
+  "Eski nay ehtiyotkorlik bilan chiqariladi",
+  "Darhol shu yo‘lga yangi nay kiritiladi",
+  "Ballon to‘ldiriladi, xalta ulanadi va bog‘lam qo‘yiladi"
+ ],
+ "feel": [
+  "Nay chiqarilayotganda yoqimsiz tortilish",
+  "Yangisi kiritilayotganda qisqa achishish"
+ ],
+ "after": [
+  "Dastlabki soatlarda siydikda ozgina qon bo‘lishi mumkin",
+  "Shifokor cheklamagan bo‘lsa, ko‘proq suv iching",
+  "Keyingi almashtirish sanasini yozib qo‘ying"
+ ],
+ "red_flags": [
+  "Nay tushib ketsa, darhol klinikaga qo‘ng‘iroq qiling: yo‘l bir necha soatda yopilib qolishi mumkin",
+  "Bir necha soat siydik kelmasa, qorin dam bo‘lsa",
+  "Harorat 38 dan yuqori, nay atrofida qizarish va yiring"
+ ],
+ "faq": [
+  {
+   "q": "Nayni o‘zi almashtirsa bo‘ladimi?",
+   "a": "Odatda yo‘q. Almashtirishni hamshira yoki shifokor qiladi. Ba’zi bemorlarni bunga o‘rgatishadi: shifokor hal qiladi."
+  },
+  {
+   "q": "Nay tushib ketsa nima qilish kerak?",
+   "a": "Teshikni toza salfetka bilan yoping va darhol klinikaga qo‘ng‘iroq qiling. Nayni o‘zingiz kiritmang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga sistostomani almashtirish. Zaxira xalta va yo‘llanmani oling."
+  }
+ ]
+}

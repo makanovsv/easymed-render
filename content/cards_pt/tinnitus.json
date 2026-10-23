@@ -1,0 +1,77 @@
+{
+ "title": "Consulta para zumbido no ouvido",
+ "also": [
+  "zumbido no ouvido",
+  "chiado no ouvido",
+  "tinnitus",
+  "apito no ouvido"
+ ],
+ "what": "O otorrino descobre de onde vem o zumbido e testa a audição. Depois, indica um tratamento ou formas de o zumbido incomodar menos.",
+ "why": "Para apito, chiado ou zumbido em um ou nos dois ouvidos.",
+ "duration": "a consulta leva normalmente de 30 a 60 minutos; o teste de audição, cerca de 20 minutos",
+ "tell_doctor": [
+  "Quando o zumbido começou e em qual ouvido",
+  "Se houve barulho forte, pancada ou resfriado",
+  "Se há perda de audição ou tontura",
+  "Quais remédios você toma",
+  "Se tem pressão alta"
+ ],
+ "prepare": [
+  {
+   "title": "Anotações",
+   "text": "Anote quando o zumbido fica mais forte e o que ajuda."
+  },
+  {
+   "title": "Barulho",
+   "text": "Um dia antes do teste de audição, evite música alta e barulho."
+  },
+  {
+   "title": "Remédios",
+   "text": "Leve a lista de todos os remédios. Alguns afetam a audição."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Lista de remédios",
+  "Resultados de testes de audição anteriores"
+ ],
+ "steps": [
+  "O médico pergunta sobre o zumbido",
+  "Examina os ouvidos",
+  "Testa a audição numa cabine com isolamento de som",
+  "Às vezes testa como o tímpano funciona",
+  "Se precisar, pede ressonância ou exames de sangue",
+  "Explica o plano e como conviver com o zumbido"
+ ],
+ "feel": [
+  "O exame e os testes não doem",
+  "Na cabine é preciso prestar atenção em sons baixinhos"
+ ],
+ "after": [
+  "Evite barulho forte; use protetor de ouvido em lugares barulhentos",
+  "Um som de fundo à noite pode ajudar a dormir",
+  "Volte conforme o plano do médico"
+ ],
+ "red_flags": [
+  "O zumbido apareceu de repente junto com perda de audição: vá ao médico em até 24 horas",
+  "Zumbido com tontura forte e vômito",
+  "Zumbido pulsando em um ouvido só",
+  "Fraqueza no braço ou no rosto, fala enrolada: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O zumbido vai passar?",
+   "a": "Às vezes passa, às vezes fica. Existem formas de deixá-lo menos perceptível."
+  },
+  {
+   "q": "O zumbido pode ser de estresse?",
+   "a": "Estresse e falta de sono muitas vezes pioram o zumbido. Mas quem deve descobrir a causa é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta do zumbido. Leve a lista de remédios e evite música alta."
+  }
+ ]
+}

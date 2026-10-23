@@ -1,0 +1,78 @@
+{
+ "title": "Check-up for a chronic cough",
+ "also": [
+  "long-lasting cough",
+  "cough that won't go away",
+  "persistent cough",
+  "prolonged cough",
+  "cough check-up"
+ ],
+ "what": "The doctor looks for the cause of a cough that has not gone away for several weeks. For this they ask questions, examine you, and do a few tests.",
+ "why": "If a cough lasts longer than 3 to 8 weeks in an adult or longer than 4 weeks in a child, especially with phlegm, shortness of breath, or blood.",
+ "duration": "the first visit usually takes 20 to 40 minutes; the tests take from a few days to a couple of weeks",
+ "tell_doctor": [
+  "How long the cough has lasted and when it is worse, day or night",
+  "Whether there is phlegm, what color, and whether there was blood",
+  "Whether you smoke now or smoked before",
+  "Which medicines you take, since some blood pressure pills cause a cough",
+  "Heartburn, runny nose, allergies",
+  "Whether you were in contact with someone with tuberculosis"
+ ],
+ "prepare": [
+  {
+   "title": "Cough diary",
+   "text": "Write down when the cough is worse and what triggers it: food, cold, lying down, dust."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Tell your doctor everything you take."
+  },
+  {
+   "title": "Past pictures",
+   "text": "Bring your lung X-ray or CT, if you had one."
+  }
+ ],
+ "bring": [
+  "An ID",
+  "Lung images and reports",
+  "A list of your medicines",
+  "Past test results"
+ ],
+ "steps": [
+  "The doctor asks in detail about the cough",
+  "Listens to your lungs and looks at your throat and nose",
+  "Usually sends you for a chest X-ray",
+  "May order a breathing test called spirometry",
+  "Sometimes a phlegm or blood test is needed",
+  "Based on the results, prescribes treatment or refers you to the right doctor"
+ ],
+ "feel": [
+  "The tests are usually painless",
+  "For spirometry you have to blow out hard, and you may feel dizzy"
+ ],
+ "after": [
+  "Treatment depends on the cause, and there are several",
+  "Sometimes treatment is tried first to see if the cough goes away",
+  "The follow-up visit is after the time your doctor sets"
+ ],
+ "red_flags": [
+  "Coughing up blood, severe shortness of breath, or chest pain: see a doctor urgently or call emergency services",
+  "A high fever and hard breathing: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "How long can a cough last after a cold?",
+   "a": "Sometimes up to 3 to 8 weeks. If it lasts longer or gets worse, see a doctor."
+  },
+  {
+   "q": "Is a chest X-ray always needed?",
+   "a": "Most often yes, it is one of the first tests. Your doctor decides."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Cough appointment tomorrow. Bring your lung images and list of medicines."
+  }
+ ]
+}

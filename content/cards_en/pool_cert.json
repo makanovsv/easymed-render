@@ -1,0 +1,63 @@
+{
+ "title": "Swimming pool certificate",
+ "also": [
+  "pool certificate",
+  "swimming pool health certificate",
+  "doctor's note for the pool",
+  "medical clearance for swimming"
+ ],
+ "what": "A short check-up, after which you get a certificate saying you can swim in a public pool.",
+ "why": "Before going to a pool. Many pools require it for adults and children.",
+ "duration": "usually 15 to 30 minutes if the tests are ready",
+ "tell_doctor": [
+  "Skin diseases, foot fungus",
+  "Heart disease, epilepsy, recent injuries",
+  "For a child: illnesses and allergies"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "A worm test is often required, either a skin scraping or a stool test. Ask the pool and the clinic."
+  },
+  {
+   "title": "Requirements",
+   "text": "Ask the pool what kind of certificate they need and how long it is valid."
+  }
+ ],
+ "bring": [
+  "Your ID, or your child's document",
+  "Test results, if done in advance"
+ ],
+ "steps": [
+  "You see a general doctor, pediatrician or skin doctor",
+  "The doctor asks about your health",
+  "Examines your skin, especially your feet",
+  "If needed, sends you for a test",
+  "Issues the certificate"
+ ],
+ "feel": [
+  "The exam does not hurt",
+  "If a scraping is taken, it is quick and painless"
+ ],
+ "after": [
+  "Give the certificate to the pool",
+  "Watch the expiry date. It is usually renewed after a few months"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why does the pool ask for a certificate?",
+   "a": "To keep out skin diseases, fungus and worms. It protects everyone."
+  },
+  {
+   "q": "Can I get the certificate without tests?",
+   "a": "It depends on the pool. Many require a worm test."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Pool certificate tomorrow. Check whether a worm test is needed and bring your ID."
+  }
+ ]
+}

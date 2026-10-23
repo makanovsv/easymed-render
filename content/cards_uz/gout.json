@@ -1,0 +1,76 @@
+{
+ "title": "Podagra: davolash va parhez",
+ "also": [
+  "podagra",
+  "podagrik artrit",
+  "siydik kislotasi",
+  "podagra xuruji"
+ ],
+ "what": "Podagra — bo‘g‘imda kristallar to‘planib, u keskin yallig‘lanadigan holat. Shifokor xurujni to‘xtatadi va ular takrorlanmasligi uchun davo tanlaydi.",
+ "why": "Bo‘g‘imda to‘satdan kuchli og‘riq va shish bo‘lganda, ko‘pincha oyoq bosh barmog‘ida; qonda siydik kislotasi yuqori bo‘lganda.",
+ "duration": "qabul odatda 20–30 daqiqa, tahlillar — 1–2 kunda",
+ "tell_doctor": [
+  "Xuruj qachon bo‘lgan, qaysi bo‘g‘im og‘rigan",
+  "Xurujlar qanchalik tez-tez bo‘ladi",
+  "Qanday dorilar ichasiz — ba’zilari siydik kislotasini oshiradi",
+  "Qancha alkogol ichasiz",
+  "Buyrak kasalliklari bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Siydik kislotasiga qon odatda och qoringa topshiriladi. Klinikadan aniqlang."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Xurujlardan oldin nima yeb-ichganingizni yozib qo‘ying."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Bo‘g‘im endi og‘rimasa ham, o‘zingiz bekor qilmang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Siydik kislotasi tahlillari",
+  "Bo‘g‘imlar suratlari, agar bo‘lsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor xurujlar va ovqatlanish haqida so‘raydi",
+  "Bo‘g‘imlarni ko‘radi",
+  "Qon tahliliga va ba’zan bo‘g‘im ultratovushiga yo‘llaydi",
+  "Ba’zan tahlil uchun bo‘g‘imdan suyuqlik oladi",
+  "Xurujni davolashni buyuradi",
+  "Xurujlar tez-tez bo‘lsa, siydik kislotasini pasaytiruvchi dori tanlaydi"
+ ],
+ "feel": [
+  "Og‘riyotgan bo‘g‘imni ko‘rish og‘riqli bo‘lishi mumkin",
+  "Qon tahlili — qisqa ukol"
+ ],
+ "after": [
+  "Ko‘proq suv iching",
+  "Alkogolni, ayniqsa pivo, qizil go‘sht va shirin gazlangan ichimliklarni cheklang",
+  "Podagra dorilari uzoq ichiladi — o‘zingiz tashlamang",
+  "Tahlillar nazorati — shifokor jadvali bo‘yicha"
+ ],
+ "red_flags": [
+  "Bo‘g‘im issiq, qattiq shishgan va harorat yuqori bo‘lsa — darrov shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Podagrani parhez bilan davolasa bo‘ladimi?",
+   "a": "Parhez yordam beradi, lekin ko‘pincha dorilar ham kerak. Shifokor hal qiladi."
+  },
+  {
+   "q": "Nega davolash boshlangandan keyin xuruj boshlandi?",
+   "a": "Dastlabki oylarda shunday bo‘ladi. Tabletkalarni tashlamang, shifokorga ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga podagra bo‘yicha qabul. Qon topshirsangiz — kechki ovqatdan keyin yemang, suv ichish mumkin."
+  }
+ ]
+}

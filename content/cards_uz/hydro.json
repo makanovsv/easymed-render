@@ -1,0 +1,75 @@
+{
+ "title": "Gidrokinezoterapiya (basseyn)",
+ "also": [
+  "davolovchi basseyn",
+  "gidrokinezoterapiya",
+  "suvda davolash badantarbiyasi",
+  "davolovchi akvaaerobika"
+ ],
+ "what": "Instruktor bilan iliq basseynda davolovchi mashqlar. Suv bo‘g‘imlar va belga yukni kamaytiradi, harakatlanish osonlashadi.",
+ "why": "Bel va bo‘g‘imlar og‘rig‘ida, jarohat va operatsiyalardan keyin, insultdan keyin, harakati buzilgan bolalarga — shifokor buyrug‘i bilan.",
+ "duration": "mashg‘ulot odatda 30–45 daqiqa; kurs odatda bir necha hafta",
+ "tell_doctor": [
+  "Teri kasalliklari, jarohatlar, zamburug‘",
+  "Quloq va ko‘z kasalliklari",
+  "Yurak kasalliklari, yuqori bosim, epilepsiya",
+  "Suzishni bilmasangiz yoki suvdan qo‘rqsangiz",
+  "Siydikni ushlash muammolari"
+ ],
+ "prepare": [
+  {
+   "title": "Ma’lumotnoma",
+   "text": "Ko‘p basseynlar shifokor ma’lumotnomasi yoki teri ko‘rigini so‘raydi — klinikadan aniqlang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Yengil ovqat mashg‘ulotdan kamida 1 soat oldin."
+  },
+  {
+   "title": "Gigiyena",
+   "text": "Basseyndan oldin sovun bilan dush."
+  }
+ ],
+ "bring": [
+  "Cho‘milish kiyimi, shapka",
+  "Rezina shippak va sochiq",
+  "Ma’lumotnoma, agar so‘rasa",
+  "Dush vositalari"
+ ],
+ "steps": [
+  "Dush qabul qilib, kiyimingizni almashtirasiz",
+  "Suvga zinapoya orqali yoki ko‘targich yordamida kirasiz",
+  "Instruktor suvdagi mashqlarni ko‘rsatadi",
+  "O‘z sur’atingizda harakatlanasiz, ba’zan suzgichlar va belbog‘lar bilan",
+  "Oxirida suvda bo‘shashish va chiqish",
+  "Keyin — iliq dush"
+ ],
+ "feel": [
+  "Suv iliq, quruqlikdagiga qaraganda harakatlanish osonroq",
+  "Mashg‘ulotdan keyin yengil charchoq — bu odatiy"
+ ],
+ "after": [
+  "Yaxshilab artining va sochni quriting",
+  "Mashg‘ulotdan keyin darrov sovuqqa chiqmang",
+  "Dam oling va suv iching"
+ ],
+ "red_flags": [
+  "Suvda bosh aylanishi, ko‘krakda og‘riq yoki hansirash bo‘lsa — darrov instruktorga ayting"
+ ],
+ "faq": [
+  {
+   "q": "Suzishni bilish kerakmi?",
+   "a": "Yo‘q. Mashqlar ko‘krak chuqurligida yoki qo‘llab-quvvatlovchi belbog‘lar bilan qilinadi."
+  },
+  {
+   "q": "Hayz paytida mumkinmi?",
+   "a": "Odatda bu kunlarni o‘tkazib yuborgan yaxshi. Klinikadan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga basseynda mashg‘ulot. Cho‘milish kiyimi, shapka, shippak va sochiqni oling."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "title": "Sedatsiya ostida tishlarni davolash",
+ "also": [
+  "uyquda tishlarni davolash",
+  "tish shifokorida sedatsiya",
+  "dorili uyqu",
+  "qo‘rquvsiz davolash"
+ ],
+ "what": "Sizga tinchlantiruvchi yuboriladi va tishlarni bo‘shashgan mudroq holatda davolaysiz. Tish shunda ham oddiy ukol bilan og‘riqsizlantiriladi.",
+ "why": "Tish shifokoridan kuchli qo‘rqishda, kuchli qusish refleksida yoki bir martada ko‘p ish qilish kerak bo‘lganda.",
+ "duration": "davolash odatda 1–3 soat, keyin klinikada yana dam olish vaqti",
+ "tell_doctor": [
+  "Barcha dorilar va kasalliklar, ayniqsa yurak, o‘pka va bosim",
+  "Xurrak yoki uyquda nafas to‘xtashi",
+  "Allergiyalar",
+  "Homiladorlik yoki uning ehtimoli",
+  "Ilgari narkoz yoki sedatsiya bilan muammolar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat va ichimlik",
+   "text": "Odatda sedatsiyadan bir necha soat oldin ovqat yemaslik va ichmaslik kerak. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Doimiy dorilarni o‘zingiz bekor qilmang: shu kuni ularni qanday ichishni shifokordan so‘rang."
+  },
+  {
+   "title": "Yo‘ldosh",
+   "text": "Uyga kattalar yo‘ldosh bilan qaytish kerak. O‘zingiz rulga o‘tirib bo‘lmaydi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qisqa yengli qulay kiyim, tirnoqlarda lak va upa-elik yo‘q."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Yo‘ldosh",
+  "So‘ralgan bo‘lsa, tahlil natijalari"
+ ],
+ "steps": [
+  "Anesteziolog yoki shifokor sizdan so‘raydi va bosimni o‘lchaydi",
+  "Barmoqqa datchik taqiladi, venaga kateter qo‘yiladi yoki dori boshqacha beriladi",
+  "Tinchlantiruvchi yuboriladi: bo‘shashasiz va mudraysiz",
+  "Tish ukol bilan og‘riqsizlantiriladi",
+  "Shifokor tishlarni davolaydi, nafas va puls doim kuzatiladi",
+  "O‘zingizga kelguncha uyg‘onib, klinikada dam olasiz"
+ ],
+ "feel": [
+  "Siz tinch va mudroqsiz, keyin ko‘p narsani eslamaysiz",
+  "Venaga yoki milkka ukol qisqa seziladi",
+  "Keyin kun oxirigacha mudroqlik va holsizlik"
+ ],
+ "after": [
+  "Kun oxirigacha uyda dam oling",
+  "Shu kuni mashina haydamang, alkogol ichmang, muhim qarorlar qabul qilmang",
+  "Uyushish o‘tmaguncha ovqat yemang",
+  "Tishlar bo‘yicha tavsiyalarni shifokor aytadi"
+ ],
+ "red_flags": [
+  "Nafas olish qiyin, lablar ko‘karsa, 103 ga qo‘ng‘iroq qiling",
+  "Mudroqlik o‘tmasa, odamni uyg‘otish qiyin bo‘lsa, 103 ga qo‘ng‘iroq qiling",
+  "Davolangan joyda kuchli og‘riq yoki shish"
+ ],
+ "faq": [
+  {
+   "q": "Bu narkozmi?",
+   "a": "Yo‘q. Sedatsiyada mudraysiz, lekin odatda o‘zingiz nafas olasiz va javob bera olasiz. Narkoz ancha chuqur uyqu."
+  },
+  {
+   "q": "Men hech narsa sezmaymanmi?",
+   "a": "Davolash odatda tinch o‘tadi. Tish qo‘shimcha ukol bilan og‘riqsizlantiriladi."
+  },
+  {
+   "q": "Yolg‘iz uyga ketsa bo‘ladimi?",
+   "a": "Yo‘q. Kattalar yo‘ldosh kerak, shu kuni rulga o‘tirib bo‘lmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga sedatsiya ostida davolash. Ovqat va suv: klinika aytgan vaqtgacha. Yo‘ldosh bilan kelishib oling."
+  }
+ ]
+}

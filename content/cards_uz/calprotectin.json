@@ -1,0 +1,70 @@
+{
+ "title": "Najasdagi kalprotektin",
+ "also": [
+  "kalprotektin",
+  "najasda kalprotektin",
+  "yallig‘lanish uchun najas tahlili"
+ ],
+ "what": "Bu najas tahlili. U ichakda yallig‘lanish bor-yo‘qligini ko‘rsatadi.",
+ "why": "Surunkali diareya, qorin og‘rig‘i, najasda qon bo‘lganda; ichak yallig‘lanishini asabiy ichakdan ajratish va davolashni kuzatish uchun.",
+ "duration": "uyda yig‘ish bir necha daqiqa, natija odatda 1–5 kunda",
+ "tell_doctor": [
+  "Og‘riq qoldiruvchi va yallig‘lanishga qarshi tabletkalar ichsangiz: ular natijani oshirishi mumkin",
+  "Yaqinda ichak infeksiyasi bo‘lgan bo‘lsa",
+  "Hozir hayz kunlari bo‘lsa yoki bavosildan qon ketayotgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Idish",
+   "text": "Laboratoriya yoki dorixonadan steril idish oling."
+  },
+  {
+   "title": "Yig‘ish",
+   "text": "Najas o‘z-o‘zidan kelgan ich kelishidan keyin yig‘iladi, huqna va surgisiz. Idishga siydik yoki suv tushmasligi kerak."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting: qachon topshirish yaxshiroq ekanini u hal qiladi."
+  },
+  {
+   "title": "Saqlash",
+   "text": "Laboratoriya aytgan muddatda olib boring."
+  }
+ ],
+ "bring": [
+  "Namunali idish",
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Toza quruq tog‘ora yoki paketga hojatga boring",
+  "Qopqoqdagi qoshiqcha bilan ozgina najas oling",
+  "Laboratoriya aytgancha miqdorni idishga soling",
+  "Mahkam yoping va imzolang",
+  "Laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Kundalik noqulaylikdan boshqa yoqimsiz narsa yo‘q"
+ ],
+ "after": [
+  "Natija odatda 1–5 kunda",
+  "Kalprotektin yuqori bo‘lsa, keyingi qadamni shifokor hal qiladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Kalprotektin yuqori bo‘lsa, bu jiddiy kasallikmi?",
+   "a": "Albatta emas. U ichakdagi har qanday yallig‘lanishda, jumladan infeksiyada ham oshadi. Sababini shifokor aniqlaydi."
+  },
+  {
+   "q": "Kolonoskopiya qilsa bo‘ladigan bo‘lsa, bu tahlil nega kerak?",
+   "a": "U kolonoskopiya umuman kerakmi-yo‘qmi, shuni tushunishga yordam beradi. Ba’zan usiz ham bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga kalprotektin uchun najas topshirasiz. Idish va toza tog‘ora yoki paketni tayyorlab qo‘ying."
+  }
+ ]
+}

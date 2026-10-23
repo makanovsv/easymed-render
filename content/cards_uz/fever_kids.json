@@ -1,0 +1,84 @@
+{
+ "title": "Bolada harorat: qanday o‘lchash va qachon shifokorga",
+ "also": [
+  "bolada harorat",
+  "bolada isitma",
+  "haroratni qanday o‘lchash",
+  "haroratni qachon tushirish",
+  "bolalarda isitma"
+ ],
+ "what": "Bolaning haroratini qanday to‘g‘ri o‘lchash, uni qachon tushirish va qaysi hollarda shoshilinch shifokor chaqirish kerak.",
+ "why": "Bola issiq, holsiz, injiq bo‘lganda yoki kasal bo‘lib qolganiga shubha qilsangiz.",
+ "duration": "o‘lchash — termometrga qarab bir necha soniyadan bir necha daqiqagacha",
+ "tell_doctor": [
+  "Harorat necha kundan beri turibdi va qanchagacha ko‘tariladi",
+  "Qanday isitma tushiruvchi va qanday dozada, qachon berdingiz",
+  "Bola ichyaptimi va necha marta siydi",
+  "Toshma, qusish, ich ketishi, yo‘tal, og‘riq bormi",
+  "Surunkali kasalliklar va emlashlar"
+ ],
+ "prepare": [
+  {
+   "title": "Termometr",
+   "text": "Elektron qulayroq. Simobli sinsa, xavfli."
+  },
+  {
+   "title": "Qayerda o‘lchash",
+   "text": "Kichkintoylarga ko‘pincha qo‘ltiqda yoki quloqda o‘lchashadi — termometringiz uchun qanday to‘g‘riligi yo‘riqnomada yozilgan."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Isitma tushiruvchi — faqat bolalar uchun va bolaning vazniga qarab dozada. Dozani pediatrdan aniqlab oling."
+  },
+  {
+   "title": "Suv",
+   "text": "Haroratda bolaga ko‘proq ichish kerak."
+  }
+ ],
+ "bring": [
+  "Termometr",
+  "Yozuvlar: vaqt, harorat, dorilar",
+  "Pediatrga savollar ro‘yxati"
+ ],
+ "steps": [
+  "Yugurish, ovqat yoki cho‘milishdan keyin 15–20 daqiqa kuting",
+  "Qo‘ltiqni quruq salfetka bilan artib oling",
+  "Termometrni qo‘ltiqqa qo‘yib, bolaning qo‘lini tanasiga bosing",
+  "Signal bo‘lguncha yoki yo‘riqnomada aytilgancha ushlang",
+  "Vaqt va raqamni yozib qo‘ying",
+  "Bolani yechintiring, o‘rab qo‘ymang",
+  "Ko‘proq, oz-ozdan ichirib turing"
+ ],
+ "feel": [
+  "Bola injiq bo‘lishi va yomon ovqatlanishi mumkin — haroratda bu odatiy",
+  "Aniq raqamdan ko‘ra bola o‘zini qanday tutishi muhimroq"
+ ],
+ "after": [
+  "Bola o‘ynasa va ichsa — odatda kuzatib, pediatrni chaqirsa bo‘ladi",
+  "Isitma tushiruvchini ko‘pincha faqat raqamga qarab emas, bolaga yomon bo‘lganda berishadi — pediatrdan aniqlab oling",
+  "Spirt va sirka bilan ishqalamang",
+  "Takroriy o‘lchash — dori ichirilgandan 30–60 daqiqa keyin"
+ ],
+ "red_flags": [
+  "Bola 3 oydan kichik va harorat 38 va undan yuqori — 103 ga qo‘ng‘iroq qiling yoki darhol pediatrga",
+  "Tutqanoq, bola uyg‘onmayapti, juda holsiz — 103 ga qo‘ng‘iroq qiling",
+  "Stakan bilan bosganda oqarmaydigan toshma — 103 ga qo‘ng‘iroq qiling",
+  "Nafas olish qiyin, ichmayapti, 6–8 soatdan ortiq siydik yo‘q — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Haroratni qaysi raqamdan tushirish kerak?",
+   "a": "Odatda faqat raqamga emas, bolaning ahvoliga qaraladi. Farzandingiz uchun aniq pediatr aytadi."
+  },
+  {
+   "q": "Haroratli bolani cho‘miltirsa bo‘ladimi?",
+   "a": "Bolaga yomon bo‘lmasa, iliq dush odatda mumkin. Sovuq suv va artish bilan sovutmang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Bolaning haroratini o‘lchab, yozib qo‘ying. Ichishni taklif qiling."
+  }
+ ]
+}

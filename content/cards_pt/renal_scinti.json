@@ -1,0 +1,78 @@
+{
+ "title": "Cintilografia renal",
+ "also": [
+  "cintilografia renal",
+  "cintilografia dos rins",
+  "DTPA",
+  "DMSA",
+  "exame de medicina nuclear dos rins"
+ ],
+ "what": "Aplicam na veia uma dose muito pequena de uma substância radioativa, e uma câmera gama mostra como funciona cada rim separadamente.",
+ "why": "Quando é preciso saber quanto funciona cada rim, no refluxo em crianças, em estreitamentos das vias urinárias e antes de cirurgias.",
+ "duration": "normalmente 30 a 60 minutos; em alguns tipos de exame é preciso nova imagem algumas horas depois; o laudo sai no mesmo dia ou em 1 a 2 dias",
+ "tell_doctor": [
+  "Se pode haver gravidez ou se está amamentando",
+  "Quais remédios você toma, principalmente diuréticos e para pressão",
+  "Se tem alergia",
+  "Para a criança: o peso e a altura dela"
+ ],
+ "prepare": [
+  {
+   "title": "Água",
+   "text": "Normalmente pedem para beber água uma hora antes do exame. Quanto, a clínica diz."
+  },
+  {
+   "title": "Remédios",
+   "text": "Às vezes pedem para não tomar alguns remédios de pressão por um tempo. Não pare por conta própria. Quem decide é o médico."
+  },
+  {
+   "title": "Banheiro",
+   "text": "Antes do exame, vá ao banheiro."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Ultrassons e exames anteriores",
+  "Água",
+  "Para a criança: fralda e brinquedo"
+ ],
+ "steps": [
+  "Você bebe água, como a clínica orientou",
+  "Deita na mesa embaixo da câmera gama",
+  "Aplicam na veia uma pequena dose da substância",
+  "A câmera grava as imagens. Você fica parado de 20 a 40 minutos",
+  "Às vezes aplicam um diurético e fazem mais imagens",
+  "Às vezes pedem para voltar para uma nova imagem"
+ ],
+ "feel": [
+  "A picada na veia é como num exame de sangue comum",
+  "O exame em si não dói",
+  "Ficar parado pode ser difícil, principalmente para a criança"
+ ],
+ "after": [
+  "Neste dia, beba mais água e vá ao banheiro com mais frequência",
+  "Lave as mãos depois do banheiro",
+  "Por um dia, tente não ficar muito tempo com crianças pequenas no colo nem perto de grávidas. Confirme com a clínica",
+  "Quem amamenta pode ser orientada a dar uma pausa na amamentação. Pergunte ao médico"
+ ],
+ "red_flags": [
+  "Manchas na pele, inchaço no rosto, dificuldade para respirar: ligue para a emergência",
+  "Dor forte na lombar ou sangue na urina"
+ ],
+ "faq": [
+  {
+   "q": "A radiação é perigosa?",
+   "a": "A dose é pequena e sai rápido pela urina. O médico pede quando o benefício é maior que o risco."
+  },
+  {
+   "q": "Posso ficar perto da criança?",
+   "a": "Pode. Normalmente um dos pais fica ao lado e ajuda a criança a ficar quieta."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a cintilografia renal. De manhã, beba água como a clínica disse. Sobre remédios de pressão, pergunte ao médico."
+  }
+ ]
+}

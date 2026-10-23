@@ -1,0 +1,79 @@
+{
+ "title": "PCR de tos ferina",
+ "also": [
+  "tos ferina",
+  "tos convulsa",
+  "exudado para tos ferina",
+  "PCR de Bordetella pertussis"
+ ],
+ "what": "Es una muestra con hisopo de la nariz y la garganta en la que se busca el microbio de la tos ferina.",
+ "why": "Con tos en ataques que dura mucho, sobre todo en niños, y después de estar con alguien con tos ferina.",
+ "duration": "la toma dura cerca de un minuto; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Cuántas semanas llevas con tos",
+  "Si tomaste antibióticos y cuáles",
+  "Si tienes las vacunas contra la tos ferina",
+  "Si estuviste con un niño o un adulto con tos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "De 2 a 3 horas antes de la toma no comas ni bebas. Normalmente también se les pide a los niños. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Nariz y garganta",
+   "text": "En la mañana no hagas gárgaras ni te pongas gotas en la nariz, si el médico no dijo otra cosa."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "Es mejor hacer el análisis antes de empezar antibióticos. Si ya los tomas, no los dejes por tu cuenta y díselo al médico."
+  },
+  {
+   "title": "Niño",
+   "text": "Explícale a tu hijo que le van a tocar la nariz con un hisopo y que es rápido. Siéntalo en tus piernas."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu identificación",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El niño se sienta en las piernas de su papá o mamá y le sostienen la cabeza",
+  "Meten un hisopo delgado y suave por la nariz hasta el fondo",
+  "Giran el hisopo unos segundos y lo sacan",
+  "A veces toman una segunda muestra de la garganta",
+  "El hisopo se pone en un tubo y se manda al laboratorio"
+ ],
+ "feel": [
+  "Es molesto y da cosquillas en la nariz; pueden dar ganas de estornudar",
+  "Pueden salir lágrimas: es normal",
+  "El niño puede llorar, pero todo dura unos segundos"
+ ],
+ "after": [
+  "Puede comer y beber de inmediato",
+  "Hasta tener el resultado, trata de evitar el contacto con bebés y embarazadas",
+  "Los antibióticos solo los indica el médico"
+ ],
+ "red_flags": [
+  "Durante la tos el niño deja de respirar o se pone morado: llama a emergencias",
+  "El bebé come poco, está decaído o vomita con la tos: ve al médico de inmediato",
+  "Fiebre alta y falta de aire: ve al médico ese mismo día"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuándo es mejor hacer la PCR de tos ferina?",
+   "a": "Mientras antes, mejor: normalmente en las primeras semanas de tos y antes de los antibióticos. Más adelante sirve más un análisis de sangre."
+  },
+  {
+   "q": "¿Se puede tener tos ferina después de la vacuna?",
+   "a": "Sí, pero normalmente más leve. La protección de la vacuna se debilita con el tiempo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Pronto es la toma para tos ferina. No comas ni bebas, no hagas gárgaras y no te pongas gotas en la nariz."
+  }
+ ]
+}

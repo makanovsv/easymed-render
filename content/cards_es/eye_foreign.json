@@ -1,0 +1,78 @@
+{
+ "title": "Sacar un cuerpo extraño del ojo",
+ "also": [
+  "basurita en el ojo",
+  "cuerpo extraño en el ojo",
+  "rebaba de metal en el ojo",
+  "me cayó algo en el ojo"
+ ],
+ "what": "Con gotas de anestesia, el médico encuentra y quita con cuidado la basurita del ojo. Normalmente tarda unos minutos.",
+ "why": "Cuando te cayó en el ojo una basurita, una rebaba o una partícula y no sale al lavarlo.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Qué te cayó en el ojo y cuándo",
+  "Si estabas trabajando con metal, esmeriladora o madera",
+  "Si usas lentes de contacto",
+  "Si eres alérgico a alguna gota"
+ ],
+ "prepare": [
+  {
+   "title": "No te talles",
+   "text": "No te talles el ojo. Puedes rayar la córnea."
+  },
+  {
+   "title": "Lavado",
+   "text": "Puedes lavarte el ojo con agua limpia. No intentes sacar la partícula con objetos con punta."
+  },
+  {
+   "title": "Lentes de contacto",
+   "text": "Si traes un lente de contacto, si puedes, quítatelo con las manos limpias."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Tus lentes, si usas",
+  "Un acompañante, si ves mal"
+ ],
+ "steps": [
+  "El médico te pone gotas de anestesia",
+  "Revisa el ojo con un microscopio",
+  "A veces pone un colorante para ver si hay raspones",
+  "Quita la partícula con un hisopo húmedo o un instrumento delgado",
+  "Si quedó una mancha de óxido, también la quita",
+  "Te pone gotas o pomada con medicamento"
+ ],
+ "feel": [
+  "Con las gotas casi no duele",
+  "Cuando se pasan las gotas, puedes sentir arena en el ojo y ardor",
+  "El ojo puede lagrimear y molestar con la luz uno o dos días"
+ ],
+ "after": [
+  "Gotas o pomada según te indicó el médico",
+  "No te talles el ojo ni uses lentes de contacto hasta que te lo permitan",
+  "Si hace falta, regresa a revisión al día siguiente",
+  "Al trabajar con metal, usa lentes de protección"
+ ],
+ "red_flags": [
+  "El dolor no se quita o aumenta después de un día",
+  "Ves peor",
+  "Pus o una mancha blanca en el ojo",
+  "Si te pegó una esquirla a gran velocidad, ve al médico de inmediato; si la lesión es grave, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué no hay que tallarse el ojo?",
+   "a": "La partícula puede rayar la córnea y meterse más."
+  },
+  {
+   "q": "¿Tengo que ir al médico si parece que ya salió?",
+   "a": "Sí, si sigues sintiendo la basurita, el ojo está rojo o ves peor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "No te talles el ojo. Si sigues sintiendo la basurita, ve con el oftalmólogo."
+  }
+ ]
+}

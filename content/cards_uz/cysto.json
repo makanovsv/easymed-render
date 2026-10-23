@@ -1,0 +1,76 @@
+{
+ "title": "Sistoskopiya",
+ "also": [
+  "siydik pufagini ko‘rik qilish",
+  "uretrosistoskopiya",
+  "egiluvchan sistoskop bilan sistoskopiya"
+ ],
+ "what": "Urolog shifokor siydik pufagini kamerali ingichka nay bilan ichkaridan ko‘radi. Uni siydik chiqarish yo‘li orqali kiritishadi.",
+ "why": "Siydikda qon, tez-tez infeksiyalar, siydik chiqarish muammolarida, siydik pufagi davolangandan keyin nazorat uchun.",
+ "duration": "odatda 5–15 daqiqa, tayyorgarlik bilan taxminan 30 daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiruvchi preparatlar: ular bilan nima qilishni shifokor hal qiladi",
+  "Dorilarga va og‘riqsizlantiruvchi gellarga allergiya",
+  "Hozir achishish yoki harorat bo‘lsa: infeksiya odatda avval davolanadi",
+  "Homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "Siydik tahlili",
+   "text": "Ba’zan infeksiyani istisno qilish uchun oldindan siydik tahlilini topshirishni so‘rashadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Mahalliy og‘riqsizlantirish ostida qilinsa, odatda ovqatlanish va ichish mumkin. Narkoz ostida bo‘lsa, klinika qoidalariga ko‘ra ovqat yemaslik kerak."
+  },
+  {
+   "title": "Hojatxona",
+   "text": "Muolajadan oldin siydik pufagini bo‘shating."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Siydik tahlili va UZI natijalari, agar bo‘lsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Belgacha yechinib, kreslo yoki kushetkaga yotasiz",
+  "Teriga antiseptik bilan ishlov beriladi",
+  "Yo‘lga og‘riqsizlantiruvchi gel kiritiladi va bir necha daqiqa kutiladi",
+  "Shifokor kamerali ingichka nayni kiritadi",
+  "Pufak steril suv bilan to‘ldiriladi va devorlari ko‘riladi",
+  "Kerak bo‘lsa, tahlil uchun mayda to‘qima parchasi olinadi"
+ ],
+ "feel": [
+  "Yoqimsiz va odatiy emas, lekin odatda chidasa bo‘ladi",
+  "Pufak to‘lganda hojatga borgisi keladi: bu normal",
+  "Og‘risa shifokorga ayting"
+ ],
+ "after": [
+  "1–2 kun siydik qilganda biroz achishishi mumkin",
+  "Siydik pushti bo‘lishi mumkin: bunday bo‘ladi",
+  "Dastlabki kunlarda ko‘proq suv iching",
+  "Ko‘rik natijasini shifokor odatda darhol aytadi, to‘qima tahlilini keyinroq"
+ ],
+ "red_flags": [
+  "Harorat 38 dan yuqori, titroq",
+  "Siydik chiqmasa yoki yorqin qon laxtalar bilan kelsa",
+  "Qorin pastida kuchli og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Sistoskopiya og‘riqlimi?",
+   "a": "Odatda yo‘q: og‘riqsizlantiruvchi gel va ingichka egiluvchan nay ishlatiladi. Yoqimsiz, lekin chidasa bo‘ladi."
+  },
+  {
+   "q": "Sistoskopiyadan keyin darhol uyga ketsa bo‘ladimi?",
+   "a": "Ha, mahalliy og‘riqsizlantirish ostida qilingan bo‘lsa. Narkozdan keyin yo‘ldosh kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada sistoskopiya. Yo‘llanma va tahlillarni oling. Muolajadan oldin hojatxonaga boring."
+  }
+ ]
+}

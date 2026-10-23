@@ -1,0 +1,76 @@
+{
+ "title": "Diabetda oyoq kaftlari ko‘rigi (sezuvchanlik)",
+ "also": [
+  "diabetda oyoqlar ko‘rigi",
+  "diabetik oyoq",
+  "oyoq sezuvchanligini tekshirish",
+  "diabetik oyoq xonasi"
+ ],
+ "what": "Shifokor oyoq kaftlarini ko‘radi va ular teginish, tebranish va haroratni yaxshi sezishini tekshiradi. Bu yaralarni o‘tkazib yubormaslikka yordam beradi.",
+ "why": "Diabet bilan og‘rigan hammaga — odatda yilda bir marta, oyoq kaftlarida muammo bo‘lsa — tez-tez.",
+ "duration": "odatda 15–30 daqiqa, xulosa darhol",
+ "tell_doctor": [
+  "Oyoqlarda uvishish, achishish, chumoli yurishi bormi",
+  "Uzoq bitmaydigan qadoqlar, yoriqlar, yaralar",
+  "Yurganda oyoqlardagi og‘riqlar",
+  "Diabetga qarshi qanday dorilar ichayotganingizni",
+  "Chekasizmi"
+ ],
+ "prepare": [
+  {
+   "title": "Poyabzal",
+   "text": "O‘zingizning odatdagi poyabzal va paypog‘ingizda keling — shifokor ularni ham ko‘radi."
+  },
+  {
+   "title": "Oyoqlar",
+   "text": "Bir kun oldin tirnoqlarni juda qisqa olmang, qadoqlarni o‘zingiz kesmang."
+  },
+  {
+   "title": "Qand",
+   "text": "Qand darajasi yozuvlarini yoki glikirlangan gemoglobin tahlili natijalarini olib keling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Qand kundaligi va oxirgi tahlillar",
+  "Odatda kiyadigan poyabzalingiz"
+ ],
+ "steps": [
+  "Poyabzal va paypoqni yechasiz",
+  "Shifokor terini, tirnoqlarni va barmoqlar orasini ko‘radi",
+  "Oyoq kaftlariga ingichka tola bilan tegadi — qayerda sezayotganingizni aytasiz",
+  "Tebranishni tekshirish uchun kamerton qo‘yadi",
+  "Oyoq kaftlaridagi pulsni tekshiradi",
+  "Oyoqlarni qanday parvarish qilishni tushuntiradi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "Teginishlar yengil, ba’zan qitiqlaydi"
+ ],
+ "after": [
+  "Oyoq kaftlaringizni uyda har kuni ko‘zgu bilan ko‘rib turing",
+  "Yalangoyoq yurmang",
+  "Ishqalamaydigan qulay poyabzal kiying",
+  "Takroriy ko‘rik — shifokor belgilagan muddatda"
+ ],
+ "red_flags": [
+  "Oyoq kaftidagi o‘tmaydigan yara, chaqa yoki qizarish — zudlik bilan shifokorga",
+  "Oyoq qoraygan, qattiq shishgan, tegib ko‘rilsa issiq — zudlik bilan shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Hech narsa og‘rimasa, nega oyoqni tekshirish kerak?",
+   "a": "Diabetda sezuvchanlik sezdirmay pasayadi. Yarani sezmay qolish mumkin."
+  },
+  {
+   "q": "Qadoqlarni o‘zim kesib olsam bo‘ladimi?",
+   "a": "Kesmaganingiz ma’qul. Buni oyoq parvarishi mutaxassisi qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga oyoq kaftlari ko‘rigi. Odatdagi poyabzalda keling va qand kundaligini oling."
+  }
+ ]
+}

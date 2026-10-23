@@ -1,0 +1,74 @@
+{
+ "title": "Tish kanallarini qayta davolash",
+ "also": [
+  "kanallarni takroriy davolash",
+  "tishni qayta davolash",
+  "kanal plombasini olib tashlash"
+ ],
+ "what": "Shifokor avval davolangan tishni ochadi, kanallardagi eski plombani olib tashlaydi, ularni tozalaydi va qaytadan plombalaydi.",
+ "why": "Oldingi davodan keyin tish og‘riganda, rasmda ildiz yonida yallig‘lanish bo‘lganda yoki kanallari yomon plombalangan tishga qoplama kerak bo‘lganda.",
+ "duration": "odatda 1–2 soat, ko‘pincha 2–3 tashrifda",
+ "tell_doctor": [
+  "Tish avval qachon va qayerda davolangan, bilsangiz",
+  "Tish og‘riyaptimi, shish bo‘lganmi",
+  "Allergiyalar, ayniqsa og‘riqsizlantiruvchi va antibiotiklarga",
+  "Kasalliklar va dorilar, ayniqsa qonni suyultiruvchilar",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Rasmlar",
+   "text": "Odatda tishning yangi rasmi yoki 3D rasmi kerak bo‘ladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Qabuldan 1–2 soat oldin ovqatlaning."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tishning eski rasmlari, agar bo‘lsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Og‘riqsizlantirishadi",
+  "Tishni so‘lakdan rezina plastinka bilan ajratishadi",
+  "Eski plomba yoki qoplamani olishadi",
+  "Kanallardan eski materialni chiqarishadi",
+  "Kanallarni tozalab, yuvishadi",
+  "Ba’zan keyingi tashrifgacha dori qo‘yishadi",
+  "Kanallarni plombalab, tishni vaqtincha yoki doimiy plomba bilan yopishadi"
+ ],
+ "feel": [
+  "Og‘riqsizlantirish ostida: bosim va tebranish",
+  "Og‘izni uzoq ochib turish charchatadi",
+  "Keyin tish bir necha kun zirqirashi mumkin"
+ ],
+ "after": [
+  "Vaqtinchalik plomba turganda shu tomonda chaynamang",
+  "Og‘riq qoldiruvchi shifokor tavsiyasi bo‘yicha",
+  "Belgilangan barcha tashriflarga keling",
+  "Davodan keyin tishga odatda qoplama yoki vkladka qo‘yiladi: shifokor aytadi"
+ ],
+ "red_flags": [
+  "Yonoq yoki milkda shish",
+  "Kuchayib boruvchi kuchli og‘riq",
+  "Yuz shishishi bilan harorat 38 dan yuqori"
+ ],
+ "faq": [
+  {
+   "q": "Nega tishni qaytadan davolash kerak?",
+   "a": "Ba’zan kanallarda infeksiya qoladi yoki plomba zich bo‘lmaydi. Shunda ildiz yonida yallig‘lanish paydo bo‘ladi."
+  },
+  {
+   "q": "Og‘rimasa, davolamasa bo‘ladimi?",
+   "a": "Yallig‘lanish og‘riqsiz ham kechishi mumkin. Qarorni shifokor bilan birga qabul qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga tish kanallarini davolash. Qabuldan 1–2 soat oldin ovqatlaning va eski rasmlarni oling."
+  }
+ ]
+}

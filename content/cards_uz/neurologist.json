@@ -1,0 +1,67 @@
+{
+ "title": "Nevrolog qabuli",
+ "also": [
+  "nevrolog",
+  "nevropatolog",
+  "asab shifokori"
+ ],
+ "what": "Asab tizimini davolaydigan shifokor: bosh va orqa miya, nervlar. So‘raydi, reflekslar, kuch va sezgirlikni tekshiradi.",
+ "why": "Bosh og‘rig‘i, bosh aylanishi, orqa va bo‘yin og‘rig‘i, uvishish, tutqanoq, uyqu va xotira buzilishlarida.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Nima bezovta qiladi, qachondan beri va nima yordam beradi",
+  "Bosh va orqaga jarohatlar bo‘lganmi",
+  "Qanday dorilar ichasiz",
+  "Yuqori qon bosimi, diabet",
+  "Qarindoshlarda asab tizimi kasalliklari"
+ ],
+ "prepare": [
+  {
+   "title": "Kundalik",
+   "text": "Bosh og‘rig‘ida bir necha kun yozib boring: qachon og‘riydi, qanchalik kuchli va nima yordam beradi."
+  },
+  {
+   "title": "Suratlar",
+   "text": "MRT, KT, EEG va ularning xulosalari bo‘lsa, oling."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Oldingi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarning o‘zi"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar haqida so‘raydi",
+  "Reflekslarni bolg‘acha bilan tekshiradi",
+  "Oddiy harakatlarni bajarishni so‘raydi: ko‘zni yumish, burunga tegish, yurib ko‘rish",
+  "Qo‘l va oyoqlarda kuch va sezgirlikni tekshiradi",
+  "Keyin nima bo‘lishini tushuntiradi: davolash yoki tekshiruv"
+ ],
+ "feel": [
+  "Noxush narsa yo‘q — bolg‘acha bilan urish og‘rimaydi",
+  "Ba’zan sezgirlik yengil chuqurchalar bilan tekshiriladi"
+ ],
+ "after": [
+  "Shifokor MRT, EEG yoki tahlillar buyurishi mumkin",
+  "Buyurilganlarni o‘zingiz o‘zgartirmang — savollarni shifokorga bering"
+ ],
+ "red_flags": [
+  "Yuzning qiyshayishi, qo‘l yoki oyoqda zaiflik, nutqning buzilishi, birdan juda kuchli bosh og‘rig‘i — qabulni kutmang, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Nega bolg‘acha bilan uriladi?",
+   "a": "Shunday reflekslar tekshiriladi — bu nervlar qanday ishlayotganini ko‘rsatadi."
+  },
+  {
+   "q": "Qabuldan oldin MRT kerakmi?",
+   "a": "Odatda yo‘q. Kerak yoki kerak emasligini shifokorning o‘zi hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga nevrolog qabuli. Suratlar, xulosalar va dorilar ro‘yxatini oling."
+  }
+ ]
+}

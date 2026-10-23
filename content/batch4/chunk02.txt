@@ -1,0 +1,29 @@
+us_soft|us|УЗИ мягких тканей|Soft tissue ultrasound|us_room|L|2
+us_pleura|us|УЗИ плевральной полости|Pleural ultrasound|us_room|L|3
+us_follicle|us|Фолликулометрия|Follicle tracking ultrasound|us_room|L|2
+us_cervix|us|УЗИ шейки матки при беременности (цервикометрия)|Cervical length ultrasound in pregnancy|us_room|L|2
+us_doppler_preg|us|Допплер при беременности|Pregnancy Doppler ultrasound|us_room|L|2
+us_preg3|us|УЗИ в третьем триместре|Third-trimester ultrasound|us_room|L|1
+us_kids_abd|us|УЗИ живота у ребёнка|Abdominal ultrasound in a child|us_room|L|1
+us_heart_kids|us|УЗИ сердца у ребёнка|Heart ultrasound in a child|us_room|L|2
+us_kidney_vessels|us|УЗИ сосудов почек|Renal artery ultrasound|us_room|L|3
+us_head_neck_vessels|us|Дуплекс сосудов головы и шеи|Head and neck vessel duplex|us_room|L|2
+us_tcd|us|Транскраниальная допплерография|Transcranial Doppler|us_room|L|3
+us_penis|us|Допплер сосудов полового члена|Penile Doppler ultrasound|us_room|L|3
+us_abd_aorta|us|УЗИ брюшной аорты|Abdominal aorta ultrasound|us_room|L|3
+tee|us|Чреспищеводная ЭхоКГ|Transoesophageal echocardiogram|endo_room|M|3
+stress_echo|us|Стресс-ЭхоКГ|Stress echocardiogram|func_treadmill|M|3
+ecg_kids|func|ЭКГ у ребёнка|ECG in a child|func_room|L|1
+holter_bp_kids|func|Суточный мониторинг давления у подростка|24-hour blood pressure in teens|func_room|L|3
+reg|func|Реоэнцефалография (РЭГ)|Rheoencephalography (REG)|func_room|L|3
+eeg_video|func|Видео-ЭЭГ мониторинг|Video EEG monitoring|func_room|L|3
+eeg_kids|func|ЭЭГ у ребёнка|EEG in a child|func_room|L|2
+evoked|func|Вызванные потенциалы|Evoked potentials test|func_room|L|3
+spiro_test|func|Спирометрия с бронхолитиком|Spirometry with bronchodilator|func_room|L|2
+bodyplet|func|Бодиплетизмография|Body plethysmography|func_room|L|3
+dlco|func|Диффузионный тест лёгких|Lung diffusion test (DLCO)|func_room|L|3
+pulse_ox|func|Пульсоксиметрия ночная|Overnight pulse oximetry|home|L|3
+abi|func|Лодыжечно-плечевой индекс|Ankle-brachial index|func_room|L|3
+tilt|func|Тилт-тест|Tilt table test|func_room|M|3
+ph_metry|func|Суточная pH-метрия|24-hour pH monitoring|endo_room|M|3
+manometry|func|Манометрия пищевода|Oesophageal manometry|endo_room|M|3

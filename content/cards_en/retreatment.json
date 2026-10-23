@@ -1,0 +1,75 @@
+{
+ "title": "Root canal retreatment",
+ "also": [
+  "root canal retreatment",
+  "redo root canal",
+  "repeat root canal",
+  "re-treating a tooth"
+ ],
+ "what": "The dentist opens a tooth that was treated before, removes the old filling from the canals, cleans them and fills them again.",
+ "why": "When a tooth hurts after earlier treatment, there is inflammation at the root on the X-ray, or a crown is needed on a tooth with poorly filled canals.",
+ "duration": "usually 1 to 2 hours, often in 2 to 3 visits",
+ "tell_doctor": [
+  "When and where the tooth was treated before, if you know",
+  "Whether the tooth hurts and whether there was swelling",
+  "Allergies, especially to anesthetics and antibiotics",
+  "Illnesses and medicines, especially blood thinners",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "X-rays",
+   "text": "A fresh X-ray or 3D scan of the tooth is usually needed."
+  },
+  {
+   "title": "Food",
+   "text": "Eat 1 to 2 hours before the visit."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Old X-rays of the tooth, if you have them",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "Numbing is given",
+  "The tooth is kept dry with a rubber sheet",
+  "The old filling or crown is removed",
+  "The old material is taken out of the canals",
+  "The canals are cleaned and rinsed",
+  "Sometimes medicine is placed until the next visit",
+  "The canals are filled and the tooth is closed with a temporary or permanent filling"
+ ],
+ "feel": [
+  "With numbing, pressure and vibration",
+  "Keeping your mouth open for long is tiring",
+  "Afterward the tooth may ache for a few days"
+ ],
+ "after": [
+  "Do not chew on this side while the temporary filling is in",
+  "Take pain relief as the doctor recommends",
+  "Come to all the visits you were given",
+  "After treatment the tooth is usually covered with a crown or inlay. The doctor will tell you"
+ ],
+ "red_flags": [
+  "Swelling of the cheek or gum",
+  "Severe pain that keeps getting worse",
+  "Fever above 38 with a swollen face"
+ ],
+ "faq": [
+  {
+   "q": "Why does the tooth need treatment again?",
+   "a": "Sometimes infection stays in the canals or the filling is not tight. Then inflammation develops at the root."
+  },
+  {
+   "q": "Can I leave it if it doesn't hurt?",
+   "a": "Inflammation can go on without pain. Make the decision together with the doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Root canal treatment tomorrow. Eat 1 to 2 hours before the visit and bring your old X-rays."
+  }
+ ]
+}

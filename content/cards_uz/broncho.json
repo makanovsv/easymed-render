@@ -1,0 +1,87 @@
+{
+ "title": "Bronxoskopiya",
+ "also": [
+  "FBS",
+  "fibrobronxoskopiya",
+  "videobronxoskopiya"
+ ],
+ "what": "Shifokor nafas yo‘llarini ichkaridan kamerali ingichka egiluvchan naycha bilan ko‘radi. U burun yoki og‘iz orqali kiritiladi. Bronxlardan tahlil olish mumkin.",
+ "why": "Uzoq yo‘talda, balg‘amda qon bo‘lganda, o‘pka suratidagi o‘zgarishlarda, tez-tez yallig‘lanish sababini topish uchun, shilimshiqni olib tashlash uchun.",
+ "duration": "odatda 15–30 daqiqa, keyin yana 1–2 soat kuzatuv",
+ "tell_doctor": [
+  "Qonni suyultiradigan dorilar — biror narsani o‘zgartirish kerakmi, shifokor aytadi",
+  "Og‘riqsizlantiruvchilarga, ayniqsa lidokainga allergiya",
+  "Astma, yurak kasalliklari, diabet",
+  "Homilador bo‘lsangiz",
+  "Uyqu holatida xohlasangiz — sedatsiya qilinishini aniqlang"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda protseduradan 6–8 soat ovqat yemaslik va 2–4 soat ichmaslik kerak. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Ertalabki dorilarni odatda bir ho‘plam suv bilan ichishadi. Qon yoki diabet uchun preparatlar ichsangiz — shifokorga ayting, u hal qiladi."
+  },
+  {
+   "title": "Chekish",
+   "text": "Protsedura kuni chekmang."
+  },
+  {
+   "title": "Kirishdan oldin",
+   "text": "Olinadigan tish protezlari, ko‘zoynak va taqinchoqlarni yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "O‘pka suratlari va KT — disk va xulosa",
+  "Astma bo‘lsa, ingalyator",
+  "Protsedura sedatsiya bilan bo‘lsa — hamroh"
+ ],
+ "steps": [
+  "Venaga kateter qo‘yiladi va barmoqqa datchik taqiladi",
+  "Tomoq va burunga og‘riqsizlantiruvchi sepiladi — til va tomoq uvishadi",
+  "Sedatsiya bilan bo‘lsa — dori kiritiladi, siz uxlab qolasiz",
+  "Shifokor naychani burun yoki og‘iz orqali kiritib, bronxlarni ko‘radi",
+  "Kerak bo‘lsa — to‘qima bo‘lagi olinadi yoki bronx yuviladi",
+  "Naycha olinadi, 1–2 soat kuzatuv ostida bo‘lasiz"
+ ],
+ "feel": [
+  "Sedatsiyasiz — yo‘talish istagi va tomoqda bo‘lak hissi",
+  "Nafas olsa bo‘ladi, naycha ingichka va havoga xalaqit bermaydi",
+  "Sedatsiya ostida — odatda hech narsani eslamaysiz"
+ ],
+ "after": [
+  "Tomoq uvishishi to‘xtamaguncha taxminan 2 soat ovqat yemang va ichmang — bo‘g‘ilib qolishingiz mumkin",
+  "Tomoq achishishi, bo‘g‘iqlik va yo‘tal 1–2 kunda o‘tadi",
+  "Biopsiyadan keyin dastlabki sutkada balg‘amda ozgina qon bo‘lishi mumkin",
+  "Sedatsiyadan keyin kun oxirigacha mashina haydamang",
+  "Biopsiya natijasi — odatda 1–2 haftada"
+ ],
+ "red_flags": [
+  "Kuchayib boruvchi nafas qisilishi, ko‘krak og‘rig‘i — darrov shifokorga yoki 103 ga",
+  "Yo‘talganda chiziqchalar emas, ko‘p qon",
+  "Harorat 38 dan yuqori, bir sutkadan ortiq"
+ ],
+ "faq": [
+  {
+   "q": "Bronxoskopiya paytida nafas olsa bo‘ladimi?",
+   "a": "Ha. Naycha ingichka, havo uning yonidan o‘tadi. Burun orqali sokin nafas oling."
+  },
+  {
+   "q": "Bronxoskopiya narkoz ostida qilinadimi?",
+   "a": "Ko‘pincha sedatsiya bilan qilinadi — mudrab yotasiz va protsedurani eslamaysiz. Klinikadan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bronxoskopiya. Odatda undan 6–8 soat oldin ovqat yemaslik kerak. O‘pka suratlarini va kerak bo‘lsa hamrohni oling."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "3 soatdan keyin bronxoskopiya. Odatda endi ichishmaydi. Chekmang."
+  }
+ ]
+}

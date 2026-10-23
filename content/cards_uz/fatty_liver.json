@@ -1,0 +1,74 @@
+{
+ "title": "Yog‘li gepatoz: gepatolog kuzatuvi",
+ "also": [
+  "yog‘li gepatoz",
+  "jigarning semirishi",
+  "jigarning yog‘li kasalligi",
+  "jigar steatozi"
+ ],
+ "what": "Bu jigarda ortiqcha yog‘ to‘planishi. Shifokor jigar zararlanmasligini kuzatadi va buni to‘g‘rilashga yordam beradi.",
+ "why": "UZIda jigarda yog‘ ko‘rilsa, jigar tahlillari yuqori bo‘lsa, ortiqcha vazn, diabet yoki yuqori xolesterin bo‘lsa.",
+ "duration": "qabul odatda 20–30 daqiqa, kuzatuv — oylar va yillar",
+ "tell_doctor": [
+  "Alkogolni qancha va qanchalik tez-tez ichasiz — rostini ayting",
+  "Qanday dorilar va qo‘shimchalar qabul qilasiz",
+  "Diabet, yuqori qon bosimi, xolesterin bormi",
+  "So‘nggi yillarda vazn qanday o‘zgargan"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Shifokor jigar sinamalari, qand va xolesterinni topshirishni so‘rashi mumkin. Odatda och qoringa."
+  },
+  {
+   "title": "Tekshiruvlar",
+   "text": "Jigarning avvalgi UZIlari va tahlillarini oling — shunda ahvol qanday o‘zgarayotgani ko‘rinadi."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Odatdagi haftada nima yeyishingizni yozib qo‘ysangiz bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "UZI va tahlillar natijalari",
+  "Dorilar va qo‘shimchalar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor ovqatlanish, alkogol va kasalliklar haqida so‘raydi",
+  "Vazn va bel aylanasini o‘lchaydi",
+  "Qorinni paypaslaydi",
+  "Tahlil va UZIni ko‘radi",
+  "Ba’zan jigar zichligini tekshirishga yo‘llaydi",
+  "Ovqatlanish, harakat va kuzatuv rejasini tuzadi"
+ ],
+ "feel": [
+  "Qabul og‘riqsiz",
+  "Qorinni paypaslash biroz noxush bo‘lishi mumkin"
+ ],
+ "after": [
+  "Asosiy davo — asta-sekin vaznni tushirish va harakat",
+  "Alkogolni shifokor odatda cheklashni yoki butunlay to‘xtatishni maslahat beradi",
+  "Tahlil va UZI nazorati — shifokor aytgan muddatlarda"
+ ],
+ "red_flags": [
+  "Teri yoki ko‘zning sarg‘ayishi, qonli qusish, qora axlat — 103 ga qo‘ng‘iroq qiling",
+  "O‘ng yonda kuchli og‘riq, qorinning kattalashishi — zudlik bilan shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Yog‘li gepatozni davolasa bo‘ladimi?",
+   "a": "Ko‘pincha ha. Vazn tushganda jigardagi yog‘ kamayadi."
+  },
+  {
+   "q": "Jigar uchun tabletkalar kerakmi?",
+   "a": "Shifokor hal qiladi. Davoning asosi — ovqatlanish, harakat va vazn."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga gepatolog qabuli. Jigarning avvalgi UZIlari va tahlillarini oling."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "title": "Nechiporenko bo‘yicha siydik tahlili",
+ "also": [
+  "Nechiporenko bo‘yicha siydik",
+  "Nechiporenko tahlili",
+  "siydikning o‘rta porsiyasi"
+ ],
+ "what": "Bu ertalabki siydik tahlili. Laboratoriyada undagi leykotsitlar, eritrotsitlar va silindrlar sanaladi.",
+ "why": "Siydikning umumiy tahlilida o‘zgarishlar topilsa, buyrak va siydik yo‘llari kasalliklarida, davolashni nazorat qilish uchun.",
+ "duration": "yig‘ish 5 daqiqa, natija odatda 1 kunda",
+ "tell_doctor": [
+  "Siydik haydovchi yoki antibiotik ichsangiz",
+  "Hozir hayz ketayotgan bo‘lsa",
+  "Yaqinda sistoskopiya qilingan yoki kateter qo‘yilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Bir kun oldin",
+   "text": "Odatda siydikni bo‘yaydigan mahsulotlarni — lavlagi, yorqin rezavorlarni yemang. Spirtli ichimlik va og‘ir mashg‘ulotsiz."
+  },
+  {
+   "title": "Hayz",
+   "text": "Hayz paytida tahlil odatda topshirilmaydi — keyinga suring. Shifokordan so‘rang."
+  },
+  {
+   "title": "Idish",
+   "text": "Dorixona yoki laboratoriyadan steril idish."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Siydikli idish",
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Ertalab uyqudan turgach, sovunsiz iliq suv bilan yuving",
+  "Dastlabki soniyalarda hojatxonaga siying",
+  "O‘rta porsiyani idishga yig‘ing",
+  "Qolganini yana hojatxonaga siying",
+  "Idishni yoping va 1–2 soat ichida laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Yoqimsiz hech narsa yo‘q"
+ ],
+ "after": [
+  "Natija odatda ertasi kuni",
+  "Davolovchi shifokor tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bu tahlil siydikning umumiy tahlilidan nimasi bilan farq qiladi?",
+   "a": "Bunda 1 ml siydikdagi hujayralar aniq sanaladi. Bu umumiy tahlil noaniq ko‘rsatadigan narsani ko‘rishga yordam beradi."
+  },
+  {
+   "q": "Nega aynan o‘rta porsiya kerak?",
+   "a": "Birinchi porsiyada teri va shilliq qavatdagi hujayralar yuvilib tushadi. O‘rta porsiya buyrak va siydik pufagida nima borligini aniqroq ko‘rsatadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga Nechiporenko bo‘yicha siydik tahlili. Ertalab o‘rta porsiyani steril idishga yig‘ing."
+  }
+ ]
+}

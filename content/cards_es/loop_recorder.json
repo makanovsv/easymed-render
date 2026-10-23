@@ -1,0 +1,77 @@
+{
+ "title": "Implante de un monitor de ritmo cardíaco",
+ "also": [
+  "grabador de asa",
+  "monitor de ECG implantable",
+  "monitor de ritmo bajo la piel",
+  "chip para registrar el ECG"
+ ],
+ "what": "Bajo la piel del pecho colocan un aparato pequeño, del tamaño de una memoria USB. Durante años registra el ritmo del corazón.",
+ "why": "Con desmayos o palpitaciones poco frecuentes que no se logran captar en un ECG común ni en un monitor de 24 horas.",
+ "duration": "el procedimiento normalmente dura de 15 a 30 minutos; el aparato funciona normalmente hasta varios años",
+ "tell_doctor": [
+  "Medicamentos, sobre todo los que adelgazan la sangre",
+  "Alergias, incluidas a los anestésicos",
+  "Con qué frecuencia te dan los episodios y cómo son",
+  "Enfermedades de la coagulación de la sangre"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes tomar un desayuno ligero; confírmalo en la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. El médico dirá qué tomar el día del procedimiento."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda que no apriete el pecho."
+  }
+ ],
+ "bring": [
+  "Identificación",
+  "La orden médica y ECG anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas en la mesa y limpian el pecho con antiséptico",
+  "Ponen una inyección de anestésico bajo la piel, en el lado izquierdo del pecho",
+  "El médico hace un corte pequeño",
+  "Introduce el aparato bajo la piel",
+  "Cierran el corte con un punto o con pegamento",
+  "Configuran el aparato y te explican cómo usarlo"
+ ],
+ "feel": [
+  "La inyección de anestésico dura unos segundos",
+  "Durante el procedimiento, presión sin dolor",
+  "Un par de días el sitio puede doler"
+ ],
+ "after": [
+  "Mantén el sitio seco hasta que el médico lo permita",
+  "Durante un episodio, presiona el botón del control, si tienes uno",
+  "Los datos se transmiten al médico; en la clínica te dirán con qué frecuencia",
+  "Cuando ya no se necesite, el aparato se retira con la misma sencillez"
+ ],
+ "red_flags": [
+  "Enrojecimiento, hinchazón, pus en el sitio del implante",
+  "Fiebre de más de 38",
+  "Desmayo, dolor fuerte en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo hacerme una resonancia con él?",
+   "a": "La mayoría de estos aparatos son compatibles con la resonancia bajo ciertas condiciones. Muestra la tarjeta del aparato antes del estudio."
+  },
+  {
+   "q": "¿El aparato trata el ritmo?",
+   "a": "No. Solo registra. Con el registro, el médico decide qué tratamiento hace falta."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen el monitor de ritmo cardíaco. Lleva tus documentos, ECG anteriores y la lista de medicamentos."
+  }
+ ]
+}

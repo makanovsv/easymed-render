@@ -1,0 +1,82 @@
+{
+ "title": "Ultrasonido de hígado con contraste",
+ "also": [
+  "ultrasonido con contraste",
+  "ecografía con contraste de hígado",
+  "CEUS",
+  "ultrasonido de hígado con microburbujas"
+ ],
+ "what": "Es un ultrasonido de hígado en el que se pone en la vena un contraste especial de burbujas de gas diminutas. Así el médico ve cómo la sangre llena las lesiones del hígado.",
+ "why": "Para saber qué es una lesión que encontraron en el hígado en un ultrasonido normal, una tomografía o una resonancia, o para el seguimiento después de un tratamiento del hígado.",
+ "duration": "normalmente de 20 a 40 minutos con la preparación; el resultado suele estar el mismo día",
+ "tell_doctor": [
+  "Tus alergias, sobre todo si antes tuviste reacciones al contraste",
+  "Enfermedades del corazón y los pulmones, sobre todo si empeoraron hace poco",
+  "Si estás embarazada o das pecho",
+  "Todos los medicamentos que tomas",
+  "Las imágenes anteriores del hígado: llévalas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente de 4 a 6 horas sin comer; puedes tomar agua sin gas. Pregunta en la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas."
+  },
+  {
+   "title": "Riñones",
+   "text": "Este contraste no daña los riñones; normalmente no hacen falta análisis de riñón. Pregunta en la clínica."
+  },
+  {
+   "title": "Tiempo",
+   "text": "Después del estudio normalmente te piden quedarte en la clínica unos 30 minutos."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Ultrasonidos, tomografías y resonancias anteriores del hígado",
+  "La lista de medicamentos",
+  "Pañuelos"
+ ],
+ "steps": [
+  "La enfermera te pone un catéter delgado en una vena del brazo",
+  "Te acuestas boca arriba y ponen gel en el abdomen",
+  "Primero el médico revisa el hígado con ultrasonido normal",
+  "Por el catéter ponen un poco de contraste",
+  "El médico observa la lesión varios minutos; a veces te pide aguantar la respiración",
+  "Quitan el catéter y ponen un algodón"
+ ],
+ "feel": [
+  "Un piquete breve al poner el catéter",
+  "Normalmente el contraste no se siente; a veces hay un poco de calor o un sabor raro",
+  "Rara vez, un leve dolor de cabeza o náuseas: díselo al médico"
+ ],
+ "after": [
+  "Normalmente te quedas en observación unos 30 minutos",
+  "Después puedes comer y volver a tus actividades",
+  "El resultado suele estar el mismo día",
+  "El plan a seguir lo verás con tu médico tratante"
+ ],
+ "red_flags": [
+  "Ronchas, comezón o hinchazón de la cara o los labios: díselo al médico de inmediato",
+  "Dificultad para respirar, dolor en el pecho o mucha debilidad: si ya estás en casa, llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Este contraste es igual al de la tomografía?",
+   "a": "No. No tiene yodo, sale con la respiración por los pulmones y no afecta los riñones."
+  },
+  {
+   "q": "¿Puede haber alergia a este contraste?",
+   "a": "Rara vez. Por eso te observan un rato en la clínica después del estudio."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu ultrasonido de hígado con contraste. No comas de 4 a 6 horas antes. Puedes tomar agua sin gas. Lleva tus imágenes anteriores."
+  }
+ ]
+}

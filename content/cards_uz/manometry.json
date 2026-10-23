@@ -1,0 +1,73 @@
+{
+ "title": "Qizilo‘ngach manometriyasi",
+ "also": [
+  "qizilo‘ngach manometriyasi",
+  "YuAM",
+  "yuqori aniqlikdagi manometriya",
+  "qizilo‘ngach harakatini tekshirish"
+ ],
+ "what": "Burun orqali qizilo‘ngachga datchikli ingichka zond kiritiladi. Siz suv ho‘playsiz, asbob esa qizilo‘ngach mushaklari qanday ishlashini o‘lchaydi.",
+ "why": "Yutish qiyin bo‘lganda, sababi noma’lum ko‘krak og‘rig‘ida, reflyuks operatsiyasidan oldin, pH-metriyadan oldin.",
+ "duration": "odatda 20–30 daqiqa, xulosa odatda bir necha kundan keyin",
+ "tell_doctor": [
+  "Barcha dorilarni — ba’zilari qizilo‘ngach ishiga ta’sir qiladi, shifokor ular bilan nima qilishni aytadi",
+  "Qizilo‘ngach va oshqozondagi operatsiyalar",
+  "Burun bilan muammolar, to‘siq qiyshiqligi",
+  "Qonni suyultiruvchi preparatlar"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda 6 soat yemaslik va ichmaslik kerak. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Qaysilarini o‘tkazib yuborishni oldindan shifokordan so‘rang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay, bo‘yinbog‘i tor bo‘lmagan."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi gastroskopiya xulosalari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Burun og‘riqsizlantiruvchi gel bilan ishlanadi",
+  "Ingichka zond burun orqali kiritiladi, siz ho‘playsiz",
+  "Siz yotasiz yoki o‘tirasiz va tinch nafas olasiz",
+  "Buyruq bo‘yicha kichik ho‘plam suv ichasiz — odatda o‘ntacha",
+  "Yozish paytida gapirish va ortiqcha yutinish mumkin emas",
+  "Zond bir necha soniyada olinadi"
+ ],
+ "feel": [
+  "Zond kiritilishi yoqimsiz: ko‘z yoshlanadi, qusgisi kelishi mumkin",
+  "Ho‘plamlar paytida — odatiy emas, lekin og‘rimaydi"
+ ],
+ "after": [
+  "Darrov yeb-ichsangiz bo‘ladi",
+  "Burun biroz achishishi mumkin",
+  "Xulosa odatda bir necha kundan keyin"
+ ],
+ "red_flags": [
+  "Burundan to‘xtamaydigan qon ketishi yoki ko‘krakda kuchli og‘riq — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Bu gastroskopiyaga o‘xshaydimi?",
+   "a": "Yo‘q. Zond ingichkaroq, burun orqali kiritiladi va ekranda hech narsa ko‘rsatmaydi — faqat bosimni o‘lchaydi."
+  },
+  {
+   "q": "Nega pH-metriyadan oldin qilishadi?",
+   "a": "Manometriya pH-metriya datchigini qayerga qo‘yishni aniq topishga yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga qizilo‘ngach manometriyasi. Klinika aytgan vaqt davomida yemang va ichmang. Dorilar ro‘yxatini oling."
+  }
+ ]
+}

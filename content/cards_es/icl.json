@@ -1,0 +1,86 @@
+{
+ "title": "Lente intraocular fáquico (ICL)",
+ "also": [
+  "ICL",
+  "lente fáquico",
+  "lente implantable en el ojo",
+  "lente en lugar de láser"
+ ],
+ "what": "El cirujano pone un lente delgado dentro del ojo y tu cristalino se queda. Así se corrige la miopía alta y otros problemas de la vista.",
+ "why": "Cuando necesitas corregir la vista y el láser no es una opción: miopía muy alta o córnea delgada.",
+ "duration": "la cirugía suele durar de 15 a 30 minutos por ojo; normalmente regresas a casa el mismo día",
+ "tell_doctor": [
+  "Todos tus medicamentos. El médico te dirá si hay que cambiar algo",
+  "Tus alergias",
+  "Si usas lentes de contacto",
+  "Si tuviste enfermedades o cirugías en los ojos",
+  "Si estás embarazada o das pecho"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Antes de la cirugía te hacen una revisión completa de los ojos. Los lentes de contacto se dejan antes; la clínica te dirá cuánto tiempo."
+  },
+  {
+   "title": "Comida",
+   "text": "Si te van a dar sedación, la clínica te dirá desde qué hora no comer."
+  },
+  {
+   "title": "Maquillaje",
+   "text": "Sin maquillaje ni crema en la cara el día de la cirugía."
+  },
+  {
+   "title": "Transporte",
+   "text": "Regresa a casa solo con un acompañante."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Los resultados de tus estudios",
+  "La lista de tus medicamentos",
+  "Lentes oscuros",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te ponen gotas para dilatar la pupila y de anestesia",
+  "A veces te dan un calmante por la vena",
+  "Sostienen los párpados con un separador",
+  "El cirujano hace un corte muy pequeño",
+  "Mete el lente doblado, que se abre dentro del ojo",
+  "Te tapan el ojo con un protector"
+ ],
+ "feel": [
+  "Durante la cirugía ves luz y sientes presión, pero no dolor",
+  "Después hay un poco de ardor y lagrimeo",
+  "La vista normalmente mejora desde los primeros días"
+ ],
+ "after": [
+  "Revisión normalmente al día siguiente",
+  "Gotas exactamente según las indicaciones",
+  "No te talles el ojo ni lo mojes por unos días",
+  "Sin alberca ni deporte hasta que lo permita el médico",
+  "El otro ojo normalmente se opera después"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el ojo, náuseas o vómito: ve al médico de inmediato",
+  "La vista empeora de repente",
+  "Pus o el ojo muy rojo",
+  "Dolor de cabeza fuerte con dolor en el ojo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede quitar el lente?",
+   "a": "Sí, si hace falta el lente se puede quitar o cambiar."
+  },
+  {
+   "q": "¿Se siente el lente en el ojo?",
+   "a": "No, normalmente no se siente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía ICL. Ven sin maquillaje y lleva lentes oscuros y un acompañante."
+  }
+ ]
+}

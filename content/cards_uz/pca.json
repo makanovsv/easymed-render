@@ -1,0 +1,77 @@
+{
+ "title": "Operatsiyadan keyin og‘riqsizlantirish (epidural kateter, nasos)",
+ "also": [
+  "epidural kateter",
+  "og‘riqsizlantiruvchi nasos",
+  "operatsiyadan keyin epidural",
+  "bemor nazorat qiladigan og‘riqsizlantirish",
+  "tugmali nasos"
+ ],
+ "what": "Operatsiyadan keyin og‘riq qoldiruvchi dori orqadagi ingichka naycha yoki venaga ulangan nasos orqali doimiy beriladi. Nasos bilan og‘riganda tugmani o‘zingiz bosasiz.",
+ "why": "Qorin, ko‘krak, bo‘g‘imlardagi katta operatsiyalardan keyin, oddiy ukol va tabletkalar yetmaganda.",
+ "duration": "odatda operatsiyadan keyin 1–3 kun, keyin tabletkalarga o‘tishadi",
+ "tell_doctor": [
+  "Og‘riq qoldiruvchilarga allergiyalar",
+  "Qonni suyultiruvchi dorilar — shifokor nimani va qachon to‘xtatishni aytadi",
+  "Umurtqa kasalliklari yoki orqada operatsiyalar",
+  "Kuchli og‘riq qoldiruvchilar avval ko‘ngil aynishi yoki chalkashlik keltirgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Suhbat",
+   "text": "Anesteziolog sizga qaysi og‘riqsizlantirish usuli mos ekanini oldindan aytadi."
+  },
+  {
+   "title": "Tugma",
+   "text": "Nasos bo‘lsa, tugmani qanday bosishni ko‘rsatishadi. Tushunarsiz bo‘lsa, so‘rang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ichayotgan hamma narsangizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Dorilar ro‘yxati",
+  "Kerak bo‘lsa ko‘zoynak — nasos tugmasi va ekranini ko‘rish uchun"
+ ],
+ "steps": [
+  "Epidural kateterni odatda operatsiyadan oldin qo‘yishadi",
+  "O‘tirasiz yoki yonboshlab yotasiz, orqa ukol bilan og‘riqsizlantiriladi",
+  "Orqaga ingichka naycha kiritiladi va plaster bilan yopishtiriladi",
+  "Nasos kateterga yoki venaga ulanadi",
+  "Og‘riganda tugmani bosasiz — nasos dorining bir portsiyasini beradi",
+  "Hamshiralar og‘riq, bosim va nafasni tekshirib turadi"
+ ],
+ "feel": [
+  "Og‘riq odatda ancha kam, lekin butunlay bo‘lmasligi har doim emas",
+  "Ba’zan oyoqlar uviydi yoki holsizlanadi, qichishish yoki ko‘ngil aynishi bo‘ladi",
+  "Ortiqcha olmaysiz: nasos xavfsiz dozadan ko‘p bermaydi"
+ ],
+ "after": [
+  "Kateter tez va deyarli og‘riqsiz olinadi",
+  "Og‘riqsizlantirish tabletkalar bilan davom ettiriladi",
+  "Og‘riq yana kuchaysa, hamshiraga ayting"
+ ],
+ "red_flags": [
+  "Kuchli uyquchanlik, uyg‘otish qiyin, nafas siyrak — darhol hamshirani chaqiring",
+  "Oyoqlar qimirlamaydi yoki orqa qattiq og‘riydi",
+  "Kateter joyida qizarish yoki suyuqlik oqishi",
+  "Harorat 38 dan yuqori"
+ ],
+ "faq": [
+  {
+   "q": "Qarindoshlar mening o‘rnimga tugmani bossa bo‘ladimi?",
+   "a": "Yo‘q. Tugmani faqat bemorning o‘zi bosadi — shunda nasos xavfsiz qoladi."
+  },
+  {
+   "q": "Og‘riq qoldiruvchiga ko‘nikib qolmaymanmi?",
+   "a": "Operatsiyadan keyin qisqa muddat ichilganda bu kam uchraydi. Shifokor dozani kuzatib boradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga operatsiya. Undan keyingi og‘riqsizlantirish haqida tushunarsiz narsa bo‘lsa, anesteziologdan so‘rang."
+  }
+ ]
+}

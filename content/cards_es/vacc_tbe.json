@@ -1,0 +1,72 @@
+{
+ "title": "Vacuna contra la encefalitis transmitida por garrapatas",
+ "also": [
+  "vacuna contra garrapatas",
+  "vacuna de la encefalitis por garrapatas",
+  "vacuna contra la encefalitis",
+  "vacuna contra la picadura de garrapata"
+ ],
+ "what": "Inyección de vacuna que protege de la encefalitis transmitida por garrapatas, una infección viral del cerebro que llevan las garrapatas. El esquema es de varias inyecciones.",
+ "why": "Para quienes viven o van al bosque y a la naturaleza en lugares donde hay esta enfermedad.",
+ "duration": "la inyección dura unos segundos; con la revisión, normalmente de 15 a 40 minutos; el esquema suele ser de 3 inyecciones y luego refuerzos",
+ "tell_doctor": [
+  "Si ahora estás enferma o enfermo o tienes fiebre",
+  "Alergias, sobre todo a la proteína del huevo, y reacciones a vacunas anteriores",
+  "Si estás embarazada",
+  "Cuándo piensas ir al bosque: hay esquemas más rápidos"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando estás sano. Antes de la inyección te revisarán."
+  },
+  {
+   "title": "Plazos",
+   "text": "Conviene empezar el esquema con tiempo, normalmente en invierno o a principios de primavera. Pregunta al médico."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, para descubrir el hombro con facilidad."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico o la enfermera te pregunta cómo te sientes y te mide la temperatura",
+  "Descubres el hombro",
+  "Limpian la piel y ponen la inyección",
+  "Se anota la vacuna en los documentos",
+  "Después de la inyección hay que quedarse sentado en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "Un pinchazo corto",
+  "A veces el lugar de la inyección duele 1 o 2 días",
+  "A veces dolor de cabeza, debilidad o una fiebre ligera"
+ ],
+ "after": [
+  "Quédate cerca del consultorio unos 30 minutos",
+  "Mejor no ir al bosque antes de 2 semanas después de la segunda inyección; confírmalo con el médico",
+  "Los refuerzos normalmente son cada algunos años: te dirán la fecha"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o la garganta, o sale sarpullido en todo el cuerpo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La vacuna protege de todas las enfermedades de las garrapatas?",
+   "a": "No, solo de la encefalitis. Revísate después de ir al bosque y usa repelente contra garrapatas."
+  },
+  {
+   "q": "¿Qué hago si me picó una garrapata?",
+   "a": "Quítala completa con cuidado o ve a urgencias. Dile al médico de la picadura."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna contra la encefalitis por garrapatas. Lleva tu cartilla de vacunación."
+  }
+ ]
+}

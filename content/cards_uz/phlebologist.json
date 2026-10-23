@@ -1,0 +1,76 @@
+{
+ "title": "Flebolog qabuli",
+ "also": [
+  "flebolog",
+  "venalar shifokori",
+  "varikoz",
+  "oyoq venalarini ko‘rik"
+ ],
+ "what": "Venalar shifokori oyoqlarni ko‘radi va odatda darhol venalar UZI sini qiladi. Bu venalar ahvoli qanday va davolash kerakmi, tushunishga yordam beradi.",
+ "why": "Tomir yulduzchalarida, bo‘rtib chiqqan venalarda, shishlar va oyoqlarda og‘irlikda, tunda tutqanoqlarda, tromboz o‘tkazgandan keyin.",
+ "duration": "odatda 20–40 daqiqa, venalar UZI sini qo‘shib, xulosa darhol",
+ "tell_doctor": [
+  "Venalar, shishlar, og‘irlik qachon paydo bo‘lgan",
+  "Sizda yoki qarindoshlarda tromboz bo‘lganmi",
+  "Gormonlar yoki qonni suyultiruvchi dorilar ichasizmi",
+  "Hozir homiladormisiz yoki rejalashtiryapsizmi",
+  "Venalarda operatsiyalar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Oyoqlar",
+   "text": "Qabul kuni oyoqlarga krem surtmang. Soqol olish shart emas."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Belgacha oson yechiladigan qulay kiyim."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Shishlar kunning ikkinchi yarmida yaxshiroq ko‘rinadi — qachon kelish yaxshiroq ekanini aniqlang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Oldingi venalar UZI lari",
+  "Dorilar ro‘yxati",
+  "Kiysangiz, kompression trikotaj"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar haqida so‘raydi",
+  "Oyoqlarni tik turgan holda ko‘radi",
+  "Venalar UZI sini qiladi — oyoq bo‘ylab gelli datchik yurgiziladi",
+  "UZI paytida ba’zan zo‘riqish yoki yo‘talishni so‘raydi",
+  "Natijani tushuntiradi",
+  "Davolashni taklif qiladi: trikotaj, dorilar yoki muolajalar"
+ ],
+ "feel": [
+  "Ko‘rik va UZI og‘riqsiz",
+  "Gel sovuq"
+ ],
+ "after": [
+  "Trikotaj buyurilgan bo‘lsa — shifokor aytganidek kiying",
+  "Ko‘proq yuring, uzoq qimirlamay o‘tirmang",
+  "Takroriy ko‘rik — shifokor aytgan muddatda"
+ ],
+ "red_flags": [
+  "Oyoq birdan shishdi, og‘riyapti va qizardi — shoshilinch shifokorga",
+  "Birdan nafas qisilishi yoki ko‘krak og‘rig‘i — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Oyoqdagi yulduzchalar xavflimi?",
+   "a": "Ko‘pincha bu kosmetik muammo. Lekin venalarni tekshirgan ma’qul."
+  },
+  {
+   "q": "Varikozni albatta operatsiya qilish kerakmi?",
+   "a": "Har doim emas. Kichik muolajalar va konservativ davolash bor — shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga flebolog qabuli. Oyoqlarga krem surtmang va oldingi venalar UZI larini oling."
+  }
+ ]
+}

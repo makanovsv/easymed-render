@@ -1,0 +1,71 @@
+{
+ "title": "Elaynerlar (tishni tekislovchi kappalar)",
+ "also": [
+  "elaynerlar",
+  "tishni tekislash kappalari",
+  "shaffof kappalar",
+  "breketsiz tekislash"
+ ],
+ "what": "Elaynerlar — tishlarni asta-sekin siljitadigan shaffof kappalar. Har 1–2 haftada yangi kappa kiyiladi.",
+ "why": "Kattalar va o‘smirlarda notekis tishlar va tishlam nuqsonini tuzatish uchun, agar shifokor kappalar mos keladi deb hisoblasa.",
+ "duration": "davo odatda bir necha oydan 1–2 yilgacha; kappalar sutkasiga 20–22 soat taqiladi",
+ "tell_doctor": [
+  "Og‘riyotgan tish va milklar",
+  "Tish g‘ijirlatasizmi",
+  "Oldin breket taqqanmisiz",
+  "Allergiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "Davo",
+   "text": "Avval kariyes va milklar davolanadi, tish tozalanadi."
+  },
+  {
+   "title": "Suratlar",
+   "text": "Odatda barcha tishlarning surati kerak, ba’zan kompyuter tomografiya."
+  },
+  {
+   "title": "Qat’iyat",
+   "text": "Kappalar faqat deyarli doim taqilganda ishlaydi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tish suratlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Ortodont shifokor tishlarni ko‘rib, suratlarni buyuradi",
+  "Tishlar skanerlanadi yoki qolip olinadi",
+  "Kompyuter tishlar harakati rejasini ko‘rsatadi",
+  "Ba’zan tishlarga kappani ushlab turish uchun kichik do‘ngchalar yopishtiriladi",
+  "Dastlabki kappalar beriladi va ularni kiyishni o‘rgatishadi",
+  "Yangi kappalar — har 1–2 haftada, shifokor qabuli — jadval bo‘yicha"
+ ],
+ "feel": [
+  "Har bir yangi kappa dastlabki 1–2 kun bosadi",
+  "Dastlabki kunlarda nutq biroz o‘zgarishi mumkin"
+ ],
+ "after": [
+  "Kappalarni faqat ovqatlanish va tish yuvish uchun yeching",
+  "Ovqatdan keyin tishni yuving, keyin kappalarni kiying",
+  "Kappalarda faqat suv iching",
+  "Davodan keyin tishlar qaytib ketmasligi uchun retayner kerak"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Kappalarni kunga yechib qo‘ysa bo‘ladimi?",
+   "a": "Yo‘q. 20–22 soatdan kam taqsangiz, tishlar yomonroq siljiydi va davo cho‘zilib ketadi."
+  },
+  {
+   "q": "Kappalar bilinadimi?",
+   "a": "Deyarli yo‘q. Atrofdagilar odatda ularni ko‘rmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ortodont qabuli. Tishlaringizni yuving va agar kiyayotgan bo‘lsangiz, kappalarni oling."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Punção do seio maxilar",
+ "also": [
+  "punção do seio maxilar",
+  "punção na sinusite",
+  "lavagem do seio da face"
+ ],
+ "what": "O médico faz um furo com agulha fina pelo nariz até o seio da face e o lava. Assim, o pus sai.",
+ "why": "Na sinusite com pus, quando os remédios não resolvem, ou para colher material para análise.",
+ "duration": "normalmente de 10 a 20 minutos",
+ "tell_doctor": [
+  "Se toma remédios que afinam o sangue",
+  "Alergia a anestesia",
+  "Se está grávida",
+  "Se tem doença do coração ou pressão alta",
+  "Se já operou o nariz"
+ ],
+ "prepare": [
+  {
+   "title": "Exame de imagem",
+   "text": "Normalmente, antes, fazem radiografia ou tomografia dos seios da face."
+  },
+  {
+   "title": "Comida",
+   "text": "Pode fazer uma refeição leve antes."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare seus remédios por conta própria. Conte ao médico."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Exames de imagem dos seios da face",
+  "Lenços"
+ ],
+ "steps": [
+  "O médico anestesia o nariz com spray ou algodão",
+  "Você fica sentado, com a cabeça um pouco inclinada",
+  "Com uma agulha fina, fura a parede do seio",
+  "Pela agulha, lava o seio com uma solução",
+  "O líquido com pus escorre pelo nariz para uma bacia",
+  "A agulha é retirada"
+ ],
+ "feel": [
+  "A anestesia arde um pouco",
+  "Na hora do furo: um estalo e pressão",
+  "A lavagem dá sensação de pressão na bochecha"
+ ],
+ "after": [
+  "Um pouco de sangue no nariz normalmente passa rápido",
+  "Não assoe o nariz com força nas primeiras horas",
+  "Lavagens e remédios conforme o médico indicar"
+ ],
+ "red_flags": [
+  "Sangramento forte pelo nariz",
+  "Bochecha ou pálpebras inchadas, dor no olho",
+  "Febre acima de 38 graus depois do procedimento",
+  "Dor de cabeça forte ou vômito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Se fizer a punção uma vez, vou precisar sempre?",
+   "a": "Não. Isso é mito. A punção não vicia."
+  },
+  {
+   "q": "Dói?",
+   "a": "Com a anestesia, normalmente não dói, só incomoda."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a punção do seio da face. Leve os exames de imagem e lenços."
+  }
+ ]
+}

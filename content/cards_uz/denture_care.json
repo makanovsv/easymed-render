@@ -1,0 +1,73 @@
+{
+ "title": "Olinadigan protezni parvarish qilish",
+ "also": [
+  "protezni qanday parvarish qilish",
+  "olinadigan protezni tozalash",
+  "sun’iy jag‘ parvarishi"
+ ],
+ "what": "Olinadigan protezni tishlar kabi har kuni tozalash kerak. Uyda uni qanday parvarish qilishni bilib oling.",
+ "why": "To‘liq yoki qisman olinadigan protez taqadigan hamma uchun.",
+ "duration": "odatda ertalab va kechqurun 5 daqiqadan",
+ "tell_doctor": [
+  "Protez ishqalasa yoki milk og‘risa",
+  "Protez avvalgidan yomonroq ushlab tursa",
+  "Tozalansa ham ketmaydigan karash yoki hid paydo bo‘lsa",
+  "Protez yorilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Cho‘tka",
+   "text": "Protez uchun alohida cho‘tka yoki yumshoq tish cho‘tkasi."
+  },
+  {
+   "title": "Vosita",
+   "text": "Sovun yoki protez uchun maxsus pasta. Oddiy tish pastasi chizib qo‘yishi mumkin."
+  },
+  {
+   "title": "Joy",
+   "text": "Tozalashni suvli lavabo ustida yoki sochiq ustida qiling — tushirib yuborsangiz, sinmaydi."
+  }
+ ],
+ "bring": [
+  "Protez cho‘tkasi",
+  "Saqlash uchun quti",
+  "Tozalash vositasi"
+ ],
+ "steps": [
+  "Protezni yechib, suv bilan yuving",
+  "Protezni cho‘tka bilan har tomondan tozalang",
+  "O‘z tishlaringiz, milkingiz va tilingizni yumshoq cho‘tka bilan tozalang",
+  "Protezni yana bir bor yuving",
+  "Protezni taqing yoki suvli qutiga soling"
+ ],
+ "feel": [
+  "Parvarishga tez ko‘nikiladi",
+  "Protez yechilganda milk dam oladi"
+ ],
+ "after": [
+  "Har ovqatdan keyin protezni yuving",
+  "Protezni issiq suvga solmang — shakli buzilishi mumkin",
+  "Protezni qutisiz quruq holda saqlamang",
+  "Tish shifokoriga odatda yilda bir marta ko‘rining — protezni moslashtirish kerak bo‘lishi mumkin"
+ ],
+ "red_flags": [
+  "Milkdagi yara 1–2 haftadan ortiq bitmasa",
+  "Protez yorilgan yoki sinib qolgan bo‘lsa — o‘zingiz yopishtirmang"
+ ],
+ "faq": [
+  {
+   "q": "Protezni tish pastasi bilan tozalasa bo‘ladimi?",
+   "a": "Sovun yoki maxsus vosita yaxshiroq: oddiy pasta chizib qo‘yishi mumkin."
+  },
+  {
+   "q": "Nega protez yomonroq ushlab turadigan bo‘lib qoldi?",
+   "a": "Vaqt o‘tishi bilan milk va suyak o‘zgaradi. Shifokor protezni qayta moslashtirishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Uxlashdan oldin protezni tozalab, qutiga soling."
+  }
+ ]
+}

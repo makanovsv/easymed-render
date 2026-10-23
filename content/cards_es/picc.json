@@ -1,0 +1,79 @@
+{
+ "title": "Colocación de catéter PICC",
+ "also": [
+  "PICC",
+  "catéter PICC",
+  "catéter central de inserción periférica",
+  "catéter largo en el brazo"
+ ],
+ "what": "Por una vena del brazo se coloca un catéter largo y delgado, cuya punta llega a una vena grande cerca del corazón. Puede quedarse semanas o meses.",
+ "why": "Para tratamientos largos por la vena: quimioterapia, antibióticos, alimentación o análisis de sangre frecuentes.",
+ "duration": "la colocación suele durar de 30 a 60 minutos; el catéter se queda el tiempo que haga falta para el tratamiento",
+ "tell_doctor": [
+  "Medicamentos que adelgazan la sangre",
+  "Alergia a la anestesia local, a antisépticos o a esparadrapo",
+  "Cirugías en el pecho o la axila, o ganglios retirados de un lado",
+  "Si has tenido coágulos en las venas de los brazos",
+  "Enfermedades de los riñones: a veces influyen en la elección del brazo"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer como siempre. Confírmalo en la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. El médico te dirá qué hacer con los de la sangre."
+  },
+  {
+   "title": "Ropa",
+   "text": "De manga ancha o con botones."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Un documento de identidad",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas y te separan el brazo",
+  "La vena se encuentra con ultrasonido",
+  "Te limpian la piel y te ponen anestesia con una inyección",
+  "El médico o la enfermera mete el catéter en la vena y lo avanza hacia el corazón",
+  "Revisan la posición de la punta con un electrocardiograma o una radiografía",
+  "Fijan el catéter a la piel y lo cubren con un apósito transparente"
+ ],
+ "feel": [
+  "El pinchazo de la anestesia",
+  "Presión en el brazo al meter el catéter, normalmente sin dolor",
+  "Durante un par de días el brazo puede molestar un poco"
+ ],
+ "after": [
+  "El apósito se cambia normalmente una vez por semana y el catéter se lava, en la clínica o con una enfermera en casa",
+  "El apósito no debe mojarse: al bañarte cubre el brazo con plástico",
+  "Con ese brazo no cargues cosas pesadas ni nades",
+  "La presión y los análisis de sangre en ese brazo, solo según las reglas de la clínica"
+ ],
+ "red_flags": [
+  "Hinchazón, dolor o enrojecimiento del brazo, el cuello o la cara",
+  "Fiebre o escalofríos: llama al médico de inmediato",
+  "El catéter se salió, se rompió o gotea",
+  "Falta de aire repentina o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede hacer vida normal con un PICC?",
+   "a": "Sí, casi. No hay que mojar el apósito, nadar ni cargar cosas pesadas con ese brazo."
+  },
+  {
+   "q": "¿Duele quitarlo?",
+   "a": "Normalmente no. El catéter simplemente se jala hacia afuera y toma un minuto."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te colocan el catéter PICC. Usa ropa de manga ancha y lleva la lista de tus medicamentos."
+  }
+ ]
+}

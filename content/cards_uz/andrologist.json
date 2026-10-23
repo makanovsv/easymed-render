@@ -1,0 +1,71 @@
+{
+ "title": "Androlog qabuli",
+ "also": [
+  "androlog",
+  "erkaklar shifokori",
+  "androlog maslahati",
+  "erkaklar salomatligi bo‘yicha qabul"
+ ],
+ "what": "Androlog — erkaklar salomatligi shifokori. U potensiya, bepushtlik va gormonlar masalalarini hal qiladi.",
+ "why": "Erektsiya muammolarida, juftlik uzoq vaqt farzand ko‘ra olmasa, xaltachada og‘riqda yoki xohish pasayganda.",
+ "duration": "qabul odatda 20–40 daqiqa, tahlillar — 1–7 kunda",
+ "tell_doctor": [
+  "Aynan nima bezovta qiladi va qachondan beri",
+  "Qanday dorilar va qo‘shimchalar qabul qilasiz",
+  "Surunkali kasalliklar: diabet, bosim, yurak kasalliklari",
+  "Chov sohasidagi oldingi operatsiyalar va jarohatlar",
+  "Oldingi tahlillar natijalari, agar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Savollar",
+   "text": "Nimani so‘ramoqchi ekaningizni oldindan yozib qo‘ying. Qabulda unutish oson."
+  },
+  {
+   "title": "Gigiena",
+   "text": "Bir kun oldin oddiy dush. Maxsus tayyorgarlik odatda kerak emas."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Shifokor oldindan spermogramma buyurgan bo‘lsa, buning uchun bir necha kun saqlanish kerak — muddatni klinikadan aniqlang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Oldingi tahlillar va UZI natijalari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar, sog‘liq va turmush tarzi haqida so‘raydi",
+  "Jinsiy a’zolarni ko‘zdan kechiradi",
+  "Ba’zan prostata bezini to‘g‘ri ichak orqali tekshiradi",
+  "Darrov UZI qilishi mumkin",
+  "Tahlillarni buyuradi va rejani tushuntiradi"
+ ],
+ "feel": [
+  "Ko‘rik qisqa va odatda og‘riqsiz",
+  "Uyalish — normal, shifokor bunday savollarni har kuni ko‘radi"
+ ],
+ "after": [
+  "Buyurilgan tahlillarni topshiring",
+  "Qayta qabul — natijalar tayyor bo‘lganda",
+  "Davoni faqat shifokor natijalarga qarab buyuradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bunday narsalarni shifokor bilan muhokama qilish shartmi?",
+   "a": "Ha. Ko‘pchilik muammolar aytilsa hal bo‘ladi. Aytilgan hamma narsa tibbiy sir hisoblanadi."
+  },
+  {
+   "q": "Sherik bilan kelish kerakmi?",
+   "a": "Shart emas. Juftlik farzand rejalashtirayotgan bo‘lsa, shifokor ikkalangizni ham taklif qilishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga androlog qabuli. Oldingi tahlillar va dorilar ro‘yxatini oling, savollarni yozib qo‘ying."
+  }
+ ]
+}

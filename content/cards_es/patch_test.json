@@ -1,0 +1,81 @@
+{
+ "title": "Pruebas de parche para alergia",
+ "also": [
+  "prueba de parche",
+  "pruebas epicutáneas",
+  "prueba de alergia de contacto",
+  "parches en la espalda"
+ ],
+ "what": "En la espalda te pegan parches con pequeñas cantidades de sustancias que pueden dar alergia. A los 2 o 3 días revisan en dónde se puso roja la piel.",
+ "why": "Cuando las ronchas o el eccema salen por contacto: metales, cosméticos, tinte de cabello, guantes o sustancias del trabajo.",
+ "duration": "pegar los parches suele tomar de 15 a 30 minutos; los traes puestos unos 2 días; la revisión es el día 2 y el día 3 o 4",
+ "tell_doctor": [
+  "Qué medicamentos tomas, sobre todo corticoides en pastillas y medicamentos que bajan las defensas",
+  "Si en los últimos días te pusiste crema con corticoides en la espalda",
+  "Si hace poco te bronceaste o te quemaste con el sol en la espalda",
+  "Con qué trabajas y qué sospechas tú",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Piel de la espalda",
+   "text": "La espalda debe estar limpia, sin ronchas y sin bronceado. El día de la prueba no te pongas crema."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Algunos medicamentos interfieren con la prueba: el médico te dirá qué hacer y cuándo."
+  },
+  {
+   "title": "Agenda",
+   "text": "Planea 2 o 3 visitas en una semana y días sin ejercicio ni vapor."
+  },
+  {
+   "title": "Tus productos",
+   "text": "Si sospechas de tu cosmético o de algo del trabajo, pregúntale al médico si puedes llevarlo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de medicamentos",
+  "Tus productos, si el médico lo permitió",
+  "Una playera vieja: las marcas de plumón pueden manchar la ropa"
+ ],
+ "steps": [
+  "Te quitas la ropa de la cintura para arriba y te sientas de espaldas a la enfermera",
+  "Te pegan en la espalda parches con celdas de sustancias",
+  "Marcan las orillas de los parches con plumón",
+  "A los 2 días quitan los parches y revisan la piel",
+  "1 o 2 días después hacen una segunda revisión"
+ ],
+ "feel": [
+  "Los parches no duelen",
+  "Debajo puede dar comezón: no los toques ni los despegues",
+  "El enrojecimiento donde hubo reacción puede durar varios días"
+ ],
+ "after": [
+  "Mientras traigas los parches, no mojes la espalda: nada de regadera en la espalda, vapor ni ejercicio con sudor",
+  "No tomes el sol hasta que termine la prueba",
+  "Si un parche se despega, pégalo con cinta y avísale al médico",
+  "El resultado suele darse en la última revisión: a qué hay reacción y qué evitar"
+ ],
+ "red_flags": [
+  "Mucha comezón, ardor o ampollas debajo del parche: llama al médico; él te dirá si hay que quitarlo",
+  "Ronchas en todo el cuerpo, hinchazón o dificultad para respirar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Me puedo bañar durante la prueba?",
+   "a": "Puedes lavarte con cuidado los pies y el cabello inclinado sobre la tina, pero la espalda debe quedarse seca hasta el final."
+  },
+  {
+   "q": "¿En qué se diferencia de las pruebas con piquetes en el brazo?",
+   "a": "La prueba de parche busca alergia por contacto con la piel. Las del brazo buscan alergia rápida: a pólenes, polvo o pelo de animales."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te ponen las pruebas de parche. Hoy y mañana no te pongas crema en la espalda. Lleva una playera vieja."
+  }
+ ]
+}

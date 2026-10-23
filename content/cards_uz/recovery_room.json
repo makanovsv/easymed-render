@@ -1,0 +1,68 @@
+{
+ "title": "Narkozdan uyg‘onish",
+ "also": [
+  "uyg‘onish palatasi",
+  "narkozdan qanday chiqiladi",
+  "narkozdan chiqish",
+  "narkozdan keyin"
+ ],
+ "what": "Operatsiyadan keyin sizni uyg‘onish palatasiga olib borishadi. U yerda hamshiralar va shifokor nazorati ostida uyg‘onasiz.",
+ "why": "Narkoz yoki sedatsiya ostida o‘tgan har qanday operatsiya yoki muolajadan keyin.",
+ "duration": "odatda 30 daqiqadan 2 soatgacha, keyin palataga o‘tkazishadi yoki uyga javob berishadi",
+ "tell_doctor": [
+  "Avval narkozdan keyin kuchli ko‘ngil aynishi bo‘lgan bo‘lsa",
+  "Narkozdan keyin chalkashlik bo‘lgan bo‘lsa",
+  "Uyg‘onishdan keyin darhol ko‘zoynak yoki eshitish apparati kerakmi"
+ ],
+ "prepare": [
+  {
+   "title": "Oldindan",
+   "text": "Uyg‘onish palatasida qancha turishingizni va yaqinlaringizni qachon ko‘rish mumkinligini so‘rang."
+  },
+  {
+   "title": "Uyga",
+   "text": "Operatsiya ambulator bo‘lsa, sizni kim olib ketishini va birinchi sutkada yoningizda kim bo‘lishini kelishib oling."
+  }
+ ],
+ "bring": [
+  "Ko‘zoynak, eshitish apparati: xodimlarga bering",
+  "Yaqin odamingizning telefoni"
+ ],
+ "steps": [
+  "Siz uyg‘onasiz, sizga datchiklar va niqob yoki kislorod naychalari ulangan",
+  "Hamshira ahvolingizni so‘raydi, qon bosimi va nafasingizni kuzatadi",
+  "Og‘riyotgan yoki ko‘ngil ayniyotgan bo‘lsa, ayting: dori berishadi",
+  "To‘liq uyg‘onib, hammasi joyida bo‘lgach, palataga o‘tkazishadi yoki chiqarishga tayyorlashadi"
+ ],
+ "feel": [
+  "Uyquchanlik, og‘irlik, fikrlar chalkashishi",
+  "Og‘iz qurishi, ba’zan tomoqda achishish",
+  "Sovuq qotish, titroq yoki ko‘ngil aynishi bo‘lishi mumkin",
+  "Dastlabki soatlarni yaxshi eslamaysiz: bu tabiiy"
+ ],
+ "after": [
+  "Birinchi marta faqat xodimlar yordamida turing",
+  "Ichish va ovqatlanishni shifokor ruxsati bilan boshlashadi",
+  "Narkozdan keyin bir sutka rulga o‘tirmang va muhim qarorlar qabul qilmang"
+ ],
+ "red_flags": [
+  "Nafas olish qiyin yoki ko‘krakda og‘riq: darhol hamshiraga ayting",
+  "Uyda: kuchli uyquchanlik, uyg‘ota olmayapsiz: 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Nega narkozdan keyin titrayapman?",
+   "a": "Bu dorilardan va operatsiya xonasidagi sovuqdan bo‘ladi. Sizni yopib, isitishadi."
+  },
+  {
+   "q": "Qarindoshlarni qachon kiritishadi?",
+   "a": "Odatda palataga o‘tkazilgandan keyin. Qoidalar turlicha: klinikadan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga operatsiya. Sizni keyin kim kutib olishini kelishib oling. Ovqat va suv klinika aytgan vaqtgacha."
+  }
+ ]
+}

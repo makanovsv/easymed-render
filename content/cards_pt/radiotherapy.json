@@ -1,0 +1,79 @@
+{
+ "title": "Radioterapia: como é o tratamento",
+ "also": [
+  "radioterapia",
+  "radiação",
+  "sessões de radioterapia",
+  "rádio"
+ ],
+ "what": "O aparelho direciona raios calculados com precisão para o tumor. A sessão é curta e não dói, e o tratamento dura algumas semanas.",
+ "why": "Em doenças oncológicas, sozinha ou junto com cirurgia e quimioterapia.",
+ "duration": "a sessão leva normalmente 10 a 30 minutos, a radiação em si alguns minutos; o tratamento vai de alguns dias a 6 a 8 semanas",
+ "tell_doctor": [
+  "Marca-passo ou outros aparelhos no corpo",
+  "Gravidez ou se pode haver gravidez",
+  "Se já fez radioterapia antes",
+  "Todos os remédios, vitaminas e ervas",
+  "Se é difícil ficar parado ou numa só posição"
+ ],
+ "prepare": [
+  {
+   "title": "Marcação",
+   "text": "Antes do tratamento, fazem uma tomografia de planejamento e colocam marcas na pele. Não apague."
+  },
+  {
+   "title": "Pele",
+   "text": "Cuide da pele da área tratada como o médico orientar. Não passe seus cremes nessa área, se não liberarem."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa macia e larga, de algodão."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você troca de roupa e se deita na mesa",
+  "Colocam você na mesma posição pelas marcas, às vezes com máscara ou suporte",
+  "A equipe sai da sala, mas vê e ouve você",
+  "O aparelho se move em volta de você, às vezes faz um zumbido",
+  "A radiação dura alguns minutos",
+  "Depois da sessão você vai direto para casa"
+ ],
+ "feel": [
+  "Não se sente nada durante a sessão",
+  "Lá pela metade do tratamento, cansaço",
+  "A pele da área tratada pode ficar vermelha e descascar",
+  "Outras reações dependem do local tratado. O médico explica"
+ ],
+ "after": [
+  "Depois da radioterapia externa, você não emite radiação. Pode abraçar as crianças",
+  "Não falte às sessões sem combinar com o médico",
+  "Beba água, coma bem e descanse",
+  "Não esfregue, não aqueça e não tome sol na pele da área tratada"
+ ],
+ "red_flags": [
+  "Febre de 38 °C ou mais",
+  "Feridas abertas ou bolhas na pele da área tratada",
+  "Dor forte, vômito ou diarreia que impedem de comer e beber"
+ ],
+ "faq": [
+  {
+   "q": "Vou ficar radioativo depois da sessão?",
+   "a": "Não. Na radioterapia externa você não emite radiação e não é perigoso para a família."
+  },
+  {
+   "q": "Posso tomar banho?",
+   "a": "Normalmente sim, com água morna e sabonete suave. Não esfregue a área tratada. Confirme com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a sessão de radioterapia. Não apague as marcas da pele e use roupa macia."
+  }
+ ]
+}

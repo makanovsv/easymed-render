@@ -1,0 +1,81 @@
+{
+ "title": "Ko‘krak bilan boqish bo‘yicha maslahat",
+ "also": [
+  "KB",
+  "ko‘krak bilan boqish bo‘yicha maslahatchi",
+  "ko‘krak bilan qanday boqish kerak",
+  "laktatsion maslahatchi",
+  "boqish muammolari"
+ ],
+ "what": "Mutaxassis ko‘krak bilan boqishni yo‘lga qo‘yishga yordam beradi. Chaqaloqni to‘g‘ri qo‘yishni ko‘rsatadi va qiyinchiliklaringizni tahlil qiladi.",
+ "why": "So‘rg‘ichlarda og‘riq, yoriqlar, ko‘krak qattiqlashganda, sut kam bo‘lsa yoki chaqaloq vazn yomon olsa.",
+ "duration": "maslahat odatda 1–1,5 soat",
+ "tell_doctor": [
+  "Chaqaloq qanchalik tez-tez va qancha emadi",
+  "Kuniga nechta ho‘l taglik bo‘ladi",
+  "Ko‘krakdagi og‘riq, yoriqlar, qattiq joylar",
+  "Chaqaloqning tug‘ilgandagi va hozirgi vazni",
+  "Qanday dorilar qabul qilasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Chaqaloq tez orada ovqat istaydigan paytda kelgan qulay: mutaxassis ovqatlantirishni ko‘radi."
+  },
+  {
+   "title": "Yozuvlar",
+   "text": "1–2 kun chaqaloq qachon emgani va nechta taglik bo‘lganini yozib qo‘ying."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Oson ovqatlantirish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Chaqaloq",
+  "Ovqatlantirish va vazn yozuvlari",
+  "Yopinchiq va taglik",
+  "Sut so‘rgich yoki shisha, agar ishlatsangiz"
+ ],
+ "steps": [
+  "Mutaxassis tug‘ruq va ovqatlantirish haqida so‘raydi",
+  "Ko‘krak va so‘rg‘ichlarni ko‘radi",
+  "Chaqaloqning og‘zini va qanday emishini ko‘radi",
+  "Ovqatlantirishni kuzatadi",
+  "Qulay holatlar va to‘g‘ri tutishni ko‘rsatadi",
+  "Reja tuzadi: qanchalik tez-tez ovqatlantirish va keyin nima qilish"
+ ],
+ "feel": [
+  "Odatda hech qanday noxush narsa yo‘q",
+  "Ko‘krak og‘risa, ko‘rik sezgir bo‘lishi mumkin"
+ ],
+ "after": [
+  "Ko‘rsatilgan holatlar va tutishni sinab ko‘ring",
+  "Ho‘l taglik va chaqaloq vaznini kuzatib boring",
+  "Ko‘pincha bir necha kundan keyin takroriy tashrif yoki qo‘ng‘iroq kerak bo‘ladi"
+ ],
+ "red_flags": [
+  "Ko‘krak qizargan, issiq, og‘riydi, harorat 38 dan yuqori — shifokorga murojaat qiling",
+  "Chaqaloq lanj, kam siydik chiqaradi yoki ko‘krakni yomon oladi — shoshilinch pediatrga"
+ ],
+ "faq": [
+  {
+   "q": "Chaqaloqqa sut yetarli ekanini qanday tushunish mumkin?",
+   "a": "Ko‘p ho‘l taglik bo‘lsa va chaqaloq vazn olsa, odatda yetarli. Pediatr tekshiradi."
+  },
+  {
+   "q": "Ko‘krak bilan boqish og‘riqli bo‘lishi kerakmi?",
+   "a": "Yo‘q. Kuchli og‘riq ko‘pincha noto‘g‘ri tutishdan. Buni tuzatsa bo‘ladi."
+  },
+  {
+   "q": "Dori ichsam ham boqsa bo‘ladimi?",
+   "a": "Ko‘pincha bo‘ladi. Nima ichayotganingizni shifokorga ayting — u hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada ovqatlantirish bo‘yicha maslahat. Chaqaloq va ovqatlantirish yozuvlarini oling. U tez orada ochqaydigan vaqtda kelgan yaxshi."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Peak flow at home",
+ "also": [
+  "peak flow meter",
+  "peak expiratory flow",
+  "PEF",
+  "asthma diary"
+ ],
+ "what": "A peak flow meter is a small device you blow into hard. It shows how open your airways are right now.",
+ "why": "Mostly for asthma: to track your breathing at home and notice when it gets worse in time.",
+ "duration": "one measurement takes about a minute, usually morning and evening",
+ "tell_doctor": [
+  "Your personal best result. Your doctor uses it to set your normal range",
+  "How often you have attacks or wake up at night",
+  "Which inhalers you use, and when"
+ ],
+ "prepare": [
+  {
+   "title": "Timing",
+   "text": "It is usually measured morning and evening, at the same times. Your doctor will set the schedule."
+  },
+  {
+   "title": "Medicines",
+   "text": "It is usually measured before using your inhaler. Ask your doctor. Do not change your treatment on your own."
+  },
+  {
+   "title": "Diary",
+   "text": "Write your results in a notebook or an app."
+  }
+ ],
+ "bring": [
+  "Your peak flow meter",
+  "Your measurement diary",
+  "Your inhalers"
+ ],
+ "steps": [
+  "Set the meter's pointer to zero",
+  "Stand or sit up straight",
+  "Take a deep breath in",
+  "Seal your lips tightly around the mouthpiece",
+  "Blow out as hard and fast as you can",
+  "Repeat 3 times and write down the best result"
+ ],
+ "feel": [
+  "It does not hurt",
+  "Sometimes blowing hard causes a cough or slight dizziness"
+ ],
+ "after": [
+  "Compare your results with your normal range",
+  "Show your diary to the doctor at your visit",
+  "Your doctor may give you a plan: what to do when your results drop"
+ ],
+ "red_flags": [
+  "Your result has dropped a lot and the inhaler does not help: call emergency services",
+  "It is hard to talk, or your lips turn blue: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "What result is normal?",
+   "a": "Everyone's normal is different. It is based on your personal best. Your doctor will explain your zones."
+  },
+  {
+   "q": "How many times should I blow?",
+   "a": "Usually 3 times in a row. Write down the best one."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Remember to measure your peak flow in the morning and write it in your diary."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Oyoqdagi trofik yarani davolash",
+ "also": [
+  "trofik yara",
+  "vena yarasi",
+  "boldirdagi yara",
+  "oyoqdagi bitmaydigan yara"
+ ],
+ "what": "Bu boldirdagi uzoq bitmaydigan yara, ko‘pincha venalarning yomon ishlashidan. Davolash — bog‘lamlar va oyoqni siqish.",
+ "why": "Boldirdagi yaralar bir necha hafta bitmaganda.",
+ "duration": "bog‘lam odatda 20–40 daqiqa; davolash — haftalar va oylar",
+ "tell_doctor": [
+  "Qandli diabet",
+  "Arteriya kasalliklari, yurganda oyoq og‘rig‘i",
+  "Barcha dorilar",
+  "Malhamlarga, plastirga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Tekshiruv",
+   "text": "Sababini topish uchun odatda oyoq vena va arteriyalarining UTTsi qilinadi."
+  },
+  {
+   "title": "Siqish",
+   "text": "Bintlar yoki paypoqlar — asosiy davo. Ularni shifokor buyurganidek taqing."
+  },
+  {
+   "title": "Oyoqlar",
+   "text": "O‘tirganda yoki yotganda oyoqni balandroq ko‘taring."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va vena UTTsi",
+  "Siquvchi trikotaj, agar bo‘lsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Eski bog‘lam olinadi",
+  "Yara va uning atrofidagi teri yuviladi",
+  "Shifokor yarani baholaydi, ba’zan uni tozalaydi",
+  "Yaraga bog‘lam qo‘yiladi",
+  "Ustidan oyoq siquvchi bint bilan o‘raladi",
+  "Keyingi bog‘lam qachon ekani aytiladi"
+ ],
+ "feel": [
+  "Yarani tozalash yoqimsiz bo‘lishi mumkin",
+  "Siqish dastlabki kunlarda odatiy emas, keyin odatda yengillashadi",
+  "Bint kuchli siqib, oyoq uvishib qolsa — uni yechib, shifokorga qo‘ng‘iroq qiling"
+ ],
+ "after": [
+  "Yuring — bu venalarga yordam beradi",
+  "Bog‘lamni ho‘l qilmang",
+  "Dam olganda oyoqni ko‘tarib qo‘ying",
+  "Yara bitgandan keyin ham paypoq taqishda davom eting — shunda yara kamroq qaytadi"
+ ],
+ "red_flags": [
+  "Harorat, kengayib boruvchi qizarish",
+  "Bint ostida oyoq uvishdi, sovib qoldi yoki ko‘karib ketdi",
+  "Yaradan kuchli og‘riq yoki yoqimsiz hid"
+ ],
+ "faq": [
+  {
+   "q": "Nega oyoqni bog‘lash kerak?",
+   "a": "Siqish qonning venalar orqali oqib ketishiga yordam beradi. Usiz yara juda sekin bitadi."
+  },
+  {
+   "q": "Sababni yo‘qotish mumkinmi?",
+   "a": "Ba’zan ha — masalan, venalarni davolash orqali. Shifokor buni UTTdan keyin muhokama qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga oyoq bog‘lami. Vena UTTsi va siquvchi trikotajni oling."
+  }
+ ]
+}

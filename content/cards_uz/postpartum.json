@@ -1,0 +1,82 @@
+{
+ "title": "Tug‘ruqdan keyingi ko‘rik",
+ "also": [
+  "tug‘ruqdan keyingi ko‘rik",
+  "tug‘ruqdan keyingi tashrif",
+  "tug‘ruqdan keyin ginekologga tashrif",
+  "tug‘ruqdan 6 hafta o‘tgach ko‘rik"
+ ],
+ "what": "Tug‘ruqdan keyin ginekologga tashrif. Shifokor organizm qanday tiklanayotganini tekshiradi va savollaringizga javob beradi.",
+ "why": "Tug‘ruqdan keyin hammaga — odatda 6–8 haftadan keyin. Biror narsa bezovta qilsa, ertaroq.",
+ "duration": "qabul odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Hozir qanday ajralmalar va qanchalik ko‘p",
+  "Og‘riqlar, choklar bilan muammolar",
+  "Siydik sizishi yoki hojatxonada qiyinchiliklar",
+  "Kayfiyat: g‘am, xavotir, uyqusizlik — buni aytish muhim",
+  "Ko‘krak suti beryapsizmi va qanday dorilar ichasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Savollar",
+   "text": "Savollarni yozib qo‘ying: kontratsepsiya, jinsiy aloqa, sport, emizish."
+  },
+  {
+   "title": "Chaqaloq",
+   "text": "Chaqaloq bilan kelsa bo‘ladimi, aniqlang yoki u bilan kim qolishini kelishib oling."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Ba’zan qon yoki siydik tahlili kerak — shifokor aytadi."
+  }
+ ],
+ "bring": [
+  "Tug‘ruqxonadan ko‘chirma",
+  "Homilador kartasi",
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor ahvol va kayfiyatingiz haqida so‘raydi",
+  "Bosimni o‘lchaydi",
+  "Qorin va ko‘krakni ko‘radi",
+  "Kreslosida ko‘rik o‘tkazadi, choklar bo‘lgan bo‘lsa, tekshiradi",
+  "Kontratsepsiya va yuklamalarga qaytishni muhokama qiladi",
+  "Kerak bo‘lsa, yo‘llanmalar beradi"
+ ],
+ "feel": [
+  "Kreslosidagi ko‘rik noxush bo‘lishi mumkin, ayniqsa choklar bo‘lgan bo‘lsa",
+  "Odatda og‘rimaydi"
+ ],
+ "after": [
+  "Hammasi yaxshi bo‘lsa, shifokor jinsiy aloqa va sportga ruxsat beradi — asta-sekin",
+  "Kontratsepsiyani tanlang: ko‘krak bilan emizganda ham homilador bo‘lish mumkin",
+  "Chanoq tubi mushaklari uchun mashqlar tiklanishga yordam beradi"
+ ],
+ "red_flags": [
+  "Kuchli qon ketishi — prokladka bir soatda ho‘l bo‘lsa — tez yordamni chaqiring (103)",
+  "Harorat 38 dan yuqori, ajralmalarda yoqimsiz hid",
+  "Ko‘krakda og‘riq, qizarish va qattiqlashish harorat bilan",
+  "O‘zingizga yoki chaqaloqqa zarar yetkazish haqida fikrlar — darhol tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Tug‘ruqdan keyin qachon jinsiy aloqa qilsa bo‘ladi?",
+   "a": "Odatda ajralmalar tugab, shifokor ko‘rgandan keyin. Ko‘pincha taxminan 6 haftadan keyin."
+  },
+  {
+   "q": "Emizish paytida homilador bo‘lsa bo‘ladimi?",
+   "a": "Ha, bo‘ladi. Kontratsepsiyani oldindan o‘ylab, shifokor bilan muhokama qiling."
+  },
+  {
+   "q": "Menga doim g‘amgin. Bu normalmi?",
+   "a": "Dastlabki kunlari kayfiyat o‘zgarishlari bo‘ladi. G‘am 2 haftadan ko‘p davom etsa — shifokorga ayting, bu davolanadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga tug‘ruqdan keyingi ko‘rik. Tug‘ruqxonadan ko‘chirmani oling va shifokorga savollarni yozib qo‘ying."
+  }
+ ]
+}

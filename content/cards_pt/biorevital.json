@@ -1,0 +1,76 @@
+{
+ "title": "Biorrevitalização",
+ "also": [
+  "biorrevitalização",
+  "hidratação injetável",
+  "injeções de ácido hialurônico",
+  "hidratação profunda da pele"
+ ],
+ "what": "O médico faz muitas picadinhas na pele com ácido hialurônico. Ele hidrata a pele por dentro.",
+ "why": "Quando a pele está seca, sem brilho, com ruguinhas, depois de sol ou antes de um evento importante.",
+ "duration": "o procedimento leva normalmente 30 a 60 minutos; o ciclo normalmente tem várias sessões; o efeito aparece em alguns dias",
+ "tell_doctor": [
+  "Se você está grávida ou amamentando",
+  "Se toma remédios que afinam o sangue",
+  "Se tem herpes nos lábios às vezes",
+  "Alergias, principalmente a cremes anestésicos",
+  "Se fez há pouco tempo limpeza de pele, peeling ou outras injeções"
+ ],
+ "prepare": [
+  {
+   "title": "Na véspera",
+   "text": "Nos 1 a 2 dias antes, é melhor evitar álcool e sauna."
+  },
+  {
+   "title": "Pele",
+   "text": "Se há inflamação no rosto ou herpes nos lábios, normalmente o procedimento é adiado."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Lista de remédios, se toma algum sempre"
+ ],
+ "steps": [
+  "Tiram a maquiagem da pele",
+  "Passam um creme anestésico e esperam fazer efeito",
+  "Passam antisséptico na pele",
+  "O médico faz muitas picadinhas com uma agulha fina",
+  "No fim, passam um produto calmante"
+ ],
+ "feel": [
+  "Espetadas e ardência durante as picadas",
+  "Depois, carocinhos na pele, que normalmente passam em 1 a 2 dias",
+  "Às vezes vermelhidão e pequenas manchas roxas"
+ ],
+ "after": [
+  "No primeiro dia, não mexa no rosto com as mãos",
+  "Normalmente 1 a 2 dias sem maquiagem, sauna, piscina e esporte",
+  "Use protetor solar",
+  "A próxima sessão, no prazo que o médico marcar"
+ ],
+ "red_flags": [
+  "Inchaço, dor e vermelhidão fortes, piorando no 2º ou 3º dia",
+  "Pontinhos de pus ou pele quente nos locais das picadas",
+  "Inchaço no rosto ou nos lábios, dificuldade para respirar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Quanto tempo duram os carocinhos depois das picadas?",
+   "a": "Normalmente 1 a 2 dias. Se durarem mais, mostre ao médico."
+  },
+  {
+   "q": "Dói?",
+   "a": "Normalmente é suportável: antes das picadas se passa um creme anestésico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a biorrevitalização. Hoje, sem álcool e sem sauna. Vá sem maquiagem, se der."
+  }
+ ]
+}

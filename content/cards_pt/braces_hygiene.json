@@ -1,0 +1,74 @@
+{
+ "title": "Escovar os dentes com aparelho",
+ "also": [
+  "higiene com aparelho",
+  "como escovar com aparelho fixo",
+  "limpeza do aparelho"
+ ],
+ "what": "Com aparelho, a comida fica presa com mais facilidade, e os dentes precisam ser escovados com mais cuidado. Veja como fazer em casa todos os dias.",
+ "why": "Para todos que usam aparelho fixo, do primeiro dia até tirar.",
+ "duration": "normalmente 5 a 10 minutos de manhã e à noite",
+ "tell_doctor": [
+  "Se a gengiva sangra ou dói",
+  "Se um bráquete soltou ou o arco está machucando",
+  "Se apareceram manchas brancas nos dentes"
+ ],
+ "prepare": [
+  {
+   "title": "Escovas",
+   "text": "Escova ortodôntica com rebaixo e uma escovinha interdental para o espaço embaixo do arco."
+  },
+  {
+   "title": "Fio",
+   "text": "Fio dental com ponta rígida ou irrigador oral. Ajuda a limpar entre os dentes. Qual escolher, o dentista orienta."
+  },
+  {
+   "title": "Pasta",
+   "text": "Pasta comum com flúor, se o dentista não indicou outra."
+  }
+ ],
+ "bring": [
+  "Escova ortodôntica",
+  "Escovinhas interdentais",
+  "Fio dental ou irrigador",
+  "Espelho"
+ ],
+ "steps": [
+  "Enxágue a boca com água para tirar os restos de comida",
+  "Escove os dentes acima dos bráquetes, com a escova inclinada para baixo",
+  "Depois, abaixo dos bráquetes, com a escova inclinada para cima",
+  "Com a escovinha, passe embaixo do arco entre os bráquetes",
+  "Escove a parte de dentro dos dentes",
+  "Passe o fio ou o irrigador entre os dentes",
+  "Olhe no espelho se não ficou comida"
+ ],
+ "feel": [
+  "No começo demora, depois se acostuma",
+  "A gengiva pode sangrar um pouco nos primeiros dias. Com a escovação regular, passa"
+ ],
+ "after": [
+  "Escove depois de cada refeição, se der",
+  "Evite coisas duras e grudentas: castanhas, bala de caramelo, chiclete",
+  "Corte as frutas duras em pedaços",
+  "Limpeza profissional no dentista, conforme o calendário"
+ ],
+ "red_flags": [
+  "Um bráquete soltou ou o arco está machucando a bochecha: marque consulta"
+ ],
+ "faq": [
+  {
+   "q": "Posso usar escova elétrica?",
+   "a": "Pode, com uma ponta adequada. Mova devagar e com cuidado."
+  },
+  {
+   "q": "De onde vêm as manchas brancas nos dentes?",
+   "a": "Na maioria das vezes, de escovação ruim perto dos bráquetes. Avise o dentista o quanto antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Antes de dormir, escove os dentes com aparelho: escova, escovinha e fio."
+  }
+ ]
+}

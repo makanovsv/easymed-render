@@ -1,0 +1,75 @@
+{
+ "title": "Vida depois do infarto",
+ "also": [
+  "depois do infarto",
+  "reabilitação cardíaca",
+  "vida após infarto do miocárdio",
+  "recuperação do infarto"
+ ],
+ "what": "Depois do infarto, o coração se recupera em alguns meses. Remédios, atividade física e parar de fumar diminuem o risco de um novo infarto.",
+ "why": "Para todos que tiveram infarto e seus familiares.",
+ "duration": "a recuperação leva normalmente algumas semanas e meses",
+ "tell_doctor": [
+  "Se voltou a dor ou o aperto no peito",
+  "Se é difícil tomar os remédios ou há efeitos colaterais",
+  "Se você fuma",
+  "Quando pode voltar ao trabalho, a dirigir e ao sexo: pergunte ao médico"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Normalmente são receitados vários remédios por muito tempo. Tome todo dia; não pare por conta própria."
+  },
+  {
+   "title": "Reabilitação",
+   "text": "Pergunte sobre o programa de reabilitação cardíaca: lá ajudam a voltar ao esforço com segurança."
+  },
+  {
+   "title": "Remédio sublingual",
+   "text": "Pergunte ao médico se você precisa de um remédio para dor no peito e como tomar."
+  }
+ ],
+ "bring": [
+  "Relatório de alta do hospital",
+  "Lista de remédios",
+  "Diário de pressão e pulso"
+ ],
+ "steps": [
+  "Tome os remédios todo dia no mesmo horário",
+  "Comece com caminhadas curtas e aumente o esforço aos poucos",
+  "Pare de fumar totalmente",
+  "Coma menos sal e gordura e mais legumes e verduras",
+  "Meça a pressão e o pulso e anote",
+  "Vá a todas as consultas de controle"
+ ],
+ "feel": [
+  "Cansaço nas primeiras semanas é comum",
+  "Medo e ansiedade depois do infarto são uma reação normal; dá para falar disso com o médico"
+ ],
+ "after": [
+  "Exames de colesterol e glicose conforme o calendário do médico",
+  "A volta ao trabalho e ao esporte é decidida pelo médico",
+  "Ensine aos familiares como reconhecer um infarto"
+ ],
+ "red_flags": [
+  "Dor ou aperto no peito por mais de alguns minutos: ligue para a emergência",
+  "Dor que vai para o braço, a mandíbula ou as costas, com suor frio: ligue para a emergência",
+  "Falta de ar forte ou desmaio: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso ter relação sexual depois do infarto?",
+   "a": "Normalmente sim, quando o médico liberar o esforço. Pergunte diretamente a ele."
+  },
+  {
+   "q": "Por que não posso parar os comprimidos se estou bem?",
+   "a": "Eles protegem o coração e os vasos de um novo infarto. Estar bem não é motivo para parar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Hora dos remédios do coração. Depois, uma caminhada tranquila."
+  }
+ ]
+}

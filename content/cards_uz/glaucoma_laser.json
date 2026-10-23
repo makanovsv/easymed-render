@@ -1,0 +1,76 @@
+{
+ "title": "Glaukomani lazer bilan davolash",
+ "also": [
+  "glaukomada lazer",
+  "SLT",
+  "lazerli iridotomiya",
+  "lazerli trabekuloplastika"
+ ],
+ "what": "Shifokor lazer yordamida suyuqlikning ko‘zdan yaxshiroq oqib chiqishiga yordam beradi. Shundan ko‘z ichidagi bosim pasayadi.",
+ "why": "Glaukoma yoki ko‘z ichi bosimi yuqori bo‘lganda, shuningdek ko‘zning tor burchagida xurujning oldini olish uchun.",
+ "duration": "protsedura odatda 5–15 daqiqa, tayyorgarlik bilan taxminan bir soat",
+ "tell_doctor": [
+  "Glaukomaga qanday tomchilar tomizasiz",
+  "Tomchilarga allergiya",
+  "Yurak va o‘pka kasalliklari — ba’zi tomchilar ularga ta’sir qiladi",
+  "Ko‘zda operatsiyalar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Tomchilar",
+   "text": "Glaukoma tomchilaringizni o‘zingiz bekor qilmang — shu kuni tomizish kerakmi, shifokordan so‘rang."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Protseduradan keyin ko‘rish xira bo‘lishi mumkin — hamroh bilan borgan yaxshi."
+  }
+ ],
+ "bring": [
+  "O‘z tomchilaringiz",
+  "Hujjat",
+  "Quyosh ko‘zoynagi",
+  "Hamroh"
+ ],
+ "steps": [
+  "Ko‘z tomchilar bilan og‘riqsizlantiriladi, ba’zan qorachiq toraytiriladi yoki kengaytiriladi",
+  "Apparat oldiga o‘tirasiz, iyagingiz tayanchda",
+  "Ko‘zga linza qo‘yiladi",
+  "Shifokor lazer impulslarini beradi — yaltirashlarni ko‘rasiz",
+  "Linza olinadi",
+  "Bir ozdan keyin ko‘z bosimi tekshiriladi"
+ ],
+ "feel": [
+  "Yorug‘lik yaltirashlari, ba’zan chiqillash",
+  "Biroz noqulaylik, ba’zan bosh og‘rig‘i",
+  "Ko‘rish bir necha soat xira"
+ ],
+ "after": [
+  "Tomchilar — shifokor buyurganidek, o‘z tomchilaringiz — shifokor aytganidek",
+  "Bosimni tekshirish uchun o‘z vaqtida keling",
+  "Lazer ta’siri bir necha haftadan keyin baholanadi"
+ ],
+ "red_flags": [
+  "Ko‘zda kuchli og‘riq, bosh og‘rig‘i, ko‘ngil aynishi, yorug‘lik atrofida kamalak doiralari — tez yordamni chaqiring (103) yoki darrov ko‘z shifokoriga",
+  "Ko‘rish keskin yomonlashsa"
+ ],
+ "faq": [
+  {
+   "q": "Lazerdan keyin tomchi tomizmasa bo‘ladimi?",
+   "a": "Ba’zan tomchilar kamayadi, lekin buni faqat shifokor hal qiladi."
+  },
+  {
+   "q": "Lazer glaukomani davolab yuboradimi?",
+   "a": "Glaukoma — umrbod kasallik. Lazer bosimni me’yorda ushlab turishga yordam beradi."
+  },
+  {
+   "q": "Takrorlash kerakmi?",
+   "a": "Ba’zan ta’sir vaqt o‘tishi bilan susayadi va protsedura takrorlanadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga glaukomada lazer. O‘z tomchilaringiz va quyosh ko‘zoynagini oling."
+  }
+ ]
+}

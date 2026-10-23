@@ -1,0 +1,74 @@
+{
+ "title": "Tomografia de baixa dose dos pulmões para fumantes",
+ "also": [
+  "tomografia de baixa dose",
+  "TC de baixa dose",
+  "rastreamento de câncer de pulmão",
+  "tomografia de pulmão para fumantes"
+ ],
+ "what": "É uma tomografia do tórax com dose menor de radiação. Procura pequenas alterações nos pulmões antes de haver sintomas.",
+ "why": "Normalmente para pessoas mais velhas que fumam muito ou fumaram no passado. Se você precisa, quem decide é o médico.",
+ "duration": "o exame leva alguns minutos, o laudo sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Há quantos anos e quantos cigarros por dia você fuma ou fumou",
+  "Se teve pneumonia ou gripe há pouco tempo",
+  "Se já fez tomografia dos pulmões",
+  "Se pode haver gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não é preciso preparo especial. Pode comer."
+  },
+  {
+   "title": "Roupa",
+   "text": "Sem metal no peito: tire correntes e sutiã com aro."
+  },
+  {
+   "title": "Exames anteriores",
+   "text": "Leve as tomografias anteriores. É importante o médico comparar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Tomografias e laudos anteriores",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Você se deita de costas na mesa do aparelho, com os braços atrás da cabeça",
+  "A mesa entra no anel do aparelho",
+  "Pedem para puxar o ar e segurar",
+  "A imagem é feita em poucos segundos",
+  "A mesa sai e pronto"
+ ],
+ "feel": [
+  "Não dói",
+  "O aparelho é aberto, não é um tubo apertado"
+ ],
+ "after": [
+  "Pode ir embora logo em seguida",
+  "O laudo sai normalmente em 1 a 3 dias",
+  "Se acharem nódulos pequenos, na maioria das vezes se pede um controle depois de um tempo. O médico decide"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Se acharem um nódulo, é câncer?",
+   "a": "Na maioria das vezes não. A maior parte dos nódulos é benigna. O médico diz se é preciso acompanhar."
+  },
+  {
+   "q": "Quantas vezes fazer?",
+   "a": "Normalmente uma vez por ano, enquanto houver indicação. Quem decide é o médico."
+  },
+  {
+   "q": "Parar de fumar ajuda?",
+   "a": "Sim. É o melhor que se pode fazer pelos pulmões, em qualquer idade."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a tomografia dos pulmões. Não precisa de preparo. Leve as tomografias anteriores e use roupa sem metal."
+  }
+ ]
+}

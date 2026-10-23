@@ -1,0 +1,72 @@
+{
+ "title": "Anticuerpos después de la vacuna contra la hepatitis B (anti-HBs)",
+ "also": [
+  "anti-HBs",
+  "anticuerpos contra el antígeno de superficie",
+  "revisión de vacuna de hepatitis B",
+  "inmunidad a la hepatitis B"
+ ],
+ "what": "Es un análisis de sangre que muestra cuántos anticuerpos protectores contra la hepatitis B tienes después de la vacuna.",
+ "why": "Para personal de salud, personas en hemodiálisis, familiares de personas con hepatitis B y personas con defensas bajas: para saber si la vacuna funcionó.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Cuándo te pusieron la última vacuna contra la hepatitis B",
+  "Cuántas dosis te pusieron en total",
+  "Si antes tuviste hepatitis B",
+  "Si hace poco te hicieron una transfusión o te pusieron inmunoglobulina"
+ ],
+ "prepare": [
+  {
+   "title": "Cuándo",
+   "text": "Normalmente el análisis se hace 1 o 2 meses después de la última dosis del esquema. Pregúntale al médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayuno estricto, pero es mejor ir 3 o 4 horas después de una comida ligera, sin grasa. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "Tu cartilla o registro de vacunación"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Si tienes pocos anticuerpos, el médico puede proponerte otra dosis",
+  "Guarda el resultado junto con tus documentos de vacunación"
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y está rojo"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuántos anticuerpos se consideran protección?",
+   "a": "En la hoja del laboratorio aparece el límite de protección. Si tu resultado está por encima, la vacuna funcionó."
+  },
+  {
+   "q": "¿Todos deben revisar sus anticuerpos después de la vacuna?",
+   "a": "No. Normalmente solo quienes tienen alto riesgo de contagio. El médico te orientará."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de anticuerpos después de la vacuna contra la hepatitis B. Lleva tu registro de vacunas."
+  }
+ ]
+}

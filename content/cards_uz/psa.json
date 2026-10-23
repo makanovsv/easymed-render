@@ -1,0 +1,78 @@
+{
+ "title": "PSA qon tahlili",
+ "also": [
+  "PSA",
+  "prostataga xos antigen",
+  "prostata tahlili",
+  "prostata qon tahlili"
+ ],
+ "what": "Bu venadan olinadigan oddiy qon tahlili. U prostata bezi ishlab chiqaradigan oqsil darajasini ko‘rsatadi.",
+ "why": "Erkaklarda prostata bezini tekshirish uchun, odatda 45–50 yoshdan keyin, siydik chiqarishda muammolar bo‘lganda va davodan keyin kuzatish uchun.",
+ "duration": "qon olish 2–3 daqiqa, natija odatda 1–2 kunda",
+ "tell_doctor": [
+  "Prostata kattalashishiga dori ichsangiz: ular PSA ni pasaytirishi mumkin",
+  "Yaqinda prostata massaji, to‘g‘ri ichak orqali ko‘rik, biopsiya yoki kateter bo‘lgan bo‘lsa",
+  "Hozir siydik yo‘llarida yallig‘lanish yoki infeksiya bo‘lsa",
+  "Oldingi PSA natijalari: solishtirish muhim"
+ ],
+ "prepare": [
+  {
+   "title": "2 kun oldin",
+   "text": "Odatda 2 kun eyakulyatsiyasiz, uzoq velosiped haydamasdan va og‘ir yuklamasiz bo‘lish maslahat beriladi. Bu PSA ni oshirishi mumkin."
+  },
+  {
+   "title": "Muolajalardan keyin",
+   "text": "Prostata ko‘rigi, massaj yoki biopsiya bo‘lgan bo‘lsa, tahlil odatda keyinroq topshiriladi. Qancha kutishni shifokor aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa bo‘lishi shart emas. Boshqa tahlillarni ham birga topshirsangiz, klinikadan aniqlab oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Dorilarni odatdagidek iching. O‘zingiz bekor qilmang: shifokorga ayting, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Hujjat",
+  "Oldingi PSA natijalari"
+ ],
+ "steps": [
+  "Siz o‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Yelkani jgut bilan bog‘lashadi",
+  "Ukol joyini spirt bilan artishadi",
+  "Igna bilan venadan probirkaga qon olishadi",
+  "Ukol joyiga paxta bosishadi"
+ ],
+ "feel": [
+  "Qisqa sanchiq: chivin chaqqanday",
+  "Ba’zan keyin ozgina ko‘karish"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Darhol ovqatlanib, odatiy ishlaringiz bilan shug‘ullansangiz bo‘ladi",
+  "Natijani shifokor bilan muhokama qiling: me’yor yoshga bog‘liq, bitta yuqori tahlil hali tashxis emas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "PSA yuqori bo‘lsa, bu saratonmi?",
+   "a": "Shart emas. PSA ni yallig‘lanish, prostata kattalashishi, jinsiy aloqa va bir kun oldingi velosiped ko‘taradi. Qayta topshirish yoki keyingi tekshiruv kerakmi, shifokor hal qiladi."
+  },
+  {
+   "q": "PSA tahliliga qanday tayyorlanish kerak?",
+   "a": "Odatda 2 kun eyakulyatsiyasiz, velosipedsiz va og‘ir yuklamasiz. Prostata ko‘rigi yoki massajidan keyin darhol emas."
+  },
+  {
+   "q": "PSA ni necha yoshdan topshirish kerak?",
+   "a": "Odatda 45–50 yoshdan keyin, yaqin qarindoshlarda prostata saratoni bo‘lgan bo‘lsa, ertaroq. Qarorni shifokor bilan birga qabul qilgan ma’qul."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "2 kundan keyin PSA tahlili. Tahlildan oldin odatda jinsiy aloqa, velosiped va og‘ir yuklamasiz bo‘lish maslahat beriladi."
+  }
+ ]
+}

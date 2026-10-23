@@ -1,0 +1,76 @@
+{
+ "title": "Tests after a tick bite (encephalitis, Lyme disease)",
+ "also": [
+  "tick bite test",
+  "tick-borne encephalitis test",
+  "Lyme disease test",
+  "borreliosis test",
+  "tick testing"
+ ],
+ "what": "These tests show whether a tick passed on an infection. The tick itself and your blood can both be tested.",
+ "why": "After a tick bite, especially if you were in an area with tick-borne encephalitis, or if you get a fever or redness.",
+ "duration": "testing the tick usually takes 1 to 3 days; blood is not taken right away but at the time your doctor says",
+ "tell_doctor": [
+  "When and where you were bitten",
+  "How long the tick was on your skin",
+  "If you had a tick-borne encephalitis vaccine",
+  "If you have a fever, headache, or a red patch"
+ ],
+ "prepare": [
+  {
+   "title": "The tick",
+   "text": "If the tick was removed, put it in a small jar with a damp cotton ball and close it tightly. Take it to the lab as soon as you can."
+  },
+  {
+   "title": "Timing",
+   "text": "Antibodies do not show up in the blood right away, usually only a few weeks after the bite. Your doctor will say when to give blood."
+  },
+  {
+   "title": "Food",
+   "text": "Better not to eat for 3 to 4 hours before the blood test. Water is fine."
+  }
+ ],
+ "bring": [
+  "The tick in a closed jar, if you have it",
+  "Your referral",
+  "Your ID",
+  "Your tick-borne encephalitis vaccine records"
+ ],
+ "steps": [
+  "The tick is handed in to the lab and tested for infections",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "A cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "For a month after the bite, watch for fever and check the bite site",
+  "Your doctor decides about preventive treatment. Do not put off the visit"
+ ],
+ "red_flags": [
+  "A red patch around the bite is getting bigger: see a doctor",
+  "Fever, severe headache, or body aches: see a doctor the same day",
+  "Confusion, seizures, or weakness in arms or legs: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "How do I remove a tick the right way?",
+   "a": "Grab it close to the skin with tweezers or a thread, and slowly twist it out. Clean the spot with antiseptic."
+  },
+  {
+   "q": "If the tick is clean, do I still need a blood test?",
+   "a": "Usually not, but your doctor decides. Watch how you feel for a month."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Tick bite tests tomorrow. Bring your vaccine records and write down the date of the bite."
+  }
+ ]
+}

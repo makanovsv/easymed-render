@@ -1,0 +1,75 @@
+{
+ "title": "Insultdan keyin uyda parvarish",
+ "also": [
+  "insultdan keyin parvarish",
+  "insultdan keyin yotgan bemorni parvarishlash",
+  "insultdan keyin uyda reabilitatsiya",
+  "uyda insult"
+ ],
+ "what": "Yaqinlar uchun eslatma: insultdan keyin uyda odamga xavfsiz va ortiqcha xavf-xatarsiz yordam berish yo‘llari.",
+ "why": "Insultdan keyin odam uyga javob berilganda.",
+ "duration": "tiklanish odatda oylar davom etadi, parvarish — har kuni",
+ "tell_doctor": [
+  "Yutishda qiyinchilik yoki ovqat paytida yo‘tal paydo bo‘lsa",
+  "Yotoq yaralar yoki terida qizarish paydo bo‘lsa",
+  "Kayfiyat tushkun bo‘lib qolsa",
+  "Odam ichayotgan barcha dorilarni"
+ ],
+ "prepare": [
+  {
+   "title": "Uy",
+   "text": "Gilam va simlarni olib tashlang, vanna va hojatxonaga tutqichlar o‘rnating."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Qat’iy buyurilganidek bering. O‘zingiz bekor qilmang."
+  },
+  {
+   "title": "Mashqlar",
+   "text": "Reabilitologdan uyda qanday mashqlar qilishni so‘rang."
+  }
+ ],
+ "bring": [
+  "Kasalxonadan chiqarish xulosasi",
+  "Dorilar ro‘yxati",
+  "Tonometr"
+ ],
+ "steps": [
+  "Odam yotgan bo‘lsa, har 2 soatda uni ag‘daring",
+  "Har kuni tovon, dumg‘aza va kurak terisini ko‘zdan kechiring",
+  "Ovqatni o‘tirgan holda, oz-ozdan, shoshilmay bering",
+  "Reabilitolog ko‘rsatgan mashqlarni bajarishga yordam bering",
+  "Qo‘lidan kelgan hamma narsani o‘zi qilishga undang",
+  "Bosimni o‘lchab, yozib boring"
+ ],
+ "feel": [
+  "Tiklanish sekin va notekis kechadi — bu normal",
+  "Parvarish charchatadi — yaqinlarga ham dam olish va yordam kerak"
+ ],
+ "after": [
+  "Shifokorning nazorat qabullariga boring",
+  "Bosim va qand darajasini kuzatib boring",
+  "Uddalash qiyin bo‘lsa, ijtimoiy xizmatlardan yordam so‘rang"
+ ],
+ "red_flags": [
+  "Qo‘l yoki oyoqda yangi holsizlik, yuzning qiyshayishi, nutqning buzilishi bo‘lsa — tez yordamni chaqiring (103)",
+  "To‘satdan qattiq bosh og‘rig‘i yoki hushdan ketish bo‘lsa — tez yordamni chaqiring (103)",
+  "Ovqat paytida yo‘talish, bo‘g‘ilish, harorat bo‘lsa — shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Tiklanish qachon eng tez ketadi?",
+   "a": "Odatda dastlabki oylarda. Lekin yaxshilanish uzoqroq davom etishi mumkin."
+  },
+  {
+   "q": "Yangi insultning oldini qanday olish mumkin?",
+   "a": "Dorilarni buyurilganidek ichish, bosimni nazorat qilish, chekish va spirtli ichimlikdan voz kechish."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Ag‘darib, terini ko‘zdan kechirish vaqti. Bosimni daftarga yozing."
+  }
+ ]
+}

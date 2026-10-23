@@ -1,0 +1,77 @@
+{
+ "title": "Exame de hepatite A",
+ "also": [
+  "hepatite A",
+  "anti-HAV",
+  "sorologia para hepatite A",
+  "exame de icterícia"
+ ],
+ "what": "É um exame de sangue que procura anticorpos contra o vírus da hepatite A. Mostra se você está doente agora ou se já está protegido.",
+ "why": "Com icterícia, urina escura, fraqueza e enjoo, depois de contato com alguém doente, antes da vacina contra hepatite A.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Se você teve contato com alguém com hepatite A",
+  "Se tomou vacina contra hepatite A",
+  "Se viajou para outro país há pouco tempo",
+  "Se a pele ou os olhos estão ficando amarelos"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Jejum rigoroso normalmente não é necessário, mas é melhor ir 3 a 4 horas depois de uma refeição leve, sem gordura. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Nas 24 horas antes, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma. Ele decide se é preciso mudar algo antes do exame."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Dados das vacinas, se tiver"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Se tem sintomas, lave as mãos depois do banheiro e não prepare comida para os outros até sair o resultado",
+  "Quem explica o resultado é o médico"
+ ],
+ "red_flags": [
+  "Pele amarela, fraqueza forte, vômito: procure o médico no mesmo dia",
+  "Confusão, muita sonolência, sangramentos: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O que significa cada anticorpo?",
+   "a": "Anticorpos IgM normalmente mostram que a doença está acontecendo agora. Anticorpos IgG mostram que você já teve a doença ou foi vacinado."
+  },
+  {
+   "q": "Como a hepatite A é transmitida?",
+   "a": "Por mãos sujas, água e comida. Lavar as mãos e tomar a vacina protegem bem."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de hepatite A. De manhã, é melhor evitar comida gordurosa."
+  }
+ ]
+}

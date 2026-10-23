@@ -1,0 +1,73 @@
+{
+ "title": "Yangi tug‘ilgan chaqaloqqa BCG",
+ "also": [
+  "sil kasalligiga qarshi emlash",
+  "BCG-M",
+  "tug‘ruqxonadagi emlash"
+ ],
+ "what": "Silga qarshi emlash. Chaqaloqning chap yelkasi terisiga kichik ukol qilinadi, odatda tug‘ruqxonada.",
+ "why": "Yangi tug‘ilgan chaqaloqlarga hayotning dastlabki kunlarida, qarshi ko‘rsatma bo‘lmasa.",
+ "duration": "ukol — bir necha soniya; yelkadagi iz odatda 2–4 oyda bitadi",
+ "tell_doctor": [
+  "Chaqaloq muddatidan oldin yoki kam vaznda tug‘ilgan bo‘lsa",
+  "Hozir chaqaloqning sog‘lig‘ida muammo bo‘lsa",
+  "Oilada immunitet kasalliklari bo‘lsa",
+  "Oilada kimdir sil bilan og‘rigan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Rozilik",
+   "text": "Tug‘ruqxonada sizdan emlashga rozilik imzolash so‘ralishi mumkin."
+  },
+  {
+   "title": "Savollar",
+   "text": "Qarshi ko‘rsatmalar haqida bilmoqchi bo‘lsangiz, shifokordan so‘rang."
+  },
+  {
+   "title": "Qilinmagan bo‘lsa",
+   "text": "Tug‘ruqxonada emlash keyinga qoldirilgan bo‘lsa, poliklinikada qilinadi."
+  }
+ ],
+ "bring": [
+  "Emlash poliklinikada qilinsa, chaqaloqning hujjatlari",
+  "Tug‘ruqxonadan chiqish ma’lumotnomasi"
+ ],
+ "steps": [
+  "Shifokor chaqaloqni ko‘radi",
+  "Hamshira chap yelkadagi terini artadi",
+  "Ingichka igna bilan vaksinani teriga yuboradi",
+  "Kichik oq pufakcha paydo bo‘ladi — u tez yo‘qoladi",
+  "Emlash hujjatlarga yoziladi"
+ ],
+ "feel": [
+  "Chaqaloq qisqa vaqt yig‘lashi mumkin",
+  "4–8 haftadan keyin ukol joyida tuguncha yoki kichik yiringcha paydo bo‘ladi — bu normal",
+  "Keyin qatqoloq va kichik chandiq qoladi"
+ ],
+ "after": [
+  "Emlangan joyga hech narsa surtmang va yopishtirmang",
+  "Qatqoloqqa tegmang, siqmang",
+  "Chaqaloqni cho‘miltirsa bo‘ladi, faqat yelkani lattada ishqalamang",
+  "Chandiqni ko‘rikda bolalar shifokoriga ko‘rsating"
+ ],
+ "red_flags": [
+  "Emlangan joyda bir santimetrdan katta yara yoki atrofdagi teri qattiq qizarsa",
+  "Chap qo‘ltiq ostidagi tugun kattalashsa"
+ ],
+ "faq": [
+  {
+   "q": "Yelkada yiringcha bo‘lishi normalmi?",
+   "a": "Ha, bir-ikki oydan keyin shunday bo‘lishi kerak. Unga hech narsa surtmang."
+  },
+  {
+   "q": "Nega chandiq yo‘q?",
+   "a": "Bunday ham bo‘ladi. Yelkani bolalar shifokoriga ko‘rsating, u nima qilishni aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga chaqaloqqa BCG emlashi. Hujjatlar va tug‘ruqxonadan chiqish ma’lumotnomasini oling."
+  }
+ ]
+}

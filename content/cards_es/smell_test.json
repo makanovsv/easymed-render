@@ -1,0 +1,72 @@
+{
+ "title": "Prueba del olfato",
+ "also": [
+  "prueba de olfato",
+  "olfatometría",
+  "prueba de olores",
+  "pérdida del olfato"
+ ],
+ "what": "Te dan a oler distintos olores y te piden decir cuál es o distinguirlos. Así el médico sabe qué tan bien percibes los olores.",
+ "why": "Cuando el olfato bajó o se perdió, después de un resfriado, un golpe en la cabeza o sin causa clara.",
+ "duration": "normalmente de 15 a 30 minutos; el médico te dice sus conclusiones en la consulta",
+ "tell_doctor": [
+  "Cuándo y después de qué empeoró tu olfato",
+  "Si tuviste escurrimiento, nariz tapada o pólipos nasales",
+  "Si tuviste golpes en la cabeza",
+  "Qué medicamentos tomas",
+  "Si fumas"
+ ],
+ "prepare": [
+  {
+   "title": "Olores",
+   "text": "El día de la prueba no uses perfume ni crema con aroma."
+  },
+  {
+   "title": "Comida y cigarro",
+   "text": "No fumes ni comas picante una hora antes. No mastiques chicle."
+  },
+  {
+   "title": "Nariz",
+   "text": "Si tienes la nariz tapada, avísale antes al médico. Pueden cambiar la fecha."
+  }
+ ],
+ "bring": [
+  "La orden médica, si tienes",
+  "Tu identificación",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico revisa tu nariz",
+  "Te acercan a la nariz un frasco o un marcador especial con olor",
+  "Hueles unos segundos",
+  "Eliges el nombre del olor de una lista",
+  "A veces revisan cada fosa nasal por separado",
+  "Cambian los olores; pueden ser varias decenas"
+ ],
+ "feel": [
+  "Normalmente no hay molestias",
+  "Algunos olores son difíciles de reconocer. Es normal, contesta lo que sientas"
+ ],
+ "after": [
+  "El médico te explica el resultado y qué hacer después",
+  "A veces te indican entrenamiento del olfato en casa",
+  "Pueden pedirte otros estudios de la nariz"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Se puede recuperar el olfato?",
+   "a": "Muchas veces se recupera, sobre todo después de un resfriado. El entrenamiento ayuda, pero toma tiempo."
+  },
+  {
+   "q": "¿Qué es el entrenamiento del olfato?",
+   "a": "Cada día hueles varios olores conocidos, uno por uno. El médico te enseña cómo hacerlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu prueba del olfato. No uses perfume ni fumes antes de la prueba."
+  }
+ ]
+}

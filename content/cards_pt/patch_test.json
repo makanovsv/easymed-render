@@ -1,0 +1,81 @@
+{
+ "title": "Teste de contato (patch test)",
+ "also": [
+  "patch test",
+  "teste de contato",
+  "teste alérgico de contato",
+  "teste nas costas"
+ ],
+ "what": "Colam nas costas adesivos com pequenas quantidades de substâncias que podem causar alergia. Depois de 2 a 3 dias, veem onde a pele ficou vermelha.",
+ "why": "Quando manchas ou eczema aparecem pelo contato: metais, cosméticos, tinta de cabelo, luvas, produtos do trabalho.",
+ "duration": "colar os adesivos leva normalmente 15 a 30 minutos; eles ficam cerca de 2 dias; a leitura é no 2º dia e no 3º ou 4º dia",
+ "tell_doctor": [
+  "Quais remédios você toma, principalmente corticoides em comprimido e remédios que baixam a imunidade",
+  "Se passou pomada com corticoide nas costas nos últimos dias",
+  "Se tomou sol ou se queimou nas costas há pouco tempo",
+  "Com o que você trabalha e o que você mesmo suspeita",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Pele das costas",
+   "text": "As costas precisam estar limpas, sem manchas e sem bronzeado. No dia do teste, não passe creme nelas."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Alguns remédios atrapalham o teste. O médico diz o que fazer e quando."
+  },
+  {
+   "title": "Agenda",
+   "text": "Planeje 2 a 3 visitas na semana e dias sem esporte e sem sauna."
+  },
+  {
+   "title": "Seus produtos",
+   "text": "Se você suspeita do seu cosmético ou de um produto do trabalho, pergunte ao médico se pode levar."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios",
+  "Seus produtos, se o médico permitiu",
+  "Uma camiseta velha. As marcas de caneta podem sujar a roupa"
+ ],
+ "steps": [
+  "Você tira a roupa até a cintura e senta de costas para a enfermeira",
+  "Colam nas costas adesivos com as substâncias",
+  "Marcam as bordas dos adesivos com caneta",
+  "Depois de 2 dias, tiram os adesivos e olham a pele",
+  "Depois de mais 1 a 2 dias, fazem a segunda leitura"
+ ],
+ "feel": [
+  "Os adesivos não doem",
+  "Embaixo deles pode coçar. Não mexa e não descole",
+  "A vermelhidão no local da reação pode durar alguns dias"
+ ],
+ "after": [
+  "Enquanto os adesivos estiverem nas costas, não molhe as costas: sem chuveiro nas costas, sem sauna e sem esporte que faça suar",
+  "Não tome sol até o fim do teste",
+  "Se um adesivo descolar, prenda com esparadrapo e avise o médico",
+  "O laudo sai normalmente na última leitura: a que você reage e o que evitar"
+ ],
+ "red_flags": [
+  "Coceira forte, ardência, bolhas embaixo do adesivo: ligue para o médico. Ele diz se é para tirar",
+  "Manchas pelo corpo todo, inchaço, dificuldade para respirar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso tomar banho durante o teste?",
+   "a": "Dá para lavar com cuidado as pernas e a cabeça na banheira ou na pia, mas as costas devem ficar secas até o fim do teste."
+  },
+  {
+   "q": "Qual a diferença para os testes de picada no braço?",
+   "a": "O patch test procura a alergia pelo contato com a pele. Os testes no braço procuram a alergia rápida: pólen, poeira, pelo de animal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã vão colar os adesivos do teste de alergia. Hoje e amanhã, não passe creme nas costas. Leve uma camiseta velha."
+  }
+ ]
+}

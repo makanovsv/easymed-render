@@ -1,0 +1,68 @@
+{
+ "title": "Pulmonolog qabuli",
+ "also": [
+  "pulmonolog",
+  "o‘pka shifokori",
+  "o‘pka kasalliklari shifokori"
+ ],
+ "what": "O‘pka va bronxlarni davolaydigan shifokor. Nafasingizni tinglaydi va o‘pkangiz qanday ishlayotganini tekshiradi.",
+ "why": "Uzoq davom etgan yo‘tal, hansirash, bronxial astma, tez-tez bronxitlar, o‘pka rentgenida o‘zgarishlarda.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Yo‘tal yoki hansirash qachondan beri, nima uni kuchaytiradi",
+  "Chekasizmi yoki avval chekkanmisiz",
+  "Chang, kimyo bilan ishlash, hayvonlar bilan aloqa",
+  "Qanday ingalyator va dorilardan foydalanasiz",
+  "Allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Chekish",
+   "text": "Qabulda nafas tekshirilsa, tashrifdan hech bo‘lmaganda bir necha soat oldin chekmang. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Rasmlar",
+   "text": "O‘pka rentgeni yoki KT qilingan bo‘lsa, oling."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Foydalanadigan ingalyatorlaringiz",
+  "Oldingi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarning o‘zi"
+ ],
+ "steps": [
+  "Shifokor shikoyatlaringizni so‘raydi",
+  "O‘pkani tinglaydi",
+  "Barmoqdagi datchik bilan qonning kislorod bilan to‘yinishini o‘lchaydi",
+  "Ba’zan darhol nafas testi, spirografiya qiladi",
+  "Tekshiruv yoki davo buyuradi"
+ ],
+ "feel": [
+  "Hech qanday yoqimsiz narsa yo‘q",
+  "Nafas testida kuchli nafas chiqarish kerak: biroz boshingiz aylanishi mumkin"
+ ],
+ "after": [
+  "Shifokor ingalyatordan to‘g‘ri foydalanayotganingizni tekshirishi mumkin",
+  "Davoni o‘zingiz o‘zgartirmang: savollarni shifokorga bering"
+ ],
+ "red_flags": [
+  "Tinch holatda kuchli hansirash, lablar ko‘karishi, yo‘talda qon: 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Nega qabulga ingalyator olib kelish kerak?",
+   "a": "Shifokor undan to‘g‘ri foydalanayotganingizni ko‘radi. Davo yordam bermasligining tez-tez uchraydigan sababi shu."
+  },
+  {
+   "q": "O‘pka rasmi oldindan kerakmi?",
+   "a": "Bo‘lsa, oling. Yangisi kerakmi, shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga pulmonolog qabuli. O‘pka rasmlarini va o‘z ingalyatorlaringizni oling."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "title": "Ortodont maslahati",
+ "also": [
+  "ortodont qabuli",
+  "breketlar bo‘yicha maslahat",
+  "tishlov tekshiruvi"
+ ],
+ "what": "Ortodont tishlar va tishlovni ko‘zdan kechiradi. U tekislash kerakmi va qaysi usulda ekanini aytadi.",
+ "why": "Qiyshiq tishlar, noto‘g‘ri tishlov, tor joy yoki tishlar orasida tirqishlar bo‘lganda — bolalar va kattalarga.",
+ "duration": "odatda 30–60 daqiqa",
+ "tell_doctor": [
+  "Nima bezovta qiladi: tashqi ko‘rinish, chaynash, nutq, nafas",
+  "Tish va jag‘ga jarohatlar bo‘lganmi",
+  "Zararli odatlar: barmoq so‘rish, og‘iz bilan nafas olish, tish g‘ijirlatish",
+  "Surunkali kasalliklar va dorilar",
+  "Bola bo‘lsa: tishlari qachon almasha boshlagan"
+ ],
+ "prepare": [
+  {
+   "title": "Tishlar",
+   "text": "Qabuldan oldin tishlarni tozalang."
+  },
+  {
+   "title": "Suratlar",
+   "text": "Tishlarning suratlari bo‘lsa, oling. Ba’zan suratlar qabul kunining o‘zida olinadi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Bo‘lsa, tishlarning suratlari",
+  "Shifokorga savollar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor nima bezovta qilishini so‘raydi",
+  "Tishlar va tishlovni ko‘zdan kechiradi",
+  "Yuz va tishlarning suratini olishi mumkin",
+  "Kerak bo‘lsa, suratlar buyuradi yoki qolip oladi",
+  "Davolash variantlari va muddatlarini tushuntiradi"
+ ],
+ "feel": [
+  "Ko‘rik og‘rimaydi",
+  "Qolip ko‘ngil aynishiga sabab bo‘lishi mumkin — burun orqali nafas oling"
+ ],
+ "after": [
+  "Shifokor suratlardan keyin davolash rejasini beradi",
+  "O‘ylab ko‘rish uchun vaqt olsa bo‘ladi",
+  "Muddatlar va parvarish haqida savollar bering"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ortodontga necha yoshdan borish kerak?",
+   "a": "Birinchi ko‘rikni odatda bolalarga tishlar almashishi boshlanganda maslahat berishadi. Kattalarga — istalgan yoshda."
+  },
+  {
+   "q": "Kattalarda tishlarni tekislasa bo‘ladimi?",
+   "a": "Ha, odatda bo‘ladi. Muddatlar bolalarnikidan uzoqroq bo‘lishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ortodont maslahati. Tishlarni tozalang va bo‘lsa suratlarni oling."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Certificado médico para ingresar a la universidad",
+ "also": [
+  "certificado médico para la universidad",
+  "certificado de salud para el ingreso",
+  "constancia médica del aspirante",
+  "certificado para inscribirse"
+ ],
+ "what": "Un certificado del estado de salud que pide la universidad o el colegio. Se da después de la revisión de varios médicos y de análisis.",
+ "why": "Para ingresar a la universidad, a un colegio o a algunas carreras con requisitos adicionales.",
+ "duration": "normalmente de 1 a 3 días para todo; el certificado se entrega después de los análisis",
+ "tell_doctor": [
+  "Enfermedades crónicas",
+  "Enfermedades de los ojos y cómo ves",
+  "Qué medicamentos tomas",
+  "Los requisitos de tu universidad para el certificado"
+ ],
+ "prepare": [
+  {
+   "title": "Requisitos",
+   "text": "Pregunta en la oficina de admisiones qué formato de certificado necesitan y si hay requisitos especiales para tu carrera."
+  },
+  {
+   "title": "Análisis",
+   "text": "La sangre y la orina normalmente se dan en la mañana, en ayunas. Confírmalo en la clínica."
+  },
+  {
+   "title": "Vacunas",
+   "text": "Lleva la cartilla o el certificado de vacunación."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La cartilla de vacunación",
+  "La radiografía de tórax del último año, si la tienes",
+  "La lista de requisitos de la universidad"
+ ],
+ "steps": [
+  "Llenas un formulario",
+  "Das muestras de sangre y de orina",
+  "Te hacen la radiografía de tórax, si no tienes una reciente",
+  "Pasas con el médico general, el oftalmólogo, el otorrino, el cirujano, el neurólogo y otros, según la lista",
+  "A veces te hacen un electrocardiograma",
+  "El médico general elabora el certificado"
+ ],
+ "feel": [
+  "Las revisiones no duelen",
+  "El análisis de sangre es un pinchazo corto"
+ ],
+ "after": [
+  "Verifica que el certificado tenga todos los sellos y firmas",
+  "Haz una copia para ti",
+  "Entrégalo en la oficina de admisiones a tiempo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Cuánto tiempo vale el certificado?",
+   "a": "Normalmente unos meses; depende de las reglas. Confírmalo en la universidad."
+  },
+  {
+   "q": "¿Hace falta para estudiar a distancia?",
+   "a": "A veces no. Confírmalo en la oficina de admisiones."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu revisión médica para el certificado de la universidad. En la mañana no comas antes de los análisis y lleva tu cartilla de vacunación."
+  }
+ ]
+}

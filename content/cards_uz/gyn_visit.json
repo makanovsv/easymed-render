@@ -1,0 +1,87 @@
+{
+ "title": "Ginekolog ko‘rigi",
+ "also": [
+  "ginekolog qabuli",
+  "ginekologik ko‘rik",
+  "kreslada ko‘rik",
+  "surtma"
+ ],
+ "what": "Shifokor salomatligingiz haqida so‘raydi, ginekologik kreslada ko‘radi va kerak bo‘lsa surtmalar oladi.",
+ "why": "Odatda profilaktika uchun yiliga bir marta. Shuningdek qorin pastida og‘riq, g‘ayrioddiy ajralmalar, sikl buzilishlari bo‘lganda, homiladorlikni rejalashtirishda.",
+ "duration": "odatda 20–30 daqiqa",
+ "tell_doctor": [
+  "Oxirgi hayz boshlangan sana",
+  "Qanday dorilar va kontratseptivlar qabul qilasiz",
+  "Homiladorlik mumkinmi",
+  "Tug‘ruqlar, operatsiyalar, kasalliklar bo‘lganmi",
+  "Hali jinsiy hayot bo‘lmagan bo‘lsa — ayting, ko‘rik boshqacha o‘tkaziladi"
+ ],
+ "prepare": [
+  {
+   "title": "Qachon borish",
+   "text": "Rejali ko‘rik uchun odatda siklning 5–10-kuni qulayroq. Hayz paytida odatda surtma olinmaydi — klinikadan aniqlang."
+  },
+  {
+   "title": "1–2 kun oldin",
+   "text": "Surtma olinadigan bo‘lsa: odatda jinsiy aloqasiz, spirinsovkasiz va qin shamlarisiz — shifokor buyurgan bo‘lmasa."
+  },
+  {
+   "title": "Gigiyena",
+   "text": "Bir kun oldin yoki ertalab oddiy dush. Intim gigiyena uchun maxsus vositalarsiz."
+  },
+  {
+   "title": "Kirishdan oldin",
+   "text": "Hojatxonaga boring — siydik pufagi bo‘sh bo‘lsa, ko‘rish osonroq."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Oldingi tahlillar va ultratovush xulosalari",
+  "Paypoq va bir martalik choyshab, klinikada bermasa"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar, sikl va salomatlik haqida so‘raydi",
+  "Ekran ortida belgacha pastini yechasiz",
+  "Kreslaga yotib, oyoqlaringizni tayanchlarga qo‘yasiz",
+  "Shifokor tashqi jinsiy a’zolarni ko‘radi",
+  "Maxsus ko‘zgu kiritib, bachadon bo‘yinchasini ko‘radi va kerak bo‘lsa surtmalar oladi",
+  "Keyin qo‘l bilan qorin orqali bachadon va tuxumdonlarni paypaslaydi",
+  "Ba’zan shifokor ko‘krakni ham tekshiradi"
+ ],
+ "feel": [
+  "Ko‘zgudan sovuqlik va bosim",
+  "Noqulay, lekin odatda og‘riqsiz",
+  "Og‘risa — ayting, shifokor to‘xtaydi yoki kichikroq ko‘zgu oladi",
+  "Qorningizni qanchalik bo‘shashtirsangiz va tekis nafas olsangiz, shunchalik oson bo‘ladi"
+ ],
+ "after": [
+  "Surtmadan keyin kun davomida biroz qonli ajralma bo‘lishi mumkin — bu odatiy",
+  "Surtma natijalari odatda bir necha kunda tayyor bo‘ladi",
+  "Darrov ishlaringizga qaytishingiz mumkin"
+ ],
+ "red_flags": [
+  "Ko‘p qon ketishi",
+  "Qorin pastida kuchli og‘riq",
+  "Ko‘rikdan keyin harorat va og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Ginekologga qachon borgan yaxshi?",
+   "a": "Rejali ko‘rik uchun odatda hayzdan keyin, siklning 5–10-kuni. Og‘riq yoki qon ketishda kutmay darrov borish kerak."
+  },
+  {
+   "q": "Hayz paytida ginekologga borsa bo‘ladimi?",
+   "a": "Rejali ko‘rikni ko‘chirgan yaxshi. Og‘riq, kuchli qon ketish yoki shoshilinch savol bo‘lsa — kechiktirmay boring."
+  },
+  {
+   "q": "Jinsiy hayot bo‘lmasa, ko‘rik qanday o‘tadi?",
+   "a": "Shifokor ko‘rikni ehtiyotkorlik bilan, ko‘zgusiz o‘tkazadi. Kerak bo‘lsa, ultratovush buyuradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "2 kundan keyin ginekolog ko‘rigi. Surtma olinadigan bo‘lsa — odatda jinsiy aloqasiz, spirinsovkasiz va shamsiz."
+  }
+ ]
+}

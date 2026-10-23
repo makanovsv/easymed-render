@@ -1,0 +1,79 @@
+{
+ "title": "Hemodiálise",
+ "also": [
+  "diálise",
+  "hemodiálise",
+  "rim artificial",
+  "máquina de diálise"
+ ],
+ "what": "Uma máquina limpa o sangue quando os rins não dão conta. O sangue passa por um filtro e volta para o corpo.",
+ "why": "Na insuficiência renal grave, normalmente de forma permanente, algumas vezes por semana.",
+ "duration": "uma sessão dura normalmente cerca de 4 horas, normalmente 3 vezes por semana",
+ "tell_doctor": [
+  "Todos os remédios. Alguns são dados depois da sessão",
+  "Como você se sentiu depois da última sessão",
+  "Se o peso mudou, se apareceram inchaço ou falta de ar",
+  "Se a fístula dói, inchou ou parou de vibrar"
+ ],
+ "prepare": [
+  {
+   "title": "Peso",
+   "text": "Pese-se todos os dias. Entre as sessões, controle quanto você bebe."
+  },
+  {
+   "title": "Bebida e comida",
+   "text": "As restrições de água, sal, potássio e fósforo, o médico passa. Não mude por conta própria."
+  },
+  {
+   "title": "Fístula",
+   "text": "No braço da fístula: sem roupa apertada, relógio, aperto ou picadas. Confira todos os dias o sopro e a vibração."
+  }
+ ],
+ "bring": [
+  "Lista de remédios",
+  "Anotações de peso e pressão",
+  "Manta, livro ou fones de ouvido",
+  "Um lanche, se for permitido"
+ ],
+ "steps": [
+  "Você é pesado e medem a pressão",
+  "A enfermeira limpa o braço e coloca duas agulhas na fístula, ou conecta no cateter",
+  "O sangue vai para a máquina, é limpo e volta",
+  "Você fica deitado ou sentado por algumas horas",
+  "A enfermeira acompanha a pressão e como você está",
+  "No fim, tiram as agulhas e apertam os locais das picadas"
+ ],
+ "feel": [
+  "As picadas das agulhas na fístula",
+  "Durante a sessão pode haver cãibras, fraqueza, tontura. Avise a enfermeira",
+  "Depois da sessão muitas vezes há cansaço"
+ ],
+ "after": [
+  "Aperte os locais das picadas até parar de sangrar",
+  "Levante devagar. Pode dar tontura",
+  "Siga a dieta e a restrição de água",
+  "Não falte às sessões"
+ ],
+ "red_flags": [
+  "Sangramento da fístula que não para: aperte e ligue para a emergência",
+  "Falta de ar forte, dor no peito: ligue para a emergência",
+  "A fístula parou de vibrar e de fazer sopro: ligue logo para a unidade de diálise",
+  "Febre, calafrios, vermelhidão no local do acesso"
+ ],
+ "faq": [
+  {
+   "q": "Posso faltar a uma sessão?",
+   "a": "Não. Faltar é perigoso: o potássio e o líquido se acumulam no sangue. Se algo atrapalhar, ligue logo para a unidade."
+  },
+  {
+   "q": "Posso viajar?",
+   "a": "Pode, se combinar antes a diálise em outra cidade. Converse com a unidade."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a diálise. Pese-se de manhã e leve a lista de remédios e uma manta."
+  }
+ ]
+}

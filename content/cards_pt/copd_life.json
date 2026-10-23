@@ -1,0 +1,75 @@
+{
+ "title": "Vivendo com DPOC",
+ "also": [
+  "DPOC",
+  "doença pulmonar obstrutiva crônica",
+  "bronquite crônica de fumante",
+  "enfisema"
+ ],
+ "what": "A DPOC é uma doença do pulmão em que respirar vai ficando mais difícil. O tratamento e o estilo de vida ajudam a frear a doença e a ter menos falta de ar.",
+ "why": "Se o médico encontrou DPOC, mais comum em quem fumou ou respirou poeira e fumaça por muito tempo.",
+ "duration": "o tratamento costuma ser contínuo; o controle com o médico segue um calendário",
+ "tell_doctor": [
+  "Se você fuma agora: o médico vai ajudar a parar",
+  "Com que frequência há pioras e falta de ar",
+  "Quais bombinhas você usa e como",
+  "Se apareceu inchaço nas pernas"
+ ],
+ "prepare": [
+  {
+   "title": "Parar de fumar",
+   "text": "É o mais importante. Peça ajuda ao médico: assim é mais fácil parar."
+  },
+  {
+   "title": "Bombinhas",
+   "text": "Mostre ao médico como você as usa."
+  },
+  {
+   "title": "Vacinas",
+   "text": "Pergunte ao médico sobre as vacinas contra gripe e pneumococo."
+  }
+ ],
+ "bring": [
+  "Bombinhas",
+  "Lista de remédios",
+  "Diário de como se sente"
+ ],
+ "steps": [
+  "Use as bombinhas todo dia, como o médico receitou",
+  "Mexa-se todo dia: caminhe em ritmo tranquilo",
+  "Faça os exercícios de respiração que o médico ensinou",
+  "Na falta de ar, respire com os lábios quase fechados: puxe o ar pelo nariz e solte devagar pela boca",
+  "Coma pouco de cada vez, mas com regularidade",
+  "Evite fumaça, poeira e ar frio"
+ ],
+ "feel": [
+  "Falta de ar no esforço é comum; o treino diminui",
+  "Tosse com catarro de manhã é comum"
+ ],
+ "after": [
+  "Perceba os sinais de piora: mais falta de ar, mais catarro, catarro mudou de cor",
+  "Na piora, fale com o médico na hora",
+  "Pergunte sobre o programa de reabilitação pulmonar"
+ ],
+ "red_flags": [
+  "Falta de ar forte em repouso, difícil falar: ligue para a emergência",
+  "Lábios roxos, confusão ou sonolência: ligue para a emergência",
+  "Dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Vale a pena parar de fumar se já tenho a doença?",
+   "a": "Sim. Isso freia a doença em qualquer idade."
+  },
+  {
+   "q": "Vou precisar de oxigênio em casa?",
+   "a": "Só algumas pessoas. O médico decide pelos exames."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Bombinha da manhã e uma caminhada curta em ritmo tranquilo."
+  }
+ ]
+}

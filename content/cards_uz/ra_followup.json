@@ -1,0 +1,76 @@
+{
+ "title": "Revmatoid artritda kuzatuv",
+ "also": [
+  "revmatoid artrit",
+  "revmatolog kuzatuvi",
+  "artrit nazorati",
+  "revmatolog"
+ ],
+ "what": "Revmatolog davo qanday ishlayotganini va zarar keltirmayotganini muntazam tekshiradi. Shunday qilib bo‘g‘imlarni saqlab qolish mumkin.",
+ "why": "Revmatoid artriti bor hammaga: odatda davoning boshida har 1–3 oyda, kasallik tinch bo‘lganda esa kamroq.",
+ "duration": "qabul odatda 20–30 daqiqa, tahlillar 1–3 kunda",
+ "tell_doctor": [
+  "Qaysi bo‘g‘imlar og‘riydi va shishadi, ertalabki qotish qancha davom etadi",
+  "Dorilarning nojo‘ya ta’sirlari: ko‘ngil aynishi, toshma, tez-tez infeksiyalar",
+  "Homiladorlikni rejalashtiryapsizmi",
+  "Yaqinda infeksiya, emlash yoki operatsiya bo‘lganmi",
+  "Barcha dorilar va qo‘shimchalar"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Qabuldan oldin ko‘pincha qon topshiriladi: umumiy tahlil, jigar sinamalari, yallig‘lanish belgilari. Qaysilari va qachon ekanini aniqlab oling."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Tashriflar orasida o‘zingizni qanday his qilganingizni yozib boring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Sxema bo‘yicha iching. O‘tkazib yubormang va o‘zingiz bekor qilmang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Yangi tahlillar",
+  "Ahvol kundaligi",
+  "Dorilar va dozalar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor og‘riq, qotish va nojo‘ya ta’sirlar haqida so‘raydi",
+  "Bo‘g‘imlarni ko‘radi va paypaslaydi",
+  "Tahlillarni ko‘radi",
+  "Kasallik faolligini baholaydi",
+  "Davoni qoldirish yoki o‘zgartirishni hal qiladi",
+  "Keyingi nazorat sanasini belgilaydi"
+ ],
+ "feel": [
+  "Yallig‘langan bo‘g‘imlarni paypaslash og‘riqli bo‘lishi mumkin",
+  "Qon tahlili: qisqa sanchiq"
+ ],
+ "after": [
+  "Tahlillarni o‘z vaqtida topshiring: bu nojo‘ya ta’sirlardan himoya qiladi",
+  "Emlash va operatsiyalardan oldin shifokorga davo haqida ayting",
+  "Harakat qiling va shifokor ruxsat bergan mashqlarni bajaring"
+ ],
+ "red_flags": [
+  "Davo fonida yuqori harorat, yo‘tal, hansirash: shoshilinch shifokorga",
+  "Keskin holsizlik, qon ketishga moyillik, terining sarg‘ayishi: shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Bo‘g‘imlar og‘rimasa, davoni tashlasa bo‘ladimi?",
+   "a": "Yo‘q, shifokorsiz bo‘lmaydi. Kasallik qaytishi mumkin."
+  },
+  {
+   "q": "Emlanish mumkinmi?",
+   "a": "Ko‘pchiligini mumkin va kerak, lekin albatta revmatolog bilan kelishing."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "2 kundan keyin revmatolog qabuli. Shifokor so‘ragan bo‘lsa, tahlillarni topshirishni unutmang."
+  }
+ ]
+}

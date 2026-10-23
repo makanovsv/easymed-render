@@ -1,0 +1,84 @@
+{
+ "title": "Tratamento com iodo radioativo",
+ "also": [
+  "iodoterapia",
+  "radioiodoterapia",
+  "tratamento com iodo-131",
+  "dose de iodo radioativo"
+ ],
+ "what": "Você toma uma cápsula ou um líquido com iodo radioativo. Ele se acumula na tireoide e aos poucos diminui ou destrói o tecido dela.",
+ "why": "Com a tireoide funcionando demais e depois da cirurgia de câncer de tireoide.",
+ "duration": "tomar a cápsula leva alguns minutos; na internação, normalmente alguns dias, conforme as regras da clínica",
+ "tell_doctor": [
+  "Gravidez ou se pode haver gravidez. O tratamento não é feito na gravidez",
+  "Amamentação. É preciso parar antes. O médico diz quando",
+  "Todos os remédios, principalmente os hormônios da tireoide",
+  "Tomografias com contraste recentes. O contraste tem iodo",
+  "Se em casa há crianças pequenas ou grávidas"
+ ],
+ "prepare": [
+  {
+   "title": "Dieta",
+   "text": "Normalmente, 1 a 2 semanas antes do tratamento, dieta com pouco iodo: sem frutos do mar, algas e sal iodado. A clínica passa a lista exata."
+  },
+  {
+   "title": "Hormônios",
+   "text": "Não pare por conta própria. Se for preciso pausar o hormônio da tireoide, o médico diz quando e como."
+  },
+  {
+   "title": "Exame",
+   "text": "Nas mulheres, normalmente se faz um teste de gravidez antes do tratamento."
+  },
+  {
+   "title": "Coisas",
+   "text": "Leve o mínimo de coisas. Algumas depois é melhor lavar separado."
+  }
+ ],
+ "bring": [
+  "Pedido médico e laudos",
+  "Documento de identidade",
+  "Lista de remédios",
+  "Roupa para trocar e coisas simples para alguns dias"
+ ],
+ "steps": [
+  "Você fica num quarto separado",
+  "O médico explica as regras de novo",
+  "Você engole a cápsula ou bebe o líquido, com água",
+  "Nas primeiras horas, normalmente não pode comer",
+  "Você bebe bastante líquido e vai muito ao banheiro. Assim o excesso sai mais rápido",
+  "Um especialista mede a radiação, e quando ela baixa você recebe alta"
+ ],
+ "feel": [
+  "Não se sente nada ao tomar",
+  "Às vezes boca seca, mudança no paladar, um pouco de enjoo",
+  "Nos primeiros dias pode haver inchaço e dor no pescoço",
+  "O isolamento é chato. Leve um livro ou fones de ouvido"
+ ],
+ "after": [
+  "Por alguns dias depois da alta, fique longe das pessoas, principalmente crianças e grávidas. Os prazos, o médico diz",
+  "Durma separado, use seus próprios pratos, copos e toalha",
+  "Dê descarga várias vezes e lave bem as mãos",
+  "A gravidez normalmente é adiada pelo prazo que o médico disser",
+  "Exames de controle dos hormônios, depois de algumas semanas"
+ ],
+ "red_flags": [
+  "Inchaço forte no pescoço, dificuldade para respirar ou engolir: ligue para a emergência",
+  "Vômito forte que impede de beber"
+ ],
+ "faq": [
+  {
+   "q": "Vou ser perigoso para a família?",
+   "a": "Por pouco tempo depois do tratamento, sim. Por isso há as regras de distância. O médico diz por quantos dias seguir."
+  },
+  {
+   "q": "Posso beber muita água?",
+   "a": "Pode, e é até necessário. A água ajuda o iodo que sobra a sair mais rápido do corpo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Daqui a 2 dias é o tratamento com iodo radioativo. Continue a dieta com pouco iodo e separe coisas simples para alguns dias."
+  }
+ ]
+}

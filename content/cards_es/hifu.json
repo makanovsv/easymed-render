@@ -1,0 +1,77 @@
+{
+ "title": "Lifting SMAS (HIFU)",
+ "also": [
+  "lifting SMAS",
+  "lifting ultrasónico",
+  "HIFU",
+  "ultrasonido focalizado",
+  "lifting con ultrasonido"
+ ],
+ "what": "El aparato dirige ultrasonido enfocado a las capas profundas de la piel. Sin cortes ni inyecciones, la piel se va tensando con el tiempo.",
+ "why": "Con flacidez leve de la piel de la cara y el cuello, cuando el paciente no quiere cirugía.",
+ "duration": "el procedimiento normalmente dura de 30 a 90 minutos; el efecto aumenta durante varios meses",
+ "tell_doctor": [
+  "Si estás embarazada",
+  "Si tienes implantes, hilos o placas metálicas en la cara",
+  "Si te pusieron inyecciones estéticas hace poco",
+  "Si tienes marcapasos",
+  "Enfermedades de la piel e inflamaciones en la cara"
+ ],
+ "prepare": [
+  {
+   "title": "Piel",
+   "text": "Ven sin maquillaje o te lo quitan en la clínica."
+  },
+  {
+   "title": "Sol",
+   "text": "Unos días antes, mejor sin broncearte."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas."
+  }
+ ],
+ "bring": [
+  "Identificación",
+  "La lista de medicamentos, si tomas alguno"
+ ],
+ "steps": [
+  "Limpian la piel y a veces aplican una crema anestésica",
+  "El médico marca las zonas",
+  "Aplican gel y colocan el cabezal del aparato",
+  "El aparato recorre la piel en líneas; sientes los impulsos",
+  "Retiran el gel y aplican una crema calmante"
+ ],
+ "feel": [
+  "Los impulsos se sienten como calor, hormigueo o piquetes cortos, en algunas zonas incómodos",
+  "Sobre los huesos duele más",
+  "Después hay un enrojecimiento e hinchazón leves, normalmente por unos días"
+ ],
+ "after": [
+  "Normalmente puedes volver a tus actividades el mismo día",
+  "Unos días sin baño de vapor ni sauna",
+  "Usa protector solar",
+  "El resultado se evalúa después de varios meses"
+ ],
+ "red_flags": [
+  "Dolor fuerte o adormecimiento de la cara que no se quitan",
+  "Ampollas o quemadura en la piel",
+  "Asimetría de la cara o dificultad para mover los labios: acude al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Duele?",
+   "a": "Puede ser incómodo. La tolerancia es distinta en cada persona; díselo al médico, se puede ajustar la potencia."
+  },
+  {
+   "q": "¿Cuándo se ve el resultado?",
+   "a": "Una parte del efecto se ve de inmediato; el principal, después de varios meses."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu lifting SMAS. Ven sin maquillaje. Si tienes dudas sobre medicamentos, pregunta al médico."
+  }
+ ]
+}

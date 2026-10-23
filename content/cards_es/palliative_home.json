@@ -1,0 +1,76 @@
+{
+ "title": "Cuidados paliativos en casa",
+ "also": [
+  "paliativos",
+  "ayuda a enfermos graves",
+  "servicio de paliativos a domicilio",
+  "cuidado de un enfermo grave en casa"
+ ],
+ "what": "Médicos y enfermeras van a casa de una persona gravemente enferma. Quitan el dolor, alivian otros síntomas y ayudan a la familia.",
+ "why": "En una enfermedad grave e incurable, cuando lo principal es disminuir el dolor y hacer la vida más tranquila.",
+ "duration": "la visita normalmente dura de 30 a 60 minutos; el seguimiento, el tiempo que haga falta",
+ "tell_doctor": [
+  "Qué síntomas molestan más: dolor, falta de aire, náuseas, insomnio",
+  "Qué medicamentos recibe la persona y cómo los tolera",
+  "Si puede comer, beber, levantarse",
+  "Quién la cuida y qué es lo difícil",
+  "Los deseos de la propia persona sobre el tratamiento"
+ ],
+ "prepare": [
+  {
+   "title": "Orden médica",
+   "text": "Normalmente hace falta el informe del médico sobre el estado paliativo. Cómo tramitarlo, confírmalo en el centro de salud."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Reúne todos los medicamentos y las notas de cuándo se dieron."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Anota lo que te preocupa como cuidador."
+  }
+ ],
+ "bring": [
+  "Los documentos del enfermo",
+  "Resúmenes e informes",
+  "Todos los medicamentos",
+  "Notas del dolor y los síntomas"
+ ],
+ "steps": [
+  "El equipo llega a la hora acordada",
+  "El médico pregunta y examina al enfermo",
+  "Evalúa el dolor y otros síntomas",
+  "Elige o cambia el tratamiento",
+  "La enfermera muestra cómo cuidarlo",
+  "Acuerdan la siguiente visita y cómo comunicarse"
+ ],
+ "feel": [
+  "La revisión es cuidadosa",
+  "A los familiares les puede costar; el equipo también apoya a la familia"
+ ],
+ "after": [
+  "Da los medicamentos exactamente según el esquema",
+  "Anota cómo cambia el dolor",
+  "Llama al servicio si empeoró; no esperes a la siguiente visita"
+ ],
+ "red_flags": [
+  "Dolor fuerte que los medicamentos no quitan: llama al servicio de paliativos",
+  "Respiración difícil, sangrado, convulsiones: llama a emergencias o al servicio"
+ ],
+ "faq": [
+  {
+   "q": "¿Los paliativos son solo para los últimos días?",
+   "a": "No. Se puede recibir la ayuda durante mucho tiempo, para que la persona esté mejor."
+  },
+  {
+   "q": "¿Se puede recibir analgesia en casa?",
+   "a": "Sí, el médico elegirá y recetará los medicamentos necesarios."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la visita del servicio de paliativos. Reúne todos los medicamentos y anota lo que te preocupa."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Atestado médico para entrar na universidade",
+ "also": [
+  "atestado médico para matrícula",
+  "atestado 086/u",
+  "atestado de saúde para faculdade",
+  "exame médico para universidade"
+ ],
+ "what": "É um atestado de saúde que a universidade ou a escola técnica pede. Na Rússia e no Cazaquistão ele é chamado de formulário 086/u. É emitido depois da consulta com alguns médicos e de exames.",
+ "why": "Para entrar na universidade, na escola técnica ou em alguns cursos com exigências extras.",
+ "duration": "normalmente de 1 a 3 dias para tudo; o atestado é entregue depois dos exames",
+ "tell_doctor": [
+  "Doenças crônicas",
+  "Doenças dos olhos e como está a visão",
+  "Quais remédios você toma",
+  "As exigências da sua universidade para o atestado"
+ ],
+ "prepare": [
+  {
+   "title": "Exigências",
+   "text": "Pergunte na secretaria de admissão qual modelo de atestado é preciso e se o curso tem exigências especiais."
+  },
+  {
+   "title": "Exames",
+   "text": "Sangue e urina normalmente são colhidos de manhã, em jejum. Confirme na clínica."
+  },
+  {
+   "title": "Vacinas",
+   "text": "Leve a carteira de vacinação."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Carteira de vacinação",
+  "Fluorografia (raio-X de tórax) do último ano, se tiver",
+  "Lista de exigências da universidade"
+ ],
+ "steps": [
+  "Você preenche um questionário",
+  "Colhe sangue e urina",
+  "Faz a fluorografia, se não tiver uma recente",
+  "Passa pelo clínico, oftalmologista, otorrino, cirurgião, neurologista e outros da lista",
+  "Às vezes fazem eletrocardiograma",
+  "O clínico emite o atestado"
+ ],
+ "feel": [
+  "As consultas não doem",
+  "O exame de sangue: uma picada rápida"
+ ],
+ "after": [
+  "Confira se o atestado tem todos os carimbos e assinaturas",
+  "Faça uma cópia para você",
+  "Entregue o atestado na secretaria de admissão no prazo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Quanto tempo vale o atestado?",
+   "a": "Normalmente alguns meses; o prazo depende das regras. Confirme na universidade."
+  },
+  {
+   "q": "Preciso do atestado para curso a distância?",
+   "a": "Às vezes não. Confirme na secretaria de admissão."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o exame médico para o atestado da universidade. De manhã, não coma antes dos exames; leve a carteira de vacinação."
+  }
+ ]
+}

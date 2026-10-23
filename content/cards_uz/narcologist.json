@@ -1,0 +1,74 @@
+{
+ "title": "Narkolog qabuli",
+ "also": [
+  "narkolog",
+  "qaramlik bo‘yicha shifokor",
+  "alkogolizmni davolash",
+  "qaramlikda yordam"
+ ],
+ "what": "Shifokor alkogol, dorilar va boshqa moddalarga qaramlikda yordam beradi. Shuningdek, ma’lumotnomalar uchun ko‘rik o‘tkazadi.",
+ "why": "Alkogol yoki boshqa moddalar bilan muammo bo‘lsa, o‘zingiz yoki yaqinlaringiz xavotirda bo‘lsa; tibbiy komissiyalar va ma’lumotnomalar uchun.",
+ "duration": "qabul odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Nimani, qanchalik tez-tez va qancha iste’mol qilasiz — rostini ayting, bu davolashga yordam beradi",
+  "Oxirgi marta qachon",
+  "Qanday dorilar ichasiz",
+  "Tark etganda tutqanoq yoki og‘ir holat bo‘lganmi",
+  "Jigar, yurak kasalliklari, depressiya bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Anonimlik",
+   "text": "Siz uchun muhim bo‘lsa, anonim qabul haqida klinikadan oldindan so‘rang."
+  },
+  {
+   "title": "Qabuldan oldin",
+   "text": "Hushyor keling — shunda shifokor holatni to‘g‘ri baholay oladi."
+  },
+  {
+   "title": "Qo‘llab-quvvatlash",
+   "text": "Yaqin odam bilan kelishingiz mumkin."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Kasalxonalardan ko‘chirmalar, bo‘lgan bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor odatlaringiz va sog‘ligingiz haqida xotirjam so‘raydi",
+  "Bosim va pulsni o‘lchaydi, ko‘rikdan o‘tkazadi",
+  "Qon yoki siydik tahlilini taklif qilishi mumkin",
+  "Nimaga erishmoqchi ekaningizni siz bilan muhokama qiladi",
+  "Davolash va qo‘llab-quvvatlash rejasini taklif qiladi"
+ ],
+ "feel": [
+  "Qabul og‘riqsiz",
+  "Qaramlik haqida gapirish qiyin — shifokor hukm qilmaydi, yordam beradi"
+ ],
+ "after": [
+  "Davolashni shifokor nazoratida boshlagan ma’qul",
+  "Kuchli qaramlikda birdan tashlash xavfli bo‘lishi mumkin — shifokor bilan muhokama qiling",
+  "Qo‘llab-quvvatlash guruhlari natijani saqlab qolishga yordam beradi"
+ ],
+ "red_flags": [
+  "Alkogoldan voz kechgandan keyin tutqanoq, hushning chalkashishi, ko‘rinishlar — tez yordamni chaqiring (103)",
+  "Zaharlanish belgilari: kuchli uyquchanlik, siyrak nafas — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Ishxonada narkologga borganimni bilib qolishadimi?",
+   "a": "Tibbiy sir qonun bilan himoyalangan. Anonim qabul haqida klinikadan so‘rang."
+  },
+  {
+   "q": "O‘zim tashlasam bo‘ladimi?",
+   "a": "Ba’zan bo‘ladi, lekin kuchli qaramlikda birdan voz kechish xavfli. Shifokor nazoratida yaxshiroq."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga narkolog qabuli. Hujjat va dorilar ro‘yxatini oling."
+  }
+ ]
+}

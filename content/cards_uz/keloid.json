@@ -1,0 +1,69 @@
+{
+ "title": "Keloid chandiqni davolash",
+ "also": [
+  "keloid",
+  "chandiqni davolash",
+  "dag‘al chandiq",
+  "chandiqqa ukol"
+ ],
+ "what": "Keloid — yara chetidan chiqib ketadigan zich, bo‘rtib turgan chandiq. Uni ukollar, bosuvchi bog‘lamlar va boshqa usullar bilan yumshoqroq va yassiroq qilishadi.",
+ "why": "Chandiq o‘sib borganda, qichiganda, og‘riganda yoki halaqit berganda.",
+ "duration": "bir qabul odatda 15–30 daqiqa; davolash odatda bir necha oy davom etadi",
+ "tell_doctor": [
+  "Chandiq qachon va nimadan keyin paydo bo‘lgan",
+  "Sizda yoki qarindoshlaringizda oldin keloid bo‘lganmi",
+  "Qanday davolash allaqachon sinab ko‘rilgan",
+  "Homiladorlik",
+  "Qandli diabet"
+ ],
+ "prepare": [
+  {
+   "title": "Surat",
+   "text": "Davolashdan oldin chandiqni suratga oling — natijani baholash osonroq bo‘ladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Chandiq joyini oson ochish mumkin bo‘lgan kiyim."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Chandiqni oldingi davolash bo‘yicha xulosalar"
+ ],
+ "steps": [
+  "Shifokor chandiqni ko‘zdan kechiradi va usul tanlaydi",
+  "Teri antiseptik bilan artiladi",
+  "Ko‘pincha chandiqqa ingichka igna bilan dori yuboriladi",
+  "Ba’zan silikon plastirlar yoki bosuvchi bog‘lamlar buyuriladi",
+  "Keyingi qabul belgilanadi — odatda bir necha haftadan keyin"
+ ],
+ "feel": [
+  "Chandiqqa ukol sezilarli — to‘qima zich",
+  "Ukoldan keyin joyi bir-ikki kun zirqirashi mumkin",
+  "Natija asta-sekin keladi"
+ ],
+ "after": [
+  "Plastir yoki bog‘lamlardan shifokor aytganidek foydalaning",
+  "Chandiqni quyoshdan asrang",
+  "Takroriy muolajalarga jadval bo‘yicha keling"
+ ],
+ "red_flags": [
+  "Chandiq yallig‘langan, yiringlagan yoki atrofi qattiq qizargan"
+ ],
+ "faq": [
+  {
+   "q": "Keloidni oddiygina kesib tashlash mumkinmi?",
+   "a": "Qo‘shimcha davolashsiz u ko‘pincha yana o‘sadi, ba’zan kattaroq bo‘lib. Shuning uchun shifokor turli usullarni birga qo‘llaydi."
+  },
+  {
+   "q": "Nechta muolaja kerak bo‘ladi?",
+   "a": "Odatda bir nechta, bir necha hafta tanaffus bilan. Ko‘rikdan keyin shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga chandiqni davolash. Agar bo‘lsa, oldingi davolash xulosalarini olib keling."
+  }
+ ]
+}

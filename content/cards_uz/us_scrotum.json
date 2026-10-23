@@ -1,0 +1,61 @@
+{
+ "title": "Yorg‘oq UZI",
+ "also": [
+  "moyak UZI",
+  "yorg‘oq a’zolari UZI"
+ ],
+ "what": "Shifokor ultratovush yordamida moyaklar va atrofidagi to‘qimalarni ko‘radi. Bu xavfsiz, nurlanishsiz va og‘riqsiz.",
+ "why": "Yorg‘oqda og‘riq, shish yoki qotish bo‘lganda, jarohatdan keyin, farzand ko‘rishda muammo bo‘lganda.",
+ "duration": "odatda 15–20 daqiqa",
+ "tell_doctor": [
+  "Shikoyatlar qachon paydo bo‘ldi va nima bezovta qiladi",
+  "Chov va yorg‘oqda jarohat yoki operatsiya bo‘lgan bo‘lsa",
+  "Moyakni joyida emas deb sezsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Maxsus tayyorgarlik kerak emas. Odatdagidek yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Gigiena",
+   "text": "Tekshiruvdan oldin dush qabul qiling — o‘zingiz ham xotirjam bo‘lasiz."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi UZI xulosalari, bo‘lsa",
+  "Gelni artish uchun salfetka yoki sochiq"
+ ],
+ "steps": [
+  "Belingizdan pastini yechib, chalqancha yotasiz",
+  "Jinsiy a’zo salfetka bilan yopiladi",
+  "Shifokor salqin gel surtadi",
+  "Datchik yorg‘oq ustida yumshoq yurgiziladi",
+  "Ba’zan kuchanish yoki turish so‘raladi — shunda tomirlar ko‘rinadi"
+ ],
+ "feel": [
+  "Gel salqin",
+  "Datchik faqat sal bosadi. Joyi og‘riyotgan bo‘lsa, noqulay bo‘lishi mumkin — shifokorga ayting"
+ ],
+ "after": [
+  "Gel artiladi — darrov ishlaringizga qaytsangiz bo‘ladi",
+  "Xulosa odatda darrov beriladi",
+  "Keyin nima qilishni yo‘llanma bergan shifokor aytadi"
+ ],
+ "red_flags": [
+  "Moyakda to‘satdan qattiq og‘riq — rejali UZIni kutmang, darrov tez yordamni chaqiring (103)",
+  "Moyak keskin shishdi, qizardi, ko‘ngil aynishi yoki qusish paydo bo‘ldi"
+ ],
+ "faq": [
+  {
+   "q": "Moyak UZIsi og‘riydimi?",
+   "a": "Yo‘q. Datchik faqat teriga tegadi. Noqulaylik moyak allaqachon og‘riyotgan bo‘lsagina bo‘ladi."
+  },
+  {
+   "q": "Moyakda to‘satdan og‘riq bo‘lsa, nega kutib bo‘lmaydi?",
+   "a": "Moyak buralib, qonsiz qolishi mumkin. Yordam berish faqat dastlabki soatlarda mumkin — darrov tez yordamni chaqiring (103)."
+  }
+ ],
+ "reminders": []
+}

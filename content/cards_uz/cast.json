@@ -1,0 +1,76 @@
+{
+ "title": "Gips qo‘yish",
+ "also": [
+  "gips",
+  "gips bog‘lam",
+  "longeta",
+  "plastik gips"
+ ],
+ "what": "Qo‘l yoki oyoqqa gips yoki plastikdan bog‘lam qo‘yiladi. U suyak yoki paylar bitguncha ularni qimirlatmay ushlab turadi.",
+ "why": "Sinishlar, darzlar, kuchli cho‘zilishlar va paylar uzilishida, ba’zi operatsiyalardan keyin.",
+ "duration": "qo‘yish odatda 15–30 daqiqa; odatda bir necha hafta taqiladi, muddatni shifokor aytadi",
+ "tell_doctor": [
+  "Qandli diabet va tomir muammolari",
+  "Teri kasalliklari, shu joyda yaralar",
+  "Allergiyalar",
+  "Homilador bo‘lsangiz: rentgendan oldin"
+ ],
+ "prepare": [
+  {
+   "title": "Kiyim",
+   "text": "Gipsli qo‘l yoki oyoq sig‘adigan erkin kiyim."
+  },
+  {
+   "title": "Taqinchoqlar",
+   "text": "Jarohatlangan qo‘ldagi uzuk va bilaguzuklarni yechib qo‘ying: qo‘l shishishi mumkin."
+  }
+ ],
+ "bring": [
+  "Hujjatlar",
+  "Boshqa joyda rentgen qilingan bo‘lsa, suratlar",
+  "Keng shim yoki erkin yeng"
+ ],
+ "steps": [
+  "Odatda avval rentgen qilinadi",
+  "Shifokor suyak yoki bo‘g‘imni to‘g‘ri holatga keltiradi",
+  "Teri yumshoq paypoq va paxta qatlami bilan yopiladi",
+  "Gips yoki plastikdan ho‘l bintlar o‘raladi",
+  "Bog‘lam qo‘l yoki oyoq shakliga qarab silliqlanadi",
+  "Gips asta-sekin qotadi",
+  "Ko‘pincha nazorat rentgeni qilinadi"
+ ],
+ "feel": [
+  "Gips qotayotganda issiq bo‘ladi: bu normal",
+  "Og‘irlik va qimirlamaslik",
+  "Dastlabki kunlarda jarohat joyi zirqirashi mumkin"
+ ],
+ "after": [
+  "Dastlabki 1–2 kun qo‘l yoki oyoqni balandroq tutib turing: shish kamayadi",
+  "Gipsni ho‘llamang: yuvinayotganda paket bilan yoping",
+  "Qichisa ham gips ostiga hech narsa tiqmang",
+  "Imkon bo‘lsa, barmoqlarni qimirlatib turing",
+  "Nazorat ko‘rigi va rentgen shifokor aytgan muddatda"
+ ],
+ "red_flags": [
+  "Barmoqlar ko‘karsa, oqarsa, sovuq bo‘lsa yoki uyushsa, darhol shifokorga boring yoki tez yordamni chaqiring (103)",
+  "Kuchayib boradigan kuchli og‘riq, gips qattiq siqsa",
+  "Yoqimsiz hid, achishish yoki gips ostidan suyuqlik oqsa",
+  "Boldirda og‘riq va shish bo‘lsa, darhol shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Gips ostida qichisa nima qilish kerak?",
+   "a": "Ichkariga hech narsa tiqmang. Fendan salqin havo puflash mumkin."
+  },
+  {
+   "q": "Gipsli oyoqqa tayanish mumkinmi?",
+   "a": "Faqat shifokor ruxsat bergan bo‘lsa. Odatda avval qo‘ltiqtayoq bilan yuriladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada gips qo‘yiladi. Uzuk va bilaguzuklarni yeching, erkin kiyim oling."
+  }
+ ]
+}

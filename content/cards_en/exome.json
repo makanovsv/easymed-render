@@ -1,0 +1,76 @@
+{
+ "title": "Exome sequencing for children",
+ "also": [
+  "whole exome sequencing",
+  "WES",
+  "genetic test for children",
+  "exome test"
+ ],
+ "what": "This is a large genetic test that reads almost all of a child's genes at once. It helps find the cause of an illness when other tests gave no answer.",
+ "why": "For developmental delay, birth defects, seizures, unusual physical features, or illnesses that could not be explained.",
+ "duration": "the blood draw usually takes 5 to 10 minutes; results usually come in several weeks",
+ "tell_doctor": [
+  "All of the child's diagnoses and tests. Bring the reports",
+  "Conditions in the family, and if the parents are related",
+  "If the child had a blood transfusion, and when",
+  "If other genetic tests were done before"
+ ],
+ "prepare": [
+  {
+   "title": "Counseling",
+   "text": "Before the test, a geneticist will talk with you about what the test can and cannot find."
+  },
+  {
+   "title": "Parents",
+   "text": "Often both mom and dad are asked to give blood too. This makes the result more accurate. Check with the clinic."
+  },
+  {
+   "title": "Food",
+   "text": "Your child usually does not need to fast."
+  },
+  {
+   "title": "Your child",
+   "text": "Explain in simple words that there will be a quick prick. Bring a toy or a tablet."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "ID for the child and parents",
+  "All doctors' reports and past genetic tests",
+  "A toy or a tablet"
+ ],
+ "steps": [
+  "You sit with your child. You can hold them on your lap",
+  "The nurse wipes the skin on the arm with antiseptic",
+  "A quick prick, and blood goes into a tube",
+  "If needed, the parents give blood too",
+  "The tubes are sent to a genetics lab"
+ ],
+ "feel": [
+  "The prick is quick. Little ones often cry. Pick your child up right away",
+  "Parents are often more anxious than the child. That is normal. Ask the geneticist questions"
+ ],
+ "after": [
+  "Results usually come in several weeks",
+  "A geneticist explains the result at a separate visit",
+  "The test does not find a cause in every child. That does not mean there is nothing more to look for",
+  "The data can be reviewed again later, as science learns more"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why do the parents need to give blood?",
+   "a": "It shows the lab which changes the child got from the parents and which are new. This helps find the cause."
+  },
+  {
+   "q": "What if nothing is found?",
+   "a": "That happens. The doctor will decide if other tests or a later review of the data are needed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Your child's genetic test is tomorrow. Bring ID and doctors' reports. The parents may also give blood."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "title": "Contraste na tomografia e na ressonância: rins, alergia e amamentação",
+ "also": [
+  "contraste",
+  "contraste iodado",
+  "tomografia com contraste",
+  "ressonância com contraste",
+  "contraste e rins"
+ ],
+ "what": "O contraste é um remédio aplicado na veia para que vasos e órgãos apareçam melhor na tomografia ou na ressonância. Na tomografia normalmente é com iodo, na ressonância é à base de gadolínio.",
+ "why": "Quando o médico precisa ver melhor órgãos, tumores, inflamação ou vasos.",
+ "duration": "a aplicação leva um minuto, o contraste sai pelos rins normalmente em um dia",
+ "tell_doctor": [
+  "Se já teve reação a contraste",
+  "Se tem asma ou alergia forte",
+  "Se tem doença nos rins ou faz diálise",
+  "Se tem diabetes e toma comprimidos para a glicose",
+  "Se pode haver gravidez ou se está amamentando",
+  "Se tem doença da tireoide, no caso da tomografia"
+ ],
+ "prepare": [
+  {
+   "title": "Exame",
+   "text": "Muitas vezes pedem um exame de sangue de creatinina. Assim se checam os rins."
+  },
+  {
+   "title": "Comida",
+   "text": "Às vezes pedem para não comer por 2 a 4 horas. Confirme com a clínica."
+  },
+  {
+   "title": "Água",
+   "text": "Se o médico não restringiu, beba água normalmente na véspera e no dia do exame."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Se toma remédio para diabetes, o médico diz o que fazer."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exame de creatinina",
+  "Relatório da reação anterior ao contraste, se teve",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Antes do exame, perguntam sobre alergias e rins",
+  "Colocam um cateter fino na veia do braço",
+  "Durante as imagens, o contraste é aplicado pelo cateter",
+  "Depois do exame, pedem para ficar sentado 15 a 30 minutos",
+  "Tiram o cateter"
+ ],
+ "feel": [
+  "Na tomografia: calor pelo corpo, gosto de metal, parece que dá vontade de ir ao banheiro",
+  "Na ressonância: normalmente nada, ou um friozinho no braço",
+  "Essas sensações passam em um minuto"
+ ],
+ "after": [
+  "Neste dia, beba mais água, se o médico não restringiu",
+  "Normalmente pode amamentar depois do contraste. Confirme com o médico",
+  "Se tem doença nos rins, o médico pode pedir um exame depois"
+ ],
+ "red_flags": [
+  "Manchas, coceira, inchaço no rosto ou nos lábios, dificuldade para respirar: ligue para a emergência",
+  "Dor forte, inchaço ou vermelhidão no local da picada",
+  "A urina diminuiu muito nos dias seguintes"
+ ],
+ "faq": [
+  {
+   "q": "Posso amamentar depois do contraste?",
+   "a": "Normalmente sim. Passa muito pouco para o leite. Se tiver dúvida, converse com o médico."
+  },
+  {
+   "q": "E se eu já tive alergia a contraste?",
+   "a": "Avise antes, sem falta. O médico decide se troca o exame ou se dá remédios antes."
+  },
+  {
+   "q": "O contraste faz mal aos rins?",
+   "a": "Para rins saudáveis, o risco é muito pequeno. Com doença nos rins, o médico avalia antes o benefício e o risco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o exame com contraste. Leve o exame de creatinina e beba água, se o médico não restringiu."
+  }
+ ]
+}

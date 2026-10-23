@@ -1,0 +1,68 @@
+{
+ "title": "Siydik chiqarish kundaligi",
+ "also": [
+  "siydik chiqarish kundaligi",
+  "hojatxona kundaligi",
+  "siydik chiqarish taqvimi",
+  "ichish va hojatxona kundaligi"
+ ],
+ "what": "Uyda bir necha kun qancha ichishingiz va hojatxonaga qachon borishingizni yozib borasiz. Ba’zan — bir safarda qancha siydik chiqishini ham.",
+ "why": "Tez-tez istakda, tunda hojatxonaga borishda, siydikni tuta olmaslikda. Shifokor kundalikdan eslash qiyin bo‘lgan narsani ko‘radi.",
+ "duration": "odatda 2–3 kun yozuvlar, tahlil — qabulda",
+ "tell_doctor": [
+  "Qanday dorilar ichasiz, ayniqsa siydik haydovchilar",
+  "Eng ko‘p nima bezovta qiladi",
+  "Yozish qiyin bo‘lsa — ayting, shifokor qulay variantni taklif qiladi"
+ ],
+ "prepare": [
+  {
+   "title": "Blank",
+   "text": "Shifokordan blank oling yoki daftarni chizing: vaqt, qancha ichildi, qancha siydik, istak va tomchilash bo‘ldimi."
+  },
+  {
+   "title": "O‘lchov idishi",
+   "text": "O‘lchov krujka yoki bo‘linmali banka kerak — unga siydik chiqarib, hajmini yozasiz."
+  },
+  {
+   "title": "Kunlar",
+   "text": "Uyda bo‘ladigan oddiy kunlarni tanlang. Odatdagidek iching va yashang."
+  }
+ ],
+ "bring": [
+  "To‘ldirilgan kundalik",
+  "Yo‘llanma, agar bo‘lsa"
+ ],
+ "steps": [
+  "Ertalab turgan vaqtingizni belgilang",
+  "Har safar vaqt va qancha ichganingizni yozing",
+  "Har bir hojatxonaga borish — vaqt va siydik hajmi",
+  "Kuchli istaklar va tomchilashni, bo‘lsa, belgilang",
+  "Tungi turishlarni ham yozing",
+  "Kundalikni qabulda shifokorga bering"
+ ],
+ "feel": [
+  "Birinchi kun mashaqqatli tuyuladi, keyin ko‘nikasiz",
+  "Uyalish bo‘lishi mumkin — shifokorga halol raqamlar kerak"
+ ],
+ "after": [
+  "Kundalikni qabulga olib keling",
+  "Shifokor uni tahlil qilib, keyin nima qilishni aytadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Odatdagidan ko‘proq yoki kamroq ichish kerakmi?",
+   "a": "Yo‘q. Odatdagidek iching, aks holda kundalik sizning holatingizni ko‘rsatmaydi."
+  },
+  {
+   "q": "Yozuvni o‘tkazib yuborsam-chi?",
+   "a": "Hech narsa emas. O‘tkazib yuborilganini belgilang va davom eting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga siydik chiqarish kundaligini boshlaysiz. Blank va o‘lchov idishini tayyorlang."
+  }
+ ]
+}

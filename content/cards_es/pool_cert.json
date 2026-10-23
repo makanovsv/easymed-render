@@ -1,0 +1,63 @@
+{
+ "title": "Certificado médico para la alberca",
+ "also": [
+  "certificado para la alberca",
+  "certificado para la piscina",
+  "constancia médica para nadar",
+  "certificado de salud para natación"
+ ],
+ "what": "Una revisión corta, después de la cual te dan un certificado de que puedes nadar en una alberca pública.",
+ "why": "Antes de ir a la alberca: muchas lo piden a adultos y a niños.",
+ "duration": "normalmente de 15 a 30 minutos, si los análisis ya están listos",
+ "tell_doctor": [
+  "Enfermedades de la piel, hongos en los pies",
+  "Enfermedades del corazón, epilepsia, lesiones recientes",
+  "En un niño: enfermedades y alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Muchas veces piden un análisis de parásitos: raspado o muestra de heces. Pregunta en la alberca y en la clínica."
+  },
+  {
+   "title": "Requisitos",
+   "text": "Averigua en la alberca qué certificado necesitan y por cuánto tiempo vale."
+  }
+ ],
+ "bring": [
+  "Tu documento de identidad o el del niño",
+  "Los resultados de los análisis, si ya los hiciste"
+ ],
+ "steps": [
+  "Vas con el médico general, el pediatra o el dermatólogo",
+  "El médico te pregunta por tu salud",
+  "Te revisa la piel, sobre todo los pies",
+  "Si hace falta, te manda a hacerte un análisis",
+  "Te entrega el certificado"
+ ],
+ "feel": [
+  "La revisión no duele",
+  "Si toman un raspado, es rápido y no duele"
+ ],
+ "after": [
+  "Entrega el certificado en la alberca",
+  "Fíjate en la vigencia: normalmente se renueva cada pocos meses"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué la alberca pide certificado?",
+   "a": "Para evitar enfermedades de la piel, hongos y parásitos. Es una protección para todos."
+  },
+  {
+   "q": "¿Se puede obtener sin análisis?",
+   "a": "Depende de la alberca. Muchas piden el análisis de parásitos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana vas por el certificado para la alberca. Confirma si piden análisis de parásitos y lleva tu documento."
+  }
+ ]
+}

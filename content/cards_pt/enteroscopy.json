@@ -1,0 +1,83 @@
+{
+ "title": "Enteroscopia do intestino delgado",
+ "also": [
+  "enteroscopia",
+  "enteroscopia com balão",
+  "exame do intestino delgado",
+  "enteroscopia de duplo balão"
+ ],
+ "what": "Com um tubo longo com câmera, o médico examina o intestino delgado, onde a endoscopia ou a colonoscopia comuns não chegam.",
+ "why": "Com sangramento escondido, anemia sem causa clara, achados na cápsula endoscópica; para colher biópsia ou tirar um pólipo.",
+ "duration": "o procedimento leva normalmente 1 a 2 horas; o resultado da biópsia sai em 1 a 2 semanas",
+ "tell_doctor": [
+  "Remédios que afinam o sangue e ferro",
+  "Diabetes",
+  "Cirurgias na barriga no passado",
+  "Doenças do coração e dos pulmões",
+  "Se houve problemas com anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Via",
+   "text": "O tubo entra pela boca ou pelo ânus. O preparo depende disso. Confirme com a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Pela boca: normalmente não se come por 8 a 12 horas. Pelo ânus: dieta e limpeza do intestino, como antes da colonoscopia."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. O que pular, o médico diz."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "O procedimento é com sedação ou anestesia. É preciso um acompanhante."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos de exames anteriores e da cápsula endoscópica",
+  "Documento de identidade",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Colocam um cateter na veia",
+  "Aplicam sedação ou anestesia, e você dorme",
+  "O médico coloca um tubo longo com balões na ponta",
+  "Os balões enchem um de cada vez, e o tubo avança passo a passo pelo intestino",
+  "Se for preciso, tiram pedacinhos de tecido, param um sangramento ou retiram um pólipo",
+  "Às vezes marcam o local com uma tinta especial para o cirurgião"
+ ],
+ "feel": [
+  "Dormindo, normalmente não se sente o procedimento",
+  "Depois, barriga estufada e cólicas",
+  "Se foi pela boca, dor de garganta por um ou dois dias"
+ ],
+ "after": [
+  "Normalmente pode comer depois de algumas horas, primeiro comida leve",
+  "O inchaço passa em algumas horas. Caminhar ajuda",
+  "Depois da sedação, não dirija até o fim do dia",
+  "Os resultados da biópsia saem em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, barriga dura: ligue para a emergência",
+  "Vômito com sangue, fezes pretas ou sangue pelo ânus",
+  "Febre acima de 38 °C"
+ ],
+ "faq": [
+  {
+   "q": "Por que o procedimento demora tanto?",
+   "a": "O intestino delgado é muito comprido. Para examinar, o tubo avança passo a passo."
+  },
+  {
+   "q": "Por que dois procedimentos, pela boca e por baixo?",
+   "a": "Às vezes, por um lado só, não dá para ver o intestino todo. Aí a segunda parte é feita pelo outro lado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a enteroscopia. Comida e preparo exatamente como a clínica orientou. Vá com um acompanhante."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Sutkalik siydik",
+ "also": [
+  "sutka davomida siydik yig‘ish",
+  "siydikning sutkalik tahlili",
+  "sutkalik proteinuriya"
+ ],
+ "what": "Siz 24 soat davomida butun siydikni bitta idishga yig‘asiz. Shunda shifokor sutka davomida qancha oqsil, tuz va boshqa moddalar chiqishini ko‘radi.",
+ "why": "Buyrak kasalliklarida, siydikda oqsil bo‘lganda, buyrak toshlarida, homiladorlikda, qandli diabetda.",
+ "duration": "yig‘ish — roppa-rosa 24 soat, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Qanday dorilar ichayotganingizni, ayniqsa siydik haydovchilarni",
+  "Hayz ketayotgan bo‘lsa — yig‘ish odatda keyinga suriladi",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Idish",
+   "text": "Klinika yoki dorixonadan sutkalik siydik uchun katta toza idish oling, odatda 2–3 litrlik."
+  },
+  {
+   "title": "Tartib",
+   "text": "Odatdagidek iching, ko‘p ham, kam ham emas. Ovqatlanishni o‘zgartirish kerak-kerakmasligini klinikadan so‘rang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘z dorilaringizni bekor qilmang. Siydik haydovchi ichsangiz — shifokorga ayting, u hal qiladi."
+  },
+  {
+   "title": "Reja",
+   "text": "Uyda bo‘ladigan kunni tanlang. Hatto bitta porsiyani o‘tkazib yuborish tahlilni buzadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Yig‘ilgan siydikning hammasi yoki bir qismi — klinika aytganidek",
+  "Qaydnoma: sutkalik siydikning umumiy hajmi, so‘rashsa — bo‘y va vazn"
+ ],
+ "steps": [
+  "Ertalab birinchi siydikni hojatxonaga to‘kasiz va vaqtini eslab qolasiz",
+  "Keyin sutka davomidagi butun siydikni idishga yig‘asiz",
+  "Idishni yopiq holda salqin joyda, odatda muzlatgichda saqlang",
+  "Oxirgi porsiyani ertasi kuni xuddi shu vaqtda yig‘asiz",
+  "Umumiy hajmni o‘lchab yozib qo‘yasiz",
+  "Klinika aytganidek siydikning hammasini yoki aralashtirilgan bir qismini topshirasiz"
+ ],
+ "feel": [
+  "Hech narsa — bu shunchaki siydik yig‘ish"
+ ],
+ "after": [
+  "Darrov odatdagi tartibga qaytsa bo‘ladi",
+  "Natijani davolovchi shifokor tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Birinchi ertalabki siydikni yig‘ish kerakmi?",
+   "a": "Yo‘q, birinchi kuni uni to‘kib, vaqtini belgilab qo‘yishadi. Keyingi kunning birinchi ertalabki siydigi esa yig‘iladi."
+  },
+  {
+   "q": "Bitta porsiyani o‘tkazib yuborsam nima qilish kerak?",
+   "a": "Boshqa kuni yig‘ishni qaytadan boshlagan ma’qul. Aks holda natija noto‘g‘ri bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ertalab sutkalik siydik yig‘ishni boshlaysiz. Toza idishni tayyorlang va muzlatgichdan joy bo‘shating."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "Tez orada sutkalik siydik yig‘ish tugaydi. Oxirgi ertalabki porsiyani yig‘ishni va umumiy hajmni yozishni unutmang."
+  }
+ ]
+}

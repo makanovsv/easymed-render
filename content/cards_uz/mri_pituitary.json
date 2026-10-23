@@ -1,0 +1,70 @@
+{
+ "title": "Gipofiz MRTsi",
+ "also": [
+  "turk egari MRTsi",
+  "kontrastli gipofiz MRTsi",
+  "dinamik gipofiz MRTsi"
+ ],
+ "what": "Miya asosidagi kichik bezning batafsil MRTsi. Odatda tomirga kontrast bilan. Nurlanishsiz.",
+ "why": "Gormonlar buzilganda: prolaktin, o‘sish gormoni, kortizol; sikl yoki ko‘rish buzilganda.",
+ "duration": "odatda 20–40 daqiqa; xulosa 1–3 kundan keyin",
+ "tell_doctor": [
+  "Yurak stimulyatori, defibrillyator yoki elektronikali boshqa implant",
+  "Tanadagi metall: protezlar, plastinkalar, tomirlardagi klipsalar, parchalar",
+  "Homilador yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Yopiq joylardan qo‘rqsangiz — shifokor qanday yordam berishni aytadi",
+  "Buyrak kasalliklari, kontrastga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Kontrast",
+   "text": "Kontrast buyurilgan bo‘lsa, ba’zan kreatininga tahlil so‘rashadi. Odatda 2–4 soat yemaslik kerak — klinikadan aniqlab oling."
+  },
+  {
+   "title": "Metall",
+   "text": "Barcha metallni yeching: taqinchoq, soat, soch qisqichlari, pirsing. Telefon va kartalarni shkafchada qoldiring."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Gormonlarga tahlillar",
+  "Bosh va gipofizning oldingi MRTlari"
+ ],
+ "steps": [
+  "Siz kiyimingizni almashtirib, barcha metallni shkafchada qoldirasiz",
+  "Tomirga kateter qo‘yiladi",
+  "Siz chalqancha yotasiz, boshingiz dubulg‘a-g‘altakka qo‘yiladi",
+  "Apparat qattiq taqillaydi — quloqchin yoki quloq tiqini berishadi",
+  "Qimirlamay yotish kerak, siz bilan aloqa orqali gaplashadi",
+  "Suratlar paytida kontrast yuboriladi — suratlar ketma-ket olinadi"
+ ],
+ "feel": [
+  "Og‘rimaydi, lekin shovqinli va tor",
+  "Ba’zan tekshiruv hududida issiqlik — bu normal",
+  "Kontrastda — tomirda salqinlik"
+ ],
+ "after": [
+  "Darrov o‘z ishlaringizga qaytishingiz mumkin",
+  "Kontrastdan keyin, shifokor boshqacha demagan bo‘lsa, ko‘proq suv iching",
+  "Xulosa — endokrinologga"
+ ],
+ "red_flags": [
+  "Kontrastdan keyin qichishish, toshma, yuz shishishi, nafas olish qiyin — darrov xodimga ayting yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Albatta kontrast bilan bo‘lishi shartmi?",
+   "a": "Ko‘pincha ha: gipofizning kichik hosilalari kontrastsiz yomon ko‘rinadi."
+  },
+  {
+   "q": "Hosila topildi — bu saratonmi?",
+   "a": "Ko‘pincha bular yaxshi sifatli hosilalar. Keyin nima qilishni endokrinolog hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Tez orada gipofiz MRTsi. Odatda 2–4 soat yemang, gormonlarga tahlillarni oling."
+  }
+ ]
+}

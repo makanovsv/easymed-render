@@ -1,0 +1,76 @@
+{
+ "title": "Long-term ECG monitor (7 to 14 day patch)",
+ "also": [
+  "ECG patch",
+  "long-term ECG monitoring",
+  "heart monitor patch",
+  "extended Holter",
+  "week-long ECG"
+ ],
+ "what": "A small monitor shaped like a sticky patch is placed on your chest. It records your ECG nonstop for 1 to 2 weeks while you live your normal life.",
+ "why": "When skipped beats, a racing heart, or fainting happen rarely and a 24-hour Holter monitor does not catch them.",
+ "duration": "it is usually worn for 7 to 14 days; results come a few days after it is removed",
+ "tell_doctor": [
+  "What medicines you take",
+  "If you have a pacemaker",
+  "If you are allergic to bandages or adhesive",
+  "How often your symptoms happen"
+ ],
+ "prepare": [
+  {
+   "title": "Skin",
+   "text": "On the day it is put on, do not use cream on your chest. For men, the spot is sometimes shaved."
+  },
+  {
+   "title": "Diary",
+   "text": "Write down the time and what you felt. The patch often has a button. Press it when you have symptoms."
+  },
+  {
+   "title": "Water",
+   "text": "Many patches allow showers, but not baths or swimming. Check for your device."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A list of your medicines",
+  "A notebook or phone for your diary"
+ ],
+ "steps": [
+  "The nurse cleans the skin on your chest",
+  "The patch is stuck on the left side of your chest",
+  "The nurse checks that it is recording",
+  "You are shown how to press the button and keep a diary",
+  "You go home and live as usual",
+  "After 7 to 14 days, you remove the patch yourself or at the clinic, as instructed"
+ ],
+ "feel": [
+  "It does not hurt",
+  "The skin under the patch may itch",
+  "For the first few days you notice it, then you get used to it"
+ ],
+ "after": [
+  "Return the patch to the clinic or mail it, as instructed",
+  "Reading the recording usually takes a few days",
+  "Slight redness after removal goes away on its own"
+ ],
+ "red_flags": [
+  "Severe chest pain, fainting, or trouble breathing: call emergency services. The patch does not get in the way",
+  "Severe itching or blisters under the patch: contact the clinic"
+ ],
+ "faq": [
+  {
+   "q": "Can I shower with the patch?",
+   "a": "Many patches can handle it, but baths and pools are usually not allowed. Check for your device."
+  },
+  {
+   "q": "What if the patch comes off?",
+   "a": "Call the clinic. Do not tape it back on without advice."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Your ECG patch goes on tomorrow. Do not put cream on your chest in the morning. Decide where you will keep your diary."
+  }
+ ]
+}

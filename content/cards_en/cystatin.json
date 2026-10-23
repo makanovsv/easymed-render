@@ -1,0 +1,63 @@
+{
+ "title": "Cystatin C",
+ "also": [
+  "cystatin C test",
+  "kidney function test",
+  "cystatin C eGFR"
+ ],
+ "what": "This blood test checks a protein that shows how well your kidneys clean your blood.",
+ "why": "When kidney function needs a more precise check, especially if creatinine may be misleading: in older people, in people with a lot of muscle or very little, and before choosing medicine doses.",
+ "duration": "the blood draw usually takes 5 minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "If you take corticosteroid hormones",
+  "If you have a thyroid condition",
+  "Kidney disease, diabetes, or high blood pressure",
+  "All the medicines you take"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast, but it is often done with other blood chemistry tests that need fasting. Check with the lab."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Tell your doctor what you take."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past creatinine results"
+ ],
+ "steps": [
+  "You sit down, and a band is tied above your elbow",
+  "The skin is wiped with antiseptic",
+  "Blood is taken from a vein into a tube",
+  "The band is removed, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Results usually come in 1 to 3 days",
+  "The doctor will use it to work out your kidney function and adjust medicine doses if needed"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why cystatin C if I already have creatinine?",
+   "a": "Creatinine depends on your muscles and diet. Cystatin C depends on them less, so together they give a more accurate picture."
+  },
+  {
+   "q": "Do I need to fast?",
+   "a": "Cystatin C itself barely depends on food. But if you also have chemistry tests, fasting is better. Check with the lab."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Cystatin C test tomorrow. If it is with other blood chemistry tests, do not eat after dinner. Water is fine."
+  }
+ ]
+}

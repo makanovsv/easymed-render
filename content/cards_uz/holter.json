@@ -1,0 +1,65 @@
+{
+ "title": "Xolter EKG",
+ "also": [
+  "EKG ning sutkalik monitoringi",
+  "xolter"
+ ],
+ "what": "Belingizdagi kichik asbob EKG ni butun sutka (ba’zan 2–3 kun) yozib boradi, siz esa odatiy hayotingizni davom ettirasiz.",
+ "why": "Yurak urishi buzilishi, yurak tez urishi xurujlari, hushdan ketishlarda — qisqa EKG da ko‘rinmaydigan narsani ushlash uchun.",
+ "duration": "o‘rnatish 10–15 daqiqa, taqish odatda 24 soat",
+ "tell_doctor": [
+  "Yurak uchun qanday dorilar ichasiz",
+  "Kardiostimulyator o‘rnatilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Dush",
+   "text": "Oldindan dush qabul qiling — asbob bilan odatda yuvinib bo‘lmaydi."
+  },
+  {
+   "title": "Teri",
+   "text": "Ko‘kragingizga krem surmang. Erkaklarga elektrodlar uchun joylarni qirib berishlari mumkin."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Erkin, paxta kiyim — asbob va simlar xalaqit bermasligi uchun."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma"
+ ],
+ "steps": [
+  "Ko‘krakka 3–7 ta elektrod yopishtiriladi, simlar asbobga ulanadi",
+  "Asbob belga yoki bo‘yinga osiladi",
+  "Sutka davomida odatdagidek yashaysiz: ishlaysiz, sayr qilasiz, zinadan chiqasiz",
+  "Kundalikka yozasiz: qachon nima qildingiz, qachon yomon bo‘ldi, qachon dori ichdingiz",
+  "Sutkadan keyin asbob klinikada olinadi"
+ ],
+ "feel": [
+  "Elektrodlar ba’zan qichishtiradi",
+  "Asbob uyquda biroz xalaqit beradi — tez ko‘nikiladi"
+ ],
+ "after": [
+  "Xulosa odatda 1–3 kunda tayyor bo‘ladi",
+  "Yelim izlari sovunli suv bilan yuviladi"
+ ],
+ "red_flags": [
+  "Hushdan ketish, ko‘krakda kuchli og‘riq — tez yordam 103, asbob bo‘lsa ham"
+ ],
+ "faq": [
+  {
+   "q": "Xolter bilan yuvinsa bo‘ladimi?",
+   "a": "Odatda yo‘q — asbob va elektrodlar suvdan qo‘rqadi. Dushni o‘rnatishdan oldin qabul qiling."
+  },
+  {
+   "q": "Nega kundalik yuritish kerak?",
+   "a": "Shifokor yozuvni sizning harakatlaringiz va ahvolingiz bilan solishtiradi — kundaliksiz xulosa yomonroq bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada xolter o‘rnatiladi. Hozir dush qabul qiling — sutka davomida yuvinib bo‘lmaydi."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Homiladorlikda rejali tashriflar",
+ "also": [
+  "homiladorlikda ginekolog qabuli",
+  "homilador ayolning rejali ko‘rigi",
+  "ayollar maslahatxonasiga kelish",
+  "homiladorlikni kuzatish"
+ ],
+ "what": "Homiladorlik paytida shifokorga muntazam tashriflar. Shifokor sog‘lig‘ingizni va chaqaloqning o‘sishini tekshiradi.",
+ "why": "Barcha homilador ayollarga jadval bo‘yicha: boshida kamroq, tug‘ruqqa yaqinlashganda tez-tez.",
+ "duration": "qabul odatda 15–30 daqiqa",
+ "tell_doctor": [
+  "O‘zingizni qanday his qilasiz, nima bezovta qiladi",
+  "Shishlar, bosh og‘rig‘i, ko‘z oldida pashshalar",
+  "Ajralmalar, qorin og‘riqlari",
+  "Chaqaloq qanday harakat qiladi — homiladorlikning ikkinchi yarmida",
+  "Ichishni boshlagan yangi dorilar"
+ ],
+ "prepare": [
+  {
+   "title": "Siydik tahlili",
+   "text": "Har bir tashrifga ko‘pincha siydik tahlili kerak. Ertalabki qismni toza idishga yig‘ing."
+  },
+  {
+   "title": "Savollar",
+   "text": "Tashriflar orasida savollarni unutmaslik uchun yozib boring."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qornni oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Almashinuv kartasi yoki homilador kartasi",
+  "Tahlillar va UZI natijalari",
+  "So‘ralsa, siydik tahlili",
+  "Hujjat"
+ ],
+ "steps": [
+  "Sizni tortishadi va bosimingizni o‘lchashadi",
+  "Shifokor ahvolingiz haqida so‘raydi",
+  "Qornni santimetrli lenta bilan o‘lchaydi",
+  "Homiladorlikning ikkinchi yarmida chaqaloq yuragini tinglaydi",
+  "Tahlillarni ko‘radi va yangi yo‘llanmalar beradi",
+  "Keyingi tashrif sanasini belgilaydi"
+ ],
+ "feel": [
+  "Odatda noxush narsa yo‘q",
+  "Kreslosidagi ko‘rik har bir tashrifda emas"
+ ],
+ "after": [
+  "Tahlillarni topshiring va UZI dan jadval bo‘yicha o‘ting",
+  "Ahvolingiz va harakatlar haqida yozuv yuriting",
+  "Hammasi yaxshi bo‘lsa ham, belgilangan kuni keling"
+ ],
+ "red_flags": [
+  "Qon ketishi yoki suvlar sizishi — tez yordamni chaqiring (103)",
+  "Kuchli bosh og‘rig‘i, ko‘z oldida pashshalar, keskin shishlar — tez yordamni chaqiring (103)",
+  "Chaqaloq odatdagidan sezilarli kam harakat qilsa — shoshilinch shifokorga",
+  "Muddatidan oldin tutqanoq — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Shifokorga qanchalik tez-tez borish kerak?",
+   "a": "Odatda boshida oyiga bir marta, ikkinchi yarmida 2 haftada bir marta va oxirida har hafta. Shifokoringiz aytadi."
+  },
+  {
+   "q": "Nega har safar siydik topshirish kerak?",
+   "a": "Shunda oqsil, qand va infeksiyani erta payqashadi. Bu siz va chaqaloq uchun muhim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga homiladorlik bo‘yicha shifokorga tashrif. Homilador kartasini oling, so‘ralgan bo‘lsa, ertalab siydik tahlilini yig‘ing."
+  }
+ ]
+}

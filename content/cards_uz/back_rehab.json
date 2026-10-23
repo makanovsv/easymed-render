@@ -1,0 +1,75 @@
+{
+ "title": "Orqa og‘rig‘ida davolovchi gimnastika",
+ "also": [
+  "orqa uchun DJT",
+  "orqa og‘rig‘ida davolovchi jismoniy tarbiya",
+  "orqa uchun mashqlar",
+  "kinezioterapiya"
+ ],
+ "what": "Instruktor bilan mashg‘ulotlar: orqa va qorin mushaklarini mustahkamlaydigan va to‘g‘ri harakatlanishni o‘rgatadigan mashqlar.",
+ "why": "Bo‘yin, bel og‘rig‘ida, zo‘rayishdan keyin, disk churrasida yoki umurtqa operatsiyasidan keyin — shifokor buyrug‘i bilan.",
+ "duration": "mashg‘ulot odatda 30–60 daqiqa; kurs odatda bir necha hafta",
+ "tell_doctor": [
+  "Qayeri og‘riydi va nima og‘riqni kuchaytiradi",
+  "Qo‘l yoki oyoqlarda uvishish yoki kuchsizlik bormi",
+  "Umurtqada jarohat va operatsiyalar bo‘lganmi",
+  "Osteoporoz, yurak kasalliklari, yuqori bosim bormi",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Tekshiruv",
+   "text": "Suratlar, MRT va xulosalar bo‘lsa — olib keling, instruktor mashqlarni tanlaydi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Mashg‘ulotdan 1–2 soat oldin yengil ovqat."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay sport kiyimi, paypoq yoki toza poyabzal."
+  }
+ ],
+ "bring": [
+  "Shifokor yo‘llanmasi",
+  "Suratlar va xulosalar",
+  "Sport kiyimi",
+  "Suv"
+ ],
+ "steps": [
+  "Instruktor og‘riq haqida so‘raydi va qanday harakatlanishingizni ko‘radi",
+  "Mashqlarni ko‘rsatadi va texnikani kuzatadi",
+  "Mashqlarni yotib, o‘tirib yoki tik turib, o‘z sur’atingizda bajarasiz",
+  "Yuk asta-sekin oshiriladi",
+  "Oxirida — cho‘zilish va uyda nima qilish bo‘yicha maslahatlar"
+ ],
+ "feel": [
+  "Mushaklarda yengil charchoq — normal",
+  "Mashq paytida o‘tkir og‘riq bo‘lmasligi kerak — darrov instruktorga ayting"
+ ],
+ "after": [
+  "Uy kompleksini muntazam, har kuni ozdan bajaring",
+  "Dastlabki mashg‘ulotlardan keyin mushaklar 1–2 kun zirqirashi mumkin",
+  "Og‘riq kuchaysa, shifokor bilan muhokama qiling"
+ ],
+ "red_flags": [
+  "Chov oralig‘ida uvishish, siydik chiqarish bilan muammolar, oyoqlarda tez kuchayadigan kuchsizlik — tez yordamni chaqiring (103)",
+  "Mashqdan keyin to‘satdan kuchli og‘riq — mashg‘ulotni to‘xtating va shifokorga murojaat qiling"
+ ],
+ "faq": [
+  {
+   "q": "Orqa og‘riyotganda shug‘ullansa bo‘ladimi?",
+   "a": "O‘tkir davrda yuk odatda cheklanadi. Qachon boshlashni shifokor hal qiladi."
+  },
+  {
+   "q": "Natija uchun qancha shug‘ullanish kerak?",
+   "a": "Odatda birinchi yaxshilanishlar muntazam mashg‘ulotlarning bir necha haftasidan keyin seziladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga orqa uchun DJT mashg‘uloti. Forma, suv va suratlar bo‘lsa, ularni oling."
+  }
+ ]
+}

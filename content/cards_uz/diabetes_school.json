@@ -1,0 +1,72 @@
+{
+ "title": "Diabet maktabi",
+ "also": [
+  "qandli diabet maktabi",
+  "diabetiklar uchun mashg‘ulotlar",
+  "diabetda o‘qitish",
+  "diabet bilan og‘riganlar maktabi"
+ ],
+ "what": "Diabetli odamlar va ularning yaqinlari uchun mashg‘ulotlar. Shifokor yoki hamshira diabet bilan qanday yashash va qandni qanday boshqarishni o‘rgatadi.",
+ "why": "Diabet endigina topilganda, insulin tayinlanganda yoki qand yomon ushlab turilmaganda.",
+ "duration": "odatda 1–2 soatlik bir necha mashg‘ulot",
+ "tell_doctor": [
+  "Qanday diabetingiz borligi va qachondan beri",
+  "Qanday dori yoki insulin olayotganingiz",
+  "Qand pasayib ketishi bo‘ladimi",
+  "Yomon ko‘rsangiz yoki eshitsangiz — qulay format tanlanadi"
+ ],
+ "prepare": [
+  {
+   "title": "Yozilish",
+   "text": "Mashg‘ulotlar qayerda o‘tishi va qanday yozilishni o‘z shifokoringizdan yoki poliklinikadan so‘rang."
+  },
+  {
+   "title": "Savollar",
+   "text": "Tushunmaganingizni oldindan yozib qo‘ying. Mashg‘ulotda javob berishadi."
+  },
+  {
+   "title": "Yaqinlar",
+   "text": "Uyda sizga yordam beradigan qarindosh bilan kelishingiz mumkin."
+  }
+ ],
+ "bring": [
+  "Glyukometr va qand kundaligi",
+  "Dorilar ro‘yxati",
+  "Daftar va ruchka",
+  "Qand pasayib ketsa uchun tamaddi"
+ ],
+ "steps": [
+  "Guruhga yoki yakkama-yakka mashg‘ulotga kelasiz",
+  "Sizga diabet nima ekani va qand qanday ishlashi tushuntiriladi",
+  "Qandni o‘lchash va kundalik yuritish o‘rgatiladi",
+  "Ovqatlanish va uglevodlarni hisoblash haqida aytib berishadi",
+  "Qand pasaygan va oshgan paytda nima qilish kerakligi o‘rgatiladi",
+  "Oyoq parvarishi va shifokor ko‘riklari haqida aytib berishadi"
+ ],
+ "feel": [
+  "Yangi ma’lumot ko‘p — bu normal, u qismlarga bo‘lib beriladi",
+  "Istalgan savolni berishingiz mumkin"
+ ],
+ "after": [
+  "Tushunganlaringizni asta-sekin qo‘llay boshlang",
+  "Qandni yozib boring va kundalikni shifokorga ko‘rsating",
+  "Biror narsa esdan chiqsa, mashg‘ulotga yana kelish mumkin — poliklinikadan aniqlab oling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Anchadan beri kasal bo‘lsam ham maktab kerakmi?",
+   "a": "Ha, foydali. Usullar va asboblar o‘zgaradi, ko‘pchilik yangi narsalarni biladi."
+  },
+  {
+   "q": "Bu pullikmi?",
+   "a": "Klinika va sug‘urtaga bog‘liq. Poliklinikadan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga diabet maktabi mashg‘uloti. Glyukometr, kundalik va tamaddini oling."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Homiladorlikka tayyorgarlik",
+ "also": [
+  "pregravidar tayyorgarlik",
+  "homiladorlikni rejalashtirish",
+  "homiladorlikdan oldin tekshiruv",
+  "homilador bo‘lishga tayyorgarlik"
+ ],
+ "what": "Bu homiladorlikdan oldin shifokor qabuli. U sog‘liqni tekshiradi, tahlillar buyuradi va qanday tayyorlanishni maslahat beradi.",
+ "why": "Yaqin oylarda homiladorlikni rejalashtirayotganingizda. Ayniqsa surunkali kasalliklarda yoki oldingi murakkab homiladorliklarda.",
+ "duration": "qabul odatda 20–40 daqiqa, tahlillar odatda bir necha kunda tayyor bo‘ladi",
+ "tell_doctor": [
+  "Qanday dorilar ichasiz — o‘zingiz bekor qilmang, shifokor xavfsizlarini tanlaydi",
+  "Surunkali kasalliklar",
+  "Oldingi homiladorliklar va tug‘ruqlar qanday o‘tgan",
+  "Qanday emlashlar qilgansiz",
+  "Oilada irsiy kasalliklar bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Sikl",
+   "text": "Oxirgi hayz boshlangan sanani eslab qoling."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Oldingi tahlil natijalari va emlash sertifikatini to‘plang."
+  },
+  {
+   "title": "Savollar",
+   "text": "Nimani so‘ramoqchi ekaningizni yozing: vitaminlar, ovqatlanish, sport, zararli odatlar."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Oldingi tahlil natijalari",
+  "Bo‘lsa, emlash sertifikati"
+ ],
+ "steps": [
+  "Shifokor sog‘lig‘ingiz va rejalaringiz haqida so‘raydi",
+  "Ko‘rik o‘tkazadi, ba’zan ginekologik",
+  "Qon, siydik tahlillari va surtmalarga yo‘llanma beradi",
+  "Ba’zan UZI buyuriladi",
+  "Vitaminlar va turmush tarzini tavsiya qiladi",
+  "Hamkorga ham tekshiruvdan o‘tishni maslahat berishlari mumkin"
+ ],
+ "feel": [
+  "Oddiy qabul, noxush narsa yo‘q",
+  "Kreslosidagi ko‘rik biroz noqulay bo‘lishi mumkin"
+ ],
+ "after": [
+  "Ro‘yxat bo‘yicha tahlillarni topshiring",
+  "Natijalar bilan shifokorga qayting",
+  "Odatda foliy kislotasini oldindan ichishni boshlashni maslahat berishadi — dozani shifokor aytadi",
+  "Homiladorlikdan oldin emlashlar qilishni maslahat berishi mumkin"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Homiladorlikdan qancha oldin tayyorlanishni boshlash kerak?",
+   "a": "Odatda 2–3 oy oldin. Aniqrog‘ini shifokor aytadi."
+  },
+  {
+   "q": "Erkak ham tekshirilishi kerakmi?",
+   "a": "Ko‘pincha ha: umumiy ko‘rik va infeksiyalarga tahlillar. Ba’zan spermogramma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga homiladorlikka tayyorgarlik bo‘yicha qabul. Dorilar ro‘yxati va oldingi tahlillarni oling."
+  }
+ ]
+}

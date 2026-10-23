@@ -1,0 +1,73 @@
+{
+ "title": "Varfarin qabul qilganda XNO",
+ "also": [
+  "XNO",
+  "protrombin",
+  "ivishga tahlil",
+  "varfarin nazorati"
+ ],
+ "what": "Bu qon qanchalik tez ivishini ko‘rsatadigan qon tahlili. Shifokor shunga qarab varfarin dozasini tanlaydi.",
+ "why": "Varfarin qabul qilganda muntazam: davolash boshida tez-tez, keyin odatda bir necha haftada bir marta.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda o‘sha kuni",
+ "tell_doctor": [
+  "Varfarinni qancha dozada va qaysi vaqtda ichasiz",
+  "Tabletkalarni o‘tkazib yuborgan yoki ortiqcha ichgan bo‘lsangiz",
+  "Har qanday yangi dori, antibiotik, giyohlar boshlagan bo‘lsangiz",
+  "Ovqatlanishni keskin o‘zgartirgan bo‘lsangiz — ayniqsa ko‘katlar va sabzavotlar",
+  "Alkogol ichgan yoki kasal bo‘lgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Varfarin",
+   "text": "Odatdagidek, o‘z vaqtida iching. Tahlildan oldin dozani o‘zingiz o‘zgartirmang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qolish kerak emas, lekin zich nonushtadan oldin, ertalab yaxshiroq. Klinikadan aniqlang."
+  },
+  {
+   "title": "Yozuvlar",
+   "text": "Kundalik yuriting: sana, doza, XNO natijasi. Uni o‘zingiz bilan oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "XNO va varfarin dozalari kundaligi"
+ ],
+ "steps": [
+  "Qon venadan olinadi, ba’zan — barmoqdan ekspress-asbob bilan",
+  "Venadan bo‘lsa — jgut bog‘lanadi va qisqa ukol qilinadi",
+  "Barmoqdan bo‘lsa — kichik sanchib, bir tomchi olinadi",
+  "Joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek"
+ ],
+ "after": [
+  "Paxtani uzoqroq, 5–10 daqiqa bosib turing — varfarinda qon sekinroq to‘xtaydi",
+  "Natija va yangi dozani shifokor aytadi",
+  "Natijani kundalikka yozing"
+ ],
+ "red_flags": [
+  "Qora axlat, siydikda yoki qusuqda qon, to‘xtamaydigan burundan qon ketishi — tez yordamni chaqiring (103)",
+  "To‘satdan kuchli bosh og‘rig‘i, qo‘l yoki oyoqda zaiflik — tez yordamni chaqiring (103)",
+  "Sababsiz ko‘p ko‘karishlar — yaqin kunlarda shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "XNO ni qanchalik tez-tez topshirish kerak?",
+   "a": "Davolash boshida — tez-tez, doza tanlanguncha. Keyin odatda bir necha haftada bir marta. Jadvalni shifokor aytadi."
+  },
+  {
+   "q": "Varfarinda ko‘katlar yesa bo‘ladimi?",
+   "a": "Bo‘ladi, lekin har kuni taxminan bir xil. Ovqatlanishdagi keskin o‘zgarishlar XNO ni o‘zgartiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga XNO tahlili. Varfarinni odatdagidek iching. Doza kundaligini oling."
+  }
+ ]
+}

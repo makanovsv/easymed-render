@@ -1,0 +1,72 @@
+{
+ "title": "Belbog‘li temiratkiga qarshi emlash",
+ "also": [
+  "belbog‘li temiratki emlashi",
+  "zoster gerpesiga qarshi emlash",
+  "belbog‘li gerpes vaksinasi",
+  "temiratkiga qarshi emlash"
+ ],
+ "what": "Belbog‘li temiratki va undan keyingi kuchli og‘riq xavfini kamaytiradigan vaksina ukoli. Odatda 2 ta ukol qilinadi.",
+ "why": "50 yoshdan oshgan odamlarga va immuniteti zaiflashgan kattalarga — shifokor maslahati bilan.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa; ikkinchi ukol odatda 2–6 oydan keyin",
+ "tell_doctor": [
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Allergiyalar va oldingi emlashlarga kuchli reaksiyalar",
+  "Immunitetni pasaytiradigan davolanish olsangiz",
+  "Yaqinda belbog‘li temiratki bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash siz sog‘ bo‘lganda qilinadi. Ukoldan oldin sizni ko‘rikdan o‘tkazishadi."
+  },
+  {
+   "title": "Jadval",
+   "text": "Kurs odatda 2 ukoldan iborat. Ikkinchisining sanasini yozib oling."
+  },
+  {
+   "title": "Ukoldan keyin",
+   "text": "Ko‘pchilik 1–2 kun holsizlik his qiladi. Ertasiga muhim ishlarni rejalashtirmagan yaxshi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor yoki hamshira o‘zingizni qanday his qilayotganingizni so‘raydi va haroratni o‘lchaydi",
+  "Yelkangizni ochasiz",
+  "Teri artiladi va ukol qilinadi",
+  "Emlash hujjatlarga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tirish kerak"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ko‘pincha 1–3 kun ukol joyi og‘riydi va qizaradi",
+  "Ba’zan holsizlik, badan og‘rig‘i, titroq yoki harorat — o‘zi o‘tadi"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "Ikkinchi ukolni unutmang"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Temiratki bilan og‘rigan bo‘lsam, emlash kerakmi?",
+   "a": "Ko‘pincha ha, temiratki qaytalanishi mumkin. Qachon qilishni shifokor aytadi."
+  },
+  {
+   "q": "Suvchechak bilan og‘rigan bo‘lsam ham kerakmi?",
+   "a": "Ha. Belbog‘li temiratkini suvchechak bilan bir xil virus chaqiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga belbog‘li temiratkiga qarshi emlash. Emlash kartasini oling."
+  }
+ ]
+}

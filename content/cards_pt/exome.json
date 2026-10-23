@@ -1,0 +1,76 @@
+{
+ "title": "Sequenciamento do exoma na criança",
+ "also": [
+  "sequenciamento completo do exoma",
+  "exoma",
+  "teste genético infantil",
+  "WES"
+ ],
+ "what": "É um grande exame genético que lê quase todos os genes da criança de uma vez. Ajuda a achar a causa da doença quando outros exames não deram resposta.",
+ "why": "Com atraso no desenvolvimento, malformações, convulsões, traços físicos incomuns ou doenças que não conseguiram explicar.",
+ "duration": "a coleta leva normalmente 5 a 10 minutos, o resultado sai normalmente em algumas semanas",
+ "tell_doctor": [
+  "Todos os diagnósticos e exames da criança. Leve os laudos",
+  "Doenças na família e se os pais são parentes",
+  "Se a criança recebeu sangue, e quando",
+  "Se já fizeram outros exames genéticos"
+ ],
+ "prepare": [
+  {
+   "title": "Consulta",
+   "text": "Antes do exame, um médico geneticista vai conversar com vocês: o que o teste pode achar e o que não pode."
+  },
+  {
+   "title": "Pais",
+   "text": "Muitas vezes pedem sangue também da mãe e do pai. Assim o resultado fica mais preciso. Confirme com a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente a criança não precisa de jejum."
+  },
+  {
+   "title": "Criança",
+   "text": "Explique com palavras simples que vai ter uma picada rápida. Leve um brinquedo ou um tablet."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documentos da criança e dos pais",
+  "Todos os laudos médicos e exames genéticos anteriores",
+  "Um brinquedo ou um tablet"
+ ],
+ "steps": [
+  "Você se senta com a criança. Pode segurá-la no colo",
+  "A enfermeira limpa a pele do braço com antisséptico",
+  "Uma picada rápida: o sangue vai para o tubo",
+  "Se for preciso, os pais também colhem sangue",
+  "Os tubos vão para o laboratório de genética"
+ ],
+ "feel": [
+  "A picada é rápida. Os pequenos muitas vezes choram. Pegue a criança no colo logo em seguida",
+  "Os pais muitas vezes ficam mais ansiosos que a criança. É normal. Tire suas dúvidas com o geneticista"
+ ],
+ "after": [
+  "O resultado sai normalmente em algumas semanas",
+  "O resultado é explicado pelo médico geneticista numa consulta separada",
+  "O teste não acha a causa em todas as crianças. Isso não quer dizer que não haja mais nada a investigar",
+  "Os dados podem ser revistos mais tarde, quando a ciência souber mais"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que os pais precisam colher sangue?",
+   "a": "Assim o laboratório entende quais alterações a criança recebeu dos pais e quais são novas. Isso ajuda a achar a causa."
+  },
+  {
+   "q": "E se não acharem nada?",
+   "a": "Isso acontece. O médico decide se são precisos outros exames ou uma revisão dos dados mais tarde."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã a criança faz o exame genético. Leve os documentos e os laudos médicos. Talvez os pais também colham sangue."
+  }
+ ]
+}

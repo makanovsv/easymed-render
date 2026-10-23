@@ -1,0 +1,73 @@
+{
+ "title": "Ultrasonido de ojo",
+ "also": [
+  "ecografía ocular",
+  "ultrasonido ocular",
+  "ecografía modo B del ojo",
+  "ultrasonido del globo ocular"
+ ],
+ "what": "El médico revisa con ultrasonido las partes internas del ojo y la órbita, a través del párpado cerrado.",
+ "why": "Cuando el médico no puede ver el fondo del ojo, por ejemplo por catarata o sangrado; con golpes en el ojo, si se sospecha desprendimiento de retina o hay masas dentro del ojo.",
+ "duration": "normalmente de 10 a 20 minutos; el resultado suele darse al momento",
+ "tell_doctor": [
+  "Si te operaron o te golpeaste el ojo",
+  "Si tienes una herida reciente en el ojo",
+  "Si usas lentes de contacto",
+  "Si el ojo te duele mucho o tu vista bajó de repente"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "Normalmente no hace falta. Puedes comer y beber."
+  },
+  {
+   "title": "Ojos",
+   "text": "Quítate los lentes de contacto. Es mejor ir sin maquillaje en los ojos."
+  },
+  {
+   "title": "Traslado",
+   "text": "Si te van a dilatar las pupilas con gotas, es mejor no manejar después. Pregunta en la clínica."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Informes anteriores del oftalmólogo",
+  "El estuche de tus lentes de contacto",
+  "Lentes de sol"
+ ],
+ "steps": [
+  "Te sientas o te acuestas con los ojos cerrados",
+  "Ponen gel sobre el párpado",
+  "Apoyan el transductor con cuidado sobre el párpado cerrado",
+  "El médico te pide mirar hacia arriba, abajo, a la derecha y a la izquierda",
+  "Te limpian el gel con una toalla de papel"
+ ],
+ "feel": [
+  "El gel frío y un toque suave",
+  "El gel puede arder un poco si entra al ojo: te lo enjuagan"
+ ],
+ "after": [
+  "Puedes volver a tus actividades de inmediato",
+  "El resultado suele darse al momento; lo que sigue lo decide el oftalmólogo"
+ ],
+ "red_flags": [
+  "De repente ves destellos, muchas «moscas» o una sombra delante del ojo: ve al oftalmólogo de inmediato",
+  "Pérdida repentina de la vista o dolor fuerte en el ojo: ve al médico de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Esto no le hace daño al ojo?",
+   "a": "No. El transductor toca el párpado con suavidad y el ultrasonido es seguro para el ojo."
+  },
+  {
+   "q": "¿Tengo que abrir el ojo durante el ultrasonido?",
+   "a": "No. Se hace a través del párpado cerrado; solo mueves los ojos cuando el médico te lo pida."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu ultrasonido de ojo. Quítate los lentes de contacto antes del estudio y ve sin maquillaje en los ojos."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Migrantlar va yashash ruxsatnomasi uchun tibbiy guvohlik",
+ "also": [
+  "patent uchun tibbiy ko‘rik",
+  "migrantlarning tibbiy guvohligi",
+  "yashash ruxsatnomasi uchun ma’lumotnoma",
+  "chet elliklar tibbiy komissiyasi"
+ ],
+ "what": "Ish yoki yashash ruxsatnomasini olayotgan chet elliklar uchun tibbiy tekshiruv. Ba’zi infeksiyalar va ba’zan narkologiya tekshiriladi.",
+ "why": "Patent, ish ruxsatnomasi, yashash ruxsatnomasi yoki fuqarolikni rasmiylashtirishda.",
+ "duration": "odatda 1–2 tashrif, natijalar — bir necha kundan keyin",
+ "tell_doctor": [
+  "Sil, gepatitlar, OIV, boshqa infeksiyalar bo‘lganmi",
+  "Qanday dorilar ichasiz",
+  "Hozir homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "To‘plam",
+   "text": "Odatda OIV va zaxmga qon tahlili, flyuorografiya, shifokorlar ko‘rigi kerak. Ro‘yxat mamlakat va hujjatga bog‘liq — migratsiya xizmati yoki klinikadan aniqlab oling."
+  },
+  {
+   "title": "Klinika",
+   "text": "Tibbiy ko‘rikdan faqat buning uchun huquqi bor klinikalarda o‘tiladi. Ularning ro‘yxatini oldindan bilib oling."
+  },
+  {
+   "title": "Tarjima",
+   "text": "Hujjatlar boshqa tilda bo‘lsa — tarjima kerak bo‘lishi mumkin."
+  }
+ ],
+ "bring": [
+  "Pasport va uning tarjimasi, agar kerak bo‘lsa",
+  "Migratsiya kartasi yoki boshqa hujjatlar",
+  "Surat, agar talab qilsalar",
+  "Oldingi tekshiruv natijalari"
+ ],
+ "steps": [
+  "Siz tibbiy guvohlik berish huquqi bor klinikaga kelasiz",
+  "Anketa to‘ldirasiz",
+  "Qon topshirasiz",
+  "Flyuorografiya qilasiz",
+  "Ro‘yxat bo‘yicha shifokorlardan o‘tasiz",
+  "Tibbiy xulosa olasiz"
+ ],
+ "feel": [
+  "Ko‘riklar og‘riqsiz",
+  "Qon tahlili — qisqa ukol"
+ ],
+ "after": [
+  "Xulosaning asl nusxasi va nusxasini saqlang",
+  "Hujjatlarni o‘z vaqtida topshiring — ma’lumotnomalarning amal qilish muddati cheklangan",
+  "Biror narsa topilsa — sizni shifokorga yuborishadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tibbiy ko‘rikdan istalgan klinikada o‘tsa bo‘ladimi?",
+   "a": "Yo‘q, faqat buning uchun huquqi borlarida. Migratsiya xizmatidan aniqlab oling."
+  },
+  {
+   "q": "Tahlil musbat chiqsa nima bo‘ladi?",
+   "a": "Sizni shifokorga yuborishadi. Keyingi qadamlarni klinika va migratsiya xizmati tushuntiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga tibbiy guvohlik. Pasport, tarjima va migratsiya hujjatlarini oling."
+  }
+ ]
+}

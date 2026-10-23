@@ -1,0 +1,83 @@
+{
+ "title": "EKU: tuxumdonlarni rag‘batlantirish va ukollar",
+ "also": [
+  "EKU rag‘batlantirish",
+  "EKU ukollari",
+  "gormonal rag‘batlantirish",
+  "EKU protokoli"
+ ],
+ "what": "Tuxumdonlarda bir nechta tuxum hujayra yetilishi uchun o‘zingizga gormon ukollarini qilasiz. Shifokor buni UTT va tahlillar orqali kuzatadi.",
+ "why": "Bu EKUning birinchi bosqichi. Shifokor sxemasi bo‘yicha, odatda siklning boshida boshlanadi.",
+ "duration": "ukollar odatda 8–14 kun, UTT bir necha marta",
+ "tell_doctor": [
+  "Hamma dorilarni — o‘zingiz bekor qilmang",
+  "Allergiyalar",
+  "Oldingi rag‘batlantirishlarni qanday o‘tkazgansiz",
+  "Surunkali kasalliklar",
+  "O‘zingizga ukol qilishdan qo‘rqsangiz — sizga yordam berishadi"
+ ],
+ "prepare": [
+  {
+   "title": "Sxema",
+   "text": "Shifokordan yozma sxema oling: qaysi preparat, dozasi va vaqti."
+  },
+  {
+   "title": "Saqlash",
+   "text": "Ba’zi preparatlar muzlatgichda saqlanadi — yo‘riqnomani tekshiring."
+  },
+  {
+   "title": "O‘rganish",
+   "text": "Hamshiradan ukolni qanday qilishni ko‘rsatishini so‘rang."
+  },
+  {
+   "title": "Taqvim",
+   "text": "Ukol vaqtlariga telefonda eslatmalar qo‘ying."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Preparatlar sxemasi",
+  "Preparatlar, agar olib kelish so‘ralsa",
+  "Ukollar kundaligi"
+ ],
+ "steps": [
+  "Qo‘llaringizni yuving va shpris-ruchka yoki shprisni tayyorlang",
+  "Qorindagi terini spirtli salfetka bilan artib oling",
+  "Terini burma qilib ushlang",
+  "Ignani kiriting va preparatni sekin yuboring",
+  "Ignani bir necha soniya ushlab turing va oling",
+  "Vaqt va dozani yozib qo‘ying",
+  "Belgilangan kunlarda UTT va tahlillarga keling"
+ ],
+ "feel": [
+  "Qisqa ukol, ba’zan ozgina ko‘karish",
+  "Qorin pastida dam bo‘lish va og‘irlik",
+  "Kayfiyat o‘zgarishlari, charchoq"
+ ],
+ "after": [
+  "Follikulalar yetilganda trigger-ukol buyuriladi — uni aniq ko‘rsatilgan vaqtda qiling",
+  "Undan keyin ma’lum vaqt o‘tgach — tuxum hujayralarni olish (punksiya)",
+  "Rag‘batlantirish paytida og‘ir mashqlarsiz"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq yoki dam bo‘lish — shifokorga yoki 103 ga qo‘ng‘iroq qiling",
+  "Nafas qisishi, siydik kamayishi, vazn keskin ortishi — 103 ga qo‘ng‘iroq qiling",
+  "Kuchli holsizlik yoki bosh aylanishi"
+ ],
+ "faq": [
+  {
+   "q": "Ukolni o‘tkazib yuborsam nima qilaman?",
+   "a": "Darrov shifokorga yoki klinikaga qo‘ng‘iroq qiling. Dozani o‘zingiz ikki baravar qilmang."
+  },
+  {
+   "q": "Rag‘batlantirish paytida ishlash mumkinmi?",
+   "a": "Odatda ha. Asosiysi — ukol va UTTni o‘tkazib yubormaslik."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "EKU sxemasi bo‘yicha ukol vaqti. Preparat va dozani tekshiring, vaqtni yozib qo‘ying."
+  }
+ ]
+}

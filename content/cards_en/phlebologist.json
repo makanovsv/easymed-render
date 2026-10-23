@@ -1,0 +1,76 @@
+{
+ "title": "Vein doctor visit (phlebologist)",
+ "also": [
+  "phlebologist",
+  "vein doctor",
+  "varicose veins",
+  "leg vein check"
+ ],
+ "what": "The vein doctor examines your legs and usually does a vein ultrasound right away. This shows the condition of your veins and whether you need treatment.",
+ "why": "For spider veins, bulging veins, swelling and heavy legs, night cramps, or after a blood clot.",
+ "duration": "usually 20 to 40 minutes including the vein ultrasound; result right away",
+ "tell_doctor": [
+  "When the veins, swelling or heaviness began",
+  "Whether you or your relatives have had blood clots",
+  "Whether you take hormones or blood thinners",
+  "Pregnancy now or plans for pregnancy",
+  "Any past vein operations"
+ ],
+ "prepare": [
+  {
+   "title": "Legs",
+   "text": "Do not put cream on your legs on the day of the visit. No need to shave."
+  },
+  {
+   "title": "Clothing",
+   "text": "Comfortable clothes that are easy to take off below the waist."
+  },
+  {
+   "title": "Time",
+   "text": "Swelling shows better in the afternoon. Ask the clinic what time is best."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Past vein ultrasounds",
+  "A list of your medicines",
+  "Compression stockings, if you wear them"
+ ],
+ "steps": [
+  "The doctor asks about your complaints",
+  "Examines your legs while you stand",
+  "Does a vein ultrasound by moving a probe with gel over your leg",
+  "Sometimes asks you to tense up or cough during the scan",
+  "Explains the result",
+  "Suggests treatment: stockings, medicines or procedures"
+ ],
+ "feel": [
+  "The exam and ultrasound do not hurt",
+  "The gel is cool"
+ ],
+ "after": [
+  "If you were given stockings, wear them as the doctor said",
+  "Walk more and do not sit for long without moving",
+  "Come back for a follow-up when the doctor says"
+ ],
+ "red_flags": [
+  "A leg suddenly swells, hurts and turns red: see a doctor urgently",
+  "Sudden shortness of breath or chest pain: call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Are spider veins on the legs dangerous?",
+   "a": "Most often they are a cosmetic issue. But it is worth having your veins checked."
+  },
+  {
+   "q": "Do varicose veins always need surgery?",
+   "a": "Not always. There are small procedures and non-surgical treatment. The doctor decides."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Vein doctor visit tomorrow. Do not put cream on your legs, and bring your past vein ultrasounds."
+  }
+ ]
+}

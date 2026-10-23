@@ -1,0 +1,75 @@
+{
+ "title": "Control del dolor en casa después de una cirugía",
+ "also": [
+  "analgésicos en casa después de una cirugía",
+  "dolor después de la cirugía",
+  "cómo quitar el dolor después del alta",
+  "analgesia después del alta"
+ ],
+ "what": "En casa el dolor después de la cirugía se quita con pastillas según el esquema del médico. Quien tiene el dolor bien controlado se levanta y se recupera más rápido.",
+ "why": "Después del alta, mientras sana la herida o la articulación.",
+ "duration": "normalmente unos días o semanas; el dolor disminuye poco a poco",
+ "tell_doctor": [
+  "Qué analgésicos ya te ayudaron o no te sentaron bien",
+  "Enfermedades del estómago, los riñones, el hígado",
+  "Todos los medicamentos que tomas",
+  "Si manejas o trabajas con maquinaria"
+ ],
+ "prepare": [
+  {
+   "title": "Esquema",
+   "text": "Antes del alta pide que te anoten: qué tomar, cuánto, a qué hora y por cuánto tiempo."
+  },
+  {
+   "title": "Farmacia",
+   "text": "Compra los analgésicos con anticipación, para no quedarte sin ellos de noche."
+  },
+  {
+   "title": "Ayuda",
+   "text": "Los métodos comunes también ayudan: frío, pierna o brazo elevado, una posición cómoda."
+  }
+ ],
+ "bring": [
+  "El resumen de alta con el esquema de analgesia",
+  "La lista de medicamentos"
+ ],
+ "steps": [
+  "Toma el analgésico a la hora indicada, no solo cuando ya duele mucho",
+  "Anota la hora de cada toma para no confundirte",
+  "No pases la dosis ni combines por tu cuenta medicamentos parecidos",
+  "Pon frío envuelto en una tela, si el médico lo permitió",
+  "Muévete poco a poco: eso también disminuye el dolor",
+  "Cuando el dolor cede, la dosis se baja con el consejo del médico"
+ ],
+ "feel": [
+  "El dolor normalmente es más fuerte los primeros días y luego se debilita",
+  "Algunos analgésicos causan somnolencia o estreñimiento"
+ ],
+ "after": [
+  "Si el dolor no se quita o aumenta, díselo al cirujano",
+  "No manejes si el medicamento da somnolencia",
+  "Si hay estreñimiento, toma más líquidos y muévete; pregunta al médico por un remedio"
+ ],
+ "red_flags": [
+  "El dolor aumentó de golpe o cambió",
+  "Fiebre de más de 38, la herida está roja, caliente o con pus",
+  "Heces negras, vómito con sangre: llama a emergencias",
+  "Mucha somnolencia, respiración lenta: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo tomar el analgésico con alcohol?",
+   "a": "No. El alcohol con analgésicos es peligroso para el hígado, el estómago y la respiración."
+  },
+  {
+   "q": "¿Qué hago si el dolor no se quita con las pastillas?",
+   "a": "No aumentes la dosis por tu cuenta. Llama al cirujano o a la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Es hora del analgésico según el esquema. Anota la toma para no confundirte."
+  }
+ ]
+}

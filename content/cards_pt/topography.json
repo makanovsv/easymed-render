@@ -1,0 +1,67 @@
+{
+ "title": "Topografia e paquimetria da córnea",
+ "also": [
+  "topografia de córnea",
+  "paquimetria",
+  "mapa da córnea",
+  "espessura da córnea"
+ ],
+ "what": "Um aparelho fotografa a córnea, a parte transparente da frente do olho. Ele mostra a forma e a espessura dela.",
+ "why": "Antes da cirurgia a laser para tirar o grau, para adaptar lentes, quando se suspeita de ceratocone e para acompanhá-lo.",
+ "duration": "normalmente de 5 a 15 minutos; o resultado sai na hora",
+ "tell_doctor": [
+  "Se você usa lentes de contato e de qual tipo",
+  "Se já fez cirurgia ou teve machucado nos olhos",
+  "Se tem olho seco",
+  "Se alguém na família tem ceratocone"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes",
+   "text": "Normalmente as lentes gelatinosas são tiradas alguns dias antes, as rígidas, mais tempo antes. A clínica vai dizer o prazo exato."
+  },
+  {
+   "title": "Maquiagem",
+   "text": "Venha sem rímel e sem sombra."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Óculos",
+  "Resultados de exames anteriores"
+ ],
+ "steps": [
+  "Você senta no aparelho e apoia o queixo",
+  "Olha para um ponto de luz",
+  "O aparelho fotografa cada olho",
+  "Às vezes a espessura é medida com um sensor separado, depois de um colírio",
+  "O médico olha os mapas e explica o resultado"
+ ],
+ "feel": [
+  "Não dói",
+  "A luz é forte e é preciso não piscar por alguns segundos",
+  "Se for medir com o sensor, antes pingam um colírio anestésico"
+ ],
+ "after": [
+  "Pode voltar às atividades normais logo depois",
+  "Se pingaram colírio, não coce os olhos por 20 a 30 minutos",
+  "O médico explica o resultado na hora ou na consulta"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que tirar as lentes antes?",
+   "a": "As lentes mudam a forma da córnea, e o resultado fica impreciso."
+  },
+  {
+   "q": "Posso dirigir logo depois?",
+   "a": "Normalmente sim. Se pingaram colírio, confirme com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o exame da córnea. Confirme se precisa tirar as lentes antes. Venha sem maquiagem nos olhos."
+  }
+ ]
+}

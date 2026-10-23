@@ -1,0 +1,77 @@
+{
+ "title": "Tratamento de cistite em mulheres",
+ "also": [
+  "cistite",
+  "infecção urinária",
+  "ardência ao urinar",
+  "vontade frequente de urinar"
+ ],
+ "what": "Cistite é a inflamação da bexiga, na maioria das vezes por bactérias. Normalmente é tratada com remédio por poucos dias.",
+ "why": "Para ardência e dor ao urinar, vontade frequente de ir ao banheiro e dor no pé da barriga.",
+ "duration": "a consulta leva de 15 a 30 minutos; o exame de urina sai em 1 a 3 dias, a urocultura em 3 a 7 dias",
+ "tell_doctor": [
+  "Há quanto tempo incomoda e com que frequência já aconteceu",
+  "Se tem febre ou dor nas costas, na região dos rins",
+  "Se você pode estar grávida",
+  "Quais remédios já tomou",
+  "Alergia a remédios"
+ ],
+ "prepare": [
+  {
+   "title": "Exame de urina",
+   "text": "Normalmente é preciso a primeira urina da manhã num frasco estéril, depois de lavar a região íntima."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não comece antibiótico por conta própria antes do exame, se der para esperar a consulta."
+  },
+  {
+   "title": "Água",
+   "text": "Beba água normalmente, como de costume."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Frasco com urina, se pediram para levar",
+  "Exames anteriores, se a cistite volta sempre"
+ ],
+ "steps": [
+  "O médico pergunta sobre as queixas",
+  "Pede exame de urina",
+  "Às vezes faz exame físico ou pede ultrassom",
+  "Receita o tratamento e explica como tomar",
+  "Se a cistite é frequente, pede mais exames"
+ ],
+ "feel": [
+  "Normalmente melhora em 1 a 3 dias de tratamento",
+  "O exame não dói"
+ ],
+ "after": [
+  "Faça o tratamento até o fim, mesmo que melhore",
+  "Beba água suficiente",
+  "Não segure o xixi quando tiver vontade",
+  "Se a cistite voltar, faça nova consulta"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus e dor nas costas",
+  "Sangue na urina",
+  "Sem melhora depois de 2 a 3 dias de tratamento",
+  "Grávida com sintomas de cistite: vá ao médico no mesmo dia"
+ ],
+ "faq": [
+  {
+   "q": "Dá para curar cistite com bolsa de água quente?",
+   "a": "O calor às vezes alivia a dor, mas não elimina as bactérias. O tratamento é indicado pelo médico."
+  },
+  {
+   "q": "Por que a cistite volta?",
+   "a": "Há muitas causas. Se volta com frequência, o médico pede exames e indica prevenção."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta da cistite. Se precisar de exame de urina, colha a primeira urina da manhã num frasco estéril."
+  }
+ ]
+}

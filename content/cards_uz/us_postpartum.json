@@ -1,0 +1,70 @@
+{
+ "title": "Tug‘ruqdan keyin bachadon UZI",
+ "also": [
+  "tug‘ruqdan keyingi UZI",
+  "kesar kesishdan keyingi UZI",
+  "bachadonning nazorat UZIsi"
+ ],
+ "what": "UZI tug‘ruqdan keyin bachadon qanday qisqarayotganini va unda ortiqcha narsa qolmaganini ko‘rsatadi.",
+ "why": "Tug‘ruqxonadan chiqishdan oldin, kesar kesishdan keyin yoki tug‘ruqdan keyin og‘riq, harorat yoki ko‘p ajralma bezovta qilsa.",
+ "duration": "odatda 10–20 daqiqa, natija darrov beriladi",
+ "tell_doctor": [
+  "Tug‘ruq qanday o‘tdi: o‘zi yoki kesar kesish",
+  "Tug‘ruqdan necha kun o‘tdi",
+  "Qanday ajralma: qancha, qanday rangda, hidi bormi",
+  "Harorat yoki og‘riq bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Siydik pufagi",
+   "text": "Qorin orqali UZI uchun ba’zan siydik pufagini ozgina to‘ldirish so‘raladi. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay kiyim va almashtirish uchun gigienik prokladka."
+  }
+ ],
+ "bring": [
+  "Tug‘ruqxonadan chiqish ma’lumotnomasi",
+  "Gigienik prokladka",
+  "Yupqa choyshab",
+  "Hujjat"
+ ],
+ "steps": [
+  "Kushetkaga yotasiz",
+  "Shifokor bachadonni qorin orqali datchik bilan ko‘radi",
+  "Ba’zan qo‘shimcha ravishda qin orqali datchik bilan ham qaraladi",
+  "Shifokor bachadonni o‘lchaydi va bo‘shlig‘ini ko‘radi",
+  "Gel artiladi, natija sizga aytiladi"
+ ],
+ "feel": [
+  "Odatda og‘rimaydi",
+  "Kesar kesishdan keyin chok yaqinida datchik bosishi noqulay bo‘lishi mumkin"
+ ],
+ "after": [
+  "Natija darrov aytiladi",
+  "Tug‘ruqdan keyingi ajralma odatda 6 haftagacha davom etadi va asta-sekin ochroq bo‘ladi",
+  "Nimadir topilsa, shifokor keyin nima qilishni aytadi"
+ ],
+ "red_flags": [
+  "Harorat 38 dan yuqori",
+  "Ko‘p qon ketishi: prokladka bir soatda butunlay ho‘l bo‘ladi",
+  "Yoqimsiz hidli ajralma yoki qorin pastida kuchli og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Emizish paytida UZI qilsa bo‘ladimi?",
+   "a": "Ha, UZI emizishga ta’sir qilmaydi."
+  },
+  {
+   "q": "O‘zimni yaxshi his qilsam, nega UZI kerak?",
+   "a": "Ba’zan muammolar shikoyat paydo bo‘lishidan oldin ko‘rinadi. Sizga kerak yoki kerak emasligini shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga tug‘ruqdan keyin bachadon UZIsi. Tug‘ruqxonadan chiqish ma’lumotnomasi va prokladkani oling."
+  }
+ ]
+}

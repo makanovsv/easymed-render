@@ -1,0 +1,77 @@
+{
+ "title": "Anticorpos contra o receptor de TSH",
+ "also": [
+  "TRAb",
+  "anticorpo anti-receptor de TSH",
+  "exame TRAb",
+  "exame para doença de Graves"
+ ],
+ "what": "É um exame de sangue que procura anticorpos especiais. Eles podem fazer a tireoide trabalhar demais.",
+ "why": "Quando os hormônios da tireoide estão altos e é preciso entender a causa. Também para acompanhar o tratamento e na gravidez, se você já teve problema de tireoide.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 1 a 5 dias",
+ "tell_doctor": [
+  "Quais remédios para a tireoide você toma",
+  "Se você toma vitaminas ou suplementos com biotina. Ela pode alterar o resultado",
+  "Se você está grávida ou planeja engravidar",
+  "Se você já fez tratamento com iodo radioativo ou cirurgia de tireoide"
+ ],
+ "prepare": [
+  {
+   "title": "Horário",
+   "text": "É melhor fazer de manhã. Muitos laboratórios pedem jejum. Confirme antes."
+  },
+  {
+   "title": "Biotina",
+   "text": "Se você toma biotina, pergunte ao médico quantos dias antes do exame é preciso parar."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma. Ele decide se é preciso mudar algo antes do exame."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Exames anteriores de hormônios da tireoide",
+  "Laudo de ultrassom da tireoide, se tiver"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Você pode comer e voltar à rotina logo em seguida",
+  "O endocrinologista vai explicar o resultado junto com os outros hormônios"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho"
+ ],
+ "faq": [
+  {
+   "q": "Se os anticorpos estão altos, é com certeza doença de Graves?",
+   "a": "É um sinal importante, mas quem conclui é o médico, com todos os exames e a consulta."
+  },
+  {
+   "q": "Preciso repetir esse exame?",
+   "a": "Às vezes sim. O médico pode repetir durante o tratamento para decidir quando parar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de anticorpos contra o receptor de TSH. É melhor ir de manhã. Biotina, como combinado com o médico."
+  }
+ ]
+}

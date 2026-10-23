@@ -1,0 +1,75 @@
+{
+ "title": "Infarktdan keyingi hayot",
+ "also": [
+  "infarktdan keyin",
+  "infarktdan keyingi reabilitatsiya",
+  "miokard infarktidan keyingi hayot",
+  "infarktdan tiklanish"
+ ],
+ "what": "Infarktdan keyin yurak bir necha oy tiklanadi. Dorilar, harakat va chekishni tashlash yangi infarkt xavfini kamaytiradi.",
+ "why": "Infarkt o‘tkazgan barcha odamlar va ularning yaqinlari uchun.",
+ "duration": "tiklanish odatda bir necha hafta va oy davom etadi",
+ "tell_doctor": [
+  "Ko‘krakda yana og‘riq yoki bosilish paydo bo‘lsa",
+  "Dorilarni ichish qiyin bo‘lsa yoki nojo‘ya ta’sirlar bo‘lsa",
+  "Chekasiz",
+  "Ishga, mashina haydashga va jinsiy aloqaga qachon qaytish mumkinligini shifokordan so‘rang"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Odatda bir necha dori uzoq muddatga buyuriladi. Ularni har kuni iching, o‘zingiz bekor qilmang."
+  },
+  {
+   "title": "Reabilitatsiya",
+   "text": "Kardioreabilitatsiya dasturi haqida so‘rang — u yerda yuklamaga xavfsiz qaytishga yordam berishadi."
+  },
+  {
+   "title": "Til ostiga dori",
+   "text": "Ko‘krak og‘rig‘iga vosita kerakmi va uni qanday ichish kerakligini shifokordan bilib oling."
+  }
+ ],
+ "bring": [
+  "Shifoxonadan epikriz",
+  "Dorilar ro‘yxati",
+  "Bosim va puls kundaligi"
+ ],
+ "steps": [
+  "Dorilarni har kuni bir vaqtda iching",
+  "Qisqa sayrlardan boshlang va yukni asta-sekin oshiring",
+  "Chekishni butunlay tashlang",
+  "Tuz va yog‘li ovqatni kamroq, sabzavotni ko‘proq yeng",
+  "Bosim va pulsni o‘lchab, yozib boring",
+  "Shifokorning barcha nazorat ko‘riklariga boring"
+ ],
+ "feel": [
+  "Dastlabki haftalarda charchoq ko‘p bo‘ladi",
+  "Infarktdan keyin qo‘rquv va xavotir — normal holat, buni shifokorga aytish mumkin"
+ ],
+ "after": [
+  "Xolesterin va qand tahlillari — shifokor jadvali bo‘yicha",
+  "Ishga va sportga qaytish — shifokor qaroriga ko‘ra",
+  "Yaqinlaringizga infarktni qanday tanishni tushuntiring"
+ ],
+ "red_flags": [
+  "Ko‘krakda bir necha daqiqadan uzoq og‘riq yoki bosilish — tez yordamni chaqiring (103)",
+  "Og‘riq qo‘lga, jag‘ga, orqaga tarqalsa, sovuq ter bo‘lsa — tez yordamni chaqiring (103)",
+  "Kuchli nafas qisilishi yoki hushdan ketish — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Infarktdan keyin jinsiy aloqa qilsa bo‘ladimi?",
+   "a": "Odatda ha, shifokor yukka ruxsat bergach. Undan to‘g‘ridan-to‘g‘ri so‘rang."
+  },
+  {
+   "q": "O‘zimni yaxshi his qilsam ham nega tabletkalarni tashlab bo‘lmaydi?",
+   "a": "Ular yurak va tomirlarni yangi infarktdan himoya qiladi. Yaxshi ahvol dorini bekor qilishga sabab bo‘lmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Yurak dorilarini ichish vaqti. Keyin — sokin sayr."
+  }
+ ]
+}

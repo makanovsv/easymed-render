@@ -1,0 +1,69 @@
+{
+ "title": "LOR-shifokor qabuli",
+ "also": [
+  "LOR",
+  "otolaringolog",
+  "LOR qabuli",
+  "quloq-tomoq-burun"
+ ],
+ "what": "LOR-shifokor quloq, burun va tomoqni ko‘radi. Ko‘p muammolarni u darhol ko‘rib, o‘sha zahoti yordam bera oladi.",
+ "why": "Quloq yoki tomoq og‘rig‘ida, burun bitishida, odatdagidan uzoq davom etgan tumovda, eshitish pasayganda, xurrakda, burundan qon ketganda.",
+ "duration": "odatda 15–30 daqiqa",
+ "tell_doctor": [
+  "Nima bezovta qilayotgani va qachondan",
+  "Qanday dori va tomchilarni sinab ko‘rgansiz",
+  "Allergiyalar",
+  "Quloq, burun, tomoqda operatsiyalar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Tomchilar",
+   "text": "Burun yoki quloqqa tomchi tomizsangiz, shifokorga ayting — davoni o‘zingiz bekor qilmang."
+  },
+  {
+   "title": "Savollar",
+   "text": "Shikoyat va savollaringizni oldindan yozib qo‘ying."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Avvalgi ko‘chirmalar va suratlar",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar haqida so‘raydi",
+  "Tomoqni shpatel bilan ko‘radi",
+  "Burunni kengaytirgich yoki ingichka kamera bilan ko‘radi",
+  "Quloqlarni voronka yoki mikroskop orqali ko‘radi",
+  "Ba’zan eshitishni tekshiradi",
+  "Nima topganini tushuntirib, tayinlovlar beradi"
+ ],
+ "feel": [
+  "Til ustidagi shpatel ko‘ngil aynishi istagini chaqirishi mumkin",
+  "Burun va quloq ko‘rigi odatda og‘riqsiz"
+ ],
+ "after": [
+  "Shifokor tayinlovlarini bajaring",
+  "Tahlil yoki suratlar tayinlansa — ularni qiling va yana keling"
+ ],
+ "red_flags": [
+  "Nafas olish yoki yutish qiyin, og‘izdan so‘lak oqyapti — 103 ga qo‘ng‘iroq qiling",
+  "Quloq orqasida shish va harorat bilan kuchli quloq og‘rig‘i — zudlik bilan shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Quloqlarni o‘zim yuvsam bo‘ladimi?",
+   "a": "Paxtali cho‘plar bilan chuqur tiqilmagan ma’qul. Tiqin bo‘lsa, uni shifokor olib tashlaydi."
+  },
+  {
+   "q": "LORga yo‘llanma kerakmi?",
+   "a": "Bu klinika va sug‘urtaga bog‘liq. Yozilishda aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "2 soatdan keyin LOR-shifokor qabuli. Avvalgi ko‘chirmalar va dorilar ro‘yxatini oling."
+  }
+ ]
+}

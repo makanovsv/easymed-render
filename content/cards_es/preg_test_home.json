@@ -1,0 +1,78 @@
+{
+ "title": "Prueba de embarazo casera",
+ "also": [
+  "prueba de embarazo",
+  "test de embarazo",
+  "cómo hacer una prueba de embarazo",
+  "dos rayitas"
+ ],
+ "what": "La prueba casera busca la hormona del embarazo en la orina. Si está, aparece una segunda raya o un símbolo.",
+ "why": "Si se te retrasa la regla o crees que puedes estar embarazada.",
+ "duration": "la prueba toma unos minutos; la respuesta, el tiempo que dice el instructivo",
+ "tell_doctor": [
+  "La fecha en que empezó tu última regla",
+  "El resultado de la prueba y cuándo la hiciste",
+  "Todos los medicamentos que tomas",
+  "Si tuviste dolor en la parte baja del abdomen o manchado con sangre"
+ ],
+ "prepare": [
+  {
+   "title": "Cuándo",
+   "text": "Es más exacta desde el primer día de retraso de la regla. Antes puede que todavía no lo muestre."
+  },
+  {
+   "title": "Hora",
+   "text": "Mejor en la mañana, con la primera orina: tiene más hormona."
+  },
+  {
+   "title": "Agua",
+   "text": "No tomes mucha agua antes de la prueba: la orina se diluye."
+  },
+  {
+   "title": "Instructivo",
+   "text": "Lee el instructivo: cada prueba tiene un tiempo de espera distinto."
+  }
+ ],
+ "bring": [
+  "Una prueba que no esté caducada",
+  "Un reloj o un temporizador",
+  "Un vasito limpio y seco, si hace falta"
+ ],
+ "steps": [
+  "Lávate las manos y abre la prueba justo antes de usarla",
+  "Pon la punta bajo el chorro de orina o métela en el vasito: los segundos vienen en el instructivo",
+  "Deja la prueba en una superficie plana con la ventanita hacia arriba",
+  "Espera el tiempo del instructivo",
+  "Mira el resultado: la raya de control siempre debe aparecer"
+ ],
+ "feel": [
+  "Nada: la prueba no duele",
+  "La espera puede dar nervios: es normal"
+ ],
+ "after": [
+  "Dos rayas, aunque sean tenues, normalmente significan embarazo: haz cita con el ginecólogo",
+  "Una raya y la regla sigue sin llegar: repite la prueba en 2 o 3 días",
+  "Si no aparece la raya de control, la prueba no sirve: usa otra",
+  "Un resultado que aparece después del tiempo del instructivo no cuenta"
+ ],
+ "red_flags": [
+  "Prueba positiva con dolor fuerte en la parte baja del abdomen, sobre todo de un lado: llama a emergencias",
+  "Prueba positiva con sangrado, debilidad o desmayo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "La segunda raya está muy tenue. ¿Estoy embarazada?",
+   "a": "Lo más probable es que sí, solo que todavía es muy pronto. Repite la prueba en 2 días o hazte un análisis de sangre de hormona del embarazo."
+  },
+  {
+   "q": "¿La prueba se puede equivocar?",
+   "a": "Una negativa sí, si se hace muy pronto. Una positiva rara vez se equivoca. En cualquier caso, lo confirma el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Mañana temprano es tu prueba de embarazo. Hazla con la primera orina de la mañana y según el instructivo."
+  }
+ ]
+}

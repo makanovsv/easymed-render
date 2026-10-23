@@ -1,0 +1,68 @@
+{
+ "title": "Jarroh qabuli",
+ "also": [
+  "jarroh",
+  "jarroh maslahati",
+  "umumiy jarroh"
+ ],
+ "what": "Operatsiya kerak yoki kerak emasligini hal qiladigan va jarroh qo‘li yordam beradigan kasalliklarni — churradan yiringli yaragacha — davolaydigan shifokor.",
+ "why": "Churra, o‘t pufagidagi toshlar, yiringli yaralar, tirnoqning teriga o‘sishi, teri ostidagi bo‘rtmalar bo‘lganda, rejali operatsiya oldidan.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Nima bezovta qilayotganini va qachondan beri",
+  "Barcha dorilarni, ayniqsa qonni suyultiruvchilarni",
+  "Allergiyalar",
+  "Oldingi operatsiyalar va narkozni qanday ko‘targaningiz",
+  "Yurak, o‘pka kasalliklari, diabet"
+ ],
+ "prepare": [
+  {
+   "title": "Tekshiruvlar",
+   "text": "UZI, rasmlar va tahlillar qilingan bo‘lsa, olib keling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Kerakli joyni ko‘rsatish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Rasmlar va xulosalar",
+  "Oldingi tahlillar, epikrizlar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarining o‘zi"
+ ],
+ "steps": [
+  "Shifokor shikoyatlaringizni so‘raydi",
+  "Kerakli joyni ko‘radi va paypaslaydi",
+  "Tekshiruv natijalarini ko‘radi",
+  "Operatsiya kerakmi va qanday variantlar borligini tushuntiradi",
+  "Operatsiya kerak bo‘lsa, undan oldin topshiriladigan tekshiruvlar ro‘yxatini beradi"
+ ],
+ "feel": [
+  "Og‘riqli joyni paypaslash yoqimsiz bo‘lishi mumkin",
+  "Og‘risa, shifokorga ayting"
+ ],
+ "after": [
+  "Operatsiya kerak bo‘lsa, shifokor unga qanday tayyorlanishni aytadi",
+  "Tiklanish qancha davom etishini so‘rang"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq, qusish, yuqori harorat bo‘lsa — qabulni kutmang, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Operatsiyani darrov buyurishadimi?",
+   "a": "Har doim emas. Ko‘pincha avval tekshiruv kerak bo‘ladi, ba’zan operatsiya umuman kerak bo‘lmaydi."
+  },
+  {
+   "q": "Jarrohdan nimani so‘rash kerak?",
+   "a": "Qanday davolash variantlari bor, qanday xavflar bor, tiklanish qancha davom etadi va qachon ishga chiqsa bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga jarroh qabuli. Tekshiruv natijalari va dorilar ro‘yxatini oling."
+  }
+ ]
+}

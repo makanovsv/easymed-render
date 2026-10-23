@@ -1,0 +1,80 @@
+{
+ "title": "Kardiopulmonal yuklama testi",
+ "also": [
+  "KPYuT",
+  "ergospirometriya",
+  "gaz tahlili bilan yuklama testi",
+  "kardiopulmonal testlash"
+ ],
+ "what": "Siz niqobda pedal aylantirasiz yoki yo‘lakchada yurasiz. Asboblar yurak ishini va qancha kislorod sarflayotganingizni ko‘radi.",
+ "why": "Nafas qisilishi sababi noma’lum bo‘lganda, operatsiyalardan oldin, yurak va o‘pka kasalliklarida yoki xavfsiz yuklamani tanlash uchun.",
+ "duration": "tayyorgarlik bilan odatda 45–60 daqiqa, yuklamaning o‘zi 8–12 daqiqa",
+ "tell_doctor": [
+  "Barcha dorilar: biror narsani bekor qilish kerakmi, shifokor aytadi",
+  "Yuklamada ko‘krakda og‘riq bo‘lsa",
+  "Bo‘g‘imlar og‘risa va yurish yoki pedal aylantirish qiyin bo‘lsa",
+  "Hushdan ketishlar bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Testdan 2–3 soat oldin yengil ovqat. Och ham, to‘q ham kelmang."
+  },
+  {
+   "title": "Oldingi kun",
+   "text": "Og‘ir mashqlarsiz va alkogolsiz. Test kuni odatda qahva ichilmaydi va chekilmaydi: klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Sport kiyimi va qulay poyabzal."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Shifokor aytsa, uning sxemasiga amal qiling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Dorilar ro‘yxati",
+  "Sport kiyimi va poyabzal",
+  "Suv va sochiq"
+ ],
+ "steps": [
+  "Ko‘krakka EKG elektrodlari, qo‘lga bosim manjeti yopishtiriladi",
+  "Yuzga niqob kiydirishadi, siz u orqali nafas olasiz",
+  "Avval tinch holatdagi ko‘rsatkichlar yoziladi",
+  "Pedal aylantira boshlaysiz yoki yurasiz, yuklama asta-sekin ortadi",
+  "Charchaguncha yoki shifokor to‘xtatguncha ishlaysiz",
+  "Testdan keyin puls tinchlanguncha dam olasiz"
+ ],
+ "feel": [
+  "Niqobda dastlab odatiy emas",
+  "Oxirida kuchli charchoq va nafas qisilishi, jadal mashqdan keyingidek",
+  "Oyoqlar keyingi kuni ham og‘rishi mumkin"
+ ],
+ "after": [
+  "Ketishdan oldin 10–15 daqiqa o‘tiring",
+  "Xulosa odatda bir necha soatdan bir necha kungacha oladi",
+  "Bugun og‘ir yuklamadan saqlaning"
+ ],
+ "red_flags": [
+  "Test paytida ko‘krakda og‘riq, bosh aylanishi, havo yetishmasligi bo‘lsa, darhol shifokorga ayting",
+  "Testdan keyin ko‘krakda og‘riq yoki hushdan ketish bo‘lsa, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Nega chegaragacha borish kerak?",
+   "a": "Yurak va o‘pka maksimumda qanday ishlashini ko‘rish uchun. Lekin xavfli bo‘lsa, sizni to‘xtatishadi."
+  },
+  {
+   "q": "Bu yo‘lakchadagi oddiy sinovdan nimasi bilan farq qiladi?",
+   "a": "EKG’dan tashqari bu yerda nafas va gazlar almashinuvi ham o‘lchanadi. Bu yuklamani nima cheklayotganini tushunishga yordam beradi: yurak, o‘pka yoki mushaklar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga yuklama testi. Sport kiyimi va poyabzalni oling. Testdan 2–3 soat oldin yengil ovqat."
+  }
+ ]
+}

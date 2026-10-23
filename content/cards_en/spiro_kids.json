@@ -1,0 +1,77 @@
+{
+ "title": "Spirometry for children",
+ "also": [
+  "spirometry for kids",
+  "child lung function test",
+  "breathing test for children",
+  "pediatric spirometry"
+ ],
+ "what": "Your child blows into a tube, and a device shows how well their lungs work. Often there is a game on the screen to help.",
+ "why": "For a frequent cough, wheezing, suspected asthma, and to check how well treatment is working.",
+ "duration": "usually 15 to 30 minutes; the result is given right away",
+ "tell_doctor": [
+  "Which inhalers and medicines your child uses",
+  "If your child has a cold or fever now",
+  "If your child is afraid of procedures"
+ ],
+ "prepare": [
+  {
+   "title": "Medicines",
+   "text": "Sometimes inhalers are not given for a few hours before the test. Only the doctor can tell you. Do not stop them on your own."
+  },
+  {
+   "title": "Health",
+   "text": "If your child is sick, it is usually better to move the test. Call the clinic."
+  },
+  {
+   "title": "Food",
+   "text": "A light breakfast, not a big one. It is hard to blow with a full stomach."
+  },
+  {
+   "title": "Talk about it",
+   "text": "At home, explain that they will need to blow hard, like blowing out birthday candles."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your child's inhalers",
+  "A favorite toy",
+  "Your child's documents"
+ ],
+ "steps": [
+  "Your child sits up straight, and a soft clip is put on the nose",
+  "They are shown what to do, often with a game on the screen",
+  "They take a deep breath and blow hard into the tube",
+  "It is repeated a few times to get a good result",
+  "Sometimes they get an inhaler, and the test is repeated after 15 to 20 minutes"
+ ],
+ "feel": [
+  "It does not hurt",
+  "The nose clip feels a bit strange",
+  "Blowing many times can make them dizzy or cough"
+ ],
+ "after": [
+  "The result is usually given right away",
+  "The doctor will explain it and change the treatment if needed",
+  "Praise your child. It helps next time"
+ ],
+ "red_flags": [
+  "After the test, your child has trouble breathing or is wheezing, and the inhaler does not help: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "From what age can it be done?",
+   "a": "Usually from age 5 or 6, when a child can follow instructions. Ask your doctor."
+  },
+  {
+   "q": "What if it does not work?",
+   "a": "That happens. The test is repeated, sometimes on another day."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Your child's spirometry is tomorrow. Do not give the inhaler if the doctor said so. Bring a toy."
+  }
+ ]
+}

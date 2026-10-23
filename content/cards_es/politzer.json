@@ -1,0 +1,71 @@
+{
+ "title": "Insuflación de las trompas de Eustaquio",
+ "also": [
+  "destapar los oídos",
+  "maniobra de Politzer",
+  "cateterismo de la trompa de Eustaquio",
+  "oídos tapados"
+ ],
+ "what": "El médico mete aire en las trompas de Eustaquio, los conductos que unen la nariz con el oído. Esto ayuda a igualar la presión del oído.",
+ "why": "Si tienes el oído tapado después de un resfriado o un vuelo, otitis con líquido o bajó tu audición.",
+ "duration": "normalmente de 5 a 15 minutos; el tratamiento es de varias sesiones",
+ "tell_doctor": [
+  "Si tienes la nariz tapada o escurrimiento",
+  "Si te operaron del oído o de la nariz",
+  "Si te sangra la nariz",
+  "Si hace poco tuviste una otitis fuerte"
+ ],
+ "prepare": [
+  {
+   "title": "Nariz",
+   "text": "Si tienes la nariz tapada, el médico puede ponerte gotas descongestionantes."
+  },
+  {
+   "title": "Comida",
+   "text": "No se necesita preparación especial."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Resultados de pruebas de audición anteriores"
+ ],
+ "steps": [
+  "El médico revisa tus oídos y tu nariz",
+  "A veces pone gotas en la nariz",
+  "Pone una punta en una fosa nasal y tapa la otra",
+  "Te pide decir una palabra o tragar",
+  "En ese momento manda un chorro de aire",
+  "El médico revisa el resultado"
+ ],
+ "feel": [
+  "Sientes un empujón de aire en el oído",
+  "Puede haber un ruido o un chasquido en el oído",
+  "Una molestia leve en la nariz"
+ ],
+ "after": [
+  "Lo tapado normalmente mejora en ese momento o después de varias sesiones",
+  "No te suenes la nariz con fuerza",
+  "Sesiones y gotas según te indique el médico"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el oído después del procedimiento",
+  "Secreción o sangre por el oído",
+  "Pierdes audición de repente o tienes mareo"
+ ],
+ "faq": [
+  {
+   "q": "¿Hace daño destapar los oídos así?",
+   "a": "Si está bien indicado, es un procedimiento seguro."
+  },
+  {
+   "q": "¿Puedo destaparme los oídos yo solo?",
+   "a": "Mejor no, sin consultar al médico. Te puedes lastimar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la insuflación de tus oídos. Si tienes la nariz tapada, dile al médico."
+  }
+ ]
+}

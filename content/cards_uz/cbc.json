@@ -1,0 +1,58 @@
+{
+ "title": "Umumiy qon tahlili",
+ "also": [
+  "UQT",
+  "klinik qon tahlili",
+  "formulali qon tahlili"
+ ],
+ "what": "Qonda eritrotsitlar, gemoglobin, leykotsitlar va trombotsitlar qancha ekanini ko‘rsatadi. Bu eng ko‘p topshiriladigan tahlil.",
+ "why": "Ko‘rikda, operatsiyadan oldin, harorat, holsizlik, kamqonlik yoki yallig‘lanishga shubha bo‘lganda.",
+ "duration": "qon olish 3–5 daqiqa, natija odatda ertasiga",
+ "tell_doctor": [
+  "Qanday dorilar ichayotganingizni",
+  "Yaqinda kasal bo‘lgan yoki harorat ko‘tarilgan bo‘lsa",
+  "Ayolda hozir hayz kunlari bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Ertalab, och qoringa yoki yengil ovqatdan bir necha soat o‘tgach topshirgan ma’qul: laboratoriyadan aniqlashtiring."
+  },
+  {
+   "title": "Oldingi kun",
+   "text": "Alkogolsiz va og‘ir mashqlarsiz."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma"
+ ],
+ "steps": [
+  "Qon venadan yoki barmoqdan olinadi",
+  "Jgut, antiseptik, qisqa sanchiq",
+  "Qon probirkaga olinadi, sanchilgan joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa sanchiq"
+ ],
+ "after": [
+  "Paxtani bir necha daqiqa bosib turing",
+  "Natijani shifokor tushuntiradi: raqamlarning o‘zi tashxis emas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "SOE nima?",
+   "a": "Bu eritrotsitlarning cho‘kish tezligi. U yallig‘lanishda oshadi, lekin kasalliksiz ham yuqori bo‘lishi mumkin: baholashni shifokor qiladi."
+  },
+  {
+   "q": "Och qoringa topshirish kerakmi?",
+   "a": "Yaxshisi shunday, lekin qat’iy shart emas: yog‘li ovqatdan keyin natija noaniq bo‘lishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga umumiy qon tahlili. Ertalab hech narsa yemagan ma’qul, suv ichish mumkin."
+  }
+ ]
+}

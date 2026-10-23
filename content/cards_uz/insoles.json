@@ -1,0 +1,66 @@
+{
+ "title": "Ortopedik tagliklarni tanlash",
+ "also": [
+  "ortopedik tagliklar",
+  "individual tagliklar",
+  "yassi oyoqda tagliklar",
+  "taglik tanlash"
+ ],
+ "what": "Mutaxassis oyoq kaftlaringizni ko‘rib, oyog‘ingizga mos tagliklarni tanlaydi yoki tayyorlaydi. Tagliklar yukni taqsimlaydi va og‘riqni kamaytiradi.",
+ "why": "Yassi oyoqda, oyoq kafti, tizza yoki belda og‘riqda, tovon shporida, diabetda.",
+ "duration": "odatda 30–60 daqiqa, tayyor tagliklar — darrov yoki bir necha kunda",
+ "tell_doctor": [
+  "Oyoqlar qayerda va qachon og‘riydi",
+  "Diabet yoki oyoq kafti sezuvchanligi bilan muammolar",
+  "Oyoqlarda jarohat va operatsiyalar bo‘lganmi",
+  "Qanday poyabzal kiyasiz va nima bilan shug‘ullanasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Poyabzal",
+   "text": "Eng ko‘p kiyadigan poyabzalingizni oling. Tagliklar shunga moslab tanlanadi."
+  },
+  {
+   "title": "Paypoq",
+   "text": "Oddiy paypoq kiying."
+  }
+ ],
+ "bring": [
+  "Kundalik poyabzalingiz",
+  "Eski tagliklar, agar bo‘lgan bo‘lsa",
+  "Shifokor xulosasi, agar bo‘lsa"
+ ],
+ "steps": [
+  "Mutaxassis shikoyatlar haqida so‘rab, oyoq kaftlarni ko‘radi",
+  "Qanday turishingiz va yurishingizni ko‘radi",
+  "Oyoq izini yoki skanerini oladi",
+  "Tagliklarni tanlaydi yoki tayyorlaydi",
+  "Ularni poyabzalga solib, qulay yoki yo‘qligini tekshiradi"
+ ],
+ "feel": [
+  "Protseduraning o‘zi og‘riqsiz",
+  "Tagliklarda dastlabki kunlar g‘alati — oyoqlar ko‘nikadi"
+ ],
+ "after": [
+  "Tagliklarni asta-sekin taqing: avval bir necha soat",
+  "Ishqalasa yoki og‘risa — mutaxassisga ko‘rining, taglik to‘g‘rilanadi",
+  "Tagliklar vaqt o‘tishi bilan eskiradi — holatini tekshirib turing"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bolaga tagliklar kerakmi?",
+   "a": "Har doim emas. Ortoped shifokor ko‘rikdan keyin hal qiladi."
+  },
+  {
+   "q": "Tayyor tagliklar sotib olsa bo‘ladimi?",
+   "a": "Shifokor qarshi bo‘lmasa, bo‘ladi. Aniq muammolarda individual tagliklar yaxshiroq mos keladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun tagliklar tanlash. Eng ko‘p kiyadigan poyabzalingizni oling."
+  }
+ ]
+}

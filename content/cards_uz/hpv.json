@@ -1,0 +1,72 @@
+{
+ "title": "OPV testi",
+ "also": [
+  "OPV",
+  "OPV testi",
+  "papillomavirus",
+  "yuqori xavfli OPV testi"
+ ],
+ "what": "Ginekolog bachadon bo‘yinchasidan yumshoq cho‘tka bilan surtma oladi. Laboratoriyada odam papillomasi virusi qidiriladi.",
+ "why": "Bachadon bo‘yni saratonining oldini olish uchun, odatda 30 yoshdan; sitologiyada o‘zgarishlar bo‘lganda; bachadon bo‘yini davolashdan oldin va keyin.",
+ "duration": "surtmaning o‘zi — 1–2 daqiqa, natija odatda bir necha kunda",
+ "tell_doctor": [
+  "Oxirgi hayz sanasi",
+  "Homilador bo‘lsangiz yoki bo‘lishingiz mumkin bo‘lsa",
+  "Yaqinda bachadon bo‘yni davolangan bo‘lsa",
+  "Oldin OPV yoki surtmada o‘zgarishlar topilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Hayz",
+   "text": "Hayz paytida surtma olinmaydi. Sikl o‘rtasida yaxshiroq."
+  },
+  {
+   "title": "2 kun oldin",
+   "text": "Jinsiy aloqasiz, spirinsovkasiz, qin shamlarisiz, kremlarsiz va tamponlarsiz."
+  },
+  {
+   "title": "Ko‘rik",
+   "text": "Kolposkopiya rejalashtirilgan bo‘lsa, surtma odatda undan oldin olinadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Oldingi surtma natijalari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Belgacha pastini yechib, ginekologik kreslaga o‘tirasiz",
+  "Shifokor bachadon bo‘yinchasini ko‘rish uchun ko‘zgu kiritadi",
+  "Yumshoq cho‘tka bilan bo‘yincha bo‘ylab bir necha soniya yuradi",
+  "Cho‘tka eritmali probirkaga solinadi",
+  "Ko‘zgu olinadi — kiyinsangiz bo‘ladi"
+ ],
+ "feel": [
+  "Ko‘zgudan bosim va yengil noqulaylik",
+  "Ba’zan qorin pastida qisqa tortuvchi og‘riq"
+ ],
+ "after": [
+  "Ba’zan o‘sha kuni biroz dog‘li ajralma bo‘ladi — bu odatiy",
+  "Natija odatda bir necha kunda — muddatni laboratoriyada aytishadi",
+  "OPV topilsa, sitologiya yoki kolposkopiya kerakligini shifokor aytadi"
+ ],
+ "red_flags": [
+  "Surtmadan keyin ko‘p qon ketishi yoki qorin pastida kuchli og‘riq bo‘lsa — shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "OPV topildi — bu saratonmi?",
+   "a": "Yo‘q. OPV ko‘p uchraydi va odatda o‘zi o‘tib ketadi. Shifokor o‘zgarishlarni o‘z vaqtida payqash uchun kuzatadi."
+  },
+  {
+   "q": "OPV testini qanchalik tez-tez topshirish kerak?",
+   "a": "Natija me’yorda bo‘lsa, odatda bir necha yilda bir marta. Tezligini shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "2 kundan keyin OPV ga surtma. Bugundan boshlab jinsiy aloqasiz, shamsiz, kremsiz va spirinsovkasiz."
+  }
+ ]
+}

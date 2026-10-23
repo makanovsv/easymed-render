@@ -1,0 +1,84 @@
+{
+ "title": "Uyda zond va gastrostoma orqali ovqatlantirish",
+ "also": [
+  "zond bilan ovqatlantirish",
+  "gastrostoma orqali ovqatlantirish",
+  "zond orqali ovqat",
+  "gastrostoma",
+  "nazogastral zond"
+ ],
+ "what": "Odam og‘iz bilan ovqatlana olmasa, ovqat ingichka naycha orqali — burundan oshqozongacha yoki qorin orqali to‘g‘ridan-to‘g‘ri oshqozonga — yuboriladi. Uyda buni yaqinlari qiladi.",
+ "why": "Insultdan keyin yutish buzilganda, tomoq, qizilo‘ngach kasalliklarida va shifokor shunday ovqatlantirish buyurgan boshqa holatlarda.",
+ "duration": "bir ovqatlantirish odatda 20–40 daqiqa yoki nasos orqali sekin bir necha soat",
+ "tell_doctor": [
+  "Qusish, qorin shishishi, ich ketishi yoki qabziyat paydo bo‘lsa",
+  "Gastrostoma atrofidagi teri qizargan, ho‘l bo‘lgan yoki og‘riyotgan bo‘lsa",
+  "Zond siljigan yoki tashqarida qisqarib qolgan bo‘lsa",
+  "Odam ovqatlantirish paytida yo‘talsa"
+ ],
+ "prepare": [
+  {
+   "title": "Aralashma",
+   "text": "Qanday aralashma, qancha va qanchalik tez-tez — shifokor buyuradi. O‘zingiz o‘zgartirmang."
+  },
+  {
+   "title": "Harorat",
+   "text": "Aralashma xona haroratida yuboriladi, sovuq ham, issiq ham emas."
+  },
+  {
+   "title": "Holat",
+   "text": "Odamning boshi va ko‘kragini ko‘taring — o‘tirgan yoki yarim o‘tirgan holatda."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Zond orqali hamma tabletkani berib bo‘lmaydi. Qaysilarini maydalash mumkinligini shifokor yoki farmatsevtdan so‘rang."
+  }
+ ],
+ "bring": [
+  "Aralashma va ovqatlantirish shprisi",
+  "Yuvish uchun qaynatilgan suv",
+  "Ovqatlantirish sxemasi yozilgan epikriz",
+  "Zaxira zond yoki o‘tkazgich, agar berilgan bo‘lsa"
+ ],
+ "steps": [
+  "Qo‘lingizni yuving va aralashmani tayyorlang",
+  "Odamni o‘tirg‘izing yoki bosh tomonini ko‘taring",
+  "Zond joyida ekanini naychadagi belgi bo‘yicha tekshiring",
+  "Zondni oz miqdordagi suv bilan yuving",
+  "Aralashmani sekin, shprits yoki nasos orqali yuboring",
+  "Ovqatlantirgandan keyin zondni yana suv bilan yuving",
+  "Odamni kamida yana 30 daqiqa yarim o‘tirgan holatda qoldiring"
+ ],
+ "feel": [
+  "Odamga odatiy emasdek tuyulishi, ba’zan og‘irlik hissi bo‘lishi mumkin",
+  "Juda tez ovqatlantirish ko‘ngil aynishi va qorin shishishiga olib keladi"
+ ],
+ "after": [
+  "Odam og‘iz bilan ovqatlanmasa ham, og‘iz bo‘shlig‘ini parvarish qiling",
+  "Gastrostoma atrofidagi terini har kuni yuving va quriting",
+  "Yozib boring: qancha yuborildi, najas, vazn",
+  "Shifokor yoki hamshiraga muntazam ko‘rinib turing"
+ ],
+ "red_flags": [
+  "Ovqatlantirish paytida yo‘tal, bo‘g‘ilish, xirillash bo‘lsa — ovqatlantirishni to‘xtating; o‘tmasa, tez yordamni chaqiring (103)",
+  "Gastrostoma tushib ketsa — teshikni toza salfetka bilan yoping va shoshilinch shifokorga boring, teshik tez bitib ketadi",
+  "Qonli yoki qahva quyqasiga o‘xshash qusuq, qorinda kuchli og‘riq bo‘lsa — tez yordamni chaqiring (103)",
+  "Harorat, stoma atrofida yiring"
+ ],
+ "faq": [
+  {
+   "q": "Zond tiqilib qolsa nima qilish kerak?",
+   "a": "Shpritsda iliq suv bilan kuchli bosimsiz yuvib ko‘ring. Sim bilan tozalamang. Uddalay olmasangiz — shifokorga qo‘ng‘iroq qiling."
+  },
+  {
+   "q": "Og‘iz orqali ovqat berish mumkinmi?",
+   "a": "Faqat yutish tekshirilgandan keyin shifokor ruxsat bergan bo‘lsa. Aks holda ovqat o‘pkaga tushishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Tez orada ovqatlantirish. Aralashma xona haroratida, odam yarim o‘tirgan holatda, zondni oldin va keyin yuving."
+  }
+ ]
+}

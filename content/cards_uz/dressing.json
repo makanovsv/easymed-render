@@ -1,0 +1,67 @@
+{
+ "title": "Bog‘lov",
+ "also": [
+  "bog‘lovni almashtirish",
+  "yarani ishlash",
+  "operatsiyadan keyingi bog‘lov"
+ ],
+ "what": "Hamshira yoki shifokor eski bog‘lovni olib, yarani ishlaydi va yangisini qo‘yadi. Shunda yara toza va tezroq bitadi.",
+ "why": "Operatsiyadan keyin, kesilganda, kuyganda, shilinganda, choklarda va boshqa yaralarda.",
+ "duration": "odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Antiseptiklar, yod yoki plastirga allergiya",
+  "Qandli diabet — yaralar uzoqroq bitadi",
+  "Yara ko‘proq og‘risa yoki ajralma paydo bo‘lsa",
+  "Qonni suyultiradigan preparatlar"
+ ],
+ "prepare": [
+  {
+   "title": "Bog‘lov",
+   "text": "Shifokor ruxsat bermagan bo‘lsa, bog‘lovni o‘zingiz yechmang. Uni quruq saqlang."
+  },
+  {
+   "title": "Og‘riq",
+   "text": "Bog‘lov odatda og‘riqli bo‘lsa, oldindan shifokordan og‘riqsizlantirish haqida so‘rang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng, yara joyini oson ochish uchun."
+  }
+ ],
+ "bring": [
+  "Shifokor ko‘chirmasi yoki tayinlovi",
+  "Bog‘lov materiallari, agar o‘zingiznikini olib kelish so‘ralgan bo‘lsa"
+ ],
+ "steps": [
+  "Yara qulay bo‘lishi uchun o‘tirasiz yoki yotasiz",
+  "Eski bog‘lov ehtiyotkorlik bilan olinadi; yopishib qolgan bo‘lsa — eritma bilan ho‘llanadi",
+  "Shifokor yoki hamshira yarani ko‘radi",
+  "Yara va uning atrofidagi teri antiseptik bilan ishlanadi",
+  "Yangi steril bog‘lov qo‘yilib, mahkamlanadi"
+ ],
+ "feel": [
+  "Antiseptikdan achishishi mumkin",
+  "Yopishgan bog‘lovni yechish noxush bo‘lishi mumkin — og‘risa, ayting"
+ ],
+ "after": [
+  "Bog‘lovni quruq va toza saqlang",
+  "Keyingi bog‘lov yara holatiga qarab tayinlanadi — ko‘pincha 1–3 kundan keyin",
+  "Dushdan oldin bog‘lovni ho‘llash mumkinmi, deb so‘rang"
+ ],
+ "red_flags": [
+  "Bog‘lov tezda qonga ivib ketadi",
+  "Yara qizargan, shishgan, issiq, yiring yoki yoqimsiz hid paydo bo‘ldi",
+  "Harorat 38 °C dan yuqori"
+ ],
+ "faq": [
+  {
+   "q": "Bog‘lovni qanchalik tez-tez qilish kerak?",
+   "a": "Turlicha: har kundan bir necha kunda bir martagacha. Yarani ko‘rgach, shifokor aytadi."
+  },
+  {
+   "q": "Bog‘lovni uyda qilsa bo‘ladimi?",
+   "a": "Oddiy bog‘lovlarni shifokor qanday qilishni tushuntirgandan keyin ko‘pincha uyda almashtirishadi. Murakkab yaralarni klinikada bog‘lagan ma’qul."
+  }
+ ],
+ "reminders": []
+}

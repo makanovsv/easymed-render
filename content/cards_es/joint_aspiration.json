@@ -1,0 +1,77 @@
+{
+ "title": "Punción de una articulación para sacar líquido",
+ "also": [
+  "punción de articulación",
+  "sacar líquido de la rodilla",
+  "artrocentesis",
+  "quitar líquido de la articulación"
+ ],
+ "what": "El médico saca con una aguja delgada el líquido de más de la articulación. Esto disminuye la hinchazón y el líquido se puede mandar a analizar.",
+ "why": "Con hinchazón de una articulación, para encontrar la causa: inflamación, gota, infección, lesión. A veces se aplica un medicamento en el mismo momento.",
+ "duration": "normalmente de 10 a 20 minutos; el análisis del líquido, de un día a varios",
+ "tell_doctor": [
+  "Medicamentos que adelgazan la sangre",
+  "Alergia a la anestesia local o al yodo",
+  "Fiebre o infección de la piel sobre la articulación",
+  "Diabetes, si van a aplicar hormonas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes comer como siempre."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta."
+  },
+  {
+   "title": "Ropa",
+   "text": "Suelta, para descubrir fácilmente la articulación."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Radiografías y ultrasonidos de la articulación",
+  "Identificación"
+ ],
+ "steps": [
+  "Te acuestas o te sientas y acomodan bien la articulación",
+  "Limpian la piel con antiséptico",
+  "Te ponen una inyección de anestesia",
+  "El médico introduce la aguja en la articulación, a menudo guiado por ultrasonido",
+  "Sacan el líquido con una jeringa y a veces aplican un medicamento",
+  "Ponen una curita en el lugar de la punción"
+ ],
+ "feel": [
+  "La inyección de anestesia",
+  "Presión en la articulación durante la punción",
+  "Después la hinchazón normalmente disminuye y es más fácil mover la articulación"
+ ],
+ "after": [
+  "Un día de reposo para la articulación",
+  "Si aplicaron un medicamento, descansa uno o dos días",
+  "Puedes poner frío envuelto en una tela, si el médico lo permitió",
+  "Habla con el médico sobre los resultados del análisis del líquido"
+ ],
+ "red_flags": [
+  "Fiebre, la articulación se puso caliente y roja",
+  "Dolor o hinchazón fuerte que aumenta",
+  "Pus en el sitio de la punción"
+ ],
+ "faq": [
+  {
+   "q": "¿El líquido se juntará otra vez?",
+   "a": "A veces sí. Depende de la causa, por eso es importante el análisis del líquido."
+  },
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente se tolera. La piel se anestesia; lo incómodo es sobre todo la presión."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la punción de articulación. Lleva las radiografías y usa ropa suelta."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "title": "Insulin nasosi: o‘rnatish va kateterni almashtirish",
+ "also": [
+  "insulin nasosi",
+  "diabet uchun nasos",
+  "nasos kateterini almashtirish",
+  "nasosni o‘rnatish",
+  "infuzion to‘plam"
+ ],
+ "what": "Nasos — insulinni ingichka naycha orqali teri ostiga o‘zi asta-sekin kiritadigan kichik asbob. Teridagi kateterni har bir necha kunda o‘zingiz almashtirasiz.",
+ "why": "Qandli diabetda, shifokor ukollardan nasosga o‘tishga qaror qilganda.",
+ "duration": "kateterni almashtirish odatda 10–15 daqiqa; klinikada birinchi o‘rgatish — bir necha soat",
+ "tell_doctor": [
+  "Shakar tez-tez juda past yoki yuqori bo‘lsa",
+  "Kateter joylarida qizarish yoki bo‘rtmalar paydo bo‘lsa",
+  "Nasos ekranini yomon ko‘rsangiz yoki mayda detallar bilan ishlash qiyin bo‘lsa",
+  "Safar, sport yoki homiladorlikni rejalashtirsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "O‘rgatish",
+   "text": "Birinchi o‘rnatish va sozlashni odatda shifokor yoki hamshira bilan birga qilishadi. Dozalarni faqat shifokor belgilaydi."
+  },
+  {
+   "title": "Zaxira",
+   "text": "Uyda kateterlar, rezervuarlar, batareyalar zaxirasini va nasos buzilgan holat uchun shprits-ruchkani saqlang."
+  },
+  {
+   "title": "Almashtirish vaqti",
+   "text": "Kateterni kunduzi, 2–3 soatdan keyin shakarni tekshira oladigan paytda almashtiring. Uxlashdan oldin emas."
+  },
+  {
+   "title": "Tozalik",
+   "text": "Qo‘llarni yuving, antiseptik va kerakli hamma narsani toza stolda tayyorlang."
+  }
+ ],
+ "bring": [
+  "Nasos va yangi infuzion to‘plam",
+  "Rezervuar va insulin",
+  "Glyukometr",
+  "Shakar kundaligi yoki ilova"
+ ],
+ "steps": [
+  "Qo‘llarni yuving va insulin hamda to‘plamning yaroqlilik muddatini tekshiring",
+  "Yangi rezervuarga havo pufakchalarisiz insulin torting",
+  "Rezervuarni nasosga soling va naychani o‘rgatilganidek, uchida tomchi chiqquncha to‘ldiring",
+  "Qorinda yoki boshqa joyda oldingisidan chetlashgan yangi joyni tanlang",
+  "Terini antiseptik bilan artib, qurishiga imkon bering",
+  "Kateterni kiritish qurilmasi bilan o‘rnating va yo‘naltiruvchi ignani olib tashlang",
+  "Modelingizga kerak bo‘lsa, nasos menyusida kanyulani to‘ldiring",
+  "2–3 soatdan keyin shakarni tekshiring"
+ ],
+ "feel": [
+  "Kateter o‘rnatilganda qisqa ukol",
+  "Dastlabki kunlarda tanadagi nasos g‘alati, keyin uni deyarli sezmaysiz"
+ ],
+ "after": [
+  "Kateterni odatda har 2–3 kunda almashtiring — muddat to‘plam yo‘riqnomasida bor",
+  "To‘plam almashtirilishini va shakarni yozib boring",
+  "Past shakar bo‘lgan taqdirda doim shirinlik va insulinli zaxira ruchkani olib yuring",
+  "Nasos ma’lumotlarini muntazam shifokorga ko‘rsating"
+ ],
+ "red_flags": [
+  "Shakar yuqori va tuzatishdan keyin tushmasa — kateterni almashtiring va shifokorga qo‘ng‘iroq qiling",
+  "Ko‘ngil aynishi, qusish, aseton hidi, kuchli chanqoq — darrov shifokorga, ahvol yomonlashsa tez yordamni chaqiring (103)",
+  "Kateter joyida qizarish, og‘riq yoki yiring",
+  "Odam hushsiz yoki tutqanoqda — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Nasos bilan dushga kirsa bo‘ladimi?",
+   "a": "Odatda dush vaqtida nasosni ajratishadi. Suvda ishlatish mumkinmi, modelingiz yo‘riqnomasida yozilgan."
+  },
+  {
+   "q": "Nasos buzilib qolsa nima qilish kerak?",
+   "a": "Shifokordan olgan zaxira reja bo‘yicha shprits-ruchka bilan ukolga o‘ting. Reja bo‘lmasa — shifokorga qo‘ng‘iroq qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun nasos kateterini almashtirish. Kunduzi qiling va 2–3 soatdan keyin shakarni tekshiring."
+  }
+ ]
+}

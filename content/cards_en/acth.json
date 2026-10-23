@@ -1,0 +1,78 @@
+{
+ "title": "ACTH (adrenocorticotropic hormone)",
+ "also": [
+  "ACTH test",
+  "adrenocorticotropin",
+  "corticotropin",
+  "pituitary hormone test"
+ ],
+ "what": "This blood test checks the hormone the brain uses to control the adrenal glands.",
+ "why": "When cortisol is too high or too low and the doctor needs to find the cause: in the adrenal glands or in the brain.",
+ "duration": "the blood draw takes a few minutes; results usually come in a few days",
+ "tell_doctor": [
+  "If you take steroid hormones as tablets, shots, inhalers, or creams",
+  "If you take vitamins or supplements with biotin. It can affect the result",
+  "If you are pregnant",
+  "If you work night shifts. It affects the test time"
+ ],
+ "prepare": [
+  {
+   "title": "Timing",
+   "text": "Blood is usually taken early in the morning, on an empty stomach. Plain water is fine."
+  },
+  {
+   "title": "Rest",
+   "text": "The day before: no alcohol, workouts, or stress. Sit quietly for a few minutes before the draw."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Tell your doctor what you take. They will decide if anything needs to change before the test."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve you can easily roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID",
+  "Your cortisol test results",
+  "A list of your medicines, including creams and inhalers"
+ ],
+ "steps": [
+  "You sit quietly for a few minutes",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "The needle comes out, and a cotton pad is pressed on the spot",
+  "The tube is put on ice right away and sent to the lab quickly"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "You can eat and take your morning medicines, if your doctor said so",
+  "The doctor looks at the result together with your cortisol"
+ ],
+ "red_flags": [
+  "The puncture site is very swollen, painful, and red"
+ ],
+ "faq": [
+  {
+   "q": "Why must the test be done in the morning?",
+   "a": "ACTH changes a lot during the day. It is highest in the morning, so it is easier to compare with normal values."
+  },
+  {
+   "q": "Can steroid creams affect the result?",
+   "a": "They can. Be sure to tell your doctor about them. They will decide what to do."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "ACTH test tomorrow. Early morning, on an empty stomach. No alcohol or workouts this evening."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Vacina contra hepatite A",
+ "also": [
+  "vacina hepatite A",
+  "vacina contra hepatite A",
+  "hepatite A",
+  "icterícia vacina"
+ ],
+ "what": "É a injeção de uma vacina que protege contra a hepatite A, uma infecção do fígado que passa por mãos sujas, água e comida. Normalmente são 2 doses.",
+ "why": "Para crianças e adultos não vacinados, antes de viagens para países quentes, em doenças do fígado e em surtos.",
+ "duration": "a injeção leva alguns segundos; com a avaliação, normalmente de 15 a 40 minutos; a segunda dose costuma ser 6 a 12 meses depois",
+ "tell_doctor": [
+  "Se está doente agora ou com febre",
+  "Alergias e reações fortes a vacinas anteriores",
+  "Se está grávida",
+  "Se já teve hepatite A"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é aplicada quando você está saudável. Antes da injeção, você será avaliado."
+  },
+  {
+   "title": "Calendário",
+   "text": "O esquema costuma ter 2 doses. Anote a data da segunda."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, fácil de descobrir o braço."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Carteira de vacinação"
+ ],
+ "steps": [
+  "O médico ou a enfermeira pergunta como você está e mede a temperatura",
+  "Você descobre o braço",
+  "A pele é limpa e a injeção é aplicada",
+  "A vacina é registrada nos documentos",
+  "Depois da injeção, é preciso ficar sentado na clínica por cerca de 30 minutos"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes o local dói por 1 a 2 dias",
+  "Às vezes fraqueza ou febre baixa"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala de vacinação",
+  "Você pode voltar às atividades normais",
+  "Não esqueça a segunda dose"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Se tive contato com um doente, a vacina ajuda?",
+   "a": "Muitas vezes sim, se tomada rápido, normalmente nas primeiras 2 semanas. Procure o médico com urgência."
+  },
+  {
+   "q": "Ela protege contra hepatite B e C?",
+   "a": "Não. Para hepatite B há uma vacina própria; para hepatite C não existe vacina."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina contra hepatite A. Leve a carteira de vacinação."
+  }
+ ]
+}

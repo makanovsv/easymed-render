@@ -1,0 +1,77 @@
+{
+ "title": "Oxigenoterapia hiperbárica (câmara hiperbárica)",
+ "also": [
+  "câmara hiperbárica",
+  "oxigenoterapia hiperbárica",
+  "OHB",
+  "terapia hiperbárica"
+ ],
+ "what": "Você respira oxigênio numa câmara especial com pressão aumentada. Assim o oxigênio chega melhor aos tecidos.",
+ "why": "Com feridas que cicatrizam mal, pé diabético, intoxicação por monóxido de carbono, doença descompressiva, depois de radioterapia, por indicação do médico.",
+ "duration": "a sessão leva normalmente 60 a 120 minutos; o tratamento vai de algumas a dezenas de sessões",
+ "tell_doctor": [
+  "Gripe, nariz entupido, dor de ouvido",
+  "Doenças dos pulmões, asma",
+  "Convulsões ou epilepsia",
+  "Medo de lugar fechado",
+  "Marca-passo e outros aparelhos no corpo"
+ ],
+ "prepare": [
+  {
+   "title": "Roupa",
+   "text": "Normalmente dão roupa de algodão. Tecido sintético pode soltar faísca."
+  },
+  {
+   "title": "Proibido",
+   "text": "Não pode levar para a câmara celular, isqueiro, eletrônicos, cosméticos oleosos, laquê."
+  },
+  {
+   "title": "Comida",
+   "text": "Uma refeição leve antes da sessão. Não fume. O cigarro diminui o benefício."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você troca de roupa e veste roupa de algodão",
+  "Entra na câmara e se deita ou se senta",
+  "A pressão sobe devagar. Os ouvidos tampam, como no avião",
+  "Você respira oxigênio por uma máscara ou capacete; na câmara individual, ela toda fica cheia de oxigênio",
+  "A equipe fica o tempo todo em contato com você",
+  "No fim, a pressão baixa devagar"
+ ],
+ "feel": [
+  "Ouvidos tampados quando a pressão sobe. Ajuda engolir ou bocejar",
+  "Pode ficar quente na câmara",
+  "Normalmente não dói"
+ ],
+ "after": [
+  "Pode voltar à rotina logo em seguida",
+  "Às vezes um leve cansaço",
+  "Vá a todas as sessões do tratamento"
+ ],
+ "red_flags": [
+  "Dor forte no ouvido ou secreção saindo do ouvido",
+  "Mudança na visão que não passa",
+  "Convulsões, falta de ar forte, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "É como no avião?",
+   "a": "Parecido: os ouvidos tampam quando a pressão muda. Engula, boceje, e melhora."
+  },
+  {
+   "q": "Por que não pode levar o celular?",
+   "a": "Na câmara há muito oxigênio. Qualquer faísca é perigosa, por isso os eletrônicos ficam do lado de fora."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a 2 horas é a sessão na câmara hiperbárica. Roupa de algodão, sem cosméticos, celular fica do lado de fora."
+  }
+ ]
+}

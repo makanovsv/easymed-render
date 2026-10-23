@@ -1,0 +1,72 @@
+{
+ "title": "Qoqsholga qarshi emlash (ADS)",
+ "also": [
+  "ADS-M",
+  "qoqshol va difteriyaga qarshi emlash",
+  "qoqsholga qarshi qayta emlash",
+  "kattalarga 10 yilda bir marta emlash"
+ ],
+ "what": "Qoqsholga qarshi vaksina ukoli, odatda difteriya bilan birga. Kattalarga u taxminan 10 yilda bir marta takrorlanadi.",
+ "why": "Reja bo‘yicha har 10 yilda, shuningdek jarohat va tishlashdan keyin, agar uzoq vaqt emlanmagan bo‘lsa.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa",
+ "tell_doctor": [
+  "Qoqsholga qarshi oxirgi emlash qachon bo‘lgan",
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Oldingi emlashlarga kuchli reaksiyalar",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Rejali emlash siz sog‘ bo‘lganda qilinadi."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Emlash sertifikatini toping — unda vaqti kelgani ko‘rinadi."
+  },
+  {
+   "title": "Jarohatdan keyin",
+   "text": "Jarohat yoki tishlash bo‘lsa, rejali muddatni kutmang — travmpunktga boring."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor yoki hamshira o‘zingizni qanday his qilayotganingizni so‘raydi va haroratni o‘lchaydi",
+  "Yelkangizni ochasiz",
+  "Teri artiladi va ukol qilinadi",
+  "Emlash hujjatlarga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tirish kerak"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ko‘pincha 1–3 kun ukol joyi og‘riydi va qotadi",
+  "Ba’zan holsizlik yoki ozgina harorat"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Ukol joyini ishqalamang",
+  "Keyingi rejali emlash odatda 10 yildan keyin"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Kesib olgan bo‘lsam, emlash kerakmi?",
+   "a": "Emlash anchagina oldin bo‘lgan bo‘lsa yoki eslay olmasangiz — travmpunktga murojaat qiling. Shifokor nima kerakligini hal qiladi."
+  },
+  {
+   "q": "Nega emlashdan keyin qo‘l bunchalik og‘riydi?",
+   "a": "Bu vaksinaga tez-tez uchraydigan reaksiya. Odatda bir necha kunda o‘tadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga qoqsholga qarshi emlash. Emlash sertifikatini oling."
+  }
+ ]
+}

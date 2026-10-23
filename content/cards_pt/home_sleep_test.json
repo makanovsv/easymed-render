@@ -1,0 +1,71 @@
+{
+ "title": "Teste domiciliar de apneia do sono",
+ "also": [
+  "teste de apneia em casa",
+  "poligrafia domiciliar",
+  "monitorização respiratória do sono",
+  "exame do ronco"
+ ],
+ "what": "Você leva para casa um aparelho pequeno e dorme com ele uma noite. Ele grava a respiração, o oxigênio e o pulso.",
+ "why": "Com ronco alto, paradas da respiração durante o sono e muita sonolência durante o dia.",
+ "duration": "uma noite em casa, a análise sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Se você toma remédios para dormir ou calmantes",
+  "Se tem doenças do coração ou dos pulmões",
+  "Se trabalha no turno da noite"
+ ],
+ "prepare": [
+  {
+   "title": "À noite",
+   "text": "Sem álcool e sem remédio para dormir, se o médico não permitiu. Deite no horário de sempre."
+  },
+  {
+   "title": "Dedos",
+   "text": "Tire o esmalte da unha em que vai o sensor."
+  },
+  {
+   "title": "Aparelho",
+   "text": "A enfermeira mostra como colocar os sensores. Peça para anotar ou tire uma foto."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Lista de remédios",
+  "Uma sacola para devolver o aparelho"
+ ],
+ "steps": [
+  "Na clínica, mostram o aparelho e como colocar",
+  "À noite, antes de dormir, você coloca a cinta com sensores no peito",
+  "Coloca um tubinho fino embaixo do nariz e o sensor de oxigênio no dedo",
+  "Liga o aparelho e dorme como sempre",
+  "De manhã, tira os sensores e desliga o aparelho",
+  "Devolve o aparelho à clínica no mesmo dia"
+ ],
+ "feel": [
+  "Não dói",
+  "Nos primeiros minutos é estranho, mas a maioria dorme tranquila",
+  "O tubinho embaixo do nariz pode incomodar"
+ ],
+ "after": [
+  "A análise leva normalmente alguns dias",
+  "Leve o resultado ao médico. Ele explica e sugere o tratamento",
+  "Se um sensor saiu à noite, avise ao devolver o aparelho"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "E se eu dormir mal?",
+   "a": "Normalmente algumas horas de sono bastam. Se a gravação for curta, o teste pode ser repetido."
+  },
+  {
+   "q": "Qual a diferença para dormir no laboratório?",
+   "a": "Em casa há menos sensores e você dorme na sua cama. Para algumas pessoas, o médico mesmo assim vai pedir o exame no laboratório do sono."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Hoje à noite é o teste do sono. Sem álcool à noite. Coloque os sensores como mostraram e ligue o aparelho."
+  }
+ ]
+}

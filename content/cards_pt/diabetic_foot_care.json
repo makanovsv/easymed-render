@@ -1,0 +1,80 @@
+{
+ "title": "Curativos no pé diabético",
+ "also": [
+  "pé diabético",
+  "curativo no pé do diabético",
+  "úlcera no pé do diabético",
+  "tratamento de ferida no pé"
+ ],
+ "what": "A enfermeira ou o médico limpa a ferida do pé, tira o tecido morto e coloca um curativo. Isso é repetido com regularidade até a ferida cicatrizar.",
+ "why": "Em úlceras e feridas no pé de pessoas com diabetes.",
+ "duration": "o curativo leva normalmente 15 a 40 minutos; o tratamento dura semanas e meses",
+ "tell_doctor": [
+  "Como está a glicose nos últimos tempos",
+  "Febre, inchaço ou vermelhidão no pé",
+  "Feridas ou calos novos",
+  "Todos os remédios",
+  "Se a perna dói ao andar"
+ ],
+ "prepare": [
+  {
+   "title": "Alívio da pressão",
+   "text": "Não pise na ferida. Use o calçado ou o curativo de alívio que o médico indicou."
+  },
+  {
+   "title": "Glicose",
+   "text": "Mantenha a glicose dentro da meta. A cicatrização depende disso."
+  },
+  {
+   "title": "Calçado",
+   "text": "Calçado macio, sem costuras, em que caiba o curativo."
+  }
+ ],
+ "bring": [
+  "Glicosímetro ou anotações da glicose",
+  "Lista de remédios",
+  "O calçado de alívio",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Tiram o curativo antigo",
+  "Lavam e examinam a ferida",
+  "O tecido morto é retirado com cuidado",
+  "Tratam a ferida e colocam um curativo novo",
+  "O médico avalia como está a cicatrização",
+  "Dizem quando é o próximo curativo"
+ ],
+ "feel": [
+  "No diabetes muitas vezes se sente pouca dor. Isso não quer dizer que a ferida não seja perigosa",
+  "Às vezes a limpeza da ferida incomoda",
+  "Normalmente é suportável"
+ ],
+ "after": [
+  "Não molhe o curativo e não tire por conta própria",
+  "Olhe os dois pés todos os dias, use um espelho",
+  "Não ande descalço",
+  "Vá aos curativos conforme o calendário"
+ ],
+ "red_flags": [
+  "Febre, calafrios",
+  "Vermelhidão que se espalha, inchaço, cheiro ruim",
+  "O pé ficou frio, pálido ou escureceu: procure o médico com urgência",
+  "Glicose muito alta que não baixa"
+ ],
+ "faq": [
+  {
+   "q": "Por que a ferida demora tanto a cicatrizar?",
+   "a": "No diabetes, a circulação e a defesa contra infecções são piores. Ajudam tirar a pressão do pé, controlar a glicose e fazer os curativos com regularidade."
+  },
+  {
+   "q": "Posso tratar a ferida em casa com pomadas?",
+   "a": "Não use produtos sem receita do médico. Um cuidado errado pode piorar a ferida."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o curativo do pé. Leve as anotações da glicose e o calçado de alívio."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "Plevra bo‘shlig‘i UZI",
+ "also": [
+  "plevra UZI",
+  "o‘pkadagi suyuqlik UZI",
+  "ko‘krak qafasi UZI",
+  "plevra sinuslari UZI"
+ ],
+ "what": "Shifokor ultratovush yordamida o‘pka bilan ko‘krak devori orasidagi bo‘shliqni ko‘radi. Shunda u yerda ortiqcha suyuqlik bor-yo‘qligi ma’lum bo‘ladi.",
+ "why": "Nafas qisilganda, zotiljamdan keyin, ko‘krakda suyuqlikka shubha bo‘lganda, punksiyadan oldin va davolanishni nazorat qilish uchun.",
+ "duration": "odatda 10–20 daqiqa, xulosa odatda darrov beriladi",
+ "tell_doctor": [
+  "Nafas qisilishi, yo‘tal, ko‘krakda og‘riq bormi",
+  "O‘pka yoki yurak kasalliklaringiz bormi",
+  "Punksiya qilingan yoki suyuqlik so‘rib olingan bo‘lsa",
+  "Ko‘krak qafasining qanday rentgen va KTlari qilingan"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Odatdagidek yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Ko‘krak va orqani oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Ko‘krak qafasi rentgeni yoki KT va xulosalari, bo‘lsa",
+  "Davolangan bo‘lsangiz, kasalxonadan chiqish ma’lumotnomalari"
+ ],
+ "steps": [
+  "Odatda o‘tirasiz, qo‘llar kesishtirilgan yoki boshda",
+  "Orqa va yon tomonlarga gel surtiladi",
+  "Datchik qovurg‘alar orasiga qo‘yilib, pastdan yuqoriga yurgiziladi",
+  "Shifokor ikkala tomonni ko‘radi",
+  "Ba’zan chalqancha yoki yonboshga yotish so‘raladi"
+ ],
+ "feel": [
+  "Salqin gel, qovurg‘alar orasiga yengil bosim",
+  "Tik o‘tirish charchatishi mumkin — qiyin bo‘lsa, ayting"
+ ],
+ "after": [
+  "Darrov uyga ketsangiz bo‘ladi",
+  "Xulosa odatda darrov beriladi",
+  "Suyuqlik topilsa, shifokor punksiya kerak yoki kerak emasligini hal qiladi"
+ ],
+ "red_flags": [
+  "Qattiq nafas qisilishi, havo yetishmasligi yoki ko‘krakda og‘riq — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Suyuqlik topilsa, bu xavflimi?",
+   "a": "Bu sababini aniqlash uchun belgi. Shifokor uni olib tashlash kerak yoki kerak emasligini va qanday tekshiruvlar qilish kerakligini aytadi."
+  },
+  {
+   "q": "Bu rentgen o‘rniga qilinadimi?",
+   "a": "Yo‘q. UZI suyuqlikni yaxshi ko‘radi, rentgen va KT esa o‘pkaning o‘zini ko‘rsatadi. Ularni ko‘pincha birga qilishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga plevra bo‘shlig‘i UZIsi. Tayyorgarlik kerak emas. Bo‘lsa, ko‘krak qafasi rentgeni yoki KTni oling."
+  }
+ ]
+}

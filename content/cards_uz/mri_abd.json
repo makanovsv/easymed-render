@@ -1,0 +1,96 @@
+{
+ "title": "Qorin bo‘shlig‘i va kichik chanoq MRTsi",
+ "also": [
+  "qorin MRTsi",
+  "qorin bo‘shlig‘i MRTsi",
+  "kichik chanoq MRTsi",
+  "qorin a’zolari MRTsi"
+ ],
+ "what": "Kuchli magnitli apparat qorin va chanoq a’zolarining batafsil suratlarini oladi. Rentgen nurlanishi yo‘q.",
+ "why": "UTT yoki KT to‘liq javob bermaganda, jigar, oshqozon osti bezi, buyraklar, chanoq a’zolaridagi o‘zgarishlarni aniqlashtirish uchun.",
+ "duration": "odatda 30–60 daqiqa, kontrast bilan uzoqroq",
+ "tell_doctor": [
+  "Yurak stimulyatori, metall implantlar, parchalar, klipsalar, quloq implanti — bu muhim",
+  "Homilador yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Buyrak kasalliklari — kontrast bo‘lsa",
+  "Allergiya, ayniqsa kontrastga",
+  "Yopiq joydan qo‘rqish",
+  "Bachadon ichidagi spiral — oldindan ayting"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda 4–6 soat ovqatsiz. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Gazli ichimliklar, dukkaklilar, xom sabzavotlar va qora nonsiz yengil kechki ovqat — ichakda gaz kamroq bo‘ladi."
+  },
+  {
+   "title": "Qovuq",
+   "text": "Chanoq uchun ba’zan o‘rtacha to‘la qovuq bilan kelishni so‘rashadi. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Kontrast",
+   "text": "Kontrast bo‘lsa, ko‘pincha kreatininga yangi qon tahlili so‘rashadi — u buyraklar ishini ko‘rsatadi."
+  },
+  {
+   "title": "Metall",
+   "text": "Taqinchoq taqmang. Yaltiroq upa-elikni artib tashlang va kiyimdagi barcha metallni oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi suratlar va UTT, KT, MRT xulosalari",
+  "Kontrast bo‘lsa, kreatinin tahlili",
+  "Implant yoki yurak stimulyatori hujjati, agar bo‘lsa"
+ ],
+ "steps": [
+  "Metall va sog‘liq bo‘yicha anketa savollariga javob berasiz",
+  "Kiyimingizni almashtirasiz, barcha metallni shkafchada qoldirasiz",
+  "Kontrast bo‘lsa, tomirga kateter qo‘yiladi",
+  "Ba’zan ichak kamroq qimirlashi uchun dori yuboriladi",
+  "Siz chalqancha yotasiz, qoringa yassi g‘altak qo‘yiladi",
+  "Stol apparatga kiradi",
+  "Sizdan ko‘pincha nafas olib, bir necha soniya nafasni ushlab turish so‘raladi",
+  "Kontrast, kerak bo‘lsa, tekshiruv o‘rtasida yuboriladi"
+ ],
+ "feel": [
+  "Apparat qattiq taqillaydi — quloq tiqini yoki quloqchin berishadi",
+  "Qimirlamay yotish kerak, bu charchatishi mumkin",
+  "Kontrast ba’zan qo‘lda sovuqlik hissini beradi",
+  "Qo‘lingizda chaqiruv tugmasi bo‘ladi — xodimlarni istalgan paytda chaqirish mumkin"
+ ],
+ "after": [
+  "Shifokor boshqacha demagan bo‘lsa, darrov yeb-ichsangiz bo‘ladi",
+  "Kontrastdan keyin o‘sha kuni ko‘proq suv iching",
+  "Xulosa odatda 1–3 kundan keyin"
+ ],
+ "red_flags": [
+  "Kontrastdan keyin toshma, yuz shishishi, nafas olish qiyin — darrov xodimlarga ayting yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Qorin MRTsida nega nafasni ushlab turish kerak?",
+   "a": "Qorin a’zolari nafas olganda qimirlaydi. Bir necha soniya nafas olmaganda suratlar aniq chiqadi."
+  },
+  {
+   "q": "Spiral bilan MRT qilsa bo‘ladimi?",
+   "a": "Odatda ha: ko‘pchilik spirallar MRT bilan mos keladi. Lekin u haqda oldindan albatta ayting."
+  },
+  {
+   "q": "MRT kontrasti xavfli emasmi?",
+   "a": "Uni odatda yaxshi o‘tkazishadi. Kontrastdan oldin buyraklar tekshiriladi, allergiya haqida esa oldindan aytish kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga qorin MRTsi. Kechki ovqat yengil, gazli ichimliksiz, dukkaklisiz va xom sabzavotsiz bo‘lsin."
+  },
+  {
+   "hoursBefore": 5,
+   "text": "Shu vaqtdan boshlab MRTgacha odatda ovqat yemaydilar. Vaqtni klinikadan aniqlab oling. Taqinchoq taqmang."
+  }
+ ]
+}

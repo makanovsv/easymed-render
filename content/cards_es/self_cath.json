@@ -1,0 +1,83 @@
+{
+ "title": "Autosondaje de la vejiga",
+ "also": [
+  "autosondaje",
+  "sonda para la orina",
+  "cómo sacar la orina uno mismo",
+  "cateterismo intermitente",
+  "sonda de vejiga"
+ ],
+ "what": "Tú mismo, varias veces al día, metes un tubito delgado por la uretra para sacar la orina y luego lo retiras de inmediato.",
+ "why": "Cuando la vejiga no se vacía sola por completo: después de lesiones de la columna, en enfermedades de los nervios y después de algunas operaciones.",
+ "duration": "cada sondaje suele durar de 5 a 10 minutos, varias veces al día",
+ "tell_doctor": [
+  "Si cuesta sacar la orina o la sonda no pasa",
+  "Si la orina está turbia, con sangre o con mal olor",
+  "Si se te sale orina entre un sondaje y otro",
+  "Si tienes alergia al látex"
+ ],
+ "prepare": [
+  {
+   "title": "Aprendizaje",
+   "text": "La primera vez se hace junto con la enfermera o el urólogo. El médico te dirá cuántas veces al día."
+  },
+  {
+   "title": "Sondas",
+   "text": "Normalmente se usan sondas desechables con gel. Ten reserva en casa y para los viajes."
+  },
+  {
+   "title": "Limpieza",
+   "text": "Antes de cada sondaje lávate las manos y limpia la zona de la abertura."
+  },
+  {
+   "title": "Agua",
+   "text": "Toma la cantidad que aconseje el médico: de eso depende cada cuánto necesitas la sonda."
+  }
+ ],
+ "bring": [
+  "Reserva de sondas",
+  "Toallitas húmedas y jabón",
+  "Un diario: hora y cantidad de orina",
+  "Un espejo, para las mujeres al principio"
+ ],
+ "steps": [
+  "Lávate las manos con jabón",
+  "Limpia la zona alrededor de la abertura de la uretra",
+  "Abre la sonda sin tocar la punta",
+  "Siéntate en el inodoro o párate frente a él, como te resulte cómodo",
+  "Mete la sonda despacio hasta que salga orina",
+  "Espera hasta que deje de salir orina",
+  "Retira la sonda despacio y tírala",
+  "Lávate las manos otra vez"
+ ],
+ "feel": [
+  "Las primeras veces se siente raro y a veces incómodo",
+  "Normalmente no hay dolor; si duele, díselo al médico"
+ ],
+ "after": [
+  "Haz el sondaje según el horario, aunque no tengas ganas de ir al baño",
+  "Anota la cantidad de orina, si el médico lo pidió",
+  "La sonda es desechable: no la vuelvas a usar"
+ ],
+ "red_flags": [
+  "Fiebre, escalofríos, dolor en el bajo vientre o en la espalda baja: ve al médico",
+  "Sangre en la orina que no se quita",
+  "No logras meter la sonda y la vejiga está llena: ve al médico de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Las sondas constantes no causan infecciones?",
+   "a": "Hay riesgo, pero las manos limpias y las sondas desechables lo reducen mucho. Vaciar la vejiga con regularidad también protege."
+  },
+  {
+   "q": "¿Puedo viajar?",
+   "a": "Sí. Lleva contigo una reserva de sondas y toallitas húmedas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Es hora del sondaje. Lávate las manos y prepara una sonda nueva."
+  }
+ ]
+}

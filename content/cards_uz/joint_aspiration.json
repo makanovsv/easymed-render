@@ -1,0 +1,77 @@
+{
+ "title": "Bo‘g‘imdan suyuqlik olish bilan punksiya",
+ "also": [
+  "bo‘g‘im punksiyasi",
+  "tizzadan suyuqlik olish",
+  "artrosentez",
+  "bo‘g‘imdan suyuqlikni chiqarish"
+ ],
+ "what": "Shifokor ingichka igna bilan bo‘g‘imdagi ortiqcha suyuqlikni oladi. Bu shishni kamaytiradi, suyuqlikni esa tahlilga yuborish mumkin.",
+ "why": "Bo‘g‘im shishganda, sababini topish uchun: yallig‘lanish, podagra, infeksiya, jarohat. Ba’zan darrov dori ham yuboriladi.",
+ "duration": "odatda 10–20 daqiqa; suyuqlik tahlili — bir kundan bir necha kungacha",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar",
+  "Mahalliy og‘riqsizlantirishga yoki yodga allergiya",
+  "Harorat yoki bo‘g‘im ustida teri infeksiyasi",
+  "Qandli diabet — gormon yuboriladigan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda odatdagidek yeyish mumkin."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng, bo‘g‘imni oson ochish uchun."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bo‘g‘im suratlari va UTT",
+  "Hujjat"
+ ],
+ "steps": [
+  "Siz yotasiz yoki o‘tirasiz, bo‘g‘im qulay holatga qo‘yiladi",
+  "Teri antiseptik bilan artiladi",
+  "Og‘riqsizlantiruvchi ukol qilinadi",
+  "Shifokor ignani bo‘g‘imga kiritadi, ko‘pincha UTT nazorati ostida",
+  "Suyuqlik shpris bilan olinadi, ba’zan dori yuboriladi",
+  "Ignaning o‘rniga plastir yopishtiriladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol",
+  "Punksiya paytida bo‘g‘imda bosim",
+  "Keyin shish odatda kamayadi, harakat qilish yengillashadi"
+ ],
+ "after": [
+  "Bir sutka bo‘g‘imga ehtiyotkor rejim",
+  "Dori yuborilgan bo‘lsa, bir-ikki kun dam oling",
+  "Shifokor ruxsat bergan bo‘lsa, mato orqali sovuq qo‘yish mumkin",
+  "Suyuqlik tahlili natijalarini shifokor bilan muhokama qiling"
+ ],
+ "red_flags": [
+  "Harorat, bo‘g‘im issiq va qizarib ketgan",
+  "Kuchayib boruvchi kuchli og‘riq yoki shish",
+  "Punksiya joyidan yiring chiqishi"
+ ],
+ "faq": [
+  {
+   "q": "Suyuqlik yana to‘planadimi?",
+   "a": "Ba’zan ha. Bu sababga bog‘liq, shuning uchun suyuqlik tahlili muhim."
+  },
+  {
+   "q": "Bu og‘riydimi?",
+   "a": "Odatda chidasa bo‘ladi. Teri og‘riqsizlantiriladi, asosan bosim yoqimsiz."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bo‘g‘im punksiyasi. Suratlarni oling va keng kiyim kiying."
+  }
+ ]
+}

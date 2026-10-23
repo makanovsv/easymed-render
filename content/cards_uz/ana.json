@@ -1,0 +1,66 @@
+{
+ "title": "Antinuklear antitanalar (ANA)",
+ "also": [
+  "ANA",
+  "antinuklear antitanalar",
+  "antinuklear omil",
+  "ANO"
+ ],
+ "what": "Bu venadan qon tahlili. U immunitet ba’zan o‘z hujayralariga qarshi ishlab chiqaradigan antitanalarni qidiradi.",
+ "why": "Otoimmun kasalliklarga shubhada: bo‘g‘imlarda og‘riq, toshma, sababsiz uzoq harorat.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda bir necha kunda, ba’zan bir haftagacha",
+ "tell_doctor": [
+  "Qanday dorilar ichasiz — ba’zilari natijaga ta’sir qiladi",
+  "Qanday shikoyatlaringiz bor va qachondan beri",
+  "Oilada otoimmun kasalliklar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Ertalab och qoringa yoki yengil ovqatdan bir necha soat keyin yaxshiroq. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir sutka oldin — alkogolsiz va og‘ir mashqsiz. Ertalab chekmagan ma’qul."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — biror narsani o‘zgartirish kerakmi, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Oldingi tahlillar, agar bo‘lsa"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakchaga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon probirkaga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilaganday",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darrov ovqatlanib, odatiy ishlarga qaytsangiz bo‘ladi",
+  "Natija ko‘pincha titr va yorug‘lanish turi sifatida yoziladi — shifokor tushuntiradi",
+  "Natija odatda bir necha kunda — muddatni laboratoriya aytadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "ANA musbat bo‘lsa, kasallik bor degani emasmi?",
+   "a": "Yo‘q. Past titr sog‘ odamlarda ham uchraydi. Shikoyatlar va boshqa tahlillar muhim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ANA tahlili. Ertalab och qoringa ma’qul, suv ichsa bo‘ladi."
+  }
+ ]
+}

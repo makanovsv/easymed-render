@@ -1,0 +1,70 @@
+{
+ "title": "Ko‘prikli protez",
+ "also": [
+  "ko‘prik",
+  "tish ko‘prigi",
+  "ko‘prikli koronka",
+  "qo‘zg‘almas protez"
+ ],
+ "what": "Ko‘prik olib tashlangan bitta yoki bir necha tish o‘rnini yopadi. U qo‘shni tishlarga yoki implantlarga tayanadi va yechilmaydi.",
+ "why": "Ketma-ket bir-ikkita tish yetishmasa va qo‘shni tishlarni tayanch sifatida ishlatish mumkin bo‘lsa.",
+ "duration": "odatda 1–3 haftada 2–3 tashrif",
+ "tell_doctor": [
+  "Og‘riyotgan tish va milklar bormi",
+  "Tish g‘ijirlatasizmi",
+  "Qonni suyultiradigan preparatlar",
+  "Allergiyalar",
+  "Implantlarni ko‘rib chiqqanmisiz"
+ ],
+ "prepare": [
+  {
+   "title": "Davo",
+   "text": "Tayanch tishlar avval davolanadi, ba’zan kanallarni davolash kerak bo‘ladi."
+  },
+  {
+   "title": "Suratlar",
+   "text": "Shifokor tayanch tishlar ildizlarini tekshirish uchun surat oladi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tish suratlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor tishlarni ko‘rib, surat oladi",
+  "Og‘riqsizlantirish ostida tayanch tishlar koronkaga moslab charxlanadi",
+  "Qolip olinadi yoki skanerlanadi",
+  "Vaqtincha ko‘prik qo‘yiladi",
+  "Biroz vaqtdan keyin doimiy ko‘prik o‘lchab ko‘rilib, mahkamlanadi",
+  "Tishlam tekshiriladi va parvarish tushuntiriladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantirish ostida charxlash og‘riqsiz",
+  "Dastlabki kunlarda ko‘prik g‘ayrioddiy tuyuladi, tishlar sovuqqa reaksiya berishi mumkin"
+ ],
+ "after": [
+  "Ko‘prik ostini maxsus ip yoki irrigator bilan tozalang",
+  "Juda qattiq narsalarni kemirmang",
+  "Ko‘rik — 6 oyda bir marta"
+ ],
+ "red_flags": [
+  "Ko‘prik qimirlayapti yoki ajralib qoldi",
+  "Tayanch tishda kuchli og‘riq, milk shishi"
+ ],
+ "faq": [
+  {
+   "q": "Ko‘prik implantdan nimasi bilan yomonroq?",
+   "a": "Ko‘prik uchun qo‘shni tishlar charxlanadi. Implant ularga tegmaydi, lekin operatsiya kerak. Shifokor tanlashga yordam beradi."
+  },
+  {
+   "q": "Ko‘prik qancha xizmat qiladi?",
+   "a": "Yaxshi parvarishda odatda ko‘p yil. Har kuni uning ostini tozalash muhim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga protezlash bo‘yicha tashrif. Oldindan ovqatlaning — og‘riqsizlantirish bo‘ladi."
+  }
+ ]
+}

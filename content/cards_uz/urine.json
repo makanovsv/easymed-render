@@ -1,0 +1,75 @@
+{
+ "title": "Siydikning umumiy tahlili",
+ "also": [
+  "SUT",
+  "siydik tahlili",
+  "siydikning klinik tahlili"
+ ],
+ "what": "Ertalabki siydik uyda bankaga yig‘iladi va laboratoriyaga olib boriladi. U buyraklar qanday ishlayotgani va yallig‘lanish bor-yo‘qligini ko‘rsatadi.",
+ "why": "Ko‘rikda, qorin pastida yoki belda og‘riqda, tez-tez yoki og‘riqli siyishda, homiladorlikda, diabetda.",
+ "duration": "yig‘ish — uyda 2–3 daqiqa, natija odatda ertasi kuni",
+ "tell_doctor": [
+  "Qanday dorilar va vitaminlar ichayotganingizni",
+  "Ayolda hozir hayz bo‘lsa — tahlil odatda keyinga suriladi",
+  "Yaqinda kateter yoki siydik yo‘llarida muolajalar bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Banka",
+   "text": "Dorixona yoki laboratoriyadan steril idish oling. Ovqat bankasidan foydalanmang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Lavlagi va siydikni bo‘yaydigan mahsulotlarni yemang. Spirtli ichimlik va og‘ir mashg‘ulotsiz. Odatdagidek suv iching."
+  },
+  {
+   "title": "Ertalab",
+   "text": "Xushbo‘y sovunsiz, iliq suv bilan yuvining. Ayol uchun jinsiy yo‘l kirish qismini paxta tampon bilan yopgan yaxshi."
+  },
+  {
+   "title": "Yig‘ish",
+   "text": "Ertalabki birinchi siydik, o‘rta porsiya kerak: dastlabki soniyalar — hojatxonaga, keyin bankaga, oxiri — yana hojatxonaga."
+  }
+ ],
+ "bring": [
+  "Siydikli banka, mahkam yopilgan va ismi yozilgan",
+  "Yo‘llanma"
+ ],
+ "steps": [
+  "Ertalab yuvingandan keyin hojatxonaga siyishni boshlang",
+  "Oqimni to‘xtatmasdan bankani tutib turing",
+  "Bankaning taxminan yarmigacha oling",
+  "Oxirini hojatxonaga siying va qopqoqni mahkam yoping",
+  "1–2 soat ichida laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Hech narsa"
+ ],
+ "after": [
+  "Natijani shifokor tushuntiradi",
+  "Siydikda o‘zgarish topilsa, tahlilni ko‘pincha takrorlashni so‘rashadi"
+ ],
+ "red_flags": [
+  "Siydikda qon, harorat bilan birga belda kuchli og‘riq bo‘lsa — darrov shifokorga murojaat qiling"
+ ],
+ "faq": [
+  {
+   "q": "Hayz paytida siydik topshirsa bo‘ladimi?",
+   "a": "Yaxshisi yo‘q — qon tahlilga tushadi. Odatda uni hayz tugagandan 2–3 kun keyinga surishadi."
+  },
+  {
+   "q": "Siydikni kechqurun yig‘sa bo‘ladimi?",
+   "a": "Yo‘q. Yangi ertalabki siydik kerak va uni 1–2 soat ichida olib borish kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Ertaga siydikning umumiy tahlili. Steril bankani tayyorlang. Bugun lavlagi va spirtli ichimliksiz."
+  },
+  {
+   "hoursBefore": 1,
+   "text": "Ertalabki siydikni yuvingandan keyin yig‘ing: o‘rta porsiya. 1–2 soat ichida laboratoriyaga olib boring."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Inyección epidural para el dolor de espalda",
+ "also": [
+  "bloqueo epidural",
+  "bloqueo de la columna",
+  "inyección en la columna para el dolor",
+  "aplicación epidural de hormona"
+ ],
+ "what": "El médico pone un medicamento contra la inflamación cerca de un nervio en la columna. Reduce el dolor de espalda y de pierna.",
+ "why": "En dolor de espalda que baja a la pierna o al brazo, por ejemplo por una hernia de disco, cuando las pastillas y los ejercicios ayudan poco.",
+ "duration": "el procedimiento suele durar de 15 a 30 minutos; la observación después, de 30 a 60 minutos",
+ "tell_doctor": [
+  "Medicamentos que adelgazan la sangre: el médico dirá qué suspender y cuándo",
+  "Alergias, sobre todo al yodo y al contraste",
+  "Diabetes: el medicamento puede subir el azúcar por un tiempo",
+  "Embarazo o posibilidad de embarazo",
+  "Fiebre o infección el día anterior"
+ ],
+ "prepare": [
+  {
+   "title": "Imágenes",
+   "text": "Lleva la resonancia o la tomografía de la columna: con ellas el médico elige el sitio de la inyección."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente puedes desayunar algo ligero. Si habrá sedación, pregunta en la clínica."
+  },
+  {
+   "title": "Traslado",
+   "text": "Es mejor que alguien te lleve a casa: la pierna puede dormirse un rato."
+  }
+ ],
+ "bring": [
+  "La orden médica, las imágenes de la resonancia o la tomografía",
+  "Un documento de identidad",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te acuestas boca abajo o te sientas",
+  "Limpian la piel de la espalda y ponen anestesia",
+  "Con rayos X o ultrasonido, el médico introduce una aguja delgada",
+  "Ponen un poco de contraste para comprobar el sitio",
+  "Ponen el medicamento, retiran la aguja y colocan una curita"
+ ],
+ "feel": [
+  "La anestesia pincha un poco",
+  "Presión o sensación de llenura en la espalda, a veces baja a la pierna",
+  "La pierna puede dormirse o debilitarse por un rato"
+ ],
+ "after": [
+  "Hoy, un día tranquilo; es mejor no manejar",
+  "El efecto normalmente llega en unos días",
+  "A veces los primeros días el dolor es un poco más fuerte",
+  "Sigue con los ejercicios según el consejo del médico"
+ ],
+ "red_flags": [
+  "Dolor de cabeza fuerte que se quita acostado",
+  "Fiebre de más de 38, enrojecimiento en el sitio de la inyección",
+  "Debilidad que aumenta en las piernas, adormecimiento en la ingle: llama a emergencias",
+  "No puedes orinar o aguantar la orina: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto dura el efecto?",
+   "a": "Varía: de unas semanas a meses. En algunas personas el efecto es débil."
+  },
+  {
+   "q": "¿Cuántas veces se pueden poner estas inyecciones?",
+   "a": "Se limitan. Lo decide el médico según el resultado."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes la inyección en la espalda. Lleva las imágenes de resonancia y la lista de medicamentos. Pide a alguien que te lleve a casa."
+  }
+ ]
+}

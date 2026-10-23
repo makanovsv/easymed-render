@@ -1,0 +1,72 @@
+{
+ "title": "Amilase e lipase",
+ "also": [
+  "exame do pâncreas",
+  "amilase",
+  "lipase",
+  "enzimas pancreáticas"
+ ],
+ "what": "É um exame de sangue de duas enzimas do pâncreas. Quando ele está inflamado, elas aumentam no sangue.",
+ "why": "Com dor forte na parte de cima da barriga, principalmente se vai para as costas, com suspeita de pancreatite e para acompanhar doenças do pâncreas.",
+ "duration": "a coleta leva normalmente 5 minutos; em urgência o resultado sai em algumas horas, normalmente em 1 a 2 dias",
+ "tell_doctor": [
+  "Quando a dor começou e onde dói",
+  "Se bebeu álcool ou comeu gordura na véspera",
+  "Todos os remédios que você toma",
+  "Se tem pedras na vesícula"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente o exame é em jejum: 8 a 12 horas sem comer. Água pode. Se a barriga dói muito, o exame é feito na hora. Não espere."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Sem álcool e sem comida gordurosa."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Exames anteriores, se tiver"
+ ],
+ "steps": [
+  "Você se senta, e colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "O sangue é colhido da veia num tubo",
+  "Tiram o garrote e colocam um algodão"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "O resultado sai normalmente em 1 a 2 dias; com urgência, em algumas horas",
+  "O médico avalia o exame junto com os sintomas e o ultrassom"
+ ],
+ "red_flags": [
+  "Dor forte na barriga que vai para as costas, vômito: ligue para a emergência",
+  "Dor com febre, pele ou olhos amarelos: procure o médico na hora ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Se as enzimas estão normais, com certeza não é pancreatite?",
+   "a": "Nem sempre. Às vezes as enzimas baixam rápido. O médico olha também a dor e o ultrassom."
+  },
+  {
+   "q": "Qual a diferença entre lipase e amilase?",
+   "a": "A lipase mostra com mais precisão o pâncreas. A amilase pode subir por outros motivos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de amilase e lipase. Depois do jantar não coma mais, sem álcool. Água pode."
+  }
+ ]
+}

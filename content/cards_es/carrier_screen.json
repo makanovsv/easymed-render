@@ -1,0 +1,71 @@
+{
+ "title": "Prueba de portador de enfermedades genéticas antes del embarazo",
+ "also": [
+  "prueba genética antes del embarazo",
+  "tamiz de portadores",
+  "estudio genético de pareja",
+  "prueba de portador"
+ ],
+ "what": "El análisis muestra si una persona tiene un cambio oculto en un gen que no le hace daño, pero que puede pasar al bebé. Normalmente se lo hacen los dos futuros papás.",
+ "why": "Al planear un embarazo, si en la familia hubo enfermedades hereditarias, si la pareja son parientes o en tratamientos de fertilización in vitro.",
+ "duration": "la toma de sangre suele durar 5 minutos; el resultado suele estar en 2 a 4 semanas",
+ "tell_doctor": [
+  "Si en sus familias hubo enfermedades hereditarias o niños con ellas",
+  "Si tú y tu pareja son parientes",
+  "Si ya estás embarazada: de cuántas semanas",
+  "Si te hicieron transfusiones o un trasplante de médula ósea"
+ ],
+ "prepare": [
+  {
+   "title": "Consulta",
+   "text": "Es mejor hablar antes con un médico genetista sobre qué enfermedades incluye la prueba."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayunar. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Pareja",
+   "text": "Pónganse de acuerdo en quién va primero, o vayan juntos: así tienen más rápido la respuesta como pareja."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Las identificaciones de los dos",
+  "Datos sobre enfermedades en sus familias"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Limpian la piel con antiséptico",
+  "Toman sangre de la vena; a veces, en lugar de eso, juntan saliva",
+  "Tu pareja hace lo mismo",
+  "Las muestras se mandan a un laboratorio de genética"
+ ],
+ "feel": [
+  "Un piquete breve, como en un análisis de sangre normal",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "El resultado suele estar en 2 a 4 semanas",
+  "Casi todas las personas son portadoras de algún cambio: es normal",
+  "Hay riesgo para el bebé cuando los dos tienen un cambio en el mismo gen",
+  "Si es así, el médico genetista les explicará las opciones"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Si soy portador, ¿estoy enfermo?",
+   "a": "No. El portador normalmente está sano. El cambio solo importa para los futuros hijos."
+  },
+  {
+   "q": "¿Basta con que se la haga uno de los dos?",
+   "a": "A veces se empieza con uno. Pero la respuesta exacta sobre el riesgo para el bebé la dan los resultados de los dos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es su análisis genético antes del embarazo. Lleven las identificaciones de los dos."
+  }
+ ]
+}

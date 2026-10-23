@@ -1,0 +1,72 @@
+{
+ "title": "Medical certificate for university admission",
+ "also": [
+  "form 086",
+  "college health certificate",
+  "applicant medical certificate",
+  "health certificate for enrollment"
+ ],
+ "what": "A health certificate that a university or college requires. It is issued after exams by several doctors and some tests.",
+ "why": "When applying to a university or college, and for some programs with extra requirements.",
+ "duration": "usually 1 to 3 days in all; the certificate is issued after the tests",
+ "tell_doctor": [
+  "Chronic illnesses",
+  "Eye diseases and your vision",
+  "What medicines you take",
+  "Your university's requirements for the certificate"
+ ],
+ "prepare": [
+  {
+   "title": "Requirements",
+   "text": "Ask the admissions office which form of certificate is needed and whether your program has special requirements."
+  },
+  {
+   "title": "Tests",
+   "text": "Blood and urine are usually given in the morning on an empty stomach. Ask the clinic."
+  },
+  {
+   "title": "Vaccinations",
+   "text": "Bring your vaccination record or certificate."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your vaccination record",
+  "Your chest X-ray from the last year, if you have it",
+  "The university's list of requirements"
+ ],
+ "steps": [
+  "You fill in a form",
+  "You give blood and urine",
+  "You have a chest X-ray if you do not have a recent one",
+  "You see a general doctor, eye doctor, ENT, surgeon, neurologist and others on the list",
+  "Sometimes an ECG is done",
+  "The general doctor completes the certificate"
+ ],
+ "feel": [
+  "The exams do not hurt",
+  "A blood test is a quick needle prick"
+ ],
+ "after": [
+  "Check that the certificate has all the stamps and signatures",
+  "Make a copy for yourself",
+  "Hand the certificate to the admissions office on time"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "How long is the certificate valid?",
+   "a": "Usually a few months. It depends on the rules. Ask the university."
+  },
+  {
+   "q": "Is a certificate needed for distance learning?",
+   "a": "Sometimes it is not. Ask the admissions office."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Medical exam for the university certificate tomorrow. Do not eat in the morning before the tests, and bring your vaccination record."
+  }
+ ]
+}

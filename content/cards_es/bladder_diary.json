@@ -1,0 +1,68 @@
+{
+ "title": "Diario de la micción",
+ "also": [
+  "diario de la micción",
+  "diario del baño",
+  "calendario de micciones",
+  "diario de líquidos y baño"
+ ],
+ "what": "En casa, durante unos días, anotas cuánto bebes y cuándo vas al baño. A veces también cuánta orina sale cada vez.",
+ "why": "Con ganas frecuentes de orinar, idas al baño por la noche o pérdida de orina. Con el diario el médico ve lo que es difícil recordar.",
+ "duration": "normalmente 2 o 3 días de anotaciones; se revisa en la consulta",
+ "tell_doctor": [
+  "Qué medicamentos tomas, sobre todo diuréticos",
+  "Qué te molesta más",
+  "Si te cuesta anotar, díselo al médico: te propondrá una forma más cómoda"
+ ],
+ "prepare": [
+  {
+   "title": "Formato",
+   "text": "Pide un formato al médico o raya un cuaderno: hora, cuánto bebiste, cuánta orina, si hubo ganas fuertes y si se escapó orina."
+  },
+  {
+   "title": "Recipiente medidor",
+   "text": "Necesitas una taza medidora o un frasco con marcas: orinas en él y anotas el volumen."
+  },
+  {
+   "title": "Días",
+   "text": "Elige días normales en que estés en casa. Bebe y vive como siempre."
+  }
+ ],
+ "bring": [
+  "El diario ya lleno",
+  "La orden médica, si la hay"
+ ],
+ "steps": [
+  "Por la mañana anota la hora en que te levantas",
+  "Cada vez anota la hora y cuánto bebiste",
+  "Cada ida al baño: hora y volumen de orina",
+  "Marca las ganas fuertes y las pérdidas de orina, si las hubo",
+  "También anota las veces que te levantas de noche",
+  "Entrega el diario al médico en la consulta"
+ ],
+ "feel": [
+  "El primer día parece complicado; luego te acostumbras",
+  "A veces da pena; el médico necesita datos honestos"
+ ],
+ "after": [
+  "Lleva el diario a la consulta",
+  "El médico lo revisará y te dirá qué sigue"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Debo beber más o menos de lo normal?",
+   "a": "No. Bebe como siempre; si no, el diario no mostrará tu situación real."
+  },
+  {
+   "q": "¿Y si olvidé una anotación?",
+   "a": "No pasa nada. Marca que faltó y sigue."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana empiezas el diario de la micción. Prepara el formato y el recipiente medidor."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Siydik pufagiga instillyatsiya",
+ "also": [
+  "instillyatsiya",
+  "siydik pufagini dori bilan yuvish",
+  "siydik pufagiga dori kiritish"
+ ],
+ "what": "Shifokor ingichka kateter orqali dorini to‘g‘ridan-to‘g‘ri siydik pufagiga kiritadi. Dori uning devoriga ichkaridan ta’sir qiladi.",
+ "why": "Siydik pufagining surunkali yallig‘lanishida, undagi ba’zi og‘riqlarda va o‘smalarni davolashdan keyin profilaktika uchun.",
+ "duration": "protsedura odatda 10–15 daqiqa, dori pufakda 30 daqiqadan 2 soatgacha ushlanadi — shifokor aytadi",
+ "tell_doctor": [
+  "Hozir harorat, og‘riq yoki siydikda qon bormi",
+  "Allergiyalar, shu jumladan lateks va og‘riqsizlantiruvchi gellarga",
+  "Qabul qilayotgan barcha dorilar",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ichish",
+   "text": "Protseduradan bir necha soat oldin odatda dori pufakda uzoqroq tursin deb kamroq ichishni so‘rashadi. Klinikadan aniqlang."
+  },
+  {
+   "title": "Siydik pufagi",
+   "text": "Protseduradan oldin siydik chiqaring."
+  },
+  {
+   "title": "Kurs",
+   "text": "Odatda bu bir necha protseduradan iborat kurs. Jadvalni aniqlang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Prokladka yoki almashtirish ichki kiyimi"
+ ],
+ "steps": [
+  "Siydik chiqarib, kushetkaga chalqancha yotasiz",
+  "Tashqi jinsiy a’zolar antiseptik bilan ishlov beriladi",
+  "Siydik chiqarish kanaliga og‘riqsizlantiruvchi gel kiritiladi",
+  "Ingichka kateter kiritiladi",
+  "Kateter orqali dori quyiladi",
+  "Kateter olinadi, dori shifokor aytgan vaqt davomida pufakda qoladi"
+ ],
+ "feel": [
+  "Kateter kiritilganda noxush sezgi",
+  "Dori pufakda turganda siydik chiqarish istagi",
+  "Protseduradan keyin yengil achishish"
+ ],
+ "after": [
+  "Shifokor ruxsat berganda siydik chiqaring",
+  "Shundan keyin shifokor boshqacha demagan bo‘lsa, ko‘proq suv iching",
+  "Birinchi kuni achishish va tez-tez istak bo‘lishi mumkin",
+  "Ba’zi dorilar protseduradan keyin alohida gigiena talab qiladi — shifokor tushuntiradi"
+ ],
+ "red_flags": [
+  "Harorat 38 dan yuqori, titroq",
+  "Siydik chiqara olmaysiz",
+  "Siydikda ko‘p qon"
+ ],
+ "faq": [
+  {
+   "q": "Og‘riqlimi?",
+   "a": "Odatda yo‘q. Kateter ingichka, og‘riqsizlantiruvchi gel ishlatiladi. Noxush bo‘lishi mumkin."
+  },
+  {
+   "q": "Nechta protsedura kerak?",
+   "a": "Odatda bir necha protseduradan iborat kurs. Sonini shifokor belgilaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Tez orada instillyatsiya. Odatda bir necha soat oldin kamroq ichishni so‘rashadi. Protseduradan oldin siydik chiqaring."
+  }
+ ]
+}

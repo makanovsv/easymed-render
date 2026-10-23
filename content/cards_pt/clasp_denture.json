@@ -1,0 +1,74 @@
+{
+ "title": "Prótese parcial removível com grampos",
+ "also": [
+  "PPR",
+  "prótese parcial removível",
+  "roach",
+  "prótese removível com grampos",
+  "prótese com encaixes"
+ ],
+ "what": "É uma prótese removível sobre uma estrutura fina de metal. Ela se segura nos próprios dentes com grampos ou encaixes.",
+ "why": "Quando faltam alguns dentes, mas ainda há dentes próprios para apoio.",
+ "duration": "a confecção leva normalmente algumas consultas ao longo de algumas semanas",
+ "tell_doctor": [
+  "Alergias, incluindo a metais",
+  "Doenças da gengiva e dentes moles",
+  "Se já usou prótese e como foi a adaptação",
+  "Se você range os dentes"
+ ],
+ "prepare": [
+  {
+   "title": "Tratamento",
+   "text": "Antes da prótese, normalmente se tratam os dentes e a gengiva. Às vezes se colocam coroas nos dentes de apoio."
+  },
+  {
+   "title": "Dentes",
+   "text": "Escove os dentes antes de cada consulta."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Radiografias dos dentes, se tiver",
+  "A prótese antiga, se tiver"
+ ],
+ "steps": [
+  "O dentista examina os dentes e faz radiografias",
+  "Faz as moldagens",
+  "Prova a estrutura de metal",
+  "Escolhem a cor e o formato dos dentes",
+  "A prótese é colocada e ajustada",
+  "Ensinam a colocar e tirar a prótese"
+ ],
+ "feel": [
+  "Nos primeiros dias a prótese aperta e atrapalha a fala",
+  "Muita saliva nos primeiros dias. Isso passa",
+  "A adaptação normalmente leva algumas semanas"
+ ],
+ "after": [
+  "Tire e limpe a prótese depois de comer",
+  "À noite, como o dentista disser. Normalmente se tira",
+  "Guarde num estojo limpo ou na água",
+  "Não dobre os grampos por conta própria",
+  "Volte para ajuste, se machucar"
+ ],
+ "red_flags": [
+  "A prótese machucou a gengiva e a ferida não cicatriza",
+  "A prótese quebrou ou não segura mais"
+ ],
+ "faq": [
+  {
+   "q": "Posso dormir com a prótese?",
+   "a": "Normalmente se recomenda tirar à noite. Confirme com o dentista."
+  },
+  {
+   "q": "O metal aparece?",
+   "a": "Os grampos às vezes aparecem nos dentes do lado. Os encaixes costumam aparecer menos. Pergunte ao dentista."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta da prótese. Escove os dentes e leve a prótese antiga, se tiver."
+  }
+ ]
+}

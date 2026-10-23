@@ -1,0 +1,78 @@
+{
+ "title": "Ko‘zning flyuoressent angiografiyasi",
+ "also": [
+  "FAG",
+  "flyuoressent angiografiya",
+  "ko‘z qon tomirlari angiografiyasi",
+  "to‘r parda qon tomirlari suratlari"
+ ],
+ "what": "Qo‘ldagi venaga bo‘yoq kiritiladi va u soniyalar ichida ko‘z qon tomirlariga yetib boradi. Apparat to‘r pardaning bir qator suratlarini oladi.",
+ "why": "Diabetda, to‘r parda va ko‘z qon tomirlari kasalliklarida, lazer yoki ko‘zga ukoldan oldin.",
+ "duration": "tayyorgarlik bilan birga odatda 20–40 daqiqa; natijani shifokor keyin tushuntiradi",
+ "tell_doctor": [
+  "Bo‘yoqlar, yod yoki istalgan dorilarga allergiya",
+  "Homiladorlik yoki emizish",
+  "Buyrak kasalliklari",
+  "Yurak kasalliklari, astma",
+  "Avval bo‘yoqqa reaksiya bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Yo‘l",
+   "text": "Qorachiqlar kengaytiriladi, tekshiruvdan keyin rulga o‘tirish mumkin emas."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Doimiy dorilarni o‘zingiz bekor qilmang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Klinika boshqacha demagan bo‘lsa, odatda yengil ovqatlansa bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Quyoshdan saqlovchi ko‘zoynak",
+  "Hamroh"
+ ],
+ "steps": [
+  "Qorachiqlar tomchi bilan kengaytiriladi",
+  "Qo‘ldagi venaga ingichka igna yoki kateter qo‘yiladi",
+  "Kameraga o‘tirasiz, iyak taglikda",
+  "Bo‘yoq kiritiladi",
+  "Kamera yorqin chaqnashlar bilan ko‘plab suratlar oladi",
+  "Igna olinadi, sizni biroz kuzatishadi"
+ ],
+ "feel": [
+  "Qo‘lda qisqa ukol",
+  "Yorqin chaqnashlar",
+  "Bo‘yoqdan keyin ba’zan bir necha soniya ko‘ngil aynishi",
+  "Teri bir necha soatga biroz sarg‘ayishi mumkin"
+ ],
+ "after": [
+  "Siydik 1–2 kungacha yorqin sariq bo‘ladi — bu bo‘yoq chiqib ketayotgani",
+  "Odatdagi miqdorda suv iching",
+  "Tomchi ta’siri o‘tmaguncha mashina haydamang"
+ ],
+ "red_flags": [
+  "Toshma, qichishish, yuz shishi, nafas olish qiyin — 103 ga qo‘ng‘iroq qiling",
+  "Ukol joyida kuchli og‘riq yoki shish"
+ ],
+ "faq": [
+  {
+   "q": "Bu xavflimi?",
+   "a": "Odatda bo‘yoq yaxshi ko‘tariladi. Jiddiy reaksiyalar kam uchraydi, yordam uchun hamma narsa yaqinda."
+  },
+  {
+   "q": "Siydik nega sariq?",
+   "a": "Bu bo‘yoq organizmdan chiqmoqda. Odatda 1–2 kunda o‘tadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ko‘z angiografiyasi. Quyoshdan saqlovchi ko‘zoynak oling va hamroh bilan kelishing."
+  }
+ ]
+}

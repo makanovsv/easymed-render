@@ -1,0 +1,76 @@
+{
+ "title": "DTP vaccine (whooping cough, diphtheria, tetanus)",
+ "also": [
+  "DTP",
+  "DTaP",
+  "whooping cough vaccine",
+  "tetanus shot",
+  "diphtheria vaccine"
+ ],
+ "what": "A combined vaccine injection that protects against whooping cough, diphtheria and tetanus. Children get several shots on schedule.",
+ "why": "For children on the national vaccination schedule, and for adults as a booster against diphtheria and tetanus, usually every 10 years.",
+ "duration": "the shot takes a few seconds; with the check-up usually 15 to 40 minutes",
+ "tell_doctor": [
+  "If your child is sick now or has a fever",
+  "Allergies and strong reactions to past vaccines",
+  "If there have been seizures or nervous system illness",
+  "If your child recently received blood products"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "The vaccine is given when your child is healthy. Your child will be examined before the shot."
+  },
+  {
+   "title": "Schedule",
+   "text": "Ask your pediatrician for the dates of all the shots in the course."
+  },
+  {
+   "title": "Fever medicine",
+   "text": "Ask the doctor which fever reducer to keep at home in case of a fever."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "The vaccination certificate or record",
+  "A favorite toy for your child"
+ ],
+ "steps": [
+  "The doctor examines your child and takes the temperature",
+  "You hold your child in your arms or on your lap",
+  "The skin is wiped and the shot is given in the thigh or arm",
+  "The vaccine is recorded in the documents",
+  "After the shot, stay at the clinic for about 30 minutes"
+ ],
+ "feel": [
+  "A quick shot. Your child may cry for a bit",
+  "Sometimes redness and a firm lump at the spot for 1 to 2 days",
+  "Sometimes fever, fussiness, poor appetite"
+ ],
+ "after": [
+  "Stay near the office for 30 minutes",
+  "At home offer more drinks and dress your child lightly",
+  "Next shot on schedule"
+ ],
+ "red_flags": [
+  "Trouble breathing, a swollen face, a rash all over: call your local emergency number",
+  "Seizures: call your local emergency number",
+  "High fever that does not come down, or crying nonstop for several hours: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Is it true that DTP is a hard vaccine?",
+   "a": "Reactions are more common than with some others, but they are usually mild and pass in 1 to 3 days."
+  },
+  {
+   "q": "Do adults need a tetanus shot?",
+   "a": "Yes, a booster is usually given every 10 years. Check with your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "DTP vaccine tomorrow. Bring the vaccination record. Your child should be healthy."
+  }
+ ]
+}

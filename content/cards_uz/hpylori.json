@@ -1,0 +1,68 @@
+{
+ "title": "Xelikobakterga tahlil",
+ "also": [
+  "xelikobakter",
+  "xelikobakter piloru",
+  "xelikobakterga axlat tahlili",
+  "xelikobakter antigeni"
+ ],
+ "what": "Bu axlat tahlili: unda oshqozonda yashaydigan va gastrit hamda yarani keltirib chiqarishi mumkin bo‘lgan bakteriya izlari qidiriladi.",
+ "why": "Qorinda og‘riq va og‘irlikda, jig‘ildon qaynashida, yarada, qarindoshlarda oshqozon kasalliklari bo‘lganda, davolashdan keyingi nazorat uchun.",
+ "duration": "uyda yig‘ish — bir necha daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "So‘nggi oyda antibiotik ichgan bo‘lsangiz",
+  "Jig‘ildon qaynashi va kislotalilikka dorilar ichsangiz",
+  "Xelikobakter allaqachon davolangan bo‘lsa va qachon tugatganingiz"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Antibiotiklar va kislotalilikka dorilar natijani buzishi mumkin. O‘zingiz bekor qilmang — shifokorga ayting, tanaffus kerakmi, u hal qiladi."
+  },
+  {
+   "title": "Idish",
+   "text": "Dorixonadan qoshiqli steril idish sotib oling yoki laboratoriyadan oling."
+  },
+  {
+   "title": "Davolashdan keyin",
+   "text": "Nazorat tahlili odatda davolash tugaganidan keyin 4 haftadan oldin qilinmaydi. Muddatni shifokor aytadi."
+  }
+ ],
+ "bring": [
+  "Axlatli idish",
+  "Yo‘llanma"
+ ],
+ "steps": [
+  "Toza quruq tog‘orachaga yoki toza plyonkaga boring — hojatxona suvidan emas",
+  "Qopqoqdagi qoshiqcha bilan ozgina axlat oling",
+  "Idishni mahkam yoping va imzolang",
+  "O‘sha kuni laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Hech narsa — tahlil og‘riqsiz"
+ ],
+ "after": [
+  "Darrov olib borib bo‘lmasa — idish odatda muzlatgichda saqlanadi. Muddatni laboratoriyadan aniqlang",
+  "Natija odatda 1–3 kunda — muddatni laboratoriyada aytishadi",
+  "Bakteriya topilsa, davolashni shifokor buyuradi"
+ ],
+ "red_flags": [
+  "Qora axlat, qon yoki qahva quyqasiga o‘xshash qusish — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Axlat tahlili xelikobakterga qon tahlilidan nimasi bilan yaxshi?",
+   "a": "Axlat bakteriya hozir bor-yo‘qligini ko‘rsatadi. Qondagi antitanalar davolashdan keyin ham qolishi mumkin."
+  },
+  {
+   "q": "Oilani tekshirish kerakmi?",
+   "a": "Shifokor hal qiladi. Odatda shikoyati borlar tekshiriladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga xelikobakterga axlat topshiramiz. Idish va toza tog‘orachani tayyorlang."
+  }
+ ]
+}

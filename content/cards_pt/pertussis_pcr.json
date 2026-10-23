@@ -1,0 +1,79 @@
+{
+ "title": "PCR para coqueluche",
+ "also": [
+  "coqueluche",
+  "swab para coqueluche",
+  "PCR para Bordetella pertussis",
+  "exame para tosse comprida"
+ ],
+ "what": "É um swab do nariz e da garganta em que se procura a bactéria da coqueluche.",
+ "why": "Com tosse longa, em crises, principalmente em crianças, e depois de contato com alguém com coqueluche.",
+ "duration": "o swab leva cerca de um minuto, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Há quantas semanas está a tosse",
+  "Se tomou antibióticos e quais",
+  "Se tem vacina contra coqueluche",
+  "Se teve contato com criança ou adulto com tosse"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Nas 2 a 3 horas antes do swab, não coma nem beba. Normalmente pedem isso também para crianças. Confirme com o laboratório."
+  },
+  {
+   "title": "Nariz e garganta",
+   "text": "De manhã, não faça gargarejo nem pingue gotas no nariz, se o médico não disser outra coisa."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "É melhor fazer o exame antes de começar o antibiótico. Se já está tomando, não pare por conta própria. Avise o médico."
+  },
+  {
+   "title": "Criança",
+   "text": "Explique à criança que vão encostar uma hastezinha no nariz e que é rápido. Coloque-a no colo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Carteira de vacinação"
+ ],
+ "steps": [
+  "A criança senta no colo de um dos pais, e seguram a cabeça dela",
+  "Uma haste fina e macia entra no nariz até o fundo",
+  "Giram a haste por alguns segundos e tiram",
+  "Às vezes colhem um segundo swab da garganta",
+  "A haste vai para um tubo e segue para o laboratório"
+ ],
+ "feel": [
+  "É incômodo, faz cócegas no nariz, pode dar vontade de espirrar",
+  "Os olhos podem lacrimejar. É normal",
+  "A criança pode chorar, mas tudo dura poucos segundos"
+ ],
+ "after": [
+  "Pode comer e beber logo em seguida",
+  "Até sair o resultado, tente evitar contato com bebês e grávidas",
+  "Antibiótico só com receita do médico"
+ ],
+ "red_flags": [
+  "Durante a tosse a criança para de respirar ou fica roxa: ligue para a emergência",
+  "Bebê mamando mal, molinho, tosse com vômito: procure o médico com urgência",
+  "Febre alta e falta de ar: procure o médico no mesmo dia"
+ ],
+ "faq": [
+  {
+   "q": "Quando é melhor fazer o PCR para coqueluche?",
+   "a": "Quanto antes, melhor: normalmente nas primeiras semanas de tosse e antes do antibiótico. Mais tarde, o exame de sangue é mais indicado."
+  },
+  {
+   "q": "Dá para pegar coqueluche depois da vacina?",
+   "a": "Dá, mas normalmente mais leve. A proteção da vacina vai diminuindo com o tempo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Daqui a pouco é o swab para coqueluche. Não coma nem beba, não faça gargarejo e não pingue nada no nariz."
+  }
+ ]
+}

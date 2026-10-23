@@ -1,0 +1,75 @@
+{
+ "title": "Cardiovascular risk assessment",
+ "also": [
+  "heart attack risk",
+  "stroke risk",
+  "heart risk assessment",
+  "risk score"
+ ],
+ "what": "The doctor estimates how likely a heart attack or stroke is in the coming years. For this, they need your blood pressure, tests, and lifestyle.",
+ "why": "At preventive check-ups, especially after age 40, and with high blood pressure, high cholesterol, diabetes, smoking, or heart disease in relatives.",
+ "duration": "a visit usually takes 20 to 30 minutes, and the assessment is given right away or after tests",
+ "tell_doctor": [
+  "Whether you smoke and how much",
+  "Whether you have high blood pressure, diabetes, or kidney disease",
+  "Whether close relatives had a heart attack or stroke at a young age",
+  "Which medicines you take",
+  "Chest pain or shortness of breath during activity"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Cholesterol and blood sugar are often needed. They are usually taken on an empty stomach. Check with the clinic."
+  },
+  {
+   "title": "Blood pressure",
+   "text": "If you measure at home, bring your records for the last days."
+  },
+  {
+   "title": "Medicines",
+   "text": "Take them as usual. Do not stop them on your own."
+  }
+ ],
+ "bring": [
+  "An ID",
+  "Cholesterol and sugar test results, if you have them",
+  "A blood pressure diary",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks about your health, habits, and relatives",
+  "Measures blood pressure, height, weight, and waist",
+  "Looks at your tests or sends you for them",
+  "Sometimes does an ECG",
+  "Calculates the risk with a special score",
+  "Explains what can help lower it"
+ ],
+ "feel": [
+  "The visit does not hurt",
+  "If blood is drawn, a short prick"
+ ],
+ "after": [
+  "You get a plan: diet, activity, quitting smoking, and sometimes medicines",
+  "The assessment is usually repeated in a year or sooner, as your doctor says"
+ ],
+ "red_flags": [
+  "Pressing chest pain lasting more than a few minutes: call emergency services",
+  "Sudden weakness in an arm or leg, a drooping face, or trouble speaking: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "If my risk is low, can I do nothing?",
+   "a": "You still need regular check-ups. Risk changes with age and habits."
+  },
+  {
+   "q": "Do I have to take pills if my risk is high?",
+   "a": "Your doctor decides. Sometimes changing your lifestyle is enough at first."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Cardiovascular risk assessment tomorrow. If you are having blood drawn, do not eat after dinner, but you may drink water."
+  }
+ ]
+}

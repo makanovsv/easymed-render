@@ -1,0 +1,84 @@
+{
+ "title": "Cuidados com colostomia e ileostomia",
+ "also": [
+  "colostomia",
+  "ileostomia",
+  "bolsa de colostomia",
+  "cuidado com o estoma",
+  "troca da bolsa de colostomia"
+ ],
+ "what": "O estoma é uma abertura do intestino na barriga, por onde as fezes saem para uma bolsa especial. A própria pessoa aprende a trocar a bolsa e a cuidar da pele.",
+ "why": "Depois de cirurgia no intestino, quando o cirurgião trouxe o intestino para a barriga, por um tempo ou para sempre.",
+ "duration": "a troca da bolsa leva normalmente 10 a 20 minutos",
+ "tell_doctor": [
+  "Se a pele em volta do estoma está vermelha, molhada ou doendo",
+  "Se a bolsa vaza com frequência",
+  "Se o estoma mudou de cor, de tamanho ou está saltando para fora",
+  "Se as fezes estão muito líquidas ou não saem há mais de um dia"
+ ],
+ "prepare": [
+  {
+   "title": "Materiais",
+   "text": "Tenha estoque de bolsas, placas e produtos para a pele. Eles são escolhidos com a enfermeira especialista em estomas."
+  },
+  {
+   "title": "Tamanho",
+   "text": "O furo da placa é cortado no tamanho do estoma. Nas primeiras semanas o estoma diminui. Meça de novo."
+  },
+  {
+   "title": "Horário",
+   "text": "É mais fácil trocar de manhã, antes de comer, quando o intestino trabalha menos."
+  },
+  {
+   "title": "Lugar",
+   "text": "Deixe tudo pronto no banheiro, numa toalha limpa."
+  }
+ ],
+ "bring": [
+  "Estoque de bolsas e placas",
+  "Tesoura e o molde de tamanho",
+  "Lenços e um saco de lixo",
+  "Relatório de alta e contato da enfermeira"
+ ],
+ "steps": [
+  "Lave as mãos e prepare a bolsa nova",
+  "Tire a bolsa antiga com cuidado, de cima para baixo, segurando a pele",
+  "Lave a pele em volta do estoma com água morna e seque com leves toques",
+  "Olhe o estoma e a pele em volta",
+  "Corte o furo da placa no tamanho do estoma",
+  "Cole a placa de baixo para cima e segure com a mão por 1 a 2 minutos",
+  "Coloque a bolsa usada num saco e jogue fora"
+ ],
+ "feel": [
+  "O estoma em si não dói, porque não tem nervos, mas sangra fácil quando se encosta",
+  "No começo é estranho e dá ansiedade. É normal, vai ficando mais fácil"
+ ],
+ "after": [
+  "Esvazie a bolsa quando estiver de um terço à metade cheia",
+  "Beba água suficiente, principalmente com ileostomia",
+  "Comida e roupa normalmente podem ser quase quaisquer. Pergunte ao médico sobre o seu caso",
+  "Não levante peso. Isso protege contra hérnia"
+ ],
+ "red_flags": [
+  "O estoma ficou escuro, roxo ou preto: procure o médico com urgência ou ligue para a emergência",
+  "Dor forte na barriga, vômito e sem fezes: ligue para a emergência",
+  "Sangramento forte do estoma",
+  "Fezes muito líquidas várias vezes, fraqueza, pouco xixi: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Posso tomar banho de chuveiro com o estoma?",
+   "a": "Pode, com a bolsa ou sem ela. A água não entra no estoma."
+  },
+  {
+   "q": "Vai ter cheiro?",
+   "a": "As bolsas modernas não deixam passar cheiro. O cheiro só aparece na troca ou num vazamento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã de manhã é a troca da bolsa. Confira o estoque de bolsas e placas."
+  }
+ ]
+}

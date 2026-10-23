@@ -1,0 +1,81 @@
+{
+ "title": "Bosh aylanganda tekshiruv",
+ "also": [
+  "vestibulyar apparatni tekshirish",
+  "bosh aylanishida tekshiruv",
+  "vestibulometriya",
+  "bosh aylanishi sinamasi"
+ ],
+ "what": "Shifokor nega boshingiz aylanayotganini aniqlaydi. Ko‘zlar, muvozanat va tana holatini tekshiradi, ba’zan ko‘z harakatlarini maxsus ko‘zoynak bilan yozib oladi.",
+ "why": "Takroriy bosh aylanishi, beqarorlik, bosh burilganda yoki o‘rningizdan turganda aylanish bo‘lganda.",
+ "duration": "odatda 30–60 daqiqa; javobning bir qismini shifokor darrov aytadi",
+ "tell_doctor": [
+  "Aynan qanday aylanadi: hamma narsa aylanadimi, gandiraklanadimi yoki ko‘z oldi qorong‘ilashadimi",
+  "Qachon boshlandi, xuruj qancha davom etadi, nima chaqiradi",
+  "Quloqda shovqin, eshitish pasayishi, ko‘ngil aynishi",
+  "Qanday dori ichasiz",
+  "Karaxtlik, holsizlik, nutq buzilishi — darrov ayting"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Bosh aylanishiga ba’zi dorilar tekshiruvga xalaqit beradi. O‘zingiz bekor qilmang — shifokordan oldindan so‘rang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda yengil nonushta. To‘yib ovqat yemang: sinamalarda ko‘ngil aynishi mumkin."
+  },
+  {
+   "title": "Ko‘zlar",
+   "text": "Ko‘z bo‘yoqsiz yaxshi. Linza taqsangiz — ko‘zoynak oling."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Hamroh bilan kelgan qulay: sinamalardan keyin biroz bosh aylanishi mumkin."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi xulosalar, MRT yoki KT suratlari, bo‘lsa",
+  "Dorilar ro‘yxati",
+  "Hamroh"
+ ],
+ "steps": [
+  "Shifokor xurujlar haqida batafsil so‘raydi",
+  "Barmog‘ingiz yoki nuqtaga ko‘z bilan qarab turishni so‘raydi",
+  "Muvozanatni tekshiradi: ko‘zni yumib turish, chiziq bo‘ylab yurish",
+  "Sizni bosh burilgan holda tez yotqizishi mumkin — bu quloqdagi zarrachalar siljishini aniqlash sinamasi",
+  "Ba’zan ko‘z harakatlarini yozadigan kamerali ko‘zoynak taqiladi",
+  "Ko‘pincha eshitish ham tekshiriladi"
+ ],
+ "feel": [
+  "Ba’zi sinamalar qisqa vaqt bosh aylantiradi — shunday mo‘ljallangan",
+  "Ko‘ngil aynishi mumkin, shifokorga ayting",
+  "Og‘riq yo‘q"
+ ],
+ "after": [
+  "Sinamalardan keyingi bosh aylanishi odatda daqiqalarda o‘tadi",
+  "Quloqdagi zarrachalar siljishi topilsa, uni ko‘pincha darrov maxsus bosh burishlar bilan to‘g‘rilashadi",
+  "Xulosa odatda o‘sha kuni, ba’zan MRT yoki tahlillar kerak bo‘ladi"
+ ],
+ "red_flags": [
+  "Bosh aylanishi qo‘l yoki oyoqdagi holsizlik, yuzning qiyshayishi, nutq buzilishi bilan birga — tez yordamni chaqiring (103)",
+  "To‘satdan qattiq bosh og‘rig‘i yoki ko‘zda ikkilanish — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Bosh burilganda ko‘pincha nimadan aylanadi?",
+   "a": "Ko‘pincha ichki quloqdagi mayda zarrachalar siljishidan. Buni shifokor bosh burishlari bilan davolaydi."
+  },
+  {
+   "q": "Yolg‘iz kelsa bo‘ladimi?",
+   "a": "Bo‘ladi, lekin hamroh bilan xotirjamroq: sinamalardan keyin bosh aylanishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bosh aylanganda tekshiruv. Oldingi xulosalar va dorilar ro‘yxatini oling. Undan oldin to‘yib ovqat yemang."
+  }
+ ]
+}

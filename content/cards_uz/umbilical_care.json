@@ -1,0 +1,80 @@
+{
+ "title": "Yangi tug‘ilgan chaqaloqning kindik yarasiga qarash",
+ "also": [
+  "chaqaloq kindigi",
+  "kindik yarasi",
+  "kindikni ishlash",
+  "chaqaloq kindigiga qarash",
+  "kindik qoldig‘i"
+ ],
+ "what": "Tug‘ruqxonadan keyin chaqaloqda kindik tizimchasining bir bo‘lagi qoladi. U quriydi va o‘zi tushadi, yara esa bitadi. Sizning vazifangiz — uni toza va quruq tutish.",
+ "why": "Barcha yangi tug‘ilgan chaqaloqlarga hayotning dastlabki haftalarida.",
+ "duration": "qoldiq odatda 1–3 haftada tushadi, yara yana bir necha kunda bitadi",
+ "tell_doctor": [
+  "Kindik atrofi qizarsa, shishsa yoki yoqimsiz hid kelsa",
+  "Yaradan suyuqlik yoki qon sizsa",
+  "Qoldiq 3 haftadan ortiq tushmasa",
+  "Chaqaloqning harorati bo‘lsa yoki u holsiz bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tozalik",
+   "text": "Kindikka qarashdan oldin qo‘lingizni yuving."
+  },
+  {
+   "title": "Quruqlik",
+   "text": "Hozir odatda quruq parvarish maslahat beriladi: kindikni toza va havoda tutish. Ishlov kerak-kerakmasligini pediatrdan so‘rang."
+  },
+  {
+   "title": "Taglik",
+   "text": "Taglik chetini kindikdan pastga buking, u ishqalanmasin va ho‘llanmasin."
+  },
+  {
+   "title": "Cho‘miltirish",
+   "text": "Vannachada cho‘miltirsa bo‘ladimi — pediatr aytadi."
+  }
+ ],
+ "bring": [
+  "Toza paxtali cho‘plar va salfetkalar",
+  "Tagliklar",
+  "Qaynatilgan suv"
+ ],
+ "steps": [
+  "Qo‘lingizni yuving",
+  "Kindik va uning atrofidagi terini ko‘zdan kechiring",
+  "Yara ifloslangan bo‘lsa, qaynatilgan suv bilan yuving va quritib oling",
+  "Kindikni bir necha daqiqa havoda ochiq qoldiring",
+  "Taglik chetini kindikdan pastga bukib kiygizing",
+  "Kindik tizimchasi qoldig‘i deyarli tushib bo‘lgan bo‘lsa ham, uni tortmang"
+ ],
+ "feel": [
+  "Chaqaloqqa og‘riq yo‘q — kindik tizimchasida asab yo‘q",
+  "Qoldiq tushganda bir tomchi qon bo‘lishi mumkin va o‘tib ketadi"
+ ],
+ "after": [
+  "Qoldiq tushgandan keyin yarani yana bir necha kun toza tuting",
+  "Kindikni plaster va bog‘lamlar bilan yopishtirmang",
+  "Kindikni patronajda pediatrga ko‘rsating"
+ ],
+ "red_flags": [
+  "Kindik atrofidagi teri qizarishi kengayib borsa, shish, yiring yoki hid bo‘lsa — shoshilinch pediatrga",
+  "Chaqaloqning harorati bo‘lsa, holsiz bo‘lsa yoki yomon emsa — tez yordamni chaqiring (103)",
+  "Kindikdan qon to‘xtamasa"
+ ],
+ "faq": [
+  {
+   "q": "Kindikka zelyonka surtish kerakmi?",
+   "a": "Hozir odatda kerak emas. Toza va quruq tutish yetarli. Pediatrdan so‘rang."
+  },
+  {
+   "q": "Yig‘laganda kindik do‘ppayadi — bu xavflimi?",
+   "a": "Ko‘pincha bu kindik churrasi, chaqaloqlarda uchraydi. Pediatrga ko‘rsating — u nima qilishni aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Chaqaloqning kindigini yaqin ko‘rikda pediatrga ko‘rsating. Yarani toza va quruq tuting."
+  }
+ ]
+}

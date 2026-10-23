@@ -1,0 +1,75 @@
+{
+ "title": "Bolalar nevrologi qabuli",
+ "also": [
+  "bolalar nevrologi",
+  "bola uchun nevropatolog",
+  "bolalar nevrologi qabuli",
+  "bir yoshdagi nevrolog ko‘rigi"
+ ],
+ "what": "Shifokor bolaning asab tizimi, harakatlari va nutqi qanday rivojlanayotganini tekshiradi. Ko‘rik xotirjam va og‘riqsiz.",
+ "why": "Birinchi yildagi rejali ko‘riklarda va bog‘cha yoki maktabdan oldin; rivojlanish kechikkanda, bosh og‘rig‘i, tutqanoq, tiklar, yomon uyquda.",
+ "duration": "odatda 20–40 daqiqa, xulosa qabuldan keyin darrov",
+ "tell_doctor": [
+  "Homiladorlik va tug‘ruq qanday o‘tgan",
+  "Bola qachon boshini tutgan, o‘tirgan, yurgan, gapirgan",
+  "Aynan nima bezovta qilayotgani va qancha vaqtdan beri",
+  "Tutqanoq, bosh jarohati, hushdan ketishlar bo‘lganmi",
+  "Bola qanday dorilar ichadi"
+ ],
+ "prepare": [
+  {
+   "title": "Kuzatuvlar",
+   "text": "Sizni nima bezovta qilayotganini yozib qo‘ying. Agar bu xurujlar bilan bo‘lsa — videoga oling."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Bola odatda hushyor, och emas va uyqusi kelmagan vaqtni tanlang."
+  },
+  {
+   "title": "Chaqaloq uchun",
+   "text": "Sevimli o‘yinchoq, suv va yengil tamaddi oling."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati va sizning hujjatingiz",
+  "Tibbiy karta yoki ko‘chirmalar",
+  "Oldingi tekshiruv natijalari, agar bo‘lgan bo‘lsa",
+  "Xurujlar yoki harakatlar videosi, agar olgan bo‘lsangiz"
+ ],
+ "steps": [
+  "Shifokor rivojlanish va shikoyatlar haqida so‘raydi",
+  "Bola qanday harakatlanishi, o‘ynashi, tovush va narsalarga javob berishini ko‘radi",
+  "Reflekslarni bolg‘acha bilan tekshiradi",
+  "Mushak kuchi va tonusini baholaydi",
+  "Chaqaloqning bosh aylanasi o‘lchanadi",
+  "Shifokor xulosani tushuntiradi va kerak bo‘lsa, tekshiruvlar buyuradi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz, reflekslar yengil urib tekshiriladi",
+  "Chaqaloq notanish muhitdan yig‘lashi mumkin — bu shifokorga halaqit bermaydi"
+ ],
+ "after": [
+  "Shifokor tavsiyalar yoki tekshiruvga yo‘llanma beradi",
+  "Buyurilgan dorilarni o‘zingiz bekor qilmang",
+  "Takroriy qabul — shifokor belgilagan muddatda"
+ ],
+ "red_flags": [
+  "Boshga zarbadan keyin tutqanoq, hushdan ketish, keskin uyquchanlik yoki qusish — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Bola sog‘lom bo‘lsa ham nevrologga borish kerakmi?",
+   "a": "Ha, birinchi yildagi rejali ko‘riklar orqada qolishni o‘z vaqtida payqash uchun kerak."
+  },
+  {
+   "q": "Bola butun qabul davomida yig‘lasa, nima qilish kerak?",
+   "a": "Hech narsa emas. Shifokor bunga o‘rgangan va baribir ko‘rik o‘tkaza oladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bolalar nevrologi qabuli. Bolaning tibbiy kartasi, o‘yinchoq oling va sizni nima bezovta qilayotganini yozib qo‘ying."
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Peritoneal dialysis at home",
+ "also": [
+  "peritoneal dialysis",
+  "PD",
+  "dialysis at home",
+  "home dialysis through the belly"
+ ],
+ "what": "A special solution is run in through a tube in your belly. It takes extra waste from your blood, and then it is drained. You do this yourself at home.",
+ "why": "For severe kidney failure, when it is more convenient to be treated at home than to travel to a unit.",
+ "duration": "one solution exchange usually takes 30 to 40 minutes, several times a day; or at night with a machine while you sleep",
+ "tell_doctor": [
+  "If the drained fluid becomes cloudy",
+  "Belly pain or fever",
+  "If your weight, swelling or shortness of breath has changed",
+  "Redness around the tube"
+ ],
+ "prepare": [
+  {
+   "title": "Training",
+   "text": "Before you start, you and your close ones are trained at the clinic. Do it as you were taught."
+  },
+  {
+   "title": "Cleanliness",
+   "text": "A separate clean place, closed windows, no pets nearby during an exchange."
+  },
+  {
+   "title": "Hands",
+   "text": "Before each exchange, wash your hands thoroughly and put on a mask."
+  },
+  {
+   "title": "Supplies",
+   "text": "Store the solutions as the clinic tells you and watch the expiry date."
+  }
+ ],
+ "bring": [
+  "Notes of weight, blood pressure and drained volumes - for your visit",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You wash your hands, put on a mask and prepare the place",
+  "You connect the warmed bag of solution to the tube",
+  "First you drain the old solution from the belly",
+  "Then you fill in the new one",
+  "You disconnect the system and close the tube with a cap",
+  "You write down the volume and what the drained fluid looks like"
+ ],
+ "feel": [
+  "A feeling of fullness in the belly while the solution is inside",
+  "Cold solution is unpleasant - it must be warmed",
+  "Usually it does not hurt"
+ ],
+ "after": [
+  "Every day check and clean the skin around the tube",
+  "Watch your weight, blood pressure and swelling",
+  "Follow the diet your doctor prescribed",
+  "Come regularly for check-ups at the clinic"
+ ],
+ "red_flags": [
+  "Cloudy fluid when draining - call the clinic right away",
+  "Belly pain, fever, chills",
+  "Pus or redness around the tube",
+  "Severe shortness of breath or chest pain - call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Can I work with PD?",
+   "a": "Many people do. Exchanges can be fitted to your schedule, or done by a machine at night."
+  },
+  {
+   "q": "Why is cloudy fluid so important?",
+   "a": "It is a common sign of inflammation in the belly. You need to call the clinic right away."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Check tomorrow's supply of solution, and write down today's weight and drained volumes."
+  }
+ ]
+}

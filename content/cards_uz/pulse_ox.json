@@ -1,0 +1,73 @@
+{
+ "title": "Tungi pulsoksimetriya",
+ "also": [
+  "tungi pulsoksimetriya",
+  "uyquda kislorod",
+  "tunda saturatsiya monitoringi",
+  "xurrakni tekshirish"
+ ],
+ "what": "Tunda uyda barmog‘ingizga kichik datchik qo‘yib uxlaysiz. U tun bo‘yi qondagi kislorod va pulsni yozib boradi.",
+ "why": "Xurrak otishda, uyquda nafas to‘xtashlarida, kunduzgi uyquchanlikda, o‘pka va yurak kasalliklarida, kislorodni tanlash uchun.",
+ "duration": "uyda bir tun; xulosa odatda 1–3 kunda",
+ "tell_doctor": [
+  "Xurrak otasizmi, nafas to‘xtashlari bo‘ladimi",
+  "Uyqu dori yoki tinchlantiruvchi qabul qilasizmi",
+  "Tunda kislorod kerakmi",
+  "O‘pka yoki yurak kasalliklari bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Tirnoqlar",
+   "text": "Datchik taqiladigan barmoqdan lak va sun’iy tirnoqni olib tashlang."
+  },
+  {
+   "title": "Kechqurun",
+   "text": "Alkogolsiz va kechqurun ortiqcha kofesiz."
+  },
+  {
+   "title": "Uyqu",
+   "text": "Odatdagidek, o‘z to‘shagingizda uxlang."
+  }
+ ],
+ "bring": [
+  "Klinika beradigan asbob va yo‘riqnoma",
+  "Yo‘llanma",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Klinikada asbobni berishadi va qanday taqishni ko‘rsatishadi",
+  "Uyqudan oldin datchikni barmoqqa taqasiz",
+  "Asbobni yoqib, odatdagidek uxlaysiz",
+  "Tunda datchik tushib ketsa, qayta taqing",
+  "Ertalab yechib, o‘chirasiz",
+  "Asbobni klinikaga qaytarasiz"
+ ],
+ "feel": [
+  "Og‘riq yo‘q, datchik shunchaki qisqich",
+  "Dastlab u bilan uxlash odatiy emas"
+ ],
+ "after": [
+  "Asbobni klinika aytgan muddatda qaytaring",
+  "Xulosa odatda 1–3 kunda",
+  "Kerak bo‘lsa, shifokor uyquning batafsil tekshiruvini taklif qiladi"
+ ],
+ "red_flags": [
+  "Kuchli hansirash, lablar ko‘karishi, ko‘krakda og‘riq: 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Tunda datchik tushib ketsa nima bo‘ladi?",
+   "a": "Qayta taqing. Qisqa tanaffuslar odatda xalaqit bermaydi, lekin ular haqida klinikaga ayting."
+  },
+  {
+   "q": "Bu uyqu tekshiruvining o‘rnini bosadimi?",
+   "a": "To‘liq emas. Bu oddiy birinchi qadam, ba’zan undan keyin uyquning to‘liq testi kerak bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun tunda pulsoksimetriya. Barmoqdan lakni oling, uyqudan oldin datchikni taqing va asbobni yoqing."
+  }
+ ]
+}

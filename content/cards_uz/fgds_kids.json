@@ -1,0 +1,78 @@
+{
+ "title": "Bolaga FGDS",
+ "also": [
+  "bolaga gastroskopiya",
+  "bolaga EGDS",
+  "bolaga FGS",
+  "bolaga zond yutish"
+ ],
+ "what": "Shifokor bolaning qizilo‘ngachi, oshqozoni va ichak boshlanishini og‘iz orqali kamerali ingichka egiluvchan nay bilan ko‘radi.",
+ "why": "Qorin og‘rig‘i, qusish tez-tez bo‘lganda, gastrit yoki yaraga shubhada, buyum yutilganda, qon ketishda, vazn yomon oshganda.",
+ "duration": "muolajaning o‘zi odatda 5–15 daqiqa, sedatsiyadan keyin — taxminan bir soat kuzatuv; xulosa odatda darhol",
+ "tell_doctor": [
+  "Bolaning barcha dorilari",
+  "Allergiyalar",
+  "Yurak, o‘pka kasalliklari, tutqanoq",
+  "Bola yaqinda shamollagan bo‘lsa",
+  "Bolada narkoz bilan muammolar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda bola 6 soat ovqatlanmaydi, 2 soat ichmaydi. Kichkintoylar uchun muddatlar qisqaroq bo‘lishi mumkin — klinikadan aniqlab oling."
+  },
+  {
+   "title": "Sedatsiya",
+   "text": "Bolalarga FGDSni ko‘pincha uyquda qilishadi. Anesteziolog oldindan bu qanday bo‘lishini aytib beradi."
+  },
+  {
+   "title": "Suhbat",
+   "text": "Bolaga oddiy so‘zlar bilan tushuntiring: shifokor qorinchasini kichik kamera bilan ko‘radi, u esa uxlab turadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Avvalgi tahlillar va xulosalar",
+  "Sevimli o‘yinchoq",
+  "Muolajadan keyin uchun almashtiriladigan kiyim va suv"
+ ],
+ "steps": [
+  "Bolani tortishadi, anesteziolog u bilan gaplashadi",
+  "Odatda ota-onadan biri bola uxlab qolguncha yonida qoladi",
+  "Bolani niqob orqali yoki vena orqali dori bilan uxlatishadi",
+  "Shifokor ingichka nayni og‘iz orqali kiritadi",
+  "Qizilo‘ngach, oshqozon va ichakni ko‘radi, kerak bo‘lsa to‘qima bo‘lagini oladi",
+  "Bola palatada uyg‘onadi, sizni uning oldiga chaqirishadi"
+ ],
+ "feel": [
+  "Uyquda bola hech narsani sezmaydi",
+  "Keyin mudroq, injiq bo‘lishi, tomog‘i qirillashi mumkin",
+  "Ba’zan biroz ko‘ngli aynishi mumkin"
+ ],
+ "after": [
+  "Ichish va ovqatlanishni odatda 1–2 soatdan keyin mumkin — suvdan boshlang",
+  "Bola kechgacha holsiz bo‘lishi mumkin, bu normal",
+  "Xulosa odatda darhol, biopsiya natijasi — 1–2 haftada"
+ ],
+ "red_flags": [
+  "Qonli qusish yoki qora axlat — 103 ga qo‘ng‘iroq qiling",
+  "Qorin yoki ko‘krakda kuchli og‘riq, bolaga nafas olish qiyin — 103 ga qo‘ng‘iroq qiling",
+  "Dastlabki sutkada yuqori harorat — shifokorga xabar bering"
+ ],
+ "faq": [
+  {
+   "q": "Bola bilan birga bo‘lsa bo‘ladimi?",
+   "a": "Odatda ota-ona bola uxlab qolguncha va uyg‘onganda yonida bo‘ladi. Qoidalarni klinikadan aniqlab oling."
+  },
+  {
+   "q": "Narkozsiz mumkinmi?",
+   "a": "O‘smirlarga ba’zan uyqusiz, tomoq og‘riqsizlantirilib qilishadi. Kichik bolalarga odatda uyquda qilinadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolaga FGDS. Ovqat va suv berish — faqat klinika aytgan vaqtgacha. O‘yinchoqni oling."
+  }
+ ]
+}

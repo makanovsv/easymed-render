@@ -1,0 +1,78 @@
+{
+ "title": "Tug‘ruqdan keyin oraliq choklariga qarash",
+ "also": [
+  "tug‘ruqdan keyingi choklar",
+  "choklarga qarash",
+  "tug‘ruqdan keyin yirtilishlar",
+  "epiziotomiyadan keyin parvarish"
+ ],
+ "what": "Tug‘ruqdan keyin oraliqda choklar bo‘lishi mumkin. Oddiy parvarish ularning tezroq bitishiga yordam beradi.",
+ "why": "Tug‘ruq paytida yirtilishlar yoki oraliq kesilishi bo‘lgan bo‘lsa.",
+ "duration": "choklar odatda 2–3 haftada bitadi, so‘riladigan iplar o‘zi ketadi",
+ "tell_doctor": [
+  "Og‘riq kamaymasdan kuchaysa",
+  "Yoqimsiz hid yoki yiring paydo bo‘lsa",
+  "Siydik chiqarish yoki hojatxonaga borish qiyin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Gigiena",
+   "text": "Har bir hojatxonadan keyin iliq suv bilan oldindan orqaga qarab yuvining."
+  },
+  {
+   "title": "Prokladkalar",
+   "text": "Prokladkani tez-tez almashtiring, odatda har 2–4 soatda."
+  },
+  {
+   "title": "Quritish",
+   "text": "Choklarni toza sochiq bilan artmay, ho‘lini shimdirib oling."
+  }
+ ],
+ "bring": [
+  "Yumshoq tug‘ruqdan keyingi prokladkalar",
+  "Paxta ichki kiyim",
+  "Oraliq uchun alohida sochiq",
+  "Shifokor ko‘rsatmalari"
+ ],
+ "steps": [
+  "Choklarga qarashdan oldin qo‘llarni yuving",
+  "Iliq suv bilan oldindan orqaga qarab yuvining",
+  "Sochiq bilan ehtiyotkorlik bilan shimdirib oling",
+  "Vosita buyurilgan bo‘lsa — uni shifokor yo‘riqnomasi bo‘yicha surting",
+  "Yangi prokladka qo‘ying",
+  "Dastlab ehtiyotkor o‘tiring, shifokor boshqacha maslahat bermasa, bir yarmiga yoki yumshoq yostiqqa"
+ ],
+ "feel": [
+  "Dastlabki kunlari choklar zirqiraydi va tortadi",
+  "Siydik chiqarishda achishi mumkin — iliq suv quyish yordam beradi",
+  "Og‘riq asta-sekin pasayadi"
+ ],
+ "after": [
+  "Og‘ir ko‘tarmang",
+  "Hojatxonada zo‘riqmaslikka harakat qiling, ko‘proq suv iching",
+  "Shifokor choklarni qabulda ko‘radi",
+  "Jinsiy yaqinlikni odatda shifokor ruxsat bergunga qadar keyinga qoldirishadi"
+ ],
+ "red_flags": [
+  "Harorat 38 dan yuqori",
+  "Choklar sohasida kuchli og‘riq, shish yoki yiring",
+  "Ajralmalarda yoqimsiz hid",
+  "Ko‘p qon ketishi — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Qachon o‘tirsa bo‘ladi?",
+   "a": "Odatda ehtiyot bo‘lib darhol mumkin, lekin aniqrog‘ini shifokor aytadi. Yumshoq yostiq yordam beradi."
+  },
+  {
+   "q": "Choklarni olish kerakmi?",
+   "a": "Odatda iplar o‘zi so‘riladi. Bo‘lmasa — shifokor qachon kelishni aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Choklar qanday bitayapti? Hojatxonadan keyin yuvining va prokladkani tez-tez almashtiring."
+  }
+ ]
+}

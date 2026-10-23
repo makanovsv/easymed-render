@@ -1,0 +1,74 @@
+{
+ "title": "Kortizol",
+ "also": [
+  "kortizol",
+  "stress gormoni",
+  "qonda kortizol"
+ ],
+ "what": "Bu venadan qon tahlili. U buyrak usti bezlari ishlab chiqaradigan gormon, kortizol darajasini ko‘rsatadi.",
+ "why": "Buyrak usti bezlari kasalliklariga shubha bo‘lganda, vazn, bosim keskin o‘zgarganda, kuchli holsizlikda.",
+ "duration": "qon olish bir necha daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Gormonlar ichsangiz: tabletka, ukol, malham, ingalyator",
+  "Homiladorlikka qarshi tabletkalar ichsangiz",
+  "Tunda ishlasangiz yoki uyqu tartibi buzilgan bo‘lsa",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Kortizol kun davomida o‘zgaradi. Odatda qon ertalab, shifokor tayinlagan soatlarda topshiriladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa: 8–12 soat ovqatsiz. Oddiy suv ichish mumkin. Laboratoriyadan aniqlashtiring."
+  },
+  {
+   "title": "Oldingi kun",
+   "text": "Alkogolsiz, og‘ir mashqlarsiz va chekmasdan. Uxlab olishga harakat qiling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting: biror narsani o‘zgartirish kerakmi, shuni u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Qon olishdan oldin 15–30 daqiqa tinch o‘tiring: laboratoriyada shunday deyishadi",
+  "O‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lanadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa sanchiq: qon probirkaga olinadi",
+  "Igna olinadi, sanchilgan joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Chimchilashga o‘xshash qisqa sanchiq",
+  "Ba’zan yengil bosh aylanishi: hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darhol ovqatlanib, odatiy ishlaringizga qaytish mumkin",
+  "Natija odatda 1–3 kunda: muddatni laboratoriyada aytishadi",
+  "Ba’zan shifokor kortizolga so‘lak yoki siydik tahlilini ham tayinlaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Topshirish vaqti nega muhim?",
+   "a": "Ertalab kortizol ko‘p, kechqurun kam bo‘ladi. Shifokor natijani shu vaqt uchun me’yor bilan solishtiradi."
+  },
+  {
+   "q": "Hayajon ta’sir qiladimi?",
+   "a": "Ha, stress kortizolni oshiradi. Shuning uchun qon olishdan oldin dam olishni so‘rashadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ertalab kortizolga tahlil. Barvaqt yoting, kechki ovqatdan keyin ovqat yemang. Shifokor tayinlagan vaqtda keling."
+  }
+ ]
+}

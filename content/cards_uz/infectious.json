@@ -1,0 +1,72 @@
+{
+ "title": "Infeksionist qabuli",
+ "also": [
+  "infeksionist",
+  "infeksiyalar shifokori",
+  "yuqumli kasalliklar xonasi"
+ ],
+ "what": "Infeksiyalarni: virusli, bakterial, parazitar kasalliklarni davolaydigan va safar oldidan emlashda yordam beradigan shifokor.",
+ "why": "Uzoq davom etgan haroratda, ichak infeksiyalarida, gepatitlarda, infeksiya tahlillarida o‘zgarishlar bo‘lganda, boshqa mamlakatlarga safardan keyin, kana chaqqanda.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Qachon boshlangan va harorat qanday o‘zgargan",
+  "So‘nggi oylarda qayerlarga borgansiz",
+  "Kasallar bilan aloqa, kana yoki hayvonlar chaqishi bo‘lganmi",
+  "Qanday emlashlar olgansiz",
+  "Qanday dorilar, shu jumladan antibiotiklar ichgansiz"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Qilingan bo‘lsa, barcha tahlillar va natijalarni oling."
+  },
+  {
+   "title": "Harorat",
+   "text": "Harorat kunlar bo‘yicha qanday o‘zgarganini yozib qo‘ying."
+  },
+  {
+   "title": "Niqob",
+   "text": "Harorat yoki yo‘tal bo‘lsa — niqob taqing va registraturaga ogohlantiring."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Emlash sertifikati, agar bo‘lsa",
+  "Oldingi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki o‘zi qadoqlari"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar, safarlar va aloqalar haqida so‘raydi",
+  "Teri, tomoq, limfa tugunlarini ko‘radi",
+  "Qorinni paypaslaydi",
+  "Tahlillarni ko‘radi",
+  "Tekshiruv yoki davolash buyuradi"
+ ],
+ "feel": [
+  "Hech qanday noxush narsa yo‘q — oddiy ko‘rik",
+  "Ba’zan o‘sha kuni qon yoki surtma olinadi"
+ ],
+ "after": [
+  "Tahlillarni topshiring va natijalar bilan keling",
+  "Antibiotiklarni faqat buyurilganidek va kurs oxirigacha iching"
+ ],
+ "red_flags": [
+  "Juda yuqori harorat, hushning chalkashishi, bosganda oqarmaydigan toshma — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Kana chaqqandan keyin borish kerakmi?",
+   "a": "Ha, shifokorga ko‘rinish yaxshi. Kanani tahlil uchun saqlab qo‘yish mumkin — klinikadan aniqlang."
+  },
+  {
+   "q": "Nega shifokor safarlar haqida so‘raydi?",
+   "a": "Turli mamlakatlarda o‘z infeksiyalari bor. Bu sababni tushunishga yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga infeksionist qabuli. Tahlillarni oling va safarlar, aloqalarni eslab qo‘ying."
+  }
+ ]
+}

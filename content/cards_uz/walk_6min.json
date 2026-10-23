@@ -1,0 +1,79 @@
+{
+ "title": "Olti daqiqalik yurish testi",
+ "also": [
+  "6 daqiqalik yurish",
+  "OYT",
+  "yurish bilan test",
+  "yurish yuklama sinamasi"
+ ],
+ "what": "Siz o‘z sur’atingizda koridor bo‘ylab 6 daqiqa yurasiz. Necha metr yurganingiz va yurak urishi hamda kislorod qanday o‘zgarishi o‘lchanadi.",
+ "why": "O‘pka va yurak kasalliklarida, chidamlilikni baholash, davolashni tanlash yoki u qanchalik yordam berayotganini tekshirish uchun.",
+ "duration": "dam olish bilan birga odatda 20–30 daqiqa, natija darrov",
+ "tell_doctor": [
+  "Qanday dori ichasiz",
+  "Yuklamada ko‘krak og‘risa yoki bosh qattiq aylansa",
+  "Kislorod, hassa yoki yurgich ishlatsangiz",
+  "Bo‘g‘imlar yoki oyoqlar og‘risa"
+ ],
+ "prepare": [
+  {
+   "title": "Kiyim",
+   "text": "Yurish uchun qulay kiyim va poyabzal."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Testdan bir-ikki soat oldin yengil ovqat. Och kelmang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Odatda dorilaringizni doimgidek ichasiz. Shifokordan aniqlang."
+  },
+  {
+   "title": "Yuklama",
+   "text": "Testdan 2 soat oldin sport bilan shug‘ullanmang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Qulay poyabzal",
+  "Ishlatsangiz, hassa yoki yurgich",
+  "Bo‘lsa, ingalyator"
+ ],
+ "steps": [
+  "Taxminan 10 daqiqa o‘tirib dam olasiz",
+  "Bosim, yurak urishi va barmoqdan kislorod o‘lchanadi",
+  "Koridor bo‘ylab 6 daqiqa u yoq-bu yoqqa yurasiz",
+  "Qiyin bo‘lsa, sekinlashsangiz yoki to‘xtasangiz bo‘ladi",
+  "Har daqiqada sizga qancha qolganini aytishadi",
+  "Testdan keyin yana yurak urishi va kislorod o‘lchanadi"
+ ],
+ "feel": [
+  "Nafas qisishi va charchoq paydo bo‘lishi mumkin",
+  "Oyoqlar charchaydi — bu normal"
+ ],
+ "after": [
+  "Testdan keyin bir necha daqiqa o‘tiring",
+  "Natija — bosib o‘tilgan metrlar — darrov aytiladi",
+  "Shifokor uni oldingi testlar bilan solishtiradi"
+ ],
+ "red_flags": [
+  "Test paytida ko‘krakda og‘riq, kuchli nafas qisilishi, bosh aylanishi — darrov to‘xtang va ayting",
+  "Dam olgandan keyin ham ko‘krakdagi og‘riq o‘tmasa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Yugurish kerakmi?",
+   "a": "Yo‘q. Tez, lekin o‘zingizga qulay sur’atda yuring. Yugurish mumkin emas."
+  },
+  {
+   "q": "To‘xtasa bo‘ladimi?",
+   "a": "Ha. Dam oling va imkon bo‘lganda davom eting. Vaqt bu paytda ketaveradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga olti daqiqalik yurish testi. Qulay poyabzal kiying va yengil nonushta qiling."
+  }
+ ]
+}

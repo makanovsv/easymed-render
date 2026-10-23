@@ -1,0 +1,67 @@
+{
+ "title": "Gastroenterolog qabuli",
+ "also": [
+  "gastroenterolog",
+  "oshqozon shifokori",
+  "oshqozon-ichak shifokori"
+ ],
+ "what": "Oshqozon, ichak, jigar, o‘t pufagi va oshqozon osti bezini davolaydigan shifokor.",
+ "why": "Qorin og‘rig‘i, jig‘ildon qaynashi, ko‘ngil aynishi, dam bo‘lish, ich qotishi yoki ich ketishi, jigar tahlillari o‘zgarganda.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Sizni nima bezovta qiladi, qachon va nimadan keyin",
+  "Axlat va vazn qanday o‘zgargan",
+  "Qanday dorilar ichasiz, shu jumladan og‘riq qoldiruvchilar",
+  "Qorinda operatsiyalar bo‘lganmi",
+  "Qarindoshlarda oshqozon-ichak kasalliklari"
+ ],
+ "prepare": [
+  {
+   "title": "Kundalik",
+   "text": "Bir necha kun yozib boring: nima yedingiz, qachon og‘rigan, axlat qanday bo‘lgan."
+  },
+  {
+   "title": "Tekshiruvlar",
+   "text": "FGDS, kolonoskopiya, ultratovush va tahlil natijalarini oling, agar qilingan bo‘lsa."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Oldingi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki o‘zi qadoqlari"
+ ],
+ "steps": [
+  "Shifokor shikoyat va ovqatlanish haqida so‘raydi",
+  "Til va terini ko‘radi",
+  "Yotgan holatda qorinni paypaslaydi",
+  "Oldingi tekshiruvlarni ko‘radi",
+  "Tahlil, ultratovush, FGDS yoki davolash buyuradi"
+ ],
+ "feel": [
+  "Qorin og‘risa, paypaslash biroz noqulay bo‘lishi mumkin",
+  "Qolgan jihatlari — oddiy ko‘rik"
+ ],
+ "after": [
+  "Shifokor ovqatlanish bo‘yicha maslahat va buyruqlar beradi",
+  "Buyurilgan tekshiruvlarga tayyorgarlikni oldindan aniqlang"
+ ],
+ "red_flags": [
+  "Qon yoki «qahva quyqasi» bilan qusish, qora axlat, qorinda kuchli og‘riq — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Och qoringa kelish kerakmi?",
+   "a": "Qabul uchun odatda yo‘q. O‘sha kuni ultratovush yoki FGDS buyurilsa — klinikadan aniqlang."
+  },
+  {
+   "q": "Qabulga nimani olish kerak?",
+   "a": "Oldingi tekshiruvlar, dorilar ro‘yxati, ovqatlanish va belgilar haqida yozuvlar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga gastroenterolog qabuli. Tekshiruvlar va dorilar ro‘yxatini oling."
+  }
+ ]
+}

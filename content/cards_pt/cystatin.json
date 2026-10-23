@@ -1,0 +1,63 @@
+{
+ "title": "Cistatina C",
+ "also": [
+  "cistatina C",
+  "exame da função dos rins",
+  "taxa de filtração pela cistatina"
+ ],
+ "what": "É um exame de sangue de uma proteína que mostra o quanto os rins limpam bem o sangue.",
+ "why": "Quando é preciso avaliar melhor os rins, principalmente se a creatinina pode ter dado um resultado impreciso: em idosos, em pessoas com muita ou pouca massa muscular, e antes de ajustar doses de remédios.",
+ "duration": "a coleta leva normalmente 5 minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Se você toma corticoides",
+  "Se tem doença da tireoide",
+  "Doenças dos rins, diabetes, pressão alta",
+  "Todos os remédios que você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não é preciso jejum, mas muitas vezes o exame é feito junto com a bioquímica, em jejum. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Exames anteriores de creatinina"
+ ],
+ "steps": [
+  "Você se senta, e colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "O sangue é colhido da veia num tubo",
+  "Tiram o garrote e colocam um algodão"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "O resultado sai normalmente em 1 a 3 dias",
+  "Com ele o médico calcula como os rins estão funcionando e, se for preciso, ajusta as doses dos remédios"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Para que cistatina, se já tem creatinina?",
+   "a": "A creatinina depende dos músculos e da alimentação. A cistatina depende menos disso, então as duas juntas dão uma ideia mais precisa."
+  },
+  {
+   "q": "Preciso estar em jejum?",
+   "a": "A cistatina quase não muda com a comida. Mas se for junto com a bioquímica, é melhor em jejum. Confirme com o laboratório."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de cistatina C. Se for junto com a bioquímica, depois do jantar não coma mais. Água pode."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Najasni salmonella va shigellaga ekish",
+ "also": [
+  "najas ekmasi",
+  "ichak guruhiga ekish",
+  "salmonellaga tahlil",
+  "najasni ichak guruhiga tahlil",
+  "sanknijka uchun tahlil"
+ ],
+ "what": "Bu najas tahlili: laboratoriyada najas ekiladi, xavfli ichak mikroblari topiladi va ularga mos dori tanlanadi.",
+ "why": "Harorat, qon yoki shilimshiq bilan ich ketganda; oshxona va bolalar muassasalari xodimlariga tibbiy daftarcha uchun.",
+ "duration": "yig‘ish — bir necha daqiqa, natija odatda 3–5 kunda",
+ "tell_doctor": [
+  "So‘nggi haftalarda antibiotik ichgan-ichmaganingizni",
+  "Najasda qon yoki shilimshiq bor-yo‘qligini",
+  "Yaqinlaringiz orasida kasal bor-yo‘qligini",
+  "Tahlil ish yoki tibbiy daftarcha uchun kerak bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Idish",
+   "text": "Dorixona yoki laboratoriyadan steril idish oling. Najas uchun qopqog‘ida qoshiqchasi bor idish kerak."
+  },
+  {
+   "title": "Antibiotiklar",
+   "text": "Tahlilni antibiotik boshlashdan oldin topshirgan ma’qul. Agar allaqachon ichayotgan bo‘lsangiz, o‘zingiz to‘xtatmang, shifokorga ayting."
+  },
+  {
+   "title": "Yig‘ish",
+   "text": "Najas toza sirtdan yig‘iladi, hojatxona suvidan emas. Surgi va shamlar yig‘ishdan oldin odatda ishlatilmaydi — shifokordan so‘rang."
+  },
+  {
+   "title": "Yetkazish",
+   "text": "Yangi najasni tez yetkazish kerak — odatda bir-ikki soat ichida. Aniq muddatni laboratoriya aytadi."
+  }
+ ],
+ "bring": [
+  "Najasli idish",
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Hojatxonaga yoki tog‘oraga toza plyonka yoki qog‘oz to‘shang",
+  "Qopqoqdagi qoshiqcha bilan najasdan bir parcha oling, shilimshiq bo‘lsa, shundan oling",
+  "Idishga soling va mahkam yoping",
+  "Idishga ismingizni yozing",
+  "Qo‘lingizni yuving va darrov laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Yoqimsiz hech narsa yo‘q — bu oddiy najas yig‘ish",
+  "Asosiysi — laboratoriyaga kechikmasdan yetkazish"
+ ],
+ "after": [
+  "Ich ketganda tez-tez, oz-ozdan suv iching",
+  "Mikrob topilsa, laboratoriya unga qaysi dorilar ta’sir qilishini ko‘rsatadi",
+  "Davolashni shifokor buyuradi"
+ ],
+ "red_flags": [
+  "Najasda qon, yuqori harorat, qorinda kuchli og‘riq bo‘lsa — o‘sha kuni shifokorga",
+  "Suvsizlanish belgilari: og‘iz qurishi, siydik kamayishi, kuchli holsizlik — shoshilinch shifokorga",
+  "Hushdan ketish yoki ongning chalkashishi bo‘lsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Natija nega shuncha kech chiqadi?",
+   "a": "Mikroblar avval laboratoriyada o‘sishi kerak. Bunga bir necha kun ketadi."
+  },
+  {
+   "q": "Najasni kechqurun yig‘ib, ertalab topshirsa bo‘ladimi?",
+   "a": "Odatda yangi najas kerak. Boshqa iloji bo‘lmasa, qanday saqlashni laboratoriyadan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga najas ekmasi. Steril idishni tayyorlang va najasni yig‘ishdan keyin laboratoriyaga tez olib boring."
+  }
+ ]
+}

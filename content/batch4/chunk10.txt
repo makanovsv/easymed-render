@@ -1,0 +1,29 @@
+cardio_rehab|rehab|Кардиореабилитация|Cardiac rehabilitation|rehab_room|L|3
+back_rehab|rehab|Лечебная гимнастика при боли в спине|Exercise therapy for back pain|rehab_room|L|1
+kinesio|rehab|Кинезиотейпирование|Kinesiology taping|rehab_room|L|2
+electro|rehab|Электрофорез|Electrophoresis|rehab_room|L|2
+magnet|rehab|Магнитотерапия|Magnetic therapy|rehab_room|L|2
+ultrasound_ther|rehab|Ультразвуковая терапия|Therapeutic ultrasound|rehab_room|L|3
+laser_ther|rehab|Лазеротерапия|Low-level laser therapy|rehab_room|L|3
+hydro|rehab|Гидрокинезотерапия (бассейн)|Hydrotherapy|rehab_room|L|3
+kids_massage|rehab|Массаж ребёнку|Massage for a baby|rehab_room|L|1
+speech|rehab|Занятия с логопедом|Speech therapy|office|L|2
+ot|rehab|Эрготерапия|Occupational therapy|rehab_room|L|3
+acupuncture|rehab|Иглорефлексотерапия|Acupuncture|rehab_room|L|2
+manual|rehab|Мануальная терапия|Manual therapy|rehab_room|M|2
+neurologist|visit|Приём невролога|Neurology consultation|office|L|1
+endocrinologist|visit|Приём эндокринолога|Endocrinology consultation|office|L|1
+gastro|visit|Приём гастроэнтеролога|Gastroenterology consultation|office|L|1
+pulmonologist|visit|Приём пульмонолога|Pulmonology consultation|office|L|2
+allergist|visit|Приём аллерголога|Allergy consultation|office|L|2
+rheumatologist|visit|Приём ревматолога|Rheumatology consultation|office|L|2
+nephrologist|visit|Приём нефролога|Nephrology consultation|office|L|3
+hematologist|visit|Приём гематолога|Haematology consultation|office|L|3
+oncologist|visit|Приём онколога|Oncology consultation|office|L|2
+surgeon|visit|Приём хирурга|Surgical consultation|office|L|1
+orthopedist|visit|Приём травматолога-ортопеда|Orthopaedic consultation|office|L|1
+psychiatrist|visit|Приём психиатра|Psychiatric consultation|office|L|2
+psychologist|visit|Приём психолога|Psychologist session|office|L|1
+psychotherapist|visit|Приём психотерапевта|Psychotherapy session|office|L|2
+infectious|visit|Приём инфекциониста|Infectious disease consultation|office|L|3
+dermatologist|visit|Приём дерматолога|Dermatology consultation|office|L|1

@@ -1,0 +1,70 @@
+{
+ "title": "Psoriaz bo‘yicha qabul",
+ "also": [
+  "psoriaz",
+  "tangachali temiratki",
+  "psoriaz bo‘yicha dermatolog",
+  "teridagi karashlar"
+ ],
+ "what": "Dermatolog terini, tirnoqlarni va bo‘g‘imlarni ko‘radi va davo tanlaydi. Psoriaz yuqmaydi, uni nazoratda ushlab turish mumkin.",
+ "why": "Teridagi qizil, po‘stlanuvchi toshmalarda, qichishishda, tirnoq o‘zgarishlarida; davoni tanlash va qayta ko‘rib chiqish uchun.",
+ "duration": "qabul odatda 20–30 daqiqa; davo uzoq muddatga tanlanadi",
+ "tell_doctor": [
+  "Toshmalar qachon paydo bo‘lgan va nima ularni yomonlashtiradi",
+  "Qanday malham va dorilarni allaqachon sinab ko‘rgansiz",
+  "Bo‘g‘imlarda og‘riq va shish",
+  "Homiladorlik yoki uni rejalashtirish",
+  "Boshqa kasalliklar va dorilar"
+ ],
+ "prepare": [
+  {
+   "title": "Teri",
+   "text": "Qabuldan bir kun oldin toshmalarga malham surtmang, shifokor terini o‘z holicha ko‘rishi uchun, agar shifokor boshqacha aytmagan bo‘lsa."
+  },
+  {
+   "title": "Surat",
+   "text": "Hozir yaxshilangan bo‘lsa, kuchaygan paytdagi toshmalarni suratga oling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar va malhamlar ro‘yxati",
+  "Oldingi shifokorlarning tahlillari va xulosalari"
+ ],
+ "steps": [
+  "Shifokor belgilar va davo haqida so‘raydi",
+  "Teri, bosh terisi, tirnoqlarni ko‘radi",
+  "Bo‘g‘imlar haqida so‘raydi",
+  "Kerak bo‘lsa, tahlillar buyuradi",
+  "Davoni tanlaydi va qanday foydalanishni tushuntiradi",
+  "Takroriy qabulni belgilaydi"
+ ],
+ "feel": [
+  "Qabul og‘riqsiz",
+  "Ba’zan shifokor ko‘rish uchun tangachalarni ehtiyotkorlik bilan qirib oladi"
+ ],
+ "after": [
+  "Yengillashgan bo‘lsa ham davodan muntazam foydalaning: shifokor aytganidek",
+  "Terini har kuni namlang",
+  "Dorilarni o‘zingiz tashlamang: shifokorga ayting, u hal qiladi"
+ ],
+ "red_flags": [
+  "Teri deyarli butun tanada qizarib ketdi, titroq, isitma: shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Psoriaz yuqumlimi?",
+   "a": "Yo‘q. Uni boshqa odamdan yuqtirib bo‘lmaydi."
+  },
+  {
+   "q": "Psoriazni butunlay davolasa bo‘ladimi?",
+   "a": "To‘liq, odatda yo‘q, lekin davo toshmalarni uzoq vaqtga yo‘qotishga va tinch yashashga yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada dermatolog qabuli. Sinab ko‘rgan malham va dorilar ro‘yxatini oling."
+  }
+ ]
+}

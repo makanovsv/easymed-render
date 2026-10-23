@@ -1,0 +1,72 @@
+{
+ "title": "Ko‘zoynak tanlash",
+ "also": [
+  "ko‘zoynak retsepti",
+  "ko‘zoynak uchun ko‘rishni tekshirish",
+  "o‘qish uchun ko‘zoynak tanlash"
+ ],
+ "what": "Shifokor ko‘rishni tekshirib, aniq va qulay ko‘rinadigan shishalarni tanlaydi. Ko‘zoynak retseptini olasiz.",
+ "why": "Uzoqni yoki yaqinni yomon ko‘ra boshlaganda, ko‘z charchasa, o‘qiganda boshingiz og‘risa.",
+ "duration": "odatda 20–40 daqiqa; retsept darrov beriladi",
+ "tell_doctor": [
+  "Ko‘zoynak nima uchun kerak: yo‘l, kompyuterda ish, o‘qish",
+  "Oldin ko‘zoynak yoki linza taqqanmisiz",
+  "Ko‘z kasalliklari, diabet, bosim",
+  "Bosh og‘rig‘i va ko‘z charchashi"
+ ],
+ "prepare": [
+  {
+   "title": "Linzalar",
+   "text": "Kontakt linza taqsangiz, odatda ularni oldindan yechishadi — necha soat oldin, klinikadan aniqlang."
+  },
+  {
+   "title": "Dam",
+   "text": "Ekranda uzoq ishlagandan keyin kelmagan ma’qul."
+  }
+ ],
+ "bring": [
+  "Eski ko‘zoynak",
+  "Hujjat",
+  "Oldingi ko‘zoynak retsepti, agar bo‘lsa"
+ ],
+ "steps": [
+  "Asbob tegmasdan ko‘zning fokuslanishini o‘lchaydi",
+  "Har bir ko‘z bilan harflar jadvaliga qaraysiz",
+  "Sizga sinov gardishi taqib, shishalarni almashtirishadi",
+  "Qaysi shishada aniqroq ko‘rinishini aytasiz",
+  "Kerak bo‘lsa, yaqinni ko‘rishni tekshirishadi",
+  "Shifokor ko‘zlarni ko‘rib, retsept yozadi"
+ ],
+ "feel": [
+  "Tekshiruv og‘riqsiz",
+  "Ba’zan qaysi shisha yaxshiroq ekanini hal qilish qiyin — bu odatiy, qanday bo‘lsa shunday ayting"
+ ],
+ "after": [
+  "Retsept bilan optikaga boring",
+  "Yangi ko‘zoynakka odatda bir necha kunda ko‘nikiladi",
+  "Agar 1–2 haftadan keyin ham noqulay bo‘lsa — shifokorga qaytib boring"
+ ],
+ "red_flags": [
+  "Ko‘rish keskin yomonlashsa, ko‘z oldida yaltirashlar, dog‘lar yoki «parda» paydo bo‘lsa — darrov ko‘z shifokoriga"
+ ],
+ "faq": [
+  {
+   "q": "Tekshirmasdan ko‘zoynak sotib olsa bo‘ladimi?",
+   "a": "Tayyor ko‘zoynak ko‘zlar orasidagi farq va boshqa xususiyatlarni hisobga olmaydi. Shifokorda tanlagan yaxshi."
+  },
+  {
+   "q": "Ko‘rishni qanchalik tez-tez tekshirish kerak?",
+   "a": "Odatda 1–2 yilda bir marta yoki shifokor aytganidek."
+  },
+  {
+   "q": "Yangi ko‘zoynakda nega boshim aylanadi?",
+   "a": "Ko‘zlar ko‘nikishi kerak, odatda bir necha kun."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "2 soatdan keyin ko‘zoynak tanlash. Eski ko‘zoynagingizni oling."
+  }
+ ]
+}

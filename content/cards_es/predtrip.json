@@ -1,0 +1,72 @@
+{
+ "title": "Revisión médica del conductor antes de salir",
+ "also": [
+  "revisión antes de salir a ruta",
+  "examen médico del conductor",
+  "chequeo del conductor antes del viaje",
+  "revisión médica previa al turno"
+ ],
+ "what": "Una revisión corta del conductor antes de salir: presión, pulso y que no haya tomado alcohol. Se hace antes de cada viaje.",
+ "why": "Para conductores que manejan vehículos de la empresa: antes de cada viaje o turno.",
+ "duration": "normalmente de 3 a 5 minutos",
+ "tell_doctor": [
+  "Si te sientes mal, con dolor de cabeza o mareo",
+  "Si tomaste medicamentos, sobre todo calmantes, para alergia o para la tos",
+  "Cómo dormiste"
+ ],
+ "prepare": [
+  {
+   "title": "Sueño",
+   "text": "Duerme bien antes del viaje."
+  },
+  {
+   "title": "Alcohol",
+   "text": "La víspera no tomes. Incluso el alcohol de la noche puede detectarse en la mañana."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Algunos afectan los reflejos. Dile al personal qué tomas, pero no los suspendas por tu cuenta."
+  }
+ ],
+ "bring": [
+  "Tu documento de identidad o credencial de trabajo",
+  "La hoja de ruta",
+  "Lentes, si los necesitas para manejar"
+ ],
+ "steps": [
+  "Entras al consultorio de revisión",
+  "El personal te pregunta cómo te sientes",
+  "Te mide la presión y el pulso",
+  "Soplas en el alcoholímetro",
+  "A veces revisan tus reflejos o te exploran",
+  "Si todo está bien, sellan tu hoja de ruta"
+ ],
+ "feel": [
+  "Todo es rápido y sin dolor",
+  "Si estás nervioso, la presión puede salir un poco más alta: el personal lo tomará en cuenta"
+ ],
+ "after": [
+  "Con el sello puedes salir a ruta",
+  "Si no te autorizan, no manejes y avísale a tu jefe",
+  "Si te sientes mal en el camino, detente"
+ ],
+ "red_flags": [
+  "Dolor opresivo en el pecho, debilidad repentina o problemas para hablar: detente y llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué pasa si tengo la presión alta?",
+   "a": "El personal puede no autorizarte a salir y mandarte con un médico. Es por tu seguridad."
+  },
+  {
+   "q": "¿El alcoholímetro detecta el enjuague bucal?",
+   "a": "A veces sí. Espera un poco y repite la prueba: normalmente se hace así."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Mañana tienes viaje. Duerme bien y no tomes alcohol: en la mañana te hacen la revisión médica."
+  }
+ ]
+}

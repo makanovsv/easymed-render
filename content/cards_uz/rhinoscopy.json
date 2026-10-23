@@ -1,0 +1,68 @@
+{
+ "title": "Burun endoskopiyasi",
+ "also": [
+  "burun endoskopiyasi",
+  "burun-halqum endoskopiyasi",
+  "burunni kamera bilan ko‘rish",
+  "rinoskopiya"
+ ],
+ "what": "LOR shifokor burun va burun-halqumni ichkaridan kamerali ingichka naycha bilan ko‘radi.",
+ "why": "Uzoq davom etgan tumov, burun bitishi, burundan qon ketishi, xurrak, polip yoki adenoidga shubha bo‘lganda, burun jarohatidan keyin.",
+ "duration": "odatda 5–10 daqiqa; natijani shifokor darhol aytadi",
+ "tell_doctor": [
+  "Burundan tez-tez qon ketsa",
+  "Qonni suyultiruvchi dorilar",
+  "Mahalliy og‘riqsizlantiruvchilarga allergiya",
+  "Yaqinda burunda operatsiya bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Ovqat yeb, suv ichsa bo‘ladi."
+  },
+  {
+   "title": "Muolajadan oldin",
+   "text": "Burningizni qoqing. Shifokor aytmagan bo‘lsa, muolajadan oldin o‘zingiz tomir toraytiruvchi tomchi ishlatmang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Sinuslarning oldingi rasmlari va LOR xulosalari"
+ ],
+ "steps": [
+  "Siz kreslaga o‘tirasiz, boshingiz biroz orqaga egiladi",
+  "Burunga og‘riqsizlantiruvchi va shishni kamaytiruvchi vosita purkashadi yoki qo‘yishadi",
+  "Bir necha daqiqadan keyin shifokor burunga ingichka naycha kiritadi",
+  "Burun yo‘llari va burun-halqumni ko‘radi, tasvir ekranda",
+  "Naychani olishadi"
+ ],
+ "feel": [
+  "Spreydan sovuq va uvishish, ba’zan tomoqda achchiqlik",
+  "Burunda bosim, aksa urgisi keladi",
+  "Ko‘zdan yosh oqadi: bu tabiiy"
+ ],
+ "after": [
+  "Uvishish 15–30 daqiqada o‘tadi",
+  "Darhol ishlaringizga ketsangiz bo‘ladi",
+  "Shifokor odatda nimani ko‘rganini darhol tushuntiradi"
+ ],
+ "red_flags": [
+  "15–20 daqiqa to‘xtamaydigan burun qon ketishi: 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Bu og‘riqlimi?",
+   "a": "Odatda yo‘q: burun og‘riqsizlantiriladi. His-tuyg‘u yoqimsiz, lekin chidasa bo‘ladi."
+  },
+  {
+   "q": "Bolaga qilsa bo‘ladimi?",
+   "a": "Ha, bolalar uchun ingichka naychalar bor. Bola uchun xotirjam o‘tirish muhim, ota-ona odatda yonida."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada burun endoskopiyasi. Qabuldan oldin burningizni qoqing va oldingi rasmlarni oling, agar bor bo‘lsa."
+  }
+ ]
+}

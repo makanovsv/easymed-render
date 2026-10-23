@@ -1,0 +1,78 @@
+{
+ "title": "Bo‘g‘im MRTsi",
+ "also": [
+  "tizza MRTsi",
+  "yelka MRTsi",
+  "son bo‘g‘imi MRTsi",
+  "to‘piq MRTsi"
+ ],
+ "what": "Bo‘g‘imning magnit maydondagi suratlari: paylar, menisklar, tog‘ay va mushaklar ko‘rinadi. Nurlanish yo‘q.",
+ "why": "Bo‘g‘imda og‘riq, shish yoki beqarorlikda, jarohatdan keyin, pay yoki meniskning uzilishiga shubha bo‘lganda.",
+ "duration": "odatda 20–30 daqiqa",
+ "tell_doctor": [
+  "Yurak stimulyatori, defibrillyator yoki elektronikali boshqa implant",
+  "Tanadagi metall: protezlar, plastinkalar, tomirlardagi klipsalar, parchalar",
+  "Eshitish implanti, insulin nasosi",
+  "Homiladorlik",
+  "Yopiq joydan qo‘rqish",
+  "Kontrast bilan bo‘lsa — buyrak kasalliklari va kontrastga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Metall",
+   "text": "Uyda taqinchoq, pirsing, soatni yeching. Kabinetga metall olib kirish mumkin emas."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay, metallsiz: zamok, tugma va ichki kiyimda suyaksiz. Ko‘pincha bir martalik kiyim berishadi."
+  },
+  {
+   "title": "Kosmetika",
+   "text": "Yaltiroq tush va soya surtmang — ularda metall zarralari bo‘ladi."
+  },
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda alohida kerak emas. Odatdagidek yeb-ichsangiz bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi MRT, KT suratlari va xulosalari",
+  "Implantlar hujjatlari, agar bo‘lsa",
+  "Elastik bint yoki ortez, agar taqsangiz — uni vaqtincha yechishadi"
+ ],
+ "steps": [
+  "Siz telefon, kalit, kartalar va barcha metall narsalarni shkafchada qoldirasiz",
+  "Apparat stoliga yotasiz, sizga quloqchin yoki quloq tiqini berishadi — apparat shovqin qiladi",
+  "Bo‘g‘im g‘altakka qo‘yiladi va yumshoq valiklar bilan mahkamlanadi",
+  "Stol apparat tunneliga kiradi",
+  "Qimirlamay yotish kerak; shifokor siz bilan aloqa orqali gaplashadi",
+  "Qo‘lingizda chaqiruv tugmasi bor: uni istalgan paytda bosish mumkin"
+ ],
+ "feel": [
+  "Qattiq taqillash va guvillash — bu normal",
+  "Ba’zan suratga olinayotgan tana qismida yengil issiqlik",
+  "Kontrast yuborilsa — tomirda salqinlik, tez o‘tib ketadi"
+ ],
+ "after": [
+  "Darrov odatdagi ishlaringizga qaytishingiz mumkin",
+  "Xulosa odatda o‘sha kuni yoki 1–2 kundan keyin tayyor bo‘ladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Jarohatdan keyin darrov MRT qilsa bo‘ladimi?",
+   "a": "Ha, shifokor zarur deb hisoblasa. Lekin kuchli shishda ba’zan bir necha kun kutishni maslahat berishadi."
+  },
+  {
+   "q": "Apparatga butunlay kirish kerakmi?",
+   "a": "Tizza yoki to‘piq MRTsida odatda tunnelga faqat oyoqlar kiradi, bosh tashqarida qoladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bo‘g‘im MRTsi. Uyda taqinchoqlarni yeching, metallsiz kiyim kiying. Oldingi suratlarni oling."
+  }
+ ]
+}

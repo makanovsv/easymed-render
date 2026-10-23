@@ -1,0 +1,80 @@
+{
+ "title": "Gisteroskopiya",
+ "also": [
+  "bachadon bo‘shlig‘ini ko‘rish",
+  "ofis gisteroskopiyasi",
+  "biopsiya bilan gisteroskopiya"
+ ],
+ "what": "Shifokor bachadonni ichidan kameraga ega ingichka nay bilan ko‘radi. U bachadon bo‘yni orqali kiritiladi, kesmalarsiz. Darrov tahlil olish yoki poliplarni olib tashlash mumkin.",
+ "why": "Hayzlar orasida qon ketishda, ko‘p hayzda, poliplarda, bepushtlikda, EKO ning muvaffaqiyatsiz urinishlarida, menopauzadan keyingi qonli ajralmalarda.",
+ "duration": "ko‘rik odatda 10–30 daqiqa, davolash bilan uzoqroq; uyga odatda o‘sha kuni ketasiz",
+ "tell_doctor": [
+  "Homiladorlik mumkinmi",
+  "Qonni suyultiruvchi dorilar",
+  "Dorilarga allergiya",
+  "Hozir ajralma, qichishish, og‘riq bo‘lsa — infeksiya bo‘lishi mumkin",
+  "Yurak kasalliklari, diabet"
+ ],
+ "prepare": [
+  {
+   "title": "Qachon",
+   "text": "Odatda siklning birinchi yarmida, hayz tugagandan bir necha kun keyin qilinadi. Kunni shifokor belgilaydi."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Odatda surtma va qon tahlillari kerak, ro‘yxatni klinika beradi."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Qisqa ko‘rik ba’zan narkozsiz, davolovchi — vena ichiga narkoz bilan qilinadi. Sizda qanday bo‘lishini shifokor aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Narkoz bilan bo‘lsa — odatda 6 soat ovqat yemang va ichmang. Aniq vaqtni klinika aytadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va tahlillar",
+  "Prokladkalar",
+  "Narkoz bilan bo‘lsa, hamroh"
+ ],
+ "steps": [
+  "Siydik pufagini bo‘shatib, ginekologik kreslaga yotasiz",
+  "Narkoz bilan bo‘lsa — venaga dori yuboriladi, uxlab qolasiz",
+  "Shifokor ko‘zgu kiritib, bo‘yinchani ishlaydi",
+  "Bo‘yincha orqali kamerali ingichka nay kiritiladi va bachadonni yoyish uchun suyuqlik beriladi",
+  "Shifokor bachadonni ko‘radi, kerak bo‘lsa tahlil oladi yoki polipni olib tashlaydi"
+ ],
+ "feel": [
+  "Narkozsiz — hayzdagidek tortuvchi og‘riq; shifokorga ayting",
+  "Narkoz ostida — odatda hech narsa sezmaysiz va eslamaysiz",
+  "Keyin — qorin pastida yengil spazmlar"
+ ],
+ "after": [
+  "Bir necha kun dog‘li qonli ajralmalar — odatiy",
+  "Odatda 2 haftagacha jinsiy aloqasiz, tamponsiz, vannasiz, basseynsiz va hammomsiz. Muddatni shifokor aytadi",
+  "Narkozdan keyin kun oxirigacha mashina haydab bo‘lmaydi",
+  "Tahlil natijasi — odatda 1–2 haftada"
+ ],
+ "red_flags": [
+  "Kuchli qon ketish — prokladka bir soatda ho‘l bo‘lsa",
+  "Harorat 38 dan yuqori, qorinda kuchli og‘riq",
+  "Yoqimsiz hidli ajralma"
+ ],
+ "faq": [
+  {
+   "q": "Gisteroskopiya og‘riqlimi?",
+   "a": "Narkozsiz — noqulay, kuchli hayzga o‘xshaydi, lekin odatda chidasa bo‘ladi. Qo‘rqsangiz, narkoz haqida so‘rang."
+  },
+  {
+   "q": "Gisteroskopiyadan keyin homilador bo‘lsa bo‘ladimi?",
+   "a": "Ha. Gisteroskopiya ko‘pincha aynan homilador bo‘lishga yordam berish uchun qilinadi. Qachon rejalashtirishni shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga gisteroskopiya. Tahlillar va prokladkani oling. Narkoz bilan bo‘lsa — klinika aytgan vaqtdan boshlab yemang va ichmang."
+  }
+ ]
+}

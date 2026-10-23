@@ -1,0 +1,78 @@
+{
+ "title": "Cirurgia de retalho na gengiva",
+ "also": [
+  "cirurgia de retalho",
+  "cirurgia periodontal",
+  "raspagem a campo aberto",
+  "cirurgia na gengiva"
+ ],
+ "what": "O dentista descola a gengiva com cuidado e limpa as raízes dos dentes, tirando tártaro e inflamação. Depois a gengiva volta ao lugar e recebe pontos.",
+ "why": "Na doença da gengiva com bolsas fundas, quando a limpeza comum não ajuda.",
+ "duration": "normalmente 1 a 2 horas",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue. O dentista diz o que suspender e quando",
+  "Alergias, principalmente a anestésicos e antibióticos",
+  "Diabetes, doenças do coração, pressão alta",
+  "Se você fuma",
+  "Se está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Limpeza",
+   "text": "Antes da cirurgia, normalmente se faz uma limpeza profissional dos dentes."
+  },
+  {
+   "title": "Comida",
+   "text": "Coma 1 a 2 horas antes da cirurgia."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Sem álcool. É melhor parar de fumar antes. Pergunte ao dentista."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Radiografias dos dentes",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Fazem anestesia com injeção",
+  "O dentista faz cortes pequenos e descola a gengiva",
+  "Tira o tártaro e o tecido inflamado das raízes",
+  "Às vezes coloca um material para recuperar o osso",
+  "A gengiva volta ao lugar e recebe pontos"
+ ],
+ "feel": [
+  "A injeção incomoda; depois, pressão e barulho dos instrumentos",
+  "Depois, dor e inchaço por alguns dias. Dão analgésico",
+  "Os dentes podem ficar sensíveis ao frio"
+ ],
+ "after": [
+  "Gelo no rosto nas primeiras horas, com pausas",
+  "Comida macia e não quente por alguns dias",
+  "Não escove a área da cirurgia até o dentista liberar",
+  "Faça bochechos como o dentista receitou",
+  "Os pontos normalmente saem em 1 a 2 semanas"
+ ],
+ "red_flags": [
+  "Sangramento que não para apertando com um lenço",
+  "Febre acima de 38 °C, inchaço aumentando depois do 3º dia",
+  "Inchaço indo para o pescoço, dificuldade para engolir ou respirar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que a gengiva baixou depois da cirurgia?",
+   "a": "Isso acontece quando a inflamação vai embora. O dentista diz o que pode ser feito."
+  },
+  {
+   "q": "Posso fumar depois?",
+   "a": "É melhor não: o cigarro piora a cicatrização da gengiva."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia na gengiva. Sem álcool. Coma 1 a 2 horas antes. Remédios como o dentista disse."
+  }
+ ]
+}

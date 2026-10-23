@@ -1,0 +1,85 @@
+{
+ "title": "Insulin pump: setup and changing the infusion set",
+ "also": [
+  "insulin pump",
+  "diabetes pump",
+  "pump infusion set change",
+  "pump setup",
+  "infusion set"
+ ],
+ "what": "A pump is a small device that delivers insulin under your skin in small amounts through a thin tube. You change the catheter in your skin yourself every few days.",
+ "why": "For diabetes, when your doctor has decided to switch you from injections to a pump.",
+ "duration": "changing a set usually takes 10 to 15 minutes; the first training at the clinic takes a few hours",
+ "tell_doctor": [
+  "If your sugar is often too low or too high",
+  "If redness or hard lumps appear at the set sites",
+  "If you cannot see the pump screen well or find small parts hard to handle",
+  "If you plan a trip, sports or a pregnancy"
+ ],
+ "prepare": [
+  {
+   "title": "Training",
+   "text": "The first insertion and setup are usually done with a doctor or nurse. Only your doctor sets the doses."
+  },
+  {
+   "title": "Supplies",
+   "text": "Keep a stock at home of sets, reservoirs, batteries and an insulin pen in case the pump breaks."
+  },
+  {
+   "title": "When to change",
+   "text": "Change the set in the daytime, when you can check your sugar 2 to 3 hours later. Not before bed."
+  },
+  {
+   "title": "Cleanliness",
+   "text": "Wash your hands and put the antiseptic and everything you need on a clean table."
+  }
+ ],
+ "bring": [
+  "The pump and a new infusion set",
+  "A reservoir and insulin",
+  "A glucose meter",
+  "A sugar diary or app"
+ ],
+ "steps": [
+  "Wash your hands and check the expiry dates of the insulin and the set",
+  "Fill a new reservoir with insulin without air bubbles",
+  "Put the reservoir in the pump and fill the tubing as you were taught, until a drop shows at the end",
+  "Choose a new spot on your belly or another site, away from the last one",
+  "Wipe the skin with antiseptic and let it dry",
+  "Insert the catheter with the inserter and remove the guide needle",
+  "Fill the cannula from the pump menu, if your model needs it",
+  "Check your sugar after 2 to 3 hours"
+ ],
+ "feel": [
+  "A short prick when the catheter goes in",
+  "In the first days the pump on your body feels strange, then you barely notice it"
+ ],
+ "after": [
+  "Change the set usually every 2 to 3 days - the time is in the set's instructions",
+  "Write down set changes and sugar",
+  "Always carry sweets and a spare insulin pen",
+  "Show your pump data to your doctor regularly"
+ ],
+ "red_flags": [
+  "High sugar that does not come down after a correction - change the set and call your doctor",
+  "Nausea, vomiting, smell of acetone or severe thirst - see a doctor urgently, and if you get worse, call your local emergency number",
+  "Redness, pain or pus at the set site",
+  "The person is unconscious or having seizures - call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Can I shower with the pump?",
+   "a": "Usually the pump is disconnected for a shower. Whether you can use it in water is in the instructions for your model."
+  },
+  {
+   "q": "What if the pump breaks?",
+   "a": "Switch to injections with a pen, using the backup plan from your doctor. If you have no plan, call your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pump set change today. Do it in the daytime and check your sugar after 2 to 3 hours."
+  }
+ ]
+}

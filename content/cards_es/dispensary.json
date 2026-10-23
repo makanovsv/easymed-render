@@ -1,0 +1,74 @@
+{
+ "title": "Seguimiento médico de una enfermedad crónica",
+ "also": [
+  "control de enfermedad crónica",
+  "seguimiento de enfermos crónicos",
+  "consulta de control",
+  "seguimiento médico regular"
+ ],
+ "what": "Visitas regulares al médico con una enfermedad crónica. El médico revisa cómo va el tratamiento y evita que la enfermedad empeore.",
+ "why": "Con presión alta, diabetes, enfermedades del corazón, de los pulmones, de los riñones y otras enfermedades crónicas.",
+ "duration": "la visita suele durar de 15 a 30 minutos, normalmente de 1 a 4 veces al año, según el plan del médico",
+ "tell_doctor": [
+  "Cómo te has sentido desde la última visita",
+  "Si tomas los medicamentos y cómo los toleras",
+  "Si hubo crisis, llamadas a emergencias, hospital",
+  "Molestias nuevas"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Antes de la visita muchas veces hay que hacer análisis. Pregunta cuáles y cuándo."
+  },
+  {
+   "title": "Diario",
+   "text": "Lleva los registros de presión, azúcar o cómo te sientes."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "Tómalos como siempre. No los suspendas por tu cuenta."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "El diario de presión o azúcar",
+  "Análisis recientes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta cómo te sientes",
+  "Mide la presión, el peso y otros valores",
+  "Revisa los análisis",
+  "Decide si deja el tratamiento o lo cambia",
+  "Escribe las recetas",
+  "Te da la fecha de la siguiente visita"
+ ],
+ "feel": [
+  "La visita no duele",
+  "Si sacan sangre, un pinchazo breve"
+ ],
+ "after": [
+  "Ven en las fechas indicadas, aunque estés bien",
+  "Anota tus preguntas para la siguiente visita",
+  "No suspendas los medicamentos por tu cuenta"
+ ],
+ "red_flags": [
+  "Empeoramiento brusco de la enfermedad, dolor fuerte en el pecho, falta de aire: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Para qué ir si me siento bien?",
+   "a": "Así el médico nota el empeoramiento antes de que tú lo sientas."
+  },
+  {
+   "q": "¿Se puede salir del seguimiento?",
+   "a": "Lo decide el médico, normalmente si la enfermedad se curó o no se manifiesta desde hace mucho."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes la visita programada con el médico. Lleva el diario de registros y los análisis recientes."
+  }
+ ]
+}

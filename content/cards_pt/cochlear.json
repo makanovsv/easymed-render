@@ -1,0 +1,85 @@
+{
+ "title": "Implante coclear",
+ "also": [
+  "implante coclear",
+  "ouvido biônico",
+  "cirurgia para surdez",
+  "implante auditivo"
+ ],
+ "what": "O cirurgião coloca um aparelho embaixo da pele atrás da orelha e um eletrodo fino no ouvido interno. Por fora, usa-se um processador que transmite os sons.",
+ "why": "Para perda auditiva grave, quando os aparelhos auditivos não ajudam.",
+ "duration": "a cirurgia leva normalmente de 2 a 3 horas; a internação, alguns dias; a ativação, algumas semanas depois",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias",
+  "Doenças crônicas",
+  "Se já teve problemas com anestesia",
+  "Para crianças: todas as vacinas, principalmente a pneumocócica. O médico vai orientar"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exame de audição, tomografia ou ressonância e exames de sangue. A clínica passa a lista."
+  },
+  {
+   "title": "Vacinas",
+   "text": "Antes da cirurgia normalmente são necessárias as vacinas que o médico indicar."
+  },
+  {
+   "title": "Comida",
+   "text": "A clínica vai dizer quanto tempo ficar sem comer antes da anestesia."
+  },
+  {
+   "title": "Roupas",
+   "text": "Roupas que não precisam passar pela cabeça."
+  }
+ ],
+ "bring": [
+  "Documentos e pedido médico",
+  "Resultados dos exames",
+  "Lista de remédios",
+  "Coisas para o hospital"
+ ],
+ "steps": [
+  "Colocam um acesso na veia",
+  "O anestesista aplica anestesia geral",
+  "O cirurgião faz um corte atrás da orelha",
+  "Coloca o implante e introduz o eletrodo no ouvido interno",
+  "Testa o funcionamento do implante",
+  "O corte é fechado e coberto com curativo"
+ ],
+ "feel": [
+  "Depois da anestesia: sonolência, às vezes enjoo",
+  "Dor atrás da orelha; dão analgésico",
+  "Nos primeiros dias pode haver tontura ou zumbido"
+ ],
+ "after": [
+  "Os pontos são retirados ou se dissolvem sozinhos. O cirurgião vai dizer",
+  "O processador é ligado e regulado algumas semanas depois",
+  "As regulagens são repetidas algumas vezes",
+  "As sessões com o fonoaudiólogo são muito importantes para o resultado",
+  "Antes de qualquer ressonância, sempre avise que tem implante"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, pus ou inchaço atrás da orelha",
+  "Dor de cabeça forte, vômito ou pescoço duro: ligue para a emergência",
+  "Tontura forte",
+  "Fraqueza nos músculos do rosto"
+ ],
+ "faq": [
+  {
+   "q": "Vai ouvir logo de cara?",
+   "a": "Os sons aparecem depois que o processador é ligado. Entender a fala se aprende aos poucos."
+  },
+  {
+   "q": "Pode tomar banho com o implante?",
+   "a": "A parte interna não tem problema com água. O processador é tirado ou se usa uma proteção."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o implante coclear. Leve documentos e suas coisas. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

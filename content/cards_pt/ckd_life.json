@@ -1,0 +1,75 @@
+{
+ "title": "Doença renal crônica: dieta e controle",
+ "also": [
+  "doença renal crônica",
+  "DRC",
+  "insuficiência renal",
+  "dieta para os rins"
+ ],
+ "what": "Na doença renal crônica, os rins limpam o sangue pior. Alimentação, controle da pressão e exames ajudam a frear a doença.",
+ "why": "Se o médico encontrou doença renal crônica, muitas vezes junto com diabetes ou pressão alta.",
+ "duration": "os exames de controle costumam ser feitos a cada alguns meses",
+ "tell_doctor": [
+  "Todos os remédios e suplementos: alguns fazem mal aos rins",
+  "Se apareceu inchaço, pouca urina ou a cor da urina mudou",
+  "Se você vai fazer um exame com contraste",
+  "Antes de qualquer remédio novo"
+ ],
+ "prepare": [
+  {
+   "title": "Analgésicos",
+   "text": "Não tome analgésicos nem ervas sem orientação do médico: alguns fazem mal aos rins."
+  },
+  {
+   "title": "Alimentação",
+   "text": "O médico vai dizer quanto sal, proteína, potássio e líquido você pode. Isso depende da fase da doença."
+  },
+  {
+   "title": "Pressão e glicose",
+   "text": "Mantenha nos números que o médico indicou."
+  }
+ ],
+ "bring": [
+  "Resultados dos exames de sangue e urina",
+  "Lista de remédios",
+  "Diário da pressão"
+ ],
+ "steps": [
+  "Menos sal: não acrescente sal e evite embutidos, enlatados e salgadinhos",
+  "Proteína na quantidade que o médico indicou",
+  "Se o médico limitou o potássio, descubra quais alimentos têm muito",
+  "Beba a quantidade de líquido que o médico disser",
+  "Meça a pressão e anote",
+  "Faça os exames de sangue e urina conforme o calendário"
+ ],
+ "feel": [
+  "No começo, muitas vezes não há nenhum sintoma",
+  "Mais tarde pode haver fraqueza, coceira e inchaço. Conte ao médico"
+ ],
+ "after": [
+  "Mostre os resultados dos exames ao médico",
+  "Diga a todo médico que você tem doença nos rins",
+  "Pergunte quais vacinas você precisa"
+ ],
+ "red_flags": [
+  "Muito pouca urina ou quase nada por quase um dia: procure o médico com urgência",
+  "Falta de ar forte ou inchaço aumentando: ligue para a emergência",
+  "Fraqueza forte ou batimentos irregulares: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A doença renal tem cura?",
+   "a": "Muitas vezes dá para frear. Quanto mais cedo começa o tratamento, melhor."
+  },
+  {
+   "q": "Preciso beber muita água?",
+   "a": "Nem sempre. Em algumas fases a água é até limitada. Pergunte ao médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã são os exames dos rins. Leve o pedido e o diário da pressão."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "title": "Siydik ekmasi",
+ "also": [
+  "siydikning bakteriologik ekmasi",
+  "floraga siydik ekmasi",
+  "antibiotiklarga sezgirlik bilan siydik ekmasi"
+ ],
+ "what": "Siydik oziqa muhitiga solinadi va mikroblar o‘sishi-o‘smasligi kuzatiladi. O‘ssa, ularga qaysi antibiotiklar ta’sir qilishi tekshiriladi.",
+ "why": "Achishish va tez-tez siyishda, buyrak yoki siydik pufagi infeksiyasi gumon qilinganda, homiladorlikda, davolashdan keyingi nazorat uchun.",
+ "duration": "yig‘ish — bir necha daqiqa, natija odatda 3–7 kunda",
+ "tell_doctor": [
+  "So‘nggi 2 haftada antibiotik ichgan-ichmaganingizni — bu natijani buzishi mumkin",
+  "Homiladorlik",
+  "Hozir hayz ketayotgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Antibiotiklar",
+   "text": "Ekmani odatda antibiotik boshlashdan oldin topshirishadi. Allaqachon ichayotgan bo‘lsangiz, shifokorga ayting, u hal qiladi."
+  },
+  {
+   "title": "Idish",
+   "text": "Dorixona yoki klinikadan steril idish oling. Uni oldindan ochmang va ichiga tegmang."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Ertalabki birinchi siydik yaxshiroq. Uni odatda 1–2 soat ichida laboratoriyaga yetkazish kerak. Klinikadan so‘rang."
+  }
+ ],
+ "bring": [
+  "Siydikli idish",
+  "Yo‘llanma"
+ ],
+ "steps": [
+  "Ertalab qo‘lingiz va tashqi jinsiy a’zolaringizni antiseptiksiz suv bilan yuving",
+  "Ayollar — jinsiy yo‘l kirish qismini paxta tampon bilan yoping",
+  "Birinchi oz porsiyani hojatxonaga to‘king",
+  "O‘rta porsiyani chetlariga tegmasdan idishga yig‘ing",
+  "Qolganini hojatxonaga to‘king",
+  "Qopqoqni mahkam yoping va idishga ismingizni yozing"
+ ],
+ "feel": [
+  "Yoqimsiz hech narsa yo‘q — bu oddiy siydik yig‘ish"
+ ],
+ "after": [
+  "Idishni imkon qadar tezroq laboratoriyaga olib boring",
+  "Topshirguncha salqin joyda saqlang, muzlatmang",
+  "Antibiotik tanlangan natijani shifokorga ko‘rsating"
+ ],
+ "red_flags": [
+  "Titroq va belda og‘riq bilan 38 dan yuqori harorat",
+  "Siydikda qon, kuchli og‘riq, siydik chiqmasa"
+ ],
+ "faq": [
+  {
+   "q": "O‘rta porsiya siydikni nega yig‘ish kerak?",
+   "a": "Birinchi porsiyada teridagi mikroblar bo‘ladi. O‘rta porsiya toza, natija esa aniqroq."
+  },
+  {
+   "q": "Antibiotik ichib turib siydik ekmasini topshirsa bo‘ladimi?",
+   "a": "Mumkin, lekin natija yolg‘on yaxshi chiqishi mumkin. Antibiotik ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ertalab — siydik ekmasi. Steril idishni tayyorlang va uni oldindan ochmang."
+  }
+ ]
+}

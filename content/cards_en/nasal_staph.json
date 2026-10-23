@@ -1,0 +1,69 @@
+{
+ "title": "Nasal swab for Staphylococcus aureus",
+ "also": [
+  "nasal staph swab",
+  "nose culture",
+  "staph carrier test",
+  "MRSA nasal screen"
+ ],
+ "what": "This is a swab from your nose. It looks for Staphylococcus aureus, a common germ, and checks which medicines work against it.",
+ "why": "Before planned surgery, for health workers, for frequent pimples and boils, or when infection control requires it.",
+ "duration": "the swab takes less than a minute; results usually come in 3 to 5 days",
+ "tell_doctor": [
+  "If you took antibiotics in the past few weeks",
+  "If you use nose ointments or drops",
+  "If you often get boils",
+  "If you have planned surgery soon"
+ ],
+ "prepare": [
+  {
+   "title": "Nose",
+   "text": "For a few hours before the swab, do not rinse your nose or use drops or ointments, unless the doctor said otherwise."
+  },
+  {
+   "title": "Antibiotics",
+   "text": "It is better to do the test before starting antibiotics. If you already take them, do not stop on your own. Tell your doctor."
+  },
+  {
+   "title": "Morning",
+   "text": "The swab is usually taken in the morning. You can have breakfast, but do not gargle. Check with the lab."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID"
+ ],
+ "steps": [
+  "You sit down and tilt your head back a little",
+  "The nurse puts a swab a short way into one nostril",
+  "The swab is turned along the inside of the nose",
+  "The same is done in the other nostril",
+  "The swab is put in a tube"
+ ],
+ "feel": [
+  "It tickles, and you may want to sneeze",
+  "Sometimes your eyes water. It passes right away"
+ ],
+ "after": [
+  "You can go back to your usual day right away",
+  "If staph is found and you have no symptoms, treatment is not always needed. Your doctor decides",
+  "Do not start antibiotic ointments on your own"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is staph in the nose an illness?",
+   "a": "Often not. Many healthy people carry it in the nose with no harm. Treatment is needed only in some cases."
+  },
+  {
+   "q": "Why is this test done before surgery?",
+   "a": "To lower the risk of a wound infection. If the germ is found, the doctor may prescribe a treatment to clear it."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 6,
+   "text": "Nasal swab today. Until then, do not rinse your nose or use nose drops."
+  }
+ ]
+}

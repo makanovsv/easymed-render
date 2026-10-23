@@ -1,0 +1,69 @@
+{
+ "title": "Perfil biofísico fetal",
+ "also": [
+  "perfil biofísico",
+  "perfil biofísico del bebé",
+  "evaluación del bebé por ultrasonido"
+ ],
+ "what": "En el ultrasonido el médico ve cómo respira el bebé, cómo se mueve, qué tono tiene y cuánto líquido amniótico hay alrededor. Muchas veces se hace junto con el monitoreo fetal.",
+ "why": "Normalmente en el tercer trimestre: cuando hay que revisar cómo está el bebé, por ejemplo si el embarazo se pasó de fecha o si se mueve menos.",
+ "duration": "normalmente de 30 a 40 minutos; el resultado es inmediato",
+ "tell_doctor": [
+  "Si el bebé se mueve menos",
+  "Si hay pérdida de líquido o manchado con sangre",
+  "Si tienes presión alta o diabetes",
+  "Qué medicamentos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Antes del estudio conviene comer: un bebé con hambre puede estar quieto. Pregunta en la clínica."
+  },
+  {
+   "title": "Tiempo",
+   "text": "La observación puede tomar hasta media hora, a veces el bebé duerme. Ten paciencia."
+  }
+ ],
+ "bring": [
+  "El carnet de embarazo",
+  "Los resultados de ultrasonidos y monitoreos anteriores",
+  "Agua"
+ ],
+ "steps": [
+  "Te acuestas en la camilla y te ponen gel en el abdomen",
+  "El médico ve al bebé en el ultrasonido",
+  "Busca los movimientos de la respiración, del cuerpo y de los brazos",
+  "Mide la cantidad de líquido amniótico",
+  "Si lo indicaron, te ponen sensores en el abdomen y registran los latidos del corazón"
+ ],
+ "feel": [
+  "No duele",
+  "Acostarse boca arriba puede ser incómodo; puedes pedir que te volteen de lado"
+ ],
+ "after": [
+  "El médico te dice el resultado enseguida, en puntos",
+  "Si los puntos son pocos, pueden repetir el estudio o decidir sobre el parto: lo decide el médico",
+  "En casa vigila los movimientos del bebé"
+ ],
+ "red_flags": [
+  "El bebé casi dejó de moverse: acude enseguida a la maternidad",
+  "Pierdes líquido o sale sangre: llama a emergencias",
+  "Dolor fuerte de abdomen o contracciones regulares"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué el bebé no se movía en el ultrasonido?",
+   "a": "Pudo estar dormido. Normalmente el médico espera o te pide cambiar de posición."
+  },
+  {
+   "q": "¿Qué significa 8 de 10?",
+   "a": "Normalmente es un buen resultado. El médico te lo explicará bien según tu situación."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes el perfil biofísico fetal. Come antes de la cita y lleva tu carnet de embarazo."
+  }
+ ]
+}

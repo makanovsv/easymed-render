@@ -1,0 +1,70 @@
+{
+ "title": "Mammolog qabuli",
+ "also": [
+  "mammolog",
+  "mammolog maslahati",
+  "ko‘krak shifokori",
+  "sut bezlarini ko‘rish"
+ ],
+ "what": "Shifokor sut bezlari va qo‘ltiq ostini ko‘radi va paypaslaydi. Kerak bo‘lsa, UTT yoki mammografiya buyuradi.",
+ "why": "Zichlik paypaslansa, ko‘krak og‘risa, so‘rg‘ichdan ajralma bo‘lsa, profilaktik ko‘rik uchun.",
+ "duration": "odatda 15–30 daqiqa, xulosa darrov",
+ "tell_doctor": [
+  "Aynan nima va qachondan beri bezovta qilayotganini",
+  "So‘nggi hayz boshlangan sanani",
+  "Qon qarindoshlarda ko‘krak yoki tuxumdon saratoni bo‘lsa",
+  "Qanday gormonal preparatlar ichayotganingizni",
+  "Emizayotgan yoki homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Qachon kelgan yaxshi",
+   "text": "Odatda sikl 5–12-kunlari, ko‘krak kamroq shishganda. Menopauzadan keyin — istalgan kun. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Qabuldan oldin",
+   "text": "Ko‘krak va qo‘ltiqqa krem yoki dezodorant surtmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Ikki qismli kiyimda kelgan qulay — faqat yuqorisini yechish kerak bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Oldingi ko‘krak UTTlari va mammogrammalar, agar bo‘lsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar va sog‘liq haqida so‘raydi",
+  "Siz belgacha yechinasiz",
+  "Shifokor ko‘krakni tik turgan va o‘tirgan holda ko‘radi, ba’zan qo‘llarni ko‘tarishni so‘raydi",
+  "Keyin yotgan holda ko‘krak va qo‘ltiqni paypaslaydi",
+  "Shifokor nima topganini tushuntiradi va kerak bo‘lsa, tekshiruv buyuradi"
+ ],
+ "feel": [
+  "Ko‘rik odatda og‘riqsiz",
+  "Ko‘krak sezgir bo‘lsa, yoqimsiz bo‘lishi mumkin — shifokorga ayting"
+ ],
+ "after": [
+  "UTT yoki mammografiya buyurilgan bo‘lsa, siklning qulay kunlariga yoziling",
+  "Uyda oyiga bir marta ko‘krakni o‘zingiz tekshiring — shifokor qanday qilishni ko‘rsatadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Mammologga qaysi yoshdan boshlab borish kerak?",
+   "a": "Profilaktik ko‘riklar odatda muntazam, mammografiya esa 40 yoshdan maslahat beriladi. Shikoyat bo‘lsa — istalgan yoshda."
+  },
+  {
+   "q": "Ko‘krakdagi zichlik doim xavflimi?",
+   "a": "Yo‘q. Zichliklarning ko‘pchiligi yaxshi sifatli. Lekin shifokorga ko‘rsatish shart."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga mammolog qabuli. Oldingi suratlarni oling va ertalab krem hamda dezodorant surtmang."
+  }
+ ]
+}

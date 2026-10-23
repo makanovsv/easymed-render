@@ -1,0 +1,72 @@
+{
+ "title": "Nog‘ora pardani teshish",
+ "also": [
+  "paratsentez",
+  "pardani teshish",
+  "miringotomiya",
+  "quloqni teshish"
+ ],
+ "what": "Shifokor nog‘ora pardada kichik teshik ochadi. U orqali quloqdan yiring yoki suyuqlik chiqadi.",
+ "why": "Kuchli otitda, yiring pardaga bosib og‘riq o‘tmaganda yoki parda orqasida suyuqlik uzoq turib qolganda.",
+ "duration": "muolajaning o‘zi odatda bir necha daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar",
+  "Og‘riq qoldiruvchilarga allergiyalar",
+  "Quloqda operatsiyalar bo‘lganmi",
+  "Bola uchun — qachondan beri og‘riyapti va harorat qanday"
+ ],
+ "prepare": [
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Muolajani odatda mahalliy og‘riqsizlantirish ostida o‘tkazishadi, bolalarga ba’zan narkoz ostida — buni shifokor aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Narkoz bo‘lsa, och turish vaqtini klinika aytadi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Paxta yoki paxta disklar"
+ ],
+ "steps": [
+  "Quloq tomchilar yoki ukol bilan og‘riqsizlantiriladi",
+  "Bemor o‘tiradi yoki yotadi, boshi mahkamlanadi",
+  "Shifokor voronka orqali yoki mikroskop ostida pardani topadi",
+  "Ingichka igna bilan kichik teshik ochadi",
+  "Suyuqlik yoki yiring so‘rib olinadi",
+  "Quloqqa paxta qo‘yiladi"
+ ],
+ "feel": [
+  "Qisqa o‘tkir og‘riq yoki chiqillash bo‘lishi mumkin",
+  "Keyin bosimdan og‘riq odatda tez kamayadi",
+  "Dastlabki kunlari quloqdan ajralma"
+ ],
+ "after": [
+  "Shifokor ruxsat bermaguncha quloqni ho‘llamang",
+  "Tomchilar va dorilar — ko‘rsatma bo‘yicha",
+  "Teshik odatda bir necha kunda o‘zi bitadi"
+ ],
+ "red_flags": [
+  "Harorat tushmasa yoki ko‘tarilsa, kuchli bosh og‘rig‘i",
+  "Quloq orqasida shish va og‘riq",
+  "Kuchli bosh aylanishi, yuzning qiyshayishi — shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Eshitish yomonlashadimi?",
+   "a": "Odatda yo‘q. Teshik kichik va o‘zi bitadi."
+  },
+  {
+   "q": "Nega o‘zi yorilishini kutmaslik kerak?",
+   "a": "Shifokorning ehtiyotkor teshigi yirtilishdan yaxshiroq bitadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "2 soatdan keyin quloqda muolaja. Dorilar ro‘yxatini oling."
+  }
+ ]
+}

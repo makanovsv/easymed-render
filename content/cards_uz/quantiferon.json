@@ -1,0 +1,71 @@
+{
+ "title": "Silga qarshi kvantiferon testi",
+ "also": [
+  "kvantiferon testi",
+  "T-spot",
+  "sil uchun qon tahlili",
+  "IGRA testi",
+  "venadan sil testi"
+ ],
+ "what": "Bu venadan olinadigan qon tahlili. U organizm sil tayoqchasi bilan uchrashganmi-yo‘qmi, shuni ko‘rsatadi.",
+ "why": "Mantu sinamasi o‘rniga yoki u bilan birga, ba’zi davolashlardan oldin, sil bilan og‘rigan bemor bilan aloqada bo‘lganda, ish va o‘qish uchun.",
+ "duration": "qon olish 3–5 daqiqa, natija odatda 2–7 kunda",
+ "tell_doctor": [
+  "Gormonlar yoki immunitetni pasaytiruvchi dorilar qabul qilsangiz",
+  "OIV yoki immunitetni susaytiruvchi boshqa holat bo‘lsa",
+  "Sil bilan og‘rigan bemor bilan aloqa bo‘lgan bo‘lsa",
+  "Avval Mantu yoki Diaskintest qilingan bo‘lsa, ularning natijalari"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa yoki yengil ovqatdan bir necha soat o‘tgach topshiriladi. Laboratoriyadan aniqlab oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima qabul qilayotganingizni shifokorga ayting: u hal qiladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqoriga oson shimariladigan yenglik."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Silga oid oldingi sinama natijalari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Siz o‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsakdan yuqorini jgut bilan bog‘lashadi",
+  "Terini antiseptik bilan artishadi",
+  "Qon bir nechta maxsus probirkaga olinadi",
+  "Ignani olishadi, joyga paxta bosishadi"
+ ],
+ "feel": [
+  "Chimdiganday qisqa sanchiq",
+  "Ba’zan yengil bosh aylanishi: hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda 2–7 kunda",
+  "Ijobiy javob siz kasalsiz degani emas: keyin ftiziatr hal qiladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bu test Mantudan nimasi bilan yaxshi?",
+   "a": "Unga BSJ emlashi ta’sir qilmaydi va qo‘lni ko‘rish uchun ikkinchi marta kelish shart emas."
+  },
+  {
+   "q": "Test ijobiy bo‘lsa, men yuqumlimanmi?",
+   "a": "Shart emas. Test tayoqcha bilan uchrashganingizni ko‘rsatadi. Bu kasallikmi-yo‘qmi, shifokor boshqa tekshiruvlar bilan aniqlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga sil uchun qon tahlili. Och qoringa kelish kerakmi, aniqlab oling."
+  }
+ ]
+}

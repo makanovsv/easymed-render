@@ -1,0 +1,79 @@
+{
+ "title": "Coprocultivo para salmonela y shigella",
+ "also": [
+  "coprocultivo",
+  "cultivo de heces",
+  "prueba de salmonela",
+  "cultivo para bacterias intestinales",
+  "análisis para certificado de salud laboral"
+ ],
+ "what": "Es un análisis de heces: se cultivan en el laboratorio para encontrar microbios intestinales peligrosos y elegir el medicamento.",
+ "why": "Con diarrea con fiebre, sangre o moco; también para el certificado médico de quienes trabajan en cocinas o con niños.",
+ "duration": "juntar la muestra toma unos minutos; el resultado suele estar en 3 a 5 días",
+ "tell_doctor": [
+  "Si tomaste antibióticos en las últimas semanas",
+  "Si hay sangre o moco en las heces",
+  "Si hay enfermos entre tus familiares",
+  "Si necesitas el análisis para el trabajo o un certificado médico"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Consigue un frasco estéril en la farmacia o el laboratorio. Para heces, el que trae una cucharita en la tapa."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "Es mejor hacer el análisis antes de empezar antibióticos. Si ya los tomas, no los dejes por tu cuenta y díselo al médico."
+  },
+  {
+   "title": "Recolección",
+   "text": "Las heces se toman de una superficie limpia, no del excusado. Normalmente no se usan laxantes ni supositorios antes. Pregúntale al médico."
+  },
+  {
+   "title": "Entrega",
+   "text": "Las heces frescas se deben llevar rápido, normalmente en un par de horas. El laboratorio te dirá el tiempo exacto."
+  }
+ ],
+ "bring": [
+  "El frasco con las heces",
+  "La orden médica",
+  "Tu identificación"
+ ],
+ "steps": [
+  "Pon un plástico o papel limpio en el excusado o la bacinica",
+  "Con la cucharita de la tapa toma un poco de heces, de preferencia con moco si lo hay",
+  "Ponlo en el frasco y ciérralo bien",
+  "Ponle nombre al frasco",
+  "Lávate las manos y llévalo de inmediato al laboratorio"
+ ],
+ "feel": [
+  "Nada molesto: es una recolección normal de heces",
+  "Lo importante es no tardarse en llevarlo al laboratorio"
+ ],
+ "after": [
+  "Con diarrea, bebe seguido y poco a poco",
+  "Si encuentran un microbio, el laboratorio mostrará qué medicamentos funcionan contra él",
+  "El tratamiento lo indica el médico"
+ ],
+ "red_flags": [
+  "Sangre en las heces, fiebre alta o dolor fuerte de estómago: ve al médico ese mismo día",
+  "Señales de deshidratación como boca seca, poca orina o mucha debilidad: ve al médico de inmediato",
+  "Desmayo o confusión: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué tarda tanto el resultado?",
+   "a": "Primero los microbios tienen que crecer en el laboratorio. Eso toma varios días."
+  },
+  {
+   "q": "¿Puedo juntar las heces en la noche y entregarlas en la mañana?",
+   "a": "Normalmente se necesitan heces frescas. Si no hay otra opción, pregunta en el laboratorio cómo guardarlas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu coprocultivo. Ten listo el frasco estéril y lleva las heces al laboratorio rápido después de juntarlas."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "title": "Alergia à proteína do leite de vaca no bebê",
+ "also": [
+  "alergia ao leite no bebê",
+  "APLV",
+  "alergia à proteína do leite de vaca",
+  "IgE para proteínas do leite"
+ ],
+ "what": "Colhem um pouco de sangue do bebê e veem se há anticorpos contra as proteínas do leite de vaca. É uma pista para o médico, não a resposta final.",
+ "why": "Se depois da fórmula ou de derivados do leite o bebê tem manchas na pele, vômito, diarreia, sangue nas fezes ou fica muito agitado.",
+ "duration": "a coleta leva normalmente 5 a 10 minutos, o resultado sai normalmente em alguns dias",
+ "tell_doctor": [
+  "O que e quando o bebê comeu antes da reação e como ela foi",
+  "Como você alimenta agora: peito, fórmula, papinhas",
+  "Se o bebê toma remédio para alergia ou usa pomada com corticoide",
+  "Se os pais ou irmãos têm alergia",
+  "Se houve reações graves: inchaço, dificuldade para respirar"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente o bebê não precisa ficar em jejum. Alimente como de costume, se o laboratório não disser outra coisa."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Se o bebê toma remédio para alergia, avise o médico. Ele decide."
+  },
+  {
+   "title": "Diário",
+   "text": "Anote o que o bebê comeu e quais foram as reações. Pode fotografar as manchas."
+  },
+  {
+   "title": "Calma",
+   "text": "Leve o brinquedo preferido, a mamadeira ou a chupeta. Assim o bebê fica mais tranquilo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento do bebê",
+  "Diário alimentar e fotos das reações",
+  "Mamadeira, chupeta, brinquedo"
+ ],
+ "steps": [
+  "Você segura o bebê no colo ou fica ao lado dele",
+  "A enfermeira escolhe uma veia do braço, às vezes nas costas da mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue vai para um tubinho",
+  "Colocam um algodão e um curativo no local"
+ ],
+ "feel": [
+  "O bebê quase sempre chora. É de susto e da picada, não de dor forte",
+  "Você pode pegar no colo e alimentar logo em seguida"
+ ],
+ "after": [
+  "Segure o algodão por alguns minutos",
+  "O resultado sai normalmente em alguns dias",
+  "Mesmo um resultado normal não descarta a alergia. Algumas formas não aparecem no sangue",
+  "Como alimentar daqui para frente, quem decide é o médico. Não mude a alimentação de repente sem ele"
+ ],
+ "red_flags": [
+  "Inchaço no rosto ou nos lábios, chiado, dificuldade para respirar depois de leite: ligue para a emergência",
+  "Bebê molinho, pálido, vômito forte: procure o médico na hora ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Se o exame veio bom, não há alergia?",
+   "a": "Nem sempre. Parte das alergias ao leite acontece sem anticorpos no sangue. O médico avalia o exame junto com a reação do bebê à alimentação."
+  },
+  {
+   "q": "A mãe que amamenta precisa cortar o leite?",
+   "a": "Quem decide é o médico. Não faça dieta rígida por conta própria. Você pode ficar sem alimentos importantes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã o bebê faz o exame de sangue de alergia ao leite. Leve o diário alimentar, a mamadeira e um brinquedo."
+  }
+ ]
+}

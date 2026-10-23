@@ -1,0 +1,78 @@
+{
+ "title": "Narkozdan oldin och qolish: nimani va qachon mumkin",
+ "also": [
+  "operatsiyadan oldin och qolish",
+  "narkozdan oldin ichsa bo‘ladimi",
+  "operatsiyadan oldin och qoringa",
+  "operatsiyadan oldin oxirgi marta qachon ovqatlanish"
+ ],
+ "what": "Narkozdan oldin oshqozon bo‘sh bo‘lishi kerak. Shunda xavfsizroq: uyquda oshqozon tarkibi o‘pkaga tushmaydi.",
+ "why": "Narkoz yoki sedatsiya ostidagi har qanday operatsiya yoki muolajadan oldin.",
+ "duration": "odatda ovqatsiz taxminan 6 soat, suvsiz taxminan 2 soat — aniq vaqtni klinika aytadi",
+ "tell_doctor": [
+  "Diabetingiz bo‘lsa — ovqat va dorilar bilan qanday bo‘lish",
+  "Ertalab dorilar ichsangiz",
+  "Ko‘pincha jig‘ildon qaynashi yoki kekirish bo‘lsa",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda oxirgi ovqatlanish narkozdan taxminan 6 soat oldin. Yog‘li va go‘shtli ovqat — undan ham oldinroq. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Suv",
+   "text": "Gazsiz toza suvni ko‘pincha taxminan 2 soat oldin ichsa bo‘ladi. Sut, bo‘tqali sharbatlar, sutli qahva — bu allaqachon ovqat."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ertalab qaysi tabletkalarni bir ho‘plam suv bilan ichishni shifokor aytadi."
+  },
+  {
+   "title": "Boshqa",
+   "text": "Ertalab saqich chaynamang va chekmang. Bir kun oldin alkogol ichmang."
+  }
+ ],
+ "bring": [
+  "Klinika aytgan oxirgi ovqat va suv vaqti",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Klinika oxirgi ovqat va suvning aniq vaqtini aytadi",
+  "Kechqurun yengil kechki ovqat qilasiz",
+  "Belgilangan vaqtdan keyin ovqat yemaysiz",
+  "Toza suvni ruxsat etilgan vaqtgacha ichasiz",
+  "Ertalab faqat shifokor ruxsat bergan dorilarni ichasiz",
+  "Klinikada oxirgi marta qachon ovqatlangan va ichganingizni so‘rashadi — rost javob bering"
+ ],
+ "feel": [
+  "Ovqat yegingiz va ichgingiz kelishi mumkin — bu normal",
+  "Ba’zan ochlikdan biroz bosh aylanadi yoki og‘riydi"
+ ],
+ "after": [
+  "Tasodifan ovqatlanib yoki ichib qo‘ysangiz — darhol shifokorga ayting",
+  "Operatsiya ko‘chirilishi mumkin — bu sizning xavfsizligingiz uchun",
+  "Operatsiyadan keyin ovqatlanish va ichishni shifokor ruxsati bilan boshlashadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Operatsiya oldidan ertalab tishni yuvsa bo‘ladimi?",
+   "a": "Ha, bo‘ladi. Faqat suvni yutmang."
+  },
+  {
+   "q": "Nega bunchalik qat’iy?",
+   "a": "Narkozda himoya reflekslari susayadi. Oshqozondagi ovqat o‘pkaga tushishi mumkin — bu xavfli."
+  },
+  {
+   "q": "Operatsiya bir kunga ko‘chirilsa-chi?",
+   "a": "Bo‘limda so‘rang. Odatda ovqatlanishga ruxsat berishadi, och qolishni esa qaytadan boshlashadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga narkoz. Ovqat va suv — faqat klinika aytgan vaqtgacha. Ertalabki dorilar — shifokor ruxsat berganidek."
+  }
+ ]
+}

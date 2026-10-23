@@ -1,0 +1,79 @@
+{
+ "title": "Plasmaférese",
+ "also": [
+  "plasmaférese",
+  "troca de plasma",
+  "aférese",
+  "limpeza do sangue"
+ ],
+ "what": "Uma máquina retira o sangue, separa a parte líquida, o plasma, e devolve as células do sangue. Assim se tiram substâncias nocivas do sangue.",
+ "why": "Em algumas doenças da imunidade, do sangue, do sistema nervoso e em intoxicações, por decisão do médico.",
+ "duration": "a sessão leva normalmente 1 a 3 horas; o tratamento são várias sessões",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue e os de pressão",
+  "Alergias, incluindo a derivados do sangue",
+  "Doenças do coração, pressão baixa",
+  "Se passou mal depois de procedimentos anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente um café da manhã leve antes da sessão. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. O horário dos remédios pode mudar. O médico diz."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa larga, com manga larga."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Lista de remédios",
+  "Água e um livro"
+ ],
+ "steps": [
+  "Você é pesado e medem a pressão",
+  "Colocam um cateter na veia ou conectam no cateter que já existe",
+  "O sangue vai para a máquina, e o plasma é separado",
+  "As células do sangue voltam junto com uma solução de reposição",
+  "A enfermeira acompanha a pressão e como você está",
+  "No fim, o sistema é desconectado"
+ ],
+ "feel": [
+  "Uma picada ao colocar o cateter",
+  "Frio, formigamento nos lábios ou nos dedos. Avise a enfermeira",
+  "Às vezes fraqueza e tontura"
+ ],
+ "after": [
+  "Fique sentado um pouco antes de levantar",
+  "Até o fim do dia, repouso",
+  "Beba água, se o médico não restringiu",
+  "Vá às próximas sessões conforme o calendário"
+ ],
+ "red_flags": [
+  "Manchas, coceira, inchaço no rosto ou dificuldade para respirar: ligue para a emergência",
+  "Tontura forte, desmaio",
+  "Sangramento ou inchaço no local do cateter",
+  "Febre, calafrios"
+ ],
+ "faq": [
+  {
+   "q": "A plasmaférese \"limpa o corpo\" de qualquer pessoa?",
+   "a": "Não. É um tratamento com indicação, pedido pelo médico em doenças específicas."
+  },
+  {
+   "q": "Quantas sessões são precisas?",
+   "a": "Depende da doença. Normalmente um ciclo de várias sessões."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a plasmaférese. Café da manhã leve, roupa de manga larga, lista de remédios."
+  }
+ ]
+}

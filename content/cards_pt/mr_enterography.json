@@ -1,0 +1,78 @@
+{
+ "title": "Enterorressonância",
+ "also": [
+  "enterorressonância",
+  "entero-RM",
+  "ressonância do intestino delgado",
+  "ressonância do intestino com solução"
+ ],
+ "what": "É uma ressonância da barriga antes da qual você bebe uma solução especial. Ela abre o intestino, e ele aparece bem nas imagens.",
+ "why": "Na maioria das vezes em doenças inflamatórias do intestino, para ver o intestino delgado sem radiação.",
+ "duration": "beber a solução leva cerca de uma hora, a ressonância em si 30 a 45 minutos; o laudo sai em alguns dias",
+ "tell_doctor": [
+  "Se tem marca-passo ou metal no corpo",
+  "Se tem medo de lugar fechado",
+  "Se pode haver gravidez",
+  "Se tem doença nos rins ou alergia a contraste",
+  "Se tem glaucoma ou aumento da próstata, por causa do remédio para o intestino"
+ ],
+ "prepare": [
+  {
+   "title": "Jejum",
+   "text": "Normalmente 4 a 6 horas sem comer. Confirme com a clínica."
+  },
+  {
+   "title": "Tempo",
+   "text": "Chegue antes: a solução é bebida durante cerca de uma hora antes do exame."
+  },
+  {
+   "title": "Metal",
+   "text": "Tire joias, relógio e cinto."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Imagens anteriores e colonoscopia",
+  "Documento de identidade",
+  "Roupa íntima para trocar. A solução solta o intestino"
+ ],
+ "steps": [
+  "Você bebe a solução aos poucos, por cerca de uma hora",
+  "Troca de roupa e tira o metal",
+  "Deita na mesa, muitas vezes de barriga para baixo",
+  "Colocam um cateter na veia",
+  "Aplicam um remédio para o intestino ficar parado e o contraste",
+  "Fazem as imagens, muitas vezes segurando a respiração"
+ ],
+ "feel": [
+  "Beber tanto é desagradável, pode dar inchaço",
+  "Com o remédio, a visão pode ficar embaçada por um tempo",
+  "Calor quando aplicam o contraste"
+ ],
+ "after": [
+  "Depois do exame pode haver diarreia. Fique perto de um banheiro",
+  "Enquanto a visão estiver embaçada, não dirija",
+  "O laudo sai normalmente em alguns dias"
+ ],
+ "red_flags": [
+  "Dor no olho e piora forte da visão depois do exame: ligue para a emergência",
+  "Manchas na pele, inchaço no rosto, dificuldade para respirar: ligue para a emergência",
+  "Dor forte na barriga"
+ ],
+ "faq": [
+  {
+   "q": "Por que beber tanta solução?",
+   "a": "Sem ela o intestino fica murcho e aparece mal nas imagens."
+  },
+  {
+   "q": "Posso ir trabalhar logo depois?",
+   "a": "Normalmente sim, mas lembre que pode ter diarreia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a enterorressonância. Fique 4 a 6 horas sem comer e chegue antes. Vai ser preciso beber a solução."
+  }
+ ]
+}

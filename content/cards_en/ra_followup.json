@@ -1,0 +1,76 @@
+{
+ "title": "Rheumatoid arthritis follow-up",
+ "also": [
+  "rheumatoid arthritis check-up",
+  "rheumatologist visit",
+  "arthritis follow-up",
+  "RA monitoring"
+ ],
+ "what": "The rheumatologist regularly checks how your treatment is working and whether it is causing harm. This helps protect your joints.",
+ "why": "For everyone with rheumatoid arthritis: usually every 1 to 3 months at the start of treatment, and less often once the disease is quiet.",
+ "duration": "the visit usually takes 20 to 30 minutes; test results in 1 to 3 days",
+ "tell_doctor": [
+  "Which joints hurt and swell, and how long morning stiffness lasts",
+  "Side effects of medicines: nausea, rash, frequent infections",
+  "Whether you plan a pregnancy",
+  "Recent infections, vaccinations or operations",
+  "All medicines and supplements"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Blood is often drawn before the visit: a blood count, liver tests and inflammation markers. Ask which ones and when."
+  },
+  {
+   "title": "Diary",
+   "text": "Write down how you felt between visits."
+  },
+  {
+   "title": "Medicines",
+   "text": "Take them as prescribed. Do not skip or stop them on your own."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Recent test results",
+  "Your symptom diary",
+  "A list of medicines and doses"
+ ],
+ "steps": [
+  "The doctor asks about pain, stiffness and side effects",
+  "Examines and feels your joints",
+  "Looks at your test results",
+  "Assesses how active the disease is",
+  "Decides whether to keep or change the treatment",
+  "Sets the date of your next check"
+ ],
+ "feel": [
+  "Pressing on inflamed joints can hurt",
+  "A blood test is a quick needle prick"
+ ],
+ "after": [
+  "Have your tests on time. This protects you from side effects",
+  "Tell your doctor about your treatment before vaccinations and operations",
+  "Stay active and do the exercises your doctor allowed"
+ ],
+ "red_flags": [
+  "High fever, cough or shortness of breath during treatment: see a doctor urgently",
+  "Sudden weakness, bleeding or yellow skin: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Can I stop treatment if my joints no longer hurt?",
+   "a": "No, not without your doctor. The disease can come back."
+  },
+  {
+   "q": "Can I get vaccinated?",
+   "a": "Many vaccines are fine and even recommended, but always check with your rheumatologist first."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Rheumatologist visit in 2 days. Do not forget your blood tests if the doctor asked for them."
+  }
+ ]
+}

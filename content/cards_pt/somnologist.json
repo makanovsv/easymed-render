@@ -1,0 +1,76 @@
+{
+ "title": "Consulta com médico do sono",
+ "also": [
+  "médico do sono",
+  "especialista em sono",
+  "tratamento de insônia",
+  "ronco e apneia"
+ ],
+ "what": "O médico do sono descobre por que você dorme mal, ronca ou fica cansado de dia. Às vezes pede um exame do sono.",
+ "why": "Para insônia, ronco alto, paradas de respiração dormindo, sonolência forte de dia e pernas inquietas à noite.",
+ "duration": "a consulta leva normalmente de 30 a 40 minutos; o exame do sono dura uma noite, e o resultado sai em alguns dias",
+ "tell_doctor": [
+  "Que horas deita e levanta e quanto dorme",
+  "Se ronca e se alguém já viu você parar de respirar",
+  "Se cai no sono de repente de dia, por exemplo dirigindo",
+  "Quais remédios, remédios para dormir e álcool você usa",
+  "Pressão, peso, coração"
+ ],
+ "prepare": [
+  {
+   "title": "Diário do sono",
+   "text": "Por 1 a 2 semanas, anote a hora de dormir, de acordar e como se sente de manhã."
+  },
+  {
+   "title": "Família",
+   "text": "Peça para quem dorme perto contar sobre o ronco. Dá para gravar o som no celular."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare remédios para dormir por conta própria. Conte ao médico o que toma."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Diário do sono",
+  "Gravação do ronco, se tiver",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico pergunta sobre o sono e como você se sente de dia",
+  "Pede para preencher questionários sobre sonolência",
+  "Examina a garganta e o pescoço e mede a pressão e o peso",
+  "Decide se é preciso exame do sono",
+  "Se precisar, explica como ele será, em casa ou na clínica",
+  "Dá orientações ou indica tratamento"
+ ],
+ "feel": [
+  "A consulta não dói",
+  "No exame do sono há sensores no corpo; é estranho dormir com eles, mas não dói"
+ ],
+ "after": [
+  "Siga a rotina de sono que o médico recomendou",
+  "Se tem sono de dia, tenha cuidado ao dirigir",
+  "Volte depois do exame ou do tratamento"
+ ],
+ "red_flags": [
+  "Cochila dirigindo: não dirija e avise o médico",
+  "Crises de sufocamento à noite com dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Roncar é perigoso?",
+   "a": "O ronco em si nem sempre. É perigoso se houver paradas de respiração durante o sono; isso precisa ser examinado."
+  },
+  {
+   "q": "Posso tomar remédio para dormir por conta própria?",
+   "a": "É melhor não. O médico descobre a causa da insônia e escolhe o tratamento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o médico do sono. Leve o diário do sono e, se tiver, a gravação do ronco."
+  }
+ ]
+}

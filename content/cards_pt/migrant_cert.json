@@ -1,0 +1,71 @@
+{
+ "title": "Exame médico para imigrantes e autorização de residência",
+ "also": [
+  "exame médico para visto de trabalho",
+  "exame médico de imigração",
+  "atestado para residência",
+  "exame médico para estrangeiros"
+ ],
+ "what": "É uma avaliação médica para estrangeiros que pedem autorização de trabalho ou de residência. Verificam algumas infecções e, às vezes, dependência química.",
+ "why": "Ao pedir autorização de trabalho, licença de trabalho (patent, na Rússia), autorização de residência ou cidadania.",
+ "duration": "normalmente 1 a 2 visitas; os resultados saem em alguns dias",
+ "tell_doctor": [
+  "Se já teve tuberculose, hepatites, HIV ou outras infecções",
+  "Quais remédios você toma",
+  "Se está grávida agora"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente são necessários exame de sangue para HIV e sífilis, fluorografia (raio-X de tórax) e consulta com médicos. A lista depende do país e do documento; confirme no serviço de imigração ou na clínica."
+  },
+  {
+   "title": "Clínica",
+   "text": "O exame só é feito em clínicas autorizadas. Veja a lista delas antes."
+  },
+  {
+   "title": "Tradução",
+   "text": "Se tiver documentos em outro idioma, pode ser preciso tradução."
+  }
+ ],
+ "bring": [
+  "Passaporte e tradução, se precisar",
+  "Cartão de imigração ou outros documentos",
+  "Foto, se pedirem",
+  "Resultados de exames anteriores"
+ ],
+ "steps": [
+  "Você vai a uma clínica autorizada a fazer o exame",
+  "Preenche um questionário",
+  "Colhe sangue",
+  "Faz a fluorografia",
+  "Passa pelos médicos da lista",
+  "Recebe o laudo médico"
+ ],
+ "feel": [
+  "As consultas não doem",
+  "O exame de sangue: uma picada rápida"
+ ],
+ "after": [
+  "Guarde o original e uma cópia do laudo",
+  "Entregue os documentos no prazo: os atestados valem por tempo limitado",
+  "Se encontrarem algo, você será encaminhado ao médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso fazer o exame em qualquer clínica?",
+   "a": "Não, só nas autorizadas. Confirme no serviço de imigração."
+  },
+  {
+   "q": "E se um exame der positivo?",
+   "a": "Você será encaminhado ao médico. Os próximos passos serão explicados na clínica e no serviço de imigração."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o exame médico de imigração. Leve o passaporte, a tradução e os documentos de imigração."
+  }
+ ]
+}

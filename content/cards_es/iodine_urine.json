@@ -1,0 +1,73 @@
+{
+ "title": "Yodo en orina",
+ "also": [
+  "yoduria",
+  "yodo urinario",
+  "prueba de yodo",
+  "revisión de falta de yodo"
+ ],
+ "what": "Es un análisis de orina que muestra cuánto yodo recibe tu cuerpo con la comida.",
+ "why": "Para revisar si falta o sobra yodo: en enfermedades de la tiroides, en el embarazo y antes de un tratamiento con yodo radiactivo.",
+ "duration": "juntar la orina toma unos minutos o 24 horas; el resultado suele estar en unos días",
+ "tell_doctor": [
+  "Si tomas vitaminas o suplementos con yodo",
+  "Si hace poco te hicieron una tomografía u otro estudio con contraste",
+  "Si te pones yodo en la piel o haces gárgaras con productos con yodo",
+  "Si estás embarazada o das pecho"
+ ],
+ "prepare": [
+  {
+   "title": "Contraste",
+   "text": "Después de una tomografía con contraste, hay mucho yodo en la orina durante varias semanas. Díselo al médico: quizá cambien la fecha del análisis."
+  },
+  {
+   "title": "Comida",
+   "text": "Come como siempre, sin porciones grandes de algas ni mariscos el día anterior."
+  },
+  {
+   "title": "Suplementos",
+   "text": "No los suspendas por tu cuenta. Pregúntale al médico si debes dejar el yodo."
+  },
+  {
+   "title": "Recolección",
+   "text": "Normalmente se entrega la orina de la mañana. A veces el médico pide juntar la orina de 24 horas. Confírmalo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "El frasco con la orina",
+  "Tu identificación"
+ ],
+ "steps": [
+  "Consigue un frasco estéril en la farmacia o el laboratorio",
+  "En la mañana lávate las manos y lava tus genitales con agua, sin jabón con yodo",
+  "Orina en el frasco sin tocar los bordes",
+  "Cierra bien la tapa",
+  "Lleva la orina al laboratorio en unas pocas horas"
+ ],
+ "feel": [
+  "Nada molesto: es una recolección de orina normal",
+  "Puede ser un poco incómodo atinarle al frasco: sostenlo por fuera"
+ ],
+ "after": [
+  "Puedes comer y beber como siempre de inmediato",
+  "El resultado de un solo análisis puede cambiar de un día a otro: a veces el médico lo repite"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo comer sal yodada antes del análisis?",
+   "a": "Sí, come como siempre. El análisis debe mostrar tu alimentación normal."
+  },
+  {
+   "q": "¿Una tomografía con contraste afecta el resultado?",
+   "a": "Sí, mucho. Dile al médico si te hicieron una en las últimas semanas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de yodo en orina. Junta la orina de la mañana en un frasco estéril y llévala al laboratorio en unas pocas horas."
+  }
+ ]
+}

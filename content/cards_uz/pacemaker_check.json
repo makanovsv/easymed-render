@@ -1,0 +1,73 @@
+{
+ "title": "Yurak stimulyatorini tekshirish",
+ "also": [
+  "EKS ni tekshirish",
+  "yurak stimulyatorini dasturlash",
+  "yurak stimulyatorini nazorat qilish",
+  "stimulyatorni sinash"
+ ],
+ "what": "Shifokor asbobga maxsus kallakni tutib, undan ma’lumot o‘qiydi. Batareya va elektrodlarni tekshiradi, kerak bo‘lsa sozlamalarni o‘zgartiradi.",
+ "why": "O‘rnatilgandan keyin muntazam: odatda bir necha oydan keyin, so‘ng 6–12 oyda bir marta. Muddatni shifokor aytadi.",
+ "duration": "odatda 15–30 daqiqa, natija darhol",
+ "tell_doctor": [
+  "Hushdan ketish, bosh aylanishi, nafas qisilishi yoki kuchli yurak urishi bo‘lgan bo‘lsa",
+  "Barcha dorilar",
+  "Oxirgi tekshiruvdan beri dorilar o‘zgargan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Maxsus kerak emas. Odatdagidek ovqatlaning va dorilarni iching."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Asbob joyidagi ko‘krakni oson ochish uchun qulay kiyim."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Yurak stimulyatori kartochkasi — albatta."
+  }
+ ],
+ "bring": [
+  "Yurak stimulyatori kartochkasi",
+  "O‘rnatilgandan keyingi ko‘chirma",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Yotasiz yoki o‘tirasiz",
+  "Qo‘l va oyoqlarga EKG elektrodlari qo‘yiladi",
+  "Ko‘krakdagi asbobga dasturlovchi kallak tutiladi",
+  "Shifokor ma’lumotni o‘qiydi va ishini tekshiradi",
+  "Ba’zan sozlamalarni o‘zgartiradi — yurak qisqa muddat boshqacha urishi mumkin",
+  "Shifokor natijani tushuntiradi va keyingi tekshiruvni belgilaydi"
+ ],
+ "feel": [
+  "Odatda hech narsa",
+  "Ba’zan bir necha soniya puls o‘zgaradi yoki bosh aylanadi — shifokorga ayting"
+ ],
+ "after": [
+  "Keyingi tekshiruv sanasini yozib qo‘ying",
+  "Asbob kartochkasini o‘zingiz bilan olib yuring"
+ ],
+ "red_flags": [
+  "Hushdan ketish yoki kuchli bosh aylanishi — tez yordamni chaqiring (103)",
+  "Puls juda siyrak yoki juda tez bo‘lib qoldi",
+  "Asbob ustida qizarish, shish yoki suyuqlik oqishi"
+ ],
+ "faq": [
+  {
+   "q": "Batareya qancha xizmat qiladi?",
+   "a": "Odatda ko‘p yil. Aniq qoldiqni tekshiruv ko‘rsatadi, almashtirish vaqtini shifokor oldindan aytadi."
+  },
+  {
+   "q": "Asbobni masofadan tekshirsa bo‘ladimi?",
+   "a": "Ba’zi asboblar bunga imkon beradi. Sizda bunday imkoniyat bormi, shifokordan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga yurak stimulyatorini tekshirish. Asbob kartochkasi va dorilar ro‘yxatini oling."
+  }
+ ]
+}

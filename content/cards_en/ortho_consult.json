@@ -1,0 +1,66 @@
+{
+ "title": "Orthodontist consultation",
+ "also": [
+  "orthodontist visit",
+  "braces consultation",
+  "bite check"
+ ],
+ "what": "The orthodontist examines your teeth and bite. They tell you whether straightening is needed and by what method.",
+ "why": "For crooked teeth, a wrong bite, crowding or gaps between teeth - for children and adults.",
+ "duration": "usually 30 to 60 minutes",
+ "tell_doctor": [
+  "What bothers you: looks, chewing, speech, breathing",
+  "If there have been injuries to the teeth or jaw",
+  "Habits: thumb sucking, mouth breathing, teeth grinding",
+  "Long-term illnesses and medicines",
+  "For a child: when the teeth started to change"
+ ],
+ "prepare": [
+  {
+   "title": "Teeth",
+   "text": "Brush your teeth before the visit."
+  },
+  {
+   "title": "Scans",
+   "text": "If you have scans of your teeth, bring them. Sometimes scans are taken on the day of the visit."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Scans of your teeth, if you have them",
+  "A list of questions for the doctor"
+ ],
+ "steps": [
+  "The doctor asks what bothers you",
+  "Examines your teeth and bite",
+  "May take photos of your face and teeth",
+  "Orders scans or takes impressions, if needed",
+  "Explains the treatment options and timing"
+ ],
+ "feel": [
+  "The exam is painless",
+  "An impression can make you gag - breathe through your nose"
+ ],
+ "after": [
+  "The doctor gives a treatment plan after the scans",
+  "You can take time to think",
+  "Ask questions about timing and care"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "From what age should we see an orthodontist?",
+   "a": "A first check is usually advised for children at the start of tooth change. For adults, at any age."
+  },
+  {
+   "q": "Can adults straighten their teeth?",
+   "a": "Yes, usually. Treatment may take longer than for children."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Orthodontist consultation tomorrow. Brush your teeth and take your scans, if you have them."
+  }
+ ]
+}

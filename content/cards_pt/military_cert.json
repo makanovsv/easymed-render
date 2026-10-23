@@ -1,0 +1,72 @@
+{
+ "title": "Junta médica no alistamento militar",
+ "also": [
+  "junta médica militar",
+  "exame do alistamento",
+  "inspeção de saúde militar",
+  "exame médico para o exército"
+ ],
+ "what": "Vários médicos examinam você no órgão de alistamento militar (o voenkomat, na Rússia e no Cazaquistão) e decidem se a sua saúde permite o serviço.",
+ "why": "No alistamento, na convocação, ao entrar no serviço por contrato ou numa escola militar.",
+ "duration": "normalmente meio dia ou um dia; a decisão sai no dia da junta ou depois",
+ "tell_doctor": [
+  "Todas as doenças e lesões, até as antigas",
+  "Quais remédios você toma",
+  "Se já teve internações e cirurgias",
+  "Queixas que você tem agora"
+ ],
+ "prepare": [
+  {
+   "title": "Documentos",
+   "text": "Junte relatórios, laudos e exames de imagem de todas as doenças. Sem eles, é difícil os médicos levarem a doença em conta."
+  },
+  {
+   "title": "Exames",
+   "text": "Muitas vezes os exames de sangue e a fluorografia (raio-X de tórax) são feitos antes, com pedido do órgão militar. Confirme lá."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Durma bem e não beba álcool."
+  }
+ ],
+ "bring": [
+  "Passaporte",
+  "Convocação ou encaminhamento",
+  "Documentos médicos das doenças",
+  "Resultados de exames, se pediram"
+ ],
+ "steps": [
+  "Você vai ao órgão militar no horário marcado",
+  "Preenche um questionário",
+  "Passa pelos médicos um de cada vez: clínico, cirurgião, neurologista, psiquiatra, oftalmologista, otorrino, dentista e outros",
+  "Medem altura, peso e pressão e testam a visão",
+  "Se precisar, encaminham para mais exames",
+  "A junta decide se você está apto"
+ ],
+ "feel": [
+  "Os exames não doem",
+  "Pode ser demorado e cansativo por causa das filas"
+ ],
+ "after": [
+  "Informam a sua categoria de aptidão",
+  "Se encaminharem para mais exames, faça no prazo",
+  "A decisão pode ser contestada conforme a lei"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "E se eu não levar os documentos da doença?",
+   "a": "Os médicos podem não levar a doença em conta. É melhor juntar os relatórios antes."
+  },
+  {
+   "q": "Posso fazer os exames com o meu médico?",
+   "a": "Os exames extras normalmente são feitos com encaminhamento do órgão militar. Confirme lá."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a junta médica militar. Leve o passaporte, a convocação e todos os documentos médicos."
+  }
+ ]
+}

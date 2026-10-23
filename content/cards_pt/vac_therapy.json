@@ -1,0 +1,73 @@
+{
+ "title": "Terapia de ferida por pressão negativa (curativo a vácuo)",
+ "also": [
+  "curativo a vácuo",
+  "terapia por pressão negativa",
+  "curativo de pressão negativa",
+  "vácuo na ferida"
+ ],
+ "what": "Colocam uma espuma especial na ferida, cobrem com um filme e ligam uma bomba pequena. Ela aspira devagar as secreções e ajuda a ferida a cicatrizar.",
+ "why": "Em feridas grandes e que demoram a cicatrizar, depois de cirurgias, no pé diabético e em escaras.",
+ "duration": "a troca do curativo leva normalmente 20 a 40 minutos, a cada 2 a 3 dias; o tratamento vai de alguns dias a semanas",
+ "tell_doctor": [
+  "Remédios que afinam o sangue",
+  "Sangramento da ferida ou problemas de coagulação",
+  "Dor na troca dos curativos. Peça analgésico antes",
+  "Alergia a esparadrapo ou filme adesivo"
+ ],
+ "prepare": [
+  {
+   "title": "Analgésico",
+   "text": "Se a troca do curativo dói, pode tomar um analgésico antes. Pergunte ao médico."
+  },
+  {
+   "title": "Bomba",
+   "text": "Se o tratamento é em casa, aprenda como checar a bomba e o que fazer quando ela apitar."
+  }
+ ],
+ "bring": [
+  "O carregador da bomba, se o tratamento é em casa",
+  "Lista de remédios",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Tiram o curativo antigo com cuidado",
+  "Limpam e examinam a ferida",
+  "Cortam a espuma no formato da ferida e colocam",
+  "Cobrem tudo com um filme transparente",
+  "Ligam o tubo e a bomba",
+  "Conferem se o curativo segura bem o vácuo"
+ ],
+ "feel": [
+  "Quando a bomba liga, sensação de puxar na ferida",
+  "A troca do curativo pode ser desagradável",
+  "A bomba às vezes faz um barulhinho ou apita"
+ ],
+ "after": [
+  "A bomba deve funcionar o tempo todo. Não desligue por muito tempo por conta própria",
+  "Fique de olho no reservatório: se encher, ligue para a clínica",
+  "Não molhe o curativo",
+  "Vá às trocas de curativo conforme o calendário"
+ ],
+ "red_flags": [
+  "Sangue no tubo ou no reservatório: desligue a bomba e ligue logo para o médico ou para a emergência",
+  "A bomba apita e não segura o vácuo",
+  "Febre, dor forte, cheiro ruim na ferida"
+ ],
+ "faq": [
+  {
+   "q": "Posso andar com a bomba?",
+   "a": "Normalmente sim. A bomba é pequena e vai presa no cinto ou numa bolsa."
+  },
+  {
+   "q": "Quanto tempo dura o tratamento?",
+   "a": "Depende da ferida. O médico avalia a cicatrização a cada troca de curativo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a troca do curativo a vácuo. Carregue a bomba e pergunte antes ao médico sobre o analgésico."
+  }
+ ]
+}

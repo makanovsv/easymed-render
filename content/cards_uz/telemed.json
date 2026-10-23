@@ -1,0 +1,74 @@
+{
+ "title": "Shifokorning onlayn maslahati",
+ "also": [
+  "onlayn shifokor",
+  "telemeditsina",
+  "video maslahat",
+  "video orqali maslahat"
+ ],
+ "what": "Shifokor bilan video yoki chat orqali suhbat. Shifokor so‘raydi, tahlillaringizni ko‘radi va maslahat beradi.",
+ "why": "Natijalarni muhokama qilish, ikkinchi fikr olish, davolashni to‘g‘rilash yoki yuzma-yuz qabul kerakligini bilish uchun.",
+ "duration": "odatda 15–40 daqiqa",
+ "tell_doctor": [
+  "Nima bezovta qilayotganini va qachondan beri",
+  "Barcha dorilar va allergiyalar",
+  "Surunkali kasalliklar",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Aloqa",
+   "text": "Internet, telefon zaryadi, kamera va mikrofonni tekshiring."
+  },
+  {
+   "title": "Joy",
+   "text": "Hech kim xalaqit bermaydigan tinch, yorug‘ joy toping."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Tahlil va epikrizlarni oldindan yuklang yoki suratga oling."
+  }
+ ],
+ "bring": [
+  "Telefon yoki kompyuterdagi tahlillar va epikrizlar",
+  "Dorilar ro‘yxati",
+  "Savollar ro‘yxati",
+  "Shifokor so‘rasa, termometr yoki tonometr"
+ ],
+ "steps": [
+  "Belgilangan vaqtda havola orqali kirasiz",
+  "Shifokor o‘zini tanishtiradi va shikoyatlaringizni so‘raydi",
+  "Tahlillaringizni, ba’zan og‘riyotgan joyni kameraga ko‘rsatasiz",
+  "Shifokor nima deb o‘ylashini tushuntiradi",
+  "Tavsiyalar beradi yoki yuzma-yuz qabulni maslahat beradi",
+  "Xulosa odatda yozma yuboriladi"
+ ],
+ "feel": [
+  "Bu oddiy suhbat",
+  "Shifokor sizni qo‘li bilan ko‘ra olmaydi — shuning uchun ba’zan yuzma-yuz ko‘rik kerak bo‘ladi"
+ ],
+ "after": [
+  "Xulosani saqlab qo‘ying",
+  "Ahvolingiz yomonlashsa, yuzma-yuz qabulga boring",
+  "Onlayn nimalarni yozib berish mumkinligi mamlakat qoidalariga bog‘liq"
+ ],
+ "red_flags": [
+  "Ko‘krakda og‘riq, kuchli nafas qisishi, qo‘l yoki yuzda holsizlik bo‘lsa — maslahatni kutmang, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Onlayn shifokor tashxis qo‘ya oladimi?",
+   "a": "Bu mamlakat qoidalariga bog‘liq. Ko‘pincha shifokor tavsiya beradi, aniq tashxisni yuzma-yuz qabulda qo‘yishadi."
+  },
+  {
+   "q": "Aloqa uzilib qolsa nima qilish kerak?",
+   "a": "Shu havola orqali qayta ulaning yoki klinikaning yordam xizmatiga yozing."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Bir soatdan keyin onlayn maslahat. Internetni tekshiring, tahlillar va savollar ro‘yxatini tayyorlang."
+  }
+ ]
+}

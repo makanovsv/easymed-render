@@ -1,0 +1,80 @@
+{
+ "title": "Remoção de tatuagem a laser",
+ "also": [
+  "remoção de tatuagem",
+  "remover tatuagem",
+  "laser para tatuagem",
+  "apagar tatuagem",
+  "clarear tatuagem"
+ ],
+ "what": "O laser quebra a tinta da pele em partículas pequenas, e o corpo vai eliminando aos poucos. A tatuagem clareia a cada sessão.",
+ "why": "Quando se quer tirar ou clarear uma tatuagem, ou micropigmentação de sobrancelhas ou lábios.",
+ "duration": "a sessão leva normalmente 10 a 30 minutos; muitas vezes são precisas muitas sessões com intervalos de algumas semanas",
+ "tell_doctor": [
+  "Se tomou sol há pouco tempo",
+  "Se já teve cicatriz queloide",
+  "Todos os remédios, principalmente os que afinam o sangue e aumentam a sensibilidade ao sol",
+  "Gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Sol",
+   "text": "Não tome sol antes do procedimento. Confirme o prazo com a clínica."
+  },
+  {
+   "title": "Pele",
+   "text": "A pele em cima da tatuagem deve estar limpa, sem cremes."
+  },
+  {
+   "title": "Anestesia",
+   "text": "Às vezes se passa um creme anestésico antes. Confirme com a clínica."
+  },
+  {
+   "title": "Expectativas",
+   "text": "O médico diz mais ou menos quantas sessões a sua tatuagem vai precisar."
+  }
+ ],
+ "bring": [
+  "Roupa confortável, para descobrir o local da tatuagem",
+  "Lista de remédios",
+  "Protetor solar"
+ ],
+ "steps": [
+  "O médico examina a tatuagem e a pele",
+  "Colocam óculos de proteção em você",
+  "Esfriam a pele",
+  "O laser trata a tatuagem com flashes curtos",
+  "Esfriam a pele de novo",
+  "Passam um produto cicatrizante e colocam um curativo"
+ ],
+ "feel": [
+  "Dói: como estalos de elástico ou respingos de óleo quente",
+  "O resfriamento ajuda"
+ ],
+ "after": [
+  "Vermelhidão, inchaço, às vezes bolhas e casquinhas normalmente passam em 1 a 2 semanas",
+  "Não arranque as casquinhas",
+  "Sem sauna e piscina até a pele cicatrizar",
+  "Protetor solar no local enquanto durarem as sessões"
+ ],
+ "red_flags": [
+  "Pus, dor que vai piorando, febre: procure o médico",
+  "A ferida demora muito para cicatrizar"
+ ],
+ "faq": [
+  {
+   "q": "Dá para tirar a tatuagem toda?",
+   "a": "Muitas vezes sim, mas nem sempre. Tatuagens coloridas e antigas saem de formas diferentes. O médico diz depois de examinar."
+  },
+  {
+   "q": "Fica cicatriz?",
+   "a": "Normalmente não, se a pele for bem cuidada. O risco é maior com cicatriz queloide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a remoção da tatuagem. Não tome sol. Pele sem cremes."
+  }
+ ]
+}

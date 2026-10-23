@@ -1,0 +1,66 @@
+{
+ "title": "Pharmacogenetic test (warfarin, clopidogrel)",
+ "also": [
+  "pharmacogenomic test",
+  "drug-gene test",
+  "warfarin sensitivity test",
+  "clopidogrel gene test",
+  "CYP2C19 test"
+ ],
+ "what": "This test shows how your genes affect the way some medicines work. It helps your doctor choose the medicine and the dose.",
+ "why": "Before starting or when adjusting blood thinners and some other medicines, or if a medicine does not help or causes side effects.",
+ "duration": "the sample usually takes 5 minutes; results usually come in a few days or 1 to 2 weeks",
+ "tell_doctor": [
+  "All the medicines you take now",
+  "If a medicine caused strong side effects or bleeding",
+  "If you had a blood transfusion or a bone marrow transplant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast. If a cheek swab is taken, do not eat, drink, or smoke for 30 minutes before."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Medicines usually do not affect this test."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The nurse takes blood from a vein into one tube",
+  "Sometimes a cotton swab is rubbed inside your cheek instead",
+  "If blood is taken, a cotton pad is pressed on the spot",
+  "The sample is labeled and sent to the lab"
+ ],
+ "feel": [
+  "A quick prick, or just a swab touching your cheek",
+  "The test is done once. It does not need to be repeated"
+ ],
+ "after": [
+  "Results usually come in a few days or 1 to 2 weeks",
+  "Take the result to your doctor. They will decide whether to change the medicine or the dose",
+  "Keep the report. It is useful for life",
+  "Do not change your doses on your own based on the result"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Does this test replace blood clotting tests?",
+   "a": "No. The gene test helps choose a starting dose, but you still need clotting checks."
+  },
+  {
+   "q": "How many times do I need it?",
+   "a": "Once. Your genes do not change, so the result is good for life."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Pharmacogenetic test tomorrow. Bring a list of all the medicines you take."
+  }
+ ]
+}

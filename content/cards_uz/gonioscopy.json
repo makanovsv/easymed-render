@@ -1,0 +1,65 @@
+{
+ "title": "Gonioskopiya",
+ "also": [
+  "gonioskopiya",
+  "ko‘z burchagini ko‘rish",
+  "linza bilan ko‘rik"
+ ],
+ "what": "Shifokor ko‘zga maxsus linza qo‘yib, ko‘zdan suyuqlik oqib chiqadigan joy qanday tuzilganini ko‘radi.",
+ "why": "Glaukoma yoki unga shubha bo‘lganda, glaukomani lazer bilan davolashdan oldin.",
+ "duration": "odatda 5–15 daqiqa; shifokor natijani darrov aytadi",
+ "tell_doctor": [
+  "Tomchilarga allergiya",
+  "Kontakt linza taqasizmi",
+  "Ko‘zda operatsiyalar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Linzalar",
+   "text": "Kontakt linza taqsangiz, ko‘rikdan oldin yechishadi — linza qutisini oling."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Ko‘rish bir muddat biroz xira bo‘lishi mumkin — yo‘lni rejalashtiring."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Ko‘zoynak",
+  "Linza qutisi"
+ ],
+ "steps": [
+  "Ko‘z tomchilar bilan og‘riqsizlantiriladi",
+  "Iyagingizni tayanchga qo‘yasiz",
+  "Shifokor ko‘zga gelli linzani ehtiyotkorlik bilan tekkizadi",
+  "Turli tomonga qarash so‘raladi",
+  "Linza olinadi, kerak bo‘lsa ko‘z yuviladi"
+ ],
+ "feel": [
+  "Og‘riq odatda yo‘q, tegish sezgisi bor",
+  "Ko‘z qisqisi kelishi mumkin — shifokor qovoqni ushlab turishga yordam beradi"
+ ],
+ "after": [
+  "Og‘riqsizlantiruvchi tomchilar ta’sir qilguncha ko‘zni ishqalamang",
+  "Biroz xiralik va qizarish odatda tez o‘tadi"
+ ],
+ "red_flags": [
+  "Ko‘rikdan keyin kuchli og‘riq yoki ko‘rish yomonlashsa — shifokorga ko‘rining"
+ ],
+ "faq": [
+  {
+   "q": "Bu og‘riqlimi?",
+   "a": "Odatda yo‘q: ko‘z tomchilar bilan og‘riqsizlantiriladi."
+  },
+  {
+   "q": "Bu oddiy ko‘rikdan nimasi bilan farq qiladi?",
+   "a": "Oddiy ko‘rik ko‘z burchagini ko‘rsatmaydi. Buning uchun maxsus linza kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "2 soatdan keyin ko‘z ko‘rigi. Linza taqsangiz — linza qutisini oling."
+  }
+ ]
+}

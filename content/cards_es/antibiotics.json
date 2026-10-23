@@ -1,0 +1,74 @@
+{
+ "title": "Cómo tomar bien los antibióticos",
+ "also": [
+  "antibióticos cómo tomarlos",
+  "tratamiento con antibióticos",
+  "reglas de los antibióticos",
+  "toma de antibióticos"
+ ],
+ "what": "Los antibióticos matan las bacterias. No actúan contra los virus, como los del resfriado y la gripe.",
+ "why": "Cuando el médico encontró una infección por bacterias y recetó un antibiótico.",
+ "duration": "el tratamiento suele durar varios días; el médico te dirá exactamente cuántos",
+ "tell_doctor": [
+  "Si tienes alergia a algún antibiótico",
+  "Todos tus otros medicamentos: los antibióticos pueden interactuar con ellos",
+  "Si estás embarazada o amamantando",
+  "Enfermedades del hígado y de los riñones"
+ ],
+ "prepare": [
+  {
+   "title": "Receta",
+   "text": "Toma solo el antibiótico que el médico recetó para esta enfermedad."
+  },
+  {
+   "title": "Horario",
+   "text": "Pregunta cuántas veces al día y cuántos días lo debes tomar. Pon recordatorios."
+  },
+  {
+   "title": "Comida",
+   "text": "Algunos se toman antes de comer y otros después. Lee el instructivo o pregunta al médico."
+  }
+ ],
+ "bring": [
+  "La receta o indicación del médico",
+  "La lista de tus otros medicamentos"
+ ],
+ "steps": [
+  "Toma el antibiótico siempre a la misma hora",
+  "Tómalo con agua natural",
+  "Tómalo todos los días que indicó el médico",
+  "No dejes el tratamiento por tu cuenta, aunque ya te sientas mejor",
+  "Si olvidaste una dosis, no tomes doble: pregunta al médico o lee el instructivo",
+  "No guardes lo que sobre para después ni se lo des a nadie"
+ ],
+ "feel": [
+  "La mejoría suele llegar en 2 o 3 días",
+  "A veces hay malestar de estómago o náuseas"
+ ],
+ "after": [
+  "Durante el tratamiento no tomes alcohol",
+  "Si en 2 o 3 días no mejoras, dile al médico",
+  "Pregunta al médico si necesitas probióticos"
+ ],
+ "red_flags": [
+  "Hinchazón de la cara o la garganta y dificultad para respirar: llama a emergencias",
+  "Ronchas por todo el cuerpo o ampollas: acude de urgencia al médico",
+  "Diarrea líquida frecuente con sangre: acude de urgencia al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Hace falta antibiótico para un resfriado?",
+   "a": "Normalmente no. El resfriado es un virus. Lo decide el médico."
+  },
+  {
+   "q": "¿Puedo dejar el tratamiento si ya me siento mejor?",
+   "a": "No, no por tu cuenta. La infección puede volver. Pregunta al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Es hora del antibiótico. Con agua natural y según el horario."
+  }
+ ]
+}

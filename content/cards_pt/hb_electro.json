@@ -1,0 +1,64 @@
+{
+ "title": "Eletroforese de hemoglobina (talassemia)",
+ "also": [
+  "exame de talassemia",
+  "eletroforese de hemoglobina",
+  "frações da hemoglobina",
+  "tipos de hemoglobina"
+ ],
+ "what": "O exame de sangue mostra quais tipos de hemoglobina há no sangue e em que quantidade. Assim se acham características hereditárias, como a talassemia.",
+ "why": "Se as hemácias estão pequenas com ferro normal, se há anemia hereditária na família, antes ou durante a gravidez.",
+ "duration": "a coleta leva normalmente 5 minutos, o resultado sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Se você recebeu sangue nos últimos 3 meses",
+  "Se tem falta de ferro ou toma ferro",
+  "Se você está grávida",
+  "Se parentes têm anemia ou talassemia"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente não é preciso jejum. Se for junto com outros exames, confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria, nem o ferro. Só avise o médico do que você toma."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Hemogramas e exames de ferro anteriores"
+ ],
+ "steps": [
+  "Você se senta, e colocam um garrote acima do cotovelo",
+  "Limpam a pele com antisséptico",
+  "O sangue é colhido da veia num tubo",
+  "Tiram o garrote e colocam um algodão"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "O resultado sai normalmente em alguns dias",
+  "Se você for portador, o médico pode sugerir examinar o parceiro e os parentes"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ser portador de talassemia é doença?",
+   "a": "Normalmente não. O portador vive como todo mundo, às vezes com uma anemia leve. É importante saber disso ao planejar filhos."
+  },
+  {
+   "q": "Comprimidos de ferro ajudam?",
+   "a": "Só se realmente faltar ferro. Quem decide é o médico. Ferro demais pode fazer mal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame dos tipos de hemoglobina. Leve os exames de sangue anteriores."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "title": "Serum protein electrophoresis",
+ "also": [
+  "SPEP",
+  "protein electrophoresis",
+  "serum protein fractions",
+  "paraprotein test",
+  "M protein test"
+ ],
+ "what": "This blood test sorts proteins into groups and shows how much of each there is. It helps find inflammation and unusual proteins.",
+ "why": "For long-lasting inflammation, high total protein or sed rate, bone pain, kidney and liver conditions, and when a blood disorder is suspected.",
+ "duration": "the blood draw usually takes 5 minutes; results usually come in a few days",
+ "tell_doctor": [
+  "All your medicines, especially hormones",
+  "If you are pregnant",
+  "Liver and kidney conditions",
+  "If you had this test before, bring the result"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually on an empty stomach: 8 to 12 hours without food. Water is fine. Check with the lab."
+  },
+  {
+   "title": "Urine",
+   "text": "Sometimes a urine protein test is ordered too. Ask if you need to collect urine."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Tell your doctor what you take."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past test results",
+  "A urine container, if it was ordered"
+ ],
+ "steps": [
+  "You sit down, and a band is tied above your elbow",
+  "The skin is wiped with antiseptic",
+  "Blood is taken from a vein into a tube",
+  "The band is removed, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Results usually come in a few days",
+  "If an unusual protein is found, your doctor will order more tests. On its own, it is not a diagnosis"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "My result says M spike. What is that?",
+   "a": "Too much of one type of protein was found. There are many possible causes, often harmless. Your doctor will order more tests."
+  },
+  {
+   "q": "Why give a urine sample too?",
+   "a": "Some unusual proteins show up better in urine. The urine test adds to the blood test."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Serum protein electrophoresis tomorrow. Do not eat after dinner. Water is fine."
+  }
+ ]
+}

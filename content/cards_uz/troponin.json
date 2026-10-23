@@ -1,0 +1,66 @@
+{
+ "title": "Troponin",
+ "also": [
+  "troponin",
+  "infarktga test",
+  "troponin I",
+  "troponin T"
+ ],
+ "what": "Bu venadan olinadigan qon tahlili. U yurak mushagiga shikast yetgan-yetmaganini ko‘rsatadi.",
+ "why": "Odatda shoshilinch holatda — ko‘krak og‘riganda, infarkt gumon qilinganda. Ba’zan yurak kasalliklaridan keyin nazorat uchun.",
+ "duration": "qon olish — bir necha daqiqa, natija kasalxonada odatda bir soat ichida; tahlil ko‘pincha 1–3 soatdan keyin takrorlanadi",
+ "tell_doctor": [
+  "Ko‘krak og‘rig‘i qachon boshlangani va qanday ekani",
+  "Yurak va bosim uchun qanday dorilar ichayotganingizni",
+  "Buyrak kasalliklari bo‘lsa",
+  "Yaqinda og‘ir yuklama bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kerak emas. Ko‘krak og‘riganda kutmang — tahlil darrov kasalxonada qilinadi."
+  },
+  {
+   "title": "Muhim",
+   "text": "Ko‘krak og‘risa, laboratoriyaga o‘zingiz bormang. Tez yordamni chaqiring (103)."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Oldingi EKG, agar bo‘lsa"
+ ],
+ "steps": [
+  "Hamshira venadan qon oladi — ko‘pincha darrov kateter qo‘yishadi",
+  "Odatda bir vaqtda EKG qilinadi",
+  "1–3 soatdan keyin qon ko‘pincha yana olinadi",
+  "Shifokor ikki natijani solishtiradi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek"
+ ],
+ "after": [
+  "Keyingi tekshiruv va davolashni shifokor hal qiladi",
+  "Tahlilni rejali topshirgan bo‘lsangiz, natija odatda o‘sha kuni"
+ ],
+ "red_flags": [
+  "Ko‘krakda og‘riq, bosim yoki achishish bir necha daqiqadan ko‘p davom etsa — tez yordamni chaqiring (103)",
+  "Og‘riq qo‘lga, jag‘ga yoki belga o‘tib, sovuq ter yoki nafas qisishi bilan kelsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Troponinni nega ikki marta olishadi?",
+   "a": "U asta-sekin o‘sadi. Ikkinchi tahlil darajasi o‘zgarayotganini ko‘rsatadi."
+  },
+  {
+   "q": "Ko‘krak og‘riganda troponinni oddiygina laboratoriyada topshirsa bo‘ladimi?",
+   "a": "Yo‘q. Ko‘krak og‘riganda 103 ga qo‘ng‘iroq qiling — EKG va tez yordam muhim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga troponinga rejali tahlil. Tayyorgarlik kerak emas. Ko‘krak og‘rig‘i paydo bo‘lsa — darrov 103 ga qo‘ng‘iroq qiling."
+  }
+ ]
+}

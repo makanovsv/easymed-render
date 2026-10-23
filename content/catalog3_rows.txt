@@ -1,0 +1,381 @@
+# --- Анализы: гормоны ---
+trab|lab|Антитела к рецептору ТТГ|TSH receptor antibodies|lab_draw|L|3
+calcitonin|lab|Кальцитонин и тиреоглобулин|Calcitonin and thyroglobulin|lab_draw|L|3
+dheas_17oh|lab|ДГЭА-С и 17-ОН-прогестерон|DHEA-S and 17-OH progesterone|lab_draw|L|3
+aldo_renin|lab|Альдостерон и ренин|Aldosterone and renin|lab_draw|L|3
+acth|lab|АКТГ (адренокортикотропный гормон)|ACTH test|lab_draw|L|3
+gh_igf1|lab|Гормон роста и ИФР-1|Growth hormone and IGF-1|lab_draw|L|3
+metanephrines|lab|Метанефрины в крови и моче|Metanephrines in blood and urine|lab_draw|L|3
+# --- Анализы: витамины и микроэлементы ---
+zinc|lab|Цинк в крови|Blood zinc|lab_draw|L|3
+vit_a_e|lab|Витамины A и E|Vitamins A and E|lab_draw|L|3
+iodine_urine|lab|Йод в моче|Urinary iodine|lab_cup|L|3
+# --- Анализы: инфекции ---
+hep_a|lab|Анализ на гепатит A|Hepatitis A test|lab_draw|L|2
+anti_hbs|lab|Антитела после прививки от гепатита B (анти-HBs)|Hepatitis B vaccine antibody check (anti-HBs)|lab_draw|L|2
+hcv_rna|lab|ПЦР на гепатит C (вирусная нагрузка)|Hepatitis C viral load (PCR)|lab_draw|L|3
+hbv_dna|lab|ПЦР на гепатит B (вирусная нагрузка)|Hepatitis B viral load (PCR)|lab_draw|L|3
+hiv_load|lab|ВИЧ: вирусная нагрузка и CD4|HIV viral load and CD4 count|lab_draw|L|3
+ebv|lab|Вирус Эпштейна–Барр (мононуклеоз)|Epstein–Barr virus (mononucleosis) test|lab_draw|L|2
+tick_tests|lab|Анализы после укуса клеща (энцефалит, боррелиоз)|Tests after a tick bite (encephalitis, Lyme)|lab_draw|L|2
+brucella|lab|Анализ на бруцеллёз|Brucellosis test|lab_draw|L|2
+echinococcus|lab|Антитела к эхинококку|Echinococcus antibodies|lab_draw|L|3
+toxocara_giardia|lab|Антитела к токсокарам и лямблиям|Toxocara and Giardia antibodies|lab_draw|L|2
+pertussis_pcr|lab|ПЦР на коклюш|Whooping cough PCR|swab|L|2
+stool_pcr|lab|ПЦР кала на кишечные инфекции (рота-, норовирус)|Stool PCR for gut infections (rotavirus, norovirus)|lab_cup|L|2
+stool_culture|lab|Посев кала на сальмонеллу и шигеллу|Stool culture for Salmonella and Shigella|lab_cup|L|2
+measles_igg|lab|Антитела к кори (проверка иммунитета)|Measles immunity test (IgG)|lab_draw|L|2
+nasal_staph|lab|Посев из носа на золотистый стафилококк|Nasal swab for Staphylococcus aureus|swab|L|2
+tb_sputum|lab|Мокрота на туберкулёз (микроскопия, GeneXpert)|Sputum test for tuberculosis (smear, GeneXpert)|lab_cup|L|3
+aslo|lab|Антистрептолизин-О (АСЛО)|Antistreptolysin O (ASO)|lab_draw|L|2
+urethral_swab|lab|Мазок из уретры у мужчин|Urethral swab (men)|uro_room|L|2
+gbs_swab|lab|Мазок на стрептококк группы B при беременности|Group B strep swab in pregnancy|gyn_chair|L|2
+# --- Анализы: аллергия ---
+allergy_molecular|lab|Молекулярная аллергодиагностика (ALEX, ImmunoCAP)|Component allergy testing (ALEX, ImmunoCAP)|lab_draw|L|3
+allergy_milk_baby|lab|Аллергия на белок коровьего молока у малыша|Cow's milk protein allergy in infants|lab_draw|L|2
+patch_test|lab|Аппликационные аллергопробы (патч-тест)|Patch testing for contact allergy|proc_room|L|3
+# --- Анализы: генетика ---
+brca|lab|Генетический тест BRCA1/2|BRCA1/2 genetic test|lab_draw|L|3
+lynch_panel|lab|Генетическая панель наследственного рака кишечника|Hereditary colorectal cancer gene panel|lab_draw|L|3
+carrier_screen|lab|Скрининг носительства генетических болезней перед беременностью|Carrier screening before pregnancy|lab_draw|L|3
+pharmacogenetics|lab|Фармакогенетический тест (варфарин, клопидогрел)|Pharmacogenetic test (warfarin, clopidogrel)|lab_draw|L|3
+exome|lab|Экзомное секвенирование ребёнку|Exome sequencing for a child|lab_draw|L|3
+hla_b27|lab|HLA-B27|HLA-B27 test|lab_draw|L|3
+hb_electro|lab|Электрофорез гемоглобина (талассемия)|Haemoglobin electrophoresis (thalassaemia)|lab_draw|L|3
+pgt|lab|Генетическое тестирование эмбрионов (ПГТ)|Preimplantation genetic testing (PGT)|lab_draw|L|3
+# --- Анализы: прочее ---
+amylase_lipase|lab|Амилаза и липаза|Amylase and lipase|lab_draw|L|2
+cystatin|lab|Цистатин C|Cystatin C|lab_draw|L|3
+immunoglobulins|lab|Иммуноглобулины A, M, G|Immunoglobulins A, M, G|lab_draw|L|3
+protein_electro|lab|Электрофорез белков крови|Serum protein electrophoresis|lab_draw|L|3
+mar_test|lab|MAR-тест (антиспермальные антитела)|MAR test (antisperm antibodies)|lab_cup|L|3
+sperm_dna|lab|Фрагментация ДНК сперматозоидов|Sperm DNA fragmentation|lab_cup|L|3
+elastase_stool|lab|Панкреатическая эластаза в кале|Faecal pancreatic elastase|lab_cup|L|3
+drug_levels|lab|Концентрация лекарства в крови (вальпроаты, литий, дигоксин)|Drug level monitoring (valproate, lithium, digoxin)|lab_draw|L|3
+coombs_baby|lab|Проба Кумбса и группа крови у новорождённого|Coombs test and blood type in newborns|lab_draw|L|3
+rh_antibodies|lab|Антирезусные антитела при беременности|Rh antibodies in pregnancy|lab_draw|L|2
+preg_test_home|lab|Домашний тест на беременность|Home pregnancy test|home|L|1
+ovulation_test|lab|Тест на овуляцию дома|Home ovulation test|home|L|2
+ketones_home|lab|Кетоны в моче и крови дома|Home ketone testing|home|L|3
+# --- УЗИ ---
+us_bowel|us|УЗИ кишечника|Bowel ultrasound|us_room|L|3
+us_fetal_echo|us|УЗИ сердца плода (фетальная ЭхоКГ)|Fetal echocardiography|us_room|L|3
+us_adrenal|us|УЗИ надпочечников|Adrenal ultrasound|us_room|L|3
+us_eye|us|УЗИ глаза|Eye ultrasound|us_room|L|3
+us_inguinal|us|УЗИ паховых каналов (грыжа)|Groin ultrasound for hernia|us_room|L|3
+ceus_liver|us|УЗИ печени с контрастом|Contrast-enhanced liver ultrasound|us_room|M|3
+hycosy|us|УЗИ проходимости маточных труб (Эхо-ГСС)|Tubal patency ultrasound (HyCoSy)|us_room|M|3
+us_3d_preg|us|3D/4D УЗИ при беременности|3D/4D pregnancy scan|us_room|L|2
+biophysical|us|Биофизический профиль плода|Fetal biophysical profile|us_room|L|3
+us_postpartum|us|УЗИ матки после родов|Postpartum uterine ultrasound|us_room|L|2
+us_pylorus_baby|us|УЗИ желудка младенцу при срыгиваниях (пилоростеноз)|Infant ultrasound for pyloric stenosis|us_room|L|3
+# --- Функциональная диагностика ---
+ecg_patch|func|Длительный ЭКГ-монитор (патч на 7–14 дней)|Extended ECG patch monitor (7–14 days)|func_room|L|3
+ecg_watch|func|ЭКГ на смарт-часах: как записать и показать врачу|Recording an ECG on a smartwatch|home|L|3
+peak_flow|func|Пикфлоуметрия дома|Home peak flow monitoring|home|L|2
+walk_6min|func|Тест шестиминутной ходьбы|Six-minute walk test|func_room|L|3
+cpet|func|Кардиопульмональный нагрузочный тест|Cardiopulmonary exercise test|func_treadmill|M|3
+feno|func|Оксид азота в выдохе (FeNO)|Exhaled nitric oxide test (FeNO)|func_room|L|3
+methacholine|func|Провокационный тест с метахолином|Methacholine challenge test|func_room|M|3
+spiro_kids|func|Спирометрия у ребёнка|Spirometry in children|func_room|L|2
+capillaroscopy|func|Капилляроскопия ногтевого ложа|Nailfold capillaroscopy|func_room|L|3
+home_sleep_test|func|Домашний тест на апноэ сна|Home sleep apnoea test|home|L|2
+bia|func|Биоимпедансный анализ состава тела|Body composition analysis (bioimpedance)|func_room|L|2
+anorectal_mano|func|Аноректальная манометрия|Anorectal manometry|func_room|M|3
+hydrogen_breath|func|Водородный дыхательный тест (СИБР, лактоза)|Hydrogen breath test (SIBO, lactose)|func_room|L|3
+holter_kids|func|Холтер ЭКГ у ребёнка|Holter monitor in children|func_room|L|3
+ssep_hearing_baby|func|Объективная проверка слуха у малыша (КСВП, ASSR)|Objective infant hearing test (ABR, ASSR)|func_room|L|3
+erg|func|Электроретинография|Electroretinography|eye_room|L|3
+# --- Рентген, КТ, МРТ ---
+bone_age|rad|Рентген кисти на костный возраст|Hand X-ray for bone age|xr_room|L|3
+vcug|rad|Микционная цистография у ребёнка|Voiding cystourethrogram in children|xr_room|M|3
+iv_urography|rad|Экскреторная урография|Intravenous urography|xr_room|M|3
+ldct_lung|rad|Низкодозная КТ лёгких для курильщиков|Low-dose CT lung cancer screening|ct_room|L|2
+mrcp|rad|МР-холангиография (МРХПГ)|MR cholangiography (MRCP)|mri_room|L|3
+mr_enterography|rad|МР-энтерография|MR enterography|mri_room|L|3
+mri_preg|rad|МРТ при беременности|MRI during pregnancy|mri_room|L|3
+contrast_safety|rad|Контраст при КТ и МРТ: почки, аллергия, кормление грудью|Contrast for CT and MRI: kidneys, allergy, breastfeeding|ct_room|L|1
+renal_scinti|rad|Сцинтиграфия почек|Renal scintigraphy|ct_room|L|3
+myo_scinti|rad|Перфузионная сцинтиграфия миокарда|Myocardial perfusion scan|ct_room|M|3
+rai_therapy|rad|Лечение радиоактивным йодом|Radioactive iodine therapy|ward|M|3
+ceph_xray|rad|Телерентгенограмма (ТРГ) для ортодонта|Cephalometric X-ray for orthodontics|dent_xray|L|2
+cerebral_angio|rad|Ангиография сосудов головного мозга|Cerebral angiography|cath_lab|H|3
+# --- Эндоскопия ---
+fgds_nasal|endo|Трансназальная гастроскопия (тонким зондом)|Transnasal gastroscopy|endo_room|M|3
+colono_kids|endo|Колоноскопия ребёнку|Colonoscopy in children|endo_room|M|3
+gastric_polyp|endo|Удаление полипа желудка|Gastric polyp removal|endo_room|M|3
+varices_banding|endo|Лигирование варикозных вен пищевода|Oesophageal variceal banding|endo_room|H|3
+peg|endo|Установка гастростомы (ПЭГ)|Feeding tube placement (PEG)|endo_room|H|3
+enteroscopy|endo|Энтероскопия тонкой кишки|Small-bowel enteroscopy|endo_room|H|3
+foreign_swallow|endo|Удаление проглоченного предмета у ребёнка|Removal of a swallowed object in a child|endo_room|H|3
+esoph_dilation|endo|Бужирование пищевода|Oesophageal dilation|endo_room|H|3
+# --- Процедуры и манипуляции ---
+picc|proc|Установка PICC-катетера|PICC line insertion|proc_room|M|3
+port_install|proc|Установка порт-системы для химиотерапии|Implanted port placement for chemotherapy|or_room|H|3
+port_care|proc|Промывка и уход за порт-системой|Implanted port flushing and care|proc_room|M|3
+chemo_infusion|proc|Химиотерапия: как проходит курс|Chemotherapy infusion: what to expect|ward|M|2
+radiotherapy|proc|Лучевая терапия: как проходит курс|Radiotherapy course: what to expect|ct_room|M|2
+hemodialysis|proc|Гемодиализ|Haemodialysis|ward|M|3
+pd_home|proc|Перитонеальный диализ дома|Home peritoneal dialysis|home|M|3
+plasmapheresis|proc|Плазмаферез|Plasmapheresis|ward|M|3
+biologic_infusion|proc|Инфузия биологической терапии|Biologic therapy infusion|ward|M|3
+zoledronic|proc|Капельница от остеопороза (золедроновая кислота)|Zoledronic acid infusion for osteoporosis|proc_room|M|3
+hbot|proc|Гипербарическая оксигенация (барокамера)|Hyperbaric oxygen therapy|proc_room|M|3
+joint_aspiration|proc|Пункция сустава с удалением жидкости|Joint aspiration|proc_room|M|2
+breast_cyst_asp|proc|Пункция кисты молочной железы|Breast cyst aspiration|us_room|M|3
+vac_therapy|proc|Вакуумная терапия раны|Negative-pressure wound therapy|ward|M|3
+diabetic_foot_care|proc|Перевязки при диабетической стопе|Diabetic foot ulcer dressings|proc_room|M|2
+leg_ulcer|proc|Лечение трофической язвы ноги|Venous leg ulcer treatment|proc_room|M|3
+ait|proc|Аллергенспецифическая иммунотерапия (АСИТ)|Allergen immunotherapy|proc_room|M|2
+insulin_pump|proc|Инсулиновая помпа: установка и смена катетера|Insulin pump: setup and set changes|home|M|3
+cgm|proc|Датчик непрерывного мониторинга глюкозы (Libre, Dexcom)|Continuous glucose monitor (Libre, Dexcom)|home|L|2
+cpap|proc|СИПАП-терапия дома|CPAP therapy at home|home|L|2
+# --- Уход дома за больными ---
+trach_care|proc|Уход за трахеостомой дома|Tracheostomy care at home|home|M|3
+tube_feeding|proc|Кормление через зонд и гастростому дома|Tube and gastrostomy feeding at home|home|M|3
+stoma_care|proc|Уход за колостомой и илеостомой|Colostomy and ileostomy care|home|M|2
+bedsores|proc|Профилактика пролежней у лежачего|Pressure sore prevention in bedridden patients|home|L|2
+patient_transfer|proc|Как перемещать и переворачивать лежачего больного|Moving and turning a bedridden patient|home|L|2
+umbilical_care|proc|Уход за пупочной ранкой новорождённого|Newborn umbilical cord care|home|L|1
+nephrostomy_care|proc|Уход за нефростомой дома|Nephrostomy care at home|home|M|3
+self_cath|proc|Самокатетеризация мочевого пузыря|Intermittent self-catheterisation|home|M|3
+eye_drops|proc|Как закапывать капли и закладывать мазь в глаза|How to use eye drops and ointment|home|L|1
+nasal_spray|proc|Как правильно пользоваться назальным спреем|How to use a nasal spray correctly|home|L|1
+fever_kids|proc|Температура у ребёнка: как мерить и когда к врачу|Fever in children: measuring and when to see a doctor|home|L|1
+anticoag_home|proc|Жизнь на антикоагулянтах: кровотечения, еда, другие лекарства|Living on blood thinners: bleeding, food, other drugs|home|L|2
+# --- Малая хирургия, кожа, косметология ---
+molluscum|derm|Удаление контагиозного моллюска у ребёнка|Molluscum contagiosum removal in children|proc_room|M|2
+onychomycosis|derm|Лечение грибка ногтей|Nail fungus treatment|proc_room|M|2
+atopic_kids|derm|Атопический дерматит у ребёнка: лечение и уход|Atopic eczema in children: treatment and skin care|office|L|1
+urticaria|derm|Приём при крапивнице|Hives (urticaria) consultation|office|L|2
+rosacea|derm|Лечение розацеа|Rosacea treatment|office|L|2
+scabies|derm|Лечение чесотки|Scabies treatment|office|L|3
+lice|derm|Лечение педикулёза у ребёнка|Head lice treatment in children|home|L|2
+pdt_skin|derm|Фотодинамическая терапия кожи|Photodynamic therapy of the skin|proc_room|M|3
+calluses|derm|Удаление мозолей и натоптышей (медицинский педикюр)|Callus and corn removal (medical pedicure)|proc_room|M|2
+hemangioma|derm|Лечение гемангиомы у ребёнка|Infant haemangioma treatment|proc_room|M|3
+face_vessels|derm|Удаление сосудистых звёздочек на лице лазером|Laser removal of facial spider veins|proc_room|M|2
+tattoo_removal|derm|Лазерное удаление татуировки|Laser tattoo removal|proc_room|M|3
+fractional_laser|derm|Фракционное лазерное омоложение|Fractional laser resurfacing|proc_room|M|3
+acne_scars|derm|Лечение рубцов после акне|Acne scar treatment|proc_room|M|2
+mesotherapy|derm|Мезотерапия кожи|Skin mesotherapy|proc_room|M|2
+biorevital|derm|Биоревитализация|Skin biorevitalisation (hyaluronic acid)|proc_room|M|2
+prp_face|derm|Плазмолифтинг лица и кожи головы|PRP for face and scalp|proc_room|M|2
+hifu|derm|SMAS-лифтинг (HIFU)|HIFU SMAS lift|proc_room|M|3
+ipl|derm|IPL-фотоомоложение (пигмент, купероз)|IPL photorejuvenation (pigment, redness)|proc_room|M|2
+facial_clean|derm|Чистка лица у косметолога|Facial cleansing by a cosmetologist|proc_room|M|1
+hair_transplant|derm|Пересадка волос|Hair transplant|or_room|H|3
+alopecia_areata|derm|Лечение гнёздной алопеции|Alopecia areata treatment|office|M|3
+ganglion|derm|Удаление гигромы кисти|Ganglion cyst removal|or_room|M|3
+# --- Стоматология: дети и ортодонтия ---
+caries_milk|dent|Лечение кариеса молочных зубов|Treating cavities in baby teeth|dent_chair|M|1
+pulpotomy|dent|Пульпотомия молочного зуба|Pulpotomy of a baby tooth|dent_chair|M|2
+kids_crown|dent|Детская коронка на молочный зуб|Crown for a baby tooth|dent_chair|M|3
+removable_plate|dent|Съёмная ортодонтическая пластинка у ребёнка|Removable orthodontic plate for children|dent_chair|M|2
+palate_expander|dent|Расширитель нёба|Palatal expander|dent_chair|M|3
+retainer|dent|Ретейнер после брекетов|Retainer after braces|dent_chair|M|2
+braces_hygiene|dent|Чистка зубов с брекетами|Cleaning teeth with braces|home|L|2
+ortho_consult|dent|Консультация ортодонта|Orthodontic consultation|dent_chair|L|2
+tongue_tie|dent|Подрезка уздечки языка|Tongue-tie release|dent_chair|M|2
+lip_frenum|dent|Пластика уздечки губы|Lip frenum correction|dent_chair|M|3
+stomatitis_kids|dent|Стоматит у ребёнка|Mouth ulcers (stomatitis) in children|office|L|2
+brushing_kids|dent|Как чистить зубы ребёнку|How to brush a child's teeth|home|L|1
+# --- Стоматология: взрослые ---
+splinting|dent|Шинирование подвижных зубов|Splinting loose teeth|dent_chair|M|3
+flap_surgery|dent|Лоскутная операция на дёснах|Gum flap surgery|dent_chair|M|3
+gum_graft|dent|Пластика рецессии десны|Gum recession graft|dent_chair|M|3
+retreatment|dent|Перелечивание каналов зуба|Root canal retreatment|dent_chair|M|2
+apicoectomy|dent|Резекция верхушки корня (удаление кисты зуба)|Apicoectomy (root tip and cyst removal)|dent_chair|M|3
+all_on_4|dent|Протезирование на 4–6 имплантах (All-on-4)|Full-arch implant prosthesis (All-on-4)|dent_chair|H|3
+implant_care|dent|Уход за имплантами|Caring for dental implants|home|L|2
+clasp_denture|dent|Бюгельный протез|Cast partial denture|dent_chair|M|3
+denture_care|dent|Уход за съёмным протезом|Caring for removable dentures|home|L|2
+tmj|dent|Лечение боли в челюстном суставе (ВНЧС)|Jaw joint (TMJ) pain treatment|dent_chair|M|3
+dental_abscess|dent|Вскрытие флюса|Draining a dental abscess|dent_chair|M|2
+dry_socket|dent|Лечение альвеолита после удаления зуба|Dry socket treatment|dent_chair|M|3
+intraoral_scan|dent|Цифровой слепок зубов (сканер)|Digital dental impression (intraoral scan)|dent_chair|L|3
+dent_preg|dent|Лечение зубов при беременности|Dental treatment during pregnancy|dent_chair|M|2
+post_core|dent|Восстановление зуба на штифте|Post and core restoration|dent_chair|M|3
+# --- Глаза ---
+color_vision|eye|Проверка цветового зрения|Colour vision test|eye_room|L|2
+cycloplegia|eye|Проверка рефракции с закапыванием (циклоплегия) у ребёнка|Cycloplegic refraction in children|eye_room|L|2
+myopia_control|eye|Контроль близорукости у детей (ночные линзы, капли)|Myopia control in children (night lenses, drops)|eye_room|L|2
+amblyopia|eye|Лечение амблиопии (заклейка, аппаратное)|Lazy eye treatment (patching, vision therapy)|eye_room|L|2
+topography|eye|Кератотопография и пахиметрия|Corneal topography and pachymetry|eye_room|L|3
+biometry|eye|Биометрия глаза перед операцией катаракты|Eye biometry before cataract surgery|eye_room|L|3
+rop|eye|Осмотр глаз недоношенного (ретинопатия)|Eye exam for premature babies (ROP)|eye_room|L|3
+crosslinking|eye|Кросслинкинг роговицы|Corneal cross-linking|eye_room|M|3
+pterygium|eye|Удаление птеригиума|Pterygium removal|or_room|M|3
+eye_foreign|eye|Удаление инородного тела из глаза|Removing a foreign body from the eye|eye_room|M|2
+blepharitis|eye|Гигиена век при блефарите|Eyelid hygiene for blepharitis|home|L|2
+punctal_plugs|eye|Пробки для слёзных точек|Punctal plugs|eye_room|M|3
+diabetic_eye|eye|Осмотр глаз при диабете|Diabetic eye screening|eye_room|L|2
+vitrectomy|eye|Витрэктомия (при отслойке сетчатки и кровоизлиянии)|Vitrectomy|or_room|H|3
+trabeculectomy|eye|Операция при глаукоме|Glaucoma surgery|or_room|H|3
+icl|eye|Факичная линза (ICL)|Phakic lens implant (ICL)|or_room|H|3
+# --- Ухо, горло, нос ---
+ent_foreign|ent|Удаление инородного тела из уха и носа у ребёнка|Removing a foreign body from a child's ear or nose|ent_room|M|2
+politzer|ent|Продувание слуховых труб|Eustachian tube inflation|ent_room|M|2
+sinus_puncture|ent|Пункция гайморовой пазухи|Maxillary sinus puncture|ent_room|M|3
+peritonsillar|ent|Вскрытие паратонзиллярного абсцесса|Peritonsillar abscess drainage|ent_room|H|3
+otitis_kids|ent|Отит у ребёнка: лечение и наблюдение|Ear infection in children: treatment and follow-up|office|L|1
+cochlear|ent|Кохлеарная имплантация|Cochlear implant surgery|or_room|H|3
+tympanoplasty|ent|Тимпанопластика|Tympanoplasty|or_room|H|3
+tinnitus|ent|Приём при шуме в ушах|Tinnitus consultation|ent_room|L|2
+epley|ent|Манёвр Эпли при позиционном головокружении|Epley manoeuvre for positional vertigo|ent_room|L|2
+phoniatrist|ent|Приём фониатра (проблемы с голосом)|Voice clinic (phoniatrist) visit|ent_room|L|3
+smell_test|ent|Проверка обоняния|Smell test|ent_room|L|3
+otoplasty|ent|Отопластика (лопоухость)|Otoplasty (prominent ears)|or_room|H|3
+# --- Гинекология и беременность ---
+preconception|gyn|Подготовка к беременности|Preconception check-up|office|L|1
+kick_count|gyn|Подсчёт шевелений плода дома|Counting fetal movements at home|home|L|2
+birth_classes|gyn|Курсы подготовки к родам|Antenatal classes|office|L|2
+partner_birth|gyn|Партнёрские роды|Partner-assisted birth|ward|L|2
+perineal_care|gyn|Уход за швами на промежности после родов|Perineal stitch care after birth|home|L|2
+vbac|gyn|Роды после кесарева сечения|Vaginal birth after caesarean (VBAC)|ward|H|3
+pessary_preg|gyn|Акушерский пессарий при беременности|Cervical pessary in pregnancy|gyn_chair|M|3
+cerclage|gyn|Шов на шейку матки (серкляж)|Cervical cerclage|or_room|H|3
+anti_d|gyn|Антирезусный иммуноглобулин|Anti-D immunoglobulin|proc_room|M|2
+maternity_bag|gyn|Что взять в роддом|What to pack for the maternity hospital|home|L|1
+ppd_screen|gyn|Скрининг послеродовой депрессии|Postnatal depression screening|office|L|2
+thrush|gyn|Лечение молочницы и бактериального вагиноза|Thrush and bacterial vaginosis treatment|office|L|1
+pcos|gyn|Приём при поликистозе яичников (СПКЯ)|Polycystic ovary syndrome (PCOS) consultation|office|L|2
+endometriosis_lap|gyn|Лапароскопия при эндометриозе|Laparoscopy for endometriosis|or_room|H|3
+endometrial_polyp|gyn|Удаление полипа эндометрия|Endometrial polyp removal|or_room|H|2
+condyloma|gyn|Удаление остроконечных кондилом|Genital wart removal|gyn_chair|M|2
+girl_gyn|gyn|Первый визит девочки к гинекологу|A girl's first gynaecology visit|gyn_chair|L|2
+ovulation_ind|gyn|Стимуляция овуляции|Ovulation induction|us_room|M|3
+ivf_stim|gyn|ЭКО: стимуляция яичников и уколы|IVF: ovarian stimulation and injections|home|M|3
+tvt_sling|gyn|Слинговая операция при недержании мочи|Sling surgery for urinary incontinence|or_room|H|3
+prolapse_pessary|gyn|Пессарий при опущении матки|Pessary for uterine prolapse|gyn_chair|M|3
+breast_self|gyn|Самообследование молочных желёз|Breast self-examination|home|L|1
+tubal_ligation|gyn|Женская стерилизация (перевязка труб)|Tubal ligation|or_room|H|3
+bartholin|gyn|Лечение кисты бартолиновой железы|Bartholin cyst treatment|gyn_chair|M|3
+emergency_contra|gyn|Экстренная контрацепция|Emergency contraception|office|L|2
+# --- Урология и андрология ---
+andrologist|uro|Приём андролога|Andrology consultation|uro_room|L|2
+prostatitis|uro|Лечение простатита|Prostatitis treatment|uro_room|L|2
+cystitis|uro|Лечение цистита у женщин|Cystitis treatment in women|office|L|1
+prostatectomy|uro|Радикальная простатэктомия|Radical prostatectomy|or_room|H|3
+frenuloplasty|uro|Пластика уздечки крайней плоти|Frenuloplasty|or_room|M|3
+orchiopexy|uro|Операция при неопущении яичка у мальчика|Undescended testicle surgery in boys|or_room|H|3
+ureteral_stent|uro|Стент мочеточника: установка и удаление|Ureteral stent placement and removal|uro_room|M|3
+pcnl|uro|Перкутанная нефролитотрипсия|Percutaneous nephrolithotomy|or_room|H|3
+enuresis|uro|Лечение ночного недержания у ребёнка|Bedwetting treatment in children|office|L|2
+bladder_diary|uro|Дневник мочеиспускания|Bladder diary|home|L|2
+bladder_botox|uro|Ботокс в мочевой пузырь при гиперактивности|Bladder Botox for overactive bladder|uro_room|M|3
+tese|uro|Биопсия яичка (TESE)|Testicular sperm extraction (TESE)|or_room|H|3
+# --- Сердце и сосуды: вмешательства ---
+loop_recorder|cardio|Имплантация петлевого регистратора ЭКГ|Implantable loop recorder|cath_lab|M|3
+pfo_closure|cardio|Закрытие дефекта перегородки сердца (окклюдер)|Septal defect closure (occluder)|cath_lab|H|3
+tavi|cardio|Транскатетерная замена аортального клапана (TAVI)|Transcatheter aortic valve implantation (TAVI)|cath_lab|H|3
+laa_closure|cardio|Закрытие ушка левого предсердия|Left atrial appendage closure|cath_lab|H|3
+leg_angioplasty|cardio|Баллонная ангиопластика артерий ног|Balloon angioplasty of leg arteries|cath_lab|H|3
+evar|cardio|Эндопротезирование аневризмы аорты|Endovascular aortic aneurysm repair (EVAR)|cath_lab|H|3
+stroke_thrombectomy|cardio|Тромбэктомия при инсульте|Thrombectomy for stroke|cath_lab|H|3
+uae|cardio|Эмболизация маточных артерий|Uterine artery embolisation|cath_lab|H|3
+ep_study|cardio|Электрофизиологическое исследование сердца (ЭФИ)|Cardiac electrophysiology study|cath_lab|H|3
+# --- Плановые операции ---
+fundoplication|surg|Операция при грыже пищеводного отверстия и рефлюксе|Hiatal hernia repair and fundoplication|or_room|H|3
+parathyroid|surg|Удаление паращитовидной железы|Parathyroidectomy|or_room|H|3
+achilles|surg|Операция при разрыве ахиллова сухожилия|Achilles tendon repair|or_room|H|3
+vertebroplasty|surg|Вертебропластика при переломе позвонка|Vertebroplasty for a vertebral fracture|or_room|H|3
+pyloromyotomy|surg|Операция при пилоростенозе у младенца|Pyloromyotomy in infants|or_room|H|3
+lobectomy|surg|Удаление доли лёгкого|Lung lobectomy|or_room|H|3
+breast_recon|surg|Реконструкция груди после мастэктомии|Breast reconstruction after mastectomy|or_room|H|3
+abdominoplasty|surg|Абдоминопластика|Abdominoplasty (tummy tuck)|or_room|H|3
+anal_fistula|surg|Операция при свище прямой кишки|Anal fistula surgery|or_room|H|3
+dupuytren|surg|Операция при контрактуре Дюпюитрена|Dupuytren's contracture surgery|or_room|H|3
+kidney_transplant|surg|Пересадка почки|Kidney transplant|or_room|H|3
+breast_reduction|surg|Уменьшение груди|Breast reduction|or_room|H|3
+meniscus|surg|Шов и резекция мениска|Meniscus repair and trimming|or_room|H|2
+# --- Обезболивание и наркоз ---
+fasting_preop|anest|Голод перед наркозом: что можно и когда|Fasting before anaesthesia: what and when|home|L|1
+pca|anest|Обезболивание после операции (эпидуральный катетер, помпа)|Pain relief after surgery (epidural, PCA pump)|ward|M|2
+anest_elderly|anest|Наркоз у пожилых|Anaesthesia in older adults|or_room|H|2
+pain_home|anest|Обезболивание дома после операции|Managing pain at home after surgery|home|L|1
+recovery_room|anest|Пробуждение после наркоза|Waking up after anaesthesia|ward|L|1
+epidural_steroid|anest|Эпидуральная инъекция при боли в спине|Epidural steroid injection for back pain|proc_room|M|3
+rf_denervation|anest|Радиочастотная денервация суставов позвоночника|Radiofrequency denervation of spinal joints|proc_room|M|3
+# --- Реабилитация ---
+hip_fracture_rehab|rehab|Реабилитация после перелома шейки бедра|Rehab after hip fracture|rehab_room|L|2
+pulm_rehab|rehab|Лёгочная реабилитация (после пневмонии, при ХОБЛ)|Pulmonary rehabilitation|rehab_room|L|2
+spine_surg_rehab|rehab|Реабилитация после операции на позвоночнике|Rehab after spine surgery|rehab_room|L|3
+acl_rehab|rehab|Реабилитация после пластики связки колена|Rehab after ACL reconstruction|rehab_room|L|3
+cp_rehab|rehab|Реабилитация ребёнка с ДЦП|Rehabilitation for children with cerebral palsy|rehab_room|L|3
+lymphedema|rehab|Лечение лимфедемы (лимфодренаж, прессотерапия)|Lymphoedema treatment (drainage, compression)|rehab_room|L|3
+walking_aids|rehab|Обучение ходьбе с костылями и ходунками|Learning to walk with crutches or a walker|rehab_room|L|2
+insoles|rehab|Подбор ортопедических стелек|Orthotic insole fitting|rehab_room|L|2
+scoliosis_brace|rehab|Корсет при сколиозе|Scoliosis brace|rehab_room|L|3
+scoliosis_lfk|rehab|ЛФК при сколиозе у ребёнка|Scoliosis exercise therapy for children|rehab_room|L|2
+parkinson_rehab|rehab|Реабилитация при болезни Паркинсона|Rehab for Parkinson's disease|rehab_room|L|3
+neuropsych|rehab|Восстановление памяти и внимания после инсульта|Cognitive rehab after stroke|office|L|3
+swallow_rehab|rehab|Восстановление глотания после инсульта|Swallowing rehab after stroke|rehab_room|L|3
+amputation_rehab|rehab|Реабилитация и протез после ампутации|Rehab and prosthesis after amputation|rehab_room|L|3
+defectologist|rehab|Занятия с дефектологом|Special education sessions (defectologist)|office|L|3
+autism_aba|rehab|Абилитация ребёнка с аутизмом (АВА-терапия)|Early intervention for autism (ABA)|office|L|3
+# --- Приёмы: по специальностям ---
+headache_visit|visit|Обследование при головной боли и мигрени|Headache and migraine evaluation|office|L|1
+memory_screen|visit|Проверка памяти (скрининг деменции)|Memory check (dementia screening)|office|L|2
+kids_neuro|visit|Приём детского невролога|Paediatric neurology visit|office|L|1
+cv_risk|visit|Оценка сердечно-сосудистого риска|Cardiovascular risk assessment|office|L|2
+fatty_liver|visit|Жировой гепатоз: наблюдение у гепатолога|Fatty liver: hepatology follow-up|office|L|2
+proctologist|visit|Приём проктолога|Proctology visit|proc_room|L|2
+chronic_cough|visit|Обследование при хроническом кашле|Chronic cough evaluation|office|L|2
+diabetes_foot_exam|visit|Осмотр стоп при диабете (чувствительность)|Diabetic foot examination|office|L|2
+obesity|visit|Лечение ожирения у врача|Medical weight management|office|L|2
+osteoporosis|visit|Обследование и лечение остеопороза|Osteoporosis assessment and treatment|office|L|2
+gout|visit|Подагра: лечение и диета|Gout: treatment and diet|office|L|2
+ra_followup|visit|Наблюдение при ревматоидном артрите|Rheumatoid arthritis follow-up|office|L|3
+cancer_screen_age|visit|Онкоскрининг по возрасту: что и когда|Age-based cancer screening: what and when|office|L|1
+phlebologist|visit|Приём флеболога|Vein specialist (phlebologist) visit|office|L|2
+somnologist|visit|Приём сомнолога|Sleep specialist visit|office|L|3
+narcologist|visit|Приём нарколога|Addiction specialist visit|office|L|3
+phthisiatrician|visit|Приём фтизиатра|Tuberculosis specialist visit|office|L|3
+geriatrician|visit|Приём гериатра|Geriatrician visit|office|L|3
+palliative_home|visit|Паллиативная помощь на дому|Palliative care at home|home|L|3
+kids_orvi|visit|Ребёнок заболел ОРВИ: приём педиатра|Child with a cold: paediatrician visit|office|L|1
+kids_endo|visit|Приём детского эндокринолога (рост, вес, половое созревание)|Paediatric endocrinology (growth, weight, puberty)|office|L|3
+# --- Приёмы: диспансеризация и медкомиссии ---
+dispans_rf|visit|Диспансеризация взрослых (РФ)|Adult preventive health check (Russia)|office|L|1
+screening_kz|visit|Скрининговые осмотры по возрасту (РК)|Age-based screening programme (Kazakhstan)|office|L|1
+dispensary|visit|Диспансерное наблюдение при хронической болезни|Chronic disease follow-up programme|office|L|2
+military_cert|visit|Медкомиссия в военкомате|Military medical board|office|L|2
+gun_cert|visit|Медкомиссия на оружие|Medical certificate for a firearms licence|office|L|3
+san_book|visit|Санитарная книжка|Health certificate for food and childcare workers|office|L|2
+university_cert|visit|Медсправка для поступления в вуз|Medical certificate for university admission|office|L|2
+pool_cert|visit|Справка в бассейн|Medical certificate for a swimming pool|office|L|2
+migrant_cert|visit|Медосвидетельствование для мигрантов и ВНЖ|Medical exam for migrants and residence permits|office|L|2
+disability_mse|visit|Медико-социальная экспертиза (инвалидность)|Disability assessment|office|L|3
+predtrip|visit|Предрейсовый медосмотр водителя|Pre-trip medical check for drivers|office|L|2
+psych_narco_cert|visit|Справки от психиатра и нарколога|Psychiatric and addiction clearance certificates|office|L|2
+# --- Как жить с хронической болезнью ---
+diabetes_school|visit|Школа диабета|Diabetes education programme|office|L|2
+hypo|visit|Гипогликемия: как распознать и что делать|Hypoglycaemia: signs and what to do|home|L|1
+bread_units|visit|Подсчёт хлебных единиц и углеводов|Carbohydrate counting|home|L|2
+diabetic_feet_home|visit|Уход за ногами при диабете|Foot care with diabetes|home|L|1
+diabetes_kids_school|visit|Ребёнок с диабетом в школе и садике|A child with diabetes at school|home|L|3
+levothyroxine|visit|Как принимать гормоны щитовидной железы|How to take thyroid hormone tablets|home|L|2
+htn_crisis|visit|Высокое давление дома: что делать|High blood pressure at home: what to do|home|L|1
+asthma_life|visit|Жизнь с астмой: план действий|Living with asthma: action plan|home|L|1
+asthma_kids|visit|Астма у ребёнка: контроль и приступ|Asthma in children: control and attacks|home|L|2
+copd_life|visit|Жизнь с ХОБЛ|Living with COPD|home|L|2
+hf_life|visit|Жизнь с сердечной недостаточностью (вес, отёки, соль)|Living with heart failure (weight, swelling, salt)|home|L|2
+after_mi|visit|Жизнь после инфаркта|Life after a heart attack|home|L|2
+ckd_life|visit|Хроническая болезнь почек: диета и контроль|Chronic kidney disease: diet and monitoring|home|L|2
+epilepsy_life|visit|Эпилепсия: первая помощь при приступе и жизнь|Epilepsy: seizure first aid and daily life|home|L|2
+stroke_home|visit|Уход после инсульта дома|Caring for someone after a stroke|home|L|2
+antibiotics|visit|Как правильно принимать антибиотики|How to take antibiotics correctly|home|L|1
+af_life|visit|Жизнь с фибрилляцией предсердий|Living with atrial fibrillation|home|L|2
+# --- Прививки ---
+vacc_dtp|vacc|Прививка АКДС (коклюш, дифтерия, столбняк)|DTP vaccine (whooping cough, diphtheria, tetanus)|proc_room|L|1
+vacc_polio|vacc|Прививка от полиомиелита|Polio vaccine|proc_room|L|1
+vacc_hib|vacc|Прививка от гемофильной инфекции|Hib vaccine|proc_room|L|2
+vacc_mening|vacc|Прививка от менингококка|Meningococcal vaccine|proc_room|L|2
+vacc_hepa|vacc|Прививка от гепатита A|Hepatitis A vaccine|proc_room|L|2
+vacc_tbe|vacc|Прививка от клещевого энцефалита|Tick-borne encephalitis vaccine|proc_room|L|2
+vacc_zoster|vacc|Прививка от опоясывающего лишая|Shingles vaccine|proc_room|L|3
+vacc_rsv|vacc|Прививка от РСВ (беременным и пожилым)|RSV vaccine (pregnancy and older adults)|proc_room|L|3
+rsv_baby|vacc|Защита младенца от РСВ (моноклональные антитела)|RSV antibody protection for infants|proc_room|L|3
+vacc_adults|vacc|Прививки взрослым: что и когда|Adult vaccination schedule|office|L|2
+vacc_reaction|vacc|Реакция на прививку: что нормально|Vaccine reactions: what is normal|home|L|1

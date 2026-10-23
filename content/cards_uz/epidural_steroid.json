@@ -1,0 +1,78 @@
+{
+ "title": "Bel og‘rig‘ida epidural inyeksiya",
+ "also": [
+  "epidural blokada",
+  "umurtqa blokadasi",
+  "og‘riqqa umurtqaga ukol",
+  "epiduralga gormon kiritish"
+ ],
+ "what": "Shifokor umurtqa pog‘onasidagi nerv yonidan yallig‘lanishga qarshi dori kiritadi. Bu bel va oyoqdagi og‘riqni kamaytiradi.",
+ "why": "Oyoq yoki qo‘lga beradigan bel og‘rig‘ida, masalan disk churrasida, tabletkalar va davolovchi jismoniy tarbiya kam yordam berganda.",
+ "duration": "muolaja odatda 15–30 daqiqa, keyin kuzatuv — taxminan 30–60 daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiradigan dorilar — qaysini va qachon bekor qilishni shifokor aytadi",
+  "Allergiyalar, ayniqsa yod va kontrastga",
+  "Diabet — dori qandni vaqtincha oshirishi mumkin",
+  "Homiladorlik yoki uning ehtimoli",
+  "Bir kun oldin harorat yoki infeksiya"
+ ],
+ "prepare": [
+  {
+   "title": "Suratlar",
+   "text": "Umurtqa MRT yoki KTsini oling — shifokor ukol joyini shunga qarab tanlaydi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda yengil nonushta qilsa bo‘ladi. Sedatsiya bo‘lsa — klinikadan aniqlab oling."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Sizni kimdir uyga olib borgani yaxshi: oyoq vaqtincha uvishib qolishi mumkin."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, MRT yoki KT suratlari",
+  "Hujjatlar",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Qorinbag‘irlab yotasiz yoki o‘tirasiz",
+  "Bel terisi ishlanib, og‘riqsizlantiriladi",
+  "Rentgen yoki UZI ostida shifokor ingichka igna kiritadi",
+  "Joyni tekshirish uchun ozgina kontrast kiritiladi",
+  "Dori kiritiladi, igna olinadi, plastir yopishtiriladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantirish ukoli — achishtiradi",
+  "Belda bosim yoki to‘lib ketish hissi, ba’zan oyoqqa beradi",
+  "Oyoq vaqtincha uvishib yoki kuchsizlanishi mumkin"
+ ],
+ "after": [
+  "Bugun — tinch kun, rulga o‘tirmagan ma’qul",
+  "Ta’sir odatda bir necha kundan keyin keladi",
+  "Ba’zan dastlabki kunlarda og‘riq hatto biroz kuchliroq bo‘ladi",
+  "Shifokor maslahatiga ko‘ra davolovchi jismoniy tarbiyani davom ettiring"
+ ],
+ "red_flags": [
+  "Yotganda o‘tib ketadigan kuchli bosh og‘rig‘i",
+  "Harorat 38 dan yuqori, ukol joyida qizarish",
+  "Oyoqlarda ortib boruvchi holsizlik, chov sohasida uvishish — 103 ga qo‘ng‘iroq qiling",
+  "Siydik chiqara olmayapsiz yoki tuta olmayapsiz — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Ta’sir qancha davom etadi?",
+   "a": "Turlicha: bir necha haftadan oylargacha. Ba’zilarda ta’sir kuchsiz bo‘ladi."
+  },
+  {
+   "q": "Bunday ukollarni necha marta qilsa bo‘ladi?",
+   "a": "Soni cheklanadi. Natijaga qarab shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga belga ukol. MRT suratlari va dorilar ro‘yxatini oling. Sizni kimdir uyga olib borishini so‘rang."
+  }
+ ]
+}

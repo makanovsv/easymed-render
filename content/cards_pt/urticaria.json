@@ -1,0 +1,76 @@
+{
+ "title": "Consulta para urticária",
+ "also": [
+  "urticária",
+  "vergões na pele",
+  "alergia na pele",
+  "placas vermelhas que coçam",
+  "coceira com vergões"
+ ],
+ "what": "A urticária são vergões e coceira na pele, como de queimadura de urtiga. As manchas aparecem e somem rápido. O médico procura a causa e escolhe o tratamento.",
+ "why": "Quando aparecem vergões na pele que coçam, uma vez ou repetindo por semanas.",
+ "duration": "a consulta leva normalmente 20 a 30 minutos; os exames, se o médico pedir",
+ "tell_doctor": [
+  "Quando começou, quanto tempo duram as manchas e com que frequência aparecem",
+  "O que comeu, que remédios tomou, o que aconteceu antes das manchas",
+  "Se houve inchaço nos lábios, nas pálpebras ou na língua",
+  "Todos os remédios e suplementos que você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Fotos",
+   "text": "Fotografe as manchas. Na consulta elas podem ter sumido."
+  },
+  {
+   "title": "Diário",
+   "text": "Anote quando as manchas apareceram e o que houve antes."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare seus remédios por conta própria. Se toma remédio para alergia, avise o médico."
+  }
+ ],
+ "bring": [
+  "Fotos das manchas",
+  "Lista de remédios e suplementos",
+  "Diário das crises",
+  "Resultados de exames anteriores"
+ ],
+ "steps": [
+  "O médico faz perguntas detalhadas sobre as manchas",
+  "Examina a pele",
+  "Às vezes passa o dedo na pele para ver a reação",
+  "Pede exames, se for preciso",
+  "Escolhe um remédio e explica como tomar"
+ ],
+ "feel": [
+  "O exame não dói",
+  "A coceira pode ser forte. O tratamento normalmente ajuda rápido"
+ ],
+ "after": [
+  "Tome o remédio como o médico receitou, mesmo que as manchas tenham passado",
+  "Evite o que causa as manchas, se já se sabe",
+  "Na crise, não use roupa apertada nem tome banho quente",
+  "Se as manchas durarem mais de 6 semanas, é preciso nova consulta"
+ ],
+ "red_flags": [
+  "Inchaço nos lábios, na língua, na garganta, dificuldade para engolir ou respirar: ligue para a emergência",
+  "Fraqueza, tontura, desmaio junto com as manchas: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Urticária pega?",
+   "a": "Não. Ela não passa de uma pessoa para outra."
+  },
+  {
+   "q": "É sempre alergia a comida?",
+   "a": "Não. Muitas vezes não se acha a causa. Pode aparecer depois de infecções e remédios. O médico ajuda a entender."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta para urticária. Leve as fotos das manchas e a lista de remédios."
+  }
+ ]
+}

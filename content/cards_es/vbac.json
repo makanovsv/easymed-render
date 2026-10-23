@@ -1,0 +1,83 @@
+{
+ "title": "Parto después de una cesárea",
+ "also": [
+  "parto vaginal después de cesárea",
+  "PVDC",
+  "VBAC",
+  "parto natural después de cesárea",
+  "parto con cicatriz en el útero"
+ ],
+ "what": "Es un parto normal en una mujer que antes tuvo una cesárea. Se atiende con vigilancia cuidadosa de los médicos.",
+ "why": "Cuando la cicatriz del útero está en buen estado y no hay otras razones para operar. La decisión se toma junto con el médico.",
+ "duration": "el parto dura distinto en cada mujer, normalmente muchas horas; normalmente te quedas en la maternidad de 2 a 4 días",
+ "tell_doctor": [
+  "Por qué fue tu cesárea anterior",
+  "Cuánto tiempo ha pasado desde entonces",
+  "Si hubo complicaciones después de la cirugía",
+  "Todos tus medicamentos y enfermedades",
+  "Lo que deseas y lo que te da miedo"
+ ],
+ "prepare": [
+  {
+   "title": "Consulta",
+   "text": "Platica con tiempo con tu médico si puedes tener parto vaginal y cuáles son los riesgos."
+  },
+  {
+   "title": "Documentos",
+   "text": "Lleva el informe de tu cirugía anterior. Es muy importante."
+  },
+  {
+   "title": "Maternidad",
+   "text": "Normalmente se elige un hospital donde se pueda hacer una cirugía urgente las 24 horas."
+  },
+  {
+   "title": "Maleta",
+   "text": "Prepara con tiempo la maleta para el hospital."
+  }
+ ],
+ "bring": [
+  "Tu carnet de control prenatal",
+  "El informe de tu cesárea anterior",
+  "Tus documentos",
+  "La maleta para el hospital"
+ ],
+ "steps": [
+  "Cuando empiezan las contracciones o se rompe la fuente, vas a la maternidad",
+  "El médico te revisa y, si hace falta, hace un ultrasonido de la cicatriz",
+  "Normalmente registran todo el tiempo el latido del bebé",
+  "Te ponen un catéter en la vena por precaución",
+  "Las contracciones son como en un parto normal; puedes pedir anestesia",
+  "Si algo no va bien, los médicos pueden pasar a una cesárea",
+  "Ponen al bebé sobre tu pecho"
+ ],
+ "feel": [
+  "Las contracciones duelen como en un parto normal. La anestesia se platica con el médico",
+  "El sensor fijo en el abdomen puede no dejarte moverte mucho"
+ ],
+ "after": [
+  "La recuperación normalmente es más rápida que después de una cesárea",
+  "En la maternidad vigilan el sangrado y cómo te sientes",
+  "Consulta con el médico después del alta. Te dirán la fecha"
+ ],
+ "red_flags": [
+  "Dolor fuerte y repentino en la cicatriz: dile al personal de inmediato",
+  "Sangrado después del alta: llama a emergencias",
+  "Fiebre de más de 38 o dolor fuerte de vientre"
+ ],
+ "faq": [
+  {
+   "q": "¿Es seguro tener parto vaginal después de una cesárea?",
+   "a": "Para muchas mujeres sí. Pero lo decide el médico después de revisarte y conocer tu cirugía anterior."
+  },
+  {
+   "q": "¿Y si no se logra?",
+   "a": "Entonces los médicos hacen una cesárea. Por eso el parto se atiende donde se puede hacer rápido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Ya casi es la fecha del parto. Revisa tu maleta, tu carnet de control prenatal y el informe de tu cesárea anterior."
+  }
+ ]
+}

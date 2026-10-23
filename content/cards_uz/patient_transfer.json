@@ -1,0 +1,82 @@
+{
+ "title": "Yotib qolgan bemorni qanday ko‘chirish va o‘girish",
+ "also": [
+  "yotib qolgan bemorni qanday o‘girish",
+  "yotib qolgan bemorni ko‘chirish",
+  "to‘shakdan qanday o‘tqazish",
+  "yotib qolgan bemorga qarash",
+  "bemorni qanday ko‘tarish"
+ ],
+ "what": "O‘zi turolmaydigan odamni xavfsiz o‘girish, tortib qo‘yish va o‘tqazish. To‘g‘ri usullar uning ham, sizning belingizni ham asraydi.",
+ "why": "Qarindoshingiz yotib qolgan yoki kasallik, operatsiya, insultdan keyin holsiz bo‘lganda.",
+ "duration": "bitta o‘girish odatda 1–3 daqiqa",
+ "tell_doctor": [
+  "Odamda sinishlar, yaqindagi operatsiya yoki harakatda og‘riq bo‘lsa — qanday o‘girish mumkinligini so‘rang",
+  "U yiqilishi mumkin bo‘lsa yoki turganda hushdan ketgan bo‘lsa",
+  "O‘zingizning belingiz og‘risa",
+  "Funksional karavot yoki ko‘targich kerak bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Karavot",
+   "text": "Karavot sozlansa, uni belgacha ko‘taring. Tormozlar o‘rnida bo‘lsin."
+  },
+  {
+   "title": "Yordamchi",
+   "text": "Odam og‘ir bo‘lsa, ikkinchi odamni chaqiring."
+  },
+  {
+   "title": "Choyshab",
+   "text": "Uning ostidagi buklangan choyshab qo‘llaridan tortmasdan tortib qo‘yishga va o‘girishga yordam beradi."
+  },
+  {
+   "title": "Tushuntiring",
+   "text": "Nima qilmoqchi ekaningizni ayting va qo‘lidan kelganicha yordam berishini so‘rang."
+  }
+ ],
+ "bring": [
+  "Choyshab yoki sirpanuvchi taglik",
+  "Yostiqlar va valiklar",
+  "O‘zingiz uchun sirpanmaydigan poyabzal",
+  "Kerak bo‘lsa, yurish ramasi yoki aravacha"
+ ],
+ "steps": [
+  "Karavotga yaqin turing, oyoqlar yelka kengligida",
+  "Yonboshiga o‘girish uchun: uzoqdagi oyog‘ini tizzadan bukib, qo‘lini ko‘kragiga qo‘ying",
+  "Yelka va tizzadan ushlab, o‘zingiz tomonga sekin o‘giring",
+  "Orqasiga va tizzalari orasiga yostiq qo‘ying",
+  "Yuqoriroq tortib qo‘yish uchun: ikkalangiz choyshab chetlaridan ushlab, buyruq bo‘yicha torting",
+  "O‘tqazish uchun: avval yonboshiga o‘giring, oyoqlarini tushiring, yelkalarini ko‘taring",
+  "Turishdan oldin karavot chetida u bilan bir daqiqa o‘tiring"
+ ],
+ "feel": [
+  "Odamga qo‘rqinchli va og‘riqli bo‘lishi mumkin — sekin harakat qiling",
+  "Belni emas, tizzalarni buking — shunda yuklama kamroq bo‘ladi"
+ ],
+ "after": [
+  "Holatni odatda har 2 soatda o‘zgartiring",
+  "Odam ostida burmalar yo‘qligini tekshiring",
+  "Qo‘ltiq ostidan va qo‘llaridan tortmang — yelkani shikastlash mumkin",
+  "Qiyin bo‘lib qolsa, hamshira yoki reabilitologdan o‘qitishni so‘rang"
+ ],
+ "red_flags": [
+  "Odam yiqilib boshini urdi yoki og‘riqdan tura olmayapti — tez yordamni chaqiring (103)",
+  "Qo‘l yoki oyoqda birdan zaiflik, yuz qiyshaygan, nutq noaniq — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Odam yiqila boshlasa nima qilish kerak?",
+   "a": "Uni havoda ushlab qolishga urinmang. Quchoqlab, boshini himoyalagan holda sekin polga tushiring."
+  },
+  {
+   "q": "Bir o‘zi o‘girsa bo‘ladimi?",
+   "a": "Ha, odam yengil bo‘lsa va usulni bilsangiz. Og‘ir odamni ikkovlon o‘girgan yaxshi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Holatni o‘zgartirish vaqti: yonboshiga o‘giring, orqasiga va tizzalari orasiga yostiq qo‘ying."
+  }
+ ]
+}

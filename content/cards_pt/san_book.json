@@ -1,0 +1,71 @@
+{
+ "title": "Caderneta sanitária (carteira de saúde para trabalho)",
+ "also": [
+  "caderneta sanitária",
+  "carteira de saúde",
+  "atestado de saúde ocupacional",
+  "exame admissional para alimentos"
+ ],
+ "what": "É um documento, exigido na Rússia e no Cazaquistão, onde se registram os exames médicos e os resultados de exames. Sem ele, não se pode trabalhar com alimentos e com crianças.",
+ "why": "Para trabalhar em restaurantes, comércio de alimentos, creches, escolas, saúde e outros trabalhos parecidos.",
+ "duration": "normalmente 1 a 3 dias de exames; os resultados saem em alguns dias",
+ "tell_doctor": [
+  "Se já teve infecção intestinal, hepatite ou tuberculose",
+  "Doenças de pele",
+  "Quais remédios você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente é preciso consulta com clínico, fluorografia (raio-X de tórax), exames para infecções intestinais e vermes e, às vezes, dermatologista e ginecologista. A lista depende do trabalho; confirme na clínica."
+  },
+  {
+   "title": "Exame de fezes",
+   "text": "As fezes são colhidas num frasco da farmácia ou da clínica. Vão explicar como colher."
+  },
+  {
+   "title": "Vacinas",
+   "text": "Às vezes conferem as vacinas. Leve a carteira de vacinação, se tiver."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Foto, se a clínica pedir",
+  "Carteira de vacinação",
+  "Resultado de fluorografia do último ano, se tiver"
+ ],
+ "steps": [
+  "Você vai à clínica que emite as cadernetas sanitárias",
+  "Preenche um questionário",
+  "Faz os exames de laboratório",
+  "Faz a fluorografia, se não tiver uma recente",
+  "Passa pelos médicos necessários",
+  "Às vezes faz um curso de higiene e uma prova",
+  "Depois dos exames, você recebe a caderneta com os registros"
+ ],
+ "feel": [
+  "As consultas não doem",
+  "A coleta de material pode incomodar, mas é rápida"
+ ],
+ "after": [
+  "Guarde a caderneta com o empregador ou com você, como for o costume no trabalho",
+  "Fique de olho no prazo do próximo exame"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Com que frequência renovar a caderneta?",
+   "a": "Normalmente uma vez por ano, às vezes com mais frequência. Depende do trabalho."
+  },
+  {
+   "q": "Posso fazer os exames numa clínica e emitir em outra?",
+   "a": "Às vezes sim, mas é melhor confirmar na clínica que emite a caderneta."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a emissão da caderneta sanitária. Leve o documento, a carteira de vacinação e o frasco com o exame, se precisar."
+  }
+ ]
+}

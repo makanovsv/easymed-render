@@ -1,0 +1,66 @@
+{
+ "title": "Oziq-ovqatga chidamsizlik tahlili",
+ "also": [
+  "oziq-ovqat chidamsizligi testi",
+  "mahsulotlarga IgG",
+  "yashirin allergiya testi",
+  "mahsulotlarga chidamsizlik tahlili"
+ ],
+ "what": "Bu venadan olinadigan qon tahlili. Laboratoriya immunitet turli mahsulotlarga qanday javob berishini ko‘radi.",
+ "why": "Odatda bemorning xohishiga ko‘ra — qorin dam bo‘lganda, charchoqda yoki teri muammolarida. Shifokorlar bu testga ehtiyotkorlik bilan qaraydi.",
+ "duration": "qon olish 3–5 daqiqa, natija odatda 3–10 kunda",
+ "tell_doctor": [
+  "Gormon yoki immunitetni pasaytiruvchi dorilar ichayotgan bo‘lsangiz",
+  "Oziq-ovqatga tasdiqlangan allergiya allaqachon bo‘lsa",
+  "Qanday shikoyatlaringiz bor va qaysi mahsulotlardan keyin"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa yoki ovqatdan bir necha soat o‘tgach topshiriladi. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Ovqatlanish",
+   "text": "Tahlildan oldin mahsulotlarni menyudan chiqarmang — natija noaniq bo‘ladi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Qanday dori ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut bog‘lanadi, teri artiladi",
+  "Qon probirkaga olinadi",
+  "Igna olinadi, paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda 3–10 kunda tayyor bo‘ladi",
+  "Faqat shu test asosida mahsulotlarni ovqatdan chiqarmang — natijani shifokor bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bu test allergiya tahlilidan nimasi bilan farq qiladi?",
+   "a": "Allergiya tahlili haqiqiy reaksiyalar bilan bog‘liq boshqa antitanalarni qidiradi. Bu test ko‘pincha shunchaki siz tez-tez yeydigan narsani ko‘rsatadi."
+  },
+  {
+   "q": "Natijaga qarab parhez tutsa bo‘ladimi?",
+   "a": "O‘zingiz tutmang — kerakli mahsulotlardan mahrum bo‘lishingiz mumkin. Parhezni shifokor bilan kelishgan ma’qul."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga oziq-ovqatga chidamsizlik tahlili. Odatdagidek ovqatlaning va och qoringa kelish kerakmi, aniqlab oling."
+  }
+ ]
+}

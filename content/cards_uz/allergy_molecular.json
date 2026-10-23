@@ -1,0 +1,75 @@
+{
+ "title": "Molekulyar allergodiagnostika (ALEX, ImmunoCAP)",
+ "also": [
+  "molekulyar allergodiagnostika",
+  "allergiyaning komponent diagnostikasi",
+  "allergochip",
+  "qon orqali allergen tahlili",
+  "allergopanel"
+ ],
+ "what": "Bu qon tahlili organizm allergenlarning aynan qaysi oqsillariga reaksiya berishini ko‘rsatadi. Bir vaqtning o‘zida ko‘p allergen tekshiriladi.",
+ "why": "Oddiy sinamalar aniq javob bermasa, ko‘p ovqat yoki gul changiga allergiyada, allergenlar bilan davolashdan oldin, og‘ir reaksiyalarda.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda bir necha kunda — 2 haftagacha",
+ "tell_doctor": [
+  "Nimaga va qanday reaksiyalar bo‘ladi — oldindan yozib qo‘ying",
+  "Og‘ir reaksiyalar, shish yoki hushdan ketish bo‘lgan bo‘lsa",
+  "Allergenlar bilan davolanayotgan yoki allergiya ukollarini olayotgan bo‘lsangiz",
+  "Qanday dorilar ichasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda ertalab, yengil ovqatdan 3–4 soat keyin yoki och qoringa topshirgan ma’qul. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Allergiya tabletkalari",
+   "text": "Odatda qon tahliliga ta’sir qilmaydi. O‘zingiz bekor qilmang — shifokordan so‘rang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqori oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "Oldingi allergiya tahlillari",
+  "Reaksiyalar ro‘yxati: nimaga, qachon, qanchalik kuchli"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakchaga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lashadi va mushtni qisib-ochishni so‘rashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilaganday",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi",
+  "Bolaga bitta ukol bo‘lishini tushuntiring — teri sinamalari bo‘lmaydi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natijani allergolog tushuntiradi — u o‘z-o‘zidan hali tashxis emas",
+  "Shifokor maslahatisiz mahsulotlarni ovqatdan chiqarmang"
+ ],
+ "red_flags": [
+  "Ukol joyi qattiq shishdi, og‘riyapti va qizardi"
+ ],
+ "faq": [
+  {
+   "q": "Kasallik zo‘rayganda tahlil qilsa bo‘ladimi?",
+   "a": "Ha. Qon tahlilini allergiya tabletkalari ichayotganda ham, zo‘rayganda ham topshirsa bo‘ladi."
+  },
+  {
+   "q": "Bu tahlil oddiysidan nimasi bilan yaxshi?",
+   "a": "U reaksiya aynan qaysi oqsilga ekanini ko‘rsatadi. Bu og‘ir reaksiyalar xavfini tushunishga va davoni tanlashga yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga allergenlarga qon tahlili. Nimaga reaksiyalar bo‘lishini yozib qo‘ying. Allergiya tabletkalari — odatdagidek."
+  }
+ ]
+}

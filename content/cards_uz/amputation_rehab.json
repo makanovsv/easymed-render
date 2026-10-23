@@ -1,0 +1,80 @@
+{
+ "title": "Amputatsiyadan keyingi reabilitatsiya va protez",
+ "also": [
+  "amputatsiyadan keyin protezlash",
+  "oyoq amputatsiyasidan keyingi reabilitatsiya",
+  "protezda yurishni o‘rganish",
+  "protez tanlash"
+ ],
+ "what": "Amputatsiyadan keyin qoldiq oyoq-qo‘l protezga tayyorlanadi, keyin protez bilan yurish va yashashga o‘rgatishadi. Bunda shifokor, protezchi va reabilitolog qatnashadi.",
+ "why": "Oyoq yoki qo‘l amputatsiyasidan keyin — yara bitgach va shifokor ruxsat bergach.",
+ "duration": "mashg‘ulot odatda 45–60 daqiqa, ishonchli yurishgacha yo‘l — odatda oylar",
+ "tell_doctor": [
+  "Qoldiq qanday bitayapti, og‘riq bormi",
+  "Fantom og‘riqlar — yo‘q a’zodagi og‘riq hissi",
+  "Diabet va qon tomir kasalliklari",
+  "Amputatsiyadan oldin nima bilan shug‘ullangansiz: ish, qiziqishlar",
+  "Uyingiz qanday: zinapoyalar, hammom"
+ ],
+ "prepare": [
+  {
+   "title": "Qoldiq",
+   "text": "Bog‘lash yoki silikon g‘ilof qoldiqqa shakl berishga yordam beradi — buni mutaxassis ko‘rsatadi."
+  },
+  {
+   "title": "Teri",
+   "text": "Har kuni qoldiq terisini tekshiring, toza va quruq saqlang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay kiyim, shortik yoki keng shim, sog‘ oyoqqa poyabzal."
+  }
+ ],
+ "bring": [
+  "Operatsiyadan keyingi epikriz",
+  "Protez, agar bor bo‘lsa",
+  "Qulay kiyim va poyabzal",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor qoldiqni va umumiy ahvolni ko‘zdan kechiradi",
+  "Kuch va bo‘g‘imlar harakatchanligi uchun mashqlar qilinadi",
+  "Protezchi o‘lchov olib, protez tayyorlaydi",
+  "Protezni kiyish va yechishni o‘rgatishadi",
+  "Protezda turish va yurishni mashq qilishadi — avval parallel bruslar yonida",
+  "Keyin zinapoya va ko‘chada yurishni o‘rgatishadi"
+ ],
+ "feel": [
+  "Avvaliga protezda yurish og‘ir va charchatadi",
+  "Fantom his va og‘riqlar ko‘pchilikda bo‘ladi — shifokorga ayting",
+  "Qoldiq ishqalanishi mumkin, ayniqsa dastlab"
+ ],
+ "after": [
+  "Qoldiq terisini har kuni tekshiring",
+  "Protez ishqalasa — sabr qilmang, protezchiga ko‘rsating",
+  "Mashqlarni uyda bajaring",
+  "Protez vaqt o‘tishi bilan to‘g‘rilanadi, chunki qoldiq o‘zgaradi"
+ ],
+ "red_flags": [
+  "Qoldiqda yara, qizarish yoki yiring",
+  "Harorat 38 dan yuqori",
+  "Qoldiq ko‘karib ketdi, sovuq yoki to‘satdan qattiq og‘riyapti",
+  "Yiqilib, qattiq urilgansiz"
+ ],
+ "faq": [
+  {
+   "q": "Protezni qachon kiysa bo‘ladi?",
+   "a": "Odatda yara bitgandan keyin, bir necha haftada. Muddatni shifokor aytadi."
+  },
+  {
+   "q": "Fantom og‘riqlar o‘tadimi?",
+   "a": "Ko‘pincha vaqt o‘tishi bilan kuchsizlanadi. Ularni kamaytirish usullari bor — shifokorga ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun reabilitatsiya mashg‘uloti. Protez bo‘lsa, uni va qulay kiyimni oling."
+  }
+ ]
+}

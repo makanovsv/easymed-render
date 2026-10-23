@@ -1,0 +1,65 @@
+{
+ "title": "Tishlarning raqamli qolipi (skaner)",
+ "also": [
+  "raqamli qolip",
+  "tishlarni 3D skanerlash",
+  "qolip o‘rniga skaner",
+  "optik qolip"
+ ],
+ "what": "Shifokor og‘iz ichida kichik skaner yurgizadi va tishlaringizning 3D modelini ekranda ko‘radi. Qolip massasi kerak emas.",
+ "why": "Qoplama, vinir, vkladka, implant, elayner va breketlar, tungi kappalar uchun.",
+ "duration": "odatda 5–20 daqiqa, model darrov ko‘rinadi",
+ "tell_doctor": [
+  "Qusish refleksi kuchli bo‘lsa",
+  "Jag‘ og‘risa yoki og‘izni uzoq ochiq tutish qiyin bo‘lsa",
+  "Olinadigan protezlar yoki breketlar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Gigiyena",
+   "text": "Qabuldan oldin tishlaringizni tozalang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Oldindan ovqatlansangiz bo‘ladi, alohida tayyorgarlik kerak emas."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Shifokor yo‘llanmasi, agar bo‘lsa"
+ ],
+ "steps": [
+  "Siz kresloga o‘tirasiz",
+  "Tishlar havo bilan quritiladi",
+  "Shifokor skanerni tishlar bo‘ylab yuqoridan va pastdan yurgizadi",
+  "Tishlovingizni olish uchun tishlaringizni jipslashtirishni so‘raydi",
+  "Modelni ekranda tekshiradi, kerak bo‘lsa ayrim joylarni qayta skanerlaydi"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Skanerdan biroz iliqlik sezilishi mumkin",
+  "Og‘izni bir necha daqiqa ochiq tutish kerak"
+ ],
+ "after": [
+  "Darrov yeb-ichsangiz bo‘ladi",
+  "Model laboratoriyaga yoki davolash rejasi uchun yuboriladi",
+  "Tayyorlanish muddatini shifokor aytadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bu oddiy qolipdan aniqroqmi?",
+   "a": "Odatda yomon emas, ko‘p ishlarda esa aniqroq. Buni shifokor hal qiladi."
+  },
+  {
+   "q": "Nurlanish bormi?",
+   "a": "Yo‘q. Skaner kamera kabi yorug‘lik bilan ishlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga tishlarning raqamli qolipi olinadi. Qabuldan oldin tishlaringizni tozalang."
+  }
+ ]
+}

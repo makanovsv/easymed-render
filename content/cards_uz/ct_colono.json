@@ -1,0 +1,77 @@
+{
+ "title": "Virtual kolonoskopiya",
+ "also": [
+  "KT-kolonografiya",
+  "virtual kolonoskopiya",
+  "ichak KT’si"
+ ],
+ "what": "Yo‘g‘on ichakning kompyuter tomografida olingan suratlari. Ichak havo bilan biroz shishiriladi, kamerali nay kiritilmaydi.",
+ "why": "Poliplarni qidirish uchun, oddiy kolonoskopiya mumkin bo‘lmasa yoki oxirigacha o‘tmagan bo‘lsa, yoki shifokor qaroriga ko‘ra.",
+ "duration": "kabinetda odatda 15–20 daqiqa, oldingi kuni tayyorgarlik bilan; tavsif 1–2 kunda",
+ "tell_doctor": [
+  "Qonni suyultiruvchi va temir preparatlari",
+  "Qandli diabet: tayyorgarlik va dorilarni moslashtirish kerak bo‘ladi",
+  "Yodga yoki kontrastga allergiya, buyrak kasalliklari",
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Ichakdagi yaqinda o‘tkazilgan operatsiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "1–2 kun oldin",
+   "text": "Kletchatkasiz parhez: sabzavotlar, mevalar, urug‘lar, yong‘oqlar, dukkaklilarsiz. Sxemani klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Tozalash",
+   "text": "Oldingi kuni ichakni tozalash vositasini shifokor sxemasi bo‘yicha ichishadi. Ko‘pincha najasni belgilash uchun maxsus kontrast qo‘shishadi."
+  },
+  {
+   "title": "Tekshiruv kuni",
+   "text": "Odatda ovqat yemaslik kerak. Tiniq suyuqlik ichish: klinika ko‘rsatmasi bo‘yicha."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Shifokorga ayting, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi kolonoskopiya xulosalari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Yonboshingizga yotasiz",
+  "To‘g‘ri ichakka ingichka yumshoq nay kiritiladi",
+  "U orqali ichakni yozish uchun havo yoki karbonat angidrid beriladi",
+  "Ba’zan ichak bo‘shashishi uchun venaga dori yuboriladi",
+  "Chalqancha va qorin bilan yotib suratlar olinadi: nafasni ushlash kerak",
+  "Nay olinadi"
+ ],
+ "feel": [
+  "Gaz berilayotganda qorinda tarangligi va spazmlar",
+  "Og‘rimaydi, muolajadan keyin his-tuyg‘ular tez o‘tadi"
+ ],
+ "after": [
+  "Gazlar bir soat ichida chiqadi: bu normal",
+  "Odatdagidek ovqatlanish mumkin",
+  "Polip topilsa, shifokor odatda ularni olib tashlash uchun oddiy kolonoskopiyaga yuboradi"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq, qorin qattiqlashishi, harorat yoki to‘g‘ri ichakdan qon bo‘lsa, 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Ichakni tozalamaslik mumkinmi?",
+   "a": "Yo‘q. Najas qoldiqlari polipni yashirishi yoki uning o‘ziga o‘xshab ko‘rinishi mumkin."
+  },
+  {
+   "q": "Bu oddiy kolonoskopiyani almashtiradimi?",
+   "a": "Doim emas. KT’da polipni olib tashlab va tahlil olib bo‘lmaydi. Tanlovni shifokor qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga virtual kolonoskopiya. Bugun sxema bo‘yicha parhez va ichakni tozalash."
+  }
+ ]
+}

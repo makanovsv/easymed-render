@@ -1,0 +1,71 @@
+{
+ "title": "Revisiones preventivas según la edad (Kazajistán)",
+ "also": [
+  "chequeo preventivo",
+  "revisión preventiva",
+  "estudios de detección",
+  "chequeo gratuito"
+ ],
+ "what": "Revisiones gratuitas en la clínica a la que estás asignado. Ayudan a encontrar enfermedades en una etapa temprana. Lo que incluyen depende de la edad y del sexo.",
+ "why": "Para adultos de ciertas edades, según un calendario, normalmente cada pocos años. Confirma el tuyo en la clínica.",
+ "duration": "normalmente 1 o 2 visitas; los resultados llegan en unos días",
+ "tell_doctor": [
+  "Qué enfermedades tienes y qué medicamentos tomas",
+  "Si fumas",
+  "Enfermedades del corazón, diabetes y cáncer en familiares cercanos",
+  "Qué revisiones ya te hiciste y cuándo"
+ ],
+ "prepare": [
+  {
+   "title": "Tu turno",
+   "text": "Pregunta en tu clínica o en la aplicación si te toca la revisión este año."
+  },
+  {
+   "title": "Comida",
+   "text": "Para el análisis de sangre normalmente se va en ayunas, en la mañana. Confírmalo en la clínica."
+  },
+  {
+   "title": "Preparación",
+   "text": "Algunos estudios, como la citología o el análisis de heces, tienen su propia preparación: te la explicarán con anticipación."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Resultados de revisiones anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Vas a la clínica a la que estás asignada o asignado",
+  "Llenas un cuestionario",
+  "Te miden la presión, la estatura y el peso",
+  "Te hacen los análisis que corresponden a tu edad",
+  "Pasas por las revisiones y estudios necesarios",
+  "El médico ve los resultados y te dice qué sigue"
+ ],
+ "feel": [
+  "La mayoría de los estudios no duelen",
+  "Algunos son incómodos, pero cortos"
+ ],
+ "after": [
+  "Si todo está bien, la siguiente revisión será según el calendario",
+  "Si encuentran algo, te mandarán con un especialista: eso todavía no es un diagnóstico",
+  "Guarda los resultados"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Hay que pagar por la revisión?",
+   "a": "Las revisiones por edad normalmente son gratuitas. Confírmalo en la clínica a la que estás asignado."
+  },
+  {
+   "q": "¿Y si mi edad no está en el programa?",
+   "a": "Puedes hacerte estudios con orden del médico o de forma particular. Coméntalo con el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu revisión preventiva. En la mañana no comas antes del análisis de sangre y lleva tu documento de identidad."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "Magnitoterapiya",
+ "also": [
+  "magnit",
+  "apparatda magnitoterapiya",
+  "magnit bilan fizioterapiya",
+  "magnit bilan davolash"
+ ],
+ "what": "Apparat og‘riyotgan joy ustida kuchsiz magnit maydon hosil qiladi. Bu shish va og‘riqni kamaytirishga yordam beradi.",
+ "why": "Bo‘g‘im va belda og‘riqda, jarohat va sinishlardan keyin, shishlarda — shifokor buyrug‘i bilan.",
+ "duration": "muolaja odatda 10–20 daqiqa; kurs odatda taxminan 10 muolaja",
+ "tell_doctor": [
+  "Yurak stimulyatori yoki boshqa implantatsiya qilingan asbob bo‘lsa",
+  "Homilador bo‘lsangiz",
+  "Qon ketishlari bo‘lsa yoki qonni suyultiruvchi preparatlar ichsangiz",
+  "Harorat ko‘tarilgan bo‘lsa",
+  "Onkologik kasalliklar"
+ ],
+ "prepare": [
+  {
+   "title": "Metall",
+   "text": "Soat, taqinchoq va bank kartalarini yeching, telefonni apparatdan uzoqroq tuting."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay. Ko‘pincha muolaja kiyim yoki bog‘lam orqali qilinadi — klinikadan aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Shifokor yo‘llanmasi",
+  "Qulay kiyim"
+ ],
+ "steps": [
+  "Siz yotasiz yoki o‘tirasiz",
+  "Apparat induktori og‘riyotgan joyga yoki uning yoniga qo‘yiladi",
+  "Hamshira apparatni yoqadi va vaqtni sozlaydi",
+  "Signalgacha tinch yotasiz",
+  "Apparat olinadi — ketishingiz mumkin"
+ ],
+ "feel": [
+  "Odatda hech narsa sezilmaydi",
+  "Ba’zan — yengil issiqlik yoki chimirlash"
+ ],
+ "after": [
+  "Darrov odatdagi ishlaringizga qaytishingiz mumkin",
+  "Muolajalarga jadval bo‘yicha boring — kurs muhim",
+  "Ba’zan dastlabki kunlarda og‘riq biroz kuchayib, keyin o‘tadi — shifokorga ayting"
+ ],
+ "red_flags": [
+  "Muolajadan keyin bosh aylanishi, kuchli holsizlik yoki bosim sakrashi — shifokorga ayting"
+ ],
+ "faq": [
+  {
+   "q": "Gips bilan mumkinmi?",
+   "a": "Ko‘pincha ha, muolaja to‘g‘ridan-to‘g‘ri gips orqali qilinadi. Shifokor hal qiladi."
+  },
+  {
+   "q": "Bu zararli emasmi?",
+   "a": "Maydon kuchsiz va mahalliy ta’sir qiladi. Shifokor buyurishdan oldin qarshi ko‘rsatmalarni tekshiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Bugun magnitoterapiya. Soat va taqinchoqlarni yeching, yo‘llanmani oling."
+  }
+ ]
+}

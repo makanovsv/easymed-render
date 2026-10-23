@@ -1,0 +1,69 @@
+{
+ "title": "Tomoqdan floraga surtma",
+ "also": [
+  "tomoqdan surtma",
+  "tomoqdan ekma",
+  "tomoq va burundan surtma",
+  "tomoqdan bakteriologik ekma",
+  "floraga surtma"
+ ],
+ "what": "Tomoqdan paxtali cho‘p bilan surtma olinadi. Laboratoriyada u ekiladi: u yerda qanday mikroblar yashashi va ularga qaysi dorilar ta’sir qilishi aniqlanadi.",
+ "why": "Tez-tez anginada, cho‘zilgan tomoq og‘rig‘ida, sanatoriy yoki ish oldidan, ba’zan stafilokokk tashuvchiligini tekshirish uchun.",
+ "duration": "surtma bir necha soniya, natija odatda 3–7 kunda",
+ "tell_doctor": [
+  "Antibiotik ichayotgan yoki yaqinda ichgan bo‘lsangiz",
+  "Tomoq uchun purkagich yoki chayqovlardan foydalansangiz",
+  "Qusgingiz tez kelsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat va ichimlik",
+   "text": "Surtma odatda och qoringa yoki ovqat va ichimlikdan 2–3 soat keyin olinadi. Klinikadan so‘rang."
+  },
+  {
+   "title": "Tomoq va tishlar",
+   "text": "Ertalab tomoqni chayqamang va purkagich ishlatmang. Tish yuvish odatda tavsiya etilmaydi — laboratoriyadan so‘rang."
+  },
+  {
+   "title": "Antibiotiklar",
+   "text": "Ekmani antibiotik boshlashdan oldin topshirgan ma’qul. Allaqachon ichayotgan bo‘lsangiz, shifokorga ayting, o‘zingiz bekor qilmang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz va og‘zingizni ochasiz",
+  "Tilingiz shpatel bilan bosiladi",
+  "Steril cho‘p bilan bodomsimon bezlar va tomoqning orqa devori ustidan o‘tkaziladi",
+  "Cho‘p muhitli probirkaga solinadi",
+  "Burundan ham surtma buyurilgan bo‘lsa, u boshqa cho‘p bilan olinadi"
+ ],
+ "feel": [
+  "Bir soniyaga qusgingiz kelishi mumkin",
+  "Yoqimsiz, lekin tez o‘tadi"
+ ],
+ "after": [
+  "Darrov ovqatlansa va ichsa bo‘ladi",
+  "Natija odatda 3–7 kunda",
+  "Javobda antibiotiklarga sezgirlik ham bo‘ladi — uni shifokor tahlil qiladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Stafilokokk topildi — bu kasallikmi?",
+   "a": "Shart emas. Ko‘pchilik odamlar uni zararsiz tashiydi. Davolash kerak-kerakmasligini shifokor shikoyatlarga qarab hal qiladi."
+  },
+  {
+   "q": "Ekma nega shuncha uzoq qilinadi?",
+   "a": "Mikroblarga o‘sish uchun vaqt kerak. Keyin ularga dorilar sinab ko‘riladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga tomoqdan surtma. Klinika boshqacha demagan bo‘lsa, ertalab ovqat yemang, suv ichmang va tomoqni chayqamang."
+  }
+ ]
+}

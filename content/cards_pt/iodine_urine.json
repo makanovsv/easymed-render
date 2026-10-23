@@ -1,0 +1,73 @@
+{
+ "title": "Iodo na urina",
+ "also": [
+  "iodúria",
+  "iodo urinário",
+  "exame de iodo",
+  "falta de iodo"
+ ],
+ "what": "É um exame de urina que mostra quanto iodo o corpo recebe da comida.",
+ "why": "Para ver falta ou excesso de iodo: em doenças da tireoide, na gravidez, antes do tratamento com iodo radioativo.",
+ "duration": "a coleta de urina leva alguns minutos ou 24 horas, o resultado sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Se você toma vitaminas ou suplementos com iodo",
+  "Se fez há pouco tempo tomografia ou outro exame com contraste",
+  "Se passa iodo na pele ou faz bochecho com produtos com iodo",
+  "Se você está grávida ou amamentando"
+ ],
+ "prepare": [
+  {
+   "title": "Contraste",
+   "text": "Depois de tomografia com contraste, há muito iodo na urina por várias semanas. Avise o médico. Talvez o exame seja adiado."
+  },
+  {
+   "title": "Comida",
+   "text": "Coma como de costume, sem grandes porções de algas e frutos do mar na véspera."
+  },
+  {
+   "title": "Suplementos",
+   "text": "Não pare por conta própria. Pergunte ao médico se é preciso dar uma pausa no iodo."
+  },
+  {
+   "title": "Coleta",
+   "text": "Normalmente se entrega a urina da manhã. Às vezes o médico pede a urina de 24 horas. Confirme."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "O frasco com a urina",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Pegue um frasco estéril na farmácia ou no laboratório",
+  "De manhã, lave as mãos e faça a higiene íntima com água, sem sabonete com iodo",
+  "Urine no frasco sem tocar nas bordas",
+  "Feche bem a tampa",
+  "Leve a urina ao laboratório em poucas horas"
+ ],
+ "feel": [
+  "Nada desagradável. É uma coleta de urina comum",
+  "Acertar o frasco é um pouco incômodo. Segure-o pelo lado de fora"
+ ],
+ "after": [
+  "Você pode comer e beber normalmente logo depois",
+  "O resultado de um exame pode variar de um dia para outro. Às vezes o médico repete"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso comer sal iodado antes do exame?",
+   "a": "Pode, coma como sempre. O exame deve mostrar a sua alimentação de costume."
+  },
+  {
+   "q": "Tomografia com contraste afeta o resultado?",
+   "a": "Sim, muito. Avise o médico se fez tomografia nas últimas semanas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de iodo na urina. A urina da manhã vai no frasco estéril. Leve ao laboratório em poucas horas."
+  }
+ ]
+}

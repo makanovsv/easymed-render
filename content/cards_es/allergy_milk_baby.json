@@ -1,0 +1,80 @@
+{
+ "title": "Alergia a la proteína de la leche de vaca en el bebé",
+ "also": [
+  "alergia a la leche en bebés",
+  "APLV",
+  "alergia a la proteína de leche de vaca",
+  "IgE a proteínas de la leche"
+ ],
+ "what": "Al bebé le toman un poco de sangre y revisan si tiene anticuerpos contra las proteínas de la leche de vaca. Es una pista para el médico, no una respuesta final.",
+ "why": "Si después de la fórmula o de lácteos el bebé tiene ronchas, vómito, diarrea, sangre en las heces o está muy inquieto.",
+ "duration": "la toma de sangre suele durar de 5 a 10 minutos; el resultado suele estar en unos días",
+ "tell_doctor": [
+  "Qué comió el bebé antes de la reacción, cuándo, y cómo se veía la reacción",
+  "Cómo lo alimentas ahora: pecho, fórmula o papillas",
+  "Si el bebé toma medicamentos para la alergia o usa cremas con corticoides",
+  "Si los papás o los hermanos tienen alergias",
+  "Si hubo reacciones graves: hinchazón o dificultad para respirar"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente el bebé no tiene que ayunar. Dale de comer como siempre, si en el laboratorio no te dijeron otra cosa."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Si el bebé toma medicamentos para la alergia, díselo al médico; él decidirá."
+  },
+  {
+   "title": "Diario",
+   "text": "Anota lo que comió el bebé y qué reacciones tuvo. Puedes tomarle fotos a las ronchas."
+  },
+  {
+   "title": "Tranquilidad",
+   "text": "Lleva su juguete favorito, su biberón o su chupón: así el bebé estará más tranquilo."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "El documento de identidad del bebé",
+  "El diario de alimentación y las fotos de las reacciones",
+  "Biberón, chupón y un juguete"
+ ],
+ "steps": [
+  "Cargas al bebé o te quedas a su lado",
+  "La enfermera busca una vena en el brazo, a veces en el dorso de la mano",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre se toma en un tubo pequeño",
+  "Ponen un algodón y una curita en el lugar del piquete"
+ ],
+ "feel": [
+  "El bebé casi siempre llora: es por el susto y el piquete, no por un dolor fuerte",
+  "Puedes cargarlo y darle de comer enseguida"
+ ],
+ "after": [
+  "Sostén el algodón unos minutos",
+  "El resultado suele estar en unos días",
+  "Aunque el resultado salga normal, no se descarta la alergia: algunas formas no se ven en la sangre",
+  "Cómo alimentarlo después lo decide el médico; no cambies su alimentación de golpe sin él"
+ ],
+ "red_flags": [
+  "Hinchazón de la cara o los labios, silbido al respirar o dificultad para respirar después de un lácteo: llama a emergencias",
+  "El bebé está decaído, pálido o vomita mucho: ve al médico de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "Si el análisis sale bien, ¿no hay alergia?",
+   "a": "No siempre. Algunas alergias a la leche no producen anticuerpos en la sangre. El médico mira el análisis junto con cómo reacciona el bebé a la comida."
+  },
+  {
+   "q": "Si doy pecho, ¿tengo que dejar los lácteos?",
+   "a": "Eso lo decide el médico. No hagas una dieta estricta por tu cuenta: podrías quedarte sin alimentos que necesitas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es el análisis de sangre del bebé para alergia a la leche. Lleva el diario de alimentación, el biberón y un juguete."
+  }
+ ]
+}

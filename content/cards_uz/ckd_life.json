@@ -1,0 +1,75 @@
+{
+ "title": "Surunkali buyrak kasalligi: parhez va nazorat",
+ "also": [
+  "buyrak kasalligi",
+  "SBK",
+  "buyrak yetishmovchiligi",
+  "buyrak kasalligida parhez"
+ ],
+ "what": "Surunkali buyrak kasalligida buyraklar qonni yomonroq tozalaydi. Ovqatlanish, bosim va tahlillarni nazorat qilish kasallikni sekinlashtirishga yordam beradi.",
+ "why": "Shifokor surunkali buyrak kasalligini topgan bo‘lsa, ko‘pincha diabet yoki yuqori bosimda.",
+ "duration": "tahlillar nazorati odatda bir necha oyda bir marta",
+ "tell_doctor": [
+  "Barcha dorilar va qo‘shimchalar: ba’zilari buyrakka zarar qiladi",
+  "Shish paydo bo‘lsa, siydik kam bo‘lsa yoki rangi o‘zgargan bo‘lsa",
+  "Kontrastli tekshiruvga ketayotgan bo‘lsangiz",
+  "Har qanday yangi dori oldidan"
+ ],
+ "prepare": [
+  {
+   "title": "Og‘riq qoldiruvchilar",
+   "text": "Shifokor maslahatisiz og‘riq qoldiruvchi va giyohlar ichmang: ba’zilari buyrakka zarar qiladi."
+  },
+  {
+   "title": "Ovqatlanish",
+   "text": "Qancha tuz, oqsil, kaliy va suyuqlik mumkinligini shifokor aytadi. Bu bosqichga bog‘liq."
+  },
+  {
+   "title": "Bosim va qand",
+   "text": "Ularni shifokor aytgan ko‘rsatkichlarda ushlang."
+  }
+ ],
+ "bring": [
+  "Qon va siydik tahlillari natijalari",
+  "Dorilar ro‘yxati",
+  "Bosim kundaligi"
+ ],
+ "steps": [
+  "Tuzni kamaytiring: ovqatga qo‘shimcha tuz solmang, kolbasa, konserva va chipslardan saqlaning",
+  "Oqsilni shifokor tayinlagan miqdorda iste’mol qiling",
+  "Shifokor kaliyni cheklagan bo‘lsa, qaysi mahsulotlarda ko‘pligini bilib oling",
+  "Suyuqlikni shifokor aytgancha iching",
+  "Bosimni o‘lchab, yozib boring",
+  "Qon va siydik tahlillarini jadval bo‘yicha topshiring"
+ ],
+ "feel": [
+  "Dastlabki bosqichlarda ko‘pincha hech narsa bezovta qilmaydi",
+  "Keyinroq holsizlik, qichishish, shish bo‘lishi mumkin: shifokorga ayting"
+ ],
+ "after": [
+  "Tahlil natijalarini shifokorga ko‘rsating",
+  "Har bir shifokorga buyrak kasalligingiz borligini ayting",
+  "O‘zingizga kerak emlashlar haqida so‘rang"
+ ],
+ "red_flags": [
+  "Siydik juda kam yoki deyarli bir kecha-kunduz yo‘q bo‘lsa, shoshilinch shifokorga boring",
+  "Kuchli nafas qisilishi, shish kuchayishi bo‘lsa, tez yordamni chaqiring (103)",
+  "Kuchli holsizlik, yurak urishida uzilishlar bo‘lsa, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Buyrak kasalligini davolasa bo‘ladimi?",
+   "a": "Ko‘pincha uni sekinlashtirish mumkin. Davo qanchalik erta boshlansa, shunchalik yaxshi."
+  },
+  {
+   "q": "Ko‘p suv ichish kerakmi?",
+   "a": "Doim emas. Ba’zi bosqichlarda aksincha suv cheklanadi. Shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga buyrak tahlillari. Yo‘llanma va bosim kundaligini oling."
+  }
+ ]
+}

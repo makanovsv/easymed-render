@@ -1,0 +1,77 @@
+{
+ "title": "Hyperbaric oxygen therapy (pressure chamber)",
+ "also": [
+  "pressure chamber",
+  "hyperbaric oxygen therapy",
+  "HBOT",
+  "oxygen chamber"
+ ],
+ "what": "You breathe oxygen in a special chamber with raised pressure. This helps oxygen reach your tissues better.",
+ "why": "For wounds that heal poorly, diabetic foot, carbon monoxide poisoning, decompression sickness and after radiation - as prescribed by a doctor.",
+ "duration": "a session usually takes 60 to 120 minutes; a course is from a few to dozens of sessions",
+ "tell_doctor": [
+  "A cold, a blocked nose or ear pain",
+  "Lung disease or asthma",
+  "Seizures or epilepsy",
+  "Fear of closed spaces",
+  "A pacemaker or other devices in your body"
+ ],
+ "prepare": [
+  {
+   "title": "Clothing",
+   "text": "Cotton clothes are usually provided. Synthetic fabric can spark."
+  },
+  {
+   "title": "Not allowed",
+   "text": "You must not take a phone, lighter, electronics, oil-based cosmetics or hairspray into the chamber."
+  },
+  {
+   "title": "Food",
+   "text": "Have a light meal before the session. Do not smoke - it reduces the benefit."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You change into cotton clothes",
+  "You enter the chamber and lie or sit down",
+  "The pressure is raised slowly - your ears feel blocked, like on a plane",
+  "You breathe oxygen through a mask or hood; in a single-person chamber the whole chamber is filled with oxygen",
+  "Staff are in contact with you the whole time",
+  "At the end the pressure is lowered slowly"
+ ],
+ "feel": [
+  "Blocked ears as the pressure rises - swallowing or yawning helps",
+  "It may be warm in the chamber",
+  "It is usually not painful"
+ ],
+ "after": [
+  "You can go back to your usual activities right away",
+  "Sometimes mild tiredness",
+  "Come to all the sessions of the course"
+ ],
+ "red_flags": [
+  "Severe ear pain or discharge from the ear",
+  "A change in vision that does not go away",
+  "Seizures, severe shortness of breath or chest pain - call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Is it like on a plane?",
+   "a": "Similar: your ears block when the pressure changes. Swallow or yawn and it gets easier."
+  },
+  {
+   "q": "Why can't I take my phone?",
+   "a": "There is a lot of oxygen in the chamber. Any spark is dangerous, so electronics stay outside."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pressure chamber session in 2 hours. Cotton clothes, no cosmetics, leave your phone outside."
+  }
+ ]
+}

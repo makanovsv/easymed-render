@@ -1,0 +1,78 @@
+{
+ "title": "Bavosilni halqalar bilan bog‘lash",
+ "also": [
+  "lateks halqalar bilan bog‘lash",
+  "bavosilga halqalar",
+  "lateks ligirlash",
+  "tugunlarni halqa bilan olib tashlash"
+ ],
+ "what": "Shifokor ichki bavosil tuguni asosiga kichik rezina halqacha kiygizadi. Tugun qurib, taxminan 1–2 haftada tushib ketadi.",
+ "why": "Ichki bavosilda, tugunlar qonayotganda yoki tushib turganda, malhamlar yordam bermasa.",
+ "duration": "protsedura odatda 10–20 daqiqa, darrov uyga ketasiz",
+ "tell_doctor": [
+  "Barcha dorilar, ayniqsa qonni suyultiruvchilar — nima qilishni shifokor aytadi",
+  "Lateksga allergiya",
+  "Ich qotishi bormi",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ichak",
+   "text": "Odatda protseduradan oldin tozalovchi klizma yoki mikroklizma qilinadi. Qanday va qachon — klinika aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda yengil nonushta qilish mumkin. Klinikadan aniqlang."
+  },
+  {
+   "title": "Uyda",
+   "text": "Yumshoq axlat uchun mahsulotlarni oldindan tayyorlang: sabzavot, mevalar, kefir, suv."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Prokladka"
+ ],
+ "steps": [
+  "Yonboshingizga yoki maxsus kreslaga yotasiz",
+  "Shifokor orqa chiqaruv teshigiga ko‘rik uchun kichik asbob kiritadi",
+  "Maxsus qurilma bilan tugunni tortadi",
+  "Uning asosiga halqacha kiygizadi",
+  "Odatda bir safar 1–3 tugun ishlanadi",
+  "Asbob olinadi — protsedura tugadi"
+ ],
+ "feel": [
+  "Protsedura paytida bosim va to‘lib ketish hissi",
+  "Bir necha kun — og‘irlik hissi va xira og‘riq",
+  "Ichak bo‘sh bo‘lsa ham hojatxonaga borgisi kelishi"
+ ],
+ "after": [
+  "Og‘riq qoldiruvchi — shifokor buyurganidek",
+  "Iliq o‘tirib yuvinish vannachalari yordam beradi",
+  "Yumshoq axlat: ko‘proq suv va kletchatka, kuchanmang",
+  "1–2 haftadan keyin tugun tushadi — biroz qon bo‘lishi mumkin",
+  "Ba’zan bir necha haftadan keyin takroriy seans kerak"
+ ],
+ "red_flags": [
+  "Kuchli qon ketish — tez yordamni chaqiring (103)",
+  "Harorat 38 dan yuqori, kuchayib boruvchi og‘riq",
+  "Siyolmasangiz"
+ ],
+ "faq": [
+  {
+   "q": "Bu og‘riqlimi?",
+   "a": "Tugun ichida og‘riq nervlari deyarli yo‘q. Odatda bir necha kun bosim va xira og‘riq seziladi."
+  },
+  {
+   "q": "Darrov ishga borsa bo‘ladimi?",
+   "a": "Odatda ha, ertasi kuni. Bir necha kun og‘ir ko‘tarmaslik kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ligirlash. Klinika aytganidek klizma qiling. Prokladkani oling."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Pterigiumni olib tashlash",
+ "also": [
+  "pterigium",
+  "ko‘zdagi parda",
+  "ko‘zdagi o‘simta",
+  "ko‘zdagi pardacha"
+ ],
+ "what": "Jarroh shox pardaga o‘rmalab kiruvchi to‘qima o‘simtasini olib tashlaydi. Odatda bu joyga ko‘zning o‘z to‘qimasidan bir bo‘lak ko‘chirib o‘tkaziladi.",
+ "why": "O‘simta o‘sib, ko‘rishga xalaqit bersa, tirnash keltirsa yoki tashqi ko‘rinishni buzsa.",
+ "duration": "operatsiya odatda 30–60 daqiqa, uyga odatda o‘sha kuni",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar qabul qilsangiz: shifokor nima qilishni hal qiladi",
+  "Dorilarga allergiya",
+  "Diabet yoki yuqori qon bosimi bo‘lsa",
+  "Shu ko‘zda operatsiyalar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Tekshiruv",
+   "text": "Odatda tahlillar va ko‘rik kerak bo‘ladi: ro‘yxatni klinika beradi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘z dorilaringizni o‘zingiz bekor qilmang: shifokorga ayting."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Uyga hamroh bilan qaytgan ma’qul, rul boshqarish mumkin emas."
+  },
+  {
+   "title": "Kosmetika",
+   "text": "Operatsiya kuni upa-elik qilmang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tahlil natijalari",
+  "Dorilar ro‘yxati",
+  "Quyoshdan saqlovchi ko‘zoynak",
+  "Hamroh"
+ ],
+ "steps": [
+  "Ko‘zingizga og‘riqsizlantiruvchi tomchi tomizishadi, ba’zan ko‘z yoniga ukol qilishadi",
+  "Qovoqlarni kengaytirgich bilan ushlab turishadi",
+  "Jarroh o‘simtani ajratib olib tashlaydi",
+  "Bu joyga o‘z to‘qimangizdan bir bo‘lakni tikib yoki yopishtirib qo‘yishadi",
+  "Ko‘zni bint bilan yopishadi"
+ ],
+ "feel": [
+  "Operatsiya paytida bosim bo‘ladi, lekin og‘riq yo‘q",
+  "Bir necha kun ko‘zda qum borday his, achishish, yosh oqishi",
+  "Ko‘zning qizarishi bir necha hafta saqlanadi"
+ ],
+ "after": [
+  "Tomchilarni shifokor sxemasi bo‘yicha qat’iy iching",
+  "Ko‘zni ishqalamang",
+  "Ko‘chada quyoshdan saqlovchi ko‘zoynak taqing",
+  "Nazorat shifokor rejasi bo‘yicha, chokni olishadi yoki u o‘zi so‘riladi",
+  "Ko‘zni quyoshdan himoya qiling: shunda o‘simta qaytib chiqish xavfi kamayadi"
+ ],
+ "red_flags": [
+  "Kuchayib boruvchi kuchli og‘riq",
+  "Ko‘zdan yiring chiqishi",
+  "Ko‘rishning keskin yomonlashishi",
+  "Chok ochilib ketdi yoki to‘qima bo‘lagi siljidi"
+ ],
+ "faq": [
+  {
+   "q": "Pterigium qaytib chiqishi mumkinmi?",
+   "a": "Ha, ba’zan. To‘qima ko‘chirib o‘tkazish va quyoshdan himoya bu xavfni kamaytiradi."
+  },
+  {
+   "q": "Albatta operatsiya qilish kerakmi?",
+   "a": "Kichik o‘simtani ko‘pincha kuzatib boriladi. Operatsiya o‘simta o‘sayotgan yoki xalaqit berayotgan bo‘lsa tavsiya etiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ko‘z operatsiyasi. Quyoshdan saqlovchi ko‘zoynakni oling va uyga kim olib ketishini kelishib qo‘ying."
+  }
+ ]
+}

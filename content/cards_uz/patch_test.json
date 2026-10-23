@@ -1,0 +1,81 @@
+{
+ "title": "Allergiyaga applikatsion sinamalar (patch-test)",
+ "also": [
+  "patch-test",
+  "applikatsion sinamalar",
+  "kontakt allergiyaga teri sinamalari",
+  "orqadagi sinamalar"
+ ],
+ "what": "Orqaga allergiya bo‘lishi mumkin bo‘lgan moddalarning oz miqdori bilan plasterlar yopishtiriladi. 2–3 kundan keyin teri nimaga qizarganiga qarashadi.",
+ "why": "Toshma yoki ekzema teginishdan paydo bo‘lganda: metallar, kosmetika, soch bo‘yog‘i, qo‘lqoplar, ish moddalari.",
+ "duration": "yopishtirish odatda 15–30 daqiqa; plasterlar taxminan 2 sutka taqiladi; ko‘rik 2-kuni va 3–4-kuni",
+ "tell_doctor": [
+  "Qanday dorilar ichasiz, ayniqsa tabletkadagi gormonlar va immunitetni bosuvchi vositalar",
+  "So‘nggi kunlarda orqangizga gormonal malham surtganmisiz",
+  "Yaqinda orqada qorayish yoki quyosh kuyishi bo‘lganmi",
+  "Nima bilan ishlaysiz va o‘zingiz nimaga shubha qilasiz",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Orqa terisi",
+   "text": "Orqa toza, toshmasiz va qorayishsiz bo‘lishi kerak. Test kuni unga krem surtmang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ba’zi dorilar testga xalaqit beradi — nima va qachon qilishni shifokor aytadi."
+  },
+  {
+   "title": "Jadval",
+   "text": "Hafta ichida 2–3 tashrifni va sportsiz, hammomsiz kunlarni rejalashtiring."
+  },
+  {
+   "title": "O‘z moddalaringiz",
+   "text": "O‘z kosmetikangiz yoki ish vositangizga shubha qilsangiz, uni olib kelsa bo‘ladimi, shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Dorilar ro‘yxati",
+  "Shifokor ruxsat bergan bo‘lsa, o‘z vositalaringiz",
+  "Eski futbolka — marker izlari kiyimni bulg‘ashi mumkin"
+ ],
+ "steps": [
+  "Belgacha yechinasiz va hamshiraga orqa o‘girib o‘tirasiz",
+  "Orqaga moddalar uyachalari bo‘lgan plasterlar yopishtiriladi",
+  "Plasterlar chetlari marker bilan belgilanadi",
+  "2 sutkadan keyin plasterlar olinadi va teriga qaraladi",
+  "Yana 1–2 kundan keyin ikkinchi ko‘rik o‘tkaziladi"
+ ],
+ "feel": [
+  "Plasterlarning o‘zi og‘rimaydi",
+  "Ularning ostida qichishi mumkin — tegmang va ko‘chirmang",
+  "Reaksiya joyidagi qizarish bir necha kun turishi mumkin"
+ ],
+ "after": [
+  "Plasterlar orqada turganda orqani ho‘llamang, orqaga dush, hammom va terlatadigan sport mumkin emas",
+  "Test tugaguncha qoraymang",
+  "Plaster ko‘chib ketsa, uni plaster bilan yopishtiring va shifokorga ayting",
+  "Xulosa odatda oxirgi ko‘rikda: nimaga reaksiya bor va nimadan saqlanish kerak"
+ ],
+ "red_flags": [
+  "Plaster ostida kuchli qichishish, achish, pufakchalar — shifokorga qo‘ng‘iroq qiling, u olish kerakmi, aytadi",
+  "Butun tanada toshma, shish, nafas olish qiyin — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Test paytida yuvinsa bo‘ladimi?",
+   "a": "Oyoqlarni va boshni vanna ustida ehtiyotkorlik bilan yuvsa bo‘ladi, lekin orqa test oxirigacha quruq qolishi kerak."
+  },
+  {
+   "q": "Bu qo‘ldagi sinama ukollaridan nimasi bilan farq qiladi?",
+   "a": "Patch-test teriga tegishdan allergiyani qidiradi. Qo‘ldagi sinamalar tezkor allergiyani — gulchang, chang, junga bo‘lganini qidiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga allergiya sinamalarini yopishtirishadi. Bugun va ertaga orqaga krem surtmang. Eski futbolka oling."
+  }
+ ]
+}

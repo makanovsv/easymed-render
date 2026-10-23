@@ -1,0 +1,30 @@
+hycosy|us|УЗИ проходимости маточных труб (Эхо-ГСС)|Tubal patency ultrasound (HyCoSy)|us_room|M|3
+us_3d_preg|us|3D/4D УЗИ при беременности|3D/4D pregnancy scan|us_room|L|2
+biophysical|us|Биофизический профиль плода|Fetal biophysical profile|us_room|L|3
+us_postpartum|us|УЗИ матки после родов|Postpartum uterine ultrasound|us_room|L|2
+us_pylorus_baby|us|УЗИ желудка младенцу при срыгиваниях (пилоростеноз)|Infant ultrasound for pyloric stenosis|us_room|L|3
+ecg_patch|func|Длительный ЭКГ-монитор (патч на 7–14 дней)|Extended ECG patch monitor (7–14 days)|func_room|L|3
+ecg_watch|func|ЭКГ на смарт-часах: как записать и показать врачу|Recording an ECG on a smartwatch|home|L|3
+peak_flow|func|Пикфлоуметрия дома|Home peak flow monitoring|home|L|2
+walk_6min|func|Тест шестиминутной ходьбы|Six-minute walk test|func_room|L|3
+cpet|func|Кардиопульмональный нагрузочный тест|Cardiopulmonary exercise test|func_treadmill|M|3
+feno|func|Оксид азота в выдохе (FeNO)|Exhaled nitric oxide test (FeNO)|func_room|L|3
+methacholine|func|Провокационный тест с метахолином|Methacholine challenge test|func_room|M|3
+spiro_kids|func|Спирометрия у ребёнка|Spirometry in children|func_room|L|2
+capillaroscopy|func|Капилляроскопия ногтевого ложа|Nailfold capillaroscopy|func_room|L|3
+home_sleep_test|func|Домашний тест на апноэ сна|Home sleep apnoea test|home|L|2
+bia|func|Биоимпедансный анализ состава тела|Body composition analysis (bioimpedance)|func_room|L|2
+anorectal_mano|func|Аноректальная манометрия|Anorectal manometry|func_room|M|3
+hydrogen_breath|func|Водородный дыхательный тест (СИБР, лактоза)|Hydrogen breath test (SIBO, lactose)|func_room|L|3
+holter_kids|func|Холтер ЭКГ у ребёнка|Holter monitor in children|func_room|L|3
+ssep_hearing_baby|func|Объективная проверка слуха у малыша (КСВП, ASSR)|Objective infant hearing test (ABR, ASSR)|func_room|L|3
+erg|func|Электроретинография|Electroretinography|eye_room|L|3
+bone_age|rad|Рентген кисти на костный возраст|Hand X-ray for bone age|xr_room|L|3
+vcug|rad|Микционная цистография у ребёнка|Voiding cystourethrogram in children|xr_room|M|3
+iv_urography|rad|Экскреторная урография|Intravenous urography|xr_room|M|3
+ldct_lung|rad|Низкодозная КТ лёгких для курильщиков|Low-dose CT lung cancer screening|ct_room|L|2
+mrcp|rad|МР-холангиография (МРХПГ)|MR cholangiography (MRCP)|mri_room|L|3
+mr_enterography|rad|МР-энтерография|MR enterography|mri_room|L|3
+mri_preg|rad|МРТ при беременности|MRI during pregnancy|mri_room|L|3
+contrast_safety|rad|Контраст при КТ и МРТ: почки, аллергия, кормление грудью|Contrast for CT and MRI: kidneys, allergy, breastfeeding|ct_room|L|1
+renal_scinti|rad|Сцинтиграфия почек|Renal scintigraphy|ct_room|L|3

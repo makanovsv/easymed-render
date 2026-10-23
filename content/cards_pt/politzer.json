@@ -1,0 +1,71 @@
+{
+ "title": "Insuflação da tuba auditiva",
+ "also": [
+  "manobra de Politzer",
+  "insuflação tubária",
+  "ouvido tampado",
+  "desentupir o ouvido"
+ ],
+ "what": "O médico sopra ar nas tubas auditivas, os canais que ligam o nariz ao ouvido. Isso ajuda a igualar a pressão no ouvido.",
+ "why": "Para ouvido tampado depois de resfriado ou viagem de avião, otite com líquido e piora da audição.",
+ "duration": "normalmente de 5 a 15 minutos; o tratamento tem algumas sessões",
+ "tell_doctor": [
+  "Se o nariz está entupido ou escorrendo",
+  "Se já operou o ouvido ou o nariz",
+  "Se tem sangramentos no nariz",
+  "Se teve uma otite forte recentemente"
+ ],
+ "prepare": [
+  {
+   "title": "Nariz",
+   "text": "Se o nariz estiver entupido, o médico pode pingar um descongestionante."
+  },
+  {
+   "title": "Comida",
+   "text": "Não precisa de preparo especial."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Resultado do último exame de audição"
+ ],
+ "steps": [
+  "O médico examina os ouvidos e o nariz",
+  "Às vezes pinga gotas no nariz",
+  "Coloca uma ponteira numa narina e aperta a outra",
+  "Pede para você falar uma palavra ou engolir",
+  "Nesse momento sai um jato de ar",
+  "O médico confere o resultado"
+ ],
+ "feel": [
+  "Você sente um empurrão de ar no ouvido",
+  "Pode haver um barulho ou estalo no ouvido",
+  "Leve incômodo no nariz"
+ ],
+ "after": [
+  "O ouvido costuma destampar na hora ou depois de algumas sessões",
+  "Não assoe o nariz com força",
+  "Número de sessões e gotas conforme o médico indicar"
+ ],
+ "red_flags": [
+  "Dor forte no ouvido depois do procedimento",
+  "Secreção ou sangue saindo do ouvido",
+  "Piora repentina da audição ou tontura"
+ ],
+ "faq": [
+  {
+   "q": "Insuflar o ouvido faz mal?",
+   "a": "Quando bem indicado, é um procedimento seguro."
+  },
+  {
+   "q": "Posso fazer sozinho em casa?",
+   "a": "Não sem orientação do médico. Pode machucar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a insuflação da tuba auditiva. Se o nariz estiver entupido, avise o médico."
+  }
+ ]
+}

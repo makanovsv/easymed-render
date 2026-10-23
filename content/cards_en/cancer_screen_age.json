@@ -1,0 +1,70 @@
+{
+ "title": "Cancer screening by age: what and when",
+ "also": [
+  "cancer screening",
+  "cancer check-up",
+  "cancer screening tests",
+  "cancer prevention check"
+ ],
+ "what": "These are checks that help find cancer early, when nothing bothers you yet. Which ones depend on your age and sex.",
+ "why": "For all adults by age; earlier and more often if close relatives had cancer or there are other risk factors.",
+ "duration": "a visit usually takes 15 to 30 minutes, the checks themselves are on different days, and results take 1 day to 2 weeks",
+ "tell_doctor": [
+  "Whether your parents, brothers, or sisters had cancer, and at what age",
+  "Whether you smoke now or smoked before",
+  "Which checks you already had and when",
+  "Whether you have complaints: blood, weight loss, lumps, a long cough"
+ ],
+ "prepare": [
+  {
+   "title": "What is usually checked",
+   "text": "The cervix and breast in women, the bowel in everyone from a certain age, and the lungs in smokers. Your doctor will give the exact list for your age."
+  },
+  {
+   "title": "Preparation",
+   "text": "Each check has its own preparation. Ask the clinic about each one."
+  },
+  {
+   "title": "Papers",
+   "text": "Collect the results of past checks, which helps avoid repeats."
+  }
+ ],
+ "bring": [
+  "An ID",
+  "Results of past mammograms, smears, and colonoscopies",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks about your health and your relatives",
+  "Decides which checks you need for your age",
+  "Gives you referrals",
+  "You have the checks on the set days",
+  "The doctor reviews the results and tells you when to repeat"
+ ],
+ "feel": [
+  "The visit itself does not hurt",
+  "Some checks can be unpleasant, but they are short"
+ ],
+ "after": [
+  "If all is well, the next check is set after the time suited to your age",
+  "If something is found, you will be sent for more tests, and that is not yet a diagnosis",
+  "Write down the dates of your checks so you do not miss one"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why get checked if nothing hurts?",
+   "a": "Early cancer often does not hurt. That is exactly when it is easier to treat."
+  },
+  {
+   "q": "If my mother had cancer, do I need to start earlier?",
+   "a": "Often yes. Tell your doctor, who will make a plan for you."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Cancer screening visit tomorrow. Bring the results of past checks."
+  }
+ ]
+}

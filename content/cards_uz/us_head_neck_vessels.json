@@ -1,0 +1,73 @@
+{
+ "title": "Bosh va bo‘yin tomirlari dupleksi",
+ "also": [
+  "bo‘yin tomirlari UZDG",
+  "BSA dupleksi",
+  "bosh va bo‘yin tomirlari UZIsi",
+  "uyqu arteriyalari UZIsi",
+  "bo‘yin doppleri"
+ ],
+ "what": "Shifokor ultratovush bilan miyaga qon olib boruvchi bo‘yin tomirlarini ko‘radi. Blyashkalar, torayishlar va qon qanday oqishi ko‘rinadi.",
+ "why": "Bosh aylanishida, bosh og‘rig‘ida, quloqda shovqinda, insultdan keyin, xolesterin va bosim yuqori bo‘lganda.",
+ "duration": "odatda 20–40 daqiqa, xulosa darrov",
+ "tell_doctor": [
+  "Nima bezovta qilayotganini: bosh aylanishi, qo‘lda holsizlik, nutq yoki ko‘rish buzilishlari",
+  "Yuqori bosim, xolesterin, diabet",
+  "Insult yoki tomirlarda operatsiyalar bo‘lganmi",
+  "Qanday dorilar ichayotganingizni"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Bo‘yin",
+   "text": "Zanjir va sirg‘alarni yeching. Baland yoqasiz kiying."
+  },
+  {
+   "title": "Ertalab",
+   "text": "Tekshiruv kuni ortiqcha qahva va chekishsiz bo‘lgan yaxshi — ular tomirlarga ta’sir qilishi mumkin."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Tomirlar UZIsining oldingi xulosalari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Chalqancha yotasiz, boshingiz biroz yon tomonga buriladi",
+  "Bo‘yinga gel suriladi",
+  "Shifokor datchikni bo‘yin bo‘ylab bir va ikkinchi tomonda yuritadi",
+  "Ba’zan quloq orqasi va o‘mrov ustidagi tomirlar ham ko‘riladi",
+  "Shifokor qon oqimi va devorlar qalinligini o‘lchaydi"
+ ],
+ "feel": [
+  "Salqin gel va bo‘yinga yengil bosim",
+  "Qon oqimi shovqinini eshitishingiz mumkin — bu normal"
+ ],
+ "after": [
+  "Darrov odatdagi ishlaringizga qaytsa bo‘ladi",
+  "Xulosa odatda darrov",
+  "Blyashka topilsa, shifokor qanday davolash va qachon takrorlashni hal qiladi"
+ ],
+ "red_flags": [
+  "Qo‘l yoki oyoqda to‘satdan holsizlik, yuzning qiyshayishi, nutqning buzilishi — darrov tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Miya tomirlarini ko‘rsa bo‘ladimi?",
+   "a": "Bo‘yin yaxshi ko‘rinadi. Bosh suyagi ichidagi tomirlar alohida tekshiruv — transkranial dopplerografiya bilan ko‘riladi."
+  },
+  {
+   "q": "Blyashka xavflimi?",
+   "a": "Hajmi va turiga bog‘liq. Shifokor baholaydi va davolash kerak-kerakmasligini hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bo‘yin tomirlari dupleksi. Tayyorgarlik kerak emas. Zanjir va sirg‘alarni yeching."
+  }
+ ]
+}

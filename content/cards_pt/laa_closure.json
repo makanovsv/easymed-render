@@ -1,0 +1,87 @@
+{
+ "title": "Fechamento do apêndice atrial esquerdo",
+ "also": [
+  "oclusão do apêndice atrial esquerdo",
+  "fechamento de apêndice atrial",
+  "oclusor de apêndice atrial",
+  "prevenção de AVC na fibrilação atrial"
+ ],
+ "what": "Por um vaso da virilha, levam um dispositivo até o coração e fecham com ele o apêndice atrial esquerdo. É nele que os coágulos mais se formam.",
+ "why": "Na fibrilação atrial, quando não é possível ou é perigoso tomar sempre remédios contra trombose.",
+ "duration": "o procedimento leva normalmente de 1 a 2 horas; a internação costuma ser de 1 a 2 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias, principalmente a iodo e contraste",
+  "Doenças dos rins e diabetes",
+  "Se você pode estar grávida",
+  "Se já teve sangramentos com remédios contra trombose"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Contraste",
+   "text": "Se você tem doença nos rins, avise antes. O médico pode pedir um exame e orientar a beber água antes e depois."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  },
+  {
+   "title": "Exames do coração",
+   "text": "Normalmente é preciso ecocardiograma pelo esôfago ou tomografia. A clínica passa o plano."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista vai conversar com você. Conte sobre a sua saúde e os seus remédios."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para 1 a 3 dias no hospital"
+ ],
+ "steps": [
+  "Você troca de roupa e recebe um acesso na veia",
+  "Normalmente é feita anestesia geral",
+  "Por uma veia da virilha, levam um tubo fino até o coração",
+  "A posição é acompanhada por ultrassom pelo esôfago e por raio-X",
+  "O dispositivo é aberto no apêndice",
+  "O tubo é retirado e colocam um curativo no furo"
+ ],
+ "feel": [
+  "Depois da anestesia: sonolência",
+  "A garganta pode arranhar por um ou dois dias por causa do sensor",
+  "Pouca dor no local do furo"
+ ],
+ "after": [
+  "Fique deitado algumas horas, sem dobrar a perna",
+  "Remédios contra trombose no começo exatamente como no esquema do médico",
+  "Exame de controle do coração normalmente depois de algumas semanas",
+  "Sem carregar peso pelo tempo que o médico disser"
+ ],
+ "red_flags": [
+  "O local do furo inchou, sangra muito ou dói",
+  "Dor no peito, falta de ar ou desmaio: ligue para a emergência",
+  "Fraqueza no braço ou na perna, fala enrolada: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Vou poder parar de vez os remédios contra trombose?",
+   "a": "Muitas vezes, depois de um tempo, o esquema fica mais simples. Só o médico decide, depois do controle."
+  },
+  {
+   "q": "A arritmia vai passar?",
+   "a": "Não. O procedimento diminui o risco de coágulos; o ritmo é tratado à parte."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o procedimento no coração. Documentos, exames e lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

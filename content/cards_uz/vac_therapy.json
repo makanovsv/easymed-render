@@ -1,0 +1,73 @@
+{
+ "title": "Jarohatni vakuum bilan davolash",
+ "also": [
+  "vakuum terapiya",
+  "VAC-terapiya",
+  "vakuumli bog‘lam",
+  "VAK-bog‘lam"
+ ],
+ "what": "Jarohat ustiga maxsus shimgich qo‘yiladi, plyonka bilan yopiladi va kichik nasos ulanadi. U ajralmani yumshoq so‘rib oladi va jarohatning bitishiga yordam beradi.",
+ "why": "Katta va uzoq bitmaydigan jarohatlarda, operatsiyalardan keyin, diabetik oyoqda, yotoq yaralarida.",
+ "duration": "bog‘lamni almashtirish odatda 20–40 daqiqa, har 2–3 kunda; davolanish — bir necha kundan haftalargacha",
+ "tell_doctor": [
+  "Qonni suyultiradigan dorilar",
+  "Jarohatdan qon ketishi yoki qon ivishi buzilishi",
+  "Bog‘lamni almashtirishda og‘riq — og‘riq qoldiruvchini oldindan so‘rang",
+  "Plastyr yoki plyonkaga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Bog‘lamni almashtirish og‘riqli bo‘lsa, oldindan og‘riq qoldiruvchi ichsa bo‘ladi — shifokordan so‘rang."
+  },
+  {
+   "title": "Nasos",
+   "text": "Davolanish uyda bo‘lsa — nasosni qanday tekshirishni va signal chalinsa nima qilishni o‘rganing."
+  }
+ ],
+ "bring": [
+  "Davolanish uyda bo‘lsa, nasos zaryadkasi",
+  "Dorilar ro‘yxati",
+  "Hujjat"
+ ],
+ "steps": [
+  "Eski bog‘lam ehtiyotkorlik bilan olinadi",
+  "Jarohat tozalanadi va ko‘riladi",
+  "Shimgich jarohat shakliga qarab kesiladi va qo‘yiladi",
+  "Hammasi shaffof plyonka bilan yopiladi",
+  "Naycha va nasos ulanadi",
+  "Bog‘lam vakuumni zich ushlab turganligi tekshiriladi"
+ ],
+ "feel": [
+  "Nasos yoqilganda — jarohatda tortilish hissi",
+  "Bog‘lamni almashtirish noqulay bo‘lishi mumkin",
+  "Nasos ba’zan sekin ishlaydi yoki pishillaydi"
+ ],
+ "after": [
+  "Nasos doim ishlashi kerak — uni o‘zingiz uzoq vaqtga o‘chirmang",
+  "Idishni kuzating: to‘lib qolsa, klinikaga qo‘ng‘iroq qiling",
+  "Bog‘lamni ho‘l qilmang",
+  "Bog‘lamni almashtirishga jadval bo‘yicha keling"
+ ],
+ "red_flags": [
+  "Naycha yoki idishda qon bo‘lsa — nasosni o‘chiring va darrov shifokorga qo‘ng‘iroq qiling yoki tez yordamni chaqiring (103)",
+  "Nasos pishillaydi va vakuumni ushlamaydi",
+  "Harorat, kuchli og‘riq, jarohatdan yoqimsiz hid"
+ ],
+ "faq": [
+  {
+   "q": "Nasos bilan yurish mumkinmi?",
+   "a": "Odatda ha. Nasos kichik, uni kamarga taqib yoki sumkada olib yuriladi."
+  },
+  {
+   "q": "Qancha davolanish kerak?",
+   "a": "Jarohatga bog‘liq. Shifokor har bog‘lam almashtirilganda bitishini baholaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga vakuumli bog‘lamni almashtirish. Nasosni zaryadlang, og‘riqsizlantirish haqida shifokordan oldindan so‘rang."
+  }
+ ]
+}

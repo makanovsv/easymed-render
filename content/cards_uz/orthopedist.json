@@ -1,0 +1,71 @@
+{
+ "title": "Travmatolog-ortoped qabuli",
+ "also": [
+  "travmatolog",
+  "ortoped",
+  "travmatolog-ortoped",
+  "suyak shifokori"
+ ],
+ "what": "Jarohatlar, suyaklar, bo‘g‘imlar, mushaklar va paylar kasalliklarini davolaydigan shifokor.",
+ "why": "Jarohatlar, sinishlar, chiqishlar, bo‘g‘im va orqa og‘riqlarida, yassi oyoqlikda, suyak operatsiyalaridan keyin.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Jarohat qanday va qachon bo‘lgan yoki og‘riqlar qachon boshlangan",
+  "Og‘riqni nima kuchaytiradi",
+  "Sinishlar va operatsiyalar bo‘lganmi",
+  "Qanday dorilar ichasiz",
+  "Osteoporoz bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Suratlar",
+   "text": "Diskdagi rentgen, MRT yoki KT va xulosalarni oling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Og‘riyotgan bo‘g‘imni oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Diskdagi suratlar va ularning xulosalari",
+  "Taqsangiz, ortez yoki tagliklar",
+  "Oldingi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarning o‘zi"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar haqida so‘raydi",
+  "Og‘riyotgan joyni ko‘radi va paypaslaydi",
+  "Bo‘g‘imdagi harakatlarni tekshiradi",
+  "Suratlarni ko‘radi yoki rentgenga yo‘llaydi",
+  "Davolashni buyuradi: dam olish, mahkamlash, davolash gimnastikasi, dorilar yoki operatsiya"
+ ],
+ "feel": [
+  "Og‘riyotgan bo‘g‘imda harakatlarni tekshirish noxush bo‘lishi mumkin",
+  "Shifokorga qayeri og‘riyotganini ayting — u ehtiyotkorroq bo‘ladi"
+ ],
+ "after": [
+  "Yuklama va mahkamlash bo‘yicha ko‘rsatmalarga amal qiling",
+  "Nazoratga qachon kelishni so‘rang"
+ ],
+ "red_flags": [
+  "Jarohatdan keyin kuchli og‘riq, suyak ko‘rinib turibdi yoki oyoq burilib qolgan, qimirlatib bo‘lmaydi — tez yordamni chaqiring (103)",
+  "Gips ostida uvishish, ko‘k yoki sovuq barmoqlar — shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Rentgenni oldindan qilish kerakmi?",
+   "a": "Yangi suratlar bo‘lsa — oling. Yangisi kerakmi, shifokor hal qiladi."
+  },
+  {
+   "q": "Travmatolog va ortoped boshqa shifokorlarmi?",
+   "a": "Ko‘pincha bu bitta mutaxassislik: travmatolog-ortoped ham jarohatlarni, ham bo‘g‘im kasalliklarini davolaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga travmatolog-ortoped qabuli. Suratlarni oling va qulay kiyim kiying."
+  }
+ ]
+}

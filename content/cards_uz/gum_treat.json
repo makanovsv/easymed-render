@@ -1,0 +1,77 @@
+{
+ "title": "Milkni davolash (kyuretaj)",
+ "also": [
+  "kyuretaj",
+  "cho‘ntaklarni tozalash",
+  "parodontitni davolash",
+  "milkni chuqur tozalash",
+  "milk davolash"
+ ],
+ "what": "Shifokor og‘riqsizlantirish ostida tish va milk orasidagi bo‘shliqni — cho‘ntaklarni tozalaydi. U yerdan milk yallig‘lanishiga sabab bo‘layotgan tosh va karashni olib tashlashadi.",
+ "why": "Parodontitda: milk qonaydi, tishlardan ajraladi, cho‘ntaklar bor, og‘izdan yoqimsiz hid keladi, tishlar qimirlay boshlaydi.",
+ "duration": "bir tashrif odatda 40–90 daqiqa; ko‘pincha bir necha tashrifda qism-qism davolanadi",
+ "tell_doctor": [
+  "Qandli diabet",
+  "Qonni suyultiruvchi dorilar — o‘zingiz bekor qilmang, shifokor hal qiladi",
+  "Yurak kasalliklari, ayniqsa sun’iy klapanlar",
+  "Chekish",
+  "Homiladorlik va allergiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "Tashrifdan oldin",
+   "text": "Odatda avval tishlarning professional tozalanishi qilinadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Oldindan ovqatlaning — protseduradan keyin bir necha soat lab-og‘iz uvishib turadi."
+  },
+  {
+   "title": "Chekish",
+   "text": "Chekasangiz, protsedura kuni va undan keyin chekmaslikka harakat qiling — milk yomonroq bitadi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tishlar suratlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor cho‘ntaklar chuqurligini o‘lchaydi",
+  "Og‘riqsizlantiruvchi ukol qilinadi",
+  "Maxsus asboblar bilan milk ostidagi tish ildizlari tozalanadi",
+  "Cho‘ntaklar yuviladi",
+  "Ba’zan milkka davolovchi bog‘lam qo‘yiladi",
+  "Uyda qanday parvarish qilishni tushuntirishadi"
+ ],
+ "feel": [
+  "Og‘riqsizlantirish ostida — bosim va qirish, lekin og‘riq yo‘q",
+  "Keyin — milk 1–3 kun zirqiraydi",
+  "Tishlar sovuqqa sezgirroq bo‘lib qolishi mumkin"
+ ],
+ "after": [
+  "Shifokor buyurganidek og‘izni chayqang",
+  "Yumshoq cho‘tka va ehtiyotkor tozalash",
+  "Bir necha kun juda issiq, achchiq va qattiq ovqatsiz",
+  "Bir necha haftadan keyin nazorat — shifokor cho‘ntaklarni yana o‘lchaydi"
+ ],
+ "red_flags": [
+  "Kuchli shish, harorat",
+  "O‘tmayotgan qonash"
+ ],
+ "faq": [
+  {
+   "q": "Tozalashdan keyin tishlar nega uzunroq ko‘rinadi?",
+   "a": "Yallig‘lanish ketdi, shish qaytdi — milk o‘zining haqiqiy darajasiga tushdi."
+  },
+  {
+   "q": "Parodontitni butunlay davolasa bo‘ladimi?",
+   "a": "Yallig‘lanishni to‘xtatish mumkin. Lekin uyda yaxshi parvarish va shifokorga muntazam borish kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada milkni davolash. Oldindan ovqatlaning, bugun chekmaslikka harakat qiling."
+  }
+ ]
+}

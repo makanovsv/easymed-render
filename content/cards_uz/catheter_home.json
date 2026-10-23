@@ -1,0 +1,76 @@
+{
+ "title": "Uyda kateter parvarishi",
+ "also": [
+  "Foley kateteri parvarishi",
+  "uyda siydik pufagidagi kateter",
+  "siydik yig‘gich",
+  "uretral kateter parvarishi"
+ ],
+ "what": "Infeksiya bo‘lmasligi uchun uyda siydik pufagidagi kateter va siydik xaltasini qanday parvarish qilish haqida eslatma.",
+ "why": "Kateter vaqtincha yoki uzoq muddatga qo‘yilgan va sizni uyga javob berishayotganda.",
+ "duration": "parvarish kuniga bir necha daqiqa oladi; kateterni qachon almashtirish kerakligini shifokor aytadi",
+ "tell_doctor": [
+  "Kateter qachon qo‘yilgani va qachon almashtirish kerakligini",
+  "Lateksga allergiya bormi",
+  "O‘zi parvarish qilish qiyin bo‘lsa: hamshira yordami kerakmi",
+  "Qanday dorilar ichasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Nima sotib olish kerak",
+   "text": "Zaxira siydik xaltalari, tungi katta hajmli xalta, sovun, toza sochiqlar. Ro‘yxatni hamshiradan aniqlashtiring."
+  },
+  {
+   "title": "O‘rgatish",
+   "text": "Chiqishdan oldin hamshiradan xaltani qanday almashtirish va bo‘shatishni ko‘rsatishini so‘rang."
+  },
+  {
+   "title": "Aloqa",
+   "text": "Kateter ishlamay qolsa, qayerga qo‘ng‘iroq qilishni yozib qo‘ying."
+  }
+ ],
+ "bring": [
+  "Kateter o‘rnatilgan sana ko‘rsatilgan epikriz",
+  "Zaxira siydik xaltalari",
+  "Klinika yoki hamshira telefoni"
+ ],
+ "steps": [
+  "Har qanday parvarishdan oldin qo‘llarni sovun bilan yuving",
+  "Kuniga bir-ikki marta kateter atrofidagi terini iliq suv va sovun bilan yuving",
+  "Xaltani siydik pufagi darajasidan pastroqda tuting",
+  "Xalta yarmi yoki uchdan ikki qismi to‘lganda bo‘shating",
+  "Nay bukilib qolmasligini kuzating",
+  "Xaltani hamshira aytgan muddatda almashtiring"
+ ],
+ "feel": [
+  "Ba’zan siydik qistashi hissi: bu normal",
+  "Kateter atrofidan yengil oqib chiqishi bo‘ladi"
+ ],
+ "after": [
+  "Shifokor cheklamagan bo‘lsa, yetarlicha suv iching",
+  "Kateterni hamshira yoki shifokor almashtiradi: o‘zingiz chiqarmang",
+  "Dush odatda mumkin, vanna va basseyn haqida shifokordan so‘rang"
+ ],
+ "red_flags": [
+  "Bir necha soat xaltaga siydik kelmasa, qorin dam bo‘lib og‘risa",
+  "Harorat 38 dan yuqori, titroq",
+  "Siydik loyqa, yoqimsiz hidli yoki qonli bo‘lsa",
+  "Kateter tushib ketsa, o‘zingiz kiritmang, shifokorga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Kateter bilan sayr qilish va ishlash mumkinmi?",
+   "a": "Ha. Xalta kiyim ostida oyoqqa mahkamlanadi. Asosiysi, uni pufakdan pastda tutish."
+  },
+  {
+   "q": "Siydik nega kateter yonidan oqadi?",
+   "a": "Bu siydik pufagi spazmlarida yoki nay bukilganda bo‘ladi. Nayni tekshiring, o‘tmasa, shifokorga ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga reja bo‘yicha xalta yoki kateterni almashtirish. Zaxira xalta borligini tekshiring."
+  }
+ ]
+}

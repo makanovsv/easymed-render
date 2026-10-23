@@ -1,0 +1,63 @@
+{
+ "title": "HLA-B27",
+ "also": [
+  "prueba HLA-B27",
+  "antígeno B27",
+  "prueba genética para dolor de espalda"
+ ],
+ "what": "Es un análisis de sangre de una proteína marcadora especial en las células. Es más común en personas con inflamación de la columna y las articulaciones.",
+ "why": "Con dolor de espalda baja que dura mucho, sobre todo en la mañana y en reposo, o con inflamación de articulaciones o de los ojos.",
+ "duration": "la toma de sangre suele durar 5 minutos; el resultado suele estar en unos días",
+ "tell_doctor": [
+  "Desde cuándo te duele la espalda y cuándo es peor: en la mañana o después del esfuerzo",
+  "Si tuviste inflamación de ojos, articulaciones, intestino o piel",
+  "Si tus familiares tienen enfermedades parecidas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayunar. Si te haces otros análisis al mismo tiempo, pregunta en el laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Los medicamentos no afectan este análisis."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu identificación"
+ ],
+ "steps": [
+  "Te sientas y te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Toman sangre de la vena en un tubo",
+  "Quitan la liga y ponen un algodón"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "El resultado suele estar en unos días",
+  "Un resultado positivo no es un diagnóstico: muchas personas con este marcador están sanas",
+  "El médico valora el análisis junto con tus molestias y tus radiografías"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Me salió HLA-B27. ¿Estoy enfermo?",
+   "a": "No necesariamente. Muchas personas sanas tienen el marcador. El diagnóstico solo se hace con tus molestias, la revisión y las imágenes."
+  },
+  {
+   "q": "¿Hay que repetir el análisis?",
+   "a": "No. Es una característica de nacimiento y no cambia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de sangre de HLA-B27. Normalmente no hace falta ayunar. Lleva la orden médica."
+  }
+ ]
+}

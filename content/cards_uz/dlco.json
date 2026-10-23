@@ -1,0 +1,71 @@
+{
+ "title": "O‘pkaning diffuziya testi",
+ "also": [
+  "DLCO",
+  "o‘pkaning diffuziya qobiliyati",
+  "gaz almashinuvi testi",
+  "diffuziya testi"
+ ],
+ "what": "Siz xavfsiz gaz aralashmasini nafas olib, nafasni 10 soniya ushlab turasiz. Asbob o‘pkalar gazni qonga qanchalik yaxshi o‘tkazishini ko‘radi.",
+ "why": "Sababi noma’lum nafas qisilishida, o‘pka to‘qimasi kasalliklarida, davoni nazorat qilish uchun, ba’zi davo kurslaridan oldin.",
+ "duration": "odatda 15–30 daqiqa, xulosa odatda o‘sha kuni",
+ "tell_doctor": [
+  "Chekasizmi va oxirgi marta qachon chekkansiz",
+  "Kamqonlik yoki yaqinda qon tahlillari — bu natijaga ta’sir qiladi",
+  "Kislorod kerakmi",
+  "Qanday ingalyatorlardan foydalanasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Chekish",
+   "text": "Test kuni chekmang — kamida ertalabdan. Chekish natijani sezilarli buzadi."
+  },
+  {
+   "title": "Kislorod",
+   "text": "Kislorodda bo‘lsangiz — oldindan ayting, nima qilishni tushuntirishadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Yengil nonushta. Testdan oldin og‘ir yuklamasiz."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Yangi qon tahlili, agar bo‘lsa",
+  "Nafas olishning avvalgi testlari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "O‘tirasiz, burningizga qisqich taqishadi",
+  "Lablaringiz bilan nayni olib, tinch nafas olasiz",
+  "Buyruq bilan oxirigacha nafas chiqarasiz",
+  "Aralashmani tez va chuqur nafas olasiz",
+  "Nafasni taxminan 10 soniya ushlab turasiz",
+  "Tinch nafas chiqarasiz; tanaffuslar bilan 2–3 marta takrorlashadi"
+ ],
+ "feel": [
+  "Nafasni ushlab turish qiyin bo‘lishi mumkin — uddalay olmasangiz, ayting",
+  "Aralashma hidsiz va xavfsiz"
+ ],
+ "after": [
+  "Darhol odatdagi ishlaringizga qaytishingiz mumkin",
+  "Xulosa odatda o‘sha kuni beriladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Testdagi gaz xavfli emasmi?",
+   "a": "Yo‘q. U juda oz va tez nafas bilan chiqib ketadi."
+  },
+  {
+   "q": "Nega testdan oldin chekish mumkin emas?",
+   "a": "Chekish qon tarkibini o‘zgartiradi va test haqiqatdagidan yomonroq ko‘rsatadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga o‘pkaning diffuziya testi. Ertalabdan chekmang. Yangi qon tahlili bo‘lsa, oling."
+  }
+ ]
+}

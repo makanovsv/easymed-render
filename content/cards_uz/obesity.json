@@ -1,0 +1,73 @@
+{
+ "title": "Semizlikni shifokorda davolash",
+ "also": [
+  "ortiqcha vaznni davolash",
+  "shifokorda ozish",
+  "vaznni kamaytirish",
+  "semizlik bo‘yicha shifokor"
+ ],
+ "what": "Shifokor vaznni xavfsiz va uzoq muddatga kamaytirishga yordam beradi. U sabablarni qidiradi, reja tuzadi va natijani kuzatadi.",
+ "why": "Ortiqcha vaznda, ayniqsa yuqori qon bosimi, diabet, bo‘g‘imlarda og‘riq, xurrak bo‘lsa; o‘zi ozolmaganda.",
+ "duration": "birinchi qabul odatda 30–60 daqiqa, davolash — oylar",
+ "tell_doctor": [
+  "Vazn qanday o‘zgargan va nimalarni sinab ko‘rgansiz",
+  "Qanday dorilar ichasiz — ba’zilari vaznga ta’sir qiladi",
+  "Diabet, qon bosimi, qalqonsimon bez kasalliklari bormi",
+  "Qanday uxlaysiz, xurrak bormi",
+  "Ortiqcha yeyish xurujlari bo‘ladimi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqatlanish kundaligi",
+   "text": "3–7 kun davomida yeyayotgan va ichayotgan hamma narsangizni yozib boring. Bu eng ko‘p yordam beradi."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Shifokor qand, xolesterin, gormonlarga tahlillar buyurishi mumkin. Odatda och qoringa."
+  },
+  {
+   "title": "Maqsad",
+   "text": "Nimaga erishmoqchi ekaningizni va nima xalaqit berayotganini o‘ylab ko‘ring."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Ovqatlanish kundaligi",
+  "So‘nggi tahlillar",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor ovqatlanish, harakat, uyqu va kasalliklar haqida so‘raydi",
+  "Vazn, bo‘y, bel aylanasi va bosimni o‘lchaydi",
+  "Ba’zan maxsus tarozida tana tarkibini aniqlaydi",
+  "Kerak bo‘lsa, tahlillar buyuradi",
+  "Siz bilan birga reja tuzadi",
+  "Keyingi tashriflar haqida kelishadi"
+ ],
+ "feel": [
+  "Qabul og‘riqsiz",
+  "Vazn haqida gapirish noqulay bo‘lishi mumkin — shifokor hukm qilish uchun emas, yordam berish uchun"
+ ],
+ "after": [
+  "Odatda maqsad — bir necha oyda vaznning 5–10% ini kamaytirish",
+  "Vazn kamaytiruvchi dorilarni faqat shifokor buyuradi",
+  "Muntazam tashriflar natijani saqlab qolishga yordam beradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tez ozsa bo‘ladimi?",
+   "a": "Tez ozish ko‘pincha qaytib keladi. Xavfsiz sur’atni shifokor sizga moslab tanlaydi."
+  },
+  {
+   "q": "Ortiqcha vazndan tabletkalar bormi?",
+   "a": "Dorilar bor, lekin ularni faqat shifokor buyuradi va hammaga emas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga vaznni kamaytirish bo‘yicha qabul. Ovqatlanish kundaligi va so‘nggi tahlillarni oling."
+  }
+ ]
+}

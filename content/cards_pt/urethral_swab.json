@@ -1,0 +1,78 @@
+{
+ "title": "Swab da uretra em homens",
+ "also": [
+  "swab uretral masculino",
+  "coleta uretral",
+  "exame de secreção uretral",
+  "exame de IST em homens"
+ ],
+ "what": "É um swab do canal da urina. Nele se procura inflamação e infecções sexualmente transmissíveis.",
+ "why": "Com ardência e secreção, dor ao urinar, depois de relação sem proteção, e antes de o casal planejar uma gravidez.",
+ "duration": "o swab leva cerca de um minuto, o resultado sai normalmente em 1 a 5 dias",
+ "tell_doctor": [
+  "Quais são as queixas e há quantos dias",
+  "Se tomou antibióticos nas últimas semanas",
+  "Se teve relação sem proteção e quando",
+  "Se acharam infecção na parceira"
+ ],
+ "prepare": [
+  {
+   "title": "Urina",
+   "text": "Normalmente, nas 2 a 3 horas antes do swab, não urine. Confirme com a clínica."
+  },
+  {
+   "title": "Relação sexual",
+   "text": "Normalmente, 1 a 2 dias antes do exame, sem relação sexual."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "É melhor fazer o exame antes de começar o antibiótico. Se já está tomando, não pare por conta própria. Avise o médico."
+  },
+  {
+   "title": "Higiene",
+   "text": "Tome banho à noite. De manhã, não use antisséptico nem gel íntimo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Exames anteriores, se tiver"
+ ],
+ "steps": [
+  "Você fica de pé ou deita na maca",
+  "Limpam a cabeça do pênis com um lenço",
+  "Uma haste fina entra no canal, sem ir fundo",
+  "Giram a haste por alguns segundos e tiram",
+  "O material vai para um tubo ou uma lâmina"
+ ],
+ "feel": [
+  "É incômodo, pode arder por alguns segundos",
+  "Depois do exame, a primeira urina pode arder um pouco"
+ ],
+ "after": [
+  "Beba água como de costume. A ardência passa em um dia",
+  "Até sair o resultado, é melhor não ter relação sexual",
+  "Se acharem infecção, normalmente os dois parceiros precisam tratar"
+ ],
+ "red_flags": [
+  "Não consegue urinar, dor forte no pé da barriga: ligue para a emergência",
+  "Febre alta, dor e inchaço no saco escrotal: procure o médico no mesmo dia",
+  "Sangue na urina por mais de um dia: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Na maioria das vezes é incômodo e arde por alguns segundos. Dor forte normalmente não há."
+  },
+  {
+   "q": "Posso fazer exame de urina em vez do swab?",
+   "a": "Para muitos exames de PCR, o primeiro jato de urina também serve. O que é melhor no seu caso, quem diz é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Daqui a pouco é o swab da uretra. Não urine até o exame e não use antisséptico."
+  }
+ ]
+}

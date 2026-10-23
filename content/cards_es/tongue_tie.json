@@ -1,0 +1,74 @@
+{
+ "title": "Corte del frenillo de la lengua",
+ "also": [
+  "frenotomía lingual",
+  "frenillo lingual corto",
+  "anquiloglosia",
+  "cortar el frenillo de la lengua"
+ ],
+ "what": "El médico hace un pequeño corte en el frenillo corto debajo de la lengua. Después la lengua se mueve con más libertad.",
+ "why": "Cuando un frenillo corto le impide al bebé mamar o al niño pronunciar algunos sonidos.",
+ "duration": "el procedimiento suele durar unos minutos; en niños más grandes, hasta 30 minutos",
+ "tell_doctor": [
+  "Cómo mama el bebé o cómo toma el biberón",
+  "Qué sonidos le cuesta pronunciar",
+  "Enfermedades de la sangre, coagulación o sangrados en la familia",
+  "Alergias del niño",
+  "Medicamentos que toma"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Al bebé normalmente se le da de comer después del procedimiento. Pregunta en la clínica cuándo darle de comer antes."
+  },
+  {
+   "title": "Ánimo",
+   "text": "A un niño más grande explícale con calma que el médico le ayudará a mover mejor la lengua."
+  }
+ ],
+ "bring": [
+  "El documento del niño",
+  "Una cobija o una toallita",
+  "La orden del terapeuta del lenguaje o del pediatra, si la hay"
+ ],
+ "steps": [
+  "El médico revisa la lengua y el frenillo",
+  "Ponen anestesia con gel o con inyección",
+  "Sostienen al niño con cuidado",
+  "Cortan el frenillo con tijeras o láser",
+  "A veces ponen puntos delgados",
+  "Presionan la heridita con una gasa"
+ ],
+ "feel": [
+  "El bebé normalmente llora poco tiempo",
+  "Hay un poco de sangre, que normalmente para pronto",
+  "Durante unos días duele debajo de la lengua"
+ ],
+ "after": [
+  "Al bebé normalmente se le da el pecho de inmediato",
+  "A los más grandes, comida blanda y fresca durante 1 o 2 días",
+  "Debajo de la lengua aparecerá una capa blanca: así cicatriza",
+  "Los ejercicios de lengua, como muestre el médico o el terapeuta del lenguaje"
+ ],
+ "red_flags": [
+  "El sangrado no se detiene después de 10 a 15 minutos presionando",
+  "El niño rechaza la comida y la bebida",
+  "Fiebre de más de 38 o mucha hinchazón"
+ ],
+ "faq": [
+  {
+   "q": "¿Es obligatorio hacerlo?",
+   "a": "No siempre. El médico decide si el frenillo dificulta comer o hablar."
+  },
+  {
+   "q": "¿El niño hablará bien de inmediato?",
+   "a": "No de inmediato. Muchas veces hacen falta sesiones con un terapeuta del lenguaje."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es el corte del frenillo de la lengua. Pregunta en la clínica cuándo darle de comer al niño antes del procedimiento."
+  }
+ ]
+}

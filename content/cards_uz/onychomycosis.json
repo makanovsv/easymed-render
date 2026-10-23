@@ -1,0 +1,76 @@
+{
+ "title": "Tirnoq zamburug‘ini davolash",
+ "also": [
+  "tirnoq zamburug‘i",
+  "onixomikoz",
+  "oyoq tirnoqlari zamburug‘i",
+  "zamburug‘ni davolash",
+  "tirnoqni zamburug‘dan tozalash"
+ ],
+ "what": "Tirnoq zamburug‘i tirnoqlarni qalin, sariq va mo‘rt qiladi. Davolash uzoq: malhamlar, laklar, tabletkalar va shifokorda tirnoqni tozalash.",
+ "why": "Tirnoqlar o‘zgarganda va shifokor zamburug‘ni tahlil bilan tasdiqlaganda.",
+ "duration": "tirnoqni tozalash — odatda 20–40 daqiqa; davolash — odatda oylar, sog‘lom tirnoq o‘sib chiqquncha",
+ "tell_doctor": [
+  "Barcha dorilar — zamburug‘ga qarshi tabletkalar hamma dorilar bilan mos kelmaydi",
+  "Jigar kasalliklari, diabet, oyoqlarda qon aylanishi muammolari",
+  "Homiladorlik yoki emizish",
+  "Nechta tirnoq zararlangan va qachondan beri"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlil",
+   "text": "Davolashdan oldin odatda zamburug‘ni tasdiqlash uchun tirnoqdan qirindi olinadi."
+  },
+  {
+   "title": "Oyoqlar",
+   "text": "Tozalash kuni oyoqlaringizni yuving, tirnoqdagi lakni olib tashlang."
+  },
+  {
+   "title": "Qon tahlillari",
+   "text": "Tabletkalardan oldin ba’zan jigar tekshiriladi — shifokor aytadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va tahlil natijalari",
+  "Dorilar ro‘yxati",
+  "Almashtirish uchun paypoq"
+ ],
+ "steps": [
+  "Shifokor tirnoqlarni ko‘zdan kechiradi",
+  "Oyoqlarga antiseptik bilan ishlov beriladi",
+  "Tirnoqning zararlangan qismi apparat yoki asbob bilan ehtiyotkorlik bilan egovlab olinadi",
+  "Tirnoq yupqalashadi — dori yaxshiroq kiradi",
+  "Zamburug‘ga qarshi vosita surtiladi",
+  "Shifokor uyda davolash tartibini tushuntiradi"
+ ],
+ "feel": [
+  "Tozalash odatda og‘riqsiz, yengil tebranish yoki iliqlik bo‘lishi mumkin",
+  "Tirnoq juda qalin bo‘lsa, noxush bo‘lishi mumkin"
+ ],
+ "after": [
+  "Vositani shifokor buyurganidek har kuni surting — o‘tkazib yuborish davolashni sekinlashtiradi",
+  "Poyabzalga ishlov bering va toza paypoq kiying",
+  "Basseyn va hammomda yalangoyoq yurmang",
+  "Tirnoq yaxshilanganday ko‘ringanda ham davolashni tashlamang — kursni tugating"
+ ],
+ "red_flags": [
+  "Tirnoq atrofida qizarish, shish, og‘riq va yiring — shifokorga",
+  "Tabletka ichganda teri sarg‘ayishi, to‘q rangli siydik, ko‘ngil aynishi — darhol shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Nega davolash bunchalik uzoq?",
+   "a": "Tirnoq sekin o‘sadi. Davolash sog‘lom tirnoq to‘liq o‘sib chiqqanda tugaydi."
+  },
+  {
+   "q": "Zamburug‘ qaytib kelishi mumkinmi?",
+   "a": "Ha. Buning oldini olish uchun poyabzalga ishlov bering va jamoat joylarida yalangoyoq yurmang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga tirnoqni tozalash. Oyoqlaringizni yuving va lakni olib tashlang."
+  }
+ ]
+}

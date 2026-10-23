@@ -1,0 +1,79 @@
+{
+ "title": "Avaliação de dor de cabeça e enxaqueca",
+ "also": [
+  "consulta para enxaqueca",
+  "neurologista para dor de cabeça",
+  "dor de cabeça frequente",
+  "diário da dor de cabeça",
+  "cefaleia"
+ ],
+ "what": "O médico pergunta com detalhes sobre as dores de cabeça e examina você. Na maioria das vezes, a causa é entendida pela conversa e pelo exame, sem exames complicados.",
+ "why": "Para dores de cabeça frequentes ou fortes, enxaqueca, se a dor mudou ou se os comprimidos pararam de ajudar.",
+ "duration": "a consulta leva normalmente de 30 a 45 minutos",
+ "tell_doctor": [
+  "Com que frequência a cabeça dói e quanto tempo dura a crise",
+  "Onde dói e como é a dor: aperta, lateja, dá pontadas",
+  "O que acontece antes e durante a crise: enjoo, incômodo com a luz",
+  "Quais comprimidos você toma para a dor e com que frequência",
+  "O que desencadeia a crise: sono, comida, estresse, menstruação"
+ ],
+ "prepare": [
+  {
+   "title": "Diário",
+   "text": "Nas 2 a 4 semanas antes da consulta, anote cada crise: data, intensidade, o que tomou e se ajudou."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não mude o tratamento por conta própria. Anote todos os remédios que você toma."
+  },
+  {
+   "title": "Exames",
+   "text": "Leve exames de imagem e laudos anteriores, se tiver."
+  }
+ ],
+ "bring": [
+  "Diário da dor de cabeça",
+  "Lista de remédios",
+  "Exames de imagem e laudos anteriores",
+  "Medidas de pressão, se tiver"
+ ],
+ "steps": [
+  "O médico pergunta com detalhes sobre as crises",
+  "Mede a pressão",
+  "Testa os reflexos, os movimentos, as pupilas e o equilíbrio",
+  "Explica qual é o tipo de dor de cabeça",
+  "Se precisar, pede exames de sangue ou ressonância",
+  "Passa um plano de tratamento e prevenção"
+ ],
+ "feel": [
+  "O exame não dói",
+  "São muitas perguntas. Isso ajuda a entender a causa"
+ ],
+ "after": [
+  "Continue o diário da dor de cabeça",
+  "Não tome analgésico com muita frequência: isso pode aumentar as dores",
+  "Volte para avaliar o tratamento"
+ ],
+ "red_flags": [
+  "Dor de cabeça repentina e muito forte, a pior da vida: ligue para a emergência",
+  "Dor de cabeça com fraqueza no braço ou na perna ou fala enrolada: ligue para a emergência",
+  "Dor de cabeça com febre alta e pescoço duro: ligue para a emergência",
+  "Dor de cabeça depois de uma pancada na cabeça"
+ ],
+ "faq": [
+  {
+   "q": "Preciso fazer ressonância por causa da dor de cabeça?",
+   "a": "Nem sempre. O médico pede ressonância se houver sinais de alerta."
+  },
+  {
+   "q": "Posso tomar analgésico todo dia?",
+   "a": "Não. Tomar com frequência pode causar dor de cabeça por si só. Converse com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta da dor de cabeça. Leve o diário das crises e a lista de remédios."
+  }
+ ]
+}

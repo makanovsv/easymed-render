@@ -1,0 +1,74 @@
+{
+ "title": "ECG no relógio inteligente: como gravar e mostrar ao médico",
+ "also": [
+  "ECG no relógio",
+  "ECG do smartwatch",
+  "gravar ECG na pulseira",
+  "mostrar ECG do relógio ao médico"
+ ],
+ "what": "Alguns relógios inteligentes gravam um ECG de uma derivação em meio minuto. A gravação pode ser salva e mostrada ao médico.",
+ "why": "Quando as palpitações ou falhas aparecem de repente e passam antes da consulta. A gravação ajuda a pegar o momento.",
+ "duration": "uma gravação leva normalmente cerca de 30 segundos",
+ "tell_doctor": [
+  "O que o relógio mostrou e quando",
+  "O que você sentia na hora da gravação",
+  "Quais remédios você toma",
+  "O relógio não substitui o ECG comum. O médico pode pedir um também"
+ ],
+ "prepare": [
+  {
+   "title": "Configuração",
+   "text": "Antes, ative a função de ECG no aplicativo do relógio e faça o tutorial."
+  },
+  {
+   "title": "Pulseira",
+   "text": "O relógio deve ficar bem justo no pulso, com a pele seca e limpa."
+  },
+  {
+   "title": "Posição",
+   "text": "Durante a gravação, sente-se, apoie o braço na mesa e não fale."
+  }
+ ],
+ "bring": [
+  "O relógio e o celular com as gravações",
+  "As gravações salvas em PDF, se o aplicativo permitir",
+  "Diário: horários e sensações"
+ ],
+ "steps": [
+  "Sente-se e fique calmo",
+  "Abra o aplicativo de ECG no relógio",
+  "Encoste um dedo da outra mão no botão ou na coroa do relógio",
+  "Não se mexa por cerca de 30 segundos, enquanto grava",
+  "Adicione uma nota sobre o que está sentindo",
+  "Salve ou exporte a gravação em PDF para o médico"
+ ],
+ "feel": [
+  "Não se sente nada. O relógio só grava",
+  "A gravação pode falhar se o braço se mexer. É só repetir"
+ ],
+ "after": [
+  "Mostre as gravações ao médico junto com o diário",
+  "Mesmo se o relógio disser \"normal\" e você se sentir mal, procure o médico",
+  "O relógio não faz diagnóstico. Quem faz é o médico"
+ ],
+ "red_flags": [
+  "Dor ou aperto no peito, falta de ar, desmaio: ligue para a emergência. Não perca tempo gravando",
+  "Coração muito acelerado que não passa"
+ ],
+ "faq": [
+  {
+   "q": "Dá para confiar no ECG do relógio?",
+   "a": "É uma boa pista para o médico, mas não é um ECG completo. Quem decide no final é o médico."
+  },
+  {
+   "q": "Como mostrar a gravação ao médico?",
+   "a": "Normalmente, no aplicativo do celular dá para salvar a gravação em PDF e enviar ou imprimir."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta. Salve as gravações de ECG do relógio em PDF e leve o diário das sensações."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Vivir con asma: plan de acción",
+ "also": [
+  "plan para el asma",
+  "asma bronquial",
+  "cómo vivir con asma",
+  "asma en adultos"
+ ],
+ "what": "El asma es una enfermedad en la que los bronquios se estrechan con facilidad. Con buen tratamiento y un plan de acción, la mayoría de las personas viven con normalidad.",
+ "why": "Para todos los adultos con asma y sus familiares.",
+ "duration": "el plan se hace en la consulta con el médico; el tratamiento suele ser permanente",
+ "tell_doctor": [
+  "Qué tan seguido tienes crisis y te despiertas de noche",
+  "Qué tan seguido usas el inhalador de rescate",
+  "Qué provoca las crisis: polvo, animales, frío, deporte",
+  "Si fumas o fuman a tu alrededor"
+ ],
+ "prepare": [
+  {
+   "title": "Plan de acción",
+   "text": "Pide al médico un plan por escrito: qué hacer cada día y cuando empeoras."
+  },
+  {
+   "title": "Inhaladores",
+   "text": "Muéstrale al médico cómo inhalas. Los errores de técnica son una causa frecuente de mal control."
+  },
+  {
+   "title": "Desencadenantes",
+   "text": "Averigua qué provoca las crisis y trata de evitarlo."
+  }
+ ],
+ "bring": [
+  "Los inhaladores y la cámara espaciadora",
+  "El plan de acción por escrito",
+  "Un diario de síntomas o un medidor de flujo, si tienes"
+ ],
+ "steps": [
+  "Usa todos los días el inhalador de base como indicó el médico",
+  "Lleva siempre contigo el inhalador de rescate",
+  "En una crisis, siéntate derecho y respira con calma",
+  "Haz las inhalaciones del inhalador de rescate según tu plan",
+  "Si no ayuda, sigue la zona roja del plan y llama a emergencias",
+  "Anota cuántas veces usaste el inhalador de rescate"
+ ],
+ "feel": [
+  "Con buen control hay pocas crisis o ninguna",
+  "Después del inhalador puede haber temblor o palpitaciones; normalmente pasa rápido"
+ ],
+ "after": [
+  "Después del inhalador con hormonas, enjuágate la boca con agua",
+  "Acude al médico a las citas programadas, aunque estés bien",
+  "No dejes por tu cuenta el tratamiento de base cuando te sientas mejor"
+ ],
+ "red_flags": [
+  "Falta de aire fuerte, cuesta hablar: llama a emergencias",
+  "El inhalador de rescate no ayuda o lo necesitas muy seguido: llama a emergencias",
+  "Los labios o las uñas se ponen azules: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo hacer deporte con asma?",
+   "a": "Normalmente sí. Pregunta al médico si necesitas inhalar antes del esfuerzo."
+  },
+  {
+   "q": "¿Son dañinas las hormonas del inhalador?",
+   "a": "En los inhaladores la dosis es pequeña y actúa sobre todo en los bronquios. No las suspendas por tu cuenta; coméntalo con el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "No olvides el inhalador de base. El de rescate, siempre contigo."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "title": "Tilt-test",
+ "also": [
+  "tilt-test",
+  "ortostatik sinama",
+  "aylanuvchi stolda test",
+  "hushdan ketishga sinama"
+ ],
+ "what": "Siz maxsus stolda tasmalar bilan mahkamlangan holda yotasiz. Stol deyarli tik holatga ko‘tariladi, shifokor esa bosim va pulsni kuzatadi.",
+ "why": "Takroriy hushdan ketish va hushdan ketishga yaqin holatlarda, sababini tushunish uchun.",
+ "duration": "odatda 30–60 daqiqa, ba’zan 90 gacha; xulosa odatda o‘sha kuni",
+ "tell_doctor": [
+  "Hushdan ketishlaringiz qanday o‘tishini: qachon, qanchalik tez-tez, ulardan oldin nima bo‘lishini",
+  "Barcha dorilarni, ayniqsa bosim va yurak uchun dorilarni",
+  "Yurak kasalliklarini",
+  "Homiladorlik bor-yo‘qligini"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda testdan 2–4 soat oldin ovqat yemaslik kerak. Klinikadan so‘rang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Ba’zi dorilarni ba’zan o‘tkazib yuborishadi. O‘zingiz bekor qilmang — shifokordan oldindan so‘rang."
+  },
+  {
+   "title": "Hamroh",
+   "text": "Kimdir bilan kelgan yaxshi: testdan keyin holsizlik bo‘lishi mumkin."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay, qisadigan belbog‘siz."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi EKG, xolter, ExoKG",
+  "Dorilar ro‘yxati",
+  "Hamroh"
+ ],
+ "steps": [
+  "Stolga yotasiz, sizni tasmalar bilan mahkamlashadi",
+  "EKG elektrodlari va bosim manjetasi qo‘yiladi, ba’zan tomirga kateter",
+  "Avval bir necha daqiqa tinch yotasiz",
+  "Stol sekin deyarli tik holatga ko‘tariladi",
+  "Siz stolda qimirlamay turasiz, shifokor bosim va pulsni kuzatadi",
+  "Ba’zan til ostiga dori beriladi va yana kuzatiladi",
+  "Ahvolingiz yomonlashsa, stol darrov tushiriladi"
+ ],
+ "feel": [
+  "Qimirlamay turish zerikarli bo‘lishi mumkin",
+  "Holsizlik, ko‘ngil aynishi, terlash paydo bo‘lishi mumkin — hushdan ketishdan oldingidek; shifokorga ayting",
+  "Ba’zan hushdan ketishadi — bu kutilgan holat, stol tushiriladi, siz tezda o‘zingizga kelasiz"
+ ],
+ "after": [
+  "Ahvolingiz yaxshilanguncha yoting va dam oling",
+  "Test kuni rulga o‘tirmagan ma’qul",
+  "Xulosa odatda o‘sha kuni beriladi"
+ ],
+ "red_flags": [
+  "Ko‘krakda og‘riq, yurakning kuchli to‘xtab-to‘xtab urishi, uyda takroriy hushdan ketish bo‘lsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Hushimdan ketsam-chi?",
+   "a": "Siz mahkamlangansiz, stol darrov tushiriladi. Odatda bir necha soniyada o‘zingizga kelasiz, shifokor yonida."
+  },
+  {
+   "q": "Hushdan ketishni nega ataylab chaqirish kerak?",
+   "a": "O‘sha paytda bosim va pulsga nima bo‘lishini ko‘rish uchun. Shunda sababini tushunish osonroq."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga tilt-test. Klinika aytgan vaqtda ovqat yemang. Hamroh bilan keling."
+  }
+ ]
+}

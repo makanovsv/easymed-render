@@ -1,0 +1,68 @@
+{
+ "title": "Densitometriya (suyak zichligi)",
+ "also": [
+  "DEXA",
+  "osteodensitometriya",
+  "suyak densitometriyasi",
+  "osteoporozni tekshirish"
+ ],
+ "what": "Suyak zichligini o‘lchaydigan maxsus rentgen. Nurlanish dozasi juda kichik.",
+ "why": "Osteoporozni tekshirish uchun: menopauzadan keyingi ayollarga, yengil jarohatdan keyingi sinishlarda, uzoq vaqt gormon qabul qilganda.",
+ "duration": "odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Oxirgi haftada kontrast yoki radioizotop bilan tekshiruv o‘tkazgan bo‘lsangiz",
+  "Umurtqa pog‘onasida operatsiyalar bo‘lgan yoki metall konstruksiyalar o‘rnatilgan bo‘lsa",
+  "Suyaklar uchun qanday dorilar ichayotganingizni"
+ ],
+ "prepare": [
+  {
+   "title": "Kalsiy",
+   "text": "Odatda tekshiruvdan 24 soat oldin kalsiy qo‘shimchalarini ichmaslik so‘raladi. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatdagidek ovqatlansangiz bo‘ladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Metallsiz: zamok, tugma, tasma, ko‘krakbandda simlarsiz. Taqinchoqlarni uyda qoldirgan ma’qul."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Avvalgi densitometriya natijalari — solishtirish uchun"
+ ],
+ "steps": [
+  "Metall buyumlarni yechib, stolga chalqancha yotasiz",
+  "Belni tekislash uchun oyoqlaringiz tagiga taglik qo‘yishadi",
+  "Tepangizdan apparatning qo‘li sekin o‘tadi",
+  "Odatda bel va son, ba’zan bilak ko‘riladi",
+  "Bir necha daqiqa qimirlamay yotish kerak"
+ ],
+ "feel": [
+  "Hech narsa — faqat qimirlamaslik kerak"
+ ],
+ "after": [
+  "Darhol odatdagi ishlaringizga qaytishingiz mumkin",
+  "Xulosa odatda o‘sha kuni beriladi",
+  "Raqamlar nimani anglatishini shifokor tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Densitometriya xavfli emasmi?",
+   "a": "Nurlanish dozasi juda kichik — oddiy ko‘krak qafasi rentgenidan ham kam."
+  },
+  {
+   "q": "Densitometriyani qanchalik tez-tez qilish kerak?",
+   "a": "Odatda 1–2 yilda bir martadan tez-tez emas. Muddatni shifokor belgilaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga densitometriya. Odatda bugun kalsiy qo‘shimchalari ichilmaydi — klinikadan aniqlab oling. Metallsiz kiyining."
+  }
+ ]
+}

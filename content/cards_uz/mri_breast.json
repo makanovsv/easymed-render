@@ -1,0 +1,76 @@
+{
+ "title": "Sut bezlari MRTsi",
+ "also": [
+  "ko‘krak MRTsi",
+  "sut bezlari kontrastli MRTsi",
+  "MR-mammografiya"
+ ],
+ "what": "Sut bezlarining magnit maydondagi suratlari, tomirga kontrast bilan. Nurlanishsiz.",
+ "why": "Mammografiya va UTTdan keyin aniqlashtirish uchun, oilaviy xavf yuqori bo‘lganda, implantlarda, operatsiyadan oldin.",
+ "duration": "odatda 20–40 daqiqa; xulosa 1–3 kundan keyin",
+ "tell_doctor": [
+  "Yurak stimulyatori, defibrillyator yoki elektronikali boshqa implant",
+  "Tanadagi metall: protezlar, plastinkalar, tomirlardagi klipsalar, parchalar",
+  "Homilador yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Yopiq joylardan qo‘rqsangiz — shifokor qanday yordam berishni aytadi",
+  "Ko‘krak implantlari bo‘lsa",
+  "Ko‘krak bilan emizsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Sikl kuni",
+   "text": "Eng yaxshisi sikl 7–14-kuni. Menopauzadan keyin — istalgan kun. Shifokordan aniqlab oling."
+  },
+  {
+   "title": "Kontrast",
+   "text": "Kontrast buyurilgan bo‘lsa, ba’zan kreatininga tahlil so‘rashadi. Odatda 2–4 soat yemaslik kerak — klinikadan aniqlab oling."
+  },
+  {
+   "title": "Metall",
+   "text": "Barcha metallni yeching: taqinchoq, soat, soch qisqichlari, pirsing. Telefon va kartalarni shkafchada qoldiring."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi mammogrammalar, UTT va ko‘krak MRTsi",
+  "Kreatinin tahlili, agar so‘ralgan bo‘lsa"
+ ],
+ "steps": [
+  "Siz belgacha yechinasiz, metallni shkafchada qoldirasiz",
+  "Qo‘lingizdagi tomirga kateter qo‘yiladi",
+  "Siz qoringa yotasiz, ko‘krak teshikli maxsus g‘altakda bo‘ladi",
+  "Bosh tayanchga qo‘yiladi, qo‘llar oldinga yoki tana bo‘ylab",
+  "Apparat qattiq taqillaydi — quloqchin yoki quloq tiqini berishadi",
+  "Qimirlamay yotish kerak, siz bilan aloqa orqali gaplashadi",
+  "O‘rtada kontrast yuboriladi va yana suratlar olinadi"
+ ],
+ "feel": [
+  "Og‘rimaydi, lekin shovqinli va tor",
+  "Qoringa yotish noqulay bo‘lishi mumkin — ayting, yostiq qo‘yib berishadi",
+  "Kontrastda — tomirda salqinlik"
+ ],
+ "after": [
+  "Darrov o‘z ishlaringizga qaytishingiz mumkin",
+  "Kontrastdan keyin, shifokor boshqacha demagan bo‘lsa, ko‘proq suv iching",
+  "Xulosa — mammologga"
+ ],
+ "red_flags": [
+  "Kontrastdan keyin qichishish, toshma, yuz shishishi, nafas olish qiyin — darrov xodimga ayting yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Sikl kuni nega muhim?",
+   "a": "Siklning ikkinchi yarmida ko‘krak to‘qimasi o‘zgaradi va kontrastni kuchliroq to‘playdi. Suratlar kamroq aniq chiqadi."
+  },
+  {
+   "q": "Kontrastdan keyin ko‘krak bilan emizish mumkinmi?",
+   "a": "Odatda ha. Shubha bo‘lsa, shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga sut bezlari MRTsi. Oldingi mammogrammalar va UTTni oling, taqinchoqlarni yeching."
+  }
+ ]
+}

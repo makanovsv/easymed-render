@@ -1,0 +1,80 @@
+{
+ "title": "Curaciones del pie diabético",
+ "also": [
+  "pie diabético",
+  "curaciones del pie en la diabetes",
+  "úlcera en el pie con diabetes",
+  "tratamiento de una herida del pie"
+ ],
+ "what": "La enfermera o el médico limpia la herida del pie, quita el tejido muerto y pone un vendaje. Se repite con regularidad hasta que la herida sana.",
+ "why": "En úlceras y heridas del pie en personas con diabetes.",
+ "duration": "la curación suele durar de 15 a 40 minutos; el tratamiento, semanas y meses",
+ "tell_doctor": [
+  "El nivel de azúcar en los últimos tiempos",
+  "Fiebre, hinchazón o enrojecimiento del pie",
+  "Heridas o callos nuevos",
+  "Todos tus medicamentos",
+  "Si te duele la pierna al caminar"
+ ],
+ "prepare": [
+  {
+   "title": "Descarga",
+   "text": "No te apoyes en la herida. Usa el calzado de descarga o el vendaje que indicó el médico."
+  },
+  {
+   "title": "Azúcar",
+   "text": "Mantén el azúcar en las cifras meta: de eso depende la cicatrización."
+  },
+  {
+   "title": "Zapatos",
+   "text": "Zapatos suaves sin costuras, donde quepa el vendaje."
+  }
+ ],
+ "bring": [
+  "El glucómetro o los registros de azúcar",
+  "La lista de tus medicamentos",
+  "El calzado de descarga",
+  "Un documento de identidad"
+ ],
+ "steps": [
+  "Quitan el vendaje anterior",
+  "Lavan la herida y la revisan",
+  "Quitan con cuidado el tejido muerto",
+  "Tratan la herida y ponen un vendaje nuevo",
+  "El médico valora cómo va la cicatrización",
+  "Te dicen cuándo es la siguiente curación"
+ ],
+ "feel": [
+  "En la diabetes muchas veces se siente poco el dolor; eso no significa que la herida no sea peligrosa",
+  "A veces la limpieza de la herida es incómoda",
+  "Normalmente se aguanta"
+ ],
+ "after": [
+  "No mojes el vendaje ni lo quites por tu cuenta",
+  "Revisa los dos pies cada día, usa un espejo",
+  "No andes descalzo",
+  "Ven a las curaciones según el calendario"
+ ],
+ "red_flags": [
+  "Fiebre, escalofríos",
+  "Enrojecimiento que se extiende, hinchazón, mal olor",
+  "El pie se puso frío, pálido o negro: acude de urgencia al médico",
+  "El azúcar está muy alto y no baja"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué la herida tarda en sanar?",
+   "a": "En la diabetes hay peor circulación y menos defensa contra la infección. Ayudan la descarga, el control del azúcar y las curaciones regulares."
+  },
+  {
+   "q": "¿Se puede curar la herida en casa con pomadas?",
+   "a": "No uses productos sin indicación del médico. Un cuidado incorrecto puede empeorar la herida."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes la curación del pie. Lleva los registros de azúcar y el calzado de descarga."
+  }
+ ]
+}

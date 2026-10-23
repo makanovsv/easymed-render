@@ -1,0 +1,81 @@
+{
+ "title": "Tympanoplasty",
+ "also": [
+  "tympanoplasty",
+  "eardrum repair",
+  "eardrum surgery",
+  "perforated eardrum surgery"
+ ],
+ "what": "The surgeon closes a hole in the eardrum with a small piece of your own tissue. Sometimes the tiny hearing bones are repaired too.",
+ "why": "For a hole in the eardrum that does not heal, frequent ear discharge, or reduced hearing.",
+ "duration": "surgery usually takes 1 to 2 hours; the hospital stay is usually 1 to 2 days",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners. The doctor will tell you what to stop and when",
+  "Allergies",
+  "Long-term illnesses",
+  "If you had problems with anesthesia",
+  "If you have ear discharge before surgery"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "A hearing test, blood tests, and sometimes a CT scan. The clinic will give you a list."
+  },
+  {
+   "title": "Ear",
+   "text": "Before surgery, the ear usually needs to be dry. Do not get it wet."
+  },
+  {
+   "title": "Food",
+   "text": "The clinic will tell you when to stop eating before anesthesia."
+  }
+ ],
+ "bring": [
+  "Your documents and referral",
+  "Blood test and hearing test results",
+  "A list of your medicines",
+  "Things for the hospital"
+ ],
+ "steps": [
+  "An IV line is placed in your vein",
+  "General anesthesia is usually used",
+  "The surgeon makes a cut in the ear canal or behind the ear",
+  "A piece of tissue is taken and used to close the hole in the eardrum",
+  "Packing is placed in the ear",
+  "A bandage is put on"
+ ],
+ "feel": [
+  "After anesthesia, you may feel sleepy and sometimes sick",
+  "Moderate ear pain. You will get pain medicine",
+  "The ear feels blocked. Hearing is worse at first because of the packing"
+ ],
+ "after": [
+  "Do not get the ear wet until your doctor allows",
+  "Do not blow your nose hard. Sneeze with your mouth open",
+  "No flying or swimming until your doctor allows",
+  "The packing is removed at a clinic visit",
+  "Hearing is checked after a few weeks"
+ ],
+ "red_flags": [
+  "A fever over 38°C, or pus from the ear",
+  "Severe dizziness or vomiting",
+  "Weakness of the face muscles",
+  "A severe headache: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Will my hearing come back?",
+   "a": "Hearing often gets better, but not always fully. The doctor will tell you what to expect."
+  },
+  {
+   "q": "When can I fly?",
+   "a": "Usually after a few weeks. The doctor decides."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ear surgery tomorrow. Keep the ear dry. Eat and drink only until the time the clinic gave you."
+  }
+ ]
+}

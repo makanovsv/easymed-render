@@ -1,0 +1,77 @@
+{
+ "title": "Control del dolor después de la cirugía (catéter epidural, bomba)",
+ "also": [
+  "catéter epidural",
+  "bomba de analgesia",
+  "epidural después de una cirugía",
+  "analgesia controlada por el paciente",
+  "bomba con botón"
+ ],
+ "what": "Después de la cirugía el analgésico se administra de forma continua, por un tubito delgado en la espalda o con una bomba en la vena. Con la bomba, tú mismo presionas el botón cuando te duele.",
+ "why": "Después de cirugías grandes del abdomen, el tórax, las articulaciones, cuando las inyecciones y pastillas comunes no bastan.",
+ "duration": "normalmente de 1 a 3 días después de la cirugía, después pasan a pastillas",
+ "tell_doctor": [
+  "Alergias a analgésicos",
+  "Medicamentos que adelgazan la sangre; el médico dirá cuáles suspender y cuándo",
+  "Enfermedades de la columna o cirugías de espalda",
+  "Si antes los analgésicos fuertes te causaron náuseas o confusión"
+ ],
+ "prepare": [
+  {
+   "title": "Plática",
+   "text": "El anestesiólogo te explicará con anticipación qué forma de analgesia te conviene."
+  },
+  {
+   "title": "Botón",
+   "text": "Si habrá bomba, te mostrarán cómo presionar el botón. Pregunta si algo no está claro."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico todo lo que tomas."
+  }
+ ],
+ "bring": [
+  "La lista de medicamentos",
+  "Lentes, si los necesitas, para ver el botón y la pantalla de la bomba"
+ ],
+ "steps": [
+  "El catéter epidural normalmente se coloca antes de la cirugía",
+  "Te sientas o te acuestas de lado y te anestesian la espalda con una inyección",
+  "Introducen el tubito delgado en la espalda y lo fijan con esparadrapo",
+  "Conectan la bomba al catéter o a la vena",
+  "Cuando duele, presionas el botón y la bomba da una porción del medicamento",
+  "Las enfermeras revisan el dolor, la presión y la respiración"
+ ],
+ "feel": [
+  "El dolor normalmente es mucho menor, pero no siempre desaparece por completo",
+  "A veces se adormecen o debilitan las piernas, hay comezón o náuseas",
+  "No recibirás de más: la bomba no da más de la dosis segura"
+ ],
+ "after": [
+  "El catéter se retira rápido y casi sin dolor",
+  "La analgesia continúa con pastillas",
+  "Dile a la enfermera si el dolor volvió a ser fuerte"
+ ],
+ "red_flags": [
+  "Mucha somnolencia, cuesta despertarte, respiración lenta: llama de inmediato a la enfermera",
+  "Las piernas no se mueven o duele mucho la espalda",
+  "Enrojecimiento o secreción en el sitio del catéter",
+  "Fiebre de más de 38"
+ ],
+ "faq": [
+  {
+   "q": "¿Pueden mis familiares presionar el botón por mí?",
+   "a": "No. El botón lo presiona solo el propio paciente: así la bomba sigue siendo segura."
+  },
+  {
+   "q": "¿Me acostumbraré al analgésico?",
+   "a": "Con un uso corto después de la cirugía es raro. El médico vigila la dosis."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía. Si algo no está claro sobre la analgesia después de ella, pregunta al anestesiólogo."
+  }
+ ]
+}

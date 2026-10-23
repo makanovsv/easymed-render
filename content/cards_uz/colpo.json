@@ -1,0 +1,73 @@
+{
+ "title": "Kolposkopiya",
+ "also": [
+  "kengaytirilgan kolposkopiya",
+  "bachadon bo‘ynini ko‘rik qilish"
+ ],
+ "what": "Ginekolog bachadon bo‘ynini maxsus kattalashtiruvchi asbob orqali ko‘radi. Uni tanaga kiritishmaydi.",
+ "why": "Surtmada o‘zgarishlar, odam papillomasi virusi bo‘lganda, shifokor yaqindan ko‘rish kerak bo‘lgan joyni payqaganda.",
+ "duration": "odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Oxirgi hayz boshlangan sanani",
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Yodga allergiya",
+  "Qonni suyultiruvchi preparatlar"
+ ],
+ "prepare": [
+  {
+   "title": "Sikl kuni",
+   "text": "Hayz paytida emas. Odatda hayz tugagandan keyingi dastlabki kunlarda qulayroq. Shifokordan aniqlashtiring."
+  },
+  {
+   "title": "1–2 kun oldin",
+   "text": "Jinsiy aloqa, spirtsovlash, tampon, vaginal shamchalar va kremlarsiz."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatdagidek ovqatlanish mumkin."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oxirgi surtma va papilloma virusi tahlili natijalari",
+  "Kundalik prokladka"
+ ],
+ "steps": [
+  "Ginekologik kreslo‘ga o‘tirasiz",
+  "Shifokor oddiy ko‘rikdagidek oyna kiritadi",
+  "Lupa va yorug‘likli asbob tashqarida, kreslo yonida turadi",
+  "Bachadon bo‘ynini sirkaning kuchsiz eritmasi, keyin yod eritmasi bilan surtishadi",
+  "Kerak bo‘lsa, tahlil uchun mayda to‘qima parchasi olinadi"
+ ],
+ "feel": [
+  "Oyna: oddiy ko‘rikdagidek bosim hissi",
+  "Eritmalardan biroz achishishi mumkin",
+  "To‘qima parchasi olinsa, qisqa chimchilash yoki spazm"
+ ],
+ "after": [
+  "Bir necha kun to‘q rangli ajralmalar bo‘lishi mumkin: bu eritmalardan",
+  "To‘qima olingandan keyin bir necha kun ozgina dog‘li ajralmalar",
+  "To‘qima olingan bo‘lsa, odatda bir necha kun jinsiy aloqa, tampon va vannasiz: muddatni shifokor aytadi",
+  "To‘qima tahlili natijasi odatda 1–2 haftada"
+ ],
+ "red_flags": [
+  "Odatdagi hayzdan ko‘ra kuchliroq qon ketishi",
+  "Yuqori harorat, qorin pastida kuchli og‘riq, yoqimsiz hidli ajralmalar"
+ ],
+ "faq": [
+  {
+   "q": "Kolposkopiya og‘riqlimi?",
+   "a": "Odatda yo‘q. His-tuyg‘ular oddiy ginekologik ko‘rikdagidek. To‘qima parchasi olinsa, qisqa yoqimsiz chimchilash."
+  },
+  {
+   "q": "Homiladorlikda kolposkopiya qilsa bo‘ladimi?",
+   "a": "Ha, bu xavfsiz. Shifokorga homiladorlik haqida ayting: to‘qima odatda faqat jiddiy sabab bo‘lsa olinadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "2 kundan keyin kolposkopiya. Shu kundan boshlab jinsiy aloqa, spirtsovlash, tampon va vaginal shamchalarsiz."
+  }
+ ]
+}

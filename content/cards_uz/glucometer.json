@@ -1,0 +1,72 @@
+{
+ "title": "Glyukometr bilan shakarni qanday o‘lchash kerak",
+ "also": [
+  "shakarni o‘lchash",
+  "glyukometr",
+  "uyda qondagi shakar",
+  "shakarni o‘zi nazorat qilish"
+ ],
+ "what": "Glyukometr barmoqdan bir tomchi qon bo‘yicha qondagi shakarni ko‘rsatadi. Buni uyda o‘zingiz qilishingiz mumkin.",
+ "why": "Qandli diabetda — davolashni to‘g‘ri tanlash va juda past yoki yuqori shakarni o‘z vaqtida payqash uchun.",
+ "duration": "taxminan 1–2 daqiqa, natija bir necha soniyada",
+ "tell_doctor": [
+  "Shakarni qanchalik tez-tez va qachon o‘lchaysiz",
+  "Past ko‘rsatkichlar tez-tez bo‘lsa",
+  "Glyukometr raqamlari o‘zingizni his qilishingizga mos kelmasa"
+ ],
+ "prepare": [
+  {
+   "title": "Qo‘llar",
+   "text": "Qo‘llaringizni iliq suv va sovun bilan yuving va quruq artib oling. Barmoqdagi shirinlik natijani buzadi."
+  },
+  {
+   "title": "Poloskalar",
+   "text": "Yaroqlilik muddatini tekshiring. Poloskalarni yopiq idishda, namlik va quyoshsiz saqlang."
+  },
+  {
+   "title": "Qachon o‘lchash",
+   "text": "Kuniga necha marta va qachon — ovqatdan oldin, keyin, uxlashdan oldin — shifokor aytadi."
+  }
+ ],
+ "bring": [
+  "Glyukometr, poloskalar, lansetlar",
+  "Yozuvlar uchun kundalik yoki telefon"
+ ],
+ "steps": [
+  "Poloskani glyukometrga soling",
+  "Yangi lansetni sanchish ruchkasiga soling",
+  "Barmoqni yostiqchasining yonidan sanchasiz — u yerda kamroq og‘riydi",
+  "Tomchi chiqquncha barmoqni biroz massaj qiling, qattiq bosmang",
+  "Poloskani tomchiga tegizing — glyukometr qonni o‘zi tortadi",
+  "Bir necha soniyadan keyin raqam chiqadi — uni vaqti bilan yozib qo‘ying"
+ ],
+ "feel": [
+  "Barmoqqa qisqa sanchiq",
+  "Doim bir joyni sanchsangiz, u og‘rishi mumkin; barmoqlarni almashtiring"
+ ],
+ "after": [
+  "Barmoqqa paxta bosing",
+  "Lanset va poloskani tashlang",
+  "Kundalikni har qabulda shifokorga ko‘rsating"
+ ],
+ "red_flags": [
+  "Shakar past va o‘zingizni yomon his qilsangiz — titroq, ter, chalkashlik: shirin yeng va qayta o‘lchang",
+  "Shakar juda yuqori, kuchli chanqoq, qusish, uyquchanlik — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Glyukometr nega laboratoriyadagidan boshqacha ko‘rsatadi?",
+   "a": "Kichik farq odatiy. Farq katta bo‘lsa, poloskalarni tekshiring va shifokordan so‘rang."
+  },
+  {
+   "q": "Barmoqni spirt bilan artish kerakmi?",
+   "a": "Odatda qo‘l yuvish yetarli. Spirt bilan artsangiz — barmoq qurishini kuting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 0,
+   "text": "Shakarni o‘lchash vaqti. Qo‘llarni yuving, barmoqni yon tomondan sanching, natijani yozing."
+  }
+ ]
+}

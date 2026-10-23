@@ -1,0 +1,76 @@
+{
+ "title": "Consulta com geriatra",
+ "also": [
+  "geriatra",
+  "médico do idoso",
+  "consulta geriátrica",
+  "avaliação geriátrica"
+ ],
+ "what": "O médico dos idosos olha a saúde como um todo: memória, equilíbrio, humor, remédios. Ajuda a manter a independência.",
+ "why": "Para pessoas com mais de 65 ou 70 anos com várias doenças ao mesmo tempo, quedas, piora da memória ou muitos remédios.",
+ "duration": "a consulta leva normalmente de 40 a 60 minutos",
+ "tell_doctor": [
+  "Todos os remédios, incluindo suplementos e ervas",
+  "Quedas no último ano",
+  "Mudanças na memória, no humor e no sono",
+  "Dificuldades nas tarefas do dia a dia",
+  "Audição, visão, urina"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Coloque todas as caixas de remédio numa sacola e leve. O médico vai conferir se combinam."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "É melhor ir com alguém que conhece a saúde e a rotina da pessoa."
+  },
+  {
+   "title": "Perguntas",
+   "text": "Anote antes o que mais preocupa."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Todos os remédios nas caixas",
+  "Relatórios e laudos médicos",
+  "Óculos e aparelho auditivo, se tiver"
+ ],
+ "steps": [
+  "O médico pergunta com detalhes sobre a saúde e a rotina",
+  "Confere os remédios",
+  "Faz testes simples de memória e equilíbrio",
+  "Mede pressão e peso",
+  "Examina",
+  "Monta um plano: tratamento, exercícios, ajuda em casa"
+ ],
+ "feel": [
+  "A consulta não dói",
+  "Os testes são simples, mas às vezes cansam; pode pedir uma pausa"
+ ],
+ "after": [
+  "O médico pode tirar ou trocar remédios desnecessários; não mude por conta própria",
+  "Em casa, tire o que pode fazer tropeçar",
+  "Volte no prazo que o médico disser"
+ ],
+ "red_flags": [
+  "Fraqueza repentina no braço ou na perna, rosto torto, fala enrolada: ligue para a emergência",
+  "Confusão repentina: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Para que geriatra, se já tenho clínico geral?",
+   "a": "O geriatra vê tudo junto e ajuda a organizar muitos remédios e problemas ao mesmo tempo."
+  },
+  {
+   "q": "Um familiar pode ir sem o idoso?",
+   "a": "Dá para pedir orientação, mas o exame precisa ser feito no próprio paciente. Confirme na clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o geriatra. Coloque todos os remédios numa sacola e leve os relatórios."
+  }
+ ]
+}

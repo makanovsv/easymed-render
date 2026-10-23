@@ -1,0 +1,75 @@
+{
+ "title": "Memory check (dementia screening)",
+ "also": [
+  "dementia test",
+  "memory check for older people",
+  "cognitive test",
+  "memory exam",
+  "forgetfulness"
+ ],
+ "what": "The doctor asks questions and gives simple tasks for memory, attention and thinking. This helps notice memory problems early.",
+ "why": "When you or your family notice forgetfulness, confusion or trouble with everyday tasks.",
+ "duration": "the test usually takes 15 to 30 minutes, the visit about an hour",
+ "tell_doctor": [
+  "What exactly has changed and for how long",
+  "Trouble with money, medicines or finding the way",
+  "Mood, sleep, anxiety",
+  "All your medicines - some affect memory",
+  "Hearing and vision problems"
+ ],
+ "prepare": [
+  {
+   "title": "Close person",
+   "text": "It is good if a close person comes - they can tell what they have noticed."
+  },
+  {
+   "title": "Sleep",
+   "text": "Get a good night's sleep and eat before the visit."
+  },
+  {
+   "title": "Glasses",
+   "text": "Bring your glasses and hearing aid - without them the test will not be accurate."
+  }
+ ],
+ "bring": [
+  "A list of your medicines",
+  "Glasses and a hearing aid",
+  "Discharge summaries and tests, if you have them"
+ ],
+ "steps": [
+  "The doctor asks you and your close person questions",
+  "Gives tasks: remember words, say the date, draw a clock",
+  "Checks attention, counting and speech",
+  "Explains the result",
+  "If needed, orders blood tests and an MRI",
+  "Agrees on the next visit"
+ ],
+ "feel": [
+  "The test is painless",
+  "You may feel nervous or awkward if something does not work out - this is normal"
+ ],
+ "after": [
+  "If the test shows changes, the doctor will order further tests",
+  "Some causes can be treated: lack of vitamins, thyroid problems, depression",
+  "The test is usually repeated after some time"
+ ],
+ "red_flags": [
+  "Sudden confusion, weakness in an arm or leg, or trouble speaking - call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Does the test give a diagnosis right away?",
+   "a": "No. The test is only the first step. An exam and further tests are needed for conclusions."
+  },
+  {
+   "q": "Can I prepare for the test?",
+   "a": "You do not need to prepare. Just sleep well and bring your glasses."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Memory check tomorrow. Take your glasses and list of medicines and, if you can, bring a close person."
+  }
+ ]
+}

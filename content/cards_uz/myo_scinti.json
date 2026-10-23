@@ -1,0 +1,84 @@
+{
+ "title": "Miokard perfuzion stsintigrafiyasi",
+ "also": [
+  "yurak stsintigrafiyasi",
+  "miokard OFEKT si",
+  "yurakning radioizotop tekshiruvi",
+  "yuklama bilan stsintigrafiya"
+ ],
+ "what": "Venaga yurak mushagida to‘planadigan maxsus moddaning juda oz dozasi yuboriladi. Kamera yurakka qon tinch holatda va yuklama paytida qanday borishini suratga oladi.",
+ "why": "Yurak ishemik kasalligiga gumon bo‘lganda, ko‘krakdagi og‘riqlarda, stent qo‘yilgandan yoki shuntlashdan keyin baho berish uchun.",
+ "duration": "odatda kutish bilan birga 3 soatdan 5 soatgacha, ba’zan ikki kunda; xulosa odatda 1–3 kunda",
+ "tell_doctor": [
+  "Barcha dorilar, ayniqsa yurak dorilari — qaysilarini va qachon ichmaslikni shifokor aytadi",
+  "Astma yoki o‘pkaning surunkali kasalliklari — qanday yuklama tanlanishi shunga bog‘liq",
+  "Homiladorlik yoki emizish",
+  "Qo‘llar boshda, chalqancha uzoq yotish qiyin bo‘lsa",
+  "Yugurish yo‘lakchasida yura olmasangiz yoki velotrenajyor pedalini aylantira olmasangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Kofein",
+   "text": "Odatda bir kun oldin kofe, choy, kola, energetik ichimliklar va shokolad mumkin emas. Aniq muddatni klinikada aytishadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda tekshiruvdan 3–4 soat oldin ovqat yemaslik kerak. Klinikadan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ba’zi yurak dorilarini shifokor ichmay turishni so‘rashi mumkin — faqat uning ko‘rsatmasi bilan."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yurish uchun qulay kiyim va poyabzal, metallsiz."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Oldingi EKG va yurak bo‘yicha xulosalar",
+  "Suratlar orasidagi tanaffus uchun yengil ovqat"
+ ],
+ "steps": [
+  "Venaga ingichka kateter qo‘yishadi va EKG elektrodlarini yopishtirishadi",
+  "Moddaning oz dozasi yuboriladi va uning to‘planishi kutiladi",
+  "Qo‘llaringiz boshingiz ustida holda kamera ostida yotasiz, u ko‘krak atrofida sekin aylanadi",
+  "Ikkinchi qism uchun yuklama beriladi: yo‘lakcha, velotrenajyor yoki yuklamani taqlid qiluvchi dori",
+  "Yuklamaning eng yuqori nuqtasida modda yana yuboriladi",
+  "Tanaffusdan keyin yana bir turkum suratlar olinadi"
+ ],
+ "feel": [
+  "Kateter qo‘yilganda sanchiq",
+  "Yuklama paytida — nafas qisilishi va yurak tez urishi, bu kutilgan holat",
+  "Yuklama uchun dori ta’sirida issiq to‘lqin, bosh og‘rig‘i, ko‘krakda og‘irlik bo‘lishi mumkin — odatda bir necha daqiqada o‘tadi",
+  "Kamera ostida qimirlamay yotish kerak, bu charchatishi mumkin"
+ ],
+ "after": [
+  "Kun oxirigacha ko‘proq suv iching — modda tezroq chiqib ketadi",
+  "Odatda darhol odatiy ovqat va ishlarga qaytish mumkin",
+  "Kechqurun homilador ayollar va kichik bolalar bilan uzoq va yaqin muloqotni cheklang — shifokordan aniqlang",
+  "Xulosa odatda 1–3 kunda tayyor bo‘ladi, uni kardiolog bilan muhokama qilasiz"
+ ],
+ "red_flags": [
+  "Ko‘krakda kuchli bosuvchi og‘riq o‘tmasa — tez yordamni chaqiring (103)",
+  "Tekshiruvdan keyin keskin nafas qisilishi, hushdan ketish yoki kuchli yurak urishi"
+ ],
+ "faq": [
+  {
+   "q": "Bu xavfli nurlanishmi?",
+   "a": "Doza kichik va tekshiruv uchun xavfsiz hisoblanadi. Homilador bo‘lsangiz yoki emizsangiz, albatta oldindan ayting."
+  },
+  {
+   "q": "Nega tekshiruvdan oldin kofe mumkin emas?",
+   "a": "Kofein yuklama uchun dorining ishlashiga xalaqit beradi. Shunda natija noaniq bo‘lishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga yurak stsintigrafiyasi. Bugundan boshlab kofe, choy, kola va shokoladsiz. Dorilar — shifokor aytganidek."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "title": "Rang ko‘rishini tekshirish",
+ "also": [
+  "daltonizmga test",
+  "Rabkin jadvallari",
+  "rang sezishni tekshirish",
+  "rang ko‘rish"
+ ],
+ "what": "Sizga rangli nuqtalardan iborat rasmlar ko‘rsatiladi, ularda raqamlar yoki shakllar yashiringan. Shu orqali ko‘z ranglarni qanday ajratishi tekshiriladi.",
+ "why": "Ishga tibbiy komissiya, haydovchilik guvohnomasi, o‘qish uchun, shuningdek odam ranglarni adashtirsa.",
+ "duration": "odatda 5–10 daqiqa, natija darhol",
+ "tell_doctor": [
+  "Ko‘zoynak yoki linza taqsangiz",
+  "Ilgari rang ko‘rishida buzilish topilganmi",
+  "Qarindoshlarda shunday buzilishlar bormi",
+  "Qanday dorilar ichasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ko‘zoynak",
+   "text": "Yaqinni ko‘rish uchun taqsangiz, ko‘zoynak yoki linzangizni oling."
+  },
+  {
+   "title": "Dam olish",
+   "text": "Dam olib keling, uyqusiz tundan keyin emas."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Ko‘zoynak, agar taqsangiz",
+  "Yo‘llanma yoki tibbiy komissiya blankasi"
+ ],
+ "steps": [
+  "Sizni yaxshi kunduzgi yorug‘likda o‘tqazishadi",
+  "Rangli doirachalar jadvallarini ko‘rsatishadi",
+  "Siz raqamni aytasiz yoki shaklni chizib ko‘rsatasiz",
+  "Odatda ikkala ko‘z birga tekshiriladi, ba’zan har biri alohida",
+  "Shifokor natijani yozadi"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Ba’zan ayrim rasmlarni ajratish qiyin: bu normal, ko‘rganingizdek javob bering"
+ ],
+ "after": [
+  "Natijani darhol aytishadi",
+  "Og‘ishlar bo‘lsa, shifokor bu ish yoki huquqlar uchun nimani anglatishini tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Jadvallarni yodlab olsa bo‘ladimi?",
+   "a": "Kerak emas. Jadvallar ko‘p, shifokor yordam berilganini ko‘radi. Halol natija muhim."
+  },
+  {
+   "q": "Daltonizm davolanadimi?",
+   "a": "Tug‘ma buzilish davolanmaydi, lekin u bilan oddiy hayot kechirishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga rang ko‘rishini tekshirish. Ko‘zoynak va tibbiy komissiya blankasini oling."
+  }
+ ]
+}

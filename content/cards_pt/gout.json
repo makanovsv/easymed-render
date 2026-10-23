@@ -1,0 +1,76 @@
+{
+ "title": "Gota: tratamento e dieta",
+ "also": [
+  "gota",
+  "artrite gotosa",
+  "ácido úrico alto",
+  "crise de gota"
+ ],
+ "what": "A gota acontece quando cristais se depositam na articulação e ela inflama de repente. O médico trata a crise e escolhe um tratamento para que ela não volte.",
+ "why": "Para dor forte e inchaço repentino numa articulação, muitas vezes no dedão do pé, e para ácido úrico alto no sangue.",
+ "duration": "a consulta leva normalmente de 20 a 30 minutos; os exames saem em 1 a 2 dias",
+ "tell_doctor": [
+  "Quando foi a crise e qual articulação doeu",
+  "Com que frequência as crises acontecem",
+  "Quais remédios você toma: alguns aumentam o ácido úrico",
+  "Quanto álcool você bebe",
+  "Se tem doença nos rins"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "O exame de ácido úrico no sangue normalmente é feito em jejum. Confirme na clínica."
+  },
+  {
+   "title": "Diário",
+   "text": "Anote o que comeu e bebeu antes das crises."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria, mesmo que a articulação já não doa."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Exames de ácido úrico",
+  "Imagens das articulações, se tiver",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico pergunta sobre as crises e a alimentação",
+  "Examina as articulações",
+  "Pede exame de sangue e, às vezes, ultrassom da articulação",
+  "Às vezes tira líquido da articulação para análise",
+  "Indica o tratamento da crise",
+  "Se as crises são frequentes, escolhe um remédio que baixa o ácido úrico"
+ ],
+ "feel": [
+  "Examinar a articulação doente pode doer",
+  "O exame de sangue: uma picada rápida"
+ ],
+ "after": [
+  "Beba mais água",
+  "Diminua o álcool, principalmente cerveja, a carne vermelha e os refrigerantes",
+  "Os remédios para gota são tomados por muito tempo: não pare por conta própria",
+  "Controle dos exames conforme o calendário do médico"
+ ],
+ "red_flags": [
+  "Articulação quente, muito inchada e febre alta: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Dá para curar a gota só com dieta?",
+   "a": "A dieta ajuda, mas muitas vezes também são necessários remédios. O médico decide."
+  },
+  {
+   "q": "Por que tive uma crise logo depois de começar o tratamento?",
+   "a": "Nos primeiros meses isso pode acontecer. Não pare os comprimidos; avise o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta da gota. Se for colher sangue, não coma depois do jantar; água pode."
+  }
+ ]
+}

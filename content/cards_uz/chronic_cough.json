@@ -1,0 +1,77 @@
+{
+ "title": "Surunkali yo‘talda tekshiruv",
+ "also": [
+  "uzoq yo‘tal",
+  "yo‘tal o‘tmayapti",
+  "cho‘zilgan yo‘tal",
+  "yo‘talni tekshirish"
+ ],
+ "what": "Shifokor bir necha haftadan beri o‘tmayotgan yo‘talning sababini qidiradi. Buning uchun so‘rab-surishtiriladi, ko‘riladi va bir necha tekshiruv qilinadi.",
+ "why": "Yo‘tal kattalarda 3–8 haftadan, bolada 4 haftadan uzoq davom etsa, ayniqsa balg‘am, nafas qisilishi yoki qon bilan.",
+ "duration": "birinchi qabul odatda 20–40 daqiqa, tekshiruv bir necha kundan ikki haftagacha davom etadi",
+ "tell_doctor": [
+  "Yo‘tal qancha davom etayotganini va qachon yomonlashishini: kunduzmi yoki tundami",
+  "Balg‘am bormi, qanday rangda, qon bo‘lganmi",
+  "Hozir yoki ilgari chekkanmisiz",
+  "Qanday dorilar ichasiz: bosim uchun ba’zilari yo‘tal chaqiradi",
+  "Jig‘ildon qaynashi, burun bitishi, allergiya",
+  "Sil bilan kasal odam bilan aloqa bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Yo‘tal kundaligi",
+   "text": "Yo‘tal qachon kuchayishi va nima chaqirishini yozing: ovqat, sovuq, yotganda, chang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ichayotgan hamma narsani shifokorga ayting."
+  },
+  {
+   "title": "Oldingi suratlar",
+   "text": "O‘pkaning rentgeni yoki KT’si qilingan bo‘lsa, olib keling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "O‘pka suratlari va xulosalari",
+  "Dorilar ro‘yxati",
+  "Oldingi tahlillar"
+ ],
+ "steps": [
+  "Shifokor yo‘tal haqida batafsil so‘raydi",
+  "O‘pkani tinglaydi, tomoq va burunni ko‘radi",
+  "Odatda o‘pka suratiga yuboradi",
+  "Nafasni tekshirishni, ya’ni spirometriyani buyurishi mumkin",
+  "Ba’zan balg‘am yoki qon tahlili kerak bo‘ladi",
+  "Natijalarga ko‘ra davo tayinlaydi yoki kerakli shifokorga yuboradi"
+ ],
+ "feel": [
+  "Tekshiruvlar odatda og‘riqsiz",
+  "Spirometriyada kuchli nafas chiqarish kerak: boshingiz aylanishi mumkin"
+ ],
+ "after": [
+  "Davo sababga bog‘liq: ular bir nechta",
+  "Ba’zan avval davolab ko‘rib, yo‘tal o‘tadimi-yo‘qmi, kuzatishadi",
+  "Takroriy qabul shifokor belgilagan muddatda"
+ ],
+ "red_flags": [
+  "Qonli yo‘tal, kuchli nafas qisilishi, ko‘krakda og‘riq bo‘lsa, shoshilinch shifokorga boring yoki 103 ga qo‘ng‘iroq qiling",
+  "Yuqori harorat va og‘ir nafas olish bo‘lsa, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Shamollashdan keyin yo‘tal qancha davom etishi mumkin?",
+   "a": "Ba’zan 3–8 haftagacha. Uzoqroq davom etsa yoki yomonlashsa, shifokorga boring."
+  },
+  {
+   "q": "O‘pka suratini olish shartmi?",
+   "a": "Ko‘pincha ha, bu birinchi tekshiruvlardan biri. Shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga yo‘tal bo‘yicha qabul. O‘pka suratlari va dorilar ro‘yxatini oling."
+  }
+ ]
+}

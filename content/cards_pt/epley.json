@@ -1,0 +1,80 @@
+{
+ "title": "Manobra de Epley para vertigem posicional",
+ "also": [
+  "manobra de Epley",
+  "VPPB",
+  "vertigem posicional",
+  "tontura ao virar a cabeça",
+  "manobra de reposicionamento"
+ ],
+ "what": "O médico vira a sua cabeça e o seu corpo numa ordem certa. Assim, partículas minúsculas do ouvido interno voltam para o lugar, e a tontura passa.",
+ "why": "Quando a cabeça gira por alguns segundos ao virar na cama, se abaixar ou olhar para cima.",
+ "duration": "normalmente de 10 a 15 minutos; o alívio muitas vezes vem na hora ou em alguns dias",
+ "tell_doctor": [
+  "Como e quando a tontura começa",
+  "Se já bateu a cabeça",
+  "Se tem dor no pescoço ou nas costas, ou se já operou o pescoço",
+  "Se tem doença do coração, dos vasos ou pressão alta",
+  "Se tem fraqueza no braço ou na perna, visão dupla ou fala enrolada"
+ ],
+ "prepare": [
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, sem gola apertada. Vão virar e deitar a sua cabeça."
+  },
+  {
+   "title": "Comida",
+   "text": "É melhor não vir de estômago cheio: durante a manobra pode dar enjoo."
+  },
+  {
+   "title": "Transporte",
+   "text": "Leve um acompanhante. Logo depois do procedimento, é melhor não dirigir."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Documento",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico verifica qual ouvido causa a tontura",
+  "Você senta na maca, e viram sua cabeça para um lado",
+  "Você é deitado rápido de costas, com a cabeça um pouco para fora da maca",
+  "A cabeça é virada devagar para o outro lado",
+  "Depois, você vira de lado, olhando para baixo",
+  "Cada posição é mantida por cerca de um minuto, até a tontura acalmar",
+  "Você é sentado com cuidado"
+ ],
+ "feel": [
+  "Durante a manobra a cabeça pode girar muito. Isso é esperado",
+  "Às vezes dá enjoo",
+  "Depois, pode ficar um pouco instável durante o dia"
+ ],
+ "after": [
+  "Fique sentado alguns minutos antes de levantar",
+  "No primeiro dia, mexa-se com calma, sem se abaixar de repente",
+  "O médico pode ensinar exercícios para casa",
+  "Às vezes a manobra é repetida na próxima consulta"
+ ],
+ "red_flags": [
+  "Dor de cabeça forte, fraqueza no braço ou na perna, fala enrolada: ligue para a emergência",
+  "Tontura que não passa por horas e não depende da posição da cabeça",
+  "Vômito forte, não consegue ficar de pé"
+ ],
+ "faq": [
+  {
+   "q": "Dá para fazer a manobra de Epley sozinho em casa?",
+   "a": "Às vezes o médico ensina a fazer em casa. Mas antes é preciso uma avaliação: é importante saber qual ouvido e qual é a causa."
+  },
+  {
+   "q": "A tontura vai voltar?",
+   "a": "Às vezes volta depois de meses ou anos. Aí a manobra pode ser repetida."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a manobra de Epley. Leve um acompanhante; é melhor não dirigir depois."
+  }
+ ]
+}

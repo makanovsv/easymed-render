@@ -1,0 +1,78 @@
+{
+ "title": "Transnazal gastroskopiya (ingichka zond bilan)",
+ "also": [
+  "transnazal FGDS",
+  "burun orqali gastroskopiya",
+  "ingichka gastroskop",
+  "ultraingichka gastroskopiya"
+ ],
+ "what": "Bu qizilo‘ngach, oshqozon va ichak boshlanishini og‘iz orqali emas, burun orqali kiritiladigan kamerali ingichka nay bilan ko‘rish.",
+ "why": "Qorin og‘rig‘i, jig‘ildon qaynashi, yutish muammolarida; qusish refleksi sababli oddiy gastroskopiyani ko‘tarishi qiyin bo‘lganlar uchun.",
+ "duration": "odatda 10–20 daqiqa; xulosa darhol beriladi, biopsiya — 1–2 haftada",
+ "tell_doctor": [
+  "Qonni suyultiradigan preparatlar",
+  "Tez-tez burundan qon ketishi, to‘siq egriligi, burunda operatsiyalar",
+  "Qandli diabet — och qolish vaqti va dorilarni moslashtirish kerak",
+  "Mahalliy og‘riq qoldiruvchilarga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda 6–8 soat ovqatlanmang. Suv — klinika aytgan vaqtgacha."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ertalab qaysi dorilarni ichish kerakligini shifokordan so‘rang."
+  },
+  {
+   "title": "Burun",
+   "text": "Burun bitgan bo‘lsa, shifokorga oldindan ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Gastroskopiyaning avvalgi xulosalari",
+  "Hujjat"
+ ],
+ "steps": [
+  "Shifokor qaysi burun teshigi orqali nafas olish osonroq ekanini so‘raydi",
+  "Burunga og‘riq qoldiruvchi va tomir toraytiruvchi vosita purkaladi",
+  "O‘tirasiz yoki chap yonboshda yotasiz",
+  "Ingichka nay burun orqali kiritiladi va yutishni so‘rashadi",
+  "Shifokor qizilo‘ngach, oshqozon va ichak boshlanishini ko‘radi, kerak bo‘lsa to‘qima bo‘lagini oladi",
+  "Nay olinadi"
+ ],
+ "feel": [
+  "Kiritilganda burunda bosim va qitiq",
+  "Qusish refleksi odatda oddiy gastroskopiyadagidan ancha kuchsiz",
+  "Muolaja paytida gapirish mumkin",
+  "Havodan qorin biroz to‘ladi"
+ ],
+ "after": [
+  "Tomoq uvishishi o‘tmaguncha — odatda taxminan bir soat — ovqatlanmang va ichmang",
+  "Burun uvishishi va yengil dam bo‘lish o‘zi o‘tadi",
+  "Sedatsiyasiz darhol uyga va rulga o‘tirsa bo‘ladi",
+  "Biopsiya olingan bo‘lsa, natija — 1–2 haftada"
+ ],
+ "red_flags": [
+  "15 daqiqada to‘xtamaydigan kuchli burun qon ketishi",
+  "Qonli qusish yoki qora axlat — 103 ga qo‘ng‘iroq qiling",
+  "Qorin yoki ko‘krakda kuchli og‘riq, harorat"
+ ],
+ "faq": [
+  {
+   "q": "Bu oddiy gastroskopiyadan osonmi?",
+   "a": "Ko‘pchilikka ha: nay ingichkaroq va til ildiziga bosmaydi, shuning uchun qusish istagi kamroq."
+  },
+  {
+   "q": "Burun orqali hammaga mosmi?",
+   "a": "Hammaga emas. Burun yo‘llari tor bo‘lsa yoki davo kerak bo‘lsa, shifokor oddiy usulni tanlashi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga burun orqali gastroskopiya. Kechki ovqatdan keyin ovqatlanmang, suv — klinika aytgan vaqtgacha."
+  }
+ ]
+}

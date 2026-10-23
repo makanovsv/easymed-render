@@ -1,0 +1,79 @@
+{
+ "title": "PCR de fezes para infecções intestinais (rotavírus, norovírus)",
+ "also": [
+  "PCR de fezes",
+  "infecção intestinal",
+  "rotavírus",
+  "norovírus",
+  "virose intestinal"
+ ],
+ "what": "É um exame de fezes que procura vírus e bactérias que causam diarreia e vômito.",
+ "why": "Com diarreia e vômito de repente, principalmente em crianças, e quando vários na família ou no grupo adoecem juntos.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 1 a 2 dias",
+ "tell_doctor": [
+  "Há quantos dias estão a diarreia e o vômito",
+  "Se há sangue ou muco nas fezes",
+  "Quais remédios já foram dados",
+  "Se mais alguém na família está doente"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Pegue um frasco estéril na farmácia ou no laboratório. Para fezes, com uma pazinha na tampa."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "É melhor fazer o exame antes de começar o antibiótico. Se já está tomando, não pare por conta própria. Avise o médico."
+  },
+  {
+   "title": "Coleta",
+   "text": "As fezes são colhidas de uma superfície limpa ou da fralda, não da água do vaso. Não misture com urina."
+  },
+  {
+   "title": "Entrega",
+   "text": "Leve o frasco ao laboratório no mesmo dia. Como guardar até lá, confirme com o laboratório."
+  }
+ ],
+ "bring": [
+  "O frasco com as fezes",
+  "Pedido médico",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Forre o penico ou o vaso com um plástico ou papel limpo",
+  "Com a pazinha da tampa, pegue um pouco de fezes, de preferência da parte líquida",
+  "Coloque no frasco, no máximo até um terço",
+  "Feche bem e escreva o nome",
+  "Lave as mãos e leve o frasco ao laboratório"
+ ],
+ "feel": [
+  "Nada desagradável. É uma coleta de fezes comum",
+  "Para a criança não incomoda. Dá para colher do penico ou da fralda"
+ ],
+ "after": [
+  "Dê líquidos várias vezes, aos pouquinhos. Na diarreia, isso é o mais importante",
+  "Lave as mãos depois do banheiro e da troca de fralda",
+  "Quem explica o resultado é o médico"
+ ],
+ "red_flags": [
+  "A criança fica muito tempo sem fazer xixi, boca seca, chora sem lágrimas: procure o médico com urgência",
+  "Sangue nas fezes ou febre alta: procure o médico no mesmo dia",
+  "Muita moleza, a criança não acorda, convulsões: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso colher as fezes da fralda?",
+   "a": "Pode, se não foram absorvidas. Pegue com a pazinha da superfície da fralda."
+  },
+  {
+   "q": "Rotavírus precisa de antibiótico?",
+   "a": "Normalmente não, porque é um vírus. O principal é beber líquidos. O tratamento é o médico quem indica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você colhe as fezes para o PCR. Deixe pronto o frasco e um plástico limpo para a coleta."
+  }
+ ]
+}

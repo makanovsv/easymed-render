@@ -1,0 +1,74 @@
+{
+ "title": "Port flushing and care",
+ "also": [
+  "port flush",
+  "port care",
+  "port maintenance",
+  "chemo port flushing"
+ ],
+ "what": "A nurse puts a special needle into the port and flushes it so no clots form inside.",
+ "why": "Between chemotherapy courses when the port is not in use. Usually once every few weeks. The clinic will give you the schedule.",
+ "duration": "usually 10 to 20 minutes",
+ "tell_doctor": [
+  "If the port area hurts, is red or swollen",
+  "Whether you have had a fever",
+  "Allergy to antiseptic or adhesive tape",
+  "When the last flush was"
+ ],
+ "prepare": [
+  {
+   "title": "Schedule",
+   "text": "Write down the date of the next flush. It must not be skipped."
+  },
+  {
+   "title": "Pain relief",
+   "text": "If the needle is uncomfortable, ask about numbing cream. It is put on beforehand."
+  },
+  {
+   "title": "Clothing",
+   "text": "Clothes that give easy access to your chest."
+  }
+ ],
+ "bring": [
+  "Your port card",
+  "Your ID",
+  "The date of your last flush"
+ ],
+ "steps": [
+  "The nurse examines the area and cleans the skin over the port",
+  "Feels for the port and inserts the special needle",
+  "Checks that blood flows back and the port works",
+  "Flushes the port with saline",
+  "The needle is removed and the spot is covered with a plaster"
+ ],
+ "feel": [
+  "A short prick through the skin",
+  "A cool feeling from the fluid, sometimes a taste in the mouth"
+ ],
+ "after": [
+  "You can take off the plaster after a few hours",
+  "Usually you can go straight back to your normal activities",
+  "Write down the date of the next flush"
+ ],
+ "red_flags": [
+  "Redness, pus or pain at the port site",
+  "Fever or chills after the flush",
+  "Swelling of the arm, neck or face"
+ ],
+ "faq": [
+  {
+   "q": "How often does the port need to be flushed?",
+   "a": "Usually once every few weeks when the port is not in use. The clinic will give the exact schedule."
+  },
+  {
+   "q": "What happens if I skip a flush?",
+   "a": "The port can get blocked by a clot. Then it is harder to use, and sometimes it has to be replaced."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Port flush tomorrow. Bring your port card and note the date of your last flush."
+  }
+ ]
+}

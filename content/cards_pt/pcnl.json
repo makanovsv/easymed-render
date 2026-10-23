@@ -1,0 +1,85 @@
+{
+ "title": "Nefrolitotripsia percutânea",
+ "also": [
+  "nefrolitotripsia percutânea",
+  "NLPC",
+  "retirada de pedra do rim pelas costas",
+  "cirurgia de cálculo renal"
+ ],
+ "what": "O cirurgião faz um pequeno furo nas costas direto até o rim, quebra e retira as pedras. A cirurgia é feita com anestesia geral.",
+ "why": "Para pedras grandes no rim, quando outros métodos não servem.",
+ "duration": "a cirurgia leva normalmente de 1 a 3 horas; a internação, alguns dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias, inclusive a remédios e iodo",
+  "Doenças do coração, do pulmão, dos rins ou diabetes",
+  "Se você ou alguém da família teve problema com anestesia",
+  "Se você pode estar grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Imagens",
+   "text": "Normalmente é preciso uma tomografia dos rins para o cirurgião ver as pedras."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista vai conversar com você. Conte sobre a sua saúde e os seus remédios."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Imagens da tomografia em CD ou link",
+  "Coisas para alguns dias no hospital"
+ ],
+ "steps": [
+  "No dia da cirurgia, você troca de roupa e recebe um acesso na veia",
+  "Na sala de cirurgia, aplicam a anestesia e você dorme",
+  "Guiado por raio-X ou ultrassom, o cirurgião faz um furo nas costas até o rim",
+  "Por ele, as pedras são quebradas e retiradas",
+  "Muitas vezes fica um tubinho saindo do rim para fora e uma sonda na bexiga",
+  "Você acorda na sala de recuperação"
+ ],
+ "feel": [
+  "Depois da anestesia: sonolência, às vezes enjoo",
+  "Dor no lado do corpo e nas costas; dão analgésico",
+  "Nos primeiros dias a urina pode ter sangue"
+ ],
+ "after": [
+  "Os tubinhos normalmente são retirados em alguns dias. O médico vai dizer",
+  "Beba mais água, se o médico não restringiu",
+  "Sem peso e sem esporte por algumas semanas",
+  "A análise da pedra ajuda a evitar novas pedras. Converse com o médico"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus com calafrios: ligue para a emergência",
+  "Dor forte no lado do corpo ou na barriga",
+  "Muito sangue ou coágulos na urina",
+  "Urina saindo pelo furo depois da alta"
+ ],
+ "faq": [
+  {
+   "q": "Por que não quebrar a pedra por fora, sem furo?",
+   "a": "Pedras grandes e duras não quebram bem por fora. O cirurgião escolhe o método pelo tamanho e pelo lugar da pedra."
+  },
+  {
+   "q": "As pedras vão voltar?",
+   "a": "Podem voltar. O médico vai orientar sobre alimentação, quanto beber e quais exames fazer para diminuir o risco."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia no rim. Documentos, imagens da tomografia e lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

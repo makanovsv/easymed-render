@@ -1,0 +1,82 @@
+{
+ "title": "Eshitish apparatini tanlash",
+ "also": [
+  "eshitish apparati",
+  "eshitish apparatini sozlash",
+  "eshitish uchun apparat tanlash",
+  "eshitish protezlash"
+ ],
+ "what": "Mutaxassis eshitishni tekshiradi, apparat tanlaydi va uni quloqlaringizga moslab sozlaydi. Apparat tovushlarni balandroq, nutqni esa tushunarliroq qiladi.",
+ "why": "Eshitish pasayib, nutqni tushunish qiyin bo‘lganda, ayniqsa shovqinda yoki telefonda.",
+ "duration": "birinchi tashrif odatda 1–1,5 soat; ko‘nikish va qayta sozlash — bir necha hafta",
+ "tell_doctor": [
+  "Quloqdan ajralma, og‘riq, quloqda operatsiyalar bo‘lganmi",
+  "Quloqda shovqin va bosh aylanishi",
+  "Eshitish to‘satdan, bir necha kunda pasaygan bo‘lsa — avval darrov LOR shifokoriga",
+  "Qayerda eng yomon eshitasiz: uyda, ishda, telefonda",
+  "Qanday dorilar ichasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Quloqlar",
+   "text": "Avval LOR odatda quloqlarni tekshiradi va bo‘lsa, oltingugurt tiqinini olib tashlaydi."
+  },
+  {
+   "title": "Audiogramma",
+   "text": "Yaqinda eshitish tekshiruvi bo‘lgan bo‘lsa — oling. Bo‘lmasa, joyida qilishadi."
+  },
+  {
+   "title": "Hamroh",
+   "text": "Yaqin odam bilan kelgan qulay: sozlashda uning ovozidan foydalanishadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Oldingi audiogrammalar",
+  "Hujjat",
+  "O‘z ko‘zoynagingiz, agar taqsangiz"
+ ],
+ "steps": [
+  "Shifokor qayerda eshitish qiyinligini so‘raydi",
+  "Quloqlarni ko‘radi",
+  "Quloqchinlarda eshitishni tekshiradi: signalni eshitganda tugmani bosasiz",
+  "Apparat turini tanlaydi: quloq orqasida yoki quloq ichida",
+  "Ba’zan quloqchin uchun quloq qolipi olinadi",
+  "Apparat kompyuterga ulanadi va eshitishingizga moslab sozlanadi",
+  "Taqish, yechish, batareya almashtirish yoki zaryadlashni o‘rgatishadi"
+ ],
+ "feel": [
+  "Eshitish tekshiruvi og‘riqsiz",
+  "Avval tovushlar baland, o‘tkir tuyuladi, o‘z ovozingiz — g‘alati",
+  "Dastlabki kunlarda apparat quloqda sezilib turishi mumkin"
+ ],
+ "after": [
+  "Apparatni har kuni taqing, bir necha soatdan boshlab",
+  "Ko‘nikish odatda 2–4 hafta oladi",
+  "Qayta sozlashga keling — bu tanlashning odatiy qismi",
+  "Apparatni suvdan asrang, tunda yechib qo‘ying"
+ ],
+ "red_flags": [
+  "Quloqda og‘riq, qizarish yoki ajralma — apparatni yechib, shifokorga murojaat qiling"
+ ],
+ "faq": [
+  {
+   "q": "Apparatni doim taqish kerakmi?",
+   "a": "Ha, kunduzi doim taqqan yaxshi. Shunda miya tezroq ko‘nikadi va nutqni yaxshiroq tushunadi."
+  },
+  {
+   "q": "Apparat ikkala quloqqa kerakmi?",
+   "a": "Eshitish ikki tomonlama pasaygan bo‘lsa, odatda ikkita tavsiya etiladi. Shunda nutqni va tovush qayerdan kelayotganini tushunish osonroq."
+  },
+  {
+   "q": "Apparatda nega hamma narsa baland eshitiladi?",
+   "a": "Miya ko‘p tovushlarni unutgan. Bir necha haftada o‘tadi, kerak bo‘lsa apparat qayta sozlanadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga eshitish apparatini tanlash. Oldingi eshitish tekshiruvlarini oling va iloji bo‘lsa yaqin odam bilan keling."
+  }
+ ]
+}

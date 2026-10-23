@@ -1,0 +1,77 @@
+{
+ "title": "Treating cystitis in women",
+ "also": [
+  "cystitis",
+  "bladder infection",
+  "UTI",
+  "burning when peeing"
+ ],
+ "what": "Cystitis is inflammation of the bladder, most often caused by germs. It is usually treated with a short course of medicine.",
+ "why": "For burning and pain when you pee, frequent urges to pee, and pain low in the belly.",
+ "duration": "the visit takes 15 to 30 minutes; a urine test usually takes 1 to 3 days, a urine culture 3 to 7 days",
+ "tell_doctor": [
+  "How long it has bothered you and how often it happened before",
+  "If you have a fever or lower back pain",
+  "If you could be pregnant",
+  "What medicines you already took",
+  "Allergies to medicines"
+ ],
+ "prepare": [
+  {
+   "title": "Urine test",
+   "text": "Usually you need morning urine in a sterile container, after washing."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not start antibiotics on your own before the test, if you can wait for the visit."
+  },
+  {
+   "title": "Drinks",
+   "text": "Drink plain water as you usually do."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A urine container, if you were asked to bring one",
+  "Past test results, if cystitis keeps coming back"
+ ],
+ "steps": [
+  "The doctor asks about your symptoms",
+  "You are sent for a urine test",
+  "Sometimes you are examined or an ultrasound is ordered",
+  "Treatment is prescribed, and the doctor explains how to take it",
+  "If cystitis is frequent, more tests are ordered"
+ ],
+ "feel": [
+  "You usually feel better after 1 to 3 days of treatment",
+  "The exam is painless"
+ ],
+ "after": [
+  "Finish the whole course, even if you feel better",
+  "Drink enough water",
+  "Do not hold it in when you need to pee",
+  "If cystitis comes back, see the doctor again"
+ ],
+ "red_flags": [
+  "A fever over 38°C and lower back pain",
+  "Blood in the urine",
+  "No improvement after 2 to 3 days of treatment",
+  "Symptoms of cystitis during pregnancy: see a doctor the same day"
+ ],
+ "faq": [
+  {
+   "q": "Can a heating pad cure cystitis?",
+   "a": "Warmth can sometimes ease the pain, but it does not get rid of the germs. The doctor prescribes treatment."
+  },
+  {
+   "q": "Why does cystitis keep coming back?",
+   "a": "There are many reasons. If it comes back often, the doctor will order tests and suggest ways to prevent it."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Cystitis visit tomorrow. If you need a urine test, collect your first morning urine in a sterile container."
+  }
+ ]
+}

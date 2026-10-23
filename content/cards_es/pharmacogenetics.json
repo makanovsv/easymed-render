@@ -1,0 +1,65 @@
+{
+ "title": "Prueba farmacogenética (warfarina, clopidogrel)",
+ "also": [
+  "farmacogenética",
+  "prueba genética de medicamentos",
+  "sensibilidad a la warfarina",
+  "prueba para clopidogrel"
+ ],
+ "what": "El análisis muestra cómo tus genes influyen en cómo funcionan algunos medicamentos. Eso ayuda al médico a elegir el medicamento y la dosis.",
+ "why": "Antes de empezar o al ajustar medicamentos que hacen la sangre más líquida, y algunos otros; o si un medicamento no te funciona o te da efectos secundarios.",
+ "duration": "la toma suele durar 5 minutos; el resultado suele estar en unos días o en 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos los medicamentos que tomas ahora",
+  "Si algún medicamento te dio efectos secundarios fuertes o sangrados",
+  "Si te hicieron transfusiones o un trasplante de médula ósea"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayunar. Si la muestra es de la mejilla, 30 minutos antes no comas, no bebas ni fumes."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Normalmente los medicamentos no afectan el resultado de esta prueba."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu identificación",
+  "La lista de medicamentos"
+ ],
+ "steps": [
+  "La enfermera toma sangre de la vena en un tubo",
+  "A veces, en lugar de sangre, pasan un hisopo por la parte de adentro de la mejilla",
+  "Si toman sangre, ponen un algodón en el lugar del piquete",
+  "La muestra se rotula y se manda al laboratorio"
+ ],
+ "feel": [
+  "Un piquete breve o solo el roce del hisopo en la mejilla",
+  "Se hace una sola vez: no hay que repetirla"
+ ],
+ "after": [
+  "El resultado suele estar en unos días o en 1 a 2 semanas",
+  "Llévale el resultado a tu médico: él decidirá si cambia el medicamento o la dosis",
+  "Guarda el informe: te servirá toda la vida",
+  "No cambies la dosis de tus medicamentos por tu cuenta según el resultado"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Esta prueba reemplaza los análisis de coagulación?",
+   "a": "No. La prueba genética ayuda a elegir la dosis inicial, pero el control de la coagulación sigue siendo necesario."
+  },
+  {
+   "q": "¿Cuántas veces hay que hacerla?",
+   "a": "Una vez. Los genes no cambian y el resultado sirve toda la vida."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu prueba farmacogenética. Lleva la lista de todos los medicamentos que tomas."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Anticuerpos contra el receptor de TSH",
+ "also": [
+  "TRAb",
+  "anticuerpos anti receptor de TSH",
+  "TSI",
+  "prueba para enfermedad de Graves"
+ ],
+ "what": "Es un análisis de sangre que busca unos anticuerpos especiales que pueden hacer que la tiroides trabaje de más.",
+ "why": "Cuando las hormonas tiroideas están altas y hay que saber la causa. También para controlar el tratamiento y en el embarazo, si antes hubo problemas de tiroides.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en 1 a 5 días",
+ "tell_doctor": [
+  "Qué medicamentos para la tiroides tomas",
+  "Si tomas vitaminas o suplementos con biotina: puede alterar el resultado",
+  "Si estás embarazada o planeas embarazarte",
+  "Si antes te trataron con yodo radiactivo o te operaron la tiroides"
+ ],
+ "prepare": [
+  {
+   "title": "Horario",
+   "text": "Mejor en la mañana. Muchos laboratorios recomiendan ir en ayunas. Pregunta antes."
+  },
+  {
+   "title": "Biotina",
+   "text": "Si tomas biotina, pregúntale al médico cuántos días antes del análisis debes dejarla."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas; él decidirá si hay que cambiar algo antes del análisis."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "Análisis anteriores de hormonas tiroideas",
+  "El resultado del ultrasonido de tiroides, si lo tienes"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Puedes comer y volver a tus actividades de inmediato",
+  "El endocrinólogo te explica el resultado junto con las otras hormonas"
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y está rojo"
+ ],
+ "faq": [
+  {
+   "q": "Si los anticuerpos salen altos, ¿seguro es enfermedad de Graves?",
+   "a": "Es una señal importante, pero la conclusión la saca el médico con todos los análisis y la revisión."
+  },
+  {
+   "q": "¿Hay que repetir este análisis?",
+   "a": "A veces sí. El médico puede repetirlo durante el tratamiento para decidir cuándo terminarlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de anticuerpos contra el receptor de TSH. Mejor ve en la mañana. La biotina, como acordaste con el médico."
+  }
+ ]
+}

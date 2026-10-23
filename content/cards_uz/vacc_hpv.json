@@ -1,0 +1,77 @@
+{
+ "title": "OPV (HPV) ga qarshi emlash",
+ "also": [
+  "OPV vaksinasi",
+  "bachadon bo‘yni saratoniga qarshi emlash",
+  "papillomavirusga qarshi emlash",
+  "papilloma virusiga qarshi emlash"
+ ],
+ "what": "Yelkaga qilinadigan vaksina ukoli. U bachadon bo‘yni saratoni va boshqa kasalliklarni chaqirishi mumkin bo‘lgan odam papillomavirusidan himoya qiladi.",
+ "why": "Eng yaxshisi — taxminan 9 yoshdan 14 yoshgacha bolalarga, jinsiy hayot boshlanishidan oldin. O‘smirlar va kattalarga — shifokor maslahati bilan.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa; kurs — yoshga qarab 1 tadan 3 tagacha ukol",
+ "tell_doctor": [
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Allergiyalar va oldingi emlashlarga kuchli reaksiyalar",
+  "Homilador bo‘lsangiz",
+  "Ukoldan hushdan ketgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash odam sog‘ bo‘lganda qilinadi. Ukoldan oldin qisqacha ko‘rikdan o‘tkaziladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Emlashdan oldin ovqatlangan yaxshi: o‘smirlarda och qoringa boshi ko‘proq aylanadi."
+  },
+  {
+   "title": "Sxema",
+   "text": "Nechta ukol kerakligini va qanday muddatda, shifokor aytadi. Klinikadan aniqlang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor o‘zingizni qanday his qilayotganingizni so‘raydi va haroratni o‘lchaydi",
+  "Yelkangizni ochasiz",
+  "Teri artiladi va ukol qilinadi",
+  "Emlash hujjatlarga yoziladi",
+  "Ukoldan keyin klinikada 15–30 daqiqa o‘tiring"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan 1–3 kun ukol joyi og‘riydi yoki qizaradi",
+  "Ba’zan holsizlik, bosh og‘rig‘i yoki ozgina harorat"
+ ],
+ "after": [
+  "Xona yonida o‘tiring, keskin turmang",
+  "Odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "Keyingi ukol — kerak bo‘lsa, jadval bo‘yicha"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)",
+  "Ukoldan keyin hushdan ketish — odamni yotqizing va hamshirani chaqiring"
+ ],
+ "faq": [
+  {
+   "q": "Nega bolani bunchalik erta emlash kerak?",
+   "a": "Vaksina virus bilan uchrashishdan oldin eng yaxshi ishlaydi. Bolalikda immunitet kuchliroq javob beradi."
+  },
+  {
+   "q": "O‘g‘il bolalarga emlash kerakmi?",
+   "a": "Ko‘p mamlakatlarda o‘g‘il bolalarga ham tavsiya qilinadi. Shifokordan aniqlang."
+  },
+  {
+   "q": "Emlash ginekolog ko‘riklarini almashtiradimi?",
+   "a": "Yo‘q. Muntazam ko‘riklar va surtmalar baribir kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga OPV (HPV) ga qarshi emlash. Ertalab nonushta qiling, emlash kartasini oling."
+  }
+ ]
+}

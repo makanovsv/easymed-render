@@ -1,0 +1,75 @@
+{
+ "title": "Enfermedad renal crónica: dieta y control",
+ "also": [
+  "enfermedad de los riñones",
+  "ERC",
+  "insuficiencia renal",
+  "dieta para enfermedad renal"
+ ],
+ "what": "En la enfermedad renal crónica los riñones limpian peor la sangre. La alimentación, la presión y el control de los análisis ayudan a frenar la enfermedad.",
+ "why": "Si el médico encontró enfermedad renal crónica, muchas veces por diabetes o presión alta.",
+ "duration": "el control de los análisis suele ser cada pocos meses",
+ "tell_doctor": [
+  "Todos tus medicamentos y suplementos: algunos dañan los riñones",
+  "Si aparecieron hinchazón, orina escasa o cambió su color",
+  "Si te van a hacer un estudio con contraste",
+  "Antes de cualquier medicamento nuevo"
+ ],
+ "prepare": [
+  {
+   "title": "Analgésicos",
+   "text": "No tomes analgésicos ni hierbas sin consultar al médico: algunos dañan los riñones."
+  },
+  {
+   "title": "Alimentación",
+   "text": "Cuánta sal, proteína, potasio y líquido puedes tomar lo dice el médico. Depende de la etapa."
+  },
+  {
+   "title": "Presión y azúcar",
+   "text": "Mantenlos en las cifras que te dio el médico."
+  }
+ ],
+ "bring": [
+  "Los resultados de análisis de sangre y orina",
+  "La lista de tus medicamentos",
+  "El diario de presión"
+ ],
+ "steps": [
+  "Menos sal: no le agregues sal a la comida y evita embutidos, enlatados y papitas",
+  "Proteína solo en la cantidad que indicó el médico",
+  "Si el médico limitó el potasio, averigua qué alimentos tienen mucho",
+  "Toma la cantidad de líquido que diga el médico",
+  "Mide la presión y anótala",
+  "Hazte los análisis de sangre y orina según el calendario"
+ ],
+ "feel": [
+  "En las primeras etapas muchas veces no molesta nada",
+  "Más adelante puede haber debilidad, comezón, hinchazón: díselo al médico"
+ ],
+ "after": [
+  "Muestra los resultados de análisis al médico",
+  "A cada médico dile que tienes enfermedad renal",
+  "Pregunta por las vacunas que necesitas"
+ ],
+ "red_flags": [
+  "Casi no orinas o no orinas casi en un día: acude de urgencia al médico",
+  "Falta de aire fuerte, la hinchazón aumenta: llama a emergencias",
+  "Debilidad fuerte, latidos irregulares: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede curar la enfermedad renal?",
+   "a": "Muchas veces se puede frenar. Mientras más pronto empieza el tratamiento, mejor."
+  },
+  {
+   "q": "¿Hay que tomar mucha agua?",
+   "a": "No siempre. En algunas etapas, al contrario, se limita. Pregunta al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes los análisis de los riñones. Lleva la orden y el diario de presión."
+  }
+ ]
+}

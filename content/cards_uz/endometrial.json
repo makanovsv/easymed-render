@@ -1,0 +1,76 @@
+{
+ "title": "Endometriy paypel-biopsiyasi",
+ "also": [
+  "paypel",
+  "endometriy aspiratsion biopsiyasi",
+  "bachadon biopsiyasi",
+  "bachadondan to‘qima olish"
+ ],
+ "what": "Shifokor bachadon bo‘yni orqali bachadonga ingichka egiluvchan naycha kiritib, uning ichki qavatidan ozgina to‘qima oladi. Kesishsiz va odatda og‘riqsizlantirishsiz.",
+ "why": "Tsikl buzilishlarida, menopauzadan keyingi qonli ajralmalarda, bepushtlikda yoki UZIda bachadonning ichki qavati o‘zgargan bo‘lsa.",
+ "duration": "muolaja odatda 5–15 daqiqa; natija — odatda 1–2 haftada",
+ "tell_doctor": [
+  "Homiladorlik yoki u mumkin bo‘lsa",
+  "Qonni suyultiradigan preparatlar",
+  "Bachadon ichi spirali",
+  "Og‘riq qoldiruvchilarga allergiya",
+  "Hozir ajralma yoki yallig‘lanish bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Tsikl kuni",
+   "text": "Tsikl kuni maqsadga bog‘liq. Shifokor qachon kelishni aytadi."
+  },
+  {
+   "title": "Test",
+   "text": "Ba’zan muolajadan oldin homiladorlik testini qilishni so‘rashadi."
+  },
+  {
+   "title": "Og‘riq qoldiruvchi",
+   "text": "Muolajadan bir soat oldin og‘riq qoldiruvchi ichish mumkinmi, shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "UZI natijalari",
+  "Prokladka",
+  "Hujjat"
+ ],
+ "steps": [
+  "Ginekologik kresloga o‘tirasiz",
+  "Shifokor ko‘zgu kiritib, bachadon bo‘ynini ishlaydi",
+  "Bachadon bo‘yni orqali bachadonga ingichka egiluvchan naycha kiritiladi",
+  "Ichkarida yengil siyraklik hosil qilinib, to‘qima olinadi — bir necha soniya",
+  "Naycha chiqariladi, to‘qima tahlilga yuboriladi"
+ ],
+ "feel": [
+  "Kuchli spazm, og‘riqli hayzdagidek, — odatda qisqa",
+  "Ba’zan bosh aylanishi yoki ko‘ngil aynishi — shifokorga ayting",
+  "Keyin — bir necha soat tortuvchi og‘riq"
+ ],
+ "after": [
+  "Ozgina qonli ajralma — odatda 1–2 kun",
+  "Jinsiy aloqasiz, tampon, vanna va basseynsiz — odatda bir necha kun, aniqrog‘ini shifokor aytadi",
+  "Natijani shifokor qabulda tushuntiradi"
+ ],
+ "red_flags": [
+  "Ko‘p hayzdagidek qon ketishi",
+  "Harorat 38 dan yuqori, qorin pastida kuchli og‘riq, yoqimsiz hidli ajralma"
+ ],
+ "faq": [
+  {
+   "q": "Bu og‘riydimi?",
+   "a": "Og‘riqli hayzdagidek o‘tkir spazm seziladi. U qisqa, odatda bir daqiqadan kam."
+  },
+  {
+   "q": "Bu qirib tashlashdan nimasi bilan farq qiladi?",
+   "a": "Bu osonroq: narkozsiz, bachadon bo‘ynini kengaytirmasdan, ingichka naycha orqali."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga endometriy biopsiyasi. UZI natijalari va prokladkani oling. Og‘riq qoldiruvchi haqida shifokordan oldindan so‘rang."
+  }
+ ]
+}

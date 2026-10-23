@@ -1,0 +1,66 @@
+{
+ "title": "Consulta com o ortodontista",
+ "also": [
+  "consulta de ortodontia",
+  "avaliação para aparelho",
+  "avaliação da mordida"
+ ],
+ "what": "O ortodontista examina os dentes e a mordida. Ele diz se é preciso alinhar e de que jeito.",
+ "why": "Com dentes tortos, mordida errada, dentes apertados ou espaços entre os dentes, para crianças e adultos.",
+ "duration": "normalmente 30 a 60 minutos",
+ "tell_doctor": [
+  "O que incomoda: aparência, mastigação, fala, respiração",
+  "Se teve traumas nos dentes e no maxilar",
+  "Hábitos: chupar o dedo, respirar pela boca, ranger os dentes",
+  "Doenças crônicas e remédios",
+  "Se for criança: quando os dentes começaram a trocar"
+ ],
+ "prepare": [
+  {
+   "title": "Dentes",
+   "text": "Escove os dentes antes da consulta."
+  },
+  {
+   "title": "Radiografias",
+   "text": "Se tiver radiografias dos dentes, leve. Às vezes elas são feitas no dia da consulta."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Radiografias dos dentes, se tiver",
+  "Lista de dúvidas para o dentista"
+ ],
+ "steps": [
+  "O dentista pergunta o que incomoda",
+  "Examina os dentes e a mordida",
+  "Pode tirar fotos do rosto e dos dentes",
+  "Pede radiografias ou faz moldagem, se for preciso",
+  "Explica as opções de tratamento e os prazos"
+ ],
+ "feel": [
+  "O exame não dói",
+  "A moldagem pode dar ânsia. Respire pelo nariz"
+ ],
+ "after": [
+  "O dentista passa o plano de tratamento depois das radiografias",
+  "Você pode pensar com calma",
+  "Tire dúvidas sobre prazos e cuidados"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Com que idade ir ao ortodontista?",
+   "a": "A primeira avaliação normalmente é recomendada para crianças no começo da troca dos dentes. Adultos, em qualquer idade."
+  },
+  {
+   "q": "Adulto pode alinhar os dentes?",
+   "a": "Pode, normalmente sim. Os prazos costumam ser mais longos que nas crianças."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta com o ortodontista. Escove os dentes e leve as radiografias, se tiver."
+  }
+ ]
+}

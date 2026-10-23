@@ -1,0 +1,72 @@
+{
+ "title": "Escuela de diabetes",
+ "also": [
+  "escuela de diabetes",
+  "clases para personas con diabetes",
+  "educación en diabetes",
+  "curso para diabéticos"
+ ],
+ "what": "Clases para personas con diabetes y sus familiares. Un médico o una enfermera enseñan a vivir con diabetes y a manejar el azúcar.",
+ "why": "Cuando acaban de encontrar la diabetes, cuando recetaron insulina o cuando el azúcar no se mantiene bien.",
+ "duration": "normalmente varias clases de 1 a 2 horas",
+ "tell_doctor": [
+  "Qué tipo de diabetes tienes y desde cuándo",
+  "Qué medicamentos o insulina recibes",
+  "Si tienes azúcar baja",
+  "Si ves o oyes mal: se buscará un formato cómodo"
+ ],
+ "prepare": [
+  {
+   "title": "Inscripción",
+   "text": "Pregunta a tu médico o en tu centro de salud dónde son las clases y cómo inscribirte."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Anota con tiempo lo que no entiendes. En la clase te lo responderán."
+  },
+  {
+   "title": "Familiares",
+   "text": "Puedes ir con un familiar que te ayude en casa."
+  }
+ ],
+ "bring": [
+  "El glucómetro y el diario de azúcar",
+  "La lista de tus medicamentos",
+  "Libreta y pluma",
+  "Un bocadillo por si baja el azúcar"
+ ],
+ "steps": [
+  "Llegas a un grupo o a una clase individual",
+  "Te explican qué es la diabetes y cómo funciona el azúcar",
+  "Te enseñan a medir el azúcar y a llevar un diario",
+  "Te hablan de la alimentación y del conteo de carbohidratos",
+  "Te enseñan qué hacer con azúcar baja y alta",
+  "Te hablan del cuidado de los pies y de las revisiones con los médicos"
+ ],
+ "feel": [
+  "Hay mucha información nueva; es normal, se da por partes",
+  "Puedes hacer cualquier pregunta"
+ ],
+ "after": [
+  "Empieza a aplicar poco a poco lo que entendiste",
+  "Anota el azúcar y muestra el diario al médico",
+  "Si olvidaste algo, puedes volver a la clase; pregunta en el centro de salud"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Necesito la escuela si tengo la enfermedad desde hace mucho?",
+   "a": "Sí, es útil. Los métodos y los aparatos cambian, y muchos aprenden cosas nuevas."
+  },
+  {
+   "q": "¿Tiene costo?",
+   "a": "Depende de la clínica y del seguro. Pregunta en tu centro de salud."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes clase en la escuela de diabetes. Lleva el glucómetro, el diario y un bocadillo."
+  }
+ ]
+}

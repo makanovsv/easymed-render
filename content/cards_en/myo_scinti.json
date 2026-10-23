@@ -1,0 +1,84 @@
+{
+ "title": "Myocardial perfusion scan (heart scintigraphy)",
+ "also": [
+  "heart scintigraphy",
+  "heart SPECT scan",
+  "radioisotope heart test",
+  "nuclear stress test"
+ ],
+ "what": "A very small dose of a special substance is injected into a vein and collects in the heart muscle. A camera shows how well blood feeds the heart at rest and under stress.",
+ "why": "When coronary heart disease is suspected, for chest pain, and to check after a stent or bypass surgery.",
+ "duration": "usually 3 to 5 hours including waiting, sometimes over two days; the report usually in 1 to 3 days",
+ "tell_doctor": [
+  "All your medicines, especially heart ones - your doctor will say which to skip and when",
+  "Asthma or chronic lung disease - this affects which stress test is chosen",
+  "Pregnancy or breastfeeding",
+  "If it is hard to lie on your back for long with your arms above your head",
+  "If you will not be able to walk on a treadmill or pedal an exercise bike"
+ ],
+ "prepare": [
+  {
+   "title": "Caffeine",
+   "text": "Usually no coffee, tea, cola, energy drinks or chocolate for a day before. The clinic will tell you the exact time."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no food for 3 to 4 hours before the exam. Ask the clinic."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. Your doctor may ask you to skip some heart medicines - only on their instruction."
+  },
+  {
+   "title": "Clothing",
+   "text": "Comfortable clothes and walking shoes, with no metal."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "A list of your medicines",
+  "Earlier ECGs and heart reports",
+  "A snack for the break between scans"
+ ],
+ "steps": [
+  "A thin catheter is placed in your vein and ECG electrodes are stuck on",
+  "A small dose of the substance is given and you wait for it to collect",
+  "You lie under the camera with your arms above your head while it slowly moves around your chest",
+  "For the second part, a stress test is done: treadmill, exercise bike or a medicine that imitates exercise",
+  "At peak stress the substance is given again",
+  "After a break, another series of pictures is taken"
+ ],
+ "feel": [
+  "A prick when the catheter goes in",
+  "During stress - shortness of breath and a fast heartbeat, which is expected",
+  "The stress medicine can cause a hot flush, headache and heaviness in the chest - usually gone within minutes",
+  "Under the camera you must lie still, which can be tiring"
+ ],
+ "after": [
+  "Drink more water for the rest of the day - the substance will leave faster",
+  "You can usually go back to normal food and activities right away",
+  "In the evening limit long close contact with pregnant women and small children - ask your doctor",
+  "The report usually comes in 1 to 3 days and is discussed with your cardiologist"
+ ],
+ "red_flags": [
+  "Severe pressing chest pain that does not go away - call your local emergency number",
+  "Sudden shortness of breath, fainting or a strong heartbeat after the exam"
+ ],
+ "faq": [
+  {
+   "q": "Is this dangerous radiation?",
+   "a": "The dose is small and is considered safe for this exam. If you are pregnant or breastfeeding, be sure to say so in advance."
+  },
+  {
+   "q": "Why no coffee before the exam?",
+   "a": "Caffeine stops the stress medicine from working. The result may then be inaccurate."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Heart scan tomorrow. From today no coffee, tea, cola or chocolate. Medicines: as your doctor said."
+  }
+ ]
+}

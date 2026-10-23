@@ -1,0 +1,78 @@
+{
+ "title": "Bolada tomizish bilan refraksiyani tekshirish (tsikloplegiya)",
+ "also": [
+  "atropin tomizish",
+  "tomchi bilan ko‘rishni tekshirish",
+  "tsikloplegiya",
+  "bolada qorachiqni kengaytirish"
+ ],
+ "what": "Bolaga ko‘z mushagini vaqtincha bo‘shashtiradigan tomchilar tomiziladi. Shunda shifokor ko‘zoynak kerak yoki kerak emasligini aniq biladi.",
+ "why": "Birinchi ko‘zoynakdan oldin, yaqinni ko‘ra olmaslik, uzoqni ko‘ra olmaslik, g‘ilaylikka shubhada, shuningdek ko‘rishni nazorat qilish uchun.",
+ "duration": "tomizish va kutish odatda 30–60 daqiqa, ba’zan uyda bir necha kun tomizishadi; natija darhol",
+ "tell_doctor": [
+  "Bolada ko‘z tomchilariga allergiya bo‘lgan bo‘lsa",
+  "Yurak kasalliklari, tutqanoq yoki boshqa surunkali kasalliklar bormi",
+  "Bola qanday dorilar ichadi",
+  "Bola ko‘zoynak taqsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tartib",
+   "text": "Tomchilar bir necha soatdan bir necha kungacha ta’sir qilishi mumkin. Klinikadan aniqlashtiring va shu kunga o‘qish mashg‘ulotlarini rejalashtirmang."
+  },
+  {
+   "title": "Bola",
+   "text": "Tomchilar biroz achishtirishini, lekin tez o‘tishini ayting."
+  },
+  {
+   "title": "Quyosh",
+   "text": "Kepka yoki quyoshdan saqlovchi ko‘zoynak oling: yorug‘lik ko‘zni qamashtiradi."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Bolaning ko‘zoynagi, agar bo‘lsa",
+  "Kepka yoki quyoshdan saqlovchi ko‘zoynak",
+  "Kutish uchun o‘yinchoq yoki kitob"
+ ],
+ "steps": [
+  "Hamshira ikkala ko‘zga tomchi tomizadi",
+  "Ba’zan tomchilar bir necha marta takrorlanadi",
+  "Qorachiqlar kengayguncha kutasiz",
+  "Shifokor ko‘zga maxsus asbob bilan yorug‘lik tushiradi",
+  "Apparatda refraksiya o‘lchanadi",
+  "Shifokor ko‘z tubini ko‘radi va natijani tushuntiradi"
+ ],
+ "feel": [
+  "Tomchilar bir necha soniya achishtiradi",
+  "Keyin bolani yorug‘lik qamashtiradi va yaqinni ko‘rish qiyin",
+  "Bu vaqtincha va o‘zi o‘tadi"
+ ],
+ "after": [
+  "Tomchilar ta’sir qilayotganda bolaga o‘qish va chizish qiyin",
+  "Ko‘zlarni yorqin quyoshdan asrang",
+  "Uyda tomchi tayinlangan bo‘lsa, shifokor sxemasi bo‘yicha qat’iy tomizing",
+  "Ko‘zoynak retseptini odatda darhol berishadi"
+ ],
+ "red_flags": [
+  "Tomchilardan keyin yuzning qizarishi, issiq, og‘izning kuchli qurishi, qo‘zg‘alish bo‘lsa, shifokorga qo‘ng‘iroq qiling",
+  "Bola holsiz, uyquchan yoki juda notinch bo‘lsa, 103 ga qo‘ng‘iroq qiling",
+  "Ko‘zda kuchli og‘riq yoki qizarish"
+ ],
+ "faq": [
+  {
+   "q": "Jadval bo‘yicha oddiy tekshirsa bo‘ladigan bo‘lsa, tomchi nega kerak?",
+   "a": "Bolaning ko‘zi kuchli zo‘riqadi va uzoqni ko‘ra olmaslikni yashirishi yoki yolg‘on yaqinni ko‘ra olmaslikni ko‘rsatishi mumkin. Tomchilar ko‘zni bo‘shashtiradi va aniq natija beradi."
+  },
+  {
+   "q": "Bu zararli emasmi?",
+   "a": "To‘g‘ri dozada bu oddiy xavfsiz muolaja. Shifokorga bolaning kasalliklari haqida ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga tomchi bilan ko‘rishni tekshirish. Bola uchun kepka yoki quyoshdan saqlovchi ko‘zoynak oling."
+  }
+ ]
+}

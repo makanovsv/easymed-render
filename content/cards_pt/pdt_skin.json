@@ -1,0 +1,77 @@
+{
+ "title": "Terapia fotodinâmica da pele",
+ "also": [
+  "terapia fotodinâmica",
+  "TFD",
+  "tratamento com luz",
+  "fotodinâmica",
+  "PDT"
+ ],
+ "what": "Passam na pele um creme especial que deixa as células alteradas sensíveis à luz. Depois iluminam a área com uma lâmpada, e as células alteradas são destruídas.",
+ "why": "Em algumas lesões de pele pré-cancerosas, tumores superficiais da pele, às vezes na acne, por decisão do médico.",
+ "duration": "o creme age normalmente 1 a 3 horas, a iluminação leva 10 a 20 minutos; a cicatrização leva 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que aumentam a sensibilidade ao sol",
+  "Se já teve reações ao sol ou herpes no rosto",
+  "Alergias",
+  "Gravidez"
+ ],
+ "prepare": [
+  {
+   "title": "Pele",
+   "text": "Nos dias antes do procedimento, não tome sol. Não use esfoliantes nem produtos irritantes."
+  },
+  {
+   "title": "Volta para casa",
+   "text": "Depois do procedimento, a pele precisa ficar protegida da luz. Leve chapéu, lenço e óculos escuros."
+  },
+  {
+   "title": "Tempo",
+   "text": "O procedimento com a espera leva algumas horas. Confirme com a clínica."
+  }
+ ],
+ "bring": [
+  "Chapéu, lenço e óculos escuros",
+  "Protetor solar",
+  "Lista de remédios",
+  "Algo para ler durante a espera"
+ ],
+ "steps": [
+  "Limpam a pele, às vezes tiram de leve as casquinhas",
+  "Passam o creme especial",
+  "Você espera com um curativo, para o creme penetrar",
+  "Tiram o creme, e seus olhos são cobertos com óculos de proteção",
+  "A área é iluminada com a lâmpada por alguns minutos",
+  "Esfriam a pele e passam um produto calmante"
+ ],
+ "feel": [
+  "Durante a iluminação, ardência e formigamento, que podem ser fortes",
+  "O médico pode fazer pausas e esfriar a pele com ar"
+ ],
+ "after": [
+  "Normalmente, por 1 a 2 dias, mantenha a pele protegida da luz, até de lâmpada forte",
+  "Vermelhidão, inchaço e casquinhas normalmente passam em 1 a 2 semanas",
+  "Não arranque as casquinhas",
+  "Depois, use protetor solar todos os dias"
+ ],
+ "red_flags": [
+  "Bolhas, pus, dor forte, febre: procure o médico",
+  "Inchaço forte em volta dos olhos: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Dói?",
+   "a": "Durante a iluminação, arde. Normalmente ajudam o resfriamento e as pausas. Avise o médico se estiver difícil aguentar."
+  },
+  {
+   "q": "Quantas sessões são precisas?",
+   "a": "Muitas vezes uma ou duas. O número exato, o médico diz."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a terapia fotodinâmica. Leve chapéu, lenço e óculos escuros para voltar para casa."
+  }
+ ]
+}

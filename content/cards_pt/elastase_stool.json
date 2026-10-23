@@ -1,0 +1,67 @@
+{
+ "title": "Elastase pancreática nas fezes",
+ "also": [
+  "elastase fecal",
+  "elastase pancreática",
+  "exame de fezes para o pâncreas",
+  "elastase-1"
+ ],
+ "what": "É um exame de fezes de uma enzima do pâncreas. Mostra se há enzimas suficientes para digerir a comida.",
+ "why": "Com fezes gordurosas, volumosas, que não descem bem na descarga, perda de peso, inchaço; em doenças do pâncreas; em crianças, quando ganham pouco peso.",
+ "duration": "a coleta em casa leva alguns minutos, o resultado sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Se agora as fezes estão líquidas, o resultado pode sair impreciso",
+  "Se toma enzimas ou outros remédios",
+  "Se fez cirurgia no estômago, no intestino ou no pâncreas"
+ ],
+ "prepare": [
+  {
+   "title": "Frasco",
+   "text": "Pegue na farmácia ou no laboratório um frasco com pazinha."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Comprimidos de enzimas normalmente não afetam este exame, mas avise o médico."
+  },
+  {
+   "title": "Fezes",
+   "text": "É melhor entregar fezes formadas, não líquidas."
+  }
+ ],
+ "bring": [
+  "O frasco com a amostra",
+  "Pedido médico"
+ ],
+ "steps": [
+  "Colha as fezes num recipiente limpo e seco. No vaso não serve",
+  "Cuide para que não caia urina nem água na amostra",
+  "Com a pazinha, pegue um pedaço do tamanho de uma ervilha ou de um feijão",
+  "Feche bem o frasco e escreva o nome",
+  "Leve ao laboratório no prazo que passaram"
+ ],
+ "feel": [
+  "Nada. A coleta é feita em casa, sem dor",
+  "Colher a amostra pode ser desagradável, mas é rápido e só uma vez"
+ ],
+ "after": [
+  "O resultado sai normalmente em alguns dias",
+  "Se houver pouca elastase, o médico decide se são precisas enzimas e outros exames"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Posso guardar a amostra na geladeira?",
+   "a": "Normalmente sim, por pouco tempo. Quanto tempo exatamente, o laboratório informa."
+  },
+  {
+   "q": "Preciso de dieta antes do exame?",
+   "a": "Normalmente não. Coma como sempre."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você entrega as fezes para elastase. Deixe pronto o frasco e um recipiente limpo e seco para a coleta."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "Giyohvandlik vositalariga test (siydik)",
+ "also": [
+  "siydikni giyohvandlikka tahlil qilish",
+  "PFV testi",
+  "kimyoviy-toksikologik tekshiruv",
+  "KTT",
+  "taqiqlangan moddalarga test"
+ ],
+ "what": "Siydikni idishga topshirasiz. Test organizmda giyohvand moddalar va ba’zi kuchli dorilar bo‘lganmi-yo‘qmi, shuni ko‘rsatadi.",
+ "why": "Ishga, qurolga, haydovchilik guvohnomasiga ma’lumotnoma uchun, ish beruvchi talabi bilan, tibbiy ko‘riklar uchun.",
+ "duration": "yig‘ish 5–10 daqiqa, ekspress-natija bir necha daqiqada, tasdiqlovchi tahlil — odatda bir necha kun",
+ "tell_doctor": [
+  "Ichayotgan barcha dorilaringizni — hatto oddiy yo‘tal yoki og‘riq qoldiruvchilarni ham",
+  "Yaqinda narkoz yoki kuchli og‘riq qoldiruvchilar bilan davo bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Hujjat",
+   "text": "Shaxsni tasdiqlovchi hujjatni oling — usiz ma’lumotnoma uchun tahlil odatda qabul qilinmaydi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni yozib, hamshiraga ayting."
+  },
+  {
+   "title": "Ichimlik",
+   "text": "Odatdagidek iching. Ortiqcha suv ichish shart emas — juda suyultirilgan siydikni qabul qilmasligi mumkin."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Yo‘llanma yoki ishdan so‘rov",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Hujjatingizni tekshirib, imzolangan idish berishadi",
+  "Hojatxonaga kirishdan oldin ba’zan sumka va ustki kiyimni qoldirishni so‘rashadi",
+  "Siydikni idishga qilasiz — ba’zan kuzatuv ostida, tartib shuni talab qiladi",
+  "Idish sizning ko‘z oldingizda yopilib, plombalanadi",
+  "Test darhol qo‘yiladi yoki laboratoriyaga yuboriladi"
+ ],
+ "feel": [
+  "Kuzatuvdan bo‘lishi mumkin bo‘lgan noqulaylikdan boshqa noxush narsa yo‘q"
+ ],
+ "after": [
+  "Ekspress-natija odatda darhol",
+  "Ekspress-test musbat bo‘lsa, siydik laboratoriyada aniq usul bilan tekshiriladi",
+  "Ma’lumotnoma aytiladigan muddatda beriladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Oddiy dori musbat test berishi mumkinmi?",
+   "a": "Ha, ba’zi dorilar ekspress-testga ta’sir qiladi. Shuning uchun ularni aytish muhim, bahsli holatlar aniq usul bilan tekshiriladi."
+  },
+  {
+   "q": "Siydik nega kuzatuv ostida yig‘iladi?",
+   "a": "Bu ma’lumotnomalar uchun qoida — namunani almashtirib qo‘yishning oldini olish uchun. Hamma uchun bir xil."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga giyohvandlikka tahlil. Shaxsni tasdiqlovchi hujjat va dorilar ro‘yxatini oling."
+  }
+ ]
+}

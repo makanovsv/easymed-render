@@ -1,0 +1,75 @@
+{
+ "title": "Sportga ruxsat",
+ "also": [
+  "sport uchun ma’lumotnoma",
+  "sport shifokori",
+  "sportchilar tibbiy ko‘rigi",
+  "musobaqalarga ruxsat"
+ ],
+ "what": "Shifokor sizga yoki bolangizga sport bilan shug‘ullanish mumkinligini va qanday yuklama bilan ekanini tekshiradi. Oxirida ruxsat ma’lumotnomasi beriladi.",
+ "why": "To‘garakka yozilishdan oldin, musobaqalardan oldin, me’yorlarni topshirishdan oldin yoki murabbiy talabi bilan.",
+ "duration": "odatda 30 daqiqadan bir necha soatgacha, bir nechta shifokordan o‘tish kerak bo‘lsa; ma’lumotnomani ko‘pincha o‘sha kuni berishadi",
+ "tell_doctor": [
+  "Ko‘krakda og‘riq, hushdan ketish yoki yuklamada hansirash",
+  "Qarindoshlarda yoshlikda to‘satdan o‘lim yoki yurak kasalliklari bo‘lgan bo‘lsa",
+  "Jarohatlar va operatsiyalar",
+  "Surunkali kasalliklar va dorilar",
+  "Qanday sport bilan va qanday yuklama bilan shug‘ullanmoqchisiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ro‘yxat",
+   "text": "Klinikadan yoki murabbiydan sport turingiz uchun qaysi shifokorlar va tahlillar kerakligini aniqlab oling."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Ko‘rikdan bir kun oldin og‘ir mashq qilmang: bu EKG va bosimni buzishi mumkin."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yuklamali sinama bo‘lsa, qulay sport kiyimi va poyabzali."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash kartasi yoki bolaning tibbiy kartasi",
+  "Oldingi ma’lumotnomalar va xulosalar",
+  "To‘garak yoki federatsiya talablari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor sog‘lig‘ingiz va mashqlaringiz haqida so‘raydi",
+  "Bo‘y, vazn, bosim va pulsni o‘lchaydi",
+  "EKG qilinadi",
+  "Ba’zan tahlillar, yuklamali sinama yoki boshqa shifokorlar ko‘rigi",
+  "Shifokor yurak va o‘pkani tinglaydi, qad-qomat va bo‘g‘imlarni ko‘radi",
+  "Ruxsat ma’lumotnomasini berishadi yoki tekshiruvga yuborishadi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "Yuklamali sinama oddiy mashqdek, charchash mumkin"
+ ],
+ "after": [
+  "Ma’lumotnomani murabbiyga yoki to‘garakka topshirasiz",
+  "Ma’lumotnoma cheklangan vaqt amal qiladi: muddatni aniqlab oling",
+  "Biror narsa topilsa, shifokor hozircha qanday yuklamalar mumkinligini aytadi"
+ ],
+ "red_flags": [
+  "Mashg‘ulotda ko‘krakda og‘riq, hushdan ketish yoki kuchli hansirash: to‘xtating va 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Sog‘lom bolaga nega EKG kerak?",
+   "a": "EKG katta yuklamalarda xavfli bo‘ladigan kam uchraydigan yurak muammolarini payqashga yordam beradi."
+  },
+  {
+   "q": "Ruxsatdan qanchalik tez-tez o‘tish kerak?",
+   "a": "Odatda yilda bir marta, musobaqalar uchun ba’zan tez-tez. To‘garak talablarini aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga sport uchun tibbiy ko‘rik. Bugun og‘ir mashq qilmang, hujjatlarni oling."
+  }
+ ]
+}

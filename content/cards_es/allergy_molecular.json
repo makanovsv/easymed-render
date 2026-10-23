@@ -1,0 +1,75 @@
+{
+ "title": "Diagnóstico molecular de alergias",
+ "also": [
+  "diagnóstico molecular de alergia",
+  "diagnóstico por componentes",
+  "panel de alergenos",
+  "prueba de alergias en sangre",
+  "microarreglo de alergias"
+ ],
+ "what": "Es un análisis de sangre que muestra a qué proteínas exactas de los alergenos reacciona tu cuerpo. Se revisan muchos alergenos a la vez.",
+ "why": "Si las pruebas comunes no dan una respuesta clara, con alergia a muchos alimentos o pólenes, antes de un tratamiento con alergenos o después de reacciones graves.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en unos días, hasta 2 semanas",
+ "tell_doctor": [
+  "A qué tienes reacciones y cómo son: anótalo antes",
+  "Si tuviste reacciones graves, hinchazón o desmayo",
+  "Si estás en tratamiento con alergenos o te ponen vacunas para la alergia",
+  "Qué medicamentos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente es mejor en la mañana, 3 o 4 horas después de una comida ligera o en ayunas. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Pastillas para la alergia",
+   "text": "Normalmente no afectan el análisis de sangre. No las suspendas por tu cuenta: pregúntale al médico."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "Análisis anteriores de alergia",
+  "La lista de reacciones: a qué, cuándo y qué tan fuertes"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán",
+  "A tu hijo explícale que será un solo piquete, sin pruebas en la piel"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "El alergólogo te explica el resultado: por sí solo todavía no es un diagnóstico",
+  "No quites alimentos de tu dieta sin consejo del médico"
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y está rojo"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede hacer el análisis durante una crisis de alergia?",
+   "a": "Sí. El análisis de sangre se puede hacer aunque tomes pastillas para la alergia y durante una crisis."
+  },
+  {
+   "q": "¿En qué es mejor este análisis que el común?",
+   "a": "Muestra a qué proteína exacta es la reacción. Eso ayuda a saber el riesgo de reacciones graves y a elegir el tratamiento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de sangre de alergenos. Anota a qué tienes reacciones. Las pastillas para la alergia, como siempre."
+  }
+ ]
+}

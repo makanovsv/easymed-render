@@ -1,0 +1,98 @@
+{
+ "title": "Uyquda gastroskopiya (sedatsiya ostida)",
+ "also": [
+  "uyquda FGDS",
+  "sedatsiya ostida EGDS",
+  "narkoz ostida gastroskopiya"
+ ],
+ "what": "Siz uxlab turganingizda shifokor qizilo‘ngach, oshqozon va ichak boshlanishini kamerali ingichka nay bilan ko‘radi. Uyqu uchun dori vena orqali kiritiladi — bu yuzaki uyqu, to‘liq narkoz emas.",
+ "why": "Qorin og‘rig‘i va achishida, jig‘ildon qaynashida, kamqonlikda, ozishda, yara va poliplarni qidirish uchun. Uyquda — qo‘rqsangiz, qusish refleksi kuchli bo‘lsa yoki muolaja uzoq bo‘lishi kerak bo‘lsa.",
+ "duration": "muolajaning o‘zi odatda 10–20 daqiqa, yana uyg‘onish uchun 30–60 daqiqa",
+ "tell_doctor": [
+  "Barcha dorilar, ayniqsa qonni suyultiradigan va qand uchun",
+  "Allergiyalar, jumladan dorilar va tuxumga",
+  "Yurak va o‘pka kasalliklari, xurrak va uyquda nafas to‘xtashi",
+  "Narkoz bilan muammolar bo‘lganmi",
+  "Homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda muolajadan 6–8 soat oldin ovqatlanmaslik kerak. Muolaja ertalab bo‘lsa — bir kun oldin oxirgi yengil kechki ovqat."
+  },
+  {
+   "title": "Ichimlik",
+   "text": "Odatda gazsiz suvni muolajadan 2–3 soat oldingacha ichsa bo‘ladi, keyin hech narsa. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Ertalabki doimiy dorilar — faqat shifokor aytganidek, bir ho‘plam suv bilan."
+  },
+  {
+   "title": "Hamroh",
+   "text": "Sizni uyga olib ketadigan kattalar kerak. Shu kuni rulga o‘tirish mumkin emas."
+  },
+  {
+   "title": "Muolajadan oldin",
+   "text": "Olinadigan tish protezlari va taqinchoqlarni yeching, labdagi pomadani yuving."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjatlar",
+  "Gastroskopiyaning avvalgi xulosalari",
+  "Dorilar ro‘yxati",
+  "Hamroh"
+ ],
+ "steps": [
+  "Siz bilan shifokor yoki anesteziolog gaplashib, sog‘liq va dorilarni aniqlaydi",
+  "Venaga ingichka kateter qo‘yishadi, barmoqqa puls datchigi taqishadi",
+  "Chap yonboshga yotasiz, og‘izga plastik og‘izlik qo‘yishadi",
+  "Venaga dori kiritiladi — bir daqiqada uxlab qolasiz",
+  "Shifokor nayni og‘iz orqali o‘tkazib, oshqozonni ko‘radi",
+  "Kerak bo‘lsa, tahlil uchun kichik to‘qima bo‘lagi olinadi",
+  "Palatada uyg‘onasiz, uyqu o‘tguncha sizni kuzatishadi"
+ ],
+ "feel": [
+  "Muolaja paytida odatda hech narsani sezmaysiz va eslamaysiz",
+  "Keyin — mudroqlik, ba’zan yengil bosh aylanishi",
+  "Tomoq qirillashi va qorin biroz dam bo‘lishi mumkin — bu bir necha soatda o‘tadi"
+ ],
+ "after": [
+  "Shifokor boshqacha demasa, ovqatlanish va ichishni odatda 1–2 soatdan keyin mumkin",
+  "Kun oxirigacha — rulsiz, alkogolsiz va muhim qarorlarsiz",
+  "Xulosa o‘sha kuni beriladi",
+  "To‘qima tahlili natijasi — odatda 1–2 haftada"
+ ],
+ "red_flags": [
+  "Qorin yoki ko‘krakda kuchli og‘riq, qonli qusish, qora axlat, harorat, yutish yoki nafas olish qiyin — darhol shifokorga yoki 103 ga"
+ ],
+ "faq": [
+  {
+   "q": "Bu narkozmi?",
+   "a": "Bu sedatsiya — yuzaki boshqariladigan uyqu. O‘zingiz nafas olasiz va tez uyg‘onasiz, odatda muolajadan bir necha daqiqa keyin."
+  },
+  {
+   "q": "Sedatsiyadan keyin nega rulga o‘tirish mumkin emas?",
+   "a": "Dori reaksiyani yana bir necha soat sekinlashtiradi, o‘zingizni tetik his qilsangiz ham. Shuning uchun hamroh kerak."
+  },
+  {
+   "q": "Uyquda gastroskopiyadan oldin qancha ovqatlanmaslik kerak?",
+   "a": "Odatda 6–8 soat ovqatsiz va 2–3 soat suvsiz. Oshqozon bo‘sh bo‘lishi kerak — bu xavfsizlik uchun muhim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga uyquda gastroskopiya. Sizni kim olib ketishini kelishib oling: shu kuni rulga o‘tirish mumkin emas."
+  },
+  {
+   "hoursBefore": 10,
+   "text": "Oxirgi yengil kechki ovqat — hozir. Keyin muolajagacha ovqatlanmang, suv — klinika aytgan muddatgacha."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Gastroskopiya yaqin. Odatda shu vaqtdan boshlab suv ham ichilmaydi. Hujjatlar va dorilar ro‘yxatini oling."
+  }
+ ]
+}

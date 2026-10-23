@@ -1,0 +1,74 @@
+{
+ "title": "Imunoglobulina anti-D",
+ "also": [
+  "imunoglobulina anti-D",
+  "vacina anti-Rh",
+  "Rh negativo na gravidez",
+  "injeção para fator Rh"
+ ],
+ "what": "É uma injeção para a mulher com Rh negativo. Ela protege o bebê da incompatibilidade de Rh nesta e nas próximas gestações.",
+ "why": "Se a mulher tem Rh negativo e o bebê pode ter Rh positivo. Normalmente por volta de 28 semanas, depois do parto e em outras situações, conforme o médico decidir.",
+ "duration": "a injeção leva de 1 a 2 minutos; depois, cerca de 30 minutos de observação",
+ "tell_doctor": [
+  "O seu fator Rh e o do parceiro, se souber",
+  "Se já tomou imunoglobulina antes",
+  "Alergias, principalmente a derivados de sangue",
+  "Se teve sangramento ou pancada na barriga",
+  "Se o exame de sangue mostrou anticorpos"
+ ],
+ "prepare": [
+  {
+   "title": "Exame",
+   "text": "Normalmente, antes da injeção, fazem um exame de sangue para anticorpos."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não precisa de preparo especial. Coma como sempre."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável. A injeção costuma ser no braço ou no bumbum."
+  }
+ ],
+ "bring": [
+  "Cartão da gestante",
+  "Resultado do exame de anticorpos",
+  "Documento"
+ ],
+ "steps": [
+  "O médico confere os exames e as semanas de gravidez",
+  "A enfermeira confirma o seu nome e o remédio",
+  "Aplica a injeção no músculo",
+  "Você fica meia hora na clínica em observação",
+  "A data da injeção é anotada no cartão da gestante"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "O local pode doer um pouco por um ou dois dias"
+ ],
+ "after": [
+  "Depois da injeção, o exame de anticorpos às vezes dá positivo. Isso é esperado",
+  "Depois do parto, o sangue do bebê é testado para o fator Rh",
+  "Se o bebê for Rh positivo, normalmente se aplica mais uma injeção em até 72 horas"
+ ],
+ "red_flags": [
+  "Manchas na pele, rosto inchado, dificuldade para respirar: ligue para a emergência",
+  "Sangramento ou dor na barriga durante a gravidez"
+ ],
+ "faq": [
+  {
+   "q": "Por que a injeção, se é a primeira gravidez?",
+   "a": "Ela protege esta gravidez e as próximas. O risco já existe na primeira gravidez."
+  },
+  {
+   "q": "A injeção é perigosa para o bebê?",
+   "a": "Normalmente não. Ela é feita justamente para proteger o bebê."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a injeção de imunoglobulina anti-D. Leve o cartão da gestante."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Bola OREVI bilan kasal bo‘ldi: pediatr qabuli",
+ "also": [
+  "bola shamollab qoldi",
+  "shamollashda pediatr",
+  "pediatrni uyga chaqirish",
+  "bolada harorat"
+ ],
+ "what": "Pediatr kasal bolani ko‘radi va shamollashni uyda qanday davolashni maslahat beradi. OREVI odatda 5–7 kunda o‘zi o‘tib ketadi.",
+ "why": "Bolada burun oqishi, yo‘tal, tomoq og‘rig‘i, haroratda.",
+ "duration": "qabul odatda 15–20 daqiqa",
+ "tell_doctor": [
+  "Belgilar qachon boshlangan va harorat qancha bo‘lgan",
+  "Nima va qanday dozada bergansiz",
+  "Bola qanday ichadi va qancha siyadi",
+  "Toshma, quloq og‘rig‘i, og‘ir nafas bormi",
+  "Surunkali kasalliklar va allergiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "Yozuvlar",
+   "text": "Haroratni va isitma tushiruvchi berilgan vaqtni yozib boring."
+  },
+  {
+   "title": "Chaqirish yoki qabul",
+   "text": "Harorat yuqori bo‘lsa, shifokorni uyga chaqirish mumkin. Poliklinikadan aniqlab oling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Ko‘rik uchun oson yechiladigan kiyim."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Tibbiy karta",
+  "Harorat va dorilar yozuvlari",
+  "Suv va salfetkalar"
+ ],
+ "steps": [
+  "Shifokor kasallik haqida sizdan so‘raydi",
+  "Tomoq va burunni ko‘radi",
+  "Quloqlarga qaraydi",
+  "O‘pkani tinglaydi",
+  "Ba’zan qorin va bo‘yinni paypaslaydi",
+  "Uyda qanday davolash va qachon yana chaqirish kerakligini tushuntiradi"
+ ],
+ "feel": [
+  "Tomoqni ko‘rish ba’zan yoqimsiz — bola yig‘lashi mumkin, bu normal",
+  "Qolgan ko‘rik og‘riqsiz — chaqaloqni quchog‘ingizda ushlab turish mumkin"
+ ],
+ "after": [
+  "Ko‘proq ichiring",
+  "Bolaning ahvoli yomon bo‘lsa, haroratni tushiring — dozani shifokor aytadi",
+  "OREVIda antibiotiklar odatda kerak emas — faqat shifokor buyrug‘i bilan bering",
+  "3 kunda yaxshilanmasa — shifokorga yana ko‘rsating"
+ ],
+ "red_flags": [
+  "Bola og‘ir yoki tez-tez nafas oladi, qovurg‘alar orasidagi teri tortilib kiradi — 103 ga qo‘ng‘iroq qiling",
+  "Stakan bilan bosganda oqarmaydigan toshma — 103 ga qo‘ng‘iroq qiling",
+  "Bola loqayd, ichmaydi, uzoq vaqt siymaydi — shoshilinch shifokorga boring",
+  "Haroratda tutqanoq — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Shamollashda antibiotik kerakmi?",
+   "a": "Odatda yo‘q, OREVIni viruslar chaqiradi. Antibiotiklarni faqat shifokor buyuradi."
+  },
+  {
+   "q": "Bog‘chaga qachon borish mumkin?",
+   "a": "Odatda harorat yo‘q bo‘lib, bola o‘zini yaxshi his qilgandan keyin. Muddatni shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada pediatr qabuli. Tibbiy kartani oling, haroratni va bergan dorilaringizni yozib qo‘ying."
+  }
+ ]
+}

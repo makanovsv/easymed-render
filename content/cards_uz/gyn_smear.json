@@ -1,0 +1,75 @@
+{
+ "title": "Flora uchun surtma (ginekologik)",
+ "also": [
+  "flora uchun surtma",
+  "ginekologdagi surtma",
+  "surtma mikroskopiyasi",
+  "tozalikka surtma"
+ ],
+ "what": "Ginekolog qin devorlaridan va bachadon bo‘yinchasidan surtma oladi. Mikroskop ostida yallig‘lanish va infeksiya bor-yo‘qligi ko‘riladi.",
+ "why": "Ajralmalar, qichishish, achishishda, tibbiy ko‘rikda, homiladorlikda, ginekologik protseduralardan oldin.",
+ "duration": "protseduraning o‘zi — 1–2 daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Oxirgi hayzning birinchi kuni",
+  "Yaqinda antibiotik ichgan yoki sham qo‘ygan bo‘lsangiz",
+  "Homilador bo‘lsangiz yoki bo‘lishingiz mumkin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Sikl",
+   "text": "Hayz paytida emas. Odatda sikl birinchi yarmida, hayz tugagandan keyin yaxshiroq."
+  },
+  {
+   "title": "2 kun oldin",
+   "text": "Odatda jinsiy aloqasiz, spirinsovkasiz, shamsiz, kremsiz va qin tabletkalarisiz."
+  },
+  {
+   "title": "Tahlil kuni",
+   "text": "Iliq suv bilan vositasiz yuvining. Ba’zan surtmadan 2–3 soat oldin siymaslikni so‘rashadi — klinikadan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Antibiotik bilan davolanayotgan bo‘lsangiz, shifokorga ayting — qachon topshirish yaxshiroq ekanini u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Paypoq yoki baxilla, klinikada shunday tartib bo‘lsa",
+  "Keyin uchun prokladka"
+ ],
+ "steps": [
+  "Belgacha pastini yechib, ginekologik kreslaga yotasiz",
+  "Shifokor bachadon bo‘yinchasini ko‘rish uchun bir martalik ko‘zguni kiritadi",
+  "Yumshoq cho‘tka yoki shpatel bilan surtma oladi",
+  "Material oynalarga yoki probirkaga suriladi",
+  "Ko‘zgu ehtiyotkorlik bilan olinadi"
+ ],
+ "feel": [
+  "Ko‘zgudan bosim va sovuqlik",
+  "Odatda og‘riq bo‘lmaydi; noqulay bo‘lsa — shifokorga ayting"
+ ],
+ "after": [
+  "Kun davomida biroz dog‘li ajralmalar bo‘lishi mumkin — bu odatiy",
+  "Odatda odatiy hayotni davom ettirsangiz bo‘ladi",
+  "Natijani shifokor tushuntiradi"
+ ],
+ "red_flags": [
+  "Protseduradan keyin qorin pastida kuchli og‘riq yoki ko‘p qon ketsa — shifokorga murojaat qiling yoki tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Hayz paytida surtma topshirsa bo‘ladimi?",
+   "a": "Yo‘q. Qon manzarani ko‘rishga xalaqit beradi. Odatda hayz tugagandan keyin topshiriladi."
+  },
+  {
+   "q": "Qiz bola surtma topshirishi mumkinmi?",
+   "a": "Ha. Parda shikastlanmasligi uchun maxsus ingichka asboblar ishlatiladi. Shifokorga oldindan ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "2 kundan keyin ginekologda surtma. Bugundan boshlab jinsiy aloqasiz, spirinsovkasiz, shamsiz va kremsiz."
+  }
+ ]
+}

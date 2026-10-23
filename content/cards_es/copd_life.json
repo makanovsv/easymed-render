@@ -1,0 +1,75 @@
+{
+ "title": "Vivir con EPOC",
+ "also": [
+  "EPOC",
+  "bronquitis crónica del fumador",
+  "enfermedad pulmonar obstructiva crónica",
+  "falta de aire del fumador"
+ ],
+ "what": "La EPOC es una enfermedad de los pulmones en la que respirar cuesta más. El tratamiento y el estilo de vida ayudan a frenarla y a que falte menos el aire.",
+ "why": "Si el médico encontró EPOC, más a menudo en quienes fumaron o respiraron mucho tiempo polvo y humo.",
+ "duration": "el tratamiento suele ser permanente; los controles con el médico, según el calendario",
+ "tell_doctor": [
+  "Si fumas ahora: el médico te ayudará a dejarlo",
+  "Qué tan seguido tienes crisis y falta de aire",
+  "Qué inhaladores usas y cómo",
+  "Si te aparecieron hinchazones en las piernas"
+ ],
+ "prepare": [
+  {
+   "title": "Dejar de fumar",
+   "text": "Es lo más importante. Pide ayuda al médico: así es más fácil dejarlo."
+  },
+  {
+   "title": "Inhaladores",
+   "text": "Muéstrale al médico cómo los usas."
+  },
+  {
+   "title": "Vacunas",
+   "text": "Pregunta al médico por las vacunas contra la gripe y el neumococo."
+  }
+ ],
+ "bring": [
+  "Los inhaladores",
+  "La lista de tus medicamentos",
+  "Un diario de cómo te sientes"
+ ],
+ "steps": [
+  "Usa los inhaladores todos los días como indicó el médico",
+  "Muévete todos los días: camina a paso tranquilo",
+  "Haz los ejercicios de respiración que te enseñó el médico",
+  "Si te falta el aire, respira con los labios apretados: inhala por la nariz y exhala largo por la boca",
+  "Come poco, pero seguido",
+  "Evita el humo, el polvo y el aire frío"
+ ],
+ "feel": [
+  "La falta de aire con el esfuerzo es común; el entrenamiento la reduce",
+  "La tos con flemas en la mañana es frecuente"
+ ],
+ "after": [
+  "Observa los signos de una crisis: más falta de aire, más flemas, flemas de otro color",
+  "En una crisis, comunícate enseguida con el médico",
+  "Pregunta por el programa de rehabilitación pulmonar"
+ ],
+ "red_flags": [
+  "Falta de aire fuerte en reposo, cuesta hablar: llama a emergencias",
+  "Los labios se ponen azules, hay confusión o somnolencia: llama a emergencias",
+  "Dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Tiene sentido dejar de fumar si ya tengo la enfermedad?",
+   "a": "Sí. Frena la enfermedad a cualquier edad."
+  },
+  {
+   "q": "¿Necesito oxígeno en casa?",
+   "a": "Solo algunas personas. Lo decide el médico según los análisis."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Inhalador de la mañana y una caminata corta a paso tranquilo."
+  }
+ ]
+}

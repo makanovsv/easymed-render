@@ -1,0 +1,74 @@
+{
+ "title": "Kasalxonadan chiqarilish",
+ "also": [
+  "chiqarish epikrizi",
+  "kasalxonadan chiqish",
+  "kasalxonadan uyga ketish",
+  "statsionardan keyin"
+ ],
+ "what": "Kasalxonadagi davo tugab, sizni uyga qo‘yib yuborishadi. Sizga tavsiyalar yozilgan ko‘chirma beriladi.",
+ "why": "Kasalxonadagi davo tugagandan keyin yoki keyingi davoni uyda davom ettirish mumkin bo‘lganda.",
+ "duration": "rasmiylashtirish odatda chiqish kuni 1 soatdan bir necha soatgacha davom etadi",
+ "tell_doctor": [
+  "Chiqishdan oldin sizni nima bezovta qilayotganini",
+  "Uyda yordam beradigan odam bo‘lmasa",
+  "Dorilarni qanday ichishni tushunmasangiz",
+  "Kasallik varaqasi kerak bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Bir kun oldin chiqarilish qaysi vaqtda va sizni kim olib ketishini bilib oling."
+  },
+  {
+   "title": "Savollar",
+   "text": "Savollarni yozib qo‘ying: dorilar, yuklamalar, ovqat, shifokorga qachon borish."
+  },
+  {
+   "title": "Buyumlar",
+   "text": "Buyumlaringizni oldindan yig‘ing, tumbochkani tekshiring."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Yo‘l uchun buyumlar va kiyim",
+  "Shifokorga savollar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor oxirgi ko‘rikni o‘tkazadi",
+  "Sizga tashxis va tavsiyalar yozilgan ko‘chirma beriladi",
+  "Shifokor qanday dorilarni qanday ichishni tushuntiradi",
+  "Keyin qachon va qaysi shifokorga borishni aytishadi",
+  "Kerak bo‘lsa, kasallik varaqasi beriladi",
+  "Buyumlaringizni olib, uyga ketasiz"
+ ],
+ "feel": [
+  "Uyga ketishda xavotir bo‘lishi mumkin — bu normal",
+  "Kasalxonadan keyingi holsizlik bir necha kun davom etishi mumkin"
+ ],
+ "after": [
+  "Ko‘chirmani saqlang va o‘z shifokoringizga ko‘rsating",
+  "Dorilarni tavsiya bo‘yicha iching",
+  "Ko‘rsatilgan muddatda poliklinikada shifokorga boring"
+ ],
+ "red_flags": [
+  "Ahvol keskin yomonlashdi: kuchli og‘riq, yuqori harorat, nafas olish qiyin — 103 ga qo‘ng‘iroq qiling",
+  "Shifokor chiqishda ogohlantirgan belgilar"
+ ],
+ "faq": [
+  {
+   "q": "Ko‘chirmada tushunarsiz narsa bo‘lsa nima qilish kerak?",
+   "a": "Ketishdan oldin shifokordan so‘rang. Keyin ko‘chirmani poliklinikadagi shifokoringizga ham ko‘rsatishingiz mumkin."
+  },
+  {
+   "q": "Poliklinikaga qachon borish kerak?",
+   "a": "Odatda chiqqandan keyingi dastlabki kunlarda. Aniq muddat tavsiyalarda yozilgan."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga kasalxonadan chiqish. Buyumlarni yig‘ing, sizni kim olib ketishini kelishing, shifokorga savollarni yozib qo‘ying."
+  }
+ ]
+}

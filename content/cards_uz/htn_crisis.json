@@ -1,0 +1,77 @@
+{
+ "title": "Uyda yuqori bosim: nima qilish kerak",
+ "also": [
+  "yuqori bosimda nima qilish",
+  "bosim ko‘tarilishi",
+  "gipertonik krizis",
+  "bosim ko‘tarilib ketdi"
+ ],
+ "what": "Bosimni qanday to‘g‘ri o‘lchash va u keskin ko‘tarilsa nima qilish haqida eslatma.",
+ "why": "Bosimi ba’zan ko‘tariladigan barcha odamlar va ularning yaqinlari uchun.",
+ "duration": "o‘lchash — 5–10 daqiqa, yordam — odatda bir soatgacha",
+ "tell_doctor": [
+  "Bosim sakrashlari qanchalik tez-tez bo‘ladi",
+  "Bosimga qanday dorilar va qachon ichasiz",
+  "Sakrash holati uchun dorining bormi — buni shifokor buyurishi kerak",
+  "Bosim ba’zi dorilar yoki voqealardan keyin ko‘tarilsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tonometr",
+   "text": "Uyda ishlaydigan tonometr saqlang. Manjetka qo‘l o‘lchamiga mos bo‘lishi kerak."
+  },
+  {
+   "title": "Reja",
+   "text": "Sakrash paytida nima ichish va qanday raqamlarda qo‘ng‘iroq qilishni shifokordan so‘rang."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Bosimni ertalab va kechqurun yozib boring."
+  }
+ ],
+ "bring": [
+  "Tonometr",
+  "Bosim kundaligi",
+  "Shifokor buyurgan dorilar"
+ ],
+ "steps": [
+  "O‘tirib, suyanchiqqa suyaning, oyoqlar polda, 5 daqiqa o‘tiring",
+  "Manjetkani yalang‘och qo‘lga yurak darajasida taqing",
+  "O‘lchash paytida gapirmang",
+  "1–2 daqiqadan keyin yana o‘lchang",
+  "Bosim yuqori bo‘lsa — shifokor bunday holat uchun buyurgan dorini iching",
+  "Bir necha tabletkani birdan ichmang — bosimni keskin tushirish xavfli",
+  "30–60 daqiqadan keyin yana o‘lchab, yozib qo‘ying"
+ ],
+ "feel": [
+  "Bosh og‘rishi, quloqlar shang‘illashi, ko‘z oldida «pashshalar» bo‘lishi mumkin",
+  "Hayajon bosimni ko‘taradi — xotirjam nafas olishga harakat qiling"
+ ],
+ "after": [
+  "Bosim kundaligini shifokorga ko‘rsating",
+  "Rejali dorilarni o‘tkazib yubormang",
+  "Tuzni kamaytiring, ko‘proq harakat qiling — shifokor maslahatiga ko‘ra"
+ ],
+ "red_flags": [
+  "Ko‘krakda og‘riq, hansirash — tez yordamni chaqiring (103)",
+  "Qo‘l, oyoq, yuz yarmida zaiflik yoki uvishish, nutq buzilishi — tez yordamni chaqiring (103)",
+  "Juda kuchli bosh og‘rig‘i, ko‘rish yo‘qolishi, chalkashlik — tez yordamni chaqiring (103)",
+  "Juda yuqori raqamlar, masalan 180/110 dan yuqori, tushmasa — shifokorga yoki tez yordamga (103) qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Qo‘shnining tabletkasini ichsa bo‘ladimi?",
+   "a": "Yo‘q. Faqat o‘z shifokoringiz buyurganini iching."
+  },
+  {
+   "q": "Nega ikkala qo‘lda bosim har xil?",
+   "a": "Kichik farq bo‘ladi. Yuqori bo‘lgan qo‘lda o‘lchang va farq katta bo‘lsa shifokorga ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Bosimni o‘lchash vaqti: 5 daqiqa o‘tiring, keyin ikki marta o‘lchang."
+  }
+ ]
+}

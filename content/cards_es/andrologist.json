@@ -1,0 +1,72 @@
+{
+ "title": "Consulta con el andrólogo",
+ "also": [
+  "andrólogo",
+  "médico de hombres",
+  "consulta de andrología",
+  "consulta de salud masculina",
+  "urólogo andrólogo"
+ ],
+ "what": "El andrólogo es el médico de la salud masculina. Atiende temas de erección, infertilidad y hormonas.",
+ "why": "Con problemas de erección, cuando la pareja no logra embarazo por mucho tiempo, con dolor en el escroto o con menos deseo.",
+ "duration": "la consulta suele durar de 20 a 40 minutos; los análisis, de 1 a 7 días",
+ "tell_doctor": [
+  "Qué te preocupa exactamente y desde cuándo",
+  "Qué medicamentos y suplementos tomas",
+  "Enfermedades crónicas: diabetes, presión, corazón",
+  "Operaciones y golpes anteriores en la zona de la ingle",
+  "Resultados de análisis anteriores, si los tienes"
+ ],
+ "prepare": [
+  {
+   "title": "Preguntas",
+   "text": "Anota con tiempo todo lo que quieras preguntar. En la consulta es fácil olvidarlo."
+  },
+  {
+   "title": "Higiene",
+   "text": "Una ducha normal el día anterior. Normalmente no se necesita otra preparación."
+  },
+  {
+   "title": "Análisis",
+   "text": "Si el médico pidió antes un espermograma, hace falta abstinencia unos días; pregunta en la clínica cuántos."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Los resultados de análisis y ultrasonidos anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico pregunta por tus molestias, tu salud y tu estilo de vida",
+  "Hace una revisión de los genitales",
+  "A veces revisa la próstata por el recto",
+  "Puede hacer un ultrasonido en el momento",
+  "Pide análisis y te explica el plan"
+ ],
+ "feel": [
+  "La revisión es corta y normalmente no duele",
+  "Sentir pena es normal; el médico atiende estas dudas todos los días"
+ ],
+ "after": [
+  "Hazte los análisis indicados",
+  "La siguiente consulta es cuando estén los resultados",
+  "El tratamiento lo indica solo el médico, según los resultados"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Es necesario hablar de estos temas con el médico?",
+   "a": "Sí. La mayoría de los problemas se resuelven si se cuentan. Todo lo que digas es secreto médico."
+  },
+  {
+   "q": "¿Hay que ir con la pareja?",
+   "a": "No es obligatorio. Si la pareja planea tener un hijo, el médico puede citar a los dos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes consulta con el andrólogo. Lleva tus análisis anteriores y la lista de medicamentos; anota tus preguntas."
+  }
+ ]
+}

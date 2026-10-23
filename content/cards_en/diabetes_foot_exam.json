@@ -1,0 +1,76 @@
+{
+ "title": "Foot exam in diabetes (sensation check)",
+ "also": [
+  "diabetic foot exam",
+  "foot check for diabetes",
+  "diabetic foot",
+  "foot sensation test"
+ ],
+ "what": "The doctor examines your feet and checks how well they feel touch, vibration, and temperature. This helps avoid missing foot sores.",
+ "why": "For everyone with diabetes, usually once a year, and more often if there are foot problems.",
+ "duration": "usually 15 to 30 minutes, with the conclusion right away",
+ "tell_doctor": [
+  "Whether you have numbness, burning, or tingling in your legs",
+  "Calluses, cracks, or sores that heal slowly",
+  "Leg pain when walking",
+  "Which diabetes medicines you take",
+  "Whether you smoke"
+ ],
+ "prepare": [
+  {
+   "title": "Shoes",
+   "text": "Come in your usual shoes and socks, as the doctor will look at them too."
+  },
+  {
+   "title": "Feet",
+   "text": "Do not trim your nails too short the day before, and do not cut calluses yourself."
+  },
+  {
+   "title": "Sugar",
+   "text": "Bring your sugar records or HbA1c test results."
+  }
+ ],
+ "bring": [
+  "An ID",
+  "A sugar diary and recent tests",
+  "The shoes you usually wear"
+ ],
+ "steps": [
+  "You take off your shoes and socks",
+  "The doctor examines the skin, nails, and the spaces between your toes",
+  "Touches your feet with a thin nylon filament, and you say where you feel it",
+  "Places a tuning fork to check vibration",
+  "Checks the pulse in your feet",
+  "Explains how to care for your feet"
+ ],
+ "feel": [
+  "The exam does not hurt",
+  "The touches are light, sometimes ticklish"
+ ],
+ "after": [
+  "Check your feet at home every day, with a mirror if you like",
+  "Do not walk barefoot",
+  "Wear comfortable shoes that do not rub",
+  "The follow-up exam is after the time your doctor sets"
+ ],
+ "red_flags": [
+  "A sore, ulcer, or redness on the foot that does not go away: see a doctor urgently",
+  "The foot turned black, is very swollen, or is hot to the touch: see a doctor urgently"
+ ],
+ "faq": [
+  {
+   "q": "Why check my feet if nothing hurts?",
+   "a": "With diabetes, feeling goes down without you noticing. You may not feel a sore."
+  },
+  {
+   "q": "Can I cut calluses myself?",
+   "a": "Better not to. A foot care specialist does it."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Foot exam tomorrow. Come in your usual shoes and bring your sugar diary."
+  }
+ ]
+}

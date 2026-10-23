@@ -1,0 +1,84 @@
+{
+ "title": "Angiografia dos vasos do cérebro",
+ "also": [
+  "angiografia cerebral",
+  "arteriografia cerebral",
+  "angiografia digital cerebral",
+  "cateterismo cerebral"
+ ],
+ "what": "Por um tubo fino na artéria, o médico coloca contraste nos vasos do cérebro. No raio-X dá para ver cada vaso em detalhes.",
+ "why": "Com aneurismas, malformações dos vasos, estreitamentos dos vasos, depois de AVC ou sangramento, e antes de cirurgia nos vasos.",
+ "duration": "o procedimento leva normalmente 30 a 90 minutos, depois algumas horas de repouso na cama; muitas vezes uma noite no hospital",
+ "tell_doctor": [
+  "Alergia a contraste ou a iodo",
+  "Doenças dos rins e diabetes, principalmente se você toma metformina",
+  "Remédios que afinam o sangue. O médico diz o que suspender e quando",
+  "Gravidez ou se pode haver gravidez",
+  "Se é difícil para você ficar parado"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente, antes do procedimento, são precisos exames de sangue, incluindo rins e coagulação."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come nas 6 horas antes. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. O que pular e quando, o médico diz."
+  },
+  {
+   "title": "Acompanhante",
+   "text": "Para voltar para casa depois do procedimento, é melhor ir com alguém."
+  }
+ ],
+ "bring": [
+  "Pedido médico e as imagens de ressonância ou tomografia",
+  "Documento de identidade",
+  "Lista de remédios",
+  "Coisas para uma noite"
+ ],
+ "steps": [
+  "Colocam um cateter na veia",
+  "Você se deita na mesa, e a pele da virilha ou do punho é anestesiada com uma injeção",
+  "O médico coloca um tubo fino na artéria e leva até os vasos do pescoço",
+  "Aplicam o contraste e fazem uma série de imagens. Pedem para não se mexer e não engolir",
+  "Tiram o tubo, e o local da punção é apertado ou fechado com um dispositivo especial",
+  "Você vai para o quarto, em observação"
+ ],
+ "feel": [
+  "A picada da anestesia no local da punção",
+  "Com o contraste, calor na cabeça e no rosto por alguns segundos, às vezes flashes na frente dos olhos",
+  "Normalmente não se sente o tubo dentro do vaso"
+ ],
+ "after": [
+  "Fique deitado algumas horas, sem dobrar a perna ou o braço da punção",
+  "Beba mais água. Assim o contraste sai mais rápido",
+  "Por alguns dias, não levante peso",
+  "O resultado normalmente é discutido no mesmo dia ou no dia seguinte"
+ ],
+ "red_flags": [
+  "Fraqueza no braço ou na perna, fala alterada, rosto torto: ligue para a emergência na hora",
+  "Dor de cabeça forte e repentina",
+  "Sangramento ou inchaço crescendo rápido no local da punção: aperte e ligue para a emergência",
+  "A perna ou o braço ficou frio, pálido ou dormente"
+ ],
+ "faq": [
+  {
+   "q": "É perigoso?",
+   "a": "Complicações graves são raras. O médico explica os riscos e por que o exame é necessário no seu caso."
+  },
+  {
+   "q": "Por que não fazer só uma ressonância?",
+   "a": "A ressonância e a tomografia mostram bem os vasos, mas a angiografia é mais precisa. Às vezes, durante ela, já dá para tratar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a angiografia dos vasos do cérebro. Coma só até o horário que a clínica disse. Leve as imagens e coisas para uma noite."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Consulta por dolor de cabeza y migraña",
+ "also": [
+  "consulta por migraña",
+  "neurólogo por dolor de cabeza",
+  "me duele la cabeza",
+  "revisión de la cabeza",
+  "diario de dolor de cabeza"
+ ],
+ "what": "El médico te pregunta con detalle sobre tus dolores de cabeza y te examina. La mayoría de las veces la causa se entiende por lo que cuentas y por la revisión, sin estudios complicados.",
+ "why": "Con dolores de cabeza frecuentes o fuertes, migraña, si el dolor cambió o las pastillas dejaron de ayudar.",
+ "duration": "la consulta normalmente dura de 30 a 45 minutos",
+ "tell_doctor": [
+  "Con qué frecuencia te duele la cabeza y cuánto dura el ataque",
+  "Dónde duele y cómo es el dolor: opresivo, pulsante, punzante",
+  "Qué pasa antes del ataque y junto con él: náuseas, la luz molesta",
+  "Qué pastillas tomas para el dolor y con qué frecuencia",
+  "Qué provoca el ataque: sueño, comida, estrés, la menstruación"
+ ],
+ "prepare": [
+  {
+   "title": "Diario",
+   "text": "De 2 a 4 semanas antes de la cita, anota cada ataque: fecha, intensidad, qué tomaste y si ayudó."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No cambies el tratamiento por tu cuenta. Anota todos los medicamentos que tomas."
+  },
+  {
+   "title": "Estudios",
+   "text": "Lleva tus imágenes e informes anteriores, si los tienes."
+  }
+ ],
+ "bring": [
+  "El diario de dolor de cabeza",
+  "La lista de tus medicamentos",
+  "Imágenes e informes anteriores",
+  "Mediciones de presión, si las tienes"
+ ],
+ "steps": [
+  "El médico te pregunta con detalle por los ataques",
+  "Mide la presión",
+  "Revisa los reflejos, los movimientos, las pupilas y el equilibrio",
+  "Te explica qué tipo de dolor de cabeza es",
+  "Si hace falta, te pide análisis o una resonancia",
+  "Te da un plan de tratamiento y prevención"
+ ],
+ "feel": [
+  "La revisión no duele",
+  "Hay muchas preguntas; eso ayuda a entender la causa"
+ ],
+ "after": [
+  "Sigue llevando el diario de dolor de cabeza",
+  "No tomes analgésicos con demasiada frecuencia; pueden aumentar el dolor",
+  "Ven a la cita de seguimiento para evaluar el tratamiento"
+ ],
+ "red_flags": [
+  "Dolor de cabeza repentino y muy fuerte, el peor de tu vida: llama a emergencias",
+  "Dolor de cabeza con debilidad en un brazo o pierna o problemas para hablar: llama a emergencias",
+  "Dolor de cabeza con fiebre alta y cuello rígido: llama a emergencias",
+  "Dolor de cabeza después de un golpe en la cabeza"
+ ],
+ "faq": [
+  {
+   "q": "¿Hace falta una resonancia por el dolor de cabeza?",
+   "a": "No siempre. El médico la pide si hay señales de alarma."
+  },
+  {
+   "q": "¿Se puede tomar analgésico todos los días?",
+   "a": "No. Tomarlo muy seguido puede causar dolor de cabeza por sí mismo. Habla de esto con el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta por dolor de cabeza. Lleva tu diario de ataques y la lista de medicamentos."
+  }
+ ]
+}

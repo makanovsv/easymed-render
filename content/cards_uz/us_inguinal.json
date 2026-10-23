@@ -1,0 +1,71 @@
+{
+ "title": "Chov kanallari UZIsi (churra)",
+ "also": [
+  "chov sohasi UZIsi",
+  "churraga UZI",
+  "chov churrasi UZIsi",
+  "chov ultratovushi"
+ ],
+ "what": "Shifokor ultratovush yordamida chovni ko‘radi va churra — qorin devorining kuchsiz joyidan do‘ppayish — bor-yo‘qligini tekshiradi.",
+ "why": "Chovda shish yoki og‘riqda, ayniqsa yo‘talda va yuklamada; bolalarda — chovda bo‘rtma paydo bo‘lsa.",
+ "duration": "odatda 10–20 daqiqa, xulosa odatda darrov",
+ "tell_doctor": [
+  "Shish qachon paydo bo‘lishi va yotganda ketadimi",
+  "Chovda operatsiyalar bo‘lganmi",
+  "Og‘riq kuchaygan yoki bo‘rtma joyiga tushmay qo‘ygan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Chovni oson ochish uchun qulay kiyim."
+  },
+  {
+   "title": "Bolalar uchun",
+   "text": "Bolaga UZI qilinsa, gel salqin bo‘lishini va og‘riqsizligini tushuntiring. O‘yinchoq oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi xulosalar",
+  "Salfetkalar"
+ ],
+ "steps": [
+  "Chalqancha yotib, chovni ochasiz",
+  "Teriga gel suriladi",
+  "Shifokor datchikni o‘ng va chap tomonda yuritadi",
+  "Yo‘talish yoki kuchanishni so‘rashadi",
+  "Ba’zan tik turgan holda ham ko‘rishadi"
+ ],
+ "feel": [
+  "Salqin gel, datchikning yengil bosimi",
+  "Biroz noqulay — bu normal"
+ ],
+ "after": [
+  "Xulosa odatda darrov",
+  "Churra topilsa, jarroh operatsiya kerak-kerakmasligini va qachon qilinishini aytadi"
+ ],
+ "red_flags": [
+  "Chovdagi bo‘rtma qattiq, og‘riqli bo‘lib, joyiga tushmasa — tez yordamni chaqiring (103)",
+  "Chovda og‘riq, qusish va qorin shishishi bo‘lsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "UZI paytida nega yo‘talish kerak?",
+   "a": "Yo‘talganda qorin ichidagi bosim oshadi va churra yaxshiroq ko‘rinadi."
+  },
+  {
+   "q": "Churra o‘zi o‘tib ketishi mumkinmi?",
+   "a": "Kattalarda odatda yo‘q. Lekin har bir churra shoshilinch operatsiya talab qilmaydi — jarroh hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga chov UZIsi. Tayyorgarlik kerak emas. Qulay kiyim kiying."
+  }
+ ]
+}

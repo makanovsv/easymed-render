@@ -1,0 +1,76 @@
+{
+ "title": "BRCA1/2 genetic test",
+ "also": [
+  "BRCA test",
+  "BRCA gene test",
+  "breast cancer gene test",
+  "BRCA mutation test"
+ ],
+ "what": "This blood or saliva test looks for inherited changes in the BRCA1 and BRCA2 genes. These changes raise the risk of breast and ovarian cancer.",
+ "why": "If several relatives had breast, ovarian, prostate, or pancreatic cancer, if breast cancer appeared at a young age, or to help choose treatment.",
+ "duration": "the blood draw usually takes 5 minutes; results usually come in 2 to 4 weeks",
+ "tell_doctor": [
+  "Who in your family had cancer and at what age, on both sides",
+  "If a relative already had a gene change found. Bring their report",
+  "If you had a blood transfusion or a bone marrow transplant",
+  "Why you want the test: to check your risk or to choose treatment"
+ ],
+ "prepare": [
+  {
+   "title": "Counseling",
+   "text": "It is best to talk with a genetic counselor or geneticist before the test: what it can show and what to do with the result."
+  },
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast. Check with the lab."
+  },
+  {
+   "title": "Family",
+   "text": "Make a list of relatives with cancer: who, what cancer, and at what age."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "The list of relatives with cancer",
+  "A relative's genetic report, if there is one"
+ ],
+ "steps": [
+  "You sit down, and the nurse ties a band on your arm",
+  "The skin is wiped with antiseptic",
+  "Blood is taken from a vein into one tube",
+  "Sometimes saliva is collected in a tube instead of blood",
+  "The sample is sent to a genetics lab"
+ ],
+ "feel": [
+  "A quick prick, like a normal blood test",
+  "Feeling anxious is common and normal. Ask your doctor questions"
+ ],
+ "after": [
+  "Results usually come in 2 to 4 weeks",
+  "It is best to go over the result with a genetic counselor or geneticist",
+  "If a change is found, the doctor will talk about checkups and ways to lower your risk, and relatives may be offered the test",
+  "If nothing is found, it does not guarantee you will not get cancer. Your doctor will say what checkups you need"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "If a mutation is found, will I definitely get cancer?",
+   "a": "No. Your risk is higher than other people's, but it is not a sentence. There are checkups and steps that lower this risk."
+  },
+  {
+   "q": "Do I need to repeat this test?",
+   "a": "Usually not. Your genes do not change during your life, so once is enough."
+  },
+  {
+   "q": "Do men need this test?",
+   "a": "Sometimes, yes. Men can have BRCA changes too and pass them to children of either sex."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "BRCA genetic test tomorrow. Bring the list of relatives with cancer and their reports, if any."
+  }
+ ]
+}

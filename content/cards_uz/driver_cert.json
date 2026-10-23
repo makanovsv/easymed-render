@@ -1,0 +1,72 @@
+{
+ "title": "Haydovchilik guvohnomasi uchun tibbiy komissiya",
+ "also": [
+  "haydovchi uchun ma’lumotnoma",
+  "haydovchilik tibbiy komissiyasi",
+  "guvohnoma uchun tibbiy ma’lumotnoma",
+  "YHXX uchun ma’lumotnoma"
+ ],
+ "what": "Bir nechta shifokor xavfsiz haydashga xalaqit beradigan kasalliklar yo‘qligini tekshiradi. Keyin guvohnoma uchun tibbiy ma’lumotnoma berishadi.",
+ "why": "Guvohnoma olishdan oldin, muddati bo‘yicha almashtirishda, mahrum qilingandan keyin yoki haydovchi bo‘lib ishlash uchun.",
+ "duration": "barcha shifokorlar bir joyda bo‘lsa, odatda 1–3 soat; ma’lumotnomani ko‘pincha o‘sha kuni berishadi",
+ "tell_doctor": [
+  "Ko‘zoynak yoki linza taqsangiz",
+  "Hushdan ketish, tutqanoq, epilepsiya",
+  "Yurak kasalliklari, diabet",
+  "Doimiy ichadigan dorilaringiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ro‘yxat",
+   "text": "Klinikadan qaysi shifokorlardan o‘tish kerakligini aniqlab oling: odatda terapevt, oftalmolog, psixiatr va narkolog, ba’zi toifalar uchun — yana mutaxassislar."
+  },
+  {
+   "title": "Ma’lumotnomalar",
+   "text": "Ba’zan psixiatr va narkolog ma’lumotnomalarini alohida dispanserda olishadi. Oldindan aniqlab oling."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Yaxshi uxlang, alkogol ichmang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Ko‘zoynak yoki linza, agar taqsangiz",
+  "Surat, agar klinika so‘rasa",
+  "Eski guvohnoma, agar almashtirayotgan bo‘lsangiz"
+ ],
+ "steps": [
+  "Ro‘yxatga olishda blankani to‘ldirib, xonalar bo‘ylab yo‘nalish berishadi",
+  "Oftalmolog ko‘rish, ranglarni ajratish va ko‘rish maydonini tekshiradi",
+  "Terapevt qon bosimini o‘lchab, sog‘ligingiz haqida so‘raydi",
+  "Psixiatr va narkolog savollar beradi",
+  "Ba’zan qo‘shimcha tekshiruvlar o‘tkaziladi",
+  "Ma’lumotnoma beriladi"
+ ],
+ "feel": [
+  "Og‘riqli hech narsa yo‘q",
+  "Navbatlar bo‘ladi — vaqtni zaxira bilan oling"
+ ],
+ "after": [
+  "Ma’lumotnomani guvohnomani rasmiylashtirishda topshirasiz",
+  "Ma’lumotnoma cheklangan vaqt amal qiladi — muddatini aniqlab oling",
+  "Shifokor shubha qilsa, tekshiruvga yo‘llashi mumkin"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Komissiyadan ko‘zoynakda o‘tsa bo‘ladimi?",
+   "a": "Ha. Ko‘zoynakda ko‘rish yetarli bo‘lsa, ma’lumotnomada faqat ko‘zoynakda haydash mumkinligi yoziladi."
+  },
+  {
+   "q": "Ma’lumotnoma qancha vaqt amal qiladi?",
+   "a": "Muddat mamlakat qoidalariga bog‘liq. Klinikadan yoki hujjat topshirishda aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga guvohnoma uchun tibbiy komissiya. Hujjat va ko‘zoynak yoki linzani oling, agar taqsangiz."
+  }
+ ]
+}

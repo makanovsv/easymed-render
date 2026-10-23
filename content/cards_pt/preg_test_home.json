@@ -1,0 +1,78 @@
+{
+ "title": "Teste de gravidez em casa",
+ "also": [
+  "teste de gravidez",
+  "teste de farmácia",
+  "como fazer teste de gravidez",
+  "dois risquinhos"
+ ],
+ "what": "O teste caseiro procura na urina o hormônio da gravidez. Se ele estiver presente, aparece uma segunda linha ou um símbolo.",
+ "why": "Se a menstruação atrasou ou você suspeita de gravidez.",
+ "duration": "o teste leva alguns minutos; a resposta, no tempo indicado na bula",
+ "tell_doctor": [
+  "A data de início da última menstruação",
+  "O resultado do teste e quando você fez",
+  "Todos os remédios que você toma",
+  "Se teve dor no pé da barriga ou sangramento"
+ ],
+ "prepare": [
+  {
+   "title": "Quando",
+   "text": "É mais exato a partir do primeiro dia de atraso da menstruação. Antes, o teste pode ainda não mostrar."
+  },
+  {
+   "title": "Horário",
+   "text": "É melhor de manhã, com a primeira urina. Nela há mais hormônio."
+  },
+  {
+   "title": "Água",
+   "text": "Não beba muita água antes do teste. A urina fica diluída."
+  },
+  {
+   "title": "Bula",
+   "text": "Leia a bula: cada teste tem um tempo de espera diferente."
+  }
+ ],
+ "bring": [
+  "Um teste dentro da validade",
+  "Relógio ou timer",
+  "Um copinho limpo e seco, se precisar"
+ ],
+ "steps": [
+  "Lave as mãos e só abra o teste na hora de usar",
+  "Segure a ponta no jato de urina ou mergulhe no copinho, pelo tempo que a bula diz",
+  "Deixe o teste numa superfície plana, com a janelinha para cima",
+  "Espere o tempo da bula",
+  "Veja o resultado: a linha de controle tem que aparecer sempre"
+ ],
+ "feel": [
+  "Nada. O teste não dói",
+  "A espera pode deixar ansiosa. É normal"
+ ],
+ "after": [
+  "Duas linhas, mesmo fracas, normalmente indicam gravidez. Marque consulta com o ginecologista",
+  "Uma linha e a menstruação não vem: repita o teste em 2 a 3 dias",
+  "Se não aparecer a linha de controle, o teste está estragado. Use outro",
+  "Resultado que aparece depois do tempo da bula não vale"
+ ],
+ "red_flags": [
+  "Teste positivo e dor forte no pé da barriga, principalmente de um lado: ligue para a emergência",
+  "Teste positivo e sangramento, fraqueza ou desmaio: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A segunda linha está bem fraquinha. Estou grávida?",
+   "a": "Provavelmente sim, só que ainda é bem no começo. Repita o teste em 2 dias ou faça o exame de sangue beta-HCG."
+  },
+  {
+   "q": "O teste pode errar?",
+   "a": "O negativo pode, se for cedo. O positivo erra raramente. De qualquer forma, quem confirma é o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Amanhã de manhã é o teste de gravidez. Use a primeira urina da manhã e siga a bula."
+  }
+ ]
+}

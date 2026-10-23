@@ -1,0 +1,78 @@
+{
+ "title": "Consulta con el foniatra (problemas de la voz)",
+ "also": [
+  "foniatra",
+  "consulta de la voz",
+  "revisión de cuerdas vocales",
+  "ronquera",
+  "médico de la voz"
+ ],
+ "what": "Es un otorrino especialista en la voz. Escucha cómo hablas y revisa tus cuerdas vocales con un espejo o una cámara delgada.",
+ "why": "Si tienes ronquera por más de 2 o 3 semanas o la voz se te cansa rápido, y en maestros, cantantes y todas las personas que hablan mucho.",
+ "duration": "normalmente de 20 a 40 minutos; el médico te dice sus conclusiones en la consulta",
+ "tell_doctor": [
+  "Desde cuándo cambió tu voz y después de qué",
+  "Cuánto hablas o cantas en el día",
+  "Si fumas",
+  "Si tienes agruras o reflujo ácido",
+  "Si te operaron del cuello o de la tiroides"
+ ],
+ "prepare": [
+  {
+   "title": "Voz",
+   "text": "Antes de la consulta no grites ni fuerces la voz."
+  },
+  {
+   "title": "Comida",
+   "text": "Si te van a revisar con cámara, mejor no comas mucho 1 o 2 horas antes."
+  },
+  {
+   "title": "Grabaciones",
+   "text": "Si tu voz cambia durante el día, puedes grabarla en el celular y mostrársela al médico."
+  }
+ ],
+ "bring": [
+  "La orden médica, si tienes",
+  "Resultados de revisiones anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tu voz y tu trabajo",
+  "Te pide decir unas frases o alargar un sonido",
+  "Revisa la garganta y la laringe",
+  "A veces mete una cámara delgada por la boca o la nariz y te pide decir «iiii»",
+  "En la pantalla se ve cómo se cierran las cuerdas",
+  "El médico te explica lo que vio y te da recomendaciones"
+ ],
+ "feel": [
+  "La revisión de la laringe puede dar ganas de vomitar",
+  "Antes de la cámara a veces ponen un spray de anestesia y la garganta se duerme",
+  "Normalmente no duele"
+ ],
+ "after": [
+  "Si te pusieron spray de anestesia, no comas ni bebas por una hora",
+  "El médico puede indicarte reposo de voz o terapia de voz",
+  "A veces se necesita otra revisión en unas semanas"
+ ],
+ "red_flags": [
+  "Te empieza a costar respirar o tragar: llama a emergencias",
+  "Sangre en la flema",
+  "La ronquera dura más de 2 o 3 semanas"
+ ],
+ "faq": [
+  {
+   "q": "¿Tengo que quedarme callado si me quedé sin voz?",
+   "a": "Normalmente se recomienda hablar menos y no susurrar, porque susurrar también cansa las cuerdas. El médico te dirá qué hacer."
+  },
+  {
+   "q": "¿En qué se diferencia el foniatra de un otorrino común?",
+   "a": "El foniatra sabe más a fondo sobre la voz: cómo funcionan las cuerdas y cómo recuperarlas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta con el foniatra. Hoy cuida tu voz y no grites."
+  }
+ ]
+}

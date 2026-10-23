@@ -1,0 +1,73 @@
+{
+ "title": "Terapia de vacío para heridas",
+ "also": [
+  "terapia de vacío",
+  "terapia VAC",
+  "apósito de vacío",
+  "terapia de presión negativa"
+ ],
+ "what": "Sobre la herida se pone una esponja especial, se cubre con una película y se conecta una bomba pequeña. La bomba succiona con suavidad lo que sale de la herida y ayuda a que sane.",
+ "why": "En heridas grandes que tardan en sanar, después de operaciones, en el pie diabético y en las úlceras por presión.",
+ "duration": "el cambio de apósito suele durar de 20 a 40 minutos, cada 2 o 3 días; el tratamiento, de unos días a semanas",
+ "tell_doctor": [
+  "Medicamentos que adelgazan la sangre",
+  "Sangrado de la herida o problemas de coagulación",
+  "Dolor al cambiar los apósitos: pide la anestesia con anticipación",
+  "Alergia al esparadrapo o a la película"
+ ],
+ "prepare": [
+  {
+   "title": "Anestesia",
+   "text": "Si el cambio de apósito duele, se puede tomar antes un analgésico: pregunta al médico."
+  },
+  {
+   "title": "Bomba",
+   "text": "Si el tratamiento es en casa, aprende cómo revisar la bomba y qué hacer cuando suena la alarma."
+  }
+ ],
+ "bring": [
+  "El cargador de la bomba, si el tratamiento es en casa",
+  "La lista de tus medicamentos",
+  "Un documento de identidad"
+ ],
+ "steps": [
+  "Se quita con cuidado el apósito anterior",
+  "Se limpia y se revisa la herida",
+  "La esponja se recorta con la forma de la herida y se coloca",
+  "Todo se cubre con una película transparente",
+  "Se conecta el tubo y la bomba",
+  "Se comprueba que el apósito mantenga bien el vacío"
+ ],
+ "feel": [
+  "Al encender la bomba, una sensación de jalón en la herida",
+  "El cambio de apósito puede ser incómodo",
+  "La bomba a veces suena bajito o pita"
+ ],
+ "after": [
+  "La bomba debe funcionar todo el tiempo: no la apagues por tu cuenta por mucho rato",
+  "Vigila el recipiente: si se llenó, llama a la clínica",
+  "No mojes el apósito",
+  "Ven a los cambios de apósito según el calendario"
+ ],
+ "red_flags": [
+  "Sangre en el tubo o en el recipiente: apaga la bomba y llama de inmediato al médico o a emergencias",
+  "La bomba pita y no mantiene el vacío",
+  "Fiebre, dolor fuerte o mal olor en la herida"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo caminar con la bomba?",
+   "a": "Normalmente sí. La bomba es pequeña y se lleva con una correa o en una bolsa."
+  },
+  {
+   "q": "¿Cuánto tiempo dura el tratamiento?",
+   "a": "Depende de la herida. El médico evalúa cómo sana en cada cambio de apósito."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana cambian el apósito de vacío. Carga la bomba y pregunta al médico por la anestesia con anticipación."
+  }
+ ]
+}

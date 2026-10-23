@@ -1,0 +1,75 @@
+{
+ "title": "Bolada EKG",
+ "also": [
+  "bolaga EKG",
+  "bolaga kardiogramma",
+  "bolalar EKG",
+  "bog‘cha yoki sport uchun EKG"
+ ],
+ "what": "Hamshira elektrod-yopishqoqlar orqali bolaning yurak faoliyatini yozadi. Bu tez, xavfsiz va og‘riqsiz.",
+ "why": "Rejali ko‘rikda, sport, bog‘cha yoki maktabdan oldin, yurakda shovqin, hushdan ketish, yurak urishi haqidagi shikoyatlarda.",
+ "duration": "odatda 5–10 daqiqa, xulosa ko‘pincha o‘sha kuni",
+ "tell_doctor": [
+  "Agar shikoyat bo‘lsa, bolani nima bezovta qilayotganini",
+  "Qanday dorilar ichishini",
+  "Hushdan ketishlar bo‘lganmi",
+  "Oilada yurak muammolari bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kerak emas. Ovqatlansa va ichsa bo‘ladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay, ko‘krak, tirsakdan pastki qo‘llar va tizzadan pastki oyoqlarni oson ochish uchun."
+  },
+  {
+   "title": "Teri",
+   "text": "EKG kuni ko‘krakka krem surtmang."
+  },
+  {
+   "title": "Kayfiyat",
+   "text": "Bolaga ayting: sovuq yopishqoqlar bo‘ladi, lekin og‘rimaydi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Avvalgi EKGlar, agar bo‘lsa",
+  "Chaqaloq uchun pelyonka",
+  "Chalg‘itish uchun o‘yinchoq"
+ ],
+ "steps": [
+  "Bola kushetkaga yotadi, siz yonida",
+  "Qo‘l, oyoq va ko‘krakka so‘rg‘ich-elektrodlar yoki yopishqoqlar qo‘yiladi",
+  "Tinch yotib, gapirmaslikni so‘rashadi",
+  "Yozuv 1–2 daqiqa davom etadi",
+  "Elektrodlar olinadi"
+ ],
+ "feel": [
+  "Sovuq yopishqoqlar — og‘rimaydi",
+  "Kichkintoylar ba’zan yig‘laydi, tinchlangach yozuv takrorlanadi"
+ ],
+ "after": [
+  "Darhol odatdagi ishlarga qaytish mumkin",
+  "Shifokor xulosasi odatda o‘sha kuni",
+  "Natijani pediatr bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bolaning EKGsi nega kattalarnikiga o‘xshamaydi?",
+   "a": "Bolalarda me’yor boshqacha: puls tezroq va kattalarda g‘ayrioddiy bo‘lgan ko‘p narsa bola uchun normal."
+  },
+  {
+   "q": "Bola yig‘lasa — yozuv buziladimi?",
+   "a": "Buzilishi mumkin. Unda bola tinchlanguncha kutib, qayta yozishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolaga EKG. Tayyorgarlik kerak emas. Qulay kiyintiring va ko‘krakka krem surtmang."
+  }
+ ]
+}

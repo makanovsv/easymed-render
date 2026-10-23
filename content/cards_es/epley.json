@@ -1,0 +1,80 @@
+{
+ "title": "Maniobra de Epley para el vértigo posicional",
+ "also": [
+  "maniobra de Epley",
+  "vértigo posicional",
+  "VPPB",
+  "maniobra de reposición",
+  "mareo al voltear la cabeza"
+ ],
+ "what": "El médico te mueve la cabeza y el cuerpo en un orden específico. Así unas partículas diminutas del oído interno regresan a su lugar y se quita el mareo.",
+ "why": "Cuando te da vueltas la cabeza unos segundos al voltearte en la cama, al agacharte o al mirar hacia arriba.",
+ "duration": "normalmente de 10 a 15 minutos; muchas veces mejora en ese momento o en unos días",
+ "tell_doctor": [
+  "Cómo y cuándo empieza el mareo",
+  "Si tuviste golpes en la cabeza",
+  "Si te duele el cuello o la espalda, o te operaron del cuello",
+  "Si tienes enfermedades del corazón, de las venas o presión alta",
+  "Si tienes debilidad en un brazo o pierna, visión doble o problemas para hablar"
+ ],
+ "prepare": [
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda, sin cuello apretado. Te van a mover y acostar la cabeza."
+  },
+  {
+   "title": "Comida",
+   "text": "Mejor no llegues con el estómago lleno. Durante la maniobra puedes sentir náuseas."
+  },
+  {
+   "title": "Transporte",
+   "text": "Ve con un acompañante. Justo después es mejor no manejar."
+  }
+ ],
+ "bring": [
+  "La orden médica, si tienes",
+  "Tu identificación",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico revisa qué oído causa el mareo",
+  "Te sientas en la camilla y te voltean la cabeza hacia un lado",
+  "Te acuestan rápido boca arriba, con la cabeza un poco fuera del borde",
+  "Te voltean la cabeza despacio hacia el otro lado",
+  "Luego te volteas de lado, mirando hacia abajo",
+  "Cada posición dura como un minuto, hasta que se calme el mareo",
+  "Te sientan con cuidado"
+ ],
+ "feel": [
+  "Durante la maniobra te puedes marear mucho. Es lo esperado",
+  "A veces dan náuseas",
+  "Después puedes sentirte un poco inestable durante el día"
+ ],
+ "after": [
+  "Quédate sentado unos minutos antes de pararte",
+  "El primer día muévete con calma, sin agacharte de golpe",
+  "El médico puede enseñarte ejercicios para casa",
+  "A veces la maniobra se repite en la siguiente consulta"
+ ],
+ "red_flags": [
+  "Dolor de cabeza fuerte, debilidad en un brazo o pierna o problemas para hablar: llama a emergencias",
+  "El mareo dura horas y no depende de la posición de la cabeza",
+  "Vómito fuerte o no te puedes mantener de pie"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo hacerme la maniobra de Epley yo solo en casa?",
+   "a": "A veces el médico enseña a hacerla en casa. Pero primero hay que revisarte para saber qué oído es y cuál es la causa."
+  },
+  {
+   "q": "¿El mareo va a regresar?",
+   "a": "A veces regresa en meses o años. Entonces se puede repetir la maniobra."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu maniobra de Epley. Ve con un acompañante. Después es mejor no manejar."
+  }
+ ]
+}

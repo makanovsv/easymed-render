@@ -1,0 +1,65 @@
+{
+ "title": "Impresión digital de los dientes con escáner",
+ "also": [
+  "impresión digital",
+  "escaneo dental 3D",
+  "escáner intraoral",
+  "molde digital de dientes"
+ ],
+ "what": "El médico pasa un escáner pequeño dentro de tu boca y en la pantalla aparece un modelo 3D de tus dientes. No se usa pasta para moldes.",
+ "why": "Para coronas, carillas, incrustaciones, implantes, alineadores y brackets, o guardas para la noche.",
+ "duration": "normalmente de 5 a 20 minutos; el modelo se ve en ese momento",
+ "tell_doctor": [
+  "Si te dan muchas náuseas con facilidad",
+  "Si te duele la mandíbula o te cuesta tener la boca abierta mucho tiempo",
+  "Si usas dentadura removible o brackets"
+ ],
+ "prepare": [
+  {
+   "title": "Higiene",
+   "text": "Lávate los dientes antes de la cita."
+  },
+  {
+   "title": "Comida",
+   "text": "Puedes comer antes. No se necesita preparación especial."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "La orden de tu médico, si tienes"
+ ],
+ "steps": [
+  "Te sientas en el sillón",
+  "Te secan los dientes con aire",
+  "El médico pasa el escáner por los dientes de arriba y de abajo",
+  "Te pide cerrar la boca para registrar la mordida",
+  "Revisan el modelo en la pantalla y, si hace falta, vuelven a escanear algunas zonas"
+ ],
+ "feel": [
+  "No duele",
+  "Puedes sentir un poco de calor del escáner",
+  "Hay que tener la boca abierta unos minutos"
+ ],
+ "after": [
+  "Puedes comer y beber de inmediato",
+  "El modelo se manda al laboratorio o se usa para planear el tratamiento",
+  "El médico te dirá cuánto tarda el trabajo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Es más exacto que un molde normal?",
+   "a": "Normalmente no es peor, y para muchos trabajos es más exacto. Lo decide el médico."
+  },
+  {
+   "q": "¿Tiene radiación?",
+   "a": "No. El escáner funciona con luz, como una cámara."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu impresión digital de dientes. Lávate los dientes antes de la cita."
+  }
+ ]
+}

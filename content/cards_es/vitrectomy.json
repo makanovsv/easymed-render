@@ -1,0 +1,87 @@
+{
+ "title": "Vitrectomía (por desprendimiento de retina o sangrado)",
+ "also": [
+  "vitrectomía",
+  "cirugía del vítreo",
+  "cirugía de desprendimiento de retina",
+  "operación de retina"
+ ],
+ "what": "Por unas punciones delgadas, el cirujano quita el vítreo, el gel transparente que hay dentro del ojo. Repara la retina y llena el ojo con líquido, gas o aceite.",
+ "why": "Si hay desprendimiento de retina, sangrado dentro del ojo, un agujero en el centro de la retina y otras enfermedades.",
+ "duration": "la cirugía suele durar de 1 a 2 horas; a veces te quedas en el hospital 1 o 2 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuál dejar y cuándo",
+  "Tus alergias",
+  "Si tienes diabetes, enfermedades del corazón o presión alta",
+  "Si vas a viajar en avión o subir a la montaña",
+  "Si tuviste problemas con la anestesia"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Análisis, electrocardiograma y revisión del médico general. La clínica te dará la lista."
+  },
+  {
+   "title": "Comida",
+   "text": "Si te van a dormir con anestesia general, normalmente no comes desde la noche anterior. La clínica te dirá la hora exacta."
+  },
+  {
+   "title": "Posición de la cabeza",
+   "text": "Puede que después de la cirugía debas mantener la cabeza en una posición especial. Ten almohadas listas en casa."
+  },
+  {
+   "title": "Transporte",
+   "text": "Regresa a casa solo con un acompañante."
+  }
+ ],
+ "bring": [
+  "Tus documentos y la orden médica",
+  "Los resultados de tus análisis",
+  "La lista de tus medicamentos",
+  "Ropa cómoda",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena",
+  "Te ponen anestesia junto al ojo o anestesia general",
+  "El cirujano hace varias punciones delgadas",
+  "Quita el vítreo y repara la retina",
+  "A veces aplica láser",
+  "Llenan el ojo con líquido, gas o aceite de silicón",
+  "Te ponen un parche"
+ ],
+ "feel": [
+  "Durante la cirugía no duele",
+  "Después sientes pesadez y arena en el ojo",
+  "Al principio ves muy borroso, sobre todo si hay gas en el ojo"
+ ],
+ "after": [
+  "Posición de la cabeza exactamente como te dijo el médico",
+  "Gotas según las indicaciones",
+  "Mientras haya gas en el ojo no puedes viajar en avión ni subir a la montaña",
+  "No cargues cosas pesadas ni te agaches de golpe",
+  "Si te dejaron aceite, se quita después con otra cirugía"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el ojo, náuseas o vómito: ve al médico de inmediato",
+  "La vista baja de repente",
+  "Pus en el ojo o párpados muy hinchados",
+  "Dolor de cabeza fuerte con dolor en el ojo: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué tengo que estar boca abajo?",
+   "a": "La burbuja de gas sube y empuja la retina. Eso le ayuda a pegarse."
+  },
+  {
+   "q": "¿Cuándo voy a volver a ver?",
+   "a": "Poco a poco, en semanas y meses. Depende mucho de cómo esté la retina."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía del ojo. Lleva tus documentos, la lista de tus medicamentos y un acompañante. Come y bebe solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

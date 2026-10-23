@@ -1,0 +1,75 @@
+{
+ "title": "Vodorodli nafas testi (SIBR, laktoza)",
+ "also": [
+  "vodorod testi",
+  "SIBR ga nafas testi",
+  "laktaza yetishmovchiligi testi",
+  "laktoza chidamsizligi testi"
+ ],
+ "what": "Shirin eritma ichasiz va har 15–30 daqiqada asbobga puflaysiz. Nafasdagi gazlar ichak shakarlarni qanday hazm qilishini ko‘rsatadi.",
+ "why": "Ovqatdan keyin qorin dam bo‘lishi, og‘riq, ich ketishida. Ichakda bakteriyalar ko‘pligini yoki sut shakariga chidamsizlikni tekshirish uchun.",
+ "duration": "odatda 2–3 soat, natija darrov yoki bir necha kunda",
+ "tell_doctor": [
+  "So‘nggi oyda antibiotik ichgan bo‘lsangiz",
+  "Yaqinda kolonoskopiya qilingan bo‘lsa",
+  "Qanday dorilar ichasiz, ayniqsa surgi va jig‘ildon qaynashiga",
+  "Diabetingiz bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Bir kun oldingi parhez",
+   "text": "Odatda bir kun oldin dukkaklilar, sut mahsulotlari, shirinlik, mevalar va un mahsulotlarisiz. Ruxsat etilganlari ko‘pincha: guruch, go‘sht, baliq, tuxum. Ro‘yxatni klinika beradi."
+  },
+  {
+   "title": "Och qolish",
+   "text": "Odatda 10–12 soat ovqatsiz. Suv ichish mumkin."
+  },
+  {
+   "title": "Ertalab",
+   "text": "Chekmang, saqich chaynamang, kofe ichmang. Tishingizni yuving."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Ba’zi dorilarni testgacha ichmaslikni ba’zan so‘rashadi. O‘zingiz bekor qilmang — shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Kitob yoki telefon — kutish uzoq",
+  "Suv, agar ruxsat bersa"
+ ],
+ "steps": [
+  "Avval asbobga nafas chiqarasiz — bu boshlang‘ich daraja",
+  "Shakar eritmasini ichasiz",
+  "Har 15–30 daqiqada yana asbobga puflaysiz",
+  "Butun vaqt klinikada xotirjam o‘tirasiz",
+  "Test tugaganini sizga aytishadi"
+ ],
+ "feel": [
+  "Og‘riq yo‘q",
+  "Test paytida qorin dam bo‘lishi, qurillashi yoki suyuq axlat paydo bo‘lishi mumkin — bu javobning bir qismi",
+  "Kutish charchatishi mumkin"
+ ],
+ "after": [
+  "Testdan keyin ovqatlanish mumkin",
+  "Dam bo‘lish odatda kun davomida o‘tadi",
+  "Natijani shifokor tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Test paytida suv ichsa bo‘ladimi?",
+   "a": "Ko‘pincha ozgina oddiy suv mumkin. Klinikadan aniqlang."
+  },
+  {
+   "q": "Nega chekib bo‘lmaydi?",
+   "a": "Chekish nafas tarkibini o‘zgartiradi va natija noto‘g‘ri chiqadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga vodorod testi. Bugun faqat ruxsat etilganini yeng, kechki ovqat kech bo‘lmasin. Ertalab chekmang va ovqatlanmang."
+  }
+ ]
+}

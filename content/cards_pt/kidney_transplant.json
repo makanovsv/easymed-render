@@ -1,0 +1,89 @@
+{
+ "title": "Transplante de rim",
+ "also": [
+  "transplante renal",
+  "transplante de rim",
+  "rim novo",
+  "transplante de doador"
+ ],
+ "what": "O cirurgião transplanta um rim saudável de um doador. O rim novo passa a limpar o sangue no lugar dos rins doentes.",
+ "why": "Quando os próprios rins quase não funcionam e a pessoa precisa ou logo vai precisar de diálise.",
+ "duration": "a cirurgia leva normalmente de 3 a 5 horas; a internação costuma ser de 1 a 3 semanas",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias a remédios, látex ou iodo",
+  "Doenças do coração, do pulmão ou diabetes",
+  "Se você ou alguém da família teve problema com anestesia",
+  "Qualquer infecção, resfriado ou febre na véspera: a cirurgia pode ser adiada"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Antes do transplante, faz-se uma avaliação grande. O centro de transplante passa a lista e os prazos."
+  },
+  {
+   "title": "Contato",
+   "text": "Se você espera um rim de doador falecido, mantenha o celular sempre ligado. Podem chamar a qualquer hora."
+  },
+  {
+   "title": "Diálise",
+   "text": "Se você faz diálise, vão dizer se precisa de uma sessão antes da cirurgia."
+  },
+  {
+   "title": "Comida",
+   "text": "Depois da chamada, normalmente se para de comer e beber na hora. O centro vai dizer com precisão."
+  }
+ ],
+ "bring": [
+  "Documentos",
+  "Lista de todos os remédios",
+  "Relatórios e resultados de exames",
+  "Coisas para algumas semanas no hospital"
+ ],
+ "steps": [
+  "No hospital, colhem exames e conferem a compatibilidade",
+  "Você troca de roupa e recebe os acessos",
+  "Na sala de cirurgia, aplicam a anestesia e você dorme",
+  "O cirurgião liga o rim novo, na parte de baixo da barriga, aos vasos e à bexiga",
+  "Os seus rins normalmente não são retirados",
+  "Nos primeiros dias você fica em observação na UTI ou num quarto especial"
+ ],
+ "feel": [
+  "Depois da anestesia: fraqueza e sonolência",
+  "Dor no local do corte; dão analgésico",
+  "Nos primeiros dias há tubos e sonda na bexiga",
+  "O rim novo pode demorar a funcionar; às vezes é preciso diálise por um tempo"
+ ],
+ "after": [
+  "Os remédios contra rejeição são tomados todo dia, pela vida toda, exatamente no horário",
+  "Exames e consultas frequentes, principalmente nos primeiros meses",
+  "Cuidado com infecções: lave as mãos e evite pessoas doentes",
+  "Não carregue peso por algumas semanas. O cirurgião vai dizer o prazo"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus: ligue na hora para o centro de transplante",
+  "A urina diminuiu bastante, apareceu inchaço ou o peso subiu de repente",
+  "Dor ou inchaço na região do rim novo",
+  "Falta de ar forte ou dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso pular os remédios contra rejeição?",
+   "a": "Não. Falhas podem levar à rejeição do rim. Se esquecer, avise o médico na hora."
+  },
+  {
+   "q": "Quanto tempo dura o rim transplantado?",
+   "a": "Varia, normalmente muitos anos. Depende muito de tomar os remédios certinho e fazer o acompanhamento."
+  },
+  {
+   "q": "Dá para viver com o rim de um parente?",
+   "a": "Sim. O doador também é avaliado com cuidado, para que a cirurgia seja segura para ele."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mantenha o celular ligado. Deixe as coisas, os documentos e a lista de remédios prontos com antecedência."
+  }
+ ]
+}

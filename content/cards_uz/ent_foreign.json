@@ -1,0 +1,75 @@
+{
+ "title": "Bolaning quloq va burnidan begona jismni olib tashlash",
+ "also": [
+  "quloqda begona jism",
+  "bola burniga tiqib oldi",
+  "quloqqa tiqilib qoldi",
+  "burunda munchoq"
+ ],
+ "what": "LOR-shifokor bolaning qulog‘i yoki burnidan buyumni maxsus asbob bilan ehtiyotkorlik bilan chiqarib oladi.",
+ "why": "Bola burni yoki qulog‘iga munchoq, o‘yinchoq, ovqat tiqib olganda yoki hasharot kirib qolganda.",
+ "duration": "odatda 5–20 daqiqa",
+ "tell_doctor": [
+  "Nima kirib qolgani va qachon",
+  "Uyda chiqarishga urinishlar bo‘lganmi",
+  "Qon, ajralma yoki og‘riq bormi",
+  "Bolada allergiyalar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "O‘zingiz olmang",
+   "text": "Uni pinset yoki paxtali cho‘p bilan olishga urinmang — chuqurroq itarib yuborishingiz mumkin."
+  },
+  {
+   "title": "Batareyka",
+   "text": "Bu batareyka yoki magnit bo‘lsa — darhol shifokorga boring."
+  },
+  {
+   "title": "Bola",
+   "text": "Bolani tinchlantiring. Shifokor tez yordam berishini ayting."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Sevimli o‘yinchoq",
+  "Salfetkalar"
+ ],
+ "steps": [
+  "Shifokor burun yoki quloqni fonarcha bilan ko‘radi",
+  "Bola qimirlamasligi uchun ota-onaning qo‘lida ushlanadi",
+  "Ba’zan burunga tomchi tomiziladi",
+  "Shifokor buyumni qisqich, ilgak yoki yuvish bilan chiqaradi",
+  "Bo‘laklari qolmaganini ko‘radi"
+ ],
+ "feel": [
+  "Bolaga qo‘rqinchli va noxush, yig‘lashi mumkin",
+  "Odatda tez — tinchlantiring va maqtang"
+ ],
+ "after": [
+  "Ba’zan burundan ozgina qon keladi — bu o‘tib ketadi",
+  "Shifokor tomchi tayinlashi mumkin",
+  "Mayda buyumlarni bolalardan uzoqroq joyga olib qo‘ying"
+ ],
+ "red_flags": [
+  "Burun yoki quloqda batareyka — zudlik bilan shifokorga, 103 ga qo‘ng‘iroq qiling",
+  "Bola yo‘talyapti, bo‘g‘ilyapti, xirillayapti — 103 ga qo‘ng‘iroq qiling",
+  "Keyin kuchli og‘riq, qon yoki yiring",
+  "Burunning bir tomonidan yoqimsiz hid — shifokorga ko‘rining"
+ ],
+ "faq": [
+  {
+   "q": "O‘zimiz olsak bo‘ladimi?",
+   "a": "Faqat buyum ko‘rinib tursa va oson chiqsa. Aks holda — shifokorga, uni chuqurroq itarib yuborish mumkin."
+  },
+  {
+   "q": "Batareyka nega xavfli?",
+   "a": "U to‘qimalarni tez kuydiradi. Zudlik bilan yordam kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Buyumni o‘zingiz olishga urinmang. LOR-shifokorga boramiz."
+  }
+ ]
+}

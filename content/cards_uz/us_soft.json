@@ -1,0 +1,71 @@
+{
+ "title": "Yumshoq to‘qimalar UZI",
+ "also": [
+  "limfa tugunlari UZI",
+  "teri ostidagi bo‘rtma UZI",
+  "teri osti hosilasi UZI",
+  "yumshoq to‘qimalar ultratovushi"
+ ],
+ "what": "Shifokor ultratovush yordamida teri ostidagi narsalarni ko‘radi: yog‘ to‘qimasi, mushaklar, limfa tugunlari, qotishlar. Bu xavfsiz va nurlanishsiz.",
+ "why": "Bo‘rtma yoki qotish sezilganda, limfa tugunlari kattalashganda, shish bo‘lganda, jarohatdan keyin og‘riq yoki shish bo‘lganda.",
+ "duration": "odatda 10–20 daqiqa, xulosa odatda darrov beriladi",
+ "tell_doctor": [
+  "Bo‘rtma yoki shish aynan qayerda va qachondan beri paydo bo‘lgan",
+  "Hajmi o‘zgarganmi, og‘riydimi",
+  "Shu joyda jarohat yoki operatsiya bo‘lganmi",
+  "Ilgari UZI qilingan bo‘lsa — xulosani olib keling"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Odatdagidek yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Teri",
+   "text": "Tekshiruv kuni joyga krem surtmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Kerakli joy ustidan oson yechiladigan yoki ko‘tariladigan qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi UZI va xulosalar, bo‘lsa",
+  "Xohlasangiz, sochiq yoki salfetka"
+ ],
+ "steps": [
+  "Shifokorga bezovta qilayotgan joyni ko‘rsatasiz",
+  "Joyni qulay ko‘rish uchun yotish yoki o‘tirish so‘raladi",
+  "Teriga gel surtiladi",
+  "Datchik kerakli joy va uning atrofida yurgiziladi",
+  "Ba’zan boshqa tomondagi xuddi shu soha bilan solishtiriladi",
+  "Gel salfetka bilan artiladi"
+ ],
+ "feel": [
+  "Salqin gel va datchikning yengil bosimi",
+  "Joyi og‘riyotgan bo‘lsa, bosganda noqulay bo‘lishi mumkin — shifokorga ayting"
+ ],
+ "after": [
+  "Darrov odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "Xulosa odatda darrov beriladi",
+  "Aniqlashtirish kerak bo‘lsa, shifokor punksiya yoki boshqa tekshiruv taklif qilishi mumkin"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Teri ostidagi bo‘rtma xavflimi?",
+   "a": "Ko‘pincha bular zararsiz hosilalar, masalan yog‘ bo‘rtmasi yoki limfa tuguni. UZI shifokorga bu nima ekanini tushunishga yordam beradi."
+  },
+  {
+   "q": "Tayyorlanish kerakmi?",
+   "a": "Odatda yo‘q. Shunchaki qulay kiyimda keling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga yumshoq to‘qimalar UZIsi. Tayyorgarlik kerak emas, joyga krem surtmang."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "title": "Detección de cáncer por edad: qué y cuándo",
+ "also": [
+  "detección de cáncer",
+  "chequeo oncológico",
+  "prueba de detección de cáncer",
+  "prevención del cáncer"
+ ],
+ "what": "Son revisiones que ayudan a encontrar el cáncer en etapa temprana, cuando todavía no molesta nada. El conjunto depende de la edad y del sexo.",
+ "why": "Para todos los adultos según la edad; antes y con más frecuencia si hubo cáncer en familiares cercanos o hay otros factores de riesgo.",
+ "duration": "la consulta suele durar de 15 a 30 minutos; las revisiones se hacen en días distintos y los resultados llegan de 1 día a 2 semanas",
+ "tell_doctor": [
+  "Si hubo cáncer en tus padres, hermanos o hermanas y a qué edad",
+  "Si fumas o fumaste antes",
+  "Qué revisiones ya te hicieron y cuándo",
+  "Si tienes molestias: sangre, pérdida de peso, bultos, tos que no se quita"
+ ],
+ "prepare": [
+  {
+   "title": "Qué se suele revisar",
+   "text": "El cuello del útero y el pecho en las mujeres, el intestino en todos desde cierta edad, los pulmones en los fumadores. El médico te dirá la lista exacta para tu edad."
+  },
+  {
+   "title": "Preparación",
+   "text": "Cada revisión tiene su preparación. Pregunta en la clínica por cada una."
+  },
+  {
+   "title": "Documentos",
+   "text": "Reúne los resultados de revisiones anteriores: así se evita repetir de más."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Resultados de mamografías, citologías y colonoscopías anteriores",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta por tu salud y tus familiares",
+  "Define qué revisiones necesitas según tu edad",
+  "Te da las órdenes",
+  "Te haces las revisiones en los días indicados",
+  "El médico ve los resultados y te dice cuándo repetirlas"
+ ],
+ "feel": [
+  "La consulta no duele",
+  "Algunas revisiones son incómodas, pero cortas"
+ ],
+ "after": [
+  "Si todo está bien, la siguiente revisión se programa según la edad",
+  "Si encuentran algo, te mandarán a aclararlo; eso todavía no es un diagnóstico",
+  "Anota las fechas de las revisiones para no olvidarlas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Para qué revisarme si no me duele nada?",
+   "a": "El cáncer en etapa temprana muchas veces no duele. Justo entonces es más fácil de curar."
+  },
+  {
+   "q": "Si mi mamá tuvo cáncer, ¿debo revisarme antes?",
+   "a": "Muchas veces sí. Díselo al médico: hará un plan para ti."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes consulta de detección de cáncer. Lleva los resultados de revisiones anteriores."
+  }
+ ]
+}

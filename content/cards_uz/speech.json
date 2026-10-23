@@ -1,0 +1,66 @@
+{
+ "title": "Logoped bilan mashg‘ulotlar",
+ "also": [
+  "logoped",
+  "logoped bilan mashg‘ulot",
+  "tovushlarni qo‘yish",
+  "nutqni rivojlantirish"
+ ],
+ "what": "Mutaxassis tovushlarni to‘g‘ri talaffuz qilishga o‘rgatadi, nutq va tushunishni rivojlantiradi. Bolalar va kattalar bilan ishlaydi.",
+ "why": "Bola tovushlarni yomon talaffuz qilganda, gapirishni kech boshlaganda yoki kam gapirganda. Kattalarda: insultdan, jarohatlardan keyin va duduqlanishda.",
+ "duration": "mashg‘ulot odatda 30–45 daqiqa; kurs odatda bir necha oy",
+ "tell_doctor": [
+  "Bola necha yoshdan gapira boshlagani va nima bezovta qilayotgani",
+  "Bola qanday eshitadi, eshitish tekshirilganmi",
+  "Nevrolog yoki LOR shifokor xulosalari bormi",
+  "Kattalar uchun: nutq qachon va nimadan keyin o‘zgargan"
+ ],
+ "prepare": [
+  {
+   "title": "Ota-ona uchun",
+   "text": "Bolaning nutqida nima bezovta qilayotganini yozib qo‘ying. Uyda u qanday gapirishini qisqa videoga olsa bo‘ladi."
+  },
+  {
+   "title": "Bola",
+   "text": "Bola uxlab, to‘q bo‘lganda keling."
+  }
+ ],
+ "bring": [
+  "Shifokor xulosalari, agar bo‘lsa",
+  "Uy vazifalari uchun daftar",
+  "Bolaning sevimli o‘yinchog‘i"
+ ],
+ "steps": [
+  "Logoped tanishadi va rivojlanish haqida so‘raydi",
+  "Lablar va til qanday harakat qilishini ko‘radi",
+  "O‘yinlar, rasmlar va topshiriqlar taklif qiladi",
+  "Qaysi tovushlar va ko‘nikmalarni rivojlantirish kerakligini belgilaydi",
+  "Uyda shug‘ullanish uchun topshiriqlar beradi"
+ ],
+ "feel": [
+  "Yoqimsiz narsa yo‘q: mashg‘ulot o‘yinga o‘xshaydi",
+  "Bola birinchi mashg‘ulotda uyalishi mumkin: bu tabiiy"
+ ],
+ "after": [
+  "Uy vazifalarini har kuni ozdan bajaring",
+  "Harakati uchun maqtang, bolani qo‘pol tuzatmang",
+  "Natija muntazamlikka bog‘liq"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Logopedga necha yoshdan borish kerak?",
+   "a": "2 yoshda bola deyarli gapirmasa, ko‘rinish kerak. Tovushlar odatda 4–5 yoshdan qo‘yiladi."
+  },
+  {
+   "q": "O‘zi o‘tib ketadimi?",
+   "a": "Ba’zan ha, lekin mutaxassisdan so‘ragan yaxshi: erta boshlash tezroq yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga logoped bilan mashg‘ulot. Topshiriqlar daftarini va shifokor xulosalarini oling."
+  }
+ ]
+}

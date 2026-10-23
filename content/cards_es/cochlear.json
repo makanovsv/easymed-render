@@ -1,0 +1,85 @@
+{
+ "title": "Implante coclear",
+ "also": [
+  "implante coclear",
+  "cirugía de implante de oído",
+  "operación para la sordera",
+  "implante auditivo"
+ ],
+ "what": "El cirujano pone un aparato debajo de la piel detrás de la oreja y un electrodo delgado dentro del oído interno. Por fuera se usa un procesador que transmite los sonidos.",
+ "why": "Si hay una pérdida de audición grave y los aparatos auditivos no ayudan.",
+ "duration": "la cirugía suele durar de 2 a 3 horas; normalmente te quedas en el hospital unos días; se enciende en unas semanas",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuál dejar y cuándo",
+  "Tus alergias",
+  "Enfermedades crónicas",
+  "Si tuviste problemas con la anestesia",
+  "En niños, todas las vacunas, sobre todo la del neumococo. El médico te dirá"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Prueba de audición, tomografía o resonancia y análisis. La clínica te dará la lista."
+  },
+  {
+   "title": "Vacunas",
+   "text": "Antes de la cirugía normalmente se necesitan las vacunas que indique el médico."
+  },
+  {
+   "title": "Comida",
+   "text": "La clínica te dirá desde qué hora no comer antes de la anestesia."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa que no se ponga por la cabeza."
+  }
+ ],
+ "bring": [
+  "Tus documentos y la orden médica",
+  "Los resultados de tus estudios",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena",
+  "El anestesiólogo te pone anestesia general",
+  "El cirujano hace un corte detrás de la oreja",
+  "Coloca el implante y mete el electrodo en el oído interno",
+  "Revisa que el implante funcione",
+  "Cierran la herida y ponen un vendaje"
+ ],
+ "feel": [
+  "Después de la anestesia, sueño y a veces náuseas",
+  "Dolor detrás de la oreja; te dan analgésico",
+  "Los primeros días puede haber mareo o zumbido en el oído"
+ ],
+ "after": [
+  "Los puntos se quitan o se absorben solos. El cirujano te dirá",
+  "El procesador se enciende y se ajusta en unas semanas",
+  "Los ajustes se repiten varias veces",
+  "La terapia auditiva y de lenguaje es muy importante para el resultado",
+  "Antes de una resonancia, siempre di que tienes un implante"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38, pus o hinchazón detrás de la oreja",
+  "Dolor de cabeza fuerte, vómito o cuello rígido: llama a emergencias",
+  "Mareo fuerte",
+  "Debilidad de los músculos de la cara"
+ ],
+ "faq": [
+  {
+   "q": "¿Va a oír de inmediato?",
+   "a": "Los sonidos aparecen cuando se enciende el procesador. Entender el habla se aprende poco a poco."
+  },
+  {
+   "q": "¿Se puede bañar con el implante?",
+   "a": "La parte interna no le teme al agua. El procesador se quita o se usa una protección."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la cirugía de implante coclear. Lleva tus documentos y tus cosas. Come y bebe solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

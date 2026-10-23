@@ -1,0 +1,71 @@
+{
+ "title": "O‘smirda bosimning sutkalik monitoringi",
+ "also": [
+  "o‘smirga SMAD",
+  "o‘smirda sutkalik bosim",
+  "bolaga bosim monitoringi",
+  "bolalarda SMAD"
+ ],
+ "what": "O‘smir sutka davomida yelkasiga manjetka taqadi. Belidagi kichik asbob bosimni kunduz va tunda o‘zi o‘lchaydi.",
+ "why": "Qabulda bosim yuqori chiqqanda, bosh og‘rig‘i, burundan qon ketishida, sportdan oldin, davolash nazorati uchun.",
+ "duration": "odatda 24 soat taqish; xulosa odatda 1–2 kunda",
+ "tell_doctor": [
+  "O‘smir qanday dorilar ichadi",
+  "Kun tartibi qanday: maktab, sport, mashg‘ulotlar",
+  "Nima bezovta qiladi: bosh og‘rig‘i, burundan qon ketishi, bosh aylanishi",
+  "Oldin bosim o‘lchangan bo‘lsa — qanday raqamlar bo‘lgan"
+ ],
+ "prepare": [
+  {
+   "title": "Tartib",
+   "text": "Oddiy kun: maktab, sayr. Shu kunga og‘ir mashg‘ulotlarni bekor qilgan yaxshi — shifokordan aniqlang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng, erkin yengli futbolka, ustidan erkin kofta."
+  },
+  {
+   "title": "Dush",
+   "text": "Asbob bilan yuvinib bo‘lmaydi. Dush — o‘rnatishdan oldin."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Klinikada beriladigan kundalik va qalam",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Manjetka yelkaga, odatda ishlamaydigan qo‘lga taqiladi",
+  "Asbob belga osiladi",
+  "Kundalikni qanday yuritish tushuntiriladi",
+  "Kunduz asbob bosimni odatda har 15–30 daqiqada, tunda kamroq o‘lchaydi",
+  "O‘lchash paytida qo‘l qimirlamasdan pastga tushirilgan bo‘lishi kerak",
+  "Sutkadan keyin asbob klinikada olinadi"
+ ],
+ "feel": [
+  "Har o‘lchashda manjetka qo‘lni siqadi",
+  "Tunda o‘lchashlar uyg‘otishi mumkin — bu odatiy"
+ ],
+ "after": [
+  "Olingandan keyin — odatiy hayot",
+  "Xulosa odatda 1–2 kunda",
+  "Natijani pediatr yoki kardiolog bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Asbob bilan maktabga borsa bo‘ladimi?",
+   "a": "Ha. Odatiy faollik bosim qanday o‘zgarishini tushunishga faqat yordam beradi."
+  },
+  {
+   "q": "Kundalikka nima yozish kerak?",
+   "a": "Qachon uxlagan, yegan, mashq qilgan, dori ichgan va biror narsa bezovta qilgan bo‘lsa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bosimning sutkalik monitori o‘rnatiladi. Ertalab dush qabul qiling. Erkin yengli futbolka kiying."
+  }
+ ]
+}

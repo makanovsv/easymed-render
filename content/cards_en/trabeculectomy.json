@@ -1,0 +1,85 @@
+{
+ "title": "Glaucoma surgery",
+ "also": [
+  "trabeculectomy",
+  "glaucoma surgery",
+  "surgery to lower eye pressure",
+  "glaucoma filtering surgery"
+ ],
+ "what": "The surgeon makes a new path for fluid to drain from the eye. This lowers the pressure inside the eye.",
+ "why": "For glaucoma, when drops and laser do not lower the pressure enough.",
+ "duration": "surgery usually takes 45 to 90 minutes; you usually go home the same day or after 1 to 2 days",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners. The doctor will tell you what to stop and when",
+  "Which glaucoma drops you use",
+  "Allergies",
+  "Diabetes, heart disease, and blood pressure",
+  "If you had surgery on this eye before"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Blood tests, an ECG, and sometimes a checkup with a general doctor. The clinic will give you a list."
+  },
+  {
+   "title": "Drops",
+   "text": "Drops are usually continued until surgery, but some may be stopped. Only as your doctor says."
+  },
+  {
+   "title": "Food",
+   "text": "If you have general anesthesia, the clinic will tell you when to stop eating."
+  },
+  {
+   "title": "Getting home",
+   "text": "Go home only with someone."
+  }
+ ],
+ "bring": [
+  "Your documents and referral",
+  "Test results",
+  "A list of your medicines and eye drops",
+  "Someone to go with you"
+ ],
+ "steps": [
+  "Drops are put in, and numbing medicine is given near the eye",
+  "Sometimes you get a sedative or general anesthesia",
+  "A small device holds your eyelids open",
+  "The surgeon makes a small channel under the upper eyelid",
+  "Fine stitches are placed",
+  "Your eye is covered with a patch"
+ ],
+ "feel": [
+  "During surgery, you feel pressure but not pain",
+  "Afterward, it feels like something is in the eye, and the eye is red",
+  "Vision may be blurry for the first few weeks"
+ ],
+ "after": [
+  "Use drops exactly as scheduled. They are often frequent and needed for a long time",
+  "You will see the doctor often, especially in the first weeks",
+  "Do not rub your eye or lift heavy things",
+  "Sometimes stitches are adjusted or removed at a visit",
+  "Only your doctor can stop glaucoma drops in this eye"
+ ],
+ "red_flags": [
+  "Severe eye pain, nausea, or vomiting: see a doctor right away",
+  "A sudden drop in vision",
+  "Pus or strong redness, especially weeks after surgery: see a doctor right away",
+  "A severe headache with eye pain: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Will surgery bring my vision back?",
+   "a": "No. Vision lost to glaucoma does not come back. Surgery helps keep what is left."
+  },
+  {
+   "q": "Will I need drops afterward?",
+   "a": "Sometimes not, sometimes yes. The doctor will decide based on your eye pressure."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Glaucoma surgery tomorrow. Use your drops as the doctor said. Bring someone with you."
+  }
+ ]
+}

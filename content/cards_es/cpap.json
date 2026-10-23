@@ -1,0 +1,81 @@
+{
+ "title": "Terapia CPAP en casa",
+ "also": [
+  "CPAP",
+  "aparato CPAP",
+  "aparato para el ronquido",
+  "mascarilla para dormir",
+  "tratamiento de la apnea"
+ ],
+ "what": "Un aparato pequeño envía aire por la noche a través de una mascarilla, con una presión suave. Así las vías respiratorias no se cierran durante el sueño y la respiración no se detiene.",
+ "why": "En la apnea del sueño (pausas de la respiración), con ronquido fuerte y sueño durante el día, cuando el estudio del sueño lo confirmó.",
+ "duration": "todas las noches, durante todo el sueño; acostumbrarse suele tomar de 1 a 4 semanas",
+ "tell_doctor": [
+  "Si la mascarilla roza, aprieta o se escapa aire por los bordes",
+  "Si tienes la boca o la nariz secas, o la nariz tapada",
+  "Si sigues roncando o te da sueño en el día",
+  "Si te cuesta acostumbrarte y quieres dejarlo"
+ ],
+ "prepare": [
+  {
+   "title": "Mascarilla",
+   "text": "La mascarilla se elige por talla. Si es incómoda, pide otra talla u otro tipo; hay muchos."
+  },
+  {
+   "title": "Costumbre",
+   "text": "Los primeros días ponte la mascarilla de día de 20 a 30 minutos, solo sentado, leyendo."
+  },
+  {
+   "title": "Agua",
+   "text": "Si el aparato tiene humidificador, llénalo con agua hervida o destilada; confirma en el instructivo."
+  },
+  {
+   "title": "Presión",
+   "text": "La presión la ajusta el médico. No la cambies tú."
+  }
+ ],
+ "bring": [
+  "El aparato, la manguera y la mascarilla",
+  "La tarjeta de memoria o los datos de la aplicación, para la consulta",
+  "Una lista de preguntas y molestias"
+ ],
+ "steps": [
+  "Antes de dormir llena de agua el humidificador, si lo hay",
+  "Ponte la mascarilla y ajusta las correas: firme, pero sin apretar fuerte",
+  "Acuéstate en una postura cómoda y enciende el aparato",
+  "Respira con calma por la nariz, si la mascarilla es nasal",
+  "Si sale aire por los bordes, cambia un poco la posición de la mascarilla",
+  "En la mañana apaga el aparato, quítate la mascarilla y vacía el agua"
+ ],
+ "feel": [
+  "Las primeras noches se siente raro: la presión del aire, la mascarilla en la cara",
+  "A veces hay sequedad en la boca o en la nariz",
+  "Después de unas semanas muchas personas notan que descansan mejor"
+ ],
+ "after": [
+  "Usa el aparato todas las noches: si te saltas alguna, sirve menos",
+  "Limpia la mascarilla todos los días y lava la manguera y el recipiente una vez por semana",
+  "Los filtros y la mascarilla se cambian según el instructivo",
+  "Pasado un tiempo, el médico revisará los datos del aparato"
+ ],
+ "red_flags": [
+  "Dolor de oídos, dolor fuerte en los senos paranasales o sangrado de nariz: díselo al médico",
+  "Falta de aire fuerte, dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo saltarme una noche?",
+   "a": "Es mejor no saltarla. Sin el aparato, las pausas de la respiración vuelven esa misma noche."
+  },
+  {
+   "q": "¿Qué hago si me quito la mascarilla dormido?",
+   "a": "Pasa al principio. Díselo al médico: a veces ayuda otra mascarilla o un ajuste."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Ya casi es hora de dormir. Agua en el humidificador, mascarilla, aparato: enciéndelo antes de acostarte."
+  }
+ ]
+}

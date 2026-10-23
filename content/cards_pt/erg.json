@@ -1,0 +1,75 @@
+{
+ "title": "Eletrorretinografia",
+ "also": [
+  "ERG",
+  "eletrorretinograma",
+  "exame elétrico da retina"
+ ],
+ "what": "O aparelho grava sinais elétricos fracos da retina enquanto você olha para flashes de luz.",
+ "why": "Com visão ruim no escuro, doenças hereditárias da retina e quando o exame comum não explica a visão ruim.",
+ "duration": "normalmente 30 a 90 minutos, o laudo sai na hora ou em alguns dias",
+ "tell_doctor": [
+  "Se usa lentes de contato",
+  "Quais remédios você toma",
+  "Se fez cirurgias nos olhos",
+  "Se tem epilepsia, por causa dos flashes"
+ ],
+ "prepare": [
+  {
+   "title": "Pupilas",
+   "text": "Normalmente pingam colírio para dilatar as pupilas. Depois, por algumas horas, tudo fica embaçado."
+  },
+  {
+   "title": "Volta para casa",
+   "text": "Não dirija depois do exame. Peça para alguém levar você."
+  },
+  {
+   "title": "Lentes",
+   "text": "Tire as lentes de contato. Leve o estojo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Óculos de sol",
+  "Óculos de grau, se usa",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Pingam colírio nos olhos para dilatar as pupilas",
+  "Às vezes você fica um tempo no escuro, para os olhos se acostumarem",
+  "Pingam colírio anestésico",
+  "Colocam um eletrodo no olho ou embaixo dele",
+  "Você olha para dentro do aparelho, onde a luz pisca",
+  "Tiram os eletrodos"
+ ],
+ "feel": [
+  "O colírio arde por alguns segundos",
+  "O eletrodo no olho é estranho, mas não dói",
+  "Os flashes são fortes"
+ ],
+ "after": [
+  "Por algumas horas, visão embaçada e sensibilidade à luz",
+  "Não esfregue os olhos enquanto o colírio estiver fazendo efeito",
+  "O laudo sai na hora ou em alguns dias"
+ ],
+ "red_flags": [
+  "Dor forte no olho ou piora forte da visão",
+  "Olho muito vermelho e lacrimejando por mais de um dia"
+ ],
+ "faq": [
+  {
+   "q": "Posso dirigir logo depois?",
+   "a": "Não. As pupilas ficam dilatadas por algumas horas. Peça para alguém levar você."
+  },
+  {
+   "q": "Dói?",
+   "a": "Não. Depois do colírio anestésico, o eletrodo quase não se sente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a eletrorretinografia. Não planeje dirigir depois do exame. Leve óculos de sol."
+  }
+ ]
+}

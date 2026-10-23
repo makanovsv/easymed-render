@@ -1,0 +1,81 @@
+{
+ "title": "EEG — elektroensefalografiya",
+ "also": [
+  "EEG",
+  "elektroensefalogramma",
+  "miya tekshiruvi",
+  "uyquda EEG"
+ ],
+ "what": "Boshdagi datchiklar yordamida miyaning elektr faolligini yozish. Datchiklar orqali tok berilmaydi — ular faqat tinglaydi.",
+ "why": "Tutqanoq, hushdan ketish, tushunarsiz xatti-harakat xurujlarida, epilepsiya davosini nazorat qilish uchun.",
+ "duration": "odatda 20–40 daqiqa; uyquda yozuv — uzoqroq",
+ "tell_doctor": [
+  "Barcha dorilar, ayniqsa tutqanoqqa qarshi va tinchlantiruvchilar — ularni o‘zingiz bekor qilmang",
+  "Xurujlaringiz qanday ko‘rinishi va oxirgisi qachon bo‘lgani",
+  "Yonib-o‘chuvchi yorug‘likdan o‘zingizni yomon his qilsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Sochlar",
+   "text": "Bir kun oldin yoki ertalab bosh yuving. Balzam, moy, lak va gelsiz — datchiklar zich turishi kerak."
+  },
+  {
+   "title": "Soch turmagi",
+   "text": "Kokillar, qisqichlar va ulangan sochlarni olib tashlang. Boshga sirg‘a va metall taqinchoqlar taqmagan ma’qul."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatdagidek ovqatlaning — ochlik yozuvni buzishi mumkin. Shu kuni kuchli qahva va energetik ichimliklar ichmagan ma’qul."
+  },
+  {
+   "title": "Uyqu",
+   "text": "Uyquda yoki uyqusiz tundan keyin EEG tayinlangan bo‘lsa, klinika bir kun oldin qancha uxlash kerakligini aytadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Avvalgi EEGlar va xulosalar",
+  "Dorilar ro‘yxati",
+  "Sochiq yoki shapka — gelden keyin sochlar nam bo‘ladi",
+  "Bola uchun — sevimli o‘yinchoq"
+ ],
+ "steps": [
+  "Kresloga o‘tirasiz yoki yotasiz",
+  "Boshingizga datchikli yumshoq shapkacha kiydirishadi yoki datchiklarni gel bilan mahkamlashadi",
+  "Ko‘zlarni yumib, tinch o‘tirishni so‘rashadi",
+  "Ko‘zlarni bir necha marta ochib-yumishni so‘rashadi",
+  "Taxminan 3 daqiqa chuqur va tez-tez nafas olish kerak",
+  "Ko‘z oldingizda yorqin yorug‘lik yonib-o‘chadi"
+ ],
+ "feel": [
+  "Shapkacha biroz bosadi, gel salqin",
+  "Tez-tez nafas olganda bosh aylanishi yoki barmoqlar chimirlashi mumkin — bu o‘tib ketadi",
+  "Sizga tok berilmaydi — og‘rimaydi"
+ ],
+ "after": [
+  "Gel yuviladi — darhol ishlaringizga qaytishingiz mumkin",
+  "Xulosa odatda o‘sha kuni yoki bir necha kundan keyin beriladi",
+  "Natijani nevrolog tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "EEG miya uchun xavfli emasmi?",
+   "a": "Yo‘q. Datchiklar faqat miya signallarini yozadi, boshga hech narsa yubormaydi. EEG hatto chaqaloqlarga ham qilinadi."
+  },
+  {
+   "q": "EEGdan oldin tutqanoqqa qarshi dorilarni bekor qilish kerakmi?",
+   "a": "O‘zingiz — yo‘q. To‘satdan bekor qilish xavfli. Shifokorga ayting, u hal qiladi."
+  },
+  {
+   "q": "EEGdan oldin bosh yuvsa bo‘ladimi?",
+   "a": "Kerak. Balzam va laksiz toza sochlar — shunda yozuv aniq bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga EEG. Boshni balzam va moysiz yuving, murakkab soch turmagi qilmang."
+  }
+ ]
+}

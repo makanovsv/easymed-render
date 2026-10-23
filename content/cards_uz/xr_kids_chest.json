@@ -1,0 +1,68 @@
+{
+ "title": "Bolada o‘pka rentgeni",
+ "also": [
+  "bolaga flyuorografiya",
+  "bolaning ko‘krak qafasi rentgeni",
+  "bolaning o‘pka surati"
+ ],
+ "what": "Bolaning ko‘krak qafasi rentgen surati. O‘pka va yurak ko‘rinadi.",
+ "why": "Uzoq yo‘tal, yuqori harorat va zotiljamga shubha bo‘lganda, davolashdan keyin nazorat uchun.",
+ "duration": "xonada odatda 5–10 daqiqa; tavsif o‘sha kuni",
+ "tell_doctor": [
+  "Bola yaqinda o‘pka surati qilgan bo‘lsa, ayting",
+  "Bola qo‘rqsa — laborantga ayting, u hammasini xotirjam tushuntiradi",
+  "Yonida bo‘ladigan kattalar homilador bo‘lsa — boshqa kattalar borsin"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Suhbat",
+   "text": "Bolaga oldindan ayting: katta kamera bo‘ladi, og‘rimaydi, jim turish va nafasni ushlab turish kerak."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Metalli va rangli toshli rasmlarsiz futbolka; zanjir va soch qisqichlarini yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bo‘lsa, o‘pkaning oldingi suratlari",
+  "Kichkina bola uchun o‘yinchoq"
+ ],
+ "steps": [
+  "Bola belgacha yechinadi",
+  "Kattaroq bolalar ko‘kragi bilan ekran tomon turadi, kichkintoylar yotib yoki o‘tirib suratga olinadi",
+  "Sizga himoya fartugi berilib, bolani ushlab turishni so‘rashlari mumkin",
+  "Bolaga chuqur nafas olib, bir necha soniya nafas olmaslik so‘raladi",
+  "Suratga olish soniyaning ulushi oladi"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Ekran salqin bo‘lishi mumkin",
+  "Kichkintoylar ba’zan ushlab turilgani uchun yig‘laydi — bu tez o‘tadi"
+ ],
+ "after": [
+  "Darrov kiyintirib, uyga ketsangiz bo‘ladi",
+  "Surat va tavsif bilan — bolalar shifokoriga"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nurlanish bolaga zararli emasmi?",
+   "a": "Doza juda kichik. Bolalar shifokori surat buyurgan bo‘lsa, uning foydasi xavfdan ko‘p."
+  },
+  {
+   "q": "Ona yonida bo‘lsa bo‘ladimi?",
+   "a": "Odatda ha — himoya fartugida. Homilador bo‘lsangiz, boshqa kattalar borsin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada bolaning o‘pka rentgeni. Yo‘llanma va sevimli o‘yinchoqni oling."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Mahalliy og‘riqsizlantirish",
+ "also": [
+  "mahalliy og‘riqsizlantirish",
+  "uvishtirish",
+  "og‘riqsizlantiruvchi ukol"
+ ],
+ "what": "Tananing kichik joyiga og‘riqsizlantiruvchi ukol qilinadi yoki surtiladi. Siz ongingiz joyida, lekin o‘sha joyda og‘riq sezmaysiz.",
+ "why": "Kichik operatsiya va protseduralarda: tish davolash va olish, xol olish, chok qo‘yish.",
+ "duration": "ta’sir qilish muddati odatda 1 soatdan bir necha soatgacha",
+ "tell_doctor": [
+  "Allergiyalar, ayniqsa og‘riqsizlantiruvchi ukollarga",
+  "Oldin uvishtirishni qanday ko‘targaningiz",
+  "Dorilar, ayniqsa qonni suyultiradiganlar — nima qilishni shifokor hal qiladi",
+  "Yurak kasalliklari, bosim",
+  "Homilador bo‘lsangiz yoki ko‘krak suti bilan boqsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda oldindan yengil ovqatlansa bo‘ladi. Klinikadan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Doimiy dorilarni shifokor boshqacha demagan bo‘lsa, odatdagidek iching."
+  },
+  {
+   "title": "Ahvol",
+   "text": "Dam olib keling. Qattiq hayajonlansangiz — shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Dorilar ro‘yxati",
+  "Hujjatlar"
+ ],
+ "steps": [
+  "Shifokor teri yoki shilliq qavatni ishlov beradi",
+  "Ba’zan avval og‘riqsizlantiruvchi gel yoki sprey surtadi",
+  "Ingichka igna bilan ukol qiladi",
+  "Uvishguncha bir necha daqiqa kutadi",
+  "Og‘riq bo‘lmasligiga ishonch hosil qilib, protsedurani boshlaydi"
+ ],
+ "feel": [
+  "Qisqa ukol va bir necha soniya achishish",
+  "Keyin uvishish, joy «begonadek» yoki shishgandek tuyuladi",
+  "Tegish va bosimni sezasiz, og‘riqni — yo‘q",
+  "Og‘risa — ayting, shifokor og‘riqsizlantirishni qo‘shadi"
+ ],
+ "after": [
+  "Uvishish odatda 1–3 soatda o‘tadi",
+  "O‘tmaguncha bu joyni asrang, yonoq va labni tishlamang",
+  "Og‘iz uvishib turganda issiq narsa yemang",
+  "Uvishish bir sutkadan uzoq tursa — shifokorga ayting"
+ ],
+ "red_flags": [
+  "Nafas olish qiyin, yuz shishdi, badanda toshma — tez yordamni chaqiring (103)",
+  "Kuchli bosh aylanishi, yurak urishi, tutqanoq — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Mahalliy og‘riqsizlantirishda biror narsani sezasizmi?",
+   "a": "Ha, bosim va tegishni. Og‘riq bo‘lmasligi kerak — og‘risa, shifokorga ayting."
+  },
+  {
+   "q": "Uvishish qancha vaqtda o‘tadi?",
+   "a": "Odatda 1–3 soatda. Dori va ukol joyiga bog‘liq."
+  }
+ ],
+ "reminders": []
+}

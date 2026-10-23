@@ -1,0 +1,79 @@
+{
+ "title": "Infusión de terapia biológica",
+ "also": [
+  "terapia biológica",
+  "medicamento biológico",
+  "tratamiento biológico",
+  "suero de medicamento biológico"
+ ],
+ "what": "Un medicamento especial que actúa de forma precisa sobre una parte de las defensas se pone con suero en una vena. El procedimiento se repite a intervalos iguales.",
+ "why": "En artritis reumatoide, enfermedad de Crohn, colitis ulcerosa, psoriasis y otras enfermedades del sistema inmunitario.",
+ "duration": "el suero suele durar de 1 a 3 horas con la observación; se repite cada algunas semanas, según el esquema",
+ "tell_doctor": [
+  "Fiebre, tos o cualquier infección ahora",
+  "Tuberculosis o contacto con ella, hepatitis",
+  "Embarazo o planes de embarazo",
+  "Vacunas programadas u operaciones",
+  "Reacciones a sueros anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Antes de empezar normalmente se revisa tuberculosis, hepatitis y análisis de sangre."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No suspendas por tu cuenta tus medicamentos de siempre."
+  },
+  {
+   "title": "Tiempo",
+   "text": "Lleva agua, algo de comer y algo para entretenerte varias horas."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Un documento de identidad",
+  "La lista de tus medicamentos",
+  "Agua, un bocadillo y audífonos"
+ ],
+ "steps": [
+  "La enfermera mide la presión, el pulso y la temperatura",
+  "Te ponen un catéter en la vena",
+  "A veces antes te dan medicamentos contra la alergia",
+  "Conectan el suero y suben la velocidad poco a poco",
+  "La enfermera vigila cómo te sientes",
+  "Después del suero te quedas un poco en observación"
+ ],
+ "feel": [
+  "El suero normalmente no duele",
+  "A veces hay dolor de cabeza o cansancio el día del suero",
+  "Calor, comezón o ronchas durante el suero: díselo enseguida a la enfermera"
+ ],
+ "after": [
+  "Normalmente puedes volver enseguida a tus actividades",
+  "Lávate las manos y evita el contacto con personas enfermas",
+  "Las vacunas de virus vivos, solo si el médico lo aprueba",
+  "Ven al siguiente suero en la fecha indicada"
+ ],
+ "red_flags": [
+  "Falta de aire, hinchazón de la cara o ronchas: llama a emergencias",
+  "Fiebre de 38 o más, tos: llama al médico",
+  "Cualquier infección: avisa al médico antes del siguiente suero"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué revisan la tuberculosis?",
+   "a": "El medicamento baja una parte de las defensas. Una infección escondida puede despertar, por eso se busca antes."
+  },
+  {
+   "q": "¿Puedo saltarme un suero?",
+   "a": "Es mejor no saltarlo. Si te enfermaste o algo te lo impide, llama al médico y él decidirá."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes el suero de terapia biológica. Si tienes fiebre o una infección, llama a la clínica antes de la cita."
+  }
+ ]
+}

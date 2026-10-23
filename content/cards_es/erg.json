@@ -1,0 +1,75 @@
+{
+ "title": "Electrorretinografía",
+ "also": [
+  "ERG",
+  "electrorretinograma",
+  "revisión de la retina con corriente"
+ ],
+ "what": "Un aparato registra las señales eléctricas débiles de la retina cuando miras destellos de luz.",
+ "why": "Con visión baja en la oscuridad, enfermedades hereditarias de la retina y cuando la revisión común no explica la mala vista.",
+ "duration": "normalmente de 30 a 90 minutos; el informe, al momento o en unos días",
+ "tell_doctor": [
+  "Si usas lentes de contacto",
+  "Qué medicamentos tomas",
+  "Si te operaron de los ojos",
+  "Si tienes epilepsia, por los destellos"
+ ],
+ "prepare": [
+  {
+   "title": "Pupilas",
+   "text": "Normalmente ponen gotas para dilatar las pupilas. Después, unas horas verás borroso."
+  },
+  {
+   "title": "Traslado",
+   "text": "No manejes después de la prueba: que alguien te lleve."
+  },
+  {
+   "title": "Lentes de contacto",
+   "text": "Quítate los lentes de contacto. Lleva el estuche."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Lentes de sol",
+  "Tus lentes, si los usas",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te ponen en los ojos gotas para dilatar las pupilas",
+  "A veces te quedas un rato en la oscuridad para que los ojos se acostumbren",
+  "Te ponen gotas anestésicas",
+  "Ponen un electrodo sobre el ojo o debajo del ojo",
+  "Miras el aparato donde destella la luz",
+  "Retiran los electrodos"
+ ],
+ "feel": [
+  "Las gotas pican unos segundos",
+  "El electrodo en el ojo es raro, pero no duele",
+  "Los destellos son brillantes"
+ ],
+ "after": [
+  "Unas horas verás borroso y la luz te molestará",
+  "No te frotes los ojos mientras actúan las gotas",
+  "El informe, al momento o en unos días"
+ ],
+ "red_flags": [
+  "Dolor fuerte en el ojo o empeoramiento brusco de la vista",
+  "El ojo muy rojo y con lagrimeo más de un día"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo manejar enseguida?",
+   "a": "No. Las pupilas quedan dilatadas varias horas: que alguien te lleve."
+  },
+  {
+   "q": "¿Duele?",
+   "a": "No. Después de las gotas anestésicas, el electrodo casi no se siente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes la electrorretinografía. No planees manejar después de la prueba; lleva lentes de sol."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Geriatr qabuli",
+ "also": [
+  "geriatr",
+  "keksalar shifokori",
+  "keksalar uchun qabul",
+  "geriatrik maslahat"
+ ],
+ "what": "Keksalar uchun shifokor umumiy salomatlikka qaraydi: xotira, muvozanat, kayfiyat, dorilar. O‘zini o‘zi uddalay olishni saqlab qolishga yordam beradi.",
+ "why": "65–70 yoshdan oshgan odamlarda bir nechta kasallik bir vaqtda bo‘lsa, yiqilishlar, xotira yomonlashganda, dorilar ko‘p bo‘lganda.",
+ "duration": "qabul odatda 40–60 daqiqa",
+ "tell_doctor": [
+  "Barcha dorilar, qo‘shimchalar va giyohlar ham",
+  "So‘nggi yil ichidagi yiqilishlar",
+  "Xotira, kayfiyat, uyquning o‘zgarishi",
+  "Uy ishlarida qiyinchiliklar",
+  "Eshitish, ko‘rish, siyish"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Barcha qadoqlarni paketga solib olib keling — shifokor ularning uyg‘unligini tekshiradi."
+  },
+  {
+   "title": "Hamroh",
+   "text": "Sog‘lig‘ingiz va turmushingizni biladigan yaqin odam bilan kelgan yaxshi."
+  },
+  {
+   "title": "Savollar",
+   "text": "Eng ko‘p bezovta qilayotgan narsani oldindan yozib qo‘ying."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Barcha dorilar qadoqlari bilan",
+  "Shifokorlar ko‘chirmalari va xulosalari",
+  "Ko‘zoynak va eshitish apparati, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor sog‘liq va turmush haqida batafsil so‘raydi",
+  "Dorilarni tekshiradi",
+  "Xotira va muvozanatning oddiy testlarini o‘tkazadi",
+  "Bosim va vaznni o‘lchaydi",
+  "Ko‘rik o‘tkazadi",
+  "Reja tuzadi: davolash, mashqlar, uyda yordam"
+ ],
+ "feel": [
+  "Qabul og‘riqsiz",
+  "Testlar oddiy, ba’zan charchatadi — tanaffus so‘rash mumkin"
+ ],
+ "after": [
+  "Shifokor ortiqcha dorilarni bekor qilishi yoki almashtirishi mumkin — o‘zingiz o‘zgartirmang",
+  "Uyda qoqilib ketish mumkin bo‘lgan narsalarni olib tashlang",
+  "Takroriy qabul — shifokor aytgan muddatdan keyin"
+ ],
+ "red_flags": [
+  "Qo‘l yoki oyoqda to‘satdan zaiflik, yuz qiyshayishi, nutq buzilishi — tez yordamni chaqiring (103)",
+  "To‘satdan hushni yo‘qotib chalkashish — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Terapevt bo‘lsa, geriatr nega kerak?",
+   "a": "Geriatr hammasini birgalikda ko‘radi va ko‘p dori va muammolarni tartibga solishga yordam beradi."
+  },
+  {
+   "q": "Qarindosh keksasiz kela oladimi?",
+   "a": "Maslahatlashish mumkin, lekin ko‘rik bemorning o‘ziga kerak. Klinikadan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga geriatr qabuli. Barcha dorilarni paketga soling va ko‘chirmalarni oling."
+  }
+ ]
+}

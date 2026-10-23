@@ -1,0 +1,72 @@
+{
+ "title": "Antibodies after hepatitis B vaccine (anti-HBs)",
+ "also": [
+  "anti-HBs",
+  "hepatitis B surface antibody",
+  "hepatitis B immunity test",
+  "hep B titer"
+ ],
+ "what": "This blood test shows how many protective antibodies to hepatitis B you have after the vaccine.",
+ "why": "For health workers, people on dialysis, family of people with hepatitis B, and people with a weak immune system, to see if the vaccine worked.",
+ "duration": "the blood draw takes a few minutes; results usually come in 1 to 3 days",
+ "tell_doctor": [
+  "When you had your last hepatitis B shot",
+  "How many shots you had in total",
+  "If you had hepatitis B before",
+  "If you recently had a blood transfusion or immunoglobulin"
+ ],
+ "prepare": [
+  {
+   "title": "Timing",
+   "text": "The test is usually done 1 to 2 months after the last shot in the series. Ask your doctor."
+  },
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast strictly, but it is better to come 3 to 4 hours after a light, non-fatty meal. Check with the lab."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve you can easily roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID",
+  "Your vaccination certificate or records"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "If antibodies are low, the doctor may offer another shot",
+  "Keep the result with your vaccination records"
+ ],
+ "red_flags": [
+  "The puncture site is very swollen, painful, and red"
+ ],
+ "faq": [
+  {
+   "q": "What level counts as protection?",
+   "a": "The lab form shows the protection threshold. If your result is above it, the vaccine worked."
+  },
+  {
+   "q": "Does everyone need an antibody check after the vaccine?",
+   "a": "No. It is usually checked in people at high risk of infection. Your doctor will advise."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Hepatitis B antibody test tomorrow. Bring your vaccination records."
+  }
+ ]
+}

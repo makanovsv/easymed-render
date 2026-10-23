@@ -1,0 +1,72 @@
+{
+ "title": "Igna bilan davolash (akupunktura)",
+ "also": [
+  "akupunktura",
+  "igna bilan davolash",
+  "refleksoterapiya",
+  "ignalar"
+ ],
+ "what": "Shifokor tanadagi ma’lum nuqtalarga ingichka steril ignalarni kiritadi va bir muddat qoldiradi.",
+ "why": "Ko‘pincha surunkali bel va bo‘yin og‘rig‘i, bosh og‘rig‘ida — asosiy davoga qo‘shimcha sifatida.",
+ "duration": "seans odatda 30–45 daqiqa, ignalar odatda 20–30 daqiqa turadi; kursni shifokor hal qiladi",
+ "tell_doctor": [
+  "Qonni suyultiradigan dorilar ichsangiz",
+  "Homilador bo‘lsangiz",
+  "Oldin ukoldan hushdan ketgan bo‘lsangiz",
+  "Yuragingizda kardiostimulyator bo‘lsa",
+  "Protsedura joyida teri kasalliklari"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Och qoringa kelmang, lekin to‘yib ovqatlanib ham kelmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng kiyim, kerakli joylar ochilishi uchun."
+  },
+  {
+   "title": "Ignalar",
+   "text": "Ignalar bir martalik va steril bo‘lishi kerak — ular sizning ko‘z oldingizda ochiladi."
+  }
+ ],
+ "bring": [
+  "Shifokor yo‘llanmasi yoki xulosasi, agar bo‘lsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Qulay yotasiz",
+  "Shifokor terini artadi",
+  "Ingichka ignalarni tez va sayoz kiritadi",
+  "Ignalar bilan 20–30 daqiqa tinch yotasiz",
+  "Shifokor ignalarni olib, tashlab yuboradi"
+ ],
+ "feel": [
+  "Qisqa, yengil sanchiq, ko‘pincha deyarli sezilmaydi",
+  "Ba’zan igna yonida og‘irlik, issiqlik yoki zirqirash",
+  "Bo‘shashish va mudrash bo‘lishi mumkin"
+ ],
+ "after": [
+  "Ketishdan oldin bir necha daqiqa o‘tirib oling",
+  "Bir tomchi qon yoki ko‘karish bo‘lishi mumkin, o‘zi o‘tib ketadi"
+ ],
+ "red_flags": [
+  "Seansdan keyin qattiq holsizlik, hushdan ketish yoki ko‘krak og‘rig‘i bo‘lsa — shifokorga ayting, kuchli nafas qisilishida tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Og‘riqlimi?",
+   "a": "Odatda yo‘q. Ignalar juda ingichka, sanchiq zo‘rg‘a seziladi."
+  },
+  {
+   "q": "Ignalar orqali kasallik yuqishi mumkinmi?",
+   "a": "Yo‘q, agar ignalar bir martalik va steril bo‘lsa. Qadoqni ko‘z oldingizda ochishlarini so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Bugun akupunktura seansi. Oldindan biroz ovqatlaning va keng kiyim kiying."
+  }
+ ]
+}

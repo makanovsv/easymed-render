@@ -1,0 +1,77 @@
+{
+ "title": "Treatment of a leg ulcer",
+ "also": [
+  "venous ulcer",
+  "leg ulcer",
+  "sore on the shin",
+  "non-healing leg wound"
+ ],
+ "what": "This is a wound on the lower leg that does not heal for a long time, most often because the veins are not working well. Treatment is dressings and leg compression.",
+ "why": "For wounds on the lower leg that have not healed for several weeks.",
+ "duration": "a dressing change usually takes 20 to 40 minutes; treatment takes weeks and months",
+ "tell_doctor": [
+  "Diabetes",
+  "Artery disease, leg pain when walking",
+  "All your medicines",
+  "Allergy to ointments or plasters"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "An ultrasound of the leg veins and arteries is usually done to find the cause."
+  },
+  {
+   "title": "Compression",
+   "text": "Bandages or stockings are the main treatment. Wear them as your doctor prescribed."
+  },
+  {
+   "title": "Legs",
+   "text": "When you sit or lie down, raise your leg higher."
+  }
+ ],
+ "bring": [
+  "Your referral and the vein ultrasound",
+  "Compression stockings, if you have them",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The old dressing is removed",
+  "The wound and the skin around it are washed",
+  "The doctor examines the wound and sometimes cleans it",
+  "A dressing is put on the wound",
+  "The leg is wrapped over it with a compression bandage",
+  "You are told when the next dressing change is"
+ ],
+ "feel": [
+  "Cleaning the wound can be unpleasant",
+  "Compression feels strange in the first days, then usually gets easier",
+  "If the bandage is very tight and your leg goes numb, take it off and call your doctor"
+ ],
+ "after": [
+  "Walk - it helps the veins",
+  "Keep the dressing dry",
+  "Raise your leg when you rest",
+  "After the ulcer heals, keep wearing stockings - this makes the ulcer less likely to come back"
+ ],
+ "red_flags": [
+  "Fever, or redness that spreads",
+  "Your leg is numb, cold or blue under the bandage",
+  "Severe pain or a bad smell from the wound"
+ ],
+ "faq": [
+  {
+   "q": "Why bandage the leg?",
+   "a": "Compression helps blood flow back up the veins. Without it the ulcer heals very slowly."
+  },
+  {
+   "q": "Can the cause be removed?",
+   "a": "Sometimes, for example by treating the veins. Your doctor will discuss it after the ultrasound."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Leg dressing change tomorrow. Take the vein ultrasound and your compression stockings."
+  }
+ ]
+}

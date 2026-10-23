@@ -1,0 +1,74 @@
+{
+ "title": "Bruksizmga qarshi kapa",
+ "also": [
+  "tungi kapa",
+  "splint",
+  "tish g‘ijirlatishga qarshi kapa",
+  "okklyuzion shina"
+ ],
+ "what": "Bu tishlarga kiyiladigan ingichka shaffof qoplama bo‘lib, tunda kiyiladi. Uyquda tishlaringizni qisganingizda yoki g‘ijirlatganingizda ularni yemirilishdan himoya qiladi.",
+ "why": "Tishlarni g‘ijirlatsangiz yoki qisib uxlasangiz, tishlar yemiriladi, ertalab jag‘ yoki bosh og‘riydi.",
+ "duration": "qolip olish odatda 15–20 daqiqa; kapa odatda bir necha kunda tayyor bo‘ladi",
+ "tell_doctor": [
+  "Tishlarni g‘ijirlatasizmi — buni yaqin odam aytishi mumkin",
+  "Jag‘da og‘riq yoki chiqillash, ertalabki bosh og‘rig‘i",
+  "Breketlar, koronkalar, implantlar bormi",
+  "Plastmassaga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Tishlar",
+   "text": "Qabuldan oldin tishlarni tozalang."
+  },
+  {
+   "title": "Savollar",
+   "text": "Nima bezovta qilishini yozib qo‘ying: og‘riq, tovushlar, tishlarning yemirilishi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Eski kapa, bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor tishlar va jag‘ni ko‘zdan kechiradi",
+  "Qolip oladi yoki tishlarni skanerlaydi",
+  "Kapa laboratoriyada sizning tishlaringizga qarab tayyorlanadi",
+  "Keyingi qabulda kapa kiyib ko‘riladi",
+  "Shifokor uni bosmasligi uchun to‘g‘rilaydi",
+  "Sizga kiyish, yechish va tozalashni ko‘rsatishadi"
+ ],
+ "feel": [
+  "Qolip massasi ko‘ngil aynishiga sabab bo‘lishi mumkin — burun orqali nafas oling",
+  "Dastlabki tunlari kapa odatiy tuyulmaydi",
+  "So‘lak ko‘proq bo‘lishi mumkin — bu bir necha kunda o‘tadi"
+ ],
+ "after": [
+  "Kapani har tun kiying",
+  "Ertalab uni salqin suv bilan yuving va cho‘tka bilan tozalang",
+  "G‘ilofda saqlang, issiq suvda emas",
+  "Shifokor aytganidek tekshiruvga ko‘rinib turing"
+ ],
+ "red_flags": [
+  "Kapa bosadi, tishlar yoki jag‘ avvalgidan kuchliroq og‘riydi — shifokorga yoziling"
+ ],
+ "faq": [
+  {
+   "q": "Kapa bruksizmni davolaydimi?",
+   "a": "U tishlarni himoya qiladi, lekin sababni yo‘qotmaydi. Shifokor boshqa qadamlarni ham maslahat berishi mumkin."
+  },
+  {
+   "q": "Dorixonadan tayyor kapa sotib olsa bo‘ladimi?",
+   "a": "Tayyor kapalar bor, lekin qolip bo‘yicha qilingani aniqroq o‘tiradi. Shifokordan so‘rang."
+  },
+  {
+   "q": "Kapa qancha xizmat qiladi?",
+   "a": "Odatda bir yil va undan ko‘p. Yoriqlar paydo bo‘lsa yoki yomon o‘tirib qolsa — yangisi kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "2 soatdan keyin kapa bo‘yicha qabul. Tashrifdan oldin tishlarni tozalang."
+  }
+ ]
+}

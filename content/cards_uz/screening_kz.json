@@ -1,0 +1,71 @@
+{
+ "title": "Yoshga qarab skrining ko‘riklari (Qozog‘iston)",
+ "also": [
+  "skrining",
+  "profilaktik ko‘rik",
+  "skrining tekshiruvi",
+  "bepul skrining"
+ ],
+ "what": "Biriktirilgan poliklinikada bepul tekshiruvlar. Ular kasalliklarni erta bosqichda topishga yordam beradi. To‘plam yosh va jinsga bog‘liq.",
+ "why": "Muayyan yoshdagi kattalarga: jadval bo‘yicha, odatda bir necha yilda bir marta. O‘z jadvalingizni poliklinikadan aniqlab oling.",
+ "duration": "odatda 1–2 tashrif, natijalar bir necha kunda",
+ "tell_doctor": [
+  "Qanday kasalliklaringiz bor va qanday dori qabul qilasiz",
+  "Chekasizmi",
+  "Yaqin qarindoshlarda yurak kasalliklari, diabet va saraton",
+  "Qanday tekshiruvlar allaqachon qilingan va qachon"
+ ],
+ "prepare": [
+  {
+   "title": "Navbatingizni bilib oling",
+   "text": "Biriktirilgan poliklinikadan yoki ilovadan bu yil sizga skrining tegishlimi, so‘rang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Qon tahliliga odatda ertalab och qoringa kelishadi. Poliklinikadan aniqlab oling."
+  },
+  {
+   "title": "Tayyorgarlik",
+   "text": "Ba’zi tekshiruvlar, masalan surtma yoki axlat tahlili uchun o‘z tayyorgarligi bor: oldindan tushuntirishadi."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Oldingi tekshiruvlar natijalari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Siz biriktirilgan poliklinikaga kelasiz",
+  "Anketa to‘ldirasiz",
+  "Qon bosimi, bo‘y, vazn o‘lchanadi",
+  "Yoshingizga mos tahlillar topshirasiz",
+  "Kerakli ko‘rik va tekshiruvlardan o‘tasiz",
+  "Shifokor natijalarni ko‘rib, keyin nima bo‘lishini aytadi"
+ ],
+ "feel": [
+  "Tekshiruvlarning ko‘pi og‘riqsiz",
+  "Ba’zilari yoqimsiz, lekin qisqa"
+ ],
+ "after": [
+  "Hammasi joyida bo‘lsa, keyingi tekshiruv jadval bo‘yicha",
+  "Biror narsa topilsa, mutaxassisga yuborishadi: bu hali tashxis emas",
+  "Natijalarni saqlab qo‘ying"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Skrining uchun pul to‘lash kerakmi?",
+   "a": "Yoshga qarab skrininglar odatda bepul. Biriktirilgan poliklinikadan aniqlab oling."
+  },
+  {
+   "q": "Yoshim dasturga kirmasa-chi?",
+   "a": "Shifokor yo‘llanmasi bilan yoki pullik tekshiruvdan o‘tish mumkin. Shifokor bilan muhokama qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga skrining. Ertalab qon tahliliga qadar ovqat yemang, shaxsni tasdiqlovchi hujjatni oling."
+  }
+ ]
+}

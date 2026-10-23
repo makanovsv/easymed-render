@@ -1,0 +1,71 @@
+{
+ "title": "Vacuna contra la poliomielitis",
+ "also": [
+  "vacuna de la polio",
+  "vacuna contra la polio",
+  "gotas de la polio",
+  "vacuna antipoliomielítica"
+ ],
+ "what": "La vacuna protege de la poliomielitis, una infección que puede causar parálisis. Se pone con una inyección o con gotas en la boca.",
+ "why": "En niños según el calendario nacional de vacunación; a veces en adultos antes de viajar a países con riesgo.",
+ "duration": "la vacuna en sí dura unos segundos; con la revisión, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Si el niño ahora está enfermo o tiene fiebre",
+  "Alergias y reacciones fuertes a vacunas anteriores",
+  "Si el niño o alguien de la familia tiene las defensas bajas: es importante para las gotas"
+ ],
+ "prepare": [
+  {
+   "title": "Salud",
+   "text": "La vacuna se pone cuando el niño está sano. Antes lo revisarán."
+  },
+  {
+   "title": "Tipo de vacuna",
+   "text": "Pregunta si será inyección o gotas: depende de la edad y del calendario."
+  },
+  {
+   "title": "Comida",
+   "text": "Si son gotas, normalmente no se le da de comer ni de beber durante una hora. Confírmalo con la enfermera."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La cartilla de vacunación"
+ ],
+ "steps": [
+  "El médico revisa al niño y le mide la temperatura",
+  "Si es inyección, se pone en el muslo o en el hombro",
+  "Si son gotas, se las ponen en la boca",
+  "Se anota la vacuna en los documentos",
+  "Después de la vacuna hay que quedarse en la clínica unos 30 minutos"
+ ],
+ "feel": [
+  "La inyección causa un dolor corto; las gotas no duelen",
+  "A veces enrojecimiento en el lugar de la inyección o una fiebre ligera"
+ ],
+ "after": [
+  "Quédate cerca del consultorio unos 30 minutos",
+  "Si el niño devolvió las gotas enseguida, avísale a la enfermera",
+  "La siguiente vacuna, según el calendario"
+ ],
+ "red_flags": [
+  "Cuesta respirar, se hincha la cara o sale sarpullido en todo el cuerpo: llama a emergencias",
+  "Debilidad en una pierna o un brazo después de la vacuna: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿En qué se diferencia la inyección de las gotas?",
+   "a": "La inyección tiene el virus muerto; las gotas, el virus vivo debilitado. El médico elige el esquema según el calendario."
+  },
+  {
+   "q": "¿Los adultos necesitan la vacuna?",
+   "a": "Normalmente no, si completaron el esquema de niños. Antes de viajar a algunos países, pregunta al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la vacuna contra la polio. Lleva la cartilla de vacunación."
+  }
+ ]
+}

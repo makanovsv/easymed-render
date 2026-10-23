@@ -1,0 +1,79 @@
+{
+ "title": "Milk chekinishi plastikasi",
+ "also": [
+  "milk ko‘chirib o‘tkazish",
+  "milk chekinishini yopish",
+  "milk plastikasi",
+  "milk tushishi operatsiyasi"
+ ],
+ "what": "Shifokor ochilib qolgan tish ildizini o‘zingizning to‘qimangiz, odatda tanglaydan olingan bo‘lak, yoki maxsus material bilan yopadi.",
+ "why": "Milk tushib ildiz ochilib qolganda: tish sezgir, ko‘rinishi yomon yoki milk chekinishda davom etayotganda.",
+ "duration": "odatda 1–2 soat",
+ "tell_doctor": [
+  "Barcha dorilar, ayniqsa qonni suyultiruvchilar — nimani va qachon to‘xtatishni shifokor aytadi",
+  "Allergiyalar",
+  "Diabet va boshqa kasalliklar",
+  "Chekasizmi",
+  "Breket taqasizmi"
+ ],
+ "prepare": [
+  {
+   "title": "Tozalash",
+   "text": "Operatsiyadan oldin odatda tishlarning professional tozalanishi qilinadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Operatsiyadan 1–2 soat oldin ovqatlaning."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Alkogolsiz."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Tishlar suratlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Ukol bilan og‘riqsizlantiriladi",
+  "Shifokor ochilib qolgan ildiz yonidagi joyni tayyorlaydi",
+  "Tanglaydan yupqa to‘qima bo‘lagini oladi yoki material ishlatadi",
+  "Uni ildiz ustiga joylaydi",
+  "Yupqa choklar bilan tikadi",
+  "Ba’zan tanglayga himoya plastinkasi qo‘yiladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantirish ostida — bosim, og‘riqsiz",
+  "Keyin tanglay ham, milk ham og‘riydi — og‘riq qoldiruvchi beriladi",
+  "Bir necha kun shish va mayda ko‘karishlar"
+ ],
+ "after": [
+  "Shifokor ruxsat bermaguncha shu tomonda chaynamang",
+  "Bir necha kun yumshoq sovuq ovqat",
+  "Choklarga tilingiz bilan tegmang va labni tortmang",
+  "Ruxsat berilmaguncha operatsiya hududini cho‘tka bilan tozalamang",
+  "Choklar odatda 1–2 haftada olinadi"
+ ],
+ "red_flags": [
+  "Tanglaydan yoki milkdan qon ketishi bosganda to‘xtamasa",
+  "Harorat 38 dan yuqori, yiring",
+  "Shish 3-kundan keyin ortib borsa"
+ ],
+ "faq": [
+  {
+   "q": "Nega to‘qimani tanglaydan olishadi?",
+   "a": "O‘zingizning to‘qima yaxshi tutashadi. Tanglay 1–2 haftada o‘zi bitadi."
+  },
+  {
+   "q": "Milk yana tushib ketadimi?",
+   "a": "Sabablar saqlansa mumkin: qattiq tozalash, milk kasalligi. Shifokor qanday asrashni aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga milk plastikasi. Alkogolsiz. Qabuldan 1–2 soat oldin ovqatlaning. Dorilar — shifokor aytganidek."
+  }
+ ]
+}

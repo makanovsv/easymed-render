@@ -1,0 +1,71 @@
+{
+ "title": "Maktab va bolalar bog‘chasi uchun ma’lumotnoma",
+ "also": [
+  "maktabga tibbiy karta",
+  "bolalar bog‘chasiga ma’lumotnoma",
+  "maktabdan oldin tibbiy ko‘rik",
+  "bog‘chaga ma’lumotnoma"
+ ],
+ "what": "Pediatr va boshqa shifokorlar bolani ko‘rib, maktab yoki bolalar bog‘chasi uchun tibbiy karta rasmiylashtirishadi. Emlashlar va umumiy sog‘liq tekshiriladi.",
+ "why": "Bolalar bog‘chasi yoki maktabga birinchi borishdan oldin, boshqa muassasaga o‘tganda.",
+ "duration": "barcha shifokorlar va tahlillar uchun odatda bir necha kun yoki hafta; pediatrda rasmiylashtirish oxirgi tashrifda",
+ "tell_doctor": [
+  "Bolaning surunkali kasalliklari va dorilari",
+  "Allergiyalar, ayniqsa ovqat va chaqishlarga",
+  "Bola mutaxassislar kuzatuvida bo‘lsa",
+  "Emlashlar o‘tkazib yuborilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Oldindan",
+   "text": "Barcha shifokorlardan xotirjam o‘tish uchun 1–2 oy oldin boshlang."
+  },
+  {
+   "title": "Ro‘yxat",
+   "text": "Poliklinikadan shifokorlar va tahlillar ro‘yxatini so‘rang: u yoshga bog‘liq."
+  },
+  {
+   "title": "Bola",
+   "text": "Bolaga nimani ko‘rishlari va tinglashlarini qo‘rqituvchi so‘zlarsiz tushuntiring."
+  }
+ ],
+ "bring": [
+  "Bolaning va sizning hujjatingiz",
+  "Emlash kartasi",
+  "Bolaning tibbiy kartasi",
+  "Maktab yoki bog‘chadan berilgan blank, agar bo‘lsa"
+ ],
+ "steps": [
+  "Pediatr shifokorlar va tahlillar ro‘yxatini beradi",
+  "Bola tahlillar topshiradi",
+  "Siz mutaxassislarni aylanib chiqasiz: odatda okulist, LOR, nevrolog, jarroh, stomatolog",
+  "Pediatr emlashlarni tekshiradi",
+  "Pediatr xulosalarni yig‘ib, tibbiy kartani rasmiylashtiradi"
+ ],
+ "feel": [
+  "Ko‘riklar og‘riqsiz",
+  "Faqat qon topshirishda yoqimsiz"
+ ],
+ "after": [
+  "Tibbiy kartani bog‘cha yoki maktab hamshirasiga topshirasiz",
+  "Emlash kerak bo‘lsa, jadval bo‘yicha qilinadi",
+  "Shifokor biror narsa topsa, keyin nima qilishni aytishadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Emlanmagan bolani qabul qilishadimi?",
+   "a": "Qoidalar mamlakat va muassasaga bog‘liq. Poliklinikadan va bog‘chadan aniqlab oling."
+  },
+  {
+   "q": "Hammasidan bir kunda o‘tsa bo‘ladimi?",
+   "a": "Ba’zan ha, klinikalarda bunday dasturlar bor. Oldindan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga maktab yoki bog‘cha uchun ko‘rik. Emlash kartasi va bolaning hujjatlarini oling."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Uyda homiladorlik testi",
+ "also": [
+  "homiladorlik testi",
+  "homiladorlik test-chizig‘i",
+  "homiladorlik testini qanday qilish kerak",
+  "ikki chiziq"
+ ],
+ "what": "Uy testi siydikda homiladorlik gormonini qidiradi. U bo‘lsa, ikkinchi chiziq yoki belgi paydo bo‘ladi.",
+ "why": "Hayz kechiksa yoki homiladorlikka gumon qilsangiz.",
+ "duration": "testning o‘zi — bir necha daqiqa; javob — yo‘riqnomada ko‘rsatilgan vaqtdan keyin",
+ "tell_doctor": [
+  "Oxirgi hayz boshlangan sana",
+  "Test natijasi va uni qachon qilganingiz",
+  "Ichayotgan barcha dorilar",
+  "Qorin pastida og‘riq yoki qonli ajralmalar bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Qachon",
+   "text": "Eng aniqi — hayz kechikishining birinchi kunidan. Ertaroq test hali ko‘rsatmasligi mumkin."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Ertalab, birinchi siydik bilan yaxshiroq — unda gormon ko‘proq."
+  },
+  {
+   "title": "Suv",
+   "text": "Testdan oldin ko‘p suv ichmang — siydik suyulib ketadi."
+  },
+  {
+   "title": "Yo‘riqnoma",
+   "text": "Yo‘riqnomani o‘qing: turli testlarda kutish vaqti har xil."
+  }
+ ],
+ "bring": [
+  "Yaroqlilik muddati o‘tmagan test",
+  "Soat yoki taymer",
+  "Kerak bo‘lsa, toza quruq stakan"
+ ],
+ "steps": [
+  "Qo‘llaringizni yuving va testni ishlatishdan oldin ochasiz",
+  "Uchini siydik oqimi ostida ushlab turing yoki stakanga tushiring — necha soniya, yo‘riqnomada aytilgan",
+  "Testni tekis yuzaga oynasi yuqoriga qilib qo‘ying",
+  "Yo‘riqnomadagi vaqtni kuting",
+  "Natijaga qarang: nazorat chizig‘i doim paydo bo‘lishi kerak"
+ ],
+ "feel": [
+  "Hech narsa — test og‘riqsiz",
+  "Natijani kutish hayajonli bo‘lishi mumkin — bu normal"
+ ],
+ "after": [
+  "Ikki chiziq, xira bo‘lsa ham, odatda homiladorlikni bildiradi — ginekologga yoziling",
+  "Bitta chiziq, hayz esa yo‘q — testni 2–3 kundan keyin takrorlang",
+  "Nazorat chizig‘i yo‘q — test buzilgan, yangisini oling",
+  "Yo‘riqnomadagi muddatdan keyin paydo bo‘lgan natija hisobga olinmaydi"
+ ],
+ "red_flags": [
+  "Test ijobiy va qorin pastida, ayniqsa bir tomonda kuchli og‘riq — tez yordamni chaqiring (103)",
+  "Test ijobiy va qon ketishi, holsizlik yoki hushdan ketish — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Ikkinchi chiziq juda xira. Men homiladormanmi?",
+   "a": "Ehtimol ha, shunchaki muddat hali kichik. Testni 2 kundan keyin takrorlang yoki XG ga qon topshiring."
+  },
+  {
+   "q": "Test adashishi mumkinmi?",
+   "a": "Salbiy — erta bo‘lsa, mumkin. Ijobiy kam adashadi. Har holda shifokor tasdiqlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Ertaga ertalab homiladorlik testi. Birinchi ertalabki siydik bilan va yo‘riqnoma bo‘yicha qiling."
+  }
+ ]
+}

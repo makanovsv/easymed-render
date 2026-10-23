@@ -1,0 +1,73 @@
+{
+ "title": "Anticorpos contra equinococo",
+ "also": [
+  "equinococose",
+  "hidatidose",
+  "cisto hidático",
+  "exame para cisto no fígado"
+ ],
+ "what": "É um exame de sangue que procura anticorpos contra um parasita que pode formar cistos no fígado, nos pulmões e em outros órgãos.",
+ "why": "Se o ultrassom ou a tomografia acharam um cisto, com contato com cães e gado, e depois do tratamento da equinococose, para acompanhar.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 1 a 5 dias",
+ "tell_doctor": [
+  "Se o ultrassom ou a tomografia acharam um cisto",
+  "Se você cria cães ou gado",
+  "Se já tratou equinococose",
+  "Se tem alergia ou manchas na pele"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Jejum rigoroso normalmente não é necessário, mas é melhor ir 3 a 4 horas depois de uma refeição leve, sem gordura. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma. Ele decide se é preciso mudar algo antes do exame."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Laudos de ultrassom ou tomografia",
+  "Relatórios de tratamentos anteriores"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Exame negativo nem sempre descarta o cisto. O médico avalia junto com o ultrassom ou a tomografia",
+  "Quem decide o tratamento é o médico"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho"
+ ],
+ "faq": [
+  {
+   "q": "Como se pega o equinococo?",
+   "a": "Pelos ovos do parasita: dos cães, pelas mãos sujas, por verduras e frutas mal lavadas."
+  },
+  {
+   "q": "Se não acharam anticorpos, com certeza não há cisto?",
+   "a": "Nem sempre. Por isso o médico avalia o exame junto com o ultrassom ou a tomografia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de equinococo. De manhã, é melhor evitar comida gordurosa. Leve os laudos de ultrassom."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Enterografía por resonancia",
+ "also": [
+  "enterografía por RM",
+  "resonancia del intestino delgado",
+  "resonancia del intestino con solución"
+ ],
+ "what": "Una resonancia del abdomen en la que antes tomas una solución especial. Esta expande el intestino y se ve bien en las imágenes.",
+ "why": "Casi siempre en enfermedades inflamatorias del intestino, para ver el intestino delgado sin radiación.",
+ "duration": "tomar la solución dura cerca de una hora, la resonancia de 30 a 45 minutos, el informe sale en unos días",
+ "tell_doctor": [
+  "Si tienes marcapasos o metal en el cuerpo",
+  "Si temes a los espacios cerrados",
+  "Si puedes estar embarazada",
+  "Si tienes enfermedades de los riñones o alergia al contraste",
+  "Si tienes glaucoma o agrandamiento de la próstata, por el medicamento para el intestino"
+ ],
+ "prepare": [
+  {
+   "title": "Ayuno",
+   "text": "Normalmente de 4 a 6 horas sin comer. Confírmalo en la clínica."
+  },
+  {
+   "title": "Hora",
+   "text": "Llega con anticipación: la solución se toma cerca de una hora antes del estudio."
+  },
+  {
+   "title": "Metal",
+   "text": "Quítate joyas, reloj y cinturón."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Imágenes y colonoscopia anteriores",
+  "Identificación",
+  "Ropa interior de cambio: la solución es laxante"
+ ],
+ "steps": [
+  "Tomas la solución en porciones pequeñas durante cerca de una hora",
+  "Te cambias y te quitas el metal",
+  "Te acuestas en la mesa, a menudo boca abajo",
+  "Te ponen un catéter en una vena",
+  "Te aplican un medicamento para que el intestino no se mueva y el contraste",
+  "Toman las imágenes, a menudo con pausas para contener la respiración"
+ ],
+ "feel": [
+  "Tomar tanto es incómodo y puede haber hinchazón",
+  "Por el medicamento la vista puede nublarse un rato",
+  "Calor al aplicar el contraste"
+ ],
+ "after": [
+  "Después del estudio puede haber evacuaciones blandas: quédate cerca de un baño",
+  "Mientras la vista esté borrosa, no manejes",
+  "El informe normalmente sale en unos días"
+ ],
+ "red_flags": [
+  "Dolor en el ojo y empeoramiento brusco de la vista después del estudio: llama a emergencias",
+  "Sarpullido, hinchazón de la cara, dificultad para respirar: llama a emergencias",
+  "Dolor fuerte en el abdomen"
+ ],
+ "faq": [
+  {
+   "q": "¿Para qué tomar tanta solución?",
+   "a": "Sin ella el intestino está colapsado y se ve mal en las imágenes."
+  },
+  {
+   "q": "¿Puedo ir al trabajo de inmediato?",
+   "a": "Normalmente sí, pero ten en cuenta que puede haber evacuaciones blandas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu enterografía por resonancia. De 4 a 6 horas antes no comas; llega con anticipación, tendrás que tomar la solución."
+  }
+ ]
+}

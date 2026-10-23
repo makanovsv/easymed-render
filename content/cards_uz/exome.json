@@ -1,0 +1,76 @@
+{
+ "title": "Bolada ekzom sekvenirlash",
+ "also": [
+  "to‘liq ekzom sekvenirlash",
+  "bolaga genetik test",
+  "ekzomni sekvenirlash",
+  "WES"
+ ],
+ "what": "Bu bolaning deyarli barcha genlarini bir yo‘la o‘qiydigan katta genetik tahlil. Boshqa tahlillar javob bermaganda, kasallik sababini topishga yordam beradi.",
+ "why": "Rivojlanish kechikishi, nuqsonlar, tutqanoq, tashqi ko‘rinishning g‘ayrioddiy xususiyatlari yoki tushuntirib bo‘lmagan kasalliklarda.",
+ "duration": "qon olish odatda 5–10 daqiqa, natija odatda bir necha haftada",
+ "tell_doctor": [
+  "Bolaning barcha tashxislari va tekshiruvlari — xulosalarni olib keling",
+  "Oiladagi kasalliklar va ota-onalar o‘rtasidagi qarindoshlik",
+  "Bolaga qon quyilgan bo‘lsa — qachon",
+  "Avval boshqa genetik tahlillar qilingan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Maslahat",
+   "text": "Tahlildan oldin siz bilan shifokor-genetik gaplashadi: test nimani topishi mumkin va nimani topa olmaydi."
+  },
+  {
+   "title": "Ota-onalar",
+   "text": "Ko‘pincha onadan ham, otadan ham qon topshirishni so‘rashadi — natija aniqroq bo‘ladi. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Bolaga odatda och qolish shart emas."
+  },
+  {
+   "title": "Bola",
+   "text": "Oddiy so‘zlar bilan tushuntiring: qisqa ukol bo‘ladi. O‘yinchoq yoki planshet oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bola va ota-onalarning hujjatlari",
+  "Shifokorlarning barcha xulosalari va avvalgi genetik tahlillar",
+  "O‘yinchoq yoki planshet"
+ ],
+ "steps": [
+  "Bola bilan o‘tirasiz, uni tizzangizda ushlab tursangiz bo‘ladi",
+  "Hamshira qo‘ldagi terini antiseptik bilan artadi",
+  "Qisqa ukol — qon probirkaga olinadi",
+  "Kerak bo‘lsa, ota-onalar ham qon topshiradi",
+  "Probirkalar genetik laboratoriyaga yuboriladi"
+ ],
+ "feel": [
+  "Ukol qisqa, kichkintoylar ko‘pincha yig‘laydi — darhol bolani qo‘lingizga oling",
+  "Ota-onalar ko‘pincha bolaga qaraganda ko‘proq xavotirlanadi — bu normal, genetikka savollar bering"
+ ],
+ "after": [
+  "Natija odatda bir necha haftada",
+  "Natijani shifokor-genetik alohida uchrashuvda tushuntiradi",
+  "Test hamma bolada ham sababni topmaydi — bu boshqa izlash kerak emas degani emas",
+  "Ma’lumotlarni keyinroq, fan ko‘proq bilganda qayta ko‘rib chiqish mumkin"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ota-onalardan nega qon olinadi?",
+   "a": "Shunda laboratoriya bolaning qaysi o‘zgarishlarni ota-onadan olgani, qaysilari yangi ekanini tushunadi. Bu sababni topishga yordam beradi."
+  },
+  {
+   "q": "Hech narsa topilmasa nima bo‘ladi?",
+   "a": "Bunday bo‘ladi. Boshqa tahlillar kerakmi yoki ma’lumotlarni biroz vaqt o‘tib qayta ko‘rib chiqish kerakmi, shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bolaga genetik tahlil. Hujjatlar va shifokorlar xulosalarini oling. Ehtimol, ota-onalar ham qon topshiradi."
+  }
+ ]
+}

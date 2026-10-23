@@ -1,0 +1,65 @@
+{
+ "title": "Moldagem digital dos dentes (escâner)",
+ "also": [
+  "escaneamento intraoral",
+  "moldagem digital",
+  "escaneamento 3D dos dentes",
+  "escâner no lugar da massa"
+ ],
+ "what": "O médico passa um escâner pequeno dentro da boca e cria um modelo 3D dos dentes na tela. Não precisa de massa de moldagem.",
+ "why": "Para coroas, facetas, restaurações indiretas, implantes, alinhadores, aparelho e placas para dormir.",
+ "duration": "normalmente de 5 a 20 minutos; o modelo aparece na hora",
+ "tell_doctor": [
+  "Se você tem ânsia forte",
+  "Se a mandíbula dói ou é difícil ficar muito tempo com a boca aberta",
+  "Se usa prótese removível ou aparelho"
+ ],
+ "prepare": [
+  {
+   "title": "Higiene",
+   "text": "Escove os dentes antes da consulta."
+  },
+  {
+   "title": "Comida",
+   "text": "Pode comer antes. Não precisa de preparo especial."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Pedido do dentista, se tiver"
+ ],
+ "steps": [
+  "Você senta na cadeira",
+  "Os dentes são secos com ar",
+  "O médico passa o escâner pelos dentes de cima e de baixo",
+  "Pede para você fechar a boca para registrar a mordida",
+  "O modelo é conferido na tela e, se precisar, algumas áreas são escaneadas de novo"
+ ],
+ "feel": [
+  "Não dói",
+  "Pode haver uma leve sensação de calor do escâner",
+  "É preciso ficar com a boca aberta por alguns minutos"
+ ],
+ "after": [
+  "Pode comer e beber logo depois",
+  "O modelo vai para o laboratório ou para o plano de tratamento",
+  "O médico vai dizer o prazo para ficar pronto"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "É mais preciso que a moldagem comum?",
+   "a": "Normalmente não é pior, e para muitos trabalhos é mais preciso. O médico decide."
+  },
+  {
+   "q": "Tem radiação?",
+   "a": "Não. O escâner funciona com luz, como uma câmera."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a moldagem digital dos dentes. Escove os dentes antes da consulta."
+  }
+ ]
+}

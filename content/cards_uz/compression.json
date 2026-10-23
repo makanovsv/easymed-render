@@ -1,0 +1,75 @@
+{
+ "title": "Kompression trikotaj tanlash",
+ "also": [
+  "kompression paypoqlar",
+  "kompression ichki kiyim",
+  "varikoz uchun paypoq tanlash",
+  "varikozga qarshi paypoqlar"
+ ],
+ "what": "Mutaxassis oyoqlaringizni o‘lchaydi va kerakli o‘lcham hamda siqish darajasidagi paypoq, golf yoki kolgotkalarni tanlaydi.",
+ "why": "Varikoz, oyoq shishi, venalardagi operatsiyalardan keyin, homiladorlikda, shifokor tayinlovi bo‘yicha tromblar profilaktikasi uchun.",
+ "duration": "odatda 15–30 daqiqa",
+ "tell_doctor": [
+  "Shifokor tayinlovi bormi va siqish sinfi qanday",
+  "Oyoq arteriyalari kasalliklari, diabet",
+  "Materiallarga allergiya",
+  "Oyoqlarda yaralar yoki teri muammolari bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Oyoqlar hali shishmagan ertalab kelgan yaxshi."
+  },
+  {
+   "title": "Tayyorgarlik",
+   "text": "Shish kuchli bo‘lsa, ba’zan o‘lchashdan oldin oyoqlarni ko‘tarib yotishni so‘rashadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Oyoqlarni son sohasigacha oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Shifokor tayinlovi",
+  "Vena UZI’si, agar qilingan bo‘lsa",
+  "Qulay poyabzal"
+ ],
+ "steps": [
+  "Mutaxassis tayinlov va shikoyatlar haqida so‘raydi",
+  "O‘tirasiz yoki yotasiz",
+  "To‘piq, boldir, son aylanasi va oyoq uzunligi o‘lchanadi",
+  "O‘lchovlarga qarab o‘lcham va model tanlanadi",
+  "Qanday to‘g‘ri kiyishni ko‘rsatishadi",
+  "Ba’zan kiyib ko‘rishni taklif qilishadi"
+ ],
+ "feel": [
+  "Muolaja og‘riqsiz",
+  "Paypoqlar dastlab tarang tuyuladi: bu normal"
+ ],
+ "after": [
+  "Paypoqni ertalab, hali yotoqda kiyib oling",
+  "Shifokor boshqacha demagan bo‘lsa, tunda yechiladi",
+  "Iliq suvda qo‘lda yuving",
+  "Odatda paypoqlar har 4–6 oyda yangisiga almashtiriladi: ular siqishni yo‘qotadi"
+ ],
+ "red_flags": [
+  "Paypoq ichida barmoqlar ko‘karsa, uyushsa yoki sovuq bo‘lsa, yechib, shifokorga ayting",
+  "Og‘riq, yaralar yoki terining kuchli qizarishi paydo bo‘lsa"
+ ],
+ "faq": [
+  {
+   "q": "O‘lchamsiz paypoq sotib olsa bo‘ladimi?",
+   "a": "Yo‘q, yaxshisi. Noto‘g‘ri o‘lcham yordam bermaydi, ba’zan zarar qiladi."
+  },
+  {
+   "q": "Paypoqni qanday kiyish osonroq?",
+   "a": "Paypoqni tovongacha ag‘daring, panjaga kiyib, yuqoriga yozib boring. Rezina qo‘lqoplar va maxsus moslamalar yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga kompression paypoq tanlash. Oyoqlar shishmasdan ertalab keling. Shifokor tayinlovini oling."
+  }
+ ]
+}

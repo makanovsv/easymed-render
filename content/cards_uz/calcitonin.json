@@ -1,0 +1,78 @@
+{
+ "title": "Kalsitonin va tireoglobulin",
+ "also": [
+  "kalsitonin",
+  "tireoglobulin",
+  "TG",
+  "qalqonsimon bez onkomarkerlari"
+ ],
+ "what": "Bu qalqonsimon bez ajratadigan ikki modda uchun qon tahlili. Shifokor shu orqali tugunlarni va davolashdan keyingi holatni kuzatadi.",
+ "why": "Kalsitonin: qalqonsimon bezdagi tugunlarda va oilada qalqonsimon bezning alohida turdagi saratoni bo‘lgan bo‘lsa, qarindoshlarni tekshirish uchun. Tireoglobulin: qalqonsimon bez olib tashlangandan keyingi nazorat uchun.",
+ "duration": "qon olish bir necha daqiqa, natija odatda 1–5 kunda",
+ "tell_doctor": [
+  "Qalqonsimon bez olib tashlangan yoki radioaktiv yod bilan davolangan bo‘lsa",
+  "Yaqinda qalqonsimon bezdan punksiya olingan bo‘lsa: undan keyin tireoglobulin vaqtincha oshishi mumkin",
+  "Qanday gormon va dorilar ichayotganingizni",
+  "Biotinli vitamin yoki BAD ichsangiz, u natijani buzishi mumkin",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda qon ertalab och qoringa topshiriladi: 8–12 soat ovqatsiz. Oddiy suv ichish mumkin. Laboratoriyadan aniqlashtiring."
+  },
+  {
+   "title": "Oldingi kun",
+   "text": "Bir kun oldin alkogol va og‘ir mashqlardan saqlaning. Ertalab chekmagan ma’qul."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting: tahlildan oldin biror narsani o‘zgartirish kerakmi, shuni u hal qiladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqoriga oson shimariladigan yenglar."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "Shu tahlillarning oldingi natijalari: solishtirish muhim",
+  "Mavjud bo‘lsa, UZI xulosalari va operatsiyadan keyingi epikriz"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lashadi va musht qilib turishni so‘rashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa sanchiq, qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, sanchilgan joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa sanchiq, chimchilashga o‘xshash",
+  "Ba’zan yengil bosh aylanishi: hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Tahlildan keyin ovqatlanish mumkin",
+  "Natijalarni solishtirish oson bo‘lishi uchun takroriy tahlilni bir xil laboratoriyada topshirgan ma’qul"
+ ],
+ "red_flags": [
+  "Sanchilgan joy juda shishsa, og‘risa va qizarsa"
+ ],
+ "faq": [
+  {
+   "q": "Nega tireoglobulin bilan birga unga antitelolar ham olinadi?",
+   "a": "Antitelolar tireoglobulinni aniq o‘lchashga xalaqit berishi mumkin. Shifokorga ikkala natija ham kerak."
+  },
+  {
+   "q": "Kalsitonin yuqori bo‘lsa, bu saratonmi?",
+   "a": "Albatta emas. U boshqa sabablarga ko‘ra ham oshishi mumkin. Keyingi tekshiruv kerakmi, shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga kalsitonin va tireoglobulin tahlili. Kechki ovqatdan keyin ovqat yemang, suv ichish mumkin."
+  }
+ ]
+}

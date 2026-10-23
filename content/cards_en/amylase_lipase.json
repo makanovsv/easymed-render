@@ -1,0 +1,72 @@
+{
+ "title": "Amylase and lipase",
+ "also": [
+  "pancreas blood test",
+  "blood amylase",
+  "blood lipase",
+  "pancreatic enzymes test"
+ ],
+ "what": "This blood test checks two enzymes made by the pancreas. When the pancreas is inflamed, their levels in the blood go up.",
+ "why": "For severe pain in the upper belly, especially pain that spreads to the back, when pancreatitis is suspected, and to follow pancreas conditions.",
+ "duration": "the blood draw usually takes 5 minutes; urgent results come in a few hours, usually in 1 to 2 days",
+ "tell_doctor": [
+  "When the pain started and where it hurts",
+  "If you drank alcohol or ate fatty food the day before",
+  "All the medicines you take",
+  "If you have gallstones"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually on an empty stomach: 8 to 12 hours without food. Water is fine. If your belly hurts badly, the test is done right away. Do not wait."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol or fatty food."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Tell your doctor what you take."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "Past test results, if any"
+ ],
+ "steps": [
+  "You sit down, and a band is tied above your elbow",
+  "The skin is wiped with antiseptic",
+  "Blood is taken from a vein into a tube",
+  "The band is removed, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Results usually come in 1 to 2 days, urgent ones in a few hours",
+  "The doctor reads the test together with your symptoms and an ultrasound"
+ ],
+ "red_flags": [
+  "Severe belly pain spreading to the back, with vomiting: call emergency services",
+  "Pain with fever or yellow skin or eyes: see a doctor right away or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "If the enzymes are normal, is there definitely no pancreatitis?",
+   "a": "Not always. Sometimes the enzymes drop quickly. The doctor also looks at your pain and an ultrasound."
+  },
+  {
+   "q": "How is lipase different from amylase?",
+   "a": "Lipase points more precisely to the pancreas. Amylase can be high for other reasons too."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amylase and lipase test tomorrow. Do not eat after dinner, and no alcohol. Water is fine."
+  }
+ ]
+}

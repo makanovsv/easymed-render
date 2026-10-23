@@ -1,0 +1,78 @@
+{
+ "title": "Diabetda ko‘z ko‘rigi",
+ "also": [
+  "diabetda ko‘z tubi ko‘rigi",
+  "diabetik retinopatiya",
+  "diabetikning to‘r pardasini tekshirish"
+ ],
+ "what": "Oftalmolog kengaytirilgan qorachiq orqali to‘r pardani ko‘radi. Shunday qilib diabetdan bo‘lgan o‘zgarishlar hali to‘xtatish mumkin bo‘lganda erta topiladi.",
+ "why": "Diabetli odamlarga — odatda yilda bir marta, o‘zgarishlar bo‘lsa — tez-tez.",
+ "duration": "tomchi kutish bilan birga odatda 30–60 daqiqa, natija darhol",
+ "tell_doctor": [
+  "Diabet turi va necha yildan beri kasalligingiz",
+  "Glikirlangan gemoglobinga oxirgi tahlil",
+  "Qon bosimi yuqori bo‘lsa",
+  "Lazer yoki ko‘zga ukol qilinganmi",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat va dorilar",
+   "text": "Odatdagidek ovqatlaning va dorilarni iching."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Tomchidan keyin mashina haydash qiyin — hamroh bilan kelgan ma’qul."
+  },
+  {
+   "title": "Quyosh",
+   "text": "Quyoshdan saqlovchi ko‘zoynak oling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Ko‘zoynak",
+  "Oxirgi tahlillar",
+  "Quyoshdan saqlovchi ko‘zoynak",
+  "Glyukometr va tamaddi"
+ ],
+ "steps": [
+  "Ko‘rish o‘tkirligi va ko‘z bosimi tekshiriladi",
+  "Qorachiqlarni kengaytirish uchun tomchi tomiziladi",
+  "20–30 daqiqa kutasiz",
+  "Shifokor linza yordamida ko‘z tubini ko‘radi",
+  "Ba’zan to‘r pardaning surati yoki OKT olinadi"
+ ],
+ "feel": [
+  "Tomchi biroz achishtirishi mumkin",
+  "Ko‘rik paytida yorqin yorug‘lik",
+  "Tomchidan keyin bir necha soat yaqinni xira ko‘rasiz va yorug‘lik ko‘zni qamashtiradi"
+ ],
+ "after": [
+  "Tomchi ta’siri o‘tmaguncha rulga o‘tirmang",
+  "Natijani darhol aytishadi",
+  "Keyingi ko‘rik — shifokor rejasiga ko‘ra",
+  "Qand va qon bosimini nazorat qilish ko‘zni asraydi"
+ ],
+ "red_flags": [
+  "Ko‘rishning keskin yomonlashuvi",
+  "Ko‘z oldida qora parda yoki ko‘p pashshachalar",
+  "Yorug‘lik chaqnashlari"
+ ],
+ "faq": [
+  {
+   "q": "Yaxshi ko‘rsam, nega borishim kerak?",
+   "a": "To‘r parda o‘zgarishlari uzoq vaqt sezilmaydi. Ko‘rik ularni erta topadi."
+  },
+  {
+   "q": "Diabetda ko‘rishni saqlab qolish mumkinmi?",
+   "a": "Ha. Qand va qon bosimini nazorat qilish hamda muntazam ko‘riklar muhim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ko‘z ko‘rigi. Odatdagidek ovqatlaning va dorilarni iching. Rulga o‘tmagan ma’qul."
+  }
+ ]
+}

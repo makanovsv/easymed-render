@@ -1,0 +1,68 @@
+{
+ "title": "Uroflowmetriya",
+ "also": [
+  "uroflowmetriya",
+  "siyish tezligini o‘lchash",
+  "uroflow"
+ ],
+ "what": "Siz maxsus hojatxonaga yoki voronkaga siyasiz, asbob esa siydik qanchalik tez va qancha chiqishini o‘lchaydi.",
+ "why": "Oqim sust bo‘lganda, tez-tez istakda, siydik pufagi to‘liq bo‘shamagandek his bo‘lganda. Ko‘pincha prostata muammolarida.",
+ "duration": "kutish bilan birga odatda 15–30 daqiqa",
+ "tell_doctor": [
+  "Prostata yoki siydik pufagi uchun qanday dorilar ichayotganingizni — ularni o‘zingiz bekor qilmang",
+  "Kateter qo‘yilgan yoki yaqinda siydik yo‘llarida operatsiya bo‘lgan bo‘lsa",
+  "Hozir siyganda og‘riq yoki achishish bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "To‘la siydik pufagi",
+   "text": "Kuchli istak bilan keling. Odatda tekshiruvdan 1–2 soat oldin 0,5–1 litr suv ichishadi."
+  },
+  {
+   "title": "Bo‘shatmang",
+   "text": "Tekshiruvdan oldin hojatxonaga bormang. Sabr qilish juda qiyin bo‘lsa — xodimlarga ayting."
+  },
+  {
+   "title": "Vaqt zaxirasi",
+   "text": "Biroz oldinroq keling. Istak hali sust bo‘lsa, klinikada kutib, suv ichish mumkin."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Suv shishasi",
+  "Siyish kundaligi, shifokor yuritishni so‘ragan bo‘lsa"
+ ],
+ "steps": [
+  "Kuchli istak paydo bo‘lganda sizni alohida xonaga olib borishadi",
+  "Siz yolg‘iz qolasiz",
+  "Maxsus hojatxonaga yoki voronkaga odatdagidek siyasiz",
+  "Asbob tezlik va hajmni o‘zi yozadi",
+  "Ko‘pincha shundan keyin UZIda pufakda qancha siydik qolganini tekshirishadi"
+ ],
+ "feel": [
+  "Yoqimsiz hech narsa yo‘q — oddiy siyish",
+  "Noqulay bo‘lishi mumkin, lekin siz yolg‘iz bo‘lasiz"
+ ],
+ "after": [
+  "Darrov odatdagi ishlaringizga qaytsa bo‘ladi",
+  "Natija odatda darrov, uni urolog tushuntiradi",
+  "Siydik oz bo‘lsa, tekshiruv ba’zan takrorlanadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Uroflowmetriyadan oldin qancha suv ichish kerak?",
+   "a": "Odatda 1–2 soat ichida 0,5–1 litr. Asosiysi — kuchli istak bilan kelish va tekshiruvgacha hojatxonaga bormaslik."
+  },
+  {
+   "q": "Tekshiruv nega ba’zan takrorlanadi?",
+   "a": "Siydik oz bo‘lsa yoki hayajonlansangiz, natija noaniq bo‘lishi mumkin. Shunda uni takrorlashadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada uroflowmetriya. 0,5–1 litr suv iching va tekshiruvgacha hojatxonaga bormang."
+  }
+ ]
+}

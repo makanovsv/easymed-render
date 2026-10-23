@@ -1,0 +1,70 @@
+{
+ "title": "Psixiatr va narkolog ma’lumotnomalari",
+ "also": [
+  "psixiatr ma’lumotnomasi",
+  "narkolog ma’lumotnomasi",
+  "ruhiy asab dispanseri ma’lumotnomasi",
+  "narkodispanser ma’lumotnomasi",
+  "haydovchilik guvohnomasi uchun ma’lumotnoma"
+ ],
+ "what": "Psixiatr va narkologda hisobda turmasligingiz haqidagi ma’lumotnomalar. Ularni dispanserda yoki shunday shifokorlar bor klinikada berishadi.",
+ "why": "Haydovchilik guvohnomasi, qurol ruxsatnomasi, ish, o‘qish, homiylik va boshqa hujjatlar uchun.",
+ "duration": "odatda 15–60 daqiqa, ma’lumotnomani ko‘pincha o‘sha kuni berishadi",
+ "tell_doctor": [
+  "Ma’lumotnoma nima uchun kerak: uning turi shunga bog‘liq",
+  "Avval psixiatr yoki narkologga murojaat qilgan bo‘lsangiz",
+  "Doimiy qanday dorilar qabul qilasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Qayerga borish",
+   "text": "Odatda ro‘yxatdan o‘tgan joyingizdagi dispanserga yoki litsenziyali klinikaga. Qayerda va qaysi soatlarda qabul qilishlarini oldindan aniqlab oling."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Hech bo‘lmaganda bir kun alkogol ichmang. Narkolog asbobga puflashni yoki siydik topshirishni so‘rashi mumkin."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Tinchlantiruvchi yoki kuchli og‘riq qoldiruvchi ichsangiz, shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Ishda yoki avtomaktabda berilgan bo‘lsa, yo‘llanma yoki blank",
+  "Surat, agar so‘ralsa: klinikadan aniqlab oling"
+ ],
+ "steps": [
+  "Siz registraturada ro‘yxatdan o‘tasiz",
+  "Sizni hisob bazasi bo‘yicha tekshirishadi",
+  "Shifokor siz bilan qisqa suhbatlashadi va savollar beradi",
+  "Narkolog ba’zan alkogolga test o‘tkazishni yoki siydik topshirishni so‘raydi",
+  "Siz muhrli ma’lumotnoma olasiz"
+ ],
+ "feel": [
+  "Oddiy suhbat, yoqimsiz muolajalarsiz",
+  "Hayajonlanish mumkin: bu tabiiy, savollar standart"
+ ],
+ "after": [
+  "Ma’lumotnomada ism, sana va maqsadni tekshiring",
+  "Ma’lumotnomaning amal qilish muddatini bilib oling: u turlicha bo‘ladi",
+  "Ma’lumotnoma darhol berilmasa, uni qachon olishni so‘rang"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bir paytlar psixiatrda bo‘lgan bo‘lsam, ma’lumotnoma berishmaydimi?",
+   "a": "Shart emas. Shifokor hal qiladi, ko‘p narsa hisob bor-yo‘qligiga va qanday sababga ko‘ra ekaniga bog‘liq."
+  },
+  {
+   "q": "Ma’lumotnomalarni bitta klinikada olsa bo‘ladimi?",
+   "a": "Ko‘pincha ha, klinikada ikkala shifokor va kerakli litsenziya bo‘lsa. Oldindan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ma’lumotnomalar uchun borasiz. Hujjat va blankni oling. Bugun alkogolsiz."
+  }
+ ]
+}

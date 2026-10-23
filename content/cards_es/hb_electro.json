@@ -1,0 +1,64 @@
+{
+ "title": "Electroforesis de hemoglobina (talasemia)",
+ "also": [
+  "prueba de talasemia",
+  "fracciones de hemoglobina",
+  "electroforesis de Hb",
+  "tipos de hemoglobina"
+ ],
+ "what": "El análisis de sangre muestra qué tipos de hemoglobina hay en tu sangre y en qué cantidad. Así se encuentran características hereditarias, como la talasemia.",
+ "why": "Si los glóbulos rojos son pequeños con el hierro normal, si hay anemia hereditaria en la familia, o antes o durante el embarazo.",
+ "duration": "la toma de sangre suele durar 5 minutos; el resultado suele estar en unos días",
+ "tell_doctor": [
+  "Si te hicieron una transfusión en los últimos 3 meses",
+  "Si te falta hierro o lo estás tomando",
+  "Si estás embarazada",
+  "Si tus familiares tienen anemia o talasemia"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayunar. Si te haces otros análisis al mismo tiempo, pregunta en el laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta, tampoco el hierro. Solo dile al médico qué tomas."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Biometrías hemáticas y análisis de hierro anteriores"
+ ],
+ "steps": [
+  "Te sientas y te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Toman sangre de la vena en un tubo",
+  "Quitan la liga y ponen un algodón"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "El resultado suele estar en unos días",
+  "Si resultas portador, el médico puede proponer revisar a tu pareja y a tus familiares"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Ser portador de talasemia es una enfermedad?",
+   "a": "Normalmente no. El portador vive como todos, a veces con una anemia leve. Es importante saberlo al planear hijos."
+  },
+  {
+   "q": "¿Me ayudarán las pastillas de hierro?",
+   "a": "Solo si de verdad te falta hierro. Lo decide el médico: el hierro de más puede hacer daño."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de tipos de hemoglobina. Lleva tus análisis de sangre anteriores."
+  }
+ ]
+}

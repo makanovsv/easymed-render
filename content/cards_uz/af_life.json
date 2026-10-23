@@ -1,0 +1,75 @@
+{
+ "title": "Bo‘lmachalar fibrillyatsiyasi bilan yashash",
+ "also": [
+  "yurak titrashi",
+  "bo‘lmachalar fibrillyatsiyasi",
+  "miltillovchi aritmiya",
+  "notekis puls"
+ ],
+ "what": "Bo‘lmachalar fibrillyatsiyasida yurak notekis uradi. Asosiy xavf — qon tromblari va insult, shuning uchun dorilar va nazorat muhim.",
+ "why": "Agar shifokor EKG da bo‘lmachalar fibrillyatsiyasini topgan bo‘lsa.",
+ "duration": "davo odatda uzoq davom etadi, shifokor nazorati — jadval bo‘yicha",
+ "tell_doctor": [
+  "Yurak uzilishlari, tez urishi yoki nafas qisilishini sezsangiz",
+  "Barcha dorilar va qo‘shimchalar — ayniqsa qonni suyultiradigan dorilar ichsangiz",
+  "Qon ketish bo‘lgan bo‘lsa",
+  "Har qanday operatsiya yoki tish olishdan oldin"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Ularni har kuni iching, o‘tkazib yubormang va o‘zingiz bekor qilmang."
+  },
+  {
+   "title": "Puls",
+   "text": "Pulsni sanashni o‘rganing yoki aritmiyani ko‘rsatadigan tonometrdan foydalaning."
+  },
+  {
+   "title": "Boshqa shifokorlar",
+   "text": "Har bir shifokor va stomatologga qanday dorilar ichayotganingizni ayting."
+  }
+ ],
+ "bring": [
+  "Dorilar ro‘yxati",
+  "Oxirgi EKG va epikrizlar",
+  "Bosim va puls kundaligi"
+ ],
+ "steps": [
+  "Dorilarni har kuni bir vaqtda iching",
+  "Bosim va pulsni o‘lchab, yozib boring",
+  "Alkogolni cheklang — u ko‘pincha xurujlarni keltirib chiqaradi",
+  "Yaxshi uxlang va har kuni harakat qiling",
+  "Shifokor buyurgan tahlillarni topshiring",
+  "Nazorat ko‘riklariga boring"
+ ],
+ "feel": [
+  "Ba’zan ko‘krakda uzilish yoki titrash seziladi",
+  "Ko‘pchilik hech narsani sezmaydi — bu ham normal"
+ ],
+ "after": [
+  "Qonni suyultiradigan dorilar ichsangiz, qon ketish belgilariga e’tibor bering",
+  "Shifokor maslahatisiz yangi dori va giyohlarni boshlamang",
+  "Yaqinlaringizga insult belgilarini aytib qo‘ying"
+ ],
+ "red_flags": [
+  "Yuz qiyshayishi, qo‘lda kuchsizlik, nutq buzilishi — tez yordamni chaqiring (103)",
+  "Ko‘krak og‘rig‘i, kuchli nafas qisilishi, hushdan ketish — tez yordamni chaqiring (103)",
+  "Peshobda qon, qora najas, kuchli qon ketish — shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Bo‘lmachalar fibrillyatsiyasi xavflimi?",
+   "a": "O‘zi ko‘pincha hayot uchun xavfli emas, lekin insult xavfini oshiradi. Davo bu xavfni kamaytiradi."
+  },
+  {
+   "q": "Sport bilan shug‘ullansa bo‘ladimi?",
+   "a": "Odatda o‘rtacha yuk foydali. Uni shifokor bilan tanlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Yurak dorilarini ichish vaqti. Pulsingiz va bosimingizni o‘lchang."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Nafasdagi azot oksidi (FeNO)",
+ "also": [
+  "FeNO",
+  "chiqarilgan nafasdagi azot oksidi",
+  "bronxlardagi yallig‘lanishga test",
+  "NO-test"
+ ],
+ "what": "Siz kichik asbobga sekin nafas chiqarasiz. U bronxlarda ma’lum turdagi yallig‘lanish bor-yo‘qligini ko‘rsatadi.",
+ "why": "Astmaga shubha qilinganda va ingalyatorlar bilan davo qanday ishlayotganini tekshirish uchun.",
+ "duration": "odatda 5–10 daqiqa, natija darhol",
+ "tell_doctor": [
+  "Qanday ingalyator va dorilardan foydalanayotganingiz",
+  "Yaqinda shamollagan bo‘lsangiz",
+  "Chekasizmi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda testdan 1 soat oldin suvdan boshqa narsa yemang va ichmang. Testdan oldin ko‘pincha nitratli ovqatni yemaslikni so‘rashadi: lavlagi, bargli salat. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Chekish",
+   "text": "Test kuni chekmang."
+  },
+  {
+   "title": "Yuklama",
+   "text": "Testdan bir soat oldin jismoniy yuklamasiz."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Ingalyatorlarni o‘zingiz bekor qilmang. Oxirgi marta qachon ishlatganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Dorilar va ingalyatorlar ro‘yxati"
+ ],
+ "steps": [
+  "Asbob yonida o‘tirasiz",
+  "Og‘izlik orqali chuqur nafas olasiz",
+  "Taxminan 10 soniya sekin va tekis nafas chiqarasiz",
+  "Ekrandagi ko‘rsatma nafas chiqarish kuchini kerakli darajada ushlashga yordam beradi",
+  "Odatda 2–3 marta takrorlanadi"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Ba’zan tekis nafas chiqarish qiyin — ko‘rsatma bilan uddalanadi"
+ ],
+ "after": [
+  "Natija odatda darhol ko‘rinadi",
+  "Shifokor uni boshqa tekshiruvlar bilan birga tushuntiradi",
+  "Darhol odatdagi ishlarga qaytish mumkin"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Test astmani ko‘rsatadimi?",
+   "a": "U bronxlardagi yallig‘lanishni ko‘rsatadi. Tashxisni shifokor boshqa tekshiruvlar bilan birga qo‘yadi."
+  },
+  {
+   "q": "Bolalarga mumkinmi?",
+   "a": "Ha, odatda 5–6 yoshdan, bola tekis nafas chiqara olsa."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga FeNO testi. Ertalab chekmang. Testdan bir soat oldin ovqatlanmang va sport bilan shug‘ullanmang."
+  }
+ ]
+}

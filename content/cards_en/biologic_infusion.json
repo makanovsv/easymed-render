@@ -1,0 +1,79 @@
+{
+ "title": "Biologic therapy infusion",
+ "also": [
+  "biologic therapy",
+  "biologic drug infusion",
+  "biologics",
+  "biologic IV drip"
+ ],
+ "what": "A special medicine that targets one part of the immune system is given through a drip into a vein. The infusion is repeated at set intervals.",
+ "why": "For rheumatoid arthritis, Crohn's disease, ulcerative colitis, psoriasis, and other immune diseases.",
+ "duration": "the infusion usually takes 1 to 3 hours including observation; it is repeated every few weeks, on a schedule",
+ "tell_doctor": [
+  "A fever, cough, or any infection right now",
+  "Tuberculosis or contact with it, and hepatitis",
+  "Pregnancy or plans for it",
+  "Planned vaccinations or surgeries",
+  "Reactions to past infusions"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Before starting, tuberculosis, hepatitis, and blood tests are usually checked."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop your usual medicines on your own."
+  },
+  {
+   "title": "Time",
+   "text": "Bring water, a snack, and something to do for a few hours."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "An ID",
+  "A list of your medicines",
+  "Water, a snack, headphones"
+ ],
+ "steps": [
+  "A nurse measures your blood pressure, pulse, and temperature",
+  "A line is placed in a vein",
+  "Sometimes anti-allergy medicine is given first",
+  "The drip is connected, and the speed is raised gradually",
+  "The nurse watches how you feel",
+  "After the drip, you stay a little while under observation"
+ ],
+ "feel": [
+  "The drip itself usually does not hurt",
+  "Sometimes a headache or tiredness on the infusion day",
+  "Heat, itching, or a rash during the infusion: tell the nurse right away"
+ ],
+ "after": [
+  "You can usually go back to your normal activities right away",
+  "Wash your hands and avoid contact with sick people",
+  "Live vaccines only after checking with your doctor",
+  "Come for the next infusion on time"
+ ],
+ "red_flags": [
+  "Shortness of breath, swollen face, or a rash: call emergency services",
+  "A fever of 38°C (100.4°F) or higher, or a cough: call your doctor",
+  "Any infection: tell your doctor before the next infusion"
+ ],
+ "faq": [
+  {
+   "q": "Why do they check for tuberculosis?",
+   "a": "The medicine lowers part of your defenses. A hidden infection can wake up, so it is looked for beforehand."
+  },
+  {
+   "q": "Can I skip an infusion?",
+   "a": "It is better not to. If you are sick or something gets in the way, call your doctor, who will decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Biologic therapy infusion tomorrow. If you have a fever or an infection, call the clinic before the visit."
+  }
+ ]
+}

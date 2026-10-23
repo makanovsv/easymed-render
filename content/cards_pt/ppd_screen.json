@@ -1,0 +1,74 @@
+{
+ "title": "Triagem de depressão pós-parto",
+ "also": [
+  "depressão pós-parto",
+  "questionário pós-parto",
+  "escala de Edimburgo",
+  "humor depois do parto"
+ ],
+ "what": "Você responde a um questionário curto sobre humor e bem-estar. Isso ajuda a perceber a tempo a depressão pós-parto.",
+ "why": "Normalmente nas primeiras semanas e meses depois do parto. Às vezes, ainda na gravidez.",
+ "duration": "normalmente de 5 a 10 minutos; o médico conversa sobre o resultado na hora",
+ "tell_doctor": [
+  "Como você está dormindo e comendo",
+  "Se tem ansiedade, choro ou irritação",
+  "Se já teve depressão antes",
+  "Se tem apoio em casa",
+  "Se tiver pensamentos de machucar você ou o bebê, conte sem falta. Você vai receber ajuda"
+ ],
+ "prepare": [
+  {
+   "title": "Sinceridade",
+   "text": "Responda como as coisas realmente estão. Não há respostas certas ou erradas."
+  },
+  {
+   "title": "Período",
+   "text": "Responda sobre como você se sentiu nas últimas 1 a 2 semanas."
+  },
+  {
+   "title": "Apoio",
+   "text": "Você pode ir com uma pessoa próxima."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Lista de remédios",
+  "O bebê pode ir junto, se permitirem"
+ ],
+ "steps": [
+  "Entregam um questionário em papel ou no celular",
+  "Você responde a cerca de 10 perguntas",
+  "O médico soma os pontos",
+  "Conversa com você sobre o resultado",
+  "Se precisar, oferece ajuda ou consulta com especialista"
+ ],
+ "feel": [
+  "As perguntas podem ser pessoais. Isso é normal",
+  "Às vezes é difícil admitir que está pesado. O médico vai entender"
+ ],
+ "after": [
+  "Se a pontuação for baixa, continue prestando atenção em você",
+  "Se for alta, o médico vai oferecer apoio, consulta ou tratamento",
+  "Peça ajuda às pessoas próximas: sono e descanso são muito importantes"
+ ],
+ "red_flags": [
+  "Pensamentos de machucar você ou o bebê: ligue para a emergência ou procure o médico na hora",
+  "Não consegue dormir, comer ou cuidar do bebê por muitos dias seguidos"
+ ],
+ "faq": [
+  {
+   "q": "Isso quer dizer que sou uma mãe ruim?",
+   "a": "Não. A depressão pós-parto é comum e tem tratamento."
+  },
+  {
+   "q": "Qual a diferença entre tristeza pós-parto e depressão?",
+   "a": "A tristeza normalmente passa em 1 a 2 semanas. Se durar mais ou for mais forte, conte ao médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta sobre como você está depois do parto. Responda às perguntas com sinceridade. Isso ajuda."
+  }
+ ]
+}

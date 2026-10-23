@@ -1,0 +1,80 @@
+{
+ "title": "Diabetik oyoqda bog‘lov",
+ "also": [
+  "diabetik oyoq",
+  "diabetda oyoq bog‘lovi",
+  "diabetda oyoqdagi yara",
+  "oyoq yarasini davolash"
+ ],
+ "what": "Hamshira yoki shifokor oyoqdagi yarani tozalaydi, o‘lgan to‘qimalarni olib tashlaydi va bog‘lov qo‘yadi. Yara bitguncha buni muntazam takrorlashadi.",
+ "why": "Qandli diabeti bor odamlarda oyoq yaralari va jarohatlarida.",
+ "duration": "bog‘lov odatda 15–40 daqiqa; davolash — haftalar va oylar",
+ "tell_doctor": [
+  "So‘nggi paytdagi qand darajasi",
+  "Oyoqning harorati, shishi yoki qizarishi",
+  "Yangi yaralar yoki qadoqlar",
+  "Barcha dorilar",
+  "Yurganda oyoq og‘riydimi"
+ ],
+ "prepare": [
+  {
+   "title": "Yuklamani kamaytirish",
+   "text": "Yaraga tayanmang. Shifokor tayinlagan yuklamani kamaytiradigan poyabzal yoki bog‘lovdan foydalaning."
+  },
+  {
+   "title": "Qand",
+   "text": "Qandni maqsadli raqamlarda ushlang — yara bitishi shunga bog‘liq."
+  },
+  {
+   "title": "Poyabzal",
+   "text": "Bog‘lov sig‘adigan, choksiz yumshoq poyabzal."
+  }
+ ],
+ "bring": [
+  "Glyukometr yoki qand yozuvlari",
+  "Dorilar ro‘yxati",
+  "Yuklamani kamaytiradigan poyabzal",
+  "Hujjat"
+ ],
+ "steps": [
+  "Eski bog‘lov olinadi",
+  "Yara yuvilib, ko‘rib chiqiladi",
+  "O‘lgan to‘qima ehtiyotkorlik bilan olib tashlanadi",
+  "Yara ishlov berilib, yangi bog‘lov qo‘yiladi",
+  "Shifokor yara qanday bitayotganini baholaydi",
+  "Keyingi bog‘lov qachonligini aytishadi"
+ ],
+ "feel": [
+  "Diabetda og‘riq ko‘pincha kam seziladi — bu yara xavfsiz degani emas",
+  "Ba’zan yarani tozalash noxush bo‘ladi",
+  "Odatda chidasa bo‘ladi"
+ ],
+ "after": [
+  "Bog‘lovni ho‘llamang va o‘zingiz yechmang",
+  "Har kuni ikkala oyoq kaftini ko‘zgu bilan ko‘rib turing",
+  "Yalangoyoq yurmang",
+  "Bog‘lovga jadval bo‘yicha keling"
+ ],
+ "red_flags": [
+  "Harorat, titroq",
+  "Tarqalayotgan qizarish, shish, yoqimsiz hid",
+  "Oyoq kafti sovuq, oqargan yoki qoraygan — zudlik bilan shifokorga",
+  "Qand juda yuqori va pasaymayapti"
+ ],
+ "faq": [
+  {
+   "q": "Yara nega uzoq bitmaydi?",
+   "a": "Diabetda qon ta’minoti va infeksiyadan himoya yomonroq. Yuklamani kamaytirish, qandni nazorat qilish va muntazam bog‘lovlar yordam beradi."
+  },
+  {
+   "q": "Yarani uyda malhamlar bilan davolasa bo‘ladimi?",
+   "a": "Shifokor tayinlamagan vositalarni ishlatmang. Noto‘g‘ri parvarish yarani yomonlashtirishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga oyoq bog‘lovi. Qand yozuvlari va yuklamani kamaytiradigan poyabzalni oling."
+  }
+ ]
+}

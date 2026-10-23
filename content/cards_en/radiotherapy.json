@@ -1,0 +1,79 @@
+{
+ "title": "Radiation therapy: how a course goes",
+ "also": [
+  "radiation therapy",
+  "radiotherapy",
+  "radiation treatment",
+  "RT"
+ ],
+ "what": "A machine directs precisely planned beams at the tumor. A session is short and painless, and a course lasts several weeks.",
+ "why": "For cancer, either alone or together with surgery and chemotherapy.",
+ "duration": "a session usually takes 10 to 30 minutes, with the beam on for only a few minutes; a course lasts from a few days to 6 to 8 weeks",
+ "tell_doctor": [
+  "A pacemaker or other device in your body",
+  "Pregnancy, or if you could be pregnant",
+  "If you have had radiation before",
+  "All medicines, vitamins and herbs",
+  "If it is hard for you to lie still or in one position"
+ ],
+ "prepare": [
+  {
+   "title": "Marking",
+   "text": "Before the course, a planning CT scan is done and marks are put on your skin. Do not wash them off."
+  },
+  {
+   "title": "Skin",
+   "text": "Care for the skin in the treated area as your doctor says. Do not put your own creams on it unless allowed."
+  },
+  {
+   "title": "Clothing",
+   "text": "Soft, loose cotton clothes."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You change and lie on the table",
+  "You are placed in the same position using the marks, sometimes with a mask or a support",
+  "The staff leave the room but can see and hear you",
+  "The machine moves around you and sometimes hums",
+  "The beam is on for a few minutes",
+  "After the session you go straight home"
+ ],
+ "feel": [
+  "You do not feel the session itself",
+  "Tiredness builds up toward the middle of the course",
+  "The skin in the treated area may turn red and peel",
+  "Other effects depend on the treated area. The doctor will explain"
+ ],
+ "after": [
+  "After external radiation you do not give off radiation. You can hug children",
+  "Do not skip sessions without agreeing it with your doctor",
+  "Drink water, eat well and rest",
+  "Do not rub, warm or sunbathe the treated skin"
+ ],
+ "red_flags": [
+  "Fever of 38 or higher",
+  "Open sores or blisters on the treated skin",
+  "Severe pain, vomiting or diarrhea so you cannot eat or drink"
+ ],
+ "faq": [
+  {
+   "q": "Will I be radioactive after a session?",
+   "a": "No. With external radiation you do not give off radiation and are not a danger to your family."
+  },
+  {
+   "q": "Can I wash?",
+   "a": "Usually yes, with warm water and a mild product. Do not rub the treated area. Check with your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Radiation therapy session tomorrow. Do not wash off the marks on your skin, and wear soft clothes."
+  }
+ ]
+}

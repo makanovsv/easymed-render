@@ -1,0 +1,79 @@
+{
+ "title": "VIH: carga viral y CD4",
+ "also": [
+  "carga viral de VIH",
+  "ARN de VIH",
+  "conteo de CD4",
+  "estado inmunológico",
+  "linfocitos CD4"
+ ],
+ "what": "Es un análisis de sangre para personas con VIH. Muestra cuánto virus hay en la sangre y cuántas células de defensa tienes.",
+ "why": "Para decidir cómo empezar el tratamiento y revisar con regularidad que funcione.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en unos días",
+ "tell_doctor": [
+  "Si te saltaste pastillas",
+  "Si hace poco estuviste enfermo, tuviste fiebre o te vacunaste: puede cambiar el resultado por un tiempo",
+  "Qué otros medicamentos y suplementos tomas",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayuno estricto, pero es mejor ir 3 o 4 horas después de una comida ligera, sin grasa. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Tratamiento",
+   "text": "Toma tus pastillas como siempre, a tu hora. No te las saltes antes del análisis."
+  },
+  {
+   "title": "Cómo te sientes",
+   "text": "Si ahora tienes gripa o fiebre, díselo al médico: quizá sea mejor cambiar la fecha del análisis."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "Resultados anteriores",
+  "La lista de todos tus medicamentos"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Sigue el tratamiento sin interrupciones",
+  "El resultado es confidencial. Solo lo recibes tú o tu médico."
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y está rojo",
+  "Fiebre alta por varios días, mucha falta de aire o confusión: ve al médico de inmediato o llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué significa «virus indetectable»?",
+   "a": "Que el tratamiento funciona. Si el virus se mantiene indetectable, el VIH no se transmite por vía sexual. Aun así, el tratamiento continúa."
+  },
+  {
+   "q": "¿Por qué el CD4 cambia de un análisis a otro?",
+   "a": "Depende de cómo te sientes, de la hora del día y hasta del laboratorio. El médico mira los cambios a lo largo de varios análisis."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de carga viral y CD4. Tus pastillas, como siempre y sin saltarte ninguna."
+  }
+ ]
+}

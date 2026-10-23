@@ -1,0 +1,89 @@
+{
+ "title": "Kompleks chekap",
+ "also": [
+  "chek-ap",
+  "kompleks tekshiruv",
+  "organizmni tekshirish",
+  "dispanserizatsiya"
+ ],
+ "what": "Bir yoki bir necha tashrifda o‘tkaziladigan tahlillar, tekshiruvlar va shifokor ko‘riklari to‘plami. Muammolar hali bezovta qilmayotgan paytda ularni topishga yordam beradi.",
+ "why": "Profilaktika uchun: odatda yilda bir marta. Dastur yosh, jins va irsiyatga qarab tanlanadi.",
+ "duration": "odatda 2–4 soat, ba’zan bir necha kunga cho‘ziladi",
+ "tell_doctor": [
+  "Sizni nima bezovta qilayotganini, mayda narsa bo‘lsa ham",
+  "Qanday dorilar va qo‘shimchalar ichayotganingizni",
+  "Ota-ona, aka-uka va opa-singillardagi kasalliklarni",
+  "Homiladorlik mumkinmi"
+ ],
+ "prepare": [
+  {
+   "title": "Ochlik",
+   "text": "Qon tahlillaridan oldin odatda 8–12 soat ovqatsiz. Gazsiz toza suv ichish mumkin."
+  },
+  {
+   "title": "Oldingi kun",
+   "text": "Yengil kechki ovqat, 1–2 kun alkogolsiz, og‘ir mashqlar va hammomsiz."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ertalabki dorilarni qon topshirishdan oldin yoki keyin ichish kerakligini klinikadan so‘rang."
+  },
+  {
+   "title": "Siydik tahlili",
+   "text": "Ertalabki siydikni dorixonadan olingan steril idishga yig‘ing."
+  },
+  {
+   "title": "Ayollarga",
+   "text": "Surtmalar bo‘lsa, hayz paytida emas ma’qul: klinikadan aniqlashtiring."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Ertalabki siydikli idish",
+  "Oldingi tahlillar va xulosalar",
+  "Dorilar ro‘yxati",
+  "Qon topshirgandan keyin yeyish uchun yengil taom va suv"
+ ],
+ "steps": [
+  "Ertalab och qoringa qon topshiriladi",
+  "Och qoringa o‘tkaziladigan tekshiruvlar qilinadi, masalan qorin UZI’si",
+  "Keyin yengil ovqatlanish mumkin",
+  "Keyin EKG va dastur bo‘yicha boshqa tekshiruvlar",
+  "Shifokor ko‘riklari",
+  "Oxirida shifokor natijalarni muhokama qiladi va tavsiyalar beradi"
+ ],
+ "feel": [
+  "Qon topshirishdagi sanchiq qisqa",
+  "Qolganlarida odatda yoqimsiz narsa yo‘q, lekin kun charchatishi mumkin"
+ ],
+ "after": [
+  "Natijalarning bir qismi o‘sha kuni tayyor bo‘ladi, qolganlari bir necha kunda",
+  "Biror narsa topilsa, shifokor keyin nima qilishni aytadi",
+  "Natijalarni saqlab qo‘ying: kelgusi yil solishtirish uchun kerak bo‘ladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Chekapni qanchalik tez-tez o‘tish kerak?",
+   "a": "Odatda yilda bir marta. Surunkali kasalliklar bo‘lsa, shifokor o‘z jadvalini tayinlashi mumkin."
+  },
+  {
+   "q": "Tahlildan oldin suv ichsa bo‘ladimi?",
+   "a": "Ha, gazsiz toza suv mumkin. Choy, qahva, sharbat va saqich mumkin emas."
+  },
+  {
+   "q": "Hech narsa og‘rimasa, chekap nega kerak?",
+   "a": "Ko‘p kasalliklar uzoq vaqt sezilmay kechadi: bosim, qand, xolesterin. Chekap ularni erta topadi, shunda davolash osonroq."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 36,
+   "text": "Ertadan keyin ertalab chekap. Bugundan boshlab alkogolsiz va og‘ir mashqlarsiz."
+  },
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga chekap. Yengil kechki ovqatdan keyin ovqat yemang. Gazsiz suv mumkin. Siydik uchun idishni tayyorlab qo‘ying."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "title": "Yoshga qarab onkoskrining: nima va qachon",
+ "also": [
+  "onkoskrining",
+  "saratonga tekshiruv",
+  "saraton skrininggi",
+  "onkologiya profilaktikasi"
+ ],
+ "what": "Bu hali hech narsa bezovta qilmayotgan paytda saratonni erta bosqichda topishga yordam beradigan tekshiruvlar. To‘plam yosh va jinsga bog‘liq.",
+ "why": "Barcha kattalarga yoshiga qarab; yaqin qarindoshlarda saraton bo‘lgan yoki boshqa xavf omillari bo‘lsa, ertaroq va tez-tez.",
+ "duration": "qabul odatda 15–30 daqiqa, tekshiruvlarning o‘zi turli kunlarda, natijalar 1 kundan 2 haftagacha",
+ "tell_doctor": [
+  "Ota-onangiz, aka-ukangiz, opa-singillaringizda saraton bo‘lganmi va qaysi yoshda",
+  "Hozir yoki ilgari chekkanmisiz",
+  "Qaysi tekshiruvlar allaqachon qilingan va qachon",
+  "Shikoyatlar bormi: qon, ozish, bo‘rtmalar, uzoq yo‘tal"
+ ],
+ "prepare": [
+  {
+   "title": "Odatda nimalar tekshiriladi",
+   "text": "Ayollarda bachadon bo‘yni va ko‘krak, ma’lum yoshdan boshlab hammada ichak, chekuvchilarda o‘pka. Yoshga qarab aniq ro‘yxatni shifokor aytadi."
+  },
+  {
+   "title": "Tayyorgarlik",
+   "text": "Har bir tekshiruvning o‘z tayyorgarligi bor. Har biri bo‘yicha klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Oldingi tekshiruvlar natijalarini to‘plang: bu ortiqcha tekshiruvdan saqlaydi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Oldingi mammografiya, surtma, kolonoskopiya natijalari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor sog‘ligingiz va qarindoshlaringiz haqida so‘raydi",
+  "Yoshingizga ko‘ra qaysi tekshiruvlar kerakligini aniqlaydi",
+  "Yo‘llanmalar beradi",
+  "Belgilangan kunlarda tekshiruvlardan o‘tasiz",
+  "Shifokor natijalarni ko‘radi va qachon takrorlashni aytadi"
+ ],
+ "feel": [
+  "Qabulning o‘zi og‘riqsiz",
+  "Ba’zi tekshiruvlar noqulay bo‘lishi mumkin, lekin ular qisqa"
+ ],
+ "after": [
+  "Hammasi joyida bo‘lsa, keyingi tekshiruv yoshga qarab belgilangan muddatda tayinlanadi",
+  "Biror narsa topilsa, aniqlashtirishga yuborishadi, bu hali tashxis emas",
+  "O‘tkazib yubormaslik uchun tekshiruv sanalarini yozib qo‘ying"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Hech narsa og‘rimasa, nega tekshirilish kerak?",
+   "a": "Erta bosqichdagi saraton ko‘pincha og‘rimaydi. Aynan o‘shanda uni davolash osonroq."
+  },
+  {
+   "q": "Onamda saraton bo‘lgan bo‘lsa, menga ertaroq kerakmi?",
+   "a": "Ko‘pincha ha. Shifokorga ayting: u siz uchun reja tuzadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga onkoskrining qabuli. Oldingi tekshiruvlar natijalarini olib keling."
+  }
+ ]
+}

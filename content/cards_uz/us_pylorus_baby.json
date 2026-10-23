@@ -1,0 +1,71 @@
+{
+ "title": "Qusadigan chaqaloqda oshqozon UZI (piloristenoz)",
+ "also": [
+  "pilorus UZI",
+  "favvora bo‘lib qusishda UZI",
+  "piloristenoz UZIsi",
+  "chaqaloq oshqozoni UZI"
+ ],
+ "what": "UZI chaqaloq oshqozonining chiqish qismini ko‘rsatadi — u juda tor emasmi va sut undan o‘tyaptimi.",
+ "why": "Odatda hayotning dastlabki haftalaridagi bolalarda, har emizishdan keyin kuchli, favvora bo‘lib kekirganda.",
+ "duration": "odatda 10–20 daqiqa, natija darrov beriladi",
+ "tell_doctor": [
+  "Chaqaloq necha haftalik",
+  "Qanchalik tez-tez va qanchalik kuchli kekiradi, favvora bormi",
+  "Vazn olyaptimi, kuniga nechta ho‘l taglik bo‘ladi",
+  "Kekirganda sariq yoki yashil aralashma bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqatlantirish",
+   "text": "Ba’zan chaqaloqni 2–3 soat oldin emizmaslik so‘raladi, ba’zan UZI paytida ichirishadi. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Chaqaloq uchun",
+   "text": "Shifokor so‘rasa, shisha olib keling yoki ko‘krakka qo‘yishga tayyor turing."
+  }
+ ],
+ "bring": [
+  "Yupqa choyshab va taglik",
+  "Sut yoki aralashmali shisha",
+  "Salfetkalar",
+  "Bolaning hujjatlari"
+ ],
+ "steps": [
+  "Chaqaloq kushetkaga chalqancha yotqiziladi, siz yoningizda turasiz",
+  "Shifokor qorinchasiga iliq gel surtadi",
+  "Datchik bilan oshqozon va uning chiqish qismini ko‘radi",
+  "Ba’zan chaqaloqqa ichirib, sut qanday o‘tishini ko‘rishadi",
+  "Gel artiladi, natija sizga aytiladi"
+ ],
+ "feel": [
+  "Chaqaloq uchun og‘riqsiz",
+  "U ushlab turilgani yoki och bo‘lgani uchun yig‘lashi mumkin — bu normal"
+ ],
+ "after": [
+  "Natija darrov aytiladi",
+  "Chiqish qismi toraygan bo‘lsa, chaqaloq jarrohga yo‘llanadi — bu davolanadi",
+  "Shifokorga borguncha emizish va kekirishlarni yozib boring"
+ ],
+ "red_flags": [
+  "Kekirish sariq yoki yashil bo‘lsa — darrov shifokorga",
+  "Chaqaloq holsiz, kam siyadi, lablari quruq — tez yordamni chaqiring (103)",
+  "Har emizishdan keyin qusish va chaqaloq ozib ketmoqda"
+ ],
+ "faq": [
+  {
+   "q": "Oddiy kekirishni xavfli kekirishdan qanday farqlash mumkin?",
+   "a": "Oddiy kekirish oz bo‘ladi, chaqaloq xotirjam va vazn oladi. Har emizishdan keyin favvora va vazn yo‘qotish — shoshilinch shifokorga borish belgisi."
+  },
+  {
+   "q": "Torayish topilsa, keyin nima bo‘ladi?",
+   "a": "Odatda kichik operatsiya buyuriladi. Qarorni jarroh qabul qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Tez orada chaqaloqning qorincha UZIsi. Shisha, yupqa choyshab va taglikni oling. Ovqatlantirish — klinika aytganidek."
+  }
+ ]
+}

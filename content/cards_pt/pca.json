@@ -1,0 +1,77 @@
+{
+ "title": "Analgesia depois da cirurgia (cateter peridural, bomba)",
+ "also": [
+  "cateter peridural",
+  "bomba de analgesia",
+  "PCA",
+  "analgesia controlada pelo paciente",
+  "bomba com botão"
+ ],
+ "what": "Depois da cirurgia, o analgésico entra sem parar, por um tubinho fino nas costas ou por uma bomba na veia. Com a bomba, você mesmo aperta o botão quando dói.",
+ "why": "Depois de cirurgias grandes na barriga, no peito ou nas articulações, quando injeções e comprimidos comuns não bastam.",
+ "duration": "normalmente de 1 a 3 dias depois da cirurgia; depois, passa-se para comprimidos",
+ "tell_doctor": [
+  "Alergia a analgésicos",
+  "Remédios que afinam o sangue: o médico diz o que suspender e quando",
+  "Doenças da coluna ou cirurgias nas costas",
+  "Se analgésicos fortes já causaram enjoo ou confusão"
+ ],
+ "prepare": [
+  {
+   "title": "Conversa",
+   "text": "O anestesista vai explicar antes qual tipo de analgesia é melhor para você."
+  },
+  {
+   "title": "Botão",
+   "text": "Se houver bomba, vão mostrar como apertar o botão. Pergunte se algo não ficar claro."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Conte ao médico tudo o que você toma."
+  }
+ ],
+ "bring": [
+  "Lista de remédios",
+  "Óculos, se precisar, para ver o botão e a tela da bomba"
+ ],
+ "steps": [
+  "O cateter peridural normalmente é colocado antes da cirurgia",
+  "Você fica sentado ou deitado de lado, e as costas recebem anestesia",
+  "O tubinho fino é colocado nas costas e preso com esparadrapo",
+  "A bomba é ligada ao cateter ou à veia",
+  "Quando dói, você aperta o botão, e a bomba libera uma dose de remédio",
+  "As enfermeiras conferem a dor, a pressão e a respiração"
+ ],
+ "feel": [
+  "A dor costuma ficar bem menor, mas nem sempre some de todo",
+  "Às vezes as pernas ficam dormentes ou fracas; pode haver coceira ou enjoo",
+  "Você não recebe a mais: a bomba não libera mais que a dose segura"
+ ],
+ "after": [
+  "O cateter é retirado rápido e quase sem dor",
+  "A analgesia continua com comprimidos",
+  "Avise a enfermeira se a dor voltar a ficar forte"
+ ],
+ "red_flags": [
+  "Sonolência forte, difícil de acordar, respiração lenta: chame a enfermeira na hora",
+  "As pernas não se mexem ou as costas doem muito",
+  "Vermelhidão ou secreção no local do cateter",
+  "Febre acima de 38 graus"
+ ],
+ "faq": [
+  {
+   "q": "A família pode apertar o botão por mim?",
+   "a": "Não. Só o próprio paciente aperta o botão. É assim que a bomba continua segura."
+  },
+  {
+   "q": "Vou ficar viciado no analgésico?",
+   "a": "No uso curto depois da cirurgia, isso é raro. O médico acompanha a dose."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Se algo não estiver claro sobre a analgesia depois dela, pergunte ao anestesista."
+  }
+ ]
+}

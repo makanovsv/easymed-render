@@ -1,0 +1,29 @@
+biorevital|derm|Биоревитализация|Skin biorevitalisation (hyaluronic acid)|proc_room|M|2
+prp_face|derm|Плазмолифтинг лица и кожи головы|PRP for face and scalp|proc_room|M|2
+hifu|derm|SMAS-лифтинг (HIFU)|HIFU SMAS lift|proc_room|M|3
+ipl|derm|IPL-фотоомоложение (пигмент, купероз)|IPL photorejuvenation (pigment, redness)|proc_room|M|2
+facial_clean|derm|Чистка лица у косметолога|Facial cleansing by a cosmetologist|proc_room|M|1
+hair_transplant|derm|Пересадка волос|Hair transplant|or_room|H|3
+alopecia_areata|derm|Лечение гнёздной алопеции|Alopecia areata treatment|office|M|3
+ganglion|derm|Удаление гигромы кисти|Ganglion cyst removal|or_room|M|3
+caries_milk|dent|Лечение кариеса молочных зубов|Treating cavities in baby teeth|dent_chair|M|1
+pulpotomy|dent|Пульпотомия молочного зуба|Pulpotomy of a baby tooth|dent_chair|M|2
+kids_crown|dent|Детская коронка на молочный зуб|Crown for a baby tooth|dent_chair|M|3
+removable_plate|dent|Съёмная ортодонтическая пластинка у ребёнка|Removable orthodontic plate for children|dent_chair|M|2
+palate_expander|dent|Расширитель нёба|Palatal expander|dent_chair|M|3
+retainer|dent|Ретейнер после брекетов|Retainer after braces|dent_chair|M|2
+braces_hygiene|dent|Чистка зубов с брекетами|Cleaning teeth with braces|home|L|2
+ortho_consult|dent|Консультация ортодонта|Orthodontic consultation|dent_chair|L|2
+tongue_tie|dent|Подрезка уздечки языка|Tongue-tie release|dent_chair|M|2
+lip_frenum|dent|Пластика уздечки губы|Lip frenum correction|dent_chair|M|3
+stomatitis_kids|dent|Стоматит у ребёнка|Mouth ulcers (stomatitis) in children|office|L|2
+brushing_kids|dent|Как чистить зубы ребёнку|How to brush a child's teeth|home|L|1
+splinting|dent|Шинирование подвижных зубов|Splinting loose teeth|dent_chair|M|3
+flap_surgery|dent|Лоскутная операция на дёснах|Gum flap surgery|dent_chair|M|3
+gum_graft|dent|Пластика рецессии десны|Gum recession graft|dent_chair|M|3
+retreatment|dent|Перелечивание каналов зуба|Root canal retreatment|dent_chair|M|2
+apicoectomy|dent|Резекция верхушки корня (удаление кисты зуба)|Apicoectomy (root tip and cyst removal)|dent_chair|M|3
+all_on_4|dent|Протезирование на 4–6 имплантах (All-on-4)|Full-arch implant prosthesis (All-on-4)|dent_chair|H|3
+implant_care|dent|Уход за имплантами|Caring for dental implants|home|L|2
+clasp_denture|dent|Бюгельный протез|Cast partial denture|dent_chair|M|3
+denture_care|dent|Уход за съёмным протезом|Caring for removable dentures|home|L|2

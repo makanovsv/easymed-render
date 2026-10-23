@@ -1,0 +1,79 @@
+{
+ "title": "Kasalxonaga yotqizish: nimani olish kerak va nima bo‘ladi",
+ "also": [
+  "kasalxonaga yotish",
+  "rejali yotqizish",
+  "statsionar",
+  "kasalxonaga nima olish kerak"
+ ],
+ "what": "Sizni davolanish yoki operatsiya uchun kasalxonaga yotqizishganda. Nimani olish kerakligini va birinchi kun qanday o‘tishini aytamiz.",
+ "why": "Ambulator qilib bo‘lmaydigan davolash, tekshiruv yoki operatsiya uchun.",
+ "duration": "davolashga bog‘liq — bir kundan bir necha haftagacha",
+ "tell_doctor": [
+  "Ichayotgan barcha dorilar",
+  "Allergiyalar",
+  "Surunkali kasalliklar",
+  "Maxsus ovqat yoki yurishda yordam kerak bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Hujjatlar",
+   "text": "Yotqizishdan oldin qanday tahlil va tekshiruvlar kerakligini va ular qancha amal qilishini aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Qaysi dorilarni olib borish va qaysilarini to‘xtatishni shifokordan so‘rang."
+  },
+  {
+   "title": "Ishlar",
+   "text": "Ishxonaga ogohlantiring, uy va yaqinlarga kim qarashini hal qiling."
+  }
+ ],
+ "bring": [
+  "Hujjat va yo‘llanma",
+  "Tahlillar va ko‘chirmalar",
+  "Doimiy ichadigan dorilar qadoqlarida",
+  "Qulay kiyim, shippak, gigiyena vositalari",
+  "Telefon, zaryadlovchi, krujka va qoshiq"
+ ],
+ "steps": [
+  "Qabul bo‘limida hujjatlar tekshiriladi",
+  "Sizni ko‘rishadi va ba’zan tahlil olishadi",
+  "Hamshira sizni palataga kuzatib boradi",
+  "Davolovchi shifokor siz bilan tanishadi va reja aytadi",
+  "Hamshira tartibni tushuntiradi: aylanish, protseduralar, ovqat",
+  "Keyin davolash reja bo‘yicha o‘tadi"
+ ],
+ "feel": [
+  "Birinchi kun ko‘pincha tashvishli o‘tadi",
+  "Aylanishda shifokorga savol bering — bu odatiy"
+ ],
+ "after": [
+  "Har kuni aylanishda davolash qanday ketayotganini so‘rang",
+  "Chiqarish haqida odatda oldindan ogohlantirishadi",
+  "Qimmatbaho narsalaringizni asrang"
+ ],
+ "red_flags": [
+  "Palatada ahvolingiz keskin yomonlashsa — darrov chaqiruv tugmasini bosing yoki hamshirani chaqiring"
+ ],
+ "faq": [
+  {
+   "q": "O‘z ovqatimni olib kelsa bo‘ladimi?",
+   "a": "Odatda bo‘ladi, maxsus parhez bo‘lmasa. Bo‘limda muzlatgich bor-yo‘qligini aniqlang."
+  },
+  {
+   "q": "Tashrif buyurishga ruxsat bormi?",
+   "a": "Qoidalar har kasalxonada har xil. Soatlar va talablarni aniqlang."
+  },
+  {
+   "q": "O‘z dorilarimni olib kelish kerakmi?",
+   "a": "Odatda ha, qadoqlarida. Qaysilarini davom ettirishni shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga kasalxonaga yotqizish. Hujjatlar, tahlillar, dorilar va narsalarni yig‘ing."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "title": "Plasma rico en plaquetas para el rostro y el cuero cabelludo",
+ "also": [
+  "plasma rico en plaquetas",
+  "PRP",
+  "inyecciones de plasma propio",
+  "plasmaterapia para el cabello"
+ ],
+ "what": "Te sacan un poco de sangre de una vena. Con ella preparan plasma y te lo ponen con inyecciones en la piel del rostro o de la cabeza.",
+ "why": "Para mejorar el aspecto de la piel o cuando se cae el cabello, por decisión del médico.",
+ "duration": "la sesión suele durar de 30 a 60 minutos; el tratamiento son varias sesiones y el efecto se nota después de unas semanas",
+ "tell_doctor": [
+  "Si estás embarazada o das pecho",
+  "Si tomas medicamentos que adelgazan la sangre",
+  "Enfermedades de la sangre o de la coagulación",
+  "Si ahora tienes inflamación en la piel o un resfriado",
+  "Alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente, unas horas antes no comas nada graso. Puedes tomar agua. Confírmalo en la clínica."
+  },
+  {
+   "title": "Víspera",
+   "text": "Uno o dos días antes, sin alcohol."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas y él decidirá."
+  },
+  {
+   "title": "Cabello",
+   "text": "Para el cuero cabelludo, normalmente piden ir con el cabello limpio y sin peinado."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te sacan sangre de una vena en un tubo",
+  "El tubo gira en un aparato y se separa el plasma",
+  "Te limpian la piel y la desinfectan",
+  "A veces te ponen una crema anestésica",
+  "El médico te pone inyecciones pequeñas con el plasma"
+ ],
+ "feel": [
+  "Pinchazos cortos y hormigueo",
+  "Después, enrojecimiento y una ligera hinchazón, normalmente de 1 a 2 días",
+  "A veces salen pequeños moretones"
+ ],
+ "after": [
+  "Normalmente de 1 a 2 días sin maquillaje, sauna ni alberca",
+  "Si fue en el cuero cabelludo, normalmente no te laves la cabeza hasta el día siguiente; confírmalo con el médico",
+  "No toques con las manos los puntos de las inyecciones",
+  "La siguiente sesión será en la fecha que indique el médico"
+ ],
+ "red_flags": [
+  "Dolor fuerte, y la hinchazón y el enrojecimiento aumentan",
+  "Granitos con pus o fiebre de más de 38",
+  "Hinchazón de la cara o los labios, o dificultad para respirar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es seguro, si es mi propia sangre?",
+   "a": "Sí, se te pone tu propio plasma, así que la alergia es muy rara. Pero la esterilidad es importante."
+  },
+  {
+   "q": "¿Cuándo se ve el resultado?",
+   "a": "Normalmente después de unas semanas y de varias sesiones."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes la sesión de plasma. Hoy no tomes alcohol. En la mañana, desayuno ligero sin grasa; puedes tomar agua."
+  }
+ ]
+}

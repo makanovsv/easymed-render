@@ -1,0 +1,77 @@
+{
+ "title": "Emergency contraception",
+ "also": [
+  "emergency contraception",
+  "morning-after pill",
+  "emergency pill",
+  "condom broke"
+ ],
+ "what": "This is a way to prevent pregnancy after unprotected sex. It is usually a pill. Sometimes the doctor places an IUD.",
+ "why": "If you had unprotected sex, a condom broke, or you missed birth control pills.",
+ "duration": "the sooner, the better: usually within the first 72 hours, some methods up to 5 days",
+ "tell_doctor": [
+  "When you had sex: the exact time",
+  "When your last period was",
+  "What medicines you take",
+  "If you have long-term illnesses",
+  "If you took emergency contraception recently"
+ ],
+ "prepare": [
+  {
+   "title": "Timing",
+   "text": "Do not wait. The sooner you act, the better it works."
+  },
+  {
+   "title": "Advice",
+   "text": "See a doctor or go to a clinic. They will tell you which method is right for you."
+  },
+  {
+   "title": "Food",
+   "text": "The pill is usually taken after a light meal, so you feel less sick."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your medicines",
+  "The date of your last period"
+ ],
+ "steps": [
+  "You tell the doctor when you had sex",
+  "The doctor asks about your cycle and health",
+  "The doctor chooses a method",
+  "You take the pill with the doctor or at home",
+  "If an IUD is chosen, it is placed on the exam chair",
+  "The doctor explains what to do next"
+ ],
+ "feel": [
+  "Sometimes nausea, headache, or tiredness",
+  "Your next period may come earlier or later"
+ ],
+ "after": [
+  "If you vomit within 2 to 3 hours of taking the pill, call your doctor",
+  "If your period is more than a week late, take a pregnancy test",
+  "Talk with your doctor about regular birth control",
+  "Get tested for infections if you were with a new partner"
+ ],
+ "red_flags": [
+  "Severe pain low in your belly, especially on one side: call emergency services",
+  "Heavy bleeding",
+  "Fainting or severe weakness: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Is this an abortion?",
+   "a": "No. Emergency contraception prevents pregnancy. It does not end one."
+  },
+  {
+   "q": "Can I use it often?",
+   "a": "No, it is a backup. For regular protection, choose a method with your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Do not wait: the sooner you take emergency contraception, the better it works."
+  }
+ ]
+}

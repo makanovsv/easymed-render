@@ -1,0 +1,71 @@
+{
+ "title": "Non birliklari va uglevodlarni hisoblash",
+ "also": [
+  "non birliklari",
+  "NB",
+  "uglevodlarni hisoblash",
+  "NB ni qanday sanash kerak"
+ ],
+ "what": "Bu ovqatda qancha uglevod borligini sanash usuli. Qondagi qand eng ko‘p uglevodlarga bog‘liq.",
+ "why": "Diabetda, ayniqsa ovqatdan oldin insulin ukol qilsangiz.",
+ "duration": "o‘rganish — odatda bir necha kunlik mashq",
+ "tell_doctor": [
+  "Bitta non birligiga necha birlik insulin kerakligini shifokor hal qiladi",
+  "Ovqatdan keyin qand tez-tez yuqori yoki past bo‘lsa",
+  "Ovqatlanishni o‘zgartirmoqchi bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Jadval",
+   "text": "Shifokordan yoki diabet maktabidan non birliklari jadvalini oling."
+  },
+  {
+   "title": "Tarozi",
+   "text": "Dastlab oshxona tarozisi yordam beradi."
+  },
+  {
+   "title": "Yorliqlar",
+   "text": "Qadoqda 100 grammdagi «uglevodlar» qatoriga qarang."
+  }
+ ],
+ "bring": [
+  "Non birliklari jadvali",
+  "Ovqat va qand kundaligi",
+  "Oshxona tarozisi"
+ ],
+ "steps": [
+  "Bitta non birligi — odatda 10–12 gramm uglevod, shifokoringiz qanday sanashini aniqlang",
+  "Mahsulotni jadvaldan yoki qadoqdan toping",
+  "Porsiyani torting yoki jadval bo‘yicha baholang",
+  "Butun likopchadagi non birliklarini sanang",
+  "Shu ovqatdagi barcha mahsulotlarni qo‘shing",
+  "Insulin dozasini faqat shifokor bergan sxema bo‘yicha tanlang",
+  "Ovqatdan 2 soat keyin qandni tekshirib, yozib qo‘ying"
+ ],
+ "feel": [
+  "Dastlab qiyin tuyuladi — keyin ko‘z bilan sanaysiz",
+  "Ba’zan adashasiz — bu normal, kundalik yordam beradi"
+ ],
+ "after": [
+  "Kundalikni shifokorga ko‘rsating",
+  "Go‘sht, baliq va tuxumda uglevod deyarli yo‘q",
+  "Shirin ichimliklar va sharbatlar ko‘p uglevodni tez beradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tabletka ichsam ham NB sanash kerakmi?",
+   "a": "Baribir foydali, ovqat bir tekis bo‘lishi uchun. Qanchalik aniq sanash kerakligini shifokordan so‘rang."
+  },
+  {
+   "q": "Sabzavotlarni ham sanash kerakmi?",
+   "a": "Ko‘pchilik sabzavotlar deyarli sanalmaydi. Kartoshka, makkajo‘xori va dukkaklilar albatta sanaladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Ovqatdan oldin non birliklarini sanab, kundalikka yozing."
+  }
+ ]
+}

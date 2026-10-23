@@ -1,0 +1,77 @@
+{
+ "title": "Revisión objetiva de la audición del bebé (potenciales evocados, ASSR)",
+ "also": [
+  "potenciales evocados auditivos",
+  "ASSR",
+  "revisión de la audición del recién nacido",
+  "potenciales auditivos del tallo cerebral",
+  "audiometría durante el sueño"
+ ],
+ "what": "Le pegan sensores en la cabeza al bebé y le ponen sonidos suaves en los oídos. El aparato registra la respuesta del cerebro y muestra cómo oye el niño.",
+ "why": "Cuando el bebé no pasó la prueba de audición del hospital, hay riesgo de problemas de audición o hace falta determinar con precisión su nivel.",
+ "duration": "normalmente de 30 a 90 minutos; el informe se da en el momento o el mismo día",
+ "tell_doctor": [
+  "Si el bebé no pasó la prueba en el hospital",
+  "Si en tu familia hubo problemas de audición",
+  "Cómo fueron el embarazo y el parto",
+  "Si tiene otitis o catarro"
+ ],
+ "prepare": [
+  {
+   "title": "Sueño",
+   "text": "La prueba se hace cuando el bebé duerme. Procura que no duerma antes de la cita y que llegue con sueño."
+  },
+  {
+   "title": "Alimentación",
+   "text": "Conviene darle de comer justo antes de la prueba: después de comer se duerme."
+  },
+  {
+   "title": "Salud",
+   "text": "Si el bebé tiene catarro u otitis, llama: la prueba puede cambiarse de fecha."
+  },
+  {
+   "title": "Niños más grandes",
+   "text": "A veces la prueba se hace durante el sueño con una sedación ligera. El médico te explicará la preparación."
+  }
+ ],
+ "bring": [
+  "Un biberón, o prepárate para dar el pecho",
+  "Una cobija y un pañal",
+  "Una mantita",
+  "El resumen de alta del hospital"
+ ],
+ "steps": [
+  "Le dan de comer al bebé y lo acuestan a dormir",
+  "Le limpian la piel de la frente y detrás de las orejas",
+  "Le pegan unos sensores pequeños",
+  "Le ponen audífonos suaves en los oídos",
+  "Mientras duerme, le ponen sonidos y registran la respuesta",
+  "Le quitan los sensores"
+ ],
+ "feel": [
+  "Para el bebé no duele",
+  "Si se despierta, la prueba se detiene"
+ ],
+ "after": [
+  "El resultado normalmente se da en el momento",
+  "Si la audición está disminuida, el médico te dirá qué hacer",
+  "Mientras antes se encuentre el problema, mejores son los resultados del tratamiento"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué el bebé debe dormir?",
+   "a": "Dormido no se mueve, y el aparato registra mejor las señales débiles."
+  },
+  {
+   "q": "Si no pasó la prueba en el hospital, ¿significa que no oye?",
+   "a": "No necesariamente. Muchas veces es líquido en el oído después del parto. Esta prueba lo muestra con exactitud."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana le hacen al bebé la revisión de audición. Llévalo con sueño y dale de comer antes de la prueba. Lleva una cobija y un pañal."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "title": "Farmakogenetik test (varfarin, klopidogrel)",
+ "also": [
+  "genetika va dorilar",
+  "varfaringa sezgirlik testi",
+  "klopidogrelga test",
+  "dorilarga genetik test"
+ ],
+ "what": "Tahlil genlaringiz ba’zi dorilarning ishlashiga qanday ta’sir qilishini ko‘rsatadi. Bu shifokorga dori va dozani tanlashga yordam beradi.",
+ "why": "Qonni suyultiruvchi va ba’zi boshqa dorilarni boshlashdan oldin yoki tanlashda; dori yordam bermasa yoki nojo‘ya ta’sir bersa.",
+ "duration": "olish odatda 5 daqiqa, natija odatda bir necha kunda yoki 1–2 haftada",
+ "tell_doctor": [
+  "Hozir ichayotgan barcha dorilar",
+  "Doriga kuchli nojo‘ya ta’sir yoki qon ketishlar bo‘lgan bo‘lsa",
+  "Sizga qon quyilgan yoki ilik ko‘chirib o‘tkazilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Och qolish odatda kerak emas. Yonoqdan surtma olinsa — 30 daqiqa oldin yemang, ichmang va chekmang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Bu testning natijasiga dorilar odatda ta’sir qilmaydi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Hamshira venadan bitta probirkaga qon oladi",
+  "Ba’zan qon o‘rniga paxtali cho‘p bilan yonoqning ichki tomonidan yurgizishadi",
+  "Qon olinsa — ukol joyiga paxta bosiladi",
+  "Namuna imzolanadi va laboratoriyaga yuboriladi"
+ ],
+ "feel": [
+  "Qisqa sanchiq yoki shunchaki cho‘pning yonoqqa tegishi",
+  "Tahlil bir marta topshiriladi — uni takrorlash shart emas"
+ ],
+ "after": [
+  "Natija odatda bir necha kunda yoki 1–2 haftada",
+  "Natijani shifokorga olib boring — dorini yoki dozani o‘zgartirishni u hal qiladi",
+  "Xulosani saqlab qo‘ying: u butun umrga kerak bo‘ladi",
+  "Natijaga ko‘ra dori dozasini o‘zingiz o‘zgartirmang"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bu test qon ivish tahlillarini almashtiradimi?",
+   "a": "Yo‘q. Genetik test boshlang‘ich dozani tanlashga yordam beradi, qon ivishini nazorat qilish baribir kerak."
+  },
+  {
+   "q": "Necha marta topshirish kerak?",
+   "a": "Bir marta. Genlar o‘zgarmaydi, natija butun umr amal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga farmakogenetik test. Ichayotgan barcha dorilar ro‘yxatini oling."
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Ko‘zga tomchi tomizish va malham qo‘yish qanday amalga oshiriladi",
+ "also": [
+  "ko‘zga qanday tomizish",
+  "ko‘z tomchilari",
+  "ko‘zga malham",
+  "ko‘zga tomizish",
+  "malhamni qanday qo‘yish"
+ ],
+ "what": "Dori yonoqqa emas, ko‘zga tushishi uchun tomchini to‘g‘ri tomizish va malhamni pastki qovoq ostiga qo‘yish usuli.",
+ "why": "Shifokor ko‘z uchun tomchi yoki malham tayinlaganda — yallig‘lanishda, operatsiyadan keyin, ko‘z bosimi yuqori bo‘lganda.",
+ "duration": "muolajaning o‘zi — 1–2 daqiqa",
+ "tell_doctor": [
+  "Kontakt linza taqsangiz",
+  "Bir necha xil tomchi tayinlangan bo‘lsa",
+  "Tomchidan keyin bir necha daqiqadan uzoq achisa, qizarsa yoki shishsa",
+  "Ichayotgan barcha dorilaringiz"
+ ],
+ "prepare": [
+  {
+   "title": "Qo‘llar",
+   "text": "Har tomizishdan oldin qo‘llaringizni yuving."
+  },
+  {
+   "title": "Flakon",
+   "text": "Nomi va yaroqlilik muddatini tekshiring. Ochilgan flakon odatda cheklangan vaqt yaroqli — yo‘riqnomaga qarang."
+  },
+  {
+   "title": "Linzalar",
+   "text": "Odatda tomizishdan oldin linzalar yechiladi — ularni qachon taqish mumkinligini shifokordan so‘rang."
+  },
+  {
+   "title": "Bir necha tomchi",
+   "text": "Turli tomchilar orasida odatda 5 daqiqa kuting. Malham — oxirida."
+  }
+ ],
+ "bring": [
+  "Tomchi yoki malham",
+  "Toza salfetkalar",
+  "Ko‘zgu"
+ ],
+ "steps": [
+  "Qo‘llaringizni yuving",
+  "Boshingizni orqaga tashlang yoki yoting",
+  "Barmoq bilan pastki qovoqni tortib, cho‘ntakcha hosil qiling",
+  "Tepaga qarab, flakon bilan ko‘zga tegmasdan cho‘ntakchaga bir tomchi tomizing",
+  "Ko‘zni yuming va ichki burchagini barmoq bilan 1–2 daqiqa yengil bosing",
+  "Malham: pastki qovoq cho‘ntakchasiga yo‘l-yo‘l siqib chiqaring va ko‘zni yuming",
+  "Ortiqchasini toza salfetka bilan artib oling"
+ ],
+ "feel": [
+  "Tomchi biroz achishtirishi mumkin",
+  "Malhamdan keyin bir necha daqiqa hamma narsa xira ko‘rinadi — bu normal"
+ ],
+ "after": [
+  "Ko‘zni ishqalamang",
+  "Malhamni tunda qo‘yish qulayroq",
+  "O‘z tomchilaringizni boshqalarga bermang",
+  "Tomchini shifokor aytgan muddat davomida tomizing"
+ ],
+ "red_flags": [
+  "Ko‘zda keskin og‘riq, kuchli qizarish, ko‘rishning yomonlashuvi — zudlik bilan shifokorga",
+  "Tomchidan keyin qovoqlar va yuz shishi, nafas olish qiyin — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Nechta tomchi tomizish kerak?",
+   "a": "Odatda bitta. Ko‘zga ko‘proq sig‘maydi, qolgani oqib ketadi."
+  },
+  {
+   "q": "Tomchi tushganiga ishonchim komil bo‘lmasa nima qilish kerak?",
+   "a": "Yana bittasini tomizing. Tomchi aniq tushgan bo‘lsa — takrorlash shart emas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Ko‘zga tomchi tomizish vaqti. Qo‘llar, bitta tomchi, ko‘z burchagini bosib turing."
+  }
+ ]
+}

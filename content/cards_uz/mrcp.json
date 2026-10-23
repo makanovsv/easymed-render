@@ -1,0 +1,73 @@
+{
+ "title": "MR-xolangiografiya (MRXPG)",
+ "also": [
+  "MRXPG",
+  "MR-xolangiografiya",
+  "o‘t yo‘llari MRTsi",
+  "o‘t chiqarish yo‘llari MRTsi"
+ ],
+ "what": "O‘t yo‘llari, o‘t pufagi va oshqozon osti bezi yo‘lini ko‘rsatadigan qorin MRTsi. Ignasiz va nurlanishsiz.",
+ "why": "O‘t yo‘llarida toshga shubha bo‘lganda, sarg‘ayishda, o‘ng qovurg‘a ostida og‘riqda va operatsiyalardan oldin.",
+ "duration": "odatda 20–40 daqiqa, xulosa 1–3 kundan keyin",
+ "tell_doctor": [
+  "Yurak stimulyatori, metall implantlar, parchalar bo‘lsa",
+  "Yopiq joydan qo‘rqsangiz",
+  "Homilador bo‘lishingiz mumkin bo‘lsa",
+  "Buyrak kasalliklari bo‘lsa — kontrast rejalashtirilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ochlik",
+   "text": "Odatda o‘t pufagi to‘la bo‘lishi uchun 4–6 soat yemaslik va ichmaslik. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Metall",
+   "text": "Taqinchoq, soat, kamarni yeching. Kartalar va telefonni shkafchada qoldiring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Odatdagi dorilaringizni odatda bir ho‘plam suv bilan ichish mumkin. Shifokordan aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi UTT, KT, MRT",
+  "Qon tahlillari, agar qilingan bo‘lsa",
+  "Hujjat"
+ ],
+ "steps": [
+  "Siz kiyimingizni almashtirib, barcha metallni yechasiz",
+  "Apparat stoliga chalqancha yotasiz",
+  "Qoringa g‘altak — yengil qoplama qo‘yiladi",
+  "Stol apparatga kiradi, quloqchin beriladi",
+  "Sizdan buyruq bo‘yicha nafasni ushlab turish ko‘p so‘raladi",
+  "Ba’zan tomirga kontrast yuboriladi"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Apparat qattiq taqillaydi — bu normal",
+  "Nafasni ushlab turish charchatadi, lekin qisqa"
+ ],
+ "after": [
+  "Darrov yeb, o‘z ishingizga ketishingiz mumkin",
+  "Xulosa odatda 1–3 kundan keyin",
+  "Natijani shifokor bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Kontrast kerakmi?",
+   "a": "Yo‘llar ko‘pincha usiz ham ko‘rinadi. Shifokor hal qiladi."
+  },
+  {
+   "q": "Nega ovqat yeb bo‘lmaydi?",
+   "a": "O‘t pufagi va yo‘llar to‘la bo‘lishi, ichak esa kamroq halaqit berishi uchun."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga o‘t yo‘llari MRTsi. 4–6 soat oldin yemang. Barcha metallni yeching."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Tomografía de pulmón de baja dosis para fumadores",
+ "also": [
+  "TC de baja dosis",
+  "tomografía de baja dosis",
+  "detección de cáncer de pulmón",
+  "tomografía de pulmón para fumadores"
+ ],
+ "what": "Una tomografía computarizada del tórax con menos radiación. Busca cambios pequeños en los pulmones antes de que haya molestias.",
+ "why": "Normalmente para personas mayores que fuman mucho o fumaron en el pasado. Si la necesitas lo decide el médico.",
+ "duration": "la toma en sí dura unos minutos; el informe normalmente sale en 1 a 3 días",
+ "tell_doctor": [
+  "Cuántos años y cuántos cigarros al día fumas o fumaste",
+  "Si hace poco tuviste neumonía o un resfriado",
+  "Si antes te hicieron una tomografía de pulmón",
+  "Si puedes estar embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No hace falta preparación especial; puedes comer."
+  },
+  {
+   "title": "Ropa",
+   "text": "Sin metal en el pecho: quítate cadenas y el brasier con varillas."
+  },
+  {
+   "title": "Imágenes anteriores",
+   "text": "Lleva tus tomografías anteriores: para el médico es importante comparar."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tomografías anteriores y sus informes",
+  "Identificación"
+ ],
+ "steps": [
+  "Te acuestas boca arriba en la mesa del aparato, con los brazos detrás de la cabeza",
+  "La mesa entra en el anillo del aparato",
+  "Te piden inhalar y contener la respiración",
+  "La toma se hace en unos segundos",
+  "La mesa sale y listo"
+ ],
+ "feel": [
+  "No duele",
+  "El aparato es abierto, no es un tubo estrecho"
+ ],
+ "after": [
+  "Puedes irte de inmediato",
+  "El informe normalmente sale en 1 a 3 días",
+  "Si encontraron nódulos pequeños, lo más común es pedir un control más adelante; lo decidirá el médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Si encontraron un nódulo, ¿es cáncer?",
+   "a": "Casi siempre no. La mayoría de los nódulos son benignos. El médico te dirá si hace falta vigilarlo."
+  },
+  {
+   "q": "¿Cada cuánto se hace?",
+   "a": "Normalmente una vez al año, mientras haya indicación. Lo decide el médico."
+  },
+  {
+   "q": "¿Ayudará a dejar de fumar?",
+   "a": "Sí. Es lo más sano para los pulmones a cualquier edad."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu tomografía de pulmón. No hace falta preparación. Lleva tus imágenes anteriores y ropa sin metal."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Yangi tug‘ilgan chaqaloqda Kumbs sinovi va qon guruhi",
+ "also": [
+  "yangi tug‘ilganda Kumbs sinovi",
+  "to‘g‘ridan-to‘g‘ri antiglobulin test",
+  "chaqaloq qon guruhi",
+  "bola rezusi"
+ ],
+ "what": "Yangi tug‘ilgan chaqaloqning qon guruhi va rezusi aniqlanadi hamda eritrotsitlarida onadan o‘tgan antitelolar yo‘qligi tekshiriladi. Bunday antitelolar chaqaloq qonini yemirishi mumkin.",
+ "why": "Onaning qoni rezus-manfiy yoki birinchi guruh bo‘lsa, chaqaloqda sariqlik yoki kamqonlik erta paydo bo‘lsa.",
+ "duration": "qon olish bir necha daqiqa, natija odatda kun davomida",
+ "tell_doctor": [
+  "Onaning qon guruhi va rezusini",
+  "Homiladorlik paytida onada antitelolar topilganmi",
+  "Onaga antirezus immunoglobulin yuborilganmi",
+  "Katta bolalarda tug‘ilgandan keyin sariqlik bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kerak emas. Chaqaloqni odatdagidek emizing."
+  },
+  {
+   "title": "Qanday olinadi",
+   "text": "Ko‘pincha qon tug‘ruqdan keyin darhol kindik qonidan olinadi. Ba’zan chaqaloqning tovonidan yoki venasidan."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Almashinuv kartasi va onaning tahlillari qo‘l ostida bo‘lsin."
+  }
+ ],
+ "bring": [
+  "Onaning almashinuv kartasi",
+  "Onaning qon guruhi va antitelolarga tahlillari"
+ ],
+ "steps": [
+  "Tahlil kindikdan bo‘lsa, qon tug‘ruqdan keyin darhol olinadi, bu chaqaloqqa og‘riqsiz",
+  "Tovondan bo‘lsa, uni isitib, antiseptik bilan artishadi",
+  "Kichik teshib, bir necha tomchi yig‘ishadi",
+  "Teshilgan joyga paxta bosiladi",
+  "Qon laboratoriyaga yuboriladi"
+ ],
+ "feel": [
+  "Kindikdan: chaqaloq hech narsa sezmaydi",
+  "Tovon yoki venadan: qisqa yig‘i; bag‘ringizga bosish yoki emizish yordam beradi"
+ ],
+ "after": [
+  "Natija odatda kun davomida",
+  "Test musbat bo‘lsa, shifokor bilirubinni tez-tez tekshiradi va sariqlikni kuzatadi",
+  "Ba’zan chaqaloqqa chiroq bilan davo tayinlanadi: shifokor tushuntiradi"
+ ],
+ "red_flags": [
+  "Sariqlik kuchaysa, teri qorin va oyoqlargacha sarg‘aysa, darhol shifokorga",
+  "Chaqaloq holsiz, yomon emsa, uyg‘otish qiyin bo‘lsa, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Kumbs sinovi musbat bo‘lsa, xavflimi?",
+   "a": "Bu onaning antitelolari chaqaloq qonida borligini anglatadi. Ko‘pincha hammasi kuzatuv ostida o‘tadi, shifokor bilirubinni kuzatadi."
+  },
+  {
+   "q": "Emizsa bo‘ladimi?",
+   "a": "Odatda ha. Tez-tez emizish chaqaloqqa bilirubinni tezroq chiqarishga yordam beradi. Shifokordan aniqlashtiring."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Tug‘ruqdan oldin sumkangizga almashinuv kartasi va qon guruhi hamda antitelolar tahlillarini soling."
+  }
+ ]
+}

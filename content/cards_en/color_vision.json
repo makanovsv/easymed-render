@@ -1,0 +1,65 @@
+{
+ "title": "Color vision test",
+ "also": [
+  "color blindness test",
+  "Ishihara test",
+  "color vision check",
+  "colour vision test"
+ ],
+ "what": "You are shown pictures made of colored dots with numbers or shapes hidden in them. This checks how well your eyes tell colors apart.",
+ "why": "For a work medical exam, a driver's medical certificate, school, or if a person mixes up colors.",
+ "duration": "usually 5 to 10 minutes; results right away",
+ "tell_doctor": [
+  "If you wear glasses or contact lenses",
+  "If a color vision problem was found before",
+  "If any relatives have color vision problems",
+  "What medicines you take"
+ ],
+ "prepare": [
+  {
+   "title": "Glasses",
+   "text": "Bring your glasses or contact lenses if you wear them for close-up vision."
+  },
+  {
+   "title": "Rest",
+   "text": "Come well rested, not after a sleepless night."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your glasses, if you wear them",
+  "Your referral or medical exam form"
+ ],
+ "steps": [
+  "You sit in good daylight",
+  "You are shown charts with colored circles",
+  "You say the number or trace the shape",
+  "Usually both eyes are tested together, sometimes each one separately",
+  "The doctor writes down the result"
+ ],
+ "feel": [
+  "It does not hurt",
+  "Some pictures can be hard to see. This is normal. Answer with what you see"
+ ],
+ "after": [
+  "You get the result right away",
+  "If there are changes, the doctor will explain what this means for your work or driver's license"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can I memorize the charts?",
+   "a": "It is not worth it. There are many charts, and the doctor can tell. An honest result matters."
+  },
+  {
+   "q": "Can color blindness be treated?",
+   "a": "A color vision problem you are born with cannot be treated, but people live normal lives with it."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Color vision test tomorrow. Bring your glasses and your medical exam form."
+  }
+ ]
+}

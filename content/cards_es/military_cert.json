@@ -1,0 +1,72 @@
+{
+ "title": "Examen médico en la oficina de reclutamiento",
+ "also": [
+  "examen médico de reclutamiento",
+  "comisión de reclutamiento",
+  "comisión médica militar",
+  "revisión médica para el ejército"
+ ],
+ "what": "Varios médicos te revisan en la oficina de reclutamiento y deciden si eres apto para el servicio por tu salud.",
+ "why": "Al inscribirte en el registro militar, ser reclutado, ingresar al servicio por contrato o a una escuela militar.",
+ "duration": "normalmente medio día o un día; la decisión, el mismo día de la comisión o más tarde",
+ "tell_doctor": [
+  "Todas las enfermedades y lesiones, incluso las antiguas",
+  "Qué medicamentos tomas",
+  "Si has estado en hospitales y has tenido cirugías",
+  "Las molestias que tienes ahora"
+ ],
+ "prepare": [
+  {
+   "title": "Documentos",
+   "text": "Reúne resúmenes, informes y radiografías de todas tus enfermedades. Sin ellos es difícil para los médicos tomar en cuenta una enfermedad."
+  },
+  {
+   "title": "Análisis",
+   "text": "A menudo los análisis y la radiografía de tórax se hacen antes con una orden de la oficina de reclutamiento. Confírmalo ahí."
+  },
+  {
+   "title": "Un día antes",
+   "text": "Duerme bien y no tomes alcohol."
+  }
+ ],
+ "bring": [
+  "Pasaporte o identificación",
+  "La citación o la orden",
+  "Documentos médicos sobre tus enfermedades",
+  "Resultados de análisis, si los pidieron"
+ ],
+ "steps": [
+  "Llegas a la oficina de reclutamiento a la hora indicada",
+  "Llenas un cuestionario",
+  "Pasas con los médicos por turnos: médico general, cirujano, neurólogo, psiquiatra, oftalmólogo, otorrinolaringólogo, dentista y otros",
+  "Miden la estatura, el peso y la presión, y revisan la vista",
+  "Si hace falta, te mandan a más estudios",
+  "La comisión decide si eres apto"
+ ],
+ "feel": [
+  "Las revisiones no duelen",
+  "Puede ser largo y cansado por las filas"
+ ],
+ "after": [
+  "Te informan tu categoría de aptitud",
+  "Si te mandaron a más estudios, hazlos a tiempo",
+  "La decisión se puede apelar conforme a la ley"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Qué pasa si no llevo los documentos de una enfermedad?",
+   "a": "Los médicos pueden no tomarla en cuenta. Es mejor reunir los resúmenes con anticipación."
+  },
+  {
+   "q": "¿Puedo hacerme los estudios con mi propio médico?",
+   "a": "Los estudios adicionales normalmente se hacen con orden de la oficina de reclutamiento. Confírmalo ahí."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu examen médico en la oficina de reclutamiento. Lleva tu identificación, la citación y todos los documentos médicos."
+  }
+ ]
+}

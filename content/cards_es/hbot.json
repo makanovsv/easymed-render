@@ -1,0 +1,77 @@
+{
+ "title": "Oxigenación hiperbárica (cámara hiperbárica)",
+ "also": [
+  "cámara hiperbárica",
+  "oxigenoterapia hiperbárica",
+  "OHB",
+  "cámara de oxígeno"
+ ],
+ "what": "Respiras oxígeno dentro de una cámara especial con presión aumentada. Así el oxígeno llega mejor a los tejidos.",
+ "why": "Con heridas que sanan mal, pie diabético, intoxicación por monóxido de carbono, enfermedad por descompresión, después de radioterapia; según indicación del médico.",
+ "duration": "cada sesión normalmente dura de 60 a 120 minutos; el tratamiento, de unas pocas a decenas de sesiones",
+ "tell_doctor": [
+  "Resfriado, nariz tapada, dolor de oídos",
+  "Enfermedades de los pulmones, asma",
+  "Convulsiones o epilepsia",
+  "Miedo a los espacios cerrados",
+  "Marcapasos y otros dispositivos en el cuerpo"
+ ],
+ "prepare": [
+  {
+   "title": "Ropa",
+   "text": "Normalmente te dan ropa de algodón. La ropa sintética puede producir chispas."
+  },
+  {
+   "title": "Prohibido",
+   "text": "No se puede entrar a la cámara con teléfono, encendedor, aparatos electrónicos, cosméticos con base de aceite ni spray para el cabello."
+  },
+  {
+   "title": "Comida",
+   "text": "Come algo ligero antes de la sesión. No fumes: reduce el beneficio."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Identificación",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te cambias a ropa de algodón",
+  "Entras a la cámara y te acuestas o te sientas",
+  "Suben la presión despacio; se te tapan los oídos, como en un avión",
+  "Respiras oxígeno por una mascarilla o un casco; en una cámara individual, toda la cámara se llena de oxígeno",
+  "El personal está en contacto contigo todo el tiempo",
+  "Al final bajan la presión despacio"
+ ],
+ "feel": [
+  "Oídos tapados cuando sube la presión; ayuda tragar o bostezar",
+  "Dentro de la cámara puede hacer calor",
+  "Normalmente no duele"
+ ],
+ "after": [
+  "Puedes volver de inmediato a tus actividades",
+  "A veces un cansancio leve",
+  "Ven a todas las sesiones del tratamiento"
+ ],
+ "red_flags": [
+  "Dolor fuerte de oído o secreción del oído",
+  "Cambio en la vista que no se quita",
+  "Convulsiones, falta de aire fuerte, dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Es como en un avión?",
+   "a": "Se parece: los oídos se tapan cuando cambia la presión. Traga, bosteza y se alivia."
+  },
+  {
+   "q": "¿Por qué no puedo llevar el teléfono?",
+   "a": "En la cámara hay mucho oxígeno. Cualquier chispa es peligrosa, por eso los aparatos electrónicos se dejan afuera."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "En 2 horas es tu sesión en la cámara hiperbárica. Ropa de algodón, sin cosméticos, deja el teléfono afuera."
+  }
+ ]
+}

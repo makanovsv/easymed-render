@@ -1,0 +1,72 @@
+{
+ "title": "Painel genético de câncer de intestino hereditário",
+ "also": [
+  "exame para síndrome de Lynch",
+  "genética do câncer de intestino",
+  "câncer colorretal hereditário",
+  "painel genético"
+ ],
+ "what": "É um exame de sangue ou saliva que examina vários genes de uma vez. Alterações neles podem passar na família e aumentar o risco de câncer de intestino.",
+ "why": "Se vários parentes tiveram câncer de intestino, útero ou estômago, ou alguém teve jovem; se você tem muitos pólipos no intestino.",
+ "duration": "a coleta leva normalmente 5 minutos, o resultado sai normalmente em 2 a 4 semanas",
+ "tell_doctor": [
+  "Quem na família teve câncer de intestino, útero, estômago ou ovário e com que idade",
+  "Quantos pólipos acharam nas suas colonoscopias",
+  "Se um parente já teve uma alteração no gene encontrada. Leve o laudo",
+  "Se você recebeu sangue ou fez transplante de medula óssea"
+ ],
+ "prepare": [
+  {
+   "title": "Consulta",
+   "text": "É melhor conversar com um médico geneticista antes do exame: quais genes vão ser examinados e o que o resultado significa."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não é preciso jejum. Confirme com o laboratório."
+  },
+  {
+   "title": "Documentos",
+   "text": "Junte os laudos de colonoscopias e biópsias, se teve."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Lista dos parentes com câncer",
+  "Laudos de colonoscopias e biópsias"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Limpam a pele com antisséptico",
+  "O sangue é colhido da veia num tubo",
+  "Às vezes, em vez de sangue, colhem saliva",
+  "A amostra vai para o laboratório de genética"
+ ],
+ "feel": [
+  "Uma picada rápida, como num exame de sangue comum",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "O resultado sai normalmente em 2 a 4 semanas",
+  "Converse sobre o resultado com o médico geneticista",
+  "Se acharem uma alteração, a colonoscopia normalmente é feita mais cedo e com mais frequência. O médico passa o calendário",
+  "Os parentes podem fazer o teste do mesmo gene"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Para que esse teste, se eu já faço colonoscopia?",
+   "a": "O resultado mostra com que frequência você precisa de colonoscopia e quais outros órgãos examinar. E ajuda os parentes."
+  },
+  {
+   "q": "O que é \"variante de significado incerto\"?",
+   "a": "Acharam uma alteração, mas ainda não se sabe se ela é perigosa. Normalmente não se tomam decisões por ela. O médico acompanha os novos dados."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você faz o exame genético. Leve a lista dos parentes com câncer e os laudos de colonoscopia."
+  }
+ ]
+}

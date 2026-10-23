@@ -1,0 +1,78 @@
+{
+ "title": "Exame dos olhos do bebê prematuro (retinopatia)",
+ "also": [
+  "retinopatia da prematuridade",
+  "exame de fundo de olho do recém-nascido",
+  "ROP",
+  "olhos do bebê prematuro"
+ ],
+ "what": "O oftalmologista examina a retina do bebê que nasceu antes do tempo. Assim, encontram a tempo alterações que podem ser tratadas.",
+ "why": "Para bebês que nasceram prematuros ou com baixo peso. O médico define quando e com que frequência examinar.",
+ "duration": "o exame leva normalmente de 10 a 15 minutos; antes, colírio e cerca de uma hora de espera",
+ "tell_doctor": [
+  "Com quantas semanas e com que peso o bebê nasceu",
+  "Se o bebê ficou no oxigênio",
+  "Quais remédios ele recebe",
+  "Datas e resultados dos exames anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Mamada",
+   "text": "Normalmente é melhor alimentar o bebê antes, 1 hora antes do exame. Confirme na clínica."
+  },
+  {
+   "title": "Colírio",
+   "text": "Antes do exame pingam um colírio para dilatar as pupilas. É preciso esperar."
+  },
+  {
+   "title": "Datas",
+   "text": "Não perca as datas marcadas. Isso é importante."
+  }
+ ],
+ "bring": [
+  "Documentos do bebê",
+  "Relatório de alta da maternidade ou da UTI",
+  "Fralda, manta e mamadeira",
+  "Resultados dos exames anteriores"
+ ],
+ "steps": [
+  "A enfermeira pinga o colírio algumas vezes",
+  "Vocês esperam as pupilas dilatarem",
+  "O bebê é enrolado na manta e segurado com cuidado",
+  "O médico pinga um colírio anestésico",
+  "Com um afastador especial, segura as pálpebras abertas",
+  "Examina o fundo do olho através de uma lente"
+ ],
+ "feel": [
+  "É desagradável para o bebê, e ele normalmente chora",
+  "Isso passa logo depois do exame",
+  "O exame em si não machuca o olho"
+ ],
+ "after": [
+  "Alimente e acalme o bebê",
+  "As pálpebras podem ficar um pouco vermelhas por algumas horas",
+  "O médico diz o resultado e a data do próximo exame",
+  "Se precisar de tratamento, isso é conversado na hora"
+ ],
+ "red_flags": [
+  "Pálpebras muito inchadas ou pus no olho",
+  "Bebê mole, mamando mal ou golfando mais que o normal",
+  "Parou de respirar ou ficou roxo: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que examinar, se os olhos parecem normais?",
+   "a": "As alterações da retina não aparecem por fora. Só o exame encontra."
+  },
+  {
+   "q": "O exame é perigoso para o bebê?",
+   "a": "É um exame comum para prematuros. Incomoda o bebê, mas problemas são muito raros."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o exame dos olhos do bebê. Alimente o bebê antes e leve o relatório de alta."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+sinus_surg|ent|Операция на пазухах (FESS)|Sinus surgery (FESS)|or_room|H|3
+turbinate|ent|Радиоволновая конхотомия|Turbinate reduction|ent_room|M|3
+hearing_aid|ent|Подбор слухового аппарата|Hearing aid fitting|ent_room|L|2
+oae_baby|ent|Аудиоскрининг новорождённого|Newborn hearing screening|ent_room|L|1
+vestibular|ent|Обследование при головокружении|Dizziness assessment|ent_room|L|2
+snoring|ent|Лечение храпа|Snoring treatment|ent_room|M|3
+preg_first|gyn|Постановка на учёт по беременности|First pregnancy visit|gyn_chair|L|1
+preg_visits|gyn|Плановые визиты при беременности|Routine pregnancy check-ups|gyn_chair|L|1
+gtt_preg|gyn|Глюкозотест при беременности|Glucose test in pregnancy|lab_draw|L|1
+amnio|gyn|Амниоцентез|Amniocentesis|us_room|H|3
+cvs|gyn|Биопсия ворсин хориона|Chorionic villus sampling|us_room|H|3
+postpartum|gyn|Осмотр после родов|Postpartum check-up|gyn_chair|L|1
+breastfeed|gyn|Консультация по грудному вскармливанию|Breastfeeding consultation|office|L|2
+epidural|gyn|Эпидуральная анестезия в родах|Epidural in labour|ward|H|2
+induction|gyn|Стимуляция родов|Labour induction|ward|H|2
+abortion_med|gyn|Медикаментозное прерывание беременности|Medical abortion|gyn_chair|H|3
+miscarriage|gyn|Помощь при выкидыше|Miscarriage care|gyn_chair|H|3
+ectopic|gyn|Внематочная беременность|Ectopic pregnancy treatment|or_room|H|3
+erosion|gyn|Лечение эрозии шейки матки|Cervical erosion treatment|gyn_chair|M|2
+leep|gyn|Конизация шейки матки|Cervical cone biopsy (LEEP)|gyn_chair|H|3
+cervix_biopsy|gyn|Биопсия шейки матки|Cervical biopsy|gyn_chair|M|2
+endometrial|gyn|Пайпель-биопсия эндометрия|Endometrial biopsy|gyn_chair|M|2
+contraception|gyn|Подбор контрацепции|Choosing contraception|office|L|1
+implant_contra|gyn|Контрацептивный имплант|Contraceptive implant|proc_room|M|3
+menopause|gyn|Приём при менопаузе|Menopause consultation|office|L|2
+ovary_cyst|gyn|Лапароскопия кисты яичника|Ovarian cyst laparoscopy|or_room|H|3
+iui|gyn|Внутриматочная инсеминация|Intrauterine insemination (IUI)|gyn_chair|M|3
+egg_freeze|gyn|Заморозка яйцеклеток|Egg freezing|gyn_chair|H|3
+pelvic_floor|gyn|Тренировка мышц тазового дна|Pelvic floor training|rehab_room|L|2

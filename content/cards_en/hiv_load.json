@@ -1,0 +1,79 @@
+{
+ "title": "HIV viral load and CD4",
+ "also": [
+  "HIV viral load",
+  "HIV RNA",
+  "CD4 count",
+  "immune status test",
+  "CD4 cells"
+ ],
+ "what": "This blood test is for people living with HIV. It shows how much virus is in the blood and how many protective immune cells you have.",
+ "why": "To plan how to start treatment and to check regularly that it is working.",
+ "duration": "the blood draw takes a few minutes; results usually come in a few days",
+ "tell_doctor": [
+  "If you missed any pills",
+  "If you were recently ill, had a fever, or had a vaccine. This can change the result for a while",
+  "What other medicines and supplements you take",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast strictly, but it is better to come 3 to 4 hours after a light, non-fatty meal. Check with the lab."
+  },
+  {
+   "title": "Treatment",
+   "text": "Take your pills as usual, at your usual time. Do not skip them before the test."
+  },
+  {
+   "title": "How you feel",
+   "text": "If you have a cold or fever now, tell your doctor. It may be better to move the test."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve you can easily roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID",
+  "Past results",
+  "A list of all your medicines"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Keep taking your treatment without breaks",
+  "Your result is confidential. Only you or your doctor will get it."
+ ],
+ "red_flags": [
+  "The puncture site is very swollen, painful, and red",
+  "A high fever for several days, severe shortness of breath, or confusion: see a doctor urgently or call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "What does undetectable mean?",
+   "a": "It means the treatment is working. When the virus stays undetectable, HIV is not passed on through sex. Treatment still continues."
+  },
+  {
+   "q": "Why does CD4 change from test to test?",
+   "a": "It depends on how you feel, the time of day, and even the lab. The doctor looks at the trend over several tests."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Viral load and CD4 test tomorrow. Take your pills as usual, without missing any."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "title": "Allergen immunotherapy (allergy shots or drops)",
+ "also": [
+  "allergy shots",
+  "allergy immunotherapy",
+  "desensitization for allergies",
+  "allergen immunotherapy",
+  "allergy drops under the tongue"
+ ],
+ "what": "You are given small doses of the allergen, slowly increasing. Your body gets used to it, and the allergy becomes weaker.",
+ "why": "For allergy to pollen, house dust mites, or insect stings, when the exact allergen is known.",
+ "duration": "a shot or a tablet under the tongue takes a few minutes, plus about 30 minutes of observation; the course usually lasts 3 to 5 years",
+ "tell_doctor": [
+  "A current asthma or allergy flare-up",
+  "A fever, a cold, or an infection",
+  "All your medicines, especially for the heart and blood pressure",
+  "Pregnancy or plans for it",
+  "Reactions to previous doses"
+ ],
+ "prepare": [
+  {
+   "title": "Season",
+   "text": "The course is often started outside the pollen season. The allergist will make the schedule."
+  },
+  {
+   "title": "Shot day",
+   "text": "On the day of the shot, no sauna, hard workouts, or alcohol."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop your allergy and asthma medicines on your own."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your allergy test results",
+  "An ID",
+  "A diary of reactions"
+ ],
+ "steps": [
+  "The doctor or nurse asks how you feel",
+  "Sometimes your breathing is measured, if you have asthma",
+  "You get a shot under the skin of your arm, or a drop or tablet under the tongue",
+  "You stay under observation for about 30 minutes",
+  "The nurse checks the injection site",
+  "You are told the date of your next dose"
+ ],
+ "feel": [
+  "A small pinch",
+  "Redness and itching at the injection site are common",
+  "With drops or tablets, an itchy mouth in the first days"
+ ],
+ "after": [
+  "Do not leave the clinic before the observation time is over",
+  "That day, no hard exercise, sauna, or alcohol",
+  "Write your reactions in the diary",
+  "Do not skip doses, since the effect depends on regularity"
+ ],
+ "red_flags": [
+  "Trouble breathing, swelling of the lips or tongue, or a rash all over: call emergency services",
+  "Heavy swelling at the injection site, larger than a palm",
+  "Dizziness or weakness after a dose"
+ ],
+ "faq": [
+  {
+   "q": "When will I see results?",
+   "a": "Relief is usually noticeable by the end of the first year. The full course takes several years."
+  },
+  {
+   "q": "Can a child have this treatment?",
+   "a": "Often yes, usually from about age 5. The allergist makes the decision."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Allergy treatment dose tomorrow. If you have a fever or a flare-up, call the clinic before the visit."
+  }
+ ]
+}

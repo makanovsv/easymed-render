@@ -1,0 +1,74 @@
+{
+ "title": "Kolonoskopiyaga ichakni tayyorlash",
+ "also": [
+  "ichakni tozalash",
+  "kolonoskopiya oldidan eritmani qanday ichish kerak"
+ ],
+ "what": "Shifokor butun ichakni ko‘rishi uchun uni maxsus eritma bilan to‘liq tozalash kerak. Tekshiruv muvaffaqiyatli chiqishi tayyorgarlikka bog‘liq.",
+ "why": "Kolonoskopiya oldidan, ba’zan operatsiyalar va ichakning ba’zi rentgen tekshiruvlaridan oldin.",
+ "duration": "3 kun parhez + tozalashning kechqurun va ertalabki qismi",
+ "tell_doctor": [
+  "Qandli diabet: ovqat va dorilar sxemasi boshqacha bo‘ladi",
+  "Buyrak va yurak kasalliklari",
+  "Qabziyat: uzoqroq tayyorgarlik kerak bo‘lishi mumkin",
+  "Temir preparatlari: odatda vaqtincha ichmaslikni so‘rashadi, lekin shifokor hal qiladi"
+ ],
+ "prepare": [
+  {
+   "title": "3 kun oldin",
+   "text": "Mumkin: oq non, guruch, makaron, qaynatilgan go‘sht va baliq, tuxum, tvorog. Mumkin emas: sabzavotlar, mevalar, rezavorlar, ko‘katlar, urug‘lar, yong‘oqlar, dukkaklilar, butun donli bo‘tqalar."
+  },
+  {
+   "title": "Oldingi kun",
+   "text": "Yengil nonushta, keyin faqat tiniq suyuqliklar: suv, suzilgan bulon, sutsiz choy, bo‘tqasiz tiniq sharbat."
+  },
+  {
+   "title": "Eritma",
+   "text": "Preparatingiz ko‘rsatmasi va shifokor sxemasiga qat’iy amal qilib tayyorlang va iching. Odatda har 15–20 daqiqada bir stakan."
+  },
+  {
+   "title": "Maslahatlar",
+   "text": "Sovitilgan eritmani ichish osonroq. Tiniq suyuqlik bilan ichish mumkin. Uyda yuring: shunda tezroq ta’sir qiladi."
+  }
+ ],
+ "bring": [
+  "Uyda kerak bo‘ladigan ho‘l salfetkalar va teri kremi"
+ ],
+ "steps": [
+  "Oldingi kuni kechqurun eritmaning birinchi qismini sxemada ko‘rsatilgan vaqt ichida iching",
+  "1–2 soatdan keyin tez-tez suyuq najas boshlanadi: hojatxona yaqinida qoling",
+  "Sxema ikki marta bo‘lsa, ertalab erta ikkinchi qismini iching",
+  "Kolonoskopiyadan 3–4 soat oldin yoki klinika muddatigacha ichib bo‘ling",
+  "Najas parcha-purchasiz tiniq sariq suyuqlikka aylansa, tayyor"
+ ],
+ "feel": [
+  "Ko‘ngil aynishi, dam bo‘lish va titroq bo‘lishi mumkin: sekinroq iching",
+  "Hojatxonaga tez-tez borish: tozalanishning o‘zi shu"
+ ],
+ "after": [
+  "Najas hamon parcha-purcha bo‘lsa, muolajadan oldin klinikaga ayting"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq, ko‘p marta qusish, keskin holsizlik yoki bosh aylanishi bo‘lsa, klinika bilan bog‘laning yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Eritmani ichib bo‘lmasa, nima qilish kerak?",
+   "a": "Sekinroq iching, sovuting, 20–30 daqiqa tanaffus qiling. Umuman bo‘lmasa, klinikaga qo‘ng‘iroq qiling."
+  },
+  {
+   "q": "Tayyorgarlik paytida ovqatlansa bo‘ladimi?",
+   "a": "Oldingi kuni nonushtadan keyin faqat tiniq suyuqliklar. Aks holda ichak tozalanmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Kletchatkasiz parhezni boshlang: sabzavotlar, mevalar, urug‘lar va butun donli mahsulotlarsiz."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Bugun nonushtadan keyin faqat tiniq suyuqliklar. Kechqurun sxema bo‘yicha eritma."
+  }
+ ]
+}

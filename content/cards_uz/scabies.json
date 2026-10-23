@@ -1,0 +1,74 @@
+{
+ "title": "Qo‘tir davosi",
+ "also": [
+  "qo‘tir",
+  "qo‘tir oqadigi",
+  "tunda qichishish",
+  "qo‘tirni davolash",
+  "qo‘tirga malham"
+ ],
+ "what": "Qo‘tir — mayda oqadi chaqaradigan teri kasalligi. Teri qattiq qichiydi, ayniqsa tunda. Malham yoki losyon bilan davolanadi, odatda butun oila bir vaqtda.",
+ "why": "Kuchli qichishish, ayniqsa tunda, va barmoqlar orasida, bilakda, qorinda mayda toshma bo‘lganda.",
+ "duration": "qabul odatda 15–20 daqiqa; davo odatda bir necha kun, ba’zan bir haftadan keyin takroran",
+ "tell_doctor": [
+  "Qachondan beri va qayerda qichiydi",
+  "Oila a’zolari yoki yaqinlarda qichishish bormi",
+  "Homiladorlik yoki emizish",
+  "Bolani davolayotgan bo‘lsangiz, uning yoshi va vazni"
+ ],
+ "prepare": [
+  {
+   "title": "Oila",
+   "text": "Birga yashaydigan hammani davolash kerak, hatto ularda qichishish bo‘lmasa ham. Shifokor aytadi."
+  },
+  {
+   "title": "Ich kiyim",
+   "text": "Davodan keyin almashtirish uchun toza choyshab va kiyim tayyorlang."
+  },
+  {
+   "title": "Dori",
+   "text": "Vosita va sxemani shifokor buyuradi. Xalq vositalari bilan davolanmang."
+  }
+ ],
+ "bring": [
+  "Dorilar ro‘yxati",
+  "Qichishayotgan yaqinlar haqida ma’lumot"
+ ],
+ "steps": [
+  "Shifokor so‘raydi va terini ko‘radi",
+  "Ba’zan terini kattalashtirib ko‘radi yoki qirindi oladi",
+  "Vosita buyuradi va qanday surtishni tushuntiradi",
+  "Uyda vositani bo‘yindan tovongacha butun tanaga surtishadi",
+  "Aytilgan soat davomida qoldirishadi",
+  "Keyin tanani yuvib, toza kiyim kiyishadi",
+  "Choyshab va kiyimni issiq suvda yuvishadi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "Qichishish davodan keyin yana 2–4 hafta davom etishi mumkin: bu davo yordam bermadi degani emas"
+ ],
+ "after": [
+  "Yuvib bo‘lmaydigan narsalarni odatda bir necha kunga yopiq paketga solib qo‘yishadi",
+  "Takroriy ishlov shifokor buyurgan bo‘lsa, shunday qiling",
+  "2–4 haftadan keyin yangi toshma chiqsa, qayta qabulga"
+ ],
+ "red_flags": [
+  "Po‘stloq, yiring, teri shishishi, isitma: shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Qo‘tir kirdan bo‘ladimi?",
+   "a": "Yo‘q. Qo‘tir bilan og‘rigan odam bilan yaqin aloqada yuqtirish mumkin. Toza yurish to‘liq himoya qilmaydi."
+  },
+  {
+   "q": "Nega davodan keyin ham qichiydi?",
+   "a": "Teri hali oqadi qoldiqlariga reaksiya beradi. Qichishish bir necha haftada o‘tadi. Yomonlashsa, shifokorga."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Bugun kechqurun qo‘tirga qarshi davo. Butun oila uchun toza choyshab va kiyim tayyorlang."
+  }
+ ]
+}

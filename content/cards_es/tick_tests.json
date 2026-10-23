@@ -1,0 +1,76 @@
+{
+ "title": "Análisis después de una picadura de garrapata (encefalitis, borreliosis)",
+ "also": [
+  "análisis por picadura de garrapata",
+  "encefalitis por garrapatas",
+  "borreliosis",
+  "enfermedad de Lyme",
+  "análisis de la garrapata"
+ ],
+ "what": "Son análisis que muestran si la garrapata te contagió algo. Se puede revisar la garrapata misma y tu sangre.",
+ "why": "Después de una picadura de garrapata, sobre todo si estuviste en lugares donde hay encefalitis por garrapatas, o si aparecen fiebre o enrojecimiento.",
+ "duration": "el análisis de la garrapata suele tardar de 1 a 3 días; la sangre no se toma de inmediato, sino cuando diga el médico",
+ "tell_doctor": [
+  "Cuándo y dónde te picó",
+  "Cuánto tiempo estuvo la garrapata en la piel",
+  "Si te vacunaste contra la encefalitis por garrapatas",
+  "Si tienes fiebre, dolor de cabeza o una mancha roja"
+ ],
+ "prepare": [
+  {
+   "title": "Garrapata",
+   "text": "Si ya te quitaste la garrapata, ponla en un frasco con un algodón húmedo y ciérralo bien. Llévala al laboratorio lo antes posible."
+  },
+  {
+   "title": "Tiempos",
+   "text": "Los anticuerpos en la sangre no aparecen de inmediato: normalmente varias semanas después de la picadura. El médico te dirá cuándo hacerte el análisis."
+  },
+  {
+   "title": "Comida",
+   "text": "Antes del análisis de sangre es mejor no comer durante 3 o 4 horas. Puedes tomar agua."
+  }
+ ],
+ "bring": [
+  "La garrapata en un frasco cerrado, si la tienes",
+  "La orden médica",
+  "Tu identificación",
+  "Datos de tu vacuna contra la encefalitis por garrapatas"
+ ],
+ "steps": [
+  "Entregas la garrapata en el laboratorio y la revisan para buscar infecciones",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Ponen un algodón en el lugar del piquete"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Durante un mes después de la picadura, vigila tu temperatura y el lugar de la picadura",
+  "La decisión sobre la prevención la toma el médico: no pospongas la consulta"
+ ],
+ "red_flags": [
+  "La mancha roja alrededor de la picadura crece: ve al médico",
+  "Fiebre, dolor de cabeza fuerte o dolor de cuerpo: ve al médico ese mismo día",
+  "Confusión, convulsiones o debilidad en brazos o piernas: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo se quita bien una garrapata?",
+   "a": "Agárrala con pinzas o un hilo, muy pegado a la piel, y gírala despacio para sacarla. Limpia el lugar con antiséptico."
+  },
+  {
+   "q": "Si la garrapata no tiene infección, ¿ya no hace falta el análisis de sangre?",
+   "a": "Normalmente no, pero lo decide el médico. Vigila cómo te sientes durante un mes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es el análisis por la picadura de garrapata. Lleva los datos de tus vacunas y anota la fecha de la picadura."
+  }
+ ]
+}

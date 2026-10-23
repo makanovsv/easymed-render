@@ -1,0 +1,79 @@
+{
+ "title": "Metanefrinas no sangue e na urina",
+ "also": [
+  "metanefrinas",
+  "normetanefrina",
+  "catecolaminas",
+  "exame para feocromocitoma",
+  "metanefrinas na urina de 24 horas"
+ ],
+ "what": "É um exame de sangue ou de urina de substâncias que se formam a partir dos hormônios do estresse. Ajuda a encontrar tumores raros da adrenal.",
+ "why": "Com crises de pressão alta com coração acelerado, suor e dor de cabeça, ou quando acharam algo na adrenal.",
+ "duration": "a coleta de sangue leva alguns minutos, a de urina, 24 horas; o resultado sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente para pressão, depressão e gripe",
+  "Se você toma muito café ou energético",
+  "Se na família houve tumores da adrenal",
+  "Se a pressão às vezes sobe muito em crises"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Alguns remédios alteram o resultado. Não pare nada por conta própria. O médico diz se é preciso trocar algo."
+  },
+  {
+   "title": "Comida e bebida",
+   "text": "Normalmente, nas 24 horas antes, corte café, chá forte, álcool e cigarro. Muitas vezes pedem para não comer banana, castanhas e chocolate. Confirme com o laboratório."
+  },
+  {
+   "title": "Sangue",
+   "text": "O sangue é colhido em jejum. Antes da coleta, normalmente é preciso ficar deitado uns 20 a 30 minutos."
+  },
+  {
+   "title": "Urina de 24 horas",
+   "text": "A primeira urina da manhã não entra. Depois, durante 24 horas, urine num recipiente grande. A última vez é na manhã seguinte. Às vezes colocam um conservante no recipiente. O laboratório entrega."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "O recipiente com a urina de 24 horas ou uma parte dela, como o laboratório pedir",
+  "O volume total de urina das 24 horas anotado"
+ ],
+ "steps": [
+  "Para o sangue, você se deita e fica quieto uns 30 minutos",
+  "A enfermeira coloca o garrote e limpa a pele",
+  "Uma picada rápida: o sangue enche o tubo",
+  "Para a urina, você entrega a urina de 24 horas ou uma parte dela",
+  "O técnico anota o volume e o horário da coleta"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Coletar a urina de 24 horas não dói, mas não pode esquecer nenhuma vez"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Depois do exame você pode comer e beber normalmente",
+  "Quem avalia o resultado é o médico. Às vezes o exame é repetido"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho",
+  "Crise: pressão muito alta, dor de cabeça forte, dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Posso tomar café antes do exame?",
+   "a": "Normalmente não. A cafeína pode alterar o resultado. O prazo exato quem diz é o laboratório."
+  },
+  {
+   "q": "E se eu esquecer uma vez de coletar a urina?",
+   "a": "Vai ser preciso começar de novo. Senão o resultado fica impreciso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você faz o exame de metanefrinas. A partir de hoje, sem café, álcool e cigarro. Remédios como o médico disse."
+  }
+ ]
+}

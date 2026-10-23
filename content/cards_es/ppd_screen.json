@@ -1,0 +1,74 @@
+{
+ "title": "Detección de depresión posparto",
+ "also": [
+  "depresión posparto",
+  "cuestionario después del parto",
+  "tristeza después del parto",
+  "estado de ánimo después del parto"
+ ],
+ "what": "Contestas un cuestionario corto sobre tu ánimo y cómo te sientes. Ayuda a notar a tiempo la depresión posparto.",
+ "why": "Normalmente en las primeras semanas y meses después del parto. A veces también durante el embarazo.",
+ "duration": "normalmente de 5 a 10 minutos; el médico platica el resultado en ese momento",
+ "tell_doctor": [
+  "Cómo duermes y comes",
+  "Si sientes ansiedad, lloras o te irritas",
+  "Si tuviste depresión antes",
+  "Si tienes apoyo en casa",
+  "Si tienes pensamientos de hacerte daño o hacerle daño al bebé, dilo sin falta. Te van a ayudar"
+ ],
+ "prepare": [
+  {
+   "title": "Honestidad",
+   "text": "Contesta como es. No hay respuestas buenas ni malas."
+  },
+  {
+   "title": "Tiempo",
+   "text": "Contesta sobre cómo te has sentido en la última o las últimas dos semanas."
+  },
+  {
+   "title": "Apoyo",
+   "text": "Puedes ir con una persona cercana."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "La lista de tus medicamentos",
+  "Puedes llevar al bebé, si lo permiten"
+ ],
+ "steps": [
+  "Te dan un cuestionario en papel o en el celular",
+  "Contestas unas 10 preguntas",
+  "El médico suma los puntos",
+  "Platica contigo el resultado",
+  "Si hace falta, te ofrece ayuda o una consulta con un especialista"
+ ],
+ "feel": [
+  "Las preguntas pueden ser personales. Es normal",
+  "A veces cuesta admitir que estás pasando un mal momento. El médico lo va a entender"
+ ],
+ "after": [
+  "Si salen pocos puntos, sigue poniendo atención a cómo te sientes",
+  "Si salen muchos, el médico te ofrecerá apoyo, una consulta o tratamiento",
+  "Pide ayuda a tus familiares: dormir y descansar es muy importante"
+ ],
+ "red_flags": [
+  "Pensamientos de hacerte daño o hacerle daño al bebé: llama a emergencias o ve de inmediato al médico",
+  "Muchos días seguidos sin poder dormir, comer o cuidar al bebé"
+ ],
+ "faq": [
+  {
+   "q": "¿Esto quiere decir que soy mala madre?",
+   "a": "No. La depresión posparto es común y tiene tratamiento."
+  },
+  {
+   "q": "¿En qué se diferencia la tristeza después del parto de la depresión?",
+   "a": "La tristeza normalmente se quita en 1 o 2 semanas. Si te sientes mal por más tiempo o más fuerte, dile al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta sobre cómo te sientes después del parto. Contesta con honestidad. Eso ayuda."
+  }
+ ]
+}

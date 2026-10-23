@@ -1,0 +1,72 @@
+{
+ "title": "Evaluación médico-social (discapacidad)",
+ "also": [
+  "evaluación de discapacidad",
+  "discapacidad",
+  "comisión médico-social",
+  "trámite de discapacidad"
+ ],
+ "what": "Una comisión decide si la persona tiene una discapacidad y qué ayuda necesita. La decisión se basa en documentos médicos y en una revisión.",
+ "why": "Con alteraciones permanentes de la salud después de una enfermedad o una lesión que impiden trabajar o cuidarse.",
+ "duration": "reunir los documentos toma semanas; la evaluación en sí suele durar hasta una hora, y la decisión se da el mismo día o después",
+ "tell_doctor": [
+  "Todas tus enfermedades y cómo te estorban en la vida",
+  "Qué medicamentos y tratamiento recibes",
+  "Qué ayudas necesitas: bastón, silla de ruedas, audífono",
+  "Dificultades con el trabajo, la casa, el desplazamiento"
+ ],
+ "prepare": [
+  {
+   "title": "Orden",
+   "text": "Normalmente la orden para la evaluación la hace tu médico tratante después de los estudios necesarios."
+  },
+  {
+   "title": "Documentos",
+   "text": "Reúne resúmenes, informes y resultados de estudios. Mientras más completo, más exacta la decisión."
+  },
+  {
+   "title": "A distancia",
+   "text": "A veces la evaluación se hace sin visita, solo con los documentos. Pregunta en tu centro de salud."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La orden para la evaluación",
+  "Documentos y resúmenes médicos",
+  "Constancia de trabajo, si la piden"
+ ],
+ "steps": [
+  "El médico tratante te manda a hacer estudios",
+  "Prepara la orden para la evaluación",
+  "La comisión estudia los documentos",
+  "Si hace falta una revisión en persona, te citan",
+  "Los especialistas platican contigo y te revisan",
+  "La comisión decide y prepara un programa de rehabilitación"
+ ],
+ "feel": [
+  "La revisión no duele",
+  "El trámite puede ser largo y cansado"
+ ],
+ "after": [
+  "Te dan una constancia y el programa de rehabilitación",
+  "La decisión se puede apelar dentro del plazo establecido",
+  "Fíjate en la fecha de la nueva evaluación"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Se puede hacer la evaluación en casa?",
+   "a": "Si la persona no puede ir, hay evaluación a domicilio o a distancia. Pregunta en tu centro de salud."
+  },
+  {
+   "q": "¿Qué hago si no estoy de acuerdo con la decisión?",
+   "a": "Se puede apelar. El procedimiento y los plazos te los explican en la oficina."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la evaluación médico-social. Verifica que tienes todos los documentos y la orden."
+  }
+ ]
+}

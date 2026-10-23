@@ -1,0 +1,71 @@
+{
+ "title": "Uyali kallikni davolash",
+ "also": [
+  "uyali kallik",
+  "o‘choqli alopetsiya",
+  "dumaloq kal joylar",
+  "sochning dog‘-dog‘ to‘kilishi"
+ ],
+ "what": "Bu sochlar dumaloq joylarda to‘kilishi. Shifokor sochlar yana o‘sishi uchun davo tanlaydi.",
+ "why": "Boshda, soqolda yoki qoshlarda sochsiz dumaloq joylar paydo bo‘lganda.",
+ "duration": "qabul odatda 20–30 daqiqa; sochlar odatda bir necha oyda qayta o‘sadi",
+ "tell_doctor": [
+  "Joylar qachon paydo bo‘lgan va kattalashyaptimi",
+  "Qalqonsimon bez kasalliklari va boshqa surunkali kasalliklar",
+  "Qanday dorilar ichasiz",
+  "Yaqinda kuchli stress yoki kasallik bo‘lganmi",
+  "Qarindoshlarda shunday holatlar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Sochlar",
+   "text": "Qabuldan oldin joylarni upa yoki bo‘yoq bilan yashirmang."
+  },
+  {
+   "title": "Surat",
+   "text": "Joylar qanday o‘zgargani suratlari bo‘lsa — oling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Oldingi tahlillar natijalari, agar bo‘lsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor sochlar qachon va qanday to‘kila boshlagani haqida so‘raydi",
+  "Bosh terisini, ba’zan maxsus lupa orqali ko‘zdan kechiradi",
+  "Qon tahlillarini buyurishi mumkin",
+  "Davoni tushuntiradi: teriga vositalar, ba’zan joylarga ukollar",
+  "Keyingi qabulni belgilaydi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "Teriga ukol qilinsa — qisqa chimchilash"
+ ],
+ "after": [
+  "Vositalardan shifokor buyurganidek foydalaning",
+  "Sochlar darrov o‘smaydi — sabr kerak",
+  "Ba’zan avval och rangli ingichka tuklar o‘sadi, keyin oddiy sochlar",
+  "Belgilangan muddatda nazoratga keling"
+ ],
+ "red_flags": [
+  "Butun boshda sochlar tez to‘kilmoqda",
+  "Teri joylari qizaryapti, og‘riyapti yoki po‘st tashlayapti"
+ ],
+ "faq": [
+  {
+   "q": "Bu yuqumlimi?",
+   "a": "Yo‘q. Uyali kallik boshqa odamlarga yuqmaydi."
+  },
+  {
+   "q": "Sochlar o‘sadimi?",
+   "a": "Ko‘pincha ha, lekin muddatlari har xil. Sizning holatingizda nima kutish kerakligini shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga soch to‘kilishi bo‘yicha qabul. Joylarni bo‘yamang, tahlillar va suratlar bo‘lsa oling."
+  }
+ ]
+}

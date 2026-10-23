@@ -1,0 +1,72 @@
+{
+ "title": "Parazitlarga tahlil (gijja tuxumlari)",
+ "also": [
+  "najasda gijja tuxumlariga tahlil",
+  "najas g/t ga",
+  "gelmintlarga tahlil",
+  "parazitlarga najas",
+  "eng oddiylarga najas"
+ ],
+ "what": "Uyda maxsus idishga ozgina najas yig‘asiz. Laboratoriyada mikroskop ostida gijja va eng oddiylarning tuxumlarini qidirishadi.",
+ "why": "Bog‘cha, maktab, basseyn uchun ma’lumotnomalarga; qorin og‘rig‘i, qichishish, beqaror najas, ishtaha yomonligida.",
+ "duration": "yig‘ish uyda bir necha daqiqa oladi, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Gijjaga qarshi dorilar yoki antibiotiklar ichayotgan yoki yaqinda ichgan bo‘lsangiz",
+  "Yaqinda kontrastli rentgen qilingan bo‘lsa",
+  "Surgi ichayotgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Idish",
+   "text": "Laboratoriyadan yoki dorixonadan qoshiqchali steril idish oling. Ba’zan suyuqlikli idish berishadi — uni to‘kmang."
+  },
+  {
+   "title": "Yig‘ish",
+   "text": "Najasni tabiiy defekatsiyadan keyin, klizma va surgisiz yig‘ishadi. Idishga siydik tushmasligi kerak."
+  },
+  {
+   "title": "Saqlash",
+   "text": "Laboratoriyaga o‘sha kuni, odatda bir necha soat ichida olib boring. Saqlash qoidalarini laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Namunali idish",
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Hojatxonaga hojatxona suviga emas, toza quruq tog‘ora yoki paketga boring",
+  "Qopqoqdagi qoshiqcha bilan turli joylardan ozgina najas oling",
+  "Idishni taxminan uchdan bir qismigacha to‘ldiring",
+  "Qattiq yoping va imzolang",
+  "Aytilgan muddatda laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Kundalik noqulaylikdan boshqa noxush narsa yo‘q"
+ ],
+ "after": [
+  "Natija odatda 1–3 kunda",
+  "Ba’zan shifokor tahlilni 2–3 marta topshirishni so‘raydi — shunda parazitlarni topish ehtimoli yuqori bo‘ladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Nega tahlilda gijja topilmadi, shifokor esa qayta topshirishni so‘rayapti?",
+   "a": "Tuxumlar har kuni chiqmaydi. Shuning uchun tahlil ba’zan tanaffus bilan bir necha marta topshiriladi."
+  },
+  {
+   "q": "Najasni kechqurun yig‘ib, ertalab topshirsa bo‘ladimi?",
+   "a": "Laboratoriya va idish turiga bog‘liq. Oldindan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga parazitlarga najas topshirasiz. Idish va toza tog‘ora yoki paketni tayyorlang."
+  }
+ ]
+}

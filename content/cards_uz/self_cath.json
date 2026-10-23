@@ -1,0 +1,83 @@
+{
+ "title": "Siydik pufagini o‘zi kateterlash",
+ "also": [
+  "o‘zini kateterlash",
+  "siydik kateteri",
+  "siydikni o‘zi qanday chiqarish",
+  "davriy kateterlash",
+  "siydik pufagi kateteri"
+ ],
+ "what": "Siz kuniga bir necha marta o‘zingiz siydik yo‘liga ingichka naycha kiritib siydikni chiqarasiz va darhol uni olib tashlaysiz.",
+ "why": "Siydik pufagi o‘zi oxirigacha bo‘shalmaganda: umurtqa jarohatidan keyin, asab kasalliklarida, ba’zi operatsiyalardan keyin.",
+ "duration": "bir kateterlash odatda 5–10 daqiqa, kuniga bir necha marta",
+ "tell_doctor": [
+  "Siydikni chiqarish qiyin bo‘lsa yoki kateter o‘tmasa",
+  "Siydik loyqa, qonli yoki hidli bo‘lsa",
+  "Kateterlashlar orasida siydik sizib tursa",
+  "Lateksga allergiyangiz bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "O‘rganish",
+   "text": "Birinchi marta hamshira yoki urolog bilan birga qilishadi. Kuniga necha marta ekanini shifokor aytadi."
+  },
+  {
+   "title": "Kateterlar",
+   "text": "Odatda gelli bir martalik kateterlardan foydalanishadi. Zaxirani uyda va yo‘lda saqlang."
+  },
+  {
+   "title": "Tozalik",
+   "text": "Har bir kateterlashdan oldin qo‘llar va teshik atrofini yuving."
+  },
+  {
+   "title": "Suv",
+   "text": "Shifokor maslahat berganchalik suv iching: kateter qanchalik tez-tez kerakligi shunga bog‘liq."
+  }
+ ],
+ "bring": [
+  "Kateterlar zaxirasi",
+  "Nam salfetkalar va sovun",
+  "Kundalik: vaqt va siydik miqdori",
+  "Ko‘zgu: ayollarga dastlabki paytda"
+ ],
+ "steps": [
+  "Qo‘llarni sovun bilan yuving",
+  "Siydik yo‘li teshigi atrofini yuving",
+  "Kateterni uchiga tegmasdan oching",
+  "Hojatxonada o‘tiring yoki oldida turing, qulay bo‘lganicha",
+  "Siydik oqa boshlaguncha kateterni sekin kiriting",
+  "Siydik oqishi to‘xtaguncha kuting",
+  "Kateterni sekin chiqarib, tashlang",
+  "Qo‘llarni yana yuving"
+ ],
+ "feel": [
+  "Dastlabki marta odatiy emas va yoqimsiz bo‘lishi mumkin",
+  "Og‘riq odatda yo‘q; og‘risa, shifokorga ayting"
+ ],
+ "after": [
+  "Hojatxonaga borgingiz kelmasa ham, kateterlashni jadval bo‘yicha qiling",
+  "Shifokor so‘ragan bo‘lsa, siydik miqdorini yozib boring",
+  "Kateter bir martalik: qayta ishlatmang"
+ ],
+ "red_flags": [
+  "Isitma, titroq, qorin pastida yoki belda og‘riq: shifokorga",
+  "O‘tmaydigan siydikdagi qon",
+  "Kateterni kirita olmayapsiz, pufak esa to‘lib ketgan: shoshilinch shifokorga yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Doimiy kateterlardan infeksiya bo‘lmaydimi?",
+   "a": "Xavf bor, lekin toza qo‘llar va bir martalik kateterlar uni ancha kamaytiradi. Muntazam bo‘shatish ham himoya qiladi."
+  },
+  {
+   "q": "Sayohat qilsa bo‘ladimi?",
+   "a": "Ha. Kateterlar zaxirasini va nam salfetkalarni o‘zingiz bilan oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Kateterlash vaqti. Qo‘llarni yuving, yangi kateterni tayyorlang."
+  }
+ ]
+}

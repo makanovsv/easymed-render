@@ -1,0 +1,74 @@
+{
+ "title": "Anticuerpos anti-Rh en el embarazo",
+ "also": [
+  "anticuerpos anti-D",
+  "incompatibilidad Rh",
+  "Coombs indirecto",
+  "título de anticuerpos"
+ ],
+ "what": "El análisis de sangre de la mamá muestra si tiene anticuerpos contra la sangre Rh positiva del bebé. Se hace a mujeres con Rh negativo.",
+ "why": "Cuando la mamá tiene Rh negativo: durante el embarazo, antes de la inyección protectora y después de sangrados o golpes.",
+ "duration": "la toma de sangre suele durar 5 minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "El Rh de tu pareja, si lo sabes",
+  "Si antes tuviste embarazos, pérdidas, abortos o transfusiones",
+  "Si te pusieron la inmunoglobulina anti-D y cuándo",
+  "Si tuviste un sangrado, un golpe o una caída sobre el abdomen"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayunar. Si te haces otros análisis al mismo tiempo, pregunta."
+  },
+  {
+   "title": "Calendario",
+   "text": "El médico te dirá cuántas veces hacerlo. Normalmente varias veces en el embarazo."
+  },
+  {
+   "title": "Inyección protectora",
+   "text": "Normalmente la inmunoglobulina se pone alrededor de la semana 28 y después del parto. La fecha la decide el médico."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Tu carnet prenatal",
+  "Resultados anteriores de anticuerpos"
+ ],
+ "steps": [
+  "Te sientas y te ponen una liga arriba del codo",
+  "Limpian la piel con antiséptico",
+  "Toman sangre de la vena en un tubo",
+  "Quitan la liga y ponen un algodón"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "Si te mareas, avísale a la enfermera: te recostarán de lado"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "El resultado suele estar en 1 a 3 días",
+  "Si encuentran anticuerpos, el médico revisa al bebé con ultrasonido más seguido",
+  "Si no hay anticuerpos, el médico te dirá cuándo toca la inyección protectora"
+ ],
+ "red_flags": [
+  "Sangrado, golpe o caída sobre el abdomen: díselo al médico de inmediato, puede hacer falta la inyección protectora",
+  "Dolor fuerte de abdomen o sangrado abundante: llama a emergencias",
+  "El bebé se mueve mucho menos: ve al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "Tengo Rh negativo. ¿Es peligroso para el bebé?",
+   "a": "Normalmente no, si te haces los análisis a tiempo y te ponen la inyección protectora. El médico lo vigila durante todo el embarazo."
+  },
+  {
+   "q": "¿Para qué la inyección si no tengo anticuerpos?",
+   "a": "Evita que aparezcan. Así se protege a este bebé y a los siguientes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de anticuerpos anti-Rh. Lleva tu carnet prenatal."
+  }
+ ]
+}

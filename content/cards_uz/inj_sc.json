@@ -1,0 +1,67 @@
+{
+ "title": "Teri ostiga inyeksiya",
+ "also": [
+  "teri ostiga ukol",
+  "teri ostidagi ukol",
+  "t/o inyeksiya",
+  "qoringa ukol"
+ ],
+ "what": "Dori ingichka qisqa igna bilan teri ostidagi yog‘ qatlamiga — odatda qorin, yelka yoki songa kiritiladi.",
+ "why": "Shunday insulin, tromblarga qarshi preparatlar, ba’zi gormonlar va vaksinalar kiritiladi — shifokor buyrug‘i bilan.",
+ "duration": "ukolning o‘zi — bir daqiqadan kam",
+ "tell_doctor": [
+  "Dorilarga allergiyalar",
+  "Qonni suyultiruvchi dorilar",
+  "Ukollardan keyin oldin ko‘karishlar yoki bo‘rtmalar bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Ovqatlanish va suv ichish mumkin."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qorin yoki yelkani oson ochish mumkin bo‘lgan kiyim."
+  }
+ ],
+ "bring": [
+  "Shifokor buyrug‘i",
+  "Dori, agar o‘zingiz sotib olgan bo‘lsangiz"
+ ],
+ "steps": [
+  "Hamshira buyruq va dorini tekshiradi",
+  "Joyni tanlaydi: kindik atrofi, yelka yoki son",
+  "Teri antiseptik bilan artiladi",
+  "Teri burmaga yig‘iladi va igna tez kiritiladi",
+  "Dori sekin yuboriladi, igna olinadi"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zi dorilar kiritilayotganda biroz kuydiradi"
+ ],
+ "after": [
+  "Hamshira boshqacha aytmagan bo‘lsa, joyni ishqalamang",
+  "Kichik ko‘kargan joy bo‘ladi va o‘zi o‘tadi",
+  "Ukollar kurs bilan bo‘lsa — joy har safar almashtiriladi"
+ ],
+ "red_flags": [
+  "Yuz yoki lablar shishi, nafas olish qiyin, tanada toshma — tez yordamni chaqiring (103)",
+  "Ukol joyi qattiq qizarsa, issiq va og‘risa"
+ ],
+ "faq": [
+  {
+   "q": "Nega ukollar qoringa qilinadi?",
+   "a": "U yerda teri osti yog‘i ko‘p, dori tekis so‘riladi. Bu yelkadagidan og‘riqliroq emas."
+  },
+  {
+   "q": "Qoringa ukoldan keyin ko‘karishlar qayerdan?",
+   "a": "Tromblarga qarshi preparatlardan ko‘karishlar tez-tez bo‘ladi. Juda katta bo‘lsa — shifokorga ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada ukol. Qorin yoki yelkani oson ochish mumkin bo‘lgan kiyim kiying."
+  }
+ ]
+}

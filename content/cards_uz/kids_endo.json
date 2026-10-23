@@ -1,0 +1,75 @@
+{
+ "title": "Bolalar endokrinologi qabuli (bo‘y, vazn, jinsiy yetilish)",
+ "also": [
+  "bolalar endokrinologi",
+  "bolaning bo‘yi",
+  "bolada ortiqcha vazn",
+  "jinsiy yetilish"
+ ],
+ "what": "Shifokor bolaning qanday o‘sayotganini, rivojlanayotganini va gormonlar bunga halaqit bermayotganini tekshiradi.",
+ "why": "Bola tengdoshlaridan sezilarli past yoki baland bo‘lsa, ortiqcha vazn yig‘sa, jinsiy yetilish juda erta yoki kech boshlangan bo‘lsa, qalqonsimon bez bilan muammoga shubha bo‘lganda.",
+ "duration": "qabul odatda 20–40 daqiqa, tahlillar — bir necha kundan keyin",
+ "tell_doctor": [
+  "Bolaning yillar bo‘yicha bo‘yi va vazni — kartadan yoki sizning yozuvlaringizdan",
+  "Ota-onaning bo‘yi",
+  "Yetilish belgilari qachon boshlangan",
+  "Bola qanday ovqatlanadi, uxlaydi, harakatlanadi",
+  "Qanday dorilar ichadi"
+ ],
+ "prepare": [
+  {
+   "title": "Yillar bo‘yicha bo‘y",
+   "text": "Tibbiy kartadan o‘tgan yillardagi bo‘y va vaznni ko‘chirib yozing — bu shifokor uchun asosiysi."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Shifokor gormonlarga tahlil buyurishi mumkin. Odatda ertalab och qoringa. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Suhbat",
+   "text": "Bolaga shifokor uning qanday o‘sayotganini ko‘rishini va bu og‘riqsizligini tushuntiring."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Bo‘y o‘lchovlari yozilgan tibbiy karta",
+  "Oldingi tahlillar va kaft surati, agar qilingan bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor rivojlanish haqida sizdan so‘raydi",
+  "Bo‘y va vaznni o‘lchaydi",
+  "Bolani ko‘zdan kechiradi — kerak bo‘lsa yetilish belgilarini ham, ehtiyotkorlik bilan va ota-ona huzurida",
+  "Bo‘yinni paypaslaydi",
+  "Tahlillarga yoki kaft suratiga yo‘llanma berishi mumkin",
+  "Xulosa va rejani tushuntiradi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "O‘smirga noqulay bo‘lishi mumkin — ko‘rik qisqaroq bo‘lishini so‘rash mumkin"
+ ],
+ "after": [
+  "Bo‘y va vaznni kuzatib boring — bir necha oyda bir marta yozing",
+  "Dorilarni faqat shifokor buyuradi",
+  "Takroriy qabul — shifokor aytadigan muddatdan keyin"
+ ],
+ "red_flags": [
+  "Bola ko‘p ichadi va tez-tez siyadi, ozib ketmoqda, loqayd — shoshilinch shifokorga boring",
+  "Og‘izdan aseton hidi, qusish, uyquchanlik — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Bolam sinfda eng past — bu kasallikmi?",
+   "a": "Har doim emas. Ko‘pincha bu irsiyat. Shifokor yillar bo‘yicha bo‘yni ko‘radi."
+  },
+  {
+   "q": "Kaft rentgeni nega kerak?",
+   "a": "Unda suyaklar qanchalik yetilgani va bola yana qancha o‘sishi mumkinligi ko‘rinadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bolalar endokrinologi qabuli. Bolaning o‘tgan yillardagi bo‘yi va vaznini yozib oling."
+  }
+ ]
+}

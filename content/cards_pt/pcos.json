@@ -1,0 +1,77 @@
+{
+ "title": "Consulta para ovários policísticos (SOP)",
+ "also": [
+  "SOP",
+  "síndrome dos ovários policísticos",
+  "ovário policístico",
+  "menstruação irregular"
+ ],
+ "what": "O médico investiga por que o ciclo está irregular e avalia os hormônios e os ovários. Depois, indica o tratamento de acordo com o seu objetivo.",
+ "why": "Para menstruação rara ou irregular, excesso de pelos no corpo, acne e dificuldade para engravidar.",
+ "duration": "a consulta leva normalmente de 30 a 40 minutos; os exames costumam ficar prontos em alguns dias",
+ "tell_doctor": [
+  "Como está o ciclo e quando foi a última menstruação",
+  "Se você quer engravidar",
+  "Se o seu peso mudou",
+  "Se você ou alguém da família tem diabetes",
+  "Quais remédios e hormônios você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Diário do ciclo",
+   "text": "Anote as datas das menstruações dos últimos meses."
+  },
+  {
+   "title": "Exames",
+   "text": "Os hormônios normalmente são dosados em dias certos do ciclo. O médico vai dizer quais."
+  },
+  {
+   "title": "Documentos",
+   "text": "Leve exames de sangue e ultrassons anteriores."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Diário do ciclo",
+  "Exames e ultrassons anteriores",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "O médico pergunta sobre o ciclo e como você está",
+  "Mede altura, peso e pressão",
+  "Faz o exame físico",
+  "Pede exames de hormônios e de açúcar no sangue",
+  "Pede ultrassom pélvico",
+  "No retorno, conversa sobre os resultados e o tratamento"
+ ],
+ "feel": [
+  "É uma consulta comum, nada desagradável",
+  "O ultrassom transvaginal pode incomodar um pouco"
+ ],
+ "after": [
+  "Faça os exames da lista",
+  "Muitas vezes se recomenda cuidar da alimentação e se mexer mais",
+  "O tratamento é escolhido pelo objetivo: regular o ciclo ou engravidar",
+  "É preciso acompanhamento regular"
+ ],
+ "red_flags": [
+  "Sangramento forte: ligue para a emergência",
+  "Dor forte e repentina no pé da barriga"
+ ],
+ "faq": [
+  {
+   "q": "Dá para engravidar com SOP?",
+   "a": "Sim, muitas mulheres conseguem, às vezes com ajuda de tratamento."
+  },
+  {
+   "q": "É para sempre?",
+   "a": "A SOP normalmente não some totalmente, mas os sintomas podem ser bem controlados."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o ginecologista. Leve as datas das menstruações e os exames anteriores."
+  }
+ ]
+}

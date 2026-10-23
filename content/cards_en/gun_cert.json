@@ -1,0 +1,70 @@
+{
+ "title": "Medical check for a firearm permit",
+ "also": [
+  "firearm medical certificate",
+  "gun permit medical exam",
+  "medical check for a gun license",
+  "hunting license medical certificate"
+ ],
+ "what": "A medical check that is required to get or renew a firearm permit. It usually includes several doctors and a lab test.",
+ "why": "When getting or renewing a firearm license.",
+ "duration": "usually 1 to 2 days, the lab result in a few days",
+ "tell_doctor": [
+  "Eye diseases and your vision",
+  "Diseases of the nervous system and mental health",
+  "Which medicines you take"
+ ],
+ "prepare": [
+  {
+   "title": "List of doctors",
+   "text": "Usually you need a general doctor or occupational doctor, an eye doctor, a psychiatrist and an addiction specialist. Ask the clinic for the exact list."
+  },
+  {
+   "title": "Lab test",
+   "text": "A urine test for drugs and strong substances is often needed. Tell the doctor about all your medicines."
+  },
+  {
+   "title": "The day before",
+   "text": "Do not drink alcohol. Do not stop medicines on your own."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Glasses or lenses, if you wear them",
+  "A photo, if the clinic requires it",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You come to a clinic that issues this certificate",
+  "An eye doctor checks your vision",
+  "A psychiatrist asks questions and sometimes gives tests",
+  "An addiction specialist examines you",
+  "You give a urine sample for testing",
+  "A general doctor or occupational doctor completes the report"
+ ],
+ "feel": [
+  "All the exams are painless",
+  "The talk with the psychiatrist is made of ordinary questions - there is no need to worry"
+ ],
+ "after": [
+  "The certificate is issued after all the exams and the test",
+  "Find out how long the certificate is valid and submit your papers on time"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can I see the psychiatrist and addiction specialist at any clinic?",
+   "a": "Usually you need a clinic that is allowed to issue these reports. Ask in advance."
+  },
+  {
+   "q": "Do medicines affect the test?",
+   "a": "Some can. Be sure to tell the doctor what you take."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Firearm medical check tomorrow. Do not drink alcohol, and take your ID and glasses if you wear them."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Xurrakni davolash",
+ "also": [
+  "xurrak",
+  "xurrakdan operatsiya",
+  "tanglayning radiotulqin plastikasi",
+  "tungi xurrakni davolash"
+ ],
+ "what": "Shifokor tomoq va burunda havoga nima xalaqit berayotganini topadi va davo taklif qiladi. Ko‘pincha bu yumshoq tanglay yoki burunda mahalliy og‘riqsizlantirish ostida o‘tkaziladigan kichik muolaja.",
+ "why": "Baland xurrak yaqinlaringizga va sizga xalaqit berganda, ayniqsa uyquda nafas to‘xtashlari bo‘lsa.",
+ "duration": "ko‘rik odatda 30 daqiqa; muolaja odatda 20–40 daqiqa, uyga o‘sha kuni",
+ "tell_doctor": [
+  "Uyquda nafas to‘xtashlari bo‘ladimi: yaqinlaringizdan so‘rang",
+  "Kunduzi uyquchanlik, ertalabki bosh og‘rig‘i",
+  "Qon bosimi, yurak kasalliklari, diabet",
+  "Qonni suyultiruvchi dorilar",
+  "Og‘riqsizlantiruvchilarga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Uyqu",
+   "text": "Shifokor avval nafas to‘xtashlarini istisno qilish uchun uyquni tekshirishga yuborishi mumkin. Bu davoni tanlash uchun muhim."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima qabul qilayotganingizni shifokorga ayting, u hal qiladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Muolajadan oldin odatda 1–2 soat oldin yengil ovqat. Klinikadan aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Uyqu tekshiruvi natijalari, agar bo‘lsa",
+  "Dorilar ro‘yxati",
+  "Hujjat"
+ ],
+ "steps": [
+  "Shifokor burun, tomoq va yumshoq tanglayni ko‘radi",
+  "Ba’zan burun orqali ingichka kamera bilan qaraydi",
+  "Muolaja kerak bo‘lsa, tomoq yoki burunni sprey va ukol bilan og‘riqsizlantiradi",
+  "Shifokor ingichka elektrod bilan yumshoq tanglay yoki burun chig‘anoqlarini mustahkamlaydi va kichraytiradi",
+  "Muolajadan keyin sizni biroz kuzatib, uyga javob berishadi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol yoqimsiz",
+  "Muolajadan keyin bir necha kun tomoq angina paytidagidek og‘riydi",
+  "Dastlab yutish yoqimsiz"
+ ],
+ "after": [
+  "Bir necha kun yumshoq iliq ovqat, achchiq va issiqsiz",
+  "Og‘riq qoldiruvchi shifokor buyrug‘i bo‘yicha",
+  "Ta’sir odatda bir necha haftada ko‘rinadi, ba’zan takroriy muolaja kerak",
+  "Vaznni kamaytirish va tunda alkogolni tashlash ham xurrakni kamaytiradi"
+ ],
+ "red_flags": [
+  "Tomoqdan qon to‘xtamaydi: 103 ga qo‘ng‘iroq qiling",
+  "Nafas olish yoki hatto suv yutish qiyin: 103 ga qo‘ng‘iroq qiling",
+  "Harorat 38 dan yuqori"
+ ],
+ "faq": [
+  {
+   "q": "Xurrak xavflimi?",
+   "a": "Xurrakning o‘zi odatda xavfli emas. Lekin uyquda nafas to‘xtasa, buni davolash kerak. Shifokorga ayting."
+  },
+  {
+   "q": "Xurrak butunlay o‘tib ketadimi?",
+   "a": "Ko‘pchilikda xurrak pasayadi yoki yo‘qoladi. Ba’zan vaqt o‘tishi bilan qaytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga xurrak davosi. Uyqu tekshiruvi natijalari, agar bo‘lsa, va dorilar ro‘yxatini oling."
+  }
+ ]
+}

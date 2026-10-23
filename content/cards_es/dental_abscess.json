@@ -1,0 +1,80 @@
+{
+ "title": "Drenaje de un absceso dental",
+ "also": [
+  "absceso dental",
+  "flemón",
+  "postemilla",
+  "bola de pus en la encía",
+  "cachete hinchado por muela"
+ ],
+ "what": "El médico hace un corte pequeño en la encía y saca el pus. Así baja la presión y el dolor.",
+ "why": "Cuando por un diente enfermo se hinchan la encía y el cachete, hay dolor y pus.",
+ "duration": "el procedimiento dura normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Si eres alérgico a la anestesia o a algún medicamento",
+  "Si tomas medicamentos que hacen la sangre más líquida",
+  "Si tienes diabetes o enfermedades del corazón",
+  "Si estás embarazada",
+  "Cuándo empezó la hinchazón y si tuviste fiebre"
+ ],
+ "prepare": [
+  {
+   "title": "Sin calor",
+   "text": "No te pongas nada caliente en el cachete. Puede empeorar la inflamación."
+  },
+  {
+   "title": "Comida",
+   "text": "Puedes comer antes. Unas horas después del procedimiento todavía tendrás la boca dormida."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos por tu cuenta. Dile al médico todo lo que tomas."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "La lista de tus medicamentos",
+  "Radiografías anteriores del diente, si tienes"
+ ],
+ "steps": [
+  "El médico revisa el diente y la encía, muchas veces toma una radiografía",
+  "Te pone anestesia con una inyección",
+  "Hace un corte pequeño en la encía",
+  "Saca el pus y lava la zona",
+  "A veces deja una ligita delgada para que siga saliendo el pus",
+  "Decide qué hacer con el diente: tratarlo ahora o después"
+ ],
+ "feel": [
+  "La inyección de anestesia es un piquete breve",
+  "Durante el corte sientes presión, pero no dolor",
+  "Cuando se pasa la anestesia, duele un poco de 1 a 3 días, normalmente menos que antes"
+ ],
+ "after": [
+  "Enjuagues y medicamentos exactamente como te indicó el médico",
+  "No te pongas calor en el cachete ni toques la herida con la lengua",
+  "Normalmente regresas a revisión en 1 o 2 días y te quitan la ligita",
+  "El diente que causó el problema hay que tratarlo o sacarlo. El médico te dirá"
+ ],
+ "red_flags": [
+  "La hinchazón crece y baja al cuello o sube debajo del ojo: llama a emergencias",
+  "Te cuesta tragar, respirar o abrir la boca: llama a emergencias",
+  "Fiebre de más de 38 que no baja o sube",
+  "Pus nuevo y dolor fuerte después de 2 o 3 días"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede curar un absceso en casa?",
+   "a": "No. Hay que sacar el pus y tratar el diente. Las pastillas solas no resuelven el problema."
+  },
+  {
+   "q": "¿Por qué no debo ponerme calor en el cachete?",
+   "a": "El calor puede aumentar la inflamación y extender el pus."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Pronto es tu cita por el absceso. No te pongas calor en el cachete. Lleva la lista de tus medicamentos."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "AKTG (adrenokortikotrop gormon)",
+ "also": [
+  "AKTG",
+  "adrenokortikotropin",
+  "kortikotropin",
+  "buyrak usti bezi uchun gipofiz gormoni"
+ ],
+ "what": "Bu miya buyrak usti bezlarining ishini boshqaradigan gormonga qon tahlili.",
+ "why": "Kortizol juda yuqori yoki past bo‘lganda sababi qayerda ekanini — buyrak usti bezlarida yoki miyada — bilish kerak bo‘lsa.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda bir necha kunda",
+ "tell_doctor": [
+  "Gormonlarni tabletka, ukol, ingalyator yoki malham ko‘rinishida qabul qilsangiz",
+  "Biotinli vitaminlar yoki bioqo‘shimchalar ichsangiz — ular natijani buzishi mumkin",
+  "Homilador bo‘lsangiz",
+  "Tungi smenada ishlasangiz — tahlil vaqti shunga bog‘liq"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Odatda qon ertalab erta, och qoringa olinadi. Oddiy suv ichsa bo‘ladi."
+  },
+  {
+   "title": "Tinchlik",
+   "text": "Bir kun oldin alkogol, mashq va hayajonlanishdan saqlaning. Qon olishdan oldin bir necha daqiqa tinch o‘tiring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — tahlildan oldin biror narsani o‘zgartirish kerakmi, u hal qiladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqori oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat",
+  "Kortizol tahlillari natijalari",
+  "Dorilar ro‘yxati, malham va ingalyatorlar bilan birga"
+ ],
+ "steps": [
+  "Bir necha daqiqa tinch o‘tirasiz",
+  "Tirsakdan yuqoriga jgut bog‘lashadi va mushtni qisib-ochishni so‘rashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon bir necha soniyada probirkalarga olinadi",
+  "Igna olinadi, joyga paxta bosiladi",
+  "Probirka darrov sovuqqa qo‘yiladi va laboratoriyaga tez yuboriladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilaganday",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Ovqatlanishingiz va ertalabki dorilarni ichishingiz mumkin, agar shifokor shunday degan bo‘lsa",
+  "Natijani shifokor kortizol bilan birga ko‘radi"
+ ],
+ "red_flags": [
+  "Ukol joyi qattiq shishdi, og‘riyapti va qizardi"
+ ],
+ "faq": [
+  {
+   "q": "Nega tahlilni aynan ertalab topshirish kerak?",
+   "a": "AKTG kun davomida juda o‘zgaradi. Ertalab u eng yuqori bo‘ladi va shifokorga me’yor bilan solishtirish oson."
+  },
+  {
+   "q": "Gormonal malhamlar natijaga ta’sir qiladimi?",
+   "a": "Qilishi mumkin. Albatta shifokorga ayting — u nima qilishni hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga AKTG tahlili. Ertalab erta, och qoringa. Kechqurun alkogolsiz va mashqsiz."
+  }
+ ]
+}

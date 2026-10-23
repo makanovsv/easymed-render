@@ -1,0 +1,75 @@
+{
+ "title": "Rektoromanoskopiya",
+ "also": [
+  "RRS",
+  "rektosigmoskopiya",
+  "to‘g‘ri ichak ko‘rigi",
+  "rektoskopiya"
+ ],
+ "what": "Shifokor to‘g‘ri ichak va yo‘g‘on ichakning pastki qismini kamerali yoki yorug‘lik beradigan naycha bilan ko‘radi. Tahlilga to‘qima bo‘lagini olish mumkin.",
+ "why": "Axlatda qon, orqa teshikda og‘riq va qichishish, axlat o‘zgarishi bo‘lganda, bavosilni davolashdan oldin va skrining uchun.",
+ "duration": "muolajaning o‘zi odatda 10–20 daqiqa; xulosa darhol, to‘qima tahlili 5–10 kunda",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar va temir preparatlari",
+  "Qandli diabet",
+  "Yurak kasalliklari",
+  "Dorilar va lateksga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Tozalash",
+   "text": "Odatda bir kun oldin kechqurun va ertalab huqna qilinadi yoki mikrohuqnadan foydalanishadi. Sxemani klinika aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Bir kun oldin sabzavot, meva va dukkaksiz yengil kechki ovqat. Ertalab nonushta qilmasa yoki yengil nonushta qilsa bo‘ladi: aniqlab oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Shifokorga ayting, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Kolonoskopiyaning oldingi xulosalari",
+  "O‘z dorilaringiz ro‘yxati"
+ ],
+ "steps": [
+  "Siz belgacha pastini yechasiz yoki bir martalik shortik kiyasiz",
+  "Chap yonboshingizga, tizzalarni ko‘kragingizga tortib yotasiz",
+  "Shifokor avval orqa teshikni barmoq bilan ko‘radi",
+  "Keyin moylangan naychani kiritib, ozgina havo beradi",
+  "Ichak devorlarini monitorda ko‘radi",
+  "Kerak bo‘lsa, to‘qima bo‘lagini oladi: bu og‘riqsiz"
+ ],
+ "feel": [
+  "To‘lib-toshish va hojatga bosim: bu havodan",
+  "Yoqimsiz, lekin odatda chidasa bo‘ladi",
+  "Og‘risa, shifokorga ayting"
+ ],
+ "after": [
+  "Gazlar bir soat ichida chiqadi",
+  "Darhol ovqatlansa bo‘ladi",
+  "Tahlil olingan bo‘lsa, axlatda 1–2 kun ozgina qon bo‘lishi mumkin"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq, qorin qotib qoladi, isitma: 103 ga qo‘ng‘iroq qiling",
+  "To‘g‘ri ichakdan laxta-laxta qon yoki to‘xtamaydigan qon: 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Bu kolonoskopiyadan nimasi bilan farq qiladi?",
+   "a": "Rektoromanoskopiya faqat ichakning pastki qismini ko‘radi va tayyorgarligi oddiyroq. Kolonoskopiya esa butun yo‘g‘on ichakni."
+  },
+  {
+   "q": "Uyquda qilsa bo‘ladimi?",
+   "a": "Odatda sedatsiyasiz qilinadi, muolaja qisqa. Klinikadan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga rektoromanoskopiya. Bugun kechqurun huqna yoki klinika sxemasi bo‘yicha tayyorgarlik."
+  }
+ ]
+}

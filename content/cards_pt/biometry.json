@@ -1,0 +1,71 @@
+{
+ "title": "Biometria do olho antes da cirurgia de catarata",
+ "also": [
+  "biometria ocular",
+  "cálculo da lente intraocular",
+  "biometria óptica",
+  "medida do olho para catarata"
+ ],
+ "what": "Um aparelho mede o comprimento do olho e a curvatura da córnea. Com esses números, escolhem a lente artificial para a cirurgia.",
+ "why": "Antes da cirurgia para tirar a catarata e, às vezes, antes de outras cirurgias no cristalino.",
+ "duration": "normalmente de 10 a 20 minutos; o resultado sai na hora",
+ "tell_doctor": [
+  "Se você usa lentes de contato",
+  "Se já fez cirurgia a laser para grau ou outra cirurgia nos olhos",
+  "Como você quer enxergar depois da cirurgia: de longe ou de perto",
+  "Se tem olho seco"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes",
+   "text": "As lentes de contato normalmente são tiradas alguns dias antes. A clínica vai dizer o prazo."
+  },
+  {
+   "title": "Maquiagem",
+   "text": "Venha sem maquiagem nos olhos."
+  },
+  {
+   "title": "Transporte",
+   "text": "Se forem dilatar a pupila, é melhor não dirigir depois."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Óculos",
+  "Relatórios de cirurgias nos olhos, se teve",
+  "Um acompanhante, se forem pingar colírio"
+ ],
+ "steps": [
+  "Você senta no aparelho e apoia o queixo",
+  "Olha para um ponto de luz",
+  "O aparelho mede cada olho com luz, sem encostar",
+  "Às vezes medem com ultrassom, depois de um colírio",
+  "O médico calcula o grau da lente"
+ ],
+ "feel": [
+  "Não dói",
+  "A luz é forte e é preciso olhar sem piscar por alguns segundos"
+ ],
+ "after": [
+  "Se pingaram colírio, não coce os olhos",
+  "O resultado é usado para escolher a lente",
+  "A data da cirurgia costuma ser combinada na consulta"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que medir, se a cirurgia é padrão?",
+   "a": "Cada olho é diferente. O cálculo preciso define como você vai enxergar depois da cirurgia."
+  },
+  {
+   "q": "Dá para escolher uma lente para ler sem óculos?",
+   "a": "Converse com o cirurgião. Existem várias opções, e o médico indica a mais adequada."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a biometria do olho. Tire as lentes de contato, se a clínica pediu. Sem maquiagem."
+  }
+ ]
+}

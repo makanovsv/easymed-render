@@ -1,0 +1,85 @@
+{
+ "title": "Prostatectomia radical",
+ "also": [
+  "retirada da próstata",
+  "prostatectomia",
+  "cirurgia de próstata",
+  "prostatectomia robótica"
+ ],
+ "what": "O cirurgião retira a próstata inteira. A cirurgia é feita com anestesia geral, muitas vezes por furinhos.",
+ "why": "Normalmente no câncer de próstata, quando o tumor não saiu do órgão.",
+ "duration": "a cirurgia leva normalmente de 2 a 4 horas; a internação, alguns dias; a sonda fica normalmente de 1 a 2 semanas",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias, inclusive a remédios e iodo",
+  "Doenças do coração, do pulmão, dos rins ou diabetes",
+  "Se você ou alguém da família teve problema com anestesia",
+  "Como estão agora a urina e a ereção"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista vai conversar com você. Conte sobre a sua saúde e os seus remédios."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  },
+  {
+   "title": "Intestino",
+   "text": "Às vezes pedem para limpar o intestino na véspera. A clínica dá as instruções."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para alguns dias no hospital"
+ ],
+ "steps": [
+  "No dia da cirurgia, você troca de roupa e recebe um acesso na veia",
+  "Na sala de cirurgia, aplicam a anestesia e você dorme",
+  "O cirurgião retira a próstata por furinhos ou por um corte",
+  "A uretra é ligada à bexiga",
+  "Colocam uma sonda na bexiga",
+  "Você acorda na sala de recuperação"
+ ],
+ "feel": [
+  "Depois da anestesia: sonolência, às vezes enjoo",
+  "Dor nos cortes; dão analgésico",
+  "A sonda incomoda, mas a gente se acostuma"
+ ],
+ "after": [
+  "A sonda normalmente é retirada em 1 a 2 semanas. O médico vai dizer",
+  "Depois de tirar a sonda, é comum escapar urina, e isso diminui aos poucos",
+  "Exercícios para os músculos do assoalho pélvico ajudam. O médico vai explicar",
+  "Sem carregar peso por algumas semanas",
+  "O resultado da biópsia é visto no retorno"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus ou dor forte na barriga",
+  "A urina não sai pela sonda: ligue para a clínica ou para a emergência",
+  "Dor e inchaço na perna ou falta de ar: ligue para a emergência",
+  "Coágulos de sangue na urina"
+ ],
+ "faq": [
+  {
+   "q": "Vou ter incontinência urinária?",
+   "a": "Logo depois de tirar a sonda, é comum escapar urina. Na maioria dos homens isso diminui com o tempo."
+  },
+  {
+   "q": "A ereção vai continuar?",
+   "a": "Depende da cirurgia e de como estava antes. Converse com o cirurgião antes; ele vai dizer o que é realista no seu caso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Separe suas coisas, os documentos e a lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

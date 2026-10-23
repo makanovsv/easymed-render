@@ -1,0 +1,77 @@
+{
+ "title": "Tratamiento de la cistitis en mujeres",
+ "also": [
+  "cistitis",
+  "infección de la vejiga",
+  "ardor al orinar",
+  "ganas frecuentes de orinar"
+ ],
+ "what": "La cistitis es una inflamación de la vejiga, casi siempre por microbios. Normalmente se trata con un tratamiento corto.",
+ "why": "Con ardor y dolor al orinar, ganas frecuentes, dolor en la parte baja del abdomen.",
+ "duration": "la consulta dura de 15 a 30 minutos; el examen de orina, normalmente de 1 a 3 días; el cultivo, de 3 a 7 días",
+ "tell_doctor": [
+  "Desde cuándo te molesta y con qué frecuencia te pasó antes",
+  "Si hay fiebre o dolor en la espalda baja",
+  "Si puedes estar embarazada",
+  "Qué medicamentos ya tomaste",
+  "Alergias a medicamentos"
+ ],
+ "prepare": [
+  {
+   "title": "Examen de orina",
+   "text": "Normalmente se necesita la primera orina de la mañana en un frasco estéril, después de lavarte."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No empieces antibióticos por tu cuenta antes del examen, si puedes esperar la consulta."
+  },
+  {
+   "title": "Líquidos",
+   "text": "Toma agua normal, como acostumbras."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "El frasco con la orina, si te pidieron llevarlo",
+  "Análisis anteriores, si la cistitis se repite"
+ ],
+ "steps": [
+  "El médico pregunta por tus molestias",
+  "Te manda a hacer un examen de orina",
+  "A veces te revisa o pide un ultrasonido",
+  "Receta el tratamiento y explica cómo tomarlo",
+  "Si la cistitis es frecuente, pide estudios adicionales"
+ ],
+ "feel": [
+  "Normalmente mejoras en 1 a 3 días de tratamiento",
+  "La revisión no duele"
+ ],
+ "after": [
+  "Termina el tratamiento hasta el final, aunque te sientas mejor",
+  "Toma suficiente agua",
+  "No te aguantes las ganas de ir al baño",
+  "Si la cistitis se repite, nueva consulta"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 y dolor en la espalda baja",
+  "Sangre en la orina",
+  "No mejoras después de 2 o 3 días de tratamiento",
+  "Embarazo y síntomas de cistitis: acude al médico el mismo día"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede curar la cistitis con una bolsa de agua caliente?",
+   "a": "El calor a veces alivia el dolor, pero no quita los microbios. El tratamiento lo indica el médico."
+  },
+  {
+   "q": "¿Por qué vuelve la cistitis?",
+   "a": "Hay muchas causas. Si se repite seguido, el médico pedirá estudios y elegirá cómo prevenirla."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes consulta por la cistitis. Si necesitas examen de orina, junta la primera orina de la mañana en un frasco estéril."
+  }
+ ]
+}

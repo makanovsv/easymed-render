@@ -1,0 +1,79 @@
+{
+ "title": "Excretory urography (kidney X-ray with contrast)",
+ "also": [
+  "IV urography",
+  "excretory urography",
+  "kidney X-ray with contrast",
+  "IVP"
+ ],
+ "what": "A contrast dye is given into a vein and several X-rays are taken. They show how the kidneys pass urine and how it flows through the urinary tract.",
+ "why": "For stones, lower back pain, blood in the urine and kidney abnormalities, when the doctor chooses this method.",
+ "duration": "usually 30 to 60 minutes, sometimes longer; the report is ready the same day",
+ "tell_doctor": [
+  "If you are allergic to iodine or contrast dye",
+  "If you have kidney disease, diabetes or thyroid disease",
+  "If you take diabetes medicines - your doctor will tell you what to do",
+  "If you might be pregnant or are breastfeeding"
+ ],
+ "prepare": [
+  {
+   "title": "Test",
+   "text": "A blood test for creatinine is often needed before the exam. Ask the clinic."
+  },
+  {
+   "title": "Bowel",
+   "text": "Sometimes you are advised to have a light dinner the evening before and avoid foods that cause gas."
+  },
+  {
+   "title": "Food",
+   "text": "Usually no food in the morning. The clinic will tell you the exact time."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. If you take diabetes medicines, ask your doctor in advance."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "The creatinine test result",
+  "Earlier scans and ultrasounds",
+  "Your ID"
+ ],
+ "steps": [
+  "You lie down on the X-ray table",
+  "A first picture is taken without contrast",
+  "Contrast is given into a vein",
+  "After a few minutes a series of pictures is taken",
+  "Sometimes you are asked to use the toilet and one more picture is taken"
+ ],
+ "feel": [
+  "When the contrast goes in - warmth through your body and a metallic taste in your mouth",
+  "Sometimes it feels like you need the toilet - this is the feeling from the contrast"
+ ],
+ "after": [
+  "Drink more water that day, unless your doctor limited you",
+  "The report is usually ready the same day",
+  "Discuss the result with your urologist"
+ ],
+ "red_flags": [
+  "Rash, itching, swelling of the face or trouble breathing - tell staff right away; at home, call your local emergency number",
+  "Pain or swelling at the injection site",
+  "Much less urine than usual"
+ ],
+ "faq": [
+  {
+   "q": "How is this different from a kidney CT?",
+   "a": "It is an X-ray with contrast. A CT is often done now, but sometimes the doctor chooses urography."
+  },
+  {
+   "q": "What if I am allergic to iodine?",
+   "a": "Be sure to tell the doctor in advance. They will decide whether it can be done and whether preparation is needed."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Urography tomorrow. Take your creatinine test result. Eating: as the clinic said; ask your doctor about diabetes medicines."
+  }
+ ]
+}

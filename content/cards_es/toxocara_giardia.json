@@ -1,0 +1,78 @@
+{
+ "title": "Anticuerpos contra toxocara y giardia",
+ "also": [
+  "toxocariasis",
+  "giardiasis",
+  "anticuerpos contra giardia",
+  "prueba de lombrices",
+  "parásitos en sangre"
+ ],
+ "what": "Es un análisis de sangre de anticuerpos contra dos parásitos: toxocara, que se pasa de perros y gatos, y giardia, que vive en el intestino.",
+ "why": "Con ronchas y comezón en la piel, tos sin causa, dolor de estómago, diarrea o eosinófilos altos en la biometría hemática.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en 1 a 5 días",
+ "tell_doctor": [
+  "Si en casa hay perro o gato",
+  "Si tu hijo juega en la arena o se mete las manos a la boca",
+  "Si ya recibieron tratamiento contra parásitos",
+  "Qué medicamentos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayuno estricto, pero es mejor ir 3 o 4 horas después de una comida ligera, sin grasa. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas; él decidirá si hay que cambiar algo antes del análisis."
+  },
+  {
+   "title": "Niño",
+   "text": "Si el análisis es para tu hijo, explícale que habrá un piquete breve. Lleva agua y un refrigerio para después."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "La biometría hemática y el análisis de heces, si ya los hiciste"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán",
+  "Tu hijo puede tener miedo: quédate a su lado"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Para la giardia, el médico muchas veces pide también un análisis de heces",
+  "No le des a tu hijo pastillas contra parásitos sin indicación del médico"
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y está rojo"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué para la giardia también hace falta un análisis de heces?",
+   "a": "Los anticuerpos pueden quedarse después de la enfermedad. El análisis de heces muestra mejor si el parásito está ahora."
+  },
+  {
+   "q": "¿Puedo tomar desparasitante «por si acaso»?",
+   "a": "No vale la pena. El tratamiento lo indica el médico según los resultados."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de anticuerpos contra toxocara y giardia. En la mañana mejor no comas grasoso."
+  }
+ ]
+}

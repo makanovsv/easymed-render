@@ -1,0 +1,76 @@
+{
+ "title": "Exames depois da picada de carrapato (encefalite, borreliose)",
+ "also": [
+  "exame depois de picada de carrapato",
+  "encefalite transmitida por carrapato",
+  "borreliose",
+  "doença de Lyme",
+  "exame do carrapato"
+ ],
+ "what": "São exames que mostram se o carrapato transmitiu alguma infecção. Dá para examinar o próprio carrapato e o seu sangue.",
+ "why": "Depois da picada de carrapato, principalmente se você esteve em lugares onde existe encefalite por carrapato, ou se apareceu febre ou vermelhidão.",
+ "duration": "o exame do carrapato leva normalmente 1 a 3 dias; o sangue não é colhido logo, e sim no prazo que o médico disser",
+ "tell_doctor": [
+  "Quando e onde foi a picada",
+  "Quanto tempo o carrapato ficou na pele",
+  "Se você tomou vacina contra encefalite por carrapato",
+  "Se apareceu febre, dor de cabeça ou mancha vermelha"
+ ],
+ "prepare": [
+  {
+   "title": "Carrapato",
+   "text": "Se o carrapato foi retirado, coloque-o num potinho com um algodão úmido e feche bem. Leve ao laboratório o quanto antes."
+  },
+  {
+   "title": "Prazos",
+   "text": "Os anticorpos no sangue não aparecem logo. Normalmente levam algumas semanas depois da picada. O médico diz quando colher o sangue."
+  },
+  {
+   "title": "Comida",
+   "text": "Antes do exame de sangue, é melhor não comer por 3 a 4 horas. Água pode."
+  }
+ ],
+ "bring": [
+  "O carrapato num potinho fechado, se tiver",
+  "Pedido médico",
+  "Documento de identidade",
+  "Dados da vacina contra encefalite por carrapato"
+ ],
+ "steps": [
+  "O carrapato é entregue ao laboratório, onde é examinado para infecções",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Colocam um algodão no local da picada"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Durante um mês depois da picada, observe a febre e o local da picada",
+  "Quem decide sobre a prevenção é o médico. Não adie a consulta"
+ ],
+ "red_flags": [
+  "A mancha vermelha em volta da picada está crescendo: mostre ao médico",
+  "Febre, dor de cabeça forte, dor no corpo: procure o médico no mesmo dia",
+  "Confusão, convulsões, fraqueza nos braços ou nas pernas: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Como tirar o carrapato do jeito certo?",
+   "a": "Com uma pinça ou um fio, segure bem rente à pele e gire devagar para tirar. Passe antisséptico no local."
+  },
+  {
+   "q": "Se o carrapato não tem infecção, não preciso colher sangue?",
+   "a": "Normalmente não, mas quem decide é o médico. Observe como você se sente por um mês."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você faz o exame depois da picada de carrapato. Leve os dados das vacinas e anote a data da picada."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+allergy_milk_baby|lab|Аллергия на белок коровьего молока у малыша|Cow's milk protein allergy in infants|lab_draw|L|2
+patch_test|lab|Аппликационные аллергопробы (патч-тест)|Patch testing for contact allergy|proc_room|L|3
+brca|lab|Генетический тест BRCA1/2|BRCA1/2 genetic test|lab_draw|L|3
+lynch_panel|lab|Генетическая панель наследственного рака кишечника|Hereditary colorectal cancer gene panel|lab_draw|L|3
+carrier_screen|lab|Скрининг носительства генетических болезней перед беременностью|Carrier screening before pregnancy|lab_draw|L|3
+pharmacogenetics|lab|Фармакогенетический тест (варфарин, клопидогрел)|Pharmacogenetic test (warfarin, clopidogrel)|lab_draw|L|3
+exome|lab|Экзомное секвенирование ребёнку|Exome sequencing for a child|lab_draw|L|3
+hla_b27|lab|HLA-B27|HLA-B27 test|lab_draw|L|3
+hb_electro|lab|Электрофорез гемоглобина (талассемия)|Haemoglobin electrophoresis (thalassaemia)|lab_draw|L|3
+pgt|lab|Генетическое тестирование эмбрионов (ПГТ)|Preimplantation genetic testing (PGT)|lab_draw|L|3
+amylase_lipase|lab|Амилаза и липаза|Amylase and lipase|lab_draw|L|2
+cystatin|lab|Цистатин C|Cystatin C|lab_draw|L|3
+immunoglobulins|lab|Иммуноглобулины A, M, G|Immunoglobulins A, M, G|lab_draw|L|3
+protein_electro|lab|Электрофорез белков крови|Serum protein electrophoresis|lab_draw|L|3
+mar_test|lab|MAR-тест (антиспермальные антитела)|MAR test (antisperm antibodies)|lab_cup|L|3
+sperm_dna|lab|Фрагментация ДНК сперматозоидов|Sperm DNA fragmentation|lab_cup|L|3
+elastase_stool|lab|Панкреатическая эластаза в кале|Faecal pancreatic elastase|lab_cup|L|3
+drug_levels|lab|Концентрация лекарства в крови (вальпроаты, литий, дигоксин)|Drug level monitoring (valproate, lithium, digoxin)|lab_draw|L|3
+coombs_baby|lab|Проба Кумбса и группа крови у новорождённого|Coombs test and blood type in newborns|lab_draw|L|3
+rh_antibodies|lab|Антирезусные антитела при беременности|Rh antibodies in pregnancy|lab_draw|L|2
+preg_test_home|lab|Домашний тест на беременность|Home pregnancy test|home|L|1
+ovulation_test|lab|Тест на овуляцию дома|Home ovulation test|home|L|2
+ketones_home|lab|Кетоны в моче и крови дома|Home ketone testing|home|L|3
+us_bowel|us|УЗИ кишечника|Bowel ultrasound|us_room|L|3
+us_fetal_echo|us|УЗИ сердца плода (фетальная ЭхоКГ)|Fetal echocardiography|us_room|L|3
+us_adrenal|us|УЗИ надпочечников|Adrenal ultrasound|us_room|L|3
+us_eye|us|УЗИ глаза|Eye ultrasound|us_room|L|3
+us_inguinal|us|УЗИ паховых каналов (грыжа)|Groin ultrasound for hernia|us_room|L|3
+ceus_liver|us|УЗИ печени с контрастом|Contrast-enhanced liver ultrasound|us_room|M|3

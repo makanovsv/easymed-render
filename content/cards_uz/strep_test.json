@@ -1,0 +1,68 @@
+{
+ "title": "Streptokokkka ekspress-test (angina)",
+ "also": [
+  "streptokokk testi",
+  "streptatest",
+  "anginaga ekspress-test",
+  "tomoqdan streptokokkka surtma"
+ ],
+ "what": "Tomoqdan paxtali cho‘p bilan surtma olinadi. Test bir necha daqiqada anginani ko‘p keltirib chiqaradigan mikrob — streptokokk bor-yo‘qligini ko‘rsatadi.",
+ "why": "Tomoq og‘riganda, harorat va bodomsimon bezlarda g‘ubor bo‘lganda — antibiotik kerak yoki kerak emasligini bilish uchun.",
+ "duration": "surtma bir necha soniya, natija odatda 5–15 daqiqada",
+ "tell_doctor": [
+  "Antibiotik ichishni boshlagan bo‘lsangiz",
+  "Yaqinda tomoqni antiseptik bilan chayqagan bo‘lsangiz",
+  "Qusgingiz tez kelsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat va ichimlik",
+   "text": "Odatda surtmadan 1–2 soat oldin ovqat yemang, suv ichmang. Klinikadan so‘rang."
+  },
+  {
+   "title": "Tomoq",
+   "text": "Ertalab tomoqni chayqamang, tomoq og‘rig‘iga purkagich va konfetlardan foydalanmang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Allaqachon ichganingizni shifokorga ayting — u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz va og‘zingizni keng ochasiz",
+  "Tilingiz shpatel bilan bosiladi",
+  "Cho‘p bilan bodomsimon bezlar va tomoqning orqa devori ustidan tez o‘tkaziladi",
+  "Cho‘p eritmaga tushiriladi va test qo‘yiladi",
+  "Bir necha daqiqadan keyin chiziqchada natija ko‘rinadi"
+ ],
+ "feel": [
+  "Bir soniyaga qusgingiz kelishi mumkin",
+  "Yoqimsiz, lekin og‘riq yo‘q"
+ ],
+ "after": [
+  "Natijani odatda darrov aytishadi",
+  "Test musbat bo‘lsa, antibiotik kerakmi, shifokor hal qiladi",
+  "Test manfiy bo‘lsa-yu, angina belgilari bor bo‘lsa, ba’zan qo‘shimcha ekma qilinadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Test manfiy bo‘lsa, angina yo‘q degani emasmi?",
+   "a": "Har doim emas. Tomoq og‘rig‘ini ko‘pincha viruslar keltirib chiqaradi. Shubha qolsa, shifokor ekma buyurishi mumkin."
+  },
+  {
+   "q": "Angina o‘zi ko‘rinib turgan bo‘lsa, test nega kerak?",
+   "a": "Tomoqning ko‘rinishiga qarab streptokokkni virusdan ajratish qiyin. Test antibiotikni bekorga ichmaslikka yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada tomoqdan surtma olinadi. Klinika boshqacha demagan bo‘lsa, 1–2 soat oldin ovqat yemang, suv ichmang va tomoqni chayqamang."
+  }
+ ]
+}

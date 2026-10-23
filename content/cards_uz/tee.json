@@ -1,0 +1,79 @@
+{
+ "title": "Qizilo‘ngach orqali ExoKG",
+ "also": [
+  "QO‘ExoKG",
+  "qizilo‘ngach orqali ExoKG",
+  "yurak UZIsi qizilo‘ngach orqali",
+  "transezofageal ExoKG"
+ ],
+ "what": "Shifokor yurakni ichkaridan ultratovush bilan ko‘radi — qizilo‘ngachga yutiladigan ingichka datchik orqali. Shunda yurak ko‘krak orqali ko‘rilganidan ancha yaxshi ko‘rinadi.",
+ "why": "Ritmni tiklashdan oldin yurakda tromb yo‘qligini aniqlash, klapanlarni batafsil baholash, klapanlar infeksiyasi gumon qilinganda.",
+ "duration": "muolajaning o‘zi odatda 15–30 daqiqa, tayyorgarlik va dam olish alohida; xulosa odatda o‘sha kuni",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilarni — shifokor ular bilan nima qilishni aytadi",
+  "Qizilo‘ngach, oshqozon kasalliklari, yutishdagi qiyinchiliklar",
+  "Allergiyalar, ayniqsa og‘riqsizlantiruvchi dorilarga",
+  "Olinadigan tish protezlari bor-yo‘qligini",
+  "Sedatsiya xohlasangiz — buni odatda oldindan muhokama qilishadi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda 6 soat ovqat yemaslik, 2–4 soat suv ichmaslik kerak. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ertalabki dorilardan qaysi birini va nima bilan ichishni shifokordan so‘rang."
+  },
+  {
+   "title": "Hamroh",
+   "text": "Sedatsiya bo‘lsa, hamroh bilan keling, keyin rulga o‘tirish mumkin emas."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi ExoKG va EKG",
+  "Dorilar ro‘yxati",
+  "Sedatsiya bo‘lsa, hamroh"
+ ],
+ "steps": [
+  "Tish protezlari olinadi, tomirga kateter qo‘yiladi",
+  "Tomoq og‘riqsizlantiruvchi purkagich bilan purkaladi",
+  "Chap yoningiz bilan yotasiz, og‘izda plastik og‘izlik bo‘ladi",
+  "Sedatsiya bo‘lsa, dori yuboriladi, mudrab qolasiz",
+  "Shifokor datchikni og‘izga kiritadi va yutishni so‘raydi",
+  "Datchik qizilo‘ngachda bir necha daqiqa turadi, shifokor yurakni ko‘radi",
+  "Datchik chiqarib olinadi"
+ ],
+ "feel": [
+  "Purkagichdan tomoq uvishadi, yutish g‘alati tuyuladi",
+  "Datchikni yutish yoqimsiz, qusgingiz kelishi mumkin — tekis nafas olish yordam beradi",
+  "Sedatsiya ostida odatda deyarli hech narsa eslamaysiz"
+ ],
+ "after": [
+  "Tomoq uvishishi o‘tguncha 1–2 soat ovqat yemang, suv ichmang",
+  "Tomoq bir-ikki kun biroz achishishi mumkin",
+  "Sedatsiyadan keyin kun oxirigacha rulga o‘tirmang",
+  "Xulosa odatda o‘sha kuni beriladi"
+ ],
+ "red_flags": [
+  "Tomoq yoki ko‘krakda kuchli og‘riq, yo‘talda yoki qusuqda qon bo‘lsa — darrov shifokorga yoki 103 ga",
+  "Yutish qiyin bo‘lsa, kelgusi kunlarda harorat ko‘tarilsa"
+ ],
+ "faq": [
+  {
+   "q": "QO‘ExoKGni uyquda qilsa bo‘ladimi?",
+   "a": "Ko‘pincha ha, yengil sedatsiya bilan. Klinikadan oldindan so‘rang."
+  },
+  {
+   "q": "Bu gastroskopiyaga o‘xshaydimi?",
+   "a": "O‘xshash: bunda ham naycha yutiladi. Lekin datchik ingichkaroq va faqat qizilo‘ngachda turadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga qizilo‘ngach orqali ExoKG. Klinika aytgan vaqtda ovqat yemang va suv ichmang. Dorilar ro‘yxatini oling."
+  }
+ ]
+}

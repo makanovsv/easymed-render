@@ -1,0 +1,81 @@
+{
+ "title": "Ko‘krak bezi biopsiyasi",
+ "also": [
+  "ko‘krak biopsiyasi",
+  "ko‘krakni punksiya qilish",
+  "trepan-biopsiya",
+  "core-biopsiya"
+ ],
+ "what": "Shifokor UZI nazorati ostida ingichka igna bilan ko‘krakdan juda kichik to‘qima bo‘laklarini oladi. Ularni mikroskop ostida o‘rganishadi.",
+ "why": "UZI yoki mammografiyada hosila topilganda va u aynan nima ekanini bilish kerak bo‘lganda.",
+ "duration": "odatda 20–40 daqiqa, olishning o‘zi — bir necha daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiradigan preparatlar — shifokor ularni bekor qilish kerakligini aytadi",
+  "Og‘riqsizlantiruvchi ukollarga allergiya",
+  "Homiladorlik yoki ko‘krak suti bilan boqish",
+  "Ko‘krakda implantlar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda odatdagidek ovqatlansa bo‘ladi. Klinikadan aniqlang."
+  },
+  {
+   "title": "Teri",
+   "text": "Protsedura kuni ko‘krakka krem va qo‘ltiq ostiga dezodorant surtmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yuqorisi oson yechiladigan qulay kiyim. Qalin ko‘krakchani oling — u protseduradan keyin ko‘krakni ushlab turadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "UZI va mammografiya suratlari va xulosalari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Chalqancha yoki sal yonboshlab yotasiz",
+  "Shifokor UZI yordamida kerakli joyni topadi",
+  "Teri ishlov beriladi va og‘riqsizlantiruvchi ukol qilinadi",
+  "Terida juda kichik kesma qilinadi",
+  "Igna bilan bir necha bo‘lak olinadi — chertish tovushi eshitiladi",
+  "Ba’zan joyni belgilash uchun juda kichik belgi qoldiriladi",
+  "Joy bosiladi va bog‘lov bilan yopiladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol biroz achishadi",
+  "Keyin — bosim va chertishlar, lekin og‘riq emas",
+  "Og‘risa — shifokorga ayting, og‘riqsizlantirishni qo‘shishadi"
+ ],
+ "after": [
+  "Ko‘krakka mato orqali sovuq qo‘ying — shish va ko‘karish kamayadi",
+  "Ko‘karish va og‘riq bir necha kun — normal",
+  "Bir-ikki kun sportsiz va og‘irliklarsiz",
+  "Natija odatda 1–2 haftada, uni shifokor tushuntiradi"
+ ],
+ "red_flags": [
+  "Bog‘lov qonga ho‘l bo‘ladi, ko‘krak tez shishadi",
+  "Harorat, qizarish, kuchli yoki kuchayib boruvchi og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Ko‘krak biopsiyasi og‘riqlimi?",
+   "a": "Mahalliy og‘riqsizlantirish ostida qilinadi. Odatda faqat ukol va bosim seziladi."
+  },
+  {
+   "q": "Hosila xavfli bo‘lsa, biopsiya zarar keltirishi mumkinmi?",
+   "a": "Yo‘q, zamonaviy ma’lumotlarga ko‘ra biopsiya kasallikni tezlashtirmaydi va tarqatmaydi. Usiz to‘g‘ri davoni tanlab bo‘lmaydi."
+  },
+  {
+   "q": "Ko‘krakda nega belgi qoldiriladi?",
+   "a": "Keyin bu joyni aniq topish uchun. Belgi juda kichik, xavfsiz va MRT ga xalaqit bermaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga biopsiya. UZI va mammografiya suratlarini oling, krem va dezodorant surtmang."
+  }
+ ]
+}

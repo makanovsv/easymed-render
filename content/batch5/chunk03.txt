@@ -1,0 +1,29 @@
+myo_scinti|rad|Перфузионная сцинтиграфия миокарда|Myocardial perfusion scan|ct_room|M|3
+rai_therapy|rad|Лечение радиоактивным йодом|Radioactive iodine therapy|ward|M|3
+ceph_xray|rad|Телерентгенограмма (ТРГ) для ортодонта|Cephalometric X-ray for orthodontics|dent_xray|L|2
+cerebral_angio|rad|Ангиография сосудов головного мозга|Cerebral angiography|cath_lab|H|3
+fgds_nasal|endo|Трансназальная гастроскопия (тонким зондом)|Transnasal gastroscopy|endo_room|M|3
+colono_kids|endo|Колоноскопия ребёнку|Colonoscopy in children|endo_room|M|3
+gastric_polyp|endo|Удаление полипа желудка|Gastric polyp removal|endo_room|M|3
+varices_banding|endo|Лигирование варикозных вен пищевода|Oesophageal variceal banding|endo_room|H|3
+peg|endo|Установка гастростомы (ПЭГ)|Feeding tube placement (PEG)|endo_room|H|3
+enteroscopy|endo|Энтероскопия тонкой кишки|Small-bowel enteroscopy|endo_room|H|3
+foreign_swallow|endo|Удаление проглоченного предмета у ребёнка|Removal of a swallowed object in a child|endo_room|H|3
+esoph_dilation|endo|Бужирование пищевода|Oesophageal dilation|endo_room|H|3
+picc|proc|Установка PICC-катетера|PICC line insertion|proc_room|M|3
+port_install|proc|Установка порт-системы для химиотерапии|Implanted port placement for chemotherapy|or_room|H|3
+port_care|proc|Промывка и уход за порт-системой|Implanted port flushing and care|proc_room|M|3
+chemo_infusion|proc|Химиотерапия: как проходит курс|Chemotherapy infusion: what to expect|ward|M|2
+radiotherapy|proc|Лучевая терапия: как проходит курс|Radiotherapy course: what to expect|ct_room|M|2
+hemodialysis|proc|Гемодиализ|Haemodialysis|ward|M|3
+pd_home|proc|Перитонеальный диализ дома|Home peritoneal dialysis|home|M|3
+plasmapheresis|proc|Плазмаферез|Plasmapheresis|ward|M|3
+biologic_infusion|proc|Инфузия биологической терапии|Biologic therapy infusion|ward|M|3
+zoledronic|proc|Капельница от остеопороза (золедроновая кислота)|Zoledronic acid infusion for osteoporosis|proc_room|M|3
+hbot|proc|Гипербарическая оксигенация (барокамера)|Hyperbaric oxygen therapy|proc_room|M|3
+joint_aspiration|proc|Пункция сустава с удалением жидкости|Joint aspiration|proc_room|M|2
+breast_cyst_asp|proc|Пункция кисты молочной железы|Breast cyst aspiration|us_room|M|3
+vac_therapy|proc|Вакуумная терапия раны|Negative-pressure wound therapy|ward|M|3
+diabetic_foot_care|proc|Перевязки при диабетической стопе|Diabetic foot ulcer dressings|proc_room|M|2
+leg_ulcer|proc|Лечение трофической язвы ноги|Venous leg ulcer treatment|proc_room|M|3
+ait|proc|Аллергенспецифическая иммунотерапия (АСИТ)|Allergen immunotherapy|proc_room|M|2

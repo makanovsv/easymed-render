@@ -1,0 +1,77 @@
+{
+ "title": "Espirometría en niños",
+ "also": [
+  "espirometría para niños",
+  "prueba de función pulmonar infantil",
+  "revisión de la respiración en niños",
+  "prueba de respiración para niños"
+ ],
+ "what": "El niño sopla por un tubito y el aparato muestra cómo trabajan sus pulmones. Muchas veces en la pantalla hay un juego para hacerlo.",
+ "why": "Con tos frecuente, silbidos en el pecho, sospecha de asma y para ver cómo ayuda el tratamiento.",
+ "duration": "normalmente de 15 a 30 minutos; el resultado se da en el momento",
+ "tell_doctor": [
+  "Qué inhaladores y medicamentos recibe el niño",
+  "Si ahora tiene un resfriado o fiebre",
+  "Si el niño tiene miedo a los procedimientos"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "A veces no se da el inhalador unas horas antes de la prueba. Solo lo indica el médico: no lo suspendas por tu cuenta."
+  },
+  {
+   "title": "Salud",
+   "text": "Si el niño se enfermó, normalmente es mejor cambiar la prueba. Llama a la clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Un desayuno ligero, no abundante: con la panza llena cuesta soplar."
+  },
+  {
+   "title": "Plática",
+   "text": "En casa explícale que tendrá que soplar fuerte, como para apagar las velitas de un pastel."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Los inhaladores del niño",
+  "Un juguete favorito",
+  "Los documentos del niño"
+ ],
+ "steps": [
+  "El niño se sienta derecho y le ponen una pinza suave en la nariz",
+  "Le explican qué hacer, muchas veces con un juego en la pantalla",
+  "Respira hondo y sopla fuerte en el tubo",
+  "Repiten varias veces para obtener un buen resultado",
+  "A veces le dan un inhalador y repiten la prueba a los 15 o 20 minutos"
+ ],
+ "feel": [
+  "No duele",
+  "La pinza en la nariz es un poco rara",
+  "Por soplar tantas veces puede marearse o toser"
+ ],
+ "after": [
+  "El resultado normalmente se da en el momento",
+  "El médico lo explicará y, si hace falta, cambiará el tratamiento",
+  "Felicita al niño: ayuda para la próxima vez"
+ ],
+ "red_flags": [
+  "Después de la prueba al niño le cuesta respirar, le silba el pecho y el inhalador no ayuda: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Desde qué edad se puede?",
+   "a": "Normalmente desde los 5 o 6 años, cuando el niño puede seguir instrucciones. Confírmalo con el médico."
+  },
+  {
+   "q": "¿Y si no le sale?",
+   "a": "Pasa. La prueba se repite, a veces otro día."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana el niño tiene espirometría. No le des el inhalador si el médico así lo indicó. Lleva un juguete."
+  }
+ ]
+}

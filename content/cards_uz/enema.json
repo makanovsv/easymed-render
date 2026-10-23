@@ -1,0 +1,61 @@
+{
+ "title": "Klizma",
+ "also": [
+  "tozalovchi klizma",
+  "ichakni yuvish"
+ ],
+ "what": "To‘g‘ri ichak orqali suv yoki eritma kiritilib, ichak tozalanadi. Bu oddiy va odatda og‘riqsiz.",
+ "why": "Ich qotganda, ichak tekshiruvlari va operatsiyalaridan oldin, ko‘rsatma bo‘lsa tug‘ruqdan oldin.",
+ "duration": "odatda ichak bo‘shatilishi bilan birga 10–20 daqiqa",
+ "tell_doctor": [
+  "Bavosil, yoriqlar, orqa teshikdagi og‘riq",
+  "Yaqinda ichakda operatsiyalar bo‘lgan bo‘lsa",
+  "Hozir qorinda kuchli og‘riq bo‘lsa",
+  "Homiladorlik"
+ ],
+ "prepare": [
+  {
+   "title": "Hojatxona",
+   "text": "Eng yaqin hojatxona qayerdaligini bilib oling — hojat tez kelishi mumkin."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Pastdan oson yechiladigan kiyim. Almashtirish uchun ichki kiyim olsangiz bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Almashtiriladigan ichki kiyim",
+  "Nam salfetkalar"
+ ],
+ "steps": [
+  "Chap yonboshga yotib, tizzalarni qoringa tortasiz",
+  "Hamshira uchlikni moylab, orqa teshikka yumshoq kiritadi",
+  "Eritma sekin quyiladi — og‘iz bilan chuqur va tinch nafas oling",
+  "Uchlik olinadi",
+  "Hamshira aytganicha yotib, chidab turasiz, odatda 5–10 daqiqa",
+  "Keyin hojatxonaga borasiz"
+ ],
+ "feel": [
+  "To‘lib ketish hissi va hojatga bo‘lgan istak",
+  "Ba’zan qorinda spazmlar — chuqurroq nafas oling, hamshiraga ayting"
+ ],
+ "after": [
+  "Ichak bo‘shagandan keyin ishlaringizga qaytsangiz bo‘ladi",
+  "Klizma tekshiruvdan oldin bo‘lsa — klinika ko‘rsatmalariga amal qiling"
+ ],
+ "red_flags": [
+  "Orqa teshikdan qon, qorinda kuchli og‘riq, bosh aylanishi va holsizlik — darhol shifokorga yoki 103 ga"
+ ],
+ "faq": [
+  {
+   "q": "Klizma qilish og‘riydimi?",
+   "a": "Odatda yo‘q. Noxushlik to‘lib ketish va hojat istagidan bo‘ladi. Og‘risa — hamshiraga ayting."
+  },
+  {
+   "q": "Klizmadan keyin qancha chidash kerak?",
+   "a": "Odatda 5–10 daqiqa, aniqrog‘ini hamshira aytadi. Shunda eritma axlatni yaxshiroq yumshatadi."
+  }
+ ],
+ "reminders": []
+}

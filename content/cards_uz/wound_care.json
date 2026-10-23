@@ -1,0 +1,75 @@
+{
+ "title": "Jarohatga ishlov berish va chok qo‘yish",
+ "also": [
+  "jarohatga birlamchi jarrohlik ishlovi",
+  "jarohatni tikish",
+  "chok qo‘yish",
+  "jarohatni qayta ishlash"
+ ],
+ "what": "Shifokor jarohatni tozalaydi, iflosliklarni va shikastlangan to‘qimalarni olib tashlaydi va kerak bo‘lsa, mahalliy og‘riqsizlantirish ostida tikadi.",
+ "why": "Kesilgan, yirtilgan va sanchilgan jarohatlarda, tishlashlarda, jarohat chuqur, keng, qon ketishi to‘xtamasa yoki iflos bo‘lsa.",
+ "duration": "odatda 15–40 daqiqa",
+ "tell_doctor": [
+  "Jarohatni qachon va nima bilan oldingiz",
+  "Qoqsholga qarshi emlash qachon qilingan",
+  "Hayvon tishlagan bo‘lsa — qanday va hozir qayerda",
+  "Qonni suyultiradigan dorilar",
+  "Og‘riqsizlantiruvchi va antibiotiklarga allergiya",
+  "Qandli diabet"
+ ],
+ "prepare": [
+  {
+   "title": "Qonni to‘xtatish",
+   "text": "Jarohatni toza mato yoki bint bilan bosing va qo‘yib yubormay 10–15 daqiqa ushlab turing."
+  },
+  {
+   "title": "Qilmang",
+   "text": "Jarohatga kukun sepmang, ichiga malham yoki yashilka surtmang. Tiqilib qolgan narsani olmang."
+  },
+  {
+   "title": "Kechiktirmang",
+   "text": "Shifokorga dastlabki soatlarda borgan yaxshi — shunda jarohatni odatda darrov tikish mumkin."
+  }
+ ],
+ "bring": [
+  "Hujjatlar",
+  "Bo‘lsa, emlashlar haqida ma’lumot"
+ ],
+ "steps": [
+  "Shifokor jarohatni ko‘radi, harakat va sezgini tekshiradi",
+  "Jarohat atrofiga og‘riqsizlantiruvchi ukollar qilinadi",
+  "Jarohat yuviladi va tozalanadi",
+  "Kerak bo‘lsa, shikastlangan chetlari olib tashlanadi",
+  "Chok, plastyr yo‘lakchalari yoki tibbiy yelim qo‘yiladi",
+  "Ustidan bog‘lam qo‘yiladi",
+  "Zarur bo‘lsa, qoqsholdan himoya yuboriladi, tishlashdan keyin esa quturishga qarshi emlashga yo‘llanadi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukollar bir necha soniya achishtiradi, keyin joy karaxt bo‘ladi",
+  "Chok qo‘yish paytida — tegish va tortilish, o‘tkir og‘riqsiz",
+  "Og‘riqsizlantirish o‘tgach, jarohat zirqiraydi — oddiy og‘riq qoldiruvchilar yordam beradi"
+ ],
+ "after": [
+  "Bog‘lamni almashtirish va jarohatni ho‘l qilishni faqat shifokor aytganidek qiling",
+  "Choklar odatda 5–14 kunda olinadi — yuzda erta, bo‘g‘imlarda kechroq",
+  "Belgilangan kunlarda bog‘lamga keling",
+  "Kichik chandiq qoladi — vaqt o‘tishi bilan ochroq bo‘ladi"
+ ],
+ "red_flags": [
+  "Qon ketishi 15 daqiqa bosgandan keyin ham to‘xtamasa — tez yordamni chaqiring (103)",
+  "Jarohat atrofidagi qizarish kengaysa, yiring, kuchayib boruvchi og‘riq, harorat — infeksiya belgilari",
+  "Jarohatdan pastda karaxtlik yoki barmoq qimirlamasa",
+  "Hayvon tishlagan jarohat — o‘sha kuni shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Necha soatdan keyin jarohatni tikib bo‘lmaydi?",
+   "a": "Qanchalik erta bo‘lsa, shuncha yaxshi — odatda dastlabki 6–12 soatda, yuzda uzoqroq. Ko‘rikdan keyin shifokor hal qiladi."
+  },
+  {
+   "q": "Choklar qachon olinadi?",
+   "a": "Odatda 5–14 kundan keyin. Yuzda erta, qo‘l, oyoq va bo‘g‘imlar ustida — kechroq."
+  }
+ ],
+ "reminders": []
+}

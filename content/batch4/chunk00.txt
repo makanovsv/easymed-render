@@ -1,0 +1,29 @@
+ast_alt|lab|Печёночные пробы (АЛТ, АСТ, билирубин)|Liver function tests (ALT, AST, bilirubin)|lab_draw|L|1
+kidney_tests|lab|Почечные пробы (креатинин, мочевина, СКФ)|Kidney function tests (creatinine, urea, eGFR)|lab_draw|L|1
+electrolytes|lab|Электролиты крови (калий, натрий, кальций)|Blood electrolytes (potassium, sodium, calcium)|lab_draw|L|2
+uric_acid|lab|Мочевая кислота|Uric acid test|lab_draw|L|2
+b12_folate|lab|Витамин B12 и фолиевая кислота|Vitamin B12 and folate|lab_draw|L|2
+magnesium|lab|Магний крови|Blood magnesium|lab_draw|L|3
+insulin|lab|Инсулин и индекс HOMA|Insulin and HOMA index|lab_draw|L|2
+cpeptide|lab|С-пептид|C-peptide test|lab_draw|L|3
+anti_tpo|lab|Антитела к щитовидной железе (АТ-ТПО)|Thyroid antibodies (anti-TPO)|lab_draw|L|2
+cortisol|lab|Кортизол|Cortisol test|lab_draw|L|2
+prolactin|lab|Пролактин|Prolactin test|lab_draw|L|2
+amh|lab|АМГ (антимюллеров гормон)|AMH (anti-Müllerian hormone)|lab_draw|L|2
+testosterone|lab|Тестостерон|Testosterone test|lab_draw|L|2
+progesterone|lab|Прогестерон|Progesterone test|lab_draw|L|3
+pth|lab|Паратгормон|Parathyroid hormone (PTH)|lab_draw|L|3
+ddimer|lab|D-димер|D-dimer test|lab_draw|L|2
+inr|lab|МНО при приёме варфарина|INR test on warfarin|lab_draw|L|2
+troponin|lab|Тропонин|Troponin test|lab_draw|L|3
+bnp|lab|NT-proBNP (сердечный пептид)|NT-proBNP heart test|lab_draw|L|3
+esr|lab|СОЭ|ESR (sedimentation rate)|lab_draw|L|1
+rheum_factor|lab|Ревмофактор и АЦЦП|Rheumatoid factor and anti-CCP|lab_draw|L|2
+ana|lab|Антинуклеарные антитела (АНА)|Antinuclear antibodies (ANA)|lab_draw|L|3
+celiac|lab|Анализ на целиакию|Coeliac disease blood test|lab_draw|L|3
+hpylori|lab|Анализ на хеликобактер|Helicobacter pylori test|lab_cup|L|2
+urea_breath|lab|Дыхательный тест на хеликобактер|Urea breath test for H. pylori|lab_cup|L|2
+hpv|lab|ВПЧ-тест|HPV test|gyn_chair|L|2
+sti_pcr|lab|ПЦР на половые инфекции|STI PCR test|gyn_chair|L|2
+torch|lab|TORCH-инфекции перед беременностью|TORCH infections before pregnancy|lab_draw|L|2
+covid_ag|lab|Экспресс-тест на COVID-19 и грипп|Rapid COVID-19 and flu test|swab|L|2

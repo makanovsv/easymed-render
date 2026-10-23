@@ -1,0 +1,77 @@
+{
+ "title": "MR enterography (small bowel MRI)",
+ "also": [
+  "MR enterography",
+  "small bowel MRI",
+  "bowel MRI with drink"
+ ],
+ "what": "An MRI of the belly, for which you first drink a special solution. It opens up the bowel so it can be seen well in the images.",
+ "why": "Most often for inflammatory bowel disease, to look at the small bowel without radiation.",
+ "duration": "drinking the solution takes about an hour, the MRI itself 30 to 45 minutes, the report in a few days",
+ "tell_doctor": [
+  "If you have a pacemaker or metal in your body",
+  "If you are afraid of closed spaces",
+  "If you might be pregnant",
+  "If you have kidney disease or an allergy to contrast",
+  "If you have glaucoma or an enlarged prostate - because of the medicine for the bowel"
+ ],
+ "prepare": [
+  {
+   "title": "Fasting",
+   "text": "Usually no food for 4 to 6 hours. Ask the clinic."
+  },
+  {
+   "title": "Time",
+   "text": "Arrive early: you drink the solution for about an hour before the exam."
+  },
+  {
+   "title": "Metal",
+   "text": "Take off jewelry, watch and belt."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Earlier scans and colonoscopy",
+  "Your ID",
+  "A change of underwear - the solution is a laxative"
+ ],
+ "steps": [
+  "You drink the solution in small portions over about an hour",
+  "You change clothes and remove metal",
+  "You lie on the table - often on your stomach",
+  "A catheter is placed in your vein",
+  "A medicine to stop the bowel moving and contrast are given",
+  "Pictures are taken, often while you hold your breath"
+ ],
+ "feel": [
+  "Drinking so much is unpleasant, and you may feel bloated",
+  "The medicine can blur your vision for a while",
+  "Warmth when the contrast goes in"
+ ],
+ "after": [
+  "After the exam you may have loose stools - stay near a toilet",
+  "Do not drive while your vision is blurry",
+  "The report is usually ready in a few days"
+ ],
+ "red_flags": [
+  "Eye pain and a sudden drop in vision after the exam - call your local emergency number",
+  "Rash, swelling of the face or trouble breathing - call your local emergency number",
+  "Severe belly pain"
+ ],
+ "faq": [
+  {
+   "q": "Why drink so much solution?",
+   "a": "Without it the bowel is collapsed and is hard to see in the images."
+  },
+  {
+   "q": "Can I go to work right after?",
+   "a": "Usually yes, but keep in mind you may have loose stools."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "MR enterography tomorrow. Do not eat for 4 to 6 hours before, and arrive early - you will need to drink the solution."
+  }
+ ]
+}

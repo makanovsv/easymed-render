@@ -1,0 +1,79 @@
+{
+ "title": "Bolada EEG",
+ "also": [
+  "bolaga EEG",
+  "bolaga ensefalogramma",
+  "bolalar EEG",
+  "bolaga uyquda EEG"
+ ],
+ "what": "Hamshira bolaga datchikli shapkacha kiydirib, miya faoliyatini yozadi. Bu xavfsiz — datchiklar hech narsa yubormaydi, faqat tinglaydi.",
+ "why": "Tutqanoq, hushdan ketish, g‘alati epizodlar, rivojlanish kechikishi, uyqu buzilishlarida, nevrolog tayinlovi bo‘yicha.",
+ "duration": "odatda 30–60 daqiqa; uyquda EEG — uzoqroq; xulosa odatda 1–3 kunda",
+ "tell_doctor": [
+  "Bezovta qilayotgan epizodlar qanday ko‘rinishi",
+  "Bola qanday dorilar ichishi",
+  "Epizodlarning telefondagi videosi, agar bo‘lsa",
+  "Uyquda yozuv kerakmi — oldindan so‘rang"
+ ],
+ "prepare": [
+  {
+   "title": "Sochlar",
+   "text": "Bir kun oldin boshini moysiz va soch turmaklash vositalarisiz yuving. Kokillarni yeching."
+  },
+  {
+   "title": "Uyqu",
+   "text": "Uyquda yozuv kerak bo‘lsa, kichkintoyni kunduzgi uyqudan oldin, charchagan holda olib kelgan ma’qul. Aynan qanday — klinika aytadi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Bolani ovqatlantiring, och bolalar bezovtaroq bo‘ladi."
+  },
+  {
+   "title": "Kayfiyat",
+   "text": "Bolaga ayting: kosmonavtdek shapkacha kiyamiz, og‘rimaydi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va avvalgi EEGlar",
+  "Dorilar ro‘yxati",
+  "Epizodlar videosi, agar bo‘lsa",
+  "Sevimli o‘yinchoq, shisha, pelyonka",
+  "Keyin boshini artish uchun sochiq"
+ ],
+ "steps": [
+  "Bolani qo‘lga yoki kushetkaga o‘tqazishadi",
+  "Elektrodli shapkacha kiydirishadi, ularning tagiga gel suriladi",
+  "Tinch o‘tirib, ko‘zlarni ochib-yumishni so‘rashadi",
+  "Kattaroq bolalarga tez-tez nafas olish yoki yonib-o‘chuvchi yorug‘likka qarashni taklif qilishadi",
+  "Ba’zan bola uxlayotganda yozishadi",
+  "Shapkacha olinadi, gel artiladi"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Bolaga shapkacha yoqmasligi mumkin — sizning xotirjamligingiz yordam beradi"
+ ],
+ "after": [
+  "Uyda boshini yuving",
+  "Odatdagi kunga qaytish mumkin",
+  "Xulosa odatda 1–3 kunda, uni nevrolog bilan muhokama qiling"
+ ],
+ "red_flags": [
+  "Tutqanoq 5 daqiqadan uzoq yoki bola xurujdan keyin o‘ziga kelmayapti — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Bolaga og‘riydimi?",
+   "a": "Yo‘q. Elektrodlar faqat yozadi, boshga hech narsa yubormaydi."
+  },
+  {
+   "q": "Nega uyqusirab kelishni so‘rashadi?",
+   "a": "Uyquda EEG ba’zan kunduzi ko‘rinmaydigan narsani ko‘rsatadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bolaga EEG. Boshini moy va soch turmaklash vositalarisiz yuving. O‘yinchoq va sochiqni oling."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Vitamins A and E",
+ "also": [
+  "vitamin A test",
+  "retinol",
+  "vitamin E test",
+  "tocopherol",
+  "fat-soluble vitamins"
+ ],
+ "what": "This blood test shows whether your body has enough vitamins A and E.",
+ "why": "For conditions where fat is poorly absorbed: bowel, liver, or pancreas problems, or after stomach surgery. Also for poor vision at dusk and dry skin.",
+ "duration": "the blood draw takes a few minutes; results usually come in 1 to 2 weeks",
+ "tell_doctor": [
+  "If you take vitamins or fish oil",
+  "If you have a bowel, liver, or pancreas condition",
+  "If you had stomach or bowel surgery",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually on an empty stomach: 8 to 12 hours without food. It is especially important not to eat fatty food the day before. Water is fine."
+  },
+  {
+   "title": "Vitamins",
+   "text": "Ask your doctor if you should pause your vitamins before the test."
+  },
+  {
+   "title": "The day before",
+   "text": "For 24 hours: no alcohol and no hard workouts. Try not to smoke in the morning."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve you can easily roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID",
+  "A list of your vitamins and supplements"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "The needle comes out, and a cotton pad is pressed on the spot",
+  "The tube is shielded from light, because light breaks down these vitamins"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "You can eat right away",
+  "Do not take large doses of vitamins on your own. Too much is harmful too"
+ ],
+ "red_flags": [
+  "The puncture site is very swollen, painful, and red"
+ ],
+ "faq": [
+  {
+   "q": "Why do results take so long?",
+   "a": "These vitamins are measured on special equipment that not every lab has. You will be told the timing when you give blood."
+  },
+  {
+   "q": "Can I take vitamins to prevent problems without a test?",
+   "a": "Normal doses in multivitamins, if your doctor agrees. Large doses of vitamin A without a test are dangerous."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Vitamin A and E test tomorrow. No fatty dinner today, and do not eat after it. Water is fine."
+  }
+ ]
+}

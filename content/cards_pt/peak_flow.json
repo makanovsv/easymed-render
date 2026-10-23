@@ -1,0 +1,74 @@
+{
+ "title": "Medição do pico de fluxo em casa",
+ "also": [
+  "medidor de pico de fluxo",
+  "peak flow",
+  "pico de fluxo expiratório",
+  "PFE",
+  "diário da asma"
+ ],
+ "what": "O medidor de pico de fluxo é um aparelho pequeno em que você sopra com força. Ele mostra o quanto os brônquios estão livres agora.",
+ "why": "Principalmente na asma: para acompanhar a respiração em casa e perceber a piora a tempo.",
+ "duration": "uma medida leva cerca de um minuto, normalmente de manhã e à noite",
+ "tell_doctor": [
+  "O seu melhor resultado. O médico calcula o normal a partir dele",
+  "Com que frequência há crises e se você acorda à noite",
+  "Quais bombinhas você usa e quando"
+ ],
+ "prepare": [
+  {
+   "title": "Horário",
+   "text": "Normalmente se mede de manhã e à noite, sempre no mesmo horário. O esquema quem passa é o médico."
+  },
+  {
+   "title": "Remédios",
+   "text": "Normalmente se mede antes da bombinha. Confirme com o médico. Não mude o tratamento por conta própria."
+  },
+  {
+   "title": "Diário",
+   "text": "Anote os resultados num caderno ou aplicativo."
+  }
+ ],
+ "bring": [
+  "O medidor de pico de fluxo",
+  "Diário das medidas",
+  "As bombinhas"
+ ],
+ "steps": [
+  "Coloque o ponteiro do aparelho no zero",
+  "Fique de pé ou sente-se reto",
+  "Puxe o ar fundo",
+  "Feche bem os lábios em volta do bocal",
+  "Sopre o mais forte e rápido que puder",
+  "Repita 3 vezes e anote o melhor resultado"
+ ],
+ "feel": [
+  "Não dói",
+  "Às vezes, o sopro forte dá tosse ou uma leve tontura"
+ ],
+ "after": [
+  "Compare os resultados com o seu normal",
+  "Mostre o diário ao médico na consulta",
+  "O médico pode dar um plano: o que fazer quando os resultados caem"
+ ],
+ "red_flags": [
+  "O resultado caiu muito e a bombinha não ajuda: ligue para a emergência",
+  "Dificuldade para falar, lábios roxos: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Qual resultado é normal?",
+   "a": "Cada um tem o seu normal: ele é calculado a partir do seu melhor resultado. O médico explica as zonas."
+  },
+  {
+   "q": "Quantas vezes soprar?",
+   "a": "Normalmente 3 vezes seguidas, e se anota a melhor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Não esqueça de medir o pico de fluxo de manhã e anotar no diário."
+  }
+ ]
+}

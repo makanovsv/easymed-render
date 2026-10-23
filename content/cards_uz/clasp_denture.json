@@ -1,0 +1,73 @@
+{
+ "title": "Byugelli protez",
+ "also": [
+  "byugel",
+  "byugelli protez",
+  "yoydagi protez",
+  "qulfli olinadigan protez"
+ ],
+ "what": "Bu ingichka metall yoyga o‘rnatilgan olinadigan protez. U o‘z tishlarga ilmoqlar yoki qulflar bilan ushlanadi.",
+ "why": "Bir nechta tish yetishmasa, lekin tayanch uchun o‘z tishlar hali bo‘lsa.",
+ "duration": "tayyorlash odatda bir necha hafta ichida bir necha tashrif",
+ "tell_doctor": [
+  "Allergiyalar, jumladan metallarga",
+  "Milk kasalliklari va tishlarning qimirlashi",
+  "Ilgari protez taqqanmisiz va qanday o‘rganganingiz",
+  "Tish g‘ijirlatsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Davolash",
+   "text": "Protezdan oldin odatda tish va milklar davolanadi, ba’zan tayanch tishlarga qoplama qo‘yiladi."
+  },
+  {
+   "title": "Tishlar",
+   "text": "Har bir tashrifdan oldin tishlaringizni tozalang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tish suratlari, agar bo‘lsa",
+  "Eski protez, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor tishlarni ko‘radi va suratga oladi",
+  "Qolip oladi",
+  "Protez karkasini sinab ko‘radi",
+  "Tishlarning rangi va shakli tanlanadi",
+  "Protez kiydirilib, moslashtiriladi",
+  "Protezni kiyish va yechishni o‘rgatishadi"
+ ],
+ "feel": [
+  "Dastlabki kunlarda protez bosadi va gapirishga xalaqit beradi",
+  "Dastlabki kunlarda so‘lak ko‘p chiqadi: bu o‘tib ketadi",
+  "O‘rganish odatda bir necha hafta oladi"
+ ],
+ "after": [
+  "Ovqatdan keyin protezni yeching va tozalang",
+  "Tunda shifokor aytganidek, odatda yechiladi",
+  "Toza g‘ilofda yoki suvda saqlang",
+  "Ilmoqlarni o‘zingiz egmang",
+  "Ishqalasa, to‘g‘rilashga keling"
+ ],
+ "red_flags": [
+  "Protez milkni yara bo‘lguncha ishqalab, yara bitmasa",
+  "Protez sinsa yoki ushlanmay qolsa"
+ ],
+ "faq": [
+  {
+   "q": "Protez bilan uxlasa bo‘ladimi?",
+   "a": "Odatda tunda yechish tavsiya etiladi. Shifokordan aniqlashtiring."
+  },
+  {
+   "q": "Metall ko‘rinadimi?",
+   "a": "Ilmoqlar ba’zan yon tishlarda ko‘rinadi. Qulflar kamroq sezilishi mumkin: shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga protez bo‘yicha tashrif. Tishlaringizni tozalang va eski protezni oling, agar bo‘lsa."
+  }
+ ]
+}

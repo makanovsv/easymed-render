@@ -1,0 +1,77 @@
+{
+ "title": "Qué llevar al hospital para el parto",
+ "also": [
+  "maleta para el hospital",
+  "lista para el parto",
+  "qué llevar al parto",
+  "pañalera para el hospital"
+ ],
+ "what": "Es la lista de cosas que debes llevar a la maternidad para ti y para el bebé. Es mejor preparar la maleta con tiempo.",
+ "why": "Normalmente la maleta se prepara para la semana 36, y antes si hay riesgo de parto prematuro.",
+ "duration": "prepararla toma normalmente una tarde; la maleta es para 2 a 5 días",
+ "tell_doctor": [
+  "Si necesitas cosas especiales por tus enfermedades",
+  "Si tomas medicamentos todos los días",
+  "Si está planeada una cesárea"
+ ],
+ "prepare": [
+  {
+   "title": "Documentos",
+   "text": "Tu identificación, tu carnet de control prenatal y tu póliza de seguro o la orden, si hace falta."
+  },
+  {
+   "title": "Para mamá",
+   "text": "Bata, camisón, pantuflas, ropa interior, toallas sanitarias, artículos de higiene y el cargador del celular."
+  },
+  {
+   "title": "Para el bebé",
+   "text": "Pañales de recién nacido, ropa, gorrito, calcetines y ropa para la salida según la temporada."
+  },
+  {
+   "title": "Reglas del hospital",
+   "text": "Pide con tiempo la lista de tu maternidad: qué se puede llevar y qué no."
+  }
+ ],
+ "bring": [
+  "Tus documentos y tu carnet de control prenatal",
+  "Las cosas para mamá",
+  "Las cosas para el bebé",
+  "Tus medicamentos de todos los días y su lista",
+  "El celular y el cargador"
+ ],
+ "steps": [
+  "Consigue la lista de tu maternidad",
+  "Separa las cosas en tres bolsas: para la sala de parto, para el cuarto y para la salida",
+  "Pon los documentos en una carpeta aparte",
+  "Revisa que todo esté marcado",
+  "Deja la maleta junto a la puerta",
+  "Diles a tus familiares dónde está"
+ ],
+ "feel": [
+  "Preparar la maleta ayuda a estar tranquila: hay menos prisas cuando empieza el parto"
+ ],
+ "after": [
+  "La ropa para la salida puede quedarse en casa; te la pueden llevar",
+  "Antes de salir, revisa los documentos y el celular"
+ ],
+ "red_flags": [
+  "Contracciones regulares, salida de líquido o sangrado: ve a la maternidad o llama a emergencias",
+  "El bebé se mueve mucho menos"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuándo preparo la maleta?",
+   "a": "Normalmente para la semana 36. Si el médico dice que hay riesgo de parto prematuro, antes."
+  },
+  {
+   "q": "¿Qué es lo más importante?",
+   "a": "Los documentos y el carnet de control prenatal. Lo demás te lo pueden llevar tus familiares."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "Revisa tu maleta para el hospital: documentos, carnet de control prenatal, cosas para ti y para el bebé."
+  }
+ ]
+}

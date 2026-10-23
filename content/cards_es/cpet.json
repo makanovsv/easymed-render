@@ -1,0 +1,80 @@
+{
+ "title": "Prueba de esfuerzo cardiopulmonar",
+ "also": [
+  "prueba de esfuerzo con análisis de gases",
+  "ergoespirometría",
+  "prueba cardiopulmonar",
+  "prueba de esfuerzo con mascarilla"
+ ],
+ "what": "Pedaleas o caminas en una caminadora con una mascarilla. Los aparatos miden cómo trabaja el corazón y cuánto oxígeno consumes.",
+ "why": "Cuando no se entiende la causa de la falta de aire, antes de operaciones, en enfermedades del corazón y de los pulmones o para elegir un esfuerzo seguro.",
+ "duration": "normalmente de 45 a 60 minutos con la preparación; el esfuerzo en sí dura de 8 a 12 minutos",
+ "tell_doctor": [
+  "Todos tus medicamentos: el médico dirá si hay que suspender alguno",
+  "Si sientes dolor en el pecho al hacer esfuerzo",
+  "Si te duelen las articulaciones y te cuesta caminar o pedalear",
+  "Si te has desmayado"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Una comida ligera de 2 a 3 horas antes de la prueba. No vengas en ayunas ni muy lleno."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Sin ejercicio fuerte ni alcohol. El día de la prueba normalmente no se toma café ni se fuma; pregunta en la clínica."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa deportiva y zapatos cómodos."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Si el médico lo indica, sigue su esquema."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de tus medicamentos",
+  "Ropa y zapatos deportivos",
+  "Agua y una toalla"
+ ],
+ "steps": [
+  "Te pegan electrodos de electrocardiograma en el pecho y un brazalete de presión en el brazo",
+  "Te ponen una mascarilla en la cara y respiras a través de ella",
+  "Primero registran los valores en reposo",
+  "Empiezas a pedalear o a caminar y el esfuerzo sube poco a poco",
+  "Sigues hasta que te canses o hasta que el médico te detenga",
+  "Después de la prueba descansas hasta que el pulso se calme"
+ ],
+ "feel": [
+  "Al principio la mascarilla es rara",
+  "Al final hay mucho cansancio y falta de aire, como en un entrenamiento intenso",
+  "Las piernas pueden doler también al día siguiente"
+ ],
+ "after": [
+  "Siéntate 10 o 15 minutos antes de irte",
+  "La interpretación suele tomar de unas horas a unos días",
+  "Hoy evita el esfuerzo fuerte"
+ ],
+ "red_flags": [
+  "Dolor en el pecho, mareo o falta de aire durante la prueba: díselo enseguida al médico",
+  "Dolor en el pecho o desmayo después de la prueba: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Para qué llegar al límite?",
+   "a": "Para ver cómo trabajan el corazón y los pulmones al máximo. Pero te detendrán si deja de ser seguro."
+  },
+  {
+   "q": "¿En qué se diferencia de una prueba normal en la caminadora?",
+   "a": "Además del electrocardiograma, aquí se mide la respiración y el intercambio de gases. Eso ayuda a saber qué limita el esfuerzo: el corazón, los pulmones o los músculos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes la prueba de esfuerzo. Lleva ropa y zapatos deportivos. De 2 a 3 horas antes de la prueba, una comida ligera."
+  }
+ ]
+}

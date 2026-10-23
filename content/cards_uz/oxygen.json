@@ -1,0 +1,68 @@
+{
+ "title": "Kislorod terapiyasi",
+ "also": [
+  "kislorod",
+  "kislorod niqobi",
+  "burunga kislorod naychalari",
+  "kislorod konsentratori"
+ ],
+ "what": "Burundagi naychalar yoki niqob orqali kislorodi ko‘paytirilgan havodan nafas olasiz. Shunda qonda kislorod ko‘payadi.",
+ "why": "Qonda kislorod kam bo‘lganda: zotiljamda, o‘pka va yurak kasalliklarida, operatsiyalardan keyin. Ba’zan kislorod uyda ham buyuriladi.",
+ "duration": "bir necha soatdan doimiy foydalanishgacha — shifokor aytadi",
+ "tell_doctor": [
+  "Chekayotgan bo‘lsangiz — kislorod yonida chekish mumkin emas",
+  "O‘pkaning surunkali kasalliklari",
+  "Naychalardan burun quriydigan yoki quloq og‘riydigan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Xavfsizlik",
+   "text": "Kislorod yonishni kuchaytiradi. Yonida chekilmaydi, sham va gaz yoqilmaydi, yuzga yog‘li kremlar surtilmaydi."
+  },
+  {
+   "title": "Tezlik",
+   "text": "Qancha kislorod berishni shifokor hal qiladi. Oqimni o‘zingiz o‘zgartirmang."
+  }
+ ],
+ "bring": [
+  "Dorilar ro‘yxati",
+  "Suv asosli lab balzami — burun va lablar qurishi mumkin"
+ ],
+ "steps": [
+  "Hamshira naychalar yoki niqobni tanlaydi",
+  "Naychalar burunga qo‘yiladi va quloq orqasiga mahkamlanadi",
+  "Kislorod shifokor buyurgan oqim bilan yoqiladi",
+  "Barmoqqa datchik kiygiziladi — u kislorod darajasini ko‘rsatadi",
+  "Odatdagidek, burun yoki og‘iz orqali nafas oling"
+ ],
+ "feel": [
+  "Burunda havoning yengil oqimi",
+  "Burun va og‘iz qurishi mumkin",
+  "Naychalar ba’zan quloq orqasini ishqalaydi"
+ ],
+ "after": [
+  "Kislorod darajasi muntazam tekshiriladi",
+  "Yaxshilanganda oqim asta-sekin kamaytiriladi",
+  "Kislorod uyga buyurilgan bo‘lsa, apparatdan foydalanishni ko‘rsatishadi"
+ ],
+ "red_flags": [
+  "Nafas qisilishi kuchayadi, lablar ko‘karadi, ong chalkashadi yoki kuchli uyquchanlik — tez yordamni chaqiring (103)",
+  "Uyda apparat ishlamay qoldi, kislorodsiz o‘zingizni yomon his qilasiz — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Kislorodga ko‘nikib qolsa bo‘ladimi?",
+   "a": "Yo‘q, ko‘nikish yo‘q. Kislorod organizmga kerak bo‘lgan paytgacha buyuriladi."
+  },
+  {
+   "q": "Burunda naychalar bilan yeb-gapirsa bo‘ladimi?",
+   "a": "Ha, burundagi naychalar bunga xalaqit bermaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Kislorodni tekshiring: oqim shifokor aytganidek, yonida olov va sigaret yo‘q."
+  }
+ ]
+}

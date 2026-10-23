@@ -1,0 +1,79 @@
+{
+ "title": "Antiestreptolisina O (ASLO)",
+ "also": [
+  "ASLO",
+  "ASO",
+  "antiestreptolisina",
+  "exame de estreptococo no sangue",
+  "prova reumática"
+ ],
+ "what": "É um exame de sangue que procura anticorpos contra o estreptococo. Mostra se houve uma infecção por estreptococo há pouco tempo.",
+ "why": "Com dor e inchaço nas articulações, alterações no exame de urina ou no coração depois de uma amigdalite, e com amigdalites frequentes.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 1 a 3 dias",
+ "tell_doctor": [
+  "Se teve há pouco tempo amigdalite, escarlatina ou dor de garganta",
+  "Se tomou antibióticos",
+  "Se as articulações doem ou o rosto incha",
+  "Se o ASLO já deu alto antes"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Jejum rigoroso normalmente não é necessário, mas é melhor ir 3 a 4 horas depois de uma refeição leve, sem gordura. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Nas 24 horas antes, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma. Ele decide se é preciso mudar algo antes do exame."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Resultados anteriores de ASLO",
+  "Exame de urina, se fez"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "O ASLO não sobe logo depois da amigdalite. Às vezes o exame é repetido depois de algumas semanas",
+  "ASLO alto sem sintomas normalmente não é tratado. O médico decide"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho",
+  "Inchaço, urina cor de água de carne, falta de ar depois de amigdalite: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "ASLO alto é febre reumática?",
+   "a": "Não. Ele só mostra que houve estreptococo há pouco tempo. O diagnóstico é o médico quem faz, com todos os dados."
+  },
+  {
+   "q": "Preciso tomar antibiótico se o ASLO está alto?",
+   "a": "Nem sempre. Quem decide é o médico. Não comece antibiótico por conta própria."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de ASLO. De manhã, é melhor evitar comida gordurosa."
+  }
+ ]
+}

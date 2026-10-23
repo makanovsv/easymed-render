@@ -1,0 +1,74 @@
+{
+ "title": "Addiction specialist (narcologist) visit",
+ "also": [
+  "addiction specialist",
+  "addiction doctor",
+  "alcoholism treatment",
+  "help with addiction"
+ ],
+ "what": "The doctor helps with dependence on alcohol, medicines and other substances. They also carry out exams for certificates.",
+ "why": "For problems with alcohol or other substances, if you or your close ones are worried; for medical boards and certificates.",
+ "duration": "the visit usually takes 20 to 40 minutes",
+ "tell_doctor": [
+  "What, how often and how much you use - honestly, it will help your treatment",
+  "When you last used",
+  "Which medicines you take",
+  "If you have had seizures or a severe state when you stopped",
+  "If you have liver or heart disease, or depression"
+ ],
+ "prepare": [
+  {
+   "title": "Confidentiality",
+   "text": "Ask the clinic in advance about anonymous visits, if that is important to you."
+  },
+  {
+   "title": "Before the visit",
+   "text": "Come sober, so the doctor can assess your condition correctly."
+  },
+  {
+   "title": "Support",
+   "text": "You can come with a close person."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "A list of your medicines",
+  "Hospital discharge summaries, if you have any"
+ ],
+ "steps": [
+  "The doctor calmly asks about your habits and health",
+  "Measures your blood pressure and pulse, examines you",
+  "May suggest a blood or urine test",
+  "Discusses with you what you want to achieve",
+  "Offers a plan of treatment and support"
+ ],
+ "feel": [
+  "The visit is painless",
+  "Talking about dependence is hard - the doctor does not judge, but helps"
+ ],
+ "after": [
+  "Treatment is best started under a doctor's watch",
+  "With a strong dependence, stopping suddenly can be dangerous - discuss it with your doctor",
+  "Support groups help you keep the result"
+ ],
+ "red_flags": [
+  "Seizures, confusion or seeing things after stopping alcohol - call your local emergency number",
+  "Signs of poisoning: severe drowsiness, slow breathing - call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Will my work find out that I saw an addiction specialist?",
+   "a": "Medical confidentiality is protected by law. Ask the clinic about anonymous visits."
+  },
+  {
+   "q": "Can I quit on my own?",
+   "a": "Sometimes, but with strong dependence stopping suddenly is dangerous. It is better under a doctor's watch."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Addiction specialist visit tomorrow. Take your ID and list of medicines."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Yuklama bilan EKG",
+ "also": [
+  "yugurish yo‘lakchasi testi",
+  "velo-ergometriya",
+  "yuklama testi"
+ ],
+ "what": "Siz yugurish yo‘lakchasida yurganingizda yoki velotrenajyor pedalini aylantirganingizda EKG yoziladi. Yuklama asta-sekin oshiriladi.",
+ "why": "Yuklama paytida yurakka qon yetarli yoki yetarli emasligini tekshirish uchun: yurganda ko‘krak og‘riganda, stentdan keyin, sport oldidan.",
+ "duration": "xonada odatda 30–60 daqiqa, yuklamaning o‘zi 8–15 daqiqa",
+ "tell_doctor": [
+  "Qaysi dorilarni ichayotganingizni — yurak dorilarining ba’zilarini shifokor test kuni ichmaslikni so‘rashi mumkin. O‘zingiz bekor qilmang",
+  "Hozir tinch holatda ko‘krak og‘rig‘i, yuqori bosim bo‘lsa yoki yaqinda infarkt o‘tkazgan bo‘lsangiz",
+  "Bo‘g‘im va oyoq kasalliklari — yo‘lakcha to‘g‘ri kelmasligi mumkin"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Testdan 2–3 soat oldin yengil ovqatlaning. Och kelmang va to‘yib ham yemang."
+  },
+  {
+   "title": "Qahva va chekish",
+   "text": "Testdan bir necha soat oldin qahva, kuchli choy va sigaretsiz bo‘ling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Sport kiyimi va yurish uchun qulay poyabzal. Sochiq va suv."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi EKG va epikrizlar",
+  "Dorilar ro‘yxati",
+  "Sport kiyimi"
+ ],
+ "steps": [
+  "Shifokor ahvolingizni so‘raydi, bosimingizni o‘lchaydi",
+  "Ko‘kragingizga elektrodlar, qo‘lingizga tonometr manjetasi yopishtiriladi",
+  "Siz sekin yura boshlaysiz; har bir necha daqiqada tezlik yoki qiyalik oshadi",
+  "Bosim va EKG doim yoziladi, shifokor yonida bo‘ladi",
+  "Puls maqsadga yetganda yoki o‘zingizni yomon his qilsangiz, test to‘xtatiladi",
+  "Bir necha daqiqa dam olasiz, yozuv davom etadi"
+ ],
+ "feel": [
+  "Tez yurib tepalikka chiqqandek charchaysiz — bu kutiladigan holat",
+  "Nafas va puls tezlashishi — normal"
+ ],
+ "after": [
+  "10–15 daqiqadan keyin odatda uyga ketsa bo‘ladi",
+  "Natijani shifokor o‘sha kuni tushuntiradi"
+ ],
+ "red_flags": [
+  "Test paytida: ko‘krakda og‘riq yoki bosim, kuchli nafas qisishi, bosh aylanishi bo‘lsa — darrov shifokorga ayting",
+  "Uyda: ko‘krak og‘rig‘i o‘tmasa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Bu xavfli emasmi?",
+   "a": "Test shifokor nazoratida o‘tadi, muammoning birinchi belgisida to‘xtatiladi. Xavf kam, lekin ko‘krak og‘rig‘i haqida darrov ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga yuklama bilan EKG. Sport kiyimi, poyabzal va dorilar ro‘yxatini tayyorlang."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Hozir yengil tamaddi qiling, testgacha boshqa yemang. Qahva va sigaretsiz."
+  }
+ ]
+}

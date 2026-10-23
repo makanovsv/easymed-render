@@ -1,0 +1,76 @@
+{
+ "title": "AKDS emlashi (ko‘k yo‘tal, difteriya, qoqshol)",
+ "also": [
+  "AKDS",
+  "ko‘k yo‘talga qarshi emlash",
+  "qoqsholga qarshi emlash",
+  "difteriyaga qarshi emlash",
+  "ADS"
+ ],
+ "what": "Ko‘k yo‘tal, difteriya va qoqsholdan himoya qiladigan kombinatsiyalangan vaksina ukoli. Bolalarga kalendar bo‘yicha bir necha ukol qilinadi.",
+ "why": "Bolalarga milliy emlash kalendari bo‘yicha, kattalarga — difteriya va qoqsholga qarshi qayta emlash, odatda 10 yilda bir marta.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa",
+ "tell_doctor": [
+  "Bola hozir kasal bo‘lsa yoki harorat bo‘lsa",
+  "Allergiyalar va oldingi emlashlarga kuchli reaksiyalar",
+  "Tutqanoq yoki asab tizimi kasalliklari bo‘lgan bo‘lsa",
+  "Bola yaqinda qon preparatlari olgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash bola sog‘ bo‘lganda qilinadi. Ukoldan oldin uni ko‘rikdan o‘tkazishadi."
+  },
+  {
+   "title": "Jadval",
+   "text": "Kursning barcha ukollari sanalarini bolalar shifokoridan aniqlang."
+  },
+  {
+   "title": "Isitma tushiruvchi",
+   "text": "Harorat bo‘lsa, uyda qaysi isitma tushiruvchi dori saqlash kerakligini shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi",
+  "Bolaning sevimli o‘yinchog‘i"
+ ],
+ "steps": [
+  "Shifokor bolani ko‘radi va haroratini o‘lchaydi",
+  "Siz bolani qo‘lingizda yoki tizzangizda ushlaysiz",
+  "Teri artiladi va songa yoki yelkaga ukol qilinadi",
+  "Emlash hujjatlarga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa bo‘lish kerak"
+ ],
+ "feel": [
+  "Qisqa ukol — bola yig‘lashi mumkin",
+  "Ba’zan ukol joyi 1–2 kun qizaradi va qotadi",
+  "Ba’zan harorat, injiqlik, ishtahaning yomonlashishi"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Uyda ko‘proq ichiring, bolani yengil kiyintiring",
+  "Keyingi ukol — jadval bo‘yicha"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)",
+  "Tutqanoq — tez yordamni chaqiring (103)",
+  "Tushmayotgan yuqori harorat yoki bir necha soat tinmay yig‘lash — shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "AKDS og‘ir emlash ekani rostmi?",
+   "a": "Reaksiyalar ba’zi boshqa emlashlarga qaraganda tez-tez bo‘ladi, lekin odatda yengil va 1–3 kunda o‘tadi."
+  },
+  {
+   "q": "Kattalarga qoqsholga qarshi emlash kerakmi?",
+   "a": "Ha, odatda qayta emlash 10 yilda bir marta qilinadi. Shifokordan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga AKDS emlashi. Emlash kartasini oling. Bola sog‘ bo‘lishi kerak."
+  }
+ ]
+}

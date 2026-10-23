@@ -1,0 +1,77 @@
+{
+ "title": "Avaliação de tosse crônica",
+ "also": [
+  "tosse crônica",
+  "tosse que não passa",
+  "tosse prolongada",
+  "tosse persistente"
+ ],
+ "what": "O médico procura a causa de uma tosse que não passa há várias semanas. Para isso, conversa, examina e pede alguns exames.",
+ "why": "Se a tosse dura mais de 3 a 8 semanas no adulto ou mais de 4 semanas na criança, principalmente com catarro, falta de ar ou sangue.",
+ "duration": "a primeira consulta leva normalmente de 20 a 40 minutos; a investigação, de alguns dias a umas duas semanas",
+ "tell_doctor": [
+  "Há quanto tempo tosse e quando piora: de dia ou à noite",
+  "Se tem catarro, de que cor, se teve sangue",
+  "Se fuma agora ou já fumou",
+  "Quais remédios toma: alguns de pressão causam tosse",
+  "Azia, nariz escorrendo, alergia",
+  "Se teve contato com alguém com tuberculose"
+ ],
+ "prepare": [
+  {
+   "title": "Diário da tosse",
+   "text": "Anote quando a tosse é mais forte e o que a provoca: comida, frio, deitar, poeira."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Conte ao médico tudo o que toma."
+  },
+  {
+   "title": "Exames anteriores",
+   "text": "Leve raio-X ou tomografia do pulmão, se já fez."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Imagens do pulmão e laudos",
+  "Lista de remédios",
+  "Exames anteriores"
+ ],
+ "steps": [
+  "O médico pergunta com detalhes sobre a tosse",
+  "Escuta os pulmões e examina a garganta e o nariz",
+  "Normalmente pede um raio-X do pulmão",
+  "Pode pedir um teste da respiração, a espirometria",
+  "Às vezes é preciso exame do catarro ou de sangue",
+  "Pelos resultados, indica o tratamento ou encaminha ao especialista certo"
+ ],
+ "feel": [
+  "Os exames normalmente não doem",
+  "Na espirometria é preciso soprar com força; pode dar tontura"
+ ],
+ "after": [
+  "O tratamento depende da causa; há várias",
+  "Às vezes primeiro se testa um tratamento e se vê se a tosse passa",
+  "Volte no prazo que o médico marcar"
+ ],
+ "red_flags": [
+  "Tosse com sangue, falta de ar forte ou dor no peito: vá ao médico na hora ou ligue para a emergência",
+  "Febre alta e respiração difícil: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Quanto tempo a tosse pode durar depois de um resfriado?",
+   "a": "Às vezes até 3 a 8 semanas. Se durar mais ou piorar, procure o médico."
+  },
+  {
+   "q": "É obrigatório fazer raio-X do pulmão?",
+   "a": "Na maioria das vezes sim; é um dos primeiros exames. O médico decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta da tosse. Leve as imagens do pulmão e a lista de remédios."
+  }
+ ]
+}

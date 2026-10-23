@@ -1,0 +1,65 @@
+{
+ "title": "Raio-X da mão para idade óssea",
+ "also": [
+  "idade óssea",
+  "raio-X de mão e punho",
+  "raio-X da idade óssea",
+  "raio-X das placas de crescimento"
+ ],
+ "what": "Fazem uma radiografia da mão. Por ela o médico vê o quanto os ossos da criança já amadureceram.",
+ "why": "Quando a criança cresce devagar ou rápido demais, com puberdade precoce ou tardia, e no tratamento com hormônios.",
+ "duration": "a radiografia leva uns dois minutos, o laudo sai normalmente no mesmo dia ou em alguns dias",
+ "tell_doctor": [
+  "Altura e peso da criança nos últimos anos",
+  "Quais hormônios ou remédios ela toma",
+  "Se tem doenças crônicas"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Não é preciso preparo especial."
+  },
+  {
+   "title": "Mãos",
+   "text": "Normalmente se radiografa a mão esquerda. Tire anéis e pulseiras da criança."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Radiografias anteriores, se teve",
+  "Documentos da criança"
+ ],
+ "steps": [
+  "A criança se senta perto da mesa",
+  "A mão é colocada com a palma para baixo sobre a placa",
+  "Colocam um avental de proteção no corpo",
+  "Pedem para não se mexer por alguns segundos",
+  "Fazem a radiografia"
+ ],
+ "feel": [
+  "Não dói",
+  "Só é preciso ficar parado"
+ ],
+ "after": [
+  "Pode ir embora logo em seguida",
+  "O laudo sai normalmente no mesmo dia ou em alguns dias",
+  "O médico compara a idade óssea com a idade real e decide os próximos passos"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "A radiação é perigosa?",
+   "a": "A dose é muito pequena: só a mão é radiografada. O médico pede quando o benefício é maior que o risco."
+  },
+  {
+   "q": "O que quer dizer idade óssea atrasada?",
+   "a": "Quer dizer que os ossos estão amadurecendo mais devagar. As causas são várias. O médico explica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã a criança faz o raio-X da mão. Tire anéis e pulseiras dela e leve as radiografias anteriores."
+  }
+ ]
+}

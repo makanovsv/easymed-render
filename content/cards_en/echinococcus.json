@@ -1,0 +1,73 @@
+{
+ "title": "Echinococcus antibodies",
+ "also": [
+  "echinococcosis test",
+  "hydatid disease test",
+  "hydatid cyst test",
+  "tapeworm cyst test"
+ ],
+ "what": "This blood test looks for antibodies to a parasite that can form cysts in the liver, lungs, and other organs.",
+ "why": "If a cyst was found on an ultrasound or CT scan, after contact with dogs and livestock, and to follow up after treatment.",
+ "duration": "the blood draw takes a few minutes; results usually come in 1 to 5 days",
+ "tell_doctor": [
+  "If a cyst was found on an ultrasound or CT scan",
+  "If you keep dogs or livestock",
+  "If you were treated for echinococcosis before",
+  "If you have allergies or a rash"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast strictly, but it is better to come 3 to 4 hours after a light, non-fatty meal. Check with the lab."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Tell your doctor what you take. They will decide if anything needs to change before the test."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve you can easily roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID",
+  "Ultrasound or CT reports",
+  "Summaries of past treatment"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "A negative test does not always rule out a cyst. The doctor looks at it together with the ultrasound or CT",
+  "Your doctor decides on treatment"
+ ],
+ "red_flags": [
+  "The puncture site is very swollen, painful, and red"
+ ],
+ "faq": [
+  {
+   "q": "How do people get echinococcus?",
+   "a": "From the parasite's eggs: from dogs, unwashed hands, vegetables, and berries."
+  },
+  {
+   "q": "If no antibodies were found, is there definitely no cyst?",
+   "a": "Not always. That is why the doctor reads the test together with an ultrasound or CT."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Echinococcus test tomorrow. Better to skip fatty food in the morning. Bring your ultrasound reports."
+  }
+ ]
+}

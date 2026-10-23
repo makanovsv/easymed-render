@@ -1,0 +1,82 @@
+{
+ "title": "Homiladorlikda glyukoza testi",
+ "also": [
+  "GTT",
+  "glyukoza toleranlik testi",
+  "homiladorlikda shakar testi",
+  "shakar yuklamasi",
+  "glyukozali test"
+ ],
+ "what": "Och qoringa qon topshirasiz, shirin glyukoza eritmasini ichasiz va yana bir soatdan va ikki soatdan keyin qon topshirasiz. Shunday tana shakar bilan qanday kurashishi tekshiriladi.",
+ "why": "Odatda homiladorlikning 24–28-haftasida, homiladorlar diabetini o‘z vaqtida payqash uchun. Ba’zan ertaroq — shifokor sabab ko‘rsa.",
+ "duration": "taxminan 2–2,5 soat; natija odatda 1–2 kunda",
+ "tell_doctor": [
+  "Shakar oldin yuqori bo‘lgan bo‘lsa",
+  "Kuchli toksikoz va qusish",
+  "Ichayotgan barcha dorilar",
+  "Hozir shamollagan bo‘lsangiz yoki o‘zingizni yomon his qilsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Och qoringa: odatda 8–14 soat ovqatsiz. Oddiy suv ichish mumkin."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Odatdagidek yeng, oldingi kunlarda parhezga o‘tirmang. Kechqurun shirinliklarni ortiqcha yemang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ertalabki dorilarni qanday ichishni shifokordan so‘rang."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Ertalabni bo‘shating: klinikada 2 soat xotirjam o‘tirish kerak."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Homilador ayol kartasi",
+  "Testdan keyin uchun suv va yengil ovqat",
+  "Kitob yoki vaqtni o‘tkazish uchun biror narsa"
+ ],
+ "steps": [
+  "Ertalab och qoringa venadan qon olinadi",
+  "Bir stakan shirin eritmani 5 daqiqada ichasiz",
+  "Xotirjam o‘tirasiz — yurish, yeyish va ichish mumkin emas",
+  "Bir soatdan keyin qon ikkinchi marta olinadi",
+  "Ikki soatdan keyin — uchinchi marta",
+  "Shundan keyin ovqatlansangiz bo‘ladi"
+ ],
+ "feel": [
+  "Eritma juda shirin, ko‘ngil aynishi mumkin",
+  "Ba’zan yengil holsizlik yoki bosh aylanishi — hamshiraga ayting",
+  "Venaga uchta ukol"
+ ],
+ "after": [
+  "Testdan keyin darrov ovqatlaning",
+  "Natija odatda 1–2 kunda, uni shifokor tushuntiradi",
+  "Shakar yuqori bo‘lsa, shifokor ovqatlanish va nazorat haqida aytadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Test paytida nega yurib bo‘lmaydi?",
+   "a": "Harakat shakarni yoqadi va natijani buzadi. Xotirjam o‘tirish kerak."
+  },
+  {
+   "q": "Eritmadan qusib yuborsam-chi?",
+   "a": "Hamshiraga ayting. Odatda test to‘xtatiladi va boshqa kunga ko‘chiriladi."
+  },
+  {
+   "q": "Glyukoza bolaga zararlimi?",
+   "a": "Yo‘q. Bu shirin ichimlikdagidek oddiy miqdordagi shakar."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Ertaga glyukozali test. Kechki ovqatdan keyin boshqa yemang, suv ichish mumkin. Ertalab shirin narsa va nonushtasiz."
+  }
+ ]
+}

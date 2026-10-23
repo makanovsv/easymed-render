@@ -1,0 +1,65 @@
+{
+ "title": "Cephalometric X-ray for the orthodontist",
+ "also": [
+  "cephalometric X-ray",
+  "ceph X-ray",
+  "side skull X-ray for braces",
+  "cephalometry"
+ ],
+ "what": "This is a picture of the head from the side. From it, the orthodontist measures the position of the jaws and teeth.",
+ "why": "Before braces or aligners, to plan orthodontic treatment, and to check the result.",
+ "duration": "the picture itself takes a few seconds, the whole visit usually 5 to 10 minutes; the picture is usually handed over right away",
+ "tell_doctor": [
+  "Pregnancy, or if it is possible",
+  "If you have braces, piercings, or removable dentures",
+  "If a child finds it hard to stand still, tell the staff beforehand"
+ ],
+ "prepare": [
+  {
+   "title": "Jewelry",
+   "text": "Take off earrings, hairpins, glasses, and any piercings on the head and neck."
+  },
+  {
+   "title": "Clothing",
+   "text": "No metal around the neck and shoulders."
+  }
+ ],
+ "bring": [
+  "The referral from your orthodontist",
+  "An ID",
+  "Previous X-rays, if any"
+ ],
+ "steps": [
+  "A protective apron is put on you",
+  "You stand or sit at the machine",
+  "Your head is held by soft supports at the ears",
+  "You are asked to close your teeth and not move",
+  "For a few seconds, the machine takes the picture"
+ ],
+ "feel": [
+  "Nothing hurts",
+  "The ear supports may press a little"
+ ],
+ "after": [
+  "You can go about your usual day right away",
+  "The picture is usually handed over right away or sent to your orthodontist",
+  "The orthodontist will explain the measurements and treatment plan at the visit"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is it harmful for a child?",
+   "a": "The radiation dose is small. The picture is taken only when it is needed for treatment."
+  },
+  {
+   "q": "How is it different from a panoramic X-ray?",
+   "a": "A panoramic picture shows all the teeth. This one shows the head from the side, to measure jaw position."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Cephalometric X-ray in 2 hours. Take off earrings and hairpins, and bring the orthodontist's referral."
+  }
+ ]
+}

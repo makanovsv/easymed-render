@@ -1,0 +1,76 @@
+{
+ "title": "Vivir con fibrilación auricular",
+ "also": [
+  "fibrilación auricular",
+  "arritmia",
+  "latido irregular",
+  "pulso irregular",
+  "corazón desordenado"
+ ],
+ "what": "En la fibrilación auricular el corazón late de forma irregular. El principal peligro son los coágulos y la embolia cerebral, por eso son importantes los medicamentos y los controles.",
+ "why": "Si el médico encontró fibrilación auricular en tu electrocardiograma.",
+ "duration": "el tratamiento suele ser largo; los controles con el médico son según el calendario",
+ "tell_doctor": [
+  "Si sientes que el corazón se salta latidos, palpita o te falta el aire",
+  "Todos tus medicamentos y suplementos, sobre todo si tomas medicamentos que adelgazan la sangre",
+  "Si has tenido sangrados",
+  "Antes de cualquier operación o de que te saquen una muela"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "Tómalos todos los días, no te los saltes ni los suspendas por tu cuenta."
+  },
+  {
+   "title": "Pulso",
+   "text": "Aprende a contar el pulso o usa un tensiómetro que detecte arritmia."
+  },
+  {
+   "title": "Otros médicos",
+   "text": "Dile a cada médico y al dentista qué medicamentos tomas."
+  }
+ ],
+ "bring": [
+  "La lista de tus medicamentos",
+  "El último electrocardiograma y los resúmenes médicos",
+  "El diario de presión y pulso"
+ ],
+ "steps": [
+  "Toma los medicamentos todos los días a la misma hora",
+  "Mide la presión y el pulso y anótalos",
+  "Reduce el alcohol; a menudo provoca crisis",
+  "Duerme bien y muévete todos los días",
+  "Hazte los análisis que indique el médico",
+  "Ve a las consultas de control"
+ ],
+ "feel": [
+  "A veces sientes que el corazón se salta latidos o aletea en el pecho",
+  "Muchas personas no sienten nada, y eso también es normal"
+ ],
+ "after": [
+  "Si tomas medicamentos que adelgazan la sangre, vigila si hay signos de sangrado",
+  "No empieces medicamentos ni hierbas nuevas sin consultar al médico",
+  "Enseña a tus familiares los signos de una embolia cerebral"
+ ],
+ "red_flags": [
+  "La cara se tuerce, un brazo está débil o cuesta hablar: llama a emergencias",
+  "Dolor en el pecho, falta de aire fuerte o desmayo: llama a emergencias",
+  "Sangre en la orina, heces negras o sangrado fuerte: acude de urgencia al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligrosa la fibrilación auricular?",
+   "a": "Por sí sola muchas veces no pone en riesgo la vida, pero aumenta el riesgo de embolia cerebral. El tratamiento reduce ese riesgo."
+  },
+  {
+   "q": "¿Puedo hacer deporte?",
+   "a": "Normalmente el ejercicio moderado es bueno. Elígelo junto con tu médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Es hora de tus medicamentos del corazón. Mide tu pulso y tu presión."
+  }
+ ]
+}

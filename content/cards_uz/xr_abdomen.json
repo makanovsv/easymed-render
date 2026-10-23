@@ -1,0 +1,63 @@
+{
+ "title": "Qorinning umumiy rentgeni",
+ "also": [
+  "qorin bo‘shlig‘ining umumiy rentgenografiyasi",
+  "qorin bo‘shlig‘i rentgeni",
+  "qorin surati"
+ ],
+ "what": "Kontrastsiz qorinning oddiy rentgen surati. Gaz, suyuqlik va ba’zi toshlar ko‘rinadi.",
+ "why": "Qorinda qattiq og‘riqda, dam bo‘lishida, najas va gaz kelmasligida, ichak tutilishiga yoki yutib yuborilgan narsaga shubha bo‘lganda.",
+ "duration": "xonada odatda 5–10 daqiqa; o‘tkir og‘riqda shifokor suratni darrov ko‘radi",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Yaqinda bariy bilan tekshiruv qilgan bo‘lsangiz — u suratda ko‘rinadi",
+  "Biror narsa yutilgan bo‘lsa — nimani va qachon ekanini ayting"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Shoshilinch holatlarda surat darrov olinadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Surat joyidagi taqinchoqlar va metalli narsalarni yeching. Ba’zan kiyim almashtirish so‘raladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bo‘lsa, oldingi suratlar va qorin UZIlari"
+ ],
+ "steps": [
+  "Metalli narsalarni yechasiz va so‘rashsa, kiyim almashtirasiz",
+  "Surat tik turib yoki yotib olinadi, ba’zan ikkalasida ham",
+  "Bir necha soniya nafasni ushlab turish kerak",
+  "Laborant suratni oladi va hammasi ko‘rinayotganini tekshiradi"
+ ],
+ "feel": [
+  "Og‘rimaydi, suratning o‘zi soniyaning ulushi",
+  "Ba’zan noqulay holatga ozgina chidash kerak"
+ ],
+ "after": [
+  "Keyingisini sizni yo‘llagan shifokor hal qiladi",
+  "Tavsif odatda o‘sha kuni, shoshilinch holatda — darrov"
+ ],
+ "red_flags": [
+  "Qorinda kuchayib boruvchi qattiq og‘riq, qusish, qorin qattiq, najas va gaz yo‘q — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Qorin rentgenida barcha a’zolar ko‘rinadimi?",
+   "a": "Yo‘q. Surat asosan gaz, suyuqlik va zich narsalarni ko‘rsatadi. A’zolar batafsilroq UZI yoki KTda ko‘rinadi."
+  },
+  {
+   "q": "Suratdan oldin ovqat yemaslik kerakmi?",
+   "a": "Umumiy surat uchun odatda yo‘q. Shubha bo‘lsa, klinikadan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada qorin rentgeni. Metallsiz kiyim kiying, yo‘llanmani oling."
+  }
+ ]
+}

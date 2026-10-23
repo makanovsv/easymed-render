@@ -1,0 +1,72 @@
+{
+ "title": "Genetic panel for inherited bowel cancer",
+ "also": [
+  "Lynch syndrome test",
+  "hereditary colon cancer test",
+  "colorectal cancer gene panel",
+  "genetic panel"
+ ],
+ "what": "This blood or saliva test checks several genes at once. Changes in them can run in families and raise the risk of bowel cancer.",
+ "why": "If several relatives had bowel, uterine, or stomach cancer, or someone got it young, or if you have many polyps in your bowel.",
+ "duration": "the blood draw usually takes 5 minutes; results usually come in 2 to 4 weeks",
+ "tell_doctor": [
+  "Who in your family had bowel, uterine, stomach, or ovarian cancer, and at what age",
+  "How many polyps were found on your colonoscopies",
+  "If a relative already had a gene change found. Bring the report",
+  "If you had a blood transfusion or a bone marrow transplant"
+ ],
+ "prepare": [
+  {
+   "title": "Counseling",
+   "text": "It is best to talk with a geneticist before the test: which genes will be checked and what the result means."
+  },
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast. Check with the lab."
+  },
+  {
+   "title": "Documents",
+   "text": "Gather your colonoscopy and biopsy reports, if you have them."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "The list of relatives with cancer",
+  "Colonoscopy and biopsy reports"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "The skin is wiped with antiseptic",
+  "Blood is taken from a vein into a tube",
+  "Sometimes saliva is collected instead of blood",
+  "The sample is sent to a genetics lab"
+ ],
+ "feel": [
+  "A quick prick, like a normal blood test",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Results usually come in 2 to 4 weeks",
+  "Go over the result with a geneticist",
+  "If a change is found, colonoscopy is usually done earlier and more often. Your doctor will give you a schedule",
+  "Relatives may be offered a test for the same gene"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why do this test if I already have colonoscopies?",
+   "a": "The result shows how often you need a colonoscopy and what other organs to check. It also helps your relatives."
+  },
+  {
+   "q": "What does variant of uncertain significance mean?",
+   "a": "A change was found, but it is not yet known if it is harmful. Decisions are usually not based on it. The doctor watches for new findings."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Genetic test tomorrow. Bring the list of relatives with cancer and your colonoscopy reports."
+  }
+ ]
+}

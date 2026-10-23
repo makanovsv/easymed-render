@@ -1,0 +1,81 @@
+{
+ "title": "Stress-ExoKG",
+ "also": [
+  "stress-exo",
+  "yuklama bilan ExoKG",
+  "yuklamali exokardiografiya",
+  "yo‘lakchada stress ExoKG"
+ ],
+ "what": "Shifokor yurakning UZIsini tinch holatda va yuklamadan so‘ng darrov qiladi — yo‘lakchada, velosipedda yoki dori bilan. Shunda yurak ishlaganda qon yetarli yoki yetarli emasligi ko‘rinadi.",
+ "why": "Ko‘krak og‘riganda yurak tomirlarini tekshirish uchun; tomirlar davolangandan keyin; yuklama paytida klapanlarni baholash uchun.",
+ "duration": "odatda 45–60 daqiqa, xulosa odatda o‘sha kuni",
+ "tell_doctor": [
+  "Yurak va bosim uchun barcha dorilarni — shifokor biror dorini o‘tkazib yuborish kerak-kerakmasligini aytadi",
+  "Ko‘krak og‘rig‘i, nafas qisishi, hushdan ketish",
+  "Yurishga yoki pedal aylantirishga xalaqit beradigan bo‘g‘im kasalliklari",
+  "Astma — yuklama dori bilan qilinsa muhim",
+  "Diabet"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Testdan 2–3 soat oldin yengil ovqat. Och bormang va to‘yib ham yemang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Yurak dorilarining ba’zilarini ba’zan vaqtincha ichmaydilar. O‘zingiz bekor qilmang — shifokor hal qiladi."
+  },
+  {
+   "title": "Qahva va chekish",
+   "text": "Test kuni odatda qahva, kuchli choy va chekishsiz. Klinikadan so‘rang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Sport kiyimi va yurish uchun qulay poyabzal."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi EKG va ExoKG",
+  "Dorilar ro‘yxati",
+  "Sport poyabzali va suv",
+  "Sochiq"
+ ],
+ "steps": [
+  "Ko‘kragingizga EKG elektrodlari, qo‘lingizga bosim manjetasi yopishtiriladi",
+  "Shifokor yurakning UZIsini tinch holatda qiladi",
+  "Siz yo‘lakchada yurasiz yoki pedal aylantirasiz, yuklama asta-sekin oshiriladi",
+  "Ba’zan yuklama o‘rniga dori tomirga yuboriladi",
+  "Yuklamadan so‘ng darrov yotasiz, shifokor tezda yana UZI qiladi",
+  "Keyin puls va bosim normaga qaytguncha dam olasiz"
+ ],
+ "feel": [
+  "Charchaysiz, puls va nafas tezlashadi — bu kutiladigan holat",
+  "Ko‘krakda og‘riq, kuchli nafas qisishi yoki bosh aylanishi bo‘lsa, darrov ayting — test to‘xtatiladi"
+ ],
+ "after": [
+  "Dam olgandan keyin odatdagi ishlaringizga qaytsangiz bo‘ladi",
+  "Xulosa odatda o‘sha kuni beriladi",
+  "Natijani kardiolog bilan muhokama qiling"
+ ],
+ "red_flags": [
+  "Testdan keyin ko‘krak og‘rig‘i o‘tmasa — darrov shifokorga ayting yoki tez yordamni chaqiring (103)",
+  "Hushdan ketish, kuchli nafas qisishi, yurak urishining to‘xtab-to‘xtab qolishi"
+ ],
+ "faq": [
+  {
+   "q": "Bu yurak uchun xavfli emasmi?",
+   "a": "Test shifokor nazoratida o‘tadi, yordam uchun hamma narsa yonida. Yuklama muammoning birinchi belgisida to‘xtatiladi."
+  },
+  {
+   "q": "Uzoq yura olmasam-chi?",
+   "a": "Oldindan ayting. Yuklamani yurmasdan, dori bilan qilishlari mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga stress-ExoKG. Sport poyabzali va dorilar ro‘yxatini oling. Ertalab qahvasiz — klinikadan so‘rang."
+  }
+ ]
+}

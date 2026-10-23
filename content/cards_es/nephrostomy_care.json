@@ -1,0 +1,83 @@
+{
+ "title": "Cuidado de la nefrostomía en casa",
+ "also": [
+  "nefrostomía",
+  "sonda del riñón",
+  "cuidado de la nefrostomía",
+  "bolsa de orina",
+  "drenaje de nefrostomía"
+ ],
+ "what": "La nefrostomía es una sonda delgada que sale del riñón por la piel de la espalda, por la cual la orina va a una bolsa. En casa se cuida todos los días.",
+ "why": "Cuando algo impide que la orina salga del riñón (un cálculo, un estrechamiento, un tumor) y el médico puso la sonda.",
+ "duration": "el cuidado normalmente toma de 10 a 15 minutos; el vendaje se cambia normalmente cada 2 o 3 días o más seguido, como diga el médico",
+ "tell_doctor": [
+  "Si en la bolsa hay poca orina o dejó de llegar",
+  "Si apareció sangre en la orina o está turbia",
+  "Si el vendaje se moja con frecuencia",
+  "Todos los medicamentos, sobre todo los que adelgazan la sangre"
+ ],
+ "prepare": [
+  {
+   "title": "Enseñanza",
+   "text": "Antes del alta pide a la enfermera que te muestre cómo cambiar el vendaje y la bolsa."
+  },
+  {
+   "title": "Reserva",
+   "text": "Ten en casa bolsas, gasas estériles, esparadrapo, antiséptico."
+  },
+  {
+   "title": "Bolsa",
+   "text": "La bolsa siempre debe estar más abajo que el riñón: así la orina no regresa."
+  },
+  {
+   "title": "Agua",
+   "text": "Cuánto tomar lo dirá el médico. Normalmente se aconseja tomar suficiente."
+  }
+ ],
+ "bring": [
+  "Reserva de bolsas y vendajes",
+  "El resumen de alta y los contactos de urología",
+  "Notas de la cantidad de orina"
+ ],
+ "steps": [
+  "Lávate las manos y ponte guantes",
+  "Quita el vendaje viejo, sin jalar la sonda",
+  "Revisa la piel alrededor: si hay enrojecimiento o secreción",
+  "Trata la piel con antiséptico, como te enseñaron",
+  "Pon un vendaje limpio y fija la sonda con esparadrapo",
+  "Revisa que la sonda no se doble",
+  "Vacía la bolsa cuando esté llena a la mitad"
+ ],
+ "feel": [
+  "A veces una molestia sorda en el costado",
+  "La sonda estorba para dormir de ese lado; con el tiempo te acostumbras"
+ ],
+ "after": [
+  "Anota la orina, si el médico lo pidió",
+  "Normalmente puedes ducharte protegiendo el vendaje; la tina no, confírmalo con el médico",
+  "El cambio de sonda se hace en el hospital según un calendario",
+  "No levantes cosas pesadas ni jales la sonda"
+ ],
+ "red_flags": [
+  "La sonda se salió: cubre el sitio con una gasa limpia y ve de inmediato al hospital, el orificio se cierra rápido",
+  "Dejó de salir orina, dolor fuerte en el costado: acude al médico de inmediato",
+  "Fiebre, escalofríos: acude al médico de inmediato; si hay mucha debilidad, llama a emergencias",
+  "Mucha sangre en la bolsa o coágulos"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo dormir de lado con la nefrostomía?",
+   "a": "Se puede, si la sonda no se aplasta. Es más cómodo dormir boca arriba o del otro lado."
+  },
+  {
+   "q": "¿Qué hago si la orina se sale alrededor de la sonda?",
+   "a": "Cambia el vendaje y dile al médico: la sonda puede estar movida o tapada."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es el cambio de vendaje de la nefrostomía. Revisa que tengas gasas y bolsas de reserva."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "Gipoglikemiya: qanday tanish va nima qilish kerak",
+ "also": [
+  "past shakar",
+  "gipo",
+  "shakar tushib ketdi",
+  "gipoglikemiya"
+ ],
+ "what": "Bu qondagi shakar juda past bo‘lib qolishi. Ko‘pincha insulin ukol qiladiganlarda yoki diabetga ba’zi tabletkalar ichadiganlarda bo‘ladi.",
+ "why": "Buni diabetni davolayotgan barcha va ularning yaqinlari bilishi kerak.",
+ "duration": "yordam 15–30 daqiqa oladi, shakar odatda 10–15 daqiqada ko‘tariladi",
+ "tell_doctor": [
+  "Past shakar tez-tez bo‘lsa",
+  "Past shakar boshlanishini sezmay qo‘ygan bo‘lsangiz",
+  "Tunda yoki hushdan ketish bilan past shakar bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Shirinlik o‘zingiz bilan",
+   "text": "Doim tez shakarni olib yuring: glyukoza tabletkalari, shakar, sharbat yoki dietik bo‘lmagan shirin gazlangan ichimlik."
+  },
+  {
+   "title": "Glyukometr",
+   "text": "Uni uyda, sumkada va mashinada qo‘l ostida saqlang."
+  },
+  {
+   "title": "Yaqinlar",
+   "text": "Oila va hamkasblarga past shakar qanday ko‘rinishini va qanday yordam berishni ayting."
+  },
+  {
+   "title": "Reja",
+   "text": "Favqulodda yordam uchun ukol kerakmi va undan qanday foydalanishni shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Glyukometr",
+  "Tez shakar",
+  "«Menda diabet» yozilgan qog‘oz yoki bilakuzuk"
+ ],
+ "steps": [
+  "Belgilar: titroq, ter, kuchli ochlik, yurak tez urishi, holsizlik, asabiylik",
+  "Shakarni tekshiring — past deb odatda 3,9 mmol/l dan pastni hisoblashadi",
+  "Tez shakar yeng yoki iching, taxminan 15 gramm uglevod",
+  "15 daqiqadan keyin shakarni yana tekshiring",
+  "Shakar hali past bo‘lsa — takrorlang",
+  "Shakar ko‘tarilgach, ovqatgacha uzoq bo‘lsa, non yoki oddiy ovqat yeng",
+  "Odam yuta olmasa yoki hushsiz bo‘lsa — yonboshiga yotqizing va tez yordamni chaqiring (103)"
+ ],
+ "feel": [
+  "Past shakarda o‘ylash qiyin — bu odatiy, reja bo‘yicha harakat qiling",
+  "Xurujdan keyin holsizlik va bosh og‘rig‘i bo‘lishi mumkin"
+ ],
+ "after": [
+  "Past shakar qachon bo‘lgani va undan oldin nima bo‘lganini kundalikka yozing",
+  "Shakar me’yorga kelmaguncha rulga o‘tirmang",
+  "Takrorlansa shifokorga ayting — u davolashni o‘zgartirishi mumkin"
+ ],
+ "red_flags": [
+  "Odam hushsiz yoki tutqanoqda — tez yordamni chaqiring (103), og‘ziga hech narsa bermang",
+  "Ikki urinishdan keyin shakar ko‘tarilmasa",
+  "Odam chalkashib, g‘alati o‘zini tutsa va o‘zi ovqatlana olmasa"
+ ],
+ "faq": [
+  {
+   "q": "Shakarni shokolad bilan ko‘tarsa bo‘ladimi?",
+   "a": "Shokolad yog‘i tufayli sekin ta’sir qiladi. Sharbat, shakar yoki glyukoza tabletkalari yaxshiroq."
+  },
+  {
+   "q": "Nega past shakar tunda bo‘ladi?",
+   "a": "Masalan, sport, alkogoldan keyin yoki kechki ovqat o‘tkazib yuborilsa. Shifokorga ayting — nimani o‘zgartirishni u aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Chiqishdan oldin tekshiring: glyukometr va tez shakar o‘zingiz bilan."
+  }
+ ]
+}

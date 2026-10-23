@@ -1,0 +1,85 @@
+{
+ "title": "Colocação de gastrostomia (PEG)",
+ "also": [
+  "gastrostomia",
+  "PEG",
+  "gastrostomia endoscópica percutânea",
+  "sonda no estômago pela barriga"
+ ],
+ "what": "Por um pequeno furo na barriga, colocam no estômago um tubo macio. Por ele se pode dar alimento, água e remédios.",
+ "why": "Quando a pessoa não consegue comer pela boca por muito tempo: depois de AVC, em doenças do sistema nervoso, tumores da garganta ou do esôfago.",
+ "duration": "o procedimento leva normalmente 20 a 40 minutos; a observação no hospital normalmente é de 1 a 2 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue",
+  "Cirurgias na barriga no passado",
+  "Alergias, incluindo a antibióticos",
+  "Doenças do coração e dos pulmões",
+  "Quem vai cuidar do tubo em casa"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente são precisos exames de sangue de coagulação."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come por 6 a 8 horas. Se agora a alimentação é por sonda no nariz, o tempo de pausa a clínica diz."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. O que pular, o médico decide."
+  },
+  {
+   "title": "Treinamento",
+   "text": "Peça antes que ensinem a família a cuidar da gastrostomia."
+  }
+ ],
+ "bring": [
+  "Pedido médico e relatórios",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para 1 a 2 dias"
+ ],
+ "steps": [
+  "Normalmente aplicam um antibiótico para proteger contra infecção",
+  "Aplicam sedação, às vezes anestesia geral",
+  "O médico coloca o endoscópio no estômago e ilumina um ponto na barriga",
+  "Anestesiam a pele e fazem um furo pequeno",
+  "Pelo furo passam o tubo e fixam por dentro e por fora",
+  "Colocam um curativo na pele em volta do tubo"
+ ],
+ "feel": [
+  "Com sedação, normalmente não se lembra do procedimento",
+  "Nos primeiros dias, o local do furo dói. Dão analgésico",
+  "Sensação de um tubo puxando na barriga. Com o tempo acostuma"
+ ],
+ "after": [
+  "A alimentação pelo tubo começa no tempo que o médico disser",
+  "Lave e seque a pele em volta do tubo todos os dias",
+  "Lave o tubo com água antes e depois de cada alimentação e dos remédios",
+  "Só gire e mexa o tubo se ensinaram assim na clínica",
+  "Depois de alguns dias normalmente pode tomar banho de chuveiro. Confirme com o médico"
+ ],
+ "red_flags": [
+  "O tubo saiu: cubra o furo com um pano limpo e ligue logo para a clínica",
+  "Dor forte na barriga, barriga dura, febre: ligue para a emergência",
+  "Vermelhidão, pus, sangue ou vazamento em volta do tubo",
+  "Vômito ou tosse durante a alimentação"
+ ],
+ "faq": [
+  {
+   "q": "Vai dar para comer pela boca?",
+   "a": "Às vezes sim, se o médico liberar. A gastrostomia não impede de comer, se engolir for seguro."
+  },
+  {
+   "q": "A gastrostomia é para sempre?",
+   "a": "Nem sempre. Se a pessoa volta a comer, o tubo é tirado, e o furo fecha rápido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a colocação da gastrostomia. Pare a alimentação no horário que a clínica disse. Leve os relatórios e coisas para 1 a 2 dias."
+  }
+ ]
+}

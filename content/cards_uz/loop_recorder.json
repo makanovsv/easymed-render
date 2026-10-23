@@ -1,0 +1,77 @@
+{
+ "title": "EKG sirtmoq registratorini joylashtirish",
+ "also": [
+  "sirtmoq registrator",
+  "implantatsiya qilinadigan EKG monitori",
+  "teri ostiga qo‘yiladigan ritm registratori",
+  "EKG yozish uchun chip"
+ ],
+ "what": "Ko‘krak terisi ostiga fleshka kattaligidagi kichik asbob qo‘yiladi. U yillar davomida yurak ritmini yozib boradi.",
+ "why": "Oddiy EKG va sutkalik monitorda tutib bo‘lmaydigan kamdan-kam hushdan ketish yoki yurak uzilishlarida.",
+ "duration": "muolaja odatda 15–30 daqiqa, asbob odatda bir necha yilgacha ishlaydi",
+ "tell_doctor": [
+  "Dorilar, ayniqsa qonni suyultiruvchilar",
+  "Allergiyalar, shu jumladan og‘riqsizlantiruvchilarga",
+  "Xurujlar qanchalik tez-tez bo‘ladi va qanday ko‘rinadi",
+  "Qon ivishi kasalliklari"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda yengil nonushta mumkin — klinikadan aniqlab oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Shifokor muolaja kuni nimani ichishni aytadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Ko‘krakni siqmaydigan qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Yo‘llanma va oldingi EKGlar",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Siz stolga yotasiz, ko‘krak antiseptik bilan artiladi",
+  "Ko‘krakning chap tomonida teri ostiga og‘riqsizlantiruvchi ukol qilinadi",
+  "Shifokor kichik kesma qiladi",
+  "Asbob teri ostiga kiritiladi",
+  "Kesma chok yoki yelim bilan yopiladi",
+  "Asbob sozlanadi va undan qanday foydalanish tushuntiriladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol — bir necha soniya",
+  "Muolaja paytida — bosim, og‘riqsiz",
+  "Bir-ikki kun joyi zirqirashi mumkin"
+ ],
+ "after": [
+  "Shifokor ruxsat bergunga qadar joyni quruq saqlang",
+  "Xuruj paytida, agar pult bo‘lsa, undagi tugmani bosing",
+  "Ma’lumotlar shifokorga uzatiladi — qanchalik tez-tez ekanini klinikada aytishadi",
+  "Asbob keraksiz bo‘lganda uni xuddi shunday oddiy olib tashlashadi"
+ ],
+ "red_flags": [
+  "O‘rnatilgan joyda qizarish, shish, yiring",
+  "Harorat 38 dan yuqori",
+  "Hushdan ketish, ko‘krakda kuchli og‘riq — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "U bilan MRT qilish mumkinmi?",
+   "a": "Bunday asboblarning ko‘pchiligi ma’lum shartlarda MRT bilan mos keladi. Tekshiruvdan oldin asbob kartochkasini ko‘rsating."
+  },
+  {
+   "q": "Asbob ritmni davolaydimi?",
+   "a": "Yo‘q. U faqat yozib boradi. Yozuvga qarab shifokor qanday davolash kerakligini hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga EKG registratorini o‘rnatish. Hujjatlar, oldingi EKGlar va dorilar ro‘yxatini oling."
+  }
+ ]
+}

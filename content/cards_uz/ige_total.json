@@ -1,0 +1,66 @@
+{
+ "title": "Umumiy IgE",
+ "also": [
+  "immunoglobulin E",
+  "umumiy IgE",
+  "umumiy allergiya tahlili",
+  "umumiy immunoglobulin"
+ ],
+ "what": "Bu venadan olinadigan qon tahlili. U allergiya bilan bog‘liq antitanalarning umumiy darajasini ko‘rsatadi.",
+ "why": "Allergiyaga shubhada, astmada, atopik dermatitda, ba’zan gijjalarga shubhada.",
+ "duration": "qon olish 3–5 daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Gormonlar yoki allergiyaga dorilar ichayotgan bo‘lsangiz",
+  "Hozir allergiya avj olgan bo‘lsa",
+  "Yaqinda gijjalardan davolangan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa, 4–8 soat ovqatsiz. Suv ichish mumkin. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Alkogolsiz, yog‘li ovqatsiz va og‘ir mashqlarsiz."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut bog‘lanadi, teri artiladi",
+  "Qon probirkaga olinadi",
+  "Igna olinadi, paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda 1–3 kunda",
+  "Bu tahlil aynan nimaga allergiya borligini ko‘rsatmaydi — buning uchun alohida testlar bor"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "IgE me’yorda bo‘lsa — allergiya yo‘q degani emi?",
+   "a": "Shart emas. U allergiyada ham me’yorda bo‘lishi mumkin. Shifokor uni shikoyatlar bilan birga ko‘radi."
+  },
+  {
+   "q": "Nega bolada IgE yuqori?",
+   "a": "Sabablar ko‘p: allergiya, gijjalar, atopik dermatit. Aynan nima ekanini shifokor aniqlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga IgE qon tahlili. Odatda och qoringa topshiriladi — suv ichish mumkin."
+  }
+ ]
+}

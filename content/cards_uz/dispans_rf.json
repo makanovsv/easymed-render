@@ -1,0 +1,72 @@
+{
+ "title": "Kattalar dispanserizatsiyasi (Rossiya)",
+ "also": [
+  "dispanserizatsiya",
+  "profilaktik ko‘rik",
+  "bepul sog‘liqni tekshirish",
+  "profilaktik tekshiruv"
+ ],
+ "what": "Majburiy tibbiy sug‘urta (OMS) polisi bo‘yicha bepul sog‘liqni tekshirish. Tekshiruvlar to‘plami yosh va jinsga bog‘liq.",
+ "why": "Kattalarga yoshiga qarab: odatda 40 yoshgacha uch yilda bir marta, 40 dan keyin har yili. O‘z poliklinikangizdan aniqlab oling.",
+ "duration": "birinchi bosqich odatda 1–3 soatlik 1–2 tashrif, natijalar — bir necha kundan keyin",
+ "tell_doctor": [
+  "Qanday kasalliklaringiz bor va qanday dorilar ichasiz",
+  "Chekasizmi, alkogolni qanchalik tez-tez ichasiz",
+  "Yaqin qarindoshlarda yurak kasalliklari va saraton",
+  "Shikoyatlar, hatto ahamiyatsiz bo‘lsa ham"
+ ],
+ "prepare": [
+  {
+   "title": "Yozilish",
+   "text": "Biriktirilgan poliklinikangizga yoki davlat xizmatlari portali orqali yoziling."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Qon tahliliga odatda ertalab och qoringa kelishadi. Poliklinikadan aniqlab oling."
+  },
+  {
+   "title": "Axlat tahlili",
+   "text": "Yashirin qonga tahlil tayinlansa — konteynerni oldindan berishadi va qanday yig‘ishni tushuntirishadi."
+  }
+ ],
+ "bring": [
+  "Pasport",
+  "OMS polisi",
+  "SNILS",
+  "Oxirgi yildagi tekshiruv natijalari, agar o‘tkazilgan bo‘lsa"
+ ],
+ "steps": [
+  "Sog‘liq haqidagi anketani to‘ldirasiz",
+  "Bo‘y, vazn, qon bosimi, bel aylanasi o‘lchanadi",
+  "Qon topshirasiz",
+  "Muddati kelgan bo‘lsa, EKG va flyuorografiya qilinadi",
+  "Ayollarga — ginekolog yoki akusherka ko‘rigi",
+  "Terapevt yakun yasaydi va ikkinchi bosqich kerakligini aytadi"
+ ],
+ "feel": [
+  "Tekshiruvlar odatda og‘riqsiz",
+  "Qon tahlili — qisqa ukol"
+ ],
+ "after": [
+  "Sizga sog‘liq pasporti yoki xulosa beriladi",
+  "Biror narsa topilsa — ikkinchi bosqichga yoki mutaxassisga yo‘llashadi",
+  "Keyingi dispanserizatsiyadan jadval bo‘yicha o‘ting"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Dispanserizatsiya uchun ish joyidan dam olish kerakmi?",
+   "a": "Xodim dispanserizatsiya uchun haq to‘lanadigan kun olishi mumkin — ish beruvchidan aniqlab oling."
+  },
+  {
+   "q": "Dam olish kuni o‘tsa bo‘ladimi?",
+   "a": "Ko‘p poliklinikalar shanba kunlari qabul qiladi. O‘zingiznikidan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga dispanserizatsiya. Ertalab qon tahlilidan oldin ovqatlanmang, pasport va polisni oling."
+  }
+ ]
+}

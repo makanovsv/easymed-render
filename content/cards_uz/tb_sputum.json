@@ -1,0 +1,80 @@
+{
+ "title": "Sil kasalligiga balg‘am tahlili (mikroskopiya, GeneXpert)",
+ "also": [
+  "sil kasalligiga balg‘am",
+  "balg‘am tahlili",
+  "BKga balg‘am",
+  "silga PZR",
+  "GeneXpert"
+ ],
+ "what": "Bu balg‘am tahlili: o‘pkangizdan yo‘talib chiqargan balg‘amingizda sil mikrobi qidiriladi.",
+ "why": "Ikki-uch haftadan ortiq yo‘talda, balg‘amda qon bo‘lsa, tunda terlash va ozishda, sil bemori bilan aloqadan keyin, davolashni nazorat qilish uchun.",
+ "duration": "yig‘ish — bir necha daqiqa; tezkor javob odatda 1–2 kunda, ekma — bir necha haftagacha",
+ "tell_doctor": [
+  "Yo‘tal necha haftadan beri davom etayotganini va balg‘amda qon bor-yo‘qligini",
+  "Ilgari sil bilan og‘riganmisiz va qanday davolanganingizni",
+  "Sil bemori bilan aloqa bo‘lgan-bo‘lmaganini",
+  "OIV, diabet bo‘lsa yoki immunitetni pasaytiruvchi dori ichsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ertalab",
+   "text": "Balg‘amni ertalab, uyqudan so‘ng darrov, ovqatdan oldin yig‘gan yaxshi."
+  },
+  {
+   "title": "Og‘iz",
+   "text": "Yig‘ishdan oldin tishingizni yuving va og‘zingizni qaynatilgan suv bilan chayqang."
+  },
+  {
+   "title": "Namunalar",
+   "text": "Odatda turli kunlarda yoki ertalab va kun davomida 2–3 namuna kerak. Nechtaligini shifokor aytadi."
+  },
+  {
+   "title": "Joy",
+   "text": "Balg‘amni ko‘chada yoki ochiq deraza yonida, boshqa odamlardan uzoqda yig‘ing."
+  }
+ ],
+ "bring": [
+  "Balg‘amli idish",
+  "Yo‘llanma",
+  "Hujjat",
+  "Yuzga niqob"
+ ],
+ "steps": [
+  "Steril idishni oling, qopqog‘ini faqat yig‘ishdan oldin oching",
+  "Bir necha marta chuqur nafas oling va nafasni ushlab turing",
+  "Ko‘krak ichidan kuchli yo‘taling",
+  "Balg‘amni idishga tupuring — so‘lak emas, balg‘am kerak",
+  "Qopqoqni mahkam yoping va laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Yo‘tal charchatishi mumkin",
+  "Balg‘am chiqmasa, bir kun oldin kechqurun iliq ichimlik yordam beradi"
+ ],
+ "after": [
+  "Natija chiqquncha odamlar yonida niqob taqing",
+  "Xonani shamollatib turing",
+  "Tahlil musbat bo‘lsa, shifokor davolash qanday o‘tishini batafsil tushuntiradi"
+ ],
+ "red_flags": [
+  "Ko‘p qon bilan yo‘tal bo‘lsa — tez yordamni chaqiring (103)",
+  "Kuchli nafas qisishi yoki ko‘krak og‘rig‘i bo‘lsa — tez yordamni chaqiring (103)",
+  "Bir necha kun tushmaydigan harorat bo‘lsa — shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Balg‘am bo‘lmasa, so‘lak topshirsa bo‘ladimi?",
+   "a": "Yo‘q, so‘lak to‘g‘ri kelmaydi. Hamshiraga ayting — yo‘talishga yordam beradigan usullar bor."
+  },
+  {
+   "q": "Sil davolanadimi?",
+   "a": "Ha. Davolash uzoq, lekin dorilar muntazam ichilsa, sil odatda tuzaladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Ertaga ertalab — balg‘am yig‘ish. Uyqudan turgach tishingizni yuving, og‘zingizni chayqang va balg‘amni idishga yo‘taling."
+  }
+ ]
+}

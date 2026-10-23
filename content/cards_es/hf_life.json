@@ -1,0 +1,76 @@
+{
+ "title": "Vivir con insuficiencia cardíaca (peso, hinchazón, sal)",
+ "also": [
+  "insuficiencia cardíaca",
+  "hinchazón y falta de aire",
+  "el corazón no da abasto",
+  "falla cardíaca"
+ ],
+ "what": "En la insuficiencia cardíaca el corazón bombea la sangre con menos fuerza. Se retiene líquido y aparecen hinchazón y falta de aire. El control diario ayuda a mantener la enfermedad bajo control.",
+ "why": "Si el médico encontró insuficiencia cardíaca.",
+ "duration": "el control toma unos minutos cada día",
+ "tell_doctor": [
+  "Cómo cambian tu peso y la hinchazón",
+  "Si la falta de aire aumentó o te cuesta acostarte",
+  "Todos tus medicamentos, incluidos analgésicos y suplementos",
+  "Cuánto líquido y sal puedes tomar; pregúntale al médico"
+ ],
+ "prepare": [
+  {
+   "title": "Báscula",
+   "text": "Necesitas una báscula en casa. Pésate cada mañana."
+  },
+  {
+   "title": "Diario",
+   "text": "Anota el peso, la presión, el pulso y cómo te sientes."
+  },
+  {
+   "title": "Sal y agua",
+   "text": "Cuánta sal y líquido puedes tomar lo dirá el médico. No lo cambies por tu cuenta."
+  }
+ ],
+ "bring": [
+  "El diario de peso y presión",
+  "La lista de tus medicamentos",
+  "El baumanómetro"
+ ],
+ "steps": [
+  "Cada mañana, después de ir al baño y antes de desayunar, pésate con la misma ropa",
+  "Anota el peso en el diario",
+  "Revisa las piernas: si hay hinchazón",
+  "Toma los medicamentos todos los días, como indicó el médico",
+  "Ponle menos sal a la comida y evita los productos salados ya preparados",
+  "Muévete un poco cada día, si el médico lo permitió"
+ ],
+ "feel": [
+  "La falta de aire al esfuerzo y el cansancio son frecuentes",
+  "Los medicamentos diuréticos hacen que vayas seguido al baño; así debe ser"
+ ],
+ "after": [
+  "Si el peso subió más de 2 kg en 2 o 3 días, llama al médico",
+  "No tomes analgésicos sin consultar al médico; algunos retienen agua",
+  "Pregunta por las vacunas contra la gripe y el neumococo"
+ ],
+ "red_flags": [
+  "Falta de aire fuerte en reposo o por la noche, no puedes acostarte: llama a emergencias",
+  "Dolor en el pecho: llama a emergencias",
+  "Desmayo o latidos muy rápidos: llama a emergencias",
+  "El peso sube rápido y la hinchazón aumenta: llama hoy mismo al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo tomar mucha agua?",
+   "a": "No siempre. Cuánto líquido puedes tomar lo decide el médico."
+  },
+  {
+   "q": "¿Por qué es importante pesarse todos los días?",
+   "a": "El peso sube por el exceso de agua antes de que aparezca la hinchazón. Es una señal temprana."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "¡Buenos días! Pésate antes de desayunar y anota tu peso."
+  }
+ ]
+}

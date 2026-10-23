@@ -1,0 +1,71 @@
+{
+ "title": "Transkranial dopplerografiya",
+ "also": [
+  "TKDG",
+  "TKDS",
+  "bosh miya tomirlari dopleri",
+  "miya tomirlari UZI"
+ ],
+ "what": "Shifokor bosh suyagi orqali ultratovush bilan miya tomirlarida qon qanday oqayotganini ko‘radi. Bu xavfsiz va og‘riqsiz.",
+ "why": "Bosh aylanganda, insultdan keyin, bo‘yin tomirlari toraygan bo‘lsa, tez-tez bosh og‘riganda, ba’zi qon kasalliklarida.",
+ "duration": "odatda 20–40 daqiqa, xulosa darrov beriladi",
+ "tell_doctor": [
+  "Nima bezovta qiladi va qachondan beri",
+  "Insult, bosh jarohati yoki operatsiya bo‘lganmi",
+  "Qanday dori ichasiz",
+  "Bo‘yin va bosh tomirlarining oldingi tekshiruvlari"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Ertalab",
+   "text": "Ortiqcha kofe, energetik ichimliklar va chekishsiz yaxshi — ular qon oqimiga ta’sir qiladi."
+  },
+  {
+   "title": "Sochlar",
+   "text": "Soch turmaksiz va soch vositalarisiz — gel chakka va ensaga surtiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Tomirlarning oldingi UZIlari",
+  "Dorilar ro‘yxati",
+  "Taroq yoki salfetkalar"
+ ],
+ "steps": [
+  "Chalqancha yotasiz",
+  "Chakkaga gel surtiladi",
+  "Shifokor datchikni chakkaga bosib, tomirlarni topadi",
+  "Keyin ensa orqali qaraladi — boshni egish so‘raladi",
+  "Ba’zan nafasni ushlab turish yoki tez-tez nafas olish so‘raladi"
+ ],
+ "feel": [
+  "Chakka va ensaga yengil bosim",
+  "Tez-tez nafas olganda biroz bosh aylanishi mumkin — bu o‘tib ketadi"
+ ],
+ "after": [
+  "Darrov odatiy ishlaringizga qaytsangiz bo‘ladi",
+  "Xulosa odatda darrov beriladi",
+  "Natijani nevrolog bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ultratovush bosh suyagidan o‘tadimi?",
+   "a": "Ha, yupqa joylardan: chakka, ensa, ko‘z kosasi orqali. Ba’zi odamlarda suyak qalinroq va yomonroq ko‘rinadi."
+  },
+  {
+   "q": "Bu miya uchun xavflimi?",
+   "a": "Yo‘q. Ultratovush nurlantirmaydi va zarar qilmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga miya tomirlari dopplerografiyasi. Ertalab ortiqcha kofe va chekishsiz. Sochlar turmaksiz."
+  }
+ ]
+}

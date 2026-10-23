@@ -1,0 +1,73 @@
+{
+ "title": "PCR para hepatite B (carga viral)",
+ "also": [
+  "HBV-DNA",
+  "carga viral da hepatite B",
+  "PCR quantitativo para hepatite B",
+  "DNA do vírus da hepatite B"
+ ],
+ "what": "É um exame de sangue que mostra quanto vírus da hepatite B há no sangue agora.",
+ "why": "Se acharam hepatite B, para decidir se é preciso tratar e acompanhar o tratamento. Também na gravidez, em mulheres com hepatite B.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Se você toma remédios para hepatite B",
+  "Se está grávida ou planeja engravidar",
+  "Se tem hepatite C, D ou HIV",
+  "Se toma remédios que baixam a imunidade"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Jejum rigoroso normalmente não é necessário, mas é melhor ir 3 a 4 horas depois de uma refeição leve, sem gordura. Confirme com o laboratório."
+  },
+  {
+   "title": "Remédios",
+   "text": "Se está em tratamento, tome os comprimidos como orientado. Não pare nem pule por conta própria."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Exames anteriores de hepatite B",
+  "Laudos de ultrassom do fígado, se tiver"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "É melhor comparar o resultado com os anteriores. O médico vê como ele muda",
+  "O resultado é sigilo médico. Só você ou o médico recebem"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho"
+ ],
+ "faq": [
+  {
+   "q": "Com que frequência preciso fazer esse exame?",
+   "a": "Normalmente uma ou algumas vezes por ano. Durante o tratamento, com mais frequência. O médico dá o esquema."
+  },
+  {
+   "q": "Se o vírus não é detectado, posso parar os comprimidos?",
+   "a": "Não. Isso quer dizer que o tratamento está funcionando. Só o médico pode suspender."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o PCR para hepatite B. De manhã, é melhor evitar comida gordurosa. Remédios como sempre."
+  }
+ ]
+}

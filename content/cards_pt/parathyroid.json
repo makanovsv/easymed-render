@@ -1,0 +1,85 @@
+{
+ "title": "Retirada de paratireoide",
+ "also": [
+  "paratireoidectomia",
+  "cirurgia de paratireoide",
+  "adenoma de paratireoide",
+  "hiperparatireoidismo cirurgia"
+ ],
+ "what": "Por um pequeno corte no pescoço, o cirurgião retira a paratireoide aumentada. Ela controla o cálcio no sangue.",
+ "why": "Quando a paratireoide produz hormônio demais e o cálcio no sangue fica alto.",
+ "duration": "a cirurgia leva normalmente de 1 a 2 horas; a internação costuma ser de 1 a 2 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias, inclusive a remédios e iodo",
+  "Doenças do coração, do pulmão, dos rins ou diabetes",
+  "Se você ou alguém da família teve problema com anestesia",
+  "Se já teve problemas na voz"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Localizar a glândula",
+   "text": "Antes da cirurgia, normalmente fazem ultrassom do pescoço e outros exames para encontrar a glândula certa."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista vai conversar com você. Conte sobre a sua saúde e os seus remédios."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Imagens e resultados dos exames do pescoço",
+  "Coisas para 1 a 2 dias no hospital"
+ ],
+ "steps": [
+  "No dia da cirurgia, você troca de roupa e recebe um acesso na veia",
+  "Na sala de cirurgia, o anestesista aplica a anestesia e você dorme",
+  "O cirurgião faz um corte numa dobrinha da pele do pescoço",
+  "Encontra e retira a glândula aumentada",
+  "Às vezes, durante a cirurgia, dosam o hormônio no sangue",
+  "O corte é fechado com pontos",
+  "Você acorda na sala de recuperação e depois vai para o quarto"
+ ],
+ "feel": [
+  "Depois da anestesia: sonolência, às vezes enjoo",
+  "Dor de garganta e ao engolir nos primeiros dias",
+  "A voz pode ficar mais baixa ou rouca; normalmente passa"
+ ],
+ "after": [
+  "Exame de cálcio depois da cirurgia. O médico diz quando",
+  "Cálcio em comprimido só se o médico receitar",
+  "Evite movimentos bruscos com o pescoço por alguns dias",
+  "Retorno conforme o plano do cirurgião"
+ ],
+ "red_flags": [
+  "Formigamento em volta da boca e nos dedos, ou câimbras: ligue na hora para o médico ou para a emergência",
+  "Inchaço no pescoço que aumenta ou dificuldade para respirar: ligue para a emergência",
+  "Febre acima de 38 graus ou corte vermelho"
+ ],
+ "faq": [
+  {
+   "q": "Por que dá formigamento nos dedos?",
+   "a": "É sinal de cálcio baixo. Pode acontecer depois da cirurgia e é corrigido rápido. Avise o médico."
+  },
+  {
+   "q": "A cicatriz vai aparecer?",
+   "a": "O corte é feito numa dobra natural do pescoço. Normalmente, com o tempo, quase não aparece."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Separe suas coisas, os documentos e a lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

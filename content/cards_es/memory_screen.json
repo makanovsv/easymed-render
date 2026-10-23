@@ -1,0 +1,75 @@
+{
+ "title": "Revisión de la memoria (detección de demencia)",
+ "also": [
+  "prueba de demencia",
+  "revisión de la memoria en adultos mayores",
+  "prueba cognitiva",
+  "estudio de la memoria",
+  "olvidos"
+ ],
+ "what": "El médico hace preguntas y da tareas sencillas de memoria, atención y razonamiento. Así se pueden notar a tiempo los problemas de memoria.",
+ "why": "Cuando la persona o sus familiares notan olvidos, confusión o dificultades con las actividades de siempre.",
+ "duration": "la prueba normalmente dura de 15 a 30 minutos; la consulta, cerca de una hora",
+ "tell_doctor": [
+  "Qué cambió exactamente y desde cuándo",
+  "Dificultades con el dinero, los medicamentos, el camino",
+  "Ánimo, sueño, ansiedad",
+  "Todos los medicamentos; algunos afectan la memoria",
+  "Problemas de oído y de vista"
+ ],
+ "prepare": [
+  {
+   "title": "Familiar",
+   "text": "Es bueno que venga un familiar: contará lo que ha notado."
+  },
+  {
+   "title": "Sueño",
+   "text": "Duerme bien el día anterior y come antes de la cita."
+  },
+  {
+   "title": "Lentes",
+   "text": "Lleva los lentes y el audífono: sin ellos la prueba será imprecisa."
+  }
+ ],
+ "bring": [
+  "La lista de medicamentos",
+  "Lentes, audífono",
+  "Resúmenes y análisis, si los tienes"
+ ],
+ "steps": [
+  "El médico te pregunta a ti y a tu familiar",
+  "Da tareas: recordar palabras, decir la fecha, dibujar un reloj",
+  "Revisa la atención, el cálculo y el habla",
+  "Explica el resultado",
+  "Si hace falta, pide análisis de sangre y resonancia",
+  "Acuerdan la siguiente cita"
+ ],
+ "feel": [
+  "La prueba no duele",
+  "Puede haber nervios o vergüenza si algo no sale; es normal"
+ ],
+ "after": [
+  "Si la prueba mostró cambios, el médico pedirá más estudios",
+  "Las causas pueden ser también cosas que se curan: falta de vitaminas, la tiroides, depresión",
+  "La prueba normalmente se repite después de un tiempo"
+ ],
+ "red_flags": [
+  "Confusión repentina, debilidad en un brazo o pierna, problemas para hablar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La prueba da el diagnóstico de inmediato?",
+   "a": "No. La prueba es solo el primer paso. Para sacar conclusiones hacen falta una revisión y estudios."
+  },
+  {
+   "q": "¿Me puedo preparar para la prueba?",
+   "a": "No hace falta prepararse. Solo duerme bien y lleva tus lentes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la revisión de la memoria. Lleva tus lentes, la lista de medicamentos y, si puedes, invita a un familiar."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "title": "Kolonoskopiya",
+ "also": [
+  "FKS",
+  "videokolonoskopiya",
+  "ichakni ko‘rik qilish"
+ ],
+ "what": "Shifokor yo‘g‘on ichakni kamerali egiluvchan nay bilan ichkaridan ko‘radi. Kichik poliplarni darhol olib tashlash va tahlil uchun namuna olish mumkin.",
+ "why": "Ichakdagi poliplar va saratonni qidirish uchun, najasda qon, kamqonlik, najas o‘zgarishlarida; 45–50 yoshdan keyin skrining uchun.",
+ "duration": "muolajaning o‘zi odatda 20–40 daqiqa, oldingi kuni tayyorgarlik bilan",
+ "tell_doctor": [
+  "Qonni suyultiruvchi va temir preparatlari",
+  "Qandli diabet: tayyorgarlik va dorilarni moslashtirish kerak bo‘ladi",
+  "Yurak va buyrak kasalliklari",
+  "Uyquda qilishni xohlasangiz: bu sedatsiyali alohida xizmat"
+ ],
+ "prepare": [
+  {
+   "title": "2–3 kun oldin",
+   "text": "Kletchatkasiz parhez: sabzavotlar, mevalar, ko‘katlar, urug‘lar, yong‘oqlar, butun donli mahsulotlar va dukkaklilarsiz."
+  },
+  {
+   "title": "Oldingi kun",
+   "text": "Odatda yengil nonushta, keyin faqat tiniq suyuqliklar: suv, bulon, sutsiz choy."
+  },
+  {
+   "title": "Tozalash",
+   "text": "Ichakni tozalash eritmasini shifokor sxemasi bo‘yicha ichishadi, ko‘pincha ikki marta: kechqurun va ertalab erta. Yaxshi natija uchun bu eng muhimi."
+  },
+  {
+   "title": "Tayyorlik",
+   "text": "Tayyorgarlik yaxshi o‘tgan: najas parcha-purchasiz tiniq sariq suyuqlikka aylangan."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi kolonoskopiya xulosalari",
+  "Muolaja sedatsiya ostida bo‘lsa, yo‘ldosh"
+ ],
+ "steps": [
+  "Orqa tomoni teshikli bir martalik shortiga kiyinasiz",
+  "Chap yonboshga, tizzalarni ko‘kragga tortib yotasiz",
+  "Sedatsiya ostida bo‘lsa, venaga dori yuboriladi va uxlab qolasiz",
+  "Shifokor nayni kiritib, ichak devorlari yozilishi uchun havo yuborib, uni ehtiyotkorlik bilan suradi",
+  "Ba’zan chalqancha yotishni so‘rashadi",
+  "Kichik polip topilsa, uni darhol olib tashlashadi"
+ ],
+ "feel": [
+  "Sedatsiyasiz: havodan tarang bo‘lish va spazmlar, ba’zan his-tuyg‘ular yoqimsiz; shifokorga ayting",
+  "Sedatsiya ostida odatda hech narsa sezmaysiz va eslamaysiz"
+ ],
+ "after": [
+  "Havodan dam bo‘lish bir necha soatda o‘tadi: yurish yordam beradi",
+  "Sedatsiyadan keyin kun oxirigacha mashina haydab bo‘lmaydi",
+  "Odatda darhol ovqatlanish mumkin",
+  "Biopsiya natijasi 1–2 haftada"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq, yuqori harorat, to‘g‘ri ichakdan ko‘p qon ketsa, darhol shifokorga boring yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Kolonoskopiyani uyquda qilsa bo‘ladimi?",
+   "a": "Ha, sedatsiya ostida. 20–40 daqiqa uxlab qolasiz, keyin yo‘ldosh kerak va rulga o‘tirib bo‘lmaydi."
+  },
+  {
+   "q": "Nega bunchalik ko‘p eritma ichish kerak?",
+   "a": "Ichak toza bo‘lishi kerak, aks holda shifokor polipni ko‘rmasligi mumkin va kolonoskopiyani takrorlashga to‘g‘ri keladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "3 kundan keyin kolonoskopiya. Kletchatkasiz parhezni boshlang: sabzavotlar, mevalar, urug‘lar va butun donli mahsulotlarsiz."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga kolonoskopiya. Bugun nonushtadan keyin faqat tiniq suyuqliklar. Kechqurun eritmaning birinchi qismi sxema bo‘yicha."
+  },
+  {
+   "hoursBefore": 5,
+   "text": "Sxema ikki marta bo‘lsa, eritmaning ikkinchi qismi vaqti. Klinika aytgan muddatda tugatib bo‘ling."
+  }
+ ]
+}

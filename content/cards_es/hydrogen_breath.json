@@ -1,0 +1,75 @@
+{
+ "title": "Prueba de aliento con hidrógeno (SIBO, lactosa)",
+ "also": [
+  "prueba de hidrógeno",
+  "prueba de aliento para SIBO",
+  "prueba de intolerancia a la lactosa",
+  "prueba de lactasa"
+ ],
+ "what": "Tomas una solución dulce y cada 15 a 30 minutos soplas en un aparato. Por los gases en el aliento se ve cómo el intestino digiere los azúcares.",
+ "why": "Con hinchazón, dolores o diarrea después de comer. Para revisar si hay exceso de bacterias en el intestino o intolerancia al azúcar de la leche.",
+ "duration": "normalmente de 2 a 3 horas; el resultado sale de inmediato o en unos días",
+ "tell_doctor": [
+  "Si en el último mes tomaste antibióticos",
+  "Si hace poco te hicieron una colonoscopia",
+  "Qué medicamentos tomas, sobre todo laxantes y para la acidez",
+  "Si tienes diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Dieta del día anterior",
+   "text": "Normalmente por un día, sin frijoles ni legumbres, lácteos, dulces, frutas ni harinas. Lo permitido suele ser: arroz, carne, pescado, huevos. La clínica te dará la lista."
+  },
+  {
+   "title": "Ayuno",
+   "text": "Normalmente de 10 a 12 horas sin comer. Puedes tomar agua."
+  },
+  {
+   "title": "En la mañana",
+   "text": "No fumes, no masques chicle, no tomes café. Cepíllate los dientes."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "A veces piden no tomar algunos medicamentos antes de la prueba. No los suspendas por tu cuenta; pregunta al médico."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Un libro o el teléfono: la espera es larga",
+  "Agua, si te lo permiten"
+ ],
+ "steps": [
+  "Primero soplas en el aparato: es el nivel inicial",
+  "Tomas la solución de azúcar",
+  "Cada 15 a 30 minutos soplas otra vez en el aparato",
+  "Todo el tiempo te quedas sentado y tranquilo en la clínica",
+  "Te avisan cuando termina la prueba"
+ ],
+ "feel": [
+  "No duele",
+  "Durante la prueba pueden aparecer hinchazón, ruidos en la barriga o evacuación blanda; es parte de la respuesta",
+  "La espera puede cansar"
+ ],
+ "after": [
+  "Después de la prueba puedes comer",
+  "La hinchazón normalmente se quita durante el día",
+  "El resultado lo explicará el médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo tomar agua durante la prueba?",
+   "a": "Normalmente se puede un poco de agua simple. Confírmalo en la clínica."
+  },
+  {
+   "q": "¿Por qué no puedo fumar?",
+   "a": "El cigarro cambia la composición del aliento y el resultado sale mal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu prueba de hidrógeno. Hoy come solo lo permitido y cena temprano. En la mañana no fumes ni comas."
+  }
+ ]
+}

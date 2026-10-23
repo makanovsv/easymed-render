@@ -1,0 +1,70 @@
+{
+ "title": "Ultrasonido de la matriz después del parto",
+ "also": [
+  "ultrasonido después del parto",
+  "ultrasonido después de la cesárea",
+  "ultrasonido de control de la matriz"
+ ],
+ "what": "El ultrasonido muestra cómo se contrae la matriz después del parto y si quedó algo adentro que no debería.",
+ "why": "Antes del alta del hospital, después de una cesárea o si después del parto te preocupan dolor, fiebre o sangrado abundante.",
+ "duration": "normalmente de 10 a 20 minutos; el resultado se da en el momento",
+ "tell_doctor": [
+  "Cómo fue el parto: normal o cesárea",
+  "Cuántos días han pasado desde el parto",
+  "Cómo es el sangrado: cuánto, de qué color, si tiene olor",
+  "Si hay fiebre o dolor"
+ ],
+ "prepare": [
+  {
+   "title": "Vejiga",
+   "text": "Para el ultrasonido por el vientre a veces piden llenar un poco la vejiga. Confírmalo en la clínica."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa cómoda y una toalla sanitaria para cambiarte."
+  }
+ ],
+ "bring": [
+  "El resumen de alta del hospital",
+  "Una toalla sanitaria",
+  "Una toallita o pañuelo",
+  "Un documento de identidad"
+ ],
+ "steps": [
+  "Te acuestas en la camilla",
+  "El médico revisa la matriz con el sensor por el vientre",
+  "A veces además la revisa con un sensor por la vagina",
+  "El médico mide la matriz y ve su interior",
+  "Te limpian el gel y te dicen el resultado"
+ ],
+ "feel": [
+  "Normalmente no duele",
+  "Después de una cesárea, la presión del sensor cerca de la cicatriz puede ser incómoda"
+ ],
+ "after": [
+  "El resultado se da en el momento",
+  "El sangrado después del parto normalmente dura hasta 6 semanas y se va aclarando",
+  "Si encuentran algo, el médico te dirá qué hacer"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38",
+  "Sangrado abundante: la toalla se empapa por completo en una hora",
+  "Flujo con mal olor o dolor fuerte en el bajo vientre"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede hacer el ultrasonido mientras doy pecho?",
+   "a": "Sí, el ultrasonido no afecta la lactancia."
+  },
+  {
+   "q": "¿Para qué el ultrasonido si me siento bien?",
+   "a": "A veces los problemas se ven antes de que haya molestias. El médico decide si lo necesitas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes el ultrasonido de la matriz después del parto. Lleva el resumen de alta del hospital y una toalla sanitaria."
+  }
+ ]
+}

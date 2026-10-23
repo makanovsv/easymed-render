@@ -1,0 +1,80 @@
+{
+ "title": "Pozitsion bosh aylanishida Epli manevri",
+ "also": [
+  "Epli manevri",
+  "yaxshi sifatli pozitsion bosh aylanishini davolash",
+  "PBA",
+  "reposition manevr",
+  "bosh burilganda bosh aylanishi"
+ ],
+ "what": "Shifokor boshingiz va tanangizni ma’lum tartibda buradi. Shunda ichki quloqdagi mayda zarrachalar joyiga qaytadi va bosh aylanishi ketadi.",
+ "why": "Yotoqda burilganda, egilganda yoki tepaga qaraganda bosh bir necha soniya aylansa.",
+ "duration": "odatda 10–15 daqiqa, yengillik ko‘pincha darhol yoki bir necha kundan keyin",
+ "tell_doctor": [
+  "Bosh aylanishi qanday va qachon boshlanishi",
+  "Bosh jarohatlari bo‘lganmi",
+  "Bo‘yin yoki bel og‘riydimi, bo‘yinda operatsiyalar bo‘lganmi",
+  "Yurak, qon tomir kasalliklari, yuqori qon bosimi bormi",
+  "Qo‘l yoki oyoqda holsizlik, ko‘zda ikkilanish, nutq buzilishi bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Kiyim",
+   "text": "Qulay, tor yoqasiz kiyim. Boshingizni buradilar va yotqizadilar."
+  },
+  {
+   "title": "Ovqat",
+   "text": "To‘la oshqozon bilan kelmagan ma’qul: manevr paytida ko‘ngil ozishi mumkin."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Hamroh oling. Muolajadan keyin darhol rulga o‘tirmagan ma’qul."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor qaysi quloq bosh aylanishini chaqirayotganini tekshiradi",
+  "Kushetkaga o‘tirasiz, boshingiz yon tomonga buriladi",
+  "Sizni tez chalqancha yotqizishadi, bosh biroz chetdan osilib turadi",
+  "Bosh sekin boshqa tomonga buriladi",
+  "Keyin yonboshga o‘girilasiz, qarash pastga",
+  "Har bir holat taxminan bir daqiqa ushlanadi, bosh aylanishi tinchiguncha",
+  "Sizni ehtiyotkorlik bilan o‘tqazishadi"
+ ],
+ "feel": [
+  "Manevr paytida bosh qattiq aylanishi mumkin — bu kutilgan holat",
+  "Ba’zan ko‘ngil ozadi",
+  "Muolajadan keyin kun davomida yengil beqarorlik bo‘lishi mumkin"
+ ],
+ "after": [
+  "Turishdan oldin bir necha daqiqa o‘tirib turing",
+  "Dastlabki sutka tinch harakatlaning, keskin egilmang",
+  "Shifokor uyda bajariladigan mashqlarni ko‘rsatishi mumkin",
+  "Ba’zan manevr keyingi qabulda takrorlanadi"
+ ],
+ "red_flags": [
+  "Kuchli bosh og‘rig‘i, qo‘l yoki oyoqda holsizlik, nutq buzilishi — 103 ga qo‘ng‘iroq qiling",
+  "Bosh aylanishi soatlab o‘tmayapti va bosh holatiga bog‘liq emas",
+  "Kuchli qusish, tura olmayapsiz"
+ ],
+ "faq": [
+  {
+   "q": "Epli manevrini uyda o‘zim qilsam bo‘ladimi?",
+   "a": "Ba’zan shifokor uni uyda qilishni o‘rgatadi. Lekin avval ko‘rik kerak: qaysi quloq va sabab nimada ekanini tushunish muhim."
+  },
+  {
+   "q": "Bosh aylanishi qaytadimi?",
+   "a": "Ba’zan oylar yoki yillardan keyin qaytadi. Unda manevrni takrorlash mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Epli manevri yaqin. Hamroh oling, muolajadan keyin rulga o‘tirmagan ma’qul."
+  }
+ ]
+}

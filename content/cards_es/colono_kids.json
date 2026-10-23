@@ -1,0 +1,83 @@
+{
+ "title": "Colonoscopia en niños",
+ "also": [
+  "colonoscopia infantil",
+  "revisión del intestino en un niño",
+  "colonoscopia pediátrica"
+ ],
+ "what": "El médico revisa por dentro el intestino grueso del niño con un tubo delgado y flexible con cámara. En niños normalmente se hace dormido, con sedación o anestesia.",
+ "why": "Con sangre en las heces, diarrea larga, dolor de abdomen, anemia, poco aumento de peso y para controlar enfermedades inflamatorias del intestino.",
+ "duration": "el procedimiento suele durar de 20 a 60 minutos, más la preparación del día anterior y el tiempo para despertar",
+ "tell_doctor": [
+  "Todos los medicamentos que toma el niño y los de hierro",
+  "Alergias",
+  "Enfermedades del corazón, de los pulmones, convulsiones",
+  "Si el niño tuvo un resfriado hace poco",
+  "Si hubo problemas con la anestesia en el niño o en sus familiares"
+ ],
+ "prepare": [
+  {
+   "title": "Dieta",
+   "text": "De 1 a 3 días antes, comida sin fibra; el médico dará la lista exacta. El día anterior normalmente solo líquidos claros."
+  },
+  {
+   "title": "Limpieza",
+   "text": "El niño toma la solución de limpieza según el esquema del médico; la dosis depende del peso. Para que sea más fácil, se puede enfriar y tomar con popote."
+  },
+  {
+   "title": "Ayuno",
+   "text": "Antes de la sedación el niño no come ni bebe durante cierto tiempo; la clínica te dirá las horas exactas."
+  },
+  {
+   "title": "Plática",
+   "text": "Explícale al niño con palabras sencillas que va a dormir y el doctor va a mirar su pancita."
+  }
+ ],
+ "bring": [
+  "La orden médica y los informes anteriores",
+  "Los documentos del niño",
+  "Su juguete favorito",
+  "Ropa interior de repuesto y pañales, si hacen falta",
+  "Toallitas húmedas"
+ ],
+ "steps": [
+  "Le cambian la ropa al niño y le ponen un catéter en la vena, muchas veces después de una crema anestésica",
+  "Normalmente uno de los padres se queda a su lado mientras se duerme",
+  "El niño duerme y el médico introduce con cuidado el tubo y revisa el intestino",
+  "Si hace falta, toman pedacitos de tejido para análisis",
+  "El niño despierta en la sala y te llaman con él"
+ ],
+ "feel": [
+  "El procedimiento dormido no se siente",
+  "Al despertar hay sueño, mal humor, abdomen inflado",
+  "La preparación es la parte más difícil: evacuaciones líquidas frecuentes y el mal sabor de la solución"
+ ],
+ "after": [
+  "Normalmente se permite comer y beber cuando el niño ya despertó por completo",
+  "La hinchazón por el aire pasa en unas horas",
+  "Por el resto del día, reposo en casa",
+  "El resultado de la biopsia suele estar en 1 o 2 semanas"
+ ],
+ "red_flags": [
+  "Dolor fuerte de abdomen o el abdomen se puso duro: llama a emergencias",
+  "Fiebre de más de 38",
+  "Sangrado abundante por el ano o vómito con sangre",
+  "El niño está decaído, despierta con dificultad, no toma líquidos"
+ ],
+ "faq": [
+  {
+   "q": "Mi hijo no puede tomar toda la solución. ¿Qué hago?",
+   "a": "Llama a la clínica. A veces se cambia el esquema, pero la preparación no se puede omitir."
+  },
+  {
+   "q": "¿Puedo estar a su lado?",
+   "a": "Normalmente el padre está con el niño hasta que se duerme y apenas despierta. Pregunta cómo es en tu clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la colonoscopia de tu hijo. Hoy, solo líquidos claros y la solución según el esquema del médico. El ayuno, según el horario de la clínica."
+  }
+ ]
+}

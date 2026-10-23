@@ -1,0 +1,77 @@
+{
+ "title": "Tratamiento de una úlcera en la pierna",
+ "also": [
+  "úlcera trófica",
+  "úlcera venosa",
+  "úlcera en la pierna",
+  "herida en la pierna que no sana"
+ ],
+ "what": "Es una herida en la parte baja de la pierna que tarda mucho en sanar, casi siempre por mal funcionamiento de las venas. El tratamiento son curaciones y compresión de la pierna.",
+ "why": "Con heridas en la parte baja de la pierna que no sanan en varias semanas.",
+ "duration": "la curación normalmente dura de 20 a 40 minutos; el tratamiento, semanas y meses",
+ "tell_doctor": [
+  "Diabetes",
+  "Enfermedades de las arterias, dolor en las piernas al caminar",
+  "Todos tus medicamentos",
+  "Alergia a pomadas o esparadrapo"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Normalmente se hace un ultrasonido de las venas y arterias de las piernas para encontrar la causa."
+  },
+  {
+   "title": "Compresión",
+   "text": "Las vendas o medias son el tratamiento principal. Úsalas como indicó el médico."
+  },
+  {
+   "title": "Piernas",
+   "text": "Cuando estés sentado o acostado, sube la pierna más alto."
+  }
+ ],
+ "bring": [
+  "La orden médica y el ultrasonido de venas",
+  "Las medias de compresión, si tienes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Quitan el vendaje anterior",
+  "Lavan la herida y la piel alrededor",
+  "El médico evalúa la herida y a veces la limpia",
+  "Colocan el apósito sobre la herida",
+  "Encima vendan la pierna con una venda de compresión",
+  "Te dicen cuándo es la siguiente curación"
+ ],
+ "feel": [
+  "Limpiar la herida puede ser incómodo",
+  "La compresión los primeros días es rara; después normalmente se siente mejor",
+  "Si la venda aprieta mucho y la pierna se adormece, quítala y llama al médico"
+ ],
+ "after": [
+  "Camina: ayuda a las venas",
+  "No mojes el vendaje",
+  "Sube la pierna mientras descansas",
+  "Cuando sane, sigue usando las medias: así la úlcera vuelve menos"
+ ],
+ "red_flags": [
+  "Fiebre, enrojecimiento que se extiende",
+  "La pierna se adormeció, se enfrió o se puso morada bajo la venda",
+  "Dolor fuerte o mal olor en la herida"
+ ],
+ "faq": [
+  {
+   "q": "¿Para qué vendar la pierna?",
+   "a": "La compresión ayuda a que la sangre regrese por las venas. Sin ella la úlcera sana muy lento."
+  },
+  {
+   "q": "¿Se puede quitar la causa?",
+   "a": "A veces sí, por ejemplo, tratando las venas. El médico lo hablará contigo después del ultrasonido."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es la curación de la pierna. Lleva el ultrasonido de venas y las medias de compresión."
+  }
+ ]
+}

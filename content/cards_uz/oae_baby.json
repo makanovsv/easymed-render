@@ -1,0 +1,70 @@
+{
+ "title": "Chaqaloqning audioskrining",
+ "also": [
+  "audioskrining",
+  "chaqaloqda eshitishni tekshirish",
+  "otoakustik emissiya",
+  "OAE",
+  "eshitish skriningi"
+ ],
+ "what": "Chaqaloqda eshitishni qisqa tekshirish. Quloqchaga yumshoq uchlik kiritiladi, asbob past tovushlar beradi va quloqning javobini yozadi.",
+ "why": "Barcha yangi tug‘ilgan chaqaloqlarga — odatda tug‘ruqxonada dastlabki kunlarda yoki hayotning birinchi oyida.",
+ "duration": "odatda 5–10 daqiqa, natija darhol",
+ "tell_doctor": [
+  "Oilada bolalikdan eshitish bilan muammolar bo‘lganmi",
+  "Chaqaloq muddatidan oldin tug‘ilgan yoki reanimatsiyada yotgan bo‘lsa",
+  "Onada homiladorlik paytida infeksiyalar bo‘lgan bo‘lsa",
+  "Chaqaloq kuchli antibiotiklar olgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Eng yaxshisi — chaqaloq uxlayotgan yoki xotirjam paytda. Tekshiruvdan oldin uni emizgan qulay."
+  },
+  {
+   "title": "Sukunat",
+   "text": "Tekshiruv tinch joyda o‘tkaziladi. Shovqin va yig‘i natijaga xalaqit beradi."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati yoki tug‘ruqxonadan ko‘chirma",
+  "Taglik va ovqatlantirish uchun hamma narsa"
+ ],
+ "steps": [
+  "Chaqaloqni qo‘lda ushlab turasiz yoki beshikka yotqizishadi",
+  "Quloqchaga kichik yumshoq uchlik kiritiladi",
+  "Asbob past chiqillashlar beradi va javobni yozadi",
+  "Xuddi shu narsa ikkinchi quloqchada ham qilinadi",
+  "Asbob darhol ko‘rsatadi: o‘tdi yoki qayta tekshirish kerak"
+ ],
+ "feel": [
+  "Chaqaloqqa og‘rimaydi, ko‘plari tekshiruv paytida uxlab qoladi",
+  "Uyg‘onib ketgan bo‘lsa, biroz bezovta bo‘lishi mumkin"
+ ],
+ "after": [
+  "Natijani darhol aytishadi",
+  "«O‘tmadi» chaqaloq eshitmaydi degani emas. Ko‘pincha quloqchadagi suyuqlik yoki oltingugurt xalaqit beradi",
+  "O‘tmasa — bir necha haftadan keyin takrorlashadi yoki surdologga yo‘llashadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Chaqaloq skriningdan o‘tmadi. U karmi?",
+   "a": "Shart emas. Ko‘pincha sabab tug‘ruqdan keyingi suyuqlik yoki shovqin. Tekshiruv takrorlanadi, kerak bo‘lsa — surdologda."
+  },
+  {
+   "q": "Nega eshitishni bunchalik erta tekshiradi?",
+   "a": "Eshitishning pasayishi qanchalik erta payqalsa, yordam bilan nutq shunchalik yaxshi rivojlanadi."
+  },
+  {
+   "q": "Chaqaloq yig‘layotganda tekshirsa bo‘ladimi?",
+   "a": "Tinchlanishini kutgan ma’qul. Yig‘i asbobga xalaqit beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada chaqaloqning eshitishini tekshirish. Uni oldindan emizing, shunda u xotirjam bo‘ladi yoki uxlaydi."
+  }
+ ]
+}

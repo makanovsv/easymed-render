@@ -1,0 +1,78 @@
+{
+ "title": "Ekskretor urografiya",
+ "also": [
+  "tomir ichi urografiyasi",
+  "ekskretor urografiya",
+  "buyrakni kontrastli rentgenda tekshirish"
+ ],
+ "what": "Tomirga kontrast yuboriladi va bir necha rentgen surati olinadi. Buyraklar siydikni qanday chiqarayotgani va u siydik yo‘llari bo‘ylab qanday oqayotgani ko‘rinadi.",
+ "why": "Toshlar, bel og‘rig‘i, siydikda qon va buyrak anomaliyalarida, shifokor shu usulni tanlaganda.",
+ "duration": "odatda 30–60 daqiqa, ba’zan uzoqroq, xulosa o‘sha kuni",
+ "tell_doctor": [
+  "Yod yoki kontrastga allergiya bo‘lsa",
+  "Buyrak kasalliklari, qandli diabet, qalqonsimon bez kasalliklari bo‘lsa",
+  "Diabet dorilarini ichsangiz — shifokor nima qilishni aytadi",
+  "Homilador bo‘lishingiz mumkin bo‘lsa yoki emizsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlil",
+   "text": "Ko‘pincha tekshiruvdan oldin kreatininga qon tahlili kerak bo‘ladi. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Ichak",
+   "text": "Ba’zan bir kun oldin yengil kechki ovqat maslahat beriladi va dam qiladigan mahsulotlardan voz kechish so‘raladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda ertalab ovqatlanmaslik kerak. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Diabet dorilarini ichsangiz — shifokordan oldindan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Kreatinin tahlili",
+  "Oldingi suratlar va UTT",
+  "Hujjat"
+ ],
+ "steps": [
+  "Siz rentgen stoliga yotasiz",
+  "Kontrastsiz birinchi surat olinadi",
+  "Tomirga kontrast yuboriladi",
+  "Bir necha daqiqadan keyin bir qator suratlar olinadi",
+  "Ba’zan hojatxonaga borishni so‘rab, yana bir marta suratga olishadi"
+ ],
+ "feel": [
+  "Kontrast yuborilganda butun tanada issiqlik, og‘izda metall ta’mi",
+  "Ba’zan hojatxonaga borgingiz kelgandek seziladi — bu kontrastdan bo‘ladigan his"
+ ],
+ "after": [
+  "Shifokor cheklamagan bo‘lsa, o‘sha kuni ko‘proq suv iching",
+  "Xulosa odatda o‘sha kuni tayyor bo‘ladi",
+  "Natijani urolog bilan muhokama qiling"
+ ],
+ "red_flags": [
+  "Toshma, qichishish, yuz shishishi, nafas olish qiyin — darrov xodimlarga ayting, uyda bo‘lsangiz — 103 ni chaqiring",
+  "Ukol joyida og‘riq yoki shish",
+  "Siydik ancha kamaysa"
+ ],
+ "faq": [
+  {
+   "q": "Bu buyrak KTsidan nimasi bilan farq qiladi?",
+   "a": "Bu kontrastli rentgen. Hozir ko‘pincha KT qilishadi, lekin ba’zan shifokor urografiyani tanlaydi."
+  },
+  {
+   "q": "Yodga allergiyam bo‘lsa-chi?",
+   "a": "Albatta shifokorga oldindan ayting. U qilish mumkinmi va tayyorgarlik kerakmi, hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga urografiya. Kreatinin tahlilini oling. Ovqat — klinika aytganidek, diabet dorilari haqida shifokordan so‘rang."
+  }
+ ]
+}

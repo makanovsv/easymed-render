@@ -1,0 +1,71 @@
+{
+ "title": "Ultrassom da região inguinal (hérnia)",
+ "also": [
+  "ultrassom da virilha",
+  "ultrassom para hérnia",
+  "ultrassom de hérnia inguinal",
+  "ultrassom inguinal"
+ ],
+ "what": "O médico olha a virilha com ultrassom e vê se há hérnia: uma saliência por um ponto fraco da parede da barriga.",
+ "why": "Com inchaço ou dor na virilha, principalmente ao tossir e fazer esforço; em crianças, se aparece um caroço na virilha.",
+ "duration": "normalmente 10 a 20 minutos, o laudo sai normalmente na hora",
+ "tell_doctor": [
+  "Quando o inchaço aparece e se some quando você deita",
+  "Se fez cirurgias na virilha",
+  "Se a dor ficou forte ou o caroço não volta mais para dentro"
+ ],
+ "prepare": [
+  {
+   "title": "Preparo",
+   "text": "Normalmente não é preciso. Pode comer e beber."
+  },
+  {
+   "title": "Roupa",
+   "text": "Confortável, para descobrir a virilha com facilidade."
+  },
+  {
+   "title": "Para crianças",
+   "text": "Se o ultrassom é numa criança, explique que vai ter um gel geladinho e que não dói. Leve um brinquedo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Laudos anteriores",
+  "Lenços"
+ ],
+ "steps": [
+  "Você se deita de costas e descobre a virilha",
+  "Passam gel na pele",
+  "O médico passa o aparelho à direita e à esquerda",
+  "Pedem para tossir ou fazer força",
+  "Às vezes olham também de pé"
+ ],
+ "feel": [
+  "Gel geladinho, leve pressão do aparelho",
+  "Pode dar um pouco de vergonha. É normal"
+ ],
+ "after": [
+  "O laudo sai normalmente na hora",
+  "Se acharem hérnia, o cirurgião diz se é preciso operar e quando"
+ ],
+ "red_flags": [
+  "O caroço na virilha ficou duro, dolorido e não volta: ligue para a emergência",
+  "Dor na virilha com vômito e barriga inchada: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que tossir durante o ultrassom?",
+   "a": "Ao tossir, a pressão na barriga aumenta, e a hérnia aparece melhor."
+  },
+  {
+   "q": "A hérnia pode sumir sozinha?",
+   "a": "Em adultos, normalmente não. Mas nem toda hérnia precisa de cirurgia urgente. Quem decide é o cirurgião."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o ultrassom da virilha. Não precisa de preparo. Vá com roupa confortável."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Bo‘g‘imlarga PRP-terapiya",
+ "also": [
+  "bo‘g‘imga plazmolifting",
+  "PRP",
+  "bo‘g‘imga plazma ukoli",
+  "trombotsitlarga boy plazma"
+ ],
+ "what": "Sizdan ozgina qon olinadi, sentrifugada trombotsitli plazma ajratiladi va u bo‘g‘imga yoki payga yuboriladi.",
+ "why": "Ba’zan tizza bo‘g‘imi artrozida, pay va bog‘lam kasalliklarida. Foydasi hammada ham bo‘lmaydi: sizga mos kelishini shifokor bilan muhokama qiling.",
+ "duration": "odatda 30–60 daqiqa; ta’sir, agar bo‘lsa, bir necha haftadan keyin; ko‘pincha kurs kerak bo‘ladi",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar va yallig‘lanishga qarshi tabletkalar: shifokor nima qilishni hal qiladi",
+  "Qon kasalliklari",
+  "Hozir infeksiya yoki isitma bo‘lsa",
+  "Avval shu bo‘g‘imga ukol qilinganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Yallig‘lanishga qarshi tabletkalarni ba’zan muolajadan oldin va keyin bir necha kun ichmaslik so‘raladi. O‘zingiz bekor qilmang: shifokordan so‘rang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Yengil, yog‘siz ovqatlaning, suv iching: shunda plazma yaxshiroq chiqadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Bo‘g‘imni oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bo‘g‘im rasmlari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Tahlildagi kabi venadan qon olishadi",
+  "Probirkani bir necha daqiqaga sentrifugaga qo‘yishadi",
+  "Bo‘g‘im ustidagi terini antiseptik bilan artishadi",
+  "Ba’zan bo‘g‘imni og‘riqsizlantirishadi",
+  "Shifokor plazmani igna bilan bo‘g‘imga yuboradi, ko‘pincha UZI nazoratida",
+  "Plastir yopishtirishadi"
+ ],
+ "feel": [
+  "Qon olishda va bo‘g‘imga yuborishda sanchiq",
+  "Bo‘g‘imda to‘lib-toshish hissi",
+  "Keyin 1–3 kun bo‘g‘imda og‘riq va shish: bu tez-tez bo‘ladi"
+ ],
+ "after": [
+  "Dastlabki kunlarda bo‘g‘imga katta yuklamasiz",
+  "Og‘riq bo‘lsa, bo‘g‘imga sovuq qo‘yish mumkin; yallig‘lanishga qarshi dorilar faqat shifokor maslahati bilan",
+  "Takroriy ukollarni shifokor buyuradi"
+ ],
+ "red_flags": [
+  "Bo‘g‘im issiq, qattiq shishgan va og‘riydi, harorat 38 dan yuqori: darhol shifokorga",
+  "2–3 kundan keyin og‘riq kuchli ortadi"
+ ],
+ "faq": [
+  {
+   "q": "Bu aniq yordam beradimi?",
+   "a": "Hammaga emas. Ba’zilarda og‘riq kamayadi, boshqalarda ta’sir kuchsiz. Sizning holatingizda foydasi bor-yo‘qligini shifokor aytadi."
+  },
+  {
+   "q": "O‘z plazmamga allergiya bo‘lishi mumkinmi?",
+   "a": "O‘z plazmangizga allergiya ehtimoli juda kam. Lekin ukoldan keyin bo‘g‘imda og‘riq va shish bo‘lishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga PRP. Bugun va ertalab suv iching, yengil ovqatlaning. Yallig‘lanishga qarshi dorilar haqida shifokor aytganidek qiling."
+  }
+ ]
+}

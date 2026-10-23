@@ -1,0 +1,74 @@
+{
+ "title": "Antibiotiklarni to‘g‘ri qabul qilish",
+ "also": [
+  "antibiotiklarni qanday ichish",
+  "antibiotik kursi",
+  "antibiotik qoidalari",
+  "antibiotik qabul qilish"
+ ],
+ "what": "Antibiotiklar bakteriyalarni o‘ldiradi. Viruslarga, masalan shamollash va gripp viruslariga, ta’sir qilmaydi.",
+ "why": "Shifokor bakterial infeksiyani topib, antibiotik buyurganda.",
+ "duration": "kurs odatda bir necha kun — aniq muddatni shifokor aytadi",
+ "tell_doctor": [
+  "Antibiotiklarga allergiya, agar bo‘lgan bo‘lsa",
+  "Boshqa barcha dorilar — antibiotiklar ular bilan o‘zaro ta’sir qilishi mumkin",
+  "Homilador bo‘lsangiz yoki ko‘krak suti bilan boqsangiz",
+  "Jigar va buyrak kasalliklari"
+ ],
+ "prepare": [
+  {
+   "title": "Buyurilgan dori",
+   "text": "Faqat shifokor shu kasallik uchun buyurgan antibiotikni iching."
+  },
+  {
+   "title": "Jadval",
+   "text": "Kuniga necha marta va necha kun ichishni bilib oling. Eslatmalar qo‘ying."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Ba’zilarni ovqatdan oldin, ba’zilarni keyin ichishadi. Yo‘riqnomani o‘qing yoki shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Shifokor retsepti yoki buyrug‘i",
+  "Boshqa dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Antibiotikni har kuni bir vaqtda iching",
+  "Oddiy suv bilan iching",
+  "Shifokor buyurgan necha kun iching",
+  "Yaxshi bo‘lib qolsa ham, kursni o‘zingiz tashlamang",
+  "Dozani o‘tkazib yuborsangiz, ikki barobar ichmang — shifokordan so‘rang yoki yo‘riqnomani o‘qing",
+  "Qoldig‘ini keyinga saqlamang va hech kimga bermang"
+ ],
+ "feel": [
+  "Yaxshilanish odatda 2–3 kunda seziladi",
+  "Ba’zan qorin buzilishi yoki ko‘ngil aynishi bo‘ladi"
+ ],
+ "after": [
+  "Kurs davomida alkogoldan voz keching",
+  "2–3 kunda yaxshilanmasa — shifokorga ayting",
+  "Probiotiklar kerakmi, shifokordan so‘rang"
+ ],
+ "red_flags": [
+  "Yuz yoki tomoq shishishi, nafas olish qiyin — tez yordamni chaqiring (103)",
+  "Butun badanda toshma yoki pufakchalar — shoshilinch shifokorga",
+  "Tez-tez suyuq, qonli najas — shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Shamollashda antibiotik kerakmi?",
+   "a": "Odatda yo‘q. Shamollash — virus. Shifokor hal qiladi."
+  },
+  {
+   "q": "Yaxshi bo‘lib qolsa, kursni tashlasa bo‘ladimi?",
+   "a": "Yo‘q, o‘zboshimcha emas. Infeksiya qaytishi mumkin. Shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Antibiotik ichish vaqti. Oddiy suv bilan, jadval bo‘yicha."
+  }
+ ]
+}

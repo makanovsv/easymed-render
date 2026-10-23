@@ -1,0 +1,74 @@
+{
+ "title": "Smart-soatda EKG: qanday yozish va shifokorga ko‘rsatish",
+ "also": [
+  "soatda EKG",
+  "aqlli soatdan EKG",
+  "bilaguzukda EKG yozish",
+  "soatdagi EKGni shifokorga ko‘rsatish"
+ ],
+ "what": "Ba’zi smart-soatlar yarim daqiqada bitta tarmoqdan EKG yoza oladi. Yozuvni saqlab, shifokorga ko‘rsatish mumkin.",
+ "why": "Yurak urishi yoki uzilishlar to‘satdan kelib, shifokorga borguncha o‘tib ketganda. Yozuv o‘sha lahzani ushlashga yordam beradi.",
+ "duration": "bitta yozuv odatda taxminan 30 soniya",
+ "tell_doctor": [
+  "Soat nimani va qachon ko‘rsatgani",
+  "Yozuv paytida nimani his qilganingiz",
+  "Qanday dorilar ichayotganingiz",
+  "Soat oddiy EKGni almashtirmaydi — shifokor uni qo‘shimcha tayinlashi mumkin"
+ ],
+ "prepare": [
+  {
+   "title": "Sozlash",
+   "text": "Soat ilovasida EKG funksiyasini oldindan yoqib, o‘rgatuvchi qismdan o‘ting."
+  },
+  {
+   "title": "Tasma",
+   "text": "Soat bilakka zich turishi, teri quruq va toza bo‘lishi kerak."
+  },
+  {
+   "title": "Holat",
+   "text": "Yozuv paytida o‘tiring, qo‘lingizni stolga qo‘ying va gapirmang."
+  }
+ ],
+ "bring": [
+  "Soat va yozuvlar bor telefon",
+  "PDF qilib saqlangan yozuvlar, ilova buni qila olsa",
+  "Kundalik: vaqt va his-tuyg‘ular"
+ ],
+ "steps": [
+  "O‘tiring va tinchlaning",
+  "Soatda EKG ilovasini oching",
+  "Boshqa qo‘lingizning barmog‘ini soatning tugmasi yoki g‘ildiragiga qo‘ying",
+  "Yozuv ketayotgan taxminan 30 soniya qimirlamang",
+  "Nimani his qilayotganingiz haqida izoh qo‘shing",
+  "Shifokor uchun yozuvni saqlang yoki PDFga chiqaring"
+ ],
+ "feel": [
+  "Hech narsa sezilmaydi — soat faqat yozadi",
+  "Qo‘l qimirlasa, yozuv chiqmasligi mumkin — shunchaki takrorlang"
+ ],
+ "after": [
+  "Yozuvlarni kundalik bilan birga shifokorga ko‘rsating",
+  "Soat norma desa-yu, o‘zingizni yomon his qilsangiz ham shifokorga murojaat qiling",
+  "Soat tashxis qo‘ymaydi, uni shifokor qo‘yadi"
+ ],
+ "red_flags": [
+  "Ko‘krakda og‘riq yoki bosim, nafas qisilishi, hushdan ketish — 103 ga qo‘ng‘iroq qiling, yozuvga vaqt sarflamang",
+  "Yurak urishi juda tez va o‘tmayapti"
+ ],
+ "faq": [
+  {
+   "q": "Soatdagi EKGga ishonsa bo‘ladimi?",
+   "a": "Bu shifokor uchun yaxshi ishora, lekin to‘liq EKG emas. Yakuniy qarorni shifokor chiqaradi."
+  },
+  {
+   "q": "Yozuvni shifokorga qanday ko‘rsatish kerak?",
+   "a": "Odatda telefondagi ilovada yozuvni PDF qilib saqlab, yuborish yoki chop etish mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga shifokor qabuli. Soatdagi EKG yozuvlarini PDF qilib saqlang va his-tuyg‘ular kundaligini oling."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "title": "Contraste en tomografía y resonancia: riñones, alergia, lactancia",
+ "also": [
+  "contraste",
+  "medio de contraste",
+  "tomografía con contraste",
+  "resonancia con contraste",
+  "contraste y riñones"
+ ],
+ "what": "El contraste es un medicamento que se pone en la vena para que los vasos y los órganos se vean mejor en la tomografía o la resonancia. Para la tomografía suele ser de yodo, para la resonancia, de gadolinio.",
+ "why": "Cuando el médico necesita ver mejor los órganos, tumores, inflamación o vasos.",
+ "duration": "ponerlo toma un minuto; los riñones eliminan el contraste normalmente en un día",
+ "tell_doctor": [
+  "Si antes tuviste una reacción al contraste",
+  "Si tienes asma o alergias fuertes",
+  "Si tienes enfermedad de los riñones o estás en diálisis",
+  "Si tienes diabetes y tomas pastillas para el azúcar",
+  "Si puedes estar embarazada o estás amamantando",
+  "Si tienes enfermedad de la tiroides: para la tomografía"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "Muchas veces piden un análisis de sangre de creatinina: así se revisan los riñones."
+  },
+  {
+   "title": "Comida",
+   "text": "A veces piden no comer 2 a 4 horas. Pregunta en la clínica."
+  },
+  {
+   "title": "Agua",
+   "text": "Si el médico no lo limitó, el día anterior y el día del estudio toma agua normal."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Si tomas medicamentos para la diabetes, el médico te dirá qué hacer."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "El análisis de creatinina",
+  "El informe de una reacción anterior al contraste, si la hubo",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Antes del estudio te preguntan por alergias y riñones",
+  "Te ponen un catéter delgado en la vena del brazo",
+  "Durante las imágenes ponen el contraste por el catéter",
+  "Después del estudio te piden esperar de 15 a 30 minutos",
+  "Retiran el catéter"
+ ],
+ "feel": [
+  "En la tomografía, calor en el cuerpo, sabor metálico y ganas de ir al baño",
+  "En la resonancia, normalmente nada o un frío en el brazo",
+  "Estas sensaciones pasan en un minuto"
+ ],
+ "after": [
+  "Toma más agua ese día, si el médico no lo limitó",
+  "Normalmente puedes amamantar después del contraste; pregunta al médico",
+  "Si tienes enfermedad de los riñones, el médico puede pedir un análisis después del estudio"
+ ],
+ "red_flags": [
+  "Ronchas, comezón, hinchazón de la cara o los labios, dificultad para respirar: llama a emergencias",
+  "Dolor fuerte, hinchazón o enrojecimiento en el lugar de la inyección",
+  "Orina mucho menos en los siguientes días"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo amamantar después del contraste?",
+   "a": "Normalmente sí, pasa muy poco a la leche. Si tienes dudas, coméntalo con el médico."
+  },
+  {
+   "q": "¿Y si tuve alergia al contraste?",
+   "a": "Díselo con anticipación. El médico decidirá si cambia el estudio o si te da medicamentos antes."
+  },
+  {
+   "q": "¿El contraste daña los riñones?",
+   "a": "Con riñones sanos el riesgo es muy pequeño. Si hay enfermedad renal, el médico valora antes el beneficio y el riesgo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes un estudio con contraste. Lleva el análisis de creatinina y toma agua, si el médico no lo limitó."
+  }
+ ]
+}

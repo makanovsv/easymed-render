@@ -1,0 +1,72 @@
+{
+ "title": "Bowel ultrasound",
+ "also": [
+  "intestinal ultrasound",
+  "bowel ultrasound",
+  "colon ultrasound",
+  "small bowel ultrasound"
+ ],
+ "what": "The doctor looks at the walls of your bowel through your belly using ultrasound. It shows inflammation, thickening, and bowel loops.",
+ "why": "For belly pain, suspected appendicitis, bowel inflammation, to follow long-term bowel conditions, and in children, for pain and vomiting.",
+ "duration": "usually 20 to 30 minutes; the report is usually ready right away",
+ "tell_doctor": [
+  "Where your belly hurts and for how long",
+  "If you had belly surgery",
+  "If you recently had a colonoscopy or a barium X-ray",
+  "If you have a bowel condition, bring your reports"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually do not eat for 4 to 6 hours. Sometimes you are asked to drink water before. Check with the clinic."
+  },
+  {
+   "title": "Gas",
+   "text": "The day before: eat less gassy food: cabbage, beans, fizzy drinks, dark rye bread."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Tell your doctor what you take."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Past ultrasounds, colonoscopies, and tests",
+  "A towel or wipes"
+ ],
+ "steps": [
+  "You lie on your back and uncover your belly",
+  "Gel is put on your skin",
+  "The probe is moved over your whole belly, sometimes with a little pressure",
+  "Sometimes you are asked to turn on your side",
+  "The gel is wiped off"
+ ],
+ "feel": [
+  "Cool gel and pressure from the probe",
+  "If a spot is sore, the pressure may be unpleasant. Tell the doctor"
+ ],
+ "after": [
+  "You can eat and drink right away",
+  "The report is usually ready right away",
+  "The doctor may order more tests"
+ ],
+ "red_flags": [
+  "Severe, worsening belly pain with vomiting or fever: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Does a bowel ultrasound replace a colonoscopy?",
+   "a": "No. Ultrasound sees the bowel wall from outside, but it cannot see small polyps inside."
+  },
+  {
+   "q": "Why can't I eat before the ultrasound?",
+   "a": "After eating, there is more gas in the bowel, and gas blocks the ultrasound."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Bowel ultrasound tomorrow. Today, no cabbage, beans, or fizzy drinks. Do not eat for the time the clinic told you."
+  }
+ ]
+}

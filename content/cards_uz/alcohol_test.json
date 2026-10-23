@@ -1,0 +1,70 @@
+{
+ "title": "Alkogolga tibbiy ko‘rik",
+ "also": [
+  "alkogolga ko‘rik",
+  "alkotester",
+  "mastlikka tekshiruv",
+  "tibbiy ko‘rik",
+  "qonda alkogolni aniqlash"
+ ],
+ "what": "Shifokor organizmda alkogol bor-yo‘qligini tekshiradi: asbobga puflaysiz, ba’zan qon yoki peshob topshirasiz. Shifokor qisqa ko‘rik ham o‘tkazadi.",
+ "why": "Politsiya yoki ish beruvchi talabi bilan, YTHdan keyin, haydovchi va ishchilarni tibbiy ko‘rikdan o‘tkazishda.",
+ "duration": "odatda 20–40 daqiqa, alkotester natijasi darrov, qon yoki peshob tahlili — keyinroq",
+ "tell_doctor": [
+  "Ichayotgan barcha dorilaringiz",
+  "Spirtli sprey, chayqov yoki tomchilar ishlatgan bo‘lsangiz",
+  "Diabet yoki o‘pka kasalliklari bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Hujjat",
+   "text": "Shaxsingizni tasdiqlovchi hujjatni oling."
+  },
+  {
+   "title": "Og‘iz",
+   "text": "Puflashdan 15–20 daqiqa oldin chekmang, ovqatlanmang va og‘izni spirtli vositalar bilan chayqamang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ichayotgan hamma narsani shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Yo‘llanma yoki bayonnoma, agar sizni yuborishgan bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor hujjatni tekshiradi va bayonnomani to‘ldiradi",
+  "Sizni qisqa ko‘rikdan o‘tkazishadi: bosim, puls, nutq, muvozanat",
+  "Asbobning bir martalik og‘izligiga uzoq nafas chiqarasiz",
+  "15–20 daqiqadan keyin puflash odatda takrorlanadi",
+  "Ba’zan laboratoriya uchun venadan qon yoki peshob olinadi",
+  "Shifokor xulosani rasmiylashtiradi"
+ ],
+ "feel": [
+  "Hech qanday noxush narsa yo‘q",
+  "Asbobga tekis va uzoq puflash kerak"
+ ],
+ "after": [
+  "Alkotester natijasi darrov ko‘rinadi",
+  "Qon yoki peshob tahlili natijasi odatda bir necha kunda",
+  "Ko‘rik dalolatnomasi qoidalarga muvofiq beriladi — uni kim va qachon olishini aniqlashtiring"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Kvas yoki kefir alkogolni ko‘rsatishi mumkinmi?",
+   "a": "Ichgandan keyin darrov juda kichik ko‘rsatkich berishi mumkin. Shuning uchun puflash 15–20 daqiqadan keyin takrorlanadi."
+  },
+  {
+   "q": "Ko‘rikdan bosh tortsa bo‘ladimi?",
+   "a": "Buni mamlakatingiz qonuni hal qiladi, rad etishning oqibatlari bo‘lishi mumkin. Yuristdan yoki sizni yuborgan xodimdan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Tez orada tibbiy ko‘rik. Puflashdan 15–20 daqiqa oldin chekmang, ovqatlanmang va og‘izni chayqamang."
+  }
+ ]
+}

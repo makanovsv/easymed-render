@@ -1,0 +1,80 @@
+{
+ "title": "Sedatsiya (dori bilan uyqu)",
+ "also": [
+  "dori bilan uyqu",
+  "uyquda muolaja",
+  "tomir ichi sedatsiyasi"
+ ],
+ "what": "Venaga yuboriladigan dori, undan siz yengil uyquga ketasiz. Muolaja tinch o‘tadi, odatda uni eslamaysiz.",
+ "why": "Tekshiruv yoki muolaja qo‘rquvsiz va yoqimsiz hissiyotlarsiz o‘tishi uchun, masalan gastroskopiya yoki kolonoskopiya.",
+ "duration": "sedatsiyaning o‘zi muolaja vaqtiga; o‘zingizga kelish odatda 30–60 daqiqa",
+ "tell_doctor": [
+  "Qabul qilayotgan barcha dorilar",
+  "Allergiyalar",
+  "Yurak, o‘pka kasalliklari, uyquda apnoe",
+  "Narkoz bilan muammolar bo‘lganmi",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda 6 soat ovqat yemaslik. Shaffof suv: klinika aytgan vaqtgacha."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Nima qabul qilayotganingizni shifokorga ayting. U ertalab nimani ichishni hal qiladi."
+  },
+  {
+   "title": "Hamroh",
+   "text": "Sedatsiyadan keyin rulga o‘tirish mumkin emas. Sizni olib ketishlarini kelishib oling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay kiyim. Taqinchoqlar va linzalarni yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Dorilar ro‘yxati",
+  "Hujjatlar",
+  "Hamroh"
+ ],
+ "steps": [
+  "Venaga kateter qo‘yib, barmoqqa datchik taqishadi",
+  "Hamshira yoki anesteziolog dori yuboradi",
+  "Bir daqiqadan keyin uxlab qolasiz",
+  "Muolaja paytida nafas va pulsni kuzatib turishadi",
+  "Siz uyg‘onib, o‘zingizga kelguncha palatada dam olasiz"
+ ],
+ "feel": [
+  "Yuborishda venada yengil issiqlik yoki achishish",
+  "Uyg‘ongandan keyin uyquchanlik",
+  "Ba’zan yengil bosh aylanishi: o‘tib ketadi"
+ ],
+ "after": [
+  "Shu kuni rulga o‘tirmang",
+  "Ertagacha muhim hujjatlarni imzolamang va jiddiy qarorlar qabul qilmang",
+  "Shifokor ruxsat bergach ichish va ovqatlanish mumkin",
+  "Kechgacha yoningizda kimdir bo‘lgani yaxshi"
+ ],
+ "red_flags": [
+  "Nafas olish qiyin, ko‘krakda og‘riq: 103 ga qo‘ng‘iroq qiling",
+  "Bir necha soat o‘tmaydigan kuchli uyquchanlik"
+ ],
+ "faq": [
+  {
+   "q": "Sedatsiya narkozmi?",
+   "a": "Unchalik emas. Uyqu yengil, o‘zingiz nafas olasiz. Bu umumiy narkozdan yumshoqroq."
+  },
+  {
+   "q": "Nega sedatsiyadan keyin rulga o‘tirib bo‘lmaydi?",
+   "a": "O‘zingizni yaxshi his qilsangiz ham, dori reaksiyani yana bir necha soat sekinlashtiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga uyqu bilan muolaja. Sizni kim olib ketishini kelishib oling. Ovqat klinika aytgan vaqtgacha."
+  }
+ ]
+}

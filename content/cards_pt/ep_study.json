@@ -1,0 +1,87 @@
+{
+ "title": "Estudo eletrofisiológico do coração",
+ "also": [
+  "estudo eletrofisiológico",
+  "EEF",
+  "exame eletrofisiológico do coração",
+  "estudo eletrofisiológico invasivo"
+ ],
+ "what": "Por uma veia da virilha, levam eletrodos finos até o coração. Com eles, registram o ritmo por dentro e procuram a origem da arritmia.",
+ "why": "Para crises de coração acelerado, desmaios e antes da ablação por radiofrequência.",
+ "duration": "o exame leva normalmente de 1 a 2 horas; às vezes a ablação é feita na hora, e aí demora mais",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias, principalmente a iodo e contraste",
+  "Doenças dos rins e diabetes",
+  "Se você pode estar grávida",
+  "Como são e com que frequência acontecem as crises"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Contraste",
+   "text": "Se você tem doença nos rins, avise antes. O médico pode pedir um exame e orientar a beber água antes e depois."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  },
+  {
+   "title": "Remédios para arritmia",
+   "text": "Não pare por conta própria. Às vezes eles são suspensos alguns dias antes; só o médico decide."
+  },
+  {
+   "title": "Depilação",
+   "text": "Às vezes pedem para raspar a virilha. Confirme na clínica."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para 1 a 3 dias no hospital"
+ ],
+ "steps": [
+  "Você troca de roupa e recebe um acesso na veia",
+  "Dão um calmante e anestesiam a virilha",
+  "Pelas veias, levam os eletrodos até o coração",
+  "Registram o ritmo e, às vezes, provocam a crise de propósito",
+  "Se encontrarem a origem, podem fazer a ablação na hora",
+  "Os eletrodos são retirados e colocam um curativo no furo"
+ ],
+ "feel": [
+  "O furo quase não se sente depois da anestesia",
+  "Quando provocam a crise: o coração acelerado que você conhece, interrompido rapidamente",
+  "Depois, é preciso ficar deitado algumas horas"
+ ],
+ "after": [
+  "Não dobre a perna pelo número de horas que disserem",
+  "O médico normalmente diz o resultado e o plano no mesmo dia",
+  "Sem carregar peso por alguns dias",
+  "Remédios conforme o médico receitar"
+ ],
+ "red_flags": [
+  "O local do furo inchou, sangra muito ou dói",
+  "Dor no peito, falta de ar ou desmaio: ligue para a emergência",
+  "Crise de coração acelerado que não passa: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que provocar a crise?",
+   "a": "Para ver exatamente de onde ela vem. Isso é feito sob controle, e a crise é interrompida logo."
+  },
+  {
+   "q": "Qual a diferença entre o estudo e a ablação?",
+   "a": "O estudo procura a origem da arritmia; a ablação a elimina. Muitas vezes os dois são feitos no mesmo procedimento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o estudo eletrofisiológico. Documentos, eletrocardiogramas e lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

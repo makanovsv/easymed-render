@@ -1,0 +1,75 @@
+{
+ "title": "Insulin ukollarini qanday qilish kerak",
+ "also": [
+  "shprits-ruchka",
+  "insulinni qanday sanchish",
+  "insulin ukollari",
+  "ruchkadagi insulin"
+ ],
+ "what": "Insulin teri ostiga shprits-ruchka bilan o‘zingiz sanchiladi. Har safar bir xil qilsangiz, bu qiyin emas.",
+ "why": "Qandli diabetda, shifokor insulin buyurganda.",
+ "duration": "ukolning o‘zi — 1–2 daqiqa",
+ "tell_doctor": [
+  "Shakar tez-tez juda past yoki yuqori bo‘lsa",
+  "Ukol joylarida bo‘rtmalar paydo bo‘lgan bo‘lsa",
+  "Ruchka shkalasini yomon ko‘rsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Insulin",
+   "text": "Zaxirani muzlatgichda saqlang, muzlatkichda emas. Hozir sanchayotgan ruchkani odatda xona haroratida saqlashadi — yo‘riqnomadan aniqlang."
+  },
+  {
+   "title": "Ignalar",
+   "text": "Har ukolga yangi igna. Eski ignalarni qopqoqli zich bankaga soling."
+  },
+  {
+   "title": "Doza",
+   "text": "Doza va ukol vaqtini shifokor belgilaydi. Sxemani o‘zingiz o‘zgartirmang."
+  }
+ ],
+ "bring": [
+  "Shprits-ruchka va ignalar",
+  "Glyukometr",
+  "Shakar kundaligi"
+ ],
+ "steps": [
+  "Qo‘llarni yuving va insulin nomi va yaroqlilik muddatini tekshiring",
+  "Loyqa insulinni ukoldan oldin ehtiyotkorlik bilan kaftlar orasida dumalating va 10–20 marta silkiting",
+  "Yangi igna taqing va 2 birlikni havoga chiqaring — uchida tomchi bo‘lsa, ruchka ishlayapti",
+  "Shkalada o‘z dozangizni tering",
+  "Joyni tanlang: qorin, son, yelka yoki dumba; har safar oldingi ukoldan biroz chetlashing",
+  "Ignani to‘g‘ri burchak ostida kiriting va tugmani oxirigacha bosing",
+  "10 soniya kuting, keyin ignani oling",
+  "Ignani yechib, bankaga tashlang"
+ ],
+ "feel": [
+  "Ingichka igna bilan ukol — deyarli sezilmaydi",
+  "Ba’zan qon tomchisi yoki kichik ko‘kargan joy"
+ ],
+ "after": [
+  "Doza va shakarni kundalikka yozing",
+  "Ukol joylarini almashtiring — shunda bo‘rtmalar bo‘lmaydi",
+  "Past shakar bo‘lgan taqdirda doim shirinlik olib yuring"
+ ],
+ "red_flags": [
+  "Titroq, ter, kuchli ochlik, chalkashlik — shirin yeng va shakarni tekshiring",
+  "Odam hushsiz yoki tutqanoqda — tez yordamni chaqiring (103), og‘ziga hech narsa bermang"
+ ],
+ "faq": [
+  {
+   "q": "Kiyim orqali sanchsa bo‘ladimi?",
+   "a": "Yo‘q. Toza teriga sanching — infeksiya va doza xatosi xavfi kamroq."
+  },
+  {
+   "q": "Ukolni unutib qo‘ysam nima qilish kerak?",
+   "a": "Ikki hissa doza sanchmang. Shakarni tekshiring va shifokor bergan reja bo‘yicha harakat qiling. Reja bo‘lmasa — shifokorga qo‘ng‘iroq qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Insulin ukoli vaqti. Yangi igna, havoga 2 birlik, doza, 10 soniya."
+  }
+ ]
+}

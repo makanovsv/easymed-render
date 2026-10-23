@@ -1,0 +1,71 @@
+{
+ "title": "Najas tahlili (koprogramma)",
+ "also": [
+  "koprogramma",
+  "najasning umumiy tahlili",
+  "najas tahlili"
+ ],
+ "what": "Oz miqdordagi najas mikroskop ostida ko‘riladi. Ovqat qanday hazm bo‘layotgani va yallig‘lanish bor-yo‘qligi ko‘rinadi.",
+ "why": "Qorin og‘riganda, qorin shishganda, ich ketganda yoki qabziyatda, hazm bilan bog‘liq muammo gumon qilinganda.",
+ "duration": "uyda yig‘ish — bir necha daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Qaysi dorilarni ichayotganingizni ayting — ayniqsa surgi, temir preparatlari, fermentlar, antibiotiklar",
+  "Yaqinda bariyli rentgen yoki kolonoskopiya qilingan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Idish",
+   "text": "Dorixonadan qoshiqchali steril idish oling yoki laboratoriyadan so‘rang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Surgi, sham va huqnalar odatda tahlildan 2–3 kun oldin ishlatilmaydi. Agar sizga kerak bo‘lsa, shifokorga ayting, u hal qiladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda har doimgidek ovqatlaning. Ba’zan shifokor bir necha kunga maxsus parhez buyuradi — unga amal qiling."
+  },
+  {
+   "title": "Ayollarga",
+   "text": "Hayz paytida tahlilni keyinga qoldirgan ma’qul."
+  }
+ ],
+ "bring": [
+  "Najasli idish",
+  "Yo‘llanma"
+ ],
+ "steps": [
+  "Avval siydik qiling, siydik najasga tushmasin",
+  "Toza va quruq tog‘orachaga yoki toza plyonkaga ajrating — hojatxona suvidan olmang",
+  "Qopqoqdagi qoshiqcha bilan turli joylardan yong‘oq kattaligicha oling",
+  "Idishni mahkam yoping va ustiga ismingizni yozing",
+  "O‘sha kuni laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Hech narsa sezilmaydi — tahlil og‘riqsiz"
+ ],
+ "after": [
+  "Darrov olib borish imkoni bo‘lmasa, idish odatda bir necha soat muzlatgichda saqlanadi, muzlatkichda emas. Muddatini laboratoriyadan so‘rang",
+  "Natijani shifokor tushuntiradi"
+ ],
+ "red_flags": [
+  "Qora, smoladek najas yoki najasda ko‘p qon bo‘lsa — darrov shifokorga yoki 103 ga",
+  "Qorin qattiq og‘rib, harorat yoki qusish bo‘lsa — o‘sha kuni shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Najasni kechqurun yig‘sa bo‘ladimi?",
+   "a": "Ertalabkisi yaxshiroq. Faqat kechqurunki bo‘lsa — muzlatgichda saqlang va ertalab olib boring. Muddatini laboratoriyadan so‘rang."
+  },
+  {
+   "q": "Najas qancha kerak?",
+   "a": "Oz — idishning taxminan uchdan biri, yong‘oq kattaligicha."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga najas topshiramiz. Steril idish va toza quruq tog‘orachani tayyorlab qo‘ying."
+  }
+ ]
+}

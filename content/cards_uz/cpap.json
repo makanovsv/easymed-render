@@ -1,0 +1,81 @@
+{
+ "title": "Uyda SIPAP-terapiya",
+ "also": [
+  "sipap",
+  "SIPAP apparati",
+  "xurrakka qarshi apparat",
+  "uyqu niqobi",
+  "apnoeni davolash"
+ ],
+ "what": "Kichik apparat tunda niqob orqali havoni yengil bosim bilan beradi. Shunda uyquda nafas yo‘llari yopilib qolmaydi va nafas to‘xtamaydi.",
+ "why": "Uyquda nafas to‘xtashi, ya’ni apnoe bo‘lganda, kunduzgi uyquchanlik bilan baland xurrakda, buni uyqu tekshiruvi tasdiqlagan bo‘lsa.",
+ "duration": "har kecha butun uyqu davomida; o‘rganish odatda 1–4 hafta oladi",
+ "tell_doctor": [
+  "Niqob ishqalasa, bossa yoki ostidan havo chiqsa",
+  "Og‘iz yoki burun qurisa, burun bitsa",
+  "Hamon xurrak otsangiz yoki kunduzi uxlagingiz kelsa",
+  "O‘rganish qiyin bo‘lsa va tashlagingiz kelsa"
+ ],
+ "prepare": [
+  {
+   "title": "Niqob",
+   "text": "Niqob o‘lchamiga qarab tanlanadi. Noqulay bo‘lsa, boshqa o‘lcham yoki tur so‘rang: ular ko‘p."
+  },
+  {
+   "title": "O‘rganish",
+   "text": "Dastlabki kunlarda niqobni kunduzi 20–30 daqiqa taqib, shunchaki o‘tiring, kitob o‘qing."
+  },
+  {
+   "title": "Suv",
+   "text": "Apparatda namlagich bo‘lsa, qaynatilgan yoki distillangan suv quying: ko‘rsatmadan aniqlashtiring."
+  },
+  {
+   "title": "Bosim",
+   "text": "Bosimni shifokor sozlaydi. O‘zingiz o‘zgartirmang."
+  }
+ ],
+ "bring": [
+  "Apparat, shlang va niqob",
+  "Xotira kartasi yoki ilovadagi ma’lumotlar: qabulga",
+  "Savollar va shikoyatlar ro‘yxati"
+ ],
+ "steps": [
+  "Uyqudan oldin namlagichga suv quying, agar bo‘lsa",
+  "Niqobni kiyib, tasmalarni tortib qo‘ying: mahkam, lekin kuchli bosimsiz",
+  "Qulay holatda yoting va apparatni yoqing",
+  "Niqob burun uchun bo‘lsa, burun orqali sokin nafas oling",
+  "Niqob ostidan havo kelsa, uning joyini biroz to‘g‘rilang",
+  "Ertalab apparatni o‘chiring, niqobni yeching va suvni to‘kib tashlang"
+ ],
+ "feel": [
+  "Birinchi kechalari odatiy emas: havo bosimi, yuzda niqob hissi",
+  "Ba’zan og‘iz yoki burunda qurish",
+  "Bir necha haftadan keyin ko‘pchilik yaxshiroq uxlayotganini payqaydi"
+ ],
+ "after": [
+  "Apparatdan har kecha foydalaning: o‘tkazib yuborish foydani kamaytiradi",
+  "Niqobni har kuni arting, shlang va idishni haftada bir marta yuving",
+  "Filtrlar va niqobni ko‘rsatma bo‘yicha almashtiring",
+  "Biroz vaqtdan keyin shifokor apparat ma’lumotlarini tekshiradi"
+ ],
+ "red_flags": [
+  "Quloqlarda og‘riq, burun bo‘shliqlarida kuchli og‘riq yoki burundan qon ketsa, shifokorga ayting",
+  "Kuchli nafas qisilishi, ko‘krakda og‘riq bo‘lsa, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Bir kechani o‘tkazib yuborsa bo‘ladimi?",
+   "a": "Yaxshisi o‘tkazib yubormaslik. Apparatsiz nafas to‘xtashlari o‘sha kechadayoq qaytadi."
+  },
+  {
+   "q": "Tunda uyquda niqobni yechib tashlasam nima qilish kerak?",
+   "a": "Boshida shunday bo‘ladi. Shifokorga ayting: ba’zan boshqa niqob yoki sozlash yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Tez orada uyqu. Namlagichda suv, niqob, apparat: yotishdan oldin yoqing."
+  }
+ ]
+}

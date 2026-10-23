@@ -1,0 +1,79 @@
+{
+ "title": "Criança com resfriado ou virose: consulta com pediatra",
+ "also": [
+  "criança resfriada",
+  "virose infantil",
+  "pediatra para gripe",
+  "febre na criança"
+ ],
+ "what": "O pediatra examina a criança doente e orienta como tratar o resfriado em casa. Normalmente a virose passa sozinha em 5 a 7 dias.",
+ "why": "Para nariz escorrendo, tosse, dor de garganta e febre na criança.",
+ "duration": "a consulta leva normalmente de 15 a 20 minutos",
+ "tell_doctor": [
+  "Quando os sintomas começaram e qual foi a febre",
+  "O que você deu e em que dose",
+  "Como a criança está bebendo e quanto faz xixi",
+  "Se há manchas na pele, dor de ouvido ou respiração difícil",
+  "Doenças crônicas e alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Anotações",
+   "text": "Anote a temperatura e o horário em que deu o antitérmico."
+  },
+  {
+   "title": "Visita ou consulta",
+   "text": "Se a febre está alta, às vezes dá para pedir atendimento em casa. Confirme no posto ou com o plano de saúde."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa fácil de tirar para o exame."
+  }
+ ],
+ "bring": [
+  "Documento da criança",
+  "Caderneta de saúde",
+  "Anotações da febre e dos remédios",
+  "Água e lenços"
+ ],
+ "steps": [
+  "O médico pergunta sobre a doença",
+  "Olha a garganta e o nariz",
+  "Olha os ouvidos",
+  "Escuta os pulmões",
+  "Às vezes apalpa a barriga e o pescoço",
+  "Explica como tratar em casa e quando voltar"
+ ],
+ "feel": [
+  "O exame da garganta incomoda; a criança pode chorar, e isso é normal",
+  "O resto do exame não dói; dá para segurar o bebê no colo"
+ ],
+ "after": [
+  "Ofereça bastante líquido",
+  "Baixe a febre se a criança estiver mal; o médico diz a dose",
+  "Na virose, normalmente não precisa de antibiótico; dê só se o médico receitar",
+  "Se não melhorar em 3 dias, leve ao médico de novo"
+ ],
+ "red_flags": [
+  "A criança respira com dificuldade ou muito rápido, a pele afunda entre as costelas: ligue para a emergência",
+  "Manchas na pele que não somem ao apertar com um copo: ligue para a emergência",
+  "A criança está mole, não bebe, não faz xixi há muito tempo: procure o médico com urgência",
+  "Convulsão com febre: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Precisa de antibiótico no resfriado?",
+   "a": "Normalmente não; a virose é causada por vírus. Antibiótico só com receita do médico."
+  },
+  {
+   "q": "Quando pode voltar para a creche?",
+   "a": "Normalmente quando estiver sem febre e se sentindo bem. O médico vai dizer o prazo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a consulta com o pediatra. Leve a caderneta de saúde e anote a febre e os remédios que deu."
+  }
+ ]
+}

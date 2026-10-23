@@ -1,0 +1,67 @@
+{
+ "title": "Gematolog qabuli",
+ "also": [
+  "gematolog",
+  "qon shifokori",
+  "gematolog maslahati"
+ ],
+ "what": "Qon va qon hosil bo‘lishi kasalliklarini davolaydigan shifokor.",
+ "why": "Qon tahlilida o‘zgarishlar bo‘lganda: gemoglobin past, leykotsitlar va trombotsitlar ko‘p yoki kam. Shuningdek tez-tez ko‘karish va qon ketishda, limfa tugunlari kattalashganda.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Sizni nima bezovta qiladi: holsizlik, ko‘karishlar, qon ketishlar, ozish, terlash",
+  "Barcha dorilar, ayniqsa qonni suyultiruvchilar",
+  "Qon quyilganmi",
+  "Qarindoshlarda qon kasalliklari",
+  "Ayollar uchun — hayz qanday"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "So‘nggi vaqtdagi barcha qon tahlillarini oling — shifokorga dinamikasi muhim."
+  },
+  {
+   "title": "Tekshiruvlar",
+   "text": "Ultratovush va ko‘chirmalarni oling, agar qilingan bo‘lsa."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Oldingi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki o‘zi qadoqlari"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar haqida so‘raydi",
+  "Teri va shilliq qavatlarni ko‘radi",
+  "Limfa tugunlari va qorinni paypaslaydi",
+  "Tahlillarni o‘rganadi",
+  "Tekshiruv yoki davolash buyuradi"
+ ],
+ "feel": [
+  "Hech qanday noxush narsa yo‘q — oddiy ko‘rik",
+  "Qorin va limfa tugunlarini paypaslash og‘riqsiz"
+ ],
+ "after": [
+  "Ko‘pincha takroriy qon tahlili buyuriladi",
+  "Ba’zan qo‘shimcha tekshiruvlar kerak — shifokor nima uchun ekanini tushuntiradi"
+ ],
+ "red_flags": [
+  "To‘xtamayotgan kuchli qon ketish — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Gematologga yo‘llanma berishdi — bu qo‘rqinchlimi?",
+   "a": "Yo‘q. Ko‘pincha sabab oddiy, masalan temir yetishmasligi. Shifokor aniqlaydi."
+  },
+  {
+   "q": "Qanday tahlillarni olish kerak?",
+   "a": "Mavjud barcha qon tahlillarini, ayniqsa oxirgilarini."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga gematolog qabuli. So‘nggi vaqtdagi barcha qon tahlillarini oling."
+  }
+ ]
+}

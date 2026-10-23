@@ -1,0 +1,73 @@
+{
+ "title": "Bolalar urologi qabuli",
+ "also": [
+  "bolalar urologi",
+  "bola uchun urolog",
+  "bolalar urolog-androlog",
+  "o‘g‘il bolani urolog ko‘rigi"
+ ],
+ "what": "Shifokor bolaning jinsiy a’zolari va siydik tizimini ko‘radi. Ular to‘g‘ri rivojlanayotganini tekshiradi.",
+ "why": "O‘g‘il bolalarning rejali ko‘riklarida, siyish bilan muammolarda, siydik tutolmaslikda, moyakda shish yoki og‘riqda.",
+ "duration": "odatda 15–30 daqiqa, tavsiyalar darrov",
+ "tell_doctor": [
+  "Nima bezovta qilayotganini va qachondan beri",
+  "Bola qanchalik tez-tez siyishini va «avariyalar» bo‘lishini",
+  "Siydik yo‘llari infeksiyalari bo‘lgan-bo‘lmaganini",
+  "Operatsiyalar bo‘lganmi",
+  "Bola qanday dorilar ichayotganini"
+ ],
+ "prepare": [
+  {
+   "title": "Bola bilan suhbat",
+   "text": "Shifokor ko‘rishini va bu og‘riqsiz ekanini xotirjam tushuntiring. Shifokor bilan qo‘rqitmang."
+  },
+  {
+   "title": "Gigiyena",
+   "text": "Ertalab odatdagidek yuvinish, maxsus vositalarsiz."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Shifokor oldindan siydik tahlili yoki UZI buyurgan bo‘lsa, qabuldan oldin qiling."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Oldingi siydik tahlillari va UZI, agar bo‘lsa",
+  "Chaqaloq uchun taglik yoki almashtirish uchun ichki kiyim"
+ ],
+ "steps": [
+  "Shifokor sizdan shikoyatlar va bolaning rivojlanishi haqida so‘raydi",
+  "Bolaga belidan pastini yechishni aytishadi",
+  "Shifokor jinsiy a’zolarni ko‘radi, ba’zan tik turgan va yotgan holatda",
+  "Kerak bo‘lsa, qornini paypaslaydi",
+  "Shifokor nimani ko‘rganini tushuntiradi va tavsiyalar beradi"
+ ],
+ "feel": [
+  "Ko‘rik odatda og‘riqsiz",
+  "Bola xijolat bo‘lishi yoki yig‘lashi mumkin — siz yoningizdasiz, bu normal"
+ ],
+ "after": [
+  "UZI yoki tahlillar buyurilgan bo‘lsa, ularni qiling va qayta qabulga keling",
+  "Gigiyena bo‘yicha tavsiyalarga amal qiling"
+ ],
+ "red_flags": [
+  "Moyakda to‘satdan kuchli og‘riq yoki shish bo‘lsa — shoshilinch shifokorga, tez yordamni chaqiring (103)",
+  "Bola siya olmasa"
+ ],
+ "faq": [
+  {
+   "q": "Chaqaloqning teri qopini o‘zim ochishim kerakmi?",
+   "a": "Yo‘q. Buni zo‘rlab qilib bo‘lmaydi. Qanday parvarish qilishni shifokor aytadi."
+  },
+  {
+   "q": "O‘g‘il bolani urologga qaysi yoshdan olib borish kerak?",
+   "a": "Odatda rejali profilaktik ko‘riklarda ko‘rishadi. Shikoyat bo‘lsa — istalgan yoshda."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bolalar urologi qabuli. Bolaning hujjati va oldingi tahlillarni oling."
+  }
+ ]
+}

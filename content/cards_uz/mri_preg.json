@@ -1,0 +1,75 @@
+{
+ "title": "Homiladorlikda MRT",
+ "also": [
+  "homilador MRTsi",
+  "homila MRTsi",
+  "homiladorlik paytida MRT"
+ ],
+ "what": "Nurlanishsiz MRT. UTT ona yoki chaqaloq haqida to‘liq javob bermaganda homilador ayollarga qilinadi.",
+ "why": "Homila rivojlanishi, yo‘ldosh haqida savollar bo‘lganda, shuningdek, ona kasalliklarida aniq tekshiruv kerak bo‘lganda.",
+ "duration": "odatda 20–45 daqiqa, xulosa 1–3 kundan keyin",
+ "tell_doctor": [
+  "Homiladorlik muddati",
+  "Yurak stimulyatori, tanada metall bo‘lsa",
+  "Yopiq joylardan qo‘rqsangiz",
+  "Chalqancha uzoq yotish qiyin bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Muddat",
+   "text": "Shoshilinch sabab bo‘lmasa, MRT odatda birinchi trimestrdan keyin qilinadi. Shifokor hal qiladi."
+  },
+  {
+   "title": "Kontrast",
+   "text": "Homiladorlikda odatda kontrast yuborilmaydi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Alohida tayyorgarlik odatda kerak emas. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Metall",
+   "text": "Taqinchoq, soat, soch qisqichlarini yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Almashinuv kartasi va UTT",
+  "Hujjat"
+ ],
+ "steps": [
+  "Siz kiyimingizni almashtirib, metallni yechasiz",
+  "Stolga chalqancha yoki yonboshga yotasiz — qulay bo‘lganicha",
+  "Qoringa yengil g‘altak qo‘yiladi",
+  "Stol apparatga kiradi, quloqchin beriladi",
+  "Suratlar olinayotganda qimirlamay yotasiz",
+  "Ahvolingiz yomonlashsa — chaqiruv tugmasini bosing"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Apparatning qattiq taqillashi",
+  "Chalqancha yotganda bosh aylanishi mumkin — ayting, sizni yonboshga o‘girishadi"
+ ],
+ "after": [
+  "Darrov uyga ketsangiz bo‘ladi",
+  "Xulosa odatda 1–3 kundan keyin",
+  "Natijani o‘z shifokoringiz bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "MRT chaqaloq uchun xavfsizmi?",
+   "a": "MRT nurlanishdan foydalanmaydi. Shifokorlar uni homilador ayollarga haqiqatan kerak bo‘lganda qilishadi."
+  },
+  {
+   "q": "Shovqin chaqaloqning eshitishiga zarar qilmaydimi?",
+   "a": "Bu isbotlanmagan. Shubhalaringizni shifokor bilan muhokama qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga MRT. Almashinuv kartasi va UTTni oling. Uydan chiqishdan oldin taqinchoqlarni yeching."
+  }
+ ]
+}

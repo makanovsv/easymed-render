@@ -1,0 +1,80 @@
+{
+ "title": "Teri allergiya sinamalari",
+ "also": [
+  "allergosinamalar",
+  "skarifikatsion sinamalar",
+  "prik-test",
+  "allergiya uchun teri sinamalari",
+  "teridagi allergotest"
+ ],
+ "what": "Bilak yoki orqa terisiga allergen eritmalarini tomizib, terini sal tirnashadi. 15–20 daqiqadan keyin qayerda qizarish va do‘mboqcha paydo bo‘lganini ko‘rishadi.",
+ "why": "Allergik burun oqishi, toshma, astma, ovqat yoki chaqishga reaksiyalarda — aynan nimaga allergiya borligini tushunish uchun.",
+ "duration": "kutish bilan birga odatda 30–60 daqiqa, natija darrov",
+ "tell_doctor": [
+  "Barcha dorilar — ayniqsa allergiya, gormonlar va bosim tabletkalari",
+  "Og‘ir allergik reaksiyalar yoki shish bo‘lgan bo‘lsa",
+  "Hozir allergiya yoki astma zo‘rayganmi",
+  "Homilador bo‘lsangiz",
+  "Qo‘llarda yoki orqada teri kasalliklari"
+ ],
+ "prepare": [
+  {
+   "title": "Allergiya dorilari",
+   "text": "Ular natijani yashirishi mumkin. O‘zingiz bekor qilmang — shifokorga ayting, qaysi dorini necha kun oldin to‘xtatishni u hal qiladi."
+  },
+  {
+   "title": "Sog‘liq",
+   "text": "Sinamalar odatda zo‘rayish bo‘lmaganda qilinadi. Hozir kuchli allergiya yoki shamollash bo‘lsa, ular ko‘chiriladi."
+  },
+  {
+   "title": "Teri",
+   "text": "Sinama kuni qo‘l va orqaga krem surtmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Oson ko‘tariladigan yeng yoki orqani ochadigan kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Dorilar ro‘yxati",
+  "Oldingi reaksiyalar va allergiya tahlillari haqidagi yozuvlar"
+ ],
+ "steps": [
+  "Shifokor qaysi allergenlarni tekshirishni aniqlaydi",
+  "Teri artiladi va ruchka bilan joylar belgilanadi",
+  "Har bir belgiga allergen eritmasi tomiziladi",
+  "Tomchi orqali teri bir martalik lanset bilan sal tirnaladi yoki sanchiladi",
+  "15–20 daqiqa teriga tegmasdan kutasiz",
+  "Shifokor do‘mboqchalarni o‘lchab, natijani yozadi"
+ ],
+ "feel": [
+  "Tirnaganda yengil chaqqonlik",
+  "Reaksiya joylarida — chivin chaqqandek qichishish, qizarish va do‘mboqcha"
+ ],
+ "after": [
+  "Qichishish va do‘mboqchalar odatda bir necha soatda o‘tadi",
+  "Terini qashimang",
+  "Natijani shifokor darrov tushuntiradi"
+ ],
+ "red_flags": [
+  "Sinamalardan keyin yuz yoki lab shishishi, nafas qiyinlashishi, kuchli holsizlik — tez yordamni chaqiring (103)",
+  "Butun badanda kuchli toshma — darrov shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Bolalarga sinama qilsa bo‘ladimi?",
+   "a": "Ha, odatda bir necha yoshdan. Yosh va usulni allergolog hal qiladi."
+  },
+  {
+   "q": "Nega allergiya tabletkalarini ichmaslik kerak?",
+   "a": "Ular teri reaksiyasini bostiradi, sinamalar «hech narsa yo‘q» deb ko‘rsatishi mumkin. Necha kun oldin to‘xtatishni shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "3 kundan keyin allergosinamalar. Allergiya tabletkalarini oldindan to‘xtatish kerakmi, shifokordan so‘rang. O‘zingiz bekor qilmang."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "title": "Osteoporozga qarshi tomchi (zoledron kislota)",
+ "also": [
+  "osteoporozga qarshi kapelnitsa",
+  "zoledron kislota",
+  "suyaklarni tomchi bilan mustahkamlash",
+  "venaga bisfosfonat"
+ ],
+ "what": "Suyaklarni mustahkamlaydigan dori tomchi orqali venaga yuboriladi. Odatda buni yilda bir marta qilishadi.",
+ "why": "Osteoporozda, sinish xavfini kamaytirish uchun, tabletkalar mos kelmasa.",
+ "duration": "tomchi odatda 15–30 daqiqa, butun tashrif taxminan bir soat",
+ "tell_doctor": [
+  "Buyrak kasalliklari",
+  "Tishlarni rejali davolash yoki olish",
+  "Kalsiy yoki D vitamini past",
+  "Barcha dorilar",
+  "Homiladorlik yoki emizish"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Tomchidan oldin odatda buyrak ishi va kalsiy tekshiriladi."
+  },
+  {
+   "title": "Suv",
+   "text": "Shifokor cheklamagan bo‘lsa, oldin va keyin ko‘proq suv ichgan yaxshi."
+  },
+  {
+   "title": "Tishlar",
+   "text": "Tishlarni oldindan davolatgan yaxshi. Stomatologga bu preparatni olayotganingizni ayting."
+  },
+  {
+   "title": "Vitaminlar",
+   "text": "Kalsiy va D vitaminini shifokor buyurganidek qabul qiling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va tahlil natijalari",
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Hamshira tahlillar va ahvolingizni tekshiradi",
+  "Venaga kateter qo‘yiladi",
+  "Tomchi ulanadi",
+  "Dori 15–30 daqiqa tomadi",
+  "Kateter olinadi, joyi bosiladi"
+ ],
+ "feel": [
+  "Tomchining o‘zi odatda og‘rimaydi",
+  "Dastlabki 1–3 kunda harorat, badan og‘rig‘i, holsizlik bo‘lishi mumkin — shamollashdagidek",
+  "Odatda bunday reaksiya birinchi tomchidan keyin bo‘ladi"
+ ],
+ "after": [
+  "Kun davomida suv iching",
+  "Badan og‘rig‘ida — shifokor ma’qullagan isitma tushiruvchi mumkin",
+  "Keyingi tomchi — odatda bir yildan keyin, muddatni shifokor aytadi"
+ ],
+ "red_flags": [
+  "Jag‘da qattiq og‘riq yoki og‘izdagi bitmaydigan yara",
+  "Songa yoki chovda yangi og‘riq",
+  "Toshma, yuzning shishishi, nafas olishning qiyinlashishi — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Nega tomchidan keyin gripp bo‘lgandek bo‘ladi?",
+   "a": "Bu organizmning birinchi dozaga tez-tez uchraydigan reaksiyasi. Odatda 1–3 kunda o‘tadi."
+  },
+  {
+   "q": "Stomatologga aytish kerakmi?",
+   "a": "Ha, albatta. Ayniqsa tish olish yoki implantlardan oldin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga suyaklar uchun tomchi. Ko‘proq suv iching, tahlillarni oling."
+  }
+ ]
+}

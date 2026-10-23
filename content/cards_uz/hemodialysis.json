@@ -1,0 +1,79 @@
+{
+ "title": "Gemodializ",
+ "also": [
+  "dializ",
+  "gemodializ",
+  "sun’iy buyrak",
+  "sun’iy buyrak apparati"
+ ],
+ "what": "Buyraklar uddalay olmaganda apparat qonni tozalaydi. Qon filtrdan o‘tib, qaytib kiradi.",
+ "why": "Og‘ir buyrak yetishmovchiligida — odatda doimiy, haftasiga bir necha marta.",
+ "duration": "bir seans odatda taxminan 4 soat, odatda haftasiga 3 marta",
+ "tell_doctor": [
+  "Barcha dorilar — ularning bir qismi seansdan keyin beriladi",
+  "O‘tgan seansdan keyin o‘zingizni qanday his qildingiz",
+  "Vazn o‘zgargan, shish yoki hansirash paydo bo‘lgan bo‘lsa",
+  "Fistula og‘risa, shishsa yoki «shovqin» chiqarmasa"
+ ],
+ "prepare": [
+  {
+   "title": "Vazn",
+   "text": "Har kuni tortiling. Seanslar orasida qancha ichayotganingizni kuzating."
+  },
+  {
+   "title": "Ichimlik va ovqat",
+   "text": "Suv, tuz, kaliy va fosforni cheklashni shifokor buyuradi. Ularni o‘zingiz o‘zgartirmang."
+  },
+  {
+   "title": "Fistula",
+   "text": "Fistulali qo‘l: tor kiyim, soat, bosim va ukollarsiz. Har kuni shovqin va titrashni tekshiring."
+  }
+ ],
+ "bring": [
+  "Dorilar ro‘yxati",
+  "Vazn va bosim yozuvlari",
+  "Ko‘rpacha, kitob yoki quloqchin",
+  "Yengil ovqat, agar ruxsat etilgan bo‘lsa"
+ ],
+ "steps": [
+  "Sizni tortishadi va bosimni o‘lchashadi",
+  "Hamshira qo‘lni ishlab, fistulaga ikkita igna kiritadi yoki kateterga ulanadi",
+  "Qon apparatga boradi, tozalanadi va qaytib kiradi",
+  "Bir necha soat yotasiz yoki o‘tirasiz",
+  "Hamshira bosim va ahvolingizni kuzatadi",
+  "Oxirida ignalar olinadi va ukol joylari bosiladi"
+ ],
+ "feel": [
+  "Fistulaga igna sanchilishi",
+  "Seans paytida tirishish, holsizlik, bosh aylanishi bo‘lishi mumkin — hamshiraga ayting",
+  "Seansdan keyin ko‘pincha charchoq"
+ ],
+ "after": [
+  "Ukol joylarini qon ketishi to‘xtaguncha bosib turing",
+  "Sekin turing — boshingiz aylanishi mumkin",
+  "Parhez va suv cheklovini bajaring",
+  "Seanslarni o‘tkazib yubormang"
+ ],
+ "red_flags": [
+  "Fistuladan to‘xtamaydigan qon ketish — bosib turing va tez yordamni chaqiring (103)",
+  "Kuchli hansirash, ko‘krakda og‘riq — tez yordamni chaqiring (103)",
+  "Fistula shovqin chiqarishni va titrashni to‘xtatsa — darrov bo‘limga qo‘ng‘iroq qiling",
+  "Harorat, titroq, kirish joyining qizarishi"
+ ],
+ "faq": [
+  {
+   "q": "Seansni o‘tkazib yuborsa bo‘ladimi?",
+   "a": "Yo‘q. O‘tkazib yuborish xavfli: qonda kaliy va suyuqlik to‘planadi. Biror narsa xalaqit bersa — darrov bo‘limga qo‘ng‘iroq qiling."
+  },
+  {
+   "q": "Sayohat qilsa bo‘ladimi?",
+   "a": "Ha, boshqa shaharda dializni oldindan kelishib olsangiz. Bo‘lim bilan muhokama qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga dializ. Ertalab tortiling, dorilar ro‘yxati va ko‘rpachani oling."
+  }
+ ]
+}

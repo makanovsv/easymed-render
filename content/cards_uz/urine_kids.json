@@ -1,0 +1,69 @@
+{
+ "title": "Chaqaloqdan siydikni qanday yig‘ish",
+ "also": [
+  "emizikli bolada siydik",
+  "chaqaloq uchun siydik yig‘gich",
+  "bolaning siydigini qanday yig‘ish",
+  "chaqaloqda siydik tahlili"
+ ],
+ "what": "Tahlil uchun chaqaloqning toza siydigi kerak. U maxsus bolalar siydik yig‘gichiga yoki steril bankaga yig‘iladi.",
+ "why": "Profilaktik ko‘rikda, aniq sababsiz haroratda, siyganda yig‘laganda, kasallikdan keyin.",
+ "duration": "yig‘ish bir necha daqiqadan bir soatgacha, natija odatda 1 kunda",
+ "tell_doctor": [
+  "Chaqaloqda taglik toshmasi yoki teri tirnashi bo‘lsa",
+  "U dori qabul qilsa",
+  "Tahlil ekma uchun kerak bo‘lsa — yig‘ish ayniqsa toza bo‘lishi kerak"
+ ],
+ "prepare": [
+  {
+   "title": "Siydik yig‘gich",
+   "text": "Dorixonadan steril bolalar siydik yig‘gichini — o‘g‘il va qiz bolalar uchun alohida — va steril idish sotib oling."
+  },
+  {
+   "title": "Gigiyena",
+   "text": "Yig‘ishdan oldin chaqaloqni iliq suv va sovun bilan oldindan orqaga yuving va quritib oling."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Ertalabki siydik yaxshiroq. Laboratoriyaga odatda 1–2 soat ichida olib borish kerak."
+  }
+ ],
+ "bring": [
+  "Siydikli idish",
+  "Yo‘llanma",
+  "Bolaning hujjatlari"
+ ],
+ "steps": [
+  "Chaqaloqni yuving va terisini quriting",
+  "Siydik yig‘gichning himoya qatlamini oling",
+  "Uni yopishtiring: o‘g‘il bolaga — jinsiy a’zoni ichiga, qiz bolaga — jinsiy lablarga",
+  "Ustidan taglik kiygizsa bo‘ladi, lekin qattiq emas",
+  "Chaqaloq siyishi bilan siydik yig‘gichni olib, siydikni idishga quying",
+  "Mahkam yoping va laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Chaqaloq yopishqoq chetidan injiqlik qilishi mumkin",
+  "Siydik yig‘gichni teri tirnalmasligi uchun ehtiyotkorlik bilan oling"
+ ],
+ "after": [
+  "Natija odatda ertasi kuni",
+  "Pediatr tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Siydikni taglikdan siqib olsa yoki tog‘oradan olsa bo‘ladimi?",
+   "a": "Yo‘q. Bunday siydik iflos va tahlil noaniq bo‘ladi. Siydik yig‘gich yoki toza banka kerak."
+  },
+  {
+   "q": "Chaqaloq uzoq siymasa nima qilish kerak?",
+   "a": "Ichirish yoki emizish mumkin. Ba’zan iliq suv yoki qorinchasini silash yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga chaqaloqning siydik tahlili. Steril siydik yig‘gich va idishni tayyorlang."
+  }
+ ]
+}

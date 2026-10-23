@@ -1,0 +1,78 @@
+{
+ "title": "Bolalarda yaqindan ko‘rishni nazorat qilish (tungi linzalar, tomchilar)",
+ "also": [
+  "tungi linzalar",
+  "ortokeratologiya",
+  "yaqindan ko‘rish kuchayishiga qarshi tomchilar",
+  "miopiyani nazorat qilish"
+ ],
+ "what": "Shifokor bolada yaqindan ko‘rishning kuchayishini sekinlatish usulini tanlaydi. Bu tungi linzalar, maxsus ko‘zoynak yoki tomchilar bo‘lishi mumkin.",
+ "why": "Bolada yaqindan ko‘rish bor va u yildan yilga kuchayib borayotgan bo‘lsa.",
+ "duration": "tanlash odatda 1–2 soat, davolash — yillar, nazorat har bir necha oyda",
+ "tell_doctor": [
+  "Yaqindan ko‘rish qanchalik tez kuchaygan va qanday ko‘zoynaklar bo‘lgan",
+  "Ota-onada yaqindan ko‘rish bormi",
+  "Bola telefon va kitoblar bilan qancha vaqt o‘tkazadi",
+  "Allergiyalar va ko‘z kasalliklari bo‘lganmi",
+  "Qanday tomchilar yoki dorilar allaqachon sinab ko‘rilgan"
+ ],
+ "prepare": [
+  {
+   "title": "Ko‘zoynak",
+   "text": "Bolaning ko‘zoynagini va avvalgi retseptlarni oling."
+  },
+  {
+   "title": "Tekshiruv",
+   "text": "Odatda ko‘zning uzunligi va shox parda shakli o‘lchanadi — bu og‘rimaydi."
+  },
+  {
+   "title": "Odatlar",
+   "text": "Bola ko‘chada qancha sayr qilishini o‘ylab ko‘ring — shifokor so‘raydi."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Ko‘zoynak va avvalgi retseptlar",
+  "Okulistdan ko‘chirmalar"
+ ],
+ "steps": [
+  "Shifokor ko‘rish va refraksiyani tekshiradi",
+  "Asboblarda ko‘zning uzunligi va shox parda shaklini o‘lchaydi",
+  "Nazorat variantlarini siz bilan muhokama qiladi",
+  "Tungi linzalar tanlansa — sinov linzalarini tanlab, kiyish va yechishni o‘rgatishadi",
+  "Tomchilar tanlansa — qo‘llash tartibini tushuntirishadi",
+  "Nazorat sanasini belgilashadi"
+ ],
+ "feel": [
+  "Tekshiruv og‘rimaydi",
+  "Tungi linzalar dastlabki kunlarda sezilib turadi, keyin odatda ko‘nikiladi",
+  "Tomchilar qorachiqni biroz kengaytirishi va yorug‘likka sezgirlik berishi mumkin"
+ ],
+ "after": [
+  "Tungi linzalar — qo‘l va eritma gigienasiga qat’iy rioya qiling",
+  "Ko‘chada ko‘proq sayr qiling — bu ham yordam beradi",
+  "O‘qish va ekran bilan ishlashda tanaffus qiling",
+  "Nazorat — shifokor jadvali bo‘yicha, odatda 3–6 oyda bir marta"
+ ],
+ "red_flags": [
+  "Linzada ko‘z qizarsa, og‘risa, yoshlansa — linzani yeching va shoshilinch shifokorga boring",
+  "Ko‘rishning keskin yomonlashuvi",
+  "Ko‘zda yiring yoki oq dog‘"
+ ],
+ "faq": [
+  {
+   "q": "Bolada yaqindan ko‘rishni davolab bo‘ladimi?",
+   "a": "Uni butunlay yo‘qotib bo‘lmaydi, lekin kuchayishini sekinlatish mumkin."
+  },
+  {
+   "q": "Tungi linzalar necha yoshdan?",
+   "a": "Odatda bola ota-onasi yordamida ularni ehtiyotkorlik bilan parvarish qila oladigan yoshdan. Buni shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga yaqindan ko‘rishni nazorat qilish bo‘yicha qabul. Bolaning ko‘zoynagi va avvalgi retseptlarni oling."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+mammologist|gyn|Приём маммолога|Breast specialist consultation|office|L|1
+uro_kids|uro|Приём детского уролога|Paediatric urology visit|uro_room|L|2
+vasectomy|uro|Вазэктомия|Vasectomy|or_room|H|3
+varicocele|uro|Операция при варикоцеле|Varicocele surgery|or_room|H|3
+hydrocele|uro|Операция при водянке яичка|Hydrocele surgery|or_room|H|3
+turp|uro|ТУР простаты|Prostate surgery (TURP)|or_room|H|3
+kidney_stone_lith|uro|Контактная литотрипсия|Laser kidney stone removal|or_room|H|3
+bladder_inst|uro|Инстилляция мочевого пузыря|Bladder instillation|uro_room|M|3
+urodynamics|uro|Уродинамическое исследование|Urodynamic test|uro_room|M|3
+ed_treat|uro|Лечение эректильной дисфункции|Erectile dysfunction treatment|office|L|2
+prostate_massage|uro|Секрет простаты|Prostate fluid test|uro_room|M|3
+catheter_home|uro|Уход за катетером дома|Caring for a urinary catheter at home|home|L|3
+cystostomy|uro|Замена цистостомы|Suprapubic catheter change|uro_room|M|3
+cardiologist|cardio|Приём кардиолога|Cardiology consultation|office|L|1
+angiography_legs|cardio|Ангиография сосудов ног|Leg angiography|cath_lab|H|3
+carotid_stent|cardio|Стентирование сонной артерии|Carotid stenting|cath_lab|H|3
+cardioversion|cardio|Кардиоверсия|Cardioversion|ward|H|3
+icd|cardio|Имплантация кардиовертера-дефибриллятора|ICD implantation|cath_lab|H|3
+pacemaker_check|cardio|Проверка кардиостимулятора|Pacemaker check|func_room|L|2
+sclerotherapy|cardio|Склеротерапия вен|Vein sclerotherapy|proc_room|M|2
+compression|cardio|Подбор компрессионного трикотажа|Compression stockings fitting|office|L|2
+cabg|cardio|Аортокоронарное шунтирование|Coronary bypass surgery (CABG)|or_room|H|3
+valve|cardio|Замена клапана сердца|Heart valve replacement|or_room|H|3
+lap_chole_prep|surg|Подготовка к лапароскопии|Preparing for laparoscopic surgery|ward|M|1
+hernia_post|surg|Послеоперационная грыжа|Incisional hernia repair|or_room|H|3
+fissure|surg|Лечение анальной трещины|Anal fissure treatment|proc_room|M|2
+pilonidal|surg|Удаление эпителиального копчикового хода|Pilonidal sinus surgery|or_room|H|3
+hemorrhoid_band|surg|Лигирование геморроя кольцами|Haemorrhoid banding|proc_room|M|2
+varicose_surg|surg|Флебэктомия|Varicose vein surgery|or_room|H|3

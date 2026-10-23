@@ -1,0 +1,76 @@
+{
+ "title": "Ter testi",
+ "also": [
+  "ter sinamasi",
+  "terdagi xloridlar",
+  "mukovissidozga test",
+  "bolada ter testi"
+ ],
+ "what": "Qo‘l terisida ozgina terlash chaqiriladi va ter yig‘iladi. Undagi tuz o‘lchanadi — bu mukovissidozni tekshirishga yordam beradi.",
+ "why": "Yangi tug‘ilgan chaqaloq skrininggi mukovissidoz xavfini ko‘rsatganda, tez-tez bronxit va zotiljamda, vazn yomon ortganda, yog‘li najasda.",
+ "duration": "odatda 30–60 daqiqa, natija ko‘pincha o‘sha kuni",
+ "tell_doctor": [
+  "Bolaning qo‘llarida ekzema yoki tirnash bo‘lsa",
+  "U gormon yoki siydik haydovchi dori qabul qilsa",
+  "Hozir kasal bo‘lsa yoki harorati bo‘lsa",
+  "Chaqaloqning vazni va necha haftalikligi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Maxsus tayyorgarlik odatda kerak emas. Chaqaloqni odatdagidek ovqatlantiring."
+  },
+  {
+   "title": "Teri",
+   "text": "Test kuni qo‘llarga krem va moy surtmang."
+  },
+  {
+   "title": "Sog‘liq",
+   "text": "Bola hozir kasal bo‘lsa, testni keyinga qoldirish kerak-kerakmasligini so‘rang."
+  },
+  {
+   "title": "Bolalar",
+   "text": "O‘yinchoq, kitob yoki multfilm oling — yarim soat atrofida o‘tirish kerak."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bolaning hujjatlari",
+  "Skrining haqidagi ma’lumotnoma, agar bo‘lsa",
+  "O‘yinchoq va yengil tamaddi"
+ ],
+ "steps": [
+  "Bilakdagi teri yuviladi va artiladi",
+  "Gelli ikkita kichik elektrod qo‘yiladi va taxminan 5 daqiqa kuchsiz tok beriladi",
+  "Elektrodlar olinadi, o‘sha joyga ter yig‘gich mahkamlanadi",
+  "Taxminan 30 daqiqa chaqaloq tinch o‘tiradi, qo‘li yopib qo‘yiladi",
+  "Yig‘gich olinib, laboratoriyaga yuboriladi"
+ ],
+ "feel": [
+  "Elektrodlar ostida biroz chuvillash yoki iliqlik",
+  "Og‘riq yo‘q, lekin bolaga kutish zerikarli bo‘lishi mumkin",
+  "Keyin teri biroz qizarishi mumkin"
+ ],
+ "after": [
+  "Qizarish bir necha soatda o‘tadi",
+  "Natija ko‘pincha o‘sha kuni yoki 1–2 kunda",
+  "Ter oz yig‘ilsa, test ba’zan takrorlanadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tok bolaga xavfli emasmi?",
+   "a": "Yo‘q. Tok juda kuchsiz, u faqat terining ter chiqarishiga yordam beradi."
+  },
+  {
+   "q": "Natija chegaradosh bo‘lsa-chi?",
+   "a": "Shifokor testni takrorlashni yoki genetik tahlilni buyurishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ter testi. Bolaning qo‘liga krem surtmang va yarim soatlik kutish uchun o‘yinchoq oling."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Retirada de objeto do ouvido e do nariz da criança",
+ "also": [
+  "objeto no ouvido",
+  "criança colocou algo no nariz",
+  "corpo estranho no nariz",
+  "miçanga no nariz"
+ ],
+ "what": "O otorrino tira com cuidado o objeto do ouvido ou do nariz da criança com um instrumento especial.",
+ "why": "Quando a criança colocou no nariz ou no ouvido uma miçanga, um brinquedo, comida, ou quando entrou um inseto.",
+ "duration": "normalmente de 5 a 20 minutos",
+ "tell_doctor": [
+  "O que entrou e quando",
+  "Se tentaram tirar em casa",
+  "Se há sangue, secreção ou dor",
+  "Se a criança tem alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Não tire sozinho",
+   "text": "Não tente tirar com pinça ou cotonete. Pode empurrar mais para dentro."
+  },
+  {
+   "title": "Bateria",
+   "text": "Se for uma bateria de botão ou um ímã, vá ao médico imediatamente."
+  },
+  {
+   "title": "Criança",
+   "text": "Acalme a criança. Diga que o médico vai ajudar rapidinho."
+  }
+ ],
+ "bring": [
+  "Documento da criança",
+  "O brinquedo favorito",
+  "Lenços"
+ ],
+ "steps": [
+  "O médico examina o nariz ou o ouvido com uma lanterna",
+  "A criança fica no colo do pai ou da mãe para não se mexer",
+  "Às vezes pingam gotas no nariz",
+  "O médico tira o objeto com uma pinça, um ganchinho ou lavando",
+  "Confere se não ficou nenhum pedaço"
+ ],
+ "feel": [
+  "A criança fica com medo e incomodada, pode chorar",
+  "Normalmente é rápido. Acalme e elogie a criança"
+ ],
+ "after": [
+  "Às vezes sai um pouco de sangue do nariz. Isso passa",
+  "O médico pode receitar gotas",
+  "Guarde objetos pequenos longe das crianças"
+ ],
+ "red_flags": [
+  "Bateria no nariz ou no ouvido: vá ao médico com urgência, ligue para a emergência",
+  "A criança tosse, sufoca ou chia: ligue para a emergência",
+  "Dor forte, sangue ou pus depois",
+  "Mau cheiro saindo de um lado do nariz: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Dá para tirar em casa?",
+   "a": "Só se o objeto estiver à vista e sair fácil. Se não, vá ao médico: dá para empurrar mais para dentro."
+  },
+  {
+   "q": "Por que a bateria é perigosa?",
+   "a": "Ela queima os tecidos rapidamente. Precisa de ajuda urgente."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Não tente tirar o objeto sozinho. Vamos ao otorrino."
+  }
+ ]
+}

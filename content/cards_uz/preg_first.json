@@ -1,0 +1,81 @@
+{
+ "title": "Homiladorlik bo‘yicha hisobga turish",
+ "also": [
+  "hisobga turish",
+  "homiladorlik bo‘yicha birinchi qabul",
+  "ayollar maslahatxonasida hisobga turish",
+  "homiladorlik hisobi"
+ ],
+ "what": "Homiladorlik munosabati bilan ginekologga birinchi tashrif. Shifokor homiladorlikni tasdiqlaydi, sog‘lig‘ingiz haqida so‘raydi va kuzatuv rejasini tuzadi.",
+ "why": "Homiladorlikni bilishingiz bilanoq. Odatda 12 haftagacha hisobga turishni maslahat berishadi.",
+ "duration": "qabul odatda 30–60 daqiqa; tahlillar — 1–7 kunda",
+ "tell_doctor": [
+  "Oxirgi hayzning birinchi kuni sanasi",
+  "Ichayotgan barcha dorilar va vitaminlar",
+  "Surunkali kasalliklar: bosim, qalqonsimon bez, diabet",
+  "Oldingi homiladorliklar, tug‘ruqlar, tushishlar, operatsiyalar",
+  "Oiladagi kasalliklar, allergiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Doimiy dorilarni o‘zingiz bekor qilmang. Shifokorga ayting, u homiladorlikda nimaga mumkinligini hal qiladi."
+  },
+  {
+   "title": "Savollar",
+   "text": "Nimani so‘ramoqchi ekaningizni oldindan yozib qo‘ying: ovqatlanish, ish, sport, vitaminlar."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Qonni ko‘pincha o‘sha kuni olishadi. Och qoringa kelish kerakmi, aniqlang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Bo‘lsa, UZI va testlar natijalari",
+  "Dorilar ro‘yxati",
+  "Surunkali kasalliklar bo‘yicha tibbiy ko‘chirmalar"
+ ],
+ "steps": [
+  "Shifokor sog‘lig‘ingiz va oldingi homiladorliklar haqida so‘raydi",
+  "Bosim, bo‘y va vaznni o‘lchaydi",
+  "Ginekologik ko‘rik o‘tkazadi va surtmalar oladi",
+  "Muddatni va taxminiy tug‘ruq sanasini hisoblaydi",
+  "Tahlillar va UZI ga yo‘llanma beradi",
+  "Tashriflar rejasini va xavotirli belgilarda nima qilishni tushuntiradi"
+ ],
+ "feel": [
+  "Kreslosidagi ko‘rik noxush bo‘lishi mumkin, lekin og‘rimaydi",
+  "Qon olinganda sanchiq"
+ ],
+ "after": [
+  "Ro‘yxat bo‘yicha tahlillarni topshiring",
+  "Keyingi tashrif odatda 2–4 haftadan keyin — sanani shifokor aytadi",
+  "Shifokor buyurgan vitaminlarni ichishni boshlang"
+ ],
+ "red_flags": [
+  "Jinsiy yo‘llardan qonli ajralmalar",
+  "Qorin pastida kuchli og‘riq — tez yordamni chaqiring (103)",
+  "Kuniga ko‘p marta qayt qilish, hatto suv ham turmaydi"
+ ],
+ "faq": [
+  {
+   "q": "Qachon hisobga turgan yaxshi?",
+   "a": "Odatda 12 haftagacha. Shunda muhim tahlillar va birinchi skriningni ulgurishadi."
+  },
+  {
+   "q": "Homiladorlik boshida nimadir ichish kerakmi?",
+   "a": "Odatda foliy kislotasini buyurishadi. Qolganlari — faqat shifokor maslahati bilan."
+  },
+  {
+   "q": "Ishlashda davom etsa bo‘ladimi?",
+   "a": "Odatda ha. Ish zararli yoki og‘ir bo‘lsa, shifokor bilan muhokama qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga hisobga turish. Oxirgi hayz sanasini eslang va dorilar ro‘yxatini oling."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "title": "Kichik chanoq MRTsi",
+ "also": [
+  "kichik chanoq a’zolari MRTsi",
+  "bachadon va tuxumdonlar MRTsi",
+  "chanoq MRTsi"
+ ],
+ "what": "Kichik chanoq a’zolarining magnit maydondagi suratlari, nurlanishsiz. Bachadon, tuxumdonlar, qovuq, to‘g‘ri ichak va limfa tugunlari ko‘rinadi.",
+ "why": "Qorin pastida og‘riqda, miomalar va kistalarda, UTT ma’lumotlarini aniqlashtirish, operatsiyadan oldin va kuzatuv uchun.",
+ "duration": "odatda 30–45 daqiqa, kontrast bilan uzoqroq; xulosa 1–3 kundan keyin",
+ "tell_doctor": [
+  "Yurak stimulyatori, defibrillyator yoki elektronikali boshqa implant",
+  "Tanadagi metall: protezlar, plastinkalar, tomirlardagi klipsalar, parchalar",
+  "Homilador yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Yopiq joylardan qo‘rqsangiz — shifokor qanday yordam berishni aytadi",
+  "Bachadon ichida spiral bo‘lsa — qaysi ekanini ayting"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda ichak kamroq qimirlashi uchun 3–4 soat yemaslik. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Qovuq",
+   "text": "Ko‘pincha qovuq o‘rtacha to‘la bo‘lishini so‘rashadi: tekshiruvdan bir soat oldin siymaslik. Aniqlab oling."
+  },
+  {
+   "title": "Sikl",
+   "text": "Ayollar uchun ba’zan sikl ma’lum kunlari qulayroq — yo‘llanma bergan shifokordan so‘rang."
+  },
+  {
+   "title": "Metall",
+   "text": "Barcha metallni yeching: taqinchoq, soat, soch qisqichlari, pirsing. Telefon va kartalarni shkafchada qoldiring."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi kichik chanoq UTT va MRTlari",
+  "Kontrast bo‘lsa, kreatinin tahlili"
+ ],
+ "steps": [
+  "Siz kiyimingizni almashtirib, barcha metallni shkafchada qoldirasiz",
+  "Stolga yotasiz, tekshiriladigan hududga yumshoq g‘altak-qoplama qo‘yiladi",
+  "Ba’zan ichak kamroq qimirlashi uchun dori yuboriladi",
+  "Apparat qattiq taqillaydi — quloqchin yoki quloq tiqini berishadi",
+  "Qimirlamay yotish kerak, siz bilan aloqa orqali gaplashadi",
+  "Qo‘lingizda chaqiruv tugmasi bor — xodimni istalgan paytda chaqirish mumkin",
+  "Kontrast bilan bo‘lsa — oxirida tomirga yuboriladi"
+ ],
+ "feel": [
+  "Og‘rimaydi, lekin shovqinli va tor",
+  "Ba’zan tekshiruv hududida issiqlik — bu normal",
+  "Kontrastda — tomirda salqinlik"
+ ],
+ "after": [
+  "Darrov o‘z ishlaringizga qaytishingiz mumkin",
+  "Kontrastdan keyin, shifokor boshqacha demagan bo‘lsa, ko‘proq suv iching",
+  "Xulosa — ginekolog, urolog yoki proktologga"
+ ],
+ "red_flags": [
+  "Kontrastdan keyin qichishish, toshma, yuz shishishi, nafas olish qiyin — darrov xodimga ayting yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Hayz paytida chanoq MRTsi qilsa bo‘ladimi?",
+   "a": "Odatda mumkin, lekin ba’zi vazifalar uchun boshqa kunlar yaxshiroq. Shifokordan aniqlab oling."
+  },
+  {
+   "q": "Spiralni olib tashlash kerakmi?",
+   "a": "Odatda yo‘q. U haqda oldindan ayting."
+  },
+  {
+   "q": "Plomba va qoplamalar bilan MRT qilsa bo‘ladimi?",
+   "a": "Ha. Plomba va oddiy qoplamalar halaqit bermaydi. Implantlar va protezlar haqida oldindan ayting, shifokor tekshiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Tez orada kichik chanoq MRTsi. Odatda 3–4 soat yemang. Barcha metallni yeching."
+  }
+ ]
+}

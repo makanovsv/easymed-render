@@ -1,0 +1,74 @@
+{
+ "title": "Sut tishlari kariesini davolash",
+ "also": [
+  "sut tishlarini davolash",
+  "bolaga plomba",
+  "bolalar kariesi",
+  "sut tishini davolash"
+ ],
+ "what": "Tish shifokori sut tishidagi kovakni tozalaydi va plomba qo‘yadi. Shunda tish doimiy tishga almashguncha saqlanadi.",
+ "why": "Sut tishida karies bo‘lganda: qoramtir dog‘, kovak yoki bola og‘riqqa shikoyat qilsa.",
+ "duration": "odatda bitta tish uchun 20–40 daqiqa",
+ "tell_doctor": [
+  "Bolaning allergiyalarini, ayniqsa og‘riqsizlantiruvchiga",
+  "Surunkali kasalliklar va ichayotgan dorilarini",
+  "Bola oldingi davolashni qanday o‘tkazganini",
+  "Bola juda qo‘rqsa: shifokor mos yondashuvni tanlaydi"
+ ],
+ "prepare": [
+  {
+   "title": "Kayfiyat",
+   "text": "Bolaga shifokor tishchalarni sanab, tozalashini xotirjam tushuntiring. Ukol va og‘riq bilan qo‘rqitmang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Qabuldan 1–2 soat oldin bolani ovqatlantiring."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Bola odatda tetik bo‘ladigan vaqtni tanlang, uyqu oldidan emas."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Sevimli o‘yinchoq",
+  "Bola ichsa, dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Bolani kreslo‘ga o‘tqazishadi, asboblar bilan tanishtirishadi",
+  "Shifokor tishlarni ko‘radi",
+  "Kerak bo‘lsa, og‘riqsizlantirishadi: avval gel, keyin ukol",
+  "Tishdagi kariesni bur yoki qo‘l asboblari bilan tozalashadi",
+  "Plomba qo‘yib, tishlamga moslashadi"
+ ],
+ "feel": [
+  "Burning shovqini va titrashi qo‘rqitishi mumkin",
+  "Ukoldan keyin lab va yonoq 1–2 soat uyushib turadi"
+ ],
+ "after": [
+  "Uyushish o‘tmaguncha bolani ovqatlantirmang: u yonog‘ini tishlab olishi mumkin",
+  "Bola uyushgan labini tishlamasligi va ishqalamasligini kuzating",
+  "Tishlarni kechqurundan odatdagidek tozalang",
+  "Shifokor belgilagan muddatda ko‘rikka keling"
+ ],
+ "red_flags": [
+  "Kuchli og‘riq yoki yonoq shishishi",
+  "38 dan yuqori harorat va yuz shishishi"
+ ],
+ "faq": [
+  {
+   "q": "Sut tishi tushib ketsa, nega davolash kerak?",
+   "a": "Kasal tish og‘rishi, yallig‘lanishi va doimiy tishning kurtagiga zarar yetkazishi mumkin."
+  },
+  {
+   "q": "Bola qo‘rqsa nima qilish kerak?",
+   "a": "Shifokorga oldindan ayting. Ko‘pincha kabinet bilan tanishish va qisqa birinchi tashrif yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolaning tishini davolash. Qabuldan 1–2 soat oldin uni ovqatlantiring va sevimli o‘yinchog‘ini oling."
+  }
+ ]
+}

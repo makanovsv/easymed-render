@@ -1,0 +1,71 @@
+{
+ "title": "Ferulización de dientes flojos",
+ "also": [
+  "ferulización de dientes",
+  "férula en los dientes",
+  "fijar dientes flojos",
+  "reforzar dientes que se mueven"
+ ],
+ "what": "El dentista une los dientes flojos a los vecinos con una cinta delgada o un alambre. Así los dientes se sostienen mejor.",
+ "why": "Cuando los dientes se mueven por una enfermedad de las encías o después de un golpe.",
+ "duration": "normalmente de 30 a 90 minutos",
+ "tell_doctor": [
+  "Alergias, también a materiales",
+  "Enfermedades de las encías y desde cuándo se mueven los dientes",
+  "Si hubo un golpe",
+  "Si rechinas los dientes",
+  "Enfermedades, diabetes y medicamentos"
+ ],
+ "prepare": [
+  {
+   "title": "Dientes",
+   "text": "Cepíllate los dientes antes de la cita."
+  },
+  {
+   "title": "Limpieza",
+   "text": "Muchas veces primero se hace una limpieza dental profesional. Pregunta en la clínica."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Radiografías de los dientes, si las tienes"
+ ],
+ "steps": [
+  "Se limpian los dientes de sarro y placa",
+  "A veces se pone anestesia",
+  "En la cara interna de los dientes se hace una pequeña ranura o solo se prepara la superficie",
+  "Se coloca la cinta o el alambre",
+  "Se fija con material de relleno y luz",
+  "Se revisa la mordida"
+ ],
+ "feel": [
+  "Normalmente no duele; puede haber presión",
+  "Los primeros días sentirás la férula con la lengua"
+ ],
+ "after": [
+  "Limpia los dientes junto a la férula con un cepillo interdental y con hilo",
+  "No muerdas cosas duras con esos dientes",
+  "Sigue el tratamiento de las encías, si te lo indicaron",
+  "Ven a control en la fecha indicada"
+ ],
+ "red_flags": [
+  "La férula se despegó o se rompió",
+  "Hinchazón de la encía, dolor o pus"
+ ],
+ "faq": [
+  {
+   "q": "¿La férula se pone para siempre?",
+   "a": "Depende: después de un golpe, por un tiempo; en la enfermedad de las encías, por mucho tiempo. Lo decide el dentista."
+  },
+  {
+   "q": "¿Puedo comer normal con la férula?",
+   "a": "Casi, pero mejor no morder cosas duras con los dientes ferulizados."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana te ponen la férula en los dientes. Cepíllate los dientes y lleva tus radiografías, si las tienes."
+  }
+ ]
+}

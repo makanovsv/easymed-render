@@ -1,0 +1,77 @@
+{
+ "title": "Ayollarda sistitni davolash",
+ "also": [
+  "sistit",
+  "siydik pufagi yallig‘lanishi",
+  "siydik qilganda achishish",
+  "tez-tez siydik qistashi"
+ ],
+ "what": "Sistit: siydik pufagining yallig‘lanishi, ko‘pincha mikroblardan. Odatda qisqa dori kursi bilan davolanadi.",
+ "why": "Siydik qilganda achishish va og‘riqda, tez-tez qistashda, qorin pastidagi og‘riqda.",
+ "duration": "qabul 15–30 daqiqa, siydik tahlili odatda 1–3 kunda, ekma 3–7 kunda",
+ "tell_doctor": [
+  "Qachondan beri bezovta qilayotganini va ilgari qanchalik tez-tez bo‘lganini",
+  "Harorat yoki bel og‘rig‘i bormi",
+  "Homilador bo‘lishingiz mumkinmi",
+  "Qanday dorilarni allaqachon ichgansiz",
+  "Dorilarga allergiyalar"
+ ],
+ "prepare": [
+  {
+   "title": "Siydik tahlili",
+   "text": "Odatda yuvingandan keyin ertalabki siydik steril idishga kerak."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Imkon bo‘lsa, qabulni kutib, tahlilgacha antibiotiklarni o‘zingiz boshlamang."
+  },
+  {
+   "title": "Ichish",
+   "text": "Odatdagidek oddiy suv iching."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Olib kelish so‘ralgan bo‘lsa, siydikli idish",
+  "Sistit takrorlansa, oldingi tahlillar"
+ ],
+ "steps": [
+  "Shifokor shikoyatlar haqida so‘raydi",
+  "Siydik tahliliga yuboradi",
+  "Ba’zan ko‘rik qiladi yoki UZI tayinlaydi",
+  "Davo tayinlaydi va qanday ichishni tushuntiradi",
+  "Sistit tez-tez bo‘lsa, qo‘shimcha tekshiruv tayinlaydi"
+ ],
+ "feel": [
+  "Davolashning 1–3 kunidan keyin odatda yengillashadi",
+  "Ko‘rik og‘riqsiz"
+ ],
+ "after": [
+  "Yengillashganda ham kursni oxirigacha ichib tugating",
+  "Yetarlicha suv iching",
+  "Hojat qistaganda chidamang",
+  "Sistit takrorlansa, takroriy qabul"
+ ],
+ "red_flags": [
+  "Harorat 38 dan yuqori va bel og‘rig‘i",
+  "Siydikda qon",
+  "Davolashning 2–3 kunidan keyin yaxshilanish bo‘lmasa",
+  "Homiladorlik va sistit belgilari bo‘lsa, o‘sha kunning o‘zida shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Sistitni isitgich bilan davolasa bo‘ladimi?",
+   "a": "Issiqlik ba’zan og‘riqni yengillashtiradi, lekin mikroblarni yo‘qotmaydi. Davoni shifokor tayinlaydi."
+  },
+  {
+   "q": "Sistit nega qaytadi?",
+   "a": "Sabablari ko‘p. Tez-tez takrorlansa, shifokor tekshiruv tayinlaydi va profilaktikani tanlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga sistit bo‘yicha qabul. Siydik tahlili kerak bo‘lsa, ertalabki qismni steril idishga yig‘ing."
+  }
+ ]
+}

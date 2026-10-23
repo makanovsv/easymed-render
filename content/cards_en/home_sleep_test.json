@@ -1,0 +1,72 @@
+{
+ "title": "Home sleep apnea test",
+ "also": [
+  "home sleep test",
+  "home sleep apnea test",
+  "HSAT",
+  "overnight breathing monitor",
+  "snoring test at home"
+ ],
+ "what": "You take a small device home and sleep with it for one night. It records your breathing, oxygen, and pulse.",
+ "why": "For loud snoring, pauses in breathing during sleep, and strong daytime sleepiness.",
+ "duration": "one night at home; results usually come in a few days",
+ "tell_doctor": [
+  "If you take sleeping pills or sedatives",
+  "If you have heart or lung conditions",
+  "If you work night shifts"
+ ],
+ "prepare": [
+  {
+   "title": "Evening",
+   "text": "No alcohol or sleeping pills, unless your doctor allowed them. Go to bed at your usual time."
+  },
+  {
+   "title": "Fingers",
+   "text": "Remove polish from the nail where the sensor will go."
+  },
+  {
+   "title": "The device",
+   "text": "The nurse will show you how to put on the sensors. Ask to write it down or take photos."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A list of your medicines",
+  "A bag to return the device"
+ ],
+ "steps": [
+  "At the clinic, you are shown the device and how to put it on",
+  "In the evening before bed, you put a belt with sensors around your chest",
+  "A thin tube goes under your nose, and an oxygen sensor on your finger",
+  "You turn on the device and sleep as usual",
+  "In the morning, you take off the sensors and turn off the device",
+  "You return the device to the clinic the same day"
+ ],
+ "feel": [
+  "It does not hurt",
+  "The first few minutes feel strange, but most people fall asleep fine",
+  "The tube under your nose may bother you"
+ ],
+ "after": [
+  "Reading the results usually takes a few days",
+  "Take the results to your doctor. They will explain them and suggest treatment",
+  "If a sensor came off at night, say so when you return the device"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What if I slept badly?",
+   "a": "A few hours of sleep is usually enough. If there is too little recording, the test may be repeated."
+  },
+  {
+   "q": "How is this different from a sleep lab?",
+   "a": "At home there are fewer sensors and you sleep in your own bed. For some people, the doctor will still order a sleep lab study."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Sleep test tonight. No alcohol this evening. Put on the sensors as you were shown and turn on the device."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+bone_graft|dent|Костная пластика перед имплантацией|Bone graft before implant|dent_chair|H|3
+night_guard|dent|Капа от бруксизма|Night guard for teeth grinding|dent_chair|L|2
+dent_sedation|dent|Лечение зубов под седацией|Dental treatment under sedation|dent_chair|M|3
+dent_kids_ga|dent|Лечение зубов ребёнку под наркозом|Dental treatment for a child under anaesthesia|dent_chair|H|3
+tooth_sens|dent|Лечение чувствительности зубов|Sensitive teeth treatment|dent_chair|L|2
+inlay|dent|Вкладка на зуб|Dental inlay|dent_chair|M|3
+dent_xray_bw|dent|Прицельный снимок зуба|Dental bitewing X-ray|dent_xray|L|1
+eye_kids|eye|Проверка зрения у ребёнка|Eye test for a child|eye_room|L|1
+glasses|eye|Подбор очков|Glasses prescription|eye_room|L|1
+contacts|eye|Подбор контактных линз|Contact lens fitting|eye_room|L|2
+perimetry|eye|Поля зрения (периметрия)|Visual field test|eye_room|L|2
+dilated|eye|Осмотр с расширением зрачка|Dilated eye exam|eye_room|L|1
+gonioscopy|eye|Гониоскопия|Gonioscopy|eye_room|L|3
+dry_eye|eye|Диагностика сухого глаза|Dry eye testing|eye_room|L|2
+eye_inj|eye|Укол в глаз (интравитреальная инъекция)|Eye injection (intravitreal)|eye_room|M|2
+laser_retina|eye|Лазерная коагуляция сетчатки|Retinal laser treatment|eye_room|M|3
+yag|eye|ЯГ-лазер после катаракты|YAG laser after cataract surgery|eye_room|M|3
+chalazion|eye|Удаление халязиона|Chalazion removal|eye_room|M|2
+tear_duct|eye|Зондирование слёзного канала у малыша|Tear duct probing in a baby|eye_room|M|3
+strabismus|eye|Операция при косоглазии|Strabismus surgery|or_room|H|3
+glaucoma_laser|eye|Лазерное лечение глаукомы|Glaucoma laser treatment|eye_room|M|3
+eye_angio|eye|Флюоресцентная ангиография глаза|Eye fluorescein angiography|eye_room|M|3
+ent_visit|ent|Приём ЛОР-врача|ENT consultation|ent_room|L|1
+ent_kids|ent|ЛОР-осмотр ребёнка|ENT check for a child|ent_room|L|1
+ear_tubes|ent|Шунтирование барабанной перепонки|Ear tubes (grommets)|or_room|H|3
+paracentesis_ear|ent|Прокол барабанной перепонки|Eardrum puncture (myringotomy)|ent_room|M|3
+tonsil_wash|ent|Промывание миндалин|Tonsil washing|ent_room|L|2
+nose_bleed|ent|Остановка носового кровотечения|Nosebleed treatment|ent_room|M|2
+nasal_polyps|ent|Удаление полипов носа|Nasal polyp removal|or_room|H|3

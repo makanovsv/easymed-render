@@ -1,0 +1,63 @@
+{
+ "title": "Atestado para piscina",
+ "also": [
+  "atestado para piscina",
+  "exame dermatológico para piscina",
+  "atestado médico natação",
+  "exame para piscina"
+ ],
+ "what": "É uma consulta rápida, depois da qual você recebe um atestado de que pode nadar numa piscina coletiva.",
+ "why": "Antes de usar a piscina: muitas piscinas exigem para adultos e crianças.",
+ "duration": "normalmente de 15 a 30 minutos, se os exames estiverem prontos",
+ "tell_doctor": [
+  "Doenças de pele, micose nos pés",
+  "Doenças do coração, epilepsia, lesões recentes",
+  "Para crianças: doenças e alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Muitas vezes pedem exame para vermes: raspado anal ou exame de fezes. Confirme na piscina e na clínica."
+  },
+  {
+   "title": "Exigências",
+   "text": "Pergunte na piscina qual atestado é preciso e quanto tempo vale."
+  }
+ ],
+ "bring": [
+  "Documento de identidade ou documento da criança",
+  "Resultados de exames, se fez antes"
+ ],
+ "steps": [
+  "Você vai ao clínico, ao pediatra ou ao dermatologista",
+  "O médico pergunta sobre a saúde",
+  "Examina a pele, principalmente os pés",
+  "Se precisar, pede um exame",
+  "Entrega o atestado"
+ ],
+ "feel": [
+  "O exame não dói",
+  "Se colherem raspado, é rápido e não dói"
+ ],
+ "after": [
+  "Entregue o atestado na piscina",
+  "Fique de olho no prazo: normalmente o atestado é renovado depois de alguns meses"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que a piscina pede atestado?",
+   "a": "Para evitar doenças de pele, micoses e vermes. É uma proteção para todos."
+  },
+  {
+   "q": "Dá para ter o atestado sem exames?",
+   "a": "Depende da piscina. Muitas exigem exame para vermes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o atestado para a piscina. Confirme se precisa de exame para vermes e leve o documento."
+  }
+ ]
+}

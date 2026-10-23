@@ -1,0 +1,80 @@
+{
+ "title": "Sputum test for tuberculosis (microscopy and rapid PCR)",
+ "also": [
+  "TB sputum test",
+  "sputum test",
+  "AFB smear",
+  "TB PCR",
+  "rapid TB test"
+ ],
+ "what": "This test checks the phlegm you cough up from your lungs. It looks for the tuberculosis germ.",
+ "why": "For a cough lasting more than two or three weeks, coughing up blood, night sweats, weight loss, after contact with someone with TB, and to check treatment.",
+ "duration": "collection takes a few minutes; the rapid result usually comes in 1 to 2 days, a culture can take up to several weeks",
+ "tell_doctor": [
+  "How many weeks you have had the cough, and if there is blood in the phlegm",
+  "If you had TB before, and how it was treated",
+  "If you were in contact with someone who has TB",
+  "If you have HIV or diabetes, or take medicines that weaken the immune system"
+ ],
+ "prepare": [
+  {
+   "title": "Morning",
+   "text": "It is best to collect phlegm in the morning, right after waking up, before eating."
+  },
+  {
+   "title": "Mouth",
+   "text": "Before collecting, brush your teeth and rinse your mouth with boiled water."
+  },
+  {
+   "title": "Samples",
+   "text": "Usually 2 to 3 samples are needed, on different days, or in the morning and later in the day. Your doctor will say how many."
+  },
+  {
+   "title": "Place",
+   "text": "Collect phlegm outdoors or by an open window, away from other people."
+  }
+ ],
+ "bring": [
+  "The sputum container",
+  "Your referral",
+  "Your ID",
+  "A face mask"
+ ],
+ "steps": [
+  "Take a sterile container. Open the lid only right before collecting",
+  "Take a few deep breaths and hold your breath",
+  "Cough hard from deep in your chest",
+  "Spit the phlegm into the container. It must be phlegm, not saliva",
+  "Close the lid tightly and take it to the lab"
+ ],
+ "feel": [
+  "Coughing can be tiring",
+  "If the phlegm will not come up, a warm drink the evening before helps"
+ ],
+ "after": [
+  "Until you get the result, wear a mask around other people",
+  "Air out the room",
+  "If the test is positive, your doctor will explain the treatment in detail"
+ ],
+ "red_flags": [
+  "Coughing up a lot of blood: call emergency services",
+  "Severe shortness of breath or chest pain: call emergency services",
+  "A fever that does not go down for several days: see a doctor"
+ ],
+ "faq": [
+  {
+   "q": "Can I give saliva if there is no phlegm?",
+   "a": "No, saliva will not work. Tell the nurse. There are ways to help you cough it up."
+  },
+  {
+   "q": "Can tuberculosis be cured?",
+   "a": "Yes. Treatment is long, but if you take your medicines regularly, TB is usually cured."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Sputum collection tomorrow morning. Right after waking, brush your teeth, rinse your mouth, and cough the phlegm into the container."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "title": "Bo‘g‘im KT’si",
+ "also": [
+  "bo‘g‘imning MSKT’si",
+  "tizza KT’si",
+  "yelka KT’si",
+  "to‘piq KT’si"
+ ],
+ "what": "Bo‘g‘imning qatlam-qatlam suratlari. Suyaklar hajmli va juda batafsil ko‘rinadi.",
+ "why": "Murakkab sinishlarda, bo‘g‘imdagi operatsiyadan oldin, rentgenda hammasi tushunarli bo‘lmaganda.",
+ "duration": "kabinetda odatda 5–15 daqiqa; tavsif o‘sha kuni yoki 1–2 kunda",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Bo‘g‘imda protez, plastina yoki vintlar bo‘lsa",
+  "Kontrastli KT tayinlangan bo‘lsa: yodga yoki kontrastga allergiya va buyrak kasalliklari bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kontrastsiz kerak emas. Ovqatlanish va ichish mumkin."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Surat zonasidagi taqinchoqlar va metalli buyumlarni yeching. Ba’zan kiyimni almashtirishni so‘rashadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Shu bo‘g‘imning oldingi suratlari"
+ ],
+ "steps": [
+  "Stolga yotasiz, laborant qulay yotishga yordam beradi",
+  "Bo‘g‘imni joylashtirib, yostiqchalar bilan mahkamlashadi",
+  "Stol apparat halqasiga kiradi",
+  "Bir necha soniya qimirlamaslik kerak"
+ ],
+ "feel": [
+  "Og‘rimaydi, apparat sekin shovqin qiladi",
+  "Halqa keng, torlik deyarli yo‘q"
+ ],
+ "after": [
+  "Darhol ishlaringiz bilan ketishingiz mumkin",
+  "Tavsif va suratlar: travmatolog yoki ortopedga"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bo‘g‘imga KT yoki MRT?",
+   "a": "KT suyaklar va sinishlar uchun yaxshiroq. Paylar, tog‘aylar va menisklar MRT’da yaxshiroq ko‘rinadi. Shifokor tanlaydi."
+  },
+  {
+   "q": "Gipsda KT qilsa bo‘ladimi?",
+   "a": "Ko‘pincha ha. Shifokordan aniqlashtiring: ba’zan gipsni yechishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada bo‘g‘im KT’si. Metallsiz kiyim kiying, oldingi suratlarni oling."
+  }
+ ]
+}

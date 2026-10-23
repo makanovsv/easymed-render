@@ -1,0 +1,90 @@
+{
+ "title": "Retirada de lobo do pulmão (lobectomia)",
+ "also": [
+  "lobectomia pulmonar",
+  "cirurgia de pulmão",
+  "lobectomia por vídeo",
+  "retirada de parte do pulmão"
+ ],
+ "what": "O cirurgião retira um lobo do pulmão. A cirurgia é feita com anestesia geral, muitas vezes por furinhos entre as costelas.",
+ "why": "Na maioria das vezes por tumor no pulmão; às vezes por outras doenças que atingiram um lobo.",
+ "duration": "a cirurgia leva normalmente de 2 a 4 horas; a internação costuma ser de 4 a 7 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias, inclusive a remédios e iodo",
+  "Doenças do coração, do pulmão, dos rins ou diabetes",
+  "Se você ou alguém da família teve problema com anestesia",
+  "Se você fuma"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Pulmões",
+   "text": "Normalmente avaliam a respiração: espirometria e outros exames."
+  },
+  {
+   "title": "Cigarro",
+   "text": "Parar de fumar antes da cirurgia ajuda muito o pulmão a se recuperar."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista vai conversar com você. Conte sobre a sua saúde e os seus remédios."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Imagens da tomografia em CD ou link",
+  "Coisas para uma semana no hospital"
+ ],
+ "steps": [
+  "No dia da cirurgia, você troca de roupa e recebe um acesso na veia",
+  "Na sala de cirurgia, o anestesista aplica a anestesia e você dorme",
+  "O cirurgião faz alguns furinhos ou um corte entre as costelas",
+  "Retira o lobo do pulmão e os gânglios próximos",
+  "Colocam um dreno no tórax para sair ar e líquido",
+  "Os cortes são fechados com pontos",
+  "Você acorda na sala de recuperação ou na UTI"
+ ],
+ "feel": [
+  "Depois da anestesia: sonolência, às vezes enjoo",
+  "Dor no peito ao respirar e tossir; dão analgésico",
+  "O dreno no peito incomoda; ele é retirado depois de alguns dias"
+ ],
+ "after": [
+  "Exercícios de respiração e tosse desde o primeiro dia",
+  "Começa-se a andar cedo. Isso ajuda o pulmão",
+  "Sem carregar peso por algumas semanas",
+  "O resultado da biópsia e o plano são vistos na consulta"
+ ],
+ "red_flags": [
+  "Falta de ar forte ou dor no peito: ligue para a emergência",
+  "Tosse com sangue",
+  "Febre acima de 38 graus ou pus no corte",
+  "Dor e inchaço na perna"
+ ],
+ "faq": [
+  {
+   "q": "Dá para viver com um lobo a menos?",
+   "a": "Sim. Os lobos que ficam assumem o trabalho. O cansaço no esforço costuma diminuir com o tempo."
+  },
+  {
+   "q": "Por que fazer exercícios de respiração se dói?",
+   "a": "Eles abrem o pulmão e protegem contra pneumonia. O analgésico ajuda a fazer."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Separe suas coisas, os documentos e a lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

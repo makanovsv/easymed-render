@@ -1,0 +1,76 @@
+{
+ "title": "Yurak yetishmovchiligi bilan yashash (vazn, shishlar, tuz)",
+ "also": [
+  "yurak yetishmovchiligi",
+  "shishlar va hansirash",
+  "yurak uddalay olmayapti",
+  "SYuY"
+ ],
+ "what": "Yurak yetishmovchiligida yurak qonni zaifroq haydaydi. Suyuqlik ushlanib qoladi, shishlar va hansirash paydo bo‘ladi. Har kungi nazorat kasallikni nazoratda ushlashga yordam beradi.",
+ "why": "Shifokor yurak yetishmovchiligini topgan bo‘lsa.",
+ "duration": "nazorat — har kuni bir necha daqiqa",
+ "tell_doctor": [
+  "Vazn va shishlar qanday o‘zgarmoqda",
+  "Hansirash kuchaygan yoki yotish qiyin bo‘lsa",
+  "Barcha dorilar, shu jumladan og‘riq qoldiruvchilar va qo‘shimchalar",
+  "Sizga qancha suyuqlik va tuz mumkin — shifokordan so‘rang"
+ ],
+ "prepare": [
+  {
+   "title": "Tarozi",
+   "text": "Uy tarozisi kerak. Har ertalab tortiling."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Vazn, bosim, puls va o‘zingizni his qilishni yozib boring."
+  },
+  {
+   "title": "Tuz va suv",
+   "text": "Qancha tuz va suyuqlik mumkinligini shifokor aytadi. O‘zingiz o‘zgartirmang."
+  }
+ ],
+ "bring": [
+  "Vazn va bosim kundaligi",
+  "Dorilar ro‘yxati",
+  "Tonometr"
+ ],
+ "steps": [
+  "Har ertalab hojatxonadan keyin, nonushtadan oldin, bir xil kiyimda tortiling",
+  "Vaznni kundalikka yozing",
+  "Oyoqlarni tekshiring: shish paydo bo‘ldimi",
+  "Dorilarni har kuni shifokor buyurganidek iching",
+  "Ovqatni kamroq tuzlang, tuzlangan tayyor mahsulotlardan saqlaning",
+  "Shifokor ruxsat bergan bo‘lsa, har kuni ozgina harakat qiling"
+ ],
+ "feel": [
+  "Zo‘riqishda hansirash va charchoq ko‘p uchraydi",
+  "Siydik haydovchi dorilar tez-tez hojatxonaga borishga majbur qiladi — shunday bo‘lishi kerak"
+ ],
+ "after": [
+  "Vazn 2–3 kunda 2 kg dan ko‘proq oshsa — shifokorga qo‘ng‘iroq qiling",
+  "Shifokor maslahatisiz og‘riq qoldiruvchi ichmang — ba’zilari suvni ushlab qoladi",
+  "Gripp va pnevmokokkka qarshi emlashlar haqida so‘rang"
+ ],
+ "red_flags": [
+  "Tinch holatda yoki tunda kuchli hansirash, yota olmaslik — tez yordamni chaqiring (103)",
+  "Ko‘krakda og‘riq — tez yordamni chaqiring (103)",
+  "Hushdan ketish yoki yurak juda tez urishi — tez yordamni chaqiring (103)",
+  "Vazn tez oshib, shishlar kuchaysa — shu kunning o‘zida shifokorga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Ko‘p suv ichsa bo‘ladimi?",
+   "a": "Har doim emas. Sizga qancha suyuqlik mumkinligini shifokor hal qiladi."
+  },
+  {
+   "q": "Nega har kuni tortilish muhim?",
+   "a": "Vazn ortiqcha suvdan shishlar paydo bo‘lishidan oldin oshadi. Bu erta belgi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Xayrli tong! Nonushtadan oldin tortiling va vaznni yozing."
+  }
+ ]
+}

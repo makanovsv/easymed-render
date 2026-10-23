@@ -1,0 +1,81 @@
+{
+ "title": "Menopauzada qabul",
+ "also": [
+  "klimaks",
+  "klimaksda qabul",
+  "menopauza",
+  "qizish to‘lqinlari",
+  "gormonal o‘rin bosuvchi terapiya"
+ ],
+ "what": "Shifokor klimaksni xotirjamroq o‘tkazishga yordam beradi. Qizish to‘lqinlari, uyqu, kayfiyatni ko‘rib chiqadi va kerak bo‘lsa, davolashni tanlaydi.",
+ "why": "Qizish to‘lqinlari, terlash, uyqusizlik, kayfiyat o‘zgarishlari, qin quruqligi, 40–45 yoshdan keyin tartibsiz hayzda.",
+ "duration": "qabul odatda 30–40 daqiqa; tahlillar — 1–7 kundan keyin",
+ "tell_doctor": [
+  "So‘nggi hayz qachon bo‘lgan",
+  "Eng ko‘p nima bezovta qiladi: qizish to‘lqinlari, uyqu, kayfiyat, quruqlik",
+  "Sizda yoki qarindoshlaringizda tromblar, ko‘krak yoki bachadon saratoni",
+  "Bosim, jigar kasalliklari, suyak sinishlari",
+  "Qanday dori va qo‘shimchalar ichasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Yozuvlar",
+   "text": "Bir hafta davomida qizish to‘lqinlari qanchalik tez-tez bo‘lishi va qanday uxlashingizni yozib boring."
+  },
+  {
+   "title": "Tekshiruv",
+   "text": "So‘nggi mammografiya, UTT va tahlillarni oling, agar bo‘lsa."
+  },
+  {
+   "title": "Savollar",
+   "text": "Nimani muhokama qilmoqchi ekaningizni o‘ylab qo‘ying: gormonlar, suyaklar, vazn, jinsiy hayot."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar va qo‘shimchalar ro‘yxati",
+  "So‘nggi mammografiya va tahlillar",
+  "Qizish to‘lqinlari yozuvlari"
+ ],
+ "steps": [
+  "Shifokor belgilar va sog‘liq haqida so‘raydi",
+  "Bosim va vaznni o‘lchaydi",
+  "Kresloda ko‘rik va ko‘krak ko‘rigini o‘tkazadi",
+  "Yo‘llanmalar beradi: tahlillar, UTT, mammografiya, ba’zan suyaklarni tekshirish",
+  "Yordam variantlari haqida aytadi: turmush tarzi, gormonlar va boshqa dorilar",
+  "Birgalikda reja tanlaysiz"
+ ],
+ "feel": [
+  "Odatda yoqimsiz narsa yo‘q",
+  "Quruqlik bo‘lsa, kresloda ko‘rik yoqimsiz bo‘lishi mumkin — shifokorga ayting"
+ ],
+ "after": [
+  "Ro‘yxat bo‘yicha tekshiruvlardan o‘ting",
+  "Davolash buyurilgan bo‘lsa, nazorat odatda 2–3 oydan keyin",
+  "Harakat, chekishni tashlash va kaltsiyli ovqat suyaklar va yurak uchun foydali",
+  "Ko‘krak tekshiruvi va surtmalar — muntazam"
+ ],
+ "red_flags": [
+  "Hayz bir yil to‘xtagandan keyin qonli ajralmalar paydo bo‘lsa — shifokorga murojaat qiling"
+ ],
+ "faq": [
+  {
+   "q": "Gormonal terapiya xavfli emasmi?",
+   "a": "Ko‘p ayollar uchun, o‘z vaqtida boshlansa, foyda xavfdan ko‘p. Shifokor sizning xavflaringizni baholaydi."
+  },
+  {
+   "q": "Qizish to‘lqinlari qancha davom etadi?",
+   "a": "Har xil, odatda bir necha yil. Davolash ularni kamaytirishga yordam beradi."
+  },
+  {
+   "q": "Klimaksda kontratseptsiya kerakmi?",
+   "a": "Odatda ha, hayz bir yil to‘xtamaguncha. Shifokordan aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga klimaks bo‘yicha qabul. So‘nggi mammografiya, tahlillar va dorilar ro‘yxatini oling."
+  }
+ ]
+}

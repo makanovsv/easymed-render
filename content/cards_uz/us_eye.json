@@ -1,0 +1,73 @@
+{
+ "title": "Ko‘z UZIsi",
+ "also": [
+  "ko‘z olmasi UZIsi",
+  "ko‘z ultratovushi",
+  "ko‘zning B-skanerlash",
+  "ko‘z exografiyasi"
+ ],
+ "what": "Shifokor yopiq qovoq orqali ultratovush bilan ko‘zning ichki qismlarini va ko‘z kosasini ko‘radi.",
+ "why": "Shifokor ko‘z tubini ko‘ra olmaganda — masalan, gavhar xiralashganda yoki qon quyilganda; jarohatlarda, to‘r pardaning ko‘chishi gumon qilinganda, ko‘zdagi hosilalarda.",
+ "duration": "odatda 10–20 daqiqa, xulosa odatda darrov",
+ "tell_doctor": [
+  "Ko‘zda operatsiyalar yoki jarohatlar bo‘lganmi",
+  "Ko‘zda yangi yara bor-yo‘qligini",
+  "Kontakt linza taqasizmi",
+  "Ko‘z qattiq og‘riyotgan yoki ko‘rish keskin pasaygan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Ko‘zlar",
+   "text": "Kontakt linzalarni yeching. Ko‘zda kosmetikasiz kelgan yaxshi."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Ko‘z tomchi bilan kengaytirilsa, keyin rulga o‘tirmagan ma’qul — klinikadan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Okulistning oldingi xulosalari",
+  "Linza g‘ilofi",
+  "Quyoshdan himoya ko‘zoynagi"
+ ],
+ "steps": [
+  "O‘tirasiz yoki yotasiz, ko‘zlar yumuq",
+  "Qovoqqa gel suriladi",
+  "Datchik yumuq qovoqqa ehtiyotkorlik bilan qo‘yiladi",
+  "Shifokor yuqoriga, pastga, o‘ngga va chapga qarashni so‘raydi",
+  "Gel salfetka bilan artiladi"
+ ],
+ "feel": [
+  "Salqin gel va yengil tegish",
+  "Gel ko‘zga tushsa, biroz achishtirishi mumkin — uni yuvib tashlashadi"
+ ],
+ "after": [
+  "Darrov ishlaringizga qaytsa bo‘ladi",
+  "Xulosa odatda darrov, keyin okulist hal qiladi"
+ ],
+ "red_flags": [
+  "To‘satdan yaltirashlar, ko‘p «pashshalar» yoki ko‘z oldida soya paydo bo‘lsa — darrov okulistga",
+  "Ko‘rish keskin pasaysa yoki ko‘z qattiq og‘risa — shoshilinch shifokorga yoki 103 ga"
+ ],
+ "faq": [
+  {
+   "q": "Bu ko‘zga zarar qilmaydimi?",
+   "a": "Yo‘q. Datchik qovoqqa yumshoq tegadi, ultratovush ko‘z uchun xavfsiz."
+  },
+  {
+   "q": "UZI paytida ko‘zni ochish kerakmi?",
+   "a": "Yo‘q. Tekshiruv yumuq qovoq orqali qilinadi, siz shifokor so‘raganda faqat ko‘zlarni harakatlantirasiz."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ko‘z UZIsi. Tekshiruvdan oldin linzalarni yeching va ko‘zda kosmetikasiz keling."
+  }
+ ]
+}

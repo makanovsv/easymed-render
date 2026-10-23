@@ -1,0 +1,84 @@
+{
+ "title": "Bosh miya MRTsi",
+ "also": [
+  "bosh MRTsi",
+  "miyaning magnit-rezonans tomografiyasi",
+  "bosh tomografiyasi"
+ ],
+ "what": "Miyaning magnit maydondagi suratlari. Rentgen nurlanishi yo‘q. Ba’zan tomirga kontrast qo‘shiladi.",
+ "why": "Tez-tez bosh og‘rig‘i, bosh aylanishi, tutqanoq, xotira yoki ko‘rish buzilishida, bosh jarohatidan keyin, allaqachon ma’lum kasallikni kuzatish uchun.",
+ "duration": "odatda 20–40 daqiqa, kontrast bilan uzoqroq",
+ "tell_doctor": [
+  "Yurak stimulyatori, defibrillyator yoki elektronikali boshqa implant",
+  "Tanadagi metall: protezlar, plastinkalar, tomirlardagi klipsalar, parchalar",
+  "Eshitish implanti, insulin nasosi",
+  "Homiladorlik",
+  "Yopiq joydan qo‘rqish",
+  "Kontrast bilan bo‘lsa — buyrak kasalliklari va kontrastga allergiya"
+ ],
+ "prepare": [
+  {
+   "title": "Metall",
+   "text": "Uyda taqinchoq, pirsing, soatni yeching. Kabinetga metall olib kirish mumkin emas."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay, metallsiz: zamok, tugma va ichki kiyimda suyaksiz. Ko‘pincha bir martalik kiyim berishadi."
+  },
+  {
+   "title": "Kosmetika",
+   "text": "Yaltiroq tush va soya surtmang — ularda metall zarralari bo‘ladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda alohida tayyorgarlik kerak emas. Kontrast bo‘lsa — 2–4 soat yemaslik kerakmi, klinikadan aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi MRT, KT suratlari va xulosalari",
+  "Implantlar hujjatlari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Siz telefon, kalit, kartalar va barcha metall narsalarni shkafchada qoldirasiz",
+  "Apparat stoliga yotasiz, sizga quloqchin yoki quloq tiqini berishadi — apparat shovqin qiladi",
+  "Boshingiz g‘altakka qo‘yiladi — u derazali dubulg‘aga o‘xshaydi",
+  "Stol apparat tunneliga kiradi",
+  "Qimirlamay yotish kerak; shifokor siz bilan aloqa orqali gaplashadi",
+  "Qo‘lingizda chaqiruv tugmasi bor: uni istalgan paytda bosish mumkin",
+  "Kontrast kerak bo‘lsa, tekshiruv paytida tomirga yuboriladi"
+ ],
+ "feel": [
+  "Qattiq taqillash va guvillash — bu normal",
+  "Ba’zan suratga olinayotgan tana qismida yengil issiqlik",
+  "Kontrast yuborilsa — tomirda salqinlik, tez o‘tib ketadi"
+ ],
+ "after": [
+  "Darrov odatdagi ishlaringizga qaytishingiz mumkin",
+  "Xulosa odatda o‘sha kuni yoki 1–2 kundan keyin tayyor bo‘ladi",
+  "Kontrast bo‘lgan bo‘lsa — shifokor taqiqlamagan bo‘lsa, o‘sha kuni ko‘proq suv iching"
+ ],
+ "red_flags": [
+  "Kontrastdan keyin: toshma, yuz shishishi, nafas olish qiyin — darrov xodimlarga ayting yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Tanada metall bo‘lsa, MRT qilsa bo‘ladimi?",
+   "a": "Ko‘pincha mumkin, lekin shifokor hal qiladi. Har qanday implant haqida oldindan ayting va uning hujjatini oling."
+  },
+  {
+   "q": "Yopiq joydan qo‘rqsam nima qilaman?",
+   "a": "Yozilayotganda ayting. Ochiq apparat, ko‘zga bog‘lam, musiqa yordam beradi; ba’zan shifokor tinchlantiruvchi beradi."
+  },
+  {
+   "q": "MRT zararlimi?",
+   "a": "Nurlanish yo‘q. Ko‘pchilik uchun MRT xavfsiz; asosiysi — shifokorga metall va implantlar haqida rost aytish."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga MRT. Uyda taqinchoq va pirsingni yeching, metallsiz kiyim kiying. Oldingi suratlar va implantlar hujjatlarini oling."
+  }
+ ]
+}

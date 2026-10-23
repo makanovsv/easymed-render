@@ -1,0 +1,68 @@
+{
+ "title": "Limpeza de pele com esteticista",
+ "also": [
+  "limpeza de pele",
+  "limpeza facial",
+  "extração de cravos",
+  "limpeza de pele com ultrassom"
+ ],
+ "what": "A esteticista limpa a pele do rosto, tirando sujeira e cravos. A limpeza pode ser manual, com aparelho ou mista.",
+ "why": "Quando o rosto tem poros dilatados, cravos, pele oleosa ou sem brilho.",
+ "duration": "normalmente 60 a 90 minutos",
+ "tell_doctor": [
+  "Se na pele há inflamação, manchas ou herpes nos lábios",
+  "Se você toma remédios para acne ou hormônios",
+  "Se fez há pouco tempo peeling ou injeções",
+  "Alergias a cosméticos"
+ ],
+ "prepare": [
+  {
+   "title": "Na véspera",
+   "text": "É melhor não tomar sol e não usar esfoliante."
+  },
+  {
+   "title": "Pele",
+   "text": "Pode ir de maquiagem, ela será tirada, mas é melhor ir sem."
+  }
+ ],
+ "bring": [
+  "Não é preciso levar nada especial",
+  "Seu elástico ou faixa de cabelo, se quiser"
+ ],
+ "steps": [
+  "Tiram a maquiagem da pele",
+  "Abrem os poros com vapor ou passam um produto que amolece",
+  "A esteticista tira os cravos com as mãos de luva ou com aparelho",
+  "Passam um produto calmante na pele",
+  "No fim, máscara e creme"
+ ],
+ "feel": [
+  "A limpeza manual pode incomodar e doer em alguns pontos",
+  "Depois, vermelhidão, normalmente por algumas horas"
+ ],
+ "after": [
+  "No primeiro dia, é melhor sem maquiagem",
+  "Por 1 a 2 dias, sem sauna, piscina e esfoliantes",
+  "Não mexa no rosto com as mãos",
+  "Use protetor solar"
+ ],
+ "red_flags": [
+  "Muitas espinhas com pus, inchaço forte ou dor depois de 1 a 2 dias"
+ ],
+ "faq": [
+  {
+   "q": "Com que frequência posso fazer limpeza de pele?",
+   "a": "Normalmente não mais que uma vez por mês. A esteticista orienta pela sua pele."
+  },
+  {
+   "q": "Por que apareceram espinhas depois da limpeza?",
+   "a": "Às vezes isso acontece por 1 a 2 dias. Se forem muitas e doerem, procure a esteticista."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a limpeza de pele. Hoje, sem esfoliante e sem sol."
+  }
+ ]
+}

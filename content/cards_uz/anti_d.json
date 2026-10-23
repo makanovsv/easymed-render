@@ -1,0 +1,74 @@
+{
+ "title": "Rezusga qarshi immunoglobulin",
+ "also": [
+  "rezusga qarshi immunoglobulin",
+  "rezus-nizoda ukol",
+  "homiladorlikda rezus-manfiy qon",
+  "rezus-nizoga qarshi emlash"
+ ],
+ "what": "Bu rezusi manfiy ayol uchun ukol. U chaqaloqni shu va keyingi homiladorliklarda rezus-nizodan himoya qiladi.",
+ "why": "Ayolda rezus manfiy, chaqaloqda esa musbat bo‘lishi mumkin bo‘lsa. Odatda taxminan 28 haftada, tug‘ruqdan keyin va shifokor qaroriga ko‘ra boshqa hollarda.",
+ "duration": "ukol 1–2 daqiqa oladi, keyin taxminan 30 daqiqa kuzatuv",
+ "tell_doctor": [
+  "Sizning rezusingiz va sherigingiz rezusi, agar ma’lum bo‘lsa",
+  "Oldin immunoglobulin ukollari qilinganmi",
+  "Allergiyalar, ayniqsa qon preparatlariga",
+  "Qon ketish yoki qorin jarohati bo‘lganmi",
+  "Qon tahlilida antitanalar bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlil",
+   "text": "Odatda ukoldan oldin qonda antitanalar tekshiriladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Maxsus tayyorgarlik odatda kerak emas. Odatdagidek ovqatlaning."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay kiyim, ukol odatda yelkaga yoki dumbaga qilinadi."
+  }
+ ],
+ "bring": [
+  "Almashinuv kartasi",
+  "Antitanalar tahlili natijalari",
+  "Hujjat"
+ ],
+ "steps": [
+  "Shifokor tahlillar va muddatni tekshiradi",
+  "Hamshira familiyangiz va preparatni aniqlaydi",
+  "Mushak ichiga ukol qiladi",
+  "Yarim soat kuzatuv ostida klinikada qolasiz",
+  "Almashinuv kartasiga ukol sanasi belgilanadi"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ukol joyi bir-ikki kun biroz og‘riyishi mumkin"
+ ],
+ "after": [
+  "Ukoldan keyin antitanalar tahlili ba’zan musbat bo‘lishi mumkin — bu kutilgan holat",
+  "Tug‘ruqdan keyin chaqaloq qoni rezusga tekshiriladi",
+  "Chaqaloq rezusi musbat bo‘lsa, odatda 72 soat ichida yana bir ukol qilinadi"
+ ],
+ "red_flags": [
+  "Toshma, yuz shishishi, nafas olish qiyin — tez yordamni chaqiring (103)",
+  "Homiladorlikda qon ketish yoki qorin og‘rig‘i"
+ ],
+ "faq": [
+  {
+   "q": "Birinchi homiladorlik bo‘lsa, ukol nega kerak?",
+   "a": "U shu homiladorlikni ham, keyingilarni ham himoya qiladi. Xavf birinchi homiladorlikdayoq bor."
+  },
+  {
+   "q": "Ukol chaqaloq uchun xavflimi?",
+   "a": "Odatda yo‘q. U aynan chaqaloqni himoya qilish uchun qilinadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga rezusga qarshi immunoglobulin ukoli. Almashinuv kartasini oling."
+  }
+ ]
+}

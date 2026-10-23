@@ -1,0 +1,79 @@
+{
+ "title": "FGDS (gastroskopiya)",
+ "also": [
+  "gastroskopiya",
+  "EGDS",
+  "zond yutish"
+ ],
+ "what": "Shifokor qizilo‘ngach, oshqozon va o‘n ikki barmoqli ichakni og‘iz orqali kiritiladigan kamerali ingichka egiluvchan nay bilan ko‘radi.",
+ "why": "Jig‘ildon qaynashi, qorin og‘rig‘i, kamqonlik, yara, gastrit yoki Helicobacterga shubhada; biopsiya olish uchun.",
+ "duration": "muolajaning o‘zi 5–15 daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiradigan preparatlar — ularni vaqtincha o‘zgartirish kerak bo‘lishi mumkin, shifokor hal qiladi",
+  "Qandli diabet",
+  "Lidokain va boshqa anestetiklarga allergiya",
+  "Homiladorlik",
+  "Uyquda qilishni xohlasangiz — bu alohida xizmat"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "8 soat ovqatlanmang. Bir kun oldin — alkogolsiz yengil kechki ovqat."
+  },
+  {
+   "title": "Suv",
+   "text": "Odatda suvni muolajadan 2–4 soat oldingacha ichsa bo‘ladi — klinikadan aniqlab oling."
+  },
+  {
+   "title": "Ertalab",
+   "text": "Chekmang va saqich chaynamang — bu oshqozon shirasi ishlab chiqarilishini kuchaytiradi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "FGDSning avvalgi xulosalari",
+  "Sochiq yoki pelyonka, klinika so‘rasa"
+ ],
+ "steps": [
+  "Olinadigan protezlar va ko‘zoynak yechiladi",
+  "Tomoq anestetik sprey bilan sepiladi — u uvishadi",
+  "Chap yonboshga yotasiz, tishlar orasiga plastik og‘izlik qo‘yiladi",
+  "Shifokor nayni kiritadi, siz bir ho‘plam yutasiz — keyin u o‘zi boradi",
+  "Burun orqali tinch nafas oling; so‘lakni yutmang — uni so‘rib olishadi",
+  "Ba’zan tahlil uchun to‘qima bo‘lagi olinadi — bu og‘rimaydi",
+  "Nay olinadi"
+ ],
+ "feel": [
+  "Boshida qusish istagi — normal, burun orqali tekis nafas olish yordam beradi",
+  "Havodan to‘lib ketish hissi",
+  "Og‘riq odatda bo‘lmaydi"
+ ],
+ "after": [
+  "Tomoq uvishishi o‘tguncha 30–60 daqiqa ovqatlanmang va ichmang",
+  "Tomoqda yengil qirillash kechgacha bo‘lishi mumkin",
+  "Xulosa darhol, biopsiya natijasi — odatda 1–2 haftada"
+ ],
+ "red_flags": [
+  "Ko‘krak yoki qorinda kuchli og‘riq, qonli qusish, qora axlat, yuqori harorat — darhol shifokorga yoki 103 ga"
+ ],
+ "faq": [
+  {
+   "q": "Gastroskopiyani uyquda qilsa bo‘ladimi?",
+   "a": "Ha, sedatsiya ostida. Unda muolajadan keyin kun oxirigacha mashina haydash mumkin emas — hamroh kerak."
+  },
+  {
+   "q": "Zondni yutish og‘riydimi?",
+   "a": "Og‘rimaydi, dastlabki soniyalarda noxush bo‘ladi. Burun orqali tinch nafas olish yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 8,
+   "text": "Ertaga FGDS. Shu vaqtdan boshlab ovqatlanmang. Suv — faqat klinika aytgan muddatgacha."
+  },
+  {
+   "hoursBefore": 1.5,
+   "text": "FGDS yaqin. Chekmang, yo‘llanma va avvalgi xulosalarni oling."
+  }
+ ]
+}

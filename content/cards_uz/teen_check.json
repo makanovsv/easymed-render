@@ -1,0 +1,71 @@
+{
+ "title": "O‘smir ko‘rigi",
+ "also": [
+  "o‘smirning tibbiy ko‘rigi",
+  "maktab o‘quvchisining profilaktik ko‘rigi",
+  "14 yoshda ko‘rik",
+  "o‘smirlar shifokori"
+ ],
+ "what": "O‘smirning rejali ko‘rigi: bo‘y, rivojlanish, ko‘rish, qomat, bosim. Shifokor ham ota-ona bilan, ham o‘smirning o‘zi bilan gaplashadi.",
+ "why": "Profilaktik ko‘riklar jadvali bo‘yicha, maktab, sport yoki o‘qishga kirish oldidan.",
+ "duration": "pediatrda odatda 30–60 daqiqa; boshqa shifokorlarda — uzoqroq",
+ "tell_doctor": [
+  "Surunkali kasalliklar va dorilar",
+  "Shikoyatlar: bosh og‘rig‘i, charchoq, qorin og‘rig‘i",
+  "O‘smir qanday uxlashi va ovqatlanishi",
+  "Qizda hayz boshlangan-boshlanmagani va qanday o‘tishi"
+ ],
+ "prepare": [
+  {
+   "title": "Suhbat",
+   "text": "O‘smirga shifokor ba’zi savollarni ota-onasiz berishi mumkinligini oldindan ayting. Bu normal."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Tibbiy karta va emlash kartasi."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Och qoringa qon tahlili buyurilsa, ertalab nonushtasiz keling."
+  }
+ ],
+ "bring": [
+  "O‘smirning hujjati",
+  "Tibbiy karta va emlash kartasi",
+  "Ko‘zoynak, agar taqsa"
+ ],
+ "steps": [
+  "Hamshira bo‘y, vazn va bosimni o‘lchaydi",
+  "Ko‘rish tekshiriladi",
+  "Shifokor qomat, teri, rivojlanishni ko‘radi",
+  "Shifokor ba’zi savollarni o‘smirga yakkama-yakka berishi mumkin",
+  "Ba’zan tahlillar yoki mutaxassislar buyuriladi",
+  "Shifokor natijani siz bilan muhokama qiladi"
+ ],
+ "feel": [
+  "Hech qanday og‘riqli narsa yo‘q",
+  "O‘smir ba’zan xijolat bo‘ladi — shifokor buni e’tiborli hisobga oladi"
+ ],
+ "after": [
+  "Biror narsa topilsa, qo‘shimcha tekshiruv buyuriladi",
+  "Emlashlar — kalendar bo‘yicha",
+  "Keyingi ko‘rik — jadval bo‘yicha"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Shifokor nega o‘smir bilan ota-onasiz gaplashadi?",
+   "a": "Shunda o‘smir sog‘lig‘i haqida ochiqroq aytadi. Xavfsizlik uchun muhim narsalarni shifokor siz bilan muhokama qiladi."
+  },
+  {
+   "q": "Ginekolog yoki urolog kerakmi?",
+   "a": "Ba’zan yoshiga qarab ular ko‘rikka qo‘shiladi. Poliklinikadan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga o‘smir ko‘rigi. Tibbiy karta, emlash kartasi va hujjatni oling."
+  }
+ ]
+}

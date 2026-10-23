@@ -1,0 +1,75 @@
+{
+ "title": "Yurak-qon tomir xavfini baholash",
+ "also": [
+  "infarkt xavfi",
+  "insult xavfi",
+  "yurak xavfini baholash",
+  "xavf shkalasi"
+ ],
+ "what": "Shifokor yaqin yillarda infarkt yoki insult ehtimoli qanchalik katta ekanini baholaydi. Buning uchun bosim, tahlillar va turmush tarzingiz kerak.",
+ "why": "Profilaktik ko‘riklarda, ayniqsa 40 yoshdan keyin; yuqori bosim, xolesterin, diabet, chekish, yaqinlarda yurak kasalliklari bo‘lganda.",
+ "duration": "qabul odatda 20–30 daqiqa, baho darhol yoki tahlillardan keyin beriladi",
+ "tell_doctor": [
+  "Chekasizmi va qancha",
+  "Yuqori bosim, diabet, buyrak kasalliklari bormi",
+  "Yaqin qarindoshlarda yoshligida infarkt va insult bo‘lganmi",
+  "Qanday dorilar ichasiz",
+  "Yuklamada ko‘krakda og‘riq yoki nafas qisilishi"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Ko‘pincha xolesterin va qon qandi kerak. Odatda och qoringa topshiriladi. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Bosim",
+   "text": "Uyda o‘lchasangiz, oxirgi kunlardagi yozuvlarni oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Odatdagidek iching. O‘zingiz bekor qilmang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Xolesterin va qand tahlillari natijalari, agar bo‘lsa",
+  "Bosim kundaligi",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor sog‘lig‘ingiz, odatlaringiz va qarindoshlaringiz haqida so‘raydi",
+  "Bosim, bo‘y, vazn va bel aylanasini o‘lchaydi",
+  "Tahlillarni ko‘radi yoki ularga yuboradi",
+  "Ba’zan EKG qiladi",
+  "Xavfni maxsus shkala bo‘yicha hisoblaydi",
+  "Xavfni kamaytirishga nima yordam berishini tushuntiradi"
+ ],
+ "feel": [
+  "Qabul og‘riqsiz",
+  "Qon olinsa, qisqa sanchiq"
+ ],
+ "after": [
+  "Siz reja olasiz: ovqatlanish, harakat, chekishni tashlash, ba’zan dorilar",
+  "Takroriy baholash odatda bir yildan keyin yoki ertaroq: shifokor aytadi"
+ ],
+ "red_flags": [
+  "Ko‘krakda siquvchi og‘riq bir necha daqiqadan uzoq davom etsa, 103 ga qo‘ng‘iroq qiling",
+  "To‘satdan qo‘l yoki oyoqda holsizlik, yuzning qiyshayishi, nutqning buzilishi bo‘lsa, 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Xavf past bo‘lsa, hech narsa qilmasa bo‘ladimi?",
+   "a": "Baribir muntazam tekshirilib turish kerak. Xavf yosh va odatlar bilan o‘zgaradi."
+  },
+  {
+   "q": "Xavf yuqori bo‘lsa, tabletka ichish shartmi?",
+   "a": "Shifokor hal qiladi. Ba’zan avval turmush tarzini o‘zgartirish yetarli."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga yurak-qon tomir xavfini baholash. Qon topshirsangiz, kechki ovqatdan keyin ovqat yemang, suv ichish mumkin."
+  }
+ ]
+}

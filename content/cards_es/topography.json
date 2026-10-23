@@ -1,0 +1,67 @@
+{
+ "title": "Topografía y paquimetría de la córnea",
+ "also": [
+  "topografía corneal",
+  "paquimetría",
+  "mapa de la córnea",
+  "grosor de la córnea"
+ ],
+ "what": "Un aparato toma fotos de la córnea, la parte transparente del frente del ojo. Muestra su forma y su grosor.",
+ "why": "Antes de una cirugía láser para la vista, para adaptar lentes de contacto, si se sospecha queratocono y para darle seguimiento.",
+ "duration": "normalmente de 5 a 15 minutos; el resultado es inmediato",
+ "tell_doctor": [
+  "Si usas lentes de contacto y de qué tipo",
+  "Si tuviste cirugías o golpes en los ojos",
+  "Si tienes ojo seco",
+  "Si algún familiar tiene queratocono"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes de contacto",
+   "text": "Normalmente los blandos se dejan de usar unos días antes y los rígidos, más tiempo. La clínica te dirá cuánto."
+  },
+  {
+   "title": "Maquillaje",
+   "text": "Llega sin rímel ni sombras."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Tus lentes",
+  "Resultados de estudios anteriores"
+ ],
+ "steps": [
+  "Te sientas frente al aparato y apoyas la barbilla",
+  "Miras un punto de luz",
+  "El aparato toma fotos de cada ojo",
+  "A veces miden el grosor con un sensor aparte, después de poner gotas",
+  "El médico revisa los mapas y te explica el resultado"
+ ],
+ "feel": [
+  "No duele",
+  "La luz es brillante y hay que no parpadear unos segundos",
+  "Si usan el sensor, antes te ponen gotas de anestesia"
+ ],
+ "after": [
+  "Puedes seguir con tus actividades normales",
+  "Si te pusieron gotas, no te talles los ojos de 20 a 30 minutos",
+  "El médico te explica el resultado en ese momento o en la consulta"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué hay que dejar los lentes de contacto antes?",
+   "a": "Los lentes cambian la forma de la córnea y el resultado no saldría exacto."
+  },
+  {
+   "q": "¿Puedo manejar después?",
+   "a": "Normalmente sí. Si te pusieron gotas, pregúntale al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu estudio de la córnea. Pregunta si debes dejar antes los lentes de contacto. Ven sin maquillaje en los ojos."
+  }
+ ]
+}

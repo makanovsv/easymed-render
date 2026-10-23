@@ -1,0 +1,78 @@
+{
+ "title": "Qizning ginekologga birinchi tashrifi",
+ "also": [
+  "bolalar ginekologi",
+  "qizning ginekologga birinchi borishi",
+  "o‘smir ginekologi",
+  "qizni ko‘rikdan o‘tkazish"
+ ],
+ "what": "Bu qizingizning ginekolog bilan birinchi uchrashuvi. Ko‘pincha bu suhbat va tashqaridan ko‘rik, asbobsiz.",
+ "why": "Hayz boshlanganda, sikl tartibsiz bo‘lsa, og‘riq, ajralmalar bo‘lsa yoki rejali ko‘rikda.",
+ "duration": "odatda 20–30 daqiqa",
+ "tell_doctor": [
+  "Hayz qachon boshlangan va qanday kechadi",
+  "Og‘riq, ajralma, qichishish bor-yo‘qligi",
+  "Qizda qanday kasalliklar va dorilar bor",
+  "Allergiyalar bormi",
+  "Uni aynan nima bezovta qiladi"
+ ],
+ "prepare": [
+  {
+   "title": "Suhbat",
+   "text": "Qizingizga nima bo‘lishini oldindan xotirjam tushuntiring. Savol berishi va «to‘xta» deyishi mumkinligini ayting."
+  },
+  {
+   "title": "Gigiyena",
+   "text": "Ertalab dush qabul qilsin, hidli vositalarsiz."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Hayz boshlangan bo‘lsa, sanalarini yozib qo‘ying."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjatlari",
+  "Hayz kundaligi",
+  "Tibbiy karta",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor tanishadi va qiz va siz bilan gaplashadi",
+  "Ba’zan qiz ochiq gapirishi uchun ota-onadan bir ozga chiqib turishni so‘raydi",
+  "Bo‘y va vaznni o‘lchaydi, ko‘krakni ko‘radi",
+  "Jinsiy a’zolarni tashqaridan ko‘radi",
+  "Kerak bo‘lsa, qorin orqali ultratovush buyuradi",
+  "Natijalarni tushuntiradi va maslahat beradi"
+ ],
+ "feel": [
+  "Qiz o‘zini noqulay his qilishi mumkin — bu odatiy",
+  "Tashqi ko‘rik og‘riqsiz",
+  "Shifokor har bir harakatdan oldin hammasini tushuntiradi"
+ ],
+ "after": [
+  "Qizingizni maqtang, nima bo‘lganini muhokama qiling",
+  "Shifokor buyurgan bo‘lsa, tahlillarni topshiring",
+  "Shifokor jadvali bo‘yicha takroran keling"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq — tez yordamni chaqiring (103)",
+  "Hayz juda ko‘p, holsizlik, bosh aylanishi",
+  "15 yoshgacha hayz bo‘lmasa — shifokorga yoziling"
+ ],
+ "faq": [
+  {
+   "q": "Ginekologga birinchi marta necha yoshda borish kerak?",
+   "a": "Odatda hayz boshlanganda yoki taxminan 13–15 yoshda. Biror narsa bezovta qilsa — ertaroq."
+  },
+  {
+   "q": "Kreslada ko‘rishadimi?",
+   "a": "Qizlarga odatda faqat tashqi ko‘rik qilinadi. Uning roziligisiz hech narsa qilinmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga qizingizning ginekolog qabuli. Unga nima bo‘lishini xotirjam aytib bering."
+  }
+ ]
+}

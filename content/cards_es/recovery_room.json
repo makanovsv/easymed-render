@@ -1,0 +1,68 @@
+{
+ "title": "Despertar después de la anestesia",
+ "also": [
+  "sala de recuperación",
+  "cómo se sale de la anestesia",
+  "despertar de la anestesia",
+  "después de la anestesia"
+ ],
+ "what": "Después de la operación te llevan a la sala de recuperación. Ahí despiertas bajo la vigilancia de enfermeras y del médico.",
+ "why": "Después de cualquier operación o procedimiento con anestesia o sedación.",
+ "duration": "normalmente de 30 minutos a 2 horas; luego te pasan a un cuarto o te mandan a casa",
+ "tell_doctor": [
+  "Si antes tuviste náuseas fuertes después de la anestesia",
+  "Si te has sentido confundida o confundido después de la anestesia",
+  "Si necesitas tus lentes o tu aparato auditivo al despertar"
+ ],
+ "prepare": [
+  {
+   "title": "Con anticipación",
+   "text": "Pregunta cuánto tiempo estarás en la sala de recuperación y cuándo podrás ver a tus familiares."
+  },
+  {
+   "title": "Para ir a casa",
+   "text": "Si la operación es ambulatoria, acuerda quién te recogerá y se quedará contigo el primer día."
+  }
+ ],
+ "bring": [
+  "Lentes y aparato auditivo: entrégalos al personal",
+  "El teléfono de un familiar"
+ ],
+ "steps": [
+  "Despiertas con sensores puestos y con mascarilla o tubitos de oxígeno",
+  "La enfermera te pregunta cómo estás y vigila tu presión y tu respiración",
+  "Si te duele o tienes náuseas, avisa y te darán un medicamento",
+  "Cuando ya despertaste y todo está bien, te pasan a un cuarto o te preparan para el alta"
+ ],
+ "feel": [
+  "Sueño, pesadez e ideas confusas",
+  "Boca seca y, a veces, irritación en la garganta",
+  "A veces frío, temblores o náuseas",
+  "No recordar bien las primeras horas es normal"
+ ],
+ "after": [
+  "La primera vez, levántate solo con ayuda del personal",
+  "Beber y comer se empieza cuando el médico lo permita",
+  "Durante un día después de la anestesia no manejes ni tomes decisiones importantes"
+ ],
+ "red_flags": [
+  "Cuesta respirar o hay dolor en el pecho: avisa de inmediato a la enfermera",
+  "En casa: mucho sueño y no se puede despertar a la persona: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué tiemblo después de la anestesia?",
+   "a": "Pasa por los medicamentos y por el frío del quirófano. Te cubrirán y te darán calor."
+  },
+  {
+   "q": "¿Cuándo dejan pasar a los familiares?",
+   "a": "Normalmente después de que te pasan al cuarto. Las reglas cambian: pregunta en la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu operación. Acuerda quién te recogerá después. Comida y agua, hasta la hora que te indicó la clínica."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "title": "Eshitishni tekshirish (audiometriya)",
+ "also": [
+  "audiogramma",
+  "tonal audiometriya",
+  "eshitishni tekshirish"
+ ],
+ "what": "Quloqchin taqib, turli balandlikdagi sokin tovushlarni tinglaysiz va eshitganingizda belgi berasiz. Shunday qilib eshitish grafigi tuziladi.",
+ "why": "Eshitish pasayganda, quloqda shovqin yoki jaranglashda, eshitish apparatini tanlashdan oldin, shovqinli ishda profilaktik ko‘riklarda.",
+ "duration": "odatda 15–30 daqiqa",
+ "tell_doctor": [
+  "Yaqinda shamollash, otit yoki quloq bitishi bo‘lgan bo‘lsa",
+  "Shovqinda ishlaysizmi",
+  "Quloqda tiqin bo‘lsa yoki quloqlarda operatsiyalar bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Sukunat",
+   "text": "Tekshiruvdan bir sutka oldin baland musiqa va shovqindan saqlaning — eshitish vaqtincha pasayishi mumkin."
+  },
+  {
+   "title": "Quloqlar",
+   "text": "Quloqlarni paxtali cho‘plar bilan chuqur tozalamang. Tiqin bo‘lsa — uni avval shifokor olib tashlaydi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Maxsus tayyorgarlik yo‘q."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi audiogrammalar, agar bo‘lsa",
+  "Eshitish apparati, agar taqsangiz"
+ ],
+ "steps": [
+  "Shifokor quloqlarni ko‘zdan kechiradi",
+  "Sokin kabinada o‘tirib, quloqchin taqasiz",
+  "Goh bir, goh boshqa quloqqa sokin ovozlar eshitiladi",
+  "Eshitsangiz — tugmani bosasiz yoki qo‘lingizni ko‘tarasiz",
+  "Ba’zan quloq orqasiga kichik vibrator qo‘yib, tekshiruvni takrorlashadi",
+  "Ba’zan so‘zlarni takrorlashni so‘rashadi"
+ ],
+ "feel": [
+  "Hech narsa og‘rimaydi",
+  "Eng sokin tovushlar zo‘rg‘a eshitiladi — ishonchingiz komil bo‘lmasa ham javob bering"
+ ],
+ "after": [
+  "Natija — eshitish grafigi, odatda darrov beriladi",
+  "Uning nimani anglatishini LOR shifokor tushuntiradi"
+ ],
+ "red_flags": [
+  "Bir quloqda eshitish bir necha soat yoki bir kunda to‘satdan yo‘qolsa — o‘sha kuniyoq shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Eshitishni onlayn tekshirsa bo‘ladimi?",
+   "a": "Onlayn test faqat taxminiy ko‘rsatadi. Aniq tasvirni sokin kabinadagi audiometriya beradi."
+  },
+  {
+   "q": "Nega to‘satdan eshitish yo‘qolishi shoshilinch?",
+   "a": "Davo dastlabki kunlarda boshlansa yaxshiroq yordam beradi. O‘zi o‘tib ketishini kutmang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga eshitishni tekshirish. Bugun baland musiqasiz va quloqchinni to‘liq ovozda qo‘ymang."
+  }
+ ]
+}

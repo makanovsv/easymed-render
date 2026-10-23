@@ -1,0 +1,72 @@
+{
+ "title": "Check-up gratuito para adultos na Rússia (dispanserização)",
+ "also": [
+  "dispanserização",
+  "check-up gratuito na Rússia",
+  "exame preventivo",
+  "avaliação de saúde preventiva"
+ ],
+ "what": "É um check-up gratuito pelo seguro de saúde obrigatório da Rússia (OMS). Os exames dependem da idade e do sexo.",
+ "why": "Para adultos, conforme a idade: normalmente a cada três anos até os 40 e todo ano depois dos 40. Confirme no seu posto de saúde.",
+ "duration": "a primeira etapa leva normalmente 1 ou 2 visitas de 1 a 3 horas; os resultados saem em alguns dias",
+ "tell_doctor": [
+  "Quais doenças você tem e quais remédios toma",
+  "Se fuma e com que frequência bebe álcool",
+  "Doenças do coração e câncer em parentes próximos",
+  "Queixas, mesmo pequenas"
+ ],
+ "prepare": [
+  {
+   "title": "Agendamento",
+   "text": "Marque no posto de saúde em que você está cadastrado ou pelo portal de serviços públicos Gosuslugi."
+  },
+  {
+   "title": "Comida",
+   "text": "Para o exame de sangue, normalmente se vai de manhã, em jejum. Confirme no posto."
+  },
+  {
+   "title": "Exame de fezes",
+   "text": "Se pedirem pesquisa de sangue oculto, o frasco é entregue antes, e explicam como colher."
+  }
+ ],
+ "bring": [
+  "Passaporte",
+  "Cartão do seguro de saúde obrigatório (OMS)",
+  "Número do seguro social (SNILS)",
+  "Resultados de exames do último ano, se fez"
+ ],
+ "steps": [
+  "Você preenche um questionário de saúde",
+  "Medem altura, peso, pressão e cintura",
+  "Você colhe sangue",
+  "Fazem eletrocardiograma e fluorografia (raio-X de tórax de rastreamento), se estiver no prazo",
+  "Para mulheres: exame com ginecologista ou parteira",
+  "O clínico geral faz o resumo e diz se é preciso a segunda etapa"
+ ],
+ "feel": [
+  "Os exames normalmente não doem",
+  "O exame de sangue: uma picada rápida"
+ ],
+ "after": [
+  "Você recebe um passaporte de saúde ou um laudo",
+  "Se encontrarem algo, você vai para a segunda etapa ou para um especialista",
+  "Faça o próximo check-up conforme o calendário"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Preciso faltar ao trabalho para o check-up?",
+   "a": "O trabalhador pode ter um dia pago para a dispanserização. Confirme com o empregador."
+  },
+  {
+   "q": "Dá para fazer no fim de semana?",
+   "a": "Muitos postos atendem aos sábados. Confirme no seu."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o check-up. De manhã, não coma antes do exame de sangue; leve o passaporte e o cartão do seguro."
+  }
+ ]
+}

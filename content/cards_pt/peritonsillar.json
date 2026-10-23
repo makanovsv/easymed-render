@@ -1,0 +1,79 @@
+{
+ "title": "Drenagem de abscesso periamigdaliano",
+ "also": [
+  "abscesso periamigdaliano",
+  "abscesso na garganta",
+  "drenagem de abscesso na amígdala",
+  "complicação de amigdalite"
+ ],
+ "what": "O médico abre o abscesso perto da amígdala e deixa o pus sair. Isso alivia rápido a dor e a pressão.",
+ "why": "Quando, depois de uma amigdalite, a garganta dói muito de um lado e fica difícil abrir a boca e engolir.",
+ "duration": "o procedimento leva normalmente de 15 a 30 minutos; às vezes é preciso ficar internado alguns dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue",
+  "Alergias a antibióticos e anestesia",
+  "Diabetes e doenças do coração",
+  "Se estiver difícil respirar, avise na hora",
+  "Quando os sintomas começaram"
+ ],
+ "prepare": [
+  {
+   "title": "Urgente",
+   "text": "É um atendimento urgente. Não adie."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come antes da drenagem, mas, se for urgente, diga ao médico quando comeu."
+  },
+  {
+   "title": "Pertences",
+   "text": "Leve suas coisas, caso precise ficar internado."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Lista de remédios",
+  "Coisas para 1 a 3 dias no hospital"
+ ],
+ "steps": [
+  "O médico examina a garganta",
+  "Às vezes faz uma punção de teste ou ultrassom",
+  "Anestesia a garganta com spray e injeção",
+  "Faz um pequeno corte e deixa o pus sair",
+  "Lava a cavidade",
+  "Receita antibióticos, muitas vezes na veia"
+ ],
+ "feel": [
+  "A anestesia arde",
+  "Durante a drenagem: pressão, pode doer",
+  "Depois da drenagem, normalmente melhora rápido"
+ ],
+ "after": [
+  "Beba líquidos e coma comida macia e morna",
+  "Gargarejos e remédios conforme a receita",
+  "Às vezes a cavidade é aberta de novo no dia seguinte",
+  "Mais tarde, o médico pode conversar sobre tirar as amígdalas"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar ou pescoço muito inchado: ligue para a emergência",
+  "Não consegue engolir nem água",
+  "Sangue pela boca: ligue para a emergência",
+  "Febre acima de 38 graus que não baixa"
+ ],
+ "faq": [
+  {
+   "q": "O abscesso passa sozinho?",
+   "a": "Normalmente não. O pus precisa sair; se não, a inflamação pode se espalhar."
+  },
+  {
+   "q": "Vou precisar tirar as amígdalas?",
+   "a": "Às vezes sim, se o abscesso voltar. O médico decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Não adie o atendimento. Se estiver difícil respirar, ligue para a emergência."
+  }
+ ]
+}

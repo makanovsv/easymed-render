@@ -1,0 +1,75 @@
+{
+ "title": "Consulta con el neurólogo infantil",
+ "also": [
+  "neurólogo infantil",
+  "neurólogo pediatra",
+  "consulta de neurología infantil",
+  "revisión del neurólogo al año"
+ ],
+ "what": "El médico revisa cómo se desarrollan el sistema nervioso, los movimientos y el habla del niño. La revisión es tranquila y sin dolor.",
+ "why": "En las revisiones de rutina del primer año y antes de la guardería o la escuela; con retraso en el desarrollo, dolores de cabeza, convulsiones, tics, mal sueño.",
+ "duration": "la consulta normalmente dura de 20 a 40 minutos; el informe, justo después de la consulta",
+ "tell_doctor": [
+  "Cómo fueron el embarazo y el parto",
+  "Cuándo el niño empezó a sostener la cabeza, sentarse, caminar, hablar",
+  "Qué te preocupa exactamente y desde cuándo",
+  "Si ha tenido convulsiones, golpes en la cabeza, desmayos",
+  "Qué medicamentos toma el niño"
+ ],
+ "prepare": [
+  {
+   "title": "Observaciones",
+   "text": "Anota lo que te preocupa. Si pasa en episodios, grábalos en video."
+  },
+  {
+   "title": "Hora",
+   "text": "Elige una hora en que el niño normalmente está despierto, sin hambre y sin sueño."
+  },
+  {
+   "title": "Para el bebé",
+   "text": "Lleva su juguete favorito, agua y un refrigerio."
+  }
+ ],
+ "bring": [
+  "Los documentos del niño y los tuyos",
+  "El expediente médico o resúmenes",
+  "Resultados de estudios anteriores, si los hubo",
+  "Videos de los episodios o de los movimientos, si los grabaste"
+ ],
+ "steps": [
+  "El médico te pregunta por el desarrollo y las molestias",
+  "Ve cómo se mueve el niño, juega y reacciona a sonidos y objetos",
+  "Revisa los reflejos con un martillito",
+  "Evalúa la fuerza y el tono de los músculos",
+  "Al bebé le miden el perímetro de la cabeza",
+  "El médico explica la conclusión y, si hace falta, pide estudios"
+ ],
+ "feel": [
+  "La revisión no duele; los reflejos se revisan con golpecitos suaves",
+  "El bebé puede llorar por el lugar desconocido; no estorba al médico"
+ ],
+ "after": [
+  "El médico da recomendaciones o una orden de estudios",
+  "No suspendas por tu cuenta los medicamentos que te receten",
+  "La siguiente cita, en el plazo que indique el médico"
+ ],
+ "red_flags": [
+  "Convulsiones, pérdida del conocimiento, mucha somnolencia o vómito después de un golpe en la cabeza: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Hay que ir al neurólogo si el niño está sano?",
+   "a": "Sí, las revisiones de rutina del primer año sirven para notar a tiempo un retraso."
+  },
+  {
+   "q": "¿Qué hago si el niño llora toda la consulta?",
+   "a": "No pasa nada. El médico está acostumbrado y de todos modos podrá revisarlo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la consulta con el neurólogo infantil. Lleva el expediente del niño, un juguete y anota lo que te preocupa."
+  }
+ ]
+}

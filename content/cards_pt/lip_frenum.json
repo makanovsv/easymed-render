@@ -1,0 +1,71 @@
+{
+ "title": "Correção do freio do lábio",
+ "also": [
+  "frenectomia labial",
+  "freio do lábio curto",
+  "cirurgia do freio do lábio superior"
+ ],
+ "what": "O médico corrige o freio curto do lábio, a dobrinha entre o lábio e a gengiva. Depois disso o lábio se mexe com mais liberdade e não puxa a gengiva.",
+ "why": "Quando o freio causa espaço entre os dentes da frente, puxa a gengiva ou atrapalha o tratamento ortodôntico.",
+ "duration": "o procedimento leva normalmente 15 a 30 minutos",
+ "tell_doctor": [
+  "Alergias, principalmente a anestésicos",
+  "Doenças do sangue, uso de remédios que afinam o sangue",
+  "Doenças crônicas",
+  "Se a criança usa aparelho fixo ou móvel"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Coma ou alimente a criança 1 a 2 horas antes do procedimento."
+  },
+  {
+   "title": "Dentes",
+   "text": "Escove os dentes antes da consulta."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Encaminhamento do ortodontista, se tiver"
+ ],
+ "steps": [
+  "O médico examina o lábio e o freio",
+  "Fazem anestesia com injeção",
+  "O freio é cortado e o formato muda, com bisturi ou laser",
+  "Dão pontos finos, se for preciso",
+  "Apertam a feridinha com um lenço"
+ ],
+ "feel": [
+  "A injeção da anestesia incomoda, depois só pressão",
+  "Depois, o lábio fica dormente por 1 a 2 horas",
+  "Por alguns dias, dói um pouco e incha um pouco"
+ ],
+ "after": [
+  "Não coma até passar a dormência",
+  "Por 1 a 2 dias, comida macia e não quente",
+  "Não puxe o lábio para olhar a feridinha",
+  "Faça bochechos como o médico disser",
+  "Os pontos são tirados ou caem sozinhos. O médico diz"
+ ],
+ "red_flags": [
+  "Sangramento que não para apertando",
+  "Inchaço forte no lábio, febre acima de 38 °C",
+  "Pus na feridinha"
+ ],
+ "faq": [
+  {
+   "q": "O espaço entre os dentes vai fechar sozinho?",
+   "a": "Às vezes sim, às vezes é preciso ortodontista. O médico diz o que esperar."
+  },
+  {
+   "q": "Quando posso escovar os dentes?",
+   "a": "Normalmente no mesmo dia, com cuidado em volta da feridinha."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a correção do freio do lábio. Coma 1 a 2 horas antes e escove os dentes."
+  }
+ ]
+}

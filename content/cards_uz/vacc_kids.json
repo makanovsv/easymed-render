@@ -1,0 +1,82 @@
+{
+ "title": "Bolalar emlashi",
+ "also": [
+  "bolalarni emlash",
+  "kalendar bo‘yicha emlash",
+  "bolaga emlash"
+ ],
+ "what": "Yelkaga yoki songa vaksina yuboriladi. U bolaning organizmiga xavfli kasallikdan oldindan himoyalanishni o‘rgatadi.",
+ "why": "Milliy emlash kalendari bo‘yicha — tug‘ilganidan maktab yoshigacha, shuningdek o‘tkazib yuborilgan emlashlarda.",
+ "duration": "ukolning o‘zi — bir necha soniya, butun tashrif odatda 30–60 daqiqa",
+ "tell_doctor": [
+  "Bola hozir kasalmi, so‘nggi kunlarda harorat bo‘lganmi",
+  "Allergiyalar, ayniqsa kuchli reaksiyalar",
+  "Bola oldingi emlashlarni qanday o‘tkazgan",
+  "Immunitet kasalliklari bo‘lsa yoki bola gormon qabul qilsa",
+  "Yaqinda qon quyilgan yoki immunoglobulin yuborilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash sog‘ bolaga qilinadi. Ukoldan oldin shifokor yoki hamshira uni ko‘radi va haroratini o‘lchaydi."
+  },
+  {
+   "title": "Ruhiy tayyorgarlik",
+   "text": "Bola bilan xotirjam va rostgo‘y gaplashing: tez bo‘ladi va ozgina og‘riydi. Ukol bilan qo‘rqitmang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Maxsus cheklovlar yo‘q. Bolani odatdagidek ovqatlantiring, ukoldan keyin darrov ko‘krak berishingiz mumkin."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yelka yoki oyoqni oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Emlash pasporti yoki emlash kartasi",
+  "Bolaning hujjatlari",
+  "Sevimli o‘yinchoq",
+  "Suv yoki shisha"
+ ],
+ "steps": [
+  "Shifokor bolani ko‘radi va emlashga ruxsat beradi",
+  "Siz bolani qo‘lingizda yoki yoningizda ushlaysiz",
+  "Hamshira terini artadi va tez ukol qiladi",
+  "Emlash kartaga yoziladi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tirish kerak"
+ ],
+ "feel": [
+  "Ukoldan qisqa og‘riq, bola yig‘lashi mumkin",
+  "Ukol joyida qizarish va ozgina shish",
+  "Ba’zan dastlabki kunlarda — harorat, injiqlik, mudrash"
+ ],
+ "after": [
+  "30 daqiqa xona yonida qoling — reaksiya bo‘lsa, shifokor yordam berishga ulguradi",
+  "Ukol joyini ishqalamang va isitmang",
+  "Bolani odatda cho‘miltirsa bo‘ladi",
+  "Harorat ko‘tarilsa, bolaga nima berishni shifokor aytadi"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki lablar shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)",
+  "Tutqanoq yoki bola holsiz, uni uyg‘otish qiyin — tez yordamni chaqiring (103)",
+  "Tushmayotgan 39 dan yuqori harorat",
+  "Bola uch soatdan ortiq tinmay yig‘lasa"
+ ],
+ "faq": [
+  {
+   "q": "Bolada tumov bo‘lsa, emlash mumkinmi?",
+   "a": "Ko‘rikda shifokor hal qiladi. Haroratsiz yengil tumov ko‘pincha xalaqit bermaydi, lekin kasallikda emlash odatda keyinga qoldiriladi."
+  },
+  {
+   "q": "Emlashdan keyin harorat bo‘lishi normalmi?",
+   "a": "Ha, dastlabki kunlarda ozgina harorat ko‘pincha bo‘ladi. Bu immunitetning javobi. Yuqori bo‘lsa yoki tushmasa — bolani shifokorga ko‘rsating."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga emlash. Bolaning sog‘ligini tekshiring va emlash pasportini oling."
+  }
+ ]
+}

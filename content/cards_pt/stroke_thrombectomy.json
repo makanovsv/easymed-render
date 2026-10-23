@@ -1,0 +1,76 @@
+{
+ "title": "Trombectomia no AVC",
+ "also": [
+  "trombectomia mecânica",
+  "trombectomia no AVC",
+  "retirada de coágulo do cérebro",
+  "tratamento de derrame por cateter"
+ ],
+ "what": "Por uma artéria da virilha ou do braço, levam um instrumento fino até o vaso do cérebro e puxam o coágulo. O sangue volta a circular no cérebro.",
+ "why": "No AVC, quando um coágulo fechou um vaso grande do cérebro. É feita com urgência, nas primeiras horas.",
+ "duration": "o procedimento leva normalmente de 1 a 2 horas; a internação costuma ser de 1 a 2 semanas",
+ "tell_doctor": [
+  "Para a família: o horário exato em que notaram os primeiros sinais ou viram a pessoa bem pela última vez",
+  "Todos os remédios, principalmente os que afinam o sangue",
+  "Alergias",
+  "Doenças do coração, dos rins ou diabetes"
+ ],
+ "prepare": [
+  {
+   "title": "Tempo",
+   "text": "O mais importante é a rapidez. Com sinais de AVC, ligue na hora para a emergência; não espere passar."
+  },
+  {
+   "title": "Sinais",
+   "text": "Rosto torto, fraqueza no braço ou na perna, fala enrolada: motivo para ligar para a emergência."
+  },
+  {
+   "title": "Para a família",
+   "text": "Leve documentos e a lista de remédios, se estiverem à mão. Não dê comida, bebida nem comprimidos."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Lista de remédios",
+  "Telefone de um familiar"
+ ],
+ "steps": [
+  "No hospital, fazem com urgência tomografia ou ressonância do cérebro",
+  "Se for indicado, o paciente vai para a sala de hemodinâmica",
+  "Normalmente se faz anestesia geral ou sedação",
+  "Por uma artéria, levam um tubo fino até o cérebro",
+  "O coágulo é capturado e retirado",
+  "O paciente vai para a unidade de observação"
+ ],
+ "feel": [
+  "Depois do procedimento: fraqueza e sonolência",
+  "O estado pode mudar nos primeiros dias. Os médicos acompanham isso"
+ ],
+ "after": [
+  "Observação no hospital, normalmente na UTI ou unidade de cuidados intensivos",
+  "A reabilitação começa cedo",
+  "Remédios para prevenir um novo AVC exatamente como receitados",
+  "A recuperação leva semanas e meses"
+ ],
+ "red_flags": [
+  "Rosto torto, fraqueza no braço ou na perna, fala enrolada: ligue na hora para a emergência",
+  "Dor de cabeça forte e repentina: ligue para a emergência",
+  "O local do furo inchou, sangra muito ou dói"
+ ],
+ "faq": [
+  {
+   "q": "Por que o tempo é tão importante?",
+   "a": "Cada minuto sem sangue danifica o cérebro. Quanto antes tirar o coágulo, maior a chance de recuperação."
+  },
+  {
+   "q": "Todo mundo faz trombectomia?",
+   "a": "Não. Os médicos decidem pelas imagens e pelo tempo desde o início do AVC."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Guarde os sinais de AVC: rosto torto, fraqueza no braço, fala enrolada. Se aparecerem, ligue na hora para a emergência."
+  }
+ ]
+}

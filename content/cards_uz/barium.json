@@ -1,0 +1,79 @@
+{
+ "title": "Bariy bilan oshqozon va ichak rentgeni",
+ "also": [
+  "bariy bilan rentgen",
+  "oshqozon rentgenoskopiyasi",
+  "bariy o‘tishi",
+  "kontrastli OIT rentgeni"
+ ],
+ "what": "Bariyli oq suyuqlik ichasiz, rentgenda qizilo‘ngach, oshqozon va ichak ko‘rinadi. Bariy so‘rilmaydi va najas bilan chiqib ketadi.",
+ "why": "Yutishda qiyinchilik, qorin og‘rig‘i, torayishga shubha, qizilo‘ngach churrasi, ovqat o‘tishining buzilishida.",
+ "duration": "odatda 20–40 daqiqa; ingichka ichak ko‘rilsa — suratlar bir necha soat davomida olinadi",
+ "tell_doctor": [
+  "Homiladorlik yoki ehtimoliy homiladorlik",
+  "Qabziyat, qorinda kuchli og‘riq",
+  "Oldin oshqozon va ichakda operatsiyalar bo‘lgan bo‘lsa",
+  "Qandli diabet — ochlik sababli dorilarni moslash kerak, shifokor qanday ekanini aytadi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda tekshiruvdan 8–12 soat ovqat yemaslik kerak, ko‘pincha kechqurundan. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Gazli suvsiz, dukkaklilarsiz, karamsiz va qora nonsiz yengil kechki ovqat."
+  },
+  {
+   "title": "Ertalab",
+   "text": "Ichmang, chekmang, saqich chaynamang — bu suratlarga xalaqit beradi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Doimiy ichadigan dorilaringizni shifokorga ayting. Ertalab nimani ichishni u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi suratlar va xulosalar",
+  "Suv — tekshiruvdan keyin ichish uchun"
+ ],
+ "steps": [
+  "Taqinchoqlarni va belgacha kiyimni yechib, xalat kiyasiz",
+  "Rentgen apparati oldida turasiz",
+  "Shifokor buyrug‘i bilan bariyli aralashmani yutoqib ichasiz",
+  "Shifokor ekranda uning o‘tishini ko‘rib, suratlar oladi",
+  "Burilish, yotish, nafasni ushlab turish so‘raladi",
+  "Ichak ko‘rilsa — suratlar bir muddatdan keyin takrorlanadi"
+ ],
+ "feel": [
+  "Aralashma quyuq, ta’mi bo‘rga o‘xshaydi",
+  "Ba’zan yengil dam bo‘lish"
+ ],
+ "after": [
+  "Odatda darrov ovqatlansangiz bo‘ladi",
+  "1–2 kun ko‘proq suv iching — shunda bariy tezroq chiqadi",
+  "Najas 1–3 kun och rangli yoki oq bo‘ladi — bu normal",
+  "Xulosa odatda o‘sha kuni beriladi"
+ ],
+ "red_flags": [
+  "2–3 kundan ortiq najas yo‘q, qorin dam va og‘riyapti",
+  "Qorinda kuchli og‘riq, qusish — darrov shifokorga yoki 103 ga"
+ ],
+ "faq": [
+  {
+   "q": "Bariyli rentgendan keyin najas nega oq bo‘ladi?",
+   "a": "Bariy shunday chiqadi. Bu normal, 1–3 kunda o‘tadi. Ko‘proq suv iching."
+  },
+  {
+   "q": "Bu irrigoskopiya bilan bir xilmi?",
+   "a": "Yo‘q. Irrigoskopiyada bariy yo‘g‘on ichakni ko‘rish uchun to‘g‘ri ichak orqali kiritiladi. U yerda tayyorgarlik boshqacha."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bariyli rentgen. Gazli suvsiz va dukkaklilarsiz yengil kechki ovqat. Kechki ovqatdan keyin tekshiruvgacha ovqat yemang."
+  }
+ ]
+}

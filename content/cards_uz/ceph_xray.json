@@ -1,0 +1,65 @@
+{
+ "title": "Ortodont uchun teleroentgenogramma (TRG)",
+ "also": [
+  "TRG",
+  "teleroentgenogramma",
+  "breket uchun bosh suyagi yon surati",
+  "sefalometriya"
+ ],
+ "what": "Bu boshning yon tomondan surati. Ortodont shu orqali jag‘lar va tishlarning holatini o‘lchaydi.",
+ "why": "Breket yoki kappa qo‘yishdan oldin, ortodontik davolash rejasi uchun va natijani nazorat qilish uchun.",
+ "duration": "suratning o‘zi bir necha soniya, butun tashrif odatda 5–10 daqiqa; surat odatda darhol beriladi",
+ "tell_doctor": [
+  "Homiladorlik yoki u mumkin bo‘lsa",
+  "Breket, pirsing yoki olinadigan protezlaringiz bo‘lsa",
+  "Bolaga qimirlamay turish qiyin bo‘lsa: ota-ona oldindan ogohlantirgani yaxshi"
+ ],
+ "prepare": [
+  {
+   "title": "Taqinchoqlar",
+   "text": "Zirak, soch qisqichlari, ko‘zoynak, bosh va bo‘yindagi pirsinglarni yeching."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Bo‘yin va yelka sohasida metallsiz."
+  }
+ ],
+ "bring": [
+  "Ortodontning yo‘llanmasi",
+  "Hujjat",
+  "Oldingi suratlar, agar bo‘lsa"
+ ],
+ "steps": [
+  "Sizga himoya fartugi kiydirishadi",
+  "Apparat yonida turasiz yoki o‘tirasiz",
+  "Bosh quloqlardagi yumshoq tayanchlar bilan mahkamlanadi",
+  "Tishlaringizni jipslashtirib, qimirlamay turishni so‘rashadi",
+  "Apparat bir necha soniyada surat oladi"
+ ],
+ "feel": [
+  "Hech narsa og‘rimaydi",
+  "Quloqlardagi tayanchlar biroz bosishi mumkin"
+ ],
+ "after": [
+  "Darhol odatiy ishlaringiz bilan shug‘ullanishingiz mumkin",
+  "Surat odatda darhol beriladi yoki ortodontga yuboriladi",
+  "Hisob-kitoblar va davolash rejasini ortodont qabulda tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bu bolaga zararlimi?",
+   "a": "Nurlanish dozasi kichik. Surat faqat davolash uchun kerak bo‘lganda olinadi."
+  },
+  {
+   "q": "TRG panoramali suratdan nimasi bilan farq qiladi?",
+   "a": "Panoramali surat barcha tishlarni ko‘rsatadi. TRG jag‘lar holatini o‘lchash uchun boshni yon tomondan ko‘rsatadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "2 soatdan keyin TRG surati. Zirak va soch qisqichlarini yeching, ortodontning yo‘llanmasini oling."
+  }
+ ]
+}

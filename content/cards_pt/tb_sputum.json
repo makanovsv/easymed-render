@@ -1,0 +1,80 @@
+{
+ "title": "Escarro para tuberculose (baciloscopia, teste rápido molecular)",
+ "also": [
+  "escarro para tuberculose",
+  "baciloscopia",
+  "exame de escarro",
+  "teste rápido molecular para tuberculose",
+  "GeneXpert"
+ ],
+ "what": "É um exame do escarro que você tosse dos pulmões. Nele se procura a bactéria da tuberculose.",
+ "why": "Com tosse por mais de duas a três semanas, sangue no escarro, suor à noite, perda de peso, depois de contato com alguém com tuberculose, e para acompanhar o tratamento.",
+ "duration": "a coleta leva alguns minutos; a resposta rápida sai normalmente em 1 a 2 dias, a cultura pode levar algumas semanas",
+ "tell_doctor": [
+  "Há quantas semanas está a tosse e se há sangue no escarro",
+  "Se já teve tuberculose e como tratou",
+  "Se teve contato com alguém com tuberculose",
+  "Se tem HIV, diabetes ou toma remédios que baixam a imunidade"
+ ],
+ "prepare": [
+  {
+   "title": "Manhã",
+   "text": "É melhor colher o escarro de manhã, logo ao acordar, antes de comer."
+  },
+  {
+   "title": "Boca",
+   "text": "Antes da coleta, escove os dentes e enxágue a boca com água fervida."
+  },
+  {
+   "title": "Amostras",
+   "text": "Normalmente são necessárias 2 a 3 amostras, em dias diferentes ou de manhã e durante o dia. Quantas, quem diz é o médico."
+  },
+  {
+   "title": "Lugar",
+   "text": "Colha o escarro ao ar livre ou perto de uma janela aberta, longe de outras pessoas."
+  }
+ ],
+ "bring": [
+  "O frasco com o escarro",
+  "Pedido médico",
+  "Documento de identidade",
+  "Uma máscara para o rosto"
+ ],
+ "steps": [
+  "Pegue o frasco estéril e só abra a tampa na hora da coleta",
+  "Respire fundo algumas vezes e segure o ar",
+  "Tussa com força, do fundo do peito",
+  "Cuspa o escarro no frasco. Precisa ser escarro, não saliva",
+  "Feche bem a tampa e leve ao laboratório"
+ ],
+ "feel": [
+  "A tosse pode cansar",
+  "Se o escarro não sai, ajuda tomar algo morno na noite anterior"
+ ],
+ "after": [
+  "Até sair o resultado, use máscara perto de outras pessoas",
+  "Areje o quarto",
+  "Se o exame der positivo, o médico vai explicar em detalhes como é o tratamento"
+ ],
+ "red_flags": [
+  "Tosse com muito sangue: ligue para a emergência",
+  "Falta de ar forte ou dor no peito: ligue para a emergência",
+  "Febre que não baixa por vários dias: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Posso entregar saliva se não tenho escarro?",
+   "a": "Não, saliva não serve. Avise a enfermeira. Há formas de ajudar a tossir."
+  },
+  {
+   "q": "Tuberculose tem cura?",
+   "a": "Sim. O tratamento é longo, mas tomando os remédios direitinho a tuberculose normalmente tem cura."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Amanhã de manhã você colhe o escarro. Logo ao acordar, escove os dentes, enxágue a boca e tussa o escarro no frasco."
+  }
+ ]
+}

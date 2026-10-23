@@ -1,0 +1,79 @@
+{
+ "title": "Plazmaferez",
+ "also": [
+  "plazmaferez",
+  "qonni tozalash",
+  "plazma almashtirish",
+  "plazma almashinuvi"
+ ],
+ "what": "Apparat qonni oladi, undan suyuq qismini — plazmani ajratadi va qon hujayralarini qaytaradi. Shunday qilib qondan zararli moddalar olib tashlanadi.",
+ "why": "Immunitet, qon, asab tizimining ba’zi kasalliklarida va zaharlanishlarda — shifokor qaroriga ko‘ra.",
+ "duration": "seans odatda 1–3 soat; kurs — bir necha seans",
+ "tell_doctor": [
+  "Barcha dorilar, ayniqsa qonni suyultiruvchi va bosim uchun",
+  "Allergiyalar, shu jumladan qon preparatlariga",
+  "Yurak kasalliklari, past bosim",
+  "Oldingi muolajalardan keyin yomon bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda seansdan oldin yengil nonushta. Klinikadan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ichish vaqti siljishi mumkin — shifokor aytadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng yengli, bo‘sh kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Suv va kitob"
+ ],
+ "steps": [
+  "Sizni tortishadi va bosimingizni o‘lchashadi",
+  "Venaga kateter qo‘yishadi yoki mavjud kateterga ulanishadi",
+  "Qon apparatga boradi, plazma ajratiladi",
+  "Qon hujayralari o‘rnini bosuvchi eritma bilan birga qaytariladi",
+  "Hamshira bosim va ahvolingizni kuzatadi",
+  "Oxirida tizim uziladi"
+ ],
+ "feel": [
+  "Kateter qo‘yilganda sanchiq",
+  "Sovuq, lab yoki barmoqlarda chaqish — hamshiraga ayting",
+  "Ba’zan holsizlik va bosh aylanishi"
+ ],
+ "after": [
+  "Turishdan oldin bir oz o‘tiring",
+  "Kun oxirigacha — xotirjam rejim",
+  "Shifokor cheklamagan bo‘lsa, suv iching",
+  "Keyingi seanslarga jadval bo‘yicha keling"
+ ],
+ "red_flags": [
+  "Toshma, qichishish, yuz shishishi yoki nafas olish qiyinlashishi — tez yordamni chaqiring (103)",
+  "Kuchli bosh aylanishi, hushdan ketish",
+  "Kateter joyida qon ketishi yoki shish",
+  "Harorat, titroq"
+ ],
+ "faq": [
+  {
+   "q": "Plazmaferez hamma uchun «organizmni tozalaydimi»?",
+   "a": "Yo‘q. Bu ko‘rsatmalar bo‘yicha davolash muolajasi, uni aniq kasalliklarda shifokor buyuradi."
+  },
+  {
+   "q": "Nechta seans kerak?",
+   "a": "Kasallikka bog‘liq. Odatda bir necha seansdan iborat kurs."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga plazmaferez. Yengil nonushta, keng yengli kiyim, dorilar ro‘yxati."
+  }
+ ]
+}

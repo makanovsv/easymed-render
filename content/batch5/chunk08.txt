@@ -1,0 +1,30 @@
+andrologist|uro|Приём андролога|Andrology consultation|uro_room|L|2
+prostatitis|uro|Лечение простатита|Prostatitis treatment|uro_room|L|2
+cystitis|uro|Лечение цистита у женщин|Cystitis treatment in women|office|L|1
+prostatectomy|uro|Радикальная простатэктомия|Radical prostatectomy|or_room|H|3
+frenuloplasty|uro|Пластика уздечки крайней плоти|Frenuloplasty|or_room|M|3
+orchiopexy|uro|Операция при неопущении яичка у мальчика|Undescended testicle surgery in boys|or_room|H|3
+ureteral_stent|uro|Стент мочеточника: установка и удаление|Ureteral stent placement and removal|uro_room|M|3
+pcnl|uro|Перкутанная нефролитотрипсия|Percutaneous nephrolithotomy|or_room|H|3
+enuresis|uro|Лечение ночного недержания у ребёнка|Bedwetting treatment in children|office|L|2
+bladder_diary|uro|Дневник мочеиспускания|Bladder diary|home|L|2
+bladder_botox|uro|Ботокс в мочевой пузырь при гиперактивности|Bladder Botox for overactive bladder|uro_room|M|3
+tese|uro|Биопсия яичка (TESE)|Testicular sperm extraction (TESE)|or_room|H|3
+loop_recorder|cardio|Имплантация петлевого регистратора ЭКГ|Implantable loop recorder|cath_lab|M|3
+pfo_closure|cardio|Закрытие дефекта перегородки сердца (окклюдер)|Septal defect closure (occluder)|cath_lab|H|3
+tavi|cardio|Транскатетерная замена аортального клапана (TAVI)|Transcatheter aortic valve implantation (TAVI)|cath_lab|H|3
+laa_closure|cardio|Закрытие ушка левого предсердия|Left atrial appendage closure|cath_lab|H|3
+leg_angioplasty|cardio|Баллонная ангиопластика артерий ног|Balloon angioplasty of leg arteries|cath_lab|H|3
+evar|cardio|Эндопротезирование аневризмы аорты|Endovascular aortic aneurysm repair (EVAR)|cath_lab|H|3
+stroke_thrombectomy|cardio|Тромбэктомия при инсульте|Thrombectomy for stroke|cath_lab|H|3
+uae|cardio|Эмболизация маточных артерий|Uterine artery embolisation|cath_lab|H|3
+ep_study|cardio|Электрофизиологическое исследование сердца (ЭФИ)|Cardiac electrophysiology study|cath_lab|H|3
+fundoplication|surg|Операция при грыже пищеводного отверстия и рефлюксе|Hiatal hernia repair and fundoplication|or_room|H|3
+parathyroid|surg|Удаление паращитовидной железы|Parathyroidectomy|or_room|H|3
+achilles|surg|Операция при разрыве ахиллова сухожилия|Achilles tendon repair|or_room|H|3
+vertebroplasty|surg|Вертебропластика при переломе позвонка|Vertebroplasty for a vertebral fracture|or_room|H|3
+pyloromyotomy|surg|Операция при пилоростенозе у младенца|Pyloromyotomy in infants|or_room|H|3
+lobectomy|surg|Удаление доли лёгкого|Lung lobectomy|or_room|H|3
+breast_recon|surg|Реконструкция груди после мастэктомии|Breast reconstruction after mastectomy|or_room|H|3
+abdominoplasty|surg|Абдоминопластика|Abdominoplasty (tummy tuck)|or_room|H|3
+anal_fistula|surg|Операция при свище прямой кишки|Anal fistula surgery|or_room|H|3

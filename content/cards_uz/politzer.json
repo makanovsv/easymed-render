@@ -1,0 +1,71 @@
+{
+ "title": "Eshitish naylarini puflash",
+ "also": [
+  "quloqlarni puflash",
+  "Politser bo‘yicha puflash",
+  "eshitish nayini kateterlash",
+  "quloq bitishi"
+ ],
+ "what": "Shifokor eshitish naylarini — burun va quloqni bog‘laydigan kanallarni havo bilan puflaydi. Bu quloqdagi bosimni tenglashtirishga yordam beradi.",
+ "why": "Shamollash yoki parvozdan keyin quloq bitishida, suyuqlikli otitda, eshitish pasayganda.",
+ "duration": "odatda 5–15 daqiqa, kurs — bir necha muolaja",
+ "tell_doctor": [
+  "Burun bitgan yoki tumov bo‘lsa",
+  "Quloq yoki burunda operatsiyalar bo‘lganmi",
+  "Burundan qon ketsa",
+  "Yaqinda kuchli otit bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Burun",
+   "text": "Burun bitgan bo‘lsa, shifokor tomir toraytiruvchi tomchi tomizishi mumkin."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Maxsus tayyorgarlik yo‘q."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Oldingi eshitish ko‘rigi natijalari"
+ ],
+ "steps": [
+  "Shifokor quloq va burunni ko‘radi",
+  "Ba’zan burunga tomchi tomizadi",
+  "Uchlikni bir burun teshigiga kiritadi, ikkinchisini bosib turadi",
+  "Bir so‘z aytishni yoki yutinishni so‘raydi",
+  "Shu paytda havo oqimi beriladi",
+  "Shifokor natijani tekshiradi"
+ ],
+ "feel": [
+  "Quloqda havo turtkisi seziladi",
+  "Quloqda shovqin yoki chiqillash bo‘lishi mumkin",
+  "Burunda yengil noxush his"
+ ],
+ "after": [
+  "Bitish odatda darhol yoki bir necha muolajadan keyin kamayadi",
+  "Burunni qattiq qoqmang",
+  "Kurs va tomchilar — shifokor buyrug‘i bo‘yicha"
+ ],
+ "red_flags": [
+  "Muolajadan keyin quloqda kuchli og‘riq",
+  "Quloqdan suyuqlik yoki qon",
+  "Eshitishning keskin pasayishi yoki bosh aylanishi"
+ ],
+ "faq": [
+  {
+   "q": "Quloqlarni puflash zararlimi?",
+   "a": "To‘g‘ri ko‘rsatma bo‘lsa, bu xavfsiz muolaja."
+  },
+  {
+   "q": "Quloqlarni o‘zi puflasa bo‘ladimi?",
+   "a": "Shifokor maslahatisiz yaxshi emas — zarar yetkazish mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga eshitish naylarini puflash. Burun bitgan bo‘lsa — shifokorga ayting."
+  }
+ ]
+}

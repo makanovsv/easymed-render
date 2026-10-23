@@ -1,0 +1,73 @@
+{
+ "title": "Hepatitis C PCR (viral load)",
+ "also": [
+  "HCV RNA",
+  "hepatitis C viral load",
+  "quantitative hepatitis C PCR",
+  "hep C PCR test"
+ ],
+ "what": "This blood test looks for the hepatitis C virus itself and shows how much of it is in your blood.",
+ "why": "If hepatitis C antibodies were found, to see whether the virus is there now. Also before, during, and after treatment.",
+ "duration": "the blood draw takes a few minutes; results usually come in a few days",
+ "tell_doctor": [
+  "If you were treated for hepatitis C, and when it ended",
+  "What medicines you take now",
+  "If you have other liver conditions or HIV",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast strictly, but it is better to come 3 to 4 hours after a light, non-fatty meal. Check with the lab."
+  },
+  {
+   "title": "Medicines",
+   "text": "If you are on treatment, keep taking it as scheduled. Do not skip pills before the test."
+  },
+  {
+   "title": "Clothing",
+   "text": "A sleeve you can easily roll up above the elbow."
+  }
+ ],
+ "bring": [
+  "Your referral or list of tests",
+  "Your ID",
+  "Past hepatitis C test results",
+  "Your treatment summary, if you had treatment"
+ ],
+ "steps": [
+  "You sit down and rest your arm on the armrest",
+  "A band is tied above your elbow, and you are asked to clench your fist a few times",
+  "The skin is wiped with antiseptic",
+  "A quick prick. Blood fills the tubes in a few seconds",
+  "The needle comes out, and a cotton pad is pressed on the spot"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Until you get the result, use only your own razor and toothbrush",
+  "Your result is confidential. Only you or your doctor will get it."
+ ],
+ "red_flags": [
+  "The puncture site is very swollen, painful, and red"
+ ],
+ "faq": [
+  {
+   "q": "I have antibodies but no virus. What does that mean?",
+   "a": "Often it means you met the virus at some point, but it is not there now. Your doctor will tell you for sure."
+  },
+  {
+   "q": "Can hepatitis C be cured?",
+   "a": "Yes. Today it is usually cured with tablets. Your doctor will choose the treatment."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Hepatitis C PCR tomorrow. Better to skip fatty food in the morning. Take medicines as usual."
+  }
+ ]
+}

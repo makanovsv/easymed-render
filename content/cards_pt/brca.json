@@ -1,0 +1,76 @@
+{
+ "title": "Teste genético BRCA1/2",
+ "also": [
+  "exame BRCA",
+  "teste genético para câncer de mama",
+  "mutação BRCA",
+  "BRCA1 e BRCA2"
+ ],
+ "what": "É um exame de sangue ou saliva que procura alterações hereditárias nos genes BRCA1 e BRCA2. Essas alterações aumentam o risco de câncer de mama e de ovário.",
+ "why": "Se na família houve vários casos de câncer de mama, ovário, próstata ou pâncreas; se o câncer de mama apareceu em idade jovem; para escolher o tratamento.",
+ "duration": "a coleta leva normalmente 5 minutos, o resultado sai normalmente em 2 a 4 semanas",
+ "tell_doctor": [
+  "Quem na família teve câncer e com que idade, dos dois lados",
+  "Se um parente já teve uma alteração no gene encontrada. Leve o laudo dele",
+  "Se você recebeu sangue ou fez transplante de medula óssea",
+  "Para que você quer o teste: ver o risco ou escolher o tratamento"
+ ],
+ "prepare": [
+  {
+   "title": "Consulta",
+   "text": "É melhor conversar com um médico geneticista antes do exame: o que o teste mostra e o que fazer com o resultado."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não é preciso jejum. Confirme com o laboratório."
+  },
+  {
+   "title": "Família",
+   "text": "Faça uma lista dos parentes com câncer: quem, qual câncer, com que idade."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Lista dos parentes com câncer",
+  "Laudo genético do parente, se tiver"
+ ],
+ "steps": [
+  "Você se senta, e a enfermeira coloca o garrote no braço",
+  "Limpam a pele com antisséptico",
+  "O sangue é colhido da veia em um tubo",
+  "Às vezes, em vez de sangue, colhem saliva num tubo",
+  "A amostra vai para o laboratório de genética"
+ ],
+ "feel": [
+  "Uma picada rápida, como num exame de sangue comum",
+  "Ficar ansioso é comum e normal. Tire suas dúvidas com o médico"
+ ],
+ "after": [
+  "O resultado sai normalmente em 2 a 4 semanas",
+  "É melhor conversar sobre o resultado com o médico geneticista",
+  "Se acharem uma alteração, o médico explica os exames e as medidas de proteção, e os parentes podem fazer o teste",
+  "Se não acharem, isso não garante que não haverá câncer. O médico diz quais exames você precisa"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Se acharem a mutação, eu com certeza vou ter câncer?",
+   "a": "Não. O risco é maior que o de outras pessoas, mas não é uma sentença. Há exames e medidas que diminuem esse risco."
+  },
+  {
+   "q": "Preciso repetir esse exame?",
+   "a": "Normalmente não. Os genes não mudam ao longo da vida. Uma vez basta."
+  },
+  {
+   "q": "Homens precisam desse teste?",
+   "a": "Às vezes sim. Alterações no BRCA também acontecem em homens e passam para filhos e filhas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você faz o teste genético BRCA. Leve a lista dos parentes com câncer e os laudos deles, se tiver."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Cultura do nariz para Staphylococcus aureus",
+ "also": [
+  "swab nasal para estafilococo",
+  "cultura nasal",
+  "portador de estafilococo",
+  "swab nasal para MRSA"
+ ],
+ "what": "É um swab do nariz em que se procura o Staphylococcus aureus e se testa quais remédios funcionam contra ele.",
+ "why": "Antes de cirurgia marcada, para profissionais de saúde, com espinhas com pus e furúnculos frequentes, ou por indicação de controle de infecção.",
+ "duration": "o swab leva menos de um minuto, o resultado sai normalmente em 3 a 5 dias",
+ "tell_doctor": [
+  "Se tomou antibióticos nas últimas semanas",
+  "Se usa pomadas ou gotas no nariz",
+  "Se tem furúnculos com frequência",
+  "Se vai fazer uma cirurgia em breve"
+ ],
+ "prepare": [
+  {
+   "title": "Nariz",
+   "text": "Nas horas antes do swab, não lave o nariz e não use gotas nem pomadas, se o médico não disser outra coisa."
+  },
+  {
+   "title": "Antibióticos",
+   "text": "É melhor fazer o exame antes de começar o antibiótico. Se já está tomando, não pare por conta própria. Avise o médico."
+  },
+  {
+   "title": "Manhã",
+   "text": "Normalmente o swab é feito de manhã. Pode tomar café da manhã, mas não faça gargarejo. Confirme com o laboratório."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade"
+ ],
+ "steps": [
+  "Você se senta e inclina um pouco a cabeça para trás",
+  "A enfermeira coloca a haste numa narina, sem ir fundo",
+  "Passam a haste pelas paredes do nariz",
+  "Fazem o mesmo na outra narina",
+  "A haste vai para um tubo"
+ ],
+ "feel": [
+  "Faz cócegas, pode dar vontade de espirrar",
+  "Às vezes os olhos lacrimejam. Passa logo"
+ ],
+ "after": [
+  "Você pode voltar à rotina logo em seguida",
+  "Se acharem estafilococo sem sintomas, nem sempre é preciso tratar. O médico decide",
+  "Não comece pomada com antibiótico por conta própria"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Estafilococo no nariz é doença?",
+   "a": "Muitas vezes não. Muitas pessoas saudáveis têm no nariz sem nenhum problema. O tratamento só é necessário em alguns casos."
+  },
+  {
+   "q": "Para que esse exame antes da cirurgia?",
+   "a": "Para diminuir o risco de infecção na ferida. Se acharem a bactéria, o médico pode indicar uma limpeza especial."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 6,
+   "text": "Hoje você faz o swab do nariz. Antes dele, não lave o nariz nem pingue gotas."
+  }
+ ]
+}

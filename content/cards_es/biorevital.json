@@ -1,0 +1,77 @@
+{
+ "title": "Biorevitalización",
+ "also": [
+  "biorevitalización",
+  "bioestimulación de la piel",
+  "inyecciones de ácido hialurónico",
+  "inyecciones hidratantes",
+  "mesoterapia con hialurónico"
+ ],
+ "what": "El médico pone en la piel muchas inyecciones pequeñas con ácido hialurónico. Hidrata la piel desde adentro.",
+ "why": "Cuando la piel está seca, opaca, con arruguitas finas, después del sol o antes de un evento importante.",
+ "duration": "el procedimiento suele durar de 30 a 60 minutos; normalmente son varias sesiones y el efecto se nota en unos días",
+ "tell_doctor": [
+  "Si estás embarazada o amamantando",
+  "Si tomas medicamentos que adelgazan la sangre",
+  "Si te sale herpes en los labios",
+  "Alergias, sobre todo a las cremas anestésicas",
+  "Si te hiciste hace poco una limpieza, un peeling u otras inyecciones"
+ ],
+ "prepare": [
+  {
+   "title": "El día anterior",
+   "text": "De 1 a 2 días antes, mejor sin alcohol ni sauna."
+  },
+  {
+   "title": "Piel",
+   "text": "Si hay inflamación en la cara o un herpes en los labios, normalmente se pospone el procedimiento."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas y él decidirá."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La lista de medicamentos, si tomas alguno de forma constante"
+ ],
+ "steps": [
+  "Limpian la piel y quitan el maquillaje",
+  "Ponen una crema anestésica y esperan a que haga efecto",
+  "Limpian la piel con antiséptico",
+  "El médico pone muchas inyecciones pequeñas con una aguja fina",
+  "Al final tratan la piel con un producto calmante"
+ ],
+ "feel": [
+  "Hormigueo y ardor durante las inyecciones",
+  "Después, bultitos pequeños en la piel, que normalmente pasan en 1 o 2 días",
+  "A veces enrojecimiento y moretones pequeños"
+ ],
+ "after": [
+  "No te toques la cara con las manos el primer día",
+  "Normalmente 1 o 2 días sin maquillaje, sauna, alberca ni deporte",
+  "Usa protector solar",
+  "La siguiente sesión, en la fecha que indique el médico"
+ ],
+ "red_flags": [
+  "Hinchazón fuerte, dolor y enrojecimiento que aumentan el 2.º o 3.er día",
+  "Granitos con pus o piel caliente en los lugares de las inyecciones",
+  "Hinchazón de la cara o los labios, dificultad para respirar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto duran los bultitos después de las inyecciones?",
+   "a": "Normalmente 1 o 2 días. Si duran más, muéstraselos al médico."
+  },
+  {
+   "q": "¿Duele?",
+   "a": "Normalmente se aguanta: antes de las inyecciones se pone una crema anestésica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes la biorevitalización. Hoy, sin alcohol ni sauna. Si puedes, ven sin maquillaje."
+  }
+ ]
+}

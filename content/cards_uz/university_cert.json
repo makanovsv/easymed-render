@@ -1,0 +1,72 @@
+{
+ "title": "Oliy o‘quv yurtiga kirish uchun tibbiy ma’lumotnoma",
+ "also": [
+  "086-sonli ma’lumotnoma",
+  "086/u ma’lumotnoma",
+  "abituriyentning tibbiy ma’lumotnomasi",
+  "kirish uchun ma’lumotnoma"
+ ],
+ "what": "Oliy o‘quv yurti yoki kollej talab qiladigan sog‘liq holati haqidagi ma’lumotnoma. U bir necha shifokor ko‘rigi va tahlillardan keyin beriladi.",
+ "why": "Oliy o‘quv yurti, kollejga kirishda, ba’zi mutaxassisliklar uchun — qo‘shimcha talablar bilan.",
+ "duration": "hammasiga odatda 1–3 kun, ma’lumotnoma tahlillardan keyin beriladi",
+ "tell_doctor": [
+  "Surunkali kasalliklar",
+  "Ko‘z kasalliklari va ko‘rish",
+  "Qanday dorilar ichayotganingiz",
+  "Oliy o‘quv yurtingizning ma’lumotnomaga talablari"
+ ],
+ "prepare": [
+  {
+   "title": "Talablar",
+   "text": "Qabul komissiyasidan qanday shakldagi ma’lumotnoma kerakligini va mutaxassislik uchun alohida talablar bor-yo‘qligini bilib oling."
+  },
+  {
+   "title": "Tahlillar",
+   "text": "Qon va siydik odatda ertalab och qoringa topshiriladi. Klinikadan so‘rang."
+  },
+  {
+   "title": "Emlashlar",
+   "text": "Emlash pasporti yoki sertifikatini oling."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Emlash sertifikati",
+  "So‘nggi bir yildagi flyuorografiya, agar bo‘lsa",
+  "Oliy o‘quv yurtining talablar ro‘yxati"
+ ],
+ "steps": [
+  "Anketani to‘ldirasiz",
+  "Qon va siydik topshirasiz",
+  "Yangi flyuorografiya bo‘lmasa, qilasiz",
+  "Ro‘yxat bo‘yicha terapevt, okulist, LOR, jarroh, nevrolog va boshqalardan o‘tasiz",
+  "Ba’zan EKG qilinadi",
+  "Terapevt ma’lumotnomani rasmiylashtiradi"
+ ],
+ "feel": [
+  "Ko‘riklar og‘riqsiz",
+  "Qon tahlili — qisqa ukol"
+ ],
+ "after": [
+  "Ma’lumotnomada barcha muhr va imzolar borligini tekshiring",
+  "O‘zingiz uchun nusxa oling",
+  "Ma’lumotnomani qabul komissiyasiga o‘z vaqtida topshiring"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ma’lumotnoma qancha muddat amal qiladi?",
+   "a": "Odatda bir necha oy, muddati qoidalarga bog‘liq. Oliy o‘quv yurtidan so‘rang."
+  },
+  {
+   "q": "Sirtqi ta’lim uchun ma’lumotnoma kerakmi?",
+   "a": "Ba’zan kerak emas. Qabul komissiyasidan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga oliy o‘quv yurti uchun ma’lumotnoma bo‘yicha tibbiy ko‘rik. Tahlillargacha ertalab ovqat yemang, emlash sertifikatini oling."
+  }
+ ]
+}

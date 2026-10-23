@@ -1,0 +1,78 @@
+{
+ "title": "Bolada gemangiomani davolash",
+ "also": [
+  "gemangioma",
+  "chaqaloqdagi qizil dog‘",
+  "qon tomir o‘smasi",
+  "qulupnaysimon dog‘",
+  "gemangiomani davolash"
+ ],
+ "what": "Gemangioma — chaqaloqlarda xavfsiz qon tomir dog‘i. U odatda dastlabki oylarda o‘sadi, keyin sekin o‘zi kichrayadi. Ba’zan davolashadi.",
+ "why": "Gemangioma tez o‘sganda, ko‘z, lab, burun yonida, ishqalanadigan joylarda bo‘lsa yoki yara bo‘lsa.",
+ "duration": "qabul odatda 20–30 daqiqa; davolash — odatda oylar",
+ "tell_doctor": [
+  "Qachon paydo bo‘lgan va qanchalik tez o‘syapti",
+  "Dog‘da yaralar, qon bo‘lganmi",
+  "Chaqaloqda yurak, nafas kasalliklari, past shakar bormi",
+  "Bolaning barcha dorilari va qo‘shimchalari"
+ ],
+ "prepare": [
+  {
+   "title": "Surat",
+   "text": "Dog‘ni yon tomondan chizg‘ich bilan suratga oling — o‘sayotgani ko‘rinadi."
+  },
+  {
+   "title": "Qaror",
+   "text": "Kutish yoki davolashni shifokor hal qiladi. Ba’zan tabletkalar bilan, ba’zan lazer bilan davolashadi."
+  },
+  {
+   "title": "Tabletkalar",
+   "text": "Tabletkalar buyurilsa, birinchi qabulni ko‘pincha shifokor kuzatuvida o‘tkazishadi."
+  }
+ ],
+ "bring": [
+  "Dog‘ning oxirgi haftalardagi suratlari",
+  "Chaqaloqning tibbiy kartasi",
+  "Shifokorga savollar ro‘yxati",
+  "Chaqaloqni tinchlantirish uchun shisha yoki ko‘krak"
+ ],
+ "steps": [
+  "Shifokor dog‘ni ko‘rib, o‘lchaydi",
+  "Ba’zan ultratovush qiladi",
+  "Davolash kerak yoki yo‘qligini tushuntiradi",
+  "Kerak bo‘lsa, tabletkalar yoki lazer buyuradi",
+  "Lazer: chaqaloqning ko‘zlari himoya qilinadi, dog‘ qisqa yaltirashlar bilan ishlanadi",
+  "Keyingi ko‘rik belgilanadi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "Lazer — rezinka chertilgandek, teri sovutiladi; chaqaloq yig‘lashi mumkin"
+ ],
+ "after": [
+  "Tabletkalar buyurilsa — ovqat bilan birga va bir xil vaqtda bering",
+  "Tabletkalarni o‘zingiz bekor qilmang",
+  "Dog‘ni haftada yoki ikki haftada bir marta suratga oling",
+  "Nazorat ko‘riklariga boring"
+ ],
+ "red_flags": [
+  "Dog‘dan qon ketsa yoki yara paydo bo‘lsa — shifokorga",
+  "Dog‘ ko‘zni ochishga yoki nafas olishga xalaqit bersa — darrov shifokorga",
+  "Tabletkada: chaqaloq madorsiz, rangi oqargan, terlagan, yomon emayotgan bo‘lsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Gemangioma o‘zi o‘tib ketadimi?",
+   "a": "Ko‘pincha u bir necha yilda o‘zi kichrayadi. Davolash kerakmi, shifokor hal qiladi."
+  },
+  {
+   "q": "Gemangioma xavflimi?",
+   "a": "Odatda yo‘q. Ko‘zga, nafasga xalaqit bersa yoki qonasa xavfli."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga gemangioma bo‘yicha qabul. Dog‘ suratlarini va chaqaloqning tibbiy kartasini oling."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Hives (urticaria) visit",
+ "also": [
+  "hives",
+  "urticaria",
+  "welts on the skin",
+  "allergic rash",
+  "itchy rash like nettle stings"
+ ],
+ "what": "Hives are itchy welts on the skin, like a nettle sting. The patches appear and fade quickly. The doctor looks for the cause and chooses the treatment.",
+ "why": "When itchy welts appear on the skin, once or repeatedly over weeks.",
+ "duration": "the visit usually takes 20 to 30 minutes; tests as the doctor orders",
+ "tell_doctor": [
+  "When it started, how long patches last and how often they come",
+  "What you ate, what medicines you took, and what happened before the rash",
+  "Whether your lips, eyelids or tongue swelled",
+  "All medicines and supplements you take"
+ ],
+ "prepare": [
+  {
+   "title": "Photos",
+   "text": "Take photos of the rash. It may be gone by the visit."
+  },
+  {
+   "title": "Diary",
+   "text": "Write down when the rash appeared and what came before it."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop your own medicines. If you take an allergy medicine, tell the doctor."
+  }
+ ],
+ "bring": [
+  "Photos of the rash",
+  "A list of medicines and supplements",
+  "A diary of flare-ups",
+  "Past test results"
+ ],
+ "steps": [
+  "The doctor asks about the rash in detail",
+  "Examines the skin",
+  "Sometimes draws a finger across the skin to check the reaction",
+  "Orders tests if needed",
+  "Chooses a medicine and explains how to take it"
+ ],
+ "feel": [
+  "The exam does not hurt",
+  "Itching can be severe. Treatment usually helps quickly"
+ ],
+ "after": [
+  "Take the medicine as the doctor said, even if the rash has gone",
+  "Avoid whatever triggers the rash, if known",
+  "Do not wear tight clothes or take hot baths during a flare-up",
+  "If the rash lasts more than 6 weeks, come back for another visit"
+ ],
+ "red_flags": [
+  "Swelling of the lips, tongue or throat, trouble swallowing or breathing: call your local emergency number",
+  "Weakness, dizziness or fainting together with the rash: call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Are hives contagious?",
+   "a": "No. They do not pass from person to person."
+  },
+  {
+   "q": "Is it always a food allergy?",
+   "a": "No. Often the cause cannot be found. It can follow infections or medicines. The doctor will help work it out."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Visit about hives tomorrow. Bring photos of the rash and your list of medicines."
+  }
+ ]
+}

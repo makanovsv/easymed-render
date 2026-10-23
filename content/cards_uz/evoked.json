@@ -1,0 +1,73 @@
+{
+ "title": "Chaqirilgan potensiallar",
+ "also": [
+  "ChP",
+  "KChP",
+  "SChP",
+  "miya chaqirilgan potensiallari",
+  "ko‘ruv chaqirilgan potensiallari"
+ ],
+ "what": "Shifokor rasmlar ko‘rsatadi, tovushlar beradi yoki qo‘l va oyoqqa kuchsiz impulslar yuboradi. Boshdagi elektrodlar signal miyaga qanchalik tez yetib borishini yozadi.",
+ "why": "Ko‘rish, eshitish yoki sezuvchanlik muammolarida, asab tizimi kasalliklariga shubha qilinganda, nervlarni baholash uchun.",
+ "duration": "odatda 30–90 daqiqa, xulosa odatda 1–3 kunda",
+ "tell_doctor": [
+  "Ko‘zoynak yoki linza taqasizmi",
+  "Eshitishda muammolar bormi",
+  "Qanday dorilar ichasiz",
+  "Yurak stimulyatori bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Sochlar",
+   "text": "Bir kun oldin boshni yuving, moy va laksiz."
+  },
+  {
+   "title": "Ko‘zoynak",
+   "text": "Ko‘zoynak yoki linza taqsangiz, olib keling."
+  },
+  {
+   "title": "Ahvol",
+   "text": "Yaxshi uxlab oling. Ertalab ovqatlansa bo‘ladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Ko‘zoynak yoki linzalar",
+  "Dorilar ro‘yxati",
+  "Nevrologning avvalgi xulosalari"
+ ],
+ "steps": [
+  "Boshga va ba’zan qo‘l yoki oyoqqa elektrodlar qo‘yiladi",
+  "Ko‘rish uchun — shaxmat taxtasi tushirilgan ekranga qaraysiz",
+  "Eshitish uchun — chertish tovushli quloqchin taqishadi",
+  "Sezuvchanlik uchun — qo‘l yoki oyoqqa kuchsiz impulslar beriladi",
+  "Tinch o‘tirib, e’tiborli bo‘lish kerak",
+  "Elektrodlar olinadi"
+ ],
+ "feel": [
+  "Rasmlar va tovushlar — og‘rimaydi",
+  "Impulslar yengil chimirlash yoki barmoqning tortishishidek seziladi"
+ ],
+ "after": [
+  "Darhol odatdagi ishlarga qaytsangiz bo‘ladi",
+  "Uyda boshingizni yuving",
+  "Xulosa odatda 1–3 kunda"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Impulslar og‘riydimi?",
+   "a": "Bu kuchsiz zaryadlar, chimirlashdek. Kuchi chidasa bo‘ladigan qilib tanlanadi."
+  },
+  {
+   "q": "Ko‘zoynakda qarasa bo‘ladimi?",
+   "a": "Ha, hatto kerak. O‘z ko‘zoynak yoki linzalaringizni oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga chaqirilgan potensiallar. Boshni moy va laksiz yuving. Ko‘zoynak taqsangiz, oling."
+  }
+ ]
+}

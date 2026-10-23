@@ -1,0 +1,73 @@
+{
+ "title": "Temir bilan tomchi (kapelnitsa)",
+ "also": [
+  "tomirga temir",
+  "tomir ichiga temir",
+  "temir infuziyasi",
+  "temirli kapelnitsa"
+ ],
+ "what": "Temir preparati tomirga tomchi orqali yuboriladi. Shunda temir zaxirasi tabletkaga qaraganda tezroq to‘ladi.",
+ "why": "Temir tanqisligi kamqonligida, tabletkalar yordam bermasa yoki yomon o‘tsa, homiladorlikda, operatsiyadan oldin — shifokor buyrug‘i bilan.",
+ "duration": "bitta tomchi odatda 15–60 daqiqa, yana 30 daqiqa kuzatuv; tahlilda samara — bir necha haftadan keyin",
+ "tell_doctor": [
+  "Oldin temir preparatlariga yoki boshqa dorilarga allergiya bo‘lgan bo‘lsa",
+  "Astma, og‘ir allergiyalar",
+  "Homilador bo‘lsangiz",
+  "Temir tabletkalarini ichayotgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda odatdagidek ovqatlansangiz bo‘ladi."
+  },
+  {
+   "title": "Tabletkalar",
+   "text": "O‘zingiz bekor qilmang. Shifokorga ayting, tomchi bilan bir vaqtda temir tabletkalari kerakmi yoki yo‘qmi, u hal qiladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yengi qulay kiyim kiying."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va yangi qon tahlillari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Hamshira tomirga kateter qo‘yadi",
+  "Temir preparati bilan tomchi ulanadi",
+  "Tomchi sekin tomadi, sizni kuzatib turishadi",
+  "Vaqti-vaqti bilan bosim va puls o‘lchanadi",
+  "Tugagach, yana taxminan 30 daqiqa o‘tirasiz"
+ ],
+ "feel": [
+  "Odatda hech narsa",
+  "Ba’zan og‘izda metall ta’mi yoki yengil ko‘ngil aynishi",
+  "1–2 kun bosh og‘rig‘i yoki mushaklarda og‘riq bo‘lishi mumkin"
+ ],
+ "after": [
+  "Odatdagi kun, uyga ketsangiz bo‘ladi",
+  "Preparat teri ostiga tushib ketsa, jigarrang dog‘ qolishi mumkin — shuning uchun qo‘lda achishish sezsangiz, darrov ayting",
+  "Qon tahlili odatda bir necha haftadan keyin takrorlanadi"
+ ],
+ "red_flags": [
+  "Tomchi paytida: qo‘lda achishish, toshma, qichishish, nafas qisishi, bosh aylanishi — darrov hamshiraga ayting",
+  "Uyda yuz shishsa, nafas olish qiyin bo‘lsa — 103 ni chaqiring"
+ ],
+ "faq": [
+  {
+   "q": "Nega tabletka emas?",
+   "a": "Tabletkalar sekinroq yordam beradi va ba’zan yomon o‘tadi. Tomchi birdaniga ko‘p temir beradi."
+  },
+  {
+   "q": "Nechta tomchi kerak?",
+   "a": "Preparatga va temir qanchalik yetishmasligiga bog‘liq. Odatda 1–3 ta — shifokor hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun temirli tomchi. Ovqatlaning, yengi qulay kiyim kiying."
+  }
+ ]
+}

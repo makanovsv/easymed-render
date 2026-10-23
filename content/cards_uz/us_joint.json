@@ -1,0 +1,61 @@
+{
+ "title": "Bo‘g‘im UZIsi",
+ "also": [
+  "tizza bo‘g‘imi UZIsi",
+  "yelka bo‘g‘imi UZIsi",
+  "bo‘g‘im ultratovushi"
+ ],
+ "what": "Shifokor bo‘g‘im, boylamlar, paylar va mushaklarni ultratovush bilan ko‘radi. Bu xavfsiz, nurlanishsiz.",
+ "why": "Bo‘g‘im og‘riganda, shishganda, jarohatda, boylam uzilishi yoki bo‘g‘imda suyuqlik gumon qilinganda.",
+ "duration": "odatda 15–30 daqiqa",
+ "tell_doctor": [
+  "Jarohatni qachon va qanday olganingizni",
+  "Aynan qayerda va qanday harakatlarda og‘rishini",
+  "Bu bo‘g‘imda operatsiyalar bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Maxsus tayyorgarlik kerak emas. Odatdagidek yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Bo‘g‘imni oson ochish uchun qulay kiyim. Tizza UZIsiga — shorti yoki keng shim."
+  },
+  {
+   "title": "Teri",
+   "text": "Tekshiruv kuni o‘sha joyga krem yoki surtma surtmang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi suratlar va xulosalar: rentgen, MRT, UZI"
+ ],
+ "steps": [
+  "Bo‘g‘imni ochib, o‘tirasiz yoki yotasiz",
+  "Shifokor salqin gel suradi",
+  "Datchik bo‘g‘im atrofidagi teri ustida yuritiladi",
+  "Qo‘l yoki oyoqni bukish, yozish yoki burishni so‘rashadi",
+  "Ko‘pincha solishtirish uchun ikkinchi bo‘g‘im ham ko‘riladi"
+ ],
+ "feel": [
+  "Gel salqin",
+  "Bo‘g‘im og‘riyotgan bo‘lsa, datchik bosganda yoqimsiz bo‘lishi mumkin — shifokorga ayting"
+ ],
+ "after": [
+  "Gel artiladi — darrov ishlarga qaytsa bo‘ladi",
+  "Xulosa odatda darrov beriladi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bo‘g‘im uchun qaysi biri yaxshi — UZI yoki MRT?",
+   "a": "UZI boylam, pay va suyuqlikni yaxshi ko‘radi, uni harakatda qilsa bo‘ladi. MRT chuqur tuzilmalarni, masalan menisk va tog‘ayni yaxshiroq ko‘rsatadi. Tanlovni shifokor qiladi."
+  },
+  {
+   "q": "UZIda suyaklar ko‘rinadimi?",
+   "a": "Faqat ularning yuzasi. Suyak va sinishlar uchun rentgen yoki KT kerak."
+  }
+ ],
+ "reminders": []
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Kolonoskopiya paytida poliplarni olib tashlash",
+ "also": [
+  "polipektomiya",
+  "poliplarni olib tashlash",
+  "ichak polipini olib tashlash",
+  "endoskopik polipektomiya"
+ ],
+ "what": "Polip — ichak devoridagi kichik o‘simta. Kolonoskopiya paytida shifokor uni xuddi shu naycha orqali ilmoq yoki qisqich bilan olib tashlaydi.",
+ "why": "Kolonoskopiyada polip topilganda. Ba’zi poliplar vaqt o‘tishi bilan yomon o‘smaga aylanishi mumkin, shuning uchun ularni oldindan olib tashlashadi.",
+ "duration": "kolonoskopiyaga odatda 5–20 daqiqa qo‘shadi; polip tahlili natijasi — odatda 1–2 haftada",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilar — ularni ba’zan olib tashlashdan oldin almashtirishadi; shifokor hal qiladi",
+  "Yurak stimulyatoringiz bo‘lsa",
+  "Qandli diabet",
+  "Avval poliplar olib tashlangan bo‘lsa — xulosalarni oling"
+ ],
+ "prepare": [
+  {
+   "title": "Kolonoskopiyadagidek",
+   "text": "2–3 kun kletchatkasiz parhez va ichakni shifokor sxemasi bo‘yicha eritma bilan tozalash."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Hamma dorilar haqida shifokorga ayting, u nimani va qachon o‘zgartirishni hal qiladi."
+  },
+  {
+   "title": "Sedatsiya",
+   "text": "Muolaja uyquda bo‘lsa, hamroh kerak."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi kolonoskopiya xulosalari",
+  "Dorilar ro‘yxati",
+  "Sedatsiya bo‘lsa, hamroh"
+ ],
+ "steps": [
+  "Kolonoskopiya odatdagidek o‘tadi",
+  "Shifokor polipni topadi va ko‘zdan kechiradi",
+  "Naycha orqali ingichka ilmoq yoki qisqich o‘tkaziladi",
+  "Polip devordan ajratiladi, ba’zan joyi kuydiriladi",
+  "Ba’zan joyga kichik klips qo‘yiladi",
+  "Polip chiqarib olinadi va tahlilga yuboriladi"
+ ],
+ "feel": [
+  "Olib tashlashning o‘zi odatda sezilmaydi: ichak devorida og‘riq nervlari yo‘q",
+  "Kolonoskopiyadagi kabi havodan dam bo‘lish"
+ ],
+ "after": [
+  "Odatda 1–2 kun — yengil ovqat, alkogolsiz; shifokordan aniqlang",
+  "Shifokor shunday degan bo‘lsa, bir necha kun og‘ir ko‘tarmang va intensiv sport qilmang",
+  "Dastlabki kunlari najasda ozgina qon bo‘lishi mumkin",
+  "Klips o‘zi chiqib ketadi, uni qidirish shart emas",
+  "Keyingi kolonoskopiyani shifokor tahlil natijasiga qarab belgilaydi"
+ ],
+ "red_flags": [
+  "To‘g‘ri ichakdan ko‘p qon yoki laxtalar — tez yordamni chaqiring (103)",
+  "Qorinda kuchli kuchayib boruvchi og‘riq — tez yordamni chaqiring (103)",
+  "Harorat 38 dan yuqori, holsizlik, bosh aylanishi — darhol shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Polip saratonmi?",
+   "a": "Ko‘pincha yo‘q. Tahlil uning nima bo‘lganini ko‘rsatadi. Olib tashlash polipning o‘zgarishiga yo‘l qo‘ymaslik uchun kerak."
+  },
+  {
+   "q": "Polip yana o‘sishi mumkinmi?",
+   "a": "Yangi poliplar paydo bo‘lishi mumkin. Shuning uchun shifokor ma’lum muddatdan keyin nazorat kolonoskopiyasini belgilaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga poliplarni olib tashlash bilan kolonoskopiya. Bugun — faqat tiniq suyuqliklar va shifokor sxemasi bo‘yicha eritma."
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Timpanoplastia",
+ "also": [
+  "timpanoplastia",
+  "cirugía del tímpano",
+  "reparar el tímpano",
+  "tímpano perforado"
+ ],
+ "what": "El cirujano cierra el agujero del tímpano con un pedacito de tu propio tejido. A veces también reparan los huesitos del oído.",
+ "why": "Si tienes un agujero en el tímpano que no cierra, te sale líquido del oído seguido o bajó tu audición.",
+ "duration": "la cirugía suele durar de 1 a 2 horas; normalmente te quedas en el hospital 1 o 2 días",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que hacen la sangre más líquida. El médico te dirá cuál dejar y cuándo",
+  "Tus alergias",
+  "Enfermedades crónicas",
+  "Si tuviste problemas con la anestesia",
+  "Si te sale líquido del oído antes de la cirugía"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Prueba de audición, análisis y a veces tomografía. La clínica te dará la lista."
+  },
+  {
+   "title": "Oído",
+   "text": "Antes de la cirugía el oído normalmente debe estar seco. No lo mojes."
+  },
+  {
+   "title": "Comida",
+   "text": "La clínica te dirá desde qué hora no comer antes de la anestesia."
+  }
+ ],
+ "bring": [
+  "Tus documentos y la orden médica",
+  "Los resultados de tus análisis y prueba de audición",
+  "La lista de tus medicamentos",
+  "Tus cosas para el hospital"
+ ],
+ "steps": [
+  "Te ponen un catéter en la vena",
+  "Normalmente te ponen anestesia general",
+  "El cirujano hace un corte en el conducto del oído o detrás de la oreja",
+  "Toma un pedacito de tejido y cierra el agujero del tímpano",
+  "Te ponen un tapón en el oído",
+  "Ponen un vendaje"
+ ],
+ "feel": [
+  "Después de la anestesia, sueño y a veces náuseas",
+  "Dolor de oído moderado; te dan analgésico",
+  "Oído tapado: al principio oyes peor por el tapón"
+ ],
+ "after": [
+  "No mojes el oído hasta que lo permita el médico",
+  "No te suenes con fuerza y estornuda con la boca abierta",
+  "Sin vuelos ni natación hasta que lo permita el médico",
+  "El tapón te lo quitan en la consulta",
+  "La audición se revisa en unas semanas"
+ ],
+ "red_flags": [
+  "Fiebre de más de 38 o pus en el oído",
+  "Mareo fuerte o vómito",
+  "Debilidad de los músculos de la cara",
+  "Dolor de cabeza fuerte: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Voy a recuperar la audición?",
+   "a": "Muchas veces la audición mejora, pero no siempre por completo. El médico te dirá qué esperar."
+  },
+  {
+   "q": "¿Cuándo puedo viajar en avión?",
+   "a": "Normalmente en unas semanas. Lo decide el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía del oído. No mojes el oído. Come y bebe solo hasta la hora que te dijo la clínica."
+  }
+ ]
+}

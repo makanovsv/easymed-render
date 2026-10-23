@@ -1,0 +1,29 @@
+carpal|surg|Операция при туннельном синдроме запястья|Carpal tunnel release|or_room|H|2
+trigger_finger|surg|Операция при щёлкающем пальце|Trigger finger release|proc_room|M|3
+bunion|surg|Операция на косточке стопы (Hallux valgus)|Bunion surgery|or_room|H|3
+acl|surg|Пластика передней крестообразной связки|ACL reconstruction|or_room|H|3
+shoulder_scope|surg|Артроскопия плеча|Shoulder arthroscopy|or_room|H|3
+fracture_fix|surg|Металлоостеосинтез при переломе|Fracture fixation surgery|or_room|H|2
+implant_removal|surg|Удаление металлоконструкции|Hardware removal after fracture|or_room|H|3
+bariatric|surg|Бариатрическая операция|Weight-loss surgery|or_room|H|3
+breast_lump|surg|Секторальная резекция молочной железы|Breast lump removal|or_room|H|3
+mastectomy|surg|Мастэктомия|Mastectomy|or_room|H|3
+colectomy|surg|Резекция кишки|Bowel resection|or_room|H|3
+stomach_surg|surg|Операция на желудке|Stomach surgery|or_room|H|3
+spleen|surg|Удаление селезёнки|Splenectomy|or_room|H|3
+adrenal|surg|Удаление надпочечника|Adrenalectomy|or_room|H|3
+nephrectomy|surg|Удаление почки|Nephrectomy|or_room|H|3
+spine_fusion|surg|Спондилодез|Spinal fusion|or_room|H|3
+brain_tumor|surg|Операция на головном мозге|Brain surgery|or_room|H|3
+hernia_kids|surg|Операция при паховой грыже у ребёнка|Inguinal hernia repair in a child|or_room|H|2
+phimosis_kids|surg|Лечение фимоза у мальчика|Phimosis treatment in a boy|uro_room|M|2
+cleft|surg|Операция при расщелине губы и нёба|Cleft lip and palate surgery|or_room|H|3
+plastic_eyelid|surg|Блефаропластика|Eyelid surgery (blepharoplasty)|or_room|H|3
+rhinoplasty|surg|Ринопластика|Rhinoplasty|or_room|H|3
+liposuction|surg|Липосакция|Liposuction|or_room|H|3
+breast_aug|surg|Увеличение груди|Breast augmentation|or_room|H|3
+anest_kids|anest|Наркоз у ребёнка|Anaesthesia for a child|or_room|H|2
+nerve_block|anest|Проводниковая анестезия|Nerve block anaesthesia|or_room|H|3
+preop|anest|Осмотр анестезиолога перед операцией|Pre-operative anaesthesia assessment|office|M|1
+stroke_rehab|rehab|Реабилитация после инсульта|Rehabilitation after stroke|rehab_room|L|2
+knee_rehab|rehab|Реабилитация после замены сустава|Rehabilitation after joint replacement|rehab_room|L|2

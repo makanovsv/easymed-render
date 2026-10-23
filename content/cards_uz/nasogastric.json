@@ -1,0 +1,72 @@
+{
+ "title": "Nazogastral zond qo‘yish",
+ "also": [
+  "oshqozonga zond",
+  "nazogastral zond",
+  "burun orqali zond",
+  "oshqozon zondi"
+ ],
+ "what": "Burun orqali oshqozonga ingichka yumshoq naycha o‘tkaziladi. U orqali ovqatlantiriladi, dori beriladi yoki oshqozon tarkibi chiqarib olinadi.",
+ "why": "Inson o‘zi yutolmasa yoki yeya olmasa, ba’zi operatsiyalardan keyin, ichak tutilishida, zaharlanishlarda.",
+ "duration": "qo‘yish odatda 5–15 daqiqa; zond kerakli muddat turadi — soatlardan haftalargacha",
+ "tell_doctor": [
+  "Burunda jarohat yoki operatsiya bo‘lgan bo‘lsa",
+  "Qonni suyultiruvchi dorilar",
+  "Burundan tez-tez qon ketsa",
+  "Qizilo‘ngach kasalliklari bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda maxsus tayyorgarlik kerak emas. Hamshira nima qilishni tushuntiradi."
+  },
+  {
+   "title": "Ishora",
+   "text": "To‘xtatmoqchi bo‘lsangiz, qo‘l bilan ishora kelishib oling."
+  }
+ ],
+ "bring": [
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Sizni o‘tqazishadi, bosh biroz oldinga egilgan",
+  "Hamshira zondni qancha uzunlikda kiritishni o‘lchaydi",
+  "Zond uchiga gel surtiladi, ba’zan burun og‘riqsizlantiriladi",
+  "Zond burun teshigi orqali kiritiladi",
+  "U tomoqqa yetganda yutinishingiz so‘raladi — ruxsat berilsa, ozgina-ozgina suv bilan",
+  "Zondning joyini tekshirishadi, ba’zan rentgen bilan",
+  "Zond burunda plaster bilan mahkamlanadi"
+ ],
+ "feel": [
+  "Noxush va ko‘ngil aynishi mumkin — yutinish yordam beradi",
+  "Ko‘zdan yosh keladi",
+  "Zond turganda tomoq qirilishi mumkin"
+ ],
+ "after": [
+  "Zondni o‘zingiz tortmang va siljitmang",
+  "Hamshira burun va plaster ostidagi terini kuzatadi",
+  "Zond bilan uyda bo‘lsangiz, ovqatlantirish va uni yuvishni o‘rgatishadi",
+  "Zond tez olinadi — deyarli og‘rimaydi"
+ ],
+ "red_flags": [
+  "Ovqatlantirish paytida yo‘tal, bo‘g‘ilish, nafas olish qiyin bo‘lsa — ovqatlantirishni to‘xtating va darhol hamshirani chaqiring yoki tez yordamni chaqiring (103)",
+  "Zond tushib ketsa yoki siljisa — o‘zingiz qaytarib kiritmang, hamshiraga xabar bering",
+  "To‘xtamayotgan burun qon ketishi"
+ ],
+ "faq": [
+  {
+   "q": "Zond bilan gapirsa bo‘ladimi?",
+   "a": "Ha, zond ozgina xalaqit beradi, lekin gapirish mumkin."
+  },
+  {
+   "q": "Zond bilan qancha yurish mumkin?",
+   "a": "Sababga bog‘liq. Odatda bir necha kun yoki hafta. Uzoq muddatga kerak bo‘lsa, shifokor boshqa usulni taklif qilishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Tez orada zond qo‘yiladi. Pauza qilgingiz kelsa, hamshira bilan qo‘l ishorasini kelishib oling."
+  }
+ ]
+}

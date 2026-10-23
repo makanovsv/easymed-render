@@ -1,0 +1,72 @@
+{
+ "title": "Haydovchining reys oldi tibbiy ko‘rigi",
+ "also": [
+  "reys oldi ko‘rik",
+  "haydovchi tibbiy ko‘rigi",
+  "reys oldi tibbiy ko‘rik",
+  "yo‘l varaqasi tibbiy ko‘rik"
+ ],
+ "what": "Haydovchini jo‘nashdan oldin qisqa tekshirish: bosim, puls, hushyorlik. Uni har bir reysdan oldin o‘tishadi.",
+ "why": "Tashkilot transportida ishlaydigan haydovchilarga — har bir reys yoki smenadan oldin.",
+ "duration": "odatda 3–5 daqiqa",
+ "tell_doctor": [
+  "Yomon ahvol, bosh og‘rig‘i, bosh aylanishi",
+  "Dorilar ichganmisiz, ayniqsa tinchlantiruvchi, allergiyaga, yo‘talga qarshi",
+  "Qanday uxlaganingiz"
+ ],
+ "prepare": [
+  {
+   "title": "Uyqu",
+   "text": "Reysdan oldin yaxshi uxlang."
+  },
+  {
+   "title": "Alkogol",
+   "text": "Oldingi kuni ichmang. Hatto kechki alkogolni ertalab asbob ko‘rsatishi mumkin."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Ba’zi dorilar reaksiyaga ta’sir qiladi. Nima ichayotganingizni tibbiyot xodimiga ayting, lekin o‘zingiz bekor qilmang."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi yoki xizmat guvohnomasi",
+  "Yo‘l varaqasi",
+  "Haydash uchun kerak bo‘lsa, ko‘zoynak"
+ ],
+ "steps": [
+  "Tibbiy ko‘rik xonasiga kirasiz",
+  "Tibbiyot xodimi ahvolingiz haqida so‘raydi",
+  "Bosim va pulsni o‘lchaydi",
+  "Alkotesterga puflaysiz",
+  "Ba’zan reaksiyani tekshirishadi yoki ko‘rishadi",
+  "Hammasi normal bo‘lsa — yo‘l varaqasiga belgi qo‘yishadi"
+ ],
+ "feel": [
+  "Hammasi og‘riqsiz va tez",
+  "Hayajonlansangiz, bosim ozgina yuqori bo‘lishi mumkin — tibbiyot xodimi buni hisobga oladi"
+ ],
+ "after": [
+  "Belgi bilan reysga chiqishingiz mumkin",
+  "Ruxsat berilmasa — rulga o‘tirmang va rahbarga xabar bering",
+  "Yo‘lda ahvol yomonlashsa — to‘xtang"
+ ],
+ "red_flags": [
+  "Ko‘krakda bosuvchi og‘riq, birdan holsizlik, nutq buzilishi — to‘xtang va tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Bosim yuqori bo‘lsa nima bo‘ladi?",
+   "a": "Tibbiyot xodimi reysga ruxsat bermasligi va shifokorga yo‘llashi mumkin. Bu sizning xavfsizligingiz uchun."
+  },
+  {
+   "q": "Alkotester og‘iz chayqovchi vositani ko‘rsatadimi?",
+   "a": "Ba’zan ha. Bir oz kuting va testni qayta o‘ting — odatda shunday qilinadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Ertaga reys. Yaxshi uxlang va alkogol ichmang — ertalab reys oldi tibbiy ko‘rik."
+  }
+ ]
+}

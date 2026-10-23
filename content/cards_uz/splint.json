@@ -1,0 +1,79 @@
+{
+ "title": "Jarohatdan keyin ortez va shina",
+ "also": [
+  "shina",
+  "longeta",
+  "ortez",
+  "bandaj",
+  "fiksator"
+ ],
+ "what": "Shikastlangan qo‘l, oyoq yoki bo‘g‘imni qimirlamasligi va bitishi uchun mahkamlashadi. Buning uchun shina, longeta yoki tayyor ortezdan foydalaniladi.",
+ "why": "Suyak sinishi, yoriq, chiqish, kuchli cho‘zilishlarda va ba’zi operatsiyalardan keyin.",
+ "duration": "qo‘yish odatda 10–30 daqiqa; taqish shifokor aytgancha, ko‘pincha bir necha kundan bir necha haftagacha",
+ "tell_doctor": [
+  "Jarohatni qayerda va qanday oldingiz, qachon bo‘lgan",
+  "Qo‘l yoki oyoq uvishsa, chimirlasa yoki oqarsa",
+  "Qandli diabet va qon tomirlar bilan muammolar",
+  "Materiallar, lateks, plastirga allergiya",
+  "Qonni suyultiruvchi dorilar"
+ ],
+ "prepare": [
+  {
+   "title": "Qabuldan oldin",
+   "text": "Shikastlangan joyni tinch tuting, mato orqali sovuq qo‘yish mumkin. Bo‘g‘imni o‘zingiz joyiga solishga urinmang."
+  },
+  {
+   "title": "Taqinchoqlar",
+   "text": "Shikastlangan qo‘ldagi uzuk, bilaguzuk va soatni oldindan yeching: shishganda ularni yechish qiyin."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Keng yenglik yoki shimli bo‘sh kiyim."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Rasmlar va xulosalar, agar rentgen qilingan bo‘lsa",
+  "Shifokor buyrug‘i bilan sotib olingan tayyor ortez, agar bo‘lsa"
+ ],
+ "steps": [
+  "Shifokor jarohatni ko‘radi va kerak bo‘lsa, rentgenga yuboradi",
+  "Mahkamlash turi va o‘lchamini tanlashadi",
+  "Teriga yumshoq qatlam qo‘yishadi",
+  "Shina qo‘yib yoki ortez kiyg‘azib, bint yoki qisqichlar bilan mahkamlashadi",
+  "Barmoqlar issiqmi, qimirlayaptimi va bog‘lam bosmayaptimi, tekshirishadi",
+  "Qanday taqish, yechish va qachon nazoratga kelishni tushuntirishadi"
+ ],
+ "feel": [
+  "Qo‘yish paytida shikastlangan joy qimirlatilsa, og‘riq bo‘lishi mumkin",
+  "Dastlabki kunlarda odatiy emas va noqulay: bu tabiiy",
+  "Bog‘lam ostida teri qichishi mumkin"
+ ],
+ "after": [
+  "Dastlabki kunlarda qo‘l yoki oyoqni balandroq tuting: shish kamayadi",
+  "Gips longetani ho‘l qilmang; ortezni faqat shifokor ruxsat bergandagina yeching",
+  "Qichisa ham bog‘lam ostiga hech narsa tiqmang",
+  "Nazoratga va rentgenga shifokor belgilagan muddatda keling"
+ ],
+ "red_flags": [
+  "Barmoqlar ko‘kardi, oqardi yoki sovuq bo‘ldi: shoshilinch shifokorga",
+  "Bog‘lam ostida kuchayib boruvchi kuchli og‘riq, uvishish yoki chimirlash",
+  "Bog‘lam ho‘l bo‘ldi, yorildi yoki qattiq bosmoqda"
+ ],
+ "faq": [
+  {
+   "q": "Shinani tunda yechsa bo‘ladimi?",
+   "a": "Faqat shifokor ruxsat bergan bo‘lsa. Ko‘pincha shina yechilmay taqiladi, aks holda suyak siljib ketishi mumkin."
+  },
+  {
+   "q": "Longeta ostida qichisa nima qilish kerak?",
+   "a": "Uning ostiga hech narsa tiqmang. Fendan sovuq havo yordam beradi. Qichishish kuchli bo‘lsa, shifokorga ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada travmatolog qabuli. Shikastlangan qo‘ldagi uzuk va bilaguzuklarni yeching va rasmlarni oling, agar bo‘lsa."
+  }
+ ]
+}

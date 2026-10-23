@@ -1,0 +1,70 @@
+{
+ "title": "Bosh tomirlarining MR-angiografiyasi",
+ "also": [
+  "bosh miya tomirlari MRA si",
+  "bosh tomirlari MRT si",
+  "MR-angiografiya"
+ ],
+ "what": "Miya tomirlarini ko‘rsatadigan MRT. Ko‘pincha kontrastsiz qilinadi. Nurlanish yo‘q.",
+ "why": "Anevrizma yoki tomirlar torayganiga gumon bo‘lganda, tez-tez bosh og‘rig‘i va bosh aylanishida, insultdan keyin.",
+ "duration": "odatda 15–30 daqiqa; xulosa 1–2 kunda",
+ "tell_doctor": [
+  "Yurak stimulyatori, defibrillyator yoki elektronikali boshqa implant",
+  "Tanadagi metall: protezlar, plastinkalar, tomirlardagi klipslar, parchalar",
+  "Homilador bo‘lsangiz yoki homilador bo‘lishingiz mumkin bo‘lsa",
+  "Yopiq joydan qo‘rqsangiz — shifokor qanday yordam berishni aytadi",
+  "Miya operatsiyalaridan keyin tomirlarda klipslar bo‘lsa — albatta ayting"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Kontrastsiz odatda kerak emas. Yeb-ichish mumkin."
+  },
+  {
+   "title": "Kontrast",
+   "text": "Kontrast buyurilgan bo‘lsa, ba’zan kreatinin tahlilini so‘rashadi. Odatda 2–4 soat ovqat yemaslik kerak — klinikadan aniqlang."
+  },
+  {
+   "title": "Metall",
+   "text": "Barcha metall narsalarni yeching: taqinchoqlar, soat, soch qisqichlari, pirsing. Telefon va kartalarni shkafchada qoldiring."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Bosh miyaning oldingi MRT va KT suratlari"
+ ],
+ "steps": [
+  "Kiyimingizni almashtirasiz va barcha metall narsalarni shkafchada qoldirasiz",
+  "Chalqancha yotasiz, boshingiz shlem shaklidagi g‘altak ichiga qo‘yiladi",
+  "Apparat qattiq taqillaydi — quloqchin yoki quloq tiqinlari beriladi",
+  "Qimirlamay yotish kerak, siz bilan aloqa orqali gaplashishadi",
+  "Qo‘lingizda chaqiruv tugmasi bor — istalgan payt xodimni chaqirishingiz mumkin"
+ ],
+ "feel": [
+  "Og‘rimaydi, lekin shovqinli va tor",
+  "Ba’zan tekshirilayotgan joyda iliqlik seziladi — bu normal"
+ ],
+ "after": [
+  "Darhol o‘z ishlaringizga qaytishingiz mumkin",
+  "Xulosani nevrologga ko‘rsatasiz"
+ ],
+ "red_flags": [
+  "Birdan juda kuchli bosh og‘rig‘i, qo‘l yoki oyoqda zaiflik, yuzning qiyshayishi, nutqning buzilishi — darhol tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Tomirlar uchun kontrast kerakmi?",
+   "a": "Ko‘pincha yo‘q — tomirlar kontrastsiz ham ko‘rinadi. Ba’zan vazifaga qarab kontrast qo‘shiladi."
+  },
+  {
+   "q": "Bu bosh miya MRT si bilan bir xilmi?",
+   "a": "Yo‘q. Miya MRT si to‘qimani ko‘radi, MR-angiografiya esa tomirlarni. Ularni ko‘pincha birga qilishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada bosh tomirlari MRT si. Barcha metall narsalarni yeching, oldingi suratlarni oling."
+  }
+ ]
+}

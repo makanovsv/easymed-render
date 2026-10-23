@@ -1,0 +1,71 @@
+{
+ "title": "Vacina contra Haemophilus influenzae tipo b (Hib)",
+ "also": [
+  "vacina Hib",
+  "Haemophilus influenzae",
+  "vacina pentavalente",
+  "vacina contra meningite Hib"
+ ],
+ "what": "A vacina protege contra uma bactéria que, em crianças pequenas, pode causar meningite e pneumonia grave. Muitas vezes vem junto com outras numa mesma vacina.",
+ "why": "Para crianças até 5 anos, conforme o calendário; às vezes para crianças maiores e adultos com certas doenças.",
+ "duration": "a injeção leva alguns segundos; com a avaliação, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Se a criança está doente agora ou com febre",
+  "Alergias e reações fortes a vacinas anteriores",
+  "Doenças crônicas e problemas de imunidade"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é dada quando a criança está saudável. Antes, ela será examinada."
+  },
+  {
+   "title": "Calendário",
+   "text": "Muitas vezes ela faz parte de uma vacina combinada. Pergunte ao pediatra quantas doses são necessárias."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, fácil de tirar da perninha ou do braço."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Carteira de vacinação"
+ ],
+ "steps": [
+  "O médico examina a criança e mede a temperatura",
+  "Você segura a criança",
+  "A pele é limpa e a injeção é dada na coxa ou no braço",
+  "A vacina é registrada nos documentos",
+  "Depois da injeção, é preciso ficar na clínica por cerca de 30 minutos"
+ ],
+ "feel": [
+  "Uma picada rápida; a criança pode chorar um pouco",
+  "Às vezes vermelhidão no local ou febre baixa"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala de vacinação",
+  "Em casa, rotina normal e mais líquidos",
+  "A próxima dose segue o calendário"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência",
+  "Febre alta que não baixa: procure o médico"
+ ],
+ "faq": [
+  {
+   "q": "Se a criança já tem mais de um ano, ainda precisa?",
+   "a": "Muitas vezes bastam menos doses. O pediatra escolhe o esquema."
+  },
+  {
+   "q": "Ela protege contra todas as meningites?",
+   "a": "Não, só contra as causadas por essa bactéria. Para outras há vacinas próprias."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina da criança. Leve a carteira de vacinação."
+  }
+ ]
+}

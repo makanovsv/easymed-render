@@ -1,0 +1,73 @@
+{
+ "title": "Port-tizimni yuvish va unga qarash",
+ "also": [
+  "portni yuvish",
+  "portga qarash",
+  "port-tizimga xizmat ko‘rsatish"
+ ],
+ "what": "Hamshira portga maxsus igna kiritadi va uni yuvadi, shunda ichkarida laxtalar hosil bo‘lmaydi.",
+ "why": "Ximioterapiya kurslari orasida, port ishlatilmaganda. Odatda bir necha haftada bir marta — jadvalni klinika aytadi.",
+ "duration": "odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Port joyi og‘riyotgan, qizargan yoki shishgan bo‘lsa",
+  "Harorat bo‘lganmi",
+  "Antiseptik yoki plasterga allergiya",
+  "Oxirgi yuvish qachon bo‘lgan"
+ ],
+ "prepare": [
+  {
+   "title": "Jadval",
+   "text": "Keyingi yuvish sanasini yozib qo‘ying — uni o‘tkazib yuborib bo‘lmaydi."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Ukol noxush bo‘lsa, og‘riqsizlantiruvchi krem haqida so‘rang — uni oldindan surtishadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Ko‘krakka oson kirish uchun."
+  }
+ ],
+ "bring": [
+  "Port pasporti yoki kartochkasi",
+  "Hujjat",
+  "Oldingi yuvish sanasi"
+ ],
+ "steps": [
+  "Hamshira port ustidagi terini ko‘radi va ishlov beradi",
+  "Kamerani paypaslab, maxsus igna kiritadi",
+  "Qon kelayotganini va port ishlayotganini tekshiradi",
+  "Portni fiziologik eritma bilan yuvadi",
+  "Igna olinadi, joy plaster bilan yopiladi"
+ ],
+ "feel": [
+  "Teri orqali qisqa sanchiq",
+  "Eritmadan salqinlik, ba’zan og‘izda ta’m"
+ ],
+ "after": [
+  "Plasterni bir necha soatdan keyin olsa bo‘ladi",
+  "Odatda darhol odatiy ishlaringizga qaytsa bo‘ladi",
+  "Keyingi yuvish sanasini yozib qo‘ying"
+ ],
+ "red_flags": [
+  "Port joyida qizarish, yiring yoki og‘riq",
+  "Yuvishdan keyin harorat, titroq",
+  "Qo‘l, bo‘yin yoki yuzda shish"
+ ],
+ "faq": [
+  {
+   "q": "Portni qanchalik tez-tez yuvish kerak?",
+   "a": "Odatda port ishlatilmaganda bir necha haftada bir marta. Aniq jadvalni klinika beradi."
+  },
+  {
+   "q": "Yuvishni o‘tkazib yuborsa nima bo‘ladi?",
+   "a": "Port laxta bilan tiqilib qolishi mumkin. Shunda undan foydalanish qiyinlashadi, ba’zan uni almashtirishga to‘g‘ri keladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga portni yuvish. Port pasportini oling va oldingi yuvish sanasini yozib qo‘ying."
+  }
+ ]
+}

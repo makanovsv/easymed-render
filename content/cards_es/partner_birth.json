@@ -1,0 +1,73 @@
+{
+ "title": "Parto acompañado",
+ "also": [
+  "parto con el esposo",
+  "parto con la pareja",
+  "parto acompañado",
+  "parto con mi mamá"
+ ],
+ "what": "Una persona cercana está contigo durante el parto. Te apoya, te ayuda a respirar y a cambiar de posición.",
+ "why": "Cuando quieres que esté contigo tu esposo, tu mamá u otra persona cercana. Es voluntario.",
+ "duration": "normalmente durante todo el parto; el orden exacto depende de las reglas de la maternidad",
+ "tell_doctor": [
+  "Si quieres un parto acompañado. Dilo con tiempo",
+  "Quién va a estar contigo",
+  "Si tu acompañante tiene los análisis necesarios, si los piden",
+  "Lo que deseas: qué puede y qué no puede hacer tu acompañante"
+ ],
+ "prepare": [
+  {
+   "title": "Reglas de la maternidad",
+   "text": "Pregunta con tiempo qué análisis y documentos necesita tu acompañante."
+  },
+  {
+   "title": "Preparación",
+   "text": "Es bueno que tu acompañante vaya al curso de preparación para el parto."
+  },
+  {
+   "title": "Ropa del acompañante",
+   "text": "Ropa y zapatos limpios para cambiarse; a veces, una bata desechable."
+  }
+ ],
+ "bring": [
+  "Los documentos de tu acompañante",
+  "Los análisis del acompañante, si los piden",
+  "Ropa y zapatos para cambiarse para el acompañante",
+  "Agua y un refrigerio para el acompañante"
+ ],
+ "steps": [
+  "Tu acompañante llega contigo o después, según las reglas de la maternidad",
+  "Se cambia a ropa limpia",
+  "Durante las contracciones te ayuda a respirar y te da masaje en la espalda baja",
+  "Te ayuda a cambiar de posición y te da agua",
+  "Sigue las indicaciones de los médicos y la partera",
+  "Después del parto puede quedarse contigo y con el bebé"
+ ],
+ "feel": [
+  "El apoyo de alguien cercano normalmente ayuda a llevar las contracciones con más calma",
+  "Para el acompañante puede ser difícil ver el dolor. Es normal"
+ ],
+ "after": [
+  "Tu acompañante puede ayudarte a poner al bebé al pecho por primera vez",
+  "Normalmente el acompañante se va después de la vigilancia en la sala de parto. La maternidad te dirá las reglas"
+ ],
+ "red_flags": [
+  "Si tu acompañante se siente mal, que avise de inmediato al personal y salga"
+ ],
+ "faq": [
+  {
+   "q": "¿El acompañante puede salir durante el parto?",
+   "a": "Sí, en cualquier momento. El personal le dirá cuándo es mejor."
+  },
+  {
+   "q": "¿Qué hace el acompañante si los médicos están ocupados?",
+   "a": "No estorbar, tomarte de la mano y hacer lo que pida el personal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Recordatorio: revisa que tu acompañante tenga listos sus documentos y análisis para la maternidad."
+  }
+ ]
+}

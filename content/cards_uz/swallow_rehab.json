@@ -1,0 +1,77 @@
+{
+ "title": "Insultdan keyin yutishni tiklash",
+ "also": [
+  "insultdan keyin disfagiya",
+  "yutish mashg‘ulotlari",
+  "yutish bo‘yicha logoped",
+  "insultdan keyin yuta olmaydi"
+ ],
+ "what": "Mutaxassis odam qanday yutishini tekshiradi va ovqat nafas yo‘llariga tushmasligi uchun mashq va usullarni o‘rgatadi. Xavfsiz ovqat tanlanadi.",
+ "why": "Insultdan keyin odam ovqatdan bo‘g‘ilsa, ovqat paytida yo‘talsa yoki yutishga qiynalsa.",
+ "duration": "mashg‘ulot odatda 30–45 daqiqa, kurs — hafta yoki oylar",
+ "tell_doctor": [
+  "Odam ovqat yoki suvdan bo‘g‘ilayotgan-bo‘g‘ilmayotganini",
+  "Ovqat paytida yo‘tal, yutumdan keyin nam ovoz",
+  "Insultdan keyin zotiljam bo‘lgan-bo‘lmaganini",
+  "Hozir qanday ovqatlanayotganini: o‘zi, naycha orqali",
+  "Ozib ketgan-ketmaganini"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Mutaxassis yutishni tekshirmaguncha ovqat va suv bermang. Klinikadan so‘rang."
+  },
+  {
+   "title": "Holat",
+   "text": "Ovqatlanish o‘tirgan, tik holatda bo‘lishi kerak, yotib emas."
+  },
+  {
+   "title": "Tishlar",
+   "text": "Protezlar va og‘iz bo‘shlig‘i parvarishi muhim — protezlarni olib keling."
+  }
+ ],
+ "bring": [
+  "Insultdan keyingi epikrizlar",
+  "Tish protezlari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Mutaxassis og‘iz, til va ovozni ko‘radi",
+  "Turli quyuqlikdagi oz miqdorda suv yoki ovqat tatib ko‘rishni beradi",
+  "Ba’zan kamera yoki rentgen bilan yutishni tekshirish buyuriladi",
+  "Til, lab va tomoq uchun mashqlar o‘rgatiladi",
+  "Ovqat va ichimlikning quyuqligi tanlanadi",
+  "Yaqinlarga xavfsiz ovqatlantirishni ko‘rsatishadi"
+ ],
+ "feel": [
+  "Mashqlar og‘riqsiz, lekin charchatadi",
+  "Quyuqlashtirilgan ichimlik avvaliga ta’mi g‘alati tuyuladi"
+ ],
+ "after": [
+  "O‘tirib, sekin, mayda bo‘laklab ovqatlaning",
+  "Ovqat paytida suhbat va televizordan chalg‘imang",
+  "Ovqatdan keyin 20–30 daqiqa yotmang",
+  "Og‘izni toza tutib turing"
+ ],
+ "red_flags": [
+  "Bo‘g‘ilib, yo‘talib chiqara olmasa va nafasi qisilsa — tez yordamni chaqiring (103)",
+  "Harorat, yo‘tal, nafas qisishi — zotiljam bo‘lishi mumkin, shifokorni chaqiring",
+  "Ovqatdan bosh tortsa va tez ozib ketsa"
+ ],
+ "faq": [
+  {
+   "q": "Suvni nega quyuqlashtiriladi?",
+   "a": "Quyuq suyuqlikni yutish osonroq va u nafas yo‘llariga kamroq tushadi."
+  },
+  {
+   "q": "Yutish tiklanadimi?",
+   "a": "Ko‘pchilikda yutish dastlabki hafta va oylarda yaxshilanadi. Mashqlar yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun yutish bo‘yicha mashg‘ulot. Tish protezlari va epikrizlarni oling."
+  }
+ ]
+}

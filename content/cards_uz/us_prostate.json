@@ -1,0 +1,69 @@
+{
+ "title": "Prostata UZI (TRUZI)",
+ "also": [
+  "TRUZI",
+  "transrektal UZI",
+  "prostata bezi UZI"
+ ],
+ "what": "Prostata bezining ultratovush ko‘rigi. Ko‘pincha datchik to‘g‘ri ichakka kiritiladi — shunda prostata eng yaxshi ko‘rinadi. Ba’zan qorin orqali ham qaraladi.",
+ "why": "Siydik tez-tez yoki qiyin chiqqanda, oraliqda og‘riq bo‘lganda, PSA yuqori bo‘lganda, farzand ko‘rmaslikda, prostatani kuzatish uchun.",
+ "duration": "odatda 10–20 daqiqa",
+ "tell_doctor": [
+  "Bavosil, yoriqlar bo‘lsa yoki yaqinda to‘g‘ri ichakda operatsiya bo‘lgan bo‘lsa",
+  "Qonni suyultiradigan dorilar ichsangiz",
+  "Lateksga allergiya — datchik himoya g‘ilofi bilan yopiladi"
+ ],
+ "prepare": [
+  {
+   "title": "Ichak",
+   "text": "Odatda bir kun oldin kechqurun yoki ertalab 1–2 soat oldin tozalovchi mikroklizma qilinadi. Usulni klinika aytadi."
+  },
+  {
+   "title": "Siydik pufagi",
+   "text": "Ko‘pincha o‘rtacha to‘la pufak bilan kelish so‘raladi: bir soat ichida taxminan bir litr suv ichib, siymaslik. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Yeyish mumkin. Bir kun oldin qorin shishiradigan ovqatlarsiz bo‘lgani yaxshi: karam, dukkaklilar, gazli ichimliklar."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Topshirgan bo‘lsangiz, PSA natijasi",
+  "Oldingi UZI xulosalari"
+ ],
+ "steps": [
+  "Belingizdan pastini yechib, chap yonboshga, tizzalar ko‘kraka qarab yotasiz",
+  "Qorin orqali ham qaralsa — avval datchik qorinda gel bilan yurgiziladi",
+  "Shifokor ingichka datchikka g‘ilof kiydirib, gel surtadi",
+  "Datchik to‘g‘ri ichakka bir necha santimetr ehtiyotkorlik bilan kiritiladi",
+  "Tinch yotib, tekis nafas olish kerak",
+  "Ba’zan siyishni so‘rab, pufakda qancha siydik qolganini ko‘rishadi"
+ ],
+ "feel": [
+  "Bosim va hojatxonaga borgisi kelishi — bu normal va tez o‘tib ketadi",
+  "Og‘riq bo‘lmasligi kerak; noqulay bo‘lsa, shifokorga ayting, u yumshoqroq harakat qiladi"
+ ],
+ "after": [
+  "Darrov o‘z ishlaringizga qaytsangiz bo‘ladi",
+  "Xulosa odatda darrov beriladi",
+  "Natijani urolog bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "TRUZI og‘riydimi?",
+   "a": "Odatda yo‘q. Datchik ingichka, uni yaxshilab surtishadi. Bosim seziladi, lekin og‘riq emas."
+  },
+  {
+   "q": "Qorin orqali UZI bo‘lsa ham, nega datchik to‘g‘ri ichak orqali?",
+   "a": "Prostata ichak devori ortida joylashgan. Shunda shifokor uni qorin va siydik pufagi orqali ko‘rgandan yaqinroq va aniqroq ko‘radi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 14,
+   "text": "Ertaga prostata UZIsi. Tozalovchi mikroklizmani qachon va qanday qilishni klinika maslahati bo‘yicha tekshiring."
+  }
+ ]
+}

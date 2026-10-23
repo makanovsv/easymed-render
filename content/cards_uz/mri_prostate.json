@@ -1,0 +1,83 @@
+{
+ "title": "Prostata bezi MRTsi",
+ "also": [
+  "prostata MRTsi",
+  "prostataning multiparametrik MRTsi",
+  "mpMRT"
+ ],
+ "what": "Prostata bezining magnit maydondagi batafsil suratlari, odatda kontrast bilan. Nurlanishsiz.",
+ "why": "PSA oshganda, biopsiyadan oldin, kuzatuv va davolashni rejalashtirish uchun.",
+ "duration": "odatda 30–45 daqiqa; xulosa 1–3 kundan keyin",
+ "tell_doctor": [
+  "Yurak stimulyatori, defibrillyator yoki elektronikali boshqa implant",
+  "Tanadagi metall: protezlar, plastinkalar, tomirlardagi klipsalar, parchalar",
+  "Yaqinda prostata biopsiyasi bo‘lgan bo‘lsa — sanasini ayting, MRTni ba’zan ko‘chirishadi",
+  "Kontrastga allergiya, buyrak kasalliklari",
+  "Yopiq joylardan qo‘rqsangiz — shifokor qanday yordam berishni aytadi"
+ ],
+ "prepare": [
+  {
+   "title": "Ichak",
+   "text": "Ba’zan bir kun oldin yoki ertalab tozalovchi mikroklizma qilishni so‘rashadi. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda 3–4 soat yemaslik."
+  },
+  {
+   "title": "Tiyilish",
+   "text": "Ko‘pincha 2–3 kun eyakulyatsiyasiz bo‘lish maslahat beriladi. Shifokordan aniqlab oling."
+  },
+  {
+   "title": "Metall",
+   "text": "Barcha metallni yeching: taqinchoq, soat, soch qisqichlari, pirsing. Telefon va kartalarni shkafchada qoldiring."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Yangi PSA tahlili",
+  "Oldingi MRT va biopsiya xulosalari",
+  "Kreatinin tahlili, agar so‘ralgan bo‘lsa"
+ ],
+ "steps": [
+  "Siz kiyimingizni almashtirib, barcha metallni shkafchada qoldirasiz",
+  "Stolga yotasiz, tekshiriladigan hududga yumshoq g‘altak-qoplama qo‘yiladi",
+  "Ba’zan ichak kamroq qimirlashi uchun dori yuboriladi",
+  "Apparat qattiq taqillaydi — quloqchin yoki quloq tiqini berishadi",
+  "Qimirlamay yotish kerak, siz bilan aloqa orqali gaplashadi",
+  "Oxirida tomirga kontrast yuboriladi"
+ ],
+ "feel": [
+  "Og‘rimaydi, lekin shovqinli va tor",
+  "Ba’zan tekshiruv hududida issiqlik — bu normal",
+  "Kontrastda — tomirda salqinlik"
+ ],
+ "after": [
+  "Darrov o‘z ishlaringizga qaytishingiz mumkin",
+  "Kontrastdan keyin, shifokor boshqacha demagan bo‘lsa, ko‘proq suv iching",
+  "Shkala bo‘yicha bahosi bilan xulosa — urologga"
+ ],
+ "red_flags": [
+  "Kontrastdan keyin qichishish, toshma, yuz shishishi, nafas olish qiyin — darrov xodimga ayting yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Bu biopsiyaning o‘rnini bosadimi?",
+   "a": "Yo‘q. MRT biopsiya kerakmi va to‘qimani qayerdan olish kerakligini hal qilishga yordam beradi."
+  },
+  {
+   "q": "To‘g‘ri ichakka datchik kiritiladimi?",
+   "a": "Odatda yo‘q, g‘altak qoringa qo‘yiladi. Klinikadan aniqlab oling."
+  },
+  {
+   "q": "Plomba va qoplamalar bilan MRT qilsa bo‘ladimi?",
+   "a": "Ha. Plomba va oddiy qoplamalar halaqit bermaydi. Implantlar va protezlar haqida oldindan ayting, shifokor tekshiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga prostata MRTsi. Mikroklizma kerakmi, tekshiring. 3–4 soat oldin yemang."
+  }
+ ]
+}

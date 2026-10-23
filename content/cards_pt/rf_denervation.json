@@ -1,0 +1,80 @@
+{
+ "title": "Denervação por radiofrequência das articulações da coluna",
+ "also": [
+  "rizotomia por radiofrequência",
+  "denervação facetária",
+  "radiofrequência na coluna",
+  "ablação por radiofrequência"
+ ],
+ "what": "Com uma agulha fina com corrente elétrica, o médico aquece pequenos nervos que levam a dor das articulações da coluna. A dor diminui.",
+ "why": "Para dor antiga no pescoço ou na lombar que vem das articulações da coluna, se o bloqueio de teste ajudou.",
+ "duration": "o procedimento leva normalmente de 30 a 90 minutos; depois, cerca de uma hora de observação",
+ "tell_doctor": [
+  "Remédios que afinam o sangue: o médico diz o que suspender e quando",
+  "Marca-passo ou outros aparelhos no corpo",
+  "Alergias a remédios e contraste",
+  "Febre ou infecção na véspera"
+ ],
+ "prepare": [
+  {
+   "title": "Bloqueio de teste",
+   "text": "Normalmente, antes, se faz uma injeção de teste. Se a dor diminuir, faz-se a denervação."
+  },
+  {
+   "title": "Exames de imagem",
+   "text": "Leve a ressonância ou a tomografia da coluna."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer algo leve. Se houver sedação, confirme o horário na clínica."
+  },
+  {
+   "title": "Transporte",
+   "text": "Peça para alguém levar você para casa."
+  }
+ ],
+ "bring": [
+  "Pedido médico e exames de imagem",
+  "Documentos",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você deita de barriga para baixo, ou de costas se for no pescoço",
+  "A pele é limpa e anestesiada",
+  "Guiado por raio-X, o médico leva agulhas finas até os nervos",
+  "O local é testado com uma corrente fraca; pode dar formigamento",
+  "A ponta da agulha é aquecida, e o nervo para de levar a dor",
+  "As agulhas são retiradas e colocam um curativo"
+ ],
+ "feel": [
+  "As injeções de anestesia ardem",
+  "Durante o teste pode haver formigamento ou tremor nos músculos",
+  "Por alguns dias ou semanas depois, ardência ou dor no local"
+ ],
+ "after": [
+  "Hoje, dia tranquilo e sem dirigir",
+  "O efeito costuma aparecer em 2 a 4 semanas",
+  "Continue a fisioterapia. Isso ajuda a manter o resultado"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus, vermelhidão e inchaço nos locais das agulhas",
+  "Fraqueza ou dormência no braço ou na perna que vai aumentando: ligue para o médico",
+  "Não consegue urinar ou segurar a urina: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O nervo não se recupera?",
+   "a": "Com o tempo o nervo pode se recuperar, e a dor voltar. Aí, às vezes, o procedimento é repetido."
+  },
+  {
+   "q": "Isso é perigoso para os movimentos?",
+   "a": "Só são aquecidos nervos pequenos, ligados à dor das articulações. Os músculos das pernas e dos braços normalmente não são afetados."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o procedimento nas costas. Leve os exames de imagem e a lista de remédios. Peça para alguém levar você para casa."
+  }
+ ]
+}

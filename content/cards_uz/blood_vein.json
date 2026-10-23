@@ -1,0 +1,74 @@
+{
+ "title": "Venadan qon olish",
+ "also": [
+  "venadan qon",
+  "qon topshirish",
+  "venapunksiya"
+ ],
+ "what": "Hamshira qo‘ldagi venadan ingichka igna bilan ozgina qon oladi. Bitta probirkadan ko‘p tahlil qilsa bo‘ladi.",
+ "why": "Biokimyo, gormonlar, infeksiyalar, ivish va ko‘pchilik boshqa tahlillar uchun.",
+ "duration": "odatda 3–5 daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiradigan preparatlar ichsangiz",
+  "Qon topshirganda oldin o‘zingizni yomon his qilgan yoki hushdan ketgan bo‘lsangiz",
+  "Lateks yoki plastirga allergiya bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Ko‘p tahlillar uchun qon och qoringa topshiriladi: 8–12 soat ovqatsiz. Oddiy suv ichsa bo‘ladi. Tahlillaringiz uchun laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir sutka oldin — alkogolsiz va og‘ir mashqsiz. Ertalab chekmagan ma’qul."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ertalab dori ichsangiz, qonni ulardan oldin yoki keyin topshirishni shifokordan so‘rang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakdan yuqori oson shimariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma yoki tahlillar ro‘yxati",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakchaga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lashadi va mushtni qisib-ochishni so‘rashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — igna venada bir necha soniya turadi, qon probirkalarga olinadi",
+  "Jgut yechiladi, igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilaganday",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Kichik ko‘karish bo‘lishi mumkin, o‘zi o‘tadi",
+  "Natijalar odatda 1–3 kunda — muddatni laboratoriya aytadi"
+ ],
+ "red_flags": [
+  "Ukol joyi qattiq shishdi, og‘riyapti va qizardi",
+  "Qo‘lda uvishish yoki kuchli og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Qon tahlilidan oldin suv ichsa bo‘ladimi?",
+   "a": "Ha, gazsiz oddiy suv mumkin. Choy, qahva, sharbat — mumkin emas, agar tahlil och qoringa bo‘lsa."
+  },
+  {
+   "q": "Qon topshirgandan keyin nega boshim aylanadi?",
+   "a": "Hayajon yoki ochlikdan shunday bo‘ladi. O‘tirib turing, suv iching, shirin narsa yeng."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga qon tahlili. Och qoringa bo‘lsa — kechki ovqatdan keyin ovqat yemang, suv ichsa bo‘ladi."
+  }
+ ]
+}

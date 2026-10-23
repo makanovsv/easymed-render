@@ -1,0 +1,72 @@
+{
+ "title": "Smell test",
+ "also": [
+  "smell test",
+  "olfactory test",
+  "sense of smell test",
+  "loss of smell"
+ ],
+ "what": "You are asked to sniff different smells and name them or tell them apart. This shows the doctor how well you can smell.",
+ "why": "When your sense of smell is reduced or gone, after a cold, a head injury, or for no clear reason.",
+ "duration": "usually 15 to 30 minutes; the doctor tells you the findings during the visit",
+ "tell_doctor": [
+  "When your sense of smell got worse and what came before it",
+  "If you had a runny or blocked nose, or nasal polyps",
+  "If you had a head injury",
+  "What medicines you take",
+  "If you smoke"
+ ],
+ "prepare": [
+  {
+   "title": "Scents",
+   "text": "On the day of the test, do not wear perfume or scented cream."
+  },
+  {
+   "title": "Food and smoking",
+   "text": "Do not smoke or eat spicy food for an hour before the test. Do not chew gum."
+  },
+  {
+   "title": "Nose",
+   "text": "If your nose is blocked, tell the doctor beforehand. The test may be moved."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Your ID",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor checks your nose",
+  "A small bottle or a special scented pen is held under your nose",
+  "You sniff for a few seconds",
+  "You choose the name of the smell from a list",
+  "Sometimes each nostril is tested separately",
+  "The smells change. There can be several dozen in total"
+ ],
+ "feel": [
+  "Usually there is no discomfort",
+  "Some smells are hard to recognize. This is normal. Just answer with what you sense"
+ ],
+ "after": [
+  "The doctor explains the result and next steps",
+  "Sometimes smell training at home is prescribed",
+  "You may be referred for more tests of your nose"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can my sense of smell come back?",
+   "a": "It often recovers, especially after a cold. Training helps, but it takes time."
+  },
+  {
+   "q": "What is smell training?",
+   "a": "Every day, you sniff a few familiar smells one by one. The doctor will show you how."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Smell test soon. Do not wear perfume or smoke before the test."
+  }
+ ]
+}

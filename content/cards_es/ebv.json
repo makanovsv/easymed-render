@@ -1,0 +1,80 @@
+{
+ "title": "Virus de Epstein-Barr (mononucleosis)",
+ "also": [
+  "VEB",
+  "Epstein-Barr",
+  "mononucleosis",
+  "enfermedad del beso",
+  "anticuerpos contra VEB"
+ ],
+ "what": "Es un análisis de sangre de anticuerpos contra el virus de Epstein-Barr. Ayuda a saber si hay mononucleosis ahora o si la hubo antes.",
+ "why": "Con fiebre que dura mucho, dolor fuerte de garganta, ganglios del cuello inflamados y cansancio. Es frecuente en niños y adolescentes.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en 1 a 3 días",
+ "tell_doctor": [
+  "Cuántos días llevas con fiebre",
+  "Qué antibióticos y otros medicamentos tomaste",
+  "Si tienes ronchas o sarpullido",
+  "Si te duele el abdomen del lado izquierdo, debajo de las costillas"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no hace falta ayuno estricto, pero es mejor ir 3 o 4 horas después de una comida ligera, sin grasa. Pregunta en el laboratorio."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Dile al médico qué tomas; él decidirá si hay que cambiar algo antes del análisis."
+  },
+  {
+   "title": "Niño",
+   "text": "Si el análisis es para tu hijo, explícale que habrá un piquete breve. Lleva agua y un refrigerio para después."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "La biometría hemática, si ya te la hiciste"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán",
+  "Tu hijo puede asustarse: quédate a su lado y tómale la mano"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Hasta que el médico lo decida, nada de deporte ni juegos bruscos: con la mononucleosis el bazo crece",
+  "El médico te explica el resultado. Normalmente se revisan varios tipos de anticuerpos"
+ ],
+ "red_flags": [
+  "Dolor repentino en el lado izquierdo del abdomen, debilidad o palidez: llama a emergencias",
+  "Dificultad para respirar o tragar: llama a emergencias",
+  "La fiebre dura más de una semana: avísale al médico"
+ ],
+ "faq": [
+  {
+   "q": "¿Cómo se contagia el virus de Epstein-Barr?",
+   "a": "Sobre todo por la saliva: besos, platos compartidos, juguetes. La mayoría de las personas lo tiene en la infancia."
+  },
+  {
+   "q": "¿Por qué no se puede hacer deporte?",
+   "a": "Con la mononucleosis el bazo está agrandado y se puede lastimar con un golpe. El médico te dirá cuándo puedes volver."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de virus de Epstein-Barr. En la mañana mejor no comas grasoso."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Zimnitskiy bo‘yicha siydik tahlili",
+ "also": [
+  "Zimnitskiy sinamasi",
+  "Zimnitskiy bo‘yicha siydik",
+  "siydikni porsiyalab sutkalik yig‘ish"
+ ],
+ "what": "Siz bir sutka davomida siydikni 8 ta alohida bankaga — har 3 soatda — yig‘asiz. Laboratoriya buyraklar kunduz va tunda siydikni qanday quyuqlashtirishini ko‘radi.",
+ "why": "Buyraklar qanday ishlayotganini tekshirish, tunda tez-tez siyish, shishlar, chanqoq bo‘lganda.",
+ "duration": "yig‘ish 24 soat, natija odatda 1–2 kunda",
+ "tell_doctor": [
+  "Siydik haydovchi ichsangiz — yig‘ish kuni nima qilishni shifokor aytadi",
+  "Diabet bo‘lsa",
+  "Hozir hayz ketayotgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Bankalar",
+   "text": "8 ta toza idish kerak. Har biriga vaqtini yozib qo‘ying: 9:00, 12:00, 15:00, 18:00, 21:00, 0:00, 3:00, 6:00 yoki laboratoriya aytganidek."
+  },
+  {
+   "title": "Ichimlik va ovqat",
+   "text": "Odatdagidek ichib-yeng, lekin shifokor so‘ragan bo‘lsa, sutka davomida qancha ichganingizni yozib boring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Siydik haydovchilar haqida shifokorga oldindan ayting, u hal qiladi."
+  },
+  {
+   "title": "Budilnik",
+   "text": "Tungi porsiyalar uchun budilnik qo‘ying."
+  }
+ ],
+ "bring": [
+  "Siydikli 8 ta banka",
+  "Ichilgan suyuqlik yozuvi, agar so‘ralgan bo‘lsa",
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Ertalab soat 6:00 atrofida hojatxonaga siying — bu siydik kerak emas",
+  "Keyin har 3 soatda tegishli vaqt yozilgan bankaga siying",
+  "3 soat ichida yana siygingiz kelsa — o‘sha bankaga siying",
+  "Banka to‘lib qolsa — qo‘shimcha oling va xuddi shu vaqtni yozing",
+  "Oxirgi porsiyani ertasi kuni soat 6:00 da yig‘ing",
+  "Bankalarni muzlatgichda saqlang va ertalab laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Yoqimsiz hech narsa yo‘q, lekin vaqtni, jumladan tunda ham, unutmaslik kerak"
+ ],
+ "after": [
+  "Natija odatda 1–2 kunda",
+  "Davolovchi shifokor tushuntiradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Biror oraliqda hojatxonaga borgim kelmasa-chi?",
+   "a": "Bu bankani bo‘sh qoldiring va baribir laboratoriyaga olib boring."
+  },
+  {
+   "q": "Maxsus ko‘proq suv ichish kerakmi?",
+   "a": "Yo‘q. Odatdagidek iching, aks holda natija noaniq bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga Zimnitskiy bo‘yicha siydik yig‘ishni boshlaysiz. 8 ta yozilgan bankani va tun uchun budilnikni tayyorlang."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "D-dimer",
+ "also": [
+  "D-dimer",
+  "D-dimer tahlili",
+  "tromblarga tahlil"
+ ],
+ "what": "Bu venadan qon tahlili. U tomirlarda yangi tromblar bor-yo‘qligini tushunishga yordam beradi.",
+ "why": "Oyoqda yoki o‘pkada tromb gumon qilinganda, ba’zan homiladorlikda, operatsiyadan keyin, ba’zi kasalliklarda.",
+ "duration": "qon olish bir necha daqiqa, natija odatda o‘sha kuni yoki ertasiga",
+ "tell_doctor": [
+  "Qonni suyultiruvchi preparatlar ichsangiz",
+  "Homilador bo‘lsangiz yoki yaqinda tug‘gan bo‘lsangiz",
+  "Yaqinda operatsiya yoki jarohat bo‘lgan bo‘lsa",
+  "Bitta oyog‘ingiz shishib, og‘rirsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda maxsus kerak emas. Och qoringa yoki yengil ovqatdan bir necha soat o‘tgach topshirgan yaxshi. Laboratoriyadan aniqlashtiring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting: biror narsani o‘zgartirish kerakmi, shuni u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lanadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa sanchiq: qon probirkaga olinadi",
+  "Igna olinadi, sanchilgan joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Chimchilashga o‘xshash qisqa sanchiq",
+  "Ba’zan yengil bosh aylanishi: hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darhol ovqatlanib, odatiy ishlaringizga qaytish mumkin",
+  "Natija odatda 1 kunda: muddatni laboratoriyada aytishadi",
+  "D-dimer oshgan bo‘lsa, bu tashxis emas: shifokor tomirlar UZI’si yoki boshqa tekshiruv tayinlashi mumkin"
+ ],
+ "red_flags": [
+  "To‘satdan nafas qisilishi, ko‘krakda og‘riq, qonli yo‘tal bo‘lsa, tahlilni kutmay 103 ga qo‘ng‘iroq qiling",
+  "Bitta oyoq keskin shishsa, qizarsa va og‘risa, o‘sha kuni shifokorga boring"
+ ],
+ "faq": [
+  {
+   "q": "D-dimer oshgan bo‘lsa, demak tromb bormi?",
+   "a": "Albatta emas. U homiladorlikda, yallig‘lanishda, operatsiyalardan keyin va yosh bilan ham oshadi. Shifokor hal qiladi."
+  },
+  {
+   "q": "O‘zimni yaxshi his qilsam, bu tahlil nega kerak?",
+   "a": "Ba’zan uni nazorat uchun tayinlashadi, masalan homiladorlikda. Shifokordan maqsadini so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga D-dimer tahlili. Ertalab och qoringa bo‘lgani yaxshi, suv ichish mumkin."
+  }
+ ]
+}

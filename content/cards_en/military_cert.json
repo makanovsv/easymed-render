@@ -1,0 +1,72 @@
+{
+ "title": "Military enlistment office medical board",
+ "also": [
+  "military office medical board",
+  "draft board",
+  "military medical commission",
+  "medical exam for the army"
+ ],
+ "what": "Several doctors examine you at the military enlistment office and decide whether you are fit for service on health grounds.",
+ "why": "When registering for military records, being called up, joining contract service or a military college.",
+ "duration": "usually half a day or a day; the decision comes on the day of the board or later",
+ "tell_doctor": [
+  "All illnesses and injuries - even old ones",
+  "Which medicines you take",
+  "Any hospital stays and operations",
+  "Complaints you have now"
+ ],
+ "prepare": [
+  {
+   "title": "Documents",
+   "text": "Gather discharge summaries, reports and scans for all your illnesses. Without them it is hard for doctors to take an illness into account."
+  },
+  {
+   "title": "Tests",
+   "text": "Tests and a chest X-ray are often done in advance on a referral from the enlistment office. Ask there."
+  },
+  {
+   "title": "The day before",
+   "text": "Get enough sleep and do not drink alcohol."
+  }
+ ],
+ "bring": [
+  "Your passport",
+  "Your summons or referral",
+  "Medical documents about your illnesses",
+  "Test results, if you were asked for them"
+ ],
+ "steps": [
+  "You come to the enlistment office at the set time",
+  "You fill out a form",
+  "You see the doctors one by one: general doctor, surgeon, neurologist, psychiatrist, eye doctor, ENT, dentist and others",
+  "Your height, weight and blood pressure are measured and your vision is checked",
+  "If needed, you are sent for further tests",
+  "The board decides your fitness"
+ ],
+ "feel": [
+  "The exams are painless",
+  "It may take long and be tiring because of queues"
+ ],
+ "after": [
+  "You are told your fitness category",
+  "If you were sent for further tests, complete them on time",
+  "The decision can be appealed as the law allows"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "What if I do not bring documents about my illness?",
+   "a": "The doctors may not take it into account. It is better to gather the summaries in advance."
+  },
+  {
+   "q": "Can I have the tests with my own doctor?",
+   "a": "Further tests are usually done on a referral from the enlistment office. Ask there."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Military medical board tomorrow. Take your passport, summons and all medical documents."
+  }
+ ]
+}

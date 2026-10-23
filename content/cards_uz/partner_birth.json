@@ -1,0 +1,73 @@
+{
+ "title": "Hamkor bilan tug‘ish",
+ "also": [
+  "er bilan tug‘ish",
+  "hamkor bilan tug‘ish",
+  "birgalikda tug‘ish",
+  "ona bilan tug‘ish"
+ ],
+ "what": "Yaqin inson tug‘ruq paytida sizning yoningizda bo‘ladi. U qo‘llab-quvvatlaydi, nafas olishga va holatni o‘zgartirishga yordam beradi.",
+ "why": "Yoningizda eringiz, onangiz yoki boshqa yaqin inson bo‘lishini xohlaganingizda. Bu ixtiyoriy.",
+ "duration": "odatda butun tug‘ruq davomida, aniq tartib — tug‘ruqxona qoidalariga ko‘ra",
+ "tell_doctor": [
+  "Hamkor bilan tug‘moqchimisiz — oldindan ayting",
+  "Yoningizda kim bo‘ladi",
+  "Talab qilinsa, hamkorda kerakli tahlillar bormi",
+  "Istaklaringiz: hamkorga nima mumkin va nima mumkin emas"
+ ],
+ "prepare": [
+  {
+   "title": "Tug‘ruqxona qoidalari",
+   "text": "Hamkorga qanday tahlillar va hujjatlar kerakligini oldindan aniqlang."
+  },
+  {
+   "title": "Tayyorgarlik",
+   "text": "Hamkor tug‘ruqqa tayyorlov kurslariga borsa yaxshi."
+  },
+  {
+   "title": "Hamkorning kiyimi",
+   "text": "Almashtirish uchun toza kiyim va poyabzal, ba’zan bir martalik kostyum."
+  }
+ ],
+ "bring": [
+  "Hamkorning hujjatlari",
+  "So‘ralsa, hamkorning tahlillari",
+  "Hamkor uchun almashtirish kiyimi va poyabzal",
+  "Hamkor uchun suv va yengil ovqat"
+ ],
+ "steps": [
+  "Hamkor siz bilan yoki keyinroq, tug‘ruqxona qoidalariga ko‘ra keladi",
+  "U toza kiyim kiyadi",
+  "Tutqanoq paytida nafas olishga yordam beradi, belni uqalaydi",
+  "Holatni o‘zgartirishga yordam beradi va suv uzatadi",
+  "Shifokorlar va doyaning ko‘rsatmalarini tinglaydi",
+  "Tug‘ruqdan keyin siz va chaqaloq bilan birga bo‘lishi mumkin"
+ ],
+ "feel": [
+  "Yaqin odamning qo‘llab-quvvatlashi odatda sanchiqlarni xotirjamroq o‘tkazishga yordam beradi",
+  "Hamkorga og‘riqni ko‘rish og‘ir bo‘lishi mumkin — bu normal"
+ ],
+ "after": [
+  "Hamkor chaqaloqni ilk bor ko‘kragiga qo‘yishda yordam berishi mumkin",
+  "Odatda hamkor tug‘ruq zalida kuzatuvdan keyin ketadi — qoidalarni tug‘ruqxona aytadi"
+ ],
+ "red_flags": [
+  "Hamkorning ahvoli yomonlashsa — darhol xodimlarga aytsin va chiqib ketsin"
+ ],
+ "faq": [
+  {
+   "q": "Hamkor tug‘ruq paytida chiqib ketishi mumkinmi?",
+   "a": "Ha, istalgan payt. Xodimlar qachon yaxshiroq ekanini aytadi."
+  },
+  {
+   "q": "Shifokorlar band bo‘lsa, hamkor nima qilishi kerak?",
+   "a": "Xalaqit bermaslik, qo‘lingizni ushlab turish va xodimlarning iltimoslarini bajarish."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Eslatma: hamkorda tug‘ruqxona uchun hujjatlar va tahlillar tayyorligini tekshiring."
+  }
+ ]
+}

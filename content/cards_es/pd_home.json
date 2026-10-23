@@ -1,0 +1,81 @@
+{
+ "title": "Diálisis peritoneal en casa",
+ "also": [
+  "diálisis peritoneal",
+  "DP",
+  "diálisis en casa",
+  "diálisis casera por el abdomen"
+ ],
+ "what": "Por un tubo en el abdomen se pone una solución especial. Esta se lleva lo que sobra de la sangre y después se drena. Esto lo haces tú mismo en casa.",
+ "why": "En insuficiencia renal grave, cuando es más cómodo tratarse en casa y no ir a la unidad.",
+ "duration": "un cambio de solución normalmente toma de 30 a 40 minutos, varias veces al día; o de noche con una máquina mientras duermes",
+ "tell_doctor": [
+  "Si la solución salió turbia",
+  "Dolor de abdomen o fiebre",
+  "Si cambió el peso, hay hinchazón o falta de aire",
+  "Enrojecimiento alrededor del tubo"
+ ],
+ "prepare": [
+  {
+   "title": "Capacitación",
+   "text": "Antes de empezar te enseñan a ti y a tus familiares en la clínica. Hazlo como te enseñaron."
+  },
+  {
+   "title": "Limpieza",
+   "text": "Un lugar aparte y limpio, ventanas cerradas, sin animales cerca durante el cambio."
+  },
+  {
+   "title": "Manos",
+   "text": "Antes de cada cambio, lávate muy bien las manos y ponte mascarilla."
+  },
+  {
+   "title": "Reserva",
+   "text": "Guarda las soluciones como diga la clínica y vigila la fecha de caducidad."
+  }
+ ],
+ "bring": [
+  "Los registros de peso, presión y volúmenes drenados, para la consulta",
+  "La lista de medicamentos"
+ ],
+ "steps": [
+  "Te lavas las manos, te pones la mascarilla y preparas el lugar",
+  "Conectas al tubo la bolsa de solución entibiada",
+  "Primero drenas la solución vieja del abdomen",
+  "Después metes la solución nueva",
+  "Desconectas el sistema y cierras el tubo con el tapón",
+  "Anotas el volumen y el aspecto del drenaje"
+ ],
+ "feel": [
+  "Sensación de abdomen lleno cuando la solución está dentro",
+  "La solución fría es incómoda; hay que entibiarla",
+  "Normalmente no duele"
+ ],
+ "after": [
+  "Todos los días revisa y limpia la piel alrededor del tubo",
+  "Vigila el peso, la presión y la hinchazón",
+  "Sigue la dieta que indicó el médico",
+  "Ve con regularidad a las revisiones en la clínica"
+ ],
+ "red_flags": [
+  "Solución turbia al drenar: llama de inmediato a la clínica",
+  "Dolor de abdomen, fiebre, escalofríos",
+  "Pus, enrojecimiento alrededor del tubo",
+  "Falta de aire fuerte o dolor en el pecho: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿Puedo trabajar con la DP?",
+   "a": "Muchas personas trabajan. Los cambios se pueden ajustar al horario o hacerse de noche con la máquina."
+  },
+  {
+   "q": "¿Por qué es tan importante la solución turbia?",
+   "a": "Es una señal frecuente de inflamación en el abdomen. Hay que llamar de inmediato a la clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Revisa la reserva de solución para mañana y anota el peso de hoy y los volúmenes drenados."
+  }
+ ]
+}

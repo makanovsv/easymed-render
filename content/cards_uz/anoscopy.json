@@ -1,0 +1,77 @@
+{
+ "title": "Anoskopiya va rektoskopiya",
+ "also": [
+  "rektoromanoskopiya",
+  "to‘g‘ri ichakni ko‘rik",
+  "anoskop"
+ ],
+ "what": "Shifokor yorug‘lik bilan jihozlangan kichik naycha yordamida orqa chiqaruv teshigi va to‘g‘ri ichakni ko‘radi. Bu qisqa ko‘rik, odatda narkozsiz.",
+ "why": "Najasda qon, orqa chiqaruv teshigida og‘riq yoki qichishishda, gemorroy, yoriqda, operatsiyadan oldin.",
+ "duration": "odatda 5–15 daqiqa",
+ "tell_doctor": [
+  "Qonni suyultiradigan dorilar",
+  "Hozir orqa chiqaruv teshigida kuchli og‘riq bo‘lsa",
+  "Og‘riqsizlantiruvchi gellarga allergiya",
+  "Bu sohada oldin operatsiyalar bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ichak",
+   "text": "Odatda ichakni tozalash kerak: kechqurun va ertalab huqna yoki mikrohuqna. Qanday qilish kerakligini klinika aytadi."
+  },
+  {
+   "title": "Faqat anoskopiya",
+   "text": "Orqa chiqaruv teshigining qisqa ko‘rigi uchun ba’zan ertalab o‘zi hojatga chiqish yetarli. Klinikadan aniqlang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Bir kun oldin yengil kechki ovqat. Ertalab klinika boshqacha demagan bo‘lsa, yengil nonushta mumkin."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi xulosalar, agar bo‘lsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Belingizdan pastini yechasiz",
+  "Oyoqlarni bukib chap yonboshingizga yotasiz yoki tizza-tirsak holatiga turasiz",
+  "Shifokor avval joyni ko‘radi va ehtiyotkorlik bilan barmoq bilan tekshiradi",
+  "Gel surtilgan naychani oz chuqurlikka kiritadi",
+  "Ichak devorlarini ko‘rib, naychani olib qo‘yadi"
+ ],
+ "feel": [
+  "Bosim va hojatga borish istagi — normal",
+  "Rektoskopiyada ichakka ozgina havo beriladi — kerilish hissi bo‘lishi mumkin",
+  "Og‘risa — shifokorga ayting"
+ ],
+ "after": [
+  "Darrov ovqatlanib, odatiy ishlar bilan shug‘ullansangiz bo‘ladi",
+  "Shu kuni qog‘ozda ozgina qon bo‘lishi mumkin, ayniqsa to‘qima bo‘lagi olingan bo‘lsa",
+  "Ko‘rik natijasini shifokor odatda darrov aytadi"
+ ],
+ "red_flags": [
+  "Kuchli qon ketish yoki qon laxtalari",
+  "Qorinda kuchli og‘riq, harorat 38 dan yuqori"
+ ],
+ "faq": [
+  {
+   "q": "Anoskopiya og‘riqlimi?",
+   "a": "Odatda yo‘q: noqulay, lekin chidasa bo‘ladi. Yoriq bo‘lsa, shifokor og‘riqsizlantiruvchi gel ishlatadi."
+  },
+  {
+   "q": "Rektoskopiya kolonoskopiyadan nimasi bilan farq qiladi?",
+   "a": "Rektoskopiya faqat to‘g‘ri ichak va sigmasimon ichakning boshini ko‘radi. Kolonoskopiya esa butun yo‘g‘on ichakni."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga to‘g‘ri ichak ko‘rigi. Kechqurun — klinika aytganidek ichakni tozalash va yengil kechki ovqat."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Ertalab — klinika sxemasi bo‘yicha ichakni tozalash. Yo‘llanma va dorilar ro‘yxatini oling."
+  }
+ ]
+}

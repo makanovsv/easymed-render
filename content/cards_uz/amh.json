@@ -1,0 +1,73 @@
+{
+ "title": "AMG (antimyuller gormon)",
+ "also": [
+  "AMG",
+  "antimyuller gormon",
+  "tuxumdon zahirasi",
+  "tuxum hujayralar zahirasi"
+ ],
+ "what": "Bu venadan qon tahlili. U tuxumdonlardagi tuxum hujayralari zahirasini baholashga yordam beradi.",
+ "why": "Homiladorlikni rejalashtirishda, ekstrakorporal urug‘lantirishdan (EKU) oldin, hayz tartibi buzilganda, tuxumdon operatsiyalaridan oldin.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda 2–5 kunda",
+ "tell_doctor": [
+  "Homiladorlikdan saqlovchi tabletkalar yoki boshqa gormonlar ichsangiz",
+  "Tuxumdonlarda operatsiyalar bo‘lgan bo‘lsa",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Hayz kuni",
+   "text": "AMG ni odatda hayz siklining istalgan kunida topshirsa bo‘ladi. Shifokor kunni aytgan bo‘lsa — o‘sha kuni topshiring."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Ertalab och qoringa yoki yengil ovqatdan bir necha soat keyin yaxshiroq. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir sutka oldin — alkogolsiz va og‘ir mashqsiz. Ertalab chekmagan ma’qul."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — biror narsani o‘zgartirish kerakmi, u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakchaga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon probirkaga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilaganday",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darrov ovqatlanib, odatiy ishlarga qaytsangiz bo‘ladi",
+  "Natija odatda 2–5 kunda — muddatni laboratoriya aytadi",
+  "Natijani ginekolog UZI va boshqa tahlillar bilan birga baholaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "AMG past bo‘lsa, homiladorlik bo‘lmaydimi?",
+   "a": "Yo‘q. AMG tuxum hujayralari zahirasi haqida gapiradi, homiladorlik bo‘lish-bo‘lmasligi haqida emas. Shifokor bilan muhokama qiling."
+  },
+  {
+   "q": "AMG ni siklning qaysi kuni topshirish kerak?",
+   "a": "Odatda istalgan kuni. Shifokor aniq kunni aytgan bo‘lsa — shunga amal qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga AMG tahlili. Ertalab och qoringa ma’qul, suv ichsa bo‘ladi."
+  }
+ ]
+}

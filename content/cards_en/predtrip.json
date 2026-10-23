@@ -1,0 +1,72 @@
+{
+ "title": "Pre-trip driver health check",
+ "also": [
+  "pre-trip medical check",
+  "driver medical check",
+  "pre-shift driver exam",
+  "driver health check before trip"
+ ],
+ "what": "A quick check of the driver before departure: blood pressure, pulse and sobriety. It is done before every trip.",
+ "why": "For drivers of company vehicles, before every trip or shift.",
+ "duration": "usually 3 to 5 minutes",
+ "tell_doctor": [
+  "Feeling unwell, headache, dizziness",
+  "Whether you took any medicines, especially sedatives or allergy or cough medicine",
+  "How you slept"
+ ],
+ "prepare": [
+  {
+   "title": "Sleep",
+   "text": "Get a good night's sleep before the trip."
+  },
+  {
+   "title": "Alcohol",
+   "text": "Do not drink the day before. Even alcohol in the evening can still show on the device in the morning."
+  },
+  {
+   "title": "Medicines",
+   "text": "Some medicines slow your reaction. Tell the medic what you take, but do not stop on your own."
+  }
+ ],
+ "bring": [
+  "Your ID or work ID",
+  "The trip sheet",
+  "Glasses, if you need them to drive"
+ ],
+ "steps": [
+  "You enter the check room",
+  "The medic asks how you feel",
+  "Measures your blood pressure and pulse",
+  "You blow into a breathalyzer",
+  "Sometimes your reaction is tested or you are examined",
+  "If all is fine, the trip sheet is stamped"
+ ],
+ "feel": [
+  "Everything is quick and painless",
+  "If you are nervous, your blood pressure may be a bit higher. The medic will take that into account"
+ ],
+ "after": [
+  "With the stamp, you can start your trip",
+  "If you are not cleared, do not drive and tell your manager",
+  "If you feel unwell on the road, stop"
+ ],
+ "red_flags": [
+  "Pressing chest pain, sudden weakness or trouble speaking: stop and call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "What if my blood pressure is high?",
+   "a": "The medic may not clear you for the trip and may send you to a doctor. This is for your safety."
+  },
+  {
+   "q": "Will the breathalyzer pick up mouthwash?",
+   "a": "Sometimes. Wait a little and take the test again. This is the usual practice."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 10,
+   "text": "Trip tomorrow. Get a good sleep and do not drink alcohol: the pre-trip check is in the morning."
+  }
+ ]
+}

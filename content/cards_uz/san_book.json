@@ -1,0 +1,71 @@
+{
+ "title": "Sanitariya daftarchasi",
+ "also": [
+  "sanitariya daftarchasi",
+  "tibbiy daftarcha",
+  "shaxsiy tibbiy daftarcha",
+  "sanminimum"
+ ],
+ "what": "Tibbiy ko‘riklar va tahlillar natijalari yoziladigan hujjat. Usiz oziq-ovqat va bolalar bilan ishlashga ruxsat berishmaydi.",
+ "why": "Umumiy ovqatlanish, oziq-ovqat savdosi, bolalar bog‘chasi, maktab, tibbiyot va shunga o‘xshash ishlar uchun.",
+ "duration": "ko‘riklar uchun odatda 1–3 kun, tahlil natijalari bir necha kunda",
+ "tell_doctor": [
+  "Ichak infeksiyalari, gepatit, sil bo‘lganmi",
+  "Teri kasalliklari",
+  "Qanday dori qabul qilasiz"
+ ],
+ "prepare": [
+  {
+   "title": "To‘plam",
+   "text": "Odatda terapevt ko‘rigi, flyuorografiya, ichak infeksiyalari va gijjalar tahlili, ba’zan dermatolog va ginekolog ko‘rigi kerak bo‘ladi. Ro‘yxat ishga bog‘liq: klinikadan aniqlab oling."
+  },
+  {
+   "title": "Axlat tahlili",
+   "text": "Axlat dorixona yoki klinikadan olingan idishga yig‘iladi. Qanday yig‘ishni tushuntirishadi."
+  },
+  {
+   "title": "Emlashlar",
+   "text": "Ba’zan emlashlar tekshiriladi. Sertifikat bo‘lsa, oling."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Surat, klinika talab qilsa",
+  "Emlash sertifikati",
+  "So‘nggi yil flyuorografiya natijasi, agar bo‘lsa"
+ ],
+ "steps": [
+  "Siz sanitariya daftarchasini rasmiylashtiradigan klinikaga kelasiz",
+  "Anketa to‘ldirasiz",
+  "Tahlillar topshirasiz",
+  "Yangi flyuorografiya bo‘lmasa, qilasiz",
+  "Kerakli shifokorlardan o‘tasiz",
+  "Ba’zan gigiena bo‘yicha o‘qish va test o‘tasiz",
+  "Tahlillardan keyin sizga belgilar qo‘yilgan daftarcha berishadi"
+ ],
+ "feel": [
+  "Ko‘riklar og‘riqsiz",
+  "Surtma yoqimsiz bo‘lishi mumkin, lekin qisqa"
+ ],
+ "after": [
+  "Daftarchani ish joyida yoki o‘zingizda saqlang: ishda qanday qabul qilingan bo‘lsa",
+  "Keyingi ko‘rik muddatini kuzatib boring"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Sanitariya daftarchasi qanchalik tez-tez yangilanadi?",
+   "a": "Odatda yilda bir marta, ba’zan tez-tez. Ishga bog‘liq."
+  },
+  {
+   "q": "Tahlillarni bir klinikada topshirib, boshqasida rasmiylashtirsa bo‘ladimi?",
+   "a": "Ba’zan ha, lekin daftarchani rasmiylashtiradigan klinikadan aniqlab olgan ma’qul."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga sanitariya daftarchasini rasmiylashtirish. Hujjat, emlash sertifikati va kerak bo‘lsa tahlil idishini oling."
+  }
+ ]
+}

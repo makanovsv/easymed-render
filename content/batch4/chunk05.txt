@@ -1,0 +1,29 @@
+splint|proc|Ортез и шина после травмы|Splint and brace after injury|proc_room|L|2
+ingrown_nail|proc|Удаление вросшего ногтя|Ingrown toenail removal|proc_room|M|2
+foreign_body|proc|Удаление инородного тела (заноза, рыболовный крючок)|Foreign body removal|proc_room|M|2
+burn_care|proc|Перевязка ожога|Burn dressing|proc_room|M|2
+stitches|proc|Наложение швов на рану|Wound stitches|proc_room|M|1
+ear_pierce|proc|Прокол мочек ушей|Ear piercing|proc_room|L|2
+acne|derm|Приём по акне|Acne consultation|office|L|2
+chem_peel|derm|Химический пилинг|Chemical peel|proc_room|M|2
+laser_hair|derm|Лазерная эпиляция|Laser hair removal|proc_room|M|2
+botox|derm|Ботулинотерапия (ботокс)|Botulinum toxin (Botox)|proc_room|M|2
+fillers|derm|Контурная пластика (филлеры)|Dermal fillers|proc_room|M|2
+mole_laser|derm|Удаление родинки лазером|Laser mole removal|proc_room|M|2
+cyst_removal|derm|Удаление атеромы|Sebaceous cyst removal|proc_room|M|2
+keloid|derm|Лечение келоидного рубца|Keloid scar treatment|proc_room|M|3
+vitiligo_uv|derm|Фототерапия кожи|Skin phototherapy (UV)|proc_room|L|3
+psoriasis|derm|Приём при псориазе|Psoriasis consultation|office|L|2
+hyperhidrosis|derm|Лечение потливости|Excessive sweating treatment|proc_room|M|3
+hair_loss|derm|Трихоскопия (выпадение волос)|Trichoscopy for hair loss|proc_room|L|2
+dent_kids|dent|Первый визит ребёнка к стоматологу|Child's first dental visit|dent_chair|L|1
+dent_clean|dent|Профессиональная чистка зубов|Professional teeth cleaning|dent_chair|L|1
+fluoride|dent|Фторирование зубов|Fluoride treatment|dent_chair|L|2
+milk_tooth|dent|Удаление молочного зуба|Baby tooth extraction|dent_chair|M|2
+pulpitis|dent|Лечение пульпита|Pulpitis treatment|dent_chair|M|1
+gum_treat|dent|Лечение дёсен (кюретаж)|Gum treatment (deep cleaning)|dent_chair|M|2
+veneers|dent|Виниры|Veneers|dent_chair|M|2
+bridge|dent|Мостовидный протез|Dental bridge|dent_chair|M|2
+denture|dent|Съёмный протез|Removable denture|dent_chair|M|2
+aligners|dent|Элайнеры (капы для выравнивания)|Clear aligners|dent_chair|L|2
+sinus_lift|dent|Синус-лифтинг|Sinus lift|dent_chair|H|3

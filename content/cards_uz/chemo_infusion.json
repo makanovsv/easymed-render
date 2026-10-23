@@ -1,0 +1,88 @@
+{
+ "title": "Ximioterapiya: kurs qanday o‘tadi",
+ "also": [
+  "ximiya",
+  "ximioterapiya",
+  "ximioterapiya tomchisi",
+  "ximiya kursi"
+ ],
+ "what": "O‘smaga qarshi dorilar vena orqali tomchi bilan yuboriladi. Kurs sikllarda o‘tadi: davolash kunlari va dam olish kunlari.",
+ "why": "Onkologik kasalliklarda: onkolog qaroriga ko‘ra.",
+ "duration": "bitta tomchi 30 daqiqadan bir necha soatgacha; kurs bir necha hafta yoki oy",
+ "tell_doctor": [
+  "Barcha dorilar, vitaminlar va giyohlarni: ba’zilarini ximiya bilan birga ichib bo‘lmaydi",
+  "So‘nggi kunlarda harorat, yo‘tal, infeksiya bo‘lganmi",
+  "Oldingi siklni qanday o‘tkazganingizni: ko‘ngil aynishi, holsizlik, uyushish",
+  "Homiladorlik yoki uni rejalashtirish",
+  "Tish shifokorida rejali davolanish"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Har bir sikldan oldin odatda qon tahlili topshiriladi. U yomon bo‘lsa, siklni ko‘chirishlari mumkin."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda ertalab yengil nonushta mumkin. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz hech narsani bekor qilmang yoki qo‘shmang. Ko‘ngil aynishiga qarshi dorilarni shifokor sxemasi bo‘yicha iching."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Tomchi uzoq bo‘lishi mumkin: suv, yengil taom, kitob oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma va tahlil natijalari",
+  "Hujjat",
+  "Dorilar ro‘yxati",
+  "Suv, yengil taom, pled, quloqchinlar"
+ ],
+ "steps": [
+  "Hamshira tahlillar va ahvolingizni tekshiradi",
+  "Venaga kateter qo‘yishadi yoki portga ulashadi",
+  "Avval ko‘ngil aynishi va allergiyaga qarshi dorilar beriladi",
+  "Keyin ximioterapiya tomchisi ulanadi",
+  "Hamshira ahvolingizni kuzatib turadi",
+  "Oxirida tizim yuviladi va uziladi"
+ ],
+ "feel": [
+  "Tomchining o‘zi odatda og‘rimaydi",
+  "Ko‘ngil aynishi, holsizlik, ta’m o‘zgarishi bo‘lishi mumkin: kunlar bo‘yicha turlicha",
+  "Yuborilgan joyda achishsa, darhol hamshiraga ayting"
+ ],
+ "after": [
+  "Shifokor cheklamagan bo‘lsa, yetarlicha suv iching",
+  "Qo‘llarni yuving, kasal odamlar bilan aloqadan saqlaning",
+  "O‘zingizni his qilishingizni yozib boring: shifokorga ko‘rsating",
+  "Nojo‘ya ta’sirlarga qarshi dorilarni sxema bo‘yicha iching"
+ ],
+ "red_flags": [
+  "Harorat 38 va undan yuqori bo‘lsa, darhol shifokorga yoki 103 ga qo‘ng‘iroq qiling",
+  "Tomchi paytida yoki undan keyin nafas qisilishi, toshma, yuz shishi bo‘lsa, tez yordamni chaqiring (103)",
+  "Ichib bo‘lmaydigan qusish yoki kuchli ich ketishi",
+  "Qon ketishi, sababsiz ko‘karishlar"
+ ],
+ "faq": [
+  {
+   "q": "Sochlar to‘kiladimi?",
+   "a": "Hamma dorilardan emas. Aynan sizning sxemangizda nimani kutish kerakligini shifokor aytadi."
+  },
+  {
+   "q": "Ximiya paytida ishlasa bo‘ladimi?",
+   "a": "Ko‘pchilik ishlaydi. Bu sxema va ahvolga bog‘liq: shifokor bilan muhokama qiling."
+  },
+  {
+   "q": "Nega harorat bunchalik xavfli?",
+   "a": "Ximiya infeksiyadan himoyani pasaytiradi. Hatto kichik harorat ham shifokorga tezda qo‘ng‘iroq qilishni talab qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ximioterapiya tomchisi. Kerak bo‘lsa, tahlillarni topshiring. Suv, yengil taom va pled oling."
+  }
+ ]
+}

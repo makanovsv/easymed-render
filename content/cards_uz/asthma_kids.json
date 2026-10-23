@@ -1,0 +1,75 @@
+{
+ "title": "Bolada astma: nazorat va xuruj",
+ "also": [
+  "bolalarda astma",
+  "bolada astma xuruji",
+  "bolalar astmasi",
+  "bola uchun ingalyator"
+ ],
+ "what": "Ota-onalar uchun eslatma: astmali bolaga har kuni qanday yordam berish va xurujda nima qilish kerak.",
+ "why": "Bolada astma topilgan bo‘lsa yoki tez-tez xirillab nafas olsa.",
+ "duration": "reja qabulda tuziladi, davo odatda uzoq davom etadi",
+ "tell_doctor": [
+  "Bola tunda qanchalik tez-tez yo‘talishi yoki bo‘g‘ilishi",
+  "Xurujlarni nima keltirib chiqaradi: shamollash, chang, hayvonlar, yugurish",
+  "Tez yordam ingalyatori qanchalik tez-tez kerak bo‘ladi",
+  "Bola ingalyatordan qanday foydalanadi — shifokorga ko‘rsating"
+ ],
+ "prepare": [
+  {
+   "title": "Spayser",
+   "text": "Kichik bolalarga ingalyator odatda niqobli spayser orqali beriladi. Qaysi biri mosligini shifokordan so‘rang."
+  },
+  {
+   "title": "Reja",
+   "text": "Yozma harakat rejasini so‘rang va nusxasini bolalar bog‘chasi yoki maktabga bering."
+  },
+  {
+   "title": "Uy",
+   "text": "Chang kamroq bo‘lsin, uyda va mashinada chekmang."
+  }
+ ],
+ "bring": [
+  "Ingalyatorlar va spayser",
+  "Harakat rejasi",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Asosiy davoni shifokor buyurganidek har kuni bering",
+  "Xuruj belgilari: yo‘tal, xirillash, tez nafas olish, bola gapira yoki o‘ynay olmaydi",
+  "Bolani o‘tqazing va tinchlantiring",
+  "Tez yordam ingalyatorining nafaslarini reja bo‘yicha spayser orqali bering",
+  "Yaxshilanmasa — rejaning qizil zonasi bo‘yicha harakat qiling va 103 ga qo‘ng‘iroq qiling",
+  "Xuruj qachon bo‘lgani va nima yordam bergani yozib qo‘ying"
+ ],
+ "feel": [
+  "Bola niqobdan qo‘rqishi mumkin — oldindan u bilan o‘ynang",
+  "Ingalyatordan keyin yurak urishi va qo‘zg‘alish bo‘lishi mumkin — odatda o‘tib ketadi"
+ ],
+ "after": [
+  "Shifokorga rejali ko‘rinib turing",
+  "Ingalyatorlarning yaroqlilik muddati va qoldig‘ini tekshiring",
+  "Asosiy davoni o‘zingiz to‘xtatmang"
+ ],
+ "red_flags": [
+  "Bolaga nafas olish qiyin, qovurg‘alar orasi ichkariga tortiladi — tez yordamni chaqiring (103)",
+  "Lablar ko‘karadi, bola lanj yoki mudroq — tez yordamni chaqiring (103)",
+  "Ingalyator yordam bermayapti — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Astma yosh bilan o‘tib ketadimi?",
+   "a": "Ba’zi bolalarda belgilar kuchsizlashadi. Davoni to‘xtatish haqida shifokor qaror qabul qiladi."
+  },
+  {
+   "q": "Astmali bola jismoniy tarbiya darsiga borsa bo‘ladimi?",
+   "a": "Odatda ha, yaxshi nazoratda. Shifokor bilan muhokama qiling va maktabga reja bering."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Bolaning ingalyatori va spayseri yoningizda ekanini tekshiring."
+  }
+ ]
+}

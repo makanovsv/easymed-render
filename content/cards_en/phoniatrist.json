@@ -1,0 +1,78 @@
+{
+ "title": "Voice doctor visit (phoniatrist)",
+ "also": [
+  "voice doctor",
+  "laryngologist",
+  "vocal cord exam",
+  "hoarse voice",
+  "voice clinic"
+ ],
+ "what": "This is an ENT doctor who treats voice problems. They listen to how you speak and check your vocal cords with a mirror or a thin camera.",
+ "why": "For hoarseness lasting more than 2 to 3 weeks, a voice that tires quickly, and for teachers, singers, and anyone who talks a lot.",
+ "duration": "usually 20 to 40 minutes; the doctor tells you the findings during the visit",
+ "tell_doctor": [
+  "How long your voice has been different and what came before it",
+  "How much you talk or sing during the day",
+  "If you smoke",
+  "If you have heartburn or sour burps",
+  "If you had surgery on your neck or thyroid"
+ ],
+ "prepare": [
+  {
+   "title": "Voice",
+   "text": "Before the visit, do not shout or strain your voice."
+  },
+  {
+   "title": "Food",
+   "text": "If a camera will be used, it is better not to eat a big meal 1 to 2 hours before."
+  },
+  {
+   "title": "Recordings",
+   "text": "If your voice changes during the day, you can record it on your phone and show the doctor."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Results of past exams",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks about your voice and your work",
+  "You are asked to say a few phrases or hold a sound",
+  "The doctor checks your throat and voice box",
+  "Sometimes a thin camera is put in your mouth or nose, and you are asked to say \"eee\"",
+  "The screen shows how your vocal cords close",
+  "The doctor explains what they saw and gives advice"
+ ],
+ "feel": [
+  "Checking the voice box may make you gag",
+  "Before the camera, a numbing spray is sometimes used, and your throat goes numb",
+  "It usually does not hurt"
+ ],
+ "after": [
+  "If a numbing spray was used, do not eat or drink for about an hour",
+  "The doctor may prescribe voice rest or sessions with a voice therapist",
+  "Sometimes a repeat exam is needed after a few weeks"
+ ],
+ "red_flags": [
+  "It becomes hard to breathe or swallow: call emergency services",
+  "Blood in your phlegm",
+  "Hoarseness that lasts more than 2 to 3 weeks"
+ ],
+ "faq": [
+  {
+   "q": "Should I stay silent if I lose my voice?",
+   "a": "Usually you are advised to talk less and not whisper, because whispering also strains the vocal cords. The doctor will tell you exactly what to do."
+  },
+  {
+   "q": "How is a voice doctor different from a regular ENT?",
+   "a": "A voice doctor knows more about the voice: how the vocal cords work and how to restore them."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Voice doctor visit tomorrow. Rest your voice today and do not shout."
+  }
+ ]
+}

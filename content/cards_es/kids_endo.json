@@ -1,0 +1,75 @@
+{
+ "title": "Consulta con el endocrinólogo infantil (crecimiento, peso, desarrollo puberal)",
+ "also": [
+  "endocrinólogo pediatra",
+  "crecimiento del niño",
+  "sobrepeso en niños",
+  "desarrollo puberal"
+ ],
+ "what": "El médico revisa cómo crece y se desarrolla el niño y si las hormonas lo afectan.",
+ "why": "Si el niño es notablemente más bajo o más alto que sus compañeros, sube de peso de más, la pubertad empezó muy temprano o muy tarde, o se sospechan problemas de la tiroides.",
+ "duration": "la consulta normalmente dura de 20 a 40 minutos; los análisis salen en unos días",
+ "tell_doctor": [
+  "Estatura y peso del niño por años, de la cartilla o de tus notas",
+  "La estatura de los padres",
+  "Cuándo empezaron los signos de desarrollo",
+  "Cómo come, duerme y se mueve el niño",
+  "Qué medicamentos toma"
+ ],
+ "prepare": [
+  {
+   "title": "Estatura por años",
+   "text": "Anota del expediente la estatura y el peso de los años anteriores: es lo principal para el médico."
+  },
+  {
+   "title": "Análisis",
+   "text": "El médico puede pedir análisis de hormonas. Normalmente en la mañana en ayunas. Confírmalo en la clínica."
+  },
+  {
+   "title": "Plática",
+   "text": "Explícale al niño que el médico verá cómo crece y que no duele."
+  }
+ ],
+ "bring": [
+  "Los documentos del niño",
+  "El expediente con las mediciones de estatura",
+  "Análisis anteriores y la radiografía de la mano, si se la hicieron"
+ ],
+ "steps": [
+  "El médico te pregunta por el desarrollo",
+  "Mide la estatura y el peso",
+  "Examina al niño; si hace falta, también los signos del desarrollo, con cuidado y con el padre presente",
+  "Palpa el cuello",
+  "Puede mandarlo a análisis o a una radiografía de la mano",
+  "Explica la conclusión y el plan"
+ ],
+ "feel": [
+  "La revisión no duele",
+  "Un adolescente puede sentirse incómodo; se puede pedir que la revisión sea más corta"
+ ],
+ "after": [
+  "Vigila la estatura y el peso: anótalos cada pocos meses",
+  "Los medicamentos los receta solo el médico",
+  "La siguiente cita, en el plazo que diga el médico"
+ ],
+ "red_flags": [
+  "El niño toma mucha agua, orina seguido, adelgaza, está decaído: acude al médico de inmediato",
+  "Olor a acetona en el aliento, vómito, somnolencia: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "Mi hijo es el más bajo del salón, ¿es una enfermedad?",
+   "a": "No siempre. Muchas veces es herencia. El médico verá la estatura por años."
+  },
+  {
+   "q": "¿Para qué la radiografía de la mano?",
+   "a": "Muestra qué tan maduros están los huesos y cuánto más puede crecer el niño."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es la consulta con el endocrinólogo infantil. Anota la estatura y el peso del niño de años anteriores."
+  }
+ ]
+}

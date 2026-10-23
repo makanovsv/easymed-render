@@ -1,0 +1,69 @@
+{
+ "title": "Tishlar sezgirligini davolash",
+ "also": [
+  "giperesteziyani davolash",
+  "tishlar sovuqqa javob beradi",
+  "tishlarni qoplash",
+  "ftorlash"
+ ],
+ "what": "Shifokor tishlarning sezgir joylarini himoya vositasi bilan qoplaydi. Tishlar sovuq, nordon va shiringa kamroq javob beradi.",
+ "why": "Tishlar sovuq, issiq, shirin narsadan yoki yuvganda zirqiraganda.",
+ "duration": "odatda 15–40 daqiqa; ta’siri ko‘pincha darrov yoki bir necha muolajadan keyin seziladi",
+ "tell_doctor": [
+  "Qaysi tishlar va nimaga javob berishini",
+  "Yaqinda tishlarni oqartirganmisiz",
+  "Jig‘ildon qaynashi yoki tez-tez qusish bor-yo‘qligini",
+  "Tishlaringizni g‘ijirlatasizmi",
+  "Qanday tish pastasi va cho‘tkadan foydalanishingizni"
+ ],
+ "prepare": [
+  {
+   "title": "Tishlar",
+   "text": "Qabuldan oldin tishlarni yumshoq cho‘tka bilan yuving."
+  },
+  {
+   "title": "Kuzatuvlar",
+   "text": "Aynan nima og‘riq keltirishini payqang — bu shifokorga yordam beradi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Tish pastangizning nomi"
+ ],
+ "steps": [
+  "Shifokor tishlarni ko‘radi va sezgir joylarni topadi",
+  "Ba’zan g‘uborni tozalaydi",
+  "Tishlar quritiladi",
+  "Sezgir joylarga himoya vositasi surtiladi",
+  "Ba’zan ochilib qolgan tish bo‘yni plomba bilan yopiladi",
+  "Shifokor pasta va uyda parvarish bo‘yicha maslahat beradi"
+ ],
+ "feel": [
+  "Muolaja odatda og‘riqsiz",
+  "Havo oqimi sezgir tishni sanchishi mumkin"
+ ],
+ "after": [
+  "Shifokor aytgan vaqt, odatda 30–60 daqiqa ovqat yemang, suv ichmang",
+  "Yumshoq cho‘tka va shifokor tavsiya etgan pastadan foydalaning",
+  "Ba’zan muolajani takrorlash kerak bo‘ladi"
+ ],
+ "red_flags": [
+  "Tish o‘z-o‘zidan, tunda yoki sovuqdan keyin uzoq og‘risa — shifokorga ko‘rsating, bu oddiy sezgirlik emas bo‘lishi mumkin"
+ ],
+ "faq": [
+  {
+   "q": "Tishlar nega sezgir bo‘lib qoldi?",
+   "a": "Ko‘pincha emal yedirilgani yoki tish bo‘yni ochilib qolgani uchun. Sababini shifokor topadi."
+  },
+  {
+   "q": "Maxsus pasta yordam beradimi?",
+   "a": "Muntazam ishlatilsa, ko‘pincha yordam beradi. Qaysi birini tanlashni shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Ikki soatdan keyin stomatolog qabuli. Tishlarni yumshoq cho‘tka bilan yuving."
+  }
+ ]
+}

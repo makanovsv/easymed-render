@@ -1,0 +1,73 @@
+{
+ "title": "Bolada yurak UZIsi",
+ "also": [
+  "bolaga ExoKG",
+  "bolalarda yurak UZIsi",
+  "bolalar exokardiografiyasi",
+  "bolaning yuragi exosi"
+ ],
+ "what": "Shifokor bolaning yuragini ultratovush bilan ko‘radi: u qanday tuzilgan, klapanlar va devorlar qanday ishlaydi. Bu xavfsiz va og‘riqsiz.",
+ "why": "Yurakda shovqinda, 1 oyligida rejali ko‘rikda, nafas qisishida, tez charchashda, EKGda o‘zgarishlar bo‘lganda.",
+ "duration": "odatda 15–30 daqiqa, xulosa darrov",
+ "tell_doctor": [
+  "Nima bezovta qilayotganini: shovqin, nafas qisishi, lablarning ko‘karishi, charchoq",
+  "Oilada yurak muammolari bo‘lganmi",
+  "Bola qanday dorilar ichayotganini",
+  "Oldingi EKG va ExoKG"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Odatda kerak emas. Yeb-ichsa bo‘ladi."
+  },
+  {
+   "title": "Xotirjamlik",
+   "text": "Chaqaloqni tekshiruvdan oldin emizgan yaxshi — to‘q bolalar tinchroq yotadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Yuqorisini oson yechish mumkin bo‘lgan qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi EKG va ExoKG",
+  "Ko‘rpacha",
+  "Chalg‘itish uchun so‘rg‘ich, shisha yoki multfilm"
+ ],
+ "steps": [
+  "Bola chalqancha yotadi, siz yoningizda",
+  "Ko‘kragiga gel suriladi",
+  "Shifokor datchikni ko‘krak, ba’zan qovurg‘a ostida va o‘mrov ustida yuritadi",
+  "Ba’zan ko‘kragiga EKG elektrodlari qo‘yiladi",
+  "Gel salfetka bilan artiladi"
+ ],
+ "feel": [
+  "Salqin gel va yengil bosim",
+  "Chaqaloqlar yig‘lashi mumkin — shifokorga bola tinch yotishi muhim, shuning uchun ba’zan tanaffus qilishadi"
+ ],
+ "after": [
+  "Darrov odatdagi ishlaringizga qaytsa bo‘ladi",
+  "Xulosa odatda darrov",
+  "Natijani pediatr yoki bolalar kardiologi bilan muhokama qiling"
+ ],
+ "red_flags": [
+  "Lablar ko‘karsa, bola bo‘g‘ilsa yoki hushidan ketsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Yurakdagi shovqin — bu nuqsonmi?",
+   "a": "Bolalarda shovqin ko‘pincha zararsiz. ExoKG aynan muammo bor-yo‘qligini ko‘rsatadi."
+  },
+  {
+   "q": "Bolaga tinchlantiruvchi berish kerakmi?",
+   "a": "Odatda yo‘q. Emizish, o‘yinchoq yoki multfilm yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bolaning yurak UZIsi. Tayyorgarlik kerak emas. Ko‘rpacha va bolani chalg‘itadigan narsa oling."
+  }
+ ]
+}

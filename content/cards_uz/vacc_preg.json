@@ -1,0 +1,73 @@
+{
+ "title": "Homiladorlikda emlash",
+ "also": [
+  "homilador ayollarni emlash",
+  "homiladorlik paytida emlash",
+  "homilador ayollarga qanday emlash mumkin"
+ ],
+ "what": "Homiladorlik paytida ba’zi emlashlar ham onani, ham chaqaloqni hayotining dastlabki oylarida himoya qiladi. Ba’zilarini esa qilib bo‘lmaydi — shifokor aytadi.",
+ "why": "Odatda gripp emlashi va ko‘p mamlakatlarda homiladorlikning ikkinchi yarmida ko‘k yo‘talga qarshi emlash tavsiya etiladi. Ba’zan boshqalari — ko‘rsatma bo‘yicha.",
+ "duration": "ukol — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa",
+ "tell_doctor": [
+  "Homiladorlik muddati",
+  "Homiladorlikdan oldin qanday emlashlar qilingan",
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Oldingi emlashlarga kuchli reaksiyalar",
+  "Surunkali kasalliklar"
+ ],
+ "prepare": [
+  {
+   "title": "Suhbat",
+   "text": "Emlashlarni homiladorlikni olib borayotgan shifokor bilan muhokama qiling. U qaysi va qachon qilishni tanlaydi."
+  },
+  {
+   "title": "Tirik vaksinalar",
+   "text": "Ba’zi emlashlar, masalan qizamiq va suvchechakka qarshi, homilador ayollarga qilinmaydi. Ularni homiladorlikdan oldin qilgan yaxshi."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Emlash sertifikatini toping."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati",
+  "Homilador ayolning almashinuv kartasi"
+ ],
+ "steps": [
+  "Shifokor muddat va ahvolingizni so‘raydi",
+  "Haroratni o‘lchaydi",
+  "Yelkangizni ochasiz",
+  "Ukol qilinadi",
+  "Ukoldan keyin klinikada taxminan 30 daqiqa o‘tiring"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan 1–2 kun qo‘l og‘riydi, holsizlik bo‘ladi"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Emlashni almashinuv kartasiga yozdiring",
+  "Keyingi tashrifda shifokorga o‘zingizni qanday his qilganingizni ayting"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)",
+  "Qonli ajralma, qorin pastida og‘riq yoki chaqaloq qimirlashdan to‘xtasa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Emlash chaqaloqqa zarar qilmaydimi?",
+   "a": "Homilador ayollarga tavsiya qilinadigan vaksinalar yaxshi o‘rganilgan. Himoya antitelolari chaqaloqqa o‘tadi."
+  },
+  {
+   "q": "Tasodifan tirik vaksina bilan emlangan bo‘lsam-chi?",
+   "a": "Xavotir olmang va shifokorga ayting. Odatda bu tashvish sababi emas, shifokor hammasini tushuntiradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga emlash. Almashinuv kartasi va emlash sertifikatini oling."
+  }
+ ]
+}

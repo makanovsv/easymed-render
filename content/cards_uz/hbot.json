@@ -1,0 +1,77 @@
+{
+ "title": "Giperbarik oksigenatsiya (barokamera)",
+ "also": [
+  "barokamera",
+  "GBO",
+  "giperbarik oksigenatsiya",
+  "kislorodli barokamera"
+ ],
+ "what": "Siz bosimi oshirilgan maxsus kamerada kislorod bilan nafas olasiz. Shunday kislorod to‘qimalarga yaxshiroq yetib boradi.",
+ "why": "Yomon bitayotgan jarohatlarda, diabetik oyoqda, is gazidan zaharlanishda, dekompressiya kasalligida, nurlanishdan keyin — shifokor buyrug‘i bilan.",
+ "duration": "seans odatda 60–120 daqiqa; kurs — bir necha seansdan o‘nlab seansgacha",
+ "tell_doctor": [
+  "Shamollash, burun bitishi, quloq og‘rig‘i",
+  "O‘pka kasalliklari, astma",
+  "Tutqanoq yoki epilepsiya",
+  "Yopiq joylardan qo‘rqish",
+  "Tanadagi kardiostimulyator va boshqa qurilmalar"
+ ],
+ "prepare": [
+  {
+   "title": "Kiyim",
+   "text": "Odatda paxta kiyim berishadi. Sintetika uchqun chiqarishi mumkin."
+  },
+  {
+   "title": "Taqiqlangan",
+   "text": "Kameraga telefon, zajigalka, elektronika, yog‘li kosmetika, soch laki olib kirish mumkin emas."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Seansdan oldin yengil ovqatlaning. Chekmang — bu foydani kamaytiradi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Paxta kiyimga almashasiz",
+  "Kameraga kirib, yotasiz yoki o‘tirasiz",
+  "Bosim sekin ko‘tariladi — quloqlar bitadi, samolyotdagidek",
+  "Niqob yoki shlem orqali kislorod bilan nafas olasiz, bir kishilik kamerada esa butun kamera kislorodga to‘ladi",
+  "Xodimlar siz bilan doim aloqada",
+  "Oxirida bosim sekin pasaytiriladi"
+ ],
+ "feel": [
+  "Bosim ko‘tarilganda quloqlar bitadi — yutinish yoki esnash yordam beradi",
+  "Kamerada iliq bo‘lishi mumkin",
+  "Odatda og‘riq yo‘q"
+ ],
+ "after": [
+  "Darrov odatiy ishlarga qaytish mumkin",
+  "Ba’zan yengil charchoq",
+  "Kursning barcha seanslariga keling"
+ ],
+ "red_flags": [
+  "Quloqda kuchli og‘riq yoki quloqdan ajralma",
+  "O‘tmayotgan ko‘rish o‘zgarishi",
+  "Tutqanoq, kuchli hansirash, ko‘krakda og‘riq — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Bu samolyotdagidek bo‘ladimi?",
+   "a": "O‘xshash: bosim o‘zgarganda quloqlar bitadi. Yutining, esnang — yengillashadi."
+  },
+  {
+   "q": "Telefonni nega olib kirib bo‘lmaydi?",
+   "a": "Kamerada kislorod ko‘p. Har qanday uchqun xavfli, shuning uchun elektronikani tashqarida qoldirishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "2 soatdan keyin barokamerada seans. Paxta kiyim, kosmetikasiz, telefonni tashqarida qoldiring."
+  }
+ ]
+}

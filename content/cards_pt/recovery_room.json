@@ -1,0 +1,68 @@
+{
+ "title": "Despertar depois da anestesia",
+ "also": [
+  "sala de recuperação",
+  "como é acordar da anestesia",
+  "recuperação anestésica",
+  "depois da anestesia"
+ ],
+ "what": "Depois da cirurgia, você é levado para a sala de recuperação. Lá você acorda com acompanhamento das enfermeiras e do médico.",
+ "why": "Depois de qualquer cirurgia ou procedimento com anestesia ou sedação.",
+ "duration": "normalmente de 30 minutos a 2 horas; depois, você vai para o quarto ou é liberado para casa",
+ "tell_doctor": [
+  "Se já teve enjoo forte depois de anestesia",
+  "Se já teve confusão depois de anestesia",
+  "Se precisa dos óculos ou do aparelho auditivo logo ao acordar"
+ ],
+ "prepare": [
+  {
+   "title": "Antes",
+   "text": "Pergunte quanto tempo vai ficar na sala de recuperação e quando poderá ver os familiares."
+  },
+  {
+   "title": "Casa",
+   "text": "Se a cirurgia for sem internação, combine quem vai buscar você e ficar junto nas primeiras 24 horas."
+  }
+ ],
+ "bring": [
+  "Óculos e aparelho auditivo: entregue à equipe",
+  "Telefone de uma pessoa próxima"
+ ],
+ "steps": [
+  "Você acorda com sensores e máscara ou cateter de oxigênio",
+  "A enfermeira pergunta como você está e acompanha a pressão e a respiração",
+  "Se doer ou der enjoo, avise. Vão dar remédio",
+  "Quando você estiver acordado e tudo bem, vai para o quarto ou se prepara para a alta"
+ ],
+ "feel": [
+  "Sonolência, peso, pensamentos confusos",
+  "Boca seca; às vezes a garganta arranha",
+  "Pode haver frio, tremores ou enjoo",
+  "Não lembrar bem das primeiras horas é normal"
+ ],
+ "after": [
+  "Levante pela primeira vez só com ajuda da equipe",
+  "Comer e beber só quando o médico liberar",
+  "Depois da anestesia, não dirija nem tome decisões importantes por 24 horas"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar ou dor no peito: avise a enfermeira na hora",
+  "Em casa: sonolência forte, a pessoa não consegue acordar: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que tremo depois da anestesia?",
+   "a": "Isso acontece pelos remédios e pelo frio da sala de cirurgia. Vão cobrir e aquecer você."
+  },
+  {
+   "q": "Quando a família pode entrar?",
+   "a": "Normalmente depois que você vai para o quarto. As regras variam; confirme na clínica."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia. Combine quem vai receber você depois. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

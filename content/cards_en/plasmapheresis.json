@@ -1,0 +1,79 @@
+{
+ "title": "Plasmapheresis (plasma exchange)",
+ "also": [
+  "plasmapheresis",
+  "plasma exchange",
+  "blood cleansing",
+  "plasma filtration"
+ ],
+ "what": "A machine draws your blood, separates the liquid part, called plasma, and returns the blood cells to you. This removes harmful substances from the blood.",
+ "why": "For some diseases of the immune system, blood and nervous system, and for poisoning, as decided by the doctor.",
+ "duration": "a session usually takes 1 to 3 hours; a course is several sessions",
+ "tell_doctor": [
+  "All your medicines, especially blood thinners and blood pressure pills",
+  "Allergies, including to blood products",
+  "Heart disease, low blood pressure",
+  "If you felt unwell after past procedures"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "Usually a light breakfast before the session. Check with the clinic."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. The timing may change, and the doctor will tell you."
+  },
+  {
+   "title": "Clothing",
+   "text": "Loose clothes with a wide sleeve."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Your ID",
+  "A list of your medicines",
+  "Water and a book"
+ ],
+ "steps": [
+  "You are weighed and your blood pressure is taken",
+  "A catheter is placed in a vein, or connected if you already have one",
+  "Blood goes into the machine and the plasma is separated",
+  "Blood cells are returned with a replacement fluid",
+  "The nurse watches your blood pressure and how you feel",
+  "At the end the system is disconnected"
+ ],
+ "feel": [
+  "A needle prick when the catheter is placed",
+  "Cold, or tingling of the lips or fingers: tell the nurse",
+  "Sometimes weakness and dizziness"
+ ],
+ "after": [
+  "Sit for a while before you stand up",
+  "Take it easy for the rest of the day",
+  "Drink water unless the doctor limited it",
+  "Come to the next sessions on schedule"
+ ],
+ "red_flags": [
+  "Rash, itching, swelling of the face or trouble breathing: call your local emergency number",
+  "Severe dizziness or fainting",
+  "Bleeding or swelling at the catheter site",
+  "Fever or chills"
+ ],
+ "faq": [
+  {
+   "q": "Does plasmapheresis \"clean the body\" for everyone?",
+   "a": "No. It is a medical procedure for specific conditions, and a doctor prescribes it."
+  },
+  {
+   "q": "How many sessions will I need?",
+   "a": "It depends on the illness. Usually a course of several sessions."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Plasmapheresis tomorrow. Have a light breakfast, wear a wide-sleeved top, and bring your list of medicines."
+  }
+ ]
+}

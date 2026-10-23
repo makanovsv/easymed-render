@@ -1,0 +1,84 @@
+{
+ "title": "Retirada de pterígio",
+ "also": [
+  "pterígio",
+  "carne crescida no olho",
+  "cirurgia de pterígio",
+  "película no olho"
+ ],
+ "what": "O cirurgião tira o tecido que cresce por cima da córnea. Normalmente, no lugar, coloca um pedacinho de tecido do próprio olho.",
+ "why": "Quando a carne cresce, atrapalha a visão, irrita o olho ou incomoda pela aparência.",
+ "duration": "a cirurgia leva normalmente de 30 a 60 minutos; em geral, você volta para casa no mesmo dia",
+ "tell_doctor": [
+  "Se toma remédios que afinam o sangue: o médico decide o que fazer",
+  "Alergias a remédios",
+  "Se tem diabetes ou pressão alta",
+  "Se já operou esse olho"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Normalmente são necessários exames de sangue e uma avaliação. A clínica passa a lista."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare seus remédios por conta própria. Conte ao médico."
+  },
+  {
+   "title": "Transporte",
+   "text": "Volte para casa com um acompanhante. Não pode dirigir."
+  },
+  {
+   "title": "Maquiagem",
+   "text": "Sem maquiagem no dia da cirurgia."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Resultados dos exames",
+  "Lista de remédios",
+  "Óculos escuros",
+  "Um acompanhante"
+ ],
+ "steps": [
+  "Pingam um colírio anestésico; às vezes, aplicam uma injeção perto do olho",
+  "As pálpebras são mantidas abertas com um afastador",
+  "O cirurgião separa e retira a carne crescida",
+  "No lugar, costura ou cola um pedacinho do seu tecido",
+  "O olho é coberto com um curativo"
+ ],
+ "feel": [
+  "Durante a cirurgia: pressão, mas não dor",
+  "Por alguns dias: sensação de areia, ardência, lacrimejamento",
+  "A vermelhidão do olho dura algumas semanas"
+ ],
+ "after": [
+  "Colírios exatamente como o médico indicou",
+  "Não coce o olho",
+  "Na rua, use óculos escuros",
+  "Revisões conforme o plano do médico; os pontos são retirados ou se dissolvem sozinhos",
+  "Proteja os olhos do sol: assim é menor o risco de a carne voltar"
+ ],
+ "red_flags": [
+  "Dor forte que vai aumentando",
+  "Pus no olho",
+  "Piora repentina da visão",
+  "O ponto abriu ou o pedacinho de tecido saiu do lugar"
+ ],
+ "faq": [
+  {
+   "q": "O pterígio pode voltar?",
+   "a": "Sim, às vezes. O enxerto de tecido e a proteção contra o sol diminuem esse risco."
+  },
+  {
+   "q": "É obrigatório operar?",
+   "a": "Uma carne pequena muitas vezes só é acompanhada. A cirurgia é indicada se ela cresce ou atrapalha."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia no olho. Leve óculos escuros e combine quem vai levar você para casa."
+  }
+ ]
+}

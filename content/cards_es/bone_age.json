@@ -1,0 +1,64 @@
+{
+ "title": "Radiografía de la mano para edad ósea",
+ "also": [
+  "edad ósea",
+  "radiografía de la mano de un niño",
+  "radiografía de zonas de crecimiento"
+ ],
+ "what": "Se toma una sola radiografía de la mano. Con ella el médico ve qué tanto han madurado los huesos del niño.",
+ "why": "Cuando el niño crece muy despacio o muy rápido, en pubertad temprana o tardía y durante tratamientos con hormonas.",
+ "duration": "la imagen toma un par de minutos; el informe suele estar el mismo día o en unos días",
+ "tell_doctor": [
+  "La talla y el peso del niño en los últimos años",
+  "Qué hormonas o medicamentos toma",
+  "Si tiene enfermedades crónicas"
+ ],
+ "prepare": [
+  {
+   "title": "Preparación",
+   "text": "No se necesita preparación especial."
+  },
+  {
+   "title": "Manos",
+   "text": "Normalmente se toma la mano izquierda. Quítale al niño anillos y pulseras."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Radiografías anteriores, si las hay",
+  "Los documentos del niño"
+ ],
+ "steps": [
+  "El niño se sienta junto a la mesa",
+  "La mano se coloca con la palma hacia abajo sobre la placa",
+  "Le ponen un delantal de protección",
+  "Le piden no moverse un par de segundos",
+  "Toman la imagen"
+ ],
+ "feel": [
+  "No duele",
+  "Solo hay que quedarse quieto"
+ ],
+ "after": [
+  "Pueden irse enseguida",
+  "El informe suele estar el mismo día o en unos días",
+  "El médico comparará la edad ósea con la edad real y decidirá qué sigue"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Es peligrosa la radiación?",
+   "a": "La dosis es muy pequeña: solo se toma la mano. El médico lo indica cuando el beneficio es mayor que el riesgo."
+  },
+  {
+   "q": "¿Qué significa que la edad ósea esté atrasada?",
+   "a": "Significa que los huesos maduran más despacio. Hay distintas causas; el médico te lo explicará."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tiene radiografía de la mano tu hijo. Quítale anillos y pulseras y lleva las radiografías anteriores."
+  }
+ ]
+}

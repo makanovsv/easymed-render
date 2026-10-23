@@ -1,0 +1,75 @@
+{
+ "title": "Manual terapiya",
+ "also": [
+  "manualist",
+  "manual terapevt",
+  "umurtqalarni joyiga solish",
+  "osteopatiya"
+ ],
+ "what": "Shifokor qo‘llari bilan mushaklar, bo‘g‘imlar va umurtqa pog‘onasi bilan ishlaydi: cho‘zadi, bo‘shashtiradi, harakatchanlikni yumshoq tiklaydi.",
+ "why": "Bel, bo‘yin va bo‘g‘imlarda og‘riq va qotishda — ko‘rik va suratlardan keyin, shifokor buyrug‘i bilan.",
+ "duration": "seans odatda 20–40 daqiqa; kurs odatda bir necha seans",
+ "tell_doctor": [
+  "Qayerda va qachondan beri og‘riydi",
+  "Qo‘l yoki oyoqlarda uvishish yoki holsizlik bormi",
+  "Osteoporoz, umurtqa pog‘onasidagi jarohat va operatsiyalar",
+  "Qonni suyultiruvchi preparatlar ichsangiz",
+  "Qon bosimi yuqori, homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Suratlar",
+   "text": "Rentgen, MRT va xulosalarni oling — ularsiz shifokor ishni boshlamasligi mumkin."
+  },
+  {
+   "title": "Ovqat",
+   "text": "To‘q ovqatdan keyin darrov kelmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay, ma’qulrog‘i sport kiyimi."
+  }
+ ],
+ "bring": [
+  "Suratlar va xulosalar",
+  "Yo‘llanma, agar bo‘lsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor so‘raydi va suratlarni ko‘radi",
+  "Harakatchanlik, kuch va sezgirlikni tekshiradi",
+  "Mushaklarni qo‘l bilan bo‘shashtiradi",
+  "Bo‘g‘imlarni yumshoq cho‘zadi va harakatlantiradi",
+  "Ba’zan bo‘g‘imda qisqa chiqillash bo‘ladi",
+  "Oxirida maslahat va mashqlar beradi"
+ ],
+ "feel": [
+  "Bosim va cho‘zilish — chidasa bo‘ladigan",
+  "Kuchli og‘riq bo‘lmasligi kerak — darrov shifokorga ayting",
+  "Keyin 1–2 kun yengil og‘riq bo‘lishi mumkin"
+ ],
+ "after": [
+  "Seans kuni og‘ir narsa ko‘tarmang",
+  "Shifokor bergan mashqlarni bajaring",
+  "Og‘riq kuchaysa, shifokor bilan muhokama qiling"
+ ],
+ "red_flags": [
+  "Seansdan keyin uvishish, qo‘l yoki oyoqda holsizlik, kuchli bosh aylanishi yoki nutq buzilishi — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Manual terapiyadan oldin suratlar kerakmi?",
+   "a": "Odatda ha. Ular shifokorga nima qilish mumkin va nima mumkin emasligini tushunishga yordam beradi."
+  },
+  {
+   "q": "Chiqillash — umurtqa joyiga tushdimi?",
+   "a": "Yo‘q, bu harakat paytida bo‘g‘imdan chiqadigan tovush. Umurtqalar bunday «chiqib ketmaydi»."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga manual terapiya. Suratlar va xulosalarni oling, qulay kiyim kiying."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Terlashni davolash",
+ "also": [
+  "terlash",
+  "giperhidroz",
+  "terga qarshi ukollar",
+  "qo‘ltiq terlashini davolash"
+ ],
+ "what": "Shifokor kuchli terlashga davo tanlaydi. Ko‘pincha bu zonadagi ter bezlarini vaqtincha «o‘chirib qo‘yadigan» preparat ukollari.",
+ "why": "Ter ish va hayotga xalaqit berganda: qo‘ltiq, kaft, oyoq kafti issiq va zo‘riqishsiz ham nam bo‘lganda.",
+ "duration": "protsedura odatda 20–40 daqiqa; ta’sir bir necha kunda paydo bo‘ladi va odatda 4–9 oy saqlanadi",
+ "tell_doctor": [
+  "Terlash qachon boshlangan va aynan qayerda",
+  "Terlash to‘satdan, ozish yoki harorat bilan paydo bo‘lgan bo‘lsa",
+  "Homiladorlik va emizish",
+  "Asab va mushak kasalliklari",
+  "Ichayotgan dorilar"
+ ],
+ "prepare": [
+  {
+   "title": "Qirish",
+   "text": "Qo‘ltiq uchun — protseduradan 1–2 kun oldin tuklarni oling."
+  },
+  {
+   "title": "Dezodorant",
+   "text": "Protsedura kuni zonaga dezodorant surmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "To‘q rangli erkin kiyim."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor zonani ko‘radi",
+  "Ba’zan qaysi joyda ter ko‘proq ekanini ko‘rish uchun yod va kraxmal bilan test qilinadi",
+  "Teri antiseptik bilan ishlanadi",
+  "Ingichka igna bilan ko‘plab mayda ukollar qilinadi",
+  "Joy artiladi va parvarish haqida aytiladi"
+ ],
+ "feel": [
+  "Ukollar qisqa va tez-tez — chivin chaqqandek",
+  "Kaft va oyoq kafti sezgirroq — shifokor og‘riqsizlantirishni taklif qiladi",
+  "Mayda do‘ngchalar va qizarish tez o‘tadi"
+ ],
+ "after": [
+  "Protsedura kuni hammom va mashg‘ulotga bormang",
+  "Ta’sir bir necha kunda paydo bo‘ladi",
+  "Takroriy protsedura odatda ter qaytganda qilinadi"
+ ],
+ "red_flags": [
+  "Kaftga ukoldan keyin qo‘llarda zaiflik",
+  "Yutish yoki nafas olish qiyin bo‘lsa — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Bir zonada terlamaslik zararli emasmi?",
+   "a": "Yo‘q. Ter boshqa joylardan ajralishda davom etadi, tana odatdagidek soviydi."
+  },
+  {
+   "q": "Boshqa usullar bormi?",
+   "a": "Ha: maxsus antiperspirantlar, tok bilan protseduralar, ba’zan operatsiya. Shifokor variantni tanlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga terlashni davolash. Zonadagi tuklarni oling va dezodorant surmang."
+  }
+ ]
+}

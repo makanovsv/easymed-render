@@ -1,0 +1,77 @@
+{
+ "title": "Contracepção de emergência",
+ "also": [
+  "pílula do dia seguinte",
+  "contracepção de emergência",
+  "anticoncepcional de emergência",
+  "camisinha estourou"
+ ],
+ "what": "É uma forma de evitar a gravidez depois de uma relação sem proteção. Normalmente é um comprimido; às vezes o médico coloca um DIU.",
+ "why": "Se houve relação sem proteção, a camisinha estourou ou você esqueceu de tomar o anticoncepcional.",
+ "duration": "quanto antes, melhor: normalmente nas primeiras 72 horas; alguns métodos, até 5 dias",
+ "tell_doctor": [
+  "Quando foi a relação, com o horário exato",
+  "Quando foi a última menstruação",
+  "Quais remédios você toma",
+  "Se tem doenças crônicas",
+  "Se tomou contracepção de emergência recentemente"
+ ],
+ "prepare": [
+  {
+   "title": "Tempo",
+   "text": "Não adie: quanto antes, mais eficaz."
+  },
+  {
+   "title": "Orientação",
+   "text": "Procure um médico ou uma clínica. Vão indicar o método mais adequado para você."
+  },
+  {
+   "title": "Comida",
+   "text": "O comprimido normalmente é tomado depois de uma refeição leve, para dar menos enjoo."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Lista de remédios",
+  "Data da última menstruação"
+ ],
+ "steps": [
+  "Você conta ao médico quando foi a relação",
+  "O médico pergunta sobre o ciclo e a sua saúde",
+  "Escolhe o método",
+  "Você toma o comprimido na frente do médico ou em casa",
+  "Se a escolha for o DIU, ele é colocado na maca ginecológica",
+  "O médico explica o que fazer depois"
+ ],
+ "feel": [
+  "Às vezes enjoo, dor de cabeça e cansaço",
+  "A próxima menstruação pode vir antes ou depois"
+ ],
+ "after": [
+  "Se vomitar em até 2 ou 3 horas depois do comprimido, ligue para o médico",
+  "Se a menstruação atrasar mais de uma semana, faça um teste de gravidez",
+  "Converse com o médico sobre um método contínuo para evitar gravidez",
+  "Faça exames para infecções, se a relação foi com um parceiro novo"
+ ],
+ "red_flags": [
+  "Dor forte no pé da barriga, principalmente de um lado: ligue para a emergência",
+  "Sangramento forte",
+  "Desmaio ou fraqueza forte: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Isso é aborto?",
+   "a": "Não. A contracepção de emergência evita a gravidez, não interrompe."
+  },
+  {
+   "q": "Posso usar com frequência?",
+   "a": "Não, é uma opção de reserva. Para proteção contínua, escolha um método com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Não adie: quanto antes tomar a contracepção de emergência, mais eficaz ela é."
+  }
+ ]
+}

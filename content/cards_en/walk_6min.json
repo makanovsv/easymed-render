@@ -1,0 +1,79 @@
+{
+ "title": "Six-minute walk test",
+ "also": [
+  "6-minute walk test",
+  "6MWT",
+  "walking test",
+  "walk exercise test"
+ ],
+ "what": "You walk along a hallway for 6 minutes at your own pace. The test measures how many meters you walked and how your pulse and oxygen change.",
+ "why": "For lung and heart conditions, to check your stamina, choose treatment, or see how well it works.",
+ "duration": "usually 20 to 30 minutes including rest; the result is given right away",
+ "tell_doctor": [
+  "What medicines you take",
+  "If you get chest pain or feel very dizzy with activity",
+  "If you use oxygen, a cane, or a walker",
+  "If your joints or legs hurt"
+ ],
+ "prepare": [
+  {
+   "title": "Clothing",
+   "text": "Comfortable clothes and walking shoes."
+  },
+  {
+   "title": "Food",
+   "text": "A light meal a couple of hours before the test. Do not come hungry."
+  },
+  {
+   "title": "Medicines",
+   "text": "You usually take your medicines as always. Ask your doctor."
+  },
+  {
+   "title": "Exercise",
+   "text": "No exercise for 2 hours before the test."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "Comfortable shoes",
+  "Your cane or walker, if you use one",
+  "Your inhaler, if you have one"
+ ],
+ "steps": [
+  "You rest sitting down for about 10 minutes",
+  "Your blood pressure, pulse, and finger oxygen are checked",
+  "You walk back and forth along the hallway for 6 minutes",
+  "You can slow down or stop if it is hard",
+  "Every minute, you are told how much time is left",
+  "After the test, your pulse and oxygen are checked again"
+ ],
+ "feel": [
+  "You may get short of breath and tired",
+  "Your legs get tired. That is normal"
+ ],
+ "after": [
+  "Sit for a few minutes after the test",
+  "The result, the distance you walked, is given right away",
+  "Your doctor will compare it with past tests"
+ ],
+ "red_flags": [
+  "Chest pain, severe shortness of breath, or dizziness during the test: stop right away and tell staff",
+  "Chest pain that does not go away with rest: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Do I need to run?",
+   "a": "No. Walk fast, but at a pace that is comfortable for you. Running is not allowed."
+  },
+  {
+   "q": "Can I stop?",
+   "a": "Yes. Rest and keep going when you can. The clock keeps running."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Six-minute walk test tomorrow. Wear comfortable shoes and have a light breakfast."
+  }
+ ]
+}

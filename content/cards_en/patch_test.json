@@ -1,0 +1,81 @@
+{
+ "title": "Patch test for allergies",
+ "also": [
+  "patch test",
+  "contact allergy test",
+  "skin patch testing",
+  "allergy test on the back"
+ ],
+ "what": "Patches with small amounts of substances that can cause allergy are stuck on your back. After 2 to 3 days, the doctor checks where the skin turned red.",
+ "why": "When a rash or eczema appears after contact with something: metals, cosmetics, hair dye, gloves, or substances at work.",
+ "duration": "putting on the patches usually takes 15 to 30 minutes; you wear them for about 2 days; checks are on day 2 and day 3 or 4",
+ "tell_doctor": [
+  "What medicines you take, especially steroid tablets and drugs that suppress the immune system",
+  "If you used a steroid cream on your back in the last few days",
+  "If you recently had a tan or sunburn on your back",
+  "What you work with and what you suspect yourself",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Skin on your back",
+   "text": "Your back must be clean, with no rash or tan. Do not put cream on it on the day of the test."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop anything on your own. Some medicines interfere with the test. Your doctor will tell you what to do and when."
+  },
+  {
+   "title": "Schedule",
+   "text": "Plan for 2 to 3 visits within a week, and days without sports or the sauna."
+  },
+  {
+   "title": "Your own products",
+   "text": "If you suspect your own cosmetics or a product from work, ask your doctor if you can bring it."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "A list of your medicines",
+  "Your own products, if the doctor allowed it",
+  "An old T-shirt. Marker lines can stain clothes"
+ ],
+ "steps": [
+  "You undress to the waist and sit with your back to the nurse",
+  "Patches with small cells of substances are stuck on your back",
+  "The edges of the patches are marked with a marker",
+  "After 2 days, the patches are removed and the skin is checked",
+  "1 to 2 days later, there is a second check"
+ ],
+ "feel": [
+  "The patches themselves do not hurt",
+  "It may itch under them. Do not touch or peel them off",
+  "Redness where you react may last a few days"
+ ],
+ "after": [
+  "While the patches are on, keep your back dry: no shower on your back, no sauna, no sweaty exercise",
+  "Do not sunbathe until the test is over",
+  "If a patch comes loose, tape it back down and tell your doctor",
+  "You usually get the results at the last visit: what you react to and what to avoid"
+ ],
+ "red_flags": [
+  "Severe itching, burning, or blisters under a patch: call your doctor. They will tell you whether to remove it",
+  "A rash all over your body, swelling, or trouble breathing: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I wash during the test?",
+   "a": "You can carefully wash your legs and hair over the bathtub, but your back must stay dry until the test is over."
+  },
+  {
+   "q": "How is this different from prick tests on the arm?",
+   "a": "A patch test looks for allergy from skin contact. Prick tests on the arm look for fast allergies, like to pollen, dust, or pet hair."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Allergy patches go on tomorrow. Do not put cream on your back today or tomorrow. Bring an old T-shirt."
+  }
+ ]
+}

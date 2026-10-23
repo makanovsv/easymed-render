@@ -1,0 +1,71 @@
+{
+ "title": "Homiladorlikda 3D/4D UZI",
+ "also": [
+  "3D UZI",
+  "4D UZI",
+  "homilaning hajmli UZIsi",
+  "chaqaloq yuzini ko‘rish UZIsi"
+ ],
+ "what": "Homiladorlikdagi oddiy UZI, lekin tasvir hajmli. 4D da chaqaloqning haqiqiy vaqtda qanday harakatlanishi ko‘rinadi.",
+ "why": "Ko‘pincha ota-onalarning xohishiga ko‘ra. Ba’zan shifokor homila a’zolarini yaxshiroq ko‘rish uchun 3D dan foydalanadi.",
+ "duration": "odatda 20–40 daqiqa, surat va videoni darrov berishadi",
+ "tell_doctor": [
+  "Homiladorlik muddatini",
+  "Oldingi UZI va skrining natijalarini",
+  "Nimadir bezovta qilsa: og‘riq, ajralmalar"
+ ],
+ "prepare": [
+  {
+   "title": "Muddat",
+   "text": "Chaqaloqning yuzi odatda 24–32 hafta orasida eng yaxshi ko‘rinadi. Klinikadan so‘rang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Maxsus tayyorgarlik kerak emas. Biror narsa yeb olsa bo‘ladi — ba’zan shundan keyin chaqaloq faolroq bo‘ladi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qorinni oson ochish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Homiladorning almashinuv kartasi",
+  "Yozuv uchun fleshka yoki telefon — klinikadan so‘rang",
+  "Hujjat"
+ ],
+ "steps": [
+  "Kushetkaga yotib, qorinni ochasiz",
+  "Shifokor gel suradi",
+  "Avval chaqaloqni oddiy rejimda ko‘radi",
+  "Keyin hajmli rejimni yoqib, qulay rakurs qidiradi",
+  "Chaqaloq teskari o‘girilib olsa, yonboshga o‘girilishni yoki sayr qilishni so‘rashadi",
+  "Gel artiladi, sizga suratlar beriladi"
+ ],
+ "feel": [
+  "Og‘riq yo‘q — datchik shunchaki qorin ustida yuritiladi",
+  "Gel salqin",
+  "Ba’zan chalqancha yotganda bosh aylanadi — yonboshga o‘ging"
+ ],
+ "after": [
+  "Darrov odatdagi ishlaringizga qaytsa bo‘ladi",
+  "Ba’zan chaqaloq umuman o‘girilmaydi — shunda yana kelishni taklif qilishlari mumkin",
+  "3D-UZI rejali skriningni o‘rnini bosmaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Bu chaqaloq uchun zararlimi?",
+   "a": "Homiladorlikda UZI xavfsiz hisoblanadi. Lekin uni ko‘rsatma bo‘yicha va juda tez-tez bo‘lmagan holda qilgan yaxshi."
+  },
+  {
+   "q": "Nega yuz ko‘rinmayapti?",
+   "a": "Chaqaloq yuzi bilan orqangizga qarab yotgan, qo‘llari yoki kindik bilan yuzini yopib olgan bo‘lishi mumkin. Ba’zan sayr va qayta urinish yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga 3D/4D UZI. Almashinuv kartasini oling. Qabuldan oldin biror narsa yeb olsangiz bo‘ladi."
+  }
+ ]
+}

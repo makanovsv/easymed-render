@@ -1,0 +1,74 @@
+{
+ "title": "Teste genético de embriões (PGT)",
+ "also": [
+  "PGT",
+  "diagnóstico genético pré-implantacional",
+  "PGD",
+  "teste genético de embriões na FIV"
+ ],
+ "what": "Durante a fertilização in vitro, tiram algumas células do embrião e examinam os genes ou os cromossomos. Para o útero vai um embrião sem alterações encontradas.",
+ "why": "Com doença hereditária na família, falhas repetidas de fertilização in vitro ou abortos, às vezes com idade mais alta da mãe.",
+ "duration": "faz parte do ciclo de fertilização in vitro; a análise dos embriões leva normalmente de alguns dias a algumas semanas",
+ "tell_doctor": [
+  "Quais doenças hereditárias há na família. Leve os laudos genéticos",
+  "Quantas gestações, abortos e tentativas de fertilização in vitro você teve",
+  "Todos os remédios e doenças",
+  "O que você espera do teste. O médico explica o que ele pode e o que não pode"
+ ],
+ "prepare": [
+  {
+   "title": "Geneticista",
+   "text": "Antes da fertilização in vitro, um médico geneticista vai conversar com você. Para examinar um único gene, o teste é preparado antes, às vezes por várias semanas."
+  },
+  {
+   "title": "Exames do casal",
+   "text": "Muitas vezes os dois parceiros colhem sangue, às vezes também os parentes. É com eles que o teste é ajustado."
+  },
+  {
+   "title": "Ciclo de FIV",
+   "text": "Estimulação, punção e injeções conforme o esquema do médico. Não mude por conta própria."
+  }
+ ],
+ "bring": [
+  "Laudos genéticos da família",
+  "Documentos dos dois parceiros",
+  "Resultados de fertilizações in vitro anteriores"
+ ],
+ "steps": [
+  "Você faz um ciclo comum de fertilização in vitro: estimulação e punção",
+  "Os embriões crescem no laboratório, normalmente por 5 a 6 dias",
+  "O embriologista tira algumas células da camada externa do embrião",
+  "Normalmente os embriões são congelados enquanto a análise é feita",
+  "As células são examinadas no laboratório de genética",
+  "O médico conversa com você sobre o resultado e escolhe o embrião para a transferência"
+ ],
+ "feel": [
+  "Você não sente a análise dos embriões. Ela é feita no laboratório",
+  "As sensações são as de uma fertilização in vitro comum: injeções, punção, às vezes um repuxar na barriga"
+ ],
+ "after": [
+  "A transferência do embrião normalmente é feita em um dos ciclos seguintes",
+  "O teste diminui o risco, mas não dá garantia total. Na gravidez, o médico pode sugerir outros exames",
+  "Às vezes não há embriões adequados. O médico conversa sobre o próximo plano"
+ ],
+ "red_flags": [
+  "Depois da punção: dor forte ou barriga inchada, falta de ar, pouco xixi: procure o médico na hora",
+  "Sangramento forte ou desmaio: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A biópsia faz mal ao embrião?",
+   "a": "As células são tiradas da camada que depois vira a placenta. O risco para o embrião é considerado pequeno. O embriologista explica melhor."
+  },
+  {
+   "q": "Dá para escolher o sexo do bebê?",
+   "a": "Sem motivo médico, escolher o sexo normalmente não é permitido. O teste serve para evitar doenças."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é uma etapa da fertilização in vitro. Siga o esquema de injeções e os horários que a clínica passou."
+  }
+ ]
+}

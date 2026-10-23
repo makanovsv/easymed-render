@@ -1,0 +1,79 @@
+{
+ "title": "Bartolin bezi kistasini davolash",
+ "also": [
+  "bartolin bezi kistasi",
+  "bartolinit",
+  "bartolin bezi kistasini ochish",
+  "marsupializatsiya"
+ ],
+ "what": "Qinga kirish joyida kichik bez bor. Uning yo‘li tiqilib qolsa, kista yoki yiringli churra paydo bo‘ladi. Shifokor uni ochadi va qayta paydo bo‘lmasligi uchun tadbir ko‘radi.",
+ "why": "Qinga kirish joyida og‘riqli do‘ng yoki yiringlash paydo bo‘lganda.",
+ "duration": "protsedura odatda 15–30 daqiqa, odatda o‘sha kuni uyga qaytasiz",
+ "tell_doctor": [
+  "Homiladormisiz yoki bo‘lishingiz mumkinmi",
+  "Barcha dorilar, ayniqsa qonni suyultiradiganlar",
+  "Allergiyalar",
+  "Diabet bormi",
+  "Oldin kista bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Gigiena",
+   "text": "Ertalab iliq suv bilan yuvining."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Odatda mahalliy og‘riqsizlantirish qilinadi, ba’zan qisqa narkoz — klinikadan aniqlang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Narkoz bo‘lsa — bir necha soat ovqat yemang va ichmang, aniq vaqtni klinika aytadi."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Prokladkalar",
+  "Qulay ichki kiyim",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Ginekologik kreslaga yotasiz",
+  "Shifokor terini antiseptik bilan ishlov beradi",
+  "Og‘riqsizlantiradi",
+  "Kichik kesma qilib, ichidagini chiqaradi",
+  "Ba’zan kichik kateter qo‘yadi yoki chetlarini tikib qo‘yadi, yo‘l yopilib qolmasligi uchun",
+  "Prokladka qo‘yadi"
+ ],
+ "feel": [
+  "Og‘riqsizlantiruvchi ukol — qisqa sanchiq",
+  "Protseduradan keyin bir necha kun og‘riydi va zirqiraydi",
+  "Ajralmalar bo‘ladi"
+ ],
+ "after": [
+  "Shifokor maslahat bersa, o‘tirib iliq vannachalar qiling",
+  "Prokladkalarni tez-tez almashtiring",
+  "Bitgunicha jinsiy aloqasiz — muddatni shifokor aytadi",
+  "Kateter qo‘yilgan bo‘lsa — uni klinikada olib tashlashadi"
+ ],
+ "red_flags": [
+  "Harorat 38 dan yuqori",
+  "Kuchli, kuchayib boradigan og‘riq va shish",
+  "Yoqimsiz hid yoki yiring"
+ ],
+ "faq": [
+  {
+   "q": "Kista qaytishi mumkinmi?",
+   "a": "Ba’zan ha. Shuning uchun shifokor yo‘l yopilib qolmasligi uchun tadbir ko‘radi."
+  },
+  {
+   "q": "O‘zim siqib chiqarsam bo‘ladimi?",
+   "a": "Yo‘q. Bu infeksiya kiritishi mumkin. Shifokorga ko‘rining."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ginekologda protsedura. Prokladkalar va qulay ichki kiyimni oling."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Regular follow-up for a long-term illness",
+ "also": [
+  "regular follow-up for chronic illness",
+  "chronic disease monitoring",
+  "chronic illness follow-up",
+  "long-term condition check-ups"
+ ],
+ "what": "Regular visits to the doctor for a long-term illness. The doctor checks how treatment is going and keeps the illness from getting worse.",
+ "why": "For high blood pressure, diabetes, heart, lung, or kidney disease, and other long-term illnesses.",
+ "duration": "a visit usually takes 15 to 30 minutes, usually 1 to 4 times a year, as your doctor plans",
+ "tell_doctor": [
+  "How you have felt since the last visit",
+  "Whether you take your medicines and how you tolerate them",
+  "Whether you had flare-ups, ambulance calls, or hospital stays",
+  "New complaints"
+ ],
+ "prepare": [
+  {
+   "title": "Tests",
+   "text": "Before the visit you often need to have tests. Check which ones and when."
+  },
+  {
+   "title": "Diary",
+   "text": "Bring your blood pressure, sugar, or symptom records."
+  },
+  {
+   "title": "Medicines",
+   "text": "Take them as usual. Do not stop them on your own."
+  }
+ ],
+ "bring": [
+  "An ID",
+  "A blood pressure or sugar diary",
+  "Recent test results",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "The doctor asks how you feel",
+  "Measures blood pressure, weight, and other readings",
+  "Looks at your tests",
+  "Decides whether to keep or change the treatment",
+  "Writes prescriptions",
+  "Sets the date of your next visit"
+ ],
+ "feel": [
+  "The visit does not hurt",
+  "If blood is drawn, a short prick"
+ ],
+ "after": [
+  "Come on the set dates, even if you feel well",
+  "Write down questions for your next visit",
+  "Do not stop your medicines on your own"
+ ],
+ "red_flags": [
+  "A sudden worsening of your illness, severe chest pain, or shortness of breath: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why go if I feel fine?",
+   "a": "This way the doctor notices a worsening before you feel it."
+  },
+  {
+   "q": "Can I be taken off the follow-up list?",
+   "a": "Your doctor decides, usually if the illness is gone or has not shown up for a long time."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Routine doctor visit tomorrow. Bring your diary of readings and recent tests."
+  }
+ ]
+}

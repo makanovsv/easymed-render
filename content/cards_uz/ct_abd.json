@@ -1,0 +1,70 @@
+{
+ "title": "Kontrastli qorin bo‘shlig‘i KT’si",
+ "also": [
+  "qorin KT’si",
+  "kontrastli KT",
+  "qorin bo‘shlig‘ining MSKT’si"
+ ],
+ "what": "Kompyuter tomografiyasi qorin a’zolarini qatlam-qatlam ko‘rsatadi. Venaga yuborilgan kontrast tomirlar va a’zolarni yaxshiroq ko‘rsatadi.",
+ "why": "Qorin og‘rig‘ida, o‘sma va toshlarni qidirishda, jarohatdan keyin, davoni nazorat qilish uchun.",
+ "duration": "kabinetda 15–30 daqiqa, ba’zan kontrastni ichish kerak bo‘lsa, uzoqroq",
+ "tell_doctor": [
+  "Allergiya, ayniqsa yodga yoki kontrastga",
+  "Buyrak kasalliklari; sizga kreatininga tahlil tayinlashlari mumkin",
+  "Qandli diabet va uning dorilari: biror narsani o‘zgartirish kerakmi, shifokor aytadi",
+  "Homiladorlik yoki uning ehtimoli"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda 4–6 soat ovqatsiz. Suv ichish mumkin: aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Ichiladigan kontrast",
+   "text": "Ba’zan tekshiruvdan 1–2 soat oldin kontrast eritmasini ichishni so‘rashadi. Shunday deyishsa, oldinroq keling."
+  },
+  {
+   "title": "Metall",
+   "text": "Qorin sohasida metallsiz kiyim; kamar va taqinchoqlarni yechtirishadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Kreatinin tahlili, agar so‘ralgan bo‘lsa",
+  "KT, MRT, UZI’ning oldingi suratlari"
+ ],
+ "steps": [
+  "Qo‘lingizdagi venaga ingichka kateter qo‘yishadi",
+  "Stolga yotasiz, qo‘llar bosh orqasiga ko‘tariladi",
+  "Stol keng halqa orqali o‘tadi: avval kontrastsiz",
+  "“Nafas oling va nafas olmang” buyrug‘i bilan bir necha soniya nafasni ushlaysiz",
+  "Kontrast yuboriladi va yana bir qator suratlar olinadi"
+ ],
+ "feel": [
+  "Kontrast yuborilganda tanada issiqlik to‘lqini, metall ta’mi, ba’zan hojatga borgisi kelgandek tuyuladi. Bu normal va bir daqiqada o‘tadi"
+ ],
+ "after": [
+  "Kateter olinadi, 15–30 daqiqa klinikada qolishni so‘rashlari mumkin",
+  "Shu kuni shifokor boshqacha demagan bo‘lsa, ko‘proq suv iching",
+  "Xulosa odatda 1–2 kunda"
+ ],
+ "red_flags": [
+  "Qichishish, toshma, yuz shishi, nafas olish qiyin bo‘lsa, darhol xodimga ayting yoki allaqachon uyda bo‘lsangiz, 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "KT’da qancha nurlanish bo‘ladi?",
+   "a": "Rentgendan ko‘proq, lekin doza vazifaga qarab hisoblanadi. Tekshiruv ko‘rsatma bo‘yicha tayinlangan bo‘lsa, foyda xavfdan ko‘p."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 6,
+   "text": "6 soatdan keyin kontrastli KT. Klinika so‘ragan bo‘lsa, shu vaqtdan ovqat yemang, suv ichish mumkin."
+  },
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada KT. Kreatinin tahlili va oldingi suratlarni oling."
+  }
+ ]
+}

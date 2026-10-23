@@ -1,0 +1,71 @@
+{
+ "title": "Examen médico para migrantes y residencia",
+ "also": [
+  "examen médico para permiso de trabajo",
+  "examen médico de migrantes",
+  "certificado para residencia",
+  "revisión médica de extranjeros"
+ ],
+ "what": "Una revisión médica para extranjeros que obtienen un permiso de trabajo o de residencia. Se revisan algunas infecciones y a veces el consumo de drogas.",
+ "why": "Al tramitar un permiso de trabajo, residencia o ciudadanía.",
+ "duration": "normalmente 1 o 2 visitas; los resultados, en unos días",
+ "tell_doctor": [
+  "Si has tenido tuberculosis, hepatitis, VIH u otras infecciones",
+  "Qué medicamentos tomas",
+  "Si estás embarazada ahora"
+ ],
+ "prepare": [
+  {
+   "title": "Lista",
+   "text": "Normalmente hacen falta análisis de sangre de VIH y sífilis, una radiografía de tórax y la revisión de médicos. La lista depende del país y del documento; confírmala en el servicio de migración o en la clínica."
+  },
+  {
+   "title": "Clínica",
+   "text": "El examen se hace solo en clínicas autorizadas para ello. Averigua su lista con anticipación."
+  },
+  {
+   "title": "Traducción",
+   "text": "Si tienes documentos en otro idioma, puede hacer falta una traducción."
+  }
+ ],
+ "bring": [
+  "Pasaporte y su traducción, si hace falta",
+  "Tarjeta migratoria u otros documentos",
+  "Fotos, si las piden",
+  "Resultados de estudios anteriores"
+ ],
+ "steps": [
+  "Llegas a la clínica autorizada para el examen",
+  "Llenas un cuestionario",
+  "Te sacan sangre",
+  "Te hacen una radiografía de tórax",
+  "Pasas con los médicos de la lista",
+  "Recibes el informe médico"
+ ],
+ "feel": [
+  "Las revisiones no duelen",
+  "El análisis de sangre es un pinchazo breve"
+ ],
+ "after": [
+  "Guarda el original del informe y una copia",
+  "Entrega los documentos a tiempo: los certificados tienen un plazo de validez limitado",
+  "Si encontraron algo, te mandarán con un médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Puedo hacerme el examen en cualquier clínica?",
+   "a": "No, solo en las que están autorizadas. Confírmalo en el servicio de migración."
+  },
+  {
+   "q": "¿Y si un análisis sale positivo?",
+   "a": "Te mandarán con un médico. Los siguientes pasos te los explicarán en la clínica y en el servicio de migración."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu examen médico. Lleva tu pasaporte, la traducción y los documentos migratorios."
+  }
+ ]
+}

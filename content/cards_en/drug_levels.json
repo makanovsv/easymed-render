@@ -1,0 +1,79 @@
+{
+ "title": "Medicine levels in blood (valproate, lithium, digoxin)",
+ "also": [
+  "drug level test",
+  "therapeutic drug monitoring",
+  "lithium level",
+  "valproic acid level",
+  "digoxin level"
+ ],
+ "what": "This blood test shows how much of a medicine is in your blood right now. It tells your doctor if the dose is enough and not too high.",
+ "why": "For medicines with a narrow safe range, after a dose change, with side effects, or if a medicine is not helping.",
+ "duration": "the blood draw usually takes 5 minutes; results usually come in 1 to 2 days",
+ "tell_doctor": [
+  "The exact time of your last dose",
+  "If you missed any doses in the last few days",
+  "All other medicines and supplements",
+  "If you had vomiting, diarrhea, dehydration, or fever"
+ ],
+ "prepare": [
+  {
+   "title": "Timing",
+   "text": "The time of the draw matters most. Blood is usually taken just before your next dose. Your doctor will tell you the exact time."
+  },
+  {
+   "title": "Morning dose",
+   "text": "Ask your doctor whether to take your morning dose before or after the test. Do not skip or change a dose on your own."
+  },
+  {
+   "title": "Regularity",
+   "text": "For several days before the test, take your medicine exactly on schedule."
+  },
+  {
+   "title": "Food",
+   "text": "You usually do not need to fast. Check with the lab."
+  }
+ ],
+ "bring": [
+  "Your referral",
+  "The time of your last dose, written down",
+  "Your medicine, if the doctor said to take it after the test"
+ ],
+ "steps": [
+  "Tell the nurse when you last took the medicine",
+  "A band is tied above your elbow",
+  "The skin is wiped with antiseptic",
+  "Blood is taken from a vein into a tube",
+  "The draw time is written on the referral"
+ ],
+ "feel": [
+  "A quick prick, like a pinch",
+  "Sometimes slight dizziness. Tell the nurse, and they will help you lie down"
+ ],
+ "after": [
+  "Press the cotton pad for 3 to 5 minutes",
+  "Take your medicine, if your doctor said so",
+  "Results usually come in 1 to 2 days",
+  "Only your doctor changes the dose based on the result"
+ ],
+ "red_flags": [
+  "Severe shaking, vomiting, diarrhea, unsteadiness, or confusion: see a doctor right away",
+  "Fainting, seizures, or a very irregular heartbeat: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Why does the test time matter?",
+   "a": "Right after a dose, there is a lot of medicine in your blood, and then it drops. Without the exact time, the result is easy to misread."
+  },
+  {
+   "q": "How often is this test done?",
+   "a": "More often at the start of treatment and after a dose change, then less often. Your doctor will give you a schedule."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Medicine level test tomorrow. Write down the time of your last dose. Take your morning dose as your doctor said."
+  }
+ ]
+}

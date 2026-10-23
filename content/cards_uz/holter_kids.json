@@ -1,0 +1,79 @@
+{
+ "title": "Bolada xolter EKG",
+ "also": [
+  "bolaga xolter",
+  "bolada sutkalik EKG",
+  "bolalarda EKG ning sutkalik monitoringi"
+ ],
+ "what": "Bolaning ko‘ksiga datchiklar yopishtiriladi, kichik asbob esa sutka davomida EKG ni yozib boradi. U odatiy hayotini davom ettiradi.",
+ "why": "Bola yurak urishi, hushdan ketish, ko‘krak og‘rig‘idan shikoyat qilganda yoki shifokor yurakda uzilishlarni eshitganda.",
+ "duration": "odatda 24 soat taqiladi, xulosa 1–3 kunda",
+ "tell_doctor": [
+  "Bola qanday dorilar oladi",
+  "Aynan nima va qachon bezovta qiladi",
+  "Bolada plastirga allergiya bo‘lsa",
+  "Bola sport bilan shug‘ullansa"
+ ],
+ "prepare": [
+  {
+   "title": "Yuvish",
+   "text": "Bir kun oldin bolani cho‘miltiring — asbob bilan yuvinib bo‘lmaydi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Erkin mayka yoki futbolka, simlar xalaqit bermasligi uchun."
+  },
+  {
+   "title": "Suhbat",
+   "text": "Bolaga datchiklarga tegmaslik va ularni yechmaslik kerakligini tushuntiring."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Bola nima qilgani va nimani his qilganini yozib boring: o‘yinlar, uyqu, shikoyatlar."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Kundalik uchun daftar",
+  "Erkin futbolka",
+  "Bolaning hujjatlari"
+ ],
+ "steps": [
+  "Hamshira bolaning ko‘kragidagi terini tozalaydi",
+  "Bir nechta datchik yopishtiradi",
+  "Ularga belda yoki tasmada kichik asbobni ulaydi",
+  "Bola uyga ketadi va odatdagidek yashaydi",
+  "Siz kundalik yuritasiz: uyqu, o‘yinlar, shikoyatlar",
+  "Sutkadan keyin asbob klinikada olinadi"
+ ],
+ "feel": [
+  "Og‘riq yo‘q",
+  "Plastirlar qichishtirishi mumkin",
+  "Kichkintoylar ba’zan simlarga talpinadi — kuzatib turing"
+ ],
+ "after": [
+  "Xulosa odatda 1–3 kunda",
+  "Plastirdan yengil qizarish o‘zi o‘tadi",
+  "Natijani shifokor tushuntiradi"
+ ],
+ "red_flags": [
+  "Bola hushidan ketsa — tez yordamni chaqiring (103)",
+  "Ko‘krakda kuchli og‘riq yoki hansirash"
+ ],
+ "faq": [
+  {
+   "q": "Xolter bilan bola yugursa bo‘ladimi?",
+   "a": "Ha, odatiy faollik hatto kerak. Lekin suvsiz va basseynsiz."
+  },
+  {
+   "q": "Datchik ko‘chib tushsa nima qilish kerak?",
+   "a": "Uni qayta bosing va vaqtini yozib qo‘ying. To‘liq ko‘chib tushsa — klinikaga qo‘ng‘iroq qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolaga xolter o‘rnatiladi. Bugun bolani cho‘miltiring va erkin futbolka tayyorlang."
+  }
+ ]
+}

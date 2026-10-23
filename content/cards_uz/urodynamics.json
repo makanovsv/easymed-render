@@ -1,0 +1,81 @@
+{
+ "title": "Urodinamik tekshiruv",
+ "also": [
+  "urodinamika",
+  "UDT",
+  "kompleks urodinamik tekshiruv",
+  "sistometriya"
+ ],
+ "what": "Apparat siydik pufagi qanday to‘lishi va bo‘shashini o‘lchaydi. Buning uchun pufakka datchikli ingichka kateter kiritiladi.",
+ "why": "Siydik tuta olmaslikda, tez-tez istakda, siydik oqimi sust bo‘lganda, siydik pufagi yoki prostata operatsiyalari oldidan.",
+ "duration": "odatda 30–60 daqiqa, xulosa odatda o‘sha kuni",
+ "tell_doctor": [
+  "Qanday dorilar ichayotganingizni, ayniqsa siydik pufagi uchun — shifokor tanaffus kerak-kerakmasligini hal qiladi",
+  "Hozir siyganda og‘riq yoki achishish bor-yo‘qligini",
+  "Allergiyalar, shu jumladan lateksga",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Kundalik",
+   "text": "Ko‘pincha oldindan 2–3 kun qachon va qancha ichishingiz hamda siyishingizni yozib borishni so‘rashadi. Klinikadan so‘rang."
+  },
+  {
+   "title": "Siydik tahlili",
+   "text": "Infeksiyani inkor qilish uchun ko‘pincha yangi siydik tahlili kerak bo‘ladi."
+  },
+  {
+   "title": "Siydik pufagi",
+   "text": "Pufagi to‘la holda keling — boshida maxsus asbobga siyishni so‘rashadi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Shifokor tanaffus qilishni aytsa, muddatini ham aytadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Siyish kundaligi",
+  "Siydik tahlili",
+  "Almashtirish uchun ichki kiyim"
+ ],
+ "steps": [
+  "Maxsus hojatxonaga siyasiz — u oqimni o‘lchaydi",
+  "Kreslaga yotasiz yoki o‘tirasiz",
+  "Siydik pufagiga datchikli ingichka kateter, to‘g‘ri ichakka esa yana bittasi kiritiladi",
+  "Pufak steril suyuqlik bilan sekin to‘ldiriladi",
+  "Istak sezganingizda shifokorga aytasiz",
+  "Oxirida siyasiz, apparat bosimni yozib boradi"
+ ],
+ "feel": [
+  "Kateterlar kiritilganda yoqimsiz his",
+  "To‘lishning oxirida kuchli istak — shunday bo‘lishi kerak",
+  "Ba’zan noqulaylik — xodimlar bunga o‘rganib qolgan"
+ ],
+ "after": [
+  "Shifokor boshqacha demagan bo‘lsa, o‘sha kuni ko‘proq suv iching",
+  "Siyganda 1–2 kun yengil achishish bo‘lishi mumkin",
+  "Natijalarni shifokor qabulda siz bilan muhokama qiladi"
+ ],
+ "red_flags": [
+  "38 dan yuqori harorat, titroq",
+  "Siya olmasangiz",
+  "Siydikda qon bir kundan ko‘p davom etsa"
+ ],
+ "faq": [
+  {
+   "q": "Og‘riydimi?",
+   "a": "Odatda yo‘q. Kateterlar ingichka. Yoqimsiz va noqulay bo‘lishi mumkin, lekin uzoq emas."
+  },
+  {
+   "q": "Test paytida siydik tomib ketsa-chi?",
+   "a": "Bu normal va hatto tekshiruv uchun kerak. Xodimlar bunga tayyor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga urodinamik tekshiruv. Siyish kundaligini oling va siydik pufagi to‘la holda keling."
+  }
+ ]
+}

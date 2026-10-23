@@ -1,0 +1,76 @@
+{
+ "title": "Tratamento dentário na gravidez",
+ "also": [
+  "dentista na gravidez",
+  "tratar dente grávida",
+  "cárie na gravidez"
+ ],
+ "what": "Pode e deve tratar os dentes durante a gravidez. O médico escolhe uma anestesia segura e o melhor momento para o tratamento.",
+ "why": "Para cárie, gengiva sangrando, dor de dente, e também para revisão e limpeza de rotina.",
+ "duration": "a consulta leva normalmente de 30 a 60 minutos",
+ "tell_doctor": [
+  "Com quantas semanas de gravidez você está",
+  "Como está a gravidez e se há complicações",
+  "Quais remédios e vitaminas você toma",
+  "Se tem alguma alergia",
+  "Se sente enjoo ou tontura"
+ ],
+ "prepare": [
+  {
+   "title": "Momento",
+   "text": "O tratamento planejado é mais confortável no segundo trimestre. Dor forte é tratada em qualquer fase."
+  },
+  {
+   "title": "Comida",
+   "text": "Faça uma refeição leve 1 a 2 horas antes."
+  },
+  {
+   "title": "Médico",
+   "text": "Você pode conversar antes com o seu obstetra, principalmente se a gravidez for de risco."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Cartão da gestante ou relatório do pré-natal, se tiver",
+  "Lista de remédios",
+  "Água"
+ ],
+ "steps": [
+  "Conte ao dentista com quantas semanas você está",
+  "A cadeira é ajustada para ficar confortável; no fim da gravidez, um pouco de lado",
+  "O médico examina os dentes e a gengiva",
+  "Se precisar, aplica uma anestesia liberada na gravidez",
+  "Trata o dente ou faz a limpeza",
+  "Radiografia só se for necessária, com proteção sobre a barriga"
+ ],
+ "feel": [
+  "A picada da anestesia: uma dor rápida",
+  "Ficar muito tempo deitada de barriga para cima pode incomodar. Avise o médico, e vocês fazem uma pausa"
+ ],
+ "after": [
+  "Pode comer quando passar a dormência",
+  "Escove os dentes duas vezes por dia; a gengiva pode sangrar mais",
+  "A próxima consulta segue o plano do médico"
+ ],
+ "red_flags": [
+  "Dor forte no dente ou rosto inchado: não espere, vá ao dentista",
+  "Tontura e fraqueza na cadeira: avise o médico na hora",
+  "Dor na barriga ou sangramento vaginal: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Pode tomar anestesia na gravidez?",
+   "a": "Sim. Existem anestésicos usados na gravidez. Aguentar a dor faz mais mal."
+  },
+  {
+   "q": "Pode fazer radiografia do dente?",
+   "a": "Só se não houver outro jeito. A dose é muito pequena, e a barriga é coberta com um avental de proteção."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o dentista. Conte ao médico com quantas semanas você está e leve a lista de remédios."
+  }
+ ]
+}

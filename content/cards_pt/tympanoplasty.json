@@ -1,0 +1,81 @@
+{
+ "title": "Timpanoplastia",
+ "also": [
+  "timpanoplastia",
+  "cirurgia do tímpano",
+  "tímpano furado",
+  "reconstrução do tímpano"
+ ],
+ "what": "O cirurgião fecha o furo no tímpano com um pedacinho de tecido do próprio paciente. Às vezes também reconstrói os ossinhos do ouvido.",
+ "why": "Para furo no tímpano que não fecha, secreção frequente no ouvido e piora da audição.",
+ "duration": "a cirurgia leva normalmente de 1 a 2 horas; a internação, 1 a 2 dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias",
+  "Doenças crônicas",
+  "Se já teve problemas com anestesia",
+  "Se está saindo líquido do ouvido antes da cirurgia"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exame de audição, exames de sangue e, às vezes, tomografia. A clínica passa a lista."
+  },
+  {
+   "title": "Ouvido",
+   "text": "Antes da cirurgia, o ouvido normalmente precisa estar seco. Não molhe."
+  },
+  {
+   "title": "Comida",
+   "text": "A clínica vai dizer quanto tempo ficar sem comer antes da anestesia."
+  }
+ ],
+ "bring": [
+  "Documentos e pedido médico",
+  "Resultados dos exames de sangue e de audição",
+  "Lista de remédios",
+  "Coisas para o hospital"
+ ],
+ "steps": [
+  "Colocam um acesso na veia",
+  "Normalmente é feita anestesia geral",
+  "O cirurgião faz um corte no canal do ouvido ou atrás da orelha",
+  "Pega um pedacinho de tecido e fecha o furo no tímpano",
+  "Coloca um tampão no ouvido",
+  "Faz um curativo"
+ ],
+ "feel": [
+  "Depois da anestesia: sonolência, às vezes enjoo",
+  "Dor moderada no ouvido; dão analgésico",
+  "Ouvido tampado: no começo você ouve pior por causa do tampão"
+ ],
+ "after": [
+  "Não molhe o ouvido até o médico liberar",
+  "Não assoe o nariz com força; espirre de boca aberta",
+  "Sem viagens de avião e sem natação até o médico liberar",
+  "O tampão é tirado no consultório",
+  "A audição é avaliada depois de algumas semanas"
+ ],
+ "red_flags": [
+  "Febre acima de 38 graus ou pus no ouvido",
+  "Tontura forte ou vômito",
+  "Fraqueza nos músculos do rosto",
+  "Dor de cabeça forte: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A audição vai voltar?",
+   "a": "Muitas vezes a audição melhora, mas nem sempre totalmente. O médico vai dizer o que esperar."
+  },
+  {
+   "q": "Quando posso viajar de avião?",
+   "a": "Normalmente depois de algumas semanas. O médico decide."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a cirurgia no ouvido. Não molhe o ouvido. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

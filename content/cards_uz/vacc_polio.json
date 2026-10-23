@@ -1,0 +1,72 @@
+{
+ "title": "Poliomiyelitga qarshi emlash",
+ "also": [
+  "poliomiyelit emlashi",
+  "IPV",
+  "OPV",
+  "poliomiyelit tomchilari",
+  "polio vaksinasi"
+ ],
+ "what": "Emlash poliomiyelitdan himoya qiladi — bu infeksiya falajga olib kelishi mumkin. Ukol qilinadi yoki og‘izga tomchi beriladi.",
+ "why": "Bolalarga milliy emlash kalendari bo‘yicha, ba’zan kattalarga nosog‘lom mamlakatlarga safar oldidan.",
+ "duration": "emlashning o‘zi — bir necha soniya, ko‘rik bilan odatda 15–40 daqiqa",
+ "tell_doctor": [
+  "Bola hozir kasal bo‘lsa yoki harorat bo‘lsa",
+  "Allergiyalar va oldingi emlashlarga kuchli reaksiyalar",
+  "Bolada yoki oilada kimdadir immunitet zaif bo‘lsa — bu tomchilar uchun muhim"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Emlash bola sog‘ bo‘lganda qilinadi. Undan oldin bolani ko‘rikdan o‘tkazishadi."
+  },
+  {
+   "title": "Vaksina turi",
+   "text": "Ukol yoki tomchi bo‘lishini aniqlang — bu yosh va kalendarga bog‘liq."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Tomchi berilsa, odatda keyin taxminan bir soat ovqat va ichimlik berilmaydi. Hamshiradan aniqlang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Emlash sertifikati yoki emlash kartasi"
+ ],
+ "steps": [
+  "Shifokor bolani ko‘radi va haroratini o‘lchaydi",
+  "Ukol bo‘lsa — songa yoki yelkaga qilinadi",
+  "Tomchi bo‘lsa — og‘izga tomiziladi",
+  "Emlash hujjatlarga yoziladi",
+  "Emlashdan keyin klinikada taxminan 30 daqiqa bo‘lish kerak"
+ ],
+ "feel": [
+  "Ukol — qisqa og‘riq, tomchi — og‘riqsiz",
+  "Ba’zan ukol joyida qizarish yoki ozgina harorat"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Tomchilarni darrov qaytarsa — hamshiraga ayting",
+  "Keyingi emlash — jadval bo‘yicha"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)",
+  "Emlashdan keyin oyoq yoki qo‘lda holsizlik — shoshilinch shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Ukol tomchilardan nimasi bilan farq qiladi?",
+   "a": "Ukolda o‘ldirilgan virus, tomchilarda zaiflashtirilgan tirik virus bor. Sxemani shifokor kalendar bo‘yicha tanlaydi."
+  },
+  {
+   "q": "Kattalarga emlash kerakmi?",
+   "a": "Bolalikda kurs o‘tgan bo‘lsa, odatda yo‘q. Ba’zi mamlakatlarga safar oldidan shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga poliomiyelitga qarshi emlash. Emlash kartasini oling."
+  }
+ ]
+}

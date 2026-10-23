@@ -1,0 +1,78 @@
+{
+ "title": "Vitaminas A y E",
+ "also": [
+  "vitamina A",
+  "retinol",
+  "vitamina E",
+  "tocoferol",
+  "vitaminas liposolubles"
+ ],
+ "what": "Es un análisis de sangre que muestra si tu cuerpo tiene suficientes vitaminas A y E.",
+ "why": "En enfermedades en las que la grasa se absorbe mal: del intestino, el hígado o el páncreas, o después de cirugías de estómago. También si ves mal al atardecer o tienes la piel seca.",
+ "duration": "la toma de sangre dura unos minutos; el resultado suele estar en 1 a 2 semanas",
+ "tell_doctor": [
+  "Si tomas vitaminas o aceite de pescado",
+  "Si tienes enfermedades del intestino, el hígado o el páncreas",
+  "Si te operaron del estómago o del intestino",
+  "Si estás embarazada"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente en ayunas: de 8 a 12 horas sin comer. Es muy importante no comer grasoso el día anterior. Puedes tomar agua."
+  },
+  {
+   "title": "Vitaminas",
+   "text": "Pregúntale al médico si debes dejar las vitaminas antes del análisis."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Un día antes, sin alcohol ni ejercicio intenso. En la mañana mejor no fumes."
+  },
+  {
+   "title": "Ropa",
+   "text": "Una manga que puedas subir fácilmente arriba del codo."
+  }
+ ],
+ "bring": [
+  "La orden médica o la lista de análisis",
+  "Tu identificación",
+  "La lista de vitaminas y suplementos"
+ ],
+ "steps": [
+  "Te sientas y apoyas el brazo en el descansabrazos",
+  "Te ponen una liga arriba del codo y te piden abrir y cerrar el puño",
+  "Limpian la piel con antiséptico",
+  "Un piquete breve: la sangre llena los tubos en unos segundos",
+  "Sacan la aguja y ponen un algodón en el lugar",
+  "El tubo se protege de la luz, porque la luz destruye las vitaminas"
+ ],
+ "feel": [
+  "Un piquete breve, como un pellizco",
+  "A veces un leve mareo: avísale a la enfermera y te recostarán"
+ ],
+ "after": [
+  "Presiona el algodón de 3 a 5 minutos",
+  "Puedes comer de inmediato",
+  "No tomes dosis altas de vitaminas por tu cuenta: el exceso también hace daño"
+ ],
+ "red_flags": [
+  "El lugar del piquete está muy hinchado, duele y está rojo"
+ ],
+ "faq": [
+  {
+   "q": "¿Por qué tarda tanto el resultado?",
+   "a": "Estas vitaminas se miden con equipo especial, que no hay en todos los laboratorios. Te dirán el plazo al hacer el análisis."
+  },
+  {
+   "q": "¿Puedo tomar vitaminas como prevención sin hacer el análisis?",
+   "a": "Las dosis normales de un multivitamínico, según te aconseje el médico. Las dosis altas de vitamina A sin análisis son peligrosas."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu análisis de vitaminas A y E. Hoy cena sin grasa y después ya no comas. Puedes tomar agua."
+  }
+ ]
+}

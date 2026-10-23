@@ -1,0 +1,69 @@
+{
+ "title": "Uyda ovulyatsiya testi",
+ "also": [
+  "ovulyatsiya testi",
+  "ovulyatsiya chiziqchalari",
+  "ovulyatsiya kunini qanday bilish",
+  "LG testi"
+ ],
+ "what": "Siydikdan uyda o‘tkaziladigan test tuxum hujayra chiqishidan 1–2 kun oldin bo‘ladigan gormon ko‘tarilishini ushlaydi. Shunday qilib homilador bo‘lish uchun eng mos kunlarni bilasiz.",
+ "why": "Homiladorlikni rejalashtirishda, urug‘lanish kunlarini tanlash uchun; ba’zan bepushtlikni davolashga tayyorlanishda shifokor maslahati bilan.",
+ "duration": "testning o‘zi — kuniga bir necha daqiqa, odatda siklning o‘rtasida ketma-ket bir necha kun",
+ "tell_doctor": [
+  "Siklingiz uzunligi va qanchalik muntazamligi",
+  "Test ketma-ket bir necha siklda ijobiy bo‘lmasa",
+  "Ichayotgan barcha dorilar va gormonlar"
+ ],
+ "prepare": [
+  {
+   "title": "Qaysi kundan",
+   "text": "Testlarni boshlash kuni sikl uzunligiga bog‘liq — yo‘riqnomadagi jadvalga qarang."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Odatda testni kunduzi, bir xil vaqtda qilishadi. Birinchi ertalabki siydik ko‘pincha mos kelmaydi — yo‘riqnomaga qarang."
+  },
+  {
+   "title": "Suv",
+   "text": "Testdan 2 soat oldin ko‘p suyuqlik ichmang va siydik qilmaslikka harakat qiling."
+  }
+ ],
+ "bring": [
+  "Bir necha kunlik testlar",
+  "Taymer",
+  "Sikl taqvimi yoki ilova"
+ ],
+ "steps": [
+  "Testlarni sikl uzunligingiz uchun yo‘riqnomada ko‘rsatilgan kundan boshlang",
+  "Test uchini siydik oqimi ostida yoki stakanda yo‘riqnomada aytilgan soniya ushlab turing",
+  "Testni gorizontal qo‘ying va yo‘riqnomadagi vaqtni kuting",
+  "Test chizig‘ini nazorat chizig‘i bilan solishtiring",
+  "Test ijobiy bo‘lguncha har kuni takrorlang"
+ ],
+ "feel": [
+  "Hech narsa — test og‘riqsiz",
+  "Natijani kutish hayajonli bo‘lishi mumkin — bu normal"
+ ],
+ "after": [
+  "Ijobiy test odatda ovulyatsiya yaqin 1–2 kunda bo‘lishini bildiradi",
+  "Homilador bo‘lish uchun eng mos kunlar — ijobiy test kuni va keyingi kun",
+  "Natijalarni yozib boring — homiladorlik uzoq bo‘lmasa, shifokorga yordam beradi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Test bir necha kun ketma-ket ijobiy. Bu normalmi?",
+   "a": "Ba’zan bo‘ladi. Har siklda shunday bo‘lsa, shifokorga ayting — ba’zi gormonal xususiyatlarda testlar noaniq bo‘ladi."
+  },
+  {
+   "q": "Ovulyatsiya ko‘rinmasa, homilador bo‘la olmaymanmi?",
+   "a": "Shart emas. Ba’zan ko‘tarilish qisqa bo‘ladi va test uni o‘tkazib yuboradi. Bir necha sikl shunday bo‘lsa — shifokorga."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "2 soatdan keyin ovulyatsiya testi. Hozir ko‘p ichmang va hojatxonaga bormaslikka harakat qiling."
+  }
+ ]
+}

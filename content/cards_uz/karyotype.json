@@ -1,0 +1,68 @@
+{
+ "title": "Kariotip",
+ "also": [
+  "kariotiplash",
+  "xromosomalar tahlili",
+  "kariotip genetik tahlili",
+  "xromosoma tekshiruvi"
+ ],
+ "what": "Bu tomirdan olinadigan qon tahlili. Laboratoriyada irsiy ma’lumot tashuvchi xromosomalar sanaladi va ko‘zdan kechiriladi.",
+ "why": "Bepushtlikda, takroriy homila tushishlarda, EKUdan oldin, bolada genetik kasallikka shubha bo‘lganda.",
+ "duration": "qon olish 3–5 daqiqa, natija odatda 2–4 haftadan keyin",
+ "tell_doctor": [
+  "Hozir kasal bo‘lsangiz yoki harorat bo‘lsa",
+  "Antibiotik yoki gormon ichayotgan bo‘lsangiz",
+  "Qon quyilgan bo‘lsa",
+  "Oilada genetik kasalliklar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Sog‘lom paytda topshirgan ma’qul. Yaqinda kasal bo‘lgan bo‘lsangiz, muddatini shifokordan aniqlab oling."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa emas, lekin topshirishdan oldin yog‘li ovqat yemagan ma’qul. Laboratoriyadan aniqlab oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Oldingi genetik tahlil natijalari, agar bo‘lsa"
+ ],
+ "steps": [
+  "Siz o‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsakdan yuqorida jgut tortiladi, teri artiladi",
+  "Qon maxsus probirkaga olinadi",
+  "Igna olinadi, paxta qo‘yiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda 2–4 haftadan keyin — hujayralarni o‘stirish kerak",
+  "Natijani genetik shifokor bilan muhokama qilgan ma’qul"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tahlil nega bunchalik uzoq qilinadi?",
+   "a": "Qon hujayralari bir necha kun o‘stiriladi, keyin ularning xromosomalari mikroskop ostida ko‘riladi."
+  },
+  {
+   "q": "Kariotip normal bo‘lsa, genetik muammolar yo‘qmi?",
+   "a": "Har doim ham emas. Kariotip yirik o‘zgarishlarni ko‘radi. Mayda o‘zgarishlar kerak bo‘lsa, boshqa tahlillar bilan qidiriladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga kariotip tahlili. Hozir kasal bo‘lsangiz, klinikaga qo‘ng‘iroq qiling."
+  }
+ ]
+}

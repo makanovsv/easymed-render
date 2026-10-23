@@ -1,0 +1,67 @@
+{
+ "title": "EChT",
+ "also": [
+  "EChT",
+  "ECHT",
+  "eritrotsitlar cho‘kish tezligi"
+ ],
+ "what": "Bu oddiy qon tahlili. U qon hujayralari qanchalik tez cho‘kishini ko‘rsatadi — bu yallig‘lanishning umumiy belgisi.",
+ "why": "Odatda umumiy qon tahlili bilan birga: tibbiy ko‘rikda, haroratda, bo‘g‘im og‘riqlarida, holsizlikda.",
+ "duration": "qon olish — bir necha daqiqa, natija odatda ertasi kuni",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz",
+  "Yaqinda kasal bo‘lgan yoki harorat bo‘lgan bo‘lsangiz",
+  "Qanday dorilar ichayotganingiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Ertalab och qoringa yoki yengil ovqatdan bir necha soat o‘tib kelgan ma’qul. Laboratoriyadan aniqlab oling."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Bir sutka oldin alkogolsiz va og‘ir mashqlarsiz. Ertalab chekmagan ma’qul."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting — biror narsani o‘zgartirish kerakmi, shuni u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Qon odatda venadan, ba’zan barmoqdan olinadi",
+  "Tirsakdan yuqoriga jgut bog‘lanadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon probirkaga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darhol ovqatlanib, odatdagi ishlarga qaytsangiz bo‘ladi",
+  "Natija odatda 1 kunda — muddatni laboratoriyada aytishadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "EChT oshgani xavflimi?",
+   "a": "Bu faqat umumiy belgi. Uni shamollash, homiladorlik, yosh oshiradi. Shifokor uni boshqa tahlillar bilan birga ko‘radi."
+  },
+  {
+   "q": "Kasallikdan keyin EChT nega uzoq pasaymaydi?",
+   "a": "U sekin me’yorlashadi, ba’zan bir necha hafta. Takroriy tahlilni shifokor tayinlaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga EChTga qon tahlili. Ertalab och qoringa bo‘lgan ma’qul, suv ichsa bo‘ladi."
+  }
+ ]
+}

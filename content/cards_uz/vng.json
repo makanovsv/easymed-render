@@ -1,0 +1,77 @@
+{
+ "title": "Videonistagmografiya",
+ "also": [
+  "VNG",
+  "videookulografiya",
+  "vestibulyar apparatni tekshirish",
+  "bosh aylanishi testi"
+ ],
+ "what": "Shifokor kamerali maxsus ko‘zoynak yordamida ko‘z harakatlarini yozib oladi. Ko‘zlar bo‘yicha ichki quloqdagi muvozanat a’zosi qanday ishlayotgani ko‘rinadi.",
+ "why": "Bosh aylanganda, yurganda beqarorlikda, quloqda shovqinda, bosh jarohatidan keyin — sababini topish uchun.",
+ "duration": "odatda 30–60 daqiqa; xulosa ko‘pincha o‘sha kuni",
+ "tell_doctor": [
+  "Qanday dori ichasiz, ayniqsa bosh aylanishiga qarshi, tinchlantiruvchi va uyqu dorilari",
+  "Bo‘yin yoki bel og‘riyotgan bo‘lsa — bosh burishlarning ba’zilarini almashtirsa bo‘ladi",
+  "Ko‘z kasalliklari bo‘lsa yoki ko‘zoynaksiz yomon ko‘rsangiz",
+  "Quloq pardasida teshik bo‘lsa yoki yaqinda quloqda operatsiya bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Ba’zi dorilar testga xalaqit beradi. O‘zingiz bekor qilmang — shifokorga ayting, u qaysi birini necha kunga to‘xtatish mumkinligini hal qiladi."
+  },
+  {
+   "title": "Ovqat va alkogol",
+   "text": "1–2 kun alkogolsiz. Odatda test oldidan 2–3 soat to‘yib ovqat yemaslik so‘raladi, chunki ko‘ngil aynishi mumkin."
+  },
+  {
+   "title": "Yuz",
+   "text": "Ko‘zga bo‘yoqsiz keling: tush kameraga xalaqit beradi."
+  },
+  {
+   "title": "Yo‘l",
+   "text": "Testdan keyin biroz bosh aylanishi mumkin. Darrov rulga o‘tirmagan yaxshi, hamroh oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "LOR-shifokor va nevrologning oldingi xulosalari",
+  "Dorilaringiz ro‘yxati"
+ ],
+ "steps": [
+  "Kresloga o‘tirasiz, boshingizga kamerali ko‘zoynak taqiladi",
+  "Avval ekrandagi nuqtaga ko‘z bilan qarab turish so‘raladi",
+  "Keyin bosh va tana holati o‘zgartiriladi: yotib, yonboshda, burilishlar bilan",
+  "Ba’zan quloqqa iliq va salqin havo yoki suv beriladi — bu har bir quloqni alohida tekshirishdir",
+  "Shifokor ko‘z harakatlari yozuvini monitorda ko‘radi"
+ ],
+ "feel": [
+  "Og‘rimaydi",
+  "Ba’zi sinamalar paytida bosh aylanadi va ko‘ngil aynishi mumkin — bu kutilgan va tez o‘tadi",
+  "Ahvolingiz juda yomonlashsa, shifokorga ayting — tanaffus qilishadi"
+ ],
+ "after": [
+  "Bosh aylanishi o‘tguncha 10–15 daqiqa o‘tiring",
+  "Odatiy kuningizni davom ettirsangiz bo‘ladi",
+  "Xulosa ko‘pincha darrov, ba’zan 1–2 kundan keyin"
+ ],
+ "red_flags": [
+  "Qattiq bosh og‘rig‘i, ko‘zda ikkilanish, qo‘l yoki oyoqda holsizlik, nutq buzilishi — darrov tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Test paytida nega bosh aylanadi?",
+   "a": "Ba’zi sinamalar ataylab qisqa bosh aylanishini chaqiradi. Shunda shifokor muvozanat a’zosi qanday javob berishini ko‘radi."
+  },
+  {
+   "q": "VNGdan oldin bosh aylanishiga qarshi tabletka ichsa bo‘ladimi?",
+   "a": "Ular natijani buzishi mumkin. Shifokorga oldindan ayting, u tanaffus kerak yoki kerak emasligini hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga videonistagmografiya. Ko‘zga bo‘yoqsiz, 2–3 soat oldin to‘yib ovqat yemang, hamroh oling."
+  }
+ ]
+}

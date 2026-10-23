@@ -1,0 +1,81 @@
+{
+ "title": "CPAP therapy at home",
+ "also": [
+  "CPAP",
+  "CPAP machine",
+  "anti-snoring machine",
+  "sleep mask",
+  "sleep apnea treatment"
+ ],
+ "what": "A small machine delivers air through a mask at night under gentle pressure. This keeps the airway from collapsing during sleep, so breathing does not stop.",
+ "why": "For pauses in breathing during sleep (apnea), or loud snoring with daytime sleepiness, once a sleep study has confirmed it.",
+ "duration": "every night, for the whole sleep; getting used to it usually takes 1 to 4 weeks",
+ "tell_doctor": [
+  "If the mask rubs, presses, or air leaks from under it",
+  "If your mouth or nose is dry, or your nose is blocked",
+  "If you still snore or feel sleepy in the day",
+  "If it is hard to get used to it and you want to quit"
+ ],
+ "prepare": [
+  {
+   "title": "Mask",
+   "text": "The mask is fitted by size. If it is uncomfortable, ask for another size or type, since there are many."
+  },
+  {
+   "title": "Getting used to it",
+   "text": "In the first days, wear the mask for 20 to 30 minutes in the daytime, just sitting or reading."
+  },
+  {
+   "title": "Water",
+   "text": "If the machine has a humidifier, fill it with boiled or distilled water, and check the instructions."
+  },
+  {
+   "title": "Pressure",
+   "text": "Your doctor sets the pressure. Do not change it yourself."
+  }
+ ],
+ "bring": [
+  "The machine, hose, and mask",
+  "The memory card or data from the app, for your visit",
+  "A list of questions and complaints"
+ ],
+ "steps": [
+  "Before bed, pour water into the humidifier, if there is one",
+  "Put on the mask and tighten the straps, snug but not too tight",
+  "Lie in a comfortable position and turn on the machine",
+  "Breathe calmly through your nose if it is a nasal mask",
+  "If air blows from under the mask, adjust its position a little",
+  "In the morning, turn off the machine, take off the mask, and pour out the water"
+ ],
+ "feel": [
+  "The first nights feel strange: air pressure and the mask on your face",
+  "Sometimes a dry mouth or nose",
+  "After a few weeks, many people notice they sleep better"
+ ],
+ "after": [
+  "Use the machine every night, since skipped nights reduce the benefit",
+  "Wipe the mask every day, and wash the hose and water tank once a week",
+  "Filters and the mask are replaced following the instructions",
+  "After a while, your doctor will check the machine's data"
+ ],
+ "red_flags": [
+  "Ear pain, severe sinus pain, or nosebleeds: tell your doctor",
+  "Severe shortness of breath or chest pain: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I skip a night?",
+   "a": "It is better not to. Without the machine, the breathing pauses come back the same night."
+  },
+  {
+   "q": "What if I take off the mask in my sleep?",
+   "a": "This happens at the start. Tell your doctor, since another mask or setting sometimes helps."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Bedtime is soon. Water in the humidifier, mask on, and turn the machine on before you lie down."
+  }
+ ]
+}

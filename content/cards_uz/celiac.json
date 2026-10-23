@@ -1,0 +1,69 @@
+{
+ "title": "Seliakiyaga tahlil",
+ "also": [
+  "seliakiya",
+  "to‘qima transglutaminazasiga antitelolar",
+  "anti-tTG",
+  "glyutenni ko‘tara olmaslik"
+ ],
+ "what": "Bu venadan qon tahlili. U ichak glyutenni yaxshi ko‘tarmasa paydo bo‘ladigan antitelolarni qidiradi.",
+ "why": "Tez-tez ich ketishi, dam bo‘lish, ozish, kamqonlik, bolalarda o‘sishdan orqada qolish, qarindoshlarda seliakiya bo‘lganda.",
+ "duration": "qon olish bir necha daqiqa, natija odatda bir necha kunda",
+ "tell_doctor": [
+  "Non va glyuteni bor boshqa mahsulotlarni allaqachon ovqatdan chiqargan bo‘lsangiz",
+  "Qanday dorilar ichayotganingizni, ayniqsa gormonlarni",
+  "Qarindoshlarda seliakiya bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Glyuten",
+   "text": "Asosiysi: tahlilgacha non, makaron va bug‘doyli boshqa mahsulotlarni yeyishda davom eting. Glyutensiz tahlil yolg‘on normal chiqishi mumkin."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda ertalab och qoringa topshirgan yaxshi. Laboratoriyadan aniqlashtiring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting: biror narsani o‘zgartirish kerakmi, shuni u hal qiladi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirgakka qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lanadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa sanchiq: qon probirkaga olinadi",
+  "Igna olinadi, sanchilgan joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Chimchilashga o‘xshash qisqa sanchiq",
+  "Ba’zan yengil bosh aylanishi: hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing, qo‘lni bukmang",
+  "Darhol ovqatlanib, odatiy ishlaringizga qaytish mumkin",
+  "Shifokor bilan gaplashmaguningizcha glyutensiz parhezga o‘tmang",
+  "Natija odatda bir necha kunda: muddatni laboratoriyada aytishadi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tahlildan oldin glyutenni olib tashlasa bo‘ladimi?",
+   "a": "Yo‘q. Aksincha, uni odatdagidek yeyish kerak, aks holda tahlil hech narsa ko‘rsatmasligi mumkin."
+  },
+  {
+   "q": "Tahlil musbat chiqsa, keyin nima bo‘ladi?",
+   "a": "Odatda shifokor tasdiqlash uchun biopsiyali gastroskopiyaga yuboradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga seliakiyaga tahlil. Odatdagidek ovqatlaning, glyutenni chiqarib tashlamang. Ertalab och qoringa bo‘lgani ma’qul."
+  }
+ ]
+}

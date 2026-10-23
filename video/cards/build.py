@@ -72,7 +72,7 @@ def complete(sub, text):
 
 
 def split_sents(text):
-    parts = re.split(r"(?<=[.!?。！？])\s*", text.strip())
+    parts = re.split(r"(?<=[.!?。！？।])\s*", text.strip())
     return [x for x in (p.strip() for p in parts) if x]
 
 
@@ -134,7 +134,7 @@ def chapters(c, s, lang):
     """Главы ролика: (подпись на экране, текст озвучки, картинка, вставка)."""
     imgs = [x for x in OVERRIDE.get(c["id"], []) if (IMG / f"{x}.png").exists()] or SCENE.get(c["scene"], ["b_questionnaire"])
     main, alt = imgs[0], imgs[-1]
-    stop = "。" if lang in ("zh", "ja") else "."
+    stop = "。" if lang in ("zh", "ja") else "।" if lang == "hi" else "."
     ch = [(None, f"{c['title']}{stop} {c['what']} {c['why']}", main, None)]
     if c["tell_doctor"]:
         ch.append((s["tell"], f"{s['tell']}{':' if lang not in ('zh','ja') else '：'} " + sent(c["tell_doctor"], stop), "b_questionnaire", None))

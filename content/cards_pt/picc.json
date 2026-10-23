@@ -1,0 +1,79 @@
+{
+ "title": "Colocação de cateter PICC",
+ "also": [
+  "PICC",
+  "cateter PICC",
+  "cateter central de inserção periférica",
+  "cateter longo no braço"
+ ],
+ "what": "Por uma veia do braço, colocam um cateter longo e fino, cuja ponta chega a uma veia grande perto do coração. Ele pode ficar semanas ou meses.",
+ "why": "Para tratamentos longos pela veia: quimioterapia, antibióticos, alimentação, exames de sangue frequentes.",
+ "duration": "a colocação leva normalmente 30 a 60 minutos; o cateter fica o tempo que o tratamento precisar",
+ "tell_doctor": [
+  "Remédios que afinam o sangue",
+  "Alergia a anestesia local, antissépticos ou esparadrapo",
+  "Cirurgias no peito ou na axila, gânglios retirados de um lado",
+  "Trombose nas veias dos braços no passado",
+  "Doenças dos rins. Às vezes isso influencia a escolha do braço"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente pode comer como sempre. Confirme com a clínica."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare por conta própria. Sobre os remédios para o sangue, o médico diz."
+  },
+  {
+   "title": "Roupa",
+   "text": "Com manga larga ou de botões."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Documento de identidade",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Você se deita, e o braço fica afastado do corpo",
+  "A veia é localizada no ultrassom",
+  "A pele é limpa e anestesiada com uma injeção",
+  "O médico ou a enfermeira coloca o cateter na veia e empurra até perto do coração",
+  "A posição da ponta é conferida pelo ECG ou por raio-X",
+  "O cateter é fixado na pele e coberto com um curativo transparente"
+ ],
+ "feel": [
+  "A picada da anestesia",
+  "Pressão no braço durante a colocação, normalmente sem dor",
+  "Por uns dois dias o braço pode doer um pouco"
+ ],
+ "after": [
+  "O curativo é trocado normalmente uma vez por semana e o cateter é lavado, na clínica ou por enfermeira em casa",
+  "O curativo não pode molhar: no chuveiro, cubra o braço com plástico",
+  "Não levante peso com esse braço e não nade",
+  "Pressão e exames de sangue nesse braço só conforme as regras da clínica"
+ ],
+ "red_flags": [
+  "Inchaço, dor ou vermelhidão no braço, no pescoço ou no rosto",
+  "Febre, calafrios: ligue para o médico na hora",
+  "O cateter escorregou para fora, quebrou ou está vazando",
+  "Falta de ar de repente ou dor no peito: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Dá para levar a vida normal com o PICC?",
+   "a": "Quase. Não pode molhar o curativo, nadar nem levantar peso com esse braço."
+  },
+  {
+   "q": "Tirar dói?",
+   "a": "Normalmente não. O cateter é só puxado para fora, leva um minuto."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a colocação do cateter PICC. Vá com roupa de manga larga e leve a lista de remédios."
+  }
+ ]
+}

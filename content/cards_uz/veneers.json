@@ -1,0 +1,74 @@
+{
+ "title": "Vinirlar",
+ "also": [
+  "vinirlar",
+  "tishga qoplamalar",
+  "keramik vinirlar",
+  "kompozit vinirlar"
+ ],
+ "what": "Vinirlar — tishlarning old tomoniga qo‘yiladigan yupqa qoplamalar. Ular tishlarning rangi va shaklini o‘zgartiradi.",
+ "why": "Old tishlarning rangi, shakli yoki kichik notekisliklarini o‘zgartirmoqchi bo‘lganda, oqartirish yordam bermasa.",
+ "duration": "odatda 1–3 haftada 2–3 tashrif; bir tashrif odatda 1–2 soat",
+ "tell_doctor": [
+  "Tunda tishlarni g‘ijirlatasizmi",
+  "Tishlar yoki milk og‘riydimi",
+  "Allergiyalar",
+  "Qanday natija xohlaysiz — rasm ko‘rsating"
+ ],
+ "prepare": [
+  {
+   "title": "Davolash",
+   "text": "Avval kariyes va milkni davolash va tozalatish kerak."
+  },
+  {
+   "title": "Rang",
+   "text": "Boshqa tishlarni oqartirmoqchi bo‘lsangiz, buni vinirlardan oldin qiling — ularning rangi keyin o‘zgarmaydi."
+  },
+  {
+   "title": "Istaklar",
+   "text": "O‘zingizga yoqqan tabassum rasmini oling."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Bo‘lsa, istalgan tabassum rasmi"
+ ],
+ "steps": [
+  "Shifokor tishlarni ko‘radi va shakl hamda rangni muhokama qiladi",
+  "Ko‘pincha avval vaqtinchalik materialdan kelajakdagi tishlarning namunasi qilinadi",
+  "Og‘riqsizlantirish ostida tishlardan emalning yupqa qatlami olinadi — har doim emas",
+  "Qolip olinadi yoki skaner qilinadi, vaqtincha qoplamalar qo‘yiladi",
+  "Keyingi tashrifda tayyor vinirlar yopishtiriladi",
+  "Tishlov tekshiriladi"
+ ],
+ "feel": [
+  "Og‘riqsizlantirish ostida og‘rimaydi",
+  "Dastlab tishlar odatiy bo‘lmaydi, til ularni seziladi",
+  "Bir necha kun sovuqqa sezgirlik bo‘lishi mumkin"
+ ],
+ "after": [
+  "Qattiq narsalarni tishlamang: yong‘oq, danak, muz, ruchka",
+  "Tishlarni odatdagidek tozalang va ip ishlating",
+  "Tunda tishlaringizni g‘ijirlatsangiz, shifokor tungi kapa taklif qiladi",
+  "Ko‘rik 6 oyda bir marta"
+ ],
+ "red_flags": [
+  "Vinir sinsa yoki ko‘chib tushsa — uni saqlang va shifokorga yoziling"
+ ],
+ "faq": [
+  {
+   "q": "Vinirlar qancha xizmat qiladi?",
+   "a": "Ehtiyot qilinsa, odatda ko‘p yillar. Muddat materialga bog‘liq — shifokordan so‘rang."
+  },
+  {
+   "q": "Tishlarni yo‘nish kerakmi?",
+   "a": "Ko‘pincha emal biroz olinadi. Ba’zan vinirlar deyarli yo‘nmasdan qo‘yiladi — sizning holatda mumkinmi, shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga vinirlar bo‘yicha tashrif. Bo‘lsa, yoqqan tabassum rasmini oling."
+  }
+ ]
+}

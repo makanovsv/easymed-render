@@ -1,0 +1,84 @@
+{
+ "title": "Alimentación por sonda y gastrostomía en casa",
+ "also": [
+  "alimentación por sonda",
+  "alimentación por gastrostomía",
+  "nutrición por sonda",
+  "gastrostomía",
+  "sonda nasogástrica"
+ ],
+ "what": "Si la persona no puede comer por la boca, el alimento se da por un tubo delgado: por la nariz hasta el estómago o directo al estómago a través del abdomen. En casa lo hacen los familiares.",
+ "why": "Con problemas para tragar después de un derrame cerebral, con enfermedades de la garganta y del esófago y en otras situaciones en que el médico indicó esta alimentación.",
+ "duration": "cada comida suele durar de 20 a 40 minutos, o varias horas despacio con una bomba",
+ "tell_doctor": [
+  "Si hay vómito, hinchazón, diarrea o estreñimiento",
+  "Si la piel alrededor de la gastrostomía está roja, húmeda o duele",
+  "Si la sonda se movió o se ve más corta por fuera",
+  "Si la persona tose durante la alimentación"
+ ],
+ "prepare": [
+  {
+   "title": "Fórmula",
+   "text": "Qué fórmula, cuánta y cada cuánto lo indica el médico. No la cambies por tu cuenta."
+  },
+  {
+   "title": "Temperatura",
+   "text": "La fórmula se da a temperatura ambiente, ni fría ni caliente."
+  },
+  {
+   "title": "Posición",
+   "text": "Levanta la cabeza y el pecho de la persona: sentada o semisentada."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No todas las pastillas se pueden dar por la sonda. Pregunta al médico o al farmacéutico cuáles se pueden triturar."
+  }
+ ],
+ "bring": [
+  "La fórmula y la jeringa de alimentación",
+  "Agua hervida para enjuagar",
+  "El resumen de alta con el esquema de alimentación indicado",
+  "Una sonda de repuesto o un adaptador, si te lo dieron"
+ ],
+ "steps": [
+  "Lávate las manos y prepara la fórmula",
+  "Sienta a la persona o levanta la cabecera",
+  "Comprueba que la sonda esté en su lugar, con la marca del tubo",
+  "Enjuaga la sonda con un poco de agua",
+  "Da la fórmula despacio, con jeringa o con bomba",
+  "Después de la comida vuelve a enjuagar la sonda con agua",
+  "Deja a la persona semisentada al menos 30 minutos más"
+ ],
+ "feel": [
+  "A la persona puede resultarle raro y a veces siente pesadez",
+  "Si se da muy rápido, causa náuseas e hinchazón"
+ ],
+ "after": [
+  "Cuida la boca, aunque la persona no coma por la boca",
+  "Lava y seca todos los días la piel alrededor de la gastrostomía",
+  "Lleva un registro: cuánto se dio, evacuaciones, peso",
+  "Ve con regularidad al médico o a la enfermera"
+ ],
+ "red_flags": [
+  "Tos, ahogo o silbidos durante la alimentación: detén la alimentación; si no pasa, llama a emergencias",
+  "Se salió la gastrostomía: tapa la abertura con una gasa limpia y ve al médico de inmediato, porque se cierra rápido",
+  "Vómito con sangre o como café molido, dolor fuerte de abdomen: llama a emergencias",
+  "Fiebre o pus alrededor del estoma"
+ ],
+ "faq": [
+  {
+   "q": "¿Qué hago si la sonda se tapó?",
+   "a": "Intenta enjuagarla con agua tibia y la jeringa, sin presionar fuerte. No la destapes con alambre. Si no sale, llama al médico."
+  },
+  {
+   "q": "¿Puedo darle comida por la boca?",
+   "a": "Solo si el médico lo permitió después de revisar la deglución. Si no, la comida puede pasar a los pulmones."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Pronto es la hora de la alimentación. Fórmula a temperatura ambiente, la persona semisentada, y enjuaga la sonda antes y después."
+  }
+ ]
+}

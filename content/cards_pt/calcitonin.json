@@ -1,0 +1,78 @@
+{
+ "title": "Calcitonina e tireoglobulina",
+ "also": [
+  "calcitonina",
+  "tireoglobulina",
+  "Tg",
+  "marcadores tumorais da tireoide"
+ ],
+ "what": "É um exame de sangue de duas substâncias produzidas pela tireoide. Com elas, o médico acompanha nódulos e o estado depois do tratamento.",
+ "why": "Calcitonina: com nódulos na tireoide e para examinar parentes, se na família houve um tipo especial de câncer de tireoide. Tireoglobulina: para acompanhar depois da retirada da tireoide.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em 1 a 5 dias",
+ "tell_doctor": [
+  "Se a tireoide foi retirada ou tratada com iodo radioativo",
+  "Se você fez punção da tireoide há pouco tempo. Depois dela a tireoglobulina pode subir por um tempo",
+  "Quais hormônios e remédios você toma",
+  "Se você toma vitaminas ou suplementos com biotina. Ela pode alterar o resultado",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente o sangue é colhido de manhã, em jejum: 8 a 12 horas sem comer. Água pura pode. Confirme com o laboratório."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Nas 24 horas antes, sem álcool e sem treino pesado. De manhã, é melhor não fumar."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare nada por conta própria. Diga ao médico o que você toma. Ele decide se é preciso mudar algo antes do exame."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Resultados anteriores desses exames. É importante comparar",
+  "Laudos de ultrassom e o relatório de alta da cirurgia, se tiver"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Depois do exame você pode comer",
+  "É melhor repetir no mesmo laboratório. Assim fica mais fácil comparar os resultados"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho"
+ ],
+ "faq": [
+  {
+   "q": "Por que junto com a tireoglobulina medem os anticorpos contra ela?",
+   "a": "Os anticorpos podem atrapalhar a medida exata da tireoglobulina. O médico precisa dos dois resultados."
+  },
+  {
+   "q": "Calcitonina alta é câncer?",
+   "a": "Não necessariamente. Ela pode subir por outros motivos. O médico decide se é preciso investigar mais."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de calcitonina e tireoglobulina. Depois do jantar não coma mais. Água pode."
+  }
+ ]
+}

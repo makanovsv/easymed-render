@@ -1,0 +1,76 @@
+{
+ "title": "Lazerli epilyatsiya",
+ "also": [
+  "lazerli epilyatsiya",
+  "tukni lazer bilan olib tashlash",
+  "lazer bilan epilyatsiya",
+  "tuk uchun lazer"
+ ],
+ "what": "Lazer tuk ildizlarini isitib, ularga zarar yetkazadi. Tuklar asta-sekin to‘kiladi va keyin kamroq o‘sadi.",
+ "why": "Tanadagi yoki yuzdagi ortiqcha tuklarni uzoq muddatga olib tashlash istagida.",
+ "duration": "bitta muolaja hududga qarab odatda 10 daqiqadan bir soatgacha; kurs odatda 6–10 muolaja",
+ "tell_doctor": [
+  "Yaqinda quyoshda toblangan bo‘lsangiz",
+  "Homiladorlik",
+  "Quyoshga sezgirlikni oshiradigan dorilar",
+  "Lab atrofi ishlansa, uchuq",
+  "Pigment dog‘lari va chandiqlarga moyilligingiz"
+ ],
+ "prepare": [
+  {
+   "title": "Qirish",
+   "text": "Odatda muolajadan 1–2 kun oldin tuklar qirib qo‘yiladi. Yulish va mum bilan epilyatsiya qilish mumkin emas — ildiz qolishi kerak."
+  },
+  {
+   "title": "Quyosh",
+   "text": "Muolajadan 2 hafta oldin quyoshda toblanmang va o‘z-o‘zidan qoraytiruvchi vosita ishlatmang."
+  },
+  {
+   "title": "Teri",
+   "text": "Muolaja kuni hududga krem va dezodorant surtmang."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Quyoshdan himoya kremi",
+  "Qulay kiyim"
+ ],
+ "steps": [
+  "Usta teri va tuklarni ko‘zdan kechiradi",
+  "Siz himoya ko‘zoynagi taqasiz",
+  "Ba’zan sovituvchi gel surtiladi",
+  "Lazer hududni qism-qism yurib chiqadi",
+  "Teri sovitiladi va tinchlantiruvchi vosita surtiladi"
+ ],
+ "feel": [
+  "Teriga rezinka bilan chertishdek yoki issiqlik hissi",
+  "Sezgir joylarda yoqimsizroq bo‘lishi mumkin",
+  "Keyin — tuklar atrofida qizarish va yengil shish, bir necha soatga"
+ ],
+ "after": [
+  "Bir necha kun quyoshda toblanmang va quyoshdan himoya kremini suring",
+  "1–2 kun hammom, sauna va basseynga bormang",
+  "1–3 haftadan keyin ishlangan tuklar to‘kila boshlaydi — bu normal",
+  "Keyingi muolaja — usta aytadigan muddatdan keyin"
+ ],
+ "red_flags": [
+  "Pufakchalar, kuchli og‘riq, kuyish",
+  "Terida o‘tmaydigan dog‘lar"
+ ],
+ "faq": [
+  {
+   "q": "Tuklar butunlay ketadimi?",
+   "a": "Odatda ular sezilarli kamayadi, ingichka va och rangli bo‘ladi. Ba’zan yilda bir marta qo‘llab-quvvatlovchi muolaja kerak bo‘ladi."
+  },
+  {
+   "q": "Nega shuncha muolaja kerak?",
+   "a": "Lazer faqat hozir o‘sib turgan tuklarga ta’sir qiladi. Qolganlari hali «uxlab» yotibdi, ularni keyingi safar ishlashadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga lazerli epilyatsiya. Hududdagi tuklarni qirib qo‘ying, quyoshda toblanmang va krem surtmang."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Eye measurement before cataract surgery (biometry)",
+ "also": [
+  "eye biometry",
+  "IOL calculation",
+  "lens power calculation",
+  "eye length measurement"
+ ],
+ "what": "A machine measures the length of your eye and the curve of your cornea. These numbers are used to choose the artificial lens for surgery.",
+ "why": "Before cataract surgery, and sometimes before other lens surgery.",
+ "duration": "usually 10 to 20 minutes; results right away",
+ "tell_doctor": [
+  "If you wear contact lenses",
+  "If you had laser vision correction or other eye surgery",
+  "What vision matters most to you after surgery: far or near",
+  "If you have dry eyes"
+ ],
+ "prepare": [
+  {
+   "title": "Contact lenses",
+   "text": "Contact lenses are usually stopped a few days before. The clinic will tell you how long."
+  },
+  {
+   "title": "Makeup",
+   "text": "Come without eye makeup."
+  },
+  {
+   "title": "Getting home",
+   "text": "If your pupils will be widened, it is better not to drive afterward."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your glasses",
+  "Notes from past eye surgery, if any",
+  "Someone to go with you, if you will have drops"
+ ],
+ "steps": [
+  "You sit at the machine with your chin on the stand",
+  "You look at a light",
+  "The machine measures each eye with light, without touching it",
+  "Sometimes ultrasound is used after numbing drops",
+  "The doctor calculates the lens power"
+ ],
+ "feel": [
+  "It does not hurt",
+  "The light is bright, and you need to look without blinking for a few seconds"
+ ],
+ "after": [
+  "If you had drops, do not rub your eyes",
+  "The result is used to choose your lens",
+  "The surgery date is usually set at your visit"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Why measure if the surgery is standard?",
+   "a": "Every eye is different. An accurate calculation decides how you will see after surgery."
+  },
+  {
+   "q": "Can I choose a lens so I can read without glasses?",
+   "a": "Talk to your surgeon. There are different options, and the doctor will suggest the right one."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Eye measurement tomorrow. Take out contact lenses if the clinic told you to. No makeup."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "title": "Bioimpedância: análise da composição corporal",
+ "also": [
+  "bioimpedância",
+  "composição corporal",
+  "exame de bioimpedância",
+  "medir gordura e músculo"
+ ],
+ "what": "Uma corrente bem fraca, que você não sente, passa pelo corpo. O aparelho calcula quanto há de gordura, músculo e água no corpo.",
+ "why": "Para ajustar a alimentação e o emagrecimento, acompanhar o peso e, em algumas doenças, por pedido do médico.",
+ "duration": "normalmente 5 a 10 minutos, o resultado sai na hora",
+ "tell_doctor": [
+  "Se você tem marca-passo ou outro aparelho implantado. Normalmente o teste não é feito",
+  "Se você está grávida",
+  "Se tem próteses de metal"
+ ],
+ "prepare": [
+  {
+   "title": "Comida e água",
+   "text": "Normalmente, nas 2 a 4 horas antes do teste, não coma e não beba muito. Confirme com a clínica."
+  },
+  {
+   "title": "Na véspera",
+   "text": "Sem álcool e sem treino pesado."
+  },
+  {
+   "title": "Banheiro",
+   "text": "Antes da medida, vá ao banheiro."
+  },
+  {
+   "title": "Joias",
+   "text": "Tire joias de metal e o relógio."
+  }
+ ],
+ "bring": [
+  "Pedido médico, se tiver",
+  "Roupa confortável"
+ ],
+ "steps": [
+  "Você é pesado e medem a sua altura",
+  "Você se deita na maca ou sobe na balança de bioimpedância",
+  "Colam eletrodos na mão e no pé, ou você segura as alças com as mãos",
+  "Fica alguns minutos parado, deitado ou de pé",
+  "O aparelho dá o resultado"
+ ],
+ "feel": [
+  "Não se sente nada. A corrente é muito fraca",
+  "Os eletrodos podem parecer gelados na pele"
+ ],
+ "after": [
+  "A impressão é entregue na hora",
+  "É melhor repetir as medidas no mesmo horário do dia e nas mesmas condições",
+  "Converse sobre o resultado com o médico"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "É exato?",
+   "a": "É uma boa estimativa, mas o resultado muda com a comida, a água e a hora do dia. Compare medidas feitas nas mesmas condições."
+  },
+  {
+   "q": "Pode fazer com marca-passo?",
+   "a": "Normalmente não. Avise antes, sem falta."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Daqui a pouco é a análise da composição corporal. Nas 2 a 4 horas antes, não coma e não beba muito. Tire as joias."
+  }
+ ]
+}

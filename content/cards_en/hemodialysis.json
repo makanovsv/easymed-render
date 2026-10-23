@@ -1,0 +1,79 @@
+{
+ "title": "Hemodialysis",
+ "also": [
+  "dialysis",
+  "hemodialysis",
+  "artificial kidney",
+  "kidney machine"
+ ],
+ "what": "A machine cleans your blood when your kidneys cannot. Blood passes through a filter and returns to your body.",
+ "why": "For severe kidney failure - usually ongoing, several times a week.",
+ "duration": "one session usually takes about 4 hours, usually 3 times a week",
+ "tell_doctor": [
+  "All your medicines - some are given after the session",
+  "How you felt after the last session",
+  "If your weight has changed, or you have swelling or shortness of breath",
+  "If your fistula hurts, is swollen or has lost its \"buzz\""
+ ],
+ "prepare": [
+  {
+   "title": "Weight",
+   "text": "Weigh yourself every day. Between sessions, watch how much you drink."
+  },
+  {
+   "title": "Drinking and eating",
+   "text": "Your doctor will set limits on water, salt, potassium and phosphorus. Do not change them on your own."
+  },
+  {
+   "title": "Fistula",
+   "text": "On the arm with the fistula: no tight clothes, watches, blood pressure cuffs or needle sticks. Check the buzz and thrill every day."
+  }
+ ],
+ "bring": [
+  "A list of your medicines",
+  "Notes of your weight and blood pressure",
+  "A blanket, a book or headphones",
+  "A snack, if allowed"
+ ],
+ "steps": [
+  "You are weighed and your blood pressure is measured",
+  "The nurse cleans your arm and places two needles in the fistula, or connects to a catheter",
+  "Blood goes into the machine, is cleaned and returns to you",
+  "You lie or sit for several hours",
+  "The nurse watches your blood pressure and how you feel",
+  "At the end the needles are removed and the spots are pressed"
+ ],
+ "feel": [
+  "A needle prick in the fistula",
+  "During the session you may get cramps, weakness or dizziness - tell the nurse",
+  "Afterwards you are often tired"
+ ],
+ "after": [
+  "Press on the needle spots until they stop bleeding",
+  "Get up slowly - you may feel dizzy",
+  "Follow your diet and the limit on water",
+  "Do not skip sessions"
+ ],
+ "red_flags": [
+  "Bleeding from the fistula that does not stop - press on it and call your local emergency number",
+  "Severe shortness of breath or chest pain - call your local emergency number",
+  "The fistula has stopped buzzing and thrilling - call the dialysis unit right away",
+  "Fever, chills, or redness at the access site"
+ ],
+ "faq": [
+  {
+   "q": "Can I skip a session?",
+   "a": "No. Skipping is dangerous: potassium and fluid build up in the blood. If something stops you, call the unit right away."
+  },
+  {
+   "q": "Can I travel?",
+   "a": "Yes, if you arrange dialysis in the other city in advance. Talk about it with the unit."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Dialysis tomorrow. Weigh yourself in the morning, and take your list of medicines and a blanket."
+  }
+ ]
+}

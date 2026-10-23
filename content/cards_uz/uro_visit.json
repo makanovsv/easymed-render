@@ -1,0 +1,71 @@
+{
+ "title": "Urolog ko‘rigi",
+ "also": [
+  "urolog qabuli",
+  "urolog maslahati",
+  "prostata ko‘rigi"
+ ],
+ "what": "Shifokor shikoyatlaringiz haqida so‘raydi, siydik-jinsiy a’zolarni ko‘radi va kerak bo‘lsa, tahlillar va UZI buyuradi.",
+ "why": "Tez-tez yoki og‘riqli siyishda, siydikda qon, bel yoki chov og‘rig‘ida, potensiya muammolarida. Erkaklarga 45–50 yoshdan keyin — profilaktika uchun.",
+ "duration": "odatda 20–30 daqiqa",
+ "tell_doctor": [
+  "Qanday dorilar ichayotganingizni, ayniqsa qonni suyultiruvchilarni",
+  "Toshlar, operatsiyalar, infeksiyalar bo‘lganmi",
+  "Kunduz va tunda qanchalik tez-tez siyishingizni",
+  "PSA natijalari, agar topshirgan bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Gigiyena",
+   "text": "Bir kun oldin yoki ertalab oddiy dush."
+  },
+  {
+   "title": "Siydik pufagi",
+   "text": "Siydik pufagi UZIsi yoki siydik tahlili bo‘lsa, siydik pufagi o‘rtacha to‘la holda keling. Klinikadan so‘rang."
+  },
+  {
+   "title": "PSA tahlili",
+   "text": "PSA topshirish kerak bo‘lsa, qon odatda prostata ko‘rigidan oldin topshiriladi. Tahlildan 2 kun oldin eyakulyatsiyasiz va velosipedda yurmasdan."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Siydik va qonning yangi tahlillari, PSA",
+  "UZI xulosalari va oldingi epikrizlar",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor shikoyatlaringiz haqida so‘raydi",
+  "Qorin, bel va tashqi jinsiy a’zolarni ko‘radi va paypaslaydi",
+  "Erkaklarda odatda prostata to‘g‘ri ichak orqali barmoq bilan tekshiriladi",
+  "Ayollar kresloda ko‘riladi, ginekolog ko‘rigiga o‘xshash",
+  "Ba’zan darrov UZI qilinadi",
+  "Shifokor qanday tahlillar va tekshiruvlar kerakligini tushuntiradi"
+ ],
+ "feel": [
+  "Prostata ko‘rigi — bir necha soniya yoqimsiz bosim, lekin odatda og‘riqsiz",
+  "Siygingiz kelishi mumkin — bu normal",
+  "Tekis, xotirjam nafas olish bo‘shashishga yordam beradi"
+ ],
+ "after": [
+  "Darrov o‘z ishlaringizga qaytsa bo‘ladi",
+  "Tahlil natijalari odatda 1–3 kunda tayyor bo‘ladi"
+ ],
+ "red_flags": [
+  "Siya olmasangiz, qorin shishib turgan bo‘lsa",
+  "Titroq va belda og‘riq bilan harorat",
+  "Siydikda qon va laxtalar bo‘lsa",
+  "Moyakda to‘satdan kuchli og‘riq bo‘lsa — darrov tez yordamni chaqiring (103), gap soatlar haqida ketyapti"
+ ],
+ "faq": [
+  {
+   "q": "Prostatani tekshirish og‘riqlimi?",
+   "a": "Odatda yo‘q. Bu bir necha soniya yoqimsiz bosim. Ko‘rik oddiy, lekin juda foydali."
+  },
+  {
+   "q": "Hech narsa og‘rimasa ham urologga borish kerakmi?",
+   "a": "45–50 yoshdan keyingi erkaklarga odatda yiliga bir marta profilaktik ko‘rik maslahat beriladi: prostataning ko‘p kasalliklari uzoq vaqt hech narsa bilan o‘zini bildirmaydi."
+  }
+ ],
+ "reminders": []
+}

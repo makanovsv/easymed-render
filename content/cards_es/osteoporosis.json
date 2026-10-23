@@ -1,0 +1,77 @@
+{
+ "title": "Estudio y tratamiento de la osteoporosis",
+ "also": [
+  "osteoporosis",
+  "huesos frágiles",
+  "revisión de la densidad de los huesos",
+  "densitometría y tratamiento"
+ ],
+ "what": "El médico revisa qué tan fuertes son tus huesos y, si hace falta, receta un tratamiento para reducir el riesgo de fracturas.",
+ "why": "A las mujeres después de la menopausia, a personas de más de 65 años, después de una fractura por un golpe leve, con un uso prolongado de hormonas.",
+ "duration": "la consulta normalmente dura de 20 a 30 minutos, la densitometría cerca de 10 a 20 minutos; el resultado normalmente sale el mismo día",
+ "tell_doctor": [
+  "Si has tenido fracturas por caídas desde tu propia altura",
+  "Fracturas de cadera en tus padres",
+  "Si tomas hormonas, medicamentos para las convulsiones y otros medicamentos permanentes",
+  "Cuándo llegó la menopausia",
+  "Si disminuyó tu estatura"
+ ],
+ "prepare": [
+  {
+   "title": "Densitometría",
+   "text": "Antes del estudio de la densidad de los huesos normalmente no se toma calcio durante un día. Confírmalo en la clínica."
+  },
+  {
+   "title": "Ropa",
+   "text": "Sin cierres, hebillas ni cremalleras de metal."
+  },
+  {
+   "title": "Documentos",
+   "text": "Lleva imágenes y densitometrías anteriores: se comparan."
+  }
+ ],
+ "bring": [
+  "Identificación",
+  "Resultados de densitometrías anteriores",
+  "La lista de medicamentos y suplementos",
+  "Análisis de sangre, si te los hiciste"
+ ],
+ "steps": [
+  "El médico te pregunta sobre fracturas, enfermedades y medicamentos",
+  "Mide la estatura y el peso",
+  "Te manda a una densitometría, una radiografía especial y rápida de los huesos",
+  "Puede pedir análisis de sangre",
+  "Explica el resultado y el riesgo de fracturas",
+  "Receta el tratamiento y da consejos de alimentación y movimiento"
+ ],
+ "feel": [
+  "La densitometría no duele, solo hay que estar inmóvil",
+  "La dosis de radiación en ella es muy pequeña"
+ ],
+ "after": [
+  "El tratamiento normalmente es largo: varios años",
+  "No suspendas los medicamentos por tu cuenta",
+  "La densitometría de control normalmente se hace a 1 o 2 años",
+  "Es importante cuidarte de las caídas en casa"
+ ],
+ "red_flags": [
+  "Dolor fuerte de espalda después de un esfuerzo pequeño o una caída: acude al médico",
+  "Dolor fuerte en la cadera, no puedes levantarte después de una caída: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿La osteoporosis duele?",
+   "a": "Por sí sola normalmente no. Muchas veces se descubre solo después de una fractura."
+  },
+  {
+   "q": "¿Basta con el calcio de las pastillas?",
+   "a": "Hacen falta calcio, vitamina D y movimiento. El médico elegirá la dosis."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta por osteoporosis. Lleva las densitometrías anteriores y la lista de medicamentos."
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "title": "Implante de válvula aórtica por cateter (TAVI)",
+ "also": [
+  "TAVI",
+  "TAVR",
+  "troca de válvula sem cortar o peito",
+  "implante transcateter de válvula aórtica"
+ ],
+ "what": "Uma válvula aórtica nova é levada até o coração por um vaso da virilha e aberta dentro da válvula antiga. O peito não é aberto.",
+ "why": "Para estreitamento grave da válvula aórtica, principalmente quando a cirurgia aberta tem risco alto demais.",
+ "duration": "o procedimento leva normalmente de 1 a 2 horas; a internação, alguns dias",
+ "tell_doctor": [
+  "Todos os remédios, principalmente os que afinam o sangue: o médico diz o que suspender e quando",
+  "Alergias, principalmente a iodo e contraste",
+  "Doenças dos rins e diabetes",
+  "Se você pode estar grávida",
+  "Doenças do pulmão e AVCs anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Exames",
+   "text": "Exames de sangue, eletrocardiograma e, às vezes, avaliação clínica. A clínica passa a lista."
+  },
+  {
+   "title": "Contraste",
+   "text": "Se você tem doença nos rins, avise antes. O médico pode pedir um exame e orientar a beber água antes e depois."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente não se come desde a noite anterior e não se bebe algumas horas antes. A clínica vai dizer o horário exato."
+  },
+  {
+   "title": "Exames do coração",
+   "text": "Normalmente são necessários tomografia do coração e dos vasos e ecocardiograma. A clínica passa o plano."
+  },
+  {
+   "title": "Anestesista",
+   "text": "Antes da cirurgia, o anestesista vai conversar com você. Conte sobre a sua saúde e os seus remédios."
+  }
+ ],
+ "bring": [
+  "Pedido médico e resultados dos exames",
+  "Documentos",
+  "Lista de remédios",
+  "Coisas para alguns dias no hospital"
+ ],
+ "steps": [
+  "Você troca de roupa e recebe um acesso na veia",
+  "Aplicam anestesia geral ou sedação com anestesia local",
+  "Fazem um furo na artéria da virilha",
+  "Guiada por raio-X, a válvula é levada até o coração",
+  "A válvula nova é aberta dentro da antiga",
+  "Os tubos são retirados e o furo é fechado"
+ ],
+ "feel": [
+  "Depois do procedimento: fraqueza e sonolência",
+  "Pouca dor no local do furo",
+  "Muitos sentem que respiram melhor já nos primeiros dias"
+ ],
+ "after": [
+  "Normalmente pode levantar no dia seguinte",
+  "Remédios exatamente como o médico receitou",
+  "Aumente a atividade aos poucos",
+  "Ecocardiograma de controle conforme o plano do médico"
+ ],
+ "red_flags": [
+  "O local do furo inchou, sangra muito ou dói",
+  "Dor no peito, falta de ar ou desmaio: ligue para a emergência",
+  "Fraqueza no braço ou na perna, fala enrolada: ligue para a emergência",
+  "Pulso muito lento ou tontura forte"
+ ],
+ "faq": [
+  {
+   "q": "Quanto tempo dura essa válvula?",
+   "a": "Normalmente muitos anos. O cardiologista vai dizer com mais precisão, pela sua válvula e pela sua idade."
+  },
+  {
+   "q": "Posso precisar de marca-passo?",
+   "a": "Às vezes, depois do procedimento, a condução elétrica do coração é afetada, e coloca-se um marca-passo. O médico conversa sobre esse risco antes."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a troca da válvula. Documentos, exames de imagem e lista de remédios. Comida e água só até o horário que a clínica disse."
+  }
+ ]
+}

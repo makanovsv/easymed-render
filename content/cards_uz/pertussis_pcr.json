@@ -1,0 +1,79 @@
+{
+ "title": "Ko‘kyo‘talga PSR",
+ "also": [
+  "ko‘kyo‘tal",
+  "ko‘kyo‘talga surtma",
+  "PSR Bordetella pertussis",
+  "uzoq yo‘talda tahlil"
+ ],
+ "what": "Bu burun va tomoqdan surtma bo‘lib, unda ko‘kyo‘tal mikrobi qidiriladi.",
+ "why": "Uzoq xurujli yo‘talda, ayniqsa bolalarda va ko‘kyo‘tal bilan og‘rigan bemor bilan aloqadan keyin.",
+ "duration": "surtmaning o‘zi — taxminan bir daqiqa, natija odatda 1–3 kunda",
+ "tell_doctor": [
+  "Yo‘tal necha haftadan beri davom etyapti",
+  "Antibiotiklar ichilganmi va qaysilari",
+  "Ko‘kyo‘talga qarshi emlashlar bormi",
+  "Yo‘talayotgan bola yoki kattalar bilan aloqa bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Surtmadan 2–3 soat oldin yemang va ichmang. Odatda bolalardan ham shuni so‘rashadi — laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Burun va tomoq",
+   "text": "Ertalab shifokor boshqacha aytmasa, tomoqni chayqamang va burunga tomchi tomizmang."
+  },
+  {
+   "title": "Antibiotiklar",
+   "text": "Tahlilni antibiotik boshlashdan oldin topshirgan yaxshi. Allaqachon ichayotgan bo‘lsangiz — o‘zingiz tashlamang, shifokorga ayting."
+  },
+  {
+   "title": "Bola",
+   "text": "Bolaga cho‘p bilan burunga tegishlarini tushuntiring — bu tez. Uni tizzangizga oling."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Emlash sertifikati"
+ ],
+ "steps": [
+  "Bolani ota-onaning tizzasiga o‘tqazishadi, boshini ushlab turishadi",
+  "Ingichka yumshoq cho‘p burunga orqa devorigacha kiritiladi",
+  "Cho‘p bir necha soniya aylantirilib, olinadi",
+  "Ba’zan tomoqdan ikkinchi surtma olinadi",
+  "Cho‘p probirkaga solinib, laboratoriyaga yuboriladi"
+ ],
+ "feel": [
+  "Noxush, burunda qitiqlaydi, aksirgingiz kelishi mumkin",
+  "Ko‘zda yosh bo‘lishi mumkin — bu normal",
+  "Bola yig‘lashi mumkin, lekin hammasi bir necha soniya davom etadi"
+ ],
+ "after": [
+  "Darhol yeb-ichsa bo‘ladi",
+  "Natijagacha chaqaloqlar va homilador ayollar bilan aloqa qilmaslikka harakat qiling",
+  "Antibiotiklarni faqat shifokor buyuradi"
+ ],
+ "red_flags": [
+  "Yo‘tal paytida bola nafas olmay qolsa yoki ko‘karsa — tez yordamni chaqiring (103)",
+  "Chaqaloq yomon yeydi, lanj, yo‘tal qayt qilish bilan — shoshilinch shifokorga",
+  "Yuqori harorat va nafas qisilishi — o‘sha kuni shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Ko‘kyo‘talga PSR ni qachon topshirgan yaxshi?",
+   "a": "Qanchalik erta bo‘lsa, shunchalik yaxshi, odatda yo‘talning dastlabki haftalarida va antibiotiklardan oldin. Keyinroq qon tahlili yaxshiroq mos keladi."
+  },
+  {
+   "q": "Emlangandan keyin ko‘kyo‘tal bilan kasallansa bo‘ladimi?",
+   "a": "Ha, lekin odatda yengilroq. Emlashdan himoya vaqt o‘tishi bilan susayadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 3,
+   "text": "Tez orada ko‘kyo‘talga surtma. Yemang va ichmang, tomoqni chayqamang va burunga tomizmang."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "title": "HIV: carga viral e CD4",
+ "also": [
+  "carga viral do HIV",
+  "RNA do HIV",
+  "CD4",
+  "contagem de CD4",
+  "exame de imunidade"
+ ],
+ "what": "É um exame de sangue para pessoas com HIV. Mostra quanto vírus há no sangue e quantas células de defesa a imunidade tem.",
+ "why": "Para decidir como começar o tratamento e conferir com regularidade se ele está funcionando.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Se você pulou comprimidos",
+  "Se ficou doente há pouco tempo, teve febre ou tomou vacina. Isso pode mudar o resultado por um tempo",
+  "Que outros remédios e suplementos você toma",
+  "Se você está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Jejum rigoroso normalmente não é necessário, mas é melhor ir 3 a 4 horas depois de uma refeição leve, sem gordura. Confirme com o laboratório."
+  },
+  {
+   "title": "Tratamento",
+   "text": "Tome os comprimidos como sempre, no seu horário. Não pule antes do exame."
+  },
+  {
+   "title": "Como você está",
+   "text": "Se agora está gripado ou com febre, avise o médico. Talvez seja melhor adiar o exame."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Resultados anteriores",
+  "Lista de todos os remédios"
+ ],
+ "steps": [
+  "Você se senta e apoia o braço no braço da cadeira",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Continue o tratamento sem pausas",
+  "O resultado é sigilo médico. Só você ou o médico recebem"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho",
+  "Febre alta por vários dias, falta de ar forte, confusão: procure o médico com urgência ou ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O que quer dizer \"vírus indetectável\"?",
+   "a": "Que o tratamento está funcionando. Com o vírus sempre indetectável, o HIV não passa pela relação sexual. O tratamento continua mesmo assim."
+  },
+  {
+   "q": "Por que o CD4 muda de um exame para outro?",
+   "a": "Ele depende de como você está, da hora do dia e até do laboratório. O médico olha as mudanças ao longo de vários exames."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã você faz o exame de carga viral e CD4. Comprimidos como sempre, sem pular."
+  }
+ ]
+}

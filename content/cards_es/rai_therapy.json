@@ -1,0 +1,84 @@
+{
+ "title": "Tratamiento con yodo radiactivo",
+ "also": [
+  "terapia con yodo radiactivo",
+  "yodo radiactivo",
+  "tratamiento con radioyodo",
+  "cápsula de yodo radiactivo"
+ ],
+ "what": "Te tomas una cápsula o una solución con yodo radiactivo. Se acumula en la tiroides y poco a poco reduce o destruye su tejido.",
+ "why": "Cuando la tiroides trabaja de más y después de una cirugía por cáncer de tiroides.",
+ "duration": "tomar la cápsula toma unos minutos; en el área de aislamiento normalmente son varios días, según las reglas de la clínica",
+ "tell_doctor": [
+  "Embarazo o si es posible que estés embarazada: durante el embarazo no se hace el tratamiento",
+  "Si das pecho: hay que dejar de hacerlo con anticipación, el médico te dirá cuándo",
+  "Todos tus medicamentos, sobre todo las hormonas de la tiroides",
+  "Tomografías recientes con contraste: el contraste tiene yodo",
+  "Si en casa hay niños pequeños o embarazadas"
+ ],
+ "prepare": [
+  {
+   "title": "Dieta",
+   "text": "Normalmente, de 1 a 2 semanas antes del tratamiento se sigue una dieta baja en yodo: sin mariscos, algas ni sal yodada. La clínica te dará la lista exacta."
+  },
+  {
+   "title": "Hormonas",
+   "text": "No las suspendas por tu cuenta. Si hay que interrumpir las hormonas de la tiroides, el médico te dirá cuándo y cómo."
+  },
+  {
+   "title": "Análisis",
+   "text": "A las mujeres normalmente se les hace una prueba de embarazo antes del tratamiento."
+  },
+  {
+   "title": "Cosas",
+   "text": "Lleva lo mínimo: parte de las cosas conviene lavarlas aparte después."
+  }
+ ],
+ "bring": [
+  "La orden médica y los informes",
+  "Un documento de identidad",
+  "La lista de tus medicamentos",
+  "Ropa para cambiarte y cosas sencillas para unos días"
+ ],
+ "steps": [
+  "Te instalan en una habitación aparte",
+  "El médico te explica de nuevo las reglas",
+  "Te tragas la cápsula o tomas la solución con agua",
+  "Las primeras horas normalmente no puedes comer",
+  "Tomas mucha agua y vas seguido al baño, para que lo que sobra salga más rápido",
+  "Un especialista mide la radiación y, cuando baja, te dan de alta"
+ ],
+ "feel": [
+  "Tomarla no se siente",
+  "A veces boca seca, cambio en el sabor y un poco de náuseas",
+  "En los primeros días puede haber hinchazón y dolor en el cuello",
+  "El aislamiento es aburrido: lleva un libro o audífonos"
+ ],
+ "after": [
+  "Durante unos días después del alta mantén distancia de las personas, sobre todo de niños y embarazadas; el médico te dirá cuántos días",
+  "Duerme aparte y usa tus propios platos y toalla",
+  "Jala la palanca del baño varias veces y lávate bien las manos",
+  "Normalmente se pospone un embarazo el tiempo que indique el médico",
+  "Los análisis de control de las hormonas serán en unas semanas"
+ ],
+ "red_flags": [
+  "Hinchazón fuerte del cuello o dificultad para respirar o tragar: llama a emergencias",
+  "Vómito fuerte que no te deja tomar líquidos"
+ ],
+ "faq": [
+  {
+   "q": "¿Voy a ser un peligro para mi familia?",
+   "a": "Durante poco tiempo después del tratamiento sí, por eso hay reglas de distancia. El médico te dirá cuántos días seguirlas."
+  },
+  {
+   "q": "¿Puedo tomar mucha agua?",
+   "a": "Sí, incluso hace falta. El agua ayuda a que el yodo que sobra salga más rápido del cuerpo."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "En 2 días tienes el tratamiento con yodo radiactivo. Sigue la dieta baja en yodo y prepara cosas sencillas para unos días."
+  }
+ ]
+}

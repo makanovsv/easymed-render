@@ -1,0 +1,66 @@
+{
+ "title": "Revmatolog qabuli",
+ "also": [
+  "revmatolog",
+  "bo‘g‘im shifokori",
+  "artrit shifokori"
+ ],
+ "what": "Bo‘g‘imlar, umurtqa va biriktiruvchi to‘qimaning yallig‘lanish kasalliklarini davolaydigan shifokor.",
+ "why": "Bo‘g‘imlarda og‘riq, shish va qotishda, ayniqsa ertalab, yallig‘lanish tahlillari o‘zgarganda.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Qaysi bo‘g‘imlar og‘riydi va ertalabki qotish qancha davom etadi",
+  "Shish, bo‘g‘imlar qizarishi, toshma, isitma bo‘ladimi",
+  "Qanday dori qabul qilasiz, og‘riq qoldiruvchilarni ham",
+  "Qarindoshlarda bo‘g‘im kasalliklari"
+ ],
+ "prepare": [
+  {
+   "title": "Tahlillar",
+   "text": "Qon tahlillari va bo‘g‘im rasmlarini oling, agar qilingan bo‘lsa."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qo‘l va oyoq bo‘g‘imlarini oson ko‘rsatish uchun qulay kiyim."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Oldingi tahlillar, ko‘chirmalar va xulosalar",
+  "Dorilar ro‘yxati yoki qadoqlarning o‘zi"
+ ],
+ "steps": [
+  "Shifokor shikoyatlaringizni so‘raydi",
+  "Bo‘g‘imlarni ko‘radi va paypaslaydi",
+  "Ularning harakatini tekshiradi",
+  "Tahlil va rasmlarni ko‘radi",
+  "Tekshiruv yoki davo buyuradi"
+ ],
+ "feel": [
+  "Og‘riyotgan bo‘g‘imlarni paypaslash yoqimsiz bo‘lishi mumkin",
+  "Og‘riyotgan bo‘lsa, shifokorga ayting: u ehtiyotkorroq bo‘ladi"
+ ],
+ "after": [
+  "Buyurilgan tahlillarni topshiring",
+  "Davo ko‘pincha uzoq: uni o‘zingiz to‘xtatmang"
+ ],
+ "red_flags": [
+  "Yuqori harorat bilan bo‘g‘imning kuchli shishishi: o‘sha kuni shifokorga murojaat qiling"
+ ],
+ "faq": [
+  {
+   "q": "Revmatolog ortopeddan nimasi bilan farq qiladi?",
+   "a": "Revmatolog bo‘g‘imlar yallig‘lanishini dorilar bilan davolaydi, ortoped esa bo‘g‘imlar jarohati va yedirilishini, ko‘pincha jarrohlik yo‘li bilan."
+  },
+  {
+   "q": "Qanday tahlillarni olish kerak?",
+   "a": "Qilingan hammasini: umumiy qon tahlili, EChT, C-reaktiv oqsil. Keraklisini shifokor buyuradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga revmatolog qabuli. Tahlillar va bo‘g‘im rasmlarini oling."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "title": "Eliminación de tatuajes con láser",
+ "also": [
+  "borrar un tatuaje",
+  "quitar un tatuaje",
+  "láser para tatuajes",
+  "remover tatuajes",
+  "eliminación de tatuaje con láser"
+ ],
+ "what": "El láser rompe la tinta de la piel en partículas muy pequeñas y el cuerpo las va eliminando poco a poco. El tatuaje se aclara de una sesión a otra.",
+ "why": "Cuando quieres quitar o aclarar un tatuaje, o un micropigmentado de cejas o labios.",
+ "duration": "cada sesión suele durar de 10 a 30 minutos; muchas veces hacen falta varias sesiones con pausas de unas semanas",
+ "tell_doctor": [
+  "Si tomaste sol recientemente",
+  "Si has tenido cicatrices queloides",
+  "Todos tus medicamentos, sobre todo los que adelgazan la sangre y los que aumentan la sensibilidad al sol",
+  "Embarazo"
+ ],
+ "prepare": [
+  {
+   "title": "Sol",
+   "text": "No tomes sol antes del procedimiento. Pregunta en la clínica cuánto tiempo antes."
+  },
+  {
+   "title": "Piel",
+   "text": "La piel sobre el tatuaje debe estar limpia, sin cremas."
+  },
+  {
+   "title": "Anestesia",
+   "text": "A veces se pone antes una crema anestésica. Pregunta en la clínica."
+  },
+  {
+   "title": "Expectativas",
+   "text": "El médico te dirá cuántas sesiones, más o menos, necesita tu tatuaje."
+  }
+ ],
+ "bring": [
+  "Ropa cómoda para descubrir la zona del tatuaje",
+  "La lista de tus medicamentos",
+  "Protector solar"
+ ],
+ "steps": [
+  "El médico revisa el tatuaje y la piel",
+  "Te ponen lentes de protección",
+  "Enfrían la piel",
+  "El láser trata el tatuaje con destellos cortos",
+  "Vuelven a enfriar la piel",
+  "Te ponen un producto cicatrizante y un apósito"
+ ],
+ "feel": [
+  "Duele: como chasquidos de una liga o salpicaduras de aceite caliente",
+  "El enfriamiento ayuda"
+ ],
+ "after": [
+  "El enrojecimiento, la hinchazón y a veces ampollas y costras normalmente se quitan en 1 a 2 semanas",
+  "No arranques las costras",
+  "Nada de sauna ni alberca hasta que sane la piel",
+  "Usa protector solar en esa zona mientras dure el tratamiento"
+ ],
+ "red_flags": [
+  "Pus, dolor que aumenta o fiebre: ve al médico",
+  "La herida tarda mucho en sanar"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede borrar un tatuaje por completo?",
+   "a": "Muchas veces sí, pero no siempre. Los tatuajes de colores y los viejos se quitan de manera distinta. El médico te lo dirá después de revisarlo."
+  },
+  {
+   "q": "¿Quedará cicatriz?",
+   "a": "Normalmente no, si cuidas bien la piel. El riesgo es mayor con cicatrices queloides."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana te quitan el tatuaje. No tomes sol y ten la piel sin cremas."
+  }
+ ]
+}

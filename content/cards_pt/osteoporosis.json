@@ -1,0 +1,77 @@
+{
+ "title": "Avaliação e tratamento da osteoporose",
+ "also": [
+  "osteoporose",
+  "ossos fracos",
+  "densitometria óssea",
+  "exame de densidade óssea"
+ ],
+ "what": "O médico avalia o quanto seus ossos estão fortes e, se precisar, indica tratamento para diminuir o risco de fraturas.",
+ "why": "Para mulheres depois da menopausa, pessoas com mais de 65 anos, depois de fratura por trauma pequeno e em uso prolongado de corticoides.",
+ "duration": "a consulta leva normalmente de 20 a 30 minutos; a densitometria, cerca de 10 a 20 minutos; o resultado costuma sair no mesmo dia",
+ "tell_doctor": [
+  "Se já teve fratura numa queda da própria altura",
+  "Fratura de quadril nos pais",
+  "Se toma corticoides, remédios para convulsão ou outros de uso contínuo",
+  "Quando veio a menopausa",
+  "Se a sua altura diminuiu"
+ ],
+ "prepare": [
+  {
+   "title": "Densitometria",
+   "text": "Antes do exame de densidade óssea, normalmente não se toma cálcio por 24 horas. Confirme na clínica."
+  },
+  {
+   "title": "Roupa",
+   "text": "Sem botões de metal, fivelas e zíperes."
+  },
+  {
+   "title": "Documentos",
+   "text": "Leve imagens e densitometrias anteriores. Elas são comparadas."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Resultados de densitometrias anteriores",
+  "Lista de remédios e suplementos",
+  "Exames de sangue, se fez"
+ ],
+ "steps": [
+  "O médico pergunta sobre fraturas, doenças e remédios",
+  "Mede a altura e o peso",
+  "Pede densitometria, um raio-X rápido e especial dos ossos",
+  "Pode pedir exames de sangue",
+  "Explica o resultado e o risco de fratura",
+  "Indica o tratamento e dá orientações de alimentação e atividade física"
+ ],
+ "feel": [
+  "A densitometria não dói; é só ficar deitado parado",
+  "A radiação nesse exame é muito pequena"
+ ],
+ "after": [
+  "O tratamento costuma ser longo, de alguns anos",
+  "Não pare os remédios por conta própria",
+  "A nova densitometria costuma ser feita em 1 a 2 anos",
+  "É importante evitar quedas em casa"
+ ],
+ "red_flags": [
+  "Dor forte e repentina nas costas depois de um esforço pequeno ou queda: procure o médico",
+  "Dor forte no quadril, não consegue levantar depois de cair: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A osteoporose dói?",
+   "a": "Por si só, normalmente não. Muitas vezes ela só é descoberta depois de uma fratura."
+  },
+  {
+   "q": "Basta o cálcio em comprimido?",
+   "a": "São necessários cálcio, vitamina D e atividade física. O médico escolhe a dose."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta da osteoporose. Leve as densitometrias anteriores e a lista de remédios."
+  }
+ ]
+}

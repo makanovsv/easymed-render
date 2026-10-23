@@ -1,0 +1,75 @@
+{
+ "title": "Pediatric neurologist visit",
+ "also": [
+  "pediatric neurologist",
+  "neurologist for a child",
+  "child neurology visit",
+  "one-year neurologist check"
+ ],
+ "what": "The doctor checks how your child's nervous system, movement and speech are developing. The exam is calm and painless.",
+ "why": "For routine checks in the first year and before nursery or school; for delayed development, headaches, seizures, tics or poor sleep.",
+ "duration": "the visit usually takes 20 to 40 minutes, with the report right after",
+ "tell_doctor": [
+  "How the pregnancy and birth went",
+  "When your child began to hold up the head, sit, walk and talk",
+  "What exactly worries you and for how long",
+  "If there have been seizures, head injuries or fainting",
+  "Which medicines your child takes"
+ ],
+ "prepare": [
+  {
+   "title": "Observations",
+   "text": "Write down what worries you. If it happens in episodes, record a video."
+  },
+  {
+   "title": "Timing",
+   "text": "Choose a time when your child is usually alert, not hungry and not sleepy."
+  },
+  {
+   "title": "For a baby",
+   "text": "Bring a favorite toy, water and a snack."
+  }
+ ],
+ "bring": [
+  "Your child's ID and your ID",
+  "The medical record or discharge summaries",
+  "Results of earlier tests, if any",
+  "Videos of episodes or movements, if you recorded them"
+ ],
+ "steps": [
+  "The doctor asks you about development and complaints",
+  "Watches how your child moves, plays and reacts to sounds and objects",
+  "Checks reflexes with a small hammer",
+  "Assesses muscle strength and tone",
+  "Measures a baby's head size",
+  "The doctor explains the conclusion and, if needed, orders tests"
+ ],
+ "feel": [
+  "The exam is not painful - reflexes are checked with light tapping",
+  "A baby may cry at the unfamiliar place - this does not stop the doctor"
+ ],
+ "after": [
+  "The doctor gives advice or a referral for tests",
+  "Do not stop prescribed medicines on your own",
+  "Come back for a follow-up when the doctor sets it"
+ ],
+ "red_flags": [
+  "Seizures, loss of consciousness, sudden drowsiness or vomiting after a blow to the head - call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "Should we go to a neurologist if the child is healthy?",
+   "a": "Yes, routine checks in the first year are needed to notice any delay in time."
+  },
+  {
+   "q": "What if my child cries through the whole visit?",
+   "a": "It is fine. The doctor is used to it and can still examine your child."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Pediatric neurologist tomorrow. Take your child's medical record and a toy, and write down what worries you."
+  }
+ ]
+}

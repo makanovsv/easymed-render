@@ -1,0 +1,66 @@
+{
+ "title": "Prueba de visión de colores",
+ "also": [
+  "prueba de daltonismo",
+  "test de Ishihara",
+  "láminas de colores",
+  "visión de colores",
+  "daltonismo"
+ ],
+ "what": "Te muestran láminas de puntos de colores con números o figuras escondidos. Así se revisa cómo distingue colores tu ojo.",
+ "why": "Para un examen médico del trabajo, la licencia de manejo o la escuela, o si una persona confunde colores.",
+ "duration": "normalmente de 5 a 10 minutos; el resultado es inmediato",
+ "tell_doctor": [
+  "Si usas lentes o lentes de contacto",
+  "Si antes ya te encontraron problemas para ver colores",
+  "Si algún familiar tiene ese problema",
+  "Qué medicamentos tomas"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes",
+   "text": "Lleva tus lentes o lentes de contacto, si los usas para ver de cerca."
+  },
+  {
+   "title": "Descanso",
+   "text": "Llega descansado, no después de una noche sin dormir."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Tus lentes, si usas",
+  "La orden o el formato del examen médico"
+ ],
+ "steps": [
+  "Te sientan con buena luz de día",
+  "Te muestran láminas con círculos de colores",
+  "Dices el número o sigues la figura con el dedo",
+  "Normalmente revisan los dos ojos juntos y a veces cada uno por separado",
+  "El médico anota el resultado"
+ ],
+ "feel": [
+  "No duele",
+  "A veces cuesta ver algunas láminas. Es normal, contesta lo que ves"
+ ],
+ "after": [
+  "Te dicen el resultado en ese momento",
+  "Si hay algún problema, el médico te explica qué significa para tu trabajo o tu licencia"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Se pueden memorizar las láminas?",
+   "a": "No vale la pena. Hay muchas láminas y el médico nota cuando alguien hace trampa. Lo importante es un resultado honesto."
+  },
+  {
+   "q": "¿El daltonismo tiene cura?",
+   "a": "El de nacimiento no se cura, pero con él se puede llevar una vida normal."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu prueba de visión de colores. Lleva tus lentes y el formato del examen médico."
+  }
+ ]
+}

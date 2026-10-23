@@ -1,0 +1,72 @@
+{
+ "title": "Hepatitis A vaccine",
+ "also": [
+  "hepatitis A shot",
+  "hepatitis A vaccine",
+  "jaundice vaccine",
+  "liver infection vaccine"
+ ],
+ "what": "A vaccine shot that protects against hepatitis A, a liver infection spread through dirty hands, water and food. Usually 2 shots are given.",
+ "why": "For children and adults who are not vaccinated, before travel to hot countries, with liver disease, and in places with outbreaks.",
+ "duration": "the shot takes a few seconds; with the check-up usually 15 to 40 minutes; the second shot is usually 6 to 12 months later",
+ "tell_doctor": [
+  "If you are sick now or have a fever",
+  "Allergies and strong reactions to past vaccines",
+  "If you are pregnant",
+  "If you already had hepatitis A"
+ ],
+ "prepare": [
+  {
+   "title": "Health",
+   "text": "The vaccine is given when you are healthy. You will be examined before the shot."
+  },
+  {
+   "title": "Schedule",
+   "text": "The course is usually 2 shots. Write down the date of the second."
+  },
+  {
+   "title": "Clothing",
+   "text": "Comfortable clothes so the shoulder is easy to uncover."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "The vaccination certificate or record"
+ ],
+ "steps": [
+  "A doctor or nurse asks how you feel and takes your temperature",
+  "You uncover your shoulder",
+  "The skin is wiped and the shot is given",
+  "The vaccine is recorded in the documents",
+  "After the shot, sit at the clinic for about 30 minutes"
+ ],
+ "feel": [
+  "A quick shot",
+  "Sometimes the spot aches for 1 to 2 days",
+  "Sometimes weakness or a mild fever"
+ ],
+ "after": [
+  "Stay near the office for 30 minutes",
+  "You can go back to your usual activities",
+  "Do not forget the second shot"
+ ],
+ "red_flags": [
+  "Trouble breathing, swelling of the face or throat, a rash all over: call your local emergency number"
+ ],
+ "faq": [
+  {
+   "q": "If I was in contact with a sick person, will the vaccine help?",
+   "a": "Often yes, if given quickly, usually within the first 2 weeks. See a doctor urgently."
+  },
+  {
+   "q": "Does it protect against hepatitis B and C?",
+   "a": "No. There is a separate vaccine for hepatitis B, and none for C."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Hepatitis A vaccine tomorrow. Bring your vaccination record."
+  }
+ ]
+}

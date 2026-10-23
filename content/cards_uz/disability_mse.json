@@ -1,0 +1,72 @@
+{
+ "title": "Tibbiy-ijtimoiy ekspertiza (nogironlik)",
+ "also": [
+  "TIE",
+  "nogironlik",
+  "tibbiy-ijtimoiy ekspertiza",
+  "nogironlikni rasmiylashtirish"
+ ],
+ "what": "Komissiya odamda nogironlik bor-yo‘qligini va unga qanday yordam kerakligini hal qiladi. Qaror tibbiy hujjatlar va ko‘rikka asoslanadi.",
+ "why": "Kasallik yoki jarohatdan keyin ishlashga yoki o‘z-o‘ziga xizmat qilishga xalaqit beradigan doimiy sog‘liq buzilishlarida.",
+ "duration": "hujjat yig‘ish — haftalar, ekspertizaning o‘zi odatda bir soatgacha, qaror — ekspertiza kuni yoki keyinroq",
+ "tell_doctor": [
+  "Barcha kasalliklaringiz va ular hayotda qanday xalaqit berishi",
+  "Qanday dori va davo olayotganingiz",
+  "Qanday yordamchi vositalar kerak: hassa, aravacha, eshitish apparati",
+  "Ish, maishiy ishlar va harakatlanishdagi qiyinchiliklar"
+ ],
+ "prepare": [
+  {
+   "title": "Yo‘llanma",
+   "text": "Odatda ekspertizaga yo‘llanmani davolovchi shifokor kerakli tekshiruvlardan keyin rasmiylashtiradi."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Ko‘chirmalar, xulosalar va tekshiruv natijalarini yig‘ing. Qanchalik to‘liq bo‘lsa, qaror shunchalik aniq bo‘ladi."
+  },
+  {
+   "title": "Sirtdan",
+   "text": "Ba’zan ekspertiza kelmasdan, hujjatlar bo‘yicha o‘tkaziladi. Poliklinikadan aniqlab oling."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Ekspertizaga yo‘llanma",
+  "Tibbiy hujjatlar va ko‘chirmalar",
+  "Mehnat daftarchasi yoki ish joyidan ma’lumotnoma, agar so‘rashsa"
+ ],
+ "steps": [
+  "Davolovchi shifokor tekshiruvlarga yo‘llaydi",
+  "Ekspertizaga yo‘llanma rasmiylashtiradi",
+  "Komissiya hujjatlarni o‘rganadi",
+  "Yuzma-yuz ko‘rik kerak bo‘lsa — sizni chaqirishadi",
+  "Mutaxassislar suhbatlashib, ko‘rik o‘tkazadi",
+  "Komissiya qaror chiqaradi va reabilitatsiya dasturini tuzadi"
+ ],
+ "feel": [
+  "Ko‘rik og‘riqsiz",
+  "Jarayon uzoq va charchatuvchi bo‘lishi mumkin"
+ ],
+ "after": [
+  "Sizga ma’lumotnoma va reabilitatsiya dasturi beriladi",
+  "Qarorga belgilangan muddatda e’tiroz bildirish mumkin",
+  "Qayta ko‘rik sanasini kuzatib boring"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ekspertizadan uyda o‘tish mumkinmi?",
+   "a": "Odam kela olmasa — uyga chiqib yoki sirtdan ekspertiza bo‘lishi mumkin. Poliklinikadan aniqlab oling."
+  },
+  {
+   "q": "Qarorga rozi bo‘lmasam nima qilish kerak?",
+   "a": "Unga e’tiroz bildirish mumkin. Tartib va muddatlarni byuroda tushuntirishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga tibbiy-ijtimoiy ekspertiza. Barcha hujjatlar va yo‘llanma yoningizda ekanini tekshiring."
+  }
+ ]
+}

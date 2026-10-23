@@ -1,0 +1,74 @@
+{
+ "title": "Consulta com narcologista (médico de dependência química)",
+ "also": [
+  "médico de dependência química",
+  "tratamento de alcoolismo",
+  "ajuda para dependência",
+  "psiquiatra de dependência"
+ ],
+ "what": "O narcologista, como se chama na Rússia e no Cazaquistão, é o médico que ajuda na dependência de álcool, remédios e outras substâncias. Ele também faz avaliações para atestados.",
+ "why": "Para problemas com álcool ou outras substâncias, se você ou a família estão preocupados, e para exames médicos e atestados.",
+ "duration": "a consulta leva normalmente de 20 a 40 minutos",
+ "tell_doctor": [
+  "O que, com que frequência e quanto você usa, com sinceridade: isso ajuda no tratamento",
+  "Quando foi a última vez",
+  "Quais remédios você toma",
+  "Se já teve convulsões ou passou muito mal ao parar",
+  "Se tem doenças do fígado, do coração ou depressão"
+ ],
+ "prepare": [
+  {
+   "title": "Sigilo",
+   "text": "Pergunte antes na clínica sobre atendimento anônimo, se isso é importante para você."
+  },
+  {
+   "title": "Antes da consulta",
+   "text": "Vá sóbrio. Assim o médico consegue avaliar o seu estado direito."
+  },
+  {
+   "title": "Apoio",
+   "text": "Você pode ir com uma pessoa próxima."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Lista de remédios",
+  "Relatórios de internações, se teve"
+ ],
+ "steps": [
+  "O médico pergunta com calma sobre os seus hábitos e a sua saúde",
+  "Mede a pressão e o pulso e examina você",
+  "Pode propor exame de sangue ou de urina",
+  "Conversa com você sobre o que você quer alcançar",
+  "Propõe um plano de tratamento e apoio"
+ ],
+ "feel": [
+  "A consulta não dói",
+  "Falar da dependência é difícil; o médico não julga, ajuda"
+ ],
+ "after": [
+  "É melhor começar o tratamento com acompanhamento médico",
+  "Parar de repente numa dependência forte pode ser perigoso. Converse com o médico",
+  "Grupos de apoio ajudam a manter o resultado"
+ ],
+ "red_flags": [
+  "Convulsões, confusão ou visões depois de parar o álcool: ligue para a emergência",
+  "Sinais de intoxicação: sonolência forte, respiração lenta: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "O meu trabalho vai saber que fui ao narcologista?",
+   "a": "O sigilo médico é protegido por lei. Pergunte na clínica sobre atendimento anônimo."
+  },
+  {
+   "q": "Posso parar sozinho?",
+   "a": "Às vezes sim, mas numa dependência forte parar de repente é perigoso. É melhor com acompanhamento médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a consulta com o narcologista. Leve o documento e a lista de remédios."
+  }
+ ]
+}

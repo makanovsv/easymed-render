@@ -1,0 +1,77 @@
+{
+ "title": "Jag‘ bo‘g‘imi og‘rig‘ini davolash (SNJB)",
+ "also": [
+  "jag‘ bo‘g‘imi",
+  "jag‘ qars etadi",
+  "jag‘ bo‘g‘imi og‘riydi",
+  "jag‘ bo‘g‘imi disfunksiyasi"
+ ],
+ "what": "Shifokor jag‘ bo‘g‘imi nega og‘rishi yoki qars etishini aniqlaydi va davolashni tanlaydi. Ko‘pincha bu mashqlar, kapa va mushak tarangligini bo‘shatishdir.",
+ "why": "Quloq oldida og‘riq, qars etish, jag‘ qotib qolishi, og‘iz ochishda qiyinchilik, tishni qisishdan tez-tez bosh og‘rig‘i bo‘lganda.",
+ "duration": "birinchi qabul odatda 30–60 daqiqa, davolash — bir necha hafta yoki oy",
+ "tell_doctor": [
+  "Og‘riq qachon boshlanganini va nima kuchaytirishini",
+  "Tishlaringizni qisib yoki g‘ijirlatib uxlasangiz, ayniqsa tunda",
+  "Jag‘ yoki yuz jarohati bo‘lgan-bo‘lmaganini",
+  "Qanday dorilar ichayotganingizni",
+  "Yaqinda plomba, koronka yoki breket qo‘yilgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Yozuvlar",
+   "text": "Qachon og‘rishi va qars etishini yozib qo‘ying: ertalab, ovqat paytida, gapirganda."
+  },
+  {
+   "title": "Rasmlar",
+   "text": "Tish va jag‘ning oldingi rasmlari bo‘lsa, oling."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Maxsus tayyorgarlik yo‘q. Bir kun oldin qattiq va chaynaladigan ovqatdan saqlaning."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Oldingi rasmlar va epikrizlar",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor og‘riq va odatlaringiz haqida so‘raydi",
+  "Og‘izni ochib-yopishni, jag‘ni qimirlatishni so‘raydi",
+  "Yuz mushaklari va quloq oldi sohasini paypaslaydi",
+  "Bo‘g‘imdagi qars etishni tinglaydi",
+  "Kerak bo‘lsa, bo‘g‘imning rasmi, KT yoki MRT buyuradi",
+  "Rejani tushuntiradi: mashqlar, kapa, dorilar yoki fizioterapiya"
+ ],
+ "feel": [
+  "Mushaklar tarang bo‘lsa, paypaslash yoqimsiz bo‘lishi mumkin",
+  "Ko‘rikning o‘zi odatda og‘riqsiz"
+ ],
+ "after": [
+  "Uyda — yumshoq ovqat va shifokor ko‘rsatgan mashqlar",
+  "Kapa odatda bir necha kunda tayyorlanadi",
+  "Saqich chaynamang va og‘izni juda keng ochmang",
+  "Yaxshilanish odatda asta-sekin bo‘ladi — nazoratga keling"
+ ],
+ "red_flags": [
+  "Jag‘ qotib qolib, og‘iz yopilmasa — shoshilinch shifokorga",
+  "Yuzda shish va harorat",
+  "Jag‘ga urilgandan keyin keskin og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Jag‘dagi qars etish o‘zi o‘tib ketadimi?",
+   "a": "Ba’zan ha. Og‘riqsiz qars etsa, ko‘pincha kuzatishning o‘zi yetadi. Og‘risa, shifokorga ko‘rsatgan ma’qul."
+  },
+  {
+   "q": "Kapa nega kerak?",
+   "a": "U tishlarni qisishdan himoya qiladi va bo‘g‘imni yengillashtiradi, ayniqsa tunda."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga jag‘ bo‘g‘imi bo‘yicha qabul. Oldingi rasmlarni oling va qachon og‘rishini yozib qo‘ying."
+  }
+ ]
+}

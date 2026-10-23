@@ -1,0 +1,77 @@
+{
+ "title": "Implantable loop recorder",
+ "also": [
+  "loop recorder",
+  "implantable cardiac monitor",
+  "insertable heart monitor",
+  "ILR"
+ ],
+ "what": "A small device about the size of a USB stick is placed under the skin of your chest. It records your heart rhythm for years.",
+ "why": "For rare fainting spells or skipped beats that cannot be caught on a regular ECG or a 24-hour monitor.",
+ "duration": "the procedure usually takes 15 to 30 minutes; the device usually works for up to several years",
+ "tell_doctor": [
+  "Your medicines, especially blood thinners",
+  "Allergies, including to numbing medicine",
+  "How often your episodes happen and what they are like",
+  "Bleeding disorders"
+ ],
+ "prepare": [
+  {
+   "title": "Food",
+   "text": "A light breakfast is usually fine. Ask the clinic."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not stop them on your own. The doctor will tell you what to take on the day."
+  },
+  {
+   "title": "Clothes",
+   "text": "Wear comfortable clothes that do not press on your chest."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your referral and past ECGs",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You lie on the table, and your chest is cleaned with antiseptic",
+  "A numbing injection is given under the skin on the left side of your chest",
+  "The doctor makes a small cut",
+  "The device is slipped under the skin",
+  "The cut is closed with a stitch or skin glue",
+  "The device is set up, and you are shown how to use it"
+ ],
+ "feel": [
+  "The numbing injection lasts a few seconds",
+  "During the procedure, you feel pressure but no pain",
+  "The spot may ache for a couple of days"
+ ],
+ "after": [
+  "Keep the area dry until your doctor allows",
+  "During an episode, press the button on the handheld device, if you have one",
+  "Data is sent to your doctor. The clinic will tell you how often",
+  "When you no longer need the device, it is removed just as simply"
+ ],
+ "red_flags": [
+  "Redness, swelling, or pus where the device was placed",
+  "A fever over 38°C",
+  "Fainting or severe chest pain: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I have an MRI with it?",
+   "a": "Most of these devices are MRI-safe under certain conditions. Show your device card before the scan."
+  },
+  {
+   "q": "Does the device treat the rhythm?",
+   "a": "No. It only records. Based on the recording, the doctor decides what treatment you need."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Heart monitor placement tomorrow. Bring documents, past ECGs, and your list of medicines."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Ko‘krak bezi kistasini punksiya qilish",
+ "also": [
+  "ko‘krak kistasi punksiyasi",
+  "ko‘krak kistasi aspiratsiyasi",
+  "ko‘krakdagi kistani so‘rib olish"
+ ],
+ "what": "Shifokor UZI nazorati ostida ingichka igna bilan ko‘krakdagi kistadan suyuqlikni so‘rib oladi. Odatda kista bo‘shab qoladi.",
+ "why": "Kista og‘riyotgan, katta yoki g‘ayrioddiy ko‘rinsa — shifokor qaroriga ko‘ra.",
+ "duration": "odatda 10–20 daqiqa; suyuqlik tahlili, agar qilinsa, — bir necha kun",
+ "tell_doctor": [
+  "Qonni suyultiradigan preparatlar",
+  "Homiladorlik yoki ko‘krak suti bilan boqish",
+  "Antiseptik yoki mahalliy og‘riqsizlantirishga allergiya",
+  "Ko‘krakda implantlar"
+ ],
+ "prepare": [
+  {
+   "title": "Kiyim",
+   "text": "Yuqorisi alohida bo‘lgani qulayroq."
+  },
+  {
+   "title": "Teri",
+   "text": "Protsedura kuni ko‘krakka krem va dezodorant surtmang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi UZI va mammogrammalar",
+  "Hujjat"
+ ],
+ "steps": [
+  "Belgacha yechinib yotasiz",
+  "Shifokor kistani UZI da topadi",
+  "Teri ishlov beriladi, ba’zan og‘riqsizlantiriladi",
+  "Ingichka igna kistaga kiritilib, suyuqlik so‘rib olinadi",
+  "UZI da kista bo‘shaganiga ishonch hosil qilinadi",
+  "Teshilgan joy bosiladi va plastir yopishtiriladi"
+ ],
+ "feel": [
+  "Qon topshirgandagidek ukol",
+  "Biroz bosim",
+  "Keyin ko‘pincha kistadan og‘riq darrov o‘tadi"
+ ],
+ "after": [
+  "10–15 daqiqa sovuq qo‘yishingiz mumkin",
+  "Kichik ko‘karish bo‘lishi mumkin, o‘zi o‘tadi",
+  "Nazorat UZI — shifokor aytgan muddatdan keyin"
+ ],
+ "red_flags": [
+  "Ko‘krak qattiq shishdi, qizardi, issiq",
+  "Harorat",
+  "To‘xtamaydigan qon ketish"
+ ],
+ "faq": [
+  {
+   "q": "Kista qaytadimi?",
+   "a": "Ba’zan ha. Shifokor kerak deb topsa, uni yana so‘rib olsa bo‘ladi."
+  },
+  {
+   "q": "Kista xavflimi?",
+   "a": "Oddiy kista odatda xavfli emas. Shifokor uni UZI da baholab, keyin nima qilishni hal qiladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga ko‘krak kistasini punksiya qilish. Ertalab krem va dezodorantsiz, oldingi UZI larni oling."
+  }
+ ]
+}

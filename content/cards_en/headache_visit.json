@@ -1,0 +1,79 @@
+{
+ "title": "Checkup for headache and migraine",
+ "also": [
+  "migraine visit",
+  "headache specialist",
+  "neurologist for headaches",
+  "head checkup",
+  "headache diary"
+ ],
+ "what": "The doctor asks you in detail about your headaches and examines you. Most often the cause is understood from what you tell them and from the exam, without complex tests.",
+ "why": "For frequent or severe headaches, migraine, or when the pain has changed or pills have stopped helping.",
+ "duration": "the visit usually takes 30 to 45 minutes",
+ "tell_doctor": [
+  "How often your head hurts and how long an attack lasts",
+  "Where it hurts and what the pain is like: pressing, throbbing, stabbing",
+  "What happens before and during an attack: nausea, light bothers you",
+  "Which pills you take for pain and how often",
+  "What triggers an attack: sleep, food, stress, periods"
+ ],
+ "prepare": [
+  {
+   "title": "Diary",
+   "text": "For 2 to 4 weeks before the visit, write down each attack: the date, how strong it was, what you took and whether it helped."
+  },
+  {
+   "title": "Medicines",
+   "text": "Do not change your treatment on your own. Write down all the medicines you take."
+  },
+  {
+   "title": "Tests",
+   "text": "Bring earlier scans and reports, if you have them."
+  }
+ ],
+ "bring": [
+  "Headache diary",
+  "A list of your medicines",
+  "Earlier scans and reports",
+  "Blood pressure readings, if you have them"
+ ],
+ "steps": [
+  "The doctor asks in detail about your attacks",
+  "Measures your blood pressure",
+  "Checks your reflexes, movements, pupils and balance",
+  "Explains what type of headache it is",
+  "If needed, orders tests or an MRI",
+  "Gives you a plan for treatment and prevention"
+ ],
+ "feel": [
+  "The exam is painless",
+  "There are many questions - they help find the cause"
+ ],
+ "after": [
+  "Keep writing your headache diary",
+  "Do not take painkillers too often - this can make headaches worse",
+  "Come back for a follow-up to see how the treatment is working"
+ ],
+ "red_flags": [
+  "A sudden, very severe headache, the worst of your life - call your local emergency number",
+  "A headache with weakness in an arm or leg or trouble speaking - call your local emergency number",
+  "A headache with high fever and a stiff neck - call your local emergency number",
+  "A headache after a blow to the head"
+ ],
+ "faq": [
+  {
+   "q": "Do I need an MRI for a headache?",
+   "a": "Not always. The doctor orders an MRI if there are warning signs."
+  },
+  {
+   "q": "Can I take a painkiller every day?",
+   "a": "No. Taking it often can itself cause headaches. Talk about this with your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Headache visit tomorrow. Take your attack diary and a list of your medicines."
+  }
+ ]
+}

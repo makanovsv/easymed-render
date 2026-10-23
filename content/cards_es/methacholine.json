@@ -1,0 +1,78 @@
+{
+ "title": "Prueba de provocación con metacolina",
+ "also": [
+  "prueba de metacolina",
+  "prueba de provocación bronquial",
+  "prueba de hiperreactividad bronquial"
+ ],
+ "what": "Inhalas una sustancia en dosis pequeñas que van aumentando y después de cada una haces una espirometría. Así se revisa qué tan sensibles son los bronquios.",
+ "why": "Cuando se sospecha asma y la espirometría común es normal.",
+ "duration": "normalmente de 1 a 2 horas; el resultado sale de inmediato",
+ "tell_doctor": [
+  "Todos los inhaladores y medicamentos; algunos hay que suspenderlos con anticipación, pero solo por indicación del médico",
+  "Si estás embarazada o das pecho",
+  "Si tuviste un infarto, un derrame cerebral o un resfriado reciente",
+  "Si tienes presión alta"
+ ],
+ "prepare": [
+  {
+   "title": "Medicamentos",
+   "text": "Muchos inhaladores y pastillas para la alergia se suspenden por distintos plazos antes de la prueba. El esquema lo dará el médico. No suspendas nada por tu cuenta."
+  },
+  {
+   "title": "Café",
+   "text": "El día de la prueba normalmente no se puede tomar café, té, refresco de cola ni chocolate. Confírmalo en la clínica."
+  },
+  {
+   "title": "Cigarro y ejercicio",
+   "text": "El día de la prueba no fumes ni hagas deporte."
+  },
+  {
+   "title": "Salud",
+   "text": "Si te resfriaste, llama: normalmente la prueba se pospone."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "La lista de tus medicamentos",
+  "Tu inhalador de rescate"
+ ],
+ "steps": [
+  "Primero hacen una espirometría común",
+  "Inhalas con un nebulizador una dosis pequeña de la sustancia",
+  "A los pocos minutos haces otra espirometría",
+  "Poco a poco aumentan la dosis y repiten",
+  "La prueba se detiene cuando los valores bajan o se completa todo el programa",
+  "Al final te dan un inhalador para que la respiración vuelva"
+ ],
+ "feel": [
+  "Puede haber tos y una ligera opresión en el pecho",
+  "A veces silbidos al respirar; el médico está cerca y lo quita enseguida con el inhalador",
+  "Soplar tantas veces cansa"
+ ],
+ "after": [
+  "Te dejan ir cuando la respiración volvió a como estaba",
+  "El resultado normalmente te lo dicen de inmediato",
+  "Puedes volver a tus medicamentos; confírmalo con el médico"
+ ],
+ "red_flags": [
+  "La tos o la falta de aire regresaron en casa y el inhalador no ayuda: llama a emergencias",
+  "Silbidos en el pecho y te cuesta hablar"
+ ],
+ "faq": [
+  {
+   "q": "¿Es peligrosa?",
+   "a": "La prueba se hace bajo vigilancia del médico, con medicamentos a la mano. Las reacciones fuertes son raras."
+  },
+  {
+   "q": "¿Por qué hay que suspender los inhaladores?",
+   "a": "Si no, la prueba puede dar un resultado equivocado. Qué suspender y por cuánto tiempo lo decide solo el médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu prueba con metacolina. Revisa qué medicamentos te dijo el médico que no tomes. En la mañana sin café ni té; lleva tu inhalador."
+  }
+ ]
+}

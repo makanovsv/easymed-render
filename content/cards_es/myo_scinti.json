@@ -1,0 +1,84 @@
+{
+ "title": "Gammagrafía de perfusión del miocardio",
+ "also": [
+  "gammagrafía del corazón",
+  "SPECT del miocardio",
+  "estudio del corazón con radioisótopos",
+  "gammagrafía con esfuerzo"
+ ],
+ "what": "En la vena te ponen una dosis muy pequeña de una sustancia especial que se acumula en el músculo del corazón. Una cámara toma imágenes de cómo la sangre nutre al corazón en reposo y con esfuerzo.",
+ "why": "Cuando se sospecha enfermedad coronaria, con dolores en el pecho, para evaluar después de un stent o de un bypass.",
+ "duration": "normalmente de 3 a 5 horas con las esperas, a veces en dos días; el informe sale normalmente en 1 a 3 días",
+ "tell_doctor": [
+  "Todos los medicamentos, sobre todo los del corazón; el médico dirá cuáles no tomar y cuándo",
+  "Asma o enfermedades crónicas de los pulmones: de eso depende qué esfuerzo se elige",
+  "Embarazo o lactancia",
+  "Si te cuesta estar mucho tiempo acostado boca arriba con los brazos detrás de la cabeza",
+  "Si no podrás caminar en la caminadora o pedalear en la bicicleta"
+ ],
+ "prepare": [
+  {
+   "title": "Cafeína",
+   "text": "Normalmente un día antes no se puede tomar café, té, refresco de cola, bebidas energéticas ni chocolate. El plazo exacto lo dirán en la clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Normalmente no comas durante 3 a 4 horas antes del estudio. Confírmalo en la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. El médico puede pedirte omitir algunos medicamentos del corazón, solo por su indicación."
+  },
+  {
+   "title": "Ropa",
+   "text": "Ropa y calzado cómodos para caminar, sin metal."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Identificación",
+  "La lista de tus medicamentos",
+  "ECG e informes del corazón anteriores",
+  "Un refrigerio para el descanso entre las imágenes"
+ ],
+ "steps": [
+  "Te colocan un catéter delgado en una vena y te pegan electrodos de ECG",
+  "Te aplican una dosis pequeña de la sustancia y esperan a que se acumule",
+  "Te acuestas bajo la cámara con los brazos detrás de la cabeza; se mueve despacio alrededor del pecho",
+  "Para la segunda parte hacen el esfuerzo: caminadora, bicicleta o un medicamento que imita el esfuerzo",
+  "En el punto máximo del esfuerzo aplican la sustancia otra vez",
+  "Después de un descanso toman otra serie de imágenes"
+ ],
+ "feel": [
+  "Un pinchazo al poner el catéter",
+  "Con el esfuerzo, falta de aire y latidos rápidos; es lo esperado",
+  "Con el medicamento para el esfuerzo, ola de calor, dolor de cabeza, pesadez en el pecho; normalmente se quita en minutos",
+  "Bajo la cámara hay que estar inmóvil, y eso puede cansar"
+ ],
+ "after": [
+  "Toma más agua el resto del día: la sustancia se elimina más rápido",
+  "Normalmente puedes volver de inmediato a tu comida y actividades normales",
+  "En la tarde limita el contacto cercano prolongado con embarazadas y niños pequeños; confírmalo con el médico",
+  "El informe normalmente sale en 1 a 3 días y se habla con el cardiólogo"
+ ],
+ "red_flags": [
+  "Dolor opresivo fuerte en el pecho que no se quita: llama a emergencias",
+  "Falta de aire repentina, desmayo o latidos muy fuertes después del estudio"
+ ],
+ "faq": [
+  {
+   "q": "¿Es una radiación peligrosa?",
+   "a": "La dosis es pequeña y se considera segura para el estudio. Si estás embarazada o das pecho, díselo sin falta con anticipación."
+  },
+  {
+   "q": "¿Por qué no se puede tomar café antes del estudio?",
+   "a": "La cafeína impide que funcione el medicamento para el esfuerzo. Entonces el resultado puede salir impreciso."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu gammagrafía del corazón. Desde hoy, sin café, té, refresco de cola ni chocolate. Los medicamentos, como dijo el médico."
+  }
+ ]
+}

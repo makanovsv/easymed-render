@@ -1,0 +1,76 @@
+{
+ "title": "Epilepsiya: xurujda birinchi yordam va hayot",
+ "also": [
+  "epilepsiya xuruji",
+  "tutqanoqda nima qilish kerak",
+  "tutqanoqda birinchi yordam",
+  "epilepsiya bilan yashash"
+ ],
+ "what": "Epilepsiya — takroriy xurujlar bo‘ladigan kasallik. Dorilar ko‘pchilik odamga yordam beradi. Yaqinlar xuruj paytida qanday yordam berishni bilishi muhim.",
+ "why": "Epilepsiyali odamlar, ularning yaqinlari, o‘qituvchilar va hamkasblar uchun.",
+ "duration": "xuruj odatda 1–3 daqiqa davom etadi",
+ "tell_doctor": [
+  "Xurujlar qanchalik tez-tez bo‘lishi va qanday ko‘rinishi",
+  "Xurujlar tezlashgan yoki o‘zgargan bo‘lsa",
+  "Boshqa barcha dorilar — ba’zilari tutqanoqqa qarshi dorilarga ta’sir qiladi",
+  "Homilador bo‘lsangiz yoki homiladorlikni rejalashtirsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Dorilar",
+   "text": "Ularni har kuni bir vaqtda iching. O‘zingiz bekor qilmang va dozani o‘zgartirmang."
+  },
+  {
+   "title": "Kundalik",
+   "text": "Xurujlarni yozib boring: sana, vaqt, qancha davom etgani."
+  },
+  {
+   "title": "Qo‘zg‘atuvchilar",
+   "text": "Uyqusizlik, alkogol va tabletkani o‘tkazib yuborish ko‘pincha xurujni chaqiradi."
+  }
+ ],
+ "bring": [
+  "Xurujlar kundaligi",
+  "Dorilar ro‘yxati",
+  "Xuruj videosi, yaqinlar suratga ola olgan bo‘lsa"
+ ],
+ "steps": [
+  "Xuruj paytida xotirjam bo‘ling va vaqtni belgilang",
+  "Yonidagi qattiq va o‘tkir buyumlarni olib tashlang",
+  "Boshi ostiga yumshoq narsa qo‘ying",
+  "Odamni ushlab turmang va og‘ziga hech narsa solmang",
+  "Tutqanoq tugagach, odamni yonboshga yotqizing",
+  "U butunlay o‘ziga kelguncha yonida bo‘ling"
+ ],
+ "feel": [
+  "Xurujdan keyin odam ko‘pincha mudroq va sarosimada bo‘ladi — bu normal",
+  "Bosh va mushaklar og‘rishi mumkin"
+ ],
+ "after": [
+  "Xurujni kundalikka yozing",
+  "Yolg‘iz suzmang va nazoratsiz vannada cho‘milmang",
+  "Mashina haydash mumkinmi — shifokor hal qiladi"
+ ],
+ "red_flags": [
+  "Xuruj 5 daqiqadan ortiq davom etsa — 103 ga qo‘ng‘iroq qiling",
+  "Xurujlar ketma-ket, odam o‘ziga kelmayapti — 103 ga qo‘ng‘iroq qiling",
+  "Suvda, jarohat bilan, homiladorlikda yoki birinchi marta xuruj — 103 ga qo‘ng‘iroq qiling",
+  "Xurujdan keyin nafas olish qiyin — 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Tilni ushlab turish kerakligi rostmi?",
+   "a": "Yo‘q. Og‘izga hech narsa solmang — tishlar sinishi va jarohat olish mumkin."
+  },
+  {
+   "q": "Epilepsiya bilan ishlasa va o‘qisa bo‘ladimi?",
+   "a": "Ha, ko‘pchilik odatdagi hayot kechiradi. Cheklovlar haqida shifokor aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Tutqanoqqa qarshi dori vaqti. O‘tkazib yubormang."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "Gota: tratamiento y dieta",
+ "also": [
+  "gota",
+  "artritis gotosa",
+  "ácido úrico",
+  "ataque de gota"
+ ],
+ "what": "La gota es cuando se depositan cristales en una articulación y se inflama de golpe. El médico quita el ataque y busca un tratamiento para que no se repitan.",
+ "why": "Con dolor fuerte e hinchazón repentina en una articulación, a menudo el dedo gordo del pie; con ácido úrico alto en la sangre.",
+ "duration": "la consulta normalmente dura de 20 a 30 minutos; los análisis salen en 1 o 2 días",
+ "tell_doctor": [
+  "Cuándo fue el ataque y qué articulación dolió",
+  "Con qué frecuencia tienes ataques",
+  "Qué medicamentos tomas; algunos suben el ácido úrico",
+  "Cuánto alcohol tomas",
+  "Si tienes enfermedades de los riñones"
+ ],
+ "prepare": [
+  {
+   "title": "Análisis",
+   "text": "La sangre para el ácido úrico normalmente se toma en ayunas. Confírmalo en la clínica."
+  },
+  {
+   "title": "Diario",
+   "text": "Anota lo que comiste y bebiste antes de los ataques."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta, aunque la articulación ya no duela."
+  }
+ ],
+ "bring": [
+  "Identificación",
+  "Análisis de ácido úrico",
+  "Radiografías de las articulaciones, si las tienes",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta por los ataques y la alimentación",
+  "Revisa las articulaciones",
+  "Te manda análisis de sangre y a veces un ultrasonido de la articulación",
+  "A veces toma líquido de la articulación para analizarlo",
+  "Te receta el tratamiento del ataque",
+  "Si los ataques son frecuentes, elige un medicamento que baje el ácido úrico"
+ ],
+ "feel": [
+  "Revisar la articulación enferma puede doler",
+  "El análisis de sangre es un pinchazo breve"
+ ],
+ "after": [
+  "Toma más agua",
+  "Limita el alcohol, sobre todo la cerveza, la carne roja y las bebidas gaseosas azucaradas",
+  "Los medicamentos para la gota se toman por mucho tiempo; no los dejes por tu cuenta",
+  "Los análisis de control, según el calendario del médico"
+ ],
+ "red_flags": [
+  "La articulación está caliente, muy hinchada y tienes fiebre alta: acude al médico de inmediato"
+ ],
+ "faq": [
+  {
+   "q": "¿Se puede curar la gota con dieta?",
+   "a": "La dieta ayuda, pero muchas veces también hacen falta medicamentos. Lo decide el médico."
+  },
+  {
+   "q": "¿Por qué empezó un ataque después de iniciar el tratamiento?",
+   "a": "En los primeros meses puede pasar. No dejes las pastillas, díselo al médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana es tu consulta por la gota. Si te harán análisis de sangre, después de la cena no comas; el agua sí puedes tomar."
+  }
+ ]
+}

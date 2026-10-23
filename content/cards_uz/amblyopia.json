@@ -1,0 +1,74 @@
+{
+ "title": "Ambliopiyani davolash (yopish, apparatli)",
+ "also": [
+  "dangasa ko‘z",
+  "ko‘zni yopish",
+  "okklyuziya",
+  "ko‘rishni apparat bilan davolash"
+ ],
+ "what": "Ambliopiyada bir ko‘z o‘zi sog‘ bo‘lsa-da, yomonroq ko‘radi. Uni mashq qildirishadi: kuchli ko‘zni yopib qo‘yishadi va mashqlar qilishadi.",
+ "why": "Bolaning bir ko‘zi ko‘zoynakda ham ancha yomon ko‘rsa, g‘ilaylikda yoki refraksiyada katta farq bo‘lsa.",
+ "duration": "bitta seans odatda 15–40 daqiqa, kurs — oylar",
+ "tell_doctor": [
+  "Bola ko‘zoynak taqadimi va qancha vaqt",
+  "G‘ilaylik bormi",
+  "Bola kuniga necha soat yopqich taqadi",
+  "Oldin davo kurslari bo‘lganmi",
+  "Plastirdan terida ta’sirlanish bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ko‘zoynak",
+   "text": "Ko‘zoynakni doim taqish kerak — usiz davo ishlamaydi."
+  },
+  {
+   "title": "Yopqich",
+   "text": "Yopish tartibini shifokor belgilaydi. Bola qarshilik qilsa ham soatlarga rioya qiling."
+  },
+  {
+   "title": "Bola",
+   "text": "Bu ko‘z uchun o‘yin va mashq ekanini tushuntiring."
+  }
+ ],
+ "bring": [
+  "Bolaning hujjati",
+  "Ko‘zoynak",
+  "Yopqich, agar ishlatayotgan bo‘lsangiz",
+  "Yopish kundaligi, agar yuritsangiz"
+ ],
+ "steps": [
+  "Shifokor har bir ko‘zning ko‘rishini tekshiradi",
+  "Yopish tartibi va kunlik vaqtni belgilaydi",
+  "Apparatlarda bola rasmlarga qaraydi yoki o‘ynaydi",
+  "Zaifroq ko‘z mashq qiladi",
+  "Shifokor o‘zgarishlarni belgilab, rejani o‘zgartiradi"
+ ],
+ "feel": [
+  "Og‘riqsiz",
+  "Bolaga yopqich bilan noqulay va yoqimsiz bo‘lishi mumkin",
+  "Plastir terini ta’sirlantirishi mumkin — shifokorga ayting"
+ ],
+ "after": [
+  "Uyda — reja bo‘yicha yopqich va topshiriqlar",
+  "Rasm chizish, o‘yin, o‘qish paytida yopish ma’qul",
+  "Nazorat — odatda 1–3 oyda bir marta",
+  "Qanchalik erta boshlansa, natija shunchalik yaxshi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Ambliopiya necha yoshgacha davolanadi?",
+   "a": "Davo maktabgacha va kichik maktab yoshida eng yaxshi ishlaydi. Keyinroq ham foyda bo‘ladi — buni shifokor hal qiladi."
+  },
+  {
+   "q": "Bola yopqichni yechib tashlasa nima qilish kerak?",
+   "a": "Qiziq mashg‘ulot bilan chalg‘iting, maqtang. Bo‘lmasa, shifokor bilan boshqa variantlarni muhokama qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga ambliopiyani davolash bo‘yicha qabul. Ko‘zoynak va yopish kundaligini oling."
+  }
+ ]
+}

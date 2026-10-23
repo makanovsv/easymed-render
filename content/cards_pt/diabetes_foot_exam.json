@@ -1,0 +1,76 @@
+{
+ "title": "Exame dos pés no diabetes (sensibilidade)",
+ "also": [
+  "exame dos pés no diabetes",
+  "pé diabético",
+  "teste de sensibilidade dos pés",
+  "teste do monofilamento"
+ ],
+ "what": "O médico examina os pés e testa se eles sentem bem o toque, a vibração e a temperatura. Isso ajuda a não deixar passar feridas.",
+ "why": "Para todas as pessoas com diabetes: normalmente uma vez por ano e, se houver problemas nos pés, com mais frequência.",
+ "duration": "normalmente de 15 a 30 minutos; a conclusão sai na hora",
+ "tell_doctor": [
+  "Se tem dormência, ardência ou formigamento nas pernas",
+  "Calos, rachaduras ou feridas que demoram a cicatrizar",
+  "Dor nas pernas ao caminhar",
+  "Quais remédios para diabetes você toma",
+  "Se você fuma"
+ ],
+ "prepare": [
+  {
+   "title": "Calçado",
+   "text": "Vá com o seu calçado e as meias de sempre. O médico vai olhar também."
+  },
+  {
+   "title": "Pés",
+   "text": "Não corte as unhas muito curtas na véspera e não corte calos sozinho."
+  },
+  {
+   "title": "Glicose",
+   "text": "Leve as anotações da glicose ou o resultado da hemoglobina glicada."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Diário da glicose e exames recentes",
+  "O calçado que você usa no dia a dia"
+ ],
+ "steps": [
+  "Você tira o calçado e as meias",
+  "O médico examina a pele, as unhas e entre os dedos",
+  "Toca os pés com um fio fino, e você diz onde sente",
+  "Encosta um diapasão para testar a vibração",
+  "Sente o pulso nos pés",
+  "Explica como cuidar dos pés"
+ ],
+ "feel": [
+  "O exame não dói",
+  "Os toques são leves; às vezes dá cócegas"
+ ],
+ "after": [
+  "Examine os pés em casa todos os dias; pode usar um espelho",
+  "Não ande descalço",
+  "Use calçado confortável, que não machuque",
+  "Novo exame no prazo que o médico marcar"
+ ],
+ "red_flags": [
+  "Ferida, úlcera ou vermelhidão no pé que não passa: procure o médico com urgência",
+  "O pé ficou preto, muito inchado ou quente: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "Por que examinar os pés se não dói nada?",
+   "a": "No diabetes, a sensibilidade diminui sem a pessoa perceber. Dá para não sentir uma ferida."
+  },
+  {
+   "q": "Posso cortar os calos sozinho?",
+   "a": "É melhor não. Isso é feito por um profissional de cuidados com os pés."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é o exame dos pés. Vá com o calçado de sempre e leve o diário da glicose."
+  }
+ ]
+}

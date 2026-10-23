@@ -1,0 +1,69 @@
+{
+ "title": "Burun va tomoqdan PSR-surtma",
+ "also": [
+  "PSR",
+  "burundan surtma",
+  "tomoqdan surtma",
+  "virusga test"
+ ],
+ "what": "Hamshira yumshoq cho‘p bilan burun va tomoqda yurgizadi va surtmani laboratoriyaga yuboradi. Tahlil viruslar yoki bakteriyalar izlarini qidiradi.",
+ "why": "Shamollash, yo‘tal, haroratda, safar, ish yoki kasalxonaga yotish uchun talab qilinganda.",
+ "duration": "surtmaning o‘zi — taxminan bir daqiqa, natija odatda 1–2 kunda",
+ "tell_doctor": [
+  "Burundan tez-tez qon ketsa yoki burunda operatsiya bo‘lgan bo‘lsa",
+  "Qonni suyultiruvchi dorilar ichsangiz",
+  "Qayt qilish refleksi kuchli bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "3–4 soat oldin",
+   "text": "Odatda yemang, ichmang, tish yuvmang, tomoqni chayqamang va saqich chaynamang. Klinikadan aniqlang."
+  },
+  {
+   "title": "Burun",
+   "text": "Tahlil kuni shifokor boshqacha aytmasa, burunga tomchi va sprey tomizmang va uni yuvmang."
+  },
+  {
+   "title": "Chekish",
+   "text": "Surtmadan bir necha soat oldin chekmang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Shamollash belgilari bo‘lsa, niqob"
+ ],
+ "steps": [
+  "O‘tirasiz va boshni biroz orqaga tashlaysiz",
+  "Cho‘p burun teshigiga kiritiladi va bir necha soniya aylantiriladi",
+  "Keyin og‘zingizni ochasiz va cho‘p bilan tomoqning orqa devori bo‘ylab yurgiziladi",
+  "Cho‘plar probirkaga solinadi va imzolanadi"
+ ],
+ "feel": [
+  "Burunda — qitiqlaydi, aksirgingiz kelishi, ko‘zga yosh kelishi mumkin",
+  "Tomoqda — bir soniya qayt qilish istagi bo‘lishi mumkin"
+ ],
+ "after": [
+  "Noxush hislar bir necha daqiqada o‘tadi",
+  "Natijani kutayotganda shamollash bo‘lsa, odamlar bilan kamroq muloqot qilgan yaxshi"
+ ],
+ "red_flags": [
+  "Burundan qon 15–20 daqiqa to‘xtamasa — shifokorga murojaat qiling yoki tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Burundan surtma topshirish og‘riydimi?",
+   "a": "Og‘rimaydi, lekin noxush: qitiqlaydi va aksirgingiz keladi. Bu bir necha soniya davom etadi."
+  },
+  {
+   "q": "PSR-surtmadan oldin ovqat yesa bo‘ladimi?",
+   "a": "3–4 soat yemaslik va ichmaslik yaxshiroq — aks holda surtmada material kam bo‘lishi mumkin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Bir necha soatdan keyin PSR-surtma. Endi yemang, ichmang, tish yuvmang va burunga tomizmang."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Age-based screening checks (Kazakhstan)",
+ "also": [
+  "screening",
+  "preventive check-up",
+  "health screening",
+  "free screening"
+ ],
+ "what": "Free checks at the clinic where you are registered. They help find illness early. What is included depends on age and sex.",
+ "why": "For adults at certain ages, on a schedule, usually once every few years. Ask your clinic for your own schedule.",
+ "duration": "usually 1 to 2 visits; results in a few days",
+ "tell_doctor": [
+  "What illnesses you have and what medicines you take",
+  "Whether you smoke",
+  "Heart disease, diabetes and cancer in close relatives",
+  "Which checks you have already had and when"
+ ],
+ "prepare": [
+  {
+   "title": "Find out your turn",
+   "text": "Ask at your registered clinic or in the app whether you are due for screening this year."
+  },
+  {
+   "title": "Food",
+   "text": "For a blood test you usually come in the morning on an empty stomach. Check with the clinic."
+  },
+  {
+   "title": "Preparation",
+   "text": "Some checks, such as a smear or a stool test, have their own preparation. It will be explained in advance."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Results of past checks",
+  "A list of your medicines"
+ ],
+ "steps": [
+  "You come to your registered clinic",
+  "You fill in a questionnaire",
+  "Blood pressure, height and weight are measured",
+  "You give the tests for your age",
+  "You have the required exams and tests",
+  "The doctor looks at the results and tells you what is next"
+ ],
+ "feel": [
+  "Most checks are painless",
+  "Some are unpleasant but short"
+ ],
+ "after": [
+  "If all is fine, the next check is on schedule",
+  "If something is found, you are sent to a specialist. That is not yet a diagnosis",
+  "Keep your results"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Do I have to pay for screening?",
+   "a": "Age-based screening is usually free. Check at your registered clinic."
+  },
+  {
+   "q": "What if my age is not in the program?",
+   "a": "You can have an exam on a doctor's referral or pay for it. Talk with your doctor."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Screening tomorrow. Do not eat in the morning before the blood test, and bring your ID."
+  }
+ ]
+}

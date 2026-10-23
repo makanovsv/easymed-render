@@ -1,0 +1,69 @@
+{
+ "title": "Qorachiqni kengaytirib ko‘rik",
+ "also": [
+  "ko‘z tubi ko‘rigi",
+  "qorachiqni kengaytirish",
+  "tomchi bilan ko‘rik",
+  "oftalmoskopiya"
+ ],
+ "what": "Shifokor qorachiq keng bo‘lishi uchun tomchi tomizadi. Shunda to‘r parda va ko‘z tubini yaxshiroq ko‘radi.",
+ "why": "Diabet, yuqori qon bosimi, yaqindan ko‘rmaslik, chaqnash va dog‘lar haqida shikoyatlarda, rejali ko‘rikda.",
+ "duration": "tomchi kutish bilan birga odatda 30–60 daqiqa; ko‘rish yana 4–6 soat xira bo‘ladi",
+ "tell_doctor": [
+  "Glaukoma yoki ko‘z bosimi yuqori bo‘lsa, bilsangiz",
+  "Tomchiga allergiya",
+  "Diabetingiz bormi",
+  "Kontakt linza taqasizmi"
+ ],
+ "prepare": [
+  {
+   "title": "Yo‘l",
+   "text": "Tomchidan keyin bir necha soat rulga o‘tirish mumkin emas. Hamroh bilan yoki taksida keling."
+  },
+  {
+   "title": "Ishlar",
+   "text": "Bir necha soat o‘qish va ekranga qarash qiyin bo‘ladi — kuningizni shunga qarab rejalang."
+  }
+ ],
+ "bring": [
+  "Quyoshdan saqlovchi ko‘zoynak",
+  "Ko‘zoynak va hujjat",
+  "Odatda o‘zingiz haydasangiz, hamroh"
+ ],
+ "steps": [
+  "Shifokor ko‘rish va ko‘z bosimini tekshiradi",
+  "Tomchi tomiziladi",
+  "Qorachiq kengayguncha 20–40 daqiqa kutasiz",
+  "Shifokor ko‘zga yorug‘lik tutib, linza orqali ko‘radi",
+  "Sizdan turli tomonlarga qarashni so‘rashadi"
+ ],
+ "feel": [
+  "Tomchi biroz achishtiradi",
+  "Ko‘rik paytidagi yorqin yorug‘lik noxush, lekin qisqa",
+  "Bir necha soat yaqinni xira ko‘rasiz va yorug‘lik ko‘zni qamashtiradi"
+ ],
+ "after": [
+  "Ko‘rish tiklanmaguncha mashina haydamang",
+  "Ko‘chada quyoshdan saqlovchi ko‘zoynak taqing",
+  "Linza taqsangiz, shifokor aytganda kiying"
+ ],
+ "red_flags": [
+  "Tomchidan keyin ko‘zda kuchli og‘riq, bosh og‘rig‘i, ko‘ngil aynishi va yorug‘lik atrofida kamalak doiralar — zudlik bilan oftalmologga yoki 103 ga qo‘ng‘iroq qiling"
+ ],
+ "faq": [
+  {
+   "q": "Qorachiq kengayishi qancha davom etadi?",
+   "a": "Odatda 4–6 soat, ba’zan bir kungacha."
+  },
+  {
+   "q": "Keyin ishlasa bo‘ladimi?",
+   "a": "Odatda bo‘ladi, lekin bir necha soat o‘qish va ekranga qarash qiyin bo‘ladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga qorachiqni kengaytirib ko‘rik. Rulga o‘tishni rejalashtirmang. Quyoshdan saqlovchi ko‘zoynakni oling."
+  }
+ ]
+}

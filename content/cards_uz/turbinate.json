@@ -1,0 +1,77 @@
+{
+ "title": "Radioto‘lqinli konxotomiya",
+ "also": [
+  "konxotomiya",
+  "radioto‘lqinli vazotomiya",
+  "burun chig‘anoqlarini kuydirish",
+  "burun chig‘anoqlarini kichraytirish"
+ ],
+ "what": "Shifokor ingichka elektrod bilan o‘sib ketgan burun chig‘anoqlarini ichkaridan kichraytiradi. Ustki shilliq qavat butun qoladi, burun orqali nafas olish erkinlashadi.",
+ "why": "Kattalashgan chig‘anoqlar tufayli burun doim bitib turganda, tomchi va purkagichlar yordam bermaganda.",
+ "duration": "muolaja odatda 15–30 daqiqa, o‘sha kuni uyga; ta’siri — 2–4 haftadan keyin",
+ "tell_doctor": [
+  "Qonni suyultiruvchi dorilarni",
+  "Allergiyalar, ayniqsa og‘riq qoldiruvchilarga",
+  "Yurak stimulyatoringiz bo‘lsa",
+  "Burundan tez-tez qon ketsa",
+  "Tomir toraytiruvchi tomchilarni uzoq ishlatsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Sog‘liq",
+   "text": "Tumov va shamollash bo‘lmaganda qilinadi. Kasal bo‘lib qolsangiz, keyinga suring."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting, u hal qiladi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Muolajadan 1–2 soat oldin odatda yengil ovqat. Klinikadan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat",
+  "Salfetkalar"
+ ],
+ "steps": [
+  "Kreslaga o‘tirasiz",
+  "Burunga og‘riqsizlantiruvchi paxta turundalar kiritiladi yoki ukol qilinadi",
+  "Burun uvishguncha bir necha daqiqa kutishadi",
+  "Shifokor ingichka elektrodni chig‘anoqqa kiritib, uni ichkaridan isitadi",
+  "Xuddi shu narsa ikkinchi tomondan ham qilinadi",
+  "Ba’zan qisqa muddatga tamponlar qo‘yiladi"
+ ],
+ "feel": [
+  "Ukol yoki turundalar — yoqimsiz, keyin burun uvishadi",
+  "Muolaja paytida — bosim, issiqlik, ba’zan chirsillash",
+  "Ko‘zdan yosh oqadi — bu normal"
+ ],
+ "after": [
+  "Dastlabki 1–2 hafta burun muolajadan oldingidan ham ko‘proq bitadi — bu shish",
+  "Po‘stloq va ajralmalar bo‘lishi mumkin, burunni qanday yuvishni shifokor aytadi",
+  "Taxminan bir hafta kuchli sinkmang, hammomsiz va og‘ir mashqsiz",
+  "Burun odatda 2–4 haftadan keyin yaxshiroq nafas ola boshlaydi"
+ ],
+ "red_flags": [
+  "Burundan qon 10–15 daqiqa to‘xtamasa — tez yordamni chaqiring (103)",
+  "Harorat 38 dan yuqori, burun yoki yuzda kuchli og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Muolajadan keyin burun nega yomonroq nafas oladi?",
+   "a": "Dastlabki 1–2 hafta shish bo‘ladi. Keyin u qaytadi va nafas olish yengillashadi."
+  },
+  {
+   "q": "Bu og‘riqlimi?",
+   "a": "Odatda yo‘q: burun og‘riqsizlantiriladi. Bosim va issiqlik seziladi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga burunda radioto‘lqinli muolaja. Tumov yoki harorat paydo bo‘lsa — klinikaga qo‘ng‘iroq qiling."
+  }
+ ]
+}

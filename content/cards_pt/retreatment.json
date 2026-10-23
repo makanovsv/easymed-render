@@ -1,0 +1,74 @@
+{
+ "title": "Retratamento de canal",
+ "also": [
+  "retratamento endodôntico",
+  "refazer o canal",
+  "retratamento do dente"
+ ],
+ "what": "O dentista abre o dente que já foi tratado, tira o material antigo dos canais, limpa e obtura de novo.",
+ "why": "Quando depois do tratamento anterior o dente dói, a radiografia mostra inflamação na raiz ou é preciso uma coroa num dente com canais mal obturados.",
+ "duration": "normalmente 1 a 2 horas, muitas vezes em 2 a 3 consultas",
+ "tell_doctor": [
+  "Quando e onde o dente foi tratado antes, se souber",
+  "Se o dente dói, se houve inchaço",
+  "Alergias, principalmente a anestésicos e antibióticos",
+  "Doenças e remédios, principalmente os que afinam o sangue",
+  "Se está grávida"
+ ],
+ "prepare": [
+  {
+   "title": "Radiografias",
+   "text": "Normalmente é preciso uma radiografia recente ou uma tomografia do dente."
+  },
+  {
+   "title": "Comida",
+   "text": "Coma 1 a 2 horas antes da consulta."
+  }
+ ],
+ "bring": [
+  "Documento de identidade",
+  "Radiografias antigas do dente, se tiver",
+  "Lista de remédios"
+ ],
+ "steps": [
+  "Fazem anestesia",
+  "O dente é isolado da saliva com um lençol de borracha",
+  "Tiram a restauração ou a coroa antiga",
+  "Tiram o material antigo dos canais",
+  "Os canais são limpos e lavados",
+  "Às vezes colocam um remédio até a próxima consulta",
+  "Os canais são obturados, e o dente é fechado com restauração provisória ou definitiva"
+ ],
+ "feel": [
+  "Com anestesia, pressão e vibração",
+  "Ficar muito tempo de boca aberta cansa",
+  "Depois, o dente pode doer um pouco por alguns dias"
+ ],
+ "after": [
+  "Não mastigue desse lado enquanto houver restauração provisória",
+  "Analgésico conforme a orientação do dentista",
+  "Vá a todas as consultas marcadas",
+  "Depois do tratamento, o dente normalmente recebe coroa ou bloco. O dentista diz"
+ ],
+ "red_flags": [
+  "Inchaço na bochecha ou na gengiva",
+  "Dor forte que vai piorando",
+  "Febre acima de 38 °C com inchaço no rosto"
+ ],
+ "faq": [
+  {
+   "q": "Por que o dente precisa ser tratado de novo?",
+   "a": "Às vezes fica infecção nos canais ou a obturação não ficou bem vedada. Aí aparece inflamação na raiz."
+  },
+  {
+   "q": "Posso não tratar, se não dói?",
+   "a": "A inflamação pode acontecer sem dor. Decida junto com o dentista."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o tratamento do canal. Coma 1 a 2 horas antes e leve as radiografias antigas."
+  }
+ ]
+}

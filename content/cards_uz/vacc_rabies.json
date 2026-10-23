@@ -1,0 +1,79 @@
+{
+ "title": "Tishlagandan keyin quturishga qarshi emlash",
+ "also": [
+  "quturishga qarshi ukollar",
+  "it tishlagandan keyin emlash",
+  "quturishga qarshi vaksina",
+  "mushuk tishlagandan keyin emlash"
+ ],
+ "what": "Hayvon tishlagandan yoki timdalagandan keyin qilinadigan ukollar kursi. Vaqtida boshlansa, quturish rivojlanishiga yo‘l qo‘ymaydi.",
+ "why": "It, mushuk, yovvoyi hayvon, ko‘rshapalak tishlagandan, timdalagandan yoki terini yalagandan keyin.",
+ "duration": "ukol — bir necha soniya; kurs — bir necha hafta davomida jadval bo‘yicha bir necha ukol",
+ "tell_doctor": [
+  "Qanday hayvon, uy hayvonimi yoki daydi",
+  "Qachon va qayerdan tishlagan",
+  "Hayvonni kuzatish mumkinmi",
+  "Ilgari quturishga qarshi emlash qilinganmi",
+  "Homilador bo‘lsangiz yoki immunitet kasalliklari bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tishlagan zahoti",
+   "text": "Jarohatni oqar suvda sovun bilan kamida 15 daqiqa yuving."
+  },
+  {
+   "title": "Kutmang",
+   "text": "Darrov travmpunktga boring. Ukollar qancha erta boshlansa, shuncha yaxshi."
+  },
+  {
+   "title": "Hayvon",
+   "text": "Imkon bo‘lsa, egasidan hayvon emlanganligini so‘rang. Uni 10 kun kuzatish kerak."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Bo‘lsa, hayvon va egasi haqida ma’lumot",
+  "Emlash sertifikati"
+ ],
+ "steps": [
+  "Shifokor jarohatni ko‘radi va ishlov beradi",
+  "Hayvon haqida so‘raydi va kurs kerak yoki kerak emasligini hal qiladi",
+  "Yelkaga birinchi ukol qilinadi",
+  "Ba’zan chuqur tishlashda jarohat atrofiga yana bir preparat yuboriladi",
+  "Keyingi ukollar jadvalini berishadi",
+  "Qoqsholga qarshi emlash kerak yoki kerak emasligi hal qilinadi"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan ukol joyi og‘riydi, holsizlik, ozgina harorat bo‘ladi"
+ ],
+ "after": [
+  "Jadval bo‘yicha ukollarni o‘tkazib yubormang — bu juda muhim",
+  "Shifokor kurs davomida alkogol ichmaslikni so‘rashi mumkin",
+  "10 kundan keyin hayvon sog‘ bo‘lsa, shifokor kursni erta tugatishi mumkin"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)",
+  "Jarohat qattiq qizarsa, shishsa, yiringlasa yoki harorat ko‘tarilsa"
+ ],
+ "faq": [
+  {
+   "q": "Nechta ukol kerak?",
+   "a": "Odatda jadval bo‘yicha yelkaga bir necha ukol. Aniq sonini shifokor aytadi."
+  },
+  {
+   "q": "Hayvon uy hayvoni bo‘lsa, ukol qilmasa bo‘ladimi?",
+   "a": "Shifokor hal qiladi. Ko‘pincha emlangan hayvon 10 kun kuzatiladi, kursni esa undan oldin boshlashadi."
+  },
+  {
+   "q": "Ukolni o‘tkazib yuborsam-chi?",
+   "a": "Darrov shifokor bilan bog‘laning. U kursni qanday davom ettirishni aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga jadval bo‘yicha quturishga qarshi navbatdagi ukol. O‘tkazib yuborib bo‘lmaydi."
+  }
+ ]
+}

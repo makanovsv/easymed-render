@@ -1,0 +1,74 @@
+{
+ "title": "Smartwatch ECG: how to record it and show your doctor",
+ "also": [
+  "smartwatch ECG",
+  "watch ECG",
+  "ECG on a fitness tracker",
+  "sharing a watch ECG with a doctor"
+ ],
+ "what": "Some smartwatches can record a single-lead ECG in about half a minute. You can save the recording and show it to your doctor.",
+ "why": "When a racing heart or skipped beats come on suddenly and pass before you see a doctor. A recording helps catch the moment.",
+ "duration": "one recording usually takes about 30 seconds",
+ "tell_doctor": [
+  "What the watch showed, and when",
+  "What you felt during the recording",
+  "What medicines you take",
+  "A watch does not replace a standard ECG. Your doctor may order one too"
+ ],
+ "prepare": [
+  {
+   "title": "Setup",
+   "text": "Turn on the ECG feature in the watch app ahead of time and go through the tutorial."
+  },
+  {
+   "title": "Strap",
+   "text": "The watch should sit snugly on your wrist, on clean, dry skin."
+  },
+  {
+   "title": "Position",
+   "text": "During the recording, sit down, rest your arm on a table, and do not talk."
+  }
+ ],
+ "bring": [
+  "Your watch and phone with the recordings",
+  "Recordings saved as PDF, if the app can do it",
+  "A diary of times and how you felt"
+ ],
+ "steps": [
+  "Sit down and calm yourself",
+  "Open the ECG app on your watch",
+  "Touch the button or crown of the watch with a finger of your other hand",
+  "Stay still for about 30 seconds while it records",
+  "Add a note about how you feel",
+  "Save or export the recording as a PDF for your doctor"
+ ],
+ "feel": [
+  "You feel nothing. The watch only records",
+  "The recording may fail if your arm moves. Just try again"
+ ],
+ "after": [
+  "Show the recordings to your doctor along with your diary",
+  "Even if the watch says normal but you feel unwell, see a doctor",
+  "The watch does not make a diagnosis. Your doctor does"
+ ],
+ "red_flags": [
+  "Chest pain or pressure, shortness of breath, or fainting: call emergency services. Do not waste time on a recording",
+  "A very fast heartbeat that does not stop"
+ ],
+ "faq": [
+  {
+   "q": "Can I trust a watch ECG?",
+   "a": "It is a good clue for your doctor, but not a full ECG. Your doctor makes the final call."
+  },
+  {
+   "q": "How do I show the recording to my doctor?",
+   "a": "Usually the phone app can save the recording as a PDF to send or print."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Doctor's visit tomorrow. Save your watch ECG recordings as PDF and bring your symptom diary."
+  }
+ ]
+}

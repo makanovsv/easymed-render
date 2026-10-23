@@ -1,0 +1,82 @@
+{
+ "title": "Apicectomía (quitar el quiste del diente)",
+ "also": [
+  "apicectomía",
+  "quitar el quiste del diente",
+  "cirugía de la raíz del diente"
+ ],
+ "what": "El cirujano, por un corte pequeño en la encía, quita la punta de la raíz del diente junto con el quiste. El diente se queda en su lugar.",
+ "why": "Cuando hay un quiste o una inflamación en la punta de la raíz y no se logra volver a tratar los conductos.",
+ "duration": "la cirugía suele durar de 30 a 90 minutos",
+ "tell_doctor": [
+  "Todos tus medicamentos, sobre todo los que adelgazan la sangre: el médico dirá qué suspender y cuándo",
+  "Alergias, sobre todo a analgésicos y antibióticos",
+  "Enfermedades del corazón, presión alta, diabetes",
+  "Si estás embarazada",
+  "Si fumas"
+ ],
+ "prepare": [
+  {
+   "title": "Radiografías",
+   "text": "Normalmente hace falta una tomografía 3D del diente."
+  },
+  {
+   "title": "Conductos",
+   "text": "Muchas veces antes de la cirugía se rellenan los conductos del diente; pregunta al médico."
+  },
+  {
+   "title": "Comida",
+   "text": "Come 1 o 2 horas antes de la cirugía."
+  },
+  {
+   "title": "El día anterior",
+   "text": "Sin alcohol."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "Las radiografías del diente",
+  "La lista de tus medicamentos"
+ ],
+ "steps": [
+  "Te ponen anestesia con una inyección",
+  "El cirujano hace un corte y despega la encía sobre la raíz",
+  "Hace una pequeña ventana en el hueso",
+  "Quita el quiste y la punta de la raíz",
+  "A veces rellena la raíz desde la punta",
+  "Cosen la encía"
+ ],
+ "feel": [
+  "Con la anestesia sientes presión, pero no dolor",
+  "Después, la mejilla se hincha y hay dolor 2 o 3 días; te dan un analgésico",
+  "Puede salir un moretón en la cara"
+ ],
+ "after": [
+  "Frío en la mejilla las primeras horas, con descansos",
+  "Comida suave y no caliente durante algunos días",
+  "No mastiques de ese lado",
+  "No te enjuagues la boca con fuerza el primer día",
+  "Los puntos normalmente se quitan en 1 o 2 semanas"
+ ],
+ "red_flags": [
+  "El sangrado no se detiene al presionar",
+  "Fiebre de más de 38 o la hinchazón sigue creciendo después del 3.er día",
+  "La hinchazón baja hacia el cuello y cuesta tragar o respirar: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "¿El diente quedará firme?",
+   "a": "Normalmente sí. La raíz queda un poco más corta, pero el diente sigue funcionando."
+  },
+  {
+   "q": "¿Por qué no sacar el diente de una vez?",
+   "a": "Es mejor conservar tu propio diente si se puede. El médico te dirá si hay posibilidad."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes la cirugía de la raíz del diente. Sin alcohol. Come 1 o 2 horas antes de la cita. Los medicamentos, como te dijo el médico."
+  }
+ ]
+}

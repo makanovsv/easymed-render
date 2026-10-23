@@ -1,0 +1,78 @@
+{
+ "title": "Indução da ovulação",
+ "also": [
+  "indução da ovulação",
+  "estimulação ovariana",
+  "monitoramento da ovulação",
+  "ultrassom seriado"
+ ],
+ "what": "O médico receita comprimidos ou injeções para um óvulo amadurecer. No ultrassom, ele acompanha o crescimento do folículo.",
+ "why": "Quando não há ovulação própria ou ela é rara, no planejamento da gravidez.",
+ "duration": "normalmente cada tentativa dura um ciclo; ultrassons de 10 a 20 minutos, algumas vezes",
+ "tell_doctor": [
+  "Como está o seu ciclo",
+  "Resultados de exames e tentativas anteriores",
+  "Todos os remédios: não pare por conta própria",
+  "Se o parceiro tem espermograma",
+  "Doenças crônicas"
+ ],
+ "prepare": [
+  {
+   "title": "Ciclo",
+   "text": "A indução começa num dia certo do ciclo. O médico vai dizer quando vir."
+  },
+  {
+   "title": "Remédios",
+   "text": "Tome exatamente conforme o esquema, sempre no mesmo horário."
+  },
+  {
+   "title": "Calendário",
+   "text": "Anote no calendário as datas dos ultrassons e dos remédios."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Diário do ciclo",
+  "Esquema dos remédios",
+  "Exames anteriores"
+ ],
+ "steps": [
+  "No começo do ciclo, o médico faz um ultrassom",
+  "Receita comprimidos ou injeções",
+  "Alguns dias depois, você volta para o ultrassom",
+  "O médico vê quantos folículos há e de que tamanho",
+  "Quando o folículo amadurece, pode receitar uma injeção para ovular",
+  "O médico diz em quais dias planejar a relação ou o procedimento"
+ ],
+ "feel": [
+  "O ultrassom transvaginal incomoda um pouco, mas não dói",
+  "Às vezes há inchaço e dor em peso no pé da barriga",
+  "Pode haver mudanças de humor"
+ ],
+ "after": [
+  "Siga as orientações do médico dia a dia",
+  "Teste de gravidez quando o médico disser",
+  "Se não der certo, a indução pode ser repetida"
+ ],
+ "red_flags": [
+  "Dor forte na barriga, barriga muito inchada ou falta de ar: ligue para a emergência",
+  "Ganho de peso rápido em 1 a 2 dias, pouca urina",
+  "Sangramento forte"
+ ],
+ "faq": [
+  {
+   "q": "Quantas vezes dá para fazer a indução?",
+   "a": "Normalmente um número limitado de ciclos seguidos. Quantos, o médico decide."
+  },
+  {
+   "q": "Pode dar gêmeos?",
+   "a": "O risco de gêmeos é maior. Por isso o médico acompanha de perto no ultrassom."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o ultrassom da indução. Tome os remédios conforme o esquema e anote suas dúvidas."
+  }
+ ]
+}

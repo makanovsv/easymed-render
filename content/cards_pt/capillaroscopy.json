@@ -1,0 +1,67 @@
+{
+ "title": "Capilaroscopia periungueal",
+ "also": [
+  "capilaroscopia",
+  "capilaroscopia das unhas",
+  "videocapilaroscopia"
+ ],
+ "what": "O médico olha, com um microscópio especial, os vasinhos na borda das unhas das mãos.",
+ "why": "Quando os dedos ficam brancos ou roxos no frio, e com suspeita de algumas doenças do tecido conjuntivo.",
+ "duration": "normalmente 15 a 30 minutos, o laudo sai na hora ou no mesmo dia",
+ "tell_doctor": [
+  "Se os dedos mudam de cor no frio",
+  "Quais remédios você toma",
+  "Se tem machucados ou feridas na pele perto das unhas"
+ ],
+ "prepare": [
+  {
+   "title": "Unhas",
+   "text": "Mais ou menos uma semana antes, não faça as unhas e não tire a cutícula. Tire o esmalte."
+  },
+  {
+   "title": "Antes do exame",
+   "text": "No dia do exame, é melhor não fumar e não tomar café. Confirme com a clínica."
+  },
+  {
+   "title": "Calor",
+   "text": "Chegue um pouco antes, para as mãos se aquecerem na sala."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "Resultados de exames anteriores, se teve"
+ ],
+ "steps": [
+  "Você se senta e apoia a mão na mesa",
+  "As mãos ficam alguns minutos se acostumando ao calor da sala",
+  "Pingam um óleo na pele perto da unha",
+  "O médico olha cada dedo no microscópio",
+  "As imagens são salvas para o laudo"
+ ],
+ "feel": [
+  "Não dói",
+  "É preciso manter a mão parada e tranquila"
+ ],
+ "after": [
+  "Limpam o óleo e você pode ir",
+  "O laudo sai na hora ou no mesmo dia",
+  "Converse sobre o resultado com o médico que pediu o exame"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Por que não pode fazer as unhas?",
+   "a": "A manicure machuca a pele perto da unha, e os vasinhos ficam difíceis de ver."
+  },
+  {
+   "q": "É perigoso?",
+   "a": "Não. É só uma observação com aumento."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a capilaroscopia. Tire o esmalte das unhas. De manhã, não fume e não tome café."
+  }
+ ]
+}

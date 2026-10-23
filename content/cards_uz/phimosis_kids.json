@@ -1,0 +1,77 @@
+{
+ "title": "O‘g‘il bolada fimozni davolash",
+ "also": [
+  "bolada fimoz",
+  "tibbiy ko‘rsatma bilan sunnat",
+  "sirkumtsiziya",
+  "dumbalarni kesish"
+ ],
+ "what": "Shifokor tor jinsiy a’zo terisini bosh ochilishi uchun bo‘shatadi. Ba’zan malham yetarli, ba’zan kichik operatsiya kerak.",
+ "why": "Teri ochilmay xalaqit berganda: yallig‘lanishlar, siydik chiqarishda shishib ketish, chandiqlar. Chaqaloqlarda tor teri ko‘pincha normal.",
+ "duration": "maslahat 15–20 daqiqa; operatsiya odatda 15–40 daqiqa, o‘sha kuni uyga",
+ "tell_doctor": [
+  "Yallig‘lanishlar bo‘lganmi va qanchalik tez-tez",
+  "Bola qanday siydik qiladi: teri shishadimi, oqim ingichkami",
+  "Dorilarga allergiyalar",
+  "Narkoz rejalashtirilsa, oxirgi 2 haftada shamollash",
+  "Oilada qon kasalliklari yoki qon ketishga moyillik bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Kuchsiz",
+   "text": "Uyda terini kuch bilan tortmang — bu zarar qiladi va chandiq hosil qiladi."
+  },
+  {
+   "title": "Og‘riqsizlantirish",
+   "text": "Bolalarda operatsiyani odatda narkoz ostida, ba’zan mahalliy og‘riqsizlantirish bilan qilishadi. Klinikadan aniqlang."
+  },
+  {
+   "title": "Ovqat va suv",
+   "text": "Narkoz bo‘lsa, ovqat va suvsiz turish vaqtini klinika belgilaydi."
+  }
+ ],
+ "bring": [
+  "Bola va ota-onaning hujjatlari",
+  "Keng ichki kiyim va shim",
+  "Sevimli o‘yinchoq"
+ ],
+ "steps": [
+  "Shifokor ko‘radi va hal qiladi: malham yoki operatsiya",
+  "Operatsiya bo‘lsa — bola narkoz ostida uxlaydi",
+  "Shifokor tor terini kesadi yoki olib tashlaydi",
+  "Ingichka so‘riladigan choklar qo‘yiladi",
+  "Malham surtiladi va yengil bog‘lam qo‘yiladi"
+ ],
+ "feel": [
+  "Dastlabki 2–3 kun og‘riydi va siydik chiqarganda achiydi",
+  "Shish va qizarish — bu normal va o‘tib ketadi",
+  "Bola siydik qilishdan qo‘rqishi mumkin — iliq vannacha yordam beradi"
+ ],
+ "after": [
+  "Dastlabki kunlari keng ichki kiyim",
+  "Parvarish va vannachalar — shifokor aytganidek",
+  "Choklar odatda 1–3 haftada o‘zi so‘riladi",
+  "Faol o‘yinlar — shifokor ruxsati bilan"
+ ],
+ "red_flags": [
+  "Bola bir necha soat siydik qila olmasa",
+  "Bosganda to‘xtamaydigan qon ketishi",
+  "Harorat 38 dan yuqori, yiring, kuchli shish"
+ ],
+ "faq": [
+  {
+   "q": "Chaqaloqda bosh ochilmasligi normalmi?",
+   "a": "Ha, kichik o‘g‘il bolalarda bu ko‘pincha normal. Ko‘p holatlar yoshi bilan o‘zi o‘tadi."
+  },
+  {
+   "q": "Operatsiyasiz bo‘ladimi?",
+   "a": "Ko‘pincha malham kursi yordam beradi. Malham yordam bermasa yoki chandiqlar bo‘lsa — operatsiya kerak."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga o‘g‘lingiz uchun muolaja. Narkoz bo‘lsa — ovqat va suv faqat klinika bergan vaqtgacha."
+  }
+ ]
+}

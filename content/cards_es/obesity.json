@@ -1,0 +1,73 @@
+{
+ "title": "Tratamiento de la obesidad con el médico",
+ "also": [
+  "tratamiento del sobrepeso",
+  "bajar de peso con el médico",
+  "pérdida de peso",
+  "médico de obesidad"
+ ],
+ "what": "El médico ayuda a bajar de peso de forma segura y duradera. Busca las causas, arma un plan y vigila el resultado.",
+ "why": "Con sobrepeso, sobre todo si hay presión alta, diabetes, dolor de articulaciones, ronquidos; cuando no logras bajar de peso por tu cuenta.",
+ "duration": "la primera consulta normalmente dura de 30 a 60 minutos; el tratamiento, meses",
+ "tell_doctor": [
+  "Cómo ha cambiado tu peso y qué has probado",
+  "Qué medicamentos tomas; algunos influyen en el peso",
+  "Si tienes diabetes, presión alta, enfermedades de la tiroides",
+  "Cómo duermes, si roncas",
+  "Si tienes atracones de comida"
+ ],
+ "prepare": [
+  {
+   "title": "Diario de comida",
+   "text": "Durante 3 a 7 días anota todo lo que comes y bebes. Es lo que más ayuda."
+  },
+  {
+   "title": "Análisis",
+   "text": "El médico puede pedir análisis de azúcar, colesterol, hormonas. Normalmente en ayunas."
+  },
+  {
+   "title": "Meta",
+   "text": "Piensa qué quieres lograr y qué te estorba."
+  }
+ ],
+ "bring": [
+  "Identificación",
+  "El diario de comida",
+  "Los últimos análisis",
+  "La lista de medicamentos"
+ ],
+ "steps": [
+  "El médico te pregunta por la alimentación, el movimiento, el sueño y las enfermedades",
+  "Mide el peso, la estatura, la circunferencia de la cintura y la presión",
+  "A veces determina la composición corporal en una báscula especial",
+  "Pide análisis, si hace falta",
+  "Arma contigo un plan",
+  "Acuerdan las siguientes visitas"
+ ],
+ "feel": [
+  "La consulta no duele",
+  "Hablar del peso puede ser incómodo; el médico está para ayudar, no para juzgar"
+ ],
+ "after": [
+  "Normalmente la meta es bajar del 5 al 10 % del peso en varios meses",
+  "Los medicamentos para bajar de peso los receta solo el médico",
+  "Las visitas regulares ayudan a mantener el resultado"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Se puede bajar de peso rápido?",
+   "a": "Lo que se baja rápido muchas veces regresa. El médico elegirá un ritmo seguro para ti."
+  },
+  {
+   "q": "¿Hay pastillas para el sobrepeso?",
+   "a": "Hay medicamentos, pero solo los receta el médico y no a todos."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta para bajar de peso. Lleva el diario de comida y los últimos análisis."
+  }
+ ]
+}

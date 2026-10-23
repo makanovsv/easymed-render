@@ -1,0 +1,71 @@
+{
+ "title": "Biometría del ojo antes de la cirugía de catarata",
+ "also": [
+  "biometría ocular",
+  "cálculo del lente intraocular",
+  "IOLMaster",
+  "medir el largo del ojo"
+ ],
+ "what": "Un aparato mide el largo del ojo y la curva de la córnea. Con esos números eligen el lente artificial para la cirugía.",
+ "why": "Antes de la cirugía de catarata y a veces antes de otras cirugías del cristalino.",
+ "duration": "normalmente de 10 a 20 minutos; el resultado es inmediato",
+ "tell_doctor": [
+  "Si usas lentes de contacto",
+  "Si tuviste cirugía láser u otras cirugías en los ojos",
+  "Cómo quieres ver después de la cirugía: de lejos o de cerca",
+  "Si tienes ojo seco"
+ ],
+ "prepare": [
+  {
+   "title": "Lentes de contacto",
+   "text": "Normalmente se dejan de usar unos días antes. La clínica te dirá cuánto."
+  },
+  {
+   "title": "Maquillaje",
+   "text": "Llega sin maquillaje en los ojos."
+  },
+  {
+   "title": "Transporte",
+   "text": "Si te van a dilatar la pupila, es mejor no manejar después."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Tus lentes",
+  "Informes de cirugías de los ojos, si tuviste",
+  "Un acompañante, si te van a poner gotas"
+ ],
+ "steps": [
+  "Te sientas frente al aparato y apoyas la barbilla",
+  "Miras un punto de luz",
+  "El aparato mide cada ojo con luz, sin tocarlo",
+  "A veces miden con ultrasonido después de poner gotas",
+  "El médico calcula la potencia del lente"
+ ],
+ "feel": [
+  "No duele",
+  "La luz es brillante y hay que mirar sin parpadear unos segundos"
+ ],
+ "after": [
+  "Si te pusieron gotas, no te talles los ojos",
+  "El resultado se usa para elegir el lente",
+  "La fecha de la cirugía normalmente se acuerda en la consulta"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Por qué hay que medir, si la cirugía es de rutina?",
+   "a": "Cada ojo es diferente. Un cálculo exacto decide cómo vas a ver después de la cirugía."
+  },
+  {
+   "q": "¿Puedo elegir un lente para leer sin lentes?",
+   "a": "Platícalo con tu cirujano. Hay distintas opciones y el médico te recomendará la adecuada."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu biometría del ojo. Quítate los lentes de contacto si así te lo dijo la clínica. Ven sin maquillaje."
+  }
+ ]
+}

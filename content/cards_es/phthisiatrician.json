@@ -1,0 +1,75 @@
+{
+ "title": "Consulta con el especialista en tuberculosis",
+ "also": [
+  "neumólogo de tuberculosis",
+  "médico de tuberculosis",
+  "dispensario antituberculoso",
+  "prueba de tuberculosis"
+ ],
+ "what": "El médico revisa si hay tuberculosis y la trata. A menudo te mandan solo para una revisión.",
+ "why": "Con cambios en la radiografía de tórax, prueba de tuberculosis positiva, contacto con un enfermo, tos larga o para pedir un certificado.",
+ "duration": "la consulta suele durar de 20 a 30 minutos; los estudios, de unos días a un par de semanas",
+ "tell_doctor": [
+  "Si tuviste contacto con alguien con tuberculosis",
+  "Tos, sudor por la noche, pérdida de peso, fiebre",
+  "Si antes tuviste tuberculosis",
+  "Si tienes VIH o diabetes, o tomas hormonas",
+  "Resultados de pruebas y radiografías anteriores"
+ ],
+ "prepare": [
+  {
+   "title": "Imágenes",
+   "text": "Lleva la radiografía o la tomografía de pulmones y las pruebas de tuberculosis, si las tienes."
+  },
+  {
+   "title": "Esputo",
+   "text": "Si te piden un análisis de esputo, se recoge en la mañana, antes de comer, en un frasco especial. Te explicarán cómo."
+  },
+  {
+   "title": "Mascarilla",
+   "text": "Si tienes tos, ve con mascarilla."
+  }
+ ],
+ "bring": [
+  "Un documento de identidad",
+  "La orden médica",
+  "Las imágenes de los pulmones",
+  "Los resultados de las pruebas de tuberculosis"
+ ],
+ "steps": [
+  "El médico te pregunta por tus molestias y contactos",
+  "Escucha tus pulmones",
+  "Revisa las imágenes y las pruebas",
+  "Puede pedir una tomografía, análisis de esputo o de sangre",
+  "Te explica el resultado",
+  "Si hace falta, indica tratamiento o seguimiento"
+ ],
+ "feel": [
+  "La consulta no duele",
+  "Si te hacen la prueba en la piel, es un pinchazo corto en el antebrazo"
+ ],
+ "after": [
+  "Si no hay tuberculosis, te dan un informe",
+  "Si te recetan tratamiento, se toma por mucho tiempo y sin saltarse dosis",
+  "Quizá también tus familiares necesiten revisarse"
+ ],
+ "red_flags": [
+  "Tos con sangre o falta de aire fuerte: llama a emergencias"
+ ],
+ "faq": [
+  {
+   "q": "Si me mandan a este médico, ¿tengo tuberculosis?",
+   "a": "No. Casi siempre es solo una revisión para descartar la enfermedad."
+  },
+  {
+   "q": "¿La tuberculosis se cura?",
+   "a": "Sí. Lo importante es tomar los medicamentos todo el tiempo indicado, sin saltarse ninguno."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana tienes consulta de tuberculosis. Lleva tus imágenes de pulmones y los resultados de las pruebas."
+  }
+ ]
+}

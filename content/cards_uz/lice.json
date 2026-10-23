@@ -1,0 +1,81 @@
+{
+ "title": "Bolada bit (pedikulyoz)ni davolash",
+ "also": [
+  "bit",
+  "pedikulyoz",
+  "saska",
+  "bolada bit",
+  "bitni qanday yo‘qotish"
+ ],
+ "what": "Bit — sochdagi mayda hasharot. U xavfli emas, lekin qichishtiradi va boshqalarga oson yuqadi. Uni maxsus vosita va taroqlash bilan yo‘qotishadi.",
+ "why": "Bolaning boshi qichiganda va sochda bit yoki saska — ildiz yonidagi oq nuqtalar ko‘rinsa.",
+ "duration": "ishlov odatda 30–60 daqiqa; takrorlash — odatda 7–10 kundan keyin",
+ "tell_doctor": [
+  "Bolaning yoshi, allergiyalari, astma",
+  "Vosita allaqachon sinab ko‘rilgan va yordam bermagan bo‘lsa",
+  "Bosh terisida yaralar va toshma bormi",
+  "Homilador bo‘lsangiz va o‘zingizni ishlasangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Vosita",
+   "text": "Vositani bolaning yoshiga qarab tanlang. Pediatr yoki dorixonachidan aniqlab oling."
+  },
+  {
+   "title": "Taroq",
+   "text": "Saskani taroqlash uchun siyrak bo‘lmagan, zich taroq kerak."
+  },
+  {
+   "title": "Oila",
+   "text": "Uydagilarning hammasini ko‘zdan kechiring. Faqat bit topilganlarni ishlashadi."
+  },
+  {
+   "title": "Bog‘cha va maktab",
+   "text": "Tarbiyachi yoki o‘qituvchiga ayting, boshqa bolalarni tekshirishsin."
+  }
+ ],
+ "bring": [
+  "Bitga qarshi vosita",
+  "Zich taroq",
+  "Sochiq va yelkaga yoyiladigan och rangli mato",
+  "Yaxshi yoritish"
+ ],
+ "steps": [
+  "Vositani sochga yo‘riqnoma bo‘yicha qat’iy surting",
+  "Aytilgan daqiqa qoldiring",
+  "Yo‘riqnomadagidek shampun yoki suv bilan yuving",
+  "Sochni zich taroq bilan ildizdan boshlab tutam-tutam taroqlang",
+  "Taroqni har tutamdan keyin salfetka bilan artib turing",
+  "Yo‘riqnomada aytilgan bo‘lsa, 7–10 kundan keyin takrorlang",
+  "Choyshab va bosh kiyimlarni issiq suvda yuving"
+ ],
+ "feel": [
+  "Bolaga uzoq o‘tirish zerikarli — multfilm qo‘yib bering",
+  "Ba’zan vositadan teri yengil chimchilaydi"
+ ],
+ "after": [
+  "Bir necha kun boshni taroq bilan tekshirib turing",
+  "Bolaga taroq va bosh kiyim almashtirmaslikni tushuntiring",
+  "Boshni qirib tashlash odatda kerak emas"
+ ],
+ "red_flags": [
+  "Vositadan keyin toshma, shish, terining kuchli tirnashishi — yuvib tashlang va shifokorga boring",
+  "Boshda yiringli yaralar, harorat — shifokorga boring"
+ ],
+ "faq": [
+  {
+   "q": "Bit ifloslikdan paydo bo‘ladimi?",
+   "a": "Yo‘q. Bit bosh-bosh tegishda yuqadi. U toza sochda ham bo‘ladi."
+  },
+  {
+   "q": "Ishlovdan keyin bog‘chaga borish mumkinmi?",
+   "a": "Odatda ha, birinchi ishlovdan keyin. Bog‘cha yoki maktabingiz qoidalarini aniqlab oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun bitga qarshi ishlov. Vosita, zich taroq, sochiq, yaxshi yorug‘lik."
+  }
+ ]
+}

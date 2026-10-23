@@ -1,0 +1,30 @@
+kids_neuro|visit|Приём детского невролога|Paediatric neurology visit|office|L|1
+cv_risk|visit|Оценка сердечно-сосудистого риска|Cardiovascular risk assessment|office|L|2
+fatty_liver|visit|Жировой гепатоз: наблюдение у гепатолога|Fatty liver: hepatology follow-up|office|L|2
+proctologist|visit|Приём проктолога|Proctology visit|proc_room|L|2
+chronic_cough|visit|Обследование при хроническом кашле|Chronic cough evaluation|office|L|2
+diabetes_foot_exam|visit|Осмотр стоп при диабете (чувствительность)|Diabetic foot examination|office|L|2
+obesity|visit|Лечение ожирения у врача|Medical weight management|office|L|2
+osteoporosis|visit|Обследование и лечение остеопороза|Osteoporosis assessment and treatment|office|L|2
+gout|visit|Подагра: лечение и диета|Gout: treatment and diet|office|L|2
+ra_followup|visit|Наблюдение при ревматоидном артрите|Rheumatoid arthritis follow-up|office|L|3
+cancer_screen_age|visit|Онкоскрининг по возрасту: что и когда|Age-based cancer screening: what and when|office|L|1
+phlebologist|visit|Приём флеболога|Vein specialist (phlebologist) visit|office|L|2
+somnologist|visit|Приём сомнолога|Sleep specialist visit|office|L|3
+narcologist|visit|Приём нарколога|Addiction specialist visit|office|L|3
+phthisiatrician|visit|Приём фтизиатра|Tuberculosis specialist visit|office|L|3
+geriatrician|visit|Приём гериатра|Geriatrician visit|office|L|3
+palliative_home|visit|Паллиативная помощь на дому|Palliative care at home|home|L|3
+kids_orvi|visit|Ребёнок заболел ОРВИ: приём педиатра|Child with a cold: paediatrician visit|office|L|1
+kids_endo|visit|Приём детского эндокринолога (рост, вес, половое созревание)|Paediatric endocrinology (growth, weight, puberty)|office|L|3
+dispans_rf|visit|Диспансеризация взрослых (РФ)|Adult preventive health check (Russia)|office|L|1
+screening_kz|visit|Скрининговые осмотры по возрасту (РК)|Age-based screening programme (Kazakhstan)|office|L|1
+dispensary|visit|Диспансерное наблюдение при хронической болезни|Chronic disease follow-up programme|office|L|2
+military_cert|visit|Медкомиссия в военкомате|Military medical board|office|L|2
+gun_cert|visit|Медкомиссия на оружие|Medical certificate for a firearms licence|office|L|3
+san_book|visit|Санитарная книжка|Health certificate for food and childcare workers|office|L|2
+university_cert|visit|Медсправка для поступления в вуз|Medical certificate for university admission|office|L|2
+pool_cert|visit|Справка в бассейн|Medical certificate for a swimming pool|office|L|2
+migrant_cert|visit|Медосвидетельствование для мигрантов и ВНЖ|Medical exam for migrants and residence permits|office|L|2
+disability_mse|visit|Медико-социальная экспертиза (инвалидность)|Disability assessment|office|L|3
+predtrip|visit|Предрейсовый медосмотр водителя|Pre-trip medical check for drivers|office|L|2

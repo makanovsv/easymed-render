@@ -1,0 +1,77 @@
+{
+ "title": "Espirometria na criança",
+ "also": [
+  "espirometria infantil",
+  "prova de função pulmonar na criança",
+  "teste de respiração para crianças",
+  "exame do sopro"
+ ],
+ "what": "A criança sopra num tubinho, e o aparelho mostra como os pulmões dela funcionam. Muitas vezes há um jogo na tela para isso.",
+ "why": "Com tosse frequente, chiado no peito, suspeita de asma, e para ver se o tratamento está ajudando.",
+ "duration": "normalmente 15 a 30 minutos, o resultado sai na hora",
+ "tell_doctor": [
+  "Quais bombinhas e remédios a criança usa",
+  "Se agora está gripada ou com febre",
+  "Se a criança tem medo de procedimentos"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Às vezes a bombinha não é dada por algumas horas antes do teste. Só o médico diz. Não suspenda por conta própria."
+  },
+  {
+   "title": "Saúde",
+   "text": "Se a criança ficou doente, normalmente é melhor adiar o teste. Ligue para a clínica."
+  },
+  {
+   "title": "Comida",
+   "text": "Café da manhã leve, sem exagero. Com a barriga cheia é difícil soprar."
+  },
+  {
+   "title": "Conversa",
+   "text": "Em casa, explique: vai ser preciso soprar forte, como para apagar as velinhas do bolo."
+  }
+ ],
+ "bring": [
+  "Pedido médico",
+  "As bombinhas da criança",
+  "O brinquedo preferido",
+  "Documentos da criança"
+ ],
+ "steps": [
+  "A criança senta reta, e colocam um clipe macio no nariz",
+  "Explicam o que fazer. Muitas vezes mostram um jogo na tela",
+  "Ela puxa o ar fundo e sopra forte no tubo",
+  "Repetem algumas vezes para conseguir um bom resultado",
+  "Às vezes dão a bombinha e repetem o teste depois de 15 a 20 minutos"
+ ],
+ "feel": [
+  "Não dói",
+  "O clipe no nariz é um pouco estranho",
+  "De tanto soprar pode dar tontura ou tosse"
+ ],
+ "after": [
+  "O resultado normalmente sai na hora",
+  "O médico explica e, se for preciso, muda o tratamento",
+  "Elogie a criança. Isso ajuda na próxima vez"
+ ],
+ "red_flags": [
+  "Depois do teste a criança tem dificuldade para respirar, chiado no peito e a bombinha não ajuda: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A partir de que idade pode?",
+   "a": "Normalmente a partir de 5 a 6 anos, quando a criança consegue seguir as instruções. Confirme com o médico."
+  },
+  {
+   "q": "E se não der certo?",
+   "a": "Isso acontece. O teste é repetido, às vezes em outro dia."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã a criança faz a espirometria. Não dê a bombinha, se o médico disse. Leve um brinquedo."
+  }
+ ]
+}

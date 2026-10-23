@@ -1,0 +1,79 @@
+{
+ "title": "Stool PCR for gut infections (rotavirus, norovirus)",
+ "also": [
+  "stool PCR",
+  "gut infection test",
+  "rotavirus test",
+  "norovirus test",
+  "stomach flu test"
+ ],
+ "what": "This stool test looks for viruses and germs that cause diarrhea and vomiting.",
+ "why": "For sudden diarrhea and vomiting, especially in children, and for outbreaks in a family or group.",
+ "duration": "collection takes a few minutes; results usually come in 1 to 2 days",
+ "tell_doctor": [
+  "How many days the diarrhea and vomiting have lasted",
+  "If there is blood or mucus in the stool",
+  "What medicines were already given",
+  "If anyone else in the family is sick"
+ ],
+ "prepare": [
+  {
+   "title": "Container",
+   "text": "Get a sterile container from a pharmacy or the lab. For stool, choose one with a small spoon in the lid."
+  },
+  {
+   "title": "Antibiotics",
+   "text": "It is better to do the test before starting antibiotics. If you already take them, do not stop on your own. Tell your doctor."
+  },
+  {
+   "title": "Collection",
+   "text": "Collect stool from a clean surface or a diaper, not from the toilet water. Do not mix in urine."
+  },
+  {
+   "title": "Delivery",
+   "text": "Bring the container to the lab the same day. Ask the lab how to store it until then."
+  }
+ ],
+ "bring": [
+  "The stool container",
+  "Your referral",
+  "Your ID"
+ ],
+ "steps": [
+  "Line the potty or toilet with clean plastic wrap or paper",
+  "Use the spoon in the lid to take a bit of stool, ideally with some of the liquid part",
+  "Put it in the container. Fill no more than a third",
+  "Close it tightly and label it",
+  "Wash your hands and take the container to the lab"
+ ],
+ "feel": [
+  "Nothing unpleasant. It is a normal stool sample",
+  "Collecting it does not bother a child. You can take it from a potty or diaper"
+ ],
+ "after": [
+  "Give fluids often, in small sips. This matters most with diarrhea",
+  "Wash your hands after the toilet and after changing diapers",
+  "Your doctor will explain the result"
+ ],
+ "red_flags": [
+  "The child has not peed for a long time, has a dry mouth, or cries without tears: see a doctor urgently",
+  "Blood in the stool or a high fever: see a doctor the same day",
+  "Severe drowsiness, the child will not wake up, or seizures: call emergency services"
+ ],
+ "faq": [
+  {
+   "q": "Can I collect stool from a diaper?",
+   "a": "Yes, if it has not soaked in. Scoop it from the surface of the diaper with the spoon."
+  },
+  {
+   "q": "Are antibiotics needed for rotavirus?",
+   "a": "Usually not. It is a virus. Drinking fluids is the main thing. Your doctor will prescribe treatment."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Stool PCR tomorrow. Get the container and clean plastic wrap ready for collection."
+  }
+ ]
+}

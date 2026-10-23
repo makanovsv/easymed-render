@@ -1,0 +1,75 @@
+{
+ "title": "Elektroforez",
+ "also": [
+  "dori bilan elektroforez",
+  "tok bilan fizioprotsedura",
+  "galvanizatsiya",
+  "dorili elektroforez"
+ ],
+ "what": "Kuchsiz elektr toki dorining teri orqali kerakli joyga o‘tishiga yordam beradi. Tanaga elektrodli nam prokladkalar qo‘yiladi.",
+ "why": "Bo‘g‘imlar va bel og‘riqlarida, jarohatlardan keyin, yallig‘lanishda — shifokor tayinlovi bo‘yicha davoning bir qismi sifatida. Bolalarda ham qo‘llanadi.",
+ "duration": "muolaja odatda 10–20 daqiqa; kurs odatda taxminan 10 muolaja — qanchaligini shifokor hal qiladi",
+ "tell_doctor": [
+  "Yurak stimulyatori yoki shu hududda metall bo‘lsa",
+  "Homilador bo‘lsangiz",
+  "Harorat ko‘tarilgan bo‘lsa",
+  "Dorilarga allergiya",
+  "Muolaja joyida teridagi yara, toshma yoki shilinishlar",
+  "Onkologik kasalliklar"
+ ],
+ "prepare": [
+  {
+   "title": "Teri",
+   "text": "Teri toza, kremsiz va yarasiz bo‘lsin."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Och yoki to‘yib ovqatlanganingizdan keyin darhol kelmang."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Qulay, kerakli joyni ochish uchun. Shu hududdagi taqinchoqlarni yeching."
+  }
+ ],
+ "bring": [
+  "Shifokor yo‘llanmasi",
+  "Dori, agar klinika o‘zingiznikini olib kelishni so‘ragan bo‘lsa",
+  "Sochiq, agar so‘rashsa"
+ ],
+ "steps": [
+  "Qulay yotasiz yoki o‘tirasiz",
+  "Teriga nam prokladkalar, ba’zan dori bilan, qo‘yiladi",
+  "Tepasiga — elektrodlar, ular mahkamlanadi",
+  "Hamshira apparatni yoqib, tokni asta-sekin oshiradi",
+  "Muolaja oxirigacha tinch yotasiz",
+  "Prokladkalar olinadi, teri artiladi"
+ ],
+ "feel": [
+  "Yengil chimirlash yoki chimchilash",
+  "Kuyish bo‘lmasligi kerak — darhol hamshiraga ayting"
+ ],
+ "after": [
+  "Elektrodlar ostida yengil qizarish qolishi mumkin — o‘zi o‘tadi",
+  "Muolajadan keyin terini darhol ishqalamang va ho‘llamang",
+  "Muolajalarga jadval bo‘yicha boring — kurs muhim"
+ ],
+ "red_flags": [
+  "Teridagi kuyish, pufak yoki kuchli qizarish — shifokorga ko‘rsating"
+ ],
+ "faq": [
+  {
+   "q": "Bu og‘riydimi?",
+   "a": "Yo‘q. Odatda faqat yengil chimirlash seziladi."
+  },
+  {
+   "q": "Bolaga mumkinmi?",
+   "a": "Ha, shifokor tayinlasa, bolalarga ham elektroforez qilinadi. Ular uchun tok kuchsizroq tanlanadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Bugun elektroforez. Teri kremsiz bo‘lsin, yo‘llanmani oling."
+  }
+ ]
+}

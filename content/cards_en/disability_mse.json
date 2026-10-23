@@ -1,0 +1,72 @@
+{
+ "title": "Medical and social assessment (disability)",
+ "also": [
+  "disability assessment",
+  "disability evaluation",
+  "medical and social assessment",
+  "applying for disability status"
+ ],
+ "what": "A commission decides whether a person has a disability and what help they need. The decision is based on medical papers and an examination.",
+ "why": "For lasting health problems after an illness or injury that make it hard to work or take care of yourself.",
+ "duration": "gathering papers takes weeks, the assessment itself usually takes up to an hour, and the decision comes the same day or later",
+ "tell_doctor": [
+  "All your illnesses and how they get in the way of life",
+  "Which medicines and treatment you get",
+  "Which aids you need: a cane, a wheelchair, a hearing aid",
+  "Difficulties with work, daily life, and getting around"
+ ],
+ "prepare": [
+  {
+   "title": "Referral",
+   "text": "Usually your treating doctor arranges the referral for assessment after the needed tests."
+  },
+  {
+   "title": "Papers",
+   "text": "Collect discharge papers, reports, and test results. The more complete they are, the more accurate the decision."
+  },
+  {
+   "title": "Remote assessment",
+   "text": "Sometimes the assessment is done without a visit, from papers. Check with your clinic."
+  }
+ ],
+ "bring": [
+  "An ID",
+  "The referral for assessment",
+  "Medical papers and discharge summaries",
+  "Work record or a note from work, if asked"
+ ],
+ "steps": [
+  "Your treating doctor sends you for tests",
+  "Prepares the referral for assessment",
+  "The commission studies the papers",
+  "If an in-person exam is needed, you are invited",
+  "Specialists talk to you and examine you",
+  "The commission makes a decision and draws up a rehabilitation program"
+ ],
+ "feel": [
+  "The exam does not hurt",
+  "The process can be long and tiring"
+ ],
+ "after": [
+  "You receive a certificate and a rehabilitation program",
+  "The decision can be appealed within the set time",
+  "Keep track of the date of re-assessment"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Can the assessment be done at home?",
+   "a": "If a person cannot come, a home visit or a papers-only assessment is possible. Check with your clinic."
+  },
+  {
+   "q": "What if I disagree with the decision?",
+   "a": "It can be appealed. The office will explain the procedure and deadlines."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Medical and social assessment tomorrow. Check that all your papers and the referral are with you."
+  }
+ ]
+}

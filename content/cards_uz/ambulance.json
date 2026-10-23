@@ -1,0 +1,82 @@
+{
+ "title": "Tez yordamni qachon va qanday chaqirish kerak",
+ "also": [
+  "tez yordam",
+  "tez yordam chaqirish",
+  "103",
+  "112",
+  "shoshilinch yordam"
+ ],
+ "what": "Tez yordamga qo‘ng‘iroq qilish vaqti kelganini qanday tushunish va dispetcherga nima deyish kerak. 103 ga qo‘ng‘iroq qiling, mobil telefondan 112 ham bo‘ladi.",
+ "why": "Xavfli holatlarda: ko‘krak og‘rig‘i, nafas olish qiyin, insult belgilari, hushdan ketish, kuchli qon ketish, og‘ir jarohat.",
+ "duration": "dispetcher bilan suhbat odatda 1–3 daqiqa; yetib kelish vaqti shoshilinchlik va joyga bog‘liq",
+ "tell_doctor": [
+  "Nima bo‘ldi va qachon",
+  "Yoshi va ahvoli: ongi joyidami, nafas olyaptimi",
+  "Aniq manzil: kirish, qavat, domofon kodi",
+  "Telefon raqamingiz"
+ ],
+ "prepare": [
+  {
+   "title": "Raqamlar",
+   "text": "Eslab qoling: 103 — tez yordam, 112 — mobil telefondan yagona xizmat."
+  },
+  {
+   "title": "Uyda",
+   "text": "Bemorning hujjatlari va dorilar ro‘yxatini bir joyda saqlang."
+  },
+  {
+   "title": "Kutib olish",
+   "text": "Iloji bo‘lsa, kimdir eshikni ochib, brigadani kirish oldida kutib olsin."
+  }
+ ],
+ "bring": [
+  "Bemorning hujjati",
+  "Dorilar ro‘yxati yoki qadoqlari",
+  "Epikrizlar va EKG, agar bo‘lsa",
+  "Telefon"
+ ],
+ "steps": [
+  "103 ga qo‘ng‘iroq qiling va xotirjam gapiring",
+  "Nima bo‘lganini, yoshini va manzilni ayting",
+  "Dispetcher savollariga javob bering",
+  "Ruxsat bermaguncha go‘shakni qo‘ymang",
+  "Yetib kelguncha dispetcher maslahatlarini bajaring",
+  "Eshikni oching, itlarni olib qo‘ying, hujjatlarni tayyorlang"
+ ],
+ "feel": [
+  "Hayajonlanish normal — dispetcher savollar bilan yordam beradi",
+  "Asosiy narsani aytib qo‘yish muhim: nafas olyaptimi va ongi joyidami"
+ ],
+ "after": [
+  "Tez yordam shifokori ko‘rib, yordam ko‘rsatadi",
+  "Zarur bo‘lsa, bemorni kasalxonaga olib ketishadi",
+  "Uyda qoldirilsa, tavsiyalarni so‘rang"
+ ],
+ "red_flags": [
+  "Ko‘krakda bir necha daqiqadan uzoq og‘riq yoki bosilish — tez yordamni chaqiring (103)",
+  "Yuz qiyshaysa, qo‘l kuchsizlansa, nutq buzilsa — darrov tez yordamni chaqiring (103)",
+  "Nafas olish qiyin, odam hushsiz — tez yordamni chaqiring (103)",
+  "Kuchli qon ketish yoki og‘ir jarohat — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Tez yordam rad etishi mumkinmi?",
+   "a": "Hayot uchun xavf bo‘lsa, tez yordam keladi. Nima bo‘layotganini aniq ayting."
+  },
+  {
+   "q": "Tez yordam yetib kelguncha o‘zim dori bersam bo‘ladimi?",
+   "a": "Dispetcherdan so‘rang — u nima qilish mumkinligini aytadi."
+  },
+  {
+   "q": "Insult belgilarida nima qilish kerak?",
+   "a": "Darrov 103 ga qo‘ng‘iroq qiling va bu qachon boshlanganini eslab qoling. Bu davo uchun muhim."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Eslab qoling: tez yordam — 103, mobil telefondan 112 ham bo‘ladi. Nima bo‘lganini va aniq manzilni ayting."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "title": "Yangi tug‘ilgan chaqaloqning birinchi ko‘rigi",
+ "also": [
+  "chaqaloq patronaji",
+  "pediatrning birinchi tashrifi",
+  "chaqaloq ko‘rigi",
+  "tug‘ruqxonadan keyin pediatr"
+ ],
+ "what": "Pediatr va hamshira tug‘ruqxonadan chiqqandan keyingi dastlabki kunlarda chaqaloqni ko‘rikdan o‘tkazadi. Ko‘pincha ular uyingizga keladi.",
+ "why": "Tug‘ruqxonadan chiqarilgandan keyin barcha yangi tug‘ilgan chaqaloqlarga.",
+ "duration": "odatda 20–40 daqiqa",
+ "tell_doctor": [
+  "Tug‘ruq qanday o‘tdi va tug‘ruqxonada nima deyishdi",
+  "Chaqaloq qanday ovqatlanadi va kuniga necha marta taglikni ho‘llaydi",
+  "Teri sarg‘ayib ketsa",
+  "Kindik qanday bitayapti",
+  "Sizni bezovta qilayotgan hamma narsa"
+ ],
+ "prepare": [
+  {
+   "title": "Hujjatlar",
+   "text": "Tug‘ruqxonadan ko‘chirma va chaqaloq hujjatlarini qo‘l ostida tuting."
+  },
+  {
+   "title": "Savollar",
+   "text": "Ovqatlantirish, uyqu, cho‘mdirish haqidagi savollarni unutmaslik uchun yozib qo‘ying."
+  },
+  {
+   "title": "Joy",
+   "text": "Chaqaloqni ko‘rikdan o‘tkazish uchun o‘rash stoli yoki toza joy tayyorlang."
+  }
+ ],
+ "bring": [
+  "Tug‘ruqxonadan ko‘chirma",
+  "Chaqaloq hujjatlari",
+  "Savollar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor tug‘ruq va ahvolingiz haqida so‘raydi",
+  "Teri, bosh, ko‘z va kindikni ko‘radi",
+  "Yurak va o‘pkani tinglaydi, reflekslarni tekshiradi",
+  "Chaqaloq qanday ovqatlanishini ko‘radi, kerak bo‘lsa emizishda yordam beradi",
+  "Parvarish va nimaga e’tibor berish kerakligini tushuntiradi",
+  "Keyingi tashrif sanasini belgilaydi"
+ ],
+ "feel": [
+  "Yechintirilganda chaqaloq yig‘lashi mumkin — bu normal",
+  "Ko‘rik og‘riqsiz"
+ ],
+ "after": [
+  "Keyingi ko‘rik odatda 1 oyligida",
+  "Kindikni shifokor ko‘rsatganidek parvarish qiling",
+  "Har qanday shubhada poliklinikaga qo‘ng‘iroq qiling"
+ ],
+ "red_flags": [
+  "Chaqaloq lanj, yomon so‘rsa yoki ovqatlanish uchun uyg‘onmasa — tez yordamni chaqiring (103)",
+  "Harorat 38 dan yuqori yoki teri sovuq va oqargan — tez yordamni chaqiring (103)",
+  "Sariqlik kuchaysa yoki teri oyoqlarigacha sarg‘aygan bo‘lsa",
+  "Kindik qizargan, ho‘l yoki yoqimsiz hidli bo‘lsa"
+ ],
+ "faq": [
+  {
+   "q": "Chaqaloq biroz sarg‘ayib qolgani normalmi?",
+   "a": "Dastlabki kunlarda yengil sarg‘ayish tez-tez uchraydi. Uni shifokorga ko‘rsating, tekshirish kerakmi, aytadi."
+  },
+  {
+   "q": "Qanchalik tez-tez ovqatlantirish kerak?",
+   "a": "Odatda talab bo‘yicha, ko‘pincha sutkasiga 8–12 marta. Shifokor chaqaloqqa yetarli bo‘layotganini ko‘radi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga chaqaloqning birinchi ko‘rigi. Tug‘ruqxonadan ko‘chirma va savollar ro‘yxatini tayyorlang."
+  }
+ ]
+}

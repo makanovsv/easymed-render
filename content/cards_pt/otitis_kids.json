@@ -1,0 +1,79 @@
+{
+ "title": "Otite na criança: tratamento e acompanhamento",
+ "also": [
+  "otite infantil",
+  "dor de ouvido na criança",
+  "infecção de ouvido",
+  "otite média"
+ ],
+ "what": "O médico examina o ouvido da criança e decide como tratar a inflamação. Muitas vezes é analgésico e acompanhamento; às vezes, antibiótico.",
+ "why": "Quando a criança tem dor de ouvido, febre, dorme mal, mexe no ouvido ou sai líquido do ouvido.",
+ "duration": "a consulta leva normalmente de 15 a 30 minutos; a otite costuma passar em alguns dias",
+ "tell_doctor": [
+  "Quando a dor começou e se teve febre",
+  "Se saiu secreção do ouvido",
+  "Se já teve otite antes e com que frequência",
+  "Quais remédios já deu",
+  "Se a criança tem alergias"
+ ],
+ "prepare": [
+  {
+   "title": "Analgésico",
+   "text": "Antes da consulta, pode dar um antitérmico infantil na dose pelo peso. Conte ao médico o que deu."
+  },
+  {
+   "title": "Gotas",
+   "text": "Não pingue nada no ouvido antes do exame, principalmente se estiver saindo líquido."
+  },
+  {
+   "title": "Criança",
+   "text": "Explique para a criança que o médico vai olhar o ouvido com uma lanterninha."
+  }
+ ],
+ "bring": [
+  "Documento da criança",
+  "Lista de remédios",
+  "Um brinquedo",
+  "Anotações da febre"
+ ],
+ "steps": [
+  "O médico pergunta sobre os sintomas",
+  "Examina o ouvido com o otoscópio, uma lanterna com funil",
+  "Olha a garganta e o nariz",
+  "Às vezes testa a audição",
+  "Explica o tratamento e quando voltar"
+ ],
+ "feel": [
+  "O exame não dói, mas com a inflamação a criança pode se incomodar",
+  "A criança pode ficar com medo. Segure-a no colo"
+ ],
+ "after": [
+  "Remédios exatamente como o médico receitou",
+  "Se houver antibiótico, não pare antes do prazo",
+  "Não molhe o ouvido doente se estiver saindo líquido",
+  "Volte para a revisão marcada, mesmo que tenha melhorado",
+  "A audição é testada se o líquido no ouvido continuar"
+ ],
+ "red_flags": [
+  "Febre acima de 39 graus ou que dura mais de 2 a 3 dias",
+  "Inchaço e vermelhidão atrás da orelha, orelha ficou para frente",
+  "Criança mole, dor de cabeça forte, vômito ou pescoço duro: ligue para a emergência",
+  "Sai sangue do ouvido ou o pus não diminui"
+ ],
+ "faq": [
+  {
+   "q": "Sempre precisa de antibiótico?",
+   "a": "Não. Muitas otites passam sozinhas. O médico decide pela idade e pelos sintomas."
+  },
+  {
+   "q": "Pode passear com otite?",
+   "a": "Se não tem febre e a criança está bem, normalmente pode. Confirme com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é a consulta do ouvido da criança. Anote os remédios que deu e qual foi a febre."
+  }
+ ]
+}

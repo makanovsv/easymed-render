@@ -1,0 +1,73 @@
+{
+ "title": "Mantu sinamasi va Diaskintest",
+ "also": [
+  "Mantu",
+  "Diaskintest",
+  "sil sinamasi",
+  "tugmacha",
+  "Mantu reaksiyasi"
+ ],
+ "what": "Bilak terisiga maxsus moddaning tomchisi yuboriladi. 3 kundan keyin shifokor qizarish yoki qattiqlik bor-yo‘qligini va qanchalik kattaligini ko‘radi.",
+ "why": "Katta va bolalarda silga tekshirish uchun: maktab va bog‘chalarda har yili, kasal bilan aloqada bo‘lganda, ma’lumotnoma uchun.",
+ "duration": "ukol — 1 daqiqa, tekshirish odatda 72 soatdan keyin",
+ "tell_doctor": [
+  "Hozir harorat, shamollash yoki kasallik avj olgan bo‘lsa",
+  "Allergiya yoki teri kasalliklari bo‘lsa",
+  "Yaqinda emlash qilingan bo‘lsa",
+  "Bola kasal bo‘lsa — shifokorga oldindan xabar bering, sinamani ko‘chirishlari mumkin"
+ ],
+ "prepare": [
+  {
+   "title": "Tayyorgarlik",
+   "text": "Alohida tayyorgarlik kerak emas. Odatdagidek ovqatlansangiz bo‘ladi."
+  },
+  {
+   "title": "Sog‘liq",
+   "text": "Sinama odam sog‘lom bo‘lganda qo‘yiladi. Shamollaganda odatda ko‘chiriladi — shifokordan aniqlab oling."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Tirsakkacha oson ko‘tariladigan yeng."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Hujjat",
+  "Bolaning emlash sertifikati"
+ ],
+ "steps": [
+  "Siz o‘tirasiz, bilak stolga qo‘yiladi",
+  "Teri artiladi",
+  "Ingichka igna bilan terining eng yuqori qatlami ostiga bir tomchi yuboriladi",
+  "Kichik pufakcha — «tugmacha» hosil bo‘ladi",
+  "Qo‘lni ko‘rsatish uchun qaysi kuni kelish kerakligini aytishadi"
+ ],
+ "feel": [
+  "Qisqa, ozgina ukol",
+  "Bolaga oldindan ayting: tez bo‘ladi va biroz chimchilaydi"
+ ],
+ "after": [
+  "Ukol joyini tekshirgunga qadar ho‘l qilmang, qashimang, plastir yopishtirmang va surtma surtmang",
+  "72 soatdan keyin shifokor reaksiyani chizg‘ich bilan o‘lchaydi",
+  "Natijani tekshiruvning o‘zida darrov aytishadi"
+ ],
+ "red_flags": [
+  "Qo‘lning kuchli shishi, pufakchalar yoki ukol joyidan chiqqan chiziqlar — muddatidan oldin shifokorga ko‘rsating"
+ ],
+ "faq": [
+  {
+   "q": "Mantuni ho‘l qilsa bo‘ladimi?",
+   "a": "Yo‘q ma’qul: tekshirgunga qadar ishqalamang, mochalka bilan yuvmang va ho‘l qilmang. Tasodifiy suv tomchilari odatda xavfli emas."
+  },
+  {
+   "q": "Diaskintest Mantudan nimasi bilan farq qiladi?",
+   "a": "Diaskintest BCJ emlashiga reaksiya bermaydi, shuning uchun aynan sil infeksiyasini aniqroq ko‘rsatadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga Mantu sinamasi yoki Diaskintest. Harorat yoki shamollash bo‘lsa, klinikaga qo‘ng‘iroq qiling."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Alimentação por sonda e gastrostomia em casa",
+ "also": [
+  "alimentação por sonda",
+  "dieta enteral",
+  "alimentação pela gastrostomia",
+  "sonda nasogástrica",
+  "gastrostomia"
+ ],
+ "what": "Se a pessoa não consegue comer pela boca, o alimento entra por um tubo fino: pelo nariz até o estômago, ou direto no estômago pela barriga. Em casa, quem faz isso é a família.",
+ "why": "Com problemas para engolir depois de AVC, doenças da garganta, do esôfago e outras situações em que o médico indicou essa alimentação.",
+ "duration": "uma alimentação leva normalmente 20 a 40 minutos, ou devagar pela bomba por algumas horas",
+ "tell_doctor": [
+  "Se apareceram vômito, barriga inchada, diarreia ou prisão de ventre",
+  "Se a pele em volta da gastrostomia está vermelha, molhada ou doendo",
+  "Se a sonda saiu do lugar ou ficou mais curta do lado de fora",
+  "Se a pessoa tosse durante a alimentação"
+ ],
+ "prepare": [
+  {
+   "title": "Dieta",
+   "text": "Qual dieta, quanto e com que frequência, o médico define. Não mude por conta própria."
+  },
+  {
+   "title": "Temperatura",
+   "text": "A dieta entra em temperatura ambiente, nem fria nem quente."
+  },
+  {
+   "title": "Posição",
+   "text": "Levante a cabeça e o peito da pessoa: sentada ou recostada."
+  },
+  {
+   "title": "Remédios",
+   "text": "Nem todos os comprimidos podem ir pela sonda. Pergunte ao médico ou ao farmacêutico quais podem ser triturados."
+  }
+ ],
+ "bring": [
+  "A dieta e a seringa de alimentação",
+  "Água fervida para lavar a sonda",
+  "Relatório de alta com o esquema de alimentação",
+  "Sonda ou adaptador reserva, se deram"
+ ],
+ "steps": [
+  "Lave as mãos e prepare a dieta",
+  "Sente a pessoa ou levante a cabeceira",
+  "Confira se a sonda está no lugar, pela marca no tubo",
+  "Lave a sonda com um pouco de água",
+  "Coloque a dieta devagar, com seringa ou pela bomba",
+  "Depois da alimentação, lave de novo a sonda com água",
+  "Deixe a pessoa recostada por pelo menos mais 30 minutos"
+ ],
+ "feel": [
+  "Pode ser estranho para a pessoa, às vezes dá sensação de peso",
+  "Alimentar rápido demais dá enjoo e inchaço"
+ ],
+ "after": [
+  "Cuide da higiene da boca, mesmo que a pessoa não coma pela boca",
+  "Lave e seque a pele em volta da gastrostomia todos os dias",
+  "Anote: quanto foi dado, as evacuações, o peso",
+  "Vá ao médico ou à enfermeira com regularidade"
+ ],
+ "red_flags": [
+  "Tosse, sufocação, chiado durante a alimentação: pare a alimentação; se não passar, ligue para a emergência",
+  "A gastrostomia saiu: cubra o furo com um pano limpo e procure o médico com urgência. O furo fecha rápido",
+  "Vômito com sangue ou parecido com borra de café, dor forte na barriga: ligue para a emergência",
+  "Febre, pus em volta do estoma"
+ ],
+ "faq": [
+  {
+   "q": "O que fazer se a sonda entupir?",
+   "a": "Tente lavar com água morna na seringa, sem forçar. Não desentupa com arame. Se não der certo, ligue para o médico."
+  },
+  {
+   "q": "Posso dar comida pela boca?",
+   "a": "Só se o médico liberar depois de avaliar a deglutição. Senão a comida pode ir para os pulmões."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Daqui a pouco é a alimentação. Dieta em temperatura ambiente, pessoa recostada, lave a sonda antes e depois."
+  }
+ ]
+}

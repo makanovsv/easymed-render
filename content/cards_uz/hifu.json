@@ -1,0 +1,77 @@
+{
+ "title": "SMAS-lifting (HIFU)",
+ "also": [
+  "SMAS-lifting",
+  "smas lifting",
+  "ultratovushli lifting",
+  "HIFU",
+  "ultratovush bilan tortish"
+ ],
+ "what": "Apparat fokuslangan ultratovushni terining chuqur qatlamlariga yo‘naltiradi. Kesmasiz va ukolsiz teri vaqt o‘tishi bilan tortiladi.",
+ "why": "Yuz va bo‘yin terisi yengil osilganda, bemor operatsiya xohlamasa.",
+ "duration": "protsedura odatda 30–90 daqiqa, ta’sir bir necha oy davomida kuchayadi",
+ "tell_doctor": [
+  "Homilador bo‘lsangiz",
+  "Yuzda implantlar, iplar, metall plastinkalar bo‘lsa",
+  "Yaqinda go‘zallik ukollari qilgan bo‘lsangiz",
+  "Kardiostimulyator bo‘lsa",
+  "Teri kasalliklari va yuzdagi yallig‘lanishlar"
+ ],
+ "prepare": [
+  {
+   "title": "Teri",
+   "text": "Bo‘yanmasdan keling yoki klinikada artib tashlashadi."
+  },
+  {
+   "title": "Quyosh",
+   "text": "Bir necha kun oldin toblanmagan yaxshi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Hujjat",
+  "Dorilar ro‘yxati, agar bo‘lsa"
+ ],
+ "steps": [
+  "Teri tozalanadi, ba’zan og‘riqsizlantiruvchi krem surtiladi",
+  "Shifokor zonalarni belgilaydi",
+  "Gel surtilib, apparat nasadkasi qo‘yiladi",
+  "Apparat teri bo‘ylab chiziqlar bo‘ylab yuradi — impulslarni sezasiz",
+  "Gel olinadi, tinchlantiruvchi krem surtiladi"
+ ],
+ "feel": [
+  "Impulslar issiqlik, chaqish yoki qisqa sanchiqlar sifatida seziladi, joy-joyda noqulay",
+  "Suyaklar ustida og‘riqliroq bo‘ladi",
+  "Keyin — yengil qizarish va shish, odatda bir necha kun"
+ ],
+ "after": [
+  "Odatda o‘sha kuni ishlarga qaytish mumkin",
+  "Bir necha kun hammom va saunasiz",
+  "Quyoshdan himoya kremidan foydalaning",
+  "Natija bir necha oydan keyin baholanadi"
+ ],
+ "red_flags": [
+  "O‘tmayotgan yuzdagi kuchli og‘riq yoki uvishish",
+  "Terida pufakchalar yoki kuyish",
+  "Yuz assimmetriyasi yoki lablarni qimirlatish qiyin bo‘lsa — darrov shifokorga"
+ ],
+ "faq": [
+  {
+   "q": "Bu og‘riqlimi?",
+   "a": "Noqulay bo‘lishi mumkin. Chidamlilik hammada har xil — shifokorga ayting, quvvatni moslash mumkin."
+  },
+  {
+   "q": "Natija qachon ko‘rinadi?",
+   "a": "Ta’sirning bir qismi darrov ko‘rinadi, asosiysi — bir necha oydan keyin."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga SMAS-lifting. Bo‘yanmasdan keling. Dorilar haqida savol bo‘lsa — shifokordan so‘rang."
+  }
+ ]
+}

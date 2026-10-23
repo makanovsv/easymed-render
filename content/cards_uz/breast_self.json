@@ -1,0 +1,76 @@
+{
+ "title": "Sut bezlarini o‘zi tekshirish",
+ "also": [
+  "uyda ko‘krakni ko‘rish",
+  "ko‘krakni qanday tekshirish kerak",
+  "ko‘krakni o‘zi tekshirish",
+  "sut bezlarini tekshirish"
+ ],
+ "what": "Oyda bir marta ko‘kragingizni o‘zingiz ko‘zdan kechirib, paypaslaysiz. Shunda o‘zgarishlarni payqash va o‘z vaqtida shifokorga borish osonroq.",
+ "why": "Barcha ayollarga, odatda oyda bir marta. O‘zi tekshirish shifokor ko‘rigi va mammografiyani almashtirmaydi.",
+ "duration": "odatda oyda bir marta 5–10 daqiqa",
+ "tell_doctor": [
+  "Do‘ng topsangiz",
+  "Teri yoki so‘rg‘ich o‘zgarsa",
+  "So‘rg‘ichdan ajralma bo‘lsa",
+  "Oilada ko‘krak saratoni bo‘lgan bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Vaqt",
+   "text": "Hayz boshlangandan 5–10 kun o‘tgach yaxshiroq. Hayz bo‘lmasa — oyning bir xil kunida."
+  },
+  {
+   "title": "Joy",
+   "text": "Yaxshi yorug‘likda ko‘zgu oldida va yotgan holda."
+  },
+  {
+   "title": "Odat",
+   "text": "Telefonda eslatma qo‘ying."
+  }
+ ],
+ "bring": [
+  "Ko‘zgu",
+  "Yotish mumkin bo‘lgan qulay joy"
+ ],
+ "steps": [
+  "Ko‘zgu oldida turing, qo‘llar pastda",
+  "Ko‘krak shakli va terisi bir xilmi, qarang",
+  "Qo‘llarni ko‘taring va yana qarang",
+  "Chalqancha yoting, qo‘lni bosh ostiga qo‘ying",
+  "Barmoq yostiqchalari bilan ko‘krakni chetidan so‘rg‘ichgacha aylana bo‘ylab paypaslang",
+  "Qo‘ltiq ostini tekshiring",
+  "So‘rg‘ichni sal siqing — ajralma yo‘qmi",
+  "Boshqa tomonda takrorlang"
+ ],
+ "feel": [
+  "Ko‘krak bir xil bo‘lmasligi va sal do‘ng-do‘ng bo‘lishi mumkin — bu ko‘pincha normal",
+  "Hayzdan oldin ko‘krak sezgirroq bo‘lishi mumkin"
+ ],
+ "after": [
+  "Ko‘kragingiz odatda qanday ekanini eslab qoling",
+  "Biror narsa o‘zgarsa — shifokorga yoziling, kutmang",
+  "Shifokor ko‘rigi va mammografiyadan yoshga qarab o‘ting"
+ ],
+ "red_flags": [
+  "Hayzdan keyin o‘tmaydigan yangi do‘ng",
+  "Teri yoki so‘rg‘ichning tortilishi, «limon po‘sti»",
+  "So‘rg‘ichdan qonli ajralma"
+ ],
+ "faq": [
+  {
+   "q": "Do‘ng topsam — bu xavflimi?",
+   "a": "Ko‘pincha do‘nglar xavfli emas. Lekin shifokorga ko‘rinish albatta kerak."
+  },
+  {
+   "q": "O‘zi tekshirishni necha yoshdan boshlash kerak?",
+   "a": "Odatda 20 yoshdan, yaxshisi — odat paydo bo‘lishi bilan."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 1,
+   "text": "Ko‘krakni oylik o‘zi tekshirish vaqti. 5–10 daqiqa oladi."
+  }
+ ]
+}

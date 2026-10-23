@@ -1,0 +1,79 @@
+{
+ "title": "Drenagem de abscesso dentário",
+ "also": [
+  "abscesso dentário",
+  "drenagem de abscesso na gengiva",
+  "bola de pus na gengiva",
+  "rosto inchado por dente"
+ ],
+ "what": "O médico faz um pequeno corte na gengiva e deixa o pus sair. Isso alivia a pressão e a dor.",
+ "why": "Quando um dente doente causa inchaço na gengiva e no rosto, dor e pus.",
+ "duration": "o procedimento em si leva normalmente de 15 a 30 minutos",
+ "tell_doctor": [
+  "Se você tem alergia a anestesia ou a remédios",
+  "Se toma remédios que afinam o sangue",
+  "Se tem diabetes ou doença do coração",
+  "Se está grávida",
+  "Quando o inchaço começou e se teve febre"
+ ],
+ "prepare": [
+  {
+   "title": "Não aqueça",
+   "text": "Não coloque nada quente no rosto. Isso pode piorar a inflamação."
+  },
+  {
+   "title": "Comida",
+   "text": "Coma antes, porque por algumas horas depois a anestesia ainda vai fazer efeito."
+  },
+  {
+   "title": "Remédios",
+   "text": "Não pare seus remédios por conta própria. Conte ao médico tudo o que você toma."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Lista de remédios",
+  "Radiografias antigas do dente, se tiver"
+ ],
+ "steps": [
+  "O médico examina o dente e a gengiva e, muitas vezes, faz uma radiografia",
+  "Aplica a anestesia",
+  "Faz um pequeno corte na gengiva",
+  "Deixa o pus sair e lava a região",
+  "Às vezes deixa uma tirinha fina de borracha para drenar",
+  "Decide o que fazer com o dente: tratar na hora ou depois"
+ ],
+ "feel": [
+  "A picada da anestesia: uma dor rápida",
+  "Durante o corte: pressão, mas não dor",
+  "Quando a anestesia passa, dói um pouco por 1 a 3 dias, normalmente menos que antes"
+ ],
+ "after": [
+  "Bochechos e remédios exatamente como o médico indicou",
+  "Não aqueça o rosto e não mexa no corte com a língua",
+  "Normalmente você volta em 1 a 2 dias para revisão, e a tirinha é retirada",
+  "O dente que causou o problema precisa ser tratado ou extraído. O médico vai dizer"
+ ],
+ "red_flags": [
+  "O inchaço aumenta e vai para o pescoço ou para baixo do olho: ligue para a emergência",
+  "Dificuldade para engolir, respirar ou abrir a boca: ligue para a emergência",
+  "Febre acima de 38 graus que continua ou aumenta",
+  "Pus de novo e dor forte depois de 2 ou 3 dias"
+ ],
+ "faq": [
+  {
+   "q": "Dá para tratar o abscesso em casa?",
+   "a": "Não. O pus precisa sair e o dente precisa de tratamento. Só comprimido não resolve."
+  },
+  {
+   "q": "Por que não posso aquecer o rosto?",
+   "a": "O calor pode aumentar a inflamação e espalhar o pus."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Daqui a pouco é a consulta do abscesso. Não aqueça o rosto. Leve a lista de remédios."
+  }
+ ]
+}

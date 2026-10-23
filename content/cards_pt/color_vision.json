@@ -1,0 +1,65 @@
+{
+ "title": "Teste de visão das cores",
+ "also": [
+  "teste de daltonismo",
+  "teste de Ishihara",
+  "teste de cores",
+  "visão de cores"
+ ],
+ "what": "Mostram figuras feitas de pontinhos coloridos com números ou formas escondidos. Assim se vê como o olho distingue as cores.",
+ "why": "Para exame admissional, carteira de motorista, estudos, e também quando a pessoa confunde cores.",
+ "duration": "normalmente de 5 a 10 minutos; o resultado sai na hora",
+ "tell_doctor": [
+  "Se você usa óculos ou lentes",
+  "Se já encontraram alteração na visão das cores antes",
+  "Se alguém na família tem esse problema",
+  "Quais remédios você toma"
+ ],
+ "prepare": [
+  {
+   "title": "Óculos",
+   "text": "Leve seus óculos ou lentes, se usa para perto."
+  },
+  {
+   "title": "Descanso",
+   "text": "Venha descansado, não depois de uma noite sem dormir."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Óculos, se usa",
+  "Pedido ou formulário do exame médico"
+ ],
+ "steps": [
+  "Você senta num lugar com boa luz, parecida com a do dia",
+  "Mostram pranchas com círculos coloridos",
+  "Você diz o número ou contorna a figura",
+  "Normalmente os dois olhos são testados juntos, às vezes um de cada vez",
+  "O médico anota o resultado"
+ ],
+ "feel": [
+  "Não dói",
+  "Às vezes é difícil ver algumas figuras. Isso é normal. Responda do jeito que você vê"
+ ],
+ "after": [
+  "O resultado é dito na hora",
+  "Se houver alteração, o médico explica o que isso significa para o trabalho ou para a carteira de motorista"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Dá para decorar as pranchas?",
+   "a": "Não vale a pena. São muitas pranchas, e o médico percebe. O importante é um resultado honesto."
+  },
+  {
+   "q": "Daltonismo tem tratamento?",
+   "a": "A alteração de nascença não tem tratamento, mas dá para levar uma vida normal com ela."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Amanhã é o teste de visão das cores. Leve os óculos e o formulário do exame médico."
+  }
+ ]
+}

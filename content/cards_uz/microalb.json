@@ -1,0 +1,67 @@
+{
+ "title": "Siydikdagi mikroalbumin",
+ "also": [
+  "mikroalbuminuriya",
+  "siydikdagi albumin",
+  "MAU",
+  "siydikdagi oqsil"
+ ],
+ "what": "Bu siydik tahlili. U oddiy tahlil ko‘rmaydigan juda oz miqdordagi oqsilni — albuminni qidiradi.",
+ "why": "Diabet va yuqori qon bosimida — yilda bir marta, buyraklarga tushayotgan yukni erta payqash uchun.",
+ "duration": "yig‘ish 5 daqiqa, natija odatda 1–2 kundan keyin",
+ "tell_doctor": [
+  "Hozir shamollash, harorat yoki siydik yo‘llari infeksiyasi bo‘lsa",
+  "Bir kun oldin og‘ir mashg‘ulot bo‘lgan bo‘lsa",
+  "Hozir hayz kunlari bo‘lsa",
+  "Bosim va qandga qanday dorilar ichasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Bir kun oldin",
+   "text": "Og‘ir mashqlarsiz va alkogolsiz. Ko‘p go‘sht yemagan ma’qul."
+  },
+  {
+   "title": "Yig‘ish",
+   "text": "Ko‘pincha ertalabki siydik olinadi, ba’zan sutkalik. Sizga qaysi variant kerakligini laboratoriyadan aniqlab oling."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Nima ichayotganingizni shifokorga ayting."
+  }
+ ],
+ "bring": [
+  "Siydik solingan idish",
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "Ertalab iliq suv bilan sovunsiz yuvining",
+  "Dastlabki soniyalarda hojatxonaga siying",
+  "O‘rta porsiyani steril idishga yig‘ing",
+  "Qopqog‘ini yoping va 1–2 soat ichida laboratoriyaga olib boring"
+ ],
+ "feel": [
+  "Yoqimsiz narsa yo‘q"
+ ],
+ "after": [
+  "Natija odatda 1–2 kundan keyin",
+  "Natija yuqori bo‘lsa, shifokor odatda tahlilni takrorlashni so‘raydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Tahlil albuminni yuqori ko‘rsatsa, buyraklarim og‘riyaptimi?",
+   "a": "Albatta emas. U yuklamadan keyin yoki haroratda vaqtincha ko‘tarilishi mumkin. Shuning uchun tahlil takrorlanadi."
+  },
+  {
+   "q": "Diabetda uni qanchalik tez-tez topshirish kerak?",
+   "a": "Odatda yilda bir marta. Aniqrog‘ini shifokoringiz aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga mikroalbuminga siydik tahlili. Bugun og‘ir mashqlarsiz va alkogolsiz."
+  }
+ ]
+}

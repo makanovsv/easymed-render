@@ -1,0 +1,76 @@
+{
+ "title": "Autizmli bolani abilitatsiya qilish (ABA-terapiya)",
+ "also": [
+  "ABA-terapiya",
+  "qo‘llaniladigan xulq-atvor tahlili",
+  "autizmda mashg‘ulotlar",
+  "autizmda erta yordam"
+ ],
+ "what": "Bu mashg‘ulotlarda bolaga yangi ko‘nikmalar qadamma-qadam o‘rgatiladi: muloqot qilish, o‘ynash, o‘ziga xizmat qilish. Har bir muvaffaqiyat uchun bola maqtalib, rag‘batlantiriladi.",
+ "why": "Autistik spektr buzilishi bor bolalarga, ayniqsa erta yoshda.",
+ "duration": "mashg‘ulotlar odatda haftasiga bir necha soat, kurs — oylar va yillar",
+ "tell_doctor": [
+  "Bola hozir nimalarni eplaydi va sizni nima tashvishlantiradi",
+  "Bola nimani yaxshi ko‘radi: o‘yinchoqlar, ovqat, mashg‘ulotlar — bu rag‘bat sifatida ishlatiladi",
+  "Uni nima xafa qiladi yoki qo‘rqitadi",
+  "Shifokorlar xulosalari",
+  "Uyqu va ovqatlanish xususiyatlari"
+ ],
+ "prepare": [
+  {
+   "title": "Ro‘yxat",
+   "text": "Bolaning sevimli o‘yinchoqlari va shirinliklarini yozib qo‘ying — ular mashg‘ulotlarda kerak bo‘ladi."
+  },
+  {
+   "title": "Tartib",
+   "text": "Mashg‘ulotlarni bola dam olgan va to‘q bo‘lganda rejalashtiring."
+  },
+  {
+   "title": "Tayyorgarlik",
+   "text": "Bolaga yangi joyda qiyin bo‘lsa, kabinet yoki mutaxassis suratini oldindan ko‘rsating."
+  }
+ ],
+ "bring": [
+  "Shifokorlar xulosalari",
+  "Sevimli o‘yinchoqlar va shirinliklar",
+  "Almashtirish kiyimi",
+  "Suv"
+ ],
+ "steps": [
+  "Mutaxassis bola bilan tanishadi va uni kuzatadi",
+  "Qaysi ko‘nikmalar bor, qaysilari yetishmayotganini baholaydi",
+  "Siz bilan birga maqsadlar qo‘yadi",
+  "Mashg‘ulotlarda ko‘nikmalarni kichik qadamlar bilan o‘rgatadi",
+  "Har bir muvaffaqiyat uchun bolani rag‘batlantiradi",
+  "Ko‘nikmalarni uyda mustahkamlashni sizga o‘rgatadi"
+ ],
+ "feel": [
+  "Avvaliga bolaga qiyin va g‘ayrioddiy bo‘lishi mumkin",
+  "Qarshilik va ko‘z yoshlari bo‘ladi — mutaxassis bu bilan qanday ishlashni biladi"
+ ],
+ "after": [
+  "Ko‘nikmalarni uyda mutaxassis maslahatiga ko‘ra mustahkamlang",
+  "Nima o‘zgarganini belgilab, mashg‘ulotlarda aytib boring",
+  "O‘zingizni ham asrang — ota-onalarga ham dam olish va qo‘llab-quvvatlash kerak"
+ ],
+ "red_flags": [
+  "Bola o‘ziga yoki boshqalarga zarar yetkazsa — buni shifokor va mutaxassis bilan muhokama qiling",
+  "Oldin bo‘lgan ko‘nikmalar keskin yo‘qolsa — shifokorga ko‘rining"
+ ],
+ "faq": [
+  {
+   "q": "Haftada necha soat shug‘ullanish kerak?",
+   "a": "Har xil, ko‘pincha ko‘p soat. Mutaxassis yukni bolaga moslab tanlaydi."
+  },
+  {
+   "q": "Bu autizmni davolaydimi?",
+   "a": "Autizm o‘tib ketmaydi. Lekin mashg‘ulotlar bolaga mustaqilroq bo‘lishga va osonroq muloqot qilishga yordam beradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Bugun bolaning mashg‘uloti. Sevimli o‘yinchoqlar, shirinliklar va almashtirish kiyimini oling."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Operatsiyadan keyin uyda og‘riqsizlantirish",
+ "also": [
+  "operatsiyadan keyin uyda og‘riq qoldiruvchilar",
+  "operatsiyadan keyin og‘riyapti",
+  "chiqqandan keyin og‘riqni qanday bosish",
+  "chiqarilgandan keyin og‘riqsizlantirish"
+ ],
+ "what": "Uyda operatsiyadan keyingi og‘riq shifokor sxemasi bo‘yicha tabletkalar bilan bosiladi. Og‘riqsizlantirilgan odam tezroq turadi va tiklanadi.",
+ "why": "Chiqarilgandan keyin, yara yoki bo‘g‘im bitguncha.",
+ "duration": "odatda bir necha kun yoki hafta, og‘riq asta-sekin kamayadi",
+ "tell_doctor": [
+  "Qaysi og‘riq qoldiruvchilar avval yordam bergan yoki mos kelmagan",
+  "Oshqozon, buyrak, jigar kasalliklari",
+  "Ichayotgan barcha dorilar",
+  "Rulda o‘tirsangiz yoki texnika bilan ishlasangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Sxema",
+   "text": "Chiqarilishdan oldin yozib berishni so‘rang: nima ichish, qancha, qaysi vaqtda va qancha vaqt."
+  },
+  {
+   "title": "Dorixona",
+   "text": "Og‘riq qoldiruvchilarni oldindan sotib oling, tunda ularsiz qolmaslik uchun."
+  },
+  {
+   "title": "Yordam",
+   "text": "Oddiy usullar ham yordam beradi: sovuq, oyoq yoki qo‘lni balandroq qo‘yish, qulay holat."
+  }
+ ],
+ "bring": [
+  "Og‘riqsizlantirish sxemali ko‘chirma",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Og‘riq qoldiruvchini faqat qattiq og‘riganda emas, vaqtida iching",
+  "Adashmaslik uchun ichgan vaqtni yozib boring",
+  "Dozani oshirmang va o‘xshash dorilarni o‘zingiz aralashtirmang",
+  "Shifokor ruxsat bergan bo‘lsa, mato orqali sovuq qo‘ying",
+  "Ozgina-ozgina harakat qiling — bu ham og‘riqni kamaytiradi",
+  "Og‘riq pasayganda, shifokor maslahati bilan dozani kamaytirishadi"
+ ],
+ "feel": [
+  "Og‘riq odatda birinchi kunlari kuchliroq, keyin kuchsizlanadi",
+  "Ba’zi og‘riq qoldiruvchilardan uyquchanlik yoki ich qotishi bo‘ladi"
+ ],
+ "after": [
+  "Og‘riq o‘tmasa yoki kuchaysa — jarrohga ayting",
+  "Dori uyquchanlik keltirsa, rulga o‘tirmang",
+  "Ich qotganda ko‘proq suv iching va harakat qiling, vosita haqida shifokordan so‘rang"
+ ],
+ "red_flags": [
+  "Og‘riq keskin kuchaydi yoki boshqacha bo‘lib qoldi",
+  "Harorat 38 dan yuqori, yara qizargan, issiq yoki yiringlayapti",
+  "Qora najas, qon bilan qayt — tez yordamni chaqiring (103)",
+  "Kuchli uyquchanlik, siyrak nafas — tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Og‘riq qoldiruvchini alkogol bilan ichsa bo‘ladimi?",
+   "a": "Yo‘q. Alkogol og‘riq qoldiruvchilar bilan jigar, oshqozon va nafas uchun xavfli."
+  },
+  {
+   "q": "Tabletkalardan og‘riq o‘tmasa nima qilish kerak?",
+   "a": "Dozani o‘zingiz oshirmang. Jarrohga yoki klinikaga qo‘ng‘iroq qiling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Sxema bo‘yicha og‘riq qoldiruvchi vaqti. Adashmaslik uchun ichganingizni belgilang."
+  }
+ ]
+}

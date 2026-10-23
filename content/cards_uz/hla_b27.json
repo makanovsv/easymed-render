@@ -1,0 +1,63 @@
+{
+ "title": "HLA-B27",
+ "also": [
+  "HLA-B27 tahlili",
+  "B27 antigeni",
+  "bel og‘rig‘ida genetik tahlil"
+ ],
+ "what": "Bu hujayralardagi maxsus oqsil-marker uchun qon tahlili. U umurtqa va bo‘g‘imlar yallig‘lanishi bo‘lgan odamlarda ko‘proq uchraydi.",
+ "why": "Beldagi uzoq og‘riqda, ayniqsa ertalab va tinch holatda, bo‘g‘imlar yoki ko‘zlar yallig‘lanishida.",
+ "duration": "qon olish odatda 5 daqiqa, natija odatda bir necha kunda",
+ "tell_doctor": [
+  "Bel qancha vaqtdan beri og‘riydi va qachon kuchliroq — ertalab yoki zo‘riqishdan keyin",
+  "Ko‘z, bo‘g‘im, ichak, teri yallig‘lanishlari bo‘lganmi",
+  "Qarindoshlarda o‘xshash kasalliklar bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Och qolish odatda kerak emas. Boshqa tahlillar bilan birga topshirsangiz — laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Bu tahlilga dorilar ta’sir qilmaydi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Hujjat"
+ ],
+ "steps": [
+  "O‘tirasiz, tirsakdan yuqorida jgut bog‘lanadi",
+  "Teri antiseptik bilan artiladi",
+  "Qon venadan probirkaga olinadi",
+  "Jgut yechiladi, paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol, chimchilagandek",
+  "Ba’zan yengil bosh aylanishi — hamshiraga ayting, sizni yotqizishadi"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Natija odatda bir necha kunda",
+  "Musbat natija — tashxis emas: bu marker bilan ko‘plab odamlar sog‘",
+  "Shifokor tahlilni shikoyat va suratlar bilan birga baholaydi"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Menda HLA-B27 topildi. Men kasalmanmi?",
+   "a": "Shart emas. Marker ko‘plab sog‘ odamlarda bor. Tashxis faqat shikoyat, ko‘rik va suratlar bo‘yicha qo‘yiladi."
+  },
+  {
+   "q": "Tahlilni qayta topshirish kerakmi?",
+   "a": "Yo‘q. Bu tug‘ma xususiyat, u o‘zgarmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga HLA-B27 qon tahlili. Och qolish odatda kerak emas. Yo‘llanmani oling."
+  }
+ ]
+}

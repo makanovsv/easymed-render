@@ -1,0 +1,71 @@
+{
+ "title": "Bolaning qorin bo‘shlig‘i UZI",
+ "also": [
+  "bolaning qorni UZI",
+  "bolalar qorin UZI",
+  "bolaning jigari UZI",
+  "bolalar qorin bo‘shlig‘i ultratovush tekshiruvi"
+ ],
+ "what": "Shifokor ultratovush yordamida bolaning qorin a’zolarini ko‘radi: jigar, o‘t pufagi, oshqozon osti bezi, taloq, buyraklar. Bu xavfsiz va og‘riqsiz.",
+ "why": "Bolaning qorni og‘riganda, vazn yaxshi olmaganda, qusish bo‘lganda, tahlillarda o‘zgarish bo‘lganda; profilaktik ko‘rikda.",
+ "duration": "odatda 10–20 daqiqa, xulosa darrov beriladi",
+ "tell_doctor": [
+  "Bolani nima bezovta qilmoqda va qachondan beri",
+  "Hozir qanday dori ichmoqda",
+  "Qorin bo‘shlig‘ida operatsiya bo‘lganmi",
+  "Oldingi UZI va tahlillar"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda och qoringa. Emizikli chaqaloqlarga — navbatdagi emizishdan oldin, kattaroq bolalarga — 4–6 soat ovqat bermang. Klinikadan aniqlashtiring."
+  },
+  {
+   "title": "Ichimlik",
+   "text": "Oddiy suv odatda mumkin. Gazli ichimlik va sharbat mumkin emas."
+  },
+  {
+   "title": "Ruhiy tayyorgarlik",
+   "text": "Bolaga salqin va biroz qitiqlaydigan, lekin og‘rimaydigan bo‘lishini ayting."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi UZI va tahlillar",
+  "Yupqa choyshab yoki sochiq",
+  "Chalg‘itish uchun o‘yinchoq yoki telefonda multfilm"
+ ],
+ "steps": [
+  "Bola chalqancha yotadi, siz yoningizda turasiz",
+  "Qorniga gel surtiladi",
+  "Shifokor datchikni qorin ustida yurgizadi",
+  "Ba’zan yonboshga yotish yoki chuqur nafas olish so‘raladi",
+  "Gel salfetka bilan artiladi"
+ ],
+ "feel": [
+  "Gel salqin va qitiqlaydi",
+  "Kichik bolalar yig‘lashi mumkin — bu normal, shifokor kutib turadi"
+ ],
+ "after": [
+  "Tekshiruvdan keyin bolani darrov ovqatlantirsa bo‘ladi",
+  "Xulosa odatda darrov beriladi",
+  "Natijani bolalar shifokori bilan muhokama qiling"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "UZIdan oldin bolani ovqatlantirsa bo‘ladimi?",
+   "a": "Odatda yo‘q: och qorinda yaxshi ko‘rinadi. Emizikli chaqaloqlarni navbatdagi emizishdan oldin olib keling."
+  },
+  {
+   "q": "UZI bolalarga zararlimi?",
+   "a": "Yo‘q. Ultratovush nurlantirmaydi, uni hatto yangi tug‘ilgan chaqaloqlarga ham qilishadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga bolaning qorin UZIsi. Odatda och qoringa — ovqatsiz turish vaqtini klinikadan aniqlashtiring. Yupqa choyshab oling."
+  }
+ ]
+}

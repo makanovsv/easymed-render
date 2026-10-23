@@ -1,0 +1,73 @@
+{
+ "title": "Anorektal manometriya",
+ "also": [
+  "to‘g‘ri ichak manometriyasi",
+  "anorektal manometriya",
+  "orqa chiqaruv teshigi mushaklarini tekshirish"
+ ],
+ "what": "Orqa chiqaruv teshigiga ingichka yumshoq kateter kiritiladi. U to‘g‘ri ichak va orqa chiqaruv teshigi mushaklari qanday ishlashini o‘lchaydi.",
+ "why": "Qabziyatda, najasni ushlay olmaslikda, ba’zi operatsiyalardan oldin va tug‘ruqdan keyin, agar shunday shikoyatlar bo‘lsa.",
+ "duration": "odatda 30–45 daqiqa, natija darrov yoki bir necha kunda",
+ "tell_doctor": [
+  "Qanday dorilar ichasiz",
+  "To‘g‘ri ichakda operatsiyalar bo‘lgan bo‘lsa",
+  "Yoriq yoki og‘riqli gemorroy bo‘lsa",
+  "Homiladorlik ehtimoli bo‘lsa"
+ ],
+ "prepare": [
+  {
+   "title": "Tozalash",
+   "text": "Ko‘pincha testdan 1–2 soat oldin kichik tozalovchi huqna qilinadi. Sxemani klinika beradi."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Odatda maxsus parhez kerak emas. Klinikadan aniqlang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "Surgi va ba’zi dorilarni ichmaslikni ba’zan so‘rashadi. O‘zingiz bekor qilmang — shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Dorilar ro‘yxati",
+  "Oldingi tekshiruvlar natijalari"
+ ],
+ "steps": [
+  "Chap yonboshingizga, tizzalaringizni ko‘kragingizga tortib yotasiz",
+  "Shifokor orqa chiqaruv teshigiga gelli ingichka kateter kiritadi",
+  "Sizdan bo‘shashish, mushaklarni qisish va kuchanish so‘raladi",
+  "Ba’zan ichakda kichik balloncha shishiriladi va nima sezayotganingiz so‘raladi",
+  "Kateter olinadi"
+ ],
+ "feel": [
+  "Noqulay, lekin odatda og‘riqsiz",
+  "Hojatga borish istagi bo‘lishi mumkin",
+  "Uyalish — normal, shifokor buni har kuni qiladi"
+ ],
+ "after": [
+  "Darrov odatiy ishlarga qaytsangiz bo‘ladi",
+  "Natija darrov yoki bir necha kunda tushuntiriladi",
+  "Kichik noqulaylik tez o‘tadi"
+ ],
+ "red_flags": [
+  "Orqa chiqaruv teshigidan to‘xtamaydigan qon ketish",
+  "Qorinda kuchli og‘riq yoki harorat 38 dan yuqori"
+ ],
+ "faq": [
+  {
+   "q": "Og‘riqlimi?",
+   "a": "Odatda yo‘q. Kateter ingichka, protsedura ko‘proq noxush."
+  },
+  {
+   "q": "Test paytida nega kuchanish kerak?",
+   "a": "Shunda shifokor hojatga borganda mushaklar to‘g‘ri ishlayotganini ko‘radi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga anorektal manometriya. Testdan oldin huqna kerakmi va qachon — tekshirib qo‘ying."
+  }
+ ]
+}

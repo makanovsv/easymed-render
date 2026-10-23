@@ -1,0 +1,76 @@
+{
+ "title": "PAP-test (bachadon bo‘yni sitologiyasi)",
+ "also": [
+  "PAP-surtma",
+  "sitologiyaga surtma",
+  "onkositologiyaga surtma",
+  "bachadon bo‘yni saratoni skriningi"
+ ],
+ "what": "Ginekolog bachadon bo‘ynidan yumshoq cho‘tka bilan hujayralar oladi. Ularni saratonga o‘tishi mumkin bo‘lgan o‘zgarishlarni erta topish uchun mikroskop ostida o‘rganishadi.",
+ "why": "Bachadon bo‘yni saratonining muntazam skriningi uchun va oldingi tahlillarda o‘zgarishlar bo‘lganda. Ko‘pincha OIV (VPCH) tahlili bilan birga.",
+ "duration": "muolajaning o‘zi — 1–2 daqiqa, natija odatda 1–2 haftada",
+ "tell_doctor": [
+  "Oxirgi hayz boshlangan birinchi kun",
+  "Homilador bo‘lsangiz",
+  "Oldin surtmalarda o‘zgarishlar yoki bachadon bo‘ynini davolash bo‘lganmi",
+  "Odam papillomavirusiga qarshi emlanganmisiz"
+ ],
+ "prepare": [
+  {
+   "title": "Sikl",
+   "text": "Hayz paytida emas. Odatda siklning o‘rtasida yaxshiroq — shifokordan aniqlang."
+  },
+  {
+   "title": "2 kun oldin",
+   "text": "Jinsiy aloqa, spirtsizlantirish, shamchalar, kremlar va vaginal tabletkalarsiz."
+  },
+  {
+   "title": "Ko‘rik",
+   "text": "Yaqinda gelli ko‘rik yoki kolposkopiya bo‘lgan bo‘lsa, shifokorga ayting, surtmani ba’zan keyinga qoldirishadi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi surtma natijalari",
+  "Keyin uchun prokladka"
+ ],
+ "steps": [
+  "Belingizdan pastni yechasiz va ginekologik kreslosiga yotasiz",
+  "Shifokor bir martalik ko‘zgu kiritadi",
+  "Yumshoq cho‘tka bilan bachadon bo‘ynidan hujayralarni oladi — bu bir necha soniya",
+  "Material eritmali idishga solinadi yoki shishaga surtiladi",
+  "Ko‘zgu olinadi"
+ ],
+ "feel": [
+  "Ko‘zgudan bosim",
+  "Hujayralar olinayotganda qisqa tortishish hissi"
+ ],
+ "after": [
+  "Kun davomida ozgina dog‘li ajralmalar — bu normal",
+  "Natijada o‘zgarishlar bo‘lsa, shifokor takroriy tahlil yoki ko‘rik buyuradi — bu saraton borligini bildirmaydi",
+  "Qanchalik tez-tez takrorlashni skrining dasturiga ko‘ra shifokor aytadi"
+ ],
+ "red_flags": [
+  "Muolajadan keyin kuchli og‘riq yoki ko‘p qon ketishi — shifokorga murojaat qiling yoki tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "PAP-testni qanchalik tez-tez qilish kerak?",
+   "a": "Skrining dasturiga ko‘ra — odatda 2 yilda bir marta. Sizning muddatingizni shifokor aytadi."
+  },
+  {
+   "q": "PAP-testning yomon natijasi saratonmi?",
+   "a": "Odatda yo‘q. Ko‘proq bu yaxshi davolanadigan hujayra o‘zgarishlari. Skrining shu uchun kerak."
+  },
+  {
+   "q": "PAP-test qilish og‘riydimi?",
+   "a": "Odatda yo‘q — noxush, lekin tez. Bo‘shashing va xotirjam nafas oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "2 kundan keyin PAP-test. Bugundan boshlab jinsiy aloqa, spirtsizlantirish, shamcha va kremlarsiz."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Foniatr qabuli (ovoz muammolari)",
+ "also": [
+  "foniatr",
+  "ovoz bo‘yicha qabul",
+  "ovoz paylarini ko‘rik",
+  "bo‘g‘iq ovoz",
+  "ovoz shifokori"
+ ],
+ "what": "Bu ovoz bilan shug‘ullanadigan LOR shifokori. U qanday gapirishingizni tinglaydi va ovoz paylarini ko‘zgu yoki ingichka kamera orqali ko‘radi.",
+ "why": "Bo‘g‘iqlik 2–3 haftadan uzoq davom etganda, ovoz tez charchaganda, o‘qituvchilar, qo‘shiqchilar va ko‘p gapiradigan hamma uchun.",
+ "duration": "odatda 20–40 daqiqa, xulosalarni shifokor qabulda aytadi",
+ "tell_doctor": [
+  "Ovoz qachon va nimadan keyin o‘zgargan",
+  "Kun davomida qancha gapirasiz yoki kuylaysiz",
+  "Chekasizmi",
+  "Jig‘ildon, nordon kekirish bormi",
+  "Bo‘yin yoki qalqonsimon bezda operatsiyalar bo‘lganmi"
+ ],
+ "prepare": [
+  {
+   "title": "Ovoz",
+   "text": "Qabuldan oldin baqirmang va ovozni zo‘riqtirmang."
+  },
+  {
+   "title": "Ovqat",
+   "text": "Kamera orqali ko‘rishsa, qabuldan 1–2 soat oldin zich ovqat yemagan yaxshi."
+  },
+  {
+   "title": "Yozuvlar",
+   "text": "Ovoz kun davomida o‘zgarsa, uni telefonga yozib, shifokorga ko‘rsatish mumkin."
+  }
+ ],
+ "bring": [
+  "Bo‘lsa, yo‘llanma",
+  "Oldingi ko‘riklar natijalari",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Shifokor ovoz va ish haqida so‘raydi",
+  "Bir necha ibora aytishni yoki tovushni cho‘zishni so‘raydi",
+  "Tomoq va hiqildoqni ko‘radi",
+  "Ba’zan og‘iz yoki burunga ingichka kamera kiritib, «i-i-i» ni cho‘zishni so‘raydi",
+  "Ekranda paylar qanday yopilishi ko‘rinadi",
+  "Shifokor nimani ko‘rganini tushuntiradi va tavsiyalar beradi"
+ ],
+ "feel": [
+  "Hiqildoqni ko‘rish qayt qilish istagini keltirishi mumkin",
+  "Kameradan oldin ba’zan og‘riqsizlantiruvchi purkashadi — tomoq uviydi",
+  "Odatda og‘rimaydi"
+ ],
+ "after": [
+  "Og‘riqsizlantiruvchi purkalgan bo‘lsa, taxminan bir soat yemang va ichmang",
+  "Shifokor ovoz dami olishni yoki fonoped bilan mashg‘ulotlarni buyurishi mumkin",
+  "Ba’zan bir necha haftadan keyin takroriy ko‘rik kerak"
+ ],
+ "red_flags": [
+  "Nafas olish yoki yutish qiyinlashadi — tez yordamni chaqiring (103)",
+  "Balg‘amda qon",
+  "Bo‘g‘iqlik 2–3 haftadan ko‘p o‘tmasa"
+ ],
+ "faq": [
+  {
+   "q": "Ovoz bo‘g‘ilsa, jim turish kerakmi?",
+   "a": "Odatda kamroq gapirish va pichirlamaslikni maslahat berishadi: pichirlash ham paylarni yuklaydi. Aniq rejimni shifokor aytadi."
+  },
+  {
+   "q": "Foniatr oddiy LOR dan nimasi bilan farq qiladi?",
+   "a": "Foniatr ovozni chuqurroq biladi: paylar qanday ishlashi va ularni qanday tiklash."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga foniatr qabuli. Bugun ovozni asrang, baqirmang."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Preparación para el embarazo",
+ "also": [
+  "consulta preconcepcional",
+  "planear un embarazo",
+  "chequeo antes del embarazo",
+  "preparación para la concepción"
+ ],
+ "what": "Es una consulta médica antes del embarazo. El médico revisa tu salud, pide análisis y te aconseja cómo prepararte.",
+ "why": "Cuando planeas embarazarte en los próximos meses. Sobre todo si tienes enfermedades crónicas o tuviste embarazos difíciles.",
+ "duration": "la consulta suele durar de 20 a 40 minutos; los análisis normalmente están en unos días",
+ "tell_doctor": [
+  "Qué medicamentos tomas. No los dejes por tu cuenta; el médico elegirá unos seguros",
+  "Enfermedades crónicas",
+  "Cómo fueron tus embarazos y partos anteriores",
+  "Qué vacunas te has puesto",
+  "Si hay enfermedades hereditarias en tu familia"
+ ],
+ "prepare": [
+  {
+   "title": "Ciclo",
+   "text": "Recuerda la fecha en que empezó tu última regla."
+  },
+  {
+   "title": "Documentos",
+   "text": "Junta tus análisis anteriores y tu cartilla de vacunación."
+  },
+  {
+   "title": "Preguntas",
+   "text": "Anota lo que quieres preguntar: vitaminas, alimentación, ejercicio, malos hábitos."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "La lista de tus medicamentos",
+  "Tus análisis anteriores",
+  "Tu cartilla de vacunación, si tienes"
+ ],
+ "steps": [
+  "El médico te pregunta sobre tu salud y tus planes",
+  "Te revisa; a veces hace una revisión ginecológica",
+  "Te da órdenes para análisis de sangre, orina y exudados",
+  "A veces pide un ultrasonido",
+  "Te recomienda vitaminas y hábitos",
+  "A tu pareja también le pueden recomendar revisarse"
+ ],
+ "feel": [
+  "Es una consulta normal, nada desagradable",
+  "La revisión ginecológica puede ser un poco incómoda"
+ ],
+ "after": [
+  "Hazte los análisis de la lista",
+  "Regresa con el médico con los resultados",
+  "Normalmente se recomienda empezar el ácido fólico desde antes. La dosis te la dirá el médico",
+  "Pueden aconsejarte ponerte vacunas antes del embarazo"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "¿Con cuánto tiempo antes del embarazo empiezo a prepararme?",
+   "a": "Normalmente de 2 a 3 meses antes. El médico te dirá con más exactitud."
+  },
+  {
+   "q": "¿El hombre también tiene que revisarse?",
+   "a": "Muchas veces sí: una revisión general y análisis de infecciones. A veces un espermograma."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu consulta de preparación para el embarazo. Lleva la lista de tus medicamentos y tus análisis anteriores."
+  }
+ ]
+}

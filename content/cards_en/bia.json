@@ -1,0 +1,72 @@
+{
+ "title": "Bioimpedance body composition analysis",
+ "also": [
+  "bioimpedance analysis",
+  "body composition test",
+  "BIA",
+  "body fat and muscle test"
+ ],
+ "what": "A very weak current that you will not feel is passed through your body. The device works out how much fat, muscle, and water your body has.",
+ "why": "To plan nutrition and weight loss, to track weight, and for some health conditions, when a doctor orders it.",
+ "duration": "usually 5 to 10 minutes; the result is given right away",
+ "tell_doctor": [
+  "If you have a pacemaker or another implanted device. The test is usually not done",
+  "If you are pregnant",
+  "If you have metal implants"
+ ],
+ "prepare": [
+  {
+   "title": "Food and water",
+   "text": "Usually do not eat or drink a lot for 2 to 4 hours before the test. Check with the clinic."
+  },
+  {
+   "title": "The day before",
+   "text": "No alcohol or hard workouts."
+  },
+  {
+   "title": "Toilet",
+   "text": "Use the toilet before the measurement."
+  },
+  {
+   "title": "Jewelry",
+   "text": "Take off metal jewelry and your watch."
+  }
+ ],
+ "bring": [
+  "Your referral, if you have one",
+  "Comfortable clothes"
+ ],
+ "steps": [
+  "You are weighed and your height is measured",
+  "You lie on an exam table or stand on an analyzer scale",
+  "Electrodes are stuck on your hand and foot, or you hold handles",
+  "You lie or stand still for a few minutes",
+  "The device gives the result"
+ ],
+ "feel": [
+  "You feel nothing. The current is very weak",
+  "The electrodes may feel cool on your skin"
+ ],
+ "after": [
+  "You get a printout right away",
+  "For repeat measurements, it is better to come at the same time of day and in the same conditions",
+  "Go over the result with your doctor"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Is it accurate?",
+   "a": "It is a good estimate, but food, water, and the time of day affect the result. Compare measurements taken in the same conditions."
+  },
+  {
+   "q": "Can I do it with a pacemaker?",
+   "a": "Usually not. Be sure to say so ahead of time."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 4,
+   "text": "Body composition test soon. Do not eat or drink a lot for 2 to 4 hours before. Take off your jewelry."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Vacuum wound therapy",
+ "also": [
+  "vacuum therapy",
+  "negative pressure wound therapy",
+  "vacuum dressing",
+  "VAC dressing"
+ ],
+ "what": "A special sponge is placed on the wound, covered with a film, and connected to a small pump. The pump gently draws off fluid and helps the wound heal.",
+ "why": "For large wounds that are slow to heal, after operations, with a diabetic foot, and with pressure sores.",
+ "duration": "a dressing change usually takes 20 to 40 minutes, every 2 to 3 days; treatment lasts from a few days to weeks",
+ "tell_doctor": [
+  "Blood-thinning medicines",
+  "Bleeding from the wound or clotting disorders",
+  "Pain during dressing changes. Ask for pain relief in advance",
+  "Allergy to plaster or film"
+ ],
+ "prepare": [
+  {
+   "title": "Pain relief",
+   "text": "If dressing changes hurt, you can take a painkiller beforehand. Ask your doctor."
+  },
+  {
+   "title": "The pump",
+   "text": "If treatment is at home, learn how to check the pump and what to do when it alarms."
+  }
+ ],
+ "bring": [
+  "The pump charger, if treatment is at home",
+  "A list of your medicines",
+  "Your ID"
+ ],
+ "steps": [
+  "The old dressing is carefully removed",
+  "The wound is cleaned and examined",
+  "The sponge is cut to the shape of the wound and placed in it",
+  "Everything is covered with clear film",
+  "The tube and pump are connected",
+  "The seal is checked to make sure the dressing holds the vacuum"
+ ],
+ "feel": [
+  "When the pump starts, a pulling feeling in the wound",
+  "A dressing change can be unpleasant",
+  "The pump sometimes hums quietly or beeps"
+ ],
+ "after": [
+  "The pump should run all the time. Do not turn it off for long on your own",
+  "Watch the canister: if it is full, call the clinic",
+  "Keep the dressing dry",
+  "Come for dressing changes on schedule"
+ ],
+ "red_flags": [
+  "Blood in the tube or canister: turn off the pump and call your doctor or your local emergency number right away",
+  "The pump beeps and does not hold the vacuum",
+  "Fever, severe pain, bad smell from the wound"
+ ],
+ "faq": [
+  {
+   "q": "Can I walk around with the pump?",
+   "a": "Usually yes. The pump is small and is carried on a strap or in a bag."
+  },
+  {
+   "q": "How long will treatment take?",
+   "a": "It depends on the wound. The doctor checks healing at every dressing change."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Vacuum dressing change tomorrow. Charge the pump and ask your doctor about pain relief in advance."
+  }
+ ]
+}

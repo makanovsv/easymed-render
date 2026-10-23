@@ -1,0 +1,84 @@
+{
+ "title": "Cirugía de pterigión",
+ "also": [
+  "pterigión",
+  "carnosidad en el ojo",
+  "carnita en el ojo",
+  "tela en el ojo"
+ ],
+ "what": "El cirujano quita un crecimiento de tejido que avanza sobre la córnea. Normalmente en ese lugar pone un pedacito de tejido de tu propio ojo.",
+ "why": "Cuando la carnosidad crece, no te deja ver bien, irrita el ojo o afecta su apariencia.",
+ "duration": "la cirugía suele durar de 30 a 60 minutos; normalmente regresas a casa el mismo día",
+ "tell_doctor": [
+  "Si tomas medicamentos que hacen la sangre más líquida. El médico decidirá qué hacer",
+  "Si eres alérgico a algún medicamento",
+  "Si tienes diabetes o presión alta",
+  "Si te operaron antes de ese ojo"
+ ],
+ "prepare": [
+  {
+   "title": "Estudios",
+   "text": "Normalmente se necesitan análisis y una revisión. La clínica te dará la lista."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No dejes tus medicamentos por tu cuenta. Díselo al médico."
+  },
+  {
+   "title": "Transporte",
+   "text": "Es mejor regresar a casa con un acompañante. No puedes manejar."
+  },
+  {
+   "title": "Maquillaje",
+   "text": "Sin maquillaje el día de la cirugía."
+  }
+ ],
+ "bring": [
+  "Tu identificación",
+  "Los resultados de tus análisis",
+  "La lista de tus medicamentos",
+  "Lentes oscuros",
+  "Un acompañante"
+ ],
+ "steps": [
+  "Te ponen gotas de anestesia y a veces una inyección junto al ojo",
+  "Sostienen los párpados con un separador",
+  "El cirujano separa y quita la carnosidad",
+  "En ese lugar cose o pega un pedacito de tu propio tejido",
+  "Te tapan el ojo con un parche"
+ ],
+ "feel": [
+  "Durante la cirugía sientes presión, pero no dolor",
+  "Por unos días sientes arena en el ojo, ardor y lagrimeo",
+  "El ojo rojo dura algunas semanas"
+ ],
+ "after": [
+  "Gotas exactamente como te indicó el médico",
+  "No te talles el ojo",
+  "Afuera, usa lentes oscuros",
+  "Revisiones según el plan del médico; los puntos se quitan o se absorben solos",
+  "Protege tus ojos del sol. Así hay menos riesgo de que regrese la carnosidad"
+ ],
+ "red_flags": [
+  "Dolor fuerte que va en aumento",
+  "Pus en el ojo",
+  "La vista empeora de repente",
+  "Se abrió un punto o se movió el pedacito de tejido"
+ ],
+ "faq": [
+  {
+   "q": "¿El pterigión puede regresar?",
+   "a": "Sí, a veces. Poner tejido propio y protegerse del sol bajan ese riesgo."
+  },
+  {
+   "q": "¿Siempre hay que operar?",
+   "a": "Si la carnosidad es pequeña, muchas veces solo se vigila. Se recomienda operar si crece o molesta."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Mañana es tu cirugía del ojo. Lleva lentes oscuros y ponte de acuerdo con alguien para que te lleve a casa."
+  }
+ ]
+}

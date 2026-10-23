@@ -1,0 +1,77 @@
+{
+ "title": "Genetik qabuli",
+ "also": [
+  "genetik maslahati",
+  "tibbiy-genetik maslahat",
+  "genetik shifokor",
+  "genetik konsultatsiya"
+ ],
+ "what": "Genetik shifokor oilada irsiy kasalliklar bor-yo‘qligini va sizda yoki bolada qanday xavf borligini aniqlaydi. Genetik tahlil natijalarini oddiy so‘zlar bilan tushuntiradi.",
+ "why": "Homiladorlikni rejalashtirishda, skrining g‘ayrioddiy chiqqanda, oilada irsiy kasalliklar bo‘lsa yoki bolaning rivojlanishida o‘ziga xosliklar bo‘lsa.",
+ "duration": "qabul odatda 30–60 daqiqa; genetik tahlillar buyurilsa, natija bir necha kundan bir necha haftagacha",
+ "tell_doctor": [
+  "Yaqin qarindoshlardagi kasalliklar: ota-ona, aka-uka, opa-singil, bolalar",
+  "Bola tushishi yoki rivojlanmay qolgan homiladorliklar bo‘lganmi",
+  "Siz va turmush o‘rtog‘ingiz qarindosh bo‘lsangiz",
+  "Homilador bo‘lsangiz, homiladorlik muddati",
+  "Qanday tahlil va tekshiruvlar allaqachon qilingan"
+ ],
+ "prepare": [
+  {
+   "title": "Oila",
+   "text": "Oldindan yaqinlaringizdan so‘rang: kim nima bilan kasallangan, qaysi yoshda, buvi va bobolar nimadan vafot etgan."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Ko‘chirmalar, skrining, ultratovush va tahlil natijalarini yig‘ing — o‘zingizniki va bolaniki."
+  },
+  {
+   "title": "Savollar",
+   "text": "Nimani bilmoqchi ekaningizni yozib qo‘ying. Qabulda unutish oson."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma, agar bo‘lsa",
+  "Hujjat",
+  "Ko‘chirmalar va tahlil natijalari",
+  "Oiladagi kasalliklar haqida yozuvlar"
+ ],
+ "steps": [
+  "Shifokor siz, homiladorliklaringiz va yaqinlaringiz sog‘lig‘i haqida so‘raydi",
+  "U oila sxemasini chizadi — kim nima bilan kasallangan",
+  "Kerak bo‘lsa, sizni yoki bolani ko‘radi",
+  "Qanday xavf borligini va u nimaga bog‘liqligini tushuntiradi",
+  "Kerak bo‘lsa, tahlillar taklif qiladi va ular nimani ko‘rsatishini tushuntiradi",
+  "Keyingi qadamlarni muhokama qilasiz"
+ ],
+ "feel": [
+  "Suhbat oson bo‘lmasligi mumkin — bu odatiy, istalgan savol bering",
+  "Qarorlarni odatda o‘zingiz qabul qilasiz, shifokor faqat tushuntiradi"
+ ],
+ "after": [
+  "Tahlil buyurilsa, natija muddatini klinikada aytishadi",
+  "Natija bilan odatda takroriy qabulga kelinadi",
+  "Yozma xulosa so‘rang"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Oilada hamma sog‘ bo‘lsa, nega genetikka borish kerak?",
+   "a": "Ba’zan shifokorlar buni homiladorlikni rejalashtirishda yoki skriningdan keyin maslahat beradi. Genetik xavfni tushunishga yordam beradi va u past bo‘lsa, ko‘nglingizni tinchlantiradi."
+  },
+  {
+   "q": "Genetik tahlil og‘riqlimi?",
+   "a": "Odatda yo‘q. Ko‘pincha venadan qon olinadi yoki yonoq ichidan surtma olinadi."
+  },
+  {
+   "q": "Turmush o‘rtog‘im bilan kelish kerakmi?",
+   "a": "Ko‘pincha foydali: shifokorga ikkala oilaning tarixi muhim. Klinikadan aniqlang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga genetik qabuli. Ko‘chirmalar, tahlillar va oiladagi kasalliklar haqida yozuvlarni oling."
+  }
+ ]
+}

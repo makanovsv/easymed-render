@@ -1,0 +1,73 @@
+{
+ "title": "Qonning biokimyoviy tahlili",
+ "also": [
+  "qon biokimyosi",
+  "BQT",
+  "jigar sinamalari",
+  "buyrak sinamalari"
+ ],
+ "what": "Venadan qon tahlili. U jigar, buyraklar, modda almashinuvi qanday ishlayotganini ko‘rsatadi. Qaysi ko‘rsatkichlar kerakligini shifokorning o‘zi tanlaydi.",
+ "why": "Ko‘rikda, jigar va buyrak kasalliklarida, diabetda, operatsiyadan oldin, davoni nazorat qilish uchun.",
+ "duration": "qon olish — 3–5 daqiqa, natija odatda 1–2 kunda",
+ "tell_doctor": [
+  "Qanday dorilar, vitaminlar va qo‘shimchalar qabul qilasiz",
+  "Yaqinda og‘ir mashqlar yoki jarohatlar bo‘lgan bo‘lsa",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqat",
+   "text": "Odatda qat’iy och qoringa: 8–12 soat ovqatsiz. Oddiy suv ichsa bo‘ladi. Laboratoriyadan aniqlang."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Yog‘siz yengil kechki ovqat. Bir sutka oldin — alkogolsiz va og‘ir mashqsiz."
+  },
+  {
+   "title": "Ertalab",
+   "text": "Chekmang, choy, qahva va sharbat ichmang, saqich chaynamang."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ertalabki dorilarni tahlildan oldin yoki keyin ichishni shifokordan so‘rang."
+  }
+ ],
+ "bring": [
+  "Ko‘rsatkichlar ro‘yxati bilan yo‘llanma",
+  "Hujjat",
+  "Oldingi natijalar — solishtirish uchun"
+ ],
+ "steps": [
+  "O‘tirasiz, qo‘lingiz tirsakchaga qo‘yiladi",
+  "Tirsakdan yuqoriga jgut bog‘lashadi",
+  "Teri antiseptik bilan artiladi",
+  "Qisqa ukol — qon probirkaga olinadi",
+  "Igna olinadi, joyga paxta bosiladi"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan engil bosh aylanishi — hamshiraga ayting"
+ ],
+ "after": [
+  "Paxtani 3–5 daqiqa bosib turing",
+  "Tahlildan keyin darrov ovqatlansangiz bo‘ladi",
+  "Natijani shifokor tushuntiradi — me’yordan tashqari bitta raqam hali tashxis emas"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Biokimyo nega qat’iy och qoringa topshiriladi?",
+   "a": "Ovqat qand, yog‘lar va boshqa ko‘rsatkichlarni o‘zgartiradi. Nonushtadan keyingi tahlil yolg‘on og‘ishlarni ko‘rsatishi mumkin."
+  },
+  {
+   "q": "Biokimyoga nimalar kiradi?",
+   "a": "Bitta to‘plam yo‘q. Odatda bu jigar sinamalari, kreatinin, qand, oqsil, xolesterin. Ro‘yxatni shifokor belgilaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga qon biokimyosi. Yengil kechki ovqatdan keyin ovqat yemang, suv ichsa bo‘ladi. Alkogolsiz."
+  }
+ ]
+}

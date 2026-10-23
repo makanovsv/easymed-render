@@ -1,0 +1,76 @@
+{
+ "title": "Bachadon bo‘yni biopsiyasi",
+ "also": [
+  "bachadon bo‘yni biopsiyasi",
+  "bachadon bo‘ynidan nishonli biopsiya",
+  "bachadon bo‘ynidan gistologiya uchun parcha",
+  "kolposkopiyada biopsiya"
+ ],
+ "what": "Shifokor bachadon bo‘ynidan juda kichik to‘qima parchasini oladi. Uni mikroskop ostida o‘rganishadi.",
+ "why": "Surtmada yoki kolposkopiyada o‘zgarishlar ko‘rinib, bu nima ekanini tushunish kerak bo‘lganda.",
+ "duration": "muolaja odatda 5–15 daqiqa; natija odatda 1–2 haftada",
+ "tell_doctor": [
+  "Homiladorlik yoki u mumkin bo‘lsa",
+  "Qonni suyultiruvchi preparatlar",
+  "Og‘riqsizlantiruvchilar va yodga allergiya",
+  "Hozir ajralmalar yoki yallig‘lanish bormi"
+ ],
+ "prepare": [
+  {
+   "title": "Sikl kuni",
+   "text": "Odatda hayz tugagandan keyingi dastlabki kunlarda qilinadi. Hayz paytida emas."
+  },
+  {
+   "title": "2 kun oldin",
+   "text": "Shifokor boshqacha demagan bo‘lsa, jinsiy aloqa, tampon, spirtsovlash va vaginal shamchalarsiz."
+  },
+  {
+   "title": "Og‘riq qoldiruvchi",
+   "text": "Shifokordan oldindan og‘riq qoldiruvchi ichish kerakmi, deb so‘rash mumkin."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Surtmalar va kolposkopiya natijalari",
+  "Prokladka",
+  "Hujjat"
+ ],
+ "steps": [
+  "Ginekologik kreslo‘ga o‘tirasiz",
+  "Shifokor oyna kiritadi va bachadon bo‘ynini kolposkop, ya’ni kattalashtiruvchi asbob orqali ko‘radi",
+  "Bachadon bo‘ynini o‘zgargan joy ko‘rinishi uchun eritma bilan surtishadi",
+  "Ba’zan og‘riqsizlantirishadi",
+  "Maxsus qisqichlar bilan juda kichik to‘qima parchasi olinadi",
+  "Qon ketsa, joyga ishlov berishadi"
+ ],
+ "feel": [
+  "Qisqa chimchilash yoki spazm",
+  "Bir necha daqiqa hayzdagidek tortuvchi og‘riq",
+  "Ba’zan yengil bosh aylanishi: shifokorga ayting"
+ ],
+ "after": [
+  "Ozgina qonli yoki to‘q rangli ajralmalar odatda bir necha kun",
+  "Jinsiy aloqa, tampon, vanna va basseynsiz odatda 1–2 hafta, aniqrog‘ini shifokor aytadi",
+  "Natijani shifokor qabulda tushuntiradi"
+ ],
+ "red_flags": [
+  "Ko‘p hayzdagidek qon ketishi",
+  "Harorat 38 dan yuqori, kuchli og‘riq, yoqimsiz hidli ajralmalar"
+ ],
+ "faq": [
+  {
+   "q": "Biopsiya olinsa, demak saratonmi?",
+   "a": "Yo‘q. Ko‘pincha yaxshi sifatli o‘zgarishlar topiladi. Biopsiya aniq bilish uchun kerak."
+  },
+  {
+   "q": "Og‘riqlimi?",
+   "a": "Odatda qisqa chimchilash va spazmdek. Uzoq davom etmaydi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga bachadon bo‘yni biopsiyasi. Bugun jinsiy aloqa va tampon yo‘q. Surtmalar natijalari va prokladkani oling."
+  }
+ ]
+}

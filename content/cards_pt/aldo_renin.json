@@ -1,0 +1,78 @@
+{
+ "title": "Aldosterona e renina",
+ "also": [
+  "relação aldosterona/renina",
+  "RAR",
+  "renina",
+  "aldosterona"
+ ],
+ "what": "É um exame de sangue de duas substâncias que controlam a pressão e o sal no corpo.",
+ "why": "Quando a pressão está alta e não baixa bem com remédio, com potássio baixo no sangue, ou quando acharam algo na adrenal.",
+ "duration": "a coleta leva alguns minutos, o resultado sai normalmente em alguns dias",
+ "tell_doctor": [
+  "Todos os remédios para pressão e diuréticos. Muitos deles mudam o resultado",
+  "Se você usa anticoncepcional hormonal",
+  "Se o potássio já deu baixo nos exames",
+  "Se você come muito alcaçuz ou toma bebidas com ele"
+ ],
+ "prepare": [
+  {
+   "title": "Remédios",
+   "text": "Muitos remédios para pressão afetam o exame. O médico pode trocar alguns antes. Não pare nada por conta própria."
+  },
+  {
+   "title": "Sal",
+   "text": "Coma como de costume. Não corte o sal de propósito, se o médico não disser outra coisa."
+  },
+  {
+   "title": "Manhã",
+   "text": "Normalmente o sangue é colhido de manhã, depois de você ficar de pé umas duas horas. Depois pedem para ficar sentado alguns minutos. Confirme com o laboratório."
+  },
+  {
+   "title": "Roupa",
+   "text": "Uma manga fácil de dobrar acima do cotovelo."
+  }
+ ],
+ "bring": [
+  "Pedido médico ou lista de exames",
+  "Documento de identidade",
+  "Lista de todos os remédios com as doses",
+  "Os últimos exames de potássio"
+ ],
+ "steps": [
+  "Você fica sentado tranquilo alguns minutos antes da coleta",
+  "Colocam um garrote acima do cotovelo e pedem para abrir e fechar a mão",
+  "Limpam a pele com antisséptico",
+  "Uma picada rápida: o sangue enche os tubos em poucos segundos",
+  "Tiram a agulha e colocam um algodão no local"
+ ],
+ "feel": [
+  "Uma picada rápida, como um beliscão",
+  "Às vezes dá uma leve tontura. Avise a enfermeira, e você vai poder se deitar"
+ ],
+ "after": [
+  "Aperte o algodão por 3 a 5 minutos",
+  "Tome os remédios do jeito que o médico orientou",
+  "Quem avalia o resultado é o médico. Às vezes são necessários testes extras"
+ ],
+ "red_flags": [
+  "O local da picada inchou muito, dói e está vermelho",
+  "Dor de cabeça forte, pressão muito acima do normal, fraqueza no braço ou na perna: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "Por que o médico troca meus remédios antes do exame?",
+   "a": "Alguns remédios para pressão alteram o resultado. A troca é só durante a investigação."
+  },
+  {
+   "q": "E se a pressão subir depois da troca?",
+   "a": "Não volte aos remédios antigos por conta própria. Ligue para o médico e meça a pressão."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã você faz o exame de aldosterona e renina. Remédios conforme o médico, sal como de costume. De manhã, depois de levantar, não volte a deitar."
+  }
+ ]
+}

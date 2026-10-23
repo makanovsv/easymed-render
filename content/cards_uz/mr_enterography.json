@@ -1,0 +1,77 @@
+{
+ "title": "MR-enterografiya",
+ "also": [
+  "MR-enterografiya",
+  "ingichka ichak MRTsi",
+  "ichak MRTsi eritma bilan"
+ ],
+ "what": "Qorin MRTsi, undan oldin maxsus eritma ichasiz. U ichakni yoyadi va suratlarda yaxshi ko‘rinadi.",
+ "why": "Ko‘pincha ichakning yallig‘lanish kasalliklarida, ingichka ichakni nurlanishsiz ko‘rish uchun.",
+ "duration": "eritma ichish taxminan bir soat, MRTning o‘zi 30–45 daqiqa, xulosa bir necha kundan keyin",
+ "tell_doctor": [
+  "Yurak stimulyatori yoki tanada metall bo‘lsa",
+  "Yopiq joydan qo‘rqsangiz",
+  "Homilador bo‘lishingiz mumkin bo‘lsa",
+  "Buyrak kasalliklari yoki kontrastga allergiya bo‘lsa",
+  "Glaukoma yoki prostata adenomasi bo‘lsa — ichak uchun dori sababli"
+ ],
+ "prepare": [
+  {
+   "title": "Ochlik",
+   "text": "Odatda 4–6 soat ovqat yemaslik. Klinikadan aniqlab oling."
+  },
+  {
+   "title": "Vaqt",
+   "text": "Oldinroq keling: eritma tekshiruvdan taxminan bir soat oldin ichiladi."
+  },
+  {
+   "title": "Metall",
+   "text": "Taqinchoq, soat va kamarni yeching."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi suratlar va kolonoskopiya",
+  "Hujjat",
+  "Almashtiriladigan ichki kiyim — eritma ich yurgizadi"
+ ],
+ "steps": [
+  "Siz eritmani taxminan bir soat davomida kichik porsiyalarda ichasiz",
+  "Kiyimingizni almashtirib, metallni yechasiz",
+  "Stolga yotasiz — ko‘pincha qoringa",
+  "Tomirga kateter qo‘yiladi",
+  "Ichak qimirlamasligi uchun dori va kontrast yuboriladi",
+  "Suratlar olinadi, ko‘pincha nafasni ushlab turib"
+ ],
+ "feel": [
+  "Ko‘p ichish yoqimsiz, dam bo‘lishi mumkin",
+  "Dori sababli ko‘rish vaqtincha xiralashishi mumkin",
+  "Kontrast yuborilganda issiqlik"
+ ],
+ "after": [
+  "Tekshiruvdan keyin suyuq najas bo‘lishi mumkin — hojatxonaga yaqinroq bo‘ling",
+  "Ko‘rish xira bo‘lsa, rulga o‘tirmang",
+  "Xulosa odatda bir necha kundan keyin"
+ ],
+ "red_flags": [
+  "Tekshiruvdan keyin ko‘zda og‘riq va ko‘rishning keskin yomonlashuvi — 103 ga qo‘ng‘iroq qiling",
+  "Toshma, yuz shishishi, nafas olish qiyin — 103 ga qo‘ng‘iroq qiling",
+  "Qorinda kuchli og‘riq"
+ ],
+ "faq": [
+  {
+   "q": "Nega shuncha eritma ichish kerak?",
+   "a": "Usiz ichak yig‘ilib qolgan va suratlarda yomon ko‘rinadi."
+  },
+  {
+   "q": "Darrov ishga borsa bo‘ladimi?",
+   "a": "Odatda ha, lekin suyuq najas bo‘lishi mumkinligini hisobga oling."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Ertaga MR-enterografiya. 4–6 soat oldin yemang, oldinroq keling — eritma ichish kerak bo‘ladi."
+  }
+ ]
+}

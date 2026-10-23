@@ -1,0 +1,101 @@
+{
+ "title": "Uyquda kolonoskopiya (sedatsiya ostida)",
+ "also": [
+  "narkoz ostida kolonoskopiya",
+  "uyquda kolonoskopiya",
+  "kolonoskopiyada sedatsiya"
+ ],
+ "what": "Xuddi shu kolonoskopiya, ya’ni yo‘g‘on ichakni kamera bilan ko‘rish, lekin siz uxlab yotasiz. Dorini venaga anesteziolog yuboradi va butun vaqt davomida sizni kuzatib turadi.",
+ "why": "Qo‘rqsangiz yoki ilgari og‘ir o‘tgan bo‘lsa, og‘riqlarda, uzoq ko‘rikda yoki poliplarni olib tashlashda.",
+ "duration": "odatda 20–40 daqiqa, uyg‘onishga yana 30–60 daqiqa; oldingi kuni tayyorgarlik",
+ "tell_doctor": [
+  "Qonni suyultiruvchi va temir preparatlari",
+  "Qandli diabet: tayyorgarlik va dorilarni moslashtirish kerak bo‘ladi",
+  "Yurak, o‘pka, buyrak kasalliklari; nafas to‘xtashi bilan xurrak",
+  "Allergiyalar va narkozni ilgari qanday ko‘targaningiz",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "2–3 kun oldin",
+   "text": "Kletchatkasiz parhez: sabzavotlar, mevalar, ko‘katlar, urug‘lar, yong‘oqlar, butun donli mahsulotlar va dukkaklilarsiz."
+  },
+  {
+   "title": "Tozalash",
+   "text": "Ichakni tozalash eritmasi shifokor sxemasi bo‘yicha ichiladi, ko‘pincha ikki marta: kechqurun va ertalab erta."
+  },
+  {
+   "title": "Ovqat va suv",
+   "text": "Sedatsiya sababli qoidalar qattiqroq. Odatda 6–8 soat ovqatsiz, tiniq suv 2–3 soatgacha. Aniq vaqtni klinika aytadi."
+  },
+  {
+   "title": "Dorilar",
+   "text": "O‘zingiz bekor qilmang. Ertalab qaysi tabletkalarni bir ho‘plam suv bilan ichish kerakligini shifokordan so‘rang."
+  },
+  {
+   "title": "Yo‘ldosh",
+   "text": "Sizni uyga olib ketadigan kattalar kerak. Yolg‘iz odamni odatda qo‘yib yuborishmaydi."
+  }
+ ],
+ "bring": [
+  "Yo‘llanma",
+  "Oldingi kolonoskopiya xulosalari",
+  "Dorilar ro‘yxati",
+  "Yo‘ldosh"
+ ],
+ "steps": [
+  "Anesteziolog sog‘ligingiz haqida so‘raydi, venaga kateter qo‘yiladi",
+  "Barmoqqa datchik, qo‘lga bosim uchun manjet taqiladi",
+  "Chap yonboshga yotasiz, burun nayi orqali kislorod beriladi",
+  "Dori yuboriladi: bir daqiqada uxlab qolasiz",
+  "Shifokor kolonoskopiya qiladi, kerak bo‘lsa, poliplarni olib tashlaydi",
+  "Palatada uyg‘onasiz, o‘zingizga kelguncha sizni kuzatishadi"
+ ],
+ "feel": [
+  "Odatda hech narsa sezmaysiz va eslamaysiz",
+  "Uyg‘ongandan keyin mudroqlik va havodan dam bo‘lish"
+ ],
+ "after": [
+  "Dam bo‘lish bir necha soatda o‘tadi: yurish yordam beradi",
+  "Kun oxirigacha mashina haydab, texnika bilan ishlab, muhim qarorlar qabul qilib bo‘lmaydi",
+  "Shu kuni alkogolsiz",
+  "Odatda to‘liq uyg‘ongach ovqatlanish mumkin",
+  "Biopsiya natijasi 1–2 haftada"
+ ],
+ "red_flags": [
+  "Qorinda kuchli og‘riq, yuqori harorat, to‘g‘ri ichakdan ko‘p qon ketsa, darhol shifokorga boring yoki 103 ga qo‘ng‘iroq qiling",
+  "Muolajadan keyin kuchli holsizlik, nafas qisilishi, hushdan ketish bo‘lsa, tez yordamni chaqiring (103)"
+ ],
+ "faq": [
+  {
+   "q": "Bu umumiy narkozmi?",
+   "a": "Odatda yo‘q. Bu chuqur dorili uyqu: o‘zingiz nafas olasiz va tez uyg‘onasiz."
+  },
+  {
+   "q": "Sedatsiyadan keyin nega rulga o‘tirib bo‘lmaydi?",
+   "a": "Dori reaksiyani yana bir necha soat sekinlashtiradi, o‘zingizni tetik his qilsangiz ham."
+  },
+  {
+   "q": "Uyquda kolonoskopiyadan oldin suv ichsa bo‘ladimi?",
+   "a": "Odatda tiniq suvni muolajadan 2–3 soat oldingacha ichish mumkin. Aniq muddatni klinika aytadi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 72,
+   "text": "3 kundan keyin uyquda kolonoskopiya. Kletchatkasiz parhezni boshlang. Sizni kim olib ketishini kelishib oling."
+  },
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga kolonoskopiya. Nonushtadan keyin faqat tiniq suyuqliklar. Kechqurun eritmaning birinchi qismi sxema bo‘yicha."
+  },
+  {
+   "hoursBefore": 6,
+   "text": "Sxema ikki marta bo‘lsa, eritmaning ikkinchi qismi vaqti. Keyin ovqatsiz; suvni faqat klinika aytgan muddatgacha iching."
+  },
+  {
+   "hoursBefore": 3,
+   "text": "Tez orada uyquda kolonoskopiya. Klinika boshqacha demagan bo‘lsa, endi ichmang. Yo‘ldosh siz bilanmi?"
+  }
+ ]
+}

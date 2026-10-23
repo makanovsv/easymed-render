@@ -1,0 +1,78 @@
+{
+ "title": "Gastroscopia por la nariz (con sonda delgada)",
+ "also": [
+  "gastroscopia transnasal",
+  "endoscopia por la nariz",
+  "gastroscopio delgado",
+  "gastroscopia ultradelgada"
+ ],
+ "what": "Es una revisión del esófago, el estómago y el inicio del intestino con un tubo delgado con cámara que se introduce por la nariz y no por la boca.",
+ "why": "Con dolor de abdomen, agruras o problemas para tragar; para quien tolera mal la gastroscopia común por las náuseas.",
+ "duration": "normalmente de 10 a 20 minutos; el informe te lo dan de inmediato, la biopsia en 1 o 2 semanas",
+ "tell_doctor": [
+  "Medicamentos que adelgazan la sangre",
+  "Sangrados frecuentes de nariz, desviación del tabique o cirugías de nariz",
+  "Diabetes: hay que ajustar las horas de ayuno y los medicamentos",
+  "Alergia a anestésicos locales"
+ ],
+ "prepare": [
+  {
+   "title": "Comida",
+   "text": "Normalmente no comas durante 6 a 8 horas. El agua, hasta la hora que diga la clínica."
+  },
+  {
+   "title": "Medicamentos",
+   "text": "No los suspendas por tu cuenta. Pregunta al médico cuáles tomar en la mañana."
+  },
+  {
+   "title": "Nariz",
+   "text": "Si tienes la nariz tapada, avísale al médico con anticipación."
+  }
+ ],
+ "bring": [
+  "La orden médica",
+  "Informes de gastroscopias anteriores",
+  "Identificación"
+ ],
+ "steps": [
+  "El médico te pregunta por qué fosa nasal respiras mejor",
+  "Te rocían en la nariz un anestésico y un medicamento que reduce la inflamación",
+  "Te sientas o te acuestas del lado izquierdo",
+  "Introducen el tubo delgado por la nariz y te piden tragar",
+  "El médico revisa el esófago, el estómago y el inicio del intestino y, si hace falta, toma un trozo de tejido",
+  "Retiran el tubo"
+ ],
+ "feel": [
+  "Presión y cosquilleo en la nariz al introducirlo",
+  "Las náuseas suelen ser mucho más leves que con la gastroscopia común",
+  "Puedes hablar durante el procedimiento",
+  "El abdomen se siente algo inflado por el aire"
+ ],
+ "after": [
+  "Mientras siga el adormecimiento de la garganta, normalmente cerca de una hora, no comas ni bebas",
+  "El adormecimiento de la nariz y la ligera hinchazón se quitan solos",
+  "Sin sedación puedes irte a casa y manejar de inmediato",
+  "Si tomaron una biopsia, el resultado sale en 1 o 2 semanas"
+ ],
+ "red_flags": [
+  "Sangrado fuerte de nariz que no se detiene en 15 minutos",
+  "Vómito con sangre o heces negras: llama a emergencias",
+  "Dolor fuerte en el abdomen o en el pecho, fiebre"
+ ],
+ "faq": [
+  {
+   "q": "¿Es más fácil que la gastroscopia común?",
+   "a": "Para muchas personas sí: el tubo es más delgado y no presiona la base de la lengua, por eso hay menos náuseas."
+  },
+  {
+   "q": "¿Sirve para todas las personas?",
+   "a": "No para todas. Si tienes las fosas nasales muy estrechas o si hace falta algún tratamiento, el médico puede elegir la forma común."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 12,
+   "text": "Mañana tienes la gastroscopia por la nariz. Después de la cena ya no comas; el agua, hasta la hora que dijo la clínica."
+  }
+ ]
+}

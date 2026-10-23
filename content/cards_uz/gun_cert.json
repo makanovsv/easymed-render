@@ -1,0 +1,70 @@
+{
+ "title": "Qurol uchun tibbiy komissiya",
+ "also": [
+  "qurol uchun ma’lumotnoma",
+  "qurol uchun tibbiy komissiya",
+  "qurol uchun tibbiy xulosa",
+  "ovchilik guvohnomasi uchun ma’lumotnoma"
+ ],
+ "what": "Qurolga ruxsat berish yoki uzaytirish uchun shart bo‘lgan tibbiy tekshiruv. Odatda bir necha shifokor va tahlilni o‘z ichiga oladi.",
+ "why": "Qurol litsenziyasini olishda yoki uzaytirishda.",
+ "duration": "odatda 1–2 kun, tahlil natijasi — bir necha kunda",
+ "tell_doctor": [
+  "Ko‘z kasalliklari va ko‘rish",
+  "Asab tizimi va ruhiy salomatlik kasalliklari",
+  "Qanday dorilar ichasiz"
+ ],
+ "prepare": [
+  {
+   "title": "Shifokorlar ro‘yxati",
+   "text": "Odatda terapevt yoki profpatolog, ko‘z shifokori, psixiatr va narkolog kerak. Aniq ro‘yxatni klinikadan aniqlang."
+  },
+  {
+   "title": "Tahlil",
+   "text": "Ko‘pincha narkotik va kuchli ta’sir qiluvchi moddalarga siydik tahlili topshiriladi. Barcha dorilar haqida shifokorga ayting."
+  },
+  {
+   "title": "Bir kun oldin",
+   "text": "Alkogol ichmang. Dorilarni o‘zingiz bekor qilmang."
+  }
+ ],
+ "bring": [
+  "Shaxsni tasdiqlovchi hujjat",
+  "Ko‘zoynak yoki linza, agar taqsangiz",
+  "Surat, klinika talab qilsa",
+  "Dorilar ro‘yxati"
+ ],
+ "steps": [
+  "Bunday ma’lumotnoma beradigan klinikaga kelasiz",
+  "Ko‘z shifokoridan o‘tasiz — ko‘rishni tekshirish",
+  "Psixiatr savollar beradi, ba’zan testlar o‘tkazadi",
+  "Narkolog ko‘rik o‘tkazadi",
+  "Siydik tahliliga topshirasiz",
+  "Terapevt yoki profpatolog xulosani rasmiylashtiradi"
+ ],
+ "feel": [
+  "Barcha ko‘riklar og‘riqsiz",
+  "Psixiatr bilan suhbat — oddiy savollar, hayajonlanmang"
+ ],
+ "after": [
+  "Ma’lumotnoma barcha ko‘riklar va tahlildan keyin beriladi",
+  "Ma’lumotnoma qancha amal qilishini bilib oling va hujjatlarni o‘z vaqtida topshiring"
+ ],
+ "red_flags": [],
+ "faq": [
+  {
+   "q": "Psixiatr va narkologdan istalgan klinikada o‘tsa bo‘ladimi?",
+   "a": "Odatda bunday xulosa berish huquqiga ega klinika kerak. Oldindan aniqlang."
+  },
+  {
+   "q": "Dorilar tahlilga ta’sir qiladimi?",
+   "a": "Ba’zilari qilishi mumkin. Nima ichayotganingizni shifokorga albatta ayting."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Ertaga qurol uchun tibbiy komissiya. Alkogol ichmang, hujjat va ko‘zoynagingizni oling, agar taqsangiz."
+  }
+ ]
+}

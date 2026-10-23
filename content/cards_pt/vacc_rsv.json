@@ -1,0 +1,72 @@
+{
+ "title": "Vacina contra VSR (para gestantes e idosos)",
+ "also": [
+  "vacina VSR",
+  "vacina contra vírus sincicial respiratório",
+  "vacina VSR na gravidez",
+  "vacina RSV"
+ ],
+ "what": "É a injeção de uma vacina contra o VSR, um vírus que causa bronquiolite e pneumonia graves em bebês e idosos. Na gestante, a vacina é dada para proteger o bebê.",
+ "why": "Para gestantes no fim da gravidez, para proteger o bebê, e para idosos, conforme orientação do médico.",
+ "duration": "a injeção leva alguns segundos; com a avaliação, normalmente de 15 a 40 minutos; normalmente uma dose só",
+ "tell_doctor": [
+  "Se está doente agora ou com febre",
+  "Alergias e reações fortes a vacinas anteriores",
+  "Com quantas semanas de gravidez está: a vacina é dada em semanas certas",
+  "Doenças crônicas do coração e do pulmão"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é aplicada quando você está saudável. Antes da injeção, você será avaliada."
+  },
+  {
+   "title": "Semanas",
+   "text": "Na gravidez, a vacina é dada numa semana específica. O médico vai dizer os prazos exatos."
+  },
+  {
+   "title": "Roupa",
+   "text": "Roupa confortável, fácil de descobrir o braço."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Carteira de vacinação"
+ ],
+ "steps": [
+  "O médico ou a enfermeira pergunta como você está e mede a temperatura",
+  "Você descobre o braço",
+  "A pele é limpa e a injeção é aplicada",
+  "A vacina é registrada nos documentos",
+  "Depois da injeção, é preciso ficar sentado na clínica por cerca de 30 minutos"
+ ],
+ "feel": [
+  "Uma picada rápida",
+  "Às vezes o local dói por 1 a 2 dias",
+  "Às vezes fraqueza, dor de cabeça ou dor no corpo"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala de vacinação",
+  "Você pode voltar às atividades normais",
+  "Gestantes: depois do parto, contem ao pediatra que tomaram a vacina"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, inchaço no rosto ou na garganta, manchas pelo corpo todo: ligue para a emergência"
+ ],
+ "faq": [
+  {
+   "q": "A vacina é segura na gravidez?",
+   "a": "Ela é dada a gestantes conforme as recomendações médicas, em semanas certas. Decida junto com o médico."
+  },
+  {
+   "q": "Preciso tomar todo ano?",
+   "a": "Normalmente não. Pergunte ao médico se precisa de reforço."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina contra VSR. Leve a carteira de vacinação e, se estiver grávida, o cartão da gestante."
+  }
+ ]
+}

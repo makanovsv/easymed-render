@@ -1,0 +1,79 @@
+{
+ "title": "Eye exam for diabetes",
+ "also": [
+  "diabetic eye exam",
+  "diabetic retinopathy screening",
+  "retina check for diabetes",
+  "dilated eye exam"
+ ],
+ "what": "An eye doctor checks the retina through a widened pupil. This finds changes from diabetes early, while they can still be stopped.",
+ "why": "For people with diabetes, usually once a year, more often if changes are already found.",
+ "duration": "usually 30 to 60 minutes, including waiting for the drops; results right away",
+ "tell_doctor": [
+  "Your type of diabetes and how long you have had it",
+  "Your latest HbA1c (long-term blood sugar) result",
+  "If you have high blood pressure",
+  "If you had laser treatment or eye injections",
+  "If you are pregnant"
+ ],
+ "prepare": [
+  {
+   "title": "Food and medicines",
+   "text": "Eat and take your medicines as usual."
+  },
+  {
+   "title": "Getting home",
+   "text": "After the drops, it is hard to drive. It is better to have someone with you."
+  },
+  {
+   "title": "Sun",
+   "text": "Bring sunglasses."
+  }
+ ],
+ "bring": [
+  "Your ID",
+  "Your glasses",
+  "Recent test results",
+  "Sunglasses",
+  "Your glucose meter and a snack"
+ ],
+ "steps": [
+  "Your vision and eye pressure are checked",
+  "Drops are put in to widen your pupils",
+  "You wait 20 to 30 minutes",
+  "The doctor looks at the back of your eye with a lens",
+  "Sometimes a photo of the retina or an OCT scan is taken"
+ ],
+ "feel": [
+  "The drops may sting",
+  "The light is bright during the exam",
+  "After the drops, close-up vision is blurry and light feels too bright for a few hours"
+ ],
+ "after": [
+  "Do not drive until the drops wear off",
+  "You get the result right away",
+  "Your next exam is as your doctor plans",
+  "Keeping your blood sugar and blood pressure under control protects your eyes"
+ ],
+ "red_flags": [
+  "A sudden drop in vision",
+  "A dark curtain or many floaters in front of the eye",
+  "Flashes of light"
+ ],
+ "faq": [
+  {
+   "q": "Why go if I see well?",
+   "a": "Changes in the retina are not felt for a long time. The exam finds them early."
+  },
+  {
+   "q": "Can I keep my vision with diabetes?",
+   "a": "Yes. Controlling blood sugar and blood pressure and regular exams matter."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Eye exam tomorrow. Eat and take your medicines as usual. Better not to drive."
+  }
+ ]
+}

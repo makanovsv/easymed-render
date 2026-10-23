@@ -1,0 +1,75 @@
+{
+ "title": "Safar oldidan emlash",
+ "also": [
+  "sayohat uchun emlash",
+  "safar oldidan vaksinatsiya",
+  "sariq isitmaga qarshi emlash",
+  "ta’til oldidan emlash"
+ ],
+ "what": "Shifokor siz boradigan mamlakatga qarab emlashlarni tanlaydi. Ba’zi mamlakatlarga kirish uchun emlash majburiy.",
+ "why": "Tropik va boshqa mamlakatlarga safar oldidan, bizda kam uchraydigan kasalliklar bor joylarga.",
+ "duration": "maslahat odatda 20–40 daqiqa; ukol — bir necha soniya; safardan 4–8 hafta oldin keling",
+ "tell_doctor": [
+  "Qayerga, qachon va qancha muddatga borasiz",
+  "Qanday yashaysiz: shahar, qishloq, sayohat yurishlari",
+  "Qanday emlashlar allaqachon qilingan",
+  "Surunkali kasalliklar va dorilar",
+  "Homilador bo‘lsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Oldindan",
+   "text": "Safardan 1–2 oy oldin keling: ba’zi vaksinalarga vaqt kerak, ba’zilari esa bir necha ukol talab qiladi."
+  },
+  {
+   "title": "Talablar",
+   "text": "Mamlakatga kirish qoidalarini tekshiring: ba’zan emlash haqida sertifikat kerak."
+  },
+  {
+   "title": "Hujjatlar",
+   "text": "Emlash sertifikatini toping."
+  }
+ ],
+ "bring": [
+  "Hujjat, yaxshisi xorijiy pasport",
+  "Emlash sertifikati",
+  "Safar marshruti va sanalari"
+ ],
+ "steps": [
+  "Shifokor safar va sog‘liq haqida so‘raydi",
+  "Qanday emlashlar borligini ko‘radi",
+  "Kerakli vaksinalar va jadvalni tanlaydi",
+  "Bir kunda bitta yoki bir nechta ukol qilinadi",
+  "Emlash haqida sertifikat beriladi",
+  "Safarda o‘zingizni qanday asrash kerakligini maslahat qilishadi"
+ ],
+ "feel": [
+  "Qisqa ukol",
+  "Ba’zan 1–2 kun qo‘l og‘riydi, holsizlik yoki harorat bo‘ladi"
+ ],
+ "after": [
+  "30 daqiqa xonadan uzoqlashmang",
+  "Sertifikatni safarga o‘zingiz bilan oling",
+  "Yana doza kerak bo‘lsa, uni jo‘nab ketishdan oldin o‘tkazib yubormang"
+ ],
+ "red_flags": [
+  "Nafas olish qiyinlashsa, yuz yoki tomoq shishsa, butun tanada toshma chiqsa — tez yordamni chaqiring (103)",
+  "Safardan keyin harorat va yomon holat — shifokorga qayerda bo‘lganingizni ayting"
+ ],
+ "faq": [
+  {
+   "q": "Emlashni safardan bir hafta oldin qilsa bo‘ladimi?",
+   "a": "Ba’zilarini mumkin, lekin himoya to‘liq shakllanishga ulgurmaydi. Oldindan kelgan yaxshi."
+  },
+  {
+   "q": "Sariq isitmaga qarshi emlash qayerda kerak?",
+   "a": "Afrika va Janubiy Amerikaning bir qancha mamlakatlarida. Mamlakat qoidalarini tekshiring va shifokordan so‘rang."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 48,
+   "text": "Ertadan keyin safar oldidan emlash bo‘yicha maslahat. Pasport va emlash sertifikatini oling."
+  }
+ ]
+}

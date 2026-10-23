@@ -1,0 +1,76 @@
+{
+ "title": "Vacina DTP (coqueluche, difteria, tétano)",
+ "also": [
+  "vacina DTP",
+  "tríplice bacteriana",
+  "vacina contra coqueluche",
+  "vacina antitetânica",
+  "dT adulto"
+ ],
+ "what": "É a injeção de uma vacina combinada que protege contra coqueluche, difteria e tétano. As crianças tomam várias doses, conforme o calendário.",
+ "why": "Para crianças, conforme o calendário nacional de vacinação; para adultos, reforço contra difteria e tétano, normalmente a cada 10 anos.",
+ "duration": "a injeção leva alguns segundos; com a avaliação, normalmente de 15 a 40 minutos",
+ "tell_doctor": [
+  "Se a criança está doente agora ou com febre",
+  "Alergias e reações fortes a vacinas anteriores",
+  "Se já teve convulsões ou doenças do sistema nervoso",
+  "Se a criança recebeu derivados de sangue recentemente"
+ ],
+ "prepare": [
+  {
+   "title": "Saúde",
+   "text": "A vacina é dada quando a criança está saudável. Antes da injeção, ela será examinada."
+  },
+  {
+   "title": "Calendário",
+   "text": "Confirme com o pediatra as datas de todas as doses."
+  },
+  {
+   "title": "Antitérmico",
+   "text": "Pergunte ao médico qual antitérmico ter em casa caso dê febre."
+  }
+ ],
+ "bring": [
+  "Documento",
+  "Carteira de vacinação",
+  "O brinquedo favorito da criança"
+ ],
+ "steps": [
+  "O médico examina a criança e mede a temperatura",
+  "Você segura a criança no colo",
+  "A pele é limpa e a injeção é dada na coxa ou no braço",
+  "A vacina é registrada nos documentos",
+  "Depois da injeção, é preciso ficar na clínica por cerca de 30 minutos"
+ ],
+ "feel": [
+  "Uma picada rápida; a criança pode chorar um pouco",
+  "Às vezes, por 1 a 2 dias, vermelhidão e endurecimento no local",
+  "Às vezes febre, manha e falta de apetite"
+ ],
+ "after": [
+  "Fique 30 minutos perto da sala de vacinação",
+  "Em casa, ofereça mais líquidos e vista a criança com roupa leve",
+  "A próxima dose segue o calendário"
+ ],
+ "red_flags": [
+  "Dificuldade para respirar, rosto inchado ou manchas pelo corpo todo: ligue para a emergência",
+  "Convulsões: ligue para a emergência",
+  "Febre alta que não baixa ou choro sem parar por horas: procure o médico com urgência"
+ ],
+ "faq": [
+  {
+   "q": "É verdade que a DTP é uma vacina forte?",
+   "a": "As reações são mais comuns do que com algumas outras vacinas, mas normalmente são leves e passam em 1 a 3 dias."
+  },
+  {
+   "q": "Adulto precisa de vacina contra tétano?",
+   "a": "Sim, normalmente o reforço é feito a cada 10 anos. Confirme com o médico."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 24,
+   "text": "Amanhã é a vacina DTP. Leve a carteira de vacinação. A criança precisa estar saudável."
+  }
+ ]
+}

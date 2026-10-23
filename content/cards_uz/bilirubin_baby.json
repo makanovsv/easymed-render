@@ -1,0 +1,72 @@
+{
+ "title": "Yangi tug‘ilgan chaqaloqda bilirubin",
+ "also": [
+  "yangi tug‘ilgan chaqaloq bilirubini",
+  "sariqlik tahlili",
+  "chaqaloqda sariqlik",
+  "teri bilirubinometri"
+ ],
+ "what": "Bilirubin darajasi tekshiriladi — chaqaloq terisini sarg‘ayttiradigan modda. Ko‘pincha avval asbob teriga tutiladi, kerak bo‘lsa qon olinadi.",
+ "why": "Yangi tug‘ilgan chaqaloqda sariqlik bo‘lsa, u o‘zi o‘tib ketishini yoki lampa kerakligini bilish uchun.",
+ "duration": "asbobni teriga tutish — bir necha soniya, qon tahlili — bir necha daqiqa, natija odatda o‘sha kuni",
+ "tell_doctor": [
+  "Chaqaloq necha kunlik va muddatida tug‘ilganmi",
+  "Qanday ovqatlanadi va sutkada nechta ho‘l taglik bo‘ladi",
+  "Najas va peshob rangi qanday",
+  "Qon guruhingiz va rezusingiz, agar bilsangiz"
+ ],
+ "prepare": [
+  {
+   "title": "Ovqatlantirish",
+   "text": "Chaqaloqni odatdagidek ovqatlantiring — maxsus tayyorgarlik kerak emas."
+  },
+  {
+   "title": "Issiqlik",
+   "text": "Paypoqcha kiygizing — iliq tovondan qon tezroq olinadi."
+  },
+  {
+   "title": "Kiyim",
+   "text": "Oson yechiladigan qulay kiyim — asbob peshona yoki ko‘krakka tutiladi."
+  }
+ ],
+ "bring": [
+  "Chaqaloq hujjatlari",
+  "Yo‘llanma, agar bo‘lsa",
+  "Tug‘ruqxonadan epikriz"
+ ],
+ "steps": [
+  "Hamshira asbobni chaqaloqning peshonasi yoki ko‘kragiga tutadi",
+  "Asbob bir soniyada taxminiy darajani ko‘rsatadi",
+  "Aniq daraja kerak bo‘lsa, tovondan yoki venadan bir tomchi qon olinadi",
+  "Ukol joyiga paxta bosiladi"
+ ],
+ "feel": [
+  "Asbobni chaqaloq sezmaydi",
+  "Ukol — qisqa, chaqaloq yig‘lashi mumkin; ko‘krak bering yoki quchoqlang"
+ ],
+ "after": [
+  "Natija odatda o‘sha kuni",
+  "Bilirubin yuqori bo‘lsa, shifokor lampa — fototerapiya buyurishi mumkin",
+  "Tahlil ko‘pincha bir-ikki kundan keyin takrorlanadi"
+ ],
+ "red_flags": [
+  "Chaqaloq lanj, yomon emadi, uni uyg‘otish qiyin — shoshilinch shifokorga",
+  "Sariqlik kuchaysa, najas och rangli yoki peshob to‘q bo‘lsa — o‘sha kuniyoq shifokorga ko‘rsating"
+ ],
+ "faq": [
+  {
+   "q": "Yangi tug‘ilgan chaqaloqda sariqlik xavflimi?",
+   "a": "Ko‘pincha bu normal va 1–2 haftada o‘zi o‘tadi. Tahlil yuqori darajani o‘tkazib yubormaslik uchun kerak."
+  },
+  {
+   "q": "Quyosh yordam beradimi?",
+   "a": "Chaqaloqni quyosh ostiga qo‘yish tavsiya etilmaydi — qizib ketishi va kuyishi mumkin. Davoni shifokor buyuradi."
+  }
+ ],
+ "reminders": [
+  {
+   "hoursBefore": 2,
+   "text": "Tez orada chaqaloqda bilirubin tekshiruvi. Unga paypoqcha kiygizing va tug‘ruqxona epikrizini oling."
+  }
+ ]
+}
