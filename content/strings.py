@@ -56,3 +56,19 @@ VOICE = {"ru": "ru-RU-DmitryNeural", "en": "en-US-AndrewNeural", "kk": "kk-KZ-Da
          "pt": "pt-BR-AntonioNeural", "ar": "ar-SA-HamedNeural", "zh": "zh-CN-YunyangNeural", "ja": "ja-JP-KeitaNeural",
          "ko": "ko-KR-InJoonNeural", "hi": "hi-IN-MadhurNeural", "uz": "uz-UZ-SardorNeural"}
 LANGS = list(S)
+
+
+# Строка для клиник в описании каждого ролика (24.10.2026)
+CLINIC_LINE = {
+"ru": "Вы клиника? Подключите эти памятки для своих пациентов: QR у кабинета, 11 языков, 30 дней бесплатно. https://easymedglobal.com/ru/clinics/start/",
+"en": "Are you a clinic? Give these guides to your patients: a QR code by the exam room, 11 languages, 30 days free. https://easymedglobal.com/clinics/start/",
+"kk": "Сіз клиникасыз ба? Осы жадынамаларды пациенттеріңізге беріңіз: кабинет жанында QR, 11 тіл, 30 күн тегін. https://easymedglobal.com/clinics/start/",
+"uz": "Siz klinikamisiz? Bu yo‘riqnomalarni bemorlaringizga bering: xona yonida QR, 11 til, 30 kun bepul. https://easymedglobal.com/clinics/start/",
+"es": "¿Es una clínica? Ofrezca estas guías a sus pacientes: código QR junto a la sala, 11 idiomas, 30 días gratis. https://easymedglobal.com/clinics/start/",
+"pt": "É uma clínica? Ofereça estes guias aos seus pacientes: QR code ao lado da sala, 11 idiomas, 30 dias grátis. https://easymedglobal.com/clinics/start/",
+"ar": "هل أنتم عيادة؟ قدّموا هذه الإرشادات لمرضاكم: رمز QR بجانب غرفة الفحص، 11 لغة، 30 يومًا مجانًا. https://easymedglobal.com/clinics/start/",
+"zh": "您是医疗机构吗？ 把这些指南提供给您的患者：检查室旁贴二维码，11种语言，免费试用30天。 https://easymedglobal.com/clinics/start/",
+"ja": "医療機関の方へ このガイドを患者さんに：検査室の横にQRコード、11言語、30日間無料。 https://easymedglobal.com/clinics/start/",
+"ko": "병원이신가요? 이 안내를 환자에게 제공하세요: 검사실 옆 QR 코드, 11개 언어, 30일 무료. https://easymedglobal.com/clinics/start/",
+"hi": "क्या आप क्लिनिक हैं? ये गाइड अपने मरीज़ों को दें: जाँच कक्ष के पास QR कोड, 11 भाषाएँ, 30 दिन मुफ़्त। https://easymedglobal.com/clinics/start/"
+}
